@@ -1,0 +1,5353 @@
+1
+00:02:25,841 --> 00:02:28,230  X1:192 X2:527 Y1:458 Y2:500
+<i>Ladies and gentlemen...</i>
+
+2
+00:02:28,361 --> 00:02:32,400  X1:127 X2:593 Y1:458 Y2:534
+<i>...it's a pleasure for me to be here</i>
+<i>on such a beautiful day...</i>
+
+3
+00:02:32,601 --> 00:02:35,240  X1:160 X2:558 Y1:458 Y2:500
+<i>...in the great city of Detroit.</i>
+
+4
+00:02:36,401 --> 00:02:38,961  X1:166 X2:551 Y1:458 Y2:500
+<i>And l'd love to tell you all...</i>
+
+5
+00:02:39,161 --> 00:02:42,517  X1:081 X2:637 Y1:458 Y2:500
+<i>...to sit back, relax and enjoy yourselves.</i>
+
+6
+00:02:43,081 --> 00:02:44,878  X1:268 X2:449 Y1:458 Y2:495
+<i>l'd love to...</i>
+
+7
+00:02:45,041 --> 00:02:48,033  X1:118 X2:600 Y1:458 Y2:500
+<i>...but unfortunately, l can't do that.</i>
+
+8
+00:02:48,521 --> 00:02:52,878  X1:108 X2:615 Y1:458 Y2:534
+<i>There's a very serious issue spiraling</i>
+<i>out of control in this country.</i>
+
+9
+00:02:53,041 --> 00:02:56,317  X1:163 X2:555 Y1:458 Y2:529
+<i>lllegal handguns ending up</i>
+<i>in the hands of our children.</i>
+
+10
+00:02:59,481 --> 00:03:04,077  X1:121 X2:597 Y1:458 Y2:534
+<i>lnstead ofreading offstatistics</i>
+<i>that you might not already know...</i>
+
+11
+00:03:04,281 --> 00:03:09,150  X1:087 X2:636 Y1:458 Y2:534
+<i>...that last year, more preschoolers died</i>
+<i>from guns than police officers...</i>
+
+12
+00:03:09,361 --> 00:03:12,717  X1:089 X2:629 Y1:458 Y2:534
+<i>...or that gunshot wounds</i>
+<i>are the second leading cause of death...</i>
+
+13
+00:03:12,881 --> 00:03:15,190  X1:079 X2:639 Y1:458 Y2:500
+<i>...for all people in the U.S., ages 10 to 34.</i>
+
+14
+00:03:17,961 --> 00:03:20,429  X1:232 X2:486 Y1:458 Y2:495
+Hold it<i>.</i> Go on in<i>.</i>
+
+15
+00:03:40,881 --> 00:03:45,193  X1:081 X2:637 Y1:458 Y2:534
+<i>While he lay bleeding to death</i>
+<i>for 40 minutes, waiting for help to come.</i>
+
+16
+00:03:46,441 --> 00:03:48,750  X1:186 X2:533 Y1:458 Y2:500
+<i>Darren was 16 years old.</i>
+
+17
+00:03:49,201 --> 00:03:52,034  X1:171 X2:551 Y1:458 Y2:534
+<i>That could've been any one</i>
+<i>of your children.</i>
+
+18
+00:03:52,961 --> 00:03:56,749  X1:089 X2:631 Y1:458 Y2:534
+<i>l hope you'll consider my four</i>-<i>year plan</i>
+<i>to get guns off the streets.</i>
+
+19
+00:03:57,801 --> 00:03:59,792  X1:122 X2:595 Y1:458 Y2:500
+<i>l need your help and your support.</i>
+
+20
+00:04:00,441 --> 00:04:04,480  X1:123 X2:595 Y1:458 Y2:534
+<i>Let's stop the pain and suffering</i>
+<i>Darren's family had to go through.</i>
+
+21
+00:04:04,561 --> 00:04:06,313  X1:155 X2:564 Y1:458 Y2:500
+<i>God bless you and thank you.</i>
+
+22
+00:04:09,401 --> 00:04:13,155  X1:157 X2:560 Y1:458 Y2:529
+-He just loves pissing me off<i>.</i>
+-l'm sure he has his reasons<i>.</i>
+
+23
+00:04:20,881 --> 00:04:22,280  X1:261 X2:456 Y1:458 Y2:495
+Thanks a lot<i>.</i>
+
+24
+00:04:23,921 --> 00:04:25,195  X1:274 X2:444 Y1:458 Y2:500
+Thank you<i>.</i>
+
+25
+00:04:30,321 --> 00:04:31,231  X1:305 X2:413 Y1:458 Y2:495
+Relax<i>.</i>
+
+26
+00:04:31,561 --> 00:04:32,755  X1:250 X2:467 Y1:458 Y2:495
+l'll talk to him<i>.</i>
+
+27
+00:04:33,001 --> 00:04:34,480  X1:199 X2:519 Y1:458 Y2:500
+Thank you, everybody<i>.</i>
+
+28
+00:04:34,681 --> 00:04:37,195  X1:140 X2:578 Y1:458 Y2:500
+How are you? Good to see you<i>.</i>
+
+29
+00:04:38,121 --> 00:04:39,839  X1:194 X2:524 Y1:458 Y2:498
+Mr<i>.</i> Vice President, sir?
+
+30
+00:05:23,121 --> 00:05:25,032  X1:161 X2:557 Y1:458 Y2:500
+Bobby, what the hell is this?
+
+31
+00:05:25,881 --> 00:05:27,200  X1:205 X2:511 Y1:458 Y2:500
+You believe this guy?
+
+32
+00:05:43,121 --> 00:05:45,794  X1:174 X2:544 Y1:458 Y2:534
+Sorry, the bridge is closed
+until the V<i>.</i>P<i>.</i> gets across<i>.</i>
+
+33
+00:05:46,001 --> 00:05:48,276  X1:184 X2:533 Y1:458 Y2:529
+You can't stay here<i>.</i>
+You have to move it out<i>.</i>
+
+34
+00:05:59,401 --> 00:06:00,720  X1:247 X2:468 Y1:458 Y2:532
+-Shit!
+-Get down, sir!
+
+35
+00:06:00,921 --> 00:06:02,149  X1:222 X2:493 Y1:458 Y2:495
+Get us out of here!
+
+36
+00:06:09,481 --> 00:06:10,470  X1:272 X2:446 Y1:458 Y2:495
+Excuse me<i>.</i>
+
+37
+00:06:12,761 --> 00:06:15,400  X1:167 X2:552 Y1:458 Y2:534
+<i>Officers need help!</i>
+<i>On the bridge! Shots fired!</i>
+
+38
+00:06:15,561 --> 00:06:19,918  X1:085 X2:636 Y1:458 Y2:534
+<i>Warn the D.P., they are dressed as cops!</i>
+<i>Repeat: They are dressed as cops!</i>
+
+39
+00:06:20,321 --> 00:06:22,630  X1:115 X2:604 Y1:458 Y2:500
+<i>Alpha six to Bravo Air, keep cover</i>--
+
+40
+00:06:28,001 --> 00:06:29,992  X1:171 X2:546 Y1:458 Y2:534
+-Stay down!
+-What the hell is going on?
+
+41
+00:06:31,481 --> 00:06:34,120  X1:189 X2:532 Y1:458 Y2:529
+<i>No cops on the bridge.</i>
+<i>We can't tell who's who.</i>
+
+42
+00:06:34,321 --> 00:06:37,119  X1:111 X2:608 Y1:458 Y2:500
+<i>No Detroit P.D., Secret Service only.</i>
+
+43
+00:06:39,121 --> 00:06:41,396  X1:173 X2:542 Y1:458 Y2:529
+Officers need help<i>.</i>
+Motorcade's under attack!
+
+44
+00:06:41,481 --> 00:06:44,075  X1:159 X2:559 Y1:458 Y2:534
+<i>All units, stay off the bridge,</i>
+<i>as per Secret Service.</i>
+
+45
+00:06:53,761 --> 00:06:55,319  X1:183 X2:536 Y1:458 Y2:500
+<i>All units stay offbridge</i>--
+
+46
+00:06:55,401 --> 00:06:57,551  X1:071 X2:644 Y1:458 Y2:500
+Goddamn it, l told you to clear the bridge!
+
+47
+00:06:57,801 --> 00:06:59,439  X1:227 X2:490 Y1:458 Y2:500
+Bring the truck in!
+
+48
+00:07:04,121 --> 00:07:06,316  X1:124 X2:591 Y1:458 Y2:500
+Goddamn it! Secret Service only!
+
+49
+00:07:06,521 --> 00:07:07,795  X1:210 X2:507 Y1:458 Y2:495
+Who the hell is that?
+
+50
+00:07:20,841 --> 00:07:21,796  X1:266 X2:449 Y1:458 Y2:495
+Get me out!
+
+51
+00:07:27,801 --> 00:07:29,314  X1:213 X2:503 Y1:458 Y2:529
+-Get me out of here!
+-Get in<i>.</i>
+
+52
+00:07:29,521 --> 00:07:31,512  X1:103 X2:615 Y1:458 Y2:500
+Who the hell are you? Off the bridge<i>.</i>
+
+53
+00:07:31,601 --> 00:07:33,876  X1:066 X2:651 Y1:458 Y2:500
+We're not moving till the transport arrives<i>.</i>
+
+54
+00:07:33,961 --> 00:07:36,600  X1:142 X2:573 Y1:458 Y2:534
+l'm not talking to you!
+Mr<i>.</i> Vice President, get in here!
+
+55
+00:07:39,161 --> 00:07:40,958  X1:188 X2:528 Y1:458 Y2:500
+We need help here now!
+
+56
+00:07:42,641 --> 00:07:44,632  X1:194 X2:523 Y1:458 Y2:500
+<i>Alpha one to Alpha six.</i>
+
+57
+00:07:47,081 --> 00:07:49,515  X1:080 X2:636 Y1:458 Y2:500
+Move it out! Everything's under control!
+
+58
+00:07:50,321 --> 00:07:51,037  X1:301 X2:414 Y1:458 Y2:495
+Jesus!
+
+59
+00:07:51,241 --> 00:07:52,674  X1:170 X2:551 Y1:458 Y2:500
+<i>Take out the Alpha vehicle!</i>
+
+60
+00:08:43,561 --> 00:08:45,677  X1:151 X2:567 Y1:458 Y2:500
+l'm sorry, sir<i>.</i> l got to do this<i>.</i>
+
+61
+00:08:45,841 --> 00:08:48,719  X1:222 X2:496 Y1:458 Y2:495
+Shit! l can't swim<i>.</i>
+
+62
+00:08:59,441 --> 00:09:00,760  X1:266 X2:451 Y1:458 Y2:495
+Don't move!
+
+63
+00:09:06,961 --> 00:09:08,076  X1:297 X2:419 Y1:458 Y2:495
+Freeze!
+
+64
+00:09:08,281 --> 00:09:09,839  X1:185 X2:533 Y1:458 Y2:500
+lt's okay<i>.</i> l'm on the job<i>.</i>
+
+65
+00:09:16,201 --> 00:09:17,520  X1:242 X2:475 Y1:458 Y2:500
+We got you, sir<i>.</i>
+
+66
+00:09:17,721 --> 00:09:19,518  X1:142 X2:575 Y1:458 Y2:500
+You're going to be all right, sir<i>.</i>
+
+67
+00:09:24,401 --> 00:09:27,359  X1:119 X2:600 Y1:458 Y2:529
+Why did you drive onto that bridge
+and start World War lll?
+
+68
+00:09:27,561 --> 00:09:30,121  X1:199 X2:518 Y1:458 Y2:534
+-l saved his life, Frank<i>.</i>
+-You were lucky, Orin<i>.</i>
+
+69
+00:09:30,201 --> 00:09:31,316  X1:238 X2:481 Y1:458 Y2:500
+Extremely lucky<i>.</i>
+
+70
+00:09:31,401 --> 00:09:34,677  X1:097 X2:622 Y1:458 Y2:534
+The Secret Service gave a direct order
+not to storm that bridge!
+
+71
+00:09:34,921 --> 00:09:37,389  X1:080 X2:636 Y1:458 Y2:500
+They were responsible for him<i>.</i> Not you!
+
+72
+00:09:37,761 --> 00:09:40,434  X1:142 X2:575 Y1:458 Y2:529
+-What if it went the other way?
+-l didn't vote for him<i>.</i>
+
+73
+00:09:40,521 --> 00:09:41,954  X1:210 X2:507 Y1:458 Y2:500
+This is funny to you?
+
+74
+00:09:42,161 --> 00:09:44,038  X1:190 X2:529 Y1:458 Y2:529
+-What's funny to me is--
+-Cut it out<i>.</i>
+
+75
+00:09:45,881 --> 00:09:46,916  X1:240 X2:478 Y1:458 Y2:500
+Who were they?
+
+76
+00:09:47,561 --> 00:09:49,199  X1:144 X2:574 Y1:458 Y2:500
+Some Michigan militant group<i>.</i>
+
+77
+00:09:49,681 --> 00:09:51,512  X1:185 X2:533 Y1:458 Y2:529
+-Live by the sword, man<i>.</i>
+-Sit down<i>.</i>
+
+78
+00:09:58,121 --> 00:10:00,760  X1:105 X2:613 Y1:458 Y2:534
+Look, Orin<i>.</i>
+We've known each other a long time<i>.</i>
+
+79
+00:10:01,481 --> 00:10:03,392  X1:111 X2:607 Y1:458 Y2:500
+l am your friend, but also your boss<i>.</i>
+
+80
+00:10:03,601 --> 00:10:07,071  X1:090 X2:626 Y1:458 Y2:534
+As your friend, you don't follow orders<i>.</i>
+You're unmanageable<i>.</i>
+
+81
+00:10:07,281 --> 00:10:09,670  X1:193 X2:524 Y1:458 Y2:534
+You don't obey the law
+or think before you act<i>.</i>
+
+82
+00:10:09,881 --> 00:10:12,918  X1:111 X2:605 Y1:458 Y2:500
+And now, as your boss, you're fired<i>.</i>
+
+83
+00:10:13,161 --> 00:10:15,197  X1:195 X2:522 Y1:458 Y2:534
+-Just like that<i>.</i>
+-Hinges wants you out<i>.</i>
+
+84
+00:10:15,401 --> 00:10:16,834  X1:185 X2:532 Y1:458 Y2:500
+There's nothing l can do<i>.</i>
+
+85
+00:10:17,081 --> 00:10:19,390  X1:130 X2:588 Y1:458 Y2:534
+You want to talk to him yourself,
+be my guest<i>.</i>
+
+86
+00:10:19,481 --> 00:10:20,834  X1:250 X2:470 Y1:458 Y2:495
+<i>Now handle it!</i>
+
+87
+00:10:27,961 --> 00:10:30,270  X1:115 X2:601 Y1:458 Y2:500
+You are like a cockroach, Mr<i>.</i> Boyd<i>.</i>
+
+88
+00:10:30,441 --> 00:10:33,751  X1:133 X2:586 Y1:458 Y2:534
+Every time l try to get rid of you,
+you appeal to the union<i>...</i>
+
+89
+00:10:33,841 --> 00:10:36,196  X1:079 X2:640 Y1:458 Y2:500
+<i>...</i>and they send your ass right back here<i>.</i>
+
+90
+00:10:36,681 --> 00:10:37,830  X1:231 X2:487 Y1:458 Y2:495
+But not this time<i>.</i>
+
+91
+00:10:38,521 --> 00:10:42,196  X1:098 X2:621 Y1:458 Y2:534
+l've been talking to the Secret Service
+figuring out what to do with you<i>.</i>
+
+92
+00:10:42,841 --> 00:10:44,593  X1:120 X2:597 Y1:458 Y2:500
+They want you to suffer, Mr<i>.</i> Boyd<i>.</i>
+
+93
+00:10:45,001 --> 00:10:48,038  X1:137 X2:579 Y1:458 Y2:534
+They want you to suffer bad
+for that stupid stunt you pulled<i>.</i>
+
+94
+00:10:48,761 --> 00:10:51,958  X1:126 X2:590 Y1:458 Y2:500
+And l must say, l do not disagree<i>.</i>
+
+95
+00:10:52,721 --> 00:10:54,234  X1:170 X2:547 Y1:458 Y2:500
+You guys are unbelievable<i>.</i>
+
+96
+00:10:54,441 --> 00:10:56,909  X1:070 X2:647 Y1:458 Y2:500
+l saw a problem, l fixed it<i>.</i> Simple as that<i>.</i>
+
+97
+00:10:57,161 --> 00:10:58,958  X1:182 X2:536 Y1:458 Y2:500
+That's bullshit, Mr<i>.</i> Boyd<i>.</i>
+
+98
+00:10:59,161 --> 00:11:01,152  X1:175 X2:544 Y1:458 Y2:500
+Because of cops like you<i>...</i>
+
+99
+00:11:01,801 --> 00:11:03,792  X1:094 X2:624 Y1:458 Y2:500
+<i>...</i>police have a bad image everywhere<i>.</i>
+
+100
+00:11:04,201 --> 00:11:07,193  X1:151 X2:566 Y1:458 Y2:534
+You won't pin that on me<i>.</i>
+l stick my neck out every day<i>.</i>
+
+101
+00:11:07,401 --> 00:11:10,916  X1:077 X2:641 Y1:458 Y2:534
+You remind me of bureaucrats in the '60s
+sending kids to fight in Vietnam<i>.</i>
+
+102
+00:11:11,081 --> 00:11:13,117  X1:099 X2:618 Y1:458 Y2:500
+l'm not going to send you to Vietnam<i>.</i>
+
+103
+00:11:13,201 --> 00:11:16,034  X1:121 X2:596 Y1:458 Y2:529
+-l'm going to send you to the 15th<i>.</i>
+-That shithole<i>.</i>
+
+104
+00:11:16,121 --> 00:11:17,713  X1:234 X2:483 Y1:458 Y2:500
+You'll fit right in<i>.</i>
+
+105
+00:11:33,401 --> 00:11:34,436  X1:234 X2:483 Y1:458 Y2:500
+Come on, get up<i>.</i>
+
+106
+00:11:35,641 --> 00:11:37,438  X1:195 X2:522 Y1:458 Y2:500
+l know my rights, man<i>.</i>
+
+107
+00:11:39,241 --> 00:11:40,390  X1:226 X2:491 Y1:458 Y2:495
+Knock off the shit!
+
+108
+00:11:40,961 --> 00:11:42,076  X1:263 X2:455 Y1:458 Y2:495
+Understand?
+
+109
+00:11:43,281 --> 00:11:44,714  X1:246 X2:472 Y1:458 Y2:500
+Can l help you?
+
+110
+00:11:44,921 --> 00:11:47,151  X1:065 X2:653 Y1:458 Y2:500
+l'm looking for the ringleader of this circus<i>.</i>
+
+111
+00:11:47,641 --> 00:11:49,711  X1:199 X2:518 Y1:458 Y2:500
+Yes, sir<i>.</i> And you are?
+
+112
+00:11:49,801 --> 00:11:52,998  X1:086 X2:632 Y1:458 Y2:529
+-Boyd<i>.</i> The commander's expecting me<i>.</i>
+-Follow me<i>.</i>
+
+113
+00:11:54,041 --> 00:11:55,918  X1:120 X2:597 Y1:458 Y2:500
+Commander's got a grip on things<i>.</i>
+
+114
+00:11:56,121 --> 00:11:58,351  X1:195 X2:523 Y1:458 Y2:534
+l've seen mental wards
+saner than this place<i>.</i>
+
+115
+00:12:21,721 --> 00:12:22,870  X1:222 X2:495 Y1:458 Y2:495
+Can we start over?
+
+116
+00:12:23,401 --> 00:12:26,120  X1:122 X2:595 Y1:458 Y2:500
+Too late for first impressions<i>.</i> Sit<i>.</i>
+
+117
+00:12:32,961 --> 00:12:37,034  X1:107 X2:609 Y1:458 Y2:534
+This year alone, three complaints
+filed against you for excessive force<i>.</i>
+
+118
+00:12:37,201 --> 00:12:39,396  X1:079 X2:638 Y1:458 Y2:495
+This doesn't seem like a hero's welcome<i>.</i>
+
+119
+00:12:39,481 --> 00:12:42,075  X1:168 X2:549 Y1:458 Y2:534
+You want to be welcomed?
+Stay out of the headlines<i>.</i>
+
+120
+00:12:42,161 --> 00:12:44,550  X1:137 X2:579 Y1:458 Y2:534
+Around here,
+there's no such thing as heroes<i>.</i>
+
+121
+00:12:44,641 --> 00:12:48,270  X1:097 X2:621 Y1:458 Y2:534
+l've got community activists swearing
+we treat everybody like criminals<i>...</i>
+
+122
+00:12:48,361 --> 00:12:50,795  X1:164 X2:556 Y1:458 Y2:534
+<i>...</i>and criminals all swearing
+they're altar boys<i>.</i>
+
+123
+00:12:50,881 --> 00:12:53,839  X1:138 X2:580 Y1:458 Y2:534
+Maybe l was never an altar boy,
+but the point is--
+
+124
+00:12:54,081 --> 00:12:57,312  X1:080 X2:637 Y1:458 Y2:534
+The point is,
+cops don't uphold the law by breaking it<i>.</i>
+
+125
+00:12:58,401 --> 00:13:01,074  X1:103 X2:616 Y1:458 Y2:534
+Now, you got a problem in my house,
+you come see me<i>.</i>
+
+126
+00:13:01,241 --> 00:13:04,074  X1:149 X2:573 Y1:458 Y2:534
+None of this Lone Ranger stuff
+that l keep hearing about<i>.</i>
+
+127
+00:13:05,001 --> 00:13:06,400  X1:226 X2:490 Y1:458 Y2:500
+Are you listening?
+
+128
+00:13:06,481 --> 00:13:09,120  X1:127 X2:591 Y1:458 Y2:529
+lf l have a problem,
+l'll come and see the commander<i>.</i>
+
+129
+00:13:09,201 --> 00:13:12,716  X1:100 X2:617 Y1:458 Y2:534
+All that stuff with the Vice President?
+A little water never hurt anybody<i>.</i>
+
+130
+00:13:12,801 --> 00:13:16,271  X1:147 X2:570 Y1:458 Y2:534
+But l am worried
+about your discipline problem<i>.</i>
+
+131
+00:13:16,601 --> 00:13:18,831  X1:064 X2:653 Y1:458 Y2:500
+l was thinking about putting you on a desk<i>.</i>
+
+132
+00:13:19,201 --> 00:13:21,669  X1:211 X2:506 Y1:458 Y2:529
+-l can't type<i>.</i>
+-l have a better idea<i>.</i>
+
+133
+00:13:22,601 --> 00:13:25,911  X1:063 X2:655 Y1:458 Y2:500
+Something that will broaden your horizons<i>.</i>
+
+134
+00:13:27,921 --> 00:13:29,149  X1:228 X2:489 Y1:458 Y2:500
+And then her dog<i>.</i>
+
+135
+00:13:31,041 --> 00:13:33,509  X1:154 X2:564 Y1:458 Y2:500
+Her dog gets so freaked out<i>...</i>
+
+136
+00:13:33,921 --> 00:13:37,231  X1:141 X2:577 Y1:458 Y2:495
+<i>...</i>he takes this enormous shit<i>...</i>
+
+137
+00:13:37,441 --> 00:13:39,750  X1:090 X2:628 Y1:458 Y2:500
+<i>...</i>right in the middle of the living room<i>.</i>
+
+138
+00:13:42,961 --> 00:13:45,350  X1:082 X2:636 Y1:458 Y2:500
+l chased that little bastard everywhere<i>...</i>
+
+139
+00:13:45,841 --> 00:13:47,593  X1:159 X2:560 Y1:458 Y2:500
+<i>...</i>until l finally cornered him<i>.</i>
+
+140
+00:13:47,681 --> 00:13:50,115  X1:076 X2:642 Y1:458 Y2:500
+l warned her not to buy a frigging poodle<i>.</i>
+
+141
+00:13:50,321 --> 00:13:53,358  X1:107 X2:611 Y1:458 Y2:534
+l never could have thrown
+a German Shepherd out the window<i>.</i>
+
+142
+00:13:57,481 --> 00:13:58,630  X1:308 X2:410 Y1:458 Y2:500
+Okay<i>.</i>
+
+143
+00:14:06,801 --> 00:14:08,154  X1:216 X2:502 Y1:458 Y2:495
+That's it<i>.</i> Let it out<i>.</i>
+
+144
+00:14:08,241 --> 00:14:10,709  X1:150 X2:567 Y1:458 Y2:500
+Okay? That's why we're here<i>.</i>
+
+145
+00:14:10,921 --> 00:14:14,470  X1:151 X2:568 Y1:458 Y2:534
+To talk through our problems,
+not to let it bottle up<i>.</i>
+
+146
+00:14:14,681 --> 00:14:15,670  X1:308 X2:410 Y1:458 Y2:500
+Okay<i>.</i>
+
+147
+00:14:16,241 --> 00:14:19,278  X1:148 X2:569 Y1:458 Y2:534
+And the rest of you,
+l want you to dig down deep<i>...</i>
+
+148
+00:14:19,521 --> 00:14:21,796  X1:139 X2:580 Y1:458 Y2:500
+<i>...</i>and ask yourself the question:
+
+149
+00:14:22,641 --> 00:14:26,031  X1:069 X2:649 Y1:458 Y2:500
+Why are we mad and what are we mad at?
+
+150
+00:14:27,481 --> 00:14:28,880  X1:262 X2:456 Y1:458 Y2:500
+Good<i>.</i> Okay<i>.</i>
+
+151
+00:14:30,481 --> 00:14:32,153  X1:200 X2:518 Y1:458 Y2:500
+Who'd like to go next?
+
+152
+00:14:33,681 --> 00:14:34,796  X1:250 X2:469 Y1:458 Y2:500
+Hey, everyone<i>.</i>
+
+153
+00:14:34,881 --> 00:14:35,791  X1:257 X2:461 Y1:458 Y2:500
+How are you?
+
+154
+00:14:35,881 --> 00:14:39,715  X1:083 X2:637 Y1:458 Y2:534
+For those of you just tuning in, my name
+is Henry Wayne, and l'm a rageaholic<i>.</i>
+
+155
+00:14:39,801 --> 00:14:42,759  X1:148 X2:570 Y1:458 Y2:534
+You probably all recognize me
+from my show, <i>Detroit A.M.</i>
+
+156
+00:14:44,841 --> 00:14:47,674  X1:131 X2:585 Y1:458 Y2:534
+You're probably wondering
+what happened to my head here<i>.</i>
+
+157
+00:14:47,761 --> 00:14:50,833  X1:152 X2:567 Y1:458 Y2:534
+l know it's always something,
+and l shouldn't lose my cool<i>.</i>
+
+158
+00:14:50,921 --> 00:14:53,276  X1:180 X2:537 Y1:458 Y2:534
+l was at Krispy Kreme,
+picking up a twelve-pack<i>.</i>
+
+159
+00:14:53,361 --> 00:14:54,840  X1:249 X2:469 Y1:458 Y2:534
+-And this guy--
+-Okay<i>.</i>
+
+160
+00:14:55,041 --> 00:14:57,635  X1:124 X2:594 Y1:458 Y2:500
+l'm so sorry to interrupt you but<i>...</i>
+
+161
+00:14:58,561 --> 00:15:00,711  X1:077 X2:642 Y1:458 Y2:500
+<i>...</i>l'm kind of looking for a fresh face next<i>.</i>
+
+162
+00:15:00,801 --> 00:15:01,916  X1:187 X2:531 Y1:458 Y2:500
+l've been sitting there<i>....</i>
+
+163
+00:15:02,001 --> 00:15:03,354  X1:204 X2:513 Y1:458 Y2:500
+We'll get back to you<i>.</i>
+
+164
+00:15:03,441 --> 00:15:06,239  X1:179 X2:538 Y1:458 Y2:534
+l'm a ticking time bomb,
+and l'm ready to implode<i>.</i>
+
+165
+00:15:06,321 --> 00:15:07,754  X1:191 X2:528 Y1:458 Y2:500
+Let's solve my problem<i>.</i>
+
+166
+00:15:08,161 --> 00:15:09,071  X1:281 X2:435 Y1:458 Y2:495
+Sit down!
+
+167
+00:15:13,481 --> 00:15:14,436  X1:308 X2:410 Y1:458 Y2:500
+Okay<i>.</i>
+
+168
+00:15:15,841 --> 00:15:17,638  X1:184 X2:534 Y1:458 Y2:500
+So, who's it going to be?
+
+169
+00:15:20,241 --> 00:15:23,836  X1:116 X2:602 Y1:458 Y2:534
+Mr<i>.</i> Boyd?
+l believe that you were sent to us<i>...</i>
+
+170
+00:15:23,921 --> 00:15:26,276  X1:122 X2:596 Y1:458 Y2:495
+<i>...</i>because of work-related stress<i>...</i>
+
+171
+00:15:26,481 --> 00:15:28,631  X1:082 X2:637 Y1:458 Y2:500
+<i>...</i>aggression towards authority figures<i>...</i>
+
+172
+00:15:28,881 --> 00:15:31,759  X1:105 X2:613 Y1:458 Y2:500
+<i>...</i>and an all-around lack of discipline<i>.</i>
+
+173
+00:15:31,921 --> 00:15:35,755  X1:104 X2:613 Y1:458 Y2:534
+l'm fine<i>.</i> You can move on<i>.</i>
+Other people want to say something<i>.</i>
+
+174
+00:15:35,921 --> 00:15:40,358  X1:100 X2:618 Y1:458 Y2:534
+Mr<i>.</i> Boyd, denial is a classic symptom
+of unhealthy rage<i>.</i>
+
+175
+00:15:40,561 --> 00:15:43,473  X1:084 X2:634 Y1:458 Y2:500
+Okay? So why don't you just stand up<i>...</i>
+
+176
+00:15:43,681 --> 00:15:46,479  X1:097 X2:621 Y1:458 Y2:500
+<i>...</i>and tell us a little bit about yourself<i>.</i>
+
+177
+00:16:03,521 --> 00:16:05,989  X1:177 X2:540 Y1:458 Y2:534
+l'd like to make this clear:
+l don't have rage<i>.</i>
+
+178
+00:16:06,481 --> 00:16:08,472  X1:113 X2:604 Y1:458 Y2:500
+l'm a happy guy<i>.</i> You see this face?
+
+179
+00:16:09,361 --> 00:16:11,431  X1:149 X2:569 Y1:458 Y2:500
+This is a happy face<i>.</i> You all<i>...</i>
+
+180
+00:16:11,761 --> 00:16:14,480  X1:083 X2:635 Y1:458 Y2:500
+<i>...</i>would be lucky to be as happy as l am<i>.</i>
+
+181
+00:16:34,441 --> 00:16:36,397  X1:174 X2:543 Y1:458 Y2:500
+What am l, a shit magnet?
+
+182
+00:16:41,361 --> 00:16:43,113  X1:158 X2:559 Y1:458 Y2:500
+Junior, having a tough time?
+
+183
+00:16:43,201 --> 00:16:46,079  X1:139 X2:578 Y1:458 Y2:534
+You got to get in and out quick<i>.</i>
+l'm an expert at this<i>.</i>
+
+184
+00:16:46,161 --> 00:16:47,992  X1:121 X2:596 Y1:458 Y2:500
+l could do that in a blink of an eye<i>.</i>
+
+185
+00:16:48,081 --> 00:16:50,515  X1:182 X2:535 Y1:458 Y2:529
+-Why don't you show us?
+-Watch<i>.</i>
+
+186
+00:16:51,561 --> 00:16:53,995  X1:211 X2:506 Y1:458 Y2:534
+-Just like that<i>.</i> See?
+-You a magician?
+
+187
+00:16:54,121 --> 00:16:57,193  X1:111 X2:608 Y1:458 Y2:534
+You want me to show you
+how to pull a rabbit out of your ass?
+
+188
+00:16:58,441 --> 00:17:00,750  X1:142 X2:576 Y1:458 Y2:495
+Screw Linda<i>.</i> Come on back in<i>.</i>
+
+189
+00:17:00,841 --> 00:17:03,150  X1:189 X2:527 Y1:458 Y2:534
+Everybody's tearing
+the tops off their desks<i>.</i>
+
+190
+00:17:03,361 --> 00:17:04,794  X1:204 X2:514 Y1:458 Y2:500
+Who the hell are you?
+
+191
+00:17:04,881 --> 00:17:06,837  X1:168 X2:550 Y1:458 Y2:500
+Henry Wayne<i>. Detroit A.M.</i>
+
+192
+00:17:07,441 --> 00:17:09,352  X1:196 X2:521 Y1:458 Y2:529
+-This a friend of yours?
+-Yeah<i>.</i>
+
+193
+00:17:09,561 --> 00:17:12,155  X1:115 X2:602 Y1:458 Y2:534
+-Go back to class<i>.</i>
+-They're gonna kill me without you<i>.</i>
+
+194
+00:17:12,241 --> 00:17:15,278  X1:081 X2:637 Y1:458 Y2:534
+lf you stay here, they might kill you, too,
+so go back to class<i>.</i>
+
+195
+00:17:17,881 --> 00:17:19,712  X1:168 X2:547 Y1:458 Y2:498
+Jeez! Well, no! Well, shit!
+
+196
+00:17:19,921 --> 00:17:21,639  X1:170 X2:548 Y1:458 Y2:500
+l don't even know this guy<i>.</i>
+
+197
+00:17:22,121 --> 00:17:25,670  X1:067 X2:650 Y1:458 Y2:534
+Stay out of our class<i>.</i>
+We got people in there with real problems<i>.</i>
+
+198
+00:17:26,081 --> 00:17:29,278  X1:122 X2:596 Y1:458 Y2:534
+FYl, next week
+l'm doing a show on violent twins<i>.</i>
+
+199
+00:17:29,361 --> 00:17:31,511  X1:189 X2:527 Y1:458 Y2:529
+-Enough of this bullshit!
+-You're not twins?
+
+200
+00:17:31,721 --> 00:17:32,949  X1:209 X2:509 Y1:458 Y2:500
+Take the man's keys<i>.</i>
+
+201
+00:17:33,041 --> 00:17:34,269  X1:221 X2:497 Y1:458 Y2:500
+Give me your keys<i>.</i>
+
+202
+00:18:04,441 --> 00:18:07,114  X1:077 X2:639 Y1:458 Y2:500
+Stop it! Mr<i>.</i> Boyd, stop hitting that man!
+
+203
+00:18:10,361 --> 00:18:13,956  X1:093 X2:625 Y1:458 Y2:534
+Mr<i>.</i> Boyd! What're you doing?
+This is no way to deal with your anger<i>.</i>
+
+204
+00:18:14,041 --> 00:18:17,477  X1:098 X2:616 Y1:458 Y2:534
+Screw that, man! You kill
+those bastards! They tried to pop us!
+
+205
+00:18:17,961 --> 00:18:20,680  X1:178 X2:539 Y1:458 Y2:534
+Did you guys see that?
+Can you believe this shit?
+
+206
+00:18:21,161 --> 00:18:24,836  X1:089 X2:630 Y1:458 Y2:534
+Boyd is such a bad-ass<i>.</i> He could easily
+win a tough-men competition<i>.</i>
+
+207
+00:18:24,921 --> 00:18:27,993  X1:126 X2:591 Y1:458 Y2:534
+You guys just missed it,
+but l'm glad l got here when l did<i>.</i>
+
+208
+00:18:28,201 --> 00:18:31,511  X1:118 X2:598 Y1:458 Y2:534
+Boyd's a cop! He's a cop!
+He gets to do this shit all the time!
+
+209
+00:18:31,721 --> 00:18:33,951  X1:193 X2:523 Y1:458 Y2:534
+We're going to have
+great stories for group!
+
+210
+00:18:37,241 --> 00:18:39,072  X1:118 X2:598 Y1:458 Y2:500
+You see how happy l make others?
+
+211
+00:18:43,201 --> 00:18:44,350  X1:276 X2:442 Y1:458 Y2:500
+Hey, Boyd<i>.</i>
+
+212
+00:18:46,201 --> 00:18:47,714  X1:246 X2:471 Y1:458 Y2:500
+Good job, man<i>.</i>
+
+213
+00:18:50,721 --> 00:18:52,074  X1:181 X2:536 Y1:458 Y2:500
+We'll see you next week?
+
+214
+00:18:54,761 --> 00:18:56,717  X1:133 X2:583 Y1:458 Y2:500
+Come on, guys! That was great!
+
+215
+00:18:56,921 --> 00:18:59,037  X1:085 X2:632 Y1:458 Y2:498
+Now, was that cool, or what? Come on!
+
+216
+00:19:32,201 --> 00:19:33,680  X1:180 X2:537 Y1:458 Y2:500
+Who are you here to see?
+
+217
+00:19:33,881 --> 00:19:34,950  X1:252 X2:466 Y1:458 Y2:495
+Shaun Rollins<i>.</i>
+
+218
+00:19:35,401 --> 00:19:37,198  X1:255 X2:462 Y1:458 Y2:529
+-And you are?
+-A friend<i>.</i>
+
+219
+00:19:37,881 --> 00:19:39,394  X1:282 X2:436 Y1:458 Y2:495
+Photo l<i>.</i>D<i>.</i>
+
+220
+00:19:43,121 --> 00:19:44,349  X1:295 X2:422 Y1:458 Y2:500
+Sign in<i>.</i>
+
+221
+00:19:47,841 --> 00:19:49,354  X1:242 X2:476 Y1:458 Y2:495
+Back to the left<i>.</i>
+
+222
+00:20:07,641 --> 00:20:08,790  X1:210 X2:509 Y1:458 Y2:500
+How you holding up?
+
+223
+00:20:09,721 --> 00:20:10,915  X1:225 X2:493 Y1:458 Y2:498
+Not too well, man<i>.</i>
+
+224
+00:20:11,441 --> 00:20:13,352  X1:199 X2:519 Y1:458 Y2:500
+Straight losing it, dog<i>.</i>
+
+225
+00:20:13,521 --> 00:20:15,751  X1:114 X2:603 Y1:458 Y2:500
+l can only take so much of this shit<i>.</i>
+
+226
+00:20:15,921 --> 00:20:19,118  X1:164 X2:554 Y1:458 Y2:529
+-What's up with my lawyer?
+-l talked to him<i>.</i>
+
+227
+00:20:19,321 --> 00:20:21,437  X1:102 X2:616 Y1:458 Y2:500
+Slow motion<i>.</i> You know, the system<i>.</i>
+
+228
+00:20:21,641 --> 00:20:23,154  X1:199 X2:519 Y1:458 Y2:498
+No, l don't know, man<i>.</i>
+
+229
+00:20:23,801 --> 00:20:26,031  X1:148 X2:570 Y1:458 Y2:534
+l need to know
+how much time l'm looking at<i>.</i>
+
+230
+00:20:26,121 --> 00:20:28,032  X1:159 X2:560 Y1:458 Y2:500
+Nobody's telling me nothing<i>.</i>
+
+231
+00:20:30,521 --> 00:20:31,715  X1:260 X2:457 Y1:458 Y2:495
+l don't know<i>.</i>
+
+232
+00:20:34,441 --> 00:20:35,760  X1:275 X2:443 Y1:458 Y2:498
+Fuck, man<i>.</i>
+
+233
+00:20:36,281 --> 00:20:37,953  X1:217 X2:500 Y1:458 Y2:495
+This shit is bullshit<i>.</i>
+
+234
+00:20:38,601 --> 00:20:40,717  X1:114 X2:605 Y1:458 Y2:500
+Fuck do you mean, you don't know?
+
+235
+00:20:41,481 --> 00:20:44,359  X1:121 X2:596 Y1:458 Y2:532
+You got to see the Jeffrey Dahmer
+look-alikes in here, man<i>.</i>
+
+236
+00:20:44,441 --> 00:20:45,999  X1:282 X2:436 Y1:458 Y2:500
+lt's crazy<i>.</i>
+
+237
+00:20:46,641 --> 00:20:49,951  X1:130 X2:589 Y1:458 Y2:534
+lt's like l can't even turn my back
+to take a piss up in here, man<i>.</i>
+
+238
+00:20:53,241 --> 00:20:54,196  X1:300 X2:418 Y1:458 Y2:495
+Shaun<i>.</i>
+
+239
+00:21:00,121 --> 00:21:02,032  X1:186 X2:531 Y1:458 Y2:500
+You got to stay focused<i>.</i>
+
+240
+00:21:03,801 --> 00:21:06,873  X1:112 X2:604 Y1:458 Y2:534
+Do whatever you got to do
+to make sure that you safe in there<i>.</i>
+
+241
+00:21:09,081 --> 00:21:11,037  X1:095 X2:622 Y1:458 Y2:500
+l got everything on the street covered<i>.</i>
+
+242
+00:21:12,081 --> 00:21:13,719  X1:148 X2:570 Y1:458 Y2:500
+Nobody's forgotten about you<i>.</i>
+
+243
+00:21:17,041 --> 00:21:18,315  X1:292 X2:427 Y1:458 Y2:500
+Nobody<i>.</i>
+
+244
+00:21:48,841 --> 00:21:50,672  X1:167 X2:551 Y1:458 Y2:500
+Don't worry<i>.</i> l've got them<i>.</i>
+
+245
+00:21:50,881 --> 00:21:53,873  X1:075 X2:643 Y1:458 Y2:534
+They're my people,
+and if they're not buying, they're walking<i>.</i>
+
+246
+00:21:58,201 --> 00:22:01,511  X1:148 X2:569 Y1:458 Y2:500
+This is what l'm talking about<i>.</i>
+
+247
+00:22:03,801 --> 00:22:04,756  X1:276 X2:442 Y1:458 Y2:495
+Nice color<i>.</i>
+
+248
+00:22:06,001 --> 00:22:07,116  X1:268 X2:450 Y1:458 Y2:500
+lf you Puffy<i>.</i>
+
+249
+00:22:09,121 --> 00:22:11,555  X1:180 X2:537 Y1:458 Y2:532
+-Shit!
+-Good afternoon, homies<i>.</i>
+
+250
+00:22:11,641 --> 00:22:15,600  X1:092 X2:627 Y1:458 Y2:534
+l'm Alan Morris, and if there's anything
+l could help you with, l'm your dog<i>.</i>
+
+251
+00:22:15,681 --> 00:22:18,593  X1:151 X2:567 Y1:458 Y2:529
+Get the fuck out of here, man<i>.</i>
+ls that the new 993 Turbo?
+
+252
+00:22:18,681 --> 00:22:21,559  X1:138 X2:579 Y1:458 Y2:500
+Actually, that's the 993 Carrera<i>.</i>
+
+253
+00:22:21,641 --> 00:22:25,998  X1:105 X2:613 Y1:458 Y2:534
+Shit! lt got 8 cylinders?
+They kick out 600 horsepower, right?
+
+254
+00:22:26,201 --> 00:22:29,352  X1:116 X2:602 Y1:458 Y2:500
+That's 6 cylinders, 475 horsepower<i>.</i>
+
+255
+00:22:29,761 --> 00:22:30,830  X1:278 X2:439 Y1:458 Y2:495
+Whatever<i>.</i>
+
+256
+00:22:30,921 --> 00:22:33,071  X1:109 X2:610 Y1:458 Y2:500
+Would you mind not leaning on the--
+
+257
+00:22:33,161 --> 00:22:36,278  X1:167 X2:549 Y1:458 Y2:534
+Shit! l could get some ass
+from the twins in this, dog<i>.</i>
+
+258
+00:22:36,401 --> 00:22:38,153  X1:117 X2:602 Y1:458 Y2:500
+Hello, Mrs<i>.</i> Johnson<i>.</i> How are you?
+
+259
+00:22:39,081 --> 00:22:40,036  X1:278 X2:441 Y1:458 Y2:500
+Hell, yeah<i>.</i>
+
+260
+00:22:41,481 --> 00:22:42,914  X1:169 X2:549 Y1:458 Y2:500
+Mrs<i>.</i> Johnson got a fat ass<i>.</i>
+
+261
+00:22:44,641 --> 00:22:46,597  X1:093 X2:624 Y1:458 Y2:500
+l got something for you, Mrs<i>.</i> Johnson<i>.</i>
+
+262
+00:22:46,801 --> 00:22:49,269  X1:067 X2:649 Y1:458 Y2:500
+You're not allowed to play any music here<i>.</i>
+
+263
+00:22:49,361 --> 00:22:50,999  X1:158 X2:560 Y1:458 Y2:500
+Could you turn it off, please?
+
+264
+00:22:51,481 --> 00:22:53,517  X1:104 X2:614 Y1:458 Y2:500
+Could you turn the music off, please?
+
+265
+00:22:54,361 --> 00:22:57,080  X1:117 X2:601 Y1:458 Y2:500
+Turn the music off, please, brother<i>.</i>
+
+266
+00:22:57,161 --> 00:22:59,277  X1:082 X2:635 Y1:458 Y2:500
+Look, can you turn the music off, please!
+
+267
+00:23:04,401 --> 00:23:07,359  X1:085 X2:632 Y1:458 Y2:534
+Can you not hear me?
+Could you turn the music down, please?
+
+268
+00:23:11,241 --> 00:23:13,232  X1:260 X2:455 Y1:458 Y2:495
+Yeah! Hit it!
+
+269
+00:23:13,721 --> 00:23:14,756  X1:254 X2:464 Y1:458 Y2:500
+lt is not a toy<i>.</i>
+
+270
+00:23:14,961 --> 00:23:16,997  X1:118 X2:599 Y1:458 Y2:500
+Mrs<i>.</i> Johnson was shaking her ass<i>.</i>
+
+271
+00:23:17,681 --> 00:23:20,275  X1:137 X2:579 Y1:458 Y2:534
+Mrs<i>.</i> Johnson!
+Shake your ass, baby<i>.</i> Shake it!
+
+272
+00:23:20,401 --> 00:23:21,390  X1:253 X2:465 Y1:458 Y2:495
+Mrs<i>.</i> Johnson<i>.</i>
+
+273
+00:23:22,201 --> 00:23:24,510  X1:070 X2:647 Y1:458 Y2:495
+You think l could hit some corners in this?
+
+274
+00:23:24,601 --> 00:23:26,000  X1:199 X2:519 Y1:458 Y2:495
+Take it on a test drive<i>.</i>
+
+275
+00:23:26,081 --> 00:23:28,720  X1:097 X2:621 Y1:458 Y2:500
+l'm sorry<i>.</i> Our policy is no test drives<i>.</i>
+
+276
+00:23:28,921 --> 00:23:30,798  X1:096 X2:622 Y1:458 Y2:500
+How about hooking a brother up then?
+
+277
+00:23:30,881 --> 00:23:32,439  X1:205 X2:514 Y1:458 Y2:500
+Hooking a brother up<i>.</i>
+
+278
+00:23:32,601 --> 00:23:35,877  X1:073 X2:645 Y1:458 Y2:500
+The cheapest car we have here is $75,000<i>.</i>
+
+279
+00:23:36,281 --> 00:23:37,236  X1:295 X2:423 Y1:458 Y2:495
+That it?
+
+280
+00:23:37,641 --> 00:23:39,950  X1:127 X2:591 Y1:458 Y2:532
+-lt got a lot of head room<i>.</i> Get it?
+-Yo, bro<i>.</i>
+
+281
+00:23:41,321 --> 00:23:42,640  X1:285 X2:433 Y1:458 Y2:495
+This is it<i>.</i>
+
+282
+00:23:42,881 --> 00:23:44,599  X1:284 X2:434 Y1:458 Y2:500
+Oh, yeah<i>.</i>
+
+283
+00:23:45,361 --> 00:23:47,317  X1:187 X2:531 Y1:458 Y2:500
+See? My man got taste<i>.</i>
+
+284
+00:23:47,481 --> 00:23:49,233  X1:149 X2:568 Y1:458 Y2:500
+Yes, well, he's got something<i>.</i>
+
+285
+00:23:49,641 --> 00:23:50,790  X1:312 X2:403 Y1:458 Y2:495
+Shit!
+
+286
+00:23:51,281 --> 00:23:53,511  X1:149 X2:568 Y1:458 Y2:534
+-You like it?
+-Yo, dog, this shit is hot, man<i>.</i>
+
+287
+00:23:54,321 --> 00:23:56,039  X1:198 X2:520 Y1:458 Y2:498
+How much? $200,000?
+
+288
+00:23:56,241 --> 00:23:57,833  X1:222 X2:495 Y1:458 Y2:500
+Actually, $285,000<i>.</i>
+
+289
+00:23:58,681 --> 00:24:01,115  X1:175 X2:543 Y1:458 Y2:532
+lt better suck and fuck me
+for $285,000, man<i>.</i>
+
+290
+00:24:01,721 --> 00:24:04,679  X1:095 X2:623 Y1:458 Y2:529
+Actually, there are only seven of these
+for sale in the U<i>.</i>S<i>.</i>
+
+291
+00:24:04,761 --> 00:24:05,910  X1:272 X2:446 Y1:458 Y2:500
+That many<i>.</i>
+
+292
+00:24:06,881 --> 00:24:10,317  X1:101 X2:617 Y1:458 Y2:532
+Pop the hood, man<i>.</i>
+l want to see what $285,000 look like<i>.</i>
+
+293
+00:24:10,521 --> 00:24:11,795  X1:240 X2:478 Y1:458 Y2:495
+That's the hood<i>.</i>
+
+294
+00:24:12,001 --> 00:24:13,719  X1:237 X2:480 Y1:458 Y2:495
+That's the trunk<i>.</i>
+
+295
+00:24:16,321 --> 00:24:17,276  X1:266 X2:451 Y1:458 Y2:500
+That's okay<i>.</i>
+
+296
+00:24:17,921 --> 00:24:19,240  X1:218 X2:499 Y1:458 Y2:500
+Yo, start it up, dog<i>.</i>
+
+297
+00:24:19,321 --> 00:24:23,075  X1:076 X2:642 Y1:458 Y2:534
+No, l'm sorry<i>.</i>
+lt's our policy<i>.</i> You can't start up the car<i>.</i>
+
+298
+00:24:23,161 --> 00:24:24,594  X1:230 X2:487 Y1:458 Y2:500
+lt's policy<i>.</i> Sorry<i>.</i>
+
+299
+00:24:25,401 --> 00:24:26,550  X1:260 X2:458 Y1:458 Y2:495
+What in the--
+
+300
+00:24:28,841 --> 00:24:29,990  X1:284 X2:433 Y1:458 Y2:500
+Hey, you!
+
+301
+00:24:30,321 --> 00:24:31,959  X1:216 X2:499 Y1:458 Y2:500
+Turn off the engine!
+
+302
+00:24:32,441 --> 00:24:35,717  X1:091 X2:627 Y1:458 Y2:534
+-Would you turn off the engine, please?
+-Yeah, yeah!
+
+303
+00:24:36,721 --> 00:24:40,031  X1:170 X2:546 Y1:458 Y2:534
+Could you turn off
+the motherfucking engine?
+
+304
+00:24:41,561 --> 00:24:42,994  X1:198 X2:518 Y1:458 Y2:500
+You don't have to yell<i>.</i>
+
+305
+00:24:43,161 --> 00:24:45,959  X1:146 X2:570 Y1:458 Y2:534
+All you had to do was ask<i>.</i>
+You'd get much better results<i>.</i>
+
+306
+00:24:46,161 --> 00:24:48,595  X1:168 X2:549 Y1:458 Y2:529
+-Will you please just leave?
+-No<i>.</i>
+
+307
+00:24:49,721 --> 00:24:51,154  X1:271 X2:446 Y1:458 Y2:495
+l want this<i>.</i>
+
+308
+00:24:52,201 --> 00:24:55,876  X1:069 X2:650 Y1:458 Y2:534
+Unless you decide you'd like to live in this,
+l suggest that you--
+
+309
+00:24:55,961 --> 00:24:59,158  X1:182 X2:536 Y1:458 Y2:534
+l suggest you get started
+on the paperwork<i>.</i>
+
+310
+00:25:00,601 --> 00:25:02,034  X1:160 X2:558 Y1:458 Y2:500
+What do these people think?
+
+311
+00:25:03,921 --> 00:25:04,876  X1:264 X2:453 Y1:458 Y2:500
+Oh, my God<i>.</i>
+
+312
+00:25:06,121 --> 00:25:07,520  X1:179 X2:539 Y1:458 Y2:498
+There's $300,000 in there<i>.</i>
+
+313
+00:25:07,601 --> 00:25:09,432  X1:115 X2:603 Y1:458 Y2:500
+Make sure he gets the commission<i>.</i>
+
+314
+00:25:09,521 --> 00:25:10,476  X1:287 X2:431 Y1:458 Y2:500
+He get<i>....</i>
+
+315
+00:25:12,281 --> 00:25:13,350  X1:234 X2:484 Y1:458 Y2:500
+Keep the change<i>.</i>
+
+316
+00:25:14,441 --> 00:25:15,954  X1:183 X2:535 Y1:458 Y2:500
+Maybe l made a mistake<i>.</i>
+
+317
+00:25:16,161 --> 00:25:17,230  X1:272 X2:444 Y1:458 Y2:495
+You know?
+
+318
+00:25:17,441 --> 00:25:21,070  X1:137 X2:580 Y1:458 Y2:534
+We're both homies<i>.</i>
+All of us here<i>.</i> Why don't you<i>....</i>
+
+319
+00:25:24,281 --> 00:25:27,557  X1:193 X2:524 Y1:458 Y2:500
+Homies! l'm your man!
+
+320
+00:25:30,041 --> 00:25:33,033  X1:168 X2:549 Y1:458 Y2:500
+Faster, dog! Yeah! Faster!
+
+321
+00:25:35,041 --> 00:25:36,235  X1:217 X2:501 Y1:458 Y2:500
+Okay, dog, go right<i>.</i>
+
+322
+00:25:36,441 --> 00:25:39,513  X1:146 X2:571 Y1:458 Y2:534
+Sit down, man<i>.</i>
+Can't afford to get pulled over<i>.</i>
+
+323
+00:25:40,481 --> 00:25:42,119  X1:170 X2:547 Y1:458 Y2:500
+We got a big night tonight<i>.</i>
+
+324
+00:26:16,041 --> 00:26:17,713  X1:132 X2:586 Y1:458 Y2:500
+Doesn't anybody sleep anymore?
+
+325
+00:26:21,961 --> 00:26:26,000  X1:126 X2:590 Y1:458 Y2:500
+Yeah<i>.</i> Bring you the goods, baby<i>.</i>
+
+326
+00:26:26,081 --> 00:26:26,957  X1:315 X2:401 Y1:458 Y2:500
+Hey!
+
+327
+00:26:27,041 --> 00:26:29,271  X1:178 X2:539 Y1:458 Y2:532
+-What are you looking at?
+-Oh, shit, man!
+
+328
+00:26:29,361 --> 00:26:32,990  X1:081 X2:637 Y1:458 Y2:534
+You always walk up on somebody
+like that? Could've given me a coronary<i>.</i>
+
+329
+00:26:33,081 --> 00:26:34,480  X1:179 X2:537 Y1:458 Y2:495
+You mind if l take a look?
+
+330
+00:26:36,681 --> 00:26:38,797  X1:243 X2:475 Y1:458 Y2:532
+-Bird watching?
+-No, man<i>.</i>
+
+331
+00:26:38,881 --> 00:26:41,600  X1:151 X2:565 Y1:458 Y2:534
+Just checking on my old lady<i>.</i>
+Keeping tabs on her<i>.</i>
+
+332
+00:26:41,681 --> 00:26:43,478  X1:146 X2:572 Y1:458 Y2:495
+Women<i>.</i> You can't trust them<i>.</i>
+
+333
+00:26:43,641 --> 00:26:47,111  X1:132 X2:587 Y1:458 Y2:534
+Not as far as l can throw her ass<i>.</i>
+And she a big bitch<i>.</i>
+
+334
+00:26:48,721 --> 00:26:50,598  X1:115 X2:603 Y1:458 Y2:500
+l don't see anything<i>.</i> Where is she?
+
+335
+00:26:51,201 --> 00:26:52,953  X1:130 X2:588 Y1:458 Y2:500
+Up in the corner over there, man<i>.</i>
+
+336
+00:26:53,041 --> 00:26:54,156  X1:293 X2:426 Y1:458 Y2:495
+No luck<i>.</i>
+
+337
+00:26:54,241 --> 00:26:56,835  X1:137 X2:581 Y1:458 Y2:534
+l think maybe you should
+go home and call her tomorrow<i>.</i>
+
+338
+00:26:56,921 --> 00:26:58,752  X1:134 X2:583 Y1:458 Y2:500
+Cool<i>.</i> Just give me my shit, bro<i>.</i>
+
+339
+00:26:58,841 --> 00:27:01,071  X1:283 X2:435 Y1:458 Y2:500
+l'm sorry<i>.</i>
+
+340
+00:27:01,521 --> 00:27:03,477  X1:204 X2:513 Y1:458 Y2:500
+Sure enough! Five-O<i>.</i>
+
+341
+00:27:03,681 --> 00:27:04,670  X1:300 X2:418 Y1:458 Y2:495
+Five-O<i>.</i>
+
+342
+00:27:05,921 --> 00:27:07,274  X1:247 X2:470 Y1:458 Y2:498
+Come on, man<i>.</i>
+
+343
+00:27:07,361 --> 00:27:11,195  X1:092 X2:626 Y1:458 Y2:534
+Shit! Come on, man<i>.</i> Quit treating me
+like l'm Tupac<i>.</i> lt's my hand!
+
+344
+00:27:11,401 --> 00:27:12,834  X1:211 X2:506 Y1:458 Y2:500
+What are you doing?
+
+345
+00:27:12,921 --> 00:27:16,152  X1:086 X2:631 Y1:458 Y2:534
+-l'm a cop<i>.</i> lt's all right<i>.</i>
+-Since when do cops make things okay?
+
+346
+00:27:16,241 --> 00:27:18,152  X1:085 X2:632 Y1:458 Y2:500
+Yeah, man! Since when do cops make--
+
+347
+00:27:18,241 --> 00:27:19,560  X1:212 X2:504 Y1:458 Y2:498
+Man, this shit hurts!
+
+348
+00:27:19,641 --> 00:27:21,518  X1:125 X2:590 Y1:458 Y2:500
+l'm a political prisoner here, man!
+
+349
+00:27:21,601 --> 00:27:23,956  X1:181 X2:535 Y1:458 Y2:534
+Yeah, he's Geronimo Fat<i>.</i>
+Now get out of here<i>.</i>
+
+350
+00:27:25,921 --> 00:27:28,037  X1:144 X2:572 Y1:458 Y2:500
+Hey, no, don't go! Don't leave!
+
+351
+00:27:28,241 --> 00:27:31,677  X1:125 X2:593 Y1:458 Y2:534
+He's going to try to put a plunger
+in my ass! What you doing, man?
+
+352
+00:27:31,761 --> 00:27:33,240  X1:220 X2:499 Y1:458 Y2:500
+Don't go anywhere<i>.</i>
+
+353
+00:27:33,721 --> 00:27:36,633  X1:157 X2:563 Y1:458 Y2:534
+Let's see if you have this shit
+when you get back out here!
+
+354
+00:27:40,841 --> 00:27:42,274  X1:280 X2:437 Y1:458 Y2:495
+Satisfied?
+
+355
+00:27:43,481 --> 00:27:44,436  X1:270 X2:449 Y1:458 Y2:495
+How much?
+
+356
+00:27:44,601 --> 00:27:47,320  X1:155 X2:562 Y1:458 Y2:532
+How about 25?
+With a cut here, a cut there<i>...</i>
+
+357
+00:27:47,681 --> 00:27:51,071  X1:098 X2:620 Y1:458 Y2:534
+<i>...</i>it'll double your money easily<i>.</i>
+Quickest quarter mil you'll ever make<i>.</i>
+
+358
+00:27:51,161 --> 00:27:53,436  X1:079 X2:638 Y1:458 Y2:500
+l need major weight<i>.</i> l need it yesterday<i>.</i>
+
+359
+00:27:53,521 --> 00:27:55,751  X1:070 X2:648 Y1:458 Y2:500
+l really don't want to see any more of this<i>.</i>
+
+360
+00:27:55,841 --> 00:27:58,958  X1:140 X2:578 Y1:458 Y2:534
+-Give me a ballpark figure<i>.</i>
+-Anywhere in the seven figures<i>.</i>
+
+361
+00:27:59,121 --> 00:28:01,999  X1:104 X2:617 Y1:458 Y2:500
+<i>Yo, it's Five</i>-<i>O! lt's a setup! Get out!</i>
+
+362
+00:29:02,281 --> 00:29:04,158  X1:117 X2:601 Y1:458 Y2:500
+Well, l guess the grill was optional<i>.</i>
+
+363
+00:29:04,241 --> 00:29:06,436  X1:180 X2:537 Y1:458 Y2:532
+You have the right
+to remain silent, asshole<i>.</i>
+
+364
+00:29:06,521 --> 00:29:08,512  X1:114 X2:603 Y1:458 Y2:500
+Take a look in my back pocket, cop<i>.</i>
+
+365
+00:29:08,721 --> 00:29:10,916  X1:136 X2:581 Y1:458 Y2:529
+You think you can buy your way
+out of this?
+
+366
+00:29:17,241 --> 00:29:20,074  X1:154 X2:564 Y1:458 Y2:529
+You just ruined three months
+of undercover work<i>.</i>
+
+367
+00:29:20,161 --> 00:29:21,992  X1:079 X2:638 Y1:458 Y2:500
+Think of the promotion you're gonna get<i>.</i>
+
+368
+00:29:28,001 --> 00:29:29,673  X1:180 X2:537 Y1:458 Y2:500
+Come on, let's go<i>.</i> Move<i>.</i>
+
+369
+00:29:41,321 --> 00:29:43,960  X1:140 X2:575 Y1:458 Y2:534
+-What are you doing?
+-l'm already in the intersection!
+
+370
+00:29:44,041 --> 00:29:46,635  X1:087 X2:633 Y1:458 Y2:534
+Next time you see a cop blow a whistle,
+pay attention<i>.</i>
+
+371
+00:29:46,721 --> 00:29:47,995  X1:280 X2:438 Y1:458 Y2:495
+Blow this<i>.</i>
+
+372
+00:29:59,961 --> 00:30:01,235  X1:211 X2:506 Y1:458 Y2:500
+What, are you blind?
+
+373
+00:30:04,241 --> 00:30:05,833  X1:282 X2:434 Y1:458 Y2:495
+Come on!
+
+374
+00:30:06,681 --> 00:30:08,433  X1:118 X2:600 Y1:458 Y2:500
+Where's a cop when you need one?
+
+375
+00:30:38,841 --> 00:30:39,751  X1:267 X2:449 Y1:458 Y2:495
+Fresh meat!
+
+376
+00:30:41,161 --> 00:30:42,196  X1:290 X2:427 Y1:458 Y2:495
+Montini<i>.</i>
+
+377
+00:30:42,881 --> 00:30:44,109  X1:264 X2:455 Y1:458 Y2:495
+Do me at 30<i>.</i>
+
+378
+00:30:47,681 --> 00:30:49,433  X1:321 X2:395 Y1:458 Y2:495
+Go!
+
+379
+00:31:03,121 --> 00:31:04,679  X1:282 X2:433 Y1:458 Y2:500
+Oh, yeah!
+
+380
+00:31:11,481 --> 00:31:12,800  X1:245 X2:474 Y1:458 Y2:500
+Hey, you, Boyd<i>.</i>
+
+381
+00:31:16,441 --> 00:31:17,715  X1:272 X2:447 Y1:458 Y2:498
+No, thanks<i>.</i>
+
+382
+00:31:20,441 --> 00:31:21,396  X1:260 X2:459 Y1:458 Y2:500
+Hey, Serpico<i>.</i>
+
+383
+00:31:22,361 --> 00:31:23,794  X1:203 X2:513 Y1:458 Y2:500
+Afraid of a little pain?
+
+384
+00:31:23,961 --> 00:31:25,633  X1:177 X2:541 Y1:458 Y2:500
+No, l'm just trying to quit<i>.</i>
+
+385
+00:31:25,721 --> 00:31:28,110  X1:185 X2:534 Y1:458 Y2:534
+Maybe you're just hiding
+a wire under your shirt<i>.</i>
+
+386
+00:31:28,201 --> 00:31:31,477  X1:089 X2:628 Y1:458 Y2:534
+-Think l'm a plant after the other night?
+-Maybe that was your cover<i>.</i>
+
+387
+00:31:31,561 --> 00:31:34,633  X1:085 X2:634 Y1:458 Y2:534
+Who knows? l<i>.</i>A<i>.</i>'s tried everything else
+to slip a mole in here<i>.</i>
+
+388
+00:31:38,641 --> 00:31:39,960  X1:287 X2:431 Y1:458 Y2:495
+Go for it<i>.</i>
+
+389
+00:31:41,961 --> 00:31:43,713  X1:180 X2:538 Y1:458 Y2:500
+Go easy on the first time<i>.</i>
+
+390
+00:31:43,921 --> 00:31:45,559  X1:205 X2:512 Y1:458 Y2:500
+Give him twenty-five<i>.</i>
+
+391
+00:32:06,521 --> 00:32:08,079  X1:209 X2:506 Y1:458 Y2:500
+Twenty-five, my ass!
+
+392
+00:32:24,281 --> 00:32:27,478  X1:083 X2:635 Y1:458 Y2:500
+The bad guys are out there<i>.</i> Not in here<i>.</i>
+
+393
+00:32:32,921 --> 00:32:34,149  X1:214 X2:501 Y1:458 Y2:500
+Give me my money!
+
+394
+00:32:36,681 --> 00:32:38,478  X1:160 X2:557 Y1:458 Y2:500
+See you making friends fast<i>.</i>
+
+395
+00:32:41,961 --> 00:32:45,954  X1:079 X2:637 Y1:458 Y2:534
+Just take some deep breaths, in and out<i>.</i>
+How do you feel?
+
+396
+00:32:46,041 --> 00:32:47,156  X1:276 X2:443 Y1:458 Y2:495
+Electrified<i>.</i>
+
+397
+00:32:47,921 --> 00:32:51,516  X1:190 X2:526 Y1:458 Y2:534
+Yeah, you'll be all right<i>.</i>
+lt's just a hazing thing<i>.</i>
+
+398
+00:32:52,041 --> 00:32:56,159  X1:171 X2:548 Y1:458 Y2:529
+Everybody goes through it<i>.</i>
+Welcome to the one-five<i>.</i>
+
+399
+00:33:02,841 --> 00:33:04,320  X1:269 X2:449 Y1:458 Y2:529
+-Orin Boyd?
+-Yeah<i>.</i>
+
+400
+00:33:04,521 --> 00:33:06,432  X1:136 X2:582 Y1:458 Y2:529
+-You're from the two-one, right?
+-Yeah<i>.</i>
+
+401
+00:33:06,521 --> 00:33:08,716  X1:063 X2:654 Y1:458 Y2:500
+They said you're coming<i>.</i> l'm George Clark<i>.</i>
+
+402
+00:33:08,801 --> 00:33:10,359  X1:176 X2:542 Y1:458 Y2:500
+Nice to meet you, George<i>.</i>
+
+403
+00:33:11,881 --> 00:33:14,111  X1:178 X2:539 Y1:458 Y2:534
+l mean, you know,
+you're like a legend, man<i>.</i>
+
+404
+00:33:14,201 --> 00:33:16,795  X1:141 X2:576 Y1:458 Y2:534
+l used to read about you
+in some new caper every week<i>.</i>
+
+405
+00:33:16,881 --> 00:33:19,076  X1:118 X2:599 Y1:458 Y2:529
+-Don't believe everything you read<i>.</i>
+-l don't<i>.</i>
+
+406
+00:33:19,161 --> 00:33:21,231  X1:093 X2:626 Y1:458 Y2:495
+But there was one l was curious about<i>.</i>
+
+407
+00:33:21,321 --> 00:33:23,789  X1:154 X2:564 Y1:458 Y2:529
+You really beat a suspect
+unconscious with a dead cat?
+
+408
+00:33:23,881 --> 00:33:24,870  X1:323 X2:395 Y1:458 Y2:495
+No<i>.</i>
+
+409
+00:33:25,561 --> 00:33:26,676  X1:236 X2:481 Y1:458 Y2:495
+Cat wasn't dead<i>.</i>
+
+410
+00:33:28,201 --> 00:33:29,873  X1:195 X2:521 Y1:458 Y2:500
+All right<i>.</i> That's funny<i>.</i>
+
+411
+00:33:30,161 --> 00:33:32,391  X1:138 X2:580 Y1:458 Y2:529
+Cop who came in to break it up,
+who was that?
+
+412
+00:33:32,481 --> 00:33:34,517  X1:146 X2:571 Y1:458 Y2:500
+Strutt<i>.</i> Sergeant Lewis Strutt<i>.</i>
+
+413
+00:33:35,001 --> 00:33:36,719  X1:161 X2:557 Y1:458 Y2:500
+He's a good man, a fair man<i>.</i>
+
+414
+00:33:37,441 --> 00:33:39,955  X1:124 X2:595 Y1:458 Y2:534
+Listen, don't worry about Montini<i>.</i>
+Shit happens<i>.</i>
+
+415
+00:33:40,161 --> 00:33:41,958  X1:120 X2:597 Y1:458 Y2:500
+Who was Montini trying to set up?
+
+416
+00:33:42,681 --> 00:33:44,433  X1:154 X2:564 Y1:458 Y2:495
+That would be Latrell Walker<i>.</i>
+
+417
+00:33:44,921 --> 00:33:46,718  X1:112 X2:605 Y1:458 Y2:500
+Why you ask? You going after him?
+
+418
+00:33:57,841 --> 00:33:59,160  X1:211 X2:508 Y1:458 Y2:500
+Hey, how you doing?
+
+419
+00:33:59,921 --> 00:34:01,070  X1:221 X2:497 Y1:458 Y2:500
+What do you need?
+
+420
+00:34:01,161 --> 00:34:03,994  X1:161 X2:556 Y1:458 Y2:534
+l need to see the log book
+for the last couple of nights<i>.</i>
+
+421
+00:34:04,281 --> 00:34:05,873  X1:290 X2:428 Y1:458 Y2:529
+-Here<i>.</i>
+-Thanks<i>.</i>
+
+422
+00:34:11,641 --> 00:34:13,393  X1:129 X2:589 Y1:458 Y2:500
+Who or what are you looking for?
+
+423
+00:34:13,481 --> 00:34:16,075  X1:147 X2:570 Y1:458 Y2:534
+Just some shit bird
+who thinks he got away clean<i>.</i>
+
+424
+00:34:18,521 --> 00:34:22,036  X1:081 X2:635 Y1:458 Y2:532
+Can you run a check for it?
+All l have is a name, Latrell<i>.</i> Black male<i>.</i>
+
+425
+00:34:22,121 --> 00:34:25,272  X1:155 X2:563 Y1:458 Y2:529
+This isn't the Hall of Records<i>.</i>
+Check records downtown<i>.</i>
+
+426
+00:34:26,281 --> 00:34:27,396  X1:261 X2:456 Y1:458 Y2:495
+Thanks a lot<i>.</i>
+
+427
+00:34:27,801 --> 00:34:29,120  X1:224 X2:494 Y1:458 Y2:500
+Happy to help you<i>.</i>
+
+428
+00:35:21,721 --> 00:35:24,793  X1:114 X2:604 Y1:458 Y2:534
+l'm the janitor<i>.</i>
+My daughter, Maria, is in the office<i>.</i>
+
+429
+00:35:25,841 --> 00:35:26,910  X1:271 X2:446 Y1:458 Y2:500
+Stay down<i>.</i>
+
+430
+00:35:54,481 --> 00:35:56,392  X1:099 X2:618 Y1:458 Y2:500
+l'm one of the good guys<i>.</i> Come here<i>.</i>
+
+431
+00:36:32,001 --> 00:36:33,673  X1:210 X2:507 Y1:458 Y2:495
+Freeze! Don't move!
+
+432
+00:36:34,321 --> 00:36:35,310  X1:282 X2:436 Y1:458 Y2:500
+l'm a cop<i>.</i>
+
+433
+00:36:45,521 --> 00:36:47,796  X1:164 X2:554 Y1:458 Y2:500
+Bruce, get it out of the way<i>.</i>
+
+434
+00:36:48,641 --> 00:36:50,836  X1:076 X2:641 Y1:458 Y2:500
+Can l get you guys in this area over here?
+
+435
+00:36:57,641 --> 00:37:00,474  X1:085 X2:633 Y1:458 Y2:534
+Keep it back<i>.</i>
+Sorry, people, you'll have to stand back<i>.</i>
+
+436
+00:37:03,121 --> 00:37:04,554  X1:261 X2:457 Y1:458 Y2:500
+Officer Boyd<i>.</i>
+
+437
+00:37:05,801 --> 00:37:06,995  X1:216 X2:502 Y1:458 Y2:500
+What have you got?
+
+438
+00:37:07,801 --> 00:37:09,280  X1:221 X2:496 Y1:458 Y2:495
+Take a look at this<i>.</i>
+
+439
+00:37:09,761 --> 00:37:12,753  X1:124 X2:594 Y1:458 Y2:534
+This was taken a few minutes ago
+at the police evidence locker<i>.</i>
+
+440
+00:37:12,841 --> 00:37:17,551  X1:093 X2:625 Y1:458 Y2:534
+They keep large quantities of narcotics
+here at Piper Tech's main vault<i>.</i>
+
+441
+00:37:17,641 --> 00:37:21,600  X1:097 X2:621 Y1:458 Y2:532
+Yeah, there were six guys<i>.</i> They wore
+masks, and their voices were altered<i>.</i>
+
+442
+00:37:22,521 --> 00:37:23,920  X1:181 X2:537 Y1:458 Y2:500
+How much did they take?
+
+443
+00:37:24,001 --> 00:37:25,514  X1:185 X2:531 Y1:458 Y2:495
+About 50 kilos of heroin<i>.</i>
+
+444
+00:37:28,401 --> 00:37:30,278  X1:143 X2:575 Y1:458 Y2:500
+Wait<i>.</i> Can you rewind that bit?
+
+445
+00:37:38,401 --> 00:37:40,198  X1:215 X2:502 Y1:458 Y2:534
+-Freeze on that guy<i>.</i>
+-You got it<i>.</i>
+
+446
+00:37:40,881 --> 00:37:42,678  X1:122 X2:596 Y1:458 Y2:500
+Now, can you zoom in right there?
+
+447
+00:37:42,761 --> 00:37:45,275  X1:175 X2:542 Y1:458 Y2:534
+What do you think this is?
+<i>Monday Night Football?.</i>
+
+448
+00:37:45,361 --> 00:37:48,273  X1:171 X2:548 Y1:458 Y2:500
+Best l can do is 50 percent<i>.</i>
+
+449
+00:37:49,801 --> 00:37:51,120  X1:219 X2:499 Y1:458 Y2:500
+What do you think?
+
+450
+00:37:51,201 --> 00:37:53,078  X1:273 X2:445 Y1:458 Y2:529
+-Rolex?
+-lt's a TAG<i>.</i>
+
+451
+00:37:53,481 --> 00:37:55,995  X1:169 X2:550 Y1:458 Y2:500
+Height, l'd say about 5'10'<i>'</i>?
+
+452
+00:37:56,201 --> 00:37:57,236  X1:280 X2:438 Y1:458 Y2:500
+l'd say so<i>.</i>
+
+453
+00:37:57,441 --> 00:37:58,954  X1:246 X2:471 Y1:458 Y2:495
+And he's black<i>.</i>
+
+454
+00:38:01,041 --> 00:38:01,996  X1:278 X2:440 Y1:458 Y2:500
+Hey, guys<i>.</i>
+
+455
+00:38:02,641 --> 00:38:04,393  X1:207 X2:512 Y1:458 Y2:500
+Hey, look who's here<i>.</i>
+
+456
+00:38:04,681 --> 00:38:06,080  X1:253 X2:464 Y1:458 Y2:534
+-Hey, Montini<i>.</i>
+-What's up?
+
+457
+00:38:06,161 --> 00:38:09,517  X1:089 X2:630 Y1:458 Y2:534
+Just giving Officer Boyd here a preview
+of the playback from security<i>.</i>
+
+458
+00:38:09,601 --> 00:38:14,152  X1:085 X2:633 Y1:458 Y2:534
+Boyd<i>.</i> What are you doing here?
+Whose case did you screw up this time?
+
+459
+00:38:14,881 --> 00:38:18,032  X1:185 X2:533 Y1:458 Y2:529
+You guys mind giving us
+a moment to ourselves?
+
+460
+00:38:18,241 --> 00:38:20,072  X1:130 X2:588 Y1:458 Y2:500
+We have some catching up to do<i>.</i>
+
+461
+00:38:24,481 --> 00:38:27,837  X1:094 X2:625 Y1:458 Y2:534
+l'm just fucking with you<i>.</i>
+No hard feelings about the other night<i>.</i>
+
+462
+00:38:27,921 --> 00:38:30,310  X1:122 X2:596 Y1:458 Y2:534
+Straight up,
+l would have done the same thing<i>.</i>
+
+463
+00:38:30,481 --> 00:38:33,075  X1:180 X2:537 Y1:458 Y2:534
+-So what happened here?
+-Property vault was hit<i>.</i>
+
+464
+00:38:33,241 --> 00:38:35,072  X1:172 X2:546 Y1:458 Y2:500
+Fifty kilos of heroin stolen<i>.</i>
+
+465
+00:38:36,841 --> 00:38:39,150  X1:065 X2:652 Y1:458 Y2:500
+Shit, someone's having a big party tonight<i>.</i>
+
+466
+00:38:39,241 --> 00:38:42,278  X1:097 X2:621 Y1:458 Y2:534
+-What, professional hit?
+-l don't think pros would be so sloppy<i>.</i>
+
+467
+00:38:45,318 --> 00:38:49,436  X1:089 X2:628 Y1:458 Y2:534
+Probably right<i>.</i> l'm going to head up<i>.</i>
+You get wind of anything, let me know<i>.</i>
+
+468
+00:38:49,638 --> 00:38:50,787  X1:287 X2:430 Y1:458 Y2:500
+All right<i>.</i>
+
+469
+00:38:56,998 --> 00:38:59,307  X1:154 X2:564 Y1:458 Y2:534
+What the hell were you doing
+at Piper Tech?
+
+470
+00:38:59,598 --> 00:39:02,158  X1:136 X2:581 Y1:458 Y2:529
+Last time l checked,
+this was the men's locker room<i>.</i>
+
+471
+00:39:05,038 --> 00:39:06,517  X1:165 X2:552 Y1:458 Y2:500
+Answer the question, Boyd<i>.</i>
+
+472
+00:39:06,878 --> 00:39:09,346  X1:110 X2:607 Y1:458 Y2:500
+l was driving by and l heard the call<i>.</i>
+
+473
+00:39:09,518 --> 00:39:13,557  X1:121 X2:597 Y1:458 Y2:529
+l told you,
+l don't tolerate lone wolf behavior<i>.</i>
+
+474
+00:39:13,638 --> 00:39:15,594  X1:108 X2:609 Y1:458 Y2:500
+You got a problem, you come to me<i>.</i>
+
+475
+00:39:21,838 --> 00:39:23,430  X1:207 X2:510 Y1:458 Y2:500
+lt's my only problem<i>.</i>
+
+476
+00:39:28,998 --> 00:39:32,388  X1:083 X2:634 Y1:458 Y2:500
+All right<i>.</i> l'll tell you what<i>.</i> You're back<i>.</i>
+
+477
+00:39:32,558 --> 00:39:36,471  X1:080 X2:640 Y1:458 Y2:534
+But you're walking the beat<i>.</i> And l'm not
+letting you out without a leash<i>.</i>
+
+478
+00:39:36,558 --> 00:39:37,547  X1:262 X2:456 Y1:458 Y2:500
+Hey, George<i>.</i>
+
+479
+00:39:37,638 --> 00:39:40,152  X1:118 X2:600 Y1:458 Y2:529
+Stop robbing the vending machine<i>.</i>
+Come over here<i>.</i>
+
+480
+00:39:41,998 --> 00:39:44,512  X1:138 X2:580 Y1:458 Y2:534
+And l want to know every move
+you make out there<i>...</i>
+
+481
+00:39:44,878 --> 00:39:47,870  X1:152 X2:568 Y1:458 Y2:534
+<i>...</i>or l will have you typing out
+reports till your retirement<i>.</i>
+
+482
+00:39:47,958 --> 00:39:50,153  X1:067 X2:651 Y1:458 Y2:500
+That damn machine ate my quarters again<i>.</i>
+
+483
+00:39:50,358 --> 00:39:51,871  X1:273 X2:445 Y1:458 Y2:529
+-Fifth time<i>.</i>
+-Whatever<i>.</i>
+
+484
+00:39:51,958 --> 00:39:54,108  X1:105 X2:613 Y1:458 Y2:500
+George, meet your new partner here<i>.</i>
+
+485
+00:39:54,998 --> 00:39:57,432  X1:089 X2:630 Y1:458 Y2:500
+New partner? You mean the two of us?
+
+486
+00:39:57,518 --> 00:39:59,190  X1:187 X2:530 Y1:458 Y2:500
+You make a nice couple<i>.</i>
+
+487
+00:40:12,038 --> 00:40:13,073  X1:242 X2:476 Y1:458 Y2:500
+lt's me, George<i>.</i>
+
+488
+00:40:13,158 --> 00:40:14,876  X1:174 X2:543 Y1:458 Y2:534
+-Okay?
+-What are you doing here?
+
+489
+00:40:15,078 --> 00:40:17,512  X1:069 X2:648 Y1:458 Y2:500
+Making a mistake picking you up for work<i>.</i>
+
+490
+00:40:17,678 --> 00:40:19,111  X1:189 X2:529 Y1:458 Y2:500
+Nice place you got here<i>.</i>
+
+491
+00:40:19,838 --> 00:40:22,272  X1:159 X2:560 Y1:458 Y2:529
+<i>Good morning, everyone,</i>
+<i>and welcome to</i> Detroit A<i>.</i>M<i>.</i>
+
+492
+00:40:22,358 --> 00:40:23,711  X1:247 X2:471 Y1:458 Y2:500
+<i>l'm your host...</i>
+
+493
+00:40:24,158 --> 00:40:25,910  X1:239 X2:479 Y1:458 Y2:534
+-<i>...Henry Wayne.</i>
+-l love this guy<i>.</i>
+
+494
+00:40:25,998 --> 00:40:27,795  X1:125 X2:596 Y1:458 Y2:500
+<i>Today, we'll face your worst fears.</i>
+
+495
+00:40:27,878 --> 00:40:29,834  X1:176 X2:545 Y1:458 Y2:534
+-<i>What really ticks you off?.</i>
+-Henry!
+
+496
+00:40:30,078 --> 00:40:33,673  X1:096 X2:629 Y1:458 Y2:534
+<i>When l'm on the freeway, stuck behind</i>
+<i>some idiot going</i> 55 <i>in the fast lane.</i>
+
+497
+00:40:33,838 --> 00:40:35,988  X1:154 X2:564 Y1:458 Y2:529
+-He gets a little carried away<i>.</i>
+-<i>What did l do?</i>
+
+498
+00:40:36,078 --> 00:40:37,989  X1:145 X2:577 Y1:458 Y2:500
+<i>Did l casually flip him the bird?</i>
+
+499
+00:40:38,478 --> 00:40:41,675  X1:126 X2:592 Y1:458 Y2:534
+<i>Or did l fantasize</i>
+<i>about running them off the road...</i>
+
+500
+00:40:41,758 --> 00:40:43,714  X1:106 X2:616 Y1:458 Y2:500
+<i>...and cutting their freaking head off?.</i>
+
+501
+00:40:43,798 --> 00:40:45,550  X1:127 X2:591 Y1:458 Y2:500
+So we got a twelve-block stretch<i>.</i>
+
+502
+00:40:45,638 --> 00:40:48,835  X1:115 X2:603 Y1:458 Y2:534
+l like to cruise once or twice,
+let the people know we're out here<i>.</i>
+
+503
+00:40:48,918 --> 00:40:50,556  X1:161 X2:556 Y1:458 Y2:495
+Then we can walk it on foot<i>.</i>
+
+504
+00:40:50,638 --> 00:40:53,311  X1:167 X2:550 Y1:458 Y2:529
+l grew up in this area, man<i>.</i>
+Now look at it<i>.</i>
+
+505
+00:40:53,798 --> 00:40:55,356  X1:183 X2:534 Y1:458 Y2:500
+Thugs turned it into shit<i>.</i>
+
+506
+00:40:55,958 --> 00:40:57,835  X1:104 X2:613 Y1:458 Y2:500
+Slowly getting a handle on it though<i>.</i>
+
+507
+00:40:58,198 --> 00:41:00,553  X1:102 X2:616 Y1:458 Y2:500
+Might turn this place around after all<i>.</i>
+
+508
+00:41:02,158 --> 00:41:04,672  X1:192 X2:526 Y1:458 Y2:534
+-You married, George?
+-Five years next month<i>.</i>
+
+509
+00:41:05,398 --> 00:41:08,390  X1:127 X2:591 Y1:458 Y2:534
+Beautiful woman<i>.</i>
+Stuck by me through a lot of shit<i>.</i>
+
+510
+00:41:08,958 --> 00:41:11,108  X1:188 X2:530 Y1:458 Y2:500
+Got a 14-month-old boy<i>.</i>
+
+511
+00:41:11,278 --> 00:41:12,313  X1:235 X2:483 Y1:458 Y2:500
+What about you?
+
+512
+00:41:12,798 --> 00:41:16,234  X1:098 X2:620 Y1:458 Y2:534
+Same old cliche<i>.</i> l guess she got tired
+of all those sleepless nights<i>.</i>
+
+513
+00:41:17,678 --> 00:41:18,952  X1:198 X2:520 Y1:458 Y2:495
+Tell me about Montini<i>.</i>
+
+514
+00:41:20,198 --> 00:41:22,428  X1:109 X2:609 Y1:458 Y2:500
+He's a bully<i>.</i> Been in four shootings<i>.</i>
+
+515
+00:41:22,638 --> 00:41:25,072  X1:117 X2:602 Y1:458 Y2:500
+He's still standing<i>.</i> Figure that out<i>.</i>
+
+516
+00:41:25,318 --> 00:41:28,037  X1:115 X2:605 Y1:458 Y2:534
+Hangs out with that mountain man,
+Useldinger<i>.</i>
+
+517
+00:41:28,678 --> 00:41:30,270  X1:169 X2:549 Y1:458 Y2:500
+What's the story with him?
+
+518
+00:41:31,078 --> 00:41:34,673  X1:065 X2:652 Y1:458 Y2:500
+Strong as an ox<i>.</i> Got the l<i>.</i>Q<i>.</i> of a handball<i>.</i>
+
+519
+00:41:34,918 --> 00:41:38,706  X1:112 X2:605 Y1:458 Y2:534
+He was a police officer down south,
+spent a year undercover in the KKK<i>.</i>
+
+520
+00:41:38,918 --> 00:41:42,433  X1:108 X2:610 Y1:458 Y2:534
+Wound up taking down a cell
+all by himself<i>.</i> That guy's an animal<i>.</i>
+
+521
+00:41:42,758 --> 00:41:44,430  X1:163 X2:554 Y1:458 Y2:500
+Good thing Strutt came in<i>...</i>
+
+522
+00:41:44,838 --> 00:41:47,147  X1:164 X2:553 Y1:458 Y2:529
+<i>...</i>because he knows
+we're all on the same team<i>.</i>
+
+523
+00:41:48,838 --> 00:41:51,557  X1:150 X2:568 Y1:458 Y2:534
+-What's the story with Strutt?
+-He knows everyone<i>.</i>
+
+524
+00:41:51,878 --> 00:41:54,756  X1:155 X2:563 Y1:458 Y2:534
+Need some extra cash,
+he can get you a security gig<i>.</i>
+
+525
+00:41:54,838 --> 00:41:57,227  X1:179 X2:540 Y1:458 Y2:534
+Tickets to the Red Wings,
+he can make it happen<i>.</i>
+
+526
+00:41:57,318 --> 00:42:00,913  X1:094 X2:624 Y1:458 Y2:534
+Anything you want<i>.</i> He's the ultimate
+concierge<i>.</i> A tough bastard, too<i>.</i>
+
+527
+00:42:01,638 --> 00:42:04,152  X1:187 X2:531 Y1:458 Y2:534
+Sometimes, on duty,
+he doesn't wear his gun<i>.</i>
+
+528
+00:42:04,358 --> 00:42:08,067  X1:072 X2:646 Y1:458 Y2:529
+Once pulled a rabid Doberman off this boy
+and killed it with his bare hands<i>.</i>
+
+529
+00:42:08,838 --> 00:42:11,716  X1:076 X2:642 Y1:458 Y2:500
+So, you got a thing for Mulcahy, or what?
+
+530
+00:42:12,598 --> 00:42:16,193  X1:070 X2:647 Y1:458 Y2:534
+-l saw the way she was eyeing you<i>.</i>
+-How long has she been your commander?
+
+531
+00:42:16,278 --> 00:42:19,554  X1:147 X2:570 Y1:458 Y2:529
+About a year now<i>.</i>
+And she did a stint over at l<i>.</i>A<i>.</i>
+
+532
+00:42:19,758 --> 00:42:21,589  X1:126 X2:591 Y1:458 Y2:500
+Cleaned up a lot of precincts, too<i>.</i>
+
+533
+00:42:21,678 --> 00:42:23,714  X1:127 X2:592 Y1:458 Y2:495
+Left l<i>.</i>A<i>.</i> to come over to the 15th<i>.</i>
+
+534
+00:42:27,878 --> 00:42:28,993  X1:230 X2:488 Y1:458 Y2:500
+What do you see?
+
+535
+00:42:29,718 --> 00:42:30,912  X1:205 X2:512 Y1:458 Y2:500
+That yellow Hummer<i>.</i>
+
+536
+00:42:31,598 --> 00:42:32,826  X1:297 X2:420 Y1:458 Y2:495
+l know<i>.</i>
+
+537
+00:42:33,998 --> 00:42:36,956  X1:152 X2:566 Y1:458 Y2:529
+l'm barely making ends meet
+and that's that fool's fifth car<i>.</i>
+
+538
+00:42:37,038 --> 00:42:38,756  X1:240 X2:477 Y1:458 Y2:529
+-Who?
+-His name's T<i>.</i>K<i>.</i>
+
+539
+00:42:38,958 --> 00:42:40,710  X1:131 X2:587 Y1:458 Y2:495
+He owns a club called The Static<i>.</i>
+
+540
+00:42:59,718 --> 00:43:00,468  X1:315 X2:401 Y1:458 Y2:500
+Hey!
+
+541
+00:43:00,678 --> 00:43:04,432  X1:109 X2:608 Y1:458 Y2:534
+l need to see a little bit more green
+than that, baby<i>.</i> Come on, put it on<i>.</i>
+
+542
+00:43:04,518 --> 00:43:05,473  X1:273 X2:445 Y1:458 Y2:495
+l like color<i>.</i>
+
+543
+00:43:05,798 --> 00:43:07,311  X1:240 X2:476 Y1:458 Y2:495
+Yeah<i>.</i> Put it on<i>.</i>
+
+544
+00:43:07,718 --> 00:43:09,310  X1:187 X2:530 Y1:458 Y2:500
+That's it<i>.</i> Squeeze it on<i>.</i>
+
+545
+00:43:10,278 --> 00:43:11,950  X1:181 X2:537 Y1:458 Y2:500
+There you go<i>.</i> Hey, baby<i>.</i>
+
+546
+00:43:12,918 --> 00:43:14,271  X1:200 X2:519 Y1:458 Y2:500
+Put them on the glass<i>.</i>
+
+547
+00:43:17,798 --> 00:43:20,437  X1:191 X2:525 Y1:458 Y2:534
+Them some titties<i>.</i>
+Them titties for you all!
+
+548
+00:43:21,278 --> 00:43:22,791  X1:251 X2:466 Y1:458 Y2:500
+That's for you<i>.</i>
+
+549
+00:43:23,438 --> 00:43:26,908  X1:173 X2:545 Y1:458 Y2:534
+What's going on, Joe?
+Everything cool? All right<i>.</i>
+
+550
+00:43:28,358 --> 00:43:31,634  X1:143 X2:576 Y1:458 Y2:534
+How's the crowd tonight, man?
+All right<i>.</i> See you upstairs<i>.</i>
+
+551
+00:43:33,158 --> 00:43:35,308  X1:119 X2:598 Y1:458 Y2:500
+Yo, what's up, dog<i>.</i> All right, man<i>.</i>
+
+552
+00:43:54,798 --> 00:43:56,993  X1:089 X2:629 Y1:458 Y2:500
+He's here<i>.</i> Bring the truck around back<i>.</i>
+
+553
+00:43:57,198 --> 00:44:00,110  X1:150 X2:567 Y1:458 Y2:534
+-Why you looking for him?
+-Because l want my grill back<i>.</i>
+
+554
+00:44:07,478 --> 00:44:09,787  X1:095 X2:620 Y1:458 Y2:500
+Yeah, tell them keep shaking that ass!
+
+555
+00:44:13,318 --> 00:44:15,229  X1:107 X2:611 Y1:458 Y2:495
+Look at Rockefeller here<i>.</i> What is it?
+
+556
+00:44:15,318 --> 00:44:17,593  X1:161 X2:557 Y1:458 Y2:534
+Too rich to count the money
+the old-fashioned way?
+
+557
+00:44:17,678 --> 00:44:19,157  X1:210 X2:507 Y1:458 Y2:498
+Close the door, man<i>.</i>
+
+558
+00:44:20,558 --> 00:44:23,231  X1:115 X2:603 Y1:458 Y2:534
+Sitting behind my desk in my office
+at my club<i>...</i>
+
+559
+00:44:23,318 --> 00:44:25,229  X1:102 X2:616 Y1:458 Y2:500
+<i>...</i>and you want me to close my door?
+
+560
+00:44:27,878 --> 00:44:28,947  X1:247 X2:469 Y1:458 Y2:500
+You paid for it<i>.</i>
+
+561
+00:44:29,158 --> 00:44:31,433  X1:167 X2:551 Y1:458 Y2:529
+-Look like you need a drink<i>.</i>
+-Yeah!
+
+562
+00:44:36,638 --> 00:44:38,594  X1:099 X2:617 Y1:458 Y2:500
+You think this deal won't go through?
+
+563
+00:44:38,678 --> 00:44:39,872  X1:233 X2:484 Y1:458 Y2:498
+T, come on, man<i>.</i>
+
+564
+00:44:42,638 --> 00:44:43,753  X1:287 X2:430 Y1:458 Y2:500
+All right<i>.</i>
+
+565
+00:44:44,758 --> 00:44:46,271  X1:183 X2:535 Y1:458 Y2:500
+l'll get that drink for you<i>.</i>
+
+566
+00:44:48,078 --> 00:44:49,352  X1:310 X2:408 Y1:458 Y2:495
+Boss<i>.</i>
+
+567
+00:44:51,438 --> 00:44:52,871  X1:174 X2:544 Y1:458 Y2:498
+T, come here for a minute<i>.</i>
+
+568
+00:44:59,438 --> 00:45:00,473  X1:241 X2:477 Y1:458 Y2:500
+What's up, dog?
+
+569
+00:45:01,678 --> 00:45:03,396  X1:111 X2:607 Y1:458 Y2:500
+Where would l be without you, dog?
+
+570
+00:45:08,638 --> 00:45:10,390  X1:144 X2:572 Y1:458 Y2:500
+All by your motherfucking self<i>.</i>
+
+571
+00:45:11,678 --> 00:45:12,633  X1:279 X2:437 Y1:458 Y2:500
+You right<i>.</i>
+
+572
+00:45:14,438 --> 00:45:16,713  X1:180 X2:537 Y1:458 Y2:500
+Now, get my drink, bitch!
+
+573
+00:45:19,718 --> 00:45:21,276  X1:191 X2:527 Y1:458 Y2:500
+Nigger, l got your bitch<i>.</i>
+
+574
+00:45:21,438 --> 00:45:25,226  X1:085 X2:633 Y1:458 Y2:534
+We have an open mike tonight<i>.</i> Come
+downstairs and tell some of them jokes<i>.</i>
+
+575
+00:45:25,638 --> 00:45:29,392  X1:067 X2:648 Y1:458 Y2:500
+l said, l want to see asses shaking! Damn!
+
+576
+00:45:40,478 --> 00:45:42,309  X1:104 X2:614 Y1:458 Y2:500
+Baby, can l have a Hennessy Paradis?
+
+577
+00:45:42,398 --> 00:45:44,116  X1:137 X2:580 Y1:458 Y2:500
+Sure, T<i>.</i> We still on for tonight?
+
+578
+00:45:44,318 --> 00:45:46,195  X1:133 X2:585 Y1:458 Y2:500
+Sorry<i>.</i> l can't make that tonight<i>.</i>
+
+579
+00:45:46,318 --> 00:45:49,037  X1:109 X2:609 Y1:458 Y2:500
+But l promise<i>.</i> l'll make it up to you<i>.</i>
+
+580
+00:45:50,318 --> 00:45:52,036  X1:101 X2:617 Y1:458 Y2:500
+Why'd you even make plans with me?
+
+581
+00:45:52,958 --> 00:45:55,791  X1:147 X2:571 Y1:458 Y2:529
+l just need a couple more days
+to work some shit out<i>.</i>
+
+582
+00:45:55,878 --> 00:45:57,516  X1:208 X2:508 Y1:458 Y2:500
+After that, l'm yours<i>.</i>
+
+583
+00:45:57,598 --> 00:46:00,317  X1:154 X2:565 Y1:458 Y2:534
+Shit<i>.</i> By the end of the night,
+you just might<i>....</i>
+
+584
+00:46:01,598 --> 00:46:02,826  X1:286 X2:431 Y1:458 Y2:495
+Fuck me!
+
+585
+00:46:02,918 --> 00:46:04,317  X1:189 X2:529 Y1:458 Y2:500
+Dang! Now you talking<i>.</i>
+
+586
+00:46:05,278 --> 00:46:06,233  X1:312 X2:403 Y1:458 Y2:495
+Shit!
+
+587
+00:46:14,958 --> 00:46:16,630  X1:157 X2:560 Y1:458 Y2:500
+What's up, man? What's up?
+
+588
+00:46:17,598 --> 00:46:20,192  X1:126 X2:591 Y1:458 Y2:534
+What's the matter?
+You couldn't get in the VlP room?
+
+589
+00:46:20,718 --> 00:46:22,470  X1:166 X2:553 Y1:458 Y2:498
+Have a drink, motherfucker<i>.</i>
+
+590
+00:46:31,678 --> 00:46:33,430  X1:157 X2:561 Y1:458 Y2:500
+Say hello to my sumo Negro<i>.</i>
+
+591
+00:46:34,238 --> 00:46:36,308  X1:093 X2:626 Y1:458 Y2:500
+He about to turn your ass into sashimi<i>.</i>
+
+592
+00:46:46,318 --> 00:46:48,195  X1:166 X2:551 Y1:458 Y2:498
+You in trouble now, sucker<i>.</i>
+
+593
+00:46:51,878 --> 00:46:54,472  X1:119 X2:595 Y1:458 Y2:500
+You aren't doing shit<i>.</i> Get his ass!
+
+594
+00:47:17,918 --> 00:47:20,034  X1:136 X2:582 Y1:458 Y2:500
+There you go, Joe! Kick his ass<i>.</i>
+
+595
+00:47:49,398 --> 00:47:50,387  X1:314 X2:404 Y1:458 Y2:495
+Shit<i>.</i>
+
+596
+00:47:50,598 --> 00:47:52,156  X1:170 X2:545 Y1:458 Y2:500
+Get out of my way! Move!
+
+597
+00:47:56,638 --> 00:47:58,071  X1:245 X2:471 Y1:458 Y2:495
+Freeze! Police!
+
+598
+00:47:59,118 --> 00:48:00,517  X1:193 X2:526 Y1:458 Y2:495
+Put the briefcase down<i>.</i>
+
+599
+00:48:03,118 --> 00:48:04,267  X1:239 X2:479 Y1:458 Y2:495
+Hands in the air<i>.</i>
+
+600
+00:48:05,318 --> 00:48:06,512  X1:216 X2:503 Y1:458 Y2:500
+Up against the wall<i>.</i>
+
+601
+00:48:12,558 --> 00:48:14,310  X1:164 X2:554 Y1:458 Y2:500
+Keep them against the wall<i>.</i>
+
+602
+00:48:19,318 --> 00:48:20,876  X1:157 X2:561 Y1:458 Y2:500
+Got anything in your pocket?
+
+603
+00:48:22,598 --> 00:48:24,316  X1:178 X2:539 Y1:458 Y2:495
+What's this? Don't move<i>.</i>
+
+604
+00:48:26,198 --> 00:48:27,472  X1:205 X2:513 Y1:458 Y2:500
+Got a permit for this?
+
+605
+00:48:54,718 --> 00:48:56,868  X1:114 X2:601 Y1:458 Y2:500
+Come on! Grab the gun! Let's roll!
+
+606
+00:49:00,878 --> 00:49:01,913  X1:288 X2:427 Y1:458 Y2:498
+Oh, shit!
+
+607
+00:49:04,558 --> 00:49:07,834  X1:100 X2:616 Y1:458 Y2:500
+Shit! l'm fucking up my Versace shit!
+
+608
+00:49:08,038 --> 00:49:10,313  X1:096 X2:619 Y1:458 Y2:500
+Come on, dog<i>.</i> Pull me through<i>.</i> Shit!
+
+609
+00:49:17,278 --> 00:49:18,791  X1:175 X2:542 Y1:458 Y2:500
+What are we doing, Boyd?
+
+610
+00:49:19,358 --> 00:49:21,110  X1:129 X2:589 Y1:458 Y2:500
+What are we fucking doing, man?
+
+611
+00:49:21,478 --> 00:49:23,833  X1:082 X2:636 Y1:458 Y2:500
+Either we call backup, or get out of here<i>.</i>
+
+612
+00:49:24,398 --> 00:49:26,070  X1:156 X2:562 Y1:458 Y2:500
+What backup? We ain't here<i>.</i>
+
+613
+00:49:26,158 --> 00:49:29,116  X1:134 X2:584 Y1:458 Y2:534
+Would you answer my question?
+l almost fucking died tonight<i>.</i>
+
+614
+00:49:29,758 --> 00:49:31,430  X1:146 X2:571 Y1:458 Y2:500
+Sit down before you fall down<i>.</i>
+
+615
+00:49:50,558 --> 00:49:52,788  X1:108 X2:610 Y1:458 Y2:500
+How are you doing? Come sit down<i>.</i>
+
+616
+00:49:59,918 --> 00:50:02,796  X1:066 X2:651 Y1:458 Y2:534
+-And you are?
+-Officer Boyd<i>.</i> l've a few questions for you<i>.</i>
+
+617
+00:50:03,518 --> 00:50:05,509  X1:125 X2:594 Y1:458 Y2:500
+Before you even get into all that<i>...</i>
+
+618
+00:50:05,678 --> 00:50:08,431  X1:152 X2:566 Y1:458 Y2:534
+<i>...</i>you shouldn't be asking me<i>.</i>
+l don't know nothing<i>.</i>
+
+619
+00:50:08,518 --> 00:50:11,749  X1:123 X2:597 Y1:458 Y2:529
+Let's start with something simple,
+like who is Latrell Walker?
+
+620
+00:50:12,558 --> 00:50:13,957  X1:218 X2:501 Y1:458 Y2:495
+Never heard of him<i>.</i>
+
+621
+00:50:14,038 --> 00:50:16,506  X1:170 X2:547 Y1:458 Y2:529
+Says in here he visited you
+a number of times<i>.</i>
+
+622
+00:50:16,598 --> 00:50:18,156  X1:197 X2:520 Y1:458 Y2:500
+ls he a friend of yours?
+
+623
+00:50:18,238 --> 00:50:19,910  X1:167 X2:551 Y1:458 Y2:495
+Said l'd never heard of him<i>.</i>
+
+624
+00:50:20,398 --> 00:50:22,070  X1:165 X2:552 Y1:458 Y2:500
+Are you deaf or something?
+
+625
+00:50:22,278 --> 00:50:25,076  X1:183 X2:535 Y1:458 Y2:534
+No, l'm persistent<i>.</i>
+l ran a check on this guy<i>.</i>
+
+626
+00:50:25,278 --> 00:50:28,156  X1:126 X2:592 Y1:458 Y2:534
+Came up empty<i>.</i>
+Guy's clean, like a little too clean<i>.</i>
+
+627
+00:50:28,238 --> 00:50:30,468  X1:172 X2:548 Y1:458 Y2:534
+No warrants, no accidents,
+no parking tickets<i>.</i>
+
+628
+00:50:30,558 --> 00:50:33,595  X1:110 X2:609 Y1:458 Y2:529
+lt's like the guy was born yesterday,
+and that makes me nervous<i>.</i>
+
+629
+00:50:33,678 --> 00:50:34,827  X1:253 X2:463 Y1:458 Y2:500
+Your point is?
+
+630
+00:50:35,038 --> 00:50:37,836  X1:116 X2:600 Y1:458 Y2:534
+l want to know
+what your relationship is with him<i>.</i>
+
+631
+00:50:37,918 --> 00:50:40,557  X1:146 X2:573 Y1:458 Y2:534
+Did he take over your business
+when you went away?
+
+632
+00:50:40,638 --> 00:50:42,515  X1:107 X2:611 Y1:458 Y2:500
+l don't know what you talking about<i>.</i>
+
+633
+00:50:42,598 --> 00:50:44,475  X1:124 X2:593 Y1:458 Y2:495
+ls it meth? ls it coke? What is it?
+
+634
+00:50:47,118 --> 00:50:50,633  X1:094 X2:624 Y1:458 Y2:500
+lt was heroin<i>.</i> Thought you knew that<i>.</i>
+
+635
+00:50:50,718 --> 00:50:53,630  X1:066 X2:651 Y1:458 Y2:500
+l know it say it right there<i>.</i> Come on, man<i>.</i>
+
+636
+00:50:53,718 --> 00:50:56,107  X1:148 X2:568 Y1:458 Y2:534
+The cops swear
+you all know everything, man<i>.</i>
+
+637
+00:50:56,718 --> 00:50:57,673  X1:229 X2:489 Y1:458 Y2:498
+Know what, man?
+
+638
+00:50:58,278 --> 00:51:00,394  X1:074 X2:643 Y1:458 Y2:500
+You didn't learn nothing in juvie, did you?
+
+639
+00:51:00,478 --> 00:51:03,151  X1:123 X2:595 Y1:458 Y2:534
+Supposed to teach you not to piss
+your life away<i>...</i>
+
+640
+00:51:03,238 --> 00:51:04,637  X1:158 X2:560 Y1:458 Y2:500
+<i>...</i>but you keep running back<i>.</i>
+
+641
+00:51:04,718 --> 00:51:06,515  X1:150 X2:567 Y1:458 Y2:495
+That's real clever<i>.</i> You know?
+
+642
+00:51:06,598 --> 00:51:09,066  X1:107 X2:609 Y1:458 Y2:500
+You ain't got a clue what's going on<i>.</i>
+
+643
+00:51:09,678 --> 00:51:12,033  X1:132 X2:584 Y1:458 Y2:500
+Your eyes is glued the fuck shut<i>.</i>
+
+644
+00:51:12,878 --> 00:51:13,674  X1:321 X2:397 Y1:458 Y2:500
+Pig<i>.</i>
+
+645
+00:51:13,878 --> 00:51:16,472  X1:138 X2:578 Y1:458 Y2:534
+You wanna do 10 years in here?
+That's your business<i>.</i>
+
+646
+00:51:16,558 --> 00:51:20,107  X1:063 X2:655 Y1:458 Y2:534
+lf l were you,
+l'd be grabbing for every lifeline tossed out<i>.</i>
+
+647
+00:51:20,238 --> 00:51:21,512  X1:195 X2:523 Y1:458 Y2:500
+Know what l'm saying?
+
+648
+00:51:24,158 --> 00:51:25,671  X1:187 X2:529 Y1:458 Y2:500
+You can't help me, man<i>.</i>
+
+649
+00:51:27,838 --> 00:51:29,351  X1:215 X2:503 Y1:458 Y2:500
+Can't help me at all<i>.</i>
+
+650
+00:51:36,158 --> 00:51:40,754  X1:097 X2:621 Y1:458 Y2:534
+You cannot put Tiger Woods
+in the same league as Michael Jordan<i>.</i>
+
+651
+00:51:40,958 --> 00:51:43,108  X1:071 X2:646 Y1:458 Y2:500
+You don't have to be in shape to play golf<i>.</i>
+
+652
+00:51:43,198 --> 00:51:45,428  X1:084 X2:632 Y1:458 Y2:500
+You walk everywhere for Christ's sakes<i>.</i>
+
+653
+00:51:45,678 --> 00:51:48,317  X1:179 X2:541 Y1:458 Y2:534
+But Woods bench presses
+damn near 300 pounds<i>.</i>
+
+654
+00:51:48,398 --> 00:51:51,037  X1:084 X2:633 Y1:458 Y2:500
+Well, unless he bench presses my dick<i>...</i>
+
+655
+00:51:51,238 --> 00:51:53,706  X1:173 X2:547 Y1:458 Y2:534
+<i>...</i>l'm really not impressed,
+to tell you the truth<i>.</i>
+
+656
+00:51:53,918 --> 00:51:56,876  X1:125 X2:593 Y1:458 Y2:534
+-l'd say Wayne Gretzky's the best<i>.</i>
+-You freaking Canadians<i>.</i>
+
+657
+00:51:57,038 --> 00:51:59,996  X1:153 X2:563 Y1:458 Y2:534
+You worship the guy<i>.</i>
+You'd crucify the mother, ay?
+
+658
+00:52:00,198 --> 00:52:01,313  X1:228 X2:490 Y1:458 Y2:500
+Whatever, Dinger<i>.</i>
+
+659
+00:52:02,438 --> 00:52:03,837  X1:205 X2:513 Y1:458 Y2:500
+l got one<i>.</i> Babe Ruth<i>.</i>
+
+660
+00:52:03,918 --> 00:52:04,907  X1:278 X2:439 Y1:458 Y2:529
+-Baseball?
+-Who?
+
+661
+00:52:05,118 --> 00:52:07,757  X1:158 X2:560 Y1:458 Y2:500
+Fall asleep during the action<i>.</i>
+
+662
+00:52:07,918 --> 00:52:10,034  X1:070 X2:649 Y1:458 Y2:495
+Don't knock baseball<i>.</i> That's un-American<i>.</i>
+
+663
+00:52:10,118 --> 00:52:11,676  X1:165 X2:552 Y1:458 Y2:500
+Wake me up when it's over<i>.</i>
+
+664
+00:52:11,758 --> 00:52:13,510  X1:176 X2:542 Y1:458 Y2:500
+Come on, guys<i>.</i> Come on<i>.</i>
+
+665
+00:52:13,758 --> 00:52:16,830  X1:106 X2:613 Y1:458 Y2:529
+The greatest athlete without a doubt
+was Muhammad Ali<i>.</i>
+
+666
+00:52:16,918 --> 00:52:18,715  X1:121 X2:598 Y1:458 Y2:500
+He could defeat you with his mind<i>.</i>
+
+667
+00:52:18,878 --> 00:52:22,393  X1:114 X2:605 Y1:458 Y2:534
+He would never have to put a finger
+on you, and have you psyched out<i>.</i>
+
+668
+00:52:23,278 --> 00:52:25,030  X1:232 X2:485 Y1:458 Y2:529
+-To The Greatest<i>.</i>
+-To The Greatest<i>.</i>
+
+669
+00:52:28,078 --> 00:52:29,033  X1:317 X2:402 Y1:458 Y2:500
+Hey<i>.</i>
+
+670
+00:52:31,598 --> 00:52:32,713  X1:231 X2:488 Y1:458 Y2:500
+How's your head?
+
+671
+00:52:33,918 --> 00:52:36,716  X1:139 X2:579 Y1:458 Y2:534
+Head is fine<i>.</i>
+lt's my pride that's still hurting<i>.</i>
+
+672
+00:52:36,798 --> 00:52:37,992  X1:233 X2:485 Y1:458 Y2:500
+Question for you<i>.</i>
+
+673
+00:52:38,078 --> 00:52:41,593  X1:081 X2:635 Y1:458 Y2:529
+Six months ago, there was a bust<i>.</i>
+A kid named Shaun Rollins<i>.</i> Remember?
+
+674
+00:52:41,678 --> 00:52:44,636  X1:088 X2:629 Y1:458 Y2:534
+-Yeah, vaguely<i>.</i> Why?
+-Anything suspicious about that arrest?
+
+675
+00:52:44,718 --> 00:52:46,913  X1:112 X2:607 Y1:458 Y2:498
+Far as l can remember, it was clean<i>.</i>
+
+676
+00:52:47,118 --> 00:52:50,713  X1:090 X2:628 Y1:458 Y2:534
+Montini always pays attention to detail
+when he types those things up<i>.</i>
+
+677
+00:52:50,798 --> 00:52:53,266  X1:120 X2:597 Y1:458 Y2:534
+-Montini was the arresting officer?
+-Yeah<i>.</i> Why?
+
+678
+00:52:53,358 --> 00:52:56,236  X1:146 X2:572 Y1:458 Y2:534
+Where could l find him?
+To put two and two together<i>...</i>
+
+679
+00:52:56,318 --> 00:52:57,273  X1:234 X2:484 Y1:458 Y2:500
+<i>...</i>even things up<i>.</i>
+
+680
+00:53:18,358 --> 00:53:19,586  X1:305 X2:413 Y1:458 Y2:495
+Relax<i>.</i>
+
+681
+00:53:19,678 --> 00:53:22,033  X1:175 X2:542 Y1:458 Y2:534
+-What the fuck you doing?
+-Shut up<i>.</i> Hands down<i>.</i>
+
+682
+00:53:22,558 --> 00:53:24,708  X1:194 X2:524 Y1:458 Y2:534
+-What are you doing?
+-Why you pressing me?
+
+683
+00:53:24,878 --> 00:53:27,267  X1:177 X2:540 Y1:458 Y2:534
+-Who's pressing you?
+-You got a cop on my ass<i>.</i>
+
+684
+00:53:27,438 --> 00:53:29,030  X1:141 X2:577 Y1:458 Y2:500
+Same guy from the other night<i>.</i>
+
+685
+00:53:29,118 --> 00:53:32,155  X1:077 X2:643 Y1:458 Y2:534
+He's a Neanderthal<i>.</i> He keeps popping up
+all over the place<i>.</i>
+
+686
+00:53:33,598 --> 00:53:35,350  X1:212 X2:507 Y1:458 Y2:495
+He's not one of ours<i>.</i>
+
+687
+00:53:35,558 --> 00:53:38,789  X1:105 X2:612 Y1:458 Y2:534
+l'll take care of him<i>.</i> But what
+were you thinking, showing up here?
+
+688
+00:53:38,878 --> 00:53:40,789  X1:139 X2:580 Y1:458 Y2:500
+l should just shoot you in case--
+
+689
+00:53:41,438 --> 00:53:43,349  X1:112 X2:606 Y1:458 Y2:500
+Look, if l wanted to bust you, man<i>...</i>
+
+690
+00:53:43,438 --> 00:53:46,714  X1:076 X2:642 Y1:458 Y2:529
+<i>...</i>l'd have brought you in a long time ago<i>.</i>
+This is business<i>.</i>
+
+691
+00:53:46,798 --> 00:53:49,756  X1:148 X2:570 Y1:458 Y2:529
+l just got a shitload of product
+for our next deal<i>.</i>
+
+692
+00:53:57,198 --> 00:53:58,916  X1:264 X2:453 Y1:458 Y2:529
+-Forget it<i>.</i>
+-How much?
+
+693
+00:53:59,678 --> 00:54:00,906  X1:225 X2:492 Y1:458 Y2:497
+Around $5 million<i>.</i>
+
+694
+00:54:00,998 --> 00:54:02,067  X1:268 X2:448 Y1:458 Y2:500
+Yeah, right<i>.</i>
+
+695
+00:54:02,278 --> 00:54:05,076  X1:161 X2:556 Y1:458 Y2:534
+You wanted seven figures,
+that's what l brought, right?
+
+696
+00:54:05,918 --> 00:54:08,148  X1:099 X2:619 Y1:458 Y2:500
+lf not, then we do have a big problem<i>.</i>
+
+697
+00:54:08,398 --> 00:54:12,596  X1:116 X2:601 Y1:458 Y2:534
+$5 million? lt'll get me locked up
+until l'm eligible for social security<i>.</i>
+
+698
+00:54:12,798 --> 00:54:16,074  X1:110 X2:608 Y1:458 Y2:534
+l don't need social security, asshole<i>.</i>
+l need police security<i>.</i>
+
+699
+00:54:16,638 --> 00:54:18,708  X1:102 X2:615 Y1:458 Y2:500
+So before we do any more business<i>...</i>
+
+700
+00:54:19,518 --> 00:54:21,873  X1:171 X2:546 Y1:458 Y2:534
+<i>...</i>you let me know
+you got shit under control<i>.</i>
+
+701
+00:54:22,918 --> 00:54:23,873  X1:287 X2:430 Y1:458 Y2:500
+All right<i>.</i>
+
+702
+00:54:24,558 --> 00:54:27,516  X1:148 X2:570 Y1:458 Y2:534
+Would it ease your worries
+if l showed you our operation?
+
+703
+00:54:29,758 --> 00:54:31,191  X1:256 X2:462 Y1:458 Y2:500
+Fucking right<i>.</i>
+
+704
+00:54:31,758 --> 00:54:32,827  X1:314 X2:404 Y1:458 Y2:495
+Fine<i>.</i>
+
+705
+00:54:34,318 --> 00:54:37,754  X1:119 X2:597 Y1:458 Y2:534
+We'll call you when we're ready<i>.</i>
+You just have the money together<i>.</i>
+
+706
+00:54:40,558 --> 00:54:41,354  X1:308 X2:410 Y1:458 Y2:495
+Done<i>.</i>
+
+707
+00:54:58,798 --> 00:55:01,232  X1:129 X2:588 Y1:458 Y2:534
+Really, Henry<i>.</i>
+Right after group and everything<i>.</i>
+
+708
+00:55:01,518 --> 00:55:02,712  X1:266 X2:451 Y1:458 Y2:500
+Boyd? Shit!
+
+709
+00:55:03,878 --> 00:55:05,596  X1:141 X2:577 Y1:458 Y2:500
+l just came in to use the phone<i>.</i>
+
+710
+00:55:05,678 --> 00:55:07,634  X1:141 X2:577 Y1:458 Y2:500
+Relax, man<i>.</i> l just need a favor<i>.</i>
+
+711
+00:55:07,718 --> 00:55:10,516  X1:155 X2:565 Y1:458 Y2:534
+Ladies, would you let me talk
+to my friend for a minute?
+
+712
+00:55:12,038 --> 00:55:16,077  X1:068 X2:649 Y1:458 Y2:529
+Anything<i>.</i> You need me to go undercover?
+l'm like a chameleon<i>.</i>
+
+713
+00:55:16,158 --> 00:55:19,753  X1:089 X2:628 Y1:458 Y2:534
+lt also looks like you're kicking
+a lot of big ass there<i>.</i> How many guys?
+
+714
+00:55:19,838 --> 00:55:22,477  X1:179 X2:538 Y1:458 Y2:534
+Two, but they were huge<i>.</i>
+They were meat packers<i>.</i>
+
+715
+00:55:22,958 --> 00:55:26,155  X1:109 X2:608 Y1:458 Y2:534
+l could've used some of your moves<i>.</i>
+Maybe you could teach me<i>.</i>
+
+716
+00:55:26,238 --> 00:55:29,867  X1:104 X2:615 Y1:458 Y2:534
+Later<i>.</i> You know that expose you did
+on the Mob a few years ago?
+
+717
+00:55:31,078 --> 00:55:32,796  X1:182 X2:537 Y1:458 Y2:500
+How'd you get that intel?
+
+718
+00:55:32,998 --> 00:55:36,877  X1:082 X2:634 Y1:458 Y2:534
+l can be resourceful<i>.</i> Plus, l work
+with the l Team, a group of former Pl's<i>...</i>
+
+719
+00:55:36,958 --> 00:55:40,394  X1:126 X2:591 Y1:458 Y2:534
+<i>...</i>who owe us their licenses
+due to various felony convictions<i>.</i>
+
+720
+00:55:40,478 --> 00:55:43,993  X1:088 X2:631 Y1:458 Y2:534
+l need you to find out whatever you can
+about a guy called Latrell Walker<i>.</i>
+
+721
+00:55:44,078 --> 00:55:45,989  X1:100 X2:618 Y1:458 Y2:500
+His identity seems to be a total scam<i>.</i>
+
+722
+00:55:46,278 --> 00:55:49,907  X1:070 X2:647 Y1:458 Y2:534
+And also what his connection is
+with a guy called Shaun Rollins<i>.</i> Can you?
+
+723
+00:55:49,998 --> 00:55:53,035  X1:184 X2:534 Y1:458 Y2:534
+l'll see what l can dig up<i>.</i>
+Why'd you come to me?
+
+724
+00:55:53,278 --> 00:55:55,234  X1:107 X2:611 Y1:458 Y2:500
+l don't want to attract any attention<i>.</i>
+
+725
+00:55:55,318 --> 00:55:57,878  X1:124 X2:594 Y1:458 Y2:534
+And l think your peculiar methods
+might work for me<i>.</i>
+
+726
+00:55:57,958 --> 00:56:00,108  X1:199 X2:518 Y1:458 Y2:534
+-What's this all about?
+-lt might be nothing<i>.</i>
+
+727
+00:56:00,198 --> 00:56:02,837  X1:192 X2:526 Y1:458 Y2:534
+lt might be something<i>.</i>
+lf it's big, it's really big<i>.</i>
+
+728
+00:56:02,918 --> 00:56:05,512  X1:170 X2:548 Y1:458 Y2:534
+l just got to see
+how high up this shit goes<i>.</i>
+
+729
+00:56:05,798 --> 00:56:07,117  X1:188 X2:530 Y1:458 Y2:500
+Don't screw this one up<i>.</i>
+
+730
+00:56:07,198 --> 00:56:09,917  X1:076 X2:641 Y1:458 Y2:534
+l won't,
+because l've seen you when you're angry<i>.</i>
+
+731
+00:56:10,118 --> 00:56:11,517  X1:238 X2:479 Y1:458 Y2:500
+All right, ladies?
+
+732
+00:56:11,718 --> 00:56:12,707  X1:251 X2:467 Y1:458 Y2:500
+Come to papa<i>.</i>
+
+733
+00:56:12,958 --> 00:56:14,630  X1:207 X2:511 Y1:458 Y2:529
+-You want in on this?
+-No<i>.</i>
+
+734
+00:56:16,678 --> 00:56:18,350  X1:166 X2:552 Y1:458 Y2:500
+l just want to make a toast<i>.</i>
+
+735
+00:56:18,438 --> 00:56:21,794  X1:123 X2:594 Y1:458 Y2:534
+This is to us
+finally getting together for dinner<i>.</i>
+
+736
+00:56:23,118 --> 00:56:24,756  X1:167 X2:551 Y1:458 Y2:500
+But l just have one request<i>.</i>
+
+737
+00:56:25,478 --> 00:56:26,752  X1:260 X2:457 Y1:458 Y2:500
+l'm listening<i>.</i>
+
+738
+00:56:26,958 --> 00:56:28,073  X1:252 X2:466 Y1:458 Y2:500
+No police talk<i>.</i>
+
+739
+00:56:28,558 --> 00:56:31,436  X1:121 X2:599 Y1:458 Y2:534
+No mentioning the latest homicide
+or gang shooting<i>.</i>
+
+740
+00:56:32,238 --> 00:56:34,513  X1:092 X2:625 Y1:458 Y2:500
+Tonight, just happy thoughts<i>.</i> Agreed?
+
+741
+00:56:34,718 --> 00:56:37,027  X1:160 X2:556 Y1:458 Y2:500
+Agreed<i>.</i> To happy thoughts<i>.</i>
+
+742
+00:56:39,478 --> 00:56:40,877  X1:165 X2:552 Y1:458 Y2:500
+Good evening, Commander<i>.</i>
+
+743
+00:56:43,038 --> 00:56:44,630  X1:146 X2:571 Y1:458 Y2:500
+What're you doing here, Boyd?
+
+744
+00:56:44,718 --> 00:56:47,357  X1:191 X2:526 Y1:458 Y2:534
+-You wanted to see me<i>.</i>
+-ln my office, not here<i>.</i>
+
+745
+00:56:47,438 --> 00:56:49,269  X1:142 X2:577 Y1:458 Y2:495
+But l'm here now<i>.</i> So let's talk<i>.</i>
+
+746
+00:56:49,358 --> 00:56:52,077  X1:081 X2:637 Y1:458 Y2:534
+l'm sorry,
+but we were actually right in the middle<i>.</i>
+
+747
+00:56:52,758 --> 00:56:54,157  X1:166 X2:551 Y1:458 Y2:500
+Why don't you take a walk?
+
+748
+00:56:55,358 --> 00:56:58,156  X1:112 X2:606 Y1:458 Y2:500
+lt's okay<i>.</i> Just give us five minutes<i>.</i>
+
+749
+00:57:00,998 --> 00:57:02,909  X1:095 X2:623 Y1:458 Y2:500
+l had to go to the men's room anyway<i>.</i>
+
+750
+00:57:07,078 --> 00:57:09,911  X1:118 X2:600 Y1:458 Y2:534
+-How'd you find me?
+-What are you doing with this guy?
+
+751
+00:57:09,998 --> 00:57:12,273  X1:151 X2:567 Y1:458 Y2:500
+That is none of your business<i>.</i>
+
+752
+00:57:12,478 --> 00:57:15,709  X1:151 X2:566 Y1:458 Y2:534
+-He doesn't look right for you<i>.</i>
+-And you do?
+
+753
+00:57:16,838 --> 00:57:18,908  X1:087 X2:631 Y1:458 Y2:500
+What did you want to talk to me about?
+
+754
+00:57:18,998 --> 00:57:20,670  X1:145 X2:572 Y1:458 Y2:500
+Why'd you visit Shaun Rollins?
+
+755
+00:57:20,758 --> 00:57:23,989  X1:179 X2:538 Y1:458 Y2:534
+-The walls have ears<i>.</i>
+-l know everything, Boyd<i>.</i>
+
+756
+00:57:24,358 --> 00:57:25,950  X1:221 X2:497 Y1:458 Y2:500
+So, why am l here?
+
+757
+00:57:26,158 --> 00:57:28,547  X1:163 X2:555 Y1:458 Y2:534
+l don't have time for games<i>.</i>
+What are you up to?
+
+758
+00:57:29,518 --> 00:57:32,237  X1:100 X2:618 Y1:458 Y2:529
+-You used to work for lnternal Affairs<i>.</i>
+-Yeah<i>.</i>
+
+759
+00:57:32,358 --> 00:57:36,271  X1:099 X2:619 Y1:458 Y2:534
+Out of all the people around you,
+how'd you know who you could trust?
+
+760
+00:57:36,878 --> 00:57:38,357  X1:172 X2:545 Y1:458 Y2:500
+Why? What have you got?
+
+761
+00:57:38,438 --> 00:57:42,113  X1:075 X2:642 Y1:458 Y2:534
+l can't say yet<i>.</i> Not till l have more proof<i>.</i>
+What have you got?
+
+762
+00:57:42,558 --> 00:57:45,834  X1:127 X2:593 Y1:458 Y2:534
+Let's just say my instincts tell me
+something's not quite right<i>.</i>
+
+763
+00:57:47,518 --> 00:57:48,951  X1:175 X2:543 Y1:458 Y2:500
+Bring me something solid<i>.</i>
+
+764
+00:57:49,038 --> 00:57:50,471  X1:194 X2:523 Y1:458 Y2:500
+l have something solid<i>.</i>
+
+765
+00:57:50,918 --> 00:57:51,907  X1:272 X2:446 Y1:458 Y2:495
+More solid<i>.</i>
+
+766
+00:57:52,598 --> 00:57:55,988  X1:125 X2:592 Y1:458 Y2:529
+-Then l'll know what to do with it<i>.</i>
+-You'll know what to do with it?
+
+767
+00:57:57,558 --> 00:57:58,832  X1:279 X2:439 Y1:458 Y2:529
+-Carmine?
+-Good<i>.</i>
+
+768
+00:58:00,478 --> 00:58:02,787  X1:135 X2:583 Y1:458 Y2:500
+Not bad<i>.</i> l'll see you on campus<i>.</i>
+
+769
+00:58:12,758 --> 00:58:13,793  X1:232 X2:485 Y1:458 Y2:500
+Watch your back<i>.</i>
+
+770
+00:58:37,638 --> 00:58:39,390  X1:156 X2:563 Y1:458 Y2:500
+Hey, Clark<i>.</i> What's going on?
+
+771
+00:58:39,598 --> 00:58:41,554  X1:217 X2:501 Y1:458 Y2:500
+Six<i>.</i> Nothing much<i>.</i>
+
+772
+00:58:41,758 --> 00:58:44,556  X1:074 X2:644 Y1:458 Y2:500
+l hear you're working with Supercop now<i>.</i>
+
+773
+00:58:44,918 --> 00:58:46,146  X1:235 X2:482 Y1:458 Y2:495
+What's that like?
+
+774
+00:58:46,238 --> 00:58:48,627  X1:094 X2:624 Y1:458 Y2:534
+Hey, George<i>.</i>
+Which one are you? Starsky or Hutch?
+
+775
+00:58:49,878 --> 00:58:50,947  X1:242 X2:477 Y1:458 Y2:495
+Don't mind him<i>.</i>
+
+776
+00:58:51,318 --> 00:58:52,433  X1:299 X2:418 Y1:458 Y2:495
+l don't<i>.</i>
+
+777
+00:58:55,118 --> 00:58:57,313  X1:185 X2:533 Y1:458 Y2:495
+Heard about that scuffle<i>.</i>
+
+778
+00:58:57,478 --> 00:58:59,708  X1:201 X2:517 Y1:458 Y2:534
+What were you doing
+at The Static anyway?
+
+779
+00:58:59,998 --> 00:59:01,954  X1:085 X2:633 Y1:458 Y2:500
+Orin wanted to question the owner, T<i>.</i>K<i>.</i>
+
+780
+00:59:02,518 --> 00:59:03,473  X1:261 X2:456 Y1:458 Y2:495
+About what?
+
+781
+00:59:04,278 --> 00:59:05,506  X1:227 X2:490 Y1:458 Y2:500
+They never spoke<i>.</i>
+
+782
+00:59:05,718 --> 00:59:07,834  X1:092 X2:627 Y1:458 Y2:500
+Boyd's trying to steal my bust, George<i>.</i>
+
+783
+00:59:08,038 --> 00:59:10,472  X1:162 X2:555 Y1:458 Y2:529
+He's a glory hound<i>.</i>
+We've seen this kind before<i>.</i>
+
+784
+00:59:10,718 --> 00:59:12,390  X1:168 X2:550 Y1:458 Y2:500
+What else did you find out?
+
+785
+00:59:12,478 --> 00:59:14,833  X1:133 X2:587 Y1:458 Y2:534
+Nothing<i>.</i> We searched his office,
+came up empty<i>.</i>
+
+786
+00:59:14,918 --> 00:59:17,352  X1:158 X2:560 Y1:458 Y2:534
+l wish you would have called
+the point detective<i>.</i>
+
+787
+00:59:17,438 --> 00:59:18,951  X1:161 X2:556 Y1:458 Y2:500
+l would've found something<i>.</i>
+
+788
+00:59:19,038 --> 00:59:22,792  X1:082 X2:636 Y1:458 Y2:534
+We did find a visitor's pass from County<i>.</i>
+Don't worry, Montini<i>.</i>
+
+789
+00:59:22,878 --> 00:59:24,914  X1:069 X2:648 Y1:458 Y2:500
+We'll let you know what we come up with<i>.</i>
+
+790
+00:59:29,638 --> 00:59:31,276  X1:141 X2:576 Y1:458 Y2:500
+You guys done with the bench?
+
+791
+00:59:31,678 --> 00:59:33,191  X1:241 X2:476 Y1:458 Y2:500
+Yeah, go ahead<i>.</i>
+
+792
+00:59:33,278 --> 00:59:34,711  X1:185 X2:533 Y1:458 Y2:500
+Hey, you know, Montini?
+
+793
+00:59:34,798 --> 00:59:37,710  X1:142 X2:575 Y1:458 Y2:534
+lf all you come down here
+to do is work out your mouth<i>...</i>
+
+794
+00:59:37,918 --> 00:59:40,557  X1:152 X2:566 Y1:458 Y2:529
+<i>...</i>maybe you should move on<i>.</i>
+Breaks our concentration<i>.</i>
+
+795
+00:59:49,158 --> 00:59:51,228  X1:090 X2:629 Y1:458 Y2:500
+Find out who they visited up at County<i>.</i>
+
+796
+00:59:51,318 --> 00:59:53,468  X1:091 X2:625 Y1:458 Y2:500
+Yeah, don't worry about that, l'm on it<i>.</i>
+
+797
+01:00:21,598 --> 01:00:22,872  X1:218 X2:498 Y1:458 Y2:495
+You come with me<i>.</i>
+
+798
+01:00:23,038 --> 01:00:24,596  X1:222 X2:497 Y1:458 Y2:495
+Be back in an hour<i>.</i>
+
+799
+01:00:37,558 --> 01:00:39,116  X1:171 X2:547 Y1:458 Y2:500
+Ready to meet the wizard?
+
+800
+01:00:41,318 --> 01:00:42,637  X1:286 X2:432 Y1:458 Y2:495
+Put it on<i>.</i>
+
+801
+01:00:46,398 --> 01:00:48,548  X1:062 X2:654 Y1:458 Y2:500
+You don't need to know where we're going<i>.</i>
+
+802
+01:00:50,078 --> 01:00:52,831  X1:066 X2:655 Y1:458 Y2:498
+<i>Welcome to the inner sanctum, Mr. Walker.</i>
+
+803
+01:00:56,318 --> 01:00:57,671  X1:167 X2:550 Y1:458 Y2:500
+l always wanted to do that<i>.</i>
+
+804
+01:00:57,958 --> 01:00:59,186  X1:231 X2:487 Y1:458 Y2:495
+l wish l had a cat<i>.</i>
+
+805
+01:00:59,438 --> 01:01:00,757  X1:202 X2:517 Y1:458 Y2:500
+Heard a lot about you<i>.</i>
+
+806
+01:01:00,838 --> 01:01:02,351  X1:172 X2:546 Y1:458 Y2:500
+Wish l could say the same<i>.</i>
+
+807
+01:01:03,118 --> 01:01:05,109  X1:209 X2:509 Y1:458 Y2:500
+Like the saying goes:
+
+808
+01:01:05,438 --> 01:01:09,670  X1:084 X2:633 Y1:458 Y2:529
+'<i>'</i>The greatest trick the devil ever pulled
+was convince the world he didn't exist<i>.</i>'<i>'</i>
+
+809
+01:01:10,678 --> 01:01:12,236  X1:182 X2:537 Y1:458 Y2:500
+Let me show you around<i>.</i>
+
+810
+01:01:36,758 --> 01:01:38,874  X1:196 X2:521 Y1:458 Y2:500
+l don't get it<i>.</i> T-shirts?
+
+811
+01:01:39,078 --> 01:01:41,512  X1:176 X2:541 Y1:458 Y2:534
+Amazing what you can do
+with the right chemicals<i>.</i>
+
+812
+01:01:41,598 --> 01:01:44,715  X1:072 X2:646 Y1:458 Y2:534
+Your connections are all over the country,
+this is our plan<i>...</i>
+
+813
+01:01:44,798 --> 01:01:46,629  X1:142 X2:577 Y1:458 Y2:500
+<i>...</i>to get the heroin out of state<i>.</i>
+
+814
+01:01:46,718 --> 01:01:49,357  X1:100 X2:619 Y1:458 Y2:500
+No risky exposure, no trail back to us<i>.</i>
+
+815
+01:01:49,438 --> 01:01:52,669  X1:181 X2:538 Y1:458 Y2:529
+These T-shirts are dipped
+in a heroin solution<i>...</i>
+
+816
+01:01:53,438 --> 01:01:55,668  X1:145 X2:573 Y1:458 Y2:500
+<i>...</i>and dried under these lamps<i>.</i>
+
+817
+01:01:56,118 --> 01:01:58,427  X1:079 X2:639 Y1:458 Y2:500
+They're folded and sealed in shrink-wrap<i>.</i>
+
+818
+01:01:59,678 --> 01:02:01,270  X1:186 X2:532 Y1:458 Y2:500
+Dogs can't even smell it<i>.</i>
+
+819
+01:02:01,438 --> 01:02:03,269  X1:085 X2:632 Y1:458 Y2:500
+You can send them anywhere you want<i>.</i>
+
+820
+01:02:03,358 --> 01:02:04,791  X1:191 X2:528 Y1:458 Y2:495
+Extract the heroin later<i>.</i>
+
+821
+01:02:05,598 --> 01:02:06,667  X1:295 X2:421 Y1:458 Y2:495
+You in?
+
+822
+01:02:09,758 --> 01:02:10,713  X1:263 X2:453 Y1:458 Y2:498
+Yeah, l'm in<i>.</i>
+
+823
+01:02:12,598 --> 01:02:14,111  X1:188 X2:530 Y1:458 Y2:500
+Pick you up at midnight<i>.</i>
+
+824
+01:02:32,038 --> 01:02:35,428  X1:163 X2:553 Y1:458 Y2:534
+Me and the l Team came up
+with some fascinating intel<i>.</i>
+
+825
+01:02:35,598 --> 01:02:37,953  X1:130 X2:588 Y1:458 Y2:529
+Latrell Walker's whole l<i>.</i>D<i>.</i>'s fake<i>.</i>
+He's a shell<i>.</i>
+
+826
+01:02:38,038 --> 01:02:40,154  X1:096 X2:622 Y1:458 Y2:500
+He paid a lot too<i>.</i> He's got everything<i>.</i>
+
+827
+01:02:40,238 --> 01:02:42,752  X1:134 X2:586 Y1:458 Y2:529
+Driver's license, birth certificate,
+credit cards<i>.</i>
+
+828
+01:02:42,838 --> 01:02:45,033  X1:082 X2:637 Y1:458 Y2:500
+He's even got a voter's registration card<i>.</i>
+
+829
+01:02:45,118 --> 01:02:47,678  X1:141 X2:576 Y1:458 Y2:529
+Normal investigation
+wouldn't have uncovered this<i>...</i>
+
+830
+01:02:47,758 --> 01:02:51,876  X1:071 X2:649 Y1:458 Y2:534
+<i>...</i>but one of our dudes worked for the lRS,
+and can computer-dissect anybody<i>.</i>
+
+831
+01:02:51,958 --> 01:02:53,311  X1:237 X2:481 Y1:458 Y2:498
+Who is he, then?
+
+832
+01:02:53,518 --> 01:02:55,190  X1:166 X2:553 Y1:458 Y2:495
+He's Shaun Rollins' brother<i>.</i>
+
+833
+01:02:55,518 --> 01:02:56,507  X1:256 X2:463 Y1:458 Y2:495
+Listen to this<i>.</i>
+
+834
+01:02:56,598 --> 01:03:00,227  X1:067 X2:652 Y1:458 Y2:534
+<i>About six months ago,</i>
+<i>Latrell's little brother, Shaun, gets popped.</i>
+
+835
+01:03:00,398 --> 01:03:04,027  X1:106 X2:612 Y1:458 Y2:534
+<i>He claims the heroin was planted,</i>
+<i>but the cops made the charges stick.</i>
+
+836
+01:03:04,118 --> 01:03:06,552  X1:202 X2:516 Y1:458 Y2:529
+<i>Next thing you know,</i>
+<i>Latrell's back in town.</i>
+
+837
+01:03:06,638 --> 01:03:08,310  X1:143 X2:578 Y1:458 Y2:500
+<i>That's why he was visiting him.</i>
+
+838
+01:03:08,398 --> 01:03:12,630  X1:094 X2:625 Y1:458 Y2:534
+<i>My sources ran a check on Shaun also,</i>
+<i>and he's set for life financially.</i>
+
+839
+01:03:12,718 --> 01:03:14,037  X1:229 X2:492 Y1:458 Y2:495
+<i>How? From who?</i>
+
+840
+01:03:14,318 --> 01:03:17,037  X1:136 X2:581 Y1:458 Y2:534
+<i>He has a trust fund</i>
+<i>set up in his name for millions...</i>
+
+841
+01:03:17,118 --> 01:03:19,109  X1:116 X2:602 Y1:458 Y2:495
+<i>...but he can't touch it until he's 2</i>5<i>.</i>
+
+842
+01:03:19,198 --> 01:03:21,473  X1:197 X2:525 Y1:458 Y2:534
+-<i>Who set it up for him?</i>
+-<i>l'm getting to that.</i>
+
+843
+01:03:21,558 --> 01:03:25,187  X1:099 X2:620 Y1:458 Y2:534
+<i>Shaun also has another brother, Leon.</i>
+<i>Or so l thought.</i>
+
+844
+01:03:25,278 --> 01:03:28,873  X1:107 X2:615 Y1:458 Y2:534
+<i>Now, Leon Rollins and Latrell Walker</i>
+<i>are the same person.</i>
+
+845
+01:03:28,958 --> 01:03:30,152  X1:223 X2:497 Y1:458 Y2:500
+<i>You're shitting me.</i>
+
+846
+01:03:30,238 --> 01:03:32,468  X1:175 X2:544 Y1:458 Y2:500
+<i>Leon's also a gazillionaire.</i>
+
+847
+01:03:33,038 --> 01:03:36,189  X1:101 X2:620 Y1:458 Y2:534
+<i>How can a guy with no record</i>
+<i>make so much money dealing heroin?</i>
+
+848
+01:03:36,278 --> 01:03:38,667  X1:122 X2:597 Y1:458 Y2:500
+<i>No, no. The guy's a computer wiz.</i>
+
+849
+01:03:38,878 --> 01:03:42,393  X1:112 X2:608 Y1:458 Y2:531
+<i>Started up a dot com out of</i> V<i>irginia</i>
+<i>called</i> $9<i>.</i>99 <i>Dot</i> C<i>om.</i>
+
+850
+01:03:42,478 --> 01:03:44,230  X1:141 X2:583 Y1:458 Y2:500
+<i>''Anything you want under</i> $<i>10. ''</i>
+
+851
+01:03:44,318 --> 01:03:48,550  X1:087 X2:632 Y1:458 Y2:534
+<i>And he did great. Lucky bastard</i>
+<i>cashed out just before the bubble burst.</i>
+
+852
+01:03:48,638 --> 01:03:53,154  X1:084 X2:635 Y1:458 Y2:534
+<i>Maybe Latrell's buying heroin,</i>
+<i>and seeking distributors on the lnternet.</i>
+
+853
+01:03:53,278 --> 01:03:55,234  X1:072 X2:646 Y1:458 Y2:500
+Welcome to the Computer Age, my friend<i>.</i>
+
+854
+01:03:55,438 --> 01:03:58,430  X1:128 X2:590 Y1:458 Y2:534
+No street involvement,
+no watching out for cops, no risk<i>.</i>
+
+855
+01:03:58,518 --> 01:03:59,951  X1:213 X2:504 Y1:458 Y2:498
+lt's brilliant, isn't it?
+
+856
+01:04:01,398 --> 01:04:04,196  X1:129 X2:589 Y1:458 Y2:534
+lt still doesn't add up
+unless they have some big debts<i>.</i>
+
+857
+01:04:04,278 --> 01:04:07,748  X1:128 X2:590 Y1:458 Y2:534
+Well, here's all the paperwork<i>.</i>
+l got lPO statements, tax returns<i>.</i>
+
+858
+01:04:07,838 --> 01:04:10,750  X1:067 X2:650 Y1:458 Y2:534
+l got his address
+from a crooked car dealer we investigated<i>.</i>
+
+859
+01:04:10,838 --> 01:04:13,306  X1:066 X2:652 Y1:458 Y2:500
+l don't know if it will help, but l did my job<i>.</i>
+
+860
+01:04:14,038 --> 01:04:15,266  X1:218 X2:498 Y1:458 Y2:500
+You did good, man<i>.</i>
+
+861
+01:04:16,478 --> 01:04:17,274  X1:239 X2:479 Y1:458 Y2:500
+Thanks, partner<i>.</i>
+
+862
+01:05:45,278 --> 01:05:46,472  X1:219 X2:497 Y1:458 Y2:500
+Let's go<i>.</i> Smash it!
+
+863
+01:05:50,158 --> 01:05:51,511  X1:256 X2:461 Y1:458 Y2:495
+Let's move it!
+
+864
+01:06:09,758 --> 01:06:12,147  X1:205 X2:513 Y1:458 Y2:500
+Montini, Useldinger<i>...</i>
+
+865
+01:06:12,318 --> 01:06:13,751  X1:229 X2:490 Y1:458 Y2:500
+<i>...</i>what a surprise<i>.</i>
+
+866
+01:06:15,318 --> 01:06:16,717  X1:201 X2:516 Y1:458 Y2:495
+This to make me talk?
+
+867
+01:06:16,798 --> 01:06:18,470  X1:188 X2:531 Y1:458 Y2:500
+No, it's to make you die<i>.</i>
+
+868
+01:06:18,558 --> 01:06:21,516  X1:089 X2:629 Y1:458 Y2:529
+lt's from Latrell<i>.</i>
+He made us an offer we couldn't refuse<i>.</i>
+
+869
+01:06:36,638 --> 01:06:37,673  X1:283 X2:433 Y1:458 Y2:495
+Look out!
+
+870
+01:06:41,678 --> 01:06:43,157  X1:272 X2:444 Y1:458 Y2:495
+Shoot him!
+
+871
+01:08:18,758 --> 01:08:21,033  X1:062 X2:654 Y1:458 Y2:500
+You don't have the balls to kill me yourself<i>.</i>
+
+872
+01:08:21,118 --> 01:08:23,348  X1:068 X2:648 Y1:458 Y2:500
+You don't know what you're talking about<i>.</i>
+
+873
+01:08:25,558 --> 01:08:27,753  X1:151 X2:566 Y1:458 Y2:529
+-l know everything about you<i>.</i>
+-About time<i>.</i>
+
+874
+01:08:27,838 --> 01:08:29,510  X1:134 X2:584 Y1:458 Y2:500
+But why would l want you dead?
+
+875
+01:08:29,598 --> 01:08:32,510  X1:084 X2:635 Y1:458 Y2:534
+Because l'm that close to locking you up
+with your brother<i>.</i>
+
+876
+01:08:54,158 --> 01:08:56,149  X1:084 X2:632 Y1:458 Y2:500
+You want to see what's really going on?
+
+877
+01:09:00,958 --> 01:09:02,073  X1:283 X2:434 Y1:458 Y2:495
+Come on<i>.</i>
+
+878
+01:09:16,638 --> 01:09:19,152  X1:142 X2:575 Y1:458 Y2:500
+lt's all right, it's all right<i>.</i> Chill<i>.</i>
+
+879
+01:09:20,318 --> 01:09:21,671  X1:208 X2:509 Y1:458 Y2:500
+This is my operation<i>.</i>
+
+880
+01:09:24,598 --> 01:09:26,714  X1:221 X2:496 Y1:458 Y2:534
+-What's up, man?
+-Yeah, it's all right<i>.</i>
+
+881
+01:09:31,038 --> 01:09:33,029  X1:114 X2:603 Y1:458 Y2:500
+l believe you two have already met<i>.</i>
+
+882
+01:09:34,598 --> 01:09:36,395  X1:134 X2:583 Y1:458 Y2:500
+What the hell're you doing here?
+
+883
+01:09:36,478 --> 01:09:38,230  X1:127 X2:589 Y1:458 Y2:500
+You want another ass-whupping?
+
+884
+01:09:38,638 --> 01:09:40,993  X1:097 X2:621 Y1:458 Y2:500
+l'm joking<i>.</i> l got your grill downstairs<i>.</i>
+
+885
+01:09:41,118 --> 01:09:43,074  X1:072 X2:645 Y1:458 Y2:500
+l can send somebody to get it if you want<i>.</i>
+
+886
+01:09:43,158 --> 01:09:45,114  X1:099 X2:619 Y1:458 Y2:500
+Come, l want to show you something<i>.</i>
+
+887
+01:09:51,118 --> 01:09:52,312  X1:287 X2:430 Y1:458 Y2:500
+All right<i>.</i>
+
+888
+01:09:53,678 --> 01:09:54,588  X1:314 X2:402 Y1:458 Y2:495
+You<i>.</i>
+
+889
+01:09:54,798 --> 01:09:55,753  X1:249 X2:469 Y1:458 Y2:500
+Good memory<i>.</i>
+
+890
+01:09:55,958 --> 01:09:57,755  X1:134 X2:583 Y1:458 Y2:500
+This is Trish, my guardian angel<i>.</i>
+
+891
+01:09:58,478 --> 01:10:00,946  X1:116 X2:601 Y1:458 Y2:534
+-She's helping out with the project<i>.</i>
+-What project?
+
+892
+01:10:01,038 --> 01:10:04,872  X1:075 X2:643 Y1:458 Y2:534
+See, a lot of people talk about
+police corruption, but no one ever sees it<i>.</i>
+
+893
+01:10:05,638 --> 01:10:08,675  X1:071 X2:648 Y1:458 Y2:529
+l figured l'd be the one to show it to them,
+over the lnternet<i>.</i>
+
+894
+01:10:08,878 --> 01:10:10,072  X1:266 X2:452 Y1:458 Y2:495
+Have a seat<i>.</i>
+
+895
+01:10:11,198 --> 01:10:13,234  X1:245 X2:477 Y1:458 Y2:529
+-<i>How much?</i>
+-<i>How about 2</i>5<i>?</i>
+
+896
+01:10:13,438 --> 01:10:15,030  X1:158 X2:562 Y1:458 Y2:498
+<i>With a cut here, a cut there...</i>
+
+897
+01:10:15,198 --> 01:10:18,793  X1:099 X2:620 Y1:458 Y2:534
+<i>...it'll double your money easily.</i>
+<i>Quickest quarter mil you'll ever make.</i>
+
+898
+01:10:18,998 --> 01:10:21,353  X1:079 X2:638 Y1:458 Y2:500
+<i>l need major weight. l need it yesterday.</i>
+
+899
+01:10:21,558 --> 01:10:23,788  X1:181 X2:535 Y1:458 Y2:534
+We've been tracking
+their activity for months<i>.</i>
+
+900
+01:10:23,998 --> 01:10:26,990  X1:154 X2:564 Y1:458 Y2:534
+l'm compiling the video
+on our digital editing system<i>.</i>
+
+901
+01:10:27,078 --> 01:10:28,193  X1:221 X2:498 Y1:458 Y2:495
+<i>You come with me.</i>
+
+902
+01:10:28,278 --> 01:10:29,427  X1:222 X2:497 Y1:458 Y2:495
+<i>Be back in an hour.</i>
+
+903
+01:10:29,598 --> 01:10:32,874  X1:134 X2:585 Y1:458 Y2:529
+When we have enough evidence,
+we'll show it to the authorities<i>.</i>
+
+904
+01:10:35,078 --> 01:10:37,911  X1:112 X2:605 Y1:458 Y2:534
+lf that doesn't work,
+we'll post the video on our website<i>.</i>
+
+905
+01:10:37,998 --> 01:10:39,590  X1:201 X2:522 Y1:458 Y2:500
+<i>Why you pressing me?</i>
+
+906
+01:10:39,798 --> 01:10:44,235  X1:087 X2:630 Y1:458 Y2:534
+<i>Look, ifl wanted to bust you, man,</i>
+<i>l'd have brought you in a long time ago.</i>
+
+907
+01:10:44,438 --> 01:10:48,226  X1:107 X2:617 Y1:458 Y2:534
+<i>This is business. l just got a shitload</i>
+<i>ofproduct for our next deal.</i>
+
+908
+01:10:48,438 --> 01:10:49,757  X1:226 X2:492 Y1:458 Y2:500
+lncriminating shit<i>.</i>
+
+909
+01:10:50,758 --> 01:10:54,307  X1:068 X2:649 Y1:458 Y2:534
+They think l'm a buyer from the
+West Coast looking to score major weight<i>.</i>
+
+910
+01:10:54,478 --> 01:10:55,752  X1:223 X2:495 Y1:458 Y2:500
+They raised it, too<i>.</i>
+
+911
+01:10:55,838 --> 01:10:59,433  X1:108 X2:611 Y1:458 Y2:534
+l don't know how, but they managed
+to get $5 million worth of shit<i>.</i>
+
+912
+01:10:59,918 --> 01:11:00,873  X1:274 X2:445 Y1:458 Y2:500
+Piper Tech<i>.</i>
+
+913
+01:11:01,358 --> 01:11:02,507  X1:250 X2:467 Y1:458 Y2:495
+Run number 8<i>.</i>
+
+914
+01:11:02,958 --> 01:11:04,630  X1:276 X2:442 Y1:458 Y2:529
+-You sure?
+-Yeah<i>.</i>
+
+915
+01:11:05,918 --> 01:11:08,637  X1:066 X2:655 Y1:458 Y2:498
+<i>Welcome to the inner sanctum, Mr. Walker.</i>
+
+916
+01:11:10,878 --> 01:11:12,470  X1:167 X2:550 Y1:458 Y2:500
+<i>l always wanted to do that.</i>
+
+917
+01:11:12,638 --> 01:11:14,390  X1:132 X2:584 Y1:458 Y2:495
+You didn't know he was in on it?
+
+918
+01:11:14,478 --> 01:11:18,437  X1:086 X2:636 Y1:458 Y2:529
+<i>''The greatest trick the devil ever pulled</i>
+<i>was convince the world he didn't exist. ''</i>
+
+919
+01:11:18,918 --> 01:11:20,556  X1:135 X2:582 Y1:458 Y2:500
+Where'd you guys get this stuff?<i>.</i>
+
+920
+01:11:20,638 --> 01:11:23,152  X1:138 X2:580 Y1:458 Y2:500
+From everywhere<i>.</i> Check it out<i>.</i>
+
+921
+01:11:23,798 --> 01:11:26,631  X1:090 X2:627 Y1:458 Y2:534
+This is our stuff<i>.</i>
+We have cameras hidden in everything<i>.</i>
+
+922
+01:11:27,198 --> 01:11:30,190  X1:078 X2:640 Y1:458 Y2:500
+Watches, batteries, purses<i>.</i> You name it<i>.</i>
+
+923
+01:11:31,918 --> 01:11:35,831  X1:081 X2:638 Y1:458 Y2:534
+This is a little camera that can be hidden
+everywhere and can see everything<i>.</i>
+
+924
+01:11:36,118 --> 01:11:38,951  X1:108 X2:610 Y1:458 Y2:529
+And you're the star of a few of these
+as well<i>.</i>
+
+925
+01:11:40,878 --> 01:11:42,231  X1:215 X2:503 Y1:458 Y2:500
+C<i>ome on, let me go.</i>
+
+926
+01:11:42,398 --> 01:11:44,434  X1:277 X2:442 Y1:458 Y2:498
+<i>Shit, man!</i>
+
+927
+01:11:46,238 --> 01:11:47,432  X1:283 X2:437 Y1:458 Y2:495
+C<i>ome on!</i>
+
+928
+01:11:47,598 --> 01:11:49,031  X1:264 X2:454 Y1:458 Y2:500
+Lucky move<i>.</i>
+
+929
+01:11:50,238 --> 01:11:51,432  X1:259 X2:460 Y1:458 Y2:500
+Unlucky face<i>.</i>
+
+930
+01:11:52,238 --> 01:11:54,069  X1:157 X2:560 Y1:458 Y2:500
+T, get us something to drink<i>.</i>
+
+931
+01:11:54,318 --> 01:11:57,708  X1:106 X2:611 Y1:458 Y2:529
+Just because l own a bar don't mean
+l'm lsaac from <i>The Love Boat.</i>
+
+932
+01:11:57,918 --> 01:11:59,431  X1:163 X2:554 Y1:458 Y2:500
+A Hennessy Paradis, please<i>.</i>
+
+933
+01:11:59,678 --> 01:12:02,715  X1:093 X2:624 Y1:458 Y2:534
+Yes, master<i>.</i>
+Should l get some for Mr<i>.</i> Charlie, too?
+
+934
+01:12:05,238 --> 01:12:06,466  X1:219 X2:499 Y1:458 Y2:500
+What do you think?
+
+935
+01:12:06,558 --> 01:12:08,514  X1:083 X2:634 Y1:458 Y2:495
+l think we need to take them down now<i>.</i>
+
+936
+01:12:08,598 --> 01:12:11,908  X1:086 X2:632 Y1:458 Y2:534
+Not yet<i>.</i> l want to catch
+all these guys at once<i>.</i> Stick it to them<i>.</i>
+
+937
+01:12:11,998 --> 01:12:13,590  X1:121 X2:597 Y1:458 Y2:500
+l won't wait<i>.</i> They tried to kill me<i>.</i>
+
+938
+01:12:13,678 --> 01:12:16,590  X1:145 X2:573 Y1:458 Y2:534
+l won't let you ruin this<i>.</i>
+My brother's ass is on the line<i>.</i>
+
+939
+01:12:16,678 --> 01:12:18,191  X1:164 X2:554 Y1:458 Y2:500
+What's he got to do with it?
+
+940
+01:12:18,318 --> 01:12:21,276  X1:112 X2:604 Y1:458 Y2:534
+Your buddies wanted
+their own drug dealer on the street<i>.</i>
+
+941
+01:12:21,438 --> 01:12:24,794  X1:075 X2:643 Y1:458 Y2:534
+Rather than lose him, they framed Shaun<i>.</i>
+l got to get him out of jail<i>.</i>
+
+942
+01:12:25,598 --> 01:12:27,748  X1:066 X2:651 Y1:458 Y2:500
+l made my father a promise before he died<i>.</i>
+
+943
+01:12:28,318 --> 01:12:30,388  X1:089 X2:628 Y1:458 Y2:500
+That l'd always be my brother's keeper<i>.</i>
+
+944
+01:12:31,598 --> 01:12:32,792  X1:214 X2:503 Y1:458 Y2:500
+l keep my promises<i>.</i>
+
+945
+01:12:35,358 --> 01:12:37,508  X1:072 X2:646 Y1:458 Y2:500
+Where'd you promise to meet these boys?
+
+946
+01:12:37,998 --> 01:12:39,670  X1:211 X2:508 Y1:458 Y2:495
+Frederick's Cleaners<i>.</i>
+
+947
+01:12:41,598 --> 01:12:42,872  X1:245 X2:472 Y1:458 Y2:500
+After midnight<i>.</i>
+
+948
+01:12:43,118 --> 01:12:44,153  X1:254 X2:463 Y1:458 Y2:495
+l'll need a car<i>.</i>
+
+949
+01:12:45,838 --> 01:12:47,066  X1:224 X2:493 Y1:458 Y2:500
+Give him the keys<i>.</i>
+
+950
+01:12:48,118 --> 01:12:49,631  X1:270 X2:448 Y1:458 Y2:500
+T, the keys<i>.</i>
+
+951
+01:12:51,558 --> 01:12:53,867  X1:120 X2:597 Y1:458 Y2:534
+Come on, man<i>.</i>
+My mama don't even drive my car<i>.</i>
+
+952
+01:12:53,958 --> 01:12:55,391  X1:224 X2:493 Y1:458 Y2:500
+Give him the keys<i>.</i>
+
+953
+01:12:58,718 --> 01:13:00,197  X1:177 X2:540 Y1:458 Y2:500
+You scratch it, you buy it<i>.</i>
+
+954
+01:13:40,918 --> 01:13:43,068  X1:102 X2:617 Y1:458 Y2:500
+Nice inconspicuous car you got there<i>.</i>
+
+955
+01:13:43,278 --> 01:13:44,552  X1:274 X2:444 Y1:458 Y2:500
+Thank you<i>.</i>
+
+956
+01:13:44,798 --> 01:13:46,026  X1:210 X2:507 Y1:458 Y2:500
+What'd you find out?
+
+957
+01:13:46,118 --> 01:13:47,836  X1:169 X2:550 Y1:458 Y2:500
+Piper Tech was hit by cops<i>.</i>
+
+958
+01:13:48,238 --> 01:13:49,432  X1:301 X2:417 Y1:458 Y2:529
+-Cops?
+-Yeah<i>.</i>
+
+959
+01:13:50,078 --> 01:13:51,033  X1:243 X2:475 Y1:458 Y2:500
+Come on, Boyd<i>.</i>
+
+960
+01:13:51,278 --> 01:13:54,475  X1:166 X2:553 Y1:458 Y2:534
+Strutt, Useldinger, Montini,
+they're all dirty<i>.</i>
+
+961
+01:13:56,438 --> 01:13:59,430  X1:183 X2:534 Y1:458 Y2:534
+Are you positive?
+What proof do you have?
+
+962
+01:13:59,518 --> 01:14:00,473  X1:258 X2:459 Y1:458 Y2:495
+Start the car<i>.</i>
+
+963
+01:14:14,918 --> 01:14:16,431  X1:202 X2:513 Y1:458 Y2:500
+Get the car! Let's go!
+
+964
+01:14:18,478 --> 01:14:20,070  X1:202 X2:516 Y1:458 Y2:529
+-ls that proof enough?
+-Yeah<i>.</i>
+
+965
+01:14:20,278 --> 01:14:21,267  X1:272 X2:446 Y1:458 Y2:495
+Now move<i>.</i>
+
+966
+01:14:30,958 --> 01:14:32,835  X1:190 X2:527 Y1:458 Y2:500
+Step on it<i>.</i> We got him<i>.</i>
+
+967
+01:15:06,038 --> 01:15:06,834  X1:282 X2:434 Y1:458 Y2:495
+Come on!
+
+968
+01:15:10,358 --> 01:15:12,394  X1:250 X2:465 Y1:458 Y2:534
+-There he is<i>.</i>
+-Pop him now!
+
+969
+01:15:13,278 --> 01:15:14,313  X1:312 X2:403 Y1:458 Y2:495
+Shit!
+
+970
+01:15:17,918 --> 01:15:18,873  X1:290 X2:426 Y1:458 Y2:495
+Hold on!
+
+971
+01:15:30,678 --> 01:15:33,146  X1:100 X2:618 Y1:458 Y2:534
+-l always said women are bad drivers<i>.</i>
+-l agree<i>.</i>
+
+972
+01:15:38,638 --> 01:15:40,310  X1:263 X2:452 Y1:458 Y2:529
+-There he is!
+-Yeah<i>.</i>
+
+973
+01:15:43,198 --> 01:15:45,109  X1:238 X2:477 Y1:458 Y2:500
+Get up on them!
+
+974
+01:15:50,838 --> 01:15:51,714  X1:312 X2:403 Y1:458 Y2:495
+Shit!
+
+975
+01:15:52,718 --> 01:15:54,549  X1:237 X2:479 Y1:458 Y2:495
+Shit! Goddamn!
+
+976
+01:15:57,758 --> 01:15:59,749  X1:218 X2:497 Y1:458 Y2:500
+Get out of the way!
+
+977
+01:16:09,518 --> 01:16:11,270  X1:218 X2:497 Y1:458 Y2:500
+Get out of the way!
+
+978
+01:16:11,518 --> 01:16:12,951  X1:272 X2:445 Y1:458 Y2:534
+-Go right<i>.</i>
+-Going left<i>.</i>
+
+979
+01:16:15,438 --> 01:16:16,553  X1:250 X2:466 Y1:458 Y2:500
+Get up to him!
+
+980
+01:16:16,918 --> 01:16:18,317  X1:272 X2:444 Y1:458 Y2:495
+Shoot him!
+
+981
+01:16:38,438 --> 01:16:39,427  X1:302 X2:414 Y1:458 Y2:495
+Damn!
+
+982
+01:16:40,398 --> 01:16:41,990  X1:256 X2:460 Y1:458 Y2:500
+Hey, my bike!
+
+983
+01:16:42,718 --> 01:16:44,549  X1:214 X2:501 Y1:458 Y2:500
+l got a date tonight!
+
+984
+01:16:49,838 --> 01:16:51,112  X1:303 X2:412 Y1:458 Y2:495
+Move!
+
+985
+01:16:57,078 --> 01:16:58,796  X1:218 X2:497 Y1:458 Y2:500
+Get out of the way!
+
+986
+01:17:08,478 --> 01:17:09,752  X1:272 X2:444 Y1:458 Y2:495
+Go around!
+
+987
+01:17:39,518 --> 01:17:40,348  X1:288 X2:427 Y1:458 Y2:498
+Oh, shit!
+
+988
+01:17:57,598 --> 01:17:59,111  X1:240 X2:476 Y1:458 Y2:500
+Push it through!
+
+989
+01:18:06,718 --> 01:18:07,594  X1:298 X2:420 Y1:458 Y2:495
+Fucker<i>.</i>
+
+990
+01:18:12,318 --> 01:18:13,273  X1:283 X2:433 Y1:458 Y2:495
+Look out!
+
+991
+01:18:13,438 --> 01:18:15,872  X1:149 X2:565 Y1:458 Y2:500
+Just get it off! Just get it off!
+
+992
+01:18:15,958 --> 01:18:17,027  X1:302 X2:413 Y1:458 Y2:495
+There!
+
+993
+01:18:28,158 --> 01:18:29,432  X1:228 X2:489 Y1:458 Y2:495
+Get the fuck off<i>....</i>
+
+994
+01:18:51,958 --> 01:18:55,189  X1:210 X2:508 Y1:458 Y2:532
+-This better be good<i>.</i>
+-<i>Frank, l'm in hell.</i>
+
+995
+01:18:56,038 --> 01:18:58,268  X1:170 X2:547 Y1:458 Y2:534
+What happened?
+There's an APB out on you<i>.</i>
+
+996
+01:18:58,358 --> 01:19:01,748  X1:115 X2:603 Y1:458 Y2:534
+Mulcahy's dead, you fled the scene<i>.</i>
+They're pinning Piper Tech on you<i>.</i>
+
+997
+01:19:01,838 --> 01:19:04,875  X1:172 X2:545 Y1:458 Y2:534
+Strutt and Montini<i>.</i>
+They're behind everything<i>.</i>
+
+998
+01:19:04,998 --> 01:19:07,592  X1:150 X2:567 Y1:458 Y2:534
+-<i>How do you know that?</i>
+-Because they tried to kill me<i>.</i>
+
+999
+01:19:07,678 --> 01:19:09,987  X1:081 X2:638 Y1:458 Y2:534
+-Look--
+-<i>Frank, you've known me for a long time.</i>
+
+1000
+01:19:10,078 --> 01:19:11,716  X1:194 X2:525 Y1:458 Y2:500
+Have l ever lied to you?
+
+1001
+01:19:12,998 --> 01:19:14,397  X1:158 X2:560 Y1:458 Y2:500
+What do you want me to do?
+
+1002
+01:19:14,478 --> 01:19:16,389  X1:122 X2:595 Y1:458 Y2:495
+You said l never think before l act<i>.</i>
+
+1003
+01:19:16,798 --> 01:19:18,436  X1:195 X2:522 Y1:458 Y2:500
+Well, l'm thinking now<i>.</i>
+
+1004
+01:19:19,278 --> 01:19:20,757  X1:251 X2:466 Y1:458 Y2:500
+l need backup<i>.</i>
+
+1005
+01:19:21,038 --> 01:19:22,949  X1:105 X2:613 Y1:458 Y2:500
+There's a deal to go down in an hour<i>.</i>
+
+1006
+01:19:23,038 --> 01:19:25,677  X1:124 X2:597 Y1:458 Y2:534
+<i>Strutt's selling the heroin he stole</i>
+<i>from Piper Tech.</i>
+
+1007
+01:19:25,758 --> 01:19:26,952  X1:229 X2:489 Y1:458 Y2:500
+l'll get some men<i>.</i>
+
+1008
+01:19:27,678 --> 01:19:29,987  X1:200 X2:518 Y1:458 Y2:534
+Strutt? What the hell
+are you talking about?
+
+1009
+01:19:30,078 --> 01:19:34,037  X1:075 X2:642 Y1:458 Y2:534
+l understand if you don't believe me<i>.</i> You
+said you wanted to clean up the streets<i>.</i>
+
+1010
+01:19:34,118 --> 01:19:35,267  X1:219 X2:500 Y1:458 Y2:500
+Here's your chance<i>.</i>
+
+1011
+01:19:42,878 --> 01:19:44,277  X1:180 X2:537 Y1:458 Y2:500
+Give me the baby, honey<i>.</i>
+
+1012
+01:19:45,038 --> 01:19:46,517  X1:250 X2:467 Y1:458 Y2:495
+You take over<i>.</i>
+
+1013
+01:20:03,598 --> 01:20:04,428  X1:277 X2:442 Y1:458 Y2:495
+Let's do it<i>.</i>
+
+1014
+01:20:26,678 --> 01:20:28,157  X1:252 X2:465 Y1:458 Y2:500
+Right on time<i>.</i>
+
+1015
+01:20:28,758 --> 01:20:30,908  X1:084 X2:634 Y1:458 Y2:500
+Punctuality is the soul of good business<i>.</i>
+
+1016
+01:20:32,278 --> 01:20:33,347  X1:279 X2:439 Y1:458 Y2:495
+l like that<i>.</i>
+
+1017
+01:20:42,758 --> 01:20:44,157  X1:186 X2:532 Y1:458 Y2:500
+Check it out if you want<i>.</i>
+
+1018
+01:20:54,638 --> 01:20:55,753  X1:305 X2:413 Y1:458 Y2:495
+Frank<i>.</i>
+
+1019
+01:20:56,398 --> 01:20:57,797  X1:266 X2:452 Y1:458 Y2:498
+Christ, Orin<i>.</i>
+
+1020
+01:20:59,238 --> 01:21:00,512  X1:193 X2:525 Y1:458 Y2:500
+Did you bring anybody?
+
+1021
+01:21:00,718 --> 01:21:02,356  X1:144 X2:574 Y1:458 Y2:495
+l don't know who we can trust<i>.</i>
+
+1022
+01:21:03,398 --> 01:21:06,913  X1:073 X2:643 Y1:458 Y2:534
+l want you to put this on<i>.</i>
+You'll need all the protection you can get<i>.</i>
+
+1023
+01:21:06,998 --> 01:21:08,351  X1:185 X2:534 Y1:458 Y2:500
+Let me hold that for you<i>.</i>
+
+1024
+01:21:09,038 --> 01:21:10,994  X1:109 X2:608 Y1:458 Y2:500
+l haven't worn one of these in years<i>.</i>
+
+1025
+01:21:12,478 --> 01:21:13,672  X1:229 X2:489 Y1:458 Y2:500
+Tastes like candy<i>.</i>
+
+1026
+01:21:14,638 --> 01:21:16,356  X1:130 X2:586 Y1:458 Y2:500
+As you can see, we kept our end<i>.</i>
+
+1027
+01:21:16,438 --> 01:21:17,632  X1:224 X2:495 Y1:458 Y2:500
+Now it's your turn<i>.</i>
+
+1028
+01:21:17,918 --> 01:21:19,192  X1:223 X2:494 Y1:458 Y2:500
+ls that the money?
+
+1029
+01:21:19,398 --> 01:21:20,467  X1:316 X2:403 Y1:458 Y2:495
+Half<i>.</i>
+
+1030
+01:21:26,158 --> 01:21:27,147  X1:265 X2:452 Y1:458 Y2:497
+$2<i>.</i>5 million<i>.</i>
+
+1031
+01:21:27,638 --> 01:21:28,866  X1:216 X2:503 Y1:458 Y2:495
+Deal wasn't for half<i>.</i>
+
+1032
+01:21:29,158 --> 01:21:30,591  X1:183 X2:535 Y1:458 Y2:500
+l'm just covering my ass<i>.</i>
+
+1033
+01:21:30,678 --> 01:21:33,476  X1:155 X2:562 Y1:458 Y2:534
+You'll get the rest as soon as
+we leave in one piece<i>.</i>
+
+1034
+01:21:33,558 --> 01:21:34,707  X1:219 X2:498 Y1:458 Y2:500
+You have my word<i>.</i>
+
+1035
+01:21:34,798 --> 01:21:36,356  X1:144 X2:573 Y1:458 Y2:500
+Your word is not good enough<i>.</i>
+
+1036
+01:21:36,438 --> 01:21:37,996  X1:150 X2:569 Y1:458 Y2:500
+Looks like we have a problem<i>.</i>
+
+1037
+01:21:38,158 --> 01:21:39,830  X1:197 X2:519 Y1:458 Y2:500
+You'll get your money<i>.</i>
+
+1038
+01:21:39,918 --> 01:21:41,954  X1:087 X2:630 Y1:458 Y2:500
+You got to be sensitive to my situation<i>.</i>
+
+1039
+01:21:42,038 --> 01:21:43,676  X1:175 X2:543 Y1:458 Y2:500
+Half's better than nothing<i>.</i>
+
+1040
+01:21:43,878 --> 01:21:48,110  X1:099 X2:619 Y1:458 Y2:534
+Hold up<i>.</i> Now, listen<i>.</i>
+Nobody's trying to fuck anybody here<i>.</i>
+
+1041
+01:21:48,678 --> 01:21:50,157  X1:208 X2:509 Y1:458 Y2:500
+l think you are, Leon<i>.</i>
+
+1042
+01:21:53,718 --> 01:21:55,913  X1:184 X2:533 Y1:458 Y2:534
+-What?
+-What was you thinking?
+
+1043
+01:21:56,078 --> 01:21:57,670  X1:142 X2:575 Y1:458 Y2:500
+Where are you going with this?
+
+1044
+01:21:57,758 --> 01:22:00,113  X1:107 X2:610 Y1:458 Y2:500
+l thought you was smarter than this<i>.</i>
+
+1045
+01:22:01,998 --> 01:22:03,147  X1:244 X2:473 Y1:458 Y2:498
+So did l, Strutt<i>.</i>
+
+1046
+01:22:03,798 --> 01:22:05,151  X1:305 X2:413 Y1:458 Y2:495
+Move<i>.</i>
+
+1047
+01:22:05,998 --> 01:22:07,829  X1:130 X2:588 Y1:458 Y2:500
+lf it isn't Hou-motherfucking-dini<i>.</i>
+
+1048
+01:22:07,918 --> 01:22:11,228  X1:176 X2:541 Y1:458 Y2:534
+Escaped so many traps,
+should be wearing a cape<i>.</i>
+
+1049
+01:22:11,438 --> 01:22:13,906  X1:143 X2:574 Y1:458 Y2:534
+l thought you said
+you had this animal on a leash<i>.</i>
+
+1050
+01:22:16,118 --> 01:22:18,234  X1:168 X2:550 Y1:458 Y2:534
+You assholes couldn't keep
+your shit together<i>.</i>
+
+1051
+01:22:18,318 --> 01:22:20,149  X1:114 X2:603 Y1:458 Y2:500
+l guess l picked the wrong precinct<i>.</i>
+
+1052
+01:22:20,238 --> 01:22:22,274  X1:091 X2:628 Y1:458 Y2:500
+Look around you<i>.</i> You picked the right<i>.</i>
+
+1053
+01:22:22,358 --> 01:22:23,871  X1:220 X2:497 Y1:458 Y2:500
+Then finish the job<i>.</i>
+
+1054
+01:22:23,958 --> 01:22:25,391  X1:171 X2:548 Y1:458 Y2:500
+Nice friends you got, Boyd<i>.</i>
+
+1055
+01:22:27,598 --> 01:22:30,635  X1:144 X2:574 Y1:458 Y2:534
+Don't give me that look<i>.</i>
+l've been on the force too long<i>.</i>
+
+1056
+01:22:30,718 --> 01:22:32,948  X1:085 X2:633 Y1:458 Y2:500
+Laying my life on the line, and for what?
+
+1057
+01:22:33,038 --> 01:22:34,471  X1:192 X2:525 Y1:458 Y2:500
+A lousy $40,000 a year?
+
+1058
+01:22:34,638 --> 01:22:35,912  X1:224 X2:491 Y1:458 Y2:495
+The hell with that!
+
+1059
+01:22:36,078 --> 01:22:39,070  X1:176 X2:541 Y1:458 Y2:534
+You have single-handedly
+screwed up my operation<i>.</i>
+
+1060
+01:22:39,278 --> 01:22:40,427  X1:229 X2:489 Y1:458 Y2:500
+lt's our operation<i>.</i>
+
+1061
+01:22:40,518 --> 01:22:42,793  X1:107 X2:610 Y1:458 Y2:500
+Let's get it straight<i>.</i> l run this show!
+
+1062
+01:22:42,958 --> 01:22:45,028  X1:132 X2:584 Y1:458 Y2:500
+Not you! Not him! None of you!
+
+1063
+01:22:45,998 --> 01:22:47,033  X1:291 X2:427 Y1:458 Y2:495
+Prove it<i>.</i>
+
+1064
+01:22:47,438 --> 01:22:48,314  X1:292 X2:427 Y1:458 Y2:495
+Kill him<i>.</i>
+
+1065
+01:23:08,798 --> 01:23:09,833  X1:297 X2:419 Y1:458 Y2:495
+Freeze!
+
+1066
+01:23:11,558 --> 01:23:13,594  X1:259 X2:459 Y1:458 Y2:495
+Shit! l'm hit<i>.</i>
+
+1067
+01:23:33,678 --> 01:23:35,908  X1:156 X2:562 Y1:458 Y2:500
+This is your big fucking plan?
+
+1068
+01:23:41,718 --> 01:23:42,548  X1:322 X2:395 Y1:458 Y2:495
+Go<i>.</i>
+
+1069
+01:23:53,478 --> 01:23:55,434  X1:112 X2:605 Y1:458 Y2:500
+l'll get Strutt<i>.</i> Take care of Montini<i>.</i>
+
+1070
+01:23:55,518 --> 01:23:56,837  X1:189 X2:528 Y1:458 Y2:500
+l got that motherfucker<i>.</i>
+
+1071
+01:23:59,598 --> 01:24:00,792  X1:211 X2:506 Y1:458 Y2:495
+Don't leave me here!
+
+1072
+01:24:00,998 --> 01:24:02,317  X1:228 X2:489 Y1:458 Y2:500
+l got you covered<i>.</i>
+
+1073
+01:24:06,358 --> 01:24:07,427  X1:238 X2:479 Y1:458 Y2:500
+You okay, chief?<i>.</i>
+
+1074
+01:24:09,158 --> 01:24:10,113  X1:291 X2:426 Y1:458 Y2:498
+Hell, no!
+
+1075
+01:24:32,358 --> 01:24:33,393  X1:240 X2:479 Y1:458 Y2:500
+Boyd, you okay?
+
+1076
+01:24:33,838 --> 01:24:35,715  X1:215 X2:503 Y1:458 Y2:534
+-l don't know<i>.</i>
+-l'll check your vest<i>.</i>
+
+1077
+01:24:36,518 --> 01:24:38,349  X1:222 X2:495 Y1:458 Y2:529
+-Didn't go through<i>.</i>
+-Good news<i>.</i>
+
+1078
+01:24:58,118 --> 01:24:59,267  X1:289 X2:428 Y1:458 Y2:495
+Damn it!
+
+1079
+01:25:21,198 --> 01:25:22,233  X1:310 X2:407 Y1:458 Y2:495
+Fuck!
+
+1080
+01:25:30,718 --> 01:25:31,628  X1:292 X2:424 Y1:458 Y2:495
+Daniels!
+
+1081
+01:25:33,558 --> 01:25:34,673  X1:228 X2:489 Y1:458 Y2:500
+Where you going?
+
+1082
+01:25:48,958 --> 01:25:50,357  X1:263 X2:452 Y1:458 Y2:495
+You're fired!
+
+1083
+01:28:30,118 --> 01:28:32,473  X1:143 X2:575 Y1:458 Y2:500
+This is Strutt, ready for pickup<i>.</i>
+
+1084
+01:28:51,878 --> 01:28:53,072  X1:321 X2:395 Y1:458 Y2:495
+Go!
+
+1085
+01:29:01,198 --> 01:29:02,233  X1:250 X2:466 Y1:458 Y2:495
+Shake him off!
+
+1086
+01:29:06,758 --> 01:29:08,988  X1:196 X2:522 Y1:458 Y2:534
+You and your brother
+can rot in jail together<i>.</i>
+
+1087
+01:29:16,638 --> 01:29:18,276  X1:252 X2:464 Y1:458 Y2:495
+Motherfucker!
+
+1088
+01:30:27,918 --> 01:30:29,033  X1:257 X2:460 Y1:458 Y2:500
+You all right?
+
+1089
+01:30:29,118 --> 01:30:31,074  X1:103 X2:614 Y1:458 Y2:500
+You'll be cleaning up the street soon<i>.</i>
+
+1090
+01:30:31,158 --> 01:30:32,796  X1:149 X2:569 Y1:458 Y2:500
+Then l'll be reading about you<i>.</i>
+
+1091
+01:30:32,878 --> 01:30:34,311  X1:189 X2:529 Y1:458 Y2:495
+l don't know about that<i>.</i>
+
+1092
+01:30:35,398 --> 01:30:37,992  X1:167 X2:548 Y1:458 Y2:534
+Tell them l'm your partner<i>.</i>
+They won't let me through!
+
+1093
+01:30:38,078 --> 01:30:39,431  X1:238 X2:479 Y1:458 Y2:498
+Yeah, let him in<i>.</i>
+
+1094
+01:30:41,078 --> 01:30:43,433  X1:171 X2:545 Y1:458 Y2:534
+What happened here?
+After all we been through?
+
+1095
+01:30:43,518 --> 01:30:46,874  X1:110 X2:608 Y1:458 Y2:534
+We risk our lives, and l hear
+about this on the strippers' scanner<i>.</i>
+
+1096
+01:30:46,958 --> 01:30:47,834  X1:312 X2:403 Y1:458 Y2:495
+Shit!
+
+1097
+01:30:47,918 --> 01:30:50,148  X1:157 X2:559 Y1:458 Y2:534
+Smack my mama on her ass!
+That's Henry Wayne!
+
+1098
+01:30:51,078 --> 01:30:52,557  X1:172 X2:545 Y1:458 Y2:500
+Can you do a story on me?
+
+1099
+01:30:52,638 --> 01:30:55,914  X1:093 X2:625 Y1:458 Y2:534
+l was in there<i>.</i>
+The cops shot me<i>.</i> l got shot 16 times<i>.</i>
+
+1100
+01:30:56,078 --> 01:30:57,431  X1:245 X2:474 Y1:458 Y2:495
+Does that hurt?
+
+1101
+01:30:57,558 --> 01:30:59,276  X1:146 X2:568 Y1:458 Y2:500
+Yeah! l'm not faking this shit!
+
+1102
+01:30:59,358 --> 01:31:03,033  X1:072 X2:645 Y1:458 Y2:534
+-Could we film your surgery for the show?
+-Yeah, you can film my stuff<i>.</i>
+
+1103
+01:31:03,118 --> 01:31:04,836  X1:202 X2:516 Y1:458 Y2:500
+l'm going to be on TV<i>.</i>
+
+1104
+01:31:04,918 --> 01:31:07,193  X1:114 X2:603 Y1:458 Y2:529
+-Can my mama come to the studio?
+-You know it<i>.</i>
+
+1105
+01:31:07,278 --> 01:31:10,827  X1:133 X2:584 Y1:458 Y2:534
+Cool<i>.</i> When you want to do it?
+We're going to the hospital now<i>.</i>
+
+1106
+01:31:11,038 --> 01:31:12,676  X1:218 X2:500 Y1:458 Y2:534
+-l'll meet you there<i>.</i>
+-Okay<i>.</i>
+
+1107
+01:31:12,878 --> 01:31:15,676  X1:102 X2:616 Y1:458 Y2:534
+-Mr<i>.</i> Boyd<i>.</i> Some good work in there<i>.</i>
+-Thank you<i>.</i>
+
+1108
+01:31:15,918 --> 01:31:18,876  X1:142 X2:578 Y1:458 Y2:529
+Faster you get rid of dirty cops,
+the better for all of us<i>.</i>
+
+1109
+01:31:18,958 --> 01:31:20,630  X1:141 X2:576 Y1:458 Y2:500
+Thanks for making a difference<i>.</i>
+
+1110
+01:31:21,558 --> 01:31:23,913  X1:077 X2:640 Y1:458 Y2:500
+You want your old job back, at two-one<i>...</i>
+
+1111
+01:31:24,118 --> 01:31:25,267  X1:250 X2:469 Y1:458 Y2:500
+<i>...</i>it's all yours<i>.</i>
+
+1112
+01:31:25,478 --> 01:31:28,515  X1:104 X2:614 Y1:458 Y2:500
+No, l think l'll stay here<i>.</i> Right, pard?
+
+1113
+01:31:30,598 --> 01:31:31,553  X1:307 X2:409 Y1:458 Y2:495
+Yeah<i>.</i>
+
+1114
+01:31:32,998 --> 01:31:34,989  X1:147 X2:571 Y1:458 Y2:532
+-You know where to reach me<i>.</i>
+-Yes, sir<i>.</i>
+
+1115
+01:31:35,118 --> 01:31:36,710  X1:195 X2:524 Y1:458 Y2:500
+By the way, Mr<i>.</i> Boyd<i>...</i>
+
+1116
+01:31:37,438 --> 01:31:38,871  X1:205 X2:514 Y1:458 Y2:500
+<i>...</i>l fought in Vietnam<i>.</i>
+
+1117
+01:31:39,358 --> 01:31:40,711  X1:194 X2:524 Y1:458 Y2:500
+That don't surprise me<i>.</i>
+
+1118
+01:31:44,238 --> 01:31:47,116  X1:127 X2:590 Y1:458 Y2:534
+-Your buddies are on there<i>.</i>
+-Heard about your brother Shaun<i>.</i>
+
+1119
+01:31:47,958 --> 01:31:49,596  X1:155 X2:563 Y1:458 Y2:500
+Hopefully, that'll get him out<i>.</i>
+
+1120
+01:31:49,678 --> 01:31:51,669  X1:092 X2:625 Y1:458 Y2:500
+Think those tapes'll make a difference?
+
+1121
+01:31:51,878 --> 01:31:53,755  X1:120 X2:598 Y1:458 Y2:500
+Courts don't give a shit about this<i>.</i>
+
+1122
+01:31:53,838 --> 01:31:56,227  X1:075 X2:643 Y1:458 Y2:500
+So l had your brother pulled from County<i>.</i>
+
+1123
+01:31:56,438 --> 01:31:57,393  X1:262 X2:454 Y1:458 Y2:495
+Just in case<i>.</i>
+
+1124
+01:31:59,318 --> 01:32:00,273  X1:274 X2:444 Y1:458 Y2:500
+Thank you<i>.</i>
+
+1125
+01:32:03,358 --> 01:32:04,711  X1:184 X2:533 Y1:458 Y2:500
+See you around, partner<i>.</i>
+
+1126
+01:32:04,878 --> 01:32:05,867  X1:261 X2:456 Y1:458 Y2:495
+Thanks a lot<i>.</i>
+
+1127
+01:32:06,598 --> 01:32:07,587  X1:236 X2:481 Y1:458 Y2:495
+You're welcome<i>.</i>
+
+1128
+01:32:19,278 --> 01:32:22,873  X1:079 X2:640 Y1:458 Y2:534
+lt's been 30 days since l've been pinched,
+punched, scalded or stabbed<i>.</i>
+
+1129
+01:32:23,118 --> 01:32:24,471  X1:194 X2:523 Y1:458 Y2:500
+Well, that's something<i>.</i>
+
+1130
+01:32:26,318 --> 01:32:29,037  X1:166 X2:552 Y1:458 Y2:534
+l'm not gonna pay strippers
+to beat me up anymore<i>.</i>
+
+1131
+01:32:29,118 --> 01:32:32,474  X1:089 X2:629 Y1:458 Y2:534
+l'm living in a safe house on Southgate,
+if anyone wants to reach me<i>.</i>
+
+1132
+01:32:32,558 --> 01:32:35,197  X1:181 X2:539 Y1:458 Y2:534
+Linda, l'm a changed man
+with a lot of problems<i>...</i>
+
+1133
+01:32:35,278 --> 01:32:37,075  X1:132 X2:587 Y1:458 Y2:495
+<i>...</i>so we'll see a lot of each other<i>.</i>
+
+1134
+01:32:37,158 --> 01:32:39,831  X1:154 X2:565 Y1:458 Y2:534
+l've signed up for your shame
+and impotence class<i>.</i>
+
+1135
+01:32:40,878 --> 01:32:42,152  X1:200 X2:516 Y1:458 Y2:500
+And these are for you<i>.</i>
+
+1136
+01:32:46,638 --> 01:32:48,230  X1:274 X2:444 Y1:458 Y2:500
+Thank you<i>.</i>
+
+1137
+01:32:49,198 --> 01:32:50,472  X1:215 X2:503 Y1:458 Y2:500
+That's super, Henry<i>.</i>
+
+1138
+01:32:52,398 --> 01:32:57,028  X1:122 X2:597 Y1:458 Y2:534
+So l'd like to proudly acknowledge
+our very own hero, Orin Boyd<i>.</i>
+
+1139
+01:33:05,518 --> 01:33:08,635  X1:067 X2:651 Y1:458 Y2:500
+Hey, guys<i>.</i> You need some love<i>.</i> Come on<i>.</i>
+
+1140
+01:33:09,038 --> 01:33:10,312  X1:204 X2:514 Y1:458 Y2:500
+Come on<i>.</i> Group hug<i>.</i>
+
+1141
+01:33:10,398 --> 01:33:12,866  X1:125 X2:593 Y1:458 Y2:500
+Get in here<i>.</i> Come on, everybody<i>.</i>
+
+1142
+01:33:13,358 --> 01:33:15,349  X1:185 X2:533 Y1:458 Y2:500
+We're proud of this man<i>.</i>
+
+1143
+01:33:15,958 --> 01:33:17,277  X1:214 X2:504 Y1:458 Y2:500
+Feels good, don't it?
+
+1144
+01:33:17,918 --> 01:33:20,068  X1:173 X2:544 Y1:458 Y2:534
+Where are we going?
+You guys got to stay here<i>.</i>
+
+1145
+01:33:22,158 --> 01:33:25,468  X1:073 X2:644 Y1:060 Y2:136
+<i>Ladies and gentlemen,</i>
+<i>l'm honored to introduce my new co</i>-<i>host.</i>
+
+1146
+01:33:25,678 --> 01:33:27,908  X1:091 X2:628 Y1:060 Y2:102
+<i>How about a big hand for T.</i>K<i>.</i> J<i>ohnson.</i>
+
+1147
+01:33:28,558 --> 01:33:30,276  X1:161 X2:562 Y1:060 Y2:102
+<i>What's up, White</i> C<i>hocolate?</i>
+
+1148
+01:33:30,478 --> 01:33:32,867  X1:206 X2:512 Y1:060 Y2:136
+-<i>Good to see you too.</i>
+-<i>All right.</i>
+
+1149
+01:33:33,198 --> 01:33:35,792  X1:145 X2:574 Y1:060 Y2:136
+<i>We got together</i>
+<i>when we filmed your surgery...</i>
+
+1150
+01:33:35,998 --> 01:33:37,909  X1:111 X2:607 Y1:060 Y2:102
+<i>...and l've got to tell you something.</i>
+
+1151
+01:33:37,998 --> 01:33:41,195  X1:122 X2:596 Y1:060 Y2:136
+<i>You had the gown on,</i>
+<i>and it slipped up, and l'll tell you...</i>
+
+1152
+01:33:41,358 --> 01:33:43,110  X1:158 X2:560 Y1:060 Y2:102
+<i>...it's not true what they say.</i>
+
+1153
+01:33:43,318 --> 01:33:45,627  X1:106 X2:616 Y1:060 Y2:102
+<i>Do you like to be called a black man?</i>
+
+1154
+01:33:45,838 --> 01:33:48,113  X1:194 X2:528 Y1:060 Y2:131
+<i>Do you like to be called</i>
+<i>an African</i>-<i>American?</i>
+
+1155
+01:33:48,198 --> 01:33:49,916  X1:162 X2:555 Y1:060 Y2:102
+<i>l like to be called T.</i>K<i>., baby.</i>
+
+1156
+01:33:49,998 --> 01:33:50,908  X1:248 X2:471 Y1:060 Y2:097
+<i>Don't label me.</i>
+
+1157
+01:33:51,118 --> 01:33:53,632  X1:123 X2:595 Y1:060 Y2:102
+<i>l mean, what, do you prefer ofay...</i>
+
+1158
+01:33:53,838 --> 01:33:55,556  X1:171 X2:550 Y1:060 Y2:102
+<i>...or do you prefer cracker?</i>
+
+1159
+01:33:55,838 --> 01:33:57,510  X1:126 X2:595 Y1:060 Y2:102
+<i>Redneck? Which one do you like?</i>
+
+1160
+01:33:57,598 --> 01:33:59,907  X1:241 X2:478 Y1:060 Y2:134
+-C<i>racker's good.</i>
+-<i>Hi, Mama.</i>
+
+1161
+01:33:59,998 --> 01:34:01,590  X1:235 X2:486 Y1:060 Y2:136
+-<i>She's out there?</i>
+-<i>l love you.</i>
+
+1162
+01:34:01,678 --> 01:34:04,033  X1:164 X2:555 Y1:060 Y2:136
+-<i>Your dad watching?</i>
+-<i>Yeah, but he got glaucoma.</i>
+
+1163
+01:34:04,198 --> 01:34:07,429  X1:116 X2:603 Y1:060 Y2:131
+<i>He probably home, smoking a joint.</i>
+<i>He can hear me.</i>
+
+1164
+01:34:07,638 --> 01:34:09,993  X1:168 X2:551 Y1:060 Y2:136
+-<i>Good.</i>
+-<i>Daddy. Save some for me.</i>
+
+1165
+01:34:10,158 --> 01:34:12,956  X1:167 X2:551 Y1:060 Y2:136
+<i>Save some for me.</i>
+<i>Remember, puff, puff, pass.</i>
+
+1166
+01:34:13,198 --> 01:34:17,316  X1:069 X2:649 Y1:060 Y2:131
+<i>Puff, puff, pass. He like to hold on</i>
+<i>to the weed sometimes. Because he's old.</i>
+
+1167
+01:34:17,518 --> 01:34:19,031  X1:246 X2:475 Y1:060 Y2:131
+-<i>How old is he?</i>
+-<i>He's 4</i>8<i>.</i>
+
+1168
+01:34:19,278 --> 01:34:21,508  X1:203 X2:518 Y1:060 Y2:102
+<i>ls Tawana backstage?</i>
+
+1169
+01:34:21,718 --> 01:34:24,471  X1:127 X2:594 Y1:060 Y2:136
+-<i>My nipples are sensitive. Yours?</i>
+-<i>Yeah. And huge.</i>
+
+1170
+01:34:24,558 --> 01:34:26,037  X1:182 X2:537 Y1:060 Y2:102
+<i>l always tell women this:</i>
+
+1171
+01:34:26,118 --> 01:34:28,552  X1:071 X2:654 Y1:060 Y2:102
+<i>''lf you want it to be over, lick my nipples. ''</i>
+
+1172
+01:34:28,758 --> 01:34:32,956  X1:105 X2:614 Y1:060 Y2:136
+<i>l like my nipple to be nibbled on</i>
+<i>and bit and pulled. l like a little pain.</i>
+
+1173
+01:34:33,038 --> 01:34:35,154  X1:194 X2:524 Y1:060 Y2:102
+<i>l like it too.</i> V<i>ery little.</i>
+
+1174
+01:34:35,238 --> 01:34:38,150  X1:139 X2:582 Y1:060 Y2:136
+<i>But they get out of control</i>
+<i>and you don't say, ''That hurts. ''</i>
+
+1175
+01:34:38,238 --> 01:34:40,194  X1:246 X2:473 Y1:060 Y2:131
+-<i>But they are.</i>
+-<i>l sort oflike it.</i>
+
+1176
+01:34:41,558 --> 01:34:43,947  X1:154 X2:568 Y1:060 Y2:136
+<i>Because l'm black,</i>
+<i>you say l got to do a B and</i> E<i>?</i>
+
+1177
+01:34:44,158 --> 01:34:45,511  X1:258 X2:461 Y1:060 Y2:100
+<i>No, no, but....</i>
+
+1178
+01:34:45,678 --> 01:34:48,067  X1:158 X2:559 Y1:060 Y2:134
+<i>l pulled your record</i>
+<i>before l came over here, too.</i>
+
+1179
+01:34:48,238 --> 01:34:50,069  X1:161 X2:556 Y1:060 Y2:102
+<i>l know what you used to do.</i>
+
+1180
+01:34:50,318 --> 01:34:51,273  X1:257 X2:459 Y1:060 Y2:097
+<i>And l still do.</i>
+
+1181
+01:34:51,358 --> 01:34:53,110  X1:154 X2:568 Y1:060 Y2:131
+-<i>You been with a big woman?</i>
+-<i>l have.</i>
+
+1182
+01:34:53,198 --> 01:34:54,233  X1:249 X2:473 Y1:060 Y2:097
+<i>How was that?</i>
+
+1183
+01:34:54,318 --> 01:34:56,752  X1:273 X2:445 Y1:060 Y2:097
+<i>lt was fine.</i>
+
+1184
+01:34:57,038 --> 01:34:59,632  X1:119 X2:600 Y1:060 Y2:102
+<i>But l will say this, they're not jolly.</i>
+
+1185
+01:34:59,718 --> 01:35:01,436  X1:213 X2:506 Y1:060 Y2:131
+-<i>They can be cranky.</i>
+-<i>Feed them.</i>
+
+1186
+01:35:01,518 --> 01:35:04,032  X1:170 X2:551 Y1:060 Y2:136
+-<i>Now, you like big women?</i>
+-<i>l love big women.</i>
+
+1187
+01:35:04,118 --> 01:35:06,757  X1:165 X2:553 Y1:060 Y2:136
+<i>lf you want to feel the heat,</i>
+<i>you got to have the meat.</i>
+
+1188
+01:35:06,838 --> 01:35:07,748  X1:271 X2:448 Y1:060 Y2:102
+<i>Yeah, baby.</i>
+
+1189
+01:35:07,838 --> 01:35:09,954  X1:173 X2:545 Y1:060 Y2:131
+<i>A big woman good</i>
+<i>in the summer and winter.</i>
+
+1190
+01:35:10,038 --> 01:35:12,677  X1:143 X2:575 Y1:060 Y2:136
+<i>Good for shade in summer</i>
+<i>and good for warmth in winter.</i>
+
+1191
+01:35:12,758 --> 01:35:13,907  X1:133 X2:587 Y1:060 Y2:102
+<i>You're not masturbating enough.</i>
+
+1192
+01:35:13,998 --> 01:35:16,114  X1:104 X2:614 Y1:060 Y2:136
+-<i>l masturbate two, three times a day.</i>
+-<i>Do you?</i>
+
+1193
+01:35:16,198 --> 01:35:18,109  X1:125 X2:593 Y1:060 Y2:102
+<i>l like to do it at the tanning salon.</i>
+
+1194
+01:35:18,278 --> 01:35:21,588  X1:183 X2:538 Y1:060 Y2:136
+-C<i>ause, you are in there</i>--
+-<i>At the tanning salon.</i>
+
+1195
+01:35:21,678 --> 01:35:23,316  X1:161 X2:558 Y1:060 Y2:102
+<i>You probably aren't in there.</i>
+
+1196
+01:35:24,238 --> 01:35:27,116  X1:143 X2:574 Y1:060 Y2:136
+<i>But you got to be careful,</i>
+<i>because when you're doing it...</i>
+
+1197
+01:35:27,318 --> 01:35:31,106  X1:155 X2:565 Y1:060 Y2:136
+<i>...you can't wear the goggles,</i>
+<i>you got to watch the door.</i>
+
+1198
+01:35:31,318 --> 01:35:34,310  X1:068 X2:651 Y1:458 Y2:534
+<i>So you can go blind masturbating actually,</i>
+<i>like the old saying.</i>
+
+1199
+01:35:37,438 --> 01:35:39,747  X1:074 X2:645 Y1:458 Y2:500
+E<i>very night, same routine. l get a towel...</i>
+
+1200
+01:35:39,958 --> 01:35:43,746  X1:091 X2:628 Y1:458 Y2:534
+<i>...half damp. On one side, warm water.</i>
+<i>Half dry on the other.</i>
+
+1201
+01:35:43,958 --> 01:35:45,755  X1:177 X2:539 Y1:458 Y2:500
+<i>Astroglide. Lesbian porn.</i>
+
+1202
+01:35:45,838 --> 01:35:47,157  X1:199 X2:520 Y1:458 Y2:500
+<i>Second only to nature.</i>
+
+1203
+01:35:47,238 --> 01:35:50,150  X1:118 X2:600 Y1:458 Y2:498
+<i>No dicks allowed, number 6</i>7 <i>or 6</i>9<i>.</i>
+
+1204
+01:35:50,358 --> 01:35:53,191  X1:167 X2:551 Y1:458 Y2:534
+<i>l don't get in trouble.</i>
+C<i>lean up, everything's nice.</i>
+
+1205
+01:35:53,398 --> 01:35:55,992  X1:175 X2:545 Y1:458 Y2:529
+<i>Although you can get that</i>
+<i>on the remote control.</i>
+
+1206
+01:35:56,198 --> 01:35:58,712  X1:165 X2:556 Y1:458 Y2:534
+<i>When you do a number two,</i>
+<i>do you use a handy wipe?</i>
+
+1207
+01:35:58,918 --> 01:36:02,627  X1:100 X2:621 Y1:458 Y2:534
+<i>l wipe, then l take a lot of toilet paper</i>
+<i>and dip it in water....</i>
+
+1208
+01:36:02,798 --> 01:36:05,471  X1:240 X2:479 Y1:458 Y2:529
+-<i>ln the bowl?</i>
+-<i>ln a clean bowl.</i>
+
+1209
+01:36:05,558 --> 01:36:07,674  X1:186 X2:533 Y1:458 Y2:534
+-<i>That's what l do.</i>
+-<i>And then l wipe my ass.</i>
+
+1210
+01:36:07,758 --> 01:36:10,147  X1:137 X2:585 Y1:458 Y2:529
+<i>We're too old to have shit stains</i>
+<i>in our drawers.</i>
+
+1211
+01:36:10,238 --> 01:36:12,672  X1:127 X2:591 Y1:458 Y2:534
+C<i>an't be cool</i>
+<i>when you got a big</i>-<i>ass shit stain.</i>
+
+1212
+01:36:12,758 --> 01:36:15,033  X1:073 X2:645 Y1:458 Y2:500
+<i>l've not peed the bed since l quit drinking.</i>
+
+1213
+01:36:15,118 --> 01:36:17,871  X1:095 X2:622 Y1:458 Y2:500
+<i>l won a chugging contest before l quit.</i>
+
+1214
+01:36:17,958 --> 01:36:20,267  X1:068 X2:648 Y1:458 Y2:500
+<i>And l not only peed the bed, l shit the bed.</i>
+
+1215
+01:36:20,358 --> 01:36:24,237  X1:103 X2:616 Y1:458 Y2:534
+<i>l was in college. l woke and thought:</i>
+<i>''What did my roommate do?''</i>
+
+1216
+01:36:25,078 --> 01:36:27,546  X1:139 X2:585 Y1:458 Y2:529
+<i>And then l went:</i>
+<i>''Wait a minute. What did l do?''</i>
+
+1217
+01:36:27,638 --> 01:36:29,788  X1:097 X2:620 Y1:458 Y2:500
+<i>lf you have a real problem, get</i> V<i>iagra.</i>
+
+1218
+01:36:29,998 --> 01:36:32,910  X1:124 X2:596 Y1:458 Y2:534
+<i>You don't need a problem for that.</i>
+<i>You just go and get it.</i>
+
+1219
+01:36:32,998 --> 01:36:34,795  X1:131 X2:590 Y1:458 Y2:500
+<i>They need to get that for women.</i>
+
+1220
+01:36:34,878 --> 01:36:36,914  X1:108 X2:613 Y1:458 Y2:500
+<i>Well, they would call it Niagara then.</i>
+
+1221
+01:36:37,478 --> 01:36:39,355  X1:213 X2:508 Y1:458 Y2:534
+-<i>You watch Oprah?</i>
+-<i>Big or small Oprah?</i>
+
+1222
+01:36:39,438 --> 01:36:42,077  X1:163 X2:554 Y1:458 Y2:534
+<i>l never liked small Oprah</i>
+<i>because her head is too big.</i>
+
+1223
+01:36:42,158 --> 01:36:45,594  X1:112 X2:607 Y1:458 Y2:534
+<i>Her head too big for that little body.</i>
+<i>Then the eye started to droop.</i>
+
+1224
+01:36:46,158 --> 01:36:47,557  X1:244 X2:475 Y1:458 Y2:495
+<i>Looked like</i> E<i>. T.</i>
+
+1225
+01:36:47,958 --> 01:36:50,188  X1:238 X2:480 Y1:458 Y2:534
+-<i>Oprah, stay big.</i>
+-<i>Oprah's great.</i>
+
+1226
+01:39:08,598 --> 01:39:12,068  X1:193 X2:525 Y1:458 Y2:529
+Subtitles conformed by
+SOFTlTLER
+

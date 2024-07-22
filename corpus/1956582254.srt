@@ -1,0 +1,8759 @@
+﻿1
+00:00:00,001 --> 00:00:00,296
+MAN [OVER SPEAKERS]: <i>Ladies and
+gentlemen, good afternoon</i>
+
+2
+00:00:00,299 --> 00:00:00,596
+<i>from the flight deck.
+We're cruising at 37,000 feet,</i>
+
+3
+00:00:00,599 --> 00:00:02,300
+<i>and we just passed
+over the coast.</i>
+
+4
+00:00:02,433 --> 00:00:04,767
+<i>We'll be beginning our descent
+in about 30 minutes.</i>
+
+5
+00:00:04,900 --> 00:00:06,434
+<i>I'd like to take
+this opportunity</i>
+
+6
+00:00:06,568 --> 00:00:08,034
+<i>to welcome you to America.</i>
+
+7
+00:00:08,166 --> 00:00:10,534
+<i>- ♪ Ta na na na muchawa ♪
+- ♪ Yeah ♪</i>
+
+8
+00:00:10,667 --> 00:00:13,401
+<i>♪ Ta na na na muchawa
+Ta na na na muchawa ♪</i>
+
+9
+00:00:13,534 --> 00:00:15,600
+<i>♪ Ah. Ah ♪</i>
+
+10
+00:00:15,734 --> 00:00:18,868
+<i>♪ Man, I'd die for America
+I serve my time for America ♪</i>
+
+11
+00:00:19,001 --> 00:00:20,734
+<i>♪ Got shot-shot back
+Went to war ♪</i>
+
+12
+00:00:20,868 --> 00:00:22,868
+<i>♪ Got back and ain't nobody
+Give a jack in America ♪</i>
+
+13
+00:00:23,001 --> 00:00:24,968
+<i>♪ I could've lost my life
+Boy, I lost my wife ♪</i>
+
+14
+00:00:25,100 --> 00:00:27,035
+<i>♪ I can't even get right
+In my homeland ♪</i>
+
+15
+00:00:27,168 --> 00:00:28,868
+<i>♪ Cold sweats
+Whole ticks, paranoia ♪</i>
+
+16
+00:00:29,002 --> 00:00:31,036
+<i>♪ Looking out for a threat
+In my own land ♪</i>
+
+17
+00:00:31,168 --> 00:00:32,869
+<i>♪ I was trained in America ♪</i>
+
+18
+00:00:33,002 --> 00:00:34,535
+<i>♪ How they get up
+In the planes in America ♪</i>
+
+19
+00:00:34,669 --> 00:00:36,002
+<i>♪ Flew 'em right
+Into the buildings ♪</i>
+
+20
+00:00:36,168 --> 00:00:37,536
+<i>♪ Taking out them buildings ♪</i>
+
+21
+00:00:37,669 --> 00:00:38,869
+<i>♪ People getting killed
+In America ♪</i>
+
+22
+00:00:39,002 --> 00:00:40,735
+<i>♪ And I'm still in America ♪</i>
+
+23
+00:00:40,869 --> 00:00:42,535
+<i>♪ Though America
+Ain't feeling me ♪</i>
+
+24
+00:00:42,669 --> 00:00:44,269
+<i>♪ I went to war
+For this country ♪</i>
+
+25
+00:00:44,403 --> 00:00:46,236
+<i>♪ Turn around came home
+And you drilling me? ♪</i>
+
+26
+00:00:46,369 --> 00:00:47,802
+<i>♪ When y'all free here ♪</i>
+
+27
+00:00:47,937 --> 00:00:49,569
+<i>♪ Saying you don't want
+To be here ♪</i>
+
+28
+00:00:49,703 --> 00:00:51,703
+<i>♪ Boy, you probably
+Couldn't breathe here ♪</i>
+
+29
+00:00:51,836 --> 00:00:53,870
+<i>♪ If I didn't load
+A couple magazines here ♪</i>
+
+30
+00:00:54,003 --> 00:00:55,770
+<i>♪ Y'all just complain
+In America ♪</i>
+
+31
+00:00:55,903 --> 00:00:57,570
+<i>♪ I'm jumping out of military
+Planes from America ♪</i>
+
+32
+00:00:57,703 --> 00:00:59,270
+<i>♪ Hey, I was made in America ♪</i>
+
+33
+00:00:59,404 --> 00:01:01,536
+<i>♪ That's why I'm out here
+Saving America ♪</i>
+
+34
+00:01:01,670 --> 00:01:03,437
+<i>♪ I got a brother
+In the cemetery now ♪</i>
+
+35
+00:01:03,570 --> 00:01:05,270
+<i>♪ 'Cause he wanted y'all safe ♪</i>
+
+36
+00:01:05,404 --> 00:01:06,971
+<i>♪ And everybody
+Want the freedom ♪</i>
+
+37
+00:01:07,103 --> 00:01:09,270
+<i>♪ But nobody want to hear
+"About-face!" ♪</i>
+
+38
+00:01:09,404 --> 00:01:12,571
+<i>♪ We bled for America
+To keep y'all fed in America ♪</i>
+
+39
+00:01:12,704 --> 00:01:14,004
+[SIREN WAILING]
+
+40
+00:01:14,137 --> 00:01:18,005
+[OFFICER SPEAKS
+INDISTINCTLY OVER RADIO]
+
+41
+00:01:18,138 --> 00:01:19,238
+DISPATCH:
+<i>Copy, 45.</i>
+
+42
+00:01:19,322 --> 00:01:20,290
+Subtitles by explosiveskull
+www.OpenSubtitles.org
+
+43
+00:01:20,371 --> 00:01:21,571
+- [SIREN STOPS]
+- Hey!
+
+44
+00:01:21,704 --> 00:01:23,905
+What's up? Huh?
+
+45
+00:01:24,039 --> 00:01:25,872
+- Up against the wall.
+- What's the problem?
+
+46
+00:01:26,005 --> 00:01:27,672
+Up... against... the wall!
+
+47
+00:01:27,805 --> 00:01:29,071
+Hey, take it easy,
+all right?
+
+48
+00:01:29,204 --> 00:01:30,838
+Against the wall!
+
+49
+00:01:30,972 --> 00:01:32,239
+[GRUNTS]
+
+50
+00:01:32,372 --> 00:01:34,005
+Spread your legs.
+Spread 'em!
+
+51
+00:01:35,372 --> 00:01:37,105
+What are you doing
+in my neighborhood?
+
+52
+00:01:37,239 --> 00:01:38,505
+- I live here, all right?
+- Yo.
+
+53
+00:01:39,572 --> 00:01:40,940
+Yo. Yo.
+She's blue.
+
+54
+00:01:43,673 --> 00:01:46,040
+OFFICER: Sorry about that.
+We're looking for someone
+
+55
+00:01:46,172 --> 00:01:48,573
+that matches your description.
+You know how it is.
+
+56
+00:01:50,140 --> 00:01:52,041
+Yeah, I know how it is.
+
+57
+00:01:57,674 --> 00:01:59,007
+You must be new.
+
+58
+00:02:00,540 --> 00:02:01,473
+Have a nice day.
+
+59
+00:02:03,007 --> 00:02:04,874
+[PEOPLE CHATTERING INDISTINCTLY
+ON RADIO]
+
+60
+00:02:05,007 --> 00:02:06,073
+[CAR DOOR CLOSES]
+
+61
+00:02:09,074 --> 00:02:10,274
+[SIGHS]
+
+62
+00:02:10,408 --> 00:02:13,308
+[♪♪♪]
+
+63
+00:02:30,909 --> 00:02:31,876
+[EXHALES]
+
+64
+00:03:00,011 --> 00:03:01,811
+[INHALES DEEPLY]
+
+65
+00:03:04,678 --> 00:03:06,077
+[OPENS LOCKER]
+
+66
+00:03:06,210 --> 00:03:07,878
+KEVIN:
+Rough morning there, slugger?
+
+67
+00:03:09,678 --> 00:03:11,778
+Yeah,
+you don't know the half.
+
+68
+00:03:11,911 --> 00:03:14,411
+This hasn't been
+the friendliest of homecomings.
+
+69
+00:03:14,544 --> 00:03:16,078
+Oh, yeah?
+
+70
+00:03:16,211 --> 00:03:19,046
+Come on, cheer up.
+
+71
+00:03:19,178 --> 00:03:22,612
+Every day on God's green earth
+is a great day.
+
+72
+00:03:22,745 --> 00:03:25,745
+Especially when you carry a gun
+and you got a bulletproof vest.
+
+73
+00:03:27,111 --> 00:03:28,212
+Hey.
+
+74
+00:03:30,313 --> 00:03:31,545
+[BEEPS]
+
+75
+00:03:33,545 --> 00:03:35,412
+[BEEPS]
+
+76
+00:03:39,445 --> 00:03:40,445
+You done primping?
+
+77
+00:03:41,646 --> 00:03:42,780
+Can we go?
+
+78
+00:03:42,913 --> 00:03:44,280
+Hang on a second.
+
+79
+00:03:45,546 --> 00:03:46,646
+- [CHUCKLES]
+- See?
+
+80
+00:03:46,780 --> 00:03:48,014
+Now I'm ready.
+
+81
+00:03:52,346 --> 00:03:53,914
+[PEOPLE CHATTERING
+INDISTINCTLY]
+
+82
+00:03:54,048 --> 00:03:55,781
+<i>♪ Bills mountin'
+Years countin' ♪</i>
+
+83
+00:03:55,914 --> 00:03:58,147
+<i>♪ No fountain of youth
+He ain't got gray hairs ♪</i>
+
+84
+00:03:58,280 --> 00:04:00,547
+<i>♪ Said he counted a few
+Sit down and regroup ♪</i>
+
+85
+00:04:00,681 --> 00:04:02,981
+<i>♪ My last hope's to be jayin'
+That jazz-o ♪</i>
+
+86
+00:04:03,114 --> 00:04:05,015
+<i>♪ But I'm property
+In this Monopoly ♪</i>
+
+87
+00:04:05,148 --> 00:04:07,049
+<i>♪ Probably won't pass Go
+Without selling my soul... ♪</i>
+
+88
+00:04:07,181 --> 00:04:08,882
+Still so hard
+to see it like this.
+
+89
+00:04:11,015 --> 00:04:13,347
+These all used to be homes.
+
+90
+00:04:13,481 --> 00:04:15,882
+Yeah, nature
+can be a real bitch.
+
+91
+00:04:16,015 --> 00:04:17,282
+[SIREN WAILS IN DISTANCE]
+
+92
+00:04:17,415 --> 00:04:19,715
+Mm. Kingston Manor.
+
+93
+00:04:19,848 --> 00:04:22,050
+ALICIA: Just wondering
+who still lives there.
+
+94
+00:04:22,182 --> 00:04:23,515
+KEVIN:
+Bad people.
+
+95
+00:04:23,648 --> 00:04:25,648
+No, not all of them.
+
+96
+00:04:25,783 --> 00:04:27,381
+I remember a lot
+of good families
+
+97
+00:04:27,515 --> 00:04:31,849
+just, you know, stuck in
+an unfortunate situation.
+
+98
+00:04:31,983 --> 00:04:33,382
+[PERSON WHISTLES]
+
+99
+00:04:33,516 --> 00:04:35,950
+- WOMAN: Five-0.
+- [PEOPLE CHATTERING INDISTINCTLY]
+
+100
+00:04:36,082 --> 00:04:39,516
+[♪♪♪]
+
+101
+00:04:39,649 --> 00:04:40,984
+MAN:
+Five-0!
+
+102
+00:04:41,116 --> 00:04:42,583
+If they were
+unfortunate before,
+
+103
+00:04:42,716 --> 00:04:44,449
+they're straight-up
+screwed now.
+
+104
+00:04:44,583 --> 00:04:47,183
+You don't ever want
+to get caught in there.
+
+105
+00:04:47,316 --> 00:04:50,051
+Girl, you've been gone
+a long time.
+
+106
+00:04:50,183 --> 00:04:53,317
+We don't even respond to calls
+from in there anymore.
+
+107
+00:04:53,450 --> 00:04:55,850
+Not unless there's
+a blue in trouble.
+
+108
+00:04:59,417 --> 00:05:02,383
+[♪♪♪]
+
+109
+00:05:07,818 --> 00:05:09,918
+All right,
+I need a coffee.
+
+110
+00:05:23,652 --> 00:05:25,953
+[HIP-HOP MUSIC PLAYING]
+
+111
+00:05:27,319 --> 00:05:28,886
+You're black
+and sweet, right?
+
+112
+00:05:29,020 --> 00:05:31,219
+- That's gonna get old, Kev.
+- No.
+
+113
+00:05:31,352 --> 00:05:33,619
+No, you're gonna learn
+to love it. You'll see.
+
+114
+00:05:40,853 --> 00:05:42,553
+Finally. You here
+about the break-in?
+
+115
+00:05:42,687 --> 00:05:43,920
+Uh, actually, no.
+
+116
+00:05:44,055 --> 00:05:46,286
+Don't even
+worry about it.
+
+117
+00:05:46,420 --> 00:05:48,453
+Called you guys
+over 24 hours ago.
+
+118
+00:05:48,587 --> 00:05:51,420
+NEWSWOMAN: <i>Officers have been
+charged with stealing evidence,</i>
+
+119
+00:05:51,553 --> 00:05:53,955
+<i>filing false police reports
+and extortion.</i>
+
+120
+00:05:54,087 --> 00:05:56,286
+<i>The New Orleans DA worked
+with Internal Affairs</i>
+
+121
+00:05:56,421 --> 00:05:57,688
+<i>to build their case.</i>
+
+122
+00:05:57,821 --> 00:05:59,621
+<i>Details are still under wraps</i>
+
+123
+00:05:59,754 --> 00:06:01,721
+<i>while the investigation
+is ongoing.</i>
+
+124
+00:06:01,854 --> 00:06:03,220
+<i>The DA assures us</i>
+
+125
+00:06:03,354 --> 00:06:05,220
+<i>that there are
+more arrests to come.</i>
+
+126
+00:06:14,889 --> 00:06:15,922
+Hey.
+
+127
+00:06:16,056 --> 00:06:17,922
+Can you do any tricks
+on that thing?
+
+128
+00:06:18,057 --> 00:06:19,755
+Hmm?
+
+129
+00:06:19,889 --> 00:06:21,189
+I didn't steal it
+or nothing.
+
+130
+00:06:21,322 --> 00:06:23,122
+I never said you did.
+
+131
+00:06:24,690 --> 00:06:25,690
+How long you had it?
+
+132
+00:06:25,823 --> 00:06:26,990
+A couple years.
+
+133
+00:06:27,122 --> 00:06:29,255
+- Couple years?
+- Jamal, get your ass here.
+
+134
+00:06:30,221 --> 00:06:31,723
+MAN:
+Shit, man.
+
+135
+00:06:31,856 --> 00:06:34,123
+MISSY: Talking to the goddamn police.
+Jamal!
+
+136
+00:06:34,256 --> 00:06:36,523
+Did you not hear me say
+get your ass over there?
+
+137
+00:06:36,656 --> 00:06:39,058
+- He didn't do anything...
+- I wasn't talking to you.
+
+138
+00:06:39,189 --> 00:06:41,824
+I was talking to my son.
+Jamal, get your ass in the car.
+
+139
+00:06:41,958 --> 00:06:43,958
+Can you get your ass
+over there? Go! Now!
+
+140
+00:06:44,090 --> 00:06:45,591
+ALICIA:
+He wasn't doing anything.
+
+141
+00:06:45,724 --> 00:06:47,256
+I wasn't talking to you.
+I was talking to my son.
+
+142
+00:06:47,390 --> 00:06:48,691
+Now, is there a problem?
+
+143
+00:06:48,824 --> 00:06:50,457
+When are you gonna
+start listening?
+
+144
+00:06:50,591 --> 00:06:52,190
+No, we don't have
+a problem, ma'am.
+
+145
+00:06:52,324 --> 00:06:53,490
+You want to make
+a problem?
+
+146
+00:06:53,624 --> 00:06:55,424
+You tell me.
+You're talking to my son.
+
+147
+00:06:55,557 --> 00:06:57,124
+Everything all right?
+
+148
+00:06:57,257 --> 00:07:00,059
+Everything's good, besides these
+dudes not doing they jobs.
+
+149
+00:07:00,190 --> 00:07:01,725
+If you need anything,
+just holler.
+
+150
+00:07:01,858 --> 00:07:03,558
+- I know. Appreciate you.
+- All right?
+
+151
+00:07:03,692 --> 00:07:05,625
+Punk-ass cop.
+
+152
+00:07:05,758 --> 00:07:07,892
+[♪♪♪]
+
+153
+00:07:08,026 --> 00:07:09,758
+[DOOR OPENS, BELL JINGLES]
+
+154
+00:07:11,926 --> 00:07:13,893
+- I'm asking you.
+- I'll tell you the problem.
+
+155
+00:07:14,026 --> 00:07:15,391
+Why your little man
+ain't in school?
+
+156
+00:07:15,525 --> 00:07:16,659
+Eat me, Mouse, okay?
+
+157
+00:07:16,793 --> 00:07:18,258
+And take your ass
+back to work.
+
+158
+00:07:18,391 --> 00:07:20,292
+Ghetto ass.
+
+159
+00:07:20,426 --> 00:07:22,392
+MISSY:
+Go lift them boxes.
+
+160
+00:07:22,526 --> 00:07:23,926
+What's good, bro?
+
+161
+00:07:26,225 --> 00:07:27,793
+- Yo, what's up?
+- MISSY: This cop here
+
+162
+00:07:27,927 --> 00:07:29,593
+is harassing Jamal.
+
+163
+00:07:29,727 --> 00:07:31,627
+I wasn't
+harassing anybody.
+
+164
+00:07:31,760 --> 00:07:32,961
+You got a problem,
+Officer?
+
+165
+00:07:33,093 --> 00:07:34,426
+Everything's just fine.
+
+166
+00:07:34,560 --> 00:07:36,292
+- You sure?
+- Yeah, I'm totally sure.
+
+167
+00:08:09,447 --> 00:08:12,346
+[♪♪♪]
+
+168
+00:08:15,082 --> 00:08:16,182
+Missy?
+
+169
+00:08:17,313 --> 00:08:18,346
+It's me.
+
+170
+00:08:18,480 --> 00:08:19,681
+Licia.
+
+171
+00:08:19,815 --> 00:08:20,915
+- You know her?
+- No, no.
+
+172
+00:08:21,048 --> 00:08:22,082
+You got me confused.
+
+173
+00:08:22,213 --> 00:08:23,413
+Alicia West.
+
+174
+00:08:23,548 --> 00:08:24,581
+I said you're mistaken.
+
+175
+00:08:24,715 --> 00:08:26,614
+Now, we good? Can we go?
+
+176
+00:08:26,748 --> 00:08:27,915
+Officer?
+
+177
+00:08:29,514 --> 00:08:30,781
+Yeah, you good.
+
+178
+00:08:33,116 --> 00:08:34,448
+Uncle Tom-ass
+bitch.
+
+179
+00:08:34,581 --> 00:08:35,514
+What you say?
+
+180
+00:08:37,849 --> 00:08:39,381
+OX:
+Yeah, all right.
+
+181
+00:08:45,482 --> 00:08:46,582
+Keep an eye
+on that bitch.
+
+182
+00:08:46,716 --> 00:08:48,549
+- A'ight.
+- [ENGINE STARTS]
+
+183
+00:08:48,682 --> 00:08:51,549
+[RAP MUSIC PLAYING INDISTINCTLY]
+
+184
+00:08:56,850 --> 00:08:58,616
+<i>♪ Get your Glock
+In the pickup ♪</i>
+
+185
+00:08:58,750 --> 00:09:00,683
+<i>♪ Back to back
+Like some hiccups ♪</i>
+
+186
+00:09:00,817 --> 00:09:02,349
+<i>♪ We gonna turn this bitch ♪</i>
+
+187
+00:09:02,483 --> 00:09:03,917
+<i>- ♪ Into a stick-up ♪
+- ♪ Stick-up ♪</i>
+
+188
+00:09:04,051 --> 00:09:06,884
+[MUSIC FADES]
+
+189
+00:09:13,249 --> 00:09:14,718
+KEVIN:
+Everything all right?
+
+190
+00:09:14,851 --> 00:09:15,784
+Yeah.
+
+191
+00:09:15,918 --> 00:09:17,051
+[BEEPS]
+
+192
+00:09:18,151 --> 00:09:19,384
+Listen.
+
+193
+00:09:19,517 --> 00:09:21,584
+They were
+Kingston Crew.
+
+194
+00:09:21,718 --> 00:09:23,119
+Watch it
+with those guys.
+
+195
+00:09:23,250 --> 00:09:25,317
+[HELICOPTER WHIRRING OVERHEAD]
+
+196
+00:09:25,451 --> 00:09:27,052
+Come on.
+
+197
+00:09:27,185 --> 00:09:28,752
+[BELL JINGLES]
+
+198
+00:09:32,819 --> 00:09:33,719
+Mouse?
+
+199
+00:09:35,552 --> 00:09:36,418
+To some.
+
+200
+00:09:36,552 --> 00:09:37,785
+It's Alicia.
+
+201
+00:09:37,919 --> 00:09:39,552
+I was a friend
+of your cousin Missy.
+
+202
+00:09:39,685 --> 00:09:41,518
+I know who you is.
+
+203
+00:09:42,720 --> 00:09:43,753
+It's been a long time.
+
+204
+00:09:44,753 --> 00:09:45,786
+[SIGHS]
+
+205
+00:09:45,920 --> 00:09:48,218
+What's up with Missy?
+That was cold.
+
+206
+00:09:48,352 --> 00:09:49,753
+I don't know.
+
+207
+00:09:49,886 --> 00:09:51,419
+You gotta talk to her
+about that.
+
+208
+00:09:51,553 --> 00:09:53,453
+She-she got her own shit
+going on.
+
+209
+00:09:55,386 --> 00:09:56,586
+She got a son now?
+
+210
+00:09:58,854 --> 00:10:00,219
+For 10 years.
+
+211
+00:10:01,021 --> 00:10:03,054
+Yeah. Jamal.
+
+212
+00:10:03,187 --> 00:10:04,854
+He's a good kid.
+
+213
+00:10:04,987 --> 00:10:07,854
+- He didn't mean no disrespect.
+- I was just talking to him.
+
+214
+00:10:07,987 --> 00:10:09,420
+- That's all.
+- Let's roll, partner.
+
+215
+00:10:09,554 --> 00:10:10,454
+Thank you.
+
+216
+00:10:14,520 --> 00:10:15,855
+How much do we owe?
+
+217
+00:10:15,988 --> 00:10:16,922
+Don't worry about it.
+
+218
+00:10:17,055 --> 00:10:18,188
+Oh, no, that's all right.
+
+219
+00:10:18,320 --> 00:10:19,588
+Cops don't pay.
+
+220
+00:10:19,722 --> 00:10:21,354
+You're good.
+
+221
+00:10:33,622 --> 00:10:35,388
+[DOOR OPENS, BELL JINGLES]
+
+222
+00:10:37,656 --> 00:10:38,723
+[SEAT BELT CLICKS]
+
+223
+00:10:38,856 --> 00:10:40,389
+What, did he say
+something to you?
+
+224
+00:10:40,522 --> 00:10:42,989
+- Can we just go?
+- [ENGINE STARTS]
+
+225
+00:10:43,123 --> 00:10:44,723
+You know him?
+
+226
+00:10:44,856 --> 00:10:46,689
+Guess not.
+Not anymore.
+
+227
+00:10:50,890 --> 00:10:52,389
+[BEEPING]
+
+228
+00:10:53,355 --> 00:10:54,790
+OFFICER:
+Copy that.
+
+229
+00:10:54,924 --> 00:10:56,890
+KEVIN:
+Oh, Jesus. You're still here?
+
+230
+00:10:57,024 --> 00:10:58,356
+Give her the chair, man.
+
+231
+00:10:58,490 --> 00:11:00,157
+Let a real cop
+do work for a change.
+
+232
+00:11:00,290 --> 00:11:02,623
+- It's your mom's site, Jennings.
+- Oh!
+
+233
+00:11:02,757 --> 00:11:04,356
+You want to kill
+her traffic?
+
+234
+00:11:04,490 --> 00:11:06,590
+KEVIN: I'm happy the
+broad's back in business.
+
+235
+00:11:06,725 --> 00:11:08,423
+WOMAN [OVER RADIO]:
+<i>Twenty-three 45.</i>
+
+236
+00:11:11,591 --> 00:11:13,057
+[BEEPING]
+
+237
+00:11:13,191 --> 00:11:15,858
+[PEOPLE CHATTERING INDISTINCTLY]
+
+238
+00:11:17,025 --> 00:11:17,891
+Where's the fire?
+
+239
+00:11:18,025 --> 00:11:20,859
+Oh. It is date night.
+
+240
+00:11:20,992 --> 00:11:22,058
+[ALICIA LAUGHS]
+
+241
+00:11:22,192 --> 00:11:24,192
+Tina's mom's
+gonna watch the kids.
+
+242
+00:11:24,324 --> 00:11:25,592
+Got us a room
+at the Brixton.
+
+243
+00:11:25,726 --> 00:11:27,224
+I don't want
+to miss one second.
+
+244
+00:11:27,357 --> 00:11:28,525
+Yo, Jennings.
+
+245
+00:11:28,659 --> 00:11:30,692
+- Yeah?
+- Need someone to pull a double.
+
+246
+00:11:30,826 --> 00:11:31,859
+Your name came up.
+
+247
+00:11:31,992 --> 00:11:33,759
+[CHUCKLING]
+Come on, Sarge.
+
+248
+00:11:33,892 --> 00:11:35,059
+It's date night.
+
+249
+00:11:35,193 --> 00:11:36,258
+KEVIN:
+Do me a solid.
+
+250
+00:11:36,392 --> 00:11:37,592
+Can you find
+somebody else?
+
+251
+00:11:37,726 --> 00:11:39,093
+SERGEANT:
+I got four guys out.
+
+252
+00:11:39,225 --> 00:11:40,392
+You're not the only badge
+
+253
+00:11:40,525 --> 00:11:42,392
+with a family, Jennings.
+Come on.
+
+254
+00:11:43,325 --> 00:11:44,727
+I'll take his spot.
+
+255
+00:11:44,860 --> 00:11:47,159
+You're riding with Deacon Brown.
+Meet him in the lobby.
+
+256
+00:11:47,293 --> 00:11:48,593
+Okay.
+
+257
+00:11:48,727 --> 00:11:50,927
+Hey. Thank you.
+
+258
+00:11:51,060 --> 00:11:52,160
+I owe you one.
+
+259
+00:11:52,293 --> 00:11:53,560
+It's fine.
+
+260
+00:11:53,693 --> 00:11:54,828
+I ain't got no plans.
+
+261
+00:11:54,961 --> 00:11:56,393
+- Well, I do.
+- BROWN: Know how long
+
+262
+00:11:56,526 --> 00:11:58,460
+- I've been on the force?
+- They know nothing.
+
+263
+00:11:58,594 --> 00:11:59,561
+You ask me questions,
+
+264
+00:11:59,694 --> 00:12:00,694
+I answer them,
+
+265
+00:12:00,828 --> 00:12:02,594
+and you still
+don't know.
+
+266
+00:12:02,728 --> 00:12:04,894
+It doesn't make sense.
+I'm the oldest.
+
+267
+00:12:05,027 --> 00:12:05,894
+Deacon Brown?
+
+268
+00:12:06,027 --> 00:12:08,561
+- MAN: Oh, Deacon!
+- Deacon.
+
+269
+00:12:08,694 --> 00:12:09,761
+Who are you?
+
+270
+00:12:09,895 --> 00:12:10,929
+I'm riding with you.
+
+271
+00:12:13,862 --> 00:12:14,695
+Where's Jennings?
+
+272
+00:12:14,829 --> 00:12:16,061
+He got family commitments.
+
+273
+00:12:18,061 --> 00:12:19,762
+I'm Alicia West.
+Nice to meet you.
+
+274
+00:12:19,895 --> 00:12:20,862
+[MAN WOLF-WHISTLES]
+
+275
+00:12:20,994 --> 00:12:22,361
+MALONE:
+Look at this rook, man.
+
+276
+00:12:22,495 --> 00:12:23,428
+Whew!
+
+277
+00:12:25,129 --> 00:12:26,196
+Those guys narcs?
+
+278
+00:12:28,196 --> 00:12:30,029
+Yeah.
+
+279
+00:12:30,162 --> 00:12:31,495
+You're new.
+
+280
+00:12:32,730 --> 00:12:34,730
+SMITTY:
+Bye, Deacon. Ha, ha.
+
+281
+00:12:37,496 --> 00:12:39,362
+Actually, this is
+my third week.
+
+282
+00:12:39,496 --> 00:12:40,863
+Oh, a whole
+three weeks.
+
+283
+00:12:40,996 --> 00:12:42,629
+You pull
+a night shift yet?
+
+284
+00:12:42,763 --> 00:12:45,030
+- No, sir, not here.
+- Not here?
+
+285
+00:12:45,163 --> 00:12:46,864
+- Where were you before?
+- Kandahar.
+
+286
+00:12:46,996 --> 00:12:48,362
+Oh, a vet.
+
+287
+00:12:48,496 --> 00:12:50,097
+How long you been out?
+
+288
+00:12:50,229 --> 00:12:52,630
+- Little over a year.
+- Hmm.
+
+289
+00:12:52,764 --> 00:12:55,230
+My brother was killed
+in the first Iraq.
+
+290
+00:12:55,363 --> 00:12:56,731
+What a waste.
+
+291
+00:12:58,031 --> 00:12:59,697
+You really got
+to wear that thing?
+
+292
+00:12:59,831 --> 00:13:01,198
+Why? You got
+something to hide?
+
+293
+00:13:01,330 --> 00:13:02,363
+[SCOFFS]
+
+294
+00:13:02,497 --> 00:13:03,698
+You better
+get used to 'em.
+
+295
+00:13:03,832 --> 00:13:05,497
+We're all gonna be
+wearing 'em soon.
+
+296
+00:13:06,732 --> 00:13:08,465
+Just don't point it
+at me.
+
+297
+00:13:12,665 --> 00:13:16,598
+DISPATCH: <i>Any available unit,
+there's a 10-40 at Bar 1631.</i>
+
+298
+00:13:16,732 --> 00:13:18,431
+<i>Suspect possibly armed.</i>
+
+299
+00:13:18,565 --> 00:13:20,099
+BROWN:
+<i>Dispatch, this is car 421.</i>
+
+300
+00:13:20,264 --> 00:13:21,866
+We're on it.
+
+301
+00:13:21,998 --> 00:13:24,132
+MAN [OVER RADIO]:
+<i>One twenty-nine. Go ahead.</i>
+
+302
+00:13:24,264 --> 00:13:26,199
+[DISPATCH SPEAKS INDISTINCTLY]
+
+303
+00:13:26,332 --> 00:13:27,866
+- Put your hands down!
+- What you say?
+
+304
+00:13:27,998 --> 00:13:29,365
+Why you put
+your hands in my face?
+
+305
+00:13:29,499 --> 00:13:30,766
+- Boy...
+- Don't put your hands in my face!
+
+306
+00:13:30,898 --> 00:13:31,799
+Don't touch me.
+
+307
+00:13:33,332 --> 00:13:34,834
+[ENGINE REVVING]
+
+308
+00:13:34,966 --> 00:13:35,933
+[SIREN BLARING]
+
+309
+00:13:36,066 --> 00:13:38,232
+- [TIRES SCREECH]
+- [SIREN STOPS]
+
+310
+00:13:40,533 --> 00:13:41,867
+[CROWD CLAMORING]
+
+311
+00:13:41,999 --> 00:13:44,266
+Hey, yo!
+Yo! Back up! Back up!
+
+312
+00:13:44,400 --> 00:13:45,700
+I told you to move.
+
+313
+00:13:45,834 --> 00:13:47,201
+I need you to back up!
+
+314
+00:13:47,333 --> 00:13:49,868
+Back up! Hey!
+Hey, back up! Hey!
+
+315
+00:13:50,000 --> 00:13:51,101
+Sir! Sir!
+
+316
+00:13:51,233 --> 00:13:52,867
+I need you to calm down,
+all right?
+
+317
+00:13:53,000 --> 00:13:54,300
+Tell me what's going on here.
+
+318
+00:13:54,433 --> 00:13:56,400
+- MAN: I'm calm.
+- ALICIA: What's going on?
+
+319
+00:13:56,534 --> 00:13:58,000
+ALICIA: Take it easy, okay?
+
+320
+00:13:58,134 --> 00:13:59,167
+Calm down.
+
+321
+00:13:59,301 --> 00:14:00,267
+- I'm calm.
+- All right?
+
+322
+00:14:00,401 --> 00:14:01,434
+I'm calm, Miss Officer.
+
+323
+00:14:01,568 --> 00:14:02,867
+Tell me what's going on,
+sir.
+
+324
+00:14:03,000 --> 00:14:03,934
+Wait, look.
+
+325
+00:14:04,068 --> 00:14:05,835
+[♪♪♪]
+
+326
+00:14:05,968 --> 00:14:07,668
+Why are you throwing
+punches, sir?
+
+327
+00:14:07,802 --> 00:14:09,301
+I ain't throwing no punches.
+
+328
+00:14:09,434 --> 00:14:11,035
+I swear, no punches.
+
+329
+00:14:11,168 --> 00:14:13,202
+I'm trying to have
+a good time with my girl.
+
+330
+00:14:13,334 --> 00:14:14,535
+You're out with your girl,
+
+331
+00:14:14,669 --> 00:14:15,736
+you don't need
+to be throwing punches.
+
+332
+00:14:15,868 --> 00:14:17,535
+I ain't throwing punches.
+I swear.
+
+333
+00:14:17,669 --> 00:14:19,203
+I ain't throwing punches.
+
+334
+00:14:19,335 --> 00:14:20,901
+I swear. Look, Miss Officer...
+
+335
+00:14:21,036 --> 00:14:22,002
+- [CROWD EXCLAIMING]
+- Ow!
+
+336
+00:14:22,136 --> 00:14:23,335
+What you doing? Huh?
+
+337
+00:14:23,469 --> 00:14:25,036
+You out trying to get
+some tonight?
+
+338
+00:14:25,169 --> 00:14:27,036
+<i>What you doing?
+You want to be like that?</i>
+
+339
+00:14:27,169 --> 00:14:28,335
+[GRUNTS]
+
+340
+00:14:28,469 --> 00:14:30,002
+Want to be like that?
+Get it down!
+
+341
+00:14:30,136 --> 00:14:32,036
+- Get that head down!
+- [GROANS]
+
+342
+00:14:32,169 --> 00:14:33,136
+What you doing, man?
+
+343
+00:14:33,269 --> 00:14:34,770
+Stay on the hood!
+You ain't shit!
+
+344
+00:14:34,902 --> 00:14:36,670
+- Hands on the car!
+- You know who I am?
+
+345
+00:14:36,803 --> 00:14:38,070
+- Put your head down!
+- [YELLS]
+
+346
+00:14:38,204 --> 00:14:39,570
+- What you got?
+- Brown.
+
+347
+00:14:39,703 --> 00:14:41,703
+- Huh? What you got?
+- That is not necessary.
+
+348
+00:14:41,837 --> 00:14:42,903
+Where your homeys at?
+
+349
+00:14:43,037 --> 00:14:44,336
+- What'd I tell you?
+- Pussy cop!
+
+350
+00:14:44,470 --> 00:14:45,571
+I said stay down!
+
+351
+00:14:45,704 --> 00:14:47,704
+Hey, man, I'm gonna
+pop you right here.
+
+352
+00:14:47,837 --> 00:14:50,104
+That's enough!
+Brown! That is enough!
+
+353
+00:14:50,237 --> 00:14:51,571
+Stop it, man! Stop it!
+
+354
+00:14:51,704 --> 00:14:53,105
+Let me tell you
+to stay still again.
+
+355
+00:14:53,237 --> 00:14:54,205
+Stop it!
+
+356
+00:14:54,337 --> 00:14:57,537
+Stop! That is
+not necessary!
+
+357
+00:14:57,671 --> 00:14:59,105
+That is enough!
+Stop it!
+
+358
+00:14:59,237 --> 00:15:00,304
+[THUDS]
+
+359
+00:15:00,437 --> 00:15:01,605
+[CROWD GASPING]
+
+360
+00:15:01,739 --> 00:15:03,237
+BROWN:
+That had your name on it.
+
+361
+00:15:05,605 --> 00:15:06,672
+[♪♪♪]
+
+362
+00:15:06,804 --> 00:15:09,071
+- <i>Get your hands down.</i>
+- [GROANS]
+
+363
+00:15:09,206 --> 00:15:12,106
+<i>Huh? You're out here trying
+to catch a bullet tonight, huh?</i>
+
+364
+00:15:12,238 --> 00:15:15,238
+- You're trying to get some.
+- MAN: What you doing? Let me go!
+
+365
+00:15:15,371 --> 00:15:17,438
+MAN:
+Kingston Crew!
+
+366
+00:15:22,972 --> 00:15:26,272
+[SIREN WAILING IN THE DISTANCE]
+
+367
+00:15:34,674 --> 00:15:36,707
+[SIREN BLARING IN DISTANCE]
+
+368
+00:15:45,540 --> 00:15:48,108
+Look, about what
+happened out there...
+
+369
+00:15:49,574 --> 00:15:51,307
+I'm sorry I...
+
+370
+00:15:52,273 --> 00:15:53,575
+Sorry?
+
+371
+00:15:54,373 --> 00:15:56,273
+[SCOFFS SOFTLY]
+
+372
+00:15:56,408 --> 00:15:58,274
+Sorry will get
+your ass killed out here.
+
+373
+00:16:00,007 --> 00:16:02,341
+Let me ask you a question.
+You think you're black?
+
+374
+00:16:02,475 --> 00:16:04,374
+You think they're
+your people?
+
+375
+00:16:04,508 --> 00:16:06,109
+Well, they're not.
+
+376
+00:16:06,274 --> 00:16:07,475
+We are.
+
+377
+00:16:08,775 --> 00:16:10,274
+You're blue now.
+
+378
+00:16:11,375 --> 00:16:12,709
+Don't you ever forget that.
+
+379
+00:16:14,742 --> 00:16:16,275
+You understand me?
+
+380
+00:16:19,909 --> 00:16:20,775
+Yeah.
+
+381
+00:16:20,909 --> 00:16:22,242
+You better.
+
+382
+00:16:22,375 --> 00:16:24,242
+[CELL PHONE BUZZING]
+
+383
+00:16:32,343 --> 00:16:33,243
+This is Brown.
+
+384
+00:16:35,743 --> 00:16:36,709
+Uh-huh.
+
+385
+00:16:37,743 --> 00:16:38,877
+Now?
+
+386
+00:16:40,177 --> 00:16:41,177
+Yeah.
+
+387
+00:16:44,578 --> 00:16:45,877
+We got to roll.
+
+388
+00:16:46,010 --> 00:16:46,944
+Everything all right?
+
+389
+00:16:47,077 --> 00:16:48,377
+We got a call. Let's go.
+
+390
+00:16:48,511 --> 00:16:50,212
+What, on your phone?
+
+391
+00:16:52,844 --> 00:16:55,444
+[SHIP'S HORN DRONING]
+
+392
+00:17:00,911 --> 00:17:03,845
+[♪♪♪]
+
+393
+00:17:23,180 --> 00:17:25,114
+[SEAGULLS SQUAWKING]
+
+394
+00:17:28,613 --> 00:17:30,747
+[♪♪♪]
+
+395
+00:17:48,247 --> 00:17:49,515
+[KILLS ENGINE]
+
+396
+00:17:49,647 --> 00:17:51,881
+I still don't understand
+what we're doing here.
+
+397
+00:17:53,014 --> 00:17:54,315
+I got to meet a C.I.
+
+398
+00:17:57,082 --> 00:17:58,615
+Whoa, whoa, whoa.
+Where you going?
+
+399
+00:17:58,748 --> 00:18:00,781
+Stay in the car
+and close the door.
+
+400
+00:18:00,915 --> 00:18:03,248
+- Why?
+- Because I said so.
+
+401
+00:18:11,416 --> 00:18:13,382
+Just stay in the car.
+I'll be right back.
+
+402
+00:18:18,715 --> 00:18:21,950
+[♪♪♪]
+
+403
+00:18:31,750 --> 00:18:32,951
+[SIGHS]
+
+404
+00:18:38,517 --> 00:18:41,118
+[GLOVE COMPARTMENT OPENS,
+CLOSES]
+
+405
+00:18:49,918 --> 00:18:51,052
+[PHONE CHIMES]
+
+406
+00:19:07,886 --> 00:19:12,153
+[WIPERS CONTINUE SCRAPING]
+
+407
+00:19:18,919 --> 00:19:20,886
+[DISTORTED SCRAPING]
+
+408
+00:19:26,720 --> 00:19:28,754
+ALICE: Are you kidding?
+With me right here?
+
+409
+00:19:30,521 --> 00:19:31,421
+Hey!
+
+410
+00:19:34,054 --> 00:19:35,354
+[DOOR CLOSES]
+
+411
+00:19:37,155 --> 00:19:38,687
+[TURNS CAMERA ON]
+
+412
+00:19:50,355 --> 00:19:51,888
+[GUNSHOT]
+
+413
+00:20:01,622 --> 00:20:03,156
+[GUNSHOT]
+
+414
+00:20:07,856 --> 00:20:10,756
+[♪♪♪]
+
+415
+00:20:44,557 --> 00:20:46,159
+[WATER DRIPPING]
+
+416
+00:20:48,557 --> 00:20:49,557
+[WOOD CREAKING]
+
+417
+00:20:49,692 --> 00:20:51,491
+[PEOPLE CHATTERING INDISTINCTLY]
+
+418
+00:20:51,625 --> 00:20:54,025
+MAN: You ain't got to
+worry about nothing.
+
+419
+00:20:54,159 --> 00:20:55,792
+Just let me do this.
+
+420
+00:20:57,192 --> 00:20:59,193
+[CONVERSATION CONTINUES
+INDISTINCTLY]
+
+421
+00:21:02,026 --> 00:21:03,326
+- [BANGING]
+- [WINGS FLUTTERING]
+
+422
+00:21:03,458 --> 00:21:05,227
+[CONVERSATION CONTINUES
+INDISTINCTLY]
+
+423
+00:21:05,359 --> 00:21:07,426
+MAN:
+Look, let me handle this.
+
+424
+00:21:07,558 --> 00:21:09,760
+Let me run point on this.
+
+425
+00:21:09,893 --> 00:21:11,793
+We can't make
+any sudden moves right now.
+
+426
+00:21:11,926 --> 00:21:13,693
+It's hot out there.
+
+427
+00:21:17,194 --> 00:21:19,426
+The DA's not gonna
+find out anything.
+
+428
+00:21:19,559 --> 00:21:21,459
+We managed to make
+all the deliveries.
+
+429
+00:21:21,593 --> 00:21:22,961
+and keep the payment schedule.
+
+430
+00:21:23,094 --> 00:21:24,459
+MAN 2:
+Right. According to you.
+
+431
+00:21:24,593 --> 00:21:26,027
+I've been loyal to you.
+
+432
+00:21:26,161 --> 00:21:27,627
+It's been
+coming down for months.
+
+433
+00:21:27,761 --> 00:21:30,061
+I have not said
+one thing.
+
+434
+00:21:30,194 --> 00:21:31,527
+M-Malone,
+listen to me.
+
+435
+00:21:31,660 --> 00:21:33,627
+- I'm listening.
+- This train's moving too fast
+
+436
+00:21:33,761 --> 00:21:35,928
+for you to put
+the brakes on it.
+
+437
+00:21:36,062 --> 00:21:38,427
+Nobody needs to know
+what you've done here.
+
+438
+00:21:38,560 --> 00:21:40,095
+You have nothing
+to worry about.
+
+439
+00:21:40,229 --> 00:21:41,695
+There's no way
+I would tell Darius.
+
+440
+00:21:41,828 --> 00:21:43,095
+You got rid of everybody
+that can talk.
+
+441
+00:21:43,229 --> 00:21:46,195
+- [GUNSHOT]
+- [PANTING]
+
+442
+00:21:48,928 --> 00:21:50,795
+[GUNSHOTS CONTINUE]
+
+443
+00:21:51,928 --> 00:21:54,163
+[BREATHING RAPIDLY]
+
+444
+00:21:54,295 --> 00:21:55,728
+That's right, Zero.
+
+445
+00:21:55,863 --> 00:21:57,561
+I got rid of everybody
+that can talk.
+
+446
+00:21:57,696 --> 00:21:58,929
+What the hell
+are you doing?
+
+447
+00:21:59,063 --> 00:22:00,029
+I told you to stay
+in the car.
+
+448
+00:22:00,163 --> 00:22:01,196
+What are you
+doing here?
+
+449
+00:22:01,329 --> 00:22:02,629
+This isn't
+what it looks like.
+
+450
+00:22:02,763 --> 00:22:04,163
+Just relax.
+Where you going?
+
+451
+00:22:04,296 --> 00:22:06,096
+Put the gun down.
+These are bad guys.
+
+452
+00:22:06,231 --> 00:22:07,496
+This is not
+what it seems.
+
+453
+00:22:07,629 --> 00:22:09,064
+- Just relax.
+- [GUNSHOTS]
+
+454
+00:22:09,197 --> 00:22:10,097
+[GRUNTS]
+
+455
+00:22:16,997 --> 00:22:18,463
+MALONE:
+What the hell did you do?
+
+456
+00:22:18,597 --> 00:22:20,331
+She had
+a body cam on!
+
+457
+00:22:20,463 --> 00:22:22,630
+[♪♪♪]
+
+458
+00:22:25,430 --> 00:22:27,232
+So you shoot her?
+
+459
+00:22:27,363 --> 00:22:28,865
+- You shoot her?
+- She was gonna run!
+
+460
+00:22:28,998 --> 00:22:30,297
+- What did you want?
+- What'd I want...
+
+461
+00:22:30,430 --> 00:22:31,898
+- I didn't use my service weapon!
+- Go, go!
+
+462
+00:22:32,031 --> 00:22:34,232
+Go get it.
+Go get the body cam. Idiot!
+
+463
+00:22:34,363 --> 00:22:37,165
+[♪♪♪]
+
+464
+00:22:47,199 --> 00:22:49,298
+[GASPS]
+
+465
+00:22:49,431 --> 00:22:50,465
+- Who is she?
+- West.
+
+466
+00:22:50,599 --> 00:22:52,233
+- Who's West?
+- She's a rookie.
+
+467
+00:22:52,365 --> 00:22:53,432
+You bring a rookie here?
+
+468
+00:22:53,565 --> 00:22:55,299
+Are you out
+of your mind?
+
+469
+00:22:55,432 --> 00:22:57,398
+- What are we gonna do now?
+- Nothing changes.
+
+470
+00:22:57,532 --> 00:22:59,299
+- Nothing. You understand?
+- We shot a cop!
+
+471
+00:22:59,432 --> 00:23:00,532
+Shut your mouth!
+
+472
+00:23:00,665 --> 00:23:02,234
+Nothing changes.
+We plant the guns.
+
+473
+00:23:02,365 --> 00:23:04,067
+You and the rookie rolled up
+on the Triple-Nines.
+
+474
+00:23:04,200 --> 00:23:05,933
+They capped her. You got away.
+Simple.
+
+475
+00:23:06,067 --> 00:23:07,833
+- What about her body cam?
+- What about the body cam?
+
+476
+00:23:07,967 --> 00:23:10,666
+Triple-Nines took the body cam
+for evidence. It's simple.
+
+477
+00:23:10,800 --> 00:23:12,267
+Stay with me.
+You understand?
+
+478
+00:23:13,267 --> 00:23:14,566
+I don't know about this.
+
+479
+00:23:14,700 --> 00:23:16,466
+You don't know?
+Look at me, son.
+
+480
+00:23:16,600 --> 00:23:18,034
+You keep it simple.
+It tracks.
+
+481
+00:23:18,168 --> 00:23:20,566
+We're good.
+Go help him find your partner.
+
+482
+00:23:20,701 --> 00:23:21,968
+Go. Go.
+
+483
+00:23:22,101 --> 00:23:23,168
+Go!
+
+484
+00:23:23,299 --> 00:23:24,801
+SMITTY:
+We got a problem, Malone!
+
+485
+00:23:24,934 --> 00:23:25,834
+You see her?
+
+486
+00:23:34,334 --> 00:23:35,467
+Hey!
+
+487
+00:23:36,769 --> 00:23:37,935
+Smitty!
+
+488
+00:23:38,069 --> 00:23:39,102
+Yo, we've got a ghost!
+
+489
+00:23:39,236 --> 00:23:40,935
+- What?
+- She's gone!
+
+490
+00:23:41,069 --> 00:23:44,602
+SMITTY: She's unarmed!
+Her gun is here!
+
+491
+00:23:44,735 --> 00:23:45,735
+Find her!
+
+492
+00:23:45,869 --> 00:23:48,535
+[♪♪♪]
+
+493
+00:23:50,401 --> 00:23:52,635
+[PANTING]
+
+494
+00:23:57,703 --> 00:24:00,402
+[WHISPERING]
+Come on. Damn it.
+
+495
+00:24:04,269 --> 00:24:05,369
+West!
+
+496
+00:24:09,302 --> 00:24:11,837
+Just come on out! Just make it
+easy for us, all right?
+
+497
+00:24:11,971 --> 00:24:14,637
+We just want the body cam,
+all right? That's it.
+
+498
+00:24:14,771 --> 00:24:18,437
+I mean, what are you? You some
+kind of stuntwoman or something?
+
+499
+00:24:18,570 --> 00:24:20,470
+MALONE:
+Why don't you come out now?
+
+500
+00:24:23,238 --> 00:24:25,105
+BROWN: They weren't
+supposed to shoot you.
+
+501
+00:24:25,238 --> 00:24:26,504
+All we want
+is the body cam.
+
+502
+00:24:28,605 --> 00:24:31,438
+[♪♪♪]
+
+503
+00:24:32,371 --> 00:24:34,139
+[BREATHING SHAKILY]
+
+504
+00:24:43,271 --> 00:24:45,073
+SMITTY:
+Now come on out, rookie.
+
+505
+00:24:49,539 --> 00:24:51,039
+MALONE:
+Why don't you come on out
+
+506
+00:24:51,173 --> 00:24:52,806
+and let us get you
+taken care of.
+
+507
+00:24:52,939 --> 00:24:55,074
+Okay?
+I'm sure that hurt.
+
+508
+00:24:55,206 --> 00:24:56,472
+[GRUNTS]
+
+509
+00:24:58,305 --> 00:24:59,807
+- [BEEPS]
+- [WHISPERING] Dispatch.
+
+510
+00:24:59,940 --> 00:25:01,339
+Dispatch.
+
+511
+00:25:01,472 --> 00:25:03,940
+Shots fired.
+Officer needs backup.
+
+512
+00:25:04,074 --> 00:25:06,240
+This is a code 108.
+
+513
+00:25:06,373 --> 00:25:08,573
+- DISPATCH: <i>Your location?</i>
+- Uh...
+
+514
+00:25:08,707 --> 00:25:11,640
+MALONE [OVER RADIO]: <i>Dispatch,
+this is Detective Terry Malone.</i>
+
+515
+00:25:11,774 --> 00:25:13,840
+<i>- Is that you, Charlene?</i>
+- CHARLENE: <i>Sure is.</i>
+
+516
+00:25:13,975 --> 00:25:17,075
+MALONE: <i>Oh, we got a rookie who
+just witnessed a gang-related 187,</i>
+
+517
+00:25:17,207 --> 00:25:18,708
+<i>and she freaked out
+a little bit.</i>
+
+518
+00:25:18,841 --> 00:25:20,075
+<i>I'm gonna take care
+of this.</i>
+
+519
+00:25:20,207 --> 00:25:22,474
+<i>Let me take this one.</i>
+
+520
+00:25:22,608 --> 00:25:24,108
+CHARLENE:
+<i>Sounds good, Terry.</i>
+
+521
+00:25:24,242 --> 00:25:26,143
+<i>I got plenty
+other calls to take.</i>
+
+522
+00:25:27,741 --> 00:25:29,341
+MALONE:
+<i>Okay, darling. Thank you.</i>
+
+523
+00:25:29,474 --> 00:25:30,942
+Dispatch?
+
+524
+00:25:32,274 --> 00:25:33,742
+Dispatch.
+
+525
+00:25:35,374 --> 00:25:38,109
+Damn it, Charlene. This is...
+This is a 108.
+
+526
+00:25:38,242 --> 00:25:40,842
+MALONE: <i>Hey, West.
+She's gone, you hear me?</i>
+
+527
+00:25:40,976 --> 00:25:42,976
+<i>Huh? West?</i>
+
+528
+00:25:43,110 --> 00:25:45,842
+Seems to me you got a hard
+choice to make right now.
+
+529
+00:25:45,977 --> 00:25:47,010
+[♪♪♪]
+
+530
+00:25:47,144 --> 00:25:48,010
+<i>Are you one of us,</i>
+
+531
+00:25:48,144 --> 00:25:49,475
+<i>or are you one of them?</i>
+
+532
+00:25:49,609 --> 00:25:51,110
+Bring me that body cam.
+
+533
+00:25:51,243 --> 00:25:52,375
+[GASPS]
+
+534
+00:26:19,577 --> 00:26:20,778
+[♪♪♪]
+
+535
+00:26:22,511 --> 00:26:23,410
+Malone!
+
+536
+00:26:27,344 --> 00:26:28,845
+SMITTY:
+Malone, alley!
+
+537
+00:26:28,979 --> 00:26:29,912
+[GRUNTS]
+
+538
+00:26:31,912 --> 00:26:33,678
+- [GUNSHOTS]
+- Stop!
+
+539
+00:26:41,679 --> 00:26:42,746
+[ENGINE STARTS]
+
+540
+00:26:44,146 --> 00:26:45,613
+[TIRES SQUEALING]
+
+541
+00:26:59,147 --> 00:27:00,312
+[PANTING]
+
+542
+00:27:03,113 --> 00:27:05,781
+[BREATHING HEAVILY]
+
+543
+00:27:17,048 --> 00:27:19,515
+[♪♪♪]
+
+544
+00:27:43,549 --> 00:27:44,482
+<i>Help!</i>
+
+545
+00:27:46,784 --> 00:27:49,017
+Help! Hello!
+
+546
+00:27:49,150 --> 00:27:50,449
+I know you're in there.
+
+547
+00:27:50,583 --> 00:27:52,650
+- I need help.
+- WOMAN: Bitch, get off my porch.
+
+548
+00:27:54,017 --> 00:27:55,217
+[DOOR OPENS]
+
+549
+00:27:58,117 --> 00:27:59,050
+Ma'am?
+
+550
+00:27:59,184 --> 00:28:01,750
+<i>Ma'am? Ma'am.</i>
+
+551
+00:28:01,885 --> 00:28:03,918
+Please.
+
+552
+00:28:04,050 --> 00:28:05,684
+- Oh, hell no. What...?
+- Ma'am, please.
+
+553
+00:28:05,818 --> 00:28:07,450
+Ma'am, can I use your phone?
+Please.
+
+554
+00:28:07,584 --> 00:28:08,985
+- Can I use your phone?
+- What's the problem?
+
+555
+00:28:09,117 --> 00:28:10,284
+- I've been shot.
+- Got a warrant?
+
+556
+00:28:10,417 --> 00:28:12,117
+- Sir, can I use...?
+- What's the problem?
+
+557
+00:28:12,252 --> 00:28:13,951
+Please.
+There are people chasing me!
+
+558
+00:28:14,085 --> 00:28:15,085
+- Please!
+- [TIRES SCREECH]
+
+559
+00:28:15,218 --> 00:28:16,451
+Gonna bring that
+to my door?
+
+560
+00:28:16,584 --> 00:28:17,919
+ALICIA:
+You don't understand!
+
+561
+00:28:18,051 --> 00:28:19,819
+- I'm being chased! Please!
+- I don't care!
+
+562
+00:28:19,952 --> 00:28:21,484
+You take that
+somewhere else.
+
+563
+00:28:21,619 --> 00:28:23,451
+- Go. Can't help you.
+- Please! There are...
+
+564
+00:28:23,585 --> 00:28:24,752
+Please! I need...
+
+565
+00:28:28,285 --> 00:28:29,153
+BROWN:
+West!
+
+566
+00:28:29,285 --> 00:28:30,986
+[TIRES SCREECH]
+
+567
+00:28:31,119 --> 00:28:32,253
+Get your ass over here!
+
+568
+00:28:32,385 --> 00:28:33,285
+[HEAD THUDS]
+
+569
+00:28:34,219 --> 00:28:35,086
+She went there!
+
+570
+00:28:35,219 --> 00:28:36,853
+Come on, she's down there!
+
+571
+00:28:39,753 --> 00:28:41,653
+[♪♪♪]
+
+572
+00:28:55,254 --> 00:28:57,087
+- You see her?
+- No, I mean, she was...
+
+573
+00:28:57,220 --> 00:28:58,654
+- She was here.
+- I know she...
+
+574
+00:28:58,788 --> 00:29:00,721
+- Where is she now?
+- I don't know!
+
+575
+00:29:00,854 --> 00:29:01,888
+- You see her?
+- I lost her.
+
+576
+00:29:02,020 --> 00:29:03,287
+- What do you mean?
+- I lost her!
+
+577
+00:29:03,420 --> 00:29:05,255
+You kidding me?
+Are you guys kidding me?
+
+578
+00:29:05,387 --> 00:29:07,654
+I chased her for blocks.
+I don't know where she went!
+
+579
+00:29:07,788 --> 00:29:09,922
+I don't believe...
+You guys are amazing.
+
+580
+00:29:10,054 --> 00:29:11,454
+- He had eyes on her!
+- Shut up!
+
+581
+00:29:11,587 --> 00:29:12,922
+You brought her.
+You shot her.
+
+582
+00:29:13,054 --> 00:29:14,287
+I got to clean
+this shit up!
+
+583
+00:29:14,420 --> 00:29:16,088
+This is great.
+
+584
+00:29:16,221 --> 00:29:17,922
+Go to a private channel.
+Go to 19.
+
+585
+00:29:18,054 --> 00:29:20,256
+Dispatch has heard enough
+of this shit already.
+
+586
+00:29:20,388 --> 00:29:22,588
+Spread the word.
+She cannot get to the precinct
+
+587
+00:29:22,722 --> 00:29:24,455
+with that camera.
+Do you hear me?
+
+588
+00:29:24,588 --> 00:29:26,723
+- I understand. Yes.
+- Shake your head! Okay.
+
+589
+00:29:26,856 --> 00:29:28,488
+Tell everybody.
+Widen the search.
+
+590
+00:29:28,623 --> 00:29:29,790
+Go. Go.
+
+591
+00:29:29,923 --> 00:29:31,756
+- Go. Shut up.
+- Do your goddamn job, man.
+
+592
+00:29:31,890 --> 00:29:33,790
+You brought the rook.
+What are you doing?
+
+593
+00:29:33,923 --> 00:29:36,157
+Get in the car.
+You're like a kid.
+
+594
+00:29:36,289 --> 00:29:38,322
+[ENGINES START]
+
+595
+00:29:49,791 --> 00:29:51,157
+[PANTING]
+
+596
+00:29:51,290 --> 00:29:53,191
+[♪♪♪]
+
+597
+00:30:05,224 --> 00:30:07,024
+BROWN [OVER SPEAKER]:
+<i>I know she's here.</i>
+
+598
+00:30:07,158 --> 00:30:08,792
+<i>I know it.</i>
+
+599
+00:30:08,924 --> 00:30:11,024
+MALONE: <i>Just circle the
+block one more time.</i>
+
+600
+00:30:20,225 --> 00:30:21,526
+MALONE:
+<i>Any sign of her?</i>
+
+601
+00:30:21,659 --> 00:30:23,359
+BROWN [OVER RADIO]:
+<i>No, nothing here.</i>
+
+602
+00:30:23,492 --> 00:30:24,958
+<i>She couldn't have gotten far.</i>
+
+603
+00:30:25,092 --> 00:30:27,025
+- MALONE: <i>Let's circle back.</i>
+- [TIRES SQUEAL]
+
+604
+00:30:39,325 --> 00:30:40,193
+Hey!
+
+605
+00:30:40,326 --> 00:30:41,426
+Wait, wait, wait! Stop!
+
+606
+00:30:41,560 --> 00:30:42,693
+- Stop!
+- [TIRES SCREECH]
+
+607
+00:30:45,227 --> 00:30:46,727
+Easy. Easy.
+
+608
+00:30:46,859 --> 00:30:48,894
+What's your name?
+Identify yourself, please.
+
+609
+00:30:49,027 --> 00:30:50,960
+I'm Officer West.
+I need a ride.
+
+610
+00:30:51,094 --> 00:30:53,161
+Let me get you some help.
+This is Sergeant...
+
+611
+00:30:53,293 --> 00:30:55,326
+No, don't! Stay off
+the radio, please.
+
+612
+00:30:55,461 --> 00:30:58,461
+Relax. It's fine.
+It's fine, all right?
+
+613
+00:30:58,594 --> 00:31:00,494
+Are you okay?
+You look like hell.
+
+614
+00:31:00,628 --> 00:31:02,795
+Where's your ride at?
+
+615
+00:31:02,927 --> 00:31:04,795
+[WHIMPERS]
+It's... It's a long story.
+
+616
+00:31:04,928 --> 00:31:06,128
+All right, come on.
+
+617
+00:31:06,262 --> 00:31:08,995
+Let's go.
+Let's get you out of here.
+
+618
+00:31:09,128 --> 00:31:10,796
+Are you injured?
+
+619
+00:31:12,061 --> 00:31:13,495
+Come on, we got you.
+
+620
+00:31:13,629 --> 00:31:14,861
+Everything's
+gonna be fine.
+
+621
+00:31:14,995 --> 00:31:15,928
+Come on.
+
+622
+00:31:17,629 --> 00:31:19,495
+BRODY: <i>This is Brody.
+We found West.</i>
+
+623
+00:31:19,629 --> 00:31:20,828
+<i>We got her.</i>
+
+624
+00:31:20,962 --> 00:31:22,763
+<i>She's at Second and Danneel.</i>
+
+625
+00:31:22,896 --> 00:31:24,929
+It's all right.
+We got you.
+
+626
+00:31:25,062 --> 00:31:28,029
+Everything's gonna be fine,
+all right?
+
+627
+00:31:28,163 --> 00:31:29,496
+[♪♪♪]
+
+628
+00:31:29,630 --> 00:31:30,530
+West.
+
+629
+00:31:30,663 --> 00:31:32,329
+Hey. Don't be
+stupid, West.
+
+630
+00:31:32,463 --> 00:31:34,097
+All he wants is
+the body cam.
+
+631
+00:31:34,230 --> 00:31:36,063
+[♪♪♪]
+
+632
+00:31:36,197 --> 00:31:37,763
+[TIRES SCREECHING]
+
+633
+00:31:46,497 --> 00:31:47,764
+[GRUNTS]
+
+634
+00:31:50,631 --> 00:31:51,764
+[PANTING]
+
+635
+00:31:53,397 --> 00:31:54,464
+Damn it!
+
+636
+00:31:57,831 --> 00:32:00,098
+[PANTING]
+
+637
+00:32:01,964 --> 00:32:03,931
+[SINGING SOFTLY]
+
+638
+00:32:09,099 --> 00:32:10,498
+[KNOCKING]
+
+639
+00:32:13,799 --> 00:32:15,266
+[KNOCKING CONTINUES]
+
+640
+00:32:15,398 --> 00:32:16,266
+We're closed.
+
+641
+00:32:16,398 --> 00:32:17,999
+We open at 8.
+
+642
+00:32:23,533 --> 00:32:24,999
+[CLATTERING]
+
+643
+00:32:39,933 --> 00:32:41,300
+Hello?
+
+644
+00:32:52,300 --> 00:32:53,668
+Hello.
+
+645
+00:32:59,068 --> 00:33:00,434
+I'm telling you right now,
+
+646
+00:33:01,568 --> 00:33:03,768
+if I got to come back there...
+
+647
+00:33:03,902 --> 00:33:05,735
+I'm gonna beat your ass.
+
+648
+00:33:16,969 --> 00:33:19,369
+I keep telling them
+about this door, man.
+
+649
+00:33:21,103 --> 00:33:21,969
+[DOOR BANGS]
+
+650
+00:33:22,103 --> 00:33:23,402
+- [GASPS]
+- Mouse, it's me.
+
+651
+00:33:23,537 --> 00:33:25,236
+- [BAT CLATTERS]
+- It's me. It's me.
+
+652
+00:33:25,369 --> 00:33:26,603
+What the hell is going on?
+
+653
+00:33:28,503 --> 00:33:30,836
+- Is that blood?
+- I need sugar.
+
+654
+00:33:30,969 --> 00:33:33,271
+Look, I don't know
+what's going on,
+
+655
+00:33:33,403 --> 00:33:34,537
+but you can't be in here.
+
+656
+00:33:34,670 --> 00:33:37,603
+You need to get
+out of my store.
+
+657
+00:33:37,737 --> 00:33:39,336
+[PANTING]
+
+658
+00:33:39,470 --> 00:33:40,737
+- I've been shot.
+- What?
+
+659
+00:33:40,870 --> 00:33:41,804
+What do you mean?
+
+660
+00:33:41,937 --> 00:33:42,904
+Can I use your phone?
+
+661
+00:33:43,037 --> 00:33:43,870
+Who shot you?
+
+662
+00:33:44,004 --> 00:33:45,004
+Can I use your phone?
+
+663
+00:33:46,571 --> 00:33:48,138
+You got to go.
+
+664
+00:33:50,404 --> 00:33:51,971
+I don't want no part to this.
+
+665
+00:33:52,105 --> 00:33:55,605
+You need to go back outside
+with all this bullshit, okay?
+
+666
+00:33:55,738 --> 00:33:57,671
+Police is riding
+around here all the time.
+
+667
+00:33:57,805 --> 00:33:58,738
+They'll help you.
+
+668
+00:33:58,871 --> 00:34:00,805
+It was the cops that shot me.
+
+669
+00:34:00,938 --> 00:34:01,871
+The cops?
+
+670
+00:34:02,005 --> 00:34:03,704
+Please.
+
+671
+00:34:03,838 --> 00:34:07,106
+I just need to call my partner
+and stop the bleeding,
+
+672
+00:34:07,239 --> 00:34:08,405
+and I will go.
+
+673
+00:34:08,539 --> 00:34:10,305
+I swear.
+
+674
+00:34:10,438 --> 00:34:12,305
+Please.
+
+675
+00:34:19,473 --> 00:34:21,240
+- What happened?
+- DOYLE: She got away.
+
+676
+00:34:21,373 --> 00:34:22,939
+We hit the block
+a couple of times.
+
+677
+00:34:23,073 --> 00:34:24,973
+- She's gone.
+- DISPATCH: <i>Available units,</i>
+
+678
+00:34:25,107 --> 00:34:27,573
+<i>we have a possible 211
+in progress at a market.</i>
+
+679
+00:34:27,706 --> 00:34:29,439
+<i>Corner of St. Claude
+and Andry.</i>
+
+680
+00:34:29,574 --> 00:34:31,807
+That's not far.
+And we can't have anyone else
+
+681
+00:34:31,940 --> 00:34:33,174
+sniffing around down here.
+
+682
+00:34:33,306 --> 00:34:35,340
+Now, you guys go now.
+You understand?
+
+683
+00:34:35,474 --> 00:34:38,507
+1692 en route
+to possible 211.
+
+684
+00:34:38,640 --> 00:34:40,440
+DISPATCH:
+<i>Copy, 1692.</i>
+
+685
+00:34:43,908 --> 00:34:45,175
+[CELLPHONE BUZZING]
+
+686
+00:34:45,307 --> 00:34:46,941
+[SIGHS]
+
+687
+00:34:47,074 --> 00:34:49,275
+[WOMAN ON TV SPEAKING
+INDISTINCTLY]
+
+688
+00:34:50,275 --> 00:34:51,308
+[SIGHS]
+
+689
+00:34:53,041 --> 00:34:54,841
+- [SHOWER RUNNING]
+- Hello.
+
+690
+00:34:54,974 --> 00:34:56,109
+Kev, it's me.
+
+691
+00:34:56,242 --> 00:34:57,607
+KEVIN:
+<i>Jesus, West.</i>
+
+692
+00:34:57,741 --> 00:34:59,775
+- I need you, man.
+- <i>Date night, remember?</i>
+
+693
+00:34:59,909 --> 00:35:01,909
+Tina's in the shower now.
+She's soaping up.
+
+694
+00:35:02,042 --> 00:35:03,176
+<i>I'm being serious, Kev.</i>
+
+695
+00:35:03,308 --> 00:35:04,642
+Yeah, no shit. So am I.
+
+696
+00:35:04,775 --> 00:35:06,775
+Told you she's been
+doing yoga, right?
+
+697
+00:35:06,909 --> 00:35:08,376
+I saw narc officers
+
+698
+00:35:08,509 --> 00:35:10,476
+murder some kids
+this morning.
+
+699
+00:35:10,608 --> 00:35:12,376
+I got the whole thing
+on body cam.
+
+700
+00:35:12,509 --> 00:35:15,342
+Hold on a second.
+You're saying you...
+
+701
+00:35:15,476 --> 00:35:16,776
+You filmed a police
+shooting?
+
+702
+00:35:16,910 --> 00:35:18,910
+No, Kev, I filmed
+an execution.
+
+703
+00:35:19,543 --> 00:35:20,676
+Jesus.
+
+704
+00:35:20,810 --> 00:35:22,943
+- <i>Where's Brown?</i>
+- He's with them.
+
+705
+00:35:23,076 --> 00:35:25,244
+Man, a load of others too.
+They...
+
+706
+00:35:26,910 --> 00:35:28,343
+They're trying to kill me, man.
+
+707
+00:35:28,477 --> 00:35:30,576
+Please. I need you.
+I got to get out of here.
+
+708
+00:35:30,709 --> 00:35:31,576
+<i>Yeah, okay.</i>
+
+709
+00:35:31,709 --> 00:35:33,643
+All right, um...
+
+710
+00:35:33,777 --> 00:35:34,643
+Where's here?
+
+711
+00:35:34,777 --> 00:35:35,811
+[SNIFFS]
+
+712
+00:35:37,744 --> 00:35:38,610
+West?
+
+713
+00:35:38,744 --> 00:35:40,311
+<i>Where are you right now?</i>
+
+714
+00:35:42,144 --> 00:35:44,545
+<i>I'll meet you at 12th
+and Felicity Street.</i>
+
+715
+00:35:44,677 --> 00:35:46,945
+Yeah. Yeah, okay.
+All right.
+
+716
+00:35:47,078 --> 00:35:49,145
+Just hang tight.
+All right? I'm there in 30.
+
+717
+00:35:49,279 --> 00:35:50,179
+[PHONE BEEPS]
+
+718
+00:35:52,545 --> 00:35:53,444
+Shit.
+
+719
+00:35:55,578 --> 00:35:56,479
+Thanks.
+
+720
+00:35:57,978 --> 00:35:59,078
+[KNOCKING ON DOOR]
+
+721
+00:35:59,213 --> 00:36:00,845
+[♪♪♪]
+
+722
+00:36:02,280 --> 00:36:03,180
+I'm sorry.
+
+723
+00:36:03,312 --> 00:36:05,711
+[KNOCKING CONTINUES]
+
+724
+00:36:06,645 --> 00:36:07,512
+How'd they find me?
+
+725
+00:36:07,645 --> 00:36:09,646
+They didn't. It was me.
+
+726
+00:36:09,779 --> 00:36:11,546
+Please. Please.
+You got to hide me.
+
+727
+00:36:11,679 --> 00:36:13,813
+- You got to hide me. Please.
+- Look, I don't...
+
+728
+00:36:15,281 --> 00:36:16,380
+I can't do this.
+
+729
+00:36:16,513 --> 00:36:17,612
+Please.
+
+730
+00:36:21,612 --> 00:36:22,947
+Open the door.
+
+731
+00:36:26,281 --> 00:36:27,181
+MOUSE:
+One second.
+
+732
+00:36:27,313 --> 00:36:29,147
+It's me.
+I-I called y'all.
+
+733
+00:36:29,281 --> 00:36:31,282
+It's me. One second.
+
+734
+00:36:31,414 --> 00:36:33,814
+- Open the door.
+- Yeah.
+
+735
+00:36:35,081 --> 00:36:36,647
+Yeah, I'm the one
+who called y'all.
+
+736
+00:36:36,780 --> 00:36:38,282
+- Appreciate y'all coming.
+- Back up.
+
+737
+00:36:38,414 --> 00:36:40,015
+- What?
+- What took you so long?
+
+738
+00:36:40,148 --> 00:36:42,048
+- You alone?
+- I'm the one who called y'all.
+
+739
+00:36:42,182 --> 00:36:45,282
+DOYLE: Police! If there's anybody
+in the store, identify yourself.
+
+740
+00:36:47,282 --> 00:36:48,348
+[DOOR OPENING]
+
+741
+00:36:51,382 --> 00:36:53,648
+[♪♪♪]
+
+742
+00:36:57,249 --> 00:36:59,949
+MOUSE: Sir, it was me that called
+y'all, all right?
+
+743
+00:37:01,216 --> 00:37:02,315
+Turn around.
+
+744
+00:37:02,449 --> 00:37:05,183
+Turn around.
+Hands on the counter.
+
+745
+00:37:05,316 --> 00:37:06,449
+Come on.
+Spread your legs.
+
+746
+00:37:06,582 --> 00:37:07,816
+Spread your legs.
+
+747
+00:37:07,949 --> 00:37:10,482
+[HANDCUFFS CLINK]
+
+748
+00:37:10,615 --> 00:37:12,184
+I'm the one
+who called y'all, sir.
+
+749
+00:37:12,316 --> 00:37:13,783
+Mm-hm.
+
+750
+00:37:15,184 --> 00:37:16,683
+DOYLE:
+Any sharp objects, needles,
+
+751
+00:37:16,817 --> 00:37:18,883
+- knives I need to know about?
+- No, sir.
+
+752
+00:37:19,017 --> 00:37:20,483
+[GRUNTS]
+
+753
+00:37:20,616 --> 00:37:23,185
+What's up with all
+the aggression, man?
+
+754
+00:37:23,317 --> 00:37:25,516
+What did you
+just say to me?
+
+755
+00:37:25,650 --> 00:37:28,118
+Keep your mouth shut.
+
+756
+00:37:28,251 --> 00:37:30,118
+Nothing.
+
+757
+00:37:30,251 --> 00:37:32,118
+DOYLE:
+That's what I thought.
+
+758
+00:37:32,251 --> 00:37:33,784
+Running your mouth.
+
+759
+00:37:35,984 --> 00:37:38,617
+I could blow your head off
+right now.
+
+760
+00:37:38,751 --> 00:37:40,651
+No one
+would even care.
+
+761
+00:37:40,784 --> 00:37:41,951
+[SHUDDERING BREATHS]
+
+762
+00:37:45,418 --> 00:37:46,684
+Anything going on
+back there?
+
+763
+00:37:46,819 --> 00:37:49,152
+Nah. We're clear.
+
+764
+00:37:50,618 --> 00:37:51,952
+Check his ID.
+
+765
+00:37:56,585 --> 00:37:58,952
+I am so tired of coming
+into this neighborhood.
+
+766
+00:37:59,086 --> 00:38:00,986
+[PANTING]
+
+767
+00:38:03,386 --> 00:38:05,585
+DOYLE: You need to learn
+to keep your mouth shut
+
+768
+00:38:05,719 --> 00:38:07,418
+and listen
+when an officer's talking.
+
+769
+00:38:07,553 --> 00:38:08,886
+You understand me, boy?
+
+770
+00:38:18,121 --> 00:38:19,553
+[PANTING]
+
+771
+00:38:19,686 --> 00:38:20,619
+[DOOR OPENS]
+
+772
+00:38:20,754 --> 00:38:22,221
+What do you got?
+Anything?
+
+773
+00:38:22,353 --> 00:38:23,687
+- Nothing. Nothing.
+- Really?
+
+774
+00:38:23,821 --> 00:38:25,353
+- He's clean.
+- All right.
+
+775
+00:38:25,487 --> 00:38:28,021
+I guess that
+makes you free.
+
+776
+00:38:28,154 --> 00:38:29,587
+[HANDCUFFS CLICKING]
+
+777
+00:38:31,787 --> 00:38:32,921
+Now...
+
+778
+00:38:35,720 --> 00:38:37,955
+What was it you wanted
+to tell me so badly?
+
+779
+00:38:40,420 --> 00:38:41,855
+That no one's here.
+
+780
+00:38:43,521 --> 00:38:45,721
+I thought I heard
+a noise in the back.
+
+781
+00:38:46,588 --> 00:38:47,555
+I got spooked.
+
+782
+00:38:49,322 --> 00:38:51,190
+Just wanted
+a little backup.
+
+783
+00:38:52,089 --> 00:38:53,521
+[CHUCKLES]
+
+784
+00:39:00,290 --> 00:39:02,756
+You know, wasting police time
+is a criminal offense,
+
+785
+00:39:02,889 --> 00:39:04,157
+but I'm gonna
+let you slide.
+
+786
+00:39:06,057 --> 00:39:07,291
+This time.
+
+787
+00:39:08,422 --> 00:39:09,957
+I'll be watching you.
+
+788
+00:39:10,090 --> 00:39:11,522
+[DOOR OPENS, BELL JINGLES]
+
+789
+00:39:15,257 --> 00:39:16,990
+You think
+she was here?
+
+790
+00:39:17,124 --> 00:39:19,024
+Call Malone.
+Let's clear the store.
+
+791
+00:39:19,157 --> 00:39:20,790
+[DOG BARKING IN DISTANCE]
+
+792
+00:39:25,192 --> 00:39:26,858
+[CAR ENGINE
+STARTING IN DISTANCE]
+
+793
+00:39:33,225 --> 00:39:34,125
+Sorry.
+
+794
+00:39:35,791 --> 00:39:37,159
+I didn't do it for you.
+
+795
+00:39:39,624 --> 00:39:41,193
+I won't stay long,
+all right?
+
+796
+00:39:41,324 --> 00:39:43,959
+I just need to close
+this wound, okay?
+
+797
+00:39:44,092 --> 00:39:46,391
+You need to go to the hospital.
+
+798
+00:39:46,524 --> 00:39:49,992
+You got a needle
+and thread?
+
+799
+00:39:50,126 --> 00:39:51,959
+I... I don't know.
+
+800
+00:39:52,092 --> 00:39:54,026
+How about glue?
+
+801
+00:39:54,160 --> 00:39:55,358
+You got some glue?
+
+802
+00:39:55,492 --> 00:39:57,227
+You're gonna glue it?
+
+803
+00:39:58,960 --> 00:40:00,827
+You got a better idea?
+
+804
+00:40:00,960 --> 00:40:02,960
+She gonna glue it.
+
+805
+00:40:17,028 --> 00:40:18,560
+[FAUCET RUNNING]
+
+806
+00:40:20,094 --> 00:40:21,460
+It's all I have.
+
+807
+00:40:22,961 --> 00:40:24,028
+Thanks.
+
+808
+00:40:27,828 --> 00:40:29,360
+Where'd you learn
+how to do that?
+
+809
+00:40:30,427 --> 00:40:31,295
+Afghanistan.
+
+810
+00:40:31,427 --> 00:40:33,427
+- The Army?
+- Mm-hm.
+
+811
+00:40:35,594 --> 00:40:36,662
+Ah...
+
+812
+00:40:37,728 --> 00:40:39,327
+So that's where you went.
+
+813
+00:40:39,461 --> 00:40:42,495
+Did you really get footage
+on your body cam
+
+814
+00:40:42,628 --> 00:40:44,562
+of them cops
+killing them boys?
+
+815
+00:40:46,495 --> 00:40:47,395
+Yeah.
+
+816
+00:40:48,461 --> 00:40:49,830
+So, what you gonna do?
+
+817
+00:40:49,963 --> 00:40:52,996
+I'm gonna get it into
+evidence and expose them.
+
+818
+00:40:55,696 --> 00:40:57,197
+Wow.
+
+819
+00:40:57,329 --> 00:40:58,663
+[SNIFFS]
+
+820
+00:41:06,297 --> 00:41:07,596
+[EXHALES SLOWLY]
+
+821
+00:41:07,730 --> 00:41:10,864
+[♪♪♪]
+
+822
+00:41:12,297 --> 00:41:14,363
+[INHALES SHARPLY]
+God.
+
+823
+00:41:17,764 --> 00:41:18,864
+[EXHALES]
+
+824
+00:41:21,165 --> 00:41:22,630
+[WINCES]
+
+825
+00:41:26,665 --> 00:41:28,865
+[EXHALES, SNIFFS]
+
+826
+00:41:28,998 --> 00:41:30,998
+Damn.
+
+827
+00:41:31,132 --> 00:41:32,132
+That worked.
+
+828
+00:41:36,498 --> 00:41:38,299
+How are you gonna get
+to your partner?
+
+829
+00:41:39,631 --> 00:41:41,099
+I'm gonna walk.
+
+830
+00:41:41,232 --> 00:41:42,699
+Unless you got
+a ride I can use.
+
+831
+00:41:44,499 --> 00:41:45,465
+I don't have a ride.
+
+832
+00:41:49,133 --> 00:41:52,200
+I walk here,
+a couple blocks.
+
+833
+00:41:52,332 --> 00:41:53,233
+Dauphine Arms.
+
+834
+00:41:54,465 --> 00:41:56,566
+Then I'm stuck
+with plan A.
+
+835
+00:42:00,934 --> 00:42:02,934
+I got something for you.
+
+836
+00:42:13,333 --> 00:42:14,868
+You need to stay
+on the low.
+
+837
+00:42:15,001 --> 00:42:17,868
+Put this on.
+Less conspicuous.
+
+838
+00:42:19,668 --> 00:42:20,634
+Thank you.
+
+839
+00:42:24,634 --> 00:42:25,901
+Why are you doing this?
+
+840
+00:42:28,467 --> 00:42:30,069
+Why don't you just
+give it to them?
+
+841
+00:42:31,002 --> 00:42:32,002
+Come on.
+
+842
+00:42:32,136 --> 00:42:33,869
+You're police.
+They're police.
+
+843
+00:42:35,102 --> 00:42:37,036
+Murder's murder.
+
+844
+00:42:37,168 --> 00:42:38,702
+Don't matter who you are.
+
+845
+00:42:38,836 --> 00:42:41,769
+[♪♪♪]
+
+846
+00:43:17,271 --> 00:43:18,370
+- [THUD]
+- Jesus.
+
+847
+00:43:24,104 --> 00:43:25,072
+[DOOR OPENS]
+
+848
+00:43:27,538 --> 00:43:28,505
+You all right?
+
+849
+00:43:28,638 --> 00:43:30,572
+Just drive.
+
+850
+00:43:30,705 --> 00:43:31,638
+Just drive.
+
+851
+00:43:39,739 --> 00:43:41,506
+Jesus, we got to
+get you to a hospital.
+
+852
+00:43:41,639 --> 00:43:44,105
+No, no, I'm good.
+I'm good.
+
+853
+00:43:44,239 --> 00:43:46,040
+I need to upload
+this footage first.
+
+854
+00:43:46,172 --> 00:43:47,273
+The Fifth?
+
+855
+00:43:47,406 --> 00:43:49,539
+No. Somewhere else.
+
+856
+00:43:49,673 --> 00:43:51,307
+Talk to me.
+What the hell happened?
+
+857
+00:43:52,673 --> 00:43:54,073
+I was rolling with Brown.
+
+858
+00:43:54,207 --> 00:43:56,140
+He got a call
+on his cell,
+
+859
+00:43:56,273 --> 00:43:57,307
+and next thing I know,
+
+860
+00:43:57,439 --> 00:43:59,041
+we're at some
+abandoned power plant,
+
+861
+00:43:59,173 --> 00:44:01,507
+and there are narcs killing
+what I can only assume
+
+862
+00:44:01,640 --> 00:44:03,041
+were drug dealers.
+
+863
+00:44:05,974 --> 00:44:07,507
+They tried to kill me,
+Kevin.
+
+864
+00:44:09,407 --> 00:44:10,440
+Holy shit.
+
+865
+00:44:13,074 --> 00:44:14,508
+[SIGHS]
+
+866
+00:44:15,241 --> 00:44:16,708
+All right.
+
+867
+00:44:16,842 --> 00:44:18,107
+So, what are you gonna do?
+
+868
+00:44:21,008 --> 00:44:22,708
+I'm gonna upload the footage,
+
+869
+00:44:22,842 --> 00:44:25,242
+and once it's in
+the system, I'll call I.A.
+
+870
+00:44:26,374 --> 00:44:27,843
+I.A.? No, no, no.
+
+871
+00:44:27,976 --> 00:44:29,075
+Or the Feds.
+Whoever deals with this.
+
+872
+00:44:29,209 --> 00:44:30,408
+Slow down.
+Think about that.
+
+873
+00:44:30,542 --> 00:44:32,242
+That's gonna
+make you a rat.
+
+874
+00:44:32,374 --> 00:44:33,576
+So?
+
+875
+00:44:33,709 --> 00:44:35,209
+Just think about it
+for a second.
+
+876
+00:44:35,342 --> 00:44:36,809
+You want to can
+Malone's ass?
+
+877
+00:44:36,943 --> 00:44:39,176
+Fine. I mean, get him
+and Smitty off the street.
+
+878
+00:44:39,310 --> 00:44:40,776
+Yes, but have
+the captain do it.
+
+879
+00:44:40,910 --> 00:44:42,977
+All right? Nice and quiet.
+You bring in I.A.,
+
+880
+00:44:43,109 --> 00:44:44,977
+and, I mean,
+your career's over.
+
+881
+00:44:45,109 --> 00:44:46,844
+[FADING] There's not
+a blue in the city
+
+882
+00:44:46,977 --> 00:44:48,310
+that's gonna
+have your back.
+
+883
+00:44:48,442 --> 00:44:50,176
+[CONTINUES
+INDISTINCTLY]
+
+884
+00:44:50,310 --> 00:44:53,211
+[♪♪♪]
+
+885
+00:45:00,710 --> 00:45:02,644
+How do you know
+it was Malone and Smitty?
+
+886
+00:45:02,778 --> 00:45:03,878
+What?
+
+887
+00:45:04,010 --> 00:45:05,811
+You just named them.
+How do you know?
+
+888
+00:45:05,945 --> 00:45:07,845
+I don't know. I mean,
+you must have said.
+
+889
+00:45:07,978 --> 00:45:10,212
+No. No, Kev.
+
+890
+00:45:10,344 --> 00:45:12,945
+- I said "narcs."
+- Jesus. Come on.
+
+891
+00:45:13,078 --> 00:45:15,611
+Partner, look at me,
+all right? It's me.
+
+892
+00:45:21,078 --> 00:45:22,679
+- [TIRES SQUEAL]
+- [HORNS HONKING]
+
+893
+00:45:22,812 --> 00:45:24,579
+All right, take it easy.
+All right?
+
+894
+00:45:24,712 --> 00:45:26,345
+Look at me.
+Take a breath.
+
+895
+00:45:26,478 --> 00:45:28,078
+It's me. All right?
+
+896
+00:45:28,213 --> 00:45:29,679
+- Pull over.
+- W-we're almost there.
+
+897
+00:45:29,812 --> 00:45:31,579
+- Pull over!
+- Jesus Christ.
+
+898
+00:45:35,412 --> 00:45:36,746
+Are you armed?
+
+899
+00:45:38,046 --> 00:45:38,979
+I was.
+
+900
+00:45:39,112 --> 00:45:40,179
+Put it in park.
+
+901
+00:45:40,313 --> 00:45:42,613
+- Empty your pockets.
+- Come on...
+
+902
+00:45:42,746 --> 00:45:44,214
+Empty your pockets.
+Come on.
+
+903
+00:45:44,346 --> 00:45:45,979
+You are making
+a monumental mistake.
+
+904
+00:45:46,113 --> 00:45:47,613
+No, I don't think so.
+
+905
+00:45:49,680 --> 00:45:51,546
+Where were you taking me, huh?
+To Malone?
+
+906
+00:45:51,681 --> 00:45:54,280
+- I'm taking you to the Fourth.
+- Oh, bullshit!
+
+907
+00:45:54,413 --> 00:45:56,414
+Why did Malone
+murder those kids?
+
+908
+00:45:56,547 --> 00:45:58,080
+I'm not saying shit.
+
+909
+00:45:58,214 --> 00:45:59,215
+- Yes, you are.
+- No.
+
+910
+00:45:59,347 --> 00:46:00,414
+I'm asking you why.
+
+911
+00:46:00,547 --> 00:46:02,248
+I'm telling you
+I am not saying shit.
+
+912
+00:46:02,380 --> 00:46:03,747
+Goddamn it!
+
+913
+00:46:03,881 --> 00:46:05,081
+I am not playing
+with you.
+
+914
+00:46:05,215 --> 00:46:07,014
+- All right? I will shoot you!
+- All right!
+
+915
+00:46:07,148 --> 00:46:08,915
+[BREATHES HEAVILY]
+
+916
+00:46:11,515 --> 00:46:12,715
+He didn't murder them.
+
+917
+00:46:12,849 --> 00:46:14,215
+Okay?
+He silenced them.
+
+918
+00:46:14,348 --> 00:46:16,648
+- What are you talking about?
+- They're his sellers.
+
+919
+00:46:18,748 --> 00:46:22,216
+Look, every drug bust,
+Malone splits the take.
+
+920
+00:46:22,348 --> 00:46:24,648
+Half goes into evidence,
+half back on the street.
+
+921
+00:46:24,783 --> 00:46:25,850
+That's how it works.
+
+922
+00:46:25,982 --> 00:46:27,850
+- Why kill them?
+- Have you seen the news?
+
+923
+00:46:27,982 --> 00:46:29,749
+The chief, the mayor,
+
+924
+00:46:29,883 --> 00:46:31,850
+they're cracking down
+right now.
+
+925
+00:46:31,982 --> 00:46:34,416
+Six cops just got
+busted last month.
+
+926
+00:46:34,549 --> 00:46:35,883
+Malone's
+cleaning up the shit
+
+927
+00:46:36,016 --> 00:46:38,050
+before the spyglass
+turns on him.
+
+928
+00:46:39,116 --> 00:46:40,983
+Jesus.
+
+929
+00:46:41,116 --> 00:46:41,983
+Hey, come on.
+
+930
+00:46:42,116 --> 00:46:43,684
+Those guys...
+
+931
+00:46:43,817 --> 00:46:45,050
+they're no great loss.
+
+932
+00:46:45,183 --> 00:46:47,684
+You don't get
+to make that call.
+
+933
+00:46:47,817 --> 00:46:49,851
+[PEOPLE CHATTERING INDISTINCTLY
+ON RADIO]
+
+934
+00:46:49,983 --> 00:46:52,016
+Why is he stopped?
+
+935
+00:46:52,151 --> 00:46:53,550
+- What's he doing?
+- [SIREN CHIRPS]
+
+936
+00:46:54,617 --> 00:46:55,517
+- [GRUNTS]
+- [GUN FIRES]
+
+937
+00:46:55,650 --> 00:46:56,550
+[HORN HONKING]
+
+938
+00:46:56,684 --> 00:46:57,617
+Holy...
+
+939
+00:46:58,718 --> 00:47:00,151
+[GLASS SHATTERS]
+
+940
+00:47:00,284 --> 00:47:02,051
+[TIRES SCREECH]
+
+941
+00:47:02,184 --> 00:47:03,718
+- [CARS CRASH]
+- [GRUNTS]
+
+942
+00:47:12,484 --> 00:47:14,518
+[GRUNTING AND GROANING]
+
+943
+00:47:16,652 --> 00:47:18,552
+[GROANING]
+
+944
+00:47:19,485 --> 00:47:20,819
+You lying piece of shit.
+
+945
+00:47:21,918 --> 00:47:23,519
+No. No.
+
+946
+00:47:23,652 --> 00:47:25,320
+No, West.
+
+947
+00:47:25,452 --> 00:47:28,286
+West, run,
+and I can't help you!
+
+948
+00:47:28,419 --> 00:47:30,320
+[♪♪♪]
+
+949
+00:47:34,220 --> 00:47:36,753
+<i>♪ It won't be for fame, 'cause
+My shit ain't sellin' ♪</i>
+
+950
+00:47:36,886 --> 00:47:38,986
+<i>♪ It won't be to sell you
+My latest lil' sneakers ♪</i>
+
+951
+00:47:39,119 --> 00:47:40,886
+<i>♪ It won't be 'cause some nigga
+Slid in my lane ♪</i>
+
+952
+00:47:41,019 --> 00:47:42,753
+<i>♪ Everything grows
+It's destined to change ♪</i>
+
+953
+00:47:42,886 --> 00:47:45,287
+<i>♪ I love you lil' niggas
+I'm glad that you came ♪</i>
+
+954
+00:47:45,420 --> 00:47:48,054
+[SONG CONTINUES INDISTINCTLY
+ON HEADPHONES]
+
+955
+00:47:57,788 --> 00:47:59,521
+[♪♪♪]
+
+956
+00:48:03,288 --> 00:48:05,387
+[PEOPLE SHOUTING INDISTINCTLY]
+
+957
+00:48:10,689 --> 00:48:12,988
+[MUFFLED MUSIC PLAYING]
+
+958
+00:48:16,022 --> 00:48:17,189
+[SIREN WAILING OUTSIDE]
+
+959
+00:48:21,289 --> 00:48:22,522
+ALICIA:
+Mouse.
+
+960
+00:48:24,455 --> 00:48:25,956
+What the hell
+are you doing here?
+
+961
+00:48:26,089 --> 00:48:28,056
+How the hell do you know
+where I live?
+
+962
+00:48:28,189 --> 00:48:29,456
+Dauphine Arms.
+
+963
+00:48:29,590 --> 00:48:31,056
+You told me.
+
+964
+00:48:32,157 --> 00:48:35,157
+I have got nowhere else to go.
+
+965
+00:48:35,290 --> 00:48:37,224
+They gonna kill me
+if I stay out there.
+
+966
+00:48:38,157 --> 00:48:39,757
+Uncle Milo.
+
+967
+00:48:39,890 --> 00:48:42,591
+- You all right?
+- Jamal. Go back inside.
+
+968
+00:48:42,724 --> 00:48:44,224
+I'm good.
+
+969
+00:48:44,357 --> 00:48:46,225
+[QUIETLY] Why would
+you bring this here?
+
+970
+00:48:46,357 --> 00:48:48,357
+Why don't you take
+this shit to your door?
+
+971
+00:48:48,490 --> 00:48:50,325
+Hey. I know you.
+
+972
+00:48:50,457 --> 00:48:51,857
+You're that cop
+from the store.
+
+973
+00:48:52,457 --> 00:48:53,557
+Jamal,
+
+974
+00:48:53,691 --> 00:48:55,824
+- where is your mom?
+- She's working.
+
+975
+00:48:55,958 --> 00:48:57,490
+She's working.
+
+976
+00:49:00,491 --> 00:49:01,625
+Go back in, man.
+
+977
+00:49:04,058 --> 00:49:05,757
+[SHUFFLING PLASTIC]
+
+978
+00:49:06,824 --> 00:49:07,891
+[DOOR CLOSES]
+
+979
+00:49:16,693 --> 00:49:18,125
+What happened
+to your partner?
+
+980
+00:49:19,125 --> 00:49:20,359
+He's not gonna help.
+
+981
+00:49:20,492 --> 00:49:22,293
+Didn't want to cross
+his boys in blue?
+
+982
+00:49:22,426 --> 00:49:24,825
+- He's a coward.
+- You just gullible and blind.
+
+983
+00:49:24,960 --> 00:49:26,960
+You know what?
+I am sick of this
+
+984
+00:49:27,093 --> 00:49:29,660
+"them versus us" bullshit!
+I don't have to choose.
+
+985
+00:49:29,793 --> 00:49:32,627
+All right? I'm a person.
+You're a person.
+
+986
+00:49:32,759 --> 00:49:35,993
+Those kids I saw murdered
+this morning were people.
+
+987
+00:49:36,860 --> 00:49:38,594
+Nice speech.
+
+988
+00:49:38,726 --> 00:49:40,694
+I'll make sure I put it
+on your headstone.
+
+989
+00:49:40,826 --> 00:49:43,760
+So, what exactly
+are you saying?
+
+990
+00:49:43,894 --> 00:49:46,661
+Because Zero and his guys
+weren't cops, I shouldn't care?
+
+991
+00:49:46,794 --> 00:49:49,461
+Whoa, whoa, whoa.
+Did you just say Zero?
+
+992
+00:49:49,595 --> 00:49:50,528
+- Yeah.
+- Y'all shot Zero?
+
+993
+00:49:50,661 --> 00:49:51,661
+You know him?
+
+994
+00:49:51,794 --> 00:49:53,494
+This shit just
+went up a level.
+
+995
+00:49:53,628 --> 00:49:54,727
+Mouse,
+
+996
+00:49:54,861 --> 00:49:56,727
+I just need
+to stay here till dark,
+
+997
+00:49:56,861 --> 00:49:58,628
+and then I'll go,
+I promise you.
+
+998
+00:49:58,760 --> 00:49:59,661
+All right?
+
+999
+00:50:00,962 --> 00:50:01,995
+Please.
+
+1000
+00:50:03,095 --> 00:50:04,761
+[♪♪♪]
+
+1001
+00:50:04,895 --> 00:50:07,095
+[SIRENS WAILING IN DISTANCE]
+
+1002
+00:50:07,229 --> 00:50:09,529
+- MALONE: Cap.
+- HACKETT: Malone.
+
+1003
+00:50:09,662 --> 00:50:12,596
+- What the hell happened here?
+- We got a big problem.
+
+1004
+00:50:12,728 --> 00:50:13,928
+Turf war,
+
+1005
+00:50:14,063 --> 00:50:15,728
+Triple-Nines
+and the Kingston Crew.
+
+1006
+00:50:16,896 --> 00:50:19,196
+Brown rolled up
+with the rookie.
+
+1007
+00:50:19,330 --> 00:50:21,163
+She got trigger-happy.
+She shot a kid.
+
+1008
+00:50:21,296 --> 00:50:22,796
+Now she is in the wind.
+
+1009
+00:50:25,963 --> 00:50:29,197
+You're telling me West killed
+a kid and now she's a ghost?
+
+1010
+00:50:30,130 --> 00:50:31,563
+Yeah.
+
+1011
+00:50:31,696 --> 00:50:33,897
+Problem is,
+it wasn't just a kid.
+
+1012
+00:50:34,030 --> 00:50:35,430
+It's Darius Tureau's nephew.
+
+1013
+00:50:35,563 --> 00:50:37,598
+That's a problem.
+Why didn't you call it in?
+
+1014
+00:50:37,730 --> 00:50:39,363
+- It wasn't that...
+- I told him not to.
+
+1015
+00:50:39,497 --> 00:50:40,997
+My guys got
+to find her, captain.
+
+1016
+00:50:41,130 --> 00:50:43,030
+I don't know if you've
+seen the news,
+
+1017
+00:50:43,164 --> 00:50:45,165
+but our department is
+under the microscope.
+
+1018
+00:50:45,298 --> 00:50:47,364
+I.A. is looking
+for any excuse.
+
+1019
+00:50:47,497 --> 00:50:49,332
+Cap, I'm all over it, okay?
+
+1020
+00:50:49,464 --> 00:50:50,898
+We're looking for her
+on the QT.
+
+1021
+00:50:51,031 --> 00:50:52,831
+They find out
+she's out there alone,
+
+1022
+00:50:52,965 --> 00:50:54,698
+she's dead.
+She won't live the night.
+
+1023
+00:50:57,332 --> 00:50:58,698
+You got to let me
+handle this.
+
+1024
+00:51:00,498 --> 00:51:01,498
+You bring the jacket?
+
+1025
+00:51:02,764 --> 00:51:04,698
+[HELICOPTER WHIRRING OVERHEAD]
+
+1026
+00:51:07,199 --> 00:51:08,866
+[♪♪♪]
+
+1027
+00:51:10,899 --> 00:51:13,266
+- How'd you let this happen?
+- She panicked, captain.
+
+1028
+00:51:13,399 --> 00:51:15,533
+I want you at the station
+as soon as possible.
+
+1029
+00:51:15,665 --> 00:51:17,899
+I want details on everything
+that happened here.
+
+1030
+00:51:18,032 --> 00:51:19,234
+Real details from you.
+
+1031
+00:51:19,366 --> 00:51:20,699
+Not from him.
+
+1032
+00:51:24,800 --> 00:51:26,000
+Let me handle this.
+
+1033
+00:51:27,200 --> 00:51:28,967
+[♪♪♪]
+
+1034
+00:51:29,100 --> 00:51:31,467
+[PEOPLE CHATTERING INDISTINCTLY]
+
+1035
+00:51:31,601 --> 00:51:33,967
+[MUFFLED HIP-HOP MUSIC
+PLAYING OVER STEREO]
+
+1036
+00:51:34,100 --> 00:51:36,633
+<i>♪ Say, what the fuck that mean
+I want that... ♪</i>
+
+1037
+00:51:36,766 --> 00:51:38,201
+[MUSIC STOPS]
+
+1038
+00:51:41,235 --> 00:51:44,168
+[♪♪♪]
+
+1039
+00:51:54,834 --> 00:51:56,468
+[HELICOPTER WHIRRING OVERHEAD]
+
+1040
+00:52:05,469 --> 00:52:07,536
+Sir. Sir.
+
+1041
+00:52:07,668 --> 00:52:08,969
+Let him through.
+
+1042
+00:52:09,103 --> 00:52:10,369
+Go ahead.
+
+1043
+00:52:19,070 --> 00:52:20,103
+Darius.
+
+1044
+00:52:20,903 --> 00:52:22,070
+Malone.
+
+1045
+00:52:25,204 --> 00:52:26,171
+Where he at?
+
+1046
+00:52:27,836 --> 00:52:29,071
+Let me see him.
+
+1047
+00:52:39,670 --> 00:52:42,438
+He wanted to go ahead and get
+it done as quickly as we can.
+
+1048
+00:52:42,570 --> 00:52:44,239
+I hear you.
+
+1049
+00:52:52,472 --> 00:52:53,738
+Now what are you doing?
+
+1050
+00:52:55,972 --> 00:52:57,173
+We need her dead.
+
+1051
+00:52:58,340 --> 00:52:59,738
+We're running
+out of time.
+
+1052
+00:53:08,372 --> 00:53:10,139
+Don't touch the body.
+
+1053
+00:53:16,539 --> 00:53:18,274
+I raised this boy
+like he was my own.
+
+1054
+00:53:19,406 --> 00:53:20,672
+He's like
+a son to me.
+
+1055
+00:53:20,807 --> 00:53:22,440
+A hell of a job
+you did.
+
+1056
+00:53:22,572 --> 00:53:24,040
+Put a muzzle
+on your dog, Malone.
+
+1057
+00:53:24,174 --> 00:53:25,174
+- All right.
+- Before I put him down.
+
+1058
+00:53:25,307 --> 00:53:26,341
+All right.
+
+1059
+00:53:28,107 --> 00:53:29,474
+Can I at least close his eyes?
+
+1060
+00:53:29,607 --> 00:53:31,040
+MALONE:
+No, you can't touch him.
+
+1061
+00:53:31,175 --> 00:53:33,407
+The guys at the lab
+got to do their job.
+
+1062
+00:53:42,574 --> 00:53:44,208
+Tell them
+not to waste their time.
+
+1063
+00:53:46,041 --> 00:53:47,841
+We all know
+who did this.
+
+1064
+00:53:48,841 --> 00:53:50,541
+Don't we, Malone?
+
+1065
+00:53:50,674 --> 00:53:51,841
+Who?
+
+1066
+00:53:53,209 --> 00:53:54,909
+Triple-Nines.
+
+1067
+00:53:57,474 --> 00:53:58,542
+Officially.
+
+1068
+00:54:03,609 --> 00:54:05,344
+Unofficially, it was a cop.
+
+1069
+00:54:07,143 --> 00:54:08,575
+A cop?
+
+1070
+00:54:13,643 --> 00:54:15,077
+Why are you
+telling me this?
+
+1071
+00:54:16,476 --> 00:54:18,776
+Because this rookie
+is a liability...
+
+1072
+00:54:18,910 --> 00:54:20,877
+and we don't need
+to go to war over her.
+
+1073
+00:54:21,843 --> 00:54:22,743
+It's a bitch?
+
+1074
+00:54:23,843 --> 00:54:24,911
+Yeah.
+
+1075
+00:54:27,576 --> 00:54:29,644
+I want all
+of her info, Malone.
+
+1076
+00:54:30,644 --> 00:54:31,811
+You hear me?
+
+1077
+00:54:33,510 --> 00:54:36,411
+[♪♪♪]
+
+1078
+00:54:42,945 --> 00:54:44,045
+Hey, yo, D.
+
+1079
+00:54:45,745 --> 00:54:47,378
+You gonna believe
+what Malone said?
+
+1080
+00:54:51,212 --> 00:54:53,213
+White boy
+never lied to us yet.
+
+1081
+00:54:56,146 --> 00:54:57,678
+I want that bitch dead.
+
+1082
+00:55:28,837 --> 00:55:30,503
+Now.
+
+1083
+00:55:30,637 --> 00:55:32,938
+- It's done.
+- Put everybody on it.
+
+1084
+00:55:36,804 --> 00:55:39,704
+<i>♪ Smoke, chopper bullet
+They go through us more ♪</i>
+
+1085
+00:55:39,838 --> 00:55:41,504
+<i>♪ Banana clip
+Hang out the bottom ♪</i>
+
+1086
+00:55:41,638 --> 00:55:43,771
+<i>♪ You know how
+Guerrilla style, it's smoke ♪</i>
+
+1087
+00:55:43,905 --> 00:55:45,671
+<i>♪ Shit, we pull up
+And we hop out... ♪</i>
+
+1088
+00:55:45,804 --> 00:55:48,471
+[POPPING AND WHOOSHING
+ON VIDEO GAME]
+
+1089
+00:55:48,604 --> 00:55:51,139
+<i>♪ It's smoke
+You think I slippin' ♪</i>
+
+1090
+00:55:51,273 --> 00:55:53,605
+<i>♪ On your cellular
+Instagram posts... ♪</i>
+
+1091
+00:55:53,739 --> 00:55:56,705
+[WEAPON BLASTING IN GAME]
+
+1092
+00:55:56,839 --> 00:55:58,739
+[PHONE CHIMING]
+
+1093
+00:55:58,872 --> 00:56:01,274
+<i>♪ Caution tape, he make it out
+But you know what ♪</i>
+
+1094
+00:56:01,405 --> 00:56:03,438
+<i>♪ Them slang's about
+It's smoke, shit ♪</i>
+
+1095
+00:56:03,572 --> 00:56:05,438
+<i>♪ Big D, he just gonna
+Roll you out ♪</i>
+
+1096
+00:56:05,572 --> 00:56:07,438
+<i>♪ My Yankee, he really roll ♪</i>
+
+1097
+00:56:07,572 --> 00:56:10,573
+<i>♪ He throwin' fours, he from
+The South, it's smoke... ♪</i>
+
+1098
+00:56:10,706 --> 00:56:13,341
+[♪♪♪]
+
+1099
+00:56:15,473 --> 00:56:17,606
+[POPPING AND WHOOSHING IN GAME]
+
+1100
+00:56:25,707 --> 00:56:27,540
+[TRAIN WHISTLE BLOWING]
+
+1101
+00:56:43,175 --> 00:56:44,775
+Yo, let me ask you
+a question.
+
+1102
+00:56:44,909 --> 00:56:46,942
+Now, how could you
+not get the camera?
+
+1103
+00:56:47,075 --> 00:56:48,942
+- I tried.
+- MALONE: Shut up.
+
+1104
+00:56:50,110 --> 00:56:51,143
+Who is she?
+Let me see.
+
+1105
+00:56:52,277 --> 00:56:53,376
+Alicia West
+
+1106
+00:56:53,508 --> 00:56:54,708
+from the Ninth Ward.
+
+1107
+00:56:55,608 --> 00:56:56,541
+In and out of juvie.
+
+1108
+00:56:57,709 --> 00:56:59,743
+Joined the Army
+when she was 17.
+
+1109
+00:56:59,876 --> 00:57:01,442
+Two tours
+in Afghanistan.
+
+1110
+00:57:01,576 --> 00:57:02,442
+Jesus Christ.
+
+1111
+00:57:02,576 --> 00:57:03,943
+You know that?
+
+1112
+00:57:04,076 --> 00:57:06,278
+- You know that?
+- She said she was in the Army.
+
+1113
+00:57:06,409 --> 00:57:08,278
+MALONE: Graduated the
+academy with honors.
+
+1114
+00:57:08,409 --> 00:57:13,044
+No family, no kin,
+no emergency contact.
+
+1115
+00:57:13,177 --> 00:57:15,011
+Woman is a ghost.
+
+1116
+00:57:15,144 --> 00:57:17,011
+She gets that camera back
+to the station,
+
+1117
+00:57:17,144 --> 00:57:19,977
+and each and every one of us
+is going to prison. Understand?
+
+1118
+00:57:21,077 --> 00:57:22,044
+This is your fault.
+
+1119
+00:57:22,178 --> 00:57:23,245
+Why'd you
+bring her here?
+
+1120
+00:57:23,378 --> 00:57:24,410
+I should drop you
+now,
+
+1121
+00:57:24,543 --> 00:57:26,245
+you stupid
+son of a bitch.
+
+1122
+00:57:26,378 --> 00:57:27,744
+BROWN:
+You kidding me?
+
+1123
+00:57:29,344 --> 00:57:30,645
+MALONE:
+You.
+
+1124
+00:57:32,112 --> 00:57:33,112
+Did you let her go?
+
+1125
+00:57:33,245 --> 00:57:34,245
+- Did you let her go?
+- No.
+
+1126
+00:57:34,379 --> 00:57:35,544
+- You didn't let her go?
+- No.
+
+1127
+00:57:35,678 --> 00:57:37,611
+What else you know
+not in those papers?
+
+1128
+00:57:37,745 --> 00:57:38,912
+- I-I don't know.
+- What else?
+
+1129
+00:57:39,045 --> 00:57:40,745
+Friends.
+She got a guy she's banging?
+
+1130
+00:57:40,878 --> 00:57:42,845
+She got somebody?
+
+1131
+00:57:42,979 --> 00:57:44,079
+- Say something!
+- All right.
+
+1132
+00:57:44,213 --> 00:57:45,280
+I don't know, man! Look,
+
+1133
+00:57:45,411 --> 00:57:46,913
+I would tell you, all right?
+
+1134
+00:57:47,046 --> 00:57:48,345
+You know I would tell you.
+
+1135
+00:57:48,478 --> 00:57:50,113
+The only person
+that I've ever seen
+
+1136
+00:57:50,246 --> 00:57:53,046
+that she even maybe knows is
+this-this guy at this market.
+
+1137
+00:57:56,545 --> 00:57:57,612
+That market, is it...
+
+1138
+00:57:58,779 --> 00:58:00,114
+St. Claude
+and Andry?
+
+1139
+00:58:01,114 --> 00:58:02,880
+Yeah. How'd you know that?
+
+1140
+00:58:03,014 --> 00:58:05,613
+MOUSE:
+There's nothing out there.
+
+1141
+00:58:05,747 --> 00:58:07,180
+When's the last
+time you slept?
+
+1142
+00:58:07,313 --> 00:58:08,947
+[SIGHS]
+
+1143
+00:58:09,080 --> 00:58:10,047
+I don't remember.
+
+1144
+00:58:11,513 --> 00:58:13,248
+You should probably
+get some rest.
+
+1145
+00:58:13,381 --> 00:58:15,613
+It's gonna be
+dark soon.
+
+1146
+00:58:15,747 --> 00:58:17,580
+You got
+to leave out.
+
+1147
+00:58:21,015 --> 00:58:22,614
+Can I ask you
+something?
+
+1148
+00:58:24,714 --> 00:58:26,215
+Why did I become a cop?
+
+1149
+00:58:27,781 --> 00:58:29,116
+Yeah.
+
+1150
+00:58:31,714 --> 00:58:34,082
+I was gone a long time.
+
+1151
+00:58:34,216 --> 00:58:36,649
+Lived in a lot
+of different places, and...
+
+1152
+00:58:36,782 --> 00:58:39,348
+after a while, I stopped
+seeing enemies or allies.
+
+1153
+00:58:39,482 --> 00:58:41,582
+I just saw people.
+
+1154
+00:58:41,715 --> 00:58:44,249
+Not good, not bad. Just...
+
+1155
+00:58:44,383 --> 00:58:46,782
+folks trying to figure
+life out like I was.
+
+1156
+00:58:49,749 --> 00:58:52,249
+And then, after my mom passed,
+
+1157
+00:58:52,383 --> 00:58:55,249
+and I was here, home...
+
+1158
+00:58:57,850 --> 00:58:58,883
+[SIGHS]
+
+1159
+00:58:59,950 --> 00:59:01,284
+I just wanted to help.
+
+1160
+00:59:01,416 --> 00:59:03,750
+Food banks and
+inner-city programs help.
+
+1161
+00:59:05,616 --> 00:59:07,051
+These cops out here...
+
+1162
+00:59:08,851 --> 00:59:10,118
+not so much.
+
+1163
+00:59:10,250 --> 00:59:12,018
+[SIREN WAILING IN DISTANCE]
+
+1164
+00:59:12,151 --> 00:59:13,617
+We're just
+animals to them.
+
+1165
+00:59:19,152 --> 00:59:20,517
+Shit's got
+to change.
+
+1166
+00:59:20,651 --> 00:59:23,052
+[SIREN GROWING LOUDER]
+
+1167
+00:59:24,085 --> 00:59:25,218
+Get some sleep.
+
+1168
+00:59:30,551 --> 00:59:33,451
+- [BRAKES SQUEAL]
+- [DOGS BARKING IN DISTANCE]
+
+1169
+00:59:33,585 --> 00:59:35,153
+- [INDISTINCT CHATTER]
+- [DOOR CLOSES]
+
+1170
+00:59:35,286 --> 00:59:37,485
+OWNER: Got the video
+footage set up right here.
+
+1171
+00:59:37,618 --> 00:59:39,086
+Everything's queued up.
+
+1172
+00:59:42,585 --> 00:59:43,953
+SMITTY:
+All right, play it.
+
+1173
+00:59:47,753 --> 00:59:49,753
+- Who is that?
+- It's Milo Jackson.
+
+1174
+00:59:49,886 --> 00:59:51,719
+Mouse. He works here
+in the mornings.
+
+1175
+00:59:52,886 --> 00:59:54,353
+MALONE:
+Go ahead, fast-forward.
+
+1176
+00:59:56,452 --> 00:59:57,452
+Stop.
+
+1177
+01:00:03,754 --> 01:00:05,620
+Mouse?
+
+1178
+01:00:05,754 --> 01:00:06,987
+I want his address.
+
+1179
+01:00:08,720 --> 01:00:09,954
+Yeah.
+
+1180
+01:00:10,887 --> 01:00:11,921
+[PHONE BEEPS]
+
+1181
+01:00:15,187 --> 01:00:16,888
+- We good?
+- [GUN CLICKING]
+
+1182
+01:00:17,022 --> 01:00:19,721
+Triple-Nines say the streets
+are ours till dawn.
+
+1183
+01:00:24,688 --> 01:00:25,554
+A cop.
+
+1184
+01:00:25,688 --> 01:00:27,389
+Yeah, well, it was still Zero.
+
+1185
+01:00:27,521 --> 01:00:28,956
+You dig?
+
+1186
+01:00:30,788 --> 01:00:32,289
+[GUN CLICKING]
+
+1187
+01:00:34,289 --> 01:00:35,322
+Let's go.
+
+1188
+01:00:43,090 --> 01:00:44,090
+D.
+
+1189
+01:00:45,656 --> 01:00:46,689
+I want to help.
+
+1190
+01:00:46,822 --> 01:00:48,256
+Zero was family
+to me too.
+
+1191
+01:00:48,390 --> 01:00:49,924
+[CHUCKLING]
+
+1192
+01:00:51,857 --> 01:00:53,890
+[LAUGHING]
+
+1193
+01:01:00,091 --> 01:01:03,423
+The way you can help me
+is by staying alive.
+
+1194
+01:01:04,190 --> 01:01:05,058
+Look here.
+
+1195
+01:01:05,190 --> 01:01:06,391
+I can't lose you both.
+
+1196
+01:01:06,556 --> 01:01:07,925
+You hear me?
+
+1197
+01:01:13,392 --> 01:01:16,292
+[♪♪♪]
+
+1198
+01:01:42,259 --> 01:01:44,192
+[♪♪♪]
+
+1199
+01:01:45,893 --> 01:01:46,860
+[CLICKS]
+
+1200
+01:01:47,660 --> 01:01:48,526
+Drop it!
+
+1201
+01:01:48,660 --> 01:01:50,127
+[DOOR SQUEAKS OPEN]
+
+1202
+01:01:50,260 --> 01:01:53,394
+- Drop it!
+- Jamal!
+
+1203
+01:01:53,526 --> 01:01:55,727
+- What the hell are you doing?
+- She killed Zero.
+
+1204
+01:01:55,861 --> 01:01:58,093
+- What?!
+- I didn't kill anyone.
+
+1205
+01:01:58,227 --> 01:01:59,661
+She's lying.
+Everybody knows.
+
+1206
+01:01:59,794 --> 01:02:02,994
+Give me that, man.
+What are you doing, brah?
+
+1207
+01:02:03,127 --> 01:02:04,261
+She killed Zero. Look.
+
+1208
+01:02:09,395 --> 01:02:10,594
+Where'd you get that from?
+
+1209
+01:02:10,727 --> 01:02:11,995
+Darius.
+
+1210
+01:02:13,662 --> 01:02:14,628
+Darius Tureau.
+
+1211
+01:02:14,762 --> 01:02:16,128
+You got a price
+on your head.
+
+1212
+01:02:17,828 --> 01:02:20,296
+This photo's probably
+all over the city.
+
+1213
+01:02:21,995 --> 01:02:24,062
+- Malone.
+- Who did you call?
+
+1214
+01:02:25,762 --> 01:02:28,229
+I'm asking, did you tell
+anybody she was here?
+
+1215
+01:02:33,729 --> 01:02:35,162
+[♪♪♪]
+
+1216
+01:02:40,462 --> 01:02:41,964
+What address?
+What's the address?
+
+1217
+01:02:42,096 --> 01:02:43,462
+It's Dauphine Arms.
+
+1218
+01:02:43,596 --> 01:02:45,063
+Should be two streets up.
+
+1219
+01:02:48,196 --> 01:02:49,196
+Let's find this bitch.
+
+1220
+01:02:49,330 --> 01:02:50,630
+Hey, remember
+what I told you?
+
+1221
+01:02:50,764 --> 01:02:51,169
+Uh-huh. Strap up.
+Let's go. Let's go.
+
+1222
+01:02:51,172 --> 01:02:52,671
+Let's do this. Come on.
+
+1223
+01:02:52,806 --> 01:02:54,372
+- Let's go.
+- [TIRES SQUEAL]
+
+1224
+01:03:01,440 --> 01:03:02,639
+[DOG BARKING IN DISTANCE]
+
+1225
+01:03:06,473 --> 01:03:08,306
+MOUSE:
+This gun ain't even loaded.
+
+1226
+01:03:08,440 --> 01:03:09,639
+We got to move.
+He's here.
+
+1227
+01:03:09,773 --> 01:03:11,707
+Go to the apartment now
+and lock the door.
+
+1228
+01:03:11,840 --> 01:03:12,740
+Now!
+
+1229
+01:03:14,006 --> 01:03:16,206
+What do you mean,
+we got to go?
+
+1230
+01:03:16,340 --> 01:03:17,474
+[♪♪♪]
+
+1231
+01:03:17,607 --> 01:03:18,874
+Malone is here, all right?
+
+1232
+01:03:19,006 --> 01:03:21,508
+He hasn't traced me.
+He's connected you.
+
+1233
+01:03:21,640 --> 01:03:23,508
+So you're either with me,
+or you can stay
+
+1234
+01:03:23,640 --> 01:03:25,640
+and get a bullet in your head.
+You choose.
+
+1235
+01:03:28,474 --> 01:03:29,608
+[GUN CLICKS]
+
+1236
+01:03:39,808 --> 01:03:42,708
+[BOTH PANTING QUIETLY]
+
+1237
+01:04:08,109 --> 01:04:09,042
+[GRUNTS]
+
+1238
+01:04:19,143 --> 01:04:20,510
+- [ENGINE REVS]
+- [TIRES SQUEAL]
+
+1239
+01:04:40,379 --> 01:04:41,879
+[SIGHS]
+
+1240
+01:04:45,678 --> 01:04:46,912
+It's empty.
+
+1241
+01:04:47,045 --> 01:04:48,846
+You know, maybe
+she didn't come here.
+
+1242
+01:04:50,012 --> 01:04:51,445
+We need to get out the hood.
+
+1243
+01:04:51,578 --> 01:04:54,813
+Is there anyone
+you trust with a car?
+
+1244
+01:04:54,946 --> 01:04:56,179
+- [TIRES SQUEAL]
+- [ENGINE REVS]
+
+1245
+01:04:56,312 --> 01:04:57,513
+That's that bitch
+there.
+
+1246
+01:04:57,646 --> 01:04:58,546
+Come on!
+
+1247
+01:04:59,613 --> 01:05:00,713
+[BULLETS RICOCHETING]
+
+1248
+01:05:09,647 --> 01:05:10,547
+[GROANS]
+
+1249
+01:05:15,281 --> 01:05:16,747
+- [GRUNTING]
+- Drop the gun!
+
+1250
+01:05:16,881 --> 01:05:18,747
+- Drop it! Drop it!
+- [GROANS]
+
+1251
+01:05:22,815 --> 01:05:24,982
+- Alicia!
+- [BOTH GRUNTING]
+
+1252
+01:05:27,581 --> 01:05:28,481
+[GUN COCKS]
+
+1253
+01:05:28,615 --> 01:05:30,181
+- [GUNSHOT]
+- Mouse?
+
+1254
+01:05:31,248 --> 01:05:32,349
+[DOG BARKING IN DISTANCE]
+
+1255
+01:05:32,481 --> 01:05:33,448
+Mouse?
+
+1256
+01:05:36,082 --> 01:05:36,983
+Mouse!
+
+1257
+01:05:41,949 --> 01:05:44,048
+[GRUNTING, PANTING]
+
+1258
+01:05:44,182 --> 01:05:45,649
+Mouse?
+
+1259
+01:05:45,782 --> 01:05:47,415
+[PANTING]
+
+1260
+01:05:49,516 --> 01:05:51,316
+- You all right?
+- Yeah.
+
+1261
+01:05:55,083 --> 01:05:56,682
+There's a church back there.
+
+1262
+01:05:58,449 --> 01:06:00,482
+There's a pastor in there
+that I know.
+
+1263
+01:06:00,617 --> 01:06:02,850
+He's good people.
+He's got a ride.
+
+1264
+01:06:04,850 --> 01:06:06,483
+Just go,
+and I'mma meet you there.
+
+1265
+01:06:06,617 --> 01:06:08,850
+- You're hurt. I ain't leaving.
+- Alicia, listen.
+
+1266
+01:06:08,984 --> 01:06:10,351
+We got to get
+out of the Ninth.
+
+1267
+01:06:10,483 --> 01:06:13,818
+That car won't run,
+and my leg is messed up, okay?
+
+1268
+01:06:15,217 --> 01:06:16,918
+I'm not gonna make it
+over this gate.
+
+1269
+01:06:17,050 --> 01:06:18,751
+I don't want
+to slow you down.
+
+1270
+01:06:20,150 --> 01:06:21,718
+I need you to trust me.
+
+1271
+01:06:23,285 --> 01:06:25,017
+It's my hood.
+
+1272
+01:06:25,151 --> 01:06:27,451
+Just go over the gate,
+and I'mma meet you there.
+
+1273
+01:06:28,651 --> 01:06:30,886
+I know what's
+moving out here.
+
+1274
+01:06:31,018 --> 01:06:32,051
+Trust me.
+
+1275
+01:06:32,185 --> 01:06:34,051
+[♪♪♪]
+
+1276
+01:06:39,385 --> 01:06:40,852
+Go!
+
+1277
+01:06:40,986 --> 01:06:42,186
+Go now!
+
+1278
+01:06:48,686 --> 01:06:51,553
+[SIRENS WAILING IN DISTANCE]
+
+1279
+01:06:55,820 --> 01:06:58,486
+[VEHICLE APPROACHING]
+
+1280
+01:06:58,620 --> 01:07:01,220
+- [TIRES SQUEAL, DOOR OPENS]
+- [INDISTINCT CHATTER]
+
+1281
+01:07:01,353 --> 01:07:02,453
+- [GRUNTS]
+- Get in!
+
+1282
+01:07:02,586 --> 01:07:03,520
+Get in the truck.
+
+1283
+01:07:03,653 --> 01:07:04,854
+Get in the truck!
+
+1284
+01:07:04,988 --> 01:07:06,553
+[TIRES SQUEALING]
+
+1285
+01:07:16,854 --> 01:07:19,188
+[♪♪♪]
+
+1286
+01:07:24,054 --> 01:07:26,989
+[INAUDIBLE DIALOGUE]
+
+1287
+01:07:48,556 --> 01:07:50,856
+[♪♪♪]
+
+1288
+01:08:00,156 --> 01:08:02,323
+[SIRENS BLARING]
+
+1289
+01:08:08,524 --> 01:08:09,958
+[SIRENS CONTINUE]
+
+1290
+01:08:23,125 --> 01:08:25,025
+[SIREN BLARING]
+
+1291
+01:08:34,258 --> 01:08:35,859
+[♪♪♪]
+
+1292
+01:08:39,292 --> 01:08:41,492
+MOUSE: I'm telling you,
+she didn't do nothing.
+
+1293
+01:08:41,626 --> 01:08:45,325
+[BLOWS LANDING]
+
+1294
+01:08:45,459 --> 01:08:46,860
+[MOUSE GROANING]
+
+1295
+01:08:46,994 --> 01:08:48,325
+[MOUSE PANTING]
+
+1296
+01:08:48,460 --> 01:08:50,026
+DARIUS:
+Where is she?
+
+1297
+01:08:50,159 --> 01:08:51,827
+MOUSE:
+I told you.
+
+1298
+01:08:51,960 --> 01:08:53,260
+DARIUS:
+Where's the cop?
+
+1299
+01:08:53,393 --> 01:08:54,527
+I don't know.
+
+1300
+01:08:56,527 --> 01:08:59,393
+Nigga, if you don't start
+talking soon,
+
+1301
+01:08:59,527 --> 01:09:01,861
+Ox here is gonna start
+taking pieces off your ass.
+
+1302
+01:09:01,995 --> 01:09:04,226
+You like your ear,
+Picasso?
+
+1303
+01:09:06,293 --> 01:09:07,160
+Van Gogh.
+
+1304
+01:09:07,293 --> 01:09:08,494
+What'd you say?
+
+1305
+01:09:08,628 --> 01:09:10,694
+Van Gogh chopped off his ear.
+
+1306
+01:09:12,427 --> 01:09:14,227
+You dumb-ass.
+
+1307
+01:09:14,361 --> 01:09:16,661
+[CHUCKLING]
+
+1308
+01:09:16,795 --> 01:09:18,227
+I like
+this nigga.
+
+1309
+01:09:18,361 --> 01:09:19,595
+He's smart.
+
+1310
+01:09:19,729 --> 01:09:21,028
+[CHUCKLES]
+
+1311
+01:09:21,161 --> 01:09:23,529
+Wait, wait, wait, wait.
+Hold on a second, D.
+
+1312
+01:09:23,662 --> 01:09:25,662
+Let me have a word
+with this fool.
+
+1313
+01:09:25,795 --> 01:09:27,662
+[PANTING]
+
+1314
+01:09:33,830 --> 01:09:35,395
+Come on, Mouse.
+
+1315
+01:09:35,529 --> 01:09:36,863
+Why are you protecting her?
+
+1316
+01:09:36,997 --> 01:09:39,930
+She don't care
+about your black ass.
+
+1317
+01:09:40,062 --> 01:09:41,596
+Looks like you got her
+all wrong.
+
+1318
+01:09:41,730 --> 01:09:43,863
+Oh, so she got your head
+all turned around?
+
+1319
+01:09:45,596 --> 01:09:47,162
+- She ain't one of us.
+- [COUGHS]
+
+1320
+01:09:47,296 --> 01:09:48,296
+She picked her side.
+
+1321
+01:09:48,429 --> 01:09:50,530
+Mouse, you don't
+owe her nothing.
+
+1322
+01:09:50,663 --> 01:09:52,329
+You're wrong about her.
+
+1323
+01:09:54,263 --> 01:09:56,531
+- But she killed Zero.
+- No, she didn't.
+
+1324
+01:09:56,664 --> 01:09:58,364
+Missy, enough.
+
+1325
+01:10:01,163 --> 01:10:03,064
+[♪♪♪]
+
+1326
+01:10:14,465 --> 01:10:16,064
+That's all you got, pussy?
+
+1327
+01:10:16,197 --> 01:10:18,064
+[CHUCKLING]
+
+1328
+01:10:18,198 --> 01:10:20,265
+Round two, bitch.
+
+1329
+01:10:20,398 --> 01:10:21,365
+[GRUNTS]
+
+1330
+01:10:24,565 --> 01:10:26,666
+[TRAIN WHISTLE
+BLOWS IN DISTANCE]
+
+1331
+01:10:35,966 --> 01:10:37,099
+[BEEPS]
+
+1332
+01:10:38,132 --> 01:10:39,232
+This is Alicia West.
+
+1333
+01:10:39,366 --> 01:10:41,099
+I'm a police officer, and...
+
+1334
+01:10:41,232 --> 01:10:43,001
+<i>this body cam contains footage</i>
+
+1335
+01:10:43,132 --> 01:10:45,232
+<i>of narc officers
+murdering civilians.</i>
+
+1336
+01:10:47,232 --> 01:10:50,367
+<i>If you find it,
+please turn it in to the FBI.</i>
+
+1337
+01:10:52,333 --> 01:10:53,734
+- <i>Thank you.</i>
+- [BEEPS]
+
+1338
+01:11:11,201 --> 01:11:13,468
+KEVIN: <i>Girl,
+you've been gone a long time.</i>
+
+1339
+01:11:13,601 --> 01:11:16,067
+<i>We don't even respond
+to calls from in there anymore.</i>
+
+1340
+01:11:16,201 --> 01:11:17,903
+Not unless there's
+a blue in trouble.
+
+1341
+01:11:18,035 --> 01:11:19,736
+<i>Not unless
+there's a blue in trouble.</i>
+
+1342
+01:11:19,869 --> 01:11:21,602
+<i>Not unless there's
+a blue in trouble.</i>
+
+1343
+01:11:21,736 --> 01:11:24,202
+[FADING] <i>Not unless
+there's a blue in trouble.</i>
+
+1344
+01:11:24,335 --> 01:11:27,937
+- [DOG BARKING IN DISTANCE]
+- [INSECTS CHIRPING]
+
+1345
+01:11:28,068 --> 01:11:30,269
+- [MUFFLED MUSIC PLAYING]
+- [DOGS BARKING]
+
+1346
+01:11:30,402 --> 01:11:32,937
+Yo, who that?
+
+1347
+01:11:33,068 --> 01:11:35,035
+[SIREN WAILING IN DISTANCE]
+
+1348
+01:11:37,637 --> 01:11:40,870
+[♪♪♪]
+
+1349
+01:11:42,069 --> 01:11:44,069
+[PEOPLE CHATTERING INDISTINCTLY]
+
+1350
+01:11:44,203 --> 01:11:46,005
+[WHISTLING]
+
+1351
+01:11:46,136 --> 01:11:47,403
+We're gonna be there anyway.
+
+1352
+01:11:47,537 --> 01:11:49,236
+I don't know.
+So, you know...
+
+1353
+01:11:49,370 --> 01:11:51,403
+Yo, that's that bitch
+that killed Zero, man.
+
+1354
+01:11:51,538 --> 01:11:53,036
+[PEOPLE SHOUTING INDISTINCTLY]
+
+1355
+01:11:53,169 --> 01:11:55,738
+- MAN 1: Yo, it's her.
+- MAN 2: Yeah, that's her!
+
+1356
+01:11:57,938 --> 01:12:00,471
+WOMAN:
+Somebody get that bitch!
+
+1357
+01:12:09,137 --> 01:12:10,639
+ALICIA:
+Somebody make the call.
+
+1358
+01:12:11,639 --> 01:12:13,170
+MAN:
+Oh, hell no.
+
+1359
+01:12:14,805 --> 01:12:17,071
+[WHISTLING]
+
+1360
+01:12:17,205 --> 01:12:19,873
+- Somebody bury that bitch!
+- [GLASS BREAKS]
+
+1361
+01:12:20,006 --> 01:12:23,438
+[PEOPLE CONTINUE
+SHOUTING INDISTINCTLY]
+
+1362
+01:12:23,573 --> 01:12:25,338
+- [WHISTLING]
+- [BOTTLE CLINKS]
+
+1363
+01:12:26,406 --> 01:12:28,339
+[♪♪♪]
+
+1364
+01:12:33,306 --> 01:12:34,673
+Get your ass out of here!
+
+1365
+01:12:34,806 --> 01:12:36,439
+Somebody's gonna die today!
+
+1366
+01:12:36,573 --> 01:12:37,706
+Yo.
+
+1367
+01:12:40,973 --> 01:12:43,039
+[GLASS BREAKING]
+
+1368
+01:12:45,741 --> 01:12:48,741
+MAN: Somebody take down
+that bitch right there!
+
+1369
+01:12:50,140 --> 01:12:52,140
+- [CAMERA SHUTTER CLICKS]
+- I got your ass.
+
+1370
+01:12:52,274 --> 01:12:55,173
+[LAUGHTER]
+
+1371
+01:12:55,307 --> 01:12:57,073
+- [OVERLAPPING SHOUTING]
+- [GLASS BREAKING]
+
+1372
+01:12:57,207 --> 01:12:59,340
+MAN:
+Kingston Crew all day, bitch!
+
+1373
+01:13:00,307 --> 01:13:02,708
+[CELL PHONE CHIMING]
+
+1374
+01:13:09,141 --> 01:13:10,174
+Hey, yo, D.
+
+1375
+01:13:11,709 --> 01:13:13,709
+[CHUCKLING]
+You're not gonna believe this.
+
+1376
+01:13:15,709 --> 01:13:17,141
+This dumb bitch is here.
+
+1377
+01:13:22,609 --> 01:13:24,509
+[PEOPLE CONTINUE
+CHATTERING INDISTINCTLY]
+
+1378
+01:13:26,309 --> 01:13:28,175
+- Dead girl walking.
+- Bitch, what you doing?
+
+1379
+01:13:28,309 --> 01:13:30,610
+Huh? Huh?
+
+1380
+01:13:30,744 --> 01:13:32,010
+[ALICIA GROANS]
+
+1381
+01:13:34,209 --> 01:13:36,109
+[♪♪♪]
+
+1382
+01:13:51,243 --> 01:13:53,745
+[GRUNTING AND GASPING]
+I didn't do it.
+
+1383
+01:13:53,878 --> 01:13:55,878
+- I didn't...
+- [YELLING]
+
+1384
+01:13:57,444 --> 01:13:58,344
+[GROANS]
+
+1385
+01:13:59,645 --> 01:14:00,846
+I didn't kill your nephew!
+
+1386
+01:14:00,978 --> 01:14:02,411
+It was Malone! It was Malone!
+
+1387
+01:14:02,545 --> 01:14:04,244
+- It was Malone!
+- Shut your lying mouth.
+
+1388
+01:14:04,378 --> 01:14:05,512
+My body cam.
+
+1389
+01:14:05,646 --> 01:14:07,878
+I filmed the whole thing
+on my body cam.
+
+1390
+01:14:08,012 --> 01:14:09,746
+Okay, that's why
+Malone wants me dead.
+
+1391
+01:14:09,878 --> 01:14:11,145
+He's using you, all right?
+
+1392
+01:14:14,312 --> 01:14:16,145
+[ALICIA PANTING]
+
+1393
+01:14:17,813 --> 01:14:19,212
+- Body cam?
+- Oh, this is bullshit.
+
+1394
+01:14:19,345 --> 01:14:21,178
+She don't have a camera.
+
+1395
+01:14:21,312 --> 01:14:22,547
+[PANTING, GASPING]
+
+1396
+01:14:22,680 --> 01:14:24,480
+Malone killed my nephew?
+
+1397
+01:14:24,613 --> 01:14:26,280
+- Yes, yes, he did!
+- OX: Yo, this...
+
+1398
+01:14:26,413 --> 01:14:27,580
+This bitch is lying,
+homey.
+
+1399
+01:14:27,713 --> 01:14:29,346
+Why am I here if I'm lying?
+
+1400
+01:14:31,847 --> 01:14:32,780
+Where's the body cam?
+
+1401
+01:14:32,914 --> 01:14:34,781
+- I stashed it.
+- Where?
+
+1402
+01:14:34,914 --> 01:14:36,547
+[WHIMPERING]
+
+1403
+01:14:36,681 --> 01:14:38,947
+Show me Mouse,
+
+1404
+01:14:39,079 --> 01:14:42,014
+and I promise you
+I'll give you the body cam.
+
+1405
+01:14:42,146 --> 01:14:43,614
+I promise you.
+
+1406
+01:15:02,348 --> 01:15:04,016
+I showed you
+mine.
+
+1407
+01:15:04,148 --> 01:15:05,415
+Now show me
+yours.
+
+1408
+01:15:07,816 --> 01:15:10,583
+[PEOPLE CHATTERING INDISTINCTLY]
+
+1409
+01:15:13,348 --> 01:15:14,750
+What's going on?
+
+1410
+01:15:14,882 --> 01:15:17,916
+Something big's going
+down at Kingston Manor.
+
+1411
+01:15:18,048 --> 01:15:19,716
+- [DIALING]
+- [LINE RINGING]
+
+1412
+01:15:20,783 --> 01:15:23,182
+[PHONE RINGS]
+
+1413
+01:15:23,316 --> 01:15:25,216
+- Yeah.
+- BROWN: <i>Hey, Malone, it's Brown.</i>
+
+1414
+01:15:25,349 --> 01:15:27,216
+Listen, man, King's got West.
+
+1415
+01:15:28,584 --> 01:15:30,017
+That's good news, isn't it?
+
+1416
+01:15:30,149 --> 01:15:31,684
+I don't think you understand.
+
+1417
+01:15:33,182 --> 01:15:35,417
+The captain's sending in
+the cavalry to get her.
+
+1418
+01:15:35,551 --> 01:15:36,751
+Shit.
+
+1419
+01:15:38,651 --> 01:15:39,884
+Dead or alive,
+
+1420
+01:15:40,018 --> 01:15:42,284
+if they get their hands
+on that body cam,
+
+1421
+01:15:42,417 --> 01:15:43,884
+<i>Malone, we gonna have problems.</i>
+
+1422
+01:15:44,018 --> 01:15:45,918
+Yeah, yeah, yeah.
+I hear you. I hear you.
+
+1423
+01:15:46,050 --> 01:15:47,718
+[CLICK, BEEP]
+
+1424
+01:15:49,217 --> 01:15:50,918
+She's got to get
+back to the precinct
+
+1425
+01:15:51,050 --> 01:15:53,351
+to download the information
+from that camera.
+
+1426
+01:15:53,485 --> 01:15:54,851
+We just got to get the camera.
+
+1427
+01:15:54,985 --> 01:15:56,718
+And you know what
+this means, Malone?
+
+1428
+01:15:56,852 --> 01:15:58,852
+MALONE: We cannot let
+Darius get this information.
+
+1429
+01:15:58,985 --> 01:16:00,552
+- Do you understand me?
+- I understand.
+
+1430
+01:16:00,686 --> 01:16:01,919
+We'll be fucking dead.
+
+1431
+01:16:02,051 --> 01:16:03,985
+Son of a bitch.
+
+1432
+01:16:06,586 --> 01:16:07,553
+We got to go.
+
+1433
+01:16:08,852 --> 01:16:11,185
+Now! What you waiting for?
+
+1434
+01:16:11,319 --> 01:16:12,419
+Let's go.
+
+1435
+01:16:12,553 --> 01:16:14,486
+[♪♪♪]
+
+1436
+01:16:43,521 --> 01:16:45,254
+I wondered
+if I'd see your face.
+
+1437
+01:16:48,855 --> 01:16:50,589
+Look what they did to me,
+Missy.
+
+1438
+01:16:51,821 --> 01:16:53,221
+You saw what
+they did to Mouse.
+
+1439
+01:16:53,354 --> 01:16:55,022
+And you're
+still here?
+
+1440
+01:16:56,154 --> 01:16:57,721
+That's your fault, not mine.
+
+1441
+01:16:57,855 --> 01:17:00,589
+Right. 'Cause this is where
+I wanted to be right now.
+
+1442
+01:17:00,721 --> 01:17:02,389
+What, you think
+you better than me?
+
+1443
+01:17:02,522 --> 01:17:04,255
+No, I don't think
+I'm better than you,
+
+1444
+01:17:04,389 --> 01:17:05,989
+but you have a son,
+Missy.
+
+1445
+01:17:06,122 --> 01:17:07,188
+What you even
+doing here?
+
+1446
+01:17:07,322 --> 01:17:08,690
+Mm-mm.
+
+1447
+01:17:08,822 --> 01:17:10,722
+Don't act like you know me.
+
+1448
+01:17:10,856 --> 01:17:12,956
+You haven't
+lived my life.
+
+1449
+01:17:13,088 --> 01:17:15,856
+You don't know the shit I've
+been through since you left.
+
+1450
+01:17:15,989 --> 01:17:18,223
+- Then tell me.
+- Why?
+
+1451
+01:17:18,356 --> 01:17:19,857
+Why, Alicia? Because you care?
+
+1452
+01:17:19,990 --> 01:17:22,156
+- Of course I do.
+- You bailed!
+
+1453
+01:17:22,290 --> 01:17:24,723
+I begged you
+to come with me.
+
+1454
+01:17:24,857 --> 01:17:27,857
+We were 17, and I was terrified
+out there without you.
+
+1455
+01:17:27,990 --> 01:17:30,089
+Yeah? Well, you
+should've stayed gone.
+
+1456
+01:17:30,224 --> 01:17:31,257
+Why?
+
+1457
+01:17:32,823 --> 01:17:34,925
+'Cause seeing me reminds you
+you had a choice?
+
+1458
+01:17:35,057 --> 01:17:36,524
+Bitch, I'll whup your...
+
+1459
+01:17:39,591 --> 01:17:41,724
+Seeing you reminds me
+that you killed Zero.
+
+1460
+01:17:41,858 --> 01:17:43,858
+I didn't kill Zero,
+and you know it.
+
+1461
+01:17:45,190 --> 01:17:46,090
+[SCOFFS]
+
+1462
+01:17:46,224 --> 01:17:47,458
+We gonna find out,
+bitch.
+
+1463
+01:17:50,358 --> 01:17:52,091
+- Hey, D.
+- [VIDEO GAME CHIRPING]
+
+1464
+01:17:52,225 --> 01:17:53,559
+Right where she said it was.
+
+1465
+01:17:54,992 --> 01:17:56,058
+How this shit even work?
+
+1466
+01:17:56,191 --> 01:17:57,458
+I don't know.
+
+1467
+01:17:57,593 --> 01:17:59,026
+Yo, Tez.
+
+1468
+01:17:59,158 --> 01:18:01,926
+Quit the game
+and figure this shit out.
+
+1469
+01:18:02,058 --> 01:18:04,091
+I don't know. I-I may have
+to hack into it.
+
+1470
+01:18:04,226 --> 01:18:05,593
+Did I ask for a damn TED Talk?
+
+1471
+01:18:05,725 --> 01:18:07,526
+Just figure the shit out.
+
+1472
+01:18:07,659 --> 01:18:08,859
+Make it play.
+
+1473
+01:18:17,359 --> 01:18:18,494
+Darius's lair is here.
+
+1474
+01:18:18,626 --> 01:18:20,059
+We got to bring West out alive.
+
+1475
+01:18:20,193 --> 01:18:23,093
+- It's on the east side!
+- [ENGINE REVVING]
+
+1476
+01:18:23,227 --> 01:18:25,427
+[PEOPLE CHATTERING INDISTINCTLY
+ON RADIO]
+
+1477
+01:18:25,561 --> 01:18:26,527
+[SIREN WAILING]
+
+1478
+01:18:26,660 --> 01:18:27,894
+Watch it! Watch it!
+
+1479
+01:18:29,394 --> 01:18:31,327
+[OFFICERS SHOUTING INDISTINCTLY]
+
+1480
+01:18:38,528 --> 01:18:39,861
+So, what we doing, Malone?
+
+1481
+01:18:39,994 --> 01:18:42,128
+Get the body camera.
+
+1482
+01:18:42,261 --> 01:18:43,862
+She does not get out
+of here alive.
+
+1483
+01:18:43,995 --> 01:18:45,261
+Do you
+understand me?
+
+1484
+01:18:50,061 --> 01:18:51,595
+OFFICER:
+Let's move out!
+
+1485
+01:18:53,662 --> 01:18:54,762
+Listen, man.
+
+1486
+01:18:54,895 --> 01:18:56,262
+I will help you
+get the camera,
+
+1487
+01:18:56,396 --> 01:18:57,628
+but I am not
+gonna kill her.
+
+1488
+01:18:57,762 --> 01:19:01,129
+Well, then look
+the other way, Jennings.
+
+1489
+01:19:01,262 --> 01:19:03,362
+That's what you do,
+isn't it?
+
+1490
+01:19:13,564 --> 01:19:15,196
+[COMPUTER TRILLS, BEEPS]
+
+1491
+01:19:18,031 --> 01:19:19,263
+You got something?
+
+1492
+01:19:19,397 --> 01:19:21,196
+You know these are
+police files, right?
+
+1493
+01:19:21,330 --> 01:19:23,330
+This is easy.
+You play video games all day.
+
+1494
+01:19:23,464 --> 01:19:24,364
+You can crack that.
+
+1495
+01:19:31,531 --> 01:19:33,064
+[TIRES SCREECH]
+
+1496
+01:19:34,331 --> 01:19:35,898
+This way.
+Move, move, move.
+
+1497
+01:19:37,531 --> 01:19:38,965
+[GRUNTING]
+
+1498
+01:19:46,698 --> 01:19:48,731
+[♪♪♪]
+
+1499
+01:20:13,967 --> 01:20:15,833
+MOUSE: You know
+whatever's on that camera,
+
+1500
+01:20:15,967 --> 01:20:18,567
+it's not going to get us
+out of here, right?
+
+1501
+01:20:19,967 --> 01:20:21,533
+[KEYBOARD CLACKING]
+
+1502
+01:20:27,067 --> 01:20:28,901
+- Anything?
+- Not yet.
+
+1503
+01:20:35,634 --> 01:20:36,668
+[GRUNTING]
+
+1504
+01:20:43,268 --> 01:20:44,135
+Stairs.
+
+1505
+01:20:44,268 --> 01:20:45,635
+Take Brown with you.
+
+1506
+01:20:50,002 --> 01:20:51,303
+[KEYBOARD CLACKING]
+
+1507
+01:20:52,236 --> 01:20:53,303
+[COMPUTER TRILLS, BEEPS]
+
+1508
+01:20:53,436 --> 01:20:54,769
+All these files
+are encrypted.
+
+1509
+01:20:54,902 --> 01:20:56,369
+OX:
+There's nothin' on there?
+
+1510
+01:20:57,870 --> 01:21:00,136
+Okay, wait,
+I think I see something.
+
+1511
+01:21:00,269 --> 01:21:01,870
+[COMPUTER TRILLS, BEEPS]
+
+1512
+01:21:02,003 --> 01:21:03,437
+Got anything?
+
+1513
+01:21:03,570 --> 01:21:04,770
+No. It's nothing.
+
+1514
+01:21:04,903 --> 01:21:06,636
+- I can't open this.
+- DARIUS: Time's up.
+
+1515
+01:21:06,770 --> 01:21:07,803
+I told you this bitch
+was lying.
+
+1516
+01:21:07,937 --> 01:21:09,203
+ALICIA:
+No, wait, it's there.
+
+1517
+01:21:09,337 --> 01:21:10,603
+- It's there.
+- TEZ: Wait. D.
+
+1518
+01:21:10,736 --> 01:21:12,203
+Wait, this is it.
+
+1519
+01:21:12,337 --> 01:21:15,337
+- D, I-I got it.
+- ZERO: <i>...the payment schedule.</i>
+
+1520
+01:21:15,469 --> 01:21:16,904
+MALONE:
+<i>Right. According to you.</i>
+
+1521
+01:21:17,038 --> 01:21:18,604
+ZERO:
+<i>Look, I've been loyal to you.</i>
+
+1522
+01:21:18,737 --> 01:21:20,237
+<i>It's been coming down
+for months.</i>
+
+1523
+01:21:20,370 --> 01:21:22,405
+<i>I have not said one thing.</i>
+
+1524
+01:21:22,537 --> 01:21:24,704
+<i>- M-Malone, listen to me.</i>
+- MALONE: <i>I'm listening.</i>
+
+1525
+01:21:24,837 --> 01:21:27,837
+ZERO: <i>This train's moving too
+fast for you to put the brakes on.</i>
+
+1526
+01:21:27,972 --> 01:21:30,371
+<i>Nobody needs to know
+what you've done here.</i>
+
+1527
+01:21:30,504 --> 01:21:32,238
+<i>Look, you have nothing
+to worry about.</i>
+
+1528
+01:21:32,371 --> 01:21:34,204
+<i>There's no way
+I would ever tell Darius.</i>
+
+1529
+01:21:34,338 --> 01:21:35,437
+<i>You got rid
+of everybody that can talk...</i>
+
+1530
+01:21:35,572 --> 01:21:36,438
+- [GUNSHOT]
+- [GASPS]
+
+1531
+01:21:36,572 --> 01:21:38,538
+[PANTING]
+
+1532
+01:21:40,572 --> 01:21:42,239
+[GUNSHOTS OVER COMPUTER]
+
+1533
+01:21:43,505 --> 01:21:44,872
+MALONE:
+<i>That's right, Zero.</i>
+
+1534
+01:21:45,006 --> 01:21:46,940
+<i>I got rid of everybody
+that could talk.</i>
+
+1535
+01:21:47,072 --> 01:21:49,272
+Hey, D, just because
+she filmed it don't mean
+
+1536
+01:21:49,406 --> 01:21:51,272
+- she wasn't part of it.
+- OX: Yeah.
+
+1537
+01:21:51,406 --> 01:21:52,639
+BROWN [ON VIDEO]:
+<i>What the hell are you doing?</i>
+
+1538
+01:21:52,773 --> 01:21:54,439
+<i>I told you
+to stay in the car.</i>
+
+1539
+01:21:54,573 --> 01:21:56,573
+MALONE:
+<i>Whoa, whoa, whoa. Just relax.</i>
+
+1540
+01:21:56,706 --> 01:21:59,940
+- <i>This isn't what it looks like.</i>
+- [ALICIA SHOUTS]
+
+1541
+01:22:00,073 --> 01:22:01,439
+We got to post this shit.
+
+1542
+01:22:11,941 --> 01:22:13,274
+Take him down.
+
+1543
+01:22:19,174 --> 01:22:20,207
+We're good.
+
+1544
+01:22:20,341 --> 01:22:21,775
+[MOUSE GRUNTS]
+
+1545
+01:22:33,374 --> 01:22:34,608
+[SHOUTS]
+
+1546
+01:22:34,741 --> 01:22:36,575
+- Hey, yo, it's a hit!
+- Yo, what the fuck?
+
+1547
+01:22:43,709 --> 01:22:44,976
+- [PANTING]
+- Shoot 'em, man!
+
+1548
+01:22:45,108 --> 01:22:47,243
+[PEOPLE SHOUTING INDISTINCTLY]
+
+1549
+01:22:48,609 --> 01:22:50,243
+That's him!
+Shoot that motherfucker!
+
+1550
+01:22:50,375 --> 01:22:51,409
+- What the fuck?
+- [PANTING]
+
+1551
+01:22:51,542 --> 01:22:53,742
+Missy, take Tez with you.
+
+1552
+01:22:53,877 --> 01:22:55,542
+[GRUNTING]
+
+1553
+01:22:55,676 --> 01:22:56,910
+- Tez, jump!
+- I'm shot!
+
+1554
+01:22:57,044 --> 01:22:58,276
+Go, Missy.
+
+1555
+01:22:58,409 --> 01:23:00,443
+- Where you at? Shit!
+- Move. D, D, move!
+
+1556
+01:23:00,577 --> 01:23:03,277
+- Shit, I'm shot!
+- That bitch in the back room!
+
+1557
+01:23:03,410 --> 01:23:04,376
+Cover me!
+
+1558
+01:23:04,510 --> 01:23:05,877
+[SCREAMS]
+
+1559
+01:23:07,110 --> 01:23:08,810
+Suppress! Suppress and shoot!
+
+1560
+01:23:08,945 --> 01:23:10,476
+- Move it forward!
+- Get them!
+
+1561
+01:23:11,911 --> 01:23:13,577
+[SHOUTS]
+
+1562
+01:23:13,711 --> 01:23:14,611
+Move it forward!
+
+1563
+01:23:14,744 --> 01:23:16,244
+Go, go, go! Open!
+
+1564
+01:23:16,376 --> 01:23:17,744
+- These cops.
+- Watch that door.
+
+1565
+01:23:17,878 --> 01:23:18,878
+This is fucked up!
+
+1566
+01:23:19,011 --> 01:23:20,444
+Open it!
+
+1567
+01:23:20,578 --> 01:23:21,844
+Go!
+
+1568
+01:23:21,978 --> 01:23:23,046
+Eyes on that hallway!
+
+1569
+01:23:25,411 --> 01:23:27,278
+[ALL SHOUTING INDISTINCTLY]
+
+1570
+01:23:29,046 --> 01:23:30,211
+[SHOUTS]
+
+1571
+01:23:30,344 --> 01:23:31,245
+[GROANS]
+
+1572
+01:23:32,145 --> 01:23:33,046
+Where'd Missy go?
+
+1573
+01:23:33,178 --> 01:23:34,378
+She went that way!
+
+1574
+01:23:40,545 --> 01:23:41,612
+[SHOUTS]
+
+1575
+01:23:44,013 --> 01:23:46,112
+Come on, you motherfuckers!
+Come on!
+
+1576
+01:23:47,613 --> 01:23:49,947
+Come on! Pussy-ass cops.
+
+1577
+01:23:50,079 --> 01:23:51,446
+I'll cover you. Go!
+
+1578
+01:23:52,413 --> 01:23:53,580
+Come on, Malone!
+
+1579
+01:23:58,846 --> 01:24:00,080
+[GRUNTS]
+
+1580
+01:24:01,613 --> 01:24:04,546
+- DARIUS: Ox! Go! Go!
+- [OX SHOUTING]
+
+1581
+01:24:04,681 --> 01:24:06,113
+[GRUNTING]
+
+1582
+01:24:07,514 --> 01:24:08,414
+Ox!
+
+1583
+01:24:09,380 --> 01:24:11,414
+- No!
+- [SHOUTS]
+
+1584
+01:24:11,547 --> 01:24:13,248
+[GRUNTING]
+
+1585
+01:24:16,248 --> 01:24:18,882
+I saw the body cam,
+asshole.
+
+1586
+01:24:19,015 --> 01:24:20,949
+I saw what you did
+to my nephew.
+
+1587
+01:24:21,081 --> 01:24:22,548
+[GRUNTING]
+
+1588
+01:24:26,281 --> 01:24:28,848
+You killed my nephew.
+You killed Zero.
+
+1589
+01:24:28,982 --> 01:24:30,348
+- You played me.
+- [GRUNTING]
+
+1590
+01:24:36,248 --> 01:24:37,883
+Where is it?
+Where's the body cam?
+
+1591
+01:24:38,016 --> 01:24:39,549
+Where's the body cam?
+
+1592
+01:24:39,683 --> 01:24:40,683
+[GROANING]
+
+1593
+01:24:40,816 --> 01:24:42,050
+Kiss...
+
+1594
+01:24:43,416 --> 01:24:46,116
+my ass.
+
+1595
+01:24:46,249 --> 01:24:47,883
+[GRUNTING]
+
+1596
+01:24:52,017 --> 01:24:52,951
+[GASPS]
+
+1597
+01:24:58,083 --> 01:25:00,483
+[PANTING]
+
+1598
+01:25:05,584 --> 01:25:07,250
+[PANTING]
+
+1599
+01:25:21,351 --> 01:25:22,251
+Where's West?
+
+1600
+01:25:26,019 --> 01:25:27,619
+Somebody must have taken her.
+
+1601
+01:25:28,719 --> 01:25:30,217
+Yo, Brown, w-wait a second.
+
+1602
+01:25:32,752 --> 01:25:34,586
+Okay, go. Go.
+
+1603
+01:25:36,852 --> 01:25:38,419
+[HELICOPTER
+WHIRRING IN DISTANCE]
+
+1604
+01:25:42,153 --> 01:25:43,054
+There.
+
+1605
+01:25:44,086 --> 01:25:45,385
+I did my job.
+
+1606
+01:25:51,086 --> 01:25:53,720
+- [PEOPLE CLAMORING]
+- Everybody, calm down!
+
+1607
+01:25:54,753 --> 01:25:55,888
+[PANTING]
+
+1608
+01:25:56,921 --> 01:25:58,253
+OFFICER:
+West! Freeze!
+
+1609
+01:25:58,386 --> 01:25:59,620
+Put your hands
+on your head.
+
+1610
+01:25:59,754 --> 01:26:01,087
+[PANTING]
+Listen, I don't know
+
+1611
+01:26:01,219 --> 01:26:02,554
+what they told you,
+all right?
+
+1612
+01:26:02,688 --> 01:26:03,888
+- Get your hands up.
+- But, uh,
+
+1613
+01:26:04,021 --> 01:26:05,721
+- it's not true.
+- Stay where you are!
+
+1614
+01:26:05,854 --> 01:26:09,088
+Um, my body cam... I filmed
+the whole thing on my body cam.
+
+1615
+01:26:09,220 --> 01:26:10,220
+That's the guy!
+
+1616
+01:26:10,354 --> 01:26:12,056
+[SCREAMING]
+
+1617
+01:26:13,688 --> 01:26:14,822
+[GRUNTING]
+
+1618
+01:26:24,154 --> 01:26:26,288
+- [PANTING]
+- You're a fool, West.
+
+1619
+01:26:26,422 --> 01:26:28,089
+You should've just given... Unh!
+
+1620
+01:26:33,155 --> 01:26:34,057
+[GRUNTING]
+
+1621
+01:26:43,256 --> 01:26:45,024
+[PANTING]
+
+1622
+01:26:46,222 --> 01:26:47,222
+You okay?
+
+1623
+01:26:48,690 --> 01:26:50,356
+OFFICER:
+Shots came from next level!
+
+1624
+01:26:50,489 --> 01:26:52,389
+[♪♪♪]
+
+1625
+01:26:54,557 --> 01:26:55,724
+[PANTING]
+
+1626
+01:27:00,958 --> 01:27:02,624
+[DOOR RATTLING]
+
+1627
+01:27:12,925 --> 01:27:15,825
+[♪♪♪]
+
+1628
+01:27:18,425 --> 01:27:20,224
+[SIREN WAILING IN DISTANCE]
+
+1629
+01:27:35,027 --> 01:27:37,192
+[PEOPLE CLAMORING IN DISTANCE]
+
+1630
+01:27:37,326 --> 01:27:38,860
+[CLAMORING CONTINUES]
+
+1631
+01:27:42,493 --> 01:27:43,560
+[CREAKING]
+
+1632
+01:27:45,694 --> 01:27:48,560
+I'm never gonna get this cam
+out of here dressed like this.
+
+1633
+01:27:48,694 --> 01:27:50,126
+You ain't getting
+out of here.
+
+1634
+01:27:50,260 --> 01:27:52,393
+The entire police force
+is out there.
+
+1635
+01:27:52,527 --> 01:27:54,594
+We're not gonna make it
+out of here alive.
+
+1636
+01:27:56,193 --> 01:27:58,795
+[SIGHS] They're looking
+for a female cop, right?
+
+1637
+01:28:00,193 --> 01:28:02,494
+If you give me your vest
+and your body cam,
+
+1638
+01:28:02,628 --> 01:28:05,394
+I can't promise, but I'll get
+this shit into the station.
+
+1639
+01:28:07,795 --> 01:28:09,461
+That ain't gonna work.
+Look at us.
+
+1640
+01:28:09,595 --> 01:28:13,127
+Alicia, you got to expose
+these bastards.
+
+1641
+01:28:13,261 --> 01:28:15,963
+We ain't go through
+all this shit for nothing.
+
+1642
+01:28:16,094 --> 01:28:18,094
+This morning, you wouldn't
+even talk to me.
+
+1643
+01:28:18,227 --> 01:28:21,127
+- Now you'll do this?
+- You got any better ideas?
+
+1644
+01:28:24,429 --> 01:28:25,897
+No, I don't.
+
+1645
+01:28:27,596 --> 01:28:28,562
+Give it to me.
+
+1646
+01:28:29,663 --> 01:28:31,095
+I got this.
+
+1647
+01:28:44,330 --> 01:28:45,229
+Thank you.
+
+1648
+01:28:49,263 --> 01:28:50,631
+One thing...
+
+1649
+01:28:50,764 --> 01:28:52,864
+I don't know nothing
+about no computers.
+
+1650
+01:28:52,997 --> 01:28:54,698
+You got to tell me
+what to do.
+
+1651
+01:28:56,698 --> 01:28:58,464
+[CROWD CLAMORING]
+
+1652
+01:29:03,799 --> 01:29:05,765
+[HELICOPTER WHIRRING
+IN DISTANCE]
+
+1653
+01:29:13,865 --> 01:29:15,799
+[CLAMORING CONTINUES]
+
+1654
+01:29:22,733 --> 01:29:25,165
+MAN:
+You need to calm down!
+
+1655
+01:29:26,733 --> 01:29:27,900
+Let us go!
+
+1656
+01:29:28,032 --> 01:29:30,466
+Let us go! Let us go!
+
+1657
+01:29:30,600 --> 01:29:33,266
+Can you hear me?
+Just listen to me!
+
+1658
+01:29:33,399 --> 01:29:34,901
+You're okay.
+
+1659
+01:29:35,033 --> 01:29:36,399
+[CLAMORING CONTINUES]
+
+1660
+01:29:42,199 --> 01:29:44,267
+OFFICER:
+Jennings, over here!
+
+1661
+01:29:44,400 --> 01:29:45,534
+Yeah, I'm coming.
+
+1662
+01:29:46,901 --> 01:29:48,935
+WOMAN:
+I need you to get out of my way.
+
+1663
+01:29:49,068 --> 01:29:51,968
+[CLAMORING CONTINUES]
+
+1664
+01:29:57,435 --> 01:29:59,535
+[CLAMORING IN DISTANCE]
+
+1665
+01:30:04,301 --> 01:30:06,969
+- [HELICOPTERS WHIRRING]
+- [SIREN WAILING]
+
+1666
+01:30:18,269 --> 01:30:19,903
+[RATTLING]
+
+1667
+01:30:30,437 --> 01:30:31,903
+[ENGINE STARTS]
+
+1668
+01:30:32,036 --> 01:30:33,804
+[TIRES SCREECH]
+
+1669
+01:30:36,737 --> 01:30:39,236
+Check every apartment
+on this floor.
+
+1670
+01:30:39,370 --> 01:30:41,270
+[PEOPLE CHATTERING INDISTINCTLY
+ON RADIO]
+
+1671
+01:30:46,370 --> 01:30:48,270
+[SIREN WAILING]
+
+1672
+01:30:50,871 --> 01:30:51,937
+[SIREN STOPS]
+
+1673
+01:30:52,071 --> 01:30:54,137
+OFFICER:
+Let's go. Come on.
+
+1674
+01:30:55,504 --> 01:30:56,972
+- MAN: Too tight.
+- OFFICER: Come on.
+
+1675
+01:30:57,104 --> 01:30:58,072
+[GRUNTING]
+Relax.
+
+1676
+01:31:06,539 --> 01:31:07,639
+MALONE:
+West!
+
+1677
+01:31:08,572 --> 01:31:10,472
+[♪♪♪]
+
+1678
+01:31:29,306 --> 01:31:31,673
+[PANTING]
+Okay. Okay.
+
+1679
+01:31:31,808 --> 01:31:33,473
+[GASPING BREATHS]
+
+1680
+01:31:35,340 --> 01:31:36,440
+[DOOR CREAKING]
+
+1681
+01:31:39,741 --> 01:31:40,907
+Give it up, West!
+
+1682
+01:31:42,907 --> 01:31:45,641
+If you want to get out of here
+alive, I'm your only hope.
+
+1683
+01:31:58,874 --> 01:32:00,775
+[PEOPLE CHATTERING INDISTINCTLY]
+
+1684
+01:32:11,643 --> 01:32:13,842
+[PEOPLE CHATTERING INDISTINCTLY
+ON RADIO]
+
+1685
+01:32:34,644 --> 01:32:36,577
+MALONE: This district
+died after Katrina.
+
+1686
+01:32:36,711 --> 01:32:39,210
+FEMA screwed us.
+
+1687
+01:32:39,344 --> 01:32:41,210
+Politicians screwed us.
+
+1688
+01:32:42,511 --> 01:32:43,811
+It was on
+life support.
+
+1689
+01:32:43,944 --> 01:32:46,078
+Over half the businesses,
+the people,
+
+1690
+01:32:46,210 --> 01:32:48,143
+the families, they all left!
+
+1691
+01:32:48,911 --> 01:32:49,811
+West...
+
+1692
+01:32:51,079 --> 01:32:52,545
+they all left,
+just like you.
+
+1693
+01:32:52,678 --> 01:32:55,411
+Rats... on
+a sinking ship.
+
+1694
+01:32:59,878 --> 01:33:01,244
+Not me.
+
+1695
+01:33:01,379 --> 01:33:03,279
+Uh-uh, not mine. We stayed.
+
+1696
+01:33:03,412 --> 01:33:04,778
+[PANTING]
+
+1697
+01:33:04,912 --> 01:33:05,979
+We fought
+for this city.
+
+1698
+01:33:15,112 --> 01:33:18,013
+Even when there was no money
+for schools or...
+
+1699
+01:33:18,145 --> 01:33:19,112
+streetlights...
+
+1700
+01:33:20,879 --> 01:33:22,112
+people still want the law.
+
+1701
+01:33:24,213 --> 01:33:25,580
+Well, that costs.
+
+1702
+01:33:27,380 --> 01:33:28,981
+It costs.
+
+1703
+01:33:30,246 --> 01:33:31,313
+[BEEPING]
+
+1704
+01:33:46,048 --> 01:33:47,915
+[KEYBOARD CLACKING]
+
+1705
+01:33:48,048 --> 01:33:49,414
+[BEEPS]
+
+1706
+01:33:49,549 --> 01:33:51,582
+DOYLE: Everyone's over
+at Kingston Manor.
+
+1707
+01:33:51,715 --> 01:33:53,982
+I just saw
+Malone's ride outside.
+
+1708
+01:33:55,382 --> 01:33:56,815
+You seen him or
+Smitty anywhere?
+
+1709
+01:33:56,948 --> 01:33:58,748
+OFFICER:
+No, man, I haven't.
+
+1710
+01:33:58,881 --> 01:34:00,215
+Have a good shift, all right?
+
+1711
+01:34:00,349 --> 01:34:02,083
+Hey, you, too, buddy.
+
+1712
+01:34:05,449 --> 01:34:06,716
+[DOOR CLOSES]
+
+1713
+01:34:08,583 --> 01:34:10,782
+- [TAPS KEY]
+- [BEEPING]
+
+1714
+01:34:10,916 --> 01:34:12,583
+Do you expect all these men,
+
+1715
+01:34:12,716 --> 01:34:14,450
+good men,
+
+1716
+01:34:14,583 --> 01:34:17,583
+to put their lives on the line
+day in and day out for nothing?
+
+1717
+01:34:18,917 --> 01:34:20,516
+While those scumbag
+drug dealers
+
+1718
+01:34:20,651 --> 01:34:22,817
+make all that money...
+Is that what you expect?
+
+1719
+01:34:22,950 --> 01:34:24,417
+- West!
+- [BOTH YELLING]
+
+1720
+01:34:28,317 --> 01:34:30,017
+- [GRUNTING]
+- [BOARD CLATTERS]
+
+1721
+01:34:30,150 --> 01:34:32,750
+- [ALICIA GASPING]
+- Come here.
+
+1722
+01:34:32,883 --> 01:34:34,250
+- [GRUNTING]
+- You son of a...
+
+1723
+01:34:34,384 --> 01:34:35,851
+[GRUNTING]
+
+1724
+01:34:41,418 --> 01:34:42,985
+[SCREAMS]
+
+1725
+01:34:50,919 --> 01:34:52,585
+[PANTING]
+
+1726
+01:34:56,919 --> 01:34:58,151
+[ALICIA YELLS]
+
+1727
+01:34:59,386 --> 01:35:00,852
+[BOTH GRUNT]
+
+1728
+01:35:00,986 --> 01:35:03,553
+- [CAR ALARM BLARING]
+- [PEOPLE CHATTERING INDISTINCTLY]
+
+1729
+01:35:11,087 --> 01:35:12,987
+[ALICIA GRUNTING,
+GASPING]
+
+1730
+01:35:15,487 --> 01:35:17,020
+[YELLS]
+
+1731
+01:35:18,119 --> 01:35:19,087
+Oh!
+
+1732
+01:35:19,786 --> 01:35:20,987
+[COUGHING]
+
+1733
+01:35:29,153 --> 01:35:30,821
+- [GRUNTS]
+- WOMAN: Get him!
+
+1734
+01:35:33,754 --> 01:35:36,121
+- MAN 1: Go ahead, girl!
+- MAN 2: She's fucking him up!
+
+1735
+01:35:36,254 --> 01:35:38,521
+WOMAN:
+She's kicking his ass!
+
+1736
+01:35:38,654 --> 01:35:41,488
+- [ROD CONTINUES STRIKING]
+- [MALONE GRUNTING, YELLING]
+
+1737
+01:35:41,621 --> 01:35:42,922
+Shit.
+
+1738
+01:35:48,288 --> 01:35:49,989
+- [GRUNTS]
+- [YELLS]
+
+1739
+01:35:54,888 --> 01:35:56,222
+Get your bitch ass back!
+
+1740
+01:35:58,090 --> 01:35:59,222
+MALONE:
+Son of a...
+
+1741
+01:36:01,356 --> 01:36:02,956
+MAN:
+Go ahead. Put a hot one in him.
+
+1742
+01:36:03,090 --> 01:36:04,289
+All right there, shorty.
+
+1743
+01:36:04,423 --> 01:36:06,423
+- MAN: Your bitch ass.
+- [COCKS GUN]
+
+1744
+01:36:06,557 --> 01:36:08,023
+- [GROANS]
+- MAN: Y'all get back.
+
+1745
+01:36:08,155 --> 01:36:09,956
+WOMAN: Back up, back up.
+Get out the way!
+
+1746
+01:36:10,091 --> 01:36:11,723
+[CHUCKLES]
+
+1747
+01:36:11,856 --> 01:36:13,256
+[PANTING]
+
+1748
+01:36:13,390 --> 01:36:15,123
+You're under arrest, Malone.
+
+1749
+01:36:20,491 --> 01:36:22,624
+You have the right
+to remain silent.
+
+1750
+01:36:22,757 --> 01:36:24,857
+- I know my rights!
+- Oh, it's just other people's
+
+1751
+01:36:24,991 --> 01:36:27,590
+- you have a problem with?
+- [PANTING]
+
+1752
+01:36:33,958 --> 01:36:35,791
+[WOMAN GASPS]
+
+1753
+01:36:37,992 --> 01:36:39,359
+Shoot that motherfucker.
+
+1754
+01:36:39,492 --> 01:36:41,092
+Take out your cuffs.
+
+1755
+01:36:42,758 --> 01:36:44,791
+MAN:
+Come on, y'all, back up.
+
+1756
+01:36:44,925 --> 01:36:46,425
+- Look!
+- OFFICER: Drop your gun!
+
+1757
+01:36:46,558 --> 01:36:47,758
+Do it now!
+
+1758
+01:36:49,258 --> 01:36:50,892
+We will shoot you!
+
+1759
+01:36:51,026 --> 01:36:52,959
+I'm a cop!
+
+1760
+01:36:53,093 --> 01:36:54,292
+You're a cop killer.
+
+1761
+01:36:54,426 --> 01:36:57,393
+OFFICER:
+Put the gun down and back away!
+
+1762
+01:36:57,525 --> 01:36:58,659
+[PANTING]
+
+1763
+01:36:58,792 --> 01:37:00,326
+You better put the gun down.
+
+1764
+01:37:02,859 --> 01:37:03,960
+MAN:
+He's tripping.
+
+1765
+01:37:06,460 --> 01:37:07,627
+MISSY:
+Licia, put it down.
+
+1766
+01:37:09,060 --> 01:37:11,293
+- Do it.
+- OFFICER: Put your weapon down!
+
+1767
+01:37:19,061 --> 01:37:20,928
+MALONE:
+I got this! Nobody move!
+
+1768
+01:37:21,061 --> 01:37:22,294
+Nobody move!
+
+1769
+01:37:22,427 --> 01:37:24,194
+Stay back, everyone.
+I got this.
+
+1770
+01:37:35,628 --> 01:37:37,362
+- [COMPUTER BEEPING]
+- Stop. Stop.
+
+1771
+01:37:37,494 --> 01:37:39,795
+Don't move. What are
+you doing in here?
+
+1772
+01:37:39,929 --> 01:37:42,695
+I do know you. You're
+the guy from the market.
+
+1773
+01:37:42,829 --> 01:37:44,128
+Don't move.
+I swear to God.
+
+1774
+01:37:45,629 --> 01:37:48,662
+Up against the wall.
+Turn around. Go.
+
+1775
+01:37:48,795 --> 01:37:49,996
+Spread 'em.
+
+1776
+01:37:52,862 --> 01:37:54,562
+[CHUCKLES]
+
+1777
+01:38:02,529 --> 01:38:04,563
+[PANTING]
+
+1778
+01:38:09,630 --> 01:38:11,263
+I'm gonna give you
+one more chance.
+
+1779
+01:38:13,364 --> 01:38:15,098
+Where's the camera?
+Where is it?
+
+1780
+01:38:15,230 --> 01:38:17,330
+I could blow
+your freaking brains out,
+
+1781
+01:38:17,464 --> 01:38:19,163
+and they'd give me a medal,
+you know?
+
+1782
+01:38:19,297 --> 01:38:20,797
+Breaking into
+a police station.
+
+1783
+01:38:20,931 --> 01:38:23,264
+[COMPUTER BEEPING]
+
+1784
+01:38:23,398 --> 01:38:24,831
+What?
+
+1785
+01:38:24,964 --> 01:38:27,131
+[COMPUTER CHIMES]
+
+1786
+01:38:27,264 --> 01:38:28,198
+What did you do?
+
+1787
+01:38:29,932 --> 01:38:30,932
+[GROANS]
+
+1788
+01:38:31,798 --> 01:38:32,798
+Uh-huh.
+
+1789
+01:38:34,431 --> 01:38:35,798
+How does it feel?
+
+1790
+01:38:35,932 --> 01:38:38,598
+Huh? Huh?
+
+1791
+01:38:38,732 --> 01:38:41,265
+Where is it?
+Where's the body cam?
+
+1792
+01:38:41,399 --> 01:38:43,798
+Where'd you put it?
+Last chance.
+
+1793
+01:38:43,933 --> 01:38:46,000
+I'll make this all
+go away. Huh?
+
+1794
+01:38:46,132 --> 01:38:47,766
+[COMPUTER CHIMES]
+
+1795
+01:39:01,900 --> 01:39:03,767
+Look at 'em.
+
+1796
+01:39:03,900 --> 01:39:04,767
+Look at 'em.
+
+1797
+01:39:04,900 --> 01:39:07,800
+You picked the wrong side.
+
+1798
+01:39:07,934 --> 01:39:10,734
+Nobody cares
+about you.
+
+1799
+01:39:10,867 --> 01:39:14,167
+Look at 'em... You think they'd
+give a shit about if you live?
+
+1800
+01:39:14,301 --> 01:39:15,800
+Think they're gonna
+give up their lives for you?
+
+1801
+01:39:15,935 --> 01:39:18,334
+- Where's the camera?
+- That's not the point.
+
+1802
+01:39:23,601 --> 01:39:25,968
+- What is the point?
+- The point is:
+
+1803
+01:39:26,102 --> 01:39:28,701
+"Be the change," you asshole.
+
+1804
+01:39:30,735 --> 01:39:32,969
+ZERO [ON VIDEO]: <i>You have
+nothing to worry about.</i>
+
+1805
+01:39:33,103 --> 01:39:34,668
+<i>There's no way
+I would tell Darius.</i>
+
+1806
+01:39:34,802 --> 01:39:36,335
+<i>You got rid
+of everybody that can talk.</i>
+
+1807
+01:39:36,468 --> 01:39:38,003
+[GUNSHOT]
+
+1808
+01:39:40,069 --> 01:39:41,435
+Patch me through
+to SRT.
+
+1809
+01:39:43,569 --> 01:39:45,103
+You ain't changed shit.
+
+1810
+01:39:45,236 --> 01:39:47,036
+[OVER SPEAKER]
+<i>This is Captain Hackett.</i>
+
+1811
+01:39:47,169 --> 01:39:48,936
+<i>Stand down.</i>
+
+1812
+01:39:49,070 --> 01:39:50,602
+<i>That's a direct order.</i>
+
+1813
+01:39:50,736 --> 01:39:52,602
+<i>Do you hear me?
+Alicia West is innocent.</i>
+
+1814
+01:39:52,737 --> 01:39:54,435
+- <i>Stand down now.</i>
+- Gun!
+
+1815
+01:39:54,569 --> 01:39:56,503
+- [GUNSHOT BOOMS]
+- [SCREAMING, MURMURING]
+
+1816
+01:39:56,637 --> 01:39:57,837
+- MAN: Damn!
+- [GASPS]
+
+1817
+01:39:57,970 --> 01:39:59,303
+WOMAN:
+Oh, my God!
+
+1818
+01:39:59,436 --> 01:40:00,837
+[WOMAN WHIMPERING]
+
+1819
+01:40:08,804 --> 01:40:10,503
+MALONE:
+Son of a...
+
+1820
+01:40:10,637 --> 01:40:12,738
+[GRUNTS, COUGHS]
+
+1821
+01:40:12,871 --> 01:40:14,938
+- [SIREN WAILING IN DISTANCE]
+- [PEOPLE GASPING]
+
+1822
+01:40:15,071 --> 01:40:16,105
+MAN:
+Crazy!
+
+1823
+01:40:19,771 --> 01:40:21,337
+Stay down, Malone.
+Don't move.
+
+1824
+01:40:22,904 --> 01:40:24,471
+MAN:
+Hell, man...
+
+1825
+01:40:24,604 --> 01:40:27,138
+OFFICER: Drop your gun!
+Get your hands on your head!
+
+1826
+01:40:27,271 --> 01:40:29,437
+- MAN 1: It's over, man.
+- MAN 2: Yo, yo, yo.
+
+1827
+01:40:32,905 --> 01:40:34,338
+You have any idea...
+
+1828
+01:40:36,939 --> 01:40:38,672
+...how many nightmares
+y'all gave me?
+
+1829
+01:40:39,572 --> 01:40:40,873
+Huh?
+
+1830
+01:40:41,007 --> 01:40:42,139
+[GRUNTS]
+
+1831
+01:40:42,272 --> 01:40:44,040
+But you know what?
+
+1832
+01:40:44,172 --> 01:40:45,472
+I'm gonna
+let you slide.
+
+1833
+01:40:46,806 --> 01:40:47,873
+This time.
+
+1834
+01:40:49,473 --> 01:40:51,139
+[BREATH TREMBLING]
+
+1835
+01:40:54,207 --> 01:40:55,108
+Nah.
+
+1836
+01:40:55,240 --> 01:40:56,606
+- [GRUNTS]
+- [THUDS]
+
+1837
+01:40:59,439 --> 01:41:01,339
+[MALONE GROANS, COUGHS]
+
+1838
+01:41:01,473 --> 01:41:02,473
+[SIREN WAILING]
+
+1839
+01:41:04,041 --> 01:41:06,140
+- MALONE: I'm hit. I'm hit. Easy.
+- OFFICER: Okay.
+
+1840
+01:41:06,272 --> 01:41:07,607
+I need everybody to back up!
+
+1841
+01:41:07,741 --> 01:41:09,074
+Get your goddamn hands off me.
+
+1842
+01:41:09,208 --> 01:41:11,008
+- What are you doing?
+- You're under arrest,
+
+1843
+01:41:11,141 --> 01:41:13,009
+- you piece of shit.
+- Under arrest for what?
+
+1844
+01:41:13,141 --> 01:41:14,174
+What are the charges?
+
+1845
+01:41:14,307 --> 01:41:15,775
+You have the right
+to remain silent.
+
+1846
+01:41:15,908 --> 01:41:17,775
+Anything you say can
+and will be used against you
+
+1847
+01:41:17,908 --> 01:41:19,273
+- in a court of law.
+- [GRUNTS]
+
+1848
+01:41:19,407 --> 01:41:20,440
+You have the right
+to an attorney.
+
+1849
+01:41:20,575 --> 01:41:21,842
+If you cannot afford
+an attorney,
+
+1850
+01:41:21,975 --> 01:41:23,273
+one will be
+provided for you.
+
+1851
+01:41:23,408 --> 01:41:24,675
+Do you understand the rights
+
+1852
+01:41:24,808 --> 01:41:26,209
+I have just read to you?
+
+1853
+01:41:28,441 --> 01:41:31,441
+Think you made a difference
+here tonight, West?
+
+1854
+01:41:31,575 --> 01:41:32,776
+You changed nothing.
+
+1855
+01:41:32,909 --> 01:41:36,110
+Maybe not,
+but it's a start.
+
+1856
+01:41:38,743 --> 01:41:39,943
+Take his ass to jail.
+
+1857
+01:41:40,076 --> 01:41:41,476
+- [GROANS]
+- Come on.
+
+1858
+01:41:43,275 --> 01:41:44,542
+Good job, West.
+
+1859
+01:41:44,676 --> 01:41:45,876
+MAN:
+Way to go, West.
+
+1860
+01:41:47,342 --> 01:41:48,844
+OFFICER [IN DISTANCE]:
+Step back!
+
+1861
+01:41:48,977 --> 01:41:50,143
+Sir, I said move!
+
+1862
+01:41:50,275 --> 01:41:51,677
+Ma'am, to your left.
+
+1863
+01:41:51,810 --> 01:41:55,477
+<i>♪ I got wind
+Beneath my wings ♪</i>
+
+1864
+01:41:55,610 --> 01:41:57,242
+<i>♪ I think this time ♪</i>
+
+1865
+01:41:57,377 --> 01:42:01,443
+<i>♪ I'm gonna make it
+Till morning ♪</i>
+
+1866
+01:42:01,577 --> 01:42:05,343
+[SIREN WAILING IN DISTANCE]
+
+1867
+01:42:05,477 --> 01:42:09,012
+<i>♪ I got strength
+Within my heart, I'm gonna ♪</i>
+
+1868
+01:42:09,144 --> 01:42:11,945
+I'm sorry.
+
+1869
+01:42:12,078 --> 01:42:13,444
+<i>♪ Who've fallen ♪</i>
+
+1870
+01:42:13,578 --> 01:42:14,778
+Thank you.
+
+1871
+01:42:15,978 --> 01:42:19,013
+<i>♪ Yeah, I'm gonna take ♪</i>
+
+1872
+01:42:20,145 --> 01:42:21,745
+<i>♪ The long ♪</i>
+
+1873
+01:42:21,879 --> 01:42:24,277
+<i>♪ The long way home ♪</i>
+
+1874
+01:42:26,113 --> 01:42:27,113
+[SNIFFLES]
+
+1875
+01:42:28,512 --> 01:42:33,013
+<i>♪ Yes, I'm gonna take ♪</i>
+
+1876
+01:42:33,146 --> 01:42:34,679
+<i>♪ The world ♪</i>
+
+1877
+01:42:34,812 --> 01:42:37,612
+<i>♪ The world by storm ♪</i>
+
+1878
+01:42:43,813 --> 01:42:46,680
+<i>♪ I got stars within my soul ♪</i>
+
+1879
+01:42:46,813 --> 01:42:48,279
+<i>♪ I think the dust ♪</i>
+
+1880
+01:42:48,413 --> 01:42:52,346
+<i>♪ Is gonna finally settle ♪</i>
+
+1881
+01:42:53,948 --> 01:42:55,647
+NEWSWOMAN:
+<i>Good morning, New Orleans.</i>
+
+1882
+01:42:55,781 --> 01:42:57,848
+<i>In the news,
+after a police investigation,</i>
+
+1883
+01:42:57,981 --> 01:43:00,681
+<i>Detective Terry Malone
+was charged with three counts</i>
+
+1884
+01:43:00,814 --> 01:43:02,414
+<i>of first-degree murder</i>
+
+1885
+01:43:02,547 --> 01:43:05,081
+<i>for the execution
+of three unarmed black men.</i>
+
+1886
+01:43:05,214 --> 01:43:07,082
+<i>Today's guests
+will discuss the tragedy</i>
+
+1887
+01:43:07,214 --> 01:43:11,247
+<i>and the surprise injustices.</i>
+
+1888
+01:43:11,381 --> 01:43:12,815
+<i>♪ The long ♪</i>
+
+1889
+01:43:12,949 --> 01:43:17,615
+<i>♪ The long way home ♪</i>
+
+1890
+01:43:19,548 --> 01:43:24,117
+<i>♪ Oh, we're gonna take ♪</i>
+
+1891
+01:43:24,248 --> 01:43:25,782
+<i>♪ The world ♪</i>
+
+1892
+01:43:25,915 --> 01:43:30,181
+<i>♪ The world by storm ♪</i>
+
+1893
+01:43:30,315 --> 01:43:33,482
+<i>♪ Yeah ♪</i>
+
+1894
+01:43:40,349 --> 01:43:41,984
+I'm happy you're here.
+
+1895
+01:43:43,816 --> 01:43:45,051
+You know...
+
+1896
+01:43:46,683 --> 01:43:48,216
+you saved my life.
+
+1897
+01:43:48,349 --> 01:43:50,484
+No, no.
+
+1898
+01:43:50,617 --> 01:43:52,349
+You saved my life.
+
+1899
+01:43:55,617 --> 01:43:57,118
+I appreciate you.
+
+1900
+01:43:58,350 --> 01:44:01,283
+<i>♪ Yes, we're gonna take ♪</i>
+
+1901
+01:44:02,717 --> 01:44:05,785
+<i>♪ The whole wide world ♪</i>
+
+1902
+01:44:05,918 --> 01:44:08,518
+<i>♪ By storm ♪</i>
+
+1903
+01:44:08,688 --> 01:44:12,305
+Subtitles by explosiveskull
+www.OpenSubtitles.org
+
+1904
+01:44:15,618 --> 01:44:19,020
+[♪♪♪]
+
+1905
+01:44:26,753 --> 01:44:28,252
+<i>♪ Yes, indeed ♪</i>
+
+1906
+01:44:29,285 --> 01:44:30,853
+<i>♪ Yes, indeed ♪</i>
+
+1907
+01:44:31,819 --> 01:44:33,185
+<i>♪ Yes, indeed ♪</i>
+
+1908
+01:44:34,252 --> 01:44:35,854
+<i>♪ Yes, indeed ♪</i>
+
+1909
+01:44:35,987 --> 01:44:38,120
+<i>♪ Whoop-whoop, that's
+The sound of da police ♪</i>
+
+1910
+01:44:38,252 --> 01:44:40,620
+<i>♪ Whoop-whoop
+That's the sound of da beast ♪</i>
+
+1911
+01:44:40,754 --> 01:44:43,185
+<i>♪ Whoop-whoop, that's
+The sound of da police ♪</i>
+
+1912
+01:44:43,320 --> 01:44:45,654
+<i>♪ Whoop-whoop
+That's the sound of da beast ♪</i>
+
+1913
+01:44:45,787 --> 01:44:48,220
+<i>♪ Check out the message
+In a rough stylee ♪</i>
+
+1914
+01:44:48,353 --> 01:44:50,720
+<i>♪ The real criminal
+Are the C-O-P ♪</i>
+
+1915
+01:44:50,855 --> 01:44:53,186
+<i>♪ You check for undercover
+And the one PD ♪</i>
+
+1916
+01:44:53,320 --> 01:44:55,621
+<i>♪ Just 'cause me a black man
+Them want check me ♪</i>
+
+1917
+01:44:55,755 --> 01:44:58,121
+<i>♪ Them check out me car
+For it shine like the sun ♪</i>
+
+1918
+01:44:58,253 --> 01:44:59,788
+<i>♪ But them jealous
+Or them vexed ♪</i>
+
+1919
+01:44:59,921 --> 01:45:01,488
+<i>♪ 'Cause them can't
+Afford one ♪</i>
+
+1920
+01:45:01,621 --> 01:45:03,588
+<i>♪ Black people still slaves
+Up till today ♪</i>
+
+1921
+01:45:03,721 --> 01:45:06,154
+<i>♪ But the black police officer
+Nah see it that way ♪</i>
+
+1922
+01:45:06,287 --> 01:45:08,254
+<i>♪ Him want him salary
+Him want it ♪</i>
+
+1923
+01:45:08,388 --> 01:45:10,789
+<i>♪ So he put on a badge
+And kill people for it ♪</i>
+
+1924
+01:45:10,922 --> 01:45:13,254
+<i>♪ My grandfather had
+To deal with the cops ♪</i>
+
+1925
+01:45:13,388 --> 01:45:15,689
+<i>♪ My great-grandfather
+Dealt with the cops ♪</i>
+
+1926
+01:45:15,822 --> 01:45:18,154
+<i>♪ My great-grandfather
+Had to deal with the cops ♪</i>
+
+1927
+01:45:18,288 --> 01:45:20,155
+<i>♪ And then my great
+Great, great, great ♪</i>
+
+1928
+01:45:20,288 --> 01:45:22,023
+<i>♪ When it's gonna stop?!
+Whoop-whoop ♪</i>
+
+1929
+01:45:22,155 --> 01:45:23,856
+<i>♪ That's the sound
+Of da police ♪</i>
+
+1930
+01:45:23,990 --> 01:45:26,123
+<i>♪ Whoop-whoop
+That's the sound of da beast ♪</i>
+
+1931
+01:45:26,255 --> 01:45:28,522
+<i>♪ Whoop-whoop, that's
+The sound of da police ♪</i>
+
+1932
+01:45:28,657 --> 01:45:31,023
+<i>♪ Whoop-whoop
+That's the sound of da beast ♪</i>
+
+1933
+01:45:31,155 --> 01:45:33,590
+<i>♪ Whoop-whoop, that's
+The sound of da police ♪</i>
+
+1934
+01:45:33,723 --> 01:45:36,123
+<i>♪ Whoop-whoop
+That's the sound of da beast ♪</i>
+
+1935
+01:45:36,256 --> 01:45:38,623
+<i>♪ Whoop-whoop, that's
+The sound of da police ♪</i>
+
+1936
+01:45:38,757 --> 01:45:41,289
+<i>♪ Whoop-whoop, that's
+The sound of da beast ♪</i>
+
+1937
+01:45:51,290 --> 01:45:53,791
+<i>♪ Whoop-whoop, that's
+The sound of da police ♪</i>
+
+1938
+01:45:53,924 --> 01:45:56,491
+<i>♪ Whoop-whoop
+That's the sound of da beast ♪</i>
+
+1939
+01:45:56,624 --> 01:45:58,825
+<i>♪ Whoop-whoop, that's
+The sound of da police ♪</i>
+
+1940
+01:45:58,959 --> 01:46:01,391
+<i>♪ Whoop-whoop, that's
+The sound of da beast ♪</i>
+
+1941
+01:46:07,058 --> 01:46:10,859
+[♪♪♪]
+
+1942
+01:47:00,762 --> 01:47:03,662
+[♪♪♪]
+
+1943
+01:47:59,297 --> 01:48:01,898
+[♪♪♪]
+

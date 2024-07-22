@@ -1,0 +1,7634 @@
+﻿1
+00:00:01,390 --> 00:00:04,223
+(MultiCom Jingle)
+
+2
+00:00:14,660 --> 00:00:16,700
+- [Narrator] The following
+film is based on an
+
+3
+00:00:16,700 --> 00:00:21,222
+actual event that occurred
+on July 23rd, 1983.
+
+4
+00:00:21,222 --> 00:00:25,212
+Some names have been changed,
+composite characters used,
+
+5
+00:00:25,212 --> 00:00:29,083
+and certain scenes were
+created for dramatic purposes.
+
+6
+00:00:34,028 --> 00:00:37,695
+(dramatic orchestral music)
+
+7
+00:01:44,347 --> 00:01:46,647
+- That's the storm front
+they warned us about.
+
+8
+00:01:47,550 --> 00:01:49,500
+Might as well use everything
+this beaut can give.
+
+9
+00:01:49,500 --> 00:01:51,550
+Ask if we can take her up to 40,000 feet.
+
+10
+00:01:53,526 --> 00:01:55,826
+- Nothing like being
+able to get above it all.
+
+11
+00:01:57,220 --> 00:02:01,301
+Winnipeg Center, this is
+Canada World 163 heavy.
+
+12
+00:02:01,301 --> 00:02:03,860
+(static hissing)
+
+13
+00:02:03,860 --> 00:02:06,260
+Yeah, we see it about 20 miles out.
+
+14
+00:02:06,260 --> 00:02:08,240
+If we can slip up to 40,000 feet,
+
+15
+00:02:08,240 --> 00:02:10,018
+we should be able to ride above it all.
+
+16
+00:02:10,018 --> 00:02:12,430
+(static hissing)
+
+17
+00:02:12,430 --> 00:02:13,460
+Thanks, Winnipeg.
+
+18
+00:02:13,460 --> 00:02:14,293
+Moving up.
+
+19
+00:02:20,115 --> 00:02:22,810
+(instrument panel beeping)
+
+20
+00:02:22,810 --> 00:02:23,643
+- That's weird.
+
+21
+00:02:23,643 --> 00:02:24,476
+How's the fuel?
+
+22
+00:02:26,060 --> 00:02:27,160
+- Indicator inop.
+
+23
+00:02:28,760 --> 00:02:29,990
+Computer says we're loaded.
+
+24
+00:02:29,990 --> 00:02:31,500
+- Must be the pump.
+
+25
+00:02:31,500 --> 00:02:33,550
+Cross-feed the left pump to both engines.
+
+26
+00:02:34,577 --> 00:02:35,665
+(suspenseful orchestral music)
+
+27
+00:02:35,665 --> 00:02:37,630
+(instrument panel beeping)
+
+28
+00:02:37,630 --> 00:02:39,180
+- Just what the doctor ordered.
+
+29
+00:02:44,387 --> 00:02:48,760
+(instrument panel beeping)
+
+30
+00:02:48,760 --> 00:02:49,810
+- Sure the fuel's up?
+
+31
+00:02:52,560 --> 00:02:54,603
+- [Copilot] According to
+the readout, we're full?
+
+32
+00:02:55,863 --> 00:03:00,134
+(instrument panel beeping)
+
+33
+00:03:00,134 --> 00:03:01,860
+(airplane rumbling)
+
+34
+00:03:01,860 --> 00:03:03,210
+- Left engine's flamed out.
+
+35
+00:03:07,150 --> 00:03:08,880
+Winnipeg, this is 163,
+
+36
+00:03:08,880 --> 00:03:10,433
+We're having a problem.
+
+37
+00:03:10,433 --> 00:03:11,840
+(rumbling)
+
+38
+00:03:11,840 --> 00:03:13,540
+Right engine's gone too.
+
+39
+00:03:13,540 --> 00:03:14,936
+Winnipeg, this is 163.
+
+40
+00:03:14,936 --> 00:03:15,917
+We ha--
+
+41
+00:03:18,240 --> 00:03:19,310
+- We have a general failure.
+
+42
+00:03:19,310 --> 00:03:20,143
+Got a dead stick here.
+
+43
+00:03:20,143 --> 00:03:22,320
+Give me range, fuel, talk to me.
+
+44
+00:03:22,320 --> 00:03:23,153
+- Glide.
+
+45
+00:03:23,153 --> 00:03:24,279
+Can you glide her?
+
+46
+00:03:24,279 --> 00:03:25,250
+- Stick's dead.
+
+47
+00:03:25,250 --> 00:03:26,120
+Help me out.
+
+48
+00:03:26,120 --> 00:03:26,953
+No hydraulics.
+
+49
+00:03:30,955 --> 00:03:33,205
+(grunting)
+
+50
+00:03:35,134 --> 00:03:37,384
+We're going into free fall.
+
+51
+00:03:38,330 --> 00:03:39,163
+Free fall.
+
+52
+00:03:40,040 --> 00:03:40,957
+- Going in!
+
+53
+00:03:42,577 --> 00:03:43,827
+We're going in!
+
+54
+00:03:45,284 --> 00:03:49,784
+(suspenseful orchestral music rising)
+
+55
+00:03:53,094 --> 00:03:55,761
+(alarm buzzing)
+
+56
+00:03:58,752 --> 00:04:01,210
+- [Computer] Simulation complete.
+
+57
+00:04:01,210 --> 00:04:03,463
+Please exit the simulator now.
+
+58
+00:04:07,883 --> 00:04:09,620
+- Is that some kind of joke?
+
+59
+00:04:09,620 --> 00:04:11,080
+There's no way you'd land that aircraft
+
+60
+00:04:11,080 --> 00:04:12,680
+the way you guys have got a programmed.
+
+61
+00:04:12,680 --> 00:04:14,480
+- Dumb scenario if you ask me.
+
+62
+00:04:14,480 --> 00:04:15,830
+Impossible set of conditions.
+
+63
+00:04:15,830 --> 00:04:17,760
+Who ever dreamed that up?
+
+64
+00:04:17,760 --> 00:04:18,813
+- It isn't a dream.
+
+65
+00:04:20,256 --> 00:04:21,523
+It happened.
+
+66
+00:04:24,997 --> 00:04:28,664
+(dramatic orchestral music)
+
+67
+00:04:42,120 --> 00:04:43,230
+- Just look at that.
+
+68
+00:04:44,200 --> 00:04:45,490
+Some beauty.
+
+69
+00:04:45,490 --> 00:04:47,410
+- Yeah, it's brand new.
+
+70
+00:04:47,410 --> 00:04:49,070
+Just out of the box.
+
+71
+00:04:49,070 --> 00:04:50,170
+- Who's in the saddle?
+
+72
+00:04:51,990 --> 00:04:53,783
+- Captain Pearson, Bob Pearson.
+
+73
+00:04:58,590 --> 00:05:00,280
+- [Beth] Coffee's ready.
+
+74
+00:05:00,280 --> 00:05:01,983
+- As usual you're way ahead of me.
+
+75
+00:05:05,398 --> 00:05:08,970
+- I'm just keeping ahead of a
+day that's going to be busy.
+
+76
+00:05:08,970 --> 00:05:11,730
+- Listen, if you want me to
+drive myself to the airport,
+
+77
+00:05:11,730 --> 00:05:13,240
+I can leave the car in the overnight.
+
+78
+00:05:13,240 --> 00:05:14,400
+- No, there's no need.
+
+79
+00:05:14,400 --> 00:05:16,550
+I can pick up the
+cleaning on the way back.
+
+80
+00:05:18,230 --> 00:05:19,820
+Besides, it'll help me pass the time.
+
+81
+00:05:19,820 --> 00:05:20,653
+- What time?
+
+82
+00:05:20,653 --> 00:05:21,620
+It's a quick turnaround.
+
+83
+00:05:21,620 --> 00:05:22,453
+- Oh, I know.
+
+84
+00:05:22,453 --> 00:05:23,460
+It's just that...
+
+85
+00:05:27,140 --> 00:05:28,910
+- What's the matter?
+
+86
+00:05:28,910 --> 00:05:29,743
+- Hmm?
+
+87
+00:05:29,743 --> 00:05:31,450
+- It's not like you to be worried.
+
+88
+00:05:31,450 --> 00:05:32,890
+- I'm not worried.
+
+89
+00:05:32,890 --> 00:05:34,440
+I'm gonna miss you, that's all.
+
+90
+00:05:35,600 --> 00:05:36,433
+Would you drink your coffee?
+
+91
+00:05:36,433 --> 00:05:38,953
+The sooner you get started,
+the sooner you get back.
+
+92
+00:05:42,360 --> 00:05:43,740
+- It still doesn't figure.
+
+93
+00:05:43,740 --> 00:05:48,530
+I know by this record we got
+about 11,000 pounds of fuel.
+
+94
+00:05:48,530 --> 00:05:49,670
+- Pounds or liters?
+
+95
+00:05:49,670 --> 00:05:51,285
+- Pounds.
+
+96
+00:05:51,285 --> 00:05:52,780
+No no, no, hold on.
+
+97
+00:05:52,780 --> 00:05:53,930
+Maybe that's kilograms.
+
+98
+00:05:54,820 --> 00:05:55,653
+- How much more?
+
+99
+00:05:55,653 --> 00:05:57,700
+I got several thousand gallons left.
+
+100
+00:05:57,700 --> 00:05:58,726
+- Gallons?
+
+101
+00:05:58,726 --> 00:06:01,195
+Don't give any gallons, okay?
+
+102
+00:06:01,195 --> 00:06:03,100
+You've got the pride of the fleet.
+
+103
+00:06:03,100 --> 00:06:06,303
+The first 67 in service
+and we are now metric.
+
+104
+00:06:06,303 --> 00:06:08,319
+Speak to me in kilos.
+
+105
+00:06:08,319 --> 00:06:09,290
+- Sorry, boss.
+
+106
+00:06:09,290 --> 00:06:10,580
+I don't really know that stuff yet.
+
+107
+00:06:10,580 --> 00:06:11,860
+I got my work cut out trying
+
+108
+00:06:11,860 --> 00:06:14,289
+to convert gallons into pounds.
+
+109
+00:06:14,289 --> 00:06:15,291
+- Yeah, like we don't?
+
+110
+00:06:15,291 --> 00:06:17,273
+You just standby, okay?
+
+111
+00:06:18,887 --> 00:06:20,670
+If they at least convert
+the entire fleet, you know,
+
+112
+00:06:20,670 --> 00:06:22,320
+instead of just these new planes.
+
+113
+00:06:23,900 --> 00:06:25,850
+- Well, I really think
+you've got everything done.
+
+114
+00:06:25,850 --> 00:06:26,683
+- Not quite.
+
+115
+00:06:26,683 --> 00:06:27,560
+Meg and I are gonna go shopping.
+
+116
+00:06:27,560 --> 00:06:29,130
+I want to pick up some fresh flowers
+
+117
+00:06:29,130 --> 00:06:31,910
+and I've gotta get new
+sheets for the guestroom.
+
+118
+00:06:31,910 --> 00:06:32,743
+- New sheets?
+
+119
+00:06:32,743 --> 00:06:34,360
+Do you think you're overdoing it?
+
+120
+00:06:34,360 --> 00:06:35,913
+- I want 'em to feel welcome.
+
+121
+00:06:35,913 --> 00:06:37,690
+They'll notice a little extra care
+
+122
+00:06:37,690 --> 00:06:40,020
+after they've been
+white-knuckling it for five hours.
+
+123
+00:06:40,020 --> 00:06:41,050
+- White knuckling it?
+
+124
+00:06:41,050 --> 00:06:41,914
+With me in the cockpit?
+
+125
+00:06:41,914 --> 00:06:43,027
+- You, they'll trust.
+
+126
+00:06:43,027 --> 00:06:45,270
+It's the plane that
+will keep them worried.
+
+127
+00:06:47,143 --> 00:06:48,913
+- Listen, why don't you drive?
+
+128
+00:06:52,360 --> 00:06:53,193
+- Bob,
+
+129
+00:06:54,140 --> 00:06:56,253
+will you keep your wits about you?
+
+130
+00:07:01,550 --> 00:07:02,393
+- I always do.
+
+131
+00:07:07,230 --> 00:07:08,730
+- How many kilos in a pound?
+
+132
+00:07:08,730 --> 00:07:12,143
+- Uh, 2.2, or so it says here.
+
+133
+00:07:14,020 --> 00:07:14,853
+- Okay.
+
+134
+00:07:14,853 --> 00:07:16,558
+How many quarts in a kilogram?
+
+135
+00:07:16,558 --> 00:07:17,391
+- I don't know.
+
+136
+00:07:17,391 --> 00:07:18,420
+I told you, check the on-board gauge.
+
+137
+00:07:18,420 --> 00:07:19,253
+- It's got inop.
+
+138
+00:07:19,253 --> 00:07:20,086
+- Well then how does a pilot know
+
+139
+00:07:20,086 --> 00:07:21,370
+how much fuel's been loaded?
+
+140
+00:07:21,370 --> 00:07:24,470
+- Computers, state-of-the-art computers.
+
+141
+00:07:24,470 --> 00:07:26,120
+- I hate computers.
+
+142
+00:07:26,120 --> 00:07:27,550
+Gotta be a technical person to run 'em.
+
+143
+00:07:27,550 --> 00:07:30,300
+- Yeah, well then we both
+better check into a seminary.
+
+144
+00:07:33,400 --> 00:07:35,907
+Come on, let's try the cockpit.
+
+145
+00:07:35,907 --> 00:07:36,740
+- Okay.
+
+146
+00:07:38,479 --> 00:07:40,550
+(dog barking)
+
+147
+00:07:40,550 --> 00:07:43,038
+- Listen, Jim, my wife's
+not doing so well right now.
+
+148
+00:07:43,038 --> 00:07:44,290
+(baby crying)
+
+149
+00:07:44,290 --> 00:07:46,090
+Isn't there some other guy you can--
+
+150
+00:07:46,940 --> 00:07:48,633
+Yeah, yeah, I understand.
+
+151
+00:07:50,414 --> 00:07:52,967
+Okay, I'll be there.
+
+152
+00:07:52,967 --> 00:07:55,634
+(phone beeping)
+
+153
+00:08:00,550 --> 00:08:02,220
+- You're going off again, aren't you?
+
+154
+00:08:02,220 --> 00:08:03,363
+- I'm really sorry.
+
+155
+00:08:04,260 --> 00:08:06,040
+The number two on the
+Montreal Edmonton flight
+
+156
+00:08:06,040 --> 00:08:07,515
+broke his leg, skiing.
+
+157
+00:08:07,515 --> 00:08:11,450
+They need me to take his
+place in the second seat.
+
+158
+00:08:11,450 --> 00:08:12,793
+- But you just got back.
+
+159
+00:08:14,610 --> 00:08:15,443
+- I know,
+
+160
+00:08:17,160 --> 00:08:18,710
+but it's the new 767
+
+161
+00:08:18,710 --> 00:08:20,723
+and I begged to be one of
+the first checked out on it
+
+162
+00:08:20,723 --> 00:08:22,520
+and now I'm the only one available
+
+163
+00:08:22,520 --> 00:08:24,428
+who's cleared to fly it.
+
+164
+00:08:24,428 --> 00:08:25,750
+(dramatic orchestral music)
+
+165
+00:08:25,750 --> 00:08:27,350
+- Veronica will be here to help.
+
+166
+00:08:28,720 --> 00:08:31,467
+I'll be back before you know it.
+
+167
+00:08:31,467 --> 00:08:32,300
+All right?
+
+168
+00:08:32,300 --> 00:08:33,133
+Hey.
+
+169
+00:08:56,744 --> 00:08:58,214
+- Are you picking 'em up at home?
+
+170
+00:08:58,214 --> 00:08:59,770
+- No, it's a quick turnaround.
+
+171
+00:08:59,770 --> 00:09:01,570
+They're gonna meet me at
+the airport in Edmonton.
+
+172
+00:09:01,570 --> 00:09:03,120
+You'll meet us on the way back?
+
+173
+00:09:03,120 --> 00:09:04,670
+- I'll pick you up at the gate.
+
+174
+00:09:05,610 --> 00:09:06,729
+- Is everything okay?
+
+175
+00:09:06,729 --> 00:09:07,605
+- Yeah, it's fine.
+
+176
+00:09:07,605 --> 00:09:09,353
+You just worry about
+having a safe flight, okay?
+
+177
+00:09:09,353 --> 00:09:10,186
+- Okay.
+
+178
+00:09:11,210 --> 00:09:13,799
+- [Announcer] The white zone
+is for immediate loading
+
+179
+00:09:13,799 --> 00:09:16,132
+and unloading of passengers.
+
+180
+00:09:19,130 --> 00:09:20,330
+- Try the switch anyway.
+
+181
+00:09:24,270 --> 00:09:25,663
+- Great, nothing.
+
+182
+00:09:26,930 --> 00:09:27,820
+Gotta rely on a computer.
+
+183
+00:09:27,820 --> 00:09:29,090
+What's it say?
+
+184
+00:09:29,090 --> 00:09:30,060
+- Whatever we tell it.
+
+185
+00:09:30,060 --> 00:09:31,760
+It won't read the fuel load.
+
+186
+00:09:31,760 --> 00:09:33,833
+We tell it the volume
+and it does the figuring.
+
+187
+00:09:33,833 --> 00:09:35,483
+- Then it's not smarter than you.
+
+188
+00:09:37,050 --> 00:09:39,130
+Better refigure the volume again.
+
+189
+00:09:39,130 --> 00:09:41,297
+(sighing)
+
+190
+00:09:48,340 --> 00:09:50,134
+- You'll be okay, won't you, sweetie?
+
+191
+00:09:50,134 --> 00:09:50,967
+- She'll be just fine.
+
+192
+00:09:50,967 --> 00:09:52,791
+We'll both miss you, but she'll be fine.
+
+193
+00:09:52,791 --> 00:09:53,624
+- Are you sure?
+
+194
+00:09:53,624 --> 00:09:55,163
+- You know the maternity
+leave would end sooner,
+
+195
+00:09:55,163 --> 00:09:57,319
+besides really if you
+wanted to stop flying--
+
+196
+00:09:57,319 --> 00:10:00,399
+- It's just too good a job
+you lose the seniority.
+
+197
+00:10:00,399 --> 00:10:01,232
+Yes, yes.
+
+198
+00:10:02,289 --> 00:10:04,553
+Now you take good care of your daddy.
+
+199
+00:10:06,600 --> 00:10:07,433
+- Bye, sweetie.
+
+200
+00:10:07,433 --> 00:10:08,266
+- Bye.
+
+201
+00:10:08,266 --> 00:10:09,846
+- You take care of her.
+
+202
+00:10:09,846 --> 00:10:10,679
+- [Husband] Bye bye.
+
+203
+00:10:10,679 --> 00:10:11,520
+- Shh.
+
+204
+00:10:11,520 --> 00:10:12,353
+Bye.
+
+205
+00:10:17,790 --> 00:10:18,623
+- Hey, Lynn.
+
+206
+00:10:18,623 --> 00:10:19,456
+What do you got?
+
+207
+00:10:19,456 --> 00:10:20,630
+- 174 to Edmonton.
+
+208
+00:10:20,630 --> 00:10:22,270
+- Hey, we're together.
+
+209
+00:10:22,270 --> 00:10:23,890
+Junior employees first.
+
+210
+00:10:23,890 --> 00:10:24,723
+- Thank you.
+
+211
+00:10:30,510 --> 00:10:32,901
+- Gotta stop being mad at me, Gloria.
+
+212
+00:10:32,901 --> 00:10:34,210
+You'd hate it.
+
+213
+00:10:34,210 --> 00:10:36,460
+Hell, I hate it and
+it's my family reunion.
+
+214
+00:10:36,460 --> 00:10:37,902
+- I don't have to do anything.
+
+215
+00:10:37,902 --> 00:10:39,860
+All I wanna do is go with you,
+
+216
+00:10:39,860 --> 00:10:41,343
+as if we belong together.
+
+217
+00:10:41,343 --> 00:10:44,350
+Maybe I could even make it fun for you.
+
+218
+00:10:44,350 --> 00:10:45,459
+- I doubt it.
+
+219
+00:10:45,459 --> 00:10:46,990
+All they'd start doing is prying.
+
+220
+00:10:46,990 --> 00:10:47,960
+- What have we...
+
+221
+00:10:49,240 --> 00:10:51,010
+You, what have you got to hide?
+
+222
+00:10:51,010 --> 00:10:51,843
+- Nothing.
+
+223
+00:10:51,843 --> 00:10:53,210
+- You just don't want
+me to meet your family.
+
+224
+00:10:53,210 --> 00:10:54,150
+- Gloria, you know that's not true.
+
+225
+00:10:54,150 --> 00:10:55,131
+I have a problem with my fam--
+
+226
+00:10:55,131 --> 00:10:57,020
+- I wish I did, Phil!
+
+227
+00:10:57,020 --> 00:11:00,063
+Tell me, do your parents
+even know I exist?
+
+228
+00:11:00,981 --> 00:11:04,648
+(dramatic orchestral music)
+
+229
+00:11:13,230 --> 00:11:15,154
+- [Announcer] This is
+the final boarding call.
+
+230
+00:11:15,154 --> 00:11:16,654
+- I can handle it.
+
+231
+00:11:17,586 --> 00:11:18,419
+- 38.
+
+232
+00:11:19,982 --> 00:11:21,870
+Hey, didn't you play minor league hockey?
+
+233
+00:11:21,870 --> 00:11:22,703
+I thought the trade called you up
+
+234
+00:11:22,703 --> 00:11:24,391
+to play the big team.
+
+235
+00:11:24,391 --> 00:11:25,876
+What happened?
+
+236
+00:11:25,876 --> 00:11:27,163
+- I got cut.
+
+237
+00:11:35,270 --> 00:11:36,300
+- [Norma] Tickets?
+
+238
+00:11:36,300 --> 00:11:37,640
+- Did you turn the thermostat down?
+
+239
+00:11:37,640 --> 00:11:38,550
+- Yeah.
+
+240
+00:11:38,550 --> 00:11:40,090
+Did you get us flight insurance?
+
+241
+00:11:40,090 --> 00:11:40,923
+- What for?
+
+242
+00:11:46,400 --> 00:11:47,530
+- Hey, Dave.
+
+243
+00:11:47,530 --> 00:11:49,317
+- Mr. Pearson, taking 174 out.
+
+244
+00:11:49,317 --> 00:11:50,920
+- Yeah, did you just bring her in?
+
+245
+00:11:50,920 --> 00:11:51,930
+- I did indeed.
+
+246
+00:11:51,930 --> 00:11:53,053
+Fuel gauges are dicey.
+
+247
+00:11:54,337 --> 00:11:55,693
+- No kidding.
+
+248
+00:11:57,850 --> 00:11:58,883
+She's brand new.
+
+249
+00:12:00,070 --> 00:12:01,590
+What's the manual say?
+
+250
+00:12:01,590 --> 00:12:02,423
+- Nothing.
+
+251
+00:12:02,423 --> 00:12:04,350
+But like you say, the 67's
+just come into service.
+
+252
+00:12:04,350 --> 00:12:05,863
+Not much pilot input yet.
+
+253
+00:12:07,050 --> 00:12:08,500
+- Anything on the minimum equipment list?
+
+254
+00:12:08,500 --> 00:12:10,870
+- The NEL says to check the load manually.
+
+255
+00:12:10,870 --> 00:12:12,500
+After that, it's safe to fly
+
+256
+00:12:12,500 --> 00:12:14,650
+using the on-board computers.
+
+257
+00:12:14,650 --> 00:12:16,130
+You're handy with those
+things, aren't you?
+
+258
+00:12:16,130 --> 00:12:16,963
+- Well, I'm getting there,
+
+259
+00:12:16,963 --> 00:12:20,470
+but I'd rather have the
+gauge that went into a tank.
+
+260
+00:12:20,470 --> 00:12:21,910
+Can it be fixed?
+
+261
+00:12:21,910 --> 00:12:23,070
+- Don't know.
+
+262
+00:12:23,070 --> 00:12:24,760
+You'll Ricky Dion in the cabin with you.
+
+263
+00:12:24,760 --> 00:12:26,660
+I betcha he can get it right.
+
+264
+00:12:26,660 --> 00:12:28,514
+- Ricky, well, there you go.
+
+265
+00:12:28,514 --> 00:12:29,933
+- [Maurice] Dave.
+
+266
+00:12:29,933 --> 00:12:32,486
+- Maurice, you taking
+Bruce's second chair?
+
+267
+00:12:32,486 --> 00:12:33,319
+- Yep.
+
+268
+00:12:34,778 --> 00:12:37,036
+- Well, after you get fueled up,
+
+269
+00:12:37,036 --> 00:12:39,563
+let's make sure the plane is.
+
+270
+00:12:43,040 --> 00:12:43,873
+- Hey, Mo.
+
+271
+00:12:50,000 --> 00:12:51,090
+- Check the reminder file.
+
+272
+00:12:51,090 --> 00:12:53,420
+Both Haber and Dunbar
+have birthdays this month.
+
+273
+00:12:53,420 --> 00:12:54,660
+Send some trinket from Tiffany,
+
+274
+00:12:54,660 --> 00:12:56,200
+forge my signature, and remember,
+
+275
+00:12:56,200 --> 00:12:57,740
+I leave for Hong Kong on the 8th,
+
+276
+00:12:57,740 --> 00:13:00,120
+so, Alicia, if there are any
+details that I have overlooked,
+
+277
+00:13:00,120 --> 00:13:02,543
+please do not hesitate to contact me.
+
+278
+00:13:02,543 --> 00:13:06,876
+It's very important have
+this itinerary completely--
+
+279
+00:13:12,679 --> 00:13:13,929
+- 11, four, 30.
+
+280
+00:13:15,129 --> 00:13:17,520
+- [Man] Okay, 1.0 means--
+
+281
+00:13:17,520 --> 00:13:20,360
+- We gotta multiply by 178.
+
+282
+00:13:20,360 --> 00:13:22,550
+- Love that high tech operation.
+
+283
+00:13:22,550 --> 00:13:24,291
+What do you know about metrics?
+
+284
+00:13:24,291 --> 00:13:25,124
+- Nothing.
+
+285
+00:13:25,124 --> 00:13:26,950
+I'm still trying to think
+how much a quart is.
+
+286
+00:13:26,950 --> 00:13:28,109
+- Easy.
+
+287
+00:13:28,109 --> 00:13:30,783
+6% smaller than a liter.
+
+288
+00:13:32,818 --> 00:13:33,651
+Ah, jeez.
+
+289
+00:13:34,830 --> 00:13:37,379
+- Alicia, I will be out of
+town for my anniversary.
+
+290
+00:13:37,379 --> 00:13:39,670
+Have Jorge send some flowers to the house,
+
+291
+00:13:39,670 --> 00:13:40,960
+roses preferably.
+
+292
+00:13:40,960 --> 00:13:42,298
+Keep it under $60.
+
+293
+00:13:42,298 --> 00:13:46,656
+Make a reservation at Betina
+for the night after my return.
+
+294
+00:13:46,656 --> 00:13:49,070
+- [Announcer] The departure
+of Canada World Airways,
+
+295
+00:13:49,070 --> 00:13:52,009
+flight 174, will be slightly delayed.
+
+296
+00:13:52,009 --> 00:13:52,949
+- [Group] Ah.
+
+297
+00:13:52,949 --> 00:13:53,782
+- [Man] No.
+
+298
+00:13:53,782 --> 00:13:54,670
+- [Announcer] Please stay at the gate,
+
+299
+00:13:54,670 --> 00:13:56,673
+as we expect to board momentarily.
+
+300
+00:13:59,160 --> 00:14:00,822
+- Ol' CWA.
+
+301
+00:14:00,822 --> 00:14:04,130
+If there's a way to ruin
+my plans, they'll find it.
+
+302
+00:14:04,130 --> 00:14:05,613
+- At least the weather looks good.
+
+303
+00:14:06,525 --> 00:14:07,413
+- Yeah, at least for now.
+
+304
+00:14:08,450 --> 00:14:10,170
+- You know, there was a
+time when the decision
+
+305
+00:14:10,170 --> 00:14:13,090
+to take off was mine and mine alone.
+
+306
+00:14:13,090 --> 00:14:15,239
+But the new manual for these big birds
+
+307
+00:14:15,239 --> 00:14:18,100
+says that you have to check me out first.
+
+308
+00:14:18,100 --> 00:14:19,100
+So, what's the deal?
+
+309
+00:14:20,440 --> 00:14:22,320
+- Well, the way I read the figures,
+
+310
+00:14:22,320 --> 00:14:24,980
+we gave you 20,345.
+
+311
+00:14:24,980 --> 00:14:27,628
+Enough to get you all
+the way to Vancouver,
+
+312
+00:14:27,628 --> 00:14:29,793
+nevermind Edmonton.
+
+313
+00:14:29,793 --> 00:14:31,597
+- What about this inop?
+
+314
+00:14:31,597 --> 00:14:34,890
+- Well, we'd have to rely
+on the computer readout.
+
+315
+00:14:34,890 --> 00:14:36,190
+- What if the computer fails?
+
+316
+00:14:36,190 --> 00:14:37,310
+- Second one cuts in.
+
+317
+00:14:37,310 --> 00:14:38,824
+If that goes down,
+
+318
+00:14:38,824 --> 00:14:40,309
+then there's a third one for good measure.
+
+319
+00:14:40,309 --> 00:14:42,014
+(chuckling)
+
+320
+00:14:42,014 --> 00:14:43,850
+- If two of them go down,
+
+321
+00:14:43,850 --> 00:14:45,900
+I don't think I'll be relying on a third.
+
+322
+00:14:47,860 --> 00:14:49,723
+I understand Rick Dion's on board.
+
+323
+00:14:51,210 --> 00:14:53,250
+He must know this machine.
+
+324
+00:14:53,250 --> 00:14:55,790
+- Forecast looked from here.
+
+325
+00:14:55,790 --> 00:14:57,090
+Should be a smooth flight.
+
+326
+00:14:58,167 --> 00:14:59,000
+- It's okay, honey.
+
+327
+00:14:59,000 --> 00:15:00,540
+I only looked worried.
+
+328
+00:15:00,540 --> 00:15:02,260
+Besides, what can go wrong
+
+329
+00:15:02,260 --> 00:15:04,690
+when the airline's top
+mechanic is sitting in the seat
+
+330
+00:15:04,690 --> 00:15:05,761
+right next to us?
+
+331
+00:15:05,761 --> 00:15:06,594
+- Hey.
+
+332
+00:15:06,594 --> 00:15:07,427
+- [Pearl] Huh, Chris?
+
+333
+00:15:07,427 --> 00:15:08,315
+- [Larry] Rick.
+
+334
+00:15:08,315 --> 00:15:09,403
+- Hey, Larry.
+
+335
+00:15:09,403 --> 00:15:11,000
+Good to see ya.
+
+336
+00:15:11,000 --> 00:15:12,371
+- [Larry] Good to have you aboard.
+
+337
+00:15:12,371 --> 00:15:13,750
+- Let's hope so.
+
+338
+00:15:13,750 --> 00:15:15,483
+- She hates to fly,
+
+339
+00:15:15,483 --> 00:15:17,730
+especially after a check delay.
+
+340
+00:15:17,730 --> 00:15:18,563
+What's the problem?
+
+341
+00:15:18,563 --> 00:15:21,360
+- Don't know, but Bob Pearson's
+in the number one seat.
+
+342
+00:15:21,360 --> 00:15:23,130
+If he's satisfied, so am I.
+
+343
+00:15:23,130 --> 00:15:25,000
+Once we're up, you should
+go ask him yourself.
+
+344
+00:15:25,000 --> 00:15:25,833
+- Oh, he will.
+
+345
+00:15:25,833 --> 00:15:28,793
+Can't keep him away from the
+business end of an aircraft.
+
+346
+00:15:30,660 --> 00:15:32,800
+Okay, honey, got your seatbelt on?
+
+347
+00:15:32,800 --> 00:15:34,497
+- Just getting it on.
+
+348
+00:15:34,497 --> 00:15:35,746
+- "Got your seatbelt on?"
+
+349
+00:15:35,746 --> 00:15:38,470
+(laughing)
+
+350
+00:15:38,470 --> 00:15:39,830
+- Yes, I do.
+
+351
+00:15:39,830 --> 00:15:41,137
+- You're smiling, Pearl.
+
+352
+00:15:41,137 --> 00:15:41,970
+Look out.
+
+353
+00:15:41,970 --> 00:15:42,803
+- [Pearl] It's an aberration.
+
+354
+00:15:42,803 --> 00:15:43,636
+(laughing)
+
+355
+00:15:43,636 --> 00:15:44,850
+- You're in C and D, down to your right.
+
+356
+00:15:44,850 --> 00:15:46,249
+Have a pleasant flight.
+
+357
+00:15:46,249 --> 00:15:47,082
+Good morning, sir.
+
+358
+00:15:47,082 --> 00:15:47,999
+How are you today?
+
+359
+00:15:47,999 --> 00:15:50,192
+You are in 23C, down to your right.
+
+360
+00:15:50,192 --> 00:15:52,182
+Hi, how are you?
+
+361
+00:15:52,182 --> 00:15:53,015
+- [Woman] Good.
+
+362
+00:15:53,015 --> 00:15:55,442
+- C, down to your left, please.
+
+363
+00:15:55,442 --> 00:15:57,280
+23D, down to your left.
+
+364
+00:15:57,280 --> 00:15:58,290
+Hi, how are you today?
+
+365
+00:15:58,290 --> 00:16:00,064
+30F, down to your left.
+
+366
+00:16:00,064 --> 00:16:01,840
+Hi, how are you today, sir?
+
+367
+00:16:01,840 --> 00:16:03,450
+31D, down to your left.
+
+368
+00:16:03,450 --> 00:16:04,283
+Hello, sir.
+
+369
+00:16:04,283 --> 00:16:05,249
+You're in 3C.
+
+370
+00:16:05,249 --> 00:16:06,730
+There's only two of you
+in first-class today.
+
+371
+00:16:06,730 --> 00:16:07,677
+- Thank you.
+
+372
+00:16:07,677 --> 00:16:08,976
+Should be a grand flight.
+
+373
+00:16:08,976 --> 00:16:09,923
+- I'm sure it will be, sir.
+
+374
+00:16:14,520 --> 00:16:16,547
+- [Bob] What are you saying?
+
+375
+00:16:16,547 --> 00:16:17,480
+- I don't know.
+
+376
+00:16:17,480 --> 00:16:20,775
+Fuel readouts were handled
+by the second officer.
+
+377
+00:16:20,775 --> 00:16:22,550
+I guess it's your call.
+
+378
+00:16:22,550 --> 00:16:25,300
+- Well, Davis and Coley had
+no trouble bringing her in.
+
+379
+00:16:26,329 --> 00:16:27,570
+(door opening)
+
+380
+00:16:27,570 --> 00:16:29,500
+- We're all charged up and ready to go.
+
+381
+00:16:29,500 --> 00:16:30,346
+- [Both] Boo.
+
+382
+00:16:30,346 --> 00:16:32,502
+(laughing)
+
+383
+00:16:32,502 --> 00:16:33,352
+- You're welcome.
+
+384
+00:16:36,630 --> 00:16:39,870
+- I'd feel better if we
+still had a second officer.
+
+385
+00:16:39,870 --> 00:16:42,810
+Good to have someone to work the manuals.
+
+386
+00:16:42,810 --> 00:16:43,643
+- The whole point of these birds
+
+387
+00:16:43,643 --> 00:16:45,050
+is to cut back on the crew,
+
+388
+00:16:45,050 --> 00:16:46,250
+save the airlines money.
+
+389
+00:16:52,097 --> 00:16:54,297
+We're not saving 'em any money
+being parking attendants.
+
+390
+00:16:54,297 --> 00:16:55,250
+(chuckling)
+
+391
+00:16:55,250 --> 00:16:56,590
+Clear the deck, lads.
+
+392
+00:16:56,590 --> 00:16:58,140
+Let's get this bird in the sky.
+
+393
+00:17:07,760 --> 00:17:09,280
+- Thought he'd never make up his mind.
+
+394
+00:17:09,280 --> 00:17:10,380
+- Fussy bunch, pilots.
+
+395
+00:17:11,870 --> 00:17:13,330
+Good flight, guys.
+
+396
+00:17:13,330 --> 00:17:14,530
+- [Bob] Thank you.
+
+397
+00:17:14,530 --> 00:17:17,230
+- Tell Bernie that I will buy a full page
+
+398
+00:17:17,230 --> 00:17:20,150
+in his tribute book for
+muscular atrophy or dystrophy
+
+399
+00:17:20,150 --> 00:17:20,983
+or whatever.
+
+400
+00:17:20,983 --> 00:17:23,960
+Then call George and tell
+him to get in Bernie's face
+
+401
+00:17:23,960 --> 00:17:25,420
+about upping his orders with us.
+
+402
+00:17:25,420 --> 00:17:26,253
+(intercom dinging)
+
+403
+00:17:26,253 --> 00:17:27,086
+- [Larry] We've been cleared for takeoff.
+
+404
+00:17:27,086 --> 00:17:29,670
+Will all passengers kindly
+fasten their seatbelts?
+
+405
+00:17:29,670 --> 00:17:31,239
+(intercom dinging)
+
+406
+00:17:31,239 --> 00:17:34,906
+(dramatic orchestral music)
+
+407
+00:17:42,804 --> 00:17:46,471
+(instrument panels beeping)
+
+408
+00:17:49,248 --> 00:17:52,081
+(engines revving)
+
+409
+00:18:18,540 --> 00:18:20,560
+- Rather a sharp ascent.
+
+410
+00:18:20,560 --> 00:18:22,020
+- It's a feature of these 767s.
+
+411
+00:18:22,020 --> 00:18:23,260
+Sharpest ascent there is.
+
+412
+00:18:23,260 --> 00:18:25,750
+- Sharpest of any commercial airliner.
+
+413
+00:18:25,750 --> 00:18:27,730
+I was on a leer jet last month.
+
+414
+00:18:27,730 --> 00:18:29,741
+We went nearly vertical on takeoff.
+
+415
+00:18:29,741 --> 00:18:30,580
+(laughing)
+
+416
+00:18:30,580 --> 00:18:32,103
+I'm a pilot myself.
+
+417
+00:18:32,103 --> 00:18:35,120
+Perhaps the captain would give
+me a view of the flight deck
+
+418
+00:18:35,120 --> 00:18:36,260
+once we're up.
+
+419
+00:18:36,260 --> 00:18:37,653
+- I'm sure he'd be glad to.
+
+420
+00:18:43,124 --> 00:18:44,748
+(light orchestral music)
+
+421
+00:18:44,748 --> 00:18:45,581
+(intercom dinging)
+
+422
+00:18:45,581 --> 00:18:46,730
+- [Larry] The pilot has now turned off
+
+423
+00:18:46,730 --> 00:18:48,080
+the fasten seatbelt sign.
+
+424
+00:18:48,080 --> 00:18:50,000
+Please feel free to move about the cabin.
+
+425
+00:18:50,000 --> 00:18:52,940
+However, while seated, please
+keep your seatbelt fastened.
+
+426
+00:18:52,940 --> 00:18:53,863
+Thank you.
+
+427
+00:18:53,863 --> 00:18:54,696
+(intercom dinging)
+
+428
+00:18:54,696 --> 00:18:55,732
+- I think that's enough
+peanuts for now, honey.
+
+429
+00:18:55,732 --> 00:18:56,565
+Okay?
+
+430
+00:18:56,565 --> 00:18:57,550
+How 'bout a book?
+
+431
+00:18:57,550 --> 00:18:58,774
+What would you like me to read?
+
+432
+00:18:58,774 --> 00:19:00,496
+- Can I have another apple juice?
+
+433
+00:19:00,496 --> 00:19:02,870
+- How 'bout Babar, huh?
+
+434
+00:19:04,760 --> 00:19:05,810
+You wanna go forward?
+
+435
+00:19:07,017 --> 00:19:08,480
+- You don't mind?
+
+436
+00:19:08,480 --> 00:19:10,650
+- I'm amazed you managed
+to stay put this long.
+
+437
+00:19:10,650 --> 00:19:11,960
+Just remember to come back.
+
+438
+00:19:11,960 --> 00:19:13,749
+Your son likes your company.
+
+439
+00:19:13,749 --> 00:19:15,999
+(laughing)
+
+440
+00:19:19,513 --> 00:19:20,513
+Um, any 10s?
+
+441
+00:19:28,060 --> 00:19:30,501
+- [Bob] Great day for it, huh, Maurice.
+
+442
+00:19:30,501 --> 00:19:32,334
+- [Maurice] Mmm, yeah.
+
+443
+00:19:35,924 --> 00:19:36,841
+- You okay?
+
+444
+00:19:38,285 --> 00:19:39,540
+You okay?
+
+445
+00:19:39,540 --> 00:19:40,373
+- Yeah.
+
+446
+00:19:40,373 --> 00:19:43,343
+(knocking on door)
+
+447
+00:19:43,343 --> 00:19:44,184
+- Mind a visitor.
+
+448
+00:19:44,184 --> 00:19:45,250
+- Rick.
+
+449
+00:19:45,250 --> 00:19:46,600
+Get your dead butt in here.
+
+450
+00:19:49,700 --> 00:19:51,283
+- Simple enough for ya?
+
+451
+00:19:51,283 --> 00:19:52,116
+(chuckling)
+
+452
+00:19:52,116 --> 00:19:53,903
+- If it was any easier,
+they wouldn't need a pilot.
+
+453
+00:19:53,903 --> 00:19:54,736
+(laughing)
+
+454
+00:19:54,736 --> 00:19:56,373
+- [Rick] That would make my job easier.
+
+455
+00:19:57,270 --> 00:20:00,298
+- Hey, speaking of your job, what is that?
+
+456
+00:20:00,298 --> 00:20:01,323
+- You got an MEL?
+
+457
+00:20:02,524 --> 00:20:03,533
+- Yeah.
+
+458
+00:20:06,215 --> 00:20:07,100
+- It should be okay.
+
+459
+00:20:07,100 --> 00:20:08,810
+Just have to rely on your computer.
+
+460
+00:20:08,810 --> 00:20:09,860
+It'll fly her for ya.
+
+461
+00:20:10,910 --> 00:20:11,820
+There's more information there
+
+462
+00:20:11,820 --> 00:20:13,360
+than you know what to do with anyway.
+
+463
+00:20:13,360 --> 00:20:14,545
+- You got that right.
+
+464
+00:20:14,545 --> 00:20:15,800
+(laughing)
+
+465
+00:20:15,800 --> 00:20:17,150
+- So, how's your hockey, Bob?
+
+466
+00:20:17,150 --> 00:20:18,540
+Or have you given that up yet?
+
+467
+00:20:18,540 --> 00:20:20,201
+You know, you should at your age.
+
+468
+00:20:20,201 --> 00:20:21,050
+- Hey.
+
+469
+00:20:21,050 --> 00:20:23,191
+(instrument panel beeping)
+
+470
+00:20:23,191 --> 00:20:26,774
+(ominous orchestral music)
+
+471
+00:20:42,069 --> 00:20:45,652
+(instrument panel beeping)
+
+472
+00:20:47,653 --> 00:20:49,842
+- That's not right.
+
+473
+00:20:49,842 --> 00:20:51,342
+You have a manual?
+
+474
+00:21:14,951 --> 00:21:18,368
+(light orchestral music)
+
+475
+00:21:44,092 --> 00:21:47,675
+(ominous orchestral music)
+
+476
+00:21:48,687 --> 00:21:52,270
+(instrument panel beeping)
+
+477
+00:21:56,070 --> 00:21:58,290
+- Lads, it can't be this complicated.
+
+478
+00:21:58,290 --> 00:21:59,422
+- It isn't.
+
+479
+00:21:59,422 --> 00:22:00,255
+- You got something?
+
+480
+00:22:00,255 --> 00:22:02,570
+- Yeah, could be.
+
+481
+00:22:02,570 --> 00:22:05,390
+According to the book,
+the pump is probably fine
+
+482
+00:22:05,390 --> 00:22:06,840
+and there is a safety backup.
+
+483
+00:22:09,359 --> 00:22:12,910
+Either pump, left or right,
+can feed to both engines.
+
+484
+00:22:12,910 --> 00:22:16,380
+- Let's crossfeed the
+left side to both engines.
+
+485
+00:22:16,380 --> 00:22:17,213
+- Check.
+
+486
+00:22:19,229 --> 00:22:22,700
+(instrument panel dinging)
+
+487
+00:22:22,700 --> 00:22:25,290
+- What would you guys do without me?
+
+488
+00:22:25,290 --> 00:22:26,420
+- I knew the answer all along.
+
+489
+00:22:26,420 --> 00:22:27,909
+I just wanted to see if you
+guys would figure it out.
+
+490
+00:22:27,909 --> 00:22:29,430
+(laughing)
+
+491
+00:22:29,430 --> 00:22:31,080
+- Too exciting for my bladder.
+
+492
+00:22:31,080 --> 00:22:32,173
+I'll be right back.
+
+493
+00:22:33,631 --> 00:22:36,232
+(door opening)
+
+494
+00:22:36,232 --> 00:22:39,596
+(door closing)
+
+495
+00:22:39,596 --> 00:22:42,013
+- What's the matter with him?
+
+496
+00:22:43,758 --> 00:22:45,883
+- His wife is very sick.
+
+497
+00:22:45,883 --> 00:22:47,435
+- Oh.
+
+498
+00:22:47,435 --> 00:22:49,377
+- They have two young kids at home.
+
+499
+00:22:49,377 --> 00:22:50,960
+You know how it is.
+
+500
+00:22:52,173 --> 00:22:54,973
+I don't really think he wanted
+to go out on this flight.
+
+501
+00:22:56,870 --> 00:23:01,576
+Frankly, if I were him, I'd
+apply for some sick-leave.
+
+502
+00:23:01,576 --> 00:23:03,270
+- We don't have enough guys
+checked out on these things
+
+503
+00:23:03,270 --> 00:23:04,220
+as it is.
+
+504
+00:23:04,220 --> 00:23:06,417
+You know how important
+they are to the company.
+
+505
+00:23:06,417 --> 00:23:07,540
+- And to me.
+
+506
+00:23:07,540 --> 00:23:08,721
+I need this job.
+
+507
+00:23:08,721 --> 00:23:11,193
+I gotta buy me some new skates.
+
+508
+00:23:12,212 --> 00:23:13,933
+- A new set of legs is what you need.
+
+509
+00:23:13,933 --> 00:23:16,183
+(laughing)
+
+510
+00:23:18,535 --> 00:23:21,202
+(keys dropping)
+
+511
+00:23:23,103 --> 00:23:24,024
+- Oh, damn it.
+
+512
+00:23:24,024 --> 00:23:26,338
+I wanted to give him this.
+
+513
+00:23:26,338 --> 00:23:27,557
+(sighing)
+
+514
+00:23:27,557 --> 00:23:29,210
+Way to go, Beth, huh?
+
+515
+00:23:29,210 --> 00:23:30,433
+Send away for something,
+'cause you know it's gonna
+
+516
+00:23:30,433 --> 00:23:32,660
+make him happy and then you...
+
+517
+00:23:32,660 --> 00:23:34,756
+(tongue clicking)
+
+518
+00:23:34,756 --> 00:23:35,913
+(dramatic orchestral music)
+
+519
+00:23:35,913 --> 00:23:37,770
+Well, next trip, I guess.
+
+520
+00:23:39,496 --> 00:23:42,829
+Boy, will be glad when this day is over.
+
+521
+00:23:50,094 --> 00:23:50,971
+- Hi.
+
+522
+00:23:50,971 --> 00:23:51,837
+- Hi.
+
+523
+00:23:51,837 --> 00:23:53,550
+Got a weekend pilot in 3C,
+
+524
+00:23:53,550 --> 00:23:55,550
+says he'd like to visit the cockpit.
+
+525
+00:23:55,550 --> 00:23:56,960
+You think Pearson would mind?
+
+526
+00:23:56,960 --> 00:23:59,253
+- You better wait till
+Rick gets back to his seat.
+
+527
+00:24:00,457 --> 00:24:01,713
+- Got that beer for me?
+
+528
+00:24:02,830 --> 00:24:04,240
+The guy in 30F is knocking 'em back
+
+529
+00:24:04,240 --> 00:24:05,718
+faster than I can supply 'em.
+
+530
+00:24:05,718 --> 00:24:08,050
+- [Lynn] We're all out of
+the brand he's been drinking.
+
+531
+00:24:08,050 --> 00:24:08,980
+He finished 'em off.
+
+532
+00:24:08,980 --> 00:24:10,793
+- At this point, he won't notice.
+
+533
+00:24:12,890 --> 00:24:15,330
+- How's mister macho in 31D?
+
+534
+00:24:15,330 --> 00:24:18,490
+- On his third Vodka and
+tonic and in a deep sulk.
+
+535
+00:24:18,490 --> 00:24:19,563
+- Oh, how sad.
+
+536
+00:24:21,150 --> 00:24:21,983
+- I'll take this one.
+
+537
+00:24:21,983 --> 00:24:23,573
+Give you a chance to sit.
+
+538
+00:24:31,480 --> 00:24:33,000
+- So, are these planes so good
+
+539
+00:24:33,000 --> 00:24:34,969
+it only takes one guy to fly 'em.
+
+540
+00:24:34,969 --> 00:24:35,890
+(chuckling)
+
+541
+00:24:35,890 --> 00:24:37,463
+- Bob is more than enough.
+
+542
+00:24:38,315 --> 00:24:40,403
+These things fly by themselves.
+
+543
+00:24:42,060 --> 00:24:44,393
+Feel like I could've stayed home.
+
+544
+00:24:48,560 --> 00:24:50,230
+- How is Marie?
+
+545
+00:24:50,230 --> 00:24:51,380
+- Pretty much the same.
+
+546
+00:24:53,360 --> 00:24:54,193
+Not good.
+
+547
+00:24:55,720 --> 00:24:56,653
+- Sorry, Maurice.
+
+548
+00:24:56,653 --> 00:24:57,573
+- It's okay.
+
+549
+00:24:58,410 --> 00:25:00,113
+Or it'll be what it'll be.
+
+550
+00:25:03,450 --> 00:25:05,470
+How's things in the cabin?
+
+551
+00:25:05,470 --> 00:25:06,438
+Busy?
+
+552
+00:25:06,438 --> 00:25:07,271
+(laughing)
+
+553
+00:25:07,271 --> 00:25:08,104
+- It's less than half-full.
+
+554
+00:25:08,104 --> 00:25:09,870
+But I prefer it when it's
+so busy that you can't stop.
+
+555
+00:25:09,870 --> 00:25:11,640
+Time goes by faster.
+
+556
+00:25:11,640 --> 00:25:13,640
+- Well, you wouldn't get to
+enjoy the flight then, hmm?
+
+557
+00:25:13,640 --> 00:25:14,643
+- That's fine by me.
+
+558
+00:25:15,680 --> 00:25:16,513
+I hate flying.
+
+559
+00:25:20,100 --> 00:25:21,850
+- Anything I can get you here, sir?
+
+560
+00:25:23,000 --> 00:25:24,547
+- [Bob] Vodka tonic.
+
+561
+00:25:24,547 --> 00:25:25,553
+- I know, sir.
+
+562
+00:25:32,981 --> 00:25:33,814
+Everything okay here?
+
+563
+00:25:33,814 --> 00:25:34,790
+Can I get you anything?
+
+564
+00:25:36,930 --> 00:25:37,763
+- No, thank you.
+
+565
+00:25:37,763 --> 00:25:38,596
+We're fine.
+
+566
+00:25:38,596 --> 00:25:39,429
+- All right.
+
+567
+00:25:41,510 --> 00:25:42,520
+- You okay?
+
+568
+00:25:42,520 --> 00:25:43,738
+- Mm-hmm.
+
+569
+00:25:43,738 --> 00:25:44,571
+You?
+
+570
+00:25:54,240 --> 00:25:56,890
+- [Lynn] How's our littlest passenger?
+
+571
+00:25:56,890 --> 00:25:58,290
+- I think he needs a change.
+
+572
+00:25:59,172 --> 00:26:01,423
+Okay if I use an empty row?
+
+573
+00:26:02,570 --> 00:26:03,870
+- I don't see why not.
+
+574
+00:26:03,870 --> 00:26:05,755
+When it's this empty it
+shouldn't be a problem.
+
+575
+00:26:05,755 --> 00:26:08,132
+Do you mind if I help you?
+
+576
+00:26:08,132 --> 00:26:09,230
+I have a little baby at home.
+
+577
+00:26:09,230 --> 00:26:11,735
+This is my first time away from her.
+
+578
+00:26:11,735 --> 00:26:12,568
+Hi, sweetie.
+
+579
+00:26:12,568 --> 00:26:13,401
+- Thanks.
+
+580
+00:26:13,401 --> 00:26:14,234
+That'll be great.
+
+581
+00:26:14,234 --> 00:26:15,067
+- [Lynn] Is this your diaper bag.
+
+582
+00:26:15,067 --> 00:26:15,900
+- Yes, thank you.
+
+583
+00:26:17,092 --> 00:26:20,026
+Oh, you're gonna feel
+better, yes, you are.
+
+584
+00:26:20,026 --> 00:26:21,109
+Yes, you are.
+
+585
+00:26:30,730 --> 00:26:32,890
+- [Larry] Found your young explorer.
+
+586
+00:26:32,890 --> 00:26:34,370
+- Is my husband still in the cockpit
+
+587
+00:26:34,370 --> 00:26:35,557
+or did he leave me?
+
+588
+00:26:35,557 --> 00:26:36,390
+(laughing)
+
+589
+00:26:36,390 --> 00:26:37,624
+- I can't imagine he'd ever do that.
+
+590
+00:26:37,624 --> 00:26:39,164
+- You don't know him and airplanes.
+
+591
+00:26:39,164 --> 00:26:42,210
+If you can, would you remind
+him that he promised Chris
+
+592
+00:26:42,210 --> 00:26:43,117
+a trip up front.
+
+593
+00:26:43,117 --> 00:26:43,950
+- Done.
+
+594
+00:26:43,950 --> 00:26:45,470
+- Thank you.
+
+595
+00:26:45,470 --> 00:26:46,719
+So, where were you, huh?
+
+596
+00:26:46,719 --> 00:26:48,750
+(laughing)
+
+597
+00:26:48,750 --> 00:26:50,748
+- And as you know, CC the usual suspects.
+
+598
+00:26:50,748 --> 00:26:53,520
+Send it registered,
+return receipt requested.
+
+599
+00:26:53,520 --> 00:26:54,844
+- Oh, excuse me, I'm sorry.
+
+600
+00:26:54,844 --> 00:26:57,873
+- Any word on that trip up front?
+
+601
+00:26:57,873 --> 00:26:59,010
+- We're working on it.
+
+602
+00:26:59,010 --> 00:27:00,450
+There's an airline official
+in there at the moment,
+
+603
+00:27:00,450 --> 00:27:02,150
+but as soon as he's out, I'll ask.
+
+604
+00:27:05,670 --> 00:27:08,120
+- And Alicia, remind
+those airheads in travel
+
+605
+00:27:08,120 --> 00:27:09,430
+never to book me on a plane
+
+606
+00:27:09,430 --> 00:27:11,863
+that doesn't have in-flight phones.
+
+607
+00:27:16,560 --> 00:27:17,870
+- Lynn needs you to cover the back.
+
+608
+00:27:17,870 --> 00:27:19,630
+I think Hulk wants another Vodka.
+
+609
+00:27:19,630 --> 00:27:20,463
+- Again?
+
+610
+00:27:20,463 --> 00:27:21,513
+How many can he manage?
+
+611
+00:27:22,510 --> 00:27:24,119
+Hope he's not driving when we land.
+
+612
+00:27:24,119 --> 00:27:26,300
+- Maurice, when you go back,
+
+613
+00:27:26,300 --> 00:27:27,540
+tell Rick his wife misses him,
+
+614
+00:27:27,540 --> 00:27:29,656
+the guy in 3C, he still wants a tour,
+
+615
+00:27:29,656 --> 00:27:31,713
+and I'd like a massage.
+
+616
+00:27:35,870 --> 00:27:37,450
+- [Bob] So, what are
+you flying these days?
+
+617
+00:27:37,450 --> 00:27:41,280
+- Well, I tried a P51
+at the Farnham Air Show.
+
+618
+00:27:41,280 --> 00:27:43,830
+It was fun, but Pearl
+and I are talking about
+
+619
+00:27:43,830 --> 00:27:45,850
+moving to the west coast,
+so if that happens,
+
+620
+00:27:45,850 --> 00:27:47,783
+I'll be looking for a seaplane.
+
+621
+00:27:47,783 --> 00:27:52,137
+- Oh, the ol' pontoons,
+laddie, the ol' pontoons.
+
+622
+00:27:52,137 --> 00:27:53,220
+- [Rick] Hey.
+
+623
+00:27:54,305 --> 00:27:57,007
+(instrument panel beeping)
+
+624
+00:27:57,007 --> 00:27:58,230
+- What the hell is that?
+
+625
+00:27:58,230 --> 00:27:59,330
+- Second pump failure?
+
+626
+00:28:00,403 --> 00:28:01,236
+(ominous orchestral music)
+
+627
+00:28:01,236 --> 00:28:02,069
+- Can't be.
+
+628
+00:28:03,006 --> 00:28:04,256
+- You better go off auto.
+
+629
+00:28:07,512 --> 00:28:08,345
+(intercom dinging)
+
+630
+00:28:08,345 --> 00:28:11,220
+- First officer, Quintal,
+to the front, please.
+
+631
+00:28:11,220 --> 00:28:12,503
+- [Rick] I'll hit the books.
+
+632
+00:28:17,465 --> 00:28:20,048
+(door opening)
+
+633
+00:28:20,962 --> 00:28:23,253
+(door closing)
+
+634
+00:28:23,253 --> 00:28:25,650
+- Apparent fuel pump failure.
+
+635
+00:28:25,650 --> 00:28:26,707
+Get the drill.
+
+636
+00:28:36,870 --> 00:28:37,703
+- Fuel gauge.
+
+637
+00:28:43,710 --> 00:28:44,610
+- Non-operational.
+
+638
+00:28:46,110 --> 00:28:47,060
+- Release the pump.
+
+639
+00:28:48,180 --> 00:28:50,330
+- Check, no help.
+
+640
+00:28:50,330 --> 00:28:52,750
+- [Maurice] Re-engage crossfeed.
+
+641
+00:28:52,750 --> 00:28:53,583
+(instrument panel beeping)
+
+642
+00:28:53,583 --> 00:28:56,050
+- Check, no help.
+
+643
+00:28:56,050 --> 00:28:57,400
+- [Maurice] Scroll digital.
+
+644
+00:28:58,243 --> 00:29:01,780
+(computer beeping)
+
+645
+00:29:01,780 --> 00:29:04,133
+- Scroll reads ample fuel and range.
+
+646
+00:29:10,174 --> 00:29:11,419
+(alarm buzzing)
+
+647
+00:29:11,419 --> 00:29:12,469
+(rumbling)
+
+648
+00:29:12,469 --> 00:29:13,302
+- Ooh.
+
+649
+00:29:13,302 --> 00:29:14,135
+- Oh, God.
+
+650
+00:29:14,135 --> 00:29:14,968
+What was that?
+
+651
+00:29:14,968 --> 00:29:16,070
+- Oh, probably just hit
+a little air pocket.
+
+652
+00:29:16,070 --> 00:29:17,910
+Nothing to worry about.
+
+653
+00:29:17,910 --> 00:29:18,948
+Bye, sweetheart.
+
+654
+00:29:18,948 --> 00:29:20,081
+See you later.
+
+655
+00:29:20,081 --> 00:29:22,377
+I'll just take these.
+
+656
+00:29:22,377 --> 00:29:24,057
+- Let's go sit down.
+
+657
+00:29:24,057 --> 00:29:25,933
+- What was that?
+
+658
+00:29:25,933 --> 00:29:27,303
+- I'm sure it was nothing.
+
+659
+00:29:30,516 --> 00:29:32,964
+Pearl, I don't know what that was,
+
+660
+00:29:32,964 --> 00:29:35,270
+but I am sure that
+everything is all right.
+
+661
+00:29:35,270 --> 00:29:37,691
+- Well, would you please
+ask Rick to come back here
+
+662
+00:29:37,691 --> 00:29:38,880
+as soon as he can.
+
+663
+00:29:38,880 --> 00:29:40,043
+- Yes, I'd be glad to.
+
+664
+00:29:40,043 --> 00:29:40,876
+- Thank you.
+
+665
+00:29:44,919 --> 00:29:46,287
+(suspenseful orchestral music)
+
+666
+00:29:46,287 --> 00:29:49,530
+(knocking on door)
+
+667
+00:29:49,530 --> 00:29:50,960
+- The weekender wonders whether visit--
+
+668
+00:29:50,960 --> 00:29:52,038
+- Not now, Larry.
+
+669
+00:29:52,038 --> 00:29:53,863
+- Okay.
+
+670
+00:29:53,863 --> 00:29:55,989
+Then Rick, your wife wonders
+whether you're still on board.
+
+671
+00:29:55,989 --> 00:29:57,760
+- Yeah, I guess I better
+see how she's doing.
+
+672
+00:29:57,760 --> 00:30:00,291
+- Hey, maybe you can in here
+until Maurice figures a load,
+
+673
+00:30:00,291 --> 00:30:03,520
+just in case we need a little
+help with our calculations.
+
+674
+00:30:03,520 --> 00:30:04,650
+- Yeah, you got it.
+
+675
+00:30:04,650 --> 00:30:06,251
+Tell her I'll be along soon, thanks.
+
+676
+00:30:06,251 --> 00:30:07,110
+- Okay.
+
+677
+00:30:07,110 --> 00:30:08,730
+- Larry, take it easy, right?
+
+678
+00:30:08,730 --> 00:30:10,197
+We wouldn't want to worry anyone.
+
+679
+00:30:10,197 --> 00:30:11,503
+- Of course not, Captain.
+
+680
+00:30:15,440 --> 00:30:16,540
+- [Bob] How's it look?
+
+681
+00:30:17,772 --> 00:30:18,855
+- Impossible.
+
+682
+00:30:20,932 --> 00:30:23,640
+- Whatever it is, it has to be possible.
+
+683
+00:30:23,640 --> 00:30:25,440
+Otherwise, it wouldn't be happening.
+
+684
+00:30:27,220 --> 00:30:28,580
+What's your best guess?
+
+685
+00:30:30,548 --> 00:30:32,750
+(pencil scribbling)
+
+686
+00:30:32,750 --> 00:30:34,413
+- Try changing the altitude.
+
+687
+00:30:49,851 --> 00:30:52,990
+(instrument panel beeping)
+
+688
+00:30:52,990 --> 00:30:55,320
+That should prove it.
+
+689
+00:30:55,320 --> 00:30:56,390
+- Both lights are off.
+
+690
+00:30:56,390 --> 00:30:57,720
+- Exactly.
+
+691
+00:30:57,720 --> 00:31:00,260
+It's like the idiot light
+on a car's gas tank.
+
+692
+00:31:00,260 --> 00:31:03,120
+You go downhill, the fuel goes
+forward, puts the light off.
+
+693
+00:31:03,120 --> 00:31:06,093
+You go uphill, the light
+turns back on again.
+
+694
+00:31:06,970 --> 00:31:08,793
+It's not a pump problem.
+
+695
+00:31:12,460 --> 00:31:13,350
+- Then what is it?
+
+696
+00:31:13,350 --> 00:31:14,426
+Get the ops manual.
+
+697
+00:31:14,426 --> 00:31:18,343
+(suspenseful orchestral music)
+
+698
+00:31:32,390 --> 00:31:33,990
+Maurice,
+
+699
+00:31:33,990 --> 00:31:36,827
+obviously it's not a pump problem, is it?
+
+700
+00:31:38,643 --> 00:31:39,750
+- No.
+
+701
+00:31:39,750 --> 00:31:43,385
+- Well, if it isn't a
+pump, then it's the fuel.
+
+702
+00:31:43,385 --> 00:31:44,218
+- Yeah.
+
+703
+00:31:44,218 --> 00:31:46,933
+- And more specifically, the lack of it.
+
+704
+00:31:49,000 --> 00:31:50,503
+And both the lights are still out.
+
+705
+00:31:52,340 --> 00:31:54,405
+Here, you check it.
+
+706
+00:31:54,405 --> 00:31:55,843
+These are the ground crew figures.
+
+707
+00:31:59,280 --> 00:32:00,430
+- [Meg] Bob in the air?
+
+708
+00:32:00,430 --> 00:32:02,590
+- Yeah, he took the
+flight out to Edmonton,
+
+709
+00:32:02,590 --> 00:32:03,880
+picking up his folks.
+
+710
+00:32:03,880 --> 00:32:06,252
+- Ah, that's why the big marketing
+
+711
+00:32:06,252 --> 00:32:07,842
+and the big shopping and all.
+
+712
+00:32:07,842 --> 00:32:10,574
+- I thought I'd show
+off my cooking a little.
+
+713
+00:32:10,574 --> 00:32:11,990
+- Good for you.
+
+714
+00:32:11,990 --> 00:32:15,480
+- I can't remember the last
+time we ate in the dining room.
+
+715
+00:32:15,480 --> 00:32:16,710
+- I guess he's been pretty busy, huh?
+
+716
+00:32:16,710 --> 00:32:18,690
+- What, this time of year?
+
+717
+00:32:18,690 --> 00:32:20,310
+Pass like ships in the night.
+
+718
+00:32:20,310 --> 00:32:23,490
+Goes with the territory, I guess, huh?
+
+719
+00:32:23,490 --> 00:32:24,880
+- [Meg] Yeah.
+
+720
+00:32:24,880 --> 00:32:26,293
+- Been married for 25 years.
+
+721
+00:32:27,440 --> 00:32:31,073
+What we lack in adventure, we
+make up for in consistency.
+
+722
+00:32:34,270 --> 00:32:35,170
+- You okay, kiddo?
+
+723
+00:32:36,108 --> 00:32:37,586
+- Yeah, I suppose.
+
+724
+00:32:37,586 --> 00:32:39,834
+(laughing)
+
+725
+00:32:39,834 --> 00:32:40,846
+How 'bout a cup of coffee?
+
+726
+00:32:40,846 --> 00:32:42,060
+- I'd love a cup of coffee.
+
+727
+00:32:42,060 --> 00:32:43,140
+- Your house or mine?
+
+728
+00:32:43,140 --> 00:32:43,973
+- Yours.
+
+729
+00:32:43,973 --> 00:32:45,189
+- Okay.
+
+730
+00:32:45,189 --> 00:32:49,106
+(suspenseful orchestral music)
+
+731
+00:33:00,720 --> 00:33:03,260
+- Someone screwed up
+the metric conversion.
+
+732
+00:33:03,260 --> 00:33:05,750
+I just can't tell where or by how much,
+
+733
+00:33:05,750 --> 00:33:07,510
+but one thing's for sure,
+
+734
+00:33:07,510 --> 00:33:10,283
+there's not enough fuel in
+either tank to make Edmonton.
+
+735
+00:33:13,401 --> 00:33:14,234
+(sighing)
+
+736
+00:33:14,234 --> 00:33:16,143
+- Maurice, chart us a new course, lad.
+
+737
+00:33:21,540 --> 00:33:24,290
+- Our best bet's probably Winnipeg.
+
+738
+00:33:24,290 --> 00:33:27,570
+Get there on a couple
+hundred gallons or liters
+
+739
+00:33:27,570 --> 00:33:30,293
+or whatever we got in there.
+
+740
+00:33:31,742 --> 00:33:33,659
+- Winnipeg, is it, huh?
+
+741
+00:33:37,730 --> 00:33:38,780
+Look at that weather.
+
+742
+00:33:39,759 --> 00:33:42,250
+- Yeah, they said they're
+expecting low clouds,
+
+743
+00:33:42,250 --> 00:33:43,680
+but you should be able to ride it out
+
+744
+00:33:43,680 --> 00:33:45,230
+without burning too much fuel.
+
+745
+00:33:45,230 --> 00:33:48,440
+These things are designed
+to fly, not crash.
+
+746
+00:33:48,440 --> 00:33:49,665
+- True enough.
+
+747
+00:33:49,665 --> 00:33:53,500
+Just need enough fuel to
+keep our forward motion.
+
+748
+00:33:53,500 --> 00:33:55,853
+- Now, that you should have.
+
+749
+00:33:59,599 --> 00:34:01,230
+(radio clicking)
+
+750
+00:34:01,230 --> 00:34:05,393
+- Winnipeg Center, this
+is Canada World 174.
+
+751
+00:34:06,570 --> 00:34:08,640
+- See if you can get 'em to
+get in touch with my wife,
+
+752
+00:34:08,640 --> 00:34:09,473
+will you?
+
+753
+00:34:09,473 --> 00:34:12,183
+I want her to know where I
+am, in case she needs me.
+
+754
+00:34:17,470 --> 00:34:21,203
+- Winnipeg Center, Canada World 174.
+
+755
+00:34:22,670 --> 00:34:24,620
+- Canada World 174, Winnipeg, go ahead.
+
+756
+00:34:30,940 --> 00:34:32,550
+Loud and clear, 174.
+
+757
+00:34:32,550 --> 00:34:36,100
+I have you radar identified
+140 miles northeast
+
+758
+00:34:36,100 --> 00:34:37,430
+of Winnipeg.
+
+759
+00:34:37,430 --> 00:34:39,860
+You're cleared to the Winnipeg
+airport for an approach.
+
+760
+00:34:39,860 --> 00:34:42,495
+Plan runway zero four left, over.
+
+761
+00:34:42,495 --> 00:34:43,328
+(suspenseful orchestral music)
+
+762
+00:34:43,328 --> 00:34:44,919
+- Two additional things.
+
+763
+00:34:44,919 --> 00:34:47,958
+Get a crew list and notify the families
+
+764
+00:34:47,958 --> 00:34:49,764
+of a delay due to diversion.
+
+765
+00:34:49,764 --> 00:34:53,003
+Put Maurice Quintal on
+the top of the list.
+
+766
+00:34:55,920 --> 00:34:58,683
+Right, we'll stay on the air.
+
+767
+00:35:00,501 --> 00:35:02,980
+(knocking on door)
+
+768
+00:35:02,980 --> 00:35:05,420
+- Is the problem getting worse?
+
+769
+00:35:05,420 --> 00:35:07,820
+- Yeah, minor technical difficulty.
+
+770
+00:35:07,820 --> 00:35:10,030
+We're diverting to Winnipeg.
+
+771
+00:35:10,030 --> 00:35:11,750
+Better let 'em know, Larry.
+
+772
+00:35:11,750 --> 00:35:12,583
+- Right away.
+
+773
+00:35:19,649 --> 00:35:21,816
+(sighing)
+
+774
+00:35:22,650 --> 00:35:25,207
+- He's gonna be all right.
+
+775
+00:35:25,207 --> 00:35:28,707
+(instrument panel beeping)
+
+776
+00:35:28,707 --> 00:35:29,910
+Oh, my God.
+
+777
+00:35:29,910 --> 00:35:31,123
+We're running on fumes.
+
+778
+00:35:35,060 --> 00:35:37,507
+Winnipeg Center, this is 174.
+
+779
+00:35:38,547 --> 00:35:41,670
+We've got a bigger
+problem than we thought.
+
+780
+00:35:50,621 --> 00:35:54,538
+(suspenseful orchestral music)
+
+781
+00:35:59,370 --> 00:36:00,632
+- Roger, 174.
+
+782
+00:36:00,632 --> 00:36:04,215
+(instrument panel beeping)
+
+783
+00:36:16,997 --> 00:36:17,830
+- [Pearl] Okay, go down.
+
+784
+00:36:17,830 --> 00:36:18,663
+- [Chris] Right there?
+
+785
+00:36:18,663 --> 00:36:19,496
+- [Pearl] Then across.
+
+786
+00:36:19,496 --> 00:36:20,461
+Back up.
+
+787
+00:36:20,461 --> 00:36:23,630
+All the way to 23.
+
+788
+00:36:23,630 --> 00:36:24,463
+Keep going.
+
+789
+00:36:24,463 --> 00:36:25,446
+There, there, there.
+
+790
+00:36:25,446 --> 00:36:26,279
+- [Chris] Right there?
+
+791
+00:36:26,279 --> 00:36:27,889
+- [Pearl] Yeah, come on.
+
+792
+00:36:27,889 --> 00:36:28,836
+- [Chris] There.
+
+793
+00:36:28,836 --> 00:36:29,834
+- There, see?
+
+794
+00:36:29,834 --> 00:36:31,190
+And it's just like the same one we're on.
+
+795
+00:36:31,190 --> 00:36:32,430
+- Yeah, it is.
+
+796
+00:36:32,430 --> 00:36:33,580
+- So, how 'bout a book?
+
+797
+00:36:34,532 --> 00:36:35,365
+Oh?
+
+798
+00:36:37,189 --> 00:36:38,352
+- Pictures.
+
+799
+00:36:38,352 --> 00:36:40,258
+- Be my guest.
+
+800
+00:36:40,258 --> 00:36:41,091
+Pick a color, any color.
+
+801
+00:36:41,091 --> 00:36:44,664
+- Okay, I think I'm
+gonna go with this color.
+
+802
+00:36:44,664 --> 00:36:45,497
+- Fine by me.
+
+803
+00:36:45,497 --> 00:36:46,330
+(intercom dinging)
+
+804
+00:36:46,330 --> 00:36:47,940
+- [Larry] Folks, we're
+truly sorry about this,
+
+805
+00:36:47,940 --> 00:36:50,520
+but the technical problem
+that delayed us continues
+
+806
+00:36:50,520 --> 00:36:51,659
+to hamper the pilots.
+
+807
+00:36:51,659 --> 00:36:54,006
+They've decided to divert to Winnipeg.
+
+808
+00:36:54,006 --> 00:36:56,240
+We should land there in a few minutes
+
+809
+00:36:56,240 --> 00:36:59,326
+where arrangements will be
+made to get us to Edmonton.
+
+810
+00:36:59,326 --> 00:37:01,599
+Passengers with connecting flights
+
+811
+00:37:01,599 --> 00:37:03,893
+should inform the cabin staff.
+
+812
+00:37:05,757 --> 00:37:09,640
+CWA regrets any inconvenience
+this unexpected diversion
+
+813
+00:37:09,640 --> 00:37:10,473
+may cause.
+
+814
+00:37:10,473 --> 00:37:12,431
+(intercom dinging)
+
+815
+00:37:12,431 --> 00:37:15,587
+- Come on, I know you
+can do better than that.
+
+816
+00:37:18,690 --> 00:37:20,650
+- Even if the load
+estimate is off by half,
+
+817
+00:37:20,650 --> 00:37:21,510
+you should be able to make it
+
+818
+00:37:21,510 --> 00:37:23,090
+with a couple of gallons to spare.
+
+819
+00:37:23,090 --> 00:37:25,083
+You can drive us to the hotel, Bob.
+
+820
+00:37:25,083 --> 00:37:26,650
+(chuckling)
+
+821
+00:37:26,650 --> 00:37:29,200
+- Depends on what it takes
+to buck this turbulence.
+
+822
+00:37:30,280 --> 00:37:31,273
+Heavy headwinds.
+
+823
+00:37:32,220 --> 00:37:33,053
+- Here's how I figure it.
+
+824
+00:37:33,053 --> 00:37:33,886
+Double check me.
+
+825
+00:37:37,180 --> 00:37:39,180
+- [Man Over Radio] Canada 174, Winnipeg.
+
+826
+00:37:40,184 --> 00:37:43,307
+- Go ahead, Winnipeg Center, this is 174.
+
+827
+00:37:44,590 --> 00:37:47,280
+- Roger, 174, you're
+within landing range now.
+
+828
+00:37:47,280 --> 00:37:49,093
+I'll be handing you off
+to your approach control
+
+829
+00:37:49,093 --> 00:37:52,471
+and we'll be listening
+and hanging in with you.
+
+830
+00:37:52,471 --> 00:37:55,129
+The emergency procedures will be in place.
+
+831
+00:37:55,129 --> 00:37:57,633
+Contact approach control now on 119.7.
+
+832
+00:37:58,473 --> 00:38:00,540
+- Good afternoon, Canada World 174,
+
+833
+00:38:00,540 --> 00:38:02,120
+this is Winnipeg approach.
+
+834
+00:38:02,120 --> 00:38:05,220
+Got you at about 22,000
+feet and 130 miles.
+
+835
+00:38:05,220 --> 00:38:06,498
+- [Maurice] 22,000 feet.
+
+836
+00:38:06,498 --> 00:38:08,240
+- [Bob] Thanks, approach.
+
+837
+00:38:08,240 --> 00:38:09,220
+- [Maurice] 130 miles.
+
+838
+00:38:09,220 --> 00:38:11,100
+- We're working on our glide path now.
+
+839
+00:38:11,100 --> 00:38:14,170
+- Ground speed, 335.
+
+840
+00:38:14,170 --> 00:38:15,143
+Glide path.
+
+841
+00:38:16,750 --> 00:38:17,850
+Got it?
+
+842
+00:38:17,850 --> 00:38:19,530
+- Okay, listen, okay?
+
+843
+00:38:19,530 --> 00:38:23,000
+Loaded, 20,345 units, all right,
+
+844
+00:38:23,000 --> 00:38:26,460
+but it was pounds, not kilos.
+
+845
+00:38:26,460 --> 00:38:27,731
+- Are you serious?
+
+846
+00:38:27,731 --> 00:38:28,564
+(suspenseful orchestral music)
+
+847
+00:38:28,564 --> 00:38:29,397
+- Yeah.
+
+848
+00:38:32,450 --> 00:38:34,793
+- That's 2.2 pounds per kilo.
+
+849
+00:38:37,810 --> 00:38:40,596
+You're telling me we're
+less than half-loaded?
+
+850
+00:38:40,596 --> 00:38:41,429
+- Yeah.
+
+851
+00:38:42,485 --> 00:38:44,733
+- Let me see this.
+
+852
+00:38:47,730 --> 00:38:50,280
+- Have Larry report to the
+flight deck immediately.
+
+853
+00:38:52,381 --> 00:38:53,214
+(alarm ringing)
+
+854
+00:38:53,214 --> 00:38:54,676
+- Make sure the Red Cross is alerted
+
+855
+00:38:54,676 --> 00:38:56,965
+and have a mobile blood
+bank get out there with us.
+
+856
+00:38:56,965 --> 00:38:57,798
+Let's go!
+
+857
+00:39:01,987 --> 00:39:03,864
+- Larry, get your crew together.
+
+858
+00:39:03,864 --> 00:39:07,340
+Run over the emergency landing procedures.
+
+859
+00:39:07,340 --> 00:39:08,820
+Don't freak out the passengers.
+
+860
+00:39:08,820 --> 00:39:10,830
+Do it behind the curtains.
+
+861
+00:39:10,830 --> 00:39:11,730
+Keep it cool.
+
+862
+00:39:27,081 --> 00:39:29,831
+(sirens wailing)
+
+863
+00:39:53,937 --> 00:39:54,770
+(intercom dinging)
+
+864
+00:39:54,770 --> 00:39:56,170
+- [Larry] Would the cabin crew
+
+865
+00:39:56,170 --> 00:39:57,870
+please report to the forward galley?
+
+866
+00:39:57,870 --> 00:39:58,703
+(intercom dinging)
+
+867
+00:39:58,703 --> 00:40:00,303
+- Here's to accurate dental records.
+
+868
+00:40:01,210 --> 00:40:03,450
+- [Bob] Hey, what the hell's going on?
+
+869
+00:40:03,450 --> 00:40:04,283
+- Routine, sir.
+
+870
+00:40:04,283 --> 00:40:05,970
+Just routine for us to
+meet on long flights,
+
+871
+00:40:05,970 --> 00:40:07,010
+check the liquor inventory.
+
+872
+00:40:07,010 --> 00:40:08,050
+- Don't give me that bull.
+
+873
+00:40:08,050 --> 00:40:09,000
+I'm a paying customer.
+
+874
+00:40:09,000 --> 00:40:09,990
+I pay your damn wages.
+
+875
+00:40:09,990 --> 00:40:11,100
+Now, what's going on?
+
+876
+00:40:11,100 --> 00:40:13,669
+- If you must swear, could
+you keep your voice down?
+
+877
+00:40:13,669 --> 00:40:14,830
+- Hey, hey, hey.
+
+878
+00:40:14,830 --> 00:40:17,291
+- I knew I shouldn't have bothered
+
+879
+00:40:17,291 --> 00:40:19,932
+with my stupid family reunion.
+
+880
+00:40:19,932 --> 00:40:20,765
+I knew it.
+
+881
+00:40:20,765 --> 00:40:23,539
+Thank God I didn't bring Gloria along.
+
+882
+00:40:23,539 --> 00:40:24,976
+- At least you're on vacation.
+
+883
+00:40:24,976 --> 00:40:27,590
+I gotta go back to work on Monday.
+
+884
+00:40:27,590 --> 00:40:28,914
+- What do you do?
+
+885
+00:40:28,914 --> 00:40:32,009
+- Coach at the local high school.
+
+886
+00:40:32,009 --> 00:40:35,313
+- Well, I guess I pay
+your wages then, don't I?
+
+887
+00:40:35,313 --> 00:40:37,646
+(chuckling)
+
+888
+00:40:39,337 --> 00:40:41,837
+(baby crying)
+
+889
+00:40:52,565 --> 00:40:54,690
+(dramatic orchestral music)
+
+890
+00:40:54,690 --> 00:40:55,523
+- We'll be fine.
+
+891
+00:40:58,152 --> 00:40:58,985
+- Or not.
+
+892
+00:41:00,429 --> 00:41:01,346
+Either way.
+
+893
+00:41:03,910 --> 00:41:05,993
+At least there's no kids.
+
+894
+00:41:07,210 --> 00:41:09,010
+- Well, it's like we've always said,
+
+895
+00:41:09,960 --> 00:41:11,860
+kids and marriage aren't for everyone.
+
+896
+00:41:12,960 --> 00:41:14,600
+- No.
+
+897
+00:41:14,600 --> 00:41:15,823
+Certainly not us.
+
+898
+00:41:16,970 --> 00:41:19,270
+Wouldn't want to repeat
+our parents' mistakes.
+
+899
+00:41:33,260 --> 00:41:34,853
+- So, how's school?
+
+900
+00:41:35,720 --> 00:41:36,553
+- It's fine.
+
+901
+00:41:36,553 --> 00:41:37,386
+Keeps me occupied.
+
+902
+00:41:37,386 --> 00:41:40,300
+Bob's away, kids are grown.
+
+903
+00:41:40,300 --> 00:41:41,841
+- Tell me.
+
+904
+00:41:41,841 --> 00:41:44,748
+I've been thinking about
+taking classes myself.
+
+905
+00:41:44,748 --> 00:41:45,621
+- [Beth] Yeah?
+
+906
+00:41:45,621 --> 00:41:46,454
+- [Meg] Yeah.
+
+907
+00:41:46,454 --> 00:41:49,050
+Leslie goes off to college in the fall.
+
+908
+00:41:49,050 --> 00:41:50,220
+Can you believe it?
+
+909
+00:41:50,220 --> 00:41:51,053
+- You're kidding.
+
+910
+00:41:51,053 --> 00:41:51,886
+- No.
+
+911
+00:41:52,930 --> 00:41:54,890
+How are you and Bob doing?
+
+912
+00:41:54,890 --> 00:41:56,340
+- Oh, we're the same as ever.
+
+913
+00:41:59,910 --> 00:42:01,940
+Things fall into patterns.
+
+914
+00:42:01,940 --> 00:42:03,133
+You ever notice that?
+
+915
+00:42:03,133 --> 00:42:04,221
+- Yep.
+
+916
+00:42:04,221 --> 00:42:07,130
+(laughing)
+
+917
+00:42:07,130 --> 00:42:10,390
+Lots of years create lots of habits.
+
+918
+00:42:10,390 --> 00:42:13,014
+- Do you find that you start
+taking things for granted?
+
+919
+00:42:13,014 --> 00:42:13,950
+- Like what?
+
+920
+00:42:13,950 --> 00:42:16,410
+- I don't know, the small stuff.
+
+921
+00:42:16,410 --> 00:42:19,210
+Little things that are left unsaid
+
+922
+00:42:19,210 --> 00:42:22,123
+because you think you've
+got a lot of time later.
+
+923
+00:42:24,458 --> 00:42:25,750
+- But there always is,
+
+924
+00:42:25,750 --> 00:42:26,690
+time later, I mean.
+
+925
+00:42:26,690 --> 00:42:28,079
+There just is.
+
+926
+00:42:28,079 --> 00:42:29,720
+(dramatic orchestral music)
+
+927
+00:42:29,720 --> 00:42:30,553
+- Yeah, I guess.
+
+928
+00:42:35,849 --> 00:42:37,735
+(suspenseful orchestral music)
+
+929
+00:42:37,735 --> 00:42:40,650
+(pencil scribbling)
+
+930
+00:42:40,650 --> 00:42:41,800
+- Well, how am I doing?
+
+931
+00:42:42,770 --> 00:42:45,683
+- Not good news, but not a disaster.
+
+932
+00:42:49,481 --> 00:42:50,600
+(radio clicking)
+
+933
+00:42:50,600 --> 00:42:52,150
+- Winnipeg Center, this is 174.
+
+934
+00:42:55,039 --> 00:42:57,510
+We think we have a plan for a glide path.
+
+935
+00:42:57,510 --> 00:42:59,713
+That is if nothing else goes wrong.
+
+936
+00:43:00,820 --> 00:43:01,760
+- You'll be fine.
+
+937
+00:43:01,760 --> 00:43:03,710
+We're clearing zero four left for you
+
+938
+00:43:03,710 --> 00:43:06,333
+and we'll have a welcoming
+party when you're on the ground.
+
+939
+00:43:07,520 --> 00:43:08,380
+- [Bob] Good idea, both.
+
+940
+00:43:08,380 --> 00:43:09,368
+- Supervisor,
+
+941
+00:43:09,368 --> 00:43:12,274
+we're assigning 174 to zero four left.
+
+942
+00:43:12,274 --> 00:43:14,320
+Are the emergency procedures in place?
+
+943
+00:43:14,320 --> 00:43:15,823
+- [Supervisor] That's affirmative.
+
+944
+00:43:18,818 --> 00:43:21,485
+(siren wailing)
+
+945
+00:43:28,953 --> 00:43:30,059
+- Form into first rank.
+
+946
+00:43:30,059 --> 00:43:31,193
+Give a path to the medics.
+
+947
+00:43:31,193 --> 00:43:34,393
+And make sure all the ambulances
+are loaded with burn units.
+
+948
+00:43:35,294 --> 00:43:37,940
+Double check it, hurry, hurry!
+
+949
+00:43:39,845 --> 00:43:43,762
+(suspenseful orchestral music)
+
+950
+00:43:48,400 --> 00:43:49,790
+- Well?
+
+951
+00:43:49,790 --> 00:43:51,593
+- Fair, only fair.
+
+952
+00:43:54,700 --> 00:43:55,750
+This front gets any thicker,
+
+953
+00:43:55,750 --> 00:43:57,586
+it's gonna slow us, significantly.
+
+954
+00:43:57,586 --> 00:43:59,450
+(chuckling)
+
+955
+00:43:59,450 --> 00:44:02,000
+- If that's our only problem,
+we're in great shape.
+
+956
+00:44:03,150 --> 00:44:05,893
+- Bob only lies when it
+comes to hockey, right Bob?
+
+957
+00:44:07,038 --> 00:44:08,643
+I'm gonna go see Pearl and Chris.
+
+958
+00:44:10,580 --> 00:44:12,670
+- Good idea, leave this to the pros,
+
+959
+00:44:12,670 --> 00:44:13,840
+but if you feel anything go wrong,
+
+960
+00:44:13,840 --> 00:44:14,950
+you know where we are.
+
+961
+00:44:14,950 --> 00:44:16,693
+- Yeah, same here if you need me.
+
+962
+00:44:21,290 --> 00:44:22,240
+- There's some kids back there.
+
+963
+00:44:22,240 --> 00:44:24,990
+Make sure the parents know
+to put their masks on first.
+
+964
+00:44:33,751 --> 00:44:36,260
+- Are you the airline
+official from the cockpit?
+
+965
+00:44:36,260 --> 00:44:39,011
+Because if there's room
+now, I thought I'd pop in.
+
+966
+00:44:39,011 --> 00:44:40,870
+- We're in a landing mode.
+
+967
+00:44:40,870 --> 00:44:42,830
+Right now's probably not a good time.
+
+968
+00:44:42,830 --> 00:44:45,163
+- I've never seen a computerized cockpit.
+
+969
+00:44:47,070 --> 00:44:49,330
+- Well, landing's all done by numbers.
+
+970
+00:44:49,330 --> 00:44:51,313
+Maybe when we take off for Edmonton.
+
+971
+00:44:54,750 --> 00:44:57,010
+- Just bring the Vancouver
+people to Edmonton.
+
+972
+00:44:57,010 --> 00:44:58,290
+Save me half a day.
+
+973
+00:44:58,290 --> 00:45:00,620
+These idiot delays are
+costing us a fortune.
+
+974
+00:45:00,620 --> 00:45:03,653
+And I don't want to hear
+about Bill's junior son.
+
+975
+00:45:12,430 --> 00:45:13,263
+- We're okay.
+
+976
+00:45:16,590 --> 00:45:18,200
+There's nothing to worry about,
+
+977
+00:45:18,200 --> 00:45:20,190
+except we have to go to Winnipeg.
+
+978
+00:45:20,190 --> 00:45:22,100
+Other than that, we're fine.
+
+979
+00:45:22,100 --> 00:45:22,973
+- Swear it?
+
+980
+00:45:24,360 --> 00:45:25,203
+- I swear it.
+
+981
+00:45:26,442 --> 00:45:28,100
+It looked a bit tight there for a minute,
+
+982
+00:45:28,100 --> 00:45:29,930
+but we'll be fine for Winnipeg.
+
+983
+00:45:29,930 --> 00:45:32,130
+And Bob Pearson's the
+right guy for the job.
+
+984
+00:45:34,124 --> 00:45:37,908
+(light orchestral music)
+
+985
+00:45:37,908 --> 00:45:41,908
+We're fine, Pearl, and
+I'll be here all the way.
+
+986
+00:45:43,150 --> 00:45:46,567
+Just trust that we'll be okay.
+
+987
+00:45:48,447 --> 00:45:50,720
+- Daddy, is mommy okay?
+
+988
+00:45:50,720 --> 00:45:51,990
+- Yeah, mommy's fine.
+
+989
+00:45:53,020 --> 00:45:53,937
+We all are.
+
+990
+00:45:56,502 --> 00:45:57,390
+- It's okay, hon.
+
+991
+00:45:57,390 --> 00:45:58,760
+I'm just being a goose.
+
+992
+00:45:58,760 --> 00:46:00,718
+So, where were we?
+
+993
+00:46:00,718 --> 00:46:01,551
+- [Chris] Right here.
+
+994
+00:46:01,551 --> 00:46:02,634
+- [Pearl] Okay.
+
+995
+00:46:02,634 --> 00:46:06,300
+Socrates stepped inside the flower shop.
+
+996
+00:46:06,300 --> 00:46:08,570
+- It's vital that people
+near the emergency exits
+
+997
+00:46:08,570 --> 00:46:10,368
+are strong enough to operate them.
+
+998
+00:46:10,368 --> 00:46:11,450
+(curtain rattling)
+
+999
+00:46:11,450 --> 00:46:12,283
+I'm sorry, sir.
+
+1000
+00:46:12,283 --> 00:46:13,670
+The Captain has put on the seatbelt sign.
+
+1001
+00:46:13,670 --> 00:46:14,503
+- Not to worry.
+
+1002
+00:46:14,503 --> 00:46:16,290
+Just using the lavatory.
+
+1003
+00:46:16,290 --> 00:46:17,670
+I'm an ex-RAF pilot.
+
+1004
+00:46:17,670 --> 00:46:19,295
+If the Lufthansa couldn't get me,
+
+1005
+00:46:19,295 --> 00:46:21,133
+I'm sure CWA won't.
+
+1006
+00:46:22,758 --> 00:46:24,330
+(suspenseful orchestral music)
+
+1007
+00:46:24,330 --> 00:46:25,163
+- Runway's clear.
+
+1008
+00:46:25,163 --> 00:46:26,573
+All emergency vehicles in place.
+
+1009
+00:46:28,750 --> 00:46:29,583
+- Come on, guy.
+
+1010
+00:46:30,570 --> 00:46:31,403
+Almost home.
+
+1011
+00:46:35,077 --> 00:46:35,977
+You can make this.
+
+1012
+00:46:39,050 --> 00:46:40,313
+- Cutting it fine.
+
+1013
+00:46:41,750 --> 00:46:43,907
+An error in those numbers from Montreal--
+
+1014
+00:46:45,156 --> 00:46:46,450
+(instrument panel beeping)
+
+1015
+00:46:46,450 --> 00:46:47,283
+(rumbling)
+
+1016
+00:46:47,283 --> 00:46:48,966
+(all yelling)
+
+1017
+00:46:48,966 --> 00:46:51,026
+(alarm buzzing)
+
+1018
+00:46:51,026 --> 00:46:51,859
+Left engine out.
+
+1019
+00:46:51,859 --> 00:46:54,323
+Left engine gone.
+
+1020
+00:46:54,323 --> 00:46:55,197
+- I'll be back.
+
+1021
+00:46:55,197 --> 00:46:57,856
+Whatever happens, I'll be back.
+
+1022
+00:46:57,856 --> 00:46:58,689
+- Daddy!
+
+1023
+00:46:58,689 --> 00:47:00,637
+- Honey, honey, just stay put, okay?
+
+1024
+00:47:00,637 --> 00:47:02,627
+Here, let's go back to the book.
+
+1025
+00:47:02,627 --> 00:47:03,460
+What page were we on?
+
+1026
+00:47:03,460 --> 00:47:04,377
+Can you remember?
+
+1027
+00:47:04,377 --> 00:47:05,210
+- This one.
+
+1028
+00:47:05,210 --> 00:47:06,780
+- What the hell happened?
+
+1029
+00:47:06,780 --> 00:47:08,781
+- Left engine's gone.
+
+1030
+00:47:08,781 --> 00:47:11,631
+We adjusted the right
+thruster to accommodate it.
+
+1031
+00:47:11,631 --> 00:47:13,078
+(alarm beeping)
+
+1032
+00:47:13,078 --> 00:47:14,107
+(rumbling)
+
+1033
+00:47:14,107 --> 00:47:16,357
+(grunting)
+
+1034
+00:47:18,029 --> 00:47:19,176
+- There goes the other one.
+
+1035
+00:47:19,176 --> 00:47:22,759
+(instrument panel beeping)
+
+1036
+00:47:24,219 --> 00:47:26,960
+(power pulsing)
+
+1037
+00:47:26,960 --> 00:47:30,400
+- [Bob] We've got a general failure.
+
+1038
+00:47:30,400 --> 00:47:31,233
+- It's gone.
+
+1039
+00:47:32,090 --> 00:47:32,983
+I lost it.
+
+1040
+00:47:34,097 --> 00:47:34,930
+It just dropped off.
+
+1041
+00:47:34,930 --> 00:47:35,763
+174.
+
+1042
+00:47:36,990 --> 00:47:39,233
+174, this is Winnipeg, do you read?
+
+1043
+00:47:43,310 --> 00:47:44,143
+It's gone.
+
+1044
+00:47:46,436 --> 00:47:50,353
+(suspenseful orchestral music)
+
+1045
+00:47:51,540 --> 00:47:53,933
+174, we lost your transponder, return.
+
+1046
+00:47:54,933 --> 00:47:57,423
+174, 174, come in.
+
+1047
+00:47:59,552 --> 00:48:02,210
+Might just be their electrics.
+
+1048
+00:48:02,210 --> 00:48:03,223
+Going to primary.
+
+1049
+00:48:04,216 --> 00:48:06,883
+(radar beeping)
+
+1050
+00:48:11,010 --> 00:48:12,373
+Still nothing, Captain.
+
+1051
+00:48:17,880 --> 00:48:19,876
+Should be an untagged
+blip in this quadrant,
+
+1052
+00:48:19,876 --> 00:48:21,376
+but I got nothing.
+
+1053
+00:48:31,090 --> 00:48:32,663
+- We need some help here, lads.
+
+1054
+00:48:35,780 --> 00:48:36,993
+Some hydraulics.
+
+1055
+00:48:39,160 --> 00:48:40,650
+It's like the power steering in my car
+
+1056
+00:48:40,650 --> 00:48:42,050
+when the engine goes dead.
+
+1057
+00:48:43,050 --> 00:48:44,694
+- There's no,
+
+1058
+00:48:44,694 --> 00:48:48,320
+there's no redundancy systems
+when the fuel's gone, none.
+
+1059
+00:48:48,320 --> 00:48:50,820
+Only the emergency ram air
+turbine for hydraulics.
+
+1060
+00:48:50,820 --> 00:48:53,270
+- No hydraulics, no power, no transponder.
+
+1061
+00:48:53,270 --> 00:48:55,714
+We must've dropped off
+the screen in Winnipeg.
+
+1062
+00:48:55,714 --> 00:48:57,390
+- Where the hell's the ram air turbine.
+
+1063
+00:48:57,390 --> 00:48:59,260
+- It says here the RAT
+kicks in automatically
+
+1064
+00:48:59,260 --> 00:49:01,143
+when it reads two dead engines.
+
+1065
+00:49:01,143 --> 00:49:02,923
+- What the hell's it waiting for?
+
+1066
+00:49:10,730 --> 00:49:13,050
+- I gather you're a veteran
+at this kind of thing.
+
+1067
+00:49:13,050 --> 00:49:14,450
+- Me?
+
+1068
+00:49:14,450 --> 00:49:15,300
+Oh, goodness, no.
+
+1069
+00:49:16,260 --> 00:49:20,869
+Well, um, my husband is
+the airline's top mechanic.
+
+1070
+00:49:20,869 --> 00:49:23,426
+He thinks everything is fine,
+
+1071
+00:49:23,426 --> 00:49:26,000
+as long as there's lights in the cockpit.
+
+1072
+00:49:26,000 --> 00:49:27,180
+- And there must be power there.
+
+1073
+00:49:27,180 --> 00:49:30,174
+(laughing)
+
+1074
+00:49:30,174 --> 00:49:34,128
+(suspenseful orchestral music)
+
+1075
+00:49:34,128 --> 00:49:35,525
+(knocking on door)
+
+1076
+00:49:35,525 --> 00:49:38,600
+- Some of the passengers have
+noticed there are no lights.
+
+1077
+00:49:38,600 --> 00:49:40,237
+- That's fuel starvation.
+
+1078
+00:49:40,237 --> 00:49:43,153
+The electrics conked out
+when the engines went out.
+
+1079
+00:49:44,104 --> 00:49:45,240
+- Oh, God.
+
+1080
+00:49:45,240 --> 00:49:46,073
+Are we going down?
+
+1081
+00:49:46,073 --> 00:49:48,440
+- Like hell we're going down.
+
+1082
+00:49:48,440 --> 00:49:50,457
+This baby'll glide as long
+as I can keep the nose up.
+
+1083
+00:49:50,457 --> 00:49:51,640
+- That's the truth, Larry.
+
+1084
+00:49:51,640 --> 00:49:53,320
+Nobody here is planning on dying.
+
+1085
+00:49:53,320 --> 00:49:54,560
+- Alert the passengers.
+
+1086
+00:49:54,560 --> 00:49:55,960
+Use the megaphone.
+
+1087
+00:49:55,960 --> 00:49:57,300
+- And what do I tell them?
+
+1088
+00:49:57,300 --> 00:49:59,720
+- Keep them busy with an emergency drill.
+
+1089
+00:49:59,720 --> 00:50:01,993
+- Larry, tell Pearl I'll
+be there no matter what.
+
+1090
+00:50:05,178 --> 00:50:07,580
+- Don't know how long I
+can keep this up, lads.
+
+1091
+00:50:08,470 --> 00:50:10,410
+Gonna need a glide path.
+
+1092
+00:50:10,410 --> 00:50:12,220
+- Well, without power I can't do that.
+
+1093
+00:50:12,220 --> 00:50:14,313
+I need altitude and ground speed.
+
+1094
+00:50:18,470 --> 00:50:20,560
+- Ladies and gentlemen, as you can see,
+
+1095
+00:50:20,560 --> 00:50:22,840
+we have a further technical problem,
+
+1096
+00:50:22,840 --> 00:50:25,311
+complicating our final
+descent into Winnipeg.
+
+1097
+00:50:25,311 --> 00:50:26,474
+- [Woman] Oh, God.
+
+1098
+00:50:26,474 --> 00:50:28,363
+- The Captain is confidently
+we'll land safely,
+
+1099
+00:50:28,363 --> 00:50:31,420
+but regulations require
+we now follow prescribed
+
+1100
+00:50:31,420 --> 00:50:32,758
+safety drills.
+
+1101
+00:50:32,758 --> 00:50:35,633
+Everyone must remove their shoes,
+
+1102
+00:50:37,720 --> 00:50:42,720
+eyeglasses, jewelry,
+particularly earrings,
+
+1103
+00:50:44,550 --> 00:50:46,293
+anything sharp from your pockets.
+
+1104
+00:50:47,703 --> 00:50:51,420
+Make sure your seatbelt
+is tightly fastened,
+
+1105
+00:50:51,420 --> 00:50:54,043
+as low down on your hips as is possible.
+
+1106
+00:50:54,890 --> 00:50:57,170
+This is all just a precaution.
+
+1107
+00:50:57,170 --> 00:50:58,490
+We thank you for your cooperation.
+
+1108
+00:50:58,490 --> 00:51:00,346
+- [Man] Okay, quick, get those off.
+
+1109
+00:51:00,346 --> 00:51:02,617
+You better take off all the others.
+
+1110
+00:51:02,617 --> 00:51:03,694
+(suspenseful orchestral music)
+
+1111
+00:51:03,694 --> 00:51:04,527
+(plane hissing)
+
+1112
+00:51:04,527 --> 00:51:05,360
+- What was that?
+
+1113
+00:51:07,713 --> 00:51:09,900
+- Must be the RAT hole, popping open.
+
+1114
+00:51:09,900 --> 00:51:10,733
+- I hope so.
+
+1115
+00:51:11,858 --> 00:51:12,800
+(radar beeping)
+
+1116
+00:51:12,800 --> 00:51:15,360
+- 174, this is Winnipeg, do you read?
+
+1117
+00:51:15,360 --> 00:51:16,713
+- Give me a hand with this harness.
+
+1118
+00:51:24,416 --> 00:51:27,416
+(propeller humming)
+
+1119
+00:51:28,356 --> 00:51:30,722
+(radar beeping)
+
+1120
+00:51:30,722 --> 00:51:33,639
+(group chattering)
+
+1121
+00:51:35,460 --> 00:51:38,594
+- When instructed, cross your arms
+
+1122
+00:51:38,594 --> 00:51:42,140
+and hold the top of the
+seat-back in front of you.
+
+1123
+00:51:42,140 --> 00:51:45,362
+Then rest your head in your arms.
+
+1124
+00:51:45,362 --> 00:51:47,013
+Practice this now.
+
+1125
+00:51:47,013 --> 00:51:48,184
+(baby crying)
+
+1126
+00:51:48,184 --> 00:51:50,097
+Children can put a pillow in their lap
+
+1127
+00:51:50,097 --> 00:51:52,980
+or anything that would provide
+a cushion would be fine.
+
+1128
+00:51:52,980 --> 00:51:54,208
+- Here.
+
+1129
+00:51:54,208 --> 00:51:55,840
+Now, you make sure you hang onto that.
+
+1130
+00:51:55,840 --> 00:51:57,470
+Everything will be okay.
+
+1131
+00:51:57,470 --> 00:51:58,340
+- What's wrong, mommy?
+
+1132
+00:51:58,340 --> 00:51:59,173
+- Nothing.
+
+1133
+00:52:00,830 --> 00:52:01,663
+I'm sorry, Chris.
+
+1134
+00:52:01,663 --> 00:52:02,496
+It's all right.
+
+1135
+00:52:02,496 --> 00:52:05,200
+This often happens on planes
+and daddy always makes sure
+
+1136
+00:52:05,200 --> 00:52:07,021
+that everything is fine.
+
+1137
+00:52:07,021 --> 00:52:07,854
+Okay?
+
+1138
+00:52:09,615 --> 00:52:13,532
+(suspenseful orchestral music)
+
+1139
+00:52:16,951 --> 00:52:19,618
+(radar beeping)
+
+1140
+00:52:22,840 --> 00:52:23,740
+- I got something.
+
+1141
+00:52:25,990 --> 00:52:27,140
+174, I think I've got you.
+
+1142
+00:52:27,140 --> 00:52:27,973
+Do you read me?
+
+1143
+00:52:28,948 --> 00:52:33,948
+(radar beeping)
+(static hissing)
+
+1144
+00:52:35,037 --> 00:52:38,090
+(seat thudding)
+
+1145
+00:52:38,090 --> 00:52:38,923
+- What's wrong with this?
+
+1146
+00:52:38,923 --> 00:52:40,810
+Why can't you people do anything right?
+
+1147
+00:52:41,698 --> 00:52:43,098
+This damn seat's collapsing.
+
+1148
+00:52:45,810 --> 00:52:48,070
+- It's designed to do that, sir.
+
+1149
+00:52:48,070 --> 00:52:50,110
+It cushions you if you just rest on it
+
+1150
+00:52:50,110 --> 00:52:51,880
+and don't try to mash it.
+
+1151
+00:52:51,880 --> 00:52:53,166
+- What's it matter?
+
+1152
+00:52:53,166 --> 00:52:53,999
+We're all gonna die anyway.
+
+1153
+00:52:53,999 --> 00:52:54,832
+- Would you please be quiet?
+
+1154
+00:52:54,832 --> 00:52:56,600
+I have a little daughter
+waiting for me at home
+
+1155
+00:52:56,600 --> 00:52:58,773
+and I have no intention of dying.
+
+1156
+00:52:58,773 --> 00:52:59,606
+- Bull.
+
+1157
+00:52:59,606 --> 00:53:00,439
+This plane's going--
+
+1158
+00:53:00,439 --> 00:53:03,405
+- Sir, shut your stupid mouth!
+
+1159
+00:53:03,405 --> 00:53:07,322
+(suspenseful orchestral music)
+
+1160
+00:53:10,980 --> 00:53:14,120
+- I'm getting a little
+help with these hydraulics.
+
+1161
+00:53:14,120 --> 00:53:16,037
+RAT must've kicked in.
+
+1162
+00:53:16,037 --> 00:53:17,067
+(panels powering on)
+
+1163
+00:53:17,067 --> 00:53:18,240
+- Got some juice.
+
+1164
+00:53:18,240 --> 00:53:20,870
+Giving some power to the electronics then.
+
+1165
+00:53:20,870 --> 00:53:22,424
+- Thank you, God,
+
+1166
+00:53:22,424 --> 00:53:26,023
+and Boeing for this ram air turbine.
+
+1167
+00:53:27,144 --> 00:53:29,811
+(radar beeping)
+
+1168
+00:53:32,880 --> 00:53:35,400
+- Gotcha, 174, you're back on.
+
+1169
+00:53:35,400 --> 00:53:36,350
+Do you read?
+
+1170
+00:53:36,350 --> 00:53:37,660
+- Roger, Winnipeg.
+
+1171
+00:53:37,660 --> 00:53:39,316
+174 is back.
+
+1172
+00:53:39,316 --> 00:53:40,753
+This is a mayday.
+
+1173
+00:53:40,753 --> 00:53:43,260
+I repeat, this is a mayday.
+
+1174
+00:53:43,260 --> 00:53:46,420
+We need a vector to the
+nearest possible runway.
+
+1175
+00:53:46,420 --> 00:53:50,670
+I'm at 22,000 feet and
+both engines have failed.
+
+1176
+00:53:50,670 --> 00:53:52,480
+We're on emergency instruments
+
+1177
+00:53:52,480 --> 00:53:55,360
+and I only have a limited
+amount of information
+
+1178
+00:53:55,360 --> 00:53:56,670
+to give you.
+
+1179
+00:53:56,670 --> 00:53:59,903
+Our heading is 230.
+
+1180
+00:53:59,903 --> 00:54:02,350
+So, if you'd please give
+us a vector to the nearest
+
+1181
+00:54:02,350 --> 00:54:03,760
+possible runway.
+
+1182
+00:54:03,760 --> 00:54:05,777
+- [Al] Standby, 174.
+
+1183
+00:54:05,777 --> 00:54:07,212
+- No power.
+
+1184
+00:54:07,212 --> 00:54:08,617
+You think you can bring in
+a 300,000 pound aircraft
+
+1185
+00:54:08,617 --> 00:54:10,410
+with a dead-stick landing?
+
+1186
+00:54:10,410 --> 00:54:11,780
+- Never heard of it.
+
+1187
+00:54:11,780 --> 00:54:12,613
+- Try and talk 'em in.
+
+1188
+00:54:12,613 --> 00:54:14,750
+Around to the factory over at Everett.
+
+1189
+00:54:14,750 --> 00:54:15,583
+This can't be the first time
+
+1190
+00:54:15,583 --> 00:54:16,680
+this kind of thing has happened.
+
+1191
+00:54:16,680 --> 00:54:18,470
+Now, the crew family's know the crew's
+
+1192
+00:54:18,470 --> 00:54:19,770
+been diverted to Winnipeg?
+
+1193
+00:54:21,633 --> 00:54:22,791
+(laughing)
+
+1194
+00:54:22,791 --> 00:54:23,920
+- I don't believe it.
+
+1195
+00:54:25,997 --> 00:54:28,843
+Do you always keep track of where he is?
+
+1196
+00:54:28,843 --> 00:54:31,550
+- Only when the in-laws
+are involved, okay?
+
+1197
+00:54:31,550 --> 00:54:33,038
+- Oh, right, okay.
+
+1198
+00:54:33,038 --> 00:54:35,615
+(phone ringing)
+
+1199
+00:54:35,615 --> 00:54:37,865
+(laughing)
+
+1200
+00:54:39,320 --> 00:54:40,460
+- Hello.
+
+1201
+00:54:40,460 --> 00:54:41,293
+Speaking.
+
+1202
+00:54:43,940 --> 00:54:45,500
+Really?
+
+1203
+00:54:45,500 --> 00:54:46,333
+Why?
+
+1204
+00:54:47,633 --> 00:54:49,606
+Oh, no, no, no, I understand,
+
+1205
+00:54:49,606 --> 00:54:51,447
+but as soon as you find out,
+
+1206
+00:54:51,447 --> 00:54:53,963
+would you give me a call, please?
+
+1207
+00:54:55,030 --> 00:54:56,080
+That's great, thanks.
+
+1208
+00:54:57,930 --> 00:54:59,130
+- [Meg] Everything okay?
+
+1209
+00:55:01,390 --> 00:55:03,230
+- The plane's been diverted to Winnipeg.
+
+1210
+00:55:03,230 --> 00:55:04,230
+- [Meg] Really, why?
+
+1211
+00:55:05,912 --> 00:55:07,157
+- I don't know.
+
+1212
+00:55:07,157 --> 00:55:11,074
+(suspenseful orchestral music)
+
+1213
+00:55:13,300 --> 00:55:14,840
+- There's a bit of luck.
+
+1214
+00:55:14,840 --> 00:55:16,790
+That storm's on the other side of town.
+
+1215
+00:55:19,090 --> 00:55:20,290
+What do you think, lads?
+
+1216
+00:55:22,220 --> 00:55:23,053
+- I don't know.
+
+1217
+00:55:23,053 --> 00:55:24,570
+I've never tried a
+dead-stick landing before.
+
+1218
+00:55:27,810 --> 00:55:28,863
+- I grew up on it.
+
+1219
+00:55:29,790 --> 00:55:31,327
+I'm an old sail planer.
+
+1220
+00:55:33,230 --> 00:55:37,533
+The trick is to find your
+optimum forward speed.
+
+1221
+00:55:39,284 --> 00:55:41,573
+If you keep the nose
+too high, you slow down.
+
+1222
+00:55:42,610 --> 00:55:44,496
+If you let the nose get too low,
+
+1223
+00:55:44,496 --> 00:55:47,520
+you become an aerodynamic rock.
+
+1224
+00:55:47,520 --> 00:55:49,560
+- I tried sail planing.
+
+1225
+00:55:49,560 --> 00:55:51,460
+Biggest problem's coming in too short.
+
+1226
+00:55:52,444 --> 00:55:55,883
+- Optimum forward speed is 220 knots.
+
+1227
+00:55:56,820 --> 00:55:59,400
+Winnipeg could you give us a reading?
+
+1228
+00:55:59,400 --> 00:56:01,787
+- Scattered clouds at 4,000 feet.
+
+1229
+00:56:01,787 --> 00:56:04,520
+Visibility, 15 miles.
+
+1230
+00:56:04,520 --> 00:56:07,300
+Wind of four knots at 350 degrees.
+
+1231
+00:56:07,300 --> 00:56:08,683
+And your range is,
+
+1232
+00:56:09,925 --> 00:56:14,925
+your range is 35, no make that 39 miles.
+
+1233
+00:56:15,640 --> 00:56:16,940
+- Roger, Winnipeg, got it.
+
+1234
+00:56:18,295 --> 00:56:20,500
+I'm holding 220 knots, Maurice.
+
+1235
+00:56:20,500 --> 00:56:21,930
+Do your thing.
+
+1236
+00:56:21,930 --> 00:56:25,487
+- 174, can you give fuel
+and souls on board, please?
+
+1237
+00:56:25,487 --> 00:56:26,320
+(chuckling)
+
+1238
+00:56:26,320 --> 00:56:27,153
+- Fuel?
+
+1239
+00:56:28,442 --> 00:56:30,763
+We still have fuel starvation.
+
+1240
+00:56:32,180 --> 00:56:36,760
+Souls on board are 63
+passenger, four backend crew,
+
+1241
+00:56:36,760 --> 00:56:38,703
+and two very determined pilots.
+
+1242
+00:56:42,940 --> 00:56:45,260
+- It's a fuel problem, so smoke inhalation
+
+1243
+00:56:45,260 --> 00:56:47,723
+will likely be a bigger killer than burns.
+
+1244
+00:56:47,723 --> 00:56:49,010
+Where's triage?
+
+1245
+00:56:49,010 --> 00:56:50,218
+- Sir?
+
+1246
+00:56:50,218 --> 00:56:52,330
+- If there's no burns, lung damage cases
+
+1247
+00:56:52,330 --> 00:56:53,420
+get first attention.
+
+1248
+00:56:53,420 --> 00:56:54,551
+- All the units are prepared.
+
+1249
+00:56:54,551 --> 00:56:55,384
+- Good.
+
+1250
+00:56:55,384 --> 00:56:57,927
+Broken limbs go second unless
+there's head or rib trauma
+
+1251
+00:56:57,927 --> 00:57:01,160
+and I wanna 'em in the ambulances
+and off the runways, stat.
+
+1252
+00:57:01,160 --> 00:57:02,403
+- Yes, sir.
+
+1253
+00:57:11,700 --> 00:57:15,367
+(dramatic orchestral music)
+
+1254
+00:57:24,822 --> 00:57:25,655
+(crying)
+
+1255
+00:57:25,655 --> 00:57:27,210
+- Stop, stop, stop, stop.
+
+1256
+00:57:27,210 --> 00:57:28,110
+Are you all right?
+
+1257
+00:57:29,480 --> 00:57:30,313
+- Should I be?
+
+1258
+00:57:31,295 --> 00:57:32,587
+- You can't help how you feel.
+
+1259
+00:57:32,587 --> 00:57:34,340
+We're all in this together.
+
+1260
+00:57:34,340 --> 00:57:37,087
+I am right here for you, okay?
+
+1261
+00:57:38,498 --> 00:57:39,489
+All right?
+
+1262
+00:57:39,489 --> 00:57:40,572
+Okay?
+- yeah.
+
+1263
+00:57:41,494 --> 00:57:43,345
+- Okay, now, deep breath.
+
+1264
+00:57:43,345 --> 00:57:44,622
+(inhaling deeply)
+
+1265
+00:57:44,622 --> 00:57:47,212
+(laughing)
+
+1266
+00:57:47,212 --> 00:57:48,852
+Better?
+
+1267
+00:57:48,852 --> 00:57:49,685
+All right, sweetie.
+
+1268
+00:57:49,685 --> 00:57:50,518
+- Yeah.
+
+1269
+00:57:50,518 --> 00:57:51,711
+- Okay.
+
+1270
+00:57:51,711 --> 00:57:52,544
+- Okay.
+
+1271
+00:58:07,831 --> 00:58:09,841
+- [Larry] How 'bout you?
+
+1272
+00:58:09,841 --> 00:58:11,174
+- I'm all right.
+
+1273
+00:58:14,238 --> 00:58:16,043
+I'm just thinking about my baby.
+
+1274
+00:58:27,873 --> 00:58:30,620
+(sighing)
+
+1275
+00:58:30,620 --> 00:58:31,453
+Okay.
+
+1276
+00:58:33,908 --> 00:58:35,733
+Okay, we got a lot to do.
+
+1277
+00:58:47,412 --> 00:58:51,329
+(suspenseful orchestral music)
+
+1278
+00:58:54,607 --> 00:58:57,948
+- It's a hell of a lot easier
+dead-sticking a sail plane
+
+1279
+00:58:57,948 --> 00:58:59,698
+than it is one of these big babies.
+
+1280
+00:59:03,060 --> 00:59:04,930
+How am I doing, Maurice?
+
+1281
+00:59:04,930 --> 00:59:06,360
+- Need the range.
+
+1282
+00:59:06,360 --> 00:59:08,653
+- [Bob] Winnipeg, got a range for us?
+
+1283
+00:59:10,535 --> 00:59:15,535
+- 34 miles, approaching 10,000 feet.
+
+1284
+00:59:15,720 --> 00:59:16,703
+- 10,000 feet?
+
+1285
+00:59:17,660 --> 00:59:18,850
+I didn't think I was that low.
+
+1286
+00:59:18,850 --> 00:59:19,840
+- That's okay.
+
+1287
+00:59:19,840 --> 00:59:21,610
+Without the engines, I don't
+know how she can maintain
+
+1288
+00:59:21,610 --> 00:59:22,790
+cabin pressure anyway.
+
+1289
+00:59:22,790 --> 00:59:24,830
+You don't want the
+oxygen masks popping out.
+
+1290
+00:59:24,830 --> 00:59:26,334
+Might panic the passengers.
+
+1291
+00:59:26,334 --> 00:59:27,167
+(chuckling)
+
+1292
+00:59:27,167 --> 00:59:28,240
+- Might panic.
+
+1293
+00:59:28,240 --> 00:59:29,530
+I'd be surprised if
+they're not back there,
+
+1294
+00:59:29,530 --> 00:59:32,290
+knitting their own parachutes right now.
+
+1295
+00:59:32,290 --> 00:59:34,180
+How we doing, Maurice?
+
+1296
+00:59:34,180 --> 00:59:35,430
+- Not as good as I hoped.
+
+1297
+00:59:41,890 --> 00:59:43,090
+- I have it figured out.
+
+1298
+00:59:45,070 --> 00:59:45,903
+We'll be fine.
+
+1299
+00:59:47,380 --> 00:59:48,213
+We have to be.
+
+1300
+00:59:50,060 --> 00:59:50,893
+- Why?
+
+1301
+00:59:50,893 --> 00:59:53,705
+(dramatic orchestral music)
+
+1302
+00:59:53,705 --> 00:59:55,205
+- Well, because if
+
+1303
+00:59:57,040 --> 00:59:59,920
+we were to die together,
+
+1304
+00:59:59,920 --> 01:00:01,823
+there'd be no one to identify us.
+
+1305
+01:00:03,700 --> 01:00:06,623
+We don't have anyone else, neither of us.
+
+1306
+01:00:08,350 --> 01:00:09,900
+- Yeah, I suppose you're right.
+
+1307
+01:00:14,916 --> 01:00:17,749
+I've never thought of that before.
+
+1308
+01:00:20,600 --> 01:00:22,190
+Doesn't seem right.
+
+1309
+01:00:22,190 --> 01:00:23,023
+- It isn't.
+
+1310
+01:00:27,790 --> 01:00:29,793
+- I don't want it to be too late, Frank.
+
+1311
+01:00:32,780 --> 01:00:34,310
+We should have something
+more to leave behind
+
+1312
+01:00:34,310 --> 01:00:35,973
+than our personal libraries.
+
+1313
+01:00:37,230 --> 01:00:38,233
+- Yes, we should.
+
+1314
+01:00:41,990 --> 01:00:43,940
+It doesn't have to be too late, though.
+
+1315
+01:00:51,960 --> 01:00:52,810
+- Let's hope not.
+
+1316
+01:00:56,757 --> 01:00:59,040
+- [Bob] Winnipeg approach,
+let's have that range again.
+
+1317
+01:00:59,040 --> 01:01:00,520
+Could you repeat, please?
+
+1318
+01:01:00,520 --> 01:01:04,750
+- 174, your range is 20 miles.
+
+1319
+01:01:04,750 --> 01:01:06,700
+- Winnipeg approach, what was that range?
+
+1320
+01:01:06,700 --> 01:01:07,900
+Could you repeat please?
+
+1321
+01:01:09,650 --> 01:01:11,147
+- Make that 20 miles.
+
+1322
+01:01:11,147 --> 01:01:12,423
+Two, zero.
+
+1323
+01:01:13,857 --> 01:01:14,860
+- [Bob] Well, then we won't make it.
+
+1324
+01:01:14,860 --> 01:01:15,750
+- Say again?
+
+1325
+01:01:15,750 --> 01:01:16,710
+- We won't make it.
+
+1326
+01:01:16,710 --> 01:01:20,290
+There's no glide path that'll
+bring us into Winnipeg.
+
+1327
+01:01:20,290 --> 01:01:21,300
+If I keep this heading,
+
+1328
+01:01:21,300 --> 01:01:22,588
+I'll not only lose this aircraft,
+
+1329
+01:01:22,588 --> 01:01:25,173
+but I'll take half of Winnipeg with me.
+
+1330
+01:01:26,648 --> 01:01:29,020
+Can't let that happen.
+
+1331
+01:01:29,020 --> 01:01:30,453
+Look bad on our resumes.
+
+1332
+01:01:32,260 --> 01:01:34,783
+We're open to suggestions, boss.
+
+1333
+01:01:34,783 --> 01:01:36,627
+- We're working on that, 174.
+
+1334
+01:01:50,257 --> 01:01:54,174
+(suspenseful orchestral music)
+
+1335
+01:01:58,162 --> 01:02:01,495
+(passengers chattering)
+
+1336
+01:02:09,150 --> 01:02:10,830
+- Hey, it's Winnipeg!
+
+1337
+01:02:10,830 --> 01:02:11,730
+I can see the airport.
+
+1338
+01:02:11,730 --> 01:02:13,063
+Look, look over there.
+
+1339
+01:02:15,063 --> 01:02:17,396
+- [Man] We're getting close.
+
+1340
+01:02:18,588 --> 01:02:19,421
+Thank God.
+
+1341
+01:02:24,241 --> 01:02:26,028
+- Wait a minute.
+
+1342
+01:02:26,028 --> 01:02:27,500
+Wait a minute, there
+used to be an airstrip
+
+1343
+01:02:27,500 --> 01:02:28,883
+between here and Winnipeg.
+
+1344
+01:02:31,418 --> 01:02:33,001
+It's called Gimley.
+
+1345
+01:02:35,460 --> 01:02:37,070
+We're 18 miles out of Winnipeg.
+
+1346
+01:02:37,070 --> 01:02:38,020
+It should be there.
+
+1347
+01:02:42,770 --> 01:02:44,120
+- If it is, I don't see it.
+
+1348
+01:02:45,920 --> 01:02:49,293
+- Winnipeg, this is 174,
+
+1349
+01:02:49,293 --> 01:02:53,480
+my first says he did some
+air force time out here
+
+1350
+01:02:53,480 --> 01:02:55,268
+at a place called Gimley,
+you ever heard of it?
+
+1351
+01:02:55,268 --> 01:02:56,301
+- Gimley.
+
+1352
+01:02:56,301 --> 01:02:57,530
+- [Man] Affirmative.
+
+1353
+01:02:57,530 --> 01:02:58,620
+- Roger, 174.
+
+1354
+01:02:58,620 --> 01:03:00,550
+I flew out of it a couple of times.
+
+1355
+01:03:00,550 --> 01:03:01,630
+- Well, it's not marked.
+
+1356
+01:03:01,630 --> 01:03:03,570
+- [Al] That's because it's abandoned.
+
+1357
+01:03:03,570 --> 01:03:04,560
+- Well, it won't be for long.
+
+1358
+01:03:04,560 --> 01:03:05,460
+Give us a heading.
+
+1359
+01:03:09,750 --> 01:03:11,952
+(rumbling)
+
+1360
+01:03:11,952 --> 01:03:13,393
+- [Man] It's just turbulence.
+
+1361
+01:03:18,233 --> 01:03:20,100
+- I don't have it charted either,
+
+1362
+01:03:20,100 --> 01:03:22,611
+but I remember the place and
+I'm reading your position
+
+1363
+01:03:22,611 --> 01:03:24,961
+and I can give you an
+approximate heading only,
+
+1364
+01:03:26,000 --> 01:03:27,400
+but can you fly there?
+
+1365
+01:03:27,400 --> 01:03:29,010
+I think you're too high?
+
+1366
+01:03:29,010 --> 01:03:32,005
+- We'll have to side
+slip, a little bit now,
+
+1367
+01:03:32,005 --> 01:03:34,250
+and a whole lot when we get there.
+
+1368
+01:03:34,250 --> 01:03:35,350
+- [Al] Good luck.
+
+1369
+01:03:35,350 --> 01:03:36,870
+Here's my best guess on the heading.
+
+1370
+01:03:36,870 --> 01:03:38,740
+- [Man Over Radio] What's
+he mean a side slip?
+
+1371
+01:03:38,740 --> 01:03:39,910
+- Sail plane technique.
+
+1372
+01:03:39,910 --> 01:03:42,750
+Uses opposing forces, cross
+control ailerons and rudder
+
+1373
+01:03:42,750 --> 01:03:45,203
+and you lose altitude fast, damn fast.
+
+1374
+01:03:45,203 --> 01:03:48,890
+Turn right, heading 310, got that?
+
+1375
+01:03:48,890 --> 01:03:49,973
+- Roger, Winnipeg.
+
+1376
+01:03:52,281 --> 01:03:53,873
+I'm gonna give it a try.
+
+1377
+01:03:54,890 --> 01:03:55,890
+- [Al] He'll pull his rudder left
+
+1378
+01:03:55,890 --> 01:03:57,031
+and bank right.
+
+1379
+01:03:57,031 --> 01:04:00,140
+That pushes the plane sideways,
+giving it a bigger profile
+
+1380
+01:04:00,140 --> 01:04:01,700
+to the air current.
+
+1381
+01:04:01,700 --> 01:04:03,891
+That creates drag and slows it.
+
+1382
+01:04:03,891 --> 01:04:05,329
+But if it slows it too much,
+
+1383
+01:04:05,329 --> 01:04:06,953
+the plane will sink like a rock.
+
+1384
+01:04:09,130 --> 01:04:11,563
+- I swear we're moving away from Winnipeg.
+
+1385
+01:04:13,467 --> 01:04:14,300
+- That's impossible.
+
+1386
+01:04:14,300 --> 01:04:15,133
+We're headed--
+
+1387
+01:04:15,133 --> 01:04:15,966
+- Look.
+
+1388
+01:04:17,968 --> 01:04:19,218
+- We're banking sideways.
+
+1389
+01:04:20,070 --> 01:04:21,513
+- Can planes go sideways?
+
+1390
+01:04:22,510 --> 01:04:23,343
+- This one is.
+
+1391
+01:04:30,905 --> 01:04:33,263
+- If there's a next time,
+Gloria, you'll come with.
+
+1392
+01:04:34,540 --> 01:04:37,216
+Thank God you didn't come on this one.
+
+1393
+01:04:37,216 --> 01:04:40,883
+(dramatic orchestral music)
+
+1394
+01:04:59,104 --> 01:05:01,760
+(suspenseful orchestral music)
+
+1395
+01:05:01,760 --> 01:05:03,380
+- How long have I got, Maurice?
+
+1396
+01:05:03,380 --> 01:05:04,213
+- How do I know?
+
+1397
+01:05:04,213 --> 01:05:05,083
+I don't know where you're going.
+
+1398
+01:05:06,486 --> 01:05:09,500
+- Well, while you try and locate it,
+
+1399
+01:05:09,500 --> 01:05:11,703
+I'll try and keep this baby in the sky.
+
+1400
+01:05:13,620 --> 01:05:15,020
+Rick, could you hang in here
+
+1401
+01:05:16,420 --> 01:05:18,200
+till we spot Gimley.
+
+1402
+01:05:18,200 --> 01:05:19,920
+While Maurice eyeballs
+for it, I need somebody
+
+1403
+01:05:19,920 --> 01:05:22,783
+to keep their eye on my
+descent and glide path, okay?
+
+1404
+01:05:22,783 --> 01:05:23,616
+(patting shoulder)
+
+1405
+01:05:23,616 --> 01:05:24,980
+- You got it.
+
+1406
+01:05:24,980 --> 01:05:26,790
+But when we spot it, I'm outta here.
+
+1407
+01:05:40,820 --> 01:05:43,150
+- I gather you're an experienced flyer.
+
+1408
+01:05:43,150 --> 01:05:47,053
+When we land, can you
+manage that emergency door?
+
+1409
+01:05:48,580 --> 01:05:50,230
+- Pleasure to help however I can.
+
+1410
+01:05:51,490 --> 01:05:54,323
+- If you're as calm as you
+seem, I wish I were you.
+
+1411
+01:05:56,221 --> 01:05:58,095
+- Learned it in aerial combat.
+
+1412
+01:05:58,095 --> 01:05:59,200
+(light orchestral music)
+
+1413
+01:05:59,200 --> 01:06:01,413
+Sometimes style is all you have left.
+
+1414
+01:06:12,301 --> 01:06:16,468
+- Alicia, I'd like to
+dictate a letter to my wife.
+
+1415
+01:06:20,480 --> 01:06:23,697
+Actually, if you get to
+this point in the tape,
+
+1416
+01:06:23,697 --> 01:06:26,297
+could you shut it off and give it to Ann?
+
+1417
+01:06:28,091 --> 01:06:28,924
+Thank you.
+
+1418
+01:06:37,277 --> 01:06:38,810
+- God help me, this is hard.
+
+1419
+01:06:38,810 --> 01:06:39,643
+Maurice?
+
+1420
+01:06:42,080 --> 01:06:43,590
+- Just keep along the shore line.
+
+1421
+01:06:43,590 --> 01:06:44,490
+Can't find it yet.
+
+1422
+01:06:49,480 --> 01:06:50,892
+It's the first time in my life
+
+1423
+01:06:50,892 --> 01:06:53,243
+I'd rather be on the
+ground than in the air.
+
+1424
+01:07:05,309 --> 01:07:07,361
+- All right, Pearl?
+
+1425
+01:07:07,361 --> 01:07:08,278
+- I'm fine.
+
+1426
+01:07:09,150 --> 01:07:10,770
+I know that Rick wouldn't
+leave Chris and me
+
+1427
+01:07:10,770 --> 01:07:13,550
+if there was any real danger.
+
+1428
+01:07:13,550 --> 01:07:16,043
+As long as he's up
+there, we're doing fine.
+
+1429
+01:07:17,510 --> 01:07:18,580
+- You're right.
+
+1430
+01:07:18,580 --> 01:07:19,953
+You're absolutely right.
+
+1431
+01:07:29,473 --> 01:07:33,720
+(suspenseful orchestral music)
+
+1432
+01:07:33,720 --> 01:07:36,750
+- I'm supposed to pick
+up my folks at Edmonton.
+
+1433
+01:07:36,750 --> 01:07:38,350
+Wonder if anybody's called them.
+
+1434
+01:07:49,810 --> 01:07:51,873
+- We need someone,
+preferably someone strong,
+
+1435
+01:07:51,873 --> 01:07:54,023
+to help with the emergency doors.
+
+1436
+01:07:54,926 --> 01:07:58,140
+I assume you two would
+wanna stick together?
+
+1437
+01:07:58,140 --> 01:07:59,313
+- No, I can help.
+
+1438
+01:08:02,688 --> 01:08:03,521
+It's okay.
+
+1439
+01:08:05,050 --> 01:08:06,207
+It's all right.
+
+1440
+01:08:10,440 --> 01:08:13,360
+On second thought, we would
+like to stay together.
+
+1441
+01:08:13,360 --> 01:08:14,193
+- I understand.
+
+1442
+01:08:14,193 --> 01:08:15,026
+Thank you.
+
+1443
+01:08:21,180 --> 01:08:22,293
+- 174, come in.
+
+1444
+01:08:24,690 --> 01:08:26,233
+74, enough with the tea, all right?
+
+1445
+01:08:27,637 --> 01:08:28,470
+- [Man] You okay, Al?
+
+1446
+01:08:28,470 --> 01:08:30,800
+- I would be if you leave me alone.
+
+1447
+01:08:30,800 --> 01:08:32,760
+It's gotta be there.
+
+1448
+01:08:32,760 --> 01:08:34,370
+174, you're on the right heading.
+
+1449
+01:08:34,370 --> 01:08:35,420
+What's your altitude?
+
+1450
+01:08:38,096 --> 01:08:40,013
+- 4,000 and dropping.
+
+1451
+01:08:43,960 --> 01:08:45,320
+Find it, Maurice, in enough time,
+
+1452
+01:08:45,320 --> 01:08:47,043
+so I don't overshoot the strip.
+
+1453
+01:08:49,905 --> 01:08:51,988
+- [Maurice] Can't see it.
+
+1454
+01:08:53,153 --> 01:08:55,572
+- When do we reach Winnipeg?
+
+1455
+01:08:55,572 --> 01:08:56,777
+- The engine's dead.
+
+1456
+01:08:56,777 --> 01:08:57,830
+- Of course not.
+
+1457
+01:08:57,830 --> 01:08:59,690
+These are just very quiet planes.
+
+1458
+01:08:59,690 --> 01:09:01,060
+- Not that quiet.
+
+1459
+01:09:01,060 --> 01:09:02,610
+What fell off the bottom of the plane?
+
+1460
+01:09:02,610 --> 01:09:03,533
+I heard a noise.
+
+1461
+01:09:03,533 --> 01:09:04,366
+- That was just routine.
+
+1462
+01:09:04,366 --> 01:09:06,193
+- Don't lie to me.
+
+1463
+01:09:06,193 --> 01:09:07,608
+- Just be cool, okay?
+
+1464
+01:09:07,608 --> 01:09:08,441
+- Okay.
+
+1465
+01:09:08,441 --> 01:09:09,490
+- You wanna help?
+
+1466
+01:09:09,490 --> 01:09:11,830
+I need someone strong to
+work the emergency doors
+
+1467
+01:09:11,830 --> 01:09:12,780
+in case we need them.
+
+1468
+01:09:12,780 --> 01:09:13,613
+Can you do that?
+
+1469
+01:09:13,613 --> 01:09:14,446
+- Yeah, sorry.
+
+1470
+01:09:22,563 --> 01:09:24,310
+- Hey, what, what'd you
+do, close down the engines?
+
+1471
+01:09:24,310 --> 01:09:25,460
+This plane's awfully quiet.
+
+1472
+01:09:25,460 --> 01:09:26,677
+- It's just a quiet plane.
+
+1473
+01:09:26,677 --> 01:09:28,223
+Now keep your shirt on.
+
+1474
+01:09:31,034 --> 01:09:33,340
+- Wouldn't change seats if I were you.
+
+1475
+01:09:33,340 --> 01:09:35,870
+That's the only way they
+can identify the bodies.
+
+1476
+01:09:35,870 --> 01:09:37,320
+- Just try to be calm, all right?
+
+1477
+01:09:37,320 --> 01:09:39,243
+This is real hard on everybody.
+
+1478
+01:09:46,341 --> 01:09:47,440
+(suspenseful orchestral music)
+
+1479
+01:09:47,440 --> 01:09:50,330
+- 174, do you see small town
+along the spit of the land,
+
+1480
+01:09:50,330 --> 01:09:51,308
+the lakeshore?
+
+1481
+01:09:51,308 --> 01:09:52,641
+- [Bob] Nothing.
+
+1482
+01:09:54,444 --> 01:09:56,223
+Landfall's fading away.
+
+1483
+01:09:57,375 --> 01:09:58,530
+- Well, keep going.
+
+1484
+01:09:58,530 --> 01:10:00,474
+It's gotta be there, 174.
+
+1485
+01:10:00,474 --> 01:10:02,610
+- Easy, Al, you can't fly it for him.
+
+1486
+01:10:02,610 --> 01:10:03,860
+- I asked you to shut up.
+
+1487
+01:10:05,520 --> 01:10:06,353
+Sorry, man.
+
+1488
+01:10:06,353 --> 01:10:07,360
+I shouldn't have jumped at ya.
+
+1489
+01:10:07,360 --> 01:10:08,193
+- Forget me.
+
+1490
+01:10:08,193 --> 01:10:09,026
+Keep on 174.
+
+1491
+01:10:09,026 --> 01:10:09,859
+- It's no good.
+
+1492
+01:10:09,859 --> 01:10:10,692
+If they don't see it soon,
+
+1493
+01:10:10,692 --> 01:10:12,449
+he won't have the drag
+to drop on the runway
+
+1494
+01:10:12,449 --> 01:10:15,440
+and he'll lose his profile and just drop.
+
+1495
+01:10:15,440 --> 01:10:16,273
+What about Everett?
+
+1496
+01:10:16,273 --> 01:10:17,430
+Did you hear from the factory?
+
+1497
+01:10:17,430 --> 01:10:18,390
+- It's never happened before.
+
+1498
+01:10:18,390 --> 01:10:21,650
+There's no record of a plane
+ever running out of fuel.
+
+1499
+01:10:21,650 --> 01:10:22,483
+- Well, they're gonna make it.
+
+1500
+01:10:22,483 --> 01:10:24,643
+You just get some emergency
+vehicles out there.
+
+1501
+01:10:29,222 --> 01:10:31,763
+- [Maurice] I can't see it.
+
+1502
+01:10:31,763 --> 01:10:32,596
+I can't see it.
+
+1503
+01:10:34,427 --> 01:10:36,089
+- It looks like this is it, Ann.
+
+1504
+01:10:36,089 --> 01:10:38,490
+(dramatic orchestral music)
+
+1505
+01:10:38,490 --> 01:10:39,973
+It all seems silly to me now,
+
+1506
+01:10:41,270 --> 01:10:43,320
+all the time that I spent making a living
+
+1507
+01:10:44,600 --> 01:10:46,103
+and never making time to live.
+
+1508
+01:10:48,010 --> 01:10:49,460
+I should've worked on loving.
+
+1509
+01:10:50,326 --> 01:10:51,650
+(chuckling)
+
+1510
+01:10:51,650 --> 01:10:53,103
+I never did love working.
+
+1511
+01:10:55,220 --> 01:10:57,913
+It was just the illusion of winning.
+
+1512
+01:11:00,730 --> 01:11:04,033
+Sweetheart, I love you.
+
+1513
+01:11:06,097 --> 01:11:07,823
+I love you so much.
+
+1514
+01:11:10,414 --> 01:11:11,690
+(tape recorder clicking)
+
+1515
+01:11:11,690 --> 01:11:13,880
+- Yeah, have 'em clear
+the emergency vehicles
+
+1516
+01:11:13,880 --> 01:11:15,011
+and reopen the runway.
+
+1517
+01:11:15,011 --> 01:11:17,724
+And see if there's a
+control unit out in Gimley,
+
+1518
+01:11:17,724 --> 01:11:19,891
+just in case they find it.
+
+1519
+01:11:26,840 --> 01:11:30,373
+Right, I'll call the
+accident investigation board.
+
+1520
+01:11:32,750 --> 01:11:33,583
+Yeah.
+
+1521
+01:11:35,630 --> 01:11:36,610
+- Ready?
+
+1522
+01:11:36,610 --> 01:11:38,592
+- Yeah, and call the army.
+
+1523
+01:11:38,592 --> 01:11:40,523
+Probably gonna need graves detail.
+
+1524
+01:11:43,140 --> 01:11:45,740
+- It's gotta be there,
+it's gotta be there.
+
+1525
+01:11:45,740 --> 01:11:47,610
+- Stay calm, Maurice, and keep looking.
+
+1526
+01:11:47,610 --> 01:11:49,710
+We still got a few minutes before we drop.
+
+1527
+01:11:52,508 --> 01:11:53,503
+- [Maurice] I can't see it.
+
+1528
+01:11:54,600 --> 01:11:56,650
+It's gotta be there, it's gotta be there.
+
+1529
+01:11:58,790 --> 01:12:00,340
+- Can you drop it in the drink?
+
+1530
+01:12:01,240 --> 01:12:02,496
+- I can try, Rick.
+
+1531
+01:12:02,496 --> 01:12:03,862
+I can try.
+
+1532
+01:12:03,862 --> 01:12:05,183
+- He's gonna put her in the water.
+
+1533
+01:12:06,180 --> 01:12:09,740
+- Let's just hope this big baby
+swims as well as she flies.
+
+1534
+01:12:09,740 --> 01:12:13,640
+- 150 tons hitting at 120 knots.
+
+1535
+01:12:13,640 --> 01:12:16,470
+I'm not sure there's much chance of that.
+
+1536
+01:12:17,491 --> 01:12:22,491
+(suspenseful orchestral music rising)
+
+1537
+01:12:22,711 --> 01:12:26,378
+(dramatic orchestral music)
+
+1538
+01:12:28,063 --> 01:12:29,253
+Bob, it's no good.
+
+1539
+01:12:30,620 --> 01:12:31,720
+We're gonna hit water.
+
+1540
+01:12:33,630 --> 01:12:35,373
+- Winnipeg, this is 174.
+
+1541
+01:12:36,342 --> 01:12:38,693
+One thing I have left
+is to pull her to port.
+
+1542
+01:12:40,120 --> 01:12:42,870
+(crowd cheering)
+
+1543
+01:12:44,201 --> 01:12:45,034
+(remote clicking)
+
+1544
+01:12:45,034 --> 01:12:46,420
+- [News Anchor] The group of
+bankers withdrew the notion
+
+1545
+01:12:46,420 --> 01:12:48,120
+of a rise in the index.
+
+1546
+01:12:48,120 --> 01:12:49,993
+- [Announcer] We'll be right
+back after these messages.
+
+1547
+01:12:51,252 --> 01:12:53,919
+(phone ringing)
+
+1548
+01:12:59,780 --> 01:13:01,432
+- There.
+
+1549
+01:13:01,432 --> 01:13:02,431
+There, I see it.
+
+1550
+01:13:02,431 --> 01:13:03,264
+(grand orchestral music)
+
+1551
+01:13:03,264 --> 01:13:04,097
+- Yeah!
+
+1552
+01:13:04,097 --> 01:13:04,930
+- [Maurice] I see Gimley.
+
+1553
+01:13:04,930 --> 01:13:05,763
+- Yes!
+
+1554
+01:13:05,763 --> 01:13:06,831
+Yeah, all right.
+
+1555
+01:13:06,831 --> 01:13:08,010
+- [Bob] Winnipeg, what've I got?
+
+1556
+01:13:08,010 --> 01:13:09,160
+- Two runways.
+
+1557
+01:13:09,160 --> 01:13:10,908
+Right is sometimes used
+for light aircraft.
+
+1558
+01:13:10,908 --> 01:13:12,547
+Left should be empty.
+
+1559
+01:13:12,547 --> 01:13:14,389
+Can you see the two runways?
+
+1560
+01:13:14,389 --> 01:13:16,210
+- No, but Maurice is dead on.
+
+1561
+01:13:16,210 --> 01:13:18,678
+This has gotta be it.
+
+1562
+01:13:18,678 --> 01:13:19,930
+- Remember, go left.
+
+1563
+01:13:19,930 --> 01:13:21,030
+That's the unused one.
+
+1564
+01:13:32,626 --> 01:13:34,900
+(socket wrench clicking)
+
+1565
+01:13:34,900 --> 01:13:36,218
+- Hey, honey, how's it going?
+
+1566
+01:13:36,218 --> 01:13:39,443
+- Same as usual, you know, nuts and bolts.
+
+1567
+01:13:42,512 --> 01:13:46,429
+(suspenseful orchestral music)
+
+1568
+01:13:56,270 --> 01:13:57,330
+- Don't worry, mommy.
+
+1569
+01:13:57,330 --> 01:13:58,953
+Daddy can fix anything.
+
+1570
+01:14:00,206 --> 01:14:03,566
+- He sure can, but he
+may need a little help,
+
+1571
+01:14:03,566 --> 01:14:04,980
+just in case.
+
+1572
+01:14:04,980 --> 01:14:06,153
+I think we should pray.
+
+1573
+01:14:16,675 --> 01:14:17,508
+- Go left.
+
+1574
+01:14:18,425 --> 01:14:19,350
+Go left.
+
+1575
+01:14:19,350 --> 01:14:20,423
+Talk to me, Maurice.
+
+1576
+01:14:22,779 --> 01:14:25,210
+- Too fast, too fast, we'll overshoot.
+
+1577
+01:14:25,210 --> 01:14:26,043
+Lose altitude.
+
+1578
+01:14:27,020 --> 01:14:28,990
+- I'm already side slipping.
+
+1579
+01:14:28,990 --> 01:14:29,823
+- Then we'll overshoot.
+
+1580
+01:14:29,823 --> 01:14:31,190
+Drag.
+
+1581
+01:14:31,190 --> 01:14:32,023
+Drag.
+
+1582
+01:14:32,970 --> 01:14:34,000
+- Drop the landing gear.
+
+1583
+01:14:34,000 --> 01:14:37,210
+That oughta do it.
+
+1584
+01:14:37,210 --> 01:14:38,310
+- [Maurice] Gear down.
+
+1585
+01:14:46,200 --> 01:14:47,033
+- Nothing.
+
+1586
+01:14:50,940 --> 01:14:52,640
+- Alternate gear extension switch.
+
+1587
+01:14:59,535 --> 01:15:00,780
+- That's it, that's it.
+
+1588
+01:15:00,780 --> 01:15:02,093
+I feel it.
+
+1589
+01:15:06,552 --> 01:15:09,335
+(instrument panel beeping)
+
+1590
+01:15:09,335 --> 01:15:10,168
+- No.
+
+1591
+01:15:12,050 --> 01:15:13,760
+- Nose gear isn't locked.
+
+1592
+01:15:13,760 --> 01:15:14,760
+- It's too late now.
+
+1593
+01:15:19,730 --> 01:15:22,897
+(seat belt releasing)
+
+1594
+01:15:23,970 --> 01:15:24,870
+- God be with you.
+
+1595
+01:15:26,539 --> 01:15:27,706
+And all of us.
+
+1596
+01:15:29,950 --> 01:15:32,220
+- Emergency landing positions.
+
+1597
+01:15:32,220 --> 01:15:34,918
+(door opening)
+
+1598
+01:15:34,918 --> 01:15:37,501
+(door closing)
+
+1599
+01:15:39,320 --> 01:15:41,123
+- [James Voiceover] His face says it all.
+
+1600
+01:15:44,010 --> 01:15:45,043
+Must be going down.
+
+1601
+01:15:48,550 --> 01:15:51,870
+Wonder if the boys who
+flew with me in 1945
+
+1602
+01:15:51,870 --> 01:15:52,770
+had time to think.
+
+1603
+01:15:56,761 --> 01:15:58,500
+I was so young then.
+
+1604
+01:16:03,160 --> 01:16:04,193
+Guess I'm lucky.
+
+1605
+01:16:31,990 --> 01:16:34,510
+- [Pearl Voiceover] He's
+trying to reassure me.
+
+1606
+01:16:34,510 --> 01:16:37,803
+He's still not thinking about himself.
+
+1607
+01:16:44,570 --> 01:16:45,880
+- Pretty soon, George, you'll be too fast
+
+1608
+01:16:45,880 --> 01:16:47,180
+for our little racing cup.
+
+1609
+01:16:48,107 --> 01:16:49,170
+- I don't come for the races, honey.
+
+1610
+01:16:49,170 --> 01:16:51,093
+It's the people.
+
+1611
+01:16:51,093 --> 01:16:53,343
+(laughing)
+
+1612
+01:16:56,081 --> 01:17:00,313
+(suspenseful orchestral music)
+
+1613
+01:17:00,313 --> 01:17:01,693
+- 3,000 feet and closing.
+
+1614
+01:17:02,750 --> 01:17:04,050
+Hang left.
+
+1615
+01:17:04,050 --> 01:17:04,883
+- Roger.
+
+1616
+01:17:05,900 --> 01:17:06,953
+Steady, hang left.
+
+1617
+01:17:08,855 --> 01:17:10,213
+- [Norma Voiceover]
+Why aren't I screaming?
+
+1618
+01:17:11,300 --> 01:17:12,433
+I should be scared.
+
+1619
+01:17:14,700 --> 01:17:16,000
+It's because I'm with you.
+
+1620
+01:17:17,533 --> 01:17:18,983
+I love you with all my heart.
+
+1621
+01:17:20,310 --> 01:17:22,210
+Why did it take us
+until the end to realize
+
+1622
+01:17:22,210 --> 01:17:23,613
+how much we had together?
+
+1623
+01:17:25,590 --> 01:17:26,660
+Just hold me.
+
+1624
+01:17:57,270 --> 01:17:58,468
+- We've just received reports
+
+1625
+01:17:58,468 --> 01:18:01,730
+of a Canada World Airways
+flight in distress,
+
+1626
+01:18:01,730 --> 01:18:05,150
+originally bound for Edmonton
+and re-routed to Winnipeg.
+
+1627
+01:18:05,150 --> 01:18:08,190
+The plane carrying 67
+passengers and six crew
+
+1628
+01:18:08,190 --> 01:18:10,714
+had experienced mid-air
+mechanical problems.
+
+1629
+01:18:10,714 --> 01:18:13,420
+We have no word as yet
+whether the aircraft
+
+1630
+01:18:13,420 --> 01:18:14,760
+has safely landed.
+
+1631
+01:18:14,760 --> 01:18:16,635
+We'll stay with this story as it unfolds.
+
+1632
+01:18:16,635 --> 01:18:17,685
+(dramatic orchestral music)
+
+1633
+01:18:17,685 --> 01:18:18,610
+After the break,
+
+1634
+01:18:18,610 --> 01:18:20,320
+we'll come back with a
+full entertainment report.
+
+1635
+01:18:20,320 --> 01:18:22,734
+- No, I knew it.
+
+1636
+01:18:22,734 --> 01:18:23,567
+I knew it.
+
+1637
+01:18:25,445 --> 01:18:26,278
+I knew it.
+
+1638
+01:18:27,876 --> 01:18:29,115
+- Find that runway.
+
+1639
+01:18:29,115 --> 01:18:30,673
+(suspenseful orchestral music)
+
+1640
+01:18:30,673 --> 01:18:32,270
+- 2,500 feet.
+
+1641
+01:18:32,270 --> 01:18:33,657
+Keep your descent.
+
+1642
+01:18:35,433 --> 01:18:37,603
+2,000 feet and closing.
+
+1643
+01:18:37,603 --> 01:18:38,856
+- [Woman] Hey, Joe.
+
+1644
+01:18:38,856 --> 01:18:40,720
+- Mom, can we sprint okay?
+
+1645
+01:18:40,720 --> 01:18:42,480
+- Sure, but just one.
+
+1646
+01:18:42,480 --> 01:18:43,703
+Lunch is almost ready.
+
+1647
+01:18:49,518 --> 01:18:52,145
+(suspenseful orchestral music)
+
+1648
+01:18:52,145 --> 01:18:52,992
+- [Phil Voiceover] What will they say
+
+1649
+01:18:52,992 --> 01:18:53,825
+at the family reunion?
+
+1650
+01:18:56,816 --> 01:19:01,783
+He never reached out,
+only thought of himself.
+
+1651
+01:19:10,084 --> 01:19:12,530
+- [Bob Voiceover] Oh
+God, get me out of this.
+
+1652
+01:19:12,530 --> 01:19:16,961
+I'll get it right, I swear I will.
+
+1653
+01:19:16,961 --> 01:19:18,294
+My God, help me.
+
+1654
+01:19:19,657 --> 01:19:21,133
+Get me through this, please.
+
+1655
+01:19:22,812 --> 01:19:23,645
+Oh, God.
+
+1656
+01:19:29,105 --> 01:19:32,155
+(suspenseful orchestral music)
+
+1657
+01:19:32,155 --> 01:19:32,988
+(grunting)
+
+1658
+01:19:32,988 --> 01:19:35,280
+- Lower, still lower.
+
+1659
+01:19:35,280 --> 01:19:36,910
+More drag.
+
+1660
+01:19:36,910 --> 01:19:38,375
+- Going over.
+
+1661
+01:19:38,375 --> 01:19:40,625
+(grunting)
+
+1662
+01:19:44,563 --> 01:19:48,230
+(dramatic orchestral music)
+
+1663
+01:20:12,965 --> 01:20:14,593
+- [Lynn Voiceover] No.
+
+1664
+01:20:14,593 --> 01:20:15,926
+What better way?
+
+1665
+01:20:17,305 --> 01:20:18,205
+A child in her lap
+
+1666
+01:20:20,035 --> 01:20:21,635
+and her true love's at her side.
+
+1667
+01:20:23,430 --> 01:20:25,503
+I will see my baby again.
+
+1668
+01:20:26,995 --> 01:20:27,828
+I will.
+
+1669
+01:20:46,726 --> 01:20:48,809
+(crying)
+
+1670
+01:20:55,480 --> 01:20:57,780
+- [Pearl Voiceover] What
+have we done to Chris?
+
+1671
+01:20:57,780 --> 01:20:59,280
+What could his life have been?
+
+1672
+01:21:00,640 --> 01:21:02,183
+Dear God, take me.
+
+1673
+01:21:03,210 --> 01:21:04,453
+Spare my baby.
+
+1674
+01:21:11,650 --> 01:21:13,163
+- Look at that plane, would ya?
+
+1675
+01:21:14,030 --> 01:21:15,243
+- [Woman] Of course it's a plane.
+
+1676
+01:21:16,166 --> 01:21:19,993
+- Are they landing in that
+other air strip over there?
+
+1677
+01:21:22,551 --> 01:21:24,501
+That is one quiet plane, if you ask me.
+
+1678
+01:21:30,951 --> 01:21:34,868
+(suspenseful orchestral music)
+
+1679
+01:21:38,220 --> 01:21:39,320
+- [Maurice] Bear left.
+
+1680
+01:21:40,785 --> 01:21:42,656
+- Left, left side.
+
+1681
+01:21:42,656 --> 01:21:43,489
+Damn.
+
+1682
+01:21:44,568 --> 01:21:45,485
+Drop, babe.
+
+1683
+01:21:46,576 --> 01:21:47,520
+Drop, babe.
+
+1684
+01:21:47,520 --> 01:21:49,770
+(grunting)
+
+1685
+01:21:53,867 --> 01:21:55,130
+- Get these cars off the runway.
+
+1686
+01:21:55,130 --> 01:21:56,573
+That plane's coming down.
+
+1687
+01:21:57,493 --> 01:21:58,370
+Move it!
+
+1688
+01:21:58,370 --> 01:21:59,310
+Move it, drivers!
+
+1689
+01:21:59,310 --> 01:22:01,119
+Get these cars off the runway!
+
+1690
+01:22:01,119 --> 01:22:04,059
+(yelling)
+
+1691
+01:22:04,059 --> 01:22:06,892
+(engines revving)
+
+1692
+01:22:20,138 --> 01:22:22,677
+- What are all those people doing there?
+
+1693
+01:22:22,677 --> 01:22:24,760
+Look at all those people.
+
+1694
+01:22:28,009 --> 01:22:28,842
+- Jim!
+
+1695
+01:22:29,694 --> 01:22:30,999
+- Kid, kid!
+
+1696
+01:22:30,999 --> 01:22:32,520
+- Jim.
+
+1697
+01:22:32,520 --> 01:22:34,512
+Get down, get off the runway!
+
+1698
+01:22:34,512 --> 01:22:36,345
+Jim, get out of there.
+
+1699
+01:22:37,206 --> 01:22:39,706
+- There's a kid on the runway!
+
+1700
+01:22:40,934 --> 01:22:42,438
+- Get out of there!
+
+1701
+01:22:42,438 --> 01:22:44,239
+Jim, get off the runway!
+
+1702
+01:22:44,239 --> 01:22:45,072
+A plane!
+
+1703
+01:22:45,072 --> 01:22:45,968
+Get out!
+
+1704
+01:22:45,968 --> 01:22:47,931
+- Keep it steady.
+
+1705
+01:22:47,931 --> 01:22:48,764
+- Jim!
+
+1706
+01:22:53,779 --> 01:22:55,071
+- Love you, mom.
+
+1707
+01:22:55,071 --> 01:22:56,238
+Love you, dad.
+
+1708
+01:22:58,606 --> 01:22:59,439
+Contact.
+
+1709
+01:23:00,830 --> 01:23:01,841
+(tires screeching)
+
+1710
+01:23:01,841 --> 01:23:03,237
+(crying)
+
+1711
+01:23:03,237 --> 01:23:04,280
+(nose grinding)
+
+1712
+01:23:04,280 --> 01:23:06,613
+(screaming)
+
+1713
+01:23:12,927 --> 01:23:14,177
+Brakes, brakes!
+
+1714
+01:23:15,621 --> 01:23:18,371
+Brakes, right brake, right brake.
+
+1715
+01:23:19,400 --> 01:23:21,073
+Left brake, left brake.
+
+1716
+01:23:21,073 --> 01:23:22,389
+(screaming)
+
+1717
+01:23:22,389 --> 01:23:23,222
+Brakes!
+
+1718
+01:23:25,450 --> 01:23:26,283
+Brakes!
+
+1719
+01:23:27,318 --> 01:23:29,401
+(crying)
+
+1720
+01:23:32,328 --> 01:23:34,244
+More brakes, pound 'em.
+
+1721
+01:23:34,244 --> 01:23:35,541
+Come on, stop.
+
+1722
+01:23:35,541 --> 01:23:36,374
+Stop!
+
+1723
+01:23:37,306 --> 01:23:39,524
+(crying)
+
+1724
+01:23:39,524 --> 01:23:42,274
+(plane grinding)
+
+1725
+01:23:44,604 --> 01:23:47,437
+(heavy breathing)
+
+1726
+01:23:53,023 --> 01:23:54,651
+(suspenseful orchestral music)
+
+1727
+01:23:54,651 --> 01:23:57,490
+(electricity zapping)
+
+1728
+01:23:57,490 --> 01:23:59,050
+Smoke, smoke, we got a fire.
+
+1729
+01:23:59,050 --> 01:23:59,924
+We got a fire.
+
+1730
+01:23:59,924 --> 01:24:01,397
+- No, no.
+
+1731
+01:24:01,397 --> 01:24:02,230
+No.
+
+1732
+01:24:11,407 --> 01:24:14,837
+(suspenseful orchestral music)
+
+1733
+01:24:14,837 --> 01:24:16,812
+(electricity zapping)
+
+1734
+01:24:16,812 --> 01:24:18,812
+- Out of here, let's go.
+
+1735
+01:24:19,804 --> 01:24:22,656
+(seat belts releasing)
+
+1736
+01:24:22,656 --> 01:24:23,489
+(coughing)
+
+1737
+01:24:23,489 --> 01:24:24,682
+Fire extinguisher.
+
+1738
+01:24:24,682 --> 01:24:26,063
+We've gotta get this fire out.
+
+1739
+01:24:28,834 --> 01:24:31,334
+(all yelling)
+
+1740
+01:24:34,375 --> 01:24:35,598
+- [Man] The exit!
+
+1741
+01:24:35,598 --> 01:24:39,348
+(fire extinguisher spraying)
+
+1742
+01:24:41,545 --> 01:24:42,437
+- Get out of here.
+
+1743
+01:24:42,437 --> 01:24:43,400
+The smoke could be poisonous.
+
+1744
+01:24:43,400 --> 01:24:44,233
+Go!
+
+1745
+01:24:45,410 --> 01:24:46,503
+You too.
+
+1746
+01:24:46,503 --> 01:24:47,920
+- I'm gonna help.
+
+1747
+01:24:51,084 --> 01:24:53,433
+- Everybody, fire extinguishers.
+
+1748
+01:24:53,433 --> 01:24:56,003
+First aid, blankets, hurry!
+
+1749
+01:24:56,003 --> 01:24:56,836
+Hurry!
+
+1750
+01:24:59,292 --> 01:25:00,412
+- Need someone to catch the others.
+
+1751
+01:25:00,412 --> 01:25:01,569
+Go, go!
+
+1752
+01:25:01,569 --> 01:25:03,736
+(yelling)
+
+1753
+01:25:08,032 --> 01:25:09,133
+- Are you okay?
+
+1754
+01:25:09,133 --> 01:25:10,883
+- Feet first, go, go.
+
+1755
+01:25:18,738 --> 01:25:19,571
+- Wait.
+
+1756
+01:25:19,571 --> 01:25:20,404
+- Come on.
+
+1757
+01:25:20,404 --> 01:25:21,237
+- Smoke.
+
+1758
+01:25:23,335 --> 01:25:24,408
+- Okay, go, go.
+
+1759
+01:25:24,408 --> 01:25:25,913
+Come on, come on.
+
+1760
+01:25:27,000 --> 01:25:28,283
+- Feet first, go, down.
+
+1761
+01:25:30,910 --> 01:25:34,323
+- Come on, before you burn, come on!
+
+1762
+01:25:34,323 --> 01:25:35,336
+- Down, feet first.
+
+1763
+01:25:35,336 --> 01:25:36,169
+Go.
+
+1764
+01:25:39,798 --> 01:25:43,280
+First, straight to the bottom.
+
+1765
+01:25:43,280 --> 01:25:45,530
+(laughing)
+
+1766
+01:25:47,587 --> 01:25:50,350
+(fire extinguishers spraying)
+
+1767
+01:25:50,350 --> 01:25:51,588
+- Feet first.
+
+1768
+01:25:51,588 --> 01:25:53,838
+(coughing)
+
+1769
+01:25:55,483 --> 01:25:57,733
+(coughing)
+
+1770
+01:25:58,972 --> 01:26:00,889
+Straight to the bottom.
+
+1771
+01:26:02,296 --> 01:26:04,260
+- The extinguishers are dead.
+
+1772
+01:26:04,260 --> 01:26:06,325
+Let's get out of here.
+
+1773
+01:26:06,325 --> 01:26:09,180
+Come on, come on, come on.
+
+1774
+01:26:09,180 --> 01:26:10,940
+- Sir, feet first.
+
+1775
+01:26:10,940 --> 01:26:12,807
+Roll with the baby.
+
+1776
+01:26:12,807 --> 01:26:13,779
+It's okay, it's okay.
+
+1777
+01:26:13,779 --> 01:26:16,090
+Just, okay, here we go.
+
+1778
+01:26:16,090 --> 01:26:16,923
+Sir?
+
+1779
+01:26:24,063 --> 01:26:25,447
+Pearl, come on, go
+
+1780
+01:26:25,447 --> 01:26:27,614
+it's okay, feet first, go.
+
+1781
+01:26:34,912 --> 01:26:35,745
+- Hang on.
+
+1782
+01:26:35,745 --> 01:26:37,578
+- Okay, roll with him.
+
+1783
+01:26:43,577 --> 01:26:45,827
+(coughing)
+
+1784
+01:26:51,726 --> 01:26:52,882
+- Is that it?
+
+1785
+01:26:52,882 --> 01:26:53,930
+Bob, Maurice?
+
+1786
+01:26:53,930 --> 01:26:54,850
+- Maurice, straight back.
+
+1787
+01:26:54,850 --> 01:26:56,873
+- Come on back, let's go, come on!
+
+1788
+01:26:58,217 --> 01:26:59,050
+(coughing)
+
+1789
+01:26:59,050 --> 01:26:59,883
+Did you check every seat?
+
+1790
+01:26:59,883 --> 01:27:00,716
+- Yeah, let's go.
+
+1791
+01:27:00,716 --> 01:27:01,549
+Out!
+
+1792
+01:27:01,549 --> 01:27:03,632
+- Keep going, keep going.
+
+1793
+01:27:11,494 --> 01:27:12,661
+- Come on, Mo!
+
+1794
+01:27:16,115 --> 01:27:18,365
+(grunting)
+
+1795
+01:27:26,419 --> 01:27:28,669
+(coughing)
+
+1796
+01:27:30,569 --> 01:27:32,319
+- Bob's still inside.
+
+1797
+01:27:34,857 --> 01:27:37,107
+(coughing)
+
+1798
+01:27:48,559 --> 01:27:51,726
+(electricity zapping)
+
+1799
+01:27:52,650 --> 01:27:54,900
+(coughing)
+
+1800
+01:28:01,210 --> 01:28:02,236
+(extinguisher spraying)
+
+1801
+01:28:02,236 --> 01:28:03,069
+- Let's go.
+
+1802
+01:28:03,069 --> 01:28:05,569
+- [Rick] Give me a flashlight.
+
+1803
+01:28:46,408 --> 01:28:48,658
+(grunting)
+
+1804
+01:28:57,571 --> 01:28:58,988
+- [Maurice] Okay.
+
+1805
+01:29:01,900 --> 01:29:03,662
+(coughing)
+
+1806
+01:29:03,662 --> 01:29:06,829
+(electricity zapping)
+
+1807
+01:29:18,942 --> 01:29:20,884
+(coughing)
+
+1808
+01:29:20,884 --> 01:29:23,217
+- [Rick] Bob, are you there?
+
+1809
+01:29:25,089 --> 01:29:27,172
+- [Man] Come on, come on.
+
+1810
+01:29:29,329 --> 01:29:31,200
+(electricity zapping)
+
+1811
+01:29:31,200 --> 01:29:32,231
+- [Rick] Here he is.
+
+1812
+01:29:32,231 --> 01:29:34,346
+- [Maurice] Bob, Bob.
+
+1813
+01:29:34,346 --> 01:29:37,060
+Bob, Bob, are you all right?
+
+1814
+01:29:37,060 --> 01:29:38,473
+- [Rick] Is he breathing?
+
+1815
+01:29:38,473 --> 01:29:40,400
+- [Maurice] Bob, Bob, can you hear me?
+
+1816
+01:29:40,400 --> 01:29:41,470
+Bob?
+
+1817
+01:29:41,470 --> 01:29:44,405
+- [Al] What's keeping
+those emergency vehicles?
+
+1818
+01:29:44,405 --> 01:29:45,936
+(siren wailing)
+
+1819
+01:29:45,936 --> 01:29:49,603
+(dramatic orchestral music)
+
+1820
+01:30:07,934 --> 01:30:09,235
+- [Man] I see them, there they are!
+
+1821
+01:30:09,235 --> 01:30:10,355
+- [Larry] All right!
+
+1822
+01:30:10,355 --> 01:30:11,858
+(crowd clapping and cheering)
+
+1823
+01:30:11,858 --> 01:30:15,275
+(grand orchestral music)
+
+1824
+01:30:21,287 --> 01:30:23,537
+(coughing)
+
+1825
+01:30:28,203 --> 01:30:30,286
+- You did it, you did it.
+
+1826
+01:30:31,194 --> 01:30:33,149
+- Thank God, we're all right, Pearl.
+
+1827
+01:30:33,149 --> 01:30:34,023
+We're all right.
+
+1828
+01:30:34,023 --> 01:30:34,856
+- Passengers and crew?
+
+1829
+01:30:34,856 --> 01:30:35,689
+- A few minor injuries.
+
+1830
+01:30:35,689 --> 01:30:36,522
+Everybody's off the plane.
+
+1831
+01:30:36,522 --> 01:30:37,355
+Everybody's fine.
+
+1832
+01:30:37,355 --> 01:30:38,188
+- You're safe.
+
+1833
+01:30:38,188 --> 01:30:39,320
+You did it, you did it.
+
+1834
+01:30:39,320 --> 01:30:40,881
+- We did it, we did it.
+
+1835
+01:30:40,881 --> 01:30:42,904
+We don't wanna do it again, real quick.
+
+1836
+01:30:42,904 --> 01:30:43,988
+- No, we don't.
+
+1837
+01:30:43,988 --> 01:30:46,321
+(chuckling)
+
+1838
+01:32:21,883 --> 01:32:25,300
+(light orchestral music)
+
+1839
+01:32:27,363 --> 01:32:30,613
+(reporters chattering)
+
+1840
+01:32:37,951 --> 01:32:40,868
+(cameras clicking)
+
+1841
+01:32:43,518 --> 01:32:45,563
+- [Reporter] How's it
+feel to be home, sir?
+
+1842
+01:32:46,580 --> 01:32:48,580
+- Feels good to be home.
+
+1843
+01:33:12,300 --> 01:33:15,717
+(light orchestral music)
+
+1844
+01:33:58,121 --> 01:34:00,954
+(MultiCom Jingle)
+

@@ -1,0 +1,5298 @@
+﻿1
+00:00:03,008 --> 00:00:07,320
+Subtitle created by <font color="#ffff00">- Aorion -</font>
+"Passengers (2016)" ^ (Run time 01:47:33)
+
+2
+00:01:24,589 --> 00:01:30,812
+PASSENGERS
+
+3
+00:01:31,776 --> 00:01:35,099
+INTERSTELLAR STARSHIP AVALON
+
+4
+00:01:36,190 --> 00:01:41,427
+DESTINATION
+THE COLONIAL WORLD HOMESTEAD II
+
+5
+00:01:55,776 --> 00:01:59,066
+STATUS: AUTOPILOT
+
+6
+00:01:59,776 --> 00:02:04,260
+CIRCLE OF CONTROL
+TRIPULATION HIBERNATION QUARTERS
+
+7
+00:02:05,076 --> 00:02:08,566
+CREW: 258
+
+8
+00:02:09,499 --> 00:02:11,606
+PASSENGERS:
+
+9
+00:02:11,631 --> 00:02:15,113
+PASSENGERS: 5,000
+
+10
+00:02:38,971 --> 00:02:41,195
+<font color="#00bfbf">DIVERTING POWER TO
+MAIN SHIELD</font>
+
+11
+00:03:03,152 --> 00:03:04,599
+<font color="#80ffff">COLLISION ALERT</font>
+
+12
+00:03:24,103 --> 00:03:25,440
+<font color="#ff8080">REPAIRING
+FUSION REACTOR</font>
+
+13
+00:03:25,465 --> 00:03:25,879
+<font color="#ff9866">REPAIRING
+FUSION REACTOR</font>
+
+14
+00:03:25,904 --> 00:03:26,364
+<font color="#80ff80">REPAIRING
+FUSION REACTOR</font>
+
+15
+00:03:26,389 --> 00:03:26,941
+<font color="#00bfbf">REPAIRING
+FUSION REACTOR</font>
+
+16
+00:03:59,912 --> 00:04:01,740
+JAMES PRESTON
+DENVER, COLORADO
+RATE 2 MECHANICAL ENGINEER
+
+17
+00:04:24,443 --> 00:04:26,294
+Good Morning, James!
+
+18
+00:04:26,319 --> 00:04:27,898
+How're you feeling?
+
+19
+00:04:27,923 --> 00:04:29,232
+Wait, what?
+
+20
+00:04:29,257 --> 00:04:31,981
+It's perfectly normal to feel confused.
+
+21
+00:04:32,006 --> 00:04:35,809
+You've just spent a 120 years
+in suspended animation.
+
+22
+00:04:36,450 --> 00:04:37,531
+What?
+
+23
+00:04:37,556 --> 00:04:39,468
+It's okay, James.
+
+24
+00:04:39,493 --> 00:04:40,604
+It's Jim.
+
+25
+00:04:40,629 --> 00:04:42,014
+Jim.
+
+26
+00:04:42,431 --> 00:04:44,085
+Just breathe.
+
+27
+00:04:44,110 --> 00:04:45,602
+Everything is okay.
+
+28
+00:04:45,627 --> 00:04:46,757
+Where am I?
+
+29
+00:04:46,782 --> 00:04:48,960
+You're a passenger on the Starship Avalon.
+
+30
+00:04:48,985 --> 00:04:52,774
+The Homestead Company's
+premier interstellar star liner.
+
+31
+00:04:53,825 --> 00:04:57,743
+We've nearly completed the voyage
+from Earth to your new home,
+
+32
+00:04:57,768 --> 00:05:00,662
+the colony world of Homestead II.
+
+33
+00:05:00,947 --> 00:05:02,186
+A new world.
+
+34
+00:05:02,211 --> 00:05:03,695
+A fresh start.
+
+35
+00:05:03,720 --> 00:05:05,525
+Room to grow.
+
+36
+00:05:05,550 --> 00:05:06,897
+Oh, yeah.
+
+37
+00:05:06,922 --> 00:05:09,055
+The Avalon is on final approach.
+
+38
+00:05:09,080 --> 00:05:11,420
+For the next 4 months,
+you'll enjoy space travel
+
+39
+00:05:11,445 --> 00:05:13,692
+at it's most luxurious.
+
+40
+00:05:13,717 --> 00:05:16,384
+Food. Fun.
+Friends.
+
+41
+00:05:16,409 --> 00:05:17,578
+My friends.
+
+42
+00:05:17,603 --> 00:05:19,092
+That's right, Jim.
+
+43
+00:05:19,117 --> 00:05:23,371
+The I.D. band on your wrist is your key
+to the wonders of the Avalon.
+
+44
+00:05:24,746 --> 00:05:26,659
+You're in perfect health, Jim.
+
+45
+00:05:26,684 --> 00:05:29,828
+Let's get you to your cabin
+where you can get some rest.
+
+46
+00:05:37,049 --> 00:05:41,123
+You maybe experiencing post-hibernation sickness.
+
+47
+00:05:42,259 --> 00:05:44,752
+Your door will be lite up for you.
+
+48
+00:05:47,815 --> 00:05:49,245
+Welcome to your cabin.
+
+49
+00:05:49,270 --> 00:05:51,630
+Your home until we make landfall.
+
+50
+00:05:51,655 --> 00:05:56,042
+Over the next 4 months, you'll prepare
+for your new life on Homestead II.
+
+51
+00:05:56,067 --> 00:05:59,159
+Meet you fellow passengers,
+take skill building classes
+
+52
+00:05:59,184 --> 00:06:01,559
+and learn about colonial living.
+
+53
+00:06:01,767 --> 00:06:04,179
+You've been assigned to Learning group 38,
+
+54
+00:06:04,204 --> 00:06:07,552
+for passengers with engineering
+and technical trade skills.
+
+55
+00:06:07,577 --> 00:06:10,652
+Please scan your I.D.
+to confirm luggage delivery.
+
+56
+00:06:11,548 --> 00:06:16,140
+Jim, please scan your I.D.
+to confirm luggage delivery.
+
+57
+00:06:20,391 --> 00:06:25,138
+To help you recover from hibernation,
+be sure to drink plenty of fluids
+
+58
+00:06:26,533 --> 00:06:29,260
+Enjoy the rest of your voyage
+on the Avalon,
+
+59
+00:06:29,285 --> 00:06:32,105
+a Homestead Company Starship
+
+60
+00:06:34,009 --> 00:06:35,345
+Good morning one and all.
+
+61
+00:06:35,370 --> 00:06:38,170
+It's a beautiful morning
+here on the Starship Avalon.
+
+62
+00:06:38,195 --> 00:06:40,935
+Whatever you do don't get homesick,
+get Homestead.
+
+63
+00:06:40,960 --> 00:06:44,141
+Let start with an ensemble,
+one of my favorite back on Earth.
+
+64
+00:06:59,960 --> 00:07:03,430
+Just call me... call me Jim.
+You got a cool jacket.
+
+65
+00:07:17,373 --> 00:07:19,435
+Hello, Passengers.
+
+66
+00:07:19,685 --> 00:07:22,369
+Will you all
+please take a seat.
+
+67
+00:07:23,063 --> 00:07:25,659
+Welcome, Learning group 38.
+
+68
+00:07:25,684 --> 00:07:29,006
+Your introduction to colonial life.
+
+69
+00:07:29,131 --> 00:07:31,170
+Earth is a prosperous planet.
+
+70
+00:07:31,195 --> 00:07:33,346
+The cradle of civilization.
+
+71
+00:07:33,371 --> 00:07:38,913
+But for many, it's also overpopulated.
+Over-priced. Overrated.
+
+72
+00:07:38,938 --> 00:07:41,534
+I'm sorry,
+I think I maybe in the wrong...
+
+73
+00:07:41,563 --> 00:07:43,379
+- No questions until the end, please.
+- Oh, sorry.
+
+74
+00:07:43,404 --> 00:07:45,996
+The Colonies offer an alternative.
+
+75
+00:07:46,021 --> 00:07:47,787
+- A better way of life.
+- Where are all the other...
+
+76
+00:07:47,819 --> 00:07:52,210
+And there's no colony
+more beautiful than Homestead II,
+
+77
+00:07:52,235 --> 00:07:55,660
+- the Jewel of the Occupied Worlds.
+- It's fine.
+
+78
+00:07:55,842 --> 00:07:57,446
+Where IS everybody?
+
+79
+00:07:57,471 --> 00:07:59,559
+We're all on the Starship Avalon.
+
+80
+00:07:59,584 --> 00:08:00,938
+But I'm the only one here.
+
+81
+00:08:00,963 --> 00:08:05,619
+There are 5,000 passengers
+and 258 crew members.
+
+82
+00:08:05,644 --> 00:08:07,389
+So why am I alone?
+
+83
+00:08:07,414 --> 00:08:09,845
+We're all in this together.
+
+84
+00:08:11,605 --> 00:08:13,219
+Hello?
+
+85
+00:08:14,399 --> 00:08:16,146
+Anybody here?
+
+86
+00:08:16,171 --> 00:08:17,659
+Hello?
+
+87
+00:08:28,535 --> 00:08:31,593
+Please buckle up and
+secure any loose items.
+
+88
+00:08:31,618 --> 00:08:35,799
+This elevator will experience
+a momentary lapse in gravity.
+
+89
+00:08:58,399 --> 00:09:00,417
+Grand Concourse.
+
+90
+00:09:15,077 --> 00:09:19,015
+Welcome to the Grand Concourse
+aboard the Avalon, can I help you?
+
+91
+00:09:19,468 --> 00:09:21,544
+I need to talk to a person.
+
+92
+00:09:21,690 --> 00:09:23,150
+A real live person, please.
+
+93
+00:09:23,175 --> 00:09:26,182
+What sort of person? Personal trainer?
+Travel planner? Therapist?
+
+94
+00:09:26,207 --> 00:09:28,601
+I don't know.
+Somebody in charge.
+
+95
+00:09:28,626 --> 00:09:32,772
+The Ship Steward handles passenger affairs.
+It's on level 3 of the Grand Concourse.
+
+96
+00:09:32,797 --> 00:09:34,877
+- Thank you.
+- Happy to help!
+
+97
+00:09:40,281 --> 00:09:41,546
+Not good.
+
+98
+00:09:41,571 --> 00:09:43,077
+- Hello!
+- Who's flying the ship?
+
+99
+00:09:43,102 --> 00:09:45,546
+The flight crew, the Captain,
+the Pilot, the Chief Navigator...
+
+100
+00:09:45,571 --> 00:09:47,096
+I want to talk to the Captain.
+
+101
+00:09:47,121 --> 00:09:48,883
+The Captain rarely handles
+passenger queries directly.
+
+102
+00:09:48,908 --> 00:09:51,595
+It's an emergency, please.
+
+103
+00:09:51,620 --> 00:09:55,044
+The Captain is usually found on the
+Bridge, in the Command Deck.
+
+104
+00:10:05,186 --> 00:10:08,672
+Bridge access requires special authorization.
+
+105
+00:10:10,324 --> 00:10:14,108
+Bridge access requires special authorization.
+
+106
+00:10:16,110 --> 00:10:18,160
+You got to be kidding me.
+
+107
+00:10:31,736 --> 00:10:34,320
+Welcome to the Observatory.
+
+108
+00:10:35,820 --> 00:10:37,835
+What can I show you?
+
+109
+00:10:38,537 --> 00:10:40,883
+We're supposed to land soon,
+
+110
+00:10:43,530 --> 00:10:46,405
+I'm... I'm the only one awake.
+
+111
+00:10:46,430 --> 00:10:50,037
+I don't understand.
+What can I show you?
+
+112
+00:10:50,650 --> 00:10:51,991
+Show me Homestead II.
+
+113
+00:10:52,016 --> 00:10:55,398
+Homestead II is the 4th planet
+in the Bhakti system.
+
+114
+00:10:55,423 --> 00:10:57,565
+Right.
+And where are we?
+
+115
+00:10:57,591 --> 00:11:00,757
+We've been transit
+from Earth to Homestead II.
+
+116
+00:11:00,795 --> 00:11:04,262
+- We will arrive in approximately 90 years.
+- What?
+
+117
+00:11:04,287 --> 00:11:08,599
+We arrive at Homestead II
+in 90 years, 3 weeks and 1 day.
+
+118
+00:11:08,624 --> 00:11:11,082
+No.
+Wait. How long ago did we leave Earth?
+
+119
+00:11:11,107 --> 00:11:14,294
+Approximately 30 years ago.
+
+120
+00:11:17,695 --> 00:11:19,717
+I woke up too soon.
+
+121
+00:11:22,260 --> 00:11:23,420
+Hello.
+
+122
+00:11:23,445 --> 00:11:24,984
+How do I send a
+message to Earth?
+
+123
+00:11:25,009 --> 00:11:29,305
+Interstellar messages are sent by laser array.
+This is an expensive service.
+
+124
+00:11:29,330 --> 00:11:31,633
+- Bite me.
+- Happy to help!
+
+125
+00:11:33,825 --> 00:11:35,152
+Planet and connection?
+
+126
+00:11:35,177 --> 00:11:37,175
+Earth.
+The HomeStead Company.
+
+127
+00:11:37,200 --> 00:11:42,196
+There are 30,826 contacts
+listed under “HomeStead Company.”
+
+128
+00:11:42,221 --> 00:11:45,204
+I'm emigrating to Homestead II.
+I have an emergency.
+
+129
+00:11:45,229 --> 00:11:48,074
+- I have a Customer Help Line.
+- Sounds about right.
+
+130
+00:11:48,099 --> 00:11:49,801
+Begin message.
+
+131
+00:11:50,262 --> 00:11:53,199
+Hi.
+I'm Jim Preston.
+
+132
+00:11:53,665 --> 00:11:55,742
+I'm a passenger on the Avalon.
+
+133
+00:11:56,090 --> 00:11:57,532
+And uh...
+
+134
+00:12:00,483 --> 00:12:03,217
+I think something went wrong
+with my hibernation pod.
+
+135
+00:12:03,242 --> 00:12:04,903
+I woke up too soon.
+
+136
+00:12:04,928 --> 00:12:08,597
+And I mean...
+way too soon.
+
+137
+00:12:08,622 --> 00:12:11,458
+Nobody else is awake.
+And...
+
+138
+00:12:11,739 --> 00:12:13,595
+I don't know how
+to get back to sleep.
+
+139
+00:12:13,620 --> 00:12:17,011
+And the thing is,
+there's 90 years to go.
+
+140
+00:12:20,171 --> 00:12:22,713
+At this rate, I'm...
+
+141
+00:12:26,248 --> 00:12:28,708
+I'm sorry, I'm trying to fix this.
+I...
+
+142
+00:12:28,733 --> 00:12:31,560
+Maybe I missed something.
+I could use a hand.
+
+143
+00:12:32,355 --> 00:12:33,945
+That's all.
+
+144
+00:12:34,829 --> 00:12:36,341
+Thank you.
+
+145
+00:12:37,065 --> 00:12:38,920
+Message sent.
+
+146
+00:12:40,786 --> 00:12:41,747
+Outstanding.
+
+147
+00:12:41,772 --> 00:12:45,265
+- Message will arrive in 19 years.
+- Wait, what?
+
+148
+00:12:45,290 --> 00:12:49,941
+- Earliest reply in 55 years.
+- 55 years.
+
+149
+00:12:50,302 --> 00:12:52,500
+We apologize for the delay.
+
+150
+00:12:52,525 --> 00:12:55,406
+That will be $6012 dollars.
+
+151
+00:13:09,093 --> 00:13:11,006
+- Afternoon.
+- Oh man.
+
+152
+00:13:11,031 --> 00:13:13,369
+It's good to see another face.
+
+153
+00:13:13,394 --> 00:13:14,959
+I thought I was
+the only one awake!
+
+154
+00:13:14,984 --> 00:13:18,212
+Who want's to sleep
+on a beautiful day like this?
+
+155
+00:13:18,237 --> 00:13:21,407
+Oh, I mean we're in trouble,
+we're not suppose to be here.
+
+156
+00:13:21,432 --> 00:13:23,467
+Well, I won't tell if you don't.
+
+157
+00:13:23,804 --> 00:13:26,135
+- Huh?
+- Our little secret.
+
+158
+00:13:27,571 --> 00:13:29,516
+What can I get for you?
+
+159
+00:13:29,548 --> 00:13:32,611
+- What?
+- You look like a whiskey man.
+
+160
+00:13:32,636 --> 00:13:33,995
+Okay.
+
+161
+00:13:37,785 --> 00:13:40,255
+Oh, you're a robot.
+
+162
+00:13:41,071 --> 00:13:43,933
+Android, technically.
+
+163
+00:13:45,549 --> 00:13:47,381
+ Arthur's the name.
+
+164
+00:13:47,675 --> 00:13:50,127
+- Jim.
+- Please to meet you, Jim.
+
+165
+00:13:56,090 --> 00:13:58,494
+How much do you know
+about this ship?
+
+166
+00:13:58,519 --> 00:14:00,980
+I don't know.
+I know some things.
+
+167
+00:14:01,005 --> 00:14:03,332
+What do I do if
+my hibernation pod malfunctions?
+
+168
+00:14:03,357 --> 00:14:05,957
+Oh.
+Hibernation pods are fail-safe.
+
+169
+00:14:05,982 --> 00:14:08,991
+- They never malfunction.
+- Yeah, well, I woke up early.
+
+170
+00:14:09,016 --> 00:14:10,762
+Can't happen.
+
+171
+00:14:10,787 --> 00:14:12,788
+How long until we get to Homestead II?
+
+172
+00:14:12,813 --> 00:14:14,550
+About 90 years or so.
+
+173
+00:14:14,575 --> 00:14:16,749
+And when are all the passengers
+supposed to wake up?
+
+174
+00:14:16,774 --> 00:14:19,111
+Not until the last 4 months.
+
+175
+00:14:19,565 --> 00:14:24,569
+How is it that I'm sitting here with you
+with 90 years to go?
+
+176
+00:14:28,366 --> 00:14:30,713
+It's not possible for you to be here.
+
+177
+00:14:32,846 --> 00:14:34,452
+But I am.
+
+178
+00:14:39,019 --> 00:14:41,781
+Good morning, it's a beautiful day
+here on the Avalon.
+
+179
+00:14:41,806 --> 00:14:45,904
+So wake up, sunshine.
+It's time to relax and enjoy your stay.
+
+180
+00:14:56,061 --> 00:14:58,329
+Please make a selection.
+
+181
+00:14:59,652 --> 00:15:03,962
+Sorry. The Mocha Cappuccino Extreme
+is reserved for gold-class passengers.
+
+182
+00:15:03,987 --> 00:15:06,754
+Sorry. The Mocha Cappuccino Extreme
+is reserved for gold-class passengers.
+
+183
+00:15:06,779 --> 00:15:09,065
+I want the Mocha Cappuccino Extreme,
+bill my room please.
+
+184
+00:15:09,090 --> 00:15:10,945
+Food can be purchase in the ship's...
+
+185
+00:15:10,970 --> 00:15:12,369
+Sorry.
+The French Roast...
+
+186
+00:15:12,394 --> 00:15:14,343
+Sorry.
+The Pumpkin Spice...
+
+187
+00:15:14,368 --> 00:15:15,546
+Sorry.
+Vanilla Chai...
+
+188
+00:15:15,571 --> 00:15:16,874
+Sorry.
+Sorry.
+
+189
+00:15:16,899 --> 00:15:18,724
+Sorr... Sorr... Sorry.
+
+190
+00:15:19,190 --> 00:15:22,380
+- Large coffee. Please enjoy your coffee.
+- Cream. Sugar.
+
+191
+00:15:22,405 --> 00:15:24,137
+Oh, really?
+
+192
+00:15:37,657 --> 00:15:40,603
+HIBERNATION POD
+
+193
+00:16:44,808 --> 00:16:48,946
+Crew Pod access requires special authorization.
+
+194
+00:17:27,562 --> 00:17:27,970
+<font color="#ff8080">TRANSPORT CONTROL FAILURE</font>
+
+195
+00:17:27,995 --> 00:17:28,840
+<font color="#ff8080">TRANSPORT CONTROL FAILURE</font>
+ELEVATOR_2B
+
+196
+00:17:28,865 --> 00:17:30,711
+<font color="#ff8080">TRANSPORT CONTROL FAILURE</font>
+ELEVATOR_2B     <font color="#ff9d6f">CRITICAL ERROR</font>
+
+197
+00:17:34,986 --> 00:17:37,067
+Please...
+Level...
+
+198
+00:17:38,471 --> 00:17:40,315
+Grand Concourse.
+
+199
+00:17:40,340 --> 00:17:44,052
+I'm screwed, Arthur.
+Completely and ridiculously screwed.
+
+200
+00:17:44,077 --> 00:17:48,470
+Come on, now.
+Every cloud has a silver lining.
+
+201
+00:17:49,700 --> 00:17:52,769
+Guess, I'm going to die
+of old age on this ship!
+
+202
+00:17:52,794 --> 00:17:54,657
+Oh, we all die.
+
+203
+00:17:54,682 --> 00:17:57,385
+Even androids end up
+on the scrap heap.
+
+204
+00:17:57,783 --> 00:18:01,003
+I'm the only customer,
+why are you always polishing a glass?
+
+205
+00:18:01,265 --> 00:18:02,817
+Trick of the trade.
+
+206
+00:18:02,842 --> 00:18:05,622
+Makes people nervous when
+a bartender just stands there.
+
+207
+00:18:05,647 --> 00:18:09,613
+So, lay some bartender wisdom on me.
+I'm lost in space here.
+
+208
+00:18:11,240 --> 00:18:13,940
+You're not where you want to be.
+
+209
+00:18:13,965 --> 00:18:17,394
+You feel like you're supposed
+to be somewhere else.
+
+210
+00:18:20,844 --> 00:18:22,371
+- You said it.
+- Well.
+
+211
+00:18:22,396 --> 00:18:26,323
+Say you could snap your fingers and
+be wherever you wanted to be.
+
+212
+00:18:26,348 --> 00:18:30,037
+I'll bet you'd still feel this way.
+Not in the right place.
+
+213
+00:18:30,062 --> 00:18:33,843
+The point is, you can't get so hung up
+on where you'd rather be
+
+214
+00:18:33,868 --> 00:18:36,610
+that you forget how to make
+the most of where you are.
+
+215
+00:18:36,635 --> 00:18:38,233
+What are you telling me?
+
+216
+00:18:38,258 --> 00:18:42,189
+Take a break from worrying
+about what you can't control.
+
+217
+00:18:43,402 --> 00:18:45,041
+Live a little.
+
+218
+00:18:45,204 --> 00:18:46,968
+Live a little.
+
+219
+00:18:56,034 --> 00:18:59,255
+Welcome to the BM suite.
+
+220
+00:18:59,837 --> 00:19:01,416
+Oh yeah.
+
+221
+00:19:06,374 --> 00:19:07,934
+What?
+
+222
+00:19:17,394 --> 00:19:19,985
+Make that a double jumbo shrimp.
+Triple.
+
+223
+00:19:20,010 --> 00:19:22,253
+Thank you very much.
+
+224
+00:19:22,663 --> 00:19:23,960
+Phantom.
+
+225
+00:19:26,018 --> 00:19:27,406
+Alright.
+
+226
+00:19:29,165 --> 00:19:31,376
+I did exactly what you did.
+
+227
+00:19:36,294 --> 00:19:38,034
+Large coffee.
+
+228
+00:19:42,038 --> 00:19:44,115
+A margarita, please.
+
+229
+00:19:44,140 --> 00:19:46,060
+You have Han many, Señor.
+
+230
+00:19:46,085 --> 00:19:49,504
+Oh Hector, please.
+Another one.
+
+231
+00:19:49,529 --> 00:19:51,121
+Yes, Señor.
+
+232
+00:19:51,323 --> 00:19:52,918
+Thank you.
+
+233
+00:20:04,401 --> 00:20:06,679
+Get out of here!
+
+234
+00:20:07,851 --> 00:20:09,645
+Come back.
+Hey.
+
+235
+00:20:11,808 --> 00:20:13,289
+Come here.
+
+236
+00:20:44,263 --> 00:20:45,876
+Damn!
+
+237
+00:21:08,574 --> 00:21:10,412
+Welcome, Jim.
+
+238
+00:21:11,583 --> 00:21:16,079
+Please turn your attention to the
+screen displaying safety tips.
+
+239
+00:21:16,104 --> 00:21:20,304
+These space suits are designed to withstand
+the harsh environment of space.
+
+240
+00:21:20,337 --> 00:21:23,780
+The carbon fiber and body armor...
+
+241
+00:21:50,673 --> 00:21:54,559
+Slide the handle on the right
+to release the air pressure.
+
+242
+00:21:56,057 --> 00:21:58,109
+Magnetic boots now engage.
+
+243
+00:21:58,134 --> 00:22:01,559
+The can be deactivated using the
+control panel on your arm.
+
+244
+00:22:01,584 --> 00:22:04,872
+Press the red button
+to open the air lock door.
+
+245
+00:22:08,040 --> 00:22:10,157
+Have a wonderful time.
+
+246
+00:22:17,449 --> 00:22:19,400
+Tail attached.
+
+247
+00:22:54,568 --> 00:22:56,604
+<font color="#80ffff">BOOT MAGNET
+OFF</font>
+
+248
+00:23:46,614 --> 00:23:48,645
+Welcome back, Jim.
+
+249
+00:23:51,764 --> 00:23:56,866
+We hope you decide to join us again soon
+for another thrilling experience.
+
+250
+00:24:20,326 --> 00:24:22,702
+Have a wonderful time.
+
+251
+00:25:32,141 --> 00:25:33,935
+<font color="#80ffff">AURORA LANE</font>
+
+252
+00:25:42,878 --> 00:25:44,947
+Aurora.
+
+253
+00:25:46,015 --> 00:25:48,530
+Searching passenger profiles.
+
+254
+00:25:48,555 --> 00:25:50,318
+I'm Aurora Lane.
+
+255
+00:25:50,343 --> 00:25:53,642
+Passenger 1456.
+I'm a writer.
+
+256
+00:25:53,667 --> 00:25:56,723
+I think we tell each other stories
+to know we're not alone.
+
+257
+00:25:56,748 --> 00:25:58,058
+ To make contact.
+
+258
+00:25:58,098 --> 00:26:01,477
+Your father was Oliver Lane,
+the Pulitzer Prize-winning author.
+
+259
+00:26:01,502 --> 00:26:02,816
+No pressure, right?
+
+260
+00:26:02,841 --> 00:26:04,752
+My Dad used to say:
+
+261
+00:26:04,777 --> 00:26:08,596
+"If you live an ordinary life,
+all you have are ordinary stories.
+
+262
+00:26:08,621 --> 00:26:11,138
+You have to live
+a life of adventure."
+
+263
+00:26:12,215 --> 00:26:13,782
+So.
+
+264
+00:26:14,247 --> 00:26:15,867
+Here I am.
+
+265
+00:26:22,076 --> 00:26:23,596
+Good Morning.
+
+266
+00:26:26,064 --> 00:26:29,752
+We're starting over...
+in every way.
+
+267
+00:26:29,777 --> 00:26:32,371
+I'll have to figure out where to live,
+how to live,
+
+268
+00:26:32,396 --> 00:26:33,696
+who my friends will be.
+
+269
+00:26:33,721 --> 00:26:35,293
+It's like the first day at school.
+
+270
+00:26:35,318 --> 00:26:38,483
+And this school bus took
+120 years to get there.
+
+271
+00:26:40,621 --> 00:26:42,740
+We're creating a culture.
+
+272
+00:26:42,765 --> 00:26:44,112
+You are funny.
+
+273
+00:26:44,113 --> 00:26:47,369
+Do you ever read something and
+feel like it's written just for you?
+
+274
+00:26:47,394 --> 00:26:49,406
+I don't do a lot of reading.
+
+275
+00:26:49,431 --> 00:26:51,392
+She is good.
+
+276
+00:26:51,861 --> 00:26:53,396
+Who's that?
+
+277
+00:26:53,421 --> 00:26:55,025
+Aurora.
+
+278
+00:26:55,050 --> 00:26:58,147
+Ah.
+The sleeping girl.
+
+279
+00:27:02,610 --> 00:27:04,542
+You know, I'm not saying
+the universe is evil
+
+280
+00:27:04,567 --> 00:27:06,611
+but it sure has a nasty
+sense of humor.
+
+281
+00:27:06,636 --> 00:27:07,677
+How is that?
+
+282
+00:27:07,718 --> 00:27:12,557
+You get to fly to another planet,
+but you'll die on the way.
+
+283
+00:27:13,669 --> 00:27:16,404
+And you find the perfect woman
+
+284
+00:27:17,492 --> 00:27:19,373
+right in front of you.
+
+285
+00:27:20,436 --> 00:27:22,900
+Yet, she's completely out of reach.
+
+286
+00:27:25,812 --> 00:27:27,971
+Yeah, I'll miss New York.
+
+287
+00:27:27,996 --> 00:27:30,148
+Give me a cup of coffee and
+a view of the Chrysler Building,
+
+288
+00:27:30,173 --> 00:27:31,830
+and I can write all day.
+
+289
+00:27:31,855 --> 00:27:34,041
+But you have coffee on Homestead II, right?
+
+290
+00:27:34,066 --> 00:27:37,276
+They better have coffee, if they don't
+they have to turn around and go back to Earth.
+
+291
+00:27:40,123 --> 00:27:42,640
+HIBERNATION POD
+
+292
+00:27:45,817 --> 00:27:48,412
+HIBERNATION POD
+
+293
+00:27:58,139 --> 00:28:00,525
+Say you were trapped
+on a desert island,
+
+294
+00:28:00,550 --> 00:28:03,183
+you had the power to wish
+somebody there with you.
+
+295
+00:28:03,208 --> 00:28:05,176
+You wouldn't be alone.
+
+296
+00:28:05,885 --> 00:28:08,318
+but you'd be stranding
+another person on the island.
+
+297
+00:28:08,343 --> 00:28:10,740
+How do you...
+Would you make the wish?
+
+298
+00:28:10,777 --> 00:28:13,290
+I don't know.
+I've never been on an island.
+
+299
+00:28:13,291 --> 00:28:15,194
+Okay, well...
+Yeah.
+
+300
+00:28:16,150 --> 00:28:17,779
+Forget the island.
+
+301
+00:28:18,350 --> 00:28:22,983
+Say you figured out
+how to do something
+
+302
+00:28:23,008 --> 00:28:24,803
+that would make your life
+a million times better.
+
+303
+00:28:24,828 --> 00:28:27,440
+But you know it's wrong,
+and there's no taking it back.
+
+304
+00:28:27,465 --> 00:28:28,865
+How do you do the math?
+
+305
+00:28:28,890 --> 00:28:31,873
+Jim.
+These are not robot questions.
+
+306
+00:28:37,389 --> 00:28:39,771
+I know how to wake Aurora up.
+
+307
+00:28:39,975 --> 00:28:43,119
+That seems like a fine idea.
+You could use some company.
+
+308
+00:28:43,144 --> 00:28:45,693
+I'd be stranding her on this ship
+for the rest of her life!
+
+309
+00:28:45,718 --> 00:28:48,578
+Oh.
+Well, you can't do that.
+
+310
+00:28:49,452 --> 00:28:50,925
+What am I going to do?
+
+311
+00:28:50,950 --> 00:28:52,273
+I'm here for you.
+
+312
+00:28:52,298 --> 00:28:54,733
+Arthur, you're a machine.
+
+313
+00:28:58,426 --> 00:29:01,965
+See, you can't feel that,
+you don't have feelings.
+
+314
+00:29:04,558 --> 00:29:05,691
+You see?
+
+315
+00:29:05,692 --> 00:29:07,389
+That doesn't hurt.
+
+316
+00:29:07,454 --> 00:29:09,437
+And you don't even mind.
+
+317
+00:29:09,886 --> 00:29:12,691
+She...
+a person.
+
+318
+00:29:19,279 --> 00:29:20,703
+Don't even think about it.
+
+319
+00:29:20,728 --> 00:29:22,410
+No more Aurora talk.
+
+320
+00:29:22,435 --> 00:29:24,087
+I'm over it.
+
+321
+00:29:24,173 --> 00:29:25,840
+I'm moving on.
+
+322
+00:29:28,433 --> 00:29:30,021
+What am I going to do?
+I'm going to sit and thinking about it?
+
+323
+00:29:30,046 --> 00:29:32,894
+I'm not going to... I can't think about it.
+So I'm not going to, that's the deal.
+
+324
+00:29:32,919 --> 00:29:35,545
+I've made my decision.
+I know what I'm doing.
+
+325
+00:29:35,546 --> 00:29:37,393
+I just cut it off.
+
+326
+00:29:39,220 --> 00:29:40,196
+I'm not...
+No more.
+
+327
+00:29:40,221 --> 00:29:41,856
+You won't hear me bring
+up her name again.
+
+328
+00:29:41,881 --> 00:29:44,085
+I'll never even mention
+her name again.
+
+329
+00:29:44,110 --> 00:29:45,535
+Done.
+
+330
+00:29:47,682 --> 00:29:49,533
+I can't do it.
+
+331
+00:29:54,482 --> 00:29:56,502
+I'm shaving off my beard.
+
+332
+00:30:07,045 --> 00:30:08,895
+Please don't do it.
+
+333
+00:32:00,984 --> 00:32:02,596
+Good morning, Aurora.
+
+334
+00:32:02,597 --> 00:32:04,446
+How're you feeling?
+
+335
+00:32:04,849 --> 00:32:07,599
+It's perfectly normal to feel confused.
+
+336
+00:32:07,624 --> 00:32:11,308
+You've just spent a 120 years
+in suspended animation.
+
+337
+00:32:59,147 --> 00:33:01,272
+Grand Concourse.
+
+338
+00:33:01,297 --> 00:33:02,844
+Hello?
+
+339
+00:33:06,211 --> 00:33:07,964
+Anybody?
+
+340
+00:33:16,567 --> 00:33:18,251
+Hello.
+
+341
+00:33:21,334 --> 00:33:22,986
+Hi.
+
+342
+00:33:25,209 --> 00:33:27,628
+Are you passenger or crew?
+
+343
+00:33:29,546 --> 00:33:31,197
+Passenger.
+
+344
+00:33:31,198 --> 00:33:32,540
+Jim Preston.
+
+345
+00:33:32,565 --> 00:33:34,452
+Aurora Lane.
+
+346
+00:33:35,562 --> 00:33:37,485
+Do you know what's going on?
+
+347
+00:33:37,510 --> 00:33:40,016
+Nobody else from
+my row woke up.
+
+348
+00:33:40,689 --> 00:33:41,861
+Same for me.
+
+349
+00:33:41,886 --> 00:33:45,418
+The crew's supposed to wake up
+a month before we do. But...
+
+350
+00:33:45,443 --> 00:33:47,359
+I haven't seen them.
+
+351
+00:33:50,282 --> 00:33:52,389
+The crew is still asleep.
+
+352
+00:33:53,826 --> 00:33:56,453
+Are you saying nobody's awake?
+
+353
+00:33:56,454 --> 00:33:57,785
+Just me.
+
+354
+00:33:57,833 --> 00:33:59,149
+Just you?
+
+355
+00:33:59,174 --> 00:34:00,938
+Just us.
+
+356
+00:34:01,339 --> 00:34:04,348
+But somebody's got to land
+the ship in a few weeks.
+
+357
+00:34:04,373 --> 00:34:08,029
+We will arrive in approximately 89 years.
+
+358
+00:34:08,054 --> 00:34:10,445
+89 years?
+
+359
+00:34:12,311 --> 00:34:15,618
+The other passengers
+aren't late waking up.
+
+360
+00:34:16,706 --> 00:34:18,736
+We were early.
+
+361
+00:34:22,837 --> 00:34:25,314
+We...
+We need help.
+
+362
+00:34:25,339 --> 00:34:27,060
+Where's the crew?
+
+363
+00:34:27,173 --> 00:34:29,939
+The crew's in a secured
+hibernation room.
+
+364
+00:34:29,964 --> 00:34:33,511
+Everything important, the controls,
+the reactors, the engines,
+
+365
+00:34:33,536 --> 00:34:36,719
+it's all behind the firewall,
+there's no way through.
+
+366
+00:34:47,142 --> 00:34:49,531
+How long have you been awake?
+
+367
+00:34:50,169 --> 00:34:52,469
+1 year and 3 weeks.
+
+368
+00:34:52,682 --> 00:34:55,128
+No.
+No.
+
+369
+00:34:56,173 --> 00:34:58,308
+No, this can't be happening.
+
+370
+00:34:58,333 --> 00:35:00,569
+We have to go back to sleep.
+
+371
+00:35:00,594 --> 00:35:02,652
+Aurora, we can't.
+
+372
+00:35:04,857 --> 00:35:06,653
+We just have to
+get back to our pods
+
+373
+00:35:06,678 --> 00:35:08,416
+and start them up again.
+
+374
+00:35:09,470 --> 00:35:12,283
+I can't find my pod.
+I can't find my pod.
+
+375
+00:35:12,308 --> 00:35:13,967
+I can't find my pod.
+
+376
+00:35:14,643 --> 00:35:16,371
+It doesn't matter.
+
+377
+00:35:17,492 --> 00:35:18,783
+- Aurora.
+- I can't find it.
+
+378
+00:35:18,808 --> 00:35:20,564
+- Stop.
+- I can't find which one is mine.
+
+379
+00:35:20,589 --> 00:35:22,169
+- Stop.
+- How do I know which one is mine?
+
+380
+00:35:22,194 --> 00:35:23,338
+- You don't know.
+- I can't...
+
+381
+00:35:23,363 --> 00:35:26,373
+Stop.
+It doesn't matter.
+
+382
+00:35:28,565 --> 00:35:32,418
+Putting somebody into hibernation
+requires special equipment.
+
+383
+00:35:32,443 --> 00:35:36,989
+Remember the facility where they put us
+under all the procedures we went through.
+
+384
+00:35:37,013 --> 00:35:39,354
+These pods are designed
+to keep us in hibernation,
+
+385
+00:35:39,380 --> 00:35:40,909
+they'll wake us up
+at the right time.
+
+386
+00:35:40,934 --> 00:35:42,752
+They can't put us back to sleep.
+
+387
+00:35:42,777 --> 00:35:46,019
+You don't think there's a way
+back into hibernation.
+
+388
+00:35:47,011 --> 00:35:48,452
+No.
+
+389
+00:35:48,477 --> 00:35:50,499
+But there has to be.
+
+390
+00:35:50,821 --> 00:35:52,905
+There has to be.
+
+391
+00:36:01,068 --> 00:36:04,610
+9 o'clock.
+Bedtime.
+
+392
+00:36:08,803 --> 00:36:12,148
+I know I should be
+working the problem but...
+
+393
+00:36:12,448 --> 00:36:14,882
+I can't even keep my eyes open.
+
+394
+00:36:15,478 --> 00:36:17,381
+You just came out of hibernation.
+
+395
+00:36:17,406 --> 00:36:19,718
+It's going to be a couple
+of days before you're 100%.
+
+396
+00:36:19,743 --> 00:36:21,810
+You should get some rest.
+
+397
+00:36:22,326 --> 00:36:24,498
+I think I'm going to have to.
+
+398
+00:36:25,358 --> 00:36:28,216
+- I'll walk you to your cabin.
+- No, it's okay.
+
+399
+00:36:28,241 --> 00:36:30,015
+I'll be alright.
+
+400
+00:36:30,783 --> 00:36:32,438
+Okay.
+
+401
+00:36:35,210 --> 00:36:37,117
+Good night, Aurora.
+
+402
+00:36:38,619 --> 00:36:42,172
+More than a year.
+I can't imagine.
+
+403
+00:36:42,703 --> 00:36:44,928
+It must have been
+so hard for you.
+
+404
+00:36:45,081 --> 00:36:46,711
+It was.
+
+405
+00:36:46,736 --> 00:36:48,513
+Good night, Jim.
+
+406
+00:36:50,413 --> 00:36:53,599
+Please buckle up and
+secure any loose items.
+
+407
+00:36:56,267 --> 00:36:59,187
+- Whiskey. Neat.
+- Sure thing.
+
+408
+00:37:04,832 --> 00:37:06,713
+How's your day been?
+
+409
+00:37:07,580 --> 00:37:09,174
+Aurora's awake.
+
+410
+00:37:09,199 --> 00:37:11,324
+Congratulations.
+
+411
+00:37:12,883 --> 00:37:14,866
+You don't look happy.
+
+412
+00:37:18,625 --> 00:37:20,637
+Arthur, can you keep a secret?
+
+413
+00:37:20,662 --> 00:37:25,166
+Jim, I'm not just a bartender,
+I'm a gentleman.
+
+414
+00:37:25,191 --> 00:37:27,924
+Don't tell Aurora that I woke her up.
+
+415
+00:37:29,812 --> 00:37:32,713
+She thinks it was an accident.
+Let me tell her.
+
+416
+00:37:32,738 --> 00:37:34,440
+Of course.
+
+417
+00:37:47,344 --> 00:37:49,839
+How can there be no way to put
+someone back into hibernation?
+
+418
+00:37:49,864 --> 00:37:51,323
+What if a pod breaks down?
+
+419
+00:37:51,348 --> 00:37:55,798
+No hibernation pod has malfunctioned
+in thousands of interstellar flights.
+
+420
+00:37:56,146 --> 00:37:58,719
+Well, I'm awake.
+
+421
+00:37:58,744 --> 00:38:01,551
+Hibernation pods are fail-safe.
+
+422
+00:38:01,576 --> 00:38:03,910
+Good morning.
+Have you eaten?
+
+423
+00:38:03,935 --> 00:38:06,013
+No, I'm starving.
+
+424
+00:38:06,038 --> 00:38:08,374
+And this is the dumbest machine.
+
+425
+00:38:08,399 --> 00:38:10,261
+Happy to help!
+
+426
+00:38:16,462 --> 00:38:18,358
+<font color="#ff8080">INFO_M_MC</font>
+
+427
+00:38:18,383 --> 00:38:22,067
+<font color="#ff8080">INFO_M_MC
+CRITICAL ERROR</font>
+
+428
+00:38:22,653 --> 00:38:24,929
+Gold-class breakfast.
+
+429
+00:38:35,221 --> 00:38:37,439
+Well, you're a man of simple tastes.
+
+430
+00:38:37,464 --> 00:38:39,942
+I'm not a gold-class passenger.
+
+431
+00:38:41,920 --> 00:38:44,110
+French Breakfast Puff
+is above my pay grade.
+
+432
+00:38:44,135 --> 00:38:45,834
+What?
+This whole time?
+
+433
+00:38:45,859 --> 00:38:47,618
+- Yeah.
+- What can I get you?
+
+434
+00:38:47,643 --> 00:38:49,558
+- No, I'm fine,
+- Stop it.
+
+435
+00:38:49,583 --> 00:38:51,774
+really...
+Okay.
+
+436
+00:38:53,105 --> 00:38:54,837
+Here you go.
+
+437
+00:38:59,580 --> 00:39:00,982
+Yeah.
+
+438
+00:39:01,007 --> 00:39:02,713
+So, I was thinking.
+
+439
+00:39:02,738 --> 00:39:05,524
+Maybe there's another way to go to sleep.
+What about the infirmary?
+
+440
+00:39:05,549 --> 00:39:07,953
+I've checked it out.
+It's just scanners and an autodoc.
+
+441
+00:39:07,978 --> 00:39:10,417
+There could be another
+hibernation machine in the cargo hold.
+
+442
+00:39:10,418 --> 00:39:11,800
+I've had that thought too.
+
+443
+00:39:11,825 --> 00:39:13,051
+And I read the manifests.
+
+444
+00:39:13,052 --> 00:39:15,543
+It's mostly farming stuff,
+machines.
+
+445
+00:39:15,568 --> 00:39:17,886
+replacement parts for
+computers in Engineering.
+
+446
+00:39:17,903 --> 00:39:20,218
+We're not going to find
+a hibernation facility in a box.
+
+447
+00:39:20,243 --> 00:39:21,934
+- We can build our own.
+- We can't.
+
+448
+00:39:21,935 --> 00:39:25,739
+- Jim, you're not even trying!
+- I've tried everything.
+
+449
+00:39:25,764 --> 00:39:27,776
+For over a year.
+
+450
+00:39:28,887 --> 00:39:30,808
+I've tried everything.
+
+451
+00:39:33,160 --> 00:39:35,376
+Oh well, I'm not ready to give up.
+
+452
+00:39:44,042 --> 00:39:46,079
+Infirmary.
+
+453
+00:39:53,564 --> 00:39:56,330
+What about research articles,
+any kind of technical documents?
+
+454
+00:39:56,355 --> 00:39:59,072
+Hibernation technology is proprietary.
+
+455
+00:39:59,097 --> 00:40:03,560
+The following articles deal with
+the subject on a theoretical level.
+
+456
+00:40:46,176 --> 00:40:49,260
+New file.
+My Voyage.
+
+457
+00:40:49,432 --> 00:40:53,439
+I boarded the Avalon with an idea,
+a destiny.
+
+458
+00:40:53,900 --> 00:40:57,965
+But now, out of reach.
+
+459
+00:40:59,788 --> 00:41:02,188
+I've been awake for 7 days,
+
+460
+00:41:02,213 --> 00:41:04,781
+awake far too soon...
+
+461
+00:41:04,806 --> 00:41:07,658
+and I may well spend
+the rest of my life here...
+
+462
+00:41:07,683 --> 00:41:11,935
+...in a steel world a 1,000 meters long.
+
+463
+00:41:13,013 --> 00:41:15,049
+There's another passenger awake.
+
+464
+00:41:15,074 --> 00:41:17,936
+A mechanic named Jim Preston.
+
+465
+00:41:19,601 --> 00:41:22,394
+He seems to have accepted our fate.
+
+466
+00:41:22,978 --> 00:41:25,004
+But I'm scared.
+
+467
+00:41:25,724 --> 00:41:28,303
+I'm fighting to stay calm.
+
+468
+00:41:30,306 --> 00:41:35,523
+All the other passengers will sleep
+for another 90 years.
+
+469
+00:41:36,166 --> 00:41:41,701
+While I roam about my life on this ship...
+traveling forever...
+
+470
+00:41:42,318 --> 00:41:44,245
+never arriving.
+
+471
+00:41:44,831 --> 00:41:47,750
+My only companion, a total stranger.
+
+472
+00:41:56,523 --> 00:41:58,296
+Why did you do it?
+
+473
+00:42:00,449 --> 00:42:02,063
+Do what?
+
+474
+00:42:02,928 --> 00:42:05,568
+Emigrate.
+Leave Earth.
+
+475
+00:42:06,433 --> 00:42:08,396
+I'm interviewing you.
+
+476
+00:42:08,421 --> 00:42:09,331
+You're what?
+
+477
+00:42:09,356 --> 00:42:12,813
+You're the first hibernation failure
+in the history of space travel.
+
+478
+00:42:12,838 --> 00:42:14,784
+That makes you a story.
+
+479
+00:42:14,890 --> 00:42:17,510
+- Who are you going to tell?
+- Posterity.
+
+480
+00:42:17,535 --> 00:42:20,813
+So why did you give up
+your life on Earth?
+
+481
+00:42:20,838 --> 00:42:25,286
+A 120 years space hibernation means you
+never see your family or friends again.
+
+482
+00:42:25,289 --> 00:42:28,995
+You'll wake up in a new century,
+on a new planet.
+
+483
+00:42:29,135 --> 00:42:31,439
+It's the ultimate geographical suicide.
+
+484
+00:42:31,464 --> 00:42:33,680
+Well, I could ask you the same thing.
+
+485
+00:42:33,705 --> 00:42:35,657
+But it's my interview.
+
+486
+00:42:35,991 --> 00:42:38,015
+Were you running away from something?
+
+487
+00:42:38,040 --> 00:42:39,460
+No.
+
+488
+00:42:39,790 --> 00:42:41,938
+- Everything is okay.
+- So?
+
+489
+00:42:42,207 --> 00:42:44,868
+I guess I just wanted a new world.
+I don't know, a fresh start.
+
+490
+00:42:44,893 --> 00:42:46,977
+That's HomeStead Company advertising.
+
+491
+00:42:47,002 --> 00:42:48,467
+- Is it?
+- Jim.
+
+492
+00:42:48,492 --> 00:42:51,269
+I... I know.
+I guess, you're right.
+
+493
+00:42:55,881 --> 00:42:59,192
+Back on Earth, when something breaks,
+you don't fix it, you replace it.
+
+494
+00:42:59,664 --> 00:43:02,469
+In the colonies, they have problems to solve.
+
+495
+00:43:02,494 --> 00:43:04,448
+My kind of problems.
+
+496
+00:43:05,832 --> 00:43:08,098
+The mechanic is similar.
+
+497
+00:43:08,123 --> 00:43:10,613
+It's a new world still being built.
+
+498
+00:43:12,513 --> 00:43:14,793
+I can build a house and live in it.
+
+499
+00:43:19,425 --> 00:43:22,404
+Open country,
+room to grow.
+
+500
+00:43:22,429 --> 00:43:24,030
+Now you're back to slogans.
+
+501
+00:43:24,055 --> 00:43:26,205
+Can't slogans be true?
+
+502
+00:43:27,517 --> 00:43:30,963
+Do you know how much Homestead
+Company's made off its first planet?
+
+503
+00:43:30,988 --> 00:43:33,179
+8 quadrillion dollars.
+
+504
+00:43:33,204 --> 00:43:35,890
+That's 8 million billions.
+
+505
+00:43:35,915 --> 00:43:38,651
+Colony planets are the
+biggest business now.
+
+506
+00:43:38,823 --> 00:43:40,601
+Did you pay full price
+for your ticket?
+
+507
+00:43:40,626 --> 00:43:43,041
+No, I'm in a desirable trade.
+
+508
+00:43:43,066 --> 00:43:46,778
+So they fill your head with dreams,
+
+509
+00:43:46,803 --> 00:43:49,601
+discount your ticket, and you
+fly off to populate their planet
+
+510
+00:43:49,625 --> 00:43:52,633
+and give HomeStead 20% of everything
+you made for the rest of your life.
+
+511
+00:43:52,658 --> 00:43:55,944
+Not to mention the debt you're
+going to owe on this fancy starship.
+
+512
+00:43:55,969 --> 00:43:59,077
+So all you see here
+is 5,000 suckers?
+
+513
+00:43:59,234 --> 00:44:02,970
+I see zeroes on the
+HomeStead Company's bottom line.
+
+514
+00:44:02,995 --> 00:44:06,417
+I see 5,000 men and women
+changing their lives.
+
+515
+00:44:06,946 --> 00:44:09,623
+5,000 different reasons.
+You don't know these people.
+
+516
+00:44:09,648 --> 00:44:12,854
+I'm a journalist. I know how people.
+
+517
+00:44:14,199 --> 00:44:15,933
+Really?
+
+518
+00:44:15,958 --> 00:44:17,375
+This one.
+
+519
+00:44:17,400 --> 00:44:20,551
+Is he a banker, a teacher or a gardener?
+
+520
+00:44:21,396 --> 00:44:24,009
+- Banker.
+- He's a gardener.
+
+521
+00:44:24,788 --> 00:44:30,587
+And her, is she a
+Maddison, Donna or Lola?
+
+522
+00:44:31,512 --> 00:44:33,862
+Donna's too serious for that hair.
+
+523
+00:44:33,887 --> 00:44:35,499
+Lola.
+
+524
+00:44:35,632 --> 00:44:37,997
+- Maddison.
+- Shit.
+
+525
+00:44:39,819 --> 00:44:40,865
+Alright.
+
+526
+00:44:40,890 --> 00:44:42,956
+Chef, accountant or midwife?
+
+527
+00:44:42,981 --> 00:44:45,676
+She has to be a midwife.
+There's no way you just made that one up.
+
+528
+00:44:45,701 --> 00:44:47,505
+She is a midwife.
+
+529
+00:44:48,490 --> 00:44:50,735
+Good to know
+they still have midwives.
+
+530
+00:44:52,731 --> 00:44:55,746
+I liked her.
+We would be friends.
+
+531
+00:44:55,771 --> 00:44:57,710
+You think you can see that?
+
+532
+00:44:57,735 --> 00:44:59,453
+Don't you?
+
+533
+00:45:01,245 --> 00:45:02,688
+I do.
+
+534
+00:45:02,713 --> 00:45:04,489
+A round trip ticket.
+
+535
+00:45:04,514 --> 00:45:07,003
+That's right.
+I was going to fly to Homestead II,
+
+536
+00:45:07,028 --> 00:45:09,203
+live for a year and
+right back to Earth.
+
+537
+00:45:09,228 --> 00:45:11,007
+I don't get it.
+I left Earth for a new life.
+
+538
+00:45:11,032 --> 00:45:12,603
+But you end up back
+where you started.
+
+539
+00:45:12,604 --> 00:45:16,651
+I end up in the future.
+250 years in the future.
+
+540
+00:45:16,676 --> 00:45:21,154
+On Earth, which is still the
+center of civilization, like it or not.
+
+541
+00:45:21,694 --> 00:45:25,319
+And I would be the only writer that ever
+travel to the colony world and come back.
+
+542
+00:45:25,345 --> 00:45:27,207
+I'll have a story 
+no one else can tell.
+
+543
+00:45:27,232 --> 00:45:28,802
+What story?
+
+544
+00:45:28,827 --> 00:45:31,267
+Humanity's flight to the stars.
+
+545
+00:45:31,292 --> 00:45:35,013
+The greatest migration in human history.
+It's the biggest story there is.
+
+546
+00:45:35,038 --> 00:45:36,749
+But you won't know any of the
+people who were reading it.
+
+547
+00:45:36,774 --> 00:45:38,644
+But they'd be reading it.
+
+548
+00:45:41,004 --> 00:45:42,692
+Well, they would.
+But...
+
+549
+00:45:44,210 --> 00:45:45,972
+I'll never write it now.
+
+550
+00:45:45,997 --> 00:45:48,423
+I don't know if
+I'll ever write again.
+
+551
+00:45:50,263 --> 00:45:53,989
+Jim, I can't think of anything else to try
+
+552
+00:45:54,014 --> 00:45:56,107
+...to save us.
+
+553
+00:45:57,494 --> 00:46:00,197
+And I don't even want to
+think about it anymore.
+
+554
+00:46:02,433 --> 00:46:04,791
+What is there to do around here?
+
+555
+00:46:06,793 --> 00:46:09,699
+- Are you serious?
+- I'm dead serious.
+
+556
+00:46:09,700 --> 00:46:11,365
+Partner mode.
+
+557
+00:46:12,909 --> 00:46:14,826
+Come on, get in harmony.
+
+558
+00:46:21,256 --> 00:46:25,036
+You just stand here,
+and then we repeat what they do.
+
+559
+00:46:32,628 --> 00:46:34,804
+Is there anything else we can do?
+
+560
+00:46:34,829 --> 00:46:36,031
+- Just do the...
+- Okay.
+
+561
+00:46:36,056 --> 00:46:37,700
+- You don't have to.
+- Okay.
+
+562
+00:46:38,633 --> 00:46:40,131
+Hey.
+
+563
+00:46:40,156 --> 00:46:42,063
+Here we go.
+Let's see if... Oh.
+
+564
+00:46:42,088 --> 00:46:44,021
+Whoa!
+Whoa!
+
+565
+00:46:44,506 --> 00:46:46,733
+Oh.
+Why are you smiling?
+
+566
+00:46:46,758 --> 00:46:48,969
+I'm up 2 points.
+
+567
+00:46:49,240 --> 00:46:50,655
+Who's the lovely lady?
+
+568
+00:46:50,687 --> 00:46:52,048
+This is Aurora.
+
+569
+00:46:52,073 --> 00:46:54,937
+Aurora.
+A pleasure.
+
+570
+00:46:57,722 --> 00:46:59,860
+- You did great!
+- Okay. One more time.
+
+571
+00:46:59,885 --> 00:47:01,275
+One more time.
+Easy.
+
+572
+00:47:01,300 --> 00:47:03,315
+<font color="#80ffff">Fantasy Drama</font>
+
+573
+00:47:07,325 --> 00:47:08,665
+Oh!
+
+574
+00:47:12,873 --> 00:47:14,495
+- YES!
+- Woo!
+
+575
+00:47:17,147 --> 00:47:19,164
+Sorry I didn't wear pants for a month.
+
+576
+00:47:19,189 --> 00:47:21,589
+It's 7 weeks and 2 days,
+to be exact.
+
+577
+00:47:21,614 --> 00:47:23,110
+The man has no shame.
+
+578
+00:47:23,135 --> 00:47:26,516
+Well, you're a little lack and
+you're rather low yourself , Arthur.
+
+579
+00:47:28,957 --> 00:47:33,252
+I laughed at a man with no pants
+until I realised I have no legs.
+
+580
+00:47:39,229 --> 00:47:42,201
+For a minute, I almost forgot
+my life isn't ruined.
+
+581
+00:47:42,226 --> 00:47:43,770
+I'm sorry.
+
+582
+00:47:44,085 --> 00:47:45,952
+What for?
+
+583
+00:47:46,812 --> 00:47:48,531
+I'm going to go to bed.
+
+584
+00:47:49,265 --> 00:47:50,795
+- Good night.
+- Alright.
+
+585
+00:47:50,820 --> 00:47:52,744
+Good night, Aurora.
+
+586
+00:47:55,421 --> 00:47:58,166
+She is wonderful.
+
+587
+00:47:58,483 --> 00:48:00,492
+Excellent choice.
+
+588
+00:49:27,813 --> 00:49:29,287
+Hello.
+
+589
+00:49:29,575 --> 00:49:31,065
+Hi.
+
+590
+00:49:31,145 --> 00:49:32,890
+Here you go.
+
+591
+00:49:38,531 --> 00:49:40,415
+Is he asking me on a date?
+
+592
+00:49:42,431 --> 00:49:44,195
+Do you need a pen?
+
+593
+00:49:56,733 --> 00:49:58,992
+She didn't seem that impressed.
+
+594
+00:50:16,671 --> 00:50:19,087
+"Love to."
+She wrote "Love to".
+
+595
+00:50:26,767 --> 00:50:28,927
+You have a visitor.
+
+596
+00:50:47,125 --> 00:50:48,241
+Wow.
+
+597
+00:50:48,266 --> 00:50:50,549
+You clean up pretty good yourself.
+
+598
+00:50:51,326 --> 00:50:54,536
+- You went shopping.
+- I went shop... lifting.
+
+599
+00:50:59,352 --> 00:51:01,702
+Evening.
+What can I get for you?
+
+600
+00:51:01,727 --> 00:51:04,372
+I'll have a Manhattan, please.
+
+601
+00:51:05,202 --> 00:51:07,615
+- Whiskey rocks.
+- Coming up.
+
+602
+00:51:15,446 --> 00:51:17,260
+You two look fine this evening.
+
+603
+00:51:17,285 --> 00:51:18,770
+Thank you, Arthur.
+
+604
+00:51:18,795 --> 00:51:20,392
+We're on a date!
+
+605
+00:51:20,417 --> 00:51:22,484
+Very nice.
+
+606
+00:51:22,509 --> 00:51:24,671
+Took you long enough to ask.
+
+607
+00:51:24,673 --> 00:51:26,367
+I was giving you space.
+
+608
+00:51:26,392 --> 00:51:27,721
+Oh.
+
+609
+00:51:27,834 --> 00:51:31,830
+Space, the one thing
+I do not need any more of.
+
+610
+00:51:34,846 --> 00:51:36,795
+Thank you very much.
+
+611
+00:51:37,828 --> 00:51:39,222
+That was so good.
+
+612
+00:51:39,247 --> 00:51:41,196
+Well, it wasn't easy
+getting a reservation.
+
+613
+00:51:41,221 --> 00:51:43,617
+They probably going to want
+us to give up our table.
+
+614
+00:51:43,642 --> 00:51:46,914
+- Getting a lot of dirty looks.
+- Very popular tonight.
+
+615
+00:51:48,632 --> 00:51:50,259
+So how's your book coming?
+
+616
+00:51:50,284 --> 00:51:52,690
+Well, I don't know what it is yet.
+
+617
+00:51:53,432 --> 00:51:56,085
+My dad, he started to
+write about his life, but...
+
+618
+00:51:56,110 --> 00:51:58,137
+he had stories.
+He...
+
+619
+00:51:58,465 --> 00:52:01,087
+sailed around Antarctica.
+He...
+
+620
+00:52:01,112 --> 00:52:05,010
+was a war reporter.
+He... had lovers.
+
+621
+00:52:05,057 --> 00:52:07,248
+He wrote about his daughter.
+
+622
+00:52:07,273 --> 00:52:09,037
+- And what about you?
+- No.
+
+623
+00:52:09,062 --> 00:52:11,036
+I grew up reading
+about myself in his books.
+
+624
+00:52:11,061 --> 00:52:12,559
+How was that?
+
+625
+00:52:13,332 --> 00:52:14,683
+It's always easy.
+
+626
+00:52:14,708 --> 00:52:17,611
+A little more than you wanted
+to know about yourself.
+
+627
+00:52:17,636 --> 00:52:23,001
+I mean, when I was 17,
+he had a heart attack.
+
+628
+00:52:24,095 --> 00:52:26,101
+I-I just keep that.
+
+629
+00:52:26,602 --> 00:52:28,492
+End of story.
+
+630
+00:52:31,197 --> 00:52:34,299
+Oh, so serious.
+I'm sorry.
+
+631
+00:52:34,300 --> 00:52:35,511
+We need more wine.
+
+632
+00:52:35,536 --> 00:52:37,780
+I like to hear about your life.
+
+633
+00:52:38,782 --> 00:52:40,283
+Thanks.
+
+634
+00:52:42,420 --> 00:52:43,900
+Why are we here?
+
+635
+00:52:43,925 --> 00:52:45,505
+You'll see.
+
+636
+00:52:47,172 --> 00:52:49,009
+Best show in town.
+
+637
+00:52:52,588 --> 00:52:54,608
+So you've done this before?
+
+638
+00:52:54,633 --> 00:52:56,347
+Oh yeah.
+
+639
+00:52:56,372 --> 00:52:57,792
+And it's safe?
+
+640
+00:52:57,817 --> 00:52:59,340
+No.
+
+641
+00:53:00,270 --> 00:53:02,050
+Reasonably safe.
+
+642
+00:53:03,389 --> 00:53:06,127
+Hop in.
+You're next.
+
+643
+00:53:07,195 --> 00:53:09,110
+What about my dress?
+
+644
+00:53:11,335 --> 00:53:13,118
+Right.
+
+645
+00:53:15,337 --> 00:53:17,156
+Turn around.
+
+646
+00:53:47,700 --> 00:53:49,509
+Tail attached.
+
+647
+00:54:30,010 --> 00:54:31,621
+What are you doing?
+
+648
+00:54:31,969 --> 00:54:33,764
+Do you trust me?
+
+649
+00:55:20,386 --> 00:55:22,192
+Thank you.
+
+650
+00:56:10,861 --> 00:56:13,746
+You're the most beautiful woman
+I've ever seen.
+
+651
+00:56:16,809 --> 00:56:18,825
+You kill me.
+
+652
+00:57:01,022 --> 00:57:02,872
+You okay?
+
+653
+00:57:03,085 --> 00:57:04,499
+Yeah.
+
+654
+00:57:06,216 --> 00:57:07,901
+I am fine.
+
+655
+00:57:08,069 --> 00:57:09,591
+It's just...
+
+656
+00:57:17,065 --> 00:57:18,916
+Yeah, I know.
+
+657
+00:57:34,439 --> 00:57:37,178
+So, I'm seeing someone.
+
+658
+00:57:37,203 --> 00:57:39,076
+You'll never guess who.
+
+659
+00:57:40,314 --> 00:57:44,016
+We're the last 2 people in the world
+do whatever to get together.
+
+660
+00:57:44,041 --> 00:57:45,787
+But here we are.
+
+661
+00:57:45,788 --> 00:57:47,769
+The last 2 people in the world.
+
+662
+00:57:47,794 --> 00:57:48,892
+What did you say?
+
+663
+00:57:48,917 --> 00:57:51,157
+I'm writing, Arthur, hush.
+
+664
+00:57:51,498 --> 00:57:54,698
+Jim and I live in
+an accidental happiness.
+
+665
+00:57:54,723 --> 00:57:57,806
+Like castaways making their home
+on strange shores.
+
+666
+00:57:57,831 --> 00:57:59,983
+"strange shores".
+I love it.
+
+667
+00:58:00,008 --> 00:58:01,482
+You do?
+You don't have to say that.
+
+668
+00:58:01,506 --> 00:58:03,919
+- I know.
+- You're not going to eat this?
+
+669
+00:58:06,098 --> 00:58:08,095
+Something fishy to you?
+
+670
+00:58:09,718 --> 00:58:11,210
+Keep reading.
+
+671
+00:58:11,235 --> 00:58:12,761
+It's funny.
+
+672
+00:58:12,786 --> 00:58:15,004
+We all have dreams.
+
+673
+00:58:15,344 --> 00:58:19,285
+We planned our futures and
+we're the captains of our fates.
+
+674
+00:58:19,494 --> 00:58:21,192
+But we are passengers.
+
+675
+00:58:21,217 --> 00:58:23,934
+We go where fate takes us.
+
+676
+00:58:26,707 --> 00:58:27,729
+Arthur!
+
+677
+00:58:27,754 --> 00:58:29,735
+This isn't the life we ​​planned.
+
+678
+00:58:29,760 --> 00:58:31,543
+But it's ours.
+
+679
+00:58:31,568 --> 00:58:34,145
+And for the first time in my life,
+
+680
+00:58:34,170 --> 00:58:36,281
+I don't feel alone.
+
+681
+00:58:38,652 --> 00:58:41,187
+We weren't suppose
+to find each other,
+
+682
+00:58:42,387 --> 00:58:44,070
+but we did.
+
+683
+00:58:44,603 --> 00:58:47,745
+It makes me feel like
+my life isn't over.
+
+684
+00:58:47,898 --> 00:58:50,080
+Like it's just beginning.
+
+685
+00:58:50,656 --> 00:58:51,792
+How was your day?
+
+686
+00:58:51,817 --> 00:58:54,125
+Good, I wrote a few pages.
+
+687
+00:58:54,150 --> 00:58:56,411
+Did you find anything
+that can help us?
+
+688
+00:58:59,646 --> 00:59:02,310
+- I did.
+- Are they real?
+
+689
+00:59:02,335 --> 00:59:04,542
+I cut them myself.
+
+690
+00:59:07,653 --> 00:59:11,195
+You know for 2 unlucky people,
+we sure felt pretty lucky.
+
+691
+00:59:16,027 --> 00:59:17,475
+Attention.
+
+692
+00:59:17,500 --> 00:59:21,221
+You may wish to proceed
+to a Viewing Area.
+
+693
+00:59:21,237 --> 00:59:25,467
+The Avalon will slingshot
+around the star Arcturus.
+
+694
+01:00:03,383 --> 01:00:05,497
+That was amazing.
+
+695
+01:00:07,079 --> 01:00:09,235
+We were a child.
+
+696
+01:00:13,399 --> 01:00:15,763
+The universe is a present to you.
+
+697
+01:00:15,968 --> 01:00:17,440
+What?
+
+698
+01:00:18,517 --> 01:00:20,633
+Happy birthday.
+
+699
+01:00:27,176 --> 01:00:35,783
+Happy birthday to you...
+Happy birthday to you...
+
+700
+01:00:35,808 --> 01:00:40,159
+Happy birthday, dear Aurora...
+
+701
+01:00:40,184 --> 01:00:44,606
+Happy birthday to you.
+
+702
+01:00:46,357 --> 01:00:48,375
+Birthday drink for the birthday girl.
+
+703
+01:00:48,400 --> 01:00:50,759
+Aren't you going to ask for my I.D.?
+I might not be old enough to drink.
+
+704
+01:00:50,788 --> 01:00:53,718
+Oh, I'd never ask your age
+in front of a gentleman.
+
+705
+01:00:53,743 --> 01:00:55,171
+Jim is no gentleman.
+
+706
+01:00:55,196 --> 01:00:58,042
+Anyway there's no secrets
+between me and Jim.
+
+707
+01:00:58,953 --> 01:01:00,303
+Is that so?
+
+708
+01:01:00,328 --> 01:01:04,034
+You heard the lady.
+I will be right back.
+
+709
+01:01:18,201 --> 01:01:20,859
+This is a perfect birthday drink,
+thank you.
+
+710
+01:01:20,883 --> 01:01:24,057
+I remember this day, a year ago.
+
+711
+01:01:24,083 --> 01:01:26,986
+Jim was so looking forward
+to meeting you.
+
+712
+01:01:27,398 --> 01:01:28,801
+What?
+
+713
+01:01:29,119 --> 01:01:31,071
+How could he be
+looking forward to it?
+
+714
+01:01:31,096 --> 01:01:34,619
+Oh, he spent months deciding
+whether to wake you up.
+
+715
+01:01:34,644 --> 01:01:37,655
+He couldn't stop talking about you.
+
+716
+01:01:41,312 --> 01:01:43,423
+Jim woke me up.
+
+717
+01:01:43,883 --> 01:01:45,373
+Oh, yes.
+
+718
+01:01:45,900 --> 01:01:48,806
+He said it was the
+hardest decision of his life,
+
+719
+01:01:48,831 --> 01:01:51,941
+but I see it
+worked out just fine.
+
+720
+01:02:03,873 --> 01:02:05,386
+What?
+
+721
+01:02:07,746 --> 01:02:10,018
+Did you wake me up?
+
+722
+01:02:17,310 --> 01:02:19,313
+Yes.
+I woke you up.
+
+723
+01:02:23,228 --> 01:02:24,975
+How...
+
+724
+01:02:25,190 --> 01:02:27,171
+How could you do it?
+
+725
+01:02:29,562 --> 01:02:31,402
+I tried not to.
+
+726
+01:02:37,609 --> 01:02:39,644
+I'm going to be sick.
+
+727
+01:02:40,200 --> 01:02:42,329
+I can't see!
+
+728
+01:02:43,561 --> 01:02:45,349
+Aurora, please.
+
+729
+01:02:45,374 --> 01:02:48,546
+Stay away from me!
+
+730
+01:02:51,252 --> 01:02:54,471
+.
+
+731
+01:02:54,496 --> 01:02:55,997
+.
+
+732
+01:04:11,077 --> 01:04:13,197
+Can I talk to you?
+
+733
+01:05:41,105 --> 01:05:42,959
+Aurora.
+
+734
+01:05:43,092 --> 01:05:46,399
+I know nothing I can say
+will make this okay.
+
+735
+01:05:46,698 --> 01:05:48,681
+But please listen.
+
+736
+01:05:48,706 --> 01:05:50,734
+I was so alone
+
+737
+01:05:51,007 --> 01:05:52,995
+for so long.
+
+738
+01:05:54,096 --> 01:05:56,509
+I felt like I was disappearing.
+
+739
+01:05:57,190 --> 01:06:00,562
+The night I first saw you,
+I was ready to...
+
+740
+01:06:03,498 --> 01:06:05,591
+You saved my life.
+
+741
+01:06:07,886 --> 01:06:11,061
+And I know there's no excuse
+for what I did.
+
+742
+01:06:12,386 --> 01:06:14,515
+I read everything you wrote.
+
+743
+01:06:14,540 --> 01:06:18,203
+And I fell in love
+with your voice
+
+744
+01:06:18,228 --> 01:06:21,323
+and with the way
+your mind works.
+
+745
+01:06:21,359 --> 01:06:23,611
+I fell in love with you.
+
+746
+01:06:24,796 --> 01:06:26,717
+And all of a sudden,
+
+747
+01:06:26,895 --> 01:06:30,804
+it's like I wasn't trapped anymore.
+
+748
+01:06:30,882 --> 01:06:34,355
+My pointless life suddenly had meaning.
+
+749
+01:06:36,597 --> 01:06:38,777
+And I wish I could take it back.
+
+750
+01:06:40,156 --> 01:06:41,930
+But I can't.
+
+751
+01:06:43,270 --> 01:06:44,802
+Aurora, I don't want to lose you.
+
+752
+01:06:44,827 --> 01:06:47,196
+I DON'T CARE !!!
+
+753
+01:06:47,221 --> 01:06:49,424
+I don't care what you want!
+
+754
+01:06:49,449 --> 01:06:52,185
+I don't care
+why you woke me up!
+
+755
+01:06:52,595 --> 01:06:55,702
+You took my life!
+
+756
+01:07:18,260 --> 01:07:19,815
+Please standby.
+
+757
+01:07:19,840 --> 01:07:23,545
+Your suite's control center is rebooting.
+
+758
+01:07:42,481 --> 01:07:44,390
+<font color="#ff8080">DIAGNOSTIC SYSTEM
+FAILURE</font>
+
+759
+01:07:44,415 --> 01:07:47,319
+<font color="#ff8080">DIAGNOSTIC SYSTEM FAILURE</font>
+CRITICAL ERROR
+
+760
+01:07:58,283 --> 01:08:00,403
+I envy you, Arthur.
+
+761
+01:08:00,909 --> 01:08:02,218
+How so?
+
+762
+01:08:02,243 --> 01:08:04,262
+You have a purpose.
+
+763
+01:08:06,500 --> 01:08:08,522
+You're always happy.
+
+764
+01:08:08,865 --> 01:08:11,256
+How's your book coming along?
+
+765
+01:08:11,426 --> 01:08:13,772
+I've never written about me before.
+
+766
+01:08:13,797 --> 01:08:15,721
+I think it's some of the
+best work I've ever done,
+
+767
+01:08:15,746 --> 01:08:18,230
+and I don't even know
+why I'm doing it.
+
+768
+01:08:18,935 --> 01:08:22,001
+There's only one person who could read it
+and I can't stand him.
+
+769
+01:08:22,031 --> 01:08:26,143
+They say time heals all wounds.
+
+770
+01:08:28,617 --> 01:08:31,178
+Broken hearts aren't that simple.
+
+771
+01:08:33,808 --> 01:08:36,117
+You wouldn't understand.
+
+772
+01:08:36,931 --> 01:08:38,730
+Arthur!
+
+773
+01:08:42,967 --> 01:08:44,928
+Tuesday is my day with Arthur.
+
+774
+01:08:44,953 --> 01:08:46,857
+It's Wednesday.
+
+775
+01:08:54,463 --> 01:08:56,256
+The bar is all yours.
+
+776
+01:09:04,613 --> 01:09:06,960
+What will you have?
+Whiskey?
+
+777
+01:09:07,737 --> 01:09:09,223
+Coffee.
+
+778
+01:09:09,248 --> 01:09:11,291
+- Aurora, we love you!
+- Aurora, we love you!
+
+779
+01:09:11,316 --> 01:09:13,521
+What are we going
+to do without you?
+
+780
+01:09:16,153 --> 01:09:17,492
+The bravest woman I know.
+
+781
+01:09:17,517 --> 01:09:19,070
+- Hi, Aurora!
+- Hi, Aurora!
+
+782
+01:09:19,095 --> 01:09:22,824
+I promise that
+I'll think of you every day.
+
+783
+01:09:22,849 --> 01:09:24,959
+When you wake up
+I'll be gone,
+
+784
+01:09:24,984 --> 01:09:28,183
+but just know that
+I'll never forget you.
+
+785
+01:09:28,606 --> 01:09:30,511
+You're my best friend.
+
+786
+01:09:31,450 --> 01:09:33,961
+You were never happy here,
+I know.
+
+787
+01:09:34,269 --> 01:09:36,649
+Nothing was ever enough for you.
+
+788
+01:09:38,109 --> 01:09:40,546
+You know, you don't have to go.
+You could-
+
+789
+01:09:40,571 --> 01:09:43,595
+You could do whatever it is
+you have to do right here.
+
+790
+01:09:45,364 --> 01:09:46,627
+Whatever.
+
+791
+01:09:46,652 --> 01:09:50,427
+Since you're going,
+here's my wish.
+
+792
+01:09:52,095 --> 01:09:56,390
+I hope you finally find someone
+who fills your heart. And...
+
+793
+01:09:57,080 --> 01:09:59,268
+I hope you let him in.
+
+794
+01:10:00,459 --> 01:10:05,301
+I hope you'd realize you don't have
+to do something amazing to be happy.
+
+795
+01:10:06,901 --> 01:10:08,201
+Go.
+
+796
+01:10:08,226 --> 01:10:09,875
+Have fun.
+
+797
+01:10:10,337 --> 01:10:12,344
+Take chances.
+
+798
+01:10:13,795 --> 01:10:16,105
+Um, okay.
+
+799
+01:10:17,059 --> 01:10:19,057
+I love you, Aurora.
+
+800
+01:10:19,326 --> 01:10:20,710
+Bye.
+
+801
+01:10:23,517 --> 01:10:25,324
+Morning, Arthur!
+
+802
+01:10:25,478 --> 01:10:26,509
+Coffee please.
+
+803
+01:10:26,534 --> 01:10:27,946
+Coming up.
+
+804
+01:10:33,318 --> 01:10:35,563
+Are you soiling my bar stool?
+
+805
+01:10:35,588 --> 01:10:38,743
+You want to make things,
+you got to get your hands dirty.
+
+806
+01:10:38,894 --> 01:10:42,075
+- And what have you been making?
+- Improvements.
+
+807
+01:10:42,701 --> 01:10:44,912
+Grand Concourse.
+
+808
+01:11:11,901 --> 01:11:13,833
+First floor.
+
+809
+01:11:26,451 --> 01:11:28,528
+Gold-class breakfast.
+
+810
+01:11:28,553 --> 01:11:29,917
+Huh!
+
+811
+01:11:44,466 --> 01:11:47,078
+This is Deck Chief Gus Mancuso.
+
+812
+01:11:47,888 --> 01:11:51,118
+Who the hell planted
+a tree on my ship?
+
+813
+01:12:12,465 --> 01:12:15,029
+- Who did that?
+- I did.
+
+814
+01:12:15,054 --> 01:12:16,292
+Who are you?
+
+815
+01:12:16,317 --> 01:12:18,018
+Jim Preston.
+
+816
+01:12:19,086 --> 01:12:20,715
+Aurora Lane.
+
+817
+01:12:20,740 --> 01:12:22,178
+Anybody else awake?
+
+818
+01:12:22,203 --> 01:12:23,904
+Just me and him.
+
+819
+01:12:24,225 --> 01:12:26,555
+How far along are we?
+
+820
+01:12:26,580 --> 01:12:28,735
+88 years to go.
+
+821
+01:12:36,465 --> 01:12:38,637
+Hibernation failure.
+
+822
+01:12:39,583 --> 01:12:41,326
+They said that couldn't happen.
+
+823
+01:12:41,351 --> 01:12:45,390
+But 3 people,
+3 pod failures.
+
+824
+01:12:49,864 --> 01:12:52,587
+You have no idea how long
+I've been trying to get in here.
+
+825
+01:12:52,612 --> 01:12:55,257
+Now that you're in.
+Don't touch anything.
+
+826
+01:12:55,282 --> 01:12:56,780
+This is where you work?
+
+827
+01:12:56,805 --> 01:12:59,440
+No, this is flight crew,
+I'm a Deck Chief.
+
+828
+01:13:00,149 --> 01:13:03,040
+Navigation comp.
+
+829
+01:13:05,203 --> 01:13:07,745
+Unauthorized personnel.
+
+830
+01:13:08,611 --> 01:13:10,104
+Sorry.
+
+831
+01:13:11,765 --> 01:13:15,027
+If I'm reading this right,
+we're still on course.
+
+832
+01:13:15,052 --> 01:13:17,803
+So whatever's wrong with the ship,
+NavComp's still on the job.
+
+833
+01:13:17,828 --> 01:13:19,364
+There's something wrong with the ship?
+
+834
+01:13:19,389 --> 01:13:21,055
+3 pod failures?
+Yeah.
+
+835
+01:13:21,080 --> 01:13:23,904
+There's something wrong.
+Question is what.
+
+836
+01:13:26,289 --> 01:13:27,915
+That's strange.
+
+837
+01:13:27,940 --> 01:13:30,501
+I should be getting diagnostics
+from all over the ship right here,
+
+838
+01:13:30,526 --> 01:13:32,812
+but there's no data.
+
+839
+01:13:34,265 --> 01:13:36,135
+We gave to check
+all the systems manually.
+
+840
+01:13:36,160 --> 01:13:38,086
+Can't we turn the ship around?
+Go back to Earth?
+
+841
+01:13:38,111 --> 01:13:39,708
+We're doing 50% of lightspeed.
+
+842
+01:13:39,733 --> 01:13:41,980
+Turning back would take just
+as much time as going on.
+
+843
+01:13:42,005 --> 01:13:43,812
+Well, there's got to be
+something we can do!
+
+844
+01:13:43,837 --> 01:13:46,573
+Sorry, we're going where we're going.
+
+845
+01:13:49,111 --> 01:13:50,586
+You okay?
+
+846
+01:13:51,156 --> 01:13:52,880
+Hibernation hangover.
+
+847
+01:13:52,905 --> 01:13:54,699
+Get it all the time.
+
+848
+01:13:54,848 --> 01:13:56,757
+Grand Concourse.
+
+849
+01:13:56,782 --> 01:14:00,509
+2 years, huh?
+Any more trees I need to know about?
+
+850
+01:14:00,534 --> 01:14:01,853
+LOOK OUT!
+
+851
+01:14:06,165 --> 01:14:07,989
+I've never seen this happen before.
+
+852
+01:14:07,990 --> 01:14:09,921
+Those robots have been breaking down.
+
+853
+01:14:09,946 --> 01:14:13,110
+This guy makes 15?
+
+854
+01:14:13,217 --> 01:14:14,174
+15.
+
+855
+01:14:14,208 --> 01:14:15,885
+The breakfast spun crazy today.
+
+856
+01:14:15,910 --> 01:14:16,982
+And the elevator.
+
+857
+01:14:17,007 --> 01:14:19,971
+Last week my door broke.
+I was trapped in my cabin for 2 days.
+
+858
+01:14:19,996 --> 01:14:21,610
+You were?
+
+859
+01:14:21,762 --> 01:14:25,043
+Things like that don't happen.
+Not on this ship.
+
+860
+01:14:25,068 --> 01:14:28,343
+There are 60 of these
+tech-stations on every deck.
+
+861
+01:14:28,368 --> 01:14:30,101
+Dock this way.
+
+862
+01:14:30,126 --> 01:14:31,850
+Data stays on the map.
+You got it?
+
+863
+01:14:31,875 --> 01:14:33,184
+- Mm.
+- Yeah.
+
+864
+01:14:33,603 --> 01:14:35,903
+You take decks 1 and 2.
+You take decks 3 and 4.
+
+865
+01:14:35,935 --> 01:14:40,110
+I'm going down to the Hibernation Bay,
+to check our pods.
+
+866
+01:14:40,523 --> 01:14:42,638
+Now that should be interesting.
+
+867
+01:14:52,792 --> 01:14:55,313
+Aren't you supposed to be making rounds.
+
+868
+01:14:55,519 --> 01:14:57,439
+I finished.
+
+869
+01:14:59,575 --> 01:15:01,644
+I checked your pod.
+
+870
+01:15:02,356 --> 01:15:04,973
+The problem's very simple.
+The clock chips burned out.
+
+871
+01:15:04,998 --> 01:15:07,817
+It ain't supposed to happen,
+but pretty simple.
+
+872
+01:15:07,842 --> 01:15:09,502
+My pod was more complicated.
+
+873
+01:15:09,527 --> 01:15:12,368
+A bunch of system failures,
+it all happened at the same time,
+
+874
+01:15:12,393 --> 01:15:14,953
+the whole damn thing went haywire.
+
+875
+01:15:16,595 --> 01:15:18,886
+Which explains why I'm feeling so bad.
+
+876
+01:15:18,911 --> 01:15:21,208
+But Aurora's pod...
+
+877
+01:15:24,398 --> 01:15:26,500
+You did this.
+
+878
+01:15:28,528 --> 01:15:29,570
+Yeah.
+
+879
+01:15:29,617 --> 01:15:31,904
+All this time, I was thinking you're
+one lucky son of a bitch
+
+880
+01:15:31,929 --> 01:15:34,126
+to get stuck with Aurora.
+
+881
+01:15:36,924 --> 01:15:39,501
+It wasn't luck, was it?
+
+882
+01:15:39,526 --> 01:15:40,686
+No.
+
+883
+01:15:40,711 --> 01:15:42,386
+She knows?
+
+884
+01:15:42,411 --> 01:15:44,373
+She knows.
+
+885
+01:15:45,645 --> 01:15:47,392
+How long were you alone?
+
+886
+01:15:47,417 --> 01:15:49,148
+A year.
+
+887
+01:15:52,447 --> 01:15:54,255
+Still...
+
+888
+01:15:55,610 --> 01:15:57,424
+Damn.
+
+889
+01:16:15,609 --> 01:16:17,452
+Same as the rest.
+
+890
+01:16:17,932 --> 01:16:20,001
+Systems shut downs.
+
+891
+01:16:20,026 --> 01:16:22,753
+Everywhere, but no apparent connection.
+
+892
+01:16:24,280 --> 01:16:26,896
+You saw the hibernation pods?
+
+893
+01:16:26,974 --> 01:16:28,731
+I saw.
+
+894
+01:16:30,015 --> 01:16:32,022
+So you know.
+
+895
+01:16:32,883 --> 01:16:34,853
+What Jim did.
+
+896
+01:16:36,702 --> 01:16:38,603
+Yeah.
+
+897
+01:16:39,106 --> 01:16:40,443
+And?
+
+898
+01:16:40,468 --> 01:16:43,415
+- It's not my duty...
+- He woke me up!
+
+899
+01:16:43,440 --> 01:16:46,209
+- He took away my life!
+- I know and I'm sorry.
+
+900
+01:16:46,234 --> 01:16:49,246
+- There's work I have to...
+- It's murder!
+
+901
+01:16:51,769 --> 01:16:53,354
+You're right, Aurora.
+
+902
+01:16:53,379 --> 01:16:57,099
+But the drowning man always
+try to drag someone down with him.
+
+903
+01:16:57,137 --> 01:17:00,775
+It ain't right,
+but the man is drowning.
+
+904
+01:17:01,801 --> 01:17:03,928
+This one make 16.
+
+905
+01:17:06,829 --> 01:17:08,548
+Yeah.
+
+906
+01:17:11,376 --> 01:17:13,051
+You okay?
+
+907
+01:17:14,735 --> 01:17:17,421
+- You should go rest.
+- Yeah.
+
+908
+01:17:18,091 --> 01:17:22,892
+But just for a couple of hours and then,
+back here first thing in the morning.
+
+909
+01:18:15,285 --> 01:18:18,201
+<font color="#ff8080">GRAVITY LOSS</font>
+
+910
+01:19:26,112 --> 01:19:27,748
+<font color="#ff8080">GRAVITY DRIVE</font>
+
+911
+01:19:27,773 --> 01:19:28,818
+<font color="#80ffff">GRAVITY DRIVE</font>
+
+912
+01:20:09,378 --> 01:20:11,216
+I was in the pool
+when gravity gave out.
+
+913
+01:20:11,241 --> 01:20:12,278
+Are you okay?
+
+914
+01:20:12,303 --> 01:20:13,991
+We need to find Gus.
+
+915
+01:20:15,385 --> 01:20:17,712
+Gus!
+Gus!
+
+916
+01:20:17,973 --> 01:20:21,263
+Gravity loss means that whatever is wrong
+we're start to hit the big ticket items.
+
+917
+01:20:21,288 --> 01:20:22,958
+Not good.
+
+918
+01:20:23,537 --> 01:20:28,045
+Every failure is a burnout process,
+every thing on board is thinking too hard.
+
+919
+01:20:28,497 --> 01:20:30,108
+Why?
+
+920
+01:20:30,674 --> 01:20:33,144
+Computer, display these failures over time.
+
+921
+01:20:33,169 --> 01:20:35,776
+Processing timeline.
+
+922
+01:20:36,768 --> 01:20:38,611
+Cascades.
+
+923
+01:20:39,361 --> 01:20:42,022
+It started 2 years ago,
+power surge.
+
+924
+01:20:42,694 --> 01:20:45,350
+17 failures on 1 day.
+
+925
+01:20:45,581 --> 01:20:47,902
+Including hibernation pod 1498.
+
+926
+01:20:47,927 --> 01:20:49,557
+That's me.
+
+927
+01:20:49,582 --> 01:20:51,259
+Woke me up.
+
+928
+01:20:52,778 --> 01:20:55,306
+- What happened that day?
+- Something big.
+
+929
+01:20:55,331 --> 01:20:57,814
+A major system went down somewhere.
+
+930
+01:20:58,180 --> 01:21:00,186
+Everything else on board
+is trying to pick up the load
+
+931
+01:21:00,211 --> 01:21:01,989
+but the load's too heavy.
+
+932
+01:21:01,990 --> 01:21:04,247
+Whatever started this
+we got to find it.
+
+933
+01:21:04,248 --> 01:21:07,411
+- And fix it.
+- How bad can this get?
+
+934
+01:21:07,964 --> 01:21:10,248
+Give me a risk analysis
+based on this data.
+
+935
+01:21:10,273 --> 01:21:11,928
+Extrapolating.
+
+936
+01:21:11,953 --> 01:21:14,426
+Emission critical failure is imminent.
+
+937
+01:21:14,451 --> 01:21:17,775
+Failing systems:
+Life support. Fusion reactor.
+
+938
+01:21:17,800 --> 01:21:19,651
+So we're stranded...
+
+939
+01:21:19,676 --> 01:21:20,882
+Ion drive.
+
+940
+01:21:20,907 --> 01:21:23,044
+on a sinking ship.
+
+941
+01:21:31,196 --> 01:21:33,190
+Main Engineering.
+
+942
+01:21:33,215 --> 01:21:36,606
+Not a lot of things big enough
+to hit this ship that hard.
+
+943
+01:21:39,103 --> 01:21:42,499
+With diagnostics out,
+we'll have to find it ourselves.
+
+944
+01:21:42,500 --> 01:21:44,377
+Where do we start?
+
+945
+01:21:44,947 --> 01:21:46,366
+Gus!
+
+946
+01:21:49,990 --> 01:21:53,498
+Scan complete.
+Analyzing data.
+
+947
+01:21:54,869 --> 01:21:56,750
+612 DISORDERS FOUND
+
+948
+01:21:56,751 --> 01:21:58,774
+What does it say
+is wrong with me?
+
+949
+01:21:58,799 --> 01:22:00,275
+It's a few things.
+
+950
+01:22:00,300 --> 01:22:03,328
+612 disorders found.
+
+951
+01:22:03,353 --> 01:22:05,274
+Get me out of here.
+
+952
+01:22:19,283 --> 01:22:20,922
+What's the prognosis?
+
+953
+01:22:20,946 --> 01:22:25,284
+Critical diagnosis cannot be discussed
+without a doctor or a dentist.
+
+954
+01:22:25,309 --> 01:22:29,310
+Override on my authority,
+I.D. 2317.
+
+955
+01:22:29,335 --> 01:22:30,600
+Lay it on me, doc.
+
+956
+01:22:30,625 --> 01:22:32,547
+Pan-systemic necrosis.
+
+957
+01:22:32,572 --> 01:22:35,594
+Progressive organ failure.
+Cause unknown.
+
+958
+01:22:35,619 --> 01:22:38,154
+My goofy hibernation pod,
+that's the cause.
+
+959
+01:22:38,179 --> 01:22:41,249
+- What's the treatment?
+- Various treatment impossible.
+
+960
+01:22:41,274 --> 01:22:44,492
+None will unmeaningly
+extend the patient's life.
+
+961
+01:22:47,476 --> 01:22:48,757
+How long have I got?
+
+962
+01:22:48,782 --> 01:22:52,248
+Your end of life transition
+is already under way.
+
+963
+01:22:52,847 --> 01:22:57,432
+These sedatives will alleviate
+your suffering during these final hours.
+
+964
+01:23:14,498 --> 01:23:16,038
+Gus?
+
+965
+01:23:20,738 --> 01:23:22,831
+I need a minute.
+
+966
+01:23:52,044 --> 01:23:54,896
+We are experiencing difficulties in flight.
+
+967
+01:23:54,921 --> 01:23:57,193
+- Gus!
+- Gus!
+
+968
+01:23:57,218 --> 01:23:58,181
+Where can he be?
+
+969
+01:23:58,206 --> 01:24:01,601
+For your own safety,
+please return to your cabins.
+
+970
+01:24:07,805 --> 01:24:11,547
+For your own safety,
+please return to your cabins.
+
+971
+01:24:11,572 --> 01:24:14,303
+Shit, the damn pills.
+
+972
+01:24:14,304 --> 01:24:16,954
+- I'll go get them.
+- No, stay.
+
+973
+01:24:18,447 --> 01:24:20,163
+Sit down.
+
+974
+01:24:24,384 --> 01:24:27,118
+You two take care of each other.
+
+975
+01:24:36,038 --> 01:24:38,341
+My I.D..
+
+976
+01:24:39,256 --> 01:24:42,262
+Get you where you need to go.
+
+977
+01:24:42,926 --> 01:24:45,119
+Fix the ship.
+
+978
+01:24:45,864 --> 01:24:48,488
+Find out what's wrong with her.
+
+979
+01:24:51,147 --> 01:24:53,176
+How do I look?
+
+980
+01:24:53,468 --> 01:24:55,936
+You look magnificent.
+
+981
+01:24:56,490 --> 01:24:59,689
+Ladies love a dressed man.
+
+982
+01:25:08,067 --> 01:25:10,136
+What do we do now?
+
+983
+01:25:16,685 --> 01:25:18,398
+This can't be good.
+
+984
+01:25:21,411 --> 01:25:23,078
+I'm going back to Engineering.
+
+985
+01:25:23,103 --> 01:25:25,047
+Can you fix this?
+
+986
+01:25:25,216 --> 01:25:26,900
+I need your help.
+
+987
+01:25:29,911 --> 01:25:31,408
+Let's go!
+
+988
+01:25:53,681 --> 01:25:55,092
+Arthur!
+
+989
+01:26:10,591 --> 01:26:12,011
+Let's go!
+
+990
+01:26:15,278 --> 01:26:17,385
+Main Engineering.
+
+991
+01:26:17,480 --> 01:26:19,348
+Can't we wake up
+some of the crew?
+
+992
+01:26:19,373 --> 01:26:21,765
+They would take too long to recover,
+we don't have that kind of time.
+
+993
+01:26:21,790 --> 01:26:23,953
+What are we even looking for?
+
+994
+01:26:24,150 --> 01:26:26,068
+Something broken.
+
+995
+01:26:26,336 --> 01:26:27,909
+Something big.
+
+996
+01:26:28,063 --> 01:26:29,664
+Come on!
+
+997
+01:26:31,083 --> 01:26:33,399
+- Is it broken?
+- It seems okay.
+
+998
+01:26:33,424 --> 01:26:34,507
+What next?
+
+999
+01:26:34,532 --> 01:26:36,735
+Power Plant.
+This way.
+
+1000
+01:26:42,502 --> 01:26:44,319
+Come on.
+
+1001
+01:26:44,496 --> 01:26:46,225
+Whole section's closed down.
+Something's wrong.
+
+1002
+01:26:46,250 --> 01:26:48,041
+We're looking for wrong.
+
+1003
+01:26:48,066 --> 01:26:49,807
+Try to open it.
+
+1004
+01:27:01,105 --> 01:27:02,500
+Warning.
+
+1005
+01:27:02,947 --> 01:27:06,367
+Pressure door.
+Lock down initiated.
+
+1006
+01:27:08,788 --> 01:27:10,524
+Please secure all doors.
+
+1007
+01:27:10,549 --> 01:27:12,578
+Aurora!
+
+1008
+01:27:14,460 --> 01:27:17,507
+Warning.
+Dangerous oxygen level.
+
+1009
+01:27:17,532 --> 01:27:19,880
+Please secure all doors.
+
+1010
+01:27:28,963 --> 01:27:33,345
+Dangerous oxygen level.
+Please secured all doors.
+
+1011
+01:27:37,412 --> 01:27:39,342
+Grab it!
+
+1012
+01:27:45,592 --> 01:27:48,825
+Pressurizing cabin on sensor door.
+
+1013
+01:27:57,084 --> 01:27:59,177
+Pressure normalized.
+
+1014
+01:27:59,749 --> 01:28:01,877
+Oxygen level restored.
+
+1015
+01:28:01,902 --> 01:28:03,788
+Stand lock down.
+
+1016
+01:28:03,813 --> 01:28:06,517
+A hole in the ship.
+
+1017
+01:28:08,486 --> 01:28:10,343
+More than one.
+
+1018
+01:28:13,335 --> 01:28:15,781
+How did that even happen?
+This ship is supposed to be meteor-proof.
+
+1019
+01:28:15,806 --> 01:28:17,938
+I guess one got through.
+
+1020
+01:28:25,683 --> 01:28:27,140
+It's hot!
+
+1021
+01:28:33,766 --> 01:28:35,785
+I think we found it.
+
+1022
+01:28:45,343 --> 01:28:47,803
+It's the reactor control computer.
+
+1023
+01:28:53,654 --> 01:28:55,293
+This is what hit us 2 years ago.
+
+1024
+01:28:55,318 --> 01:28:56,878
+Jim.
+
+1025
+01:28:57,417 --> 01:28:59,613
+How can we fix this?
+
+1026
+01:29:02,486 --> 01:29:03,514
+We're going to die.
+
+1027
+01:29:03,539 --> 01:29:05,737
+There's replacement parts for everything.
+
+1028
+01:29:10,104 --> 01:29:11,333
+Light.
+
+1029
+01:29:11,358 --> 01:29:12,769
+Sorry.
+
+1030
+01:29:14,564 --> 01:29:17,258
+As soon as I pull this module,
+the entire computer is going to shut down.
+
+1031
+01:29:17,283 --> 01:29:19,092
+What happens then?
+
+1032
+01:29:20,519 --> 01:29:23,089
+I'll get it back up
+as quickly as I can.
+
+1033
+01:29:27,015 --> 01:29:28,549
+Hurry!
+
+1034
+01:29:30,637 --> 01:29:32,013
+Jim!
+
+1035
+01:29:34,711 --> 01:29:37,310
+Control computer restored.
+
+1036
+01:29:38,197 --> 01:29:40,260
+Venting reactor.
+
+1037
+01:29:42,008 --> 01:29:43,197
+But we fixed it!
+
+1038
+01:29:43,222 --> 01:29:47,329
+Reactor vent failed. 
+Manual override required.
+
+1039
+01:29:52,679 --> 01:29:54,216
+Vent failure.
+
+1040
+01:29:54,241 --> 01:29:55,981
+- Come on!
+- Jim.
+
+1041
+01:30:00,302 --> 01:30:02,101
+Outer door non-responsive.
+
+1042
+01:30:02,127 --> 01:30:04,172
+What does that mean?
+
+1043
+01:30:05,914 --> 01:30:07,692
+The outer door is jammed.
+
+1044
+01:30:07,717 --> 01:30:09,576
+We got to open that door
+and cool the reactor down
+
+1045
+01:30:09,608 --> 01:30:11,519
+or the whole ship's going to blow.
+
+1046
+01:30:11,544 --> 01:30:12,342
+How?
+
+1047
+01:30:12,367 --> 01:30:13,967
+I got to go out there.
+
+1048
+01:30:14,008 --> 01:30:16,073
+Open it from the outside.
+
+1049
+01:30:16,580 --> 01:30:18,991
+I open the door
+I get cleared.
+
+1050
+01:30:19,200 --> 01:30:21,175
+You blow that fire into space.
+
+1051
+01:30:21,200 --> 01:30:23,805
+- You get cleared? 
+- You talk to me through this.
+
+1052
+01:30:23,806 --> 01:30:26,342
+What happens to you
+when that door opens?
+
+1053
+01:30:36,443 --> 01:30:38,946
+Heat shield. 
+It might help.
+
+1054
+01:30:47,213 --> 01:30:48,829
+You might need this.
+
+1055
+01:31:02,431 --> 01:31:04,180
+It's going to be okay.
+
+1056
+01:31:13,750 --> 01:31:15,304
+I'm gonna go.
+
+1057
+01:31:20,161 --> 01:31:21,606
+Jim.
+
+1058
+01:31:21,965 --> 01:31:23,448
+Jim.
+
+1059
+01:31:25,831 --> 01:31:27,561
+Come back to me.
+
+1060
+01:31:29,103 --> 01:31:31,717
+I can't live on the ship 
+without you.
+
+1061
+01:31:56,859 --> 01:31:59,475
+Warning.
+Temperature critical.
+
+1062
+01:31:59,500 --> 01:32:00,861
+AHHHH!
+
+1063
+01:32:12,770 --> 01:32:14,318
+What's wrong?
+
+1064
+01:32:15,113 --> 01:32:16,936
+What's the matter?
+Are you okay?
+
+1065
+01:32:16,963 --> 01:32:18,469
+Nothing.
+Go.
+
+1066
+01:32:18,494 --> 01:32:19,424
+You sure?
+
+1067
+01:32:19,449 --> 01:32:20,845
+Yeah.
+
+1068
+01:32:28,388 --> 01:32:30,196
+I'm in the vent tube.
+
+1069
+01:32:31,044 --> 01:32:34,040
+New anchor port. 
+Reset tail.
+
+1070
+01:32:37,308 --> 01:32:38,958
+I see the door.
+
+1071
+01:32:39,531 --> 01:32:41,952
+Temperature level rising.
+
+1072
+01:32:48,683 --> 01:32:51,613
+Warning.
+Temperature critical.
+
+1073
+01:32:57,449 --> 01:32:59,967
+Containment unstable.
+
+1074
+01:33:01,103 --> 01:33:02,289
+Where are you?
+
+1075
+01:33:02,314 --> 01:33:03,392
+I'm at the door.
+
+1076
+01:33:03,417 --> 01:33:05,041
+I'm ready, just say when.
+
+1077
+01:33:05,066 --> 01:33:06,714
+There goes.
+
+1078
+01:33:09,657 --> 01:33:12,710
+The door won't open. 
+I'll have to bypass it.
+
+1079
+01:33:14,699 --> 01:33:17,181
+Temperature level rising.
+
+1080
+01:33:17,804 --> 01:33:19,137
+Jim, come on!
+
+1081
+01:33:19,162 --> 01:33:20,904
+Please, hurry!
+
+1082
+01:33:20,929 --> 01:33:24,070
+- Okay, I'm trying it again. 
+- Tell me when you're cleared.
+
+1083
+01:33:28,068 --> 01:33:28,760
+No!
+
+1084
+01:33:28,785 --> 01:33:30,046
+What?
+
+1085
+01:33:30,844 --> 01:33:32,565
+What's going on?
+
+1086
+01:33:32,736 --> 01:33:34,232
+Jim?
+
+1087
+01:33:38,318 --> 01:33:39,370
+Jim!
+
+1088
+01:33:39,395 --> 01:33:41,523
+The door won't stay open.
+
+1089
+01:33:42,515 --> 01:33:46,326
+I think I have to stay here, 
+hold the door open.
+
+1090
+01:33:47,099 --> 01:33:48,378
+No!
+
+1091
+01:33:48,403 --> 01:33:49,912
+No way, get out of there!
+
+1092
+01:33:49,937 --> 01:33:51,504
+I can't.
+
+1093
+01:33:51,654 --> 01:33:53,164
+Jim...
+
+1094
+01:33:53,271 --> 01:33:55,097
+We're out of time.
+
+1095
+01:33:56,248 --> 01:33:57,950
+Containment unstable.
+
+1096
+01:33:57,990 --> 01:33:59,523
+Jim?
+
+1097
+01:34:05,635 --> 01:34:07,550
+Vent the reactor.
+
+1098
+01:34:13,420 --> 01:34:16,319
+No, you don't understand!
+
+1099
+01:34:16,636 --> 01:34:19,390
+If I open the right now
+it will kill you!
+
+1100
+01:34:19,416 --> 01:34:20,577
+I'm opening it up.
+
+1101
+01:34:20,602 --> 01:34:22,478
+Come back in, 
+we'll think of something else.
+
+1102
+01:34:22,503 --> 01:34:24,425
+There is nothing else.
+
+1103
+01:34:25,599 --> 01:34:27,062
+Jim!
+
+1104
+01:34:27,646 --> 01:34:29,460
+- It's okay. 
+- No, it's not okay!
+
+1105
+01:34:29,485 --> 01:34:32,693
+- Aurora
+- Warning. Temperature critical.
+
+1106
+01:34:32,718 --> 01:34:35,272
+This is not how it's suppose to happen!
+
+1107
+01:34:36,004 --> 01:34:37,454
+Aurora, this ship is going to go.
+
+1108
+01:34:37,479 --> 01:34:40,089
+I don't care!
+You die, I die.
+
+1109
+01:34:40,365 --> 01:34:43,584
+There are 5,000 other people 
+on this ship, Aurora.
+
+1110
+01:34:44,722 --> 01:34:46,681
+We have to do this.
+
+1111
+01:34:47,251 --> 01:34:49,461
+Maximum pressure reached.
+
+1112
+01:34:52,751 --> 01:34:55,206
+Do it. 
+Now.
+
+1113
+01:34:56,030 --> 01:34:58,696
+Maximum cabin pressure reached.
+
+1114
+01:35:19,737 --> 01:35:21,853
+Temperature dropping.
+
+1115
+01:35:23,233 --> 01:35:24,615
+Jim.
+
+1116
+01:35:42,651 --> 01:35:44,793
+- Jim.
+- Vent successful.
+
+1117
+01:35:44,793 --> 01:35:47,147
+Rebooting process initiated.
+
+1118
+01:35:47,172 --> 01:35:49,365
+Jim, please say something.
+
+1119
+01:36:25,784 --> 01:36:28,285
+Suit pressure dropping.
+
+1120
+01:36:30,834 --> 01:36:34,003
+Return to ship immediately.
+
+1121
+01:36:35,025 --> 01:36:36,471
+Aurora.
+
+1122
+01:36:37,995 --> 01:36:39,232
+It worked!
+
+1123
+01:36:39,257 --> 01:36:41,393
+You did it, you can come in!
+
+1124
+01:36:41,567 --> 01:36:43,169
+Yeah, about that...
+
+1125
+01:36:43,194 --> 01:36:44,956
+What's the matter?
+Are you hurt?
+
+1126
+01:36:45,637 --> 01:36:47,500
+I got blown out of the tube.
+
+1127
+01:36:47,524 --> 01:36:48,404
+What?
+
+1128
+01:36:48,430 --> 01:36:51,303
+My tail broke.
+I can't get back to the ship.
+
+1129
+01:36:52,059 --> 01:36:54,072
+I'll come out. I'll come out.
+I'll pull you in.
+
+1130
+01:36:54,097 --> 01:36:56,959
+Warning.
+Oxygen level critical.
+
+1131
+01:36:56,984 --> 01:36:59,833
+Return to ship immediately.
+
+1132
+01:37:07,717 --> 01:37:10,582
+Aurora, I'm sorry...
+
+1133
+01:37:12,274 --> 01:37:13,516
+... for everything.
+
+1134
+01:37:13,541 --> 01:37:15,374
+Shut up, I'm coming.
+
+1135
+01:37:15,779 --> 01:37:20,508
+I wish we'd have met 
+in 90 years.
+
+1136
+01:37:25,176 --> 01:37:28,803
+I...
+I'd build you a house.
+
+1137
+01:37:32,969 --> 01:37:35,187
+I'll read your book.
+
+1138
+01:37:37,423 --> 01:37:39,306
+It's a good feel.
+
+1139
+01:37:51,541 --> 01:37:52,792
+Tail attached.
+
+1140
+01:37:52,817 --> 01:37:55,006
+Locate Jim Preston.
+
+1141
+01:37:59,155 --> 01:38:02,168
+Jim Preston, located.
+
+1142
+01:38:02,738 --> 01:38:04,502
+I'm going to get you.
+
+1143
+01:38:29,062 --> 01:38:30,663
+JIM!
+
+1144
+01:39:30,337 --> 01:39:32,740
+I'm sorry. 
+The patient is dead.
+
+1145
+01:39:32,765 --> 01:39:34,222
+WELL, RESUSCITATE HIM!
+
+1146
+01:39:34,247 --> 01:39:37,751
+Postmortem operations require 
+authorized medical supervision.
+
+1147
+01:39:37,776 --> 01:39:39,453
+No!
+
+1148
+01:39:47,820 --> 01:39:50,067
+Override!
+Override on my authority!
+
+1149
+01:39:50,092 --> 01:39:53,625
+I.D. 17...
+
+1150
+01:39:54,968 --> 01:39:56,373
+2...
+
+1151
+01:39:56,707 --> 01:39:58,464
+2...
+
+1152
+01:40:00,069 --> 01:40:02,938
+2317!
+I.D. 2317!
+
+1153
+01:40:06,142 --> 01:40:07,641
+<font color="#80ffff">RESUSCITATION</font>
+
+1154
+01:40:07,666 --> 01:40:09,394
+<font color="#80ffff">DEFIBRILLATION 
+OXYGENATION</font>
+
+1155
+01:40:10,816 --> 01:40:12,641
+Multiple procedures are not recommended.
+
+1156
+01:40:12,666 --> 01:40:14,185
+OVERRIDE!
+
+1157
+01:40:14,210 --> 01:40:15,849
+DO IT, NOW!
+
+1158
+01:40:15,874 --> 01:40:17,525
+Executing
+
+1159
+01:41:16,760 --> 01:41:18,037
+Jim.
+
+1160
+01:41:20,110 --> 01:41:21,632
+Jim.
+
+1161
+01:41:49,339 --> 01:41:51,652
+You brought me back.
+
+1162
+01:41:51,708 --> 01:41:53,300
+Yeah.
+
+1163
+01:42:17,173 --> 01:42:18,014
+Thank you.
+
+1164
+01:42:18,015 --> 01:42:19,428
+Be still.
+
+1165
+01:42:19,453 --> 01:42:21,063
+Of course.
+
+1166
+01:43:06,020 --> 01:43:08,220
+There's something I have to show you.
+
+1167
+01:43:08,245 --> 01:43:11,422
+In Command mode, it turns out 
+the autodoc has a option
+
+1168
+01:43:11,447 --> 01:43:13,925
+called "Stabilize and Suspend".
+
+1169
+01:43:13,950 --> 01:43:16,796
+It stops all metabolic activity.
+
+1170
+01:43:18,476 --> 01:43:19,709
+What are you saying?
+
+1171
+01:43:19,734 --> 01:43:22,253
+It's ​​Gus' idea. 
+It could be like hibernation.
+
+1172
+01:43:22,278 --> 01:43:25,195
+Inside the autodoc,
+you can go back to sleep.
+
+1173
+01:43:29,450 --> 01:43:31,658
+But there's only one autodoc.
+
+1174
+01:43:35,656 --> 01:43:37,065
+Yeah.
+
+1175
+01:43:39,214 --> 01:43:41,649
+And you're going to 
+lay down in it,
+
+1176
+01:43:41,759 --> 01:43:43,550
+and fall asleep.
+
+1177
+01:43:44,334 --> 01:43:46,603
+And you'll wake up on Homestead II,
+
+1178
+01:43:46,628 --> 01:43:48,652
+and you'll write you book.
+
+1179
+01:43:50,077 --> 01:43:53,429
+You finish your journey.
+You do what you set out to do.
+
+1180
+01:44:01,732 --> 01:44:03,705
+You'll be alone.
+
+1181
+01:44:04,777 --> 01:44:08,829
+I've been alone before
+and I'll be fine.
+
+1182
+01:44:09,978 --> 01:44:12,338
+But I'll never see you again.
+
+1183
+01:44:15,463 --> 01:44:17,350
+I'll come and visit you.
+
+1184
+01:44:59,969 --> 01:45:02,496
+Tuesday is my day with Arthur.
+
+1185
+01:45:03,917 --> 01:45:05,576
+Lovely as ever.
+
+1186
+01:45:05,601 --> 01:45:07,928
+Thank you, Arthur. 
+You're looking very well yourself.
+
+1187
+01:45:07,953 --> 01:45:09,725
+Thanks to you.
+
+1188
+01:45:10,716 --> 01:45:12,211
+What's that?
+
+1189
+01:45:14,312 --> 01:45:17,307
+Something I wanted to 
+give you for a long time.
+
+1190
+01:45:23,628 --> 01:45:25,658
+It's beautiful.
+
+1191
+01:45:38,141 --> 01:45:40,947
+Took you long enough to ask.
+
+1192
+01:45:43,586 --> 01:45:46,976
+Champagne. 
+I'll wait.
+
+1193
+01:46:03,722 --> 01:46:05,603
+Hell of a life.
+
+1194
+01:46:08,118 --> 01:46:10,012
+Hell of a life.
+
+1195
+01:46:28,267 --> 01:46:32,280
+HOMESTEAD II
+
+1196
+01:46:32,305 --> 01:46:39,134
+HOMESTEAD II
+88 YEARS LATER
+
+1197
+01:46:40,945 --> 01:46:44,331
+Crew wake up process initiated.
+
+1198
+01:46:45,012 --> 01:46:47,034
+My fellow passengers,
+
+1199
+01:46:47,059 --> 01:46:52,373
+if you are reading this, then the 
+starship Avalon has reached its destination.
+
+1200
+01:46:52,398 --> 01:46:54,506
+Grand Concourse.
+
+1201
+01:46:54,691 --> 01:46:57,108
+A lot happened while you slept.
+
+1202
+01:47:04,229 --> 01:47:06,082
+A friend once said,
+
+1203
+01:47:06,107 --> 01:47:09,363
+"You can't get so hung up
+on where you'd rather be
+
+1204
+01:47:09,388 --> 01:47:12,939
+that you forget to make
+the most of where you are.
+
+1205
+01:47:13,490 --> 01:47:15,953
+We got lost on our way.
+
+1206
+01:47:16,505 --> 01:47:18,511
+We found each other.
+
+1207
+01:47:18,845 --> 01:47:20,683
+And we made a life.
+
+1208
+01:47:20,708 --> 01:47:24,911
+A beautiful life... together.
+
+1209
+01:47:26,585 --> 01:47:31,773
+Subtitle created by <font color="#ffff00">- Aorion -</font>
+

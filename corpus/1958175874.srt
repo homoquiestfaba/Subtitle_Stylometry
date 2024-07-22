@@ -1,0 +1,3531 @@
+﻿1
+00:00:06,700 --> 00:00:08,740
+Hey, everyone. I'm Clark Wolfe.
+
+2
+00:00:08,870 --> 00:00:10,700
+And welcome to "Show
+Me More", where we take
+
+3
+00:00:10,830 --> 00:00:13,310
+a behind the scenes look
+at what went into creating
+
+4
+00:00:13,440 --> 00:00:14,790
+AMC's hit shows.
+
+5
+00:00:14,920 --> 00:00:16,750
+Before we get into
+it, I should warn you,
+
+6
+00:00:16,880 --> 00:00:19,100
+there are lots of
+spoilers ahead.
+
+7
+00:00:19,230 --> 00:00:22,060
+Now, if you're all caught
+up, let's get into part one
+
+8
+00:00:22,190 --> 00:00:26,630
+of the final season of
+"Fear The Walking Dead."
+
+9
+00:00:26,760 --> 00:00:28,760
+Announcer: Presented
+by T-Mobile.
+
+10
+00:00:36,030 --> 00:00:38,210
+Padre was a mystery for
+most of season seven.
+
+11
+00:00:38,340 --> 00:00:40,820
+And what we did learn
+about it at the end
+
+12
+00:00:40,950 --> 00:00:43,130
+with Morgan and Madison
+was hardly encouraging.
+
+13
+00:00:43,260 --> 00:00:44,910
+Come on. She sounds scared.
+
+14
+00:00:45,040 --> 00:00:46,870
+Padre: Like all
+the children here,
+
+15
+00:00:47,000 --> 00:00:49,080
+she will learn to separate
+herself from her emotions.
+
+16
+00:00:49,170 --> 00:00:51,000
+Wolfe: Well, in season
+8, we sure learned
+
+17
+00:00:51,130 --> 00:00:53,400
+a lot more about Padre.
+
+18
+00:00:53,530 --> 00:00:54,936
+You're doing this
+for the same reason
+
+19
+00:00:54,960 --> 00:00:56,660
+we do everything. For Padre.
+
+20
+00:00:56,790 --> 00:00:58,310
+Wolfe: Like who's in charge,
+
+21
+00:00:58,440 --> 00:01:00,620
+how the community survived
+for over seven years,
+
+22
+00:01:00,750 --> 00:01:05,580
+and why you wouldn't exactly
+call it a family friendly place.
+
+23
+00:01:05,710 --> 00:01:07,540
+Not even close.
+
+24
+00:01:09,370 --> 00:01:11,280
+Man: Who are we
+learning this for?
+
+25
+00:01:11,410 --> 00:01:13,850
+All: Padre!
+
+26
+00:01:13,980 --> 00:01:15,850
+Man: Who sustains
+our way of life?
+
+27
+00:01:15,980 --> 00:01:18,200
+All: Padre.
+
+28
+00:01:18,330 --> 00:01:21,290
+Goldberg: Padre is
+our central settlement
+
+29
+00:01:21,420 --> 00:01:25,040
+that is well fortified,
+on the water,
+
+30
+00:01:25,170 --> 00:01:28,080
+where we find our
+characters in season 8.
+
+31
+00:01:28,210 --> 00:01:30,090
+Man: Who is teaching
+us to be strong?
+
+32
+00:01:30,220 --> 00:01:31,300
+All: Padre.
+
+33
+00:01:31,430 --> 00:01:33,090
+Goldberg: When Padre started,
+
+34
+00:01:33,220 --> 00:01:35,260
+it was in this altruistic place.
+
+35
+00:01:35,390 --> 00:01:39,180
+It really was created
+to rebuild the world.
+
+36
+00:01:39,310 --> 00:01:40,806
+Chambliss: Padre isn't
+just a group of people.
+
+37
+00:01:40,830 --> 00:01:42,710
+It isn't just a settlement.
+
+38
+00:01:42,840 --> 00:01:44,710
+It really is a way of life.
+
+39
+00:01:44,840 --> 00:01:47,360
+We kind of thought of this
+as kind of like a modern day
+
+40
+00:01:47,490 --> 00:01:50,500
+version of Sparta, where Padre
+is collecting all these children
+
+41
+00:01:50,630 --> 00:01:53,150
+from the apocalypse, and they're
+kind of like this blank slate
+
+42
+00:01:53,280 --> 00:01:56,330
+that Padre can teach
+this new way of life to.
+
+43
+00:01:56,460 --> 00:01:59,640
+Goldberg: They operate
+on this philosophy of
+
+44
+00:01:59,770 --> 00:02:02,380
+separating children
+from their parents
+
+45
+00:02:02,510 --> 00:02:05,770
+and raising them to not
+have emotional connections.
+
+46
+00:02:05,900 --> 00:02:07,616
+Chambliss: Individual
+relationships, individual wants
+
+47
+00:02:07,640 --> 00:02:11,470
+and needs are secondary to
+the good of the community.
+
+48
+00:02:11,600 --> 00:02:12,796
+You're doing this
+for the same reason
+
+49
+00:02:12,820 --> 00:02:14,220
+we do everything.
+
+50
+00:02:14,350 --> 00:02:15,740
+For Padre.
+
+51
+00:02:15,870 --> 00:02:18,660
+Goldberg: Children are
+being raised to be strong,
+
+52
+00:02:18,790 --> 00:02:21,220
+to be warriors, to
+approach the world
+
+53
+00:02:21,350 --> 00:02:24,490
+in a cold, brutal way.
+
+54
+00:02:24,620 --> 00:02:27,140
+However, there's something
+that they grow up
+
+55
+00:02:27,270 --> 00:02:30,100
+fundamentally lacking,
+which is connection.
+
+56
+00:02:30,230 --> 00:02:32,760
+Every time I look out
+there. I feel like something
+
+57
+00:02:32,890 --> 00:02:34,850
+really big is
+missing inside of me.
+
+58
+00:02:37,890 --> 00:02:41,030
+Goldberg: Our characters are
+separated from the people
+
+59
+00:02:41,160 --> 00:02:43,200
+they care about, and
+it's really redefined
+
+60
+00:02:43,330 --> 00:02:45,550
+who they are as people
+in the seven years
+
+61
+00:02:45,680 --> 00:02:46,900
+since we last saw them.
+
+62
+00:02:48,770 --> 00:02:50,770
+Who's that?
+
+63
+00:02:50,900 --> 00:02:52,470
+Madison: That's your dad.
+
+64
+00:02:52,600 --> 00:02:55,820
+Are you really my father?
+
+65
+00:02:55,950 --> 00:02:57,560
+I am Mo...
+
+66
+00:02:57,690 --> 00:03:00,260
+Wren. My name is Wren.
+
+67
+00:03:00,390 --> 00:03:02,700
+Essentially, the kids
+have been brainwashed.
+
+68
+00:03:04,310 --> 00:03:06,270
+They believe their
+parents abandoned them.
+
+69
+00:03:06,400 --> 00:03:09,790
+They believe that Padre has
+their best interests at heart.
+
+70
+00:03:09,920 --> 00:03:13,100
+Padre. Can you hear
+me? This is Wren.
+
+71
+00:03:13,230 --> 00:03:16,150
+Man: Padre 1.
+Wren, do you copy?
+
+72
+00:03:16,280 --> 00:03:18,850
+Chambliss: Padre is run
+by these two traumatized
+
+73
+00:03:18,980 --> 00:03:21,590
+young adults who are
+doing all of this because
+
+74
+00:03:21,720 --> 00:03:23,150
+they lost their father.
+
+75
+00:03:23,290 --> 00:03:28,120
+Don't let this die.
+It's so important.
+
+76
+00:03:28,640 --> 00:03:31,600
+Goldberg: They believe they
+are protecting other kids
+
+77
+00:03:31,730 --> 00:03:35,080
+from the pain that they felt.
+
+78
+00:03:35,210 --> 00:03:37,210
+I know the pain Wren's in.
+
+79
+00:03:37,340 --> 00:03:40,520
+The whole reason I am
+doing what I'm doing
+
+80
+00:03:40,650 --> 00:03:44,390
+is to prevent anyone else from
+feeling that kind of pain.
+
+81
+00:03:44,520 --> 00:03:48,050
+Chambliss: There are, in some
+ways, good intentions behind
+
+82
+00:03:48,180 --> 00:03:50,440
+Padre, but Shrike and
+Crane have gone to this
+
+83
+00:03:50,570 --> 00:03:52,920
+kind of very dark place.
+
+84
+00:03:55,270 --> 00:03:57,280
+Woman: Wren, this
+is to protect you,
+
+85
+00:03:57,410 --> 00:03:59,130
+Eshet: Shrike and Crane,
+they're extremists.
+
+86
+00:03:59,230 --> 00:04:03,630
+They take very harsh actions
+to keep their community safe.
+
+87
+00:04:03,760 --> 00:04:05,410
+Stop, please!
+
+88
+00:04:05,540 --> 00:04:07,370
+Eshet: And they really
+did manage to keep
+
+89
+00:04:07,500 --> 00:04:08,810
+this community going.
+
+90
+00:04:08,940 --> 00:04:10,460
+Just so you know, Red Kite,
+
+91
+00:04:10,590 --> 00:04:13,600
+no one's ever stolen a
+child from Padre before.
+
+92
+00:04:13,730 --> 00:04:16,250
+Padre's philosophy has
+been quite effective.
+
+93
+00:04:16,380 --> 00:04:19,250
+But there is a cost that
+comes when you have to enforce
+
+94
+00:04:19,380 --> 00:04:22,430
+your ideology with
+such extreme measures.
+
+95
+00:04:24,130 --> 00:04:25,700
+Stop! Let her go!
+
+96
+00:04:25,830 --> 00:04:27,440
+Get her out of here now.
+
+97
+00:04:27,570 --> 00:04:30,220
+Padre really has to be careful
+
+98
+00:04:30,350 --> 00:04:32,960
+about showing any
+kind of weakness.
+
+99
+00:04:34,790 --> 00:04:36,490
+Don't move.
+
+100
+00:04:36,620 --> 00:04:38,880
+Shrike: Call the prefect.
+Tell them to get more guards.
+
+101
+00:04:39,010 --> 00:04:41,970
+She's the reason Finch got bit.
+
+102
+00:04:42,100 --> 00:04:43,670
+Finch got bit?
+
+103
+00:04:43,800 --> 00:04:45,980
+They don't want to have a
+bunch of kids wondering,
+
+104
+00:04:46,110 --> 00:04:47,800
+wait, is it better out there?
+
+105
+00:04:47,930 --> 00:04:51,110
+Are the parents that we've
+been told didn't care about us,
+
+106
+00:04:51,240 --> 00:04:53,240
+were our enemies, are
+they really our enemies?
+
+107
+00:04:53,380 --> 00:04:55,860
+Those kind of questions are
+the thing that Padre really
+
+108
+00:04:55,990 --> 00:04:57,510
+has to try to snuff out.
+
+109
+00:04:57,640 --> 00:05:00,640
+You wanted to ask
+Padre for the truth?
+
+110
+00:05:00,770 --> 00:05:03,120
+Go ahead, ask us.
+
+111
+00:05:03,250 --> 00:05:06,390
+Walton: Dove finds these files,
+and it holds all the information
+
+112
+00:05:06,520 --> 00:05:08,430
+about who her parents
+were, what her name is.
+
+113
+00:05:08,560 --> 00:05:12,130
+And that's just one story
+out of many of the kids.
+
+114
+00:05:13,260 --> 00:05:15,480
+Eshet: They lied to
+all of the children.
+
+115
+00:05:15,610 --> 00:05:18,570
+And I think that is going
+to be their downfall.
+
+116
+00:05:18,700 --> 00:05:19,790
+Let her go.
+
+117
+00:05:19,920 --> 00:05:21,660
+You don't understand.
+
+118
+00:05:21,790 --> 00:05:24,620
+She's Padre's daughter.
+You've been lied to.
+
+119
+00:05:24,750 --> 00:05:26,556
+Chambliss: Ultimately,
+in its effort to survive,
+
+120
+00:05:26,580 --> 00:05:29,110
+Padre ended up creating
+the very people
+
+121
+00:05:29,240 --> 00:05:31,060
+who are going to end
+up bringing it down.
+
+122
+00:05:38,640 --> 00:05:40,900
+Season 8 took us
+to a watery world
+
+123
+00:05:41,030 --> 00:05:42,550
+full of muck and mud
+
+124
+00:05:42,690 --> 00:05:45,560
+and sinking boats
+and swamp walkers.
+
+125
+00:05:45,690 --> 00:05:48,340
+To do this, the show went
+to the wetlands of Georgia,
+
+126
+00:05:48,470 --> 00:05:51,480
+where they built a
+swamp in a swamp.
+
+127
+00:06:00,700 --> 00:06:03,970
+I really like working
+in the manmade swamp.
+
+128
+00:06:04,100 --> 00:06:06,320
+It's such an impressive
+production design,
+
+129
+00:06:06,450 --> 00:06:07,450
+the set design.
+
+130
+00:06:07,580 --> 00:06:09,100
+All the special effects team,
+
+131
+00:06:09,230 --> 00:06:11,760
+everything they've done,
+it's pretty remarkable.
+
+132
+00:06:14,800 --> 00:06:17,370
+Goldberg: The swamp
+was a whole new element
+
+133
+00:06:17,500 --> 00:06:20,680
+that we got in season 8
+with the move to Savannah.
+
+134
+00:06:20,810 --> 00:06:23,770
+Well, do the alligators,
+and do the snakes,
+
+135
+00:06:23,900 --> 00:06:26,420
+do they all know that
+this is a manmade swamp?
+
+136
+00:06:26,560 --> 00:06:29,600
+Goldberg: Our team went
+in and excavated an area,
+
+137
+00:06:29,730 --> 00:06:33,610
+put in our own swamp water
+so that we could regulate
+
+138
+00:06:33,740 --> 00:06:35,666
+and we could make sure that
+there were no alligators
+
+139
+00:06:35,690 --> 00:06:37,440
+or anything that
+were getting in.
+
+140
+00:06:37,570 --> 00:06:39,410
+We built this thing to
+control the water levels
+
+141
+00:06:39,520 --> 00:06:42,010
+and control the
+critters and control...
+
+142
+00:06:42,140 --> 00:06:44,660
+Just basically have control
+over the environment.
+
+143
+00:06:46,270 --> 00:06:47,920
+Goldberg: We got our
+swamp walkers, which
+
+144
+00:06:48,050 --> 00:06:53,100
+KNB just made them so
+nightmarish and cool.
+
+145
+00:06:54,670 --> 00:06:56,516
+Dickens: The first night
+we worked in the swamp,
+
+146
+00:06:56,540 --> 00:06:58,800
+it was really
+moderate temperatures.
+
+147
+00:06:58,940 --> 00:07:01,290
+And I remember us kind of
+looking at each other like,
+
+148
+00:07:01,420 --> 00:07:03,770
+"This is kind of fun, right?"
+
+149
+00:07:06,900 --> 00:07:09,950
+James: Particularly the
+man made swamp that we had,
+
+150
+00:07:10,080 --> 00:07:12,780
+the water was constantly
+moving and pumped fresh
+
+151
+00:07:12,910 --> 00:07:15,040
+and all of that.
+
+152
+00:07:15,170 --> 00:07:20,780
+And it was kind of nice, I'm
+saying in inverted commas,
+
+153
+00:07:20,910 --> 00:07:23,220
+when the weather was warm.
+
+154
+00:07:24,740 --> 00:07:27,400
+When we were doing it
+later on in the season
+
+155
+00:07:27,530 --> 00:07:31,710
+and the weather had
+turned, not so much.
+
+156
+00:07:34,230 --> 00:07:36,190
+Dickens: It was a little
+bit like a carnival ride
+
+157
+00:07:36,320 --> 00:07:38,280
+to work on it because
+you're working at an angle
+
+158
+00:07:38,410 --> 00:07:41,850
+like this the whole time
+and half wet the whole time.
+
+159
+00:07:41,980 --> 00:07:43,996
+David: Looking at the set with
+the houseboat in the water
+
+160
+00:07:44,020 --> 00:07:46,680
+and Grace coming in on
+that raft was so badass.
+
+161
+00:07:46,810 --> 00:07:50,550
+I mean, I could not have
+asked for a better entrance
+
+162
+00:07:50,680 --> 00:07:51,990
+to start off the season.
+
+163
+00:07:52,120 --> 00:07:53,990
+Who are you?
+
+164
+00:07:54,120 --> 00:07:56,250
+I'm your mother.
+
+165
+00:07:56,380 --> 00:07:58,300
+We've seen a lot
+of horrible things
+
+166
+00:07:58,430 --> 00:08:00,300
+on "Fear The Walking
+Dead" over the years,
+
+167
+00:08:00,430 --> 00:08:02,430
+but Shrike infecting
+Finch with a walker bite
+
+168
+00:08:02,560 --> 00:08:06,260
+on the train car is
+about as dark as it gets.
+
+169
+00:08:06,390 --> 00:08:08,050
+No, please!
+
+170
+00:08:08,180 --> 00:08:11,220
+All in the name of finding
+a cure that doesn't work.
+
+171
+00:08:19,890 --> 00:08:24,670
+Goldberg: The train car was
+this off site medical facility
+
+172
+00:08:24,800 --> 00:08:28,110
+where Padre was doing
+horrific experiments
+
+173
+00:08:28,240 --> 00:08:30,550
+in the name of this cure.
+
+174
+00:08:32,030 --> 00:08:33,680
+Hello, Blue Jay.
+
+175
+00:08:33,810 --> 00:08:37,030
+Eshet: I infect Finch
+to give June motivation
+
+176
+00:08:37,160 --> 00:08:39,510
+to continue the research.
+
+177
+00:08:39,640 --> 00:08:41,496
+Elfman: Padre started
+these horrible experiments
+
+178
+00:08:41,520 --> 00:08:44,170
+and held June at gunpoint
+and made her do them.
+
+179
+00:08:44,300 --> 00:08:46,520
+Why is Padre doing this?
+
+180
+00:08:46,650 --> 00:08:48,480
+The same reason he
+does everything...
+
+181
+00:08:48,610 --> 00:08:51,870
+To ensure what
+he's built endures.
+
+182
+00:08:52,000 --> 00:08:56,180
+I sacrifice one individual
+in order to find a vaccine
+
+183
+00:08:56,310 --> 00:08:59,190
+and maybe solve
+this for humanity.
+
+184
+00:09:03,230 --> 00:09:05,540
+The set looked awesome.
+
+185
+00:09:05,670 --> 00:09:09,330
+Goldberg: We wanted to
+create this image of this
+
+186
+00:09:09,460 --> 00:09:11,020
+house of horrors where
+people who've had
+
+187
+00:09:11,110 --> 00:09:13,770
+these terrible experiments
+done to them for walker bites.
+
+188
+00:09:18,070 --> 00:09:20,640
+But it's all coming
+from this place of
+
+189
+00:09:20,770 --> 00:09:22,770
+wanting to prevent loss,
+
+190
+00:09:22,910 --> 00:09:25,340
+which is ultimately
+something that you can't do.
+
+191
+00:09:27,820 --> 00:09:32,130
+It was really brutal
+to shoot that scene.
+
+192
+00:09:34,830 --> 00:09:37,400
+It was awful.
+
+193
+00:09:37,530 --> 00:09:41,310
+Dwight: No, no,
+no, no, no, no, no.
+
+194
+00:09:41,450 --> 00:09:44,400
+We're in this tight train car.
+
+195
+00:09:44,540 --> 00:09:47,060
+Finch is a few feet
+in front of us.
+
+196
+00:09:47,190 --> 00:09:49,320
+We're tied to this pipe.
+
+197
+00:09:49,450 --> 00:09:53,850
+To watch Dwight and Sherry's
+reaction, as parents,
+
+198
+00:09:53,980 --> 00:09:56,720
+helplessly watching something
+happen to your child
+
+199
+00:09:56,850 --> 00:10:02,380
+that you can't do anything
+about is very emotional.
+
+200
+00:10:04,160 --> 00:10:06,080
+Amelio: It was pretty
+dark world, you know?
+
+201
+00:10:06,210 --> 00:10:10,910
+So it's like you got to go there
+in order for it to be truthful.
+
+202
+00:10:11,040 --> 00:10:15,220
+I'm gonna kill you.
+I'm gonna kill you!
+
+203
+00:10:15,350 --> 00:10:17,390
+Elfman: I think we all
+went back to the hotel
+
+204
+00:10:17,520 --> 00:10:19,220
+and just, like, sat outside
+
+205
+00:10:19,350 --> 00:10:23,050
+and, like, had to get some
+fresh air after that day.
+
+206
+00:10:29,450 --> 00:10:33,150
+Sure enough, one by one, our
+characters turned on Padre.
+
+207
+00:10:33,280 --> 00:10:34,410
+Where are you taking me?
+
+208
+00:10:34,540 --> 00:10:35,696
+As far away from
+Padre as possible.
+
+209
+00:10:35,720 --> 00:10:37,980
+It started with
+Madison, but Padre,
+
+210
+00:10:38,110 --> 00:10:39,290
+led by Shrike and Crane,
+
+211
+00:10:39,420 --> 00:10:41,590
+had a real knack
+for making enemies.
+
+212
+00:10:41,720 --> 00:10:44,810
+Just ask June or
+Morgan, Grace, and Mo.
+
+213
+00:10:44,940 --> 00:10:45,940
+What about everyone else?
+
+214
+00:10:46,080 --> 00:10:47,080
+Or Dwight and Sherry.
+
+215
+00:10:47,210 --> 00:10:48,210
+I'm gonna kill you.
+
+216
+00:10:48,340 --> 00:10:49,950
+Or Daniel and his parent army.
+
+217
+00:10:50,080 --> 00:10:53,690
+Padre, you pissed off the
+wrong group of people.
+
+218
+00:10:56,090 --> 00:10:59,390
+Hello? Is anyone in there?
+
+219
+00:10:59,520 --> 00:11:01,050
+Wait, wait.
+
+220
+00:11:01,180 --> 00:11:03,530
+Please. I'm not
+going to hurt you.
+
+221
+00:11:03,660 --> 00:11:06,880
+Dickens: Madison is
+really important to Padre
+
+222
+00:11:07,010 --> 00:11:11,100
+because she's
+rebelling against them.
+
+223
+00:11:11,230 --> 00:11:14,060
+She was being controlled and
+brainwashed and led to believe
+
+224
+00:11:14,190 --> 00:11:17,410
+that she was going to get
+access to her children.
+
+225
+00:11:17,540 --> 00:11:19,060
+You lied to me.
+
+226
+00:11:19,200 --> 00:11:22,460
+She's consumed with guilt
+for participating with Padre
+
+227
+00:11:22,590 --> 00:11:24,720
+and collecting all the children.
+
+228
+00:11:24,850 --> 00:11:27,120
+Her obsession becomes,
+"Let me help these kids
+
+229
+00:11:27,250 --> 00:11:28,680
+reunite with their parents."
+
+230
+00:11:28,810 --> 00:11:29,810
+What's your name?
+
+231
+00:11:29,950 --> 00:11:31,080
+Wren.
+
+232
+00:11:31,210 --> 00:11:34,080
+No, it's not. It's Mo.
+
+233
+00:11:34,210 --> 00:11:37,740
+When Mo realized maybe
+she wasn't being told
+
+234
+00:11:37,870 --> 00:11:41,260
+everything about how
+she came to the island,
+
+235
+00:11:41,390 --> 00:11:42,830
+things start to change.
+
+236
+00:11:42,960 --> 00:11:45,350
+Change of plans.
+We're leaving.
+
+237
+00:11:45,480 --> 00:11:47,480
+Chambliss: When Madison
+ends up escaping with Mo,
+
+238
+00:11:47,610 --> 00:11:49,570
+that is such a dangerous
+thing for Padre.
+
+239
+00:11:49,700 --> 00:11:51,620
+If word were to get out,
+that would start to show
+
+240
+00:11:51,750 --> 00:11:53,880
+kind of the fissures
+in the foundation.
+
+241
+00:11:54,010 --> 00:11:55,270
+Where are we going?
+
+242
+00:11:55,410 --> 00:11:57,230
+To find your dad.
+
+243
+00:11:57,360 --> 00:11:59,020
+On a personal level,
+
+244
+00:11:59,150 --> 00:12:03,810
+the revolution started with
+Morgan spending time with Mo.
+
+245
+00:12:03,940 --> 00:12:08,110
+I think he knows he's never
+going to let her go again.
+
+246
+00:12:08,240 --> 00:12:10,940
+I think the initial act
+of defiance is massive
+
+247
+00:12:11,070 --> 00:12:13,470
+because he's within
+Padre's reach.
+
+248
+00:12:14,950 --> 00:12:17,950
+What are you doing
+here? How'd you find me?
+
+249
+00:12:18,080 --> 00:12:19,836
+Evangelista: Sherry and
+Dwight are on their mission
+
+250
+00:12:19,860 --> 00:12:22,780
+to bring him back so they
+could save their son.
+
+251
+00:12:22,910 --> 00:12:25,700
+When they see what
+Morgan is going through,
+
+252
+00:12:25,830 --> 00:12:28,480
+there's a lot of compassion.
+
+253
+00:12:28,610 --> 00:12:29,660
+Duane?
+
+254
+00:12:29,790 --> 00:12:32,310
+And you sort of see these two
+
+255
+00:12:32,440 --> 00:12:34,270
+parents mirroring each other.
+
+256
+00:12:34,400 --> 00:12:36,400
+Morgan is essentially
+going through
+
+257
+00:12:36,530 --> 00:12:38,010
+the same thing with his son.
+
+258
+00:12:39,710 --> 00:12:43,760
+Elfman: For June, Padre
+is the exact opposite
+
+259
+00:12:43,890 --> 00:12:46,590
+of everything June stands for.
+
+260
+00:12:46,720 --> 00:12:49,940
+Her whole purpose is to help,
+and once she left Padre,
+
+261
+00:12:50,070 --> 00:12:52,550
+the only way she
+could still help
+
+262
+00:12:52,680 --> 00:12:56,160
+is by somehow disabling
+the collectors.
+
+263
+00:12:57,290 --> 00:13:00,510
+And she did that by cutting
+off their trigger fingers.
+
+264
+00:13:02,300 --> 00:13:06,780
+Padre has survived for so
+long because it was mostly
+
+265
+00:13:06,910 --> 00:13:09,000
+young people that
+were being controlled.
+
+266
+00:13:09,130 --> 00:13:13,180
+Elfman: There's been no forces
+for good that are strong enough
+
+267
+00:13:13,310 --> 00:13:14,880
+to overtake Padre.
+
+268
+00:13:15,010 --> 00:13:16,440
+And we're all separated.
+
+269
+00:13:16,570 --> 00:13:17,880
+Woman: Hands up!
+
+270
+00:13:18,010 --> 00:13:20,580
+Blades: The army that
+Daniel has trained,
+
+271
+00:13:20,710 --> 00:13:24,580
+this army of parents, it
+has proven pretty effective.
+
+272
+00:13:24,710 --> 00:13:26,320
+Padre has lied to all of us.
+
+273
+00:13:26,450 --> 00:13:28,930
+Maybe we can find out
+what else he's lied about.
+
+274
+00:13:29,060 --> 00:13:30,630
+Together.
+
+275
+00:13:30,760 --> 00:13:32,020
+We'll let the commander decide.
+
+276
+00:13:32,150 --> 00:13:33,160
+Who's the commander?
+
+277
+00:13:33,290 --> 00:13:34,980
+Daniel: Turn around.
+
+278
+00:13:35,110 --> 00:13:36,950
+What Daniel has done is
+to give them a purpose,
+
+279
+00:13:37,070 --> 00:13:39,990
+an organization,
+and a leadership.
+
+280
+00:13:40,120 --> 00:13:42,030
+Madison?
+
+281
+00:13:42,160 --> 00:13:43,340
+Daniel?
+
+282
+00:13:43,470 --> 00:13:44,730
+You know these people?
+
+283
+00:13:44,860 --> 00:13:46,600
+Give them back their weapons.
+
+284
+00:13:46,730 --> 00:13:49,610
+Blades: Daniel's family is gone,
+but now he's going to try to get
+
+285
+00:13:49,740 --> 00:13:51,870
+these people their
+families back.
+
+286
+00:13:52,000 --> 00:13:55,830
+And Padre is a place where
+he can make that possible.
+
+287
+00:13:55,960 --> 00:13:58,660
+Daniel: All these people
+lost their children to Padre.
+
+288
+00:13:58,790 --> 00:14:01,970
+And there are more of them.
+Maybe your own parents.
+
+289
+00:14:02,100 --> 00:14:03,530
+Madison.
+
+290
+00:14:03,660 --> 00:14:05,270
+We'll hold them off. Go.
+
+291
+00:14:05,400 --> 00:14:08,890
+When Madison and June
+and Dove storm into Padre
+
+292
+00:14:09,020 --> 00:14:13,980
+to have him show himself,
+Madison smashes the mirror.
+
+293
+00:14:19,160 --> 00:14:22,250
+We discover that it's a
+very young man in there,
+
+294
+00:14:22,380 --> 00:14:23,420
+Shrike's brother.
+
+295
+00:14:23,550 --> 00:14:24,770
+Eshet: The secret revealed,
+
+296
+00:14:24,900 --> 00:14:28,120
+is a huge danger for
+the entire operation.
+
+297
+00:14:28,250 --> 00:14:30,780
+What they're risking is that all
+of the members of the community
+
+298
+00:14:30,910 --> 00:14:32,390
+are going to turn against them,
+
+299
+00:14:32,520 --> 00:14:34,300
+and then everything
+could collapse.
+
+300
+00:14:34,430 --> 00:14:37,920
+Do you know the
+truth about Padre?
+
+301
+00:14:38,050 --> 00:14:41,480
+There is no Padre. He's
+been dead for a long time.
+
+302
+00:14:41,610 --> 00:14:45,840
+Given the fact that Padre was
+all built on just a series of
+
+303
+00:14:45,970 --> 00:14:48,230
+lies, a series of playing
+people off each other...
+
+304
+00:14:48,360 --> 00:14:50,190
+Guns up!
+
+305
+00:14:50,320 --> 00:14:52,166
+And because Shrike and
+Crane were trying to prevent
+
+306
+00:14:52,190 --> 00:14:54,710
+anyone else from feeling
+any kind of loss,
+
+307
+00:14:54,850 --> 00:14:58,280
+that kind of absolute I think
+is just what ultimately made it
+
+308
+00:14:58,410 --> 00:15:00,630
+inevitable that it would fall.
+
+309
+00:15:04,720 --> 00:15:07,210
+You were just given an order!
+
+310
+00:15:07,340 --> 00:15:09,470
+Fire.
+
+311
+00:15:10,560 --> 00:15:11,950
+They won't do it.
+
+312
+00:15:12,080 --> 00:15:14,690
+I think ultimately people
+do need connection.
+
+313
+00:15:14,820 --> 00:15:19,170
+People need family and
+to build a community.
+
+314
+00:15:21,050 --> 00:15:23,920
+Goldberg: More and more people
+start to kind of tear down this
+
+315
+00:15:24,050 --> 00:15:27,880
+wall of what Padre has built
+and what was behind it.
+
+316
+00:15:28,010 --> 00:15:31,100
+And even though it hurts
+more to connect with people
+
+317
+00:15:31,230 --> 00:15:33,190
+that you might lose,
+it's still better
+
+318
+00:15:33,320 --> 00:15:36,670
+than walling yourself
+off from that connection.
+
+319
+00:15:39,540 --> 00:15:42,110
+Morgan didn't just
+fight Padre this season.
+
+320
+00:15:42,240 --> 00:15:45,030
+He fought some serious
+inner demons, as well.
+
+321
+00:15:45,160 --> 00:15:48,120
+There was no telling when he
+went into his red fugue state
+
+322
+00:15:48,250 --> 00:15:51,990
+whether he might kill anyone
+and anything around him.
+
+323
+00:15:52,120 --> 00:15:53,770
+No!
+
+324
+00:15:53,900 --> 00:15:56,250
+Lennie James talks about
+how and why this happened,
+
+325
+00:15:56,390 --> 00:15:59,130
+and cast and crew take us
+through how they created
+
+326
+00:15:59,260 --> 00:16:02,480
+the action on a sinking
+houseboat full of walkers
+
+327
+00:16:02,610 --> 00:16:04,960
+with Morgan seeing red.
+
+328
+00:16:12,270 --> 00:16:14,190
+Morgan: I can't!
+
+329
+00:16:14,320 --> 00:16:18,320
+This is Morgan's version
+of post traumatic stress.
+
+330
+00:16:18,450 --> 00:16:19,580
+Easy! Madison!
+
+331
+00:16:19,710 --> 00:16:21,760
+Easy there. What happened?
+
+332
+00:16:21,890 --> 00:16:25,020
+He doesn't remember when
+he's in the red state.
+
+333
+00:16:25,150 --> 00:16:28,160
+The audience actually
+get a vision of Morgan
+
+334
+00:16:28,290 --> 00:16:29,550
+that he never sees.
+
+335
+00:16:29,680 --> 00:16:32,160
+My ax! Where is my ax?!
+
+336
+00:16:32,290 --> 00:16:35,380
+He's trying to document
+this version of himself.
+
+337
+00:16:35,510 --> 00:16:38,300
+He's trying to write
+down "Morgan was here,"
+
+338
+00:16:38,430 --> 00:16:43,260
+and it just comes out in
+broken, disjointed graffiti.
+
+339
+00:16:44,350 --> 00:16:47,520
+The reason why this
+has all woken up in him
+
+340
+00:16:47,650 --> 00:16:52,310
+is because Morgan has taken
+on the responsibility of Mo.
+
+341
+00:16:52,440 --> 00:16:54,050
+What does clear mean?
+
+342
+00:16:54,180 --> 00:16:59,140
+Clear? It's when I was
+killing anything and anyone.
+
+343
+00:16:59,270 --> 00:17:01,190
+If I can't look after her now,
+
+344
+00:17:01,320 --> 00:17:03,670
+I might not be able to
+do it in the future.
+
+345
+00:17:03,800 --> 00:17:05,720
+I might not be able to
+keep this child alive.
+
+346
+00:17:05,840 --> 00:17:07,370
+Dad, help me!
+
+347
+00:17:07,500 --> 00:17:08,980
+That is what blacks him out.
+
+348
+00:17:09,110 --> 00:17:12,370
+That is what sends
+him into the red.
+
+349
+00:17:15,900 --> 00:17:17,770
+Before the take, I'd
+try and hold my breath
+
+350
+00:17:17,900 --> 00:17:19,340
+for as long as it's
+humanly possible.
+
+351
+00:17:19,420 --> 00:17:21,690
+It's like he's coming out
+from being underwater.
+
+352
+00:17:21,820 --> 00:17:24,300
+And he just needs to
+get to the surface.
+
+353
+00:17:24,430 --> 00:17:28,390
+And when he gets out of it,
+he's gasping that air in.
+
+354
+00:17:28,520 --> 00:17:30,220
+Woman: Morgan!
+
+355
+00:17:32,000 --> 00:17:35,090
+James: We kept reminding
+everybody who was around Morgan
+
+356
+00:17:35,220 --> 00:17:38,010
+in those episodes that
+what they had seen
+
+357
+00:17:38,140 --> 00:17:40,230
+was someone to be frightened of.
+
+358
+00:17:40,360 --> 00:17:41,970
+Did I hurt you?
+
+359
+00:17:42,100 --> 00:17:43,670
+Managed to stay out of your way.
+
+360
+00:17:43,800 --> 00:17:46,580
+There's a reason why Morgan
+has lasted this long.
+
+361
+00:17:46,710 --> 00:17:48,060
+When he's in the fugue state,
+
+362
+00:17:48,190 --> 00:17:51,240
+he is capable of
+serious destruction.
+
+363
+00:17:53,280 --> 00:17:55,110
+McLean: We worked
+with the show runner
+
+364
+00:17:55,240 --> 00:17:58,680
+to develop a very interesting
+effect for the Red Fugue states.
+
+365
+00:17:58,810 --> 00:18:00,550
+We wanted a texture to it.
+
+366
+00:18:00,680 --> 00:18:03,640
+Some of the things I used was
+like melting paint inside of oil
+
+367
+00:18:03,770 --> 00:18:05,510
+so that it swirled.
+
+368
+00:18:05,640 --> 00:18:08,130
+And then we had to figure out
+what is the best type of shot.
+
+369
+00:18:08,260 --> 00:18:10,130
+You want it to be close
+on his face so that
+
+370
+00:18:10,260 --> 00:18:11,936
+he can shift, and the
+background, just shoom.
+
+371
+00:18:11,960 --> 00:18:13,870
+And then speed.
+
+372
+00:18:14,000 --> 00:18:16,050
+A lot of it has
+to do with timing.
+
+373
+00:18:16,180 --> 00:18:17,920
+One of the last
+pieces was an overlay.
+
+374
+00:18:18,050 --> 00:18:21,050
+What is something that
+floats on top of the screen?
+
+375
+00:18:21,180 --> 00:18:23,310
+We sourced medical
+images of eyeballs,
+
+376
+00:18:23,450 --> 00:18:27,100
+so he's kind of in his
+mind's eye, literally.
+
+377
+00:18:31,840 --> 00:18:33,850
+I think it's going to
+be a really cool effect.
+
+378
+00:18:35,200 --> 00:18:36,630
+Sorry!
+
+379
+00:18:36,760 --> 00:18:38,940
+You started killing,
+and then it was like
+
+380
+00:18:39,070 --> 00:18:40,086
+you thought I was one of them.
+
+381
+00:18:40,110 --> 00:18:41,200
+It's okay.
+
+382
+00:18:41,330 --> 00:18:44,340
+Man: Ready. Three,
+two, one. Action.
+
+383
+00:18:44,470 --> 00:18:48,080
+Today, the scenes that I'm
+shooting are where Morgan and Mo
+
+384
+00:18:48,210 --> 00:18:50,690
+are stuck in the houseboat
+fighting the walkers
+
+385
+00:18:50,820 --> 00:18:53,080
+while the water is rising.
+
+386
+00:18:55,560 --> 00:18:59,000
+It does feel like I
+am in a sinking boat
+
+387
+00:18:59,130 --> 00:19:01,740
+because it happened so quickly.
+
+388
+00:19:01,870 --> 00:19:04,066
+Armstrong: There's a progression
+in terms of the sinking.
+
+389
+00:19:04,090 --> 00:19:06,310
+We started on two different
+set pieces we had.
+
+390
+00:19:06,440 --> 00:19:09,100
+One was on airbags
+that we could control
+
+391
+00:19:09,230 --> 00:19:12,360
+a small, slight
+descent into the swamp,
+
+392
+00:19:12,490 --> 00:19:16,850
+and then we transitioned
+to our full dunk tank.
+
+393
+00:19:18,240 --> 00:19:20,200
+Iudica: And we have
+a 120-ton crane
+
+394
+00:19:20,330 --> 00:19:23,330
+to gently lower this
+set piece underwater.
+
+395
+00:19:23,460 --> 00:19:25,250
+When we sink the boat,
+we'll sink it level,
+
+396
+00:19:25,380 --> 00:19:27,810
+but it'll look like
+it's at an angle.
+
+397
+00:19:27,940 --> 00:19:29,990
+Platform weighs
+about 15,000 pounds,
+
+398
+00:19:30,120 --> 00:19:34,430
+so it gives us room for about
+20 or so people on board.
+
+399
+00:19:34,560 --> 00:19:37,910
+We control the speed, we control
+the stops and the starts.
+
+400
+00:19:38,040 --> 00:19:41,220
+There's always a safe exit.
+
+401
+00:19:41,350 --> 00:19:44,440
+We have water pumps that
+will create a lot of wake
+
+402
+00:19:44,570 --> 00:19:47,960
+and agitation so you can get
+water on the surface to ripple
+
+403
+00:19:48,090 --> 00:19:50,310
+towards them or you can
+bounce water off the wall,
+
+404
+00:19:50,450 --> 00:19:53,400
+and then also compressed
+air to add bubbles
+
+405
+00:19:53,540 --> 00:19:58,150
+as if all of the air pockets
+in the boat are releasing.
+
+406
+00:20:01,850 --> 00:20:03,410
+Mo, give me my ax!
+
+407
+00:20:03,550 --> 00:20:06,030
+McLean: When we're in the
+swamps, VFX is here to help
+
+408
+00:20:06,160 --> 00:20:08,250
+make things that are
+safe seem dangerous.
+
+409
+00:20:08,380 --> 00:20:11,070
+So any time there's a
+safety wire or a rig
+
+410
+00:20:11,210 --> 00:20:14,560
+or if there's hoses to keep the
+water level in the right place,
+
+411
+00:20:14,690 --> 00:20:17,730
+if we see that in the shot,
+we can paint that out later.
+
+412
+00:20:19,300 --> 00:20:21,300
+Come on. I can help you.
+
+413
+00:20:21,430 --> 00:20:22,740
+I've got it.
+
+414
+00:20:22,870 --> 00:20:24,196
+You know, we have
+zombies stuck in the mud.
+
+415
+00:20:24,220 --> 00:20:25,586
+We have people fighting
+on the houseboat.
+
+416
+00:20:25,610 --> 00:20:27,610
+The houseboat is sinking.
+It's a wild scene.
+
+417
+00:20:31,180 --> 00:20:32,816
+McLean: We make it super
+controlled and super safe
+
+418
+00:20:32,840 --> 00:20:34,766
+on set, and with a little
+help from our stunt department
+
+419
+00:20:34,790 --> 00:20:35,870
+and a little help from VFX,
+
+420
+00:20:35,970 --> 00:20:37,450
+we make it look
+really dangerous.
+
+421
+00:20:39,150 --> 00:20:40,970
+Morgan: You're gonna
+make it out of here, Mo.
+
+422
+00:20:42,850 --> 00:20:45,330
+A big part of Morgan's story
+this season was his need
+
+423
+00:20:45,460 --> 00:20:46,890
+to deal with his trauma.
+
+424
+00:20:47,020 --> 00:20:49,030
+That's why he returned to
+his home in King County
+
+425
+00:20:49,160 --> 00:20:52,810
+to put his wife Jenny and son
+Duane to rest after so long.
+
+426
+00:20:52,940 --> 00:20:54,860
+Sorry it took me so long.
+
+427
+00:20:54,990 --> 00:20:56,550
+Wolfe: Over 10 years later,
+
+428
+00:20:56,690 --> 00:20:59,120
+this iconic place we know
+from "The Walking Dead" pilot
+
+429
+00:20:59,250 --> 00:21:02,080
+was recreated thanks to
+show runners Ian Goldberg
+
+430
+00:21:02,210 --> 00:21:05,690
+and Andrew Chambliss, along
+with the design and FX teams.
+
+431
+00:21:05,820 --> 00:21:07,830
+It was a powerful
+journey for Morgan,
+
+432
+00:21:07,960 --> 00:21:11,270
+and it ends in devastation
+when his moment of peace
+
+433
+00:21:11,400 --> 00:21:14,010
+is shattered by
+Grace getting bitten.
+
+434
+00:21:20,100 --> 00:21:22,620
+Man: We just add
+a puff of smoke.
+
+435
+00:21:22,750 --> 00:21:24,890
+Two cameras.
+
+436
+00:21:25,020 --> 00:21:27,930
+We knew as soon as we started
+talking about season 8
+
+437
+00:21:28,060 --> 00:21:32,330
+that this was going to be a
+crucial episode for Morgan,
+
+438
+00:21:32,460 --> 00:21:35,510
+and his journey, was taking
+him back to King County,
+
+439
+00:21:35,640 --> 00:21:38,470
+which is where his journey
+began as a character,
+
+440
+00:21:38,600 --> 00:21:41,250
+way back on the pilot
+of "The Walking Dead."
+
+441
+00:21:41,380 --> 00:21:42,510
+He say something?
+
+442
+00:21:42,640 --> 00:21:44,120
+Thought I heard
+him say something.
+
+443
+00:21:44,250 --> 00:21:46,340
+He called me Carl. Son,
+you know they don't talk.
+
+444
+00:21:46,470 --> 00:21:49,260
+But it was kind of a tall
+order. To say to ourselves like,
+
+445
+00:21:49,390 --> 00:21:51,830
+"Okay, if we're going to
+go back to this location,
+
+446
+00:21:51,960 --> 00:21:56,140
+these sets, where the entire
+kind of Walking Dead universe
+
+447
+00:21:56,270 --> 00:21:58,270
+began, you know, we
+had to have a story
+
+448
+00:21:58,400 --> 00:21:59,790
+that really justified it.
+
+449
+00:21:59,920 --> 00:22:02,660
+Over here. Come on.
+
+450
+00:22:02,790 --> 00:22:07,840
+And I have to give just huge,
+huge props to our entire team
+
+451
+00:22:07,970 --> 00:22:11,330
+and our production designer,
+Russell and his team,
+
+452
+00:22:11,460 --> 00:22:14,940
+who rebuilt the house
+with painstaking detail
+
+453
+00:22:15,070 --> 00:22:17,510
+to match exactly what was there,
+
+454
+00:22:17,640 --> 00:22:19,640
+which was no easy feat,
+considering the last time
+
+455
+00:22:19,770 --> 00:22:22,470
+we saw that house was
+over 10 years ago,
+
+456
+00:22:22,600 --> 00:22:25,250
+and it felt like
+stepping into the past.
+
+457
+00:22:25,380 --> 00:22:26,510
+Daddy.
+
+458
+00:22:26,640 --> 00:22:27,780
+Bless him.
+
+459
+00:22:27,910 --> 00:22:29,430
+The work that they
+did on their own
+
+460
+00:22:29,560 --> 00:22:31,870
+recreating that
+place was fantastic.
+
+461
+00:22:32,000 --> 00:22:33,846
+Jaeger: Obviously, we had to do
+a tremendous amount of research
+
+462
+00:22:33,870 --> 00:22:36,960
+to create what is
+just an iconic space
+
+463
+00:22:37,090 --> 00:22:39,790
+and then take that space
+to its ultimate demise
+
+464
+00:22:39,920 --> 00:22:43,880
+of destroying this iconic
+piece of Walking Dead history.
+
+465
+00:22:44,010 --> 00:22:46,360
+Mo: Dad, I'm upstairs.
+I can't get out.
+
+466
+00:22:46,490 --> 00:22:49,360
+Get to the attic, Mo.
+I'm on my way to you.
+
+467
+00:22:49,930 --> 00:22:52,890
+When my agent sent
+me the e-mail,
+
+468
+00:22:53,020 --> 00:22:55,410
+I literally asked
+him, was he serious?
+
+469
+00:22:55,540 --> 00:22:57,850
+And then I said, "Well, I
+guess you are."
+
+470
+00:22:57,980 --> 00:22:59,900
+And then I said yes.
+
+471
+00:23:02,420 --> 00:23:04,810
+It was so exciting
+to bring Jenny back.
+
+472
+00:23:04,940 --> 00:23:07,600
+And the image of
+Jenny as a walker
+
+473
+00:23:07,730 --> 00:23:09,600
+standing outside that house,
+
+474
+00:23:09,730 --> 00:23:13,130
+it's just so kind of rooted
+in The Walking Dead's history.
+
+475
+00:23:13,260 --> 00:23:16,390
+It was like we were right back
+in "The Walking Dead" pilot.
+
+476
+00:23:16,520 --> 00:23:19,570
+It was great to see her, and
+I think it's a real testament
+
+477
+00:23:19,700 --> 00:23:22,530
+to this particular universe
+that such things can happen.
+
+478
+00:23:27,010 --> 00:23:28,580
+I'm on my way!
+
+479
+00:23:28,710 --> 00:23:30,726
+Chambliss: Through a combination
+of some makeup effects
+
+480
+00:23:30,750 --> 00:23:33,800
+and then some visual effects,
+we were able to recreate
+
+481
+00:23:33,930 --> 00:23:35,330
+walker Duane in
+those final moments,
+
+482
+00:23:35,450 --> 00:23:37,800
+when we finally saw
+him up in that attic.
+
+483
+00:23:37,930 --> 00:23:39,150
+Seeing the walker...
+
+484
+00:23:39,280 --> 00:23:40,280
+Please!
+
+485
+00:23:40,410 --> 00:23:43,940
+Duane as alive Duane,
+
+486
+00:23:44,070 --> 00:23:46,290
+it's about that battle that...
+
+487
+00:23:46,420 --> 00:23:47,900
+Help!...Morgan's
+having with himself.
+
+488
+00:23:48,030 --> 00:23:50,120
+Daddy! Daddy.
+
+489
+00:23:56,560 --> 00:23:58,650
+McLean: They tore down
+the house that was built
+
+490
+00:23:58,780 --> 00:24:00,870
+and then made it look like
+it had been burnt down.
+
+491
+00:24:01,000 --> 00:24:03,310
+And it's super weird to see
+something that you were just
+
+492
+00:24:03,440 --> 00:24:05,830
+here for the night before
+be completely transformed
+
+493
+00:24:05,960 --> 00:24:09,310
+into something different
+for the next scene.
+
+494
+00:24:09,440 --> 00:24:11,310
+David: It's a home
+full of memories,
+
+495
+00:24:11,450 --> 00:24:13,970
+a home full of history,
+a home full of love,
+
+496
+00:24:14,100 --> 00:24:16,670
+a home full of heartache.
+
+497
+00:24:16,800 --> 00:24:21,410
+And to see that all be
+obliterated so quickly,
+
+498
+00:24:21,540 --> 00:24:24,280
+like even me as Karen, I
+was just watching this.
+
+499
+00:24:24,410 --> 00:24:27,160
+I was so heartbroken
+in that moment.
+
+500
+00:24:28,550 --> 00:24:31,420
+James: When he buries
+Duane and Jenny,
+
+501
+00:24:31,550 --> 00:24:34,600
+I think he thinks he's at peace.
+
+502
+00:24:34,730 --> 00:24:37,040
+We do what we said
+we were gonna.
+
+503
+00:24:37,170 --> 00:24:40,130
+Spend as much time
+together as we can.
+
+504
+00:24:41,430 --> 00:24:43,650
+Goldberg: I think Morgan
+does have a moment of peace
+
+505
+00:24:43,780 --> 00:24:46,000
+when he's burying
+Jenny and Duane.
+
+506
+00:24:46,130 --> 00:24:49,740
+And the tragic part of it is
+that just as that happens...
+
+507
+00:24:49,870 --> 00:24:52,050
+Dad!
+
+508
+00:24:52,180 --> 00:24:53,790
+Grace gets bit.
+
+509
+00:24:53,920 --> 00:24:55,450
+Come on.
+
+510
+00:24:55,580 --> 00:24:57,620
+Morgan's love story
+was one of the things
+
+511
+00:24:57,750 --> 00:25:00,490
+that was hardest
+for us to achieve,
+
+512
+00:25:00,620 --> 00:25:03,450
+and I don't think we
+could have done that
+
+513
+00:25:03,580 --> 00:25:06,760
+without an actress of
+Karen's caliber, really.
+
+514
+00:25:06,890 --> 00:25:09,590
+Man: And cut.
+
+515
+00:25:10,070 --> 00:25:13,510
+Kenneth Requa did such a
+beautiful job directing it.
+
+516
+00:25:13,640 --> 00:25:16,210
+We're really happy
+with how it turned out.
+
+517
+00:25:17,730 --> 00:25:20,120
+And cut. Great. Let's move on.
+
+518
+00:25:21,650 --> 00:25:24,690
+Not so easy to move on
+from an episode like this.
+
+519
+00:25:24,820 --> 00:25:28,910
+And seeing that walker
+bite on Grace, it hurts.
+
+520
+00:25:29,040 --> 00:25:32,180
+The end of the first
+half of this final season
+
+521
+00:25:32,310 --> 00:25:35,700
+sadly takes us to the end of
+our time with Grace and Morgan
+
+522
+00:25:35,830 --> 00:25:38,580
+and with Karen David
+and Lennie James,
+
+523
+00:25:38,710 --> 00:25:40,710
+who talk about the
+Grace/Morgan love story,
+
+524
+00:25:40,840 --> 00:25:43,540
+saying goodbye to these
+powerful characters,
+
+525
+00:25:43,670 --> 00:25:46,190
+and what the show
+has meant to them.
+
+526
+00:25:46,320 --> 00:25:47,930
+We also hear from
+their fellow cast
+
+527
+00:25:48,060 --> 00:25:51,720
+and the show runners as they
+pay tribute to this beloved duo.
+
+528
+00:26:01,900 --> 00:26:04,950
+James: When Morgan
+walked in on "Fear",
+
+529
+00:26:05,080 --> 00:26:06,730
+he had holes in his shoes,
+
+530
+00:26:06,860 --> 00:26:10,300
+his boots were held together
+by tape, he was alone,
+
+531
+00:26:10,430 --> 00:26:13,130
+he was friendless, frightened.
+
+532
+00:26:13,260 --> 00:26:14,960
+He wanted to avoid people.
+
+533
+00:26:15,090 --> 00:26:16,456
+Man: Are you sure
+you're going to be
+
+534
+00:26:16,480 --> 00:26:17,586
+all right out there on your own?
+
+535
+00:26:17,610 --> 00:26:20,920
+This world, we're always alone.
+
+536
+00:26:22,710 --> 00:26:27,670
+Grace: Take off your
+clothes. All of them.
+
+537
+00:26:27,800 --> 00:26:30,890
+Grace is such a vital character
+toward Morgan's journey.
+
+538
+00:26:31,020 --> 00:26:33,760
+I've always been a
+kind of serious guy.
+
+539
+00:26:33,890 --> 00:26:35,460
+Really?
+
+540
+00:26:35,590 --> 00:26:37,696
+The journey that this love
+story has to go on has to go on
+
+541
+00:26:37,720 --> 00:26:39,240
+the fact that this is a man
+
+542
+00:26:39,380 --> 00:26:42,470
+who is not in any way
+aware of the possibility
+
+543
+00:26:42,600 --> 00:26:44,550
+of loving anybody apart
+from his dead wife.
+
+544
+00:26:44,690 --> 00:26:47,780
+So this has to take
+him by surprise.
+
+545
+00:26:47,910 --> 00:26:49,340
+And that's a hell
+of a job to do.
+
+546
+00:26:49,470 --> 00:26:51,740
+And Karen did it.
+
+547
+00:26:53,820 --> 00:26:56,440
+David: When Morgan lay,
+Duane and Jenny to rest,
+
+548
+00:26:56,570 --> 00:26:59,480
+there was this sense
+of finality, closure,
+
+549
+00:26:59,610 --> 00:27:01,350
+this beautiful sense of peace.
+
+550
+00:27:01,480 --> 00:27:04,710
+It was sort of a 1-2 punch
+of wanting to feel like right
+
+551
+00:27:04,840 --> 00:27:08,930
+at that moment of maximum hope,
+
+552
+00:27:09,060 --> 00:27:12,450
+a walker punches
+through a rubble.
+
+553
+00:27:12,580 --> 00:27:14,340
+David: What a parent
+will do for their child,
+
+554
+00:27:14,370 --> 00:27:15,516
+they will die for their child.
+
+555
+00:27:15,540 --> 00:27:17,670
+And she saw her
+daughter in danger,
+
+556
+00:27:17,810 --> 00:27:20,630
+and she just acted like
+any parent would have.
+
+557
+00:27:20,760 --> 00:27:22,420
+It's just heartbreaking
+in that moment
+
+558
+00:27:22,550 --> 00:27:24,120
+because whatever
+happiness and lightness
+
+559
+00:27:24,250 --> 00:27:26,810
+that this family, you know,
+the three of them could have,
+
+560
+00:27:26,940 --> 00:27:29,430
+you want that so much for them,
+and that's now been robbed.
+
+561
+00:27:29,560 --> 00:27:30,840
+Grace, I don't
+think I'm going to
+
+562
+00:27:30,910 --> 00:27:32,520
+make it to you before...
+
+563
+00:27:32,650 --> 00:27:34,780
+I tell you, filming my
+last moments with Lenny
+
+564
+00:27:34,910 --> 00:27:36,040
+was really tough.
+
+565
+00:27:36,170 --> 00:27:37,830
+I'm so sorry, Morgan.
+
+566
+00:27:37,960 --> 00:27:40,610
+David: Being on the walkie
+and doing that scene
+
+567
+00:27:40,740 --> 00:27:42,920
+was just so incredibly
+heartbreaking.
+
+568
+00:27:44,440 --> 00:27:45,830
+David: When Grace is a walker,
+
+569
+00:27:45,960 --> 00:27:48,270
+it was hard to watch
+even on the playback.
+
+570
+00:27:48,400 --> 00:27:51,450
+There's so much love in how
+
+571
+00:27:51,580 --> 00:27:54,930
+Morgan just gently
+laid her down.
+
+572
+00:27:55,060 --> 00:27:57,670
+When we lose characters on
+this show or characters die,
+
+573
+00:27:57,800 --> 00:27:59,190
+we want it to mean something,
+
+574
+00:27:59,320 --> 00:28:01,760
+we want it to leave
+an emotional ripple.
+
+575
+00:28:01,890 --> 00:28:04,070
+And Karen definitely did that.
+
+576
+00:28:04,200 --> 00:28:06,810
+James: The way we finished
+with Grace is a real testament
+
+577
+00:28:06,940 --> 00:28:09,200
+to the job that
+Karen's done, really.
+
+578
+00:28:09,330 --> 00:28:10,510
+It's supposed to hurt.
+
+579
+00:28:10,640 --> 00:28:12,120
+It's supposed to
+break your heart.
+
+580
+00:28:12,250 --> 00:28:14,080
+You're supposed to be angry.
+
+581
+00:28:14,210 --> 00:28:18,260
+All of those things come into
+play because we're losing Karen.
+
+582
+00:28:18,390 --> 00:28:22,390
+She is like a bright
+light. She's just sunshine.
+
+583
+00:28:22,520 --> 00:28:24,310
+I'm proud to have
+worked with her.
+
+584
+00:28:24,440 --> 00:28:27,960
+I feel blessed that we
+had this journey together.
+
+585
+00:28:29,620 --> 00:28:31,970
+Both women, both
+Grace and Karen,
+
+586
+00:28:32,100 --> 00:28:38,280
+are just these lovely sort
+of self-sacrificial women.
+
+587
+00:28:38,410 --> 00:28:39,710
+It's always hard to say goodbye.
+
+588
+00:28:39,840 --> 00:28:43,590
+Saying goodbye to
+Karen David is not easy
+
+589
+00:28:43,720 --> 00:28:45,280
+because she's truly
+one of the loveliest
+
+590
+00:28:45,410 --> 00:28:47,290
+human beings to work with.
+
+591
+00:28:47,420 --> 00:28:50,380
+When I think of her, I think
+of her as a bouquet of flowers.
+
+592
+00:28:55,900 --> 00:28:59,170
+David: The family that
+we've created with our crew,
+
+593
+00:28:59,300 --> 00:29:01,080
+our creatives, our cast,
+
+594
+00:29:01,210 --> 00:29:03,690
+the beautiful thing about
+this whole experience
+
+595
+00:29:03,820 --> 00:29:08,350
+of being part of this universe
+is that you take the people
+
+596
+00:29:08,480 --> 00:29:13,400
+in your hearts and you take them
+on your journey wherever you go.
+
+597
+00:29:13,530 --> 00:29:15,920
+They are a part of who I am now.
+
+598
+00:29:18,100 --> 00:29:22,190
+Morgan: The way out is
+opening the door to people,
+
+599
+00:29:22,320 --> 00:29:26,150
+to possibility, to the
+hurt that will happen.
+
+600
+00:29:26,280 --> 00:29:28,410
+I've found the way,
+and I opened the door,
+
+601
+00:29:28,540 --> 00:29:30,980
+and then my life
+started all over again.
+
+602
+00:29:31,110 --> 00:29:33,070
+Chambliss: Lenny has
+been such a fixture
+
+603
+00:29:33,200 --> 00:29:35,120
+since Ian and I
+started in season 4,
+
+604
+00:29:35,250 --> 00:29:38,250
+and he's been such a fixture
+of The Walking Dead universe
+
+605
+00:29:38,380 --> 00:29:42,990
+that it's really hard to imagine
+making this show without him.
+
+606
+00:29:43,120 --> 00:29:45,780
+I'm a bit in denial that
+Lenny's gone, to be honest.
+
+607
+00:29:45,910 --> 00:29:48,040
+He's been such a vital
+part of the journey.
+
+608
+00:29:48,170 --> 00:29:51,520
+I think he's an inspiration.
+Truly, he's one of a kind.
+
+609
+00:29:51,650 --> 00:29:55,660
+We'll be forever grateful to
+Lenny for his time with us.
+
+610
+00:29:55,790 --> 00:29:59,100
+Lenny has been such a
+tremendous part of it
+
+611
+00:29:59,230 --> 00:30:00,400
+once he joined the show.
+
+612
+00:30:00,530 --> 00:30:01,970
+It's been great to
+play adversaries.
+
+613
+00:30:02,100 --> 00:30:03,840
+I truly hope that
+I get the chance
+
+614
+00:30:03,970 --> 00:30:06,800
+to create with him other
+characters in the future.
+
+615
+00:30:06,930 --> 00:30:09,060
+But for now, I know I have
+a brother and a friend.
+
+616
+00:30:09,190 --> 00:30:12,200
+Dickens: Lenny James could
+not have been more open to me
+
+617
+00:30:12,330 --> 00:30:15,680
+and gracious in
+welcoming me back.
+
+618
+00:30:15,810 --> 00:30:18,250
+He's been an incredible
+inspiration to watch
+
+619
+00:30:18,380 --> 00:30:21,820
+and to work with, and
+he lives in our hearts.
+
+620
+00:30:21,950 --> 00:30:24,640
+Elfman: I really look up
+to Lenny James as an actor.
+
+621
+00:30:24,770 --> 00:30:28,340
+Every chapter of Morgan
+has that essence to him,
+
+622
+00:30:28,470 --> 00:30:32,430
+just that benevolent heart
+that he gets to walk away with.
+
+623
+00:30:32,560 --> 00:30:34,960
+Mo, I think, is super beautiful.
+
+624
+00:30:35,090 --> 00:30:38,270
+To recognize for himself
+that he has found love,
+
+625
+00:30:38,400 --> 00:30:41,140
+that he's capable of love, that
+he's capable of giving again.
+
+626
+00:30:41,270 --> 00:30:44,530
+And so he leaves
+with the cup so full.
+
+627
+00:30:46,010 --> 00:30:49,020
+James: When Morgan
+walks away from "Fear",
+
+628
+00:30:49,150 --> 00:30:51,890
+he has a child, he
+has made friends,
+
+629
+00:30:52,020 --> 00:30:55,070
+he's lost friends, and
+he's had an effect on them.
+
+630
+00:30:55,200 --> 00:30:58,680
+And he leaves them better
+than he found them.
+
+631
+00:30:58,810 --> 00:31:02,030
+You can't really ask
+for much more than that.
+
+632
+00:31:02,160 --> 00:31:05,420
+Morgan: This message
+is for Rick Grimes.
+
+633
+00:31:05,550 --> 00:31:07,820
+It's Morgan Jones.
+
+634
+00:31:07,950 --> 00:31:10,300
+Man, I'm going to
+come and look for you.
+
+635
+00:31:10,430 --> 00:31:15,220
+Who knows? Maybe you
+might even be listening.
+
+636
+00:31:27,620 --> 00:31:29,400
+Goodbyes are never easy,
+
+637
+00:31:29,530 --> 00:31:32,320
+and neither is finding
+love in the apocalypse.
+
+638
+00:31:32,450 --> 00:31:33,630
+But Grace and Morgan did it.
+
+639
+00:31:35,190 --> 00:31:37,720
+AMC has partnered
+with the organization
+
+640
+00:31:37,850 --> 00:31:39,680
+See Her to celebrate
+the women of
+
+641
+00:31:39,810 --> 00:31:40,980
+"Fear The Walking Dead."
+
+642
+00:31:41,110 --> 00:31:42,330
+I'm not gonna hurt you.
+
+643
+00:31:42,460 --> 00:31:44,070
+We put that spotlight
+on Kim Dickens,
+
+644
+00:31:44,200 --> 00:31:46,510
+who talked about her
+portrayal of Madison Clark
+
+645
+00:31:46,640 --> 00:31:48,640
+and her fight against Padre.
+
+646
+00:31:48,770 --> 00:31:49,876
+Mo ended up at
+Padre because of me.
+
+647
+00:31:49,900 --> 00:31:51,250
+Let me try to make this right.
+
+648
+00:31:51,380 --> 00:31:52,980
+With a formidable
+performance like Kim's,
+
+649
+00:31:53,040 --> 00:31:56,690
+it's no wonder Padre was
+so scared of Madison.
+
+650
+00:32:00,870 --> 00:32:03,310
+Padre: Do you really
+want to do this?
+
+651
+00:32:03,440 --> 00:32:04,920
+There's nothing
+you could do to me
+
+652
+00:32:05,050 --> 00:32:06,750
+that's worse than what
+I'm already living.
+
+653
+00:32:06,880 --> 00:32:08,026
+Dickens: Madison has
+said it over and over.
+
+654
+00:32:08,050 --> 00:32:09,750
+She's got nothing left to lose.
+
+655
+00:32:09,880 --> 00:32:13,360
+Once she's able to break free
+from Padre's imprisonment
+
+656
+00:32:13,490 --> 00:32:15,320
+and starts the rescue mission,
+
+657
+00:32:15,450 --> 00:32:18,240
+that's the only thing that
+gives Madison a will to live,
+
+658
+00:32:18,370 --> 00:32:20,500
+is to make up for
+the wrongs she's done
+
+659
+00:32:20,630 --> 00:32:23,240
+by reuniting these families.
+
+660
+00:32:23,370 --> 00:32:24,630
+Seriously?
+
+661
+00:32:24,760 --> 00:32:27,110
+Coming back to the show
+was very interesting
+
+662
+00:32:27,240 --> 00:32:30,330
+because I'd never
+worked with Lenny.
+
+663
+00:32:30,470 --> 00:32:33,950
+I'd never worked
+with Morgan Jones.
+
+664
+00:32:34,080 --> 00:32:36,080
+Back on that beach,
+I said I was going
+
+665
+00:32:36,210 --> 00:32:37,340
+to save your daughter.
+
+666
+00:32:37,470 --> 00:32:38,870
+I also said I was
+going to save you.
+
+667
+00:32:38,910 --> 00:32:40,056
+I guess that's what I'm
+going to have to do.
+
+668
+00:32:40,080 --> 00:32:41,130
+We don't need saved.
+
+669
+00:32:41,260 --> 00:32:44,170
+Those two unlikely
+travel partners,
+
+670
+00:32:44,310 --> 00:32:47,610
+Morgan and Madison, or as
+I like to call them, M&M,
+
+671
+00:32:47,740 --> 00:32:52,700
+they have an amazing knowledge
+and insight into each other.
+
+672
+00:32:52,840 --> 00:32:54,920
+Go. I'll draw them away.
+
+673
+00:32:55,060 --> 00:32:56,620
+We fell right into
+step with each other.
+
+674
+00:32:56,750 --> 00:32:59,190
+I spent seven years in a cell
+so you could be with her.
+
+675
+00:32:59,320 --> 00:33:02,370
+This isn't about you.
+I'm doing this for her.
+
+676
+00:33:02,500 --> 00:33:04,110
+I got to fight him.
+
+677
+00:33:04,240 --> 00:33:05,850
+We were fighting
+like our day one
+
+678
+00:33:05,980 --> 00:33:07,330
+of getting to know each other.
+
+679
+00:33:09,200 --> 00:33:12,290
+I think she spots very early
+on that Morgan needs to do
+
+680
+00:33:12,420 --> 00:33:13,900
+what Morgan needs to do.
+
+681
+00:33:14,030 --> 00:33:15,770
+It's happening again.
+
+682
+00:33:15,900 --> 00:33:18,730
+Dickens: As far as Madison's arc
+goes, I think you finally see
+
+683
+00:33:18,860 --> 00:33:20,560
+a glimmer of the old Madison,
+
+684
+00:33:20,690 --> 00:33:24,350
+the warrior and the person who's
+going to make things right.
+
+685
+00:33:24,480 --> 00:33:27,090
+And for me, I thought
+that was astounding.
+
+686
+00:33:27,220 --> 00:33:29,390
+Goldberg: Kim Dickens
+is such a force.
+
+687
+00:33:29,520 --> 00:33:33,440
+That role is such an
+iconic role in not just
+
+688
+00:33:33,570 --> 00:33:36,310
+"Fear The Walking Dead," but
+in the Walking Dead universe.
+
+689
+00:33:36,440 --> 00:33:38,970
+And this season, Madison
+realizes that she's got
+
+690
+00:33:39,100 --> 00:33:40,320
+a decision to make.
+
+691
+00:33:40,450 --> 00:33:41,880
+Who is she going to be,
+
+692
+00:33:42,020 --> 00:33:44,450
+and how is she going to
+protect the settlement?
+
+693
+00:33:48,110 --> 00:33:51,070
+So with Morgan passing the
+leadership torch to Madison
+
+694
+00:33:51,200 --> 00:33:54,420
+and Padre's leaders going down,
+there are some big questions
+
+695
+00:33:54,550 --> 00:33:56,860
+to be answered before
+the series concludes.
+
+696
+00:33:56,990 --> 00:33:59,340
+Can Madison make Padre
+into something good?
+
+697
+00:33:59,470 --> 00:34:01,430
+Will Dwight and Sherry
+be able to help?
+
+698
+00:34:01,560 --> 00:34:04,080
+Will they even be
+around? Will June?
+
+699
+00:34:04,210 --> 00:34:06,000
+And of course, there
+are a bunch of folks
+
+700
+00:34:06,130 --> 00:34:07,520
+we haven't seen in a while.
+
+701
+00:34:07,650 --> 00:34:10,170
+Like, say, Victor Strand.
+
+702
+00:34:21,010 --> 00:34:23,190
+Now, why was he
+calling you Anton?
+
+703
+00:34:23,320 --> 00:34:26,230
+It's such a gigantic task
+to think about bringing
+
+704
+00:34:26,360 --> 00:34:28,970
+all these stories, all
+these character journeys,
+
+705
+00:34:29,110 --> 00:34:30,410
+not just to a conclusion,
+
+706
+00:34:30,540 --> 00:34:32,590
+but also kind of bringing
+them full circle.
+
+707
+00:34:32,720 --> 00:34:33,810
+Come here.
+
+708
+00:34:33,940 --> 00:34:35,890
+When we started to think about
+
+709
+00:34:36,030 --> 00:34:37,750
+where do we want these
+characters to end up,
+
+710
+00:34:37,810 --> 00:34:40,860
+it actually led to the question
+of, well, where did they start?
+
+711
+00:34:44,420 --> 00:34:46,860
+Chambliss: We wanted to look
+back at these characters
+
+712
+00:34:46,990 --> 00:34:48,950
+from their very
+beginnings on the show
+
+713
+00:34:49,080 --> 00:34:53,870
+and look at who they were back
+then and who they were now,
+
+714
+00:34:54,000 --> 00:34:57,350
+and we could see how
+far they've come.
+
+715
+00:34:57,480 --> 00:35:00,050
+Goldberg: With each of the
+characters, to a certain degree,
+
+716
+00:35:00,180 --> 00:35:01,960
+in the back half of this season,
+
+717
+00:35:02,100 --> 00:35:04,490
+they have to look back
+in order to look forward.
+
+718
+00:35:04,620 --> 00:35:07,270
+I drew that when we
+were both living here.
+
+719
+00:35:07,400 --> 00:35:09,930
+And the theme that kept
+coming to the front
+
+720
+00:35:10,060 --> 00:35:13,670
+of our minds was just
+this idea of family.
+
+721
+00:35:13,800 --> 00:35:18,630
+If I just did it differently,
+they both might be here.
+
+722
+00:35:18,760 --> 00:35:20,500
+And it all started
+with Madison Clark.
+
+723
+00:35:20,640 --> 00:35:24,420
+She was this matriarch at the
+beginning of the apocalypse
+
+724
+00:35:24,550 --> 00:35:27,380
+who always wanted
+to protect her kids,
+
+725
+00:35:27,510 --> 00:35:29,690
+who wanted to create a world
+where they could be safe,
+
+726
+00:35:29,820 --> 00:35:31,300
+who wanted to give
+them something that
+
+727
+00:35:31,430 --> 00:35:33,130
+really didn't exist anymore.
+
+728
+00:35:33,260 --> 00:35:34,340
+You missed breakfast.
+
+729
+00:35:34,480 --> 00:35:35,760
+The kid needs a
+place of her own.
+
+730
+00:35:35,870 --> 00:35:37,146
+I was thinking about
+putting the bed over here.
+
+731
+00:35:37,170 --> 00:35:39,480
+It all kind of boils
+down to the story
+
+732
+00:35:39,610 --> 00:35:41,530
+and the story you want to tell,
+
+733
+00:35:41,660 --> 00:35:45,490
+the story that we think will
+bring together all the themes,
+
+734
+00:35:45,620 --> 00:35:48,230
+all the characters,
+everyone's stories in a way
+
+735
+00:35:48,360 --> 00:35:50,530
+that will feel satisfying
+
+736
+00:35:50,670 --> 00:35:54,150
+and also feel like it has
+some real finality to it.
+
+737
+00:35:57,800 --> 00:35:59,670
+I'm going to help you.
+
+738
+00:35:59,800 --> 00:36:01,590
+You're going to help me.
+
+739
+00:36:01,720 --> 00:36:03,630
+Help you do what?
+
+740
+00:36:04,980 --> 00:36:06,770
+Save Padre.
+
+741
+00:36:07,770 --> 00:36:09,860
+I can't wait to see
+how it all turns out
+
+742
+00:36:09,990 --> 00:36:12,210
+in the final episodes.
+
+743
+00:36:12,340 --> 00:36:14,120
+And for fans of The
+Walking Dead universe,
+
+744
+00:36:14,250 --> 00:36:17,340
+there is so much to
+look forward to on AMC.
+
+745
+00:36:17,470 --> 00:36:19,690
+We're going to make Padre
+what it was meant to be
+
+746
+00:36:19,820 --> 00:36:21,040
+in the first place.
+
+747
+00:36:21,170 --> 00:36:22,530
+Thanks for watching
+"Show Me More",
+
+748
+00:36:22,610 --> 00:36:24,570
+and thanks for watching
+"Fear The Walking Dead."
+
+749
+00:36:24,700 --> 00:36:27,790
+Remember, you can catch episodes
+of "Fear The Walking Dead"
+
+750
+00:36:27,920 --> 00:36:31,920
+on AMC Plus, the AMC site
+and apps, and on demand.
+
+751
+00:36:32,050 --> 00:36:34,880
+Until next time,
+I'm Clark Wolfe.
+

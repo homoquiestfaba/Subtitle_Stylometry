@@ -1,0 +1,3051 @@
+1
+00:00:02,814 --> 00:00:05,408
+ALFRED:
+<i>Legend tells of a caped crusader...</i>
+
+2
+00:00:05,584 --> 00:00:08,519
+<i>...Batman, guardian of New Gotham...</i>
+
+3
+00:00:08,687 --> 00:00:11,155
+<i>...and his one true love...</i>
+
+4
+00:00:11,657 --> 00:00:15,525
+<i>...Catwoman,</i>
+<i>the queen of the criminal underworld.</i>
+
+5
+00:00:15,694 --> 00:00:19,289
+<i>Their passion left behind</i>
+<i>something extraordinary:</i>
+
+6
+00:00:19,464 --> 00:00:22,365
+<i>a daughter, Huntress.</i>
+
+7
+00:00:22,534 --> 00:00:25,833
+<i>Half-metahuman,</i>
+<i>she has taken up her father's mantle...</i>
+
+8
+00:00:26,004 --> 00:00:31,408
+<i>...and under cover of the night,</i>
+<i>fights to protect the innocent and helpless.</i>
+
+9
+00:00:31,810 --> 00:00:34,574
+<i>Joining her in this struggle, Oracle...</i>
+
+10
+00:00:34,746 --> 00:00:38,011
+<i>...who was once Batman's protégée,</i>
+<i>Batgirl.</i>
+
+11
+00:00:38,183 --> 00:00:41,983
+<i>She was caught in the crossfire</i>
+<i>of the war between Batman and Joker.</i>
+
+12
+00:00:42,154 --> 00:00:43,781
+[GUNSHOT]
+
+13
+00:00:43,956 --> 00:00:47,016
+<i>Now she fights crime a different way:</i>
+
+14
+00:00:47,192 --> 00:00:51,288
+<i>a master of the cyberrealms</i>
+<i>and mentor and trainer to heroes.</i>
+
+15
+00:00:52,364 --> 00:00:56,494
+<i>Together, they have taken in</i>
+<i>a young runaway, Dinah.</i>
+
+16
+00:00:56,668 --> 00:00:58,533
+<i>A metahuman herself...</i>
+
+17
+00:00:58,704 --> 00:01:01,502
+<i>...with powers to open hidden doors</i>
+<i>to the mind...</i>
+
+18
+00:01:01,673 --> 00:01:05,370
+<i>...powers that she</i>
+<i>is only beginning to explore.</i>
+
+19
+00:01:05,544 --> 00:01:09,002
+<i>Together, these three</i>
+<i>are the protectors of New Gotham...</i>
+
+20
+00:01:10,315 --> 00:01:11,646
+<i>...the Birds of Prey.</i>
+
+21
+00:01:11,817 --> 00:01:13,444
+[HAWK CRIES]
+
+22
+00:01:13,619 --> 00:01:17,817
+<i>My name is Alfred Pennyworth,</i>
+<i>and this is their story.</i>
+
+23
+00:01:18,624 --> 00:01:22,219
+HELENA: It's hard for me to come here.
+-Why is that, Helena?
+
+24
+00:01:22,861 --> 00:01:23,919
+I don't trust people.
+
+25
+00:01:24,329 --> 00:01:26,991
+Luckily for you,
+this is your last court-mandated session.
+
+26
+00:01:27,566 --> 00:01:30,592
+Then I must be officially sane.
+What a relief.
+
+27
+00:01:32,304 --> 00:01:35,000
+You don't have to come back,
+unless you want to.
+
+28
+00:01:36,575 --> 00:01:38,566
+I know you think
+you can't trust anyone...
+
+29
+00:01:39,111 --> 00:01:41,671
+...but I'd like to help you, if you'd let me.
+
+30
+00:01:44,449 --> 00:01:47,441
+Why is it so difficult for you
+to let people in, Helena?
+
+31
+00:01:51,423 --> 00:01:53,516
+After Mom was killed...
+
+32
+00:01:53,692 --> 00:01:56,593
+...I found out about my dad,
+who he was.
+
+33
+00:01:56,762 --> 00:01:58,992
+Well, most people
+would be excited to discover...
+
+34
+00:01:59,164 --> 00:02:02,292
+...that a billionaire philanthropist
+like Bruce Wayne was their father.
+
+35
+00:02:02,734 --> 00:02:05,225
+I only wanted one thing from him:
+
+36
+00:02:05,404 --> 00:02:07,463
+That he find the man
+that killed my mother.
+
+37
+00:02:07,839 --> 00:02:09,363
+And then?
+
+38
+00:02:09,541 --> 00:02:11,736
+And then I wanted that man dead.
+
+39
+00:02:13,712 --> 00:02:15,543
+We can't just go around killing people,
+Helena.
+
+40
+00:02:15,714 --> 00:02:16,942
+[SCOFFS]
+
+41
+00:02:17,115 --> 00:02:19,640
+Yeah, that's-- That's what I hear.
+
+42
+00:02:22,454 --> 00:02:24,046
+All I wanted from him was revenge.
+
+43
+00:02:25,057 --> 00:02:27,116
+If it had been the other way,
+Mom would've done it.
+
+44
+00:02:27,292 --> 00:02:29,988
+They hadn't been together in years.
+
+45
+00:02:30,162 --> 00:02:31,595
+She would've killed for him.
+
+46
+00:02:32,798 --> 00:02:36,632
+And that's when I learned
+what my mom always knew:
+
+47
+00:02:37,369 --> 00:02:39,997
+Rely on no one but yourself.
+
+48
+00:02:48,947 --> 00:02:51,074
+SLICK:
+What's wrong with you people?
+
+49
+00:02:51,416 --> 00:02:53,111
+I'm talking about real money here.
+
+50
+00:02:53,285 --> 00:02:55,879
+Ooh! Real money, guys.
+
+51
+00:02:56,054 --> 00:02:57,919
+What's real money to you, Slick?
+
+52
+00:02:58,090 --> 00:02:59,955
+More than your pension cash,
+I'll tell you that.
+
+53
+00:03:00,125 --> 00:03:02,616
+I've got some years in,
+my pension's looking pretty sweet.
+
+54
+00:03:02,794 --> 00:03:05,262
+-How about you, Reese?
+-I need money, I hit the casino.
+
+55
+00:03:05,430 --> 00:03:08,490
+-Oh, that ever work for you?
+-Mm, not yet.
+
+56
+00:03:08,667 --> 00:03:11,795
+I'm not talking jackpot cash here, okay?
+
+57
+00:03:11,970 --> 00:03:14,734
+I'm talking lottery cash, 25 million.
+
+58
+00:03:14,906 --> 00:03:17,932
+GRACE: Mm-hm, okay.
+-Split it however you want.
+
+59
+00:03:18,110 --> 00:03:20,101
+Okay, okay.
+
+60
+00:03:20,312 --> 00:03:21,973
+Thirty, okay?
+
+61
+00:03:22,147 --> 00:03:24,012
+Come on.
+
+62
+00:03:25,283 --> 00:03:26,614
+Tell you what, Slick.
+
+63
+00:03:27,519 --> 00:03:28,679
+I'm a simple guy...
+
+64
+00:03:29,387 --> 00:03:30,684
+...so I'm gonna do you a favor.
+
+65
+00:03:31,089 --> 00:03:33,887
+I'm gonna leave this thing at robbery,
+and I'm gonna forget all about...
+
+66
+00:03:34,059 --> 00:03:37,654
+...the generous, although misguided,
+attempt to bribe three good cops.
+
+67
+00:03:38,797 --> 00:03:39,957
+Okay?
+
+68
+00:03:40,132 --> 00:03:41,463
+So...
+
+69
+00:03:41,633 --> 00:03:45,364
+...why don't you sit tight
+while we get you processed, huh?
+
+70
+00:03:47,239 --> 00:03:50,106
+GRACE: If I had a nickel for every time
+a perp offered me a bribe....
+
+71
+00:03:50,275 --> 00:03:52,505
+REESE:
+We'd all make real money.
+
+72
+00:04:49,234 --> 00:04:51,202
+If you're looking for your paycheck,
+forget it.
+
+73
+00:04:51,369 --> 00:04:52,927
+I don't reward failure.
+
+74
+00:04:53,104 --> 00:04:55,038
+Excuse me, beautiful, I did my job.
+
+75
+00:04:55,207 --> 00:04:57,937
+I got in the truck.
+You didn't say anything about cops.
+
+76
+00:04:58,310 --> 00:05:02,007
+I asked you to hijack one armored truck,
+a job you assured me...
+
+77
+00:05:02,180 --> 00:05:04,808
+...you could do in your sleep,
+and you got caught.
+
+78
+00:05:04,983 --> 00:05:10,148
+Heh, people who work for Harley Quinn
+don't get caught.
+
+79
+00:05:10,322 --> 00:05:13,951
+Oh, calm down, baby.
+Nobody has to lose any body parts here.
+
+80
+00:05:14,125 --> 00:05:15,990
+Hee-hee, don't be so sure.
+
+81
+00:05:16,795 --> 00:05:19,229
+I know, I've only been in New Gotham
+for a few months...
+
+82
+00:05:19,397 --> 00:05:22,389
+...and maybe this kind of pathetic screwup
+passes for crime in this town?
+
+83
+00:05:23,735 --> 00:05:25,259
+Things are gonna change.
+
+84
+00:05:25,437 --> 00:05:27,837
+New Gotham
+ran the Joker out on a rail.
+
+85
+00:05:28,006 --> 00:05:32,966
+Now he's locked up in a prison
+far away from here.
+
+86
+00:05:33,278 --> 00:05:37,180
+This city is gonna pay
+for what they did to my sweet Mr. J.
+
+87
+00:05:38,683 --> 00:05:39,707
+I'll have a vengeance...
+
+88
+00:05:39,885 --> 00:05:43,480
+...that will be spoken of in terrified whispers
+for generations to come.
+
+89
+00:05:43,655 --> 00:05:44,849
+Do you understand?
+
+90
+00:05:45,023 --> 00:05:47,014
+Not exactly, no.
+
+91
+00:05:47,192 --> 00:05:50,628
+Ah, I'm gonna take over New Gotham,
+you idiot.
+
+92
+00:05:50,795 --> 00:05:54,356
+You really ought to see someone
+about those mood swings.
+
+93
+00:05:54,666 --> 00:05:57,499
+I've decided to give you
+one more chance, Slick.
+
+94
+00:05:57,669 --> 00:06:00,695
+And I know you won't let me down.
+
+95
+00:06:53,425 --> 00:06:56,087
+We only have a week
+before you start classes.
+
+96
+00:06:56,261 --> 00:06:57,592
+We need to finish filling these--
+
+97
+00:06:57,762 --> 00:06:59,252
+[WHIRRING NEARBY]
+
+98
+00:07:04,636 --> 00:07:07,628
+-Out.
+-Oh, sorry.
+
+99
+00:07:07,806 --> 00:07:09,774
+Quite a nice throw, actually.
+
+100
+00:07:09,941 --> 00:07:11,636
+Excellent velocity.
+
+101
+00:07:11,810 --> 00:07:13,300
+[BARBARA SIGHS]
+
+102
+00:07:14,179 --> 00:07:17,740
+Uh, this isn't the Batarang
+I gave you for practice.
+
+103
+00:07:17,916 --> 00:07:21,352
+I know, but this one has
+three times the range of the regular ones...
+
+104
+00:07:21,519 --> 00:07:23,544
+...plus all the automated stuff.
+
+105
+00:07:23,722 --> 00:07:25,189
+It's way cooler.
+
+106
+00:07:25,357 --> 00:07:28,190
+BARBARA:
+I know, I designed it.
+
+107
+00:07:28,360 --> 00:07:31,887
+Look, Dinah, your training
+is meant to prepare you in stages.
+
+108
+00:07:32,063 --> 00:07:34,361
+You need to learn one step
+before moving on to the next.
+
+109
+00:07:34,532 --> 00:07:35,556
+[DOOR OPENS]
+
+110
+00:07:35,734 --> 00:07:37,326
+Which means mastering
+the basic weapons...
+
+111
+00:07:37,502 --> 00:07:39,493
+...before you use the ones
+with bells and whistles.
+
+112
+00:07:39,671 --> 00:07:42,469
+And, uh, target-seeking capabilities.
+
+113
+00:07:43,575 --> 00:07:46,476
+-Greetings, super-friends.
+-Hi, good morning.
+
+114
+00:07:46,644 --> 00:07:47,668
+DINAH:
+How was your sweep?
+
+115
+00:07:47,846 --> 00:07:51,111
+Slow night: two muggers, store robbery.
+Hardly worth the effort.
+
+116
+00:07:51,282 --> 00:07:52,306
+How can they need...
+
+117
+00:07:52,484 --> 00:07:54,543
+...this much information
+to let one girl into school?
+
+118
+00:07:54,719 --> 00:07:56,209
+DINAH:
+I wanna show you something.
+
+119
+00:07:56,388 --> 00:07:59,482
+What do you think of this
+for my first-day-of-school outfit?
+
+120
+00:07:59,657 --> 00:08:01,181
+What?
+
+121
+00:08:02,293 --> 00:08:05,854
+Kind of a draft-me-for-the-chess-club
+thing going on.
+
+122
+00:08:06,031 --> 00:08:08,124
+I'll need to get your basic information:
+
+123
+00:08:08,299 --> 00:08:11,393
+birth certificate, social security,
+that sort of thing.
+
+124
+00:08:11,870 --> 00:08:12,928
+There isn't any.
+
+125
+00:08:13,538 --> 00:08:14,562
+Sorry?
+
+126
+00:08:14,739 --> 00:08:16,764
+Um, information.
+
+127
+00:08:16,941 --> 00:08:18,033
+There isn't any.
+
+128
+00:08:18,209 --> 00:08:22,839
+There was a fire at the county courthouse
+and all the records burned.
+
+129
+00:08:23,748 --> 00:08:26,080
+Well, I'll at least
+need to get your transcripts.
+
+130
+00:08:26,684 --> 00:08:28,845
+Uh, they burned too.
+
+131
+00:08:29,054 --> 00:08:32,751
+Your transcripts would be at the school,
+not the courthouse.
+
+132
+00:08:32,924 --> 00:08:36,291
+Well, it was a really big fire.
+
+133
+00:08:37,295 --> 00:08:38,353
+[BARBARA SIGHS]
+
+134
+00:08:38,530 --> 00:08:39,724
+Well, what about your parents?
+
+135
+00:08:41,166 --> 00:08:45,262
+They're dead. Um, I'm gonna go practice
+in the training room, okay?
+
+136
+00:08:46,504 --> 00:08:48,369
+[SIGHS]
+
+137
+00:08:49,641 --> 00:08:50,665
+[BARBARA SIGHS]
+
+138
+00:08:50,842 --> 00:08:52,207
+Poor kid.
+
+139
+00:08:52,377 --> 00:08:54,607
+You can't mean to tell me
+you actually bought that.
+
+140
+00:08:54,779 --> 00:08:57,247
+Have a heart, Helena.
+I took you in at the same age.
+
+141
+00:08:57,415 --> 00:09:00,578
+Yeah, and I used to lie to you all the time,
+only I was better at it.
+
+142
+00:09:00,752 --> 00:09:03,118
+Uh, not that much better.
+
+143
+00:09:05,390 --> 00:09:08,291
+Okay, fine.
+I'll do a background check on her, okay?
+
+144
+00:09:08,460 --> 00:09:10,325
+But I'm telling you,
+there's no reason to panic.
+
+145
+00:09:10,495 --> 00:09:13,464
+Something panic-worthy always happens
+right after you say that.
+
+146
+00:09:13,631 --> 00:09:19,160
+Okay, look, she's not just a runaway,
+she's a metahuman like you.
+
+147
+00:09:19,337 --> 00:09:22,898
+Now, you know better than I do
+how hard the world is for kids like that.
+
+148
+00:09:30,415 --> 00:09:31,780
+Okay....
+
+149
+00:09:32,217 --> 00:09:33,241
+[KNOCKS ON DOOR]
+
+150
+00:09:33,418 --> 00:09:34,476
+Hey.
+
+151
+00:09:34,652 --> 00:09:35,812
+-Wade, hi.
+-Hi.
+
+152
+00:09:35,987 --> 00:09:37,978
+-Hi.
+-How are the lesson plans coming?
+
+153
+00:09:38,156 --> 00:09:40,420
+Oh, you know....
+
+154
+00:09:41,459 --> 00:09:44,519
+School is always so much more peaceful
+before the kids get here.
+
+155
+00:09:44,696 --> 00:09:46,687
+They do kind of clutter the place up.
+
+156
+00:09:46,865 --> 00:09:48,856
+[BOTH CHUCKLE]
+
+157
+00:09:49,868 --> 00:09:52,166
+BARBARA: Maybe we should-- Ha, ha.
+WADE: So about-- Ha, ha.
+
+158
+00:09:52,737 --> 00:09:55,297
+-Go ahead, I'm sorry.
+-It's um-- No, please.
+
+159
+00:09:55,874 --> 00:09:58,001
+Well, I was just gonna say...
+
+160
+00:09:58,176 --> 00:09:59,609
+...should we make plans?
+
+161
+00:10:00,879 --> 00:10:04,178
+-I thought you forgot.
+-Well, actually, I thought you forgot. Heh.
+
+162
+00:10:04,349 --> 00:10:05,373
+Oh, no, no, no.
+
+163
+00:10:05,550 --> 00:10:08,781
+Um, the other day,
+I was just in the midst of, well...
+
+164
+00:10:08,953 --> 00:10:10,147
+...kind of an emergency.
+
+165
+00:10:10,555 --> 00:10:13,353
+-Is everything all right?
+-Yeah. Yeah, yeah, everything's fine.
+
+166
+00:10:13,525 --> 00:10:17,552
+Yeah, it's just, um, this business I have
+with my friend Helena.
+
+167
+00:10:18,329 --> 00:10:20,627
+-What kind of business?
+-Gourmet baking.
+
+168
+00:10:21,966 --> 00:10:24,935
+Uh, custom fudge and muffin tops.
+We sell them online.
+
+169
+00:10:25,103 --> 00:10:27,333
+It's sort of a moonlighting,
+hobby sort of thing.
+
+170
+00:10:27,872 --> 00:10:29,669
+Emergencies in the baking world?
+
+171
+00:10:30,575 --> 00:10:33,408
+We take our culinary responsibilities
+very seriously.
+
+172
+00:10:33,945 --> 00:10:36,675
+Well, you're just gonna have to trust me
+with the plans.
+
+173
+00:10:36,848 --> 00:10:42,844
+Ah. I promise they will be silly
+and absolutely mindless.
+
+174
+00:10:47,759 --> 00:10:49,056
+So I said yes.
+
+175
+00:10:49,227 --> 00:10:51,127
+HELENA:
+Good. It's about damn time.
+
+176
+00:10:51,296 --> 00:10:54,026
+All this crime-fighting without a social life
+is making you grouchy.
+
+177
+00:10:54,199 --> 00:10:57,362
+I'm not grouchy, I'm just realistic.
+
+178
+00:10:57,535 --> 00:10:59,469
+All my relationships come
+with an expiration date.
+
+179
+00:10:59,637 --> 00:11:00,899
+I mean, the moment he asks:
+
+180
+00:11:01,072 --> 00:11:05,873
+"So hey. Hey, why can't you just blow off
+this late-night baking gig?"
+
+181
+00:11:06,044 --> 00:11:07,170
+[GIGGLES]
+
+182
+00:11:07,345 --> 00:11:09,108
+The muffin-top cover story?
+
+183
+00:11:09,280 --> 00:11:11,578
+Possibly the lamest thing
+you've ever come up with.
+
+184
+00:11:12,150 --> 00:11:14,380
+You just get to a point
+where you can't lie anymore.
+
+185
+00:11:14,786 --> 00:11:16,947
+Never been there.
+You'll have to tell me what it's like.
+
+186
+00:11:17,121 --> 00:11:19,180
+Speaking of lying, about Dinah?
+
+187
+00:11:19,724 --> 00:11:22,522
+-Oh, I ran a background check.
+-You did? What'd you find?
+
+188
+00:11:23,595 --> 00:11:25,529
+-Nothing.
+-So I guess I should be relieved...
+
+189
+00:11:25,697 --> 00:11:27,062
+...she's not an ax murderer.
+
+190
+00:11:27,232 --> 00:11:30,668
+No, I mean nothing. No records at all.
+
+191
+00:11:30,835 --> 00:11:33,861
+I mean, as if she didn't exist.
+She gave us a false name.
+
+192
+00:11:34,038 --> 00:11:35,972
+You're just getting around
+to mentioning this now?
+
+193
+00:11:36,574 --> 00:11:40,271
+-I thought you might overreact.
+-I'm not overreacting.
+
+194
+00:11:40,678 --> 00:11:43,613
+I'm very calmly pointing out
+that we have no idea who this girl is.
+
+195
+00:11:43,781 --> 00:11:47,979
+Actually, we do.
+I ran a facial-recognition autosearch...
+
+196
+00:11:48,152 --> 00:11:51,087
+...on yearbook photos
+from Missouri going back five years.
+
+197
+00:11:51,256 --> 00:11:52,416
+[COMPUTER BEEPS]
+
+198
+00:11:52,590 --> 00:11:54,956
+Meet Dinah Redmond of Opal, Missouri.
+
+199
+00:11:55,126 --> 00:12:00,154
+Population, 2541 .
+Some truancy, she's run away a few times.
+
+200
+00:12:00,331 --> 00:12:02,891
+She'd been living with her foster family.
+Her parents gave her up.
+
+201
+00:12:03,067 --> 00:12:06,127
+Anyway, the point is,
+now we know that she really is a runaway...
+
+202
+00:12:06,304 --> 00:12:08,238
+...and not some criminal mastermind.
+
+203
+00:12:08,606 --> 00:12:12,167
+Known by other aliases as,
+oh, "The Truth."
+
+204
+00:12:12,343 --> 00:12:15,710
+-She'll tell us when she's ready.
+-And until then you're just gonna trust her?
+
+205
+00:12:15,880 --> 00:12:18,678
+With all this top-secret,
+super-classified intel around here?
+
+206
+00:12:18,850 --> 00:12:21,944
+-She could get into anything.
+DINAH: Hey, guys.
+
+207
+00:12:23,755 --> 00:12:24,847
+That's my sweater!
+
+208
+00:12:25,290 --> 00:12:28,157
+-Well, you said I should dress better.
+-Not in my clothes.
+
+209
+00:12:28,626 --> 00:12:30,457
+BARBARA:
+Hey, time out.
+
+210
+00:12:30,628 --> 00:12:32,562
+There will be
+absolutely no use of super-powers...
+
+211
+00:12:32,730 --> 00:12:34,857
+...to settle domestic disagreements.
+
+212
+00:12:35,033 --> 00:12:37,467
+You, get changed. You, come with me.
+
+213
+00:12:39,904 --> 00:12:42,099
+HELENA:
+That was my favorite sweater.
+
+214
+00:12:42,273 --> 00:12:44,207
+I think she's evil.
+You think she could be evil?
+
+215
+00:12:44,375 --> 00:12:46,707
+If you would just take your clothes home
+once in a while...
+
+216
+00:12:46,878 --> 00:12:48,937
+...instead of leaving them
+all over the Clocktower...
+
+217
+00:12:49,113 --> 00:12:51,604
+...she wouldn't have found
+your sweater to begin with.
+
+218
+00:12:51,783 --> 00:12:54,911
+You know what,
+this is not about clothing and you know it.
+
+219
+00:12:55,086 --> 00:12:57,884
+Easy for you to say,
+she's not poaching your daywear.
+
+220
+00:12:58,056 --> 00:13:00,786
+Her parents
+didn't even report her missing.
+
+221
+00:13:00,958 --> 00:13:02,619
+Sounds like she had a reason
+to run away.
+
+222
+00:13:02,794 --> 00:13:06,321
+-Still don't know what that was.
+-She's got incredible potential.
+
+223
+00:13:06,931 --> 00:13:09,297
+I just have this gut feeling that--
+
+224
+00:13:09,467 --> 00:13:12,027
+So do I.
+Like I'm about to get sucker-punched.
+
+225
+00:13:13,471 --> 00:13:16,907
+Helena, think about how we learned.
+How we all learned.
+
+226
+00:13:17,542 --> 00:13:21,672
+Dick Grayson, Tim Drake,
+Jason Todd, even you.
+
+227
+00:13:22,647 --> 00:13:25,138
+It's more than a tradition, it's a legacy.
+
+228
+00:13:25,316 --> 00:13:28,513
+Take in those like us,
+mentor and train them.
+
+229
+00:13:28,686 --> 00:13:31,655
+Never turn away someone
+with the hunger to become what we are.
+
+230
+00:13:32,890 --> 00:13:34,721
+That's what your father
+would have done.
+
+231
+00:13:35,259 --> 00:13:37,693
+Batman was your role model, not mine.
+
+232
+00:13:38,930 --> 00:13:41,990
+Yeah, you keep saying that.
+
+233
+00:13:42,166 --> 00:13:44,157
+[ALARM BLARING]
+
+234
+00:13:44,869 --> 00:13:46,564
+Barbara?
+
+235
+00:13:46,771 --> 00:13:50,002
+Helena? Hello? Are you guys there?
+
+236
+00:13:50,174 --> 00:13:53,075
+BARBARA [O VER RADIO] : <i>What is it, Dinah?</i>
+-Oh, okay.
+
+237
+00:13:53,244 --> 00:13:56,907
+There's a big red light
+flashing on the Delphi monitor system.
+
+238
+00:13:57,081 --> 00:13:58,412
+What do I do?
+
+239
+00:13:58,583 --> 00:14:00,050
+Oh, there's the download button.
+
+240
+00:14:00,218 --> 00:14:01,879
+BARBARA [O VER RADIO] :
+<i>Don't touch anything.</i>
+
+241
+00:14:02,053 --> 00:14:03,884
+<i>We're on our way back.</i>
+
+242
+00:14:04,188 --> 00:14:05,849
+Okay.
+
+243
+00:14:10,762 --> 00:14:12,992
+CORONER:
+Deceased is male, mid-30s.
+
+244
+00:14:13,164 --> 00:14:15,724
+He's 36, and the deceased has a name.
+
+245
+00:14:15,900 --> 00:14:17,492
+Jack Barnstone. He's a cop.
+
+246
+00:14:17,668 --> 00:14:20,364
+Cause of death is consistent
+with asphyxiation...
+
+247
+00:14:20,538 --> 00:14:24,030
+...but there are no ligature marks,
+no external abrasions or bruising.
+
+248
+00:14:24,208 --> 00:14:27,769
+And no sign of anything lodged internally
+that could have caused the blockage.
+
+249
+00:14:27,945 --> 00:14:30,709
+-But that's not the weird thing.
+-Great, a weird thing.
+
+250
+00:14:30,882 --> 00:14:35,649
+Look at this: skin discoloration,
+pink foam around the lips.
+
+251
+00:14:35,820 --> 00:14:37,981
+These are all signs
+consistent with drowning...
+
+252
+00:14:38,156 --> 00:14:40,351
+...but there was no water found
+near the victim...
+
+253
+00:14:40,525 --> 00:14:44,757
+...and no signs that the body's been moved,
+so drowning is pretty much impossible.
+
+254
+00:14:44,929 --> 00:14:47,762
+No, it's not impossible.
+
+255
+00:14:50,034 --> 00:14:52,901
+BARBARA: The Delphi Protocol
+is a database program I created.
+
+256
+00:14:53,070 --> 00:14:55,664
+It automatically tracks and sorts
+crimes reported in New Gotham...
+
+257
+00:14:55,840 --> 00:14:58,434
+...and then alerts us to anything unusual.
+
+258
+00:14:58,609 --> 00:15:01,043
+-The freakedelic stuff.
+-Yep.
+
+259
+00:15:01,212 --> 00:15:04,545
+I'm piggybacked on
+to the New Gotham P.D. computer...
+
+260
+00:15:04,715 --> 00:15:07,183
+...so we get information
+simultaneously with the police.
+
+261
+00:15:07,351 --> 00:15:09,512
+-Is that legal?
+-No.
+
+262
+00:15:09,687 --> 00:15:11,985
+The coroner finished the autopsy.
+
+263
+00:15:12,590 --> 00:15:15,024
+They're listing cause of death
+as heart failure.
+
+264
+00:15:15,193 --> 00:15:16,319
+So?
+
+265
+00:15:16,494 --> 00:15:20,931
+So of course his heart stopped.
+The question is, why?
+
+266
+00:15:21,098 --> 00:15:23,089
+I need some lung tissue.
+
+267
+00:15:23,734 --> 00:15:26,294
+Come on, it's Friday night.
+
+268
+00:15:27,171 --> 00:15:30,470
+What's a weekend without lung tissue?
+
+269
+00:15:36,881 --> 00:15:38,280
+It's late, Grace.
+
+270
+00:15:38,449 --> 00:15:41,543
+-Are you gonna be okay to get home?
+-Yeah, fine.
+
+271
+00:15:41,953 --> 00:15:43,580
+I'll see you guys in the morning.
+
+272
+00:15:43,754 --> 00:15:46,450
+Grace, we're all gonna miss Jack.
+
+273
+00:15:46,624 --> 00:15:48,091
+Yeah.
+
+274
+00:15:55,466 --> 00:15:57,263
+Damn it.
+
+275
+00:16:18,256 --> 00:16:20,281
+[WATER RUSHING]
+
+276
+00:16:22,260 --> 00:16:23,852
+You.
+
+277
+00:16:24,095 --> 00:16:26,393
+-What the hell are you doing here?
+-Miss me?
+
+278
+00:16:52,723 --> 00:16:54,122
+So how's the lung tissue?
+
+279
+00:16:54,292 --> 00:16:56,556
+Alveolar distention
+clearly indicates drowning.
+
+280
+00:16:56,727 --> 00:16:58,194
+And yet...
+
+281
+00:16:58,362 --> 00:17:01,092
+...there's no excess of fluid in the cells.
+
+282
+00:17:01,265 --> 00:17:04,723
+-Do I look all right?
+-Beautiful. Go on your date, relax.
+
+283
+00:17:04,902 --> 00:17:06,631
+-I'll mind the fort.
+-Okay.
+
+284
+00:17:06,804 --> 00:17:09,864
+You see what I'm saying
+about the lung-cell distortions, right?
+
+285
+00:17:11,208 --> 00:17:13,005
+Really, how do I look?
+
+286
+00:17:13,177 --> 00:17:14,804
+Like you need to leave.
+
+287
+00:17:14,979 --> 00:17:17,140
+Right, leaving.
+Okay, there's pizza in the freezer...
+
+288
+00:17:17,315 --> 00:17:19,647
+...and Alfred's number is on the fridge.
+
+289
+00:17:19,951 --> 00:17:21,384
+Okay, you know what? I've gotta ask.
+
+290
+00:17:21,552 --> 00:17:25,283
+Even though it risks delaying
+your long-overdue departure even further...
+
+291
+00:17:25,456 --> 00:17:27,947
+-...but how are you doing that?
+-Doing what?
+
+292
+00:17:28,125 --> 00:17:32,061
+That thing with your chair?
+That steering-with-no-hands thing?
+
+293
+00:17:32,229 --> 00:17:33,628
+Ah. It's pretty cool, huh?
+
+294
+00:17:33,798 --> 00:17:35,789
+Yeah, I've been, uh, tinkering.
+
+295
+00:17:36,767 --> 00:17:38,598
+It's a transponder strapped to my spine.
+
+296
+00:17:38,769 --> 00:17:39,963
+Uh, a subneural-response net...
+
+297
+00:17:40,137 --> 00:17:43,106
+...that interfaces directly with
+the chair's computerized motor controls.
+
+298
+00:17:43,274 --> 00:17:44,298
+You're techno-babbling.
+
+299
+00:17:45,409 --> 00:17:48,139
+I think, therefore the chair moves.
+
+300
+00:17:48,546 --> 00:17:51,447
+Hey, but if it's plugged into your spine,
+could you, um--?
+
+301
+00:17:51,616 --> 00:17:54,016
+Use the technology
+to get out of the chair sometime?
+
+302
+00:17:54,585 --> 00:17:56,849
+Anything is possible.
+
+303
+00:17:57,021 --> 00:17:59,512
+Do you think it's possible
+that you might leave for your date?
+
+304
+00:17:59,690 --> 00:18:02,523
+Okay, okay. I'm going, I'm going.
+
+305
+00:18:03,794 --> 00:18:06,661
+-Be good.
+-Mm, I'll try.
+
+306
+00:18:07,932 --> 00:18:09,229
+[SIGHS]
+
+307
+00:18:12,803 --> 00:18:15,567
+BARBARA:
+I don't usually let people push me, heh.
+
+308
+00:18:15,840 --> 00:18:17,831
+WADE:
+Since this requires you to close your eyes...
+
+309
+00:18:18,009 --> 00:18:20,034
+...you're gonna have to let me drive.
+
+310
+00:18:20,211 --> 00:18:23,078
+You can look...
+
+311
+00:18:25,082 --> 00:18:26,709
+...now.
+
+312
+00:18:27,685 --> 00:18:29,812
+BARBARA:
+Oh, wow.
+
+313
+00:18:29,987 --> 00:18:31,215
+It's beautiful.
+
+314
+00:18:32,089 --> 00:18:35,616
+Well, I thought it might beat out
+dinner and a movie.
+
+315
+00:18:51,642 --> 00:18:54,076
+-How did you get in here?
+-I said I was your sister.
+
+316
+00:18:54,245 --> 00:18:55,712
+Great. Just what I need...
+
+317
+00:18:55,880 --> 00:18:58,371
+...another relative
+with a creative relationship with the truth.
+
+318
+00:18:59,116 --> 00:19:01,676
+Well, I thought this way,
+I might actually get you to talk to me.
+
+319
+00:19:02,353 --> 00:19:03,377
+So talk.
+
+320
+00:19:05,056 --> 00:19:06,080
+[DINAH SIGHS]
+
+321
+00:19:06,257 --> 00:19:08,088
+You don't want me here, do you?
+
+322
+00:19:13,798 --> 00:19:17,359
+BARBARA: It seems like all I ever look at
+is the skyline of New Gotham.
+
+323
+00:19:17,535 --> 00:19:18,559
+Never the sky.
+
+324
+00:19:19,136 --> 00:19:22,230
+Ah, so I'm broadening your horizons.
+
+325
+00:19:22,673 --> 00:19:24,140
+Day job, night job.
+
+326
+00:19:24,308 --> 00:19:27,141
+It sounds to me
+like you spend way too much time on work.
+
+327
+00:19:28,145 --> 00:19:29,237
+What about your heart?
+
+328
+00:19:30,648 --> 00:19:33,310
+I think it's still in there somewhere.
+
+329
+00:19:34,819 --> 00:19:36,047
+Sure it is.
+
+330
+00:19:41,025 --> 00:19:43,118
+[PAGER BEEPING]
+
+331
+00:19:51,135 --> 00:19:52,193
+WADE:
+Who is it?
+
+332
+00:19:52,369 --> 00:19:55,497
+It's just an automated system. Ignore it.
+
+333
+00:19:55,673 --> 00:19:57,573
+[BOTH CHUCKLE]
+
+334
+00:19:58,175 --> 00:20:00,143
+[PAGER BEEPING]
+
+335
+00:20:06,884 --> 00:20:08,442
+[SIGHS]
+
+336
+00:20:12,389 --> 00:20:14,880
+Wade, I'm sorry, I have to go.
+
+337
+00:20:19,296 --> 00:20:21,287
+I'll make it up to you.
+
+338
+00:20:22,233 --> 00:20:23,359
+I promise.
+
+339
+00:20:24,201 --> 00:20:25,429
+[SCOFFS]
+
+340
+00:20:25,936 --> 00:20:27,801
+What we do is dangerous.
+
+341
+00:20:28,472 --> 00:20:30,599
+Been out on the field on my own
+for a very long time...
+
+342
+00:20:30,775 --> 00:20:32,174
+...and that's the way I like it.
+
+343
+00:20:32,676 --> 00:20:34,507
+I came here to be like you.
+
+344
+00:20:34,678 --> 00:20:37,169
+I want this more
+than I've ever wanted anything.
+
+345
+00:20:37,348 --> 00:20:38,542
+[SCOFFS]
+
+346
+00:20:39,250 --> 00:20:42,708
+I thought if I told you how important
+this was to me, that you'd understand.
+
+347
+00:20:42,887 --> 00:20:45,788
+-So why can't you just tell me the truth?
+-That is the truth.
+
+348
+00:20:45,956 --> 00:20:47,389
+Your parents aren't dead, are they?
+
+349
+00:20:49,593 --> 00:20:52,858
+It's not that easy. It's complicated.
+
+350
+00:20:53,631 --> 00:20:56,566
+You're 1 6, how complicated can it be?
+
+351
+00:20:56,734 --> 00:21:01,831
+Heh. Yeah, and when you were 1 6,
+life was really simple and straightforward.
+
+352
+00:21:02,439 --> 00:21:06,239
+Okay, that's totally different
+and completely besides the point.
+
+353
+00:21:07,011 --> 00:21:10,037
+Trust isn't something that you
+can just be given, it has to be earned.
+
+354
+00:21:10,481 --> 00:21:12,745
+Then let me earn it.
+
+355
+00:21:13,217 --> 00:21:16,414
+If you would just give me a chance,
+I know I can prove it to you.
+
+356
+00:21:16,587 --> 00:21:20,785
+When? When we're out on the field
+and it's full-on kill-or-be-killed combat?
+
+357
+00:21:20,958 --> 00:21:24,519
+Heh. I need to be completely sure
+that someone's got my back.
+
+358
+00:21:24,695 --> 00:21:26,959
+And there's only one person
+I can count on for that.
+
+359
+00:21:27,131 --> 00:21:29,827
+BARBARA [O VER RADIO] :
+<i>It's me. Have you seen Dinah?</i>
+
+360
+00:21:30,534 --> 00:21:31,694
+Yeah, she's here.
+
+361
+00:21:31,869 --> 00:21:34,269
+BARBARA: <i>Good, I was worried.</i>
+<i>But if she's with you, then l</i>--
+
+362
+00:21:34,438 --> 00:21:36,770
+<i>I'm suddenly realizing I'm still worried.</i>
+
+363
+00:21:36,941 --> 00:21:39,239
+Why are you home? It's not even 1 1 yet.
+
+364
+00:21:39,677 --> 00:21:41,338
+[O VER RADIO]
+<i>How was your date?</i>
+
+365
+00:21:41,512 --> 00:21:43,070
+Interrupted.
+
+366
+00:21:43,247 --> 00:21:46,774
+Another cop is dead.
+Same circumstance as Barnstone:
+
+367
+00:21:46,951 --> 00:21:48,179
+Drowned on dry land.
+
+368
+00:21:52,756 --> 00:21:55,748
+[WATER TRICKLING THEN RUSHING]
+
+369
+00:21:59,897 --> 00:22:02,422
+Catching up on current events?
+
+370
+00:22:02,700 --> 00:22:05,567
+"Man kills ex-girlfriend then himself."
+
+371
+00:22:05,736 --> 00:22:06,862
+Nice.
+
+372
+00:22:07,037 --> 00:22:11,201
+I have a professional interest.
+George was a patient.
+
+373
+00:22:11,375 --> 00:22:12,899
+Guess the therapy didn't take, ha.
+
+374
+00:22:13,077 --> 00:22:15,045
+Oh? I wouldn't say that.
+
+375
+00:22:15,212 --> 00:22:17,612
+I was the one who told him
+the key to his mental well-being...
+
+376
+00:22:17,781 --> 00:22:19,681
+...was to express his rage.
+
+377
+00:22:19,850 --> 00:22:23,286
+That's not bad work, for an amateur.
+
+378
+00:22:23,721 --> 00:22:25,382
+Why do you waste your time?
+
+379
+00:22:25,556 --> 00:22:28,320
+I mean, a day job for a supervillain?
+
+380
+00:22:28,492 --> 00:22:30,289
+It's so...
+
+381
+00:22:31,195 --> 00:22:32,219
+...bourgeois.
+
+382
+00:22:32,396 --> 00:22:35,263
+George and my other patients aren't work,
+they're hobbies.
+
+383
+00:22:35,432 --> 00:22:38,162
+You know, like golf? Recreational.
+
+384
+00:22:39,303 --> 00:22:41,931
+You ever heard
+of the Greek goddess Eris?
+
+385
+00:22:42,606 --> 00:22:47,168
+The Romans called her Discord,
+the sower of strife.
+
+386
+00:22:47,344 --> 00:22:50,609
+She started everything
+from petty arguments to cataclysmic wars...
+
+387
+00:22:50,781 --> 00:22:55,081
+...while she just sat back and watched.
+
+388
+00:22:55,252 --> 00:22:57,447
+Untouched.
+
+389
+00:22:57,621 --> 00:23:01,216
+Now there was a girl
+who knew how to delegate.
+
+390
+00:23:03,193 --> 00:23:05,320
+You lost me, babe.
+
+391
+00:23:05,496 --> 00:23:08,897
+Yeah, well, that's what happens
+when you regularly turn your brain to water.
+
+392
+00:23:09,066 --> 00:23:12,695
+Aren't you late for your appointment
+with the good detective?
+
+393
+00:23:12,870 --> 00:23:15,839
+I do need all three cops
+out of the picture this time.
+
+394
+00:23:16,006 --> 00:23:19,498
+I just can't bear the idea of you
+screwing up my little hijacking plan again.
+
+395
+00:23:19,977 --> 00:23:22,445
+Don't worry. It's as good as done.
+
+396
+00:23:23,147 --> 00:23:25,342
+Take care of the cop...
+
+397
+00:23:25,616 --> 00:23:27,015
+...and go get my truck...
+
+398
+00:23:27,818 --> 00:23:29,308
+...Slick.
+
+399
+00:23:29,820 --> 00:23:32,118
+Don't fail me again.
+
+400
+00:23:35,559 --> 00:23:37,288
+BARBARA:
+We've got a link.
+
+401
+00:23:37,461 --> 00:23:40,089
+The cops who died were connected
+by a case a few weeks ago.
+
+402
+00:23:40,264 --> 00:23:45,725
+They stopped the hijacking of a truck
+by a guy named Silas Waters, a.k.a. Slick.
+
+403
+00:23:45,903 --> 00:23:47,564
+The truck was carrying
+military ordnance...
+
+404
+00:23:47,738 --> 00:23:50,138
+...and we're talking major-league,
+major-league weaponry.
+
+405
+00:23:50,307 --> 00:23:53,970
+-Missiles, launchers, grenades, C4.
+-All the fun toys.
+
+406
+00:23:54,144 --> 00:23:55,907
+Let me guess, Slick's out on bail.
+
+407
+00:23:56,080 --> 00:23:59,447
+Uh, not exactly.
+The police booked him and locked him up.
+
+408
+00:23:59,616 --> 00:24:02,141
+The next time somebody looked for him,
+he'd vanished.
+
+409
+00:24:02,619 --> 00:24:04,484
+-A metahuman?
+-Someone who could transform...
+
+410
+00:24:04,655 --> 00:24:07,249
+...into some kind of fluid
+thin enough to go down a drain.
+
+411
+00:24:08,058 --> 00:24:09,821
+We could call him Liquid Guy.
+
+412
+00:24:11,762 --> 00:24:14,356
+Uh, I'm just trying to contribute.
+
+413
+00:24:14,932 --> 00:24:17,662
+Police report said
+Slick tried to bribe them with a cut.
+
+414
+00:24:17,835 --> 00:24:20,963
+The weapons
+had a black-market value of $30 million.
+
+415
+00:24:21,138 --> 00:24:23,698
+-Cops said no.
+-No to $30 million?
+
+416
+00:24:23,874 --> 00:24:27,002
+What kind of idiot
+says no to $30 million?
+
+417
+00:25:03,847 --> 00:25:05,405
+You again.
+
+418
+00:25:05,582 --> 00:25:08,779
+-Can I help you?
+-Actually, I'm here to help you.
+
+419
+00:25:08,952 --> 00:25:11,614
+There's not a lot of time though,
+somebody's trying to kill you.
+
+420
+00:25:13,257 --> 00:25:14,622
+You mind if I get my clothes?
+
+421
+00:25:17,194 --> 00:25:19,355
+And by the way, who are you?
+
+422
+00:25:19,530 --> 00:25:22,727
+-Grace Tanner's dead.
+-What?
+
+423
+00:25:22,900 --> 00:25:26,063
+-When?
+-About an hour ago.
+
+424
+00:25:27,271 --> 00:25:28,738
+-Slick Waters.
+-Has to be.
+
+425
+00:25:29,673 --> 00:25:31,698
+So now you think
+the guy's coming after me, huh?
+
+426
+00:25:31,875 --> 00:25:34,673
+Well, listen, I appreciate the heads up,
+but I can take care of myself.
+
+427
+00:25:34,845 --> 00:25:37,143
+Heh, look. You don't understand
+what you're dealing with.
+
+428
+00:25:37,314 --> 00:25:38,941
+Waters is no ordinary criminal.
+
+429
+00:25:39,116 --> 00:25:42,677
+He can liquefy.
+Wherever water can go, he can too.
+
+430
+00:25:42,853 --> 00:25:44,081
+Liquefy?
+
+431
+00:25:44,254 --> 00:25:45,585
+[REESE SCOFFS]
+
+432
+00:25:45,789 --> 00:25:48,257
+Like-- Like a liquid guy.
+
+433
+00:25:48,425 --> 00:25:49,756
+Is this a joke?
+
+434
+00:25:49,927 --> 00:25:53,294
+Your friends drowned on dry land.
+Waters escaped through a drain.
+
+435
+00:25:53,464 --> 00:25:56,024
+-Do you have a better explanation?
+-Is there actually a worse one?
+
+436
+00:25:56,200 --> 00:25:59,431
+Congratulations. You've managed
+to convince him you're totally insane.
+
+437
+00:25:59,603 --> 00:26:02,800
+Do you mind?
+I am trying to have a conversation here.
+
+438
+00:26:03,207 --> 00:26:08,372
+Oh, right, right, the invisible friend.
+I almost forgot about that part.
+
+439
+00:26:08,545 --> 00:26:11,139
+Look, I am just trying to help you.
+
+440
+00:26:11,315 --> 00:26:12,748
+Lady, you look.
+
+441
+00:26:12,916 --> 00:26:15,612
+I know a lot of strange things
+may happen here in New Gotham...
+
+442
+00:26:15,786 --> 00:26:19,381
+...but a guy made out of water?
+Come on, that's just ridiculous.
+
+443
+00:26:25,229 --> 00:26:26,696
+-Oracle, he's here.
+-Huntress?
+
+444
+00:26:31,268 --> 00:26:33,429
+BARBARA [O VER RADIO] :
+<i>Huntress, can you read me?</i>
+
+445
+00:26:35,672 --> 00:26:37,401
+<i>Huntress?</i>
+
+446
+00:26:41,178 --> 00:26:42,736
+<i>Huntress!</i>
+
+447
+00:26:47,284 --> 00:26:49,718
+Huntress, is there a fire extinguisher
+near you?
+
+448
+00:26:56,760 --> 00:27:00,127
+Listen to me,
+get the fire extinguisher and spray him.
+
+449
+00:27:12,242 --> 00:27:13,402
+[HELENA GRUNTS]
+
+450
+00:27:13,577 --> 00:27:14,976
+[BOTH GRUNTING]
+
+451
+00:27:39,836 --> 00:27:41,827
+Huntress, can you hear me?
+Are you all right?
+
+452
+00:27:42,005 --> 00:27:43,802
+Once I had an actual ass to kick,
+I was fine.
+
+453
+00:27:43,974 --> 00:27:45,635
+How'd you know
+the extinguisher would work?
+
+454
+00:27:45,809 --> 00:27:48,505
+I figured Slick had to reach
+a certain active molecular state...
+
+455
+00:27:48,679 --> 00:27:50,738
+...to be able to shift phases
+from solid to liquid.
+
+456
+00:27:50,914 --> 00:27:52,882
+HELENA [O VER RADIO] :
+<i>Speak English, please.</i>
+
+457
+00:27:53,050 --> 00:27:55,610
+Uh, cool him down, he's Solid Guy.
+
+458
+00:27:55,786 --> 00:27:57,253
+It's a temperature thing.
+
+459
+00:27:57,688 --> 00:27:58,950
+That-- That was....
+
+460
+00:27:59,122 --> 00:28:00,680
+I mean, he was....
+
+461
+00:28:00,857 --> 00:28:02,688
+-Is he still in there?
+-I don't know.
+
+462
+00:28:03,160 --> 00:28:04,650
+-Just get out of there.
+-We gotta go.
+
+463
+00:28:04,828 --> 00:28:07,763
+Now wait a minute,
+there's a murder suspect in there, um...
+
+464
+00:28:07,931 --> 00:28:10,798
+-...uh, possibly.
+-You gonna arrest him?
+
+465
+00:28:10,968 --> 00:28:12,196
+With what, a bucket?
+
+466
+00:28:12,369 --> 00:28:14,599
+Assuming he hasn't already
+gone down the drain.
+
+467
+00:28:16,273 --> 00:28:17,638
+HELENA:
+Go.
+
+468
+00:28:17,808 --> 00:28:19,969
+Huntress, talk to me.
+
+469
+00:28:21,311 --> 00:28:23,871
+I'm busy right now. Keep it closed.
+
+470
+00:28:24,047 --> 00:28:25,878
+[BANGING ON DOOR]
+
+471
+00:28:26,049 --> 00:28:27,107
+REESE:
+Oh, my--
+
+472
+00:28:31,221 --> 00:28:33,212
+[HISSING]
+
+473
+00:28:35,926 --> 00:28:37,359
+What the...?
+
+474
+00:28:37,527 --> 00:28:39,188
+It's a temperature thing.
+
+475
+00:28:39,630 --> 00:28:42,098
+HELENA: <i>It's hot. How long are we</i>
+<i>gonna have to stay in here?</i>
+
+476
+00:28:42,266 --> 00:28:44,530
+I need to come up with a way
+to disable this guy.
+
+477
+00:28:44,701 --> 00:28:48,102
+-It won't be long.
+-Better not be or I'm gonna melt.
+
+478
+00:28:48,272 --> 00:28:50,137
+Okay, so what?
+What, we're trapped in here now?
+
+479
+00:28:50,307 --> 00:28:52,502
+And when we go out there and he--?
+What, he gets us?
+
+480
+00:28:52,676 --> 00:28:56,976
+On the positive side,
+he comes in, he's air freshener.
+
+481
+00:28:57,147 --> 00:29:00,913
+Ha, ha. All right, um,
+what the hell is going on?
+
+482
+00:29:01,084 --> 00:29:04,850
+I mean, for all I know, you had something
+to do with Jack and Grace's deaths.
+
+483
+00:29:05,022 --> 00:29:06,717
+You don't believe that.
+
+484
+00:29:06,890 --> 00:29:09,415
+I don't know what to believe right now.
+
+485
+00:29:09,593 --> 00:29:11,823
+Not about you, about any of this.
+
+486
+00:29:11,995 --> 00:29:15,726
+What I just saw at that pool,
+that's not possible.
+
+487
+00:29:15,899 --> 00:29:20,063
+Funny, you strike me as the kind of guy
+that believes in the impossible.
+
+488
+00:29:20,237 --> 00:29:23,695
+Well, it's a little hard not to,
+when you're standing here talking to it.
+
+489
+00:29:24,708 --> 00:29:27,643
+Aren't you worried
+that I might tell somebody?
+
+490
+00:29:27,944 --> 00:29:30,310
+I mean, why are you letting me see you?
+
+491
+00:29:32,215 --> 00:29:34,911
+Because it was the only way
+I could save your life.
+
+492
+00:29:35,352 --> 00:29:38,253
+BARBARA: Stay put. You can't go out there
+until we know where this guy is.
+
+493
+00:29:38,422 --> 00:29:40,822
+-I'm working on a way to neutralize....
+-She's really worried.
+
+494
+00:29:40,991 --> 00:29:42,015
+Is Helena okay?
+
+495
+00:29:42,192 --> 00:29:44,592
+Oh, Miss Helena is remarkably capable.
+
+496
+00:29:44,761 --> 00:29:47,321
+She can take care of herself.
+
+497
+00:29:48,865 --> 00:29:50,958
+-Alfred?
+-Mm-hm?
+
+498
+00:29:51,134 --> 00:29:53,830
+My whole life, I grew up thinking...
+
+499
+00:29:54,004 --> 00:29:58,532
+...that there was no one like me.
+You know, that I was all alone.
+
+500
+00:29:58,909 --> 00:30:00,809
+Then I come here...
+
+501
+00:30:00,977 --> 00:30:03,138
+...and I finally meet someone
+who's like me.
+
+502
+00:30:03,313 --> 00:30:06,476
+You know, someone who I can admire
+and look up to.
+
+503
+00:30:08,485 --> 00:30:10,749
+Seems like all I can do is piss her off.
+
+504
+00:30:10,921 --> 00:30:15,255
+If I were you, I would be more concerned
+if Miss Helena weren't upset with you.
+
+505
+00:30:16,226 --> 00:30:17,488
+Why?
+
+506
+00:30:17,661 --> 00:30:19,925
+I've always found
+that how much someone cares about you...
+
+507
+00:30:20,097 --> 00:30:24,158
+...is directly proportional to how much
+you can piss them off, as it were.
+
+508
+00:30:24,334 --> 00:30:25,665
+[CHUCKLES]
+
+509
+00:30:27,971 --> 00:30:29,598
+This Slick guy...
+
+510
+00:30:29,773 --> 00:30:32,105
+...what if Barbara can't find a way
+for Helena to fight him?
+
+511
+00:30:32,943 --> 00:30:35,241
+They're superheroes, Miss Dinah.
+
+512
+00:30:35,412 --> 00:30:38,108
+They're familiar with tight situations.
+
+513
+00:30:42,119 --> 00:30:44,349
+Why is it so important to you to know...
+
+514
+00:30:44,521 --> 00:30:47,183
+...what goes on in New Gotham
+after nightfall?
+
+515
+00:30:47,357 --> 00:30:49,518
+Most people would do anything
+to convince themselves...
+
+516
+00:30:49,693 --> 00:30:52,321
+...the world is a safe, sane,
+and normal place.
+
+517
+00:30:52,963 --> 00:30:54,897
+But not you.
+
+518
+00:30:55,065 --> 00:30:57,260
+You're actually chasing the madness.
+
+519
+00:30:59,136 --> 00:31:00,501
+I've got my reasons.
+
+520
+00:31:01,638 --> 00:31:03,367
+I'm wondering what they are.
+
+521
+00:31:03,540 --> 00:31:07,340
+Heh. You know, you're not exactly
+the poster girl for full disclosure.
+
+522
+00:31:09,112 --> 00:31:10,636
+And what's that supposed to mean?
+
+523
+00:31:11,047 --> 00:31:13,140
+It means you're gonna have to keep
+right on wondering.
+
+524
+00:31:18,822 --> 00:31:21,188
+Look, I gotta get out of here.
+I'm on assignment tonight.
+
+525
+00:31:21,358 --> 00:31:22,382
+[CHUCKLES SOFTLY]
+
+526
+00:31:22,559 --> 00:31:24,959
+I don't think Slick gives a damn
+about our work schedule.
+
+527
+00:31:29,166 --> 00:31:30,394
+Someone can replace you.
+
+528
+00:31:30,867 --> 00:31:33,461
+You can't be the only honest cop
+in New Gotham.
+
+529
+00:31:33,637 --> 00:31:37,368
+No, I'm the only one left on tonight's detail.
+The other two are dead.
+
+530
+00:31:39,142 --> 00:31:42,703
+Wait a minute, Barnstone and Tanner
+were on tonight's detail with you?
+
+531
+00:31:44,114 --> 00:31:45,172
+Yeah.
+
+532
+00:31:46,583 --> 00:31:48,483
+Where are you supposed to be?
+
+533
+00:31:48,652 --> 00:31:50,347
+Reese was on a detail
+scheduled to escort...
+
+534
+00:31:50,520 --> 00:31:53,011
+...another transport
+of military weapons tonight.
+
+535
+00:31:53,190 --> 00:31:55,886
+It's the same deal as
+that attempted hijacking a few weeks ago.
+
+536
+00:31:56,059 --> 00:31:57,686
+The cargo is hardcore stuff:
+
+537
+00:31:57,861 --> 00:32:01,820
+surface-to-air missiles,
+flamethrowers, plastic explosives.
+
+538
+00:32:01,998 --> 00:32:04,091
+Enough firepower
+to start your own little war.
+
+539
+00:32:05,001 --> 00:32:06,901
+Looks like Slick wasn't in it for revenge.
+
+540
+00:32:07,070 --> 00:32:09,538
+HELENA: <i>If at first you don't succeed....</i>
+BARBARA: This time...
+
+541
+00:32:09,706 --> 00:32:11,640
+...they're killing the cops
+that can't be bought.
+
+542
+00:32:11,808 --> 00:32:14,675
+We have to assume whoever's taking
+Barnstone, Tanner and Reese's place...
+
+543
+00:32:14,845 --> 00:32:18,008
+-...is in Slick's pocket.
+HELENA: <i>Cops. What's the going rate?</i>
+
+544
+00:32:18,215 --> 00:32:20,206
+BARBARA:
+The cruiser assigned to guard the truck...
+
+545
+00:32:20,383 --> 00:32:22,510
+...has a standard-issue
+Gotham P.D. GPS locator.
+
+546
+00:32:22,686 --> 00:32:24,916
+It's been stationary the last five minutes.
+
+547
+00:32:25,088 --> 00:32:27,488
+Looks like that's our location.
+
+548
+00:32:27,657 --> 00:32:30,285
+Look, we still don't know
+how to stop Slick, Helena.
+
+549
+00:32:30,460 --> 00:32:31,859
+Be careful.
+
+550
+00:32:32,028 --> 00:32:33,052
+Well, I know one thing.
+
+551
+00:32:33,230 --> 00:32:35,824
+If he's off robbing a truck,
+he's not outside this door.
+
+552
+00:32:35,999 --> 00:32:39,127
+-That would stand to reason.
+-It's stuck.
+
+553
+00:32:39,402 --> 00:32:42,235
+He must have wedged it shut
+from the outside.
+
+554
+00:33:01,691 --> 00:33:05,127
+MAN: All right, guys, let's get
+these weapons out of the truck. Let's move.
+
+555
+00:33:10,700 --> 00:33:13,897
+Bulletproof, bombproof, fireproof...
+
+556
+00:33:14,604 --> 00:33:16,970
+...but not waterproof.
+
+557
+00:33:19,409 --> 00:33:20,535
+Huntress, what's your status?
+
+558
+00:33:20,710 --> 00:33:22,974
+HELENA: <i>We're in position,</i>
+<i>and we got here just in time...</i>
+
+559
+00:33:23,146 --> 00:33:24,704
+-<i>...to crash the party.</i>
+-Crash?
+
+560
+00:33:28,351 --> 00:33:30,114
+Hi, boys, can I play?
+
+561
+00:33:30,287 --> 00:33:32,448
+[ALL GRUNTING]
+
+562
+00:33:36,126 --> 00:33:38,117
+[BOTH GRUNTING]
+
+563
+00:33:41,097 --> 00:33:43,088
+[BOTH GRUNTING]
+
+564
+00:33:44,768 --> 00:33:46,827
+[ALL GRUNTING]
+
+565
+00:33:56,313 --> 00:33:58,304
+[BOTH GRUNTING]
+
+566
+00:34:02,719 --> 00:34:04,346
+[ALL GRUNTING]
+
+567
+00:34:11,227 --> 00:34:13,218
+[MAN GRUNTING]
+
+568
+00:34:22,038 --> 00:34:23,369
+[REESE GRUNTS]
+
+569
+00:34:24,841 --> 00:34:26,832
+Was it good for you?
+
+570
+00:34:27,010 --> 00:34:30,241
+Because it sure is for me.
+
+571
+00:34:40,357 --> 00:34:42,757
+[GAGGING NEARBY]
+
+572
+00:34:55,205 --> 00:34:57,196
+[REESE GAGGING]
+
+573
+00:35:07,817 --> 00:35:08,943
+[BOTH GRUNT]
+
+574
+00:35:18,495 --> 00:35:20,622
+[SLICK SCREECHING]
+
+575
+00:35:29,539 --> 00:35:30,563
+[THUD]
+
+576
+00:35:30,740 --> 00:35:32,731
+[PANTING]
+
+577
+00:35:35,845 --> 00:35:37,836
+[REESE COUGHING]
+
+578
+00:35:41,317 --> 00:35:42,648
+[SIGHS]
+
+579
+00:35:44,888 --> 00:35:46,116
+You okay, kid?
+
+580
+00:35:46,289 --> 00:35:48,757
+Yeah, yeah.
+
+581
+00:35:48,925 --> 00:35:51,689
+Um, I found Dinah.
+
+582
+00:35:51,861 --> 00:35:53,829
+What, there? Is she okay?
+
+583
+00:35:54,998 --> 00:35:57,728
+She's fine. She's...
+
+584
+00:35:57,901 --> 00:35:59,334
+...really great.
+
+585
+00:36:01,838 --> 00:36:03,169
+[SIGHS]
+
+586
+00:36:03,973 --> 00:36:05,201
+Then tell her she's grounded.
+
+587
+00:36:05,608 --> 00:36:07,007
+I guess this means I'm grounded.
+
+588
+00:36:08,078 --> 00:36:10,876
+Take the car back. I'll catch up.
+
+589
+00:36:12,215 --> 00:36:13,739
+Okay.
+
+590
+00:36:17,153 --> 00:36:19,144
+[COUGHING]
+
+591
+00:36:22,258 --> 00:36:23,885
+HELENA:
+You all right?
+
+592
+00:36:24,561 --> 00:36:27,052
+With which part, hmm?
+
+593
+00:36:27,230 --> 00:36:29,460
+Getting drowned by Liquid Guy?
+
+594
+00:36:29,966 --> 00:36:31,763
+Not knowing what's real anymore?
+
+595
+00:36:31,935 --> 00:36:34,904
+Or getting dehydrated
+from five hours in a sauna?
+
+596
+00:36:35,071 --> 00:36:37,198
+This was a slow night.
+
+597
+00:36:39,676 --> 00:36:42,645
+What the hell am I supposed to do
+with what I've just seen?
+
+598
+00:36:42,812 --> 00:36:44,006
+What, just forget about it?
+
+599
+00:36:44,781 --> 00:36:46,373
+If you talk, nobody's gonna believe you.
+
+600
+00:36:49,352 --> 00:36:50,546
+They will if you come with me.
+
+601
+00:36:51,387 --> 00:36:52,854
+Can't do that, Reese.
+
+602
+00:36:53,022 --> 00:36:54,421
+That's your world, not mine.
+
+603
+00:36:55,358 --> 00:36:57,417
+So then, we're right back
+where we started.
+
+604
+00:36:57,594 --> 00:37:00,392
+-You don't trust me?
+-You won't tell me who you are.
+
+605
+00:37:00,563 --> 00:37:02,463
+Or why you do what you do.
+
+606
+00:37:02,632 --> 00:37:05,362
+Right now, you're asking for more
+than I can give.
+
+607
+00:37:05,769 --> 00:37:07,600
+You saved my life and I'm grateful.
+
+608
+00:37:08,471 --> 00:37:10,405
+But gratitude is not the same as trust.
+
+609
+00:37:11,341 --> 00:37:14,833
+Can't you just tell me, who are you?
+
+610
+00:37:16,346 --> 00:37:18,075
+It's...
+
+611
+00:37:19,415 --> 00:37:20,541
+...complicated.
+
+612
+00:37:21,017 --> 00:37:23,076
+Look, Reese.
+
+613
+00:37:23,253 --> 00:37:26,245
+Sometimes you just have
+to make the leap...
+
+614
+00:37:26,589 --> 00:37:28,420
+...let go...
+
+615
+00:37:29,425 --> 00:37:30,449
+...and believe.
+
+616
+00:37:33,129 --> 00:37:34,460
+I wish I could.
+
+617
+00:37:46,276 --> 00:37:47,834
+Well?
+
+618
+00:37:48,478 --> 00:37:50,275
+-Dinah, l-- Heh.
+-Helena--
+
+619
+00:37:50,613 --> 00:37:52,103
+Let me go first.
+
+620
+00:37:52,816 --> 00:37:55,717
+I told you trust had to be earned
+and I was wrong.
+
+621
+00:37:55,885 --> 00:37:56,943
+Trust is a gift.
+
+622
+00:37:59,489 --> 00:38:01,980
+You were there for me
+when it mattered...
+
+623
+00:38:02,158 --> 00:38:03,420
+...for both of us.
+
+624
+00:38:04,494 --> 00:38:09,397
+And as for the rest of it,
+it's an act of faith believing in someone.
+
+625
+00:38:10,266 --> 00:38:11,961
+I believe in you.
+
+626
+00:38:12,702 --> 00:38:14,397
+Whatever your name is.
+
+627
+00:38:16,339 --> 00:38:18,102
+Redmond.
+
+628
+00:38:19,509 --> 00:38:22,137
+My name is Dinah Redmond...
+
+629
+00:38:22,512 --> 00:38:25,572
+...and I have been lying to you
+about everything.
+
+630
+00:38:26,850 --> 00:38:29,910
+My mother left me with foster parents
+when I was 6.
+
+631
+00:38:30,553 --> 00:38:34,216
+And they taught me to be ashamed
+of what I was...
+
+632
+00:38:34,390 --> 00:38:36,654
+...never to tell anyone...
+
+633
+00:38:36,826 --> 00:38:38,794
+...to hide it.
+
+634
+00:38:39,696 --> 00:38:44,326
+Then when I couldn't hide it anymore,
+they were gonna take me somewhere.
+
+635
+00:38:46,102 --> 00:38:47,967
+Somewhere to make my powers stop.
+
+636
+00:38:48,638 --> 00:38:51,163
+And I thought if I told you
+my real name...
+
+637
+00:38:51,341 --> 00:38:54,469
+...that you'd call them
+and they'd take me away.
+
+638
+00:38:55,545 --> 00:38:57,536
+Dinah, don't you ever wanna go home?
+
+639
+00:38:59,048 --> 00:39:01,915
+Being here with you...
+
+640
+00:39:02,085 --> 00:39:08,046
+...it is the only place I have ever,
+ever felt at home in my entire life.
+
+641
+00:39:15,164 --> 00:39:17,860
+Come on, kid, let's see
+what Alfred left us for dinner.
+
+642
+00:39:19,903 --> 00:39:21,336
+[CHUCKLES SOFTLY]
+
+643
+00:39:25,208 --> 00:39:29,042
+-You're still grounded.
+-Absolutely.
+
+644
+00:39:46,896 --> 00:39:48,659
+Barbara, what--?
+
+645
+00:39:48,831 --> 00:39:51,459
+I promised I'd make it up to you.
+
+646
+00:39:51,935 --> 00:39:53,459
+Heh, I....
+
+647
+00:39:53,636 --> 00:39:56,571
+I mean, I know it's not nearly
+as romantic...
+
+648
+00:39:56,739 --> 00:40:02,075
+...but I thought it might do
+as an apology.
+
+649
+00:40:02,245 --> 00:40:03,269
+Definitely.
+
+650
+00:40:03,446 --> 00:40:04,879
+[BOTH CHUCKLE]
+
+651
+00:40:08,618 --> 00:40:11,883
+It was weird,
+fighting side by side with Reese.
+
+652
+00:40:12,055 --> 00:40:14,023
+What was it like?
+
+653
+00:40:14,457 --> 00:40:16,391
+Kind of like...
+
+654
+00:40:16,726 --> 00:40:18,626
+...a first date.
+
+655
+00:40:19,028 --> 00:40:20,427
+Mm, yeah, I'd buy that.
+
+656
+00:40:20,596 --> 00:40:24,726
+Considering every time you get next to him
+you can't shut up.
+
+657
+00:40:25,668 --> 00:40:27,067
+Invisible friend.
+
+658
+00:40:27,236 --> 00:40:28,669
+[BOTH CHUCKLE]
+
+659
+00:40:28,838 --> 00:40:30,601
+He's really gotten under your skin,
+hasn't he?
+
+660
+00:40:31,074 --> 00:40:33,542
+You know guys don't get to me.
+
+661
+00:40:33,743 --> 00:40:37,270
+Besides, who has time
+for a real relationship anyway?
+
+662
+00:40:38,247 --> 00:40:39,305
+Yeah.
+
+663
+00:40:43,252 --> 00:40:46,380
+You know, I still can't figure it out.
+What did Slick want with that firepower?
+
+664
+00:40:46,556 --> 00:40:49,923
+You said it yourself.
+It's worth a fortune on the black market.
+
+665
+00:40:50,093 --> 00:40:51,458
+Yeah, but so are a lot of things...
+
+666
+00:40:51,627 --> 00:40:54,027
+...and for a guy like Slick,
+most of them are easier to steal.
+
+667
+00:40:54,197 --> 00:40:56,097
+So you think Slick was just a front man.
+
+668
+00:40:59,369 --> 00:41:01,132
+For who?
+
+669
+00:41:01,504 --> 00:41:02,971
+[KNOCKING ON DOOR]
+
+670
+00:41:07,810 --> 00:41:10,802
+Helena, what can I do for you?
+
+671
+00:41:11,481 --> 00:41:15,781
+I've been rethinking
+this whole do-everything-by-myself thing...
+
+672
+00:41:15,952 --> 00:41:18,284
+...and I've decided
+I want to continue therapy...
+
+673
+00:41:18,454 --> 00:41:21,082
+...even though I don't have to.
+
+674
+00:41:21,924 --> 00:41:25,360
+Maybe a little help
+sometimes isn't so bad.
+
+675
+00:41:25,528 --> 00:41:28,326
+Please, come in.
+
+676
+00:41:36,305 --> 00:41:38,170
+HELENA:
+I met a guy.
+
+677
+00:41:38,341 --> 00:41:40,605
+Why don't you tell me about him.
+
+678
+00:42:49,078 --> 00:42:51,069
+[ENGLISH SDH]
+

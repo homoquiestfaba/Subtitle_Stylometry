@@ -1,0 +1,7240 @@
+﻿1
+00:00:16,484 --> 00:00:18,686
+[News theme plays]
+
+2
+00:00:18,686 --> 00:00:19,920
+[Sirens blaring]
+
+3
+00:00:19,920 --> 00:00:21,889
+A government document
+released on Thursday
+
+4
+00:00:21,889 --> 00:00:23,924
+reports that air traffic
+control errors
+
+5
+00:00:23,924 --> 00:00:26,060
+have increased sharply.
+
+6
+00:00:26,060 --> 00:00:27,728
+The faa is developing
+
+7
+00:00:27,728 --> 00:00:29,530
+a high-tech satellite network
+
+8
+00:00:29,530 --> 00:00:31,532
+that will take the danger
+out of flying.
+
+9
+00:00:31,532 --> 00:00:33,934
+Interviewee: The acat
+is already handling
+
+10
+00:00:33,934 --> 00:00:36,337
+the majority
+of military traffic
+
+11
+00:00:36,337 --> 00:00:38,939
+with a perfect safety record,
+
+12
+00:00:38,939 --> 00:00:41,575
+which will benefit
+civilian travel.
+
+13
+00:00:41,575 --> 00:00:43,777
+Reporter: Critics call
+the new acat system
+
+14
+00:00:43,777 --> 00:00:46,447
+an expensive boondoggle
+that will make us less safe,
+
+15
+00:00:46,447 --> 00:00:48,349
+charging the faa
+gave its approval
+
+16
+00:00:48,349 --> 00:00:51,919
+despite a limited test period.
+
+17
+00:00:51,919 --> 00:00:53,721
+Will the new acat system
+
+18
+00:00:53,721 --> 00:00:55,423
+eliminate human error
+
+19
+00:00:55,423 --> 00:00:59,360
+and make air travel safer
+and more efficient?
+
+20
+00:00:59,360 --> 00:01:00,828
+I guess we'll find out Monday
+
+21
+00:01:00,828 --> 00:01:02,363
+when the acat satellite network
+
+22
+00:01:02,363 --> 00:01:03,997
+takes control over the skies
+of the eastern seaboard,
+
+23
+00:01:03,997 --> 00:01:07,135
+one of the world's
+busiest regions.
+
+24
+00:01:07,135 --> 00:01:08,336
+Technician: ...2, 1.
+
+25
+00:01:08,336 --> 00:01:09,603
+Reporter: The acat satellite
+
+26
+00:01:09,603 --> 00:01:12,573
+will launch today
+from cape canaveral.
+
+27
+00:01:33,761 --> 00:01:35,396
+[Rock music playing]
+
+28
+00:01:43,271 --> 00:01:50,178
+* listen, pain
+has found us once again *
+
+29
+00:01:53,447 --> 00:01:54,415
+[music stops]
+
+30
+00:02:00,988 --> 00:02:03,191
+[Overlapping chatter]
+
+31
+00:02:05,025 --> 00:02:07,361
+Region control,
+this is Cleveland.
+
+32
+00:02:07,361 --> 00:02:08,496
+[Beeps]
+
+33
+00:02:08,496 --> 00:02:10,464
+I got a broken
+satellite link
+that's, um,
+
+34
+00:02:10,464 --> 00:02:13,201
+affecting
+communications.
+
+35
+00:02:13,201 --> 00:02:15,203
+I'm worried
+this could be
+a malfunction
+
+36
+00:02:15,203 --> 00:02:16,670
+with
+the acat system.
+
+37
+00:02:16,670 --> 00:02:17,471
+Request
+permission
+
+38
+00:02:17,471 --> 00:02:19,473
+to ground
+all air traffic.
+
+39
+00:02:19,473 --> 00:02:21,675
+Region: Negative.
+We're handling the issue.
+
+40
+00:02:21,675 --> 00:02:23,043
+Local only.
+
+41
+00:02:23,043 --> 00:02:25,446
+Uh, region,
+we are local.
+
+42
+00:02:25,446 --> 00:02:28,549
+Bob, we're handling
+the issue. Over.
+
+43
+00:02:29,783 --> 00:02:30,751
+[Sighs]
+
+44
+00:02:32,820 --> 00:02:34,488
+Region, this is
+Cleveland again.
+
+45
+00:02:34,488 --> 00:02:36,757
+Look,
+this local issue, Stan,
+
+46
+00:02:36,757 --> 00:02:39,293
+is now affecting
+Washington, D.C.,
+to Cleveland.
+
+47
+00:02:39,293 --> 00:02:41,529
+There's reports
+of airborne debris
+
+48
+00:02:41,529 --> 00:02:44,232
+that's coming down
+in our sector.
+
+49
+00:02:44,232 --> 00:02:46,734
+Look, I need to bring
+those planes down.
+
+50
+00:02:46,734 --> 00:02:49,036
+Bob, you've had
+it out for the acat
+from the beginning.
+
+51
+00:02:49,036 --> 00:02:50,871
+Oh, come on, Stan.
+
+52
+00:02:50,871 --> 00:02:54,074
+I gotta bring
+these planes down.
+It is not safe.
+
+53
+00:02:54,074 --> 00:02:55,776
+Orders stand.
+Sorry, Bob.
+
+54
+00:02:55,776 --> 00:02:57,645
+Damn.
+
+55
+00:02:59,380 --> 00:03:01,315
+Hell of a day to start
+your internship, huh?
+
+56
+00:03:01,315 --> 00:03:02,316
+[Chuckles]
+Yeah.
+
+57
+00:03:02,316 --> 00:03:03,784
+Stan: Bob,
+I just got word.
+
+58
+00:03:03,784 --> 00:03:05,519
+Air force one is
+prepared for takeoff.
+
+59
+00:03:05,519 --> 00:03:07,988
+Listen, I can't
+send the president
+out in this.
+
+60
+00:03:07,988 --> 00:03:10,324
+That plane
+is a fortress.
+
+61
+00:03:10,324 --> 00:03:12,260
+The acat is
+in full control.
+
+62
+00:03:14,762 --> 00:03:15,729
+Damn.
+
+63
+00:03:17,565 --> 00:03:19,066
+Air force one,
+
+64
+00:03:19,066 --> 00:03:21,469
+you are cleared
+for takeoff,
+
+65
+00:03:21,469 --> 00:03:23,371
+runway 27.
+
+66
+00:03:23,371 --> 00:03:25,273
+Acknowledged,
+Cleveland.
+
+67
+00:03:34,415 --> 00:03:36,116
+I could swear
+this computer's
+
+68
+00:03:36,116 --> 00:03:37,751
+giving us
+the hairy eyeball.
+
+69
+00:03:40,020 --> 00:03:42,290
+Thinks it
+doesn't need us.
+
+70
+00:03:44,858 --> 00:03:46,026
+Another long one, huh?
+
+71
+00:03:46,026 --> 00:03:47,795
+Whoa. I tell you
+it really was. Heh.
+
+72
+00:03:47,795 --> 00:03:49,763
+You know,
+if that senator
+calls me again,
+
+73
+00:03:49,763 --> 00:03:51,732
+i--obviously
+I don't know
+what to tell him.
+
+74
+00:03:51,732 --> 00:03:54,335
+Well, he's always been
+long-winded, sweetheart.
+
+75
+00:03:54,335 --> 00:03:56,770
+Yeah, he's
+very persistent,
+you know.
+
+76
+00:03:56,770 --> 00:03:58,005
+These--
+
+77
+00:03:58,005 --> 00:04:00,341
+dad, why did
+the computer
+
+78
+00:04:00,341 --> 00:04:01,609
+treat me like
+a complete terrorist
+
+79
+00:04:01,609 --> 00:04:03,344
+when I tried to use
+the bathroom?
+
+80
+00:04:03,344 --> 00:04:05,779
+Sweetie,
+it's just biometrics.
+
+81
+00:04:05,779 --> 00:04:07,915
+Honey, please don't
+say, "terrorist."
+
+82
+00:04:07,915 --> 00:04:09,883
+Whatever.
+
+83
+00:04:11,585 --> 00:04:13,354
+Good evening,
+Mr. President,
+
+84
+00:04:13,354 --> 00:04:15,155
+Mrs. Phillips,
+milani.
+
+85
+00:04:15,155 --> 00:04:17,057
+Welcome aboard.
+Thank you.
+
+86
+00:04:17,057 --> 00:04:18,459
+We've completed
+our upgrades.
+
+87
+00:04:18,459 --> 00:04:19,660
+Your acat
+documentation, sir.
+
+88
+00:04:19,660 --> 00:04:21,362
+Thank you, Joan.
+
+89
+00:04:21,362 --> 00:04:22,663
+After our upgrades,
+
+90
+00:04:22,663 --> 00:04:24,231
+air force one's
+a whole new plane.
+
+91
+00:04:24,231 --> 00:04:26,099
+Wow. Can I get a tour?
+
+92
+00:04:26,099 --> 00:04:28,035
+I'd be delighted
+miss Phillips.
+
+93
+00:04:28,035 --> 00:04:29,202
+Cool.
+
+94
+00:04:29,202 --> 00:04:30,938
+I expect
+a full report.
+
+95
+00:04:32,740 --> 00:04:34,107
+[Laughs]
+
+96
+00:04:34,107 --> 00:04:35,843
+Sir, please prepare
+for takeoff.
+
+97
+00:04:35,843 --> 00:04:37,077
+President: Thank you, Joan.
+
+98
+00:04:37,077 --> 00:04:38,779
+Mrs. Phillips:
+Thank you, Joan.
+
+99
+00:04:38,779 --> 00:04:40,180
+Here we go.
+
+100
+00:04:40,180 --> 00:04:41,982
+Just relax.
+
+101
+00:04:50,658 --> 00:04:51,992
+Sir...
+
+102
+00:04:51,992 --> 00:04:53,193
+Is everything okay?
+
+103
+00:04:53,193 --> 00:04:54,462
+Let's hope I'm wrong
+
+104
+00:04:54,462 --> 00:04:56,364
+and it's all
+smooth sailing from here.
+
+105
+00:04:56,364 --> 00:04:58,932
+Boy, oh, boy.
+I tell you.
+
+106
+00:05:01,769 --> 00:05:03,504
+[Crowd screams]
+
+107
+00:05:37,905 --> 00:05:39,640
+What is this stuff?
+
+108
+00:05:43,411 --> 00:05:44,912
+Come on, Bob.
+Pick up.
+
+109
+00:05:44,912 --> 00:05:46,714
+[Line rings]
+
+110
+00:05:46,714 --> 00:05:49,316
+[Sighs] Man.
+
+111
+00:05:49,316 --> 00:05:51,419
+[Vibrating]
+
+112
+00:05:57,290 --> 00:05:58,526
+I'll take
+this outside.
+
+113
+00:05:58,526 --> 00:06:00,227
+I'll be back
+in five.
+
+114
+00:06:00,227 --> 00:06:02,896
+Hey, Toni,
+is everything okay?
+
+115
+00:06:02,896 --> 00:06:06,600
+Hey. Uh, I don't
+have a good feeling
+about this.
+
+116
+00:06:06,600 --> 00:06:08,436
+I don't know
+if you heard.
+
+117
+00:06:08,436 --> 00:06:10,337
+A satellite came down
+near the river.
+
+118
+00:06:10,337 --> 00:06:12,272
+I think I found
+part of the acat.
+
+119
+00:06:12,272 --> 00:06:14,475
+Bob: It can't be
+part of the acat.
+
+120
+00:06:14,475 --> 00:06:16,309
+No, no.
+It's impossible.
+
+121
+00:06:16,309 --> 00:06:18,245
+Well, it's hard to tell.
+
+122
+00:06:18,245 --> 00:06:19,447
+It's badly burned.
+
+123
+00:06:19,447 --> 00:06:21,615
+Look, I scanned all
+the morning reports.
+
+124
+00:06:21,615 --> 00:06:23,316
+There was nothing
+about a--
+
+125
+00:06:23,316 --> 00:06:25,252
+a rogue satellite
+falling to earth.
+
+126
+00:06:25,252 --> 00:06:28,021
+Well, it didn't
+just appear.
+
+127
+00:06:30,090 --> 00:06:32,926
+Look, I need
+to be 100% sure,
+
+128
+00:06:32,926 --> 00:06:35,829
+because if it's a part
+of the acat system,
+
+129
+00:06:35,829 --> 00:06:37,731
+then I gotta notify
+the Pentagon,
+
+130
+00:06:37,731 --> 00:06:39,833
+and that's not
+an easy call
+to take back.
+
+131
+00:06:39,833 --> 00:06:41,902
+They should
+have listened
+to you, Bob.
+
+132
+00:06:41,902 --> 00:06:45,706
+Point is we need to know
+for sure if it's the acat.
+
+133
+00:06:46,707 --> 00:06:49,510
+This is just like
+you predicted.
+
+134
+00:06:49,510 --> 00:06:52,480
+Yeah, well,
+let's hope I'm wrong.
+
+135
+00:06:53,514 --> 00:06:57,250
+Look, give me about
+an hour to confirm.
+
+136
+00:06:57,250 --> 00:06:59,052
+Look, thanks for
+calling, antonia.
+
+137
+00:06:59,052 --> 00:07:00,588
+I gotta run.
+
+138
+00:07:00,588 --> 00:07:02,823
+I got an intern.
+
+139
+00:07:02,823 --> 00:07:04,492
+Sure.
+
+140
+00:07:28,516 --> 00:07:30,651
+Bob: Americana blue 23,
+
+141
+00:07:30,651 --> 00:07:32,119
+traffic 200 miles--
+
+142
+00:07:32,119 --> 00:07:33,286
+air force one.
+
+143
+00:07:33,286 --> 00:07:34,822
+Maintaining
+visual scans.
+
+144
+00:07:34,822 --> 00:07:36,624
+What an honor.
+
+145
+00:07:36,624 --> 00:07:39,560
+Sharing the skies with
+air force one herself.
+
+146
+00:07:42,596 --> 00:07:44,164
+Both be in Detroit.
+
+147
+00:07:44,164 --> 00:07:47,535
+Maybe I'll drop off
+that astronaut application.
+
+148
+00:07:49,236 --> 00:07:50,203
+Ohh.
+
+149
+00:07:58,345 --> 00:07:59,446
+Sir, your pillow.
+
+150
+00:07:59,446 --> 00:08:01,214
+Thank you, ma'am.
+Blanket?
+
+151
+00:08:01,214 --> 00:08:02,916
+Sure. Thanks.
+
+152
+00:08:02,916 --> 00:08:04,785
+Woman: Really
+don't like flying.
+
+153
+00:08:04,785 --> 00:08:07,855
+It's gonna be okay.
+You all right?
+
+154
+00:08:07,855 --> 00:08:08,656
+It's not like--
+
+155
+00:08:08,656 --> 00:08:11,692
+hey, I do this
+all the time.
+
+156
+00:08:11,692 --> 00:08:14,094
+See? It's gonna be fine.
+
+157
+00:08:14,094 --> 00:08:15,963
+Blanket?
+
+158
+00:08:15,963 --> 00:08:17,197
+Here.
+
+159
+00:08:17,197 --> 00:08:18,566
+Sir, would you
+like a blanket?
+
+160
+00:08:18,566 --> 00:08:19,567
+Thank you.
+
+161
+00:08:19,567 --> 00:08:20,701
+Hang on, okay?
+
+162
+00:08:20,701 --> 00:08:21,902
+Ohh.
+
+163
+00:08:23,571 --> 00:08:25,472
+Uh, I'll need access
+to that bag.
+
+164
+00:08:25,472 --> 00:08:27,374
+Okay. I'm just
+gonna put it right here.
+
+165
+00:08:27,374 --> 00:08:29,009
+Okay. Uh,
+just one second.
+
+166
+00:08:31,444 --> 00:08:32,780
+Thanks.
+
+167
+00:08:46,326 --> 00:08:49,262
+Hey, d-do you
+have markers?
+
+168
+00:08:49,262 --> 00:08:50,864
+Oh, I've got a pen.
+
+169
+00:08:54,868 --> 00:08:56,436
+Oh, excuse me.
+I'm really warm.
+
+170
+00:08:56,436 --> 00:08:57,605
+Why is it so stuffy?
+
+171
+00:08:57,605 --> 00:08:59,372
+Here you go.
+
+172
+00:08:59,372 --> 00:09:01,909
+[Air hissing]
+Thank you.
+
+173
+00:09:01,909 --> 00:09:05,112
+Excuse me.
+Do you have any magazines
+on fishing?
+
+174
+00:09:05,112 --> 00:09:06,479
+Let me check.
+Thanks.
+
+175
+00:09:06,479 --> 00:09:07,615
+Could you get me
+a pillow?
+
+176
+00:09:07,615 --> 00:09:08,616
+Of course.
+
+177
+00:09:08,616 --> 00:09:10,017
+Thanks.
+
+178
+00:09:10,017 --> 00:09:11,051
+[Can opens]
+
+179
+00:09:11,051 --> 00:09:13,621
+Bloody Mary for 3b.
+
+180
+00:09:13,621 --> 00:09:16,289
+Heh. Whatever happened
+to rum and coke?
+
+181
+00:09:16,289 --> 00:09:17,925
+[Chuckles]
+
+182
+00:09:21,494 --> 00:09:23,631
+Thank you.
+
+183
+00:09:24,497 --> 00:09:26,099
+Hey, what can I
+get for you?
+
+184
+00:09:26,099 --> 00:09:28,068
+[Thunder crashing]
+
+185
+00:09:32,539 --> 00:09:35,909
+Air force one,
+acat update.
+
+186
+00:09:35,909 --> 00:09:38,646
+Be advised
+some systems
+may be affected.
+
+187
+00:09:38,646 --> 00:09:41,749
+Acknowledged,
+Cleveland.
+
+188
+00:09:44,084 --> 00:09:46,887
+Copilot: I don't trust
+this acat to fly our plane.
+
+189
+00:09:46,887 --> 00:09:48,689
+Just don't spill
+any coffee on it.
+
+190
+00:09:48,689 --> 00:09:50,658
+Might start a war.
+
+191
+00:09:51,659 --> 00:09:53,927
+Climbing
+to level 29.
+
+192
+00:09:57,865 --> 00:10:00,668
+The auto-controlled
+anti-threat program,
+
+193
+00:10:00,668 --> 00:10:02,035
+or acat for short,
+can deploy
+
+194
+00:10:02,035 --> 00:10:04,972
+a wide range
+of lethal and
+nonlethal weapons.
+
+195
+00:10:08,441 --> 00:10:10,878
+Wow. This plane
+is amazing.
+
+196
+00:10:10,878 --> 00:10:13,046
+I know it better
+than anyone.
+
+197
+00:10:14,782 --> 00:10:17,951
+Why are you so interested
+all of a sudden?
+
+198
+00:10:17,951 --> 00:10:20,821
+Gotta maintain
+my street cred.
+Hmm.
+
+199
+00:10:20,821 --> 00:10:23,090
+First daughter
+has to brag about
+air force one.
+
+200
+00:10:24,291 --> 00:10:25,859
+What's his name?
+
+201
+00:10:25,859 --> 00:10:27,460
+Gage.
+
+202
+00:10:27,460 --> 00:10:28,962
+I bet he's cute.
+
+203
+00:10:28,962 --> 00:10:30,163
+Yeah.
+Yeah.
+
+204
+00:10:30,163 --> 00:10:31,298
+He loves planes.
+
+205
+00:10:32,365 --> 00:10:34,267
+Milani.
+Sandwiches?
+
+206
+00:10:34,267 --> 00:10:36,269
+Hey, Lee.
+Staff sergeant.
+
+207
+00:10:36,269 --> 00:10:37,671
+Gentlemen.
+
+208
+00:10:41,408 --> 00:10:43,711
+[Door beeps]
+
+209
+00:10:43,711 --> 00:10:45,545
+Did we just bust them
+getting sandwiches?
+
+210
+00:10:45,545 --> 00:10:47,848
+Sweetie,
+when your dad's
+on a diet,
+
+211
+00:10:47,848 --> 00:10:49,582
+we're all
+on a diet.
+
+212
+00:10:49,582 --> 00:10:51,118
+He's not
+a king.
+
+213
+00:10:51,118 --> 00:10:53,120
+I'm gonna show you
+something really cool.
+
+214
+00:10:54,922 --> 00:10:56,990
+So did you see
+who's working
+the route with us?
+
+215
+00:10:56,990 --> 00:11:00,160
+Heh. Yeah, that's
+a low-probability target.
+
+216
+00:11:01,628 --> 00:11:03,731
+But a man's gotta try.
+
+217
+00:11:04,732 --> 00:11:06,734
+Go get your coffee.
+
+218
+00:11:21,448 --> 00:11:24,484
+Uh, hi.
+
+219
+00:11:24,484 --> 00:11:26,386
+Hi, Ken.
+
+220
+00:11:26,386 --> 00:11:30,891
+So what's the difference
+between captain Simms
+and a jet engine?
+
+221
+00:11:32,159 --> 00:11:35,395
+A jet engine stops whining
+once it lands.
+
+222
+00:11:35,395 --> 00:11:37,264
+[Chuckles]
+
+223
+00:11:39,266 --> 00:11:42,269
+Um, coffee, I guess.
+
+224
+00:11:42,269 --> 00:11:43,804
+Oh, of course. Sure.
+
+225
+00:12:01,554 --> 00:12:03,190
+Let me know if you
+need a refill.
+
+226
+00:12:20,173 --> 00:12:24,511
+So how'd it go with
+your in-flight girlfriend?
+
+227
+00:12:24,511 --> 00:12:27,347
+Simms,
+you wouldn't understand.
+
+228
+00:12:27,347 --> 00:12:28,849
+Neither will you
+unless you
+
+229
+00:12:28,849 --> 00:12:30,650
+grow some balls
+and ask her out.
+
+230
+00:12:30,650 --> 00:12:34,654
+Bob: Ab 23, ascend
+to flight level 27.
+
+231
+00:12:34,654 --> 00:12:37,925
+Roger that.
+Climbing to level 27.
+
+232
+00:12:37,925 --> 00:12:40,127
+Sir, could you please
+explain what you did
+
+233
+00:12:40,127 --> 00:12:42,095
+with your traffic control
+for those planes?
+
+234
+00:12:42,095 --> 00:12:45,598
+Look, why don't
+you show me what you
+think I just said?
+
+235
+00:12:45,598 --> 00:12:48,168
+Okay. Both planes
+are headed for Detroit.
+
+236
+00:12:48,168 --> 00:12:50,170
+Americana blue enters
+our sector here.
+
+237
+00:12:50,170 --> 00:12:52,005
+Air force one
+enters here.
+
+238
+00:12:52,005 --> 00:12:54,942
+Ehh. That should
+never happen.
+
+239
+00:12:54,942 --> 00:12:56,409
+That's why you told
+americana blue to climb.
+
+240
+00:12:56,409 --> 00:12:58,846
+Exactly.
+
+241
+00:13:04,651 --> 00:13:07,020
+Oh, lord.
+What's happening now?
+
+242
+00:13:45,358 --> 00:13:47,961
+[Sirens blaring]
+
+243
+00:13:50,797 --> 00:13:52,132
+I can't believe
+these reports coming in.
+
+244
+00:13:52,132 --> 00:13:54,367
+There are satellites
+dropping everywhere.
+
+245
+00:13:54,367 --> 00:13:56,703
+This is way bigger
+than n.A.S. Thinks
+it is.
+
+246
+00:13:56,703 --> 00:13:58,305
+I gotta bring
+these planes down.
+
+247
+00:13:59,439 --> 00:14:01,041
+Hey, everybody.
+
+248
+00:14:01,041 --> 00:14:02,542
+All planes are grounded.
+
+249
+00:14:03,911 --> 00:14:06,813
+I'll take
+full responsibility.
+
+250
+00:14:06,813 --> 00:14:10,250
+Region,
+this is Cleveland.
+I'm overriding.
+
+251
+00:14:10,250 --> 00:14:11,718
+Air force one
+is cleared through.
+
+252
+00:14:11,718 --> 00:14:14,121
+Do not impede
+the president.
+
+253
+00:14:14,121 --> 00:14:15,488
+Listen, I can't
+take the risk.
+
+254
+00:14:15,488 --> 00:14:16,924
+The risk is too high.
+
+255
+00:14:16,924 --> 00:14:18,725
+Not your call, Bob.
+Stand down,
+
+256
+00:14:18,725 --> 00:14:20,961
+or we will
+remove you.
+
+257
+00:14:22,362 --> 00:14:23,330
+Bob: Hang tight.
+
+258
+00:14:23,330 --> 00:14:25,432
+I'm going outside
+to make a call.
+
+259
+00:14:25,432 --> 00:14:26,433
+[Line ringing]
+
+260
+00:14:26,433 --> 00:14:27,935
+Come on. Pick up.
+
+261
+00:14:45,518 --> 00:14:47,220
+[Dials]
+
+262
+00:14:48,688 --> 00:14:50,157
+Bob, great. It's you.
+
+263
+00:14:50,157 --> 00:14:52,525
+I don't have
+the best coverage
+out here, but, um,
+
+264
+00:14:52,525 --> 00:14:55,528
+it sure is.
+It's a--it's a piece
+of the acat satellite.
+
+265
+00:14:55,528 --> 00:14:58,765
+Yeah, we've already
+experienced
+the window.
+
+266
+00:14:58,765 --> 00:14:59,832
+Wait. You're dark?
+
+267
+00:14:59,832 --> 00:15:02,335
+No control.
+
+268
+00:15:02,335 --> 00:15:03,536
+The planes?
+
+269
+00:15:03,536 --> 00:15:06,339
+Grounded with
+few stragglers.
+
+270
+00:15:06,339 --> 00:15:07,740
+Ah, damn it.
+
+271
+00:15:07,740 --> 00:15:08,976
+It's the worst-case
+scenario,
+
+272
+00:15:08,976 --> 00:15:10,110
+just like you predicted.
+
+273
+00:15:10,110 --> 00:15:13,213
+No. It's worse,
+antonia.
+
+274
+00:15:13,213 --> 00:15:14,982
+Uh, what are you thinking?
+
+275
+00:15:14,982 --> 00:15:17,617
+Listen, how close
+is tamarack Ridge?
+
+276
+00:15:17,617 --> 00:15:20,420
+Uh, 20 miles, maybe.
+
+277
+00:15:20,420 --> 00:15:23,023
+Well, you need
+to get there
+in 30 minutes.
+
+278
+00:15:23,023 --> 00:15:24,257
+There's a tower there.
+
+279
+00:15:24,257 --> 00:15:26,759
+You need to mux
+an analog signal
+
+280
+00:15:26,759 --> 00:15:28,795
+and create
+a shared medium.
+
+281
+00:15:28,795 --> 00:15:30,630
+Why? What--
+
+282
+00:15:30,630 --> 00:15:34,067
+go home and bring
+your demux computers,
+pre-1980s.
+
+283
+00:15:34,067 --> 00:15:36,703
+We need to band
+the signals together.
+
+284
+00:15:36,703 --> 00:15:38,638
+If I can get the signal
+strong enough,
+
+285
+00:15:38,638 --> 00:15:41,074
+I could talk
+to americana blue 23.
+
+286
+00:15:41,074 --> 00:15:43,643
+Is one of the planes
+flying blind?
+
+287
+00:15:43,643 --> 00:15:45,178
+Yeah,
+there's another one.
+
+288
+00:15:46,146 --> 00:15:48,048
+But look, I can't
+talk about it
+
+289
+00:15:48,048 --> 00:15:50,050
+on this line.
+It's not secure.
+
+290
+00:15:50,050 --> 00:15:52,285
+Antonia? Antonia?
+[Static]
+
+291
+00:15:52,285 --> 00:15:54,021
+Bob. Bob!
+
+292
+00:15:54,021 --> 00:15:55,622
+Antonia?
+
+293
+00:15:55,622 --> 00:15:56,789
+Antonia?
+
+294
+00:15:56,789 --> 00:15:58,258
+Bob, are you there?
+
+295
+00:15:58,258 --> 00:15:59,726
+[Beeps]
+
+296
+00:16:04,931 --> 00:16:07,467
+Toni,
+can you hear me?
+
+297
+00:16:14,207 --> 00:16:15,708
+...just adjust
+the altitude accordingly.
+
+298
+00:16:15,708 --> 00:16:17,077
+Okay.
+
+299
+00:16:17,077 --> 00:16:19,779
+Well, this completes
+our tour of air force one,
+
+300
+00:16:19,779 --> 00:16:21,648
+at least what
+I can share with you.
+
+301
+00:16:21,648 --> 00:16:23,716
+That's so cool.
+I cannot wait
+to tell Gage.
+
+302
+00:16:23,716 --> 00:16:25,385
+And you have
+to tell me what he says.
+
+303
+00:16:25,385 --> 00:16:27,420
+I will.
+Especially the part--
+
+304
+00:16:27,420 --> 00:16:28,588
+he's gonna love--
+
+305
+00:16:28,588 --> 00:16:29,756
+[booming]
+
+306
+00:16:40,767 --> 00:16:41,768
+What is this?
+
+307
+00:16:41,768 --> 00:16:43,770
+A severe
+electrical storm?
+
+308
+00:16:45,072 --> 00:16:46,073
+"Severe electrical storm"
+
+309
+00:16:46,073 --> 00:16:48,075
+is one way to put it.
+
+310
+00:16:48,075 --> 00:16:51,078
+That or
+the second coming.
+
+311
+00:16:56,083 --> 00:16:57,750
+What's going on?
+
+312
+00:16:57,750 --> 00:16:59,452
+Let's get you back
+to the suite.
+
+313
+00:17:04,457 --> 00:17:05,492
+[Alarms blaring]
+
+314
+00:17:05,492 --> 00:17:07,827
+Possible impact.
+
+315
+00:17:07,827 --> 00:17:09,129
+Some systems are down.
+
+316
+00:17:09,129 --> 00:17:10,363
+Emergency sequence.
+
+317
+00:17:10,363 --> 00:17:12,432
+Engage acat.
+
+318
+00:17:18,838 --> 00:17:20,773
+All right,
+acat engaged.
+
+319
+00:17:20,773 --> 00:17:22,175
+Proximity clear.
+
+320
+00:17:23,343 --> 00:17:26,113
+I'm sure it'll
+be just fine.
+
+321
+00:17:26,113 --> 00:17:27,147
+You be careful.
+
+322
+00:17:27,147 --> 00:17:28,315
+Thanks, milani.
+
+323
+00:17:34,387 --> 00:17:37,290
+Nav's got her
+under control. Damage?
+
+324
+00:17:37,290 --> 00:17:41,261
+Onboard outbound
+communication's
+100% damaged, sir.
+
+325
+00:17:41,261 --> 00:17:42,995
+We're not talking
+to anybody.
+
+326
+00:17:42,995 --> 00:17:44,364
+Hull status?
+
+327
+00:17:45,665 --> 00:17:47,033
+Hull's intact.
+
+328
+00:17:47,033 --> 00:17:50,237
+Must have been some kind
+of lightning strike, sir.
+
+329
+00:17:53,206 --> 00:17:56,309
+Cleveland control,
+please respond.
+
+330
+00:17:56,309 --> 00:17:58,345
+Nothing.
+The acat's got it.
+
+331
+00:17:58,345 --> 00:17:59,379
+Go down to
+communications control
+
+332
+00:17:59,379 --> 00:18:01,514
+and see what you
+can find out.
+
+333
+00:18:01,514 --> 00:18:03,183
+Roger that.
+
+334
+00:18:05,152 --> 00:18:07,787
+Malfunction, colonel.
+It's locked.
+
+335
+00:18:07,787 --> 00:18:09,556
+Attempting
+a manual override.
+
+336
+00:18:11,691 --> 00:18:14,194
+Nothing.
+It's locked up.
+
+337
+00:18:20,500 --> 00:18:23,470
+My controls, sir,
+they're not responding.
+
+338
+00:18:24,704 --> 00:18:26,439
+Stage two,
+manual override.
+
+339
+00:18:28,341 --> 00:18:29,642
+Nothing.
+
+340
+00:18:29,642 --> 00:18:32,745
+Bob: Air force one,
+acat malfunction.
+
+341
+00:18:32,745 --> 00:18:34,847
+You must override
+the system.
+
+342
+00:18:34,847 --> 00:18:36,416
+Damn it.
+
+343
+00:18:36,416 --> 00:18:37,450
+What?
+
+344
+00:18:38,985 --> 00:18:40,453
+Air force one.
+
+345
+00:18:40,453 --> 00:18:41,954
+Come in, air force one.
+This is Cleveland.
+
+346
+00:18:41,954 --> 00:18:43,190
+Air force one, respond.
+
+347
+00:18:43,190 --> 00:18:44,757
+But the Pentagon said
+not to do that.
+
+348
+00:18:44,757 --> 00:18:45,825
+Shh.
+
+349
+00:18:47,360 --> 00:18:49,762
+I thought a good controller
+follows orders.
+
+350
+00:18:49,762 --> 00:18:53,233
+Sometimes
+a great controller
+uses his own judgment.
+
+351
+00:18:56,203 --> 00:18:57,804
+It's all we have.
+
+352
+00:19:00,039 --> 00:19:03,075
+Andrews air force base,
+Cleveland control.
+
+353
+00:19:03,075 --> 00:19:04,644
+Emergency status Alpha.
+
+354
+00:19:07,079 --> 00:19:09,749
+[Running footsteps]
+
+355
+00:19:09,749 --> 00:19:14,053
+Captain yeagar,
+we need a commander
+on the ground.
+
+356
+00:19:14,053 --> 00:19:15,988
+What's going on,
+lieutenant?
+
+357
+00:19:15,988 --> 00:19:18,391
+Operation
+morning light, sir.
+
+358
+00:19:40,146 --> 00:19:42,282
+All military personnel,
+
+359
+00:19:42,282 --> 00:19:44,384
+operation morning light
+is a go.
+
+360
+00:19:44,384 --> 00:19:47,620
+Report to the briefing room
+immediately.
+
+361
+00:19:47,620 --> 00:19:48,621
+Sit-rep?
+
+362
+00:19:48,621 --> 00:19:50,122
+You name it,
+and we've got it, sir--
+
+363
+00:19:50,122 --> 00:19:52,124
+power outages,
+communication problems.
+
+364
+00:19:52,124 --> 00:19:54,627
+As the closest base
+to Cleveland atcc,
+
+365
+00:19:54,627 --> 00:19:56,729
+we're the president's
+best hope of trying
+
+366
+00:19:56,729 --> 00:19:59,299
+to reestablish contact
+with air force one.
+
+367
+00:20:10,343 --> 00:20:14,046
+Wait. So the satellites
+could be entering
+our atmosphere?
+
+368
+00:20:14,046 --> 00:20:15,848
+The f-16s
+should be escorting
+
+369
+00:20:15,848 --> 00:20:17,384
+air force one down now.
+
+370
+00:20:17,384 --> 00:20:20,987
+Now all
+I gotta do is find
+that civilian plane.
+
+371
+00:20:25,258 --> 00:20:27,427
+[Horns honking]
+
+372
+00:20:29,729 --> 00:20:31,698
+[No audible dialogue]
+
+373
+00:20:44,411 --> 00:20:46,713
+I hope they remember
+my vegan dinner.
+
+374
+00:20:46,713 --> 00:20:52,184
+[Chuckles] Aoki,
+my dinner eats vegans.
+
+375
+00:20:52,184 --> 00:20:54,687
+Well, I hope it came
+with heart medicine.
+
+376
+00:20:57,790 --> 00:21:00,427
+Oh, my god.
+
+377
+00:21:00,427 --> 00:21:03,663
+Ab 23 is
+heading straight into
+the acat fallout zone.
+
+378
+00:21:03,663 --> 00:21:05,965
+I gotta warn them.
+
+379
+00:21:05,965 --> 00:21:07,367
+Americana blue
+flight 23,
+
+380
+00:21:07,367 --> 00:21:09,402
+please, this is
+Cleveland control.
+Come in.
+
+381
+00:21:10,470 --> 00:21:12,772
+Bob: Americana blue 23--
+
+382
+00:21:12,772 --> 00:21:13,906
+fire in the console.
+
+383
+00:21:15,241 --> 00:21:17,043
+Losing power.
+
+384
+00:21:20,212 --> 00:21:22,214
+[Engines power down]
+
+385
+00:21:22,214 --> 00:21:24,216
+[Bell dings]
+
+386
+00:21:24,216 --> 00:21:26,085
+Ladies and gentlemen,
+the captain
+
+387
+00:21:26,085 --> 00:21:27,487
+has turned on
+the seatbelt sign.
+
+388
+00:21:27,487 --> 00:21:29,456
+Please return
+to your seats.
+
+389
+00:21:31,358 --> 00:21:32,525
+Excuse me, sir--
+
+390
+00:21:32,525 --> 00:21:34,994
+don't touch me!
+Do not touch me!
+
+391
+00:21:34,994 --> 00:21:37,597
+Okay. Okay, i--sir,
+sir, I need you to get
+back to your seat.
+
+392
+00:21:37,597 --> 00:21:38,398
+No!
+
+393
+00:21:38,398 --> 00:21:40,099
+Sir, please,
+on your chair,
+
+394
+00:21:40,099 --> 00:21:42,569
+my newspapers.
+I need my
+newspapers.
+
+395
+00:21:42,569 --> 00:21:44,437
+Sir--
+just give me my newspapers.
+
+396
+00:21:44,437 --> 00:21:47,006
+Here you go.
+Fasten your
+seatbelt, okay?
+
+397
+00:21:47,006 --> 00:21:48,040
+Okay, okay.
+
+398
+00:21:48,040 --> 00:21:49,509
+Excellent.
+
+399
+00:21:49,509 --> 00:21:51,378
+Thank you
+very, very much.
+
+400
+00:21:51,378 --> 00:21:53,880
+Please calm down,
+sir. Sir.
+
+401
+00:21:59,819 --> 00:22:01,621
+We've lost both engines.
+
+402
+00:22:05,392 --> 00:22:08,395
+[Passengers scream]
+
+403
+00:22:08,395 --> 00:22:09,629
+Cleveland control,
+
+404
+00:22:09,629 --> 00:22:11,931
+americana blue 23,
+mayday. Mayday.
+
+405
+00:22:11,931 --> 00:22:13,132
+Two engines lost.
+I repeat--
+
+406
+00:22:13,132 --> 00:22:14,567
+two engines lost.
+
+407
+00:22:15,802 --> 00:22:17,704
+[Screaming]
+
+408
+00:22:20,039 --> 00:22:21,774
+We're stalled out.
+
+409
+00:22:21,774 --> 00:22:22,975
+We're dropping.
+
+410
+00:22:25,745 --> 00:22:27,414
+[Screaming]
+
+411
+00:22:27,414 --> 00:22:29,248
+Americana blue,
+flight 23,
+
+412
+00:22:29,248 --> 00:22:31,651
+please, this is
+Cleveland control.
+Come in.
+
+413
+00:22:37,424 --> 00:22:39,125
+[Screaming]
+
+414
+00:22:47,467 --> 00:22:49,201
+Go to forced start.
+Wind speed?
+
+415
+00:22:49,201 --> 00:22:50,837
+150 knots.
+
+416
+00:22:53,172 --> 00:22:56,576
+[Screaming]
+
+417
+00:23:06,986 --> 00:23:09,589
+Americana blue 23.
+
+418
+00:23:09,589 --> 00:23:12,925
+Ascend flight
+to level 27 now.
+
+419
+00:23:12,925 --> 00:23:14,461
+Mr. Abbot, what's that?
+
+420
+00:23:14,461 --> 00:23:16,929
+It's getting
+really close.
+
+421
+00:23:16,929 --> 00:23:18,498
+Oh, my god.
+
+422
+00:23:20,266 --> 00:23:21,934
+Hey, we got
+a bogey coming in!
+
+423
+00:23:21,934 --> 00:23:24,070
+Sir, radar is tracking
+
+424
+00:23:24,070 --> 00:23:26,105
+unknown accelerating
+particles
+
+425
+00:23:26,105 --> 00:23:31,010
+at grid coordinates
+41-28-56.
+
+426
+00:23:31,010 --> 00:23:32,812
+That's Cleveland, sir.
+
+427
+00:23:38,084 --> 00:23:40,487
+Bob: Take cover
+
+428
+00:23:40,487 --> 00:23:42,154
+let's go! Take cover!
+
+429
+00:23:52,098 --> 00:23:53,733
+[Screaming]
+
+430
+00:23:59,271 --> 00:24:00,673
+What are you doing?
+
+431
+00:24:00,673 --> 00:24:02,642
+Windmill restart.
+Power's out.
+Got no choice.
+
+432
+00:24:02,642 --> 00:24:04,744
+Airspeed?
+225 knots.
+
+433
+00:24:04,744 --> 00:24:07,046
+We need 300 to get
+the turbines started.
+
+434
+00:24:07,046 --> 00:24:08,014
+We're not there.
+
+435
+00:24:13,352 --> 00:24:15,054
+[Screaming]
+
+436
+00:24:19,225 --> 00:24:21,794
+245.
+
+437
+00:24:23,530 --> 00:24:25,765
+[Screaming]
+
+438
+00:24:27,834 --> 00:24:28,935
+260.
+
+439
+00:24:28,935 --> 00:24:30,036
+Come on.
+
+440
+00:24:30,036 --> 00:24:32,805
+265.
+
+441
+00:24:34,040 --> 00:24:36,208
+Come on, baby.
+
+442
+00:24:38,377 --> 00:24:40,212
+[Screaming]
+
+443
+00:24:40,212 --> 00:24:42,549
+295.
+
+444
+00:24:42,549 --> 00:24:44,684
+[Screaming]
+
+445
+00:24:50,356 --> 00:24:52,224
+[Whirring]
+
+446
+00:24:53,726 --> 00:24:55,695
+Yeah!
+
+447
+00:24:58,164 --> 00:25:00,099
+[Screaming]
+
+448
+00:25:12,945 --> 00:25:15,948
+[Gasping]
+Man: What's going on?
+
+449
+00:25:15,948 --> 00:25:17,617
+Woman: Oh, my god.
+
+450
+00:25:17,617 --> 00:25:18,951
+Man:
+What's going on here?
+
+451
+00:25:18,951 --> 00:25:20,587
+You crazy.
+
+452
+00:25:22,855 --> 00:25:24,023
+You did it.
+
+453
+00:25:25,091 --> 00:25:26,993
+We got her back.
+
+454
+00:25:26,993 --> 00:25:29,128
+Regaining
+altitude.
+
+455
+00:25:29,128 --> 00:25:30,096
+Radio?
+
+456
+00:25:32,231 --> 00:25:33,432
+She's dead.
+
+457
+00:25:33,432 --> 00:25:34,634
+Look, man,
+what happened?
+
+458
+00:25:34,634 --> 00:25:36,669
+What made our engines
+shut down?
+
+459
+00:25:39,606 --> 00:25:42,875
+We got no nav radio,
+
+460
+00:25:42,875 --> 00:25:44,076
+no GPS.
+
+461
+00:25:44,076 --> 00:25:45,912
+Man, we can't fly blind.
+
+462
+00:25:45,912 --> 00:25:47,513
+Aoki, focus.
+
+463
+00:25:47,513 --> 00:25:49,081
+What's our heading?
+
+464
+00:25:51,618 --> 00:25:53,786
+We lost our beacon.
+
+465
+00:25:53,786 --> 00:25:54,921
+Well, we lost
+our engine.
+
+466
+00:25:54,921 --> 00:25:56,355
+We dropped out
+of our flight pattern.
+
+467
+00:25:56,355 --> 00:25:57,489
+Well, without navigation,
+
+468
+00:25:57,489 --> 00:25:58,825
+we're a crash
+waiting to happen.
+
+469
+00:25:58,825 --> 00:26:01,127
+We're not
+gonna crash, aoki.
+
+470
+00:26:01,127 --> 00:26:02,895
+Improvise.
+
+471
+00:26:02,895 --> 00:26:04,163
+Okay.
+
+472
+00:26:05,531 --> 00:26:06,833
+Where's the sun?
+
+473
+00:26:08,534 --> 00:26:10,369
+Landmarks?
+
+474
+00:26:10,369 --> 00:26:12,104
+S-searching.
+
+475
+00:26:14,106 --> 00:26:15,742
+What was that?
+Go.
+
+476
+00:26:15,742 --> 00:26:17,877
+What about you?
+I'm not leaving
+
+477
+00:26:17,877 --> 00:26:19,245
+while there's
+traffic in the air.
+
+478
+00:26:19,245 --> 00:26:20,479
+Another judgment call?
+
+479
+00:26:20,479 --> 00:26:22,448
+You could say that.
+
+480
+00:26:22,448 --> 00:26:24,651
+Then I'm staying, too.
+
+481
+00:26:24,651 --> 00:26:26,653
+Radhika, just go.
+Be safe.
+
+482
+00:26:26,653 --> 00:26:28,688
+I'm making my own
+judgment call, sir.
+
+483
+00:26:29,656 --> 00:26:30,757
+All right,
+if you're gonna stay,
+
+484
+00:26:30,757 --> 00:26:32,058
+let's see
+what we got left.
+
+485
+00:26:36,996 --> 00:26:38,831
+Sit-rep, major?
+
+486
+00:26:38,831 --> 00:26:39,666
+[Typing]
+
+487
+00:26:39,666 --> 00:26:41,734
+No radio.
+
+488
+00:26:41,734 --> 00:26:44,771
+Security doors
+nonfunctioning.
+
+489
+00:26:44,771 --> 00:26:47,974
+Nav's okay.
+Proximity radar's
+functioning.
+
+490
+00:26:47,974 --> 00:26:49,541
+Autopilot?
+
+491
+00:26:49,541 --> 00:26:51,110
+Appears to be
+functioning.
+
+492
+00:26:52,444 --> 00:26:53,680
+Lightning, huh?
+
+493
+00:26:54,747 --> 00:26:56,849
+Let's pray it
+doesn't strike twice.
+
+494
+00:27:08,761 --> 00:27:11,497
+Sir, my controls,
+they're still not
+responding.
+
+495
+00:27:11,497 --> 00:27:12,932
+Get 'em back, major.
+I can't.
+
+496
+00:27:12,932 --> 00:27:15,167
+That acat is in some kind
+of automatic mode.
+
+497
+00:27:15,167 --> 00:27:16,969
+It won't let me
+make any adjustments.
+
+498
+00:27:19,939 --> 00:27:21,073
+[Beep]
+
+499
+00:27:23,075 --> 00:27:25,177
+Goddamn computers.
+
+500
+00:27:27,546 --> 00:27:30,850
+That acat seems to think
+that no one's available
+to fly the plane.
+
+501
+00:27:30,850 --> 00:27:33,452
+Are you telling me
+we're not in control
+of this plane?
+
+502
+00:27:33,452 --> 00:27:34,854
+No, we're not.
+
+503
+00:27:34,854 --> 00:27:36,756
+Best-case scenario,
+
+504
+00:27:36,756 --> 00:27:40,059
+acat brings us to dtw
+and lands this plane for us.
+
+505
+00:27:40,059 --> 00:27:43,129
+Activate
+the emergency beacon.
+
+506
+00:27:44,363 --> 00:27:46,733
+We could activate it,
+but why?
+
+507
+00:27:46,733 --> 00:27:50,803
+That beacon may
+be our only way
+to communicate.
+
+508
+00:27:50,803 --> 00:27:53,405
+And I'm not
+willing to sacrifice
+the president's life
+
+509
+00:27:53,405 --> 00:27:54,907
+based on some
+best-case scenario.
+
+510
+00:27:57,643 --> 00:27:58,845
+Where's the president?
+
+511
+00:27:58,845 --> 00:28:00,747
+Air force one
+is out of contact,
+
+512
+00:28:00,747 --> 00:28:02,281
+but NORAD has
+scrambled 2 f-16s.
+
+513
+00:28:06,318 --> 00:28:09,221
+Get f-16s
+in protection formation,
+and make them hot.
+
+514
+00:28:09,221 --> 00:28:10,189
+Yes, sir.
+
+515
+00:28:11,523 --> 00:28:15,394
+Tater, big bird one o'clock.
+
+516
+00:28:15,394 --> 00:28:16,896
+Copy, kanga.
+He's 1-1-6, 20,000.
+
+517
+00:28:16,896 --> 00:28:19,331
+We're a mile
+and a half in trail.
+
+518
+00:28:19,331 --> 00:28:20,466
+Roger that, tater.
+
+519
+00:28:27,039 --> 00:28:29,141
+All right,
+I found our beacon.
+
+520
+00:28:29,141 --> 00:28:30,442
+Lock her in.
+
+521
+00:28:30,442 --> 00:28:32,178
+Locking in beacon now.
+
+522
+00:28:34,446 --> 00:28:35,414
+[Sighs]
+
+523
+00:28:40,119 --> 00:28:42,088
+[Horns honking]
+
+524
+00:28:49,395 --> 00:28:52,198
+I'll give you $100
+for the bike.
+
+525
+00:28:53,599 --> 00:28:55,134
+200.
+
+526
+00:28:55,134 --> 00:28:56,335
+And the watch.
+
+527
+00:28:56,335 --> 00:28:58,204
+Don't you have
+a smartphone?
+
+528
+00:28:58,204 --> 00:28:59,505
+It's broken.
+
+529
+00:28:59,505 --> 00:29:02,208
+Fine. Here.
+
+530
+00:29:02,208 --> 00:29:04,176
+Come on.
+
+531
+00:29:05,444 --> 00:29:07,413
+Excuse me!
+
+532
+00:29:07,413 --> 00:29:09,916
+Excuse me.
+National emergency!
+
+533
+00:29:14,954 --> 00:29:16,856
+They're fried.
+They're all fried.
+
+534
+00:29:18,825 --> 00:29:20,827
+Sir, i-it's never
+been used.
+
+535
+00:29:20,827 --> 00:29:22,829
+Okay.
+It works.
+
+536
+00:29:22,829 --> 00:29:24,931
+[Beeping]
+
+537
+00:29:26,165 --> 00:29:27,266
+Oh, no.
+What?
+
+538
+00:29:27,266 --> 00:29:30,002
+Ab 23 is off
+her flight plan.
+Okay.
+
+539
+00:29:30,002 --> 00:29:31,703
+Air force one
+and americana blue
+
+540
+00:29:31,703 --> 00:29:32,972
+are headed
+right for each other.
+
+541
+00:29:32,972 --> 00:29:34,506
+Why aren't they locked
+on their beacon?
+
+542
+00:29:34,506 --> 00:29:35,842
+Radhika,
+our beacon is out.
+
+543
+00:29:38,310 --> 00:29:39,545
+Come on. Let's go.
+
+544
+00:29:44,150 --> 00:29:46,318
+The acat is trying
+to eliminate human error,
+
+545
+00:29:46,318 --> 00:29:48,687
+but it's misidentifying us
+as a threat.
+
+546
+00:29:48,687 --> 00:29:50,722
+Disable it, sir?
+Negative.
+
+547
+00:29:50,722 --> 00:29:52,024
+Let's not drop
+security protocol
+
+548
+00:29:52,024 --> 00:29:53,960
+without verifying
+there is a threat.
+
+549
+00:29:58,497 --> 00:30:01,533
+Security systems
+are fine.
+
+550
+00:30:01,533 --> 00:30:03,302
+Reporting systems
+are down.
+
+551
+00:30:03,302 --> 00:30:05,771
+All right.
+Well, I'll try
+to alert security
+
+552
+00:30:05,771 --> 00:30:07,573
+about a possible
+acat malfunction.
+
+553
+00:30:09,241 --> 00:30:12,711
+Sir, the acat
+marks two targets
+as hostile approaching,
+
+554
+00:30:12,711 --> 00:30:14,646
+converging in 30 seconds.
+Roger that.
+
+555
+00:30:14,646 --> 00:30:15,647
+Take defensive
+positions.
+
+556
+00:30:15,647 --> 00:30:16,815
+Prepare to evade.
+
+557
+00:30:23,990 --> 00:30:26,158
+Sir, our sidewinder engines
+are spinning,
+
+558
+00:30:26,158 --> 00:30:27,759
+and I do not have
+any control, sir.
+
+559
+00:30:27,759 --> 00:30:29,896
+Figure it out, major.
+
+560
+00:30:35,834 --> 00:30:38,104
+It's our guys.
+
+561
+00:30:39,038 --> 00:30:41,908
+Stand down.
+Stand down.
+
+562
+00:30:43,976 --> 00:30:46,378
+F-16s, this is
+air force one.
+Do you copy?
+
+563
+00:30:52,484 --> 00:30:54,686
+Sidewinders
+are in the tubes.
+
+564
+00:30:54,686 --> 00:30:56,622
+Abort the missiles,
+major.
+
+565
+00:30:56,622 --> 00:31:00,259
+2 of our f-16s are
+marked hostile, and I
+cannot decode them.
+
+566
+00:31:01,160 --> 00:31:02,594
+Air force one
+to f-16s.
+
+567
+00:31:02,594 --> 00:31:03,595
+Do you read?
+
+568
+00:31:03,595 --> 00:31:04,696
+Can they hear us?
+
+569
+00:31:04,696 --> 00:31:06,465
+You are marked
+as hostile.
+
+570
+00:31:06,465 --> 00:31:07,433
+Do you copy?
+
+571
+00:31:12,771 --> 00:31:14,240
+Abort your mission
+immediately.
+
+572
+00:31:14,240 --> 00:31:16,475
+Abort your mission
+immediately.
+
+573
+00:31:37,029 --> 00:31:38,864
+F-16s, do you copy?
+
+574
+00:31:38,864 --> 00:31:40,099
+Damn it.
+
+575
+00:31:40,099 --> 00:31:41,767
+Com is dead.
+Move.
+
+576
+00:31:41,767 --> 00:31:43,369
+Can't hear
+a goddamn word
+I'm saying.
+
+577
+00:31:43,369 --> 00:31:44,570
+Get back. Get back.
+
+578
+00:31:53,512 --> 00:31:54,580
+Move. Stop.
+Get back.
+
+579
+00:32:09,561 --> 00:32:10,696
+Get back.
+
+580
+00:32:14,866 --> 00:32:17,003
+No!
+
+581
+00:32:23,742 --> 00:32:25,344
+Hon, shh, shh.
+The window.
+
+582
+00:32:25,344 --> 00:32:27,546
+Shh, shh, shh.
+Stay quiet.
+Stay quiet.
+
+583
+00:32:27,546 --> 00:32:29,015
+[Door closes]
+
+584
+00:32:29,015 --> 00:32:30,316
+Oh, my--where's milani?
+
+585
+00:32:30,316 --> 00:32:32,084
+Stay calm. I don't--
+she's not here.
+
+586
+00:32:32,084 --> 00:32:33,452
+I'll find her.
+Don't worry.
+
+587
+00:32:42,794 --> 00:32:45,031
+[Alarm blaring]
+
+588
+00:32:52,138 --> 00:32:54,306
+[Alarm blaring]
+[Rattling handle]
+
+589
+00:33:08,920 --> 00:33:10,522
+[Yells]
+
+590
+00:33:21,067 --> 00:33:23,435
+[Rings bell]
+
+591
+00:33:23,435 --> 00:33:25,771
+Maintain control.
+
+592
+00:33:25,771 --> 00:33:27,339
+Maintain composure.
+
+593
+00:33:28,407 --> 00:33:29,608
+Dad.
+
+594
+00:33:33,379 --> 00:33:35,847
+[Keypad beeping]
+
+595
+00:33:35,847 --> 00:33:37,349
+They're off our radar.
+
+596
+00:33:38,784 --> 00:33:40,252
+We have to alert
+the president.
+
+597
+00:33:44,590 --> 00:33:45,557
+[Beep]
+
+598
+00:33:52,998 --> 00:33:54,433
+[Beep]
+
+599
+00:33:57,403 --> 00:33:59,605
+Agent Lee,
+agent Roberts,
+do you copy?
+
+600
+00:33:59,605 --> 00:34:02,874
+[Static and squeals]
+
+601
+00:34:02,874 --> 00:34:04,009
+Agent Lee,
+agent Roberts,
+
+602
+00:34:04,009 --> 00:34:05,311
+do you copy?
+Damn it.
+
+603
+00:34:05,311 --> 00:34:06,812
+The onboard systems
+are out.
+
+604
+00:34:06,812 --> 00:34:08,680
+We've gone into
+lockdown mode.
+
+605
+00:34:11,583 --> 00:34:14,453
+Monitors
+just went dead.
+
+606
+00:34:30,369 --> 00:34:31,403
+[Coughs]
+
+607
+00:34:33,805 --> 00:34:35,841
+Dad. Dad.
+Hmm?
+
+608
+00:34:35,841 --> 00:34:37,909
+Sir, do you
+need some help?
+
+609
+00:34:37,909 --> 00:34:39,978
+[Coughing]
+Hey.
+
+610
+00:34:39,978 --> 00:34:41,580
+I think this
+guy's having
+a heart attack.
+
+611
+00:34:41,580 --> 00:34:43,315
+He needs
+help now.
+
+612
+00:34:45,151 --> 00:34:46,152
+[Gasps]
+Sir.
+
+613
+00:34:46,152 --> 00:34:47,519
+Okay,
+let's get him up.
+
+614
+00:34:47,519 --> 00:34:48,887
+Come on.
+Let's get him
+on down.
+
+615
+00:34:48,887 --> 00:34:49,955
+It's okay.
+It's all right.
+
+616
+00:34:49,955 --> 00:34:52,158
+I got him.
+Easy, easy.
+
+617
+00:34:52,158 --> 00:34:53,625
+Sir, are you all right?
+Dad, you can help.
+
+618
+00:34:53,625 --> 00:34:55,594
+It's okay.
+It's okay.
+I got his legs.
+
+619
+00:34:55,594 --> 00:34:57,829
+Oh, careful. Careful.
+I'll get his legs.
+
+620
+00:34:57,829 --> 00:34:58,864
+Unbutton his shirt.
+
+621
+00:34:58,864 --> 00:35:00,166
+Shirt.
+Open his shirt.
+
+622
+00:35:00,166 --> 00:35:01,967
+God! I'm sorry.
+You got it, ma'am.
+
+623
+00:35:01,967 --> 00:35:03,435
+His shirt.
+I'm sorry.
+
+624
+00:35:03,435 --> 00:35:04,503
+[Groaning]
+
+625
+00:35:04,503 --> 00:35:06,738
+Okay.
+Breathe. Breathe. Breathe.
+
+626
+00:35:06,738 --> 00:35:07,739
+Calm down. Breathe.
+
+627
+00:35:07,739 --> 00:35:10,041
+No one can be
+touching him.
+
+628
+00:35:10,041 --> 00:35:11,277
+Yeah, sir,
+gonna lay you down.
+
+629
+00:35:11,277 --> 00:35:13,679
+Okay, no one
+touch his body.
+Hurry up.
+
+630
+00:35:18,184 --> 00:35:19,951
+It--god, it's
+not working.
+
+631
+00:35:19,951 --> 00:35:21,453
+Just try it again.
+Try it again.
+
+632
+00:35:21,453 --> 00:35:23,389
+Can't you see
+the man's dying?
+
+633
+00:35:23,389 --> 00:35:25,924
+Please, ma'am.
+Ma'am, please sit down.
+
+634
+00:35:25,924 --> 00:35:26,958
+Come on.
+It's not working.
+
+635
+00:35:26,958 --> 00:35:28,894
+Come on.
+Starting cpr.
+
+636
+00:35:28,894 --> 00:35:30,629
+He's still breathing!
+1, 2, 3.
+
+637
+00:35:30,629 --> 00:35:33,064
+Has anyone got
+any aspirin or
+blood thinner?
+
+638
+00:35:33,064 --> 00:35:35,100
+Breathe. Come on.
+1, 2,
+
+639
+00:35:35,100 --> 00:35:37,336
+3, 4, 5.
+
+640
+00:35:54,753 --> 00:35:57,223
+What--unh! Uhh!
+
+641
+00:35:59,925 --> 00:36:01,893
+[Groaning]
+
+642
+00:36:21,880 --> 00:36:24,316
+Sir, I've tried
+everything,
+
+643
+00:36:24,316 --> 00:36:26,852
+but the acat has
+taken complete control
+over the plane,
+
+644
+00:36:26,852 --> 00:36:28,320
+and it won't let us help.
+
+645
+00:36:36,127 --> 00:36:37,529
+Sir, sir, our avionics.
+
+646
+00:36:37,529 --> 00:36:39,731
+Major, I don't want
+to fire my weapon
+
+647
+00:36:39,731 --> 00:36:42,768
+in the cockpit
+any more than you
+want me to.
+
+648
+00:36:42,768 --> 00:36:44,636
+We've got no choice.
+
+649
+00:36:47,439 --> 00:36:50,409
+I will not
+be held hostage
+
+650
+00:36:50,409 --> 00:36:52,711
+in my own
+goddamn plane.
+
+651
+00:36:52,711 --> 00:36:53,812
+[Three gunshots echo]
+
+652
+00:36:55,881 --> 00:36:57,349
+[Two gunshots echo]
+
+653
+00:36:58,450 --> 00:37:00,886
+[Three gunshots echo]
+
+654
+00:37:00,886 --> 00:37:02,321
+[Three gunshots echo]
+
+655
+00:37:04,956 --> 00:37:07,393
+[Keypads beeping]
+
+656
+00:37:07,393 --> 00:37:09,728
+[Sighs] My code
+isn't working.
+
+657
+00:37:12,798 --> 00:37:16,167
+Breathe. 1, 2, 3,
+
+658
+00:37:16,167 --> 00:37:18,770
+4, 5. Breathe.
+Come on.
+
+659
+00:37:18,770 --> 00:37:21,172
+1, 2, 3, 4, 5.
+
+660
+00:37:21,172 --> 00:37:23,509
+Sir...
+Breathe. Breathe.
+
+661
+00:37:23,509 --> 00:37:25,043
+He's gone.
+
+662
+00:37:25,043 --> 00:37:27,513
+[Sobbing] He's dead.
+
+663
+00:37:27,513 --> 00:37:30,181
+How can you just
+let him die like that?
+
+664
+00:37:30,181 --> 00:37:31,983
+Ma'am, I need you
+to sit in your seat.
+
+665
+00:37:33,018 --> 00:37:34,720
+Simms: Ladies and gentlemen,
+
+666
+00:37:34,720 --> 00:37:36,154
+we're experiencing
+heavy turbulence.
+
+667
+00:37:36,154 --> 00:37:37,523
+Everybody,
+sit in your seats!
+
+668
+00:37:37,523 --> 00:37:39,358
+Please take your seats
+and fasten your seat belts.
+
+669
+00:37:39,358 --> 00:37:40,559
+Fasten your
+seat belts.
+
+670
+00:37:45,096 --> 00:37:47,165
+Lindsay, that includes us.
+Let's go.
+
+671
+00:37:47,165 --> 00:37:48,334
+Okay. Okay.
+
+672
+00:38:03,882 --> 00:38:06,184
+Should we tell
+the pilot?
+
+673
+00:38:06,184 --> 00:38:08,720
+No. Sterile cockpit rule
+is now in effect.
+
+674
+00:38:08,720 --> 00:38:11,357
+Safety critical
+information only.
+
+675
+00:38:14,726 --> 00:38:15,594
+All right, look,
+
+676
+00:38:15,594 --> 00:38:17,763
+we gotta work quickly.
+Come on.
+
+677
+00:38:24,202 --> 00:38:27,473
+Hey, what are
+we doing here?
+
+678
+00:38:27,473 --> 00:38:29,575
+We gotta stop
+those planes from colliding.
+
+679
+00:38:30,576 --> 00:38:32,844
+We have no beacons,
+no communications.
+
+680
+00:38:32,844 --> 00:38:33,845
+Down here.
+
+681
+00:38:55,401 --> 00:38:57,536
+[Machinery humming]
+
+682
+00:38:59,471 --> 00:39:01,673
+We gotta get
+to that transponder.
+
+683
+00:39:01,673 --> 00:39:02,641
+Okay.
+
+684
+00:39:13,919 --> 00:39:15,987
+[Crackling]
+
+685
+00:39:15,987 --> 00:39:17,989
+We gotta raise
+the antenna.
+
+686
+00:39:22,961 --> 00:39:24,463
+Will this work?
+
+687
+00:39:24,463 --> 00:39:27,433
+Well, it's all
+we have to work with.
+
+688
+00:39:31,437 --> 00:39:32,938
+That way.
+
+689
+00:39:32,938 --> 00:39:34,673
+That looks really bad.
+
+690
+00:39:34,673 --> 00:39:36,875
+All right,
+you just stay here.
+
+691
+00:39:36,875 --> 00:39:38,444
+Be careful.
+
+692
+00:39:38,444 --> 00:39:41,547
+I'll be ready
+to go for help
+if you get into trouble.
+
+693
+00:40:07,873 --> 00:40:10,075
+Damn it.
+
+694
+00:40:10,075 --> 00:40:11,042
+Crap.
+
+695
+00:40:36,635 --> 00:40:39,404
+Freeze!
+Hands in the air!
+
+696
+00:40:39,404 --> 00:40:41,139
+This is
+a restricted area!
+
+697
+00:40:41,139 --> 00:40:42,407
+Wait.
+You don't understand.
+
+698
+00:40:42,407 --> 00:40:44,843
+Facedown,
+hands on the ground now.
+
+699
+00:40:46,244 --> 00:40:49,681
+Hands where
+I can see them! Now!
+
+700
+00:40:51,349 --> 00:40:52,784
+Hands behind your back.
+
+701
+00:41:00,458 --> 00:41:02,794
+Command, this is
+private Clark at 29483.
+
+702
+00:41:02,794 --> 00:41:04,596
+Suspect has been
+apprehended.
+
+703
+00:41:04,596 --> 00:41:06,164
+Requesting transportation.
+Over.
+
+704
+00:41:06,164 --> 00:41:07,599
+All personnel...
+Is he your C.O.?
+
+705
+00:41:07,599 --> 00:41:08,634
+Be advised we are dealing
+with this falling satellite.
+
+706
+00:41:08,634 --> 00:41:09,968
+I need to talk
+to your C.O.
+
+707
+00:41:09,968 --> 00:41:11,703
+Ma'am, I need you
+to be quiet, please.
+
+708
+00:41:11,703 --> 00:41:12,871
+[Radio]
+Figure something out.
+
+709
+00:41:12,871 --> 00:41:15,406
+Please, my name is
+Dr. Antonia Pierce.
+
+710
+00:41:15,406 --> 00:41:18,043
+I am the chief
+technical officer
+at jpl.
+
+711
+00:41:18,043 --> 00:41:19,578
+I'm no--I'm not
+a bad guy.
+
+712
+00:41:19,578 --> 00:41:21,913
+Please, I need
+to talk to your C.O.
+
+713
+00:41:21,913 --> 00:41:22,981
+Ma'am.
+
+714
+00:41:22,981 --> 00:41:25,651
+Listen, private.
+There are two planes
+
+715
+00:41:25,651 --> 00:41:27,418
+on a collision course
+with each other,
+
+716
+00:41:27,418 --> 00:41:29,555
+and one of them
+has the president on it,
+
+717
+00:41:29,555 --> 00:41:31,857
+so you need to take me
+to your C.O. right now,
+
+718
+00:41:31,857 --> 00:41:33,659
+or you're gonna have
+to explain to congress
+
+719
+00:41:33,659 --> 00:41:36,795
+why you let
+a civilian airplane
+hit air force one.
+
+720
+00:41:38,329 --> 00:41:39,965
+All right, let's go.
+
+721
+00:41:45,571 --> 00:41:47,005
+[Steam hissing]
+
+722
+00:42:04,189 --> 00:42:06,692
+[Radhika screams]
+
+723
+00:42:06,692 --> 00:42:09,360
+Hey! Where are you?!
+
+724
+00:42:09,360 --> 00:42:11,930
+[Gasps] Over here!
+
+725
+00:42:11,930 --> 00:42:13,932
+Ohh ho! Please!
+
+726
+00:42:13,932 --> 00:42:15,100
+Where are you?!
+
+727
+00:42:15,100 --> 00:42:16,301
+Help me!
+I'm over here!
+
+728
+00:42:16,301 --> 00:42:18,003
+Please help!
+
+729
+00:42:18,003 --> 00:42:19,738
+Oh, please.
+
+730
+00:42:45,964 --> 00:42:47,933
+Bob: I've never seen
+anything like this.
+
+731
+00:42:49,367 --> 00:42:50,802
+Where are you going?
+
+732
+00:42:52,270 --> 00:42:53,639
+To the bunker.
+
+733
+00:42:58,644 --> 00:43:00,946
+[Grunting]
+
+734
+00:43:02,714 --> 00:43:04,650
+Damn it.
+Nothing?
+
+735
+00:43:05,450 --> 00:43:07,819
+Thing's not going anywhere.
+
+736
+00:43:07,819 --> 00:43:08,887
+We've haven't had
+any identification tags
+
+737
+00:43:08,887 --> 00:43:10,455
+on these radar targets
+at all.
+
+738
+00:43:10,455 --> 00:43:12,490
+Cleveland control must
+have been knocked out
+by the storm.
+
+739
+00:43:12,490 --> 00:43:14,425
+Yeah, and without
+any identification tags,
+
+740
+00:43:14,425 --> 00:43:16,494
+acat is marking
+everything as a target.
+
+741
+00:43:16,494 --> 00:43:19,030
+Including us.
+
+742
+00:43:19,030 --> 00:43:20,699
+Sir.
+
+743
+00:43:21,800 --> 00:43:23,434
+Attempting to contact
+
+744
+00:43:23,434 --> 00:43:24,870
+air force one, colonel.
+
+745
+00:43:28,373 --> 00:43:29,374
+Anything?
+
+746
+00:43:29,374 --> 00:43:30,742
+B.a.c.n. Is down,
+
+747
+00:43:30,742 --> 00:43:32,744
+so we're trying
+to go off network.
+
+748
+00:43:32,744 --> 00:43:34,212
+Central command
+through national guard
+
+749
+00:43:34,212 --> 00:43:36,147
+is feeding us intel,
+but...
+
+750
+00:43:36,147 --> 00:43:39,017
+We might as well be
+using smoke signals
+right now, sir.
+
+751
+00:43:39,885 --> 00:43:41,687
+What was
+the latest report?
+
+752
+00:43:41,687 --> 00:43:42,988
+Eyeballs have stated
+
+753
+00:43:42,988 --> 00:43:45,390
+that air force one
+is in lockdown mode.
+
+754
+00:43:45,390 --> 00:43:48,259
+Any other birds
+around it will be
+deemed hostile.
+
+755
+00:43:48,259 --> 00:43:51,697
+We need to assemble a crew
+for operation Sam fox.
+
+756
+00:43:51,697 --> 00:43:53,498
+Sam fox? Yes, sir.
+
+757
+00:43:53,498 --> 00:43:55,400
+But with what, sir?
+
+758
+00:43:58,536 --> 00:44:00,338
+That.
+
+759
+00:44:06,712 --> 00:44:08,513
+Are we
+completely blind?
+
+760
+00:44:08,513 --> 00:44:09,514
+Tcas is nonfunctional.
+
+761
+00:44:09,514 --> 00:44:11,216
+We have no warning system.
+
+762
+00:44:11,216 --> 00:44:12,718
+Oh, shit.
+
+763
+00:44:12,718 --> 00:44:14,820
+Visual scans
+in effect every
+30 seconds.
+
+764
+00:44:14,820 --> 00:44:15,787
+Aye.
+
+765
+00:44:17,723 --> 00:44:20,091
+We need to clear
+the aisle.
+
+766
+00:44:23,829 --> 00:44:26,097
+Gentlemen,
+would you mind helping?
+
+767
+00:44:27,933 --> 00:44:29,034
+Yeah.
+
+768
+00:44:29,034 --> 00:44:30,401
+All right,
+let's roll him
+to the right.
+
+769
+00:44:30,401 --> 00:44:32,203
+On his side on 3.
+1, 2...
+
+770
+00:44:32,203 --> 00:44:33,204
+3.
+3.
+
+771
+00:44:33,204 --> 00:44:35,340
+[All grunting]
+
+772
+00:44:35,340 --> 00:44:37,776
+[Screams]
+
+773
+00:44:37,776 --> 00:44:39,477
+Let's go.
+Over here.
+
+774
+00:44:39,477 --> 00:44:41,847
+Lindsay: Try and
+get him in a seat.
+
+775
+00:44:44,149 --> 00:44:46,251
+[Computer beeps]
+
+776
+00:44:46,251 --> 00:44:48,887
+Oh, no.
+The acat has marked
+an unknown target.
+
+777
+00:44:48,887 --> 00:44:51,322
+And if it continues
+on its current
+path and speed,
+
+778
+00:44:51,322 --> 00:44:53,624
+that airplane
+will be within
+100 meters of us
+
+779
+00:44:53,624 --> 00:44:54,993
+in less than
+an hour, sir.
+
+780
+00:44:54,993 --> 00:44:56,561
+Let's fix this thing
+so we won't
+
+781
+00:44:56,561 --> 00:44:57,929
+be there when
+it happens, major.
+
+782
+00:45:03,301 --> 00:45:04,803
+[Screaming]
+
+783
+00:45:06,571 --> 00:45:08,506
+[Alarm blaring]
+
+784
+00:45:08,506 --> 00:45:11,076
+What the heck?
+
+785
+00:45:11,076 --> 00:45:12,143
+Status?
+
+786
+00:45:12,143 --> 00:45:13,611
+Air craft addressing
+and reporting system
+
+787
+00:45:13,611 --> 00:45:15,646
+is fried, too.
+We can't be sure
+
+788
+00:45:15,646 --> 00:45:17,849
+what Cleveland knows
+about our situation.
+
+789
+00:45:17,849 --> 00:45:20,018
+Can we get him
+to stand?
+
+790
+00:45:26,024 --> 00:45:27,392
+Right.
+
+791
+00:45:27,392 --> 00:45:28,526
+No, no, no, no, no.
+
+792
+00:45:28,526 --> 00:45:29,961
+Slam--slammers
+are in the tube.
+
+793
+00:45:29,961 --> 00:45:31,029
+Slammers are
+in the tube,
+
+794
+00:45:31,029 --> 00:45:32,597
+and based on
+its size and speed,
+
+795
+00:45:32,597 --> 00:45:33,799
+that unknown target
+
+796
+00:45:33,799 --> 00:45:35,466
+is a civilian
+aircraft, sir.
+
+797
+00:45:37,468 --> 00:45:39,805
+You telling me
+we're about to fire
+on a civilian plane?
+
+798
+00:45:39,805 --> 00:45:42,707
+I'll go get some blankets
+to cover up.
+
+799
+00:45:42,707 --> 00:45:44,409
+Sir, I need
+you to get back
+into your seat.
+
+800
+00:45:44,409 --> 00:45:45,543
+Aah!
+
+801
+00:45:45,543 --> 00:45:46,677
+Sir, I'm gonna
+have to ask you
+
+802
+00:45:46,677 --> 00:45:48,046
+to get back
+into your seat, please.
+
+803
+00:45:48,046 --> 00:45:50,148
+You can't make me
+die up here.
+No, no, sir.
+
+804
+00:45:50,148 --> 00:45:51,282
+No, no, no, sir!
+
+805
+00:45:51,282 --> 00:45:53,118
+Get back to your--
+no!
+
+806
+00:45:53,118 --> 00:45:55,553
+[Yelling]
+Sir, this is not the time.
+
+807
+00:45:55,553 --> 00:45:56,687
+Passenger:
+Take him out!
+
+808
+00:45:56,687 --> 00:45:57,889
+Sir, stop!
+
+809
+00:45:57,889 --> 00:46:00,625
+Sir, calm--
+[Scattered yelling]
+
+810
+00:46:00,625 --> 00:46:03,228
+Stay there!
+
+811
+00:46:03,228 --> 00:46:04,195
+Get in your--ohh!
+
+812
+00:46:04,195 --> 00:46:05,596
+Sir!
+
+813
+00:46:05,596 --> 00:46:07,132
+He's crazy.
+Take him out!
+
+814
+00:46:07,132 --> 00:46:08,333
+Passenger: Scales
+all over the body!
+
+815
+00:46:08,333 --> 00:46:10,668
+Sir, calm down!
+
+816
+00:46:10,668 --> 00:46:14,172
+Show me the Mark
+of the beast!
+
+817
+00:46:15,340 --> 00:46:18,009
+Thank you.
+
+818
+00:46:19,377 --> 00:46:22,580
+Let's get him
+back to his seat
+right now, okay?
+
+819
+00:46:22,580 --> 00:46:24,082
+On three.
+
+820
+00:46:24,082 --> 00:46:26,084
+Sir...
+
+821
+00:46:26,084 --> 00:46:28,954
+Is there anything
+we could do to stop this?
+
+822
+00:46:29,855 --> 00:46:32,123
+No, major,
+
+823
+00:46:32,123 --> 00:46:34,425
+there isn't.
+
+824
+00:46:37,462 --> 00:46:39,865
+Good. Thank you.
+
+825
+00:46:41,666 --> 00:46:43,869
+[Applause]
+
+826
+00:46:57,648 --> 00:46:59,050
+[Applause]
+
+827
+00:46:59,050 --> 00:47:00,618
+You got 'em closed?
+Yeah.
+
+828
+00:47:00,618 --> 00:47:02,153
+You sure?
+
+829
+00:47:03,221 --> 00:47:05,390
+It's headed
+right toward 'em.
+
+830
+00:47:08,193 --> 00:47:11,162
+Okay,
+I'm gonna meet you
+in the back, okay?
+
+831
+00:47:11,162 --> 00:47:12,230
+Lindsay: Yeah.
+
+832
+00:47:12,230 --> 00:47:14,765
+T-minus 10,
+
+833
+00:47:14,765 --> 00:47:16,101
+9...
+
+834
+00:47:21,106 --> 00:47:23,508
+5...
+
+835
+00:47:23,508 --> 00:47:25,276
+4...
+
+836
+00:47:27,078 --> 00:47:28,313
+2...
+
+837
+00:47:30,615 --> 00:47:33,952
+[Screaming]
+
+838
+00:47:42,793 --> 00:47:43,929
+What the hell
+was that?
+
+839
+00:47:43,929 --> 00:47:46,965
+[Screaming]
+
+840
+00:48:00,078 --> 00:48:01,746
+Oxygen
+warning light's on.
+
+841
+00:48:01,746 --> 00:48:03,949
+Pressure equalizing.
+Don your mask.
+
+842
+00:48:04,815 --> 00:48:06,484
+No loss of control.
+
+843
+00:48:06,484 --> 00:48:08,053
+Bringing her down.
+
+844
+00:48:08,053 --> 00:48:10,255
+Maintain visual scans.
+
+845
+00:48:21,199 --> 00:48:24,069
+[Screaming]
+
+846
+00:48:29,774 --> 00:48:31,376
+I have to warn
+the captain.
+
+847
+00:48:31,376 --> 00:48:33,878
+I'm going out there.
+
+848
+00:48:33,878 --> 00:48:35,046
+Captain.
+
+849
+00:48:35,046 --> 00:48:36,747
+Captain Simms here.
+
+850
+00:48:36,747 --> 00:48:38,449
+Cabin pressure's
+dropping fast.
+
+851
+00:48:38,449 --> 00:48:39,450
+What's going on?
+
+852
+00:48:39,450 --> 00:48:41,987
+Nigel's checking now, sir.
+
+853
+00:48:41,987 --> 00:48:43,788
+Put your
+oxygen masks on!
+
+854
+00:48:43,788 --> 00:48:45,290
+Oh, no, Lindsay!
+
+855
+00:48:45,290 --> 00:48:48,059
+There's
+an unexploded missile!
+It's in cabin!
+
+856
+00:48:48,059 --> 00:48:49,827
+I think he said
+there's a missile
+in the cabin.
+
+857
+00:48:49,827 --> 00:48:51,496
+Sir! Sir!
+
+858
+00:48:53,498 --> 00:48:56,534
+Aah!
+
+859
+00:48:56,534 --> 00:49:00,005
+[Screaming]
+
+860
+00:49:11,016 --> 00:49:14,719
+Captain,
+please respond.
+
+861
+00:49:16,387 --> 00:49:18,823
+Better get people
+to settle down.
+Keep everyone calm.
+
+862
+00:49:18,823 --> 00:49:20,025
+Damn it.
+
+863
+00:49:38,776 --> 00:49:40,145
+Captain yeager.
+
+864
+00:49:40,145 --> 00:49:41,846
+Command chief
+master sergeant ries.
+
+865
+00:49:41,846 --> 00:49:43,081
+The angs are onboard.
+
+866
+00:49:43,081 --> 00:49:44,815
+Sam fox is in action.
+
+867
+00:49:44,815 --> 00:49:47,952
+We've never done it
+at this speed before.
+
+868
+00:49:47,952 --> 00:49:48,953
+Yes, sir.
+
+869
+00:49:48,953 --> 00:49:50,288
+Can you handle it?
+
+870
+00:49:50,288 --> 00:49:51,922
+We're ready.
+
+871
+00:49:51,922 --> 00:49:54,125
+Good luck, ries.
+
+872
+00:49:54,125 --> 00:49:55,460
+Thank you, sir.
+
+873
+00:50:00,965 --> 00:50:03,201
+[Screaming]
+
+874
+00:50:11,976 --> 00:50:15,446
+Guys, please,
+I need your help!
+
+875
+00:50:15,446 --> 00:50:16,281
+Grab the missile!
+
+876
+00:50:16,281 --> 00:50:18,949
+We need to get it
+out of here!
+
+877
+00:50:18,949 --> 00:50:20,618
+[Screaming]
+
+878
+00:51:02,393 --> 00:51:04,129
+Okay, great!
+Now we need to close
+the hole!
+
+879
+00:51:04,129 --> 00:51:06,297
+Start pulling baggage!
+
+880
+00:51:06,297 --> 00:51:08,466
+[Passengers screaming]
+
+881
+00:51:25,150 --> 00:51:26,751
+Passenger: No!
+Not that bag!
+
+882
+00:51:26,751 --> 00:51:28,719
+It's got
+my pills in it!
+
+883
+00:51:28,719 --> 00:51:30,655
+[Passengers screaming]
+
+884
+00:51:48,906 --> 00:51:50,741
+[Screaming subsides]
+
+885
+00:52:01,886 --> 00:52:04,655
+[Coughing]
+
+886
+00:52:08,626 --> 00:52:10,895
+It's okay.
+
+887
+00:52:10,895 --> 00:52:13,231
+Hey.
+He's okay. He's okay.
+
+888
+00:52:13,231 --> 00:52:15,966
+We need to get you
+a new seat.
+
+889
+00:52:15,966 --> 00:52:18,803
+Sir,
+please pass me the--
+
+890
+00:52:18,803 --> 00:52:21,472
+put this on. Lie back.
+
+891
+00:52:24,442 --> 00:52:28,112
+Ladies and gentlemen,
+thank you for
+your assistance.
+
+892
+00:52:28,112 --> 00:52:30,748
+Remain calm. Breathe deeply.
+
+893
+00:52:47,865 --> 00:52:50,235
+Nigel!
+
+894
+00:52:53,471 --> 00:52:55,673
+Nigel!
+
+895
+00:52:58,876 --> 00:53:01,812
+Colonel, colonel,
+
+896
+00:53:01,812 --> 00:53:03,981
+I don't know how
+or why,
+
+897
+00:53:03,981 --> 00:53:07,452
+but that DC-9,
+it's still here.
+
+898
+00:53:07,452 --> 00:53:09,720
+Must have missed it
+somehow.
+
+899
+00:53:09,720 --> 00:53:12,122
+[Chuckles]
+
+900
+00:53:12,122 --> 00:53:14,892
+Yeah, but it's still
+headed right for us.
+
+901
+00:53:14,892 --> 00:53:16,427
+If we don't change
+our course,
+
+902
+00:53:16,427 --> 00:53:18,429
+we're gonna collide
+with it in less
+than 30 minutes.
+
+903
+00:53:18,429 --> 00:53:20,998
+Well, the acat
+has our course
+locked in.
+
+904
+00:53:20,998 --> 00:53:24,269
+But that DC-9
+is flying right at us.
+
+905
+00:53:24,269 --> 00:53:26,904
+Why is it off
+its approved flight path?
+
+906
+00:53:33,043 --> 00:53:35,613
+This used to be an--
+an old military base.
+
+907
+00:53:35,613 --> 00:53:38,082
+The army has some old
+communication equipment
+
+908
+00:53:38,082 --> 00:53:40,951
+that they stowed away
+in a concrete bunker.
+
+909
+00:53:40,951 --> 00:53:42,052
+If we can communicate,
+
+910
+00:53:42,052 --> 00:53:43,954
+we can stop the collision.
+Come on.
+
+911
+00:53:53,063 --> 00:53:55,333
+[Grunting]
+
+912
+00:53:57,402 --> 00:53:59,970
+We need an acetylene torch
+to open this thing.
+
+913
+00:53:59,970 --> 00:54:01,472
+It's welded shut.
+
+914
+00:54:01,472 --> 00:54:02,940
+Do we have time
+to find one?
+
+915
+00:54:02,940 --> 00:54:06,377
+No. Damn it.
+
+916
+00:54:06,377 --> 00:54:08,579
+There's gotta
+be another way
+to save those planes.
+
+917
+00:54:10,014 --> 00:54:12,750
+Gotta be.
+
+918
+00:54:17,622 --> 00:54:19,023
+Status?
+
+919
+00:54:19,023 --> 00:54:20,358
+Still disabling,
+sir.
+
+920
+00:54:22,727 --> 00:54:26,096
+Something's coming up
+on us real fast.
+
+921
+00:54:26,096 --> 00:54:28,999
+Looks like a c-130.
+
+922
+00:54:28,999 --> 00:54:30,335
+C-130? Why?
+
+923
+00:54:31,969 --> 00:54:34,505
+It's gotta be
+operation Sam fox.
+
+924
+00:54:40,845 --> 00:54:43,614
+There's gotta
+be a way to prevent any more
+of our missiles from firing.
+
+925
+00:54:43,614 --> 00:54:47,051
+Maybe i--i can cut
+the control panel,
+i--i think.
+
+926
+00:54:47,051 --> 00:54:49,019
+Do it.
+
+927
+00:54:51,956 --> 00:54:53,057
+[Alarm blaring]
+
+928
+00:54:53,057 --> 00:54:54,925
+Acat didn't
+like that one bit.
+
+929
+00:54:54,925 --> 00:54:56,026
+Let's hope it worked.
+
+930
+00:54:57,528 --> 00:55:00,998
+There's gotta be a way
+to reduce our airspeed.
+
+931
+00:55:00,998 --> 00:55:03,368
+Come on. Come on.
+
+932
+00:55:17,982 --> 00:55:19,016
+[Whispering]
+Who's there?
+
+933
+00:55:20,385 --> 00:55:22,387
+Major Roberts,
+is that you?
+
+934
+00:55:22,387 --> 00:55:24,389
+Where's
+the president?!
+
+935
+00:55:24,389 --> 00:55:26,256
+Last I checked,
+he was in his suite.
+
+936
+00:55:26,256 --> 00:55:27,825
+I'm going to look
+now, sir.
+
+937
+00:55:27,825 --> 00:55:29,527
+Sergeant!
+
+938
+00:55:29,527 --> 00:55:31,562
+Proceed
+with caution.
+
+939
+00:55:41,205 --> 00:55:42,206
+Mr. President.
+
+940
+00:55:42,206 --> 00:55:45,075
+Joan, is that you?
+Yes, sir.
+
+941
+00:55:45,075 --> 00:55:46,544
+Do you have
+milani with you?
+
+942
+00:55:47,912 --> 00:55:49,246
+No, sir, I don't.
+
+943
+00:55:49,246 --> 00:55:50,648
+Where is she?
+
+944
+00:55:50,648 --> 00:55:52,016
+What's going on
+out there?
+
+945
+00:55:52,016 --> 00:55:53,518
+The security doors
+are programmed
+
+946
+00:55:53,518 --> 00:55:55,753
+to isolate
+a threat, sir.
+
+947
+00:55:55,753 --> 00:55:57,855
+What threat?
+Did someone
+take milani?
+
+948
+00:55:57,855 --> 00:55:58,856
+Oh, god, no.
+
+949
+00:55:58,856 --> 00:56:00,257
+I don't know, sir.
+
+950
+00:56:00,257 --> 00:56:01,926
+Agent Lee is locked
+in the security station.
+
+951
+00:56:01,926 --> 00:56:03,961
+Agent Roberts is locked
+in the lavatory, sir.
+
+952
+00:56:03,961 --> 00:56:06,330
+I was in the hallway
+when the doors
+deployed, sir.
+
+953
+00:56:06,330 --> 00:56:08,098
+W-we'll find her.
+We'll find her.
+
+954
+00:56:08,098 --> 00:56:10,735
+Uh, Joan, listen.
+I need status from
+the control cabin.
+
+955
+00:56:10,735 --> 00:56:14,171
+Go and report back.
+And, Joan,
+
+956
+00:56:14,171 --> 00:56:15,840
+find milani.
+
+957
+00:56:15,840 --> 00:56:17,708
+Yes, sir.
+
+958
+00:56:17,708 --> 00:56:20,210
+Where did our girl--
+I mean, where could
+she have gone?
+
+959
+00:56:20,210 --> 00:56:21,612
+No, no.
+She was
+sitting right--
+
+960
+00:56:25,450 --> 00:56:26,784
+agent Lee.
+
+961
+00:56:26,784 --> 00:56:30,087
+The president
+and Mrs. Phillips
+are secure, sir.
+
+962
+00:56:30,087 --> 00:56:31,456
+Milani is missing.
+
+963
+00:56:31,456 --> 00:56:32,990
+I'm going forward
+to the control cabin.
+
+964
+00:56:32,990 --> 00:56:34,859
+Keep me advised.
+
+965
+00:56:49,006 --> 00:56:52,710
+Sir, that civilian plane
+is still headed
+right towards us.
+
+966
+00:56:52,710 --> 00:56:54,612
+We can't execute
+Sam fox at this speed.
+
+967
+00:56:54,612 --> 00:56:55,813
+Can you slow us down?
+
+968
+00:56:55,813 --> 00:56:57,815
+Sir, the avionics are
+way too delicate.
+
+969
+00:56:57,815 --> 00:56:59,984
+I cut any more
+of these wires,
+
+970
+00:56:59,984 --> 00:57:00,985
+and I'm bringing us down.
+
+971
+00:57:10,360 --> 00:57:12,530
+I've only got
+one round left.
+
+972
+00:57:17,502 --> 00:57:19,504
+Identify yourself.
+
+973
+00:57:19,504 --> 00:57:21,071
+Cabin crew chief, sir.
+
+974
+00:57:21,071 --> 00:57:23,908
+Joan,
+the security door's
+malfunctioning.
+
+975
+00:57:23,908 --> 00:57:25,576
+We've weakened it
+from the inside,
+
+976
+00:57:25,576 --> 00:57:28,513
+but is there any way
+you can open it
+from out there?
+
+977
+00:57:29,714 --> 00:57:32,950
+If I can guide it
+on this end, sir,
+it might work.
+
+978
+00:57:32,950 --> 00:57:33,951
+You push. I'll pull.
+
+979
+00:57:35,319 --> 00:57:36,521
+1, 2...
+
+980
+00:57:36,521 --> 00:57:38,623
+[Both grunt]
+
+981
+00:57:40,991 --> 00:57:42,426
+Again, sir.
+
+982
+00:57:42,426 --> 00:57:44,795
+1, 2, 3!
+
+983
+00:57:46,430 --> 00:57:48,599
+[Beeping]
+
+984
+00:57:50,200 --> 00:57:53,671
+Joan, the acat's
+marking the cockpit door
+as being attacked,
+
+985
+00:57:53,671 --> 00:57:55,372
+that there's a threat
+on the main deck.
+
+986
+00:57:55,372 --> 00:57:57,708
+Crew chief,
+I think that means
+us and you.
+
+987
+00:57:59,009 --> 00:58:01,646
+What status shall I report
+to the president, sir?
+
+988
+00:58:01,646 --> 00:58:04,081
+We must override
+the acat.
+
+989
+00:58:05,415 --> 00:58:08,418
+Sir, I gave the president
+the override codes.
+
+990
+00:58:08,418 --> 00:58:09,920
+Go get the codes, Joan,
+
+991
+00:58:09,920 --> 00:58:12,356
+and bring 'em
+back to me, okay?
+
+992
+00:58:12,356 --> 00:58:14,959
+And for
+the president's
+ears only,
+
+993
+00:58:14,959 --> 00:58:17,628
+operation Sam fox.
+
+994
+00:58:21,331 --> 00:58:24,234
+Milani, where are you?
+[Sighs]
+
+995
+00:58:30,641 --> 00:58:32,777
+Now we're
+getting somewhere.
+
+996
+00:58:34,745 --> 00:58:35,713
+Joan.
+
+997
+00:58:38,148 --> 00:58:39,316
+Milani.
+
+998
+00:58:39,316 --> 00:58:41,051
+Joan, what happened?
+I got locked out.
+
+999
+00:58:41,051 --> 00:58:43,387
+The new acat program
+has malfunctioned.
+
+1000
+00:58:43,387 --> 00:58:45,322
+Is my dad okay?
+Yes, they're fine.
+
+1001
+00:58:45,322 --> 00:58:46,323
+They're locked
+in the suite.
+
+1002
+00:58:46,323 --> 00:58:47,457
+Could I talk to them?
+
+1003
+00:58:47,457 --> 00:58:48,793
+No, not yet.
+
+1004
+00:58:48,793 --> 00:58:51,696
+We need to make sure
+there isn't an intruder.
+
+1005
+00:58:51,696 --> 00:58:53,430
+Where are
+the agents?
+
+1006
+00:58:53,430 --> 00:58:55,600
+Agent Lee is locked
+in the security station.
+
+1007
+00:58:55,600 --> 00:58:57,735
+Agent Roberts is locked
+in the lavatory.
+
+1008
+00:58:58,603 --> 00:59:00,605
+What are you gonna do?
+
+1009
+00:59:00,605 --> 00:59:02,807
+I need to get
+the override codes
+to colonel lawler.
+
+1010
+00:59:02,807 --> 00:59:05,242
+I gave them to your dad
+in a folder. Remember?
+
+1011
+00:59:06,644 --> 00:59:09,246
+Yeah. With his paperwork
+in the suite.
+
+1012
+00:59:10,414 --> 00:59:14,051
+Milani, I need you
+to sit tight.
+
+1013
+00:59:26,997 --> 00:59:28,165
+That's right.
+
+1014
+00:59:30,968 --> 00:59:32,102
+[Spoon clatters]
+
+1015
+00:59:34,204 --> 00:59:36,073
+We don't need these
+anymore.
+
+1016
+00:59:36,073 --> 00:59:37,474
+Look, we're too low.
+
+1017
+00:59:37,474 --> 00:59:38,876
+Aoki, what the hell's
+going on?
+
+1018
+00:59:38,876 --> 00:59:40,377
+Look, whatever that
+was that hit us,
+
+1019
+00:59:40,377 --> 00:59:42,880
+it compromised
+our fuel tanks.
+
+1020
+00:59:42,880 --> 00:59:44,048
+Great.
+
+1021
+00:59:44,048 --> 00:59:45,650
+Anything with
+an integrated circuit
+
+1022
+00:59:45,650 --> 00:59:46,784
+is completely
+burned up.
+
+1023
+00:59:46,784 --> 00:59:48,786
+What about landing?
+
+1024
+00:59:48,786 --> 00:59:52,322
+Landing gear appears
+to be nonoperational.
+
+1025
+00:59:52,322 --> 00:59:54,792
+Is there
+any good news?
+
+1026
+00:59:56,126 --> 00:59:58,729
+Well, at least we're
+still locked on
+to our beacon.
+
+1027
+01:00:04,902 --> 01:00:08,138
+The acat is detecting
+a hostile intruder
+on the main deck.
+
+1028
+01:00:08,138 --> 01:00:10,775
+After everything
+that thing's done today.
+
+1029
+01:00:10,775 --> 01:00:12,109
+It's gotta mean Joan,
+major.
+
+1030
+01:00:12,109 --> 01:00:13,878
+There's nobody else
+in the hallways.
+
+1031
+01:00:13,878 --> 01:00:16,613
+Yeah, and we
+don't have much time
+to change course.
+
+1032
+01:00:17,982 --> 01:00:20,918
+If she can't
+get us those codes,
+
+1033
+01:00:20,918 --> 01:00:23,420
+we are betting
+the president's life
+
+1034
+01:00:23,420 --> 01:00:24,922
+on operation Sam fox.
+
+1035
+01:00:24,922 --> 01:00:27,491
+Yeah, and it's never
+been done at this speed.
+
+1036
+01:00:27,491 --> 01:00:30,027
+It's impossible
+at this speed, major.
+
+1037
+01:00:31,361 --> 01:00:32,963
+We gotta abort
+the mission.
+
+1038
+01:00:32,963 --> 01:00:34,564
+Yeah, but how?
+
+1039
+01:00:34,564 --> 01:00:36,767
+I don't know.
+
+1040
+01:00:39,403 --> 01:00:41,638
+Sir! Sir,
+what are you doing?
+
+1041
+01:00:44,108 --> 01:00:44,909
+Colonel lawler...
+
+1042
+01:00:44,909 --> 01:00:46,844
+What, major?!
+Please.
+
+1043
+01:00:46,844 --> 01:00:49,079
+You will crash
+this plane.
+
+1044
+01:00:50,380 --> 01:00:53,784
+If I didn't think
+putting a bullet
+in this thing
+
+1045
+01:00:53,784 --> 01:00:56,153
+wouldn't take us
+all down with it...
+
+1046
+01:00:59,089 --> 01:01:00,057
+Colonel.
+
+1047
+01:01:01,525 --> 01:01:04,294
+Sir, please.
+
+1048
+01:01:07,031 --> 01:01:09,800
+There's gotta be
+another way.
+
+1049
+01:01:09,800 --> 01:01:13,270
+All right.
+We have to think.
+
+1050
+01:01:13,270 --> 01:01:14,638
+Yeah.
+
+1051
+01:01:14,638 --> 01:01:16,306
+All right.
+
+1052
+01:01:16,306 --> 01:01:18,242
+Yeah. We gotta think.
+
+1053
+01:01:18,242 --> 01:01:19,443
+We gotta think.
+
+1054
+01:01:30,654 --> 01:01:32,622
+Nigel.
+
+1055
+01:01:32,622 --> 01:01:33,758
+Nigel.
+
+1056
+01:01:33,758 --> 01:01:35,760
+He got sucked
+out of the plane.
+
+1057
+01:01:35,760 --> 01:01:37,061
+Where the hell were you?
+
+1058
+01:01:39,296 --> 01:01:42,266
+One of the passengers
+was hit by the missile.
+
+1059
+01:01:58,082 --> 01:01:59,283
+[Gasps]
+
+1060
+01:02:00,785 --> 01:02:04,088
+Could you grab
+a blanket?
+
+1061
+01:02:04,088 --> 01:02:04,989
+Thank you.
+
+1062
+01:02:04,989 --> 01:02:09,559
+Sir, would you mind
+helping move him?
+
+1063
+01:02:09,559 --> 01:02:13,197
+Let's get him in that...
+
+1064
+01:02:13,197 --> 01:02:14,364
+Chair right there.
+
+1065
+01:02:20,037 --> 01:02:22,973
+Yeah, keep his head
+covered.
+
+1066
+01:02:22,973 --> 01:02:25,575
+Thank you. Thank you.
+I really appreciate it.
+
+1067
+01:02:25,575 --> 01:02:28,178
+You can go
+back to your seat.
+Thank you.
+
+1068
+01:03:12,890 --> 01:03:14,358
+She was sitting
+right here when--
+
+1069
+01:03:14,358 --> 01:03:15,725
+she can't have
+gone far.
+
+1070
+01:03:15,725 --> 01:03:17,862
+She wouldn't go off
+by herself,
+would she?
+
+1071
+01:03:17,862 --> 01:03:19,864
+No. No, she wouldn't. Um...
+My god.
+
+1072
+01:03:19,864 --> 01:03:21,765
+[Knocks on door]
+Sir.
+
+1073
+01:03:21,765 --> 01:03:22,867
+Mr. President.
+
+1074
+01:03:22,867 --> 01:03:24,301
+Yeah, Joan.
+Joan, is that you?
+
+1075
+01:03:24,301 --> 01:03:25,102
+I found milani.
+
+1076
+01:03:25,102 --> 01:03:26,536
+She's under
+the stairs.
+
+1077
+01:03:26,536 --> 01:03:28,005
+I told her
+to stay put.
+
+1078
+01:03:28,005 --> 01:03:30,207
+Rest assured there's
+no sign of an intruder.
+
+1079
+01:03:30,207 --> 01:03:32,977
+Colonel lawler
+believes the acat
+is malfunctioning.
+
+1080
+01:03:32,977 --> 01:03:35,012
+W-what?
+Malfunctioning?
+
+1081
+01:03:35,012 --> 01:03:39,283
+Yes, sir.
+He told me to tell you
+operation Sam fox.
+
+1082
+01:03:39,283 --> 01:03:40,450
+No. No, don't--
+
+1083
+01:03:40,450 --> 01:03:42,419
+don't worry. Calm down...
+Is it that serious?
+
+1084
+01:03:42,419 --> 01:03:43,453
+And we'll get
+through this.
+
+1085
+01:03:43,453 --> 01:03:44,654
+All right. Uh,
+
+1086
+01:03:44,654 --> 01:03:45,722
+what's lawler's plan?
+
+1087
+01:03:45,722 --> 01:03:46,891
+He wants to try
+
+1088
+01:03:46,891 --> 01:03:48,125
+the executive
+override code, sir.
+
+1089
+01:03:48,125 --> 01:03:49,927
+Will it open
+these damn doors?
+
+1090
+01:03:49,927 --> 01:03:51,328
+We hope so, sir.
+
+1091
+01:03:52,696 --> 01:03:54,364
+Could you
+please pass the codes
+
+1092
+01:03:54,364 --> 01:03:55,232
+under the door, sir?
+
+1093
+01:03:55,232 --> 01:03:57,234
+Yeah. Yeah.
+Hold on a second.
+
+1094
+01:04:02,439 --> 01:04:03,941
+All right, uh, Joan,
+
+1095
+01:04:03,941 --> 01:04:06,343
+there are 5 copies
+of the override codes.
+
+1096
+01:04:06,343 --> 01:04:08,345
+I'm keeping one, okay?
+
+1097
+01:04:09,914 --> 01:04:12,516
+And, Joan, hurry.
+
+1098
+01:04:12,516 --> 01:04:16,820
+Just--just hurry.
+
+1099
+01:04:16,820 --> 01:04:18,055
+Understood, sir.
+
+1100
+01:04:32,536 --> 01:04:34,471
+I need
+the flight attendant.
+
+1101
+01:04:34,471 --> 01:04:35,605
+Ma'am.
+
+1102
+01:04:39,076 --> 01:04:41,145
+Ma'am, I need your help.
+
+1103
+01:04:41,145 --> 01:04:43,480
+Ma'am.
+
+1104
+01:04:43,480 --> 01:04:44,581
+I need my medication.
+
+1105
+01:04:44,581 --> 01:04:46,283
+Okay. Do you remember
+where it is?
+
+1106
+01:04:46,283 --> 01:04:48,818
+Yeah, it's in the red bag,
+but they took it.
+I have epilepsy.
+
+1107
+01:04:48,818 --> 01:04:50,620
+If I don't get
+my medication,
+I could die.
+
+1108
+01:04:50,620 --> 01:04:51,788
+Okay. We'll get it
+for you.
+
+1109
+01:04:51,788 --> 01:04:53,157
+I know where it is.
+
+1110
+01:04:53,157 --> 01:04:54,959
+Sir, could--
+would you mind
+getting it for her?
+
+1111
+01:04:54,959 --> 01:04:56,226
+I'm having an aura.
+
+1112
+01:04:56,226 --> 01:04:57,327
+That means I don't
+have a lot of time.
+
+1113
+01:04:57,327 --> 01:04:58,862
+I need those pills.
+Okay, okay.
+
+1114
+01:04:58,862 --> 01:04:59,964
+We'll get them
+for you.
+
+1115
+01:04:59,964 --> 01:05:02,199
+What the hell
+is going on now?
+
+1116
+01:05:02,199 --> 01:05:03,968
+She needs
+her medication.
+
+1117
+01:05:03,968 --> 01:05:05,169
+It's in
+that red bag.
+
+1118
+01:05:05,169 --> 01:05:06,270
+Whoa.
+
+1119
+01:05:06,270 --> 01:05:09,173
+What do
+you think
+you're doing?
+
+1120
+01:05:09,173 --> 01:05:11,175
+She needs medication.
+Can't you see that?
+
+1121
+01:05:11,175 --> 01:05:13,010
+You're not
+touching that bag.
+
+1122
+01:05:13,010 --> 01:05:15,079
+I won't touch the patch.
+I'll just get the pills.
+
+1123
+01:05:15,079 --> 01:05:17,614
+It's too big a risk.
+She could die.
+
+1124
+01:05:17,614 --> 01:05:20,517
+Look, if you
+touch that bag
+
+1125
+01:05:20,517 --> 01:05:22,686
+and that hole reopens,
+
+1126
+01:05:22,686 --> 01:05:25,089
+it's a death sentence
+for everybody
+on this plane.
+
+1127
+01:05:25,089 --> 01:05:26,890
+Look, I don't want
+to die either, okay?
+
+1128
+01:05:26,890 --> 01:05:28,492
+I'll just get the pills
+nice and easy.
+
+1129
+01:05:28,492 --> 01:05:30,194
+That's what you say,
+but what if you're wrong
+
+1130
+01:05:30,194 --> 01:05:31,228
+and it blows? What then?
+
+1131
+01:05:31,228 --> 01:05:32,396
+You can't take
+that chance.
+
+1132
+01:05:32,396 --> 01:05:34,431
+I have a baby at home.
+What about him?
+
+1133
+01:05:34,431 --> 01:05:36,500
+Lindsay: Hurry.
+She's starting
+to convulse.
+
+1134
+01:05:36,500 --> 01:05:38,002
+She's sick.
+
+1135
+01:05:38,002 --> 01:05:40,504
+It's not worth it.
+
+1136
+01:05:40,504 --> 01:05:41,638
+Go sit down.
+
+1137
+01:05:41,638 --> 01:05:44,008
+We all deserve to live,
+not just the two of you.
+
+1138
+01:05:44,008 --> 01:05:46,343
+I said sit down.
+
+1139
+01:05:46,343 --> 01:05:47,311
+Hey!
+Get back!
+
+1140
+01:05:48,145 --> 01:05:49,479
+Put your hands
+on me.
+
+1141
+01:05:49,479 --> 01:05:51,115
+Come on!
+
+1142
+01:05:52,882 --> 01:05:55,119
+We gotta route them
+around that somehow.
+
+1143
+01:05:55,119 --> 01:05:57,321
+Look, I'm not giving up,
+but how are we
+
+1144
+01:05:57,321 --> 01:05:59,289
+supposed to contact them
+with no electronics?
+
+1145
+01:06:00,390 --> 01:06:02,926
+Maybe we could ping
+their receiver somehow.
+
+1146
+01:06:02,926 --> 01:06:06,030
+The DC-9 still has
+equipment from the seventies.
+
+1147
+01:06:07,031 --> 01:06:08,198
+There's only
+one place I know
+
+1148
+01:06:08,198 --> 01:06:09,666
+that still has
+that ancient equipment.
+
+1149
+01:06:09,666 --> 01:06:10,767
+Where's that?
+
+1150
+01:06:10,767 --> 01:06:12,536
+The aviation museum.
+
+1151
+01:06:14,271 --> 01:06:16,440
+Come on.
+My car is blocked.
+We gotta use yours.
+
+1152
+01:06:29,719 --> 01:06:31,121
+Gentlemen, people!
+
+1153
+01:06:31,121 --> 01:06:32,856
+It's getting so strong.
+
+1154
+01:06:32,856 --> 01:06:35,125
+I need something
+for her mouth.
+
+1155
+01:06:38,062 --> 01:06:39,563
+Oh, god.
+
+1156
+01:06:39,563 --> 01:06:40,764
+Oh, god.
+
+1157
+01:06:42,066 --> 01:06:43,200
+This is what you want.
+
+1158
+01:06:43,200 --> 01:06:45,069
+Don't you dare
+look away from her.
+
+1159
+01:06:46,636 --> 01:06:48,172
+Okay. Okay.
+
+1160
+01:07:04,788 --> 01:07:07,557
+She's gone.
+
+1161
+01:07:07,557 --> 01:07:09,493
+This is
+what you wanted.
+
+1162
+01:07:12,462 --> 01:07:14,464
+You still have to live
+with yourselves.
+
+1163
+01:07:21,971 --> 01:07:25,342
+Gentlemen,
+back to your seats.
+
+1164
+01:08:02,712 --> 01:08:04,314
+Here she comes.
+
+1165
+01:08:04,314 --> 01:08:05,749
+It's not gonna work
+at this speed.
+
+1166
+01:08:08,552 --> 01:08:09,719
+Boom attached.
+
+1167
+01:08:09,719 --> 01:08:11,621
+Lieutenant Montgomery,
+prepare for extraction.
+
+1168
+01:08:14,057 --> 01:08:15,259
+Operation Sam fox
+is coming.
+
+1169
+01:08:15,259 --> 01:08:16,860
+Now I want you to go.
+
+1170
+01:08:16,860 --> 01:08:18,862
+No. No,
+not without milani.
+
+1171
+01:08:18,862 --> 01:08:20,464
+It'll be easier
+for me to help milani
+
+1172
+01:08:20,464 --> 01:08:22,832
+if I don't have to worry
+about you getting hurt.
+
+1173
+01:08:22,832 --> 01:08:24,168
+Henry,
+I don't understand.
+
+1174
+01:08:24,168 --> 01:08:26,270
+I thought they said it
+was just a malfunction.
+
+1175
+01:08:26,270 --> 01:08:28,305
+All right, look.
+Operation Sam fox is here.
+
+1176
+01:08:28,305 --> 01:08:30,674
+That means we need
+to get off this plane.
+
+1177
+01:08:31,908 --> 01:08:33,177
+Mr. President,
+let's go.
+
+1178
+01:08:33,177 --> 01:08:34,511
+No, no, no.
+You're taking her first.
+
+1179
+01:08:34,511 --> 01:08:37,181
+Sir, my orders are
+to extract
+you first.
+
+1180
+01:08:37,181 --> 01:08:38,315
+I am your
+commander in chief,
+
+1181
+01:08:38,315 --> 01:08:40,184
+and I am giving you
+a direct order
+
+1182
+01:08:40,184 --> 01:08:41,618
+to take my wife first.
+
+1183
+01:08:41,618 --> 01:08:45,189
+Sir, my orders are
+to extract you and
+then your family.
+
+1184
+01:08:46,556 --> 01:08:48,858
+I am the president
+of the United States,
+
+1185
+01:08:48,858 --> 01:08:52,229
+and you will do
+what I tell you now.
+
+1186
+01:08:54,964 --> 01:08:56,766
+Yes, sir.
+
+1187
+01:08:56,766 --> 01:08:59,436
+Ma'am, I need you
+to step into
+the harness.
+
+1188
+01:08:59,436 --> 01:09:01,605
+Henry, I don't think
+I can go through with this.
+
+1189
+01:09:01,605 --> 01:09:05,209
+Kim, Kim, I need
+you to stay with me
+for milani, okay.
+
+1190
+01:09:05,209 --> 01:09:07,444
+Oh. Okay. Exactly how
+is this gonna work?
+
+1191
+01:09:07,444 --> 01:09:09,746
+We're going tandem.
+I'll be right here.
+
+1192
+01:09:09,746 --> 01:09:10,847
+Oh, god. Henry.
+
+1193
+01:09:10,847 --> 01:09:12,015
+Honey,
+I know you're scared...
+
+1194
+01:09:12,015 --> 01:09:13,283
+I'm really
+freaking out right now.
+
+1195
+01:09:13,283 --> 01:09:14,418
+But this is
+the safest way.
+
+1196
+01:09:14,418 --> 01:09:16,019
+You might get hurt
+if you stay here.
+
+1197
+01:09:16,019 --> 01:09:17,954
+Okay.
+Mr. President,
+the rope.
+
+1198
+01:09:17,954 --> 01:09:19,423
+What about milani?
+I will find milani.
+
+1199
+01:09:19,423 --> 01:09:21,591
+Don't worry, okay?
+Now, I know you
+can do this.
+
+1200
+01:09:21,591 --> 01:09:22,826
+We have to go.
+
+1201
+01:09:22,826 --> 01:09:24,728
+Henry, I don't think
+I can go through with this.
+
+1202
+01:09:24,728 --> 01:09:25,962
+Yes, you can,
+sweetheart.
+
+1203
+01:09:25,962 --> 01:09:27,297
+Henry, I can't do this!
+
+1204
+01:09:27,297 --> 01:09:28,532
+I will be with you
+all the time.
+
+1205
+01:09:28,532 --> 01:09:30,234
+I'm gonna need you
+to hold tight, sir.
+
+1206
+01:09:30,234 --> 01:09:31,568
+I love you, honey.
+
+1207
+01:09:31,568 --> 01:09:32,536
+Love you.
+
+1208
+01:09:41,878 --> 01:09:44,914
+Sir, the plane
+is changing course
+to avoid turbulence.
+
+1209
+01:09:44,914 --> 01:09:47,317
+We gotta move fast now.
+
+1210
+01:09:52,656 --> 01:09:54,258
+[Kim screaming]
+
+1211
+01:09:57,026 --> 01:09:58,295
+Something's wrong.
+
+1212
+01:09:58,295 --> 01:09:59,496
+They're
+falling away.
+
+1213
+01:10:01,298 --> 01:10:02,966
+Did the acat
+deploy weapons?
+
+1214
+01:10:02,966 --> 01:10:05,168
+Nah, it's a negative, sir.
+That's gotta be something else.
+
+1215
+01:10:05,168 --> 01:10:07,170
+Something's wrong.
+It's all wrong, man.
+
+1216
+01:10:07,170 --> 01:10:08,872
+[Screaming]
+
+1217
+01:10:12,842 --> 01:10:15,512
+It's too heavy.
+
+1218
+01:10:15,512 --> 01:10:17,814
+[Groaning]
+
+1219
+01:10:19,048 --> 01:10:21,785
+It's not gonna hold!
+
+1220
+01:10:24,220 --> 01:10:26,656
+[Screaming]
+
+1221
+01:10:43,273 --> 01:10:46,009
+Okay. Okay.
+
+1222
+01:10:46,009 --> 01:10:48,111
+Okay. Okay.
+
+1223
+01:10:48,111 --> 01:10:50,079
+[Sobbing]
+
+1224
+01:10:50,079 --> 01:10:51,247
+[Hatch closes]
+
+1225
+01:10:52,349 --> 01:10:54,250
+He saved me. Ohh.
+
+1226
+01:10:54,250 --> 01:10:56,420
+[Sobbing]
+
+1227
+01:11:04,528 --> 01:11:06,330
+I'm getting reports
+that Sam fox has failed.
+
+1228
+01:11:06,330 --> 01:11:07,831
+At which point
+did it fail?
+
+1229
+01:11:07,831 --> 01:11:09,599
+Did the president
+make it on the plane?
+
+1230
+01:11:09,599 --> 01:11:11,067
+Details are
+unclear, sir.
+
+1231
+01:11:11,067 --> 01:11:12,702
+Keep trying.
+Yes, sir.
+
+1232
+01:11:12,702 --> 01:11:14,237
+Are you in charge?
+
+1233
+01:11:14,237 --> 01:11:15,805
+Not now.
+Yes, now!
+
+1234
+01:11:15,805 --> 01:11:19,008
+Private, this is not
+a holding facility.
+
+1235
+01:11:19,008 --> 01:11:20,444
+I made him take me to you!
+
+1236
+01:11:20,444 --> 01:11:22,746
+Private, get her
+out of my face.
+
+1237
+01:11:22,746 --> 01:11:25,649
+Yes, sir. Sorry, sir.
+I can talk to the airplane.
+
+1238
+01:11:25,649 --> 01:11:28,051
+You can't talk
+to air force one
+right now,
+
+1239
+01:11:28,051 --> 01:11:29,353
+because you have
+no communications.
+
+1240
+01:11:29,353 --> 01:11:32,356
+But I can!
+I can do this.
+
+1241
+01:11:34,223 --> 01:11:36,593
+You have 30 seconds
+to tell me how.
+
+1242
+01:11:36,593 --> 01:11:38,895
+I need to make it
+to the top of that mountain,
+
+1243
+01:11:38,895 --> 01:11:41,931
+and I need to make it
+up there in less
+than five minutes.
+
+1244
+01:11:52,376 --> 01:11:54,043
+Whatever it takes,
+
+1245
+01:11:54,043 --> 01:11:55,779
+we've gotta
+land this plane.
+
+1246
+01:11:55,779 --> 01:11:57,381
+Yes, sir.
+
+1247
+01:11:57,381 --> 01:11:59,383
+Colonel,
+I have the codes.
+
+1248
+01:12:01,718 --> 01:12:03,520
+Thank god.
+
+1249
+01:12:05,389 --> 01:12:06,590
+I'll slide them
+under the door.
+
+1250
+01:12:06,590 --> 01:12:07,891
+Coming to you now, sir.
+
+1251
+01:12:07,891 --> 01:12:09,393
+Okay.
+
+1252
+01:12:11,395 --> 01:12:12,662
+They won't fit, sir.
+
+1253
+01:12:12,662 --> 01:12:14,130
+There's not
+enough space.
+
+1254
+01:12:14,130 --> 01:12:15,899
+[Beeping]
+
+1255
+01:12:15,899 --> 01:12:19,469
+Joan, the acat's
+marking you as
+a hostile intruder.
+
+1256
+01:12:19,469 --> 01:12:22,005
+It's got you
+in its crosshairs.
+
+1257
+01:12:22,005 --> 01:12:23,740
+Lawler:
+We gotta move fast.
+
+1258
+01:12:23,740 --> 01:12:26,309
+I'll read them
+to you, sir. Um...
+
+1259
+01:12:26,309 --> 01:12:29,312
+Step one, biometric
+identification, sir.
+
+1260
+01:12:29,312 --> 01:12:31,415
+Do you see
+the system, sir?
+
+1261
+01:12:33,617 --> 01:12:34,984
+Activating
+biometric station.
+
+1262
+01:12:37,587 --> 01:12:39,423
+All right.
+Once identity...
+
+1263
+01:12:39,423 --> 01:12:42,158
+[Electricity crackling]
+Is verified,
+you'll press--
+
+1264
+01:12:42,158 --> 01:12:44,561
+Joan,
+something's wrong.
+
+1265
+01:12:45,995 --> 01:12:47,697
+The acat's--aah!
+
+1266
+01:12:47,697 --> 01:12:49,198
+The acat's trying
+to kill us, Joan!
+
+1267
+01:12:49,198 --> 01:12:50,867
+What?
+
+1268
+01:12:50,867 --> 01:12:53,102
+[Crackling]
+Sir!
+
+1269
+01:12:53,102 --> 01:12:55,104
+Colonel!
+Run!
+
+1270
+01:12:55,104 --> 01:12:56,873
+Run, Joan!
+Colonel, sir!
+
+1271
+01:12:56,873 --> 01:12:58,575
+[Yells]
+
+1272
+01:13:11,621 --> 01:13:13,923
+[Helicopter blades whirring]
+
+1273
+01:13:26,903 --> 01:13:29,706
+We've got 5 minutes
+to get this to work.
+
+1274
+01:13:29,706 --> 01:13:33,209
+This analog system
+is independent
+from the acat.
+
+1275
+01:13:33,209 --> 01:13:35,278
+What can I do
+to help?
+
+1276
+01:13:35,278 --> 01:13:37,346
+Well, we need a radio.
+
+1277
+01:13:37,346 --> 01:13:38,748
+Okay.
+
+1278
+01:13:38,748 --> 01:13:40,484
+First let's...
+
+1279
+01:14:11,047 --> 01:14:12,015
+Anything?
+
+1280
+01:14:14,884 --> 01:14:15,685
+Nothing.
+
+1281
+01:14:15,685 --> 01:14:17,721
+I need to boost
+the signal.
+
+1282
+01:14:19,689 --> 01:14:22,826
+Mr. President!
+Mr. President!
+
+1283
+01:14:22,826 --> 01:14:23,827
+Joan.
+
+1284
+01:14:23,827 --> 01:14:24,961
+Mr. President.
+
+1285
+01:14:24,961 --> 01:14:25,962
+What's the status
+
+1286
+01:14:25,962 --> 01:14:27,230
+in the control cabin?
+
+1287
+01:14:27,230 --> 01:14:29,232
+The acat has killed
+colonel lawler
+
+1288
+01:14:29,232 --> 01:14:30,567
+and major Lewis, sir.
+
+1289
+01:14:30,567 --> 01:14:33,302
+Agent Lee is trying
+to disable it now.
+
+1290
+01:14:33,302 --> 01:14:36,005
+W-wait a minute.
+Who will fly the plane?
+
+1291
+01:14:39,943 --> 01:14:41,578
+Joan, you have got
+to get us out of here.
+
+1292
+01:14:41,578 --> 01:14:42,912
+Once the acat
+is turned off,
+
+1293
+01:14:42,912 --> 01:14:45,782
+there will be no one
+flying this plane.
+
+1294
+01:14:45,782 --> 01:14:46,683
+Joan!
+
+1295
+01:14:46,683 --> 01:14:48,417
+Joan, can you hear me?
+
+1296
+01:14:48,417 --> 01:14:50,687
+Joan! Joan!
+
+1297
+01:14:50,687 --> 01:14:52,121
+Sergeant, are you there?
+
+1298
+01:14:57,326 --> 01:14:58,995
+[Laser blasts]
+
+1299
+01:15:02,699 --> 01:15:04,701
+Wait.
+
+1300
+01:15:25,088 --> 01:15:26,255
+Milani!
+
+1301
+01:15:52,015 --> 01:15:53,149
+Here. Try this.
+
+1302
+01:15:55,318 --> 01:15:56,686
+[Static buzzing]
+
+1303
+01:15:56,686 --> 01:15:59,455
+Okay. We got radio.
+
+1304
+01:15:59,455 --> 01:16:00,990
+Okay, now for radar.
+
+1305
+01:16:04,060 --> 01:16:07,330
+Hand me the batteries from
+the, uh, security lights.
+
+1306
+01:16:07,330 --> 01:16:08,665
+Here.
+
+1307
+01:16:09,532 --> 01:16:10,634
+Come on, baby.
+
+1308
+01:16:10,634 --> 01:16:13,402
+This has got to work.
+
+1309
+01:16:13,402 --> 01:16:15,038
+Come on, now.
+
+1310
+01:16:20,543 --> 01:16:21,778
+All right.
+
+1311
+01:16:23,279 --> 01:16:25,214
+[Pinging]
+
+1312
+01:16:25,214 --> 01:16:27,083
+[Laughs] We got radar.
+
+1313
+01:16:27,083 --> 01:16:28,484
+Okay.
+
+1314
+01:16:28,484 --> 01:16:30,453
+But we won't
+have radar tags.
+
+1315
+01:16:30,453 --> 01:16:34,523
+Well, we'll just
+get the altitude
+from the pilot manually.
+
+1316
+01:16:34,523 --> 01:16:36,225
+We'll do it
+the old way.
+
+1317
+01:16:36,225 --> 01:16:37,727
+Okay.
+
+1318
+01:16:38,862 --> 01:16:41,530
+Americana blue,
+this is Cleveland control.
+
+1319
+01:16:41,530 --> 01:16:42,666
+Please respond.
+
+1320
+01:16:42,666 --> 01:16:43,867
+[Static crackles]
+
+1321
+01:16:45,534 --> 01:16:47,570
+Americana blue 23,
+
+1322
+01:16:47,570 --> 01:16:50,740
+this is Cleveland control.
+Please respond.
+
+1323
+01:16:54,277 --> 01:16:56,746
+Damn it.
+
+1324
+01:17:03,820 --> 01:17:04,688
+Dad.
+
+1325
+01:17:04,688 --> 01:17:05,789
+[Gasps]
+No. Milani.
+
+1326
+01:17:05,789 --> 01:17:07,523
+Milani.
+Are you okay, honey?
+
+1327
+01:17:07,523 --> 01:17:09,693
+Dad, dad, the--
+the lasers got Joan.
+
+1328
+01:17:09,693 --> 01:17:10,894
+All right, listen.
+Listen, milani.
+
+1329
+01:17:10,894 --> 01:17:11,961
+Listen very carefully.
+
+1330
+01:17:11,961 --> 01:17:13,763
+Can you get
+the override codes?
+
+1331
+01:17:15,098 --> 01:17:16,265
+Got it.
+
+1332
+01:17:16,265 --> 01:17:17,566
+Good girl.
+Good girl.
+
+1333
+01:17:17,566 --> 01:17:18,702
+Now listen, milani.
+
+1334
+01:17:18,702 --> 01:17:20,169
+The lasers are
+motion sensitive,
+
+1335
+01:17:20,169 --> 01:17:21,604
+so try to avoid them
+
+1336
+01:17:21,604 --> 01:17:23,506
+or--or distract them
+if you can.
+
+1337
+01:17:23,506 --> 01:17:25,041
+Distract them with what?
+
+1338
+01:17:25,041 --> 01:17:27,210
+Anything, sweetheart.
+Anything you can find.
+
+1339
+01:17:27,210 --> 01:17:28,912
+Dad, dad,
+they're coming.
+
+1340
+01:17:28,912 --> 01:17:30,179
+Once you
+turn off the acat,
+
+1341
+01:17:30,179 --> 01:17:32,548
+there will be no one there
+to fly the plane
+
+1342
+01:17:32,548 --> 01:17:34,317
+until I get there,
+so just stay calm
+
+1343
+01:17:34,317 --> 01:17:35,318
+and grab the stick, okay?
+
+1344
+01:17:36,920 --> 01:17:39,055
+Oh, be careful,
+milani.
+
+1345
+01:17:51,067 --> 01:17:52,335
+Maybe...
+
+1346
+01:18:01,577 --> 01:18:02,912
+[Laser blasts]
+
+1347
+01:18:08,551 --> 01:18:10,754
+[Beeping]
+
+1348
+01:18:19,362 --> 01:18:20,930
+[Laser blasts]
+
+1349
+01:18:26,569 --> 01:18:28,137
+[Laser blasts]
+
+1350
+01:18:38,681 --> 01:18:41,785
+[Solid tone sounding]
+
+1351
+01:18:44,788 --> 01:18:46,956
+Americana blue,
+flight 23...
+
+1352
+01:18:48,024 --> 01:18:50,193
+This is Cleveland control.
+Please respond.
+
+1353
+01:18:50,193 --> 01:18:52,495
+We've got 90 seconds
+until collision.
+
+1354
+01:18:52,495 --> 01:18:53,797
+God help us.
+
+1355
+01:18:53,797 --> 01:18:54,864
+Americana blue,
+
+1356
+01:18:54,864 --> 01:18:56,365
+this is
+Cleveland control.
+
+1357
+01:18:56,365 --> 01:18:58,101
+Americana blue...
+
+1358
+01:18:58,101 --> 01:19:00,136
+Wait a minute.
+
+1359
+01:19:00,136 --> 01:19:02,471
+There's something wrong
+with our beacon.
+
+1360
+01:19:02,471 --> 01:19:04,040
+We're going
+the wrong way.
+
+1361
+01:19:04,040 --> 01:19:05,809
+We don't have
+much power.
+
+1362
+01:19:05,809 --> 01:19:07,844
+You better
+figure out
+where we're going.
+
+1363
+01:19:09,445 --> 01:19:11,014
+America blue 23,
+mayday.
+
+1364
+01:19:11,014 --> 01:19:12,982
+Damn it.
+It's still burnt out.
+
+1365
+01:19:12,982 --> 01:19:15,151
+Listen, these old planes
+have analog systems.
+
+1366
+01:19:15,151 --> 01:19:17,486
+Maybe we
+can reach somebody
+in Detroit on that.
+
+1367
+01:19:20,523 --> 01:19:22,391
+America blue 23.
+Mayday.
+
+1368
+01:19:22,391 --> 01:19:23,392
+I repeat mayday.
+
+1369
+01:19:23,392 --> 01:19:25,261
+Requesting
+any assistance.
+
+1370
+01:19:25,261 --> 01:19:26,529
+Mayday, mayday.
+
+1371
+01:19:26,529 --> 01:19:28,832
+Americana blue 23,
+Cleveland control.
+
+1372
+01:19:28,832 --> 01:19:30,599
+Drop to flight level 21
+immediately.
+
+1373
+01:19:30,599 --> 01:19:33,036
+Cleveland, we have
+no navigational control.
+
+1374
+01:19:33,036 --> 01:19:34,904
+Electronics are
+burned out. Over.
+
+1375
+01:19:34,904 --> 01:19:37,373
+Impact with
+air...One...
+30 seconds.
+
+1376
+01:19:37,373 --> 01:19:38,908
+...your engines now.
+
+1377
+01:19:40,109 --> 01:19:41,377
+Cleveland control,
+repeat.
+
+1378
+01:19:41,377 --> 01:19:43,546
+Impact with air force one
+
+1379
+01:19:43,546 --> 01:19:45,982
+in 30 seconds.
+Cut your engines now!
+
+1380
+01:19:46,883 --> 01:19:48,751
+Cutting all power.
+
+1381
+01:19:48,751 --> 01:19:50,386
+[Engines power down]
+
+1382
+01:19:51,754 --> 01:19:53,556
+[Screaming]
+
+1383
+01:19:54,757 --> 01:19:55,925
+We're going under.
+
+1384
+01:19:58,862 --> 01:20:01,064
+[Screaming]
+
+1385
+01:20:01,064 --> 01:20:02,231
+We're not
+gonna make it.
+
+1386
+01:20:05,201 --> 01:20:06,435
+Aah!
+
+1387
+01:20:09,472 --> 01:20:12,308
+[Screaming]
+
+1388
+01:20:19,782 --> 01:20:21,717
+They missed?
+
+1389
+01:20:21,717 --> 01:20:23,052
+They missed.
+
+1390
+01:20:30,960 --> 01:20:33,897
+Bob: Air force one,
+this is Cleveland control.
+
+1391
+01:20:33,897 --> 01:20:35,331
+Please respond.
+
+1392
+01:20:37,000 --> 01:20:38,935
+[Muttering]
+6, 8...
+
+1393
+01:20:42,605 --> 01:20:44,273
+[Screaming]
+
+1394
+01:20:47,043 --> 01:20:48,644
+Hey, look. There's
+agricultural land
+
+1395
+01:20:48,644 --> 01:20:50,013
+just past
+the power plant.
+
+1396
+01:20:50,013 --> 01:20:51,514
+We can bring them
+down there.
+
+1397
+01:20:51,514 --> 01:20:52,815
+Is that gonna be
+enough space?
+
+1398
+01:20:52,815 --> 01:20:54,383
+Have to be.
+
+1399
+01:20:54,383 --> 01:20:57,120
+[Passengers screaming]
+
+1400
+01:21:05,061 --> 01:21:07,230
+Okay, we're in.
+We've got a signal.
+
+1401
+01:21:07,230 --> 01:21:10,399
+Now we just have
+to triangulate
+with Cleveland.
+
+1402
+01:21:11,734 --> 01:21:13,436
+Triangulating.
+
+1403
+01:21:18,741 --> 01:21:20,176
+All right.
+
+1404
+01:21:28,184 --> 01:21:29,352
+Aah!
+
+1405
+01:21:30,954 --> 01:21:32,188
+Kim: Joan!
+
+1406
+01:21:32,188 --> 01:21:33,422
+Ohh!
+Joan!
+
+1407
+01:21:33,422 --> 01:21:36,192
+Go. Go, Henry. Go.
+
+1408
+01:21:44,267 --> 01:21:46,102
+Americana blue,
+this is Cleveland control.
+
+1409
+01:21:47,736 --> 01:21:49,973
+Take heading 240.
+
+1410
+01:21:49,973 --> 01:21:51,640
+Prepare for
+a forced landing.
+
+1411
+01:21:53,076 --> 01:21:54,477
+You're heading
+for a field
+
+1412
+01:21:54,477 --> 01:21:55,644
+just past
+the power plant.
+
+1413
+01:21:56,812 --> 01:21:58,481
+There.
+
+1414
+01:21:58,481 --> 01:21:59,983
+[Screaming]
+
+1415
+01:22:09,458 --> 01:22:12,328
+Air force one,
+this is Cleveland control.
+
+1416
+01:22:12,328 --> 01:22:13,296
+Please respond.
+
+1417
+01:22:14,563 --> 01:22:17,000
+Milani!
+Daddy!
+
+1418
+01:22:23,172 --> 01:22:24,173
+Ohh!
+
+1419
+01:22:24,173 --> 01:22:25,608
+Come on.
+
+1420
+01:22:27,443 --> 01:22:28,477
+Come on.
+
+1421
+01:22:28,477 --> 01:22:29,878
+Okay. I'm okay.
+
+1422
+01:22:29,878 --> 01:22:31,680
+Hang on, honey.
+
+1423
+01:22:34,150 --> 01:22:36,019
+Better strap in,
+sweetheart.
+
+1424
+01:22:40,556 --> 01:22:43,026
+[Screaming]
+
+1425
+01:22:50,799 --> 01:22:52,668
+Over there.
+
+1426
+01:22:57,773 --> 01:22:59,408
+[Screaming]
+
+1427
+01:23:02,345 --> 01:23:05,081
+Alert emergency
+services to meet them
+at the crash site.
+
+1428
+01:23:06,115 --> 01:23:07,650
+Mercy hospital,
+come in.
+
+1429
+01:23:13,056 --> 01:23:15,558
+[Screaming]
+
+1430
+01:23:27,070 --> 01:23:28,604
+Air force one,
+
+1431
+01:23:28,604 --> 01:23:31,540
+this is Cleveland control.
+Please respond.
+
+1432
+01:23:31,540 --> 01:23:33,442
+Daddy.
+
+1433
+01:23:45,888 --> 01:23:47,256
+Okay.
+
+1434
+01:23:47,256 --> 01:23:49,658
+Trying to redeploy
+landing gear.
+
+1435
+01:23:49,658 --> 01:23:51,394
+Flaps down.
+
+1436
+01:23:53,862 --> 01:23:55,431
+This is it!
+
+1437
+01:23:55,431 --> 01:23:57,500
+Brace for impact.
+
+1438
+01:23:58,634 --> 01:24:00,503
+[Screaming]
+
+1439
+01:24:15,918 --> 01:24:18,654
+[Screaming subsides]
+
+1440
+01:24:22,691 --> 01:24:24,427
+You okay?
+
+1441
+01:24:24,427 --> 01:24:25,694
+Yeah.
+
+1442
+01:24:25,694 --> 01:24:26,662
+You?
+
+1443
+01:24:35,138 --> 01:24:37,173
+[Splashing]
+
+1444
+01:24:37,173 --> 01:24:38,641
+We gotta get
+the passengers out!
+
+1445
+01:24:42,678 --> 01:24:43,679
+Hey.
+Hey.
+
+1446
+01:24:43,679 --> 01:24:44,947
+I'll get the door.
+
+1447
+01:24:44,947 --> 01:24:46,549
+I'll deal with
+the passengers.
+
+1448
+01:24:46,549 --> 01:24:49,185
+We'll secure the slide
+at the bottom.
+
+1449
+01:24:52,888 --> 01:24:55,158
+[Passengers screaming]
+
+1450
+01:24:55,158 --> 01:24:57,160
+Lindsay: Everybody,
+remain calm.
+
+1451
+01:24:57,160 --> 01:24:58,327
+You ready? Go! Go! Go!
+
+1452
+01:24:58,327 --> 01:24:59,462
+Lindsay:
+One at a time.
+
+1453
+01:24:59,462 --> 01:25:01,664
+We gotta take
+the evacuation slide.
+
+1454
+01:25:01,664 --> 01:25:02,965
+[Passengers screaming]
+
+1455
+01:25:02,965 --> 01:25:04,367
+Lindsay: ...Time.
+One at a time.
+
+1456
+01:25:04,367 --> 01:25:05,934
+Remain calm
+[Screaming]
+
+1457
+01:25:05,934 --> 01:25:06,935
+One at a time.
+
+1458
+01:25:06,935 --> 01:25:08,171
+You take
+that spot.
+
+1459
+01:25:08,171 --> 01:25:09,672
+Come on. Come on.
+Come on. Jump!
+
+1460
+01:25:09,672 --> 01:25:12,341
+One at a time.
+Now!
+
+1461
+01:25:14,843 --> 01:25:16,445
+Go! Go! Baby, go!
+Go! Go! Go!
+
+1462
+01:25:16,445 --> 01:25:18,181
+Run. Go as fast
+as you can.
+
+1463
+01:25:18,181 --> 01:25:20,816
+Get away
+from the plane.
+
+1464
+01:25:24,953 --> 01:25:26,522
+Jump.
+You gotta jump. Come on.
+
+1465
+01:25:28,857 --> 01:25:30,826
+I'm the last one.
+
+1466
+01:25:30,826 --> 01:25:32,195
+The fuel.
+We gotta go.
+
+1467
+01:25:32,195 --> 01:25:33,496
+Run.
+Let's go. Go.
+
+1468
+01:25:33,496 --> 01:25:35,564
+Go! Go! Go!
+
+1469
+01:25:35,564 --> 01:25:37,032
+Simms: Come on.
+
+1470
+01:25:37,032 --> 01:25:38,901
+Come on! Go!
+
+1471
+01:25:38,901 --> 01:25:41,204
+Come on!
+Go! Go! Go!
+
+1472
+01:25:49,912 --> 01:25:51,880
+[Gasping]
+
+1473
+01:25:54,550 --> 01:25:55,551
+Mr. President?
+
+1474
+01:25:55,551 --> 01:25:56,619
+We're okay.
+
+1475
+01:25:56,619 --> 01:25:57,820
+We're okay.
+
+1476
+01:26:09,232 --> 01:26:11,467
+[Gasps] Oh, my god.
+
+1477
+01:26:11,467 --> 01:26:13,536
+Are you okay?
+I'm fine, mom.
+
+1478
+01:26:20,008 --> 01:26:21,277
+Air force one,
+
+1479
+01:26:21,277 --> 01:26:23,879
+this is
+Cleveland control.
+
+1480
+01:26:23,879 --> 01:26:25,481
+Please respond.
+
+1481
+01:26:25,481 --> 01:26:27,283
+Air force one,
+Cleveland control.
+
+1482
+01:26:28,251 --> 01:26:30,819
+Bring me in
+to Detroit.
+
+1483
+01:26:30,819 --> 01:26:31,820
+It's the president.
+
+1484
+01:26:33,088 --> 01:26:34,857
+This is Cleveland control.
+
+1485
+01:26:34,857 --> 01:26:39,027
+Air force one,
+heading 240,
+
+1486
+01:26:39,027 --> 01:26:40,863
+runway 18.
+
+1487
+01:26:47,736 --> 01:26:50,072
+So that's
+a Monday, huh?
+
+1488
+01:26:50,072 --> 01:26:52,074
+[Scoffs] Don't worry.
+
+1489
+01:26:52,074 --> 01:26:54,710
+It picks up
+later on in the week.
+
+1490
+01:26:54,710 --> 01:26:55,678
+[Chuckles]
+
+1491
+01:27:05,354 --> 01:27:07,856
+They're landing now.
+
+1492
+01:27:07,856 --> 01:27:09,792
+Whoa.
+
+1493
+01:27:12,861 --> 01:27:14,597
+God.
+
+1494
+01:27:18,301 --> 01:27:20,503
+Thank god we made it
+home safely.
+
+1495
+01:27:21,737 --> 01:27:22,738
+No.
+
+1496
+01:27:22,738 --> 01:27:24,907
+Not all of us.
+
+1497
+01:27:27,142 --> 01:27:29,312
+Let's get off
+of this damn plane.
+
+1498
+01:27:37,853 --> 01:27:39,422
+What now?
+
+1499
+01:27:39,422 --> 01:27:42,758
+Well, you go home,
+and you get some rest.
+
+1500
+01:27:42,758 --> 01:27:45,093
+A good controller
+is always rested.
+
+1501
+01:27:45,093 --> 01:27:46,629
+Okay.
+
+1502
+01:27:48,697 --> 01:27:50,766
+Hey, radhika.
+
+1503
+01:27:50,766 --> 01:27:53,201
+Thanks.
+
+1504
+01:27:53,201 --> 01:27:55,404
+You're gonna be
+a good controller.
+
+1505
+01:27:55,404 --> 01:27:58,006
+That means a lot, sir.
+
+1506
+01:27:58,006 --> 01:28:00,142
+Call me Bob.
+
+1507
+01:28:00,142 --> 01:28:02,345
+Okay, Bob.
+
+1508
+01:28:03,679 --> 01:28:05,481
+Well...
+
+1509
+01:28:05,481 --> 01:28:08,250
+We'll start Tuesday,
+pick up the pieces.
+
+1510
+01:28:08,250 --> 01:28:10,353
+I'll be there.
+
+1511
+01:28:25,768 --> 01:28:27,736
+[Sirens blaring]
+
+1512
+01:28:53,028 --> 01:28:55,798
+Want to grab a bite?
+
+1513
+01:28:55,798 --> 01:28:57,566
+[Chuckles]
+
+1514
+01:28:57,566 --> 01:29:00,035
+I thought
+you'd never ask.
+
+1515
+01:29:11,614 --> 01:29:17,152
+* today's your lucky day
+
+1516
+01:29:17,152 --> 01:29:20,423
+* don't wanna rain
+
+1517
+01:29:20,423 --> 01:29:24,126
+* on your parade
+
+1518
+01:29:24,126 --> 01:29:29,932
+* today's your lucky day
+
+1519
+01:29:29,932 --> 01:29:33,201
+* so go ahead
+
+1520
+01:29:33,201 --> 01:29:37,873
+* and taste the cake
+
+1521
+01:29:37,873 --> 01:29:41,043
+* I gotta tell you
+that it wasn't through *
+
+1522
+01:29:41,043 --> 01:29:42,277
+* it's in your head
+
+1523
+01:29:42,277 --> 01:29:44,312
+* it's nothing new
+
+1524
+01:29:44,312 --> 01:29:47,249
+* you think you want
+what you can't have *
+
+1525
+01:29:47,249 --> 01:29:48,451
+* so here it is
+
+1526
+01:29:48,451 --> 01:29:50,519
+* I hope you're glad
+
+1527
+01:29:50,519 --> 01:29:53,456
+* you're such a boy
+with your baby blues *
+
+1528
+01:29:53,456 --> 01:29:54,890
+* you're so naive
+
+1529
+01:29:54,890 --> 01:29:57,259
+* so much to lose
+
+1530
+01:29:57,259 --> 01:29:59,728
+* you better think
+before you choose *
+
+1531
+01:29:59,728 --> 01:30:04,467
+* 'cause once you're here,
+there's no more rules *
+
+1532
+01:30:04,467 --> 01:30:09,938
+* today's your lucky day
+
+1533
+01:30:09,938 --> 01:30:13,308
+* don't wanna rain
+
+1534
+01:30:13,308 --> 01:30:16,745
+* on your parade
+
+1535
+01:30:16,745 --> 01:30:22,951
+* today's your lucky day
+
+1536
+01:30:22,951 --> 01:30:26,088
+* so go ahead
+
+1537
+01:30:26,088 --> 01:30:27,990
+* and taste the cake
+
+1538
+01:30:27,990 --> 01:30:30,526
+* I'll leave your heart
+
+1539
+01:30:30,526 --> 01:30:33,729
+* with no regret
+
+1540
+01:30:33,729 --> 01:30:36,965
+* you'll see when you
+
+1541
+01:30:36,965 --> 01:30:40,603
+* pay the debt
+
+1542
+01:30:52,247 --> 01:30:56,184
+* 'cause they're on fire
+
+1543
+01:30:56,184 --> 01:30:59,387
+* time to expire
+
+1544
+01:30:59,387 --> 01:31:02,625
+* come here and undress me
+
+1545
+01:31:02,625 --> 01:31:05,528
+* you won't forget me
+
+1546
+01:31:05,528 --> 01:31:08,531
+* forget me
+
+1547
+01:31:08,531 --> 01:31:14,202
+* today's your lucky day
+
+1548
+01:31:14,202 --> 01:31:17,305
+* don't wanna rain
+
+1549
+01:31:17,305 --> 01:31:21,109
+* on your parade
+
+1550
+01:31:21,109 --> 01:31:26,982
+* today's your lucky day
+
+1551
+01:31:26,982 --> 01:31:30,218
+* so go ahead
+
+1552
+01:31:30,218 --> 01:31:33,388
+* and taste the cake
+
+1553
+01:31:33,388 --> 01:31:36,592
+* so go ahead
+
+1554
+01:31:36,592 --> 01:31:42,164
+* and taste the cake
+
+1555
+01:31:43,298 --> 01:31:49,672
+* today's your lucky day
+
+1556
+01:31:49,672 --> 01:31:55,611
+* today's your lucky day
+
+1557
+01:31:55,611 --> 01:31:59,081
+* so go ahead
+
+1558
+01:31:59,081 --> 01:32:02,284
+* and taste the cake
+
+1559
+01:32:02,284 --> 01:32:05,588
+* so go ahead
+
+1560
+01:32:05,588 --> 01:32:09,191
+* and taste the cake
+
+1561
+01:32:09,191 --> 01:32:15,197
+* today's your lucky day
+
+1562
+01:32:15,197 --> 01:32:22,705
+* today
+

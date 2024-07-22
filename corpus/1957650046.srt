@@ -1,0 +1,5184 @@
+1
+00:00:12,547 --> 00:00:14,549
+<i>( Faint beeping )</i>
+
+2
+00:00:16,584 --> 00:00:18,586
+<i>( Beeping louder )</i>
+
+3
+00:00:22,790 --> 00:00:25,627
+<i>( Beeping louder )</i>
+
+4
+00:00:27,494 --> 00:00:29,496
+<i>( Jet engine roaring )</i>
+
+5
+00:00:36,336 --> 00:00:39,139
+- <i>( Man speaking, distorted ) </i>
+- ( Electronic hum )
+
+6
+00:00:44,311 --> 00:00:46,313
+<i>( Beeping )</i>
+
+7
+00:00:48,315 --> 00:00:50,818
+<i>( Heavy breathing )</i>
+
+8
+00:01:17,244 --> 00:01:19,112
+( Laser firing )
+
+9
+00:01:21,281 --> 00:01:24,451
+( Screams )
+
+10
+00:01:26,153 --> 00:01:28,890
+( Pants )
+
+11
+00:01:28,923 --> 00:01:31,124
+<i>( Crickets chirping )</i>
+
+12
+00:02:32,452 --> 00:02:34,454
+<i>( Loud bang echoing )</i>
+
+13
+00:03:03,316 --> 00:03:05,318
+<i>( Loud bang echoing )</i>
+
+14
+00:03:33,447 --> 00:03:35,449
+<i>( Loud bang echoing )</i>
+
+15
+00:03:47,394 --> 00:03:49,530
+<i>( Jet engine roaring )</i>
+
+16
+00:03:49,564 --> 00:03:52,265
+Man over radio:
+<i>Delta flight, this is</i>
+<i>pike control.</i>
+
+17
+00:03:52,299 --> 00:03:53,901
+<i>You're clear</i>
+<i>to 16,000'.</i>
+
+18
+00:03:53,935 --> 00:03:56,369
+<i>Proceed to coordinates</i>
+<i>6-tango-Charlie.</i>
+
+19
+00:03:57,370 --> 00:03:59,507
+Roger, control.
+
+20
+00:03:59,540 --> 00:04:01,642
+It's a beautiful day
+in the neighborhood.
+
+21
+00:04:01,676 --> 00:04:04,846
+E.t.a. To entry point,
+95 seconds.
+
+22
+00:04:04,879 --> 00:04:06,814
+Yeah, I'm right
+behind you.
+
+23
+00:04:06,848 --> 00:04:09,884
+Try to keep US
+out of trouble,
+okay, outlaw?
+
+24
+00:04:09,917 --> 00:04:13,020
+- I always do.
+- Yeah, right.
+
+25
+00:04:13,054 --> 00:04:15,322
+What about
+last Saturday night?
+
+26
+00:04:15,355 --> 00:04:17,024
+<i>Did you forget about</i>
+<i>those two bottles--</i>
+
+27
+00:04:17,058 --> 00:04:18,860
+kill the chit-chat,
+delta flight.
+
+28
+00:04:20,828 --> 00:04:24,464
+I shouldn't have
+to remind you this is
+an operational test flight.
+
+29
+00:04:24,498 --> 00:04:27,935
+Switch v.R. Display
+to external channel 3.
+
+30
+00:04:29,804 --> 00:04:33,406
+- Yes sir.
+Delta 1 ready.
+- ( Beeps )
+
+31
+00:04:38,913 --> 00:04:41,549
+Pike control,
+this is delta leader.
+
+32
+00:04:41,582 --> 00:04:43,751
+Start v.R.,
+power level 5.
+
+33
+00:04:43,785 --> 00:04:47,387
+Affirmative, delta flight.
+Confirming transmission now.
+
+34
+00:04:47,420 --> 00:04:48,823
+- ( Beeps )
+- ( Whirrs )
+
+35
+00:04:48,856 --> 00:04:50,858
+( Beeping )
+
+36
+00:04:50,892 --> 00:04:54,294
+Outlaw:
+<i>Delta 1, system activated.</i>
+
+37
+00:05:03,403 --> 00:05:04,672
+Visual display checks.
+
+38
+00:05:04,705 --> 00:05:08,009
+Glen:
+<i>Delta 2, initiate</i>
+<i>hyper-reality.</i>
+
+39
+00:05:08,042 --> 00:05:10,044
+- ( Beeping )
+- Hound dog: <i>Yes sir.</i>
+
+40
+00:05:16,483 --> 00:05:18,653
+System checks good,
+colonel.
+
+41
+00:05:18,686 --> 00:05:21,823
+Okay, delta flight,
+descend to angels-2,
+
+42
+00:05:21,856 --> 00:05:23,825
+maintain 400 knots,
+
+43
+00:05:23,858 --> 00:05:26,060
+enter control point Sierra.
+
+44
+00:05:26,093 --> 00:05:28,830
+Descending to angels-2.
+Here we go.
+
+45
+00:05:36,804 --> 00:05:38,840
+This is gonna be
+one hairy ride.
+
+46
+00:05:38,873 --> 00:05:42,944
+- Ever fly
+with your eyes closed?
+- All the time.
+
+47
+00:05:42,977 --> 00:05:44,645
+Outlaw:
+Let's bring it down.
+
+48
+00:06:10,805 --> 00:06:13,406
+Colonel,
+this is pike control.
+
+49
+00:06:13,440 --> 00:06:15,843
+Telemetry is good.
+We're ready to record.
+
+50
+00:06:15,877 --> 00:06:18,579
+Glen:
+Let's start the profile,
+delta flight.
+
+51
+00:06:18,613 --> 00:06:20,181
+Increase speed
+to 700 knots.
+
+52
+00:06:20,214 --> 00:06:23,584
+Delta 1 copies.
+Increasing speed
+to 700 knots.
+
+53
+00:06:23,618 --> 00:06:24,819
+Hound dog:
+<i>2 copies.</i>
+
+54
+00:06:32,226 --> 00:06:34,427
+<i>( Outlaw breathing deeply )</i>
+
+55
+00:06:36,864 --> 00:06:38,065
+I'm right behind you.
+
+56
+00:06:41,702 --> 00:06:44,839
+Holy shit. This is
+one hell of a video game.
+
+57
+00:06:44,872 --> 00:06:47,575
+Outlaw:
+<i>Yeah, but it's real.</i>
+
+58
+00:06:55,983 --> 00:06:57,318
+Come on. Come on.
+
+59
+00:06:57,351 --> 00:07:00,453
+- ( Alarm buzzing )
+- Outlaw: <i>I got it.</i>
+<i>I got it.</i>
+
+60
+00:07:01,522 --> 00:07:03,624
+Whoa.
+That was awful close.
+
+61
+00:07:06,827 --> 00:07:08,829
+( Beeping )
+
+62
+00:07:11,966 --> 00:07:13,968
+- ( Pants )
+- ( Beeping )
+
+63
+00:07:17,638 --> 00:07:21,208
+( Flatly )
+Delta 2 awaiting
+instructions.
+
+64
+00:07:21,242 --> 00:07:22,944
+Glen:
+<i>Proceed to Alpha formation.</i>
+
+65
+00:07:24,245 --> 00:07:26,479
+<i>Outlaw,</i>
+<i>this is hound dog.</i>
+
+66
+00:07:26,514 --> 00:07:28,516
+<i>I'm moving up</i>
+<i>on your wing.</i>
+
+67
+00:07:30,584 --> 00:07:33,587
+Outlaw:
+Negative, hound dog.
+Maintain tactical spacing.
+
+68
+00:07:33,621 --> 00:07:35,056
+Don't crowd me.
+
+69
+00:07:35,089 --> 00:07:36,757
+I'm in position.
+
+70
+00:07:39,293 --> 00:07:41,896
+Jesus, hound dog,
+back off.
+
+71
+00:07:41,929 --> 00:07:44,932
+- Settle down, gentlemen.
+- Colonel, hound dog's
+too close.
+
+72
+00:07:44,966 --> 00:07:47,101
+The system can't handle
+this formation.
+
+73
+00:07:47,134 --> 00:07:49,503
+The system's fine,
+captain waters.
+
+74
+00:07:50,938 --> 00:07:53,207
+<i>Get ready</i>
+<i>for the next run.</i>
+
+75
+00:07:53,240 --> 00:07:54,675
+Yes sir.
+
+76
+00:07:55,876 --> 00:07:57,545
+Hound dog:
+<i>2 copies.</i>
+
+77
+00:07:59,013 --> 00:08:01,549
+Head for
+the control point now.
+
+78
+00:08:03,551 --> 00:08:05,820
+Outlaw: 40 seconds
+to control point Sierra.
+
+79
+00:08:06,988 --> 00:08:10,191
+Increase your speed
+to mach 1.6.
+
+80
+00:08:12,126 --> 00:08:13,894
+Yes sir.
+
+81
+00:08:17,331 --> 00:08:19,166
+Mach 1.3,
+
+82
+00:08:19,200 --> 00:08:22,603
+<i>1.5, 1.6.</i>
+
+83
+00:08:24,905 --> 00:08:26,907
+<i>( Breathing shakily )</i>
+
+84
+00:08:34,715 --> 00:08:36,717
+( Humming, beeping )
+
+85
+00:08:42,323 --> 00:08:45,192
+Hound dog,
+what are you doing?
+
+86
+00:08:45,226 --> 00:08:47,194
+<i>Come in, hound dog.</i>
+
+87
+00:08:47,228 --> 00:08:48,829
+<i>Hound dog,</i>
+<i>acknowledge!</i>
+
+88
+00:08:50,197 --> 00:08:53,634
+Delta 2 awaiting
+further instructions.
+
+89
+00:08:53,667 --> 00:08:55,870
+Hound dog,
+terminate your run.
+
+90
+00:08:55,903 --> 00:08:57,638
+( Breathes shakily )
+
+91
+00:09:04,645 --> 00:09:07,114
+Glen:
+<i>Terminate your run, captain.</i>
+<i>That's an order.</i>
+
+92
+00:09:10,351 --> 00:09:12,620
+( Beeps )
+
+93
+00:09:14,622 --> 00:09:18,059
+Colonel,
+what's happening?
+
+94
+00:09:18,092 --> 00:09:19,693
+Glen: <i>Hound dog,</i>
+<i>pull out of there!</i>
+
+95
+00:09:21,095 --> 00:09:23,798
+Colonel, he's gonna hit
+the canyon walls.
+
+96
+00:09:27,368 --> 00:09:30,704
+Outlaw:
+<i>Hound dog, hound dog,</i>
+<i>do you copy?</i>
+
+97
+00:09:30,738 --> 00:09:34,041
+- ( Alarm buzzes )
+- Tom, I'm losing it!
+
+98
+00:09:34,075 --> 00:09:36,644
+Pull up, hound dog!
+Pull up!
+
+99
+00:09:38,412 --> 00:09:41,248
+Tom: <i>Listen to</i>
+<i>the colonel, hound dog!</i>
+<i>Pull up! Pull up!</i>
+
+100
+00:09:41,282 --> 00:09:42,783
+( Screams )
+
+101
+00:09:44,018 --> 00:09:45,653
+Damn it!
+
+102
+00:09:45,686 --> 00:09:47,721
+Son of a bitch,
+hound dog.
+
+103
+00:09:47,755 --> 00:09:49,824
+God, no.
+
+104
+00:09:52,693 --> 00:09:54,662
+( Beeping )
+
+105
+00:09:54,695 --> 00:09:57,898
+Glen:
+<i>We've done a thorough</i>
+<i>review of the accident.</i>
+
+106
+00:09:57,932 --> 00:10:01,602
+<i>This is a satellite view</i>
+<i>of the crash site.</i>
+
+107
+00:10:03,137 --> 00:10:07,108
+<i>It shows</i>
+<i>no unusual conditions</i>
+<i>of any kind.</i>
+
+108
+00:10:07,141 --> 00:10:10,811
+<i>No cloud cover,</i>
+<i>no weather fronts,</i>
+
+109
+00:10:12,446 --> 00:10:14,381
+<i>no heat activity</i>
+
+110
+00:10:14,415 --> 00:10:16,951
+or wind shear.
+
+111
+00:10:19,386 --> 00:10:22,423
+There was
+no equipment malfunction,
+
+112
+00:10:22,456 --> 00:10:25,893
+no atmospheric
+disturbances.
+
+113
+00:10:27,761 --> 00:10:29,730
+Bottom line,
+
+114
+00:10:29,763 --> 00:10:33,968
+extrinsic factors did not
+cause the accident.
+
+115
+00:10:36,837 --> 00:10:39,073
+Hound dog:
+<i>Delta 2 ready</i>
+<i>for further instructions.</i>
+
+116
+00:10:39,106 --> 00:10:41,742
+Glen: <i>Hound dog,</i>
+<i>terminate your run.</i>
+
+117
+00:10:42,776 --> 00:10:45,980
+Hound dog:
+<i>Colonel, what's happening?</i>
+
+118
+00:10:46,013 --> 00:10:47,882
+<i>Hound dog,</i>
+<i>pull out of there!</i>
+
+119
+00:10:47,915 --> 00:10:50,918
+Tom:
+<i>Hound dog, hound dog,</i>
+<i>do you copy?</i>
+
+120
+00:10:50,951 --> 00:10:53,387
+<i>Tom, I'm losing it!</i>
+
+121
+00:10:53,420 --> 00:10:55,923
+<i>Pull up, hound dog!</i>
+<i>Pull up!</i>
+
+122
+00:10:55,956 --> 00:10:58,759
+<i>Listen to the colonel,</i>
+<i>hound dog.</i>
+
+123
+00:10:58,792 --> 00:11:00,194
+<i>Pull up! Pull up!</i>
+
+124
+00:11:00,227 --> 00:11:03,264
+- ( Alarm buzzes )
+- <i>( Hound dog screams )</i>
+
+125
+00:11:05,499 --> 00:11:08,269
+( Whirring )
+
+126
+00:11:08,302 --> 00:11:10,304
+For some unknown reason,
+
+127
+00:11:11,739 --> 00:11:15,809
+captain Matthews deviated
+from the flight plan
+
+128
+00:11:15,843 --> 00:11:18,779
+<i>and panicked</i>
+<i>at high speed.</i>
+
+129
+00:11:20,748 --> 00:11:22,917
+Virtual reality
+
+130
+00:11:25,019 --> 00:11:27,755
+- worked perfectly.
+- Tom: <i>Excuse me, colonel,</i>
+
+131
+00:11:27,788 --> 00:11:30,291
+we practiced this run
+in the simulator rig.
+
+132
+00:11:30,324 --> 00:11:32,826
+Hound dog knew
+what to expect.
+
+133
+00:11:32,860 --> 00:11:34,929
+He wasn't 100%
+in the simulator either.
+
+134
+00:11:34,962 --> 00:11:36,964
+None of you have been.
+
+135
+00:11:36,997 --> 00:11:40,768
+Colonel, I know--
+I know hound dog
+took some chances,
+
+136
+00:11:40,801 --> 00:11:44,471
+but don't you think
+the v.R. System could've
+been partially responsible?
+
+137
+00:11:44,506 --> 00:11:46,073
+No, I don't.
+
+138
+00:11:47,241 --> 00:11:49,743
+The system
+functioned perfectly.
+
+139
+00:11:52,213 --> 00:11:55,115
+I appreciate your concerns,
+captain waters.
+
+140
+00:11:56,283 --> 00:11:58,185
+I want to assure
+every one of you
+
+141
+00:11:58,219 --> 00:12:00,487
+that I am overseeing
+this project
+
+142
+00:12:00,522 --> 00:12:03,157
+as well
+as this investigation.
+
+143
+00:12:04,425 --> 00:12:05,893
+If I thought
+for one moment
+
+144
+00:12:05,926 --> 00:12:08,762
+that any of your boys
+were in real jeopardy,
+
+145
+00:12:10,864 --> 00:12:12,266
+I'd pull the plug
+on this puppy
+
+146
+00:12:12,299 --> 00:12:14,368
+quicker than you could say
+"god bless america."
+
+147
+00:12:18,205 --> 00:12:20,241
+<i>( Inhales ) Now...</i>
+
+148
+00:12:21,375 --> 00:12:24,278
+Secretary of defense
+Spencer testifies
+
+149
+00:12:24,311 --> 00:12:26,413
+before the senate budget
+committee next week.
+
+150
+00:12:26,447 --> 00:12:28,449
+You all know that he is
+on a one-man crusade
+
+151
+00:12:28,482 --> 00:12:30,884
+to cut back
+on electronics programs,
+
+152
+00:12:30,918 --> 00:12:31,720
+starting with ours.
+
+153
+00:12:32,853 --> 00:12:34,488
+<i>If he gets</i>
+<i>so much as a hint</i>
+
+154
+00:12:34,522 --> 00:12:36,824
+that there is a glitch
+with virtual reality...
+
+155
+00:12:40,261 --> 00:12:42,763
+I don't think I need
+to fill in the blanks.
+
+156
+00:12:44,932 --> 00:12:48,836
+Gentlemen,
+our work here is vital
+
+157
+00:12:48,869 --> 00:12:50,505
+to our country's
+security.
+
+158
+00:12:54,041 --> 00:12:56,010
+Let's keep
+a tight lid on it,
+
+159
+00:12:56,043 --> 00:12:57,545
+shall we?
+
+160
+00:12:59,581 --> 00:13:04,051
+- We can't afford
+another mistake, Glen.
+- I know.
+
+161
+00:13:06,920 --> 00:13:08,289
+Mrs. Matthews.
+
+162
+00:13:09,456 --> 00:13:12,126
+I'm so sorry
+about your husband.
+
+163
+00:13:12,159 --> 00:13:15,429
+General breslaw,
+I just don't think
+it was his fault.
+
+164
+00:13:15,462 --> 00:13:17,498
+No one is trying
+to lay blame here,
+
+165
+00:13:17,532 --> 00:13:20,467
+I can assure you
+the air force is
+
+166
+00:13:20,502 --> 00:13:22,369
+going to great pains
+to determine
+
+167
+00:13:22,403 --> 00:13:23,937
+the cause of your
+husband's accident.
+
+168
+00:13:25,272 --> 00:13:29,076
+Fighter pilots perform
+extremely difficult jobs.
+
+169
+00:13:29,109 --> 00:13:31,945
+Unfortunately, danger is
+a part of that territory.
+
+170
+00:13:33,648 --> 00:13:34,948
+Excuse US.
+
+171
+00:13:46,994 --> 00:13:50,598
+I know, Beth,
+some people think
+he was a real hotshot.
+
+172
+00:13:50,632 --> 00:13:53,867
+I just can't believe
+the air force ruling on this.
+
+173
+00:13:53,901 --> 00:13:56,638
+- It's tough.
+- Oh.
+
+174
+00:13:56,671 --> 00:13:59,440
+Tom, something was
+disturbing him.
+
+175
+00:14:03,410 --> 00:14:05,913
+I know
+this sounds crazy,
+
+176
+00:14:05,946 --> 00:14:10,351
+but I think that somebody
+did something to him.
+
+177
+00:14:10,384 --> 00:14:11,619
+What do you mean?
+
+178
+00:14:11,653 --> 00:14:13,387
+He never had
+any trouble sleeping
+
+179
+00:14:13,420 --> 00:14:14,988
+and then all of a sudden
+
+180
+00:14:15,022 --> 00:14:16,890
+he started having
+this reoccurring nightmare.
+
+181
+00:14:16,924 --> 00:14:20,494
+He'd wake up in the middle
+of the night screaming.
+
+182
+00:14:20,528 --> 00:14:23,163
+But everybody has
+bad dreams.
+
+183
+00:14:24,599 --> 00:14:26,967
+These were different.
+
+184
+00:14:35,710 --> 00:14:38,546
+Woman:
+<i>Good morning, gentlemen.</i>
+<i>We're just about ready. </i>
+
+185
+00:14:38,580 --> 00:14:41,382
+- <i>( Switches clicking ) </i>
+- <i>( Computer beeping )</i>
+
+186
+00:14:43,685 --> 00:14:46,220
+- How you feeling,
+cowboy?
+- Good.
+
+187
+00:14:52,727 --> 00:14:55,996
+- Sit still.
+- ( Exhales slowly )
+
+188
+00:15:32,266 --> 00:15:35,402
+- <i>( Helmets whirr ) </i>
+- We've added a new feature
+to your v.R. Displays--
+
+189
+00:15:35,436 --> 00:15:37,404
+<i>an enlargement mode.</i>
+
+190
+00:15:38,540 --> 00:15:40,542
+Your prayers have
+been answered, cowboy.
+
+191
+00:15:40,575 --> 00:15:43,043
+He needs it
+more than I do, lil.
+
+192
+00:15:43,076 --> 00:15:44,746
+Aim the enlargement reticle
+
+193
+00:15:44,779 --> 00:15:47,014
+<i>on the subject you wish</i>
+<i>to see in more detail,</i>
+
+194
+00:15:47,047 --> 00:15:49,483
+<i>then you squeeze</i>
+<i>the missile-fire button.</i>
+
+195
+00:15:49,517 --> 00:15:51,519
+( Beeping )
+
+196
+00:15:54,054 --> 00:15:56,691
+( Hums )
+
+197
+00:16:00,795 --> 00:16:03,030
+( Whistles )
+
+198
+00:16:03,063 --> 00:16:04,398
+( Chuckles )
+
+199
+00:16:17,344 --> 00:16:19,079
+Captain Riley.
+
+200
+00:16:20,113 --> 00:16:21,516
+<i>That's enough.</i>
+
+201
+00:16:21,549 --> 00:16:24,117
+Today's simulation
+will continue
+
+202
+00:16:24,151 --> 00:16:26,086
+where our last
+flight test ended.
+
+203
+00:16:26,119 --> 00:16:28,021
+That's a comforting thought.
+
+204
+00:16:31,593 --> 00:16:33,293
+Glen:
+<i>Outlaw, you're flying red.</i>
+
+205
+00:16:33,327 --> 00:16:35,395
+<i>Cowboy, you're blue.</i>
+
+206
+00:16:37,431 --> 00:16:39,433
+( Beeping )
+
+207
+00:17:02,857 --> 00:17:05,560
+Lily:
+Initiating brain stimulation.
+
+208
+00:17:16,103 --> 00:17:18,171
+<i>No response from outlaw.</i>
+
+209
+00:17:26,714 --> 00:17:28,816
+Enemy threat activated.
+
+210
+00:17:28,850 --> 00:17:30,785
+<i>( Laser fires )</i>
+
+211
+00:17:32,754 --> 00:17:34,822
+Got a bandit
+on my tail, outlaw.
+Give me a hand.
+
+212
+00:17:34,856 --> 00:17:37,224
+I can't.
+I've got my own.
+
+213
+00:17:37,257 --> 00:17:39,259
+- ( Dings )
+- ( Laser firing )
+
+214
+00:17:43,865 --> 00:17:46,333
+Cowboy:
+<i>I'm getting out of here.</i>
+
+215
+00:17:50,270 --> 00:17:52,272
+( Dinging )
+
+216
+00:18:04,217 --> 00:18:06,353
+( Alarm buzzing )
+
+217
+00:18:14,929 --> 00:18:17,130
+I hate tailgaters.
+
+218
+00:18:19,734 --> 00:18:21,301
+You're mine now.
+
+219
+00:18:23,203 --> 00:18:25,339
+- ( Beeping )
+- <i>Line it up.</i>
+<i>Come on. Come on.</i>
+
+220
+00:18:25,372 --> 00:18:27,909
+<i>Let's go.</i>
+<i>Line it up.</i>
+
+221
+00:18:27,942 --> 00:18:30,410
+<i>Come on, here we go.</i>
+<i>Lock on, lock on!</i>
+
+222
+00:18:30,444 --> 00:18:32,814
+<i>Good lock!</i>
+<i>All right, gotcha now!</i>
+
+223
+00:18:35,617 --> 00:18:37,885
+Fox-2, fox-2,
+missiles away.
+
+224
+00:18:37,919 --> 00:18:39,252
+<i>Whoa!</i>
+
+225
+00:18:41,923 --> 00:18:45,727
+I can save it.
+I can save it.
+
+226
+00:18:45,760 --> 00:18:47,194
+Glen:
+<i>Congratulations,</i>
+<i>captain.</i>
+
+227
+00:18:47,227 --> 00:18:49,864
+You've just been
+shot down by a dead man.
+
+228
+00:18:49,897 --> 00:18:52,165
+<i>You've sucked in</i>
+<i>half his plane.</i>
+
+229
+00:18:53,500 --> 00:18:57,137
+Increase waters'
+dosage to 3.6.
+
+230
+00:18:58,506 --> 00:19:01,308
+Waters, go back
+and start again.
+
+231
+00:19:01,341 --> 00:19:03,811
+( Breathing hard )
+
+232
+00:19:03,845 --> 00:19:05,847
+( Beeping )
+
+233
+00:19:09,517 --> 00:19:12,185
+Aw shit.
+
+234
+00:19:12,219 --> 00:19:14,656
+Colonel, he doesn't
+seem to be responding
+to the increased dosage.
+
+235
+00:19:14,689 --> 00:19:17,357
+<i>He seems to have</i>
+<i>an unusually high resistance.</i>
+
+236
+00:19:19,994 --> 00:19:23,230
+<i>( Traffic sounds )</i>
+
+237
+00:19:25,499 --> 00:19:29,504
+<i>( Man inhales )</i>
+<i>have him take a look</i>
+<i>at the patio door, would you?</i>
+
+238
+00:19:29,537 --> 00:19:31,171
+It's sticking.
+
+239
+00:19:34,274 --> 00:19:36,243
+That sounds
+very nice, dear.
+
+240
+00:19:38,946 --> 00:19:41,649
+Any color you want's
+fine with me.
+
+241
+00:19:43,250 --> 00:19:45,586
+All right.
+I'll see you tonight.
+
+242
+00:19:47,722 --> 00:19:50,758
+( Sighs )
+May's redoing the kitchen.
+
+243
+00:19:50,792 --> 00:19:54,227
+She's been asking
+since 1967.
+
+244
+00:19:54,261 --> 00:19:55,830
+Finally wore me down.
+
+245
+00:19:57,632 --> 00:20:00,333
+<i>I have something</i>
+<i>I want you to hear.</i>
+
+246
+00:20:00,367 --> 00:20:01,636
+<i>Glen, listen to this.</i>
+
+247
+00:20:01,669 --> 00:20:03,838
+"In an enthusiastic
+assessment
+
+248
+00:20:03,871 --> 00:20:06,373
+of his plan to scale down
+the armed forces,
+
+249
+00:20:06,406 --> 00:20:08,843
+defense secretary
+Spencer said,
+
+250
+00:20:08,876 --> 00:20:10,678
+'it will signal
+to the rest of the world
+
+251
+00:20:10,712 --> 00:20:12,479
+that the cold war is over
+
+252
+00:20:12,513 --> 00:20:15,016
+and it's time to invest
+scarce resources
+
+253
+00:20:15,049 --> 00:20:17,885
+in building a better life
+for average citizens.'"
+
+254
+00:20:17,919 --> 00:20:20,021
+amazing, isn't it?
+
+255
+00:20:20,054 --> 00:20:24,926
+Do they realize
+that defense has driven
+this economy since f.D.R.?
+
+256
+00:20:26,426 --> 00:20:28,428
+Pendulum always
+swings back, Glen,
+
+257
+00:20:28,462 --> 00:20:31,966
+which is why our work is
+even more important now.
+
+258
+00:20:31,999 --> 00:20:33,333
+How's the program going?
+
+259
+00:20:33,366 --> 00:20:35,803
+Riley and Tate are
+responding well.
+
+260
+00:20:35,837 --> 00:20:37,404
+And waters?
+
+261
+00:20:38,673 --> 00:20:42,877
+He appears to have
+an innate resistance.
+
+262
+00:20:43,911 --> 00:20:46,346
+Maybe you should drop him.
+
+263
+00:20:46,379 --> 00:20:49,684
+I'm confident it's just
+a matter of finding
+the right dosage.
+
+264
+00:20:49,717 --> 00:20:53,821
+You were also confident
+you could control
+captain Matthews.
+
+265
+00:20:53,855 --> 00:20:56,057
+What did they call him?
+
+266
+00:20:56,090 --> 00:20:58,960
+- <i>Hound dog. </i>
+- Hound dog!
+That's right.
+
+267
+00:20:58,993 --> 00:21:01,829
+I still get a kick out
+of those names.
+
+268
+00:21:01,863 --> 00:21:04,397
+It's a terrible tragedy,
+though.
+
+269
+00:21:04,431 --> 00:21:06,266
+He has a lovely wife.
+
+270
+00:21:07,802 --> 00:21:09,369
+Well, Glen,
+it's your program,
+
+271
+00:21:09,402 --> 00:21:11,304
+so it's your call.
+
+272
+00:21:11,338 --> 00:21:12,940
+You do what
+you want with waters.
+
+273
+00:21:12,974 --> 00:21:17,344
+Just remember there's
+no room for a wild card
+in this program.
+
+274
+00:21:17,377 --> 00:21:20,413
+Don't worry about waters.
+I can handle him.
+
+275
+00:21:22,349 --> 00:21:23,818
+It's breslaw
+I'm worried about.
+
+276
+00:21:24,852 --> 00:21:26,888
+You just handle
+the captain.
+
+277
+00:21:26,921 --> 00:21:28,556
+I'll deal
+with the good general.
+
+278
+00:21:42,136 --> 00:21:44,071
+<i>( Cap rattles )</i>
+
+279
+00:21:44,105 --> 00:21:46,040
+( Clicks )
+
+280
+00:21:46,073 --> 00:21:48,341
+- How's it going, cap?
+- Hey, Joe. How you doing?
+
+281
+00:21:48,375 --> 00:21:52,647
+Pretty good.
+Uh, I've been thinking, cap.
+
+282
+00:21:52,680 --> 00:21:55,049
+Do you think
+you can get me one
+of those flight suits?
+
+283
+00:21:55,082 --> 00:21:58,485
+It ain't
+the flight suit, Joe.
+
+284
+00:21:58,519 --> 00:22:00,521
+It's the man in it.
+
+285
+00:22:00,555 --> 00:22:02,924
+- <i>( Rock music playing ) </i>
+- I'll see what I can do.
+
+286
+00:22:02,957 --> 00:22:04,324
+<i>( Bell dings )</i>
+
+287
+00:22:08,996 --> 00:22:11,331
+- Take a look
+at that one, huh?
+- <i>( Music, engine stop )</i>
+
+288
+00:22:17,138 --> 00:22:19,439
+Not bad.
+I got this one.
+Check this out.
+
+289
+00:22:19,472 --> 00:22:21,474
+( Footsteps approach )
+
+290
+00:22:22,577 --> 00:22:24,377
+Here, I got this.
+
+291
+00:22:25,680 --> 00:22:27,447
+( Clicks )
+
+292
+00:22:28,415 --> 00:22:29,917
+Mmm-mmm-mmm.
+
+293
+00:22:29,951 --> 00:22:31,986
+I like
+my steak medium rare,
+
+294
+00:22:32,019 --> 00:22:34,121
+baked potatoes stuffed--
+
+295
+00:22:34,155 --> 00:22:36,023
+broccoli and cheese,
+that is.
+
+296
+00:22:36,057 --> 00:22:38,391
+Asparagus is good.
+
+297
+00:22:38,425 --> 00:22:39,861
+Apple pie...
+
+298
+00:22:39,894 --> 00:22:42,129
+A la mode.
+
+299
+00:22:43,496 --> 00:22:45,032
+Could you not lean
+on my car?
+
+300
+00:22:45,066 --> 00:22:46,499
+I just had it waxed.
+
+301
+00:22:51,539 --> 00:22:53,107
+So I'm supposed
+to be impressed
+
+302
+00:22:53,140 --> 00:22:55,375
+- because you're in the army?
+- Air force.
+
+303
+00:22:57,545 --> 00:22:59,046
+Whatever.
+
+304
+00:23:00,447 --> 00:23:04,719
+So what do you do
+in the air force,
+private waters?
+
+305
+00:23:04,752 --> 00:23:05,953
+I'm a captain.
+
+306
+00:23:07,722 --> 00:23:10,423
+Tom. I fly jets.
+
+307
+00:23:11,491 --> 00:23:14,061
+( Chuckles )
+I see.
+
+308
+00:23:14,095 --> 00:23:18,699
+Because you fly jets,
+I'm supposed to sink
+into a girlish swoon
+
+309
+00:23:18,733 --> 00:23:21,569
+and ply you
+with high-cholesterol
+cuisine, right?
+
+310
+00:23:23,170 --> 00:23:24,805
+Yeah, well, I guess--
+
+311
+00:23:24,839 --> 00:23:27,541
+I guess it lost a little
+in the translation.
+
+312
+00:23:27,575 --> 00:23:29,710
+I think so.
+
+313
+00:23:29,744 --> 00:23:31,712
+Why don't you
+translate this?
+
+314
+00:23:31,746 --> 00:23:33,748
+I don't cook.
+
+315
+00:23:35,516 --> 00:23:39,687
+Well, maybe you'll find
+someone who does.
+
+316
+00:23:43,524 --> 00:23:45,026
+Hey, captain.
+
+317
+00:23:47,228 --> 00:23:49,462
+I do takeout.
+
+318
+00:23:54,735 --> 00:23:56,203
+Man.
+
+319
+00:23:56,237 --> 00:23:58,606
+I've gotta get me
+one of them flight suits.
+
+320
+00:24:00,608 --> 00:24:03,476
+- <i>( Caitlin giggles )</i>
+<i>so why the air force? </i>
+- <i>( Jazz music playing )</i>
+
+321
+00:24:03,511 --> 00:24:06,747
+Tom:
+<i>I don't know. I guess</i>
+<i>I didn't have much choice.</i>
+
+322
+00:24:06,781 --> 00:24:08,582
+My father was
+in the air force.
+
+323
+00:24:08,616 --> 00:24:10,483
+It just seemed like
+the only thing to do.
+
+324
+00:24:10,518 --> 00:24:12,787
+Besides, it's a good way
+to meet women.
+
+325
+00:24:12,820 --> 00:24:15,256
+Does it always work?
+( Laughs )
+
+326
+00:24:15,289 --> 00:24:17,158
+Every time.
+
+327
+00:24:21,963 --> 00:24:24,532
+So what's it like?
+
+328
+00:24:25,700 --> 00:24:27,568
+What's what like?
+
+329
+00:24:28,536 --> 00:24:31,172
+Flying.
+Flying jets.
+
+330
+00:24:32,673 --> 00:24:34,175
+It's great.
+
+331
+00:24:36,143 --> 00:24:38,512
+Well, your passion is just...
+
+332
+00:24:38,546 --> 00:24:40,581
+Overwhelming.
+
+333
+00:24:43,217 --> 00:24:45,519
+( Clears throat )
+I guess I had a rough week.
+
+334
+00:24:47,321 --> 00:24:49,623
+What happened?
+
+335
+00:24:50,925 --> 00:24:53,294
+I can't tell you.
+
+336
+00:24:53,327 --> 00:24:55,629
+If I did,
+
+337
+00:24:57,064 --> 00:24:58,866
+I'd have to kill you.
+
+338
+00:25:00,101 --> 00:25:02,169
+( Chuckling )
+
+339
+00:25:03,904 --> 00:25:06,574
+Not really.
+What do you do?
+
+340
+00:25:08,142 --> 00:25:11,545
+I am a financial consultant
+
+341
+00:25:11,579 --> 00:25:15,282
+and right now I'm on loan
+to a software manufacturer.
+
+342
+00:25:15,316 --> 00:25:17,518
+Mmm.
+
+343
+00:25:19,687 --> 00:25:21,689
+Mmm.
+
+344
+00:25:22,690 --> 00:25:26,961
+So what would you do
+if you couldn't fly anymore?
+
+345
+00:25:28,896 --> 00:25:30,865
+I don't know.
+
+346
+00:25:30,898 --> 00:25:33,868
+Oh, come on,
+there's got to be something.
+
+347
+00:25:37,171 --> 00:25:39,840
+I'd drive cross-country--
+
+348
+00:25:39,874 --> 00:25:41,642
+no map,
+
+349
+00:25:42,676 --> 00:25:44,145
+no destination.
+
+350
+00:25:45,246 --> 00:25:47,281
+Just see where
+the road takes me.
+
+351
+00:25:49,383 --> 00:25:51,585
+That could be
+a lonely drive.
+
+352
+00:25:56,390 --> 00:25:57,491
+Huh.
+
+353
+00:25:57,526 --> 00:26:00,895
+- ( Both breathing heavily )
+- ( Jazz music playing )
+
+354
+00:26:04,765 --> 00:26:06,834
+Mmm.
+
+355
+00:26:07,902 --> 00:26:10,137
+I'm sorry.
+It's just a little fast.
+
+356
+00:26:11,305 --> 00:26:12,973
+Ah.
+
+357
+00:26:16,911 --> 00:26:19,980
+- ( Chuckles )
+- Should I go?
+
+358
+00:26:23,317 --> 00:26:24,885
+No.
+
+359
+00:26:27,054 --> 00:26:29,957
+I just think you've had
+too much to drink, you know?
+
+360
+00:26:29,990 --> 00:26:31,692
+You shouldn't drive home.
+
+361
+00:26:33,694 --> 00:26:35,763
+Why don't you stay
+on the couch?
+
+362
+00:26:37,198 --> 00:26:39,633
+I got a better idea.
+
+363
+00:26:39,667 --> 00:26:43,003
+Why don't I sleep
+in your bed...
+
+364
+00:26:44,038 --> 00:26:45,639
+( Both moan )
+
+365
+00:26:45,673 --> 00:26:48,142
+...and you sleep
+in your bed?
+
+366
+00:26:53,948 --> 00:26:55,282
+Hm-mmm.
+
+367
+00:26:58,018 --> 00:26:59,386
+No.
+
+368
+00:27:08,295 --> 00:27:09,663
+<i>Hey.</i>
+
+369
+00:27:11,198 --> 00:27:13,767
+Why don't I sleep
+on the couch
+
+370
+00:27:13,801 --> 00:27:15,803
+and you sleep
+on the couch?
+
+371
+00:27:20,474 --> 00:27:22,943
+I like my eggs
+over easy!
+
+372
+00:27:27,114 --> 00:27:28,983
+( Man speaking,
+distorted )
+
+373
+00:27:36,290 --> 00:27:38,826
+( Beeping )
+
+374
+00:27:40,461 --> 00:27:42,763
+<i>( Panicked breathing )</i>
+
+375
+00:27:46,233 --> 00:27:47,735
+( Screams )
+
+376
+00:27:53,474 --> 00:27:55,409
+Are you okay?
+
+377
+00:27:58,312 --> 00:27:59,780
+I mean,
+it's just a bad dream.
+
+378
+00:27:59,813 --> 00:28:01,448
+- Yeah.
+- It's okay.
+
+379
+00:28:02,950 --> 00:28:05,853
+- It's okay.
+- Yeah.
+
+380
+00:28:08,856 --> 00:28:12,026
+- Mmm, yeah.
+- Hmm?
+
+381
+00:28:20,067 --> 00:28:22,036
+Want to tell me
+about it?
+
+382
+00:28:23,070 --> 00:28:24,705
+No.
+
+383
+00:28:35,517 --> 00:28:38,152
+( Sighs )
+
+384
+00:28:51,865 --> 00:28:53,901
+Mmm.
+
+385
+00:28:57,505 --> 00:28:59,840
+I don't think
+we should.
+
+386
+00:29:00,941 --> 00:29:03,210
+I think we should.
+
+387
+00:30:20,622 --> 00:30:22,823
+( People chattering )
+
+388
+00:30:28,228 --> 00:30:30,130
+<i>( People laughing )</i>
+
+389
+00:30:30,164 --> 00:30:32,032
+<i>( Locker slams )</i>
+
+390
+00:30:32,066 --> 00:30:34,101
+- ( Man sighs )
+- You look like shit.
+
+391
+00:30:34,134 --> 00:30:36,036
+Well, I think
+I forgot how to sleep.
+
+392
+00:30:36,070 --> 00:30:40,407
+- Yeah?
+- <i>I've been having</i>
+<i>these dreams.</i>
+
+393
+00:30:40,441 --> 00:30:43,944
+<i>( Loud bang echoes )</i>
+
+394
+00:30:43,977 --> 00:30:45,979
+Riley:
+<i>I keep waking up</i>
+<i>in the middle of the night.</i>
+
+395
+00:30:46,013 --> 00:30:48,082
+<i>It's really weird.</i>
+
+396
+00:30:50,918 --> 00:30:52,654
+Tom:
+<i>How long had he been</i>
+<i>having these nightmares?</i>
+
+397
+00:30:52,687 --> 00:30:54,922
+About a month
+
+398
+00:30:54,955 --> 00:30:56,990
+before the accident.
+
+399
+00:30:57,958 --> 00:31:00,394
+Did he describe them
+to you?
+
+400
+00:31:02,697 --> 00:31:04,532
+Not really.
+
+401
+00:31:06,233 --> 00:31:08,369
+I asked, but...
+( Chuckles )
+
+402
+00:31:10,070 --> 00:31:12,906
+He didn't want me to see
+that he was worried.
+
+403
+00:31:15,943 --> 00:31:17,579
+Do you think
+maybe I could
+
+404
+00:31:17,612 --> 00:31:19,614
+take a look
+around his office?
+
+405
+00:31:22,216 --> 00:31:23,984
+If you think
+it would help.
+
+406
+00:31:25,419 --> 00:31:27,154
+You never know, right?
+
+407
+00:31:27,187 --> 00:31:29,056
+Yeah.
+
+408
+00:31:29,089 --> 00:31:30,658
+Thank you.
+
+409
+00:31:52,212 --> 00:31:54,716
+Hound dog's voice:
+<i>"Ever since we started</i>
+<i>v.R. Testing,</i>
+
+410
+00:31:54,749 --> 00:31:56,383
+<i>I've been feeling odd.</i>
+
+411
+00:31:56,417 --> 00:31:59,654
+<i>Can't remember what went on</i>
+<i>in the simulator today.</i>
+
+412
+00:31:59,687 --> 00:32:01,589
+<i>Getting strange dreams.</i>
+
+413
+00:32:01,623 --> 00:32:04,425
+<i>Can't tell anybody</i>
+<i>or I'll be grounded."</i>
+
+414
+00:32:13,033 --> 00:32:15,637
+Oh god.
+
+415
+00:32:16,738 --> 00:32:18,405
+Huh.
+
+416
+00:32:18,439 --> 00:32:21,241
+Do you realize you've been
+staring at that same page
+
+417
+00:32:21,275 --> 00:32:23,343
+for over an hour?
+
+418
+00:32:26,146 --> 00:32:28,248
+This doesn't sound
+like hound dog.
+
+419
+00:32:29,416 --> 00:32:32,085
+He was not
+the paranoid type.
+
+420
+00:32:32,119 --> 00:32:34,121
+Maybe he was sick.
+
+421
+00:32:37,725 --> 00:32:40,093
+Then why are we all
+having nightmares?
+
+422
+00:32:40,127 --> 00:32:43,197
+I'm starting to think
+Beth was right.
+
+423
+00:32:43,230 --> 00:32:47,000
+There's something going on
+with this v.R. Project.
+
+424
+00:32:47,034 --> 00:32:50,471
+Tom, would you just
+forget about it, okay?
+
+425
+00:32:50,505 --> 00:32:52,507
+I just can't deal
+with this anymore.
+
+426
+00:32:59,681 --> 00:33:03,217
+<i>( Over radio )</i>
+<i>look, I'm sorry.</i>
+<i>I've really had a hard day.</i>
+
+427
+00:33:03,250 --> 00:33:05,687
+<i>Why don't we just</i>
+<i>go to sleep?</i>
+
+428
+00:33:08,121 --> 00:33:09,591
+<i>( Loud bang echoing )</i>
+
+429
+00:33:25,172 --> 00:33:26,306
+<i>( Door shuts )</i>
+
+430
+00:33:34,381 --> 00:33:37,050
+( Beeps )
+
+431
+00:33:50,798 --> 00:33:52,800
+( Beeping )
+
+432
+00:34:17,157 --> 00:34:19,459
+<i>( Keyboard clacking )</i>
+
+433
+00:34:38,245 --> 00:34:40,247
+( Buzzes )
+
+434
+00:34:42,750 --> 00:34:44,351
+Damn!
+
+435
+00:34:44,384 --> 00:34:46,086
+( Laser humming )
+
+436
+00:35:01,501 --> 00:35:04,104
+( Beeps, whirrs )
+
+437
+00:35:18,653 --> 00:35:20,622
+Man:
+<i>Lamison, is that you?</i>
+
+438
+00:35:25,292 --> 00:35:27,227
+- ( Whining stops )
+- <i>( Door opens )</i>
+
+439
+00:36:08,736 --> 00:36:11,906
+( Tires screeching )
+
+440
+00:36:22,884 --> 00:36:26,319
+All right, asshole.
+You want to play?
+
+441
+00:36:45,405 --> 00:36:47,508
+( Tires screech )
+
+442
+00:36:55,449 --> 00:36:57,451
+- ( Beeping )
+- <i>( Tom breathing deeply )</i>
+
+443
+00:37:04,391 --> 00:37:06,326
+Bandit at 3:00.
+
+444
+00:37:06,359 --> 00:37:08,361
+I'm on his tail.
+
+445
+00:37:08,395 --> 00:37:11,566
+This one's mine, outlaw.
+I'm going after him.
+
+446
+00:37:19,540 --> 00:37:21,943
+- Lily: Initiating
+brain stimulation.
+- ( Beeping )
+
+447
+00:37:26,346 --> 00:37:28,482
+Lily:
+<i>Colonel, captain waters</i>
+<i>was almost under.</i>
+
+448
+00:37:35,790 --> 00:37:37,424
+<i>Cowboy's under.</i>
+
+449
+00:37:42,563 --> 00:37:44,966
+Cowboy, do you have
+a visual on him?
+
+450
+00:37:47,869 --> 00:37:50,370
+Affirmative.
+I have him in sight.
+
+451
+00:37:50,403 --> 00:37:52,039
+Okay, nail this sucker.
+
+452
+00:37:59,547 --> 00:38:01,048
+- Come on, cowboy,
+fire on him.
+- ( Buzzing )
+
+453
+00:38:01,082 --> 00:38:03,450
+Tom:
+<i>What are you waiting for?</i>
+
+454
+00:38:04,085 --> 00:38:06,353
+<i>( Cowboy breathing shakily )</i>
+
+455
+00:38:10,357 --> 00:38:12,425
+He's gonna fly
+right into him.
+
+456
+00:38:12,459 --> 00:38:14,996
+Cowboy?
+Cowboy!
+
+457
+00:38:15,029 --> 00:38:17,031
+( Breathing shakily )
+
+458
+00:38:18,866 --> 00:38:21,035
+I told you.
+Let me handle this.
+
+459
+00:38:22,537 --> 00:38:24,572
+Tom:
+Cowboy, I'm moving in.
+
+460
+00:38:26,674 --> 00:38:28,576
+Cowboy:
+<i>He's mine, outlaw.</i>
+
+461
+00:38:30,611 --> 00:38:32,847
+- Tom: <i>Cowboy,</i>
+<i>I'm locking onto him. </i>
+- ( Beeping )
+
+462
+00:38:32,880 --> 00:38:36,017
+If you're not gonna
+take him, I am.
+
+463
+00:38:38,485 --> 00:38:41,088
+Fox-2, fox-2,
+missiles away.
+
+464
+00:38:56,469 --> 00:38:58,338
+Damn it.
+
+465
+00:38:59,607 --> 00:39:00,741
+That was mine.
+
+466
+00:39:00,775 --> 00:39:04,579
+When were
+you gonna take him out,
+next century, cowboy?
+
+467
+00:39:09,884 --> 00:39:11,384
+Cowboy.
+
+468
+00:39:13,420 --> 00:39:14,655
+What happened in there?
+
+469
+00:39:14,689 --> 00:39:16,023
+You tell me.
+
+470
+00:39:16,057 --> 00:39:17,959
+You're pissed
+I took out your target?
+
+471
+00:39:17,992 --> 00:39:19,426
+What are
+you talking about?
+
+472
+00:39:19,459 --> 00:39:21,428
+Why were you flying
+like a kamikaze?
+
+473
+00:39:24,431 --> 00:39:26,433
+You don't remember,
+do you?
+
+474
+00:39:29,637 --> 00:39:31,172
+Maybe you
+shouldn't fly tomorrow.
+
+475
+00:39:31,205 --> 00:39:32,940
+Maybe you should
+take some time off.
+
+476
+00:39:34,208 --> 00:39:37,444
+Something is happening
+with this project.
+
+477
+00:39:37,477 --> 00:39:39,513
+I found some
+of hound dog's notes.
+
+478
+00:39:39,547 --> 00:39:41,782
+<i>He was having</i>
+<i>nightmares too,</i>
+
+479
+00:39:41,816 --> 00:39:44,886
+trouble remembering
+what happened during
+the v.R. Sessions.
+
+480
+00:39:44,919 --> 00:39:46,954
+- He was losing it!
+- Oh, so I'm losing it?
+
+481
+00:39:46,988 --> 00:39:48,890
+Don't put words
+in my mouth, cowboy.
+
+482
+00:39:50,490 --> 00:39:52,425
+It's just that you're
+not acting like yourself.
+
+483
+00:39:52,459 --> 00:39:54,829
+Yeah, well, don't worry
+about me. That's my job.
+
+484
+00:39:54,862 --> 00:39:56,831
+Look, I was just
+trying to help.
+
+485
+00:39:56,864 --> 00:39:59,033
+Yeah, well,
+worry about yourself.
+
+486
+00:40:01,869 --> 00:40:03,170
+Caitlin on tape:
+<i>Maybe he was sick.</i>
+
+487
+00:40:03,204 --> 00:40:05,006
+Tom:
+<i>Then why are we all</i>
+<i>having nightmares?</i>
+
+488
+00:40:05,039 --> 00:40:06,874
+<i>I'm starting to think</i>
+<i>Beth was right.</i>
+
+489
+00:40:06,908 --> 00:40:09,744
+<i>There's something going on</i>
+<i>with this vr project.</i>
+
+490
+00:40:09,777 --> 00:40:12,179
+<i>Tom, would you just</i>
+<i>forget about it, okay?</i>
+
+491
+00:40:12,213 --> 00:40:14,548
+<i>I just can't deal</i>
+<i>with this anymore.</i>
+
+492
+00:40:14,582 --> 00:40:15,917
+( Clicks )
+
+493
+00:40:17,518 --> 00:40:19,620
+It's a top-priority
+project, Glen.
+
+494
+00:40:19,654 --> 00:40:22,189
+We have bugs
+on everyone.
+
+495
+00:40:26,193 --> 00:40:27,962
+Are you still confident
+
+496
+00:40:27,995 --> 00:40:29,830
+you have
+the waters situation
+under control?
+
+497
+00:40:31,198 --> 00:40:32,900
+Don't worry
+about it, okay?
+
+498
+00:40:32,934 --> 00:40:34,501
+I'm not worried.
+
+499
+00:40:34,535 --> 00:40:38,539
+Mild concern is probably
+a more appropriate term.
+
+500
+00:40:40,775 --> 00:40:42,576
+You don't understand.
+
+501
+00:40:43,744 --> 00:40:46,479
+I just want you to have
+all the information we do.
+
+502
+00:40:46,514 --> 00:40:50,584
+I know how important
+this project is to
+your career, Glen.
+
+503
+00:40:50,618 --> 00:40:54,021
+Hate to see anything
+untoward happen.
+
+504
+00:41:21,749 --> 00:41:23,751
+( Whirring )
+
+505
+00:41:29,156 --> 00:41:31,158
+- ( Beeping )
+- <i>( Engine starting )</i>
+
+506
+00:41:37,298 --> 00:41:39,533
+Echo flight,
+you have clearance
+to launch.
+
+507
+00:41:39,567 --> 00:41:41,836
+Authentication is
+bravo Sierra.
+
+508
+00:41:41,869 --> 00:41:42,870
+Pike control out.
+
+509
+00:41:42,903 --> 00:41:45,006
+Tom:
+Echo flight copies.
+
+510
+00:42:07,628 --> 00:42:10,664
+Echo 1,
+set course 2-9-7.
+
+511
+00:42:10,698 --> 00:42:13,768
+<i>Ascend and maintain</i>
+<i>4000' agl.</i>
+
+512
+00:42:13,801 --> 00:42:16,270
+Roger, pike control.
+
+513
+00:42:16,303 --> 00:42:18,672
+Echo flight,
+let's descend to angels-4.
+
+514
+00:42:18,706 --> 00:42:20,741
+Glen:
+<i>Approaching</i>
+<i>control point Charlie.</i>
+
+515
+00:42:20,775 --> 00:42:22,777
+<i>Echo 1,</i>
+<i>start your run.</i>
+
+516
+00:42:22,810 --> 00:42:25,112
+Tom:
+<i>Echo 1 copies,</i>
+<i>here I go.</i>
+
+517
+00:42:33,654 --> 00:42:36,724
+- ( Beeps )
+- ( Whirrs )
+
+518
+00:42:36,757 --> 00:42:39,660
+Echo 1
+v.R. System activated.
+
+519
+00:42:39,693 --> 00:42:41,295
+<i>Display checks.</i>
+
+520
+00:42:42,663 --> 00:42:44,031
+No target in sight.
+
+521
+00:42:56,077 --> 00:42:59,046
+<i>Missiles armed.</i>
+<i>Still no target.</i>
+
+522
+00:43:01,315 --> 00:43:03,784
+Boost his
+v.R. Power level to 8.
+
+523
+00:43:03,818 --> 00:43:06,087
+- Level 8?
+- Yeah.
+
+524
+00:43:06,120 --> 00:43:08,689
+- Yeah, do it.
+- Yes sir.
+
+525
+00:43:09,924 --> 00:43:11,926
+( Beeping )
+
+526
+00:43:13,661 --> 00:43:15,763
+Tom:
+<i>I see it.</i>
+<i>Target acquired.</i>
+
+527
+00:43:15,796 --> 00:43:17,298
+( Lasers firing )
+
+528
+00:43:17,331 --> 00:43:19,100
+Tom:
+<i>I'm also getting</i>
+<i>ground fire.</i>
+
+529
+00:43:19,133 --> 00:43:21,969
+Starting
+evasive maneuvers.
+
+530
+00:43:26,874 --> 00:43:28,409
+I'll put it through
+the front door.
+
+531
+00:43:28,442 --> 00:43:31,679
+- ( Beeps )
+- Missile away.
+
+532
+00:43:41,989 --> 00:43:43,824
+Bull's-eye!
+
+533
+00:43:43,858 --> 00:43:46,760
+Perfect visual
+substitution.
+
+534
+00:43:46,794 --> 00:43:49,663
+Cowboy,
+you're up next.
+
+535
+00:43:50,764 --> 00:43:52,199
+Yes sir.
+
+536
+00:43:52,233 --> 00:43:54,835
+Activate
+default program #2.
+
+537
+00:43:54,869 --> 00:43:58,339
+Default v.R. System
+program #2
+
+538
+00:43:58,372 --> 00:43:59,740
+is activated, sir.
+
+539
+00:43:59,773 --> 00:44:01,775
+( Beeping )
+
+540
+00:44:03,911 --> 00:44:06,447
+( Flatly )
+Echo 2 waiting
+for instructions.
+
+541
+00:44:06,480 --> 00:44:09,250
+Take up heading 0-5-7,
+
+542
+00:44:09,283 --> 00:44:12,353
+ascend to angels-1
+and start your run.
+
+543
+00:44:12,386 --> 00:44:15,055
+Roger, control.
+I'm starting my run.
+
+544
+00:44:17,458 --> 00:44:19,160
+Hey, cowboy,
+where you going?
+
+545
+00:44:19,193 --> 00:44:20,861
+The target range is
+over here.
+
+546
+00:44:27,501 --> 00:44:29,737
+Hey, cowboy,
+you want to clue me in?
+
+547
+00:44:29,770 --> 00:44:31,772
+- ( Beeping )
+- Tom: <i>Cowboy!</i>
+
+548
+00:44:36,511 --> 00:44:39,780
+- ( Beeping )
+- He's on the new
+course, colonel.
+
+549
+00:44:39,813 --> 00:44:42,416
+Echo 2, echo 2,
+radio check. Come in,
+
+550
+00:44:43,784 --> 00:44:46,453
+- ( pinging )
+- <i>Where are you?</i>
+
+551
+00:44:46,487 --> 00:44:49,323
+Cowboy, this is outlaw.
+Come in.
+
+552
+00:44:50,991 --> 00:44:53,827
+Pike control,
+I lost cowboy.
+
+553
+00:44:53,861 --> 00:44:55,729
+I'm making
+a turn to the north.
+
+554
+00:44:55,763 --> 00:44:58,732
+Echo 1,
+maintain current heading.
+
+555
+00:44:58,766 --> 00:45:00,467
+Tom:
+Colonel, there's something
+wrong with cowboy.
+
+556
+00:45:00,501 --> 00:45:02,770
+He's still not responding
+to my radio calls.
+
+557
+00:45:02,803 --> 00:45:05,806
+Glen:
+<i>Captain, we're handling</i>
+<i>the situation from down here.</i>
+
+558
+00:45:05,839 --> 00:45:08,742
+Hold your original heading.
+That's an order.
+
+559
+00:45:08,776 --> 00:45:10,077
+Yes sir.
+
+560
+00:45:10,110 --> 00:45:11,712
+( Flatly )
+Echo 2.
+
+561
+00:45:13,881 --> 00:45:15,149
+Approaching
+checkpoint tango.
+
+562
+00:45:15,182 --> 00:45:17,718
+Call back when you get
+a visual on the target.
+
+563
+00:45:22,356 --> 00:45:25,025
+( Laughs )
+
+564
+00:45:25,059 --> 00:45:26,794
+Mm-hmm.
+
+565
+00:45:28,095 --> 00:45:29,897
+- Huh.
+- Man over radio: <i>Webster.</i>
+
+566
+00:45:29,930 --> 00:45:31,932
+<i>This is Taylor.</i>
+<i>Come in.</i>
+
+567
+00:45:31,966 --> 00:45:33,434
+Ah!
+
+568
+00:45:37,137 --> 00:45:38,806
+Uh-huh. Mmm.
+
+569
+00:45:40,140 --> 00:45:42,309
+( Clears throat )
+Webster here. What's up?
+
+570
+00:45:42,343 --> 00:45:43,911
+<i>Hey, buddy,</i>
+<i>where are you?</i>
+
+571
+00:45:43,944 --> 00:45:46,313
+Another air force test.
+
+572
+00:45:46,347 --> 00:45:48,983
+I got route 234 closed
+to all traffic.
+
+573
+00:45:49,016 --> 00:45:51,018
+It's a thrill a minute.
+
+574
+00:45:51,051 --> 00:45:54,121
+<i>I'm at marker 13,</i>
+<i>but I don't see you.</i>
+
+575
+00:45:54,154 --> 00:45:57,424
+That's 'cause
+I'm at mile marker 30.
+
+576
+00:45:57,458 --> 00:46:00,562
+<i>You're supposed to be</i>
+<i>at 13, Einstein.</i>
+
+577
+00:46:00,595 --> 00:46:02,896
+No, uh...
+
+578
+00:46:02,930 --> 00:46:04,865
+Oh shit.
+
+579
+00:46:05,966 --> 00:46:08,902
+Uh, hold on.
+
+580
+00:46:09,970 --> 00:46:12,273
+( Radar gun beeping )
+
+581
+00:46:12,306 --> 00:46:13,907
+What the hell?
+
+582
+00:46:16,910 --> 00:46:18,279
+( Mutters )
+
+583
+00:46:25,953 --> 00:46:27,788
+( Beeps )
+
+584
+00:46:39,300 --> 00:46:41,835
+- ( Mutters )
+- <i>( Sonic boom )</i>
+
+585
+00:46:41,869 --> 00:46:42,903
+Oh!
+
+586
+00:46:46,040 --> 00:46:49,910
+Oh! Jesus Christ.
+
+587
+00:46:51,345 --> 00:46:53,914
+I have visual,
+pike control.
+
+588
+00:46:53,947 --> 00:46:55,550
+Target is
+an armored vehicle.
+
+589
+00:46:55,583 --> 00:46:57,184
+Stand by, echo 2.
+
+590
+00:46:58,252 --> 00:47:00,421
+Sir, the satellite image
+is coming in.
+
+591
+00:47:00,454 --> 00:47:03,090
+- ( Beeps )
+- It's hard to make out.
+
+592
+00:47:04,325 --> 00:47:05,893
+That looks like it.
+
+593
+00:47:07,494 --> 00:47:08,896
+( Beeping )
+
+594
+00:47:08,929 --> 00:47:10,964
+Pike control
+to echo 2.
+
+595
+00:47:10,998 --> 00:47:13,434
+Your objective is
+to destroy the vehicle.
+
+596
+00:47:19,039 --> 00:47:20,341
+Oh Jesus.
+
+597
+00:47:22,009 --> 00:47:23,977
+( Flatly )
+Good target acquisition.
+
+598
+00:47:28,916 --> 00:47:31,485
+Colonel,
+this can't be right.
+The coordinates are off.
+
+599
+00:47:31,519 --> 00:47:33,354
+Enhance this
+satellite image.
+
+600
+00:47:35,690 --> 00:47:37,925
+Hurry up.
+
+601
+00:47:37,958 --> 00:47:39,293
+That's a police cruiser.
+
+602
+00:47:39,326 --> 00:47:41,929
+( Breathing heavily )
+
+603
+00:47:41,962 --> 00:47:44,599
+- ( Beeps )
+- Missile away.
+
+604
+00:47:50,304 --> 00:47:53,006
+( Pants )
+
+605
+00:48:14,995 --> 00:48:17,197
+What's he doing now?
+
+606
+00:48:17,231 --> 00:48:20,033
+- ( Beeping )
+- His v.R. Power level
+is too high.
+
+607
+00:48:20,067 --> 00:48:21,402
+Get it back to normal.
+
+608
+00:48:23,303 --> 00:48:25,305
+( Breathing heavily )
+
+609
+00:48:33,981 --> 00:48:35,617
+( Beeping )
+
+610
+00:48:37,451 --> 00:48:39,052
+That's a person running.
+
+611
+00:48:42,122 --> 00:48:45,292
+Echo 2 acquiring
+secondary target.
+
+612
+00:48:46,460 --> 00:48:48,128
+Son of a...
+
+613
+00:48:53,568 --> 00:48:56,638
+Echo 2, you have
+the wrong target, damn it!
+
+614
+00:48:56,671 --> 00:48:58,338
+The wrong target!
+
+615
+00:49:03,076 --> 00:49:05,145
+( Grunts )
+
+616
+00:49:13,086 --> 00:49:15,590
+Cowboy:
+Target destroyed.
+
+617
+00:49:15,623 --> 00:49:17,157
+<i>Returning</i>
+<i>control point Charlie.</i>
+
+618
+00:49:17,191 --> 00:49:18,593
+<i>Echo 2 out.</i>
+
+619
+00:49:18,626 --> 00:49:20,628
+- <i>( Radio chatter ) </i>
+- <i>( Phone ringing )</i>
+
+620
+00:49:23,765 --> 00:49:25,567
+What the hell happened?
+
+621
+00:49:28,536 --> 00:49:31,004
+Colonel Anderson,
+the target vehicle
+was never hit.
+
+622
+00:49:31,038 --> 00:49:33,575
+It was a mile away
+from the vehicle
+echo 2 attacked.
+
+623
+00:49:56,631 --> 00:49:58,600
+( Beeping )
+
+624
+00:49:58,633 --> 00:50:01,435
+( Breathes heavily )
+
+625
+00:50:01,468 --> 00:50:03,470
+( Grunting )
+
+626
+00:50:10,143 --> 00:50:12,045
+What's code 7700?
+
+627
+00:50:16,551 --> 00:50:19,152
+Where are you, cowboy?
+Where are you?
+
+628
+00:50:21,088 --> 00:50:22,524
+Got him at 3:00.
+
+629
+00:50:22,557 --> 00:50:24,191
+Cowboy, come in.
+
+630
+00:50:27,094 --> 00:50:30,632
+Echo 1,
+echo 2 is not responding.
+
+631
+00:50:34,434 --> 00:50:36,571
+Cowboy,
+this is outlaw.
+
+632
+00:50:36,604 --> 00:50:38,706
+I'm coming up
+on your right wing.
+
+633
+00:50:40,240 --> 00:50:43,110
+Cowboy, come on,
+respond. Answer me.
+
+634
+00:50:46,280 --> 00:50:48,282
+( Whirring, beeping )
+
+635
+00:50:50,183 --> 00:50:52,119
+Tom:
+<i>Man, what the hell</i>
+<i>are you doing?</i>
+
+636
+00:50:54,656 --> 00:50:56,524
+Man:
+<i>Colonel, that's a gun.</i>
+
+637
+00:50:56,558 --> 00:50:58,225
+Tom:
+<i>Put the gun away, cowboy!</i>
+
+638
+00:50:58,258 --> 00:51:00,728
+<i>Come on!</i>
+<i>Talk to me, cowboy!</i>
+
+639
+00:51:00,762 --> 00:51:03,631
+Cowboy, listen to me!
+
+640
+00:51:03,665 --> 00:51:05,567
+- Cowboy!
+- <i>( Gunshot )</i>
+
+641
+00:51:05,600 --> 00:51:07,367
+<i>Damn it, cowboy,</i>
+<i>talk to me!</i>
+
+642
+00:51:07,401 --> 00:51:09,169
+<i>Come on!</i>
+<i>Come on, man!</i>
+
+643
+00:51:09,202 --> 00:51:10,772
+<i>Stay with it!</i>
+<i>Stay with it!</i>
+
+644
+00:51:10,805 --> 00:51:12,139
+<i>Come on,</i>
+<i>pull it together!</i>
+
+645
+00:51:12,172 --> 00:51:14,174
+Get it back!
+Get it back!
+
+646
+00:51:19,346 --> 00:51:22,817
+- He's going down.
+- Tom: <i>Bail out!</i>
+
+647
+00:51:22,850 --> 00:51:24,719
+<i>Bail out, damn it!</i>
+<i>Bail out!</i>
+
+648
+00:51:35,228 --> 00:51:37,230
+I want to remind everybody
+
+649
+00:51:37,264 --> 00:51:40,133
+that this operation
+is black.
+
+650
+00:51:40,167 --> 00:51:43,203
+<i>Security is</i>
+<i>of the highest priority.</i>
+
+651
+00:51:43,236 --> 00:51:46,708
+All inquiries
+will be referred to me.
+
+652
+00:51:48,610 --> 00:51:50,110
+Is that clear?
+
+653
+00:51:55,449 --> 00:51:57,184
+Drugs?
+
+654
+00:51:58,953 --> 00:52:01,355
+Can you think of any other
+rational explanation?
+
+655
+00:52:01,388 --> 00:52:04,157
+I knew cowboy
+better than anybody.
+
+656
+00:52:04,191 --> 00:52:06,193
+He didn't do drugs.
+
+657
+00:52:06,226 --> 00:52:08,529
+People aren't always
+what they seem, Tom.
+
+658
+00:52:08,563 --> 00:52:12,499
+Perhaps you didn't know
+captain Riley as well
+as you thought.
+
+659
+00:52:12,533 --> 00:52:14,869
+He didn't do drugs
+
+660
+00:52:14,902 --> 00:52:17,270
+and he wasn't suicidal.
+
+661
+00:52:17,304 --> 00:52:19,306
+He was reckless.
+
+662
+00:52:20,675 --> 00:52:23,210
+You saw how he flew during
+the v.R. Session yesterday.
+
+663
+00:52:23,243 --> 00:52:25,680
+- Like hound dog.
+- Yes.
+
+664
+00:52:25,713 --> 00:52:28,181
+Cowboy wasn't
+like hound dog.
+
+665
+00:52:28,215 --> 00:52:30,183
+Look, captain,
+
+666
+00:52:30,952 --> 00:52:33,186
+I know this is hard
+for you to accept.
+
+667
+00:52:33,220 --> 00:52:35,590
+Sure, colonel.
+The v.R. Worked great.
+
+668
+00:52:35,623 --> 00:52:38,559
+The program's going fine.
+
+669
+00:52:38,593 --> 00:52:41,194
+Just one minor
+little problem--
+
+670
+00:52:41,228 --> 00:52:44,565
+you've lost two pilots.
+No need to get excited.
+
+671
+00:52:44,599 --> 00:52:46,668
+What the hell are you
+trying to say, captain?
+
+672
+00:52:46,701 --> 00:52:48,235
+I think
+you know, colonel.
+
+673
+00:52:48,268 --> 00:52:51,438
+No, I don't.
+Why don't you tell me?
+
+674
+00:52:53,473 --> 00:52:55,242
+Say it!
+
+675
+00:52:55,275 --> 00:52:57,210
+No need to get
+emotional, gentlemen.
+
+676
+00:52:57,244 --> 00:52:59,514
+We're all
+on the same side here.
+
+677
+00:53:00,682 --> 00:53:02,315
+Colonel,
+
+678
+00:53:03,518 --> 00:53:06,219
+why don't you
+give me a moment
+with captain waters?
+
+679
+00:53:17,297 --> 00:53:20,902
+( Door opens, closes )
+
+680
+00:53:20,935 --> 00:53:23,336
+What was that about, Tom?
+
+681
+00:53:23,370 --> 00:53:24,872
+I don't want to lose
+any more of my boys.
+
+682
+00:53:24,906 --> 00:53:26,373
+Do you know something
+that I don't?
+
+683
+00:53:26,406 --> 00:53:28,876
+It's a gut feeling,
+
+684
+00:53:28,910 --> 00:53:31,278
+but I think
+Anderson might be
+covering something up.
+
+685
+00:53:31,311 --> 00:53:34,582
+- Like what?
+- I'm not sure.
+
+686
+00:53:34,615 --> 00:53:37,018
+I trust
+your instincts, Tom.
+
+687
+00:53:37,051 --> 00:53:39,486
+I want you to come
+to my office tomorrow.
+
+688
+00:53:39,520 --> 00:53:41,321
+We will further
+this discussion.
+
+689
+00:53:41,354 --> 00:53:44,324
+But right now, I want
+you to go home and have
+a couple of drinks.
+
+690
+00:53:44,357 --> 00:53:46,460
+That's an order.
+
+691
+00:53:46,493 --> 00:53:48,295
+Yes sir.
+
+692
+00:53:52,934 --> 00:53:54,936
+( Phone ringing )
+
+693
+00:53:59,574 --> 00:54:03,376
+- Anderson.
+- Glen. Arthur vick.
+
+694
+00:54:03,410 --> 00:54:05,780
+I'm afraid
+I have some bad news.
+
+695
+00:54:05,813 --> 00:54:06,914
+We're taking you
+off the project.
+
+696
+00:54:09,550 --> 00:54:13,788
+But there was
+a police cruiser
+at the target site.
+
+697
+00:54:13,821 --> 00:54:16,289
+There was no way
+to anticipate it.
+
+698
+00:54:16,323 --> 00:54:19,060
+Glen, it's a black project.
+
+699
+00:54:19,093 --> 00:54:22,329
+No one will ever
+know anything about
+what happened out there.
+
+700
+00:54:22,362 --> 00:54:23,564
+I promise you.
+
+701
+00:54:24,732 --> 00:54:27,969
+You can't do that.
+You need me.
+
+702
+00:54:28,002 --> 00:54:30,671
+I'm sorry, Glen.
+
+703
+00:54:30,705 --> 00:54:32,840
+There's nothing I can do.
+
+704
+00:54:32,874 --> 00:54:34,809
+It's out of my hands.
+
+705
+00:54:36,677 --> 00:54:38,345
+Good night, Glen.
+
+706
+00:54:42,550 --> 00:54:44,552
+<i>( Crickets chirping )</i>
+
+707
+00:54:58,966 --> 00:55:03,604
+You know, you never
+told me what happened
+after they--
+
+708
+00:55:05,106 --> 00:55:07,909
+are they gonna
+do an investigation
+or something?
+
+709
+00:55:13,848 --> 00:55:15,616
+<i>( Softly ) Yeah.</i>
+
+710
+00:55:15,650 --> 00:55:20,453
+I'm gonna be there
+to see Anderson
+take the blame.
+
+711
+00:55:22,123 --> 00:55:24,424
+What? You think--
+you think Anderson
+killed cowboy?
+
+712
+00:55:24,457 --> 00:55:26,594
+I know
+he killed cowboy,
+
+713
+00:55:26,627 --> 00:55:29,396
+and breslaw's
+gonna know it too.
+
+714
+00:55:29,429 --> 00:55:30,865
+I'm gonna
+see him tomorrow.
+
+715
+00:55:31,933 --> 00:55:33,433
+<i>You know,</i>
+
+716
+00:55:33,466 --> 00:55:35,435
+<i>when there's a tragedy,</i>
+
+717
+00:55:35,468 --> 00:55:38,973
+it's natural to look
+for somebody to blame.
+
+718
+00:55:40,407 --> 00:55:42,677
+But sometimes
+there just isn't anybody.
+
+719
+00:55:48,149 --> 00:55:50,383
+It's not your fault.
+
+720
+00:55:52,186 --> 00:55:53,855
+Listen to me.
+
+721
+00:55:56,023 --> 00:55:58,425
+You're gonna
+get over this.
+
+722
+00:56:45,472 --> 00:56:47,141
+( Sniffles )
+
+723
+00:56:54,882 --> 00:56:56,884
+<i>( Distorted noise )</i>
+
+724
+00:57:22,944 --> 00:57:24,477
+<i>( Loud bang echoing )</i>
+
+725
+00:57:27,715 --> 00:57:30,051
+<i>( Touchtones )</i>
+
+726
+00:57:30,084 --> 00:57:31,484
+<i>( Rings )</i>
+
+727
+00:57:39,760 --> 00:57:41,562
+Anderson:
+<i>Who's there?</i>
+
+728
+00:57:55,743 --> 00:57:57,912
+<i>( Door closes )</i>
+
+729
+00:58:05,286 --> 00:58:09,123
+( Dial tone,
+touchtones )
+
+730
+00:58:09,156 --> 00:58:11,158
+<i>( Ringing )</i>
+
+731
+00:58:14,328 --> 00:58:16,764
+- <i>Anderson. </i>
+- <i>( Loud bang echoing )</i>
+
+732
+00:58:16,797 --> 00:58:19,499
+<i>Look, who is this?</i>
+
+733
+00:58:36,684 --> 00:58:38,552
+<i>( Door opens )</i>
+
+734
+00:58:41,622 --> 00:58:43,057
+You're awake.
+
+735
+00:59:01,342 --> 00:59:03,577
+I can't.
+
+736
+00:59:08,215 --> 00:59:09,650
+What is it?
+
+737
+00:59:11,786 --> 00:59:13,788
+<i>( Pants rustling )</i>
+
+738
+00:59:18,759 --> 00:59:20,995
+Would you just
+talk to me, please?
+
+739
+00:59:29,203 --> 00:59:31,172
+I'll call you later.
+
+740
+00:59:32,840 --> 00:59:35,176
+( Sighs )
+
+741
+00:59:53,694 --> 00:59:55,362
+Give me a break.
+
+742
+01:00:06,774 --> 01:00:08,776
+<i>( Car honks )</i>
+
+743
+01:00:10,311 --> 01:00:11,612
+( Car honking )
+
+744
+01:00:29,797 --> 01:00:31,799
+( Tires screeching )
+
+745
+01:00:34,435 --> 01:00:35,936
+( Honks )
+
+746
+01:00:52,253 --> 01:00:53,821
+That does it.
+
+747
+01:01:02,730 --> 01:01:04,131
+Come and get me.
+
+748
+01:01:18,412 --> 01:01:20,814
+I hate tailgaters.
+
+749
+01:01:33,928 --> 01:01:35,930
+<i>( Distant sirens )</i>
+
+750
+01:01:38,799 --> 01:01:41,268
+Should've used
+your seat belt, pal.
+
+751
+01:01:41,302 --> 01:01:43,304
+- It's the law.
+- <i>( Sirens approaching )</i>
+
+752
+01:01:51,045 --> 01:01:52,846
+<i>( Tires screech )</i>
+
+753
+01:02:14,068 --> 01:02:16,203
+Ah.
+
+754
+01:02:16,237 --> 01:02:18,239
+( Ringing )
+
+755
+01:02:24,211 --> 01:02:25,879
+Anderson.
+
+756
+01:02:29,083 --> 01:02:32,753
+Uh, I'll be right there.
+
+757
+01:02:35,155 --> 01:02:37,157
+<i>( Crickets chirping )</i>
+
+758
+01:02:40,861 --> 01:02:42,796
+( Cocks, fires )
+
+759
+01:02:44,431 --> 01:02:47,868
+( Lock rattles,
+clicks )
+
+760
+01:03:00,914 --> 01:03:02,316
+( Beeps )
+
+761
+01:03:05,452 --> 01:03:07,454
+( Beeping )
+
+762
+01:03:09,056 --> 01:03:11,058
+<i>( Keyboard clacking )</i>
+
+763
+01:03:20,134 --> 01:03:22,836
+<i>( Anderson speaking softly )</i>
+
+764
+01:03:25,939 --> 01:03:27,274
+<i>Final mission.</i>
+
+765
+01:03:28,442 --> 01:03:30,210
+<i>Final mission.</i>
+
+766
+01:03:30,244 --> 01:03:32,179
+<i>Final mission.</i>
+
+767
+01:03:32,212 --> 01:03:34,948
+Final mission.
+
+768
+01:03:34,982 --> 01:03:36,618
+<i>Final mission.</i>
+
+769
+01:03:36,651 --> 01:03:38,852
+<i>( Loud banging )</i>
+
+770
+01:03:46,060 --> 01:03:48,062
+( Beeping )
+
+771
+01:03:57,271 --> 01:03:58,972
+Bingo.
+
+772
+01:04:28,636 --> 01:04:30,270
+<i>( Loud banging )</i>
+
+773
+01:04:47,354 --> 01:04:49,189
+Gotcha now, Anderson.
+
+774
+01:04:49,223 --> 01:04:52,159
+- ( Cocks )
+- That's very good, Tom.
+
+775
+01:04:52,192 --> 01:04:54,995
+Too bad
+you weren't smart enough
+to lock the door.
+
+776
+01:04:55,028 --> 01:04:57,398
+You're a better spy
+than I am.
+
+777
+01:04:58,999 --> 01:05:01,001
+Give me your gun.
+
+778
+01:05:03,971 --> 01:05:05,573
+What's your story, Caitlin?
+
+779
+01:05:05,607 --> 01:05:07,207
+Latent James Bond fantasies?
+
+780
+01:05:07,241 --> 01:05:09,711
+It was my job.
+
+781
+01:05:09,744 --> 01:05:11,713
+You have
+an interesting work ethic.
+
+782
+01:05:11,746 --> 01:05:15,015
+Anderson had to get
+subjects to respond
+to certain commands,
+
+783
+01:05:15,048 --> 01:05:16,718
+things they would
+never do normally.
+
+784
+01:05:16,751 --> 01:05:18,952
+So he had you
+screw me over
+
+785
+01:05:18,986 --> 01:05:20,688
+in as many positions
+as possible.
+
+786
+01:05:20,722 --> 01:05:23,123
+You screwed yourself over,
+
+787
+01:05:23,157 --> 01:05:24,559
+you and your paranoia.
+
+788
+01:05:24,592 --> 01:05:26,193
+Why didn't you just
+let things be?
+
+789
+01:05:29,597 --> 01:05:30,964
+( Clicks, whirrs )
+
+790
+01:05:30,998 --> 01:05:33,066
+- I'm turning you in.
+- ( Switch clicks )
+
+791
+01:05:43,778 --> 01:05:46,013
+- You all right?
+- Yes sir.
+
+792
+01:05:46,046 --> 01:05:47,181
+What is this?
+What's going on?
+
+793
+01:05:47,214 --> 01:05:49,216
+You're under arrest
+for suspicion of murder.
+
+794
+01:05:49,249 --> 01:05:51,619
+- Murder?
+- I received a phone call
+
+795
+01:05:51,653 --> 01:05:54,622
+that colonel Anderson was
+murdered at approximately
+2300 hours this evening.
+
+796
+01:05:54,656 --> 01:05:57,090
+- What?
+- I've since been made aware
+
+797
+01:05:57,124 --> 01:05:59,092
+that you
+and colonel Anderson
+have been conducting
+
+798
+01:05:59,126 --> 01:06:01,462
+brainwashing
+experiments on several
+of our fighter pilots.
+
+799
+01:06:01,495 --> 01:06:03,497
+I just work
+for Anderson.
+
+800
+01:06:03,531 --> 01:06:05,733
+And when he became
+an embarrassment,
+you killed him.
+
+801
+01:06:05,767 --> 01:06:08,302
+No, this is a setup.
+
+802
+01:06:11,371 --> 01:06:14,374
+I left miss Cole's apartment
+at 2200 hours.
+
+803
+01:06:16,109 --> 01:06:18,078
+That's a lie.
+
+804
+01:06:18,111 --> 01:06:20,247
+I didn't kill him.
+That's a lie!
+
+805
+01:06:20,280 --> 01:06:22,617
+I didn't kill him!
+Let go of me.
+
+806
+01:06:22,650 --> 01:06:24,985
+<i>Tom!</i>
+<i>let go of me!</i>
+
+807
+01:06:28,489 --> 01:06:30,023
+Thanks, general.
+
+808
+01:06:31,358 --> 01:06:35,697
+Like I said, I always
+take care of my boys.
+
+809
+01:06:37,331 --> 01:06:39,767
+Now if you'll excuse me,
+I'm gonna go back to bed.
+
+810
+01:06:45,172 --> 01:06:46,741
+Breslaw:
+<i>It's imperative</i>
+<i>that we demonstrate</i>
+
+811
+01:06:46,774 --> 01:06:49,644
+<i>to secretary Spencer the value</i>
+<i>of our v.R. Technology.</i>
+
+812
+01:06:49,677 --> 01:06:53,648
+We have to show him
+how virtual reality picks up
+
+813
+01:06:53,681 --> 01:06:56,116
+where human biology
+leaves off.
+
+814
+01:06:57,217 --> 01:07:00,287
+It lets US see 100 miles
+when we can only see one.
+
+815
+01:07:00,320 --> 01:07:04,224
+<i>It creates the sensation</i>
+<i>of being someplace</i>
+<i>that we're not.</i>
+
+816
+01:07:06,426 --> 01:07:09,129
+It allows US
+to react faster,
+
+817
+01:07:09,162 --> 01:07:10,665
+better
+
+818
+01:07:11,699 --> 01:07:14,101
+than humanly possible.
+
+819
+01:07:14,134 --> 01:07:17,170
+<i>This is the sole purpose</i>
+<i>of today's mission.</i>
+
+820
+01:07:17,204 --> 01:07:19,741
+You don't have to worry
+about colonel Anderson.
+
+821
+01:07:21,509 --> 01:07:23,711
+I'll be flying
+in his place.
+
+822
+01:07:51,204 --> 01:07:52,840
+Amber 1 and 2,
+this is warlord 1.
+
+823
+01:07:52,874 --> 01:07:55,409
+- Stand by
+for v.R. Transmission.
+- ( Beeps )
+
+824
+01:08:02,684 --> 01:08:05,218
+Amber 1 standing by,
+general.
+
+825
+01:08:05,252 --> 01:08:07,321
+Amber 2 copies.
+
+826
+01:08:14,227 --> 01:08:17,397
+Pike control,
+start v.R. Transmission
+at this time.
+
+827
+01:08:17,431 --> 01:08:20,868
+Transmitting
+v.r. Routines now.
+
+828
+01:08:20,902 --> 01:08:23,905
+<i>General, you have clearance</i>
+<i>to enter the range.</i>
+
+829
+01:08:23,938 --> 01:08:25,172
+<i>Weather conditions</i>
+<i>are good.</i>
+
+830
+01:08:25,205 --> 01:08:28,576
+Roger, control.
+Is there any conflicting
+traffic in the area?
+
+831
+01:08:28,610 --> 01:08:31,211
+No factor
+at this time, sir.
+
+832
+01:08:31,244 --> 01:08:34,181
+Secretary Spencer
+will be passing by
+the southern boundary
+
+833
+01:08:34,214 --> 01:08:37,852
+in 10 minutes,
+call sign "rainmaker."
+
+834
+01:08:37,885 --> 01:08:40,253
+We'll stay clear.
+
+835
+01:08:45,860 --> 01:08:48,395
+<i>Amber flight,</i>
+<i>engage your vr now.</i>
+
+836
+01:08:49,463 --> 01:08:51,131
+Amber 1 copies.
+
+837
+01:08:52,199 --> 01:08:53,901
+2 copies.
+
+838
+01:08:59,439 --> 01:09:02,910
+Okay, boys,
+let's show 'em
+what the v.R. Can do.
+
+839
+01:09:02,944 --> 01:09:05,178
+Roger. Hey, flash,
+
+840
+01:09:05,212 --> 01:09:06,614
+you ready
+to rock and roll?
+
+841
+01:09:08,816 --> 01:09:11,184
+Hey, man,
+what are you, deaf?
+
+842
+01:09:11,218 --> 01:09:13,721
+Flash, what the hell are
+you doing back there?
+
+843
+01:09:21,328 --> 01:09:23,330
+( Beeping )
+
+844
+01:09:26,299 --> 01:09:28,301
+Shit, I'm getting
+a missile lock from you.
+
+845
+01:09:28,335 --> 01:09:29,971
+- What are you doing, man?
+- <i>( Alarm beeping )</i>
+
+846
+01:09:30,004 --> 01:09:32,272
+Come on,
+talk to me, damn it!
+
+847
+01:09:32,305 --> 01:09:34,307
+Initiate
+battle code X-ray.
+
+848
+01:09:34,341 --> 01:09:36,176
+Roger, warlord.
+
+849
+01:09:37,979 --> 01:09:39,346
+No!
+
+850
+01:09:40,515 --> 01:09:42,984
+Warlord 1,
+this is control.
+
+851
+01:09:43,017 --> 01:09:44,519
+Uh, general sir,
+
+852
+01:09:44,552 --> 01:09:48,255
+- it appears that Amber 2
+just fired at Amber 1.
+- <i>( Alarm beeps )</i>
+
+853
+01:09:48,288 --> 01:09:50,658
+Please advise me
+of your situation. Over.
+
+854
+01:09:52,560 --> 01:09:53,928
+Damn it.
+
+855
+01:09:53,961 --> 01:09:56,898
+<i>See if you can find</i>
+<i>battle code X-ray.</i>
+
+856
+01:10:03,370 --> 01:10:05,006
+Damn it, flash,
+break it off!
+
+857
+01:10:05,039 --> 01:10:07,240
+Break it off,
+you son of a bitch!
+
+858
+01:10:09,844 --> 01:10:13,380
+Amber 2, carry out
+your mission.
+
+859
+01:10:16,316 --> 01:10:19,319
+- ( Breathing heavily )
+- ( Beeping )
+
+860
+01:10:20,621 --> 01:10:22,924
+Damn it, general,
+call him off!
+
+861
+01:10:22,957 --> 01:10:26,293
+That's a negative.
+You're in the way, Tom.
+
+862
+01:10:32,499 --> 01:10:34,702
+All right,
+you crazy bastard.
+
+863
+01:10:40,340 --> 01:10:42,577
+Damn it, flash,
+I'm on your 6:00.
+
+864
+01:10:42,610 --> 01:10:44,478
+- Break it off,
+do you hear me?
+- ( Beeping )
+
+865
+01:10:44,512 --> 01:10:46,514
+Come on!
+I'll bring you down
+if I have to!
+
+866
+01:10:48,348 --> 01:10:49,951
+I have my orders.
+
+867
+01:10:49,984 --> 01:10:51,953
+I'm taking you out,
+you bastard.
+
+868
+01:10:51,986 --> 01:10:53,921
+- <i>Now get out</i>
+<i>of the damn plane. </i>
+- ( Beeping )
+
+869
+01:10:54,956 --> 01:10:56,657
+Missile away.
+
+870
+01:10:58,626 --> 01:11:00,595
+Do you hear me?
+Get out, flash!
+Bail out!
+
+871
+01:11:00,628 --> 01:11:03,330
+- ( Hisses )
+- Tom: <i>Bail out!</i>
+
+872
+01:11:05,867 --> 01:11:08,669
+( Beeps, buzzing )
+
+873
+01:11:08,703 --> 01:11:10,671
+God damn it.
+
+874
+01:11:15,442 --> 01:11:18,579
+- Get rescue on the horn.
+Did you find anything?
+- ( Alarm beeping )
+
+875
+01:11:18,613 --> 01:11:21,949
+Just this--
+something about
+classified codes.
+
+876
+01:11:23,383 --> 01:11:26,687
+Flight control,
+Amber 1 has gone renegade.
+
+877
+01:11:26,721 --> 01:11:29,524
+He's a threat to all
+aircraft in the area.
+
+878
+01:11:30,925 --> 01:11:32,425
+Damn you, general.
+You're the one
+
+879
+01:11:32,459 --> 01:11:34,494
+who's out of control,
+you lying son of a bitch.
+
+880
+01:11:37,430 --> 01:11:40,568
+- General?
+- What's the location
+of rainmaker?
+
+881
+01:11:40,601 --> 01:11:44,404
+He's skirting
+the southern boundary, sir.
+
+882
+01:11:44,437 --> 01:11:45,673
+Control,
+this is outlaw.
+
+883
+01:11:45,706 --> 01:11:47,440
+There's a woman
+being held in security.
+
+884
+01:11:47,474 --> 01:11:50,377
+- Her name is Caitlin Cole.
+- Ignore that, control.
+
+885
+01:11:50,410 --> 01:11:53,915
+- <i>( Beeps ) </i>
+- Tom: <i>She was working</i>
+<i>for colonel Anderson.</i>
+
+886
+01:11:53,948 --> 01:11:55,917
+( Beeping )
+
+887
+01:11:55,950 --> 01:11:58,418
+She can tell you
+everything.
+
+888
+01:11:58,451 --> 01:12:00,655
+Give in, Tom. Relax.
+
+889
+01:12:00,688 --> 01:12:02,489
+You can do it.
+It's your duty.
+
+890
+01:12:02,523 --> 01:12:04,559
+( Flatly )
+Yes sir.
+
+891
+01:12:04,592 --> 01:12:07,695
+Good, Tom.
+You're about
+to make history.
+
+892
+01:12:07,728 --> 01:12:09,864
+What's he saying?
+
+893
+01:12:09,897 --> 01:12:12,633
+- ( Keyboard clacks )
+- Warlord 1, this is control.
+
+894
+01:12:12,667 --> 01:12:14,334
+Could you repeat? Over.
+
+895
+01:12:18,438 --> 01:12:21,474
+- ( Beeps )
+- I need a target, general.
+
+896
+01:12:21,509 --> 01:12:23,945
+Breslaw:
+<i>Turn to heading 1-5-7.</i>
+
+897
+01:12:23,978 --> 01:12:26,514
+1-5-7. Roger.
+
+898
+01:12:30,017 --> 01:12:32,653
+General-- sir,
+that's rainmaker's location.
+
+899
+01:12:34,655 --> 01:12:36,524
+General?
+
+900
+01:12:36,557 --> 01:12:38,659
+General,
+this is pike control.
+
+901
+01:12:38,693 --> 01:12:40,528
+Come in. Over.
+
+902
+01:12:41,529 --> 01:12:42,797
+Damn it.
+
+903
+01:12:42,830 --> 01:12:45,766
+Call security,
+find out if they're
+holding a Caitlin Cole.
+
+904
+01:12:45,800 --> 01:12:47,500
+If they are,
+get her up here.
+
+905
+01:12:56,844 --> 01:12:58,813
+<i>Rainmaker,</i>
+<i>this is pike control</i>
+
+906
+01:12:58,846 --> 01:13:01,414
+<i>with a high-priority warning.</i>
+<i>Come in.</i>
+
+907
+01:13:01,448 --> 01:13:03,450
+Rainmaker:
+Pike control,
+this is rainmaker.
+
+908
+01:13:03,483 --> 01:13:05,119
+Go ahead.
+
+909
+01:13:05,152 --> 01:13:08,589
+Approaching renegade f-16
+with hostile intent
+
+910
+01:13:08,623 --> 01:13:10,457
+being pursued
+by a mirage fighter.
+
+911
+01:13:10,490 --> 01:13:12,526
+Take evasive action now.
+
+912
+01:13:12,560 --> 01:13:16,564
+Against an f-16?
+This is a Learjet.
+
+913
+01:13:16,597 --> 01:13:20,500
+You do understand we have
+a high-priority passenger
+onboard this aircraft?
+
+914
+01:13:21,936 --> 01:13:23,671
+Uh, yes sir, I do.
+
+915
+01:13:23,704 --> 01:13:26,173
+<i>Okay, control.</i>
+<i>What's the distance</i>
+<i>on that f-16?</i>
+
+916
+01:13:26,207 --> 01:13:29,744
+25 miles and closing
+on full burner.
+
+917
+01:14:02,710 --> 01:14:05,746
+Control,
+he's gaining on US.
+
+918
+01:14:08,582 --> 01:14:11,118
+Sergeant, here's the woman
+you were asking for.
+
+919
+01:14:11,152 --> 01:14:13,521
+What do
+you want, sergeant?
+
+920
+01:14:13,554 --> 01:14:16,123
+We've got a hell
+of a situation here, ma'am.
+
+921
+01:14:17,291 --> 01:14:20,728
+Captain waters shot down
+captain Tate.
+
+922
+01:14:20,761 --> 01:14:23,496
+He said he was attacked
+on orders from the general.
+
+923
+01:14:23,531 --> 01:14:25,700
+He said you might know
+something about it.
+
+924
+01:14:28,169 --> 01:14:30,071
+Captain waters is
+probably right.
+
+925
+01:14:30,104 --> 01:14:32,573
+Could it have something
+to do with these codes?
+
+926
+01:14:32,606 --> 01:14:34,275
+What codes?
+
+927
+01:14:34,308 --> 01:14:37,178
+They come up each time
+before the attacks.
+
+928
+01:14:37,211 --> 01:14:39,580
+I can't override them
+and I can't break in.
+
+929
+01:14:39,613 --> 01:14:41,782
+- I can.
+- <i>( Handcuffs clink )</i>
+
+930
+01:14:41,816 --> 01:14:43,250
+Do it, soldier.
+
+931
+01:14:48,289 --> 01:14:50,591
+- Are you in contact
+with captain waters?
+- Sporadic.
+
+932
+01:14:50,624 --> 01:14:52,994
+- Get him.
+- ( Keyboard clacking )
+
+933
+01:14:53,027 --> 01:14:55,029
+Amber 1, this is
+pike control. Over.
+
+934
+01:14:57,231 --> 01:15:00,768
+Amber 1,
+this is pike control.
+Please acknowledge.
+
+935
+01:15:00,801 --> 01:15:02,803
+Rainmaker:
+We're not gonna
+last much longer.
+
+936
+01:15:10,144 --> 01:15:11,879
+( Beeping )
+
+937
+01:15:17,351 --> 01:15:19,920
+It's just like
+the simulator, Tom.
+
+938
+01:15:19,954 --> 01:15:23,724
+- There's no difference.
+- I'm-- I'm losing
+lock on him.
+
+939
+01:15:33,334 --> 01:15:38,005
+Tom, the time has come
+to send a message
+to the secretary.
+
+940
+01:15:38,039 --> 01:15:40,107
+What's he talking about?
+
+941
+01:15:40,141 --> 01:15:42,810
+- Who's on that other plane?
+- The secretary of defense.
+
+942
+01:15:44,712 --> 01:15:46,547
+He's trying to kill
+the secretary.
+
+943
+01:15:47,615 --> 01:15:48,649
+Jesus.
+
+944
+01:15:50,317 --> 01:15:52,853
+<i>( Caitlin, distorted )</i>
+<i>Tom, can you hear me?</i>
+
+945
+01:15:53,988 --> 01:15:55,856
+<i>Tom, answer me.</i>
+
+946
+01:15:57,892 --> 01:15:59,827
+<i>Tom.</i>
+
+947
+01:16:00,861 --> 01:16:02,696
+<i>Tom!</i>
+
+948
+01:16:04,098 --> 01:16:06,067
+Tom, this is Caitlin.
+If you can hear me,
+
+949
+01:16:06,100 --> 01:16:07,368
+please acknowledge.
+
+950
+01:16:07,401 --> 01:16:09,703
+Carry out
+your orders, Tom.
+
+951
+01:16:17,111 --> 01:16:19,046
+- I just about have it.
+- ( Beeps )
+
+952
+01:16:20,414 --> 01:16:22,683
+( Breathing heavily )
+
+953
+01:16:29,790 --> 01:16:31,725
+- <i>( Beeps ) </i>
+- I'm in.
+
+954
+01:16:38,365 --> 01:16:41,368
+Oh my god.
+Tom, listen to me.
+
+955
+01:16:41,402 --> 01:16:44,672
+The number's a code--
+it's a brainwashing code.
+
+956
+01:16:44,705 --> 01:16:47,675
+Tom, it doesn't matter.
+This is something
+we have to do.
+
+957
+01:16:47,708 --> 01:16:50,211
+Caitlin:
+<i>You were right, Tom.</i>
+<i>There is something going on.</i>
+
+958
+01:16:50,244 --> 01:16:52,046
+<i>You're being</i>
+<i>programmed by breslaw</i>
+
+959
+01:16:52,079 --> 01:16:55,015
+<i>and you're on</i>
+<i>a collision course with</i>
+<i>the secretary of defense.</i>
+
+960
+01:16:58,419 --> 01:17:00,688
+You've gotta pull up, Tom.
+You've gotta pull up.
+
+961
+01:17:00,721 --> 01:17:03,390
+- Stay on target!
+- Tom, please pull up!
+
+962
+01:17:11,799 --> 01:17:14,902
+- <i>( Panicked breathing ) </i>
+- Caitlin: <i>Stop your attack,</i>
+<i>Tom. Pull up!</i>
+
+963
+01:17:19,940 --> 01:17:21,675
+No!
+
+964
+01:17:22,943 --> 01:17:26,046
+Damn it. I am very
+disappointed in you, Tom.
+
+965
+01:17:28,249 --> 01:17:32,119
+- ( Sighs )
+- Rainmaker: <i>Okay, control,</i>
+<i>this is rainmaker.</i>
+
+966
+01:17:32,153 --> 01:17:34,421
+<i>Get US out of here now.</i>
+
+967
+01:17:34,455 --> 01:17:37,224
+- ( Clicks )
+- Rainmaker,
+this is pike control.
+
+968
+01:17:37,258 --> 01:17:40,761
+Proceed
+to coordinates 2-9-2.
+
+969
+01:17:40,794 --> 01:17:42,830
+- Sergeant?
+- Sergeant: <i>Stand by, rainmaker.</i>
+
+970
+01:17:42,863 --> 01:17:46,400
+- What is it?
+- I have warlord on tactical
+intercept with rainmaker.
+
+971
+01:17:47,968 --> 01:17:51,038
+Shit! General,
+what are you doing?
+
+972
+01:17:51,071 --> 01:17:54,108
+Keeping america strong, son.
+
+973
+01:17:54,141 --> 01:17:56,710
+<i>I can't allow any one man</i>
+<i>to compromise that.</i>
+
+974
+01:17:56,744 --> 01:17:58,946
+Oh my god.
+
+975
+01:17:58,979 --> 01:18:01,081
+You'd better alert
+base command.
+
+976
+01:18:02,850 --> 01:18:06,921
+( Clears throat )
+Rainmaker, this is
+pike control on guard.
+
+977
+01:18:06,954 --> 01:18:10,824
+Warning, warning,
+approaching mirage fighter
+with hostile intent.
+
+978
+01:18:10,858 --> 01:18:13,460
+- <i>Acknowledge. Over. </i>
+- Rainmaker: Now it's a mirage?
+
+979
+01:18:13,494 --> 01:18:15,796
+What the hell are you idiots
+doing down there?
+
+980
+01:18:18,966 --> 01:18:20,602
+<i>Outlaw, this is</i>
+<i>pike control.</i>
+
+981
+01:18:20,635 --> 01:18:24,104
+<i>General breslaw is on</i>
+<i>an intercept course with </i>
+<i>the secretary of defense.</i>
+
+982
+01:18:24,138 --> 01:18:25,839
+Acknowledge. Over.
+
+983
+01:18:27,808 --> 01:18:29,476
+Acknowledge, outlaw. Over.
+
+984
+01:18:29,511 --> 01:18:31,378
+<i>Do you read, over?</i>
+
+985
+01:18:32,413 --> 01:18:33,881
+Tom, this is Caitlin.
+
+986
+01:18:33,914 --> 01:18:36,518
+If you hear me,
+please respond.
+
+987
+01:18:36,551 --> 01:18:39,053
+Cai-- Caitlin?
+
+988
+01:18:42,089 --> 01:18:44,225
+Turn off Tom's v.R.
+
+989
+01:18:44,258 --> 01:18:45,759
+- Sergeant: <i>What? </i>
+- Turn it off!
+
+990
+01:18:50,497 --> 01:18:53,100
+Tom, it's Caitlin,
+can you hear me?
+
+991
+01:18:53,133 --> 01:18:57,271
+- Tom: <i>Yeah. </i>
+- Warlord at 20 nautical
+miles and closing
+
+992
+01:19:02,876 --> 01:19:04,945
+Tom, you have to
+get to breslaw.
+
+993
+01:19:04,979 --> 01:19:07,047
+He's trying to kill
+secretary Spencer.
+
+994
+01:19:07,081 --> 01:19:09,517
+Do you remember
+what just happened?
+
+995
+01:19:09,551 --> 01:19:11,352
+Umm...
+
+996
+01:19:11,385 --> 01:19:13,220
+Flash attacked me.
+
+997
+01:19:13,254 --> 01:19:15,557
+I shot him down.
+
+998
+01:19:15,590 --> 01:19:17,525
+That's right.
+That's right.
+
+999
+01:19:17,559 --> 01:19:21,095
+But you had to do it.
+Breslaw programmed him
+to kill you.
+
+1000
+01:19:21,128 --> 01:19:23,998
+Those numbers
+on your display are
+mind-control codes.
+
+1001
+01:19:24,031 --> 01:19:25,866
+10 nautical miles
+and closing.
+
+1002
+01:19:25,899 --> 01:19:28,369
+You were right, Tom.
+There was something wrong.
+
+1003
+01:19:28,402 --> 01:19:30,804
+I only worked
+for Anderson.
+
+1004
+01:19:30,838 --> 01:19:33,040
+I don't think he even knew
+what breslaw was doing.
+
+1005
+01:19:33,073 --> 01:19:36,944
+<i>They lied to me.</i>
+<i>They were controlling you.</i>
+
+1006
+01:19:37,579 --> 01:19:39,813
+Outlaw, this is
+pike control.
+
+1007
+01:19:39,847 --> 01:19:41,348
+Tom:
+<i>Is that you, Wyatt?</i>
+
+1008
+01:19:41,382 --> 01:19:42,983
+Yeah, captain, it's me.
+
+1009
+01:19:43,017 --> 01:19:44,918
+What she said is true.
+
+1010
+01:19:44,952 --> 01:19:47,121
+Warlord--
+five nautical miles.
+
+1011
+01:19:49,089 --> 01:19:51,892
+Tom:
+<i>I'm on my way.</i>
+
+1012
+01:19:55,129 --> 01:19:56,830
+( Beeping )
+
+1013
+01:19:56,864 --> 01:19:59,333
+Control,
+my weapons won't arm.
+
+1014
+01:19:59,366 --> 01:20:01,902
+Your weapons won't arm
+unless you're in v.R.
+
+1015
+01:20:01,935 --> 01:20:04,905
+- That was my idea.
+- Control, turn my v.R. Back on.
+
+1016
+01:20:04,938 --> 01:20:07,609
+No, Tom, you can't.
+Breslaw can feed you codes.
+
+1017
+01:20:07,642 --> 01:20:10,244
+You see, Tom,
+it's sort of a catch-22.
+
+1018
+01:20:10,277 --> 01:20:12,346
+Turn on your v.R.
+And I'll break you.
+
+1019
+01:20:12,379 --> 01:20:14,848
+Leave it off,
+you're helpless.
+
+1020
+01:20:14,882 --> 01:20:17,117
+- Power me up, Wyatt.
+- No!
+
+1021
+01:20:17,151 --> 01:20:19,486
+Tom:
+<i>Just do it!</i>
+<i>That's an order!</i>
+
+1022
+01:20:29,430 --> 01:20:32,099
+Rainmaker:
+Control, where's our help?
+
+1023
+01:20:35,903 --> 01:20:38,839
+Tom: I've got
+warlord in my sights.
+I'm moving in.
+
+1024
+01:20:40,441 --> 01:20:43,143
+( Buzzes )
+
+1025
+01:20:46,113 --> 01:20:49,116
+- ( Static hiss )
+- He's jamming me.
+
+1026
+01:20:49,149 --> 01:20:51,519
+I can't get a missile lock.
+I'm switching to guns.
+
+1027
+01:20:51,553 --> 01:20:53,521
+- That won't be necessary.
+- ( Beeps )
+
+1028
+01:20:53,555 --> 01:20:55,557
+( Beeping )
+
+1029
+01:21:02,630 --> 01:21:04,998
+Tom, do you see
+that number flashing?
+
+1030
+01:21:05,032 --> 01:21:07,434
+( Confused )
+Numbers?
+
+1031
+01:21:09,336 --> 01:21:11,171
+Tom, that's a transition code.
+
+1032
+01:21:11,205 --> 01:21:12,940
+You've been programmed
+to follow signals
+
+1033
+01:21:12,973 --> 01:21:15,109
+following this number.
+Do you understand that?
+
+1034
+01:21:16,143 --> 01:21:17,244
+Yeah.
+
+1035
+01:21:17,277 --> 01:21:19,012
+You do
+what's right, Tom.
+
+1036
+01:21:19,046 --> 01:21:21,482
+That's what you've
+been trained for.
+
+1037
+01:21:21,516 --> 01:21:24,051
+I'm doing it.
+
+1038
+01:21:28,021 --> 01:21:30,157
+Damn it!
+
+1039
+01:21:50,745 --> 01:21:52,012
+Damn!
+
+1040
+01:21:58,586 --> 01:22:02,055
+I should've taken you
+out of the program
+a long time ago.
+
+1041
+01:22:03,090 --> 01:22:04,726
+- I'll do it now.
+- ( Beeps )
+
+1042
+01:22:04,759 --> 01:22:07,027
+( Pinging )
+
+1043
+01:22:12,166 --> 01:22:14,067
+Warlord is locking
+onto outlaw.
+
+1044
+01:22:15,302 --> 01:22:18,038
+- ( Alarm buzzes )
+- Outlaws can't be heroes, Tom.
+
+1045
+01:22:19,306 --> 01:22:20,742
+Missile away.
+Missile away.
+
+1046
+01:22:20,775 --> 01:22:22,176
+Get the hell
+out of there!
+
+1047
+01:22:32,019 --> 01:22:35,088
+Is this how you take care
+of your boys, general?
+
+1048
+01:22:38,358 --> 01:22:40,060
+You're goddamn right!
+
+1049
+01:22:44,799 --> 01:22:47,000
+<i>( Alarm beeping )</i>
+
+1050
+01:23:08,790 --> 01:23:10,692
+Son of a bitch.
+
+1051
+01:23:24,371 --> 01:23:26,641
+( Alarm buzzes )
+
+1052
+01:23:31,378 --> 01:23:34,549
+( Both sigh )
+
+1053
+01:23:47,729 --> 01:23:51,131
+- Tom: <i>No. </i>
+- Tom?
+
+1054
+01:23:53,768 --> 01:23:56,069
+Oh god.
+
+1055
+01:23:56,103 --> 01:23:57,739
+That's the same code
+cowboy got
+
+1056
+01:23:57,772 --> 01:23:59,774
+- just before he...
+- Killed himself.
+
+1057
+01:24:00,875 --> 01:24:03,210
+Turn it off.
+Turn off the goddamn v.R.
+
+1058
+01:24:03,243 --> 01:24:06,280
+<i>( Keyboard clacks )</i>
+
+1059
+01:24:06,313 --> 01:24:09,082
+I can't.
+The general must've
+locked US out.
+
+1060
+01:24:11,451 --> 01:24:13,453
+( Breathing heavily )
+
+1061
+01:24:26,668 --> 01:24:28,435
+Tom, now listen to me.
+
+1062
+01:24:28,468 --> 01:24:30,304
+That's the suicide code.
+
+1063
+01:24:30,337 --> 01:24:32,874
+Don't do this, Tom.
+Just put the gun down.
+
+1064
+01:24:32,907 --> 01:24:34,742
+<i>Do you hear me?</i>
+<i>Put the gun down!</i>
+
+1065
+01:24:36,343 --> 01:24:38,211
+<i>Tom, answer me.</i>
+
+1066
+01:24:38,913 --> 01:24:40,247
+Tom!
+
+1067
+01:24:41,616 --> 01:24:44,151
+<i>Don't be like cowboy.</i>
+
+1068
+01:24:44,184 --> 01:24:47,154
+Just think for yourself, Tom!
+Just think for yourself.
+
+1069
+01:24:47,187 --> 01:24:48,388
+You don't have
+to die like that.
+
+1070
+01:24:49,591 --> 01:24:51,425
+<i>What the hell</i>
+<i>do you believe in, Tom?</i>
+
+1071
+01:24:51,458 --> 01:24:53,493
+<i>What, fighting?</i>
+<i>You want someone</i>
+<i>to fight with?</i>
+
+1072
+01:24:53,528 --> 01:24:56,196
+Is that what you need?
+Well, god damn it,
+listen to me!
+
+1073
+01:24:56,229 --> 01:24:58,231
+I will fight
+with you, Tom!
+Listen to me!
+
+1074
+01:24:58,265 --> 01:25:00,602
+I will fight with you,
+you weak bastard!
+
+1075
+01:25:21,421 --> 01:25:23,223
+Tom:
+<i>What did you call me?</i>
+
+1076
+01:25:26,326 --> 01:25:28,328
+( Laughs )
+
+1077
+01:25:51,318 --> 01:25:53,253
+( Engine starts )
+
+1078
+01:25:55,288 --> 01:25:57,324
+<i>( Bell dings )</i>
+
+1079
+01:25:58,225 --> 01:26:00,662
+Hey, captain.
+
+1080
+01:26:00,695 --> 01:26:03,698
+Joe, call me Tom,
+would you?
+
+1081
+01:26:03,731 --> 01:26:05,800
+Where you headed, Tom?
+
+1082
+01:26:05,833 --> 01:26:08,502
+I figured we'd check out
+the countryside
+
+1083
+01:26:08,536 --> 01:26:10,303
+from a different perspective.
+
+1084
+01:26:10,337 --> 01:26:12,172
+I got something for you.
+
+1085
+01:26:13,941 --> 01:26:17,344
+- Here you go.
+- Wow, a flight suit.
+Man, that's...
+
+1086
+01:26:18,913 --> 01:26:20,848
+- You sure?
+- Tom: <i>Yup.</i>
+
+1087
+01:26:20,882 --> 01:26:25,252
+- I'm sure.
+- He's not gonna be needing it
+where we're going.
+
+1088
+01:26:26,253 --> 01:26:28,255
+( Clicking )
+
+1089
+01:26:31,893 --> 01:26:33,961
+- ( Clicking stops )
+- Caitlin: <i>Tom?</i>
+
+1090
+01:26:40,835 --> 01:26:43,738
+- ( Laughs )
+- You bas-- ( Laughs )
+
+1091
+01:26:47,542 --> 01:26:49,544
+{\an7}<i>( Rock music playing )</i>
+
+1092
+01:29:08,883 --> 01:29:10,885
+{\an7}<i>( Classical score playing )</i>
+

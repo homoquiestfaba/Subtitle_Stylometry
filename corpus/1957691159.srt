@@ -1,0 +1,6822 @@
+﻿1
+00:00:12,500 --> 00:00:14,500
+[winds howling]
+
+2
+00:00:41,041 --> 00:00:45,041
+[alarm blaring]
+
+3
+00:00:45,125 --> 00:00:48,208
+[tense instrumental music plays]
+
+4
+00:00:48,291 --> 00:00:50,750
+[man 1] <i>Mayday, mayday!</i>
+<i>We are under attack.</i>
+
+5
+00:00:50,833 --> 00:00:52,958
+<i>Under attack from our own people.</i>
+
+6
+00:00:54,291 --> 00:00:56,583
+<i>They just started shooting.
+They took out everyone.</i>
+
+7
+00:00:56,666 --> 00:01:00,000
+- [man 2]<i> Why are they doing this?</i>
+- [man 1]<i> They're ours. What's happening?</i>
+
+8
+00:01:02,291 --> 00:01:05,333
+[music builds]
+
+9
+00:01:09,166 --> 00:01:12,000
+[beeping]
+
+10
+00:01:19,958 --> 00:01:21,291
+[man 1] <i>How many are there?</i>
+
+11
+00:01:21,375 --> 00:01:23,916
+[man 2]<i> They're everywhere!</i>
+<i>They're going for the command center.</i>
+
+12
+00:01:24,000 --> 00:01:26,333
+<i>They're going to
+take out the interceptors.</i>
+
+13
+00:01:29,333 --> 00:01:31,833
+[beeping]
+
+14
+00:01:31,916 --> 00:01:34,416
+[warning chimes]
+
+15
+00:01:39,291 --> 00:01:40,500
+[panting]
+
+16
+00:01:40,583 --> 00:01:42,708
+[man 1] <i>They're killing us,</i>
+<i>they're killing everybody!</i>
+
+17
+00:01:42,791 --> 00:01:45,333
+<i>They reached the command center.
+I can't hold them off!</i>
+
+18
+00:01:45,416 --> 00:01:47,791
+[man 2]<i> Somebody help us!</i>
+<i>Please, send help!</i>
+
+19
+00:01:47,875 --> 00:01:49,125
+[gunshot echoing]
+
+20
+00:01:49,208 --> 00:01:50,583
+[alarm blaring]
+
+21
+00:01:50,666 --> 00:01:52,166
+[man 1] <i>We've got to call SBX-1.</i>
+
+22
+00:01:52,250 --> 00:01:54,375
+[man 2] <i>We can't!</i>
+<i>They destroyed the transmitter!</i>
+
+23
+00:01:54,458 --> 00:01:57,625
+{\an8}[man 1] <i>This is Fort Greely.</i>
+<i>We have been overrun. Fort Greely...</i>
+
+24
+00:01:57,708 --> 00:01:58,833
+{\an8}[gunfire]
+
+25
+00:01:59,333 --> 00:02:01,000
+{\an8}[music builds]
+
+26
+00:02:07,583 --> 00:02:10,833
+{\an8}[beeping]
+
+27
+00:02:10,916 --> 00:02:14,541
+{\an8}[rapid chiming]
+
+28
+00:02:19,041 --> 00:02:20,166
+[clicking]
+
+29
+00:02:21,666 --> 00:02:23,250
+[music crescendos]
+
+30
+00:02:24,333 --> 00:02:27,541
+[tense instrumental music plays]
+
+31
+00:02:36,000 --> 00:02:38,500
+[helicopter whirring]
+
+32
+00:02:42,208 --> 00:02:44,333
+[pilot] <i>Coming up on SBX-1 now, Captain.</i>
+
+33
+00:02:49,958 --> 00:02:52,875
+[music building]
+
+34
+00:02:56,750 --> 00:02:58,791
+[pilot] <i>SBX-1 this is Eagle 6-7.</i>
+
+35
+00:02:58,875 --> 00:03:01,375
+<i>I got your new
+missile system specialist here with me.</i>
+
+36
+00:03:01,458 --> 00:03:03,708
+<i>Request permission
+to commence final approach.</i>
+
+37
+00:03:03,791 --> 00:03:07,083
+[operator] <i>Eagle 6-7 this is SBX-1,</i>
+<i>you're cleared for landing.</i>
+
+38
+00:03:07,166 --> 00:03:08,958
+<i>Welcome to the middle of nowhere.</i>
+
+39
+00:03:18,500 --> 00:03:22,208
+[helicopter whirring]
+
+40
+00:03:27,166 --> 00:03:29,875
+[mechanical humming]
+
+41
+00:03:29,958 --> 00:03:32,708
+[helicopter whirring]
+
+42
+00:03:40,708 --> 00:03:44,041
+[music builds]
+
+43
+00:03:49,291 --> 00:03:51,625
+Captain Collins, I'm Ensign Washington.
+
+44
+00:03:52,750 --> 00:03:54,791
+Welcome to SBX-1,
+
+45
+00:03:55,333 --> 00:03:57,333
+or should I say "welcome back."
+
+46
+00:03:57,416 --> 00:03:59,833
+- Thanks.
+- [Washington] Colonel's waiting for you.
+
+47
+00:04:01,041 --> 00:04:04,875
+I heard you grew up in Spain
+at a base your dad was posted at.
+
+48
+00:04:07,666 --> 00:04:08,750
+[male voice] Come in.
+
+49
+00:04:14,958 --> 00:04:16,666
+Captain Collins reporting, sir.
+
+50
+00:04:18,875 --> 00:04:19,750
+At ease.
+
+51
+00:04:21,083 --> 00:04:23,000
+Good to see you again, JJ.
+
+52
+00:04:23,958 --> 00:04:25,333
+You remember Captain Welsh?
+
+53
+00:04:26,125 --> 00:04:29,000
+Yes, sir. You were just
+taking over when I rotated out.
+
+54
+00:04:29,083 --> 00:04:30,416
+Don't you mean escaped?
+
+55
+00:04:30,500 --> 00:04:32,041
+[Welsh and colonel laugh]
+
+56
+00:04:32,125 --> 00:04:33,291
+[Welsh] Listen to this.
+
+57
+00:04:36,416 --> 00:04:38,708
+- Give us a minute, would you, Lou?
+- You bet.
+
+58
+00:04:39,458 --> 00:04:41,875
+See if you can get us
+an update on that Russian sub.
+
+59
+00:04:46,333 --> 00:04:48,833
+Well, as you can see,
+
+60
+00:04:49,333 --> 00:04:51,541
+everything's pretty much
+the way you left it.
+
+61
+00:04:51,625 --> 00:04:54,250
+Navy runs the boat,
+Army handles the missiles,
+
+62
+00:04:54,333 --> 00:04:56,250
+and everyone wants
+to be anywhere but here.
+
+63
+00:04:56,333 --> 00:04:58,791
+- Have you spoke with the board?
+- Three times.
+
+64
+00:04:58,875 --> 00:05:00,875
+[Collins] Showed them my record?
+My reviews?
+
+65
+00:05:00,958 --> 00:05:01,958
+Everything.
+
+66
+00:05:02,041 --> 00:05:03,458
+This was the best you could do?
+
+67
+00:05:05,375 --> 00:05:07,000
+[both sigh]
+
+68
+00:05:07,500 --> 00:05:08,500
+Sorry.
+
+69
+00:05:09,000 --> 00:05:10,541
+[Marshall] No, it's okay.
+
+70
+00:05:11,500 --> 00:05:13,541
+I thought I was done with this shit.
+
+71
+00:05:13,625 --> 00:05:14,666
+[Marshall] I know.
+
+72
+00:05:15,916 --> 00:05:17,666
+Never going to change, is it?
+
+73
+00:05:17,750 --> 00:05:18,833
+[sighs]
+
+74
+00:05:18,916 --> 00:05:21,000
+[sober music plays]
+
+75
+00:05:21,083 --> 00:05:23,041
+Thank you for taking me back.
+
+76
+00:05:23,125 --> 00:05:26,166
+For the record,
+I believed you from the start.
+
+77
+00:05:29,125 --> 00:05:30,791
+[downbeat music plays]
+
+78
+00:05:30,875 --> 00:05:32,583
+[Washington] We got you down here.
+
+79
+00:05:32,666 --> 00:05:34,916
+One of our guys nabbed your old room.
+
+80
+00:05:35,000 --> 00:05:36,375
+Sorry about that.
+
+81
+00:05:36,458 --> 00:05:38,708
+[mechanical humming]
+
+82
+00:05:40,166 --> 00:05:41,083
+[door creaks]
+
+83
+00:05:47,750 --> 00:05:48,666
+[sighs]
+
+84
+00:05:49,291 --> 00:05:51,000
+Oh, ma'am?
+
+85
+00:05:51,958 --> 00:05:53,000
+Just want to say
+
+86
+00:05:53,083 --> 00:05:56,250
+all of us girls
+are really proud of what you did.
+
+87
+00:05:57,250 --> 00:06:01,750
+What happened to you, well it's…
+
+88
+00:06:01,833 --> 00:06:03,875
+It's happened to a lot of us,
+
+89
+00:06:03,958 --> 00:06:06,708
+and I just wanted you to know that.
+
+90
+00:06:08,083 --> 00:06:08,958
+[exhales sharply]
+
+91
+00:06:13,750 --> 00:06:14,833
+[sighs]
+
+92
+00:06:14,916 --> 00:06:17,166
+[moody music plays]
+
+93
+00:06:19,208 --> 00:06:20,208
+[inhales sharply]
+
+94
+00:06:23,541 --> 00:06:25,583
+[ragged breathing]
+
+95
+00:06:31,875 --> 00:06:33,750
+[breathing heavily]
+
+96
+00:06:33,833 --> 00:06:36,708
+[tense music plays]
+
+97
+00:06:37,291 --> 00:06:40,708
+[breathing tensely]
+
+98
+00:06:42,958 --> 00:06:45,958
+[dramatic instrumental music plays]
+
+99
+00:06:52,250 --> 00:06:53,250
+[sighs]
+
+100
+00:07:10,000 --> 00:07:11,416
+[loud knocking]
+
+101
+00:07:13,875 --> 00:07:16,916
+I need you in the command center
+with your sidearm now.
+
+102
+00:07:17,000 --> 00:07:20,000
+[tense instrumental music plays]
+
+103
+00:07:30,541 --> 00:07:33,250
+We have an active shooter situation
+at Fort Greely.
+
+104
+00:07:33,333 --> 00:07:34,208
+Outsider?
+
+105
+00:07:34,291 --> 00:07:36,666
+No, one of ours. Looks like more than one.
+
+106
+00:07:37,375 --> 00:07:38,875
+[Collins] Interceptors secure?
+
+107
+00:07:38,958 --> 00:07:39,958
+[Marshall] Unknown.
+
+108
+00:07:41,541 --> 00:07:42,750
+[Collins] How bad is it?
+
+109
+00:07:43,333 --> 00:07:45,291
+Greely's gone dark. No calls in or out.
+
+110
+00:07:45,375 --> 00:07:47,666
+We're getting
+all our information off Twitter.
+
+111
+00:07:47,750 --> 00:07:48,708
+[beeping]
+
+112
+00:07:48,791 --> 00:07:51,458
+[music builds]
+
+113
+00:07:59,958 --> 00:08:01,958
+[Marshall] Do we have Fort Greely
+on the line?
+
+114
+00:08:02,041 --> 00:08:03,166
+[soldier] Not yet, sir.
+
+115
+00:08:04,083 --> 00:08:05,541
+[Marshall] You know what to do.
+
+116
+00:08:07,041 --> 00:08:08,416
+Is Greely being jammed?
+
+117
+00:08:08,500 --> 00:08:11,458
+No. It's like someone
+turned off the system at the source.
+
+118
+00:08:11,541 --> 00:08:13,875
+Corporal Rahul Shah.
+Joined us six months ago.
+
+119
+00:08:14,750 --> 00:08:15,708
+Captain.
+
+120
+00:08:15,791 --> 00:08:16,916
+Corporal.
+
+121
+00:08:17,666 --> 00:08:19,083
+And you remember Beaver.
+
+122
+00:08:19,625 --> 00:08:20,916
+Miss me, Captain?
+
+123
+00:08:22,750 --> 00:08:24,375
+Not even once.
+
+124
+00:08:24,458 --> 00:08:26,041
+[Marshall] How's our Russian friend?
+
+125
+00:08:26,541 --> 00:08:27,500
+[Beaver] He's back.
+
+126
+00:08:28,333 --> 00:08:31,500
+Forty miles out and just sitting there
+like a turd in a swimming pool.
+
+127
+00:08:31,583 --> 00:08:33,708
+- [Collins] What friend?
+- Russian attack sub.
+
+128
+00:08:33,791 --> 00:08:35,291
+Been nosing about for months.
+
+129
+00:08:35,375 --> 00:08:38,208
+Our subs keep chasing him away
+and he keeps coming back.
+
+130
+00:08:38,291 --> 00:08:40,166
+What the hell's going on up there?
+
+131
+00:08:43,583 --> 00:08:46,125
+Hey. We still on for tonight?
+
+132
+00:08:46,791 --> 00:08:47,875
+Dude, what?
+
+133
+00:08:47,958 --> 00:08:50,916
+Poker. I want to whip
+them janitors like last time.
+
+134
+00:08:51,000 --> 00:08:53,125
+- Not now, Beaver.
+- What's wrong with now?
+
+135
+00:08:53,208 --> 00:08:54,541
+We're in an emergency.
+
+136
+00:08:54,625 --> 00:08:56,708
+Man, this ain't no emergency.
+
+137
+00:08:56,791 --> 00:08:58,666
+It's one crackpot with a grudge.
+
+138
+00:09:00,875 --> 00:09:02,500
+I'd invite you, ma'am,
+
+139
+00:09:02,583 --> 00:09:05,083
+but there'll probably be
+a bit of locker room talk.
+
+140
+00:09:05,166 --> 00:09:06,291
+[smacks lips]
+
+141
+00:09:06,375 --> 00:09:07,333
+[snorts]
+
+142
+00:09:09,041 --> 00:09:12,375
+I've been practicing against
+some of the best players in the world
+
+143
+00:09:12,458 --> 00:09:13,791
+with this little green guy.
+
+144
+00:09:13,875 --> 00:09:16,666
+Thing's probably more
+powerful than this entire room.
+
+145
+00:09:16,750 --> 00:09:17,791
+[exhales forcefully]
+
+146
+00:09:17,875 --> 00:09:20,166
+Great story, Beaver.
+
+147
+00:09:20,250 --> 00:09:22,708
+In what chapter do you shut the fuck up?
+
+148
+00:09:24,125 --> 00:09:25,708
+Copy that, STRATCOM.
+
+149
+00:09:26,250 --> 00:09:29,958
+Sir, SBX-1 has just been assigned
+primary early warning status
+
+150
+00:09:30,041 --> 00:09:31,500
+while Greely's offline.
+
+151
+00:09:31,583 --> 00:09:34,791
+All right, as of this moment
+we're the only interceptor platform
+
+152
+00:09:34,875 --> 00:09:37,666
+protecting the United States
+from a nuclear missile attack.
+
+153
+00:09:37,750 --> 00:09:38,875
+Square your shit away.
+
+154
+00:09:38,958 --> 00:09:40,875
+Focus on the job
+you've been trained to do.
+
+155
+00:09:40,958 --> 00:09:44,125
+Sir, we sure this is not
+some kind of drill or emergency test...
+
+156
+00:09:44,208 --> 00:09:45,416
+Quiet.
+
+157
+00:09:46,125 --> 00:09:48,125
+NSA is relaying chatter from Russia.
+
+158
+00:09:48,208 --> 00:09:52,750
+Kremlin just received a priority alert
+from the ICBM missile base in Tavlinka.
+
+159
+00:09:52,833 --> 00:09:55,166
+Tavlinka site under hostile attack.
+
+160
+00:09:55,250 --> 00:09:56,791
+Multiple casualties.
+
+161
+00:09:57,958 --> 00:10:00,000
+Unauthorized missile removal.
+
+162
+00:10:01,500 --> 00:10:02,708
+No way.
+
+163
+00:10:02,791 --> 00:10:06,166
+Sixteen Topol-M mobile missiles
+unaccounted for.
+
+164
+00:10:06,250 --> 00:10:08,916
+You're saying someone stole 16 ICBMs?
+
+165
+00:10:09,000 --> 00:10:11,583
+I'm not saying it. The Russians are.
+
+166
+00:10:11,666 --> 00:10:12,875
+Sir, Greely goes dark
+
+167
+00:10:12,958 --> 00:10:15,708
+and within 10 minutes
+a Russian base reports stolen nukes?
+
+168
+00:10:15,791 --> 00:10:18,833
+Look, Greely's real,
+but this has to be a Russian exercise.
+
+169
+00:10:18,916 --> 00:10:21,791
+If it were real,
+the Pentagon would've called us by now.
+
+170
+00:10:21,875 --> 00:10:23,958
+[phone ringing]
+
+171
+00:10:24,833 --> 00:10:26,916
+[phone ringing]
+
+172
+00:10:27,583 --> 00:10:28,416
+[phone ringing]
+
+173
+00:10:29,208 --> 00:10:30,500
+SBX-1.
+
+174
+00:10:31,750 --> 00:10:32,750
+Yes, sir.
+
+175
+00:10:32,833 --> 00:10:34,291
+We are, sir.
+
+176
+00:10:34,375 --> 00:10:35,833
+[electronic beeping]
+
+177
+00:10:36,708 --> 00:10:38,041
+It just came in now, sir.
+
+178
+00:10:39,333 --> 00:10:40,458
+We will, sir.
+
+179
+00:10:44,666 --> 00:10:45,500
+[beeping]
+
+180
+00:10:45,583 --> 00:10:52,375
+[in Russian] <i>We have 16 missiles</i>
+<i>aimed at 16 American cities.</i>
+
+181
+00:10:53,666 --> 00:10:58,083
+<i>After this day,
+America will no longer exist.</i>
+
+182
+00:10:58,791 --> 00:10:59,833
+Jesus.
+
+183
+00:10:59,916 --> 00:11:01,458
+[tense music plays]
+
+184
+00:11:01,541 --> 00:11:03,541
+How do you steal nuclear missiles?
+
+185
+00:11:04,125 --> 00:11:06,750
+Had to have been an inside job.
+You can't just walk in...
+
+186
+00:11:06,833 --> 00:11:10,375
+Doesn't matter how they did it.
+What matters is those missiles are mobile.
+
+187
+00:11:10,458 --> 00:11:12,083
+They can hide their nukes anywhere.
+
+188
+00:11:12,166 --> 00:11:14,333
+Our satellites
+won't spot them till they launch.
+
+189
+00:11:14,416 --> 00:11:15,625
+Captain.
+
+190
+00:11:17,416 --> 00:11:18,291
+[door beeps]
+
+191
+00:11:22,000 --> 00:11:23,041
+[Marshall] JJ.
+
+192
+00:11:24,958 --> 00:11:26,708
+This is on us now, you understand?
+
+193
+00:11:26,791 --> 00:11:27,750
+[Collins] Yes, sir.
+
+194
+00:11:27,833 --> 00:11:30,583
+We're the only thing standing between
+America and Armageddon.
+
+195
+00:11:31,291 --> 00:11:32,375
+You up for this?
+
+196
+00:11:32,458 --> 00:11:33,958
+Don't worry about me, sir.
+
+197
+00:11:34,833 --> 00:11:37,291
+Sorry. Had to ask.
+
+198
+00:11:37,375 --> 00:11:39,083
+I'll start the emergency lockdown.
+
+199
+00:11:39,166 --> 00:11:40,125
+You do that.
+
+200
+00:11:40,666 --> 00:11:43,000
+I need to find Welsh
+and secure the HVAR codes.
+
+201
+00:11:43,083 --> 00:11:44,750
+[door beeps, opens]
+
+202
+00:11:44,875 --> 00:11:46,833
+Sir, wait
+
+203
+00:11:46,916 --> 00:11:47,875
+Sir.
+
+204
+00:11:48,958 --> 00:11:50,875
+If they had people inside Tavlinka,
+
+205
+00:11:50,958 --> 00:11:53,000
+and the shooters at Greely were all ours,
+
+206
+00:11:53,791 --> 00:11:57,250
+they might have someone… here.
+
+207
+00:11:58,791 --> 00:11:59,750
+Go.
+
+208
+00:12:01,000 --> 00:12:02,166
+[gunshot]
+
+209
+00:12:04,083 --> 00:12:05,125
+[bullets whizzing]
+
+210
+00:12:05,208 --> 00:12:09,375
+[machine gun fire]
+
+211
+00:12:09,458 --> 00:12:11,708
+[alarm blaring]
+
+212
+00:12:14,750 --> 00:12:15,833
+[bullets ricochet]
+
+213
+00:12:18,708 --> 00:12:19,666
+[man] The key card!
+
+214
+00:12:19,750 --> 00:12:21,291
+[bullets whizzing]
+
+215
+00:12:21,375 --> 00:12:23,125
+[man] The key card! Get the key card!
+
+216
+00:12:23,208 --> 00:12:25,291
+[gunshots]
+
+217
+00:12:25,375 --> 00:12:29,000
+[alarm blaring]
+
+218
+00:12:31,416 --> 00:12:32,375
+[gunshot]
+
+219
+00:12:32,458 --> 00:12:34,000
+[man grunts]
+
+220
+00:12:34,083 --> 00:12:35,416
+[tense music plays]
+
+221
+00:12:35,500 --> 00:12:36,375
+[grunts]
+
+222
+00:12:38,458 --> 00:12:39,625
+[man yelling]
+
+223
+00:12:41,083 --> 00:12:43,125
+[grunting]
+
+224
+00:12:44,625 --> 00:12:47,666
+[grunting]
+
+225
+00:12:51,000 --> 00:12:51,916
+[bullet ricochets]
+
+226
+00:12:53,458 --> 00:12:54,750
+[bullets whizzing]
+
+227
+00:12:56,666 --> 00:12:57,958
+[gunshot]
+
+228
+00:12:58,041 --> 00:12:59,625
+[grunting]
+
+229
+00:13:00,750 --> 00:13:01,583
+[gunshot]
+
+230
+00:13:02,125 --> 00:13:04,791
+[grunting]
+
+231
+00:13:05,750 --> 00:13:07,458
+[man screams]
+
+232
+00:13:07,541 --> 00:13:09,125
+[grunting]
+
+233
+00:13:10,166 --> 00:13:11,625
+[gasping]
+
+234
+00:13:11,708 --> 00:13:15,125
+Mikael! The door. Open the door!
+
+235
+00:13:17,666 --> 00:13:24,375
+[panting, grunting]
+
+236
+00:13:26,583 --> 00:13:28,416
+[grunting]
+
+237
+00:13:32,250 --> 00:13:33,958
+Goddammit, you're a big boy.
+
+238
+00:13:34,583 --> 00:13:39,125
+[grunting, panting]
+
+239
+00:13:39,208 --> 00:13:41,208
+[yelling, grunting]
+
+240
+00:13:41,291 --> 00:13:42,208
+[knocking]
+
+241
+00:13:42,291 --> 00:13:43,458
+[panting]
+
+242
+00:13:45,000 --> 00:13:47,458
+[grunting]
+
+243
+00:13:47,541 --> 00:13:48,916
+[groaning]
+
+244
+00:13:49,000 --> 00:13:50,083
+[panting]
+
+245
+00:13:53,958 --> 00:13:56,083
+[shots ringing]
+
+246
+00:13:56,166 --> 00:14:01,750
+[grunting, groaning]
+
+247
+00:14:01,833 --> 00:14:03,583
+[hissing]
+
+248
+00:14:03,666 --> 00:14:06,750
+[grunting]
+
+249
+00:14:06,833 --> 00:14:08,000
+[clicking]
+
+250
+00:14:08,083 --> 00:14:08,916
+[grunts]
+
+251
+00:14:11,708 --> 00:14:13,791
+[groaning weakly]
+
+252
+00:14:17,291 --> 00:14:19,625
+[alarm blaring]
+
+253
+00:14:23,833 --> 00:14:27,750
+[sizzling]
+
+254
+00:14:32,583 --> 00:14:34,875
+[panting, gasping]
+
+255
+00:14:36,500 --> 00:14:38,500
+[wincing, grunting]
+
+256
+00:14:38,583 --> 00:14:40,875
+[panting]
+
+257
+00:14:47,666 --> 00:14:49,458
+[Collins pants]
+
+258
+00:14:49,958 --> 00:14:52,416
+[sinister music plays]
+
+259
+00:14:55,041 --> 00:14:56,875
+[steam hissing]
+
+260
+00:15:02,625 --> 00:15:05,416
+[Collins pants]
+
+261
+00:15:15,958 --> 00:15:16,833
+[sizzling]
+
+262
+00:15:19,208 --> 00:15:20,416
+[alarm blaring]
+
+263
+00:15:20,500 --> 00:15:21,708
+Did you send the SOS?
+
+264
+00:15:21,791 --> 00:15:24,208
+Did you just stab that dude
+in the eye with your gun?
+
+265
+00:15:24,291 --> 00:15:25,708
+Yeah. Did you send the SOS?
+
+266
+00:15:25,791 --> 00:15:28,375
+Yeah, I sent it. They told me to stand by.
+
+267
+00:15:29,208 --> 00:15:30,166
+[alarm stops]
+
+268
+00:15:32,666 --> 00:15:33,750
+[Collins] How is Beaver?
+
+269
+00:15:34,333 --> 00:15:37,750
+Bullet clipped him.
+He's unconscious, but he'll be okay.
+
+270
+00:15:37,833 --> 00:15:40,333
+[steam hissing]
+
+271
+00:15:49,500 --> 00:15:51,125
+[loud hissing]
+
+272
+00:15:51,208 --> 00:15:52,625
+Is that acid?
+
+273
+00:15:55,416 --> 00:15:57,083
+[Shah] Why would they bring acid?
+
+274
+00:15:57,166 --> 00:15:58,833
+Destroy the circuitry.
+
+275
+00:16:00,458 --> 00:16:01,791
+Make this place useless.
+
+276
+00:16:02,708 --> 00:16:03,875
+What are we going to do?
+
+277
+00:16:03,958 --> 00:16:06,625
+[beeping]
+
+278
+00:16:10,750 --> 00:16:11,750
+[beeps]
+
+279
+00:16:21,416 --> 00:16:23,416
+[dramatic music plays]
+
+280
+00:16:23,500 --> 00:16:25,291
+You want to talk about it?
+
+281
+00:16:25,875 --> 00:16:27,750
+Leave now and you might escape
+with your life.
+
+282
+00:16:29,291 --> 00:16:30,500
+Let me in
+
+283
+00:16:31,166 --> 00:16:33,000
+and you might escape with yours.
+
+284
+00:16:36,833 --> 00:16:39,166
+You are the terrorists
+who stole the missiles from Tavlinka?
+
+285
+00:16:40,291 --> 00:16:43,458
+[man] <i>You know, it would be</i>
+<i>a hell of a coincidence if I wasn't.</i>
+
+286
+00:16:43,541 --> 00:16:44,625
+Put one on Beaver.
+
+287
+00:16:46,500 --> 00:16:48,000
+And the shooters at Greely?
+
+288
+00:16:48,083 --> 00:16:49,375
+Subcontractors.
+
+289
+00:16:50,500 --> 00:16:51,708
+It's a gig economy.
+
+290
+00:16:51,791 --> 00:16:54,875
+Can't work at a US base without
+an extensive background check.
+
+291
+00:16:54,958 --> 00:16:57,500
+You're telling me.
+The paperwork is a nightmare.
+
+292
+00:17:00,625 --> 00:17:02,625
+That would mean
+you've been planning this...
+
+293
+00:17:02,708 --> 00:17:04,666
+[man] For a very long time.
+
+294
+00:17:06,916 --> 00:17:08,833
+[Collins] How long is a very long time?
+
+295
+00:17:08,916 --> 00:17:09,750
+[gun cocks]
+
+296
+00:17:10,333 --> 00:17:11,416
+Six years.
+
+297
+00:17:14,750 --> 00:17:16,541
+Not going so well for you, is it?
+
+298
+00:17:18,208 --> 00:17:21,625
+No plan survives contact
+with the enemy completely intact.
+
+299
+00:17:21,708 --> 00:17:24,125
+Are we enemies? You sound American.
+
+300
+00:17:24,208 --> 00:17:25,291
+[man] <i>I am American.</i>
+
+301
+00:17:25,375 --> 00:17:27,666
+And whether or not you and I are enemies
+
+302
+00:17:27,750 --> 00:17:29,625
+is completely up to you.
+
+303
+00:17:29,708 --> 00:17:31,083
+What's your name?
+
+304
+00:17:31,708 --> 00:17:33,500
+My name is Alexander Kessel.
+
+305
+00:17:34,125 --> 00:17:35,916
+You say that like I should know it.
+
+306
+00:17:36,000 --> 00:17:39,875
+And now that you do,
+you will never forget it.
+
+307
+00:17:39,958 --> 00:17:42,125
+How about I just call you "asshole"?
+
+308
+00:17:42,208 --> 00:17:43,291
+[Kessel chuckles]
+
+309
+00:17:44,166 --> 00:17:48,166
+You know, usually it takes a woman
+a second date to reach that conclusion.
+
+310
+00:17:48,250 --> 00:17:50,041
+Nothing usual about me.
+
+311
+00:17:51,458 --> 00:17:53,416
+You know, I'm kind of getting that.
+
+312
+00:17:54,458 --> 00:17:55,541
+[footsteps]
+
+313
+00:17:55,625 --> 00:17:56,708
+[clanking]
+
+314
+00:18:02,041 --> 00:18:05,875
+So, Captain, seems as though
+you and I are at an impasse
+
+315
+00:18:06,666 --> 00:18:08,916
+because I need
+to disable your command center
+
+316
+00:18:09,000 --> 00:18:11,125
+so my people in Russia
+can fire those missiles.
+
+317
+00:18:12,083 --> 00:18:13,833
+And you need to keep me out.
+
+318
+00:18:13,916 --> 00:18:15,458
+But, full disclosure,
+
+319
+00:18:16,375 --> 00:18:19,125
+I have contained or killed
+everyone else on this vessel,
+
+320
+00:18:19,208 --> 00:18:21,041
+so I will be getting into that room.
+
+321
+00:18:21,125 --> 00:18:22,041
+[torch hisses]
+
+322
+00:18:22,125 --> 00:18:23,791
+Let me in now
+
+323
+00:18:23,875 --> 00:18:25,333
+and I will spare your lives.
+
+324
+00:18:25,875 --> 00:18:27,791
+And let millions of Americans die?
+
+325
+00:18:28,833 --> 00:18:31,500
+I don't think you realize
+why someone joins the Army.
+
+326
+00:18:35,291 --> 00:18:36,875
+[music builds]
+
+327
+00:18:36,958 --> 00:18:39,041
+You are alone in the middle of the ocean,
+
+328
+00:18:39,666 --> 00:18:41,291
+miles from any port,
+
+329
+00:18:41,375 --> 00:18:43,958
+way beyond the nearest shipping lane.
+
+330
+00:18:44,041 --> 00:18:47,291
+No one is going to be able
+to get here and save you
+
+331
+00:18:47,375 --> 00:18:49,208
+before I cut through these doors.
+
+332
+00:18:49,291 --> 00:18:50,208
+[beeps]
+
+333
+00:18:50,708 --> 00:18:53,250
+Hey, Shah, how many janitors are there?
+
+334
+00:18:53,333 --> 00:18:55,125
+I don't know. Six, seven?
+
+335
+00:18:55,208 --> 00:18:58,375
+- Which is it, six or seven?
+- [Shah] I don't know. I didn't hire them.
+
+336
+00:18:58,458 --> 00:19:02,291
+[tense instrumental music plays]
+
+337
+00:19:02,375 --> 00:19:03,208
+[beeps]
+
+338
+00:19:04,041 --> 00:19:05,208
+This is a big rig.
+
+339
+00:19:05,291 --> 00:19:07,416
+You couldn't have
+killed everyone so quickly.
+
+340
+00:19:07,500 --> 00:19:08,375
+[Kessel] Nerve agent.
+
+341
+00:19:09,958 --> 00:19:12,500
+Released it through the A/C.
+Put 'em all right to sleep.
+
+342
+00:19:13,083 --> 00:19:14,083
+[snorts] Bullshit.
+
+343
+00:19:14,166 --> 00:19:16,375
+If it makes any difference,
+they felt nothing.
+
+344
+00:19:16,875 --> 00:19:18,708
+We did have to shoot them to be sure.
+
+345
+00:19:19,208 --> 00:19:20,083
+[sighs]
+
+346
+00:19:25,166 --> 00:19:26,291
+[Kessel] <i>Don't worry.</i>
+
+347
+00:19:26,375 --> 00:19:28,875
+<i>The command center has its own A/C,
+and try as I might…</i>
+
+348
+00:19:28,958 --> 00:19:29,958
+You can't access it.
+
+349
+00:19:30,041 --> 00:19:33,125
+Would we be having this
+awesome little conversation if I could?
+
+350
+00:19:33,208 --> 00:19:34,875
+[torch hissing]
+
+351
+00:19:35,000 --> 00:19:39,333
+[beeping tone]
+
+352
+00:19:40,916 --> 00:19:41,750
+[beeps]
+
+353
+00:19:46,625 --> 00:19:47,458
+[beeps]
+
+354
+00:19:47,541 --> 00:19:49,916
+- SBX-1. This is Captain Collins.
+<i>- Is this real?</i>
+
+355
+00:19:50,000 --> 00:19:52,958
+<i>- General Dyson. Where's Colonel Marshall?</i>
+- [man] <i>Everyone quiet.</i>
+
+356
+00:19:53,041 --> 00:19:54,083
+He's dead, sir.
+
+357
+00:19:54,166 --> 00:19:55,791
+<i>Dead? What happened?</i>
+
+358
+00:19:55,875 --> 00:19:59,041
+Six to seven terrorists
+disguised as janitors seized our vessel.
+
+359
+00:19:59,916 --> 00:20:02,666
+They killed Marshall,
+they claim they have killed the crew,
+
+360
+00:20:02,750 --> 00:20:05,208
+- and tried to take the command center.
+- <i>Tried?</i>
+
+361
+00:20:05,291 --> 00:20:07,791
+- And failed.
+- [Dyson] <i>Who's there with you?</i>
+
+362
+00:20:09,416 --> 00:20:11,333
+Corporals Shah and Baker.
+
+363
+00:20:11,416 --> 00:20:13,666
+Baker's unconscious. Hit by a bullet.
+
+364
+00:20:13,750 --> 00:20:14,916
+<i>How secure are you?</i>
+
+365
+00:20:15,000 --> 00:20:17,791
+They're using blowtorches
+to cut through the outer door.
+
+366
+00:20:19,666 --> 00:20:20,958
+Best guess…
+
+367
+00:20:26,583 --> 00:20:27,916
+Sixty minutes.
+
+368
+00:20:31,291 --> 00:20:33,083
+Make that 30 minutes.
+
+369
+00:20:36,333 --> 00:20:38,750
+- [Dyson] <i>And the inner door?</i>
+- Same. I don't know.
+
+370
+00:20:38,833 --> 00:20:40,875
+<i>What can you tell us
+about these terrorists?</i>
+
+371
+00:20:40,958 --> 00:20:43,875
+American. Leader says
+his name is Alexander Kessel.
+
+372
+00:20:43,958 --> 00:20:47,708
+<i>Get me a full background check
+on this guy. What else?</i>
+
+373
+00:20:47,791 --> 00:20:49,708
+They move like they've been trained,
+
+374
+00:20:49,791 --> 00:20:51,291
+and they're using nerve agents.
+
+375
+00:20:51,375 --> 00:20:53,041
+What's happening at Greely?
+
+376
+00:20:53,125 --> 00:20:54,041
+<i>Shooters are dead.</i>
+
+377
+00:20:54,125 --> 00:20:57,125
+<i>Unfortunately, so are the computers
+that control the interceptors.</i>
+
+378
+00:20:57,208 --> 00:20:58,958
+<i>Burned them all with acid.</i>
+
+379
+00:20:59,708 --> 00:21:00,833
+So it's just us.
+
+380
+00:21:00,916 --> 00:21:02,083
+<i>Afraid so.</i>
+
+381
+00:21:02,666 --> 00:21:04,208
+<i>A SEAL team is inbound to you.</i>
+
+382
+00:21:04,291 --> 00:21:06,000
+<i>You have to hang on a little longer.</i>
+
+383
+00:21:06,083 --> 00:21:07,208
+- ETA?
+- <i>Ninety minutes.</i>
+
+384
+00:21:07,291 --> 00:21:08,625
+Are they joking?
+
+385
+00:21:08,708 --> 00:21:12,000
+<i>- No, we are not joking.</i>
+- [Collins] Madam President.
+
+386
+00:21:12,625 --> 00:21:15,541
+<i>The terrorists have
+16 mobile missile launchers</i>
+
+387
+00:21:15,625 --> 00:21:17,833
+<i>that we and the Russians cannot find.</i>
+
+388
+00:21:17,916 --> 00:21:20,041
+<i>Only reason they haven't launched them yet</i>
+
+389
+00:21:20,125 --> 00:21:23,291
+<i>is because you
+still have control of your interceptors.</i>
+
+390
+00:21:23,375 --> 00:21:25,000
+<i>The second you don't,</i>
+
+391
+00:21:25,083 --> 00:21:28,333
+<i>they will launch
+those missiles on the United States.</i>
+
+392
+00:21:28,416 --> 00:21:31,791
+<i>Now, we don't have time
+to evacuate 16 cities,</i>
+
+393
+00:21:31,875 --> 00:21:35,708
+<i>so we're counting on you
+to keep those maniacs out of that room.</i>
+
+394
+00:21:35,791 --> 00:21:37,708
+Understood, Madam President.
+
+395
+00:21:37,791 --> 00:21:40,458
+<i>We'll get back to you soon.
+Keep us updated.</i>
+
+396
+00:21:40,541 --> 00:21:41,500
+Yes, sir.
+
+397
+00:21:41,583 --> 00:21:44,333
+<i>Captain, hold that room.</i>
+
+398
+00:21:44,416 --> 00:21:45,916
+[soldier] Let's move out! Go!
+
+399
+00:21:46,000 --> 00:21:49,500
+[operator] <i>SEAL team, you are clear</i>
+<i>for immediate departure to SBX-1.</i>
+
+400
+00:21:49,583 --> 00:21:52,583
+[dramatic instrumental music plays]
+
+401
+00:21:57,083 --> 00:22:00,166
+Ninety minutes?
+There's no way we can last that long.
+
+402
+00:22:00,250 --> 00:22:01,583
+Not without a fight.
+
+403
+00:22:02,875 --> 00:22:04,958
+What? No. No, no.
+
+404
+00:22:05,041 --> 00:22:07,875
+I'm not a fighter.
+I'm a signal specialist.
+
+405
+00:22:07,958 --> 00:22:11,000
+I sit at a desk and stare at a screen,
+and know what? I like it.
+
+406
+00:22:11,083 --> 00:22:13,125
+Know why? Because nothing ever happens.
+
+407
+00:22:13,208 --> 00:22:15,333
+I mean, I haven't fired a gun since basic.
+
+408
+00:22:15,416 --> 00:22:17,666
+Don't worry. Guns still work the same.
+
+409
+00:22:17,750 --> 00:22:21,375
+Look, you can't count on me. You can't.
+
+410
+00:22:24,250 --> 00:22:27,666
+[beeping]
+
+411
+00:22:37,916 --> 00:22:38,750
+[beeps]
+
+412
+00:22:39,583 --> 00:22:40,958
+You surrender?
+
+413
+00:22:41,041 --> 00:22:42,291
+<i>Do you?</i>
+
+414
+00:22:43,500 --> 00:22:46,041
+Still quite enjoying fucking up your day.
+
+415
+00:22:47,250 --> 00:22:49,583
+Do you know anything
+about the fall of Rome?
+
+416
+00:22:50,541 --> 00:22:52,958
+When the barbarians
+massed outside the city gates
+
+417
+00:22:53,041 --> 00:22:57,208
+they did unspeakable things to
+try and force the Romans to let them in.
+
+418
+00:22:57,291 --> 00:22:59,500
+<i>Exitus act um pro bat.</i>
+
+419
+00:23:00,791 --> 00:23:03,041
+"The result justifies the deed."
+
+420
+00:23:03,125 --> 00:23:04,666
+[grim music plays]
+
+421
+00:23:04,750 --> 00:23:06,791
+[grunting, panting]
+
+422
+00:23:06,875 --> 00:23:08,250
+You remember Captain Welsh?
+
+423
+00:23:08,333 --> 00:23:10,750
+He's a father of four
+and a grandfather of seven.
+
+424
+00:23:10,833 --> 00:23:12,458
+[Collins]<i> This is not gonna work.</i>
+
+425
+00:23:12,541 --> 00:23:13,666
+Open the doors.
+
+426
+00:23:13,750 --> 00:23:15,875
+[grunting]
+
+427
+00:23:15,958 --> 00:23:17,125
+You can't let him die.
+
+428
+00:23:18,291 --> 00:23:19,583
+I will not open these doors.
+
+429
+00:23:19,666 --> 00:23:21,791
+If you don't, I will kill him.
+
+430
+00:23:21,875 --> 00:23:24,375
+I will not open these doors.
+
+431
+00:23:24,458 --> 00:23:26,041
+Last chance.
+
+432
+00:23:28,958 --> 00:23:30,625
+[breathes heavily]
+
+433
+00:23:31,333 --> 00:23:32,208
+No.
+
+434
+00:23:33,000 --> 00:23:34,000
+[gunshot]
+
+435
+00:23:48,125 --> 00:23:50,083
+Kill anyone you want.
+
+436
+00:23:50,625 --> 00:23:52,458
+I will never open this door.
+
+437
+00:24:10,291 --> 00:24:11,250
+[beeps]
+
+438
+00:24:11,958 --> 00:24:13,708
+We're going to die too, aren't we?
+
+439
+00:24:13,791 --> 00:24:15,083
+We are not gonna die.
+
+440
+00:24:15,166 --> 00:24:17,583
+They're gonna get in here.
+They're gonna kill us.
+
+441
+00:24:17,666 --> 00:24:19,958
+- Corporal.
+- There's nothing we can do to stop them!
+
+442
+00:24:20,041 --> 00:24:23,166
+Corporal Shah, they're not in here yet,
+
+443
+00:24:24,000 --> 00:24:27,250
+but if we're going to keep them out,
+I need you thinking clearly.
+
+444
+00:24:27,333 --> 00:24:28,500
+[Shah pants]
+
+445
+00:24:28,583 --> 00:24:30,583
+We still have a job to do, right?
+
+446
+00:24:30,666 --> 00:24:31,583
+Right.
+
+447
+00:24:32,083 --> 00:24:35,583
+So go back to your post
+and keep our scanners on Tavlinka.
+
+448
+00:24:35,666 --> 00:24:37,625
+[ragged breathing]
+
+449
+00:24:37,708 --> 00:24:38,958
+And if they launch?
+
+450
+00:24:39,041 --> 00:24:40,291
+We intercept.
+
+451
+00:24:51,708 --> 00:24:53,750
+[music crescendos]
+
+452
+00:24:55,083 --> 00:24:57,958
+[tense music plays]
+
+453
+00:24:58,041 --> 00:25:01,416
+We also need to figure out
+every way they can penetrate this room.
+
+454
+00:25:03,625 --> 00:25:06,041
+Tunnel's the only direct way, in or out.
+
+455
+00:25:06,583 --> 00:25:10,375
+What about indirect? Any new piping
+or conduits I should know about?
+
+456
+00:25:11,041 --> 00:25:13,250
+Plumbing comes through
+a conduit in the floor
+
+457
+00:25:13,333 --> 00:25:15,166
+too small for anyone to fit through.
+
+458
+00:25:15,250 --> 00:25:16,458
+Same for the cables.
+
+459
+00:25:16,958 --> 00:25:19,291
+What else could they do? Think.
+
+460
+00:25:19,875 --> 00:25:21,375
+What about blowing the radar dome?
+
+461
+00:25:22,500 --> 00:25:24,833
+Dome's reinforced
+even stronger than we are.
+
+462
+00:25:24,916 --> 00:25:26,583
+Same with the interceptors.
+
+463
+00:25:27,916 --> 00:25:30,458
+Get me eyes outside the hatches,
+top and bottom.
+
+464
+00:25:35,000 --> 00:25:37,041
+[rapid gunfire]
+
+465
+00:25:37,125 --> 00:25:38,250
+[intense music playing]
+
+466
+00:25:38,333 --> 00:25:39,375
+[grunts]
+
+467
+00:25:39,958 --> 00:25:42,666
+[grunting]
+
+468
+00:25:43,125 --> 00:25:44,291
+[gunshot]
+
+469
+00:25:44,958 --> 00:25:48,333
+[grunting, panting]
+
+470
+00:25:48,916 --> 00:25:50,583
+[grunts]
+
+471
+00:25:50,666 --> 00:25:52,166
+[panting]
+
+472
+00:25:52,250 --> 00:25:53,208
+[exhales sharply]
+
+473
+00:25:53,791 --> 00:25:59,791
+[grunting]
+
+474
+00:26:01,083 --> 00:26:02,000
+Get the shotgun.
+
+475
+00:26:04,500 --> 00:26:05,416
+[music builds]
+
+476
+00:26:05,500 --> 00:26:10,000
+[grunting]
+
+477
+00:26:11,416 --> 00:26:15,583
+[panting, grunting]
+
+478
+00:26:18,875 --> 00:26:19,916
+Shoot him!
+
+479
+00:26:20,625 --> 00:26:21,958
+Shoot him now!
+
+480
+00:26:22,041 --> 00:26:22,916
+[grunting, yelling]
+
+481
+00:26:23,000 --> 00:26:23,875
+[grunts]
+
+482
+00:26:25,666 --> 00:26:26,541
+[groaning]
+
+483
+00:26:36,750 --> 00:26:37,708
+[gunshot]
+
+484
+00:26:38,291 --> 00:26:39,166
+[grunts]
+
+485
+00:26:39,250 --> 00:26:43,000
+[ragged breathing]
+
+486
+00:26:45,708 --> 00:26:47,583
+[panting]
+
+487
+00:26:49,541 --> 00:26:50,791
+[breathing heavily]
+
+488
+00:27:00,458 --> 00:27:02,250
+Looks like it was just the one.
+
+489
+00:27:04,625 --> 00:27:07,166
+When was the last time
+this thing was test fired?
+
+490
+00:27:07,250 --> 00:27:09,000
+I don't know. Can it still work?
+
+491
+00:27:09,500 --> 00:27:11,375
+Not without blowing up in your face.
+
+492
+00:27:11,458 --> 00:27:13,666
+- What about your pistol?
+- Out.
+
+493
+00:27:15,125 --> 00:27:16,833
+[sighs] So we have no weapons.
+
+494
+00:27:17,583 --> 00:27:18,625
+[sighs]
+
+495
+00:27:22,291 --> 00:27:23,208
+[sniffles]
+
+496
+00:27:25,041 --> 00:27:25,875
+Help me.
+
+497
+00:27:28,041 --> 00:27:29,125
+[labored breathing]
+
+498
+00:27:29,208 --> 00:27:31,041
+[Shah] Thanks for saving Turbo.
+
+499
+00:27:31,125 --> 00:27:32,375
+[Collins] Who?
+
+500
+00:27:32,458 --> 00:27:35,625
+Turbo, the turtle. My kids gave him to me.
+
+501
+00:27:36,166 --> 00:27:37,500
+How many kids you got?
+
+502
+00:27:38,166 --> 00:27:44,583
+Prisha, she's nine. Aditi, seven.
+And Kalyan, he's three.
+
+503
+00:27:47,458 --> 00:27:49,208
+I haven't seen them for six months.
+
+504
+00:27:50,625 --> 00:27:52,250
+[grunting]
+
+505
+00:27:56,500 --> 00:27:58,666
+[grim music plays]
+
+506
+00:27:58,750 --> 00:28:02,916
+Best thing you can do for them now
+is help me stop those missiles.
+
+507
+00:28:28,416 --> 00:28:30,416
+[winds howling]
+
+508
+00:28:34,000 --> 00:28:35,125
+Anything?
+
+509
+00:28:35,791 --> 00:28:37,041
+[Shah] They got everyone.
+
+510
+00:28:37,125 --> 00:28:39,750
+[intercom beeping]
+
+511
+00:28:43,041 --> 00:28:45,541
+He's just going
+to keep buzzing till you answer.
+
+512
+00:28:47,333 --> 00:28:48,833
+[Shah] What do you want now?
+
+513
+00:28:53,583 --> 00:28:56,000
+Captain, you should see this.
+
+514
+00:29:07,083 --> 00:29:09,625
+Think you're the first one
+to throw that in my face?
+
+515
+00:29:09,708 --> 00:29:11,333
+<i>Think you're gonna break me?</i>
+
+516
+00:29:11,833 --> 00:29:12,791
+No.
+
+517
+00:29:13,291 --> 00:29:14,375
+And yes.
+
+518
+00:29:15,125 --> 00:29:18,500
+- [Collins] <i>It's gonna take more than that.</i>
+- I've got more coming.
+
+519
+00:29:18,583 --> 00:29:19,458
+<i>No, you don't.</i>
+
+520
+00:29:19,541 --> 00:29:21,041
+You're scrambling.
+
+521
+00:29:21,125 --> 00:29:23,000
+- [Kessel] <i>Am I?</i>
+- Desperately.
+
+522
+00:29:23,083 --> 00:29:24,333
+How so?
+
+523
+00:29:24,416 --> 00:29:25,750
+You're a planner.
+
+524
+00:29:26,833 --> 00:29:28,291
+Six years, you said.
+
+525
+00:29:28,958 --> 00:29:33,291
+Looking for ways to beat the security,
+getting your people aboard,
+
+526
+00:29:33,375 --> 00:29:36,208
+you must have gone over and over
+these things
+
+527
+00:29:36,291 --> 00:29:40,375
+until you were absolutely sure
+you planned for every possible outcome,
+
+528
+00:29:42,041 --> 00:29:43,666
+but you couldn't plan for me.
+
+529
+00:29:46,541 --> 00:29:48,041
+You know how I know?
+
+530
+00:29:49,875 --> 00:29:53,250
+Because I'm meant to be
+in Fort Hunter right now on my new post.
+
+531
+00:29:53,333 --> 00:29:56,875
+Only fell through late last night
+when they reassigned me here.
+
+532
+00:29:57,375 --> 00:29:58,708
+And now…
+
+533
+00:29:59,916 --> 00:30:00,750
+[snorts]
+
+534
+00:30:06,208 --> 00:30:07,791
+Now you can't beat me.
+
+535
+00:30:10,833 --> 00:30:12,541
+<i>I'll give you "unexpected."</i>
+
+536
+00:30:14,458 --> 00:30:15,916
+<i>But not unbeatable.</i>
+
+537
+00:30:17,166 --> 00:30:18,458
+<i>See, here's what I know.</i>
+
+538
+00:30:18,958 --> 00:30:22,875
+<i>I know that three years ago,
+you scored your dream job.</i>
+
+539
+00:30:22,958 --> 00:30:26,333
+<i>Pentagon, three-star General.</i>
+
+540
+00:30:26,416 --> 00:30:28,833
+<i>A battlefield hero, his troops loved him.</i>
+
+541
+00:30:29,791 --> 00:30:32,125
+<i>They were going to
+build a statue to the guy.</i>
+
+542
+00:30:32,750 --> 00:30:35,541
+<i>And he promised to take you
+all the way to the top,</i>
+
+543
+00:30:37,708 --> 00:30:39,916
+<i>but then you learned
+the price you'd have to pay.</i>
+
+544
+00:30:40,000 --> 00:30:42,833
+[dramatic music plays]
+
+545
+00:30:42,916 --> 00:30:46,833
+I know the Army review board
+just decided you made it all up.
+
+546
+00:30:47,458 --> 00:30:49,958
+<i>Threw you right back into the lion's den.</i>
+
+547
+00:30:53,000 --> 00:30:55,958
+<i>I know that three-star
+welcomed you with open arms.</i>
+
+548
+00:30:59,333 --> 00:31:04,125
+<i>Because predators always want
+to show you exactly who's in charge.</i>
+
+549
+00:31:13,500 --> 00:31:14,583
+[exhales sharply]
+
+550
+00:31:15,666 --> 00:31:18,333
+[panting]
+
+551
+00:31:18,416 --> 00:31:19,916
+[music swells]
+
+552
+00:31:28,333 --> 00:31:29,583
+[sighs]
+
+553
+00:31:31,041 --> 00:31:33,291
+Wait, that general got discharged.
+
+554
+00:31:33,375 --> 00:31:36,166
+Which means you beat him. You won.
+
+555
+00:31:36,250 --> 00:31:39,250
+She won the battle, not the war.
+
+556
+00:31:41,083 --> 00:31:42,541
+<i>See, first came the hate mail.</i>
+
+557
+00:31:46,083 --> 00:31:48,541
+<i>The bounty hunt for these lewd photos…</i>
+
+558
+00:31:51,541 --> 00:31:52,375
+[gasps]
+
+559
+00:31:52,458 --> 00:31:54,416
+<i>…then the death threats.</i>
+
+560
+00:31:54,500 --> 00:31:55,416
+[breathes sharply]
+
+561
+00:31:55,500 --> 00:31:59,750
+[Kessel] All from within the army
+that you so proudly served.
+
+562
+00:32:00,416 --> 00:32:01,916
+Then finally…
+
+563
+00:32:03,958 --> 00:32:04,833
+That night.
+
+564
+00:32:10,083 --> 00:32:11,333
+[music crescendos]
+
+565
+00:32:27,041 --> 00:32:29,166
+[gasping]
+
+566
+00:32:38,750 --> 00:32:43,750
+[somber instrumental music plays]
+
+567
+00:32:56,291 --> 00:32:58,666
+[man] JJ! JJ!
+
+568
+00:33:06,708 --> 00:33:08,416
+JJ, come on!
+
+569
+00:33:09,208 --> 00:33:11,625
+Come on, wake up. JJ!
+
+570
+00:33:12,208 --> 00:33:15,000
+Come on. Wake up. Come back.
+
+571
+00:33:15,083 --> 00:33:16,000
+Papa?
+
+572
+00:33:16,083 --> 00:33:19,458
+It's okay, it's okay. Papa's here.
+It's okay. I got you.
+
+573
+00:33:19,541 --> 00:33:21,416
+Papa… sorry.
+
+574
+00:33:31,208 --> 00:33:33,833
+[suspenseful music playing]
+
+575
+00:33:36,208 --> 00:33:37,958
+You are beatable, Captain.
+
+576
+00:33:39,750 --> 00:33:41,041
+It's been proven.
+
+577
+00:33:44,750 --> 00:33:46,291
+If you are so right,
+
+578
+00:33:47,416 --> 00:33:49,125
+then what am I doing here?
+
+579
+00:33:50,041 --> 00:33:51,916
+Why do I still wear the uniform?
+
+580
+00:33:54,625 --> 00:33:56,666
+War's not over yet, motherfucker.
+
+581
+00:33:58,083 --> 00:33:59,916
+You should be working with me.
+
+582
+00:34:01,125 --> 00:34:03,291
+In fact,
+I will give you 30 million dollars
+
+583
+00:34:03,375 --> 00:34:04,625
+if you open these doors.
+
+584
+00:34:04,708 --> 00:34:07,750
+I will have you flown
+to the country of your choosing
+
+585
+00:34:07,833 --> 00:34:10,500
+where you can live
+the rest of your life in luxury.
+
+586
+00:34:11,083 --> 00:34:15,083
+If anyone has earned the right
+to walk away from this, it's you.
+
+587
+00:34:16,291 --> 00:34:19,458
+Thirty million dollars.
+
+588
+00:34:19,541 --> 00:34:21,375
+What did the Army ever give you?
+
+589
+00:34:21,458 --> 00:34:23,666
+Your depressing old job
+in the middle of nowhere,
+
+590
+00:34:23,750 --> 00:34:25,291
+where they can forget about you?
+
+591
+00:34:25,375 --> 00:34:27,041
+They don't care about you.
+
+592
+00:34:28,875 --> 00:34:30,458
+Open these doors.
+
+593
+00:34:31,666 --> 00:34:33,500
+Take back your power.
+
+594
+00:34:35,791 --> 00:34:37,000
+That's how you win a war.
+
+595
+00:34:44,375 --> 00:34:48,416
+[pilot] <i>SEAL team is inbound to SBX-1.</i>
+<i>ETA 67 minutes.</i>
+
+596
+00:34:48,500 --> 00:34:52,500
+[blowtorch hissing]
+
+597
+00:34:57,958 --> 00:34:59,541
+[Collins] They're in.
+
+598
+00:34:59,625 --> 00:35:01,666
+[tense music builds]
+
+599
+00:35:16,541 --> 00:35:17,375
+[beeps]
+
+600
+00:35:18,916 --> 00:35:22,333
+Open the door
+and you leave here a wealthy woman.
+
+601
+00:35:24,291 --> 00:35:27,083
+We still have time
+before you cut through this door.
+
+602
+00:35:27,666 --> 00:35:29,375
+- You really don't.
+- [gun cocks]
+
+603
+00:35:34,875 --> 00:35:36,250
+- [Collins] Beaver.
+- [Shah] What?
+
+604
+00:35:36,333 --> 00:35:37,375
+[grunts]
+
+605
+00:35:37,458 --> 00:35:38,291
+[groans]
+
+606
+00:35:38,375 --> 00:35:42,333
+[gasping, wincing]
+
+607
+00:35:43,583 --> 00:35:44,541
+[exhaling]
+
+608
+00:35:46,125 --> 00:35:47,083
+[beeping]
+
+609
+00:35:47,166 --> 00:35:49,375
+[music crescendos]
+
+610
+00:35:49,958 --> 00:35:51,291
+[Collins] Nice, Beaver.
+
+611
+00:35:51,375 --> 00:35:54,875
+[sinister music plays]
+
+612
+00:36:00,375 --> 00:36:02,958
+Initiating satellite relay and EBS hack.
+
+613
+00:36:03,041 --> 00:36:04,125
+[chiming]
+
+614
+00:36:08,750 --> 00:36:10,000
+We're in.
+
+615
+00:36:10,875 --> 00:36:12,416
+No, I have a new one.
+
+616
+00:36:12,500 --> 00:36:17,791
+ZSB, Zulu Sierra Bravo, 1-9-9-6.
+
+617
+00:36:18,416 --> 00:36:20,125
+And tell Danny to move in.
+
+618
+00:36:27,708 --> 00:36:29,958
+[ragged breathing]
+
+619
+00:36:30,041 --> 00:36:32,375
+[wincing]
+
+620
+00:36:32,458 --> 00:36:33,666
+Are you hurt?
+
+621
+00:36:35,791 --> 00:36:36,791
+[gasps]
+
+622
+00:36:36,875 --> 00:36:38,250
+I've had worse.
+
+623
+00:36:38,333 --> 00:36:41,125
+[somber music plays]
+
+624
+00:36:41,208 --> 00:36:43,166
+It really didn't have to be this way.
+
+625
+00:36:43,250 --> 00:36:44,250
+[Collins winces]
+
+626
+00:36:44,333 --> 00:36:47,583
+If Corporal Baker doesn't get hit,
+we avoid all of this.
+
+627
+00:36:47,666 --> 00:36:50,000
+If you're gonna kill me, just kill me.
+
+628
+00:36:50,958 --> 00:36:52,625
+No mansplaining.
+
+629
+00:36:53,208 --> 00:36:54,708
+I gave you choices.
+
+630
+00:36:55,666 --> 00:36:57,625
+It was your decision to become enemies.
+
+631
+00:37:00,125 --> 00:37:02,250
+[grunting]
+
+632
+00:37:02,333 --> 00:37:04,375
+You were with them this whole time?
+
+633
+00:37:04,458 --> 00:37:05,541
+Yeah.
+
+634
+00:37:05,625 --> 00:37:07,375
+[Shah grunts] Traitor.
+
+635
+00:37:08,208 --> 00:37:09,708
+America's the traitor.
+
+636
+00:37:09,791 --> 00:37:10,750
+[grunting]
+
+637
+00:37:10,833 --> 00:37:12,833
+[Collins] Always were full of shit,
+Beaver.
+
+638
+00:37:12,916 --> 00:37:14,750
+[Beaver] Ah, what do you know?
+
+639
+00:37:14,833 --> 00:37:16,833
+I love my country.
+
+640
+00:37:16,916 --> 00:37:20,000
+Hell, there was a time
+I would have even died for it. [sniffs]
+
+641
+00:37:20,083 --> 00:37:21,500
+Never too late.
+
+642
+00:37:22,916 --> 00:37:23,958
+Shut up.
+
+643
+00:37:25,708 --> 00:37:27,875
+It's because of immigrants like you
+
+644
+00:37:27,958 --> 00:37:29,291
+and like you
+
+645
+00:37:29,375 --> 00:37:30,708
+that I lost my job
+
+646
+00:37:30,791 --> 00:37:32,208
+and the government
+
+647
+00:37:33,750 --> 00:37:34,916
+took away my rights,
+
+648
+00:37:36,416 --> 00:37:40,041
+started making up
+all kinds of shit to scare me.
+
+649
+00:37:41,208 --> 00:37:42,291
+[Beaver] Shit.
+
+650
+00:37:43,750 --> 00:37:46,250
+I don't even recognize America these days.
+
+651
+00:37:46,333 --> 00:37:49,625
+And that gives you the right
+to murder millions of people?
+
+652
+00:37:49,708 --> 00:37:52,708
+Well, it gives me the right
+to start looking out for myself.
+
+653
+00:37:53,958 --> 00:37:56,416
+And now I got ten million ways to do that.
+
+654
+00:37:56,500 --> 00:37:58,458
+Money? That's what this is about?
+
+655
+00:37:58,958 --> 00:38:00,625
+[Beaver] Uh, yeah.
+
+656
+00:38:00,708 --> 00:38:02,375
+It's what America's about.
+
+657
+00:38:03,166 --> 00:38:04,958
+And if you don't get that,
+
+658
+00:38:05,458 --> 00:38:08,291
+you obviously haven't been
+paying attention, Shah.
+
+659
+00:38:08,375 --> 00:38:09,416
+Wake up, man.
+
+660
+00:38:09,500 --> 00:38:13,250
+Yeah, sure. Sure. Blame America.
+Blame the government.
+
+661
+00:38:13,333 --> 00:38:15,291
+Blame everyone else but you.
+
+662
+00:38:15,791 --> 00:38:17,416
+That's what all losers do.
+
+663
+00:38:20,250 --> 00:38:21,416
+[exhales tensely]
+
+664
+00:38:22,541 --> 00:38:26,125
+[clicking his tongue]
+
+665
+00:38:26,625 --> 00:38:28,666
+You just keep on talking, darlin'.
+
+666
+00:38:29,916 --> 00:38:30,750
+[lip smacks]
+
+667
+00:38:31,250 --> 00:38:33,375
+Because before this is all over,
+
+668
+00:38:33,458 --> 00:38:34,958
+I'm gonna do to you
+
+669
+00:38:35,041 --> 00:38:38,875
+what every enlisted grunt
+secretly wants to do
+
+670
+00:38:38,958 --> 00:38:41,125
+to every female officer.
+
+671
+00:38:41,208 --> 00:38:43,583
+[eerie music plays]
+
+672
+00:38:43,666 --> 00:38:45,958
+The only way you can get it, isn't it?
+
+673
+00:38:46,041 --> 00:38:50,041
+[Beaver chuckles, snorts]
+
+674
+00:38:50,125 --> 00:38:51,625
+Hey. Another thing.
+
+675
+00:38:52,541 --> 00:38:55,750
+Never call a woman
+by anything other than her name.
+
+676
+00:38:56,333 --> 00:39:01,250
+Not honey, or honey pie,
+or sugar, or sugar pie,
+
+677
+00:39:01,333 --> 00:39:03,416
+or sweetie, or sweetie pie.
+
+678
+00:39:03,500 --> 00:39:07,500
+Not baby, sweetheart, ho, bitch,
+
+679
+00:39:08,000 --> 00:39:13,250
+and above all,
+most of all, beyond all else,
+
+680
+00:39:13,333 --> 00:39:15,125
+don't ever,
+
+681
+00:39:15,750 --> 00:39:16,666
+ever,
+
+682
+00:39:17,458 --> 00:39:18,958
+call her "darlin'."
+
+683
+00:39:20,541 --> 00:39:21,416
+[Collins grunts]
+
+684
+00:39:21,500 --> 00:39:24,500
+[Beaver groans, gasps]
+
+685
+00:39:24,583 --> 00:39:25,750
+Shit.
+
+686
+00:39:26,333 --> 00:39:27,416
+[growling]
+
+687
+00:39:28,291 --> 00:39:30,625
+Satellite relay's live on the EBS.
+
+688
+00:39:30,708 --> 00:39:32,208
+The Emergency Broadcast System?
+
+689
+00:39:32,291 --> 00:39:34,666
+Yeah, so that every camera on this rig
+
+690
+00:39:34,750 --> 00:39:38,125
+can be broadcast to any device
+that has smart capabilities.
+
+691
+00:39:39,541 --> 00:39:41,750
+Wouldn't want anyone missing the show.
+
+692
+00:39:42,541 --> 00:39:44,708
+[beeping tone]
+
+693
+00:39:46,041 --> 00:39:48,500
+<i>Mr. Kessel. Where's Captain Collins?</i>
+
+694
+00:39:49,208 --> 00:39:51,083
+She's here. She's unharmed.
+
+695
+00:39:51,166 --> 00:39:53,333
+Well… relatively.
+
+696
+00:39:54,083 --> 00:39:55,750
+As is Corporal Shah.
+
+697
+00:39:55,833 --> 00:39:57,250
+[Dyson] <i>And Corporal Baker?</i>
+
+698
+00:39:58,791 --> 00:40:00,000
+Howdy, General.
+
+699
+00:40:00,083 --> 00:40:01,625
+[Dyson] <i>You two are servicemen.</i>
+
+700
+00:40:01,708 --> 00:40:03,000
+<i>You took an oath.</i>
+
+701
+00:40:03,083 --> 00:40:04,833
+<i>How could you betray your country?</i>
+
+702
+00:40:04,916 --> 00:40:08,375
+I swore an oath to the old America.
+Not this one.
+
+703
+00:40:08,458 --> 00:40:10,583
+[Dyson] <i>What do you want?</i>
+
+704
+00:40:12,208 --> 00:40:13,125
+[Kessel] From you?
+
+705
+00:40:15,541 --> 00:40:16,416
+Nothing.
+
+706
+00:40:17,250 --> 00:40:19,833
+I'm just waiting for America
+to join our little chat here.
+
+707
+00:40:21,041 --> 00:40:24,166
+Dad's proud. That must be nice.
+
+708
+00:40:27,333 --> 00:40:28,500
+[beeping]
+
+709
+00:40:28,583 --> 00:40:30,750
+[emergency broadcast tones]
+
+710
+00:40:30,833 --> 00:40:33,291
+EBS has slaved all signals.
+
+711
+00:40:33,375 --> 00:40:35,333
+Say hello to America, boss.
+
+712
+00:40:35,416 --> 00:40:37,791
+[emergency broadcast tone]
+
+713
+00:40:42,166 --> 00:40:46,958
+[emergency broadcast tone]
+
+714
+00:40:55,083 --> 00:40:59,458
+So you know it's got a big screen,
+great picture quality, you know,
+
+715
+00:40:59,541 --> 00:41:00,750
+the sound's kind of meh,
+
+716
+00:41:00,833 --> 00:41:03,125
+but I don't really listen
+to the TV that much.
+
+717
+00:41:03,208 --> 00:41:05,875
+I play music when I watch and stuff
+so it doesn't really…
+
+718
+00:41:05,958 --> 00:41:07,291
+Why'd it go black and white?
+
+719
+00:41:07,375 --> 00:41:08,708
+Where's the President?
+
+720
+00:41:08,791 --> 00:41:09,708
+<i>I'm here.</i>
+
+721
+00:41:10,333 --> 00:41:12,291
+<i>If you launch even one of those missiles,</i>
+
+722
+00:41:12,375 --> 00:41:15,583
+{\an8}<i>I swear before God
+that we will hunt you down</i>
+
+723
+00:41:15,666 --> 00:41:17,500
+{\an8}<i>and wipe you from existence.</i>
+
+724
+00:41:17,583 --> 00:41:20,625
+<i>That's enough. You're boring me.</i>
+
+725
+00:41:21,375 --> 00:41:23,125
+<i>I'm taking your bully pulpit now.</i>
+
+726
+00:41:23,708 --> 00:41:24,875
+[beeps]
+
+727
+00:41:25,833 --> 00:41:27,416
+My fellow Americans,
+
+728
+00:41:28,708 --> 00:41:31,750
+I am Alexander Kessel,
+
+729
+00:41:32,958 --> 00:41:36,500
+son of trust fund billionaire,
+Alexander Kessel Senior,
+
+730
+00:41:36,583 --> 00:41:38,541
+who you may also know
+
+731
+00:41:39,333 --> 00:41:46,208
+is the current utterly unqualified
+US ambassador to the United Nations.
+
+732
+00:41:46,291 --> 00:41:48,166
+[tense music builds]
+
+733
+00:41:48,250 --> 00:41:53,125
+Now, my associates in Russia
+control 16 nuclear missiles,
+
+734
+00:41:53,208 --> 00:41:56,666
+<i>and I control
+the only interceptor missiles</i>
+
+735
+00:41:56,750 --> 00:41:58,791
+<i>that are capable of stopping them.</i>
+
+736
+00:41:58,875 --> 00:42:01,791
+Sixteen American cities
+have been targeted.
+
+737
+00:42:03,541 --> 00:42:06,791
+300 million of you will die.
+
+738
+00:42:07,666 --> 00:42:11,000
+One city will be destroyed first
+
+739
+00:42:11,666 --> 00:42:14,500
+so that the rest of you
+can watch in horror.
+
+740
+00:42:15,958 --> 00:42:17,375
+Missile team one…
+
+741
+00:42:18,833 --> 00:42:19,750
+Fire.
+
+742
+00:42:25,791 --> 00:42:29,291
+[computer voice]<i> Missile launch detected.</i>
+<i>Missile launch detected.</i>
+
+743
+00:42:29,375 --> 00:42:30,625
+<i>Missile launch detected.</i>
+
+744
+00:42:30,708 --> 00:42:34,458
+{\an8}<i>Intercept launch expires in 12 minutes.</i>
+
+745
+00:42:34,541 --> 00:42:37,791
+[Kessel] Now in 12 minutes,
+that missile I just launched,
+
+746
+00:42:37,875 --> 00:42:39,666
+will pass over my head,
+
+747
+00:42:39,750 --> 00:42:43,708
+at which point, it will be too late
+for this interceptor to catch it.
+
+748
+00:42:45,833 --> 00:42:47,875
+But which city has been chosen?
+
+749
+00:42:50,166 --> 00:42:51,250
+Is it yours?
+
+750
+00:42:52,250 --> 00:42:55,666
+Wherever it lands, there's no time to run.
+
+751
+00:42:56,291 --> 00:42:57,583
+You can't flee.
+
+752
+00:42:59,791 --> 00:43:01,708
+If you guessed Los Angeles,
+
+753
+00:43:03,083 --> 00:43:04,291
+congratulations.
+
+754
+00:43:05,166 --> 00:43:07,875
+<i>The City of Angels
+has 23 minutes left to live.</i>
+
+755
+00:43:07,958 --> 00:43:08,916
+[panicked chatter]
+
+756
+00:43:09,000 --> 00:43:09,833
+Wait a second.
+
+757
+00:43:09,916 --> 00:43:11,875
+<i>Once Los Angeles is gone,</i>
+
+758
+00:43:11,958 --> 00:43:14,916
+<i>And the fear of every American
+is at its peak…</i>
+
+759
+00:43:15,000 --> 00:43:16,291
+We're not closing yet.
+
+760
+00:43:16,375 --> 00:43:18,416
+<i>…I will launch a second wave</i>
+
+761
+00:43:18,500 --> 00:43:20,208
+of 15 nuclear missiles.
+
+762
+00:43:20,291 --> 00:43:22,875
+San Francisco, Seattle, Las Vegas,
+
+763
+00:43:22,958 --> 00:43:28,625
+Cincinnati, Dallas, Denver, Memphis,
+Chicago, St. Louis, Atlanta, Boston,
+
+764
+00:43:28,708 --> 00:43:30,833
+Philadelphia, Miami, New York.
+
+765
+00:43:32,458 --> 00:43:35,666
+And of course, Washington DC.
+
+766
+00:43:36,166 --> 00:43:38,833
+[tense music builds]
+
+767
+00:43:38,916 --> 00:43:39,916
+Today…
+
+768
+00:43:41,916 --> 00:43:43,333
+America dies
+
+769
+00:43:44,333 --> 00:43:45,958
+in a paroxysm of fear.
+
+770
+00:43:56,250 --> 00:43:58,500
+<i>America is the greatest lie ever told.</i>
+
+771
+00:43:59,625 --> 00:44:00,958
+<i>American exceptionalism?</i>
+
+772
+00:44:01,041 --> 00:44:01,958
+Maybe once.
+
+773
+00:44:03,583 --> 00:44:05,541
+When the founders got rid of kings.
+
+774
+00:44:07,166 --> 00:44:09,500
+When they declared
+that all men are created equal.
+
+775
+00:44:09,583 --> 00:44:12,541
+Now they say ours are United States,
+but when was that true?
+
+776
+00:44:12,625 --> 00:44:14,458
+<i>Was it true during the Civil War?</i>
+
+777
+00:44:15,083 --> 00:44:16,416
+<i>Or Jim Crow?</i>
+
+778
+00:44:16,500 --> 00:44:18,041
+Hell, is it true now?
+
+779
+00:44:19,375 --> 00:44:20,958
+You know, this national lie,
+
+780
+00:44:22,000 --> 00:44:23,166
+it's a festering wound,
+
+781
+00:44:24,541 --> 00:44:25,791
+and it's fatal.
+
+782
+00:44:26,541 --> 00:44:28,250
+There's no Band-Aid to patch it.
+
+783
+00:44:29,000 --> 00:44:34,000
+No, the only way to save our nation
+and the promise it once held
+
+784
+00:44:34,083 --> 00:44:35,708
+is to erase it.
+
+785
+00:44:36,583 --> 00:44:37,833
+Start over.
+
+786
+00:44:37,916 --> 00:44:39,083
+So maybe then.
+
+787
+00:44:40,750 --> 00:44:42,458
+{\an8}When we are staring at each other
+
+788
+00:44:42,541 --> 00:44:44,125
+from across the rubble,
+
+789
+00:44:45,291 --> 00:44:48,541
+we will all agree that this time
+
+790
+00:44:50,666 --> 00:44:51,958
+we're going to get America right.
+
+791
+00:44:57,666 --> 00:44:59,666
+This is Corporal Rahul Shah.
+
+792
+00:44:59,750 --> 00:45:01,875
+<i>Do you like being an American, Rahul?</i>
+
+793
+00:45:01,958 --> 00:45:03,291
+<i>With all my heart.</i>
+
+794
+00:45:04,291 --> 00:45:05,458
+<i>But you're a Hindu.</i>
+
+795
+00:45:05,541 --> 00:45:06,583
+<i>You can be both.</i>
+
+796
+00:45:06,666 --> 00:45:07,708
+<i>In America?</i>
+
+797
+00:45:08,416 --> 00:45:10,416
+You've never been mocked for your faith?
+
+798
+00:45:11,625 --> 00:45:15,791
+Never been the subject
+to enhanced screenings at airports?
+
+799
+00:45:17,958 --> 00:45:19,875
+<i>Share with the world what you've seen.</i>
+
+800
+00:45:21,166 --> 00:45:23,125
+<i>I've seen you in the showers,</i>
+
+801
+00:45:24,416 --> 00:45:26,875
+<i>and I can see
+why you're obsessed with missiles.</i>
+
+802
+00:45:29,875 --> 00:45:31,041
+Pathetic.
+
+803
+00:45:31,125 --> 00:45:33,500
+I got this, boss. [inhaling]
+
+804
+00:45:36,541 --> 00:45:37,541
+[grunting]
+
+805
+00:45:38,416 --> 00:45:40,166
+[Beaver chuckles]
+
+806
+00:45:47,416 --> 00:45:50,666
+<i>This is Captain Joanna Julia Collins.</i>
+
+807
+00:45:50,750 --> 00:45:52,500
+<i>JJ to her friends.</i>
+
+808
+00:45:53,416 --> 00:45:56,625
+<i>A soldier who has fought with
+honor and courage here today.</i>
+
+809
+00:45:56,708 --> 00:46:00,458
+<i>Now, three years ago,
+one of our nation's top generals</i>
+
+810
+00:46:00,541 --> 00:46:05,083
+<i>tried to abuse his position of power
+and force her to have sex with him.</i>
+
+811
+00:46:06,333 --> 00:46:07,833
+<i>Whose career was ruined?</i>
+
+812
+00:46:07,916 --> 00:46:09,041
+You should be
+
+813
+00:46:09,958 --> 00:46:12,208
+showering her with praise,
+
+814
+00:46:12,291 --> 00:46:13,791
+but she's a woman,
+
+815
+00:46:15,208 --> 00:46:18,708
+so instead her fellow service members
+
+816
+00:46:18,791 --> 00:46:22,166
+put out a bounty hunt on photos like this.
+
+817
+00:46:22,250 --> 00:46:24,125
+You're an asshole, dude.
+
+818
+00:46:24,208 --> 00:46:28,125
+<i>I offered her 30 million dollars
+to give up her post today.</i>
+
+819
+00:46:30,708 --> 00:46:31,875
+<i>She refused.</i>
+
+820
+00:46:31,958 --> 00:46:35,208
+[tense instrumental music plays]
+
+821
+00:46:37,916 --> 00:46:40,458
+<i>She took that photo
+for charity, by the way.</i>
+
+822
+00:46:41,750 --> 00:46:44,250
+What position were you?
+Were you goalkeeper?
+
+823
+00:46:45,375 --> 00:46:48,291
+Goalkeeper. It's a tough position.
+
+824
+00:46:49,166 --> 00:46:50,166
+Beg your pardon?
+
+825
+00:46:50,666 --> 00:46:54,916
+You take a lot of hits,
+concussions, bruised ribs,
+
+826
+00:46:55,000 --> 00:46:58,666
+but the most common injury
+is dislocated thumbs.
+
+827
+00:46:58,750 --> 00:46:59,583
+[bones crunch]
+
+828
+00:47:00,083 --> 00:47:01,625
+[tense music plays]
+
+829
+00:47:01,708 --> 00:47:02,958
+- [grunts]
+- [Beaver] Oh shit.
+
+830
+00:47:04,458 --> 00:47:05,416
+[bullets whizzing]
+
+831
+00:47:07,083 --> 00:47:10,000
+[panting, grunting]
+
+832
+00:47:15,000 --> 00:47:16,166
+[bullets whizzing]
+
+833
+00:47:16,958 --> 00:47:17,958
+[Kessel gasps]
+
+834
+00:47:19,500 --> 00:47:20,333
+[sighs]
+
+835
+00:47:20,416 --> 00:47:21,250
+[clicking]
+
+836
+00:47:21,333 --> 00:47:22,958
+[grunting]
+
+837
+00:47:23,041 --> 00:47:25,458
+[tense music plays]
+
+838
+00:47:25,541 --> 00:47:26,583
+[Kessel] No!
+
+839
+00:47:26,666 --> 00:47:28,125
+Shit! [panting]
+
+840
+00:47:28,208 --> 00:47:30,708
+[grunting]
+
+841
+00:47:34,875 --> 00:47:38,375
+[computer voice] <i>Intercept launch expires</i>
+<i>in six minutes.</i>
+
+842
+00:47:43,416 --> 00:47:44,875
+Think you can make it?
+
+843
+00:47:48,375 --> 00:47:49,916
+[music builds]
+
+844
+00:47:50,000 --> 00:47:51,041
+Do you?
+
+845
+00:47:51,875 --> 00:47:52,833
+[neck cracks]
+
+846
+00:47:57,083 --> 00:47:58,791
+[grunting]
+
+847
+00:48:02,958 --> 00:48:04,500
+[grunting]
+
+848
+00:48:06,375 --> 00:48:09,833
+[grunting]
+
+849
+00:48:10,833 --> 00:48:13,166
+[grunting]
+
+850
+00:48:16,916 --> 00:48:19,125
+[grunting]
+
+851
+00:48:19,750 --> 00:48:21,291
+[grunting, panting]
+
+852
+00:48:25,708 --> 00:48:28,750
+[panting, grunting]
+
+853
+00:48:30,375 --> 00:48:31,500
+[grunts]
+
+854
+00:48:33,666 --> 00:48:35,416
+[grunting]
+
+855
+00:48:38,250 --> 00:48:40,083
+[panting, grunting]
+
+856
+00:48:43,541 --> 00:48:45,250
+[grunting]
+
+857
+00:48:49,083 --> 00:48:52,083
+[computer voice] <i>Intercept launch expires</i>
+<i>in five minutes.</i>
+
+858
+00:48:52,166 --> 00:48:54,333
+You have five minutes.
+Hold her or kill her.
+
+859
+00:48:54,875 --> 00:48:57,500
+[grunting]
+
+860
+00:49:02,833 --> 00:49:05,375
+[grunting, groaning]
+
+861
+00:49:06,500 --> 00:49:08,875
+[panting, grunting]
+
+862
+00:49:09,750 --> 00:49:11,208
+[grunts]
+
+863
+00:49:14,541 --> 00:49:15,958
+[grunting]
+
+864
+00:49:19,125 --> 00:49:21,791
+[grunting]
+
+865
+00:49:22,375 --> 00:49:23,375
+[screaming]
+
+866
+00:49:24,666 --> 00:49:26,833
+[grunting]
+
+867
+00:49:32,416 --> 00:49:33,500
+[grunts]
+
+868
+00:49:34,291 --> 00:49:36,833
+[panting, gasping]
+
+869
+00:49:39,583 --> 00:49:41,708
+[music builds]
+
+870
+00:49:41,791 --> 00:49:43,625
+[computer voice] <i>Interceptor launched.</i>
+
+871
+00:49:48,083 --> 00:49:51,958
+[panting]
+
+872
+00:49:57,166 --> 00:49:58,708
+[music crescendos]
+
+873
+00:49:59,291 --> 00:50:01,333
+[computer voice] <i>Missile intercepted.</i>
+
+874
+00:50:04,333 --> 00:50:06,875
+[ragged breathing]
+
+875
+00:50:09,166 --> 00:50:12,125
+[gagging]
+
+876
+00:50:12,208 --> 00:50:16,166
+[coughing, gasping]
+
+877
+00:50:18,375 --> 00:50:20,708
+[tense music plays]
+
+878
+00:50:22,250 --> 00:50:23,708
+[gun cocks, fires]
+
+879
+00:50:23,791 --> 00:50:24,750
+[grunts]
+
+880
+00:50:24,833 --> 00:50:28,000
+[gunshots]
+
+881
+00:50:31,083 --> 00:50:32,750
+[clicking]
+
+882
+00:50:34,125 --> 00:50:38,583
+[panting, gasping]
+
+883
+00:50:38,666 --> 00:50:41,125
+[grunting, wincing]
+
+884
+00:50:42,500 --> 00:50:43,416
+[coughing]
+
+885
+00:50:44,458 --> 00:50:47,083
+[gagging]
+
+886
+00:50:47,166 --> 00:50:50,166
+[eerie music rises]
+
+887
+00:50:54,791 --> 00:50:56,083
+[gasps]
+
+888
+00:51:03,375 --> 00:51:04,333
+[grunting]
+
+889
+00:51:06,125 --> 00:51:08,666
+[panting]
+
+890
+00:51:08,750 --> 00:51:11,041
+Fucking die already, would you?
+
+891
+00:51:11,125 --> 00:51:12,125
+[grunts]
+
+892
+00:51:12,208 --> 00:51:13,583
+[music crescendos]
+
+893
+00:51:15,083 --> 00:51:17,333
+[panting]
+
+894
+00:51:27,666 --> 00:51:31,708
+[Beaver] I warned you, man.
+I told you she was bad news. [sniffs]
+
+895
+00:51:31,791 --> 00:51:36,833
+Remember? I said, "Whatever happens,
+make sure you shoot her first." [sniffs]
+
+896
+00:51:36,916 --> 00:51:40,000
+"You just take her out of the fight,
+because if you don't do that,
+
+897
+00:51:40,083 --> 00:51:43,333
+if you don't just put her down right
+away, man, she's gonna be trouble."
+
+898
+00:51:43,416 --> 00:51:44,333
+Beaver.
+
+899
+00:51:44,416 --> 00:51:46,708
+She's…
+She's just one of those women, you know?
+
+900
+00:51:46,791 --> 00:51:50,208
+She just likes to just get under your skin
+and just needle you, man.
+
+901
+00:51:50,291 --> 00:51:53,083
+Like a… like a fucking needle.
+
+902
+00:51:53,166 --> 00:51:55,291
+This is a setback and nothing more.
+
+903
+00:51:55,375 --> 00:51:56,250
+[Beaver] Setback?
+
+904
+00:51:56,333 --> 00:51:58,333
+Oh. Good.
+
+905
+00:51:58,416 --> 00:52:00,875
+Hey, did you hear that?
+It's a setback. That's cool.
+
+906
+00:52:02,000 --> 00:52:04,750
+She shot the goddamn missile
+out of the sky!
+
+907
+00:52:04,833 --> 00:52:07,666
+It's one missile. There are 15 left.
+
+908
+00:52:07,750 --> 00:52:10,125
+And what happens
+if she shoots them down too, huh?
+
+909
+00:52:10,208 --> 00:52:12,125
+What then? What do we do then?
+
+910
+00:52:12,208 --> 00:52:14,000
+[breathing heavily]
+
+911
+00:52:14,083 --> 00:52:16,708
+Our faces, man,
+they're all over the world right now.
+
+912
+00:52:16,791 --> 00:52:17,916
+What do we do then?
+
+913
+00:52:18,791 --> 00:52:21,250
+What's the statute of limitations
+on attempted nuking?
+
+914
+00:52:21,333 --> 00:52:23,791
+We are prepared for this.
+We have backup plans.
+
+915
+00:52:24,333 --> 00:52:26,833
+[dramatic music plays]
+
+916
+00:52:27,333 --> 00:52:30,250
+[ragged breathing]
+
+917
+00:52:31,458 --> 00:52:32,375
+No, no.
+
+918
+00:52:32,875 --> 00:52:35,500
+[panting]
+
+919
+00:52:35,583 --> 00:52:36,416
+Fuck.
+
+920
+00:52:36,500 --> 00:52:39,125
+[ragged breathing]
+
+921
+00:52:54,500 --> 00:52:56,541
+Really? [sighs]
+
+922
+00:53:05,041 --> 00:53:06,125
+[clanking]
+
+923
+00:53:21,166 --> 00:53:23,083
+[sighing]
+
+924
+00:53:25,250 --> 00:53:30,041
+[beeping tone]
+
+925
+00:53:30,125 --> 00:53:30,958
+[beeps]
+
+926
+00:53:31,041 --> 00:53:33,250
+<i>You played that one
+pretty close to the buzzer.</i>
+
+927
+00:53:33,333 --> 00:53:35,333
+[panting] Doing my best here, ma'am.
+
+928
+00:53:35,416 --> 00:53:37,083
+<i>Can you turn off the TV coverage?</i>
+
+929
+00:53:38,083 --> 00:53:38,958
+[gasps]
+
+930
+00:53:39,041 --> 00:53:40,166
+Give me a minute.
+
+931
+00:53:40,250 --> 00:53:41,833
+[panting]
+
+932
+00:53:43,000 --> 00:53:44,375
+[sighs]
+
+933
+00:53:44,458 --> 00:53:45,541
+Not from here.
+
+934
+00:53:46,125 --> 00:53:47,250
+[Dyson]<i> Understood.</i>
+
+935
+00:53:47,833 --> 00:53:49,625
+How long till the SEALS get here?
+
+936
+00:53:49,708 --> 00:53:52,041
+<i>Fifty minutes.
+They're going as fast as they can.</i>
+
+937
+00:53:52,791 --> 00:53:54,333
+Not fast enough.
+
+938
+00:53:54,416 --> 00:53:57,250
+[Dyson] <i>And we got some background</i>
+<i>on Alexander Kessel.</i>
+
+939
+00:53:57,333 --> 00:53:59,083
+<i>He was Army, military intelligence.</i>
+
+940
+00:53:59,166 --> 00:54:00,666
+<i>Started out doing Russian work,</i>
+
+941
+00:54:00,750 --> 00:54:03,083
+<i>then became a psy ops
+and torture specialist.</i>
+
+942
+00:54:03,166 --> 00:54:04,083
+[Collins] Torture?
+
+943
+00:54:04,166 --> 00:54:06,500
+[Dyson] <i>He was good. Too good sometimes.</i>
+
+944
+00:54:06,583 --> 00:54:08,875
+<i>Killed two prisoners
+while he was torturing them.</i>
+
+945
+00:54:08,958 --> 00:54:11,666
+{\an8}[Collins] Jesus. I'm dealing
+with a genuine psychopath.
+
+946
+00:54:11,750 --> 00:54:16,166
+{\an8}<i>You're not alone. Lot of smart people here
+trying to figure out a way to help you.</i>
+
+947
+00:54:16,250 --> 00:54:18,041
+<i>Tacticians, game theorists.</i>
+
+948
+00:54:18,125 --> 00:54:19,541
+<i>Fuck theory.</i>
+
+949
+00:54:19,625 --> 00:54:21,833
+<i>I need some fucking soldiers with guns.</i>
+
+950
+00:54:21,916 --> 00:54:22,916
+<i>I hear you, Captain.</i>
+
+951
+00:54:23,000 --> 00:54:24,833
+Come on, give her some guns, man.
+
+952
+00:54:24,916 --> 00:54:27,833
+<i>If you don't mind me saying,
+you are one armor-plated woman.</i>
+
+953
+00:54:27,916 --> 00:54:30,000
+<i>Army never should have
+picked a fight with you.</i>
+
+954
+00:54:30,083 --> 00:54:31,041
+[exhales sharply]
+
+955
+00:54:32,541 --> 00:54:33,958
+Got that right.
+
+956
+00:54:35,250 --> 00:54:36,166
+[call hangs up]
+
+957
+00:54:36,250 --> 00:54:40,708
+[groaning]
+
+958
+00:54:40,791 --> 00:54:41,833
+Rahul.
+
+959
+00:54:42,708 --> 00:54:43,708
+What'd I miss?
+
+960
+00:54:44,208 --> 00:54:45,250
+[Collins sighs]
+
+961
+00:54:46,041 --> 00:54:47,250
+Not much.
+
+962
+00:54:47,333 --> 00:54:48,625
+Did we stop the missile?
+
+963
+00:54:48,708 --> 00:54:49,666
+[Collins grunts]
+
+964
+00:54:49,750 --> 00:54:50,583
+[Shah gasps]
+
+965
+00:54:50,666 --> 00:54:53,250
+Yeah. We stopped it.
+
+966
+00:54:54,083 --> 00:54:55,291
+Nice.
+
+967
+00:54:55,375 --> 00:54:56,500
+[Collins sighs]
+
+968
+00:54:56,583 --> 00:54:58,583
+Wait. Where's all the bad guys?
+
+969
+00:55:00,291 --> 00:55:01,625
+[sighing]
+
+970
+00:55:02,875 --> 00:55:04,208
+Oh…
+
+971
+00:55:04,291 --> 00:55:05,833
+[Collins groans, sighs]
+
+972
+00:55:07,458 --> 00:55:10,208
+That Alexander dude must be pissed at you.
+
+973
+00:55:11,125 --> 00:55:15,291
+Yeah, well, that's because
+I'm still fucking up his day.
+
+974
+00:55:26,375 --> 00:55:28,291
+[rustling]
+
+975
+00:55:29,416 --> 00:55:32,666
+[instrumental music plays]
+
+976
+00:55:32,750 --> 00:55:33,833
+[Collins] Papa?
+
+977
+00:55:33,916 --> 00:55:35,791
+Hey. How you feeling?
+
+978
+00:55:37,625 --> 00:55:39,041
+You up for some soup?
+
+979
+00:55:39,833 --> 00:55:40,875
+Sure.
+
+980
+00:55:44,333 --> 00:55:45,291
+[sniffs]
+
+981
+00:55:53,791 --> 00:55:54,791
+[sighs]
+
+982
+00:55:54,875 --> 00:55:56,083
+You saw what they did.
+
+983
+00:55:56,166 --> 00:55:57,500
+[Papa] I'll take care of it.
+
+984
+00:55:57,583 --> 00:56:02,041
+Do not let them get to you now.
+Don't let them win.
+
+985
+00:56:02,125 --> 00:56:03,583
+They hate me.
+
+986
+00:56:03,666 --> 00:56:05,041
+You told the truth.
+
+987
+00:56:05,125 --> 00:56:06,875
+Nobody cares about the truth.
+
+988
+00:56:06,958 --> 00:56:08,166
+[Papa] I care.
+
+989
+00:56:09,916 --> 00:56:13,333
+I've lost everything.
+Everything I ever worked for.
+
+990
+00:56:13,416 --> 00:56:14,541
+Hey, hey.
+
+991
+00:56:15,750 --> 00:56:18,708
+What's the one thing
+I've taught you since you were little?
+
+992
+00:56:19,208 --> 00:56:21,416
+The one rule in life?
+
+993
+00:56:23,458 --> 00:56:24,291
+[sighs]
+
+994
+00:56:24,375 --> 00:56:25,333
+[inhales sharply]
+
+995
+00:56:25,416 --> 00:56:26,833
+Never stop fighting.
+
+996
+00:56:26,916 --> 00:56:28,666
+[Papa] You got fight in you, kid.
+
+997
+00:56:28,750 --> 00:56:31,958
+Always have. Just like your mama.
+
+998
+00:56:36,166 --> 00:56:38,166
+[mechanical humming]
+
+999
+00:56:41,416 --> 00:56:42,416
+[Shah] Captain?
+
+1000
+00:56:42,500 --> 00:56:43,500
+[Collins gasps]
+
+1001
+00:56:44,000 --> 00:56:45,166
+He wants to talk.
+
+1002
+00:56:48,250 --> 00:56:50,083
+How long have I been out?
+
+1003
+00:56:50,166 --> 00:56:52,333
+[Shah] Not long. Fifteen minutes or so.
+
+1004
+00:56:53,250 --> 00:56:54,333
+[Collins sighs]
+
+1005
+00:57:03,958 --> 00:57:05,708
+[Collins] What now, asshole?
+
+1006
+00:57:06,750 --> 00:57:11,250
+[ragged breathing]
+
+1007
+00:57:11,333 --> 00:57:12,875
+You think I'm a monster.
+
+1008
+00:57:14,333 --> 00:57:15,250
+[Collins sighs]
+
+1009
+00:57:16,125 --> 00:57:17,125
+I was.
+
+1010
+00:57:19,416 --> 00:57:23,875
+You know, growing up, I never summered
+where I wintered. [chuckles]
+
+1011
+00:57:23,958 --> 00:57:28,291
+I was either on a yacht in the Hamptons
+or skiing in Val d'Isère.
+
+1012
+00:57:29,000 --> 00:57:30,916
+Sucks to be you, dude.
+
+1013
+00:57:31,708 --> 00:57:33,250
+I'm not complaining.
+
+1014
+00:57:33,833 --> 00:57:35,750
+I was the product of a failed society.
+
+1015
+00:57:35,833 --> 00:57:40,833
+A society that consistently rewards money
+and ignores everything else.
+
+1016
+00:57:42,166 --> 00:57:44,750
+What? You think my father
+became ambassador to the UN
+
+1017
+00:57:44,833 --> 00:57:48,291
+because of any
+worthwhile diplomatic skills
+
+1018
+00:57:48,375 --> 00:57:50,375
+or because of his political donations?
+
+1019
+00:57:50,958 --> 00:57:53,000
+See, that's what we do in America.
+
+1020
+00:57:53,083 --> 00:57:56,791
+We just figure because someone's rich
+that means they're smart.
+
+1021
+00:57:59,500 --> 00:58:00,958
+My father's a moron.
+
+1022
+00:58:02,833 --> 00:58:04,000
+He inherited his money.
+
+1023
+00:58:04,083 --> 00:58:05,333
+- He didn't earn it.
+- God.
+
+1024
+00:58:05,416 --> 00:58:07,416
+Don't tell me this is about daddy issues.
+
+1025
+00:58:07,500 --> 00:58:09,333
+I wouldn't expect you to understand.
+
+1026
+00:58:09,416 --> 00:58:10,875
+I understand plenty.
+
+1027
+00:58:11,791 --> 00:58:13,291
+Your father is a good man.
+
+1028
+00:58:13,791 --> 00:58:14,875
+The best.
+
+1029
+00:58:16,333 --> 00:58:18,166
+He served too, didn't he?
+
+1030
+00:58:18,791 --> 00:58:20,083
+Thirty-six years.
+
+1031
+00:58:20,166 --> 00:58:23,125
+[Kessel] That's how he met your mom?
+When he was stationed in Spain?
+
+1032
+00:58:24,416 --> 00:58:26,625
+Does he still hang out
+with his army buddies?
+
+1033
+00:58:27,125 --> 00:58:28,291
+[Collins] Every day.
+
+1034
+00:58:31,041 --> 00:58:32,541
+In Scottsdale, right?
+
+1035
+00:58:33,375 --> 00:58:34,750
+[grim music plays]
+
+1036
+00:58:34,833 --> 00:58:35,833
+Yeah.
+
+1037
+00:58:37,416 --> 00:58:41,250
+[Kessel] The Patriot's Valley
+Veterans Retirement Home.
+
+1038
+00:58:42,791 --> 00:58:44,041
+Room 6B.
+
+1039
+00:58:48,708 --> 00:58:49,916
+[gasping]
+
+1040
+00:58:50,041 --> 00:58:51,250
+Papa?
+
+1041
+00:58:51,333 --> 00:58:53,750
+[groaning]
+
+1042
+00:58:53,833 --> 00:58:54,833
+Let him go!
+
+1043
+00:58:54,916 --> 00:58:57,208
+- He's got nothing to do with this!
+- Beg to differ.
+
+1044
+00:58:57,291 --> 00:58:58,208
+Let him go!
+
+1045
+00:58:58,291 --> 00:59:01,125
+You said I could kill whoever,
+and you'd never open this door.
+
+1046
+00:59:01,208 --> 00:59:03,125
+Let him go, God damn you!
+
+1047
+00:59:03,208 --> 00:59:06,458
+- [Kessel] Let's see if that's still valid.
+- Fuck you!
+
+1048
+00:59:06,541 --> 00:59:08,458
+You think it's going to go any other way?
+
+1049
+00:59:08,541 --> 00:59:11,541
+This is what I was trained for.
+Psy ops. Military intelligence.
+
+1050
+00:59:11,625 --> 00:59:13,958
+Find your enemy's
+weak point and exploit it.
+
+1051
+00:59:14,041 --> 00:59:16,250
+[gasps] <i>Let him go!</i>
+
+1052
+00:59:16,333 --> 00:59:17,666
+If you don't open the door,
+
+1053
+00:59:17,750 --> 00:59:19,750
+I will take apart
+your father piece by piece.
+
+1054
+00:59:19,833 --> 00:59:20,750
+No!
+
+1055
+00:59:20,833 --> 00:59:23,583
+- Fine. Have it your way.
+- No, no! Please.
+
+1056
+00:59:23,666 --> 00:59:24,541
+No, no, no!
+
+1057
+00:59:24,625 --> 00:59:25,541
+- Do it.
+- No, no, no!
+
+1058
+00:59:25,625 --> 00:59:26,916
+No, don't! No!
+
+1059
+00:59:27,000 --> 00:59:27,958
+[grunting]
+
+1060
+00:59:29,000 --> 00:59:32,708
+- [Collins] No, no, no!
+- [groaning]
+
+1061
+00:59:32,791 --> 00:59:34,666
+[Collins sobs]
+
+1062
+00:59:34,750 --> 00:59:36,583
+- You know I can't.
+- [Kessel] Yes, you can.
+
+1063
+00:59:36,666 --> 00:59:39,250
+- No, I can't.
+- You can make this stop whenever you want.
+
+1064
+00:59:39,333 --> 00:59:40,416
+Let me speak with him.
+
+1065
+00:59:40,500 --> 00:59:41,791
+Let me speak with him. Okay?
+
+1066
+00:59:41,875 --> 00:59:43,750
+- Let me speak with him!
+- Captain, no.
+
+1067
+00:59:44,500 --> 00:59:45,666
+Let her speak.
+
+1068
+00:59:46,916 --> 00:59:48,083
+[Collins] Papa?
+
+1069
+00:59:48,583 --> 00:59:49,583
+<i>- JJ.</i>
+- I can't…
+
+1070
+00:59:49,666 --> 00:59:51,791
+I can't… I can't lose you.
+
+1071
+00:59:51,875 --> 00:59:54,416
+<i>Listen to me. Are you listening?</i>
+
+1072
+00:59:54,500 --> 00:59:55,875
+[father panting]
+
+1073
+00:59:56,458 --> 00:59:58,666
+<i>Never stop fighting!</i>
+
+1074
+00:59:58,750 --> 01:00:00,583
+- Kill him.
+- No! No!
+
+1075
+01:00:00,666 --> 01:00:03,250
+- No, please God. God!
+- [gunshot]
+
+1076
+01:00:03,333 --> 01:00:04,166
+No!
+
+1077
+01:00:04,250 --> 01:00:07,458
+[sobs] No, no!
+
+1078
+01:00:07,541 --> 01:00:11,125
+[dramatic music rises]
+
+1079
+01:00:11,208 --> 01:00:15,250
+[sobbing]
+
+1080
+01:00:16,583 --> 01:00:17,541
+[sighs]
+
+1081
+01:00:19,833 --> 01:00:23,666
+[Collins sobs] No…
+
+1082
+01:00:23,750 --> 01:00:26,041
+[sobbing]
+
+1083
+01:00:26,125 --> 01:00:27,041
+No!
+
+1084
+01:00:27,125 --> 01:00:28,625
+[sobbing]
+
+1085
+01:00:29,500 --> 01:00:31,958
+My daddy would have
+made me open that door.
+
+1086
+01:00:33,208 --> 01:00:34,375
+No question!
+
+1087
+01:00:34,458 --> 01:00:37,416
+[ragged breathing]
+
+1088
+01:00:48,625 --> 01:00:50,541
+[beeping]
+
+1089
+01:00:51,041 --> 01:00:53,041
+[digital chiming]
+
+1090
+01:00:55,541 --> 01:00:58,000
+[sobbing]
+
+1091
+01:01:00,541 --> 01:01:02,000
+[Shah] How did they know?
+
+1092
+01:01:02,083 --> 01:01:03,958
+[sobbing]
+
+1093
+01:01:04,041 --> 01:01:06,708
+How did they know
+to have people in Scottsdale?
+
+1094
+01:01:06,791 --> 01:01:08,625
+[gasping]
+
+1095
+01:01:08,708 --> 01:01:11,833
+The Army signed
+your transfer order last night, right?
+
+1096
+01:01:11,916 --> 01:01:13,625
+[panting] Right.
+
+1097
+01:01:13,708 --> 01:01:16,708
+Which means they couldn't
+have known until a few hours ago.
+
+1098
+01:01:16,791 --> 01:01:18,500
+[cryptic music plays]
+
+1099
+01:01:18,583 --> 01:01:21,833
+[Kessel] You still don't get it?
+You're a pariah in your own ranks.
+
+1100
+01:01:22,333 --> 01:01:24,958
+The decision to have you
+transferred to this godforsaken rig
+
+1101
+01:01:25,041 --> 01:01:27,458
+was made three days ago.
+They only told you last night.
+
+1102
+01:01:28,250 --> 01:01:29,958
+I've known for 72 hours.
+
+1103
+01:01:31,958 --> 01:01:35,333
+- [sharp inhale] What are you doing?
+- Activating my insurance policy.
+
+1104
+01:01:35,416 --> 01:01:36,250
+[beeps]
+
+1105
+01:01:37,333 --> 01:01:39,791
+If she's committed enough
+to watch her father die,
+
+1106
+01:01:40,291 --> 01:01:42,291
+you will find
+that I am equally as committed.
+
+1107
+01:01:42,375 --> 01:01:45,166
+That's the HVAR code.
+The emergency sinking protocol.
+
+1108
+01:01:45,250 --> 01:01:47,000
+You're going to sink this whole rig?
+
+1109
+01:01:47,083 --> 01:01:52,583
+[beeping tone]
+
+1110
+01:01:56,583 --> 01:01:57,416
+[beeps]
+
+1111
+01:01:59,500 --> 01:02:03,291
+<i>Our telemetry's saying SBX-1's
+asset removal protocol just activated.</i>
+
+1112
+01:02:03,375 --> 01:02:04,500
+<i>Don't tell me he...</i>
+
+1113
+01:02:04,583 --> 01:02:06,291
+He's going to sink us. [gasps]
+
+1114
+01:02:06,375 --> 01:02:08,958
+He's going to sink us
+using our own scuttling protocol.
+
+1115
+01:02:09,041 --> 01:02:09,958
+[music builds]
+
+1116
+01:02:10,041 --> 01:02:12,708
+[computer voice] <i>High value asset</i>
+<i>removal protocol activated.</i>
+
+1117
+01:02:15,416 --> 01:02:16,458
+[grunting]
+
+1118
+01:02:17,875 --> 01:02:20,291
+[metal groaning]
+
+1119
+01:02:20,375 --> 01:02:21,291
+What do we do?
+
+1120
+01:02:22,125 --> 01:02:25,208
+As long as we are above the surface,
+we can still fire our missiles.
+
+1121
+01:02:25,291 --> 01:02:27,833
+[metal creaking]
+
+1122
+01:02:27,916 --> 01:02:30,916
+[computer voice] <i>Thirteen minutes until</i>
+<i>total vessel submersion.</i>
+
+1123
+01:02:31,000 --> 01:02:33,458
+We've got 13 minutes
+to figure out a solution.
+
+1124
+01:02:34,541 --> 01:02:35,500
+I'm going down there.
+
+1125
+01:02:35,583 --> 01:02:37,375
+[Shah] Down where? Into the hulls?
+
+1126
+01:02:37,458 --> 01:02:40,541
+Yes. To close the valves one by one.
+
+1127
+01:02:40,625 --> 01:02:42,750
+You can't go down
+there with wounds like that.
+
+1128
+01:02:43,875 --> 01:02:45,000
+I'll manage.
+
+1129
+01:02:45,083 --> 01:02:46,833
+I'll… I'll go.
+
+1130
+01:02:47,416 --> 01:02:48,375
+No.
+
+1131
+01:02:50,333 --> 01:02:51,375
+I'll do it.
+
+1132
+01:02:51,458 --> 01:02:53,375
+[dramatic music plays]
+
+1133
+01:02:53,458 --> 01:02:54,916
+[breathes sharply]
+
+1134
+01:02:56,375 --> 01:02:58,875
+[Dyson]<i> You're running out of time.</i>
+<i>We clock it at 13 minutes.</i>
+
+1135
+01:02:58,958 --> 01:03:00,166
+So do we.
+
+1136
+01:03:00,791 --> 01:03:02,500
+What's the ETA on the SEAL team?
+
+1137
+01:03:02,583 --> 01:03:03,416
+<i>Twenty-five.</i>
+
+1138
+01:03:03,500 --> 01:03:06,250
+[sighs] Damn. I'll call you back.
+
+1139
+01:03:07,250 --> 01:03:08,083
+[beeps]
+
+1140
+01:03:10,500 --> 01:03:14,166
+[ragged breathing]
+
+1141
+01:03:16,125 --> 01:03:17,333
+All right.
+
+1142
+01:03:17,416 --> 01:03:18,375
+[panting]
+
+1143
+01:03:18,458 --> 01:03:20,375
+Don't think this is what heroes look like.
+
+1144
+01:03:21,541 --> 01:03:23,458
+That's exactly what they look like.
+
+1145
+01:03:24,458 --> 01:03:25,958
+Whatever you say, Captain.
+
+1146
+01:03:29,083 --> 01:03:30,208
+[breathes heavily]
+
+1147
+01:03:30,291 --> 01:03:31,666
+You can do this.
+
+1148
+01:03:31,750 --> 01:03:33,208
+[deep breaths]
+
+1149
+01:03:33,291 --> 01:03:34,833
+[Shah] You got this, Rahul.
+
+1150
+01:03:34,916 --> 01:03:36,291
+You got this.
+
+1151
+01:03:37,166 --> 01:03:38,708
+[breathes heavily]
+
+1152
+01:03:38,791 --> 01:03:40,000
+See you on the other side.
+
+1153
+01:03:41,208 --> 01:03:44,250
+[deep breaths]
+
+1154
+01:03:51,291 --> 01:03:53,041
+Little bastard grew some balls.
+
+1155
+01:03:53,958 --> 01:03:55,250
+Take care of it.
+
+1156
+01:03:56,541 --> 01:03:57,708
+This is mine.
+
+1157
+01:04:02,083 --> 01:04:04,416
+HVAR's been activated.
+Twelve and a half minutes.
+
+1158
+01:04:05,291 --> 01:04:06,750
+Well, how far away is he?
+
+1159
+01:04:06,833 --> 01:04:08,166
+[helicopters approach]
+
+1160
+01:04:09,000 --> 01:04:12,000
+[tense instrumental music plays]
+
+1161
+01:04:12,083 --> 01:04:14,333
+[pilot]<i> Twenty-two minutes out.</i>
+<i>Ready your weapons.</i>
+
+1162
+01:04:15,875 --> 01:04:17,625
+[wincing]
+
+1163
+01:04:19,416 --> 01:04:21,458
+[metal creaking]
+
+1164
+01:04:27,833 --> 01:04:29,583
+[metal groaning]
+
+1165
+01:04:29,666 --> 01:04:32,333
+Okay, I've reached the hull.
+
+1166
+01:04:32,416 --> 01:04:33,625
+You see the console?
+
+1167
+01:04:37,375 --> 01:04:38,833
+[metal creaking]
+
+1168
+01:04:41,541 --> 01:04:42,500
+[water rushing]
+
+1169
+01:04:42,583 --> 01:04:43,416
+[groans]
+
+1170
+01:04:43,916 --> 01:04:45,666
+This is gonna take a while.
+
+1171
+01:04:45,750 --> 01:04:48,666
+- [Collins] <i>You just have to slow it down.</i>
+- [Shah] Copy that.
+
+1172
+01:04:49,291 --> 01:04:52,666
+[metal groaning]
+
+1173
+01:04:57,875 --> 01:04:59,291
+How are we looking, Captain?
+
+1174
+01:04:59,375 --> 01:05:01,333
+[computer voice] <i>Recalculating.</i>
+<i>Recalculating.</i>
+
+1175
+01:05:01,416 --> 01:05:05,000
+<i>- 12 minutes 11 seconds until…</i>
+- [Collins] You just bought us two minutes.
+
+1176
+01:05:05,083 --> 01:05:06,125
+<i>Keep going.</i>
+
+1177
+01:05:06,208 --> 01:05:09,583
+Hell, yeah. I'm an ass-kicking,
+valve-closing machine.
+
+1178
+01:05:09,666 --> 01:05:11,750
+<i>Nobody plugs leaks like me.</i>
+
+1179
+01:05:12,333 --> 01:05:13,625
+[mechanical clanking]
+
+1180
+01:05:13,708 --> 01:05:14,791
+Oh…
+
+1181
+01:05:15,375 --> 01:05:17,291
+- Oh. Shit.
+- What?
+
+1182
+01:05:17,375 --> 01:05:18,875
+I got company.
+
+1183
+01:05:18,958 --> 01:05:20,958
+Get out of there. You hear me?
+
+1184
+01:05:21,458 --> 01:05:22,541
+[Shah] <i>It's too late.</i>
+
+1185
+01:05:22,625 --> 01:05:24,791
+It's not too late. Get out of there, now.
+
+1186
+01:05:24,875 --> 01:05:27,333
+I'm sorry I couldn't help you
+more before, Captain,
+
+1187
+01:05:27,416 --> 01:05:29,250
+but I'm hoping this helps you now.
+
+1188
+01:05:29,333 --> 01:05:31,416
+[computer voice]<i> Recalculating.</i>
+<i>Recalculating.</i>
+
+1189
+01:05:31,500 --> 01:05:32,875
+[music crescendos]
+
+1190
+01:05:33,541 --> 01:05:34,375
+[grunting]
+
+1191
+01:05:35,750 --> 01:05:37,416
+Tell my children I love them.
+
+1192
+01:05:42,958 --> 01:05:44,125
+Howdy.
+
+1193
+01:05:44,208 --> 01:05:46,166
+You don't have to do this, Beaver.
+
+1194
+01:05:48,708 --> 01:05:50,125
+You're not a murderer.
+
+1195
+01:05:53,166 --> 01:05:54,291
+You're right.
+
+1196
+01:05:57,333 --> 01:05:58,708
+I'm not a murderer.
+
+1197
+01:06:00,541 --> 01:06:02,083
+[slow exhale]
+
+1198
+01:06:03,625 --> 01:06:05,458
+I'm a fucking patriot.
+
+1199
+01:06:06,041 --> 01:06:07,208
+[gunshot echoing]
+
+1200
+01:06:08,541 --> 01:06:11,416
+[breathing tensely]
+
+1201
+01:06:11,500 --> 01:06:12,333
+Rahul?
+
+1202
+01:06:13,583 --> 01:06:14,458
+Rahul?
+
+1203
+01:06:15,750 --> 01:06:18,333
+[Beaver]
+<i>Shah can't come to the phone right now.</i>
+
+1204
+01:06:19,500 --> 01:06:21,833
+<i>It's just you and the three of us.</i>
+
+1205
+01:06:23,125 --> 01:06:24,500
+You're dead.
+
+1206
+01:06:24,583 --> 01:06:28,333
+[grim instrumental music plays]
+
+1207
+01:06:30,875 --> 01:06:32,500
+It was a valiant attempt.
+
+1208
+01:06:34,291 --> 01:06:36,333
+I admire his courage, truly.
+
+1209
+01:06:37,958 --> 01:06:40,166
+To be honest, I'd written him off.
+
+1210
+01:06:40,958 --> 01:06:43,000
+His psych evaluation
+said he'd fold under pressure.
+
+1211
+01:06:43,083 --> 01:06:44,958
+I didn't even bother
+to put people on his family.
+
+1212
+01:06:45,791 --> 01:06:47,666
+Turns out, he almost derailed me.
+
+1213
+01:06:47,750 --> 01:06:48,583
+[beeping]
+
+1214
+01:06:49,291 --> 01:06:52,291
+[digital chiming]
+
+1215
+01:06:55,875 --> 01:06:56,958
+Danilov.
+
+1216
+01:06:57,041 --> 01:06:58,625
+No, I have a new one.
+
+1217
+01:06:59,291 --> 01:07:04,958
+ZSB, Zulu, Sierra, Bravo, 1-9-9-6.
+
+1218
+01:07:06,416 --> 01:07:07,750
+Tell Danny to move in.
+
+1219
+01:07:08,291 --> 01:07:09,625
+Danny?
+
+1220
+01:07:09,708 --> 01:07:11,791
+[tense music plays]
+
+1221
+01:07:11,875 --> 01:07:12,708
+[snorts]
+
+1222
+01:07:14,000 --> 01:07:15,166
+[breathes sharply]
+
+1223
+01:07:20,541 --> 01:07:21,458
+[sighs]
+
+1224
+01:07:28,833 --> 01:07:30,000
+Cut the feed.
+
+1225
+01:07:31,250 --> 01:07:32,416
+That means nothing.
+
+1226
+01:07:33,291 --> 01:07:35,541
+Then you won't mind
+if I show it to the world.
+
+1227
+01:07:39,541 --> 01:07:40,625
+Fine.
+
+1228
+01:07:52,041 --> 01:07:53,333
+What the hell just happened?
+
+1229
+01:07:54,958 --> 01:07:58,208
+ZSB. Zurich Schweitz Bank.
+
+1230
+01:07:58,291 --> 01:08:00,125
+That's a Swiss bank account.
+
+1231
+01:08:00,208 --> 01:08:02,208
+I should have known. [inhales]
+
+1232
+01:08:02,291 --> 01:08:04,583
+You're not
+a nuclear terrorist or a fanatic.
+
+1233
+01:08:04,666 --> 01:08:05,958
+You've been paid for this.
+
+1234
+01:08:06,041 --> 01:08:08,625
+Hey, this is my operation.
+I'm the one in charge.
+
+1235
+01:08:08,708 --> 01:08:11,833
+So what if I'm getting paid? Huh?
+Am I wrong?
+
+1236
+01:08:12,750 --> 01:08:15,625
+I'm destroying a system
+that tried to destroy you.
+
+1237
+01:08:15,708 --> 01:08:18,875
+I'm making sure what happened to you
+doesn't happen to other women.
+
+1238
+01:08:19,375 --> 01:08:20,375
+How much?
+
+1239
+01:08:20,458 --> 01:08:21,750
+What are you doing?
+
+1240
+01:08:21,833 --> 01:08:23,208
+Who's paying you?
+
+1241
+01:08:23,291 --> 01:08:24,583
+- [scoffs]
+- [Collins groans]
+
+1242
+01:08:24,666 --> 01:08:26,458
+Seriously, stop with the tape.
+
+1243
+01:08:28,333 --> 01:08:29,875
+What about the Russian sub?
+
+1244
+01:08:29,958 --> 01:08:31,541
+Stop taping the window?
+
+1245
+01:08:32,583 --> 01:08:36,000
+The Danilov, huh? Yeah, how's Danny?
+
+1246
+01:08:36,083 --> 01:08:37,583
+Can you please…
+
+1247
+01:08:37,666 --> 01:08:40,083
+Please stop taping the window. For me?
+
+1248
+01:08:40,166 --> 01:08:43,333
+You paid off a sub captain.
+Where is he taking you?
+
+1249
+01:08:43,416 --> 01:08:45,125
+Stop taping the window.
+
+1250
+01:08:45,208 --> 01:08:48,416
+Someplace you can
+get a new name, a new face?
+
+1251
+01:08:48,500 --> 01:08:51,208
+Somewhere you can spend your blood money?
+
+1252
+01:08:51,291 --> 01:08:54,750
+Stop with the damn tape, JJ.
+
+1253
+01:08:56,458 --> 01:08:58,458
+What about all
+that shit about your father?
+
+1254
+01:08:58,541 --> 01:09:01,125
+Oh, fuck him. He ruined my family's name!
+
+1255
+01:09:01,958 --> 01:09:04,125
+Today I restore it
+with dignity and respect.
+
+1256
+01:09:06,291 --> 01:09:07,875
+[Collins] Bullshit. I saw your file.
+
+1257
+01:09:07,958 --> 01:09:10,333
+You're just a total fucking psycho.
+
+1258
+01:09:10,416 --> 01:09:11,958
+[music builds]
+
+1259
+01:09:12,041 --> 01:09:13,958
+- Thank you.
+- [Kessel] For what?
+
+1260
+01:09:14,791 --> 01:09:18,041
+- [Collins] For showing me your weakness.
+- Oh, yeah. What's that?
+
+1261
+01:09:18,125 --> 01:09:19,958
+[Collins]
+You want to get out of here alive.
+
+1262
+01:09:20,041 --> 01:09:23,000
+[Kessel] You know what else I want?
+I want to hurt you, JJ.
+
+1263
+01:09:23,083 --> 01:09:26,041
+I want to cut off your fingers.
+I want you to beg me to kill you!
+
+1264
+01:09:26,125 --> 01:09:27,083
+<i>Cabrón.</i>
+
+1265
+01:09:29,041 --> 01:09:29,875
+[beeps]
+
+1266
+01:09:30,375 --> 01:09:34,916
+[beeping tone]
+
+1267
+01:09:35,000 --> 01:09:35,833
+[beeps]
+
+1268
+01:09:36,541 --> 01:09:40,750
+<i>Good job cutting the live feed.
+SEALS are 17 minutes out.</i>
+
+1269
+01:09:40,833 --> 01:09:42,791
+Well, that's not fast enough.
+
+1270
+01:09:43,625 --> 01:09:45,958
+This rig is going to sink in 15 minutes.
+
+1271
+01:09:46,041 --> 01:09:47,500
+And the second it goes under,
+
+1272
+01:09:47,583 --> 01:09:49,500
+these assholes
+will launch all their nukes.
+
+1273
+01:09:49,583 --> 01:09:50,916
+<i>Is there anything you can do?</i>
+
+1274
+01:09:55,833 --> 01:09:56,875
+[metal groans]
+
+1275
+01:09:56,958 --> 01:09:57,791
+[inhales]
+
+1276
+01:09:57,875 --> 01:09:59,291
+I sort of have this plan.
+
+1277
+01:09:59,833 --> 01:10:03,166
+- But it's a little counter intuitive.
+- [President] <i>Let's hear it, Captain.</i>
+
+1278
+01:10:04,750 --> 01:10:06,541
+I let them take the command center.
+
+1279
+01:10:06,625 --> 01:10:09,166
+<i>What? That's precisely
+what we don't want to happen.</i>
+
+1280
+01:10:09,250 --> 01:10:12,625
+This rig is going down,
+and when it sinks, they win.
+
+1281
+01:10:13,250 --> 01:10:16,166
+We have to force them
+to fire the missiles before that happens.
+
+1282
+01:10:16,250 --> 01:10:17,583
+<i>And then what?</i>
+
+1283
+01:10:17,666 --> 01:10:20,458
+And then I retake the command center
+
+1284
+01:10:20,541 --> 01:10:22,041
+and intercept their nukes.
+
+1285
+01:10:22,125 --> 01:10:23,500
+[Dyson] <i>Inside 12 minutes?</i>
+
+1286
+01:10:24,625 --> 01:10:25,541
+Yes, sir.
+
+1287
+01:10:25,625 --> 01:10:26,666
+[Dyson] <i>Hold on.</i>
+
+1288
+01:10:28,916 --> 01:10:30,125
+[metal groans]
+
+1289
+01:10:30,208 --> 01:10:31,208
+Fuck.
+
+1290
+01:10:31,291 --> 01:10:33,708
+<i>Our game theory specialist
+is not convinced.</i>
+
+1291
+01:10:33,791 --> 01:10:36,250
+<i>He's uh… concerned about your motivations.</i>
+
+1292
+01:10:36,333 --> 01:10:37,541
+<i>By my calculations,</i>
+
+1293
+01:10:37,625 --> 01:10:40,583
+<i>your proposed plan
+has a 14% chance of success.</i>
+
+1294
+01:10:40,666 --> 01:10:42,916
+<i>To give up that command center
+to a superior force</i>
+
+1295
+01:10:43,000 --> 01:10:44,666
+<i>with no certainty of regaining it</i>
+
+1296
+01:10:44,750 --> 01:10:47,625
+<i>is what we refer to as
+a negative outcome inducing event.</i>
+
+1297
+01:10:47,708 --> 01:10:49,708
+Are you serious with this shit?
+
+1298
+01:10:49,791 --> 01:10:51,875
+<i>Are you willing to gamble
+every life in America</i>
+
+1299
+01:10:51,958 --> 01:10:53,625
+<i>on your ability to retake the center?</i>
+
+1300
+01:10:53,708 --> 01:10:56,208
+[ragged breathing]
+
+1301
+01:10:58,041 --> 01:10:58,916
+I am.
+
+1302
+01:10:59,000 --> 01:11:01,875
+<i>I'm sorry. I cannot endorse such a move.</i>
+
+1303
+01:11:03,166 --> 01:11:07,041
+Listen, genius. You're saying
+my plan is running at 14%?
+
+1304
+01:11:07,125 --> 01:11:08,541
+Yours is zero!
+
+1305
+01:11:08,625 --> 01:11:12,375
+You haven't been beat up, strangled,
+or shot defending this rig today.
+
+1306
+01:11:12,458 --> 01:11:15,333
+So I think you'll find
+I'm kind of fucking motivated here.
+
+1307
+01:11:15,833 --> 01:11:16,958
+<i>We hear you, Captain.</i>
+
+1308
+01:11:17,458 --> 01:11:19,166
+[metal creaking]
+
+1309
+01:11:19,250 --> 01:11:22,500
+I can do this, sir. I know I can.
+
+1310
+01:11:22,583 --> 01:11:24,416
+<i>Half the people here think you're crazy.</i>
+
+1311
+01:11:24,500 --> 01:11:26,625
+<i>The other half think you're a rock star.</i>
+
+1312
+01:11:26,708 --> 01:11:29,166
+<i>Fortunately, I'm one of the latter.</i>
+
+1313
+01:11:29,250 --> 01:11:31,083
+<i>Do what you have to do, Captain.</i>
+
+1314
+01:11:31,583 --> 01:11:32,458
+[hangs up]
+
+1315
+01:11:32,541 --> 01:11:34,250
+[music crescendos]
+
+1316
+01:11:34,333 --> 01:11:35,250
+[beeps]
+
+1317
+01:11:35,333 --> 01:11:36,291
+[Collins] <i>Still there?</i>
+
+1318
+01:11:37,375 --> 01:11:40,125
+- What do you think?
+- [Collins] <i>I think you're getting nervous.</i>
+
+1319
+01:11:40,208 --> 01:11:42,541
+<i>If you fail here,
+your partners will kill you.</i>
+
+1320
+01:11:42,625 --> 01:11:44,541
+<i>You want this room? Come and get it.</i>
+
+1321
+01:11:45,041 --> 01:11:46,333
+[whispers] Intercom off.
+
+1322
+01:11:49,208 --> 01:11:50,291
+Give me the radio.
+
+1323
+01:11:54,333 --> 01:11:55,708
+Beaver, what's your ETA?
+
+1324
+01:11:55,791 --> 01:11:57,333
+[Beaver] <i>About 30 seconds.</i>
+
+1325
+01:11:57,875 --> 01:12:00,291
+She's taped up the window.
+I can't see in the room.
+
+1326
+01:12:00,375 --> 01:12:02,083
+I need you to get in there now.
+
+1327
+01:12:02,166 --> 01:12:03,541
+[Beaver] <i>Relax. I'm there.</i>
+
+1328
+01:12:04,041 --> 01:12:08,125
+[tense instrumental music plays]
+
+1329
+01:12:09,291 --> 01:12:11,333
+[metal groaning]
+
+1330
+01:12:15,333 --> 01:12:16,875
+[panting]
+
+1331
+01:12:23,833 --> 01:12:26,375
+[metal creaking]
+
+1332
+01:12:26,458 --> 01:12:27,666
+[ragged breathing]
+
+1333
+01:12:33,458 --> 01:12:36,416
+I ain't see her. She gone.
+
+1334
+01:12:36,916 --> 01:12:39,041
+[Kessel] <i>What do you mean, gone?</i>
+<i>Where is she?</i>
+
+1335
+01:12:42,500 --> 01:12:43,833
+Shit.
+
+1336
+01:12:43,916 --> 01:12:44,958
+[Kessel]<i> What?</i>
+
+1337
+01:12:45,041 --> 01:12:46,125
+She's on the roof.
+
+1338
+01:12:46,208 --> 01:12:48,541
+[panting]
+
+1339
+01:12:53,000 --> 01:12:56,083
+Attention all missile teams,
+we have control of the interceptor.
+
+1340
+01:12:56,166 --> 01:13:00,125
+Fire all missiles.
+Repeat, fire all missiles.
+
+1341
+01:13:00,208 --> 01:13:03,375
+[dramatic music plays]
+
+1342
+01:13:12,666 --> 01:13:14,833
+[computer voice]
+<i>Multiple missile launch detected.</i>
+
+1343
+01:13:14,916 --> 01:13:16,666
+<i>Multiple missile launch detected.</i>
+
+1344
+01:13:16,750 --> 01:13:20,333
+[Beaver] Woo! Let's go, baby.
+Light 'em up!
+
+1345
+01:13:21,458 --> 01:13:22,833
+[Beaver cackles]
+
+1346
+01:13:22,916 --> 01:13:26,291
+[computer voice]<i> Targets acquired.</i>
+<i>Targets acquired.</i>
+
+1347
+01:13:27,333 --> 01:13:30,750
+<i>Seattle, San Francisco,
+Las Vegas, Denver, St. Louis, Memphis,</i>
+
+1348
+01:13:30,833 --> 01:13:33,291
+<i>Chicago, Cincinnati,
+Atlanta, Miami, Washington DC,</i>
+
+1349
+01:13:33,375 --> 01:13:35,750
+<i>Boston, New York, Dallas, Philadelphia.</i>
+
+1350
+01:13:35,833 --> 01:13:36,750
+Kill her.
+
+1351
+01:13:37,250 --> 01:13:38,125
+[grunts]
+
+1352
+01:13:38,208 --> 01:13:39,041
+[sniffs]
+
+1353
+01:13:42,041 --> 01:13:43,541
+[Beaver] She come for me.
+
+1354
+01:13:43,625 --> 01:13:45,666
+[grunts, chuckles]
+
+1355
+01:13:46,875 --> 01:13:48,625
+"Come make ten million," he says.
+
+1356
+01:13:49,458 --> 01:13:52,250
+"Buy yourself a private island," he says.
+"Piece of cake."
+
+1357
+01:13:52,333 --> 01:13:53,208
+[laughs]
+
+1358
+01:13:54,083 --> 01:13:55,541
+Oh, man. [inhales]
+
+1359
+01:13:57,416 --> 01:13:58,583
+Nope.
+
+1360
+01:14:00,083 --> 01:14:01,250
+Give me your knife.
+
+1361
+01:14:02,250 --> 01:14:03,375
+Do it.
+
+1362
+01:14:09,916 --> 01:14:11,583
+[music builds]
+
+1363
+01:14:11,666 --> 01:14:14,541
+[beeping]
+
+1364
+01:14:14,625 --> 01:14:15,583
+Acid.
+
+1365
+01:14:21,291 --> 01:14:24,291
+[tense instrumental music plays]
+
+1366
+01:14:33,416 --> 01:14:35,958
+[Beaver] Where are you, darlin'?
+
+1367
+01:14:43,875 --> 01:14:46,500
+[in singsong]
+Come out, come out, wherever you are.
+
+1368
+01:14:47,708 --> 01:14:51,041
+Apologies, ladies and gentlemen,
+for that rude interruption,
+
+1369
+01:14:51,125 --> 01:14:52,625
+but as you can see,
+
+1370
+01:14:52,708 --> 01:14:57,500
+I have retaken this command center
+and the nukes are on their way.
+
+1371
+01:14:57,583 --> 01:14:59,625
+[sizzling]
+
+1372
+01:15:18,166 --> 01:15:20,083
+[grunts, sighs]
+
+1373
+01:15:20,166 --> 01:15:22,416
+Hey, the goalie ain't up here.
+
+1374
+01:15:25,500 --> 01:15:27,791
+She has to be. Where else could she…
+
+1375
+01:15:27,875 --> 01:15:28,875
+[metal creaks]
+
+1376
+01:15:28,958 --> 01:15:30,125
+…be?
+
+1377
+01:15:30,208 --> 01:15:33,333
+[metal groaning]
+
+1378
+01:15:33,416 --> 01:15:35,625
+[metal creaking]
+
+1379
+01:15:38,791 --> 01:15:40,666
+She is on the roof, Beaver.
+
+1380
+01:15:41,916 --> 01:15:43,333
+There's no one down here.
+
+1381
+01:15:49,041 --> 01:15:50,750
+[music builds]
+
+1382
+01:15:51,250 --> 01:15:52,291
+[bullets ricochet]
+
+1383
+01:15:52,375 --> 01:15:56,250
+[eerie instrumental music plays]
+
+1384
+01:15:56,333 --> 01:15:58,250
+[metal creaks]
+
+1385
+01:16:01,333 --> 01:16:02,750
+[metal groans]
+
+1386
+01:16:06,375 --> 01:16:08,458
+[creaking]
+
+1387
+01:16:08,541 --> 01:16:10,750
+[tense music playing]
+
+1388
+01:16:10,833 --> 01:16:13,791
+[metal groaning]
+
+1389
+01:16:15,375 --> 01:16:18,833
+[computer voice] <i>Intercept launch expires</i>
+<i>in eight minutes.</i>
+
+1390
+01:16:20,958 --> 01:16:22,125
+[creaking]
+
+1391
+01:16:29,250 --> 01:16:32,166
+[metal groaning]
+
+1392
+01:16:33,750 --> 01:16:35,041
+[ragged breathing]
+
+1393
+01:16:36,583 --> 01:16:37,666
+[whispers] Ivan.
+
+1394
+01:16:42,833 --> 01:16:45,000
+[ragged breathing]
+
+1395
+01:16:49,875 --> 01:16:51,458
+[music swells]
+
+1396
+01:16:53,333 --> 01:16:54,666
+[gasping]
+
+1397
+01:16:56,083 --> 01:16:57,333
+[bullets whizzing]
+
+1398
+01:16:59,333 --> 01:17:00,291
+[bullets ricochet]
+
+1399
+01:17:00,375 --> 01:17:01,208
+[clicking]
+
+1400
+01:17:11,791 --> 01:17:15,083
+[computer voice] <i>Intercept launch expires</i>
+<i>in seven minutes.</i>
+
+1401
+01:17:15,166 --> 01:17:16,291
+Come on.
+
+1402
+01:17:19,500 --> 01:17:22,791
+[tense music plays]
+
+1403
+01:17:26,166 --> 01:17:27,125
+[gasps]
+
+1404
+01:17:30,458 --> 01:17:31,958
+[rumbling]
+
+1405
+01:17:32,041 --> 01:17:33,625
+[music builds]
+
+1406
+01:17:38,458 --> 01:17:40,333
+[rumbling]
+
+1407
+01:17:46,500 --> 01:17:47,500
+[grunts]
+
+1408
+01:18:07,708 --> 01:18:10,375
+[suspenseful music plays]
+
+1409
+01:18:10,875 --> 01:18:12,333
+[metal groans]
+
+1410
+01:18:38,125 --> 01:18:39,583
+[beeping]
+
+1411
+01:18:40,666 --> 01:18:42,291
+[chiming, beeping]
+
+1412
+01:18:44,291 --> 01:18:46,125
+[beeps]
+
+1413
+01:18:48,125 --> 01:18:49,250
+[music crescendos]
+
+1414
+01:18:49,750 --> 01:18:50,583
+[gasps]
+
+1415
+01:18:51,666 --> 01:18:53,708
+[Beaver] Can't let you do that, darlin'.
+
+1416
+01:18:54,208 --> 01:18:55,500
+[grunts]
+
+1417
+01:18:55,583 --> 01:18:56,666
+[beeping]
+
+1418
+01:18:56,750 --> 01:18:57,875
+[chiming]
+
+1419
+01:18:57,958 --> 01:19:00,291
+[grunting, panting]
+
+1420
+01:19:00,375 --> 01:19:03,083
+Let me go, Beaver. You don't want this.
+
+1421
+01:19:03,166 --> 01:19:05,791
+Hell, I told you what I wanted.
+
+1422
+01:19:05,875 --> 01:19:07,291
+[ragged breathing]
+
+1423
+01:19:07,375 --> 01:19:08,916
+You're gonna die here.
+
+1424
+01:19:09,416 --> 01:19:10,958
+No, I'm not.
+
+1425
+01:19:11,458 --> 01:19:14,166
+I'm on the next submarine out of here.
+[chuckles]
+
+1426
+01:19:14,833 --> 01:19:16,208
+With Alexander?
+
+1427
+01:19:16,958 --> 01:19:19,041
+He's gone. [panting]
+
+1428
+01:19:19,125 --> 01:19:20,750
+- [Collins groans]
+- [Beaver] Bullshit.
+
+1429
+01:19:20,833 --> 01:19:21,666
+[grunts]
+
+1430
+01:19:23,791 --> 01:19:25,166
+I saw him go.
+
+1431
+01:19:25,875 --> 01:19:28,250
+[grunting]
+
+1432
+01:19:28,333 --> 01:19:30,333
+[tense music plays]
+
+1433
+01:19:32,250 --> 01:19:35,583
+[grunting]
+
+1434
+01:19:37,375 --> 01:19:38,291
+[grunts]
+
+1435
+01:19:39,000 --> 01:19:40,208
+You can fight.
+
+1436
+01:19:40,750 --> 01:19:44,500
+[panting, grunting]
+
+1437
+01:19:44,583 --> 01:19:47,333
+[computer voice] <i>Intercept launch expires</i>
+<i>in five minutes.</i>
+
+1438
+01:19:47,416 --> 01:19:49,166
+[beeping]
+
+1439
+01:19:49,250 --> 01:19:51,458
+[grunting]
+
+1440
+01:19:51,541 --> 01:19:52,625
+[groans]
+
+1441
+01:19:52,708 --> 01:19:56,541
+[panting, grunting]
+
+1442
+01:19:58,625 --> 01:19:59,458
+[groans]
+
+1443
+01:20:02,875 --> 01:20:05,083
+[grunting]
+
+1444
+01:20:05,166 --> 01:20:06,291
+[groans]
+
+1445
+01:20:06,375 --> 01:20:10,291
+[panting, grunting]
+
+1446
+01:20:10,375 --> 01:20:12,083
+[groaning]
+
+1447
+01:20:12,166 --> 01:20:14,375
+[grunting, panting]
+
+1448
+01:20:14,458 --> 01:20:18,125
+[snickers] Really think a little bit
+of razor wire is gonna kill me?
+
+1449
+01:20:18,708 --> 01:20:20,916
+Gravity, darlin'.
+
+1450
+01:20:21,000 --> 01:20:24,250
+[grunting]
+
+1451
+01:20:24,333 --> 01:20:27,958
+[yelling]
+
+1452
+01:20:28,500 --> 01:20:29,541
+[grunts]
+
+1453
+01:20:29,625 --> 01:20:31,250
+[music crescendos]
+
+1454
+01:20:44,958 --> 01:20:48,125
+[tense music plays]
+
+1455
+01:20:54,500 --> 01:20:57,125
+[father] <i>JJ… JJ, come on.</i>
+
+1456
+01:20:57,875 --> 01:21:00,791
+What's the one thing
+I've taught you since you were little?
+
+1457
+01:21:00,875 --> 01:21:02,875
+The one rule in life?
+
+1458
+01:21:05,166 --> 01:21:06,916
+Never stop fighting.
+
+1459
+01:21:07,000 --> 01:21:09,500
+[uplifting music swells]
+
+1460
+01:21:19,083 --> 01:21:21,833
+[dramatic music plays]
+
+1461
+01:21:25,916 --> 01:21:29,583
+[computer voice] <i>Intercept launch expires</i>
+<i>in three minutes.</i>
+
+1462
+01:21:29,666 --> 01:21:31,291
+[panting]
+
+1463
+01:21:42,375 --> 01:21:43,416
+[ragged breathing]
+
+1464
+01:21:49,791 --> 01:21:51,666
+[grunting, panting]
+
+1465
+01:21:52,458 --> 01:21:53,708
+[groaning]
+
+1466
+01:21:55,500 --> 01:21:56,500
+[grunts]
+
+1467
+01:21:58,166 --> 01:21:59,625
+[grunting]
+
+1468
+01:22:00,791 --> 01:22:01,708
+[gasping]
+
+1469
+01:22:03,083 --> 01:22:05,083
+[music builds]
+
+1470
+01:22:11,625 --> 01:22:14,583
+[grunting]
+
+1471
+01:22:16,000 --> 01:22:16,875
+[grunts]
+
+1472
+01:22:19,083 --> 01:22:20,041
+[groans]
+
+1473
+01:22:22,458 --> 01:22:23,333
+[gasps]
+
+1474
+01:22:23,416 --> 01:22:24,833
+[uplifting music swells]
+
+1475
+01:22:31,000 --> 01:22:32,750
+[tense music plays]
+
+1476
+01:22:38,750 --> 01:22:39,583
+[grunts]
+
+1477
+01:22:42,291 --> 01:22:45,958
+[computer voice] <i>Intercept launch</i>
+<i>expires in 60 seconds.</i>
+
+1478
+01:22:46,916 --> 01:22:48,041
+There she is!
+
+1479
+01:22:48,125 --> 01:22:49,375
+There she is!
+
+1480
+01:22:53,708 --> 01:22:55,583
+Get up. Get up!
+
+1481
+01:22:55,666 --> 01:22:57,375
+[metal groaning]
+
+1482
+01:22:57,458 --> 01:23:01,208
+[computer voice] <i>Intercept launch</i>
+<i>expires in 40 seconds.</i>
+
+1483
+01:23:02,958 --> 01:23:06,625
+[panting] Don't give up. Don't give up.
+
+1484
+01:23:07,125 --> 01:23:10,375
+[computer voice] <i>Intercept launch</i>
+<i>expires in 30 seconds.</i>
+
+1485
+01:23:10,458 --> 01:23:11,375
+[groans]
+
+1486
+01:23:12,916 --> 01:23:14,750
+[metal creaking]
+
+1487
+01:23:17,000 --> 01:23:18,375
+[metal groaning]
+
+1488
+01:23:18,458 --> 01:23:22,041
+[computer voice] <i>Intercept launch</i>
+<i>expires in 20 seconds.</i>
+
+1489
+01:23:25,083 --> 01:23:26,541
+[tense music builds]
+
+1490
+01:23:26,625 --> 01:23:31,666
+[grunting, panting]
+
+1491
+01:23:31,750 --> 01:23:37,250
+[computer voice] <i>Ten seconds.</i>
+<i>Nine, eight, seven, six,</i>
+
+1492
+01:23:37,750 --> 01:23:42,250
+<i>five, four, three, two, one.</i>
+
+1493
+01:23:42,750 --> 01:23:44,416
+[panting]
+
+1494
+01:23:44,500 --> 01:23:45,666
+[chiming]
+
+1495
+01:23:45,750 --> 01:23:47,958
+[computer voice] <i>Interceptors launched.</i>
+
+1496
+01:23:48,041 --> 01:23:49,041
+[beeping tone]
+
+1497
+01:23:51,500 --> 01:23:56,625
+[missiles whistling]
+
+1498
+01:24:11,416 --> 01:24:12,500
+[sighing]
+
+1499
+01:24:17,333 --> 01:24:19,333
+[grunting]
+
+1500
+01:24:19,416 --> 01:24:20,750
+[ragged breathing]
+
+1501
+01:24:23,083 --> 01:24:25,541
+Come on. Come on. Come on.
+
+1502
+01:24:45,541 --> 01:24:47,791
+[music builds]
+
+1503
+01:24:48,541 --> 01:24:49,375
+[gasps]
+
+1504
+01:24:59,583 --> 01:25:00,666
+[sighs]
+
+1505
+01:25:00,750 --> 01:25:04,375
+{\an8}[computer voice] <i>Multiple missile</i>
+<i>interception complete.</i>
+
+1506
+01:25:04,458 --> 01:25:06,166
+[uplifting music swells]
+
+1507
+01:25:06,250 --> 01:25:08,791
+[cheering]
+
+1508
+01:25:08,875 --> 01:25:11,250
+Yeah! Woo-hoo!
+
+1509
+01:25:11,333 --> 01:25:12,875
+[sighs]
+
+1510
+01:25:12,958 --> 01:25:15,333
+[Dyson] Thank you. Thank you.
+
+1511
+01:25:15,416 --> 01:25:17,083
+[indistinct chatter]
+
+1512
+01:25:19,250 --> 01:25:20,750
+Fourteen percent.
+
+1513
+01:25:21,958 --> 01:25:22,916
+Huh.
+
+1514
+01:25:23,791 --> 01:25:24,958
+[metal groaning]
+
+1515
+01:25:27,041 --> 01:25:28,625
+[sighing]
+
+1516
+01:25:39,458 --> 01:25:43,166
+[metal creaking]
+
+1517
+01:25:45,083 --> 01:25:46,166
+[Kessel] Look at you.
+
+1518
+01:25:48,000 --> 01:25:49,083
+Still going, huh?
+
+1519
+01:25:50,416 --> 01:25:52,666
+You know you really did fuck up my day.
+
+1520
+01:25:53,166 --> 01:25:55,125
+But I brought America to the brink,
+
+1521
+01:25:56,291 --> 01:25:57,375
+and I'll do it again.
+
+1522
+01:25:57,458 --> 01:25:59,083
+[tense music plays]
+
+1523
+01:25:59,166 --> 01:26:02,125
+[grunting]
+
+1524
+01:26:02,875 --> 01:26:07,583
+[panting, grunting]
+
+1525
+01:26:07,666 --> 01:26:08,541
+[groans]
+
+1526
+01:26:08,625 --> 01:26:09,500
+[gasps]
+
+1527
+01:26:11,208 --> 01:26:14,083
+You may have won the battle,
+but not the war.
+
+1528
+01:26:14,166 --> 01:26:16,625
+[grunting]
+
+1529
+01:26:16,708 --> 01:26:18,208
+- [bones crunch]
+- [groans]
+
+1530
+01:26:18,291 --> 01:26:21,708
+[panting] Told you. War's not over yet.
+
+1531
+01:26:21,791 --> 01:26:23,750
+[grunting]
+
+1532
+01:26:28,541 --> 01:26:30,333
+[panting, grunting]
+
+1533
+01:26:30,416 --> 01:26:31,708
+This is for my dad, asshole.
+
+1534
+01:26:31,791 --> 01:26:34,708
+- [bones crunch]
+- [Kessel groans]
+
+1535
+01:26:35,416 --> 01:26:36,833
+[Kessel gasps]
+
+1536
+01:26:37,875 --> 01:26:41,041
+[mechanical rumbling]
+
+1537
+01:26:41,125 --> 01:26:42,625
+[Kessel] There's my ride.
+
+1538
+01:26:42,708 --> 01:26:44,708
+[chuckling]
+
+1539
+01:26:44,791 --> 01:26:47,291
+[dramatic music plays]
+
+1540
+01:26:47,375 --> 01:26:48,833
+[rumbling]
+
+1541
+01:26:48,916 --> 01:26:51,083
+[laughing]
+
+1542
+01:26:51,166 --> 01:26:53,375
+[panting, grunting]
+
+1543
+01:26:53,458 --> 01:26:55,125
+[Kessel] There's no room for you.
+
+1544
+01:26:58,541 --> 01:27:01,041
+[man 1, in Russian] <i>I've arrived.</i>
+<i>I can see him.</i>
+
+1545
+01:27:02,041 --> 01:27:04,500
+[man 2, in Russian] <i>You know what to do.</i>
+
+1546
+01:27:04,583 --> 01:27:06,041
+[man 1] <i>What about the woman?</i>
+
+1547
+01:27:07,833 --> 01:27:10,000
+[man 2] <i>Your choice.</i>
+
+1548
+01:27:10,958 --> 01:27:11,958
+[clanking]
+
+1549
+01:27:18,083 --> 01:27:21,000
+[laughing, panting]
+
+1550
+01:27:21,083 --> 01:27:22,291
+[Kessel laughs]
+
+1551
+01:27:22,791 --> 01:27:23,625
+[sighs]
+
+1552
+01:27:26,250 --> 01:27:29,416
+[grunting, gasping]
+
+1553
+01:27:30,375 --> 01:27:31,500
+[sighs]
+
+1554
+01:27:36,083 --> 01:27:37,000
+[gasps]
+
+1555
+01:27:40,500 --> 01:27:43,125
+[dramatic music plays]
+
+1556
+01:27:47,333 --> 01:27:48,333
+[rumbling]
+
+1557
+01:27:50,083 --> 01:27:51,083
+[sighs]
+
+1558
+01:27:54,333 --> 01:27:57,458
+[uplifting music swells]
+
+1559
+01:28:04,666 --> 01:28:07,208
+[pilot, in English] <i>Target in sight.</i>
+<i>We'll arrive in 30 seconds.</i>
+
+1560
+01:28:07,291 --> 01:28:10,000
+<i>Contact. Russian submarine
+looks like it's bugging out.</i>
+
+1561
+01:28:11,083 --> 01:28:13,541
+<i>We have visual on
+Captain Collins on the roof.</i>
+
+1562
+01:28:18,541 --> 01:28:23,041
+[heart monitor beeping]
+
+1563
+01:28:31,416 --> 01:28:32,250
+[knocking]
+
+1564
+01:28:32,791 --> 01:28:34,000
+[door opening]
+
+1565
+01:28:35,916 --> 01:28:37,125
+Madam President.
+
+1566
+01:28:37,666 --> 01:28:42,583
+They told me you were awake.
+It is good to see you, Captain.
+
+1567
+01:28:42,666 --> 01:28:43,541
+Is Fort Greely...
+
+1568
+01:28:43,625 --> 01:28:46,291
+[President] Greely's back up.
+Interceptors on standby.
+
+1569
+01:28:46,375 --> 01:28:49,041
+And we're going to replace
+SBX-1 as soon as possible,
+
+1570
+01:28:49,125 --> 01:28:52,875
+but don't worry, nobody is going
+to send you back out there.
+
+1571
+01:28:52,958 --> 01:28:55,833
+In fact, I think a soldier of your caliber
+
+1572
+01:28:55,916 --> 01:28:59,541
+would be better put to use
+on my National Security staff.
+
+1573
+01:28:59,625 --> 01:29:00,708
+What do you say?
+
+1574
+01:29:00,791 --> 01:29:02,000
+[sighs]
+
+1575
+01:29:02,500 --> 01:29:04,333
+[President] I'll take that as a yes.
+
+1576
+01:29:05,208 --> 01:29:07,291
+Thank you, Madam President.
+
+1577
+01:29:07,375 --> 01:29:08,791
+Oh, and you have another visitor.
+
+1578
+01:29:10,291 --> 01:29:11,458
+[Collins gasps]
+
+1579
+01:29:12,291 --> 01:29:14,125
+- Papa?
+- JJ.
+
+1580
+01:29:15,125 --> 01:29:16,833
+I… I thought you were…
+
+1581
+01:29:16,916 --> 01:29:18,500
+[poignant music plays]
+
+1582
+01:29:18,583 --> 01:29:21,958
+Turns out your dad has
+some very well-armed Army buddies
+
+1583
+01:29:22,041 --> 01:29:24,333
+watching over him in that retirement home.
+
+1584
+01:29:24,416 --> 01:29:26,041
+They saw what was happening on TV.
+
+1585
+01:29:26,125 --> 01:29:27,708
+Broke down my goddamn door.
+
+1586
+01:29:27,791 --> 01:29:29,250
+[inhales]
+
+1587
+01:29:29,333 --> 01:29:31,541
+Saved my finger. Lost my door.
+
+1588
+01:29:31,625 --> 01:29:32,958
+[sniffling]
+
+1589
+01:29:33,041 --> 01:29:34,125
+[gasps]
+
+1590
+01:29:34,208 --> 01:29:38,416
+Well, I'll expect you to report to
+the White House next week, Captain.
+
+1591
+01:29:43,000 --> 01:29:44,708
+Come here. Dad.
+
+1592
+01:29:45,208 --> 01:29:46,041
+[father] Hey.
+
+1593
+01:29:46,708 --> 01:29:47,666
+[Collins sighs]
+
+1594
+01:29:47,750 --> 01:29:48,875
+Oh. Uh…
+
+1595
+01:29:50,791 --> 01:29:51,833
+This is for you.
+
+1596
+01:29:56,166 --> 01:29:57,375
+Another survivor.
+
+1597
+01:29:57,458 --> 01:29:58,666
+[Collins chuckles]
+
+1598
+01:29:58,750 --> 01:29:59,708
+Turbo.
+
+1599
+01:29:59,791 --> 01:30:02,791
+SEAL team found him
+swimming around the wreckage of SBX-1.
+
+1600
+01:30:04,416 --> 01:30:06,166
+He belonged to Corporal Shah.
+
+1601
+01:30:06,666 --> 01:30:10,125
+[father sighs]
+I heard what happened. I'm sorry.
+
+1602
+01:30:10,916 --> 01:30:12,125
+[sighing]
+
+1603
+01:30:12,208 --> 01:30:14,250
+You know, sometimes it's…
+
+1604
+01:30:14,333 --> 01:30:17,416
+It's best to talk about
+those we've lost so we don't forget.
+
+1605
+01:30:19,541 --> 01:30:20,583
+[sighs]
+
+1606
+01:30:21,583 --> 01:30:23,041
+His name was Rahul.
+
+1607
+01:30:23,541 --> 01:30:24,791
+[father] Rahul?
+
+1608
+01:30:25,291 --> 01:30:26,250
+He liked poker…
+
+1609
+01:30:26,750 --> 01:30:27,791
+[father] I see.
+
+1610
+01:30:27,875 --> 01:30:29,833
+…but he wasn't very good at it.
+
+1611
+01:30:29,916 --> 01:30:31,541
+[laughing]
+
+1612
+01:30:32,458 --> 01:30:39,458
+[indistinct conversation]
+
+1613
+01:30:39,541 --> 01:30:41,083
+[music crescendos]
+
+1614
+01:30:41,166 --> 01:30:43,041
+[speaking indistinctly]
+
+1615
+01:30:43,125 --> 01:30:46,791
+[dramatic instrumental music plays]
+
+1616
+01:32:21,375 --> 01:32:23,875
+[mechanical humming]
+
+1617
+01:32:30,500 --> 01:32:34,250
+[dramatic instrumental music plays]
+

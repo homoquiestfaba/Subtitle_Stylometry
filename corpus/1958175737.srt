@@ -1,0 +1,5282 @@
+﻿1
+00:00:06,715 --> 00:00:09,926
+<i>[ANNOUNCER]
+Atlanta, we've been waiting for this one!</i>
+
+2
+00:00:10,010 --> 00:00:12,262
+<i>- This is The 85 South Show!
+- [AUDIENCE CHEERING]</i>
+
+3
+00:00:12,345 --> 00:00:15,432
+<i>- There is no other show like this.
+- [BAND PLAYING R&B MUSIC]</i>
+
+4
+00:00:15,515 --> 00:00:19,436
+<i>We've got three of the funniest people
+on the planet on one stage,</i>
+
+5
+00:00:19,519 --> 00:00:21,271
+<i>and it's all improv.</i>
+
+6
+00:00:23,690 --> 00:00:28,570
+<i>You've seen him on Wild N' Out,
+Comedy Central, and BET.</i>
+
+7
+00:00:28,653 --> 00:00:30,363
+<i>From Washington, DC,</i>
+
+8
+00:00:30,447 --> 00:00:33,241
+<i>we've got Chico Bean!</i>
+
+9
+00:00:33,324 --> 00:00:35,285
+<i>[AUDIENCE CHEERING AND APPLAUDING]</i>
+
+10
+00:00:35,368 --> 00:00:39,873
+<i>He started out his comedy career
+as a social media superstar,</i>
+
+11
+00:00:39,956 --> 00:00:44,002
+<i>and now he's selling out arenas
+all across the country.</i>
+
+12
+00:00:44,085 --> 00:00:45,879
+<i>He's from the westside of Atlanta.</i>
+
+13
+00:00:45,962 --> 00:00:49,174
+<i>DC Young Fly!</i>
+
+14
+00:00:49,257 --> 00:00:51,009
+<i>[AUDIENCE CHEERING AND APPLAUDING]</i>
+
+15
+00:00:51,092 --> 00:00:57,098
+<i>You've seen him on Last Comic Standing,
+Wild 'N Out, and All Def Comedy.</i>
+
+16
+00:00:57,182 --> 00:00:58,558
+<i>From Oxford, Mississippi,</i>
+
+17
+00:00:59,142 --> 00:01:01,102
+<i>Karlous Miller!</i>
+
+18
+00:01:01,186 --> 00:01:02,771
+<i>[AUDIENCE CHEERING AND APPLAUDING]</i>
+
+19
+00:01:02,854 --> 00:01:05,607
+<i>This is The 85 South Show,</i>
+
+20
+00:01:05,690 --> 00:01:07,108
+<i>Ghetto Legends!</i>
+
+21
+00:01:07,984 --> 00:01:11,112
+{\an8}<i>With special guests Rich Homie Quan</i>
+
+22
+00:01:11,196 --> 00:01:14,324
+{\an8}<i>and Goodie Mob!</i>
+
+23
+00:01:14,407 --> 00:01:16,409
+<i>[AUDIENCE CHEERING AND APPLAUDING]</i>
+
+24
+00:01:19,412 --> 00:01:22,290
+<i>- Uh-oh!
+- Yeah!</i>
+
+25
+00:01:22,791 --> 00:01:25,418
+<i>- ♪ ATL! ♪
+- ♪ Wow! ♪</i>
+
+26
+00:01:26,127 --> 00:01:29,005
+<i>- ♪ ATL! ♪
+- [CHICO] ♪ Yeah! ♪</i>
+
+27
+00:01:29,631 --> 00:01:31,841
+<i>♪ Where we at? ♪</i>
+
+28
+00:01:31,925 --> 00:01:32,801
+<i>[DC] Where we...</i>
+
+29
+00:01:32,884 --> 00:01:36,763
+<i>- ♪ ATL ♪
+- ♪ ATL ♪</i>
+
+30
+00:01:36,846 --> 00:01:38,056
+<i>♪ ATL ♪</i>
+
+31
+00:01:38,139 --> 00:01:40,058
+<i>- ♪ We in the... ♪
+- ♪ ATL ♪</i>
+
+32
+00:01:40,141 --> 00:01:42,894
+<i>- ♪ We in the ATL ♪
+- ♪ ATL ♪</i>
+
+33
+00:01:42,977 --> 00:01:44,938
+<i>- Yes, sir!
+- ♪ ATL ♪</i>
+
+34
+00:01:45,021 --> 00:01:47,982
+<i>- Atlanta, westside!
+- [CHICO] ♪ ATL ♪</i>
+
+35
+00:01:49,150 --> 00:01:52,570
+<i>Westside, the motherfucking
+best side, bitch!</i>
+
+36
+00:01:54,739 --> 00:01:56,116
+<i>Atlanta, what's happening?</i>
+
+37
+00:01:56,699 --> 00:01:57,617
+<i>Uh-oh!</i>
+
+38
+00:02:00,161 --> 00:02:01,162
+<i>Oh!</i>
+
+39
+00:02:01,830 --> 00:02:04,332
+<i>- This motherfucker lit good.
+- Ooh.</i>
+
+40
+00:02:04,415 --> 00:02:05,834
+<i>This shit look good.</i>
+
+41
+00:02:05,917 --> 00:02:08,962
+<i>Look at this shit, looking like
+Morris Brown in this motherfucker!</i>
+
+42
+00:02:09,045 --> 00:02:10,130
+<i>What it look like?</i>
+
+43
+00:02:11,256 --> 00:02:13,550
+<i>♪ We got a band in the ATL ♪</i>
+
+44
+00:02:13,633 --> 00:02:17,095
+<i>♪ They playing music
+And they playing that shit oh so swell ♪</i>
+
+45
+00:02:17,178 --> 00:02:20,473
+<i>♪ We in the ATL
+You know we do it big ♪</i>
+
+46
+00:02:20,557 --> 00:02:23,935
+<i>♪ This is The 85 South Show
+And we the shit ♪</i>
+
+47
+00:02:24,018 --> 00:02:27,188
+<i>♪ We got a lady on the violin
+That's playing strings ♪</i>
+
+48
+00:02:27,272 --> 00:02:30,650
+<i>♪ We got a nigga on the horn
+He be bah-bah-ing ♪</i>
+
+49
+00:02:30,733 --> 00:02:34,112
+<i>♪ We got a nigga on the drums
+He be drumming good ♪</i>
+
+50
+00:02:34,195 --> 00:02:36,197
+<i>♪ We got my nigga J.O.N. ♪</i>
+
+51
+00:02:36,281 --> 00:02:37,907
+<i>- ♪ He be screamin' "uh!" ♪
+- ♪ Hold up ♪</i>
+
+52
+00:02:37,991 --> 00:02:41,161
+<i>♪ Hold up, Chico
+Let me take you to my hood, ya dig? ♪</i>
+
+53
+00:02:41,661 --> 00:02:44,164
+<i>♪ Adamsville, Zone 4, yeah
+Where it's all good, ya dig? ♪</i>
+
+54
+00:02:44,247 --> 00:02:45,081
+<i>♪ Yeah ♪</i>
+
+55
+00:02:45,165 --> 00:02:47,750
+<i>♪ Martin Luther King, Bankhead ♪</i>
+
+56
+00:02:48,501 --> 00:02:51,296
+<i>♪ Them girls over there
+Their coochie... stankin' ♪</i>
+
+57
+00:02:51,379 --> 00:02:53,673
+<i>♪ What? No! Hold up, no, uh-uh ♪</i>
+
+58
+00:02:54,716 --> 00:02:56,551
+<i>♪ What? No! Uh-uh! Hold up ♪</i>
+
+59
+00:02:56,634 --> 00:02:58,428
+<i>She from Echo Ridge, that shit stank!</i>
+
+60
+00:02:58,511 --> 00:03:00,221
+<i>♪ What? No, uh-uh, no, hold up ♪</i>
+
+61
+00:03:00,305 --> 00:03:01,556
+<i>- Talk to 'em, Lous.
+- Hold up.</i>
+
+62
+00:03:01,639 --> 00:03:04,475
+<i>Hold up. Y'all think it's a game.
+Stop. Stop everything.</i>
+
+63
+00:03:04,559 --> 00:03:06,269
+<i>- Hold up. Stop everything.
+- [DC] Yo.</i>
+
+64
+00:03:06,352 --> 00:03:08,354
+<i>- You think it's a game.
+- [DC] What?</i>
+
+65
+00:03:08,438 --> 00:03:10,231
+<i>I got a Black girl that play the violin.</i>
+
+66
+00:03:10,315 --> 00:03:11,649
+<i>- You're bullshitting.
+- Watch.</i>
+
+67
+00:03:11,733 --> 00:03:13,735
+<i>Turn it back up, watch this!</i>
+
+68
+00:03:14,485 --> 00:03:15,737
+<i>[PLAYING INTRICATE MELODY]</i>
+
+69
+00:03:15,820 --> 00:03:17,822
+<i>[DC] Beethoven ain't got shit on you.</i>
+
+70
+00:03:19,073 --> 00:03:20,033
+<i>Yo.</i>
+
+71
+00:03:21,159 --> 00:03:24,537
+<i>- ♪ A-T-L-A-N-T-A ♪
+- Give me one more and one below.</i>
+
+72
+00:03:25,205 --> 00:03:27,874
+<i>- [DC] Yo, I like that.
+- [KARLOUS] Yeah, I like that.</i>
+
+73
+00:03:28,374 --> 00:03:29,500
+<i>Do the high pitch.</i>
+
+74
+00:03:30,001 --> 00:03:32,003
+<i>[PLAYING ASCENDING MELODY]</i>
+
+75
+00:03:34,672 --> 00:03:36,132
+<i>- Damn!
+- [KARLOUS] Ooh!</i>
+
+76
+00:03:36,758 --> 00:03:39,928
+<i>Do that one more time.
+That sounded like good head. Do that.</i>
+
+77
+00:03:40,637 --> 00:03:42,555
+<i>I had some head
+sounded like that one time.</i>
+
+78
+00:03:42,639 --> 00:03:44,724
+<i>- [PLAYING ASCENDING MELODY]
+- [AUDIENCE LAUGHS]</i>
+
+79
+00:03:45,516 --> 00:03:48,728
+<i>She must've just brushed her teeth
+if the head sounded like that.</i>
+
+80
+00:03:48,811 --> 00:03:50,104
+<i>[DC] I don't want head like that.</i>
+
+81
+00:03:50,188 --> 00:03:52,649
+<i>Don't it look like
+her titties kept playing in the car?</i>
+
+82
+00:03:52,732 --> 00:03:55,068
+<i>She separated 'em.
+"Get over there, get over there."</i>
+
+83
+00:03:56,361 --> 00:03:57,570
+<i>"I'm sick of this."</i>
+
+84
+00:03:57,654 --> 00:03:59,697
+<i>I bet when you take that goddamn bra off,</i>
+
+85
+00:03:59,781 --> 00:04:01,741
+<i>your titties drop
+like an old-school rapper.</i>
+
+86
+00:04:04,702 --> 00:04:05,912
+<i>How y'all feel?</i>
+
+87
+00:04:05,995 --> 00:04:07,997
+<i>[AUDIENCE CHEERING AND WHOOPING]</i>
+
+88
+00:04:09,332 --> 00:04:10,667
+<i>This shit crazy!</i>
+
+89
+00:04:13,253 --> 00:04:14,837
+<i>Y'all might as well enjoy yourself.</i>
+
+90
+00:04:14,921 --> 00:04:17,006
+<i>You know your car
+getting broke into tonight.</i>
+
+91
+00:04:17,090 --> 00:04:18,049
+<i>[AUDIENCE LAUGHS]</i>
+
+92
+00:04:18,132 --> 00:04:21,135
+<i>We are in Atlanta, the home of...</i>
+
+93
+00:04:21,219 --> 00:04:23,763
+<i>You gotta roll your windows down
+and unlock your car</i>
+
+94
+00:04:23,846 --> 00:04:25,515
+<i>so your shit don't get broke into.</i>
+
+95
+00:04:27,642 --> 00:04:29,310
+<i>- [WOMAN] It's my birthday!
+- Who birthday?</i>
+
+96
+00:04:29,894 --> 00:04:31,354
+<i>Not with that dress on.</i>
+
+97
+00:04:32,272 --> 00:04:35,275
+<i>- Shit... yes, it is.
+- You went to Party City, you trippin'.</i>
+
+98
+00:04:36,025 --> 00:04:37,026
+<i>Wait a fucking minute.</i>
+
+99
+00:04:37,110 --> 00:04:39,487
+<i>She stood up and said, "It's my birthday!"</i>
+
+100
+00:04:39,570 --> 00:04:41,322
+<i>Her nigga said, "Don't look hard."</i>
+
+101
+00:04:42,824 --> 00:04:46,369
+<i>Nigga, you know I don't want her.
+You don't even half want her.</i>
+
+102
+00:04:46,452 --> 00:04:48,871
+<i>[DC] Here in a little turtleneck.
+Nigga look like a priest.</i>
+
+103
+00:04:48,955 --> 00:04:51,958
+<i>He told me don't look at her,
+but his girl about to hug DC.</i>
+
+104
+00:04:52,041 --> 00:04:53,543
+<i>You a terrible boyfriend.</i>
+
+105
+00:04:56,379 --> 00:04:58,256
+<i>Don't worry about it. Sit on down.</i>
+
+106
+00:04:58,339 --> 00:05:01,843
+<i>See? You arguing with me,
+and she over there being for the streets.</i>
+
+107
+00:05:01,926 --> 00:05:03,344
+<i>Yeah, it's all good.</i>
+
+108
+00:05:03,428 --> 00:05:05,722
+<i>She got that lip ring.
+She got two of them.</i>
+
+109
+00:05:05,805 --> 00:05:07,890
+<i>You ain't changed them since you got them.</i>
+
+110
+00:05:07,974 --> 00:05:10,643
+<i>Hey, she gonna cheat on you, my nigga.
+It's over with.</i>
+
+111
+00:05:11,144 --> 00:05:12,812
+<i>I think she about to cheat.</i>
+
+112
+00:05:14,230 --> 00:05:17,233
+<i>- ♪ I think she about to cheat ♪
+- ♪ She got fungus on her lip ring ♪</i>
+
+113
+00:05:17,317 --> 00:05:20,737
+<i>- ♪ I think she about to cheat ♪
+- ♪ She got fungus on her lip ring ♪</i>
+
+114
+00:05:20,820 --> 00:05:25,283
+<i>- ♪ I think she about to cheat ♪
+- ♪ Ooh, she got fungus on her lip ring ♪</i>
+
+115
+00:05:25,366 --> 00:05:27,243
+<i>♪ She got fungus on her lip ring? ♪</i>
+
+116
+00:05:27,327 --> 00:05:29,704
+<i>♪ She ain't changed it since 2013 ♪</i>
+
+117
+00:05:31,914 --> 00:05:35,335
+<i>♪ She keep giving niggas head ♪</i>
+
+118
+00:05:35,960 --> 00:05:37,170
+<i>I'll take a picture.</i>
+
+119
+00:05:37,253 --> 00:05:39,797
+<i>Talkin' about, "Let's go."
+Saggy-ass titties.</i>
+
+120
+00:05:39,881 --> 00:05:41,215
+<i>[AUDIENCE LAUGHS]</i>
+
+121
+00:05:41,299 --> 00:05:42,925
+<i>I'm just only saying what I see.</i>
+
+122
+00:05:44,552 --> 00:05:46,179
+<i>On some real shit, it do look like</i>
+
+123
+00:05:46,262 --> 00:05:48,765
+<i>somebody grabbed her titties,
+squeezed, and let them go.</i>
+
+124
+00:05:51,476 --> 00:05:54,145
+<i>Hey, Fly, what is Atlanta?</i>
+
+125
+00:05:54,228 --> 00:05:55,646
+<i>Atlanta. That's it.</i>
+
+126
+00:05:56,230 --> 00:05:59,901
+<i>- Fulton County.
+- Now we're in College Park.</i>
+
+127
+00:05:59,984 --> 00:06:01,569
+<i>College Park is College Park.</i>
+
+128
+00:06:01,652 --> 00:06:03,279
+<i>College Park is not Atlanta.</i>
+
+129
+00:06:03,363 --> 00:06:06,324
+<i>It's like, you know... It's College Park.</i>
+
+130
+00:06:08,493 --> 00:06:10,328
+<i>'Cause I'm from Atlanta. I went to APS.</i>
+
+131
+00:06:10,411 --> 00:06:11,829
+<i>- Atlanta Public Schools.
+- Okay.</i>
+
+132
+00:06:11,913 --> 00:06:16,042
+<i>Fulton County, westside,
+APD ride on my street.</i>
+
+133
+00:06:16,125 --> 00:06:18,711
+<i>You can't tell me nothing, bitch.</i>
+
+134
+00:06:18,795 --> 00:06:22,924
+<i>So, what constitutes being from Atlanta?</i>
+
+135
+00:06:23,007 --> 00:06:26,094
+<i>They say if you were born
+at Grady, Crawford Long,</i>
+
+136
+00:06:26,177 --> 00:06:28,513
+<i>Georgia Baptist, you know what I'm saying?</i>
+
+137
+00:06:28,596 --> 00:06:31,099
+<i>- Okay.
+- That's really Atlanta hospitals.</i>
+
+138
+00:06:31,182 --> 00:06:33,935
+<i>When you leave the hospital,
+your house gotta be in Atlanta too.</i>
+
+139
+00:06:34,018 --> 00:06:35,561
+<i>I'mma tell you the easiest way.</i>
+
+140
+00:06:36,396 --> 00:06:39,023
+<i>Everything inside of 285...</i>
+
+141
+00:06:39,107 --> 00:06:40,149
+<i>Is Atlanta.</i>
+
+142
+00:06:40,233 --> 00:06:42,402
+<i>- Most of it.
+- Supposed to be.</i>
+
+143
+00:06:42,485 --> 00:06:43,611
+<i>Most of it.</i>
+
+144
+00:06:43,694 --> 00:06:45,571
+<i>Look at all them niggas from outside 285.</i>
+
+145
+00:06:45,655 --> 00:06:47,657
+<i>Fuck y'all pussy-ass niggas!</i>
+
+146
+00:06:47,740 --> 00:06:49,492
+<i>I put my work in.</i>
+
+147
+00:06:49,575 --> 00:06:51,869
+<i>Nah, this College Park.
+This shit different.</i>
+
+148
+00:06:51,953 --> 00:06:53,830
+<i>- What's different?
+- See, like, in Atlanta...</i>
+
+149
+00:06:53,913 --> 00:06:56,165
+<i>- They break into your car. Mm-hm.
+- [CHICO] Right.</i>
+
+150
+00:06:56,249 --> 00:06:59,293
+<i>In College Park,
+they take shit off your car.</i>
+
+151
+00:06:59,377 --> 00:07:00,378
+<i>[CHICO CHUCKLES]</i>
+
+152
+00:07:00,461 --> 00:07:02,588
+<i>They taking all kinds of shit down here.</i>
+
+153
+00:07:02,672 --> 00:07:05,842
+<i>I seen a nigga snatch a nigga food
+at the food court. They not playing.</i>
+
+154
+00:07:06,467 --> 00:07:09,095
+<i>Jesus, you mean to tell me
+you break in a car in Atlanta,</i>
+
+155
+00:07:09,178 --> 00:07:12,807
+<i>but in College Park, they gonna steal
+your catalytic converter off your shit?</i>
+
+156
+00:07:12,890 --> 00:07:16,602
+<i>No, in College Park, they do shit like
+they'll take the whole tire off,</i>
+
+157
+00:07:16,686 --> 00:07:18,104
+<i>and steal your baby seat.</i>
+
+158
+00:07:19,021 --> 00:07:19,856
+<i>Damn!</i>
+
+159
+00:07:20,565 --> 00:07:24,026
+<i>These niggas down here do shit like
+bust your window and lock your door.</i>
+
+160
+00:07:25,194 --> 00:07:28,197
+<i>Know what type of nigga
+you got to be to steal baby clothes?</i>
+
+161
+00:07:28,281 --> 00:07:31,075
+<i>"Hey, bro, I got couple of 2Ts and 3Ts
+if you need them."</i>
+
+162
+00:07:31,868 --> 00:07:32,785
+<i>Somebody need them.</i>
+
+163
+00:07:32,869 --> 00:07:33,786
+<i>Shit real.</i>
+
+164
+00:07:33,870 --> 00:07:36,164
+<i>My homeboy, they busted his window out.</i>
+
+165
+00:07:36,247 --> 00:07:38,082
+<i>- [DC] No!
+- Stole the baby seat.</i>
+
+166
+00:07:38,166 --> 00:07:39,459
+<i>He put some plastic up.</i>
+
+167
+00:07:39,542 --> 00:07:43,045
+<i>I guess it was the same niggas.
+They came out and bust his plastic out.</i>
+
+168
+00:07:44,881 --> 00:07:47,383
+<i>He must've did something.
+They had a problem with him.</i>
+
+169
+00:07:47,467 --> 00:07:49,218
+<i>Won't let that nigga have plastic.</i>
+
+170
+00:07:49,302 --> 00:07:51,095
+<i>Man! Look at this shit, man.</i>
+
+171
+00:07:51,179 --> 00:07:54,557
+<i>We are in Atlanta with all these
+beautiful Black people in here.</i>
+
+172
+00:07:54,640 --> 00:07:57,101
+<i>Looks like a cold-ass graduation
+in this motherfucker.</i>
+
+173
+00:07:57,185 --> 00:07:58,060
+<i>[AUDIENCE CHEERS]</i>
+
+174
+00:07:58,144 --> 00:08:00,771
+<i>Shit look lit! Look at all these niggas.
+Who got some weed?</i>
+
+175
+00:08:00,855 --> 00:08:02,565
+<i>Fuck that bullshit. What's happening?</i>
+
+176
+00:08:02,648 --> 00:08:03,524
+<i>Where my focus at?</i>
+
+177
+00:08:03,608 --> 00:08:06,235
+<i>I'm through smoking weed.
+That shit done got too strong.</i>
+
+178
+00:08:06,319 --> 00:08:09,280
+<i>Why you say that? Why you say
+the weed got too strong, Karlous?</i>
+
+179
+00:08:09,363 --> 00:08:10,948
+<i>That shit done got too strong, bro.</i>
+
+180
+00:08:11,032 --> 00:08:12,617
+<i>I know they put that fen-phen in it.</i>
+
+181
+00:08:12,700 --> 00:08:14,160
+<i>'Cause I was high the other day,</i>
+
+182
+00:08:14,660 --> 00:08:17,663
+<i>fucked around and ordered
+a pregnancy pillow, nigga.</i>
+
+183
+00:08:17,747 --> 00:08:19,081
+<i>[AUDIENCE LAUGHS]</i>
+
+184
+00:08:19,165 --> 00:08:21,584
+<i>- The one that you lay between the legs?
+- Nigga...</i>
+
+185
+00:08:21,667 --> 00:08:23,169
+<i>That ain't really a bad idea.</i>
+
+186
+00:08:23,252 --> 00:08:26,088
+<i>I'm at home taking naps
+like I'm ten months.</i>
+
+187
+00:08:26,631 --> 00:08:30,301
+<i>And I done got used to it.
+I done laid my nuts off the side.</i>
+
+188
+00:08:33,471 --> 00:08:34,805
+<i>That shit's good though.</i>
+
+189
+00:08:34,889 --> 00:08:37,642
+<i>I can deal with the weed.
+I just can't fuck with the edibles.</i>
+
+190
+00:08:37,725 --> 00:08:39,977
+<i>I can't do the edibles.
+I'mma tell the story.</i>
+
+191
+00:08:40,061 --> 00:08:41,646
+<i>Karlous gave me an edible one time,</i>
+
+192
+00:08:41,729 --> 00:08:44,273
+<i>shit made me start smoking
+regular weed for three years.</i>
+
+193
+00:08:44,857 --> 00:08:48,277
+<i>I went in the bathroom, looked in
+the mirror, my eyelashes flew off my face.</i>
+
+194
+00:08:48,361 --> 00:08:50,196
+<i>Nigga, I was like, "Nigga, I'm trippin'!"</i>
+
+195
+00:08:50,279 --> 00:08:52,073
+<i>Fuck that.
+I ain't fucking with no edibles.</i>
+
+196
+00:08:52,156 --> 00:08:54,659
+<i>I used to pop pills, nigga.
+I'm really from the trenches.</i>
+
+197
+00:08:54,742 --> 00:08:56,577
+<i>Martin Luther King. Stop playing with me.</i>
+
+198
+00:08:56,661 --> 00:08:58,788
+<i>Hamilton E Holmes, boy,
+was my train station.</i>
+
+199
+00:08:58,871 --> 00:09:02,416
+<i>Martin Luther King would not approve
+of you popping no goddamn pills, nigga.</i>
+
+200
+00:09:02,500 --> 00:09:05,545
+<i>Just saying, it's a long-ass ride
+when you come from Five Points.</i>
+
+201
+00:09:05,628 --> 00:09:08,005
+<i>That's an hour and a half.
+You gotta be on something.</i>
+
+202
+00:09:08,089 --> 00:09:09,590
+<i>See, you didn't even catch that.</i>
+
+203
+00:09:09,674 --> 00:09:12,969
+<i>See, only a nigga from Atlanta,
+when he tell you five different things</i>
+
+204
+00:09:13,052 --> 00:09:15,179
+<i>that ain't got shit to do
+with he talking about,</i>
+
+205
+00:09:15,263 --> 00:09:17,848
+<i>that mean he serious as fuck
+about what he about to say.</i>
+
+206
+00:09:17,932 --> 00:09:18,975
+<i>Hell you talking about?</i>
+
+207
+00:09:19,058 --> 00:09:22,270
+<i>Martin Luther King, my grandma
+house purple. Fuck you talking about?</i>
+
+208
+00:09:22,853 --> 00:09:24,397
+<i>Fell off my bike when I was seven.</i>
+
+209
+00:09:24,480 --> 00:09:27,608
+<i>Got in a fight with Lil Tay-Tay.
+What the fuck you talking about?</i>
+
+210
+00:09:28,901 --> 00:09:30,194
+<i>Real nigga shit.</i>
+
+211
+00:09:30,278 --> 00:09:31,445
+<i>No cap.</i>
+
+212
+00:09:32,113 --> 00:09:34,073
+<i>Ain't nobody's threw me no weed, bruh.</i>
+
+213
+00:09:34,156 --> 00:09:36,576
+<i>Goddamn. I said,
+"Let me get a three-five!"</i>
+
+214
+00:09:37,159 --> 00:09:39,287
+<i>These white folks
+ain't gonna do nothing to you.</i>
+
+215
+00:09:40,121 --> 00:09:43,082
+<i>They scared. They're like,
+"Oh no, I don't wanna get locked up."</i>
+
+216
+00:09:43,833 --> 00:09:46,961
+<i>Just throw it, ain't nobody gonna see
+who threw it. Just throw it far.</i>
+
+217
+00:09:47,044 --> 00:09:48,045
+<i>[AUDIENCE LAUGHS]</i>
+
+218
+00:09:49,422 --> 00:09:51,591
+<i>I go to see, and I'm like,
+"There goes my weed."</i>
+
+219
+00:09:52,300 --> 00:09:55,136
+<i>Niggas smarter than that.
+They ain't bringing no weed in here.</i>
+
+220
+00:09:55,219 --> 00:09:57,763
+<i>Soon as they saw the goddamn
+Convention Center, they were like,</i>
+
+221
+00:09:57,847 --> 00:10:00,016
+<i>"Hell, no, boy, them Fed charges."</i>
+
+222
+00:10:01,225 --> 00:10:05,021
+<i>Well, we're in Atlanta, boy, somebody's
+got an ounce in their nuts right now.</i>
+
+223
+00:10:05,896 --> 00:10:08,524
+<i>Just going through the aisle,
+"You straight, my boy?"</i>
+
+224
+00:10:08,608 --> 00:10:12,069
+<i>This nigga said you got a whole ounce
+in your nuts. Nobody wanna smoke that.</i>
+
+225
+00:10:12,153 --> 00:10:14,322
+<i>I got that za. You straight, Baba?</i>
+
+226
+00:10:15,156 --> 00:10:16,616
+<i>[KARLOUS] Nigga fucking around...</i>
+
+227
+00:10:16,699 --> 00:10:18,868
+<i>He look like he work
+at Enterprise. Ugly-ass...</i>
+
+228
+00:10:19,493 --> 00:10:20,911
+<i>[CHICO] Who work at Enterprise?</i>
+
+229
+00:10:20,995 --> 00:10:24,498
+<i>This bald-headed nigga right here.
+That nigga work at Enterprise.</i>
+
+230
+00:10:24,582 --> 00:10:25,916
+<i>"We got three cars left."</i>
+
+231
+00:10:26,000 --> 00:10:28,377
+<i>That nigga look like the bad guy
+off a Tyler Perry movie.</i>
+
+232
+00:10:28,461 --> 00:10:31,589
+<i>He look like that nigga cheat on his wife
+in a Tyler Perry movie.</i>
+
+233
+00:10:32,381 --> 00:10:33,674
+<i>[CHICO] He was watching you.</i>
+
+234
+00:10:36,302 --> 00:10:40,056
+<i>For real? This is how my city gonna do?
+Ain't nobody gonna throw a nigga no weed?</i>
+
+235
+00:10:40,139 --> 00:10:41,724
+<i>I went to Minnesota, I said,</i>
+
+236
+00:10:41,807 --> 00:10:43,851
+<i>"Throw me some weed."
+Them niggas was like...</i>
+
+237
+00:10:43,934 --> 00:10:45,936
+<i>[AUDIENCE YELLING INDISTINCTLY]</i>
+
+238
+00:10:46,020 --> 00:10:48,981
+<i>They threw it.
+Why y'all looking like an Easter egg hunt?</i>
+
+239
+00:10:49,732 --> 00:10:51,067
+<i>"Where the weed, y'all?"</i>
+
+240
+00:10:53,444 --> 00:10:56,447
+<i>- Not no pre-rolled. That shit...
+- Hell nah.</i>
+
+241
+00:10:56,530 --> 00:11:00,326
+<i>I'm from the city. You got me fucked up.
+That shit got a Percocet 30 in it.</i>
+
+242
+00:11:00,409 --> 00:11:01,243
+<i>Hell nah.</i>
+
+243
+00:11:01,327 --> 00:11:03,329
+<i>- Stop. Turn the music off. Stop.
+- [BAND STOPS]</i>
+
+244
+00:11:03,412 --> 00:11:04,497
+<i>- Yeah.
+- See?</i>
+
+245
+00:11:04,580 --> 00:11:06,123
+<i>This is what I'm mad at.</i>
+
+246
+00:11:06,207 --> 00:11:09,585
+<i>And you can tell they just rolled
+that blunt 'cause it is still wet.</i>
+
+247
+00:11:09,669 --> 00:11:10,503
+<i>Ugh!</i>
+
+248
+00:11:10,586 --> 00:11:12,171
+<i>Don't nobody want that shit.</i>
+
+249
+00:11:12,254 --> 00:11:14,048
+<i>Yeah, that shit got drugs in it.</i>
+
+250
+00:11:14,131 --> 00:11:15,883
+<i>Give it back to the community!</i>
+
+251
+00:11:19,804 --> 00:11:21,514
+<i>Only at The 85 South Show</i>
+
+252
+00:11:21,597 --> 00:11:24,558
+<i>will you get a blunt thrown
+in your direction in your section.</i>
+
+253
+00:11:24,642 --> 00:11:26,143
+<i>What the fuck is wrong with you?</i>
+
+254
+00:11:26,227 --> 00:11:28,771
+<i>Crazy part about it is
+somebody caught it with one hand.</i>
+
+255
+00:11:29,397 --> 00:11:32,858
+<i>That nigga caught that motherfucker.
+He's sniffing it. Don't smoke that shit!</i>
+
+256
+00:11:32,942 --> 00:11:35,194
+<i>You fuck around and smoke that shit,
+you gonna be...</i>
+
+257
+00:11:36,070 --> 00:11:37,613
+<i>Somebody gonna unravel that.</i>
+
+258
+00:11:39,448 --> 00:11:43,744
+<i>How many 85 South Show fans,
+85-percenters we got in here tonight?</i>
+
+259
+00:11:43,828 --> 00:11:46,622
+<i>- That fuck with us for real.
+- That got the app.</i>
+
+260
+00:11:47,248 --> 00:11:50,251
+<i>So if you're a real 85-percenter,
+you know what that picture mean.</i>
+
+261
+00:11:50,334 --> 00:11:51,752
+<i>What that mean right there?</i>
+
+262
+00:11:52,670 --> 00:11:55,297
+<i>Look how Marvin is looking at you.</i>
+
+263
+00:11:55,381 --> 00:11:57,049
+<i>[WOMAN] He's looking at you for some shit.</i>
+
+264
+00:11:57,133 --> 00:11:59,468
+<i>What? He's looking at me for some shit?</i>
+
+265
+00:11:59,552 --> 00:12:02,763
+<i>No, that nigga gonna be looking
+at you later, like, "Bitch, you done..."</i>
+
+266
+00:12:02,847 --> 00:12:04,890
+<i>- This...
+- Catch my breath...</i>
+
+267
+00:12:06,392 --> 00:12:07,852
+<i>What the hell are you doing?</i>
+
+268
+00:12:07,935 --> 00:12:08,936
+<i>I'm hot, nigga!</i>
+
+269
+00:12:09,019 --> 00:12:11,397
+<i>Nigga, we are shooting a special,</i>
+
+270
+00:12:11,480 --> 00:12:14,734
+<i>and you is doing
+your OnlyFans content on stage.</i>
+
+271
+00:12:15,693 --> 00:12:17,903
+<i>I'm trying to get
+some more followers, dig?</i>
+
+272
+00:12:17,987 --> 00:12:18,821
+<i>[WOMEN YELLING]</i>
+
+273
+00:12:22,825 --> 00:12:24,201
+<i>Y'all some freaky-ass ladies,</i>
+
+274
+00:12:24,285 --> 00:12:27,455
+<i>y'all like niggas that's built
+like ex-drug addicts and shit.</i>
+
+275
+00:12:27,538 --> 00:12:29,206
+<i>- [AUDIENCE LAUGHS]
+- Ha, ha!</i>
+
+276
+00:12:29,290 --> 00:12:31,167
+<i>Oh, I know... Oh. Oh.</i>
+
+277
+00:12:31,250 --> 00:12:33,169
+<i>- You talkin' 'bout me?
+- [KARLOUS] Yeah.</i>
+
+278
+00:12:33,252 --> 00:12:36,338
+<i>You know you built like you used
+to be in a wheelchair or something.</i>
+
+279
+00:12:38,007 --> 00:12:40,342
+<i>No offense to the people
+who still in them.</i>
+
+280
+00:12:40,426 --> 00:12:42,636
+<i>Your ass gonna be on Depends
+in three more years.</i>
+
+281
+00:12:43,804 --> 00:12:46,098
+<i>- Well, that just depends.
+- Hey. Stop.</i>
+
+282
+00:12:46,182 --> 00:12:48,142
+<i>We supposed to be brothers.</i>
+
+283
+00:12:48,225 --> 00:12:51,645
+<i>Shut up, nigga, you got a leather shirt on
+like you paint pictures.</i>
+
+284
+00:12:51,729 --> 00:12:53,731
+<i>[AUDIENCE LAUGHS]</i>
+
+285
+00:12:54,398 --> 00:12:57,193
+<i>I had to wear some leather,
+nigga, this shit is nice.</i>
+
+286
+00:12:57,860 --> 00:13:00,529
+<i>Nigga tryin' to look serious as hell
+with his trench coat.</i>
+
+287
+00:13:02,990 --> 00:13:06,243
+<i>[KARLOUS] That nigga be lying,
+telling everybody he do real estate.</i>
+
+288
+00:13:07,369 --> 00:13:08,788
+<i>That nigga just started.</i>
+
+289
+00:13:09,455 --> 00:13:13,709
+<i>That's that coat Dave Chappelle had on
+when he was a crackhead on his show.</i>
+
+290
+00:13:14,210 --> 00:13:17,213
+<i>That's that Tyrone Biggums
+jacket he got on.</i>
+
+291
+00:13:17,296 --> 00:13:18,756
+<i>[BAND PLAYING FUNK MUSIC]</i>
+
+292
+00:13:18,839 --> 00:13:20,508
+<i>- What?
+- What the fuck?</i>
+
+293
+00:13:21,675 --> 00:13:24,804
+<i>- Why you start playing that music, nigga?
+- I didn't no what to do.</i>
+
+294
+00:13:24,887 --> 00:13:26,639
+<i>Nigga hit the porno music.</i>
+
+295
+00:13:26,722 --> 00:13:29,308
+<i>I went into crackhead mode,
+I didn't know what to do.</i>
+
+296
+00:13:29,391 --> 00:13:32,937
+<i>Nigga, you don't see that,
+we went all out for this show.</i>
+
+297
+00:13:33,020 --> 00:13:35,439
+<i>- Yes, we did.
+- [KARLOUS] I got a nigga on a tuba.</i>
+
+298
+00:13:37,191 --> 00:13:42,363
+<i>When the last time you even seen a tuba,
+since you was in 9th or 10th grade?</i>
+
+299
+00:13:43,113 --> 00:13:45,115
+<i>[DC]
+They found that nigga at Morris Brown.</i>
+
+300
+00:13:45,199 --> 00:13:49,119
+<i>I had to fly all the way to New Orleans
+to find a nigga on a tuba, nigga.</i>
+
+301
+00:13:49,829 --> 00:13:50,788
+<i>[BLOWS DEEP NOTE]</i>
+
+302
+00:13:51,497 --> 00:13:53,499
+<i>[KARLOUS] Okay, play that bitch again.</i>
+
+303
+00:13:53,582 --> 00:13:54,959
+<i>That nigga just farted.</i>
+
+304
+00:13:55,042 --> 00:13:56,001
+<i>[AUDIENCE LAUGHS]</i>
+
+305
+00:13:56,085 --> 00:13:58,087
+<i>Hold up, gimme some tuba, nigga.</i>
+
+306
+00:13:58,170 --> 00:14:00,172
+<i>[TUBA PLAYING MELODY]</i>
+
+307
+00:14:01,590 --> 00:14:04,051
+<i>[CHICO] Ladies and gentlemen,</i>
+
+308
+00:14:04,134 --> 00:14:05,594
+<i>we present to you</i>
+
+309
+00:14:06,512 --> 00:14:09,181
+<i>the baddest band in all of the land,</i>
+
+310
+00:14:09,765 --> 00:14:15,437
+<i>led by the one and only,
+John "Loose-leg" Whitfield.</i>
+
+311
+00:14:15,521 --> 00:14:16,856
+<i>[AUDIENCE CHEERING]</i>
+
+312
+00:14:16,939 --> 00:14:20,442
+<i>Stop fucking with me, my degree.</i>
+
+313
+00:14:20,526 --> 00:14:23,529
+<i>- Ah! Ah! Ah!
+- [CHICO] Unh! Unh! Unh!</i>
+
+314
+00:14:23,612 --> 00:14:25,614
+<i>[AUDIENCE YELLING]</i>
+
+315
+00:14:37,001 --> 00:14:40,462
+<i>I was like, y'all niggas was in the band?
+I ain't know what the fuck to do.</i>
+
+316
+00:14:41,547 --> 00:14:43,215
+<i>I just did the only thing I...</i>
+
+317
+00:14:44,967 --> 00:14:46,051
+<i>[AUDIENCE LAUGHS]</i>
+
+318
+00:14:46,135 --> 00:14:47,803
+<i>- Yeah, I play drums.
+- [CHICO] You did?</i>
+
+319
+00:14:47,887 --> 00:14:49,638
+<i>- Yeah.
+- You know how to play the drums?</i>
+
+320
+00:14:49,722 --> 00:14:51,599
+<i>- Man, what?
+- [CHICO] Figure...</i>
+
+321
+00:14:52,308 --> 00:14:53,684
+<i>Well, play something, then.</i>
+
+322
+00:14:53,767 --> 00:14:56,353
+<i>- Play something, then.
+- That nigga ain't finna do shit.</i>
+
+323
+00:14:56,437 --> 00:14:58,981
+<i>- [CHICO] Lous gonna give you some.
+- [KARLOUS] Kick us some shit.</i>
+
+324
+00:14:59,064 --> 00:15:00,065
+<i>[CHICO] Let's hear it.</i>
+
+325
+00:15:00,774 --> 00:15:02,776
+<i>This nigga don't know what the drums is.</i>
+
+326
+00:15:04,278 --> 00:15:06,488
+<i>[GUITAR PLAYING FUNK MELODY]</i>
+
+327
+00:15:09,950 --> 00:15:11,452
+<i>[BAND PLAYING FUNK MUSIC]</i>
+
+328
+00:15:11,535 --> 00:15:12,828
+<i>♪ Come on, y'all ♪</i>
+
+329
+00:15:13,329 --> 00:15:14,371
+<i>♪ Get on up! ♪</i>
+
+330
+00:15:15,414 --> 00:15:16,457
+<i>♪ Get on down! ♪</i>
+
+331
+00:15:17,499 --> 00:15:20,252
+<i>♪ Get on up!
+I said get on down! ♪</i>
+
+332
+00:15:21,670 --> 00:15:25,674
+<i>♪ I said I don't know why
+Everybody's mad at me ♪</i>
+
+333
+00:15:27,134 --> 00:15:28,427
+<i>♪ Being out here... ♪</i>
+
+334
+00:15:28,510 --> 00:15:29,595
+<i>[SCATTING]</i>
+
+335
+00:15:29,678 --> 00:15:31,722
+<i>[AUDIENCE CHEERING]</i>
+
+336
+00:15:34,433 --> 00:15:35,976
+<i>[KARLOUS] Play that shit!</i>
+
+337
+00:15:36,060 --> 00:15:38,062
+<i>[FUNK MUSIC CONTINUES]</i>
+
+338
+00:15:39,980 --> 00:15:41,815
+<i>Ooh! [SCATTING]</i>
+
+339
+00:15:41,899 --> 00:15:44,068
+<i>♪ Come on, y'all, get it!
+Huh! ♪</i>
+
+340
+00:15:44,151 --> 00:15:45,194
+<i>♪ Give it to me now ♪</i>
+
+341
+00:15:45,277 --> 00:15:47,321
+<i>♪ One, two, three, hit me! ♪</i>
+
+342
+00:15:47,404 --> 00:15:50,616
+<i>- [KARLOUS] ♪ Hit me! ♪
+- [PLAYING REGGAE MUSIC]</i>
+
+343
+00:15:51,700 --> 00:15:52,534
+<i>♪ Okay! ♪</i>
+
+344
+00:15:54,912 --> 00:15:56,205
+<i>What's that one right there?</i>
+
+345
+00:15:56,288 --> 00:15:59,833
+<i>♪ Everybody in the house tonight
+Put your hands in the sky tonight ♪</i>
+
+346
+00:16:00,459 --> 00:16:03,379
+<i>♪ Everybody in the house tonight
+Put your hands in the sky tonight ♪</i>
+
+347
+00:16:03,462 --> 00:16:04,505
+<i>- ♪ That's it ♪
+- ♪ Booyaka ♪</i>
+
+348
+00:16:04,588 --> 00:16:08,300
+<i>♪ ATL, we're in here
+Party like this is the new year ♪</i>
+
+349
+00:16:08,384 --> 00:16:09,843
+<i>♪ Say get on down, get on up ♪</i>
+
+350
+00:16:09,927 --> 00:16:11,553
+<i>♪ Party, everybody
+You know we don't stop ♪</i>
+
+351
+00:16:11,637 --> 00:16:12,471
+<i>♪ Watch me now! ♪</i>
+
+352
+00:16:12,554 --> 00:16:14,264
+<i>♪ Gave her a Phillie, here's to my billi ♪</i>
+
+353
+00:16:14,348 --> 00:16:16,517
+<i>♪ Lady right there
+Got the real long titties ♪</i>
+
+354
+00:16:16,600 --> 00:16:18,435
+<i>♪ Everybody know it, everybody know it ♪</i>
+
+355
+00:16:18,519 --> 00:16:20,729
+<i>♪ I hope it don't fall out
+'Cause you gonna show it ♪</i>
+
+356
+00:16:20,813 --> 00:16:21,647
+<i>♪ Hey! ♪</i>
+
+357
+00:16:21,730 --> 00:16:23,357
+<i>[WHOOPING]</i>
+
+358
+00:16:23,440 --> 00:16:24,692
+<i>- [WHOOPING]
+- [YELLS]</i>
+
+359
+00:16:27,653 --> 00:16:29,989
+<i>[REGGAE MUSIC CONTINUES]</i>
+
+360
+00:16:30,072 --> 00:16:32,074
+<i>- [KARLOUS LAUGHS]
+- [PLAYING DRUM SOLO]</i>
+
+361
+00:16:38,372 --> 00:16:39,373
+<i>Goddamn it!</i>
+
+362
+00:16:39,456 --> 00:16:41,792
+<i>- Hey!
+- [AUDIENCE CHEERING]</i>
+
+363
+00:16:41,875 --> 00:16:43,127
+<i>That's how you do it!</i>
+
+364
+00:16:44,003 --> 00:16:47,256
+<i>Don't play with that boy.
+Look, that nigga sitting right there,</i>
+
+365
+00:16:47,339 --> 00:16:49,717
+<i>"He was playing that shit for real?" Yeah.</i>
+
+366
+00:16:51,010 --> 00:16:52,344
+<i>[DC] That couch stink.</i>
+
+367
+00:16:55,931 --> 00:16:58,142
+<i>[WOMEN WHOOPING AND CHEERING]</i>
+
+368
+00:16:58,684 --> 00:17:00,561
+<i>Look at all y'all freaky-ass ladies.</i>
+
+369
+00:17:01,478 --> 00:17:04,356
+<i>Ladies, y'all better stop,
+you screaming here with a nigga like,</i>
+
+370
+00:17:04,440 --> 00:17:07,901
+<i>"Bitch, don't you ever goddamn
+make no noise like that for no nigga."</i>
+
+371
+00:17:07,985 --> 00:17:10,446
+<i>There's some freaky-ass women
+in here, boy.</i>
+
+372
+00:17:11,405 --> 00:17:14,616
+<i>Y'all like niggas
+that's shaped like gunshot victims?</i>
+
+373
+00:17:16,660 --> 00:17:18,704
+<i>I know you ain't talkin'.</i>
+
+374
+00:17:18,787 --> 00:17:21,290
+<i>Nigga drinks Ensures in the morning.
+Shut your ass...</i>
+
+375
+00:17:21,790 --> 00:17:23,917
+<i>- Wait!
+- "Give me two of them Ensures..."</i>
+
+376
+00:17:24,001 --> 00:17:26,045
+<i>Stop!</i>
+
+377
+00:17:26,128 --> 00:17:27,838
+<i>We supposed to be brothers.</i>
+
+378
+00:17:28,422 --> 00:17:30,382
+<i>No, but for real, you built like...</i>
+
+379
+00:17:31,258 --> 00:17:33,343
+<i>- A healthy crackhead.
+- Yeah...</i>
+
+380
+00:17:34,344 --> 00:17:36,138
+<i>I'm built like T.I. when he walk.</i>
+
+381
+00:17:37,931 --> 00:17:39,349
+<i>I'm just gonna just...</i>
+
+382
+00:17:39,433 --> 00:17:40,851
+<i>What you say, partner?</i>
+
+383
+00:17:42,728 --> 00:17:44,521
+<i>Don't he look like he about to say,</i>
+
+384
+00:17:44,605 --> 00:17:47,024
+<i>"Nephew, I ain't on that shit
+no more, look at me!"</i>
+
+385
+00:17:47,107 --> 00:17:49,860
+<i>- [AUDIENCE LAUGHS]
+- All right now, Karlous, you get two more.</i>
+
+386
+00:17:53,197 --> 00:17:56,075
+<i>"Hand me two of them Ensures
+out that small refrigerator right there."</i>
+
+387
+00:17:56,158 --> 00:17:57,910
+<i>Two more? I only got two more?</i>
+
+388
+00:17:57,993 --> 00:18:00,871
+<i>- What about Chico, look at his back.
+- Aw, lord!</i>
+
+389
+00:18:00,954 --> 00:18:02,915
+<i>Now y'all niggas gonna put me in it.</i>
+
+390
+00:18:02,998 --> 00:18:04,625
+<i>You better keep roasting me.</i>
+
+391
+00:18:04,708 --> 00:18:07,544
+<i>Leave me alone, DC,
+you built like a curling iron, nigga.</i>
+
+392
+00:18:08,712 --> 00:18:12,299
+<i>Nigga, you go swimming with all
+your clothes on. Ugly-ass boy, the fuck?</i>
+
+393
+00:18:12,382 --> 00:18:14,676
+<i>Boy, you look like a windshield wiper.</i>
+
+394
+00:18:16,136 --> 00:18:19,681
+<i>Chico, you keep that hat on 'cause
+the top of your head got a soft spot.</i>
+
+395
+00:18:19,765 --> 00:18:20,849
+<i>- Ha!
+- [AUDIENCE LAUGHS]</i>
+
+396
+00:18:20,933 --> 00:18:22,059
+<i>Boy got cradle cap!</i>
+
+397
+00:18:22,851 --> 00:18:23,769
+<i>Ha!</i>
+
+398
+00:18:24,436 --> 00:18:25,604
+<i>Hey, fuck you!</i>
+
+399
+00:18:25,687 --> 00:18:28,023
+<i>Talking 'bout, "That's dandruff."
+That's cradle cap!</i>
+
+400
+00:18:28,107 --> 00:18:31,068
+<i>It was cold that day, I had to
+wash my shit. Fuck y'all niggas.</i>
+
+401
+00:18:31,151 --> 00:18:33,112
+<i>That nigga need to drink some breast milk.</i>
+
+402
+00:18:33,779 --> 00:18:36,281
+<i>- We friends now.
+- Y'all friends again, oh.</i>
+
+403
+00:18:37,366 --> 00:18:40,494
+<i>- Good fucking job, assholes.
+- You know we got to talk shit about you.</i>
+
+404
+00:18:40,577 --> 00:18:41,954
+<i>Your shirt got a shirt on.</i>
+
+405
+00:18:43,038 --> 00:18:44,832
+<i>Nigga, this is leather.</i>
+
+406
+00:18:44,915 --> 00:18:46,458
+<i>Trying to hide that back.</i>
+
+407
+00:18:49,169 --> 00:18:51,880
+<i>If I got shot, you got hit by a car.
+I don't give a fuck.</i>
+
+408
+00:18:51,964 --> 00:18:53,590
+<i>I mean, I'll take that.</i>
+
+409
+00:18:53,674 --> 00:18:54,633
+<i>I'll take that.</i>
+
+410
+00:18:54,716 --> 00:18:57,010
+<i>- Goddamn it.
+- Show them folks your spine.</i>
+
+411
+00:18:57,094 --> 00:18:58,345
+<i>[CHICO] Yeah.</i>
+
+412
+00:18:58,428 --> 00:19:00,931
+<i>You're built like a coffee straw,
+get out of here.</i>
+
+413
+00:19:01,890 --> 00:19:02,724
+<i>Ooh!</i>
+
+414
+00:19:02,808 --> 00:19:07,271
+<i>Real shit, DC, you are built like you just
+learned how to walk two years ago.</i>
+
+415
+00:19:07,771 --> 00:19:12,109
+<i>Man, you got arthritis in your kneecaps.
+Ugly-ass boy, what the fuck?</i>
+
+416
+00:19:12,609 --> 00:19:14,027
+<i>You a old-ass nigga.</i>
+
+417
+00:19:15,279 --> 00:19:18,115
+<i>Both of y'all age together
+is 150, say something.</i>
+
+418
+00:19:18,657 --> 00:19:21,869
+<i>"He finna keep your boy young,
+keep fucking with me. Let go!"</i>
+
+419
+00:19:21,952 --> 00:19:23,162
+<i>[AUDIENCE LAUGHS]</i>
+
+420
+00:19:26,039 --> 00:19:27,082
+<i>Fuck you.</i>
+
+421
+00:19:27,166 --> 00:19:30,252
+<i>Hey DC, you built like them things
+that be at the car dealership.</i>
+
+422
+00:19:30,335 --> 00:19:31,461
+<i>[AUDIENCE LAUGHS]</i>
+
+423
+00:19:32,462 --> 00:19:34,381
+<i>You look just like that bitch.</i>
+
+424
+00:19:34,464 --> 00:19:37,176
+<i>Boy, your back look like
+a Church's biscuit, ugly-ass!</i>
+
+425
+00:19:39,970 --> 00:19:41,180
+<i>[SQUEALS]</i>
+
+426
+00:19:43,473 --> 00:19:45,976
+<i>Mr. Ensure, you wanna say something else?</i>
+
+427
+00:19:46,476 --> 00:19:49,396
+<i>Boy, you don't get your ass out of here,
+looking like Not Smoke.</i>
+
+428
+00:19:49,897 --> 00:19:52,107
+<i>[AUDIENCE LAUGHS]</i>
+
+429
+00:19:53,775 --> 00:19:56,570
+<i>- [CHICO] What did you say?
+- Not Pop Smoke, that's Not Smoke.</i>
+
+430
+00:19:56,653 --> 00:19:58,864
+<i>- Not Smoke?
+- [AUDIENCE LAUGHS]</i>
+
+431
+00:19:59,615 --> 00:20:00,782
+<i>[LAUGHS SARCASTICALLY]</i>
+
+432
+00:20:00,866 --> 00:20:02,492
+<i>- [KARLOUS] Boy!
+- Whitney!</i>
+
+433
+00:20:02,576 --> 00:20:04,161
+<i>- What?
+- [DC] Whitney.</i>
+
+434
+00:20:04,244 --> 00:20:06,371
+<i>- Oh yeah.
+- Old-ass nigga.</i>
+
+435
+00:20:06,455 --> 00:20:09,416
+<i>When you go to sleep, boy,
+you got a pillow for your legs.</i>
+
+436
+00:20:10,626 --> 00:20:12,836
+<i>"Prop my feet up, I need to get it up."</i>
+
+437
+00:20:16,673 --> 00:20:19,635
+<i>Hey, you got a pillow for your back?
+Ugly-ass mother...</i>
+
+438
+00:20:23,138 --> 00:20:25,432
+<i>Don't let him do that, bruh, told ya.</i>
+
+439
+00:20:25,974 --> 00:20:28,060
+<i>What? Chico, your head big as hell.</i>
+
+440
+00:20:28,727 --> 00:20:30,520
+<i>Nigga, I don't give a fuck, what?</i>
+
+441
+00:20:31,146 --> 00:20:33,690
+<i>- Yeah, nigga.
+- Look, Karlous. Karlous, look!</i>
+
+442
+00:20:33,774 --> 00:20:35,776
+<i>This how big this nigga pillow is.</i>
+
+443
+00:20:36,318 --> 00:20:39,029
+<i>- You see it.
+- [AUDIENCE CHEERING AND WHOOPING]</i>
+
+444
+00:20:39,947 --> 00:20:41,073
+<i>[SCREECHES]</i>
+
+445
+00:20:41,573 --> 00:20:44,952
+<i>Matter fact, DC, you built like
+this braid, nigga, fuck outta here.</i>
+
+446
+00:20:45,577 --> 00:20:47,162
+<i>You built like my braid.</i>
+
+447
+00:20:48,163 --> 00:20:50,499
+<i>Tell the folks why
+you ain't never play football.</i>
+
+448
+00:20:50,582 --> 00:20:53,168
+<i>Everybody in the crowd laughed
+when you took your hat off.</i>
+
+449
+00:20:53,252 --> 00:20:55,671
+<i>Except that one girl right there.
+She was like, "Ooh."</i>
+
+450
+00:20:56,338 --> 00:20:57,881
+<i>I don't give a fuck, y'all ladies.</i>
+
+451
+00:20:57,965 --> 00:21:00,509
+<i>You know you look like this
+under that wig. Stop bullshittin'.</i>
+
+452
+00:21:00,592 --> 00:21:02,719
+<i>- [DC] Facts.
+- You peel that lace front back...</i>
+
+453
+00:21:02,803 --> 00:21:05,180
+<i>- You got the Chico Bean under your shit.
+- Facts.</i>
+
+454
+00:21:05,681 --> 00:21:08,058
+<i>[DC] Who be braiding your hair?
+They need to be sued.</i>
+
+455
+00:21:08,809 --> 00:21:10,852
+<i>You mad 'cause
+I only gotta pay half price.</i>
+
+456
+00:21:10,936 --> 00:21:12,771
+<i>"We're gonna be starting in the middle."</i>
+
+457
+00:21:13,689 --> 00:21:14,523
+<i>[CHICO] Shit.</i>
+
+458
+00:21:15,357 --> 00:21:17,734
+<i>Ladies, if you look down
+at Chico eating your pussy,</i>
+
+459
+00:21:17,818 --> 00:21:19,778
+<i>it's gonna look like you're having a baby.</i>
+
+460
+00:21:25,742 --> 00:21:27,703
+<i>Shit, you look down
+at me eating your pussy,</i>
+
+461
+00:21:27,786 --> 00:21:29,997
+<i>you'll think it's
+two different niggas eating it,</i>
+
+462
+00:21:30,080 --> 00:21:32,291
+<i>'cause I'm bald in the front,
+braids in the back.</i>
+
+463
+00:21:33,292 --> 00:21:34,626
+<i>That's crazy, bruh.</i>
+
+464
+00:21:35,377 --> 00:21:38,463
+<i>The front of your head looks
+like Squidward's house. Ugly-ass...</i>
+
+465
+00:21:39,339 --> 00:21:40,841
+<i>"No, SpongeBob."</i>
+
+466
+00:21:42,843 --> 00:21:44,636
+<i>Leave my nigga alone, bruh.</i>
+
+467
+00:21:44,720 --> 00:21:47,472
+<i>That's what the fuck we do here.
+This is The 85 South Show.</i>
+
+468
+00:21:47,556 --> 00:21:49,766
+<i>We don't give a fuck what you built like.</i>
+
+469
+00:21:49,850 --> 00:21:51,852
+<i>- I do.
+- We'll talk about your ass.</i>
+
+470
+00:21:51,935 --> 00:21:55,522
+<i>Don't you think you can just
+come up on me, "DC, I love you..."</i>
+
+471
+00:21:55,605 --> 00:21:57,607
+<i>[AUDIENCE LAUGHS]</i>
+
+472
+00:22:02,529 --> 00:22:05,991
+<i>Stop doing that, 'cause that ain't gonna
+stop nobody from fuckin' with you.</i>
+
+473
+00:22:06,074 --> 00:22:07,200
+<i>I don't give a fuck.</i>
+
+474
+00:22:07,284 --> 00:22:09,911
+<i>Sometimes people don't even
+know what's wrong with you.</i>
+
+475
+00:22:09,995 --> 00:22:12,497
+<i>Don't be insecure about your flaws.</i>
+
+476
+00:22:12,581 --> 00:22:14,583
+<i>I fucked with a girl damn near two years</i>
+
+477
+00:22:14,666 --> 00:22:17,085
+<i>before I found out
+she ain't have but one hand.</i>
+
+478
+00:22:17,169 --> 00:22:19,212
+<i>Ha-ha-ha. [LAUGHS]</i>
+
+479
+00:22:19,296 --> 00:22:21,465
+<i>Nah, she used to keep it
+pulled up in her shirt.</i>
+
+480
+00:22:21,548 --> 00:22:22,883
+<i>I just thought she was cold.</i>
+
+481
+00:22:22,966 --> 00:22:24,343
+<i>[AUDIENCE LAUGHS]</i>
+
+482
+00:22:26,428 --> 00:22:27,971
+<i>What the fuck, man?</i>
+
+483
+00:22:32,017 --> 00:22:33,977
+<i>So you ain't never see her take no bath?</i>
+
+484
+00:22:34,061 --> 00:22:36,021
+<i>How did you find out the hand was gone?</i>
+
+485
+00:22:36,104 --> 00:22:39,691
+<i>She had to open her iPhone,
+and she had it set on the fingerprint.</i>
+
+486
+00:22:41,610 --> 00:22:43,653
+<i>But she just used the whole thing.</i>
+
+487
+00:22:43,737 --> 00:22:45,739
+<i>[AUDIENCE LAUGHS]</i>
+
+488
+00:22:46,323 --> 00:22:48,033
+<i>- Fuck y'all.
+- I don't give a fuck.</i>
+
+489
+00:22:48,116 --> 00:22:50,243
+<i>- I used to talk to...
+- I stopped fuckin' with her.</i>
+
+490
+00:22:50,327 --> 00:22:52,454
+<i>It didn't even have
+shit to do with her hand.</i>
+
+491
+00:22:52,537 --> 00:22:54,373
+<i>I didn't give a fuck about that shit.</i>
+
+492
+00:22:54,456 --> 00:22:56,583
+<i>I broke up with her.
+She talked too bad to me.</i>
+
+493
+00:22:56,666 --> 00:22:57,959
+<i>What she say, bro?</i>
+
+494
+00:22:58,043 --> 00:23:00,545
+<i>- She said she couldn't handle me.
+- No...</i>
+
+495
+00:23:01,671 --> 00:23:03,924
+<i>- [AUDIENCE LAUGHS]
+- [DC] Know what you shoulda told her?</i>
+
+496
+00:23:04,007 --> 00:23:04,841
+<i>Think about it.</i>
+
+497
+00:23:04,925 --> 00:23:07,928
+<i>I fucked with a bitch who had
+a hip replacement. I ain't know.</i>
+
+498
+00:23:08,011 --> 00:23:10,972
+<i>And she had a cane,
+'cause when she first came to my room,</i>
+
+499
+00:23:11,056 --> 00:23:12,849
+<i>she was leanin' on the cane.</i>
+
+500
+00:23:12,933 --> 00:23:14,309
+<i>[AUDIENCE LAUGHING]</i>
+
+501
+00:23:14,393 --> 00:23:17,687
+<i>I'm looking through the peephole,
+"There go that bitch." I open the door,</i>
+
+502
+00:23:17,771 --> 00:23:20,148
+<i>she came through, "Excuse me."
+I was like, "Hold up."</i>
+
+503
+00:23:20,774 --> 00:23:22,275
+<i>"You at the wrong door."</i>
+
+504
+00:23:22,776 --> 00:23:24,945
+<i>- How she come in?
+- But I fucked her, though.</i>
+
+505
+00:23:25,028 --> 00:23:26,571
+<i>- [AUDIENCE LAUGHS]
+- How?</i>
+
+506
+00:23:26,655 --> 00:23:29,366
+<i>I put that cane on that stand,
+and we got busy.</i>
+
+507
+00:23:31,535 --> 00:23:33,829
+<i>- I think we got a special guest, though.
+- Who?</i>
+
+508
+00:23:33,912 --> 00:23:35,372
+<i>This my dawg, bruh.</i>
+
+509
+00:23:35,455 --> 00:23:38,458
+<i>This my motherfuckin' day one,
+you dig what I'm sayin'?</i>
+
+510
+00:23:38,542 --> 00:23:42,712
+<i>This motherfucker really opened the game
+and paved the way for the new young niggas</i>
+
+511
+00:23:42,796 --> 00:23:45,382
+<i>and really put that flow
+on the motherfuckin' map.</i>
+
+512
+00:23:45,465 --> 00:23:48,385
+<i>This nigga got hit
+after motherfuckin' hit.</i>
+
+513
+00:23:48,468 --> 00:23:52,013
+<i>ATL, y'all make some noise for my day one,</i>
+
+514
+00:23:52,097 --> 00:23:55,475
+<i>- Rich Homie Quan!
+- [AUDIENCE CHEERING]</i>
+
+515
+00:23:55,559 --> 00:23:57,727
+<i>- [BAND PLAYING "LIFESTYLE"]
+- Hey!</i>
+
+516
+00:23:58,478 --> 00:24:00,522
+<i>- [DC] Yo!
+- Hey!</i>
+
+517
+00:24:06,945 --> 00:24:10,031
+<i>♪ Did a lot of shit
+Just to live this here ♪</i>
+
+518
+00:24:10,115 --> 00:24:11,658
+<i>♪ Lifestyle ♪</i>
+
+519
+00:24:12,325 --> 00:24:14,953
+<i>♪ We came straight from the bottom
+To the top ♪</i>
+
+520
+00:24:15,036 --> 00:24:17,038
+<i>♪ My lifestyle ♪</i>
+
+521
+00:24:17,122 --> 00:24:20,041
+<i>♪ And I'm livin' life like a beginner
+But this is only the ♪</i>
+
+522
+00:24:20,125 --> 00:24:21,418
+<i>♪ Beginnin' ♪</i>
+
+523
+00:24:22,294 --> 00:24:25,213
+<i>♪ I'm on the top of the mountain
+Puffin' on clouds and niggas still ♪</i>
+
+524
+00:24:25,297 --> 00:24:26,256
+<i>♪ Beginnin' ♪</i>
+
+525
+00:24:26,339 --> 00:24:27,674
+<i>♪ I do it for my daddy ♪</i>
+
+526
+00:24:27,757 --> 00:24:28,842
+<i>♪ I do it for my mama ♪</i>
+
+527
+00:24:28,925 --> 00:24:31,428
+<i>♪ Them long nights
+I swear to God, I do it for the come up ♪</i>
+
+528
+00:24:31,511 --> 00:24:34,055
+<i>♪ And well I be beating on my chest
+In the jungle, aye ♪</i>
+
+529
+00:24:34,139 --> 00:24:36,933
+<i>♪ Money on money
+I got commas in every bank ♪</i>
+
+530
+00:24:37,017 --> 00:24:39,352
+<i>♪ Sunday through Monday
+I been grindin' with no sleep ♪</i>
+
+531
+00:24:39,436 --> 00:24:41,855
+<i>♪ Talkin' 'bout takin' somethin' from me
+Like, "No way" ♪</i>
+
+532
+00:24:41,938 --> 00:24:45,025
+<i>♪ Thugger Thugger, everyone a brother
+You don't want no trouble trouble ♪</i>
+
+533
+00:24:45,108 --> 00:24:47,444
+<i>♪ Or you can get these fists
+Knuckle knuckle ♪</i>
+
+534
+00:24:47,527 --> 00:24:49,863
+<i>♪ Buckle up like a seatbelt
+Or I'll shoot ya ♪</i>
+
+535
+00:24:49,946 --> 00:24:51,198
+<i>♪ Punchin' on the gas ♪</i>
+
+536
+00:24:51,281 --> 00:24:52,491
+<i>- ♪ Too fast ♪
+- ♪ And I lose ya ♪</i>
+
+537
+00:24:52,574 --> 00:24:53,867
+<i>- ♪ I want a bed ♪
+- ♪ I'll do her ♪</i>
+
+538
+00:24:53,950 --> 00:24:55,118
+<i>- ♪ I want a head ♪
+- ♪ Medusa ♪</i>
+
+539
+00:24:55,202 --> 00:24:57,913
+<i>♪ I swear a nigga gone
+'Cause this strong I'm blowin' super ♪</i>
+
+540
+00:24:57,996 --> 00:25:00,081
+<i>- ♪ Hey! ♪
+- ♪ Grindin' for a new day ♪</i>
+
+541
+00:25:00,165 --> 00:25:01,833
+<i>- ♪ Hey, what we doin'? ♪
+- ♪ Skatin' ♪</i>
+
+542
+00:25:01,917 --> 00:25:03,418
+<i>♪ Like that nigga Lupe ♪</i>
+
+543
+00:25:03,502 --> 00:25:05,629
+<i>♪ Hey, I'm on the top just like toupee ♪</i>
+
+544
+00:25:06,213 --> 00:25:08,215
+<i>- ♪ Hey, I'm in her mouth just like ♪
+- ♪ Toothpaste ♪</i>
+
+545
+00:25:08,298 --> 00:25:09,382
+<i>♪ So let's sing to her ♪</i>
+
+546
+00:25:09,466 --> 00:25:11,510
+<i>♪ Did a lot of shit just to live ♪</i>
+
+547
+00:25:11,593 --> 00:25:13,762
+<i>♪ This here lifestyle ♪</i>
+
+548
+00:25:13,845 --> 00:25:14,679
+<i>♪ Let's go! ♪</i>
+
+549
+00:25:14,763 --> 00:25:17,599
+<i>♪ And we came straight from the bottom
+To the top ♪</i>
+
+550
+00:25:17,682 --> 00:25:18,975
+<i>♪ My lifestyle ♪</i>
+
+551
+00:25:19,476 --> 00:25:22,854
+<i>♪ And I'm livin' life like a beginner
+But this is only the ♪</i>
+
+552
+00:25:22,938 --> 00:25:24,231
+<i>♪ Beginnin' ♪</i>
+
+553
+00:25:24,814 --> 00:25:28,026
+<i>♪ I'm on the top of the mountain
+Puffin' on clouds and niggas still ♪</i>
+
+554
+00:25:28,109 --> 00:25:29,236
+<i>♪ Beginnin' ♪</i>
+
+555
+00:25:29,319 --> 00:25:30,529
+<i>♪ Hey! ♪</i>
+
+556
+00:25:30,612 --> 00:25:31,905
+<i>- ♪ Hey! ♪
+- ♪ Uh-oh ♪</i>
+
+557
+00:25:31,988 --> 00:25:33,281
+<i>- ♪ Hey! ♪
+- ♪ Uh-oh ♪</i>
+
+558
+00:25:33,365 --> 00:25:34,699
+<i>- ♪ Hey! ♪
+- ♪ Uh-oh ♪</i>
+
+559
+00:25:34,783 --> 00:25:36,618
+<i>What it do in this motherfucker?</i>
+
+560
+00:25:36,701 --> 00:25:38,370
+<i>Talk your shit, yo.</i>
+
+561
+00:25:38,453 --> 00:25:40,664
+<i>♪ I say a lot of "what it do"
+In this motherfucker ♪</i>
+
+562
+00:25:40,747 --> 00:25:43,250
+<i>♪ Hey! Hey! Hey! Hey! ♪</i>
+
+563
+00:25:43,333 --> 00:25:46,670
+<i>♪ I say a lot of "what it do"
+In this motherfucker ♪</i>
+
+564
+00:25:46,753 --> 00:25:48,505
+<i>- [SONG ENDS]
+- [QUAN] Aw, that's hard.</i>
+
+565
+00:25:48,588 --> 00:25:50,465
+<i>- [AUDIENCE CHEERING]
+- That's hard.</i>
+
+566
+00:25:50,549 --> 00:25:52,551
+<i>[BAND PLAYING "TYPE OF WAY"]</i>
+
+567
+00:25:57,430 --> 00:25:59,641
+<i>If you're from Atlanta,
+I know you know this.</i>
+
+568
+00:25:59,724 --> 00:26:01,268
+<i>You're gonna know it when I do it.</i>
+
+569
+00:26:01,351 --> 00:26:03,603
+<i>♪ Hey! Hey! Hey! ♪</i>
+
+570
+00:26:04,646 --> 00:26:08,024
+<i>♪ My niggas been hustlin'
+Trying to make him something ♪</i>
+
+571
+00:26:08,108 --> 00:26:10,569
+<i>- ♪ Ain't no telling what he'll do... ♪
+- ♪ For the paper ♪</i>
+
+572
+00:26:10,652 --> 00:26:11,653
+<i>♪ Ain't no telling ♪</i>
+
+573
+00:26:11,736 --> 00:26:14,864
+<i>♪ Soufflé, I'm straight
+I steak my plate ♪</i>
+
+574
+00:26:14,948 --> 00:26:17,242
+<i>♪ Sade, I'm a smooth operator ♪</i>
+
+575
+00:26:17,325 --> 00:26:19,536
+<i>♪ I drop the top of my whip, baby! ♪</i>
+
+576
+00:26:19,619 --> 00:26:21,413
+<i>♪ That car I'm driving
+Make you feel some... ♪</i>
+
+577
+00:26:21,496 --> 00:26:22,706
+<i>♪ Type of way ♪</i>
+
+578
+00:26:22,789 --> 00:26:25,834
+<i>- ♪ That custom Breitling make you feel ♪
+- ♪ Some type of way ♪</i>
+
+579
+00:26:26,334 --> 00:26:28,920
+<i>♪ This bitch I'm with got me feelin'
+Some type of way ♪</i>
+
+580
+00:26:29,546 --> 00:26:32,632
+<i>♪ Is it 'cause my homies rich
+You feel some type of way? ♪</i>
+
+581
+00:26:33,216 --> 00:26:36,011
+<i>♪ Some type of way
+Make you feel some type of way ♪</i>
+
+582
+00:26:36,094 --> 00:26:39,472
+<i>♪ Some type of way
+Make you feel some type of way ♪</i>
+
+583
+00:26:40,056 --> 00:26:42,767
+<i>♪ This bitch I'm with
+Feelin' some type of way ♪</i>
+
+584
+00:26:43,351 --> 00:26:45,228
+<i>♪ Is it 'cause my homies rich
+You feel some ♪</i>
+
+585
+00:26:45,312 --> 00:26:46,146
+<i>♪ Type of way? ♪</i>
+
+586
+00:26:46,229 --> 00:26:49,691
+<i>♪ Okay, now let's be real
+I know you feel some type of way ♪</i>
+
+587
+00:26:50,191 --> 00:26:52,694
+<i>♪ When I get to biting on her ear
+She make that Tyson face ♪</i>
+
+588
+00:26:52,777 --> 00:26:53,820
+<i>♪ Don't look like that ♪</i>
+
+589
+00:26:53,903 --> 00:26:56,448
+<i>♪ I drop down to my knees
+Thankful for life today ♪</i>
+
+590
+00:26:56,531 --> 00:26:58,950
+<i>- ♪ Thank you, Lord ♪
+- ♪ No naps, just long sleep ♪</i>
+
+591
+00:26:59,034 --> 00:27:00,076
+<i>♪ Hibernate ♪</i>
+
+592
+00:27:00,160 --> 00:27:03,830
+<i>♪ I can tell if he 12, right away ♪</i>
+
+593
+00:27:03,913 --> 00:27:06,916
+<i>♪ Go through hell 'cause I care
+Move you far away ♪</i>
+
+594
+00:27:07,000 --> 00:27:10,503
+<i>♪ Drop you off late
+Know he feel some type of way ♪</i>
+
+595
+00:27:11,004 --> 00:27:13,965
+<i>♪ I got hoes like golf
+Tryna make what Tiger makes ♪</i>
+
+596
+00:27:14,466 --> 00:27:15,800
+<i>♪ I got a hideaway ♪</i>
+
+597
+00:27:16,301 --> 00:27:19,596
+<i>♪ And I go there sometimes
+To give my mind a break ♪</i>
+
+598
+00:27:19,679 --> 00:27:20,889
+<i>♪ See, I find a way ♪</i>
+
+599
+00:27:21,389 --> 00:27:24,059
+<i>♪ To still get through the struggle
+What I'm tryna say ♪</i>
+
+600
+00:27:24,726 --> 00:27:27,187
+<i>♪ And I ain't lying today
+When I tell you that I love... ♪</i>
+
+601
+00:27:27,270 --> 00:27:30,649
+<i>♪ My niggas been hustlin'
+Trying to make him something ♪</i>
+
+602
+00:27:30,732 --> 00:27:33,234
+<i>♪ Ain't no telling
+What he'll do for the paper ♪</i>
+
+603
+00:27:33,318 --> 00:27:34,152
+<i>♪ Ain't no telling ♪</i>
+
+604
+00:27:34,235 --> 00:27:37,489
+<i>♪ Soufflé, I'm straight
+I steak my plate ♪</i>
+
+605
+00:27:37,572 --> 00:27:39,908
+<i>♪ Sade, what we do? What we do? ♪</i>
+
+606
+00:27:40,492 --> 00:27:42,160
+<i>♪ I drop the top of my whip, baby! ♪</i>
+
+607
+00:27:42,243 --> 00:27:45,413
+<i>♪ That car I'm driving make you feel
+Some type of way ♪</i>
+
+608
+00:27:45,497 --> 00:27:49,042
+<i>♪ That custom Breitling make you feel
+Some type of way ♪</i>
+
+609
+00:27:49,125 --> 00:27:51,795
+<i>♪ This bitch I'm with
+Got me feelin' some type of way ♪</i>
+
+610
+00:27:51,878 --> 00:27:55,298
+<i>♪ Is it 'cause my homies rich
+You feel some type of way? ♪</i>
+
+611
+00:27:55,965 --> 00:27:58,968
+<i>♪ Some type of way
+Make you feel some type of way ♪</i>
+
+612
+00:27:59,052 --> 00:28:02,097
+<i>♪ Heard she wanna fuck me
+Know you feel some type of way ♪</i>
+
+613
+00:28:03,098 --> 00:28:05,809
+<i>♪ Mr. CEO is what my title say ♪</i>
+
+614
+00:28:05,892 --> 00:28:09,354
+<i>♪ Me and my homies G'd your ho
+He feel some type of way ♪</i>
+
+615
+00:28:09,437 --> 00:28:10,271
+<i>♪ Hey! ♪</i>
+
+616
+00:28:10,355 --> 00:28:11,981
+<i>- ♪ Uh-oh ♪
+- ♪ Hey ♪</i>
+
+617
+00:28:12,065 --> 00:28:13,149
+<i>♪ Hey! ♪</i>
+
+618
+00:28:13,233 --> 00:28:14,442
+<i>♪ Don't look like that ♪</i>
+
+619
+00:28:14,526 --> 00:28:15,860
+<i>♪ Hey ♪</i>
+
+620
+00:28:15,944 --> 00:28:17,153
+<i>♪ Thank you, Lord ♪</i>
+
+621
+00:28:17,237 --> 00:28:18,488
+<i>♪ Hey, yo ♪</i>
+
+622
+00:28:19,072 --> 00:28:20,490
+<i>♪ Let's go, let's go ♪</i>
+
+623
+00:28:20,573 --> 00:28:21,991
+<i>Yo, that right too.</i>
+
+624
+00:28:22,951 --> 00:28:23,785
+<i>[SONG ENDS]</i>
+
+625
+00:28:23,868 --> 00:28:25,203
+<i>Hold that shit, hold up.</i>
+
+626
+00:28:25,286 --> 00:28:26,204
+<i>[CHICO] Yeah.</i>
+
+627
+00:28:26,287 --> 00:28:29,833
+<i>Y'all make some noise
+for Rich Homie Quan in this motherfucker.</i>
+
+628
+00:28:29,916 --> 00:28:31,000
+<i>[AUDIENCE CHEERING]</i>
+
+629
+00:28:31,084 --> 00:28:32,335
+<i>That's how we livin'.</i>
+
+630
+00:28:33,253 --> 00:28:35,422
+<i>We needed that little musical interlude.</i>
+
+631
+00:28:39,342 --> 00:28:42,095
+<i>- My man, you in here with the white lady?
+- That's his lady.</i>
+
+632
+00:28:42,178 --> 00:28:45,140
+<i>- That's what's up, slim. Salute to you.
+- What you talking about?</i>
+
+633
+00:28:45,223 --> 00:28:47,642
+<i>- My man with the white lady right there.
+- Like I said...</i>
+
+634
+00:28:47,726 --> 00:28:49,394
+<i>They both got glasses on too.</i>
+
+635
+00:28:49,477 --> 00:28:52,272
+<i>That's what Martin Luther King fought for.
+That's his wife.</i>
+
+636
+00:28:52,355 --> 00:28:54,774
+<i>See, I'm too goofy, man.</i>
+
+637
+00:28:54,858 --> 00:28:57,402
+<i>I couldn't do it.
+I never been with a white woman before.</i>
+
+638
+00:28:57,485 --> 00:28:59,154
+<i>I don't think nothin' wrong with it.</i>
+
+639
+00:28:59,237 --> 00:29:01,531
+<i>But I just couldn't do it
+'cause I'm too goofy.</i>
+
+640
+00:29:01,614 --> 00:29:04,534
+<i>If I had a white woman, I wouldn't
+fuck her to nothing but Negro spirituals.</i>
+
+641
+00:29:04,617 --> 00:29:09,581
+<i>♪ Ain't gonna let nobody turn me round ♪</i>
+
+642
+00:29:09,664 --> 00:29:11,499
+<i>♪ Turn me round ♪</i>
+
+643
+00:29:11,583 --> 00:29:13,626
+<i>- Gotta smack that ass.
+- ♪ Turn me round ♪</i>
+
+644
+00:29:13,710 --> 00:29:16,671
+<i>- It's for my ancestors.
+- ♪ I'm gonna keep on marchin' ♪</i>
+
+645
+00:29:16,755 --> 00:29:18,715
+<i>♪ Keep on a-lickin' ♪</i>
+
+646
+00:29:18,798 --> 00:29:21,593
+<i>♪ Marchin' up to freedom land ♪</i>
+
+647
+00:29:21,676 --> 00:29:23,511
+<i>Make sure you keep your church shoes on.</i>
+
+648
+00:29:25,096 --> 00:29:27,390
+<i>- [KARLOUS] How long you been married?
+- [INAUDIBLE DIALOGUE]</i>
+
+649
+00:29:27,474 --> 00:29:28,975
+<i>- Five years.
+- [KARLOUS] Five years.</i>
+
+650
+00:29:29,058 --> 00:29:31,811
+<i>Hey, bruh, real... real Black-man shit.</i>
+
+651
+00:29:31,895 --> 00:29:33,605
+<i>- Can she cook, bruh?
+- Oh yeah!</i>
+
+652
+00:29:34,105 --> 00:29:36,775
+<i>What can she make
+that can't nobody fuck with?</i>
+
+653
+00:29:36,858 --> 00:29:38,651
+<i>- [CHICO] Raisins.
+- [KARLOUS] Don't look at her.</i>
+
+654
+00:29:38,735 --> 00:29:40,695
+<i>- Don't look at her.
+- [DC] Raisins?</i>
+
+655
+00:29:40,779 --> 00:29:42,781
+<i>Raisins from scratch.</i>
+
+656
+00:29:42,864 --> 00:29:45,617
+<i>That ain't nothing but dried grapes.
+You ain't gotta cook them!</i>
+
+657
+00:29:45,700 --> 00:29:49,370
+<i>- She can make steak better than anybody?
+- [DC] I feel sorry for you.</i>
+
+658
+00:29:49,454 --> 00:29:51,956
+<i>You get a white lady,
+you make sure she feed you steak.</i>
+
+659
+00:29:52,040 --> 00:29:53,625
+<i>Don't settle for nothing less.</i>
+
+660
+00:29:53,708 --> 00:29:56,586
+<i>You sure you're not kidnapped, my boy?
+Look at me. You straight?</i>
+
+661
+00:29:57,837 --> 00:29:59,839
+<i>Move your eyebrows. Are you...?</i>
+
+662
+00:30:01,424 --> 00:30:03,551
+<i>Do she have you chained up by the ankles?</i>
+
+663
+00:30:04,260 --> 00:30:05,970
+<i>[KARLOUS]
+Ever since that one movie came out,</i>
+
+664
+00:30:06,054 --> 00:30:08,014
+<i>it got me looking
+at white people different.</i>
+
+665
+00:30:08,097 --> 00:30:10,391
+<i>- They be stealing Black people's bodies.
+- They do.</i>
+
+666
+00:30:10,475 --> 00:30:12,936
+<i>What if her granddaddy already...
+"I want him."</i>
+
+667
+00:30:13,686 --> 00:30:15,688
+<i>[AUDIENCE LAUGHING]</i>
+
+668
+00:30:22,362 --> 00:30:23,238
+<i>"I want him."</i>
+
+669
+00:30:23,822 --> 00:30:25,406
+<i>You don't know you're being set up,</i>
+
+670
+00:30:25,490 --> 00:30:28,409
+<i>her granddaddy like,
+"I'm gonna get that Black one there."</i>
+
+671
+00:30:29,202 --> 00:30:31,663
+<i>- "Go 'head, Ashley, get him."
+- Where y'all meet at?</i>
+
+672
+00:30:32,205 --> 00:30:33,331
+<i>Iron Skillet?</i>
+
+673
+00:30:33,414 --> 00:30:34,958
+<i>- [AUDIENCE LAUGHS]
+- [INAUDIBLE DIALOGUE]</i>
+
+674
+00:30:35,041 --> 00:30:37,377
+<i>- Hold up, what...
+- That's a truck stop on Bankhead.</i>
+
+675
+00:30:37,460 --> 00:30:39,379
+<i>[AUDIENCE LAUGHS]</i>
+
+676
+00:30:39,462 --> 00:30:41,840
+<i>- [KARLOUS] Iron Skillet?
+- "So you say you want some cocaine?"</i>
+
+677
+00:30:44,425 --> 00:30:46,427
+<i>We just fuckin' with you, bruh.</i>
+
+678
+00:30:47,303 --> 00:30:49,180
+<i>What's y'all favorite place to eat?
+Cracker Barrel?</i>
+
+679
+00:30:49,264 --> 00:30:51,808
+<i>- [KARLOUS] Shut the...
+- [INAUDIBLE DIALOGUE]</i>
+
+680
+00:30:51,891 --> 00:30:52,976
+<i>[CHICO] Yeah.</i>
+
+681
+00:30:53,059 --> 00:30:55,520
+<i>- I'm asking a question!
+- He just was being inquisitive.</i>
+
+682
+00:30:55,603 --> 00:30:56,646
+<i>He wants to know.</i>
+
+683
+00:30:56,729 --> 00:30:58,106
+<i>I would like to know as well.</i>
+
+684
+00:30:58,189 --> 00:31:00,149
+<i>- What the fuck is wrong with you?
+- I mean...</i>
+
+685
+00:31:00,233 --> 00:31:02,694
+<i>I used to eat raisins,
+'cause that was all a nigga had.</i>
+
+686
+00:31:03,236 --> 00:31:06,114
+<i>No cap. I used to eat raisins,
+'cause that was all a nigga had.</i>
+
+687
+00:31:06,197 --> 00:31:07,490
+<i>All you had was raisins?</i>
+
+688
+00:31:07,574 --> 00:31:10,285
+<i>I always wanted grapes,
+but she said, "Raisins in the box."</i>
+
+689
+00:31:11,870 --> 00:31:13,872
+<i>That's when I realized
+they was dried grapes.</i>
+
+690
+00:31:13,955 --> 00:31:16,124
+<i>And I was like,
+"These some good dried grapes."</i>
+
+691
+00:31:17,125 --> 00:31:19,002
+<i>- Boy, what the fuck?
+- Grew up rough.</i>
+
+692
+00:31:19,085 --> 00:31:20,753
+<i>I told you I used to eat sardines.</i>
+
+693
+00:31:20,837 --> 00:31:23,089
+<i>Then I found out, nigga, that's dead fish.</i>
+
+694
+00:31:23,172 --> 00:31:25,258
+<i>What you thought they was
+before you found out?</i>
+
+695
+00:31:25,341 --> 00:31:28,011
+<i>I just thought it was meat,
+that's what they told me.</i>
+
+696
+00:31:29,679 --> 00:31:31,222
+<i>Meat with eyes, I was...</i>
+
+697
+00:31:31,764 --> 00:31:33,892
+<i>- [KARLOUS] Yeah.
+- [CHICO] Bruh, you had a hard-ass life.</i>
+
+698
+00:31:33,975 --> 00:31:38,438
+<i>Bruh, I grew up with parents
+who was children of slaves.</i>
+
+699
+00:31:40,106 --> 00:31:41,858
+<i>- What?
+- I'mma say that again.</i>
+
+700
+00:31:41,941 --> 00:31:46,821
+<i>I grew up with parents
+who were children of slaves.</i>
+
+701
+00:31:46,905 --> 00:31:48,740
+<i>- He got them old parents.
+- Oh.</i>
+
+702
+00:31:48,823 --> 00:31:49,699
+<i>Yeah.</i>
+
+703
+00:31:49,782 --> 00:31:51,868
+<i>My daddy had me when he was 61, nigga.</i>
+
+704
+00:31:51,951 --> 00:31:54,537
+<i>My grandmama was... a slave.</i>
+
+705
+00:31:56,080 --> 00:31:58,708
+<i>- Boy, your daddy had you when he was 61?
+- [DC] No cap.</i>
+
+706
+00:31:58,791 --> 00:32:02,670
+<i>Nigga, you was supposed to have
+been born 35 years earlier...</i>
+
+707
+00:32:02,754 --> 00:32:05,673
+<i>When he nutted, won't nobody
+in there with me. It was just me.</i>
+
+708
+00:32:06,424 --> 00:32:08,676
+<i>- You was the only sperm left?
+- The only nigga.</i>
+
+709
+00:32:08,760 --> 00:32:10,511
+<i>I was like, "Don't nobody wanna come?"</i>
+
+710
+00:32:10,595 --> 00:32:12,847
+<i>"Okay. Shit. This is easy!"</i>
+
+711
+00:32:14,933 --> 00:32:18,645
+<i>Well, welcome to the world,
+DC Young Fly. I'm glad you was in there.</i>
+
+712
+00:32:21,272 --> 00:32:23,524
+<i>How old... Do you got any siblings?</i>
+
+713
+00:32:23,608 --> 00:32:24,442
+<i>- Who?
+- You?</i>
+
+714
+00:32:24,525 --> 00:32:26,778
+<i>Nigga, I was a great uncle at nine.</i>
+
+715
+00:32:29,322 --> 00:32:31,908
+<i>So how old is your oldest sibling?</i>
+
+716
+00:32:31,991 --> 00:32:33,868
+<i>How old is my older sibling right now?</i>
+
+717
+00:32:33,952 --> 00:32:36,788
+<i>- I think he's 69.
+- Sixty-nine?</i>
+
+718
+00:32:37,622 --> 00:32:39,749
+<i>That's that motherfuckin'
+grandbrother, nigga.</i>
+
+719
+00:32:39,832 --> 00:32:42,251
+<i>- A nigga got that grandbrother.
+- [AUDIENCE LAUGHS]</i>
+
+720
+00:32:42,335 --> 00:32:43,586
+<i>This is my grandbrother.</i>
+
+721
+00:32:44,629 --> 00:32:47,215
+<i>You better not laugh, bitch.
+You better not...</i>
+
+722
+00:32:48,841 --> 00:32:51,010
+<i>You imagine, your kids come home,</i>
+
+723
+00:32:52,011 --> 00:32:54,138
+<i>and they done got into it at school,</i>
+
+724
+00:32:54,973 --> 00:32:57,558
+<i>and they like,
+"He went and got his big brother."</i>
+
+725
+00:32:58,351 --> 00:32:59,978
+<i>"What grade his big brother in?"</i>
+
+726
+00:33:00,061 --> 00:33:02,230
+<i>"His big brother's 47."</i>
+
+727
+00:33:02,313 --> 00:33:03,773
+<i>[AUDIENCE LAUGHS]</i>
+
+728
+00:33:03,856 --> 00:33:06,192
+<i>"His big brother whupped both our ass."</i>
+
+729
+00:33:07,110 --> 00:33:10,446
+<i>I remember one time, I got my brother
+to come fight with me one time.</i>
+
+730
+00:33:10,530 --> 00:33:11,781
+<i>My crackhead brother.</i>
+
+731
+00:33:12,991 --> 00:33:16,160
+<i>They ain't get mad, like, "I know
+that nigga, serve him all the time."</i>
+
+732
+00:33:16,244 --> 00:33:17,078
+<i>I'm like, "Nigga..."</i>
+
+733
+00:33:20,873 --> 00:33:23,084
+<i>Wait till he get on crack,
+that nigga get strong.</i>
+
+734
+00:33:25,586 --> 00:33:28,339
+<i>- Oh my God.
+- I couldn't even imagine going to get my...</i>
+
+735
+00:33:28,423 --> 00:33:31,217
+<i>get a crackhead brother to help you fight.</i>
+
+736
+00:33:31,300 --> 00:33:34,220
+<i>Especially if you done caught him
+right off the crack...</i>
+
+737
+00:33:34,303 --> 00:33:36,305
+<i>"Little bruh, somebody fuckin' with you?"</i>
+
+738
+00:33:38,307 --> 00:33:40,226
+<i>"Well, let's proceed. Where they at?"</i>
+
+739
+00:33:40,309 --> 00:33:43,229
+<i>Man, on everything I love,
+I seen my brother get punched,</i>
+
+740
+00:33:43,312 --> 00:33:45,148
+<i>and that shit didn't even faze him.</i>
+
+741
+00:33:45,231 --> 00:33:47,066
+<i>Nigga got... Nigga hit the dope...</i>
+
+742
+00:33:48,276 --> 00:33:49,110
+<i>"Nigga... Ah!"</i>
+
+743
+00:33:49,610 --> 00:33:51,029
+<i>"Nigga, that's all you got?"</i>
+
+744
+00:33:52,739 --> 00:33:55,825
+<i>I said, "Ooh, that cocaine, boy,
+gave that nigga a steel jaw."</i>
+
+745
+00:33:55,908 --> 00:33:57,827
+<i>[AUDIENCE LAUGHS]</i>
+
+746
+00:33:58,411 --> 00:33:59,829
+<i>What's going on?</i>
+
+747
+00:33:59,912 --> 00:34:02,373
+<i>- I fuck with this side over here.
+- [DC] That side over there?</i>
+
+748
+00:34:02,457 --> 00:34:04,751
+<i>This side over here all right, right here.</i>
+
+749
+00:34:04,834 --> 00:34:08,171
+<i>I don't know, I think I might
+fuck with this side right here, this.</i>
+
+750
+00:34:09,005 --> 00:34:11,841
+<i>This that westside, I can tell.
+Y'all from Martin Luther King!</i>
+
+751
+00:34:11,924 --> 00:34:14,302
+<i>Ain't nothing fuckin' with the middle.</i>
+
+752
+00:34:14,385 --> 00:34:15,762
+<i>The middle where it's at.</i>
+
+753
+00:34:15,845 --> 00:34:18,723
+<i>- [KARLOUS I DON'T KNOW.
+- [CHICO] The middle where it's at.</i>
+
+754
+00:34:18,806 --> 00:34:20,141
+<i>Wait a fuckin' minute.</i>
+
+755
+00:34:20,224 --> 00:34:22,351
+<i>Don't ever let them be louder than y'all.</i>
+
+756
+00:34:22,435 --> 00:34:24,937
+<i>I said I'm fuckin' with
+this side over here.</i>
+
+757
+00:34:25,021 --> 00:34:28,024
+<i>- [CHEERING AND YELLING]
+- [BAND PLAYING R&B MUSIC]</i>
+
+758
+00:34:28,983 --> 00:34:31,611
+<i>Everybody here got suspended,
+I don't know what y'all talkin' about.</i>
+
+759
+00:34:31,694 --> 00:34:33,613
+<i>Everybody on this side, make some noise.</i>
+
+760
+00:34:33,696 --> 00:34:35,698
+<i>[CHEERING AND YELLING]</i>
+
+761
+00:34:37,617 --> 00:34:39,994
+<i>- Sit your ass down, ma'am.
+- Yeah, nigga.</i>
+
+762
+00:34:40,078 --> 00:34:40,912
+<i>You can't hear.</i>
+
+763
+00:34:40,995 --> 00:34:44,165
+<i>Like I said,
+ain't nobody fuckin' with the middle!</i>
+
+764
+00:34:44,248 --> 00:34:45,750
+<i>[CHEERING AND YELLING]</i>
+
+765
+00:34:47,835 --> 00:34:50,463
+<i>♪ Ain't nobody fuckin' with the middle ♪</i>
+
+766
+00:34:50,546 --> 00:34:52,924
+<i>♪ Whoa ♪</i>
+
+767
+00:34:53,007 --> 00:34:54,050
+<i>♪ Who? ♪</i>
+
+768
+00:34:54,133 --> 00:34:57,220
+<i>♪ I said ain't nobody
+Fuckin' with the middle ♪</i>
+
+769
+00:34:57,720 --> 00:34:59,555
+<i>♪ Row ♪</i>
+
+770
+00:34:59,639 --> 00:35:01,474
+<i>You got me fucked up.</i>
+
+771
+00:35:01,557 --> 00:35:03,976
+<i>I want this side
+to repeat after me. Listen.</i>
+
+772
+00:35:04,477 --> 00:35:06,229
+<i>♪ You got me fucked up ♪</i>
+
+773
+00:35:06,312 --> 00:35:07,939
+<i>♪ You got me fucked up ♪</i>
+
+774
+00:35:08,022 --> 00:35:09,774
+<i>♪ You got me fucked up ♪</i>
+
+775
+00:35:09,857 --> 00:35:11,484
+<i>♪ You got me fucked up ♪</i>
+
+776
+00:35:11,567 --> 00:35:13,361
+<i>♪ You got me fucked up ♪</i>
+
+777
+00:35:13,444 --> 00:35:14,946
+<i>♪ You got me fucked up ♪</i>
+
+778
+00:35:15,029 --> 00:35:17,240
+<i>♪ Ooh ♪</i>
+
+779
+00:35:17,323 --> 00:35:18,449
+<i>♪ Ooh ♪</i>
+
+780
+00:35:18,533 --> 00:35:21,202
+<i>Boy, y'all sound
+fuckin' terrible over there.</i>
+
+781
+00:35:21,285 --> 00:35:23,830
+<i>Don't worry, this the children's choir.
+We workin' on it.</i>
+
+782
+00:35:24,831 --> 00:35:26,040
+<i>We gonna get it together.</i>
+
+783
+00:35:26,124 --> 00:35:27,875
+<i>Hey, middle, what we gonna tell 'em?</i>
+
+784
+00:35:28,376 --> 00:35:30,044
+<i>♪ Nigga, please ♪</i>
+
+785
+00:35:30,128 --> 00:35:31,879
+<i>♪ Nigga, please ♪</i>
+
+786
+00:35:31,963 --> 00:35:33,756
+<i>♪ Nigga, please ♪</i>
+
+787
+00:35:33,840 --> 00:35:35,174
+<i>♪ Nigga, please ♪</i>
+
+788
+00:35:35,258 --> 00:35:37,260
+<i>♪ Nigga, please ♪</i>
+
+789
+00:35:37,343 --> 00:35:38,386
+<i>♪ Nigga, please ♪</i>
+
+790
+00:35:38,469 --> 00:35:40,721
+<i>White man, you better not say nothin'!</i>
+
+791
+00:35:40,805 --> 00:35:41,681
+<i>♪ Nigga, please ♪</i>
+
+792
+00:35:41,764 --> 00:35:44,016
+<i>That nigga like this,
+"Uh-uh, I won't say that."</i>
+
+793
+00:35:44,100 --> 00:35:45,143
+<i>Is it our turn?</i>
+
+794
+00:35:45,226 --> 00:35:46,227
+<i>[MAN] Yeah!</i>
+
+795
+00:35:47,937 --> 00:35:49,730
+<i>I need everybody over here to say...</i>
+
+796
+00:35:51,899 --> 00:35:52,733
+<i>[CLEARS THROAT]</i>
+
+797
+00:35:53,359 --> 00:35:56,279
+<i>- I need y'all to say...
+- Thought that's what you want them to say.</i>
+
+798
+00:35:56,362 --> 00:35:58,948
+<i>♪ Y'all ain't fuckin' with us ♪</i>
+
+799
+00:35:59,907 --> 00:36:02,201
+<i>♪ Y'all ain't fuckin' with us ♪</i>
+
+800
+00:36:02,285 --> 00:36:04,871
+<i>♪ I said, y'all ain't fuckin' with us ♪</i>
+
+801
+00:36:04,954 --> 00:36:05,955
+<i>Thinkin' about that.</i>
+
+802
+00:36:06,622 --> 00:36:09,208
+<i>♪ Y'all ain't fuckin' with us ♪</i>
+
+803
+00:36:09,959 --> 00:36:11,294
+<i>♪ Shit ♪</i>
+
+804
+00:36:11,919 --> 00:36:12,837
+<i>♪ Shit ♪</i>
+
+805
+00:36:12,920 --> 00:36:14,463
+<i>♪ I said, shit ♪</i>
+
+806
+00:36:14,964 --> 00:36:16,215
+<i>♪ Shit ♪</i>
+
+807
+00:36:16,299 --> 00:36:18,551
+<i>♪ I said, shit ♪</i>
+
+808
+00:36:18,634 --> 00:36:19,594
+<i>♪ Shit ♪</i>
+
+809
+00:36:19,677 --> 00:36:21,971
+<i>♪ I said, shit ♪</i>
+
+810
+00:36:22,054 --> 00:36:23,472
+<i>♪ Shit ♪</i>
+
+811
+00:36:23,973 --> 00:36:24,974
+<i>That was it?</i>
+
+812
+00:36:25,057 --> 00:36:26,601
+<i>- That's all we gotta say.
+- [DC] Look.</i>
+
+813
+00:36:26,684 --> 00:36:28,477
+<i>♪ Y'all coochie stink ♪</i>
+
+814
+00:36:28,561 --> 00:36:30,062
+<i>♪ Y'all coochie stink ♪</i>
+
+815
+00:36:30,146 --> 00:36:32,064
+<i>♪ Y'all coochie stink ♪</i>
+
+816
+00:36:32,148 --> 00:36:33,399
+<i>♪ Y'all coochie stink ♪</i>
+
+817
+00:36:33,482 --> 00:36:35,067
+<i>♪ Y'all coochie stink ♪</i>
+
+818
+00:36:35,151 --> 00:36:36,360
+<i>♪ Y'all coochie stink ♪</i>
+
+819
+00:36:36,444 --> 00:36:38,654
+<i>- Okay, it's our turn.
+- ♪ Y'all coochie stink ♪</i>
+
+820
+00:36:38,738 --> 00:36:40,531
+<i>♪ Y'all coochie stink ♪</i>
+
+821
+00:36:41,782 --> 00:36:45,203
+<i>All right, this is gonna be specifically
+for the people on that side, okay.</i>
+
+822
+00:36:47,747 --> 00:36:49,457
+<i>I need everybody over here to say...</i>
+
+823
+00:36:51,000 --> 00:36:53,169
+<i>♪ Y'all suck dick for cigarettes ♪</i>
+
+824
+00:36:54,420 --> 00:36:56,631
+<i>♪ Y'all suck dick for cigarettes ♪</i>
+
+825
+00:36:57,798 --> 00:37:00,218
+<i>♪ Y'all suck dick for cigarettes ♪</i>
+
+826
+00:37:00,927 --> 00:37:03,679
+<i>♪ Y'all suck dick for cigarettes ♪</i>
+
+827
+00:37:03,763 --> 00:37:04,847
+<i>[AUDIENCE LAUGHING]</i>
+
+828
+00:37:06,182 --> 00:37:07,225
+<i>Whoa, hey.</i>
+
+829
+00:37:09,185 --> 00:37:10,019
+<i>No.</i>
+
+830
+00:37:11,395 --> 00:37:14,440
+<i>♪ What the fuck is wrong
+With both sides? ♪</i>
+
+831
+00:37:14,982 --> 00:37:17,568
+<i>♪ What the fuck is wrong
+With both sides? ♪</i>
+
+832
+00:37:17,652 --> 00:37:21,030
+<i>♪ I said
+What the fuck is wrong with both sides? ♪</i>
+
+833
+00:37:21,530 --> 00:37:24,408
+<i>♪ What the fuck is wrong
+With both sides? ♪</i>
+
+834
+00:37:24,492 --> 00:37:25,618
+<i>Got something for y'all.</i>
+
+835
+00:37:25,701 --> 00:37:27,703
+<i>Y'all gotta listen to me.
+Wait till I'm done.</i>
+
+836
+00:37:28,454 --> 00:37:31,457
+<i>♪ Y'all got a car in the front yard ♪</i>
+
+837
+00:37:31,540 --> 00:37:34,835
+<i>♪ And it don't work ♪</i>
+
+838
+00:37:35,336 --> 00:37:38,381
+<i>♪ Y'all got a car in the front yard ♪</i>
+
+839
+00:37:38,464 --> 00:37:41,092
+<i>♪ And it don't work ♪</i>
+
+840
+00:37:41,175 --> 00:37:42,134
+<i>Ooh!</i>
+
+841
+00:37:42,218 --> 00:37:44,804
+<i>♪ Y'all got a car in the front yard ♪</i>
+
+842
+00:37:45,388 --> 00:37:48,557
+<i>♪ And it don't work ♪</i>
+
+843
+00:37:49,141 --> 00:37:52,144
+<i>♪ Y'all got a car in the front yard ♪</i>
+
+844
+00:37:52,228 --> 00:37:54,897
+<i>♪ And it don't work ♪</i>
+
+845
+00:37:55,523 --> 00:37:58,401
+<i>Y'all ain't shit
+for trying to sing that shit at the end.</i>
+
+846
+00:38:00,027 --> 00:38:01,570
+<i>- [DC] What?
+- [SONG ENDS]</i>
+
+847
+00:38:01,654 --> 00:38:03,072
+<i>- DC.
+- [BAND PLAYING FUNK MUSIC]</i>
+
+848
+00:38:03,155 --> 00:38:04,740
+<i>This how your little cousin be.</i>
+
+849
+00:38:04,824 --> 00:38:07,285
+<i>When he get
+that new keyboard for Christmas.</i>
+
+850
+00:38:08,494 --> 00:38:10,913
+<i>- That's Bryan.
+- That's Bryan-Michael Cox right there.</i>
+
+851
+00:38:10,997 --> 00:38:12,707
+<i>That's Bryan-Michael Cox right there.</i>
+
+852
+00:38:12,790 --> 00:38:14,917
+<i>[CHICO] And if you don't know
+who Bryan-Michael Cox is,</i>
+
+853
+00:38:15,001 --> 00:38:16,877
+<i>then you's a sucka.</i>
+
+854
+00:38:17,837 --> 00:38:20,673
+<i>- That's the OG right there.
+- One of the greatest to ever do it.</i>
+
+855
+00:38:20,756 --> 00:38:22,300
+<i>Show 'em what you do, baby.</i>
+
+856
+00:38:22,383 --> 00:38:24,260
+<i>[PIANO CHORD SWELLS]</i>
+
+857
+00:38:24,343 --> 00:38:27,013
+<i>Come on, Bryan.
+We gonna take 'em to church.</i>
+
+858
+00:38:27,596 --> 00:38:29,890
+<i>♪ That is Bryan-Michael Cox ♪</i>
+
+859
+00:38:30,474 --> 00:38:32,393
+<i>♪ That nigga ain't got on socks ♪</i>
+
+860
+00:38:32,476 --> 00:38:34,478
+<i>[PLAYING LIVELY MELODY]</i>
+
+861
+00:38:38,316 --> 00:38:39,317
+<i>[KARLOUS] Oh shit.</i>
+
+862
+00:38:39,400 --> 00:38:41,652
+<i>I will dance with your auntie
+off this shit.</i>
+
+863
+00:38:42,153 --> 00:38:44,071
+<i>- Guess what?
+- Where an old Black woman at?</i>
+
+864
+00:38:44,155 --> 00:38:46,574
+<i>- Goddamn it, I'mma...
+- Uh-oh. Where she at?</i>
+
+865
+00:38:50,328 --> 00:38:51,620
+<i>You gotta get somebody real...</i>
+
+866
+00:38:51,704 --> 00:38:53,831
+<i>Oh!</i>
+
+867
+00:38:53,914 --> 00:38:55,291
+<i>[AUDIENCE CHEERING]</i>
+
+868
+00:38:55,374 --> 00:38:57,585
+<i>Oh! Oh!</i>
+
+869
+00:38:58,627 --> 00:38:59,795
+<i>Oh!</i>
+
+870
+00:38:59,879 --> 00:39:02,715
+<i>Oh! Oh!</i>
+
+871
+00:39:02,798 --> 00:39:05,134
+<i>♪ Drop it like it's hot, Auntie ♪</i>
+
+872
+00:39:05,760 --> 00:39:08,220
+<i>♪ Drop it like it's hot, Auntie, unh! ♪</i>
+
+873
+00:39:08,304 --> 00:39:11,223
+<i>♪ Drop it like it's hot, Auntie, unh! ♪</i>
+
+874
+00:39:11,307 --> 00:39:13,893
+<i>Unh! Oh! [WHOOPS]</i>
+
+875
+00:39:14,769 --> 00:39:18,606
+<i>Ooh! Oh!</i>
+
+876
+00:39:20,024 --> 00:39:21,067
+<i>Oh, that's good!</i>
+
+877
+00:39:23,110 --> 00:39:24,445
+<i>[KARLOUS] Y'all turn this shit...</i>
+
+878
+00:39:24,528 --> 00:39:26,781
+<i>- Turn this shit off immediately.
+- [MUSIC STOPS]</i>
+
+879
+00:39:26,864 --> 00:39:29,492
+<i>- Turn this shit off.
+- We went down the wrong aisle. Shit!</i>
+
+880
+00:39:29,575 --> 00:39:33,079
+<i>Chico, you about to fuck around and be
+somebody step-granddaddy in this bitch.</i>
+
+881
+00:39:33,162 --> 00:39:35,247
+<i>[AUDIENCE LAUGHS]</i>
+
+882
+00:39:36,123 --> 00:39:39,710
+<i>Boy, I was scared for you when she put
+that big old pussy on you, I was scared.</i>
+
+883
+00:39:40,336 --> 00:39:42,671
+<i>Nah, that pussy big
+as a baseball glove, you saw it.</i>
+
+884
+00:39:42,755 --> 00:39:44,924
+<i>- Ah!
+- [AUDIENCE LAUGHING]</i>
+
+885
+00:39:45,758 --> 00:39:47,968
+<i>She got that
+hind-catcher glove down there.</i>
+
+886
+00:39:50,346 --> 00:39:51,389
+<i>[DC] Oh!</i>
+
+887
+00:39:51,931 --> 00:39:53,766
+<i>Auntie! Who you came with, baby?</i>
+
+888
+00:39:54,350 --> 00:39:56,894
+<i>- My nephew right there.
+- [DC] Who your nephew is?</i>
+
+889
+00:39:56,977 --> 00:39:58,312
+<i>In the... In the middle?</i>
+
+890
+00:39:58,813 --> 00:40:01,690
+<i>Why the fuck you ain't tell us
+your auntie was out there, nigga?</i>
+
+891
+00:40:01,774 --> 00:40:03,943
+<i>Poppin' that pussy for a real nigga...</i>
+
+892
+00:40:04,026 --> 00:40:05,444
+<i>I don't like to explain shit.</i>
+
+893
+00:40:05,528 --> 00:40:08,364
+<i>She used to fuck with my uncle,
+then she quit fuckin' with him.</i>
+
+894
+00:40:08,447 --> 00:40:11,659
+<i>But then I saw her, and she told me
+she was still my auntie, so...</i>
+
+895
+00:40:12,410 --> 00:40:14,829
+<i>- Yeah, that's usually how it go.
+- Damn.</i>
+
+896
+00:40:15,830 --> 00:40:17,832
+<i>Your family is full of freaks.</i>
+
+897
+00:40:19,500 --> 00:40:20,459
+<i>[KARLOUS] All right.</i>
+
+898
+00:40:21,293 --> 00:40:22,128
+<i>Hoo!</i>
+
+899
+00:40:22,211 --> 00:40:24,296
+<i>You keep tryin' to fuck
+with them grown women,</i>
+
+900
+00:40:24,380 --> 00:40:27,466
+<i>they gonna have you over there
+eatin' pussy and making potato salad.</i>
+
+901
+00:40:28,759 --> 00:40:31,929
+<i>"Go on, I need you to cut up
+eight big potatoes, baby."</i>
+
+902
+00:40:32,012 --> 00:40:33,681
+<i>[AUDIENCE LAUGHING]</i>
+
+903
+00:40:33,764 --> 00:40:37,393
+<i>You know old ladies say "buh-tatuhs."
+"You gotta cut up eight big buh-tatuhs."</i>
+
+904
+00:40:40,104 --> 00:40:42,481
+<i>- This shit is turnt up, man.
+- This shit crazy, bruh.</i>
+
+905
+00:40:42,565 --> 00:40:46,277
+<i>I ain't never been down through here,
+this shit look like a megachurch tonight.</i>
+
+906
+00:40:46,944 --> 00:40:48,737
+<i>This where Jimi be playin', 2 Chainz...</i>
+
+907
+00:40:48,821 --> 00:40:50,072
+<i>I'm about to come out like,</i>
+
+908
+00:40:50,156 --> 00:40:53,534
+<i>"Ladies and gentlemen,
+we've raised over $1 million</i>
+
+909
+00:40:53,617 --> 00:40:56,245
+<i>for the African-American
+Scholarship Foundation."</i>
+
+910
+00:40:56,328 --> 00:40:58,164
+<i>- Yes, indeed.
+- [BAND PLAYING GOSPEL MUSIC]</i>
+
+911
+00:40:58,247 --> 00:40:59,081
+<i>[DC] Banneker.</i>
+
+912
+00:40:59,165 --> 00:41:01,834
+<i>Don't this feel like
+a megachurch for real?</i>
+
+913
+00:41:02,626 --> 00:41:06,172
+<i>I feel like I could
+really be a megachurch pastor 'cause...</i>
+
+914
+00:41:06,255 --> 00:41:08,174
+<i>You talkin'... You poppin' your shit.</i>
+
+915
+00:41:08,257 --> 00:41:10,551
+<i>I feel like that's
+one of the easiest jobs.</i>
+
+916
+00:41:10,634 --> 00:41:11,677
+<i>Amen.</i>
+
+917
+00:41:11,760 --> 00:41:13,471
+<i>You don't gotta really say nothing.</i>
+
+918
+00:41:13,554 --> 00:41:15,848
+<i>Reverend Karlous Miller.</i>
+
+919
+00:41:15,931 --> 00:41:19,560
+<i>All you gotta do is come out
+and say the same thing two times.</i>
+
+920
+00:41:19,643 --> 00:41:21,604
+<i>And convince everybody
+that it sounds good.</i>
+
+921
+00:41:21,687 --> 00:41:24,857
+<i>The floor is yours,
+Reverend Karlous Miller.</i>
+
+922
+00:41:24,940 --> 00:41:27,651
+<i>Megachurch pastor come out
+and say something just like this.</i>
+
+923
+00:41:27,735 --> 00:41:29,236
+<i>It be exactly like this.</i>
+
+924
+00:41:31,655 --> 00:41:33,073
+<i>See, this...</i>
+
+925
+00:41:33,991 --> 00:41:35,493
+<i>that's the problem</i>
+
+926
+00:41:36,410 --> 00:41:38,829
+<i>with our people right here today.</i>
+
+927
+00:41:40,539 --> 00:41:43,000
+<i>We got people in the congregation,</i>
+
+928
+00:41:43,083 --> 00:41:45,419
+<i>in the church with us right now...</i>
+
+929
+00:41:45,503 --> 00:41:46,670
+<i>Amen.</i>
+
+930
+00:41:47,254 --> 00:41:49,715
+<i>We got some people in here today that's</i>
+
+931
+00:41:50,633 --> 00:41:52,134
+<i>tryin' to stay</i>
+
+932
+00:41:53,552 --> 00:41:55,221
+<i>where they don't live.</i>
+
+933
+00:41:55,804 --> 00:41:57,806
+<i>Amen.</i>
+
+934
+00:41:57,890 --> 00:42:00,267
+<i>And we got people tryin' to live</i>
+
+935
+00:42:01,060 --> 00:42:03,020
+<i>where they don't stay. [LAUGHS]</i>
+
+936
+00:42:03,103 --> 00:42:05,231
+<i>[AUDIENCE CHEERING AND WHOOPING]</i>
+
+937
+00:42:05,314 --> 00:42:08,442
+<i>I wish I could talk to just
+one person in here tonight.</i>
+
+938
+00:42:09,235 --> 00:42:11,237
+<i>I said you either stayin'...</i>
+
+939
+00:42:12,196 --> 00:42:13,405
+<i>or you livin'.</i>
+
+940
+00:42:14,240 --> 00:42:15,824
+<i>And you either livin'...</i>
+
+941
+00:42:16,575 --> 00:42:18,202
+<i>[GOSPEL MUSIC CONTINUES]</i>
+
+942
+00:42:18,285 --> 00:42:20,287
+<i>[AUDIENCE LAUGHING]</i>
+
+943
+00:42:26,460 --> 00:42:29,463
+<i>Y'all ain't heard nothing I said.
+I said, you either...</i>
+
+944
+00:42:30,506 --> 00:42:31,715
+<i>stayin'...</i>
+
+945
+00:42:34,426 --> 00:42:35,678
+<i>or you livin'.</i>
+
+946
+00:42:36,637 --> 00:42:38,180
+<i>You either livin'...</i>
+
+947
+00:42:41,350 --> 00:42:43,519
+<i>You see how it can't be both?</i>
+
+948
+00:42:43,602 --> 00:42:46,021
+<i>I said, you see how it can't be both?</i>
+
+949
+00:42:46,605 --> 00:42:49,024
+<i>I said, you see how it can't be...</i>
+
+950
+00:42:50,484 --> 00:42:52,820
+<i>♪ You either livin' ♪</i>
+
+951
+00:42:54,363 --> 00:42:57,116
+<i>♪ You can't live where you stay ♪</i>
+
+952
+00:42:57,908 --> 00:43:00,995
+<i>You cannot live where you do not stay.</i>
+
+953
+00:43:01,579 --> 00:43:04,623
+<i>♪ You cannot stay where you live ♪</i>
+
+954
+00:43:04,707 --> 00:43:06,458
+<i>You cannot stay...</i>
+
+955
+00:43:07,042 --> 00:43:07,876
+<i>♪ Ooh ♪</i>
+
+956
+00:43:07,960 --> 00:43:09,295
+<i>where you do not live.</i>
+
+957
+00:43:09,378 --> 00:43:10,254
+<i>♪ Livin' ♪</i>
+
+958
+00:43:10,796 --> 00:43:12,131
+<i>♪ Livin' ♪</i>
+
+959
+00:43:12,715 --> 00:43:13,757
+<i>♪ Livin' ♪</i>
+
+960
+00:43:15,050 --> 00:43:17,261
+<i>♪ Whoa! ♪</i>
+
+961
+00:43:20,222 --> 00:43:23,142
+<i>♪ You... ♪</i>
+
+962
+00:43:23,225 --> 00:43:24,685
+<i>♪ You been livin' ♪</i>
+
+963
+00:43:26,604 --> 00:43:28,606
+<i>♪ You either livin' ♪</i>
+
+964
+00:43:28,689 --> 00:43:30,316
+<i>♪ You... ♪</i>
+
+965
+00:43:30,399 --> 00:43:31,650
+<i>[KARLOUS] You've gotta be...</i>
+
+966
+00:43:32,151 --> 00:43:33,569
+<i>You gotta be.</i>
+
+967
+00:43:33,652 --> 00:43:36,947
+<i>♪ Ooh, yeah ♪</i>
+
+968
+00:43:37,448 --> 00:43:39,450
+<i>♪ You either stayin' ♪</i>
+
+969
+00:43:40,909 --> 00:43:43,329
+<i>♪ You either livin' ♪</i>
+
+970
+00:43:44,580 --> 00:43:46,582
+<i>♪ You either stayin' ♪</i>
+
+971
+00:43:47,249 --> 00:43:50,127
+<i>♪ Oh, you either livin' ♪</i>
+
+972
+00:43:50,210 --> 00:43:53,964
+<i>- To all the fellas in the house tonight...
+- ♪ Can't live where you stay ♪</i>
+
+973
+00:43:54,048 --> 00:43:56,550
+<i>...if you stayin' with a woman,</i>
+
+974
+00:43:57,635 --> 00:43:59,219
+<i>and she ain't payin'</i>
+
+975
+00:44:00,054 --> 00:44:01,555
+<i>all the bills,</i>
+
+976
+00:44:01,639 --> 00:44:02,806
+<i>[AUDIENCE LAUGHS]</i>
+
+977
+00:44:02,890 --> 00:44:04,558
+<i>and you just layin' up,</i>
+
+978
+00:44:06,018 --> 00:44:09,521
+<i>and she asks you why
+you're not helping her with these bills,</i>
+
+979
+00:44:10,606 --> 00:44:13,609
+<i>I want you to look her
+right in the face and say, "Baby,</i>
+
+980
+00:44:14,360 --> 00:44:16,111
+<i>I don't live here."</i>
+
+981
+00:44:18,697 --> 00:44:20,157
+<i>"I stay here."</i>
+
+982
+00:44:21,742 --> 00:44:23,535
+<i>'Cause you can't stay...</i>
+
+983
+00:44:24,912 --> 00:44:26,246
+<i>where you don't live.</i>
+
+984
+00:44:28,832 --> 00:44:31,502
+<i>♪ You can't stay where you live, baby ♪</i>
+
+985
+00:44:32,044 --> 00:44:34,713
+<i>♪ How many people
+Stayin' with God, yeah? ♪</i>
+
+986
+00:44:35,381 --> 00:44:38,801
+<i>- ♪ How many people live for Jesus? ♪
+- [KARLOUS] Come on.</i>
+
+987
+00:44:38,884 --> 00:44:42,680
+<i>♪ Oh, you gotta stay with God
+And live with Jesus ♪</i>
+
+988
+00:44:42,763 --> 00:44:44,848
+<i>♪ Ooh ♪</i>
+
+989
+00:44:44,932 --> 00:44:46,100
+<i>♪ Ooh ♪</i>
+
+990
+00:44:46,183 --> 00:44:47,601
+<i>You feel that feeling?</i>
+
+991
+00:44:48,519 --> 00:44:50,938
+<i>See, you was playing at first,
+then it got real.</i>
+
+992
+00:44:51,021 --> 00:44:54,358
+<i>♪ Can't stay where you live
+Ooh ♪</i>
+
+993
+00:44:54,441 --> 00:44:55,275
+<i>I'mma get in.</i>
+
+994
+00:44:55,359 --> 00:44:56,777
+<i>♪ In the name of the Lord ♪</i>
+
+995
+00:44:56,860 --> 00:44:58,779
+<i>♪ You can't stay where you live ♪</i>
+
+996
+00:44:58,862 --> 00:45:02,366
+<i>- ♪ In the name ♪
+- ♪ Ooh ♪</i>
+
+997
+00:45:02,449 --> 00:45:03,826
+<i>♪ In the name of the Lord ♪</i>
+
+998
+00:45:03,909 --> 00:45:07,037
+<i>Some people say
+gospel music has gotten too radical.</i>
+
+999
+00:45:08,580 --> 00:45:11,291
+<i>♪ Oh, we gonna keep rollin' ♪</i>
+
+1000
+00:45:11,375 --> 00:45:13,335
+<i>- Know what's funny?
+- ♪ In the name of the Lord ♪</i>
+
+1001
+00:45:13,419 --> 00:45:15,212
+<i>You gonna be walking to the car like...</i>
+
+1002
+00:45:15,295 --> 00:45:16,755
+<i>♪ Ooh ♪</i>
+
+1003
+00:45:16,839 --> 00:45:18,549
+<i>♪ We rollin' ♪</i>
+
+1004
+00:45:18,632 --> 00:45:20,467
+<i>♪ In the name of the Lord ♪</i>
+
+1005
+00:45:20,551 --> 00:45:24,096
+<i>- ♪ Ooh ♪
+- ♪ J-E-S-U-S ♪</i>
+
+1006
+00:45:24,179 --> 00:45:27,599
+<i>- ♪ Ooh ♪
+- ♪ J-E-S-U-S ♪</i>
+
+1007
+00:45:27,683 --> 00:45:31,103
+<i>- ♪ Ooh ♪
+- ♪ J-E-S-U-S ♪</i>
+
+1008
+00:45:32,146 --> 00:45:33,313
+<i>♪ Name of the... ♪</i>
+
+1009
+00:45:33,397 --> 00:45:35,482
+<i>- ♪ Mighty name of the... ♪
+- Chico got the Holy Thing.</i>
+
+1010
+00:45:35,566 --> 00:45:36,859
+<i>♪ In the name of the... ♪</i>
+
+1011
+00:45:36,942 --> 00:45:38,527
+<i>♪ Mighty name of the... ♪</i>
+
+1012
+00:45:38,610 --> 00:45:42,030
+<i>♪ Glory name of the J-E-S-U-S ♪</i>
+
+1013
+00:45:42,114 --> 00:45:43,449
+<i>♪ Can't stay where you live ♪</i>
+
+1014
+00:45:43,532 --> 00:45:46,076
+<i>♪ To the J-E-S-U-S ♪</i>
+
+1015
+00:45:46,160 --> 00:45:48,954
+<i>[KARLOUS]
+Chico done caught the Spirit, Jesus!</i>
+
+1016
+00:45:49,037 --> 00:45:50,956
+<i>♪ Can't stay where you live, yeah ♪</i>
+
+1017
+00:45:51,039 --> 00:45:52,708
+<i>♪ J-E-S-U-S ♪</i>
+
+1018
+00:45:52,791 --> 00:45:55,127
+<i>- ♪ Can't stay where you live ♪
+- ♪ In the name... ♪</i>
+
+1019
+00:45:55,210 --> 00:45:57,296
+<i>- ♪ Ooh ♪
+- ♪ In the name... ♪</i>
+
+1020
+00:45:57,379 --> 00:45:59,631
+<i>- ♪ Ooh ♪
+- ♪ In the name... ♪</i>
+
+1021
+00:45:59,715 --> 00:46:01,008
+<i>♪ In the name... ♪</i>
+
+1022
+00:46:01,091 --> 00:46:02,468
+<i>- ♪ Ooh ♪
+- ♪ In the name... ♪</i>
+
+1023
+00:46:02,551 --> 00:46:04,595
+<i>- ♪ Ooh ♪
+- ♪ In the name... ♪</i>
+
+1024
+00:46:04,678 --> 00:46:06,263
+<i>- ♪ Ooh ♪
+- ♪ In the name... ♪</i>
+
+1025
+00:46:06,889 --> 00:46:08,974
+<i>Turn it off. Stop.</i>
+
+1026
+00:46:09,057 --> 00:46:12,686
+<i>- ♪ J-E-S-U-S ♪
+- ♪ Ooh ♪</i>
+
+1027
+00:46:12,770 --> 00:46:16,273
+<i>- ♪ J-E-S-U-S ♪
+- ♪ You can't stay where you live ♪</i>
+
+1028
+00:46:16,356 --> 00:46:19,902
+<i>- ♪ Ooh ♪
+- ♪ J-E-S-U-S ♪</i>
+
+1029
+00:46:19,985 --> 00:46:23,655
+<i>- ♪ J-E-S-U-S ♪
+- ♪ You can't stay where you live ♪</i>
+
+1030
+00:46:23,739 --> 00:46:26,825
+<i>- ♪ J-E-S-U-S ♪
+- ♪ Rollin' ♪</i>
+
+1031
+00:46:26,909 --> 00:46:28,952
+<i>♪ J-E-S-U-S ♪</i>
+
+1032
+00:46:29,036 --> 00:46:30,829
+<i>I can't cut it off. This the good part.</i>
+
+1033
+00:46:30,913 --> 00:46:33,749
+<i>- ♪ J-E-S-U-S ♪
+- ♪ Rollin' ♪</i>
+
+1034
+00:46:33,832 --> 00:46:37,711
+<i>- ♪ Ooh ♪
+- ♪ J-E-S-U-S, U-S ♪</i>
+
+1035
+00:46:37,795 --> 00:46:39,171
+<i>- ♪ Ooh ♪
+- ♪ J-E-S ♪</i>
+
+1036
+00:46:39,254 --> 00:46:40,756
+<i>- ♪ Ooh ♪
+- ♪ In the name of the... ♪</i>
+
+1037
+00:46:40,839 --> 00:46:42,508
+<i>- ♪ Ooh ♪
+- ♪ In the name of the... ♪</i>
+
+1038
+00:46:42,591 --> 00:46:44,802
+<i>- ♪ Ooh ♪
+- ♪ In the mighty, mighty, mighty, mighty ♪</i>
+
+1039
+00:46:44,885 --> 00:46:46,094
+<i>- ♪ Ooh ♪
+- ♪ Name of the... ♪</i>
+
+1040
+00:46:46,178 --> 00:46:47,554
+<i>- ♪ Ooh ♪
+- ♪ In the name of the... ♪</i>
+
+1041
+00:46:47,638 --> 00:46:50,891
+<i>- ♪ Ooh ♪
+- ♪ J-E-S-U-S ♪</i>
+
+1042
+00:46:50,974 --> 00:46:54,603
+<i>- ♪ Ooh ♪
+- ♪ J-E-S-U-S ♪</i>
+
+1043
+00:46:54,686 --> 00:46:58,106
+<i>- ♪ Ooh ♪
+- ♪ J-E-S-U-S ♪</i>
+
+1044
+00:46:58,190 --> 00:46:59,483
+<i>Why you supporting this?</i>
+
+1045
+00:46:59,566 --> 00:47:01,985
+<i>- ♪ Ooh ♪
+- ♪ J-E-S-U-S ♪</i>
+
+1046
+00:47:02,903 --> 00:47:05,614
+<i>- ♪ Ooh ♪
+- ♪ J-E-S-U-S ♪</i>
+
+1047
+00:47:06,114 --> 00:47:08,826
+<i>♪ Everybody, J-E-S-U-S ♪</i>
+
+1048
+00:47:08,909 --> 00:47:12,913
+<i>- ♪ Can't stay where you live ♪
+- ♪ J-E-S-U-S ♪</i>
+
+1049
+00:47:12,996 --> 00:47:14,414
+<i>[INAUDIBLE DIALOGUE]</i>
+
+1050
+00:47:14,498 --> 00:47:16,500
+<i>- ♪ J-E-S-U-S ♪
+- Stop this right now.</i>
+
+1051
+00:47:16,583 --> 00:47:17,918
+<i>Stop.</i>
+
+1052
+00:47:18,001 --> 00:47:20,379
+<i>- [MUSIC STOPS]
+- Everybody put your instruments down.</i>
+
+1053
+00:47:22,464 --> 00:47:24,800
+<i>♪ You can't stay where you live ♪</i>
+
+1054
+00:47:24,883 --> 00:47:26,009
+<i>[MUSIC RESUMES]</i>
+
+1055
+00:47:26,093 --> 00:47:27,302
+<i>What'd I say?</i>
+
+1056
+00:47:27,386 --> 00:47:29,388
+<i>♪ Ooh ♪</i>
+
+1057
+00:47:29,930 --> 00:47:32,224
+<i>♪ You can't stay where you live, yeah ♪</i>
+
+1058
+00:47:32,307 --> 00:47:33,392
+<i>Fuck me, then.</i>
+
+1059
+00:47:33,475 --> 00:47:35,561
+<i>[AUDIENCE LAUGHS]</i>
+
+1060
+00:47:35,644 --> 00:47:37,604
+<i>- ♪ Ooh ♪
+- ♪ J-E-S ♪</i>
+
+1061
+00:47:37,688 --> 00:47:39,231
+<i>- ♪ Ooh ♪
+- ♪ S-U-S ♪</i>
+
+1062
+00:47:39,314 --> 00:47:41,108
+<i>- ♪ Ooh ♪
+- ♪ J-E-S ♪</i>
+
+1063
+00:47:41,191 --> 00:47:43,193
+<i>- ♪ Ooh ♪
+- ♪ S-U-S ♪</i>
+
+1064
+00:47:43,277 --> 00:47:46,363
+<i>- ♪ Ooh ♪
+- ♪ J-E ♪</i>
+
+1065
+00:47:46,446 --> 00:47:48,574
+<i>♪ You can't stay where you live ♪</i>
+
+1066
+00:47:52,160 --> 00:47:53,412
+<i>Come on, stop.</i>
+
+1067
+00:47:53,495 --> 00:47:54,413
+<i>Stop!</i>
+
+1068
+00:47:54,913 --> 00:47:56,999
+<i>Who said add a guitar solo?</i>
+
+1069
+00:47:58,041 --> 00:47:59,167
+<i>[MUSIC STOPS]</i>
+
+1070
+00:47:59,251 --> 00:48:00,168
+<i>Y'all...</i>
+
+1071
+00:48:00,252 --> 00:48:02,629
+<i>It's some saxophone too? Stop.</i>
+
+1072
+00:48:02,713 --> 00:48:04,673
+<i>- [AUDIENCE LAUGHS]
+- Them niggas came to play.</i>
+
+1073
+00:48:04,756 --> 00:48:05,716
+<i>That shit was smooth.</i>
+
+1074
+00:48:05,799 --> 00:48:08,844
+<i>[CHICO] Everybody getting their little
+part together on the song...</i>
+
+1075
+00:48:09,344 --> 00:48:10,721
+<i>[DC] Them niggas came to play.</i>
+
+1076
+00:48:11,555 --> 00:48:14,349
+<i>I bet if we'd say,
+anybody wanna come down for benediction...</i>
+
+1077
+00:48:15,559 --> 00:48:17,185
+<i>Anybody need prayer?</i>
+
+1078
+00:48:18,979 --> 00:48:20,689
+<i>Can we bring out one more special guest?</i>
+
+1079
+00:48:20,772 --> 00:48:21,899
+<i>[AUDIENCE CHEERING]</i>
+
+1080
+00:48:22,524 --> 00:48:24,443
+<i>Ladies and gentlemen, do me a favor.</i>
+
+1081
+00:48:24,526 --> 00:48:27,154
+<i>Right here, Atlanta legends,
+just stand up for me one time.</i>
+
+1082
+00:48:27,237 --> 00:48:29,615
+<i>I need everybody in here
+to stand up for me one time.</i>
+
+1083
+00:48:29,698 --> 00:48:32,242
+<i>So we can welcome to the stage,
+none other than...</i>
+
+1084
+00:48:32,326 --> 00:48:33,160
+<i>Who?</i>
+
+1085
+00:48:33,243 --> 00:48:34,661
+<i>- ...Goodie Mob.
+- [DC] Oh!</i>
+
+1086
+00:48:34,745 --> 00:48:37,831
+<i>- [BAND PLAYING "GET RICH TO THIS"]
+- [AUDIENCE CHEERING]</i>
+
+1087
+00:48:37,915 --> 00:48:39,750
+<i>- Come on, what's up, y'all?
+- [CHICO] Uh-oh.</i>
+
+1088
+00:48:40,334 --> 00:48:42,002
+<i>♪ Hey! Hey! Hey! ♪</i>
+
+1089
+00:48:42,085 --> 00:48:43,921
+<i>♪ What's up? Hey! Hey! ♪</i>
+
+1090
+00:48:44,004 --> 00:48:45,589
+<i>♪ Guess what? ♪</i>
+
+1091
+00:48:45,672 --> 00:48:47,549
+<i>- ♪ Let's go! ♪
+- ♪ We peel out sideways ♪</i>
+
+1092
+00:48:47,633 --> 00:48:48,592
+<i>♪ Get rich to this ♪</i>
+
+1093
+00:48:48,675 --> 00:48:51,136
+<i>- ♪ We do 100 on the highways ♪
+- ♪ Get rich to this ♪</i>
+
+1094
+00:48:51,219 --> 00:48:53,430
+<i>- ♪ Thank God for Fridays ♪
+- ♪ Get rich to this ♪</i>
+
+1095
+00:48:53,513 --> 00:48:54,890
+<i>♪ Say hey, hey, hey ♪</i>
+
+1096
+00:48:54,973 --> 00:48:56,058
+<i>♪ Get rich to this ♪</i>
+
+1097
+00:48:56,141 --> 00:48:58,226
+<i>- ♪ We peel out sideways ♪
+- ♪ Get rich to this ♪</i>
+
+1098
+00:48:58,310 --> 00:49:00,771
+<i>- ♪ We do 100 on the highways ♪
+- ♪ Get rich to this ♪</i>
+
+1099
+00:49:00,854 --> 00:49:02,981
+<i>- ♪ Thank God for Fridays ♪
+- ♪ Get rich to this ♪</i>
+
+1100
+00:49:03,065 --> 00:49:04,942
+<i>♪ Hey, hey, hey, hey ♪</i>
+
+1101
+00:49:05,025 --> 00:49:06,735
+<i>♪ Boy, I done bought D's ♪</i>
+
+1102
+00:49:06,818 --> 00:49:08,695
+<i>- ♪ Big body Benz car keys ♪
+- ♪ Wid dis ♪</i>
+
+1103
+00:49:08,779 --> 00:49:11,031
+<i>- ♪ Condos in the Cancun summer breeze ♪
+- ♪ Wid dis ♪</i>
+
+1104
+00:49:11,114 --> 00:49:13,158
+<i>♪ And you know, doin' good fo' sho' ♪</i>
+
+1105
+00:49:13,241 --> 00:49:15,452
+<i>♪ I'm gettin' rich too
+Hollerin' out Calhoun know ♪</i>
+
+1106
+00:49:15,535 --> 00:49:17,704
+<i>♪ Nigga, nickeled and dimed
+And did dirt for dis ♪</i>
+
+1107
+00:49:17,788 --> 00:49:20,082
+<i>♪ Do a show
+And sweat up my good shirt for dis ♪</i>
+
+1108
+00:49:20,165 --> 00:49:22,542
+<i>♪ I snap rap until my flows
+Tried to hurt for this ♪</i>
+
+1109
+00:49:22,626 --> 00:49:25,128
+<i>♪ So when I get me a lil' bit
+I'mma wear my shit ♪</i>
+
+1110
+00:49:25,212 --> 00:49:27,464
+<i>♪ And if I lose it
+I ain't gonna cry about it ♪</i>
+
+1111
+00:49:27,547 --> 00:49:30,217
+<i>♪ I ain't no dummy, goddammit
+I ain't about to die about it ♪</i>
+
+1112
+00:49:30,300 --> 00:49:32,135
+<i>♪ Fuck with me, though
+I'll let a few fly ♪</i>
+
+1113
+00:49:32,219 --> 00:49:34,972
+<i>- ♪ But don't you test me, boy ♪
+- ♪ Because I about it ♪</i>
+
+1114
+00:49:35,055 --> 00:49:37,641
+<i>- ♪ So I'm the major money maker ♪
+- ♪ Man, fuck these haters ♪</i>
+
+1115
+00:49:37,724 --> 00:49:40,018
+<i>♪ Keep yo' eyes on amounts
+Accounts and some bankers ♪</i>
+
+1116
+00:49:40,102 --> 00:49:42,396
+<i>♪ Get high, get fly
+Till you get it, gettin' by ♪</i>
+
+1117
+00:49:42,479 --> 00:49:44,564
+<i>♪ Don't switch, come on
+T-Mo, get rich ♪</i>
+
+1118
+00:49:44,648 --> 00:49:46,483
+<i>♪ From the bottom to the top
+Now it's hot ♪</i>
+
+1119
+00:49:46,566 --> 00:49:49,820
+<i>♪ Keepin' it heated, people about to see
+They chasin' after cash in the ass ♪</i>
+
+1120
+00:49:49,903 --> 00:49:51,697
+<i>♪ Suckers crash
+On the blast from the past ♪</i>
+
+1121
+00:49:51,780 --> 00:49:54,324
+<i>♪ Goodie Mob, Backbone and OutKast
+Whatchu think this was, Black? ♪</i>
+
+1122
+00:49:54,408 --> 00:49:57,202
+<i>♪ Take your sorry ass, watch me blow
+Turnin' my lyrics in the flow ♪</i>
+
+1123
+00:49:57,285 --> 00:49:59,705
+<i>♪ This is how it go, and it go
+Perfect picture paintin' ♪</i>
+
+1124
+00:49:59,788 --> 00:50:01,999
+<i>♪ Million dollar hold
+In the Cascade, in the shade ♪</i>
+
+1125
+00:50:02,082 --> 00:50:04,501
+<i>♪ Well, I'se gon' get paid to dis
+Find a wife to dis ♪</i>
+
+1126
+00:50:04,584 --> 00:50:06,336
+<i>♪ I'm bout to cut, like a knife to dis ♪</i>
+
+1127
+00:50:06,420 --> 00:50:08,964
+<i>♪ We 'bout to, we 'bout to
+Top top, to get rich ♪</i>
+
+1128
+00:50:09,047 --> 00:50:11,341
+<i>- ♪ We peel out sideways ♪
+- ♪ Get rich ♪</i>
+
+1129
+00:50:11,425 --> 00:50:13,760
+<i>- ♪ We do 100 on the highways ♪
+- ♪ Get rich to this ♪</i>
+
+1130
+00:50:13,844 --> 00:50:16,388
+<i>- ♪ Thank God for Fridays ♪
+- ♪ What's up? ♪</i>
+
+1131
+00:50:16,471 --> 00:50:18,390
+<i>Yeah!</i>
+
+1132
+00:50:18,473 --> 00:50:19,891
+<i>♪ Sign yo' grill wid dis ♪</i>
+
+1133
+00:50:19,975 --> 00:50:22,519
+<i>♪ We put the number two balls
+Silk drawers wid dis ♪</i>
+
+1134
+00:50:22,602 --> 00:50:24,146
+<i>♪ Crushed velvet diamond cut ♪</i>
+
+1135
+00:50:24,229 --> 00:50:26,523
+<i>♪ Tonight, Gipp get woozy ♪</i>
+
+1136
+00:50:26,606 --> 00:50:29,443
+<i>♪ Might step outside
+And might catch me a floozie ♪</i>
+
+1137
+00:50:29,526 --> 00:50:31,653
+<i>♪ Some loosey double-stitched hoochie ♪</i>
+
+1138
+00:50:32,154 --> 00:50:33,321
+<i>♪ While we chase coochie ♪</i>
+
+1139
+00:50:33,405 --> 00:50:35,240
+<i>♪ We the realest down South, hot two ♪</i>
+
+1140
+00:50:35,323 --> 00:50:37,117
+<i>♪ I'm in your face like kabuki ♪</i>
+
+1141
+00:50:37,200 --> 00:50:39,578
+<i>♪ Get krunk, don't be no lame-brain
+Top Bankhead ♪</i>
+
+1142
+00:50:39,661 --> 00:50:41,079
+<i>♪ Props, I'm prayin wid dis, nigga ♪</i>
+
+1143
+00:50:41,163 --> 00:50:43,415
+<i>- ♪ Boys on the ave ♪
+- ♪ Throw shots to dis ♪</i>
+
+1144
+00:50:43,498 --> 00:50:45,792
+<i>♪ Hoes in the club flirt out to dis ♪</i>
+
+1145
+00:50:45,876 --> 00:50:48,378
+<i>- ♪ State your name, baby ♪
+- ♪ And get rich to dis ♪</i>
+
+1146
+00:50:48,462 --> 00:50:50,464
+<i>- ♪ We peel out sideways ♪
+- ♪ Get rich to dis ♪</i>
+
+1147
+00:50:50,547 --> 00:50:52,799
+<i>- ♪ We do 100 on the highways ♪
+- ♪ Get rich to this ♪</i>
+
+1148
+00:50:52,883 --> 00:50:55,469
+<i>- ♪ Thank God for Fridays ♪
+- ♪ Get rich to this ♪</i>
+
+1149
+00:50:55,552 --> 00:50:57,679
+<i>- ♪ Hey, hey, hey, hey ♪
+- ♪ Get rich to dis ♪</i>
+
+1150
+00:50:57,763 --> 00:51:00,182
+<i>- ♪ We peel out sideways ♪
+- ♪ Get rich to dis ♪</i>
+
+1151
+00:51:00,265 --> 00:51:02,684
+<i>- ♪ We do 100 on the highways ♪
+- ♪ Get rich to this ♪</i>
+
+1152
+00:51:02,768 --> 00:51:05,312
+<i>- ♪ Thank God for Fridays ♪
+- ♪ Get rich to this ♪</i>
+
+1153
+00:51:05,395 --> 00:51:07,355
+<i>♪ Hey, hey, hey, hey ♪</i>
+
+1154
+00:51:07,439 --> 00:51:08,774
+<i>♪ One time, say, "uh" ♪</i>
+
+1155
+00:51:08,857 --> 00:51:09,691
+<i>- [SONG ENDS]
+- Yeah!</i>
+
+1156
+00:51:09,775 --> 00:51:11,610
+<i>- What's happening, College Park?
+- [CHEERING]</i>
+
+1157
+00:51:11,693 --> 00:51:13,111
+<i>- What's up?
+- Yessir!</i>
+
+1158
+00:51:13,195 --> 00:51:14,654
+<i>What's up?</i>
+
+1159
+00:51:14,738 --> 00:51:16,114
+<i>Southside!</i>
+
+1160
+00:51:16,198 --> 00:51:17,949
+<i>- God damn!
+- [BAND PLAYS DRAMATIC MUSIC]</i>
+
+1161
+00:51:18,033 --> 00:51:19,284
+<i>- Aw, yeah.
+- That shit crazy.</i>
+
+1162
+00:51:20,410 --> 00:51:21,536
+<i>- [CHICO] Hold up.
+- [DC] Stop.</i>
+
+1163
+00:51:21,620 --> 00:51:22,537
+<i>[MUSIC STOPS]</i>
+
+1164
+00:51:22,621 --> 00:51:23,455
+<i>[KARLOUS] Stop.</i>
+
+1165
+00:51:23,538 --> 00:51:25,624
+<i>Y'all show some love
+for Goodie Mob, real shit.</i>
+
+1166
+00:51:25,707 --> 00:51:28,001
+<i>- [AUDIENCE CHEERING]
+- And Rich Homie Quan.</i>
+
+1167
+00:51:29,503 --> 00:51:32,089
+<i>Hold up. Before y'all go,
+everybody stand up.</i>
+
+1168
+00:51:32,589 --> 00:51:35,759
+<i>Everybody stand up and put your phones up.</i>
+
+1169
+00:51:35,842 --> 00:51:37,177
+<i>Put your lights in the air.</i>
+
+1170
+00:51:37,260 --> 00:51:39,679
+<i>[KARLOUS]
+After every show, we take a picture.</i>
+
+1171
+00:51:39,763 --> 00:51:42,682
+<i>[CHICO] So we can show the history
+we made tonight in the ATL.</i>
+
+1172
+00:51:42,766 --> 00:51:44,810
+<i>All right, y'all ready?
+Everybody got their lights up?</i>
+
+1173
+00:51:44,893 --> 00:51:47,562
+<i>[KARLOUS]
+I need everybody to smile extra hard.</i>
+
+1174
+00:51:47,646 --> 00:51:49,648
+<i>[BAND PLAYING DRAMATIC MUSIC]</i>
+
+1175
+00:51:54,528 --> 00:51:55,904
+<i>- [KARLOUS] College Park!
+- [DC] ATL!</i>
+
+1176
+00:51:55,987 --> 00:51:59,324
+<i>[CHICO] We love everybody. South Shore,
+we love y'all! Thank y'all so much!</i>
+
+1177
+00:51:59,407 --> 00:52:02,619
+<i>- [AUDIENCE CHEERING AND APPLAUDING]
+- [DRAMATIC MUSIC CONTINUES]</i>
+
+1178
+00:53:21,406 --> 00:53:25,410
+<i>Subtitle translation by: MJM</i>
+

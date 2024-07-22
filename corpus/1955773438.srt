@@ -1,0 +1,3048 @@
+﻿1
+00:01:01,811 --> 00:01:05,147
+VISERYS: This world wasn't always
+so small and petty.
+
+2
+00:01:05,982 --> 00:01:10,277
+Thousands of years ago,
+while the rest of men prayed to gods,
+
+3
+00:01:10,361 --> 00:01:12,404
+the Valyrians became them.
+
+4
+00:01:13,490 --> 00:01:15,616
+Through magic or sheer will,
+
+5
+00:01:15,700 --> 00:01:19,369
+they mastered
+the greatest creatures in history.
+
+6
+00:01:19,829 --> 00:01:24,833
+A horse grants man dominion over the land,
+a ship, over the sea.
+
+7
+00:01:25,168 --> 00:01:31,507
+But dragons gave us the sky,
+and everything, and everyone beneath it.
+
+8
+00:01:33,051 --> 00:01:37,054
+At its height,
+my ancestors ruled the known world.
+
+9
+00:01:37,305 --> 00:01:40,182
+Whatever parts we didn't
+weren't worth knowing.
+
+10
+00:01:40,892 --> 00:01:45,437
+Our capital of Valyria
+shamed the magnificent cities of the east,
+
+11
+00:01:45,522 --> 00:01:50,359
+for hammers and chisels were no match
+for dragonfire and sorcery.
+
+12
+00:01:51,152 --> 00:01:56,490
+It was a city and an empire
+built to last until the end of time.
+
+13
+00:01:57,992 --> 00:01:59,326
+It didn't.
+
+14
+00:02:00,286 --> 00:02:03,747
+Four hundred years ago,
+the Doom fell on Valyria.
+
+15
+00:02:03,832 --> 00:02:05,749
+Mountains cracked open like eggs.
+
+16
+00:02:05,834 --> 00:02:07,626
+Lakes and rivers boiled.
+
+17
+00:02:07,710 --> 00:02:11,547
+Fountains of fire, ash and smoke
+spewed from the ground,
+
+18
+00:02:11,631 --> 00:02:16,844
+so high and so hot
+that even dragons burned in flight.
+
+19
+00:02:17,637 --> 00:02:22,015
+The land splintered,
+and the angry sea rushed in.
+
+20
+00:02:22,100 --> 00:02:27,479
+In hours, the greatest city in history
+became history.
+
+21
+00:02:28,398 --> 00:02:33,235
+But my ancestors didn't burn or drown
+with the rest of their race.
+
+22
+00:02:33,319 --> 00:02:38,157
+Twelve years before the Doom,
+despite the sneers of his rivals,
+
+23
+00:02:38,241 --> 00:02:42,286
+Aenar Targaryen
+abandoned the capital with his family.
+
+24
+00:02:42,996 --> 00:02:48,041
+Legends claim that his daughter foresaw
+the destruction of the city in a dream.
+
+25
+00:02:48,126 --> 00:02:51,378
+More likely, Aenar met with
+some mishap at court
+
+26
+00:02:51,462 --> 00:02:54,131
+and chose exile over execution.
+
+27
+00:02:54,716 --> 00:03:00,721
+He and House Targaryen slinked away
+to a dreary, remote, godforsaken island.
+
+28
+00:03:01,723 --> 00:03:03,599
+Forsaken no longer.
+
+29
+00:03:04,934 --> 00:03:07,519
+With arts now lost to the world,
+
+30
+00:03:07,604 --> 00:03:11,440
+we transformed a tiny outpost
+into Dragonstone,
+
+31
+00:03:11,691 --> 00:03:14,526
+a fortress fit for the last dragonlords.
+
+32
+00:03:15,528 --> 00:03:20,407
+Then Aenar's descendants settled into it
+like a tomb for their lost homeland.
+
+33
+00:03:21,659 --> 00:03:23,327
+Until Aegon.
+
+34
+00:03:23,995 --> 00:03:25,704
+When he looked east,
+
+35
+00:03:25,788 --> 00:03:29,791
+he saw the past, old, tired, dead.
+
+36
+00:03:30,877 --> 00:03:32,544
+But when he looked west,
+
+37
+00:03:33,129 --> 00:03:35,088
+he saw the future,
+
+38
+00:03:35,173 --> 00:03:38,926
+gold in the ground, gold in the fields,
+
+39
+00:03:39,010 --> 00:03:42,012
+and no dragons in the sky but his.
+
+40
+00:03:42,680 --> 00:03:47,309
+He and his sisters Rhaenys and Visenya
+flew over the great continent,
+
+41
+00:03:47,393 --> 00:03:50,395
+ostensibly visitors to a strange land.
+
+42
+00:03:50,980 --> 00:03:52,898
+But when Aegon returned,
+
+43
+00:03:52,982 --> 00:03:58,028
+he ordered construction of a massive table
+carved in the shape of Westeros,
+
+44
+00:03:58,112 --> 00:04:01,281
+with all the notable rivers and mountains
+that they had seen.
+
+45
+00:04:02,075 --> 00:04:05,244
+A personal map of the Seven Kingdoms,
+
+46
+00:04:05,328 --> 00:04:09,498
+then ruled by seven squabbling families.
+
+47
+00:04:09,999 --> 00:04:14,670
+House Durrandon held the Stormlands
+from their seat at Storm's End,
+
+48
+00:04:14,754 --> 00:04:17,089
+due south of Dragonstone.
+
+49
+00:04:17,173 --> 00:04:22,094
+House Hoare of the Iron Islands had
+also conquered and enslaved the Riverlands,
+
+50
+00:04:22,178 --> 00:04:24,096
+and ruled them from Harrenhal,
+
+51
+00:04:24,180 --> 00:04:27,975
+a monstrous castle
+rising on the shore of the Gods Eye.
+
+52
+00:04:28,601 --> 00:04:31,937
+House Stark held the frozen
+wasteland of the North,
+
+53
+00:04:32,021 --> 00:04:35,107
+the oldest, largest
+and emptiest of the kingdoms.
+
+54
+00:04:35,400 --> 00:04:37,693
+House Lannister held the Westerlands,
+
+55
+00:04:37,777 --> 00:04:41,154
+the wealthiest kingdom,
+thanks to their gold mines.
+
+56
+00:04:41,781 --> 00:04:43,699
+House Gardener held the Reach,
+
+57
+00:04:43,783 --> 00:04:46,827
+the second wealthiest kingdom,
+thanks to their crops.
+
+58
+00:04:47,245 --> 00:04:51,290
+House Arryn held the Vale,
+or rather the Vale held them.
+
+59
+00:04:51,374 --> 00:04:54,334
+The mountains were impassable
+except through the Bloody Gate,
+
+60
+00:04:54,419 --> 00:04:56,253
+which had never been taken.
+
+61
+00:04:56,504 --> 00:04:59,923
+House Martell held the deserts of Dorne,
+
+62
+00:05:00,008 --> 00:05:02,676
+probably because no one else wanted them.
+
+63
+00:05:02,760 --> 00:05:05,887
+Together, the Seven Kingdoms
+made Westeros,
+
+64
+00:05:05,972 --> 00:05:07,973
+a realm that wasn't yet a realm,
+
+65
+00:05:08,057 --> 00:05:12,561
+ruled by great families
+who didn't know what greatness was.
+
+66
+00:05:12,687 --> 00:05:14,229
+Aegon would teach them.
+
+67
+00:05:24,866 --> 00:05:28,201
+VARYS: Though House Durrandon
+titled themselves "Storm Kings,"
+
+68
+00:05:28,286 --> 00:05:30,454
+they were little more than gusts.
+
+69
+00:05:30,538 --> 00:05:33,582
+Their kingdom in the Stormlands
+had been doddering to its end
+
+70
+00:05:33,666 --> 00:05:35,167
+for the past few centuries,
+
+71
+00:05:35,251 --> 00:05:37,336
+helped along by other houses,
+
+72
+00:05:37,420 --> 00:05:39,338
+most of all by House Hoare,
+
+73
+00:05:39,422 --> 00:05:42,424
+who were nearly finished
+with the monstrous castle of Harrenhal,
+
+74
+00:05:43,009 --> 00:05:47,012
+too large and too costly a seat to rule
+only the Riverlands.
+
+75
+00:05:47,263 --> 00:05:51,391
+King Argilac knew
+where the ironborn would soon turn.
+
+76
+00:05:51,476 --> 00:05:53,352
+You'd think a king who
+wanted to keep his crown
+
+77
+00:05:53,436 --> 00:05:56,438
+would be wary of a man
+with fire-breathing monsters,
+
+78
+00:05:56,522 --> 00:06:00,400
+but King Argilac Durrandon
+wasn't called "the Arrogant" for nothing.
+
+79
+00:06:00,985 --> 00:06:03,195
+Determined to arrest his family's decline,
+
+80
+00:06:03,279 --> 00:06:05,030
+he sent an envoy to Dragonstone
+
+81
+00:06:05,114 --> 00:06:09,117
+to enlist Aegon Targaryen
+and his dragons against his enemies.
+
+82
+00:06:09,494 --> 00:06:13,080
+In exchange,
+Argilac offered lands he didn't have
+
+83
+00:06:13,164 --> 00:06:15,123
+and a wife Aegon didn't need,
+
+84
+00:06:15,208 --> 00:06:20,629
+for, as the Valyrians did,
+Aegon had wed his elder sister, Visenya.
+
+85
+00:06:20,755 --> 00:06:25,133
+Then, as the Valyrians didn't,
+he took the younger Rhaenys as well.
+
+86
+00:06:25,218 --> 00:06:27,886
+Two sisters, two wives.
+
+87
+00:06:27,970 --> 00:06:31,139
+Perhaps that's why he was so keen
+to get off Dragonstone.
+
+88
+00:06:31,849 --> 00:06:34,893
+Aegon countered Argilac with courtesy.
+
+89
+00:06:34,977 --> 00:06:36,728
+He sent his own envoy requesting
+
+90
+00:06:36,813 --> 00:06:41,483
+that Princess Durrandon's hand be given
+instead to Aegon's closest friend,
+
+91
+00:06:41,609 --> 00:06:44,903
+and rumored half-brother, Orys Baratheon.
+
+92
+00:06:44,987 --> 00:06:47,823
+Argilac answered with a box and a note,
+
+93
+00:06:47,907 --> 00:06:51,326
+"These are the only hands
+your bastard shall have of me."
+
+94
+00:06:51,702 --> 00:06:55,831
+Inside the box
+were the hands of Aegon's envoy.
+
+95
+00:06:55,915 --> 00:06:58,959
+How long had Aegon been waiting
+for such a pretext?
+
+96
+00:06:59,377 --> 00:07:01,545
+As his army prepared to sail,
+
+97
+00:07:01,629 --> 00:07:05,340
+ravens flew to every great lord
+of the Seven Kingdoms.
+
+98
+00:07:05,591 --> 00:07:07,259
+All bore the same message.
+
+99
+00:07:07,343 --> 00:07:11,304
+From this day forth,
+there would be but one king in Westeros.
+
+100
+00:07:11,681 --> 00:07:14,433
+Those who bent the knee
+to Aegon of House Targaryen
+
+101
+00:07:14,517 --> 00:07:16,351
+would keep their lands and titles.
+
+102
+00:07:17,019 --> 00:07:18,979
+Those who took up arms against him
+
+103
+00:07:19,063 --> 00:07:22,399
+would be thrown down,
+humbled and destroyed.
+
+104
+00:07:22,817 --> 00:07:24,693
+Poor old Argilac.
+
+105
+00:07:24,777 --> 00:07:27,529
+He couldn't even match Aegon in arrogance.
+
+106
+00:07:27,655 --> 00:07:30,157
+Aegon landed at the mouth
+of the Blackwater River
+
+107
+00:07:30,241 --> 00:07:32,492
+and raised a primitive "Aegonfort"
+
+108
+00:07:32,577 --> 00:07:36,204
+in the disputed land between
+Harren's and Argilac's kingdoms,
+
+109
+00:07:36,289 --> 00:07:38,999
+so that neither could decide
+whose problem he was.
+
+110
+00:07:39,542 --> 00:07:42,210
+Adopting the customs
+of the Seven Kingdoms,
+
+111
+00:07:42,336 --> 00:07:44,087
+Aegon unfurled his own banner
+
+112
+00:07:44,172 --> 00:07:48,175
+with a red three-headed dragon
+breathing fire upon a black field.
+
+113
+00:07:48,426 --> 00:07:53,138
+Visenya crowned him
+with a ruby-studded circlet of Valyrian steel,
+
+114
+00:07:53,222 --> 00:07:54,681
+while Rhaenys hailed him as
+
+115
+00:07:54,765 --> 00:07:58,768
+the first high king the continent had seen
+since the Dawn Age.
+
+116
+00:07:59,020 --> 00:08:01,646
+As his lords
+and the gathered locals cheered him,
+
+117
+00:08:01,731 --> 00:08:05,108
+Aegon named his loyal friends
+to a "Small Council"
+
+118
+00:08:05,193 --> 00:08:10,071
+led by Orys Baratheon,
+whom he called, "My strong right hand."
+
+119
+00:08:10,531 --> 00:08:11,823
+The title stuck,
+
+120
+00:08:11,908 --> 00:08:14,868
+and a bastard became
+the first Hand of the King.
+
+121
+00:08:16,329 --> 00:08:21,541
+But for now, Aegon's kingdom contained
+only a rocky island and a handful of fields.
+
+122
+00:08:21,626 --> 00:08:26,713
+The other kings had larger armies, ships,
+castles and thousands of years of rule.
+
+123
+00:08:26,797 --> 00:08:28,840
+But Aegon had dragons.
+
+124
+00:08:28,925 --> 00:08:33,261
+He had chosen for the words of his house,
+"Fire and blood."
+
+125
+00:08:33,638 --> 00:08:38,725
+Before he was done,
+the rivers, fields and skies would turn red.
+
+126
+00:08:49,779 --> 00:08:52,197
+EURON: Harren of House Hoare
+inherited a kingdom
+
+127
+00:08:52,281 --> 00:08:55,534
+that stretched from
+the Iron Islands to the Trident,
+
+128
+00:08:55,618 --> 00:09:00,580
+too great a kingdom to rule
+from a castle as shitty as Pyke.
+
+129
+00:09:00,665 --> 00:09:02,707
+For 40 years, his ironborn
+
+130
+00:09:02,792 --> 00:09:04,102
+- plundered the Riverlands
+- (METAL CLANKING)
+
+131
+00:09:04,126 --> 00:09:09,130
+for stone, timber
+and slaves to build a seat worthy of him.
+
+132
+00:09:09,966 --> 00:09:14,386
+Legend has it that masons laid
+the final stone in Harrenhal
+
+133
+00:09:14,470 --> 00:09:18,223
+on the very day
+that Aegon landed in Westeros.
+
+134
+00:09:18,641 --> 00:09:21,726
+Could've been a divine omen.
+
+135
+00:09:21,811 --> 00:09:26,982
+Could've been the masons wanted to fuck off
+before the dragons got there.
+
+136
+00:09:27,650 --> 00:09:29,693
+They weren't the only ones.
+
+137
+00:09:30,069 --> 00:09:31,695
+At Aegon's approach,
+
+138
+00:09:31,779 --> 00:09:36,074
+Harren's riverlords revolted,
+led by House Tully.
+
+139
+00:09:36,158 --> 00:09:37,784
+I doubt Harren noticed.
+
+140
+00:09:38,494 --> 00:09:42,163
+Harrenhal could repel
+an army of a million men.
+
+141
+00:09:42,248 --> 00:09:44,791
+No ladder could summit its walls,
+
+142
+00:09:44,875 --> 00:09:47,085
+and no ram could shatter them.
+
+143
+00:09:47,253 --> 00:09:51,256
+The castle was as impregnable
+as an old maid's cunt.
+
+144
+00:09:51,632 --> 00:09:56,177
+Harren shut his gates around himself,
+his sons, and his ironborn,
+
+145
+00:09:56,262 --> 00:10:00,599
+and waited for Aegon's army
+to drain back into the muck.
+
+146
+00:10:01,017 --> 00:10:05,979
+When Aegon finally saw the monstrous castle,
+he asked for parley.
+
+147
+00:10:06,480 --> 00:10:08,148
+Harren granted it.
+
+148
+00:10:08,608 --> 00:10:12,611
+Valyria had been the greatest empire
+the world had ever seen.
+
+149
+00:10:13,321 --> 00:10:15,989
+Harren wanted to piss on its ashes.
+
+150
+00:10:17,575 --> 00:10:21,745
+AEGON: "Yield now, and you may remain
+as Lord of the Iron Islands.
+
+151
+00:10:22,455 --> 00:10:26,791
+"Yield now, and your sons will live
+to rule after you.
+
+152
+00:10:27,418 --> 00:10:30,629
+"You see my army outside your walls.
+
+153
+00:10:30,713 --> 00:10:33,214
+"You see my dragons."
+
+154
+00:10:34,050 --> 00:10:37,260
+HARREN: "What is outside my walls
+is of no concern.
+
+155
+00:10:37,345 --> 00:10:39,387
+"Those walls are strong and thick."
+
+156
+00:10:40,431 --> 00:10:41,973
+AEGON: "Dragons fly."
+
+157
+00:10:42,350 --> 00:10:43,892
+(HARREN LAUGHS DERISIVELY)
+
+158
+00:10:43,976 --> 00:10:46,311
+HARREN: "But stone doesn't burn."
+
+159
+00:10:46,771 --> 00:10:50,774
+AEGON: "When the sun sets,
+your line shall end."
+
+160
+00:10:52,068 --> 00:10:54,986
+EURON: Harren spat
+and returned to his castle.
+
+161
+00:10:55,071 --> 00:10:58,948
+Once inside, he promised lands,
+riches and Tully's daughters
+
+162
+00:10:59,033 --> 00:11:02,619
+to whoever could bring down
+Aegon or his dragon.
+
+163
+00:11:02,703 --> 00:11:05,288
+As the sun sank below the horizon,
+
+164
+00:11:05,373 --> 00:11:08,708
+all of Harren's men patrolled the battlements,
+
+165
+00:11:08,793 --> 00:11:11,961
+hearing wings in every gust of wind.
+
+166
+00:11:12,463 --> 00:11:15,507
+But the moon rose, and sank,
+
+167
+00:11:15,591 --> 00:11:17,634
+and no dragon appeared.
+
+168
+00:11:18,552 --> 00:11:20,970
+VISERYS: While the ironborn
+were ringing the battlements,
+
+169
+00:11:21,055 --> 00:11:25,183
+Aegon drove his dragon Balerion
+higher and higher in the night sky
+
+170
+00:11:25,267 --> 00:11:29,312
+so that even the great castle of Harrenhal
+looked like an anthill below them.
+
+171
+00:11:29,689 --> 00:11:34,401
+Then they plunged straight into the castle,
+well inside the guarded walls.
+
+172
+00:11:34,777 --> 00:11:38,738
+The five towers of Harrenhal
+reached towards Aegon like a hand.
+
+173
+00:11:38,823 --> 00:11:43,284
+Balerion opened his mouth
+and bathed all the fingers in flame.
+
+174
+00:11:43,619 --> 00:11:48,415
+EURON: Harren was right, stone doesn't burn,
+but men do,
+
+175
+00:11:48,499 --> 00:11:51,334
+even when they're ironborn. (SNIGGERS)
+
+176
+00:11:52,253 --> 00:11:55,755
+The dragon blasted my ancestors into ash
+
+177
+00:11:55,840 --> 00:11:58,842
+that choked the survivors
+when they screamed.
+
+178
+00:11:58,968 --> 00:12:02,804
+Harren's soldiers leapt from the battlements
+and died.
+
+179
+00:12:02,888 --> 00:12:05,724
+They huddled against the walls and died.
+
+180
+00:12:05,808 --> 00:12:09,811
+They fled across the yard and died.
+
+181
+00:12:10,020 --> 00:12:13,982
+Harren and his sons took shelter
+inside the castle.
+
+182
+00:12:14,066 --> 00:12:16,192
+The stone didn't burn,
+
+183
+00:12:16,277 --> 00:12:21,656
+but as Balerion blasted it with fire,
+it glowed white-hot.
+
+184
+00:12:21,782 --> 00:12:22,991
+(LAUGHS DERISIVELY)
+
+185
+00:12:23,534 --> 00:12:28,413
+The world's greatest castle
+became the world's greatest oven,
+
+186
+00:12:28,497 --> 00:12:31,666
+baking the last of House Hoare within it.
+
+187
+00:12:32,668 --> 00:12:34,419
+VISERYS: Outside the castle walls,
+
+188
+00:12:34,503 --> 00:12:37,756
+the towers of Harrenhal
+glowed red against the night
+
+189
+00:12:37,840 --> 00:12:41,676
+and began to twist and melt
+like five huge candles
+
+190
+00:12:41,761 --> 00:12:45,847
+with liquid stone
+trickling down their sides like wax.
+
+191
+00:12:46,182 --> 00:12:49,350
+The next morning,
+Aegon forged a new Riverlands.
+
+192
+00:12:50,102 --> 00:12:54,439
+He named the rebel Edmyn Tully
+as his Lord Paramount of the Trident,
+
+193
+00:12:54,523 --> 00:12:58,443
+and had the other riverlords swear him fealty
+as their new liege.
+
+194
+00:12:58,527 --> 00:13:02,363
+For centuries, House Hoare
+had terrorized the Riverlands.
+
+195
+00:13:02,490 --> 00:13:04,032
+Under House Tully,
+
+196
+00:13:04,116 --> 00:13:07,786
+the Riverlands would at last
+return to peace and prosperity.
+
+197
+00:13:08,496 --> 00:13:11,581
+After the castle cooled enough
+to allow men inside,
+
+198
+00:13:11,665 --> 00:13:15,293
+Aegon ventured into the ruin
+he'd made of Harrenhal.
+
+199
+00:13:15,377 --> 00:13:18,963
+He saw the ashen bodies, the scorched stone
+
+200
+00:13:19,048 --> 00:13:22,383
+and the mangled and melted swords
+of his former enemies.
+
+201
+00:13:23,052 --> 00:13:24,302
+To his men's confusion,
+
+202
+00:13:24,386 --> 00:13:28,723
+he ordered these useless swords collected
+and sent to his Aegonfort.
+
+203
+00:13:40,319 --> 00:13:43,988
+VARYS: While Aegon marched on Harrenhal
+after his coronation,
+
+204
+00:13:44,073 --> 00:13:49,118
+Orys Baratheon had taken most of his forces,
+and his Queen Rhaenys with her dragon,
+
+205
+00:13:49,203 --> 00:13:51,955
+south to deal with the excuse for the invasion,
+
+206
+00:13:52,039 --> 00:13:55,542
+Argilac the Arrogant, King of the Stormlands.
+
+207
+00:13:55,626 --> 00:13:57,919
+Argilac had his seat at Storm's End,
+
+208
+00:13:58,003 --> 00:14:02,173
+a castle considered the most impregnable
+in Westeros after Harrenhal.
+
+209
+00:14:02,466 --> 00:14:06,636
+Argilac may have been arrogant,
+but he wasn't stupid or a coward.
+
+210
+00:14:06,720 --> 00:14:10,932
+His lords advised him to shut his gates
+and wait out the siege,
+
+211
+00:14:11,016 --> 00:14:13,351
+but he'd heard
+what had happened at Harrenhal
+
+212
+00:14:13,435 --> 00:14:17,605
+and refused to die a suckling pig
+cooked in his own castle.
+
+213
+00:14:17,815 --> 00:14:22,193
+He would meet victory or defeat the same way,
+with sword in hand.
+
+214
+00:14:23,320 --> 00:14:27,156
+He called his banners and marched
+to meet Orys Baratheon in the field.
+
+215
+00:14:27,825 --> 00:14:30,577
+Thanks to Rhaenys' dragon, Meraxes,
+
+216
+00:14:30,661 --> 00:14:34,205
+Orys knew Argilac was coming,
+how many men he had,
+
+217
+00:14:34,290 --> 00:14:35,999
+and how fast he marched.
+
+218
+00:14:36,292 --> 00:14:41,296
+So Orys simply seized the high ground
+and dug in on the hills to wait for Argilac.
+
+219
+00:14:42,006 --> 00:14:43,464
+As the two armies approached,
+
+220
+00:14:43,549 --> 00:14:47,010
+the wind rose to meet them,
+and the rain poured from the sky,
+
+221
+00:14:47,094 --> 00:14:51,556
+a gale which would give the battle
+its name, "the Last Storm."
+
+222
+00:14:52,016 --> 00:14:56,728
+King Argilac's lords urged him to wait
+for the weather to die down,
+
+223
+00:14:56,812 --> 00:14:58,897
+but the Storm King saw that the rain
+
+224
+00:14:58,981 --> 00:15:02,984
+was blowing into the faces
+of the Baratheon men on their hills,
+
+225
+00:15:03,068 --> 00:15:07,280
+and Argilac outnumbered
+the Baratheon host two-to-one,
+
+226
+00:15:07,364 --> 00:15:10,700
+with four times as many knights
+and heavy horse.
+
+227
+00:15:11,535 --> 00:15:13,369
+Argilac attacked.
+
+228
+00:15:13,871 --> 00:15:17,749
+Three times Argilac led his knights
+against the Baratheon line,
+
+229
+00:15:17,833 --> 00:15:21,836
+but the hills were steep
+and the rain had beat the earth to mud.
+
+230
+00:15:22,504 --> 00:15:24,785
+- The warhorses foundered and slipped,
+- (SWORDS CLANKING)
+
+231
+00:15:24,840 --> 00:15:26,674
+and the charges collapsed.
+
+232
+00:15:27,051 --> 00:15:28,718
+The battle seemed lost
+
+233
+00:15:28,844 --> 00:15:31,512
+until Argilac ordered
+his spearmen up the hill.
+
+234
+00:15:32,222 --> 00:15:36,059
+Blinded by the rain, the Baratheons
+didn't see them until it was too late.
+
+235
+00:15:36,185 --> 00:15:40,229
+- One hill fell, then another, and another,
+- (MEN YELLING AND GRUNTING)
+
+236
+00:15:40,314 --> 00:15:43,650
+until only one remained
+in the Baratheon center.
+
+237
+00:15:44,360 --> 00:15:46,486
+If Argilac could break through there,
+
+238
+00:15:46,570 --> 00:15:50,281
+he could split the invading army
+and flank both halves.
+
+239
+00:15:50,366 --> 00:15:53,701
+Argilac and his men charged,
+and the Baratheon line broke...
+
+240
+00:15:54,870 --> 00:15:58,206
+Revealing Queen Rhaenys and Meraxes.
+
+241
+00:15:58,916 --> 00:16:02,919
+Argilac's vanguard burst into flame,
+and his men panicked.
+
+242
+00:16:03,003 --> 00:16:05,338
+- The victory charge fell into chaos,
+- (HORSES WHINNYING)
+
+243
+00:16:05,422 --> 00:16:08,174
+and Argilac himself
+was thrown from his horse.
+
+244
+00:16:08,384 --> 00:16:10,301
+But he didn't yield.
+
+245
+00:16:10,386 --> 00:16:12,470
+When Orys Baratheon arrived,
+
+246
+00:16:12,554 --> 00:16:15,473
+he found the old king holding off
+half a dozen men,
+
+247
+00:16:15,557 --> 00:16:17,976
+another half-dozen dead at his feet.
+
+248
+00:16:18,644 --> 00:16:21,437
+Orys dismounted
+to meet the king on equal footing
+
+249
+00:16:21,522 --> 00:16:25,066
+and offered Argilac one final chance to yield.
+
+250
+00:16:25,484 --> 00:16:27,652
+Argilac cursed him instead.
+
+251
+00:16:28,070 --> 00:16:30,113
+As the storm raged around them,
+
+252
+00:16:30,197 --> 00:16:33,032
+the grizzled old warrior
+and the bearded upstart
+
+253
+00:16:33,117 --> 00:16:35,284
+fought for life and kingdom.
+
+254
+00:16:35,995 --> 00:16:39,330
+- In the end, Argilac got his wish.
+- (SWORDS CLANKING)
+
+255
+00:16:39,415 --> 00:16:41,791
+He died, sword in hand.
+
+256
+00:16:42,793 --> 00:16:45,420
+As word of Argilac's death spread,
+
+257
+00:16:45,546 --> 00:16:48,881
+his lords and knights
+threw down their swords and fled.
+
+258
+00:16:49,174 --> 00:16:54,220
+Orys and his vanguard rode to Storm's End
+to claim Argilac's castle for Aegon
+
+259
+00:16:54,304 --> 00:16:57,140
+only to find the gates barred
+and the walls manned.
+
+260
+00:16:57,683 --> 00:17:00,560
+Argilac's daughter had assumed his crown,
+
+261
+00:17:00,644 --> 00:17:04,689
+and the new Storm Queen
+was as fond of yielding as her father.
+
+262
+00:17:05,399 --> 00:17:10,069
+She declared that Orys would win
+only bones, blood and ashes here.
+
+263
+00:17:10,612 --> 00:17:12,697
+But her men were weaker than her,
+
+264
+00:17:12,781 --> 00:17:16,659
+and that night Orys found
+Argilac's daughter delivered,
+
+265
+00:17:16,744 --> 00:17:19,579
+gagged, chained and naked to his camp.
+
+266
+00:17:20,164 --> 00:17:23,458
+Argilac had refused to give Orys her hand.
+
+267
+00:17:23,542 --> 00:17:26,210
+Now, Orys could have
+any part of her he wished.
+
+268
+00:17:26,420 --> 00:17:28,504
+But Orys unchained the girl,
+
+269
+00:17:28,589 --> 00:17:32,258
+wrapped his cloak around her
+and poured her a glass of wine.
+
+270
+00:17:32,801 --> 00:17:36,846
+He told her he would take the arms,
+banner and words of House Durrandon,
+
+271
+00:17:36,930 --> 00:17:40,058
+to honor her father's courage
+in the Last Storm.
+
+272
+00:17:40,142 --> 00:17:43,644
+Conveniently, Orys had none of his own
+to discard first.
+
+273
+00:17:44,229 --> 00:17:47,732
+The crowned stag
+became the sigil of House Baratheon,
+
+274
+00:17:47,816 --> 00:17:50,151
+and Storm's End their seat.
+
+275
+00:17:50,486 --> 00:17:53,029
+Argilac's daughter
+would even remain in her home,
+
+276
+00:17:53,113 --> 00:17:55,990
+though as a lady instead of a princess.
+
+277
+00:17:56,533 --> 00:17:59,410
+The Stormlands were now Aegon's,
+
+278
+00:17:59,495 --> 00:18:03,498
+and as tribute, Aegon demanded
+the swords of the men Orys had defeated.
+
+279
+00:18:04,249 --> 00:18:07,418
+For what purpose, Orys didn't know.
+
+280
+00:18:20,349 --> 00:18:23,226
+JAIME: Aegon now ruled
+two of the Seven Kingdoms,
+
+281
+00:18:23,310 --> 00:18:26,646
+but he would no longer
+be able to take the rest piecemeal.
+
+282
+00:18:26,730 --> 00:18:29,273
+For the first time in thousands of years,
+
+283
+00:18:29,358 --> 00:18:33,361
+the kings put aside their squabbles
+and joined forces against a common enemy.
+
+284
+00:18:33,946 --> 00:18:36,239
+My ancestor, King Loren of House Lannister,
+
+285
+00:18:36,323 --> 00:18:39,325
+was head of the wealthiest family
+in the Seven Kingdoms.
+
+286
+00:18:39,535 --> 00:18:43,955
+When King Loren joined his forces to
+Mern of House Gardener, King of the Reach,
+
+287
+00:18:44,039 --> 00:18:46,874
+they had the mightiest army in history,
+
+288
+00:18:46,959 --> 00:18:51,295
+a so-called "iron fist"
+to break the would-be conqueror.
+
+289
+00:18:51,713 --> 00:18:54,966
+But while an iron fist
+can smash a man's face in battle,
+
+290
+00:18:55,050 --> 00:18:58,052
+you'd look silly hunting birds
+or beasts with it,
+
+291
+00:18:58,554 --> 00:19:01,222
+and Aegon had a creature that was both.
+
+292
+00:19:01,765 --> 00:19:05,226
+The kings had never even seen a dragon,
+let alone fought one.
+
+293
+00:19:05,310 --> 00:19:07,478
+They had fought each other
+for thousands of years,
+
+294
+00:19:07,563 --> 00:19:10,565
+and victory always went to the larger army.
+
+295
+00:19:10,899 --> 00:19:15,236
+Surely a force five times that of Aegon's
+could manage one dragon...
+
+296
+00:19:16,113 --> 00:19:18,489
+But Aegon arrived with three.
+
+297
+00:19:19,741 --> 00:19:22,702
+Still, the Lannisters and Gardeners
+hoped for victory.
+
+298
+00:19:23,120 --> 00:19:27,456
+The battlefield they chose was a wide plain
+with firm ground and clear skies.
+
+299
+00:19:27,541 --> 00:19:30,209
+Perfect for archers and mounted cavalry.
+
+300
+00:19:30,711 --> 00:19:34,714
+But neither of the kings spared a thought
+for why the ground was firm.
+
+301
+00:19:34,798 --> 00:19:36,382
+There had been no rain for a fortnight,
+
+302
+00:19:36,466 --> 00:19:39,302
+which meant all the wheat and grass on it
+were bone-dry.
+
+303
+00:19:40,095 --> 00:19:41,762
+- Perfect for dragons.
+- (HOOVES THUDDING)
+
+304
+00:19:42,598 --> 00:19:43,890
+At first, the kings looked like
+
+305
+00:19:43,974 --> 00:19:45,774
+- they would emerge victorious.
+- (HORN BLOWS)
+
+306
+00:19:46,268 --> 00:19:49,312
+When the horn blew for battle,
+their armies swept around Aegon's flanks
+
+307
+00:19:49,396 --> 00:19:52,523
+and their iron fist of mounted knights
+smashed through his center
+
+308
+00:19:52,608 --> 00:19:54,609
+before the dragons could even enter the fray.
+
+309
+00:19:55,360 --> 00:19:59,739
+But then Aegon and his sisters took flight
+and unleashed their dragons
+
+310
+00:19:59,823 --> 00:20:03,534
+not on the soldiers,
+but on the dry fields all around them.
+
+311
+00:20:04,369 --> 00:20:06,704
+- The iron fist unclenched
+- (MEN SCREAMING)
+
+312
+00:20:06,788 --> 00:20:09,373
+- and became a hand outstretched for mercy.
+- (HORSE WHINNIES)
+
+313
+00:20:10,584 --> 00:20:12,919
+As Aegon promised, he had none.
+
+314
+00:20:14,129 --> 00:20:18,299
+More than 4,000 men died in the fires,
+another 1,000 escaping them.
+
+315
+00:20:18,383 --> 00:20:20,760
+Tens of thousands
+returned home as monsters,
+
+316
+00:20:20,844 --> 00:20:23,387
+burned and scarred beyond recognition.
+
+317
+00:20:23,472 --> 00:20:25,973
+House Gardener never returned at all.
+
+318
+00:20:26,058 --> 00:20:30,770
+The "Field of Fire," as the singers call it,
+claimed the last of the Gardener line,
+
+319
+00:20:30,854 --> 00:20:32,855
+and House Tyrell rose in their stead
+
+320
+00:20:32,940 --> 00:20:35,274
+as Lords of the Reach
+and Wardens of the South.
+
+321
+00:20:35,984 --> 00:20:38,152
+As for my illustrious ancestor,
+
+322
+00:20:38,237 --> 00:20:40,404
+when King Loren saw the battle was lost,
+
+323
+00:20:40,489 --> 00:20:43,407
+he rode through a wall of flame
+and smoke to safety...
+
+324
+00:20:43,492 --> 00:20:46,786
+Or at least to a heroic capture a day later,
+
+325
+00:20:46,870 --> 00:20:49,705
+where he laid his sword
+before Aegon and knelt.
+
+326
+00:20:50,332 --> 00:20:54,252
+Aegon, true to his word, spared him
+and confirmed House Lannister
+
+327
+00:20:54,336 --> 00:20:57,505
+as Lords of Casterly Rock
+and Wardens of the West.
+
+328
+00:20:58,048 --> 00:20:59,257
+Why wouldn't he?
+
+329
+00:20:59,341 --> 00:21:04,345
+A Lannister always pays his debts,
+and now we owed our lives to the crown.
+
+330
+00:21:05,097 --> 00:21:07,932
+That was worth centuries of subservience,
+at least.
+
+331
+00:21:08,809 --> 00:21:13,020
+Besides, Aegon had a fetish
+for collecting swords, not heads.
+
+332
+00:21:13,855 --> 00:21:17,108
+He added Loren's to the pile
+his men had retrieved from the Field of Fire
+
+333
+00:21:17,192 --> 00:21:19,402
+and sent them back to the Aegonfort.
+
+334
+00:21:32,541 --> 00:21:34,750
+SANSA: With most of the South
+in Aegon's hands,
+
+335
+00:21:34,835 --> 00:21:38,546
+the best chance to throw back
+the Conqueror now lay with the North,
+
+336
+00:21:39,047 --> 00:21:41,215
+if we cared enough to try.
+
+337
+00:21:41,383 --> 00:21:42,967
+Unlike our southern rivals,
+
+338
+00:21:43,051 --> 00:21:46,387
+the Stark Kings of Winter
+didn't forge the North into one kingdom
+
+339
+00:21:46,471 --> 00:21:48,431
+for glory or gold,
+
+340
+00:21:48,515 --> 00:21:51,517
+there is little of either here, but to survive.
+
+341
+00:21:52,144 --> 00:21:53,185
+Alone in Westeros,
+
+342
+00:21:53,270 --> 00:21:57,648
+the North remembered when
+worse than dragons laid waste to armies.
+
+343
+00:21:58,150 --> 00:21:59,525
+Thousands of years ago,
+
+344
+00:21:59,609 --> 00:22:03,612
+the sun set on the realms of men
+and the Long Night began.
+
+345
+00:22:04,281 --> 00:22:07,950
+A new race emerged
+from the ice and snow, the White Walkers.
+
+346
+00:22:08,035 --> 00:22:12,496
+They demanded no crown,
+offered no terms, spared no life,
+
+347
+00:22:12,581 --> 00:22:14,081
+and the dead marched with them.
+
+348
+00:22:14,416 --> 00:22:19,420
+With humanity facing extinction,
+a Stark sought out the Children of the Forest,
+
+349
+00:22:19,504 --> 00:22:21,672
+the most ancient beings in Westeros,
+
+350
+00:22:21,757 --> 00:22:24,800
+and convinced them to ally
+with the men they'd once fought.
+
+351
+00:22:25,552 --> 00:22:30,056
+Together the two races pushed the Walkers
+back into the Land of Always Winter
+
+352
+00:22:30,140 --> 00:22:33,434
+and sealed it off from
+the Seven Kingdoms with the Wall,
+
+353
+00:22:33,518 --> 00:22:39,315
+300 miles of ice, stone and earth
+rising nearly 700 feet tall.
+
+354
+00:22:39,858 --> 00:22:42,693
+To guard it,
+they established the Night's Watch,
+
+355
+00:22:42,778 --> 00:22:45,988
+a brotherhood sworn to defend
+the living from the dead,
+
+356
+00:22:46,073 --> 00:22:49,033
+whose vows erase both titles and crimes.
+
+357
+00:22:49,618 --> 00:22:54,205
+VISERYS: After the Long Night, the North
+tried to forget it belonged to the continent,
+
+358
+00:22:54,289 --> 00:22:57,833
+perhaps through pride,
+perhaps through sheer ignorance.
+
+359
+00:22:58,001 --> 00:22:59,835
+You never can tell with the North.
+
+360
+00:23:00,462 --> 00:23:03,381
+But as news of Aegon's dragons spread,
+
+361
+00:23:03,465 --> 00:23:08,552
+Torrhen Stark, the King of Winter,
+knew he couldn't forget Westeros any longer
+
+362
+00:23:09,054 --> 00:23:11,555
+and summoned his lords to Winterfell.
+
+363
+00:23:12,265 --> 00:23:14,558
+Many fools shrugged off the threat
+
+364
+00:23:14,643 --> 00:23:18,854
+while the rest placed wagers on
+how long the South would take to burn.
+
+365
+00:23:19,189 --> 00:23:22,775
+Torrhen silenced them
+with a command to assemble their armies
+
+366
+00:23:22,859 --> 00:23:26,070
+and descend from the North in force.
+
+367
+00:23:26,321 --> 00:23:30,074
+SANSA: As the kings of the Rock
+and the Reach burned on the Field of Fire,
+
+368
+00:23:30,158 --> 00:23:32,785
+the greatest Northern force
+since the Long Night
+
+369
+00:23:32,869 --> 00:23:34,912
+crossed the Neck into the Riverlands.
+
+370
+00:23:35,622 --> 00:23:37,832
+But when King Torrhen arrived at the Trident,
+
+371
+00:23:37,916 --> 00:23:40,418
+he saw on the opposing riverbank
+
+372
+00:23:40,502 --> 00:23:43,879
+the combined strength of
+all Aegon's conquered kingdoms.
+
+373
+00:23:44,506 --> 00:23:50,177
+A force larger than Torrhen's own by half,
+and with three dragons.
+
+374
+00:23:50,804 --> 00:23:53,264
+VISERYS: That night, King Torrhen
+called a conference
+
+375
+00:23:53,348 --> 00:23:55,683
+of all his lords and advisers.
+
+376
+00:23:55,767 --> 00:24:00,354
+Some wanted to fight,
+and trust Northern valor to carry the day,
+
+377
+00:24:00,439 --> 00:24:02,481
+and burn on the Trident.
+
+378
+00:24:02,774 --> 00:24:06,152
+The wisest of them
+wanted to withdraw to Moat Cailin,
+
+379
+00:24:06,236 --> 00:24:11,449
+the fortress which had thrown back
+every southern invasion, and burn there.
+
+380
+00:24:11,700 --> 00:24:16,745
+One suicidal lord even wanted to
+ambush Aegon's camp in the dark
+
+381
+00:24:16,830 --> 00:24:21,834
+and kill the dragons as they slept,
+or at the very least their riders.
+
+382
+00:24:22,043 --> 00:24:25,212
+Hard to tell what would've been his fate.
+
+383
+00:24:25,297 --> 00:24:28,841
+Burning, beheading, dismemberment?
+
+384
+00:24:29,426 --> 00:24:31,093
+Perhaps all three.
+
+385
+00:24:31,386 --> 00:24:33,762
+SANSA: My ancestor listened to their counsel,
+
+386
+00:24:33,847 --> 00:24:35,575
+- and in the morning crossed the Trident
+- (HOOVES THUDDING)
+
+387
+00:24:35,599 --> 00:24:37,391
+under a flag of parley.
+
+388
+00:24:37,476 --> 00:24:42,021
+Then King Torrhen of House Stark
+laid his ancient crown at Aegon's feet,
+
+389
+00:24:42,105 --> 00:24:45,608
+and was named Lord of Winterfell
+and Warden of the North...
+
+390
+00:24:46,651 --> 00:24:48,569
+VISERYS: And the King Who Knelt.
+
+391
+00:24:49,196 --> 00:24:50,404
+SANSA: He had no choice,
+
+392
+00:24:50,489 --> 00:24:55,326
+and thanks to him our soldiers returned
+to their homes whole and unharmed.
+
+393
+00:24:56,161 --> 00:25:00,164
+The swords that Aegon took from them
+were not twisted, burnt or mangled.
+
+394
+00:25:00,999 --> 00:25:01,999
+VISERYS: Yet.
+
+395
+00:25:13,428 --> 00:25:17,014
+LITTLEFINGER: The Vale of Arryn
+was the last of the great kingdoms left.
+
+396
+00:25:17,098 --> 00:25:18,682
+Old and proud,
+
+397
+00:25:18,767 --> 00:25:22,353
+House Arryn did
+what they always did in times of strife.
+
+398
+00:25:22,437 --> 00:25:25,940
+They shut the Bloody Gate,
+sealing off the Vale.
+
+399
+00:25:26,274 --> 00:25:30,486
+Then the Queen-Regent Sharra
+of House Arryn retreated with her son,
+
+400
+00:25:30,570 --> 00:25:35,908
+the boy king Ronnel, into the Eyrie,
+their family's impregnable fortress.
+
+401
+00:25:36,284 --> 00:25:40,913
+From the top of their mountain,
+they could look down on Westeros far below,
+
+402
+00:25:40,997 --> 00:25:44,041
+its problems hidden beneath the clouds.
+
+403
+00:25:44,459 --> 00:25:47,294
+But one day Queen Sharra
+entered the outer courtyard
+
+404
+00:25:47,379 --> 00:25:50,548
+to find her young son sitting on the knee
+of Visenya Targaryen,
+
+405
+00:25:50,632 --> 00:25:53,676
+- and ogling her dragon, Vhagar, beside her.
+- (VHAGAR GROWLING SOFTLY)
+
+406
+00:25:54,219 --> 00:25:56,845
+Just as he'd ask for another cake at dinner,
+
+407
+00:25:56,930 --> 00:26:01,642
+little King Ronnel asked his mother if
+he could go flying on the nice lady's dragon.
+
+408
+00:26:02,102 --> 00:26:04,144
+Visenya smiled at Sharra.
+
+409
+00:26:04,646 --> 00:26:07,648
+So, Sharra imagined, did Vhagar.
+
+410
+00:26:08,858 --> 00:26:10,359
+Remembering her manners,
+
+411
+00:26:10,443 --> 00:26:14,363
+Sharra asked if she could have Visenya
+brought some wine or food,
+
+412
+00:26:14,447 --> 00:26:16,824
+she must be tired after such a long flight.
+
+413
+00:26:17,325 --> 00:26:19,159
+But Visenya demurred.
+
+414
+00:26:19,369 --> 00:26:23,414
+Bored with his mother's pleasantries,
+Ronnel demanded an answer.
+
+415
+00:26:24,207 --> 00:26:25,499
+Poor boy.
+
+416
+00:26:25,584 --> 00:26:28,252
+He didn't even understand the question.
+
+417
+00:26:28,837 --> 00:26:33,591
+Sharra hesitated for a moment,
+then asked Visenya, as a mother,
+
+418
+00:26:33,675 --> 00:26:35,342
+if it were safe for the boy.
+
+419
+00:26:35,802 --> 00:26:37,970
+Visenya assured her it was.
+
+420
+00:26:38,847 --> 00:26:41,348
+What choice did Sharra have?
+
+421
+00:26:41,808 --> 00:26:44,018
+Whilst her son circled the castle,
+
+422
+00:26:44,102 --> 00:26:47,938
+she collected his little ringlet,
+her own regent's coronet,
+
+423
+00:26:48,023 --> 00:26:50,899
+and the ancient Falcon Crown
+of Mountain and Vale,
+
+424
+00:26:50,984 --> 00:26:53,694
+which the Arryns had worn
+for thousands of years.
+
+425
+00:26:54,571 --> 00:26:59,241
+Ronnel had taken to the sky as a king,
+but he landed as a lordling.
+
+426
+00:26:59,326 --> 00:27:01,285
+Perhaps he considered his ancient rights
+
+427
+00:27:01,369 --> 00:27:05,706
+a fair trade for a few minutes of flight,
+as a little boy would.
+
+428
+00:27:05,957 --> 00:27:11,211
+More likely he didn't even notice
+the three crowns at Visenya's feet,
+
+429
+00:27:11,296 --> 00:27:14,840
+or recognize the swords
+of his garrison beside them.
+
+430
+00:27:28,146 --> 00:27:31,023
+VISERYS: The heads of Westeros
+had bowed to Aegon,
+
+431
+00:27:31,107 --> 00:27:33,859
+but its heart still beat free.
+
+432
+00:27:33,943 --> 00:27:37,446
+Oldtown, the center of the Faith of the Seven.
+
+433
+00:27:38,073 --> 00:27:42,117
+There dwelt the High Septon,
+the Father of the Faithful,
+
+434
+00:27:42,202 --> 00:27:44,953
+who commanded the obedience
+of all Westeros,
+
+435
+00:27:45,038 --> 00:27:48,540
+save the savages of the North
+and their Old Gods.
+
+436
+00:27:49,417 --> 00:27:51,377
+When Aegon had landed in Westeros,
+
+437
+00:27:51,461 --> 00:27:54,463
+the High Septon had locked himself
+in the Starry Sept
+
+438
+00:27:54,547 --> 00:27:57,591
+and fasted for seven days and seven nights,
+
+439
+00:27:57,676 --> 00:27:59,843
+one for each of his gods.
+
+440
+00:28:00,178 --> 00:28:03,806
+All he received for his trouble
+was the divine wisdom
+
+441
+00:28:03,890 --> 00:28:08,852
+that if Oldtown took up arms
+against the Dragon, the city would burn,
+
+442
+00:28:08,937 --> 00:28:11,188
+faithful and faithless alike.
+
+443
+00:28:11,856 --> 00:28:14,358
+After the submission of House Stark,
+
+444
+00:28:14,442 --> 00:28:18,779
+Aegon marched towards Oldtown,
+steeling himself for another battle.
+
+445
+00:28:19,447 --> 00:28:23,450
+But he found the gates open,
+with the High Septon welcoming him.
+
+446
+00:28:24,452 --> 00:28:29,248
+The pious fool even had the arrogance
+to grant what Aegon had already won,
+
+447
+00:28:29,332 --> 00:28:34,211
+and anointed the last Valyrian
+as "Aegon of House Targaryen,
+
+448
+00:28:34,295 --> 00:28:38,173
+"First of His Name,
+King of the Andals and the First Men,
+
+449
+00:28:38,258 --> 00:28:42,428
+"Lord of the Seven Kingdoms
+and Protector of the Realm."
+
+450
+00:28:42,721 --> 00:28:47,391
+As if titles meant anything to a man
+before whom time itself now bowed.
+
+451
+00:28:47,976 --> 00:28:53,147
+The maesters would hence divide all history
+into "Before" and "After Conquest."
+
+452
+00:28:55,191 --> 00:28:59,570
+Most expected Aegon to stay
+and make Oldtown his seat,
+
+453
+00:28:59,654 --> 00:29:04,950
+but soon after his coronation, Aegon
+returned to the mouth of the Blackwater River
+
+454
+00:29:05,034 --> 00:29:07,369
+where he had first set foot on Westeros.
+
+455
+00:29:08,329 --> 00:29:12,166
+A small town had since sprouted
+around his primitive fort.
+
+456
+00:29:12,917 --> 00:29:17,337
+To honor their new master,
+the locals dubbed it King's Landing,
+
+457
+00:29:17,505 --> 00:29:19,631
+though it looked more fit for a hedge knight,
+
+458
+00:29:19,716 --> 00:29:22,760
+with wooden palisades, muddy streets
+
+459
+00:29:22,844 --> 00:29:27,681
+and piles of mangled swords
+carted in from every corner of the conquest.
+
+460
+00:29:28,516 --> 00:29:32,770
+But when Aegon made it his court,
+wood became stone.
+
+461
+00:29:32,854 --> 00:29:35,689
+Black mud was buried beneath a Red Keep.
+
+462
+00:29:35,774 --> 00:29:40,611
+And the collected swords of Aegon's foes
+were blasted by dragonfire,
+
+463
+00:29:40,695 --> 00:29:43,655
+and became a seat fit for the Conqueror
+
+464
+00:29:43,740 --> 00:29:46,784
+and the greatest dynasty
+this world has ever known.
+
+465
+00:29:47,702 --> 00:29:49,369
+House Targaryen.
+
+466
+00:29:49,621 --> 00:29:50,954
+My family.
+
+467
+00:29:51,539 --> 00:29:53,373
+My throne.
+
+468
+00:29:54,751 --> 00:29:56,126
+Or so it should've been.
+
+469
+00:30:08,807 --> 00:30:13,227
+VARYS: But while Aegon titled himself
+"Lord of the Seven Kingdoms,"
+
+470
+00:30:13,311 --> 00:30:16,021
+in reality he held only six.
+
+471
+00:30:16,105 --> 00:30:19,525
+The seventh, Dorne, had never knelt.
+
+472
+00:30:20,109 --> 00:30:23,779
+Visenya had flown into the Vale
+and returned with its crown.
+
+473
+00:30:23,863 --> 00:30:25,364
+Mimicking her sister,
+
+474
+00:30:25,448 --> 00:30:29,535
+Rhaenys had flown over the enemy force
+holding the passes into Dorne,
+
+475
+00:30:29,661 --> 00:30:34,832
+and landed in the castle of its ruling lady,
+Princess Meria of House Martell.
+
+476
+00:30:34,999 --> 00:30:39,294
+Meria was 80 years old, fat, bald and blind.
+
+477
+00:30:39,379 --> 00:30:44,258
+Behind her back, many sniggered at her
+as the "Yellow Toad of Dorne."
+
+478
+00:30:44,342 --> 00:30:47,052
+The beautiful Rhaenys probably
+thought as much when they met.
+
+479
+00:30:47,303 --> 00:30:50,514
+She demanded Princess Meria
+kneel to her brother Aegon,
+
+480
+00:30:50,598 --> 00:30:53,809
+though she allowed that on account of
+Meria's age and health,
+
+481
+00:30:53,893 --> 00:30:56,103
+a simple vow of submission would do.
+
+482
+00:30:56,813 --> 00:31:00,983
+But the Princess told the Queen
+that the Targaryens weren't wanted in Dorne,
+
+483
+00:31:01,067 --> 00:31:05,779
+and no Martell would ever bow, bend or break
+no matter how badly they burned.
+
+484
+00:31:06,573 --> 00:31:08,657
+Rhaenys could have mounted her dragon
+right then
+
+485
+00:31:08,741 --> 00:31:13,203
+and roasted Meria in the castle
+as her brother had done at Harrenhal.
+
+486
+00:31:13,288 --> 00:31:15,873
+But whatever she saw in Meria's eyes
+
+487
+00:31:15,957 --> 00:31:18,375
+scared her right back to King's Landing,
+
+488
+00:31:18,459 --> 00:31:20,836
+with her dragon's tail between its legs.
+
+489
+00:31:21,838 --> 00:31:23,839
+After Aegon's coronation,
+
+490
+00:31:23,923 --> 00:31:27,134
+Rhaenys returned to Dorne
+with Aegon and Visenya
+
+491
+00:31:27,760 --> 00:31:29,261
+and their dragons.
+
+492
+00:31:29,679 --> 00:31:34,266
+But no armies met them in the field,
+and no lords defied them in their castles.
+
+493
+00:31:34,350 --> 00:31:38,186
+As the dragons approached,
+Dorne simply emptied.
+
+494
+00:31:38,813 --> 00:31:42,900
+House Martell had learned
+from Harrenhal and the Field of Fire.
+
+495
+00:31:42,984 --> 00:31:45,235
+The dragons were unbeatable in battle,
+
+496
+00:31:45,320 --> 00:31:47,029
+but wars were more than battles.
+
+497
+00:31:47,780 --> 00:31:50,782
+Unopposed, Aegon claimed Dorne
+for his own.
+
+498
+00:31:50,867 --> 00:31:53,243
+But as soon as he returned to King's Landing,
+
+499
+00:31:53,328 --> 00:31:58,332
+his castellans were hurled off towers,
+and his royal garrison vanished in the desert,
+
+500
+00:31:58,416 --> 00:32:00,292
+never to be seen again.
+
+501
+00:32:00,543 --> 00:32:05,547
+Except, perhaps, when the winds change
+and the sands cough up old bones and armor.
+
+502
+00:32:06,257 --> 00:32:08,550
+Rhaenys returned on Meraxes,
+
+503
+00:32:08,635 --> 00:32:12,429
+intent on revenging herself
+against Meria Martell.
+
+504
+00:32:12,513 --> 00:32:14,681
+But Dorne was no longer empty.
+
+505
+00:32:15,058 --> 00:32:17,643
+The Dornish kept Meria's promise,
+
+506
+00:32:17,727 --> 00:32:21,021
+and fought even while
+burning under dragonflame.
+
+507
+00:32:21,689 --> 00:32:22,856
+And they won.
+
+508
+00:32:23,608 --> 00:32:28,111
+One day a bolt pierced the eye of Meraxes
+and knocked the dragon out of the sky.
+
+509
+00:32:28,821 --> 00:32:33,659
+House Martell remained unbroken,
+unlike the unfortunate Rhaenys.
+
+510
+00:32:34,369 --> 00:32:39,957
+In their wrath, Aegon and Visenya set flame
+to every castle and city but Sunspear,
+
+511
+00:32:40,041 --> 00:32:42,376
+trying to turn the people
+against House Martell.
+
+512
+00:32:42,794 --> 00:32:44,962
+But the Dornish stayed loyal,
+
+513
+00:32:45,046 --> 00:32:47,673
+and when Aegon returned to King's Landing,
+
+514
+00:32:47,757 --> 00:32:51,510
+he found assassins waiting for him
+in the streets of his own capital.
+
+515
+00:32:51,594 --> 00:32:56,640
+If not for Visenya, the Conqueror would
+not have enjoyed his Conquest for very long.
+
+516
+00:32:56,724 --> 00:32:59,601
+From then on,
+the king and his family would be guarded
+
+517
+00:32:59,686 --> 00:33:04,314
+by the seven greatest knights in the realm,
+the Kingsguard.
+
+518
+00:33:04,983 --> 00:33:09,653
+When Meria died in her sleep,
+her weak and tired son sued for peace.
+
+519
+00:33:10,196 --> 00:33:15,742
+But old Meria had exhausted Aegon as well,
+and he granted the request.
+
+520
+00:33:15,827 --> 00:33:19,454
+The Targaryens still wanted Dorne,
+and eventually they would have it,
+
+521
+00:33:19,539 --> 00:33:21,373
+but not at the point of a sword.
+
+522
+00:33:21,457 --> 00:33:25,335
+They would buy it the same way
+great lords buy anything...
+
+523
+00:33:25,420 --> 00:33:26,420
+With a daughter.
+
+524
+00:33:37,515 --> 00:33:41,685
+VISERYS: After the Conquest,
+when men looked up, they saw dragons.
+
+525
+00:33:41,769 --> 00:33:44,521
+Nobles learned to keep their eyes down,
+
+526
+00:33:44,605 --> 00:33:47,816
+but the gods weren't used to
+sharing the heavens.
+
+527
+00:33:47,900 --> 00:33:52,821
+When Aegon died, the High Septon
+led the Faith and its army in revolt,
+
+528
+00:33:52,905 --> 00:33:56,116
+claiming that the Valyrian tradition
+of wedding brother to sister
+
+529
+00:33:56,200 --> 00:33:58,660
+was an abomination in the eyes of the Seven.
+
+530
+00:33:58,745 --> 00:34:03,081
+Though no one could explain where
+the divine Mother and Father had come from.
+
+531
+00:34:03,624 --> 00:34:09,004
+My ancestor Maegor the Wise,
+or Maegor the Cruel, as men slander him,
+
+532
+00:34:09,672 --> 00:34:12,924
+put a bounty on the head
+of every militant priest,
+
+533
+00:34:13,009 --> 00:34:16,887
+and miraculously the Faith
+soon returned to the septs.
+
+534
+00:34:17,305 --> 00:34:21,016
+With Dorne in the fold,
+and the Faith put in its place,
+
+535
+00:34:21,100 --> 00:34:24,269
+none in Westeros were left
+to oppose my family,
+
+536
+00:34:24,687 --> 00:34:27,230
+so we started opposing each other.
+
+537
+00:34:27,315 --> 00:34:28,482
+In the Dance of Dragons,
+
+538
+00:34:28,566 --> 00:34:32,110
+a Targaryen Princess
+tried to steal her brother's throne.
+
+539
+00:34:32,487 --> 00:34:36,239
+Thanks to her stupidity,
+most of our dragons died,
+
+540
+00:34:36,324 --> 00:34:39,367
+though one thankfully ate her before it did.
+
+541
+00:34:39,952 --> 00:34:44,331
+But even without our dragons,
+we were still the blood of Old Valyria,
+
+542
+00:34:44,999 --> 00:34:47,292
+which proved just as dangerous.
+
+543
+00:34:47,376 --> 00:34:49,669
+One of my foolish ancestors didn't see
+
+544
+00:34:49,754 --> 00:34:53,298
+what separated his bastards
+from our family proper,
+
+545
+00:34:53,382 --> 00:34:55,592
+and legitimized them all on his deathbed.
+
+546
+00:34:56,385 --> 00:34:58,428
+Adopting the name Blackfyre,
+
+547
+00:34:58,513 --> 00:35:03,183
+the bastards proved their nature
+and tried to seize their father's kingdom.
+
+548
+00:35:03,726 --> 00:35:06,353
+When they failed, their sons tried.
+
+549
+00:35:06,437 --> 00:35:09,147
+When the sons failed, their grandsons tried.
+
+550
+00:35:09,232 --> 00:35:12,776
+Until finally Ser Barristan the Bold,
+knight of the Kingsguard,
+
+551
+00:35:12,860 --> 00:35:16,780
+slew Maelys the Monstrous
+in the War of the Ninepenny Kings,
+
+552
+00:35:16,864 --> 00:35:19,241
+ending the last of the Blackfyre line.
+
+553
+00:35:20,076 --> 00:35:24,621
+Ultimately, without our dragons
+and with our blood diluted by commoners,
+
+554
+00:35:24,705 --> 00:35:28,375
+we failed to see the greatest threat
+growing under our noses.
+
+555
+00:35:29,585 --> 00:35:31,044
+JAIME: As the saying goes,
+
+556
+00:35:31,129 --> 00:35:34,631
+"Every time a Targaryen is born,
+the gods flip a coin."
+
+557
+00:35:35,716 --> 00:35:38,218
+They must've dropped the one for King Aerys,
+
+558
+00:35:38,302 --> 00:35:41,805
+for at first he seemed to have
+dodged the family madness.
+
+559
+00:35:41,973 --> 00:35:44,975
+But as he grew older,
+he began to see conspirators everywhere,
+
+560
+00:35:45,059 --> 00:35:47,769
+and where there were none,
+he worked to create them.
+
+561
+00:35:48,062 --> 00:35:50,939
+As one of his Kingsguard, I saw firsthand
+
+562
+00:35:51,023 --> 00:35:54,901
+that a king who couldn't rule his own mind
+couldn't rule seven kingdoms.
+
+563
+00:35:55,278 --> 00:35:56,403
+We endured his reign
+
+564
+00:35:56,487 --> 00:35:58,989
+because we hoped his son Rhaegar
+would right the realm
+
+565
+00:35:59,073 --> 00:36:00,407
+when he ascended to the throne.
+
+566
+00:36:01,242 --> 00:36:03,910
+But then Rhaegar proved as mad as his father
+
+567
+00:36:03,995 --> 00:36:06,746
+and snatched Lyanna Stark,
+daughter of the Warden of the North,
+
+568
+00:36:06,831 --> 00:36:09,833
+and betrothed to Robert Baratheon,
+Lord of the Stormlands.
+
+569
+00:36:10,084 --> 00:36:14,171
+When Lyanna's father and eldest brother
+demanded justice,
+
+570
+00:36:14,255 --> 00:36:16,375
+- the Mad King obliged,
+- (AERYS LAUGHING INSIDIOUSLY)
+
+571
+00:36:16,424 --> 00:36:18,592
+laughing as he dispensed it.
+
+572
+00:36:19,802 --> 00:36:21,887
+VARYS: Unsatisfied with only two murders,
+
+573
+00:36:21,971 --> 00:36:25,348
+the Mad King then ordered
+Jon Arryn, Lord of the Vale,
+
+574
+00:36:25,433 --> 00:36:29,936
+to execute his two wards,
+Robert Baratheon and Eddard Stark.
+
+575
+00:36:30,730 --> 00:36:33,899
+Instead, Jon Arryn raised the Vale in revolt.
+
+576
+00:36:34,275 --> 00:36:38,028
+Ned Stark slipped past royalist sentries
+and raised the North,
+
+577
+00:36:38,112 --> 00:36:43,867
+and Robert won three battles in a single day
+to unite the Stormlands behind him,
+
+578
+00:36:43,951 --> 00:36:47,454
+only to be defeated by a royalist army
+and forced to flee,
+
+579
+00:36:47,955 --> 00:36:50,790
+leaving his home of Storm's End besieged.
+
+580
+00:36:51,876 --> 00:36:54,252
+SANSA: The Hand of the King
+finally cornered Robert
+
+581
+00:36:54,337 --> 00:36:55,962
+in the town of the Stoney Sept
+
+582
+00:36:56,047 --> 00:36:57,881
+and sent his soldiers door-to-door
+
+583
+00:36:57,965 --> 00:36:59,765
+- searching for the rebel leader.
+- (KNOCKING)
+
+584
+00:37:00,134 --> 00:37:03,261
+But the villagers hated the Mad King
+and loved Robert,
+
+585
+00:37:03,346 --> 00:37:05,722
+and kept him one step ahead of the soldiers.
+
+586
+00:37:05,932 --> 00:37:08,266
+Until only one refuge remained.
+
+587
+00:37:08,935 --> 00:37:12,604
+As the soldiers closed in,
+all the town bells rang out.
+
+588
+00:37:13,314 --> 00:37:14,833
+- (BELLS TOLLING)
+- Hearing of Robert's plight,
+
+589
+00:37:14,857 --> 00:37:17,317
+our father and Jon Arryn
+had rushed to the Riverlands
+
+590
+00:37:17,443 --> 00:37:21,279
+and enlisted our grandfather, Hoster Tully,
+to help them.
+
+591
+00:37:21,489 --> 00:37:24,658
+Together they routed the Hand's army
+and rescued Robert.
+
+592
+00:37:25,493 --> 00:37:27,827
+To celebrate and cement the Tully alliance,
+
+593
+00:37:27,912 --> 00:37:32,123
+our father wed our mother, Catelyn,
+and Jon Arryn took our Aunt Lysa.
+
+594
+00:37:33,084 --> 00:37:37,003
+Only a fortnight later,
+both men rushed back into the field,
+
+595
+00:37:37,255 --> 00:37:39,339
+for the dragon had finally woken.
+
+596
+00:37:40,633 --> 00:37:43,969
+VISERYS: While my father's servants
+were losing my father's kingdoms,
+
+597
+00:37:44,053 --> 00:37:47,097
+my brother Rhaegar
+had been cooped up with his...
+
+598
+00:37:47,556 --> 00:37:49,057
+Mistress? Whore?
+
+599
+00:37:49,475 --> 00:37:52,310
+Whatever else, I'd call her a distraction.
+
+600
+00:37:52,395 --> 00:37:56,564
+But now Rhaegar came to his senses
+and returned to King's Landing.
+
+601
+00:37:57,149 --> 00:38:00,235
+He persuaded our father
+to summon his estranged friend,
+
+602
+00:38:00,319 --> 00:38:04,698
+Lord Tywin Lannister, the richest
+and most powerful lord in the realm.
+
+603
+00:38:05,366 --> 00:38:07,951
+- Rhaegar himself would lead the royal army
+- (HOOVES THUDDING)
+
+604
+00:38:08,035 --> 00:38:09,869
+against the usurper, Robert.
+
+605
+00:38:10,162 --> 00:38:12,372
+- (SWORD SWISHES)
+- On the banks of the Trident,
+
+606
+00:38:12,456 --> 00:38:15,875
+my brother fought the man
+whose wife he'd stolen,
+
+607
+00:38:15,960 --> 00:38:18,962
+and who fought to steal
+his birthright in return.
+
+608
+00:38:20,464 --> 00:38:23,633
+In the end, Robert wanted it more.
+
+609
+00:38:24,093 --> 00:38:26,970
+His hammer shattered my brother's armor
+
+610
+00:38:27,054 --> 00:38:30,724
+and its rubies fell into the river like raindrops,
+
+611
+00:38:30,808 --> 00:38:32,142
+vanishing in the current.
+
+612
+00:38:33,394 --> 00:38:38,398
+VARYS: With Rhaegar's defeat, nothing stood
+between Robert and King's Landing.
+
+613
+00:38:39,150 --> 00:38:41,735
+Imagine the King's surprise a fortnight later
+
+614
+00:38:41,819 --> 00:38:45,822
+when he saw not stags,
+but lions outside his gates.
+
+615
+00:38:46,615 --> 00:38:49,075
+His former Hand, Tywin Lannister,
+
+616
+00:38:49,160 --> 00:38:52,787
+had come to the capital with a force
+even Robert couldn't match,
+
+617
+00:38:52,872 --> 00:38:54,581
+claiming to be loyal to the king.
+
+618
+00:38:55,249 --> 00:38:59,627
+Trusting what he wanted to believe,
+Aerys ordered the gates opened,
+
+619
+00:38:59,712 --> 00:39:01,963
+and the Lannister forces dutifully began
+
+620
+00:39:02,048 --> 00:39:06,885
+to rape, pillage and murder
+the king's actual loyal subjects.
+
+621
+00:39:07,345 --> 00:39:11,306
+When Eddard Stark finally arrived
+at the capital with Robert's army,
+
+622
+00:39:11,390 --> 00:39:14,684
+he found Lannister banners
+hanging over the sacked city,
+
+623
+00:39:14,769 --> 00:39:17,812
+Targaryen corpses littering its streets,
+
+624
+00:39:18,064 --> 00:39:21,107
+and Ser Jaime Lannister
+sitting on the Iron Throne.
+
+625
+00:39:21,817 --> 00:39:24,402
+Below him, the Mad King Aerys,
+
+626
+00:39:24,487 --> 00:39:28,990
+whom Ser Jaime had sworn to guard,
+lay in a pool of his own blood
+
+627
+00:39:29,075 --> 00:39:31,743
+from a sword thrust through his back.
+
+628
+00:39:32,411 --> 00:39:35,663
+Lord Eddard might've thanked Ser Jaime
+for doing the realm a favor,
+
+629
+00:39:36,290 --> 00:39:38,291
+but honorable as he was,
+
+630
+00:39:38,376 --> 00:39:41,544
+Lord Eddard condemned Ser Jaime
+as a Kingslayer,
+
+631
+00:39:42,213 --> 00:39:44,005
+a name he would never escape.
+
+632
+00:39:45,841 --> 00:39:47,634
+JAIME: Unlike Lord Eddard,
+
+633
+00:39:47,718 --> 00:39:51,679
+Robert appreciated my contribution
+to his glorious victory.
+
+634
+00:39:52,139 --> 00:39:55,141
+He pardoned me for my crime,
+and even kept me on his Kingsguard
+
+635
+00:39:55,226 --> 00:39:56,935
+beside Ser Barristan Selmy,
+
+636
+00:39:57,019 --> 00:39:59,729
+who'd been wounded at the Trident
+fighting for Rhaegar.
+
+637
+00:40:00,147 --> 00:40:04,067
+True, both of us had failed to protect
+our Targaryen charges,
+
+638
+00:40:04,151 --> 00:40:07,153
+but perhaps that's what
+Robert liked most about us.
+
+639
+00:40:07,905 --> 00:40:09,364
+When my father presented Robert
+
+640
+00:40:09,448 --> 00:40:12,075
+with the bodies of Rhaegar's wife
+and two children,
+
+641
+00:40:12,159 --> 00:40:14,911
+Ned Stark hiked up his skirts and demanded
+
+642
+00:40:14,995 --> 00:40:17,330
+Robert send their killer to Dorne,
+and me to the Wall.
+
+643
+00:40:18,165 --> 00:40:20,291
+But I saw what Ned couldn't.
+
+644
+00:40:21,127 --> 00:40:23,503
+Robert was ashamed of the bodies,
+
+645
+00:40:24,338 --> 00:40:26,881
+and more ashamed of his relief.
+
+646
+00:40:27,925 --> 00:40:32,720
+He knew that Rhaegar's heirs had to die
+or his throne would never be safe,
+
+647
+00:40:32,805 --> 00:40:35,849
+but glorious heroes didn't kill children.
+
+648
+00:40:36,892 --> 00:40:39,727
+They simply didn't punish their murderers.
+
+649
+00:40:40,688 --> 00:40:43,690
+VISERYS: No doubt I would've
+suffered a similar fate,
+
+650
+00:40:43,774 --> 00:40:47,777
+but my father had wisely sent me
+and my pregnant mother to Dragonstone.
+
+651
+00:40:48,446 --> 00:40:53,074
+When the usurper heroically sent men
+to kill me and my newborn sister
+
+652
+00:40:53,159 --> 00:40:55,160
+to protect his stolen throne,
+
+653
+00:40:55,244 --> 00:40:58,788
+a loyal knight smuggled us
+across the Narrow Sea to Essos.
+
+654
+00:40:59,582 --> 00:41:01,875
+And so the last dragons of Valyria,
+
+655
+00:41:01,959 --> 00:41:03,960
+heirs to the greatest dynasty
+
+656
+00:41:04,044 --> 00:41:08,173
+from the greatest civilization
+this world has ever known,
+
+657
+00:41:08,257 --> 00:41:12,427
+slept in sewers
+and foraged for scraps in alleyways,
+
+658
+00:41:12,511 --> 00:41:15,263
+one step ahead of the usurper's knives
+
+659
+00:41:15,347 --> 00:41:19,517
+and one step behind the whispers
+of his spymaster Varys.
+
+660
+00:41:20,102 --> 00:41:22,145
+But we won't run forever.
+
+661
+00:41:22,480 --> 00:41:25,690
+One day I'll return to my kingdoms
+with an army,
+
+662
+00:41:25,774 --> 00:41:27,650
+take back my throne,
+
+663
+00:41:27,735 --> 00:41:31,905
+and repay all traitors
+with the only coin my family knows.
+
+664
+00:41:32,823 --> 00:41:35,658
+Fire and blood.
+

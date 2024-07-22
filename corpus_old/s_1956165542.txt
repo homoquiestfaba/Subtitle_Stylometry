@@ -1,0 +1,8720 @@
+ï»¿1
+["Relax" playing]
+
+
+<i>â™ª Relax, don't do it â™ª</i>
+
+[music continues on radio]
+
+<i>â™ª Relax, don't do it â™ª</i>
+
+[music stops]
+
+[water running]
+
+Breakfast?
+
+Here's your tea.
+
+"Thanks, Dad."
+
+Sorry. Sorry, I was miles away.
+Got to get everything ready for today.
+
+
+Yeah. Tuckersoft.
+They do Colin Ritman's games.
+
+Oh, not<i> the</i> Colin Ritman.
+
+Mr. Thakur, the owner,
+
+said I could show them
+my Bandersnatch demo.
+
+-Your Bander-what?
+-Bandersnatch.
+
+I've based it on the book.
+
+Was that your mother's?
+
+It was in her things, yeah.
+
+-Don't know if she read it though.
+-Don't think so.
+
+"Jerome F. Davies."
+
+Well, he can't be a great writer.
+
+You're always flicking backwards
+and forwards in that.
+
+No, it's a "Choose Your Own Adventure"
+book.
+
+You decide what your character does.
+
+-You know, like a game.
+-[dad] Sounds thrilling.
+
+How about you decide
+what you want for your breakfast?
+
+Both seem a bit kiddywink to me,
+but you will insist.
+
+-[dog barks]
+-[dad] Oi!
+
+Get back next door!
+
+The bloody hound from next door.
+
+Go on!
+
+Be the death of us.
+
+["Hold Me Now" playing]
+
+<i>â™ª Warm my heart â™ª</i>
+
+<i>â™ª Stay with me â™ª</i>
+
+<i>â™ª Let lovin' start, let lovin' start â™ª</i>
+
+<i>â™ª Whoa whoa whoa â™ª</i>
+
+Hello, Tuckersoft.
+
+
+Alright, fetch us 20 B&H, would you?
+And... Lion bar.
+
+Good boy.
+
+Ah!
+
+You... are... Steven.
+
+-Stefan.
+-Stefan, sorry, mate.
+
+That's alright. I get it all the time.
+
+Sorry about the chaos.
+We just moved in Monday.
+
+-[video game beeps]
+-It's big.
+
+Well, expansion, that's my plan.
+
+Imagine, OK.
+A whole team just for graphics,
+
+another for sound, for gameplay.
+
+We're going to be a hit factory.
+
+Like Motown but for computer games.
+
+You heard it here first.
+
+That's Colin's new one.
+
+-Colin Ritman?
+-That's him over there.
+
+That's crazy.
+I've played all of his games.
+
+Let's say hello.
+
+-Sure he won't mind? He's working.
+-He'll be fine. He'll be fine. Shh! Shh!
+
+Oh. Wait, wait, wait.
+
+What's this, Kajagoogoo? [laughs]
+
+You wish.
+
+The state of him, he's made enough
+this year to buy a Lamborghini
+
+and he still smokes roll-ups.
+
+Well, pre-rolled has strychnine in them,
+so the joke's on him.
+
+[lighter clicks]
+
+Anyway, this is Stefan, er...
+
+Butler, Butler.
+
+I'm Colin, yeah?
+
+Yeah, I've played all of your games.
+All of them.
+
+Except the Commodore ones,
+I don't... don't have a Commodore.
+
+-Great sound chip, the Commodore.
+-Mm-hm.
+
+Yeah.
+
+This is my latest.
+
+It's called Nohzdyve.
+
+
+-The sprites are so smooth.
+-That took some doing.
+
+[loud beep]
+
+
+-What's that?
+-It's a buffer error.
+
+The eyeballs have overrun
+the video memory...
+
+Oh, yeah, video memory, yeah.
+
+I was going to say that.
+
+Anyway, listen,
+let's get down to business.
+
+Stefan's got something to demo for us.
+
+
+So it's like 3D Monster Maze?
+
+Only when you're moving
+from choice to choice.
+
+-It's actually an adventure game.
+-Like<i> The Hobbit?</i>
+
+Yeah, but...
+
+without any typing.
+
+Without any typing?
+
+So no "get lamp" or whatever?
+
+That's right.
+
+[man chuckles]
+
+[game beeps]
+
+and you pick one against the clock.
+
+OK, he's Pax, he's the demon.
+He's in the book.
+
+So we've actually arrived
+at a choice point,
+
+and then you can choose with the joystick.
+
+You've got ten seconds.
+
+Worship him.
+
+No, don't do that,
+he's the Thief of Destiny...
+
+in the book, I mean.
+
+Got a copy of this at home.
+Never got around to reading it.
+
+You should.
+Jerome F. Davies was a genius.
+
+Didn't he go bonkers
+and cut his wife's head off?
+
+-Yeah, but, I mean, apart from that...
+-Excuse me.
+
+
+What's happened?
+
+Well, I haven't programmed
+that pathway yet.
+
+Lot of paths then?
+
+Well, yeah,
+if it's going to be like the book.
+
+So, come on.
+How do you want to go about this?
+
+-You're... you're interested?
+-That's what I'm saying.
+
+OK, it's July now,
+so if we want to hit Christmas,
+
+then we'll need the tapes in Smiths
+by November.
+
+OK. So here's my proposal.
+
+Come and write it here.
+
+-Here?
+-Yeah!
+
+We'll give you a couple of desks,
+set up a small team, just for you.
+
+And of course Col's on hand.
+
+What do you reckon?
+
+Oh, and hey,
+I'm hiring this sound chip guy next week,
+
+so music we can take care of.
+All in-house.
+
+So, come on. What's your answer?
+
+Yes.
+
+Perfect. Perfect.
+
+OK, so the first thing we need to do
+is streamline the project a little.
+
+We can't fit a breeze block
+of a book into 48K.
+
+Oh, look at this. [chuckles]
+
+
+Happy Birthday to me.
+
+Sorry, mate. Wrong path.
+
+[door closes]
+
+[woman on TV] <i>The next game under our</i>
+<i>Christmas spotlight is Bandersnatch,</i>
+
+<i>in which the player navigates</i>
+<i>a shifting timeline of parallel realities,</i>
+
+<i>based on the book of the same name</i>
+<i>by Jerome F. Davies.</i>
+
+<i>That's how Bandersnatch works,</i>
+<i>but did it "snatch" your respect?</i>
+
+<i>I'm afraid not, Leslie,</i>
+
+<i>for the simple reason</i>
+<i>that it's just way too short.</i>
+
+<i>It's over before it's even begun.</i>
+
+<i>This is the one of the first team-created</i>
+<i>games from Tuckersoft,</i>
+
+<i>and I think that's given it</i>
+<i>a very designed-by-committee feel,</i>
+
+<i>almost like they just rushed out</i>
+<i>the simplest, quickest cash-in they could.</i>
+
+<i>What they should've done</i>
+<i>is just gone right back to the start</i>
+
+<i>and tried again.</i>
+
+-[woman] <i>And your verdict?</i>
+<i>-No stars out of five. Terrible.</i>
+
+<i>we'll have something more for you...</i>
+
+That kid knows nothing.
+
+I should try again.
+
+-[dad] Stefan.
+-I'm trying again.
+
+["Relax" playing]
+
+<i>â™ª Relax, don't... â™ª</i>
+
+Breakfast?
+
+-Your Bander-what?
+-Bandersnatch.
+
+It's a "Choose Your Own Adventure" book.
+
+The bloody hound from next door.
+Be the death of us.
+
+<i>â™ª ...lovin' start</i>
+<i>Whoa, whoa, whoa â™ª</i>
+
+We're going to be a hit factory.
+
+Colin Ritman? That's crazy.
+I've played all of his games.
+
+The state of him. He's made enough
+this yearÂ to buy a Lamborghini
+
+and he still smokes roll-ups.
+
+We've met before?
+
+No.
+
+This is what I'm working on.
+
+Nohzdyve.
+
+Yeah... that's right.
+
+
+-Oh, bollocks.
+-What's that?
+
+Buffer error.
+
+The eyeball sprite's overshot
+the video memory.
+
+How did you know that?
+
+-Just did.
+-Bloody hell, he's good, right?
+
+Anyway, let's get down to business.
+Stefan's got something to demo for us.
+
+See. You've got ten seconds.
+
+Don't worship him,
+he's the Thief of Destiny.
+
+-You've read<i> Bandersnatch?</i>
+-Jerome F. Davies. Visionary.
+
+Isn't he that bloke who went cuckoo
+and cut his wife's head off?
+
+That is what people tend to focus on, yes.
+
+Which ending did you get?
+When you read it.
+
+-All of them.
+-Excuse me.
+
+-What's happened?
+-I haven't programmed that path yet.
+
+Right. So a lot of paths then?
+
+Well, yes,
+if it's going to be like the book.
+
+A lot of divergent realities in that book.
+
+It was ahead of its time.
+In as much as time exists.
+
+OK. So here's my proposal.
+
+Come and write it here.
+
+-Here?
+-We'll give you a couple of desks,
+
+set up a small team, just for you.
+And of course Col's on hand.
+
+What do you reckon?
+
+Oh, and hey,
+I'm hiring this sound chip guy next week,
+
+so music we can take care of.
+All in-house.
+
+So, come on. What's your answer?
+
+No.
+
+I mean, yes,
+I want to do your game, but I-I just...
+
+I just think I need-I need to...
+
+I need to write it how I know.
+
+You know, just me. At home.
+
+At home. On your own?
+
+Yeah, it's just that it's all in my head,
+
+and I think if I let other people in
+it'll just get, I don't know, stressy?
+
+"Stressy"?
+
+But I know
+that I can do it proper justice.
+
+The book.
+
+You know, divergent story paths.
+Parallel realities.
+
+-It's still a game though, yeah?
+-I get it.
+
+The lad's a craftsman.
+
+He's a lone woodsman. I'm the same.
+
+-Yeah, but...
+-It's like I say,
+
+teams are fine for things
+like action titles,
+
+but when it's a concept piece,
+
+bit of madness is what you need
+and that works best when it's one mind.
+
+Alright, Timothy Leary, we'll debate
+<i>The Doors of Perception</i> later...
+
+That was Huxley not Leary.
+
+on your tod ,the important thing is
+
+putting it out for Christmas,Â so I'll need
+finished code by 12th September.
+
+-OK, sure.
+-But no later.
+
+What do you listen to?
+
+-Hmm?
+-To get in to the flow.
+
+Oh, music?
+
+Er... Thompson Twins.
+
+Get a pen.
+
+[microwave beeps]
+
+I'm defrosting mince.
+
+-It's like alien technology, this thing.
+-[beeps]
+
+Oh. How... How did it go?
+
+Er, good. Yeah, really good.
+
+-They're taking it.
+-Oh, well, that's great, isn't it?
+
+-Well done, mate.
+-You've got mince juice on your hands.
+
+Yes.
+
+So, how does it work then?
+Do you go into their office, or...?
+
+No, I write it here.
+
+-On-on your own?
+-Yes.
+
+And...
+
+Is that the best way
+to work on something like this?
+
+Why wouldn't it be?
+
+<i>are certainly impressive, Robin,</i>
+
+<i>but the big question is,</i>
+<i>what's it like to play?</i>
+
+<i>Well, the gameplay is just as impressive.</i>
+
+<i>I must say, this is a Colin Ritman game,</i>
+<i>so we'd expect little else,</i>
+
+<i>but even by his standards</i>
+<i>this is really most impressive.</i>
+
+<i>It's challenging,</i>
+<i>there's quite a big learning curve,</i>
+
+<i>so you die a lot and have to try again</i>
+<i>but I didn't really mind that much.</i>
+
+<i>but what's your verdict, Robin?</i>
+
+<i>Colin Ritman does it again.</i>
+
+-[woman] <i>So not quite perfect.</i>
+<i>-</i>[Robin] Well, nothing's perfect.
+
+So there I am, there's Colin Ritman...
+
+"The actual Colin Ritman,"
+I believe you called him.
+
+Yeah, exactly. And Mr. Thakur's
+offering me the chance to work there
+
+in their own office alongside Colin.
+
+And I just...
+
+-I don't know. It was too...
+-Too?
+
+Good to be true.
+
+-I said no.
+-You said no?
+
+Well, not to the whole thing,
+
+just to working there,
+being under their control.
+
+I don't know where it came from,
+I just said no
+
+and then had to justify it
+by saying that I prefer to work alone.
+
+But I just don't know
+where the urge to say it came from.
+
+It sounds like you're growing
+in confidence. I think it's a good sign.
+
+Well, they're still letting me
+do the game, so...
+
+Well done, Stefan. That's great.
+That's great.
+
+You sound like my dad.
+
+Oh.
+
+Sorry.
+
+He gets on my nerves sometimes.
+
+Like this... I'm fine now,
+
+I don't see why I need
+to keep coming to these sessions.
+
+It just feels like being...
+I don't know, monitored.
+
+Perhaps you're feeling intruded upon
+because of the anniversary looming.
+
+It's a difficult time of year for you.
+We can't underestimate that.
+
+Would you like to talk about what
+happened with your mother?
+
+It can be helpful to revisit things.
+Even if you feel you've done this before.
+
+You might discover something new.
+
+I keep thinking about that morning.
+
+Reliving it.
+
+<i>Rabbit.</i>
+
+<i>It was because of Rabbit.</i>
+
+<i>He was this stupid toy that my mum</i>
+<i>had made for me when I was born.</i>
+
+I used to take him everywhere.
+
+I think Dad thought it was sissy
+or something.
+
+<i>He and Mum used to</i>
+<i>have these rows about it.</i>
+
+stopped playing with dolls.
+
+<i>[Stefan] I know he took rabbit away</i>
+<i>and hid it somewhere.</i>
+
+<i>That morning, Mum was going</i>
+<i>to visit Granddad and Grandma.</i>
+
+<i>I was supposed to be going with her,</i>
+<i>but I couldn't find Rabbit anywhere.</i>
+
+<i>And I refused to go without him.</i>
+
+Come on, Stefan, we're going to be late.
+
+Are you coming or not?
+
+
+You'll have to catch the 8:45, now.
+
+<i>[Stefan] So I held her up.</i>
+
+<i>Because of me she had to catch</i>
+<i>a later train. Because of me.</i>
+
+when this happened?
+
+Five.
+
+You were five years old.
+
+And you couldn't have known.
+
+Stefan.
+
+You couldn't have known.
+
+[man on TV] <i>The Emergency Services say</i>
+<i>the 8:45 train derailed</i>
+
+<i>at high speed</i>
+<i>outside Queenstown Road Station.</i>
+
+<i>As the death toll continues to rise,</i>
+<i>transport police have opened an inquiry,</i>
+
+<i>but the cause is not yet clear.</i>
+
+I fucking hate him for it.
+
+The past is immutable, Stefan.
+
+No matter how painful it is,
+we can't change things,
+
+we can't choose differently,
+with hindsight.
+
+We all have to learn to accept that.
+
+Remember, any time you need me,
+just pick up the phone.
+
+You know the number.
+
+["Too Shy" playing]
+
+<i>â™ª Hush, hush, eye to eye â™ª</i>
+
+<i>â™ª Too shy, shy â™ª</i>
+
+<i>â™ª Hush, hush â™ª</i>
+
+<i>â™ª Eye to eye â™ª</i>
+
+<i>â™ª Too shy, shy â™ª</i>
+
+â™ª Hush, hush, eye to eye... â™ª
+
+[music continues over speakers]
+
+Thank you.
+
+[menacing electric music plays]
+
+[electronic music plays]
+
+[breathes heavily]
+
+[knock on door]
+
+Stefan?
+
+Um, tea.
+
+Er, look, I'm going to go to the pub
+for some lunch.
+
+-If you fancy tagging along.
+-No. I'm alright.
+
+-You didn't have any breakfast.
+-Dad, I'm fine.
+
+
+Stefan, I'm worried about you.
+You've been stuck in your room for weeks.
+
+Stefan?
+
+Will you talk to me?
+
+Look, I can't help if you just sit there
+and don't speak!
+
+
+That's all your work!
+
+
+
+
+
+
+
+
+
+
+
+
+Stefan, I'm worried about you.
+You've been stuck in your room for weeks.
+
+Stefan?
+
+Will you talk to me?
+
+Look, I can't help if you just sit there
+and don't speak!
+
+Dad, just fuck off!
+
+I'm sorry.
+
+I'm... I'm just...
+
+-I'm-I'm just stressed.
+-Get your coat.
+
+We're going for lunch.
+
+-Dad. I need to finish this.
+-And we'll go in the car.
+
+["Making Plans For Nigel" playing]
+
+<i>â™ª We're only making plans for Nigel â™ª</i>
+
+<i>â™ª We only want what's best for him â™ª</i>
+
+[music continues on radio]
+
+[music stops]
+
+We're here.
+
+This is Dr. Haynes' place.
+
+-You said we were getting lunch.
+-You need to speak to her.
+
+You're under pressure, you're...
+
+You're not sleeping, you're not eating.
+
+I'm concerned about you, OK?
+
+I think the healthiest thing to do
+is to talk about any concerns you may have
+
+instead of bottling them up inside.
+
+but my head is all over the place.
+
+I keep having these vivid dreams.
+Like thinking weird things.
+
+What sort of things?
+
+-Like I'm not in control.
+-Of?
+
+Anything, little things, tiny decisions.
+
+What I have for breakfast in the morning.
+What music I listen to.
+
+Whether I shout at Dad, or...
+
+You feel like you're not making
+these decisions?
+
+I feel like I'm not guiding them.
+Like someone else is.
+
+You're not hearing voices or...?
+
+No voices, but there is something.
+
+I-I don't know, an impulse.
+
+I'm sure there is.
+
+OK. The fact that you're aware
+of your mental state
+
+is actually reassuring.
+
+But it sounds like you're starting
+to dissociate
+
+so we want to nip that in the bud
+
+before you start
+to seriously entertain delusions.
+
+I don't think we're there yet though.
+
+We can't overlook the fact
+
+that the anniversary
+of your mother's death is due,
+
+and as we know, that's a stressor.
+
+
+Ah!
+
+
+I think it's important that you stay
+on the pharmaceutical path
+
+at least for the next few months.
+
+I'm upping the dosage slightly.
+
+Stefan.
+
+Don't see this as a setback.
+
+You're not alone. We're in it together.
+
+One for all, and all...
+
+For one.
+
+If anything happens, just call me.
+
+You know the number.
+
+[telephone rings]
+
+-How was it?
+-It was fine.
+
+[pulls handbrake]
+
+["Silent Night" playing]
+
+[TV jingle plays]
+
+<i>So, Bandersnatch. Worth it?</i>
+
+<i>but it's frustrating.</i>
+
+<i>It's as if the creator simply gave up</i>
+<i>halfway through and went on autopilot.</i>
+
+<i>If we had second chances in life,</i>
+<i>I'd hope they'd choose differently</i>
+
+<i>but, er, sadly we don't.</i>
+
+<i>And nor do they. If that makes sense?</i>
+
+-[woman] <i>So your verdict?</i>
+<i>-Two and a half stars out of five.</i>
+
+<i>Disappointing.</i>
+
+
+<i>we'll have something more</i>
+<i>to float your boat, Robin.</i>
+
+I should try again.
+
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+[indistinct chatter]
+
+
+Good job I doubled the advertising.
+
+
+-That's not...
+-[sighs]
+
+Stefan, mate. This is due today.
+You said it was stable.
+
+-It was, I just...
+-Just what?
+
+-Did you add a new path?
+-The government conspiracy branch.
+
+One of the alternate timelines
+in the novel.
+
+Jerome F. Davies
+was into his conspiracy theories.
+
+-Before or after he went psycho?
+-I thought I'd tied up all the loose ends.
+
+If it's something you've added,
+let's just take it out.
+
+-No, it's important.
+-Stefan, mate. The deadline is today.
+
+I just need the weekend.
+I know I can add this new path in.
+
+-Oh, it's complicated enough.
+-Just the weekend. Please.
+
+-First thing Monday.
+-[Stefan] First thing.
+
+Okay.
+
+Shit, I've got to run,
+meeting the John Menzies guys.
+
+Just don't fuck up.
+There's a lot riding on this now.
+
+I know.
+
+[door slams]
+
+Here. That's for you.
+
+
+Taped it off the telly.
+Documentary about Jerome.
+
+A bit of inspiration maybe.
+Pop it on while you work.
+
+
+[TV whirs]
+
+<i>Sugar Puffs from Quaker.</i>
+
+<i>Tell them about the honey, yummy.</i>
+
+[man on TV] <i>Towards the end of his life,</i>
+
+<i>Davies was apparently self-administering</i>
+<i>hallucinogens on a daily basis.</i>
+
+<i>This, coupled with his attempts</i>
+
+<i>to complete the complex multiple</i>
+<i>narratives of</i> Bandersnatch
+
+<i>was to prove the final straw.</i>
+
+<i>He became obsessed</i>
+<i>with bizarre symbols</i>
+
+<i>and the limitations</i>
+<i>of his own free will.</i>
+
+<i>In his notes,</i>
+<i>Davies repeatedly sketched a glyph</i>
+
+<i>which to him represented multiple fates,</i>
+<i>potential realities splitting in two.</i>
+
+<i>It was the start</i>
+<i>of his complete mental collapse.</i>
+
+<i>Davies became convinced</i>
+<i>he had no control over his fate</i>
+
+<i>because his wife was spiking him</i>
+<i>with psychoactive drugs</i>
+
+<i>at behest of a demon called Pax,</i>
+<i>a sort of lion figure</i>
+
+<i>who he claimed he'd seen in a vision,</i>
+
+<i>and who ended up</i>
+<i>being incorporated into the book.</i>
+
+<i>It was this that led him to kill her.</i>
+
+<i>He decapitated her and daubed the</i>
+<i>glyph symbol on the walls with her blood.</i>
+
+<i>After his arrest, he told police</i>
+
+<i>we exist within</i>
+<i>multiple parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we choose to do</i>
+<i>in this existence,</i>
+
+<i>thereâ€™s another one out there</i>
+<i>in which weâ€™re doing quite the opposite,</i>
+
+<i>which renders free will meaningless.</i>
+<i>Nothing but an illusion.</i>
+
+<i>If you follow that line of thinking</i>
+<i>to its logical conclusion...</i>
+
+
+<i>...they're not even your actions.</i>
+
+<i>Your fate has been dictated,</i>
+<i>it's out of your hands.</i>
+
+[Stefan sobs]
+
+-<i>You're just a puppet.</i>
+-[dad] Shh, shh, shh.
+
+<i>You're not in control.</i>
+
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+[woman on TV] <i>Davies became convinced</i>
+<i>he had no control over his fate</i>
+
+<i>because his wife was spiking him</i>
+<i>with psychoactive drugs.</i>
+
+<i>It was this that led him to kill her.</i>
+
+<i>He decapitated her and daubed the</i>
+<i>glyph symbol on the walls with her blood.</i>
+
+<i>After his arrest, he told police</i>
+
+<i>we exist within</i>
+<i>multiple parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we choose to do</i>
+<i>in this existence,</i>
+
+<i>thereâ€™s another one out there</i>
+<i>in which weâ€™re doing quite the opposite.</i>
+
+<i>If you follow that line of thinking</i>
+<i>to its logical conclusion,</i>
+
+<i>then you're absolved of any guilt</i>
+<i>from your actions.</i>
+
+<i>But they're not even your actions.</i>
+
+<i>It's out of your control.</i>
+
+<i>Your fate has been dictated,</i>
+<i>it's out of your hands.</i>
+
+<i>So, why not commit murder?</i>
+
+<i>Maybe that's what destiny wants.</i>
+
+<i>You're just a puppet.</i>
+
+<i>You're not in control.</i>
+
+
+
+<i>A baby's toy that he takes everywhere.</i>
+
+
+<i>he should've stopped playing with dolls.</i>
+
+-[mum] <i>It's not a doll.</i>
+-If he takes it to your parents,
+
+I'm going to have to withstand
+another lecture from your dad
+
+-about permissive child-rearing.
+-Oh, for God's sake.
+
+I'm sorry, look,
+I am going to do something about this.
+
+-[door slams]
+-[locking]
+
+
+
+No!
+
+Who's doing this to me?
+
+I know there's someone there.
+
+-Who's there?
+-[high-pitched whirring]
+
+Who are you?
+
+Just give me a sign.
+
+Come on. If there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign.
+
+
+Fucking hell.
+
+Who... What the fuck is Netflix?
+
+Seriously, what does that mean?
+
+I don't know what that means.
+
+You're not making any sense.
+Can you make sense?
+
+I don't understand. I-I don't understand.
+
+
+
+It'll sound crazy.
+
+Well, tell me anyway.
+
+I'm being controlled by someone
+from the future.
+
+What?
+
+I'm being controlled
+by someone from the future.
+
+-Shall I ring Dr. Haynes?
+-Yes, please.
+
+So, you're being controlled
+by someone on Netflix.
+
+-What is Netflix? Is it a planet?
+-I don't know, it...
+
+It's some sort
+of future entertainment thing.
+
+-Like a computer game?
+-I don't know.
+
+It's from the 21st Century, they said.
+
+OK, well,
+let's try to pick it apart logically,
+
+to see if we can define
+if this is reality or delusion.
+
+-It's not a delusion.
+-OK, let's go through it.
+
+OK.
+
+So all of this is happening
+to entertain someone.
+
+-Someone who's controlling you.
+-Uh-huh.
+
+So why aren't you
+in a more entertaining scenario?
+
+-What do you mean?
+-Well, look at you.
+
+You're in a small ordinary room,
+in an ordinary part of the world,
+
+talking to an ordinary woman.
+
+If this was entertainment,
+surely you'd make it more interesting.
+
+Inject a little action, isn't that right?
+
+I mean, wouldn't you want
+a little more action
+
+if you were watching this now on telly?
+
+
+
+Come at me. Come on, mummy's boy.
+What are you waiting for?
+
+Come on. I dare you.
+
+-[woman] Cut!
+-[alarm rings]
+
+Sorry, are you OK?
+
+
+I-I was, er...
+
+Window.
+
+Window.
+
+I was trying to open the window.
+To jump out.
+
+
+You can't jump out. It doesn't open, look.
+
+You're not scripted to jump out,
+see, Mike?
+
+It's the fight scene now.
+
+Mike?
+
+Mike?
+
+Er... Stefan.
+
+Do you want to sit down for a moment?
+
+Can we get the medic down here please?
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about...</i>
+
+["Relax" playing]
+
+[music stops]
+
+-Motown for computer games.
+-[Stefan] Colin Ritman?
+
+-We've met before.
+-What's your answer?
+
+Bit of madness is what you need.
+
+Stefan, will you talk to me?
+
+Dad, just fuck off!
+
+
+This is Dr. Haynes' place.
+
+You need to speak to her.
+
+You're under pressure.
+
+You're not sleeping, you're not eating.
+
+Stefan, come back.
+
+Stefan!
+
+
+Hi.
+
+How's Bandersnatch going?
+
+Not good.
+
+Not good. I'm just... lost.
+
+-You're in the hole.
+-[Stefan] In the what?
+
+-[Colin] In a fight with your own head.
+-Yes. That's exactly it.
+
+-You got anywhere to be later?
+-Er, well, no.
+
+Come with me.
+
+[door slams]
+
+[door closes]
+
+Stefan, this is Kitty.
+
+And this is Pearl.
+
+[baby coos]
+
+Daddy's little legacy.
+
+Stefan's in the hole, Kit.
+
+
+Are you going to get him out?
+
+Mm-hm.
+
+Grab a pew.
+
+Here.
+
+-[Stefan] Oh. I haven't ever really...
+-[Colin] Come on.
+
+
+
+
+
+One for me.
+
+-What is it?
+-It lets you see the bigger picture.
+
+-I-I don't know.
+-It'll help you understand.
+
+Do you want it?
+
+It's your choice.
+
+Totally up to you. Don't feel pressured.
+
+Yes.
+
+
+Now what?
+
+Now we just wait a bit.
+
+[gentle music plays]
+
+
+
+
+
+
+but there's loads of them,
+all snaking off, like roots.
+
+And what we do on one path
+affects what happens on the other paths.
+
+Time is a construct.
+
+People think you can't go back
+and change things,
+
+but you can, that's what flashbacks are,
+
+they're invitations to go back
+and make different choices.
+
+When you make a decision,
+you think it's you doing it, but it's not.
+
+It's the spirit out there
+that's connected to our world
+
+that decides what we do
+
+and we just have to go along for the ride.
+
+Mirrors let you move through time.
+
+The government monitors people,
+
+they pay people to pretend
+to be your relatives
+
+and they put drugs in your food
+and they film you.
+
+There's messages in every game.
+
+Like Pac-Man.
+Do you know what PAC stands for?
+
+P-A-C: "Program and Control."
+
+He's Program and Control Man,
+the whole thing's a metaphor,
+
+he thinks he's got free will
+but really he's trapped in a maze,
+
+in a system, all he can do is consume,
+
+he's pursued by demons
+that are probably just in his own head,
+
+and even if he does manage to escape
+by slipping out one side of the maze,
+
+what happens?
+He comes right back in the other side.
+
+People think it's a happy game,
+
+it's not a happy game,
+it's a fucking nightmare world
+
+and the worst thing is
+it's real and we live in it.
+
+It is all code.
+
+If you listen closely,
+you can hear the numbers.
+
+There's a cosmic flowchart that dictates
+where you can and where you can't go.
+
+I've given you the knowledge.
+I've set you free.
+
+Do you understand?
+
+Maybe.
+
+Yes. Sort of.
+
+I'll show you what I mean. Come with me.
+
+We're on one path.
+
+Right now, me and you.
+
+And how one path ends is immaterial.
+
+It's how our decisions along that path
+affect the whole that matters.
+
+Do you believe me?
+
+
+I'll prove it.
+
+One of us is going over.
+
+Over there.
+
+[wind howls]
+
+You'd die. You'd die.
+
+It wouldn't matter
+because there are other timelines, Stefan.
+
+How many times
+have you watched Pac-Man die?
+
+Doesn't bother him.
+
+He just tries again.
+
+One of us is jumping,
+so who's it going to be?
+
+It's a nice breeze up here.
+
+So, come on, which one of us is jumping?
+
+I'll do it.
+
+I like your style.
+
+Oh! Oh! [pants]
+
+
+
+["Silent Night" playing]
+
+[video game theme plays]
+
+<i>So, Robin, Bandersnatch, any good?</i>
+
+<i>This is hard to say,</i>
+<i>because as you may know,</i>
+
+<i>the original author of this game</i>
+<i>was killed in a tragic accident.</i>
+
+-[woman] <i>Indeed.</i>
+<i>-But it's just not a good game.</i>
+
+<i>It seems someone else finished it off</i>
+<i>quickly but it's just abrupt and jarring.</i>
+
+<i>And unnecessary, and horrible,</i>
+<i>and violent, unsettling, and weird,</i>
+
+<i>and awful, and scary, and dark,</i>
+<i>and bleak and creepy...</i>
+
+<i>The healthiest thing to do</i>
+<i>is to talk about any concerns you may have</i>
+
+<i>instead of bottling them up inside.</i>
+
+<i>You need to speak to her.</i>
+
+<i>The healthiest thing to do</i>
+<i>is to talk about any concerns you may have</i>
+
+<i>instead of bottling them up inside.</i>
+
+<i>You need to speak to her.</i>
+
+<i>The healthiest thing to do</i>
+<i>is to talk about any concerns you may have</i>
+
+<i>instead of bottling them up inside.</i>
+
+<i>You need to speak to her.</i>
+
+have you watched Pac-Man die?
+
+Doesn't bother him.
+
+He just tries again.
+
+One of us is jumping,
+so who's it going to be?
+
+It's a nice breeze up here.
+
+So, come on, which one of us is jumping?
+
+You do it.
+
+Fair enough.
+
+
+See you around.
+
+
+Where's Colin?
+
+
+-[growls]
+-[gasps]
+
+["Making Plans For Nigel" playing]
+
+
+-Colin jumped and I didn't stop him.
+-Stefan...
+
+maybe you're not well.
+
+Go and speak to Dr. Haynes.
+
+Please.
+
+Alright.
+
+What sort of things?
+
+What I have for breakfast.
+What music I listen to.
+
+Whether I bite my fucking nails.
+
+-[Haynes] You feel you're not...
+-Making these decisions, no,
+
+and we've talked about this before.
+I'm sure we have.
+
+And you tell me I feel guilty about my mum
+and you up my dose.
+
+And, yes, I am taking my medication, OK?
+
+So just write me the fucking prescription.
+
+We can't dupe them fast enough.
+Everybody wants a bit of Colin Ritman.
+
+-Where is Colin?
+-He's gone AWOL.
+
+Probably fucked off to Amsterdam
+for a spot of gardening,
+
+if you know what I mean.
+He'll be back, he always is.
+
+Mate. This is due today.
+
+I just need the weekend.
+I know I can add this new path.
+
+Don't fuck up.
+There's a lot riding on this now.
+
+I know.
+
+Er... Colin wanted me to give you this.
+To inspire you.
+
+<i>Davies became convinced</i>
+<i>he had no control over his fate.</i>
+
+<i>If you follow that line of thinking</i>
+<i>to its logical conclusion,</i>
+
+<i>then you're absolved of any guilt</i>
+<i>from your actions.</i>
+
+<i>But they're not even your actions.</i>
+
+<i>It's out of your control.</i>
+
+<i>Your fate has been dictated.</i>
+
+<i>So, why not commit murder?</i>
+
+<i>You're not in control.</i>
+
+
+
+
+I know there's someone there.
+
+Who's there? Who are you?
+
+Just give me a sign.
+
+Oh, come on. If there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+
+
+-What are you doing?
+-I don't know.
+
+Stefan, you're worrying me.
+
+-I'm not in control. I'm not in control.
+-What are you talking about? Stefan?
+
+
+-I'm being controlled.
+-Stefan! Stefan? Stop it. OK?
+
+Look, you need to calm down.
+Just take a breath, please and calm down.
+
+In through your nose. Breathe.
+Breathe in through the nose and out.
+
+Breathe in, Stefan. And out.
+
+Calm, Stefan.
+
+Get away from me! Please, Dad.
+
+Dad, just stay away from me.
+I'm not in control.
+
+-Stefan, please.
+-Dad, please get away from me.
+
+I'm not in control.
+Please, I'm not in control.
+
+-Stefan.
+-I'm not in control.
+
+What do I do?
+
+What do I do?
+
+OK.
+
+[telephone rings]
+
+-Hello?
+-The man himself, the whiz kid.
+
+How's it going?
+
+-How's it going?
+-<i>Listen.</i>
+
+Colin's still off exploring
+other dimensions.
+
+He can't bail me out so I need the code.
+First thing Monday you said.
+
+The ads are out,
+I've booked the dupe plants.
+
+There's some serious cash down
+the swanny if you don't deliver.
+
+I need it by the end of today.
+That possible?
+
+<i>Stefan?</i>
+
+<i>Hello? Spit it out.</i>
+
+Before I evolve.
+
+Will it be ready by the end of the day?
+
+-Of course.
+<i>-Good.</i>
+
+By the end of today, no later. Tatty bye.
+
+
+-Where... where is he?
+-Whoa. Whoa. Whoa. Can I help?
+
+-It's Colin's girlfriend.
+-Kitty. We've met before.
+
+When you had blue hair.
+Satpal, I'll deal with this.
+
+-Where's Colin?
+-I thought you'd tell me.
+
+He's gone, he's just gone.
+
+Tell me about it
+but he's done this before.
+
+Not like this. When did you see him last?
+
+When he gave me that tape for Stefan.
+
+Who's Stefan?
+
+Let's leave Stefan out of this,
+he's working.
+
+Who is Stefan?
+
+
+[doorbell rings]
+
+[doorbell rings]
+
+[knocking on door]
+
+Are you Stefan?
+
+Yes. We... we've met before.
+
+No, we haven't.
+
+Do you know where Colin is?
+
+Er...
+
+I was in the office and Satpal
+said you'd seen him last.
+
+If you know where he is, please tell me.
+
+No, I'm sorry. I don't... I don't know.
+
+I don't know anything about anything.
+
+Right.
+
+Well, if you hear from Colin,
+tell him to ring Kitty.
+
+OK. I've got to go.
+
+[door slams]
+
+[dog barks]
+
+[TV jingle plays]
+
+<i>And that's why futurologists believe</i>
+
+<i>you'll be able to play</i>
+<i>the games of the future anywhere.</i>
+
+<i>On a bus, or the tube,</i>
+<i>in the palm of your hand.</i>
+
+<i>-Crispin?</i>
+<i>-Thanks, Leslie.</i>
+
+<i>Now yesterday, following weeks</i>
+<i>of controversy and speculation,</i>
+
+<i>games company Tuckersoft</i>
+<i>announced it's going into liquidation.</i>
+
+<i>So what went wrong?</i>
+
+<i>Just six months ago,</i>
+<i>Tuckersoft was riding high,</i>
+
+<i>with a string of hits topping the charts</i>
+
+<i>and mounting anticipation for their</i>
+<i>big Christmas release, Bandersnatch.</i>
+
+<i>But Bandersnatch never appeared,</i>
+
+<i>following the arrest and subsequent</i>
+<i>murder charge against its creator,</i>
+
+<i>19-year-old Stefan Butler,</i>
+
+<i>who stands accused</i>
+<i>of murdering his father,</i>
+
+<i>following a psychological breakdown.</i>
+
+<i>This has raised questions about</i>
+<i>the judgement of Tuckersoft boss,</i>
+
+<i>Mohan Thakur.</i>
+
+<i>It was his idea to do it alone.</i>
+<i>His decision.</i>
+
+<i>I wasn't to know he couldn't hack it.</i>
+
+<i>I mean, I know his dad's dead,</i>
+<i>rest his soul, but I'm a victim too.</i>
+
+<i>Let's try to not forget that.</i>
+
+<i>protÃ©gÃ© at the centre of a mystery.</i>
+
+<i>Famed programmer Colin Ritman</i>
+<i>is still missing,</i>
+
+<i>having vanished without trace</i>
+<i>shortly before the killings.</i>
+
+<i>At the trial,</i>
+<i>Butler denied any involvement</i>
+
+<i>in Ritman's sudden disappearance,</i>
+
+<i>claiming he had seen Ritman</i>
+<i>committing suicide in a vision.</i>
+
+<i>Today,</i>
+<i>Tuckersoft closed its doors for good.</i>
+
+<i>And there was no sign of Bandersnatch.</i>
+
+<i>What do I do?</i>
+
+<i>What do I do?</i>
+
+<i>watched Pac-Man die?</i>
+
+<i>Doesn't bother him. He just tries again.</i>
+
+["Relax" playing]
+
+
+-We've met before.
+-No.
+
+We met before. I told you
+I'd see you around. And I was right.
+
+We're going to be late.
+Are you coming or not?
+
+-No!
+-[man on TV] <i>The 8:45 derailed...</i>
+
+Fuck off! I'm not in control.
+
+-[Haynes] We're in it together.
+-The deadline is today.
+
+-[Stefan] <i>I just need the weekend.</i>
+-[Colin] <i>Bit of inspiration maybe.</i>
+
+<i>You're just a puppet.</i>
+
+<i>So, why not commit murder?</i>
+
+Just give me a fucking sign!
+
+Stefan?
+
+What do I do?
+
+Oh, God, really?
+
+
+[telephone rings]
+
+Dr. Haynes' office.
+
+-Is Dr. Haynes there?
+-<i>No. She's with a client right now.</i>
+
+<i>Would you like to make an appointment?</i>
+<i>I could fit you in...</i>
+
+<i>first thing tomorrow.</i>
+
+Yes.
+
+<i>-And your name is?</i>
+-Stefan Butler.
+
+[telephone beeps]
+
+He's fucking engaged.
+
+He's probably taken the phone
+off the hook.
+
+-That's what I do.
+-That's what you do, is it?
+
+I'll remember that.
+
+Look, just let him be.
+
+-He's probably in the zone.
+-OK. I'll give him another 24 hours.
+
+
+
+He's visiting his sister.
+She's in the South of France, so...
+
+So you've been left to your own devices.
+
+Mm-hm.
+
+[clears throat]
+
+
+It's been good actually.
+
+Not having him.
+
+<i>It's meant I could work</i>
+<i>with a real sense of purpose.</i>
+
+[gentle music plays]
+
+<i>I've actually had a bit of breakthrough</i>
+<i>with the game.</i>
+
+<i>I think I'd got bogged down before</i>
+<i>but now I can see.</i>
+
+
+
+<i>I'd been trying to give the player</i>
+<i>too much choice.</i>
+
+<i>So I just went back</i>
+<i>and stripped loads out.</i>
+
+<i>And now they've got the illusion</i>
+<i>of free will, but really...</i>
+
+I decide the ending.
+
+And is it a happy ending?
+
+I think so.
+
+
+[TV jingle plays]
+
+So Bandersnatch? Yes or no?
+
+Yes, yes, and yes.
+It's got all the bases covered.
+
+The perfect game.
+
+Well, that is a first.
+So your rating is...
+
+My rating is five stars out of five.
+Magnificent.
+
+That was the game Bandersnatch
+being reviewed on TV back in 1984.
+
+But shortly after its release,
+a dark secret emerged.
+
+<i>Its author Stefan Butler was discovered</i>
+<i>to have murdered his own father.</i>
+
+<i>The game was pulled from shelves</i>
+<i>and all the copies were pulped.</i>
+
+<i>Now, in a move that's bound</i>
+<i>to cause controversy,</i>
+
+<i>a new coder wants to reboot the game</i>
+<i>for a new generation.</i>
+
+My dad was a coder himself
+back in the day,
+
+and I found Stefan's game in an old crate,
+
+<i>I ran it on an emulator, RetroArch.</i>
+<i>And I found it really ground-breaking.</i>
+
+<i>I can see why people think</i>
+<i>it's controversial</i>
+
+<i>to be remaking it today,</i>
+
+<i>but the free will concept is fascinating.</i>
+
+Today, interactive stories of this kind
+are available on your TV, or laptop,
+
+your phone, so I'm developing this
+for streaming TV platforms.
+
+<i>There's a rumour that platform is Netflix.</i>
+
+I'm not allowed to talk about rumours.
+
+[telephone rings]
+
+["Relax" playing]
+
+
+<i>â™ª Relax, don't do it</i>
+<i>When you want to go to it â™ª</i>
+
+Oh, fuck!
+
+[door closes]
+
+[door closes]
+
+[door closes]
+
+[door closes]
+
+[door closes]
+
+[door closes]
+
+[door closes]
+
+["Relax" playing]
+
+Would you like to talk
+about what happened with your mother?
+
+
+-Are you coming or not?
+-No!
+
+<i>The 8:45 train derailed...</i>
+
+-He should've stopped playing with dolls.
+-It's not a doll.
+
+Sorry, look, I am going to do
+something about this.
+
+[door slams]
+
+-[door slams]
+-[locking]
+
+
+
+
+-[beeps]
+-[whirring]
+
+
+What are you doing in here?
+
+You went looking for him.
+
+Go on.
+
+Take him.
+
+You put him back where he belongs.
+
+Come.
+
+
+We can look for Rabbit tomorrow.
+
+Found him!
+
+Great!
+
+OK, well, we're going to miss the 8:30.
+
+We'll have to take the 8:45.
+Should be fine.
+
+Well, are you coming?
+
+["O Superman" begins playing]
+
+â™ª <i>So hold me, mom â™ª</i>
+
+Bye.
+
+â™ª <i>In your long arms â™ª</i>
+
+â™ª <i>So hold me, mom â™ª</i>
+
+â™ª <i>In your long arms â™ª</i>
+
+<i>â™ª In your automatic arms â™ª</i>
+
+<i>â™ª Your electronic arms â™ª</i>
+
+<i>â™ª In your arms â™ª</i>
+
+He's dead.
+
+I don't understand.
+He was just sitting there.
+
+We were talking.
+He closed his eyes for a few moments.
+
+He just closed his eyes.
+
+All he did was close his eyes.
+
+I'm sorry.
+
+
+
+
+
+
+
+
+
+
+["Relax" playing]
+
+
+-We've met before.
+-Fuck off!
+
+-My head is all over the place.
+-You're in the hole.
+
+The government monitors people,
+
+they pay people to pretend
+to be your relatives
+
+and they put drugs in your food.
+
+Do you know what PAC stands for?
+"Program and Control".
+
+It's a fucking nightmare world.
+It's real and we live in it.
+
+-[door slams]
+-[locking]
+
+[keys jangle]
+
+
+-[beeps]
+-[whirring]
+
+[heart beating]
+
+[door opens]
+
+Come on, Stefan. Come on.
+
+-You can find Rabbit later.
+-[echoes] No!
+
+Stefan, please come with me.
+
+
+You weren't supposed to know.
+
+Dad, what is this?
+
+I'm sorry.
+
+Dad, who are you?
+
+Talk to me.
+
+Talk to me!
+
+-[thuds]
+-[gasps]
+
+Who's doing this to me?
+
+I know there's someone there.
+
+Who's there? Who are you?
+
+Just give me a sign.
+
+Oh, come on. If there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+
+What's wrong?
+
+Stefan, what's wrong?
+
+I know you've been controlling me.
+
+You and Haynes.
+I know about PACS, the P.A.C.S. thing.
+
+I know you've been drugging me,
+I know you've been recording me
+
+and now you're putting messages
+on my computer.
+
+Stefan, you're ill.
+
+We need to go and see Dr. Haynes
+and see if she can help.
+
+I know what you've been doing to me.
+
+I know.
+
+<i>Remember, Stefan. Any time you need me.</i>
+
+You know the number.
+
+-You heard it here first.
+-Get a pen.
+
+If you listen closely,
+you can hear the numbers.
+
+-Too?
+-Good to be true.
+
+<i>You sound like my dad.</i>
+
+Oh.
+
+<i>Five.</i>
+
+You were five years old.
+
+-One for all, and all...
+-For one.
+
+<i>Remember, Stefan.</i>
+<i>Any time you need me.</i>
+
+<i>You know the number.</i>
+
+Number? What's the number?
+
+<i>Two. Oh. Five.</i>
+
+Four, one.
+
+Remember.
+
+-[Haynes] <i>Two. Oh. Five.</i>
+-[Stefan] <i>Four, one.</i>
+
+[phone line ringing]
+
+[telephone rings]
+
+Dr. Haynes office.
+
+Is she there?
+
+Dr. Haynes?
+No, she's at her sister's wedding.
+
+She's back tomorrow.
+Can I take a message?
+
+Tell her that Stefan Butler called.
+
+Stefan Butler...
+
+And I know about Program and Control.
+
+-I'm sorry?
+<i>-I know they've been monitoring me.</i>
+
+I know what they've been up to.
+Her and Dad.
+
+The Program and Control Study.
+
+I'm sorry, I don't understand.
+
+They're monitoring me now, aren't they?
+
+Tell her I've killed Dad
+and I'm gonna kill her next.
+
+-Is this...
+-Fuck off.
+
+[distant sirens]
+
+[video game theme plays]
+
+So Bandersnatch? Yay or nay?
+
+Well, nothing in the game
+is as fascinating
+
+as its grisly real-life backstory.
+
+As you know, Leslie, Stefan Butler,
+the young man who wrote this,
+
+had a breakdown
+and murdered his own father.
+
+
+<i>And it seems the code</i>
+<i>was never quite finished</i>
+
+<i>but Tuckersoft just released</i>
+<i>the game anyway.</i>
+
+<i>Which I know isn't a crime</i>
+<i>on a par with murder</i>
+
+<i>but it's still pretty off nonetheless.</i>
+
+
+<i>Two and a half stars out of five.</i>
+<i>It's morbid curiosity value at best.</i>
+
+<i>Must try harder.</i>
+
+-[dog barks]
+-[dad] Oi!
+
+Get back next door!
+
+The bloody hound from next door.
+
+Go on.
+
+Be the death of us.
+
+["Here Comes The Rain Again" playing]
+
+<i>â™ª I want to breathe in the open wind â™ª</i>
+
+<i>â™ª I want to kiss like lovers do â™ª</i>
+
+<i>â™ª Want to dive into your ocean â™ª</i>
+
+<i>â™ª Is it raining with you? â™ª</i>
+
+<i>â™ª So baby talk to me â™ª</i>
+
+<i>â™ª Like lovers do â™ª</i>
+
+<i>â™ª Walk with me â™ª</i>
+
+Hello, Tuckersoft.
+
+<i>â™ª Like lovers do â™ª</i>
+
+
+Alright, fetch us 20 B&H,
+would you? And Lion bar. Good boy.
+
+Ah. You... are... Steven.
+
+-Stefan.
+-Stefan, sorry, mate.
+
+That's alright, I get it all the time.
+
+Sorry about the chaos.
+We just moved in Monday.
+
+It's big.
+
+Well, expansion, that's my plan.
+
+Imagine, OK,
+a whole team just for graphics,
+
+another for sound, for gameplay.
+
+We're going to be a hit factory.
+Like Motown but for computer games.
+
+You heard it here first.
+
+That's Colin's new one.
+
+-Colin Ritman?
+-That's him over there.
+
+That's crazy.
+I've played all of his games.
+
+Let's say hello.
+
+-Sure he won't mind, he's working?
+-He'll be fine. He'll be fine. Shh! Shh!
+
+Wait, wait, wait.
+
+What's this, Kajagoogoo? [laughs]
+
+You wish.
+
+State of him, he's made enough
+this year to buy a Lamborghini
+
+and he still smokes roll-ups.
+
+Yeah, well, pre-rolled have strychnine
+in them, so the joke's on him.
+
+Anyway, this is Stefan, er...
+
+Butler, Butler.
+
+I'm Colin, yeah.
+
+Yeah, I've played all of your games.
+All of them.
+
+Except the Commodore ones,
+I don't have a Commodore.
+
+-Great sound chip, the Commodore.
+-Mm-hm.
+
+Yeah.
+
+This is my latest.
+
+-It's called Nohzdyve.
+-[beeps]
+
+-The sprites are so smooth.
+-That took some doing.
+
+
+Oh, bollocks.
+
+-What's that?
+-It's a buffer error.
+
+The eyeballs have overrun
+the video memory, and...
+
+Oh, yeah, yeah, video memory, yeah.
+I was gonna say that.
+
+Anyway, listen,
+let's get down to business.
+
+Stefan's got something to demo for us.
+
+Bloody hell.
+
+So it's like 3D Monster Maze?
+
+Only when you're moving
+from choice to choice.
+
+-It's actually an adventure game.
+-Like<i> The Hobbit.</i>
+
+Yes, but without any typing.
+
+Without any typing?
+So no "get lamp" or whatever?
+
+That's right.
+
+-[chuckles]
+-[video game beeps]
+
+and you pick one against the clock.
+
+OK, he's Pax, he's the demon.
+He's in the book.
+
+So we've actually arrived
+at a choice point,
+
+and then you can choose with the joystick.
+
+You've got ten seconds.
+
+Worship him.
+
+No, don't do that, he's the
+Thief of Destiny, in the book, I mean.
+
+Got a copy of this at home.
+Never got around to reading it.
+
+You should.
+Jerome F. Davies was a genius.
+
+Didn't he go bonkers
+and cut his wife's head off?
+
+-Yeah, but I mean, apart from that...
+-Excuse me.
+
+What's happened?
+
+Well, I haven't programmed
+that pathway yet.
+
+Lot of paths then?
+
+Well, yeah,
+if it's going to be like the book.
+
+So, come on.
+How do you want to go about this?
+
+-You're... you're interested?
+-That's what I'm saying.
+
+OK, it's July now,
+so if we want to hit Christmas,
+
+then we'll need the tapes in Smiths
+by November.
+
+OK. So here's my proposal.
+Come and write it here.
+
+-Here?
+-Yeah!
+
+We'll give you a couple of desks,
+set up a small team, just for you.
+
+And of course Col's on hand.
+
+What do you reckon?
+
+Oh, and hey,
+I'm hiring this sound chip guy next week,
+
+so music we can take care of.
+All in-house.
+
+So, come on. What's your answer?
+
+["Relax" playing]
+
+<i>â™ª Relax, don't... â™ª</i>
+
+Breakfast?
+
+-Your Bander-what?
+-Bandersnatch.
+
+-It's a "Choose Your Own Adventure" book.
+-That bloody hound from next door!
+
+Be the death of us.
+
+["Here Comes The Rain Again" playing]
+
+<i>â™ª I want to breathe in the open wind â™ª</i>
+
+<i>â™ª I want to kiss like... â™ª</i>
+
+We're going to be a hit factory.
+
+Colin Ritman? That's crazy.
+I've played all of his games.
+
+State of him, he's made enough
+this year to buy a Lamborghini
+
+and he still smokes roll-ups.
+
+-We've met before.
+-No.
+
+This is what I'm working on.
+
+-Nohzdyve.
+-Yeah. That's right.
+
+
+-What's that?
+-Buffer error.
+
+Those eyeball sprites overshot
+the video memory.
+
+How did you know that?
+
+-Just did.
+-Bloody hell, he's good, right?
+
+Anyway, let's get down to business.
+Stefan's got something to demo for us.
+
+See. You've got ten seconds.
+
+Don't worship him,
+he's the Thief of Destiny.
+
+-You've read<i> Bandersnatch?</i>
+-Jerome F. Davies. Visionary.
+
+Was he that bloke who went cuckoo
+and cut his wife's head off?
+
+That is what people tend to focus on, yes.
+
+Which ending did you get?
+When you read it.
+
+-All of them.
+-Excuse me.
+
+-What's happened?
+-I haven't programmed that path yet.
+
+Right. So, a lot of paths then?
+
+Well, yes,
+if it's going to be like the book.
+
+A lot of divergent realities in that book.
+
+It was ahead of its time.
+In as much as time exists.
+
+OK. So here's my proposal.
+Come and write it here.
+
+Here?
+
+We'll give you a couple of desks,
+set up a small team, just for you.
+
+And of course Col's on hand.
+
+What do you reckon?
+
+Oh, and hey,
+I'm hiring this sound chip guy next week,
+
+so music we can take care of.
+All in-house.
+
+So, come on. What's your answer?
+
+No.
+
+I mean, yes, I want to do your game.
+I just... I just think I need to...
+
+I need to write it how I know.
+
+You know, just me. At home.
+
+At home. On your own?
+
+Yeah, it's just that it's all in my head,
+
+and I think if I let other people in,
+it'll just get, I don't know, stressy?
+
+"Stressy"?
+
+But I know that I can do it
+proper justice. The book.
+
+You know, divergent story paths.
+Parallel realities.
+
+-It's still a game though, yeah?
+-I get it.
+
+The lad's a craftsman.
+
+He's a lone woodsman. I'm the same.
+
+-Yeah, but...
+-It's like I say,
+
+teams are fine
+for things like action titles,
+
+but when it's a concept piece,
+
+bit of madness is what you need
+and that works best when it's one mind.
+
+Alright, Timothy Leary, we'll debate
+<i>The Doors of Perception</i> later...
+
+That was Huxley, not Leary.
+
+If you're going to write this on your tod,
+
+the important thing is
+putting it out for Christmas,
+
+so I'll need finished code
+by 12th September.
+
+-OK, sure.
+-But no later.
+
+What do you listen to?
+
+To get in to the flow.
+
+Oh, music?
+
+Er, compilations mainly.
+
+Get a pen.
+
+[microwave beeps]
+
+I'm defrosting mince.
+
+It's like alien technology this thing.
+
+Oh. How... how did it go?
+
+Good. Yeah, really good.
+
+They're taking it.
+
+Oh, well, that's great, isn't it?
+
+-Well done, mate.
+-You've got mince juice on your hands.
+
+Yes.
+
+So, how does it work then?
+Do you go into their office, or...?
+
+No, I write it here.
+
+-On your own?
+-Yes.
+
+And...
+
+Is that the best way
+to work on something like this?
+
+Why wouldn't it be?
+
+[woman on TV] <i>Well, the graphics</i>
+<i>are certainly impressive, Robin,</i>
+
+<i>but the big question is,</i>
+<i>what's it like to play?</i>
+
+<i>Well, the gameplay is just as impressive,</i>
+<i>I must say.</i>
+
+<i>This is a Colin Ritman game,</i>
+<i>so we'd expect little else,</i>
+
+<i>but even by his standards</i>
+<i>this is really most impressive.</i>
+
+<i>It's challenging,</i>
+<i>there's quite a big learning curve,</i>
+
+<i>so you die a lot and have to try again</i>
+<i>but I really didn't mind that much.</i>
+
+<i>So it sounds great</i>
+<i>but what's your verdict, Robin?</i>
+
+<i>Four stars out of five.</i>
+<i>Colin Ritman does it again.</i>
+
+-[woman] <i>So not quite perfect.</i>
+<i>-Well, nothing's perfect.</i>
+
+So there I am, there's Colin Ritman...
+
+"The actual Colin Ritman,"
+I believe you called him.
+
+Yeah, exactly, and Mr. Thakur's
+offering me the chance to work there
+
+in their own office alongside Colin.
+
+And I just...
+
+-I don't know. It was too...
+-Too?
+
+Good to be true.
+
+-I said no.
+-You said "no"?
+
+Well, not to the whole thing,
+
+just to working there
+and being under their control.
+
+I don't know where it came from,
+
+I just said "no"
+and then had to justify it
+
+by saying that I prefer to work alone.
+
+But I just don't know
+where the urge to say it came from.
+
+It sounds like you're growing
+in confidence. I think it's a good sign.
+
+Well, they're still letting me
+do the game, so...
+
+Well done, Stefan. That's great.
+
+You sound like my dad.
+
+Oh.
+
+Sorry.
+
+He gets on my nerves sometimes.
+
+Like this... I'm fine now,
+
+I don't see why I need
+to keep coming to these sessions.
+
+It just feels like being,
+I don't know, monitored.
+
+Perhaps you're feeling intruded upon
+because of the anniversary looming.
+
+It's a difficult time of year for you.
+We can't underestimate that.
+
+Would you like to talk
+about what happened with your mother?
+
+It can be helpful to revisit things.
+Even if you feel you've done this before.
+
+You might discover something new.
+
+[pulls handbrake]
+
+<i>in your food and they film you.</i>
+
+We can't dupe them fast enough.
+Everybody wants a bit of Colin Ritman.
+
+
+-Where is Colin?
+-God knows. He's gone AWOL.
+
+He hasn't come in, answered his phone.
+Par for the course from him.
+
+Probably fucked off to Amsterdam
+for a spot of gardening.
+
+He'll be back, he always is.
+Anyway, come on.
+
+Looking good.
+Good thing I doubled on the advertising.
+
+-That's not...
+-[sighs]
+
+Stefan, mate. This is due today.
+You said it was stable.
+
+-It was, I just...
+-Just what?
+
+I added in a new path,
+
+the government conspiracy branch,
+I thought I'd tied up all the loose ends.
+
+If it's something you've added,
+let's just take it out.
+
+-No, it's important.
+-Stefan, mate.
+
+The deadline is today.
+
+I just need the weekend.
+I know I can squeeze this path in.
+
+-It's complicated enough.
+-Just the weekend. Please.
+
+-First thing Monday.
+-First thing.
+
+OK. Shit, I've got to run,
+meeting the John Menzies guys.
+
+Just don't fuck up.
+There's a lot riding on this now.
+
+I know.
+
+[door closes]
+
+[door opens]
+
+Er... Colin wanted me to give you this.
+
+What is it?
+
+He said he taped it off the telly,
+to inspire you.
+
+-[Stefan] Do you know where Colin is?
+-No. Sorry.
+
+You having a film night?
+
+[TV jingle]
+
+<i>-They're great!</i>
+<i>-Kellogg's Frosties.</i>
+
+[man on TV] <i>Towards the end of his life,</i>
+
+<i>Davies was apparently self-administering</i>
+<i>hallucinogens on a daily basis.</i>
+
+<i>This, coupled with his attempts</i>
+
+<i>to complete the complex multiple</i>
+<i>narratives of</i> Bandersnatch
+
+<i>was to prove the final straw.</i>
+
+<i>He became obsessed</i>
+<i>with bizarre symbols</i>
+
+<i>and the limitations</i>
+<i>of his own free will.</i>
+
+<i>In his notes,</i>
+<i>Davies repeatedly sketched a glyph</i>
+
+<i>which to him represented multiple fates,</i>
+<i>potential realities splitting in two.</i>
+
+<i>It was the start</i>
+<i>of his complete mental collapse.</i>
+
+<i>Davies became convinced</i>
+<i>he had no control over his fate</i>
+
+<i>because his wife was spiking him</i>
+<i>with psychoactive drugs</i>
+
+<i>at the behest of a demon called Pax,</i>
+<i>a sort of lion figure,</i>
+
+<i>he claimed he'd seen in a vision,</i>
+
+<i>and who ended up</i>
+<i>being incorporated into the book.</i>
+
+<i>It was this that led him to kill her.</i>
+
+<i>He decapitated her and daubed the</i>
+<i>glyph symbol on the walls with her blood.</i>
+
+<i>After his arrest, he told police</i>
+
+<i>we exist within</i>
+<i>multiple parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we choose to do</i>
+<i>in this existence,</i>
+
+<i>thereâ€™s another one out there</i>
+<i>in which weâ€™re doing quite the opposite,</i>
+
+<i>which renders free will meaningless.</i>
+<i>Nothing but an illusion.</i>
+
+
+
+<i>A baby's toy that he takes everywhere.</i>
+
+
+<i>playing with dolls.</i>
+
+-[mum] <i>It's not a doll.</i>
+-If he takes it to your parents,
+
+I'm going to have to withstand
+another lecture from your dad
+
+-about permissive child-rearing.
+-Oh, for God's sake.
+
+No, I'm sorry, look,
+I am going to do something about this.
+
+-[door slams]
+-[locking]
+
+
+
+-[grunts]
+-[yells]
+
+
+
+
+Ah!
+
+How's that for entertainment,
+you psychiatric fuck? Huh?
+
+Fucked your day up good and proper,
+didn't we?
+
+Huh?
+Me and my friend from the future! [laughs]
+
+[door closes and locks]
+
+[door closes and locks]
+
+[door closes and locks]
+
+Yes.
+
+
+OK, so the first thing we need to do
+is streamline the project a little.
+
+We can't fit a breeze block
+of a book into 48K.
+
+Sorry, mate. Wrong path.
+
+[door opens]
+
+Oh, and hey,
+I'm hiring this sound chip guy next week,
+
+so music we can take care of.
+All in-house.
+
+What do you reckon?
+
+Oh, and hey,
+I'm hiring this sound chip guy next week,
+
+so music we can take care of.
+All in-house.
+
+What do you reckon?
+
+Oh, and hey,
+I'm hiring this sound chip guy next week,
+
+so music we can take care of.
+All in-house.
+
+What do you reckon?
+
+Oh, and hey,
+I'm hiring this sound chip guy next week,
+
+so music we can take care of.
+All in-house.
+
+So, come on.
+How do you want to go about this?
+
+-You're... you're interested?
+-That's what I'm saying.
+
+OK, it's July now,
+so if we wanna hit Christmas,
+
+then we'll need the tapes in Smiths
+by November.
+
+OK. So here's my proposal.
+Come and write it here.
+
+-Here?
+-Yeah!
+
+We'll give you a couple of desks,
+set up a small team, just for you.
+
+And of course Col's on hand.
+
+What do you reckon?
+
+Oh, and hey,
+I'm hiring this sound chip guy next week,
+
+so music we can take care of.
+All in-house.
+
+So, come on. What's your answer?
+
+-No.
+-A bit of madness is what you need.
+
+Would you like to talk about your mother?
+
+
+<i>Stefan, I'm worried about you.</i>
+<i>You've been stuck in your room for weeks.</i>
+
+Stefan?
+
+Will you talk to me?
+
+Look, I can't help you if you just
+sit there and don't speak!
+
+["Relax" playing]
+
+<i>â™ª Relax, don't... â™ª</i>
+
+Breakfast?
+
+-Your Bander-what?
+-Bandersnatch.
+
+-It's a "Choose Your Own Adventure" book.
+-That bloody hound from next door!
+
+Be the death of us.
+
+["Here Comes The Rain Again" playing]
+
+<i>â™ª I want to breathe in the open wind â™ª</i>
+
+<i>â™ª I want to kiss like... â™ª</i>
+
+We're going to be a hit factory.
+
+Colin Ritman? That's crazy.
+I've played all of his games.
+
+State of him, he's made enough
+this year to buy a Lamborghini
+
+and he still smokes roll-ups. [laughs]
+
+We've met before.
+
+-No.
+-We met before.
+
+I told you I'd see you around.
+And I was right.
+
+-This is what I'm working on.
+-Nohzdyve.
+
+
+-Oh, bollocks.
+-What's that?
+
+Buffer error. The eyeball sprites
+overshot the video memory.
+
+Yep.
+
+he's the Thief of Destiny.
+
+-You've read<i> Bandersnatch?</i>
+-Jerome F. Davies. Visionary.
+
+Was he that bloke who went cuckoo
+and cut his wife's head off?
+
+That is what people tend to focus on, yes.
+
+Excuse me.
+
+-What's happened?
+-I haven't programmed that path yet.
+
+A lot of divergent realities in that book.
+
+It was ahead of its time.
+In as much as time exists.
+
+OK. So here's my proposal.
+Come and write it here.
+
+-Here?
+-We'll give you a couple of desks,
+
+set up a small team, just for you.
+And of course Col's on hand.
+
+What do you reckon?
+
+Oh, and hey,
+I'm hiring this sound chip guy next week,
+
+so music we can take care of.
+All in-house.
+
+So, come on. What's your answer?
+
+-No.
+-Bit of madness is what you need.
+
+Would you like to talk about your mother?
+
+
+Look, I can't help if you just sit there
+and don't speak!
+
+Dad, just fuck off!
+
+Get your coat. We're going for lunch.
+
+["Making Plans For Nigel" playing]
+
+-This is Dr. Haynes' place.
+-You need to speak to her.
+
+You're under pressure.
+You're not sleeping, you're not eating.
+
+I think the healthiest thing to do
+is to talk about any concerns you may have
+
+instead of bottling them up inside.
+
+We've talked about this before.
+I'm sure we have.
+
+So just write me the fucking prescription.
+
+Stefan, mate. This is due today.
+
+I just need the weekend.
+I know I can add this new path in.
+
+Don't fuck up.
+There's a lot riding on this now.
+
+[woman on tv] <i>We exist within</i>
+<i>multiple parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we choose to do</i>
+<i>in this existence,</i>
+
+<i>thereâ€™s another one out there</i>
+<i>in which weâ€™re doing quite the opposite,</i>
+
+<i>which renders free will meaningless.</i>
+<i>Nothing but an illusion.</i>
+
+-This is Dr. Haynes' place.
+-You need to speak to her.
+
+My head is all over the place.
+I'm not in control.
+
+<i>Stefan, mate, the deadline is today.</i>
+
+<i>You're not in control.</i>
+
+-[door slams]
+-[locking]
+
+
+
+
+
+
+No!
+
+Who's doing this to me?
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Come on. If there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+
+I know you've been controlling me.
+
+Stefan, you're ill.
+
+We need to go and see Dr. Haynes
+and see if she can help.
+
+<i>Remember, Stefan.</i>
+
+Any time you need me,
+you know the number.
+
+-You heard it here first.
+-Get a pen.
+
+If you listen closely,
+you can hear the numbers.
+
+-Too?
+-Good to be true.
+
+<i>You sound like my dad.</i>
+
+Oh.
+
+<i>Five.</i>
+
+You were five years old.
+
+-One for all and all...
+-For one.
+
+<i>Remember, Stefan.</i>
+
+Anytime you need me,
+you know the number.
+
+Number? What's the number?
+
+Two. Oh. Five.
+
+Four, one.
+
+Remember...
+
+<i>-Two. Oh. Five.</i>
+<i>-Four, one.</i>
+
+
+<i>The number you have dialed</i>
+<i>has not been recognized.</i>
+
+<i>Please check and try again.</i>
+
+<i>The number you have dialed has...</i>
+
+[labored breathing]
+
+[dog barks]
+
+[video game theme plays]
+
+<i>So Bandersnatch? Yay or nay?</i>
+
+<i>Well, nothing in the game</i>
+<i>is as fascinating</i>
+
+<i>as its grisly real-life backstory.</i>
+
+<i>As you know, Leslie, Stefan Butler,</i>
+<i>the young man who wrote this,</i>
+
+<i>had a breakdown</i>
+<i>and murdered his own father.</i>
+
+
+<i>And it seems the code</i>
+<i>was never quite finished</i>
+
+<i>but Tuckersoft</i>
+<i>just released the game anyway.</i>
+
+<i>Which I know isn't a crime</i>
+<i>on a par with murder</i>
+
+<i>but it's still pretty off nonetheless.</i>
+
+
+<i>Two and a half stars out of five.</i>
+
+<i>It's morbid curiosity value at best.</i>
+<i>Must try harder.</i>
+
+I keep thinking about that morning.
+
+Reliving it.
+
+<i>Rabbit. It was because of Rabbit.</i>
+
+<i>He was this stupid toy that my mum</i>
+<i>had made him when I was born,</i>
+
+I used to take him everywhere.
+
+I think Dad thought it was sissy
+or something.
+
+<i>He and Mum used to</i>
+<i>have these rows about it.</i>
+
+<i>he should've stopped playing with dolls.</i>
+
+<i>I know he took Rabbit away</i>
+<i>and hid it somewhere.</i>
+
+<i>That morning, Mum was going</i>
+<i>to visit Granddad and Grandma.</i>
+
+<i>I was supposed to be going with her,</i>
+<i>but I couldn't find Rabbit anywhere.</i>
+
+<i>I refused to go without him.</i>
+
+Come on, Stefan, we're going to be late.
+
+Are you coming or not?
+
+No!
+
+You'll have to catch the 8:45, now.
+
+<i>So I held her up.</i>
+
+<i>Because of me she had to catch</i>
+<i>a later train. Because of me.</i>
+
+when this happened?
+
+Five.
+
+You were five years old.
+
+And you couldn't have known.
+
+Stefan.
+
+You couldn't have known.
+
+[man on TV] <i>The Emergency Services say</i>
+
+<i>the 8:45 train derailed at high speed</i>
+<i>outside Queenstown Road Station.</i>
+
+<i>As the death toll continues to rise,</i>
+<i>transport police have opened an inquiry</i>
+
+<i>but the cause is not yet clear.</i>
+
+I fucking hate him for it.
+
+The past is immutable, Stefan.
+
+No matter how painful it is,
+we can't change things,
+
+we can't choose differently,
+with hindsight.
+
+And we all have to learn to accept that.
+
+Remember. Any time you need me,
+just pick up the phone.
+
+You know the number.
+
+
+Is everything alright?
+
+
+Stefan?
+
+Will you talk to me?
+
+Look, I can't help you if you just
+sit there and don't speak!
+
+I keep thinking about that morning.
+
+Reliving it.
+
+<i>Rabbit.</i>
+
+<i>It was because of Rabbit.</i>
+
+<i>He was this stupid toy that my mum</i>
+<i>had made for me when I was born.</i>
+
+I used to take him everywhere.
+
+I think Dad thought it was sissy
+or something.
+
+<i>He and Mum used to</i>
+<i>have these rows about it.</i>
+
+<i>he should've stopped playing with dolls.</i>
+
+<i>I know he took Rabbit away</i>
+<i>and hit it somewhere.</i>
+
+<i>That morning, Mum was going</i>
+<i>to visit Granddad and Grandma.</i>
+
+<i>I was supposed to be going with her,</i>
+<i>but I couldn't find Rabbit anywhere.</i>
+
+<i>I refused to go without him.</i>
+
+Come on, Stefan, we're going to be late.
+
+Are you coming or not?
+
+No!
+
+You'll have to catch the 8:45, now.
+
+<i>So I held her up.</i>
+
+<i>Because of me she had to catch</i>
+<i>a later train. Because of me.</i>
+
+when this happened?
+
+Five.
+
+You were five years old.
+
+And you couldn't have known.
+
+Stefan.
+
+You couldn't have known.
+
+[man on TV] <i>The Emergency Services say</i>
+<i>the 8:45 train derailed at high speed</i>
+
+<i>outside Queenstown Road Station.</i>
+
+<i>As the death toll continues to rise,</i>
+<i>transport police have opened an inquiry</i>
+
+<i>but the cause is not yet clear.</i>
+
+I fucking hate him for it.
+
+The past is immutable, Stefan.
+
+No matter how painful it is,
+we can't change things,
+
+we can't choose differently,
+with hindsight.
+
+And we all have to learn to accept that.
+
+Remember. Any time you need me,
+just pick up the phone.
+
+You know the number.
+
+[electronic music plays]
+
+
+
+Stefan?
+
+-Will you talk to me?
+-Dad, just fuck off!
+
+Get your coat. We're going for lunch.
+
+No.
+
+What good does it do?
+
+Going over things again and again.
+
+Think carefully.
+
+You really might learn something new.
+
+So I'll ask again.
+
+Would you like to talk about
+what happened with your mother?
+
+You might learn something about yourself
+you don't know.
+
+I keep thinking about that morning.
+
+Reliving it.
+
+<i>Rabbit. It was because of Rabbit.</i>
+
+<i>He was this stupid toy that my mum</i>
+<i>had made for me when I was born.</i>
+
+I used to take him everywhere.
+
+I think Dad thought it was sissy
+or something.
+
+<i>He and Mum used to have</i>
+<i>these rows about it.</i>
+
+<i>he should've stopped playing with dolls.</i>
+
+<i>I know he took Rabbit away</i>
+<i>and hid it somewhere.</i>
+
+<i>That morning, Mum was going</i>
+<i>to visit Granddad and Grandma.</i>
+
+<i>I was supposed to be going with her,</i>
+<i>but I couldn't find Rabbit anywhere.</i>
+
+<i>I refused to go without him.</i>
+
+Come on, Stefan, we're going to be late.
+
+Are you coming or not?
+
+No!
+
+You'll have to catch the 8:45, now.
+
+<i>So I held her up.</i>
+
+<i>Because of me she had to catch</i>
+<i>a later train. Because of me.</i>
+
+when this happened?
+
+Five.
+
+You were five years old.
+
+And you couldn't have known.
+
+Stefan.
+
+You couldn't have known.
+
+[man on TV] <i>The Emergency Services say</i>
+<i>the 8:45 train derailed at high speed</i>
+
+<i>outside Queenstown Road Station.</i>
+
+<i>As the death toll continues to rise,</i>
+<i>transport police have opened an inquiry</i>
+
+<i>but the cause is not yet clear.</i>
+
+I fucking hate him for it.
+
+The past is immutable, Stefan.
+
+No matter how painful it is,
+we can't change things,
+
+we can't choose differently,
+with hindsight.
+
+And we all have to learn to accept that.
+
+Remember. Any time you need me,
+just pick up the phone.
+
+You know the number.
+
+
+Is everything alright?
+
+
+
+Will you talk to me?
+
+Look, I can't help you if you just
+sit there and don't speak!
+
+I keep thinking about that morning.
+
+Reliving it.
+
+<i>Rabbit. It was because of Rabbit.</i>
+
+<i>He was this stupid toy that my mum</i>
+<i>had made for me when I was born.</i>
+
+I used to take him everywhere.
+
+I think Dad thought it was sissy
+or something.
+
+<i>He and Mum used to have</i>
+<i>these rows about it.</i>
+
+he should've stopped playing with dolls.
+
+<i>I know he took Rabbit away</i>
+<i>and hid it somewhere.</i>
+
+<i>That morning, Mum was going</i>
+<i>to visit Granddad and Grandma.</i>
+
+<i>I was supposed to be going with her,</i>
+<i>but I couldn't find Rabbit anywhere.</i>
+
+<i>I refused to go without him.</i>
+
+we're going to be late.
+
+Are you coming or not?
+
+No!
+
+You'll have to catch the 8:45, now.
+
+<i>So I held her up.</i>
+
+<i>Because of me she had to catch</i>
+<i>a later train. Because of me.</i>
+
+when this happened?
+
+Five.
+
+You were five years old.
+
+And you couldn't have known.
+
+Stefan.
+
+You couldn't have known.
+
+[man on TV] <i>The Emergency Services say</i>
+<i>the 8:45 train derailed at high speed</i>
+
+<i>outside Queenstown Road Station.</i>
+
+<i>As the death toll continues to rise,</i>
+<i>transport police have opened an inquiry</i>
+
+<i>But the cause is not yet clear.</i>
+
+I fucking hate him for it.
+
+The past is immutable, Stefan.
+
+No matter how painful it is,
+we can't change things,
+
+we can't choose differently,
+with hindsight.
+
+And we all have to learn to accept that.
+
+Remember. Any time you need me,
+just pick up the phone.
+
+You know the number.
+
+
+
+Stefan? Will you talk to me?
+
+Dad, just fuck off!
+
+Get your coat. We're going for lunch.
+
+["Making Plans For Nigel" playing]
+
+-This is Dr. Haynes' place.
+-You need to speak to her.
+
+You're under pressure.
+You're not sleeping, you're not eating.
+
+[indistinct chatter]
+
+Looking good.
+Good job I doubled the advertising.
+
+-That's not...
+-[sighs]
+
+Stefan, mate. This is due today.
+You said it was stable.
+
+-It was, I just...
+-Just what?
+
+-Did you add a new path?
+-The government conspiracy branch.
+
+One of the alternate timelines
+in the novel.
+
+Jerome F. Davies
+was into his conspiracy theories.
+
+-Before or after he went psycho?
+-I thought I'd tied up all the loose ends.
+
+If it's something you've added,
+let's just take it out.
+
+-No, it's important.
+-Stefan, mate. The deadline is today.
+
+I just need the weekend.
+I know I can add this new path in.
+
+-It's complicated enough.
+-Just the weekend. Please.
+
+-First thing Monday.
+-First thing.
+
+OK.
+
+Shit, I've got to run,
+meeting the John Menzies guys.
+
+Just don't fuck up.
+There's a lot riding on this now.
+
+I know.
+
+Here. That's for you.
+
+
+Taped it off the telly.
+Documentary about Jerome.
+
+Bit of inspiration maybe.
+Pop it on while you work.
+
+You having a film night?
+
+[TV jingle]
+
+<i>-They're great!</i>
+<i>-Kellogg's Frosties.</i>
+
+[man on TV] <i>Towards the end of his life,</i>
+
+<i>Davies was apparently self-administering</i>
+<i>hallucinogens on a daily basis.</i>
+
+<i>This, coupled with his attempts</i>
+
+<i>to complete the complex multiple</i>
+<i>narratives of</i> Bandersnatch
+
+<i>was to prove the final straw.</i>
+
+<i>He became obsessed</i>
+<i>with bizarre symbols</i>
+
+<i>and the limitations</i>
+<i>of his own free will.</i>
+
+<i>In his notes,</i>
+<i>Davies repeatedly sketched a glyph</i>
+
+<i>which to him represented multiple fates,</i>
+<i>potential realities splitting in two.</i>
+
+<i>It was the start</i>
+<i>of his complete mental collapse.</i>
+
+<i>Davies became convinced</i>
+<i>he had no control over his fate</i>
+
+<i>because his wife was spiking him</i>
+<i>with psychoactive drugs</i>
+
+<i>at the behest of a demon called Pax,</i>
+<i>a sort of lion figure,</i>
+
+<i>he claimed he'd seen in a vision,</i>
+
+<i>and who ended up</i>
+<i>being incorporated into the book.</i>
+
+<i>It was this that led him to kill her.</i>
+
+<i>He decapitated her and daubed the</i>
+<i>glyph symbol on the walls with her blood.</i>
+
+<i>After his arrest, he told police</i>
+
+<i>we exist within</i>
+<i>multiple parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we choose to do</i>
+<i>in this existence,</i>
+
+<i>thereâ€™s another one out there</i>
+<i>in which weâ€™re doing quite the opposite,</i>
+
+<i>which renders free will meaningless.</i>
+<i>Nothing but an illusion.</i>
+
+[indistinct chatter]
+
+Looking good.
+Good job I doubled the advertising.
+
+-That's not...
+-[sighs]
+
+Stefan, mate. This is due today.
+You said it was stable.
+
+-It was, I just...
+-Just what?
+
+-Did you add a new path?
+-The government conspiracy branch.
+
+One of the alternate timelines
+in the novel.
+
+Jerome F. Davies
+was into his conspiracy theories.
+
+-Before or after he went psycho?
+-I thought I'd tied up all the loose ends.
+
+If it's something you've added,
+let's just take it out.
+
+-No, it's important.
+-Stefan, mate. The deadline is today.
+
+I just need the weekend.
+I know I can add this new path in.
+
+-It's complicated enough.
+-Just the weekend. Please.
+
+-First thing Monday.
+-First thing.
+
+OK.
+
+Shit, I've got to run,
+meeting the John Menzies guys.
+
+Just don't fuck up.
+There's a lot riding on this now.
+
+I know.
+
+[door closes]
+
+Here. That's for you.
+
+
+Taped it off the telly.
+Documentary about Jerome.
+
+Bit of inspiration maybe.
+Pop it on while you work.
+
+You having a film night?
+
+[TV jingle]
+
+<i>-They're great!</i>
+<i>-Kellogg's Frosties.</i>
+
+[man on TV] <i>Towards the end of his life,</i>
+
+<i>Davies was apparently self-administering</i>
+<i>hallucinogens on a daily basis.</i>
+
+<i>This, coupled with his attempts</i>
+
+<i>to complete the complex multiple</i>
+<i>narratives of</i> Bandersnatch
+
+<i>was to prove the final straw.</i>
+
+<i>He became obsessed</i>
+<i>with bizarre symbols</i>
+
+<i>and the limitations</i>
+<i>of his own free will.</i>
+
+<i>In his notes,</i>
+<i>Davies repeatedly sketched a glyph</i>
+
+<i>which to him represented multiple fates,</i>
+<i>potential realities splitting in two.</i>
+
+<i>It was the start</i>
+<i>of his complete mental collapse.</i>
+
+<i>Davies became convinced</i>
+<i>he had no control over his fate</i>
+
+<i>because his wife was spiking him</i>
+<i>with psychoactive drugs</i>
+
+<i>at behest of a demon called Pax,</i>
+<i>a sort of lion figure,</i>
+
+<i>he claimed he'd seen in a vision,</i>
+
+<i>and who ended up</i>
+<i>being incorporated into the book.</i>
+
+<i>It was this that led him to kill her.</i>
+
+<i>He decapitated her and daubed the</i>
+<i>glyph symbol on the walls with her blood.</i>
+
+<i>After his arrest he told police</i>
+
+<i>we exist within</i>
+<i>multiple parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we choose to do</i>
+<i>in this existence,</i>
+
+<i>thereâ€™s another one out there</i>
+<i>in which weâ€™re doing quite the opposite,</i>
+
+<i>which renders free will meaningless.</i>
+<i>Nothing but an illusion.</i>
+
+[indistinct chatter]
+
+Looking good.
+Good job I doubled the advertising.
+
+-That's not...
+-[sighs]
+
+Stefan, mate. This is due today.
+You said it was stable.
+
+-It was, I just...
+-Just what?
+
+-Did you add a new path?
+-The government conspiracy branch.
+
+One of the alternate timelines
+in the novel.
+
+Jerome F. Davies
+was into his conspiracy theories.
+
+-Before or after he went psycho?
+-I thought I'd tied up all the loose ends.
+
+If it's something you've added,
+let's just take it out.
+
+-No, it's important.
+-Stefan, mate. The deadline is today.
+
+I just need the weekend.
+I know I can add this new path in.
+
+-It's complicated enough.
+-Just the weekend. Please.
+
+-First thing Monday.
+-First thing.
+
+OK.
+
+Shit, I've got to run,
+meeting the John Menzies guys.
+
+Just don't fuck up.
+There's a lot riding on this now.
+
+I know.
+
+[door slams]
+
+Here. That's for you.
+
+
+Taped it off the telly.
+Documentary about Jerome.
+
+Bit of inspiration maybe.
+Pop it on while you work.
+
+You having a film night?
+
+[TV whirs]
+
+<i>Sugar Puffs from Quaker.</i>
+
+<i>Tell them about the honey... Yummy!</i>
+
+[man on TV] <i>Towards the end of his life,</i>
+
+<i>Davies was apparently self-administering</i>
+<i>hallucinogens on a daily basis.</i>
+
+<i>This, coupled with his attempts</i>
+
+<i>to complete the complex multiple</i>
+<i>narratives of</i> Bandersnatch
+
+<i>was to prove the final straw.</i>
+
+<i>He became obsessed</i>
+<i>with bizarre symbols</i>
+
+<i>and the limitations</i>
+<i>of his own free will.</i>
+
+<i>In his notes,</i>
+<i>Davies repeatedly sketched a glyph</i>
+
+<i>which to him represented multiple fates,</i>
+<i>potential realities splitting in two.</i>
+
+<i>It was the start</i>
+<i>of his complete mental collapse.</i>
+
+<i>Davies became convinced</i>
+<i>he had no control over his fate</i>
+
+<i>because his wife was spiking him</i>
+<i>with psychoactive drugs</i>
+
+<i>at the behest of a demon called Pax,</i>
+<i>a sort of lion figure,</i>
+
+<i>he claimed he'd seen in a vision,</i>
+
+<i>and who ended up</i>
+<i>being incorporated into the book.</i>
+
+<i>It was this that led him to kill her.</i>
+
+<i>He decapitated her and daubed the</i>
+<i>glyph symbol on the walls with her blood.</i>
+
+<i>After his arrest, he told police</i>
+
+<i>we exist within</i>
+<i>multiple parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we choose to do</i>
+<i>in this existence,</i>
+
+<i>thereâ€™s another one out there</i>
+<i>in which weâ€™re doing quite the opposite,</i>
+
+<i>which renders free will meaningless.</i>
+<i>Nothing but an illusion.</i>
+
+We can't dupe them fast enough.
+Everybody wants a bit of Colin Ritman.
+
+
+-Er, where is Colin?
+-God knows. He's gone AWOL.
+
+He hasn't come in,
+hasn't answered his phone.
+
+Par for the course from him.
+
+He's probably fucked off to Amsterdam
+for a spot of gardening.
+
+He'll be back, he always is.
+Anyway, come on.
+
+Looking good.
+Good thing I doubled on the advertising.
+
+
+-That's not...
+-[sighs]
+
+Stefan, mate. This is due today.
+You said it was stable.
+
+-It was, it was. I just...
+-Just what?
+
+I added a new path,
+the government conspiracy branch.
+
+I thought I'd tied up all the loose ends.
+
+If it's something you've added,
+let's just take it out.
+
+-No, it's important.
+-Stefan, mate. The deadline is today.
+
+I just need the weekend.
+I know I can squeeze this path in.
+
+-It's complicated enough.
+-Just the weekend. Please.
+
+-First thing Monday.
+-First thing.
+
+OK.
+
+Shit, I've got to run,
+meeting the John Menzies guys.
+
+Just don't fuck up.
+There's a lot riding on this now.
+
+I know.
+
+[door closes]
+
+[door opens]
+
+Er... Colin wanted me to give you this.
+
+
+He said he taped it off the telly,
+to inspire you.
+
+-[Stefan] Do you know where Colin is?
+-No. Sorry.
+
+You having a film night?
+
+[TV jingle]
+
+<i>-They're great!</i>
+<i>-Kellogg's Frosties.</i>
+
+[man on TV] <i>Towards the end of his life,</i>
+
+<i>Davies was apparently self-administering</i>
+<i>hallucinogens on a daily basis.</i>
+
+<i>This, coupled with his attempts</i>
+
+<i>to complete the complex multiple</i>
+<i>narratives of</i> Bandersnatch
+
+<i>was to prove the final straw.</i>
+
+<i>He became obsessed</i>
+<i>with bizarre symbols</i>
+
+<i>and the limitations</i>
+<i>of his own free will.</i>
+
+<i>In his notes,</i>
+<i>Davies repeatedly sketched a glyph</i>
+
+<i>which to him represented multiple fates,</i>
+<i>potential realities splitting in two.</i>
+
+<i>It was the start</i>
+<i>of his complete mental collapse.</i>
+
+<i>Davies became convinced</i>
+<i>he had no control over his fate</i>
+
+<i>because his wife was spiking him</i>
+<i>with psychoactive drugs</i>
+
+<i>at the behest of a demon called Pax,</i>
+<i>a sort of lion figure,</i>
+
+<i>he claimed he'd seen in a vision,</i>
+
+<i>and who ended up</i>
+<i>being incorporated into the book.</i>
+
+<i>It was this that led him to kill her.</i>
+
+<i>He decapitated her and daubed the</i>
+<i>glyph symbol on the walls with her blood.</i>
+
+<i>After his arrest, he told police</i>
+
+<i>we exist within</i>
+<i>multiple parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we choose to do</i>
+<i>in this existence,</i>
+
+<i>thereâ€™s another one out there</i>
+<i>in which weâ€™re doing quite the opposite,</i>
+
+<i>which renders free will meaningless.</i>
+<i>Nothing but an illusion.</i>
+
+We can't dupe them fast enough.
+Everybody wants a bit of Colin Ritman.
+
+
+-Er, where is Colin?
+-God knows. He's gone AWOL.
+
+He hasn't come in,
+hasn't answered his phone.
+
+Par for the course from him.
+
+He's probably fucked off to Amsterdam
+for a spot of gardening.
+
+He'll be back, he always is.
+Anyway, come on.
+
+Looking good.
+Good thing I doubled on the advertising.
+
+-That's not...
+-[sighs]
+
+Stefan, mate. This is due today.
+You said it was stable.
+
+-It was, it was. I just...
+-Just what?
+
+I added in a new path,
+the government conspiracy branch.
+
+Thought I'd tied up the loose ends.
+
+If it's something you've added,
+let's just take it out.
+
+-No, it's important.
+-Stefan, mate.
+
+The deadline is today.
+
+I just need the weekend.
+I know I can squeeze this path in.
+
+-It's complicated enough.
+-Just the weekend. Please.
+
+-First thing Monday.
+-First thing.
+
+OK.
+
+Shit, I've got to run,
+meeting the John Menzies guys.
+
+Just don't fuck up.
+There's a lot riding on this now.
+
+I know.
+
+[door closes]
+
+[door opens]
+
+Er... Colin wanted me to give you this.
+
+
+He said he taped it off the telly,
+to inspire you.
+
+-[Stefan] Do you know where Colin is?
+-No, sorry.
+
+You having a film night?
+
+<i>Sugar Puffs from Quaker.</i>
+
+<i>Tell them about the honey... Yummy!</i>
+
+[man on TV] <i>Towards the end of his life,</i>
+
+<i>Davies was apparently self-administering</i>
+<i>hallucinogens on a daily basis.</i>
+
+<i>This, coupled with his attempts</i>
+
+<i>to complete the complex multiple</i>
+<i>narratives of</i> Bandersnatch
+
+<i>was to prove the final straw.</i>
+
+<i>He became obsessed</i>
+<i>with bizarre symbols</i>
+
+<i>and the limitations</i>
+<i>of his own free will.</i>
+
+<i>In his notes,</i>
+<i>Davies repeatedly sketched a glyph</i>
+
+<i>which to him represented multiple fates,</i>
+<i>potential realities splitting in two.</i>
+
+<i>It was the start</i>
+<i>of his complete mental collapse.</i>
+
+<i>Davies became convinced</i>
+<i>he had no control over his fate</i>
+
+<i>because his wife was spiking him</i>
+<i>with psychoactive drugs</i>
+
+<i>at behest of a demon called Pax,</i>
+<i>a sort of lion figure,</i>
+
+<i>he claimed he'd seen in a vision,</i>
+
+<i>and who ended up</i>
+<i>being incorporated into the book.</i>
+
+<i>It was this that led him to kill her.</i>
+
+<i>He decapitated her and daubed the</i>
+<i>glyph symbol on the walls with her blood.</i>
+
+<i>After his arrest, he told police</i>
+
+<i>we exist within</i>
+<i>multiple parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we choose to do</i>
+<i>in this existence,</i>
+
+<i>thereâ€™s another one out there</i>
+<i>in which weâ€™re doing quite the opposite,</i>
+
+<i>which renders free will meaningless.</i>
+<i>Nothing but an illusion.</i>
+
+We can't dupe them fast enough.
+Everybody wants a bit of Colin Ritman.
+
+
+-Er, where is Colin?
+-God knows. He's gone AWOL.
+
+He hasn't come in,
+hasn't answered his phone.
+
+Par for the course from him.
+
+He's probably fucked off to Amsterdam
+for a spot of gardening.
+
+He'll be back, he always is.
+Anyway, come on.
+
+Looking good.
+Good thing I doubled on the advertising.
+
+-That's not...
+-[sighs]
+
+Stefan, mate. This is due today.
+You said it was stable.
+
+-It was, it was. I just...
+-Just what?
+
+I added in a new path,
+the government conspiracy branch.
+
+Thought I'd tied up the loose ends.
+
+If it's something you've added,
+let's just take it out.
+
+-No, it's important.
+-Stefan, mate.
+
+The deadline is today.
+
+I just need the weekend.
+I know I can squeeze this path in.
+
+-It's complicated enough.
+-Just the weekend. Please.
+
+-First thing Monday.
+-First thing.
+
+OK.
+
+Shit, I've got to run,
+meeting the John Menzies guys.
+
+Just don't fuck up.
+There's a lot riding on this now.
+
+I know.
+
+[door closes]
+
+[door opens]
+
+Er... Colin wanted me to give you this.
+
+
+He said he taped it off the telly,
+to inspire you.
+
+-[Stefan] Do you know where Colin is?
+-No, sorry.
+
+You having a film night?
+
+<i>Sugar Puffs from Quaker.</i>
+
+<i>Tell them about the honey... Yummy!</i>
+
+[man on TV] <i>Towards the end of his life,</i>
+
+<i>Davies was apparently self-administering</i>
+<i>hallucinogens on a daily basis.</i>
+
+<i>This, coupled with his attempts</i>
+
+<i>to complete the complex multiple</i>
+<i>narratives of</i> Bandersnatch
+
+<i>was to prove the final straw.</i>
+
+<i>He became obsessed</i>
+<i>with bizarre symbols</i>
+
+<i>and the limitations</i>
+<i>of his own free will.</i>
+
+<i>In his notes,</i>
+<i>Davies repeatedly sketched a glyph</i>
+
+<i>which to him represented multiple fates,</i>
+<i>potential realities splitting in two.</i>
+
+<i>It was the start</i>
+<i>of his complete mental collapse.</i>
+
+<i>Davies became convinced</i>
+<i>he had no control over his fate</i>
+
+<i>because his wife was spiking him</i>
+<i>with psychoactive drugs</i>
+
+<i>at behest of a demon called Pax,</i>
+<i>a sort of lion figure,</i>
+
+<i>he claimed he'd seen in a vision,</i>
+
+<i>and who ended up</i>
+<i>being incorporated into the book.</i>
+
+<i>It was this that led him to kill her.</i>
+
+<i>He decapitated her and daubed the</i>
+<i>glyph symbol on the walls with her blood.</i>
+
+<i>After his arrest, he told police</i>
+
+<i>we exist within</i>
+<i>multiple parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we choose to do</i>
+<i>in this existence,</i>
+
+<i>thereâ€™s another one out there</i>
+<i>in which weâ€™re doing quite the opposite,</i>
+
+<i>which renders free will meaningless.</i>
+<i>Nothing but an illusion.</i>
+
+-[splutters]
+-[gasps]
+
+
+
+
+
+
+
+
+
+
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on. If there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+
+<i>[mum] Yes, and so what, Rabbit is a toy.</i>
+
+<i>[dad]</i>
+<i>A baby's toy that he takes everywhere.</i>
+
+
+<i>he should've stopped playing with dolls.</i>
+
+<i>-</i>[mum] <i>It's not a doll.</i>
+<i>-If he takes it to your parents,</i>
+
+I'm going to have to withstand
+another lecture from your dad
+
+-about permissive child-rearing.
+-Oh, for God's sake.
+
+Sorry, look,
+I'm going to do something about this.
+
+-[door slams]
+-[locking]
+
+
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on. If there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+
+
+<i>A baby's toy that he takes everywhere.</i>
+
+
+<i>he should've stopped playing with dolls.</i>
+
+-[mum] <i>It's not a doll.</i>
+-If he takes it to your parents,
+
+I'm going to have to withstand
+another lecture from your dad
+
+-about permissive child-rearing.
+-Oh, for God's sake.
+
+Sorry, look,
+I am going to do something about this.
+
+-[door slams]
+-[locking]
+
+
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Come on. If there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+<i>upon because of the anniversary looming.</i>
+
+<i>about what happened with your mother?</i>
+
+
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on. If there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+<i>upon because of the anniversary looming.</i>
+
+<i>about what happened with your mother?</i>
+
+
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on. If there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+
+
+<i>A baby's toy that he takes everywhere.</i>
+
+
+<i>he should've stopped playing with dolls.</i>
+
+-[mum] <i>It's not a doll.</i>
+-If he takes it to your parents,
+
+I'm going to have to withstand
+another lecture from your dad
+
+-about permissive child-rearing.
+-Oh, for God's sake.
+
+Sorry. Look, I am going
+to do something about this.
+
+-[door slams]
+-[locking]
+
+
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+-[beeps]
+-[whirring]
+
+
+-What are you doing?
+-I'm not in control.
+
+-I'm not in control.
+-What are you talking about? Stefan?
+
+Stefan, stop it.
+
+Just calm down.
+
+Stefan.
+
+Stefan, mate. This is due today.
+
+I just need the weekend.
+I know I can add this new path in.
+
+-First thing Monday.
+-First thing.
+
+[door closes]
+
+-Skip to the next bit.
+-What?
+
+For fuck's sake, I'll skip it for you.
+
+<i>Davies became convinced</i>
+<i>he had no control over his fate.</i>
+
+<i>If you follow that line of thinking</i>
+<i>to its logical conclusion,</i>
+
+<i>then you're absolved of any guilt</i>
+<i>from your actions.</i>
+
+<i>They're not even your actions.</i>
+
+<i>It's out of your control.</i>
+
+<i>Your fate has been dictated.</i>
+
+<i>So, why not commit murder?</i>
+
+<i>You're not in control.</i>
+
+<i>upon because of the anniversary looming.</i>
+
+<i>about what happened with your mother?</i>
+
+
+
+No!
+
+Who's doing this to me?
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+
+
+<i>that he takes everywhere.</i>
+
+
+<i>playing with dolls.</i>
+
+
+If he takes it to your parents,
+
+I'm going to have to withstand
+another lecture from your dad
+
+-about permissive child-rearing.
+-Oh, for God's sake.
+
+Sorry. Look, I am going
+to do something about this.
+
+-[door slams]
+-[locking]
+
+
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+
+
+
+
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+We can't dupe them fast enough.
+Everybody wants a bit of Colin Ritman.
+
+-[Stefan] Where is Colin?
+-He's gone AWOL.
+
+Probably fucked off to Amsterdam
+
+for a spot of gardening,
+if you know what I mean.
+
+He'll be back, he always is.
+
+
+Mate. This is due today.
+
+I just need the weekend.
+I know I can add this new path.
+
+Don't fuck up.
+There's a lot riding on this now.
+
+I know.
+
+[door opens]
+
+Er... Colin wanted me to give you this,
+to inspire you.
+
+<i>Davies became convinced</i>
+<i>he had no control over his fate.</i>
+
+<i>because his wife was spiking him</i>
+<i>with psychoactive drugs.</i>
+
+<i>After his arrest, he told police</i>
+
+<i>we exist within multiple</i>
+<i>parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we choose to do</i>
+<i>in this existence,</i>
+
+<i>thereâ€™s another one out there</i>
+<i>in which weâ€™re doing quite the opposite.</i>
+
+I said no and I meant it.
+
+OK, well...
+
+Remember, Stefan, anytime you need me...
+
+Just call.
+
+You know the number.
+
+
+Is everything alright?
+
+
+Stefan? Will you talk to me?
+
+Look, I can't help if you just sit there
+and don't speak!
+
+I said no and I meant it.
+
+OK, well...
+
+Remember, Stefan, anytime you need me...
+
+Just call.
+
+You know the number.
+
+
+Will you talk to me.
+
+Look, I can't help if you just sit there
+and don't speak!
+
+I said no and I meant it.
+
+OK, well...
+
+-Remember, Stefan, anytime you need me...
+-Just call.
+
+You know the number.
+
+Is everything alright?
+
+Stefan, will you talk to me.
+
+Dad, just fuck off!
+
+Get your coat. We're going for lunch.
+
+I said no and I meant it.
+
+OK, well...
+
+-Remember, Stefan, anytime you need me...
+-Just call.
+
+You know the number.
+
+
+Stefan, will you talk to me.
+
+Dad, just fuck off!
+
+Get your coat. We're going for lunch.
+
+I said no and I meant it.
+
+OK, well...
+
+-Remember, Stefan, anytime you need me...
+-Just call.
+
+You know the number.
+
+["Too shy" playing]
+
+[knock at door]
+
+Stefan?
+
+Tea.
+
+Look, I'm gonna go to the pub
+for some lunch.
+
+If you fancy tagging along...
+
+No, I'm alright.
+
+You didn't have any breakfast.
+
+Dad. I'm fine.
+
+
+Stefan, I'm worried about you.
+You've been stuck in your room for weeks.
+
+Stefan?
+
+Will you talk to me?
+
+Look, I can't help if you just sit there
+and don't speak!
+
+
+
+-[growls]
+-[inhales sharply]
+
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+
+-[laughs]
+-[inhales sharply]
+
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+[mouths words]
+
+<i>to the beginning.</i>
+
+[door opens]
+
+Come on, Stefan. Come on.
+
+-You can find Rabbit later.
+-No!
+
+Stefan, please come with me.
+
+No!
+
+You weren't supposed to know.
+
+Dad, what is this?
+
+I'm sorry.
+
+Dad, who are you?
+
+Talk to me.
+
+Talk to me!
+
+-[thud]
+-[gasp]
+
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+
+
+-[growls]
+-[gasps]
+
+Who's doing this to me?
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+No!
+
+Who's doing this to me?
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+<i>to the beginning.</i>
+
+[door opens]
+
+Come on, Stefan. Come on.
+
+-You can find Rabbit later.
+-No!
+
+Stefan, please come with me.
+
+No!
+
+You weren't supposed to know.
+
+Dad, what is this?
+
+I'm sorry.
+
+Dad, who are you?
+
+Talk to me.
+
+Talk to me!
+
+-[thud]
+-[gasps]
+
+We've talked about this before,
+I'm sure we have.
+
+So just write me the fucking prescription.
+
+<i>in your food and they film you.</i>
+
+-First thing Monday.
+-First thing.
+
+-Skip to the next bit.
+-What?
+
+For fuck's sake, I'll skip it for you.
+
+<i>parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+<i>Whatever we chose to do</i>
+<i>with this existence,</i>
+
+<i>there's another one out there</i>
+<i>in which we're doing quite the opposite.</i>
+
+<i>Which renders free will meaningless,</i>
+<i>nothing but an illusion.</i>
+
+We've talked about this before,
+I'm sure we have.
+
+So just write me the fucking prescription.
+
+We've talked about this before,
+I'm sure we have.
+
+So just write me the fucking prescription.
+
+Stefan, mate. This is due today.
+
+I just need the weekend.
+I know I can add this new path.
+
+Don't fuck up.
+There's a lot riding on this now.
+
+<i>he had no control over his fate.</i>
+
+<i>If you follow that line of thinking,</i>
+
+<i>then you're absolved of any guilt</i>
+<i>from your actions.</i>
+
+<i>They're not even your actions.</i>
+<i>It's out of your control.</i>
+
+<i>You're fate has been dictated.</i>
+
+<i>So, why not commit murder?</i>
+
+<i>You're not in control.</i>
+
+[door closes]
+
+
+You're in the hole. Come with me.
+
+Stefan, this is Kitty.
+
+And this is Pearl, Daddy's little legacy.
+
+One for you, one for me.
+
+
+Like Pac-Man.
+
+You know what PAC stands for?
+
+Program and Control.
+He's Program and Control Man.
+
+It's not a happy game,
+it's a fucking nightmare world.
+
+I've given you the knowledge.
+I've set you free.
+
+One of us is jumping.
+
+So, who's it going to be?
+
+There's a nice breeze up here.
+
+So come on.
+
+Which one of us is jumping?
+
+["Relax" playing]
+
+Breakfast?
+
+-Your Bander-what?
+-Bandersnatch.
+
+-It's a "Choose Your Own Adventure" book.
+-The bloody hound from next door.
+
+Be the death of us.
+
+["Hold me now" playing]
+
+-We're going to be a hit factory.
+-[Stefan] Colin Ritman?
+
+That's crazy.
+I've played all of his games.
+
+The state of him, he's made enough
+this year to buy a Lamborghini,
+
+and he still smokes roll-ups. [laughs]
+
+We've met before.
+
+-No.
+-[Colin] We met before.
+
+I told you I'd see you around.
+And I was right.
+
+-This is what I'm working on.
+-Nohzdyve.
+
+Hm-hm.
+
+Oh, bollocks.
+
+-What's that?
+-Buffer error.
+
+The eyeball sprites
+overshot the video memory.
+
+Yep.
+
+he's the Thief of Destiny.
+
+-You've read<i> Bandersnatch?</i>
+-Jerome F. Davies. Visionary.
+
+Was he that bloke who went cuckoo
+and cut his wife's head off?
+
+That is what people tend to focus on, yes.
+
+Excuse me.
+
+-What's happened?
+-I haven't programmed that path yet.
+
+Lot of divergent realities in that book.
+
+It was ahead of its time.
+
+In as much as time exists.
+
+[claps hands] OK. So, here's my proposal.
+
+Come and write it here.
+
+-Here?
+-We'll give you a couple of desks,
+
+set up a small team, just for you.
+
+And of course Col's on hand.
+
+What do you reckon?
+
+Oh, and hey, I'm hiring
+this sound chip guy next week,
+
+so music we can take care of.
+All in-house.
+
+So, come on, what's your answer?
+
+
+Who's doing this to me?
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+
+Who's doing this to me?
+
+I know there's someone there.
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+Oh, God, really?
+
+[phone rings]
+
+Dr. Haynes' office.
+
+Is Dr. Haynes there?
+
+<i>she's with a client right now.</i>
+
+<i>Would you like to make an appointment?</i>
+<i>I could fit you in first thing tomorrow.</i>
+
+Yes.
+
+-[receptionist] <i>And your name is?</i>
+-Stefan Butler.
+
+[engaged tone on phone]
+
+Where is he? Where is he?
+
+-Woah, woah, woah. Can I help?
+-It's Colin's girlfriend.
+
+Kitty. We've met before.
+
+When you had blue hair.
+Satpal, I'll deal with this.
+
+-Where's Colin?
+-I thought you'd tell me.
+
+He's gone, he's just gone.
+
+Tell me about it
+but he's done this before.
+
+Not like this. When did you see him last?
+
+When he gave me that tape for Stefan.
+
+Who's Stefan?
+
+Let's leave Stefan out of this,
+he's working.
+
+Who's Stefan?
+
+And how is your father?
+
+He's visiting his sister.
+She's in the South of France, so...
+
+So you've been left to your own devices.
+
+Hm-hm. [clears throat]
+
+It's been good actually.
+
+Not having him.
+
+<i>with a real sense of purpose.</i>
+
+<i>I've actually had a bit of breakthrough</i>
+<i>with the game.</i>
+
+<i>I think I'd got bogged down before,</i>
+
+<i>but now I can see.</i>
+
+
+
+<i>I'd been trying to give the player</i>
+<i>too much choice.</i>
+
+<i>So I just went back</i>
+<i>and stripped loads out.</i>
+
+<i>And now they've only got the illusion</i>
+<i>of free will, but really,</i>
+
+I decide the ending.
+
+And is it a happy ending?
+
+-I think so.
+-[Haynes] Then that's great.
+
+Oh, God, really?
+
+[phone rings]
+
+Dr. Haynes' office.
+
+Is Dr. Haynes there?
+
+<i>she's with a client right now.</i>
+
+<i>Would you like to make an appointment?</i>
+<i>I could fit you in first thing tomorrow.</i>
+
+Yes.
+
+-[receptionist] <i>And your name is?</i>
+<i>-</i>Stefan Butler.
+
+[engaged tone on phone]
+
+Where is he? Where is he?
+
+-Woah, woah, woah. Can I help?
+-It's Colin's girlfriend.
+
+Kitty. We've met before.
+
+When you had blue hair.
+Satpal, I'll deal with this.
+
+Where's Colin?
+
+-I thought you'd tell me.
+-He's gone, he's just gone.
+
+Tell me about it,
+but he's done this before.
+
+-Not like this. When did you see him last?
+-When he gave me that tape for Stefan.
+
+Who's Stefan?
+
+Let's leave Stefan out of this,
+he's working.
+
+Who's Stefan?
+
+And how is your father?
+
+He's visiting his sister.
+She's in the South of France, so...
+
+-So you've been left to your own devices.
+-Hm-hm. [clears throat]
+
+It's been good actually.
+
+Not having him.
+
+<i>with a real sense of purpose.</i>
+
+<i>I've actually had a bit of breakthrough</i>
+<i>with the game.</i>
+
+<i>I think I'd got bogged down before,</i>
+
+<i>but now I can see.</i>
+
+-[Haynes] <i>So you finally finished it?</i>
+-[Stefan]<i> Finished, delivered, everything.</i>
+
+<i>I'd been trying to give the player</i>
+<i>too much choice.</i>
+
+<i>So I just went back</i>
+<i>and stripped loads out.</i>
+
+<i>And now they've only got the illusion</i>
+<i>of free will, but really,</i>
+
+I decide the ending.
+
+And is it a happy ending?
+
+-I think so.
+-[Haynes] Then that's great.
+
+Oh, God, really?
+
+-[phone rings]
+-Dr. Haynes' office.
+
+Is Dr. Haynes there?
+
+<i>she's with a client right now.</i>
+
+<i>Would you like to make an appointment?</i>
+<i>I could fit you in first thing tomorrow.</i>
+
+-Yes.
+
+-[receptionist] <i>And your name is?</i>
+-Stefan Butler.
+
+-[engaged tone on phone]
+-He's fucking engaged.
+
+He's probably taken the phone
+off the hook.
+
+-That's what I do.
+-That's what you do, is it?
+
+I'll remember that.
+
+Look, just let him be.
+
+He's probably in the zone.
+
+I'll give him another twenty-four hours.
+
+
+He's visiting his sister.
+She's in the South of France, so...
+
+-So you've been left to your own devices.
+-Hm-hm. [clears throat]
+
+It's been good actually.
+
+Not having him.
+
+<i>It's meant I could work</i>
+<i>with a real sense of purpose.</i>
+
+<i>I've actually had a bit of breakthrough</i>
+<i>with the game.</i>
+
+<i>I think I'd got bogged down before,</i>
+
+<i>but now I can see.</i>
+
+-[Haynes] <i>So you finally finished it?</i>
+-[Stefan] <i>Finished, delivered, everything.</i>
+
+<i>I'd been trying to give the player</i>
+<i>too much choice.</i>
+
+<i>So I just went back</i>
+<i>and stripped loads out.</i>
+
+<i>And now they've only got the illusion</i>
+<i>of free will, but really,</i>
+
+I decide the ending.
+
+And is it a happy ending?
+
+-I think so.
+-[Haynes] Then that's great.
+
+OK.
+
+[phone rings]
+
+-Hello?
+-The man himself, the whiz kid.
+
+<i>How's it going?</i>
+
+"How's it going?"
+
+Have I dialed an echo by mistake?
+
+Wakey-wakey. Bandersnatch.
+The game you promised us.
+
+<i>First thing Monday you said.</i>
+
+I need the code.
+
+The ads are out,
+I've booked the dupe plant.
+
+There's some serious cash down
+the swanny if you don't deliver.
+
+I need it by the end of today.
+That possible?
+
+<i>Stefan? Hello?</i>
+
+<i>Spit it out.</i>
+
+Before I evolve.
+
+Will it be ready by the end of today?
+
+-Of course.
+-[Thakur] <i>Good.</i>
+
+By the end of today, no later. Tatty bye.
+
+You shouldn't rush him.
+He needs to explore all possibilities.
+
+He said he's delivering
+by the end of today.
+
+So, that's good then.
+
+He's bullshitting.
+
+Why don't you head round there. See what's
+really going on. Give him a hand.
+
+Come on. Now get your feet off my table.
+
+This isn't one of your anarchist communes.
+This is a place of work.
+
+OK.
+
+[phone rings]
+
+Yeah, end of the day.
+
+You shouldn't rush him.
+He needs to explore all possibilities.
+
+He said he's delivering
+by the end of today.
+
+-So, that's good then.
+-He's bullshitting.
+
+Why don't you head round there. See what's
+really going on. Give him a hand.
+
+Come on. Now get your feet off my table.
+
+This isn't one of your anarchist communes.
+This is a place of work.
+
+OK.
+
+[phone rings]
+
+Yeah, end of the day.
+
+Where's Colin?
+Where is he? Where is he?
+
+-Woah, woah, woah. Can I help?
+-It's Colin's girlfriend.
+
+Kitty. We've met before.
+
+When you had blue hair.
+Satpal, I'll deal with this.
+
+Where's Colin?
+
+-I thought you'd tell me.
+-He's gone, he's just gone.
+
+Tell me about it,
+but he's done this before.
+
+Not like this. When did you see him last?
+
+When he gave me that tape for Stefan.
+
+Who's Stefan?
+
+Let's leave Stefan out of this,
+he's working.
+
+Who's Stefan?
+
+OK.
+
+[phone rings]
+
+Fucker hung up.
+
+He's trying to work.
+
+Oh, work it up your dirt box.
+
+That's not constructive.
+
+No one hangs up on me.
+
+OK.
+
+[phone rings]
+
+Fucking fuck!
+
+Where's Colin?
+Where is he? Where is he?
+
+-Woah, woah, woah. Can I help?
+-It's Colin's girlfriend.
+
+Kitty. We've met before.
+
+When you had blue hair.
+Satpal, I'll deal with this.
+
+Where's Colin?
+
+-I thought you'd tell me.
+-He's gone, he's just gone.
+
+Tell me about it,
+but he's done this before.
+
+Not like this. When did you see him last?
+
+When he gave me that tape for Stefan.
+
+Who's Stefan?
+
+Let's leave Stefan out of this,
+he's working.
+
+Who's Stefan?
+
+-No.
+-No?
+
+Tough tit-holes.
+
+<i>You signed a contract,</i>
+<i>so don't be a pillock.</i>
+
+<i>Pull your finger out.</i>
+
+I expect it by the end of today. Sayonara!
+
+Where's Colin?
+Where is he? Where is he?
+
+-Woah, woah, woah. Can I help?
+-It's Colin's girlfriend.
+
+Kitty. We've met before.
+
+When you had blue hair.
+Satpal, I'll deal with this.
+
+Where's Colin?
+
+-I thought you'd tell me.
+-He's gone, he's just gone.
+
+Tell me about it,
+but he's done this before.
+
+Not like this. When did you see him last?
+
+When he gave me that tape for Stefan.
+
+Who's Stefan?
+
+Let's leave Stefan out of this,
+he's working.
+
+Who's Stefan?
+
+Well, you need a hand.
+
+Come on, lead me to it.
+
+-To what?
+-Bandersnatch.
+
+Where's your pit? Up there?
+
+Fucking hell.
+
+You've gone right down the hole, mate.
+
+Right down it.
+
+I killed my dad.
+
+Right.
+
+So are you gonna let me go,
+or are you gonna kill me?
+
+I mean, it's your choice.
+
+In as much as you have any choice.
+
+Imagine that's a bit
+anti-climactic for you.
+
+But appreciated.
+
+I'm quite enjoying this lifetime.
+
+See you in the next one.
+
+So, that's how
+the wireframe models of today
+
+might provide the Hollywood entertainment
+of the future.
+
+-Crispin.
+-Thanks, Leslie.
+
+Now, yesterday, following weeks
+of controversy and speculation,
+
+games company Tuckersoft announced
+it's going into administration.
+
+<i>So, what went wrong?</i>
+
+<i>Just six months ago,</i>
+<i>Tuckersoft was riding high,</i>
+
+<i>with a string of hits topping the charts</i>
+
+<i>and mounting anticipation for their big</i>
+<i>Christmas release, Bandersnatch.</i>
+
+But Bandersnatch never appeared,
+
+following the arrest and subsequent
+murder charge against its creator,
+
+<i>19-year-old Stefan Butler,</i>
+
+<i>who stands accused</i>
+<i>of murdering his father</i>
+
+<i>following a psychological breakdown.</i>
+
+<i>This has raised questions</i>
+<i>about the judgment</i>
+
+<i>of Tuckersoft boss, Mohan Thakur.</i>
+
+It was his idea to do it alone.
+His decision.
+
+I wasn't to know he couldn't hack it.
+
+I mean, I know his dad's dead,
+rest his soul,
+
+but I'm a victim, too.
+Let's try to not forget that.
+
+<i>famed programmer Colin Ritman,</i>
+
+<i>believes there are important lessons</i>
+<i>to be learned from Butler's unravelling.</i>
+
+What would you say to Stefan,
+if he could hear you?
+
+I'd say try again.
+
+But he's in prison.
+
+<i>Only in this life.</i>
+
+<i>Colin Ritman was arrested</i>
+
+<i>for possession of controlled substances.</i>
+
+<i>Tuckersoft closed its doors for good.</i>
+
+<i>And there was no sign of Bandersnatch.</i>
+
+[doorbell rings]
+
+[doorbell continues]
+
+[knocking at door]
+
+[rings doorbell]
+
+[rings doorbell]
+
+You look well.
+
+-[Stefan] No. No, no, no, no.
+-Show me what you've done then.
+
+-I haven't done anything.
+-You haven't done anything?
+
+What are you expecting me to put out?
+Fucking fart on a tape?
+
+Merry Christmas, everybody.
+
+Oh, the game.
+The game. I've been doing that.
+
+What is wrong with your skull?
+
+Bloody hell. I mean,
+I thought you were weird from day one,
+
+but I don't know,
+maybe you were just artistic.
+
+Colin used to...
+
+Oh.
+
+Ah.
+
+And that's why, one day,
+we might play games against each other
+
+using our computers, and a telephone.
+
+-Crispin.
+-Thanks, Leslie.
+
+Now, six months ago we were shocked
+
+to hear of the murder of Mohan Thakur,
+founder of Tuckersoft.
+
+Today, his murderer is behind bars.
+But what went wrong?
+
+<i>In October of last year,</i>
+<i>Tuckersoft was riding high</i>
+
+<i>with a string of hits topping the charts</i>
+
+<i>and a mounting anticipation for their big</i>
+<i>Christmas release, Bandersnatch.</i>
+
+But Bandersnatch never appeared,
+
+following the arrest and subsequent
+murder charge against its creator,
+
+<i>19-year-old Stefan Butler,</i>
+
+<i>who stands accused</i>
+<i>of murdering his father</i>
+
+<i>and Tuckersoft boss, Mohan Thakur.</i>
+
+<i>Another Tuckersoft protÃ©gÃ©,</i>
+<i>famed programmer Colin Ritman,</i>
+
+<i>believes there are important lessons</i>
+<i>to be learned from Butler's unravelling.</i>
+
+What would you say to Stefan,
+if he could hear you?
+
+I'd say...
+
+if you could live your life again,
+you should make some different choices.
+
+But he can't live his life again.
+
+<i>Come on, mate.</i>
+
+<i>Dare to dream.</i>
+
+<i>Colin Ritman was arrested</i>
+
+<i>for possession of controlled substances.</i>
+
+<i>Tuckersoft closed its doors for good.</i>
+<i>And there was no sign of Bandersnatch.</i>
+
+[doorbell rings]
+
+You look well.
+
+-[Stefan] No. No, no, no, no.
+-Show me what you've done then.
+
+-I haven't done anything.
+-You haven't done anything?
+
+What are you expecting me to put out?
+Fucking fart on a tape?
+
+Merry Christmas, everybody.
+
+Oh, the game.
+The game. I've been doing that.
+
+What is wrong with your skull?
+
+Bloody hell. I mean,
+I thought you were weird from day one,
+
+but I don't know,
+maybe you were just artistic.
+
+Colin used to...
+
+Oh.
+
+Ah.
+
+And that's why, one day,
+we might play games against each other
+
+using our computers, and a telephone.
+
+-Crispin.
+-Thanks, Leslie.
+
+Now, six months ago we were shocked
+
+to hear of the murder of Mohan Thakur,
+founder of Tuckersoft.
+
+Today, his murderer is behind bars.
+But what went wrong?
+
+<i>In October of last year,</i>
+<i>Tuckersoft was riding high</i>
+
+<i>with a string of hits topping the charts,</i>
+
+<i>and a mounting anticipation for their big</i>
+<i>Christmas release, Bandersnatch.</i>
+
+<i>But Bandersnatch never appeared,</i>
+
+<i>following the arrest and subsequent</i>
+<i>murder charge against its creator,</i>
+
+<i>19-year-old Stefan Butler,</i>
+
+<i>who stands accused</i>
+<i>of murdering his father</i>
+
+<i>and Tuckersoft boss, Mohan Thakur.</i>
+
+<i>Another Tuckersoft protÃ©gÃ©,</i>
+<i>famed programmer Colin Ritman,</i>
+
+<i>believes there are important lessons</i>
+<i>to be learned from Butler's unravelling.</i>
+
+What would you say to Stefan,
+if he could hear you?
+
+I'd say...
+
+if you could live your life again,
+you should make some different choices.
+
+But he can't live his life again.
+
+<i>Come on, mate.</i>
+
+<i>Dare to dream.</i>
+
+<i>Colin Ritman was arrested</i>
+
+<i>for possession of controlled substances.</i>
+
+<i>Tuckersoft closed its doors for good.</i>
+<i>And there was no sign of Bandersnatch.</i>
+
+<i>Pac-Man die?</i>
+
+<i>Doesn't bother him. He just tries again.</i>
+
+["Relax" playing]
+
+
+We've met before.
+
+-No.
+-[Colin] We met before.
+
+I told you I'd see you around,
+and I was right.
+
+Would you like to talk about
+what happened with your mother?
+
+
+-Are you coming or not?
+-[Stefan] No!
+
+
+
+with dolls.
+
+Sorry, look, I am going
+to do something about this.
+
+[door slams]
+
+[doorbell rings]
+
+Are you Stefan?
+
+Yes.
+
+We've met before.
+
+No, we haven't.
+
+Do you know where Colin is?
+
+No.
+
+I was in the office
+and Satpal said you'd seen him last.
+
+If you know where he is, please tell me.
+
+He jumped.
+
+Jumped?
+
+Jumped where, what?
+
+Off the balcony. At your flat, and...
+
+He jumped and then he fell and...
+
+And you were there.
+You were there. You saw the whole thing.
+
+What are you on about?
+
+I wasn't sure if it actually happened.
+
+Are you on something?
+
+No, no, no. I got rid of them.
+The pills. I don't know why.
+
+Right.
+
+Well, if you hear from Colin,
+tell him to ring Kitty.
+
+OK. I've got to go.
+
+And that's why futurologists believe
+
+you'll be able to play
+the games of the future anywhere.
+
+On a bus, or the tube,
+in the palm of your hand.
+
+-Crispin.
+-Thanks, Leslie.
+
+Now, yesterday, following weeks
+of controversy and speculation,
+
+games company Tuckersoft announced
+it's going into liquidation.
+
+<i>So what went wrong?</i>
+
+<i>Just six months ago,</i>
+<i>Tuckersoft was riding high,</i>
+
+<i>with a string of hits topping the charts</i>
+
+<i>and mounting anticipation for their big</i>
+<i>Christmas release, Bandersnatch.</i>
+
+But Bandersnatch never appeared,
+
+following the arrest and subsequent
+murder charge against its creator,
+
+<i>19-year-old Stefan Butler,</i>
+
+<i>who stands accused</i>
+<i>of murdering his father</i>
+
+<i>following a psychological breakdown.</i>
+
+<i>This has raised questions</i>
+<i>about the judgment</i>
+
+<i>of Tuckersoft boss, Mohan Thakur.</i>
+
+It was his idea to do it alone.
+His decision.
+
+I wasn't to know he couldn't hack it.
+
+I mean, I know his dad's dead,
+rest his soul,
+
+but I'm a victim, too.
+Let's try to not forget that.
+
+<i>protÃ©gÃ© at the center of a mystery.</i>
+
+<i>Famed programmer Colin Ritman</i>
+<i>is still missing,</i>
+
+<i>having vanished without trace</i>
+<i>shortly before the killings.</i>
+
+<i>At the trial,</i>
+<i>Butler denied any involvement</i>
+
+<i>in Ritman's sudden disappearance,</i>
+
+<i>claiming he had seen Ritman</i>
+<i>committing suicide in a vision.</i>
+
+<i>Today, Tuckersoft closed its doors</i>
+<i>for good.</i>
+
+<i>And there was no sign of Bandersnatch.</i>
+
+[doorbell rings]
+
+[doorbell continues]
+
+[knocking at door]
+
+Well, you need a hand.
+
+Come on, lead me to it.
+
+-To what?
+-Bandersnatch.
+
+Where's your pit? Up there?
+
+
+You've gone right down the hole, mate.
+
+Right down it.
+
+I killed my dad.
+
+Right.
+
+So are you gonna let me go,
+or are you gonna kill me?
+
+I mean, it's your choice.
+
+In as much as you have any choice.
+
+I'm sorry.
+
+Alright. No point arguing about it.
+
+Not with that though. They sting.
+
+You got anything blunt?
+
+Stun me first.
+
+Bit more humane.
+
+Try this.
+
+
+See you in the next life, yeah?
+
+Come on, on me head.
+
+
+That really is fascinating.
+
+Although we've got many years to go
+before virtual reality
+
+becomes actual reality.
+
+-Crispin.
+-Thanks, Leslie.
+
+Now, six months ago,
+we were shocked to hear of the murder
+
+of famed programmer Colin Ritman,
+
+creator of Metl Hedd, Nohzdyve,
+and many other games.
+
+Today, his murderer is behind bars.
+
+But could the crime have been prevented?
+
+<i>In October of last year,</i>
+<i>Tuckersoft was riding high,</i>
+
+<i>with a string of hits topping the charts</i>
+
+<i>and a mounting anticipation for their big</i>
+<i>Christmas release, Bandersnatch.</i>
+
+But Bandersnatch never appeared,
+
+following the arrest and subsequent
+murder charge against its creator,
+
+<i>19-year-old Stefan Butler,</i>
+
+<i>who stands accused</i>
+<i>of murdering his father</i>
+
+<i>and his idol, Colin Ritman.</i>
+
+<i>This has raised questions</i>
+<i>about the judgment</i>
+
+<i>of Tuckersoft boss, Mohan Thakur.</i>
+
+It was his idea to do it alone.
+His decision.
+
+I wasn't to know he couldn't hack it.
+
+<i>I know Colin's dead,</i>
+<i>but I almost envy him that.</i>
+
+<i>He doesn't have to deal</i>
+<i>with all this [bleep].</i>
+
+<i>Tuckersoft closed its doors for good.</i>
+
+<i>And there was no sign of Bandersnatch.</i>
+
+That really is fascinating.
+
+Although we've got many years to go
+before virtual reality
+
+becomes actual reality.
+
+-Crispin.
+-Thanks, Leslie.
+
+Now, six months ago,
+we were shocked to hear of the murder
+
+of famed programmer Colin Ritman,
+
+creator of Metl Hedd, Nohzdyve,
+and many other games.
+
+Today, his murderer is behind bars.
+
+But could the crime have been prevented?
+
+<i>In October of last year,</i>
+<i>Tuckersoft was riding high,</i>
+
+<i>with a string of hits topping the charts</i>
+
+<i>and a mounting anticipation for their big</i>
+<i>Christmas release, Bandersnatch.</i>
+
+But Bandersnatch never appeared,
+
+following the arrest and subsequent
+murder charge against its creator,
+
+<i>19-year-old Stefan Butler,</i>
+
+<i>who stands accused</i>
+<i>of murdering his father</i>
+
+<i>and his idol, Colin Ritman.</i>
+
+<i>This has raised questions</i>
+<i>about the judgment</i>
+
+<i>of Tuckersoft boss, Mohan Thakur.</i>
+
+It was his idea to do it alone.
+His decision.
+
+I wasn't to know he couldn't hack it.
+
+<i>I know Colin's dead,</i>
+<i>but I almost envy him that.</i>
+
+<i>He doesn't have to deal</i>
+<i>with all this [bleep].</i>
+
+<i>Tuckersoft closed its doors for good.</i>
+
+<i>And there was no sign of Bandersnatch.</i>
+
+No, I'm alright. Thanks, though.
+
+Just thought I'd give you the choice.
+
+-Don't forget your tea.
+-Cheers.
+
+What have you done?
+
+I chose for you.
+
+Are you OK with that?
+
+Yeah. [laughs]
+
+
+
+but there's loads of them,
+all snaking off, like roots.
+
+And what you do on one path
+affects what happens on the other paths.
+
+Time is a construct.
+
+People think you can't go back
+and change things, but you can.
+
+That's what flashbacks are.
+
+They're invitations to go back
+and make different choices.
+
+When you make a decision,
+you think it's you doing it, but it's not.
+
+It's the spirit out there
+that's connected to our world
+
+that decides what we do
+and we just have to go along for the ride.
+
+Mirrors let you move through time.
+
+The government monitors people,
+
+they pay people to pretend
+to be your relatives,
+
+and they put drugs in your food
+and they film you
+
+There's messages in every game.
+
+Like Pac-Man,
+do you know what PAC stands for?
+
+P-A-C. Program and Control.
+
+He's Program and Control Man.
+
+The whole thing's a metaphor.
+
+He thinks he's got free will
+but really, he's trapped in a maze,
+
+in a system, all he can do is consume,
+
+he's pursued by demons
+that are probably just in his own head.
+
+And even if he does manage to escape
+by slipping out one side of the maze,
+
+what happens?
+He comes right back in the other side.
+
+People think it's a happy game,
+
+it's not a happy game,
+it's a fucking nightmare world
+
+and the worst thing is
+it's real and we live in it.
+
+It's all a code.
+
+If you listen closely,
+you can hear the numbers.
+
+There's a cosmic flowchart
+that dictates where you can
+
+and where you can't go.
+
+I've given you the knowledge.
+I've set you free.
+
+Do you understand?
+
+Maybe.
+
+Yes. Sort of.
+
+I'll show you what I mean.
+
+Come with me.
+
+We're on one path.
+
+Right now, me and you.
+
+And how one path ends is immaterial.
+
+It's how our decisions along that path
+affect the whole that matters.
+
+Do you believe me?
+
+-[sniggers] I don't know.
+-I'll prove it.
+
+One of us is going over.
+
+Over there.
+
+You'd die. You'd die.
+
+It wouldn't matter
+because there are other timelines, Stefan.
+
+How many times have you watched
+Pac-Man die?
+
+Doesn't bother him.
+
+He just tries again.
+
+One of us is jumping.
+
+So, who's it going to be?
+
+There's a nice breeze up here.
+
+So come on.
+
+Which one of us is jumping?
+
+So, that's how
+the wireframe models of today
+
+might provide the Hollywood entertainment
+of the future.
+
+-Crispin.
+-Thanks, Leslie.
+
+Now, yesterday, following weeks
+of controversy and speculation,
+
+games company Tuckersoft announced
+it's going into administration.
+
+<i>So, what went wrong?</i>
+
+<i>Just six months ago,</i>
+<i>Tuckersoft was riding high,</i>
+
+<i>with a string of hits topping the charts</i>
+
+<i>and mounting anticipation for their big</i>
+<i>Christmas release, Bandersnatch.</i>
+
+But Bandersnatch never appeared,
+
+following the arrest and subsequent
+murder charge against its creator,
+
+<i>19-year-old Stefan Butler,</i>
+
+<i>who stands accused</i>
+<i>of murdering his father</i>
+
+<i>following a psychological breakdown.</i>
+
+<i>This has raised questions</i>
+<i>about the judgment</i>
+
+<i>of Tuckersoft boss, Mohan Thakur.</i>
+
+It was his idea to do it alone.
+His decision.
+
+I wasn't to know he couldn't hack it.
+
+I mean, I know his dad's dead,
+rest his soul,
+
+but I'm a victim, too.
+Let's try to not forget that.
+
+<i>famed programmer Colin Ritman,</i>
+
+<i>believes there are important lessons</i>
+<i>to be learned from Butler's unravelling.</i>
+
+What would you say to Stefan,
+if he could hear you?
+
+I'd say try again.
+
+But he's in prison.
+
+<i>Only in this life.</i>
+
+<i>Colin Ritman was arrested</i>
+
+<i>for possession of controlled substances.</i>
+
+<i>Tuckersoft closed its doors for good.</i>
+<i>And there was no sign of Bandersnatch.</i>
+
+
+How's that for entertainment,
+you psychiatric fuck?
+
+Fucked your day up
+good and proper, didn't we?
+
+Me and my friend from the future! [laughs]
+
+With that in mind, I think it's important
+you stay on the pharmaceutical path
+
+at least for the next few months.
+
+I'm upping the dosage slightly.
+
+Stefan.
+
+Don't see this as a setback.
+
+You're not alone. We're in it together.
+
+One for all, and all...
+
+For one.
+
+If anything happens, just call me.
+
+You know the number.
+
+How was it?
+
+It was fine.
+
+-[banging]
+-Breathe. In, out.
+
+Breathe.
+
+[dad shushing]
+
+[Stefan cries]
+
+-No.
+-No?
+
+The boy's a clown.
+
+Well, tough tit-holes.
+
+You signed a contract,
+so don't be a pillock.
+
+<i>Do you want me go down there?</i>
+
+Pull your finger out.
+I expect it by the end of today. Sayonara!
+
+-Never rush an artist.
+-Oh, blow it out your bumhole.
+
+He needs to explore all possibilities.
+All realities.
+
+How about a reality
+where you get your feet off my table?
+
+Fucking "no." I'll show him fucking "no."
+
+["Relax" playing]
+
+Like Motown, but for computer games.
+
+-You heard it here first.
+-[Stefan] Colin Ritman.
+
+We've met before.
+
+-What's your answer?
+-No.
+
+Well done, mate. Speak to Dr. Haynes
+about it, and listen to her.
+
+-Well done, Stefan.
+-You sound like my dad.
+
+Oh.
+
+Would you like to talk about
+what happened with your mother?
+
+It can be helpful to revisit things.
+
+Even if you feel like
+you've done this before.
+
+You might discover something new.
+
+["Relax" playing]
+
+-Your Bander-what?
+-Bandersnatch.
+
+Is that your mother's?
+
+but for computer games.
+
+-[Stefan] Colin Ritman.
+-We've met before.
+
+-What's your answer?
+-No.
+
+-Bit of madness is what you need.
+-It was too...
+
+-Too?
+-Good to be true.
+
+-Are you coming or not?
+-[Stefan] No!
+
+Because of me
+she had to catch a later train.
+
+<i>at high speed...</i>
+
+you've been stuck in your room for weeks.
+
+Stefan.
+
+Will you talk to me?
+
+Look, I can't help if you just sit there
+and don't speak!
+
+["Relax" playing]
+
+-[Thakur] Motown for computer games.
+-[Stefan] Colin Ritman.
+
+-We've met before.
+-What's your answer?
+
+Bit of madness is what you need.
+
+-Are you coming or not?
+-[Stefan] No!
+
+Because of me
+she had to catch a later train.
+
+
+Stefan, will you talk to me?
+
+Dad, just fuck off!
+
+Get your coat. We're going for lunch.
+
+["Relax" playing]
+
+Motown for computer games.
+You heard it here first.
+
+
+We've met before.
+
+-It was too...
+-Too?
+
+-Good to be true.
+-Oh.
+
+-Are you coming or not?
+-[Stefan] No!
+
+
+Dad, just fuck off!
+
+My head is all over the place.
+I'm not in control.
+
+Don't see this as a setback.
+We're in it together.
+
+-One for all, and all...
+-For one.
+
+["Relax" playing]
+
+Motown for computer games.
+You heard it here first.
+
+
+We've met before.
+
+-It was too...
+-Too?
+
+-Good to be true.
+-Oh.
+
+-Are you coming or not?
+-[Stefan] No!
+
+
+Dad, just fuck off!
+
+You're in the hole.
+See you around.
+
+
+My head is all over the place.
+I'm not in control.
+
+Don't see this as a setback.
+We're in it together.
+
+-One for all, and all...
+-For one.
+
+["Relax" playing]
+
+
+
+We've met before.
+
+-Too?
+-Good to be true.
+
+-Are you coming or not?
+-[Stefan] No!
+
+
+Dad, just fuck off!
+
+Don't see this as a setback.
+We're in it together.
+
+-The deadline is today.
+-[Colin] Bit of inspiration maybe.
+
+<i>parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+["Relax" playing]
+
+
+
+We've met before.
+
+-Too?
+-Good to be true.
+
+-Are you coming or not?
+-[Stefan] No!
+
+
+Dad, just fuck off!
+
+<i>My head is all over the place.</i>
+
+-I'm just lost.
+-You're in the hole.
+
+See you around.
+
+
+Don't see this as a setback.
+We're in it together.
+
+-Where is Colin?
+-[Thakur] God knows.
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+<i>parallel realities at once.</i>
+
+<i>One reality for each possible course</i>
+<i>of action we might take in life.</i>
+
+["Relax" playing]
+
+
+
+-We've met before.
+-Well done, mate.
+
+-Are you coming or not?
+-[Stefan] No!
+
+
+Dad, just fuck off!
+
+My head is all over the place.
+I'm not in control.
+
+Don't see this as a setback.
+We're in it together.
+
+Stefan, mate, the deadline is today.
+
+-[Stefan] <i>I just need the weekend.</i>
+-[Colin] Bit of inspiration.
+
+<i>he had no control over his fate.</i>
+
+<i>You're just a puppet.</i>
+<i>So, why not commit murder?</i>
+
+<i>You're not in control.</i>
+
+["Relax" playing]
+
+
+
+-We've met before.
+-Well done, mate.
+
+-Are you coming or not?
+-[Stefan] No!
+
+
+Dad, just fuck off!
+
+
+You're in the hole.
+
+See you around.
+
+
+Don't see this as a setback.
+We're in it together.
+
+-Where is Colin?
+-[Thakur] God knows.
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+<i>he had no control over his fate.</i>
+
+<i>You're just a puppet.</i>
+<i>So, why not commit murder?</i>
+
+<i>You're not in control.</i>
+
+<i>...about what happened with your mother.</i>
+
+
+-You need to speak to her.
+-...about what happened with your mother?
+
+
+<i>Would you like to talk</i>
+<i>about what happened...</i>
+
+-[dad] <i>You need to speak to her.</i>
+<i>-...with your mother.</i>
+
+
+<i>Would you like to talk</i>
+<i>about what happened...</i>
+
+-[dad] <i>You need to speak to her.</i>
+<i>-...with your mother.</i>
+
+-[dad] <i>I'm concerned about you, OK?</i>
+-[Haynes] <i>Would you like...</i>
+
+<i>Give me a sign.</i>
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+Just give me a sign.
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+["Relax" playing]
+
+Would you like to talk about
+what happened with your mother?
+
+
+-Are you coming or not?
+-[Stefan] No!
+
+<i>Because of me,</i>
+<i>she had to catch a later train.</i>
+
+<i>the 8:45 train derailed at high speed</i>
+
+<i>outside Queenstown Road Station.</i>
+
+<i>Give me a sign.</i>
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+-<i>Give me a sign.</i>
+-[dad]<i> I'm concerned about you.</i>
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+-[dad] <i>I'm concerned about you.</i>
+<i>-Give me a sign.</i>
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+-[dad] <i>I'm concerned about you.</i>
+<i>-Give me a sign.</i>
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+
+<i>Just give me a sign.</i>
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Come on, if there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+<i>...about what happened with your mother.</i>
+
+<i>Take a breath. Stop it, Stefan.</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Take a breath. Stop it, Stefan.</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Take a breath. Stop it, Stefan.</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+-[dad]<i> You need to calm down.</i>
+-[Haynes] <i>Would you like...</i>
+
+["Relax" playing]
+
+like Motown, but for computer games.
+
+You heard it here first.
+
+-[Stefan] Colin Ritman.
+-We've met before.
+
+-What's your answer?
+-No.
+
+-Well done, mate.
+-That's great.
+
+You sound like my dad.
+
+Oh.
+
+Would you like to talk about
+what happened with your mother?
+
+<i>Take a breath.</i>
+
+<i>Stop it, Stefan. Stefan, stop it.</i>
+
+<i>Okay.</i>
+
+<i>Take a breath.</i>
+
+<i>Stop it, Stefan. Stefan, stop it.</i>
+
+<i>Okay.</i>
+
+<i>Take a breath.</i>
+
+<i>Stop it, Stefan. Stefan, stop it.</i>
+
+<i>Okay.</i>
+
+
+<i>Take a breath.</i>
+
+<i>Stop it, Stefan. Stefan, stop it.</i>
+
+<i>Okay.</i>
+
+<i>Take a breath.</i>
+
+<i>Stop it, Stefan. Stefan, stop it.</i>
+
+<i>Take a breath.</i>
+
+<i>Stop it, Stefan. Stefan, stop it.</i>
+
+
+-[dad]<i> You need to calm down.</i>
+-<i>I'm concerned about you, OK?</i>
+
+-<i>You need to speak to her.</i>
+<i>-Stop it, Stefan. Stefan, stop it.</i>
+
+-<i>You need to calm down.</i>
+<i>-I'm concerned about you, OK?</i>
+
+<i>Take a breath.</i>
+
+-<i>Stop it Stefan. Stefan, stop it.</i>
+-<i>You need to speak to her.</i>
+
+-<i>You need to calm down.</i>
+-<i>I'm concerned about you, OK?</i>
+
+<i>Take a breath.</i>
+
+-<i>Stop it Stefan. Stefan, stop it.</i>
+-<i>You need to speak to her.</i>
+
+-<i>You need to calm down.</i>
+-<i>I'm concerned about you, OK?</i>
+
+<i>Oh and hey I'm hiring this sound chip guy</i>
+<i>next week.</i>
+
+<i>So music we can take care of.</i>
+<i>All in-house.</i>
+
+<i>What do you reckon?</i>
+
+<i>Oh and hey I'm hiring this sound chip guy</i>
+<i>next week.</i>
+
+<i>So music we can take care of.</i>
+<i>All in-house.</i>
+
+<i>What do you reckon?</i>
+
+<i>Oh and hey I'm hiring this sound chip guy</i>
+<i>next week.</i>
+
+<i>So music we can take care of.</i>
+<i>All in-house.</i>
+
+<i>What do you reckon?</i>
+
+<i>Oh and hey I'm hiring this sound chip guy</i>
+<i>next week.</i>
+
+<i>So music we can take care of.</i>
+<i>All in-house.</i>
+
+<i>...about what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Would you like...</i>
+
+<i>...about what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>in your food, and they film you.</i>
+
+<i>...about what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Would you like...</i>
+
+<i>...about what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+[Stefan pants]
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+[Stefan pants]
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+[Stefan pants]
+
+["Relax" playing]
+
+-[Thakur] Motown for computer games.
+-[Stefan] Colin Ritman.
+
+-We've met before.
+-It was too...
+
+-Too?
+-Good to be true.
+
+-Are you coming or not?
+-[Stefan] No!
+
+Because of me,
+she had to catch a later train.
+
+<i>at high speed...</i>
+
+Stefan, will you talk to me?
+
+Dad, just fuck off!
+
+
+Please.
+
+Alright.
+
+<i>Take a breath.</i>
+
+<i>Stop it, Stefan. Stefan, stop it.</i>
+
+<i>Okay.</i>
+
+<i>You need to calm down.</i>
+<i>Take a breath.</i>
+
+<i>Stop it, Stefan. Stefan, stop it.</i>
+
+<i>Okay.</i>
+
+<i>You need to calm down.</i>
+<i>Take a breath.</i>
+
+<i>Stop it, Stefan. Stefan, stop it.</i>
+
+<i>Okay.</i>
+
+<i>You need to calm down.</i>
+
+-<i>Just give me a sign.</i>
+-[dad] <i>You need to calm down.</i>
+
+<i>Come on, If there's someone there,Â just</i>
+<i>give meÂ a sign. Will you give me a sign?</i>
+
+
+<i>Okay.</i>
+
+-<i>Just give me a sign.</i>
+-[dad] <i>You need to calm down.</i>
+
+<i>Come on. If there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+
+<i>Okay.</i>
+
+-[dad] <i>You need to calm down.</i>
+-<i>Just give me a sign.</i>
+
+
+<i>Come on. If there's someone there, just</i>
+<i>give me a sign. Will you give me a sign?</i>
+
+<i>Okay.</i>
+
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>Pac-Man die?</i>
+
+<i>Doesn't bother him. He just tries again.</i>
+
+["Relax" playing]
+
+like Motown, but for computer games.
+
+You heard it here first.
+
+
+We've met before.
+
+-No.
+-We met before.
+
+I told you I'd see you around,
+and I was right.
+
+-So, come on, what's your answer?
+-No.
+
+-Well done, mate.
+-That's great.
+
+You sound like my dad.
+
+Oh.
+
+Would you like to talk about
+what happened with your mother?
+
+<i>Pac-Man die?</i>
+
+<i>Doesn't bother him. He just tries again.</i>
+
+["Relax" playing]
+
+-[Thakur] Motown for computer games.
+-[Stefan] Colin Ritman.
+
+We've met before.
+
+-No.
+-We met before.
+
+I told you I'd see you around,
+and I was right.
+
+So, come on, what's your answer?
+
+A bit of madness is what you need.
+
+Stefan, will you talk to me?
+
+Dad, just fuck off!
+
+
+-This is Dr. Haynes' place.
+-You need to speak to her.
+
+You're under pressure,
+you're not sleeping, you're not eating.
+
+<i>What do I do?</i>
+
+<i>What do I do?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Pac-Man die?</i>
+
+<i>Doesn't bother him. He just tries again.</i>
+
+-["Relax" playing]
+-[Stefan gasps]
+
+
+We've met before.
+
+-No.
+-We met before.
+
+I told you I'd see you around,
+and I was right.
+
+Would you like to talk about
+what happened with your mother?
+
+
+-Are you coming or not?
+-[Stefan] No!
+
+<i>Because of me,</i>
+<i>she had to catch a later train.</i>
+
+<i>the 8:45 train derailed at high speed</i>
+
+<i>outside Queenstown Road Station.</i>
+
+
+<i>...to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>You might discover something new.</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>You might discover something new.</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>You might discover something new.</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>You might discover something new.</i>
+
+<i>Would you like to talk about what...</i>
+
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+
+<i>What do I do?</i>
+
+<i>What do I do?</i>
+
+<i>What do I do?</i>
+
+<i>What do I do?</i>
+
+
+
+[Door closes and locks]
+
+[Door closes and locks]
+
+[Door closes and locks]
+
+[Door closes and locks]
+
+[Door closes and locks]
+
+[Door closes and locks]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<i>...to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>You might discover something new.</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>You might discover something new.</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>You might discover something new.</i>
+
+<i>Would you like to talk about</i>
+<i>what happened with your mother?</i>
+
+<i>You might discover something new.</i>
+
+<i>Would you like to talk about...</i>
+
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+<i>I'm concerned about you, OK?</i>
+
+<i>You need to speak to her.</i>
+
+
+<i>What do I do?</i>
+
+<i>What do I do?</i>
+
+<i>What do I do?</i>
+
+<i>What do I do?</i>
+
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+<i>Oh, come on, if there's someone there,</i>
+<i>just give me a sign.</i>
+
+<i>Will you give me a sign?</i>
+
+<i>Just give me a sign.</i>
+
+
+["Relax" playing]
+
+-[Stefan] Colin Ritman.
+-We've met before.
+
+-Are you coming or not?
+-[Stefan] No!
+
+-[man] <i>The 8:45 derailed...</i>
+-Fuck off!
+
+<i>I'm not in control.</i>
+
+
+-The deadline is today.
+-[Stefan]<i> I just need the weekend.</i>
+
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+["Relax" playing]
+
+
+-We've met before.
+-Fuck off!
+
+<i>I'm not in control.</i>
+
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+<i>Pac-Man die?</i>
+
+<i>Doesn't bother him. He just tries again.</i>
+
+["Relax" playing]
+
+
+We've met before.
+
+-No.
+-We met before.
+
+I told you I'd see you around,
+and I was right.
+
+
+-Are you coming or not?
+-[Stefan] No!
+
+-Fuck off!
+
+-<i>I'm not in control.</i>
+-[Haynes] We're in it together.
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+<i>Pac-Man die?</i>
+
+<i>Doesn't bother him. He just tries again.</i>
+
+["Relax" playing]
+
+
+We've met before.
+
+-No.
+-We met before.
+
+I told you I'd see you around,
+and I was right.
+
+Dad, just fuck off!
+
+-<i>I'm not in control.</i>
+-[Haynes] <i>We're in it together.</i>
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+-["Relax" playing]
+-[Stefan gasps]
+
+-[Stefan] Colin Ritman.
+-We've met before.
+
+-Are you coming or not?
+-[Stefan] No!
+
+-[man] <i>The 8:45 derailed...</i>
+-Fuck off!
+
+<i>My head is all over the place.</i>
+
+I'm just lost.
+
+You're in the hole.
+
+See you around.
+
+
+
+-Where is Colin?
+-[Thakur] God knows.
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+["Relax" playing]
+
+
+-We've met before.
+-Fuck off!
+
+<i>My head is all over the place.</i>
+
+I'm just lost.
+
+You're in the hole.
+
+See you around.
+
+
+
+-Where is Colin?
+-[Thakur] God knows.
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+["Relax" playing]
+
+-[Stefan] Colin Ritman.
+-We've met before.
+
+-Are you coming or not?
+-[Stefan] No!
+
+-[man] <i>The 8:45 derailed...</i>
+-Fuck off!
+
+<i>I'm not in control.</i>
+
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+["Relax" playing]
+
+
+-We've met before.
+-Fuck off!
+
+<i>I'm not in control.</i>
+
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+<i>Pac-Man die?</i>
+
+<i>Doesn't bother him. He just tries again.</i>
+
+["Relax" playing]
+
+
+We've met before.
+
+-No.
+-We met before.
+
+I told you I'd see you around,
+and I was right.
+
+
+-Are you coming or not?
+-[Stefan] No!
+
+-[man] <i>The 8:45 derailed...</i>
+-Fuck off!
+
+<i>I'm not in control.</i>
+
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+<i>Pac-Man die?</i>
+
+<i>Doesn't bother him. He just tries again.</i>
+
+["Relax" playing]
+
+
+We've met before.
+
+-No.
+-We met before.
+
+I told you I'd see you around,
+and I was right.
+
+Dad, just fuck off!
+
+<i>I'm not in control.</i>
+
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+["Relax" playing]
+
+-Colin Ritman.
+-We've met before.
+
+-Are you coming or not?
+-[Stefan] No!
+
+-[man] <i>The 8:45 derailed...</i>
+-Fuck off!
+
+<i>My head is all over the place.</i>
+
+I'm just lost.
+
+You're in the hole.
+
+See you around.
+
+
+
+-Where is Colin?
+-[Thakur] God knows.
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+["Relax" playing]
+
+
+-We've met before.
+-Fuck off!
+
+<i>My head is all over the place.</i>
+
+I'm just lost.
+
+You're in the hole.
+
+See you around.
+
+
+
+-Where is Colin?
+-[Thakur] God knows.
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+<i>So, why not commit murder?</i>
+
+
+Who's there?
+
+Who are you?
+
+Just give me a sign.
+
+Oh, come on, if there's someone there,
+just give me a sign.
+
+Will you give me a sign?
+
+I know there's someone there.
+Just give me a fucking sign!
+
+["Relax" playing]
+
+-[Stefan] Colin Ritman.
+-We've met before.
+
+-Are you coming or not?
+-[Stefan] No!
+
+-[man] <i>The 8:45 derailed...</i>
+-Fuck off!
+
+-<i>I'm not in control.</i>
+-[Haynes] <i>We're in it together.</i>
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+
+<i>So, why not commit murder?</i>
+
+Just give me a fucking sign!
+
+Stefan.
+
+
+-We've met before.
+-Fuck off!
+
+-<i>I'm not in control.</i>
+-[Haynes] <i>We're in it together.</i>
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+
+<i>So, why not commit murder?</i>
+
+Just give me a fucking sign!
+
+Stefan.
+
+<i>Pac-Man die?</i>
+
+<i>Doesn't bother him. He just tries again.</i>
+
+["Relax" playing]
+
+
+We've met before.
+
+-No.
+-We met before.
+
+I told you I'd see you around,
+and I was right.
+
+Dad, just fuck off!
+
+My head is all over the place.
+
+-I'm not in control.
+-[Haynes] <i>We're in it together.</i>
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+
+<i>So, why not commit murder?</i>
+
+Just give me a fucking sign!
+
+Stefan.
+
+["Relax" playing]
+
+-[Stefan] Colin Ritman.
+-We've met before.
+
+-Are you coming or not?
+-[Stefan] No!
+
+-[man] <i>The 8:45 derailed...</i>
+-Fuck off!
+
+<i>My head is all over the place.</i>
+
+You're in the hole.
+
+See you around.
+
+
+
+-Where is Colin?
+-[Thakur] God knows.
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+<i>So, why not commit murder?</i>
+
+Just give me a fucking sign!
+
+Stefan.
+
+["Relax" playing]
+
+
+-We've met before.
+-Fuck off!
+
+<i>My head is all over the place.</i>
+
+You're in the hole.
+
+See you around.
+
+
+
+-Where is Colin?
+-[Thakur] God knows.
+
+-The deadline is today.
+-[Stefan] <i>I just need the weekend.</i>
+
+<i>So, why not commit murder?</i>
+
+Just give me a fucking sign!
+
+Stefan.
+
+
+
+[video game theme song plays]
+
+
+[modem connecting to a phone line]
+

@@ -1,0 +1,5258 @@
+1
+00:01:48,920 --> 00:01:50,274
+[man on PA]
+<i>We have touchdown.</i>
+
+2
+00:01:50,360 --> 00:01:53,512
+<i>Donor is on site.
+I repeat, donor is on site.</i>
+
+3
+00:01:54,360 --> 00:01:56,352
+[indistinct shouting]
+
+4
+00:02:00,720 --> 00:02:02,712
+The donor signed the releases.
+We're clear?
+
+5
+00:02:02,800 --> 00:02:04,439
+We are cleared.
+
+6
+00:02:09,480 --> 00:02:11,836
+[man on PA] <i>Attention,
+donor en route to main lab.</i>
+
+7
+00:02:11,920 --> 00:02:13,036
+<i>All techs and personnel,</i>
+
+8
+00:02:13,120 --> 00:02:15,510
+<i>please report
+to the operating theater.</i>
+
+9
+00:02:17,040 --> 00:02:19,077
+<i>I repeat, all techs and personnel</i>
+
+10
+00:02:19,200 --> 00:02:21,237
+<i>please report
+to the operating theater.</i>
+
+11
+00:02:30,600 --> 00:02:31,600
+[man] Ready?
+
+12
+00:02:31,602 --> 00:02:33,159
+[clangs]
+
+13
+00:02:36,520 --> 00:02:38,318
+[William] Time since cardiac death?
+
+14
+00:02:38,800 --> 00:02:40,792
+Uh, seven hours, 15 minutes.
+
+15
+00:02:44,040 --> 00:02:45,110
+Proceed.
+
+16
+00:02:45,200 --> 00:02:46,953
+[man] Stand by for commencement.
+
+17
+00:02:54,000 --> 00:02:55,753
+[woman] Stand by for neural probe.
+
+18
+00:02:58,400 --> 00:03:02,280
+Uh, neural tissue intact.
+Protoplasmic integrity looks good.
+
+19
+00:03:02,360 --> 00:03:04,192
+We have a viable cortex.
+Do you concur?
+
+20
+00:03:05,600 --> 00:03:06,600
+I concur.
+
+21
+00:03:07,600 --> 00:03:09,478
+Ball's in your court, William.
+
+22
+00:03:14,200 --> 00:03:15,395
+This man is dead.
+
+23
+00:03:16,840 --> 00:03:19,719
+Yet his neurological data
+is still accessible.
+
+24
+00:03:20,720 --> 00:03:27,399
+We are going to take his biological brain,
+imprint it into that synthetic brain,
+
+25
+00:03:27,480 --> 00:03:29,153
+to replicate the human mind.
+
+26
+00:03:30,240 --> 00:03:33,233
+Ed, boot the mapping sequence.
+
+27
+00:03:38,600 --> 00:03:41,593
+- [woman] Positioning optimal.
+- [computer] <i>Target acquired.</i>
+
+28
+00:03:41,680 --> 00:03:43,239
+[Ed] Lachrymal targeting complete.
+
+29
+00:03:44,440 --> 00:03:46,193
+Stand by to engage neural probe.
+
+30
+00:03:46,280 --> 00:03:47,794
+[woman] Stand by for neural probe.
+
+31
+00:03:48,560 --> 00:03:50,711
+- [man] Stand by.
+- [electronics whirring]
+
+32
+00:03:51,480 --> 00:03:52,755
+[equipment clangs]
+
+33
+00:03:53,760 --> 00:03:55,797
+[woman] Initiating ocular transfer.
+
+34
+00:04:02,080 --> 00:04:03,309
+[man] Mem drive is online.
+
+35
+00:04:08,720 --> 00:04:10,916
+[beep]
+
+36
+00:04:11,400 --> 00:04:13,073
+Okay, mapping confirmed.
+
+37
+00:04:13,160 --> 00:04:14,674
+Remove the donor.
+
+38
+00:04:24,080 --> 00:04:26,390
+Stand by to initiate neural imprint.
+
+39
+00:04:30,960 --> 00:04:32,394
+[electronic pulsing]
+
+40
+00:04:33,000 --> 00:04:34,320
+Initiate.
+
+41
+00:04:35,400 --> 00:04:37,631
+[electronic humming]
+
+42
+00:05:01,960 --> 00:05:06,273
+Scott, try protocol Alpha 9,
+please, in Parietal.
+
+43
+00:05:07,840 --> 00:05:09,593
+[electronic pulsing]
+
+44
+00:05:09,680 --> 00:05:10,680
+Thank you.
+
+45
+00:05:16,600 --> 00:05:19,160
+Temporal annex zone online,
+looking good.
+
+46
+00:05:23,120 --> 00:05:25,032
+Frontal online looking good.
+
+47
+00:05:26,800 --> 00:05:27,800
+Okay.
+
+48
+00:05:30,600 --> 00:05:34,560
+New theta, connectome protocol 345.
+
+49
+00:05:35,640 --> 00:05:38,200
+Beta one, two-phase application.
+
+50
+00:05:38,720 --> 00:05:39,915
+[electronic chirping]
+
+51
+00:05:40,000 --> 00:05:42,834
+P1 site parameters.
+
+52
+00:05:42,920 --> 00:05:45,435
+AP insular. Primary action.
+
+53
+00:05:47,720 --> 00:05:52,511
+Stasis modality, exceptional.
+And translate.
+
+54
+00:05:53,520 --> 00:05:54,636
+Finalize.
+
+55
+00:05:55,520 --> 00:05:56,520
+Confirm.
+
+56
+00:05:57,080 --> 00:05:58,594
+All states, go.
+
+57
+00:05:58,680 --> 00:06:00,592
+All functions, go.
+
+58
+00:06:00,680 --> 00:06:01,750
+[monitor chirping]
+
+59
+00:06:01,880 --> 00:06:03,633
+[electronics pulsing]
+
+60
+00:06:11,920 --> 00:06:13,195
+Imprint complete.
+
+61
+00:06:15,080 --> 00:06:17,993
+Margaret, energize the body.
+
+62
+00:06:19,520 --> 00:06:22,115
+- [Margaret keying]
+- [electronics humming]
+
+63
+00:06:26,400 --> 00:06:27,400
+[circuitry chirping]
+
+64
+00:06:36,360 --> 00:06:37,476
+Sergeant Kelly.
+
+65
+00:06:38,600 --> 00:06:40,000
+[circuitry sparking softly]
+
+66
+00:06:41,440 --> 00:06:44,160
+[metallic clicking]
+
+67
+00:06:48,000 --> 00:06:49,275
+Do you hear me?
+
+68
+00:06:52,040 --> 00:06:53,076
+Sergeant.
+
+69
+00:06:54,080 --> 00:06:56,151
+[metallic joints clicking]
+
+70
+00:07:01,040 --> 00:07:02,280
+[distorted male voice]
+<i>Who am I?</i>
+
+71
+00:07:07,280 --> 00:07:08,600
+[William] Sergeant.
+
+72
+00:07:08,680 --> 00:07:13,232
+You've transitioned to a synthetic body.
+
+73
+00:07:13,640 --> 00:07:15,518
+[Kelly gasps]
+
+74
+00:07:16,080 --> 00:07:17,080
+[breathing erratically]
+
+75
+00:07:17,840 --> 00:07:20,719
+[William] Try to relax.
+You're coming online.
+
+76
+00:07:21,800 --> 00:07:23,280
+It'll take some time.
+
+77
+00:07:26,160 --> 00:07:27,230
+[Kelly] <i>Huh?</i>
+
+78
+00:07:27,880 --> 00:07:28,799
+<i>Who am I?</i>
+
+79
+00:07:28,801 --> 00:07:32,555
+[William] Sergeant. Try to relax.
+
+80
+00:07:33,160 --> 00:07:34,674
+[Kelly, furiously] <i>Who am I?</i>
+
+81
+00:07:35,480 --> 00:07:36,675
+Sergeant.
+
+82
+00:07:37,040 --> 00:07:38,235
+[Kelly gasping]
+
+83
+00:07:40,960 --> 00:07:42,917
+[William] Sergeant! Sergeant Kelly!
+
+84
+00:07:43,000 --> 00:07:44,992
+- [Kelly] <i>Who am I?</i>
+- [William] Sergeant Kelly!
+
+85
+00:07:45,080 --> 00:07:46,355
+[Kelly groaning]
+
+86
+00:07:46,440 --> 00:07:48,079
+Turn it off. The imprint failed.
+
+87
+00:07:49,720 --> 00:07:51,712
+- [beeping]
+- It severed the override!
+
+88
+00:07:51,800 --> 00:07:53,553
+- [man] No!
+- [circuits sparking]
+
+89
+00:07:53,640 --> 00:07:55,120
+[Ed gasping]
+
+90
+00:07:55,200 --> 00:07:56,680
+[Kelly groaning]
+
+91
+00:07:59,520 --> 00:08:00,920
+[Kelly] <i>Who am I?</i>
+
+92
+00:08:01,040 --> 00:08:02,997
+[electronic humming fades]
+
+93
+00:08:08,680 --> 00:08:11,593
+[circuits sparking softly]
+
+94
+00:08:13,560 --> 00:08:16,439
+[indistinct announcements on PA]
+
+95
+00:08:16,520 --> 00:08:18,398
+- It spoke.
+- They've done that before.
+
+96
+00:08:18,480 --> 00:08:21,757
+No, they've vocalized before,
+made noises, this one spoke.
+
+97
+00:08:21,840 --> 00:08:24,416
+I can't tell you how amazing
+that would have been eight months ago.
+
+98
+00:08:24,440 --> 00:08:26,477
+Today, it just annoys the shit out of me.
+
+99
+00:08:26,920 --> 00:08:29,310
+It's progress, undeniable progress.
+
+100
+00:08:29,400 --> 00:08:31,596
+In my world,
+progress is measured in results,
+
+101
+00:08:31,680 --> 00:08:33,000
+which we don't have.
+
+102
+00:08:33,080 --> 00:08:36,994
+The truth is, I'm not sure
+how much longer I can keep the lights on.
+
+103
+00:08:37,120 --> 00:08:42,559
+Turns out, colossal and repeated failure
+tends to spook shareholders.
+
+104
+00:08:42,640 --> 00:08:43,676
+Who knew?
+
+105
+00:08:43,760 --> 00:08:45,513
+This is my life's work.
+
+106
+00:08:45,600 --> 00:08:51,278
+I moved my family here, made sacrifices.
+I promise you, I am this close.
+
+107
+00:08:51,360 --> 00:08:54,797
+Well, it just isn't close enough,
+is it, Bill?
+
+108
+00:08:55,720 --> 00:08:58,360
+But don't let it ruin your weekend
+or anything.
+
+109
+00:09:00,120 --> 00:09:01,440
+[watch beeps]
+
+110
+00:09:02,120 --> 00:09:03,315
+Oh, shit.
+
+111
+00:09:22,640 --> 00:09:23,640
+I'm sorry I'm late.
+
+112
+00:09:24,120 --> 00:09:25,296
+- It's okay.
+- How's it going, honey?
+
+113
+00:09:25,320 --> 00:09:28,119
+The kids aren't even packed yet.
+They're wild. [giggles]
+
+114
+00:09:28,720 --> 00:09:30,632
+[pop music playing]
+
+115
+00:09:33,160 --> 00:09:34,230
+Daddy!
+
+116
+00:09:35,120 --> 00:09:36,315
+Zoe!
+
+117
+00:09:37,800 --> 00:09:40,076
+How's it going? How was your day?
+
+118
+00:09:40,160 --> 00:09:41,160
+Matt!
+
+119
+00:09:44,000 --> 00:09:45,480
+[Matt] Not in the house, I know.
+
+120
+00:09:45,720 --> 00:09:47,800
+The troll will not stop spying
+on me with that thing.
+
+121
+00:09:48,280 --> 00:09:50,556
+- It is called a spy drone.
+- Okay.
+
+122
+00:09:50,800 --> 00:09:53,713
+So, go pack now
+and don't jump on the furniture.
+
+123
+00:09:54,320 --> 00:09:55,320
+[door opens]
+
+124
+00:09:55,400 --> 00:09:57,039
+<i>- Hola,</i> Foster family.
+- [Zoe] Ed!
+
+125
+00:09:57,120 --> 00:09:58,395
+Hey, nugget.
+
+126
+00:09:58,480 --> 00:10:00,597
+Can you feed him once a day?
+But don't overfeed him.
+
+127
+00:10:00,680 --> 00:10:02,558
+- I'll show you the food. Come on.
+- Okay.
+
+128
+00:10:03,800 --> 00:10:05,519
+Hey, uh, you talked to Jones?
+
+129
+00:10:06,520 --> 00:10:07,795
+Something like that.
+
+130
+00:10:07,880 --> 00:10:09,656
+Okay, well, what did he say?
+Did you get fired?
+
+131
+00:10:09,680 --> 00:10:12,115
+- What's "fired"?
+- No, I didn't get fired.
+
+132
+00:10:12,600 --> 00:10:13,795
+- Who got fired?
+- Daddy.
+
+133
+00:10:13,880 --> 00:10:15,792
+- What?
+- Nobody got fired.
+
+134
+00:10:15,880 --> 00:10:18,156
+Well, I thought you were a goner, man.
+
+135
+00:10:18,240 --> 00:10:19,799
+Wait, what's going on?
+
+136
+00:10:19,880 --> 00:10:23,032
+Uh, our test subject ripped
+itself apart earlier today.
+
+137
+00:10:23,120 --> 00:10:24,793
+- It was pretty brutal.
+- What's "brutal"?
+
+138
+00:10:28,920 --> 00:10:29,990
+It spoke, Mona.
+
+139
+00:10:30,520 --> 00:10:32,398
+345, the test subject.
+
+140
+00:10:33,200 --> 00:10:34,714
+It actually spoke.
+
+141
+00:10:35,000 --> 00:10:37,834
+It spoke?
+If it could speak, then it could feel.
+
+142
+00:10:38,240 --> 00:10:39,913
+We shut it down as soon as possible.
+
+143
+00:10:40,000 --> 00:10:41,856
+You can't keep bringing people
+back from the dead
+
+144
+00:10:41,880 --> 00:10:43,519
+until you have this stuff worked out.
+
+145
+00:10:44,920 --> 00:10:48,675
+How many times have you had a patient
+flatline in ER and you brought them back?
+
+146
+00:10:48,760 --> 00:10:50,911
+My patients don't rip themselves apart.
+
+147
+00:10:51,000 --> 00:10:53,231
+She's got a point there, William.
+[chuckles]
+
+148
+00:10:54,320 --> 00:10:55,993
+I should probably, uh...
+
+149
+00:10:56,320 --> 00:10:59,119
+find Sophie for the fish situation.
+
+150
+00:11:01,040 --> 00:11:03,475
+William, honey, I believe in you.
+
+151
+00:11:04,040 --> 00:11:05,713
+But I don't like where this is headed.
+
+152
+00:11:06,120 --> 00:11:07,236
+People could suffer.
+
+153
+00:11:08,000 --> 00:11:10,993
+The first heart transplant
+patient survived 18 days.
+
+154
+00:11:11,280 --> 00:11:13,158
+He suffered. Was that wrong?
+
+155
+00:11:13,680 --> 00:11:15,114
+No. No.
+
+156
+00:11:15,600 --> 00:11:17,600
+[William] I'm on the verge
+of a breakthrough, Mona.
+
+157
+00:11:17,880 --> 00:11:20,270
+Soldiers, accident victims, Alzheimer's.
+
+158
+00:11:20,360 --> 00:11:22,352
+Lives that won't have to be cut short.
+
+159
+00:11:22,440 --> 00:11:25,956
+But something's preventing the synthetic
+from achieving watershed consciousness.
+
+160
+00:11:26,080 --> 00:11:29,710
+Maybe there's more that
+makes us human, like a soul.
+
+161
+00:11:31,680 --> 00:11:34,798
+We're the sum total of what has happened
+to us and how we've processed it.
+
+162
+00:11:34,920 --> 00:11:37,958
+That's what makes us us.
+It's all neurochemistry.
+
+163
+00:11:38,040 --> 00:11:41,397
+Do you really believe that?
+That's all I am?
+
+164
+00:11:41,840 --> 00:11:42,840
+Your children?
+
+165
+00:11:44,040 --> 00:11:46,396
+Just pathways, electrical signals
+and chemistry?
+
+166
+00:11:47,040 --> 00:11:49,430
+You have kids that love you
+and a wife that adores you.
+
+167
+00:11:50,240 --> 00:11:51,913
+And we have a scientist.
+
+168
+00:11:59,880 --> 00:12:01,280
+Do you think I should quit?
+
+169
+00:12:01,360 --> 00:12:02,589
+- [Zoe] Hi.
+- [both] Hi.
+
+170
+00:12:04,240 --> 00:12:07,677
+I'm just worried you're losing sight
+of what's right and wrong.
+
+171
+00:12:11,800 --> 00:12:12,995
+I won't.
+
+172
+00:12:13,920 --> 00:12:14,920
+Trust me.
+
+173
+00:12:18,680 --> 00:12:19,680
+[Ed] Okay, have fun.
+
+174
+00:12:20,240 --> 00:12:22,391
+Oh, I'm gonna get you back.
+
+175
+00:12:23,320 --> 00:12:24,754
+What's the boat called again?
+
+176
+00:12:25,040 --> 00:12:27,475
+It's... [sighs]
+It's called the <i>Cheatin' Hussy.</i>
+
+177
+00:12:27,600 --> 00:12:29,114
+- [Zoe] Daddy!
+- [Ed] Uh...
+
+178
+00:12:29,200 --> 00:12:32,159
+Keys are in the bait box.
+[chuckles] We don't do that.
+
+179
+00:12:32,240 --> 00:12:33,656
+- Daddy!
+- [William] All right, thanks.
+
+180
+00:12:33,680 --> 00:12:35,831
+- We'll see you Sunday night.
+- Yeah. Okay, man.
+
+181
+00:12:36,640 --> 00:12:37,640
+Everybody in?
+
+182
+00:12:38,400 --> 00:12:39,400
+[Mona] Seat belts.
+
+183
+00:12:39,402 --> 00:12:43,360
+The Foster family ferry to Funtown
+is ready to sail.
+
+184
+00:12:43,440 --> 00:12:44,874
+- [Zoe] Yay!
+- [Matt] Really, Dad?
+
+185
+00:12:44,960 --> 00:12:48,590
+- Actually...
+- Hoist the mainsail, Ahab.
+
+186
+00:12:54,560 --> 00:12:58,520
+[thunder rumbles, cracks]
+
+187
+00:13:01,120 --> 00:13:04,113
+I spy, with my little eye,
+something that is...
+
+188
+00:13:04,200 --> 00:13:06,590
+Bored, embarrassed?
+Possibly adopted?
+
+189
+00:13:07,280 --> 00:13:08,680
+That would be me.
+
+190
+00:13:10,600 --> 00:13:13,354
+Hey, Dad, when we get there,
+can we go fishing on the boat?
+
+191
+00:13:13,800 --> 00:13:16,679
+- Absolutely.
+- Are we almost there?
+
+192
+00:13:16,760 --> 00:13:19,195
+Well, we could just wait
+for the boat to float by.
+
+193
+00:13:20,560 --> 00:13:21,914
+You know what they say.
+
+194
+00:13:22,000 --> 00:13:24,310
+If you don't like the weather,
+just wait five minutes.
+
+195
+00:13:24,400 --> 00:13:25,880
+[thunder rumbles]
+
+196
+00:13:27,000 --> 00:13:29,515
+I can't see anything.
+Can you see anything?
+
+197
+00:13:29,600 --> 00:13:30,880
+I feel like we should pull over.
+
+198
+00:13:31,240 --> 00:13:33,232
+- [truck horn blaring]
+- [Zoe and Mona scream]
+
+199
+00:13:40,000 --> 00:13:41,150
+Okay? Everybody okay?
+
+200
+00:13:41,240 --> 00:13:44,551
+- Holy shit! Holy shit!
+- That was close.
+
+201
+00:13:44,640 --> 00:13:47,314
+- [thunder cracks]
+- [hail pelting]
+
+202
+00:13:47,800 --> 00:13:49,200
+- Whoa!
+- [Mona gasps]
+
+203
+00:13:49,280 --> 00:13:50,839
+- [glass shatters]
+- [Zoe] Daddy!
+
+204
+00:13:50,920 --> 00:13:52,800
+- [William] Hold on!
+- [Sophie] Oh, my God! Mom!
+
+205
+00:13:53,200 --> 00:13:54,429
+[Zoe] Mommy!
+
+206
+00:13:54,560 --> 00:13:56,313
+[children screaming]
+
+207
+00:13:59,640 --> 00:14:01,199
+- [Sophie] Zoe, hold on!
+- [Zoe] Mommy!
+
+208
+00:14:02,600 --> 00:14:04,353
+[Zoe] Daddy! [shrieks]
+
+209
+00:14:07,320 --> 00:14:08,913
+[glass shatters]
+
+210
+00:14:25,680 --> 00:14:29,879
+[water sloshes]
+
+211
+00:14:33,080 --> 00:14:35,754
+Mona. Mona.
+
+212
+00:14:37,320 --> 00:14:38,879
+Kids?
+
+213
+00:14:44,120 --> 00:14:45,440
+Oh, God
+
+214
+00:14:47,640 --> 00:14:49,518
+Sophie! Matt!
+
+215
+00:14:49,600 --> 00:14:51,557
+Zoe! Zoe!
+
+216
+00:14:52,360 --> 00:14:54,079
+[William groans]
+
+217
+00:15:18,960 --> 00:15:20,440
+Oh, Zoe!
+
+218
+00:15:21,320 --> 00:15:23,391
+Oh, my baby girl!
+
+219
+00:15:28,880 --> 00:15:31,315
+[sobbing]
+
+220
+00:15:43,280 --> 00:15:46,000
+Mona! Mona!
+
+221
+00:16:09,520 --> 00:16:11,079
+[dialing]
+
+222
+00:16:12,560 --> 00:16:14,597
+[line ringing]
+
+223
+00:16:25,480 --> 00:16:26,480
+[sets brake]
+
+224
+00:16:28,880 --> 00:16:30,519
+[car alert chiming]
+
+225
+00:16:30,760 --> 00:16:31,830
+William?
+
+226
+00:16:32,520 --> 00:16:34,079
+What's up? What's going on?
+
+227
+00:16:34,160 --> 00:16:35,913
+[William] I told you, no questions.
+
+228
+00:16:36,000 --> 00:16:37,195
+Where is it?
+
+229
+00:16:37,600 --> 00:16:39,034
+It's all in the back.
+
+230
+00:17:03,320 --> 00:17:04,320
+Oh, shit.
+
+231
+00:17:05,760 --> 00:17:09,549
+William.
+What the hell happened, man?
+
+232
+00:17:11,920 --> 00:17:14,116
+I need you to do something for me, Ed.
+
+233
+00:17:18,040 --> 00:17:20,157
+Oh, no. No way.
+
+234
+00:17:20,240 --> 00:17:22,152
+- I can't.
+- They are not gone!
+
+235
+00:17:22,800 --> 00:17:23,995
+Not yet.
+
+236
+00:17:24,480 --> 00:17:26,836
+William, we need to call the police.
+
+237
+00:17:27,640 --> 00:17:29,438
+Or something, man. I mean...
+
+238
+00:17:32,480 --> 00:17:33,914
+William. What the hell?
+
+239
+00:17:34,000 --> 00:17:35,912
+Boot the mapping sequence.
+
+240
+00:17:36,000 --> 00:17:38,515
+[Ed] We cannot do this, man.
+
+241
+00:17:40,120 --> 00:17:43,113
+Boot the mapping sequence, Ed!
+
+242
+00:17:55,160 --> 00:17:57,277
+[device beeping]
+
+243
+00:18:05,040 --> 00:18:06,599
+[monitor hums]
+
+244
+00:18:06,680 --> 00:18:10,151
+[computer] <i>Edward Whittle.
+Access granted.</i>
+
+245
+00:18:21,120 --> 00:18:22,270
+[Ed] Okay.
+
+246
+00:18:23,160 --> 00:18:27,313
+Just because I think I can do it,
+doesn't necessarily mean I <i>can,</i> okay?
+
+247
+00:18:27,400 --> 00:18:29,995
+There is a reason
+human cloning is banned.
+
+248
+00:18:30,080 --> 00:18:32,754
+And just because it's hard to do
+is only half the issue here.
+
+249
+00:18:32,880 --> 00:18:34,109
+Just let me know what we need.
+
+250
+00:18:34,200 --> 00:18:36,760
+[sighs] God. Look, William,
+I know you've been through hell,
+
+251
+00:18:36,840 --> 00:18:39,355
+but you need to understand
+something here, okay?
+
+252
+00:18:39,440 --> 00:18:42,956
+The first few animals
+I cloned came out blind.
+
+253
+00:18:43,040 --> 00:18:44,713
+Their skulls were deformed.
+
+254
+00:18:44,800 --> 00:18:47,269
+Their internal organs weren't
+internal anymore, man.
+
+255
+00:18:47,360 --> 00:18:49,192
+That's what a mistake here means.
+
+256
+00:18:49,280 --> 00:18:50,509
+And if we make a mistake,
+
+257
+00:18:51,400 --> 00:18:54,120
+I need to know
+if you're prepared to terminate.
+
+258
+00:18:56,440 --> 00:18:58,397
+We just won't make a mistake.
+
+259
+00:18:58,960 --> 00:19:00,076
+[sighs]
+
+260
+00:19:01,320 --> 00:19:02,549
+Okay, uh...
+
+261
+00:19:03,480 --> 00:19:04,834
+[sighs]
+
+262
+00:19:05,160 --> 00:19:06,435
+Those are pods.
+
+263
+00:19:08,280 --> 00:19:10,317
+Can I clone a human being in one?
+
+264
+00:19:10,400 --> 00:19:12,960
+Technically, yeah, it's possible.
+
+265
+00:19:13,560 --> 00:19:17,110
+But, look, William, if this works,
+
+266
+00:19:17,200 --> 00:19:20,318
+their brains are gonna
+come out like infants,
+
+267
+00:19:20,680 --> 00:19:22,034
+okay, a total blank slate,
+
+268
+00:19:22,120 --> 00:19:24,635
+and not to rub salt
+in the wound here tonight,
+
+269
+00:19:24,720 --> 00:19:27,155
+but you haven't exactly
+worked out all the kinks
+
+270
+00:19:27,240 --> 00:19:28,674
+for transferring a mind.
+
+271
+00:19:28,760 --> 00:19:31,256
+Do I need to remind you of
+what's happened every time you've tried?
+
+272
+00:19:31,280 --> 00:19:34,830
+We've transferred biological to biological
+on cloned animals.
+
+273
+00:19:34,920 --> 00:19:37,833
+- Rats, monkeys.
+- Not human beings, man.
+
+274
+00:19:37,920 --> 00:19:39,718
+You've seen it. We can do it.
+
+275
+00:19:40,920 --> 00:19:43,480
+What if something horrible goes wrong?
+
+276
+00:19:46,000 --> 00:19:47,957
+Something already has.
+
+277
+00:20:01,120 --> 00:20:04,716
+Ed, nobody can know what happened.
+
+278
+00:20:09,000 --> 00:20:11,310
+[whispering]
+I need you to get rid of the bodies.
+
+279
+00:20:14,760 --> 00:20:16,479
+[nervously] William, I don't know if I...
+
+280
+00:20:16,560 --> 00:20:18,517
+I'm begging you. I can't do it.
+
+281
+00:20:26,480 --> 00:20:28,233
+[scoffs] Okay.
+
+282
+00:20:28,320 --> 00:20:30,789
+Okay, I'll, uh...
+I'll meet you at the house.
+
+283
+00:20:43,280 --> 00:20:44,475
+[door clangs shut]
+
+284
+00:20:50,400 --> 00:20:52,551
+[truck beeping]
+
+285
+00:20:54,600 --> 00:20:57,160
+[beeping]
+
+286
+00:21:01,520 --> 00:21:03,034
+[truck engine stops]
+
+287
+00:21:03,760 --> 00:21:05,240
+[lock clangs]
+
+288
+00:21:10,200 --> 00:21:11,200
+What's in the barrels?
+
+289
+00:21:11,560 --> 00:21:13,233
+Uh...
+
+290
+00:21:13,320 --> 00:21:15,312
+Components, building blocks.
+
+291
+00:21:15,400 --> 00:21:17,596
+Amino acids, fructose, accelerants.
+
+292
+00:21:17,680 --> 00:21:20,036
+You know, just a ton of primordial ooze.
+
+293
+00:21:20,120 --> 00:21:23,397
+Everything you need to build a... "you,"
+you know?
+
+294
+00:21:29,920 --> 00:21:31,320
+There's only three pods.
+
+295
+00:21:33,160 --> 00:21:34,799
+Three's not four. I need four pods.
+
+296
+00:21:34,880 --> 00:21:36,917
+Yeah, I know. Well, there weren't four.
+
+297
+00:21:37,720 --> 00:21:39,473
+I need four pods, Ed.
+
+298
+00:21:39,560 --> 00:21:42,758
+I can maybe get another one,
+next quarter, maybe.
+
+299
+00:21:43,760 --> 00:21:45,831
+Do not tell me there aren't four!
+
+300
+00:21:45,920 --> 00:21:47,513
+What do you want me to do here?
+
+301
+00:21:47,600 --> 00:21:49,956
+Okay, these pods are $1.7 million each.
+
+302
+00:21:50,040 --> 00:21:54,512
+I'm not a freakin' genie here.
+I can't sneeze out another pod.
+
+303
+00:22:01,280 --> 00:22:02,839
+Sorry, William.
+
+304
+00:22:38,280 --> 00:22:39,509
+[Ed] William?
+
+305
+00:22:41,160 --> 00:22:42,355
+You all right?
+
+306
+00:22:45,480 --> 00:22:46,675
+[William] Pick a name.
+
+307
+00:22:51,240 --> 00:22:53,880
+Oh, no.
+No, no, no, no, no, no.
+
+308
+00:22:53,960 --> 00:22:55,394
+There aren't enough pods.
+
+309
+00:22:57,320 --> 00:22:58,595
+Pick a name.
+
+310
+00:22:58,960 --> 00:23:00,792
+No way, man. You pick it.
+
+311
+00:23:01,200 --> 00:23:04,159
+Please? Please, goddamn it.
+Please, pick a name!
+
+312
+00:23:04,240 --> 00:23:05,240
+William, no, no!
+
+313
+00:23:05,360 --> 00:23:06,840
+- Pick the name!
+- No!
+
+314
+00:23:06,920 --> 00:23:10,231
+This one's on you.
+You wanted this. You pick it.
+
+315
+00:23:12,480 --> 00:23:14,199
+You pick the damn name.
+
+316
+00:23:25,040 --> 00:23:27,396
+[sobbing]
+
+317
+00:23:53,600 --> 00:23:55,876
+[indistinct voices]
+
+318
+00:23:59,280 --> 00:24:02,432
+[Ed] You gotta watch the levels.
+The levels are everything.
+
+319
+00:24:03,080 --> 00:24:04,719
+I've seeded the pods with their DNA.
+
+320
+00:24:04,800 --> 00:24:08,032
+But you got to keep an eye on them
+all the time. Never leave them alone.
+
+321
+00:24:08,120 --> 00:24:11,079
+If the chemical balance isn't maintained,
+the clones will die,
+
+322
+00:24:11,160 --> 00:24:14,437
+and we can't just start over,
+so, you need to watch the levels.
+
+323
+00:24:14,520 --> 00:24:17,274
+Okay, and they'll all be done
+at the same time, right?
+
+324
+00:24:20,920 --> 00:24:21,920
+[Ed] Okay.
+
+325
+00:24:22,400 --> 00:24:25,996
+Uh... Ah, shit.
+This just got a lot more difficult.
+
+326
+00:24:31,880 --> 00:24:34,076
+Tell me you can do that.
+
+327
+00:24:34,680 --> 00:24:37,673
+Uh... yeah, yeah, I just gotta
+compensate with something.
+
+328
+00:24:37,760 --> 00:24:39,797
+- Ed?
+- Yeah, yeah, yeah, yeah.
+
+329
+00:24:39,880 --> 00:24:41,917
+Yeah, it can be done.
+
+330
+00:24:42,960 --> 00:24:45,156
+Oh, uh, where is your backup generator?
+
+331
+00:24:46,120 --> 00:24:47,440
+In case we lose power.
+
+332
+00:24:47,760 --> 00:24:51,197
+- I don't have a generator, Ed.
+- Okay.
+
+333
+00:24:51,520 --> 00:24:53,637
+Is there something I should know?
+
+334
+00:24:53,760 --> 00:24:56,514
+Yeah. The pods can't lose power.
+
+335
+00:24:56,640 --> 00:24:59,792
+Ever. If there is a seven-second
+power interruption,
+
+336
+00:24:59,880 --> 00:25:01,336
+well, then,
+that will throw off the levels,
+
+337
+00:25:01,360 --> 00:25:03,096
+and I just told you
+how important those things are.
+
+338
+00:25:03,120 --> 00:25:06,033
+- So, yeah, we need a generator.
+- It's 2:00 a.m.
+
+339
+00:25:06,600 --> 00:25:07,600
+Nothing's open.
+
+340
+00:25:07,602 --> 00:25:10,035
+Well, shit, man, I don't know.
+What do you want from me?
+
+341
+00:25:10,120 --> 00:25:12,589
+I can't think of everything. All right?
+
+342
+00:25:12,680 --> 00:25:17,755
+I am so far in over my head at this point.
+And so are you, man. You know that?
+
+343
+00:25:22,640 --> 00:25:24,120
+Is there anything else?
+
+344
+00:25:25,200 --> 00:25:27,237
+Uh, no, I think that's it.
+
+345
+00:25:33,280 --> 00:25:36,478
+[motorbike revving]
+
+346
+00:25:38,720 --> 00:25:41,189
+[Ed] That is a lot of batteries.
+
+347
+00:25:48,720 --> 00:25:50,518
+In 17 days, they're coming out.
+
+348
+00:25:51,720 --> 00:25:54,600
+You got till then to figure out
+how to give them watershed consciousness.
+
+349
+00:25:55,160 --> 00:25:58,756
+If, by some miracle,
+we can pull this off...
+
+350
+00:26:02,080 --> 00:26:03,400
+what about Zoe?
+
+351
+00:26:19,120 --> 00:26:21,316
+Every memory they had is in here.
+
+352
+00:26:24,240 --> 00:26:25,799
+I'll delete her.
+
+353
+00:26:32,720 --> 00:26:35,189
+I'll delete the memory of her
+on the drives.
+
+354
+00:26:35,440 --> 00:26:37,750
+[scoffs] You can do that?
+
+355
+00:26:38,880 --> 00:26:41,190
+[William]
+Humans lose memories all the time.
+
+356
+00:26:44,120 --> 00:26:46,237
+Beta amyloid proteins.
+
+357
+00:26:48,320 --> 00:26:50,198
+Neurofibrillary tangles.
+
+358
+00:26:55,280 --> 00:26:57,715
+I'll corrupt the memory
+on the mem drive.
+
+359
+00:26:58,560 --> 00:27:00,791
+Upload the new neural map.
+
+360
+00:27:06,080 --> 00:27:07,753
+They'll never remember her.
+
+361
+00:27:11,280 --> 00:27:13,112
+We are going straight to hell.
+
+362
+00:27:20,320 --> 00:27:21,470
+Thank you.
+
+363
+00:27:22,920 --> 00:27:23,956
+Good luck, man.
+
+364
+00:28:04,800 --> 00:28:05,936
+- [bicycle bell rings]
+- [Zoe] <i>Mommy, look!</i>
+
+365
+00:28:05,960 --> 00:28:08,111
+- [indistinct talking]
+- [Zoe] <i>Daddy!</i>
+
+366
+00:28:08,200 --> 00:28:09,200
+[William] <i>Zoe!</i>
+
+367
+00:28:09,240 --> 00:28:12,312
+[indistinct conversations,
+family laughing]
+
+368
+00:28:12,400 --> 00:28:14,119
+[Zoe] <i>Ready, Daddy?</i>
+
+369
+00:28:14,200 --> 00:28:15,475
+<i>Matty stole my unicorn.</i>
+
+370
+00:28:15,560 --> 00:28:17,916
+[Mona] <i>Oh! Zoe, honey...</i>
+
+371
+00:28:18,000 --> 00:28:19,434
+[voices fade]
+
+372
+00:28:23,000 --> 00:28:27,358
+[all singing] <i>Happy birthday to you</i>
+
+373
+00:28:27,440 --> 00:28:31,480
+<i>Happy birthday to you</i>
+
+374
+00:28:31,560 --> 00:28:33,995
+<i>Happy birthday, dear Zoe...</i>
+
+375
+00:28:34,080 --> 00:28:35,799
+[Zoe] <i>Hi, Daddy. Hi, Mommy.</i>
+
+376
+00:28:36,520 --> 00:28:40,196
+[singing] <i>Happy birthday to you</i>
+
+377
+00:28:40,320 --> 00:28:41,879
+[Zoe shrieks]
+
+378
+00:28:58,640 --> 00:28:59,710
+[straining]
+
+379
+00:29:03,800 --> 00:29:07,555
+- [banging continues]
+- [William groaning]
+
+380
+00:29:09,720 --> 00:29:11,120
+[doorbell rings]
+
+381
+00:29:14,120 --> 00:29:15,759
+[rings]
+
+382
+00:29:16,840 --> 00:29:18,069
+[pounding on door]
+
+383
+00:29:22,680 --> 00:29:24,717
+- [doorbell rings]
+- [pounding]
+
+384
+00:29:25,880 --> 00:29:27,314
+[monitor beeps]
+
+385
+00:29:30,800 --> 00:29:33,190
+- [pounding]
+- [man] Mr. Foster?
+
+386
+00:29:33,280 --> 00:29:34,839
+It's the police.
+
+387
+00:29:39,840 --> 00:29:40,840
+Good morning, officers.
+
+388
+00:29:41,800 --> 00:29:42,995
+Do you speak Spanish?
+
+389
+00:29:43,080 --> 00:29:45,879
+- No. Sorry.
+- Well, pardon my English.
+
+390
+00:29:45,960 --> 00:29:47,997
+I'm Officer Perez. This is Rodriguez.
+
+391
+00:29:48,080 --> 00:29:50,470
+We're following up
+on some recent car robberies.
+
+392
+00:29:50,600 --> 00:29:52,920
+Somebody stole the batteries
+out of every car on the block.
+
+393
+00:29:54,400 --> 00:29:55,754
+How odd.
+
+394
+00:29:55,840 --> 00:29:57,354
+Perez: Did they get you, too?
+
+395
+00:29:57,480 --> 00:29:59,631
+No. No, they didn't.
+
+396
+00:30:00,040 --> 00:30:01,793
+Ah, you're the lucky guy.
+
+397
+00:30:02,640 --> 00:30:03,710
+Yeah.
+
+398
+00:30:05,160 --> 00:30:06,640
+Nothing out of the ordinary?
+
+399
+00:30:08,240 --> 00:30:11,438
+Well, if you see anything
+or anybody suspicious, let us know.
+
+400
+00:30:12,200 --> 00:30:13,395
+Will do, Officer.
+
+401
+00:30:13,880 --> 00:30:15,155
+Have a good day.
+
+402
+00:30:16,480 --> 00:30:18,597
+[officers speaking indistinctly]
+
+403
+00:30:22,280 --> 00:30:24,840
+Okay. All right.
+
+404
+00:30:25,920 --> 00:30:27,274
+That happened.
+
+405
+00:30:33,680 --> 00:30:34,750
+[Jones] Edward.
+
+406
+00:30:39,480 --> 00:30:41,517
+I feel compelled to comment
+
+407
+00:30:41,600 --> 00:30:44,434
+on the noticeable lack
+of Bill around here.
+
+408
+00:30:45,600 --> 00:30:47,910
+Wouldn't happen to know
+anything about that, would you?
+
+409
+00:30:48,520 --> 00:30:51,638
+Uh, well, just that he has pneumonia.
+
+410
+00:30:51,720 --> 00:30:53,313
+Uh, the walking pneumonia.
+
+411
+00:30:53,400 --> 00:30:55,596
+- Walking?
+- With pneumonia, yeah.
+
+412
+00:30:55,680 --> 00:30:57,751
+[Jones] Would you convey
+a message for me?
+
+413
+00:30:58,360 --> 00:31:00,431
+I spoke to the board today.
+
+414
+00:31:00,520 --> 00:31:05,390
+Unless 345 works, we're getting shut down
+at the end of the quarter.
+
+415
+00:31:05,800 --> 00:31:07,519
+Shut down?
+
+416
+00:31:07,960 --> 00:31:09,838
+Would you like a nice reference letter?
+
+417
+00:31:11,360 --> 00:31:13,477
+Uh... yes.
+
+418
+00:31:13,600 --> 00:31:15,876
+Uh, I'm sure he'll be in soon.
+
+419
+00:31:15,960 --> 00:31:19,476
+You know William.
+He's got a really strong immune system.
+
+420
+00:31:20,440 --> 00:31:21,760
+[beeping]
+
+421
+00:31:28,720 --> 00:31:33,112
+- [William keying]
+- [monkey chattering softly]
+
+422
+00:31:33,720 --> 00:31:36,519
+[computer] <i>Test subject 221 updated.</i>
+
+423
+00:31:36,600 --> 00:31:40,640
+<i>Transfer of consciousness from
+original subject to clone successful.</i>
+
+424
+00:31:42,120 --> 00:31:44,999
+Animal consciousness can be transferred.
+
+425
+00:31:48,240 --> 00:31:49,240
+Why not human?
+
+426
+00:31:51,160 --> 00:31:53,197
+- What am I missing?
+- [monitor chirping]
+
+427
+00:31:53,760 --> 00:31:55,353
+- [phone autodialing]
+- [line ringing]
+
+428
+00:31:55,440 --> 00:31:57,716
+[cell phone buzzing]
+
+429
+00:31:59,800 --> 00:32:01,154
+- [Ed] <i>William.</i>
+- Yeah.
+
+430
+00:32:01,240 --> 00:32:03,709
+Hey, I just, uh, talked to Jones,
+
+431
+00:32:03,800 --> 00:32:06,076
+and he said that
+if we don't get 345 working,
+
+432
+00:32:06,160 --> 00:32:07,674
+<i>- he's gonna shut us down.</i>
+- Oh, shit.
+
+433
+00:32:07,760 --> 00:32:11,037
+<i>Yeah, there is $8. 7 million
+worth of Bionyne equipment</i>
+
+434
+00:32:11,120 --> 00:32:12,793
+<i>in your basement, and, uh...</i>
+
+435
+00:32:12,880 --> 00:32:15,520
+if he shuts us down,
+they're gonna come looking for it,
+
+436
+00:32:15,600 --> 00:32:17,796
+and you wanna know
+the scientific term for that?
+
+437
+00:32:17,880 --> 00:32:20,270
+Royally and utterly boned.
+
+438
+00:32:20,640 --> 00:32:21,994
+<i>So, what are we gonna do?</i>
+
+439
+00:32:22,080 --> 00:32:24,037
+- Okay, get over here.
+<i>- What?</i>
+
+440
+00:32:24,120 --> 00:32:26,840
+- [stammers] Where? There?
+<i>- Yeah, here.</i>
+
+441
+00:32:26,920 --> 00:32:28,639
+- Why?
+<i>- I gotta go to work.</i>
+
+442
+00:32:28,720 --> 00:32:31,096
+- You have to watch the pods!
+<i>- Okay, man, you don't have to yell at me.</i>
+
+443
+00:32:31,120 --> 00:32:32,120
+I'm not...
+
+444
+00:32:33,760 --> 00:32:34,796
+Okay, so I was yelling.
+
+445
+00:32:34,880 --> 00:32:37,395
+Look, just hurry up, man,
+and, uh, you have pneumonia.
+
+446
+00:32:37,480 --> 00:32:38,880
+- What?
+- [phone clicks]
+
+447
+00:32:40,120 --> 00:32:43,352
+- [beep]
+- [computer] <i>Dr. William Foster.</i>
+
+448
+00:32:43,480 --> 00:32:44,709
+<i>Access granted.</i>
+
+449
+00:32:53,080 --> 00:32:57,040
+There he is. Hi, Bill.
+Jeez, you look like hell.
+
+450
+00:32:57,160 --> 00:32:58,992
+[coughing]
+
+451
+00:32:59,120 --> 00:33:01,430
+Can I get you anything?
+Maybe something herbal?
+
+452
+00:33:01,520 --> 00:33:02,874
+What do you have, exactly?
+
+453
+00:33:04,520 --> 00:33:05,479
+Pneumonia.
+
+454
+00:33:05,481 --> 00:33:06,960
+What a trouper!
+
+455
+00:33:11,880 --> 00:33:13,109
+Ah, you're here.
+
+456
+00:33:13,640 --> 00:33:15,393
+I need you to review the data links
+
+457
+00:33:15,480 --> 00:33:17,915
+before I can get to work
+on 345's neural junction specs.
+
+458
+00:33:18,000 --> 00:33:19,878
+- Yeah, look, not now.
+- Jones is all over us.
+
+459
+00:33:19,960 --> 00:33:22,350
+William, we're waiting on your okay
+of the MF interface
+
+460
+00:33:22,440 --> 00:33:23,760
+for the server replacements.
+
+461
+00:33:23,840 --> 00:33:24,990
+Get in line.
+
+462
+00:33:25,560 --> 00:33:27,677
+Okay, okay.
+
+463
+00:33:29,080 --> 00:33:30,434
+Are you all right?
+
+464
+00:33:32,560 --> 00:33:34,631
+I'm fine. Why?
+
+465
+00:33:35,640 --> 00:33:36,915
+No reason.
+
+466
+00:34:17,320 --> 00:34:18,720
+[house door opens]
+
+467
+00:34:19,840 --> 00:34:22,992
+- Hello.
+- Oh, I'm so sorry about Matt.
+
+468
+00:34:25,640 --> 00:34:26,835
+You don't remember me.
+
+469
+00:34:26,960 --> 00:34:28,633
+Matt's teacher. Mrs. Barnes?
+
+470
+00:34:28,720 --> 00:34:31,076
+Oh, I can explain.
+
+471
+00:34:31,160 --> 00:34:34,517
+Your cousin told me.
+Sorry to come by unannounced.
+
+472
+00:34:34,600 --> 00:34:36,512
+But Matt hadn't been to school
+in a few days
+
+473
+00:34:36,600 --> 00:34:38,440
+and I couldn't get your wife
+on her cell phone.
+
+474
+00:34:39,320 --> 00:34:41,880
+And I know we're not supposed
+to have favorites, but...
+
+475
+00:34:42,600 --> 00:34:44,671
+Well, I hope that clears everything up.
+
+476
+00:34:44,840 --> 00:34:45,840
+Mm-hmm.
+
+477
+00:34:46,280 --> 00:34:48,670
+- Happy holidays.
+- Happy holidays.
+
+478
+00:34:56,400 --> 00:34:57,959
+- Hey, is she gone?
+- What happened?
+
+479
+00:34:58,600 --> 00:35:00,478
+[Ed] She said she had
+to use the bathroom.
+
+480
+00:35:00,560 --> 00:35:02,711
+She was banging on the door
+like a psychopath.
+
+481
+00:35:02,800 --> 00:35:04,176
+I don't know. What was I supposed to do?
+
+482
+00:35:04,200 --> 00:35:07,637
+- What did you say?
+- I said Matt had chicken pox
+
+483
+00:35:07,720 --> 00:35:09,837
+and that he went to stay
+with his grandparents.
+
+484
+00:35:09,960 --> 00:35:11,792
+His grandparents are dead, Ed.
+
+485
+00:35:12,760 --> 00:35:15,434
+- How am I gonna explain that?
+- I don't know, William.
+
+486
+00:35:15,520 --> 00:35:18,877
+Don't drag me into your
+giant sucking hole of lies, okay?
+
+487
+00:35:18,960 --> 00:35:21,680
+You didn't call the school,
+make something up?
+
+488
+00:35:21,920 --> 00:35:22,920
+No.
+
+489
+00:35:23,680 --> 00:35:25,353
+What about the clinic that Mona works at?
+
+490
+00:35:26,760 --> 00:35:27,910
+It's been five days.
+
+491
+00:35:28,000 --> 00:35:31,357
+You didn't think that anyone would notice
+your entire family was missing?
+
+492
+00:35:32,280 --> 00:35:33,999
+I've had a lot of things on my mind, Ed.
+
+493
+00:35:34,080 --> 00:35:36,595
+Yeah. Sorry, man, I just...
+
+494
+00:35:37,080 --> 00:35:38,719
+You're gonna have to deal with that.
+
+495
+00:35:38,800 --> 00:35:39,800
+How are they?
+
+496
+00:35:41,080 --> 00:35:42,719
+They're a foot taller.
+
+497
+00:36:02,200 --> 00:36:04,157
+[phone chiming]
+
+498
+00:36:05,200 --> 00:36:06,159
+Wow.
+
+499
+00:36:06,161 --> 00:36:07,799
+[chiming continues]
+
+500
+00:36:12,480 --> 00:36:13,516
+Really?
+
+501
+00:36:14,520 --> 00:36:16,079
+[chiming stops]
+
+502
+00:36:32,440 --> 00:36:35,558
+[messages pinging]
+
+503
+00:37:10,960 --> 00:37:11,960
+[message pings]
+
+504
+00:37:15,280 --> 00:37:16,714
+Hello, Juan.
+
+505
+00:37:20,000 --> 00:37:21,195
+I don't think so.
+
+506
+00:37:35,560 --> 00:37:37,176
+[man] You think they're really
+gonna shut us down?
+
+507
+00:37:37,200 --> 00:37:40,398
+[Margaret] All I know is we need this
+robot ready before the next donor arrives.
+
+508
+00:37:40,480 --> 00:37:43,075
+- [man] Well, where's William?
+- [sparks zapping]
+
+509
+00:37:45,720 --> 00:37:47,552
+[computer beeping]
+
+510
+00:38:00,880 --> 00:38:04,590
+- [electronic pulses]
+- [alert beeping]
+
+511
+00:38:07,320 --> 00:38:10,711
+[pod bubbling softly]
+
+512
+00:38:17,760 --> 00:38:19,399
+[dull pounding on glass]
+
+513
+00:38:47,480 --> 00:38:49,915
+[indistinct conversation]
+
+514
+00:39:07,560 --> 00:39:09,233
+What am I missing?
+
+515
+00:39:10,000 --> 00:39:11,673
+[car approaches]
+
+516
+00:39:12,720 --> 00:39:14,552
+[car door opens and closes]
+
+517
+00:39:15,880 --> 00:39:18,554
+- [car door closes]
+- [car alarm chirps]
+
+518
+00:39:27,760 --> 00:39:29,035
+[doorbell rings]
+
+519
+00:39:31,000 --> 00:39:34,198
+Ah, Jesus, man, you look like
+you're up to nefarious shit.
+
+520
+00:39:34,280 --> 00:39:35,336
+And that is not a good look
+
+521
+00:39:35,360 --> 00:39:38,797
+for someone who's actually
+up to nefarious shit, by the way.
+
+522
+00:39:39,160 --> 00:39:41,914
+- I'm not ready.
+- No, I said 17 days.
+
+523
+00:39:42,000 --> 00:39:43,434
+It's been 17 days.
+
+524
+00:39:43,520 --> 00:39:45,079
+There is no "I'm not ready" here.
+
+525
+00:39:45,160 --> 00:39:46,160
+Ed!
+
+526
+00:39:48,840 --> 00:39:50,069
+Ed.
+
+527
+00:39:51,320 --> 00:39:52,320
+Ed!
+
+528
+00:39:53,200 --> 00:39:54,236
+[Ed gasps]
+
+529
+00:39:54,840 --> 00:39:55,840
+Shit.
+
+530
+00:39:56,160 --> 00:39:57,276
+Ed.
+
+531
+00:39:58,400 --> 00:40:00,835
+Ed. Do you see that?
+
+532
+00:40:01,840 --> 00:40:03,240
+I still don't know why it happens.
+
+533
+00:40:03,760 --> 00:40:07,310
+If I don't know what causes it, how can I
+be certain it won't happen to them?
+
+534
+00:40:07,400 --> 00:40:09,153
+Yeah, well, Christ, man,
+
+535
+00:40:09,240 --> 00:40:11,471
+you should have thought
+about that 17 days ago.
+
+536
+00:40:11,560 --> 00:40:15,839
+The accelerants follow
+the DNA profile precisely, okay?
+
+537
+00:40:15,920 --> 00:40:18,913
+You keep them in the tanks,
+they keep aging.
+
+538
+00:40:19,000 --> 00:40:20,957
+Your wife, uh,
+two weeks from now,
+
+539
+00:40:21,040 --> 00:40:22,838
+cancer maybe.
+
+540
+00:40:22,920 --> 00:40:24,195
+Your daughter, menopause.
+
+541
+00:40:24,280 --> 00:40:27,000
+Your son, I don't know,
+male pattern baldness
+
+542
+00:40:27,080 --> 00:40:28,400
+and a droopy old man sack.
+
+543
+00:40:28,480 --> 00:40:32,713
+My point is, in a couple of days,
+even if you do figure this out,
+
+544
+00:40:32,800 --> 00:40:34,837
+they will have aged years
+
+545
+00:40:34,920 --> 00:40:37,640
+beyond the age they were
+when they died.
+
+546
+00:40:38,080 --> 00:40:39,594
+How are you gonna explain that?
+
+547
+00:40:41,760 --> 00:40:44,992
+[laughs] How are you not freaking out
+right now, William?
+
+548
+00:40:45,800 --> 00:40:47,871
+- I'm trying to think.
+- [Ed] Okay, good.
+
+549
+00:40:47,960 --> 00:40:50,316
+Yeah, sure, you think.
+I'll think, too.
+
+550
+00:40:50,400 --> 00:40:52,596
+I'll think about what's it like in jail,
+
+551
+00:40:52,720 --> 00:40:57,351
+or when Bionyne sues us
+for $30 billion, or...
+
+552
+00:40:57,440 --> 00:40:58,669
+What? What are you doing?
+
+553
+00:41:03,360 --> 00:41:05,431
+I'll sedate them, induce a coma.
+
+554
+00:41:06,240 --> 00:41:08,835
+It'll keep their minds in a blank state...
+
+555
+00:41:09,720 --> 00:41:11,040
+till I figure it out.
+
+556
+00:41:11,800 --> 00:41:13,519
+What if you don't figure it out?
+
+557
+00:41:13,600 --> 00:41:16,559
+You can't keep them sedated
+for more than 72 hours, tops.
+
+558
+00:41:16,640 --> 00:41:19,758
+After that, you're gonna have
+to make a very tough decision.
+
+559
+00:41:22,360 --> 00:41:23,635
+Drain the pod.
+
+560
+00:41:28,200 --> 00:41:29,714
+[alarm sounding]
+
+561
+00:41:31,520 --> 00:41:33,239
+[Mona gasps]
+
+562
+00:41:43,040 --> 00:41:45,236
+[breathes deeply]
+
+563
+00:41:49,200 --> 00:41:53,991
+[Ed] Got her?
+Whoa! She's slippery, man.
+
+564
+00:41:54,080 --> 00:41:55,080
+[Mona groaning]
+
+565
+00:41:55,400 --> 00:41:56,675
+Hold her!
+
+566
+00:41:56,760 --> 00:41:59,036
+[Mona groans]
+
+567
+00:42:11,160 --> 00:42:12,160
+[Ed] Holy shit.
+
+568
+00:42:13,120 --> 00:42:14,156
+[chuckles]
+
+569
+00:42:14,240 --> 00:42:15,594
+I did it. We did it.
+
+570
+00:42:17,320 --> 00:42:18,754
+She's perfect, man.
+
+571
+00:42:21,000 --> 00:42:23,080
+It's better than successful.
+I mean, this is perfect.
+
+572
+00:42:23,680 --> 00:42:24,830
+Holy shit.
+
+573
+00:42:29,560 --> 00:42:30,560
+Okay.
+
+574
+00:42:32,200 --> 00:42:34,760
+This should keep their bodies
+fed for a while.
+
+575
+00:42:34,840 --> 00:42:38,197
+And, uh,
+drop some more off tomorrow.
+
+576
+00:42:39,880 --> 00:42:41,109
+Thank you.
+
+577
+00:42:42,560 --> 00:42:44,199
+You got it.
+
+578
+00:42:49,000 --> 00:42:50,434
+You got three days, man.
+
+579
+00:42:52,760 --> 00:42:55,912
+Yeah. I'll see you tomorrow.
+
+580
+00:42:59,120 --> 00:43:00,156
+Yeah.
+
+581
+00:43:00,640 --> 00:43:02,120
+Hey, we made clones today.
+
+582
+00:43:04,200 --> 00:43:05,839
+You can add that to your resume.
+
+583
+00:43:18,760 --> 00:43:21,639
+[William] <i>Margaret, energize the body.</i>
+
+584
+00:43:23,600 --> 00:43:26,798
+<i>Sergeant Kelly. Do you hear me?</i>
+
+585
+00:43:26,880 --> 00:43:30,078
+[Kelly groans] <i>Who am I?</i>
+
+586
+00:43:31,040 --> 00:43:33,350
+[Kelly breathing erratically] <i>Who am I?</i>
+
+587
+00:43:51,480 --> 00:43:53,039
+[alert chimes]
+
+588
+00:43:58,200 --> 00:43:59,554
+<i>Sergeant.</i>
+
+589
+00:43:59,640 --> 00:44:01,279
+[Kelly breathing erratically]
+
+590
+00:44:02,320 --> 00:44:03,515
+<i>Sergeant.</i>
+
+591
+00:44:03,600 --> 00:44:07,116
+- [Kelly screaming]
+- [William] <i>Turn it off.</i>
+
+592
+00:44:07,200 --> 00:44:08,395
+<i>The imprint failed.</i>
+
+593
+00:44:08,480 --> 00:44:09,550
+[screaming continues]
+
+594
+00:44:12,600 --> 00:44:14,671
+[equipment crashing]
+
+595
+00:44:14,760 --> 00:44:17,150
+- [monitor beeping]
+- [screaming continues]
+
+596
+00:44:17,240 --> 00:44:18,799
+[William] <i>Turn it off.</i>
+
+597
+00:44:29,360 --> 00:44:30,794
+[Zoe laughing]
+
+598
+00:45:29,440 --> 00:45:33,354
+[monitor beeping speeds up]
+
+599
+00:45:35,480 --> 00:45:37,119
+I thought I could do it.
+
+600
+00:45:44,440 --> 00:45:45,510
+Sorry.
+
+601
+00:45:57,120 --> 00:45:58,440
+[phone rings]
+
+602
+00:46:01,120 --> 00:46:02,520
+[rings]
+
+603
+00:46:06,880 --> 00:46:08,030
+- What?
+- [Jones] <i>Bill.</i>
+
+604
+00:46:08,160 --> 00:46:09,879
+Have you been avoiding my call?
+
+605
+00:46:11,720 --> 00:46:13,916
+<i>Bill? Bill?</i>
+
+606
+00:46:14,680 --> 00:46:15,875
+What?
+
+607
+00:46:16,000 --> 00:46:19,311
+<i>Do you realize how much money has been
+invested in this project?</i>
+
+608
+00:46:19,880 --> 00:46:21,109
+[monitor beeping]
+
+609
+00:46:21,200 --> 00:46:24,591
+<i>People are counting on you.
+I'm counting on you.</i>
+
+610
+00:46:24,680 --> 00:46:25,680
+Holy shit.
+
+611
+00:46:25,720 --> 00:46:28,474
+<i>- And we're almost out of time.</i>
+- Holy shit.
+
+612
+00:46:28,560 --> 00:46:29,880
+<i>What did you say?</i>
+
+613
+00:46:29,960 --> 00:46:31,394
+[monitor beeping]
+
+614
+00:46:31,480 --> 00:46:33,153
+<i>Do you hear me?</i>
+
+615
+00:46:33,240 --> 00:46:35,550
+- [line clicks]
+- Bill, are you still there?
+
+616
+00:46:45,840 --> 00:46:47,638
+We've been looking
+in the wrong place.
+
+617
+00:46:47,720 --> 00:46:49,598
+You're really close to me, man.
+
+618
+00:46:49,680 --> 00:46:51,797
+No, it's not the mind,
+it's not the brain, Ed.
+
+619
+00:46:51,880 --> 00:46:53,075
+It's the body.
+
+620
+00:46:53,160 --> 00:46:56,756
+- The body?
+- [William] It's so obvious. So elegant.
+
+621
+00:46:57,280 --> 00:46:58,760
+So simple!
+
+622
+00:46:58,840 --> 00:47:02,117
+Hey, man, let's pump the brakes
+on the crazy train, all right?
+
+623
+00:47:03,400 --> 00:47:05,869
+- Follow me, Edward.
+- What...
+
+624
+00:47:07,400 --> 00:47:09,551
+[footsteps climbing stairs]
+
+625
+00:47:19,760 --> 00:47:20,955
+Dead flat.
+
+626
+00:47:21,920 --> 00:47:23,240
+Watch this.
+
+627
+00:47:24,320 --> 00:47:25,674
+[electronic hum, monitor beeps]
+
+628
+00:47:26,320 --> 00:47:27,720
+[hum, monitor beeps]
+
+629
+00:47:29,040 --> 00:47:30,474
+Her mind is a blank slate.
+
+630
+00:47:30,560 --> 00:47:31,835
+Comatose.
+
+631
+00:47:31,920 --> 00:47:34,480
+She's never experienced
+a moment of consciousness.
+
+632
+00:47:34,560 --> 00:47:36,916
+Yet she's breathing.
+Her heart's pumping.
+
+633
+00:47:37,040 --> 00:47:38,633
+But that's not a sign of consciousness.
+
+634
+00:47:38,720 --> 00:47:40,757
+Those are involuntary functions.
+
+635
+00:47:40,840 --> 00:47:42,513
+All controlled in the brain.
+
+636
+00:47:42,600 --> 00:47:44,592
+Her brain knows it has a body.
+
+637
+00:47:45,040 --> 00:47:48,829
+This specific body.
+That's what I was missing.
+
+638
+00:47:49,040 --> 00:47:51,111
+That's why 345 doesn't work.
+
+639
+00:47:51,200 --> 00:47:54,716
+It has electrodes and wires
+connected to steel and titanium.
+
+640
+00:47:54,800 --> 00:47:58,350
+We're imprinting a biological brain
+into a synthetic mind.
+
+641
+00:47:58,440 --> 00:47:59,874
+But it doesn't know that.
+
+642
+00:47:59,960 --> 00:48:02,839
+It's looking for its body,
+its heart, its lungs.
+
+643
+00:48:02,920 --> 00:48:04,070
+But it can't find them.
+
+644
+00:48:04,160 --> 00:48:07,232
+So the lower reptilian brain
+freaks out.
+
+645
+00:48:07,360 --> 00:48:10,114
+It thinks that it's dying,
+reacts accordingly
+
+646
+00:48:10,240 --> 00:48:12,880
+and never has a chance to reach
+watershed consciousness.
+
+647
+00:48:12,960 --> 00:48:14,280
+Oh, shit, yeah.
+
+648
+00:48:14,360 --> 00:48:16,317
+It's like transplant rejection.
+
+649
+00:48:17,240 --> 00:48:19,118
+We just have to trick the synthetic mind
+
+650
+00:48:19,200 --> 00:48:23,752
+into believing that it has its biological,
+actual flesh-and-blood body.
+
+651
+00:48:23,840 --> 00:48:25,274
+That's the solution.
+
+652
+00:48:25,360 --> 00:48:28,671
+That may be 345's solution, but what does
+this have to do with your family?
+
+653
+00:48:28,800 --> 00:48:30,598
+They're not robots, William.
+
+654
+00:48:30,720 --> 00:48:32,473
+It has everything to do with my family.
+
+655
+00:48:34,280 --> 00:48:36,715
+I'll be imprinting her mind
+
+656
+00:48:37,560 --> 00:48:39,233
+into her own body.
+
+657
+00:48:41,240 --> 00:48:43,277
+I know it's going to work.
+
+658
+00:48:43,520 --> 00:48:47,070
+But are you sure? I mean,
+we're only gonna get one shot at this.
+
+659
+00:48:48,680 --> 00:48:50,990
+Stand by to initiate
+the neural imprint, Ed.
+
+660
+00:49:02,760 --> 00:49:03,760
+Ready?
+
+661
+00:49:04,560 --> 00:49:06,153
+Has that ever mattered?
+
+662
+00:49:12,000 --> 00:49:13,593
+Initiate the neural imprint.
+
+663
+00:49:14,880 --> 00:49:16,712
+Commence bio-to-bio protocol.
+
+664
+00:49:19,040 --> 00:49:21,157
+[electronic pulsing]
+
+665
+00:49:30,760 --> 00:49:32,592
+Keep an eye on Mona's sensory cortex.
+
+666
+00:49:33,600 --> 00:49:34,795
+Good.
+
+667
+00:49:39,760 --> 00:49:41,194
+I'm going temporal.
+
+668
+00:49:41,760 --> 00:49:42,989
+Parietal.
+
+669
+00:49:44,520 --> 00:49:45,749
+Limbic.
+
+670
+00:49:46,560 --> 00:49:47,596
+Vitals?
+
+671
+00:49:48,360 --> 00:49:49,476
+Vitals are good.
+
+672
+00:49:49,840 --> 00:49:51,354
+Okay.
+
+673
+00:49:52,040 --> 00:49:53,440
+Pulse state's good.
+
+674
+00:49:54,720 --> 00:49:56,120
+All functions good.
+
+675
+00:50:00,760 --> 00:50:02,672
+Initiating neural imprint.
+
+676
+00:50:07,000 --> 00:50:08,116
+Incredible.
+
+677
+00:50:13,040 --> 00:50:14,315
+Imprint completed.
+
+678
+00:50:36,000 --> 00:50:37,840
+[Ed] What's going on, man?
+Nothing's happening.
+
+679
+00:50:39,920 --> 00:50:41,240
+Can you hear me, Mona?
+
+680
+00:50:42,000 --> 00:50:44,435
+[monitor beeping]
+
+681
+00:50:46,560 --> 00:50:49,075
+[beeping accelerates]
+
+682
+00:50:50,200 --> 00:50:53,238
+Shit. Oh, shit. She's rejecting it.
+
+683
+00:50:53,360 --> 00:50:54,840
+Oh, shit, man,
+what are we gonna do?
+
+684
+00:50:54,920 --> 00:50:55,920
+Wait!
+
+685
+00:51:03,200 --> 00:51:06,398
+[beeping decelerates]
+
+686
+00:51:17,280 --> 00:51:18,475
+William?
+
+687
+00:51:21,920 --> 00:51:22,920
+Baby.
+
+688
+00:51:31,280 --> 00:51:33,795
+Whoa, whoa.
+William, what are you doing?
+
+689
+00:51:34,440 --> 00:51:35,590
+Putting her to sleep.
+
+690
+00:51:36,440 --> 00:51:39,000
+I can't have her and the kids
+wake up to the house like this.
+
+691
+00:51:39,080 --> 00:51:41,640
+[Ed] Yeah. Yeah, good thinking.
+
+692
+00:51:42,640 --> 00:51:44,518
+You have any idea what we just did?
+
+693
+00:51:45,120 --> 00:51:49,478
+I mean, this is the single greatest thing
+that I have ever done in my life,
+
+694
+00:51:49,560 --> 00:51:51,233
+you, anyone has ever done.
+
+695
+00:51:51,320 --> 00:51:53,915
+I mean, granted,
+we can't tell anybody about it,
+
+696
+00:51:54,000 --> 00:51:55,639
+but, oh, my God!
+
+697
+00:51:56,040 --> 00:51:57,394
+I mean...
+
+698
+00:51:57,480 --> 00:52:00,154
+We're talking Nobel Prize, right?
+
+699
+00:52:00,240 --> 00:52:02,391
+Foster-Whittle?
+Scratch that, Whittle-Foster.
+
+700
+00:52:02,480 --> 00:52:05,279
+[voice fading]
+It doesn't have to be alphabetical.
+
+701
+00:52:17,360 --> 00:52:20,512
+Well, I, uh...
+I hope they're gonna be okay.
+
+702
+00:52:21,720 --> 00:52:23,757
+- We did it.
+- Yeah.
+
+703
+00:52:31,720 --> 00:52:32,756
+All right.
+
+704
+00:52:32,840 --> 00:52:35,992
+Well, I'll, uh... I'll see you at work.
+
+705
+00:54:31,560 --> 00:54:32,676
+[sobbing]
+
+706
+00:54:51,960 --> 00:54:53,360
+[kisses]
+
+707
+00:54:56,960 --> 00:54:58,189
+[groans]
+
+708
+00:55:34,880 --> 00:55:35,950
+Mona?
+
+709
+00:55:43,600 --> 00:55:44,716
+Kids?
+
+710
+00:55:56,320 --> 00:55:57,674
+Good morning, William.
+
+711
+00:55:57,760 --> 00:55:58,760
+[William] Good morning.
+
+712
+00:55:59,760 --> 00:56:01,991
+So, how is everybody?
+
+713
+00:56:02,080 --> 00:56:03,594
+- I'm hungry.
+- Starving.
+
+714
+00:56:03,960 --> 00:56:06,191
+I feel great. I'm going for a run.
+
+715
+00:56:06,480 --> 00:56:08,676
+- Outside?
+- You look tired.
+
+716
+00:56:09,120 --> 00:56:10,395
+Did you sleep okay?
+
+717
+00:56:10,520 --> 00:56:11,590
+Yeah.
+
+718
+00:56:14,160 --> 00:56:15,276
+Have a good run.
+
+719
+00:56:15,360 --> 00:56:17,192
+[Matt] Dad. Dad.
+
+720
+00:56:17,960 --> 00:56:19,314
+Can I have some pancakes?
+
+721
+00:56:20,520 --> 00:56:21,590
+Yes.
+
+722
+00:56:22,520 --> 00:56:25,399
+Yes, you can have
+some pancakes, Matthew.
+
+723
+00:56:28,200 --> 00:56:30,669
+Sophie, you want
+some pancakes, too?
+
+724
+00:56:30,960 --> 00:56:32,952
+- Yeah.
+- [William] Great.
+
+725
+00:56:34,080 --> 00:56:35,196
+Great.
+
+726
+00:56:47,960 --> 00:56:49,235
+[William] Flapjacks up.
+
+727
+00:56:50,160 --> 00:56:51,753
+- Hey, can I have French toast?
+<i>- Oui.</i>
+
+728
+00:56:52,240 --> 00:56:53,674
+French toast for the lady.
+
+729
+00:56:54,240 --> 00:56:55,356
+Coming up.
+
+730
+00:57:02,320 --> 00:57:04,676
+[labored breathing]
+
+731
+00:57:23,280 --> 00:57:24,280
+Gross.
+
+732
+00:57:24,680 --> 00:57:26,990
+Mom, this milk went sour.
+Did you go shopping?
+
+733
+00:57:27,080 --> 00:57:29,240
+- I bought this the other day.
+- [Sophie] It's curdled.
+
+734
+00:57:29,880 --> 00:57:31,599
+- They sold us expired milk.
+- Yeah.
+
+735
+00:57:33,200 --> 00:57:35,271
+Somebody's gonna get a piece of my mind.
+
+736
+00:57:35,360 --> 00:57:37,272
+- I'll take care of it.
+- [phone buzzing]
+
+737
+00:57:40,160 --> 00:57:41,160
+[William] Work.
+
+738
+00:57:41,720 --> 00:57:43,916
+I gotta... I got...
+
+739
+00:57:44,800 --> 00:57:45,950
+Okay.
+
+740
+00:57:46,760 --> 00:57:48,114
+[buzzing continues]
+
+741
+00:57:48,200 --> 00:57:49,395
+[phone chimes]
+
+742
+00:57:49,960 --> 00:57:51,917
+- Yeah.
+- [Ed] <i>Yeah, hey, it's me.</i>
+
+743
+00:57:52,000 --> 00:57:55,437
+We got a donor inbound. 37 minutes.
+You gotta meet me at the lab, ASAP.
+
+744
+00:57:55,520 --> 00:57:56,776
+[William] <i>My familyjust woke up.</i>
+
+745
+00:57:56,800 --> 00:57:59,269
+Congratulations, but it's gonna
+be a pretty short reunion
+
+746
+00:57:59,360 --> 00:58:01,158
+<i>unless we solve 345.</i>
+
+747
+00:58:01,240 --> 00:58:03,376
+<i>- If we get shut down, we get exposed.</i>
+- [dish clatters]
+
+748
+00:58:03,400 --> 00:58:05,835
+- [Mona] Matt, careful.
+- [Ed] <i>Are you listening to me?</i>
+
+749
+00:58:06,800 --> 00:58:08,314
+William, you hearing me?
+
+750
+00:58:09,840 --> 00:58:10,759
+<i>Hello?</i>
+
+751
+00:58:10,761 --> 00:58:12,831
+Yeah, okay, I'll be there.
+
+752
+00:58:12,920 --> 00:58:14,593
+- [blade clangs]
+- [Matt] Damn it!
+
+753
+00:58:16,840 --> 00:58:18,240
+Buddy, you okay?
+
+754
+00:58:18,840 --> 00:58:20,035
+Yeah, I'm fine.
+
+755
+00:58:21,840 --> 00:58:25,516
+Are you all right?
+You don't seem like yourself today.
+
+756
+00:58:26,560 --> 00:58:28,597
+I have to go into the lab.
+
+757
+00:58:29,160 --> 00:58:30,992
+You take off, baby. We're good.
+
+758
+00:58:31,720 --> 00:58:34,599
+[scoffs] I hate to leave you
+on a Saturday.
+
+759
+00:58:35,160 --> 00:58:36,879
+We'll still be here when you get back.
+
+760
+00:58:37,840 --> 00:58:38,876
+Okay.
+
+761
+00:58:48,560 --> 00:58:53,794
+[indistinct announcements on PA]
+
+762
+00:58:57,080 --> 00:59:01,233
+Neural tissue intact.
+Protoplasmic integrity approximately 60%.
+
+763
+00:59:02,000 --> 00:59:03,320
+I make it 55.
+
+764
+00:59:03,400 --> 00:59:06,393
+[Ed] Still, cortex is viable.
+Do you concur?
+
+765
+00:59:13,640 --> 00:59:14,790
+William?
+
+766
+00:59:15,520 --> 00:59:16,874
+Negative.
+
+767
+00:59:19,120 --> 00:59:20,759
+It's too corrupt.
+
+768
+00:59:28,120 --> 00:59:30,840
+What's going on, man?
+Donor was good.
+
+769
+00:59:31,560 --> 00:59:33,392
+I couldn't do it.
+
+770
+00:59:33,480 --> 00:59:35,676
+I couldn't put
+another person through that.
+
+771
+00:59:36,480 --> 00:59:40,235
+[scoffs] Well, you picked a hell of a time
+to grow a conscience.
+
+772
+00:59:40,560 --> 00:59:43,951
+I hope you're ready to go to jail,
+lose your family,
+
+773
+00:59:44,040 --> 00:59:48,080
+because that's what's gonna happen
+if we don't get 345 to work.
+
+774
+00:59:48,920 --> 00:59:50,593
+So you better figure something out.
+
+775
+00:59:50,920 --> 00:59:52,274
+Soon.
+
+776
+01:01:20,640 --> 01:01:22,233
+[door opens]
+
+777
+01:01:23,920 --> 01:01:25,354
+[Jones] Are you in there, Bill?
+
+778
+01:01:27,760 --> 01:01:29,911
+Yeah, it's me.
+
+779
+01:01:30,360 --> 01:01:31,680
+[Jones] Everything okay in there?
+
+780
+01:01:32,560 --> 01:01:33,560
+All good.
+
+781
+01:01:33,960 --> 01:01:36,429
+Damn shame about
+that donor today, huh?
+
+782
+01:01:38,880 --> 01:01:40,553
+We'll get the next one, sir.
+
+783
+01:01:40,880 --> 01:01:43,395
+[Jones] Hope there is a next one, Bill.
+
+784
+01:01:58,680 --> 01:02:01,991
+- [door closes]
+- [William hyperventilating]
+
+785
+01:02:02,720 --> 01:02:04,154
+[electronic whirring]
+
+786
+01:02:08,720 --> 01:02:11,394
+- [hydraulic pulse]
+- [device whirring]
+
+787
+01:02:11,960 --> 01:02:13,235
+[William groaning]
+
+788
+01:02:25,320 --> 01:02:26,674
+Oh, my gosh.
+
+789
+01:02:28,120 --> 01:02:29,793
+Mom, have you seen my cell phone?
+
+790
+01:02:29,880 --> 01:02:31,439
+No, I've been looking for mine, too.
+
+791
+01:02:31,560 --> 01:02:34,598
+Well, your whole social life
+doesn't depend on it. Mine does.
+
+792
+01:02:34,680 --> 01:02:37,275
+- So where did you have it last?
+- [Sophie] I have no idea.
+
+793
+01:02:37,720 --> 01:02:39,473
+Troll, did you take my cell phone?
+
+794
+01:02:39,880 --> 01:02:41,917
+- No.
+- Oh, my God.
+
+795
+01:02:57,600 --> 01:02:58,670
+[William] Ed!
+
+796
+01:02:59,720 --> 01:03:00,720
+Hey!
+
+797
+01:03:03,800 --> 01:03:05,359
+Jesus, are you crying blood?
+
+798
+01:03:07,160 --> 01:03:09,231
+William, you didn't...
+
+799
+01:03:09,320 --> 01:03:12,074
+- I did.
+- On yourself? Are you out of your mind?
+
+800
+01:03:12,160 --> 01:03:14,231
+Have you considered
+the very real possibility
+
+801
+01:03:14,320 --> 01:03:16,232
+that you've gone
+completely batshit insane?
+
+802
+01:03:16,320 --> 01:03:17,993
+- That could kill you.
+- Ed, I had to.
+
+803
+01:03:18,080 --> 01:03:22,120
+Listen, I'm going to upload
+my neural map into 345.
+
+804
+01:03:22,840 --> 01:03:24,672
+Ed, it's going to be me in there.
+
+805
+01:03:24,760 --> 01:03:26,880
+- Sure, that makes me feel...
+- [man] Edward, William.
+
+806
+01:03:26,960 --> 01:03:28,280
+Hey, Phil.
+
+807
+01:03:32,040 --> 01:03:34,111
+We start with a scan of my body.
+
+808
+01:03:34,200 --> 01:03:36,635
+I take that data, create an algorithm
+
+809
+01:03:36,720 --> 01:03:39,554
+which will bridge with
+my neural imprint in 345.
+
+810
+01:03:40,200 --> 01:03:44,274
+Okay, so you write an algorithm
+that tricks the synthetic brain
+
+811
+01:03:44,360 --> 01:03:47,034
+into thinking that
+its real, actual body is there.
+
+812
+01:03:47,120 --> 01:03:48,315
+Exactly.
+
+813
+01:03:48,920 --> 01:03:52,470
+And with my mind inside,
+we'll be able to verify
+
+814
+01:03:52,560 --> 01:03:55,359
+that the synthetic has reached
+watershed consciousness because
+
+815
+01:03:55,840 --> 01:03:58,309
+I'll be able to ask... myself.
+
+816
+01:03:58,960 --> 01:04:01,998
+I'm the baseline, Ed.
+I'm the control.
+
+817
+01:04:02,400 --> 01:04:04,790
+<i>It</i> will be me.
+
+818
+01:04:08,000 --> 01:04:10,196
+I'll start writing the algorithm tonight.
+
+819
+01:04:10,800 --> 01:04:14,157
+[Ed] Okay, so are we still going
+tree shopping tomorrow?
+
+820
+01:04:30,320 --> 01:04:33,552
+- [Mona] Something's wrong.
+- What's wrong?
+
+821
+01:04:33,680 --> 01:04:35,920
+I don't know, William,
+but something's not right with me.
+
+822
+01:04:36,000 --> 01:04:37,960
+I don't remember what I had
+for dinner last night.
+
+823
+01:04:38,200 --> 01:04:40,296
+I don't remember leaving
+the clinic for Christmas break.
+
+824
+01:04:40,320 --> 01:04:41,879
+And didn't we go on a boat trip?
+
+825
+01:04:41,960 --> 01:04:44,998
+I don't remember going on a boat trip.
+Something's not right with me.
+
+826
+01:04:45,080 --> 01:04:46,434
+Oh, baby.
+
+827
+01:04:50,080 --> 01:04:51,230
+Where are the kids?
+
+828
+01:04:51,800 --> 01:04:53,075
+Asleep.
+
+829
+01:04:54,440 --> 01:04:56,397
+Sophie has a fever, but she's okay.
+
+830
+01:04:58,240 --> 01:05:00,391
+Maybe you have what Sophie has.
+
+831
+01:05:01,720 --> 01:05:02,949
+Maybe.
+
+832
+01:05:04,480 --> 01:05:06,199
+Why don't you go and lie down and...
+
+833
+01:05:07,280 --> 01:05:09,078
+see how you feel in the morning?
+
+834
+01:05:09,160 --> 01:05:10,594
+Yeah.
+
+835
+01:05:12,880 --> 01:05:14,109
+I'm exhausted.
+
+836
+01:05:41,160 --> 01:05:43,959
+Support directive 2.5.
+
+837
+01:05:49,080 --> 01:05:52,676
+Site OT-45, annex 1.7.
+
+838
+01:05:54,080 --> 01:05:57,073
+Suppress directive. Now you're talkin'.
+
+839
+01:06:02,360 --> 01:06:03,635
+[dings]
+
+840
+01:06:04,720 --> 01:06:05,949
+[sighs]
+
+841
+01:06:21,800 --> 01:06:23,393
+[breathing unsteadily]
+
+842
+01:06:24,600 --> 01:06:26,796
+[gasping]
+
+843
+01:06:28,640 --> 01:06:30,552
+Mom! Mom! [hyperventilating]
+
+844
+01:06:31,280 --> 01:06:33,237
+- Dad! Dad!
+- Sophie? Sophie!
+
+845
+01:06:33,320 --> 01:06:35,994
+- Dad, is Mom dead?
+- What?
+
+846
+01:06:36,080 --> 01:06:37,150
+I saw her die, Dad!
+
+847
+01:06:37,240 --> 01:06:39,516
+- No!
+- Dad, are you sure?
+
+848
+01:06:39,640 --> 01:06:42,314
+No, it was just a bad dream.
+Mommy's okay.
+
+849
+01:06:43,840 --> 01:06:44,990
+I saw her die!
+
+850
+01:06:45,240 --> 01:06:47,072
+No, no.
+
+851
+01:06:47,160 --> 01:06:48,958
+Everything's gonna be all right.
+
+852
+01:06:49,600 --> 01:06:50,920
+Go back to sleep.
+
+853
+01:06:51,000 --> 01:06:52,354
+But it felt so real.
+
+854
+01:06:52,440 --> 01:06:54,557
+- It's just a dream. Mommy's okay.
+- You sure?
+
+855
+01:06:54,640 --> 01:06:56,836
+Yeah. It's okay.
+
+856
+01:06:58,120 --> 01:06:59,713
+It was just a bad dream.
+
+857
+01:07:00,320 --> 01:07:02,437
+- Okay.
+- Yeah. It's over.
+
+858
+01:07:04,120 --> 01:07:05,634
+Shh.
+
+859
+01:07:33,480 --> 01:07:35,597
+[William's voice]
+<i>I spy with my little eye...</i>
+
+860
+01:07:35,680 --> 01:07:40,471
+- [muffled voices of family]
+- [Zoe] <i>Are we almost there?</i>
+
+861
+01:07:40,560 --> 01:07:43,712
+[Zoe screaming]
+
+862
+01:07:43,840 --> 01:07:46,639
+[muffled impact, screaming]
+
+863
+01:07:47,600 --> 01:07:49,432
+[Zoe] <i>Daddy!</i>
+
+864
+01:07:55,240 --> 01:07:56,276
+There now.
+
+865
+01:07:58,000 --> 01:07:59,150
+All better.
+
+866
+01:08:00,240 --> 01:08:01,754
+It'll be like it never happened.
+
+867
+01:08:02,760 --> 01:08:03,876
+[Mona] William.
+
+868
+01:08:04,240 --> 01:08:05,640
+What's going on?
+
+869
+01:08:10,600 --> 01:08:13,752
+- Mona, can we go upstairs?
+- What have you done to Sophie?
+
+870
+01:08:15,000 --> 01:08:16,354
+I gave her a little sedative.
+
+871
+01:08:16,440 --> 01:08:18,318
+- You did what? What?
+- She's okay.
+
+872
+01:08:18,800 --> 01:08:20,473
+Mona, please. Let's talk upstairs.
+
+873
+01:08:20,560 --> 01:08:24,270
+No, William. Tell me the truth.
+
+874
+01:08:32,280 --> 01:08:33,873
+There was a crash.
+
+875
+01:08:35,520 --> 01:08:37,239
+You and the kids died.
+
+876
+01:08:38,840 --> 01:08:40,593
+I brought you back.
+
+877
+01:08:44,080 --> 01:08:45,719
+You're replicas.
+
+878
+01:08:52,640 --> 01:08:56,839
+Get that thing... off her head.
+
+879
+01:09:23,080 --> 01:09:24,560
+I'm dead.
+
+880
+01:09:26,520 --> 01:09:27,590
+You're alive.
+
+881
+01:09:28,360 --> 01:09:29,840
+You're you.
+
+882
+01:09:30,440 --> 01:09:32,352
+Matt is alive upstairs.
+
+883
+01:09:33,000 --> 01:09:34,354
+Sophie, and...
+
+884
+01:09:37,240 --> 01:09:38,754
+and no one has to know.
+
+885
+01:09:44,040 --> 01:09:45,474
+How could you do this?
+
+886
+01:09:46,440 --> 01:09:48,875
+I watched our children die.
+
+887
+01:09:51,840 --> 01:09:55,072
+I held your lifeless body in my arms
+and I thought...
+
+888
+01:09:57,880 --> 01:09:59,599
+I could bring you back.
+
+889
+01:10:01,560 --> 01:10:03,233
+What would you have done?
+
+890
+01:10:31,240 --> 01:10:32,435
+Hey, Ed!
+
+891
+01:10:32,520 --> 01:10:33,556
+Hey!
+
+892
+01:10:50,600 --> 01:10:52,319
+- How you doing?
+- [Matt] Very good.
+
+893
+01:10:52,400 --> 01:10:53,470
+- What's up?
+- Hey.
+
+894
+01:10:54,280 --> 01:10:55,316
+- Good.
+- Morning.
+
+895
+01:10:55,720 --> 01:10:56,720
+Morning.
+
+896
+01:10:58,000 --> 01:11:00,071
+- Hi, Ed. How are you?
+- Hey.
+
+897
+01:11:00,160 --> 01:11:02,072
+- I'm good, how are you?
+- [Mona] Great.
+
+898
+01:11:03,640 --> 01:11:05,313
+Hey, Matty, come stay here with me.
+
+899
+01:11:05,400 --> 01:11:08,359
+- But I like this one.
+- No, I hate those ones. They're fake.
+
+900
+01:11:10,960 --> 01:11:12,872
+I think they're... nice.
+
+901
+01:11:13,880 --> 01:11:16,475
+[scoffs] Come on. Let's look over here.
+
+902
+01:11:19,440 --> 01:11:20,616
+[Sophie] Mom, check this one out.
+
+903
+01:11:20,640 --> 01:11:22,016
+[Matt] Think this one's big enough?
+
+904
+01:11:22,040 --> 01:11:24,999
+So... you got 'em back.
+
+905
+01:11:25,080 --> 01:11:26,639
+[Mona] You like this one?
+
+906
+01:11:27,400 --> 01:11:29,392
+- Yeah.
+- [Latin music in background]
+
+907
+01:11:30,240 --> 01:11:32,118
+All right, let's get you a tree.
+
+908
+01:11:46,480 --> 01:11:49,678
+Maybe... Maybe we should
+move back home.
+
+909
+01:11:49,960 --> 01:11:52,395
+- What?
+- We just settled here.
+
+910
+01:11:52,480 --> 01:11:53,480
+Are you serious, Dad?
+
+911
+01:11:54,160 --> 01:11:56,356
+- Matt, you missed your plate.
+- Idiot.
+
+912
+01:11:56,440 --> 01:11:57,635
+What?
+
+913
+01:12:04,000 --> 01:12:06,515
+- Hey, Dad, who is Zoe?
+- [glass shatters]
+
+914
+01:12:08,800 --> 01:12:09,836
+Who?
+
+915
+01:12:09,920 --> 01:12:11,957
+Someone scribbled "Zoe"
+in my closet with a crayon.
+
+916
+01:12:12,680 --> 01:12:14,194
+There was a bunk bed
+in that bedroom.
+
+917
+01:12:14,840 --> 01:12:15,840
+A bunk bed?
+
+918
+01:12:15,960 --> 01:12:17,480
+- Are you sure?
+- [Mona] I'm not crazy.
+
+919
+01:12:17,520 --> 01:12:19,352
+I remember photos
+in the upstairs hallway.
+
+920
+01:12:19,480 --> 01:12:24,509
+Honey, that thing that happened,
+there might be some things...
+
+921
+01:12:24,600 --> 01:12:26,640
+And I remember
+what you look like when you're lying.
+
+922
+01:12:27,800 --> 01:12:29,029
+[doorbell rings]
+
+923
+01:12:36,520 --> 01:12:38,477
+<i>Feliz Navidad,</i> Bill.
+
+924
+01:12:39,040 --> 01:12:41,157
+Mmm, is that lamb I smell?
+
+925
+01:12:42,360 --> 01:12:44,317
+I'm interrupting dinner, aren't I?
+
+926
+01:12:44,760 --> 01:12:45,760
+Mona!
+
+927
+01:12:46,600 --> 01:12:48,956
+- You look stunning.
+- Mr. Jones.
+
+928
+01:12:49,760 --> 01:12:51,353
+Such a lucky man, Bill.
+
+929
+01:12:51,720 --> 01:12:55,111
+What an unexpected pleasure.
+Do you care to join us?
+
+930
+01:12:55,200 --> 01:12:58,477
+Beautiful and generous.
+I've heard about women like you.
+
+931
+01:12:58,600 --> 01:13:01,069
+Thanks, but I wouldn't dream of imposing.
+
+932
+01:13:01,160 --> 01:13:02,674
+William, can I have a quick word?
+
+933
+01:13:02,960 --> 01:13:04,917
+Promise I'll have him back
+in five minutes.
+
+934
+01:13:08,880 --> 01:13:10,109
+We're not done.
+
+935
+01:13:21,680 --> 01:13:22,955
+What brings you by?
+
+936
+01:13:23,040 --> 01:13:24,633
+Let me ask you something.
+
+937
+01:13:24,800 --> 01:13:28,396
+Didn't you ever think
+this was all a little too easy?
+
+938
+01:13:32,960 --> 01:13:34,599
+I don't know what you're talking about.
+
+939
+01:13:34,720 --> 01:13:36,677
+Oh, let me help.
+
+940
+01:13:37,000 --> 01:13:43,349
+Subjects 346, 347, 348.
+Bionyne property, Bill.
+
+941
+01:13:43,840 --> 01:13:47,993
+Desperation has driven many a great man
+to accomplish the impossible.
+
+942
+01:13:48,080 --> 01:13:51,471
+Fate caused that car crash.
+I just let things play out.
+
+943
+01:13:51,560 --> 01:13:55,076
+Color me impressed,
+but now I have a problem.
+
+944
+01:13:55,200 --> 01:13:56,600
+Three, actually.
+
+945
+01:13:58,320 --> 01:14:01,677
+Do you know what would happen
+if word of this ever got out?
+
+946
+01:14:02,120 --> 01:14:05,158
+Nobody has to know.
+Nobody will ever know.
+
+947
+01:14:05,240 --> 01:14:06,390
+Mona knows.
+
+948
+01:14:06,480 --> 01:14:08,915
+How long until Sophie and Matt
+start asking questions?
+
+949
+01:14:09,000 --> 01:14:10,116
+Maybe their friends will.
+
+950
+01:14:10,720 --> 01:14:11,995
+Lies are messy.
+
+951
+01:14:12,080 --> 01:14:14,390
+I'm not in the business of messy,
+it's risky.
+
+952
+01:14:14,480 --> 01:14:15,914
+Simple is safe.
+
+953
+01:14:18,080 --> 01:14:22,871
+Those three subjects in the wild
+is something I cannot tolerate.
+
+954
+01:14:24,320 --> 01:14:28,030
+I know how to make 345 work.
+That's worth something.
+
+955
+01:14:28,480 --> 01:14:32,599
+Bionyne would be the most successful
+biomedical company in the world.
+
+956
+01:14:32,680 --> 01:14:34,956
+William, ask yourself a question.
+
+957
+01:14:35,640 --> 01:14:39,350
+Who would spend this much money
+saving mortally wounded soldiers?
+
+958
+01:14:39,440 --> 01:14:41,909
+My God, man, come on.
+
+959
+01:14:42,840 --> 01:14:44,752
+That's not how you win wars.
+
+960
+01:14:45,560 --> 01:14:47,916
+We're not a biomedical company.
+
+961
+01:14:48,000 --> 01:14:50,435
+My name isn't even Jones.
+
+962
+01:14:51,400 --> 01:14:56,395
+Now, you figured out how to transfer
+human consciousness into a machine.
+
+963
+01:14:56,480 --> 01:14:59,917
+Imagine, the best pilot put into
+a thousand individual drones,
+
+964
+01:15:00,000 --> 01:15:03,357
+the mind of a hacker
+loaded into the virus.
+
+965
+01:15:03,440 --> 01:15:06,990
+Do you have any idea
+how much that's worth?
+
+966
+01:15:07,080 --> 01:15:09,675
+Bill, isn't it exciting?
+
+967
+01:15:10,040 --> 01:15:11,269
+What about my family?
+
+968
+01:15:11,400 --> 01:15:14,120
+Your family died in a car accident, Bill.
+
+969
+01:15:14,800 --> 01:15:17,713
+The algorithm.
+Get me the algorithm.
+
+970
+01:15:18,280 --> 01:15:19,760
+And then finish dinner.
+
+971
+01:15:20,760 --> 01:15:22,274
+Kiss the kids good night.
+
+972
+01:15:22,360 --> 01:15:26,639
+Hell, make love to your wife.
+
+973
+01:15:26,720 --> 01:15:29,599
+Have what you didn't have
+the first time.
+
+974
+01:15:30,240 --> 01:15:33,950
+A chance to say... good-bye.
+
+975
+01:15:35,640 --> 01:15:37,518
+That's my gift to you.
+
+976
+01:15:46,160 --> 01:15:48,072
+I'll get the algorithm.
+
+977
+01:15:58,920 --> 01:16:00,400
+[phone chirps]
+
+978
+01:16:12,480 --> 01:16:13,480
+[cocks gun]
+
+979
+01:16:29,680 --> 01:16:32,912
+You see? Knew you were smart
+enough to do the right thing.
+
+980
+01:16:33,000 --> 01:16:34,673
+[Jones groaning]
+
+981
+01:16:44,680 --> 01:16:46,831
+This is gonna piss me off, isn't it?
+
+982
+01:17:06,440 --> 01:17:08,830
+[Mona] William, you are scaring the kids.
+
+983
+01:17:08,920 --> 01:17:10,752
+- Where's Mr. Jones?
+- [Matt] Mom, Dad.
+
+984
+01:17:11,200 --> 01:17:12,440
+Are you guys getting a divorce?
+
+985
+01:17:12,480 --> 01:17:13,994
+- [Mona] Maybe.
+- [William] No.
+
+986
+01:17:14,080 --> 01:17:15,434
+Can you go to your rooms, please?
+
+987
+01:17:16,080 --> 01:17:18,920
+- [William] Where's the tin foil?
+- In the top drawer by the dishwasher.
+
+988
+01:17:25,160 --> 01:17:27,516
+William, I need to know what's going on.
+
+989
+01:17:28,840 --> 01:17:30,194
+And who is Zoe?
+
+990
+01:17:32,720 --> 01:17:34,234
+Zoe is our daughter.
+
+991
+01:17:35,560 --> 01:17:38,997
+I couldn't bring you all back.
+I couldn't save you all.
+
+992
+01:17:39,520 --> 01:17:41,239
+There weren't enough pods.
+
+993
+01:17:43,280 --> 01:17:45,272
+I deleted her from your memories.
+
+994
+01:17:46,640 --> 01:17:48,836
+You took the memory
+of my child from me?
+
+995
+01:17:50,840 --> 01:17:52,240
+I'm sorry.
+
+996
+01:17:52,320 --> 01:17:54,198
+And I don't blame you
+if you want to hate me
+
+997
+01:17:54,280 --> 01:17:57,990
+for the rest of my life,
+but right now, we have to go.
+
+998
+01:17:59,440 --> 01:18:04,037
+Bionyne isn't a medical company.
+I don't even know what they are.
+
+999
+01:18:04,400 --> 01:18:10,317
+But they're going to kill you and the kids
+unless we go, right now.
+
+1000
+01:18:10,600 --> 01:18:14,037
+And I didn't defy
+every natural law there is
+
+1001
+01:18:14,120 --> 01:18:16,032
+just to lose you again.
+
+1002
+01:18:16,960 --> 01:18:19,350
+We have to go.
+
+1003
+01:18:22,240 --> 01:18:23,754
+Kids, we're leaving!
+
+1004
+01:18:26,560 --> 01:18:28,552
+[cell phone ringing]
+
+1005
+01:18:50,440 --> 01:18:52,113
+[car starts]
+
+1006
+01:18:52,760 --> 01:18:53,760
+[tires screech]
+
+1007
+01:18:59,920 --> 01:19:01,752
+- [Mona screams]
+- [car bangs curb]
+
+1008
+01:19:02,400 --> 01:19:03,436
+[Mona shrieks]
+
+1009
+01:19:04,440 --> 01:19:06,432
+[tires screech, engine revs]
+
+1010
+01:19:12,640 --> 01:19:13,994
+[groans]
+
+1011
+01:19:29,960 --> 01:19:31,440
+[Sophie] What is going on?
+
+1012
+01:19:32,000 --> 01:19:33,798
+[Mona] Matt, Sophie.
+
+1013
+01:19:34,680 --> 01:19:36,672
+There are some bad people
+trying to hurt us.
+
+1014
+01:19:36,760 --> 01:19:39,036
+Just hold on and everything
+will be all right.
+
+1015
+01:19:39,760 --> 01:19:42,355
+We'll go to Ed's boat,
+get out of here.
+
+1016
+01:19:49,160 --> 01:19:50,833
+[zapping]
+
+1017
+01:19:55,640 --> 01:19:57,233
+[beep]
+
+1018
+01:19:58,880 --> 01:20:01,076
+[sizzling]
+
+1019
+01:20:04,400 --> 01:20:06,039
+I'm disappointed, Bill.
+
+1020
+01:20:06,880 --> 01:20:09,315
+Very disappointed.
+
+1021
+01:20:11,480 --> 01:20:13,676
+Sir, they're on the move.
+
+1022
+01:20:16,040 --> 01:20:17,997
+Don't shoot him in the head.
+
+1023
+01:20:19,000 --> 01:20:20,920
+- This is all your fault.
+- I didn't do anything.
+
+1024
+01:20:21,160 --> 01:20:22,160
+[thud]
+
+1025
+01:20:25,280 --> 01:20:27,476
+- How did they find us?
+- Don't you guys watch TV?
+
+1026
+01:20:27,560 --> 01:20:29,680
+- They tracked Sophie's phone.
+- They didn't. Shut up.
+
+1027
+01:20:33,320 --> 01:20:36,040
+Shit, maybe it's in the car,
+maybe it's the GPS.
+
+1028
+01:20:36,120 --> 01:20:37,640
+It's not the car, it's not the phones.
+
+1029
+01:20:38,240 --> 01:20:41,836
+Bionyne puts tracker markers
+in all of the experimental animals.
+
+1030
+01:20:42,280 --> 01:20:43,794
+The trackers are in you.
+
+1031
+01:20:53,840 --> 01:20:54,840
+William!
+
+1032
+01:20:54,880 --> 01:20:56,758
+[screaming]
+
+1033
+01:21:03,640 --> 01:21:05,359
+- [horn blares]
+- [tires screech]
+
+1034
+01:21:05,880 --> 01:21:08,190
+We're okay!
+It's all right. We're all right.
+
+1035
+01:21:08,280 --> 01:21:09,840
+- You okay?
+- [William] We're all right.
+
+1036
+01:21:09,920 --> 01:21:11,559
+[both gasping]
+
+1037
+01:21:13,000 --> 01:21:14,240
+How do we get the trackers out?
+
+1038
+01:21:15,040 --> 01:21:17,919
+They're in the pods and they
+attach to the spine in utero.
+
+1039
+01:21:18,800 --> 01:21:20,871
+They're powered by
+the central nervous system.
+
+1040
+01:21:20,960 --> 01:21:22,189
+They don't come out.
+
+1041
+01:21:22,280 --> 01:21:24,715
+- What are you talking about?
+- Drive to the clinic.
+
+1042
+01:21:25,560 --> 01:21:26,960
+That's back the way we came.
+
+1043
+01:21:27,040 --> 01:21:28,360
+Drive to the clinic.
+
+1044
+01:21:29,880 --> 01:21:31,030
+Okay.
+
+1045
+01:21:59,040 --> 01:22:02,670
+- Sophie, I need you to lie down.
+- What do you mean? Dad, why?
+
+1046
+01:22:02,760 --> 01:22:04,319
+It's okay. Get on the table.
+
+1047
+01:22:04,440 --> 01:22:05,696
+- It's all right.
+- [Sophie] What?
+
+1048
+01:22:05,720 --> 01:22:08,633
+The trackers are powered by
+the nervous system so this will fry them.
+
+1049
+01:22:08,720 --> 01:22:10,359
+Red, white, black.
+
+1050
+01:22:10,440 --> 01:22:13,592
+- Trackers? What are you saying?
+- [William] It's okay, Sophie. It's okay.
+
+1051
+01:22:13,680 --> 01:22:15,239
+Mom, what's going on? I'm serious.
+
+1052
+01:22:15,320 --> 01:22:17,536
+Somebody put something bad in us,
+and I'm trying to kill it.
+
+1053
+01:22:17,560 --> 01:22:18,479
+And I know you're afraid,
+
+1054
+01:22:18,481 --> 01:22:20,976
+but you're just going to have to try
+and relax and trust me. Okay?
+
+1055
+01:22:21,000 --> 01:22:22,229
+It's going to be okay.
+
+1056
+01:22:30,520 --> 01:22:31,715
+[beeping]
+
+1057
+01:22:32,800 --> 01:22:35,440
+- Mona.
+- If I get this wrong, I stop her heart.
+
+1058
+01:22:35,520 --> 01:22:37,591
+What? Mom!
+
+1059
+01:22:38,760 --> 01:22:41,116
+[man] This should be it.
+Inside the hospital.
+
+1060
+01:22:41,760 --> 01:22:43,399
+- Clear!
+- [Sophie groans]
+
+1061
+01:22:44,200 --> 01:22:46,635
+- [beeping]
+- [man] Shit. Let's go.
+
+1062
+01:22:46,720 --> 01:22:49,110
+[monitor beeping]
+
+1063
+01:22:54,880 --> 01:22:56,473
+[indistinct chatter]
+
+1064
+01:22:56,560 --> 01:22:57,960
+[panting]
+
+1065
+01:22:58,560 --> 01:23:00,711
+It's okay, Matty.
+It's not as bad as it seems, okay?
+
+1066
+01:23:01,880 --> 01:23:04,395
+- [Mona] Clear!
+- [defibrillator sparks]
+
+1067
+01:23:06,080 --> 01:23:08,056
+- [erratic beeping]
+- [man 1] There goes another one.
+
+1068
+01:23:08,080 --> 01:23:09,799
+[man 2] They gotta be upstairs.
+
+1069
+01:23:09,920 --> 01:23:11,752
+Hey! Hey!
+
+1070
+01:23:12,880 --> 01:23:14,155
+What are you doing here?
+
+1071
+01:23:15,360 --> 01:23:16,555
+[gunshot]
+
+1072
+01:23:16,920 --> 01:23:20,152
+- [monitor beeping]
+- [Matt] Dad, hurry up.
+
+1073
+01:23:24,080 --> 01:23:25,560
+[rapid beeping]
+
+1074
+01:23:25,640 --> 01:23:27,950
+Baby, try to calm down.
+
+1075
+01:23:31,120 --> 01:23:33,954
+- Up ahead, on the left.
+- Here.
+
+1076
+01:23:34,360 --> 01:23:35,360
+Dad, someone's coming.
+
+1077
+01:23:38,600 --> 01:23:40,717
+- [monitor beeping]
+- Damn it!
+
+1078
+01:23:41,520 --> 01:23:44,194
+- Now!
+- [Mona groans]
+
+1079
+01:23:44,280 --> 01:23:46,192
+[rapid beeping]
+
+1080
+01:23:46,280 --> 01:23:47,953
+[beeping slows]
+
+1081
+01:24:02,760 --> 01:24:03,840
+[man] They were right here.
+
+1082
+01:24:03,920 --> 01:24:05,559
+[tires screech]
+
+1083
+01:24:09,960 --> 01:24:12,680
+- [beeps]
+- Targets are off the X.
+
+1084
+01:24:12,760 --> 01:24:14,831
+<i>They fried their trackers. We lost them.</i>
+
+1085
+01:24:17,400 --> 01:24:18,470
+[phone autodialing]
+
+1086
+01:24:20,840 --> 01:24:23,196
+It's Jones.
+I have a question for you.
+
+1087
+01:24:23,560 --> 01:24:25,836
+[foghorn blowing]
+
+1088
+01:24:30,240 --> 01:24:32,136
+[William] You and the kids
+stay in the car, honey.
+
+1089
+01:24:32,160 --> 01:24:35,710
+I want to make sure it's safe.
+I'll see if I can get the boat.
+
+1090
+01:25:21,560 --> 01:25:22,710
+[groans]
+
+1091
+01:25:23,360 --> 01:25:24,430
+The bait box.
+
+1092
+01:25:25,400 --> 01:25:26,400
+When is Dad coming back?
+
+1093
+01:25:26,402 --> 01:25:27,914
+Shh! Honey, stay quiet.
+
+1094
+01:25:29,080 --> 01:25:30,400
+Keys are in the bait box.
+
+1095
+01:25:38,040 --> 01:25:40,191
+You said the keys were in the bait box.
+
+1096
+01:25:49,840 --> 01:25:53,356
+- Mom!
+- [Matt] Mom! Let go of me! Mom!
+
+1097
+01:25:53,440 --> 01:25:55,113
+Oh, Ed.
+
+1098
+01:25:55,200 --> 01:25:57,635
+- Mom! Let go of my brother!
+- Mom! Mom!
+
+1099
+01:25:57,720 --> 01:25:59,632
+- Get off me!
+- Let go of my kids!
+
+1100
+01:25:59,720 --> 01:26:01,439
+[screaming]
+
+1101
+01:26:01,520 --> 01:26:02,556
+Get off my kids!
+
+1102
+01:26:03,960 --> 01:26:05,280
+[Sophie] Dad, come back!
+
+1103
+01:26:05,840 --> 01:26:06,840
+[Matt] Dad!
+
+1104
+01:26:07,640 --> 01:26:08,640
+William!
+
+1105
+01:26:08,840 --> 01:26:10,911
+- [Matt] Dad!
+- [screaming]
+
+1106
+01:26:11,320 --> 01:26:12,320
+Inside!
+
+1107
+01:26:14,240 --> 01:26:16,550
+We got the wife and kids.
+What about Foster?
+
+1108
+01:26:17,640 --> 01:26:19,040
+He'll come to us.
+
+1109
+01:26:43,120 --> 01:26:45,840
+Good call, Eddie.
+Here are your boat keys.
+
+1110
+01:26:50,400 --> 01:26:51,400
+You bastard.
+
+1111
+01:26:51,480 --> 01:26:55,394
+Mona, look, everything's gonna be fine
+if William just cooperates.
+
+1112
+01:26:55,520 --> 01:26:58,399
+Fine? You idiot.
+They're gonna kill us, Ed.
+
+1113
+01:26:58,480 --> 01:26:59,914
+- Mom.
+- What are you talking about?
+
+1114
+01:27:00,000 --> 01:27:02,720
+I have snacks in my office.
+Take the kids in there.
+
+1115
+01:27:02,800 --> 01:27:03,836
+Mom!
+
+1116
+01:27:03,920 --> 01:27:05,320
+Mom, come with us.
+
+1117
+01:27:19,120 --> 01:27:20,236
+[man] Foster's here.
+
+1118
+01:27:20,440 --> 01:27:21,556
+Yes, sir.
+
+1119
+01:27:21,840 --> 01:27:23,035
+[hangs up receiver]
+
+1120
+01:27:25,040 --> 01:27:26,156
+Look, Mona, we...
+
+1121
+01:27:26,880 --> 01:27:30,191
+We stole millions of dollars' worth
+of Bionyne equipment to make you.
+
+1122
+01:27:30,280 --> 01:27:31,953
+- Make me?
+- Yes, make you.
+
+1123
+01:27:32,040 --> 01:27:33,838
+To bring you back.
+You died, remember?
+
+1124
+01:27:33,920 --> 01:27:35,877
+I was supposed to get rid
+of the bodies.
+
+1125
+01:27:35,960 --> 01:27:38,839
+Your bodies. But I couldn't do it.
+
+1126
+01:27:38,920 --> 01:27:40,877
+And then Jones found out,
+and, look...
+
+1127
+01:27:40,960 --> 01:27:43,919
+If we just play ball,
+we can make it out of this.
+
+1128
+01:27:44,000 --> 01:27:45,116
+Get your hands off my wife!
+
+1129
+01:27:49,360 --> 01:27:52,114
+- Where are the kids, honey?
+- They're okay. They're over there.
+
+1130
+01:27:52,200 --> 01:27:54,351
+William, man, I'm... I'm sorry.
+
+1131
+01:27:54,440 --> 01:27:56,750
+This wasn't supposed to happen.
+This got way out of hand.
+
+1132
+01:27:56,840 --> 01:28:00,117
+It's all right, Ed. It's going to be okay.
+
+1133
+01:28:01,520 --> 01:28:03,079
+I destroyed the algorithm.
+
+1134
+01:28:03,160 --> 01:28:04,310
+I noticed that.
+
+1135
+01:28:04,400 --> 01:28:07,632
+The only place that algorithm
+exists is in my head.
+
+1136
+01:28:08,440 --> 01:28:09,999
+You want it, we walk out of here.
+
+1137
+01:28:10,080 --> 01:28:12,515
+You never see us again.
+Me and my family disappear.
+
+1138
+01:28:12,640 --> 01:28:13,790
+Bill, are you negotiating?
+
+1139
+01:28:16,760 --> 01:28:17,910
+You need me.
+
+1140
+01:28:18,680 --> 01:28:19,875
+[Jones] Maybe.
+
+1141
+01:28:21,720 --> 01:28:23,837
+- But I don't need her.
+- Jones, wait!
+
+1142
+01:28:25,920 --> 01:28:27,274
+[Mona screams]
+
+1143
+01:28:31,360 --> 01:28:32,874
+Or him.
+
+1144
+01:28:33,520 --> 01:28:35,876
+Wait, no, I'll do it!
+I'll do it, I'll do it!
+
+1145
+01:28:36,520 --> 01:28:37,920
+I'll give you the algorithm.
+
+1146
+01:28:39,240 --> 01:28:40,435
+I know.
+
+1147
+01:28:52,120 --> 01:28:53,679
+If you trust him, he'll kill us.
+
+1148
+01:28:55,600 --> 01:28:57,114
+I love you.
+
+1149
+01:29:06,720 --> 01:29:09,076
+[electricity pulsing]
+
+1150
+01:30:07,440 --> 01:30:08,440
+[equipment clangs]
+
+1151
+01:30:15,600 --> 01:30:17,751
+[metallic clanging]
+
+1152
+01:30:47,760 --> 01:30:48,910
+The algorithm.
+
+1153
+01:30:49,000 --> 01:30:51,231
+- It's all there?
+- It's all there.
+
+1154
+01:30:52,400 --> 01:30:54,039
+Now, let my family go.
+
+1155
+01:30:55,080 --> 01:30:56,594
+Why are you stuck on that?
+
+1156
+01:30:57,160 --> 01:30:58,992
+This thing...
+
+1157
+01:31:01,320 --> 01:31:02,549
+It's a copy.
+
+1158
+01:31:02,880 --> 01:31:04,314
+I mean, you really don't get it?
+
+1159
+01:31:04,800 --> 01:31:06,393
+The experiment's over, Bill.
+
+1160
+01:31:07,080 --> 01:31:08,150
+No, it isn't.
+
+1161
+01:31:10,720 --> 01:31:12,080
+[William's voice, distorted]
+<i>Jones.</i>
+
+1162
+01:31:13,160 --> 01:31:15,356
+<i>I'm here for my family.</i>
+
+1163
+01:31:28,080 --> 01:31:29,434
+The kids! Let's get the kids!
+
+1164
+01:31:58,520 --> 01:32:00,398
+[starts car]
+
+1165
+01:32:10,200 --> 01:32:11,316
+Go.
+
+1166
+01:32:16,160 --> 01:32:19,437
+Mom, what is he doing?
+Where is he going?
+
+1167
+01:32:20,600 --> 01:32:22,831
+He's gone to get something, honey.
+
+1168
+01:32:23,840 --> 01:32:25,479
+He's gone to get something.
+
+1169
+01:32:29,280 --> 01:32:30,839
+[gagging]
+
+1170
+01:32:31,280 --> 01:32:33,636
+[William] William! William!
+
+1171
+01:32:34,880 --> 01:32:36,837
+That's enough.
+
+1172
+01:32:48,920 --> 01:32:50,479
+What's it feel like?
+
+1173
+01:32:57,160 --> 01:33:00,039
+<i>This is going to sound strange.</i>
+
+1174
+01:33:00,360 --> 01:33:01,840
+<i>But it feels...</i>
+
+1175
+01:33:02,600 --> 01:33:03,920
+<i>like me.</i>
+
+1176
+01:33:10,520 --> 01:33:11,920
+[Jones feebly] Bill.
+
+1177
+01:33:19,760 --> 01:33:22,559
+You know they'll just send somebody else
+after I'm gone.
+
+1178
+01:33:23,080 --> 01:33:25,720
+Sooner or later, they'll find you.
+
+1179
+01:33:25,800 --> 01:33:28,156
+Not if we work together.
+
+1180
+01:33:29,320 --> 01:33:31,596
+Bill, are you negotiating?
+
+1181
+01:33:34,720 --> 01:33:37,394
+<i>What if I told you
+there's another way, Jones?</i>
+
+1182
+01:33:38,600 --> 01:33:42,799
+<i>Give us what we want
+and you can live again,</i>
+
+1183
+01:33:43,200 --> 01:33:45,431
+<i>as a very rich man.</i>
+
+1184
+01:33:47,160 --> 01:33:51,393
+What do you say? Do we have a deal?
+
+1185
+01:33:53,600 --> 01:33:55,751
+See you soon, Bill.
+
+1186
+01:34:03,840 --> 01:34:05,957
+<i>I'll handle it from here, William.</i>
+
+1187
+01:34:06,440 --> 01:34:09,672
+Are you sure?
+You'll have to stay behind.
+
+1188
+01:34:10,760 --> 01:34:12,274
+<i>There is no other way.</i>
+
+1189
+01:34:13,040 --> 01:34:14,759
+<i>You take care of the family.</i>
+
+1190
+01:34:17,760 --> 01:34:19,479
+<i>We'll be fine.</i>
+
+1191
+01:34:43,040 --> 01:34:44,952
+[William sighs] Ed.
+
+1192
+01:35:01,120 --> 01:35:03,589
+[electronic pulsing]
+
+1193
+01:35:20,600 --> 01:35:22,000
+[monitor beeping]
+
+1194
+01:35:31,480 --> 01:35:34,439
+[laughing]
+
+1195
+01:35:53,760 --> 01:35:54,955
+Mommy!
+
+1196
+01:35:57,360 --> 01:35:58,680
+Zoe!
+
+1197
+01:36:26,920 --> 01:36:27,990
+Mr. Quissam.
+
+1198
+01:36:28,600 --> 01:36:30,398
+I am so glad you could make it.
+
+1199
+01:36:31,040 --> 01:36:32,040
+[latches click open]
+
+1200
+01:36:33,160 --> 01:36:34,879
+Trust me. You won't regret it.
+
+1201
+01:36:35,320 --> 01:36:36,390
+Because I ask you,
+
+1202
+01:36:36,480 --> 01:36:39,473
+what price can you put
+on a second lifetime?
+
+1203
+01:36:40,840 --> 01:36:41,956
+Please.
+
+1204
+01:36:56,840 --> 01:36:59,560
+Oh, Bill, it's time to go to work.
+
+1205
+01:37:00,240 --> 01:37:02,516
+[electronics pulsing]
+
+1206
+01:37:07,040 --> 01:37:09,316
+<i>Boot the mapping sequence.</i>
+
+1207
+01:37:11,360 --> 01:37:14,080
+[pop music playing]
+
+1208
+01:41:05,600 --> 01:41:07,353
+[pop song ends]
+
+1209
+01:41:07,440 --> 01:41:12,720
+[techno starts]
+
+1210
+01:47:47,680 --> 01:47:50,718
+[music ends]
+

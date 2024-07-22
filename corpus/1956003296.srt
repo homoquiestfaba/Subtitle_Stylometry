@@ -1,0 +1,4244 @@
+1
+00:01:02,062 --> 00:01:03,780
+What did you eat?
+
+2
+00:01:05,148 --> 00:01:07,043
+You had rations for two weeks.
+
+3
+00:01:07,067 --> 00:01:09,286
+You were inside for nearly four months.
+
+4
+00:01:09,987 --> 00:01:11,739
+I don't remember eating.
+
+5
+00:01:14,616 --> 00:01:16,835
+How long did you think you were inside?
+
+6
+00:01:19,079 --> 00:01:20,251
+Days.
+
+7
+00:01:21,415 --> 00:01:23,008
+Maybe weeks.
+
+8
+00:01:26,503 --> 00:01:29,006
+What happened to Josie Radek?
+
+9
+00:01:37,097 --> 00:01:39,350
+I don't know.
+What about Sheppard?
+
+10
+00:01:40,142 --> 00:01:41,519
+Thorensen?
+
+11
+00:01:44,771 --> 00:01:45,943
+Dead.
+
+12
+00:01:46,523 --> 00:01:47,695
+Ventress?
+
+13
+00:01:52,946 --> 00:01:54,289
+I don't know.
+
+14
+00:01:55,616 --> 00:01:57,368
+Then what do you know?
+
+15
+00:02:54,257 --> 00:02:56,680
+<i>This is a cell.</i>
+
+16
+00:02:57,344 --> 00:02:58,780
+<i>Like all cells,</i>
+
+17
+00:02:58,804 --> 00:03:01,353
+<i>it is born from an existing cell.</i>
+
+18
+00:03:02,015 --> 00:03:03,493
+<i>And by extension,</i>
+
+19
+00:03:03,517 --> 00:03:07,021
+<i>all cells were ultimately born
+from one cell.</i>
+
+20
+00:03:07,604 --> 00:03:09,277
+A single organism
+
+21
+00:03:09,439 --> 00:03:13,160
+alone on Planet Earth,
+perhaps alone in the universe.
+
+22
+00:03:13,443 --> 00:03:15,696
+About four billion years ago
+
+23
+00:03:16,530 --> 00:03:19,329
+one became two. Two became four.
+
+24
+00:03:19,700 --> 00:03:23,170
+Then eight, 16, 32.
+
+25
+00:03:23,537 --> 00:03:26,086
+The rhythm of the dividing pair,
+
+26
+00:03:26,790 --> 00:03:28,292
+which becomes
+
+27
+00:03:28,542 --> 00:03:31,312
+the structure of every microbe,
+
+28
+00:03:31,336 --> 00:03:34,482
+blade of grass, sea creature,
+land creature,
+
+29
+00:03:34,506 --> 00:03:35,723
+and human.
+
+30
+00:03:35,882 --> 00:03:39,307
+The structure of everything that lives
+
+31
+00:03:39,720 --> 00:03:42,143
+and everything that dies.
+
+32
+00:03:42,472 --> 00:03:46,285
+As students of medicine,
+as the doctors of tomorrow,
+
+33
+00:03:46,309 --> 00:03:47,811
+this is where you come in.
+
+34
+00:03:48,770 --> 00:03:51,457
+The cell we're looking at
+
+35
+00:03:51,481 --> 00:03:52,625
+is from a tumor.
+
+36
+00:03:52,649 --> 00:03:54,419
+Female patient, early thirties,
+
+37
+00:03:54,443 --> 00:03:56,504
+taken from the cervix.
+
+38
+00:03:56,528 --> 00:03:58,089
+Over the course of the next term,
+
+39
+00:03:58,113 --> 00:04:01,008
+we will be closely examining
+cancer cells in vitro
+
+40
+00:04:01,032 --> 00:04:03,000
+and discussing autophagic activity.
+
+41
+00:04:03,869 --> 00:04:04,929
+Professor?
+
+42
+00:04:04,953 --> 00:04:06,013
+Hi, Katie.
+
+43
+00:04:06,037 --> 00:04:08,210
+I read the John
+Sulston paper last night.
+
+44
+00:04:08,331 --> 00:04:10,268
+I still feel I'm not working
+hard enough.
+
+45
+00:04:10,292 --> 00:04:13,020
+I'm behind the other students,
+they find everything easier.
+
+46
+00:04:13,044 --> 00:04:14,564
+You aren't, and they don't, okay?
+
+47
+00:04:14,588 --> 00:04:15,805
+Lena!
+
+48
+00:04:17,799 --> 00:04:19,016
+Dan.
+
+49
+00:04:19,426 --> 00:04:20,737
+I've been looking for you at lunch,
+
+50
+00:04:20,761 --> 00:04:22,604
+but you never seem to be around.
+
+51
+00:04:23,263 --> 00:04:24,949
+I've been catching up on some writing.
+
+52
+00:04:24,973 --> 00:04:27,326
+All work and no play. It's...
+
+53
+00:04:27,350 --> 00:04:28,567
+Not healthy.
+
+54
+00:04:30,103 --> 00:04:33,607
+I wanted to ask,
+do you have plans Saturday?
+
+55
+00:04:34,232 --> 00:04:36,711
+Sarah and I have a few people over.
+
+56
+00:04:36,735 --> 00:04:38,737
+A garden party while the weather holds.
+
+57
+00:04:40,530 --> 00:04:42,032
+Actually, I do have plans.
+
+58
+00:04:42,574 --> 00:04:43,718
+I think it'll be a lot of fun.
+
+59
+00:04:43,742 --> 00:04:45,219
+Thanks, Dan, I really appreciate it,
+
+60
+00:04:45,243 --> 00:04:47,120
+but I'm going to paint our bed...
+
+61
+00:04:47,621 --> 00:04:49,294
+The bedroom.
+
+62
+00:04:51,333 --> 00:04:52,835
+It's been a year, Lena.
+
+63
+00:04:55,962 --> 00:04:57,398
+You're allowed to come to a barbecue.
+
+64
+00:04:57,422 --> 00:04:59,734
+It is not a betrayal
+
+65
+00:04:59,758 --> 00:05:01,886
+or an insult to his memory.
+
+66
+00:05:04,137 --> 00:05:06,060
+I'm gonna paint the bedroom.
+
+67
+00:06:55,665 --> 00:06:56,712
+Oh, God.
+
+68
+00:07:01,421 --> 00:07:02,718
+Oh, my God.
+
+69
+00:07:11,431 --> 00:07:13,525
+I thought you were gone
+
+70
+00:07:16,561 --> 00:07:17,562
+forever.
+
+71
+00:07:23,026 --> 00:07:24,118
+Kane?
+
+72
+00:07:45,507 --> 00:07:47,485
+No one knew anything about your unit.
+
+73
+00:07:47,509 --> 00:07:49,362
+I contacted everyone.
+
+74
+00:07:49,386 --> 00:07:51,197
+Everyone I could.
+
+75
+00:07:51,221 --> 00:07:53,565
+The other partners
+knew just as little as me.
+
+76
+00:07:59,020 --> 00:08:00,192
+Was it covert?
+
+77
+00:08:02,565 --> 00:08:04,283
+Mmm. Maybe.
+
+78
+00:08:04,901 --> 00:08:07,029
+What's that mean, "Maybe"?
+
+79
+00:08:09,322 --> 00:08:12,121
+Okay, yeah. It was covert,
+yeah, I think so.
+
+80
+00:08:12,575 --> 00:08:14,122
+Pakistan again?
+
+81
+00:08:16,246 --> 00:08:20,171
+I don't know where it was,
+
+82
+00:08:22,335 --> 00:08:23,479
+or what it was.
+
+83
+00:08:23,503 --> 00:08:24,897
+How is that possible?
+
+84
+00:08:24,921 --> 00:08:27,265
+Was... Was it warm?
+
+85
+00:08:27,799 --> 00:08:28,800
+Was there snow?
+
+86
+00:08:29,342 --> 00:08:31,237
+Did the people there speak Portuguese,
+
+87
+00:08:31,261 --> 00:08:33,855
+or Swahili, or Pashto?
+
+88
+00:08:38,351 --> 00:08:39,523
+How long have you been back?
+
+89
+00:08:40,979 --> 00:08:42,123
+I don't know.
+
+90
+00:08:42,147 --> 00:08:44,741
+How'd you get back?
+What base did you fly into?
+
+91
+00:08:46,067 --> 00:08:47,128
+I don't know.
+
+92
+00:08:47,152 --> 00:08:48,337
+What about the rest of your unit?
+
+93
+00:08:48,361 --> 00:08:49,578
+Did they come back with you?
+
+94
+00:08:52,532 --> 00:08:55,251
+You must be able to tell me something.
+
+95
+00:08:55,702 --> 00:08:58,931
+You vanished off the face
+of the Earth for 12 months.
+
+96
+00:08:58,955 --> 00:09:01,142
+I deserve a better explanation
+than no explanation.
+
+97
+00:09:01,166 --> 00:09:02,634
+Does it matter?
+
+98
+00:09:25,398 --> 00:09:26,570
+Kane,
+
+99
+00:09:27,817 --> 00:09:29,819
+how did you get home?
+
+100
+00:09:33,073 --> 00:09:34,666
+I was outside.
+
+101
+00:09:35,867 --> 00:09:37,665
+Outside the house?
+
+102
+00:09:38,620 --> 00:09:39,667
+No.
+
+103
+00:09:40,330 --> 00:09:42,332
+No, I was outside the room.
+
+104
+00:09:44,667 --> 00:09:46,340
+The room with the bed.
+
+105
+00:09:48,004 --> 00:09:50,006
+The door was open,
+
+106
+00:09:51,508 --> 00:09:53,010
+and I saw you.
+
+107
+00:09:57,013 --> 00:09:58,765
+I recognized you.
+
+108
+00:10:02,519 --> 00:10:03,566
+Your face.
+
+109
+00:10:18,284 --> 00:10:19,786
+I don't feel very well.
+
+110
+00:10:28,795 --> 00:10:30,297
+Stay with me, baby.
+
+111
+00:10:31,047 --> 00:10:32,173
+I'm right here with you.
+
+112
+00:10:32,382 --> 00:10:34,735
+Male, 31, hemorrhage, in seizure.
+
+113
+00:10:34,759 --> 00:10:37,238
+Stay with me, baby. I love you.
+
+114
+00:10:37,262 --> 00:10:39,606
+Baby, look at me. Can you do something?
+
+115
+00:10:43,434 --> 00:10:45,061
+You call for a police escort?
+
+116
+00:10:54,863 --> 00:10:55,864
+Easy, easy!
+
+117
+00:11:09,419 --> 00:11:10,479
+Out of the truck now!
+Out!
+
+118
+00:11:10,503 --> 00:11:12,380
+Out of the truck now!
+What are you doing?
+
+119
+00:11:12,547 --> 00:11:15,266
+Move! Out, out!
+Don't shoot!
+
+120
+00:11:15,508 --> 00:11:18,011
+Out, out, out!
+What is going on?
+
+121
+00:11:18,428 --> 00:11:19,738
+Do not move!
+What are you doing?
+
+122
+00:11:19,762 --> 00:11:20,990
+You can't move him.
+
+123
+00:11:21,014 --> 00:11:23,858
+Let him go! Let him go!
+
+124
+00:11:26,519 --> 00:11:28,192
+Let him go!
+
+125
+00:12:27,789 --> 00:12:29,507
+You must be feeling dreadful.
+
+126
+00:12:30,333 --> 00:12:33,177
+It's a hangover from
+the sedative you were given.
+
+127
+00:12:33,836 --> 00:12:35,179
+Come on, sit down.
+
+128
+00:12:39,676 --> 00:12:41,019
+Who are you?
+
+129
+00:12:50,770 --> 00:12:52,943
+My name is Dr. Ventress.
+
+130
+00:12:53,773 --> 00:12:55,366
+I'm a psychologist.
+
+131
+00:12:55,733 --> 00:12:57,952
+Why am I talking to a psychologist?
+
+132
+00:13:00,280 --> 00:13:01,966
+Am I in a psychiatric hospital?
+
+133
+00:13:01,990 --> 00:13:04,038
+No.
+Then what?
+
+134
+00:13:04,701 --> 00:13:05,918
+Where am I?
+
+135
+00:13:06,786 --> 00:13:07,787
+Where's my husband?
+
+136
+00:13:09,038 --> 00:13:11,837
+You served in the military
+for seven years.
+
+137
+00:13:13,084 --> 00:13:15,771
+I'm a professor from Johns Hopkins.
+
+138
+00:13:15,795 --> 00:13:18,218
+I want to know
+what the fuck I'm doing here.
+
+139
+00:13:18,339 --> 00:13:19,650
+Your research area
+
+140
+00:13:19,674 --> 00:13:22,945
+is the genetically programed
+life cycle of a cell.
+
+141
+00:13:22,969 --> 00:13:24,446
+Where is my husband?
+
+142
+00:13:24,470 --> 00:13:27,474
+Yeah, I'd like to talk
+about Sergeant Kane.
+
+143
+00:13:28,850 --> 00:13:30,818
+When did he arrive back home?
+
+144
+00:13:33,354 --> 00:13:34,355
+I want to see a lawyer.
+
+145
+00:13:34,647 --> 00:13:36,741
+You're not gonna be able
+to see a lawyer.
+
+146
+00:13:41,571 --> 00:13:43,414
+Did he explain how he got back?
+
+147
+00:13:44,699 --> 00:13:45,759
+No.
+
+148
+00:13:45,783 --> 00:13:49,128
+Did he contact you
+at any point while he was away?
+
+149
+00:13:49,662 --> 00:13:50,663
+No.
+
+150
+00:13:51,831 --> 00:13:54,926
+What did he tell you about
+his mission when he returned?
+
+151
+00:13:55,501 --> 00:13:56,603
+Nothing.
+
+152
+00:13:56,627 --> 00:13:57,896
+What about before he left?
+
+153
+00:13:57,920 --> 00:13:59,690
+Did he ever mention where he was going,
+
+154
+00:13:59,714 --> 00:14:00,774
+what he was doing?
+
+155
+00:14:00,798 --> 00:14:02,651
+He never said, I never asked.
+
+156
+00:14:02,675 --> 00:14:04,820
+But you made regular requests
+
+157
+00:14:04,844 --> 00:14:07,597
+for information from his unit CO
+
+158
+00:14:08,598 --> 00:14:10,726
+until six months ago,
+and then you stopped.
+
+159
+00:14:13,227 --> 00:14:14,228
+Why was that?
+
+160
+00:14:14,896 --> 00:14:18,025
+Thought he was dead? Time to move on?
+
+161
+00:14:19,192 --> 00:14:21,365
+It's not easy to move on.
+
+162
+00:14:23,196 --> 00:14:24,539
+I didn't.
+
+163
+00:14:31,704 --> 00:14:35,208
+I'm done answering questions.
+It's your turn.
+
+164
+00:14:36,292 --> 00:14:38,044
+Your husband's here.
+
+165
+00:14:39,629 --> 00:14:41,148
+He's extremely ill.
+
+166
+00:14:41,172 --> 00:14:44,016
+In what way?
+Multiple organ failure.
+
+167
+00:14:45,635 --> 00:14:47,262
+Massive internal bleeding.
+
+168
+00:14:48,221 --> 00:14:52,067
+He must have been exposed
+to some sort of radiation,
+
+169
+00:14:52,558 --> 00:14:54,060
+some kind of virus.
+
+170
+00:14:54,685 --> 00:14:55,746
+You have to tell me where he was,
+
+171
+00:14:55,770 --> 00:14:57,147
+what he was doing.
+
+172
+00:15:00,358 --> 00:15:02,406
+I could actually help him.
+
+173
+00:15:46,779 --> 00:15:48,531
+<i>A religious event?</i>
+
+174
+00:15:49,449 --> 00:15:51,622
+<i>An extraterrestrial event?</i>
+
+175
+00:15:52,452 --> 00:15:53,999
+<i>A higher dimension?</i>
+
+176
+00:15:54,704 --> 00:15:56,723
+We have many theories.
+
+177
+00:15:56,747 --> 00:15:58,590
+Few facts.
+
+178
+00:15:59,041 --> 00:16:01,687
+It started around three years ago.
+
+179
+00:16:01,711 --> 00:16:04,731
+Blackwater National Park
+reported that a lighthouse
+
+180
+00:16:04,755 --> 00:16:07,109
+was surrounded by something they termed
+
+181
+00:16:07,133 --> 00:16:08,476
+a "Shimmer."
+
+182
+00:16:08,926 --> 00:16:12,305
+One of the wardens
+went in to investigate.
+
+183
+00:16:13,389 --> 00:16:14,436
+Never returned.
+
+184
+00:16:15,558 --> 00:16:17,619
+The event was classified.
+
+185
+00:16:17,643 --> 00:16:20,330
+Since then, we've approached
+by land, by sea,
+
+186
+00:16:20,354 --> 00:16:24,234
+sent in drones, animals,
+and teams of people.
+
+187
+00:16:24,734 --> 00:16:26,452
+But nothing comes back.
+
+188
+00:16:27,028 --> 00:16:29,882
+And the boundary's
+getting bigger, it's expanding.
+
+189
+00:16:29,906 --> 00:16:32,634
+So far, it's eating into
+barely populated swampland,
+
+190
+00:16:32,658 --> 00:16:36,054
+which we evacuated under the pretext
+
+191
+00:16:36,078 --> 00:16:38,223
+of a chemical spill,
+
+192
+00:16:38,247 --> 00:16:39,874
+but that won't last much longer.
+
+193
+00:16:40,666 --> 00:16:42,144
+In a few months,
+
+194
+00:16:42,168 --> 00:16:45,923
+the area will have grown
+to where we are right now.
+
+195
+00:16:48,174 --> 00:16:51,053
+And then we're talking cities,
+
+196
+00:16:51,761 --> 00:16:53,263
+states,
+
+197
+00:16:54,764 --> 00:16:56,357
+and so on.
+
+198
+00:16:58,267 --> 00:17:00,361
+You say nothing comes back.
+
+199
+00:17:01,187 --> 00:17:02,689
+But something has.
+
+200
+00:17:04,690 --> 00:17:05,782
+Yes.
+
+201
+00:17:14,325 --> 00:17:15,668
+He's dying.
+
+202
+00:17:17,411 --> 00:17:18,503
+Yes.
+
+203
+00:17:21,332 --> 00:17:23,393
+We need to come to an agreement
+
+204
+00:17:23,417 --> 00:17:24,919
+about what to do with you.
+
+205
+00:17:25,169 --> 00:17:27,547
+You're not going to let me go home?
+
+206
+00:17:30,841 --> 00:17:33,344
+Is that what you want? To go home?
+
+207
+00:17:37,515 --> 00:17:38,687
+No.
+
+208
+00:17:39,433 --> 00:17:41,276
+I want to be with him.
+
+209
+00:18:00,204 --> 00:18:01,956
+You're not talking to me.
+
+210
+00:18:03,708 --> 00:18:04,880
+Sorry.
+
+211
+00:18:06,127 --> 00:18:07,629
+Zoned out.
+
+212
+00:18:08,879 --> 00:18:10,973
+Thinking about the next mission?
+
+213
+00:18:13,384 --> 00:18:14,476
+No.
+
+214
+00:18:15,386 --> 00:18:17,388
+I was just looking at the moon.
+
+215
+00:18:19,599 --> 00:18:22,569
+It's always so weird
+seeing it like that in the daylight.
+
+216
+00:18:23,060 --> 00:18:25,289
+Like God made a mistake.
+
+217
+00:18:25,313 --> 00:18:26,565
+Left the hall lights on.
+
+218
+00:18:26,814 --> 00:18:28,191
+God doesn't make mistakes.
+
+219
+00:18:29,358 --> 00:18:31,827
+That's somewhat
+key to the whole being-a-god thing.
+
+220
+00:18:33,738 --> 00:18:35,411
+Pretty sure He does.
+
+221
+00:18:36,073 --> 00:18:38,667
+You know He's listening
+right now, don't you?
+
+222
+00:18:40,077 --> 00:18:42,931
+You take a cell,
+circumvent the Hayflick limit,
+
+223
+00:18:42,955 --> 00:18:44,207
+you can prevent senescence.
+
+224
+00:18:45,583 --> 00:18:47,894
+I was about to make
+the exact same point.
+
+225
+00:18:47,918 --> 00:18:49,730
+It means the cell doesn't grow old,
+
+226
+00:18:49,754 --> 00:18:50,897
+it becomes immortal.
+
+227
+00:18:50,921 --> 00:18:52,389
+Keeps dividing, doesn't die.
+
+228
+00:18:55,426 --> 00:18:57,404
+We see aging as a natural process,
+
+229
+00:18:57,428 --> 00:18:59,726
+but it's actually a fault in our genes.
+
+230
+00:19:01,766 --> 00:19:03,535
+I get really turned on
+when you patronize me.
+
+231
+00:19:03,559 --> 00:19:04,620
+It's really hot.
+
+232
+00:19:04,644 --> 00:19:07,581
+Without it, I could keep
+looking like this forever.
+
+233
+00:19:07,605 --> 00:19:10,950
+Oh. Okay, well, that could
+constitute a mistake.
+
+234
+00:19:16,864 --> 00:19:19,458
+You didn't tell me where
+you're heading this time.
+
+235
+00:19:21,160 --> 00:19:24,539
+I know there's something
+strange about this mission.
+
+236
+00:19:27,375 --> 00:19:28,376
+Why?
+
+237
+00:19:30,419 --> 00:19:33,639
+The silence around it
+is louder than usual.
+
+238
+00:19:35,966 --> 00:19:38,970
+Kind of angling for a clue here.
+
+239
+00:19:42,973 --> 00:19:44,316
+So...
+
+240
+00:19:48,604 --> 00:19:50,151
+We'll be under the same hemisphere.
+
+241
+00:19:52,108 --> 00:19:53,576
+What does that tell me?
+
+242
+00:19:55,486 --> 00:19:58,740
+It tells you that
+if you step outside and you look up,
+
+243
+00:20:00,199 --> 00:20:01,885
+we'll be looking at the same stars.
+
+244
+00:20:01,909 --> 00:20:03,720
+Holy fucking shit.
+
+245
+00:20:03,744 --> 00:20:05,013
+What?
+Are you kidding?
+
+246
+00:20:05,037 --> 00:20:06,098
+What?
+
+247
+00:20:06,122 --> 00:20:08,090
+You think that's what I do
+while you're away?
+
+248
+00:20:08,457 --> 00:20:09,518
+What?
+
+249
+00:20:09,542 --> 00:20:11,353
+You think I'm out in the garden,
+
+250
+00:20:11,377 --> 00:20:13,880
+pining. Looking up at the sky?
+
+251
+00:20:14,630 --> 00:20:15,982
+Shut up.
+
+252
+00:20:16,006 --> 00:20:18,360
+Oh, to think my beloved Kane...
+
+253
+00:20:18,384 --> 00:20:19,444
+All right. Okay.
+
+254
+00:20:19,468 --> 00:20:22,392
+is looking at this selfsame moon.
+
+255
+00:20:22,555 --> 00:20:23,699
+Stop it.
+
+256
+00:20:23,723 --> 00:20:27,353
+Oh, my distant
+celestial friend...
+
+257
+00:20:27,727 --> 00:20:29,229
+No, no!
+
+258
+00:20:29,729 --> 00:20:32,290
+Please care for my brave soldier.
+
+259
+00:20:32,314 --> 00:20:34,543
+Jesus! You know what?
+You are disrespectful, seriously.
+
+260
+00:20:34,567 --> 00:20:36,878
+Not only to your
+former comrades in the armed forces,
+
+261
+00:20:36,902 --> 00:20:38,046
+but also to the President.
+
+262
+00:20:38,070 --> 00:20:39,131
+You forgot the flag.
+
+263
+00:20:39,155 --> 00:20:42,008
+Oh, I'm getting
+to the motherfucking flag.
+
+264
+00:20:42,032 --> 00:20:43,218
+Oh, my hero!
+
+265
+00:20:43,242 --> 00:20:45,244
+Screw you.
+Okay.
+
+266
+00:20:55,004 --> 00:20:56,440
+She's all by herself.
+
+267
+00:20:56,464 --> 00:20:58,567
+Don't you think we should make friends?
+
+268
+00:20:58,591 --> 00:21:00,235
+Well, obviously you should.
+
+269
+00:21:00,259 --> 00:21:01,351
+Yep, I'll do it.
+
+270
+00:21:05,347 --> 00:21:06,348
+Hey.
+
+271
+00:21:07,016 --> 00:21:08,076
+Hey.
+
+272
+00:21:08,100 --> 00:21:10,694
+Am I intruding?
+No, not at all.
+
+273
+00:21:11,604 --> 00:21:13,106
+Cool. Phew!
+
+274
+00:21:13,647 --> 00:21:15,945
+You know, always see you here alone.
+
+275
+00:21:17,443 --> 00:21:19,296
+I'm guessing you probably feel
+
+276
+00:21:19,320 --> 00:21:21,539
+weird or awkward.
+
+277
+00:21:23,032 --> 00:21:24,705
+Somewhat, I guess.
+
+278
+00:21:25,618 --> 00:21:28,337
+Don't. Seriously, don't.
+
+279
+00:21:29,455 --> 00:21:30,515
+The people here put themselves
+
+280
+00:21:30,539 --> 00:21:31,808
+to sleep in the fetal position,
+
+281
+00:21:31,832 --> 00:21:33,550
+making cooing noises.
+
+282
+00:21:34,126 --> 00:21:35,799
+It's freaky, you know.
+
+283
+00:21:37,463 --> 00:21:38,523
+I'm Anya.
+
+284
+00:21:38,547 --> 00:21:39,639
+Lena.
+
+285
+00:21:39,965 --> 00:21:41,943
+Nice to meet you.
+You, too.
+
+286
+00:21:41,967 --> 00:21:45,071
+Um... Why don't you come
+and meet my crew?
+
+287
+00:21:45,095 --> 00:21:46,893
+Come make friends. Come on.
+
+288
+00:21:48,724 --> 00:21:50,726
+Ladies, meet Lena.
+
+289
+00:21:51,477 --> 00:21:52,954
+Hi. Nice to meet you.
+Hi. Nice to meet you.
+
+290
+00:21:52,978 --> 00:21:55,791
+Yeah, that's Cassie Sheppard
+and Josie Radek.
+
+291
+00:21:55,815 --> 00:21:57,375
+Hi.
+Hi. Nice to meet you.
+
+292
+00:21:57,399 --> 00:21:59,072
+Do you want to have a seat?
+
+293
+00:21:59,652 --> 00:22:00,796
+Thank you.
+
+294
+00:22:00,820 --> 00:22:02,923
+So, first day at the Southern Reach.
+
+295
+00:22:02,947 --> 00:22:03,994
+Yes.
+
+296
+00:22:05,491 --> 00:22:07,164
+Thank you.
+You're welcome.
+
+297
+00:22:07,910 --> 00:22:09,378
+You all been here a long time?
+
+298
+00:22:10,412 --> 00:22:12,390
+Urn... Yeah, right from the start.
+
+299
+00:22:12,414 --> 00:22:13,809
+I'm a geomorphologist.
+
+300
+00:22:13,833 --> 00:22:17,145
+I've been testing
+the magnetic fields around the boundary.
+
+301
+00:22:17,169 --> 00:22:20,469
+Which is like
+using confetti to test a hurricane.
+
+302
+00:22:21,048 --> 00:22:23,652
+Uh... And I've been here
+
+303
+00:22:23,676 --> 00:22:26,321
+10 months? Wow, ten months!
+
+304
+00:22:26,345 --> 00:22:27,906
+Paramedic from Chicago.
+
+305
+00:22:27,930 --> 00:22:29,616
+Tried to join an NGO,
+but my application got flagged,
+
+306
+00:22:29,640 --> 00:22:31,660
+so Southern Reach got me.
+
+307
+00:22:31,684 --> 00:22:32,685
+Only two months.
+
+308
+00:22:33,018 --> 00:22:34,162
+I'm a physicist.
+
+309
+00:22:34,186 --> 00:22:37,082
+I came straight from
+my Cambridge post-doc.
+
+310
+00:22:37,106 --> 00:22:38,608
+She's very smart.
+
+311
+00:22:39,358 --> 00:22:41,169
+What's your story, Lena?
+
+312
+00:22:41,193 --> 00:22:43,547
+I'm from Johns Hopkins. Biologist.
+
+313
+00:22:43,571 --> 00:22:45,382
+Oh, there you go.
+Ha! Biologist?
+
+314
+00:22:45,406 --> 00:22:46,883
+Told you she was smart.
+What?
+
+315
+00:22:46,907 --> 00:22:48,218
+We had a bet on your profession,
+
+316
+00:22:48,242 --> 00:22:50,290
+and Josie had "biologist," of course.
+
+317
+00:22:52,830 --> 00:22:55,392
+I had "law enforcement."
+I had you as single.
+
+318
+00:22:55,416 --> 00:22:58,144
+Jesus! Do you have
+to hit on everyone, like all the time?
+
+319
+00:22:58,168 --> 00:22:59,771
+Come on. Fuck that.
+Under the circumstances,
+
+320
+00:22:59,795 --> 00:23:02,264
+I think I'm allowed
+to roll the dice a few more times.
+
+321
+00:23:03,173 --> 00:23:04,800
+Under what circumstances?
+
+322
+00:23:07,636 --> 00:23:10,731
+Well, yeah, urn, crazy as it seems...
+
+323
+00:23:11,056 --> 00:23:13,229
+Crazy as it is.
+
+324
+00:23:15,561 --> 00:23:17,734
+We are headed that way.
+
+325
+00:23:22,484 --> 00:23:24,004
+You're going into the Shimmer?
+
+326
+00:23:24,028 --> 00:23:25,200
+Six days and counting.
+
+327
+00:23:27,239 --> 00:23:28,991
+You three?
+Four.
+
+328
+00:23:29,491 --> 00:23:30,492
+Ventress.
+
+329
+00:23:32,119 --> 00:23:33,221
+Dr. Ventress?
+
+330
+00:23:33,245 --> 00:23:35,247
+Mmm. Team leader.
+
+331
+00:23:36,248 --> 00:23:38,226
+All women.
+Scientists.
+
+332
+00:23:38,250 --> 00:23:41,220
+The previous teams
+have been largely military, so yeah.
+
+333
+00:23:43,130 --> 00:23:44,598
+What do you think happened to them?
+
+334
+00:23:45,174 --> 00:23:46,818
+Well, there are two theories
+
+335
+00:23:46,842 --> 00:23:48,685
+of what went wrong in the Shimmer.
+
+336
+00:23:49,011 --> 00:23:51,031
+One, something kills them.
+
+337
+00:23:51,055 --> 00:23:53,683
+Two, they go crazy and kill each other.
+
+338
+00:23:55,434 --> 00:23:57,537
+There was one military
+guy who made it out.
+
+339
+00:23:57,561 --> 00:23:58,608
+SHEPPARD: Yeah.
+
+340
+00:23:59,021 --> 00:24:00,081
+Sergeant.
+
+341
+00:24:00,105 --> 00:24:02,324
+Yeah, but you heard about
+the state that he was in.
+
+342
+00:24:50,489 --> 00:24:51,490
+Kane,
+
+343
+00:24:54,493 --> 00:24:56,666
+I know why you went in.
+
+344
+00:25:05,504 --> 00:25:07,256
+I am so sorry.
+
+345
+00:25:09,675 --> 00:25:11,848
+And I know what I have to do.
+
+346
+00:25:15,556 --> 00:25:17,325
+<i>So, you didn't tell them
+about your connection</i>
+
+347
+00:25:17,349 --> 00:25:18,896
+<i>to Sergeant Kane.</i>
+
+348
+00:25:19,268 --> 00:25:22,272
+I thought it would complicate things.
+
+349
+00:25:22,855 --> 00:25:23,856
+What?
+
+350
+00:25:24,940 --> 00:25:26,738
+What would it complicate?
+
+351
+00:25:33,032 --> 00:25:35,330
+Why are you going into the Shimmer?
+
+352
+00:25:37,202 --> 00:25:39,389
+The mission statement is to
+
+353
+00:25:39,413 --> 00:25:42,892
+reach the supposed source of
+the Shimmer, the lighthouse.
+
+354
+00:25:42,916 --> 00:25:46,966
+Enter, acquire data, and return.
+
+355
+00:25:48,714 --> 00:25:51,718
+But I don't think
+that that's your mission statement.
+
+356
+00:25:57,056 --> 00:25:58,399
+No.
+
+357
+00:26:06,315 --> 00:26:09,945
+I've been watching
+the phenomenon for a while now.
+
+358
+00:26:10,360 --> 00:26:12,909
+I profile the volunteers.
+
+359
+00:26:14,073 --> 00:26:16,417
+I pick the teams.
+
+360
+00:26:18,160 --> 00:26:21,164
+They enter. I watch.
+
+361
+00:26:23,665 --> 00:26:26,088
+I watch it grow closer.
+
+362
+00:26:28,921 --> 00:26:31,049
+There's only so long one can do that.
+
+363
+00:26:33,008 --> 00:26:34,976
+But you need to know what's inside?
+
+364
+00:26:36,762 --> 00:26:38,890
+Yes. I do.
+
+365
+00:26:41,600 --> 00:26:42,943
+So do I.
+
+366
+00:26:44,103 --> 00:26:46,105
+So that's the complication.
+
+367
+00:26:47,481 --> 00:26:48,733
+You want to come with us.
+
+368
+00:26:50,275 --> 00:26:52,698
+I can't do anything for him here.
+
+369
+00:26:54,196 --> 00:26:56,119
+Soldier-scientist.
+
+370
+00:26:56,949 --> 00:27:00,624
+You can fight. You can learn.
+
+371
+00:27:03,288 --> 00:27:04,961
+You can save him.
+
+372
+00:27:10,963 --> 00:27:13,608
+You requested to join the mission.
+
+373
+00:27:13,632 --> 00:27:15,610
+You knew all other missions had failed,
+
+374
+00:27:15,634 --> 00:27:18,763
+and the only survivor
+was barely surviving.
+
+375
+00:27:19,471 --> 00:27:21,018
+That was a brave choice.
+
+376
+00:27:21,890 --> 00:27:23,142
+Lowed him.
+
+377
+00:27:25,310 --> 00:27:27,733
+I'm only trying to understand
+what drove you.
+
+378
+00:27:30,983 --> 00:27:32,405
+Lowed him.
+
+379
+00:27:34,987 --> 00:27:36,330
+So I went in.
+
+380
+00:30:20,652 --> 00:30:22,825
+And then we get some real meals.
+
+381
+00:30:23,238 --> 00:30:26,742
+Spaghetti. Here's Radek's
+vegetable crackers.
+
+382
+00:30:28,910 --> 00:30:31,004
+Huh. Cornbread. That's not so bad.
+
+383
+00:30:31,663 --> 00:30:33,336
+Oh, you're finally awake.
+
+384
+00:30:33,623 --> 00:30:36,672
+Got to give me a second.
+I'm a little disoriented.
+
+385
+00:30:37,002 --> 00:30:38,424
+Join the club.
+
+386
+00:30:38,754 --> 00:30:41,052
+You don't remember
+setting up camp, do you?
+
+387
+00:30:43,175 --> 00:30:44,848
+I don't remember anything
+
+388
+00:30:45,177 --> 00:30:47,020
+after we reached the tree line.
+
+389
+00:30:48,138 --> 00:30:49,139
+None of us do.
+
+390
+00:30:50,015 --> 00:30:51,826
+And we did a food inventory.
+
+391
+00:30:51,850 --> 00:30:54,662
+From the depletion,
+it looks like we've been out here for
+
+392
+00:30:54,686 --> 00:30:56,780
+at least three or four days.
+
+393
+00:30:58,190 --> 00:30:59,316
+That's not possible.
+
+394
+00:30:59,983 --> 00:31:01,451
+That's what I said.
+
+395
+00:31:03,445 --> 00:31:08,092
+Guys, I've been checking
+my comms and nav equipment.
+
+396
+00:31:08,116 --> 00:31:10,386
+They boot up fine, no problem
+with the electronics,
+
+397
+00:31:10,410 --> 00:31:12,013
+and the camera is working,
+
+398
+00:31:12,037 --> 00:31:14,974
+but anything that sends
+a signal out of the Shimmer
+
+399
+00:31:14,998 --> 00:31:16,215
+is down.
+
+400
+00:31:16,625 --> 00:31:18,644
+Even though we've probably
+got about 20 satellites
+
+401
+00:31:18,668 --> 00:31:21,046
+above us right now. And check this out.
+
+402
+00:31:24,841 --> 00:31:26,486
+So we have got
+
+403
+00:31:26,510 --> 00:31:29,354
+no compass, no comms, no coordinates,
+
+404
+00:31:30,180 --> 00:31:31,407
+and no landmarks.
+
+405
+00:31:31,431 --> 00:31:33,368
+Well, we know we're in the state park.
+
+406
+00:31:33,392 --> 00:31:36,662
+We head south, hit the ocean,
+then just follow the shoreline
+
+407
+00:31:36,686 --> 00:31:37,747
+until we hit the perimeter wall.
+
+408
+00:31:37,771 --> 00:31:38,863
+Right?
+
+409
+00:31:39,898 --> 00:31:40,958
+How do we know what's south?
+
+410
+00:31:40,982 --> 00:31:42,655
+Come on, Josie, you know this.
+
+411
+00:31:43,276 --> 00:31:44,744
+Hour hand at the sun.
+
+412
+00:31:45,987 --> 00:31:48,160
+Split the difference between
+the hour hand and 12.
+
+413
+00:31:48,281 --> 00:31:49,282
+South.
+
+414
+00:31:49,699 --> 00:31:52,373
+Good. We're oriented.
+
+415
+00:31:52,702 --> 00:31:53,930
+We weren't really expecting
+
+416
+00:31:53,954 --> 00:31:56,265
+the comms equipment to work, were we?
+
+417
+00:31:56,289 --> 00:31:58,184
+I mean, there's been
+three years of expeditions
+
+418
+00:31:58,208 --> 00:32:00,006
+and three years of radio silence.
+
+419
+00:32:00,961 --> 00:32:03,089
+Let's pack up and get moving.
+
+420
+00:32:03,630 --> 00:32:05,758
+We've already lost a lot of the day.
+
+421
+00:33:06,193 --> 00:33:07,378
+Oh, I'm gonna check this out.
+
+422
+00:33:07,402 --> 00:33:09,172
+Get us out of this damn swamp.
+
+423
+00:33:09,196 --> 00:33:10,243
+All right.
+
+424
+00:33:10,822 --> 00:33:12,620
+Let's check out the hut.
+
+425
+00:33:31,009 --> 00:33:33,808
+Looks like someone's about
+to have a wedding.
+
+426
+00:33:36,014 --> 00:33:38,142
+These are very strange.
+
+427
+00:33:39,100 --> 00:33:40,522
+Why?
+
+428
+00:33:42,020 --> 00:33:44,207
+They're all so different.
+
+429
+00:33:44,231 --> 00:33:45,750
+To look at them, you wouldn't say
+
+430
+00:33:45,774 --> 00:33:47,947
+that they're the same species.
+
+431
+00:33:49,069 --> 00:33:51,071
+But they're growing from
+the same branch structure.
+
+432
+00:33:52,239 --> 00:33:54,884
+So it has to be the same species.
+
+433
+00:33:54,908 --> 00:33:56,501
+It's the same plant.
+
+434
+00:33:57,702 --> 00:34:00,389
+It's like they're stuck
+in a continuous mutation.
+
+435
+00:34:00,413 --> 00:34:01,585
+A pathology?
+
+436
+00:34:02,749 --> 00:34:03,841
+Yeah, well,
+
+437
+00:34:05,585 --> 00:34:07,480
+you'd sure as hell call it a pathology
+
+438
+00:34:07,504 --> 00:34:09,347
+if you saw this in a human.
+
+439
+00:34:19,766 --> 00:34:21,827
+Jackpot.
+
+440
+00:34:21,851 --> 00:34:22,943
+Sheppard.
+
+441
+00:34:23,478 --> 00:34:24,650
+Mode of transportation.
+
+442
+00:34:29,776 --> 00:34:31,244
+Anything interesting in there?
+
+443
+00:34:31,528 --> 00:34:34,953
+No. It's been long abandoned,
+maybe even before...
+
+444
+00:34:35,949 --> 00:34:37,041
+Radek?
+
+445
+00:34:38,285 --> 00:34:39,537
+Radek!
+
+446
+00:34:40,245 --> 00:34:42,765
+Radek!
+It's got my bag!
+
+447
+00:34:42,789 --> 00:34:44,086
+Radek!
+
+448
+00:34:47,377 --> 00:34:49,550
+Something's got my bag!
+
+449
+00:34:51,214 --> 00:34:52,716
+It's got my bag!
+
+450
+00:34:57,470 --> 00:34:59,643
+Josie, what's happening?
+What's going on?
+
+451
+00:35:01,224 --> 00:35:02,897
+Grab my shoulder!
+
+452
+00:35:05,812 --> 00:35:07,564
+Get her. Come on.
+
+453
+00:35:08,982 --> 00:35:10,154
+I got her!
+
+454
+00:35:13,236 --> 00:35:14,362
+You're good. You're good.
+
+455
+00:35:14,738 --> 00:35:16,035
+Okay.
+
+456
+00:35:22,912 --> 00:35:25,600
+Let's sit you down.
+Help me with her bag.
+
+457
+00:35:25,624 --> 00:35:28,185
+Okay, just breathe.
+It's okay, you're just fine.
+
+458
+00:35:28,209 --> 00:35:30,382
+What the hell happened?
+Something in the water.
+
+459
+00:35:41,931 --> 00:35:43,649
+Get up! Get up! Go.
+
+460
+00:35:53,485 --> 00:35:55,237
+Shit! Get back.
+
+461
+00:35:59,949 --> 00:36:00,950
+Sheppard!
+
+462
+00:36:01,368 --> 00:36:02,790
+Sheppard, watch out!
+
+463
+00:36:06,373 --> 00:36:07,795
+Holy fuck!
+
+464
+00:36:49,457 --> 00:36:50,549
+Whoa.
+
+465
+00:36:52,252 --> 00:36:54,846
+It's exactly the same as the flowers.
+
+466
+00:36:55,839 --> 00:36:57,341
+Look at the teeth.
+
+467
+00:36:58,341 --> 00:37:00,059
+Concentric rows.
+
+468
+00:37:00,844 --> 00:37:03,814
+Something here is making
+giant waves in the gene pool.
+
+469
+00:37:04,180 --> 00:37:05,991
+Sharks have teeth like that, don't they?
+
+470
+00:37:06,015 --> 00:37:08,268
+Do you think it's a crossbreed?
+
+471
+00:37:09,352 --> 00:37:12,777
+You can't crossbreed
+between different species.
+
+472
+00:37:15,942 --> 00:37:17,785
+Lena, this is getting heavy.
+
+473
+00:37:27,287 --> 00:37:30,131
+The mutations were subtle at first.
+
+474
+00:37:31,040 --> 00:37:34,544
+More extreme as we grew
+closer to the lighthouse.
+
+475
+00:37:35,879 --> 00:37:38,052
+Corruptions of form.
+
+476
+00:37:39,215 --> 00:37:41,110
+Duplicates of form.
+
+477
+00:37:41,134 --> 00:37:42,477
+Duplicates?
+
+478
+00:37:45,638 --> 00:37:46,981
+Echoes.
+
+479
+00:37:51,060 --> 00:37:53,939
+Is it possible
+these were hallucinations?
+
+480
+00:37:55,899 --> 00:37:58,072
+I wondered that myself.
+
+481
+00:37:59,235 --> 00:38:01,909
+But they were shared among all of us.
+
+482
+00:38:03,823 --> 00:38:05,746
+It was dreamlike.
+
+483
+00:38:07,076 --> 00:38:08,419
+Nightmarish?
+
+484
+00:38:08,995 --> 00:38:10,497
+Not always.
+
+485
+00:38:12,415 --> 00:38:14,838
+Sometimes it was beautiful.
+
+486
+00:38:42,946 --> 00:38:44,340
+You hurt?
+
+487
+00:38:44,364 --> 00:38:46,366
+It's just a bruise.
+
+488
+00:38:47,367 --> 00:38:49,665
+Must have gotten that from the gator.
+
+489
+00:38:50,119 --> 00:38:51,211
+Yeah.
+
+490
+00:38:55,917 --> 00:38:58,045
+So, where'd you learn to shoot?
+
+491
+00:39:00,213 --> 00:39:02,966
+I was in the military
+before I was an academic.
+
+492
+00:39:03,800 --> 00:39:05,069
+Marines?
+
+493
+00:39:05,093 --> 00:39:07,141
+Army. Seven years.
+
+494
+00:39:07,470 --> 00:39:09,782
+Feels like a lifetime ago now.
+
+495
+00:39:09,806 --> 00:39:10,807
+Yeah.
+
+496
+00:39:12,225 --> 00:39:14,728
+All other lives
+feel like a lifetime ago.
+
+497
+00:39:15,186 --> 00:39:17,314
+We were kids, I was married.
+
+498
+00:39:18,648 --> 00:39:20,543
+Which do you carry around your neck?
+
+499
+00:39:20,567 --> 00:39:22,319
+A husband or a child?
+
+500
+00:39:22,652 --> 00:39:23,824
+Husband.
+
+501
+00:39:24,988 --> 00:39:28,913
+He was in the Army, too.
+That's... That's how we met.
+
+502
+00:39:29,826 --> 00:39:31,453
+"Was" in the Army? He quit?
+
+503
+00:39:33,162 --> 00:39:34,163
+K.I.A.
+
+504
+00:39:36,249 --> 00:39:37,751
+I'm sorry to hear that.
+
+505
+00:39:39,210 --> 00:39:41,355
+Guess there had to be something.
+
+506
+00:39:41,379 --> 00:39:42,676
+What do you mean?
+
+507
+00:39:44,924 --> 00:39:47,486
+Volunteering for this.
+
+508
+00:39:47,510 --> 00:39:50,239
+It's not exactly something
+you do if your life is in
+
+509
+00:39:50,263 --> 00:39:51,765
+perfect harmony.
+
+510
+00:39:53,975 --> 00:39:55,898
+We're all damaged goods here.
+
+511
+00:39:56,769 --> 00:39:58,271
+Anya is sober,
+
+512
+00:39:58,605 --> 00:40:00,249
+therefore an addict.
+
+513
+00:40:00,273 --> 00:40:02,418
+And Josie wears long sleeves
+
+514
+00:40:02,442 --> 00:40:03,627
+because she doesn't want you to see
+
+515
+00:40:03,651 --> 00:40:05,254
+the scars on her forearms.
+
+516
+00:40:05,278 --> 00:40:07,506
+She's tried to kill herself?
+
+517
+00:40:07,530 --> 00:40:10,704
+No, I think the opposite.
+Trying to feel alive.
+
+518
+00:40:13,369 --> 00:40:14,370
+Ventress?
+
+519
+00:40:15,538 --> 00:40:18,462
+Yeah. As far as anyone knows,
+
+520
+00:40:18,958 --> 00:40:23,134
+no friends, no family,
+no partner, no children.
+
+521
+00:40:24,047 --> 00:40:26,300
+No concession in her at all.
+
+522
+00:40:28,593 --> 00:40:29,594
+You?
+
+523
+00:40:30,511 --> 00:40:32,388
+I also lost someone.
+
+524
+00:40:34,641 --> 00:40:36,744
+Not a husband, though. Um...
+
+525
+00:40:36,768 --> 00:40:39,066
+A daughter. Leukemia.
+
+526
+00:40:40,146 --> 00:40:41,443
+God, I'm sorry.
+
+527
+00:40:42,231 --> 00:40:44,154
+In a way, it's two bereavements.
+
+528
+00:40:45,902 --> 00:40:48,781
+My beautiful girl
+
+529
+00:40:50,573 --> 00:40:52,217
+and the person I once was.
+
+530
+00:40:52,241 --> 00:40:53,413
+Hey, hey.
+
+531
+00:40:54,160 --> 00:40:55,833
+We got something here.
+
+532
+00:41:27,193 --> 00:41:28,504
+This used to be the headquarters
+
+533
+00:41:28,528 --> 00:41:30,030
+of the Southern Reach
+
+534
+00:41:31,030 --> 00:41:32,828
+before the Shimmer swallowed it.
+
+535
+00:41:36,369 --> 00:41:37,746
+More mutations.
+
+536
+00:41:38,788 --> 00:41:40,210
+They're everywhere.
+
+537
+00:41:40,873 --> 00:41:42,546
+Malignant.
+
+538
+00:41:42,875 --> 00:41:44,718
+Like tumors.
+
+539
+00:41:46,045 --> 00:41:47,856
+Is that the old mess hall?
+
+540
+00:41:47,880 --> 00:41:48,941
+Yeah.
+
+541
+00:41:48,965 --> 00:41:51,468
+Let's billet there. Come on.
+
+542
+00:42:26,919 --> 00:42:30,173
+There's beds and bags.
+You think people are here?
+
+543
+00:42:30,840 --> 00:42:32,183
+Were here.
+
+544
+00:42:33,009 --> 00:42:35,011
+Yeah, I'm gonna go with the past tense.
+
+545
+00:42:55,782 --> 00:42:56,783
+Damn.
+
+546
+00:43:00,369 --> 00:43:01,370
+Oh.
+
+547
+00:43:03,039 --> 00:43:04,541
+Oh, shit.
+
+548
+00:43:14,050 --> 00:43:16,803
+This shit is heavy. Can't carry this.
+
+549
+00:43:33,152 --> 00:43:34,529
+Lena, what you got going on?
+
+550
+00:43:36,656 --> 00:43:38,249
+Guys, check this out.
+
+551
+00:43:40,159 --> 00:43:42,662
+Peyton. Mayer.
+
+552
+00:43:44,330 --> 00:43:46,708
+Kane. Shelley.
+
+553
+00:43:47,041 --> 00:43:49,419
+Those were the soldiers
+on the last expedition.
+
+554
+00:43:49,669 --> 00:43:51,021
+Looks like they were using this room
+
+555
+00:43:51,045 --> 00:43:52,648
+as their base of operations.
+
+556
+00:43:52,672 --> 00:43:54,566
+Why are some of the names crossed out?
+
+557
+00:43:54,590 --> 00:43:56,235
+Let's not jump to conclusions.
+
+558
+00:43:56,259 --> 00:43:57,653
+I don't know, maybe we should.
+
+559
+00:43:57,677 --> 00:43:58,769
+Yeah.
+
+560
+00:43:59,178 --> 00:44:00,864
+This is a plan-view of the base, right?
+
+561
+00:44:00,888 --> 00:44:02,533
+Yep. This is the mess hall.
+
+562
+00:44:02,557 --> 00:44:04,034
+That's the building we're in?
+Yep.
+
+563
+00:44:04,058 --> 00:44:05,577
+I think that the times by the names
+
+564
+00:44:05,601 --> 00:44:07,496
+are a guard rota,
+
+565
+00:44:07,520 --> 00:44:09,623
+so if they were guarding
+the perimeter, we should, too.
+
+566
+00:44:09,647 --> 00:44:11,524
+Copy that.
+Yep.
+
+567
+00:44:24,370 --> 00:44:26,714
+This might be able to tell us something.
+
+568
+00:44:30,293 --> 00:44:32,637
+"For those that follow."
+
+569
+00:44:33,629 --> 00:44:36,473
+I believe that means us.
+
+570
+00:44:44,974 --> 00:44:46,647
+Memory card.
+
+571
+00:44:48,811 --> 00:44:50,984
+I should be able to play this.
+
+572
+00:44:58,154 --> 00:44:59,497
+It's working.
+
+573
+00:45:03,910 --> 00:45:04,911
+<i>All right?</i>
+
+574
+00:45:10,583 --> 00:45:12,561
+<i>Okay?
+Okay.</i>
+
+575
+00:45:12,585 --> 00:45:13,632
+<i>Okay.</i>
+
+576
+00:45:23,763 --> 00:45:26,107
+Okay. Okay. Okay.
+Okay.
+
+577
+00:45:26,432 --> 00:45:27,775
+Ready? Okay.
+
+578
+00:45:42,615 --> 00:45:43,958
+Shit.
+
+579
+00:45:44,492 --> 00:45:45,994
+What is he doing?
+
+580
+00:45:53,459 --> 00:45:56,804
+No, stop, stop, stop, stop, stop.
+
+581
+00:45:57,964 --> 00:45:59,261
+Hold him. Hold him down.
+
+582
+00:46:03,803 --> 00:46:05,555
+There. There.
+
+583
+00:46:21,904 --> 00:46:23,715
+Okay. So we know
+what happened to the last group,
+
+584
+00:46:23,739 --> 00:46:24,911
+they went insane.
+
+585
+00:46:25,908 --> 00:46:27,469
+There was something alive
+inside that man.
+
+586
+00:46:27,493 --> 00:46:29,096
+No, that was a trick of the light.
+
+587
+00:46:29,120 --> 00:46:30,180
+What?
+
+588
+00:46:30,204 --> 00:46:31,598
+I've been a paramedic for 10 years.
+All right?
+
+589
+00:46:31,622 --> 00:46:33,308
+I've scraped people
+off the side of the road.
+
+590
+00:46:33,332 --> 00:46:36,228
+You see some weird shit.
+That was a trick of the light.
+
+591
+00:46:36,252 --> 00:46:37,521
+His insides were moving.
+
+592
+00:46:37,545 --> 00:46:40,232
+No, it was shock, Radek.
+That was a shock response.
+
+593
+00:46:40,256 --> 00:46:41,316
+Watch it again.
+
+594
+00:46:41,340 --> 00:46:42,818
+No, I'm not gonna
+fucking watch it again!
+
+595
+00:46:42,842 --> 00:46:44,945
+That was not intestines.
+It was like a worm.
+
+596
+00:46:44,969 --> 00:46:46,892
+Okay, then you watch it, Sheppard!
+
+597
+00:46:51,142 --> 00:46:52,485
+Where are you going?
+
+598
+00:47:06,657 --> 00:47:08,830
+Where'd she go?
+Just ahead.
+
+599
+00:48:05,132 --> 00:48:06,475
+What is it?
+
+600
+00:48:07,385 --> 00:48:08,728
+I don't know.
+
+601
+00:48:26,612 --> 00:48:27,839
+I don't want to stay here tonight.
+
+602
+00:48:27,863 --> 00:48:29,285
+We don't have a choice.
+
+603
+00:48:31,409 --> 00:48:33,136
+Please.
+Come on.
+
+604
+00:48:33,160 --> 00:48:36,039
+It's too late in the day
+for us to move on.
+
+605
+00:48:36,330 --> 00:48:37,832
+Come on, let's go outside.
+
+606
+00:49:19,498 --> 00:49:22,047
+Aw, that's nice of you.
+
+607
+00:49:24,295 --> 00:49:26,389
+Why aren't you here?
+
+608
+00:49:28,466 --> 00:49:30,389
+I got to leave a day early.
+
+609
+00:49:30,634 --> 00:49:31,726
+What?
+
+610
+00:49:32,887 --> 00:49:34,389
+Wait, today?
+
+611
+00:49:35,806 --> 00:49:37,729
+Right now.
+Oh, shit.
+
+612
+00:49:37,975 --> 00:49:39,911
+But we had a whole day planned.
+
+613
+00:49:39,935 --> 00:49:42,313
+We were gonna drive to the country.
+
+614
+00:49:42,897 --> 00:49:45,320
+We can't.
+Can you at least...
+
+615
+00:49:50,613 --> 00:49:51,956
+"Now" means right now?
+
+616
+00:49:55,659 --> 00:49:56,660
+Yeah.
+
+617
+00:49:59,914 --> 00:50:01,131
+What is it?
+
+618
+00:50:08,339 --> 00:50:09,682
+I do
+
+619
+00:50:13,260 --> 00:50:14,603
+love you,
+
+620
+00:50:15,429 --> 00:50:16,430
+Lena.
+
+621
+00:50:18,682 --> 00:50:20,355
+I love you, too.
+
+622
+00:51:17,241 --> 00:51:18,333
+Hey.
+
+623
+00:51:20,077 --> 00:51:21,579
+The mystery unraveling?
+
+624
+00:51:23,414 --> 00:51:25,337
+Something's unraveling.
+
+625
+00:51:26,333 --> 00:51:27,960
+I think you're doing okay.
+
+626
+00:51:30,254 --> 00:51:31,940
+Look, Josie's getting some rest.
+
+627
+00:51:31,964 --> 00:51:33,024
+Yeah.
+
+628
+00:51:33,048 --> 00:51:34,925
+With the help of a little sedative.
+
+629
+00:51:35,134 --> 00:51:37,557
+How about you? Get some sleep?
+
+630
+00:51:38,345 --> 00:51:39,437
+Some.
+
+631
+00:51:40,264 --> 00:51:42,483
+I'm at least as freaked as Josie.
+
+632
+00:51:43,934 --> 00:51:45,811
+I'm just hiding it better.
+
+633
+00:51:49,481 --> 00:51:50,949
+I should check on Ventress.
+
+634
+00:51:52,776 --> 00:51:53,777
+Yep.
+
+635
+00:52:25,309 --> 00:52:26,369
+What are you doing up?
+
+636
+00:52:26,393 --> 00:52:28,121
+You're not supposed to
+relieve me until 3:00.
+
+637
+00:52:28,145 --> 00:52:30,113
+I'm done sleeping for the night.
+
+638
+00:52:30,648 --> 00:52:31,900
+Okay.
+
+639
+00:52:33,275 --> 00:52:34,777
+Come look at this.
+
+640
+00:52:38,072 --> 00:52:39,449
+Okay, this is where we are,
+
+641
+00:52:41,033 --> 00:52:42,580
+and that's the lighthouse.
+
+642
+00:52:42,910 --> 00:52:44,929
+Southwest is Ville Perdu.
+
+643
+00:52:44,953 --> 00:52:47,797
+It's a small community
+we evacuated two years ago.
+
+644
+00:52:48,499 --> 00:52:51,645
+I think we should head there tomorrow,
+
+645
+00:52:51,669 --> 00:52:53,146
+and then head out for the coast
+
+646
+00:52:53,170 --> 00:52:55,013
+the following morning.
+
+647
+00:52:57,800 --> 00:52:58,801
+Good.
+
+648
+00:53:03,681 --> 00:53:04,682
+You okay?
+
+649
+00:53:11,313 --> 00:53:13,156
+I was gonna say, when
+
+650
+00:53:13,565 --> 00:53:16,169
+you didn't tell the team
+about your connection to Kane,
+
+651
+00:53:16,193 --> 00:53:18,195
+I wasn't sure if that was a good idea.
+
+652
+00:53:20,656 --> 00:53:23,079
+But after seeing that footage,
+
+653
+00:53:25,911 --> 00:53:26,912
+yeah“.
+
+654
+00:53:27,579 --> 00:53:30,332
+I'm not sure how they would
+have reacted to you.
+
+655
+00:53:32,835 --> 00:53:35,258
+Why did my husband volunteer
+for a suicide mission?
+
+656
+00:53:35,921 --> 00:53:37,673
+Is that what you think we're doing?
+
+657
+00:53:38,257 --> 00:53:39,484
+Committing suicide?
+
+658
+00:53:39,508 --> 00:53:42,352
+You must have profiled him,
+you must have assessed him.
+
+659
+00:53:43,262 --> 00:53:45,014
+He must have said something.
+
+660
+00:53:46,265 --> 00:53:49,109
+So you're asking me as a psychologist?
+
+661
+00:53:50,352 --> 00:53:51,353
+Yeah.
+
+662
+00:53:52,688 --> 00:53:54,782
+Then as a psychologist,
+
+663
+00:53:55,441 --> 00:53:59,116
+I'd say you're confusing
+suicide with self-destruction.
+
+664
+00:54:01,530 --> 00:54:04,124
+Almost none of us commit suicide
+
+665
+00:54:04,533 --> 00:54:07,011
+and almost all of us self-destruct.
+
+666
+00:54:07,035 --> 00:54:10,209
+In some way, in some part of our lives.
+
+667
+00:54:11,123 --> 00:54:14,102
+We drink, or we smoke.
+
+668
+00:54:14,126 --> 00:54:16,345
+We destabilize the good job
+
+669
+00:54:18,505 --> 00:54:20,007
+or the happy marriage.
+
+670
+00:54:25,137 --> 00:54:27,310
+But these aren't decisions, they're...
+
+671
+00:54:28,056 --> 00:54:29,617
+They're impulses.
+
+672
+00:54:29,641 --> 00:54:31,063
+In fact,
+
+673
+00:54:31,560 --> 00:54:33,163
+you're probably better equipped
+
+674
+00:54:33,187 --> 00:54:35,485
+to explain this than I am.
+What does that mean?
+
+675
+00:54:36,648 --> 00:54:38,400
+You're a biologist.
+
+676
+00:54:39,318 --> 00:54:42,213
+Isn't self-destruction coded into us?
+
+677
+00:54:42,237 --> 00:54:43,739
+Programed into each cell?
+
+678
+00:54:46,492 --> 00:54:47,835
+What was that?
+
+679
+00:54:48,160 --> 00:54:49,412
+Don't know.
+
+680
+00:55:01,173 --> 00:55:02,233
+Josie, wake up.
+
+681
+00:55:02,257 --> 00:55:03,526
+Wake up, Josie, come on. Wake up.
+
+682
+00:55:03,550 --> 00:55:04,597
+Something's happening.
+
+683
+00:55:05,010 --> 00:55:06,762
+Do you see anything?
+No.
+
+684
+00:55:07,095 --> 00:55:08,938
+What happened? I heard a noise.
+
+685
+00:55:10,390 --> 00:55:11,642
+Whoa.
+What?
+
+686
+00:55:14,269 --> 00:55:15,771
+Something's come through the fence.
+
+687
+00:55:16,855 --> 00:55:17,916
+Through the fence?
+
+688
+00:55:17,940 --> 00:55:19,613
+It's ripped open like a fucking zipper.
+
+689
+00:55:25,113 --> 00:55:27,457
+I can't see anything.
+Yeah, neither can I.
+
+690
+00:55:29,868 --> 00:55:31,040
+Sheppard!
+
+691
+00:55:31,662 --> 00:55:32,722
+Sheppard!
+
+692
+00:55:32,746 --> 00:55:34,474
+Fuck.
+What's going on?
+
+693
+00:55:34,498 --> 00:55:36,671
+Sheppard was just next to me,
+and something took her.
+
+694
+00:55:37,709 --> 00:55:39,632
+Oh, fuck! Oh, fuck!
+
+695
+00:55:39,795 --> 00:55:41,547
+Sheppard!
+Shit.
+
+696
+00:55:43,882 --> 00:55:45,384
+Help me!
+
+697
+00:55:46,385 --> 00:55:47,887
+Help me!
+
+698
+00:55:53,308 --> 00:55:54,810
+Sheppard!
+
+699
+00:55:59,064 --> 00:56:00,316
+Sheppard!
+
+700
+00:56:29,761 --> 00:56:32,740
+We have to go back.
+We have to go back now.
+
+701
+00:56:32,764 --> 00:56:33,992
+She's right.
+
+702
+00:56:34,016 --> 00:56:35,785
+Right? In what sense?
+
+703
+00:56:35,809 --> 00:56:37,436
+We've been attacked twice.
+
+704
+00:56:38,061 --> 00:56:39,622
+We lost one of our own.
+
+705
+00:56:39,646 --> 00:56:41,499
+We have evidence the previous team
+
+706
+00:56:41,523 --> 00:56:42,750
+went nuts and chopped each other up.
+
+707
+00:56:42,774 --> 00:56:45,336
+I really don't know
+how much more right she has to be.
+
+708
+00:56:45,360 --> 00:56:47,005
+We haven't reached the lighthouse.
+
+709
+00:56:47,029 --> 00:56:48,423
+We still don't understand the cause
+
+710
+00:56:48,447 --> 00:56:49,799
+or the nature of the Shimmer.
+
+711
+00:56:49,823 --> 00:56:51,467
+We have data, observations, photographs.
+
+712
+00:56:51,491 --> 00:56:52,594
+She has hella footage.
+
+713
+00:56:52,618 --> 00:56:54,345
+All of which makes the phenomenon
+
+714
+00:56:54,369 --> 00:56:55,666
+less explicable, not more.
+
+715
+00:56:58,707 --> 00:57:00,435
+I'm gonna get to the lighthouse.
+
+716
+00:57:00,459 --> 00:57:02,395
+And I'm fine going on my own.
+
+717
+00:57:02,419 --> 00:57:04,387
+You just need to decide
+
+718
+00:57:05,088 --> 00:57:06,931
+whether you're coming with me or not.
+
+719
+00:57:18,644 --> 00:57:21,205
+It's like she doesn't even
+notice that Sheppard is dead.
+
+720
+00:57:21,229 --> 00:57:24,483
+She's crazy. She's a crazy old bitch.
+
+721
+00:57:25,484 --> 00:57:27,111
+And thanks for the fucking backup, Lena!
+
+722
+00:57:29,154 --> 00:57:30,548
+I didn't realize there were sides.
+
+723
+00:57:30,572 --> 00:57:31,633
+Yeah.
+
+724
+00:57:31,657 --> 00:57:32,909
+Yeah, there are sides.
+
+725
+00:57:34,034 --> 00:57:37,038
+Okay. Then I agree with you,
+we should go back.
+
+726
+00:57:37,663 --> 00:57:39,140
+Good. Okay, great. There we go.
+
+727
+00:57:39,164 --> 00:57:40,683
+Okay, so the three of us
+
+728
+00:57:40,707 --> 00:57:42,393
+can just pack up our...
+Hold on a minute.
+
+729
+00:57:42,417 --> 00:57:43,686
+Hold on. We should go back, yes.
+
+730
+00:57:43,710 --> 00:57:46,314
+But it took us, what,
+six days to get here?
+
+731
+00:57:46,338 --> 00:57:49,091
+And the coast is two days away.
+
+732
+00:57:49,675 --> 00:57:52,178
+And as Sheppard said,
+
+733
+00:57:52,886 --> 00:57:53,988
+when we get to the coast,
+
+734
+00:57:54,012 --> 00:57:56,561
+we can just follow it until
+we hit the perimeter wall.
+
+735
+00:57:56,932 --> 00:57:58,775
+You're saying that we get out
+by going deeper in?
+
+736
+00:57:59,226 --> 00:58:00,286
+Yeah, if you like. Yeah.
+
+737
+00:58:00,310 --> 00:58:01,607
+"Like"?
+
+738
+00:58:01,770 --> 00:58:04,523
+No, I don't fucking "like."
+
+739
+00:58:08,694 --> 00:58:10,088
+This isn't some bullshit tactic
+
+740
+00:58:10,112 --> 00:58:11,506
+to get us to the lighthouse, is it?
+
+741
+00:58:11,530 --> 00:58:14,204
+This is not about the lighthouse, okay?
+
+742
+00:58:14,700 --> 00:58:16,873
+I believe that the coast
+is the best route out.
+
+743
+00:58:21,498 --> 00:58:22,499
+Okay?
+
+744
+00:58:35,804 --> 00:58:37,397
+You lied to them.
+
+745
+00:58:40,475 --> 00:58:43,121
+I didn't know what going back meant.
+
+746
+00:58:43,145 --> 00:58:45,898
+Why it would be safer
+than going forward.
+
+747
+00:58:46,815 --> 00:58:47,959
+You didn't know,
+
+748
+00:58:47,983 --> 00:58:50,461
+but you made the decision
+to continue as if you did.
+
+749
+00:58:50,485 --> 00:58:52,130
+Ventress made the decision.
+
+750
+00:58:52,154 --> 00:58:55,499
+Ventress had cancer,
+she was never coming back.
+
+751
+00:58:56,241 --> 00:58:57,914
+You knew she was sick.
+
+752
+00:58:58,410 --> 00:58:59,753
+I had guessed.
+
+753
+00:59:02,748 --> 00:59:04,591
+And you wanted to continue?
+
+754
+00:59:06,668 --> 00:59:07,760
+Yes.
+
+755
+00:59:08,837 --> 00:59:10,009
+I did.
+
+756
+00:59:56,968 --> 00:59:58,780
+She could still be alive.
+
+757
+00:59:58,804 --> 01:00:00,272
+It's highly doubtful.
+
+758
+01:00:01,807 --> 01:00:03,400
+We need to know.
+
+759
+01:00:06,019 --> 01:00:07,020
+Go.
+
+760
+01:00:07,979 --> 01:00:08,980
+Fine.
+
+761
+01:00:11,274 --> 01:00:12,526
+I'm coming with you.
+
+762
+01:00:13,819 --> 01:00:15,162
+I'll go alone.
+
+763
+01:02:44,052 --> 01:02:45,304
+Did you find her?
+
+764
+01:02:45,971 --> 01:02:46,972
+Yeah.
+
+765
+01:02:48,306 --> 01:02:49,649
+She's dead.
+
+766
+01:03:13,999 --> 01:03:15,342
+You okay?
+
+767
+01:03:16,084 --> 01:03:17,353
+Fine.
+
+768
+01:03:17,377 --> 01:03:19,755
+Just leave me the fuck alone.
+
+769
+01:03:45,780 --> 01:03:47,453
+We'll camp here tonight.
+
+770
+01:03:48,450 --> 01:03:51,203
+It's another two hours' walk
+up the coast.
+
+771
+01:04:28,823 --> 01:04:30,575
+They've grown this way.
+
+772
+01:04:31,409 --> 01:04:33,082
+That doesn't make any sense.
+
+773
+01:04:33,745 --> 01:04:35,247
+I think it does.
+
+774
+01:04:44,130 --> 01:04:45,816
+At first, I thought the radio waves
+
+775
+01:04:45,840 --> 01:04:47,735
+were blocked by the Shimmer,
+
+776
+01:04:47,759 --> 01:04:49,945
+and that's why no one inside
+could communicate
+
+777
+01:04:49,969 --> 01:04:52,188
+with base or GPS.
+
+778
+01:04:53,181 --> 01:04:55,201
+But the light waves aren't blocked,
+
+779
+01:04:55,225 --> 01:04:57,694
+they're refracted. And...
+
+780
+01:05:02,023 --> 01:05:04,117
+It's the same with the radios.
+
+781
+01:05:04,776 --> 01:05:06,879
+Signals aren't gone.
+
+782
+01:05:06,903 --> 01:05:08,621
+They're scrambled.
+
+783
+01:05:14,285 --> 01:05:16,128
+That leaf in your hand.
+
+784
+01:05:16,913 --> 01:05:19,007
+Do you know what you'd get
+if you sequenced it?
+
+785
+01:05:19,624 --> 01:05:20,625
+What?
+
+786
+01:05:21,084 --> 01:05:23,837
+Human Hox genes.
+"Hox"? What does "Hox" mean?
+
+787
+01:05:24,587 --> 01:05:26,524
+They're the genes
+that define the body plan,
+
+788
+01:05:26,548 --> 01:05:28,095
+the physical structure.
+
+789
+01:05:30,885 --> 01:05:33,155
+And the plants have human body plan.
+
+790
+01:05:33,179 --> 01:05:37,535
+Arms attached to shoulders,
+legs to hips.
+
+791
+01:05:37,559 --> 01:05:39,186
+It's literally not possible.
+
+792
+01:05:39,644 --> 01:05:41,396
+It's literally what's happening.
+
+793
+01:05:43,731 --> 01:05:45,709
+The Shimmer is a prism,
+
+794
+01:05:45,733 --> 01:05:47,485
+but it refracts everything.
+
+795
+01:05:48,153 --> 01:05:50,702
+Not just light and radio waves.
+
+796
+01:05:51,322 --> 01:05:54,326
+Animal DNA. Plant DNA.
+
+797
+01:05:55,535 --> 01:05:56,878
+All DNA.
+
+798
+01:05:57,120 --> 01:05:58,793
+What do you mean, all DNA?
+
+799
+01:05:59,497 --> 01:06:01,670
+She's talking about our DNA.
+
+800
+01:06:04,085 --> 01:06:05,758
+She's talking about us.
+
+801
+01:07:12,403 --> 01:07:14,997
+All right. I guess this is the bedroom.
+
+802
+01:07:16,407 --> 01:07:18,580
+Let's secure doors and windows.
+
+803
+01:08:43,995 --> 01:08:45,668
+This was a mistake.
+
+804
+01:08:48,166 --> 01:08:49,509
+Okay.
+
+805
+01:08:55,506 --> 01:08:58,385
+You spend more time away from
+your husband than with him.
+
+806
+01:09:00,136 --> 01:09:01,947
+You can't talk to him about work,
+
+807
+01:09:01,971 --> 01:09:02,972
+and he won't talk to you about his.
+
+808
+01:09:03,681 --> 01:09:05,367
+And there is a clear physical
+
+809
+01:09:05,391 --> 01:09:07,411
+and intellectual connection between us.
+
+810
+01:09:07,435 --> 01:09:08,704
+Have I covered the bases?
+
+811
+01:09:08,728 --> 01:09:09,955
+You forgot to mention your wife.
+
+812
+01:09:09,979 --> 01:09:11,697
+I love my wife.
+
+813
+01:09:13,941 --> 01:09:15,784
+She's blameless in this.
+
+814
+01:09:24,035 --> 01:09:25,378
+Come on, Lena.
+
+815
+01:09:26,496 --> 01:09:28,419
+What's really going on here?
+
+816
+01:09:30,375 --> 01:09:33,049
+You think that something
+may have happened to him?
+
+817
+01:09:37,715 --> 01:09:39,717
+Or you think he knows.
+
+818
+01:09:41,886 --> 01:09:43,479
+That's it, isn't it?
+
+819
+01:09:43,888 --> 01:09:47,233
+You think somehow
+he's found out about our affair.
+
+820
+01:09:48,726 --> 01:09:50,399
+Has he found out?
+
+821
+01:09:51,062 --> 01:09:52,314
+Yes.
+
+822
+01:09:55,733 --> 01:09:57,076
+You should go.
+
+823
+01:09:59,070 --> 01:10:01,072
+No, Lena, I...
+Dan.
+
+824
+01:10:01,572 --> 01:10:03,967
+I'm not interested in talking,
+
+825
+01:10:03,991 --> 01:10:05,914
+or anything you have to say.
+
+826
+01:10:06,744 --> 01:10:08,746
+Just get dressed and get out.
+
+827
+01:10:11,165 --> 01:10:12,685
+You know, it's not me you hate.
+
+828
+01:10:12,709 --> 01:10:14,086
+It's yourself.
+
+829
+01:10:17,255 --> 01:10:19,098
+No, Dan, it's you, too.
+
+830
+01:10:22,760 --> 01:10:24,933
+It's never gonna happen again.
+
+831
+01:10:30,601 --> 01:10:31,727
+You lying bitch!
+
+832
+01:10:33,354 --> 01:10:35,833
+What's going on?
+No.
+
+833
+01:10:35,857 --> 01:10:37,793
+You don't get to ask
+that fucking question.
+
+834
+01:10:37,817 --> 01:10:39,819
+You answer it!
+
+835
+01:11:08,431 --> 01:11:10,058
+Brother.
+
+836
+01:11:11,684 --> 01:11:13,732
+Boyfriend.
+
+837
+01:11:14,604 --> 01:11:16,197
+Husband.
+
+838
+01:11:19,525 --> 01:11:20,947
+Husband.
+
+839
+01:11:22,862 --> 01:11:24,660
+Why didn't you tell us?
+
+840
+01:11:26,991 --> 01:11:28,038
+You knew.
+
+841
+01:11:29,202 --> 01:11:30,624
+Obviously.
+
+842
+01:11:34,248 --> 01:11:35,340
+Did you know?
+
+843
+01:11:40,421 --> 01:11:41,718
+Okay.
+
+844
+01:11:45,593 --> 01:11:46,904
+So, there are two theories
+
+845
+01:11:46,928 --> 01:11:48,113
+of what went wrong in the Shimmer.
+
+846
+01:11:48,137 --> 01:11:50,731
+One is that something in here
+killed them. Two
+
+847
+01:11:51,307 --> 01:11:53,901
+is that they went crazy
+and they killed each other.
+
+848
+01:11:55,478 --> 01:11:57,664
+Josie nearly got killed by an alligator,
+
+849
+01:11:57,688 --> 01:12:00,441
+and Cass did get killed
+by a bear.
+
+850
+01:12:02,777 --> 01:12:05,030
+So, yes, theory one, it fits.
+
+851
+01:12:07,990 --> 01:12:09,333
+But
+
+852
+01:12:11,911 --> 01:12:13,913
+I didn't actually see a bear.
+
+853
+01:12:14,872 --> 01:12:17,476
+And neither did Josie.
+
+854
+01:12:17,500 --> 01:12:19,753
+The only people who saw a bear
+were Lena and Ventress.
+
+855
+01:12:20,086 --> 01:12:23,010
+So nothing's confirmed.
+Everything's on their word.
+
+856
+01:12:23,339 --> 01:12:27,778
+Everything's on Lena's word.
+
+857
+01:12:27,802 --> 01:12:29,770
+And what we know now...
+
+858
+01:12:30,847 --> 01:12:37,579
+What we know is that Lena is a liar.
+
+859
+01:12:37,603 --> 01:12:40,482
+Shut the fuck up!
+
+860
+01:12:41,190 --> 01:12:44,990
+Lena, you're a liar.
+
+861
+01:12:47,780 --> 01:12:48,906
+Did you kill Cass?
+
+862
+01:12:51,701 --> 01:12:53,578
+Did you lose your shit?
+
+863
+01:12:56,080 --> 01:12:57,766
+Or do you think that I've lost my shit,
+
+864
+01:12:57,790 --> 01:12:59,309
+and now we're just gonna
+fuck each other up?
+
+865
+01:12:59,333 --> 01:13:00,880
+That's theory two.
+
+866
+01:13:03,754 --> 01:13:05,222
+Oh!
+
+867
+01:13:12,179 --> 01:13:14,181
+When I look at my hands
+
+868
+01:13:15,016 --> 01:13:16,859
+and my fingerprints,
+
+869
+01:13:17,852 --> 01:13:19,445
+I can see them moving.
+
+870
+01:13:26,694 --> 01:13:28,755
+If I let you go
+
+871
+01:13:28,779 --> 01:13:31,703
+and you tie me to a chair
+and cut me open,
+
+872
+01:13:33,117 --> 01:13:36,838
+are my insides gonna move
+like my fingerprints?
+
+873
+01:13:44,211 --> 01:13:48,091
+But I'm not the one tied to a chair.
+
+874
+01:13:52,428 --> 01:13:53,475
+You are.
+
+875
+01:13:58,142 --> 01:14:00,144
+Help me!
+
+876
+01:14:02,897 --> 01:14:04,615
+Help me!
+
+877
+01:14:04,732 --> 01:14:06,585
+Help me!
+
+878
+01:14:06,609 --> 01:14:08,282
+Oh, Cass?
+
+879
+01:14:10,613 --> 01:14:11,956
+You said she was dead.
+
+880
+01:14:13,741 --> 01:14:16,335
+Cass! Cass, I'm coming!
+
+881
+01:14:18,245 --> 01:14:20,247
+Cass, is that you?
+
+882
+01:15:03,582 --> 01:15:04,674
+Help me!
+
+883
+01:15:06,377 --> 01:15:08,550
+Help me!
+
+884
+01:15:09,380 --> 01:15:11,633
+Help...
+
+885
+01:15:26,313 --> 01:15:27,530
+Don't react.
+
+886
+01:15:34,989 --> 01:15:37,492
+me!
+
+887
+01:16:04,351 --> 01:16:06,604
+Help...
+
+888
+01:16:20,701 --> 01:16:22,044
+me!
+
+889
+01:17:13,254 --> 01:17:14,255
+Help me.
+
+890
+01:17:39,071 --> 01:17:40,744
+What are you doing?
+
+891
+01:17:40,990 --> 01:17:43,664
+I'm leaving.
+Now?
+
+892
+01:17:45,327 --> 01:17:47,921
+It's not even light yet.
+I don't have time to wait.
+
+893
+01:17:48,330 --> 01:17:50,016
+We are disintegrating!
+
+894
+01:17:50,040 --> 01:17:52,338
+Our bodies
+as fast as our minds. Can't you feel it?
+
+895
+01:17:53,836 --> 01:17:55,930
+It's like the onset of dementia.
+
+896
+01:17:58,924 --> 01:18:00,676
+If I don't reach the lighthouse soon,
+
+897
+01:18:01,260 --> 01:18:02,821
+the person that started this journey
+
+898
+01:18:02,845 --> 01:18:05,073
+won't be the person that ends it.
+
+899
+01:18:05,097 --> 01:18:07,020
+I want to be the one that ends it.
+
+900
+01:19:09,245 --> 01:19:11,418
+We should go, Josie.
+
+901
+01:19:18,754 --> 01:19:22,099
+How long was your husband
+in the Shimmer?
+
+902
+01:19:22,925 --> 01:19:25,098
+It's hard to say, exactly.
+
+903
+01:19:27,930 --> 01:19:30,058
+Theoretically, as long as a year.
+
+904
+01:19:32,434 --> 01:19:35,859
+That's a long time to be
+inside and remain intact.
+
+905
+01:19:36,522 --> 01:19:39,071
+I'm not so sure he was intact.
+
+906
+01:19:42,695 --> 01:19:44,368
+I'm right
+
+907
+01:19:45,114 --> 01:19:48,343
+about the refractions, aren't I?
+
+908
+01:19:48,367 --> 01:19:49,678
+Yeah.
+
+909
+01:19:49,702 --> 01:19:51,704
+I checked my blood last night.
+
+910
+01:19:54,039 --> 01:19:56,462
+It's in me.
+
+911
+01:19:59,461 --> 01:20:01,930
+It will be in all of us.
+
+912
+01:20:07,886 --> 01:20:11,491
+It was so strange
+hearing Sheppard's voice
+
+913
+01:20:11,515 --> 01:20:13,984
+in the mouth of that creature
+last night.
+
+914
+01:20:15,144 --> 01:20:18,569
+I think, as she was dying,
+part of her mind became
+
+915
+01:20:19,064 --> 01:20:21,908
+part of the creature
+that was killing her.
+
+916
+01:20:23,402 --> 01:20:26,256
+Imagine dying frightened and in pain
+
+917
+01:20:26,280 --> 01:20:30,160
+and having that as the only
+part of you which survives.
+
+918
+01:20:30,909 --> 01:20:32,911
+I wouldn't like that at all.
+
+919
+01:20:53,349 --> 01:20:55,443
+Ventress wants to face it.
+
+920
+01:20:55,768 --> 01:20:57,611
+You want to fight it.
+
+921
+01:20:59,021 --> 01:21:02,116
+But I don't think I want
+either of those things.
+
+922
+01:21:09,156 --> 01:21:10,282
+Josie?
+
+923
+01:21:17,915 --> 01:21:18,962
+Josie.
+
+924
+01:21:23,462 --> 01:21:24,805
+Josie.
+
+925
+01:21:50,823 --> 01:21:54,999
+One by one, all gone, except you.
+
+926
+01:21:56,995 --> 01:21:58,918
+How do you explain that?
+
+927
+01:22:02,418 --> 01:22:04,841
+Is it something I need to explain?
+
+928
+01:22:05,337 --> 01:22:07,089
+Yes, you do.
+
+929
+01:22:13,262 --> 01:22:14,935
+I had to come back.
+
+930
+01:22:16,515 --> 01:22:18,688
+I'm not sure any of them did.
+
+931
+01:22:35,325 --> 01:22:36,827
+Hey.
+
+932
+01:22:40,581 --> 01:22:42,709
+Hey.
+
+933
+01:27:34,124 --> 01:27:36,047
+I thought I was a man.
+
+934
+01:27:43,467 --> 01:27:45,140
+I had a life.
+
+935
+01:27:46,803 --> 01:27:48,646
+People called me Kane.
+
+936
+01:27:50,807 --> 01:27:52,809
+And now I'm not so sure.
+
+937
+01:27:57,314 --> 01:27:59,658
+If I wasn't Kane, what was I?
+
+938
+01:28:05,572 --> 01:28:07,074
+Was I you?
+
+939
+01:28:10,410 --> 01:28:11,912
+Were you me?
+
+940
+01:28:23,465 --> 01:28:27,766
+My flesh moves like liquid.
+
+941
+01:28:31,181 --> 01:28:32,774
+My mind is
+
+942
+01:28:34,684 --> 01:28:36,186
+just cut loose.
+
+943
+01:28:36,686 --> 01:28:38,108
+I can't bear it.
+
+944
+01:28:40,607 --> 01:28:42,585
+<i>I can't bear it.</i>
+
+945
+01:28:42,609 --> 01:28:44,111
+<i>I can't bear it.</i>
+
+946
+01:28:49,199 --> 01:28:51,543
+You ever seen
+a phosphorus grenade go off?
+
+947
+01:28:53,119 --> 01:28:54,371
+They're kinda bright.
+
+948
+01:28:56,331 --> 01:28:57,753
+<i>Shield your eyes.</i>
+
+949
+01:28:59,543 --> 01:29:02,217
+If you ever get out of here,
+you find Lena.
+
+950
+01:29:03,129 --> 01:29:04,756
+I will.
+
+951
+01:29:05,090 --> 01:29:06,216
+No.
+
+952
+01:29:09,135 --> 01:29:13,811
+Five, four, three, two...
+
+953
+01:31:07,879 --> 01:31:10,302
+It's the last phase.
+
+954
+01:31:11,758 --> 01:31:14,181
+Vanished into havoc.
+
+955
+01:31:17,222 --> 01:31:20,567
+Unfathomable mind.
+
+956
+01:31:23,853 --> 01:31:26,707
+And now beacon.
+
+957
+01:31:26,731 --> 01:31:28,404
+Now sea.
+
+958
+01:31:32,404 --> 01:31:34,077
+Dr. Ventress?
+
+959
+01:31:39,077 --> 01:31:40,169
+Lena?
+
+960
+01:31:47,752 --> 01:31:49,254
+We spoke.
+
+961
+01:31:50,630 --> 01:31:52,303
+What was it we said?
+
+962
+01:31:58,013 --> 01:32:00,408
+That I needed to know
+
+963
+01:32:00,432 --> 01:32:02,935
+what was inside the lighthouse.
+
+964
+01:32:05,395 --> 01:32:06,817
+That moment's passed.
+
+965
+01:32:10,692 --> 01:32:12,865
+It's inside me now.
+
+966
+01:32:13,820 --> 01:32:16,414
+What's inside you?
+
+967
+01:32:16,906 --> 01:32:18,783
+It's not like us.
+
+968
+01:32:19,492 --> 01:32:21,790
+It's unlike us.
+
+969
+01:32:24,622 --> 01:32:26,624
+I don't know what it wants.
+
+970
+01:32:27,000 --> 01:32:28,422
+Or if it wants.
+
+971
+01:32:29,377 --> 01:32:31,355
+But it will grow
+
+972
+01:32:31,379 --> 01:32:34,098
+until it encompasses everything.
+
+973
+01:32:36,342 --> 01:32:38,654
+Our bodies and our minds
+will be fragmented
+
+974
+01:32:38,678 --> 01:32:40,197
+into their smallest parts
+
+975
+01:32:40,221 --> 01:32:44,226
+until not one part remains.
+
+976
+01:32:48,313 --> 01:32:49,986
+Annihilation.
+
+977
+01:44:08,784 --> 01:44:10,786
+So it was alien.
+
+978
+01:44:17,209 --> 01:44:19,211
+Can you describe its form?
+
+979
+01:44:23,632 --> 01:44:24,849
+No.
+
+980
+01:44:25,468 --> 01:44:28,017
+Was it carbon-based or...
+
+981
+01:44:31,182 --> 01:44:32,684
+I don't know.
+
+982
+01:44:34,852 --> 01:44:36,320
+What did it want?
+
+983
+01:44:37,897 --> 01:44:40,375
+I don't think it wanted anything.
+
+984
+01:44:40,399 --> 01:44:43,073
+But it... It attacked you.
+
+985
+01:44:43,903 --> 01:44:45,746
+It mirrored me.
+
+986
+01:44:46,155 --> 01:44:47,828
+I attacked it.
+
+987
+01:44:48,741 --> 01:44:51,052
+I'm not sure it even knew I was there.
+
+988
+01:44:51,076 --> 01:44:53,249
+It came here for a reason.
+
+989
+01:44:54,079 --> 01:44:55,932
+It was mutating our environment.
+
+990
+01:44:55,956 --> 01:44:57,924
+It was destroying everything.
+
+991
+01:44:59,084 --> 01:45:01,257
+It wasn't destroying.
+
+992
+01:45:02,588 --> 01:45:04,841
+It was changing everything.
+
+993
+01:45:05,341 --> 01:45:08,311
+It was making something new.
+
+994
+01:45:10,596 --> 01:45:12,018
+Making what?
+
+995
+01:45:19,772 --> 01:45:21,240
+I don't know.
+
+996
+01:45:25,277 --> 01:45:28,372
+A team reached the lighthouse
+a few hours ago.
+
+997
+01:45:29,198 --> 01:45:30,825
+Everything is ash.
+
+998
+01:45:31,450 --> 01:45:34,954
+If what you encountered was once alive,
+
+999
+01:45:35,371 --> 01:45:37,214
+it seems it's now dead.
+
+1000
+01:45:58,644 --> 01:46:02,524
+Now will you tell me
+what happened to my husband?
+
+1001
+01:46:03,065 --> 01:46:04,793
+<i>When the Shimmer disappeared,</i>
+
+1002
+01:46:04,817 --> 01:46:06,711
+<i>his blood pressure stabilized</i>
+
+1003
+01:46:06,735 --> 01:46:09,238
+<i>and his pulse rate started to rise.</i>
+
+1004
+01:46:10,322 --> 01:46:12,342
+<i>A few hours later,
+he was not only awake,</i>
+
+1005
+01:46:12,366 --> 01:46:13,993
+<i>he was lucid.</i>
+
+1006
+01:46:15,327 --> 01:46:17,921
+<i>He's still in isolation, obviously.</i>
+
+1007
+01:46:18,914 --> 01:46:20,257
+So am I.
+
+1008
+01:47:04,251 --> 01:47:05,753
+You aren't Kane.
+
+1009
+01:47:07,171 --> 01:47:08,889
+Are you?
+
+1010
+01:47:14,762 --> 01:47:16,935
+I don't think so.
+
+1011
+01:47:24,355 --> 01:47:26,073
+Are you Lena?
+

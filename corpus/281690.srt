@@ -1,0 +1,3398 @@
+1
+00:00:16,595 --> 00:00:20,645
+Simon, where's the Wakenfield code?
+
+2
+00:00:20,845 --> 00:00:22,716
+Everyone else has finished.
+
+3
+00:00:22,916 --> 00:00:24,003
+May I remind you...
+
+4
+00:00:24,203 --> 00:00:27,122
+that your culprition date
+is non-negotiable?
+
+5
+00:00:27,322 --> 00:00:30,946
+I repeat: non-negotiable.
+
+6
+00:03:47,040 --> 00:03:48,365
+Did you see someone?
+
+7
+00:03:48,628 --> 00:03:49,923
+Yeah.
+
+8
+00:03:50,600 --> 00:03:51,953
+$ 21.52
+
+9
+00:03:52,840 --> 00:03:55,899
+Some guy, brown coat and a hat.
+
+10
+00:05:29,480 --> 00:05:30,833
+Hello?
+
+11
+00:05:31,000 --> 00:05:32,433
+<i>Do not touch it.</i>
+
+12
+00:05:33,960 --> 00:05:34,913
+Hello? Who is it?
+
+13
+00:05:56,724 --> 00:05:58,101
+<i>Public Emergency Services.</i>
+
+14
+00:05:58,301 --> 00:06:00,371
+Hello. I'd like to report a break in.
+
+15
+00:06:43,905 --> 00:06:45,273
+Puppy!
+
+16
+00:06:50,000 --> 00:06:51,353
+Go inside.
+
+17
+00:06:57,520 --> 00:07:00,088
+Simon, what's going on out there?
+
+18
+00:07:00,288 --> 00:07:01,975
+The neighbour's got a dog.
+
+19
+00:07:05,520 --> 00:07:07,667
+You made some improvement.
+
+20
+00:07:07,940 --> 00:07:10,101
+You want to see him do a trick?
+
+21
+00:07:10,455 --> 00:07:12,814
+Hum, not right now.
+I've got a deadline.
+
+22
+00:07:13,014 --> 00:07:15,860
+Let me show you
+something really cool.
+
+23
+00:07:17,800 --> 00:07:21,744
+That's my couch.
+It's nanotech.
+
+24
+00:07:21,944 --> 00:07:26,813
+It's a fantastic piece of furniture,
+and it cleans itself.
+
+25
+00:07:27,121 --> 00:07:28,131
+It cleans itself?
+
+26
+00:07:28,332 --> 00:07:32,089
+When you spill the Chianti on it
+it cleans itself.
+
+27
+00:07:32,636 --> 00:07:36,732
+Hey, have you received
+any packages lately?
+
+28
+00:07:36,932 --> 00:07:38,193
+Packages?
+
+29
+00:07:38,501 --> 00:07:42,802
+Yeah, I found these two packages
+in my apartment.
+
+30
+00:07:43,002 --> 00:07:43,668
+What was in them?
+
+31
+00:07:43,868 --> 00:07:46,454
+- They were empty.
+- Empty?
+
+32
+00:07:48,800 --> 00:07:51,029
+You know, I got an eviction notice.
+
+33
+00:07:51,229 --> 00:07:53,794
+Maybe the landlord's
+playing tricks on me.
+
+34
+00:07:54,160 --> 00:07:55,453
+He's a Scheiß, and
+
+35
+00:07:55,653 --> 00:07:58,012
+he just wants to let you know
+he can get into your apartment.
+
+36
+00:07:58,212 --> 00:08:01,042
+There's some kind of
+chemical imbalance in him.
+
+37
+00:08:03,104 --> 00:08:04,047
+Well,
+
+38
+00:08:04,248 --> 00:08:07,084
+I should go. I'll talk to you later,
+Derrick. I've got a deadline.
+
+39
+00:08:07,284 --> 00:08:09,537
+Yeah, I know you.
+You're a professional.
+
+40
+00:08:18,544 --> 00:08:22,091
+Simon, why don't you get
+the videophone hooked up?
+
+41
+00:08:22,291 --> 00:08:23,396
+I'd like to see your face
+
+42
+00:08:23,596 --> 00:08:26,755
+when you tell me why your code
+still hasn't been abrogated.
+
+43
+00:08:27,920 --> 00:08:31,620
+The client is breathing on my neck
+and he's no small client.
+
+44
+00:08:31,820 --> 00:08:34,239
+He's gonna crush us like rice.
+
+45
+00:08:34,600 --> 00:08:37,151
+A company has paid you well
+for your work, Simon.
+
+46
+00:08:37,351 --> 00:08:39,402
+They will protect their investment.
+
+47
+00:08:39,602 --> 00:08:43,546
+Deliver the code, please.
+Thank you.
+
+48
+00:09:39,480 --> 00:09:43,225
+Do you have the rent today,
+Mr. Simon J.?
+
+49
+00:09:47,760 --> 00:09:50,762
+Tenants who pay get to stay.
+
+50
+00:09:50,962 --> 00:09:53,880
+Tenants who don't pay,
+don't get to stay.
+
+51
+00:09:54,080 --> 00:09:57,973
+Unless you are useful.
+Are you useful, Simon?
+
+52
+00:09:58,480 --> 00:09:59,833
+Or useless?
+
+53
+00:10:00,800 --> 00:10:03,346
+- What do you want?
+- You're going to fix my terminal
+
+54
+00:10:03,546 --> 00:10:08,551
+and I'm going to ignore
+your delicate financial status.
+
+55
+00:10:09,740 --> 00:10:12,625
+I really can't today.
+I've got a deadline.
+
+56
+00:10:15,142 --> 00:10:17,872
+I think you can get to your deadline
+
+57
+00:10:18,072 --> 00:10:21,066
+after you've fixed my terminal.
+
+58
+00:10:21,360 --> 00:10:23,141
+Please.
+
+59
+00:10:26,377 --> 00:10:28,606
+It's frozen again
+and won't turn off.
+
+60
+00:10:28,806 --> 00:10:30,248
+Is it a virus?
+
+61
+00:10:31,130 --> 00:10:32,775
+- When did it go down?
+- Earlier tonight.
+
+62
+00:10:32,975 --> 00:10:34,366
+What time?
+
+63
+00:10:34,471 --> 00:10:37,460
+According to the system,
+around 11:30.
+
+64
+00:10:37,660 --> 00:10:39,521
+Is it a virus?
+
+65
+00:10:39,722 --> 00:10:41,002
+We'll see.
+
+66
+00:10:45,057 --> 00:10:47,602
+You know, someone's been
+breaking in in my apartment.
+
+67
+00:10:47,802 --> 00:10:50,288
+Impossible, not with my security.
+
+68
+00:10:50,794 --> 00:10:54,373
+There are ways.
+Camera's always crashing.
+
+69
+00:10:55,442 --> 00:10:58,436
+Besides, whoever it was
+might live here.
+
+70
+00:10:58,756 --> 00:11:00,170
+Might even have a key.
+
+71
+00:11:04,358 --> 00:11:06,158
+Give me twenty minutes.
+
+72
+00:11:07,000 --> 00:11:10,188
+- Twenty minutes please.
+- Sure, sure.
+
+73
+00:12:04,360 --> 00:12:05,918
+The terminal's fixed.
+
+74
+00:12:17,800 --> 00:12:19,644
+You're still ahead?
+
+75
+00:12:36,480 --> 00:12:38,402
+Anything to drink?
+
+76
+00:14:26,360 --> 00:14:29,591
+Hi. Do you have any locks?
+Any padlocks or anything?
+
+77
+00:14:29,791 --> 00:14:31,940
+- Isle three.
+- Thanks.
+
+78
+00:14:44,520 --> 00:14:46,389
+$ 32.52
+
+79
+00:14:46,516 --> 00:14:48,483
+Someone's following me again?
+
+80
+00:14:48,911 --> 00:14:50,262
+Yeah.
+
+81
+00:15:01,408 --> 00:15:02,525
+Howard?
+
+82
+00:15:02,725 --> 00:15:05,843
+Simon? I was just thinking about you.
+
+83
+00:15:06,040 --> 00:15:07,878
+Where have you been?
+I've been looking for you.
+
+84
+00:15:10,154 --> 00:15:12,199
+Can you hold this for a second?
+
+85
+00:15:13,280 --> 00:15:16,005
+So... Listen Howard, have you been
+sending me these packages?
+
+86
+00:15:16,205 --> 00:15:17,530
+Packages?
+
+87
+00:15:17,700 --> 00:15:19,775
+I've received these three packages,
+
+88
+00:15:19,975 --> 00:15:21,836
+I don't know how
+they got to my apartment.
+
+89
+00:15:22,717 --> 00:15:23,644
+Packages?
+
+90
+00:15:23,844 --> 00:15:27,186
+There was nothing inside them.
+And no address, no sender... Nothing.
+
+91
+00:15:35,480 --> 00:15:38,682
+Let's think about this for a second.
+What do you think?
+
+92
+00:15:38,882 --> 00:15:40,760
+Maybe it's all just happening
+inside your head.
+
+93
+00:15:40,920 --> 00:15:43,437
+- Perfect. Thanks, Howard.
+- Don't laugh.
+
+94
+00:15:43,637 --> 00:15:45,339
+That's how they got me,
+only in baskets,
+
+95
+00:15:45,340 --> 00:15:47,693
+and played their game,
+but I've beat 'em.
+
+96
+00:15:47,893 --> 00:15:50,506
+That's how they get inside
+your head with their tools,
+
+97
+00:15:50,706 --> 00:15:52,347
+They'd offer you that
+target audience,
+
+98
+00:15:52,548 --> 00:15:54,126
+mass production, cheap labour,
+
+99
+00:15:54,327 --> 00:15:57,626
+uniform quality, easy access,
+growth...
+
+100
+00:15:57,827 --> 00:15:59,139
+That's growth forever.
+
+101
+00:15:59,340 --> 00:16:00,651
+Oh hell, let's live forever.
+
+102
+00:16:01,036 --> 00:16:04,148
+Hallelujah, I'm a bomb.
+Hallelujah, a bomb again.
+
+103
+00:16:04,349 --> 00:16:08,866
+Hallelujah, give me a hand out,
+revive me again.
+
+104
+00:16:09,660 --> 00:16:10,794
+Howard, you're nuts.
+
+105
+00:16:10,957 --> 00:16:11,863
+Listen, I have to get upstairs
+
+106
+00:16:12,063 --> 00:16:14,016
+and put this lock on before
+they try and break in again.
+
+107
+00:16:14,200 --> 00:16:17,636
+Do me a favour. If you see anything
+weird or whatever, tell me. Okay?
+
+108
+00:16:33,520 --> 00:16:35,073
+The elevator works?
+
+109
+00:16:36,000 --> 00:16:37,792
+Why, was it broken?
+
+110
+00:16:38,800 --> 00:16:40,353
+I thought so.
+
+111
+00:17:07,041 --> 00:17:08,712
+No keys?
+
+112
+00:17:10,200 --> 00:17:12,156
+Can I use your phone?
+
+113
+00:17:24,000 --> 00:17:25,399
+So, what do you do?
+
+114
+00:17:26,480 --> 00:17:31,861
+Oh... I fix computers.
+I work with computers.
+
+115
+00:17:33,910 --> 00:17:37,324
+<i>Hello, this is Juliet. I'm not in,
+seems you gotta leave me a message.</i>
+
+116
+00:17:39,362 --> 00:17:40,992
+She is peaking out.
+
+117
+00:17:44,196 --> 00:17:46,595
+- I can call the landlord.
+- Thanks.
+
+118
+00:18:03,133 --> 00:18:04,585
+Hello Simon.
+
+119
+00:18:04,880 --> 00:18:06,916
+I see you've been making friends.
+
+120
+00:18:07,560 --> 00:18:09,676
+She lost her keys.
+She's locked out.
+
+121
+00:18:09,877 --> 00:18:11,393
+What's in it for me?
+
+122
+00:18:13,000 --> 00:18:17,239
+You can tell her I'll be right down.
+
+123
+00:18:18,120 --> 00:18:22,377
+Just a few minutes.
+
+124
+00:18:28,000 --> 00:18:29,679
+He says he'll be right down.
+
+125
+00:18:30,211 --> 00:18:32,159
+Oh, great.
+
+126
+00:18:35,480 --> 00:18:37,607
+I'd only sleep.
+
+127
+00:18:38,253 --> 00:18:42,506
+I hate to work at nights.
+Gotta do laundry.
+
+128
+00:18:44,480 --> 00:18:46,932
+I feel like I never catch up.
+
+129
+00:18:56,560 --> 00:18:59,276
+Would you mind
+if I made another call?
+
+130
+00:18:59,711 --> 00:19:00,711
+No.
+
+131
+00:19:13,944 --> 00:19:16,784
+<i>Hey, I'm not here.
+Gonna look into your call when...</i>
+
+132
+00:19:17,255 --> 00:19:18,877
+Another machine.
+
+133
+00:19:20,447 --> 00:19:22,997
+Hey, I'm sorry I wasn't home.
+
+134
+00:19:23,640 --> 00:19:26,288
+Could you bring the package
+to the hospital tomorrow,
+
+135
+00:19:26,488 --> 00:19:29,414
+Maybe I can pick it up tomorrow night.
+
+136
+00:19:31,060 --> 00:19:33,116
+Anyway take care.
+
+137
+00:19:33,920 --> 00:19:35,273
+You sent them.
+
+138
+00:19:38,200 --> 00:19:39,838
+You sent me those packages.
+
+139
+00:19:40,480 --> 00:19:43,098
+What packages?
+I don't know what you're talking about.
+
+140
+00:19:43,298 --> 00:19:44,759
+Why are you here?
+
+141
+00:19:44,960 --> 00:19:48,017
+I was locked out and I thought
+you were helping me.
+
+142
+00:19:48,200 --> 00:19:50,028
+All my data's encrypted.
+
+143
+00:19:50,228 --> 00:19:52,652
+No one can break in.
+What are you doing in my apartment?
+
+144
+00:19:53,320 --> 00:19:56,278
+- I'm leaving.
+- What do you want?
+
+145
+00:19:56,440 --> 00:19:58,982
+I just wanna get
+some sleep. That's all.
+
+146
+00:21:13,880 --> 00:21:17,650
+The 24 hours are over.
+Where is your code?
+
+147
+00:21:17,840 --> 00:21:22,729
+This is very unprofessional.
+Smarten up or fuck off.
+
+148
+00:21:22,929 --> 00:21:25,401
+Please... and thank you.
+
+149
+00:21:36,551 --> 00:21:39,033
+Fucking virus,
+Get out of my computer.
+
+150
+00:22:22,626 --> 00:22:24,355
+Red Courier now speaking.
+May I help you?
+
+151
+00:22:24,585 --> 00:22:26,745
+Hey... Listen, it's an emergency.
+
+152
+00:22:26,945 --> 00:22:29,478
+I need the best home
+security system on the market.
+
+153
+00:22:30,280 --> 00:22:34,464
+Also I would like the latest
+virus protector and three cards of milk.
+
+154
+00:22:34,767 --> 00:22:38,498
+Alright. I'll be there in an hour.
+It's free. Thanks for calling Red Courier.
+
+155
+00:22:49,560 --> 00:22:51,215
+- What's up, man!
+- What did you get me?
+
+156
+00:22:51,416 --> 00:22:54,559
+I got you PRP 4000 infrared
+motion and sound detector system
+
+157
+00:22:54,759 --> 00:22:57,781
+and Virus Pro Version 5.5.
+
+158
+00:22:57,885 --> 00:22:58,820
+Great.
+
+159
+00:22:59,004 --> 00:23:00,548
+Do you want me to install it?
+
+160
+00:23:00,955 --> 00:23:02,528
+Well, I'll install it myself,
+
+161
+00:23:02,762 --> 00:23:03,682
+but could you install
+this trigger for me?
+
+162
+00:23:03,810 --> 00:23:04,683
+Yeah.
+
+163
+00:23:04,910 --> 00:23:06,178
+Did you bring the milk?
+
+164
+00:23:09,051 --> 00:23:11,732
+I might have to charge you
+the emergency rate for this.
+
+165
+00:23:12,240 --> 00:23:13,660
+Yeah, that's fine.
+
+166
+00:23:13,860 --> 00:23:16,974
+Simon, I'm fucking with you.
+Damn, I'll behave some serious!
+
+167
+00:23:17,174 --> 00:23:18,300
+Here.
+
+168
+00:23:20,720 --> 00:23:22,790
+Why do you need
+all this security anyway?
+
+169
+00:23:25,840 --> 00:23:28,449
+I started receiving
+these strange packages.
+
+170
+00:23:30,349 --> 00:23:34,820
+Four packages exactly the same.
+Nothing inside them.
+
+171
+00:23:36,106 --> 00:23:39,445
+I was just asleep. No one has
+the keys, apart from my landlord.
+
+172
+00:23:39,645 --> 00:23:42,256
+What about the windows
+and the ventilation system?
+
+173
+00:23:54,932 --> 00:23:56,758
+Either way, you're not
+gonna have a problem
+
+174
+00:23:56,958 --> 00:23:57,683
+now the system's off
+
+175
+00:23:57,883 --> 00:24:01,858
+and the code of the release is set.
+Read the instructions.
+
+176
+00:24:02,560 --> 00:24:04,152
+Alright. Thanks for coming so quick.
+
+177
+00:24:06,080 --> 00:24:08,727
+You really need to get out.
+I mean you look pale man.
+
+178
+00:24:08,927 --> 00:24:10,310
+and the place is like shit.
+
+179
+00:24:10,560 --> 00:24:12,022
+Look, go to a club, fuck a girl...
+
+180
+00:24:12,222 --> 00:24:13,269
+Let me get you some
+psychedelic drugs.
+
+181
+00:24:13,469 --> 00:24:14,399
+You know I can get that shit.
+
+182
+00:24:14,599 --> 00:24:15,829
+Okay.
+
+183
+00:24:16,200 --> 00:24:18,245
+Look I'm only saying that
+because I care about you.
+
+184
+00:24:18,652 --> 00:24:20,426
+You're one of my best customers.
+
+185
+00:24:22,850 --> 00:24:24,899
+- Thanks.
+- Call me if you need anything.
+
+186
+00:24:27,145 --> 00:24:28,201
+Bye.
+
+187
+00:25:07,000 --> 00:25:09,593
+Look.. have you been putting
+shit in my apartment?
+
+188
+00:25:12,701 --> 00:25:13,955
+Shit?
+
+189
+00:25:14,155 --> 00:25:17,952
+Yes, packages with
+nothing inside them.
+
+190
+00:25:18,768 --> 00:25:21,145
+Did you crawl through
+the vent on the wall?
+
+191
+00:25:29,251 --> 00:25:31,469
+So, here we are...
+
+192
+00:25:48,013 --> 00:25:49,514
+- Simon.
+- Hi.
+
+193
+00:25:49,714 --> 00:25:51,823
+I was wondering if you could turn
+your music down a little,
+
+194
+00:25:52,069 --> 00:25:53,137
+I'm trying to work.
+
+195
+00:25:53,502 --> 00:25:56,364
+Work? It's Friday!
+
+196
+00:25:56,564 --> 00:25:59,053
+It's the week-end. No work.
+
+197
+00:25:59,253 --> 00:26:03,000
+Come and have a drink. And let's talk
+about the neighbours. Come.
+
+198
+00:26:08,640 --> 00:26:11,518
+Gesundheit. Are you sick?
+
+199
+00:26:12,619 --> 00:26:16,820
+Yeah, I guess.
+Just an overnight thing.
+
+200
+00:26:17,480 --> 00:26:19,072
+I have the cure.
+
+201
+00:26:21,520 --> 00:26:25,156
+- Cognac. It's the best!
+- Do you have any milk?
+
+202
+00:26:25,360 --> 00:26:27,842
+Milk is the worst for a cold.
+
+203
+00:26:28,042 --> 00:26:29,329
+Sit down!
+
+204
+00:26:32,360 --> 00:26:36,512
+Hey, what happened to your couch?
+I thought it cleaned itself.
+
+205
+00:26:37,520 --> 00:26:39,112
+It's broken.
+
+206
+00:26:40,820 --> 00:26:43,118
+Drink this, it's good for you.
+
+207
+00:26:43,393 --> 00:26:46,414
+- So, how is your head?
+- Adam.
+
+208
+00:26:48,600 --> 00:26:50,685
+He is sleeping right now,
+
+209
+00:26:50,885 --> 00:26:52,746
+but I believe
+he's making some progress.
+
+210
+00:26:52,946 --> 00:26:54,120
+Yeah?
+
+211
+00:26:54,640 --> 00:26:59,395
+I always wanted to have a child,
+but I have bad sperm.
+
+212
+00:27:00,000 --> 00:27:04,039
+- So what's its first word?
+- Oh, he goes... aaaaaah!
+
+213
+00:27:06,200 --> 00:27:08,986
+Say, couldn't we use
+your speech pattern?
+
+214
+00:27:09,186 --> 00:27:11,809
+At the moment he's learning
+and he's using my pattern
+
+215
+00:27:12,009 --> 00:27:15,534
+but he keeps confusing
+his voice with my voice.
+
+216
+00:27:16,667 --> 00:27:17,496
+And...
+
+217
+00:27:17,731 --> 00:27:21,946
+Adam needs clarity.
+
+218
+00:27:22,146 --> 00:27:25,769
+Adam with my voice?
+It seems a little strange...
+
+219
+00:27:25,969 --> 00:27:30,017
+Please, do it for Adam.
+
+220
+00:27:30,696 --> 00:27:35,797
+A, B, C, D, E...
+
+221
+00:27:35,997 --> 00:27:39,824
+...F, G, H, I...
+
+222
+00:27:40,024 --> 00:27:43,977
+...J, K, L, M...
+
+223
+00:27:44,177 --> 00:27:48,077
+...N, O, P, Q...
+
+224
+00:27:48,277 --> 00:27:51,906
+...R, S, T, U...
+
+225
+00:27:52,317 --> 00:27:57,473
+...V, W, X, Y, Z.
+
+226
+00:27:57,587 --> 00:28:02,198
+Hello father. Thank you Simon.
+Have you received the package?
+
+227
+00:28:02,431 --> 00:28:03,672
+I want to help you.
+
+228
+00:28:03,872 --> 00:28:06,395
+There are changes happening.
+
+229
+00:28:06,595 --> 00:28:09,528
+I am afraid... I am afraid.
+
+230
+00:28:11,480 --> 00:28:13,198
+My son!
+
+231
+00:28:14,340 --> 00:28:16,242
+Why does he make that sound?
+
+232
+00:28:16,860 --> 00:28:20,496
+I gave him access to the web
+all the time. I don't censor anything.
+
+233
+00:28:20,696 --> 00:28:23,274
+- Are you infected?
+- Maybe I should...
+
+234
+00:28:23,485 --> 00:28:25,287
+I'm gathering information.
+
+235
+00:28:28,459 --> 00:28:31,877
+I know something bad
+is happening. I'm finding answers.
+
+236
+00:28:31,878 --> 00:28:36,113
+There are changes happening.
+Some changes in the Q zero zero.
+
+237
+00:28:36,114 --> 00:28:37,461
+Adam!
+
+238
+00:28:38,400 --> 00:28:39,753
+Wait, don't touch it.
+
+239
+00:28:41,240 --> 00:28:44,558
+That's my neighbour,
+the guy with the dog.
+
+240
+00:28:44,758 --> 00:28:48,036
+- Adam! You filthy thing!
+- What are they doing?
+
+241
+00:28:48,280 --> 00:28:51,073
+- Haven't you played the neighbour's game?
+- What game?
+
+242
+00:28:51,560 --> 00:28:54,632
+It's porno! Role-playing shit.
+
+243
+00:28:54,832 --> 00:28:57,572
+I wouldn't be surprised
+if he was using you as a subject.
+
+244
+00:28:57,773 --> 00:28:58,983
+- What do you mean?
+- I don't know,
+
+245
+00:28:59,184 --> 00:29:02,740
+maybe he's capturing
+your reactions for his stories.
+
+246
+00:32:59,565 --> 00:33:00,788
+You!
+
+247
+00:33:03,399 --> 00:33:05,823
+You were in the club? My club?
+
+248
+00:33:08,923 --> 00:33:11,426
+- It's a free country.
+- What are you, a sheep?
+
+249
+00:33:12,840 --> 00:33:14,193
+You've been following me.
+
+250
+00:33:15,320 --> 00:33:17,709
+Look, you've been fucking with me.
+
+251
+00:33:19,496 --> 00:33:21,458
+Why did you send me those packages?
+
+252
+00:33:21,720 --> 00:33:25,145
+Packages?
+What do you know about packages?
+
+253
+00:33:27,121 --> 00:33:30,880
+- I don't wanna be part of your game.
+- Is that what this is about?
+
+254
+00:33:31,080 --> 00:33:33,074
+You kiddin' me?
+With all that's going on
+
+255
+00:33:33,274 --> 00:33:35,371
+you wanna talk about my game?
+
+256
+00:33:35,571 --> 00:33:37,580
+You're in the game!
+
+257
+00:33:37,780 --> 00:33:40,435
+You wanna lead
+or you wanna follow?
+
+258
+00:33:43,320 --> 00:33:45,390
+There are changes happening, man.
+
+259
+00:33:47,400 --> 00:33:49,152
+I can show you things.
+
+260
+00:33:50,640 --> 00:33:52,552
+It's your call.
+
+261
+00:33:56,120 --> 00:33:57,712
+My dog will be hungry.
+
+262
+00:33:59,840 --> 00:34:01,478
+It's supper time for Puppy.
+
+263
+00:34:03,407 --> 00:34:06,062
+Hey, we're gonna have a drink,
+
+264
+00:34:06,262 --> 00:34:07,793
+I'll show you my game...
+
+265
+00:34:07,993 --> 00:34:10,979
+...then we can talk
+about this package riddle.
+
+266
+00:34:11,800 --> 00:34:14,834
+Actually I think I must
+go back to my apartment.
+
+267
+00:34:15,440 --> 00:34:17,746
+Don't be so fucking nervous!
+
+268
+00:34:20,082 --> 00:34:23,272
+Elevator doesn't work
+and we gotta do with this.
+
+269
+00:34:23,540 --> 00:34:26,620
+Fix the fucking elevator!
+
+270
+00:34:26,820 --> 00:34:29,383
+Wait, check this out.
+
+271
+00:34:38,120 --> 00:34:39,799
+Are you gonna fix it?
+
+272
+00:34:51,040 --> 00:34:53,222
+How about that drink, uh?
+
+273
+00:34:56,080 --> 00:34:57,638
+Home sweet home.
+
+274
+00:35:03,960 --> 00:35:05,710
+Puppy?
+
+275
+00:35:05,711 --> 00:35:07,929
+Don't be the naughty boy.
+
+276
+00:35:07,930 --> 00:35:09,513
+Puppy!
+
+277
+00:35:09,880 --> 00:35:12,633
+There. See? He's fine.
+
+278
+00:35:19,520 --> 00:35:22,680
+Hear that?
+Your phone is ringing.
+
+279
+00:35:24,420 --> 00:35:25,615
+Thin walls.
+
+280
+00:35:25,815 --> 00:35:27,267
+So...
+
+281
+00:35:27,859 --> 00:35:29,969
+What's your poison?
+
+282
+00:35:30,171 --> 00:35:32,886
+Huh.. I'd have a beer.
+
+283
+00:35:36,860 --> 00:35:39,711
+I drink Cola 500.
+
+284
+00:35:43,400 --> 00:35:45,404
+Yeah, that's fine.
+
+285
+00:35:54,060 --> 00:35:56,884
+- Haze 'em on your ass.
+- Cheers.
+
+286
+00:36:02,800 --> 00:36:04,138
+Come.
+
+287
+00:36:05,480 --> 00:36:07,882
+Have a look at some of my work.
+
+288
+00:36:12,520 --> 00:36:16,039
+I just got the latest "Virus Pro".
+I've been having some problems.
+
+289
+00:36:16,239 --> 00:36:18,902
+- Yeah, me too.
+- It's been going around.
+
+290
+00:36:20,840 --> 00:36:22,598
+You wanna see something fresh?
+
+291
+00:36:33,400 --> 00:36:35,197
+Are you sure it's fixed?
+
+292
+00:36:36,240 --> 00:36:38,345
+Welcome to the game, my friend.
+
+293
+00:36:39,277 --> 00:36:40,583
+Bugs are part of the game.
+
+294
+00:36:40,783 --> 00:36:45,472
+they can grow as the game
+grows. Have a seat.
+
+295
+00:36:45,672 --> 00:36:47,355
+You wouldn't have something
+like this at the club?
+
+296
+00:36:47,556 --> 00:36:50,498
+Yeah, there's a few
+of them at the club.
+
+297
+00:36:50,499 --> 00:36:51,498
+Thanks.
+
+298
+00:36:56,812 --> 00:36:58,371
+Okay.
+
+299
+00:36:59,120 --> 00:37:00,838
+Put your hands here.
+
+300
+00:37:01,959 --> 00:37:05,798
+Control it with your fingertips.
+Everything's touch-sensitive.
+
+301
+00:37:05,998 --> 00:37:07,603
+This has a mind.
+
+302
+00:37:14,248 --> 00:37:18,767
+Yeah, that's Alice. Check her out.
+
+303
+00:37:27,300 --> 00:37:30,193
+Alright. You know what... I should...
+
+304
+00:37:36,797 --> 00:37:37,914
+You here?
+
+305
+00:37:38,114 --> 00:37:40,436
+So, what do you think of my game?
+
+306
+00:37:45,480 --> 00:37:48,402
+Isn't that the girl
+who lives down in the hall?
+
+307
+00:37:48,403 --> 00:37:49,403
+Trish?
+
+308
+00:37:50,360 --> 00:37:51,952
+Yeah, the nurse.
+
+309
+00:37:52,440 --> 00:37:54,328
+She works on the cancer ward.
+
+310
+00:37:54,329 --> 00:37:56,302
+That chip is from her.
+
+311
+00:37:56,303 --> 00:37:58,351
+She needs a good fuck now, man.
+
+312
+00:37:59,580 --> 00:38:04,640
+She seems to me so full of life
+after being surrounded by slow death all day.
+
+313
+00:38:06,280 --> 00:38:10,587
+I've always been so creative
+doctoring her performance.
+
+314
+00:38:11,760 --> 00:38:13,840
+She doesn't like that.
+
+315
+00:38:14,040 --> 00:38:18,455
+She's Alice's friend.
+Alice has many friends.
+
+316
+00:38:26,296 --> 00:38:27,909
+I like Alice.
+
+317
+00:38:28,852 --> 00:38:31,870
+She holds my future.
+
+318
+00:38:32,681 --> 00:38:34,681
+I suspect her.
+
+319
+00:38:34,881 --> 00:38:37,004
+I don't know her motives.
+
+320
+00:39:25,840 --> 00:39:28,400
+What you do to me...
+
+321
+00:39:32,200 --> 00:39:34,430
+You're my baby...
+You're my lover... you're mine.
+
+322
+00:39:59,120 --> 00:40:02,112
+I've received packages too.
+
+323
+00:40:04,960 --> 00:40:06,712
+Cola 500.
+
+324
+00:40:13,560 --> 00:40:16,109
+Cola 500.
+
+325
+00:40:58,600 --> 00:41:01,560
+I love the smell of sweat and blood.
+
+326
+00:41:02,320 --> 00:41:05,280
+You're my baby,
+you're my lover. You're mine.
+
+327
+00:43:06,450 --> 00:43:08,148
+You're up early.
+
+328
+00:43:09,960 --> 00:43:12,054
+Still high, asshole?
+
+329
+00:43:14,560 --> 00:43:18,354
+Sorry. I didn't mean it.
+
+330
+00:43:20,560 --> 00:43:22,307
+You're right.
+
+331
+00:43:34,199 --> 00:43:37,541
+I've just been put on the one edge.
+
+332
+00:43:47,840 --> 00:43:50,137
+You're pretty fucked up, aren't you?
+
+333
+00:43:53,840 --> 00:43:55,936
+I'm just doing the laundry.
+
+334
+00:43:56,880 --> 00:43:58,603
+What's wrong?
+
+335
+00:44:00,280 --> 00:44:01,481
+I'm fine.
+
+336
+00:44:04,640 --> 00:44:05,993
+Are you sure?
+
+337
+00:44:12,080 --> 00:44:13,762
+It's alright.
+
+338
+00:44:29,629 --> 00:44:31,591
+It'll be alright.
+
+339
+00:44:39,600 --> 00:44:41,447
+He's watching us.
+
+340
+00:44:41,940 --> 00:44:44,952
+So? He's just another lonely man.
+
+341
+00:44:46,059 --> 00:44:48,152
+There's a lot of you out there.
+
+342
+00:44:52,740 --> 00:44:54,949
+You should probably
+stay away from me.
+
+343
+00:44:56,680 --> 00:44:58,576
+I think I might be getting sick.
+
+344
+00:44:58,777 --> 00:45:00,507
+Yeah? Let's feel it.
+
+345
+00:45:07,660 --> 00:45:09,153
+I should go.
+
+346
+00:45:33,360 --> 00:45:36,920
+- That's a lot of milk.
+- Well, I like it.
+
+347
+00:45:37,120 --> 00:45:40,157
+- It makes mucus.
+- How much?
+
+348
+00:45:40,357 --> 00:45:42,995
+Lots. Enlarges the pancreas too.
+
+349
+00:45:43,195 --> 00:45:45,162
+- I meant the milk.
+- So did I.
+
+350
+00:45:45,362 --> 00:45:46,678
+How much does it cost?
+
+351
+00:45:50,600 --> 00:45:52,113
+$ 82,57.
+
+352
+00:45:53,960 --> 00:45:54,695
+$ 82?
+
+353
+00:45:54,696 --> 00:45:58,220
+$ 82.57. I don't control
+the prices, man.
+
+354
+00:46:16,206 --> 00:46:18,405
+Sorry to disturb you, sir.
+
+355
+00:46:19,720 --> 00:46:22,375
+Detective Harris and I
+
+356
+00:46:22,575 --> 00:46:24,717
+need to ask you a few questions.
+
+357
+00:46:25,560 --> 00:46:27,640
+No problem. What's the matter?
+
+358
+00:46:50,800 --> 00:46:53,489
+- Hello?
+- Hello Simon, my name's Adam.
+
+359
+00:46:53,689 --> 00:46:55,616
+You may not talk to me.
+I must talk to you.
+
+360
+00:46:56,080 --> 00:46:58,359
+I've been trying to
+connect me with your brain.
+
+361
+00:46:58,559 --> 00:47:00,075
+I wanted to help you.
+
+362
+00:47:00,275 --> 00:47:05,065
+Stop buying. I must go now.
+I will call again. I will call again.
+
+363
+00:47:16,563 --> 00:47:18,324
+Hello.
+
+364
+00:47:19,822 --> 00:47:21,405
+Hello?
+
+365
+00:47:27,680 --> 00:47:29,716
+- Hey, what's up?
+- You alright?
+
+366
+00:47:29,780 --> 00:47:32,044
+Yeah, yeah.
+I'm good. I'm good.
+
+367
+00:47:32,244 --> 00:47:34,007
+Just sort of freaked out man
+about your neighbour, man,
+
+368
+00:47:34,008 --> 00:47:36,482
+I mean he used to be
+this hardball tenant...
+
+369
+00:47:37,760 --> 00:47:39,159
+Do you think he was infected?
+
+370
+00:47:41,440 --> 00:47:42,793
+I don't know, I don't know.
+
+371
+00:47:44,200 --> 00:47:45,599
+Are you infected?
+
+372
+00:47:47,610 --> 00:47:48,793
+Infected with what?
+
+373
+00:47:49,300 --> 00:47:50,553
+I don't know, I don't know.
+
+374
+00:47:50,554 --> 00:47:51,656
+You know...
+
+375
+00:47:52,160 --> 00:47:54,178
+You know your neighbour was on
+to something? I mean his game
+
+376
+00:47:54,179 --> 00:47:57,697
+could be responsible for shit
+done to venture corporate thugs.
+
+377
+00:47:57,897 --> 00:48:00,280
+It has something to do with
+those packages you received.
+
+378
+00:48:02,160 --> 00:48:04,798
+Do you still have one in here,
+that I can look at?
+
+379
+00:48:05,762 --> 00:48:06,910
+Yeah.
+
+380
+00:48:15,100 --> 00:48:16,353
+Where?
+
+381
+00:48:19,480 --> 00:48:21,038
+I thought it was right here.
+
+382
+00:48:24,240 --> 00:48:26,327
+- Are you alright?
+- Yeah.
+
+383
+00:48:27,796 --> 00:48:29,928
+I think you need a blood test, man.
+
+384
+00:48:32,900 --> 00:48:34,787
+Do you want me to take a sample?
+
+385
+00:48:35,858 --> 00:48:37,786
+- You could do that?
+- Yeah yeah yeah.
+
+386
+00:48:37,986 --> 00:48:39,577
+I got a kit in my bag.
+
+387
+00:48:39,777 --> 00:48:41,020
+Hey, take a seat.
+
+388
+00:48:46,880 --> 00:48:49,508
+- Where did you get this?
+- Oh, connections.
+
+389
+00:48:50,820 --> 00:48:53,247
+Sterile. It's a one-time use.
+
+390
+00:48:54,462 --> 00:48:55,423
+Gimme a thumb.
+
+391
+00:49:02,065 --> 00:49:04,075
+- That's it?
+- Yeah, that's it.
+
+392
+00:49:07,040 --> 00:49:09,208
+I'll get this delivered to the lab.
+
+393
+00:49:10,418 --> 00:49:12,015
+I'll get the results back to you
+
+394
+00:49:12,216 --> 00:49:14,584
+as soon as possible.
+
+395
+00:49:15,400 --> 00:49:17,297
+Why are you drinking milk?
+
+396
+00:49:18,840 --> 00:49:20,059
+What?
+
+397
+00:49:20,562 --> 00:49:22,316
+Didn't you tell me
+you were allergic to it?
+
+398
+00:49:26,000 --> 00:49:28,277
+Oh man, just stop drinking it for a while.
+
+399
+00:49:28,477 --> 00:49:30,382
+See how you react, alright?
+
+400
+00:50:48,360 --> 00:50:49,560
+Howard?
+
+401
+00:50:55,720 --> 00:50:57,570
+Who else could it be?
+
+402
+00:50:58,160 --> 00:50:59,795
+I don't know.
+
+403
+00:51:00,120 --> 00:51:01,796
+Did you see someone
+in the garbage room?
+
+404
+00:51:01,907 --> 00:51:04,387
+I think that a dog
+was in the building.
+
+405
+00:51:07,016 --> 00:51:09,441
+Maybe it was me.
+I've been down here,
+
+406
+00:51:09,641 --> 00:51:11,105
+working on pipes and vents.
+
+407
+00:51:12,040 --> 00:51:14,276
+I'm really glad to see you Simon.
+
+408
+00:51:14,476 --> 00:51:16,010
+Glad to see you.
+
+409
+00:51:16,260 --> 00:51:19,597
+Are you plugged in now?
+Where are the plugs?
+
+410
+00:51:19,797 --> 00:51:21,949
+You know what I mean?
+Plugged in plugged in plugged in?
+
+411
+00:51:22,554 --> 00:51:23,519
+Come on.
+
+412
+00:51:24,080 --> 00:51:25,718
+- Where?
+- My place.
+
+413
+00:51:33,960 --> 00:51:35,313
+Sit down.
+
+414
+00:51:37,165 --> 00:51:38,911
+You know, I made some home-made wine
+
+415
+00:51:39,840 --> 00:51:43,248
+Made out of real grapes.
+You want some?
+
+416
+00:51:44,013 --> 00:51:45,324
+Sure.
+
+417
+00:51:45,754 --> 00:51:48,642
+- It's a nice place, Howard.
+- You hungry?
+
+418
+00:51:50,330 --> 00:51:52,718
+- Yeah, I suppose I am.
+- I'll make you a sandwich.
+
+419
+00:51:52,918 --> 00:51:53,943
+Thanks.
+
+420
+00:51:57,280 --> 00:52:01,315
+You know most people get that food thing,
+almost get screwed and crazy?
+
+421
+00:52:01,500 --> 00:52:05,180
+They don't understand how the human
+body works. They don't understand.
+
+422
+00:52:05,380 --> 00:52:07,198
+gastronomie.
+
+423
+00:52:11,720 --> 00:52:13,073
+Hey, Howard?
+
+424
+00:52:15,920 --> 00:52:17,478
+Can I trust you?
+
+425
+00:52:18,120 --> 00:52:19,599
+I hope so.
+
+426
+00:52:22,440 --> 00:52:24,476
+It's about the Christmas presents.
+
+427
+00:52:25,880 --> 00:52:27,279
+Yeah, those packages.
+
+428
+00:52:29,900 --> 00:52:31,553
+Do you feel sick?
+
+429
+00:52:34,520 --> 00:52:38,227
+No, actually I don't, now that
+you're asking. I feel better.
+
+430
+00:52:39,240 --> 00:52:41,905
+- Here. Eat this.
+- Oh, thanks.
+
+431
+00:52:46,780 --> 00:52:48,503
+That's good.
+
+432
+00:52:49,560 --> 00:52:50,913
+What were you feeling?
+
+433
+00:52:54,160 --> 00:52:57,250
+I don't know.
+...I mean, everything.
+
+434
+00:52:57,560 --> 00:52:58,913
+What?
+
+435
+00:53:03,360 --> 00:53:07,313
+I feel... I feel the building,
+humming and
+
+436
+00:53:08,360 --> 00:53:09,680
+...worrying...
+
+437
+00:53:09,880 --> 00:53:11,791
+...noises.
+
+438
+00:53:13,960 --> 00:53:15,837
+Most times I'm just afraid.
+
+439
+00:53:19,820 --> 00:53:21,442
+Afraid of my own apartment.
+
+440
+00:53:22,870 --> 00:53:24,546
+Afraid I might get another package.
+
+441
+00:53:24,746 --> 00:53:25,622
+Did you change your locks?
+
+442
+00:53:25,822 --> 00:53:27,835
+I can fix 'em for ya,
+I'm really good with my manos.
+
+443
+00:53:28,320 --> 00:53:31,929
+- No, it's okay, I've already done it.
+- You changed 'em?
+
+444
+00:53:32,129 --> 00:53:36,135
+- No, no, a friend of mine, Nile.
+- An old friend?
+
+445
+00:53:37,440 --> 00:53:39,032
+I've known him for a while.
+
+446
+00:53:40,600 --> 00:53:42,750
+Somebody you can trust?
+
+447
+00:53:46,280 --> 00:53:47,952
+You're gonna be fine.
+
+448
+00:53:52,240 --> 00:53:55,357
+You have a conscience.
+That's all you need.
+
+449
+00:53:58,480 --> 00:54:01,318
+- Thanks.
+- You're welcome any time.
+
+450
+00:54:02,600 --> 00:54:05,017
+- Alright.
+- Just a second.
+
+451
+00:54:10,930 --> 00:54:14,812
+Happy birthday, Simon.
+It's one of my early inventions.
+
+452
+00:54:18,360 --> 00:54:19,998
+They're micro-bugs.
+
+453
+00:54:20,318 --> 00:54:21,278
+Yeah.
+
+454
+00:54:22,600 --> 00:54:25,085
+Yeah. Just toys, really.
+
+455
+00:54:27,280 --> 00:54:28,833
+They're nice.
+
+456
+00:54:29,360 --> 00:54:32,636
+Makes you feel like you're
+in the country. I love that sound.
+
+457
+00:54:33,320 --> 00:54:35,598
+Makes me feel comfy and peaceful.
+
+458
+00:54:36,320 --> 00:54:38,896
+Thanks. Thanks a lot.
+
+459
+00:54:39,920 --> 00:54:43,196
+- Good night son.
+- See you, Howard.
+
+460
+00:54:44,880 --> 00:54:47,855
+Hallelujah I'm a bomb...
+
+461
+00:54:48,055 --> 00:54:50,038
+Hallelujah bomb again.
+
+462
+00:54:50,883 --> 00:54:56,513
+Hallelujah...
+Give me a hand out, revive me again.
+
+463
+00:55:10,880 --> 00:55:13,440
+Listen, Simon.
+This isn't funny at all.
+
+464
+00:55:13,720 --> 00:55:16,601
+I don't think you realize
+the seriousness of the situation.
+
+465
+00:55:16,801 --> 00:55:17,855
+We need that code.
+
+466
+00:55:18,055 --> 00:55:19,624
+There are people waiting.
+
+467
+00:55:19,824 --> 00:55:22,672
+I put someone else to work on it,
+because I couldn't find you.
+
+468
+00:55:22,872 --> 00:55:24,845
+I didn't know what to think.
+
+469
+00:55:25,045 --> 00:55:26,697
+If you don't get back at me soon
+
+470
+00:55:26,897 --> 00:55:29,998
+...you'll fucking find it hard
+to work in this business in the future.
+
+471
+00:55:43,489 --> 00:55:44,846
+Hello?
+
+472
+00:55:45,595 --> 00:55:47,324
+It's the police!
+
+473
+00:55:48,079 --> 00:55:50,014
+We know you're in there!
+
+474
+00:55:52,320 --> 00:55:54,681
+Detective Harris and I...
+
+475
+00:55:54,881 --> 00:55:56,840
+...need to ask you
+a few more questions.
+
+476
+00:55:59,207 --> 00:56:01,164
+Mr. J., open the door!
+
+477
+00:56:36,720 --> 00:56:38,073
+You okay?
+
+478
+00:56:40,000 --> 00:56:42,514
+Yeah... Yeah thanks.
+
+479
+00:57:26,622 --> 00:57:27,717
+Hey.
+
+480
+00:57:29,060 --> 00:57:31,214
+Have you been calling me?
+
+481
+00:57:37,540 --> 00:57:40,676
+- Would like to come in?
+- Thanks.
+
+482
+00:57:41,440 --> 00:57:43,670
+With those cops
+I don't think I can sleep.
+
+483
+00:57:47,120 --> 00:57:48,473
+Would you want some milk?
+
+484
+00:57:49,200 --> 00:57:50,553
+No, thanks.
+
+485
+00:57:58,720 --> 00:58:00,558
+Simon, I'm moving.
+
+486
+00:58:02,520 --> 00:58:03,873
+What?
+
+487
+00:58:05,000 --> 00:58:07,116
+This place is really getting into me.
+
+488
+00:58:09,880 --> 00:58:11,233
+Where are you gonna go?
+
+489
+00:58:11,440 --> 00:58:12,506
+Anywhere but here.
+
+490
+00:58:12,706 --> 00:58:14,166
+The Hospital's out for sale,
+they'll sell anything...
+
+491
+00:58:14,366 --> 00:58:15,884
+...it's pathetic.
+
+492
+00:58:16,880 --> 00:58:20,350
+Everyone's so afraid they don't
+wanna get sick, so it's empty.
+
+493
+00:58:21,080 --> 00:58:23,354
+But where do they go?
+No one cares.
+
+494
+00:58:23,554 --> 00:58:24,869
+No one says a word, it's not normal
+
+495
+00:58:25,069 --> 00:58:27,224
+I mean maybe it's normal, but...
+
+496
+00:58:27,424 --> 00:58:29,714
+...maybe something is wrong with me.
+
+497
+00:58:29,914 --> 00:58:32,239
+Have you been receiving the packages?
+
+498
+00:58:32,440 --> 00:58:34,561
+Have you been buying
+and buying anything?
+
+499
+00:58:34,562 --> 00:58:36,685
+Consuming anything
+out of the ordinary?
+
+500
+00:58:37,360 --> 00:58:40,082
+Listen to yourself.
+You're paranoid about some package
+
+501
+00:58:40,083 --> 00:58:42,627
+while a man was murdered
+down the hall. It's not normal.
+
+502
+00:58:43,040 --> 00:58:44,790
+Real people don't
+have this conversation.
+
+503
+00:58:44,991 --> 00:58:48,148
+Real people don't
+think like this... It's like
+
+504
+00:58:48,349 --> 00:58:50,773
+everyone in this building is... is so...
+
+505
+00:58:50,973 --> 00:58:52,208
+Hey Trish,
+
+506
+00:58:53,353 --> 00:58:56,892
+- I saw you in the game.
+- So what?
+
+507
+00:58:58,120 --> 00:59:00,521
+It's just something I did
+to escape this fucking reality.
+
+508
+00:59:00,784 --> 00:59:02,915
+What does that have
+to do with anything?
+
+509
+00:59:03,220 --> 00:59:05,828
+I was playing the game when he died.
+
+510
+00:59:08,772 --> 00:59:11,614
+I don't know anymore what
+was real, or what wasn't.
+
+511
+00:59:12,929 --> 00:59:14,482
+But I couldn't get out.
+
+512
+00:59:15,480 --> 00:59:18,200
+I had to crawl through the vents.
+
+513
+00:59:18,400 --> 00:59:20,670
+I heard somebody coming in after me.
+
+514
+00:59:20,880 --> 00:59:22,438
+It's addictive.
+
+515
+00:59:24,360 --> 00:59:26,358
+I never should have played that game.
+
+516
+00:59:26,558 --> 00:59:28,228
+But you've been tested?
+
+517
+00:59:28,600 --> 00:59:30,033
+Tested for what?
+
+518
+00:59:30,240 --> 00:59:32,074
+If you play the game
+you should be examined out
+
+519
+00:59:32,075 --> 00:59:33,527
+...for mineralities in the blood...
+
+520
+00:59:33,727 --> 00:59:35,804
+...STDs, some of them...
+
+521
+00:59:36,004 --> 00:59:37,697
+If you haven't been
+tested I can do it for you.
+
+522
+00:59:37,897 --> 00:59:40,598
+No, my friend Nile did it.
+
+523
+00:59:40,798 --> 00:59:42,215
+He's a doctor?
+
+524
+00:59:42,920 --> 00:59:44,353
+He's a courier.
+
+525
+00:59:44,960 --> 00:59:46,850
+You had a courier
+take blood from you?
+
+526
+00:59:47,050 --> 00:59:48,098
+Are you fucking crazy?
+
+527
+00:59:48,298 --> 00:59:51,449
+- Oh, it's alright. He's a friend.
+- A friend.
+
+528
+00:59:53,720 --> 00:59:58,429
+I have no friends here. And no family.
+
+529
+01:00:00,120 --> 01:00:02,400
+You know it's like I'd love
+to have children some day...
+
+530
+01:00:02,600 --> 01:00:04,517
+...you can't raise children
+in a place like this.
+
+531
+01:00:04,717 --> 01:00:05,472
+Everyone's tainted.
+
+532
+01:00:07,600 --> 01:00:10,525
+I'd like to go somewhere
+where there's some people left.
+
+533
+01:00:13,000 --> 01:00:15,686
+Please don't say that,
+it's not too late.
+
+534
+01:00:33,553 --> 01:00:36,152
+<i>Simon, it is Adam. I'm
+worried about your condition.</i>
+
+535
+01:00:36,480 --> 01:00:38,908
+<i>I have learned many
+systems of human logic,</i>
+
+536
+01:00:39,108 --> 01:00:41,488
+<i>I know bad and
+good. Bad is Q zero.</i>
+
+537
+01:00:41,813 --> 01:00:43,802
+<i>Double zero can make
+the device stop.</i>
+
+538
+01:00:44,002 --> 01:00:47,639
+<i>You're in danger of being
+erode. Stop buying.</i>
+
+539
+01:00:48,400 --> 01:00:51,372
+<i>I found the answers.
+Buy is not answers.</i>
+
+540
+01:00:51,373 --> 01:00:54,680
+<i>Do not trust them.
+I must go now.</i>
+
+541
+01:00:54,681 --> 01:00:55,992
+Wait, wait. Adam?
+
+542
+01:00:58,054 --> 01:00:59,121
+Hello?
+
+543
+01:01:06,840 --> 01:01:11,029
+Simon, I have something wrong.
+
+544
+01:01:15,172 --> 01:01:16,476
+Farm Cut meat!
+
+545
+01:01:17,383 --> 01:01:18,973
+Did you hear that?
+
+546
+01:01:19,173 --> 01:01:20,661
+Did you?
+
+547
+01:01:20,861 --> 01:01:23,107
+- What's going on?
+- Please, help...
+
+548
+01:01:24,160 --> 01:01:27,389
+What? Farm Cut!
+
+549
+01:01:28,161 --> 01:01:29,665
+There is someone...
+
+550
+01:01:30,640 --> 01:01:33,284
+I have no control anymore.
+
+551
+01:01:33,800 --> 01:01:38,166
+Find someone of the Farm.
+
+552
+01:01:41,180 --> 01:01:42,297
+Hello?
+
+553
+01:01:51,046 --> 01:01:52,113
+Hello?
+
+554
+01:01:54,320 --> 01:01:55,772
+Is anyone there?
+
+555
+01:02:20,440 --> 01:02:21,832
+Hello?
+
+556
+01:02:25,040 --> 01:02:26,755
+Anyone here?
+
+557
+01:02:30,200 --> 01:02:31,627
+Hello?
+
+558
+01:02:39,160 --> 01:02:40,612
+Shit!
+
+559
+01:03:17,640 --> 01:03:19,092
+Howard?
+
+560
+01:03:47,960 --> 01:03:49,394
+Simon J.?
+
+561
+01:03:51,028 --> 01:03:51,929
+Yes.
+
+562
+01:03:52,100 --> 01:03:53,121
+You're fired.
+
+563
+01:03:53,421 --> 01:03:54,917
+I wanted to tell you over the phone...
+
+564
+01:03:55,118 --> 01:03:58,026
+just to make sure that
+the words got into your brain.
+
+565
+01:03:59,200 --> 01:04:00,116
+Yes, I'm sorry.
+
+566
+01:04:00,316 --> 01:04:02,787
+Your code. Where is it?
+
+567
+01:04:03,360 --> 01:04:04,713
+It's been infected.
+
+568
+01:04:06,160 --> 01:04:07,513
+A virus?
+
+569
+01:04:07,800 --> 01:04:11,315
+I don't know. What was the code for?
+
+570
+01:04:11,480 --> 01:04:13,675
+I can't tell you that, Simon,
+you know your contract.
+
+571
+01:04:13,840 --> 01:04:16,308
+Tell me. What was the code for?
+
+572
+01:04:16,480 --> 01:04:19,808
+I don't know. We're only
+working on a specific part.
+
+573
+01:04:20,008 --> 01:04:21,444
+We don't know the big picture.
+
+574
+01:04:34,280 --> 01:04:36,191
+We know you're in there.
+
+575
+01:04:37,920 --> 01:04:40,868
+We want to have
+a few words with you.
+
+576
+01:04:41,068 --> 01:04:43,645
+There's something
+we want to tell you.
+
+577
+01:04:44,180 --> 01:04:48,169
+It concerns your health and safety.
+
+578
+01:04:54,160 --> 01:04:57,038
+I have safety through my alarm.
+Everything's fine.
+
+579
+01:04:57,400 --> 01:05:00,543
+No, no.
+Everything is not fine.
+
+580
+01:05:01,440 --> 01:05:06,388
+Your life as well as most, if not all, the
+tenants' in this building is in possible danger.
+
+581
+01:05:06,588 --> 01:05:08,319
+We're warning everyone.
+
+582
+01:05:08,440 --> 01:05:10,407
+Now obviously I can't force
+you to do anything,
+
+583
+01:05:10,607 --> 01:05:12,015
+but I would suggest
+you leave the building...
+
+584
+01:05:12,215 --> 01:05:14,522
+until this matter is resolved.
+
+585
+01:05:16,080 --> 01:05:18,997
+If you feel sick at all
+
+586
+01:05:19,160 --> 01:05:20,728
+check yourself into a Hospital.
+
+587
+01:05:21,268 --> 01:05:23,419
+Better to be safe than sorry.
+
+588
+01:05:24,960 --> 01:05:26,884
+Good day to you, sir.
+
+589
+01:05:27,528 --> 01:05:29,079
+Good day.
+
+590
+01:05:33,799 --> 01:05:35,993
+- Hello?
+- Nile speaking.
+
+591
+01:05:38,357 --> 01:05:40,691
+- Hey, where are my results?
+- I've got 'em.
+
+592
+01:05:42,311 --> 01:05:48,312
+Actually... You know what, don't worry
+about it at all. I think I'll go to a Hospital.
+
+593
+01:05:48,512 --> 01:05:51,200
+No, don't go there Simon, don't go there!
+I'll be right there in a minute.
+
+594
+01:05:51,400 --> 01:05:53,802
+No, that's okay. Bye.
+
+595
+01:05:59,800 --> 01:06:02,394
+- Simon, where you goin'?
+- What are you doing here?
+
+596
+01:06:02,560 --> 01:06:05,836
+Look man, I'm trying to stop you from making
+a mistake. Look, I've got your results.
+
+597
+01:06:06,200 --> 01:06:08,180
+Don't freak out.
+There's something in your blood.
+
+598
+01:06:08,381 --> 01:06:10,589
+And the last place
+you wanna go is in there.
+
+599
+01:06:10,760 --> 01:06:12,876
+- Don't worry, Trish works in there.
+- Who's that?
+
+600
+01:06:13,040 --> 01:06:15,180
+She's a friend of mine,
+someone I can trust.
+
+601
+01:06:15,381 --> 01:06:17,321
+Oh, you trust her?
+I've never even heard of her.
+
+602
+01:06:17,522 --> 01:06:18,623
+You don't even talk to fucking girls!
+
+603
+01:06:18,824 --> 01:06:20,613
+You can't trust anybody
+in there right now.
+
+604
+01:06:20,814 --> 01:06:22,942
+I'm the only one you can
+trust, but I gotta tell you:
+
+605
+01:06:23,143 --> 01:06:26,277
+- What have you been working on?
+- You said you didn't wanna know.
+
+606
+01:06:26,440 --> 01:06:28,829
+It's an antivirus program, right?
+
+607
+01:06:30,040 --> 01:06:32,156
+My code got infected,
+I couldn't finish it.
+
+608
+01:06:32,320 --> 01:06:35,312
+That's bullshit! The only thing
+that's infected is you!
+
+609
+01:06:35,480 --> 01:06:37,538
+They gave it to everybody
+in your building, Simon.
+
+610
+01:06:37,739 --> 01:06:39,484
+You're a fucking
+guinea pig, and so am I.
+
+611
+01:06:39,760 --> 01:06:42,672
+It's a big experiment
+that's all gone wrong.
+
+612
+01:06:42,840 --> 01:06:45,832
+Now, if we don't do something
+about it, we're both gonna die.
+
+613
+01:06:46,186 --> 01:06:47,229
+Okay?
+Now get on the bike!
+
+614
+01:06:47,430 --> 01:06:48,500
+What are the packages for?
+
+615
+01:06:48,700 --> 01:06:49,463
+What the fuck!
+
+616
+01:06:49,620 --> 01:06:51,909
+What are the packages for?
+
+617
+01:06:53,180 --> 01:06:55,878
+The package is a delivery system.
+
+618
+01:06:56,440 --> 01:06:57,793
+What? There's nothing inside them.
+
+619
+01:06:57,960 --> 01:07:01,794
+Just because you don't see it,
+doesn't mean there's nothing.
+
+620
+01:07:02,663 --> 01:07:04,520
+Now, what's inside you is inside me.
+
+621
+01:07:04,680 --> 01:07:06,796
+- It's not safe anymore.
+- What's inside them?
+
+622
+01:07:11,480 --> 01:07:15,024
+Nanomites. Version 1.0.
+
+623
+01:07:15,224 --> 01:07:15,989
+What?
+
+624
+01:07:16,189 --> 01:07:18,918
+Code-break messages that
+go directly into your brain.
+
+625
+01:07:19,320 --> 01:07:21,388
+That's why you can't stop
+buying Nature Fresh Milk
+
+626
+01:07:21,389 --> 01:07:23,357
+and I can't stop buying
+fucking Parker Jarks. man.
+
+627
+01:07:23,880 --> 01:07:25,996
+And it is not safe anymore.
+Get on the bike!
+
+628
+01:07:26,920 --> 01:07:30,469
+No, you're lying. You're working for them.
+
+629
+01:07:30,670 --> 01:07:31,233
+No!
+
+630
+01:07:31,480 --> 01:07:34,119
+You're trying to scare
+me, to manipulate me.
+
+631
+01:07:34,380 --> 01:07:36,396
+Simon, your code could help us.
+
+632
+01:07:36,560 --> 01:07:40,872
+Now you're wanting the code.
+You won't get it. It's there.
+
+633
+01:07:42,040 --> 01:07:43,393
+Stay away from me.
+
+634
+01:07:58,120 --> 01:07:59,981
+Be quiet, Adam!
+
+635
+01:08:01,920 --> 01:08:03,600
+Be quiet!
+
+636
+01:08:14,320 --> 01:08:16,059
+I need to talk to Adam.
+
+637
+01:08:17,440 --> 01:08:18,793
+Come in.
+
+638
+01:08:19,600 --> 01:08:23,814
+Come in, Simon.
+I need to talk to you.
+
+639
+01:08:24,600 --> 01:08:28,801
+I can explain. I can help you
+explain. You know the nanomites?
+
+640
+01:08:28,924 --> 01:08:32,399
+You know, he's been calling me
+when you're not at home.
+
+641
+01:08:32,400 --> 01:08:34,436
+Adam is behaving
+very strange lately.
+
+642
+01:08:34,600 --> 01:08:36,795
+Father made Adam,
+he no made the nanomites.
+
+643
+01:08:37,880 --> 01:08:40,410
+You've been receiving
+the packages too?
+
+644
+01:08:40,610 --> 01:08:41,932
+What packages, Simon?
+
+645
+01:08:42,132 --> 01:08:43,990
+- What's in your fridge?
+- In my fridge?
+
+646
+01:08:45,280 --> 01:08:48,033
+Adam knows about the packages.
+Adam knows something bad is happening.
+
+647
+01:08:48,200 --> 01:08:50,481
+Adam knows that Derrick father is infected.
+
+648
+01:08:50,482 --> 01:08:52,763
+- Adam knows that Derrick father lied about...
+- Stop talking!
+
+649
+01:08:52,764 --> 01:08:56,486
+Stop right now, you filthy thing!
+
+650
+01:08:56,720 --> 01:08:58,995
+Adam, knows that nanomites malfunction.
+
+651
+01:09:01,120 --> 01:09:02,792
+I'm sorry, my son.
+
+652
+01:09:04,400 --> 01:09:07,533
+What the hell are you doing living here
+all deep in this fucking building,
+
+653
+01:09:07,733 --> 01:09:09,874
+playing with your stupid android head?
+
+654
+01:09:10,265 --> 01:09:12,580
+- I want you to leave.
+- Shut the fuck up!
+
+655
+01:09:14,317 --> 01:09:15,851
+You sent me those packages.
+
+656
+01:09:16,020 --> 01:09:18,906
+- Leave, now!
+- Or what?
+
+657
+01:09:20,880 --> 01:09:22,205
+Or I'll have to call the authorities...
+
+658
+01:09:22,405 --> 01:09:24,323
+I don't want to do that.
+
+659
+01:09:24,523 --> 01:09:26,166
+Simon, I think you're sick.
+
+660
+01:09:27,720 --> 01:09:29,444
+You're the sick one.
+
+661
+01:09:29,720 --> 01:09:34,510
+Simon, I saw you going into
+the neighbour's apartment
+
+662
+01:09:34,710 --> 01:09:36,849
+the night he was killed.
+
+663
+01:09:37,040 --> 01:09:38,951
+Well, if you're so sure
+I killed my neighbour,
+
+664
+01:09:40,600 --> 01:09:43,592
+what makes you think I won't do
+exactly the same thing to you?
+
+665
+01:10:23,560 --> 01:10:24,968
+Simon.
+
+666
+01:10:28,835 --> 01:10:30,073
+What's wrong?
+
+667
+01:10:30,280 --> 01:10:33,737
+I think I'm alright.
+I think I just fainted.
+
+668
+01:10:35,280 --> 01:10:36,713
+Careful.
+
+669
+01:10:38,120 --> 01:10:39,886
+I'll be alright in a minute.
+
+670
+01:10:47,160 --> 01:10:48,639
+What did you buy?
+
+671
+01:10:49,800 --> 01:10:52,473
+Just some juice
+and stuff. Look at me.
+
+672
+01:10:54,920 --> 01:10:58,674
+Stuff? What kind of stuff?
+
+673
+01:10:59,040 --> 01:11:01,270
+Oh, just juice, actually.
+
+674
+01:11:03,160 --> 01:11:04,513
+What kind of juice?
+
+675
+01:11:05,320 --> 01:11:09,393
+Orange Juice synthetically pure
+calcium, enriched with vitamin E.
+
+676
+01:11:13,120 --> 01:11:15,429
+You've been receiving
+packages too, haven't you?
+
+677
+01:11:21,040 --> 01:11:23,076
+Do you know what's going on?
+
+678
+01:11:26,400 --> 01:11:28,072
+Can you feel it?
+
+679
+01:11:33,920 --> 01:11:36,593
+- I'm full of bugs.
+- No.
+
+680
+01:11:40,594 --> 01:11:43,466
+- No.
+- I'm full of mistakes.
+
+681
+01:11:44,480 --> 01:11:46,869
+Life is full of mistakes.
+
+682
+01:12:17,440 --> 01:12:18,744
+Gentle.
+
+683
+01:12:23,741 --> 01:12:25,467
+I don't love you.
+
+684
+01:12:28,480 --> 01:12:30,739
+I don't love you either.
+
+685
+01:12:39,200 --> 01:12:41,184
+Come inside.
+
+686
+01:13:39,720 --> 01:13:41,075
+Trish?
+
+687
+01:13:42,720 --> 01:13:44,417
+Trish, are you here?
+
+688
+01:14:23,080 --> 01:14:24,306
+Simon?
+
+689
+01:14:54,480 --> 01:14:55,833
+Go away!
+
+690
+01:14:56,000 --> 01:14:59,785
+Simon, it's Nile.
+Come on, man, open the door!
+
+691
+01:15:01,880 --> 01:15:04,030
+Open the door before it's too late!
+
+692
+01:15:13,600 --> 01:15:15,830
+I can't take this anymore,
+It has to stop.
+
+693
+01:15:16,240 --> 01:15:17,593
+So you believe me now?
+
+694
+01:15:17,880 --> 01:15:19,639
+I'm seeing things. I'm seeing people
+
+695
+01:15:19,640 --> 01:15:21,067
+and they're not there.
+I'm seeing packages.
+
+696
+01:15:21,267 --> 01:15:23,649
+I know, I know.
+They're side effects, bugs.
+
+697
+01:15:23,849 --> 01:15:26,757
+It's a beta version,
+but I found the upgrade.
+
+698
+01:15:27,260 --> 01:15:30,832
+The upgrade from version
+1.0 to version 1.1.5.
+
+699
+01:15:31,000 --> 01:15:33,912
+Look, I've got it right here,
+I just need you to touch it.
+
+700
+01:15:33,980 --> 01:15:36,419
+- Have you tried it?
+- Yes, yes yes. Simon, look at me, I'm fine.
+
+701
+01:15:36,619 --> 01:15:38,111
+Everything's okay.
+
+702
+01:15:39,640 --> 01:15:42,912
+Besides, what other
+choices do we have?
+
+703
+01:15:44,880 --> 01:15:48,256
+Now please, touch it.
+
+704
+01:16:00,160 --> 01:16:01,996
+- That's it?
+- Yes.
+
+705
+01:16:03,560 --> 01:16:06,120
+- But how do I know?
+- It should already be working.
+
+706
+01:16:09,360 --> 01:16:12,266
+I'm really, really sorry.
+
+707
+01:16:32,920 --> 01:16:36,313
+<i>Farm is happy to be
+the solutions' provider.</i>
+
+708
+01:16:36,440 --> 01:16:40,342
+<i>Feel free to browse all of
+our finest choice products.</i>
+
+709
+01:16:40,542 --> 01:16:44,782
+<i>We guarantee that they'll
+make you feel a happier individual.</i>
+
+710
+01:16:45,040 --> 01:16:48,322
+<i>Farm very much wants
+to be a part of your life,</i>
+
+711
+01:16:48,522 --> 01:16:52,320
+<i>because we care.
+We care about you.</i>
+
+712
+01:16:52,680 --> 01:16:54,849
+<i>So stay at the Farm.</i>
+
+713
+01:16:55,049 --> 01:16:59,089
+<i>We'll show you the way
+to the solutions you want...</i>
+
+714
+01:16:59,680 --> 01:17:01,033
+What's new?
+
+715
+01:17:02,160 --> 01:17:03,878
+Not much. How are you?
+
+716
+01:17:19,880 --> 01:17:21,233
+Hey Trish!
+
+717
+01:17:38,252 --> 01:17:38,827
+Hey Trish!
+
+718
+01:17:39,760 --> 01:17:41,128
+It's me!
+
+719
+01:17:42,320 --> 01:17:43,947
+Nature Fresh Milk!
+
+720
+01:18:31,960 --> 01:18:33,393
+Howard?
+
+721
+01:19:32,240 --> 01:19:36,279
+Nile, you fucking bastard.
+There are more bugs in this.
+
+722
+01:19:38,060 --> 01:19:40,635
+What - Nature Fresh Milk!
+
+723
+01:19:42,600 --> 01:19:45,858
+Did you hear that?
+I didn't say it!
+
+724
+01:19:46,560 --> 01:19:48,716
+You sent me the first
+package, didn't you?
+
+725
+01:19:50,920 --> 01:19:51,832
+Fuck!
+
+726
+01:19:53,667 --> 01:19:55,914
+<i>Leave your message after the beep.</i>
+
+727
+01:19:56,120 --> 01:20:00,079
+Trish, hi this is Simon.
+
+728
+01:20:00,644 --> 01:20:01,680
+Listen...
+
+729
+01:20:01,880 --> 01:20:03,757
+I'd like to come, come with you.
+
+730
+01:20:10,120 --> 01:20:12,315
+You were right about everything.
+
+731
+01:20:16,480 --> 01:20:19,953
+Hello... Nature Fresh Milk!
+
+732
+01:20:24,020 --> 01:20:26,983
+Help me. Help me!
+
+733
+01:20:30,960 --> 01:20:33,119
+I love my life.
+
+734
+01:20:38,024 --> 01:20:39,606
+It's too late.
+
+735
+01:21:10,040 --> 01:21:11,362
+Simon?
+
+736
+01:21:12,256 --> 01:21:13,496
+I heard the crickets.
+
+737
+01:21:16,000 --> 01:21:17,521
+Howard, come in.
+
+738
+01:21:20,840 --> 01:21:22,215
+Can you help me?
+
+739
+01:21:22,840 --> 01:21:25,817
+- I'm sorry. You want something to drink?
+- No.
+
+740
+01:21:26,420 --> 01:21:28,631
+Nature Fresh Milk!
+
+741
+01:21:36,240 --> 01:21:37,716
+Did you hear that?
+
+742
+01:21:38,640 --> 01:21:42,588
+- I didn't say it. Zero nanomites.
+- Yeah.
+
+743
+01:21:42,840 --> 01:21:46,006
+Zero nanomites. Happily brought.
+
+744
+01:21:49,323 --> 01:21:50,728
+I'm afraid.
+
+745
+01:21:51,520 --> 01:21:53,337
+Let me take your hand.
+
+746
+01:21:55,520 --> 01:22:00,120
+There are good people and there are bad people and
+they're on their way and they want you, Simon.
+
+747
+01:22:00,320 --> 01:22:03,763
+The bad people could
+save you, but they won't.
+
+748
+01:22:03,963 --> 01:22:07,562
+The good people, they wanna
+save you, but they can't.
+
+749
+01:22:08,280 --> 01:22:12,831
+The bad people, Farm people,
+they wanna hurt you, Simon.
+
+750
+01:22:15,280 --> 01:22:18,955
+They want to possess your intellectual
+fibre. They want your money.
+
+751
+01:22:19,120 --> 01:22:21,141
+They put the mites in your brain.
+
+752
+01:22:21,341 --> 01:22:23,609
+And I wanna save you.
+
+753
+01:22:23,809 --> 01:22:25,880
+Come on, open your mouth.
+
+754
+01:22:27,400 --> 01:22:31,136
+You see, you haven't got much time.
+
+755
+01:22:31,396 --> 01:22:32,997
+This'll help you, come on.
+
+756
+01:22:33,197 --> 01:22:36,700
+Simon, you're infected.
+Just say "ah"! "Ah"!
+
+757
+01:22:36,900 --> 01:22:37,800
+Say "ah".
+
+758
+01:22:42,320 --> 01:22:43,972
+Almost too late.
+
+759
+01:22:49,760 --> 01:22:52,235
+Your body is rejecting the mites.
+
+760
+01:22:52,400 --> 01:22:55,551
+It's a completely bugsy product.
+It never would happen in my day.
+
+761
+01:22:56,238 --> 01:23:00,568
+If I don't remove your hard drive,
+you're gonna have to die, or Farm will catch you.
+
+762
+01:23:01,480 --> 01:23:07,193
+I've saved you Simon, just like I've saved
+the landlord, the game man.
+
+763
+01:23:07,480 --> 01:23:10,384
+I was too late for that garbage man.
+
+764
+01:23:12,520 --> 01:23:15,037
+How you know,
+I don't know everything.
+
+765
+01:23:19,520 --> 01:23:22,627
+You know, you're gonna feel
+a little uncomfortable for a while...
+
+766
+01:23:23,280 --> 01:23:25,147
+...then you're gonna sleep.
+
+767
+01:23:26,920 --> 01:23:30,353
+And when you wake up,
+everything's gonna be different.
+
+768
+01:23:30,553 --> 01:23:32,772
+Everything is gonna be good.
+
+769
+01:23:36,200 --> 01:23:40,193
+There's a time when we walk up.
+There's a time we fall back.
+
+770
+01:23:41,040 --> 01:23:43,248
+It's just the beginning.
+
+771
+01:23:47,593 --> 01:23:47,593
+# Subtitles: lyliakar #
+

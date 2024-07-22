@@ -1,0 +1,3565 @@
+﻿1
+00:00:01,043 --> 00:00:03,796
+<i>USRCS
+employees are advised to avoid</i>
+
+2
+00:00:03,879 --> 00:00:06,924
+<i>prolonged physical contact
+with Bad Batch inmates.</i>
+
+3
+00:00:07,008 --> 00:00:08,342
+<i>This includes eye contact.</i>
+
+4
+00:00:08,426 --> 00:00:11,804
+<i>Bad Batch 5035 to 5040,</i>
+
+5
+00:00:11,887 --> 00:00:13,848
+<i>step into the room.</i>
+
+6
+00:00:13,931 --> 00:00:15,349
+<i>USRCS employees</i>
+
+7
+00:00:15,433 --> 00:00:18,728
+<i>are advised to limit eye contact
+with Bad Batch inmates</i>
+
+8
+00:00:18,811 --> 00:00:20,205
+<i>- to no longer than 10 seconds.
+- All Bad Batch,</i>
+
+9
+00:00:20,229 --> 00:00:22,648
+<i>once you are tagged,
+go to the left side of the room</i>
+
+10
+00:00:22,732 --> 00:00:24,692
+and get your rations.
+Single-file line, please.
+
+11
+00:00:24,775 --> 00:00:27,069
+<i>USRCS
+employees are never to inquire</i>
+
+12
+00:00:27,153 --> 00:00:28,505
+<i>- details regarding fittings.
+- Come on, folks.</i>
+
+13
+00:00:28,529 --> 00:00:29,613
+<i>Let's keep 'em moving.</i>
+
+14
+00:00:30,281 --> 00:00:32,992
+<i>Bad Batch Inmate 5040,</i>
+
+15
+00:00:33,075 --> 00:00:34,744
+<i>Arlen Mae Johnson?</i>
+
+16
+00:00:35,494 --> 00:00:39,165
+<i>Take a seat right there, miss.
+I need your right ear, please.</i>
+
+17
+00:00:39,248 --> 00:00:41,250
+<i>USRCS
+employees are reminded</i>
+
+18
+00:00:41,333 --> 00:00:44,503
+<i>to clearly differentiate
+between personal view statements</i>
+
+19
+00:00:44,587 --> 00:00:45,755
+<i>and views, statements,</i>
+
+20
+00:00:45,838 --> 00:00:49,300
+<i>positions made on behalf
+of the agency or association.</i>
+
+21
+00:00:49,383 --> 00:00:52,595
+Bad Batch 5039,
+you can move out.
+
+22
+00:00:52,845 --> 00:00:55,306
+<i>USRCS
+employees are advised to avoid</i>
+
+23
+00:00:55,389 --> 00:00:57,141
+<i>prolonged physical contact</i>
+
+24
+00:00:57,224 --> 00:00:58,392
+<i>with Bad Batch inmates.</i>
+
+25
+00:00:58,726 --> 00:01:00,006
+All right 5040,
+you can move out.
+
+26
+00:01:03,314 --> 00:01:04,314
+Step through.
+
+27
+00:01:06,067 --> 00:01:07,485
+Stand back from the gate.
+
+28
+00:01:15,534 --> 00:01:17,203
+You wanna radio it in?
+
+29
+00:01:17,495 --> 00:01:19,705
+It's hotter
+than the devil's a-hole out here.
+
+30
+00:01:20,164 --> 00:01:22,541
+Whoo! Get me back to that AC.
+
+31
+00:07:13,100 --> 00:07:16,520
+<i>♪ Oh, she leads a lonely life ♪</i>
+
+32
+00:07:28,574 --> 00:07:30,909
+<i>♪ When she woke up late
+in morning light ♪</i>
+
+33
+00:07:30,993 --> 00:07:33,328
+<i>♪ And the day has just begun ♪</i>
+
+34
+00:07:33,620 --> 00:07:36,748
+<i>♪ She opened up her eyes
+and thought ♪</i>
+
+35
+00:07:36,832 --> 00:07:39,001
+<i>♪ Oh, what a morning ♪</i>
+
+36
+00:07:39,209 --> 00:07:41,211
+<i>♪ It's not a day for work ♪</i>
+
+37
+00:07:41,295 --> 00:07:43,589
+<i>♪ It's a day for catching sun ♪</i>
+
+38
+00:07:43,839 --> 00:07:46,508
+<i>♪ Just lying on the beach
+and having fun ♪</i>
+
+39
+00:07:46,592 --> 00:07:48,427
+- Help me! Help me!
+<i>- ♪ She's going ♪</i>
+
+40
+00:07:48,510 --> 00:07:51,054
+<i>♪ To get you,
+all that she wants ♪</i>
+
+41
+00:07:51,138 --> 00:07:54,266
+<i>♪ Is another baby
+she's gone tomorrow, boy ♪</i>
+
+42
+00:07:54,349 --> 00:07:56,059
+<i>♪ All that she wants ♪</i>
+
+43
+00:07:56,143 --> 00:07:58,979
+<i>♪ Is another baby, yeah ♪</i>
+
+44
+00:07:59,605 --> 00:08:02,733
+<i>♪ All that she wants
+is another baby ♪</i>
+
+45
+00:08:02,816 --> 00:08:04,401
+<i>♪ She's gone tomorrow, boy ♪</i>
+
+46
+00:08:04,485 --> 00:08:06,278
+<i>♪ All that she wants ♪</i>
+
+47
+00:08:06,361 --> 00:08:08,906
+<i>♪ Is another baby, yeah ♪</i>
+
+48
+00:08:29,426 --> 00:08:31,345
+<i>♪ All that she wants ♪</i>
+
+49
+00:08:31,428 --> 00:08:35,724
+<i>♪ So if you are in sight
+and the day is right... ♪</i>
+
+50
+00:08:35,807 --> 00:08:38,769
+No.
+
+51
+00:08:38,852 --> 00:08:43,273
+No. No!
+
+52
+00:08:43,357 --> 00:08:45,442
+<i>♪ It is a night for passion ♪</i>
+
+53
+00:08:45,526 --> 00:08:47,528
+<i>♪ But the morning
+means good-bye ♪</i>
+
+54
+00:08:47,903 --> 00:08:51,448
+<i>♪ Beware of what is flashing
+in her eyes ♪</i>
+
+55
+00:08:51,532 --> 00:08:53,242
+<i>♪ She's going to get you ♪</i>
+
+56
+00:08:53,325 --> 00:08:54,826
+<i>♪ All that she wants ♪</i>
+
+57
+00:08:54,910 --> 00:08:56,495
+<i>♪ Is another baby ♪</i>
+
+58
+00:08:56,578 --> 00:08:58,247
+<i>♪ She's gone tomorrow, boy ♪</i>
+
+59
+00:08:58,330 --> 00:09:00,123
+<i>♪ All that she wants ♪</i>
+
+60
+00:09:00,207 --> 00:09:03,794
+<i>♪ Is another baby, yeah ♪</i>
+
+61
+00:09:03,877 --> 00:09:05,754
+<i>♪ All that she wants ♪</i>
+
+62
+00:09:05,837 --> 00:09:08,048
+<i>♪ Is another baby ♪</i>
+
+63
+00:09:08,131 --> 00:09:09,758
+<i>♪ She's gone tomorrow boy... ♪</i>
+
+64
+00:09:51,508 --> 00:09:52,508
+<i>♪ Uhh ♪</i>
+
+65
+00:09:53,093 --> 00:09:56,555
+<i>♪ This one's dedicated
+to all the haters out there ♪</i>
+
+66
+00:09:56,638 --> 00:09:59,850
+<i>♪ Jealous of us
+because we're better than you ♪</i>
+
+67
+00:09:59,933 --> 00:10:02,102
+<i>♪ Yolandi Vi$$er,
+bring the sparks? ♪</i>
+
+68
+00:10:02,185 --> 00:10:04,688
+<i>♪ Jou ma se poes
+in 'n fish paste jar ♪</i>
+
+69
+00:10:04,771 --> 00:10:07,107
+<i>♪ D. D. J-J-J ♪</i>
+
+70
+00:10:07,190 --> 00:10:09,651
+<i>♪ Jou ma se poes
+in 'n fish paste jar ♪</i>
+
+71
+00:10:10,027 --> 00:10:12,404
+<i>♪ Hi-hi-hi Tek ♪</i>
+
+72
+00:10:12,571 --> 00:10:14,656
+<i>♪ Moenie kom kak
+praat nie my bra ♪</i>
+
+73
+00:10:14,740 --> 00:10:15,574
+<i>♪ Yolandi Vi$$er ♪</i>
+
+74
+00:10:15,657 --> 00:10:17,492
+<i>♪ Fresh and depressed
+vat 'n picture ♪</i>
+
+75
+00:10:17,576 --> 00:10:19,661
+<i>♪ Jou ma se poes
+in 'n fish paste jar ♪</i>
+
+76
+00:10:19,745 --> 00:10:22,039
+<i>♪ He was the wrong ninja
+to fuck with ♪</i>
+
+77
+00:10:22,289 --> 00:10:24,708
+<i>♪ Yo, I am the ninja
+in charge over here ♪</i>
+
+78
+00:10:24,791 --> 00:10:27,252
+<i>♪ But no fear when I scope
+a rhyme in your ear ♪</i>
+
+79
+00:10:27,336 --> 00:10:28,712
+<i>♪ Fuck with the wrong ninja ♪</i>
+
+80
+00:10:28,795 --> 00:10:29,897
+<i>♪ This time
+what's the matter with you?</i>
+
+81
+00:10:29,921 --> 00:10:30,839
+<i>♪ Should've known better ♪</i>
+
+82
+00:10:30,922 --> 00:10:32,400
+<i>♪ Than to fuck with a ninja
+with a attitude ♪</i>
+
+83
+00:10:32,424 --> 00:10:35,135
+<i>♪ I wasn't mad at you but now
+you mad at me and jealous ♪</i>
+
+84
+00:10:35,218 --> 00:10:37,554
+<i>♪ Little spunk poofy rappers
+like Anthony en Dennis ♪</i>
+
+85
+00:10:37,679 --> 00:10:38,906
+<i>♪ Let me help
+to make you famous ♪</i>
+
+86
+00:10:38,930 --> 00:10:40,349
+<i>♪ Jissis but you rap cock ♪</i>
+
+87
+00:10:40,432 --> 00:10:41,909
+<i>♪ When you rap
+you actually sound like ♪</i>
+
+88
+00:10:41,933 --> 00:10:44,061
+<i>- ♪ You're having</i> a <i>fat cock ♪
+- ♪ Yeah ♪</i>
+
+89
+00:10:44,144 --> 00:10:46,355
+<i>♪ Why you
+so obsessed with me? ♪</i>
+
+90
+00:10:46,605 --> 00:10:47,731
+<i>♪ Ooh ♪</i>
+
+91
+00:10:47,898 --> 00:10:50,150
+<i>♪ Jesus Christ you should
+see how these boys stalk me ♪</i>
+
+92
+00:10:50,233 --> 00:10:52,611
+<i>♪ Follow my every move
+like a Sea Point moffie ♪</i>
+
+93
+00:10:52,694 --> 00:10:53,612
+<i>♪ Fuck you ♪</i>
+
+94
+00:10:53,695 --> 00:10:55,030
+<i>♪ And all your ♪</i>
+
+95
+00:10:55,113 --> 00:10:57,658
+<i>♪ Maak klaar met die spiff quote
+from the licks ♪</i>
+
+96
+00:10:57,741 --> 00:11:00,410
+<i>♪ Yo, there's not a rapper
+out there who can touch me ♪</i>
+
+97
+00:11:00,494 --> 00:11:02,954
+<i>♪ If you don't believe me
+run up and try to punch me ♪</i>
+
+98
+00:11:03,038 --> 00:11:05,290
+<i>♪ Jou ma se poes
+in 'n fish paste jar ♪</i>
+
+99
+00:11:05,374 --> 00:11:07,751
+<i>♪ D. D. J-J-J ♪</i>
+
+100
+00:11:07,834 --> 00:11:10,295
+<i>♪ Jou ma se poes
+in 'n fish paste jar ♪</i>
+
+101
+00:11:10,379 --> 00:11:13,090
+<i>♪ Hi-hi-hi Tek ♪</i>
+
+102
+00:11:13,256 --> 00:11:15,592
+<i>♪ Oh oh vat's it yuketa</i>? ♪
+
+103
+00:11:37,948 --> 00:11:41,201
+<i>Help, somebody!</i>
+
+104
+00:11:41,284 --> 00:11:42,869
+<i>Hey!</i>
+
+105
+00:11:42,953 --> 00:11:45,789
+<i>Help! I just want to go home!</i>
+
+106
+00:11:46,206 --> 00:11:48,041
+<i>Please, somebody!</i>
+
+107
+00:11:48,125 --> 00:11:49,418
+<i>Oh, my God! Please!</i>
+
+108
+00:12:26,246 --> 00:12:28,373
+Huh? Goddamn.
+
+109
+00:15:09,784 --> 00:15:10,702
+Come on.
+
+110
+00:15:10,785 --> 00:15:12,162
+Be right there.
+
+111
+00:15:12,245 --> 00:15:13,413
+Okay, come on in.
+
+112
+00:15:13,496 --> 00:15:15,707
+Is it ready?
+
+113
+00:18:55,552 --> 00:18:57,387
+Tore her ass up.
+
+114
+00:18:59,139 --> 00:19:01,141
+Homegirl got fucked up!
+
+115
+00:19:01,224 --> 00:19:02,934
+Fuck, homes.
+
+116
+00:19:04,102 --> 00:19:05,687
+She stink, man.
+
+117
+00:19:07,856 --> 00:19:09,149
+Right.
+
+118
+00:19:09,232 --> 00:19:11,234
+I'm surprised
+she's alive, homes.
+
+119
+00:19:22,412 --> 00:19:24,038
+<i>I can't find
+my fuckin' shoes.</i>
+
+120
+00:19:24,122 --> 00:19:24,998
+<i>Where are my shoes?</i>
+
+121
+00:19:25,081 --> 00:19:26,374
+<i>Hey, y'all seen my shoes?</i>
+
+122
+00:19:26,457 --> 00:19:29,669
+<i>It's all rusted out.
+Doesn't even fuckin' work.</i>
+
+123
+00:19:29,752 --> 00:19:32,881
+If you forget
+everything else but not this,
+
+124
+00:19:34,507 --> 00:19:36,426
+you have nothing to worry about.
+
+125
+00:19:37,635 --> 00:19:39,304
+It's the one thing...
+
+126
+00:19:40,680 --> 00:19:42,074
+Keep walkin', motherfucker.
+Keep walkin'.
+
+127
+00:19:42,098 --> 00:19:44,642
+There's one thing
+you must never forget.
+
+128
+00:19:44,726 --> 00:19:46,477
+Never forget.
+
+129
+00:19:46,561 --> 00:19:48,730
+Never, never, never,
+never, never, never, never,
+
+130
+00:19:48,813 --> 00:19:51,524
+never, never forget
+this one thing.
+
+131
+00:19:53,026 --> 00:19:55,069
+If you remember
+everything else,
+
+132
+00:19:56,154 --> 00:19:57,655
+if you forget this one thing...
+
+133
+00:19:57,739 --> 00:19:58,907
+Whoo!
+
+134
+00:19:58,990 --> 00:20:00,909
+If you remember everything else
+
+135
+00:20:01,201 --> 00:20:03,077
+and you forget this one thing,
+
+136
+00:20:03,161 --> 00:20:05,663
+you will... you will have
+done nothing in your life!
+
+137
+00:20:05,747 --> 00:20:07,749
+Nothing! Nothing!
+
+138
+00:20:09,209 --> 00:20:11,002
+This is the one thing,
+
+139
+00:20:11,085 --> 00:20:13,213
+the one thing
+you must never forget!
+
+140
+00:20:13,963 --> 00:20:15,506
+Give me some fucking noodles!
+
+141
+00:20:15,590 --> 00:20:16,591
+<i>One dollar!</i>
+
+142
+00:20:16,674 --> 00:20:17,592
+- Demon!
+- One dollar!
+
+143
+00:20:17,675 --> 00:20:19,385
+She's a goddamn...
+she's a goddamn demon!
+
+144
+00:20:19,469 --> 00:20:20,678
+You no pay, no noodle!
+
+145
+00:20:20,762 --> 00:20:22,555
+No noodle for you, no pay!
+
+146
+00:20:22,639 --> 00:20:24,265
+Thank you very much. Huh?
+
+147
+00:20:26,392 --> 00:20:29,062
+- Hey, what's the thing?
+<i>- Shut up, motherfucker!</i>
+
+148
+00:20:31,814 --> 00:20:33,149
+The thing?
+
+149
+00:20:33,233 --> 00:20:34,484
+The thing.
+
+150
+00:20:37,946 --> 00:20:39,906
+How should I know?
+
+151
+00:20:41,241 --> 00:20:43,034
+Find out for yourself.
+
+152
+00:20:43,451 --> 00:20:45,870
+You find out for yourself.
+
+153
+00:20:46,329 --> 00:20:47,956
+No one is gonna tell you.
+
+154
+00:20:48,039 --> 00:20:50,500
+You have to figure it out
+for yourself.
+
+155
+00:20:50,583 --> 00:20:52,585
+You have to figure it out.
+
+156
+00:20:54,087 --> 00:20:56,256
+Forget everything else
+but this one thing.
+
+157
+00:20:56,339 --> 00:20:57,674
+You have nothing
+to worry about.
+
+158
+00:20:57,966 --> 00:20:59,759
+Just one thing.
+
+159
+00:21:00,885 --> 00:21:02,011
+Must never forget.
+
+160
+00:21:14,816 --> 00:21:16,150
+<i>All right, get up! Get up!</i>
+
+161
+00:21:16,234 --> 00:21:17,986
+<i>Ohh!</i>
+
+162
+00:23:46,509 --> 00:23:48,928
+<i>♪ If I listen to your lies ♪</i>
+
+163
+00:23:49,011 --> 00:23:51,431
+<i>♪ Would you say ♪</i>
+
+164
+00:23:51,514 --> 00:23:53,641
+<i>♪ I'm a man ♪</i>
+
+165
+00:23:53,891 --> 00:23:56,436
+<i>♪ Without conviction ♪</i>
+
+166
+00:23:56,811 --> 00:23:58,938
+<i>♪ I'm a man ♪</i>
+
+167
+00:23:59,272 --> 00:24:01,566
+<i>♪ Who doesn't know ♪</i>
+
+168
+00:24:01,649 --> 00:24:04,277
+<i>- I can't do it again.
+- ♪ How to sell ♪</i>
+
+169
+00:24:04,360 --> 00:24:07,155
+<i>- I can't do it again.
+- ♪ A contradiction ♪</i>
+
+170
+00:24:07,238 --> 00:24:09,407
+- Please don't do this! Please!
+<i>- ♪ You come and go ♪</i>
+
+171
+00:24:09,490 --> 00:24:11,284
+<i>- ♪ You come and go ♪</i>
+- Please! Please,
+
+172
+00:24:11,367 --> 00:24:13,035
+I'm begging you!
+Please don't do this!
+
+173
+00:24:13,119 --> 00:24:15,455
+<i>- ♪ Karma, Karma, Karma... ♪</i>
+- I can't do this again!
+
+174
+00:24:15,538 --> 00:24:17,165
+I can't do it!
+
+175
+00:24:17,498 --> 00:24:19,750
+<i>- ♪ You come and go ♪</i>
+- Please don't do this!
+
+176
+00:24:19,834 --> 00:24:21,335
+I can't do it again!
+
+177
+00:24:21,419 --> 00:24:23,004
+I can't do it. Please.
+
+178
+00:24:23,087 --> 00:24:24,172
+Oh, God, please.
+
+179
+00:24:24,255 --> 00:24:25,756
+Please don't make me!
+
+180
+00:24:25,840 --> 00:24:27,758
+Please just let me go! Please!
+
+181
+00:24:27,842 --> 00:24:30,219
+I don't want any...
+please don't do this!
+
+182
+00:24:30,303 --> 00:24:32,513
+Please, please, please,
+I'm begging you!
+
+183
+00:24:32,597 --> 00:24:34,348
+I'm begging you!
+Please don't do this!
+
+184
+00:24:34,432 --> 00:24:37,435
+Oh, God! No, please! Please!
+
+185
+00:24:37,518 --> 00:24:39,395
+Please, I can't! No, no, no.
+
+186
+00:24:43,733 --> 00:24:45,735
+<i>♪ That my love ♪</i>
+
+187
+00:24:46,152 --> 00:24:48,654
+<i>♪ Was an addiction ♪</i>
+
+188
+00:24:48,738 --> 00:24:49,738
+<i>♪ When you... ♪</i>
+
+189
+00:25:24,023 --> 00:25:26,108
+So sick of this shit.
+
+190
+00:25:26,192 --> 00:25:28,194
+Sick and tired of this shit.
+
+191
+00:25:32,281 --> 00:25:33,366
+Hmm.
+
+192
+00:25:51,926 --> 00:25:54,178
+<i>♪ That's how it feels to you ♪</i>
+
+193
+00:25:56,097 --> 00:25:58,474
+<i>♪ Just to be next to you ♪</i>
+
+194
+00:25:59,934 --> 00:26:02,103
+<i>♪ I'm like a firefly ♪</i>
+
+195
+00:26:03,854 --> 00:26:04,981
+<i>♪ Trapped in the spotlight ♪</i>
+
+196
+00:26:24,000 --> 00:26:26,669
+<i>♪ I try to get alone with you ♪</i>
+
+197
+00:26:28,045 --> 00:26:30,464
+<i>♪ And then I don't know
+what to do ♪</i>
+
+198
+00:26:32,091 --> 00:26:34,343
+<i>♪ I don't know what to do ♪</i>
+
+199
+00:26:36,012 --> 00:26:39,140
+<i>♪ I'm calling
+when I'm around you ♪</i>
+
+200
+00:26:40,474 --> 00:26:42,810
+<i>♪ Come on ♪</i>
+
+201
+00:26:44,437 --> 00:26:47,523
+<i>♪ Come on, turn ♪</i>
+
+202
+00:26:48,441 --> 00:26:50,901
+<i>♪ Come, come, all right ♪</i>
+
+203
+00:26:52,278 --> 00:26:55,364
+<i>♪ Just walk towards the light ♪</i>
+
+204
+00:26:56,616 --> 00:26:58,868
+<i>♪ Come on, come on ♪</i>
+
+205
+00:28:52,440 --> 00:28:54,567
+There. Push, push.
+
+206
+00:30:37,378 --> 00:30:39,046
+Ohh!
+
+207
+00:30:39,129 --> 00:30:41,257
+Ohh!
+
+208
+00:30:41,340 --> 00:30:43,717
+Ohh. Ohh.
+
+209
+00:30:43,801 --> 00:30:45,469
+Ohh!
+
+210
+00:31:29,388 --> 00:31:31,432
+Ohh.
+
+211
+00:31:31,515 --> 00:31:32,600
+Ohh.
+
+212
+00:31:37,771 --> 00:31:39,231
+Mm.
+
+213
+00:31:40,316 --> 00:31:41,525
+Mm.
+
+214
+00:31:50,242 --> 00:31:51,242
+Mm.
+
+215
+00:32:06,467 --> 00:32:07,927
+Where do y'all come from?
+
+216
+00:32:14,183 --> 00:32:15,684
+You come from Comfort?
+
+217
+00:32:20,940 --> 00:32:22,524
+Look, I ain't got no problem.
+
+218
+00:32:23,943 --> 00:32:25,319
+No problem with you.
+
+219
+00:32:33,786 --> 00:32:35,037
+You're a Bridge person.
+
+220
+00:32:39,667 --> 00:32:42,753
+We're just out here
+looking for plates, that's all.
+
+221
+00:32:46,131 --> 00:32:47,716
+That's right.
+
+222
+00:32:48,258 --> 00:32:49,885
+Looking for plates.
+
+223
+00:32:55,808 --> 00:32:58,560
+Honey, stay back.
+
+224
+00:33:06,568 --> 00:33:08,529
+Does your kid eat people, too?
+
+225
+00:33:11,824 --> 00:33:13,534
+I'm just trying
+to live out here,
+
+226
+00:33:13,617 --> 00:33:14,952
+same as you.
+
+227
+00:33:16,245 --> 00:33:18,080
+Ain't easy for me neither.
+
+228
+00:33:35,264 --> 00:33:37,474
+Look, we the same, we are.
+
+229
+00:33:38,642 --> 00:33:39,893
+No, we ain't.
+
+230
+00:33:39,977 --> 00:33:41,770
+We ain't the same.
+
+231
+00:33:43,522 --> 00:33:45,357
+We both Bad Batch, right?
+
+232
+00:33:45,441 --> 00:33:47,192
+We ain't the fuckin' same!
+
+233
+00:33:47,276 --> 00:33:48,360
+Do you hear me?
+
+234
+00:33:57,828 --> 00:33:59,163
+Please.
+
+235
+00:34:00,205 --> 00:34:01,623
+Just let us go.
+
+236
+00:34:02,499 --> 00:34:03,959
+Yeah, I did that.
+
+237
+00:34:05,169 --> 00:34:06,295
+Begged.
+
+238
+00:34:06,837 --> 00:34:07,921
+Pleaded.
+
+239
+00:34:08,797 --> 00:34:10,507
+Just like you're doing.
+
+240
+00:34:15,804 --> 00:34:17,765
+Tell me what you want.
+
+241
+00:34:17,848 --> 00:34:19,099
+I'll do it.
+
+242
+00:34:24,063 --> 00:34:25,439
+So, tell me
+what you want me to do
+
+243
+00:34:25,522 --> 00:34:27,149
+- and I'll do it.
+- Shut up.
+
+244
+00:34:32,488 --> 00:34:33,864
+Just tell me what you want...
+
+245
+00:34:33,947 --> 00:34:35,657
+There's fuckin' nothing
+you can do.
+
+246
+00:38:53,749 --> 00:38:55,125
+You kind of stink, kid.
+
+247
+00:38:55,542 --> 00:38:57,336
+You want me to take
+your socks off?
+
+248
+00:39:08,055 --> 00:39:09,514
+My name's Arlen.
+
+249
+00:39:10,557 --> 00:39:11,850
+What's your name?
+
+250
+00:39:17,856 --> 00:39:20,150
+Look, no one cares
+about you now.
+
+251
+00:39:23,403 --> 00:39:25,947
+I could have just left you
+out there in the desert.
+
+252
+00:39:28,075 --> 00:39:29,785
+Is that where you wanna be?
+
+253
+00:39:30,369 --> 00:39:31,495
+Hmm?
+
+254
+00:39:36,291 --> 00:39:38,085
+Now, you like this bunny,
+don't you?
+
+255
+00:39:42,005 --> 00:39:43,382
+Do you wanna keep him?
+
+256
+00:39:52,933 --> 00:39:55,352
+Then, you got to do
+exactly what I say.
+
+257
+00:41:19,853 --> 00:41:22,355
+That dead woman over there.
+
+258
+00:41:22,814 --> 00:41:24,566
+There was... a kid was with her.
+
+259
+00:41:25,484 --> 00:41:27,152
+Did you see this kid?
+
+260
+00:41:28,904 --> 00:41:30,238
+Did you see her?
+
+261
+00:41:33,950 --> 00:41:35,160
+Did you see her?
+
+262
+00:41:38,914 --> 00:41:40,248
+You better start talking,
+old man.
+
+263
+00:41:45,712 --> 00:41:46,880
+Did you see her?
+
+264
+00:41:51,176 --> 00:41:52,469
+What you want?
+
+265
+00:44:46,601 --> 00:44:48,269
+Keep it steady.
+
+266
+00:44:49,938 --> 00:44:51,523
+Nice straight line.
+
+267
+00:44:54,567 --> 00:44:55,694
+Let me see.
+
+268
+00:44:58,279 --> 00:44:59,489
+That's good.
+
+269
+00:45:02,575 --> 00:45:04,077
+A little bit more down here.
+
+270
+00:46:21,821 --> 00:46:23,948
+Yeah, baby.
+
+271
+00:46:33,708 --> 00:46:37,337
+Come on, baby! Do that move!
+
+272
+00:46:37,420 --> 00:46:38,671
+Move it down.
+
+273
+00:46:44,594 --> 00:46:45,970
+Dang, baby!
+
+274
+00:46:46,763 --> 00:46:48,389
+People of Comfort,
+
+275
+00:46:48,473 --> 00:46:50,141
+good evening!
+
+276
+00:46:53,520 --> 00:46:55,605
+Give us The Dream!
+
+277
+00:46:56,147 --> 00:46:58,441
+Give us The Dream!
+
+278
+00:46:58,691 --> 00:47:00,985
+Give us The Dream!
+
+279
+00:47:01,778 --> 00:47:03,822
+Give us The Dream!
+
+280
+00:47:04,572 --> 00:47:06,574
+Give us The Dream!
+
+281
+00:47:07,075 --> 00:47:08,493
+Make some noise
+
+282
+00:47:08,576 --> 00:47:10,829
+for the one and only!
+
+283
+00:47:11,621 --> 00:47:18,461
+The Dream!
+
+284
+00:47:29,722 --> 00:47:31,724
+Come on, Dream!
+Change my life!
+
+285
+00:47:32,767 --> 00:47:36,020
+He looked at me!
+He looked at me!
+
+286
+00:47:36,104 --> 00:47:37,856
+- We love you!
+- I love you, too.
+
+287
+00:47:39,816 --> 00:47:42,527
+Heal my life with The Dream!
+
+288
+00:47:44,654 --> 00:47:47,574
+I've been wanting
+to dream all my life!
+
+289
+00:47:49,117 --> 00:47:51,327
+Come on now, Dream!
+
+290
+00:47:56,457 --> 00:47:58,459
+I love you, Dream!
+
+291
+00:48:03,923 --> 00:48:05,425
+I've got a question.
+
+292
+00:48:07,844 --> 00:48:08,928
+Why are we out here?
+
+293
+00:48:09,012 --> 00:48:10,471
+Just what are we doing
+in the middle
+
+294
+00:48:10,555 --> 00:48:12,515
+of the goddamn desert tonight?
+
+295
+00:48:12,599 --> 00:48:15,685
+Jimmy! Jimmy!
+
+296
+00:48:17,020 --> 00:48:18,354
+That's right. That's right.
+
+297
+00:48:18,438 --> 00:48:20,398
+You want that music
+only Jimmy can make.
+
+298
+00:48:25,862 --> 00:48:28,698
+Let me tell you
+something about Jimmy.
+
+299
+00:48:30,241 --> 00:48:32,076
+You know why Jimmy's here?
+
+300
+00:48:32,160 --> 00:48:33,828
+- Why?
+- Jimmy!
+
+301
+00:48:33,912 --> 00:48:36,915
+- Why?
+- He's Bad Batch.
+
+302
+00:48:36,998 --> 00:48:38,374
+Yeah, yeah!
+
+303
+00:48:38,458 --> 00:48:40,168
+Bad Batch, fucker!
+
+304
+00:48:40,251 --> 00:48:43,129
+Nonfunctioning
+member of society.
+
+305
+00:48:43,212 --> 00:48:45,048
+That's what they told him.
+
+306
+00:48:45,965 --> 00:48:47,342
+That's right.
+
+307
+00:48:48,384 --> 00:48:50,178
+All of us here,
+
+308
+00:48:50,762 --> 00:48:52,180
+we weren't good enough.
+
+309
+00:48:52,513 --> 00:48:53,973
+Smart enough.
+
+310
+00:48:54,057 --> 00:48:55,600
+- Yeah!
+- Young enough.
+
+311
+00:48:55,975 --> 00:48:57,477
+- Healthy enough.
+- You're right!
+
+312
+00:48:57,560 --> 00:48:58,853
+Wealthy enough.
+
+313
+00:48:59,354 --> 00:49:01,230
+Sane enough.
+
+314
+00:49:02,649 --> 00:49:04,400
+Freaks.
+
+315
+00:49:05,944 --> 00:49:07,695
+Parasites.
+
+316
+00:49:07,946 --> 00:49:10,490
+Bad Batch!
+Motherfucking Bad Batch!
+
+317
+00:49:10,573 --> 00:49:12,575
+This here is the Bad Batch.
+
+318
+00:49:12,659 --> 00:49:15,244
+Bad Batch, bitches!
+
+319
+00:49:15,328 --> 00:49:17,956
+We ain't good. We're bad.
+
+320
+00:49:18,039 --> 00:49:20,708
+Yeah, yeah,
+that's right, Bad Batch!
+
+321
+00:49:20,792 --> 00:49:22,835
+Yeah, Bad Batch.
+
+322
+00:49:25,463 --> 00:49:26,673
+That's right.
+
+323
+00:49:27,882 --> 00:49:29,300
+We're bad, baby!
+
+324
+00:49:30,093 --> 00:49:32,220
+Now, there's only one rule here,
+
+325
+00:49:33,221 --> 00:49:34,806
+and it's this.
+
+326
+00:49:36,265 --> 00:49:38,309
+It's time to wake up.
+
+327
+00:49:38,685 --> 00:49:41,771
+It's time to find... The Dream.
+
+328
+00:49:42,021 --> 00:49:43,021
+The Dream!
+
+329
+00:49:50,113 --> 00:49:51,614
+All glory to The Dream!
+
+330
+00:49:56,577 --> 00:49:59,372
+We're a Bad Batch,
+motherfuckers!
+
+331
+00:49:59,455 --> 00:50:01,582
+Bad Batch, motherfuckers!
+
+332
+00:51:24,749 --> 00:51:26,000
+Yeah!
+
+333
+00:51:27,710 --> 00:51:29,879
+Yee-haw!
+
+334
+00:51:35,009 --> 00:51:36,427
+- Yeah.
+- What's wrong with that?
+
+335
+00:51:44,268 --> 00:51:45,853
+Is this your rabbit?
+
+336
+00:52:45,663 --> 00:52:46,663
+<i>Where is she?</i>
+
+337
+00:52:47,373 --> 00:52:48,666
+<i>She was just right here?</i>
+
+338
+00:52:48,749 --> 00:52:50,084
+<i>That kid.</i>
+
+339
+00:52:50,543 --> 00:52:52,461
+<i>She was right here a second ago.</i>
+
+340
+00:52:52,879 --> 00:52:54,714
+<i>She was right here a second ago.</i>
+
+341
+00:52:55,089 --> 00:52:56,382
+<i>She's got to be here somewhere.</i>
+
+342
+00:52:56,465 --> 00:52:58,176
+<i>Where did that kid go?</i>
+
+343
+00:52:58,259 --> 00:52:59,719
+<i>I lost her.</i>
+
+344
+00:52:59,802 --> 00:53:01,846
+<i>That kid. I hope she's okay.</i>
+
+345
+00:53:01,929 --> 00:53:03,598
+<i>What did I do?
+She's got to be here.</i>
+
+346
+00:53:03,681 --> 00:53:05,183
+<i>I know she's got to be here.</i>
+
+347
+00:53:05,933 --> 00:53:07,643
+<i>She's got to be here somewhere.</i>
+
+348
+00:53:09,145 --> 00:53:11,689
+<i>What did I do? What did I do?</i>
+
+349
+00:53:12,690 --> 00:53:15,067
+<i>Where did that kid go?</i>
+
+350
+00:53:20,489 --> 00:53:22,992
+Hey, you guys seen a little girl?
+
+351
+00:53:30,166 --> 00:53:31,959
+Hey, you seen a kid?
+
+352
+00:53:37,089 --> 00:53:39,050
+<i>What am I gonna do now?</i>
+
+353
+00:53:44,055 --> 00:53:47,016
+<i>I hate this place.</i>
+
+354
+00:53:47,099 --> 00:53:49,852
+<i>What is this place?</i>
+
+355
+00:53:49,936 --> 00:53:51,896
+<i>This place.</i>
+
+356
+00:53:51,979 --> 00:53:54,607
+<i>What is this place?</i>
+
+357
+00:53:54,690 --> 00:53:56,651
+<i>What is this place?</i>
+
+358
+00:54:05,159 --> 00:54:06,911
+<i>Here's what you do.</i>
+
+359
+00:54:06,994 --> 00:54:09,247
+<i>Okay, here's what you do.</i>
+
+360
+00:54:10,081 --> 00:54:12,041
+<i>Go somewhere. Go far away.</i>
+
+361
+00:54:12,124 --> 00:54:13,876
+<i>You go far away.</i>
+
+362
+00:54:13,960 --> 00:54:15,086
+<i>Somewhere. Leave Comfort.</i>
+
+363
+00:54:15,169 --> 00:54:16,796
+<i>Leave Comfort.</i>
+
+364
+00:54:17,380 --> 00:54:19,131
+<i>Just go for a walk.</i>
+
+365
+00:54:20,925 --> 00:54:22,677
+<i>Just go for a walk.</i>
+
+366
+00:54:25,680 --> 00:54:28,140
+<i>Somewhere. Anywhere.</i>
+
+367
+00:55:03,592 --> 00:55:05,136
+<i>Wow.</i>
+
+368
+00:55:05,219 --> 00:55:08,723
+<i>It's so big.</i>
+
+369
+00:55:08,806 --> 00:55:10,308
+<i>Wow.</i>
+
+370
+00:55:10,391 --> 00:55:13,602
+<i>So big.</i>
+
+371
+00:55:15,896 --> 00:55:18,357
+<i>Wow.</i>
+
+372
+00:55:18,441 --> 00:55:19,984
+<i>It's so big.</i>
+
+373
+00:55:20,067 --> 00:55:22,069
+<i>Wow! It's so big.</i>
+
+374
+00:55:22,153 --> 00:55:26,157
+<i>It's pretty, so pretty.</i>
+
+375
+00:55:29,410 --> 00:55:31,579
+<i>Is that what
+it always looks like?</i>
+
+376
+00:55:32,580 --> 00:55:35,374
+<i>Doesn't always look like that.</i>
+
+377
+00:56:01,984 --> 00:56:03,110
+<i>Wow.</i>
+
+378
+00:57:36,620 --> 00:57:39,373
+<i>Thought it was
+pretty at first, but...</i>
+
+379
+00:57:41,459 --> 00:57:44,044
+<i>now, I'm not so sure.</i>
+
+380
+00:57:49,341 --> 00:57:52,303
+<i>I don't even really know
+what it is.</i>
+
+381
+00:57:59,185 --> 00:58:01,270
+<i>Do you?</i>
+
+382
+00:58:36,889 --> 00:58:38,390
+<i>You're big.</i>
+
+383
+00:58:45,397 --> 00:58:47,483
+<i>Strange, isn't it?</i>
+
+384
+00:58:49,318 --> 00:58:50,736
+<i>Here we are</i>
+
+385
+00:58:51,570 --> 00:58:54,573
+<i>in the darkest corner
+of this Earth,</i>
+
+386
+00:58:56,283 --> 00:58:58,786
+<i>and we're afraid
+of our own kind.</i>
+
+387
+00:59:55,968 --> 00:59:57,511
+<i>Hmm.</i>
+
+388
+01:00:28,000 --> 01:00:30,628
+You know where you are?
+
+389
+01:00:46,268 --> 01:00:48,687
+You are a long way from Comfort.
+
+390
+01:00:49,104 --> 01:00:50,814
+And without this,
+
+391
+01:00:51,357 --> 01:00:53,067
+you go nowhere.
+
+392
+01:01:23,222 --> 01:01:25,057
+Did you see a kid
+look like that?
+
+393
+01:01:33,148 --> 01:01:34,525
+Did you see her?
+
+394
+01:01:35,359 --> 01:01:36,819
+No.
+
+395
+01:01:47,830 --> 01:01:49,581
+I'm going
+to take you to Comfort,
+
+396
+01:01:49,665 --> 01:01:51,250
+and you will go inside
+
+397
+01:01:51,333 --> 01:01:53,001
+and find her for me.
+
+398
+01:02:16,316 --> 01:02:18,318
+Listen to me good.
+
+399
+01:02:20,779 --> 01:02:24,825
+I don't care
+about nothing or nobody
+
+400
+01:02:25,075 --> 01:02:26,952
+except that little girl.
+
+401
+01:02:30,956 --> 01:02:32,499
+And I'm going to kill you
+
+402
+01:02:32,583 --> 01:02:34,334
+if you don't find her for me.
+
+403
+01:02:36,253 --> 01:02:37,713
+Comprende?
+
+404
+01:02:42,968 --> 01:02:44,261
+Mm.
+
+405
+01:03:48,075 --> 01:03:49,326
+Vámonos!
+
+406
+01:03:49,409 --> 01:03:50,828
+I'm thirsty.
+
+407
+01:03:51,787 --> 01:03:54,331
+This make you more thirsty.
+
+408
+01:03:57,292 --> 01:03:58,752
+We got guns at the wall.
+
+409
+01:03:59,002 --> 01:04:00,838
+They'll shoot if they see you.
+
+410
+01:04:02,381 --> 01:04:03,757
+Mm.
+
+411
+01:04:08,387 --> 01:04:09,555
+So what?
+
+412
+01:04:09,930 --> 01:04:11,390
+That's your kid?
+
+413
+01:04:14,184 --> 01:04:15,811
+What if I can't find her?
+
+414
+01:04:18,856 --> 01:04:20,858
+You will find her.
+
+415
+01:05:38,226 --> 01:05:40,187
+Trade you for that leg.
+
+416
+01:06:21,728 --> 01:06:23,522
+I'm being friendly, dude.
+
+417
+01:06:24,523 --> 01:06:26,316
+I can just keep it all
+for myself.
+
+418
+01:06:26,692 --> 01:06:27,985
+It's up to you.
+
+419
+01:07:05,022 --> 01:07:06,398
+Wait!
+
+420
+01:07:06,481 --> 01:07:07,733
+No!
+
+421
+01:07:15,323 --> 01:07:16,700
+Mm!
+
+422
+01:07:18,577 --> 01:07:20,579
+Fuck.
+
+423
+01:07:20,662 --> 01:07:22,581
+Mm-hmm.
+
+424
+01:07:25,917 --> 01:07:27,127
+No.
+
+425
+01:07:27,210 --> 01:07:29,379
+No, no, no, no! No!
+
+426
+01:07:44,686 --> 01:07:46,146
+Let me go!
+
+427
+01:07:47,814 --> 01:07:48,982
+Aah!
+
+428
+01:09:09,146 --> 01:09:10,564
+Vámonos!
+
+429
+01:09:53,440 --> 01:09:55,400
+Would you turn around,
+please?
+
+430
+01:11:40,130 --> 01:11:41,464
+What's your deal?
+
+431
+01:11:42,257 --> 01:11:44,009
+How come
+you're in the Bad Batch?
+
+432
+01:11:49,556 --> 01:11:50,974
+Gang related?
+
+433
+01:11:55,979 --> 01:11:57,689
+Drug related?
+
+434
+01:12:03,111 --> 01:12:04,696
+Illegal.
+
+435
+01:12:05,780 --> 01:12:07,157
+No papers.
+
+436
+01:12:10,535 --> 01:12:12,162
+You a Mexican?
+
+437
+01:12:14,372 --> 01:12:17,125
+Cubano, from Havana.
+
+438
+01:12:23,548 --> 01:12:25,467
+I heard of Cuba.
+
+439
+01:12:26,301 --> 01:12:28,178
+That's in the tropics, right?
+
+440
+01:12:29,304 --> 01:12:30,597
+Near Hawaii?
+
+441
+01:13:06,091 --> 01:13:07,801
+Here is Cuba.
+
+442
+01:13:08,718 --> 01:13:11,096
+I am born here, in Havana.
+
+443
+01:13:11,179 --> 01:13:14,766
+I come with a boat to America
+when I'm 16.
+
+444
+01:13:15,767 --> 01:13:17,185
+To Miami.
+
+445
+01:13:17,560 --> 01:13:18,560
+Miami.
+
+446
+01:13:18,937 --> 01:13:20,271
+What did you do there?
+
+447
+01:13:20,688 --> 01:13:22,816
+Like, what did you do in Miami?
+
+448
+01:13:25,235 --> 01:13:26,736
+A lot of thing.
+
+449
+01:13:27,445 --> 01:13:28,822
+I make tattoos,
+
+450
+01:13:29,280 --> 01:13:30,782
+construction.
+
+451
+01:13:30,865 --> 01:13:31,991
+I do this, that.
+
+452
+01:13:32,075 --> 01:13:33,326
+No big deal.
+
+453
+01:13:35,161 --> 01:13:37,622
+I got this one when I was 13.
+
+454
+01:13:39,290 --> 01:13:40,500
+And this.
+
+455
+01:13:52,637 --> 01:13:54,013
+See this one?
+
+456
+01:13:55,723 --> 01:13:58,059
+It's from the first boy
+I ever loved.
+
+457
+01:13:58,435 --> 01:14:00,186
+He was a musician.
+
+458
+01:14:00,728 --> 01:14:03,356
+We both got matching ones
+at the same time.
+
+459
+01:14:07,735 --> 01:14:09,320
+And this one,
+
+460
+01:14:09,404 --> 01:14:10,780
+5040.
+
+461
+01:14:13,992 --> 01:14:15,326
+What's your number?
+
+462
+01:14:21,374 --> 01:14:22,375
+Come on.
+
+463
+01:14:23,168 --> 01:14:24,335
+What's your number?
+
+464
+01:14:32,177 --> 01:14:33,595
+What's the big deal?
+
+465
+01:14:35,889 --> 01:14:37,807
+Just show me your number.
+
+466
+01:15:09,088 --> 01:15:10,465
+Your kind,
+
+467
+01:15:11,049 --> 01:15:12,342
+you're evil.
+
+468
+01:15:13,885 --> 01:15:15,178
+That's what you are.
+
+469
+01:15:15,470 --> 01:15:16,513
+Evil.
+
+470
+01:15:20,308 --> 01:15:22,227
+You don't see things
+how they are.
+
+471
+01:15:23,561 --> 01:15:25,396
+You only see things
+how you are.
+
+472
+01:15:25,480 --> 01:15:26,773
+I don't care.
+
+473
+01:15:27,732 --> 01:15:28,942
+I hate you.
+
+474
+01:15:29,400 --> 01:15:30,527
+Get it?
+
+475
+01:15:33,488 --> 01:15:35,198
+I hate all of y'all.
+
+476
+01:15:40,370 --> 01:15:42,288
+No problema para mí.
+
+477
+01:15:42,830 --> 01:15:44,249
+It's okay.
+
+478
+01:15:56,594 --> 01:15:58,680
+Doesn't change nothing for me.
+
+479
+01:16:00,098 --> 01:16:02,475
+Doesn't change nothing for you.
+
+480
+01:16:18,950 --> 01:16:20,285
+Ohh.
+
+481
+01:16:27,417 --> 01:16:28,459
+Ohh!
+
+482
+01:16:43,766 --> 01:16:45,184
+Come on. Come with me.
+
+483
+01:16:45,268 --> 01:16:46,728
+Come on.
+
+484
+01:16:58,948 --> 01:17:01,034
+Let's go, man. I'm getting
+the fuck out of here.
+
+485
+01:17:07,624 --> 01:17:09,626
+Come on.
+Hurry the fuck up.
+
+486
+01:17:14,964 --> 01:17:16,424
+Let's go now.
+
+487
+01:17:31,064 --> 01:17:32,398
+Open up.
+
+488
+01:17:36,319 --> 01:17:37,487
+Close it up.
+
+489
+01:17:40,365 --> 01:17:42,575
+- What's up, man?
+- Hey, what's going on?
+
+490
+01:17:42,659 --> 01:17:43,660
+What's your number, fool?
+
+491
+01:17:43,743 --> 01:17:45,244
+5828.
+
+492
+01:17:45,328 --> 01:17:47,038
+Been out in the desert
+two days, man.
+
+493
+01:17:47,121 --> 01:17:48,206
+I need some food.
+
+494
+01:17:48,289 --> 01:17:49,957
+Are you guys gonna help me
+out or what?
+
+495
+01:17:50,041 --> 01:17:51,542
+What's up
+with the white girl, man?
+
+496
+01:17:51,626 --> 01:17:54,170
+Found her ass out there
+with one of them Bridge people.
+
+497
+01:17:54,253 --> 01:17:55,380
+All right, kick back, homey.
+
+498
+01:17:55,463 --> 01:17:57,023
+- Thanks, man.
+- Welcome to Comfort ese.
+
+499
+01:17:57,090 --> 01:17:58,383
+Yeah, welcome to Comfort.
+
+500
+01:18:36,170 --> 01:18:40,049
+<i>♪ I woke in the dark ♪</i>
+
+501
+01:18:40,133 --> 01:18:45,722
+<i>♪ Called out
+into the cold night ♪</i>
+
+502
+01:18:49,100 --> 01:18:52,937
+<i>♪ A voice from outside ♪</i>
+
+503
+01:18:53,020 --> 01:18:55,773
+<i>♪ Drew me away ♪</i>
+
+504
+01:18:55,857 --> 01:18:59,277
+<i>♪ From the light ♪</i>
+
+505
+01:19:02,697 --> 01:19:05,658
+<i>♪ Follow me now ♪</i>
+
+506
+01:19:05,742 --> 01:19:08,786
+<i>♪ And never return ♪</i>
+
+507
+01:19:08,870 --> 01:19:14,250
+<i>♪ To your dawn ♪</i>
+
+508
+01:19:14,959 --> 01:19:18,588
+<i>♪ I'm drawn to the light ♪</i>
+
+509
+01:19:18,671 --> 01:19:21,632
+<i>♪ Nevermore, nevermore ♪</i>
+
+510
+01:19:21,716 --> 01:19:26,137
+<i>♪ Nevermore ♪</i>
+
+511
+01:19:26,387 --> 01:19:31,559
+<i>♪ All the colours of the dark ♪</i>
+
+512
+01:19:31,642 --> 01:19:32,727
+<i>♪ You will find ♪</i>
+
+513
+01:19:32,810 --> 01:19:37,815
+<i>♪ All the colours of the dark ♪</i>
+
+514
+01:19:37,899 --> 01:19:40,651
+<i>♪ Will remind you ♪</i>
+
+515
+01:19:40,735 --> 01:19:44,655
+<i>♪ Of someone who ♪</i>
+
+516
+01:19:44,739 --> 01:19:47,575
+<i>♪ Once was you ♪</i>
+
+517
+01:19:47,658 --> 01:19:50,787
+<i>♪ But madness ♪</i>
+
+518
+01:19:50,870 --> 01:19:54,749
+<i>♪ Is all you'll find ♪</i>
+
+519
+01:19:57,126 --> 01:20:00,671
+<i>♪ He walked in front ♪</i>
+
+520
+01:20:00,755 --> 01:20:03,966
+<i>♪ And found he was lost ♪</i>
+
+521
+01:20:04,050 --> 01:20:08,179
+<i>♪ In the dark ♪</i>
+
+522
+01:20:10,097 --> 01:20:13,601
+<i>♪ I drew him through the night ♪</i>
+
+523
+01:20:13,684 --> 01:20:16,771
+<i>♪ Away from the call ♪</i>
+
+524
+01:20:16,854 --> 01:20:21,192
+<i>♪ Of the light ♪</i>
+
+525
+01:20:23,027 --> 01:20:26,656
+<i>♪ I followed you here ♪</i>
+
+526
+01:20:26,906 --> 01:20:29,826
+<i>♪ And now can return ♪</i>
+
+527
+01:20:29,909 --> 01:20:33,621
+<i>♪ To my door ♪</i>
+
+528
+01:20:35,998 --> 01:20:39,627
+<i>♪ I'll go to the dark ♪</i>
+
+529
+01:20:39,710 --> 01:20:42,755
+<i>♪ Evermore, evermore ♪</i>
+
+530
+01:20:42,839 --> 01:20:46,884
+<i>♪ Evermore ♪</i>
+
+531
+01:20:47,552 --> 01:20:52,515
+<i>♪ All the colours of the dark ♪</i>
+
+532
+01:20:52,598 --> 01:20:53,641
+<i>♪ You will find ♪</i>
+
+533
+01:20:53,724 --> 01:20:59,272
+<i>♪ All the colours of the dark ♪</i>
+
+534
+01:20:59,355 --> 01:21:01,732
+<i>♪ Will remind you ♪</i>
+
+535
+01:21:01,816 --> 01:21:05,611
+<i>♪ Of someone who ♪</i>
+
+536
+01:21:05,695 --> 01:21:08,865
+<i>♪ Was once just you ♪</i>
+
+537
+01:21:08,948 --> 01:21:11,909
+<i>♪ But madness ♪</i>
+
+538
+01:21:11,993 --> 01:21:15,246
+<i>♪ Is all you'll find ♪</i>
+
+539
+01:21:15,329 --> 01:21:18,291
+<i>♪ You'll wander ♪</i>
+
+540
+01:21:18,374 --> 01:21:21,752
+<i>♪ Through your mind ♪</i>
+
+541
+01:21:21,836 --> 01:21:27,884
+<i>♪ You won't be coming back ♪</i>
+
+542
+01:21:28,259 --> 01:21:31,345
+<i>♪ Nevermore, nevermore ♪</i>
+
+543
+01:21:31,512 --> 01:21:32,513
+<i>♪ Never ♪</i>
+
+544
+01:25:46,976 --> 01:25:48,561
+Excuse me.
+
+545
+01:25:48,644 --> 01:25:49,937
+Have you seen this kid?
+
+546
+01:25:51,272 --> 01:25:52,314
+No.
+
+547
+01:25:52,398 --> 01:25:54,066
+You seen this kid?
+
+548
+01:25:54,608 --> 01:25:55,860
+No.
+
+549
+01:25:55,943 --> 01:25:57,736
+Excuse me, sir.
+
+550
+01:25:58,195 --> 01:25:59,780
+Have you seen this kid
+anywhere?
+
+551
+01:25:59,864 --> 01:26:00,781
+Uh-uh.
+
+552
+01:26:00,865 --> 01:26:02,408
+No?
+
+553
+01:26:02,950 --> 01:26:05,619
+Can you look out
+for her, please?
+
+554
+01:26:12,168 --> 01:26:13,270
+Oh, he ain't
+ever gonna be wasted.
+
+555
+01:26:13,294 --> 01:26:15,254
+Hey, have you guys
+seen a little girl?
+
+556
+01:26:15,671 --> 01:26:18,132
+I ain't seen shit, man.
+
+557
+01:26:25,347 --> 01:26:27,516
+I wish they'd stop
+making pennies.
+
+558
+01:26:28,809 --> 01:26:30,186
+I hate pennies.
+
+559
+01:26:30,269 --> 01:26:31,353
+I hate 'em!
+
+560
+01:26:31,687 --> 01:26:32,563
+Hey!
+
+561
+01:26:32,646 --> 01:26:34,648
+- I keep losing things.
+- Hey.
+
+562
+01:26:34,732 --> 01:26:36,817
+Don't wanna be a loser.
+I wanna be a finder.
+
+563
+01:26:36,901 --> 01:26:39,069
+Finder finds things.
+Loser loses them.
+
+564
+01:26:39,486 --> 01:26:41,280
+Yeah. I need to find a kid.
+
+565
+01:26:41,363 --> 01:26:42,531
+A little girl.
+
+566
+01:26:42,781 --> 01:26:44,033
+Yeah.
+
+567
+01:26:44,116 --> 01:26:46,243
+- She's about this tall.
+- Yeah.
+
+568
+01:26:46,327 --> 01:26:47,661
+- You've seen her?
+- Yeah.
+
+569
+01:26:47,745 --> 01:26:49,246
+- Where?
+- Hey, you wanna play
+
+570
+01:26:49,330 --> 01:26:50,331
+with my puzzle?
+
+571
+01:26:52,750 --> 01:26:53,959
+You wanna play?
+
+572
+01:26:55,211 --> 01:26:57,379
+No, I'm not gonna play
+with your puzzle.
+
+573
+01:26:57,463 --> 01:26:59,506
+- Thank you.
+- I'll call you later.
+
+574
+01:32:07,523 --> 01:32:09,441
+Yeah, baby!
+
+575
+01:32:10,776 --> 01:32:12,402
+Woo!
+
+576
+01:32:15,989 --> 01:32:18,116
+It's happening!
+
+577
+01:32:36,718 --> 01:32:38,512
+Yeah.
+
+578
+01:32:38,595 --> 01:32:39,846
+Yeah, baby.
+
+579
+01:32:48,605 --> 01:32:50,983
+<i>♪ Moonlight sets ♪</i>
+
+580
+01:32:51,066 --> 01:32:53,277
+<i>♪ Feels like seven years ♪</i>
+
+581
+01:32:53,360 --> 01:32:55,445
+<i>♪ Since I left ♪</i>
+
+582
+01:32:57,072 --> 01:32:59,575
+<i>♪ Can't you see
+behind this love ♪</i>
+
+583
+01:32:59,658 --> 01:33:01,201
+<i>♪ Tell me you don't know ♪</i>
+
+584
+01:33:01,285 --> 01:33:04,079
+<i>♪ If you don't like
+what you see ♪</i>
+
+585
+01:33:29,563 --> 01:33:31,273
+Take a good look there.
+
+586
+01:33:36,320 --> 01:33:38,572
+That's the economy of Comfort
+
+587
+01:33:38,989 --> 01:33:40,866
+sitting right in front of you.
+
+588
+01:33:43,493 --> 01:33:45,329
+Right beautiful.
+
+589
+01:33:48,832 --> 01:33:51,793
+See, you can catch
+more flies with honey.
+
+590
+01:33:53,629 --> 01:33:55,797
+But who wants flies?
+
+591
+01:34:02,220 --> 01:34:03,680
+Remind me your name again,
+
+592
+01:34:03,764 --> 01:34:05,140
+Sweetheart.
+
+593
+01:34:06,141 --> 01:34:07,684
+It's Arlen.
+
+594
+01:34:10,145 --> 01:34:12,272
+Let me ask you
+a question, Arlen.
+
+595
+01:34:12,773 --> 01:34:14,941
+When you shit here in Comfort,
+
+596
+01:34:15,025 --> 01:34:16,568
+your shit goes away.
+
+597
+01:34:16,652 --> 01:34:18,153
+That accurate?
+
+598
+01:34:18,236 --> 01:34:19,655
+I guess.
+
+599
+01:34:19,738 --> 01:34:21,156
+You shit.
+
+600
+01:34:21,239 --> 01:34:23,075
+It leaves.
+
+601
+01:34:23,158 --> 01:34:25,452
+You know why it leaves?
+
+602
+01:34:27,704 --> 01:34:29,164
+Um...
+
+603
+01:34:30,832 --> 01:34:34,753
+because the toilet
+takes it someplace?
+
+604
+01:34:35,796 --> 01:34:37,464
+Yes, it does.
+
+605
+01:34:39,424 --> 01:34:41,301
+Takes it where it takes it...
+
+606
+01:34:43,053 --> 01:34:44,805
+because of me.
+
+607
+01:34:49,017 --> 01:34:51,311
+'Cause I hate the idea
+
+608
+01:34:52,020 --> 01:34:53,855
+that my sons and daughters
+
+609
+01:34:53,939 --> 01:34:56,566
+would have to stew
+in their own shit.
+
+610
+01:35:00,529 --> 01:35:02,656
+Cows stand in their shit.
+
+611
+01:35:04,908 --> 01:35:06,827
+They stand in their shit...
+
+612
+01:35:07,953 --> 01:35:09,996
+'cause they're cows.
+
+613
+01:35:10,372 --> 01:35:12,457
+Pigs stand in their shit...
+
+614
+01:35:13,166 --> 01:35:15,043
+'cause they're pigs.
+
+615
+01:35:18,046 --> 01:35:19,756
+Some misbehaving humans
+
+616
+01:35:19,840 --> 01:35:21,550
+been making hamburgers
+out of my sons
+
+617
+01:35:21,633 --> 01:35:22,968
+and daughters.
+
+618
+01:35:24,094 --> 01:35:26,012
+We are not cows.
+
+619
+01:35:27,139 --> 01:35:29,391
+We don't stand in our shit.
+
+620
+01:35:30,809 --> 01:35:32,352
+Reason we don't...
+
+621
+01:35:33,437 --> 01:35:35,814
+is because
+I won't let that happen.
+
+622
+01:35:37,274 --> 01:35:39,151
+I got each and every toilet
+in Comfort
+
+623
+01:35:39,234 --> 01:35:42,362
+taking that shit
+from all your little asses
+
+624
+01:35:43,029 --> 01:35:44,281
+and sending it down the pipes
+
+625
+01:35:44,364 --> 01:35:45,699
+till it reaches a place
+
+626
+01:35:45,782 --> 01:35:48,076
+where no one thinks about it
+
+627
+01:35:48,827 --> 01:35:50,245
+and no one smells it.
+
+628
+01:35:51,288 --> 01:35:52,998
+Ain't that nice of me?
+
+629
+01:36:07,512 --> 01:36:08,972
+But you don't like it here,
+
+630
+01:36:10,056 --> 01:36:11,641
+do you?
+
+631
+01:36:16,605 --> 01:36:18,064
+No, I just...
+
+632
+01:36:20,984 --> 01:36:23,320
+Costs a lot to be here.
+
+633
+01:36:24,905 --> 01:36:27,157
+Cost you an arm and a leg.
+
+634
+01:36:30,243 --> 01:36:32,370
+Where would you rather be?
+
+635
+01:36:47,135 --> 01:36:48,512
+It's all right.
+
+636
+01:37:04,110 --> 01:37:06,530
+You know what I see
+when I look at you?
+
+637
+01:37:08,073 --> 01:37:10,700
+A sailboat out in the sea...
+
+638
+01:37:12,619 --> 01:37:14,454
+with no wind.
+
+639
+01:37:19,751 --> 01:37:22,337
+What is it you want, Arlen?
+
+640
+01:37:23,380 --> 01:37:25,757
+If you could have one thing,
+
+641
+01:37:26,174 --> 01:37:27,425
+anything,
+
+642
+01:37:28,510 --> 01:37:30,011
+what would it be?
+
+643
+01:37:31,096 --> 01:37:31,930
+Anything?
+
+644
+01:37:32,013 --> 01:37:33,849
+Anything at all.
+
+645
+01:37:39,062 --> 01:37:40,647
+A time machine.
+
+646
+01:37:43,066 --> 01:37:44,442
+Why?
+
+647
+01:37:45,777 --> 01:37:47,279
+So I could go back.
+
+648
+01:37:47,654 --> 01:37:49,739
+Fix things.
+
+649
+01:37:50,949 --> 01:37:52,367
+Make it better.
+
+650
+01:37:55,287 --> 01:37:57,414
+All the things you've done
+
+651
+01:37:58,540 --> 01:38:00,333
+have put you right here,
+
+652
+01:38:01,167 --> 01:38:02,669
+on this couch,
+
+653
+01:38:02,919 --> 01:38:04,588
+in this room,
+
+654
+01:38:04,671 --> 01:38:06,506
+with me.
+
+655
+01:38:12,470 --> 01:38:13,930
+Close your eyes.
+
+656
+01:38:17,684 --> 01:38:19,185
+Close them.
+
+657
+01:38:28,737 --> 01:38:31,323
+What do you really want?
+
+658
+01:38:37,412 --> 01:38:40,248
+I wanna be the solution
+for something.
+
+659
+01:38:50,175 --> 01:38:52,010
+You know what this is?
+
+660
+01:38:52,844 --> 01:38:54,429
+It's a tomato.
+
+661
+01:38:57,182 --> 01:38:58,600
+First,
+
+662
+01:39:00,518 --> 01:39:02,270
+it was a seed.
+
+663
+01:39:04,105 --> 01:39:06,107
+You take care of a garden,
+
+664
+01:39:06,733 --> 01:39:09,027
+and it takes care of you back.
+
+665
+01:39:09,444 --> 01:39:10,987
+You feed it,
+
+666
+01:39:11,529 --> 01:39:13,490
+it feeds you.
+
+667
+01:39:13,865 --> 01:39:15,325
+Few things in this world
+
+668
+01:39:15,408 --> 01:39:16,910
+operate like that,
+
+669
+01:39:17,243 --> 01:39:18,954
+fair and square.
+
+670
+01:39:21,998 --> 01:39:24,334
+It just needs a place to grow.
+
+671
+01:39:29,965 --> 01:39:33,551
+It grows and grows.
+
+672
+01:39:35,345 --> 01:39:37,097
+Then it comes out
+
+673
+01:39:37,847 --> 01:39:39,808
+and it's part of the world.
+
+674
+01:39:41,142 --> 01:39:43,687
+Because you know what
+The Dream really is?
+
+675
+01:39:46,314 --> 01:39:47,607
+It's life.
+
+676
+01:39:48,024 --> 01:39:49,734
+Life is The Dream.
+
+677
+01:39:51,277 --> 01:39:53,196
+The only dream.
+
+678
+01:40:08,461 --> 01:40:10,213
+I want The Dream.
+
+679
+01:40:10,922 --> 01:40:12,674
+What dream is that?
+
+680
+01:40:13,341 --> 01:40:14,926
+This one here.
+
+681
+01:40:16,594 --> 01:40:18,388
+Like they have.
+
+682
+01:40:33,486 --> 01:40:35,780
+Make up a room for our guest.
+
+683
+01:42:06,287 --> 01:42:08,123
+Is everything okay?
+
+684
+01:42:27,392 --> 01:42:30,436
+Hey. I'm sorry.
+
+685
+01:42:32,355 --> 01:42:34,440
+I guess I'm just a bit nervous.
+
+686
+01:42:34,524 --> 01:42:36,025
+That's okay.
+
+687
+01:42:36,401 --> 01:42:37,819
+Can you come in for a second?
+
+688
+01:42:39,028 --> 01:42:41,114
+Yeah, of course.
+
+689
+01:43:04,304 --> 01:43:06,598
+Is this really necessary?
+
+690
+01:43:14,230 --> 01:43:15,773
+Come here, kid.
+
+691
+01:43:16,983 --> 01:43:18,234
+We're going.
+
+692
+01:43:21,196 --> 01:43:22,655
+Bring her down!
+
+693
+01:43:23,323 --> 01:43:25,825
+You wanna see it all over
+your fucking walls?
+
+694
+01:43:54,646 --> 01:43:55,897
+Come here.
+
+695
+01:44:00,360 --> 01:44:01,819
+Promise me something.
+
+696
+01:44:03,529 --> 01:44:05,615
+Take care of this rabbit.
+
+697
+01:44:06,366 --> 01:44:08,284
+Come on.
+
+698
+01:44:09,994 --> 01:44:11,621
+Yeah.
+
+699
+01:44:12,622 --> 01:44:14,332
+When we're out
+and clear of the wall,
+
+700
+01:44:14,415 --> 01:44:15,416
+I'll let her go.
+
+701
+01:44:16,000 --> 01:44:17,335
+Come here.
+
+702
+01:44:17,877 --> 01:44:19,504
+Let's go, kid.
+
+703
+01:44:20,338 --> 01:44:22,882
+I'm real disappointed
+in you, Arlen.
+
+704
+01:44:24,717 --> 01:44:26,636
+Real disappointed.
+
+705
+01:44:36,896 --> 01:44:38,356
+Once we're out,
+I'll let her go.
+
+706
+01:44:38,439 --> 01:44:39,732
+I swear.
+
+707
+01:44:52,620 --> 01:44:55,123
+Yo, check this shit
+out right here, homes.
+
+708
+01:44:55,206 --> 01:44:57,458
+- Open it, Nacho.
+- Open the gate, homes.
+
+709
+01:44:57,542 --> 01:44:58,751
+Open it!
+
+710
+01:45:02,088 --> 01:45:03,172
+Come on.
+
+711
+01:45:06,884 --> 01:45:08,261
+Bye, guerita.
+
+712
+01:45:10,680 --> 01:45:12,181
+Don't come back,
+you crazy bitch.
+
+713
+01:45:21,441 --> 01:45:23,651
+<i>♪ Better go and get ♪</i>
+
+714
+01:45:25,695 --> 01:45:28,281
+<i>♪ Better inside ♪</i>
+
+715
+01:45:29,949 --> 01:45:32,035
+<i>♪ Better go and get ♪</i>
+
+716
+01:45:33,202 --> 01:45:34,202
+Get in the front.
+
+717
+01:45:34,245 --> 01:45:36,372
+<i>♪ Here inside ♪</i>
+
+718
+01:45:38,082 --> 01:45:40,335
+<i>♪ I told you I would get you ♪</i>
+
+719
+01:45:40,501 --> 01:45:41,836
+Come on.
+
+720
+01:45:42,545 --> 01:45:44,964
+<i>♪ The back of the house ♪</i>
+
+721
+01:45:46,674 --> 01:45:49,802
+<i>♪ I told you I would find you ♪</i>
+
+722
+01:45:55,933 --> 01:45:58,811
+<i>♪ Paper trails on a mountain ♪</i>
+
+723
+01:46:00,480 --> 01:46:02,982
+<i>♪ And fruits on a table ♪</i>
+
+724
+01:46:04,275 --> 01:46:06,903
+<i>♪ A wooden house to live in ♪</i>
+
+725
+01:46:09,113 --> 01:46:11,282
+<i>♪ A baby; take care of ♪</i>
+
+726
+01:46:12,658 --> 01:46:13,785
+<i>♪ The grass is green ♪</i>
+
+727
+01:46:13,868 --> 01:46:15,286
+<i>♪ But the... ♪</i>
+
+728
+01:46:16,371 --> 01:46:18,498
+<i>♪ The sun is slow ♪</i>
+
+729
+01:46:21,334 --> 01:46:23,294
+<i>♪ Better find a way ♪</i>
+
+730
+01:46:25,213 --> 01:46:26,756
+<i>♪ To get through to you ♪</i>
+
+731
+01:46:30,051 --> 01:46:32,387
+<i>♪ Where are you
+when I need you? ♪</i>
+
+732
+01:46:33,346 --> 01:46:35,598
+<i>♪ Where did you go? ♪</i>
+
+733
+01:46:38,101 --> 01:46:40,853
+<i>♪ How can I find you
+when I need you? ♪</i>
+
+734
+01:46:41,938 --> 01:46:43,940
+<i>♪ Where should I go? ♪</i>
+
+735
+01:47:19,058 --> 01:47:20,351
+Miel.
+
+736
+01:47:47,920 --> 01:47:50,548
+You good? Okay?
+
+737
+01:48:03,060 --> 01:48:06,063
+<i>♪ Paper trails on a mountain ♪</i>
+
+738
+01:48:07,607 --> 01:48:10,067
+<i>♪ And fruits on a table ♪</i>
+
+739
+01:48:11,319 --> 01:48:14,322
+<i>♪ A wooden house to live in ♪</i>
+
+740
+01:48:16,240 --> 01:48:18,826
+<i>♪ A baby; take care of ♪</i>
+
+741
+01:48:39,722 --> 01:48:40,806
+Hey.
+
+742
+01:48:43,142 --> 01:48:44,560
+Wait.
+
+743
+01:48:48,064 --> 01:48:49,607
+What are you doing
+right now?
+
+744
+01:48:53,402 --> 01:48:55,238
+Do you wanna hang out
+or something?
+
+745
+01:48:58,533 --> 01:49:00,576
+You are very confused, no?
+
+746
+01:49:04,497 --> 01:49:06,165
+Not really.
+
+747
+01:49:07,542 --> 01:49:09,418
+What you think I am, gringa?
+
+748
+01:49:13,798 --> 01:49:16,008
+What if all these things
+that happened to us
+
+749
+01:49:16,092 --> 01:49:17,677
+happened to us
+so the next things
+
+750
+01:49:17,760 --> 01:49:19,095
+that gonna happen to us
+
+751
+01:49:19,178 --> 01:49:21,097
+can happen to us?
+
+752
+01:49:26,936 --> 01:49:28,771
+You brought back my kid.
+
+753
+01:49:30,898 --> 01:49:32,275
+You done now.
+
+754
+01:49:32,525 --> 01:49:34,277
+You can go.
+
+755
+01:49:35,278 --> 01:49:36,904
+Go back to Comfort.
+
+756
+01:49:37,238 --> 01:49:39,115
+I'm not going back there.
+
+757
+01:49:41,158 --> 01:49:42,535
+In this place
+
+758
+01:49:42,618 --> 01:49:44,203
+is only death for you.
+
+759
+01:49:44,287 --> 01:49:45,955
+Is like that.
+
+760
+01:49:49,166 --> 01:49:50,835
+Well, I like it here.
+
+761
+01:49:53,671 --> 01:49:55,006
+What do you like?
+
+762
+01:49:56,215 --> 01:49:57,466
+Where is here?
+
+763
+01:50:00,428 --> 01:50:01,512
+Look around.
+
+764
+01:50:01,971 --> 01:50:03,764
+Is nothing.
+
+765
+01:50:32,001 --> 01:50:34,086
+I want spaghetti
+because the other man
+
+766
+01:50:34,170 --> 01:50:36,297
+gave me spaghetti.
+
+767
+01:50:54,106 --> 01:50:56,150
+I want spaghetti.
+
+768
+01:50:56,525 --> 01:50:59,236
+I'm hungry. I want spaghetti!
+
+769
+01:50:59,320 --> 01:51:01,280
+I want spaghetti!
+
+770
+01:51:33,270 --> 01:51:36,273
+<i>♪ On the cusp of vessel 18 ♪</i>
+
+771
+01:51:37,566 --> 01:51:41,570
+<i>♪ A look of terror in our eyes ♪</i>
+
+772
+01:51:43,155 --> 01:51:48,619
+<i>♪ The moonlight licked
+the face of danger ♪</i>
+
+773
+01:51:50,413 --> 01:51:54,375
+<i>♪ Innocence made us
+like soldiers ♪</i>
+
+774
+01:51:54,917 --> 01:51:58,087
+<i>♪ Untouchable and golden ♪</i>
+
+775
+01:52:00,423 --> 01:52:02,425
+<i>♪ The quilt of darkness ♪</i>
+
+776
+01:52:02,508 --> 01:52:09,098
+<i>♪ Dotted with our teardrops ♪</i>
+
+777
+01:52:24,947 --> 01:52:28,951
+<i>♪ I know you're sad
+I'm leaving ♪</i>
+
+778
+01:52:29,201 --> 01:52:33,038
+<i>♪ So this may hurt a little ♪</i>
+
+779
+01:52:34,582 --> 01:52:41,130
+<i>♪ But, girl, look from your window
+late tonight ♪</i>
+
+780
+01:52:41,881 --> 01:52:46,135
+<i>♪ You think my heart is frozen ♪</i>
+
+781
+01:52:46,302 --> 01:52:50,222
+<i>♪ While yours
+is slowly grieving ♪</i>
+
+782
+01:52:51,682 --> 01:52:58,230
+<i>♪ You'll see the boy you loved
+start burning in the sky ♪</i>
+
+783
+01:53:16,081 --> 01:53:19,752
+<i>♪ We were a dozen
+to the project ♪</i>
+
+784
+01:53:20,544 --> 01:53:24,340
+<i>♪ With a galaxy of questions ♪</i>
+
+785
+01:53:26,091 --> 01:53:31,931
+<i>♪ And all we heard was lies
+about the truth ♪</i>
+
+786
+01:53:33,724 --> 01:53:37,728
+<i>♪ No choice but be obedient ♪</i>
+
+787
+01:53:37,812 --> 01:53:41,482
+<i>♪ Like prisoners of war ♪</i>
+
+788
+01:53:42,650 --> 01:53:50,407
+<i>♪ Caught on the wrong side
+of morality and youth ♪</i>
+
+789
+01:53:50,616 --> 01:53:54,787
+<i>♪ We thought about
+our loved ones ♪</i>
+
+790
+01:53:54,870 --> 01:53:59,375
+<i>♪ Tallied 50
+on our foreheads ♪</i>
+
+791
+01:54:01,126 --> 01:54:06,924
+<i>♪ With the pen your mother
+gave me in the spring ♪</i>
+
+792
+01:54:07,883 --> 01:54:12,054
+<i>♪ The sun beat at the windows ♪</i>
+
+793
+01:54:12,137 --> 01:54:16,141
+<i>♪ Within an hour
+James had cracked ♪</i>
+
+794
+01:54:18,227 --> 01:54:23,357
+<i>♪ Left the ship and died
+still clinging to the wings ♪</i>
+
+795
+01:54:45,963 --> 01:54:50,759
+<i>♪ Start burning in the sky ♪</i>
+
+796
+01:54:54,513 --> 01:54:59,143
+<i>♪ Start burning in the sky ♪</i>
+
+797
+01:55:03,022 --> 01:55:07,443
+<i>♪ Start burning in the sky ♪</i>
+
+798
+01:55:11,906 --> 01:55:16,994
+<i>♪ Start burning in the sky ♪</i>
+
+799
+01:55:41,602 --> 01:55:44,104
+<i>♪ Late in the night ♪</i>
+
+800
+01:55:44,188 --> 01:55:47,399
+<i>♪ When the darkness is deep ♪</i>
+
+801
+01:55:49,568 --> 01:55:52,029
+<i>♪ Come to my home ♪</i>
+
+802
+01:55:52,112 --> 01:55:54,990
+<i>♪ Let me offer you tea ♪</i>
+
+803
+01:55:57,493 --> 01:55:59,954
+<i>♪ Sadness may go ♪</i>
+
+804
+01:56:00,037 --> 01:56:03,123
+<i>♪ Like the sails on the sea ♪</i>
+
+805
+01:56:05,542 --> 01:56:08,212
+<i>♪ Lay down your love ♪</i>
+
+806
+01:56:08,295 --> 01:56:09,838
+<i>♪ Lay down ♪</i>
+
+807
+01:56:12,466 --> 01:56:15,594
+<i>♪ Lay down your sorrow ♪</i>
+
+808
+01:56:16,428 --> 01:56:18,847
+<i>♪ Lay down your love ♪</i>
+
+809
+01:56:20,307 --> 01:56:23,102
+<i>♪ Stay till tomorrow ♪</i>
+
+810
+01:56:24,395 --> 01:56:27,022
+<i>♪ Let yourself go ♪</i>
+
+811
+01:56:28,315 --> 01:56:31,235
+<i>♪ Lay down your sorrow ♪</i>
+
+812
+01:56:32,444 --> 01:56:35,030
+<i>♪ Lay out your love ♪</i>
+
+813
+01:56:36,448 --> 01:56:39,410
+<i>♪ Stay till tomorrow ♪</i>
+
+814
+01:56:40,411 --> 01:56:41,954
+<i>♪ Open up ♪</i>
+
+815
+01:56:45,416 --> 01:56:48,460
+<i>♪ Sadness may go ♪</i>
+
+816
+01:56:48,711 --> 01:56:52,923
+<i>♪ Like the sails on the sea ♪</i>
+
+817
+01:56:53,465 --> 01:56:56,760
+<i>♪ Come to my home ♪</i>
+
+818
+01:56:56,844 --> 01:57:00,472
+<i>♪ Let me offer you tea ♪</i>
+
+819
+01:57:01,390 --> 01:57:04,601
+<i>♪ Late in the night ♪</i>
+
+820
+01:57:04,685 --> 01:57:08,939
+<i>♪ When the darkness is deep ♪</i>
+
+821
+01:57:09,398 --> 01:57:12,776
+<i>♪ Lay down your love ♪</i>
+
+822
+01:57:13,318 --> 01:57:15,529
+<i>♪ Stay close to me ♪</i>
+
+823
+01:57:15,612 --> 01:57:18,198
+<i>♪ Sorrow ♪</i>
+
+824
+01:57:18,365 --> 01:57:19,575
+<i>♪ Lay down your love ♪</i>
+
+825
+01:57:19,658 --> 01:57:22,202
+<i>♪ Love ♪</i>
+
+826
+01:57:22,453 --> 01:57:26,081
+<i>♪ Stay till tomorrow ♪</i>
+
+827
+01:57:26,623 --> 01:57:28,500
+<i>♪ Open up ♪</i>
+
+828
+01:57:30,586 --> 01:57:34,006
+<i>♪ Lay down your sorrow ♪</i>
+
+829
+01:57:34,590 --> 01:57:37,301
+<i>♪ Lay out your lie ♪</i>
+
+830
+01:57:38,385 --> 01:57:40,637
+<i>♪ Come see the new dawn ♪</i>
+
+831
+01:57:40,721 --> 01:57:42,347
+<i>♪ Dawn ♪</i>
+
+832
+01:57:42,598 --> 01:57:44,600
+<i>♪ Break through the night ♪</i>
+
+833
+01:57:45,476 --> 01:57:48,604
+<i>♪ Sadness may go ♪</i>
+
+834
+01:57:48,896 --> 01:57:52,524
+<i>♪ Like the sails on the sea ♪</i>
+
+835
+01:57:53,567 --> 01:57:56,653
+<i>♪ Come to my home ♪</i>
+
+836
+01:57:56,862 --> 01:58:00,616
+<i>♪ Let me offer you tea ♪</i>
+
+837
+01:58:01,492 --> 01:58:04,328
+<i>♪ Late in the night ♪</i>
+
+838
+01:58:04,828 --> 01:58:08,624
+<i>♪ When the darkness is deep ♪</i>
+
+839
+01:58:09,416 --> 01:58:12,753
+<i>♪ Love will arise ♪</i>
+
+840
+01:58:12,920 --> 01:58:17,382
+<i>♪ And the stars kiss the sea ♪</i>
+
+841
+01:58:17,633 --> 01:58:25,633
+<i>♪ All the words lost is found
+in the final round ♪</i>
+
+842
+01:58:27,684 --> 01:58:29,269
+<i>♪ Deepest ♪</i>
+
+843
+01:58:29,561 --> 01:58:32,439
+<i>♪ Darkest hour ♪</i>
+
+844
+01:58:32,523 --> 01:58:37,486
+<i>♪ Open up your coat ♪</i>
+

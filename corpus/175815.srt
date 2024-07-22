@@ -1,0 +1,1355 @@
+1
+00:01:32,826 --> 00:01:35,295
+We're detecting a high energy
+reaction from inside the target!
+
+2
+00:01:35,295 --> 00:01:36,196
+We're detecting a high energy
+reaction from inside the target!
+
+3
+00:01:36,196 --> 00:01:36,796
+It's accelerating, and
+massing in upon itself!
+
+4
+00:01:36,796 --> 00:01:38,598
+It's accelerating, and
+massing in upon itself!
+
+5
+00:01:38,598 --> 00:01:40,088
+Is it possible?
+
+6
+00:01:46,172 --> 00:01:47,662
+No, dodge it!
+
+7
+00:01:55,715 --> 00:01:57,706
+Retrieve him, hurry!
+
+8
+00:02:03,289 --> 00:02:05,024
+The target has gone silent!
+
+9
+00:02:05,024 --> 00:02:06,126
+How's Shinji?
+
+10
+00:02:06,126 --> 00:02:07,494
+He's alive!
+
+11
+00:02:07,494 --> 00:02:10,330
+Unit 01 has been recovered.
+Send it to the 7th cage.
+
+12
+00:02:10,330 --> 00:02:12,355
+I'm going to the cage.
+Take over for me, please!
+
+13
+00:02:15,435 --> 00:02:17,198
+Unit 01 secured!
+
+14
+00:02:18,671 --> 00:02:20,974
+The pilot's brain waves are
+extremely erratic!
+
+15
+00:02:20,974 --> 00:02:22,375
+His cardiac readings
+are very weak.
+
+16
+00:02:22,375 --> 00:02:25,778
+lncrease power to life support.
+Give him a heart massage.
+
+17
+00:02:25,778 --> 00:02:27,714
+Roger!
+
+18
+00:02:27,714 --> 00:02:29,015
+Pulse confirmed!
+
+19
+00:02:29,015 --> 00:02:31,142
+Force eject the entry plug! Hurry!
+
+20
+00:02:34,821 --> 00:02:36,556
+Emergency LCL discharge!
+
+21
+00:02:36,556 --> 00:02:38,358
+Roger!
+
+22
+00:02:38,358 --> 00:02:40,326
+Come on, open the hatch! Hurry!
+
+23
+00:02:49,903 --> 00:02:51,393
+Shinji!
+
+24
+00:03:34,414 --> 00:03:36,449
+The enemy's accelerated particle
+beam cannon has hit the balloon!
+
+25
+00:03:36,449 --> 00:03:38,051
+The decoy has been vaporized!
+
+26
+00:03:38,051 --> 00:03:39,541
+Next.
+
+27
+00:03:52,565 --> 00:03:54,726
+The Type 12 Mortar has
+been vaporized!
+
+28
+00:03:55,935 --> 00:03:57,163
+I see.
+
+29
+00:03:58,338 --> 00:04:02,375
+From the data we've collected,
+we're assuming that the Angel
+
+30
+00:04:02,375 --> 00:04:05,478
+automatically attacks any
+opponent within a certain range.
+
+31
+00:04:05,478 --> 00:04:10,216
+Anything entering that range
+will be targeted.
+
+32
+00:04:10,216 --> 00:04:13,820
+It's too risky for close range
+combat in an Eva, isn't it?
+
+33
+00:04:13,820 --> 00:04:15,488
+What's the status of its AT field?
+
+34
+00:04:15,488 --> 00:04:16,522
+It's still active.
+
+35
+00:04:16,522 --> 00:04:20,754
+It's strong enough that the spatial
+changes in phase are visible.
+
+36
+00:04:22,295 --> 00:04:25,832
+Using conventional attacks,
+guided missiles, artillery, bombs,
+
+37
+00:04:25,832 --> 00:04:28,134
+will inflict more damage on
+us than on the Angel!
+
+38
+00:04:28,134 --> 00:04:32,939
+Offensively and defensively it's
+almost perfect. A flying fortress.
+
+39
+00:04:32,939 --> 00:04:35,141
+What's the status on its drill?
+
+40
+00:04:35,141 --> 00:04:37,377
+At this moment the target
+is directly above us,
+
+41
+00:04:37,377 --> 00:04:40,313
+penetrating the Tokyo 3 Null Zone.
+
+42
+00:04:40,313 --> 00:04:43,249
+A giant shielded drill with a
+diameter of 17.5 meters
+
+43
+00:04:43,249 --> 00:04:46,047
+is boring towards NERV HQ.
+
+44
+00:04:47,587 --> 00:04:51,758
+The enemy is going to attack
+NERV Headquarters directly.
+
+45
+00:04:51,758 --> 00:04:53,660
+Sassy bastard!
+
+46
+00:04:53,660 --> 00:04:56,029
+What's its ETA?
+
+47
+00:04:56,029 --> 00:04:59,966
+06:54 AM, just after midnight.
+
+48
+00:04:59,966 --> 00:05:03,670
+By that time, it will breach all
+twenty-two levels of armor,
+
+49
+00:05:03,670 --> 00:05:06,002
+and compromise NERV
+Headquarters itself.
+
+50
+00:05:07,674 --> 00:05:09,471
+Less than ten hours...
+
+51
+00:05:14,914 --> 00:05:17,817
+The drill has contacted the
+first armor plate.
+
+52
+00:05:17,817 --> 00:05:20,453
+What's the condition of Unit 01?
+
+53
+00:05:20,453 --> 00:05:24,257
+The defensive armor was melted
+down to the third layer.
+
+54
+00:05:24,257 --> 00:05:28,394
+The good news is that the central
+control unit sustained no damage.
+
+55
+00:05:28,394 --> 00:05:31,798
+Three more seconds, and it would
+have burned right through the Eva.
+
+56
+00:05:31,798 --> 00:05:35,468
+It will take three hours to install
+replacement parts.
+
+57
+00:05:35,468 --> 00:05:36,836
+Roger.
+
+58
+00:05:36,836 --> 00:05:38,104
+What's the status of Unit 00?
+
+59
+00:05:38,104 --> 00:05:40,573
+Re-activation itself should
+prove no problem,
+
+60
+00:05:40,573 --> 00:05:43,209
+but there's still a feedback error.
+
+61
+00:05:43,209 --> 00:05:44,277
+So it wouldn't...
+
+62
+00:05:44,277 --> 00:05:46,446
+...survive combat.
+
+63
+00:05:46,446 --> 00:05:49,115
+What's the condition of
+Unit 01's pilot?
+
+64
+00:05:49,115 --> 00:05:50,883
+No physical damage.
+
+65
+00:05:50,883 --> 00:05:54,020
+However, his nerve
+pulses are up by 0.8.
+
+66
+00:05:54,020 --> 00:05:56,356
+Still within acceptable limits.
+
+67
+00:05:56,356 --> 00:06:00,493
+Enemy arrival:
+9 hours, 55 minutes.
+
+68
+00:06:00,493 --> 00:06:02,762
+Talk about you high
+pressure situations!
+
+69
+00:06:02,762 --> 00:06:04,931
+Why don't we just raise
+a white flag?
+
+70
+00:06:04,931 --> 00:06:06,132
+Before we resort to that,
+
+71
+00:06:06,132 --> 00:06:08,600
+there's one little thing
+I'd like to try.
+
+72
+00:06:10,002 --> 00:06:14,207
+You want a sniper to shoot the
+target from outside its firing zone?
+
+73
+00:06:14,207 --> 00:06:15,141
+Yes, Sir.
+
+74
+00:06:15,141 --> 00:06:17,543
+Instead of trying to neutralize
+the target's AT field,
+
+75
+00:06:17,543 --> 00:06:21,280
+I believe a pinpoint shot with a
+high-energy beam is the only way.
+
+76
+00:06:21,280 --> 00:06:22,815
+What do the Magi say?
+
+77
+00:06:22,815 --> 00:06:25,251
+The responses from the
+Magi Super Computers
+
+78
+00:06:25,251 --> 00:06:28,721
+were two affirmative and one
+conditional affirmative.
+
+79
+00:06:28,721 --> 00:06:31,791
+Our probability of success
+is 8.7 percent.
+
+80
+00:06:31,791 --> 00:06:34,160
+It's the highest value we could get.
+
+81
+00:06:34,160 --> 00:06:38,898
+I see no reason to reject the plan.
+You may proceed, Captain.
+
+82
+00:06:38,898 --> 00:06:40,633
+Yes, Sir.
+
+83
+00:06:40,633 --> 00:06:43,803
+You know how crazy this whole
+operation is, don't you,
+
+84
+00:06:43,803 --> 00:06:45,605
+Operations Director Katsuragi?
+
+85
+00:06:45,605 --> 00:06:47,974
+Don't be rude. It's not crazy!
+
+86
+00:06:47,974 --> 00:06:50,343
+It can be executed within the
+nine hours we have left,
+
+87
+00:06:50,343 --> 00:06:52,678
+and has the highest
+chance of success.
+
+88
+00:06:52,678 --> 00:06:55,114
+It does? Really?
+
+89
+00:06:55,114 --> 00:06:59,185
+But our positron rifle can't
+handle such high output.
+
+90
+00:06:59,185 --> 00:07:00,253
+What are you going to
+do about that?
+
+91
+00:07:00,253 --> 00:07:03,022
+We'll borrow one of course.
+
+92
+00:07:03,022 --> 00:07:05,889
+Borrow one? You don't mean...
+
+93
+00:07:06,993 --> 00:07:09,154
+Yeah! The Strategic Self Defense
+Force Lab's new prototype!
+
+94
+00:07:10,963 --> 00:07:15,868
+NERV is hereby requisitioning this
+Self Propelled Positron Cannon
+
+95
+00:07:15,868 --> 00:07:18,604
+as of 15:00 today.
+
+96
+00:07:18,604 --> 00:07:21,841
+But this is ridiculous!
+
+97
+00:07:21,841 --> 00:07:26,946
+We'll try to return this in as close
+to its original condition as we can.
+
+98
+00:07:26,946 --> 00:07:30,416
+Thank you for your cooperation!
+
+99
+00:07:30,416 --> 00:07:32,907
+Okay, Rei! Take it away!
+
+100
+00:07:36,255 --> 00:07:38,849
+Be careful. That's a piece
+of precision machinery!
+
+101
+00:07:41,727 --> 00:07:45,932
+Ma'am? Our calculations
+show that it will take
+
+102
+00:07:45,932 --> 00:07:48,734
+at least 180 million kilowatts
+to penetrate that AT field.
+
+103
+00:07:48,734 --> 00:07:51,862
+Where in Japan are you going to
+to get that much electricity?
+
+104
+00:07:52,872 --> 00:07:55,807
+From all of Japan. We'll take it all!
+
+105
+00:07:58,177 --> 00:07:59,979
+We apologize for interrupting
+
+106
+00:07:59,979 --> 00:08:03,015
+our regular programming for
+this Emergency Bulletin.
+
+107
+00:08:03,015 --> 00:08:05,818
+From 11:30 PM tonight until
+tomorrow morning,
+
+108
+00:08:05,818 --> 00:08:08,654
+there will be a large scale
+power blackout
+
+109
+00:08:08,654 --> 00:08:10,056
+throughout most of Japan.
+
+110
+00:08:10,056 --> 00:08:13,259
+We appreciate your cooperation.
+
+111
+00:08:13,259 --> 00:08:19,332
+Repeat, from 11:30 PM tonight
+until tomorrow morning
+
+112
+00:08:19,332 --> 00:08:21,901
+there will be a large scale power
+blackout throughout Japan.
+
+113
+00:08:21,901 --> 00:08:24,836
+We appreciate your cooperation.
+
+114
+00:08:29,375 --> 00:08:32,211
+The drill has just broken through
+the seventh defensive layer.
+
+115
+00:08:32,211 --> 00:08:34,547
+What's the status on our
+energy supply?
+
+116
+00:08:34,547 --> 00:08:40,286
+3.2% behind schedule, but we
+should be finished by 23:10.
+
+117
+00:08:40,286 --> 00:08:42,021
+And the positron rifle?
+
+118
+00:08:42,021 --> 00:08:44,657
+For the honor of Technology
+Development Department 3,
+
+119
+00:08:44,657 --> 00:08:47,660
+we're betting that we'll have
+it built in three hours.
+
+120
+00:08:47,660 --> 00:08:49,028
+And how's our defense coming?
+
+121
+00:08:49,028 --> 00:08:52,331
+Well, using a shield is
+about all we can do.
+
+122
+00:08:52,331 --> 00:08:54,367
+So, this is the shield?
+
+123
+00:08:54,367 --> 00:08:57,737
+Yes. It was part of a single
+stage trans-orbital rocket.
+
+124
+00:08:57,737 --> 00:09:03,142
+It may look ugly, but it's got an
+electromagnetic base coating that
+
+125
+00:09:03,142 --> 00:09:06,178
+Section 2 guarantees will stand
+up to the enemy's particle beam
+
+126
+00:09:06,178 --> 00:09:07,647
+for at least seventeen seconds.
+
+127
+00:09:07,647 --> 00:09:10,449
+Good. Have you determined
+the sniper position?
+
+128
+00:09:10,449 --> 00:09:12,585
+Given the location ofthe target,
+taking geographical features and
+
+129
+00:09:12,585 --> 00:09:16,289
+power access into consideration,
+this would be our best choice.
+
+130
+00:09:16,289 --> 00:09:19,425
+Right. Looking good.
+
+131
+00:09:19,425 --> 00:09:21,928
+Our sniper will attack from
+the top of Mount Futago!
+
+132
+00:09:21,928 --> 00:09:25,064
+The Operation will commence,
+at 00:00 tomorrow morning!
+
+133
+00:09:25,064 --> 00:09:28,167
+From this point on, this operation
+will be called "Operation Yashima".
+
+134
+00:09:28,167 --> 00:09:29,602
+Roger.
+
+135
+00:09:29,602 --> 00:09:31,627
+Now, the only remaining
+problem is the pilot.
+
+136
+00:09:46,886 --> 00:09:49,055
+Unit 01's designated pilot
+is conscious now.
+
+137
+00:09:49,055 --> 00:09:50,890
+His examination results
+look normal.
+
+138
+00:09:50,890 --> 00:09:54,427
+Good. Then, the operation
+will proceed as planned.
+
+139
+00:09:54,427 --> 00:09:55,595
+Roger.
+
+140
+00:09:55,595 --> 00:09:57,756
+But I wonder if he'll pilot it again.
+
+141
+00:09:58,831 --> 00:10:00,458
+Let's get to Mt. Futago now!
+
+142
+00:10:18,484 --> 00:10:20,319
+Ayanami...
+
+143
+00:10:20,319 --> 00:10:22,822
+I'm here to brief you on the
+Operation Yashima timetable.
+
+144
+00:10:22,822 --> 00:10:25,416
+The operation will begin at
+midnight, 00:00 hours.
+
+145
+00:10:27,093 --> 00:10:33,032
+Pilots lkari and Ayanami will arrive
+at the cage by 17:30.
+
+146
+00:10:33,032 --> 00:10:37,303
+At 18:00, Units 01 and 00
+will activate.
+
+147
+00:10:37,303 --> 00:10:39,639
+At 18:05, both units
+must be deployed.
+
+148
+00:10:39,639 --> 00:10:42,908
+They will arrive at the temporary
+base on Mount Futago at 18:30.
+
+149
+00:10:42,908 --> 00:10:45,611
+There, they will await
+further orders.
+
+150
+00:10:45,611 --> 00:10:49,274
+The Operation will begin
+promptly at midnight.
+
+151
+00:10:51,350 --> 00:10:52,544
+This is the new one.
+
+152
+00:10:59,158 --> 00:11:01,558
+Don't show up looking like that.
+
+153
+00:11:08,200 --> 00:11:09,690
+Sorry.
+
+154
+00:11:13,939 --> 00:11:16,567
+I've been apologizing
+since yesterday.
+
+155
+00:11:18,344 --> 00:11:19,834
+Your meal.
+
+156
+00:11:23,382 --> 00:11:26,218
+I don't want to eat anything.
+
+157
+00:11:26,218 --> 00:11:28,854
+We'll be departing in
+sixty minutes.
+
+158
+00:11:28,854 --> 00:11:32,425
+Do I really have to pilot
+the Eva again?
+
+159
+00:11:32,425 --> 00:11:33,824
+Yes, you do.
+
+160
+00:11:34,827 --> 00:11:37,430
+I don't want to.
+
+161
+00:11:37,430 --> 00:11:38,964
+Maybe you can be so
+cool about it,
+
+162
+00:11:38,964 --> 00:11:41,762
+because you haven't had the kind
+of experiences I've had yet.
+
+163
+00:11:42,835 --> 00:11:45,738
+I don't want to go through it again.
+
+164
+00:11:45,738 --> 00:11:46,830
+Then, you can stay here in bed.
+
+165
+00:11:48,174 --> 00:11:49,368
+What do you mean by that?
+
+166
+00:11:50,543 --> 00:11:52,477
+I'll pilot Unit 01.
+
+167
+00:11:53,746 --> 00:11:58,984
+Dr. Akagi is already prepared to
+rewrite the personal data files.
+
+168
+00:11:58,984 --> 00:12:00,886
+Ritsuko is...
+
+169
+00:12:00,886 --> 00:12:04,982
+I'm leaving. Captain Katsuragi and
+Dr. Akagi are waiting for me.
+
+170
+00:12:09,795 --> 00:12:11,285
+Goodbye.
+
+171
+00:12:27,580 --> 00:12:32,284
+They're really late. We ought
+to evacuate to the shelter.
+
+172
+00:12:32,284 --> 00:12:34,920
+I hacked into my dad's data files.
+
+173
+00:12:34,920 --> 00:12:37,056
+I'm sure this is the time.
+
+174
+00:12:37,056 --> 00:12:39,183
+Why aren't they here then?
+
+175
+00:12:44,830 --> 00:12:46,665
+The mountain is moving.
+
+176
+00:12:46,665 --> 00:12:48,155
+The Evangelions!
+
+177
+00:12:58,511 --> 00:12:59,712
+Cool!
+
+178
+00:12:59,712 --> 00:13:07,278
+Go for it, Evangelions! We believe
+in you! Beat the Angel!
+
+179
+00:13:13,526 --> 00:13:16,228
+The drill has penetrated through
+the 17th layer of armor.
+
+180
+00:13:16,228 --> 00:13:18,753
+It will reach headquarters
+in 3 hours 55 minutes.
+
+181
+00:13:20,800 --> 00:13:24,136
+Power supply transfer from
+Shikoku and Kyushu is completed.
+
+182
+00:13:24,136 --> 00:13:26,696
+Beginning tests of each
+cooling system.
+
+183
+00:13:28,073 --> 00:13:30,234
+This is a very delicate piece of
+machinery! Handle it carefully.
+
+184
+00:13:32,411 --> 00:13:36,682
+This thing wasn't built for field
+operations. Will it really work?
+
+185
+00:13:36,682 --> 00:13:39,585
+There's no choice. This is the most
+expedient way of gaining our goal.
+
+186
+00:13:39,585 --> 00:13:41,086
+Are you sure it's safe to use?
+
+187
+00:13:41,086 --> 00:13:42,621
+Theoretically, yes.
+
+188
+00:13:42,621 --> 00:13:45,157
+However, we're not sure if the
+cannon barrel and accelerator
+
+189
+00:13:45,157 --> 00:13:47,426
+will be able to handle
+the stress or not.
+
+190
+00:13:47,426 --> 00:13:50,486
+This is the first time it's been fired
+with such a high power output.
+
+191
+00:13:52,231 --> 00:13:56,101
+Here are the battle plans
+for the operation.
+
+192
+00:13:56,101 --> 00:13:56,735
+Shinji...
+
+193
+00:13:56,735 --> 00:13:57,002
+Shinji...
+
+194
+00:13:57,002 --> 00:13:57,303
+Your Unit 01 will be the gunner.
+
+195
+00:13:57,303 --> 00:13:59,471
+Your Unit 01 will be the gunner.
+
+196
+00:13:59,471 --> 00:14:00,539
+Right.
+
+197
+00:14:00,539 --> 00:14:03,075
+Rei, you will cover him
+with Unit 00.
+
+198
+00:14:03,075 --> 00:14:04,076
+Right.
+
+199
+00:14:04,076 --> 00:14:08,347
+This is because Shinji has a higher
+sync ratio with Unit 01,
+
+200
+00:14:08,347 --> 00:14:12,017
+and this operation will require
+exceptional precision.
+
+201
+00:14:12,017 --> 00:14:13,853
+Since the positron beam will be
+influenced by the Earth's gravity,
+
+202
+00:14:13,853 --> 00:14:17,556
+magnetic fields and rotation, it
+will not fire in a straight line.
+
+203
+00:14:17,556 --> 00:14:20,793
+You must remember to make
+adjustments for these deviations.
+
+204
+00:14:20,793 --> 00:14:23,863
+You must penetrate the
+core precisely.
+
+205
+00:14:23,863 --> 00:14:27,867
+But I've never practiced this!
+
+206
+00:14:27,867 --> 00:14:29,268
+Don't worry.
+
+207
+00:14:29,268 --> 00:14:31,303
+Just do what the manual says.
+
+208
+00:14:31,303 --> 00:14:35,341
+When the indicators converge in
+the center, pull the trigger.
+
+209
+00:14:35,341 --> 00:14:37,843
+The computers will
+handle the rest.
+
+210
+00:14:37,843 --> 00:14:41,213
+Also, be aware that before you can
+fire the rifle a second time,
+
+211
+00:14:41,213 --> 00:14:45,050
+you'll have to wait for the unit to
+cool, replace the fuses and reload.
+
+212
+00:14:45,050 --> 00:14:48,220
+And if I miss? Or if the
+enemy shoots back?
+
+213
+00:14:48,220 --> 00:14:50,456
+Don't think like that.
+
+214
+00:14:50,456 --> 00:14:53,084
+You must destroy it with
+your first shot.
+
+215
+00:14:54,994 --> 00:14:57,796
+So I have no choice.
+
+216
+00:14:57,796 --> 00:15:00,032
+l...
+
+217
+00:15:00,032 --> 00:15:02,401
+I'm just to defend Unit 01, correct?
+
+218
+00:15:02,401 --> 00:15:03,969
+Yes.
+
+219
+00:15:03,969 --> 00:15:05,738
+Understood.
+
+220
+00:15:05,738 --> 00:15:08,841
+It's time. Get geared up.
+
+221
+00:15:08,841 --> 00:15:10,331
+Right!
+
+222
+00:15:20,286 --> 00:15:21,921
+Maybe...
+
+223
+00:15:21,921 --> 00:15:23,411
+...this is our last day alive.
+
+224
+00:15:25,024 --> 00:15:26,514
+Why do you say that?
+
+225
+00:15:30,963 --> 00:15:32,362
+You won't die.
+
+226
+00:15:34,266 --> 00:15:35,756
+I'll protect you.
+
+227
+00:16:17,176 --> 00:16:20,111
+Why do you pilot this?
+
+228
+00:16:23,882 --> 00:16:25,584
+Because I'm bonded to it.
+
+229
+00:16:25,584 --> 00:16:26,414
+Bonded?
+
+230
+00:16:27,853 --> 00:16:29,912
+Yes, it's a bond.
+
+231
+00:16:31,523 --> 00:16:33,492
+You mean to my father?
+
+232
+00:16:33,492 --> 00:16:34,652
+To all people.
+
+233
+00:16:35,828 --> 00:16:39,498
+You're very strong, Ayanami.
+
+234
+00:16:39,498 --> 00:16:43,469
+I have nothing else.
+
+235
+00:16:43,469 --> 00:16:45,334
+What do you mean, "you
+have nothing else"?
+
+236
+00:16:47,106 --> 00:16:49,700
+It's time. Let's go.
+
+237
+00:16:50,776 --> 00:16:53,108
+Goodbye.
+
+238
+00:17:05,591 --> 00:17:10,119
+The time is now 00:00.
+
+239
+00:17:14,700 --> 00:17:16,535
+Commencing operation.
+
+240
+00:17:16,535 --> 00:17:20,773
+Shinji, we're entrusting you with
+all the energy of Japan.
+
+241
+00:17:20,773 --> 00:17:21,707
+I'm counting on you.
+
+242
+00:17:21,707 --> 00:17:22,274
+I'm counting on you.
+
+243
+00:17:22,274 --> 00:17:22,808
+Understood.
+
+244
+00:17:22,808 --> 00:17:25,010
+lnitiate primary connection.
+
+245
+00:17:25,010 --> 00:17:28,309
+lnitiating powertransmission from
+Districts number 1 through 803.
+
+246
+00:17:37,322 --> 00:17:39,381
+Voltage is rising. Water exchange
+unit reaching pressure zone.
+
+247
+00:17:40,426 --> 00:17:42,951
+All cooling systems operating
+at full power!
+
+248
+00:17:46,432 --> 00:17:48,559
+Temperature stable.
+No problems detected.
+
+249
+00:17:49,701 --> 00:17:52,104
+Positron charge is nominal.
+
+250
+00:17:52,104 --> 00:17:53,628
+lnitiate second connection!
+
+251
+00:17:54,940 --> 00:17:57,009
+All accelerators engaging.
+
+252
+00:17:57,009 --> 00:17:59,445
+Activate convergence unit.
+
+253
+00:17:59,445 --> 00:18:02,247
+Transmitting all power to Mount
+Futago temporary substation.
+
+254
+00:18:02,247 --> 00:18:04,783
+No problems reported with
+third connection.
+
+255
+00:18:04,783 --> 00:18:07,152
+Release final safety systems.
+
+256
+00:18:07,152 --> 00:18:08,278
+Pull sear up!
+
+257
+00:18:10,756 --> 00:18:16,061
+Error correction for Earth rotation
+and gravity is 0.0009.
+
+258
+00:18:16,061 --> 00:18:18,996
+Voltage is 0.2 short of critical.
+
+259
+00:18:25,971 --> 00:18:27,836
+Seventh and tenth
+connections engaged!
+
+260
+00:18:28,941 --> 00:18:31,341
+Transmitting all energy
+to the positron rifle!
+
+261
+00:18:32,878 --> 00:18:33,712
+8...
+
+262
+00:18:33,712 --> 00:18:34,746
+7...
+
+263
+00:18:34,746 --> 00:18:35,747
+6...
+
+264
+00:18:35,747 --> 00:18:36,081
+5...
+
+265
+00:18:36,081 --> 00:18:36,682
+High energy output detected
+inside the target!
+
+266
+00:18:36,682 --> 00:18:37,683
+High energy output detected
+inside the target!
+
+267
+00:18:37,683 --> 00:18:37,983
+High energy output detected
+inside the target!
+
+268
+00:18:37,983 --> 00:18:38,784
+It can't be!
+
+269
+00:18:38,784 --> 00:18:39,818
+2...
+
+270
+00:18:39,818 --> 00:18:41,120
+1...
+
+271
+00:18:41,120 --> 00:18:41,848
+Fire!
+
+272
+00:19:01,673 --> 00:19:03,163
+Did we miss?
+
+273
+00:19:12,351 --> 00:19:15,220
+The enemy drill has broken
+into the GeoFront!
+
+274
+00:19:15,220 --> 00:19:16,380
+Hurry! Line up a second shot!
+
+275
+00:19:17,523 --> 00:19:20,192
+Replacing fuses!
+lnitiating recharge!
+
+276
+00:19:20,192 --> 00:19:21,819
+Barrel cooling in progress!
+
+277
+00:19:23,929 --> 00:19:25,831
+We've got another high energy
+reading building inside the target!
+
+278
+00:19:25,831 --> 00:19:26,820
+No, not now!
+
+279
+00:19:29,501 --> 00:19:30,991
+Shinji!
+
+280
+00:19:38,443 --> 00:19:39,933
+Ayanami!
+
+281
+00:19:41,513 --> 00:19:42,848
+That shield can't last long!
+
+282
+00:19:42,848 --> 00:19:43,882
+Are we ready yet? !
+
+283
+00:19:43,882 --> 00:19:44,678
+Ten more seconds.
+
+284
+00:19:46,185 --> 00:19:47,675
+Hurry up!
+
+285
+00:19:50,489 --> 00:19:51,979
+Hurry up!
+
+286
+00:19:58,063 --> 00:19:59,553
+We got it!
+
+287
+00:20:05,070 --> 00:20:06,560
+Ayanami!
+
+288
+00:20:37,135 --> 00:20:38,437
+Ayanami!
+
+289
+00:20:38,437 --> 00:20:40,105
+Are you all right? !
+
+290
+00:20:40,105 --> 00:20:41,595
+Ayanami!
+
+291
+00:20:52,651 --> 00:20:57,953
+Don't say... Don't say that
+you have nothing else.
+
+292
+00:21:00,759 --> 00:21:04,456
+Don't say goodbye when you leave
+on a mission. It's too sad.
+
+293
+00:21:21,647 --> 00:21:23,046
+Why are you crying?
+
+294
+00:21:27,219 --> 00:21:31,952
+I'm sorry. I don't know what to do
+or feel at a time like this.
+
+295
+00:21:34,126 --> 00:21:35,991
+Why don't you try smiling?
+
+296
+00:23:06,084 --> 00:23:11,056
+NERV isn't the only agency
+trying to combat the Angels.
+
+297
+00:23:11,056 --> 00:23:14,593
+When the giant humanoid robot
+created by a civilian corporation
+
+298
+00:23:14,593 --> 00:23:17,462
+goes out of control during
+its official trial run,
+
+299
+00:23:17,462 --> 00:23:21,099
+it's up to Eva Unit 01 to
+catch the rampaging Jet alone.
+
+300
+00:23:21,099 --> 00:23:24,503
+Can Misato stop its nuclear
+reactor from melting down?
+
+301
+00:23:24,503 --> 00:23:27,272
+It's the next episode:
+"The Human Creation".
+
+302
+00:23:27,272 --> 00:23:30,332
+And of course, I'll give you
+lots of fan service too!
+

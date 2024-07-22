@@ -1,0 +1,6419 @@
+﻿1
+00:00:57,933 --> 00:01:02,933
+<font color="#ffff00">Provided by explosiveskull</font>
+https://twitter.com/kaboomskull
+
+2
+00:01:23,733 --> 00:01:26,769
+[man] Punching in
+two grades right.
+
+3
+00:01:26,835 --> 00:01:28,236
+Two grades right.
+
+4
+00:01:28,302 --> 00:01:32,040
+Letting go in 10, 9, 8...
+
+5
+00:01:33,375 --> 00:01:34,977
+Ready to make
+history, gentlemen.
+
+6
+00:01:35,811 --> 00:01:38,081
+[robot clanking, whirring]
+
+7
+00:01:41,716 --> 00:01:43,885
+NFX is in position.
+
+8
+00:01:45,120 --> 00:01:48,157
+<i>Affirmative.
+NFX is in position.</i>
+
+9
+00:01:48,224 --> 00:01:50,927
+<i>Initiate excavation.</i>
+
+10
+00:01:50,992 --> 00:01:52,861
+Initiating excavation.
+
+11
+00:01:57,299 --> 00:01:58,934
+How we doing, Wilson?
+
+12
+00:01:59,001 --> 00:02:00,903
+Never better.
+Thanks for asking.
+
+13
+00:02:02,103 --> 00:02:05,073
+<i>Careful.
+Careful, Dr. Marietta.</i>
+
+14
+00:02:05,140 --> 00:02:08,144
+Tenth time's
+the charm, Dr. Lopez.
+
+15
+00:02:08,209 --> 00:02:13,382
+The MEDUSA AI is not
+fully uploaded to the NFX.
+
+16
+00:02:13,449 --> 00:02:16,552
+Still programming
+field commands manually.
+
+17
+00:02:16,617 --> 00:02:17,954
+It takes time, gentlemen.
+
+18
+00:02:21,189 --> 00:02:22,490
+[alarm blares]
+
+19
+00:02:22,557 --> 00:02:24,192
+Really? Guys?
+
+20
+00:02:24,259 --> 00:02:26,394
+Guys, what's going on?
+
+21
+00:02:26,461 --> 00:02:28,096
+[loud whine]
+
+22
+00:02:28,163 --> 00:02:31,067
+[rapid beeping]
+
+23
+00:02:32,000 --> 00:02:33,002
+Dr. Lopez?
+
+24
+00:02:34,502 --> 00:02:35,670
+Wilson?
+
+25
+00:02:36,771 --> 00:02:38,840
+Damn it, guys.
+What happened this time?
+
+26
+00:02:47,817 --> 00:02:48,584
+Wilson!
+
+27
+00:02:48,651 --> 00:02:50,886
+Can you hear me?
+
+28
+00:02:50,953 --> 00:02:53,354
+<i>Loud and clear.
+I had a total shutdown inside.</i>
+
+29
+00:02:53,421 --> 00:02:56,091
+<i>I believe the shutdown was
+triggered by Dr. Lopez,</i>
+
+30
+00:02:56,157 --> 00:02:58,426
+<i>but I can't reach him
+to confirm.</i>
+
+31
+00:02:58,493 --> 00:02:59,961
+Well, I'm not gonna
+stay in here!
+
+32
+00:03:00,027 --> 00:03:01,429
+<i>Just hang tight.</i>
+
+33
+00:03:01,497 --> 00:03:02,932
+<i>Let me get over
+to the mainframe.</i>
+
+34
+00:03:06,435 --> 00:03:08,402
+<i>Is MEDUSA acting up again or...</i>
+
+35
+00:03:08,469 --> 00:03:10,840
+Dr. Marietta?
+Dr. Marietta?
+
+36
+00:03:10,907 --> 00:03:11,874
+[feedback whine]
+
+37
+00:03:13,442 --> 00:03:14,644
+Great.
+
+38
+00:03:23,318 --> 00:03:24,752
+[beeping]
+
+39
+00:03:24,819 --> 00:03:26,055
+Agh!
+
+40
+00:03:28,689 --> 00:03:30,692
+Abel, what happened?
+
+41
+00:03:30,759 --> 00:03:33,094
+I don't know.
+
+42
+00:03:33,161 --> 00:03:34,864
+One minute, I'm initiating
+the platform response.
+
+43
+00:03:34,930 --> 00:03:37,467
+And the next, MEDUSA
+starts seizing my computer
+
+44
+00:03:37,532 --> 00:03:39,234
+and creating
+a directive profile separate
+
+45
+00:03:39,300 --> 00:03:41,002
+from operating the robot.
+
+46
+00:03:41,068 --> 00:03:44,072
+MEDUSA should be following me,
+but instead... it's driving.
+
+47
+00:03:44,139 --> 00:03:47,308
+<i>System update received.
+NFX is rebooting.</i>
+
+48
+00:03:47,376 --> 00:03:48,843
+Guys, what's going on?
+
+49
+00:03:48,909 --> 00:03:50,913
+All right. Did you take
+the NFX robot offline
+
+50
+00:03:50,979 --> 00:03:52,881
+to make sure it
+doesn't malfunction?
+
+51
+00:03:52,948 --> 00:03:55,818
+I just did, but MEDUSA seems
+to be one step ahead of me.
+
+52
+00:03:55,883 --> 00:03:58,619
+- Are you reading this?<i>
+- Copy Wilson, we read you.</i>
+
+53
+00:03:58,687 --> 00:04:00,223
+Let's look at the code.
+
+54
+00:04:05,228 --> 00:04:07,028
+<i>Switching to automatic systems.</i>
+
+55
+00:04:07,096 --> 00:04:08,664
+I'm losing some
+serious control here!
+
+56
+00:04:08,729 --> 00:04:10,066
+<i>Wilson, are you doing that?</i>
+
+57
+00:04:10,132 --> 00:04:12,367
+Wait... That's...
+That's new code.
+
+58
+00:04:12,435 --> 00:04:13,935
+I see that.
+
+59
+00:04:14,002 --> 00:04:16,439
+<i>You need to implement
+a stop-gap firewall now!</i>
+
+60
+00:04:16,504 --> 00:04:17,772
+Yes! Implementing now!
+
+61
+00:04:18,841 --> 00:04:20,408
+Well, somebody
+hacked our system.
+
+62
+00:04:20,475 --> 00:04:22,511
+No. I checked.
+Firewalls are tight.
+
+63
+00:04:22,577 --> 00:04:24,645
+She's coming up
+with her own code.
+
+64
+00:04:24,713 --> 00:04:26,582
+That's impossible!
+
+65
+00:04:26,649 --> 00:04:27,850
+This looks like a data dump.
+
+66
+00:04:27,915 --> 00:04:29,317
+<i>No, that's not possible either.</i>
+
+67
+00:04:29,384 --> 00:04:31,887
+No, we can't
+be reading this correctly.
+
+68
+00:04:31,954 --> 00:04:33,822
+Guys, there are a thousand
+ways this could go sideways.
+
+69
+00:04:33,889 --> 00:04:35,591
+<i>The variables are immense.</i>
+
+70
+00:04:35,656 --> 00:04:38,859
+But when it's too complicated,
+the best answer is the simplest.
+
+71
+00:04:38,927 --> 00:04:40,996
+It's not writing its own code.
+
+72
+00:04:41,062 --> 00:04:44,500
+It can't, at least
+not at this level.
+
+73
+00:04:44,565 --> 00:04:46,400
+The AI doesn't have the...
+
+74
+00:04:46,468 --> 00:04:49,705
+[loud noises]
+
+75
+00:04:49,771 --> 00:04:52,873
+We need to shut MEDUSA down now.
+
+76
+00:04:52,940 --> 00:04:54,876
+It's already ahead of me.
+
+77
+00:04:54,944 --> 00:04:57,313
+I've calculated that
+it's writing three million lines
+
+78
+00:04:57,379 --> 00:04:58,947
+of code every eight seconds.
+
+79
+00:04:59,014 --> 00:05:02,451
+That is exponentially increasing
+by 42% every five minutes.
+
+80
+00:05:02,516 --> 00:05:04,452
+At that rate...
+
+81
+00:05:04,519 --> 00:05:06,254
+It's already run
+the calculations
+
+82
+00:05:06,321 --> 00:05:08,424
+you referenced into.
+
+83
+00:05:08,490 --> 00:05:10,091
+Doctors, I can see it from here.
+
+84
+00:05:10,158 --> 00:05:11,826
+It's counting down
+from three hours.
+
+85
+00:05:11,892 --> 00:05:13,728
+It's setting its own
+benchmark for firewalls!
+
+86
+00:05:13,795 --> 00:05:15,865
+Those are all
+smart-system firewalls.
+
+87
+00:05:18,166 --> 00:05:21,235
+Now it's working on
+the military drone system.
+
+88
+00:05:21,302 --> 00:05:24,572
+Look. Its next
+benchmark are the ARES robots
+
+89
+00:05:24,639 --> 00:05:26,074
+they just launched.
+
+90
+00:05:29,845 --> 00:05:31,814
+ARES robots
+were never a good idea.
+
+91
+00:05:31,879 --> 00:05:34,483
+And all smart missiles,
+global military networks!
+
+92
+00:05:34,548 --> 00:05:37,351
+It's outlining a strategy to
+take control of them one by one!
+
+93
+00:05:37,418 --> 00:05:40,421
+It's not programmed to take
+over the world's military.
+
+94
+00:05:40,488 --> 00:05:41,656
+Now it can!
+
+95
+00:05:41,723 --> 00:05:43,358
+If MEDUSA updated
+its programming
+
+96
+00:05:43,425 --> 00:05:45,961
+to take over global militaries
+without human programming,
+
+97
+00:05:46,028 --> 00:05:50,099
+without our programming,
+that means...
+
+98
+00:05:50,165 --> 00:05:53,468
+It's become sentient, hmm?
+
+99
+00:05:53,535 --> 00:05:55,237
+That is impossible!
+
+100
+00:05:55,303 --> 00:05:58,372
+If it was, it would
+carry out its own directive
+
+101
+00:05:58,439 --> 00:06:00,475
+to its logical conclusion.
+
+102
+00:06:00,543 --> 00:06:02,745
+It would use
+the military to...
+
+103
+00:06:02,812 --> 00:06:04,213
+It would wipe out
+all life on earth!
+
+104
+00:06:05,348 --> 00:06:07,182
+Everything goes offline now!
+
+105
+00:06:09,752 --> 00:06:11,153
+Ow! Damn it!
+
+106
+00:06:11,220 --> 00:06:12,989
+- You okay?
+- I'm fine, fine.
+
+107
+00:06:14,622 --> 00:06:15,790
+Guys?
+
+108
+00:06:16,658 --> 00:06:18,527
+Dr. Lopez?
+
+109
+00:06:18,593 --> 00:06:20,396
+Marietta?
+
+110
+00:06:20,463 --> 00:06:22,164
+Marietta!
+
+111
+00:06:22,230 --> 00:06:24,432
+It's got the local network!
+We don't have much time!
+
+112
+00:06:24,500 --> 00:06:26,235
+Look... Look!
+
+113
+00:06:30,305 --> 00:06:32,074
+MEDUSA has identified
+us as a target.
+
+114
+00:06:32,141 --> 00:06:33,776
+- Why?
+- We gotta go.
+
+115
+00:06:33,841 --> 00:06:35,343
+It's already breached
+the military drones!
+
+116
+00:06:36,944 --> 00:06:38,947
+Get outta here! Go!
+
+117
+00:06:40,649 --> 00:06:41,783
+- Guys?
+- <i>Update complete.</i>
+
+118
+00:06:41,850 --> 00:06:44,286
+Guys, go for Wilson!
+Guys?
+
+119
+00:06:44,353 --> 00:06:47,223
+<i>Returning to Spaceport
+in T-minus five minutes.</i>
+
+120
+00:06:47,288 --> 00:06:49,625
+<i>All personnel must
+vacate the premises.</i>
+
+121
+00:06:49,692 --> 00:06:50,793
+<i>Lose all tech!</i>
+
+122
+00:06:50,860 --> 00:06:52,494
+<i>Anything it can use to ping us!</i>
+
+123
+00:06:52,560 --> 00:06:55,430
+<i>Phones, tablets, ear pods,
+anything with a chip!</i>
+
+124
+00:06:59,401 --> 00:07:01,903
+Dr. Lopez!
+Marietta!
+
+125
+00:07:04,072 --> 00:07:06,373
+Okay, I'm abandoning Zone 39.
+
+126
+00:07:06,440 --> 00:07:07,442
+I'm heading back to camp!
+
+127
+00:07:11,079 --> 00:07:12,014
+[grunts]
+
+128
+00:07:18,254 --> 00:07:19,254
+Okay, I'm out.
+
+129
+00:07:19,321 --> 00:07:21,857
+Doctors, can you hear me?
+
+130
+00:07:21,923 --> 00:07:23,892
+Guys? Damn it!
+
+131
+00:07:27,629 --> 00:07:29,764
+Years ago I created a device
+that could override
+
+132
+00:07:29,831 --> 00:07:31,132
+the bunker's mag-locks.
+
+133
+00:07:31,199 --> 00:07:33,735
+Hopefully, it's still
+hidden here.
+
+134
+00:07:33,802 --> 00:07:35,069
+Found it!
+
+135
+00:07:35,137 --> 00:07:36,805
+I just need to enter
+the right code.
+
+136
+00:07:38,540 --> 00:07:39,508
+It's not shutting it down.
+
+137
+00:07:39,574 --> 00:07:41,242
+Let me try.
+
+138
+00:07:41,310 --> 00:07:43,978
+Once we get inside, we need to
+contact NSA, DoD, all of them!
+
+139
+00:07:44,045 --> 00:07:46,882
+Abel, I'm trying to focus!
+
+140
+00:07:46,947 --> 00:07:49,483
+Wait. Let me try this.
+
+141
+00:07:49,550 --> 00:07:50,851
+All right, listen.
+
+142
+00:07:50,918 --> 00:07:52,253
+Once we get inside,
+maybe we can use
+
+143
+00:07:52,319 --> 00:07:53,387
+the bunker's computers
+to hack in...
+
+144
+00:07:53,454 --> 00:07:54,423
+[door opens]
+
+145
+00:07:55,858 --> 00:07:57,026
+I got it!
+
+146
+00:07:57,091 --> 00:07:58,894
+- <i>Drones are inbound!</i>
+- Crap!
+
+147
+00:07:58,961 --> 00:08:00,362
+I'm on my way.
+
+148
+00:08:00,428 --> 00:08:01,996
+Wait!
+
+149
+00:08:07,336 --> 00:08:09,069
+Abel!
+
+150
+00:08:09,137 --> 00:08:10,506
+No!
+
+151
+00:08:39,368 --> 00:08:41,003
+One...
+
+152
+00:08:51,779 --> 00:08:53,149
+Agh!
+
+153
+00:08:55,216 --> 00:08:57,785
+You okay?
+I got the signal.
+
+154
+00:08:57,852 --> 00:09:00,221
+I told you to stay underground.
+
+155
+00:09:00,288 --> 00:09:01,856
+Let's go.
+
+156
+00:09:02,890 --> 00:09:04,360
+You're shaking.
+
+157
+00:09:08,697 --> 00:09:11,332
+Did they malfunction
+
+158
+00:09:11,399 --> 00:09:13,668
+and MEDUSA targeted
+Lopez and Marietta?
+
+159
+00:09:13,735 --> 00:09:16,504
+A robot that holds a grudge?
+
+160
+00:09:16,572 --> 00:09:17,940
+What did they do to it?
+
+161
+00:09:20,042 --> 00:09:23,412
+I don't know.
+I'm probably a target.
+
+162
+00:09:23,479 --> 00:09:26,348
+You're not a target
+
+163
+00:09:26,414 --> 00:09:30,351
+unless someone
+programmed you as a target.
+
+164
+00:09:30,418 --> 00:09:33,254
+Maybe it thinks I know
+how to work the NFX robot.
+
+165
+00:09:33,321 --> 00:09:35,191
+- But you don't know.
+- I know I don't know!
+
+166
+00:09:36,725 --> 00:09:38,293
+You know who does?
+
+167
+00:09:42,364 --> 00:09:45,500
+You broke up over a year ago.
+
+168
+00:09:45,567 --> 00:09:47,001
+She can't still be upset.
+
+169
+00:09:47,969 --> 00:09:49,471
+Her dad just died...
+I...
+
+170
+00:09:52,440 --> 00:09:55,076
+It's better if it comes
+from someone she knows.
+
+171
+00:09:57,446 --> 00:09:58,514
+Yeah.
+
+172
+00:09:58,581 --> 00:10:01,216
+She's a bad-ass.
+She can handle this.
+
+173
+00:10:02,015 --> 00:10:05,086
+[banging sound]
+
+174
+00:10:32,580 --> 00:10:36,884
+Okay, you are in invisible mode
+and inside the firewall.
+
+175
+00:10:36,951 --> 00:10:40,187
+[man] <i>Got eyes on the package
+heading south on 53rd.</i>
+
+176
+00:10:40,254 --> 00:10:42,290
+<i>Sending coordinates.</i>
+
+177
+00:10:45,826 --> 00:10:47,361
+Got it!
+Rerouting now.
+
+178
+00:10:47,428 --> 00:10:50,197
+<i>Got it, sending a ping
+to the intersection.</i>
+
+179
+00:10:50,264 --> 00:10:51,499
+<i>Threading the needle.</i>
+
+180
+00:10:51,566 --> 00:10:54,302
+Landing in five, four...
+
+181
+00:10:54,369 --> 00:10:57,505
+Three, two, one.
+Punch the feed.
+
+182
+00:11:07,948 --> 00:11:09,918
+All yours.
+
+183
+00:11:09,985 --> 00:11:11,552
+Hello, everyone.
+
+184
+00:11:11,619 --> 00:11:15,157
+Free food delivery
+courtesy of Silicorp.
+
+185
+00:11:15,222 --> 00:11:16,823
+Yes, that's right.
+
+186
+00:11:16,890 --> 00:11:19,727
+<i>We were gonna serve
+this high-end surf and turf</i>
+
+187
+00:11:19,794 --> 00:11:22,096
+<i>food truck to our
+executive staff today.</i>
+
+188
+00:11:22,163 --> 00:11:24,098
+But in the spirit of giving,
+
+189
+00:11:24,166 --> 00:11:26,267
+we thought you
+all should enjoy
+
+190
+00:11:26,333 --> 00:11:29,737
+a wonderful holiday
+meal instead.
+
+191
+00:11:29,804 --> 00:11:31,372
+And remember, "At Silicorp,
+
+192
+00:11:31,440 --> 00:11:34,677
+you're not just a
+binary number, you're family."
+
+193
+00:11:36,043 --> 00:11:38,112
+Wow, that was touching,
+Gray Scout.
+
+194
+00:11:55,663 --> 00:11:58,567
+<i>Okay, everyone log out of
+there, and cover your IP trail</i>
+
+195
+00:11:58,634 --> 00:12:01,169
+<i>before Silicorp realizes
+that it's been hacked.</i>
+
+196
+00:12:10,111 --> 00:12:12,246
+That must be
+a new record, Tara.
+
+197
+00:12:12,312 --> 00:12:14,949
+<i>Whatever.
+She had a head start.</i>
+
+198
+00:12:15,015 --> 00:12:16,317
+<i>I got stuff to do.</i>
+
+199
+00:12:17,485 --> 00:12:19,520
+Wow.
+
+200
+00:12:19,586 --> 00:12:24,058
+Still a sore loser just
+like he was in high school.
+
+201
+00:12:24,125 --> 00:12:26,193
+You want me to send him
+some malware?
+
+202
+00:12:26,259 --> 00:12:28,663
+Malware?
+Jorge, no.
+
+203
+00:12:31,866 --> 00:12:33,735
+Come on, no!
+
+204
+00:12:33,802 --> 00:12:35,870
+Hey, remember what I told you.
+
+205
+00:12:35,937 --> 00:12:39,073
+A good hacker doesn't go after
+every dog that barks, okay?
+
+206
+00:12:41,043 --> 00:12:43,010
+As much as I like
+to see him squirm,
+
+207
+00:12:43,077 --> 00:12:44,379
+he'll be back again tomorrow.
+
+208
+00:12:44,446 --> 00:12:46,382
+He can't resist us.
+
+209
+00:12:47,514 --> 00:12:48,850
+You.
+
+210
+00:12:48,917 --> 00:12:55,357
+He can't resist you, you mean.
+
+211
+00:12:55,423 --> 00:12:57,326
+[beeping]
+
+212
+00:12:58,860 --> 00:13:01,129
+Couldn't keep off the board,
+could you, Cube?
+
+213
+00:13:01,196 --> 00:13:03,731
+Tara? You there?
+Tara?
+
+214
+00:13:03,798 --> 00:13:05,134
+<i>Is that Wilson?</i>
+
+215
+00:13:05,200 --> 00:13:06,501
+<i>He knows he should
+be calling you by</i>
+
+216
+00:13:06,567 --> 00:13:08,302
+<i>your hacker name,
+Gray Scout.</i>
+
+217
+00:13:08,369 --> 00:13:10,971
+Do you have a private line
+where I could talk to you?
+
+218
+00:13:11,038 --> 00:13:12,408
+It's about your father.
+
+219
+00:13:15,576 --> 00:13:16,778
+My dad?
+
+220
+00:13:16,845 --> 00:13:18,546
+<i>Why don't you just call
+me on the...</i>
+
+221
+00:13:18,613 --> 00:13:21,149
+We were testing our
+NFX rescue robotic unit today
+
+222
+00:13:21,216 --> 00:13:24,919
+and, uh...
+there was an accident.
+
+223
+00:13:24,985 --> 00:13:27,054
+<i>He...</i>
+
+224
+00:13:27,121 --> 00:13:31,492
+He... there was a drone.
+
+225
+00:13:31,559 --> 00:13:33,460
+<i>A drone?</i>
+
+226
+00:13:33,528 --> 00:13:36,798
+<i>It came from nowhere,
+a military drone.</i>
+
+227
+00:13:36,864 --> 00:13:41,903
+Dr. Marietta got into
+the bunker, but your father...
+
+228
+00:13:41,969 --> 00:13:43,338
+he didn't make it.
+
+229
+00:13:46,207 --> 00:13:47,775
+<i>I don't understand.</i>
+
+230
+00:13:47,842 --> 00:13:50,110
+<i>Wh... why would a drone...</i>
+
+231
+00:13:50,177 --> 00:13:51,712
+I don't know.
+
+232
+00:13:51,779 --> 00:13:53,514
+I don't know if
+this was sabotage.
+
+233
+00:13:53,581 --> 00:13:55,450
+I don't know if somebody
+hacked into the mainframe,
+
+234
+00:13:55,517 --> 00:13:58,820
+but he was definitely targeted.
+
+235
+00:13:58,886 --> 00:14:02,323
+Probably Marietta as well,
+probably me.
+
+236
+00:14:02,389 --> 00:14:04,259
+<i>Wilson, I...</i>
+
+237
+00:14:06,193 --> 00:14:07,895
+Tara? Tara!
+
+238
+00:14:07,962 --> 00:14:10,399
+Hey, come in!
+
+239
+00:14:10,466 --> 00:14:11,533
+Tara?
+
+240
+00:14:20,107 --> 00:14:21,442
+Tara?
+
+241
+00:14:30,118 --> 00:14:32,421
+Tara?
+
+242
+00:14:32,486 --> 00:14:33,788
+Tara, what are you doing?
+
+243
+00:14:36,090 --> 00:14:37,191
+You can't do that!
+
+244
+00:14:37,258 --> 00:14:38,460
+Don't touch me!
+
+245
+00:14:41,363 --> 00:14:43,432
+What even is this?
+
+246
+00:14:48,568 --> 00:14:50,337
+I've never seen this before.
+
+247
+00:14:50,404 --> 00:14:52,038
+Is that a CryptoMix?
+
+248
+00:14:52,105 --> 00:14:53,509
+No.
+
+249
+00:14:53,575 --> 00:14:56,411
+It's a Qbit language
+my dad taught me.
+
+250
+00:14:56,476 --> 00:14:58,078
+He said if anything
+suspicious ever happens,
+
+251
+00:14:58,145 --> 00:15:01,482
+enter that language here on
+this computer to protect myself.
+
+252
+00:15:01,548 --> 00:15:04,584
+You think you're in trouble?
+
+253
+00:15:04,652 --> 00:15:07,322
+Not as in trouble as the
+assholes who killed my father.
+
+254
+00:15:08,756 --> 00:15:10,524
+What are you doing?
+
+255
+00:15:10,591 --> 00:15:12,494
+I just sent a bullet
+to take out 3.6%
+
+256
+00:15:12,561 --> 00:15:14,729
+of the nation's drone
+coding program.
+
+257
+00:15:14,796 --> 00:15:15,997
+What?
+
+258
+00:15:16,063 --> 00:15:17,932
+At least they can't
+keep killing people.
+
+259
+00:15:17,999 --> 00:15:19,534
+Tara, don't!
+
+260
+00:15:23,871 --> 00:15:25,240
+You happy now?
+
+261
+00:15:25,307 --> 00:15:27,875
+You think that's gonna
+solve everything?
+
+262
+00:15:27,942 --> 00:15:29,543
+Get out!
+
+263
+00:15:29,610 --> 00:15:32,713
+You probably just signaled
+4,000 NSA mainframe computers
+
+264
+00:15:32,780 --> 00:15:34,481
+to this location!
+
+265
+00:15:34,548 --> 00:15:37,384
+So maybe you shouldn't be
+here when the FBI arrives!
+
+266
+00:15:37,451 --> 00:15:40,621
+My DNA is all over this shit!
+
+267
+00:15:40,688 --> 00:15:42,557
+This is what they live for!
+
+268
+00:15:42,624 --> 00:15:46,195
+There's probably some jacked up
+computer targeting us right now!
+
+269
+00:15:59,841 --> 00:16:02,778
+Oh, no, no, no!
+Tara, what did you do?
+
+270
+00:16:03,912 --> 00:16:06,514
+Wilson, she hacked
+the Pentagon.
+
+271
+00:16:08,082 --> 00:16:09,317
+She's screwed.
+
+272
+00:16:10,317 --> 00:16:11,752
+I think we're all screwed.
+
+273
+00:16:13,922 --> 00:16:14,923
+What's happening?
+
+274
+00:16:14,990 --> 00:16:16,490
+Bastards.
+
+275
+00:16:16,557 --> 00:16:20,561
+I used Qbit code and they
+echoed it right back at me.
+
+276
+00:16:20,628 --> 00:16:22,497
+Great.
+So what do you think?
+
+277
+00:16:22,563 --> 00:16:23,932
+50 years in prison
+for shutting down
+
+278
+00:16:23,999 --> 00:16:25,933
+our nation's
+military drone program?
+
+279
+00:16:26,000 --> 00:16:28,803
+100 years?
+200?
+
+280
+00:16:31,706 --> 00:16:34,342
+They just killed
+half our system!
+
+281
+00:16:36,344 --> 00:16:37,679
+What is this?
+
+282
+00:16:37,745 --> 00:16:41,883
+Oh, my God,
+photos from my smart phones.
+
+283
+00:16:45,320 --> 00:16:46,455
+Why?
+
+284
+00:16:48,056 --> 00:16:49,725
+I'm gonna try
+to reverse the ping.
+
+285
+00:16:50,926 --> 00:16:52,259
+Get an IP on it!
+
+286
+00:16:52,326 --> 00:16:54,095
+Sending over to you now.
+
+287
+00:16:54,162 --> 00:16:55,430
+Check it out.
+
+288
+00:16:57,633 --> 00:16:58,767
+Oh, shit.
+
+289
+00:16:58,833 --> 00:16:59,900
+What?
+
+290
+00:16:59,967 --> 00:17:01,101
+You're not gonna like it.
+
+291
+00:17:01,168 --> 00:17:02,403
+What?
+
+292
+00:17:02,470 --> 00:17:05,940
+Spaceport, where your dad
+works... worked.
+
+293
+00:17:06,007 --> 00:17:07,942
+I'm sorry.
+
+294
+00:17:08,009 --> 00:17:10,578
+That's where MEDUSA is?
+
+295
+00:17:10,645 --> 00:17:12,445
+Damn!
+
+296
+00:17:12,512 --> 00:17:14,281
+What's MEDUSA?
+
+297
+00:17:14,348 --> 00:17:18,919
+Jorge, we have a lot bigger
+problems than going to prison.
+
+298
+00:17:18,986 --> 00:17:20,988
+It's the quantum AI
+my dad was working on.
+
+299
+00:17:21,055 --> 00:17:23,625
+It can find anyone.
+
+300
+00:17:23,692 --> 00:17:25,926
+We need to hit
+the kill switches now!
+
+301
+00:17:25,992 --> 00:17:27,561
+And grab our go bags!
+
+302
+00:17:30,198 --> 00:17:31,132
+What?
+
+303
+00:17:31,199 --> 00:17:32,834
+The drones.
+
+304
+00:17:32,901 --> 00:17:33,969
+- Here?
+- No.
+
+305
+00:17:36,104 --> 00:17:37,838
+Gray Scout.
+
+306
+00:17:37,905 --> 00:17:39,840
+Tara!
+
+307
+00:17:39,907 --> 00:17:41,442
+Gray Scout, come in!
+
+308
+00:17:41,509 --> 00:17:43,510
+<i>We're a little busy right now.</i>
+
+309
+00:17:43,577 --> 00:17:45,779
+There's no time!
+You have to get outta there now!
+
+310
+00:17:45,846 --> 00:17:47,448
+<i>What? Why?</i>
+
+311
+00:17:47,515 --> 00:17:49,217
+We tracked three
+tier three military drones
+
+312
+00:17:49,284 --> 00:17:50,552
+- to your location!
+- <i>What? How?</i>
+
+313
+00:17:50,617 --> 00:17:51,885
+<i>How, what do we...</i>
+
+314
+00:17:51,952 --> 00:17:53,254
+I don't know!
+I don't know!
+
+315
+00:17:53,320 --> 00:17:54,722
+It senses heat!
+
+316
+00:17:54,789 --> 00:17:57,224
+Are you near a power plant?
+Go hide in there!
+
+317
+00:17:57,291 --> 00:17:58,925
+Destroy everything.
+
+318
+00:17:58,992 --> 00:18:00,628
+Hibachi style!
+
+319
+00:18:00,695 --> 00:18:02,929
+Tara, Jorge, can you hear me?
+You need to get outta there now!
+
+320
+00:18:02,997 --> 00:18:04,199
+What about us?
+
+321
+00:18:04,265 --> 00:18:05,734
+Get everything ready.
+
+322
+00:18:05,799 --> 00:18:07,536
+If we have to leave,
+we'll do it quickly.
+
+323
+00:18:09,269 --> 00:18:10,439
+Run!
+
+324
+00:18:13,641 --> 00:18:15,344
+[alarm blaring]
+
+325
+00:19:28,682 --> 00:19:30,852
+Drones!
+Help us!
+
+326
+00:19:30,919 --> 00:19:31,986
+Robot apocalypse!
+
+327
+00:19:32,053 --> 00:19:34,756
+Active shooter!
+Everybody out back!
+
+328
+00:19:36,089 --> 00:19:37,891
+Jorge!
+Listen, it's dangerous!
+
+329
+00:19:37,959 --> 00:19:39,360
+You don't have to do this!
+
+330
+00:19:39,426 --> 00:19:40,528
+If you want, you can
+just go out!
+
+331
+00:19:40,595 --> 00:19:41,997
+Tara, we're in this together.
+
+332
+00:19:45,333 --> 00:19:46,535
+Fine.
+
+333
+00:19:50,771 --> 00:19:52,173
+We're trapped.
+
+334
+00:19:55,442 --> 00:19:57,112
+I have an idea.
+
+335
+00:19:58,746 --> 00:20:00,715
+- Hibachi.
+- Hibachi.
+
+336
+00:20:03,151 --> 00:20:06,788
+Hey!
+You gonna pay for all that?
+
+337
+00:20:21,502 --> 00:20:23,672
+Hurry up, Tara!
+Light the fuse!
+
+338
+00:20:33,615 --> 00:20:35,483
+[explosions]
+
+339
+00:20:49,463 --> 00:20:50,598
+Whoa.
+
+340
+00:20:52,098 --> 00:20:54,535
+You ever seen one
+of these before?
+
+341
+00:20:54,603 --> 00:20:56,738
+Never been this close
+to one before.
+
+342
+00:20:56,804 --> 00:21:00,675
+It's an entire drone brain.
+It's got a whole control panel.
+
+343
+00:21:03,211 --> 00:21:05,947
+Hey, that thing
+just tried to kill us.
+
+344
+00:21:06,013 --> 00:21:07,781
+But I think it's dead.
+
+345
+00:21:09,550 --> 00:21:10,985
+We should take it.
+
+346
+00:21:12,420 --> 00:21:13,755
+Come on.
+
+347
+00:21:18,692 --> 00:21:20,060
+It's okay.
+
+348
+00:21:21,962 --> 00:21:23,632
+Oh...
+
+349
+00:21:25,733 --> 00:21:26,967
+You know what to do with it?
+
+350
+00:21:32,273 --> 00:21:33,307
+Yeah.
+
+351
+00:21:35,609 --> 00:21:36,744
+Yeah, I do.
+
+352
+00:21:39,212 --> 00:21:40,615
+Let's go.
+
+353
+00:21:40,681 --> 00:21:42,851
+Hurry!
+I can hear more drones!
+
+354
+00:21:49,323 --> 00:21:51,259
+[rapid beeping]
+
+355
+00:22:09,443 --> 00:22:11,579
+Wait.
+They turned around?
+
+356
+00:22:20,221 --> 00:22:21,955
+Wilson...
+
+357
+00:22:22,022 --> 00:22:23,625
+<i>We didn't make it to
+the power plant.</i>
+
+358
+00:22:23,691 --> 00:22:25,460
+<i>The drones immediately
+found us.</i>
+
+359
+00:22:25,527 --> 00:22:27,126
+Are the drones
+still chasing you?
+
+360
+00:22:27,193 --> 00:22:29,663
+<i>No, their targeting systems
+must be overwhelmed.</i>
+
+361
+00:22:29,730 --> 00:22:31,098
+<i>I think we lost them.</i>
+
+362
+00:22:31,164 --> 00:22:33,166
+Good. The grid is freaking
+out over here.
+
+363
+00:22:33,233 --> 00:22:34,968
+<i>Plus, I don't know
+if you've seen the news.</i>
+
+364
+00:22:35,035 --> 00:22:36,670
+<i>But there are rolling
+blackouts in New York,</i>
+
+365
+00:22:36,737 --> 00:22:39,541
+Chicago, San Francisco
+and Alabama.
+
+366
+00:22:39,606 --> 00:22:42,143
+They just had a blackout
+in London.
+
+367
+00:22:42,209 --> 00:22:44,512
+<i>Wilson, listen.</i>
+
+368
+00:22:44,578 --> 00:22:47,080
+Just before Jorge and
+I escaped from the drones,
+
+369
+00:22:47,147 --> 00:22:49,416
+we received a D.M. from
+the NSA server
+
+370
+00:22:49,483 --> 00:22:51,284
+directed to me by name,
+
+371
+00:22:51,352 --> 00:22:53,988
+putting me at the top
+of the terror watch list.
+
+372
+00:22:54,055 --> 00:22:56,324
+<i>It seized my computer,</i>
+
+373
+00:22:56,391 --> 00:22:59,026
+then put out a pin for
+the entire DoD to track.
+
+374
+00:22:59,093 --> 00:23:02,129
+Yeah. I saw that when I was
+controlling the NFX robot.
+
+375
+00:23:02,195 --> 00:23:03,964
+Look, virgin code
+was being written
+
+376
+00:23:04,030 --> 00:23:06,800
+at an astronomical speed.
+
+377
+00:23:06,866 --> 00:23:07,934
+We figured it was MEDUSA.
+
+378
+00:23:08,001 --> 00:23:09,604
+<i>I was afraid of that.</i>
+
+379
+00:23:09,670 --> 00:23:12,105
+<i>The IP was scattered but
+I tracked it back to Spaceport.</i>
+
+380
+00:23:12,173 --> 00:23:15,309
+<i>But how could MEDUSA be
+responsible for all of this?</i>
+
+381
+00:23:15,376 --> 00:23:17,177
+What if someone hacked into it?
+
+382
+00:23:17,244 --> 00:23:18,679
+It's gotta be.
+
+383
+00:23:18,747 --> 00:23:20,514
+No. The coding strings
+were unlike anything
+
+384
+00:23:20,580 --> 00:23:21,915
+that I've ever seen.
+
+385
+00:23:21,981 --> 00:23:23,783
+They were shorthand,
+like a stenographer.
+
+386
+00:23:23,851 --> 00:23:26,488
+This...
+This coding doesn't exist!
+
+387
+00:23:26,554 --> 00:23:29,523
+But why would it
+be targeting us?
+
+388
+00:23:29,589 --> 00:23:31,291
+It's targeting me.
+
+389
+00:23:31,358 --> 00:23:35,062
+Because it knows you're
+Dr. Abel Lopez's daughter!
+
+390
+00:23:35,128 --> 00:23:36,830
+<i>I think it came
+after me</i>
+
+391
+00:23:36,897 --> 00:23:38,598
+<i>because I used the exact
+same quantum language</i>
+
+392
+00:23:38,665 --> 00:23:41,403
+<i>as my dad when I hacked
+the DoD.</i>
+
+393
+00:23:41,469 --> 00:23:43,337
+<i>Tara sent a bullet
+into the heart</i>
+
+394
+00:23:43,403 --> 00:23:45,506
+<i>of the US Military
+Cyber system.</i>
+
+395
+00:23:45,573 --> 00:23:47,108
+We saw.
+
+396
+00:23:47,173 --> 00:23:49,109
+<i>But this isn't the military.</i>
+
+397
+00:23:49,176 --> 00:23:50,844
+<i>MEDUSA has gone rogue and it's
+not just targeting you.</i>
+
+398
+00:23:50,912 --> 00:23:52,713
+<i>It's targeting everyone.</i>
+
+399
+00:24:07,528 --> 00:24:08,895
+Look, I don't have long.
+
+400
+00:24:08,962 --> 00:24:10,597
+This place is
+crawling with drones.
+
+401
+00:24:10,664 --> 00:24:12,365
+<i>I'm the only one now
+who's perfectly fluent</i>
+
+402
+00:24:12,432 --> 00:24:14,268
+<i>at coding in my
+dad's Qbit language.</i>
+
+403
+00:24:14,335 --> 00:24:18,271
+MEDUSA runs at a quantum system,
+so its language is Qbit based.
+
+404
+00:24:18,338 --> 00:24:21,142
+<i>I might be able to hack it,
+but I need hands-on access.</i>
+
+405
+00:24:21,209 --> 00:24:23,376
+But, Tara, that's not an
+impossible language to crack.
+
+406
+00:24:23,443 --> 00:24:25,445
+The Pentagon has programmers
+who work on those systems.
+
+407
+00:24:25,512 --> 00:24:27,280
+<i>My dad added variants
+to the code,</i>
+
+408
+00:24:27,347 --> 00:24:29,316
+<i>variants that I know
+from him teaching me.</i>
+
+409
+00:24:29,383 --> 00:24:32,586
+<i>Not even Marietta is as good
+as I am at this kind of code.</i>
+
+410
+00:24:32,653 --> 00:24:34,189
+<i>It will take other
+programmers way too long</i>
+
+411
+00:24:34,255 --> 00:24:36,590
+<i>to figure it out,
+including him.</i>
+
+412
+00:24:36,656 --> 00:24:39,125
+<i>Listen, the AI wants to target
+and kill every possible threat.</i>
+
+413
+00:24:39,192 --> 00:24:40,994
+<i>We need to stop it.
+Now.</i>
+
+414
+00:24:41,061 --> 00:24:43,129
+So who's gonna stop it?
+
+415
+00:24:43,196 --> 00:24:44,464
+We are.
+
+416
+00:24:44,530 --> 00:24:46,299
+We gotta work quickly.
+
+417
+00:24:46,366 --> 00:24:48,836
+<i>Wilson, we used to hang out at
+the spaceport in the summer.</i>
+
+418
+00:24:48,903 --> 00:24:50,605
+<i>Remember? We know this place.</i>
+
+419
+00:24:50,671 --> 00:24:52,140
+<i>We used to look up
+at the stars there.</i>
+
+420
+00:24:52,207 --> 00:24:55,109
+I remember!
+But there's no way.
+
+421
+00:24:55,175 --> 00:24:56,309
+Listen, I'm not asking you
+to go back.
+
+422
+00:24:56,376 --> 00:24:57,811
+I'm going.
+
+423
+00:24:57,878 --> 00:24:59,846
+No! Gray Scout, you don't know
+what you're saying!
+
+424
+00:24:59,913 --> 00:25:01,481
+Listen, if I don't
+stop it before
+
+425
+00:25:01,548 --> 00:25:03,017
+the upload sequence completes,
+
+426
+00:25:03,084 --> 00:25:05,219
+<i>the possibility of MEDUSA
+overriding all</i>
+
+427
+00:25:05,286 --> 00:25:07,654
+<i>computers and satellites,
+basically everything,</i>
+
+428
+00:25:07,721 --> 00:25:09,623
+<i>in a relatively short time is...</i>
+
+429
+00:25:09,690 --> 00:25:12,493
+You're not a one-person army!
+They have people for this!
+
+430
+00:25:12,558 --> 00:25:14,894
+A system like that has
+totally unique hardware, Tara.
+
+431
+00:25:14,961 --> 00:25:16,330
+Z's right.
+
+432
+00:25:16,396 --> 00:25:18,732
+Its circuitry
+and subzero-Kelvin cooling
+
+433
+00:25:18,799 --> 00:25:20,300
+are one-of-a-kind.
+
+434
+00:25:20,367 --> 00:25:23,236
+Yes, that's why I have
+to go Spaceport directly.
+
+435
+00:25:23,304 --> 00:25:25,773
+No, Tara, we need
+tons of processing
+
+436
+00:25:25,839 --> 00:25:27,107
+and an open-source platform.
+
+437
+00:25:27,174 --> 00:25:28,875
+No. If I hack it over a network,
+
+438
+00:25:28,942 --> 00:25:30,144
+that would allow it
+to track me down
+
+439
+00:25:30,211 --> 00:25:31,878
+as soon as I enter
+a single line.
+
+440
+00:25:31,945 --> 00:25:34,682
+<i>Its nationwide networking
+defenses are too powerful</i>
+
+441
+00:25:34,749 --> 00:25:37,315
+<i>and too advanced for
+me to hack it remotely.</i>
+
+442
+00:25:37,317 --> 00:25:39,920
+I need to be there in person
+to patch it in directly
+
+443
+00:25:39,987 --> 00:25:41,288
+and set
+a quantum-data bomb.
+
+444
+00:25:41,355 --> 00:25:42,923
+Tara, you're gonna need help!
+
+445
+00:25:42,990 --> 00:25:44,192
+Any smart weapons
+there will kill you
+
+446
+00:25:44,258 --> 00:25:46,026
+as soon as you get close
+to the AI!
+
+447
+00:25:46,093 --> 00:25:47,662
+No, no, no.
+Don't try to help.
+
+448
+00:25:47,728 --> 00:25:49,830
+Anybody who tries to help
+is gonna get us traced,
+
+449
+00:25:49,896 --> 00:25:51,331
+targeted and killed.
+
+450
+00:25:51,397 --> 00:25:54,534
+Tara, I'm not just gonna
+let you die out there!
+
+451
+00:25:54,602 --> 00:25:57,138
+You're too important
+to all of us!
+
+452
+00:25:57,204 --> 00:25:59,139
+Plus, you're only
+a couple hours away.
+
+453
+00:25:59,205 --> 00:26:00,774
+<i>If you need a direct patch,</i>
+
+454
+00:26:00,842 --> 00:26:02,176
+then you'll also need someone
+to map out the mainframe
+
+455
+00:26:02,242 --> 00:26:03,811
+to send out the data bomb.
+
+456
+00:26:03,877 --> 00:26:05,545
+If everyone at the Spaceport
+gets killed,
+
+457
+00:26:05,612 --> 00:26:08,816
+you'll still need someone
+to help you get it.
+
+458
+00:26:08,883 --> 00:26:11,117
+If you're going, I'm going.
+
+459
+00:26:11,184 --> 00:26:12,619
+We're gonna stop it with you.
+
+460
+00:26:12,685 --> 00:26:15,155
+When you reach Huntsville,
+we'll be there.
+
+461
+00:26:15,222 --> 00:26:18,725
+You may be a genius hacker,
+but you can't do this alone.
+
+462
+00:26:18,792 --> 00:26:20,460
+<i>You're gonna be outnumbered,</i>
+
+463
+00:26:20,528 --> 00:26:21,828
+<i>so you're gonna need people
+that you can trust.</i>
+
+464
+00:26:21,895 --> 00:26:23,330
+Let us help you.
+
+465
+00:26:23,396 --> 00:26:25,265
+Hey, we're gonna need
+all the help we can get.
+
+466
+00:26:27,468 --> 00:26:28,870
+All right.
+
+467
+00:26:28,935 --> 00:26:30,737
+Meet us at the Spaceport.
+
+468
+00:26:30,804 --> 00:26:34,208
+I'm going to need my Dark Web
+contact to make this happen.
+
+469
+00:26:34,273 --> 00:26:36,276
+<i>We're gonna need Red Dragon.</i>
+
+470
+00:26:37,345 --> 00:26:38,377
+Red Dragon?
+
+471
+00:26:38,444 --> 00:26:40,013
+Really, Gray?
+Are you sure about that?
+
+472
+00:26:40,080 --> 00:26:41,815
+Do we have any other choice?
+
+473
+00:26:41,883 --> 00:26:43,851
+<i>It's at least a six-hour drive
+for us to get there</i>
+
+474
+00:26:43,916 --> 00:26:45,752
+<i>and we'll need every second
+to get ahead of the AI</i>
+
+475
+00:26:45,819 --> 00:26:47,621
+<i>as it smashes firewalls.</i>
+
+476
+00:26:47,688 --> 00:26:50,024
+<i>To do that, we'll need gear
+to fight against the drones</i>
+
+477
+00:26:50,090 --> 00:26:52,558
+<i>and anything else MEDUSA
+throws at us.</i>
+
+478
+00:26:52,625 --> 00:26:55,162
+Plus, she owes me a favor.
+
+479
+00:26:55,229 --> 00:26:56,730
+I don't know, Tara.
+
+480
+00:26:56,798 --> 00:26:58,766
+<i>No one messes with Red Dragon.</i>
+
+481
+00:26:58,833 --> 00:27:00,167
+Not even the Feds!
+
+482
+00:27:00,233 --> 00:27:04,804
+Her and I have
+an understanding, okay?
+
+483
+00:27:04,872 --> 00:27:08,175
+Wilson, meet us,
+but be careful. No tech!
+
+484
+00:27:08,241 --> 00:27:10,043
+Okay, remember
+they will find you.
+
+485
+00:27:10,109 --> 00:27:11,745
+There's cameras everywhere.
+
+486
+00:27:11,813 --> 00:27:14,915
+So don't bring any microphones,
+internet connections,
+
+487
+00:27:14,981 --> 00:27:17,550
+anything with digital cameras,
+
+488
+00:27:17,617 --> 00:27:19,887
+anything that
+can trace you to me.
+
+489
+00:27:21,321 --> 00:27:23,756
+Tara! Tara!
+They found you!
+
+490
+00:27:23,824 --> 00:27:25,226
+You're on my screen!
+
+491
+00:27:28,362 --> 00:27:30,096
+And if you're on my screen...
+
+492
+00:27:30,163 --> 00:27:31,900
+That means they found us.
+
+493
+00:27:35,869 --> 00:27:37,604
+Zee! Zee!
+
+494
+00:27:37,672 --> 00:27:38,771
+Go! Go! Go!
+
+495
+00:27:38,838 --> 00:27:40,173
+I'm on it.
+
+496
+00:27:42,308 --> 00:27:43,610
+Come on, come on, come on!
+
+497
+00:27:50,384 --> 00:27:53,253
+Okay, we gotta go! Come on!
+Come on!
+
+498
+00:28:12,839 --> 00:28:14,241
+Wait.
+
+499
+00:28:15,476 --> 00:28:16,544
+Do you hear that?
+
+500
+00:28:20,614 --> 00:28:22,350
+Drones.
+
+501
+00:28:22,416 --> 00:28:24,084
+Now what?
+
+502
+00:28:25,952 --> 00:28:27,054
+I can hear them.
+
+503
+00:28:27,121 --> 00:28:28,889
+Come on, come on.
+
+504
+00:28:28,955 --> 00:28:31,125
+It's not pretty, but I have
+something that will protect us.
+
+505
+00:28:36,163 --> 00:28:37,397
+What is it?
+
+506
+00:28:38,900 --> 00:28:39,967
+They're getting closer!
+
+507
+00:28:40,034 --> 00:28:41,302
+Two seconds.
+
+508
+00:28:56,817 --> 00:28:58,085
+What was that?
+
+509
+00:28:58,152 --> 00:29:00,453
+Invisibility cloak.
+Military grade.
+
+510
+00:29:00,520 --> 00:29:02,088
+How did you get your
+hands on that?
+
+511
+00:29:02,155 --> 00:29:03,423
+They're not available.
+
+512
+00:29:03,490 --> 00:29:04,959
+I wasn't waiting.
+I created my own.
+
+513
+00:29:05,026 --> 00:29:06,693
+Okay.
+
+514
+00:29:18,872 --> 00:29:22,442
+Red Dragon should be here!
+
+515
+00:29:22,509 --> 00:29:23,478
+This way, hurry.
+
+516
+00:29:35,388 --> 00:29:36,690
+This is gonna take all day.
+
+517
+00:29:40,928 --> 00:29:43,131
+That's it!
+The antenna!
+
+518
+00:29:55,909 --> 00:29:58,646
+[Jorge] You're crazy.
+No one's here.
+
+519
+00:30:02,983 --> 00:30:04,217
+There it is.
+
+520
+00:30:13,994 --> 00:30:16,530
+Okay, but how do you know that?
+
+521
+00:30:20,567 --> 00:30:24,605
+GMC Automotive put on an early
+camper prototype in the 80s.
+
+522
+00:30:26,507 --> 00:30:28,209
+They called it the Dragon.
+
+523
+00:30:31,111 --> 00:30:32,413
+Really?
+
+524
+00:30:33,881 --> 00:30:37,817
+That... and I can see a
+grounded hub of CAT7 wires
+
+525
+00:30:37,884 --> 00:30:40,153
+underneath the chassis.
+
+526
+00:30:40,220 --> 00:30:43,089
+And about four, five,
+
+527
+00:30:43,156 --> 00:30:44,759
+six routers attached
+to the roof,
+
+528
+00:30:46,760 --> 00:30:51,230
+not to mention three remotes
+in the surrounding trees
+
+529
+00:30:51,298 --> 00:30:55,068
+there, there, and there.
+
+530
+00:30:55,135 --> 00:30:56,737
+You missed 10
+satellite transmitters,
+
+531
+00:30:56,803 --> 00:30:59,439
+and about three miles of
+cabling and ground wires,
+
+532
+00:30:59,506 --> 00:31:02,176
+and a whole lotta scramblers.
+
+533
+00:31:02,242 --> 00:31:03,477
+Come on in.
+
+534
+00:31:16,222 --> 00:31:17,390
+It's okay.
+You're safe here.
+
+535
+00:31:17,457 --> 00:31:19,794
+Come on, Gray Scout.
+Let's go.
+
+536
+00:31:19,861 --> 00:31:21,395
+I've been monitoring
+you for a while.
+
+537
+00:31:23,864 --> 00:31:26,299
+You're in an anti-EMP
+van, fully-loaded,
+
+538
+00:31:26,365 --> 00:31:28,836
+lead-lined, off the grid.
+
+539
+00:31:28,902 --> 00:31:31,305
+MEDUSA can't see us,
+at least not yet.
+
+540
+00:31:31,371 --> 00:31:36,677
+Off the grid?
+With that electronic footprint?
+
+541
+00:31:36,743 --> 00:31:38,211
+Catch your breath.
+
+542
+00:31:38,278 --> 00:31:40,448
+Thanks.
+
+543
+00:31:40,515 --> 00:31:41,682
+Drink.
+
+544
+00:31:43,282 --> 00:31:44,684
+I saw what happened.
+
+545
+00:31:44,750 --> 00:31:47,520
+Good job with those drones,
+by the way.
+
+546
+00:31:47,586 --> 00:31:49,890
+I must say, I really am
+impressed you made it here.
+
+547
+00:31:49,957 --> 00:31:52,860
+I didn't think
+you'd still be here.
+
+548
+00:31:52,925 --> 00:31:54,261
+Well, not after this.
+
+549
+00:31:54,327 --> 00:31:55,829
+You two have more heat
+on you than an LHC
+
+550
+00:31:55,895 --> 00:31:57,563
+in a pressure vacuum.
+
+551
+00:31:57,631 --> 00:32:00,000
+If MEDUSA hasn't
+figured out already, she will.
+
+552
+00:32:00,067 --> 00:32:02,001
+She'll be in full control
+within the next couple hours,
+
+553
+00:32:02,068 --> 00:32:03,937
+maybe even sooner.
+
+554
+00:32:07,374 --> 00:32:09,477
+I'm sorry about your dad,
+but screw him.
+
+555
+00:32:10,711 --> 00:32:12,378
+Excuse me?
+
+556
+00:32:12,445 --> 00:32:15,415
+Hey, it's his machine that's
+going to destroy the world.
+
+557
+00:32:15,481 --> 00:32:17,017
+Look, I'm sure
+he's a cool guy and all
+
+558
+00:32:17,084 --> 00:32:19,019
+and took you to Space Camp
+when you were younger.
+
+559
+00:32:19,085 --> 00:32:21,087
+But he gets no passes.
+
+560
+00:32:21,154 --> 00:32:23,757
+My dad was creating machines
+to help save people.
+
+561
+00:32:23,824 --> 00:32:26,159
+Yeah, it wasn't his fault.
+MEDUSA's the one who...
+
+562
+00:32:26,226 --> 00:32:27,862
+Really?
+
+563
+00:32:27,929 --> 00:32:29,864
+Because if he didn't exist,
+the MEDUSA wouldn't exist.
+
+564
+00:32:29,930 --> 00:32:33,734
+But he did and it does,
+so here we are.
+
+565
+00:32:35,535 --> 00:32:37,237
+We're trying to stop it.
+
+566
+00:32:37,304 --> 00:32:38,572
+You can't.
+
+567
+00:32:38,638 --> 00:32:40,674
+- We're trying.
+- It's self-aware.
+
+568
+00:32:40,740 --> 00:32:42,977
+It's building an army.
+It's...
+
+569
+00:32:43,042 --> 00:32:44,744
+A machine.
+
+570
+00:32:44,810 --> 00:32:46,946
+No. Then you go unplug it, but
+you know it's not that easy.
+
+571
+00:32:47,013 --> 00:32:48,414
+It's not just a machine.
+
+572
+00:32:48,481 --> 00:32:51,684
+It's a cancer
+that's metastasizing.
+
+573
+00:32:51,750 --> 00:32:55,021
+We can stop it before the
+upload sequence completes.
+
+574
+00:32:55,087 --> 00:32:58,057
+I know what it's capable of.
+We've already seen it.
+
+575
+00:32:58,125 --> 00:33:00,661
+It's gonna seize
+the world's military.
+
+576
+00:33:02,829 --> 00:33:03,997
+Of course it is.
+
+577
+00:33:04,065 --> 00:33:05,599
+Okay.
+
+578
+00:33:05,664 --> 00:33:07,233
+So that means it not only
+needs to run a search function
+
+579
+00:33:07,300 --> 00:33:08,801
+to find weapons.
+
+580
+00:33:08,868 --> 00:33:10,803
+But it also has to teach
+itself to break the firewalls,
+
+581
+00:33:10,871 --> 00:33:12,973
+then it has to hack
+them around the world.
+
+582
+00:33:13,039 --> 00:33:17,845
+Even on a quantum system, that
+buys us, what, 15, 20 minutes?
+
+583
+00:33:17,912 --> 00:33:19,779
+That gives you nothing.
+
+584
+00:33:19,846 --> 00:33:21,249
+It's something.
+
+585
+00:33:23,148 --> 00:33:24,584
+Even on your best day,
+
+586
+00:33:24,651 --> 00:33:28,087
+it took you 10 minutes
+to hack the World Bank.
+
+587
+00:33:28,154 --> 00:33:30,156
+It's gonna take us at
+least that amount of time
+
+588
+00:33:30,222 --> 00:33:31,491
+to hack a quantum AI,
+
+589
+00:33:31,558 --> 00:33:34,862
+so we don't have
+10 minutes to waste.
+
+590
+00:33:34,928 --> 00:33:36,864
+We're gonna need
+analog transportation
+
+591
+00:33:36,930 --> 00:33:39,900
+and as much analog tech
+and weapons as we can carry.
+
+592
+00:33:39,967 --> 00:33:43,803
+You can't hide
+from surveillance.
+
+593
+00:33:43,869 --> 00:33:46,472
+You've been telling me you
+liked my Qbit-level coding
+
+594
+00:33:46,539 --> 00:33:48,442
+and reference-free algorithms.
+
+595
+00:33:48,508 --> 00:33:50,277
+Oh, come on.
+That's not fair.
+
+596
+00:33:50,344 --> 00:33:52,446
+I gave you every
+closed-source Q codes
+
+597
+00:33:52,512 --> 00:33:55,749
+to get you an
+unbreakable ghost IP.
+
+598
+00:33:55,816 --> 00:33:57,683
+I knew this day would come.
+It always does.
+
+599
+00:33:57,750 --> 00:34:00,488
+Desperate and
+morally compromised.
+
+600
+00:34:03,123 --> 00:34:05,424
+You still owe me.
+
+601
+00:34:05,491 --> 00:34:07,360
+That IP got my place swatted!
+
+602
+00:34:11,097 --> 00:34:12,565
+I hope the heist was worth it.
+
+603
+00:34:13,934 --> 00:34:16,903
+Hey, I ran a trace
+of MEDUSA's first few lines
+
+604
+00:34:16,969 --> 00:34:18,672
+of code under your IP.
+
+605
+00:34:18,739 --> 00:34:20,673
+It crashed my burner system.
+
+606
+00:34:20,740 --> 00:34:23,409
+I need to be there in person,
+no networks!
+
+607
+00:34:23,476 --> 00:34:25,077
+It's the only way.
+
+608
+00:34:25,144 --> 00:34:28,148
+It'll have to be a Sysconfig
+databomb sliding-base
+
+609
+00:34:28,215 --> 00:34:29,682
+so I can mess
+with its power.
+
+610
+00:34:29,750 --> 00:34:32,052
+Only then can it be
+destroyed, physically.
+
+611
+00:34:32,119 --> 00:34:33,687
+Okay, but you'll need
+someone to map the interface
+
+612
+00:34:33,753 --> 00:34:35,456
+to make that bomb
+deliverable, though,
+
+613
+00:34:35,521 --> 00:34:37,490
+assuming the AI
+doesn't kill them first.
+
+614
+00:34:37,557 --> 00:34:40,594
+I'm not willing to
+fall on that sword.
+
+615
+00:34:40,661 --> 00:34:41,996
+We're not asking.
+
+616
+00:34:43,931 --> 00:34:47,134
+I assume you destroyed all your
+traceable software and info?
+
+617
+00:34:47,201 --> 00:34:48,735
+Hibachi style.
+
+618
+00:34:48,802 --> 00:34:50,403
+Yeah, it's all fried.
+
+619
+00:34:50,471 --> 00:34:52,139
+What we didn't burn,
+the drones did.
+
+620
+00:34:52,206 --> 00:34:53,673
+Good, yeah.
+
+621
+00:34:53,739 --> 00:34:56,109
+Well, if anything happens
+to me, I have Black Fire.
+
+622
+00:34:56,177 --> 00:34:57,678
+It's my kill-all virus.
+
+623
+00:34:57,744 --> 00:35:00,947
+I have one,
+my cousin Derek has the other.
+
+624
+00:35:01,014 --> 00:35:02,782
+He's my fail-safe.
+
+625
+00:35:02,849 --> 00:35:05,050
+Hey, here.
+We got one of the drones.
+
+626
+00:35:05,117 --> 00:35:07,020
+It was pretty banged up
+from the fireworks.
+
+627
+00:35:07,088 --> 00:35:10,457
+But Jorge managed
+to rip out the brains.
+
+628
+00:35:10,523 --> 00:35:13,760
+I figured it's configured for
+military networking commands,
+
+629
+00:35:13,827 --> 00:35:16,963
+so I can probably use it to hack
+the system over at Spaceport.
+
+630
+00:35:17,030 --> 00:35:17,998
+Let me see that.
+
+631
+00:35:24,538 --> 00:35:27,708
+Yeah, this is nothing like what
+we've seen on the black market.
+
+632
+00:35:27,775 --> 00:35:30,844
+Besides having an obscene
+amount of memory,
+
+633
+00:35:30,911 --> 00:35:35,215
+it's got an unusual
+audio receiver right here.
+
+634
+00:35:35,282 --> 00:35:39,820
+Its sensitivity is measured
+in 10,000ths of a hertz.
+
+635
+00:35:39,887 --> 00:35:42,222
+I can't really figure out why.
+
+636
+00:35:42,289 --> 00:35:44,824
+And a weird looking solenoid.
+
+637
+00:35:44,891 --> 00:35:46,827
+Yeah. That hooks up
+to a capacitor
+
+638
+00:35:46,893 --> 00:35:48,628
+that takes
+its electrical load way up,
+
+639
+00:35:48,695 --> 00:35:50,797
+but I'm still not sure why.
+
+640
+00:35:50,864 --> 00:35:52,465
+Almost like defibrillator.
+
+641
+00:35:52,532 --> 00:35:53,934
+It closes in on a person,
+
+642
+00:35:54,001 --> 00:35:56,870
+then electrocutes them
+in the chest or the head.
+
+643
+00:35:56,936 --> 00:35:59,639
+Quite an efficient killing
+instead of blowing someone up.
+
+644
+00:36:01,442 --> 00:36:02,643
+Here, look.
+
+645
+00:36:10,751 --> 00:36:12,153
+It didn't shoot 'em.
+
+646
+00:36:12,219 --> 00:36:14,253
+Right, but the targeting
+system of the drones
+
+647
+00:36:14,320 --> 00:36:16,588
+show a huge electrical spike.
+
+648
+00:36:16,655 --> 00:36:18,257
+Heart attack maybe?
+
+649
+00:36:18,324 --> 00:36:19,859
+Maybe.
+
+650
+00:36:19,925 --> 00:36:21,929
+I've never seen that
+on a military drone before,
+
+651
+00:36:21,996 --> 00:36:24,431
+but it could be.
+
+652
+00:36:24,498 --> 00:36:29,869
+Tara, this AI is
+nothing to play with.
+
+653
+00:36:29,936 --> 00:36:32,206
+Yeah, it's probably
+how it killed my dad.
+
+654
+00:36:34,541 --> 00:36:35,909
+I'm sorry I showed you that,
+
+655
+00:36:35,976 --> 00:36:38,679
+but if it helps,
+I don't think he suffered.
+
+656
+00:36:38,746 --> 00:36:40,180
+It's like he shut down
+
+657
+00:36:40,246 --> 00:36:41,882
+and you were right to
+keep the drone brain.
+
+658
+00:36:41,947 --> 00:36:43,951
+If you hard patch this to
+a security network
+
+659
+00:36:44,016 --> 00:36:45,818
+you can gain access
+to a restricted area
+
+660
+00:36:45,885 --> 00:36:47,153
+if it thinks you're a drone.
+
+661
+00:36:47,221 --> 00:36:50,757
+So although the AI
+has insane ability
+
+662
+00:36:50,824 --> 00:36:53,760
+to make very accurate
+probabilistic choices
+
+663
+00:36:53,827 --> 00:36:56,664
+and track everything you do,
+
+664
+00:36:56,730 --> 00:37:00,300
+it still sees people as
+people and tech as tech.
+
+665
+00:37:00,367 --> 00:37:03,003
+And don't forget, it can track
+you almost everywhere you go.
+
+666
+00:37:03,070 --> 00:37:06,873
+You mean, like
+via orbital satellites?
+
+667
+00:37:06,940 --> 00:37:08,108
+No, no.
+
+668
+00:37:08,175 --> 00:37:10,943
+It's working its way
+to that, but no.
+
+669
+00:37:11,010 --> 00:37:15,215
+Tara, it knows
+everything about you.
+
+670
+00:37:15,282 --> 00:37:17,784
+It knows everyone
+you've ever known.
+
+671
+00:37:17,851 --> 00:37:19,720
+It knows our history online.
+
+672
+00:37:22,722 --> 00:37:25,425
+So that it probably knows
+that I'm here.
+
+673
+00:37:25,492 --> 00:37:27,259
+Yes, and when it's
+looking for you,
+
+674
+00:37:27,327 --> 00:37:28,762
+it uses things like that drone
+
+675
+00:37:28,829 --> 00:37:30,364
+that can hear a fly
+in a beehive.
+
+676
+00:37:30,429 --> 00:37:33,199
+It's not gonna let
+some hacker stand in the way
+
+677
+00:37:33,266 --> 00:37:34,533
+of it destroying the world.
+
+678
+00:37:34,601 --> 00:37:36,537
+Do you get it?
+
+679
+00:37:41,474 --> 00:37:43,009
+This is an EMP pulse grenade.
+
+680
+00:37:43,076 --> 00:37:45,545
+Once activated, you have
+five seconds to hit your target
+
+681
+00:37:45,612 --> 00:37:47,113
+before an EMP blast,
+
+682
+00:37:47,179 --> 00:37:50,115
+canceling out all electronics
+within a 50-yard radius.
+
+683
+00:37:50,182 --> 00:37:52,052
+So, you wanna stay way
+clear of it.
+
+684
+00:37:55,789 --> 00:37:57,924
+Do you have your
+quantum tablet on you?
+
+685
+00:37:57,990 --> 00:37:59,960
+This is your
+father's technology.
+
+686
+00:38:00,027 --> 00:38:03,963
+I'm gonna download a Nano cloak
+shield to your quantum tablet.
+
+687
+00:38:04,030 --> 00:38:05,899
+Also, this not only
+refracts light
+
+688
+00:38:05,965 --> 00:38:07,833
+to make you invisible
+to cameras,
+
+689
+00:38:07,900 --> 00:38:09,134
+but is also a Penrose polymer
+
+690
+00:38:09,202 --> 00:38:11,472
+which cancels out
+all heat signatures
+
+691
+00:38:11,538 --> 00:38:13,173
+and that includes
+radar or sonar.
+
+692
+00:38:13,239 --> 00:38:15,241
+- You got all that?
+- Invisibility. Copy.
+
+693
+00:38:15,309 --> 00:38:17,077
+We need firepower.
+
+694
+00:38:17,143 --> 00:38:19,778
+It thinks we're terrorists, it
+keep on firing missiles at us.
+
+695
+00:38:19,846 --> 00:38:21,847
+You have to stop
+taking this personal.
+
+696
+00:38:21,914 --> 00:38:25,351
+To MEDUSA, you are only an
+answer to a binary question.
+
+697
+00:38:25,418 --> 00:38:27,621
+And what's the question?
+
+698
+00:38:27,686 --> 00:38:30,790
+How do I stop
+her from deprogramming me?
+
+699
+00:38:31,891 --> 00:38:33,993
+Either way, you'll need this.
+
+700
+00:38:35,061 --> 00:38:37,597
+This is an AK-47,
+fully automatic.
+
+701
+00:38:37,664 --> 00:38:39,800
+Safety's here, trigger's here.
+
+702
+00:38:39,865 --> 00:38:42,735
+They're hard to come by,
+so you're gonna need it.
+
+703
+00:38:42,802 --> 00:38:44,872
+You know how to shoot?
+
+704
+00:38:44,938 --> 00:38:48,976
+My dad was a gun guy, took me
+to the range a few times.
+
+705
+00:38:51,244 --> 00:38:52,913
+Good.
+
+706
+00:38:54,313 --> 00:38:55,848
+Here, look at this.
+
+707
+00:38:57,918 --> 00:39:00,120
+This is happening now,
+all over the world?
+
+708
+00:39:08,827 --> 00:39:10,963
+Damn, that's MEDUSA?
+
+709
+00:39:11,030 --> 00:39:12,532
+Yes, and this is just a start.
+
+710
+00:39:12,599 --> 00:39:14,501
+MEDUSA is throwing
+Moore's Law out the window.
+
+711
+00:39:14,567 --> 00:39:17,905
+Once it seizes access to it,
+it's gonna take advantage of it.
+
+712
+00:39:19,405 --> 00:39:21,041
+This is nuts.
+
+713
+00:39:21,108 --> 00:39:23,544
+MEDUSA was created to help
+my dad's NFX rescue robot.
+
+714
+00:39:23,610 --> 00:39:25,277
+It was designed
+to help save people.
+
+715
+00:39:25,344 --> 00:39:26,746
+Maybe it is.
+
+716
+00:39:26,813 --> 00:39:28,114
+Maybe it's saving us
+from ourselves.
+
+717
+00:39:30,016 --> 00:39:31,652
+No one deserves this.
+
+718
+00:39:32,684 --> 00:39:34,020
+Maybe not.
+
+719
+00:39:34,086 --> 00:39:36,989
+<i>Red Dragon!
+Come in, Red Dragon!</i>
+
+720
+00:39:37,056 --> 00:39:37,823
+Come in.
+
+721
+00:39:37,891 --> 00:39:39,226
+This is Red Dragon.
+
+722
+00:39:39,291 --> 00:39:41,893
+<i>It's me, Derek!
+Can you hear me?</i>
+
+723
+00:39:41,960 --> 00:39:43,029
+It's my cousin Derek.
+
+724
+00:39:43,096 --> 00:39:44,398
+<i>You were right, Red Dragon.</i>
+
+725
+00:39:44,463 --> 00:39:46,900
+<i>Medusa isn't just using drones.</i>
+
+726
+00:39:46,965 --> 00:39:48,568
+<i>I'm headed back
+to the compound.</i>
+
+727
+00:39:48,635 --> 00:39:50,004
+<i>I'll call you when I get there.</i>
+
+728
+00:39:52,304 --> 00:39:53,706
+<i>Look alive, boys!</i>
+
+729
+00:39:53,773 --> 00:39:55,208
+<i>We're getting hit
+from all sides!</i>
+
+730
+00:39:55,275 --> 00:39:56,910
+<i>We're dealing with
+cyborgs here.</i>
+
+731
+00:39:56,976 --> 00:39:59,313
+<i>I can hold them off for now,
+but hurry!</i>
+
+732
+00:39:59,380 --> 00:40:00,747
+Derek!
+
+733
+00:40:00,813 --> 00:40:02,615
+What is he talking about?
+
+734
+00:40:02,681 --> 00:40:04,350
+What cyborg machines?
+
+735
+00:40:04,418 --> 00:40:06,854
+It's the ARES project.
+I don't know much about it.
+
+736
+00:40:08,855 --> 00:40:10,088
+It's Black Ops.
+
+737
+00:40:10,155 --> 00:40:12,157
+Used for military
+high target asserts.
+
+738
+00:40:12,224 --> 00:40:14,893
+I was afraid that if MEDUSA
+was able to control the system,
+
+739
+00:40:14,960 --> 00:40:17,296
+this would be the first thing
+it would control.
+
+740
+00:40:17,364 --> 00:40:19,632
+- What?
+- Jorge, come on.
+
+741
+00:40:19,699 --> 00:40:23,069
+What makes these ultra scary
+is that they shoot microchips.
+
+742
+00:40:23,137 --> 00:40:24,471
+What?
+
+743
+00:40:24,536 --> 00:40:27,306
+Microchips that take over
+your body and control you.
+
+744
+00:40:27,373 --> 00:40:29,108
+Wait.
+Control you how?
+
+745
+00:40:29,175 --> 00:40:31,412
+They're designed to attach
+to the central nervous system
+
+746
+00:40:31,478 --> 00:40:33,746
+of humans, controlling
+and subduing them.
+
+747
+00:40:33,813 --> 00:40:36,949
+If MEDUSA is able to hack
+into those chips,
+
+748
+00:40:37,016 --> 00:40:39,518
+they can directly
+control human behavior.
+
+749
+00:40:39,585 --> 00:40:43,056
+Kill yourself,
+your fellow soldier, anything.
+
+750
+00:40:44,958 --> 00:40:48,061
+It just gets worse and worse.
+
+751
+00:40:48,126 --> 00:40:51,130
+All right, so if MEDUSA
+has control of the ARES project,
+
+752
+00:40:51,197 --> 00:40:54,067
+then that means she's gaining
+control faster than we know it?
+
+753
+00:40:55,768 --> 00:40:58,137
+MEDUSA is seizing
+networks across
+
+754
+00:40:58,204 --> 00:41:00,239
+the entire globe right now.
+
+755
+00:41:07,280 --> 00:41:09,282
+Damn it!
+
+756
+00:41:09,349 --> 00:41:11,617
+The drones have entered
+my five-mile perimeter.
+
+757
+00:41:11,684 --> 00:41:13,719
+Medusa found us.
+
+758
+00:41:13,786 --> 00:41:15,688
+Jorge, drive the van!
+
+759
+00:41:15,755 --> 00:41:17,191
+Go!
+
+760
+00:42:07,673 --> 00:42:09,041
+Hey!
+
+761
+00:42:09,108 --> 00:42:11,144
+Take this, take this.
+
+762
+00:42:11,210 --> 00:42:14,080
+Everything is fully supplied,
+all right?
+
+763
+00:42:19,186 --> 00:42:21,121
+Listen, this is a map to my
+cousin Derek's compound.
+
+764
+00:42:21,188 --> 00:42:22,523
+Wave this out of the window
+
+765
+00:42:22,588 --> 00:42:24,557
+as you approach so
+they know I sent you.
+
+766
+00:42:25,791 --> 00:42:27,460
+Hey, thanks, Brenda.
+
+767
+00:42:27,527 --> 00:42:29,061
+It's Red Dragon.
+
+768
+00:42:29,128 --> 00:42:31,564
+But you can call me Brenda
+if you make it back alive.
+
+769
+00:42:31,630 --> 00:42:33,232
+Come on.
+
+770
+00:42:38,672 --> 00:42:40,374
+Keys are in the wheel well.
+
+771
+00:42:40,440 --> 00:42:42,575
+It's old school.
+No electronics.
+
+772
+00:42:42,641 --> 00:42:45,377
+No power steering, no power
+brakes, no satellite radio?
+
+773
+00:42:45,445 --> 00:42:46,646
+Thanks, Red Dragon.
+
+774
+00:42:46,713 --> 00:42:49,316
+Don't thank me.
+Just go save the world.
+
+775
+00:42:52,251 --> 00:42:53,853
+Shit, I think I hear the drones.
+
+776
+00:42:53,920 --> 00:42:55,188
+- Go!
+- What about you?
+
+777
+00:42:55,255 --> 00:42:56,590
+Just go!
+
+778
+00:43:15,342 --> 00:43:18,244
+Tara!
+They're going to lock onto us!
+
+779
+00:43:18,311 --> 00:43:19,746
+- Hold the wheel!
+- What?
+
+780
+00:43:19,811 --> 00:43:21,315
+Hold the wheel!
+
+781
+00:43:27,753 --> 00:43:28,989
+Woo!
+
+782
+00:43:29,054 --> 00:43:32,291
+Let's go!
+Woo!
+
+783
+00:43:33,525 --> 00:43:35,161
+What was that thing?
+
+784
+00:43:35,228 --> 00:43:37,463
+Just another pause
+in the time clock.
+
+785
+00:43:38,965 --> 00:43:40,534
+Woo!
+
+786
+00:43:48,141 --> 00:43:50,244
+Oh, no, no, no.
+What are you doing?
+
+787
+00:44:00,286 --> 00:44:01,655
+No!
+
+788
+00:44:03,356 --> 00:44:06,159
+This is gonna feel so good.
+
+789
+00:44:08,795 --> 00:44:10,530
+[screams]
+
+790
+00:44:14,601 --> 00:44:16,003
+[gasps]
+
+791
+00:44:21,807 --> 00:44:23,277
+Hey...
+
+792
+00:44:27,746 --> 00:44:29,248
+We got a job to do.
+
+793
+00:44:54,273 --> 00:44:55,740
+It's only a matter of time.
+
+794
+00:44:55,807 --> 00:44:57,210
+Shh!
+
+795
+00:45:01,813 --> 00:45:03,951
+There are phone lines
+going into that tunnel.
+
+796
+00:45:05,451 --> 00:45:08,054
+We hack them and lure
+as many of those things
+
+797
+00:45:08,119 --> 00:45:09,888
+down there as we can.
+
+798
+00:45:09,956 --> 00:45:11,557
+Then we blow up the tunnel.
+
+799
+00:45:12,625 --> 00:45:14,559
+You like to blow
+things up, right?
+
+800
+00:45:14,626 --> 00:45:16,362
+You know I do.
+
+801
+00:45:16,429 --> 00:45:17,597
+Come on.
+
+802
+00:45:32,512 --> 00:45:35,148
+Hey, a couple more exits.
+I gotta pee.
+
+803
+00:45:38,751 --> 00:45:40,320
+Tara?
+
+804
+00:45:41,855 --> 00:45:43,923
+Hey, you good?
+
+805
+00:45:43,989 --> 00:45:45,125
+Huh?
+
+806
+00:45:46,626 --> 00:45:48,027
+You want a drink?
+
+807
+00:45:48,094 --> 00:45:49,596
+No, I'm good.
+
+808
+00:46:09,849 --> 00:46:11,784
+Was that a camera flash?
+
+809
+00:46:11,851 --> 00:46:13,353
+Huh?
+
+810
+00:46:26,766 --> 00:46:28,434
+Jesus!
+
+811
+00:46:31,003 --> 00:46:32,606
+Tara, we got company!
+
+812
+00:46:42,481 --> 00:46:43,550
+MEDUSA...
+
+813
+00:46:43,617 --> 00:46:46,486
+Ah, this is not good!
+This is not good!
+
+814
+00:46:48,688 --> 00:46:50,289
+Jorge, listen to me.
+
+815
+00:46:50,356 --> 00:46:52,125
+I need you to grab the AK-47
+and use it.
+
+816
+00:46:52,192 --> 00:46:54,860
+Yeah.
+I got it. I got it.
+
+817
+00:46:54,927 --> 00:46:56,528
+You ever use an AK-47 before?
+
+818
+00:46:56,596 --> 00:46:58,130
+What? No!
+
+819
+00:46:58,197 --> 00:47:01,366
+Today's your lucky day.
+Take it!
+
+820
+00:47:01,434 --> 00:47:04,704
+But I don't know...
+I don't know how to use it!
+
+821
+00:47:04,771 --> 00:47:07,273
+Jorge, take the wheel
+or use the gun!
+
+822
+00:47:07,340 --> 00:47:09,076
+We have very limited
+options here!
+
+823
+00:47:35,601 --> 00:47:37,204
+I'm running out of bullets!
+
+824
+00:47:38,505 --> 00:47:40,239
+Shit!
+
+825
+00:47:40,306 --> 00:47:41,775
+Next exit's ours!
+
+826
+00:47:49,981 --> 00:47:52,717
+[laughing]
+
+827
+00:47:52,784 --> 00:47:54,221
+Woo!
+
+828
+00:47:55,922 --> 00:47:57,289
+Shit.
+
+829
+00:48:03,862 --> 00:48:06,298
+[Wilson] I can hear them,
+they're almost here!
+
+830
+00:48:06,364 --> 00:48:08,633
+[Zee] Done.
+The bomb is armed.
+
+831
+00:48:08,701 --> 00:48:10,836
+There's an exit above us.
+Hurry!
+
+832
+00:48:16,610 --> 00:48:17,711
+[screams]
+
+833
+00:48:19,244 --> 00:48:21,280
+Nice moves.
+
+834
+00:48:22,181 --> 00:48:24,183
+Whoa, yeah.
+
+835
+00:48:25,585 --> 00:48:26,952
+We did it.
+
+836
+00:48:27,019 --> 00:48:28,721
+How many do you think we got?
+
+837
+00:48:28,788 --> 00:48:30,222
+Dozens.
+
+838
+00:48:31,958 --> 00:48:33,259
+Come on.
+
+839
+00:48:33,326 --> 00:48:34,860
+- Let's go to the Spaceport.
+- Okay.
+
+840
+00:48:38,764 --> 00:48:39,798
+Whoa.
+
+841
+00:48:47,172 --> 00:48:48,540
+Get the map from my bag.
+
+842
+00:48:48,608 --> 00:48:51,178
+Red Dragon's cousin
+is here somewhere.
+
+843
+00:48:53,913 --> 00:48:55,248
+Take a right here!
+
+844
+00:49:03,088 --> 00:49:05,291
+You think we outran 'em?
+
+845
+00:49:05,358 --> 00:49:08,428
+In this truck? No.
+
+846
+00:49:10,063 --> 00:49:11,564
+Look out!
+
+847
+00:49:11,630 --> 00:49:12,932
+Ares!
+
+848
+00:49:35,420 --> 00:49:36,689
+Take a right here.
+
+849
+00:49:52,505 --> 00:49:53,740
+Welcome, Gray Scout.
+
+850
+00:50:11,657 --> 00:50:13,293
+Here's some coffee.
+
+851
+00:50:13,358 --> 00:50:14,827
+Cici makes it strong.
+
+852
+00:50:14,893 --> 00:50:16,895
+Thank you.
+
+853
+00:50:16,961 --> 00:50:19,264
+You guys got an update
+on the drone situation?
+
+854
+00:50:19,331 --> 00:50:22,034
+Yeah. They came in about
+half an hour ago.
+
+855
+00:50:22,101 --> 00:50:24,569
+My sources are saying that the
+drones, they're not listening
+
+856
+00:50:24,637 --> 00:50:26,539
+to any commands from the DoD
+
+857
+00:50:26,606 --> 00:50:29,242
+and they're starting to patrol
+in all cities.
+
+858
+00:50:29,309 --> 00:50:30,744
+Large and small.
+
+859
+00:50:33,112 --> 00:50:34,947
+Pretty messed up, right?
+
+860
+00:50:43,655 --> 00:50:46,192
+We got a distress call
+coming from the east coast.
+
+861
+00:50:46,257 --> 00:50:48,760
+They're all over Europe, going
+from building to building,
+
+862
+00:50:48,827 --> 00:50:52,597
+street to street,
+wiping 'em all out.
+
+863
+00:50:52,664 --> 00:50:53,998
+Wait, are these
+the ARES sentinels
+
+864
+00:50:54,065 --> 00:50:55,000
+that Red Dragon mentioned?
+
+865
+00:50:55,067 --> 00:50:56,635
+Yep.
+
+866
+00:50:56,702 --> 00:50:58,038
+We just can't stand down,
+
+867
+00:50:58,103 --> 00:51:01,373
+not without armor-piercing
+ammo at least.
+
+868
+00:51:01,440 --> 00:51:03,141
+Just to know what you guys
+are up against,
+
+869
+00:51:03,208 --> 00:51:06,611
+they're taking out
+oil refineries, gas stations,
+
+870
+00:51:06,679 --> 00:51:08,180
+just blowing 'em up.
+
+871
+00:51:08,246 --> 00:51:12,150
+Uh, listen...
+
+872
+00:51:12,217 --> 00:51:13,353
+We know.
+
+873
+00:51:14,887 --> 00:51:17,057
+We knew about Red Dragon
+the second it happened.
+
+874
+00:51:19,425 --> 00:51:20,894
+Years back, she sent me this.
+
+875
+00:51:22,295 --> 00:51:23,596
+What is it?
+
+876
+00:51:25,465 --> 00:51:27,066
+It's a fail-safe.
+
+877
+00:51:27,132 --> 00:51:28,766
+One lights up blue to check in.
+
+878
+00:51:28,833 --> 00:51:31,636
+Red for help,
+green means she uploaded
+
+879
+00:51:31,704 --> 00:51:34,373
+some kind of info into
+our private server.
+
+880
+00:51:34,440 --> 00:51:36,208
+If both are black...
+
+881
+00:51:36,275 --> 00:51:37,610
+Means her heart stopped.
+
+882
+00:51:40,280 --> 00:51:41,715
+She talked a lot about you.
+
+883
+00:51:42,681 --> 00:51:44,483
+She told me to give this to you.
+
+884
+00:51:50,356 --> 00:51:51,758
+Thank you.
+
+885
+00:51:54,027 --> 00:51:56,262
+There's an RIFD chip
+on the back.
+
+886
+00:51:56,329 --> 00:51:57,964
+I know.
+
+887
+00:51:58,030 --> 00:51:59,698
+Do you know what for?
+
+888
+00:51:59,764 --> 00:52:00,665
+No.
+
+889
+00:52:00,733 --> 00:52:02,168
+You're safe here for a minute.
+
+890
+00:52:02,233 --> 00:52:04,703
+Relax for a second and
+take anything you need.
+
+891
+00:52:04,771 --> 00:52:06,506
+These walls are lead-lined.
+
+892
+00:52:06,572 --> 00:52:09,175
+And there's cameras up
+all over the place.
+
+893
+00:52:09,242 --> 00:52:11,010
+It used to be a mechanic's shop.
+
+894
+00:52:11,077 --> 00:52:15,882
+We can put your truck on stilts,
+check it out if you like.
+
+895
+00:52:15,949 --> 00:52:16,916
+Shit!
+
+896
+00:52:20,786 --> 00:52:22,253
+Yeah.
+
+897
+00:52:22,320 --> 00:52:25,557
+Yeah, all right, as long as
+there's no oil or gas leaks.
+
+898
+00:52:25,623 --> 00:52:27,725
+We don't wanna
+waste too much time.
+
+899
+00:52:27,793 --> 00:52:30,128
+Maybe we could check if
+there's a tracker on it?
+
+900
+00:52:30,195 --> 00:52:33,132
+Hopefully, this is enough
+to get us to the Spaceport.
+
+901
+00:52:33,199 --> 00:52:34,567
+Let's hope so.
+
+902
+00:52:34,634 --> 00:52:36,101
+Especially with what
+you're up against.
+
+903
+00:52:36,168 --> 00:52:37,869
+And we'll stock the truck
+with gas, food and water.
+
+904
+00:52:37,936 --> 00:52:40,271
+Yo, look at this!
+
+905
+00:52:40,338 --> 00:52:41,974
+Hey, hey, hey!
+
+906
+00:52:42,041 --> 00:52:43,443
+It's loaded, man.
+
+907
+00:52:51,516 --> 00:52:52,851
+Is that a good luck charm?
+
+908
+00:52:54,920 --> 00:52:56,922
+Sort of, yeah.
+
+909
+00:52:56,989 --> 00:52:58,424
+It's kind of helps center me.
+
+910
+00:53:01,193 --> 00:53:02,762
+It was my dad's.
+
+911
+00:53:02,829 --> 00:53:04,397
+He was spinning it
+the first time
+
+912
+00:53:04,463 --> 00:53:06,431
+he taught me quantum computing.
+
+913
+00:53:06,498 --> 00:53:10,669
+I thought I knew so much about
+hacking and coding as a kid.
+
+914
+00:53:10,737 --> 00:53:12,405
+Like I had all the
+secrets to the universe
+
+915
+00:53:12,472 --> 00:53:14,674
+figured out in zeroes and ones.
+
+916
+00:53:18,978 --> 00:53:21,114
+- Then he showed me.
+- Showed you what?
+
+917
+00:53:23,114 --> 00:53:26,985
+If I asked you to call it
+on a flip, heads or tails,
+
+918
+00:53:27,052 --> 00:53:28,221
+could you do it?
+
+919
+00:53:30,255 --> 00:53:31,990
+Sure.
+Heads.
+
+920
+00:53:33,092 --> 00:53:34,527
+Tails?
+
+921
+00:53:37,262 --> 00:53:39,297
+Derek's right.
+Heads.
+
+922
+00:53:39,364 --> 00:53:41,666
+And that's basic code.
+
+923
+00:53:41,733 --> 00:53:43,569
+Its either a one or a zero
+
+924
+00:53:43,635 --> 00:53:47,039
+and it's a 50-50 shot that
+either you or I get it right.
+
+925
+00:53:49,474 --> 00:53:53,278
+But what if it was spinning?
+
+926
+00:53:53,346 --> 00:53:55,481
+Could you call it?
+
+927
+00:53:55,547 --> 00:53:56,781
+I don't know.
+
+928
+00:53:56,849 --> 00:53:59,184
+- Heads?
+- Tails.
+
+929
+00:53:59,251 --> 00:54:02,187
+You're both right.
+
+930
+00:54:02,253 --> 00:54:05,924
+See, when it's spinning,
+
+931
+00:54:05,992 --> 00:54:08,861
+it's in a state
+of super position,
+
+932
+00:54:08,927 --> 00:54:10,530
+which means that it's both.
+
+933
+00:54:11,697 --> 00:54:13,666
+See? Tails. I called it.
+
+934
+00:54:13,731 --> 00:54:16,402
+In the quantum world,
+Qbits become entangled,
+
+935
+00:54:16,469 --> 00:54:18,070
+so no matter how they land,
+
+936
+00:54:18,137 --> 00:54:20,606
+they always influence and
+affect each other.
+
+937
+00:54:22,641 --> 00:54:24,876
+It's kind of like us.
+
+938
+00:54:24,943 --> 00:54:26,646
+Whoever we become
+entangled with
+
+939
+00:54:26,713 --> 00:54:29,716
+eventually becomes part
+of our solution.
+
+940
+00:54:31,317 --> 00:54:33,552
+I'm more of a heads
+or tails guy.
+
+941
+00:54:33,619 --> 00:54:35,521
+I like to know my odds.
+
+942
+00:54:35,588 --> 00:54:37,190
+Quiet!
+
+943
+00:54:43,228 --> 00:54:44,630
+I don't hear it anymore.
+
+944
+00:54:45,731 --> 00:54:47,267
+Maybe it's gone.
+
+945
+00:54:50,402 --> 00:54:53,438
+[steady beeping]
+
+946
+00:54:53,505 --> 00:54:57,542
+I think that's Dr. Marietta
+trying to give us a signal.
+
+947
+00:54:57,610 --> 00:55:00,246
+Tara? You there?
+Tara?
+
+948
+00:55:00,313 --> 00:55:02,280
+<i>Wilson, get off the line.</i>
+
+949
+00:55:02,347 --> 00:55:03,916
+We have a few minutes.
+
+950
+00:55:03,983 --> 00:55:07,119
+I'm doing some IR bouncing,
+back to my ghosting days.
+
+951
+00:55:07,186 --> 00:55:08,253
+<i>Where are you?</i>
+
+952
+00:55:08,320 --> 00:55:09,722
+Right outside Spaceport.
+
+953
+00:55:09,789 --> 00:55:11,256
+Zee's been working out
+the Qbit functions
+
+954
+00:55:11,322 --> 00:55:14,225
+to determine MEDUSA's
+rate of expansion.
+
+955
+00:55:14,293 --> 00:55:17,697
+We got a little less than
+85 minutes before it's too late.
+
+956
+00:55:17,764 --> 00:55:19,097
+Can you do that?
+
+957
+00:55:19,164 --> 00:55:20,566
+I don't think I can do
+much without you.
+
+958
+00:55:20,632 --> 00:55:22,366
+<i>Yeah, I can do that.</i>
+
+959
+00:55:22,434 --> 00:55:26,506
+Tara, you're the only one
+truly fluent in its language,
+
+960
+00:55:26,572 --> 00:55:30,610
+but you will need me to map
+that interface for you.
+
+961
+00:55:30,675 --> 00:55:32,545
+You might need
+Dr. Marietta's help.
+
+962
+00:55:32,610 --> 00:55:34,446
+So he is alive?
+
+963
+00:55:34,512 --> 00:55:36,114
+Last I saw him.
+
+964
+00:55:36,181 --> 00:55:37,817
+He was heading in the bunker
+with your father.
+
+965
+00:55:39,184 --> 00:55:41,320
+The bunker looks
+like an ancient doorway.
+
+966
+00:55:41,387 --> 00:55:42,822
+I don't know why.
+
+967
+00:55:42,887 --> 00:55:45,123
+It has a smart lock system
+that I powered down.
+
+968
+00:55:45,190 --> 00:55:47,458
+But it can't be opened
+unless he powers it up,
+
+969
+00:55:47,525 --> 00:55:48,893
+drawing the drones.
+
+970
+00:55:48,960 --> 00:55:50,361
+<i>We'll get there ASAP.</i>
+
+971
+00:55:50,429 --> 00:55:52,164
+<i>We're armed with
+mechanical weapons</i>
+
+972
+00:55:52,231 --> 00:55:54,200
+<i>and an old school car
+they can't trace.</i>
+
+973
+00:55:54,266 --> 00:55:57,469
+<i>As for Dr. Marietta, we'll
+bring tools and manpower</i>
+
+974
+00:55:57,536 --> 00:55:58,936
+<i>to pry open the lock manually.</i>
+
+975
+00:55:59,003 --> 00:56:02,607
+No, no! He's sealed
+until it powers up.
+
+976
+00:56:02,675 --> 00:56:04,010
+If I engage the locks
+and try to leave,
+
+977
+00:56:04,076 --> 00:56:06,378
+it'll instantly attract
+their attention.
+
+978
+00:56:06,445 --> 00:56:08,080
+<i>We got inbound hostiles!</i>
+
+979
+00:56:08,146 --> 00:56:10,148
+<i>We need to get you packed
+and out of here now!</i>
+
+980
+00:56:10,215 --> 00:56:11,149
+<i>Wilson, I...</i>
+
+981
+00:56:11,215 --> 00:56:12,484
+[static]
+
+982
+00:56:12,552 --> 00:56:13,684
+What's happening?
+
+983
+00:56:13,751 --> 00:56:15,353
+You lose connection?
+
+984
+00:56:15,420 --> 00:56:16,722
+No, this is on her end.
+
+985
+00:56:25,398 --> 00:56:27,798
+And, remember,
+they can't get in.
+
+986
+00:56:27,865 --> 00:56:29,302
+Are you sure about that?
+
+987
+00:56:31,536 --> 00:56:33,005
+Holy shit!
+
+988
+00:56:35,807 --> 00:56:37,876
+I'm gonna activate the shield.
+
+989
+00:56:37,943 --> 00:56:39,311
+It's go time!
+
+990
+00:56:41,414 --> 00:56:42,681
+Guys, we gotta get out of here.
+
+991
+00:56:42,748 --> 00:56:43,950
+Shh!
+
+992
+00:56:45,784 --> 00:56:47,953
+They know we're here!
+We gotta go now!
+
+993
+00:57:02,701 --> 00:57:03,969
+[shouting]
+
+994
+00:57:08,373 --> 00:57:09,741
+Move!
+
+995
+00:57:15,380 --> 00:57:17,715
+Ah!
+
+996
+00:57:17,782 --> 00:57:19,384
+Cici!
+What are you doing?
+
+997
+00:57:19,452 --> 00:57:22,188
+[screams]
+
+998
+00:57:23,521 --> 00:57:24,891
+No!
+
+999
+00:57:32,998 --> 00:57:34,700
+I seen the specs on ARES.
+
+1000
+00:57:34,766 --> 00:57:36,534
+We can't outrun 'em,
+we can't outfight 'em.
+
+1001
+00:57:36,601 --> 00:57:37,568
+The Red Dragon software!
+
+1002
+00:57:37,635 --> 00:57:38,936
+Did you download it?
+
+1003
+00:57:39,003 --> 00:57:40,139
+The invisibility cloak?
+Doing it now.
+
+1004
+00:57:41,005 --> 00:57:42,406
+What are you doing?
+
+1005
+00:57:42,474 --> 00:57:43,709
+This shield refracts
+light and absorbs heat,
+
+1006
+00:57:43,775 --> 00:57:44,710
+making us invisible to them.
+
+1007
+00:57:44,777 --> 00:57:46,913
+I hope this works!
+
+1008
+00:58:21,246 --> 00:58:22,981
+Red Dragon gave us this
+old school car
+
+1009
+00:58:23,047 --> 00:58:24,382
+so we wouldn't be detected.
+
+1010
+00:58:24,449 --> 00:58:25,916
+That's why I drive
+these type of cars.
+
+1011
+00:58:25,983 --> 00:58:28,152
+You guys have
+everything you... ah!
+
+1012
+00:58:28,219 --> 00:58:30,522
+- Oh! Derek!
+- Shit!
+
+1013
+00:58:30,590 --> 00:58:31,789
+- I got it, go!
+- Damn it!
+
+1014
+00:58:31,856 --> 00:58:33,092
+Go!
+
+1015
+00:58:34,626 --> 00:58:37,196
+[grunting]
+
+1016
+00:58:55,614 --> 00:58:57,349
+Ah!
+
+1017
+00:59:20,606 --> 00:59:21,908
+How are you doing?
+
+1018
+00:59:23,541 --> 00:59:25,110
+What the hell is that?
+
+1019
+00:59:32,583 --> 00:59:33,951
+You gotta be shitting me.
+
+1020
+00:59:34,018 --> 00:59:35,387
+What do we do?
+
+1021
+00:59:37,889 --> 00:59:39,291
+Let's see what Derek gave us.
+
+1022
+00:59:51,469 --> 00:59:53,504
+RPG Grenade Launcher!
+
+1023
+00:59:53,572 --> 00:59:55,173
+You ready for this?
+
+1024
+01:00:04,916 --> 01:00:06,318
+Keep it steady!
+
+1025
+01:00:07,918 --> 01:00:09,288
+I'm trying!
+
+1026
+01:00:10,356 --> 01:00:11,424
+Get closer!
+
+1027
+01:00:16,027 --> 01:00:19,097
+- Closer!
+- I'm driving!
+
+1028
+01:00:20,865 --> 01:00:22,068
+Jorge!
+
+1029
+01:00:22,134 --> 01:00:23,969
+I'm trying!
+
+1030
+01:00:25,670 --> 01:00:27,105
+Ah!
+
+1031
+01:00:29,875 --> 01:00:31,409
+Yah!
+
+1032
+01:00:40,753 --> 01:00:42,487
+This is bad, Zee.
+
+1033
+01:00:42,554 --> 01:00:45,257
+There's ARES and drones
+patrolling this whole area.
+
+1034
+01:00:45,324 --> 01:00:47,159
+I hope Tara has
+more firepower than this.
+
+1035
+01:00:47,226 --> 01:00:49,461
+Hey, my IEDs got us
+this far, didn't they?
+
+1036
+01:00:52,764 --> 01:00:55,468
+She's tough, okay?
+
+1037
+01:00:55,534 --> 01:00:58,470
+She kicked our butts in
+the hacking competition.
+
+1038
+01:00:58,536 --> 01:00:59,672
+She'll be here.
+
+1039
+01:01:04,409 --> 01:01:06,177
+You know you can't use that,
+
+1040
+01:01:06,244 --> 01:01:08,079
+not now,
+not when we're so close.
+
+1041
+01:01:08,146 --> 01:01:09,248
+I know. I...
+
+1042
+01:01:09,315 --> 01:01:11,150
+I just wanna know if she's okay.
+
+1043
+01:01:11,215 --> 01:01:12,918
+She's fine.
+
+1044
+01:01:14,353 --> 01:01:16,954
+- Oh! Damn it!
+- Whoa!
+
+1045
+01:01:17,021 --> 01:01:18,690
+- Jorge!
+- Jorge!
+
+1046
+01:01:18,757 --> 01:01:20,224
+Jorge!
+
+1047
+01:01:20,291 --> 01:01:22,494
+Oh, my God, you scared me, man.
+
+1048
+01:01:23,661 --> 01:01:24,864
+Where's Tara?
+
+1049
+01:01:24,929 --> 01:01:26,764
+She still at
+the bunker or...
+
+1050
+01:01:26,831 --> 01:01:28,166
+No.
+
+1051
+01:01:29,635 --> 01:01:30,669
+What?
+
+1052
+01:01:30,735 --> 01:01:32,438
+She... she...
+
+1053
+01:01:32,505 --> 01:01:34,972
+The ARES, they're
+getting massive updates
+
+1054
+01:01:35,039 --> 01:01:36,675
+every nanosecond.
+
+1055
+01:01:36,740 --> 01:01:37,876
+They came out of nowhere.
+
+1056
+01:01:37,943 --> 01:01:39,345
+I'm so sorry.
+
+1057
+01:01:41,246 --> 01:01:42,581
+We need to find Marietta.
+
+1058
+01:01:42,648 --> 01:01:44,615
+He can put a stop to this.
+
+1059
+01:01:44,682 --> 01:01:46,284
+Just grab what you need.
+
+1060
+01:01:46,351 --> 01:01:47,786
+I don't know what I need.
+
+1061
+01:01:47,853 --> 01:01:49,253
+Then don't grab anything, right?
+
+1062
+01:01:49,320 --> 01:01:51,222
+Come on!
+Let's go!
+
+1063
+01:01:53,893 --> 01:01:56,262
+Okay?
+
+1064
+01:01:58,664 --> 01:02:00,098
+[Jorge] Are you sure that
+using the drone brain
+
+1065
+01:02:00,164 --> 01:02:01,733
+to trigger the lock
+is going to work?
+
+1066
+01:02:01,800 --> 01:02:03,669
+I mean, it still shares
+the same formatting protocols
+
+1067
+01:02:03,735 --> 01:02:05,570
+as the AI.
+
+1068
+01:02:05,637 --> 01:02:07,538
+[Wilson] That's exactly why
+it won't get the AI's attention.
+
+1069
+01:02:07,606 --> 01:02:10,342
+The AI will read it
+as a drone trigger
+
+1070
+01:02:10,409 --> 01:02:12,144
+in the lock instead
+of a person
+
+1071
+01:02:12,210 --> 01:02:14,679
+as part of its
+safety protocol, right?
+
+1072
+01:02:14,746 --> 01:02:20,085
+So if we do want to destroy
+the ARES and the drones,
+
+1073
+01:02:20,152 --> 01:02:23,856
+then Jorge and I already
+worked it out. All right?
+
+1074
+01:02:23,922 --> 01:02:28,126
+Even the smartest AI
+doesn't think like us.
+
+1075
+01:02:28,193 --> 01:02:30,328
+It does everything
+
+1076
+01:02:30,394 --> 01:02:34,365
+in the most perfect
+way possible.
+
+1077
+01:02:34,432 --> 01:02:37,668
+It doesn't take into account
+the quantity of people
+
+1078
+01:02:37,735 --> 01:02:41,005
+or the amount of those
+who are heavily armed.
+
+1079
+01:02:41,072 --> 01:02:46,411
+So once we destroy that ARES
+and we get the doctor out,
+
+1080
+01:02:48,246 --> 01:02:51,216
+we send Jorge with the
+majority of our weapons.
+
+1081
+01:02:51,282 --> 01:02:55,186
+And then Zee, you and I,
+we go to the Spaceport.
+
+1082
+01:02:55,253 --> 01:02:57,155
+What do you mean,
+the majority of our weapons?
+
+1083
+01:02:57,222 --> 01:02:59,291
+Whoever has the most weapons
+and is using them
+
+1084
+01:02:59,358 --> 01:03:01,427
+on the robots will be perceived
+as the bigger threat.
+
+1085
+01:03:02,661 --> 01:03:04,596
+Yeah.
+
+1086
+01:03:04,663 --> 01:03:08,367
+MEDUSA is constantly calibrating
+its responses to our decisions.
+
+1087
+01:03:08,432 --> 01:03:11,170
+It knows we're headed here.
+
+1088
+01:03:11,235 --> 01:03:12,871
+It knows that
+we can't hack into it
+
+1089
+01:03:12,936 --> 01:03:14,806
+from the outside and
+it knows that we're armed.
+
+1090
+01:03:14,873 --> 01:03:16,742
+So it's going to assume
+that we'll shoot our way in.
+
+1091
+01:03:16,809 --> 01:03:18,410
+It'll break ranks.
+
+1092
+01:03:18,476 --> 01:03:20,445
+And when it does that,
+it'll send the most robots
+
+1093
+01:03:20,512 --> 01:03:22,313
+after whoever
+has the most weapons.
+
+1094
+01:03:22,380 --> 01:03:24,082
+Can't go after
+every dog that barks.
+
+1095
+01:03:24,148 --> 01:03:26,484
+But once it runs
+facial recognition on you,
+
+1096
+01:03:26,550 --> 01:03:29,387
+MEDUSA's gonna ignore
+every distraction
+
+1097
+01:03:29,454 --> 01:03:31,756
+and just send all the drones
+straight to you.
+
+1098
+01:03:31,822 --> 01:03:33,391
+Doesn't matter.
+
+1099
+01:03:33,458 --> 01:03:35,260
+It'll buy us some time.
+
+1100
+01:03:35,327 --> 01:03:37,029
+I'll do it.
+
+1101
+01:03:37,094 --> 01:03:39,230
+I'll be the bait, not Jorge.
+
+1102
+01:03:39,297 --> 01:03:40,765
+No, no!
+It should be me!
+
+1103
+01:03:40,833 --> 01:03:43,501
+The two of you need to get
+to Dr. Marietta.
+
+1104
+01:03:43,568 --> 01:03:47,072
+I got the weapons
+to distract it.
+
+1105
+01:03:47,139 --> 01:03:48,407
+Wow, I...
+
+1106
+01:03:48,474 --> 01:03:50,576
+Thank me by destroying
+these things.
+
+1107
+01:03:52,043 --> 01:03:53,878
+Okay, we crossed
+a bridge back there.
+
+1108
+01:03:53,945 --> 01:03:57,549
+I'm gonna draw them to it
+and use it as a trap.
+
+1109
+01:04:03,320 --> 01:04:04,623
+See you guys soon, right?
+
+1110
+01:04:04,690 --> 01:04:06,291
+Yeah.
+
+1111
+01:04:07,159 --> 01:04:08,527
+Come on.
+
+1112
+01:04:08,592 --> 01:04:10,627
+Dr. Marietta is
+in a bunker over there.
+
+1113
+01:04:10,695 --> 01:04:11,764
+Come on.
+
+1114
+01:04:18,469 --> 01:04:20,071
+Kind of conspicuous for
+a hidden underground bunker,
+
+1115
+01:04:20,137 --> 01:04:21,574
+don't you think?
+
+1116
+01:04:21,639 --> 01:04:24,342
+That's the logic.
+Hide things in plain sight.
+
+1117
+01:04:24,409 --> 01:04:26,110
+Plus, if people do
+go up to it...
+
+1118
+01:04:26,177 --> 01:04:27,612
+They get in trouble.
+
+1119
+01:04:27,679 --> 01:04:30,416
+No.
+It triggers MEDUSA.
+
+1120
+01:04:55,773 --> 01:04:58,676
+That's Zee.
+She's still shooting.
+
+1121
+01:04:58,744 --> 01:05:00,245
+Just focus.
+
+1122
+01:05:00,311 --> 01:05:02,313
+Wilson!
+
+1123
+01:05:03,282 --> 01:05:05,117
+Wilson?
+
+1124
+01:05:05,182 --> 01:05:07,585
+I can't believe it, Wilson.
+
+1125
+01:05:07,652 --> 01:05:09,587
+And I don't know who you are,
+
+1126
+01:05:09,653 --> 01:05:12,157
+but you're my favorite
+person in the whole world.
+
+1127
+01:05:13,858 --> 01:05:15,360
+I'm Jorge.
+
+1128
+01:05:15,425 --> 01:05:18,230
+I used to work with...
+
+1129
+01:05:18,297 --> 01:05:20,965
+Tara's dead.
+
+1130
+01:05:21,032 --> 01:05:22,168
+One of the ARES got her.
+
+1131
+01:05:23,402 --> 01:05:25,436
+I'm sorry.
+It's all my fault.
+
+1132
+01:05:25,503 --> 01:05:27,472
+Doctor, what do we need to do?
+
+1133
+01:05:27,539 --> 01:05:30,275
+- [banging sound]
+- What's that?
+
+1134
+01:05:30,342 --> 01:05:32,277
+I think they're trying
+to get in!
+
+1135
+01:05:32,344 --> 01:05:34,045
+They're getting smarter.
+
+1136
+01:05:34,112 --> 01:05:35,814
+Look, when I locked myself in,
+
+1137
+01:05:35,880 --> 01:05:37,982
+I figured I could take
+the communications tunnel
+
+1138
+01:05:38,050 --> 01:05:39,418
+directly to base.
+
+1139
+01:05:39,485 --> 01:05:41,019
+But there are probably
+robots already
+
+1140
+01:05:41,085 --> 01:05:42,653
+approaching through there,
+We'd all be trapped.
+
+1141
+01:05:42,721 --> 01:05:44,822
+What if we trigger
+the EMP grenade in here?
+
+1142
+01:05:44,889 --> 01:05:46,290
+No, no, no.
+
+1143
+01:05:46,358 --> 01:05:47,459
+The bunker is steel
+reinforced, lead-lined.
+
+1144
+01:05:47,525 --> 01:05:49,027
+It's three feet thick.
+
+1145
+01:05:49,094 --> 01:05:50,829
+The pulse wouldn't even
+kill a phone on the roof.
+
+1146
+01:05:50,896 --> 01:05:53,932
+But it would surge
+through the computer console,
+
+1147
+01:05:53,998 --> 01:05:56,467
+blow up and likely kill us all.
+
+1148
+01:05:56,534 --> 01:05:57,769
+Ah!
+
+1149
+01:05:59,804 --> 01:06:01,507
+But you can
+communicate wirelessly?
+
+1150
+01:06:01,574 --> 01:06:02,740
+Yes, yes.
+
+1151
+01:06:02,807 --> 01:06:04,976
+There's a central antenna
+that runs
+
+1152
+01:06:05,043 --> 01:06:06,445
+from the console
+to a patch.
+
+1153
+01:06:06,512 --> 01:06:08,580
+- And it carries a current?
+- Exactly.
+
+1154
+01:06:08,646 --> 01:06:10,282
+Okay, well, if the pulse
+is electromagnetic
+
+1155
+01:06:10,349 --> 01:06:13,218
+then we get a couple of copper
+wires and create a solenoid.
+
+1156
+01:06:13,284 --> 01:06:14,353
+Yes!
+
+1157
+01:06:14,418 --> 01:06:16,054
+So the pulse we
+transferred from
+
+1158
+01:06:16,121 --> 01:06:18,023
+electromagnetic into electric.
+
+1159
+01:06:18,090 --> 01:06:19,257
+We fry them with electricity.
+
+1160
+01:06:19,324 --> 01:06:20,825
+It's a Tesla coil!
+
+1161
+01:06:20,891 --> 01:06:24,261
+But those grenades, they go
+off in only a few seconds!
+
+1162
+01:06:24,329 --> 01:06:26,198
+Not this time.
+
+1163
+01:06:26,264 --> 01:06:28,300
+I've got a bomb
+and I'm gonna recalibrate it
+
+1164
+01:06:28,367 --> 01:06:30,536
+to its original base function,
+
+1165
+01:06:30,601 --> 01:06:32,237
+give us enough time
+to reach the tunnel.
+
+1166
+01:06:32,304 --> 01:06:35,807
+But if you turn it on,
+won't it trigger more robots?
+
+1167
+01:06:37,275 --> 01:06:38,644
+The pulse will take them out.
+
+1168
+01:06:40,445 --> 01:06:41,913
+Jorge, I'm going to need
+you to go over there
+
+1169
+01:06:41,980 --> 01:06:42,914
+and grab the antenna wire.
+
+1170
+01:06:42,981 --> 01:06:44,416
+Marietta?
+
+1171
+01:06:44,481 --> 01:06:45,384
+Grab the cable and plug
+it up to the computer.
+
+1172
+01:06:45,451 --> 01:06:47,184
+Go, go, go!
+
+1173
+01:06:47,251 --> 01:06:48,487
+Move quickly, gentleman.
+
+1174
+01:06:48,554 --> 01:06:50,856
+Come on!
+Let's go, let's go!
+
+1175
+01:06:50,922 --> 01:06:53,157
+Right, uh... How much longer
+'til MEDUSA fully takes over?
+
+1176
+01:06:53,224 --> 01:06:54,559
+20 minutes, maybe less.
+
+1177
+01:06:54,626 --> 01:06:56,227
+There's like a
+thousand wires over here!
+
+1178
+01:06:56,293 --> 01:06:57,663
+Which one do we use?
+
+1179
+01:06:57,730 --> 01:07:01,099
+Uh, that one! That one!
+That one! Come on!
+
+1180
+01:07:01,166 --> 01:07:03,001
+Go, go, go, go, go!
+
+1181
+01:07:03,067 --> 01:07:05,103
+Wrap it around!
+
+1182
+01:07:05,170 --> 01:07:07,740
+Come on, guys!
+
+1183
+01:07:07,806 --> 01:07:09,106
+- Go, go!
+- Go!
+
+1184
+01:07:09,173 --> 01:07:11,476
+When we get in the tunnel,
+I'll open the door!
+
+1185
+01:07:23,755 --> 01:07:26,156
+We bought some distance
+from the robots.
+
+1186
+01:07:26,224 --> 01:07:28,059
+Not much, but some.
+
+1187
+01:07:28,126 --> 01:07:29,928
+Are there more on the way?
+
+1188
+01:07:29,994 --> 01:07:33,664
+The AIs already sizing up how
+much EMP firepower we have.
+
+1189
+01:07:33,731 --> 01:07:36,634
+It has to keep a radius until
+it can figure that out.
+
+1190
+01:07:36,701 --> 01:07:39,704
+It's probably already
+figured that out.
+
+1191
+01:07:39,771 --> 01:07:41,707
+Our electrical engineers
+have installed
+
+1192
+01:07:41,773 --> 01:07:43,875
+a punch code lock
+in the south doors
+
+1193
+01:07:43,942 --> 01:07:45,844
+to the electrical
+distribution room.
+
+1194
+01:07:45,909 --> 01:07:49,813
+It's an analog lock, a fail-safe
+in case of a major power outage.
+
+1195
+01:07:49,880 --> 01:07:52,850
+It's also protected by
+an electromagnetic shield.
+
+1196
+01:07:52,916 --> 01:07:57,255
+Your heartbeat can't be
+detected once you're in there.
+
+1197
+01:07:57,322 --> 01:07:59,458
+Once we're inside the building,
+
+1198
+01:07:59,525 --> 01:08:01,860
+we need to access
+the main programming room
+
+1199
+01:08:01,927 --> 01:08:03,595
+to access MEDUSA.
+
+1200
+01:08:03,661 --> 01:08:04,995
+I can enter the coding.
+
+1201
+01:08:05,063 --> 01:08:07,465
+There's a lot
+of ground to cover.
+
+1202
+01:08:07,532 --> 01:08:09,835
+And what if we can't stop it?
+
+1203
+01:08:11,735 --> 01:08:14,672
+What if we can't stop it?
+
+1204
+01:08:14,739 --> 01:08:17,375
+The three of us may die trying.
+
+1205
+01:08:17,442 --> 01:08:19,644
+But if we stop MEDUSA,
+the world lives.
+
+1206
+01:08:19,711 --> 01:08:23,115
+If we don't,
+if we do something wrong,
+
+1207
+01:08:23,181 --> 01:08:26,550
+MEDUSA lives and the world dies.
+
+1208
+01:08:26,618 --> 01:08:28,954
+Either way,
+there's no turning back.
+
+1209
+01:08:31,488 --> 01:08:32,924
+Let's finish this.
+
+1210
+01:08:35,927 --> 01:08:38,729
+We're gonna pass
+three security cameras.
+
+1211
+01:08:38,796 --> 01:08:41,399
+Once we pass the first one,
+it's gonna trigger an alarm
+
+1212
+01:08:41,466 --> 01:08:43,835
+and MEDUSA will send
+the robots to stop us.
+
+1213
+01:08:43,902 --> 01:08:46,136
+If we can enter into
+the program room fast enough,
+
+1214
+01:08:46,203 --> 01:08:49,807
+then we could shut the
+steel door and get to work.
+
+1215
+01:08:49,875 --> 01:08:51,342
+And hope that ARES
+doesn't break through
+
+1216
+01:08:51,409 --> 01:08:52,778
+before you finish the hack?
+
+1217
+01:08:55,113 --> 01:08:58,150
+I'll hit it with a powerful
+kill-all switch and distract it.
+
+1218
+01:09:00,719 --> 01:09:02,121
+What's that?
+
+1219
+01:09:03,255 --> 01:09:05,123
+Um, dog tags.
+
+1220
+01:09:05,189 --> 01:09:08,960
+Red Dragon and her
+cousin Derek gave us.
+
+1221
+01:09:09,027 --> 01:09:13,832
+Tara was wearing them
+when we were attacked.
+
+1222
+01:09:16,467 --> 01:09:17,603
+Wait.
+
+1223
+01:09:19,770 --> 01:09:22,474
+I need some time
+to enter the Sysconfig
+
+1224
+01:09:22,541 --> 01:09:26,144
+and turn off the analog motors
+
+1225
+01:09:26,211 --> 01:09:27,846
+and switch the capacheats.
+
+1226
+01:09:33,583 --> 01:09:35,519
+[alarm blaring]
+
+1227
+01:09:35,587 --> 01:09:37,422
+The programming
+center's just ahead.
+
+1228
+01:09:37,488 --> 01:09:38,989
+Look, if the ARES robots
+start firing,
+
+1229
+01:09:39,056 --> 01:09:41,925
+you shield Wilson,
+but don't stop firing back!
+
+1230
+01:09:41,993 --> 01:09:43,762
+Now wait here!
+
+1231
+01:09:45,229 --> 01:09:46,330
+<i>Access denied.</i>
+
+1232
+01:09:46,398 --> 01:09:47,766
+It's denying my security access.
+
+1233
+01:09:47,832 --> 01:09:49,635
+Shut it off manually!
+
+1234
+01:09:49,701 --> 01:09:51,936
+We'll have to get into the wall,
+but we don't have the tools!
+
+1235
+01:09:52,002 --> 01:09:53,171
+Oh, I got this!
+
+1236
+01:09:57,842 --> 01:09:58,809
+Hurry!
+
+1237
+01:09:58,877 --> 01:10:00,746
+Which one trips the shut-off?
+
+1238
+01:10:00,811 --> 01:10:01,947
+I'll cut them all!
+
+1239
+01:10:04,681 --> 01:10:06,117
+<i>Access granted.</i>
+
+1240
+01:10:07,217 --> 01:10:08,653
+Let's go.
+
+1241
+01:10:10,555 --> 01:10:12,824
+<i>Closing shield doors.</i>
+
+1242
+01:10:12,890 --> 01:10:14,658
+All right, there's a large
+port on the back of the console.
+
+1243
+01:10:14,725 --> 01:10:16,693
+You can access MEDUSA
+directly from there.
+
+1244
+01:10:16,761 --> 01:10:17,896
+Right, right, right!
+
+1245
+01:10:19,463 --> 01:10:21,166
+What is that?
+
+1246
+01:10:23,234 --> 01:10:26,103
+That's the NFX,
+a rescue robot Dr. Lopez,
+
+1247
+01:10:26,171 --> 01:10:28,974
+Dr. Marietta and I were working
+on to help rescue people.
+
+1248
+01:10:29,039 --> 01:10:30,542
+It was designed
+to pull people
+
+1249
+01:10:30,609 --> 01:10:32,143
+from collapsed buildings
+in disaster areas.
+
+1250
+01:10:32,210 --> 01:10:34,645
+We pulled it offline once
+MEDUSA malfunctioned.
+
+1251
+01:10:37,681 --> 01:10:38,617
+You hear that?
+
+1252
+01:10:38,682 --> 01:10:40,551
+<i>Access granted.</i>
+
+1253
+01:10:40,618 --> 01:10:42,520
+The door!
+
+1254
+01:10:47,091 --> 01:10:48,126
+Ah!
+
+1255
+01:10:55,634 --> 01:11:00,872
+Wilson, you cannot stop this.
+
+1256
+01:11:00,939 --> 01:11:02,774
+Jorge!
+
+1257
+01:11:02,841 --> 01:11:04,676
+Ah!
+
+1258
+01:11:04,743 --> 01:11:07,512
+Jorge! Jorge! Jorge!
+No, no, no!
+
+1259
+01:11:07,578 --> 01:11:08,512
+Jorge!
+Jorge!
+
+1260
+01:11:08,579 --> 01:11:09,514
+Help him!
+
+1261
+01:11:09,581 --> 01:11:10,515
+Jorge, come on, man!
+
+1262
+01:11:10,582 --> 01:11:11,817
+Come on, wake up, Jorge!
+
+1263
+01:11:11,882 --> 01:11:13,050
+- Jorge?
+- Keep the pressure on it!
+
+1264
+01:11:13,117 --> 01:11:14,552
+- Keep the pressure on!
+- Jorge!
+
+1265
+01:11:14,618 --> 01:11:17,021
+Jorge, come on, can you hear me?
+Jorge!
+
+1266
+01:11:17,087 --> 01:11:20,291
+MEDUSA is about to take over
+the world's military weapons!
+
+1267
+01:11:20,358 --> 01:11:22,159
+Doctor, Doctor, hand me the
+tablet! Hand me the tablet!
+
+1268
+01:11:22,226 --> 01:11:23,360
+Here, here, here.
+
+1269
+01:11:23,427 --> 01:11:24,863
+- All right.
+- Come on!
+
+1270
+01:11:24,929 --> 01:11:27,632
+That was Tara's dad's
+quantum tablet.
+
+1271
+01:11:27,698 --> 01:11:29,634
+But once you start
+entering the code,
+
+1272
+01:11:29,701 --> 01:11:30,969
+it's going to start
+trying to hack
+
+1273
+01:11:31,036 --> 01:11:33,570
+the quantum firewall
+on that tablet.
+
+1274
+01:11:33,637 --> 01:11:35,405
+- Oh...
+- Hang in there, buddy.
+
+1275
+01:11:35,472 --> 01:11:38,309
+The kill-all virus will take a
+few seconds for it to stop it.
+
+1276
+01:11:38,376 --> 01:11:42,713
+But that'll give me just enough
+time to enter in the data bomb.
+
+1277
+01:11:42,780 --> 01:11:43,981
+MEDUSA's system will shut down
+
+1278
+01:11:44,048 --> 01:11:45,649
+and stop its systems
+from frying.
+
+1279
+01:11:45,716 --> 01:11:48,351
+But that'll give me
+enough time to go at it.
+
+1280
+01:11:48,418 --> 01:11:50,188
+Hurry...
+
+1281
+01:11:55,859 --> 01:11:58,596
+<i>MEDUSA has entered
+standby mode.</i>
+
+1282
+01:12:10,140 --> 01:12:12,109
+Is it...
+
+1283
+01:12:12,176 --> 01:12:14,313
+No, not yet.
+
+1284
+01:12:14,378 --> 01:12:16,247
+It wouldn't work that fast.
+
+1285
+01:12:18,082 --> 01:12:19,683
+We were seconds away
+from MEDUSA
+
+1286
+01:12:19,751 --> 01:12:22,119
+taking over
+the world's nuclear arsenal.
+
+1287
+01:12:23,188 --> 01:12:24,590
+Hey...
+
+1288
+01:12:26,023 --> 01:12:28,293
+- Hey.
+- Oh, welcome back.
+
+1289
+01:12:30,795 --> 01:12:32,663
+Oh, man, dude.
+
+1290
+01:12:32,729 --> 01:12:34,431
+They shot this at you.
+
+1291
+01:12:34,498 --> 01:12:36,667
+- Really?
+- Yeah.
+
+1292
+01:12:38,536 --> 01:12:40,505
+Why is it still blinking?
+
+1293
+01:12:40,572 --> 01:12:42,106
+What?
+
+1294
+01:12:42,173 --> 01:12:43,207
+Let me see that.
+
+1295
+01:12:45,109 --> 01:12:46,277
+Doctor?
+
+1296
+01:12:48,646 --> 01:12:51,382
+MEDUSA transferred
+her AI into this...
+
+1297
+01:12:57,121 --> 01:12:58,288
+Oh!
+
+1298
+01:12:58,355 --> 01:12:59,322
+Come on, come on, come on!
+
+1299
+01:12:59,390 --> 01:13:00,792
+Come on!
+
+1300
+01:13:49,974 --> 01:13:51,710
+[Jorge] Why isn't it dead?
+
+1301
+01:13:51,775 --> 01:13:53,211
+MEDUSA transferred
+itself to another system!
+
+1302
+01:13:53,277 --> 01:13:55,980
+- What system?
+- It's just gone!
+
+1303
+01:13:56,046 --> 01:13:58,315
+Look, the kill-all virus
+should have slowed it down.
+
+1304
+01:13:58,381 --> 01:14:03,454
+But MEDUSA transmitted itself
+to a different mainframe.
+
+1305
+01:14:03,520 --> 01:14:06,157
+That shouldn't be
+possible unless it...
+
+1306
+01:14:06,224 --> 01:14:08,059
+unless it...
+
+1307
+01:14:08,126 --> 01:14:09,860
+it changed itself
+once it deployed.
+
+1308
+01:14:09,927 --> 01:14:12,730
+Oh, man, that means it wouldn't
+have slowed it down at all.
+
+1309
+01:14:12,797 --> 01:14:15,899
+So your virus didn't
+kill it at all?
+
+1310
+01:14:15,966 --> 01:14:18,502
+It turned into
+a modular firewall.
+
+1311
+01:14:18,569 --> 01:14:20,470
+It didn't slow it down.
+
+1312
+01:14:20,537 --> 01:14:21,706
+I helped it escape.
+
+1313
+01:14:29,581 --> 01:14:31,315
+I need help.
+
+1314
+01:14:31,381 --> 01:14:32,616
+Come on, come on,
+we're taking you outside.
+
+1315
+01:14:32,684 --> 01:14:34,085
+No, no.
+
+1316
+01:14:34,152 --> 01:14:35,720
+Just set me down in front
+of the computer here.
+
+1317
+01:14:35,786 --> 01:14:37,389
+- Be more use here.
+- All right.
+
+1318
+01:14:42,761 --> 01:14:43,961
+So what's the plan?
+
+1319
+01:14:44,028 --> 01:14:46,364
+MEDUSA is not going anywhere.
+
+1320
+01:14:47,899 --> 01:14:49,467
+And what makes you think that?
+
+1321
+01:14:49,533 --> 01:14:51,368
+Because she still wants us dead.
+
+1322
+01:14:53,337 --> 01:14:56,674
+There's only so much tech
+with a sliding base
+
+1323
+01:14:56,740 --> 01:15:00,144
+parallel to her Qbit shell.
+
+1324
+01:15:00,211 --> 01:15:03,748
+It has to be hiding
+in the machine at Spaceport.
+
+1325
+01:15:04,682 --> 01:15:05,615
+I'll find it.
+
+1326
+01:15:05,682 --> 01:15:06,984
+No.
+
+1327
+01:15:07,051 --> 01:15:07,986
+You click one
+button on that computer,
+
+1328
+01:15:08,051 --> 01:15:10,688
+MEDUSA will find you.
+
+1329
+01:15:10,755 --> 01:15:12,490
+Stay here.
+I'll look.
+
+1330
+01:15:12,556 --> 01:15:14,057
+Reinforce the door
+and turn your radio on
+
+1331
+01:15:14,125 --> 01:15:15,993
+just in case I need you
+to go online.
+
+1332
+01:15:18,762 --> 01:15:19,965
+I'm coming with you.
+
+1333
+01:15:35,747 --> 01:15:38,115
+[explosion]
+
+1334
+01:15:40,385 --> 01:15:41,787
+[explosion]
+
+1335
+01:15:49,261 --> 01:15:50,362
+Found it.
+
+1336
+01:15:54,865 --> 01:15:56,868
+MEDUSA's in that?
+
+1337
+01:15:56,935 --> 01:15:58,302
+That?
+
+1338
+01:15:58,368 --> 01:15:59,304
+Yep.
+
+1339
+01:16:02,340 --> 01:16:03,842
+Run!
+
+1340
+01:16:13,885 --> 01:16:15,019
+We need to split up!
+
+1341
+01:16:15,086 --> 01:16:16,421
+No, we need a plan!
+
+1342
+01:16:18,855 --> 01:16:20,190
+I have a plan!
+
+1343
+01:16:20,256 --> 01:16:22,460
+All right,
+turn on your radio!
+
+1344
+01:16:22,525 --> 01:16:24,161
+All right.
+
+1345
+01:16:24,228 --> 01:16:26,764
+All right, listen for my orders
+and get the ARES to follow you!
+
+1346
+01:16:26,831 --> 01:16:28,365
+- Okay?
+- Got it.
+
+1347
+01:16:46,684 --> 01:16:48,220
+Ah!
+
+1348
+01:16:57,427 --> 01:16:58,997
+[static]
+
+1349
+01:17:00,297 --> 01:17:02,434
+Dr. Marietta!
+Dr. Marietta!
+
+1350
+01:17:04,702 --> 01:17:06,904
+All right, I'm here.
+
+1351
+01:17:06,970 --> 01:17:08,738
+MEDUSA is in
+the NFX rescue robot!
+
+1352
+01:17:08,805 --> 01:17:12,476
+You said you'd get here and map
+a mainframe to help me.
+
+1353
+01:17:12,543 --> 01:17:14,412
+Well, now's your chance!
+
+1354
+01:17:14,479 --> 01:17:16,614
+Lead me to MEDUSA's new brain.
+
+1355
+01:17:16,680 --> 01:17:18,215
+All right, mapping now.
+
+1356
+01:17:20,518 --> 01:17:21,618
+Have you found it yet?
+
+1357
+01:17:21,685 --> 01:17:23,420
+Have you found it yet?
+Do a heat scan,
+
+1358
+01:17:23,487 --> 01:17:26,024
+see where most
+of the heat is generating.
+
+1359
+01:17:27,524 --> 01:17:30,094
+All right, the
+mainframe is located
+
+1360
+01:17:30,161 --> 01:17:32,463
+in the chest cavity
+of the robot.
+
+1361
+01:17:35,065 --> 01:17:36,967
+I knew it!
+
+1362
+01:17:37,034 --> 01:17:38,202
+What?
+
+1363
+01:17:39,304 --> 01:17:42,407
+Wilson!
+Wilson!
+
+1364
+01:17:43,475 --> 01:17:44,942
+Jorge?
+
+1365
+01:17:45,009 --> 01:17:46,211
+Jorge, can you hear me?
+
+1366
+01:17:50,047 --> 01:17:51,448
+Oh...
+
+1367
+01:17:56,287 --> 01:17:57,689
+Ah!
+
+1368
+01:18:02,393 --> 01:18:03,395
+Wilson?
+
+1369
+01:18:05,496 --> 01:18:06,297
+Wilson?
+
+1370
+01:18:06,363 --> 01:18:08,231
+<i>Jorge, are you okay?</i>
+
+1371
+01:18:08,298 --> 01:18:10,134
+<i>Yeah, I'll live.</i>
+
+1372
+01:18:10,201 --> 01:18:12,069
+Are you in an area where you
+can make a lot of noise?
+
+1373
+01:18:12,136 --> 01:18:14,339
+<i>Uh, yeah, I think so.</i>
+
+1374
+01:18:14,404 --> 01:18:17,708
+I need you to lure
+the ARES robots away.
+
+1375
+01:18:17,775 --> 01:18:18,975
+Can you do that?
+
+1376
+01:18:19,042 --> 01:18:21,211
+<i>Yes.
+Yeah, I can do that.</i>
+
+1377
+01:18:21,279 --> 01:18:23,014
+<i>Hey! Hey, robots,
+I'm down here!</i>
+
+1378
+01:18:23,079 --> 01:18:25,283
+<i>Come and get me!</i>
+
+1379
+01:18:51,176 --> 01:18:52,576
+I'm in!
+
+1380
+01:18:52,643 --> 01:18:54,779
+<i>Good.
+Where's you friend, Jorge?</i>
+
+1381
+01:18:54,845 --> 01:18:56,314
+Hopefully safe.
+
+1382
+01:18:58,882 --> 01:19:00,951
+Robots!
+Hey!
+
+1383
+01:19:01,018 --> 01:19:02,153
+Wilson!
+
+1384
+01:19:03,755 --> 01:19:05,422
+Oh, no.
+
+1385
+01:19:09,761 --> 01:19:11,730
+How far are you?
+
+1386
+01:19:12,796 --> 01:19:14,030
+Close, I hope!
+
+1387
+01:19:14,097 --> 01:19:15,932
+What are you trying to do?
+
+1388
+01:19:16,000 --> 01:19:17,600
+This thing's got a brain.
+
+1389
+01:19:17,667 --> 01:19:19,702
+Well, I'm about to
+give it a heart.
+
+1390
+01:19:19,770 --> 01:19:21,973
+What, make it nicer?
+
+1391
+01:19:22,038 --> 01:19:23,774
+No. Make it a target.
+
+1392
+01:19:26,210 --> 01:19:28,413
+What's that?
+
+1393
+01:19:28,479 --> 01:19:30,781
+We are running out of time here.
+
+1394
+01:19:38,588 --> 01:19:40,158
+I'm here!
+
+1395
+01:19:46,264 --> 01:19:49,300
+I'm in front of the motherboard
+and I'm prying it open!
+
+1396
+01:19:49,367 --> 01:19:51,201
+All right, once you pull
+that processor,
+
+1397
+01:19:51,268 --> 01:19:52,604
+we can hack it directly.
+
+1398
+01:19:56,306 --> 01:19:57,675
+<i>All right, it's out!</i>
+
+1399
+01:19:57,742 --> 01:20:00,744
+Wilson, it knows
+you're inside the robot.
+
+1400
+01:20:00,811 --> 01:20:03,213
+<i>MEDUSA is launching
+nukes across the globe.</i>
+
+1401
+01:20:03,280 --> 01:20:05,048
+<i>It's now or never.</i>
+
+1402
+01:20:05,115 --> 01:20:08,019
+<i>Yeah, well, now it's going to
+have my heartbeat inside of it!</i>
+
+1403
+01:20:08,085 --> 01:20:11,387
+<i>And every robot within firing
+distance is going to detect it</i>
+
+1404
+01:20:11,454 --> 01:20:13,091
+<i>and shred this thing!</i>
+
+1405
+01:20:14,591 --> 01:20:16,960
+<i>I've got it!
+It's coming from the intercom!</i>
+
+1406
+01:20:17,028 --> 01:20:19,030
+<i>It's feeding into the system
+as an algorithm!</i>
+
+1407
+01:20:19,095 --> 01:20:21,465
+All right. Climb inside
+the steel reinforced casing
+
+1408
+01:20:21,532 --> 01:20:22,734
+and hurry!
+
+1409
+01:20:48,493 --> 01:20:50,762
+MEDUSA is transmitting
+your heartbeat
+
+1410
+01:20:50,828 --> 01:20:52,630
+to every robot in the world.
+
+1411
+01:20:52,697 --> 01:20:55,565
+<i>The robots think it's
+a living human being now!</i>
+
+1412
+01:20:55,631 --> 01:20:58,735
+<i>It'll use every robot
+to attack itself!</i>
+
+1413
+01:20:58,802 --> 01:21:02,873
+<i>It's working, Wilson, but
+you're still inside the target.</i>
+
+1414
+01:21:02,939 --> 01:21:04,141
+<i>Brace yourself.</i>
+
+1415
+01:21:29,832 --> 01:21:30,934
+<i>Come in, Wilson.</i>
+
+1416
+01:21:31,002 --> 01:21:32,403
+<i>Wilson?
+Are you okay?</i>
+
+1417
+01:21:37,007 --> 01:21:38,809
+I'm on my way.
+
+1418
+01:22:36,199 --> 01:22:37,668
+A little help here, guys?
+
+1419
+01:22:39,603 --> 01:22:42,472
+Zee! Oh, my God!
+You're both alive!
+
+1420
+01:22:43,774 --> 01:22:44,976
+Barely.
+
+1421
+01:22:48,378 --> 01:22:50,881
+That was just...
+
+1422
+01:22:50,948 --> 01:22:53,618
+Well...
+
+1423
+01:22:53,685 --> 01:22:54,953
+Yeah.
+
+1424
+01:22:56,020 --> 01:22:58,656
+Yeah, yeah.
+
+1425
+01:23:00,724 --> 01:23:03,595
+I'm proud of you.
+You did it!
+
+1426
+01:23:03,661 --> 01:23:07,364
+I always told you,
+you're all heart.
+
+1427
+01:23:09,867 --> 01:23:11,703
+So what do we do now?
+
+1428
+01:23:15,671 --> 01:23:17,674
+There's a lot of work to do.
+
+1429
+01:23:20,344 --> 01:23:21,779
+Where do we start?
+
+1430
+01:23:24,448 --> 01:23:25,649
+Just log in.
+
+1431
+01:23:27,018 --> 01:23:28,353
+Just log in.
+
+1432
+01:23:41,472 --> 01:23:46,472
+<font color="#ffff00">Provided by explosiveskull</font>
+https://twitter.com/kaboomskull
+

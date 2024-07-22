@@ -1,0 +1,5009 @@
+1
+00:00:19,887 --> 00:00:22,887
+<font color="white">Sync.
+By</font>
+
+2
+00:00:22,887 --> 00:00:23,387
+<font color="#1537F5">A</font>
+
+3
+00:00:23,387 --> 00:00:23,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font>
+
+4
+00:00:23,887 --> 00:00:24,387
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font>
+
+5
+00:00:24,387 --> 00:00:24,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font>
+
+6
+00:00:24,887 --> 00:00:25,387
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font>
+
+7
+00:00:25,387 --> 00:00:25,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font>
+
+8
+00:00:25,887 --> 00:00:26,387
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font>
+
+9
+00:00:26,387 --> 00:00:26,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font>
+
+10
+00:00:26,887 --> 00:00:27,387
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font><font color="#7E4412">c</font>
+
+11
+00:00:27,387 --> 00:00:27,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font><font color="#7E4412">c</font><font color="#4F6421">e</font>
+
+12
+00:00:27,887 --> 00:00:28,387
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font><font color="#7E4412">c</font><font color="#4F6421">e</font><font color="#3FF117">B</font>
+
+13
+00:00:28,387 --> 00:00:28,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font><font color="#7E4412">c</font><font color="#4F6421">e</font><font color="#3FF117">B</font><font color="#19EBD9">o</font>
+
+14
+00:00:28,887 --> 00:00:44,487
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font><font color="#7E4412">c</font><font color="#4F6421">e</font><font color="#3FF117">B</font><font color="#19EBD9">o</font><font color="#1537F5">y</font>
+
+15
+00:00:46,755 --> 00:00:48,249
+(BEEPING)
+
+16
+00:00:48,423 --> 00:00:49,882
+(GUARD SNORING)
+
+17
+00:00:50,050 --> 00:00:53,051
+Like to thank the Academy...
+
+18
+00:00:54,429 --> 00:00:57,383
+...and all its members...
+
+19
+00:01:00,018 --> 00:01:01,762
+(ALARMS RINGING)
+
+20
+00:01:02,479 --> 00:01:04,104
+...and thank the little people!
+
+21
+00:01:09,778 --> 00:01:11,320
+Halt!
+
+22
+00:01:11,488 --> 00:01:12,686
+(GROWLS)
+
+23
+00:01:12,865 --> 00:01:16,364
+Oh. No, no! Aah!
+
+24
+00:01:17,202 --> 00:01:18,910
+(GRUNTS)
+
+25
+00:01:25,794 --> 00:01:27,502
+(GROWLING)
+
+26
+00:01:30,591 --> 00:01:32,133
+(SIRENS WAILING NEARBY)
+
+27
+00:01:37,222 --> 00:01:38,420
+Freeze!
+
+28
+00:01:38,599 --> 00:01:40,722
+(ROARS)
+(OFFICERS GASP)
+
+29
+00:01:45,063 --> 00:01:48,230
+-Was that your mom?
+-Dude, shut up.
+
+30
+00:01:57,201 --> 00:01:58,778
+(OFFICERS GRUNT)
+
+31
+00:02:04,833 --> 00:02:08,534
+-Did I hit it? I think I hit it.
+-I don't think it matters much...
+
+32
+00:02:08,712 --> 00:02:11,998
+...unless you've got
+silver bullets in that thing.
+
+33
+00:02:12,508 --> 00:02:15,259
+Also, you're right,
+it did kind of look like my mom.
+
+34
+00:02:32,486 --> 00:02:34,775
+(HOWLS)
+
+35
+00:04:35,526 --> 00:04:36,557
+(GROWLS)
+
+36
+00:04:41,031 --> 00:04:42,905
+DAPHNE:
+A whole week in Atlantic City.
+
+37
+00:04:43,075 --> 00:04:46,241
+This is gonna be the best vacation
+since Pismo Beach.
+
+38
+00:04:46,411 --> 00:04:49,329
+Didn't we get attacked
+by a demon clam there?
+
+39
+00:04:49,915 --> 00:04:51,575
+Okay, since Santa Fe.
+
+40
+00:04:51,750 --> 00:04:55,000
+Where we were chased
+by those radioactive cactus monsters.
+
+41
+00:04:55,170 --> 00:04:57,922
+-Since Washington D.C.?
+-Washington?
+
+42
+00:04:58,090 --> 00:05:00,759
+Hmm, Washington?
+What happened there?
+
+43
+00:05:01,176 --> 00:05:03,584
+Hmm. Lincoln Memorial.
+
+44
+00:05:03,929 --> 00:05:07,049
+Oh, heh. Oh, yeah,
+the Lincoln Memorial came to life...
+
+45
+00:05:07,224 --> 00:05:09,797
+...and tried to stomp on Scooby-Doo.
+
+46
+00:05:09,977 --> 00:05:11,091
+"Four score and:"
+
+47
+00:05:11,270 --> 00:05:12,894
+(GROWLS)
+
+48
+00:05:13,063 --> 00:05:17,524
+Calm down, guys. This is Atlantic City.
+The fun capital of the world.
+
+49
+00:05:17,693 --> 00:05:19,270
+Nothing bad ever happens here.
+
+50
+00:05:19,444 --> 00:05:21,603
+Well, gangland shootouts.
+
+51
+00:05:21,780 --> 00:05:24,401
+Okay, yeah, obviously,
+gangland shootouts.
+
+52
+00:05:24,575 --> 00:05:27,113
+But otherwise,
+it's nothing but fun, fun, fun.
+
+53
+00:05:27,286 --> 00:05:28,946
+Beaches and shows and--
+
+54
+00:05:29,121 --> 00:05:30,366
+(SHAGGY YELLS)
+
+55
+00:05:30,789 --> 00:05:32,449
+Wulfsmoon!
+
+56
+00:05:33,458 --> 00:05:35,534
+My favorite band.
+
+57
+00:05:36,211 --> 00:05:38,619
+Gang, we have to see them
+while we're here.
+
+58
+00:05:38,797 --> 00:05:41,122
+Their lead singer, Wulfric,
+is so awesome.
+
+59
+00:05:41,300 --> 00:05:43,257
+He does that one song that goes:
+
+60
+00:05:43,427 --> 00:05:45,752
+(HUMMING)
+
+61
+00:05:47,222 --> 00:05:49,630
+You think that's cool,
+check this out.
+
+62
+00:05:49,808 --> 00:05:51,552
+A circus.
+
+63
+00:05:53,353 --> 00:05:56,639
+Remember how I explained to you
+what "cool" means?
+
+64
+00:05:56,815 --> 00:05:58,144
+I love the circus.
+
+65
+00:05:58,317 --> 00:06:00,772
+You know, I took that
+circus-arts class last summer.
+
+66
+00:06:00,944 --> 00:06:02,486
+ALL (IN UNISON):
+We know.
+
+67
+00:06:02,654 --> 00:06:06,319
+I really could have mastered the trapeze
+if I hadn't broken all those bones.
+
+68
+00:06:06,491 --> 00:06:08,318
+The trick is to not fall.
+
+69
+00:06:08,493 --> 00:06:11,530
+That's great, Fred,
+but, like, not everyone loves the--
+
+70
+00:06:11,705 --> 00:06:13,413
+We gotta go see it tonight.
+
+71
+00:06:13,582 --> 00:06:16,251
+-Really? I think we'd rather--
+-My treat.
+
+72
+00:06:16,418 --> 00:06:18,411
+-Maybe some other--
+-I insist.
+
+73
+00:06:19,087 --> 00:06:21,127
+-But we don't--
+-I'm glad that's settled.
+
+74
+00:06:21,298 --> 00:06:23,540
+You guys are gonna love it.
+
+75
+00:06:25,344 --> 00:06:27,253
+Hooray, the circus.
+
+76
+00:06:27,429 --> 00:06:29,054
+(SCOOBY GROANS)
+
+77
+00:06:32,518 --> 00:06:34,843
+Well, they don't open
+till tomorrow night.
+
+78
+00:06:35,020 --> 00:06:36,763
+-Let's get going.
+-Hang on.
+
+79
+00:06:36,939 --> 00:06:41,186
+-I wanna see if there's anyone here.
+-Wait, no. Like, they're closed.
+
+80
+00:06:41,360 --> 00:06:43,851
+I am not going into a dark circus.
+
+81
+00:06:45,155 --> 00:06:48,690
+Hey, the door's open.
+Let's just have a little look around.
+
+82
+00:06:49,284 --> 00:06:51,193
+(BOTH WHIMPER)
+
+83
+00:06:58,836 --> 00:07:02,536
+Okay, I am not staying
+in a dark circus.
+
+84
+00:07:03,382 --> 00:07:07,214
+Look at this place.
+Even the stuffed animals are scary.
+
+85
+00:07:07,386 --> 00:07:11,798
+Especially that. What is that, a clown?
+Come on, guys.
+
+86
+00:07:11,974 --> 00:07:15,556
+On the creepy scale this place ranks
+higher than a graveyard.
+
+87
+00:07:15,727 --> 00:07:17,601
+An old graveyard.
+
+88
+00:07:17,771 --> 00:07:21,222
+Higher than an old graveyard
+in a swamp. On fire.
+
+89
+00:07:25,404 --> 00:07:28,689
+Hello? Anybody here?
+
+90
+00:07:33,871 --> 00:07:34,902
+Scoob...
+
+91
+00:07:35,080 --> 00:07:39,078
+...like, I have a really bad feeling about--
+
+92
+00:07:40,752 --> 00:07:42,033
+(BOTH YELL)
+
+93
+00:07:44,715 --> 00:07:46,423
+BOTH:
+Phew.
+
+94
+00:07:47,843 --> 00:07:49,385
+(BOTH YELL)
+
+95
+00:07:49,553 --> 00:07:51,925
+SHAGGY:
+Run, Scoob!
+
+96
+00:07:53,098 --> 00:07:54,592
+(ALL GRUNT)
+
+97
+00:07:58,270 --> 00:07:59,433
+(ALL SHRIEK)
+
+98
+00:07:59,813 --> 00:08:01,058
+What are you doing here?
+
+99
+00:08:01,231 --> 00:08:03,354
+I'm sorry. But the door was open
+and we just--
+
+100
+00:08:03,525 --> 00:08:05,399
+Open? But I'm sure I locked--
+
+101
+00:08:05,569 --> 00:08:08,274
+(HOWLING NEARBY)
+
+102
+00:08:09,781 --> 00:08:10,944
+He is here.
+
+103
+00:08:11,742 --> 00:08:14,612
+-Come. We should stick together.
+-But what--?
+
+104
+00:08:14,786 --> 00:08:16,067
+Come.
+
+105
+00:08:17,623 --> 00:08:21,074
+-He will not elude me this time.
+DAPHNE: Who?
+
+106
+00:08:21,251 --> 00:08:22,793
+The werewolf.
+
+107
+00:08:22,961 --> 00:08:24,788
+-The werewolf?
+-The werewolf?
+
+108
+00:08:24,963 --> 00:08:28,297
+Yes. I think he is this way.
+
+109
+00:08:29,134 --> 00:08:32,717
+-Let's get out of here, Scoob.
+-Okay.
+
+110
+00:08:41,313 --> 00:08:43,140
+(BABOON GRUNTS)
+(SHAGGY YELLS)
+
+111
+00:08:45,317 --> 00:08:48,152
+Hey, it's a baboon.
+
+112
+00:08:49,196 --> 00:08:50,655
+BABOON:
+Hmm.
+
+113
+00:08:50,822 --> 00:08:52,317
+Ah.
+
+114
+00:08:55,536 --> 00:08:57,409
+(CHUCKLES)
+
+115
+00:09:03,627 --> 00:09:05,287
+(BABBLES)
+
+116
+00:09:06,255 --> 00:09:08,046
+(BABBLES)
+
+117
+00:09:09,633 --> 00:09:11,127
+Let me try.
+
+118
+00:09:11,301 --> 00:09:12,333
+(MIMICS APE GRUNTING)
+
+119
+00:09:12,886 --> 00:09:13,917
+(GRUNTING)
+
+120
+00:09:16,098 --> 00:09:17,296
+(SNORTS)
+
+121
+00:09:17,891 --> 00:09:18,922
+(SNORTS)
+
+122
+00:09:19,101 --> 00:09:20,180
+(CHUCKLES)
+
+123
+00:09:20,352 --> 00:09:21,515
+Ha!
+
+124
+00:09:21,687 --> 00:09:23,430
+(SHIEKING)
+
+125
+00:09:23,605 --> 00:09:27,105
+Sorry, baboon dude.
+I didn't mean to scare you.
+
+126
+00:09:27,276 --> 00:09:29,352
+(WEREWOLF GROWLING)
+
+127
+00:09:29,528 --> 00:09:32,019
+You again? It's just that--
+
+128
+00:09:34,950 --> 00:09:36,444
+(BOTH YELL)
+
+129
+00:09:37,536 --> 00:09:38,698
+(BOTH WIMPERING)
+
+130
+00:09:41,540 --> 00:09:43,947
+SHAGGY:
+Werewolf!
+
+131
+00:09:47,087 --> 00:09:48,747
+(BOTH WHIMPER)
+
+132
+00:09:51,341 --> 00:09:53,797
+-There's nothing there.
+-Yeah, guys, there's nothing--
+
+133
+00:09:53,969 --> 00:09:58,797
+-Nothing? Oh, heh. That's a relief.
+-Yeah.
+
+134
+00:10:00,934 --> 00:10:04,552
+If it was right behind us,
+you'd say something, right?
+
+135
+00:10:04,730 --> 00:10:06,058
+I don't wanna look.
+
+136
+00:10:09,318 --> 00:10:10,728
+I looked.
+
+137
+00:10:11,862 --> 00:10:12,977
+(BOTH YELL)
+
+138
+00:10:17,492 --> 00:10:19,319
+This way.
+
+139
+00:10:19,494 --> 00:10:21,736
+Down here.
+
+140
+00:10:24,374 --> 00:10:25,833
+Slow down, Scoob.
+
+141
+00:10:26,001 --> 00:10:27,116
+(SNIFFING)
+
+142
+00:10:27,294 --> 00:10:28,622
+Like, I think we lost him.
+
+143
+00:10:28,795 --> 00:10:31,168
+I think we lost everyone, Shaggy.
+
+144
+00:10:32,424 --> 00:10:36,837
+All I know is I don't wanna see
+anything big and hairy.
+
+145
+00:10:38,263 --> 00:10:40,837
+Especially that, eh, Scoob?
+
+146
+00:10:45,687 --> 00:10:48,095
+-Let's see if we can find that werewolf.
+-Find it?
+
+147
+00:10:48,273 --> 00:10:49,554
+I wanna run away from it...
+
+148
+00:10:49,733 --> 00:10:52,354
+-...like a terrified school girl.
+-Yeah.
+
+149
+00:10:52,528 --> 00:10:54,604
+Let's find it
+so you'll know which way to run.
+
+150
+00:10:54,780 --> 00:10:58,113
+But-- You know,
+that kind of makes sense.
+
+151
+00:11:01,537 --> 00:11:03,280
+This place sure is empty.
+
+152
+00:11:08,627 --> 00:11:12,459
+Ah! Just a...thingy.
+
+153
+00:11:14,091 --> 00:11:15,466
+(BOTH SHRIEK)
+
+154
+00:11:15,634 --> 00:11:18,042
+You know, Scoob,
+I think it went away.
+
+155
+00:11:18,220 --> 00:11:19,251
+(WEREWOLF HOWLS)
+
+156
+00:11:21,849 --> 00:11:22,928
+(BOTH SHRIEK)
+
+157
+00:11:24,643 --> 00:11:26,102
+(WEREWOLF HOWLING)
+
+158
+00:11:28,397 --> 00:11:29,428
+Velma.
+
+159
+00:11:36,238 --> 00:11:37,269
+Velma.
+
+160
+00:11:37,447 --> 00:11:38,942
+Quiet.
+
+161
+00:11:39,116 --> 00:11:40,147
+(GROWLS)
+
+162
+00:11:40,325 --> 00:11:41,488
+I can handle it.
+
+163
+00:11:43,287 --> 00:11:45,956
+Back.
+
+164
+00:11:46,123 --> 00:11:48,448
+-That's vampires.
+-What?
+
+165
+00:11:48,625 --> 00:11:51,626
+-Garlic. That's for vampires.
+-Are you sure?
+
+166
+00:11:52,963 --> 00:11:54,505
+Because I really think--
+
+167
+00:11:54,673 --> 00:11:56,251
+(ROARS)
+
+168
+00:11:56,425 --> 00:11:57,587
+Pretty sure.
+
+169
+00:12:11,857 --> 00:12:13,684
+I thought a little light might help.
+
+170
+00:12:21,366 --> 00:12:23,774
+It's gone for now.
+
+171
+00:12:27,331 --> 00:12:28,362
+Thank you.
+
+172
+00:12:28,540 --> 00:12:31,707
+I am Marius Brancusi,
+owner of this circus.
+
+173
+00:12:31,877 --> 00:12:33,205
+How can I repay you?
+
+174
+00:12:34,213 --> 00:12:38,045
+Maybe first you should explain to us
+what's going on here.
+
+175
+00:12:39,635 --> 00:12:42,719
+I inherited this circus
+from my uncle last year...
+
+176
+00:12:42,888 --> 00:12:45,213
+...and I've been working to modernize it.
+
+177
+00:12:45,390 --> 00:12:48,226
+I've been making it more stylish...
+
+178
+00:12:48,393 --> 00:12:54,229
+...phasing out the animal acts,
+giving it more of a theatrical flair.
+
+179
+00:12:56,735 --> 00:12:59,938
+Also I cleaned the toilets,
+which has been a huge improvement.
+
+180
+00:13:00,113 --> 00:13:02,569
+All this has led to our latest show:
+
+181
+00:13:02,741 --> 00:13:04,568
+"Celestia."
+
+182
+00:13:04,743 --> 00:13:08,575
+This is so fantastic.
+Did I mention I love the circus?
+
+183
+00:13:08,747 --> 00:13:11,320
+Uh, several times, yes.
+
+184
+00:13:11,500 --> 00:13:14,584
+-But what about the werewolf?
+-It's terrible.
+
+185
+00:13:14,753 --> 00:13:18,620
+I thought tonight, while all my employees
+are having a night on the town...
+
+186
+00:13:18,799 --> 00:13:21,254
+...I might find some clues
+about the beast.
+
+187
+00:13:21,426 --> 00:13:25,424
+I'm certain the werewolf must be someone
+who's part of the circus.
+
+188
+00:13:25,597 --> 00:13:28,267
+You mean, in disguise?
+
+189
+00:13:28,433 --> 00:13:31,518
+Perhaps it is not a disguise.
+
+190
+00:13:33,605 --> 00:13:36,891
+You understand that I'm saying
+it might be a real werewolf, right?
+
+191
+00:13:37,067 --> 00:13:40,436
+-Yeah.
+-It's just that I expected a bigger reaction.
+
+192
+00:13:40,612 --> 00:13:44,112
+I was being so dramatic
+and did I show you my pectoral muscles?
+
+193
+00:13:44,283 --> 00:13:45,445
+Moving on.
+
+194
+00:13:46,660 --> 00:13:51,701
+All right. For the last few months, the
+creature has plagued us wherever we go.
+
+195
+00:13:51,874 --> 00:13:54,115
+It has scared off many of my artists.
+
+196
+00:13:54,293 --> 00:13:57,459
+And in every city we visit,
+it has stolen jewelry.
+
+197
+00:13:57,629 --> 00:13:59,752
+-Jewelry?
+-Jewelry.
+
+198
+00:13:59,923 --> 00:14:03,506
+And I thought my accent was thick.
+Anyway, it's very strange.
+
+199
+00:14:03,677 --> 00:14:05,966
+Why would a werewolf want jewels?
+
+200
+00:14:06,138 --> 00:14:09,008
+Like, maybe he's a lady werewolf.
+
+201
+00:14:10,642 --> 00:14:17,309
+Because, um, you know,
+girls like pretty things to have.
+
+202
+00:14:17,482 --> 00:14:18,763
+It was just a thought.
+
+203
+00:14:18,942 --> 00:14:22,145
+I think I remember a case like this
+in 18th century Bavaria.
+
+204
+00:14:22,321 --> 00:14:26,188
+-May I use your computer?
+MARIUS: Of course.
+
+205
+00:14:26,950 --> 00:14:29,951
+VELMA:
+Bavaria, werewolf.
+
+206
+00:14:31,830 --> 00:14:34,452
+Oh, here it is. It was in Ingolstadt.
+
+207
+00:14:34,625 --> 00:14:38,207
+A werewolf known as "Hans"
+collected certain gemstones...
+
+208
+00:14:38,378 --> 00:14:41,332
+...and used them to increase his power.
+
+209
+00:14:41,507 --> 00:14:44,342
+Normally, a werewolf
+only becomes a wolf at the full moon.
+
+210
+00:14:44,510 --> 00:14:46,751
+But with the right combination of jewels...
+
+211
+00:14:46,929 --> 00:14:50,179
+...Hans was able to change from man to wolf
+at any time.
+
+212
+00:14:50,349 --> 00:14:54,181
+He and the werewolves he created
+terrorized lngolstadt for decades.
+
+213
+00:14:54,353 --> 00:14:56,559
+MARIUS: Created?
+VELMA: Yes.
+
+214
+00:14:56,730 --> 00:15:00,894
+Anyone who is bitten by a werewolf
+and lives turns into a werewolf.
+
+215
+00:15:01,068 --> 00:15:04,234
+Apparently, the Ingolstadt werewolves
+claimed hundreds of victims...
+
+216
+00:15:04,404 --> 00:15:07,275
+...before being driven out
+by Maximilian lll.
+
+217
+00:15:07,449 --> 00:15:10,201
+Wow, you guys are lucky
+you didn't get bitten.
+
+218
+00:15:10,369 --> 00:15:11,863
+Yeah, like, we....
+
+219
+00:15:12,037 --> 00:15:14,030
+(GASPING AND CHOKING)
+
+220
+00:15:15,666 --> 00:15:18,157
+Everybody get back.
+He's turning into a werewolf.
+
+221
+00:15:24,299 --> 00:15:25,924
+(PANTING)
+
+222
+00:15:26,093 --> 00:15:30,304
+Some friends. I need the Heimlich
+and you're reaching for the silver bullets.
+
+223
+00:15:30,472 --> 00:15:33,224
+You get that?
+Silver bullets for werewolves...
+
+224
+00:15:33,392 --> 00:15:36,476
+...garlic for vampires,
+the Heimlich for Shaggy.
+
+225
+00:15:36,645 --> 00:15:38,388
+Who are you people?
+
+226
+00:15:38,564 --> 00:15:40,640
+How do you know
+so much about werewolves?
+
+227
+00:15:40,816 --> 00:15:43,141
+We solve mysteries.
+It's kind of a hobby.
+
+228
+00:15:43,318 --> 00:15:48,360
+A hobby? Stamp collecting is a hobby.
+Solving mysteries is-- Wait.
+
+229
+00:15:48,532 --> 00:15:51,486
+Maybe you could help me
+investigate this werewolf.
+
+230
+00:15:51,660 --> 00:15:54,198
+Yes. And we could pose
+as circus performers.
+
+231
+00:15:54,371 --> 00:15:55,830
+Sure, why not?
+
+232
+00:15:56,290 --> 00:15:58,662
+Of course, it will be very dangerous.
+
+233
+00:15:58,834 --> 00:16:02,914
+-And there's the "Why not." See you.
+-We have to do it, Shaggy.
+
+234
+00:16:03,088 --> 00:16:05,413
+-For the good of the circus.
+-Forget it.
+
+235
+00:16:05,591 --> 00:16:07,001
+For the safety of the public.
+
+236
+00:16:07,176 --> 00:16:08,670
+No way.
+
+237
+00:16:08,844 --> 00:16:11,086
+For all the cotton candy you can eat?
+
+238
+00:16:11,263 --> 00:16:15,261
+Count me out.
+Hey, and, uh, churros too?
+
+239
+00:16:15,434 --> 00:16:19,266
+-And churros.
+-Like, dude, heh, I'm in.
+
+240
+00:16:19,438 --> 00:16:21,845
+Yeah, me too.
+Yeah, yeah, yeah.
+
+241
+00:16:22,024 --> 00:16:25,357
+MARIUS: Well, if you're going to pass
+for circus artists...
+
+242
+00:16:25,527 --> 00:16:28,018
+...it's going to take a little work.
+
+243
+00:16:37,664 --> 00:16:40,238
+So do any of you have circus skills?
+
+244
+00:16:40,417 --> 00:16:42,623
+I took a circus-arts class last summer.
+
+245
+00:16:42,794 --> 00:16:46,080
+Why am I not surprised?
+And what did you learn?
+
+246
+00:16:46,256 --> 00:16:51,132
+I worked out on the trapeze a bit, but, uh,
+I ended up breaking a lot of bones.
+
+247
+00:16:51,303 --> 00:16:52,797
+You seem to have healed well.
+
+248
+00:16:52,971 --> 00:16:55,972
+What? Oh, not my bones.
+
+249
+00:16:56,141 --> 00:16:59,427
+I was supposed to catch this guy
+and, uh, I dropped him.
+
+250
+00:16:59,603 --> 00:17:02,806
+Onto someone.
+And they both fell into some other people.
+
+251
+00:17:02,981 --> 00:17:05,307
+-That's terr--
+-Who hit the tent support...
+
+252
+00:17:05,484 --> 00:17:09,268
+...which tipped the popcorn cart,
+which set fire to the audience risers...
+
+253
+00:17:09,446 --> 00:17:12,447
+...which collapsed with 48 people
+sitting on them.
+
+254
+00:17:12,616 --> 00:17:16,234
+-Well, I'm sure it wasn't your fault.
+-No, it was.
+
+255
+00:17:17,037 --> 00:17:19,824
+But I did learn a valuable lesson
+about the trapeze.
+
+256
+00:17:19,998 --> 00:17:21,991
+-Which was?
+-Don't drop people.
+
+257
+00:17:22,167 --> 00:17:24,705
+Oh, and don't fall.
+
+258
+00:17:24,878 --> 00:17:27,749
+Yes, those are kind of the basics.
+
+259
+00:17:28,799 --> 00:17:34,220
+How would you like a junior,
+second-assistant, backup trapeze position?
+
+260
+00:17:34,388 --> 00:17:37,970
+-It would be an honor, sir.
+-You are a strange fellow.
+
+261
+00:17:38,141 --> 00:17:39,600
+But I admire your neckwear.
+
+262
+00:17:39,768 --> 00:17:42,520
+Anyone else have any talents
+that might apply?
+
+263
+00:17:42,688 --> 00:17:45,392
+When I was a kid
+I used to do a little motorcycle act.
+
+264
+00:17:45,566 --> 00:17:48,685
+Really? It takes years of practice to--
+
+265
+00:17:48,861 --> 00:17:50,604
+It went like this.
+
+266
+00:18:05,711 --> 00:18:07,834
+Right, that'll do.
+
+267
+00:18:08,463 --> 00:18:12,876
+I've phased animal acts out of my circus,
+but I could make an exception.
+
+268
+00:18:13,051 --> 00:18:17,630
+-Your friend here seems very well-trained.
+-Oh, he is.
+
+269
+00:18:17,806 --> 00:18:19,550
+Shake.
+
+270
+00:18:20,434 --> 00:18:27,315
+-Beg.
+-Like, please, please, please.
+
+271
+00:18:27,482 --> 00:18:29,890
+Good boy.
+
+272
+00:18:30,777 --> 00:18:35,190
+Uh, just for the sake of tradition,
+maybe you should do the tricks.
+
+273
+00:18:35,365 --> 00:18:37,572
+That's probably a good idea...
+
+274
+00:18:37,743 --> 00:18:40,281
+...because Scooby-Doo
+does more circus-y stuff than me.
+
+275
+00:18:40,454 --> 00:18:42,162
+Show him, Scoob.
+
+276
+00:18:56,428 --> 00:18:57,673
+Ta-da.
+
+277
+00:18:59,681 --> 00:19:01,425
+You taught him all this?
+
+278
+00:19:01,600 --> 00:19:04,554
+He tried, but, like, I just can't get it.
+
+279
+00:19:04,728 --> 00:19:08,311
+-Poor baby.
+-And....
+
+280
+00:19:10,275 --> 00:19:12,601
+-Hello?
+-Hi.
+
+281
+00:19:12,778 --> 00:19:15,695
+If you're afraid,
+I could put you on the churro cart.
+
+282
+00:19:15,864 --> 00:19:18,949
+-No, no. I can do it.
+-Do what?
+
+283
+00:19:19,117 --> 00:19:20,861
+I don't know. Something.
+
+284
+00:19:21,036 --> 00:19:22,863
+There are still a few acts I could use.
+
+285
+00:19:23,038 --> 00:19:25,659
+-How about knife-throwing?
+-No.
+
+286
+00:19:25,832 --> 00:19:28,288
+-Sword-swallowing?
+-No.
+
+287
+00:19:28,460 --> 00:19:30,619
+-Fire-eating?
+-No.
+
+288
+00:19:30,796 --> 00:19:34,959
+Hmm. The only thing that's left
+is the human comet.
+
+289
+00:19:35,133 --> 00:19:38,549
+-That doesn't sound so bad.
+-You get shot out of a cannon.
+
+290
+00:19:38,804 --> 00:19:39,966
+(GROANS)
+
+291
+00:19:40,138 --> 00:19:42,131
+Can we go back to the knife-throwing?
+
+292
+00:19:44,017 --> 00:19:45,642
+I have to get everyone prepared.
+
+293
+00:19:45,811 --> 00:19:49,144
+-Meet me back here in the morning.
+-Check. What time?
+
+294
+00:19:49,314 --> 00:19:50,477
+Five o'clock.
+
+295
+00:19:51,525 --> 00:19:53,564
+(CHUCKLING)
+
+296
+00:19:53,735 --> 00:19:56,820
+There's no 5:00 in the morning.
+
+297
+00:19:58,115 --> 00:19:59,858
+Is there?
+
+298
+00:20:00,033 --> 00:20:02,655
+I have a bad feeling about this.
+
+299
+00:20:14,339 --> 00:20:15,750
+(YAWNING)
+
+300
+00:20:16,341 --> 00:20:18,168
+(SHAGGY SNORING)
+
+301
+00:20:22,014 --> 00:20:25,133
+I wonder if we should use code names
+while we're undercover.
+
+302
+00:20:25,309 --> 00:20:26,507
+VELMA, DAPHNE & SCOOBY:
+No.
+
+303
+00:20:26,685 --> 00:20:28,345
+I could be Dominic St. Chinard...
+
+304
+00:20:28,520 --> 00:20:31,272
+...ne'er-do-well son of a New England
+shipping magnate who--
+
+305
+00:20:31,440 --> 00:20:32,768
+VELMA, DAPHNE & SCOOBY:
+No.
+
+306
+00:20:32,941 --> 00:20:34,850
+Finally, you're here. Come on.
+
+307
+00:20:35,027 --> 00:20:37,352
+You have to meet
+your fellow circus artistes.
+
+308
+00:20:37,529 --> 00:20:38,560
+Yay!
+
+309
+00:20:38,739 --> 00:20:41,490
+Any one of whom could be
+a bloodthirsty monster.
+
+310
+00:20:41,658 --> 00:20:43,117
+Boo.
+
+311
+00:20:43,660 --> 00:20:47,610
+Whitney Doubleday.
+He's our animal trainer.
+
+312
+00:20:48,081 --> 00:20:49,624
+(SHAGGY GROANS)
+
+313
+00:20:50,417 --> 00:20:53,703
+-Hello?
+-Yes?
+
+314
+00:20:53,879 --> 00:20:55,373
+(SCOOBY GASPS)
+
+315
+00:20:57,132 --> 00:20:58,543
+Like, what happened, Scoob?
+
+316
+00:20:58,717 --> 00:21:01,338
+Oh, terribly sorry.
+Thirty minutes every day.
+
+317
+00:21:01,512 --> 00:21:02,970
+Marvelous for the lower back.
+
+318
+00:21:03,138 --> 00:21:06,258
+Whitney Doubleday, animal trainer.
+
+319
+00:21:07,434 --> 00:21:09,593
+Good boy.
+
+320
+00:21:12,022 --> 00:21:13,137
+(SHAGGY MUMBLES)
+
+321
+00:21:13,315 --> 00:21:15,888
+Whitney Doubleday, animal trainer.
+
+322
+00:21:16,068 --> 00:21:18,226
+Good boy.
+
+323
+00:21:19,196 --> 00:21:21,734
+Sorry, after 40 years
+of handing out treats...
+
+324
+00:21:21,907 --> 00:21:23,152
+...it's become a habit.
+
+325
+00:21:25,244 --> 00:21:26,406
+Oh, thanks.
+
+326
+00:21:26,578 --> 00:21:30,623
+Uh, Shaggy Rogers,
+I'm also an animal train--
+
+327
+00:21:30,791 --> 00:21:35,417
+-Um, I guess I'm more of an animal partner.
+-Yeah. Partners.
+
+328
+00:21:35,587 --> 00:21:37,912
+Well, I suppose if you're a team,
+that's different.
+
+329
+00:21:38,090 --> 00:21:40,166
+I thought it was odd
+that Marius hired you.
+
+330
+00:21:40,342 --> 00:21:43,426
+You see, he eliminated
+all the trained animals from the circus.
+
+331
+00:21:43,595 --> 00:21:48,672
+Really? Huh. Well, you must be angry
+and embittered and seeking revenge.
+
+332
+00:21:49,059 --> 00:21:52,262
+Ha, ha. Not at all. I was retiring anyway.
+
+333
+00:21:52,437 --> 00:21:54,975
+The public doesn't want
+trained animals anymore.
+
+334
+00:21:55,148 --> 00:21:57,936
+Too many stories
+about abusive training techniques.
+
+335
+00:21:58,110 --> 00:22:01,858
+Of course, I never hurt any of my animals.
+Right, Leoni?
+
+336
+00:22:03,073 --> 00:22:04,448
+(PURRS)
+
+337
+00:22:04,616 --> 00:22:06,775
+But there are a few bad apples out there.
+
+338
+00:22:07,619 --> 00:22:10,786
+No, I'm afraid my kind of act
+is a thing of the past.
+
+339
+00:22:11,290 --> 00:22:15,418
+Hey, um, have you ever trained,
+I don't know...
+
+340
+00:22:15,586 --> 00:22:20,544
+...for instance,
+just off the top of my head, um, wolves?
+
+341
+00:22:20,716 --> 00:22:23,633
+Wolves?
+No, no one works with wolves.
+
+342
+00:22:23,802 --> 00:22:25,296
+They're too unpredictable.
+
+343
+00:22:25,470 --> 00:22:28,222
+I'd have better luck
+trying to train a hurricane.
+
+344
+00:22:28,390 --> 00:22:31,557
+So if you're not in the show,
+why are you and your animals here?
+
+345
+00:22:31,727 --> 00:22:33,803
+DOUBLEDAY:
+Well, we're just along for the ride.
+
+346
+00:22:33,979 --> 00:22:37,811
+I'm transporting them to a sanctuary
+in California that's agreed to take them.
+
+347
+00:22:37,983 --> 00:22:40,308
+I think I'll miss my baboons the most.
+
+348
+00:22:40,485 --> 00:22:42,893
+So much like people,
+don't you think?
+
+349
+00:22:43,906 --> 00:22:45,863
+Huh? Oh.
+
+350
+00:22:46,617 --> 00:22:48,858
+I don't really see any resemblance.
+
+351
+00:22:49,036 --> 00:22:51,278
+(SPEAKING IN SPANISH)
+
+352
+00:22:52,456 --> 00:22:53,487
+BOTH:
+Huh?
+
+353
+00:23:09,640 --> 00:23:11,431
+(IN ENGLISH)
+I always use Spanish commands.
+
+354
+00:23:11,600 --> 00:23:16,226
+The animals are less likely to hear shouts
+from the audience and get confused.
+
+355
+00:23:16,688 --> 00:23:17,803
+(SPEAKS IN SPANISH)
+
+356
+00:23:19,816 --> 00:23:21,524
+Wow, Scoob.
+
+357
+00:23:21,693 --> 00:23:24,813
+-Think we could do something like that?
+-Sure.
+
+358
+00:23:24,988 --> 00:23:26,613
+(SCOOBY SPEAKS IN SPANISH)
+
+359
+00:23:30,160 --> 00:23:31,654
+(LION ROARS)
+(SHAGGY & SCOOBY SHRIEK)
+
+360
+00:23:32,246 --> 00:23:35,661
+Well, it's unusual, I'll give them that.
+
+361
+00:23:39,336 --> 00:23:40,499
+(SHRIEKS)
+
+362
+00:23:40,671 --> 00:23:43,837
+MARIUS:
+Velma, meet Archambault, our strongman.
+
+363
+00:23:44,007 --> 00:23:46,083
+You'll be working with him.
+
+364
+00:23:46,260 --> 00:23:47,291
+VELMA:
+Uh....
+
+365
+00:23:47,469 --> 00:23:51,965
+Don't be afraid,
+big hairy man is not werewolf.
+
+366
+00:23:52,140 --> 00:23:54,596
+You heard about werewolf?
+
+367
+00:23:54,768 --> 00:23:56,512
+Terrible, terrible.
+
+368
+00:23:56,687 --> 00:23:59,604
+Very bad for circus, oui?
+
+369
+00:23:59,773 --> 00:24:02,644
+-Okay.
+-Um, what are you--?
+
+370
+00:24:02,818 --> 00:24:07,065
+Ah. Archambault forget,
+you are new to the circus.
+
+371
+00:24:07,239 --> 00:24:09,694
+Please, you should step on the hand.
+
+372
+00:24:09,867 --> 00:24:12,867
+-What?
+-Step on the hand.
+
+373
+00:24:13,036 --> 00:24:15,492
+Trust Archambault.
+
+374
+00:24:15,664 --> 00:24:16,695
+VELMA:
+Whoa!
+
+375
+00:24:16,874 --> 00:24:20,325
+Archambault is not fake
+like some strongmans, eh?
+
+376
+00:24:20,502 --> 00:24:26,706
+Archambault is genuine article.
+Strongest man in Quebec, eh?
+
+377
+00:24:27,718 --> 00:24:29,545
+-But why--?
+-Is part of act.
+
+378
+00:24:29,720 --> 00:24:31,344
+I carry you to cannon.
+
+379
+00:24:31,513 --> 00:24:35,843
+Then you climb in, I pull lever,
+boom, boom, land in net, oui?
+
+380
+00:24:36,018 --> 00:24:40,514
+-Um, I guess.
+-Good. We do some practicing.
+
+381
+00:24:40,689 --> 00:24:43,061
+Make sure you shouldn't break head.
+
+382
+00:24:43,233 --> 00:24:44,396
+(SHRIEKS)
+
+383
+00:24:45,360 --> 00:24:47,851
+Human comet, fire!
+
+384
+00:24:53,994 --> 00:24:55,025
+VELMA:
+Sorry.
+
+385
+00:24:55,204 --> 00:24:57,529
+I think I tensed up.
+
+386
+00:25:00,959 --> 00:25:02,537
+There.
+
+387
+00:25:04,630 --> 00:25:06,706
+Those are the people
+I'll be performing with?
+
+388
+00:25:06,882 --> 00:25:10,085
+Not performing. You're junior,
+second-assistant, backup trapeze.
+
+389
+00:25:10,260 --> 00:25:11,885
+That means you stand by the net.
+
+390
+00:25:12,054 --> 00:25:15,174
+-And do what?
+-As little as possible.
+
+391
+00:25:15,349 --> 00:25:17,555
+If someone falls,
+you help them out of the net.
+
+392
+00:25:17,726 --> 00:25:20,217
+Oliverio. Lena. This is Fred.
+
+393
+00:25:22,439 --> 00:25:24,847
+Oliverio is very jealous,
+so don't look at Lena.
+
+394
+00:25:25,025 --> 00:25:28,560
+But don't look like you're not looking
+at her, because that makes her flirty.
+
+395
+00:25:28,737 --> 00:25:29,768
+Wait, what?
+
+396
+00:25:30,239 --> 00:25:32,397
+Ah, the new net boy.
+
+397
+00:25:37,246 --> 00:25:40,911
+-Something is wrong with your neck?
+-No, um....
+
+398
+00:25:41,083 --> 00:25:44,333
+Maybe his cute little scarf is too tight.
+
+399
+00:25:44,503 --> 00:25:48,964
+Come by my trailer later
+and I loosen it for you, yeah?
+
+400
+00:25:51,176 --> 00:25:53,584
+Listen to me, net boy.
+You stay away from Lena...
+
+401
+00:25:53,762 --> 00:25:55,802
+...or I pop your head off like a bottle cap.
+
+402
+00:25:57,516 --> 00:25:59,971
+Nice to meet you. I'm Fred.
+
+403
+00:26:02,145 --> 00:26:03,770
+You'll be with the clowns.
+
+404
+00:26:04,398 --> 00:26:07,601
+-Ooh, clowns are fun.
+-Fun like a root canal.
+
+405
+00:26:07,776 --> 00:26:08,807
+What?
+
+406
+00:26:09,403 --> 00:26:10,434
+In there.
+
+407
+00:26:11,196 --> 00:26:12,904
+Gotta go.
+
+408
+00:26:20,622 --> 00:26:21,654
+Um, hello?
+
+409
+00:26:21,832 --> 00:26:25,699
+This is easy for you to say. "Hello."
+North Americans...
+
+410
+00:26:25,878 --> 00:26:30,421
+...always so cheerful. "Hello."
+Well, maybe I don't feel like hello.
+
+411
+00:26:30,591 --> 00:26:33,710
+-Are you one of the clowns?
+-No. I am an actor.
+
+412
+00:26:33,886 --> 00:26:36,424
+I have merely undertaken
+the role of a clown.
+
+413
+00:26:36,597 --> 00:26:39,432
+That is a clown.
+
+414
+00:26:39,600 --> 00:26:40,880
+(HORN HONKING)
+(DAPHNE LAUGHS)
+
+415
+00:26:41,059 --> 00:26:43,301
+No. You do not laugh at this honky-horn.
+
+416
+00:26:43,478 --> 00:26:45,851
+It is low comedy, undignified.
+
+417
+00:26:46,023 --> 00:26:51,610
+-I'm Daphne Blake.
+-Yes, yes, the motorcycle girl. Marius said.
+
+418
+00:26:51,778 --> 00:26:55,194
+-The buffoon here is Sisko.
+-Pleased to meet you.
+
+419
+00:26:56,867 --> 00:27:01,861
+-And I am Schmatko.
+-Ha-ha-ha. Schmatko.
+
+420
+00:27:02,039 --> 00:27:05,242
+-What a great clown name.
+-It is not a clown name.
+
+421
+00:27:05,417 --> 00:27:07,955
+I am Svyatopolk Stanislavevich Schmatko.
+
+422
+00:27:08,128 --> 00:27:10,702
+Sisko, that is a clown name.
+
+423
+00:27:10,881 --> 00:27:14,214
+Schmatko is a name of great dignity.
+
+424
+00:27:14,384 --> 00:27:17,884
+Once I toured the Soviet Union
+performing the classics.
+
+425
+00:27:18,055 --> 00:27:22,218
+-Chekov. Pushkin. Turgenev.
+-Bulgakov?
+
+426
+00:27:22,392 --> 00:27:27,138
+You know Bulgakov?
+At last, a person of culture.
+
+427
+00:27:27,314 --> 00:27:31,146
+Sisko, we must show this cultured lady
+our new routine.
+
+428
+00:27:32,152 --> 00:27:34,026
+Sisko.
+
+429
+00:27:36,573 --> 00:27:39,243
+And begin.
+
+430
+00:27:47,251 --> 00:27:49,243
+So? What you think, eh?
+
+431
+00:27:51,046 --> 00:27:53,418
+The umbrella represents intolerance.
+
+432
+00:27:53,590 --> 00:27:56,260
+Sure, I got that.
+
+433
+00:27:56,426 --> 00:28:02,547
+-Is funny, yes?
+-Yeah, ha, ha, funny.
+
+434
+00:28:02,724 --> 00:28:05,678
+I like this motorcycle girl.
+
+435
+00:28:05,853 --> 00:28:10,182
+Okay. I go to make smoothie.
+Who wants smoothie?
+
+436
+00:28:10,357 --> 00:28:14,224
+-One strawberry. Motorcycle girl?
+-Oh, no thanks.
+
+437
+00:28:14,403 --> 00:28:17,439
+Fine, suture yourself.
+Back in a littles.
+
+438
+00:28:21,785 --> 00:28:23,279
+(SPEAKS IN RUSSIAN)
+
+439
+00:28:24,121 --> 00:28:26,279
+(WEREWOLF GROWLING)
+
+440
+00:28:29,293 --> 00:28:30,835
+(SHMATKO YELLS)
+
+441
+00:28:34,965 --> 00:28:37,752
+So the circus is a little different
+than I'd always imagined.
+
+442
+00:28:37,926 --> 00:28:39,966
+-How so?
+-It's full of crazy people.
+
+443
+00:28:40,137 --> 00:28:42,462
+Oliverio threatened to pop my head off.
+
+444
+00:28:42,639 --> 00:28:44,762
+I don't know
+if your werewolf is real or not...
+
+445
+00:28:44,933 --> 00:28:48,267
+...but if you're looking for someone
+with a grudge against the circus...
+
+446
+00:28:48,437 --> 00:28:49,896
+...there are plenty of suspects.
+
+447
+00:28:50,063 --> 00:28:52,768
+Schmatko has a lot of bitterness
+about being a clown.
+
+448
+00:28:52,941 --> 00:28:56,144
+Archambault seems nice,
+but he sure looks like a werewolf.
+
+449
+00:28:56,320 --> 00:28:59,404
+Like, that Doubleday guy says
+he doesn't mind losing his job...
+
+450
+00:28:59,573 --> 00:29:01,945
+-...but I don't know.
+-I know, I know.
+
+451
+00:29:02,117 --> 00:29:05,949
+-And there's one more suspect.
+SHAGGY: Wulfsmoon?
+
+452
+00:29:06,121 --> 00:29:07,152
+No way.
+
+453
+00:29:07,331 --> 00:29:11,163
+They've been performing in every town
+where the werewolf has appeared.
+
+454
+00:29:11,335 --> 00:29:15,035
+Oh, so you're gonna blame them.
+Just because they were there...
+
+455
+00:29:15,214 --> 00:29:17,502
+...and the lead singer
+claims to be a werewolf.
+
+456
+00:29:17,674 --> 00:29:20,165
+-What?
+-You couldn't have mentioned this earlier?
+
+457
+00:29:20,344 --> 00:29:25,634
+But it's just for publicity. I mean, heh,
+he also says he's from Sweden.
+
+458
+00:29:25,807 --> 00:29:28,595
+-And he isn't?
+-Duh. Of course not.
+
+459
+00:29:28,769 --> 00:29:32,932
+Sweden's just a made-up place,
+like fairyland or Australia.
+
+460
+00:29:33,106 --> 00:29:35,099
+I bet you think kangaroos are real too.
+
+461
+00:29:35,275 --> 00:29:36,307
+(BOTH CHUCKLE)
+
+462
+00:29:36,485 --> 00:29:40,529
+-Shaggy.
+-Sweden. Ha, ha. Duh.
+
+463
+00:29:40,697 --> 00:29:42,108
+Kangaroos.
+
+464
+00:29:42,282 --> 00:29:43,693
+(CHUCKLES)
+
+465
+00:29:43,867 --> 00:29:45,990
+Has he been kicked
+in the head or something?
+
+466
+00:29:46,161 --> 00:29:47,192
+Not yet.
+
+467
+00:29:47,371 --> 00:29:51,071
+Like, all this speculationing
+is making me hungry, Scoob.
+
+468
+00:29:51,250 --> 00:29:52,993
+Yeah, yeah, yeah.
+
+469
+00:29:53,168 --> 00:29:56,869
+Guys, we are heading
+for the legendary Cap'n Fatty's Rib Ranch...
+
+470
+00:29:57,047 --> 00:29:59,668
+...home of the
+more-than-all-you-can-eat special.
+
+471
+00:29:59,842 --> 00:30:02,297
+You eat as much as you can,
+then they force dessert...
+
+472
+00:30:02,469 --> 00:30:05,387
+-...down your throat with a spatula.
+-My kind of place.
+
+473
+00:30:05,556 --> 00:30:07,382
+Anyone care to join us?
+
+474
+00:30:07,558 --> 00:30:09,384
+We'll catch up with you.
+
+475
+00:30:09,560 --> 00:30:13,604
+-Okay, bye.
+-Just be back in time for the show.
+
+476
+00:30:16,525 --> 00:30:20,060
+I mean, seriously.
+Like by a mule, kicked?
+
+477
+00:30:21,947 --> 00:30:25,945
+After this, Scoob, we will have visited
+almost all of the greatest rib joints...
+
+478
+00:30:26,118 --> 00:30:28,241
+-...in America.
+-Yeah.
+
+479
+00:30:28,412 --> 00:30:32,409
+All that's left is that one where the ribs
+come with a coupon for free heart surgery.
+
+480
+00:30:32,583 --> 00:30:35,252
+-What's it called?
+-The rib reaper.
+
+481
+00:30:35,419 --> 00:30:37,577
+Yeah, the rib reaper.
+
+482
+00:30:37,754 --> 00:30:40,542
+Someday, Scooby-Doo. Some....
+
+483
+00:30:40,716 --> 00:30:41,914
+(WEREWOLF GROWLING)
+
+484
+00:30:42,092 --> 00:30:43,207
+(SHAGGY GASPS)
+
+485
+00:30:46,555 --> 00:30:51,715
+Okay, when I say run, I want you to--
+
+486
+00:30:52,269 --> 00:30:54,890
+I didn't say it. Aah!
+
+487
+00:30:57,399 --> 00:30:58,810
+Huh?
+
+488
+00:31:01,195 --> 00:31:02,570
+(WHIMPERS)
+
+489
+00:31:09,036 --> 00:31:10,281
+(BOTH GASP)
+
+490
+00:31:10,454 --> 00:31:11,948
+(GROANING)
+
+491
+00:31:19,588 --> 00:31:21,248
+(BOTH SCREAMING)
+
+492
+00:31:27,304 --> 00:31:29,877
+Like, how did it get in there so fast?
+
+493
+00:31:30,057 --> 00:31:31,385
+I don't know.
+
+494
+00:31:35,312 --> 00:31:37,305
+FRED:
+Shaggy and Scooby.
+
+495
+00:31:42,152 --> 00:31:43,315
+What's going on?
+
+496
+00:31:43,487 --> 00:31:45,147
+Guys, I think we hit something.
+
+497
+00:31:47,407 --> 00:31:49,815
+Werewolf!
+
+498
+00:31:50,410 --> 00:31:51,608
+(BOTH YELL)
+
+499
+00:31:53,413 --> 00:31:54,445
+There's two.
+
+500
+00:31:54,623 --> 00:31:58,206
+-And that one, I think it's Schmatko.
+-I beg your pardon?
+
+501
+00:31:58,377 --> 00:32:00,120
+Schmatko, the clown.
+
+502
+00:32:00,295 --> 00:32:01,955
+I recognize his costume.
+
+503
+00:32:02,130 --> 00:32:05,001
+Schmatko, it's me. Motorcycle girl.
+
+504
+00:32:05,551 --> 00:32:06,796
+(ROARS)
+
+505
+00:32:07,344 --> 00:32:08,838
+He doesn't sound very friendly.
+
+506
+00:32:09,012 --> 00:32:12,464
+Actually he wasn't all that friendly
+even before he turned into a werewolf.
+
+507
+00:32:15,185 --> 00:32:16,679
+(ALL SCREAMING)
+
+508
+00:32:26,655 --> 00:32:29,526
+DAPHNE: This way.
+SHAGGY: No, this way.
+
+509
+00:32:39,042 --> 00:32:40,074
+(BOTH GASP)
+
+510
+00:32:40,252 --> 00:32:42,079
+DAPHNE:
+Uh-oh.
+
+511
+00:32:42,963 --> 00:32:46,332
+They're after the girls.
+We gotta do something.
+
+512
+00:33:05,569 --> 00:33:07,645
+It's time to take out the trash.
+
+513
+00:33:15,579 --> 00:33:17,406
+Dang. They're fast.
+
+514
+00:33:18,790 --> 00:33:20,071
+(CLANGING)
+
+515
+00:33:20,250 --> 00:33:21,413
+What's that?
+
+516
+00:33:21,585 --> 00:33:25,285
+I'm gonna guess it's Daphne and Velma
+pounding on the manhole cover...
+
+517
+00:33:25,464 --> 00:33:27,919
+...you just buried under a ton of garbage.
+
+518
+00:33:28,091 --> 00:33:30,665
+DAPHNE: Get us out of here.
+VELMA: We're in the sewer.
+
+519
+00:33:31,845 --> 00:33:33,387
+(FRED SIGHS)
+
+520
+00:33:33,555 --> 00:33:37,220
+Well, guess we better start digging.
+
+521
+00:33:39,061 --> 00:33:43,224
+Oh, this is worse than when the sword
+swallower go the hiccups.
+
+522
+00:33:43,774 --> 00:33:45,054
+Did he leave a note?
+
+523
+00:33:45,234 --> 00:33:46,265
+(HONKS)
+
+524
+00:33:46,443 --> 00:33:48,602
+What about on the fridge?
+Did you look on the fridge?
+
+525
+00:33:48,779 --> 00:33:49,810
+(HORN HONKS)
+
+526
+00:33:49,988 --> 00:33:52,610
+Of course I don't think you're stupid, I--
+
+527
+00:33:53,909 --> 00:33:55,569
+Don't you think I know that?
+
+528
+00:33:56,745 --> 00:33:58,287
+Thank goodness you're here.
+
+529
+00:33:58,455 --> 00:34:02,702
+Schmatko's missing. Sisko hasn't seen him
+since 6 a.m.
+
+530
+00:34:02,876 --> 00:34:03,907
+Six-thirty.
+
+531
+00:34:04,086 --> 00:34:06,209
+-He's a werewolf.
+-What?
+
+532
+00:34:06,380 --> 00:34:10,792
+We just got chased by two werewolves,
+and one was wearing Schmatko's clothes.
+
+533
+00:34:12,469 --> 00:34:15,636
+They broke into the museum
+and stole an emerald necklace.
+
+534
+00:34:15,806 --> 00:34:19,506
+He's collecting jewels.
+And he's making more werewolves.
+
+535
+00:34:19,685 --> 00:34:21,724
+It's just like in lngolstadt.
+
+536
+00:34:24,731 --> 00:34:28,231
+I know this is bad, but we've got a show
+to do in half an hour.
+
+537
+00:34:29,695 --> 00:34:31,272
+Nothing is impossible.
+
+538
+00:34:31,446 --> 00:34:34,732
+-Daphne, you'll stand in for Schmatko.
+-I'm doing what now?
+
+539
+00:34:34,908 --> 00:34:38,740
+We'll need to fill some time.
+Fred, can you walk a tight rope?
+
+540
+00:34:38,912 --> 00:34:40,739
+Of course, I maybe can.
+
+541
+00:34:42,207 --> 00:34:45,125
+Archambault can do cowboy routine.
+
+542
+00:34:45,294 --> 00:34:49,623
+-Not the cowboy routine.
+-Why you no like cowboy routine?
+
+543
+00:34:49,798 --> 00:34:55,671
+Is best superb. I can make it
+space cowboy for this "Celestia" thing.
+
+544
+00:34:57,222 --> 00:34:58,337
+Fine, do it.
+
+545
+00:34:58,515 --> 00:35:00,175
+With that we should be okay.
+
+546
+00:35:00,350 --> 00:35:02,343
+As long as Shaggy and Scooby
+go over well.
+
+547
+00:35:04,188 --> 00:35:08,849
+Come on, everyone get into costume.
+It's showtime, folks.
+
+548
+00:35:10,944 --> 00:35:12,142
+(SNIFFS)
+
+549
+00:35:12,321 --> 00:35:13,435
+What's that smell?
+
+550
+00:35:13,614 --> 00:35:18,026
+-We were in the sewer.
+-And we were digging through garbage.
+
+551
+00:35:18,202 --> 00:35:19,447
+(LAUGHS)
+
+552
+00:35:19,620 --> 00:35:23,487
+You Americans really know how to party.
+
+553
+00:35:23,707 --> 00:35:26,459
+(CIRCUS MUSIC PLAYING
+OVER SPEAKERS)
+
+554
+00:35:30,380 --> 00:35:32,788
+-Everyone ready?
+BOTH: No.
+
+555
+00:35:32,966 --> 00:35:35,042
+Great. I'm going to start the show.
+
+556
+00:35:38,764 --> 00:35:40,306
+(AUDIENCE APPLAUDING)
+
+557
+00:35:40,474 --> 00:35:43,475
+Ladies and gentlemen.
+
+558
+00:35:43,644 --> 00:35:47,262
+With the finest talent
+from five continents...
+
+559
+00:35:47,439 --> 00:35:53,727
+...the Brancusi Circus presents, "Celestia."
+
+560
+00:36:05,415 --> 00:36:07,242
+(AUDIENCE LAUGHS)
+
+561
+00:36:10,128 --> 00:36:12,287
+(AUDIENCE APPLAUDS)
+
+562
+00:36:39,575 --> 00:36:41,033
+(HORN WAILS)
+
+563
+00:36:54,173 --> 00:36:55,204
+(DAPHNE SHRIEKS)
+
+564
+00:37:06,685 --> 00:37:08,476
+(AUDIENCE LAUGHS)
+
+565
+00:37:24,077 --> 00:37:25,987
+(AUDIENCE APPLAUDS)
+
+566
+00:37:33,086 --> 00:37:34,960
+(AUDIENCE APPLAUDS)
+
+567
+00:37:37,216 --> 00:37:38,840
+LENA:
+Mm.
+
+568
+00:37:39,009 --> 00:37:40,124
+(GROWLS)
+
+569
+00:37:44,348 --> 00:37:46,175
+(AUDIENCE GASPS)
+
+570
+00:37:55,901 --> 00:37:57,810
+Whoa.
+
+571
+00:38:00,697 --> 00:38:02,820
+Do it again. They love it.
+
+572
+00:38:03,617 --> 00:38:05,823
+(SPEAKlNG IN SPANISH)
+
+573
+00:38:13,544 --> 00:38:15,038
+(YELLS)
+
+574
+00:38:17,047 --> 00:38:18,838
+Heh. I fell.
+
+575
+00:38:19,007 --> 00:38:21,000
+(AUDIENCE APPLAUDS)
+
+576
+00:38:22,177 --> 00:38:24,549
+Nice working with you.
+
+577
+00:38:26,223 --> 00:38:31,383
+Yippee-ki-yay,
+I am the space cowboy, oui?
+
+578
+00:38:31,562 --> 00:38:36,140
+But in Quebec,
+cowboy don't do things the easy way.
+
+579
+00:38:36,316 --> 00:38:37,348
+(LAUGHS)
+
+580
+00:38:37,526 --> 00:38:39,150
+(WHINNIES)
+
+581
+00:38:42,197 --> 00:38:44,190
+(LAUGHING)
+
+582
+00:38:45,075 --> 00:38:48,076
+Is best superb, oui?
+
+583
+00:38:49,121 --> 00:38:50,532
+(HORSE NEIGHING)
+
+584
+00:38:50,706 --> 00:38:52,745
+(AUDIENCE GASPING)
+
+585
+00:39:06,972 --> 00:39:10,175
+You see what I mean?
+It makes people uncomfortable.
+
+586
+00:39:10,350 --> 00:39:12,509
+Totally.
+
+587
+00:39:12,686 --> 00:39:14,928
+Ladies and gentlemen...
+
+588
+00:39:15,105 --> 00:39:20,562
+...may I present Scooby and Shaggy?
+
+589
+00:39:21,153 --> 00:39:25,945
+Hello, Atlantic City.
+I give you Scooby-Doo.
+
+590
+00:39:35,626 --> 00:39:37,168
+AUDIENCE:
+Ooh.
+
+591
+00:40:06,990 --> 00:40:08,105
+Ta-da.
+
+592
+00:40:13,664 --> 00:40:16,997
+Thank you, thank you.
+
+593
+00:40:17,668 --> 00:40:23,457
+Oh, I'm Shaggy, his, uh, trainer.
+
+594
+00:40:23,632 --> 00:40:27,760
+AUDIENCE (CHANTING):
+Shaggy! Shaggy! Shaggy!
+
+595
+00:40:27,928 --> 00:40:30,419
+But what about me?
+
+596
+00:40:30,597 --> 00:40:33,468
+Shaggy! Shaggy! Shaggy!
+
+597
+00:40:34,476 --> 00:40:35,851
+That went well.
+
+598
+00:40:36,019 --> 00:40:37,478
+You're up, human comet.
+
+599
+00:40:37,646 --> 00:40:39,520
+I can't do this.
+
+600
+00:40:46,363 --> 00:40:47,857
+(SHRIEKS)
+
+601
+00:40:50,200 --> 00:40:54,364
+-Don't worry. You are going to be fine.
+-You think so?
+
+602
+00:40:55,372 --> 00:40:57,032
+Eh, fifty-fifty.
+
+603
+00:40:58,333 --> 00:41:01,038
+Aah! Werewolves.
+
+604
+00:41:01,211 --> 00:41:02,919
+(AUDIENCE GASPING)
+
+605
+00:41:04,047 --> 00:41:05,625
+(GROWLING)
+
+606
+00:41:09,052 --> 00:41:10,712
+Well, that's a relief.
+
+607
+00:41:10,888 --> 00:41:12,845
+(CHATTERING)
+
+608
+00:41:27,404 --> 00:41:28,898
+Those costumes are awesome.
+
+609
+00:41:29,740 --> 00:41:32,065
+(AUDIENCE CHEERING)
+
+610
+00:41:49,092 --> 00:41:52,259
+Like, don't bite us.
+I don't wanna be a werewolf.
+
+611
+00:41:53,096 --> 00:41:54,888
+And I'm already a dog.
+
+612
+00:42:09,780 --> 00:42:11,404
+(AUDIENCE LAUGHS)
+
+613
+00:42:18,455 --> 00:42:21,705
+Get away, shoo. Go chase a cat.
+
+614
+00:42:30,259 --> 00:42:31,717
+Huh?
+
+615
+00:42:34,429 --> 00:42:36,636
+There has to be something we can do.
+
+616
+00:42:36,807 --> 00:42:38,052
+Usually I drop a net on....
+
+617
+00:42:40,477 --> 00:42:42,553
+Ooh, that's a big net.
+
+618
+00:42:46,275 --> 00:42:49,975
+No bitey. I am not a chew toy.
+
+619
+00:42:53,991 --> 00:42:55,782
+(SHAGGY YELLS)
+
+620
+00:42:59,872 --> 00:43:01,366
+Huh?
+
+621
+00:43:02,708 --> 00:43:04,747
+(YELLING)
+
+622
+00:43:07,171 --> 00:43:09,128
+(WHIMPERING)
+
+623
+00:43:15,345 --> 00:43:17,219
+(YELLS)
+
+624
+00:43:18,682 --> 00:43:20,509
+(AUDIENCE GASPS)
+
+625
+00:43:30,194 --> 00:43:32,685
+Scooby!
+
+626
+00:43:36,700 --> 00:43:38,823
+(AUDIENCE CHEERS)
+
+627
+00:43:41,914 --> 00:43:44,535
+Shaggy. Scooby.
+Lead them over this way.
+
+628
+00:43:44,708 --> 00:43:46,167
+Like, I'll try.
+
+629
+00:44:04,645 --> 00:44:06,388
+-Now!
+-Unh!
+
+630
+00:44:14,488 --> 00:44:16,362
+-Got them.
+MARIUS: Come on.
+
+631
+00:44:16,532 --> 00:44:18,323
+(AUDIENCE CHEERING)
+
+632
+00:44:30,420 --> 00:44:31,915
+They have to be here.
+
+633
+00:44:33,131 --> 00:44:34,330
+Apparently not.
+
+634
+00:44:34,508 --> 00:44:36,584
+Very strange.
+
+635
+00:44:36,760 --> 00:44:38,919
+How could they just disappear like that?
+
+636
+00:44:39,096 --> 00:44:41,254
+(HONKING)
+
+637
+00:44:43,350 --> 00:44:46,102
+Maybe, but where would they hide
+the forklift?
+
+638
+00:44:47,479 --> 00:44:50,266
+Why did they attack?
+They weren't stealing jewels.
+
+639
+00:44:50,440 --> 00:44:52,267
+They went right for Shaggy
+and Scooby.
+
+640
+00:44:52,442 --> 00:44:56,061
+-You think they were trying to scare us off?
+-It could be.
+
+641
+00:44:56,238 --> 00:45:01,825
+SHAGGY:
+How do you, like, stop this thing?
+
+642
+00:45:02,035 --> 00:45:03,660
+(CRASH)
+
+643
+00:45:03,829 --> 00:45:05,620
+(AUDIENCE LAUGHING
+AND APPLAUDING)
+
+644
+00:45:06,874 --> 00:45:08,783
+That's one way.
+
+645
+00:45:12,504 --> 00:45:15,541
+Everybody out.
+Follow the ushers.
+
+646
+00:45:16,175 --> 00:45:20,219
+-Werewolves. What a great idea.
+-Hilarious.
+
+647
+00:45:20,387 --> 00:45:22,510
+(LAUGHING AND CHATTERING)
+
+648
+00:45:34,776 --> 00:45:36,769
+(SCOOBY SNORING)
+
+649
+00:45:40,824 --> 00:45:43,493
+MARIUS: Unbelievable.
+-What's that?
+
+650
+00:45:43,660 --> 00:45:45,071
+Is it the werewolves?
+
+651
+00:45:45,245 --> 00:45:47,404
+No, I don't think so.
+
+652
+00:45:47,581 --> 00:45:49,989
+There were critics in the audience
+last night.
+
+653
+00:45:50,167 --> 00:45:51,994
+There are circus critics?
+
+654
+00:45:52,169 --> 00:45:55,289
+These are the most incredible reviews
+I've ever seen.
+
+655
+00:45:55,464 --> 00:45:58,418
+They all assumed the werewolves
+were part of the show.
+
+656
+00:45:58,592 --> 00:45:59,671
+And look at this:
+
+657
+00:45:59,843 --> 00:46:04,256
+They're calling Shaggy
+the greatest circus artist since Felix Adler.
+
+658
+00:46:04,431 --> 00:46:07,183
+-What?
+-I'm so excited.
+
+659
+00:46:07,351 --> 00:46:12,096
+And I would be so much more excited
+if I had any idea who Felix Adler was.
+
+660
+00:46:12,272 --> 00:46:13,814
+That's great, Shaggy.
+
+661
+00:46:13,982 --> 00:46:16,105
+-Congratulations.
+-Way to go.
+
+662
+00:46:16,860 --> 00:46:19,019
+What about me?
+
+663
+00:46:19,196 --> 00:46:21,901
+Listen. "The performance
+young Shaggy Rogers...
+
+664
+00:46:22,074 --> 00:46:25,490
+...gets from his trained dog, Scabby--"
+-Scabby?
+
+665
+00:46:25,661 --> 00:46:31,165
+"--is so remarkable, one might almost
+believe the animal has a mind of its own."
+
+666
+00:46:31,333 --> 00:46:32,613
+I do.
+
+667
+00:46:32,793 --> 00:46:36,541
+-It's true, he does.
+-Yeah, that was a little harsh.
+
+668
+00:46:36,713 --> 00:46:41,126
+This is fantastic.
+Excuse me, I have to show these around.
+
+669
+00:46:41,301 --> 00:46:43,543
+Looks like we're a hit, huh?
+
+670
+00:46:43,720 --> 00:46:46,211
+-"Scabby."
+ARCHAMBAULT: You have heard?
+
+671
+00:46:46,390 --> 00:46:51,431
+The newses are loving the show.
+We sell many tickets now, eh?
+
+672
+00:46:51,603 --> 00:46:54,438
+You all be sure
+to come to breakfast today, okay?
+
+673
+00:46:54,606 --> 00:46:58,521
+Archambault is going to make
+his famous crepes. Aha.
+
+674
+00:46:58,694 --> 00:47:02,359
+Kitchen trailer key.
+Breakfast be ready soon.
+
+675
+00:47:04,783 --> 00:47:06,823
+-What--?
+ARCHAMBAULT: Excusez-moi...
+
+676
+00:47:06,994 --> 00:47:10,410
+-...Archambault put it back on shelf.
+-Wait a second.
+
+677
+00:47:10,581 --> 00:47:13,072
+This is a book about
+the lngolstadt werewolves.
+
+678
+00:47:13,250 --> 00:47:15,788
+But I thought Marius
+had never heard about them.
+
+679
+00:47:15,961 --> 00:47:17,586
+That's what he said.
+
+680
+00:47:17,754 --> 00:47:20,672
+Like, maybe he just bought
+that book yesterday?
+
+681
+00:47:20,841 --> 00:47:23,758
+It was printed in Estonia in 1853.
+
+682
+00:47:23,927 --> 00:47:26,845
+You really think Marius
+could have found this in just a day?
+
+683
+00:47:27,014 --> 00:47:29,931
+What you are saying?
+Marius is werewolf?
+
+684
+00:47:30,100 --> 00:47:33,350
+But last night he was with us
+when the werewolves attacked.
+
+685
+00:47:33,520 --> 00:47:36,225
+He still might be one of them.
+Maybe he can change...
+
+686
+00:47:36,398 --> 00:47:38,604
+...whenever he wants, like in lngolstadt.
+
+687
+00:47:38,775 --> 00:47:42,275
+Someone has circled all the jewels
+that Hans supposedly collected.
+
+688
+00:47:42,446 --> 00:47:45,862
+They're the same ones our werewolf
+has stolen except one.
+
+689
+00:47:46,033 --> 00:47:48,191
+It says it's a "carbonado."
+
+690
+00:47:48,368 --> 00:47:50,028
+What's a "carnow"?
+
+691
+00:47:50,204 --> 00:47:56,953
+-Carbonado. Beats me.
+-Carbonado, very puzzlement, oui?
+
+692
+00:47:57,127 --> 00:48:00,626
+Okay, time to make the crepes.
+Breakfast in one hour.
+
+693
+00:48:00,797 --> 00:48:01,877
+(STOMACH GROWLS)
+
+694
+00:48:02,049 --> 00:48:03,709
+I'm not gonna last an hour.
+
+695
+00:48:03,884 --> 00:48:06,885
+Hey, is Cap'n Fatty's Rib Ranch
+open for breakfast?
+
+696
+00:48:07,054 --> 00:48:11,051
+-Yeah.
+-Then let's head on out, Scabby. Ha, ha.
+
+697
+00:48:11,225 --> 00:48:12,635
+(GROWLS)
+
+698
+00:48:23,487 --> 00:48:24,981
+Shaggy Rogers.
+
+699
+00:48:25,155 --> 00:48:26,982
+Like, do I know you?
+
+700
+00:48:27,157 --> 00:48:29,779
+"A star is born."
+
+701
+00:48:29,952 --> 00:48:32,158
+-Oh, yeah.
+-Oh, no.
+
+702
+00:48:32,329 --> 00:48:35,283
+Hey, everybody.
+We got a celebrity in the place.
+
+703
+00:48:35,457 --> 00:48:37,782
+Shaggy, from that "Celestia" show.
+
+704
+00:48:38,669 --> 00:48:40,163
+(GIRLS GASP THEN LAUGH)
+
+705
+00:48:40,963 --> 00:48:45,174
+-Oh, my gosh, we saw you last night.
+-You were so awesome.
+
+706
+00:48:45,342 --> 00:48:47,465
+How'd you teach it all those tricks?
+
+707
+00:48:47,636 --> 00:48:53,223
+-"It"?
+-Um, you know, the usual way.
+
+708
+00:48:54,101 --> 00:48:57,386
+-He's dreamy.
+-He's dreamy.
+
+709
+00:48:57,563 --> 00:49:00,136
+(SHAGGY CHUCKLES)
+(SCOOBY GROANS)
+
+710
+00:49:00,566 --> 00:49:05,477
+-Right this way, Mr. Rogers.
+-Would you ladies care to join me?
+
+711
+00:49:05,654 --> 00:49:07,148
+(GIGGLING)
+
+712
+00:49:08,240 --> 00:49:10,149
+Huh? Hey.
+
+713
+00:49:12,452 --> 00:49:15,786
+Order anything you want, sir.
+It's on the house.
+
+714
+00:49:15,956 --> 00:49:17,865
+And I'll bring a bone for your dog.
+
+715
+00:49:18,792 --> 00:49:19,823
+A bone?
+
+716
+00:49:20,002 --> 00:49:23,536
+So tell me more about how great I am.
+
+717
+00:49:25,048 --> 00:49:27,456
+"Scabby." Hmph.
+
+718
+00:49:35,142 --> 00:49:39,389
+-Care to explain this?
+-Well, it's a book.
+
+719
+00:49:39,563 --> 00:49:42,647
+You see, they print words
+on sheets of paper, bind them together--
+
+720
+00:49:42,816 --> 00:49:45,390
+It's a book about
+the lngolstadt werewolves.
+
+721
+00:49:45,569 --> 00:49:47,396
+We found it in your office.
+
+722
+00:49:47,571 --> 00:49:49,729
+And what, that makes me a werewolf?
+
+723
+00:49:52,034 --> 00:49:55,284
+My office is usually unlocked.
+Anyone could have planted it there.
+
+724
+00:49:55,454 --> 00:49:57,660
+PHlL:
+Mr. Brancusi?
+
+725
+00:49:58,582 --> 00:50:00,575
+Oh, over here, Mr. Flaxman.
+
+726
+00:50:02,878 --> 00:50:03,909
+It's Phil, heh.
+
+727
+00:50:04,087 --> 00:50:07,753
+Call me Phil, everyone calls me Phil,
+even my kids call me Phil. Heh.
+
+728
+00:50:07,925 --> 00:50:11,294
+Come into my office please, Phil.
+
+729
+00:50:13,430 --> 00:50:17,179
+If you'll excuse me,
+I have some business to discuss.
+
+730
+00:50:25,609 --> 00:50:30,271
+And then I said,
+"So tell me more about how great I am."
+
+731
+00:50:30,447 --> 00:50:32,653
+(GIRLS LAUGH)
+
+732
+00:50:37,788 --> 00:50:39,330
+(MIMICS GIRLS LAUGHING)
+
+733
+00:50:39,498 --> 00:50:41,905
+Disgusting.
+
+734
+00:50:42,084 --> 00:50:45,369
+Who wants to get
+the superstar another hoagie?
+
+735
+00:50:45,546 --> 00:50:47,918
+-Oh, I'll get you one.
+-No, me.
+
+736
+00:50:48,090 --> 00:50:50,415
+-Me, I'll do it.
+-Me first.
+
+737
+00:50:51,802 --> 00:50:53,213
+(YAWNS)
+
+738
+00:50:53,387 --> 00:50:57,337
+-I want a hoagie.
+-Don't worry, Scoob.
+
+739
+00:50:57,516 --> 00:50:59,010
+(YAWNS)
+
+740
+00:50:59,184 --> 00:51:03,264
+Now that I'm a superstar,
+I won't forget the little people.
+
+741
+00:51:03,438 --> 00:51:05,016
+I mean, dogs.
+
+742
+00:51:05,190 --> 00:51:08,191
+Little puppies....
+
+743
+00:51:08,360 --> 00:51:10,151
+Ah. People.
+
+744
+00:51:10,320 --> 00:51:12,942
+Pooples. Whatever.
+
+745
+00:51:13,115 --> 00:51:14,574
+(SNORES)
+
+746
+00:51:15,534 --> 00:51:17,657
+(AUDIENCE APPLAUDING)
+
+747
+00:51:20,455 --> 00:51:23,409
+Are you ready to rock?
+
+748
+00:51:27,045 --> 00:51:33,629
+You understand that by "rock"
+I mean, "Watch a dog do tricks," right?
+
+749
+00:51:36,180 --> 00:51:41,684
+Then behold my creation.
+
+750
+00:52:28,315 --> 00:52:30,058
+(GROWLS)
+
+751
+00:52:35,405 --> 00:52:36,900
+Scooby, no.
+
+752
+00:52:41,411 --> 00:52:42,740
+(GASPS)
+
+753
+00:52:43,997 --> 00:52:45,657
+(SCOOBY GROANING)
+
+754
+00:52:45,832 --> 00:52:48,584
+Don't leave me, buddy.
+
+755
+00:52:48,752 --> 00:52:50,412
+Don't leave!
+
+756
+00:52:50,587 --> 00:52:53,956
+Scoob. Scooby.
+
+757
+00:52:54,967 --> 00:52:57,588
+Scoob. Scooby?
+
+758
+00:53:16,280 --> 00:53:18,605
+Dude, can I borrow your shades?
+
+759
+00:53:18,782 --> 00:53:21,273
+No!
+
+760
+00:53:21,451 --> 00:53:23,693
+Chillax. I was just asking.
+
+761
+00:53:26,915 --> 00:53:32,372
+No. Oh, good, you're still a dog.
+
+762
+00:53:32,546 --> 00:53:34,871
+And you're still a jerk.
+
+763
+00:53:41,305 --> 00:53:43,546
+What do you mean,
+you won't do the show tonight?
+
+764
+00:53:43,724 --> 00:53:45,052
+You heard me.
+
+765
+00:53:45,225 --> 00:53:47,597
+-Oh, come on, Scoob.
+-No.
+
+766
+00:53:47,769 --> 00:53:50,936
+Would you do it for a Scooby Snack?
+
+767
+00:53:51,106 --> 00:53:52,648
+Uh-uh.
+
+768
+00:53:52,816 --> 00:53:55,272
+Would you do it for two Scooby Snacks?
+
+769
+00:53:56,153 --> 00:53:58,644
+-Forget it.
+-Fine.
+
+770
+00:53:59,865 --> 00:54:03,150
+There's 342 pounds
+of Scooby Snacks here.
+
+771
+00:54:03,327 --> 00:54:04,489
+You happy now?
+
+772
+00:54:06,705 --> 00:54:08,247
+Yeah.
+
+773
+00:54:11,001 --> 00:54:13,670
+Ha, ha. Happy now.
+
+774
+00:54:13,837 --> 00:54:16,162
+I don't know
+what you just talked him into doing...
+
+775
+00:54:16,340 --> 00:54:19,091
+...but he must've really
+not wanted to do it.
+
+776
+00:54:19,259 --> 00:54:22,177
+Thank you, Phil.
+We'll see you at tonight's show.
+
+777
+00:54:22,346 --> 00:54:24,718
+Oh, I wouldn't miss it.
+
+778
+00:54:25,807 --> 00:54:26,839
+Guess what.
+
+779
+00:54:27,017 --> 00:54:30,351
+That man just bought out
+all the seats for tonight's performance.
+
+780
+00:54:30,521 --> 00:54:34,103
+We're doing a private show
+for the Wulfsmoon guy.
+
+781
+00:54:34,274 --> 00:54:37,524
+Wulfric Von Rydingsvard?
+
+782
+00:54:37,694 --> 00:54:40,814
+Oh, my gosh. Oh, my gosh!
+Oh, my gosh!
+
+783
+00:54:40,989 --> 00:54:42,863
+(SHAGGY PANTING)
+
+784
+00:54:43,659 --> 00:54:44,690
+Oh, my gosh.
+
+785
+00:54:44,868 --> 00:54:48,451
+Oh, my gosh. Oh, my gosh.
+
+786
+00:54:50,040 --> 00:54:52,198
+Oh, my gosh. Oh, my gosh.
+
+787
+00:54:52,376 --> 00:54:54,333
+Is he going to be all right?
+
+788
+00:54:54,878 --> 00:54:57,001
+As all right as he ever is.
+
+789
+00:55:02,219 --> 00:55:05,220
+I am not a werewolf.
+
+790
+00:55:07,224 --> 00:55:11,352
+-I really don't think it's him, Velma.
+-We'll see. Okay, so I found out...
+
+791
+00:55:11,520 --> 00:55:15,185
+...what a carbonado is.
+It's also known as a black diamond.
+
+792
+00:55:17,943 --> 00:55:20,351
+(SCREAMS)
+
+793
+00:55:27,452 --> 00:55:29,410
+Thanks, Shaggy.
+Deaf in this ear now.
+
+794
+00:55:29,580 --> 00:55:31,738
+Black diamond. Black diamond.
+
+795
+00:55:31,915 --> 00:55:34,869
+-What?
+-Wulfric. Wulfric. Wulfric.
+
+796
+00:55:35,043 --> 00:55:36,917
+Shaggy. How about a verb?
+
+797
+00:55:37,296 --> 00:55:38,838
+(GROANS)
+
+798
+00:55:39,006 --> 00:55:42,706
+Wears! Wears! Wears!
+
+799
+00:55:44,720 --> 00:55:47,389
+Let's see, if we put them together...
+
+800
+00:55:47,556 --> 00:55:51,969
+...Wulfric wears black diamond?
+
+801
+00:55:55,772 --> 00:55:58,690
+Well, I guess we know
+what the werewolves' next target is.
+
+802
+00:55:58,859 --> 00:56:02,275
+And this time, we'll be ready.
+
+803
+00:56:04,865 --> 00:56:07,782
+-We're not ready.
+-It's okay, calm down.
+
+804
+00:56:07,951 --> 00:56:10,573
+Calm down?
+We can't find Archambault.
+
+805
+00:56:10,746 --> 00:56:12,121
+And look at his trailer.
+
+806
+00:56:12,289 --> 00:56:14,412
+There's obviously been a struggle here.
+
+807
+00:56:14,583 --> 00:56:17,667
+I hate to say it, but it looks like
+the werewolf has struck again.
+
+808
+00:56:17,836 --> 00:56:18,951
+OLIVERIO:
+You.
+
+809
+00:56:20,422 --> 00:56:22,794
+-Where is she?
+-She?
+
+810
+00:56:22,966 --> 00:56:26,631
+Where is my Lena? You two are planning
+to run off together, aren't you?
+
+811
+00:56:26,803 --> 00:56:29,129
+What? No.
+
+812
+00:56:29,306 --> 00:56:32,260
+-Don't lie to me.
+-Oliverio, stop.
+
+813
+00:56:32,434 --> 00:56:34,427
+Lena could have been
+taken by the werewolf.
+
+814
+00:56:34,603 --> 00:56:37,438
+Ha. Net boy is the only wolf I see.
+
+815
+00:56:40,609 --> 00:56:42,233
+(BOTH WHIMPERING)
+
+816
+00:56:42,402 --> 00:56:44,312
+I hope Oliverio isn't too upset, Fred.
+
+817
+00:56:44,488 --> 00:56:47,572
+Because you're going to be doing
+the trapeze with him tonight.
+
+818
+00:56:49,409 --> 00:56:51,402
+We can do this. We can.
+
+819
+00:56:51,578 --> 00:56:53,487
+We just need to get through this show...
+
+820
+00:56:53,664 --> 00:56:57,246
+...then we can find out what happened
+to everyone. All right.
+
+821
+00:56:57,417 --> 00:56:59,327
+I'll take over most of Archambault's act.
+
+822
+00:56:59,503 --> 00:57:01,994
+Velma, that means
+I'll be helping you into the cannon.
+
+823
+00:57:02,881 --> 00:57:05,170
+The cannon?
+
+824
+00:57:31,869 --> 00:57:33,363
+(WOMEN LAUGHING)
+
+825
+00:57:42,212 --> 00:57:43,375
+They're here.
+
+826
+00:57:45,048 --> 00:57:46,293
+There's Wulfric.
+
+827
+00:57:47,676 --> 00:57:49,467
+He looks shorter in person.
+
+828
+00:57:49,636 --> 00:57:51,214
+Okay. Here we go.
+
+829
+00:57:51,388 --> 00:57:55,006
+There's just one thing
+you have to remember--
+
+830
+00:57:55,809 --> 00:57:59,558
+Yes? Marius?
+
+831
+00:58:01,523 --> 00:58:03,730
+Oh. Like, not him too.
+
+832
+00:58:03,901 --> 00:58:05,561
+(BOTH GULP)
+
+833
+00:58:05,736 --> 00:58:07,360
+(HORN HONKING)
+
+834
+00:58:10,699 --> 00:58:14,068
+Sisko is right. The show must go on.
+
+835
+00:58:14,244 --> 00:58:16,201
+But what if the werewolves show up?
+
+836
+00:58:16,371 --> 00:58:17,700
+I'm counting on it.
+
+837
+00:58:17,873 --> 00:58:21,372
+We've got a little surprise
+in store for them.
+
+838
+00:58:23,921 --> 00:58:28,333
+The circus is a metaphor for society,
+don't you think?
+
+839
+00:58:28,509 --> 00:58:32,921
+Only instead of, like, rich people
+and poor people, there's other things.
+
+840
+00:58:33,096 --> 00:58:36,097
+So true, so true. Isn't it true?
+
+841
+00:58:36,266 --> 00:58:38,093
+ALL:
+Mm-hm.
+
+842
+00:58:38,268 --> 00:58:40,060
+-True.
+WULFRIC: Shh.
+
+843
+00:58:40,896 --> 00:58:42,972
+It's starting.
+
+844
+00:58:53,909 --> 00:58:55,783
+Ladies and gentlemen.
+
+845
+00:58:55,953 --> 00:58:58,622
+With the finest talent
+from 10 continents...
+
+846
+00:58:58,789 --> 00:59:01,327
+I thought there were only
+seven continents.
+
+847
+00:59:01,500 --> 00:59:04,252
+Well, they're discovering
+new ones all the time.
+
+848
+00:59:04,419 --> 00:59:05,617
+(PHIL CHUCKLES)
+
+849
+00:59:05,796 --> 00:59:10,125
+...I present the Brancusi Circus.
+
+850
+00:59:24,147 --> 00:59:28,477
+And now, Oliverio and Fred.
+
+851
+00:59:29,236 --> 00:59:31,394
+Does that safety net look okay to you?
+
+852
+00:59:31,572 --> 00:59:37,325
+No. Maybe the junior, second-assistant,
+backup trapeze artist forgot to check it.
+
+853
+00:59:37,494 --> 00:59:38,823
+Who?
+
+854
+00:59:38,996 --> 00:59:41,569
+Oh, heh, that's me, isn't it?
+
+855
+00:59:41,748 --> 00:59:44,999
+Yes. I guess you'd better hope
+I don't drop you, eh?
+
+856
+00:59:48,964 --> 00:59:51,336
+(WHIMPERING AND YELLING)
+
+857
+01:00:11,778 --> 01:00:14,234
+No!
+
+858
+01:00:16,450 --> 01:00:18,110
+MAN 1:
+Bravo!
+
+859
+01:00:18,285 --> 01:00:20,443
+-You caught me.
+-Of course.
+
+860
+01:00:20,621 --> 01:00:23,871
+If I don't, you think anyone
+ever gonna hire me again?
+
+861
+01:00:29,880 --> 01:00:32,205
+MAN 2:
+Well done.
+
+862
+01:00:33,550 --> 01:00:35,459
+(FRED CHUCKLES)
+
+863
+01:00:36,428 --> 01:00:38,255
+(HORN HONKING)
+
+864
+01:00:48,315 --> 01:00:49,690
+(SHRIEKS)
+
+865
+01:00:58,534 --> 01:01:00,656
+(WULFRIC LAUGHING)
+
+866
+01:01:01,662 --> 01:01:05,742
+Get it? Huh?
+The umbrella represents intolerance.
+
+867
+01:01:05,916 --> 01:01:08,751
+PHIL: Hmm, ha, ha.
+Yeah, oh, yeah. Ha, ha. I get it.
+
+868
+01:01:11,672 --> 01:01:14,838
+Hello, Wulfric Von Rydingsvard.
+
+869
+01:01:15,008 --> 01:01:18,424
+Where? Where--? Oh, right.
+
+870
+01:01:18,595 --> 01:01:22,260
+I give you, Shaggy.
+
+871
+01:01:22,933 --> 01:01:26,183
+-And his performing dog.
+-Mm-mm-mm.
+
+872
+01:01:45,455 --> 01:01:50,248
+-The guy in the dog suit is fantastic.
+-That's a real dog.
+
+873
+01:01:50,419 --> 01:01:51,533
+(CHUCKLES)
+
+874
+01:01:51,712 --> 01:01:55,626
+Phil, you fall for anything.
+I bet you believe in kangaroos.
+
+875
+01:01:55,799 --> 01:01:58,290
+They're here. Go.
+
+876
+01:02:00,554 --> 01:02:02,048
+(ALL GASP)
+
+877
+01:02:05,893 --> 01:02:06,924
+Huh?
+
+878
+01:02:07,102 --> 01:02:08,431
+(GROWLS)
+
+879
+01:02:11,940 --> 01:02:16,935
+Now, this is what I've been waiting for.
+Hello, wolfy-wolf-wolfy.
+
+880
+01:02:17,112 --> 01:02:18,143
+(CHUCKLES)
+
+881
+01:02:18,572 --> 01:02:20,150
+(GRUNTS)
+
+882
+01:02:32,503 --> 01:02:36,915
+Sorry, Schmatko. We'll get you
+back to normal, if that's really you.
+
+883
+01:02:37,090 --> 01:02:38,501
+Oh, not good.
+
+884
+01:02:38,675 --> 01:02:40,300
+(GROWLING)
+
+885
+01:02:40,469 --> 01:02:42,296
+Fred!
+
+886
+01:02:49,353 --> 01:02:53,137
+Ow! That's a Titanium chain.
+
+887
+01:02:54,650 --> 01:02:56,108
+(ALL SCREAMING)
+
+888
+01:02:56,527 --> 01:03:00,820
+Thanks so much for your help, everyone.
+
+889
+01:03:00,989 --> 01:03:04,654
+Phil, you're the only one
+who stood by my side.
+
+890
+01:03:04,826 --> 01:03:07,400
+I always said you were like a son to me,
+Wulfric.
+
+891
+01:03:07,579 --> 01:03:10,995
+A wealthy, Swedish son
+with a tenuous grip on reality.
+
+892
+01:03:11,500 --> 01:03:15,996
+Good dog, good doggy,
+don't bite Freddy now.
+
+893
+01:03:16,171 --> 01:03:19,754
+So the affair goes on even now
+that she's a werewolf, eh?
+
+894
+01:03:19,925 --> 01:03:22,879
+-You're crazy.
+-Crazy in love.
+
+895
+01:03:23,053 --> 01:03:25,888
+Come back to me, Lena.
+I don't care if you're a dog.
+
+896
+01:03:26,056 --> 01:03:29,721
+Bite me and we shall stalk the night
+together, two wolves in love.
+
+897
+01:03:32,145 --> 01:03:33,225
+(YELLS)
+
+898
+01:03:33,897 --> 01:03:39,022
+Heh. You two obviously have some stuff
+to work out, so I'll just be, uh....
+
+899
+01:03:39,194 --> 01:03:41,021
+(FRED YELLS)
+
+900
+01:03:41,196 --> 01:03:44,363
+At least I don't have to do
+the cannon thing.
+
+901
+01:03:44,533 --> 01:03:46,157
+(SCOOBY WHIMPERING)
+
+902
+01:03:46,326 --> 01:03:47,737
+-Strike.
+-Hmph.
+
+903
+01:03:47,911 --> 01:03:52,372
+Hey, I'm sorry I didn't introduce you.
+But you can't stay mad--
+
+904
+01:03:59,673 --> 01:04:01,831
+Ha. I knew you still cared.
+
+905
+01:04:02,843 --> 01:04:04,088
+(SCOOBY YELLS)
+
+906
+01:04:04,261 --> 01:04:06,337
+-I'm coming, Scoob.
+VELMA: Aah!
+
+907
+01:04:09,850 --> 01:04:13,598
+Like, leave my friend alone. Huh?
+
+908
+01:04:18,025 --> 01:04:20,017
+Red fur?
+
+909
+01:04:20,736 --> 01:04:22,016
+Zoinks!
+
+910
+01:04:24,990 --> 01:04:26,781
+SCOOBY:
+What the...?
+
+911
+01:04:26,950 --> 01:04:28,029
+They're gone.
+
+912
+01:04:33,624 --> 01:04:35,533
+Shaggy. They're baboons.
+
+913
+01:04:35,709 --> 01:04:37,867
+Baboons? Baboons.
+
+914
+01:04:38,045 --> 01:04:39,290
+(FRED, VELMA & DAPHNE WHIMPER)
+
+915
+01:04:39,463 --> 01:04:42,380
+Oh, man, what was that command
+he used? Domingo.
+
+916
+01:04:42,591 --> 01:04:44,963
+(SHAGGY SPEAKING IN SPANISH)
+
+917
+01:04:49,473 --> 01:04:51,715
+They're the trained baboons.
+
+918
+01:04:51,892 --> 01:04:54,644
+Which means Doubleday
+must be behind this.
+
+919
+01:04:56,939 --> 01:04:58,137
+Stop him.
+
+920
+01:04:58,315 --> 01:04:59,893
+Oh, no.
+
+921
+01:05:02,110 --> 01:05:03,818
+Fred. Fire.
+
+922
+01:05:03,987 --> 01:05:05,897
+-Are you sure?
+-Do it.
+
+923
+01:05:11,912 --> 01:05:13,490
+Way to go, Velma.
+
+924
+01:05:13,664 --> 01:05:18,076
+Oh, yeah. Best human comet ever.
+
+925
+01:05:21,213 --> 01:05:26,587
+-Ow! That was glued on, you know.
+-It's Doubleday, all right.
+
+926
+01:05:27,177 --> 01:05:29,502
+Get back. You won't take us that easy.
+
+927
+01:05:29,680 --> 01:05:31,304
+(GUNSHOT)
+
+928
+01:05:31,473 --> 01:05:33,181
+(GROANS)
+
+929
+01:05:36,019 --> 01:05:39,768
+-What did you do?
+ARCHAMBAULT: He's okay.
+
+930
+01:05:39,940 --> 01:05:45,279
+Just tranquilizer gun Doubleday keep
+around in case of problem with animals.
+
+931
+01:05:45,445 --> 01:05:48,316
+-What are those ropes?
+-Archambault tied up.
+
+932
+01:05:48,490 --> 01:05:52,535
+But Archambault break ropes.
+Such thick ropes.
+
+933
+01:05:52,703 --> 01:05:55,194
+-It take hours.
+-Where were you?
+
+934
+01:05:55,372 --> 01:05:57,530
+In storage shed, back there.
+
+935
+01:06:01,211 --> 01:06:02,705
+(MUMBLING)
+
+936
+01:06:04,006 --> 01:06:05,714
+-You okay?
+-Who did this?
+
+937
+01:06:05,883 --> 01:06:08,041
+Did you catch him? What's going on?
+
+938
+01:06:08,218 --> 01:06:09,499
+It was Doubleday.
+
+939
+01:06:09,678 --> 01:06:11,386
+We've already called the police.
+
+940
+01:06:12,014 --> 01:06:14,635
+(OLIVERIO SPEAKS IN SPANISH)
+(LENA SPEAKS IN GERMAN)
+
+941
+01:06:14,808 --> 01:06:18,853
+This would have never happened
+at the Minsk conservatory.
+
+942
+01:06:20,314 --> 01:06:21,512
+(DOUBLEDAY GROANING)
+
+943
+01:06:21,690 --> 01:06:24,442
+MARIUS: How is he?
+-This is strong stuff.
+
+944
+01:06:24,610 --> 01:06:27,065
+He could be out for hours, days even.
+
+945
+01:06:27,237 --> 01:06:29,111
+Where did my amulet go?
+
+946
+01:06:29,281 --> 01:06:33,148
+DETECTIVE: I've got men searching for it,
+and all the other stolen jewels.
+
+947
+01:06:33,327 --> 01:06:37,241
+If we don't find them, we can get
+the information from Doubleday.
+
+948
+01:06:37,414 --> 01:06:40,332
+My circus is supposed to be
+in Philadelphia tomorrow.
+
+949
+01:06:40,501 --> 01:06:41,829
+Will that be a problem?
+
+950
+01:06:42,002 --> 01:06:45,336
+No. If we need you, we'll contact you.
+
+951
+01:06:46,381 --> 01:06:51,672
+You were the best thing in the show,
+my friend, and that dog costume is brilliant.
+
+952
+01:06:51,845 --> 01:06:54,087
+Dog costume?
+
+953
+01:06:58,185 --> 01:07:00,177
+Thanks again for all your help.
+
+954
+01:07:00,354 --> 01:07:02,393
+Are you sure
+I can't give you anything?
+
+955
+01:07:02,564 --> 01:07:04,189
+We did some major box office.
+
+956
+01:07:04,358 --> 01:07:06,931
+This thing is crammed with cash.
+
+957
+01:07:07,736 --> 01:07:10,405
+No, thanks.
+We're just glad we could help.
+
+958
+01:07:10,572 --> 01:07:14,819
+Well, any time you want to see the circus,
+it's on the house.
+
+959
+01:07:14,993 --> 01:07:17,401
+And all the churros you can eat.
+
+960
+01:07:17,579 --> 01:07:19,073
+Yes.
+
+961
+01:07:19,748 --> 01:07:21,954
+And maybe I could do
+the high-wire again, huh?
+
+962
+01:07:22,125 --> 01:07:26,752
+Uh, let's think about
+whether that's probably maybe best, um....
+
+963
+01:07:26,922 --> 01:07:29,294
+Anyway, um, goodbye.
+
+964
+01:07:31,844 --> 01:07:34,085
+Archambault say goodbye also.
+
+965
+01:07:35,013 --> 01:07:37,587
+Goodbye, Archambault.
+Thanks for everything.
+
+966
+01:07:37,766 --> 01:07:41,217
+Okay. I hope they find all those jewels.
+
+967
+01:07:41,395 --> 01:07:46,637
+Especially that black diamond,
+it seemed very nice, oui?
+
+968
+01:07:49,278 --> 01:07:52,860
+-Hey, motorcycle girl.
+-Schmatko.
+
+969
+01:07:53,031 --> 01:07:56,317
+I guess Sisko told you I could never get
+your umbrella routine right.
+
+970
+01:07:56,493 --> 01:08:01,321
+No, he say umbrella routine
+was funny for first time ever.
+
+971
+01:08:02,499 --> 01:08:04,456
+Oh, uh....
+
+972
+01:08:04,626 --> 01:08:06,168
+No, no, is good.
+
+973
+01:08:06,336 --> 01:08:09,337
+This finally make me decide
+clowning is not for me.
+
+974
+01:08:09,506 --> 01:08:14,298
+So now I go to New York
+to pursue my true love, theater.
+
+975
+01:08:14,469 --> 01:08:17,969
+That's great, Schmatko.
+I'm sure you'll be a huge success.
+
+976
+01:08:18,140 --> 01:08:22,434
+Of course, Sisko will miss me terribly...
+
+977
+01:08:24,479 --> 01:08:29,474
+...but a man has got to be doing
+what it is that a man has got to be doing.
+
+978
+01:08:30,152 --> 01:08:33,355
+Do svidaniya, all. Goodbye.
+
+979
+01:08:33,864 --> 01:08:36,106
+Goodbye.
+
+980
+01:08:36,283 --> 01:08:39,699
+I thought he'd never leave. Cheers.
+
+981
+01:08:41,246 --> 01:08:43,038
+Well, another case solved.
+
+982
+01:08:43,207 --> 01:08:45,994
+I don't know.
+Something's still bugging me.
+
+983
+01:08:46,168 --> 01:08:49,833
+Yeah, I miss the part where the bad guy
+says he would've gotten away with it...
+
+984
+01:08:50,005 --> 01:08:52,710
+-...if it hadn't been for us.
+-Wait.
+
+985
+01:08:52,883 --> 01:08:54,674
+Archambault said "black diamond."
+
+986
+01:08:54,843 --> 01:08:57,215
+But the last he heard,
+that gem was a carbonado.
+
+987
+01:08:57,387 --> 01:08:59,131
+-So?
+-And do you remember...
+
+988
+01:08:59,306 --> 01:09:03,173
+-...what Doubleday said?
+-You won't take us that easy.
+
+989
+01:09:03,352 --> 01:09:06,306
+He said "us."
+Archambault caught Doubleday...
+
+990
+01:09:06,480 --> 01:09:09,730
+...after he tranquilized him.
+He could have the black diamond.
+
+991
+01:09:09,900 --> 01:09:14,645
+And Archambault said he broke his ropes,
+but that rope hadn't been broken.
+
+992
+01:09:14,821 --> 01:09:16,731
+The ends looked like they'd been cut.
+
+993
+01:09:16,907 --> 01:09:18,022
+And the book.
+
+994
+01:09:20,244 --> 01:09:23,198
+Archambault was the one
+who knocked it off the shelf.
+
+995
+01:09:23,372 --> 01:09:26,456
+I'll bet he planted it there.
+It all adds up.
+
+996
+01:09:26,625 --> 01:09:28,534
+Archambault was in on it.
+
+997
+01:09:28,710 --> 01:09:31,415
+We've got to catch that train.
+
+998
+01:09:32,923 --> 01:09:36,755
+-Come on, come on.
+-I'm going as fast as I can.
+
+999
+01:09:48,397 --> 01:09:49,428
+Uh-oh. Look.
+
+1000
+01:09:51,275 --> 01:09:55,059
+We gotta get on that train somehow.
+
+1001
+01:09:55,237 --> 01:09:57,395
+What? What are you looking at?
+
+1002
+01:09:57,573 --> 01:09:59,565
+Shaggy, how far can you jump?
+
+1003
+01:09:59,908 --> 01:10:01,071
+Huh?
+
+1004
+01:10:01,243 --> 01:10:07,744
+Oh, no. Oh, no. No, no, no. No. No!
+
+1005
+01:10:11,712 --> 01:10:14,463
+Come on, guys,
+jump so I can get up there.
+
+1006
+01:10:14,631 --> 01:10:17,751
+How did we get talked into this,
+Scoob?
+
+1007
+01:10:17,926 --> 01:10:21,426
+How can you still be mad?
+I said I was sorry.
+
+1008
+01:10:24,850 --> 01:10:26,973
+(BOTH YELL)
+
+1009
+01:10:30,606 --> 01:10:32,314
+Too late, Daphne.
+
+1010
+01:10:35,485 --> 01:10:38,689
+-I guess it's just us, Scoob.
+-Hmph.
+
+1011
+01:10:38,864 --> 01:10:42,612
+Boy, he really can hold a grudge.
+
+1012
+01:10:49,249 --> 01:10:50,328
+(MARIUS GRUNTS)
+
+1013
+01:10:50,501 --> 01:10:54,332
+Tell Archambault where is key
+or Archambault get angry.
+
+1014
+01:10:54,505 --> 01:10:57,078
+This isn't angry?
+
+1015
+01:10:58,383 --> 01:11:01,254
+-We gotta stop him.
+-We?
+
+1016
+01:11:01,428 --> 01:11:05,011
+Scooby-Doo, like, dude, I'm sorry.
+
+1017
+01:11:05,182 --> 01:11:09,511
+You're the best friend a guy could have,
+and you're the best circus performer too.
+
+1018
+01:11:09,686 --> 01:11:10,849
+That's right.
+
+1019
+01:11:11,021 --> 01:11:14,805
+Won't you please forgive me,
+old buddy, old pal? Heh.
+
+1020
+01:11:15,359 --> 01:11:18,313
+Oh, maybe.
+
+1021
+01:11:18,487 --> 01:11:21,156
+I know it was wrong
+to treat you like a trained animal.
+
+1022
+01:11:21,323 --> 01:11:24,526
+I was a complete--
+
+1023
+01:11:24,701 --> 01:11:26,860
+(IN UNISON)
+Trained animals.
+
+1024
+01:11:32,000 --> 01:11:33,245
+FRED: Hey.
+DAPHNE: Stop please.
+
+1025
+01:11:33,418 --> 01:11:35,660
+FRED: Slow down. Stop.
+VELMA: Stop that train.
+
+1026
+01:11:41,635 --> 01:11:47,139
+Ah, it's so nice to see young folks
+taking an interest in the railroads.
+
+1027
+01:11:47,307 --> 01:11:48,387
+(TRAIN WHISTLE WAILS)
+
+1028
+01:11:49,142 --> 01:11:51,680
+Hey, animals. We need your help.
+
+1029
+01:11:55,190 --> 01:11:56,221
+Um....
+
+1030
+01:11:56,400 --> 01:11:58,191
+(SPEAKING IN SPANISH)
+
+1031
+01:11:59,987 --> 01:12:02,193
+Allow me.
+
+1032
+01:12:03,407 --> 01:12:05,530
+(BARKING)
+
+1033
+01:12:13,083 --> 01:12:14,542
+(BABOONS GIBBERING)
+
+1034
+01:12:14,710 --> 01:12:18,375
+Scooby speaks baboon? Who knew?
+
+1035
+01:12:21,508 --> 01:12:22,539
+(HORSE WHINNIES)
+
+1036
+01:12:24,261 --> 01:12:26,419
+Ha. Best superb.
+
+1037
+01:12:26,597 --> 01:12:31,591
+Archambault just wants to say he has
+enjoyed doing the business with you. Huh?
+
+1038
+01:12:31,768 --> 01:12:33,761
+(PLAYS "CHARGE")
+
+1039
+01:12:34,813 --> 01:12:39,771
+Ha, ha. Archambault never punch
+a horse before. Could be fun.
+
+1040
+01:12:40,444 --> 01:12:42,152
+(HORSE NEIGHS)
+
+1041
+01:12:42,446 --> 01:12:44,106
+(BABOONS GIBBERING
+AND SCREECHING)
+
+1042
+01:12:49,286 --> 01:12:51,824
+Sleepy time for the monkeys.
+
+1043
+01:12:51,997 --> 01:12:53,028
+(GUN CLICKS)
+
+1044
+01:12:53,207 --> 01:12:55,033
+Huh? What?
+
+1045
+01:12:55,209 --> 01:12:56,952
+Where are the darts?
+
+1046
+01:12:57,127 --> 01:12:59,452
+Don't worry, I got them right here.
+
+1047
+01:13:04,676 --> 01:13:07,167
+No! Bad monkeys!
+
+1048
+01:13:07,346 --> 01:13:08,970
+(BREAKING)
+
+1049
+01:13:11,141 --> 01:13:13,810
+Like, what do we do now?
+
+1050
+01:13:14,436 --> 01:13:15,895
+Hello, peoples.
+
+1051
+01:13:16,063 --> 01:13:18,055
+-Run!
+-Run!
+
+1052
+01:13:21,151 --> 01:13:25,647
+Come back here, dog and hippie.
+Archambault won't hurt you much.
+
+1053
+01:13:25,822 --> 01:13:27,981
+Did he just call me a hippie?
+
+1054
+01:13:34,331 --> 01:13:35,494
+(BOTH YELL)
+
+1055
+01:13:41,380 --> 01:13:43,372
+(BANGING)
+
+1056
+01:13:48,178 --> 01:13:49,459
+(GROWLS)
+
+1057
+01:13:49,638 --> 01:13:51,263
+(BOTH WHIMPERING)
+
+1058
+01:14:02,651 --> 01:14:03,931
+(SHAGGY YELLS)
+
+1059
+01:14:16,039 --> 01:14:17,119
+Jump.
+
+1060
+01:14:18,417 --> 01:14:20,290
+-Huh?
+-Well, duh.
+
+1061
+01:14:21,753 --> 01:14:23,331
+(YELLS)
+
+1062
+01:14:29,678 --> 01:14:32,798
+-Thanks, buddy.
+-Anytime, pal.
+
+1063
+01:14:32,973 --> 01:14:34,467
+(BOTH SHRIEK)
+
+1064
+01:14:35,142 --> 01:14:36,387
+(GRUNTS)
+
+1065
+01:14:36,560 --> 01:14:39,312
+Archambault not built
+for the long jump.
+
+1066
+01:14:42,608 --> 01:14:46,226
+Scoob. I got an idea.
+Follow me.
+
+1067
+01:14:53,327 --> 01:14:54,406
+What?
+
+1068
+01:14:56,121 --> 01:14:57,402
+(GASPS)
+
+1069
+01:14:57,706 --> 01:14:58,737
+(YELLS)
+
+1070
+01:14:59,791 --> 01:15:00,823
+Ow!
+
+1071
+01:15:01,001 --> 01:15:02,412
+(SPEAKS IN FRENCH)
+
+1072
+01:15:02,586 --> 01:15:04,164
+My....
+
+1073
+01:15:04,338 --> 01:15:05,748
+(GROANS)
+
+1074
+01:15:09,426 --> 01:15:11,086
+(SNORING)
+
+1075
+01:15:14,014 --> 01:15:16,683
+-Good work, Shaggy.
+-You too, Scoob.
+
+1076
+01:15:24,525 --> 01:15:25,723
+This guy is tough.
+
+1077
+01:15:25,901 --> 01:15:28,688
+I think those tranquilizers
+are starting to wear off already.
+
+1078
+01:15:28,862 --> 01:15:32,278
+MARIUS: Apparently, Archambault
+and Doubleday were both angry...
+
+1079
+01:15:32,449 --> 01:15:35,154
+...when my uncle left me the circus.
+
+1080
+01:15:35,327 --> 01:15:38,945
+I understand it.
+They worked for him for years...
+
+1081
+01:15:39,122 --> 01:15:42,123
+...then suddenly his nephew comes in
+and wants to change everything.
+
+1082
+01:15:42,292 --> 01:15:45,578
+And then, when Archambault saw
+that Doubleday was caught...
+
+1083
+01:15:45,754 --> 01:15:48,708
+...he double-crossed him,
+hoping to buy himself enough time...
+
+1084
+01:15:48,882 --> 01:15:52,002
+...to make off with the jewels
+and the box-office money.
+
+1085
+01:15:52,177 --> 01:15:55,012
+And Archambault would have
+get away with it...
+
+1086
+01:15:55,180 --> 01:15:59,095
+...if it don't be for the young peoples
+and the nosy dog, there.
+
+1087
+01:15:59,268 --> 01:16:01,593
+Oh. I do like to hear that.
+
+1088
+01:16:03,063 --> 01:16:05,768
+Guess that wraps it up.
+
+1089
+01:16:12,406 --> 01:16:16,238
+I got your call.
+Hey, that's a train. Choo-choo!
+
+1090
+01:16:16,410 --> 01:16:18,698
+Mr., uh, Wulfric, sir?
+
+1091
+01:16:18,871 --> 01:16:23,248
+Um, hi. Ha, ha.
+Uh, we caught Doubleday's accomplice...
+
+1092
+01:16:23,417 --> 01:16:25,908
+...and, uh, he had this in his pocket.
+
+1093
+01:16:26,837 --> 01:16:29,754
+Brilliant. Just brilliant.
+
+1094
+01:16:31,717 --> 01:16:35,216
+That one's my second favorite.
+
+1095
+01:16:35,929 --> 01:16:37,838
+I really gotta thank you.
+
+1096
+01:16:38,015 --> 01:16:39,842
+And I have to thank you again.
+
+1097
+01:16:40,017 --> 01:16:44,513
+-Is there anything I can do for you?
+-They won't take money, I tried that.
+
+1098
+01:16:44,688 --> 01:16:46,977
+Well, there must be something, right?
+
+1099
+01:16:47,357 --> 01:16:50,561
+Hmm. Maybe there is.
+
+1100
+01:16:57,451 --> 01:16:59,989
+Like, man, this is the best. Heh.
+
+1101
+01:17:00,162 --> 01:17:03,946
+-Right, buddy?
+-You said it, amigo.
+
+1102
+01:17:10,547 --> 01:17:12,374
+Hello, Cleveland.
+
+1103
+01:17:12,549 --> 01:17:13,878
+(WHISPERS)
+We're in Atlantic City.
+
+1104
+01:17:14,051 --> 01:17:15,082
+Right.
+
+1105
+01:17:15,260 --> 01:17:17,965
+Hello, you guys.
+
+1106
+01:17:18,138 --> 01:17:21,388
+-Are you ready to rock?
+ALL: Yes!
+
+1107
+01:17:21,558 --> 01:17:22,887
+SHAGGY:
+Totally!
+
+1108
+01:17:23,060 --> 01:17:25,633
+Well, I need a minute.
+
+1109
+01:17:30,234 --> 01:17:32,107
+(YELLING)
+
+1110
+01:17:33,487 --> 01:17:36,322
+(BAND PLAYING HEAVY METAL MUSIC)
+
+1111
+01:17:36,490 --> 01:17:39,740
+(SINGING)
+Mystery Inc., Mystery Inc.
+
+1112
+01:17:39,910 --> 01:17:43,243
+They helped me out a lot, I think
+
+1113
+01:17:43,413 --> 01:17:46,580
+Mystery Inc., Mystery Inc.
+
+1114
+01:17:46,750 --> 01:17:50,333
+They helped me out a lot, I think
+
+1115
+01:17:50,504 --> 01:17:53,505
+There's a dog named Scooby
+And some other guys
+
+1116
+01:17:53,674 --> 01:17:56,046
+And I said I'd write them a song
+
+1117
+01:17:56,218 --> 01:18:02,967
+But I forgot to
+
+1118
+01:18:03,141 --> 01:18:06,012
+Scooby-Dooby-Doo.
+
+1119
+01:18:10,887 --> 01:18:13,887
+<font color="white">Sync.
+By</font>
+
+1120
+01:18:13,887 --> 01:18:14,387
+<font color="#1537F5">A</font>
+
+1121
+01:18:14,387 --> 01:18:14,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font>
+
+1122
+01:18:14,887 --> 01:18:15,387
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font>
+
+1123
+01:18:15,387 --> 01:18:15,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font>
+
+1124
+01:18:15,887 --> 01:18:16,387
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font>
+
+1125
+01:18:16,387 --> 01:18:16,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font>
+
+1126
+01:18:16,887 --> 01:18:17,387
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font>
+
+1127
+01:18:17,387 --> 01:18:17,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font>
+
+1128
+01:18:17,887 --> 01:18:18,387
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font><font color="#7E4412">c</font>
+
+1129
+01:18:18,387 --> 01:18:18,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font><font color="#7E4412">c</font><font color="#4F6421">e</font>
+
+1130
+01:18:18,887 --> 01:18:19,387
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font><font color="#7E4412">c</font><font color="#4F6421">e</font><font color="#3FF117">B</font>
+
+1131
+01:18:19,387 --> 01:18:19,887
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font><font color="#7E4412">c</font><font color="#4F6421">e</font><font color="#3FF117">B</font><font color="#19EBD9">o</font>
+
+1132
+01:18:19,887 --> 01:18:35,487
+<font color="#1537F5">A</font><font color="#866DF3">h</font><font color="#7E1A9F">m</font><font color="#DC11DC">@</font><font color="#F21AA6">d</font><font color="#F91593">_</font><font color="#F96115">N</font><font color="#FA0909">i</font><font color="#7E4412">c</font><font color="#4F6421">e</font><font color="#3FF117">B</font><font color="#19EBD9">o</font><font color="#1537F5">y</font>

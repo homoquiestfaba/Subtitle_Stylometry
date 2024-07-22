@@ -1,0 +1,4029 @@
+1
+00:01:04,967 --> 00:01:07,356  X1:000 X2:719 Y1:002 Y2:574
+This is Mr Mathison.
+He's a doctor.
+
+2
+00:01:08,967 --> 00:01:12,846  X1:000 X2:719 Y1:002 Y2:574
+- Are you okay?
+- An ambulance is on the way.
+
+3
+00:01:12,927 --> 00:01:14,838  X1:000 X2:719 Y1:002 Y2:574
+Thankyou.
+
+4
+00:01:20,807 --> 00:01:22,718  X1:000 X2:719 Y1:002 Y2:574
+Is there a name yet?
+
+5
+00:01:23,927 --> 00:01:25,838  X1:000 X2:719 Y1:002 Y2:574
+Elijah.
+
+6
+00:01:30,087 --> 00:01:33,079  X1:000 X2:719 Y1:002 Y2:574
+Is he supposed
+to be crying like this?
+
+7
+00:01:33,167 --> 00:01:35,078  X1:000 X2:719 Y1:002 Y2:574
+May l?
+
+8
+00:01:49,887 --> 00:01:51,798  X1:000 X2:719 Y1:002 Y2:574
+Can I have him back?
+
+9
+00:01:56,207 --> 00:01:58,402  X1:000 X2:719 Y1:002 Y2:574
+What happened during the delivery?
+
+10
+00:01:58,487 --> 00:02:01,047  X1:000 X2:719 Y1:002 Y2:574
+Nothing.
+It was very quick.
+
+11
+00:02:01,127 --> 00:02:03,197  X1:000 X2:719 Y1:002 Y2:574
+The babyjust wanted
+to come right out.
+
+12
+00:02:03,287 --> 00:02:05,198  X1:000 X2:719 Y1:002 Y2:574
+And there were no problems.
+
+13
+00:02:07,287 --> 00:02:09,482  X1:000 X2:719 Y1:002 Y2:574
+Did you drop him?
+
+14
+00:02:09,567 --> 00:02:11,478  X1:000 X2:719 Y1:002 Y2:574
+What?
+
+15
+00:02:11,567 --> 00:02:13,603  X1:000 X2:719 Y1:002 Y2:574
+Did you drop this baby?
+
+16
+00:02:13,687 --> 00:02:15,598  X1:000 X2:719 Y1:002 Y2:574
+Jesus Christ, no.
+
+17
+00:02:20,567 --> 00:02:23,445  X1:000 X2:719 Y1:002 Y2:574
+Inform the ambulance
+that we have a situation.
+
+18
+00:02:23,527 --> 00:02:26,360  X1:000 X2:719 Y1:002 Y2:574
+All right.
+Molly.
+
+19
+00:02:26,447 --> 00:02:29,166  X1:000 X2:719 Y1:002 Y2:574
+I've never seen this.
+
+20
+00:02:32,007 --> 00:02:35,716  X1:000 X2:719 Y1:002 Y2:574
+It appears that your baby
+has sustained some fractures...
+
+21
+00:02:35,807 --> 00:02:37,718  X1:000 X2:719 Y1:002 Y2:574
+while inside your uterus.
+
+22
+00:02:41,127 --> 00:02:43,038  X1:000 X2:719 Y1:002 Y2:574
+His arms and his legs are broken.
+
+23
+00:03:31,207 --> 00:03:33,198  X1:000 X2:719 Y1:002 Y2:574
+This is Eastrail 177.
+
+24
+00:03:33,287 --> 00:03:35,323  X1:000 X2:719 Y1:002 Y2:574
+Nextstop, Philadelphia.
+
+25
+00:04:07,887 --> 00:04:09,798  X1:000 X2:719 Y1:002 Y2:574
+Are you alone?
+
+26
+00:04:11,407 --> 00:04:13,398  X1:000 X2:719 Y1:002 Y2:574
+- Yeah.
+- Yeah.
+
+27
+00:04:57,567 --> 00:04:59,683  X1:000 X2:719 Y1:002 Y2:574
+Someone left this magazine.
+
+28
+00:04:59,767 --> 00:05:01,678  X1:000 X2:719 Y1:002 Y2:574
+Want to take a look at it?
+
+29
+00:05:01,767 --> 00:05:03,678  X1:000 X2:719 Y1:002 Y2:574
+Could I take a look at that one?
+
+30
+00:05:09,807 --> 00:05:11,604  X1:000 X2:719 Y1:002 Y2:574
+Thanks.
+
+31
+00:05:11,687 --> 00:05:14,485  X1:000 X2:719 Y1:002 Y2:574
+- You like sports?
+- It's my fiîeld.
+
+32
+00:05:14,567 --> 00:05:16,478  X1:000 X2:719 Y1:002 Y2:574
+I represent athletes.
+I'm an agent.
+
+33
+00:05:18,407 --> 00:05:21,558  X1:000 X2:719 Y1:002 Y2:574
+Are you looking for any
+male synchronized swimmers?
+
+34
+00:05:21,647 --> 00:05:24,320  X1:000 X2:719 Y1:002 Y2:574
+- I'm thinking about getting into that.
+- Is that right?
+
+35
+00:05:27,607 --> 00:05:29,518  X1:000 X2:719 Y1:002 Y2:574
+I'm afraid ofwater.
+
+36
+00:05:29,607 --> 00:05:31,518  X1:000 X2:719 Y1:002 Y2:574
+Think that's a problem?
+
+37
+00:05:38,727 --> 00:05:41,525  X1:000 X2:719 Y1:002 Y2:574
+You represent someone
+in Philadelphia?
+
+38
+00:05:41,607 --> 00:05:43,757  X1:000 X2:719 Y1:002 Y2:574
+I'm meeting this player
+from Temple University.
+
+39
+00:05:43,847 --> 00:05:45,758  X1:000 X2:719 Y1:002 Y2:574
+He's a cornerback.
+
+40
+00:05:45,847 --> 00:05:49,442  X1:000 X2:719 Y1:002 Y2:574
+This kid is 6'1 ", 2 1 0 pounds.
+
+41
+00:05:49,527 --> 00:05:53,520  X1:000 X2:719 Y1:002 Y2:574
+He runs a 40 in 4.3 seconds.
+He's gonna be a god.
+
+42
+00:05:53,607 --> 00:05:56,485  X1:000 X2:719 Y1:002 Y2:574
+Do you like football?
+
+43
+00:05:56,567 --> 00:05:58,478  X1:000 X2:719 Y1:002 Y2:574
+Not really.
+
+44
+00:06:09,287 --> 00:06:12,836  X1:000 X2:719 Y1:002 Y2:574
+- I'm David Dunn.
+- Kelly.
+
+45
+00:06:12,927 --> 00:06:15,566  X1:000 X2:719 Y1:002 Y2:574
+- Hi.
+- Hi, nice to meet you.
+
+46
+00:06:15,647 --> 00:06:17,558  X1:000 X2:719 Y1:002 Y2:574
+Nice-Nice to meet you.
+
+47
+00:06:24,847 --> 00:06:27,315  X1:000 X2:719 Y1:002 Y2:574
+How long are you gonna be
+in Philadelphia?
+
+48
+00:06:35,127 --> 00:06:38,119  X1:000 X2:719 Y1:002 Y2:574
+- I'm married.
+- Great.
+
+49
+00:06:38,207 --> 00:06:40,926  X1:000 X2:719 Y1:002 Y2:574
+- I'm sorry.
+- What are you talking about?
+
+50
+00:06:43,607 --> 00:06:45,757  X1:000 X2:719 Y1:002 Y2:574
+I--
+
+51
+00:06:45,847 --> 00:06:49,965  X1:000 X2:719 Y1:002 Y2:574
+I thinkyou misunderstood
+what I was, uh...
+
+52
+00:06:50,047 --> 00:06:52,117  X1:000 X2:719 Y1:002 Y2:574
+- s-saying--
+- I know.
+
+53
+00:06:54,607 --> 00:06:56,837  X1:000 X2:719 Y1:002 Y2:574
+I think I'm gonna fiînd another seat.
+
+54
+00:06:56,927 --> 00:06:59,282  X1:000 X2:719 Y1:002 Y2:574
+I-l didn't mean, uh--
+
+55
+00:08:34,847 --> 00:08:37,998  X1:000 X2:719 Y1:002 Y2:574
+That's what he failedto realize.
+Ilook classy, not trashy.
+
+56
+00:08:38,087 --> 00:08:42,717  X1:000 X2:719 Y1:002 Y2:574
+Ilook classytoo. What about me?
+Don't llook classy?
+
+57
+00:08:42,807 --> 00:08:45,116  X1:000 X2:719 Y1:002 Y2:574
+But I'm afraidyou forgot this!
+
+58
+00:08:45,207 --> 00:08:49,200  X1:000 X2:719 Y1:002 Y2:574
+- Andthis!And--
+- Where hasyou been, Banana?
+
+59
+00:08:49,287 --> 00:08:51,437  X1:000 X2:719 Y1:002 Y2:574
+Nowl'vegotyou, weasel.
+
+60
+00:08:51,527 --> 00:08:56,043  X1:000 X2:719 Y1:002 Y2:574
+Some carsarestillon fire,
+andthe debris is everywhere.
+
+61
+00:08:56,127 --> 00:08:57,958  X1:000 X2:719 Y1:002 Y2:574
+We are notsure at this time, uh...
+
+62
+00:08:58,047 --> 00:09:00,436  X1:000 X2:719 Y1:002 Y2:574
+howrescuepersonnel willbe able
+toget on scene at all.
+
+63
+00:09:00,527 --> 00:09:02,995  X1:000 X2:719 Y1:002 Y2:574
+Ifyou'rejust tuning in,
+Eastrailtrain number 177...
+
+64
+00:09:03,087 --> 00:09:05,396  X1:000 X2:719 Y1:002 Y2:574
+hasderailed
+just outside Philadelphia.
+
+65
+00:09:05,487 --> 00:09:07,717  X1:000 X2:719 Y1:002 Y2:574
+And we're bringingyou
+live coverage from Skycam 4.
+
+66
+00:09:07,807 --> 00:09:10,037  X1:000 X2:719 Y1:002 Y2:574
+Yes, that is-- It appears
+to be a rescue ambulance...
+
+67
+00:09:10,127 --> 00:09:12,925  X1:000 X2:719 Y1:002 Y2:574
+andthere are more behindit
+lcan see on the access road.
+
+68
+00:09:13,007 --> 00:09:15,396  X1:000 X2:719 Y1:002 Y2:574
+Idon't knowhowclose they're
+gonna be able toget, David.
+
+69
+00:09:15,487 --> 00:09:18,160  X1:000 X2:719 Y1:002 Y2:574
+These are woodsand, uh, trees.
+
+70
+00:09:18,247 --> 00:09:20,556  X1:000 X2:719 Y1:002 Y2:574
+It'sgonna be a very
+difficult rescue effort.
+
+71
+00:09:36,007 --> 00:09:37,918  X1:000 X2:719 Y1:002 Y2:574
+Try to hack some ofthat off.
+
+72
+00:09:50,287 --> 00:09:53,836  X1:000 X2:719 Y1:002 Y2:574
+Hi. I'm Dr Dubin.
+
+73
+00:09:53,927 --> 00:09:57,476  X1:000 X2:719 Y1:002 Y2:574
+You're in the emergency room in
+the Philadelphia City Hospital.
+
+74
+00:09:57,567 --> 00:09:59,478  X1:000 X2:719 Y1:002 Y2:574
+You were in a serious accident.
+
+75
+00:10:00,567 --> 00:10:02,762  X1:000 X2:719 Y1:002 Y2:574
+Look at me.
+
+76
+00:10:02,847 --> 00:10:04,758  X1:000 X2:719 Y1:002 Y2:574
+How are you feeling?
+
+77
+00:10:06,567 --> 00:10:08,683  X1:000 X2:719 Y1:002 Y2:574
+- Okay.
+- Good.
+
+78
+00:10:08,767 --> 00:10:11,122  X1:000 X2:719 Y1:002 Y2:574
+I'm gonna askyou some questions.
+
+79
+00:10:11,207 --> 00:10:14,836  X1:000 X2:719 Y1:002 Y2:574
+Have you ever had any heart
+or asthma problems in the past?
+
+80
+00:10:14,927 --> 00:10:18,920  X1:000 X2:719 Y1:002 Y2:574
+- No.
+- Kidney or renal problems?
+
+81
+00:10:19,007 --> 00:10:21,396  X1:000 X2:719 Y1:002 Y2:574
+- No.
+- Any allergies?
+
+82
+00:10:23,687 --> 00:10:25,598  X1:000 X2:719 Y1:002 Y2:574
+No.
+
+83
+00:10:30,207 --> 00:10:32,118  X1:000 X2:719 Y1:002 Y2:574
+Where were you sitting
+on the train?
+
+84
+00:10:35,967 --> 00:10:38,686  X1:000 X2:719 Y1:002 Y2:574
+- Against the window.
+- In the passenger car?
+
+85
+00:10:40,847 --> 00:10:42,758  X1:000 X2:719 Y1:002 Y2:574
+Yeah.
+
+86
+00:10:44,887 --> 00:10:48,482  X1:000 X2:719 Y1:002 Y2:574
+- Where are the other passengers?
+- Was your family travelling with you?
+
+87
+00:10:51,047 --> 00:10:52,878  X1:000 X2:719 Y1:002 Y2:574
+No.
+
+88
+00:10:52,967 --> 00:10:55,561  X1:000 X2:719 Y1:002 Y2:574
+Did you get up from your seat?
+
+89
+00:11:00,967 --> 00:11:03,879  X1:000 X2:719 Y1:002 Y2:574
+Are you certain
+you were in the passenger car?
+
+90
+00:11:08,927 --> 00:11:10,838  X1:000 X2:719 Y1:002 Y2:574
+Yes.
+
+91
+00:11:18,087 --> 00:11:20,806  X1:000 X2:719 Y1:002 Y2:574
+Why are you looking at me like that?
+
+92
+00:11:20,887 --> 00:11:22,843  X1:000 X2:719 Y1:002 Y2:574
+Your train derailed.
+
+93
+00:11:22,927 --> 00:11:25,566  X1:000 X2:719 Y1:002 Y2:574
+Some kind of malfunction.
+
+94
+00:11:25,647 --> 00:11:28,480  X1:000 X2:719 Y1:002 Y2:574
+They only found
+two people alive so far--
+
+95
+00:11:28,567 --> 00:11:30,478  X1:000 X2:719 Y1:002 Y2:574
+you and this man.
+
+96
+00:11:32,767 --> 00:11:35,964  X1:000 X2:719 Y1:002 Y2:574
+His skull was cracked open and
+most of his left side was crushed.
+
+97
+00:11:38,047 --> 00:11:40,083  X1:000 X2:719 Y1:002 Y2:574
+And to answeryour question,
+there are two reasons...
+
+98
+00:11:40,167 --> 00:11:43,079  X1:000 X2:719 Y1:002 Y2:574
+why I'm looking at you like this.
+
+99
+00:11:43,167 --> 00:11:45,840  X1:000 X2:719 Y1:002 Y2:574
+One, because it seems
+in a few minutes...
+
+100
+00:11:45,927 --> 00:11:50,045  X1:000 X2:719 Y1:002 Y2:574
+that you will offiîcially be
+the only survivor ofthis train wreck.
+
+101
+00:11:50,127 --> 00:11:52,925  X1:000 X2:719 Y1:002 Y2:574
+And two...
+
+102
+00:11:53,007 --> 00:11:54,918  X1:000 X2:719 Y1:002 Y2:574
+because you didn't break one bone.
+
+103
+00:11:56,287 --> 00:11:58,198  X1:000 X2:719 Y1:002 Y2:574
+You don't have a scratch on you.
+
+104
+00:13:39,927 --> 00:13:41,804  X1:000 X2:719 Y1:002 Y2:574
+David?
+
+105
+00:13:44,367 --> 00:13:48,121  X1:000 X2:719 Y1:002 Y2:574
+What happened in New York?
+
+106
+00:13:49,887 --> 00:13:52,162  X1:000 X2:719 Y1:002 Y2:574
+I don't think I got thejob.
+
+107
+00:13:53,927 --> 00:13:56,964  X1:000 X2:719 Y1:002 Y2:574
+I'm still going to, uh--
+
+108
+00:13:57,047 --> 00:13:59,686  X1:000 X2:719 Y1:002 Y2:574
+I'm still moving there.
+
+109
+00:13:59,767 --> 00:14:01,678  X1:000 X2:719 Y1:002 Y2:574
+Just--
+
+110
+00:14:02,767 --> 00:14:04,678  X1:000 X2:719 Y1:002 Y2:574
+Uh, just-just not now.
+
+111
+00:14:09,487 --> 00:14:11,557  X1:000 X2:719 Y1:002 Y2:574
+Good night.
+
+112
+00:14:14,567 --> 00:14:16,478  X1:000 X2:719 Y1:002 Y2:574
+Good night.
+
+113
+00:14:27,967 --> 00:14:29,923  X1:000 X2:719 Y1:002 Y2:574
+Sara Elaston...
+
+114
+00:14:30,007 --> 00:14:33,044  X1:000 X2:719 Y1:002 Y2:574
+social worker at
+Broad and Locust Community Centre.
+
+115
+00:14:34,247 --> 00:14:36,317  X1:000 X2:719 Y1:002 Y2:574
+We pray foryour soul.
+
+116
+00:14:38,407 --> 00:14:41,399  X1:000 X2:719 Y1:002 Y2:574
+Kevin Elliot, businessman...
+
+117
+00:14:41,487 --> 00:14:44,240  X1:000 X2:719 Y1:002 Y2:574
+father ofsix.
+
+118
+00:14:44,327 --> 00:14:46,238  X1:000 X2:719 Y1:002 Y2:574
+We pray foryour soul.
+
+119
+00:14:47,767 --> 00:14:49,837  X1:000 X2:719 Y1:002 Y2:574
+Glen Stevens...
+
+120
+00:14:49,927 --> 00:14:53,078  X1:000 X2:719 Y1:002 Y2:574
+researcher in the area
+of leukemia...
+
+121
+00:14:53,167 --> 00:14:55,078  X1:000 X2:719 Y1:002 Y2:574
+at Drexel University.
+
+122
+00:14:56,807 --> 00:14:58,718  X1:000 X2:719 Y1:002 Y2:574
+We pray foryour soul.
+
+123
+00:15:00,447 --> 00:15:02,517  X1:000 X2:719 Y1:002 Y2:574
+Jennifer Pennyman...
+
+124
+00:15:02,607 --> 00:15:06,600  X1:000 X2:719 Y1:002 Y2:574
+third-grade teacher
+atJefferson Elementary.
+
+125
+00:15:08,727 --> 00:15:10,638  X1:000 X2:719 Y1:002 Y2:574
+We pray foryour soul.
+
+126
+00:16:14,967 --> 00:16:18,004  X1:000 X2:719 Y1:002 Y2:574
+- Yes?
+- Is Noel in, ma'am?
+
+127
+00:16:18,087 --> 00:16:19,998  X1:000 X2:719 Y1:002 Y2:574
+No, sir, he is not.
+
+128
+00:16:21,367 --> 00:16:24,086  X1:000 X2:719 Y1:002 Y2:574
+I read about you in the paper.
+
+129
+00:16:24,167 --> 00:16:27,284  X1:000 X2:719 Y1:002 Y2:574
+- What?
+- I was in an accident once too.
+
+130
+00:16:27,367 --> 00:16:30,245  X1:000 X2:719 Y1:002 Y2:574
+A horse almost trampled me to death.
+
+131
+00:16:30,327 --> 00:16:32,238  X1:000 X2:719 Y1:002 Y2:574
+- Wow.
+- Had him put down.
+
+132
+00:16:34,807 --> 00:16:36,718  X1:000 X2:719 Y1:002 Y2:574
+That's a sad story.
+
+133
+00:16:39,487 --> 00:16:44,197  X1:000 X2:719 Y1:002 Y2:574
+Could-- Could you ask Noel
+something for me, please?
+
+134
+00:16:44,287 --> 00:16:46,357  X1:000 X2:719 Y1:002 Y2:574
+Proceed.
+
+135
+00:16:46,447 --> 00:16:48,403  X1:000 X2:719 Y1:002 Y2:574
+Would you ask him to check
+how many sick days I've taken...
+
+136
+00:16:48,487 --> 00:16:50,523  X1:000 X2:719 Y1:002 Y2:574
+since I've worked here?
+
+137
+00:16:50,607 --> 00:16:53,360  X1:000 X2:719 Y1:002 Y2:574
+- That the entire message?
+- Yes, ma'am.
+
+138
+00:16:57,127 --> 00:16:59,038  X1:000 X2:719 Y1:002 Y2:574
+Thankyou.
+
+139
+00:17:35,727 --> 00:17:37,445  X1:000 X2:719 Y1:002 Y2:574
+Hey, Noel.
+
+140
+00:17:37,527 --> 00:17:39,677  X1:000 X2:719 Y1:002 Y2:574
+What, you hit your head on that train?
+
+141
+00:17:39,767 --> 00:17:41,678  X1:000 X2:719 Y1:002 Y2:574
+Get your brain
+to start working again?
+
+142
+00:17:43,167 --> 00:17:45,761  X1:000 X2:719 Y1:002 Y2:574
+- What?
+- Forty dollars.
+
+143
+00:17:47,327 --> 00:17:49,921  X1:000 X2:719 Y1:002 Y2:574
+- Forty dollars what?
+- You're gettin' a $40-a-week raise.
+
+144
+00:17:50,007 --> 00:17:51,918  X1:000 X2:719 Y1:002 Y2:574
+That's it.
+
+145
+00:17:53,007 --> 00:17:56,079  X1:000 X2:719 Y1:002 Y2:574
+I checked. You were right.
+You've never taken a sick day.
+
+146
+00:17:56,167 --> 00:17:59,716  X1:000 X2:719 Y1:002 Y2:574
+Five years, no sick day.
+I get it. You want a raise.
+
+147
+00:17:59,807 --> 00:18:01,684  X1:000 X2:719 Y1:002 Y2:574
+Smart way to make your point.
+
+148
+00:18:27,327 --> 00:18:29,795  X1:000 X2:719 Y1:002 Y2:574
+- IsJoseph okay?
+- Yeah.
+
+149
+00:18:29,887 --> 00:18:32,321  X1:000 X2:719 Y1:002 Y2:574
+- He's asleep.
+- Oh.
+
+150
+00:18:36,167 --> 00:18:39,159  X1:000 X2:719 Y1:002 Y2:574
+I wanted to askyou a question.
+
+151
+00:18:39,247 --> 00:18:41,363  X1:000 X2:719 Y1:002 Y2:574
+It's gonna sound a little strange,
+but, uh...
+
+152
+00:18:41,447 --> 00:18:44,280  X1:000 X2:719 Y1:002 Y2:574
+just think about it
+for a second, okay?
+
+153
+00:18:44,367 --> 00:18:46,961  X1:000 X2:719 Y1:002 Y2:574
+Okay.
+
+154
+00:18:47,047 --> 00:18:49,117  X1:000 X2:719 Y1:002 Y2:574
+When's the last time I was sick?
+
+155
+00:18:49,207 --> 00:18:51,118  X1:000 X2:719 Y1:002 Y2:574
+Do you remember?
+
+156
+00:18:54,527 --> 00:18:56,438  X1:000 X2:719 Y1:002 Y2:574
+Um, l-l don't know.
+
+157
+00:18:58,407 --> 00:19:01,126  X1:000 X2:719 Y1:002 Y2:574
+It's been a while.
+
+158
+00:19:01,207 --> 00:19:04,836  X1:000 X2:719 Y1:002 Y2:574
+I haven't been sick this year,
+I know that.
+
+159
+00:19:04,927 --> 00:19:06,963  X1:000 X2:719 Y1:002 Y2:574
+Okay.
+
+160
+00:19:07,047 --> 00:19:08,958  X1:000 X2:719 Y1:002 Y2:574
+Do you remember me gettin' sick?
+
+161
+00:19:12,007 --> 00:19:14,202  X1:000 X2:719 Y1:002 Y2:574
+Um...
+
+162
+00:19:14,287 --> 00:19:16,482  X1:000 X2:719 Y1:002 Y2:574
+not a specifiîc day.
+
+163
+00:19:16,567 --> 00:19:18,683  X1:000 X2:719 Y1:002 Y2:574
+And what's-what's this about?
+
+164
+00:19:20,887 --> 00:19:24,277  X1:000 X2:719 Y1:002 Y2:574
+Audrey, do you remember me
+ever getting sick?
+
+165
+00:19:24,367 --> 00:19:27,120  X1:000 X2:719 Y1:002 Y2:574
+In the three years
+we lived in this house?
+
+166
+00:19:27,207 --> 00:19:29,198  X1:000 X2:719 Y1:002 Y2:574
+In the old apartment?
+
+167
+00:19:29,287 --> 00:19:32,120  X1:000 X2:719 Y1:002 Y2:574
+BeforeJoseph was born?
+Before we ever got married?
+
+168
+00:19:36,287 --> 00:19:38,198  X1:000 X2:719 Y1:002 Y2:574
+I-l can't remember.
+
+169
+00:19:40,007 --> 00:19:42,237  X1:000 X2:719 Y1:002 Y2:574
+Don't you think
+that's kind ofweird...
+
+170
+00:19:42,327 --> 00:19:46,320  X1:000 X2:719 Y1:002 Y2:574
+not remembering one cold
+or a-a fever or a sore throat?
+
+171
+00:19:48,527 --> 00:19:50,438  X1:000 X2:719 Y1:002 Y2:574
+What do you think it means?
+
+172
+00:19:55,007 --> 00:19:57,805  X1:000 X2:719 Y1:002 Y2:574
+Um...
+
+173
+00:19:57,887 --> 00:20:01,596  X1:000 X2:719 Y1:002 Y2:574
+I think it means
+I'm probably too tired to remember.
+
+174
+00:20:41,327 --> 00:20:45,525  X1:000 X2:719 Y1:002 Y2:574
+No more sittin' in this room.
+I let it go on long enough.
+
+175
+00:20:45,607 --> 00:20:48,644  X1:000 X2:719 Y1:002 Y2:574
+I'm not goin' out there any more.
+I'm not getting hurt again.
+
+176
+00:20:48,727 --> 00:20:52,879  X1:000 X2:719 Y1:002 Y2:574
+- This was the last time, I told you.
+- You can't do anything about that.
+
+177
+00:20:52,967 --> 00:20:55,197  X1:000 X2:719 Y1:002 Y2:574
+You might fall between
+this chair and that television.
+
+178
+00:20:55,287 --> 00:20:58,165  X1:000 X2:719 Y1:002 Y2:574
+Ifthat's what God has planned foryou,
+that's what's gonna happen.
+
+179
+00:20:58,247 --> 00:21:00,556  X1:000 X2:719 Y1:002 Y2:574
+You can't hide from it
+sittin' in a room.
+
+180
+00:21:04,447 --> 00:21:08,122  X1:000 X2:719 Y1:002 Y2:574
+They call me Mr Glass at school
+because I break like glass.
+
+181
+00:21:13,047 --> 00:21:14,958  X1:000 X2:719 Y1:002 Y2:574
+You make this decision now...
+
+182
+00:21:16,327 --> 00:21:18,238  X1:000 X2:719 Y1:002 Y2:574
+to be afraid...
+
+183
+00:21:19,807 --> 00:21:21,877  X1:000 X2:719 Y1:002 Y2:574
+and you will never turn back.
+
+184
+00:21:23,527 --> 00:21:28,157  X1:000 X2:719 Y1:002 Y2:574
+Your whole life,
+you will always be afraid.
+
+185
+00:21:42,367 --> 00:21:44,801  X1:000 X2:719 Y1:002 Y2:574
+- I got a present foryou.
+- Why?
+
+186
+00:21:46,447 --> 00:21:48,358  X1:000 X2:719 Y1:002 Y2:574
+Forget why.
+
+187
+00:21:50,847 --> 00:21:52,758  X1:000 X2:719 Y1:002 Y2:574
+You want it or not?
+
+188
+00:21:55,607 --> 00:21:57,723  X1:000 X2:719 Y1:002 Y2:574
+Well, go get it, then.
+
+189
+00:21:57,807 --> 00:22:00,640  X1:000 X2:719 Y1:002 Y2:574
+Where is it?
+
+190
+00:22:00,727 --> 00:22:03,241  X1:000 X2:719 Y1:002 Y2:574
+On a bench...
+
+191
+00:22:03,327 --> 00:22:05,238  X1:000 X2:719 Y1:002 Y2:574
+across the street.
+
+192
+00:22:18,727 --> 00:22:20,638  X1:000 X2:719 Y1:002 Y2:574
+Someone's gonna take it.
+
+193
+00:22:22,567 --> 00:22:25,206  X1:000 X2:719 Y1:002 Y2:574
+Then you better get out there soon.
+
+194
+00:23:36,607 --> 00:23:38,518  X1:000 X2:719 Y1:002 Y2:574
+I bought a whole bunch.
+
+195
+00:23:42,847 --> 00:23:44,838  X1:000 X2:719 Y1:002 Y2:574
+There'll be one ofthese
+waitin' foryou...
+
+196
+00:23:44,927 --> 00:23:46,997  X1:000 X2:719 Y1:002 Y2:574
+every time you want
+to come out here.
+
+197
+00:23:53,447 --> 00:23:56,439  X1:000 X2:719 Y1:002 Y2:574
+They say this one
+has a surprise ending.
+
+198
+00:24:04,967 --> 00:24:07,879  X1:000 X2:719 Y1:002 Y2:574
+This is from Fritz Campion's
+own library.
+
+199
+00:24:07,967 --> 00:24:12,677  X1:000 X2:719 Y1:002 Y2:574
+This is before the fiîrst issue of
+the comic book hit the stands in 1 968.
+
+200
+00:24:12,767 --> 00:24:16,646  X1:000 X2:719 Y1:002 Y2:574
+It's a classic depiction
+of good versus evil.
+
+201
+00:24:16,727 --> 00:24:20,561  X1:000 X2:719 Y1:002 Y2:574
+Notice the squarejaw ofSlayer,
+common in most comic heroes.
+
+202
+00:24:20,647 --> 00:24:24,242  X1:000 X2:719 Y1:002 Y2:574
+And the slightly disproportionate size
+ofJaguaro's head to his body.
+
+203
+00:24:24,327 --> 00:24:28,240  X1:000 X2:719 Y1:002 Y2:574
+This again is common,
+but only in villains.
+
+204
+00:24:28,327 --> 00:24:30,636  X1:000 X2:719 Y1:002 Y2:574
+The thing to notice about this piece...
+
+205
+00:24:30,727 --> 00:24:34,561  X1:000 X2:719 Y1:002 Y2:574
+the thing that makes it
+very, very special...
+
+206
+00:24:34,647 --> 00:24:37,605  X1:000 X2:719 Y1:002 Y2:574
+is its realistic depiction
+of its fiîgures.
+
+207
+00:24:37,687 --> 00:24:39,643  X1:000 X2:719 Y1:002 Y2:574
+When the characters
+reached the magazine...
+
+208
+00:24:39,727 --> 00:24:41,718  X1:000 X2:719 Y1:002 Y2:574
+they were exaggerated...
+
+209
+00:24:41,807 --> 00:24:43,957  X1:000 X2:719 Y1:002 Y2:574
+as always happens.
+
+210
+00:24:44,047 --> 00:24:47,642  X1:000 X2:719 Y1:002 Y2:574
+This is vintage.
+
+211
+00:24:50,407 --> 00:24:52,318  X1:000 X2:719 Y1:002 Y2:574
+Well...
+
+212
+00:24:57,207 --> 00:24:59,596  X1:000 X2:719 Y1:002 Y2:574
+wrap it up.
+
+213
+00:24:59,687 --> 00:25:01,996  X1:000 X2:719 Y1:002 Y2:574
+You've made a considerably
+wise decision.
+
+214
+00:25:07,207 --> 00:25:09,118  X1:000 X2:719 Y1:002 Y2:574
+Well, my kid's gonna go berserk.
+
+215
+00:25:12,527 --> 00:25:14,483  X1:000 X2:719 Y1:002 Y2:574
+Once again, please?
+
+216
+00:25:14,567 --> 00:25:17,240  X1:000 X2:719 Y1:002 Y2:574
+My sonJeb--
+it's a gift for him.
+
+217
+00:25:17,327 --> 00:25:20,080  X1:000 X2:719 Y1:002 Y2:574
+- How old isJeb?
+- He's four.
+
+218
+00:25:22,967 --> 00:25:24,958  X1:000 X2:719 Y1:002 Y2:574
+No.
+
+219
+00:25:25,047 --> 00:25:28,642  X1:000 X2:719 Y1:002 Y2:574
+No, no, no, no, no.
+
+220
+00:25:30,087 --> 00:25:32,362  X1:000 X2:719 Y1:002 Y2:574
+You need to go. Now.
+
+221
+00:25:34,087 --> 00:25:36,123  X1:000 X2:719 Y1:002 Y2:574
+What'd-What'd I say?
+
+222
+00:25:36,207 --> 00:25:39,404  X1:000 X2:719 Y1:002 Y2:574
+Do you see any Teletubbies in here?
+
+223
+00:25:39,487 --> 00:25:41,443  X1:000 X2:719 Y1:002 Y2:574
+Do you see a slender plastic tag
+clipped to my shirt...
+
+224
+00:25:41,527 --> 00:25:43,597  X1:000 X2:719 Y1:002 Y2:574
+with my name printed on it?
+
+225
+00:25:43,687 --> 00:25:46,485  X1:000 X2:719 Y1:002 Y2:574
+Did you see a little Asian child with
+a blank expression sitting outside...
+
+226
+00:25:46,567 --> 00:25:50,162  X1:000 X2:719 Y1:002 Y2:574
+in a mechanical helicopter that shakes
+when you put quarters in it?
+
+227
+00:25:50,247 --> 00:25:53,717  X1:000 X2:719 Y1:002 Y2:574
+No? Well, that's what
+you see at a toy store...
+
+228
+00:25:53,807 --> 00:25:55,718  X1:000 X2:719 Y1:002 Y2:574
+and you must think
+you're in a toy store because...
+
+229
+00:25:55,807 --> 00:25:59,197  X1:000 X2:719 Y1:002 Y2:574
+you're here shopping
+for an infant named Jeb.
+
+230
+00:25:59,287 --> 00:26:02,165  X1:000 X2:719 Y1:002 Y2:574
+Now, one of us
+has made a gross error...
+
+231
+00:26:02,247 --> 00:26:05,319  X1:000 X2:719 Y1:002 Y2:574
+and wasted the other person's
+valuable time.
+
+232
+00:26:05,407 --> 00:26:07,443  X1:000 X2:719 Y1:002 Y2:574
+This is an art gallery,
+my friend...
+
+233
+00:26:07,527 --> 00:26:11,122  X1:000 X2:719 Y1:002 Y2:574
+and this is a piece ofart.
+
+234
+00:26:25,847 --> 00:26:27,758  X1:000 X2:719 Y1:002 Y2:574
+We're by appointment only.
+
+235
+00:26:29,447 --> 00:26:31,961  X1:000 X2:719 Y1:002 Y2:574
+- I got a card from this store.
+- Congratulations.
+
+236
+00:26:32,047 --> 00:26:35,517  X1:000 X2:719 Y1:002 Y2:574
+You have a mailbox.
+The exhibition isn't for two weeks.
+
+237
+00:26:35,607 --> 00:26:38,326  X1:000 X2:719 Y1:002 Y2:574
+This one was under
+the windshield wiper of my car.
+
+238
+00:26:41,087 --> 00:26:44,045  X1:000 X2:719 Y1:002 Y2:574
+How certain are you that
+you've never taken ill?
+
+239
+00:26:44,127 --> 00:26:46,561  X1:000 X2:719 Y1:002 Y2:574
+Seventy-fiîve percent.
+
+240
+00:26:46,647 --> 00:26:49,957  X1:000 X2:719 Y1:002 Y2:574
+Well, that's not
+certain at all, is it?
+
+241
+00:26:51,327 --> 00:26:54,125  X1:000 X2:719 Y1:002 Y2:574
+That's hole number one.
+
+242
+00:26:54,207 --> 00:26:57,279  X1:000 X2:719 Y1:002 Y2:574
+I'm going to be extremely skeptical
+about all this.
+
+243
+00:26:57,367 --> 00:26:59,278  X1:000 X2:719 Y1:002 Y2:574
+About all what?
+
+244
+00:27:00,727 --> 00:27:03,799  X1:000 X2:719 Y1:002 Y2:574
+I'm assuming you've never been injured.
+Would I be wrong in that assumption?
+
+245
+00:27:03,887 --> 00:27:05,798  X1:000 X2:719 Y1:002 Y2:574
+Dad's been injured.
+
+246
+00:27:07,047 --> 00:27:09,925  X1:000 X2:719 Y1:002 Y2:574
+Is the child correct?
+
+247
+00:27:10,007 --> 00:27:13,966  X1:000 X2:719 Y1:002 Y2:574
+Yes, sir. In college,
+I was in a car accident.
+
+248
+00:27:14,047 --> 00:27:18,723  X1:000 X2:719 Y1:002 Y2:574
+- Was it serious?
+- He couldn't play football any more.
+
+249
+00:27:18,807 --> 00:27:20,718  X1:000 X2:719 Y1:002 Y2:574
+That's hole number two.
+
+250
+00:27:22,447 --> 00:27:24,358  X1:000 X2:719 Y1:002 Y2:574
+That's a big one.
+
+251
+00:27:27,807 --> 00:27:31,595  X1:000 X2:719 Y1:002 Y2:574
+Mr Price, can we talk about
+the note that you left on my car?
+
+252
+00:27:31,687 --> 00:27:34,804  X1:000 X2:719 Y1:002 Y2:574
+I've studied the form
+ofcomics intimately.
+
+253
+00:27:34,887 --> 00:27:36,843  X1:000 X2:719 Y1:002 Y2:574
+I've spent a third of my life
+in a hospital bed...
+
+254
+00:27:36,927 --> 00:27:39,964  X1:000 X2:719 Y1:002 Y2:574
+with nothing else to do but read.
+
+255
+00:27:40,047 --> 00:27:41,958  X1:000 X2:719 Y1:002 Y2:574
+I believe comics
+are our last link...
+
+256
+00:27:42,047 --> 00:27:45,596  X1:000 X2:719 Y1:002 Y2:574
+to an ancient way
+of passing on history.
+
+257
+00:27:45,687 --> 00:27:47,757  X1:000 X2:719 Y1:002 Y2:574
+The Egyptians drew on walls.
+
+258
+00:27:47,847 --> 00:27:51,920  X1:000 X2:719 Y1:002 Y2:574
+Countries all over the world still pass
+on knowledge through pictorial forms.
+
+259
+00:27:52,007 --> 00:27:54,077  X1:000 X2:719 Y1:002 Y2:574
+I believe comics
+are a form of history...
+
+260
+00:27:54,167 --> 00:27:57,603  X1:000 X2:719 Y1:002 Y2:574
+that someone somewhere
+felt or experienced.
+
+261
+00:27:57,687 --> 00:27:59,917  X1:000 X2:719 Y1:002 Y2:574
+Then, ofcourse,
+those experiences and that history...
+
+262
+00:28:00,007 --> 00:28:02,919  X1:000 X2:719 Y1:002 Y2:574
+got chewed up in the commercial
+machine, gotjazzed up...
+
+263
+00:28:03,007 --> 00:28:05,760  X1:000 X2:719 Y1:002 Y2:574
+made titillating,
+cartooned for the sale rack.
+
+264
+00:28:07,087 --> 00:28:10,363  X1:000 X2:719 Y1:002 Y2:574
+This city has seen its share
+ofdisasters.
+
+265
+00:28:10,447 --> 00:28:12,836  X1:000 X2:719 Y1:002 Y2:574
+I watched the aftermath
+ofthat plane crash.
+
+266
+00:28:12,927 --> 00:28:15,361  X1:000 X2:719 Y1:002 Y2:574
+I watched the carnage
+ofthe hotel fiîre.
+
+267
+00:28:15,447 --> 00:28:20,157  X1:000 X2:719 Y1:002 Y2:574
+I watched the news waiting to hear
+a very specifiîc combination ofwords...
+
+268
+00:28:20,247 --> 00:28:22,636  X1:000 X2:719 Y1:002 Y2:574
+but they never came.
+
+269
+00:28:22,727 --> 00:28:26,322  X1:000 X2:719 Y1:002 Y2:574
+Then one day I saw a news story
+about a train accident...
+
+270
+00:28:26,407 --> 00:28:28,363  X1:000 X2:719 Y1:002 Y2:574
+and I heard them.
+
+271
+00:28:28,447 --> 00:28:30,438  X1:000 X2:719 Y1:002 Y2:574
+"There is a sole survivor...
+
+272
+00:28:30,527 --> 00:28:33,519  X1:000 X2:719 Y1:002 Y2:574
+and he is miraculously unharmed."
+
+273
+00:28:36,407 --> 00:28:39,717  X1:000 X2:719 Y1:002 Y2:574
+I have something called
+osteogenesis imperfecta.
+
+274
+00:28:39,807 --> 00:28:41,718  X1:000 X2:719 Y1:002 Y2:574
+It's a genetic disorder.
+
+275
+00:28:41,807 --> 00:28:43,718  X1:000 X2:719 Y1:002 Y2:574
+I don't make a particular
+protein very well...
+
+276
+00:28:43,807 --> 00:28:46,241  X1:000 X2:719 Y1:002 Y2:574
+and it makes my bones
+very low in density.
+
+277
+00:28:46,327 --> 00:28:48,522  X1:000 X2:719 Y1:002 Y2:574
+Very easy to break.
+
+278
+00:28:48,607 --> 00:28:51,041  X1:000 X2:719 Y1:002 Y2:574
+I've had 54 breaks in my life...
+
+279
+00:28:51,127 --> 00:28:55,723  X1:000 X2:719 Y1:002 Y2:574
+and I have the tamest version
+ofthis disorder, type one.
+
+280
+00:28:55,807 --> 00:28:59,356  X1:000 X2:719 Y1:002 Y2:574
+There are type two,
+type three, type four.
+
+281
+00:28:59,447 --> 00:29:01,358  X1:000 X2:719 Y1:002 Y2:574
+Type fours don't last very long.
+
+282
+00:29:02,927 --> 00:29:05,805  X1:000 X2:719 Y1:002 Y2:574
+So that's how it popped into my head.
+
+283
+00:29:05,887 --> 00:29:08,606  X1:000 X2:719 Y1:002 Y2:574
+Ifthere is someone
+like me in the world...
+
+284
+00:29:08,687 --> 00:29:10,837  X1:000 X2:719 Y1:002 Y2:574
+and I'm at one end
+ofthe spectrum...
+
+285
+00:29:10,927 --> 00:29:12,883  X1:000 X2:719 Y1:002 Y2:574
+couldn't there be someone else...
+
+286
+00:29:12,967 --> 00:29:15,117  X1:000 X2:719 Y1:002 Y2:574
+the opposite of me
+at the other end?
+
+287
+00:29:15,207 --> 00:29:19,405  X1:000 X2:719 Y1:002 Y2:574
+Someone who doesn't get sick, who
+doesn't get hurt like the rest of us?
+
+288
+00:29:19,487 --> 00:29:23,116  X1:000 X2:719 Y1:002 Y2:574
+And he probably
+doesn't even know it.
+
+289
+00:29:23,207 --> 00:29:28,201  X1:000 X2:719 Y1:002 Y2:574
+The kind of person
+these stories are about.
+
+290
+00:29:28,287 --> 00:29:33,202  X1:000 X2:719 Y1:002 Y2:574
+A person put here
+to protect the rest of us.
+
+291
+00:29:33,287 --> 00:29:35,278  X1:000 X2:719 Y1:002 Y2:574
+To guard us.
+
+292
+00:29:37,607 --> 00:29:41,998  X1:000 X2:719 Y1:002 Y2:574
+- You think my dad's a real--
+- I don't think anything right now.
+
+293
+00:29:42,087 --> 00:29:44,442  X1:000 X2:719 Y1:002 Y2:574
+It's a possibility--
+
+294
+00:29:44,527 --> 00:29:46,438  X1:000 X2:719 Y1:002 Y2:574
+one with many holes.
+
+295
+00:29:49,847 --> 00:29:52,407  X1:000 X2:719 Y1:002 Y2:574
+Joseph, don't take
+another sip ofthat water.
+
+296
+00:29:55,447 --> 00:29:57,438  X1:000 X2:719 Y1:002 Y2:574
+- Go throw it in the trash.
+- But Dad--
+
+297
+00:29:57,527 --> 00:29:59,438  X1:000 X2:719 Y1:002 Y2:574
+Do it now, please.
+
+298
+00:30:08,687 --> 00:30:12,157  X1:000 X2:719 Y1:002 Y2:574
+I see guys like you
+all the time in my work.
+
+299
+00:30:12,247 --> 00:30:15,603  X1:000 X2:719 Y1:002 Y2:574
+You fiînd someone you want
+to take advantage of...
+
+300
+00:30:15,687 --> 00:30:18,997  X1:000 X2:719 Y1:002 Y2:574
+you tell them a fantastic story...
+
+301
+00:30:19,087 --> 00:30:21,840  X1:000 X2:719 Y1:002 Y2:574
+and somewhere in there you say it:
+
+302
+00:30:21,927 --> 00:30:24,760  X1:000 X2:719 Y1:002 Y2:574
+"I just need
+your credit card number...
+
+303
+00:30:24,847 --> 00:30:26,758  X1:000 X2:719 Y1:002 Y2:574
+a small down payment."
+
+304
+00:30:29,327 --> 00:30:31,238  X1:000 X2:719 Y1:002 Y2:574
+This morning was the fiîrst morning
+that I could remember...
+
+305
+00:30:31,327 --> 00:30:33,238  X1:000 X2:719 Y1:002 Y2:574
+that I didn't open my eyes
+and feel...
+
+306
+00:30:35,967 --> 00:30:38,003  X1:000 X2:719 Y1:002 Y2:574
+sadness.
+
+307
+00:30:41,447 --> 00:30:44,484  X1:000 X2:719 Y1:002 Y2:574
+I thought the person that wrote
+that note had an answer for me.
+
+308
+00:30:51,127 --> 00:30:54,039  X1:000 X2:719 Y1:002 Y2:574
+I'm gonna leave now.
+
+309
+00:30:54,127 --> 00:30:56,038  X1:000 X2:719 Y1:002 Y2:574
+Good luck with your exhibition.
+
+310
+00:30:56,127 --> 00:30:58,516  X1:000 X2:719 Y1:002 Y2:574
+So, what kind ofjob
+do you have, David?
+
+311
+00:30:58,607 --> 00:31:00,563  X1:000 X2:719 Y1:002 Y2:574
+You said you've met guys like me
+in your work.
+
+312
+00:31:00,647 --> 00:31:05,038  X1:000 X2:719 Y1:002 Y2:574
+- What exactly is it that you do?
+- I work at the University Stadium.
+
+313
+00:31:05,127 --> 00:31:07,595  X1:000 X2:719 Y1:002 Y2:574
+I'm a security guard.
+
+314
+00:33:17,727 --> 00:33:19,843  X1:000 X2:719 Y1:002 Y2:574
+Hi.
+
+315
+00:33:19,927 --> 00:33:22,646  X1:000 X2:719 Y1:002 Y2:574
+I've come to a decision.
+
+316
+00:33:22,727 --> 00:33:25,002  X1:000 X2:719 Y1:002 Y2:574
+Okay.
+
+317
+00:33:25,087 --> 00:33:27,521  X1:000 X2:719 Y1:002 Y2:574
+I just wanna askyou something, okay?
+
+318
+00:33:27,607 --> 00:33:30,997  X1:000 X2:719 Y1:002 Y2:574
+And you can be totally honest.
+
+319
+00:33:31,087 --> 00:33:34,557  X1:000 X2:719 Y1:002 Y2:574
+I'm prepared for any answer,
+and-and it won't affect me.
+
+320
+00:33:37,047 --> 00:33:39,720  X1:000 X2:719 Y1:002 Y2:574
+Have you been with anyone?
+
+321
+00:33:39,807 --> 00:33:41,957  X1:000 X2:719 Y1:002 Y2:574
+I mean, since we've
+been having problems.
+
+322
+00:33:42,047 --> 00:33:43,958  X1:000 X2:719 Y1:002 Y2:574
+The answer won't affect me.
+
+323
+00:33:47,047 --> 00:33:49,607  X1:000 X2:719 Y1:002 Y2:574
+I just need to know, you know?
+
+324
+00:33:49,687 --> 00:33:51,598  X1:000 X2:719 Y1:002 Y2:574
+I mean, it won't affect me
+either way.
+
+325
+00:33:53,927 --> 00:33:55,838  X1:000 X2:719 Y1:002 Y2:574
+No.
+
+326
+00:34:03,407 --> 00:34:05,557  X1:000 X2:719 Y1:002 Y2:574
+Sorry, David.
+I'm sorry.
+
+327
+00:34:10,647 --> 00:34:12,717  X1:000 X2:719 Y1:002 Y2:574
+Anyway...
+
+328
+00:34:12,807 --> 00:34:14,718  X1:000 X2:719 Y1:002 Y2:574
+my decision is...
+
+329
+00:34:17,847 --> 00:34:19,758  X1:000 X2:719 Y1:002 Y2:574
+that I want to start again.
+
+330
+00:34:23,247 --> 00:34:25,886  X1:000 X2:719 Y1:002 Y2:574
+And I want it to be
+like it was in the beginning.
+
+331
+00:34:29,127 --> 00:34:32,324  X1:000 X2:719 Y1:002 Y2:574
+And it's a big deal that
+you walked away from that train.
+
+332
+00:34:35,167 --> 00:34:37,123  X1:000 X2:719 Y1:002 Y2:574
+I feel like it's a second chance.
+
+333
+00:34:43,087 --> 00:34:46,204  X1:000 X2:719 Y1:002 Y2:574
+And ifyou feel like
+asking me out sometime...
+
+334
+00:34:46,287 --> 00:34:48,198  X1:000 X2:719 Y1:002 Y2:574
+that'd be okay.
+
+335
+00:34:50,567 --> 00:34:52,478  X1:000 X2:719 Y1:002 Y2:574
+Okay.
+
+336
+00:35:04,647 --> 00:35:07,081  X1:000 X2:719 Y1:002 Y2:574
+- Dunn.
+- Go for Dunn.
+
+337
+00:35:07,167 --> 00:35:11,285  X1:000 X2:719 Y1:002 Y2:574
+Yeah, it'sJenkins. Look, wegot aguy
+overatgate 17-C with a bogus ticket.
+
+338
+00:35:11,367 --> 00:35:15,246  X1:000 X2:719 Y1:002 Y2:574
+Sayshe knowsyou.
+He won't tellme hisname.
+
+339
+00:35:15,327 --> 00:35:17,921  X1:000 X2:719 Y1:002 Y2:574
+What's he look like?
+
+340
+00:35:18,007 --> 00:35:20,123  X1:000 X2:719 Y1:002 Y2:574
+Why is it, do you think, that
+ofall the professions in the world...
+
+341
+00:35:20,207 --> 00:35:22,118  X1:000 X2:719 Y1:002 Y2:574
+you chose protection?
+
+342
+00:35:24,127 --> 00:35:26,800  X1:000 X2:719 Y1:002 Y2:574
+- You are a very strange man.
+- You could have been a tax accountant.
+
+343
+00:35:26,887 --> 00:35:29,640  X1:000 X2:719 Y1:002 Y2:574
+You could have owned your own gym. You
+could've opened a chain of restaurants.
+
+344
+00:35:29,727 --> 00:35:32,036  X1:000 X2:719 Y1:002 Y2:574
+You could've done
+one of 1 0,000 things.
+
+345
+00:35:32,127 --> 00:35:36,086  X1:000 X2:719 Y1:002 Y2:574
+But in the end,
+you chose to protect people.
+
+346
+00:35:36,167 --> 00:35:38,556  X1:000 X2:719 Y1:002 Y2:574
+You made that decision,
+and I fiînd that...
+
+347
+00:35:38,647 --> 00:35:40,558  X1:000 X2:719 Y1:002 Y2:574
+very, very interesting.
+
+348
+00:35:41,807 --> 00:35:44,605  X1:000 X2:719 Y1:002 Y2:574
+Now all I need is
+your credit card number.
+
+349
+00:35:45,687 --> 00:35:47,598  X1:000 X2:719 Y1:002 Y2:574
+That last part was a joke.
+
+350
+00:35:51,607 --> 00:35:55,919  X1:000 X2:719 Y1:002 Y2:574
+- You're a big sports fan, are you?
+- It's starting to intrigue me.
+
+351
+00:35:57,167 --> 00:35:59,476  X1:000 X2:719 Y1:002 Y2:574
+It gets heaviest
+ten minutes before kickoff.
+
+352
+00:36:11,367 --> 00:36:13,562  X1:000 X2:719 Y1:002 Y2:574
+Programme here.
+Programme.
+
+353
+00:36:13,647 --> 00:36:15,558  X1:000 X2:719 Y1:002 Y2:574
+Programme.
+
+354
+00:36:17,287 --> 00:36:20,916  X1:000 X2:719 Y1:002 Y2:574
+Programme. Programme here.
+
+355
+00:36:21,007 --> 00:36:22,918  X1:000 X2:719 Y1:002 Y2:574
+- Rich, why don't we pat down?
+- Right.
+
+356
+00:36:23,007 --> 00:36:24,918  X1:000 X2:719 Y1:002 Y2:574
+-Just give me a minute.
+- Is there a problem?
+
+357
+00:36:25,007 --> 00:36:26,918  X1:000 X2:719 Y1:002 Y2:574
+I'm sorry.
+I'm gonna have to search you.
+
+358
+00:36:27,007 --> 00:36:30,238  X1:000 X2:719 Y1:002 Y2:574
+- It's nothing personal.
+- The tall guy in the camouflagejacket.
+
+359
+00:36:30,327 --> 00:36:34,684  X1:000 X2:719 Y1:002 Y2:574
+Sometimes people carry weapons in here,
+and they drink too much.
+
+360
+00:36:34,767 --> 00:36:39,238  X1:000 X2:719 Y1:002 Y2:574
+Ifthe team's not doing good,
+bad things can happen.
+
+361
+00:36:39,327 --> 00:36:42,444  X1:000 X2:719 Y1:002 Y2:574
+We do pat-downs ofthe crowd
+to discourage people from carrying.
+
+362
+00:36:43,807 --> 00:36:46,321  X1:000 X2:719 Y1:002 Y2:574
+If he's carrying,
+he'll step out of line.
+
+363
+00:36:58,927 --> 00:37:00,838  X1:000 X2:719 Y1:002 Y2:574
+Yeah, step right up here.
+
+364
+00:37:09,607 --> 00:37:14,203  X1:000 X2:719 Y1:002 Y2:574
+Okay. I got you a seat up
+in the yellow section.
+
+365
+00:37:14,287 --> 00:37:18,917  X1:000 X2:719 Y1:002 Y2:574
+It's in the nosebleeds,
+but at least you won't get spit on.
+
+366
+00:37:19,007 --> 00:37:21,157  X1:000 X2:719 Y1:002 Y2:574
+- All right.
+- How'd you know that guy you bumped...
+
+367
+00:37:21,247 --> 00:37:23,158  X1:000 X2:719 Y1:002 Y2:574
+was carrying a weapon?
+
+368
+00:37:25,207 --> 00:37:27,357  X1:000 X2:719 Y1:002 Y2:574
+I don't know.
+
+369
+00:37:27,447 --> 00:37:31,679  X1:000 X2:719 Y1:002 Y2:574
+Maybe it was that camouflage
+armyjacket he was wearing.
+
+370
+00:37:31,767 --> 00:37:34,406  X1:000 X2:719 Y1:002 Y2:574
+Those guys like to carry
+hunting knives and stuff for show.
+
+371
+00:37:34,487 --> 00:37:37,718  X1:000 X2:719 Y1:002 Y2:574
+You thought he was carrying a knife?
+
+372
+00:37:37,807 --> 00:37:40,765  X1:000 X2:719 Y1:002 Y2:574
+- I thought he was carrying
+something, yeah.
+- But not a knife.
+
+373
+00:37:44,247 --> 00:37:49,002  X1:000 X2:719 Y1:002 Y2:574
+I got a picture ofa silver gun
+with a black grip...
+
+374
+00:37:49,087 --> 00:37:51,237  X1:000 X2:719 Y1:002 Y2:574
+tucked in his pants.
+
+375
+00:37:51,327 --> 00:37:53,602  X1:000 X2:719 Y1:002 Y2:574
+You know, like on TV.
+
+376
+00:37:55,007 --> 00:37:57,726  X1:000 X2:719 Y1:002 Y2:574
+You have good instincts
+for things like that?
+
+377
+00:37:57,807 --> 00:38:01,083  X1:000 X2:719 Y1:002 Y2:574
+- Like what?
+- Knowing when people
+have done something wrong?
+
+378
+00:38:04,447 --> 00:38:07,439  X1:000 X2:719 Y1:002 Y2:574
+- Yeah.
+- Have you ever tried to develop it?
+
+379
+00:38:09,327 --> 00:38:13,240  X1:000 X2:719 Y1:002 Y2:574
+- I don't know what you're asking me.
+- Your skill.
+
+380
+00:38:13,327 --> 00:38:15,397  X1:000 X2:719 Y1:002 Y2:574
+Look, I gotta be down on
+the sidelines during the game.
+
+381
+00:38:15,487 --> 00:38:17,637  X1:000 X2:719 Y1:002 Y2:574
+- You can get to your seat right down--
+- Characters in comics...
+
+382
+00:38:17,727 --> 00:38:20,116  X1:000 X2:719 Y1:002 Y2:574
+are often attributed special powers--
+
+383
+00:38:20,207 --> 00:38:24,485  X1:000 X2:719 Y1:002 Y2:574
+invisibility, X-ray vision,
+things ofthat sort.
+
+384
+00:38:24,567 --> 00:38:27,035  X1:000 X2:719 Y1:002 Y2:574
+Okay.
+
+385
+00:38:27,127 --> 00:38:31,564  X1:000 X2:719 Y1:002 Y2:574
+- I don't wanna play this game any more.
+- It's an exaggeration ofthe truth.
+
+386
+00:38:31,647 --> 00:38:36,641  X1:000 X2:719 Y1:002 Y2:574
+Maybe it's based on something
+as simple as instinct.
+
+387
+00:38:36,727 --> 00:38:39,241  X1:000 X2:719 Y1:002 Y2:574
+- But he might not have been
+carrying anything.
+- But he might have been carrying...
+
+388
+00:38:39,327 --> 00:38:42,080  X1:000 X2:719 Y1:002 Y2:574
+a silver gun with a black grip
+tucked in his pants.
+
+389
+00:38:42,167 --> 00:38:44,886  X1:000 X2:719 Y1:002 Y2:574
+- Dunn.
+- I gotta go.
+
+390
+00:38:47,207 --> 00:38:49,357  X1:000 X2:719 Y1:002 Y2:574
+Yeah, I know.
+I'll be right down.
+
+391
+00:38:49,447 --> 00:38:52,519  X1:000 X2:719 Y1:002 Y2:574
+- One last question.
+- What?
+
+392
+00:38:52,607 --> 00:38:54,882  X1:000 X2:719 Y1:002 Y2:574
+That car accident you were in.
+
+393
+00:38:54,967 --> 00:38:56,878  X1:000 X2:719 Y1:002 Y2:574
+Was there anyone else involved?
+
+394
+00:38:59,007 --> 00:39:02,204  X1:000 X2:719 Y1:002 Y2:574
+Yeah.
+My wife, Audrey.
+
+395
+00:39:02,287 --> 00:39:04,278  X1:000 X2:719 Y1:002 Y2:574
+She was in the car with me.
+
+396
+00:39:06,287 --> 00:39:09,085  X1:000 X2:719 Y1:002 Y2:574
+Have a good life, Elijah.
+
+397
+00:39:09,167 --> 00:39:12,398  X1:000 X2:719 Y1:002 Y2:574
+Next time, try to buy your tickets
+at an authorized sales location.
+
+398
+00:39:12,487 --> 00:39:16,366  X1:000 X2:719 Y1:002 Y2:574
+- Dunn.
+- I'm on my way.
+
+399
+00:39:20,247 --> 00:39:22,397  X1:000 X2:719 Y1:002 Y2:574
+...into the investigation
+oftrain 177...
+
+400
+00:39:22,487 --> 00:39:25,524  X1:000 X2:719 Y1:002 Y2:574
+being conductedat the Eastrail
+holding warehouses.
+
+401
+00:39:25,607 --> 00:39:28,041  X1:000 X2:719 Y1:002 Y2:574
+The citycouncilhas
+steppedupplans topassa bill...
+
+402
+00:39:28,127 --> 00:39:31,324  X1:000 X2:719 Y1:002 Y2:574
+requiringhigherstandards
+forinspection andmaintenance...
+
+403
+00:39:31,407 --> 00:39:33,967  X1:000 X2:719 Y1:002 Y2:574
+ofallrailtransportation
+forPhiladelphia...
+
+404
+00:39:34,047 --> 00:39:35,958  X1:000 X2:719 Y1:002 Y2:574
+andits outlying districts.
+
+405
+00:39:43,407 --> 00:39:44,999  X1:000 X2:719 Y1:002 Y2:574
+Hold up a second!
+
+406
+00:40:37,767 --> 00:40:40,281  X1:000 X2:719 Y1:002 Y2:574
+I just want to askyou something.
+
+407
+00:41:47,167 --> 00:41:49,727  X1:000 X2:719 Y1:002 Y2:574
+Dad! Hey, Dad!
+
+408
+00:41:56,367 --> 00:41:58,278  X1:000 X2:719 Y1:002 Y2:574
+Dad!
+
+409
+00:42:08,887 --> 00:42:12,482  X1:000 X2:719 Y1:002 Y2:574
+Joseph, do you know how mad
+your mother would be if
+she knew you were playing football?
+
+410
+00:42:12,567 --> 00:42:15,286  X1:000 X2:719 Y1:002 Y2:574
+Are you gonna tell?
+
+411
+00:42:15,367 --> 00:42:18,677  X1:000 X2:719 Y1:002 Y2:574
+You wanna play last ofthe downs?
+We got a big guy like you.
+
+412
+00:42:18,767 --> 00:42:22,726  X1:000 X2:719 Y1:002 Y2:574
+You could play on opposite sides.
+He's Potter's cousin.
+
+413
+00:42:22,807 --> 00:42:25,241  X1:000 X2:719 Y1:002 Y2:574
+He's starting cornerback
+at Temple University.
+
+414
+00:42:25,327 --> 00:42:27,318  X1:000 X2:719 Y1:002 Y2:574
+He's going pro in the draft.
+
+415
+00:42:27,407 --> 00:42:30,717  X1:000 X2:719 Y1:002 Y2:574
+They say he can run the 40
+in 4.3 seconds.
+
+416
+00:42:30,807 --> 00:42:32,638  X1:000 X2:719 Y1:002 Y2:574
+Yeah, I've heard.
+
+417
+00:42:32,727 --> 00:42:34,638  X1:000 X2:719 Y1:002 Y2:574
+You can beat him, Dad.
+
+418
+00:42:34,727 --> 00:42:37,082  X1:000 X2:719 Y1:002 Y2:574
+- Let's beat him.
+- I'm gonna go in.
+
+419
+00:42:37,167 --> 00:42:39,681  X1:000 X2:719 Y1:002 Y2:574
+Just play one set ofdowns.
+I told them you were great.
+
+420
+00:42:39,767 --> 00:42:41,678  X1:000 X2:719 Y1:002 Y2:574
+- Why'd you do that?
+-Just one.
+
+421
+00:42:41,767 --> 00:42:43,803  X1:000 X2:719 Y1:002 Y2:574
+I'm gonna go in.
+I've got some things to do.
+
+422
+00:42:43,887 --> 00:42:46,560  X1:000 X2:719 Y1:002 Y2:574
+- What things?
+- I'm gonna work out.
+
+423
+00:42:46,647 --> 00:42:48,205  X1:000 X2:719 Y1:002 Y2:574
+- I'll help you.
+- No, l-l don't need--
+
+424
+00:42:48,287 --> 00:42:51,916  X1:000 X2:719 Y1:002 Y2:574
+I can't play, guys!
+I'm working out with my dad!
+
+425
+00:42:52,007 --> 00:42:54,885  X1:000 X2:719 Y1:002 Y2:574
+Go, go.
+Here we go! Ready?
+
+426
+00:42:54,967 --> 00:42:58,039  X1:000 X2:719 Y1:002 Y2:574
+Hut! You're doing good.
+Right there! Catch!
+
+427
+00:42:58,127 --> 00:43:00,322  X1:000 X2:719 Y1:002 Y2:574
+I'vegot to run
+
+428
+00:43:00,407 --> 00:43:02,875  X1:000 X2:719 Y1:002 Y2:574
+To keep from hiding
+
+429
+00:43:02,967 --> 00:43:05,197  X1:000 X2:719 Y1:002 Y2:574
+Andl'm bound
+
+430
+00:43:05,287 --> 00:43:07,676  X1:000 X2:719 Y1:002 Y2:574
+To keep on riding
+
+431
+00:43:07,767 --> 00:43:12,204  X1:000 X2:719 Y1:002 Y2:574
+Andl'vegot one more silverdollar
+
+432
+00:43:12,287 --> 00:43:14,323  X1:000 X2:719 Y1:002 Y2:574
+How much did you put on there?
+
+433
+00:43:22,847 --> 00:43:26,476  X1:000 X2:719 Y1:002 Y2:574
+You put too much.
+That's 250 pounds.
+
+434
+00:43:26,567 --> 00:43:30,196  X1:000 X2:719 Y1:002 Y2:574
+How much can you lift?
+
+435
+00:43:30,287 --> 00:43:32,243  X1:000 X2:719 Y1:002 Y2:574
+That's the most I ever lifted.
+
+436
+00:43:34,647 --> 00:43:37,320  X1:000 X2:719 Y1:002 Y2:574
+That could've been dangerous,Joseph.
+
+437
+00:43:37,407 --> 00:43:39,682  X1:000 X2:719 Y1:002 Y2:574
+Why don't you go upstairs now
+and let me fiînish up, okay?
+
+438
+00:43:39,767 --> 00:43:42,440  X1:000 X2:719 Y1:002 Y2:574
+I'll take it off.
+I'll help you right.
+
+439
+00:43:46,727 --> 00:43:50,242  X1:000 X2:719 Y1:002 Y2:574
+You thinkyou could have
+beaten up Bruce Lee?
+
+440
+00:43:50,327 --> 00:43:52,079  X1:000 X2:719 Y1:002 Y2:574
+No.
+
+441
+00:43:52,167 --> 00:43:54,556  X1:000 X2:719 Y1:002 Y2:574
+I mean, ifyou knew karate.
+
+442
+00:43:54,647 --> 00:43:56,558  X1:000 X2:719 Y1:002 Y2:574
+No.
+
+443
+00:44:00,447 --> 00:44:03,439  X1:000 X2:719 Y1:002 Y2:574
+Well, what if he wasn't allowed to kick,
+and you were really mad at him?
+
+444
+00:44:03,527 --> 00:44:05,438  X1:000 X2:719 Y1:002 Y2:574
+No,Joseph.
+
+445
+00:44:45,087 --> 00:44:47,681  X1:000 X2:719 Y1:002 Y2:574
+How much did you take off?
+
+446
+00:44:49,487 --> 00:44:51,921  X1:000 X2:719 Y1:002 Y2:574
+I lied.
+
+447
+00:44:54,367 --> 00:44:56,278  X1:000 X2:719 Y1:002 Y2:574
+You added?
+
+448
+00:45:03,847 --> 00:45:05,758  X1:000 X2:719 Y1:002 Y2:574
+How much is it?
+
+449
+00:45:07,167 --> 00:45:09,078  X1:000 X2:719 Y1:002 Y2:574
+270 pounds.
+
+450
+00:45:12,487 --> 00:45:14,398  X1:000 X2:719 Y1:002 Y2:574
+Let's put more.
+
+451
+00:45:17,527 --> 00:45:18,926  X1:000 X2:719 Y1:002 Y2:574
+Okay.
+
+452
+00:45:22,927 --> 00:45:25,566  X1:000 X2:719 Y1:002 Y2:574
+Why don't you move back a little
+just to be safe, okay?
+
+453
+00:45:57,087 --> 00:45:58,918  X1:000 X2:719 Y1:002 Y2:574
+More?
+
+454
+00:46:09,727 --> 00:46:13,402  X1:000 X2:719 Y1:002 Y2:574
+You should never do anything like this.
+You know that, right?
+
+455
+00:46:15,127 --> 00:46:17,516  X1:000 X2:719 Y1:002 Y2:574
+What do you do
+ifsomething bad happens?
+
+456
+00:46:17,607 --> 00:46:19,996  X1:000 X2:719 Y1:002 Y2:574
+Get Mom.
+
+457
+00:46:20,087 --> 00:46:21,884  X1:000 X2:719 Y1:002 Y2:574
+Right.
+
+458
+00:46:55,647 --> 00:46:58,320  X1:000 X2:719 Y1:002 Y2:574
+How much did you put on that time?
+
+459
+00:47:02,087 --> 00:47:03,884  X1:000 X2:719 Y1:002 Y2:574
+All of it.
+
+460
+00:47:05,567 --> 00:47:07,478  X1:000 X2:719 Y1:002 Y2:574
+What else can we use?
+
+461
+00:47:33,007 --> 00:47:34,918  X1:000 X2:719 Y1:002 Y2:574
+How much is it?
+
+462
+00:47:43,487 --> 00:47:45,398  X1:000 X2:719 Y1:002 Y2:574
+How much is it, Dad?
+
+463
+00:47:48,247 --> 00:47:50,681  X1:000 X2:719 Y1:002 Y2:574
+About 350 pounds.
+
+464
+00:47:57,607 --> 00:47:59,484  X1:000 X2:719 Y1:002 Y2:574
+Fracture ofthe fiîfth metacarpal
+ofthe right hand...
+
+465
+00:47:59,567 --> 00:48:02,798  X1:000 X2:719 Y1:002 Y2:574
+as well as multiple fractures of
+the sixth, seventh and eighth ribs.
+
+466
+00:48:02,887 --> 00:48:05,321  X1:000 X2:719 Y1:002 Y2:574
+The worst ofthe injury, however,
+was sustained to the right leg...
+
+467
+00:48:05,407 --> 00:48:07,318  X1:000 X2:719 Y1:002 Y2:574
+in the form ofa spiral fracture.
+
+468
+00:48:07,407 --> 00:48:09,318  X1:000 X2:719 Y1:002 Y2:574
+There were 1 4 breaks.
+
+469
+00:48:09,407 --> 00:48:12,160  X1:000 X2:719 Y1:002 Y2:574
+It simply shattered.
+
+470
+00:48:12,247 --> 00:48:14,715  X1:000 X2:719 Y1:002 Y2:574
+They call me Mr Glass.
+
+471
+00:48:14,807 --> 00:48:18,356  X1:000 X2:719 Y1:002 Y2:574
+- Who does?
+- Kids.
+
+472
+00:48:18,447 --> 00:48:20,438  X1:000 X2:719 Y1:002 Y2:574
+Are you all right, Mr Price?
+
+473
+00:48:20,527 --> 00:48:22,438  X1:000 X2:719 Y1:002 Y2:574
+Shall I continue?
+
+474
+00:48:23,727 --> 00:48:26,002  X1:000 X2:719 Y1:002 Y2:574
+Pins were placed throughout
+the length ofthe leg.
+
+475
+00:48:26,087 --> 00:48:28,726  X1:000 X2:719 Y1:002 Y2:574
+The use ofa wheelchair will be needed
+for a two-month period.
+
+476
+00:48:28,807 --> 00:48:32,083  X1:000 X2:719 Y1:002 Y2:574
+The use ofcrutches will follow
+for 1 2 to 1 4 months.
+
+477
+00:48:32,167 --> 00:48:34,237  X1:000 X2:719 Y1:002 Y2:574
+Hospital stay will range
+from fiîve to eight days...
+
+478
+00:48:34,327 --> 00:48:37,046  X1:000 X2:719 Y1:002 Y2:574
+followed by nine to twelve months
+of physical therapy.
+
+479
+00:48:37,127 --> 00:48:39,721  X1:000 X2:719 Y1:002 Y2:574
+Prescribed medication for pain
+management will take the usual forms...
+
+480
+00:48:39,807 --> 00:48:42,480  X1:000 X2:719 Y1:002 Y2:574
+of morphine drip, percocet, darvocet.
+
+481
+00:48:53,527 --> 00:48:55,518  X1:000 X2:719 Y1:002 Y2:574
+Your, uh, 1 0:00 is here.
+
+482
+00:48:55,607 --> 00:48:57,643  X1:000 X2:719 Y1:002 Y2:574
+The hospital discharged him
+this morning.
+
+483
+00:48:59,767 --> 00:49:01,678  X1:000 X2:719 Y1:002 Y2:574
+Thanks.
+
+484
+00:49:09,767 --> 00:49:11,166  X1:000 X2:719 Y1:002 Y2:574
+Elijah, right?
+
+485
+00:49:11,245 --> 00:49:14,920  X1:000 X2:719 Y1:002 Y2:574
+We're gonna prevent any substantial
+atrophy ofyour good leg with this...
+
+486
+00:49:15,005 --> 00:49:17,155  X1:000 X2:719 Y1:002 Y2:574
+and it works your quadriceps.
+
+487
+00:49:18,245 --> 00:49:20,361  X1:000 X2:719 Y1:002 Y2:574
+How long have you been married?
+
+488
+00:49:22,965 --> 00:49:25,798  X1:000 X2:719 Y1:002 Y2:574
+- Twelve years.
+- How'd you get together?
+
+489
+00:49:27,965 --> 00:49:29,876  X1:000 X2:719 Y1:002 Y2:574
+I'm a little nervous being here.
+
+490
+00:49:29,965 --> 00:49:33,275  X1:000 X2:719 Y1:002 Y2:574
+I ask too many questions
+when I'm nervous.
+
+491
+00:49:35,285 --> 00:49:37,196  X1:000 X2:719 Y1:002 Y2:574
+A car accident.
+
+492
+00:49:37,285 --> 00:49:40,880  X1:000 X2:719 Y1:002 Y2:574
+Oh. And now you're gonna
+have to tell me more.
+
+493
+00:49:45,085 --> 00:49:47,474  X1:000 X2:719 Y1:002 Y2:574
+My husband was a star athlete
+in college...
+
+494
+00:49:47,565 --> 00:49:49,521  X1:000 X2:719 Y1:002 Y2:574
+and we were in
+an accident together.
+
+495
+00:49:51,085 --> 00:49:54,964  X1:000 X2:719 Y1:002 Y2:574
+Our car flipped on an icy road
+and we were both injured, and he
+couldn't play football any more.
+
+496
+00:49:55,045 --> 00:49:57,718  X1:000 X2:719 Y1:002 Y2:574
+And ifthat hadn't happened,
+we probably wouldn't have been together.
+
+497
+00:49:57,805 --> 00:50:01,354  X1:000 X2:719 Y1:002 Y2:574
+- How so?
+- I think we should talk
+about your rehab.
+
+498
+00:50:01,445 --> 00:50:03,675  X1:000 X2:719 Y1:002 Y2:574
+You don't have to answer
+ifyou don't want to.
+
+499
+00:50:04,765 --> 00:50:08,121  X1:000 X2:719 Y1:002 Y2:574
+So, tell me more
+about the quad machine.
+
+500
+00:50:09,405 --> 00:50:12,203  X1:000 X2:719 Y1:002 Y2:574
+It prevents atrophy by--
+
+501
+00:50:13,885 --> 00:50:16,001  X1:000 X2:719 Y1:002 Y2:574
+I couldn't spend my life
+with someone who played football.
+
+502
+00:50:16,085 --> 00:50:17,996  X1:000 X2:719 Y1:002 Y2:574
+It's pretty much that simple.
+
+503
+00:50:19,125 --> 00:50:22,197  X1:000 X2:719 Y1:002 Y2:574
+I mean, I don't hate the game. I admire
+the amount ofskill it involves.
+
+504
+00:50:22,285 --> 00:50:24,958  X1:000 X2:719 Y1:002 Y2:574
+And-And like everyone else,
+I was in awe ofthe way he played it.
+
+505
+00:50:25,045 --> 00:50:29,118  X1:000 X2:719 Y1:002 Y2:574
+But football, in many ways,
+is the opposite ofwhat I do.
+
+506
+00:50:30,325 --> 00:50:32,714  X1:000 X2:719 Y1:002 Y2:574
+You're rewarded the more
+you punish your opponent.
+
+507
+00:50:32,805 --> 00:50:36,115  X1:000 X2:719 Y1:002 Y2:574
+You know, it's too much about violence,
+and I don't want violence in my life.
+
+508
+00:50:37,365 --> 00:50:40,880  X1:000 X2:719 Y1:002 Y2:574
+It's not a thing many people
+can understand, but--
+
+509
+00:50:40,965 --> 00:50:43,923  X1:000 X2:719 Y1:002 Y2:574
+Anyway, fate stepped in
+with that car accident...
+
+510
+00:50:44,005 --> 00:50:46,155  X1:000 X2:719 Y1:002 Y2:574
+and took football out ofthe equation.
+
+511
+00:50:46,245 --> 00:50:49,043  X1:000 X2:719 Y1:002 Y2:574
+And everyone lived happily ever after.
+
+512
+00:50:51,005 --> 00:50:52,563  X1:000 X2:719 Y1:002 Y2:574
+Sort of.
+
+513
+00:50:52,645 --> 00:50:55,205  X1:000 X2:719 Y1:002 Y2:574
+What part of David's body was injured?
+
+514
+00:50:57,005 --> 00:50:59,724  X1:000 X2:719 Y1:002 Y2:574
+Who said my husband's name was David?
+
+515
+00:51:07,165 --> 00:51:09,076  X1:000 X2:719 Y1:002 Y2:574
+Ladiesandgentlemen--
+
+516
+00:51:20,325 --> 00:51:22,236  X1:000 X2:719 Y1:002 Y2:574
+In the first half--
+
+517
+00:51:50,205 --> 00:51:52,639  X1:000 X2:719 Y1:002 Y2:574
+A 737 crashes on takeoff--
+
+518
+00:51:52,725 --> 00:51:55,558  X1:000 X2:719 Y1:002 Y2:574
+1 72 die, no survivors.
+
+519
+00:51:55,645 --> 00:51:59,843  X1:000 X2:719 Y1:002 Y2:574
+A hotel fiîre downtown--
+2 1 1 die, no survivors.
+
+520
+00:51:59,925 --> 00:52:03,713  X1:000 X2:719 Y1:002 Y2:574
+An Eastrail train derails
+7 1 /2 miles outside the city--
+
+521
+00:52:03,805 --> 00:52:05,716  X1:000 X2:719 Y1:002 Y2:574
+1 31 die...
+
+522
+00:52:05,805 --> 00:52:07,796  X1:000 X2:719 Y1:002 Y2:574
+one survivor.
+
+523
+00:52:07,885 --> 00:52:10,080  X1:000 X2:719 Y1:002 Y2:574
+He is unharmed.
+
+524
+00:52:10,165 --> 00:52:12,963  X1:000 X2:719 Y1:002 Y2:574
+I've spoken with your husband
+about his survival.
+
+525
+00:52:13,045 --> 00:52:15,764  X1:000 X2:719 Y1:002 Y2:574
+I suggested a rather
+unbelievable possibility.
+
+526
+00:52:15,845 --> 00:52:18,882  X1:000 X2:719 Y1:002 Y2:574
+Since then, I've come to believe
+that possibility...
+
+527
+00:52:18,965 --> 00:52:20,876  X1:000 X2:719 Y1:002 Y2:574
+however unbelievable...
+
+528
+00:52:20,965 --> 00:52:23,320  X1:000 X2:719 Y1:002 Y2:574
+is now more a probability.
+
+529
+00:52:23,405 --> 00:52:26,158  X1:000 X2:719 Y1:002 Y2:574
+And what was it you suggested?
+
+530
+00:52:26,245 --> 00:52:28,839  X1:000 X2:719 Y1:002 Y2:574
+These are mediocre times, Mrs Dunn.
+
+531
+00:52:28,925 --> 00:52:32,361  X1:000 X2:719 Y1:002 Y2:574
+People are starting to lose hope.
+It's hard for many to believe...
+
+532
+00:52:32,445 --> 00:52:36,324  X1:000 X2:719 Y1:002 Y2:574
+there are extraordinary things
+inside themselves as well as others.
+
+533
+00:52:36,405 --> 00:52:39,397  X1:000 X2:719 Y1:002 Y2:574
+I hope you can keep an open mind.
+
+534
+00:53:19,685 --> 00:53:22,153  X1:000 X2:719 Y1:002 Y2:574
+Excuse me, sir?
+
+535
+00:53:22,245 --> 00:53:24,554  X1:000 X2:719 Y1:002 Y2:574
+Can you step out of line, please?
+
+536
+00:53:28,525 --> 00:53:32,313  X1:000 X2:719 Y1:002 Y2:574
+We've been having some problems
+with people selling drugs
+here in the stadium.
+
+537
+00:53:32,405 --> 00:53:34,760  X1:000 X2:719 Y1:002 Y2:574
+Would you mind if I checkyour pockets?
+
+538
+00:53:35,845 --> 00:53:38,439  X1:000 X2:719 Y1:002 Y2:574
+Raise your arms, please.
+
+539
+00:53:38,525 --> 00:53:40,436  X1:000 X2:719 Y1:002 Y2:574
+Come on, raise them up.
+
+540
+00:53:40,525 --> 00:53:42,641  X1:000 X2:719 Y1:002 Y2:574
+I just got here, man.
+
+541
+00:53:52,805 --> 00:53:54,761  X1:000 X2:719 Y1:002 Y2:574
+Can I put my hands down now?
+
+542
+00:54:00,285 --> 00:54:02,196  X1:000 X2:719 Y1:002 Y2:574
+Can I go?
+
+543
+00:54:03,285 --> 00:54:05,196  X1:000 X2:719 Y1:002 Y2:574
+Yeah.
+
+544
+00:54:06,685 --> 00:54:08,596  X1:000 X2:719 Y1:002 Y2:574
+Hope you fiînd them.
+
+545
+00:54:17,485 --> 00:54:21,603  X1:000 X2:719 Y1:002 Y2:574
+- Yo, Dunn.
+- Yeah.
+
+546
+00:54:21,685 --> 00:54:24,597  X1:000 X2:719 Y1:002 Y2:574
+Ijust came into the office.
+Yourkid washurt.
+
+547
+00:54:25,805 --> 00:54:28,877  X1:000 X2:719 Y1:002 Y2:574
+- Where is he?
+- Someplay rehearsalatschool.
+
+548
+00:54:28,965 --> 00:54:31,115  X1:000 X2:719 Y1:002 Y2:574
+He wantsyou to come down there.
+
+549
+00:54:45,005 --> 00:54:47,394  X1:000 X2:719 Y1:002 Y2:574
+Is that your dad?
+
+550
+00:54:50,485 --> 00:54:53,522  X1:000 X2:719 Y1:002 Y2:574
+I bet my dad could beat up your dad.
+
+551
+00:54:56,845 --> 00:54:59,882  X1:000 X2:719 Y1:002 Y2:574
+No, he, uh, he insisted
+we call only you...
+
+552
+00:54:59,965 --> 00:55:01,956  X1:000 X2:719 Y1:002 Y2:574
+though we had some trouble
+tracking you down.
+
+553
+00:55:02,045 --> 00:55:04,001  X1:000 X2:719 Y1:002 Y2:574
+I mean, you're not on our list.
+
+554
+00:55:05,245 --> 00:55:06,758  X1:000 X2:719 Y1:002 Y2:574
+Audrey handles this type ofstuff.
+
+555
+00:55:06,845 --> 00:55:09,439  X1:000 X2:719 Y1:002 Y2:574
+Oh. What type ofstuff?
+
+556
+00:55:10,845 --> 00:55:12,756  X1:000 X2:719 Y1:002 Y2:574
+Joseph stuff.
+
+557
+00:55:15,725 --> 00:55:18,034  X1:000 X2:719 Y1:002 Y2:574
+Do I need to put any smelly ointment
+on him or anything?
+
+558
+00:55:18,125 --> 00:55:20,036  X1:000 X2:719 Y1:002 Y2:574
+No, no, it's more emotional damage.
+
+559
+00:55:20,125 --> 00:55:23,515  X1:000 X2:719 Y1:002 Y2:574
+Not, uh-- Not to serious, physically.
+
+560
+00:55:23,605 --> 00:55:26,961  X1:000 X2:719 Y1:002 Y2:574
+Nothing like when I sent you
+to the hospital.
+
+561
+00:55:30,765 --> 00:55:32,881  X1:000 X2:719 Y1:002 Y2:574
+When was that?
+
+562
+00:55:32,965 --> 00:55:37,402  X1:000 X2:719 Y1:002 Y2:574
+My offiîce was on the other side
+ofthe building back then.
+
+563
+00:55:39,765 --> 00:55:42,325  X1:000 X2:719 Y1:002 Y2:574
+You don't remember me, do you?
+
+564
+00:55:44,285 --> 00:55:48,164  X1:000 X2:719 Y1:002 Y2:574
+- No, ma'am.
+- I had red hair.
+
+565
+00:55:50,325 --> 00:55:54,876  X1:000 X2:719 Y1:002 Y2:574
+Well, you were a little younger
+thanJoseph when it happened.
+
+566
+00:55:54,965 --> 00:55:58,401  X1:000 X2:719 Y1:002 Y2:574
+Did you know that we
+changed the rules ofconduct...
+
+567
+00:55:58,485 --> 00:56:01,158  X1:000 X2:719 Y1:002 Y2:574
+around the pool because ofyou?
+
+568
+00:56:03,485 --> 00:56:05,396  X1:000 X2:719 Y1:002 Y2:574
+The kids still tell about it...
+
+569
+00:56:05,485 --> 00:56:08,795  X1:000 X2:719 Y1:002 Y2:574
+Iike it was some sort of ghost story.
+
+570
+00:56:08,885 --> 00:56:13,003  X1:000 X2:719 Y1:002 Y2:574
+"Did you know there was a kid
+nearly drowned in that pool?
+
+571
+00:56:14,245 --> 00:56:17,476  X1:000 X2:719 Y1:002 Y2:574
+He lay on the bottom ofthe pool
+for fiîve minutes.
+
+572
+00:56:17,565 --> 00:56:21,604  X1:000 X2:719 Y1:002 Y2:574
+And when they pulled him out,
+he was dead."
+
+573
+00:56:26,045 --> 00:56:29,924  X1:000 X2:719 Y1:002 Y2:574
+We let them tell it.
+It helps keep them safe.
+
+574
+00:56:33,365 --> 00:56:35,799  X1:000 X2:719 Y1:002 Y2:574
+You still phobic ofwater?
+
+575
+00:56:38,685 --> 00:56:40,641  X1:000 X2:719 Y1:002 Y2:574
+It was Potter and another guy.
+
+576
+00:56:41,925 --> 00:56:45,713  X1:000 X2:719 Y1:002 Y2:574
+They were messing with
+this Chinese girl in the dressing room.
+
+577
+00:56:45,805 --> 00:56:49,002  X1:000 X2:719 Y1:002 Y2:574
+Y-You can't let bad things
+happen to good people, right?
+
+578
+00:56:50,085 --> 00:56:53,441  X1:000 X2:719 Y1:002 Y2:574
+That's your code, right?
+That's the hero's code.
+
+579
+00:56:54,885 --> 00:56:56,796  X1:000 X2:719 Y1:002 Y2:574
+I tried to make them stop...
+
+580
+00:56:56,885 --> 00:57:00,798  X1:000 X2:719 Y1:002 Y2:574
+but they kept pushing me down,
+and they wouldn't let me get back up.
+
+581
+00:57:03,485 --> 00:57:06,204  X1:000 X2:719 Y1:002 Y2:574
+I thought maybe 'cause you're my dad...
+
+582
+00:57:07,285 --> 00:57:09,515  X1:000 X2:719 Y1:002 Y2:574
+I thought I might be like you.
+
+583
+00:57:12,965 --> 00:57:14,876  X1:000 X2:719 Y1:002 Y2:574
+I'm not like you.
+
+584
+00:57:16,685 --> 00:57:19,757  X1:000 X2:719 Y1:002 Y2:574
+You are like me.
+
+585
+00:57:19,845 --> 00:57:21,961  X1:000 X2:719 Y1:002 Y2:574
+We can both get hurt.
+
+586
+00:57:23,245 --> 00:57:27,284  X1:000 X2:719 Y1:002 Y2:574
+- I'm just an ordinary man.
+- No, you're not.
+
+587
+00:57:27,365 --> 00:57:30,084  X1:000 X2:719 Y1:002 Y2:574
+Why do you keep saying that?
+
+588
+00:57:37,485 --> 00:57:40,636  X1:000 X2:719 Y1:002 Y2:574
+Elijah Price came to visit me
+at the centre today.
+
+589
+00:57:41,725 --> 00:57:44,478  X1:000 X2:719 Y1:002 Y2:574
+Jesus.
+
+590
+00:57:44,565 --> 00:57:47,204  X1:000 X2:719 Y1:002 Y2:574
+He didn't do anything. Hejust...
+
+591
+00:57:47,285 --> 00:57:49,196  X1:000 X2:719 Y1:002 Y2:574
+told me his theory.
+
+592
+00:57:50,285 --> 00:57:52,845  X1:000 X2:719 Y1:002 Y2:574
+That's sad when patients get like that.
+
+593
+00:57:52,925 --> 00:57:54,836  X1:000 X2:719 Y1:002 Y2:574
+They lose reality.
+
+594
+00:57:59,605 --> 00:58:02,039  X1:000 X2:719 Y1:002 Y2:574
+Joseph, what the hell are you doing?
+
+595
+00:58:02,125 --> 00:58:04,036  X1:000 X2:719 Y1:002 Y2:574
+Oh, my God.
+
+596
+00:58:04,125 --> 00:58:07,754  X1:000 X2:719 Y1:002 Y2:574
+You don't believe. I'll show you.
+You can't get hurt.
+
+597
+00:58:07,845 --> 00:58:10,643  X1:000 X2:719 Y1:002 Y2:574
+That gun's not loaded. He doesn't
+know where I keep the bullets.
+
+598
+00:58:10,725 --> 00:58:13,637  X1:000 X2:719 Y1:002 Y2:574
+In your Rookie ofthe Year trophy.
+
+599
+00:58:13,725 --> 00:58:16,398  X1:000 X2:719 Y1:002 Y2:574
+Joseph, did you load the gun?
+
+600
+00:58:16,485 --> 00:58:20,000  X1:000 X2:719 Y1:002 Y2:574
+- You won't get hurt.
+- Elijah was wrong.
+
+601
+00:58:20,085 --> 00:58:22,474  X1:000 X2:719 Y1:002 Y2:574
+- When did he meet Elijah?
+- He was with me when I met him.
+
+602
+00:58:22,565 --> 00:58:24,476  X1:000 X2:719 Y1:002 Y2:574
+No one believes him.
+
+603
+00:58:24,565 --> 00:58:27,398  X1:000 X2:719 Y1:002 Y2:574
+Joseph, listen to me.
+
+604
+00:58:27,485 --> 00:58:32,400  X1:000 X2:719 Y1:002 Y2:574
+Sometimes when people get sick or hurt
+for a long time, like Elijah...
+
+605
+00:58:32,485 --> 00:58:36,194  X1:000 X2:719 Y1:002 Y2:574
+their mind gets hurt too, and they
+start to think things that aren't true.
+
+606
+00:58:36,285 --> 00:58:39,914  X1:000 X2:719 Y1:002 Y2:574
+He told me what he thought
+about your father. It isn't true.
+
+607
+00:58:40,005 --> 00:58:41,916  X1:000 X2:719 Y1:002 Y2:574
+I'll show you.
+
+608
+00:58:44,445 --> 00:58:48,324  X1:000 X2:719 Y1:002 Y2:574
+Do you remember the story about the--
+about the boy that almost
+drowned in the pool?
+
+609
+00:58:48,405 --> 00:58:50,965  X1:000 X2:719 Y1:002 Y2:574
+That was me they were talking about.
+I almost died. That was me.
+
+610
+00:58:51,045 --> 00:58:53,718  X1:000 X2:719 Y1:002 Y2:574
+- You're lying.
+- I'm not lying, okay?
+I just didn't remember it, that's all.
+
+611
+00:58:53,805 --> 00:58:55,875  X1:000 X2:719 Y1:002 Y2:574
+Joseph, you know your father
+was injured in college.
+
+612
+00:58:55,965 --> 00:58:58,684  X1:000 X2:719 Y1:002 Y2:574
+You know that.
+You know all about that.
+
+613
+00:58:59,765 --> 00:59:02,199  X1:000 X2:719 Y1:002 Y2:574
+Don't do it.
+He'll die,Joseph.
+
+614
+00:59:02,285 --> 00:59:06,597  X1:000 X2:719 Y1:002 Y2:574
+- I'll just shoot him once.
+-Joseph, listen to what your moth--
+
+615
+00:59:06,685 --> 00:59:08,596  X1:000 X2:719 Y1:002 Y2:574
+Don't be scared.
+
+616
+00:59:09,765 --> 00:59:11,676  X1:000 X2:719 Y1:002 Y2:574
+Joseph...
+
+617
+00:59:11,765 --> 00:59:14,199  X1:000 X2:719 Y1:002 Y2:574
+ifyou pull that trigger,
+I'm going to leave.
+
+618
+00:59:14,285 --> 00:59:17,516  X1:000 X2:719 Y1:002 Y2:574
+Do you understand?
+I'm going to go to New York.
+
+619
+00:59:17,605 --> 00:59:20,961  X1:000 X2:719 Y1:002 Y2:574
+Y-Y-You're right.
+Ifyou pull that trigger...
+
+620
+00:59:21,045 --> 00:59:24,162  X1:000 X2:719 Y1:002 Y2:574
+that bullet isjust gonna bounce off me,
+and I'm not going to be hurt.
+
+621
+00:59:24,245 --> 00:59:26,475  X1:000 X2:719 Y1:002 Y2:574
+But then I'm going to go upstairs
+and I'm gonna pack...
+
+622
+00:59:26,565 --> 00:59:29,637  X1:000 X2:719 Y1:002 Y2:574
+and I'm going to leave for New York.
+
+623
+00:59:29,725 --> 00:59:34,435  X1:000 X2:719 Y1:002 Y2:574
+- Why?
+- Because I thought we werejust
+starting to be friends for real.
+
+624
+00:59:34,525 --> 00:59:36,436  X1:000 X2:719 Y1:002 Y2:574
+And friends'll listen to each other.
+They don't--
+
+625
+00:59:36,525 --> 00:59:40,200  X1:000 X2:719 Y1:002 Y2:574
+And-And they don't shoot each other,
+uh, uh, do they, Audrey?
+
+626
+00:59:40,285 --> 00:59:43,197  X1:000 X2:719 Y1:002 Y2:574
+N-No shooting friends,Joseph.
+
+627
+00:59:43,285 --> 00:59:45,640  X1:000 X2:719 Y1:002 Y2:574
+Joseph!
+
+628
+00:59:45,725 --> 00:59:48,717  X1:000 X2:719 Y1:002 Y2:574
+You are about to be in big trouble!
+
+629
+00:59:49,805 --> 00:59:51,716  X1:000 X2:719 Y1:002 Y2:574
+Now, I am your father,
+and I am telling you...
+
+630
+00:59:51,805 --> 00:59:54,877  X1:000 X2:719 Y1:002 Y2:574
+to put that goddamn gun down
+right now!
+
+631
+00:59:54,965 --> 00:59:57,684  X1:000 X2:719 Y1:002 Y2:574
+One, two--
+
+632
+01:00:15,845 --> 01:00:18,154  X1:000 X2:719 Y1:002 Y2:574
+I followed the guy
+in the camouflagejacket.
+
+633
+01:00:20,005 --> 01:00:25,204  X1:000 X2:719 Y1:002 Y2:574
+He had a silver gun with a black grip
+tucked in the back of his pants.
+
+634
+01:00:26,925 --> 01:00:30,042  X1:000 X2:719 Y1:002 Y2:574
+Were you really injured
+in that car accident in college?
+
+635
+01:00:30,125 --> 01:00:33,481  X1:000 X2:719 Y1:002 Y2:574
+'Cause I believe you faked it.
+I believe you took the opportunity...
+
+636
+01:00:33,565 --> 01:00:36,204  X1:000 X2:719 Y1:002 Y2:574
+to end your football career,
+no questions asked.
+
+637
+01:00:36,285 --> 01:00:39,880  X1:000 X2:719 Y1:002 Y2:574
+And I thinkyou did it,
+ofall things, for a woman.
+
+638
+01:00:39,965 --> 01:00:41,876  X1:000 X2:719 Y1:002 Y2:574
+I guess that makes sense.
+
+639
+01:00:41,965 --> 01:00:45,082  X1:000 X2:719 Y1:002 Y2:574
+Football's what, just ten years?
+
+640
+01:00:45,165 --> 01:00:49,556  X1:000 X2:719 Y1:002 Y2:574
+But love?
+Hmm. Now, that's forever.
+
+641
+01:00:51,805 --> 01:00:54,877  X1:000 X2:719 Y1:002 Y2:574
+And that little bit ofsadness
+in the mornings you spoke of?
+
+642
+01:00:54,965 --> 01:00:57,115  X1:000 X2:719 Y1:002 Y2:574
+I think I know what that is.
+
+643
+01:00:57,205 --> 01:01:00,561  X1:000 X2:719 Y1:002 Y2:574
+Perhaps you're not doing
+what you're supposed to be doing.
+
+644
+01:01:00,645 --> 01:01:02,556  X1:000 X2:719 Y1:002 Y2:574
+Most guns have a black
+or silver handle.
+
+645
+01:01:02,645 --> 01:01:04,556  X1:000 X2:719 Y1:002 Y2:574
+I had a 50-50 shot
+of getting the colour right.
+
+646
+01:01:04,645 --> 01:01:07,637  X1:000 X2:719 Y1:002 Y2:574
+- That's not what I witnessed.
+- Stop.
+
+647
+01:01:07,725 --> 01:01:10,876  X1:000 X2:719 Y1:002 Y2:574
+Stop messing with my life, Elijah.
+
+648
+01:01:10,965 --> 01:01:14,401  X1:000 X2:719 Y1:002 Y2:574
+My son almost shot me last night because
+he wanted to prove you were right.
+
+649
+01:01:14,485 --> 01:01:16,396  X1:000 X2:719 Y1:002 Y2:574
+I never said you couldn't be killed.
+
+650
+01:01:16,485 --> 01:01:18,396  X1:000 X2:719 Y1:002 Y2:574
+- I never said that.
+- My wife was right.
+
+651
+01:01:18,485 --> 01:01:23,115  X1:000 X2:719 Y1:002 Y2:574
+There have been three major disasters,
+and you were the only one unharmed.
+
+652
+01:01:23,205 --> 01:01:25,116  X1:000 X2:719 Y1:002 Y2:574
+I have been sick.
+
+653
+01:01:27,245 --> 01:01:31,761  X1:000 X2:719 Y1:002 Y2:574
+When I was a kid, I spent a week in the
+hospital getting better from pneumonia.
+
+654
+01:01:31,845 --> 01:01:35,440  X1:000 X2:719 Y1:002 Y2:574
+I almost drowned.
+Two skinny little kids...
+
+655
+01:01:35,525 --> 01:01:38,881  X1:000 X2:719 Y1:002 Y2:574
+were fooling around in a pool dunking me
+and I swallowed some water.
+
+656
+01:01:38,965 --> 01:01:41,957  X1:000 X2:719 Y1:002 Y2:574
+They didn't know it,
+and it almost killed me.
+
+657
+01:01:42,045 --> 01:01:44,513  X1:000 X2:719 Y1:002 Y2:574
+Heroes don't get killed like that.
+
+658
+01:01:44,605 --> 01:01:46,755  X1:000 X2:719 Y1:002 Y2:574
+Normal people do, right?
+
+659
+01:01:48,285 --> 01:01:51,083  X1:000 X2:719 Y1:002 Y2:574
+I don't need to see you any more, okay?
+
+660
+01:01:52,605 --> 01:01:54,994  X1:000 X2:719 Y1:002 Y2:574
+Please stay away from my family.
+
+661
+01:02:03,325 --> 01:02:06,317  X1:000 X2:719 Y1:002 Y2:574
+Shesaidlcouldtellstories
+that couldmakeyou cry
+
+662
+01:02:06,405 --> 01:02:08,361  X1:000 X2:719 Y1:002 Y2:574
+What aboutyou
+
+663
+01:02:08,445 --> 01:02:10,561  X1:000 X2:719 Y1:002 Y2:574
+Hey, man, it's 20 after.
+It's time to choose.
+
+664
+01:02:10,645 --> 01:02:12,556  X1:000 X2:719 Y1:002 Y2:574
+I gotta head.
+
+665
+01:02:12,645 --> 01:02:16,684  X1:000 X2:719 Y1:002 Y2:574
+Andshesighed, ahh
+lsaid, I want to be a singer
+
+666
+01:02:16,765 --> 01:02:20,041  X1:000 X2:719 Y1:002 Y2:574
+You better not bejacking offto the
+Japanese comics, I swear to God.
+
+667
+01:02:21,845 --> 01:02:24,837  X1:000 X2:719 Y1:002 Y2:574
+Let'sgo, let's sit
+Let's talkpolitics
+
+668
+01:02:24,925 --> 01:02:27,723  X1:000 X2:719 Y1:002 Y2:574
+Goessogood with beer
+And while we're at it, baby
+
+669
+01:02:27,805 --> 01:02:30,194  X1:000 X2:719 Y1:002 Y2:574
+Why don'tyou tellme
+one ofyourbiggest fears
+
+670
+01:02:30,285 --> 01:02:33,277  X1:000 X2:719 Y1:002 Y2:574
+Isaid, losing mypenis
+to a whore with disease
+
+671
+01:02:33,365 --> 01:02:35,401  X1:000 X2:719 Y1:002 Y2:574
+Uh, look, man, I didn't
+know you were in a--
+
+672
+01:02:35,485 --> 01:02:37,601  X1:000 X2:719 Y1:002 Y2:574
+Losin'my life to
+a whore with disease
+
+673
+01:02:37,685 --> 01:02:40,518  X1:000 X2:719 Y1:002 Y2:574
+-Just choose something, all right?
+- Excuse me, please
+
+674
+01:02:45,245 --> 01:02:47,156  X1:000 X2:719 Y1:002 Y2:574
+The baby-sitter's here.
+
+675
+01:02:49,965 --> 01:02:53,002  X1:000 X2:719 Y1:002 Y2:574
+- Should we cancel?
+- I'm fiîne.
+
+676
+01:02:55,885 --> 01:02:58,558  X1:000 X2:719 Y1:002 Y2:574
+We can do this another time.
+
+677
+01:02:58,645 --> 01:03:00,556  X1:000 X2:719 Y1:002 Y2:574
+Don't lie.
+
+678
+01:03:02,525 --> 01:03:05,085  X1:000 X2:719 Y1:002 Y2:574
+I'm fiîne. I just got mixed up.
+
+679
+01:03:12,125 --> 01:03:14,685  X1:000 X2:719 Y1:002 Y2:574
+How about wejust go
+for a couple drinks?
+
+680
+01:03:20,125 --> 01:03:22,764  X1:000 X2:719 Y1:002 Y2:574
+Okay, look, man,
+I'm-l'm just gonna wheel you out.
+
+681
+01:03:22,845 --> 01:03:24,756  X1:000 X2:719 Y1:002 Y2:574
+All right? You can think about things
+outside on the sidewalk.
+
+682
+01:03:24,845 --> 01:03:26,756  X1:000 X2:719 Y1:002 Y2:574
+I gotta get some chicken in me,
+you know what I'm sayin'?
+
+683
+01:03:26,845 --> 01:03:29,882  X1:000 X2:719 Y1:002 Y2:574
+I've been tired, I've been tired
+
+684
+01:03:29,965 --> 01:03:34,675  X1:000 X2:719 Y1:002 Y2:574
+I've been tired, I've been tired
+I've been tired
+
+685
+01:03:43,165 --> 01:03:46,316  X1:000 X2:719 Y1:002 Y2:574
+- Itoldthe tale ofagirl
+- Shit!
+
+686
+01:03:46,405 --> 01:03:48,555  X1:000 X2:719 Y1:002 Y2:574
+She'sa little bit olderthan me
+
+687
+01:03:48,645 --> 01:03:51,284  X1:000 X2:719 Y1:002 Y2:574
+Strong legs, strong face
+voice like milk
+
+688
+01:03:51,365 --> 01:03:53,276  X1:000 X2:719 Y1:002 Y2:574
+Breasts like a clusterofgrapes
+
+689
+01:03:53,365 --> 01:03:55,560  X1:000 X2:719 Y1:002 Y2:574
+Ican't escape her ways
+
+690
+01:03:55,645 --> 01:03:57,556  X1:000 X2:719 Y1:002 Y2:574
+She raise me
+
+691
+01:04:01,685 --> 01:04:05,519  X1:000 X2:719 Y1:002 Y2:574
+- Dude.
+- Even ifyou have no one
+
+692
+01:04:05,605 --> 01:04:07,561  X1:000 X2:719 Y1:002 Y2:574
+Man, I don't care ifyou are in
+a wheelchair. Ifyou do that again...
+
+693
+01:04:07,645 --> 01:04:10,079  X1:000 X2:719 Y1:002 Y2:574
+I'm calling 5-0.
+
+694
+01:04:10,165 --> 01:04:12,156  X1:000 X2:719 Y1:002 Y2:574
+And whileyou're at it, baby
+
+695
+01:04:12,245 --> 01:04:14,156  X1:000 X2:719 Y1:002 Y2:574
+Man.
+
+696
+01:04:19,485 --> 01:04:23,922  X1:000 X2:719 Y1:002 Y2:574
+You don't want to sleep
+aftersetting my loins on fire
+
+697
+01:04:24,005 --> 01:04:27,236  X1:000 X2:719 Y1:002 Y2:574
+That's it, crackerjack. You're gonna
+be sitting your ass in jail now.
+
+698
+01:04:27,325 --> 01:04:31,841  X1:000 X2:719 Y1:002 Y2:574
+I've been tired, I've been tired
+I've been tired
+
+699
+01:04:31,925 --> 01:04:35,315  X1:000 X2:719 Y1:002 Y2:574
+I've been tired, I've been tired
+
+700
+01:04:44,645 --> 01:04:47,682  X1:000 X2:719 Y1:002 Y2:574
+I've been tired, I've been tired
+
+701
+01:04:47,765 --> 01:04:50,802  X1:000 X2:719 Y1:002 Y2:574
+- I've been tired, I've been tired
+- How much for this one?
+
+702
+01:04:50,885 --> 01:04:52,318  X1:000 X2:719 Y1:002 Y2:574
+I've been tired
+
+703
+01:04:53,725 --> 01:04:56,956  X1:000 X2:719 Y1:002 Y2:574
+- Rust?
+- Yeah.
+
+704
+01:04:57,045 --> 01:04:59,275  X1:000 X2:719 Y1:002 Y2:574
+As a colour, not as rust.
+
+705
+01:04:59,365 --> 01:05:03,119  X1:000 X2:719 Y1:002 Y2:574
+You know, like rust-coloured
+paint or wood.
+
+706
+01:05:04,845 --> 01:05:07,996  X1:000 X2:719 Y1:002 Y2:574
+- I didn't know that.
+- Mm-hmm.
+
+707
+01:05:08,085 --> 01:05:10,553  X1:000 X2:719 Y1:002 Y2:574
+Mine's still brown.
+
+708
+01:05:10,645 --> 01:05:12,556  X1:000 X2:719 Y1:002 Y2:574
+Okay, my turn.
+
+709
+01:05:12,645 --> 01:05:14,761  X1:000 X2:719 Y1:002 Y2:574
+Favourite song?
+
+710
+01:05:14,845 --> 01:05:18,838  X1:000 X2:719 Y1:002 Y2:574
+"Soft and Wet" by the Artist
+Formerly Known as Prince.
+
+711
+01:05:18,925 --> 01:05:21,155  X1:000 X2:719 Y1:002 Y2:574
+What?
+
+712
+01:05:21,245 --> 01:05:23,884  X1:000 X2:719 Y1:002 Y2:574
+We're supposed to be honest.
+
+713
+01:05:23,965 --> 01:05:26,274  X1:000 X2:719 Y1:002 Y2:574
+"Soft And Wet."
+
+714
+01:05:26,365 --> 01:05:28,595  X1:000 X2:719 Y1:002 Y2:574
+That's very interesting.
+
+715
+01:05:28,685 --> 01:05:30,596  X1:000 X2:719 Y1:002 Y2:574
+Okay, my turn.
+
+716
+01:05:32,245 --> 01:05:34,361  X1:000 X2:719 Y1:002 Y2:574
+When was the fiîrst time...
+
+717
+01:05:35,645 --> 01:05:38,557  X1:000 X2:719 Y1:002 Y2:574
+the thought popped into your head
+we might not make it?
+
+718
+01:05:40,005 --> 01:05:41,916  X1:000 X2:719 Y1:002 Y2:574
+That's not the game.
+
+719
+01:05:42,005 --> 01:05:44,917  X1:000 X2:719 Y1:002 Y2:574
+It's the fiîrst date.
+There aren't any rules.
+
+720
+01:05:48,925 --> 01:05:52,315  X1:000 X2:719 Y1:002 Y2:574
+- Don't know for sure.
+- Think carefully.
+
+721
+01:05:53,565 --> 01:05:55,476  X1:000 X2:719 Y1:002 Y2:574
+What about the game?
+
+722
+01:05:55,565 --> 01:05:57,476  X1:000 X2:719 Y1:002 Y2:574
+It's over. I won.
+
+723
+01:05:59,405 --> 01:06:01,316  X1:000 X2:719 Y1:002 Y2:574
+Look, maybe it wasn't
+a specifiîc moment.
+
+724
+01:06:01,405 --> 01:06:05,956  X1:000 X2:719 Y1:002 Y2:574
+- Maybe it was a time--
+- I had a nightmare one night...
+
+725
+01:06:06,045 --> 01:06:11,642  X1:000 X2:719 Y1:002 Y2:574
+and I didn't wake you up so you
+could tell me that it was okay.
+
+726
+01:06:13,085 --> 01:06:15,360  X1:000 X2:719 Y1:002 Y2:574
+I think that was the fiîrst time.
+
+727
+01:06:17,325 --> 01:06:19,236  X1:000 X2:719 Y1:002 Y2:574
+Does that count?
+
+728
+01:06:20,725 --> 01:06:22,636  X1:000 X2:719 Y1:002 Y2:574
+That counts.
+
+729
+01:06:26,205 --> 01:06:29,914  X1:000 X2:719 Y1:002 Y2:574
+Do you knowingly keep me
+and Joseph at a distance?
+
+730
+01:06:37,325 --> 01:06:39,634  X1:000 X2:719 Y1:002 Y2:574
+Yes.
+
+731
+01:06:39,725 --> 01:06:41,636  X1:000 X2:719 Y1:002 Y2:574
+Why?
+
+732
+01:06:43,725 --> 01:06:45,636  X1:000 X2:719 Y1:002 Y2:574
+I don't know.
+
+733
+01:06:49,965 --> 01:06:52,433  X1:000 X2:719 Y1:002 Y2:574
+I just don't feel right, Audrey.
+
+734
+01:06:53,805 --> 01:06:56,080  X1:000 X2:719 Y1:002 Y2:574
+Something's...
+
+735
+01:06:56,165 --> 01:06:58,281  X1:000 X2:719 Y1:002 Y2:574
+just not right.
+
+736
+01:07:00,325 --> 01:07:03,362  X1:000 X2:719 Y1:002 Y2:574
+Do you resent us, David?
+
+737
+01:07:03,445 --> 01:07:05,834  X1:000 X2:719 Y1:002 Y2:574
+Resent the life you have?
+
+738
+01:07:07,685 --> 01:07:11,155  X1:000 X2:719 Y1:002 Y2:574
+I mean, there were a lot ofother things
+you could've done after college.
+
+739
+01:07:11,245 --> 01:07:13,520  X1:000 X2:719 Y1:002 Y2:574
+These were your choices.
+
+740
+01:07:18,005 --> 01:07:20,200  X1:000 X2:719 Y1:002 Y2:574
+You know, even if it meant
+we couldn't have been together...
+
+741
+01:07:20,285 --> 01:07:23,595  X1:000 X2:719 Y1:002 Y2:574
+I never would've wished
+that injury on you.
+
+742
+01:07:23,685 --> 01:07:26,040  X1:000 X2:719 Y1:002 Y2:574
+What you could do physically...
+
+743
+01:07:26,125 --> 01:07:28,275  X1:000 X2:719 Y1:002 Y2:574
+was a gift.
+
+744
+01:07:28,365 --> 01:07:31,038  X1:000 X2:719 Y1:002 Y2:574
+I never would've wished it to go away.
+
+745
+01:07:33,165 --> 01:07:35,076  X1:000 X2:719 Y1:002 Y2:574
+You know that, right?
+
+746
+01:07:39,125 --> 01:07:41,844  X1:000 X2:719 Y1:002 Y2:574
+You had two calls afterJoseph
+went to bed. One came through...
+
+747
+01:07:41,925 --> 01:07:44,120  X1:000 X2:719 Y1:002 Y2:574
+while I was on the other line,
+but I wasn't talking too long.
+
+748
+01:07:44,205 --> 01:07:47,880  X1:000 X2:719 Y1:002 Y2:574
+There was an emergency with my sister.
+She tried to do her own perm, and now
+she looks like she stuck her head--
+
+749
+01:07:47,965 --> 01:07:50,001  X1:000 X2:719 Y1:002 Y2:574
+Who called through?
+
+750
+01:07:50,085 --> 01:07:52,394  X1:000 X2:719 Y1:002 Y2:574
+Um, someone from New York...
+
+751
+01:07:52,485 --> 01:07:54,441  X1:000 X2:719 Y1:002 Y2:574
+uh, about a securityjob.
+
+752
+01:07:54,525 --> 01:07:57,597  X1:000 X2:719 Y1:002 Y2:574
+They want to hire you. I didn't know
+you guys were moving to New York.
+
+753
+01:07:57,685 --> 01:07:59,994  X1:000 X2:719 Y1:002 Y2:574
+Thanks for telling me.
+
+754
+01:08:00,085 --> 01:08:02,553  X1:000 X2:719 Y1:002 Y2:574
+We weren't all gonna move.
+
+755
+01:08:03,685 --> 01:08:05,596  X1:000 X2:719 Y1:002 Y2:574
+Oh.
+
+756
+01:08:07,445 --> 01:08:10,642  X1:000 X2:719 Y1:002 Y2:574
+I let the answering machine
+pick up the other call.
+
+757
+01:08:14,605 --> 01:08:16,516  X1:000 X2:719 Y1:002 Y2:574
+Great.
+
+758
+01:08:27,565 --> 01:08:31,194  X1:000 X2:719 Y1:002 Y2:574
+Look, let'sjust be honest here.
+We'rejust at the beginning...
+
+759
+01:08:31,285 --> 01:08:34,163  X1:000 X2:719 Y1:002 Y2:574
+and I don't expect
+you or I to change...
+
+760
+01:08:34,245 --> 01:08:36,600  X1:000 X2:719 Y1:002 Y2:574
+the course ofwhere
+our lives were headed...
+
+761
+01:08:36,685 --> 01:08:38,880  X1:000 X2:719 Y1:002 Y2:574
+because ofone date.
+
+762
+01:08:38,965 --> 01:08:43,243  X1:000 X2:719 Y1:002 Y2:574
+And ifyou do go to New York,
+we can develop this.
+
+763
+01:08:43,325 --> 01:08:46,362  X1:000 X2:719 Y1:002 Y2:574
+We'll just be forced to take it slow.
+
+764
+01:08:46,445 --> 01:08:50,040  X1:000 X2:719 Y1:002 Y2:574
+And in the end, I think
+that's defiînitely better.
+
+765
+01:08:52,485 --> 01:08:54,680  X1:000 X2:719 Y1:002 Y2:574
+I mean, this is our second time around,
+David. I didn't expect us...
+
+766
+01:08:54,765 --> 01:08:56,960  X1:000 X2:719 Y1:002 Y2:574
+to get carried away.
+
+767
+01:08:59,125 --> 01:09:02,834  X1:000 X2:719 Y1:002 Y2:574
+But I guess "congratulations"
+is the right thing to say.
+
+768
+01:09:26,605 --> 01:09:28,755  X1:000 X2:719 Y1:002 Y2:574
+David, it's Eliijah.
+
+769
+01:09:28,845 --> 01:09:30,756  X1:000 X2:719 Y1:002 Y2:574
+It wasso obvious.
+
+770
+01:09:30,845 --> 01:09:33,075  X1:000 X2:719 Y1:002 Y2:574
+It was this one issue
+that brought it backforme--
+
+771
+01:09:33,165 --> 01:09:35,076  X1:000 X2:719 Y1:002 Y2:574
+Century Comics 1 17.
+
+772
+01:09:35,165 --> 01:09:37,201  X1:000 X2:719 Y1:002 Y2:574
+That's where thisgroup,
+the Coalition ofEvil...
+
+773
+01:09:37,285 --> 01:09:39,674  X1:000 X2:719 Y1:002 Y2:574
+triedto ascertain the weakness
+ofeverysuperhero...
+
+774
+01:09:39,765 --> 01:09:43,041  X1:000 X2:719 Y1:002 Y2:574
+because theyallhave one,
+just likeyou.
+
+775
+01:09:43,125 --> 01:09:47,004  X1:000 X2:719 Y1:002 Y2:574
+Yourbones don't break.
+Mine do. That's clear.
+
+776
+01:09:47,085 --> 01:09:50,395  X1:000 X2:719 Y1:002 Y2:574
+Yourcells react to bacteria
+and viruses differentlythan mine.
+
+777
+01:09:50,485 --> 01:09:54,273  X1:000 X2:719 Y1:002 Y2:574
+You don'tgetsick.
+Ido. That'salso clear.
+
+778
+01:09:54,365 --> 01:09:59,439  X1:000 X2:719 Y1:002 Y2:574
+But forsome reason, you andl
+react the exactsame wayto water.
+
+779
+01:09:59,525 --> 01:10:01,834  X1:000 X2:719 Y1:002 Y2:574
+Weswallowit too fast, we choke.
+
+780
+01:10:01,925 --> 01:10:04,075  X1:000 X2:719 Y1:002 Y2:574
+Wegetsome in ourlungs, we drown.
+
+781
+01:10:04,165 --> 01:10:09,034  X1:000 X2:719 Y1:002 Y2:574
+Howeverunrealit mayseem,
+we are connected, you andl.
+
+782
+01:10:09,125 --> 01:10:13,596  X1:000 X2:719 Y1:002 Y2:574
+We're on thesame curve,
+just on opposite ends.
+
+783
+01:10:13,685 --> 01:10:17,564  X1:000 X2:719 Y1:002 Y2:574
+Thepoint ofallthis is we
+nowknowsomething we didn 't.
+
+784
+01:10:17,645 --> 01:10:21,035  X1:000 X2:719 Y1:002 Y2:574
+You have a weakness-- water.
+
+785
+01:10:21,125 --> 01:10:23,958  X1:000 X2:719 Y1:002 Y2:574
+It's likeyourkryptonite.
+
+786
+01:10:24,045 --> 01:10:26,240  X1:000 X2:719 Y1:002 Y2:574
+You hearingme, David?
+
+787
+01:12:35,685 --> 01:12:37,596  X1:000 X2:719 Y1:002 Y2:574
+Audrey?
+
+788
+01:13:09,645 --> 01:13:11,954  X1:000 X2:719 Y1:002 Y2:574
+Gotcha. Come on.
+
+789
+01:13:28,845 --> 01:13:31,564  X1:000 X2:719 Y1:002 Y2:574
+Audrey. Audrey.
+
+790
+01:13:37,205 --> 01:13:39,116  X1:000 X2:719 Y1:002 Y2:574
+Hey!
+
+791
+01:13:43,045 --> 01:13:45,798  X1:000 X2:719 Y1:002 Y2:574
+You'll be okay.
+
+792
+01:13:45,885 --> 01:13:49,514  X1:000 X2:719 Y1:002 Y2:574
+What-- What happened?
+
+793
+01:13:49,605 --> 01:13:53,359  X1:000 X2:719 Y1:002 Y2:574
+I thought I was--
+I thought I was dead.
+
+794
+01:13:53,445 --> 01:13:55,356  X1:000 X2:719 Y1:002 Y2:574
+Me too.
+
+795
+01:13:59,645 --> 01:14:01,556  X1:000 X2:719 Y1:002 Y2:574
+Is she all right?
+
+796
+01:14:01,645 --> 01:14:03,875  X1:000 X2:719 Y1:002 Y2:574
+I think her leg's broken.
+
+797
+01:14:03,965 --> 01:14:06,399  X1:000 X2:719 Y1:002 Y2:574
+Are you hurt?
+
+798
+01:14:06,485 --> 01:14:08,601  X1:000 X2:719 Y1:002 Y2:574
+Hey, man, are you hurt?
+
+799
+01:14:37,805 --> 01:14:39,716  X1:000 X2:719 Y1:002 Y2:574
+Hello.
+
+800
+01:14:39,805 --> 01:14:42,444  X1:000 X2:719 Y1:002 Y2:574
+I wasn 't injuredin that caraccident.
+
+801
+01:14:42,525 --> 01:14:45,039  X1:000 X2:719 Y1:002 Y2:574
+David.
+
+802
+01:14:45,125 --> 01:14:47,559  X1:000 X2:719 Y1:002 Y2:574
+I've neverbeen injured, Eliijah.
+
+803
+01:14:49,805 --> 01:14:52,000  X1:000 X2:719 Y1:002 Y2:574
+What am lsupposedto do?
+
+804
+01:14:57,725 --> 01:15:00,478  X1:000 X2:719 Y1:002 Y2:574
+Go to where people are.
+
+805
+01:15:00,565 --> 01:15:03,443  X1:000 X2:719 Y1:002 Y2:574
+You won't have to look very long.
+
+806
+01:15:05,005 --> 01:15:07,838  X1:000 X2:719 Y1:002 Y2:574
+It's all right to be afraid, David...
+
+807
+01:15:07,925 --> 01:15:11,804  X1:000 X2:719 Y1:002 Y2:574
+because this part won't be
+like a comic book.
+
+808
+01:15:11,885 --> 01:15:16,561  X1:000 X2:719 Y1:002 Y2:574
+Real life doesn't fiît into little boxes
+that were drawn for it.
+
+809
+01:15:53,325 --> 01:15:57,113  X1:000 X2:719 Y1:002 Y2:574
+There's one in the fiîrst row.
+It's-- It's the second one.
+
+810
+01:15:57,205 --> 01:15:59,958  X1:000 X2:719 Y1:002 Y2:574
+Yes. It's the second one over.
+
+811
+01:16:31,765 --> 01:16:33,835  X1:000 X2:719 Y1:002 Y2:574
+Go back to Africa!
+
+812
+01:16:49,485 --> 01:16:51,635  X1:000 X2:719 Y1:002 Y2:574
+Hey, what's your name?
+
+813
+01:16:57,045 --> 01:16:59,161  X1:000 X2:719 Y1:002 Y2:574
+I thinkyou drank too much.
+
+814
+01:17:42,925 --> 01:17:44,881  X1:000 X2:719 Y1:002 Y2:574
+Can I come in?
+
+815
+01:17:44,965 --> 01:17:47,399  X1:000 X2:719 Y1:002 Y2:574
+Who are you?
+
+816
+01:17:47,485 --> 01:17:50,158  X1:000 X2:719 Y1:002 Y2:574
+I like your house.
+
+817
+01:17:50,245 --> 01:17:52,156  X1:000 X2:719 Y1:002 Y2:574
+Can I come in?
+
+818
+01:17:52,245 --> 01:17:54,361  X1:000 X2:719 Y1:002 Y2:574
+What is this?
+
+819
+01:17:55,965 --> 01:17:59,116  X1:000 X2:719 Y1:002 Y2:574
+No, you can't come in.
+
+820
+01:17:59,205 --> 01:18:01,560  X1:000 X2:719 Y1:002 Y2:574
+Are you sure?
+
+821
+01:18:01,645 --> 01:18:03,840  X1:000 X2:719 Y1:002 Y2:574
+What are-- What are you--
+
+822
+01:22:22,965 --> 01:22:24,876  X1:000 X2:719 Y1:002 Y2:574
+It's okay.
+
+823
+01:22:34,805 --> 01:22:36,716  X1:000 X2:719 Y1:002 Y2:574
+It's okay. It's okay.
+
+824
+01:29:03,885 --> 01:29:06,353  X1:000 X2:719 Y1:002 Y2:574
+I had a bad dream.
+
+825
+01:29:12,005 --> 01:29:14,075  X1:000 X2:719 Y1:002 Y2:574
+It's over now.
+
+826
+01:29:40,925 --> 01:29:43,644  X1:000 X2:719 Y1:002 Y2:574
+I don't know.
+
+827
+01:29:43,725 --> 01:29:45,716  X1:000 X2:719 Y1:002 Y2:574
+I can't believe you'd think that.
+
+828
+01:29:45,805 --> 01:29:47,716  X1:000 X2:719 Y1:002 Y2:574
+I'm just asking you.
+
+829
+01:29:50,845 --> 01:29:52,961  X1:000 X2:719 Y1:002 Y2:574
+I'm making French toast.
+
+830
+01:30:07,765 --> 01:30:10,233  X1:000 X2:719 Y1:002 Y2:574
+I've been thinking about Elijah Price.
+
+831
+01:30:11,485 --> 01:30:15,114  X1:000 X2:719 Y1:002 Y2:574
+If he shows up again, I think
+we should call the police, okay?
+
+832
+01:30:19,045 --> 01:30:20,956  X1:000 X2:719 Y1:002 Y2:574
+Okay?
+
+833
+01:30:23,365 --> 01:30:25,276  X1:000 X2:719 Y1:002 Y2:574
+Okay.
+
+834
+01:31:30,605 --> 01:31:32,596  X1:000 X2:719 Y1:002 Y2:574
+You were right.
+
+835
+01:32:20,165 --> 01:32:24,078  X1:000 X2:719 Y1:002 Y2:574
+This is one ofJohann Davis'
+earliest drawings.
+
+836
+01:32:24,165 --> 01:32:26,440  X1:000 X2:719 Y1:002 Y2:574
+See the villain's eyes?
+
+837
+01:32:26,525 --> 01:32:28,675  X1:000 X2:719 Y1:002 Y2:574
+They're larger than
+the other characters'.
+
+838
+01:32:28,765 --> 01:32:34,044  X1:000 X2:719 Y1:002 Y2:574
+They insinuate a slightly skewed
+perspective on how they see the world--
+
+839
+01:32:35,125 --> 01:32:37,320  X1:000 X2:719 Y1:002 Y2:574
+just off normal.
+
+840
+01:32:37,405 --> 01:32:39,635  X1:000 X2:719 Y1:002 Y2:574
+He doesn't look scary.
+
+841
+01:32:39,725 --> 01:32:42,114  X1:000 X2:719 Y1:002 Y2:574
+Mm-hmm. That's what I said to my son.
+
+842
+01:32:42,205 --> 01:32:44,765  X1:000 X2:719 Y1:002 Y2:574
+But he says there's always two kinds.
+
+843
+01:32:44,845 --> 01:32:49,077  X1:000 X2:719 Y1:002 Y2:574
+There's the soldier villain
+who fiîghts the hero with his hands...
+
+844
+01:32:49,165 --> 01:32:53,283  X1:000 X2:719 Y1:002 Y2:574
+and then there's the real threat--
+the brilliant and evil archenemy...
+
+845
+01:32:53,365 --> 01:32:55,754  X1:000 X2:719 Y1:002 Y2:574
+who fiîghts the hero with his mind.
+
+846
+01:32:55,845 --> 01:32:57,756  X1:000 X2:719 Y1:002 Y2:574
+Are you Elijah's mother?
+
+847
+01:32:57,845 --> 01:33:01,440  X1:000 X2:719 Y1:002 Y2:574
+I am. I'm helping him with the sale.
+
+848
+01:33:01,525 --> 01:33:04,198  X1:000 X2:719 Y1:002 Y2:574
+Nice to meet you. I'm David Dunn.
+
+849
+01:33:04,285 --> 01:33:06,196  X1:000 X2:719 Y1:002 Y2:574
+He's spoken ofyou.
+
+850
+01:33:06,285 --> 01:33:08,196  X1:000 X2:719 Y1:002 Y2:574
+Says you're becoming friends.
+
+851
+01:33:08,285 --> 01:33:10,594  X1:000 X2:719 Y1:002 Y2:574
+We are.
+
+852
+01:33:10,685 --> 01:33:12,801  X1:000 X2:719 Y1:002 Y2:574
+Looks like he's doing good today.
+
+853
+01:33:13,885 --> 01:33:16,683  X1:000 X2:719 Y1:002 Y2:574
+I'm very proud of him.
+
+854
+01:33:16,765 --> 01:33:19,723  X1:000 X2:719 Y1:002 Y2:574
+He's come through a lot in his life--
+
+855
+01:33:19,805 --> 01:33:23,195  X1:000 X2:719 Y1:002 Y2:574
+a couple of bad spills
+I thought had broken him.
+
+856
+01:33:23,285 --> 01:33:26,277  X1:000 X2:719 Y1:002 Y2:574
+Mm-hmm. They were bad...
+
+857
+01:33:27,365 --> 01:33:29,799  X1:000 X2:719 Y1:002 Y2:574
+but he made it.
+
+858
+01:33:29,885 --> 01:33:31,796  X1:000 X2:719 Y1:002 Y2:574
+Yes, he did.
+
+859
+01:33:32,885 --> 01:33:35,001  X1:000 X2:719 Y1:002 Y2:574
+He's kind ofa miracle.
+
+860
+01:33:37,085 --> 01:33:38,996  X1:000 X2:719 Y1:002 Y2:574
+Yes, he is.
+
+861
+01:33:42,405 --> 01:33:44,965  X1:000 X2:719 Y1:002 Y2:574
+- I'll tell him you're here.
+- Thankyou.
+
+862
+01:33:46,245 --> 01:33:49,840  X1:000 X2:719 Y1:002 Y2:574
+We'll work something out.
+Always able to work something out.
+
+863
+01:34:13,885 --> 01:34:15,796  X1:000 X2:719 Y1:002 Y2:574
+It has begun.
+
+864
+01:34:18,805 --> 01:34:20,841  X1:000 X2:719 Y1:002 Y2:574
+Tell me something, David.
+
+865
+01:34:21,925 --> 01:34:26,282  X1:000 X2:719 Y1:002 Y2:574
+When you woke up this morning,
+was it still there?
+
+866
+01:34:26,365 --> 01:34:29,118  X1:000 X2:719 Y1:002 Y2:574
+The sadness?
+
+867
+01:34:29,205 --> 01:34:31,116  X1:000 X2:719 Y1:002 Y2:574
+No.
+
+868
+01:34:34,565 --> 01:34:37,477  X1:000 X2:719 Y1:002 Y2:574
+I think this is where we shake hands.
+
+869
+01:34:55,725 --> 01:34:58,637  X1:000 X2:719 Y1:002 Y2:574
+- Look!
+- Did you see it?
+
+870
+01:35:07,645 --> 01:35:10,034  X1:000 X2:719 Y1:002 Y2:574
+I worked in that building 25 years.
+
+871
+01:35:10,125 --> 01:35:12,161  X1:000 X2:719 Y1:002 Y2:574
+I know all its secrets.
+
+872
+01:35:13,565 --> 01:35:15,476  X1:000 X2:719 Y1:002 Y2:574
+Secrets?
+
+873
+01:35:16,845 --> 01:35:21,555  X1:000 X2:719 Y1:002 Y2:574
+Like ifthere ever was a fiîre
+on floors one, two or three...
+
+874
+01:35:21,645 --> 01:35:25,001  X1:000 X2:719 Y1:002 Y2:574
+everyone in that hotel
+would be burned alive.
+
+875
+01:35:30,725 --> 01:35:33,364  X1:000 X2:719 Y1:002 Y2:574
+Passengers aren't allowed in there.
+
+876
+01:36:14,885 --> 01:36:17,240  X1:000 X2:719 Y1:002 Y2:574
+Do you know what
+the scariest thing is?
+
+877
+01:36:20,805 --> 01:36:23,956  X1:000 X2:719 Y1:002 Y2:574
+To not know your place
+in this world...
+
+878
+01:36:24,045 --> 01:36:26,479  X1:000 X2:719 Y1:002 Y2:574
+to not know why you're here.
+
+879
+01:36:27,725 --> 01:36:29,636  X1:000 X2:719 Y1:002 Y2:574
+That's--
+
+880
+01:36:31,405 --> 01:36:33,714  X1:000 X2:719 Y1:002 Y2:574
+That'sjust an awful feeling.
+
+881
+01:36:35,045 --> 01:36:37,275  X1:000 X2:719 Y1:002 Y2:574
+What have you done?
+
+882
+01:36:38,405 --> 01:36:41,317  X1:000 X2:719 Y1:002 Y2:574
+I almost gave up hope.
+
+883
+01:36:41,405 --> 01:36:44,477  X1:000 X2:719 Y1:002 Y2:574
+There were so many times
+I questioned myself.
+
+884
+01:36:44,565 --> 01:36:46,999  X1:000 X2:719 Y1:002 Y2:574
+You killed all those people.
+
+885
+01:36:48,245 --> 01:36:50,964  X1:000 X2:719 Y1:002 Y2:574
+But I found you.
+
+886
+01:36:51,045 --> 01:36:54,196  X1:000 X2:719 Y1:002 Y2:574
+So many sacrifiîces...
+
+887
+01:36:55,285 --> 01:36:57,196  X1:000 X2:719 Y1:002 Y2:574
+just to fiînd you.
+
+888
+01:36:57,285 --> 01:36:59,196  X1:000 X2:719 Y1:002 Y2:574
+Jesus Christ!
+
+889
+01:37:08,685 --> 01:37:11,358  X1:000 X2:719 Y1:002 Y2:574
+Now that we know who you are...
+
+890
+01:37:12,445 --> 01:37:15,039  X1:000 X2:719 Y1:002 Y2:574
+I know who I am.
+
+891
+01:37:18,485 --> 01:37:20,601  X1:000 X2:719 Y1:002 Y2:574
+I'm not a mistake.
+
+892
+01:37:22,045 --> 01:37:24,115  X1:000 X2:719 Y1:002 Y2:574
+It all makes sense.
+
+893
+01:37:24,205 --> 01:37:28,596  X1:000 X2:719 Y1:002 Y2:574
+In a comic, you know how you can tell
+who the arch-villain's going to be?
+
+894
+01:37:28,685 --> 01:37:31,916  X1:000 X2:719 Y1:002 Y2:574
+He's the exact opposite ofthe hero.
+
+895
+01:37:32,005 --> 01:37:35,600  X1:000 X2:719 Y1:002 Y2:574
+And most times, they're friends,
+like you and me.
+
+896
+01:37:35,685 --> 01:37:39,360  X1:000 X2:719 Y1:002 Y2:574
+I should've known way back when.
+You know why, David?
+
+897
+01:37:39,445 --> 01:37:41,356  X1:000 X2:719 Y1:002 Y2:574
+Because ofthe kids.
+
+898
+01:37:50,885 --> 01:37:53,445  X1:000 X2:719 Y1:002 Y2:574
+They called me Mr Glass.
+
+899
+01:42:18,768 --> 00:00:00,000  X1:000 X2:719 Y1:002 Y2:574
+ 
+

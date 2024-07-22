@@ -1,0 +1,9633 @@
+﻿1
+00:02:05,840 --> 00:02:06,841
+LEWIS ON RADIO:
+All right, <i>team,</i>
+
+2
+00:02:06,920 --> 00:02:08,046
+<i>stay in sight of each other.</i>
+
+3
+00:02:08,160 --> 00:02:09,241
+<i>Let's make NASA proud today.</i>
+
+4
+00:02:10,680 --> 00:02:12,409
+<i>MARTINEZ: How's it looking
+over there, Watney?</i>
+
+5
+00:02:12,480 --> 00:02:13,925
+<i>WATNEY: Well,
+you'll be happy to hear...</i>
+
+6
+00:02:14,000 --> 00:02:16,731
+<i>that in Grid Section 14-28,</i>
+
+7
+00:02:16,800 --> 00:02:19,724
+<i>the particles were
+predominantly coarse...</i>
+
+8
+00:02:19,800 --> 00:02:23,009
+but in 29,
+they're much finer...
+
+9
+00:02:23,200 --> 00:02:25,123
+and they should be ideal
+for chem analysis.
+
+10
+00:02:25,280 --> 00:02:26,566
+MARTINEZ: <i>Oh, wow.
+Did everybody hear that?</i>
+
+11
+00:02:26,640 --> 00:02:28,449
+<i>Mark just discovered dirt.</i>
+
+12
+00:02:28,600 --> 00:02:29,647
+<i>(LAUGHS) Should we
+alert the media?</i>
+
+13
+00:02:29,800 --> 00:02:31,643
+<i>WATNEY: Sorry, what are you
+doing today, Martinez?</i>
+
+14
+00:02:31,800 --> 00:02:33,689
+Making sure the MAV
+is still upright?
+
+15
+00:02:33,760 --> 00:02:34,807
+<i>MARTINEZ: I'd like you to know</i>
+
+16
+00:02:34,880 --> 00:02:35,927
+<i>that visual inspection
+of the equipment...</i>
+
+17
+00:02:36,000 --> 00:02:37,604
+<i>is imperative
+to mission success.</i>
+
+18
+00:02:37,680 --> 00:02:40,524
+<i>I also would like to report
+that the MA V is still upright.</i>
+
+19
+00:02:40,720 --> 00:02:41,846
+<i>LEWIS: (SIGHS) Watney,</i>
+
+20
+00:02:41,920 --> 00:02:43,160
+<i>you keep leaving
+your channel open...</i>
+
+21
+00:02:43,240 --> 00:02:45,049
+<i>which leads to
+Martinez responding...</i>
+
+22
+00:02:45,200 --> 00:02:46,440
+<i>which leads to
+all of us listening...</i>
+
+23
+00:02:46,640 --> 00:02:47,801
+<i>which leads to me
+being annoyed.</i>
+
+24
+00:02:48,400 --> 00:02:49,481
+WATNEY: Roger that.
+
+25
+00:02:49,560 --> 00:02:50,846
+<i>Martinez, the captain
+would like you to please...</i>
+
+26
+00:02:51,000 --> 00:02:52,240
+shut your smart mouth.
+
+27
+00:02:52,320 --> 00:02:53,401
+(LAUGHING)
+
+28
+00:02:53,720 --> 00:02:55,210
+We'd prefer to use
+a different adjective
+
+29
+00:02:55,320 --> 00:02:56,970
+to describe Martinez's mouth.
+(WATNEY LAUGHING)
+
+30
+00:02:57,400 --> 00:02:58,765
+MARTINEZ: <i>Did Beck
+just insult me?</i>
+
+31
+00:02:58,920 --> 00:03:00,922
+<i>WATNEY". "Dr. Beck." And yes.</i>
+
+32
+00:03:01,080 --> 00:03:03,606
+Happy to turn the radios off
+from here, Commander.
+
+33
+00:03:03,760 --> 00:03:04,841
+Just say the word.
+
+34
+00:03:05,000 --> 00:03:06,206
+<i>Went, Johanssen.</i>
+
+35
+00:03:06,280 --> 00:03:07,566
+Constant communication
+is the hallmark...
+
+36
+00:03:07,720 --> 00:03:08,767
+Shut 'em off.
+
+37
+00:03:08,920 --> 00:03:10,001
+(BEEPS)
+WATNEY: No.
+
+38
+00:03:10,160 --> 00:03:11,321
+No. Excuse me.
+
+39
+00:03:12,280 --> 00:03:14,248
+LEWIS: <i>I apologize
+for my countrymen, Vogel.</i>
+
+40
+00:03:14,480 --> 00:03:15,686
+VOGEL: Accepted.
+
+41
+00:03:15,880 --> 00:03:17,848
+How many samples
+do we need, Commander?
+
+42
+00:03:18,040 --> 00:03:19,041
+LEWIS: Seven.
+
+43
+00:03:19,520 --> 00:03:20,646
+<i>100 grams each.</i>
+
+44
+00:03:22,440 --> 00:03:24,522
+(ALARM BLARING)
+
+45
+00:03:27,000 --> 00:03:28,923
+We have a mission update.
+A storm warning.
+
+46
+00:03:29,080 --> 00:03:30,570
+<i>Commander,
+you should come inside.</i>
+
+47
+00:03:30,640 --> 00:03:31,926
+<i>You're gonna want to see this.</i>
+
+48
+00:03:32,080 --> 00:03:33,081
+What is it?
+
+49
+00:03:33,160 --> 00:03:34,207
+JOHANSSEN: <i>A</i> storm warning.
+
+50
+00:03:34,400 --> 00:03:35,731
+LEWIS: I saw that
+in this morning's briefing.
+
+51
+00:03:35,880 --> 00:03:37,769
+We'll be inside
+before it hits.
+
+52
+00:03:37,920 --> 00:03:40,651
+Yeah, they upgraded
+their estimate.
+
+53
+00:03:40,800 --> 00:03:42,450
+The storm's gonna be
+a lot worse.
+
+54
+00:03:48,920 --> 00:03:51,082
+<i>LEWIS: Martinez,
+how does it look?</i>
+
+55
+00:03:52,200 --> 00:03:53,281
+MARTINEZ: Not <i>good.</i>
+
+56
+00:03:56,160 --> 00:03:59,130
+"1 ,200 kilometers in diameter,
+bearing 24.41 degrees."
+
+57
+00:03:59,280 --> 00:04:00,441
+That's tracking
+right towards us.
+
+58
+00:04:00,600 --> 00:04:02,011
+"Based on current escalation,
+
+59
+00:04:02,080 --> 00:04:04,447
+"estimated force
+of 8,600 newtons."
+
+60
+00:04:05,360 --> 00:04:06,646
+What's the abort force?
+
+61
+00:04:06,800 --> 00:04:08,450
+7,500.
+
+62
+00:04:09,320 --> 00:04:11,607
+<i>MARTINEZ: Anything more than
+that and the MA V could tip.</i>
+
+63
+00:04:11,760 --> 00:04:13,046
+Do we scrub?
+
+64
+00:04:13,200 --> 00:04:14,440
+Begin abort procedure.
+
+65
+00:04:14,960 --> 00:04:17,247
+VOGEL: We are estimating
+with a margin of error.
+
+66
+00:04:17,440 --> 00:04:19,010
+We could wait it out.
+
+67
+00:04:19,360 --> 00:04:20,850
+WATNEYI Let's wait it out.
+
+68
+00:04:22,480 --> 00:04:23,686
+Let's wait it out.
+
+69
+00:04:25,280 --> 00:04:26,725
+JOHANSSEN: Commander?
+
+70
+00:04:27,400 --> 00:04:28,686
+Prep emergency departure.
+
+71
+00:04:28,840 --> 00:04:30,126
+WATNEY: Commander?
+
+72
+00:04:30,280 --> 00:04:32,203
+LEWIS: We're scrubbed.
+That's an order.
+
+73
+00:04:42,760 --> 00:04:45,286
+<i>Martinez,
+how long before take-off?</i>
+
+74
+00:04:45,440 --> 00:04:46,487
+12 minutes.
+
+75
+00:04:46,840 --> 00:04:48,251
+(ALARM BLARING)
+
+76
+00:04:49,760 --> 00:04:51,410
+LEWIS: Visibility
+is almost zero.
+
+77
+00:04:51,600 --> 00:04:52,601
+Anyone gets lost,
+
+78
+00:04:52,680 --> 00:04:53,886
+hone in on
+my suit's telemetry.
+
+79
+00:04:54,040 --> 00:04:55,041
+You ready?
+
+80
+00:04:55,120 --> 00:04:56,406
+Ready.
+
+81
+00:04:57,720 --> 00:04:58,767
+(ALL GROAN)
+
+82
+00:04:58,840 --> 00:05:00,205
+WATNEY: Commander,
+are you okay?
+
+83
+00:05:00,320 --> 00:05:01,606
+I'm okay.
+
+84
+00:05:04,120 --> 00:05:05,565
+(WIND HOWLING)
+
+85
+00:05:11,480 --> 00:05:12,481
+(STRAINING)
+
+86
+00:05:13,560 --> 00:05:15,164
+(BREATHING HEAVILY)
+
+87
+00:05:25,880 --> 00:05:27,245
+Commander,
+we're at 10 degrees,
+
+88
+00:05:27,320 --> 00:05:28,810
+and the MAV
+is gonna tip at 12.3.
+
+89
+00:05:29,400 --> 00:05:32,290
+WATNEY: Hey! We might be able
+to keep the MAV from tipping.
+
+90
+00:05:32,360 --> 00:05:33,407
+H ow?
+
+91
+00:05:34,120 --> 00:05:37,124
+Use the cables from the comms
+mast as guy-lines...
+
+92
+00:05:37,280 --> 00:05:38,964
+anchor it with the Rover's.
+
+93
+00:05:39,280 --> 00:05:40,361
+LEWIS: Watch out!
+
+94
+00:05:40,680 --> 00:05:41,681
+(WATN EY G ROAN S)
+
+95
+00:05:41,920 --> 00:05:42,921
+(SCREAMING)
+
+96
+00:05:43,600 --> 00:05:44,601
+Watney!
+
+97
+00:05:46,280 --> 00:05:48,647
+FEMALE <i>AUTOMATED</i> VOICE:
+<i>Warning. Suit breach detected.</i>
+
+98
+00:05:48,760 --> 00:05:49,727
+What happened?
+
+99
+00:05:49,800 --> 00:05:50,801
+He was hit.
+
+100
+00:05:50,960 --> 00:05:51,961
+Watney, report.
+
+101
+00:05:52,760 --> 00:05:53,761
+Before we lost telemetry,
+
+102
+00:05:53,840 --> 00:05:54,887
+his decompression alarm
+went off.
+
+103
+00:05:55,040 --> 00:05:56,087
+LEWIS: Where did you
+last see him?
+
+104
+00:05:56,160 --> 00:05:57,241
+I don't know where he is.
+
+105
+00:05:57,320 --> 00:05:58,321
+LEWIS: What are the vitals
+on his suit?
+
+106
+00:05:58,400 --> 00:05:59,401
+He's offline.
+
+107
+00:05:59,480 --> 00:06:00,925
+BECK: A complete loss
+of signal on Watney.
+
+108
+00:06:01,080 --> 00:06:02,206
+VOGEL: Beck!
+Yeah.
+
+109
+00:06:02,360 --> 00:06:04,601
+How long can he survive
+decompression?
+
+110
+00:06:04,840 --> 00:06:06,080
+Less than a minute.
+
+111
+00:06:06,520 --> 00:06:08,727
+Line up, walk west.
+
+112
+00:06:08,880 --> 00:06:10,848
+He may be prone.
+We don't wanna step over him.
+
+113
+00:06:12,680 --> 00:06:13,886
+MARTINEZ: Commander...
+
+114
+00:06:14,040 --> 00:06:15,690
+We're at 10.5 degrees.
+
+115
+00:06:15,760 --> 00:06:16,921
+FEMALE <i>AUTOMATED</i> VOICE:
+<i>Warning. Excessive tilt.</i>
+
+116
+00:06:17,000 --> 00:06:19,810
+Tilting to 11
+with all the gusts of wind.
+
+117
+00:06:20,080 --> 00:06:21,320
+Copy that.
+
+118
+00:06:21,520 --> 00:06:23,887
+Everyone, hone in
+on Martinez's suit.
+
+119
+00:06:24,040 --> 00:06:26,088
+It'll get you to airlock.
+Get in, prep for launch.
+
+120
+00:06:26,400 --> 00:06:27,765
+BECK: What about you,
+Commander?
+
+121
+00:06:27,920 --> 00:06:30,605
+I'm gonna search
+a little longer. Get moving!
+
+122
+00:06:30,920 --> 00:06:31,921
+Go!
+
+123
+00:06:35,680 --> 00:06:36,806
+Watney!
+
+124
+00:06:37,360 --> 00:06:38,964
+Watney, report!
+
+125
+00:06:39,120 --> 00:06:41,168
+MARTINEZ: <i>The MA V's
+at 11. 6 degrees.</i>
+
+126
+00:06:41,800 --> 00:06:43,211
+One good gust
+and we're tipping.
+
+127
+00:06:43,360 --> 00:06:44,566
+If it tips, you launch.
+
+128
+00:06:44,720 --> 00:06:46,085
+You really think
+I'm gonna leave you behind?
+
+129
+00:06:46,240 --> 00:06:47,810
+LEWIS: That's an order,
+Martinez.
+
+130
+00:06:48,600 --> 00:06:50,443
+Mark!
+(BECK GRUNTING)
+
+131
+00:06:50,720 --> 00:06:53,769
+Mark! Can you hear me?
+
+132
+00:06:55,280 --> 00:06:58,045
+Martinez, what about
+the proximity radar?
+
+133
+00:06:58,200 --> 00:06:59,884
+Could that detect
+Watney's suit?
+
+134
+00:07:00,040 --> 00:07:01,371
+MARTINEZ: It's made to see
+the Hermes from orbit...
+
+135
+00:07:01,560 --> 00:07:03,449
+not a little piece of metal
+from a single suit.
+
+136
+00:07:03,600 --> 00:07:04,601
+LEWIS: <i>Give it</i> a <i>try.</i>
+
+137
+00:07:04,680 --> 00:07:05,681
+MARTINEZ: Roger.
+
+138
+00:07:05,920 --> 00:07:06,921
+VOGEL: What is she thinking?
+She knows
+
+139
+00:07:07,000 --> 00:07:08,126
+the infrared can't
+get through a sandstorm.
+
+140
+00:07:08,320 --> 00:07:10,448
+BECK: She's grasping
+for anything.
+
+141
+00:07:10,600 --> 00:07:11,601
+<i>MARTINEZ: We've got
+negative contact</i>
+
+142
+00:07:11,680 --> 00:07:12,761
+<i>on the proximity radar.</i>
+
+143
+00:07:12,880 --> 00:07:13,881
+LEWIS: Nothing?
+
+144
+00:07:14,040 --> 00:07:16,008
+<i>MARTINEZ: No.
+I can barely see the Hab.</i>
+
+145
+00:07:17,160 --> 00:07:19,288
+Commander, I know you don't
+wanna hear this, but...
+
+146
+00:07:19,440 --> 00:07:20,521
+Mark is dead.
+
+147
+00:07:22,040 --> 00:07:23,371
+<i>Commander!</i>
+
+148
+00:07:23,520 --> 00:07:26,046
+Hey, what the hell
+is wrong with you, man?
+
+149
+00:07:26,200 --> 00:07:27,201
+My friend just died.
+
+150
+00:07:27,280 --> 00:07:28,486
+I don't want
+my commander to die, too.
+
+151
+00:07:28,640 --> 00:07:29,880
+FEMALE <i>AUTOMATED</i> VOICE:
+<i>Stability warning.</i>
+
+152
+00:07:30,080 --> 00:07:31,127
+We're tipping!
+
+153
+00:07:31,280 --> 00:07:34,568
+BECK: <i>Commander, you need
+to get back to the ship, now!</i>
+
+154
+00:07:34,680 --> 00:07:35,681
+MARTINEZ: 13 degrees.
+
+155
+00:07:36,640 --> 00:07:38,130
+If we pass balance,
+we'll never rock back.
+
+156
+00:07:38,280 --> 00:07:39,520
+MARTINEZ: I've got
+one more trick left,
+
+157
+00:07:39,600 --> 00:07:41,045
+and then I'm following orders,
+Commander.
+
+158
+00:07:42,920 --> 00:07:44,410
+You're firing the OMS?
+(ALARM BEEPING)
+
+159
+00:07:45,040 --> 00:07:46,041
+That's right.
+
+160
+00:07:50,080 --> 00:07:51,161
+Commander!
+
+161
+00:07:51,760 --> 00:07:53,046
+LEWIS: On my way.
+(BREATHING HEAVILY)
+
+162
+00:07:56,440 --> 00:07:57,646
+<i>MARTINEZ: Johanssen, let's go.</i>
+
+163
+00:07:57,720 --> 00:07:58,846
+(SIGHS)
+
+164
+00:08:01,200 --> 00:08:02,611
+(STRUGGLING)
+
+165
+00:08:05,200 --> 00:08:07,248
+LEWIS: Mark!
+
+166
+00:08:19,360 --> 00:08:20,850
+MARTINEZ: <i>We're at 11.5
+and holding.</i>
+
+167
+00:08:24,560 --> 00:08:25,607
+<i>Ready to go on your command.</i>
+
+168
+00:08:28,040 --> 00:08:29,121
+Ready to launch.
+
+169
+00:08:30,400 --> 00:08:31,640
+Commander.
+
+170
+00:08:31,960 --> 00:08:33,644
+I need you to verbally tell me
+whether or not to.
+
+171
+00:08:33,800 --> 00:08:34,881
+Launch.
+
+172
+00:09:16,480 --> 00:09:18,084
+SANDERS ON TV:
+At around 4:30 a.m.
+
+173
+00:09:18,200 --> 00:09:19,645
+<i>Central Standard Time...</i>
+
+174
+00:09:19,800 --> 00:09:21,882
+<i>our satellites
+detected a storm</i>
+
+175
+00:09:21,960 --> 00:09:24,486
+<i>approaching the Ares 3
+mission site on Mars.</i>
+
+176
+00:09:24,960 --> 00:09:28,487
+<i>At 6:45, the storm
+had escalated to severe...</i>
+
+177
+00:09:28,640 --> 00:09:31,530
+<i>and we had no choice
+but to abort the mission.</i>
+
+178
+00:09:31,680 --> 00:09:34,081
+<i>Thanks to the quick action
+of Commander Lewis...</i>
+
+179
+00:09:34,240 --> 00:09:37,369
+<i>astronauts Beck, Johanssen,
+Martinez and Vogel...</i>
+
+180
+00:09:37,520 --> 00:09:40,251
+<i>were all able to reach
+the Mars Ascent Vehicle...</i>
+
+181
+00:09:40,400 --> 00:09:43,847
+<i>and perform an emergency
+launch at 7:28 Central Time.</i>
+
+182
+00:09:45,400 --> 00:09:47,607
+Unfortunately,
+during the evacuation...
+
+183
+00:09:47,760 --> 00:09:51,765
+astronaut Mark Watney was
+struck by debris and killed.
+
+184
+00:09:51,840 --> 00:09:52,921
+(REPORTERS GASP)
+(CAMERAS CLICKING)
+
+185
+00:09:53,000 --> 00:09:54,889
+Commander Lewis
+and the rest of her team...
+
+186
+00:09:55,040 --> 00:09:57,520
+were able to intercept safely
+with the Hermes
+
+187
+00:09:57,600 --> 00:09:59,682
+and are now heading home.
+
+188
+00:09:59,840 --> 00:10:02,286
+But Mark Watney is dead.
+
+189
+00:10:02,520 --> 00:10:03,567
+FEMALE REPORTER:
+Director Sanders!
+
+190
+00:10:03,680 --> 00:10:05,682
+(REPORTERS CLAMORING)
+
+191
+00:10:16,560 --> 00:10:19,086
+(DEVICE BEEPING)
+
+192
+00:10:36,880 --> 00:10:37,961
+(BREATHING HEAVILY)
+
+193
+00:10:38,040 --> 00:10:40,441
+FEMALE <i>AUTOMATED</i> VOICE:
+<i>Oxygen level critical.</i>
+
+194
+00:10:47,000 --> 00:10:49,082
+<i>Oxygen level critical.</i>
+
+195
+00:10:53,720 --> 00:10:55,484
+(BEEPING CONTINUES)
+
+196
+00:10:55,920 --> 00:10:57,570
+<i>Oxygen level...</i>
+
+197
+00:10:57,760 --> 00:10:58,761
+(BEEPING STOPS)
+
+198
+00:11:00,560 --> 00:11:02,289
+(GROANING)
+
+199
+00:11:09,760 --> 00:11:10,761
+(YELPS)
+
+200
+00:11:12,000 --> 00:11:13,286
+(BREATHING HEAVILY)
+
+201
+00:11:22,520 --> 00:11:23,965
+(GROANING)
+
+202
+00:11:51,480 --> 00:11:53,130
+(BREATHING HEAVILY)
+
+203
+00:12:05,480 --> 00:12:06,481
+(DOOR BEEPING)
+
+204
+00:12:07,520 --> 00:12:08,646
+(BUZZING)
+
+205
+00:12:15,640 --> 00:12:17,881
+FEMALE <i>AUTOMATED</i> VOICE:
+<i>Pressure stable.</i>
+
+206
+00:12:50,600 --> 00:12:51,681
+(BREATHING RAPIDLY)
+
+207
+00:12:53,840 --> 00:12:54,966
+(SCREAMING IN PAIN)
+
+208
+00:13:55,800 --> 00:13:56,926
+(GRUNTS)
+
+209
+00:14:13,920 --> 00:14:15,160
+(BREATHING RAPIDLY)
+
+210
+00:14:20,120 --> 00:14:21,610
+(EXHALES DEEPLY)
+
+211
+00:14:54,960 --> 00:14:56,166
+(GROANING)
+
+212
+00:15:00,480 --> 00:15:01,811
+(STAPLER CLATTERS)
+
+213
+00:15:03,000 --> 00:15:04,240
+(GROANS)
+
+214
+00:15:06,000 --> 00:15:09,004
+(EXHALING DEEPLY)
+
+215
+00:15:17,680 --> 00:15:19,011
+Fuck.
+
+216
+00:15:48,560 --> 00:15:49,561
+Okay-
+
+217
+00:15:49,960 --> 00:15:51,041
+<i>Okay-</i>
+
+218
+00:15:53,040 --> 00:15:57,090
+<i>Hello, this is Mark Watney,
+astronaut.</i>
+
+219
+00:15:57,800 --> 00:16:00,644
+<i>I'm entering this log
+for the record...</i>
+
+220
+00:16:01,200 --> 00:16:03,567
+<i>in case I don't make it.</i>
+
+221
+00:16:06,200 --> 00:16:10,285
+<i>It is 06:53 on Sol</i> 19...
+
+222
+00:16:10,440 --> 00:16:13,284
+<i>and I'm alive.</i>
+
+223
+00:16:14,600 --> 00:16:15,726
+<i>Obviously.</i>
+
+224
+00:16:15,880 --> 00:16:18,451
+<i>But I'm guessing that's gonna
+come as a surprise</i>
+
+225
+00:16:18,560 --> 00:16:21,609
+<i>to my crewmates and to NASA.</i>
+
+226
+00:16:22,080 --> 00:16:24,731
+<i>And to the entire world,
+really,</i> so...
+
+227
+00:16:27,720 --> 00:16:29,245
+<i>Surprise.</i>
+
+228
+00:16:30,560 --> 00:16:32,961
+<i>I did not die on Sol 18.</i>
+
+229
+00:16:33,120 --> 00:16:34,804
+<i>Best I can figure...</i>
+
+230
+00:16:34,960 --> 00:16:37,327
+<i>this length of our primary
+communications antenna</i>
+
+231
+00:16:37,400 --> 00:16:38,481
+<i>broke off...</i>
+
+232
+00:16:38,680 --> 00:16:40,842
+<i>and tore through
+my bio-monitor...</i>
+
+233
+00:16:41,000 --> 00:16:43,401
+<i>and ripped a hole
+in me as well.</i>
+
+234
+00:16:44,240 --> 00:16:47,369
+<i>But the antenna
+and the blood, really,</i>
+
+235
+00:16:47,440 --> 00:16:49,488
+<i>managed to seal the breach
+in my suit...</i>
+
+236
+00:16:49,640 --> 00:16:51,085
+<i>which kept me alive,</i>
+
+237
+00:16:51,160 --> 00:16:53,606
+<i>even though the crew
+must have thought I was dead.</i>
+
+238
+00:16:54,440 --> 00:16:56,761
+<i>I have no way to contact NASA.</i>
+
+239
+00:16:56,920 --> 00:16:59,924
+<i>And even if I could,
+it's gonna be four years...</i>
+
+240
+00:17:00,120 --> 00:17:02,441
+<i>until a manned mission
+can reach me.</i>
+
+241
+00:17:03,440 --> 00:17:05,681
+<i>And I'm in a Hab designed
+to last 31 days.</i>
+
+242
+00:17:05,840 --> 00:17:08,207
+<i>If the oxygenator breaks,
+I'm gonna suffocate.</i>
+
+243
+00:17:08,360 --> 00:17:10,647
+<i>If the water reclaimer breaks,
+I'll die of thirst.</i>
+
+244
+00:17:10,840 --> 00:17:13,207
+<i>If the Hab breaches,
+I'm just gonna, kind of...</i>
+
+245
+00:17:13,360 --> 00:17:14,441
+<i>implode.</i>
+
+246
+00:17:15,600 --> 00:17:18,365
+<i>And if by some miracle,
+none of that happens...</i>
+
+247
+00:17:19,120 --> 00:17:21,248
+<i>eventually I'm gonna
+run out of food.</i>
+
+248
+00:17:22,880 --> 00:17:24,006
+<i>So...</i>
+
+249
+00:17:25,280 --> 00:17:26,281
+yeah.
+
+250
+00:17:30,480 --> 00:17:31,561
+<i>Yeah.</i>
+
+251
+00:17:35,000 --> 00:17:36,126
+<i>(CLEARS T HRO AT)</i>
+
+252
+00:17:37,360 --> 00:17:38,486
+(SIGHS)
+
+253
+00:17:46,520 --> 00:17:48,887
+(COMPUTER BEEPING)
+
+254
+00:19:20,600 --> 00:19:22,921
+I'm not gonna die here.
+
+255
+00:20:02,800 --> 00:20:04,131
+32...
+
+256
+00:20:05,200 --> 00:20:06,531
+33...
+
+257
+00:20:08,600 --> 00:20:09,931
+34...
+
+258
+00:20:11,040 --> 00:20:12,485
+35, 36.
+
+259
+00:20:12,880 --> 00:20:15,724
+Sweet and sour chicken.
+
+260
+00:20:15,800 --> 00:20:16,961
+(GROANS SOFTLY)
+
+261
+00:20:29,880 --> 00:20:30,881
+(FLUSHING)
+
+262
+00:20:31,880 --> 00:20:33,723
+(WHIRRING)
+
+263
+00:20:48,000 --> 00:20:49,445
+What do we got?
+
+264
+00:20:52,240 --> 00:20:54,004
+(TYPING)
+
+265
+00:20:55,760 --> 00:20:58,366
+<i>Right, let's do the math.</i>
+
+266
+00:20:58,520 --> 00:21:02,002
+<i>Our surface mission here was
+supposed to last 31 sols.</i>
+
+267
+00:21:02,160 --> 00:21:04,003
+<i>For redundancy, they sent
+68 sols worth of food.</i>
+
+268
+00:21:04,120 --> 00:21:05,360
+<i>That's for 6 people.</i>
+
+269
+00:21:05,520 --> 00:21:08,126
+<i>So for just me,
+that's gonna last 300 sols...</i>
+
+270
+00:21:08,280 --> 00:21:11,443
+<i>which I figure I can stretch
+to 400 if I ration.</i>
+
+271
+00:21:11,600 --> 00:21:14,683
+<i>So I got to figure out
+a way to grow</i>
+
+272
+00:21:14,760 --> 00:21:16,524
+<i>three years' worth
+of food here.</i>
+
+273
+00:21:17,360 --> 00:21:19,362
+<i>On a planet
+where nothing grows.</i>
+
+274
+00:21:20,360 --> 00:21:21,361
+<i>Luckily...</i>
+
+275
+00:21:24,160 --> 00:21:25,207
+<i>I'm a botanist.</i>
+
+276
+00:21:29,280 --> 00:21:34,047
+<i>Mars will come to fear
+my botany powers.</i>
+
+277
+00:21:55,160 --> 00:21:56,400
+(STRAINING)
+
+278
+00:22:18,880 --> 00:22:20,723
+FEMALE <i>AUTOMATED</i> VOICE:
+<i>Pressure stable.</i>
+
+279
+00:22:31,120 --> 00:22:32,770
+<i>Staple came out.</i>
+
+280
+00:22:43,040 --> 00:22:44,690
+(PANTING)
+
+281
+00:23:22,640 --> 00:23:24,290
+Fuck you, Mars.
+
+282
+00:23:39,520 --> 00:23:41,010
+Johanssen, Jesus.
+
+283
+00:23:48,800 --> 00:23:49,961
+(GAGS)
+
+284
+00:24:31,520 --> 00:24:33,409
+<i>MEN:
+Sunday, Monday, Happy Days</i>
+
+285
+00:24:33,480 --> 00:24:34,970
+<i>Tuesday,
+Wednesday, Happy Days</i>
+
+286
+00:24:35,960 --> 00:24:38,327
+<i>Thursday, Friday, Happy Days</i>
+
+287
+00:24:38,480 --> 00:24:40,801
+<i>The weekend comes,
+my cycle hums</i>
+
+288
+00:24:40,880 --> 00:24:42,882
+<i>Ready to race to you</i>
+
+289
+00:24:43,080 --> 00:24:45,401
+<i>WATNEY: The problem is water.</i>
+
+290
+00:24:45,920 --> 00:24:50,926
+I have created
+126 square meters of soil.
+
+291
+00:24:51,080 --> 00:24:53,082
+<i>But every cubic meter
+of soil requires</i>
+
+292
+00:24:53,200 --> 00:24:56,170
+<i>40 liters of water
+to be farmable.</i>
+
+293
+00:24:56,320 --> 00:24:59,483
+<i>So I gotta make
+a lot more water.</i>
+
+294
+00:25:00,360 --> 00:25:02,522
+<i>Good thing is,
+I know the recipe.</i>
+
+295
+00:25:03,080 --> 00:25:05,082
+You take hydrogen,
+you add oxygen, you burn.
+
+296
+00:25:05,600 --> 00:25:08,251
+<i>Now, I have hundreds of liters</i>
+
+297
+00:25:08,360 --> 00:25:11,091
+<i>of unused hydrazine
+at the MD V.</i>
+
+298
+00:25:11,280 --> 00:25:14,204
+<i>If! run the hydrazine
+over an iridium catalyst,</i>
+
+299
+00:25:14,280 --> 00:25:16,567
+<i>it'll separate into N2 and H2.</i>
+
+300
+00:25:16,920 --> 00:25:21,130
+<i>And then if I just direct the
+hydrogen into a small area...</i>
+
+301
+00:25:21,440 --> 00:25:23,283
+<i>and burn it.</i>
+
+302
+00:25:23,600 --> 00:25:26,046
+<i>Luckily,
+in the history of humanity...</i>
+
+303
+00:25:26,720 --> 00:25:28,449
+nothing bad has ever happened
+
+304
+00:25:28,560 --> 00:25:31,370
+from lighting hydrogen
+on fire.
+
+305
+00:25:32,080 --> 00:25:33,809
+<i>NASA hates fire.</i>
+
+306
+00:25:33,960 --> 00:25:35,086
+<i>Because of the whole</i>
+
+307
+00:25:35,200 --> 00:25:37,965
+<i>"fire makes everybody die
+in space" thing.</i>
+
+308
+00:25:38,280 --> 00:25:40,282
+<i>So, everything
+they sent us up here with</i>
+
+309
+00:25:40,360 --> 00:25:41,805
+<i>is flame-retardant...</i>
+
+310
+00:25:41,960 --> 00:25:45,089
+with the notable
+exception of...
+
+311
+00:25:46,240 --> 00:25:48,208
+Martinez's personal items.
+
+312
+00:25:49,080 --> 00:25:50,241
+I am sorry, Martinez.
+
+313
+00:25:50,440 --> 00:25:51,885
+But if you didn't want me to
+go through your stuff...
+
+314
+00:25:52,040 --> 00:25:54,805
+you shouldn't have left me
+for dead on a desolate planet.
+
+315
+00:25:55,440 --> 00:25:56,885
+By the way, I'm figuring
+you're gonna be
+
+316
+00:25:56,960 --> 00:25:59,247
+fine with this,
+given my present situation.
+
+317
+00:25:59,400 --> 00:26:00,401
+<i>THE FONZ ON TV:
+What's everybody doing?</i>
+
+318
+00:26:00,480 --> 00:26:01,481
+<i>Taking a holiday
+from being cool?</i>
+
+319
+00:26:01,640 --> 00:26:03,244
+Counting on you.
+
+320
+00:26:05,080 --> 00:26:06,081
+(BLOWING)
+
+321
+00:26:19,320 --> 00:26:20,401
+(SIZZLING)
+
+322
+00:26:23,680 --> 00:26:24,681
+Whoo!
+
+323
+00:26:28,280 --> 00:26:29,247
+(GROANS)
+
+324
+00:26:29,320 --> 00:26:30,651
+(EARS RINGING)
+
+325
+00:26:36,840 --> 00:26:40,367
+So, yeah, I blew myself up.
+
+326
+00:26:40,520 --> 00:26:42,204
+Best guess...
+
+327
+00:26:42,840 --> 00:26:48,131
+I forgot to account
+for the excess oxygen...
+
+328
+00:26:49,200 --> 00:26:52,682
+that I've been exhaling
+when I did my calculations.
+
+329
+00:26:53,360 --> 00:26:55,601
+Because I'm stupid.
+
+330
+00:26:58,200 --> 00:27:00,282
+Yeah, I'm gonna
+get back to work here...
+
+331
+00:27:00,440 --> 00:27:03,330
+just as soon as my ears
+stop ringing.
+
+332
+00:27:07,840 --> 00:27:09,046
+<i>Interesting side note,</i>
+
+333
+00:27:09,160 --> 00:27:12,004
+<i>this is actually how the Jet
+Propulsion Lab was founded.</i>
+
+334
+00:27:12,160 --> 00:27:15,642
+<i>Five guys at Caltech were
+trying to make rocket fuel...</i>
+
+335
+00:27:15,800 --> 00:27:17,006
+<i>and they nearly burned down
+their dorm.</i>
+
+336
+00:27:17,320 --> 00:27:18,651
+<i>And rather than expel them...</i>
+
+337
+00:27:18,800 --> 00:27:21,724
+<i>they banished them
+to a nearby farm,</i>
+
+338
+00:27:21,840 --> 00:27:23,410
+<i>told them to keep working.</i>
+
+339
+00:27:24,240 --> 00:27:26,083
+<i>And now we have
+a space program.</i>
+
+340
+00:27:26,160 --> 00:27:27,161
+(GASPS)
+
+341
+00:27:29,640 --> 00:27:30,801
+Okay-
+
+342
+00:27:34,640 --> 00:27:35,721
+(SNORING)
+
+343
+00:28:48,080 --> 00:28:49,764
+Hey, there.
+
+344
+00:28:59,800 --> 00:29:01,165
+<i>SANDERS: The nation
+was blessed</i>
+
+345
+00:29:01,280 --> 00:29:03,009
+<i>to have Mark serving
+in our space program.</i>
+
+346
+00:29:03,400 --> 00:29:05,687
+<i>While his loss
+will be deeply felt...</i>
+
+347
+00:29:05,840 --> 00:29:08,446
+<i>the men and women of NASA
+will soldier forth...</i>
+
+348
+00:29:08,640 --> 00:29:10,449
+<i>onward and upward in the
+mission of their agency.</i>
+
+349
+00:29:12,080 --> 00:29:14,321
+<i>By doing so,
+they honor the legacy</i>
+
+350
+00:29:14,440 --> 00:29:16,010
+<i>Mark's leaving behind...</i>
+
+351
+00:29:16,600 --> 00:29:19,524
+<i>and they ensure his sacrifice
+will not be in vain.</i>
+
+352
+00:29:30,920 --> 00:29:32,251
+<i>I have the honor of speaking</i>
+
+353
+00:29:32,360 --> 00:29:34,010
+<i>not only for the men
+and women of NASA...</i>
+
+354
+00:29:34,520 --> 00:29:36,090
+<i>but for people
+all over the world...</i>
+
+355
+00:29:36,280 --> 00:29:38,487
+VINCENT: I thought you gave
+a lovely speech, by the way.
+
+356
+00:29:40,200 --> 00:29:41,201
+(TURNS OFF TV)
+
+357
+00:29:41,360 --> 00:29:43,044
+I need you to authorize
+my satellite time.
+
+358
+00:29:43,200 --> 00:29:44,725
+It's not gonna happen.
+
+359
+00:29:44,880 --> 00:29:46,723
+We're funded
+for five Ares missions.
+
+360
+00:29:46,880 --> 00:29:49,121
+I think I can get Congress
+to authorize a sixth.
+
+361
+00:29:49,360 --> 00:29:50,361
+No.
+
+362
+00:29:50,480 --> 00:29:51,481
+Ares <i>3</i> evac'd
+after 18 sols.
+
+363
+00:29:51,680 --> 00:29:53,762
+There's half a mission worth
+of supplies up there.
+
+364
+00:29:53,920 --> 00:29:54,967
+I can sell it
+at a fraction
+
+365
+00:29:55,040 --> 00:29:56,371
+of the cost of
+a normal mission...
+
+366
+00:29:56,560 --> 00:29:58,927
+and all I have to know is
+what's left of our assets.
+
+367
+00:29:59,040 --> 00:30:00,644
+You're not the only one
+who needs satellite time.
+
+368
+00:30:00,720 --> 00:30:02,722
+We've got the Ares <i>4</i> supply
+missions coming up.
+
+369
+00:30:02,800 --> 00:30:05,041
+We should be focusing on
+the Schiaparelli Crater.
+
+370
+00:30:05,120 --> 00:30:06,121
+Okay, we got
+12 satellites up there.
+
+371
+00:30:06,240 --> 00:30:07,287
+Surely we can spare
+a few hours...
+
+372
+00:30:07,360 --> 00:30:09,442
+It's not about
+the satellite time, Vince.
+
+373
+00:30:09,520 --> 00:30:11,010
+We're a public domain
+organization.
+
+374
+00:30:11,120 --> 00:30:12,167
+We need to be
+transparent on this.
+
+375
+00:30:12,240 --> 00:30:13,287
+Okay-
+
+376
+00:30:13,360 --> 00:30:15,124
+The second we point
+the satellites at the Hab...
+
+377
+00:30:15,200 --> 00:30:16,247
+I broadcast pictures
+
+378
+00:30:16,320 --> 00:30:18,129
+of Mark Watney's dead body
+to the world.
+
+379
+00:30:18,200 --> 00:30:19,565
+You're afraid of a PR problem?
+
+380
+00:30:19,800 --> 00:30:21,404
+Of course
+I'm afraid of a PR problem.
+
+381
+00:30:21,560 --> 00:30:22,766
+Another mission?
+
+382
+00:30:22,960 --> 00:30:25,281
+Congress won't reimburse us
+for a paper clip...
+
+383
+00:30:25,440 --> 00:30:27,169
+if I put a dead astronaut
+on the front page
+
+384
+00:30:27,240 --> 00:30:28,401
+<i>of The Washington Post.</i>
+
+385
+00:30:28,760 --> 00:30:31,240
+He's not going anywhere,
+Teddy. I mean, he's not...
+
+386
+00:30:31,720 --> 00:30:33,643
+He's not gonna
+decompose, you know.
+
+387
+00:30:33,720 --> 00:30:35,006
+He's gonna be
+up there forever.
+
+388
+00:30:35,160 --> 00:30:37,970
+Meteorology estimates that
+he'll be covered in sand...
+
+389
+00:30:38,120 --> 00:30:39,849
+from normal weather activity
+within a year.
+
+390
+00:30:40,000 --> 00:30:41,764
+We can't wait a year.
+We got work to do.
+
+391
+00:30:41,920 --> 00:30:43,570
+Ares <i>5</i> won't even launch
+for five years.
+
+392
+00:30:43,640 --> 00:30:44,766
+We have plenty of time.
+
+393
+00:30:45,520 --> 00:30:46,521
+Okay-
+
+394
+00:30:47,920 --> 00:30:48,921
+Okay-
+
+395
+00:30:50,080 --> 00:30:51,889
+Okay, consider this.
+(CLEARS THROAT)
+
+396
+00:30:52,760 --> 00:30:56,207
+Right now,
+the world's on our side.
+
+397
+00:30:56,360 --> 00:30:57,805
+Sympathy
+for the Watney family.
+
+398
+00:30:58,200 --> 00:31:00,931
+Ares <i>6</i> could
+bring his body home.
+
+399
+00:31:01,480 --> 00:31:03,369
+Now, we don't say that's
+the purpose of the mission...
+
+400
+00:31:03,440 --> 00:31:05,408
+but we make it clear that
+that would be a part of it.
+
+401
+00:31:05,480 --> 00:31:06,606
+We frame it that way.
+
+402
+00:31:07,200 --> 00:31:10,568
+More support from Congress.
+But not if we wait a year.
+
+403
+00:31:11,320 --> 00:31:13,322
+We wait a year,
+nobody gives a shit.
+
+404
+00:31:13,400 --> 00:31:14,845
+(MICROWAVE TIMER DINGS)
+
+405
+00:31:23,560 --> 00:31:25,927
+(INDISTINCT RADIO CHATTER)
+
+406
+00:31:37,720 --> 00:31:38,767
+(COMPUTER CHIMES)
+
+407
+00:31:46,240 --> 00:31:47,730
+Vincent Kapoor?
+
+408
+00:31:53,200 --> 00:31:54,929
+6-2.
+
+409
+00:31:55,800 --> 00:31:57,450
+7-6-2.
+
+410
+00:32:00,960 --> 00:32:03,531
+Acidalia Planitia.
+
+411
+00:32:14,520 --> 00:32:15,567
+What?
+
+412
+00:32:30,680 --> 00:32:31,886
+Hi. Security?
+
+413
+00:32:32,120 --> 00:32:33,610
+This is Mindy Park in SatCon.
+
+414
+00:32:33,800 --> 00:32:36,246
+I need the emergency contact
+for Vincent Kapoor.
+
+415
+00:32:37,080 --> 00:32:38,286
+Yes, him.
+
+416
+00:32:39,000 --> 00:32:40,684
+Yes, it's an emergency!
+
+417
+00:32:45,920 --> 00:32:46,921
+SANDERS: How sure?
+
+418
+00:32:47,480 --> 00:32:48,527
+100%.
+
+419
+00:32:49,120 --> 00:32:50,724
+You've got to be shitting me.
+
+420
+00:32:52,000 --> 00:32:53,604
+SANDERS: Prove it to me.
+
+421
+00:32:55,240 --> 00:32:56,605
+For a start...
+
+422
+00:32:57,880 --> 00:32:59,689
+the solar panels
+have been cleaned.
+
+423
+00:33:00,400 --> 00:33:01,765
+They could have been
+cleaned by wind.
+
+424
+00:33:01,920 --> 00:33:04,048
+Back it up. Look at Rover 2.
+
+425
+00:33:04,480 --> 00:33:05,481
+According to the logs,
+
+426
+00:33:05,560 --> 00:33:06,561
+Commander Lewis
+took it out on Sol 17...
+
+427
+00:33:06,720 --> 00:33:08,848
+plugged it into the Hab
+to recharge.
+
+428
+00:33:09,320 --> 00:33:10,651
+It's been moved.
+
+429
+00:33:10,840 --> 00:33:12,569
+She could have forgotten
+to log the move.
+
+430
+00:33:12,840 --> 00:33:14,046
+No, not likely.
+
+431
+00:33:14,200 --> 00:33:15,326
+ANNIE: Why don't
+we just ask Lewis?
+
+432
+00:33:15,480 --> 00:33:17,289
+Let's get on CAPCOM and
+ask her directly right now.
+
+433
+00:33:17,360 --> 00:33:18,327
+SANDERS: No. No.
+
+434
+00:33:18,400 --> 00:33:19,526
+If Watney is really alive,
+
+435
+00:33:19,640 --> 00:33:21,244
+we don't want
+the Ares <i>3</i> crew to know.
+
+436
+00:33:21,920 --> 00:33:23,251
+How can you not tell them?
+
+437
+00:33:23,400 --> 00:33:25,482
+They have another 10 months
+on their trip home.
+
+438
+00:33:25,640 --> 00:33:26,801
+Space travel is dangerous.
+
+439
+00:33:26,880 --> 00:33:28,450
+They need to be
+alert and undistracted.
+
+440
+00:33:28,600 --> 00:33:29,806
+But they already think
+he's dead.
+
+441
+00:33:29,960 --> 00:33:31,166
+And they'd be devastated
+to find out
+
+442
+00:33:31,240 --> 00:33:32,890
+they left him there alive.
+
+443
+00:33:33,080 --> 00:33:35,401
+ANNIE: I'm sorry, but you have
+not thought this through.
+
+444
+00:33:35,560 --> 00:33:38,530
+What are we gonna say?
+"Dear America...
+
+445
+00:33:38,720 --> 00:33:40,404
+"remember that astronaut
+we killed
+
+446
+00:33:40,480 --> 00:33:41,891
+"and had a really
+nice funeral for?
+
+447
+00:33:42,080 --> 00:33:44,560
+"Turns out he's alive and we
+left him on Mars. Our bad.
+
+448
+00:33:44,960 --> 00:33:46,405
+"Sincerely, NASA."
+
+449
+00:33:46,560 --> 00:33:49,006
+Do you realize the shitstorm
+that is about to hit us?
+
+450
+00:33:49,160 --> 00:33:50,650
+How are we going
+to handle the public?
+
+451
+00:33:51,920 --> 00:33:54,526
+Legally, we have 24 hours
+to release these pictures.
+
+452
+00:33:54,720 --> 00:33:55,881
+We release
+a statement with them.
+
+453
+00:33:56,040 --> 00:33:57,804
+We don't want people
+working it out on their own.
+
+454
+00:33:58,640 --> 00:33:59,721
+Yes, sir.
+
+455
+00:34:00,160 --> 00:34:02,049
+But if my math is right,
+he's going to starve to death
+
+456
+00:34:02,120 --> 00:34:03,565
+long before we can help him.
+
+457
+00:34:06,560 --> 00:34:08,881
+Can you imagine what he's
+going through up there?
+
+458
+00:34:09,040 --> 00:34:10,883
+He's 50 million miles
+away from home.
+
+459
+00:34:10,960 --> 00:34:12,246
+He thinks he's totally alone.
+
+460
+00:34:12,440 --> 00:34:13,885
+He thinks we gave up on him.
+
+461
+00:34:14,760 --> 00:34:17,411
+What does that do to a man,
+psychologically?
+
+462
+00:34:18,840 --> 00:34:20,888
+What the hell
+is he thinking right now?
+
+463
+00:34:23,720 --> 00:34:25,085
+(DISCO MUSIC PLAYING)
+
+464
+00:34:25,160 --> 00:34:27,527
+<i>I'm definitely gonna
+die up here...</i>
+
+465
+00:34:27,840 --> 00:34:32,050
+<i>if I have to listen to any
+more god-awful disco music.</i>
+
+466
+00:34:32,360 --> 00:34:33,850
+My God, Commander Lewis,
+
+467
+00:34:33,920 --> 00:34:35,843
+couldn't you have packed
+anything from this century?
+
+468
+00:34:36,000 --> 00:34:38,526
+<i>WOMAN:
+Turn the beat around</i>
+
+469
+00:34:38,720 --> 00:34:40,802
+No, lam not gonna
+"turn the beat around."
+
+470
+00:34:40,880 --> 00:34:42,325
+I refuse to.
+(MUSIC STOPS)
+
+471
+00:34:43,120 --> 00:34:44,724
+(REPORTERS CLAMORING)
+Mr. Sanders? Mr. Sanders?
+
+472
+00:34:46,880 --> 00:34:47,927
+What attempts have been made
+
+473
+00:34:48,000 --> 00:34:49,126
+to make contact
+with Mark Watney?
+
+474
+00:34:49,960 --> 00:34:51,325
+We're working on it.
+
+475
+00:34:52,000 --> 00:34:53,570
+Does he have
+enough supplies to survive?
+
+476
+00:34:53,720 --> 00:34:55,324
+We'll be looking into that.
+
+477
+00:34:55,480 --> 00:34:56,845
+What does this say
+about the agency?
+
+478
+00:34:56,920 --> 00:34:58,081
+Are you gonna resign?
+
+479
+00:34:58,200 --> 00:34:59,201
+No.
+
+480
+00:34:59,320 --> 00:35:00,560
+Director Sanders!
+
+481
+00:35:04,920 --> 00:35:07,400
+<i>WATNEY: It's time to start
+thinking long term.</i>
+
+482
+00:35:07,880 --> 00:35:09,644
+<i>The next NASA mission
+is Ares</i> 4...
+
+483
+00:35:10,200 --> 00:35:12,965
+<i>and it's supposed to land
+at Schiaparelli Crater...</i>
+
+484
+00:35:13,120 --> 00:35:15,168
+<i>3200 kilometers away.</i>
+
+485
+00:35:15,560 --> 00:35:19,281
+3,200 kilometers.
+
+486
+00:35:19,880 --> 00:35:22,360
+<i>In four years, when the next
+Ares crew arrives,</i>
+
+487
+00:35:22,440 --> 00:35:23,851
+<i>I'll have to be there.</i>
+
+488
+00:35:24,880 --> 00:35:26,769
+<i>Which means
+I have to get to the crater.</i>
+
+489
+00:35:29,240 --> 00:35:31,049
+<i>Okay, so here's the rub.</i>
+
+490
+00:35:31,200 --> 00:35:32,770
+<i>I've got one working Rover</i>
+
+491
+00:35:32,840 --> 00:35:36,481
+<i>designed to go a max distance
+of 35 kilometers...</i>
+
+492
+00:35:36,640 --> 00:35:39,530
+<i>before the battery has to be
+recharged at the Hab.</i>
+
+493
+00:35:40,320 --> 00:35:41,651
+<i>That's Problem A.</i>
+
+494
+00:35:42,200 --> 00:35:45,522
+<i>Problem B is this journey's
+gonna take me</i>
+
+495
+00:35:45,600 --> 00:35:49,047
+<i>roughly 50 days to complete.</i>
+
+496
+00:35:49,200 --> 00:35:51,282
+<i>So I gotta live for 50 days...</i>
+
+497
+00:35:51,560 --> 00:35:53,688
+<i>inside a Rover
+with marginal life support</i>
+
+498
+00:35:53,760 --> 00:35:55,046
+<i>the size of a small van.</i>
+
+499
+00:35:57,920 --> 00:35:59,524
+<i>So, in the face
+of overwhelming odds,</i>
+
+500
+00:35:59,600 --> 00:36:01,728
+<i>I'm left with only one option.</i>
+
+501
+00:36:02,240 --> 00:36:05,449
+<i>I'm gonna have to
+science the shit out of this.</i>
+
+502
+00:36:32,280 --> 00:36:34,806
+Okay, so, success.
+
+503
+00:36:36,120 --> 00:36:37,281
+Uh...
+
+504
+00:36:39,640 --> 00:36:43,725
+I have doubled my battery life
+by scavenging Rover 1.
+
+505
+00:36:44,920 --> 00:36:47,730
+But if I use the heater...
+
+506
+00:36:49,080 --> 00:36:53,483
+I will burn through half
+my battery every day.
+
+507
+00:36:55,160 --> 00:36:58,801
+If I do not use my heater,
+I will be...
+
+508
+00:37:00,080 --> 00:37:03,323
+(LAUGHS) slowly killed by
+the laws of thermodynamics.
+
+509
+00:37:03,480 --> 00:37:06,051
+I would love to solve
+this problem right now
+
+510
+00:37:06,160 --> 00:37:08,731
+but unfortunately...
+
+511
+00:37:08,880 --> 00:37:11,247
+<i>my balls are frozen.</i>
+
+512
+00:37:13,240 --> 00:37:15,083
+I can't. I'm calling it.
+I'm calling it.
+
+513
+00:37:27,560 --> 00:37:29,483
+<i>Good news,
+I may have a solution</i>
+
+514
+00:37:29,600 --> 00:37:31,045
+<i>to my heating problem.</i>
+
+515
+00:37:31,200 --> 00:37:33,521
+<i>Bad news,
+it involves me digging up</i>
+
+516
+00:37:33,600 --> 00:37:35,921
+<i>the Radioisotope
+Thermoelectric Generator.</i>
+
+517
+00:37:36,440 --> 00:37:38,602
+<i>Now, if! remember
+my training correctly,</i>
+
+518
+00:37:38,680 --> 00:37:40,489
+<i>one of the lessons
+was titled...</i>
+
+519
+00:37:40,640 --> 00:37:43,849
+<i>"Don't Dig Up the Big Box
+of Plutonium, Mark."</i>
+
+520
+00:37:44,000 --> 00:37:45,923
+<i>I get it. RTGs are good
+for spacecraft,</i>
+
+521
+00:37:46,000 --> 00:37:48,002
+<i>but if they rupture
+around humans...</i>
+
+522
+00:37:48,160 --> 00:37:49,161
+<i>no more humans.</i>
+
+523
+00:37:49,280 --> 00:37:51,009
+<i>Which is why we buried it
+when we arrived.</i>
+
+524
+00:37:51,720 --> 00:37:53,051
+<i>And planted that flag...</i>
+
+525
+00:37:53,200 --> 00:37:54,531
+<i>so we would never be
+stupid enough</i>
+
+526
+00:37:54,600 --> 00:37:56,807
+<i>to accidentally
+go near it again.</i>
+
+527
+00:37:57,600 --> 00:37:59,489
+<i>But as long as
+I don't break it...</i>
+
+528
+00:38:00,080 --> 00:38:01,127
+<i>I almost just said</i>
+
+529
+00:38:01,200 --> 00:38:02,884
+<i>"Everything will be fine"
+out loud.</i>
+
+530
+00:38:03,360 --> 00:38:05,283
+Look, the point is,
+I'm not cold anymore.
+
+531
+00:38:05,440 --> 00:38:06,965
+And sure,
+I could choose to think
+
+532
+00:38:07,040 --> 00:38:08,371
+about the fact
+that I'm warm...
+
+533
+00:38:08,520 --> 00:38:10,204
+because I have a decaying
+
+534
+00:38:10,280 --> 00:38:12,169
+radioactive isotope
+riding right behind me...
+
+535
+00:38:12,320 --> 00:38:15,005
+but right now, I got bigger
+problems on my hands.
+
+536
+00:38:15,160 --> 00:38:17,561
+<i>I have scoured
+every single data file</i>
+
+537
+00:38:17,640 --> 00:38:19,722
+<i>on Commander Lewis'
+personal drive.</i>
+
+538
+00:38:19,880 --> 00:38:24,090
+<i>This is officially
+the least disco song she owns.</i>
+
+539
+00:38:25,080 --> 00:38:27,082
+<i>WOMAN:
+Lookin' for some hot stuff</i>
+
+540
+00:38:27,200 --> 00:38:28,964
+<i>Baby, this evenin'</i>
+
+541
+00:38:29,040 --> 00:38:31,964
+<i>I need some hot stuff,
+baby, tonight</i>
+
+542
+00:38:33,360 --> 00:38:37,604
+<i>I want some hot stuff,
+baby, this evenin'</i>
+
+543
+00:38:37,760 --> 00:38:42,243
+<i>Gotta have some hot stuff
+Gotta have some love tonight</i>
+
+544
+00:38:42,400 --> 00:38:43,925
+<i>Hot stuff</i>
+
+545
+00:38:45,200 --> 00:38:47,965
+<i>I need hot stuff</i>
+
+546
+00:38:49,240 --> 00:38:51,846
+<i>I want some hot stuff</i>
+
+547
+00:38:53,200 --> 00:38:55,885
+<i>I need hot stuff</i>
+
+548
+00:38:58,960 --> 00:39:00,564
+Yeah.
+Where is Watney going?
+
+549
+00:39:00,720 --> 00:39:02,961
+We believe that
+he's preparing for a journey.
+
+550
+00:39:03,120 --> 00:39:05,202
+He's been conducting
+incremental tests...
+
+551
+00:39:05,400 --> 00:39:06,811
+taking the <i>Rover2</i>
+out for longer
+
+552
+00:39:06,880 --> 00:39:08,484
+and longer trips each time.
+
+553
+00:39:08,800 --> 00:39:09,881
+(REPORTERS CLAMORING)
+
+554
+00:39:10,760 --> 00:39:12,000
+To what end?
+Why would he leave
+
+555
+00:39:12,120 --> 00:39:13,281
+the relative safety
+of the Hab?
+
+556
+00:39:13,640 --> 00:39:15,085
+Well, we think that
+he plans to travel
+
+557
+00:39:15,160 --> 00:39:16,491
+to the Ares <i>4</i> launch site...
+
+558
+00:39:16,640 --> 00:39:17,926
+in order to make
+contact with us,
+
+559
+00:39:18,040 --> 00:39:19,724
+but it would be
+a dangerous gamble.
+
+560
+00:39:19,880 --> 00:39:21,120
+<i>But if we could talk to him,</i>
+
+561
+00:39:21,200 --> 00:39:22,565
+<i>we would tell him
+to stay put...</i>
+
+562
+00:39:22,720 --> 00:39:25,291
+<i>and to trust that we are doing
+everything in our power</i>
+
+563
+00:39:25,360 --> 00:39:27,362
+<i>to bring him home alive.</i>
+
+564
+00:39:27,520 --> 00:39:29,204
+Thank you very much.
+
+565
+00:39:29,960 --> 00:39:31,371
+(REPORTERS CLAMORING)
+
+566
+00:39:31,800 --> 00:39:33,643
+Don't say "Bring him
+home alive," Vincent.
+
+567
+00:39:33,960 --> 00:39:36,122
+You know what?
+These interviews aren't easy.
+
+568
+00:39:36,280 --> 00:39:37,884
+So God forbid
+I try to say something
+
+569
+00:39:37,960 --> 00:39:39,610
+proactive and positive.
+
+570
+00:39:39,680 --> 00:39:40,681
+SANDERS: Annie.
+
+571
+00:39:40,840 --> 00:39:43,047
+No more Vincent
+on TV. Copy that.
+
+572
+00:39:43,440 --> 00:39:46,444
+76 kilometers.
+Am I reading that right?
+
+573
+00:39:46,840 --> 00:39:48,365
+MINDY: Are you asking me?
+
+574
+00:39:48,440 --> 00:39:49,407
+SANDERS: lam.
+
+575
+00:39:49,480 --> 00:39:50,561
+Yes, sir.
+
+576
+00:39:50,720 --> 00:39:53,724
+Mark drove two hours
+straightaway from the Hab...
+
+577
+00:39:53,880 --> 00:39:55,769
+did a short EVA and then
+drove for another two.
+
+578
+00:39:55,920 --> 00:39:58,651
+We think the EVA
+was to change batteries.
+
+579
+00:39:58,800 --> 00:40:00,165
+He didn't load up
+the oxygenator
+
+580
+00:40:00,240 --> 00:40:01,366
+or the water reclaimer?
+
+581
+00:40:01,720 --> 00:40:04,405
+Every 41 hours,
+there's a 17 minute gap.
+
+582
+00:40:04,560 --> 00:40:06,483
+It's just the way
+the orbits work...
+
+583
+00:40:06,640 --> 00:40:09,530
+so it's possible
+that we missed something.
+
+584
+00:40:09,680 --> 00:40:11,364
+I want that gap
+down to four minutes.
+
+585
+00:40:11,520 --> 00:40:13,249
+I'm giving you
+total authority
+
+586
+00:40:13,320 --> 00:40:15,527
+over satellite trajectories
+and orbital adjustments.
+
+587
+00:40:15,720 --> 00:40:16,721
+Make it happen.
+
+588
+00:40:17,080 --> 00:40:18,081
+Okay-
+
+589
+00:40:18,880 --> 00:40:20,962
+Let's assume Miss Park
+didn't miss anything.
+
+590
+00:40:21,120 --> 00:40:24,567
+So Mark's not going
+to Ares 4. Yet.
+
+591
+00:40:24,720 --> 00:40:26,051
+But he's smart enough
+to figure out
+
+592
+00:40:26,120 --> 00:40:28,043
+that's his only chance.
+
+593
+00:40:28,200 --> 00:40:30,680
+Bruce, what's the earliest we
+can get a pre-supply there?
+
+594
+00:40:31,120 --> 00:40:33,600
+<i>With the positions
+of Earth and Mars,</i>
+
+595
+00:40:33,680 --> 00:40:34,806
+<i>it'll take nine months.</i>
+
+596
+00:40:36,480 --> 00:40:38,642
+<i>It'll take six months to
+build it in the first place.</i>
+
+597
+00:40:38,800 --> 00:40:39,847
+Three months.
+
+598
+00:40:40,400 --> 00:40:41,401
+Three?
+
+599
+00:40:41,480 --> 00:40:42,686
+<i>SANDERS". You're going to say
+it's impossible</i>
+
+600
+00:40:42,760 --> 00:40:44,205
+<i>and then I'm gonna
+make a speech...</i>
+
+601
+00:40:44,360 --> 00:40:45,486
+<i>about the blinding
+capabilities</i>
+
+602
+00:40:45,560 --> 00:40:46,686
+<i>of the JPL team...</i>
+
+603
+00:40:46,880 --> 00:40:47,927
+<i>and then you're going
+to do the math</i>
+
+604
+00:40:48,000 --> 00:40:49,047
+<i>in your head
+and say something like...</i>
+
+605
+00:40:49,200 --> 00:40:51,123
+"The overtime alone
+will be a nightmare."
+
+606
+00:40:51,280 --> 00:40:53,328
+<i>The overtime alone
+will be a nightmare.</i>
+
+607
+00:40:53,400 --> 00:40:54,401
+SANDERS: Get started.
+
+608
+00:40:54,560 --> 00:40:55,971
+I'll find you the money.
+
+609
+00:40:57,160 --> 00:40:58,730
+We need to tell the crew.
+
+610
+00:40:59,120 --> 00:41:00,121
+VINCENT: Mitch,
+we've discussed this.
+
+611
+00:41:00,200 --> 00:41:01,440
+No, you discussed this.
+
+612
+00:41:01,880 --> 00:41:05,009
+I'm the one who decides
+what's best for the crew.
+
+613
+00:41:06,440 --> 00:41:07,680
+They deserve to know.
+
+614
+00:41:09,240 --> 00:41:11,083
+Once there's a real
+rescue plan, we'll tell them.
+
+615
+00:41:11,280 --> 00:41:12,611
+Otherwise, it's moot.
+
+616
+00:41:13,040 --> 00:41:15,486
+Bruce has three months to get
+the payload done.
+
+617
+00:41:15,640 --> 00:41:17,449
+That's all that
+matters right now.
+
+618
+00:41:17,600 --> 00:41:18,601
+<i>We'll do our best.</i>
+
+619
+00:41:19,320 --> 00:41:21,607
+Mark dies if you don't.
+
+620
+00:41:23,400 --> 00:41:26,927
+WATNEY: <i>It's been 48 sols
+since I planted the potatoes.</i>
+
+621
+00:41:27,080 --> 00:41:29,128
+<i>So now it's time
+to reap and re-sow.</i>
+
+622
+00:41:29,280 --> 00:41:31,851
+<i>They grew even better
+than I expected.</i>
+
+623
+00:41:32,000 --> 00:41:34,844
+<i>I now have 400
+healthy potato plants.</i>
+
+624
+00:41:35,080 --> 00:41:38,243
+<i>I dug them up, being careful
+to leave their plants alive.</i>
+
+625
+00:41:38,400 --> 00:41:39,925
+<i>The smaller ones I'll reseed,</i>
+
+626
+00:41:40,000 --> 00:41:42,162
+<i>the larger ones
+are my food supply.</i>
+
+627
+00:41:42,320 --> 00:41:46,120
+<i>All natural, organic,
+Martian-grown potatoes.</i>
+
+628
+00:41:46,280 --> 00:41:48,601
+<i>You don't hear
+that every day, do you?</i>
+
+629
+00:41:49,240 --> 00:41:50,924
+<i>And by the way,
+none of this matters at all...</i>
+
+630
+00:41:51,080 --> 00:41:54,289
+<i>if I can't figure out a way
+to make contact with NASA.</i>
+
+631
+00:42:15,800 --> 00:42:17,211
+<i>I know what I'm gonna do.</i>
+
+632
+00:42:45,880 --> 00:42:47,041
+Oh! He's moving again.
+
+633
+00:42:47,200 --> 00:42:49,567
+Where the hell
+is he going?
+
+634
+00:42:49,720 --> 00:42:51,927
+He hasn't changed course
+for 13 days.
+
+635
+00:42:52,080 --> 00:42:54,082
+He's nowhere near the Ares 4.
+
+636
+00:42:54,560 --> 00:42:56,324
+Unless he's not taking
+a direct route.
+
+637
+00:42:56,480 --> 00:43:00,530
+He might be trying to avoid
+some obstacle.
+
+638
+00:43:00,720 --> 00:43:01,926
+What obstacle?
+
+639
+00:43:02,400 --> 00:43:03,686
+It's Acidalia Planitia.
+
+640
+00:43:03,760 --> 00:43:05,569
+There's nothing out there
+except the...
+
+641
+00:43:08,160 --> 00:43:09,321
+What?
+
+642
+00:43:12,760 --> 00:43:14,683
+I need a map.
+
+643
+00:43:21,040 --> 00:43:22,041
+Yeah.
+
+644
+00:43:22,760 --> 00:43:24,000
+Hey, come on.
+What are you doing?
+
+645
+00:43:24,200 --> 00:43:25,247
+It's all right.
+It's all right.
+
+646
+00:43:25,360 --> 00:43:26,407
+Can I borrow this?
+
+647
+00:43:26,720 --> 00:43:28,290
+Okay, so where
+is the Hab location?
+
+648
+00:43:28,880 --> 00:43:31,565
+31.2 degrees north,
+28.5 degrees west.
+
+649
+00:43:31,720 --> 00:43:32,801
+Okay. Mmm-hmm.
+
+650
+00:43:32,920 --> 00:43:34,445
+Where's Watney?
+Uh...
+
+651
+00:43:34,960 --> 00:43:35,961
+There.
+
+652
+00:43:36,120 --> 00:43:37,201
+VINCENT: Okay.
+
+653
+00:43:43,400 --> 00:43:45,971
+Okay. I know where he's going.
+
+654
+00:43:46,600 --> 00:43:48,125
+I need to get on an airplane.
+
+655
+00:43:55,440 --> 00:43:56,726
+(PANTING)
+
+656
+00:44:20,840 --> 00:44:21,966
+Vincent, how are you?
+
+657
+00:44:22,120 --> 00:44:23,246
+Good to see you.
+
+658
+00:44:23,400 --> 00:44:24,811
+Good flight?
+Uh...
+
+659
+00:44:24,960 --> 00:44:25,961
+Yeah.
+
+660
+00:44:26,800 --> 00:44:29,326
+It's in storage
+just around the corner.
+
+661
+00:45:03,600 --> 00:45:05,011
+Hey, Vincent,
+nice to see you again.
+
+662
+00:45:05,080 --> 00:45:06,081
+Nice to see you.
+
+663
+00:45:06,200 --> 00:45:08,487
+What are the chances Mark
+can get it working again?
+
+664
+00:45:08,680 --> 00:45:12,207
+It's hard to say.
+We lost contact in '97.
+
+665
+00:45:12,360 --> 00:45:14,567
+We think
+it was battery failure.
+
+666
+00:45:14,720 --> 00:45:15,721
+Though I'd like to point out
+
+667
+00:45:15,800 --> 00:45:18,485
+it lasted three times longer
+than expected in any...
+
+668
+00:45:18,640 --> 00:45:19,926
+Nobody's criticizing
+JPL's work, Bruce.
+
+669
+00:45:20,000 --> 00:45:21,047
+I just need to speak
+to everybody
+
+670
+00:45:21,120 --> 00:45:22,121
+that was here in '97.
+
+671
+00:45:22,240 --> 00:45:23,969
+They're already
+here. Guys.
+
+672
+00:45:24,040 --> 00:45:25,371
+I'd like to introduce
+Vincent Kapoor.
+
+673
+00:45:25,520 --> 00:45:27,363
+Director of Mars Missions
+for NASA.
+
+674
+00:45:27,520 --> 00:45:28,521
+This is our current team...
+
+675
+00:45:29,320 --> 00:45:31,527
+and our original
+project members.
+
+676
+00:45:47,360 --> 00:45:49,169
+Is this the replica?
+TECHNICIAN: This is her.
+
+677
+00:45:49,320 --> 00:45:51,084
+Okay. Let's see it.
+
+678
+00:45:51,760 --> 00:45:53,171
+<i>Pathfinder.</i>
+
+679
+00:45:58,680 --> 00:46:00,170
+<i>Pathfinder.</i>
+
+680
+00:46:40,560 --> 00:46:41,561
+(WHIRRING)
+
+681
+00:47:10,920 --> 00:47:12,922
+Come on. Come on.
+
+682
+00:47:13,840 --> 00:47:15,683
+(INDISTINCT CONVERSATIONS)
+
+683
+00:47:19,800 --> 00:47:20,801
+(BEEPING)
+
+684
+00:47:31,600 --> 00:47:33,409
+(BEEPING)
+
+685
+00:47:33,480 --> 00:47:35,448
+Holy shit. Okay.
+
+686
+00:47:36,280 --> 00:47:37,520
+"Broadcasting status.
+
+687
+00:47:37,680 --> 00:47:39,045
+"Listening
+for telemetry signal."
+
+688
+00:47:39,120 --> 00:47:40,167
+Uh-huh.
+
+689
+00:47:41,120 --> 00:47:42,121
+TIM: Okay. Signal acquired.
+
+690
+00:47:42,280 --> 00:47:43,281
+(VINCENT LAUGHING)
+
+691
+00:47:43,360 --> 00:47:44,441
+(CLAPS HANDS)
+
+692
+00:47:44,480 --> 00:47:45,606
+VINCENT: All right.
+TIM: Okay.
+
+693
+00:47:45,800 --> 00:47:46,881
+Camera.
+
+694
+00:48:35,480 --> 00:48:36,720
+(BEEPING)
+
+695
+00:48:36,880 --> 00:48:38,086
+Incoming.
+
+696
+00:48:40,320 --> 00:48:43,005
+"Are you receiving me?"
+
+697
+00:48:44,000 --> 00:48:46,162
+"Yes. No."
+
+698
+00:48:46,440 --> 00:48:47,441
+(CHUCKLES)
+
+699
+00:48:47,840 --> 00:48:49,842
+Okay, point
+the camera at "yes."
+
+700
+00:48:50,440 --> 00:48:52,841
+32-minute round-trip
+communications time.
+
+701
+00:48:53,000 --> 00:48:54,365
+All he can do
+is ask yes or no questions...
+
+702
+00:48:54,520 --> 00:48:56,443
+and all we can do
+is point the camera.
+
+703
+00:48:56,600 --> 00:48:58,011
+This won't exactly be
+an Algonquin Round Table
+
+704
+00:48:58,120 --> 00:48:59,201
+of snappy repartee.
+
+705
+00:48:59,360 --> 00:49:01,044
+Are you kidding me?
+Tim, Tim.
+
+706
+00:49:01,200 --> 00:49:02,725
+Just point the camera.
+TIM: Roger that.
+
+707
+00:49:03,400 --> 00:49:05,687
+Pointing the camera.
+
+708
+00:49:17,040 --> 00:49:18,041
+Whoo!
+
+709
+00:49:20,360 --> 00:49:21,361
+Yes!
+
+710
+00:49:22,920 --> 00:49:23,921
+Yes!
+
+711
+00:49:25,360 --> 00:49:27,044
+<i>So here's the rub.</i>
+
+712
+00:49:27,720 --> 00:49:29,927
+<i>Somehow we have
+to have complex</i>
+
+713
+00:49:30,040 --> 00:49:31,769
+<i>astrophysical engineering
+conversations...</i>
+
+714
+00:49:31,880 --> 00:49:32,927
+(MICROWAVE TIMER BEEPING)
+
+715
+00:49:33,040 --> 00:49:36,089
+<i>using nothing but
+a still-frame camera...</i>
+
+716
+00:49:37,040 --> 00:49:38,724
+<i>from 1996.</i>
+
+717
+00:49:41,920 --> 00:49:43,331
+<i>Luckily...</i>
+
+718
+00:49:45,080 --> 00:49:47,003
+<i>the camera does spin.</i>
+
+719
+00:49:47,480 --> 00:49:49,289
+So I can make an alphabet.
+
+720
+00:49:49,840 --> 00:49:51,490
+It can't be our alphabet.
+
+721
+00:49:51,640 --> 00:49:54,086
+26 characters plus
+a question card
+
+722
+00:49:54,160 --> 00:49:56,606
+into 360 gives us
+13 degrees of arc.
+
+723
+00:49:56,800 --> 00:49:58,131
+That's way too narrow.
+
+724
+00:49:58,240 --> 00:50:00,925
+I'd never know what the camera
+was pointing at.
+
+725
+00:50:07,600 --> 00:50:08,761
+Ooh.
+
+726
+00:50:13,360 --> 00:50:14,521
+Hexadecimals.
+
+727
+00:50:19,000 --> 00:50:20,604
+Hexadecimals to the rescue.
+
+728
+00:50:21,000 --> 00:50:22,286
+<i>I figured one of you guys</i>
+
+729
+00:50:22,360 --> 00:50:24,522
+<i>kept an ASCII table
+lying around.</i>
+
+730
+00:50:24,680 --> 00:50:25,806
+<i>And I was right.</i>
+
+731
+00:50:26,000 --> 00:50:27,081
+<i>Ladies and gentlemen,</i>
+
+732
+00:50:27,160 --> 00:50:30,130
+<i>I give you super-nerd
+Beth Johanssen.</i>
+
+733
+00:50:30,600 --> 00:50:33,524
+<i>Who also had copies
+of Zork</i> ll...
+
+734
+00:50:33,680 --> 00:50:36,729
+and Leather Goddesses of
+Phobos on her personal <i>laptop.</i>
+
+735
+00:50:36,800 --> 00:50:37,881
+(LAUGHING)
+
+736
+00:50:37,960 --> 00:50:39,291
+<i>Seriously, Johanssen...</i>
+
+737
+00:50:39,440 --> 00:50:42,125
+it's like the Smithsonian
+of loneliness on there.
+
+738
+00:50:42,360 --> 00:50:43,964
+<i>Not that I'm complaining.
+Yes!</i>
+
+739
+00:50:44,360 --> 00:50:46,488
+<i>Who am I to talk
+about loneliness?</i>
+
+740
+00:51:06,560 --> 00:51:08,801
+I know where
+he's going with this.
+
+741
+00:51:37,720 --> 00:51:38,846
+(MOANS SOFTLY)
+
+742
+00:51:56,960 --> 00:51:58,371
+<i>HF 10-H</i>
+
+743
+00:51:59,240 --> 00:52:00,890
+H7, W."
+
+744
+00:52:17,680 --> 00:52:18,647
+(BEEPING)
+
+745
+00:52:18,720 --> 00:52:19,721
+Vincent.
+
+746
+00:52:19,800 --> 00:52:21,848
+Vincent, wake up.
+
+747
+00:52:21,920 --> 00:52:22,967
+(GROANS)
+
+748
+00:52:33,800 --> 00:52:36,644
+<i>Now that we can have more
+complicated conversations...</i>
+
+749
+00:52:36,840 --> 00:52:39,127
+<i>the smart people at NASA
+have sent me instructions</i>
+
+750
+00:52:39,240 --> 00:52:40,571
+<i>on how to hack the Rover...</i>
+
+751
+00:52:40,760 --> 00:52:43,001
+<i>so that it can talk
+to Pathfinder.</i>
+
+752
+00:52:43,160 --> 00:52:44,924
+<i>If I hack</i>
+a <i>tiny bit of code...</i>
+
+753
+00:52:45,080 --> 00:52:47,924
+<i>just 20 instructions in the
+Rover's operating system...</i>
+
+754
+00:52:48,480 --> 00:52:50,084
+<i>NASA can link
+the Rover to Pathfinder's</i>
+
+755
+00:52:50,160 --> 00:52:51,400
+<i>broadcasting frequency...</i>
+
+756
+00:52:52,240 --> 00:52:54,607
+<i>and we're in business.</i>
+
+757
+00:53:07,920 --> 00:53:08,921
+"Mark...
+
+758
+00:53:09,360 --> 00:53:11,647
+"this is Vincent Kapoor.
+
+759
+00:53:11,920 --> 00:53:15,163
+"We've been
+watching you since Sol 54.
+
+760
+00:53:16,160 --> 00:53:18,606
+<i>"The whole world
+is rooting for you.</i>
+
+761
+00:53:19,600 --> 00:53:22,968
+<i>"Amazing job
+getting Pathfinder.</i>
+
+762
+00:53:23,120 --> 00:53:25,202
+<i>"We're working
+on rescue plans.</i>
+
+763
+00:53:25,520 --> 00:53:28,649
+<i>"Meantime, we're putting
+together a supply mission...</i>
+
+764
+00:53:28,800 --> 00:53:33,488
+"to keep you fed
+until Ares <i>4</i> arrives."
+
+765
+00:53:50,400 --> 00:53:51,481
+Okay-
+
+766
+00:54:00,320 --> 00:54:01,321
+(BEEPING)
+
+767
+00:54:01,400 --> 00:54:02,401
+Okay-
+
+768
+00:54:03,320 --> 00:54:05,641
+"Glad to hear it. Really
+looking forward to not dying."
+
+769
+00:54:05,840 --> 00:54:06,921
+(ALL LAUGHING)
+
+770
+00:54:08,880 --> 00:54:10,530
+(APPLAUSE)
+(PEOPLE WHOOPING)
+
+771
+00:54:18,000 --> 00:54:19,445
+"How's the crew?"
+
+772
+00:54:19,600 --> 00:54:22,251
+"What did they say when they
+found out I was alive?"
+
+773
+00:54:43,280 --> 00:54:45,362
+Guys, can we get
+some space please?
+
+774
+00:54:46,000 --> 00:54:46,967
+Me?
+
+775
+00:54:47,040 --> 00:54:48,246
+Yeah, you.
+
+776
+00:54:48,400 --> 00:54:49,640
+Give me a sec.
+
+777
+00:54:56,080 --> 00:54:57,570
+Just tell him.
+
+778
+00:55:06,320 --> 00:55:12,282
+"We haven't told the crew
+you are alive yet.
+
+779
+00:55:13,960 --> 00:55:18,284
+"We need them to concentrate
+on their mission."
+
+780
+00:55:22,760 --> 00:55:23,761
+(EXHALES)
+
+781
+00:55:30,960 --> 00:55:33,247
+What the fuck?
+
+782
+00:55:34,080 --> 00:55:35,161
+What the fuck?
+
+783
+00:55:42,480 --> 00:55:45,165
+Okay, he says,
+"They don't know I'm alive?
+
+784
+00:55:45,360 --> 00:55:47,089
+"What the..." F-word.
+
+785
+00:55:47,280 --> 00:55:48,520
+F-word in gerund form.
+
+786
+00:55:48,600 --> 00:55:50,125
+F-word, again,
+"is wrong with you?"
+
+787
+00:55:50,360 --> 00:55:51,361
+(ALL LAUGHING)
+
+788
+00:55:52,760 --> 00:55:56,287
+"Mark, please
+watch your language.
+
+789
+00:55:56,440 --> 00:55:58,283
+"Everything you type
+
+790
+00:55:58,360 --> 00:56:02,604
+"is being broadcast live
+all over the world."
+
+791
+00:56:05,280 --> 00:56:06,281
+Yeah?
+
+792
+00:56:13,280 --> 00:56:14,486
+(ALL GASPING)
+
+793
+00:56:14,600 --> 00:56:15,601
+VINCENT: on, my <i>God.</i>
+
+794
+00:56:15,920 --> 00:56:17,001
+(SIGHS)
+
+795
+00:56:18,640 --> 00:56:19,641
+SANDERS: Yes, sir.
+
+796
+00:56:19,720 --> 00:56:21,643
+He is under
+a tremendous amount of stress.
+
+797
+00:56:23,040 --> 00:56:24,326
+I understand.
+We're working on it.
+
+798
+00:56:24,960 --> 00:56:26,803
+I'm sure
+he didn't mean what he said.
+
+799
+00:56:26,960 --> 00:56:28,530
+Thank you, Mr. President.
+
+800
+00:56:30,360 --> 00:56:31,566
+MITCH: Problem is,
+Mark's right.
+
+801
+00:56:31,720 --> 00:56:34,007
+The longer we wait,
+the worse it's gonna get.
+
+802
+00:56:34,200 --> 00:56:35,406
+We need to tell the crew.
+
+803
+00:56:35,560 --> 00:56:38,166
+You're bringing this up while
+Vincent is in Pasadena...
+
+804
+00:56:38,320 --> 00:56:39,810
+so he can't argue
+the other side.
+
+805
+00:56:40,000 --> 00:56:41,570
+I shouldn't have
+to answer to Vincent.
+
+806
+00:56:41,720 --> 00:56:43,370
+Or anyone else.
+
+807
+00:56:45,480 --> 00:56:47,084
+It's time, Teddy.
+
+808
+00:57:09,840 --> 00:57:10,887
+(BEEPING)
+
+809
+00:57:11,000 --> 00:57:12,525
+<i>JOHANSSEN: Commander Lewis?</i>
+
+810
+00:57:12,680 --> 00:57:13,727
+Go ahead.
+
+811
+00:57:14,520 --> 00:57:16,284
+<i>JOHANSSEN: Data dump
+is almost complete.</i>
+
+812
+00:57:17,520 --> 00:57:19,409
+Copy that. On my way.
+
+813
+00:57:32,360 --> 00:57:33,600
+You're in a hurry.
+
+814
+00:57:33,800 --> 00:57:34,961
+MARTINEZ: Yeah.
+
+815
+00:57:35,120 --> 00:57:37,043
+My son turned
+three yesterday.
+
+816
+00:57:37,200 --> 00:57:39,089
+Should be pictures
+of the party.
+
+817
+00:57:49,560 --> 00:57:51,483
+JOHANSSEN: Got a batch
+of personals.
+
+818
+00:57:51,560 --> 00:57:53,722
+Dispatching them
+to your laptops now.
+
+819
+00:57:54,880 --> 00:57:58,043
+I don't need to read Vogel's
+weird German fetish emails.
+
+820
+00:57:58,240 --> 00:57:59,924
+VOGEL: They're
+telemetry updates.
+
+821
+00:58:00,240 --> 00:58:01,480
+Hey, whatever
+does it for you, man.
+
+822
+00:58:03,080 --> 00:58:04,241
+There's a video message.
+
+823
+00:58:04,400 --> 00:58:06,084
+It's addressed
+to the whole crew.
+
+824
+00:58:06,720 --> 00:58:08,802
+LEWIS: Play it. Come on, guys.
+
+825
+00:58:09,240 --> 00:58:11,083
+BECK: I wanna get in on
+that telemetry action.
+
+826
+00:58:11,160 --> 00:58:12,286
+(MEN LAUGHING)
+
+827
+00:58:15,000 --> 00:58:17,810
+<i>Hi, hello. It's Mitch.
+Mitch Henderson.</i>
+
+828
+00:58:18,240 --> 00:58:20,083
+<i>I have some news.</i>
+
+829
+00:58:20,240 --> 00:58:22,925
+<i>There's no subtle way
+to put this.</i>
+
+830
+00:58:23,680 --> 00:58:25,603
+<i>Mark Watney is still alive.</i>
+
+831
+00:58:25,760 --> 00:58:27,091
+Oh, my God.
+(ALL GASP)
+
+832
+00:58:27,760 --> 00:58:29,888
+<i>I know that's a surprise
+and I know</i>
+
+833
+00:58:29,960 --> 00:58:31,450
+<i>you will have
+a lot of questions.</i>
+
+834
+00:58:31,600 --> 00:58:34,331
+<i>But here are the basics.</i>
+
+835
+00:58:34,480 --> 00:58:36,926
+<i>He's alive and he's healthy.</i>
+
+836
+00:58:38,480 --> 00:58:42,280
+<i>We found out two months ago
+and decided not to tell you.</i>
+
+837
+00:58:42,600 --> 00:58:43,761
+Two months?
+Oh, my God.
+
+838
+00:58:43,920 --> 00:58:46,127
+<i>MITCH: I was strongly
+against that decision.</i>
+
+839
+00:58:46,760 --> 00:58:49,525
+<i>We're telling you
+now because...</i>
+
+840
+00:58:49,680 --> 00:58:52,047
+<i>we finally have
+communication with him...</i>
+
+841
+00:58:52,520 --> 00:58:54,966
+<i>and a viable rescue plan.</i>
+
+842
+00:58:55,400 --> 00:58:57,721
+<i>We'll give you a write-up
+of what happened,</i>
+
+843
+00:58:57,800 --> 00:58:59,131
+<i>a full write-up of everything.</i>
+
+844
+00:58:59,280 --> 00:59:00,805
+<i>But it's not your fault.</i>
+
+845
+00:59:00,960 --> 00:59:03,611
+<i>Mark stresses that
+every time it comes up.</i>
+
+846
+00:59:04,680 --> 00:59:07,126
+<i>So... Yeah...</i>
+
+847
+00:59:09,080 --> 00:59:11,082
+<i>Take some time to absorb this.</i>
+
+848
+00:59:11,640 --> 00:59:14,371
+<i>And send all
+the questions you want.</i>
+
+849
+00:59:14,440 --> 00:59:15,885
+<i>We'll answer them.</i>
+
+850
+00:59:17,240 --> 00:59:18,844
+<i>All right. Henderson out.</i>
+
+851
+00:59:19,240 --> 00:59:21,004
+BECK: Holy shit, he's alive.
+
+852
+00:59:21,960 --> 00:59:23,166
+I left him behind.
+
+853
+00:59:23,320 --> 00:59:24,321
+JOHANSSENI No.
+BECK: No.
+
+854
+00:59:24,480 --> 00:59:26,084
+We all left together.
+
+855
+00:59:26,240 --> 00:59:28,004
+You were following orders.
+
+856
+00:59:31,640 --> 00:59:33,642
+I left him behind.
+
+857
+00:59:43,320 --> 00:59:44,367
+WATNEY: <i>So now that
+NASA can talk to me,</i>
+
+858
+00:59:44,480 --> 00:59:45,561
+<i>they won't shut up.</i>
+
+859
+00:59:46,080 --> 00:59:48,890
+<i>They want constant updates
+on every Hab system...</i>
+
+860
+00:59:49,040 --> 00:59:50,644
+<i>and they got
+a room full of people</i>
+
+861
+00:59:50,720 --> 00:59:52,688
+<i>trying to micromanage
+my crops.</i>
+
+862
+00:59:52,840 --> 00:59:54,365
+<i>Which is awesome.</i>
+
+863
+00:59:55,200 --> 00:59:57,202
+<i>Look, I don't mean to sound
+arrogant or anything...</i>
+
+864
+00:59:57,400 --> 01:00:02,088
+<i>but I am the greatest botanist
+on this planet, so...</i>
+
+865
+01:00:03,600 --> 01:00:04,806
+<i>One big bonus</i>
+
+866
+01:00:04,880 --> 01:00:06,689
+<i>to this communication
+with NASA again...</i>
+
+867
+01:00:06,840 --> 01:00:08,285
+<i>is the email.
+I'm getting them again.</i>
+
+868
+01:00:08,440 --> 01:00:10,761
+<i>Big data dumps
+like when I was on the Hermes.</i>
+
+869
+01:00:10,960 --> 01:00:12,405
+<i>I even got one
+from the president.</i>
+
+870
+01:00:12,960 --> 01:00:15,531
+<i>The coolest one, though,
+the coolest one I got...</i>
+
+871
+01:00:15,680 --> 01:00:16,886
+<i>was from
+University of Chicago,</i>
+
+872
+01:00:16,960 --> 01:00:18,450
+<i>my alma mater.</i>
+
+873
+01:00:18,600 --> 01:00:21,126
+They say that once you
+grow crops somewhere...
+
+874
+01:00:21,280 --> 01:00:23,248
+you've officially
+colonized it.
+
+875
+01:00:24,120 --> 01:00:26,361
+<i>So, technically...</i>
+
+876
+01:00:27,400 --> 01:00:28,811
+<i>I colonized Mars.</i>
+
+877
+01:00:29,200 --> 01:00:31,202
+<i>(ROCK</i> THE BOAT PLAYING)
+
+878
+01:00:33,720 --> 01:00:35,722
+In your face, Neil Armstrong.
+
+879
+01:00:36,600 --> 01:00:38,409
+In other news,
+there's been a request...
+
+880
+01:00:38,560 --> 01:00:40,244
+for me to pose
+for a photograph
+
+881
+01:00:40,320 --> 01:00:42,402
+on my next transmission.
+
+882
+01:00:43,240 --> 01:00:44,526
+I'm trying
+to figure out whether
+
+883
+01:00:44,600 --> 01:00:47,410
+I should go with
+"High School Senior"...
+
+884
+01:00:47,560 --> 01:00:50,564
+or "coquettish ingénue."
+
+885
+01:00:52,640 --> 01:00:53,721
+But I'm not really sure
+
+886
+01:00:53,800 --> 01:00:55,404
+how that's gonna look
+with my spacesuit on.
+
+887
+01:01:02,960 --> 01:01:03,961
+(BEEPING)
+
+888
+01:01:21,760 --> 01:01:22,761
+Hey!
+
+889
+01:01:25,280 --> 01:01:26,770
+ANNIE: What is he doing?
+
+890
+01:01:26,920 --> 01:01:29,002
+I asked for a photo, and what,
+he's The Fonz?
+
+891
+01:01:29,200 --> 01:01:30,850
+<i>Just be grateful
+we got you something, Annie.</i>
+
+892
+01:01:31,040 --> 01:01:33,008
+I can't use this, Vincent,
+and you know that.
+
+893
+01:01:33,160 --> 01:01:34,446
+I need a picture of his face.
+
+894
+01:01:34,600 --> 01:01:36,170
+<i>I could tell him
+to take off his helmet...</i>
+
+895
+01:01:36,320 --> 01:01:38,049
+but then he'd, you know,
+die, so...
+
+896
+01:01:38,120 --> 01:01:39,281
+(ALL LAUGHING)
+
+897
+01:01:39,520 --> 01:01:40,567
+<i>SANDERS: We'll release
+the photo</i>
+
+898
+01:01:40,640 --> 01:01:41,971
+<i>when we detail
+the rescue operation.</i>
+
+899
+01:01:42,120 --> 01:01:43,770
+I want to announce
+we're launching
+
+900
+01:01:43,840 --> 01:01:45,046
+some supplies to him
+next year...
+
+901
+01:01:45,200 --> 01:01:46,725
+during the Hohmann
+Transfer Window.
+
+902
+01:01:47,280 --> 01:01:49,521
+Bruce, your team's still
+on schedule?
+
+903
+01:01:49,720 --> 01:01:51,643
+<i>It'll be tight,
+but we'll make it.</i>
+
+904
+01:01:51,800 --> 01:01:53,290
+Nine-month travel time.
+
+905
+01:01:53,360 --> 01:01:55,886
+That puts the probe
+to Mars on Sol 868.
+
+906
+01:01:56,040 --> 01:01:57,804
+Did we get
+the botany team's analysis?
+
+907
+01:01:57,960 --> 01:02:01,328
+<i>Yeah, they estimate Mark's
+crops will last till Sol 912.</i>
+
+908
+01:02:01,480 --> 01:02:04,245
+<i>They grudgingly admit that
+he's doing great work.</i>
+
+909
+01:02:04,320 --> 01:02:05,321
+Grudgin9lY7
+
+910
+01:02:05,400 --> 01:02:06,401
+<i>Yeah. Mark has a tendency
+to tell them</i>
+
+911
+01:02:06,480 --> 01:02:07,527
+<i>to have sex with themselves...</i>
+
+912
+01:02:07,640 --> 01:02:09,369
+<i>whenever they question
+one of his decisions.</i>
+
+913
+01:02:09,680 --> 01:02:10,761
+SANDERS: Get him
+in line, Vincent.
+
+914
+01:02:10,840 --> 01:02:12,888
+We can't afford
+any miscommunication.
+
+915
+01:02:12,960 --> 01:02:14,200
+I hate this margin.
+
+916
+01:02:14,280 --> 01:02:17,966
+912 Sols worth of food.
+We get there on 868.
+
+917
+01:02:18,920 --> 01:02:21,321
+And that's assuming
+nothing goes wrong.
+
+918
+01:02:45,680 --> 01:02:46,681
+(ALARM BLARING)
+(AIR HISSING)
+
+919
+01:02:51,520 --> 01:02:53,648
+(SCREAMING)
+
+920
+01:02:56,960 --> 01:02:59,042
+(GROANING)
+
+921
+01:03:05,040 --> 01:03:06,041
+(GROANS)
+
+922
+01:03:06,520 --> 01:03:09,205
+FEMALE <i>AUTOMATED</i> VOICE:
+<i>Suit breach detected.</i>
+
+923
+01:03:09,360 --> 01:03:11,044
+(PANTING)
+
+924
+01:03:16,960 --> 01:03:19,486
+<i>Oxygen level critical.</i>
+
+925
+01:03:32,960 --> 01:03:35,725
+<i>Oxygen level, 10%.</i>
+
+926
+01:03:50,360 --> 01:03:52,931
+<i>Oxygen level, 5%.</i>
+
+927
+01:04:02,440 --> 01:04:04,249
+<i>Suit pressure, stable.</i>
+
+928
+01:04:22,760 --> 01:04:24,603
+(BREATHING HEAVILY)
+
+929
+01:05:36,520 --> 01:05:38,363
+(CONTINUES BREATHING HEAVILY)
+
+930
+01:06:00,280 --> 01:06:02,203
+FEMALE <i>AUTOMATED</i> VOICE:
+<i>Pressure stable.</i>
+
+931
+01:06:18,680 --> 01:06:19,681
+(BLOWING)
+
+932
+01:06:35,760 --> 01:06:38,764
+God! God, God, God, God!
+
+933
+01:06:57,680 --> 01:06:59,444
+Crops are dead.
+
+934
+01:06:59,600 --> 01:07:01,921
+Complete loss of pressure
+boiled off most of the water.
+
+935
+01:07:02,120 --> 01:07:03,360
+Any bacteria that survived,
+
+936
+01:07:03,440 --> 01:07:05,044
+died in the subzero
+temperatures...
+
+937
+01:07:05,200 --> 01:07:07,123
+when exposed to
+Mars' atmosphere.
+
+938
+01:07:07,280 --> 01:07:08,725
+ANNIE: How long does he have?
+
+939
+01:07:10,240 --> 01:07:11,890
+(SIGHS) He can still eat
+the potatoes he has,
+
+940
+01:07:11,960 --> 01:07:13,803
+he just can't grow any more...
+
+941
+01:07:14,400 --> 01:07:16,971
+so give him 200 sols.
+
+942
+01:07:17,200 --> 01:07:20,283
+Rations get him to what?
+Sol 409?
+
+943
+01:07:20,400 --> 01:07:23,085
+Mmm-hmm.
+So with potatoes, 609.
+
+944
+01:07:23,240 --> 01:07:25,891
+So by Sol 868,
+he'll be long dead.
+
+945
+01:07:26,040 --> 01:07:27,929
+We're gonna have to launch
+as soon as possible...
+
+946
+01:07:28,080 --> 01:07:29,445
+which changes our travel time.
+
+947
+01:07:30,920 --> 01:07:32,410
+Yeah, we're working on it.
+
+948
+01:07:33,440 --> 01:07:37,445
+Prelim estimates call
+for a 414-day trip.
+
+949
+01:07:38,040 --> 01:07:40,168
+It's Sol 135 now.
+
+950
+01:07:40,320 --> 01:07:42,322
+We need 13 days
+to mount the boosters,
+
+951
+01:07:42,440 --> 01:07:43,646
+perform inspections...
+
+952
+01:07:43,800 --> 01:07:46,451
+which gives
+Bruce and his team...
+
+953
+01:07:47,320 --> 01:07:49,561
+47 days to make this probe.
+
+954
+01:07:50,920 --> 01:07:54,129
+I'll let you call Bruce,
+give him the news.
+
+955
+01:07:57,160 --> 01:07:58,446
+Okay-
+
+956
+01:08:01,680 --> 01:08:04,331
+I'm gonna need
+a change of clothes.
+
+957
+01:08:12,760 --> 01:08:14,489
+<i>MARTINEZ: "Dear Mark...</i>
+
+958
+01:08:15,000 --> 01:08:19,642
+<i>"Apparently NASA's letting us
+talk to you now.</i>
+
+959
+01:08:20,960 --> 01:08:24,442
+"And I drew the short straw.
+
+960
+01:08:27,160 --> 01:08:28,207
+(CHUCKLES)
+
+961
+01:08:28,280 --> 01:08:31,841
+<i>"Sorry we left you
+behind on Mars.</i>
+
+962
+01:08:32,040 --> 01:08:34,486
+"But we just don't like you.
+
+963
+01:08:35,280 --> 01:08:36,281
+(ALL CHUCKLING)
+
+964
+01:08:37,000 --> 01:08:42,211
+"Also, it's a lot roomier
+on the Hermes without you.
+
+965
+01:08:42,880 --> 01:08:46,202
+<i>"We have to take turns
+doing your tasks.</i>
+
+966
+01:08:46,840 --> 01:08:50,128
+"But, I mean,
+it's only botany.
+
+967
+01:08:50,200 --> 01:08:51,326
+(LAUGHING)
+
+968
+01:08:51,720 --> 01:08:52,960
+"it's not real science."
+
+969
+01:08:53,120 --> 01:08:54,167
+Oh, Jesus.
+
+970
+01:08:55,800 --> 01:08:56,801
+<i>"How's Mars?"</i>
+
+971
+01:09:01,840 --> 01:09:04,889
+<i>WATNEY: "Dear Martinez,
+Mars is fine.</i>
+
+972
+01:09:06,520 --> 01:09:08,807
+<i>"I accidentally
+blew up the</i> Hab...
+
+973
+01:09:09,480 --> 01:09:11,164
+<i>"but unfortunately,</i>
+
+974
+01:09:11,240 --> 01:09:16,041
+<i>"all of Commander Lewis'
+disco music still survived."</i>
+
+975
+01:09:16,720 --> 01:09:17,721
+"But unfortunately,
+
+976
+01:09:17,880 --> 01:09:20,645
+"all of Commander Lewis'
+disco music still survived."
+
+977
+01:09:21,520 --> 01:09:23,761
+<i>WATNEY: "Every day,
+I go outside</i>
+
+978
+01:09:23,840 --> 01:09:26,366
+<i>"and look at
+the vast horizons."</i>
+
+979
+01:09:26,760 --> 01:09:28,171
+MARTINEZ: "Every day,
+I go outside
+
+980
+01:09:28,240 --> 01:09:30,720
+"and look at
+the vast horizons."
+
+981
+01:09:30,880 --> 01:09:32,211
+<i>WATNEY". "Just because I can."</i>
+
+982
+01:09:32,600 --> 01:09:34,602
+MARTINEZ: "Just because I can.
+
+983
+01:09:35,440 --> 01:09:38,250
+"Tell the others
+I said hello."
+
+984
+01:09:40,920 --> 01:09:42,365
+"Will do, buddy."
+
+985
+01:09:50,440 --> 01:09:51,930
+(CHUCKLES SADLY)
+
+986
+01:10:59,680 --> 01:11:01,284
+(MACHINERY POWERING UP)
+
+987
+01:11:12,320 --> 01:11:14,049
+FEMALE <i>AUTOMATED</i> VOICE:
+<i>Pressure stable.</i>
+
+988
+01:11:39,960 --> 01:11:41,291
+(WIND HOWLING)
+
+989
+01:11:45,320 --> 01:11:47,561
+(PLASTIC RUSTLING)
+
+990
+01:11:53,880 --> 01:11:55,962
+5,10...
+
+991
+01:11:56,680 --> 01:11:59,490
+15, 20, 30, 35...
+
+992
+01:11:59,560 --> 01:12:00,925
+(SIGHS DEEPLY)
+
+993
+01:12:01,000 --> 01:12:02,240
+40.
+
+994
+01:12:02,920 --> 01:12:03,921
+52.
+
+995
+01:12:16,240 --> 01:12:17,241
+(GROANS LOUDLY)
+
+996
+01:12:32,880 --> 01:12:34,041
+Rich.
+
+997
+01:12:35,240 --> 01:12:36,241
+Rich.
+
+998
+01:12:36,400 --> 01:12:37,447
+Wake up.
+
+999
+01:12:40,280 --> 01:12:42,442
+Sorry, but they're asking for
+the probe courses.
+
+1000
+01:12:42,600 --> 01:12:44,125
+What time is it?
+
+1001
+01:12:44,280 --> 01:12:46,123
+It's 3142.
+
+1002
+01:12:47,280 --> 01:12:48,441
+(SPITS)
+
+1003
+01:12:50,120 --> 01:12:51,281
+(CLATTERS)
+
+1004
+01:12:51,520 --> 01:12:53,966
+Look, I know we're
+coming at this backwards...
+
+1005
+01:12:54,040 --> 01:12:55,804
+but we can't commit
+to a firm launch date
+
+1006
+01:12:55,880 --> 01:12:57,370
+with this many unknowns.
+
+1007
+01:12:58,400 --> 01:12:59,640
+It's all right. Um...
+
+1008
+01:13:00,280 --> 01:13:03,090
+All 25 models for launch will
+take 414 days to reach Mars.
+
+1009
+01:13:03,240 --> 01:13:04,810
+They vary slightly
+in thrust duration...
+
+1010
+01:13:04,960 --> 01:13:06,769
+and the fuel requirement
+is nearly identical.
+
+1011
+01:13:08,120 --> 01:13:09,963
+Not a good time
+to launch, is it?
+
+1012
+01:13:10,120 --> 01:13:12,964
+Yeah, Earth and Mars are
+really badly positioned.
+
+1013
+01:13:13,120 --> 01:13:15,168
+Heck, it'd almost
+be easier if you...
+
+1014
+01:13:17,960 --> 01:13:19,166
+Almost easier to what?
+
+1015
+01:13:20,400 --> 01:13:21,765
+I need more coffee.
+
+1016
+01:13:22,240 --> 01:13:23,241
+Ahh!
+(THUDS)
+
+1017
+01:13:23,800 --> 01:13:24,801
+MIKE: Are you all right?
+
+1018
+01:13:25,000 --> 01:13:26,001
+It's fine.
+
+1019
+01:13:30,320 --> 01:13:32,129
+Almost easier to what?
+
+1020
+01:13:43,640 --> 01:13:45,688
+You do understand
+I'm your boss, right?
+
+1021
+01:13:46,680 --> 01:13:47,681
+Uh-huh.
+
+1022
+01:13:51,480 --> 01:13:52,606
+SANDERS: All right, let's ask
+
+1023
+01:13:52,680 --> 01:13:55,001
+the very, very
+expensive question.
+
+1024
+01:13:55,760 --> 01:13:57,364
+Is the probe
+going to be ready on time?
+
+1025
+01:13:57,520 --> 01:13:59,363
+BRUCE: We're behind.
+Give me a number.
+
+1026
+01:13:59,520 --> 01:14:02,603
+<i>15 days. 15 days
+and I can get it done.</i>
+
+1027
+01:14:03,000 --> 01:14:04,206
+All right, let's
+create 15 days.
+
+1028
+01:14:04,280 --> 01:14:05,850
+13 days to mount the probe.
+
+1029
+01:14:06,040 --> 01:14:07,201
+Can we reduce?
+
+1030
+01:14:07,360 --> 01:14:09,601
+It actually only takes three
+days to mount the probe.
+
+1031
+01:14:09,760 --> 01:14:11,524
+And we can get that down
+to two, right?
+
+1032
+01:14:11,680 --> 01:14:13,045
+<i>I can get it down to two.</i>
+
+1033
+01:14:13,280 --> 01:14:14,884
+10 days are for tests
+and inspections.
+
+1034
+01:14:15,040 --> 01:14:17,520
+How often do those inspections
+reveal a problem?
+
+1035
+01:14:18,880 --> 01:14:20,450
+Are you suggesting
+we don't do the inspections?
+
+1036
+01:14:20,640 --> 01:14:22,881
+Right now I'm asking how often
+they reveal a problem.
+
+1037
+01:14:23,040 --> 01:14:24,041
+One in 20.
+
+1038
+01:14:24,200 --> 01:14:25,804
+But that's grounds
+for countdown halt.
+
+1039
+01:14:25,960 --> 01:14:27,041
+MITCH: We can't take
+thatchance.
+
+1040
+01:14:27,200 --> 01:14:29,567
+Anyone else know a safer way
+to buy more time?
+
+1041
+01:14:33,960 --> 01:14:36,327
+Dr. Keller, stretch Watney's
+rations four more days.
+
+1042
+01:14:36,480 --> 01:14:38,244
+You're not gonna like it,
+but that'll get us to 15.
+
+1043
+01:14:38,360 --> 01:14:39,327
+And we'll cancel
+the inspections.
+
+1044
+01:14:39,400 --> 01:14:40,481
+Teddy.
+
+1045
+01:14:40,560 --> 01:14:42,324
+Sir, if that ever got out...
+It's on me.
+
+1046
+01:14:42,640 --> 01:14:43,801
+You got your two weeks.
+
+1047
+01:14:44,000 --> 01:14:45,206
+Get it done.
+
+1048
+01:14:46,200 --> 01:14:47,565
+WATNEY: So,
+now I have to hold out
+
+1049
+01:14:47,680 --> 01:14:50,331
+until the probe gets here
+with more food.
+
+1050
+01:14:50,400 --> 01:14:53,210
+You want to see what minimal
+calorie count looks like?
+
+1051
+01:14:53,360 --> 01:14:54,930
+Standard issue ration.
+
+1052
+01:14:55,080 --> 01:14:58,721
+But instead of three of these
+every one day...
+
+1053
+01:14:59,160 --> 01:15:02,767
+I'm now eating one of these
+every three days.
+
+1054
+01:15:04,400 --> 01:15:06,209
+And now, they've asked me...
+
+1055
+01:15:07,200 --> 01:15:08,440
+to do that.
+
+1056
+01:15:11,440 --> 01:15:12,930
+<i>(DON'T LEAVE ME THIS WAY
+PLAYING)</i>
+
+1057
+01:15:13,200 --> 01:15:14,440
+The point is...
+
+1058
+01:15:15,880 --> 01:15:18,884
+<i>"stretch the rations
+four more days"...</i>
+
+1059
+01:15:19,920 --> 01:15:21,763
+<i>(SIGHS) is</i> a <i>real dick-punch.</i>
+
+1060
+01:15:25,520 --> 01:15:28,524
+<i>I'm gonna dip this potato
+in some crushed Vicodin.</i>
+
+1061
+01:15:30,520 --> 01:15:32,284
+And there's nobody
+who can stop me.
+
+1062
+01:15:42,440 --> 01:15:45,762
+<i>It has been seven days
+since I ran out of ketchup.</i>
+
+1063
+01:15:57,720 --> 01:15:59,961
+JPL TECHNICIAN 1:
+Up. Up, up. Yeah.
+
+1064
+01:16:00,440 --> 01:16:02,169
+Let's go up here.
+
+1065
+01:16:02,320 --> 01:16:03,321
+JPL TECHNICIAN 2:
+Labels facing up.
+
+1066
+01:16:09,000 --> 01:16:10,126
+This is the flight director.
+
+1067
+01:16:10,280 --> 01:16:11,930
+Begin launch status check.
+
+1068
+01:16:12,080 --> 01:16:14,651
+Roger that, Flight.
+Beginning launch status check.
+
+1069
+01:16:14,840 --> 01:16:16,808
+Do you believe
+in God, Vincent?
+
+1070
+01:16:18,120 --> 01:16:19,121
+Yeah.
+
+1071
+01:16:20,120 --> 01:16:21,849
+Yeah, my father
+was a Hindu,
+
+1072
+01:16:21,920 --> 01:16:24,241
+my mother's a Baptist,
+so,yeah“.
+
+1073
+01:16:24,400 --> 01:16:26,004
+I believe in several.
+
+1074
+01:16:28,680 --> 01:16:30,523
+We'll take all
+the help we can get.
+
+1075
+01:16:30,680 --> 01:16:32,330
+<i>LAUNCH CONTROL TECHNICIAN:
+Launch status check complete.</i>
+
+1076
+01:16:32,680 --> 01:16:34,011
+MITCH: This is Flight.
+
+1077
+01:16:34,160 --> 01:16:35,650
+We are go for launch.
+
+1078
+01:16:35,840 --> 01:16:36,841
+TIMER <i>CONTROLLER:
+Proceeding with the count.</i>
+
+1079
+01:16:37,000 --> 01:16:38,525
+10... 9...
+
+1080
+01:16:38,680 --> 01:16:39,806
+<i>8...</i>
+
+1081
+01:16:39,960 --> 01:16:41,200
+<i>7... 6...</i>
+
+1082
+01:16:41,360 --> 01:16:42,850
+<i>Main engines start.</i>
+
+1083
+01:16:43,000 --> 01:16:44,331
+<i>4... 3...</i>
+
+1084
+01:16:44,800 --> 01:16:45,801
+<i>2...</i>
+
+1085
+01:16:45,960 --> 01:16:46,961
+<i>1.</i>
+
+1086
+01:16:48,280 --> 01:16:49,930
+<i>Liftoff.</i>
+
+1087
+01:16:51,960 --> 01:16:53,325
+<i>Good thrust.</i>
+
+1088
+01:16:57,320 --> 01:16:58,685
+<i>Performance is nominal.</i>
+
+1089
+01:17:12,520 --> 01:17:14,682
+<i>FEMALE</i> TIMER:
+<i>The tail is giving good data.</i>
+
+1090
+01:17:16,160 --> 01:17:17,810
+TIMER <i>CONTROLLER: She's rock
+solid at this point, Flight.</i>
+
+1091
+01:17:17,880 --> 01:17:18,881
+<i>TVCs look good.</i>
+
+1092
+01:17:19,160 --> 01:17:20,161
+(ALL CHEERING)
+
+1093
+01:17:30,480 --> 01:17:31,891
+We're getting
+a little shimmy, Flight.
+
+1094
+01:17:33,000 --> 01:17:34,240
+Say again?
+
+1095
+01:17:34,680 --> 01:17:36,728
+We are getting
+a very large precession.
+
+1096
+01:17:37,200 --> 01:17:38,201
+Are we good?
+
+1097
+01:17:39,480 --> 01:17:40,891
+TIMER <i>CONTROLLER: Flight,
+it's hitting the redline.</i>
+
+1098
+01:17:41,040 --> 01:17:43,520
+It's spinning on the long axis
+around a 17-degree precession.
+
+1099
+01:17:45,080 --> 01:17:46,570
+Launch, what's happening?
+
+1100
+01:17:46,760 --> 01:17:48,410
+Force on Iris is <i>7</i> G's.
+
+1101
+01:17:48,720 --> 01:17:50,404
+COMMS TECHNICIAN: We've lost
+readings on the probe, Flight.
+
+1102
+01:17:51,840 --> 01:17:53,524
+(ALL EXCLAIMING IN DISMAY)
+
+1103
+01:17:54,240 --> 01:17:57,084
+Oh, Jesus Christ.
+
+1104
+01:18:00,520 --> 01:18:01,760
+We've lost it, Flight.
+
+1105
+01:18:05,680 --> 01:18:06,681
+SatCon?
+
+1106
+01:18:06,840 --> 01:18:07,921
+<i>SAT CON TECHNWAAN:
+No satellite acquisition</i>
+
+1107
+01:18:08,040 --> 01:18:09,121
+<i>of signal.</i>
+
+1108
+01:18:12,480 --> 01:18:13,481
+TIMER CONTROLLER: <i>L.O.S.</i>
+
+1109
+01:18:13,560 --> 01:18:14,607
+L.O.S. here, too.
+
+1110
+01:18:15,120 --> 01:18:16,281
+CAPCOM TECHNICIAN:
+U. S. Destroyer Stockton
+
+1111
+01:18:16,360 --> 01:18:18,408
+<i>reporting debris
+falling from the sky.</i>
+
+1112
+01:18:18,520 --> 01:18:19,601
+TIMER CONTROLLER:
+Everyone in the ICC,
+
+1113
+01:18:19,720 --> 01:18:21,210
+<i>maintain your positions
+at your consoles.</i>
+
+1114
+01:18:21,360 --> 01:18:23,442
+GC, lock the doors.
+
+1115
+01:18:51,960 --> 01:18:53,769
+<i>WATNEY: "Commander Lewis...</i>
+
+1116
+01:18:53,920 --> 01:18:57,561
+<i>"I may need you
+to do something for me.</i>
+
+1117
+01:18:59,160 --> 01:19:04,007
+<i>"If I die, I need you to
+check in on my parents.</i>
+
+1118
+01:19:05,160 --> 01:19:08,562
+<i>"They'll wanna hear all about
+our time here on Mars.</i>
+
+1119
+01:19:10,120 --> 01:19:12,122
+<i>"I know that sucks.</i>
+
+1120
+01:19:12,280 --> 01:19:15,523
+<i>"And it'll be hard
+talking to a couple...</i>
+
+1121
+01:19:16,400 --> 01:19:18,801
+<i>"about their dead son.</i>
+
+1122
+01:19:19,840 --> 01:19:21,604
+"It's a lot to ask.
+
+1123
+01:19:24,000 --> 01:19:26,162
+"Which is why I'm asking you.
+
+1124
+01:19:27,280 --> 01:19:29,203
+<i>"I'm not giving up.</i>
+
+1125
+01:19:29,360 --> 01:19:34,366
+<i>"We just need to prepare
+for every outcome.</i>
+
+1126
+01:19:36,040 --> 01:19:38,008
+"Please tell them...
+
+1127
+01:19:40,040 --> 01:19:41,883
+"Tell them I love what I do...
+
+1128
+01:19:46,280 --> 01:19:47,611
+"and I'm really good at it.
+
+1129
+01:19:50,280 --> 01:19:53,329
+<i>"And that I'm dying...</i>
+
+1130
+01:19:54,640 --> 01:19:57,120
+"for something big...
+
+1131
+01:19:58,680 --> 01:20:00,728
+"and beautiful...
+
+1132
+01:20:04,680 --> 01:20:06,728
+"and greater than me.
+
+1133
+01:20:08,560 --> 01:20:11,211
+<i>"Tell them
+I said I can live with that.</i>
+
+1134
+01:20:12,240 --> 01:20:13,890
+<i>"And tell them...</i>
+
+1135
+01:20:15,080 --> 01:20:18,687
+<i>"thank you for being
+my mom and dad."</i>
+
+1136
+01:20:22,320 --> 01:20:23,321
+<i>VINCENT: We substituted
+protein cubes</i>
+
+1137
+01:20:23,400 --> 01:20:24,481
+<i>for the standard rations.</i>
+
+1138
+01:20:24,640 --> 01:20:26,404
+<i>The thrust
+of the launch combined</i>
+
+1139
+01:20:26,480 --> 01:20:28,209
+<i>with the simultaneous
+lateral vibration...</i>
+
+1140
+01:20:28,360 --> 01:20:33,161
+<i>liquefied the cubes and
+created an unbalanced load.</i>
+
+1141
+01:20:33,240 --> 01:20:34,605
+<i>Vincent, why wasn't
+this addressed</i>
+
+1142
+01:20:34,720 --> 01:20:36,245
+<i>in the inspections phase?</i>
+
+1143
+01:20:36,400 --> 01:20:37,925
+<i>In order to make
+our launch window,</i>
+
+1144
+01:20:38,040 --> 01:20:40,008
+<i>we were forced
+to accelerate our schedule.</i>
+
+1145
+01:20:40,800 --> 01:20:41,801
+(BOTH SPEAKING MAN DARIN)
+
+1146
+01:20:41,920 --> 01:20:44,002
+Their astronaut
+is going to die.
+
+1147
+01:20:45,880 --> 01:20:47,882
+Of course there
+are other ways...
+
+1148
+01:20:50,000 --> 01:20:52,765
+...the Taiyang Shen booster. Our
+engineers have run the numbers,
+
+1149
+01:20:53,000 --> 01:20:55,765
+and it has enough fuel
+for a Mars injection orbit.
+
+1150
+01:20:56,920 --> 01:20:58,285
+Why hasn't NASA
+approached us?
+
+1151
+01:20:58,680 --> 01:20:59,761
+They don't know.
+
+1152
+01:21:00,280 --> 01:21:02,726
+Our booster technology
+is classified.
+
+1153
+01:21:05,360 --> 01:21:08,284
+So if we do nothing...
+
+1154
+01:21:08,920 --> 01:21:12,970
+The world would never know
+we could have helped.
+
+1155
+01:21:14,040 --> 01:21:18,887
+Then, for the sake of argument,
+let's say we decide to help them...
+
+1156
+01:21:19,560 --> 01:21:23,485
+We'd be giving up a booster and
+effectively cancelling Taiyang Shen.
+
+1157
+01:21:24,560 --> 01:21:29,646
+We need to keep this among scientists,
+a co-operation between space agencies.
+
+1158
+01:21:32,480 --> 01:21:33,481
+SANDERS: Yes.
+
+1159
+01:21:34,960 --> 01:21:36,724
+Yes, I understand.
+
+1160
+01:21:39,880 --> 01:21:41,120
+Thank you.
+
+1161
+01:21:44,720 --> 01:21:45,801
+Yes!
+
+1162
+01:21:46,000 --> 01:21:47,081
+(SIGHS)
+
+1163
+01:21:47,160 --> 01:21:48,161
+<i>BRUCE: All right.</i>
+
+1164
+01:21:48,280 --> 01:21:49,930
+Thanks to my uncle Tommy
+in China,
+
+1165
+01:21:50,000 --> 01:21:51,843
+we get another chance at this.
+
+1166
+01:21:52,000 --> 01:21:55,083
+Now, we finished
+the Iris probe in 62 days.
+
+1167
+01:21:55,240 --> 01:21:58,642
+We are now gonna attempt
+to finish it in 28.
+
+1168
+01:22:08,840 --> 01:22:10,171
+(CHIMES)
+
+1169
+01:22:24,320 --> 01:22:25,606
+We can jettison
+any kind of landing system.
+
+1170
+01:22:25,680 --> 01:22:27,125
+We're only sending rations.
+
+1171
+01:22:27,280 --> 01:22:28,964
+We can crash-land on Mars.
+
+1172
+01:22:30,320 --> 01:22:31,651
+You should hang up
+the phone.
+
+1173
+01:22:32,000 --> 01:22:33,968
+I'm sorry, who are you?
+My name is Rich Purnell.
+
+1174
+01:22:34,120 --> 01:22:35,121
+I work in Astrodynamics,
+
+1175
+01:22:35,200 --> 01:22:36,361
+and you should hang up
+the phone right now.
+
+1176
+01:22:38,640 --> 01:22:39,687
+All right, all right.
+
+1177
+01:22:40,440 --> 01:22:41,851
+I'm gonna call you back.
+
+1178
+01:22:43,160 --> 01:22:44,650
+I know how to
+save Mark Watney.
+
+1179
+01:22:45,880 --> 01:22:48,201
+Your probe plan won't work.
+Too many things can go wrong.
+
+1180
+01:22:48,560 --> 01:22:49,561
+I've got a better way.
+
+1181
+01:22:49,720 --> 01:22:50,801
+Astrodynamics?
+
+1182
+01:22:50,960 --> 01:22:52,325
+Yeah.
+
+1183
+01:22:52,720 --> 01:22:55,246
+What the hell
+is "Project Elrond"?
+
+1184
+01:22:55,640 --> 01:22:56,641
+VINCENT: I had to
+make something up.
+
+1185
+01:22:56,800 --> 01:22:58,245
+But "Elrond"?
+
+1186
+01:22:58,720 --> 01:23:00,722
+Because it's a secret meeting.
+
+1187
+01:23:00,880 --> 01:23:01,881
+How do you know that?
+
+1188
+01:23:01,960 --> 01:23:03,405
+Why does "Elrond" mean
+"secret meeting"?
+
+1189
+01:23:03,560 --> 01:23:06,166
+<i>The Council of Elrond.
+It's from</i> Lord <i>of the Rings.</i>
+
+1190
+01:23:06,320 --> 01:23:07,367
+<i>Lord of the Rings.</i>
+
+1191
+01:23:07,440 --> 01:23:08,487
+It's the meeting
+where they decide
+
+1192
+01:23:08,560 --> 01:23:09,641
+to destroy the One Ring.
+
+1193
+01:23:09,720 --> 01:23:11,404
+<i>SANDERS: If we're gonna call
+something "Project Elrond"...</i>
+
+1194
+01:23:11,560 --> 01:23:13,722
+I would like my code name
+to be "Glorfindel."
+
+1195
+01:23:13,920 --> 01:23:15,922
+Okay, I hate
+every one of you.
+
+1196
+01:23:16,080 --> 01:23:18,447
+What, Teddy doesn't even
+know about this yet?
+
+1197
+01:23:18,600 --> 01:23:19,761
+I'm sorry, who are you?
+
+1198
+01:23:19,920 --> 01:23:21,649
+VINCENT: This is Rich Purnell,
+Astrodynamics.
+
+1199
+01:23:22,760 --> 01:23:24,250
+Tell them what
+you just told me.
+
+1200
+01:23:24,520 --> 01:23:27,524
+I can get the Hermes
+back to Mars by Sol 561.
+
+1201
+01:23:29,240 --> 01:23:30,241
+SANDERS: HOW?
+
+1202
+01:23:34,440 --> 01:23:37,091
+Could you stand right
+there for me, please?
+
+1203
+01:23:38,760 --> 01:23:39,761
+Thanks.
+
+1204
+01:23:39,920 --> 01:23:41,001
+Right there. Great.
+
+1205
+01:23:41,200 --> 01:23:45,364
+And could you stand
+right there? Right there.
+
+1206
+01:23:50,120 --> 01:23:53,886
+Okay, let's pretend that this
+stapler is the Hermes...
+
+1207
+01:23:54,040 --> 01:23:56,281
+and you are...
+
+1208
+01:23:56,440 --> 01:23:57,601
+I'm sorry,
+what's your name again?
+
+1209
+01:23:57,840 --> 01:24:01,208
+Teddy. I'm the Director
+of NASA.
+
+1210
+01:24:01,520 --> 01:24:03,488
+Cool. Teddy,
+you're Earth.
+
+1211
+01:24:03,840 --> 01:24:06,127
+And right now, the Hermes
+is headed towards you...
+
+1212
+01:24:06,280 --> 01:24:08,726
+starting its month-long
+deceleration to intercept.
+
+1213
+01:24:08,880 --> 01:24:11,406
+But instead,
+what I'm proposing is...
+
+1214
+01:24:11,480 --> 01:24:13,209
+(WHOOSHING)
+
+1215
+01:24:15,480 --> 01:24:17,608
+we start accelerating
+immediately
+
+1216
+01:24:17,680 --> 01:24:19,489
+to preserve velocity
+and gain even more.
+
+1217
+01:24:19,640 --> 01:24:20,721
+We don't intercept
+with Earth at all...
+
+1218
+01:24:20,880 --> 01:24:22,211
+but we come close enough
+
+1219
+01:24:22,320 --> 01:24:24,482
+to get a gravity assist
+and adjust course.
+
+1220
+01:24:24,640 --> 01:24:26,483
+While we're doing that...
+
+1221
+01:24:28,640 --> 01:24:30,324
+we resupply with the probe...
+
+1222
+01:24:30,480 --> 01:24:31,481
+VINCENT: The Taiyang Shen.
+
+1223
+01:24:31,640 --> 01:24:33,210
+...pick up whatever
+provisions we need...
+
+1224
+01:24:33,360 --> 01:24:35,522
+and now we're accelerating
+towards Mars.
+
+1225
+01:24:35,640 --> 01:24:36,641
+(WHOOSHING)
+
+1226
+01:24:38,160 --> 01:24:39,491
+You're Mars.
+
+1227
+01:24:39,640 --> 01:24:40,721
+Now, we're going too fast
+
+1228
+01:24:40,840 --> 01:24:42,569
+at this point to fall
+into orbit...
+
+1229
+01:24:42,760 --> 01:24:44,091
+but we can do a flyby.
+
+1230
+01:24:44,240 --> 01:24:45,241
+<i>What good is a flyby</i>
+
+1231
+01:24:45,320 --> 01:24:46,731
+<i>if we can't get Watney
+off the surface?</i>
+
+1232
+01:24:47,320 --> 01:24:50,164
+Watney would intercept
+using the MAV.
+
+1233
+01:24:50,240 --> 01:24:51,321
+Ow!
+
+1234
+01:24:52,360 --> 01:24:53,691
+(WHOOSHING)
+
+1235
+01:24:54,920 --> 01:24:56,888
+And then we just head home.
+
+1236
+01:24:57,000 --> 01:24:58,604
+(WHOOSHING)
+
+1237
+01:25:01,360 --> 01:25:03,681
+I've done the math.
+It checks out.
+
+1238
+01:25:05,440 --> 01:25:06,930
+<i>SANDERS: Rich.
+Yes, sir.</i>
+
+1239
+01:25:07,000 --> 01:25:08,047
+Get out.
+
+1240
+01:25:08,120 --> 01:25:09,121
+All right.
+
+1241
+01:25:15,520 --> 01:25:17,249
+Is he right?
+VINCENT: Yeah.
+
+1242
+01:25:17,560 --> 01:25:19,528
+SANDERS: Bruce,
+what do you think?
+
+1243
+01:25:20,120 --> 01:25:21,610
+<i>Well, if Vincent says so.</i>
+
+1244
+01:25:23,040 --> 01:25:25,247
+We need to use
+the Taiyang Shen?
+
+1245
+01:25:25,360 --> 01:25:26,361
+VINCENT: Uh-huh.
+
+1246
+01:25:26,600 --> 01:25:28,568
+What am I missing?
+Why is that important?
+
+1247
+01:25:28,720 --> 01:25:29,960
+Because we can only do one.
+
+1248
+01:25:30,120 --> 01:25:32,282
+Send Watney enough food
+to last till Ares 4...
+
+1249
+01:25:32,480 --> 01:25:34,369
+or send Hermes back
+to get him right now.
+
+1250
+01:25:35,040 --> 01:25:36,246
+Both plans require
+the Taiyang Shen,
+
+1251
+01:25:36,400 --> 01:25:38,209
+so we have to choose.
+
+1252
+01:25:38,560 --> 01:25:40,085
+But what about
+the Hermes crew?
+
+1253
+01:25:40,280 --> 01:25:41,850
+We'd be asking them to add
+
+1254
+01:25:41,920 --> 01:25:45,049
+533 extra days
+to their mission.
+
+1255
+01:25:45,400 --> 01:25:47,129
+Yeah. They wouldn't hesitate,
+not for a second.
+
+1256
+01:25:48,240 --> 01:25:49,924
+Can the Hermes function
+for 533 days
+
+1257
+01:25:50,080 --> 01:25:51,286
+beyond the scheduled
+mission end?
+
+1258
+01:25:51,400 --> 01:25:52,401
+It should.
+
+1259
+01:25:52,560 --> 01:25:54,403
+Built to last
+the full Ares mission...
+
+1260
+01:25:54,560 --> 01:25:56,642
+so technically, it's only
+halfway through its lifespan.
+
+1261
+01:25:57,400 --> 01:25:58,561
+But if something goes wrong...
+
+1262
+01:25:58,720 --> 01:26:00,131
+Then we lose the crew.
+
+1263
+01:26:00,400 --> 01:26:02,004
+<i>BRUCE: So what?
+We either have a high chance</i>
+
+1264
+01:26:02,120 --> 01:26:03,849
+<i>of killing one person...</i>
+
+1265
+01:26:04,120 --> 01:26:06,566
+<i>or a low chance
+of killing six people.</i>
+
+1266
+01:26:06,760 --> 01:26:08,091
+<i>How do we make that decision?</i>
+
+1267
+01:26:08,240 --> 01:26:10,083
+We don't have to
+make it, Bruce.
+
+1268
+01:26:10,160 --> 01:26:11,161
+He does.
+
+1269
+01:26:11,600 --> 01:26:12,647
+MITCH: Yeah, Well, bullshit.
+
+1270
+01:26:13,120 --> 01:26:15,009
+It should be
+Commander Lewis' call.
+
+1271
+01:26:15,160 --> 01:26:16,730
+We still have
+a chance to bring
+
+1272
+01:26:16,800 --> 01:26:18,450
+five astronauts
+home safe and sound.
+
+1273
+01:26:18,600 --> 01:26:20,170
+I'm not risking
+their lives.
+
+1274
+01:26:21,320 --> 01:26:22,970
+Let them make
+that decision.
+
+1275
+01:26:23,680 --> 01:26:26,365
+Mitch, we're going
+with option one.
+
+1276
+01:26:28,280 --> 01:26:30,282
+You goddamn coward.
+
+1277
+01:26:48,480 --> 01:26:50,448
+VOGEL: Johanssen?
+Yeah.
+
+1278
+01:26:51,160 --> 01:26:53,686
+I know it's your private time.
+Can I bother you for a second?
+
+1279
+01:26:53,800 --> 01:26:54,801
+JOHANSSEN: Yeah, <i>go</i> ahead.
+
+1280
+01:26:54,920 --> 01:26:55,887
+<i>VOGEL: Where are you?</i>
+
+1281
+01:26:55,960 --> 01:26:56,961
+The gym.
+
+1282
+01:27:13,320 --> 01:27:14,401
+(BEEPS)
+
+1283
+01:27:15,880 --> 01:27:17,245
+(PANTING)
+
+1284
+01:27:18,800 --> 01:27:20,040
+What's up?
+
+1285
+01:27:20,200 --> 01:27:21,201
+I just got an email
+from my wife
+
+1286
+01:27:21,320 --> 01:27:24,244
+and the subject line
+says, "Our children."
+
+1287
+01:27:24,560 --> 01:27:26,562
+My computer won't open
+the attachment.
+
+1288
+01:27:28,000 --> 01:27:29,206
+Okay-
+
+1289
+01:27:29,360 --> 01:27:30,486
+Let's take a look.
+
+1290
+01:27:34,400 --> 01:27:35,561
+Uh...
+
+1291
+01:27:37,000 --> 01:27:38,001
+Let's see.
+
+1292
+01:27:40,320 --> 01:27:42,368
+This isn't a JPEG.
+
+1293
+01:27:42,720 --> 01:27:45,166
+It's a plain ASCII text file.
+
+1294
+01:27:48,000 --> 01:27:49,286
+I don't really know
+what we're looking at.
+
+1295
+01:27:51,000 --> 01:27:52,365
+Does that make
+any sense to you?
+
+1296
+01:27:54,680 --> 01:27:56,842
+"Rich Purnell Maneuver."
+
+1297
+01:27:57,040 --> 01:27:59,850
+It's a course maneuver
+for the Hermes.
+
+1298
+01:28:06,880 --> 01:28:08,086
+And the mission concludes
+with Earth intercept,
+
+1299
+01:28:08,200 --> 01:28:09,201
+211 days later.
+
+1300
+01:28:10,560 --> 01:28:11,971
+MARTINEZ: Would it work?
+
+1301
+01:28:12,200 --> 01:28:14,202
+LEWIS: Mmm-hmm. We ran
+the numbers. They check out.
+
+1302
+01:28:14,360 --> 01:28:15,805
+BECK: It's a
+brilliant course.
+
+1303
+01:28:15,920 --> 01:28:18,764
+So why all
+the cloak and dagger?
+
+1304
+01:28:18,920 --> 01:28:20,729
+Because it goes directly
+against NASA's decision.
+
+1305
+01:28:20,880 --> 01:28:22,848
+Yeah. If we do
+the maneuver,
+
+1306
+01:28:22,920 --> 01:28:25,048
+they'd have to send
+the supply ship or we die.
+
+1307
+01:28:25,200 --> 01:28:28,443
+We have the opportunity
+to force their hand.
+
+1308
+01:28:29,600 --> 01:28:31,921
+So, are we gonna do it?
+
+1309
+01:28:33,280 --> 01:28:35,248
+If it was up to me,
+we'd already be on our way.
+
+1310
+01:28:35,400 --> 01:28:37,482
+But it is, though,
+isn't it? Up to you.
+
+1311
+01:28:38,080 --> 01:28:39,161
+(CHUCKLES) Not this time.
+
+1312
+01:28:39,320 --> 01:28:42,290
+This is something NASA
+expressly rejected.
+
+1313
+01:28:43,120 --> 01:28:44,884
+We're talking about
+mutiny here,
+
+1314
+01:28:44,960 --> 01:28:46,405
+which is not a word
+that I take lightly.
+
+1315
+01:28:46,560 --> 01:28:49,131
+So we do this together
+or not at all.
+
+1316
+01:28:49,280 --> 01:28:52,250
+And before you answer,
+consider the consequences.
+
+1317
+01:28:52,400 --> 01:28:55,449
+If we mess up the supply
+rendezvous, we die.
+
+1318
+01:28:55,640 --> 01:28:58,405
+If we mess up the Earth
+gravity assist, we die.
+
+1319
+01:28:58,600 --> 01:29:01,649
+If we do everything
+perfectly...
+
+1320
+01:29:01,800 --> 01:29:04,929
+we add 533 days
+to our mission.
+
+1321
+01:29:05,080 --> 01:29:08,971
+533 more days before
+we see our families again.
+
+1322
+01:29:09,120 --> 01:29:13,648
+533 days of unplanned
+space travel...
+
+1323
+01:29:13,800 --> 01:29:15,370
+where anything could go wrong.
+
+1324
+01:29:15,520 --> 01:29:18,922
+If it's mission
+critical, we die.
+
+1325
+01:29:19,760 --> 01:29:20,807
+Sign me up.
+
+1326
+01:29:21,000 --> 01:29:22,445
+All right, cowboy,
+slow down.
+
+1327
+01:29:22,600 --> 01:29:24,284
+You and I, we're military.
+
+1328
+01:29:24,440 --> 01:29:26,124
+Chances are, we go home,
+they'll court martial us.
+
+1329
+01:29:26,200 --> 01:29:27,201
+Yeah, there's that.
+
+1330
+01:29:27,280 --> 01:29:28,406
+LEWIS: And for the rest
+of you guys...
+
+1331
+01:29:28,480 --> 01:29:31,404
+I guarantee they will never
+send you back up here again.
+
+1332
+01:29:31,480 --> 01:29:35,963
+Good. So, if we go
+for it, how would it work?
+
+1333
+01:29:36,120 --> 01:29:37,690
+I plot the course
+and execute it.
+
+1334
+01:29:37,840 --> 01:29:39,126
+JOHANSSEN: Remote override.
+
+1335
+01:29:39,280 --> 01:29:40,441
+They could take
+over the Hermes
+
+1336
+01:29:40,560 --> 01:29:41,800
+from Mission Control.
+
+1337
+01:29:43,000 --> 01:29:44,968
+LEWIS: Can you disable it?
+
+1338
+01:29:45,120 --> 01:29:47,202
+Hermes has four redundant
+flight computers...
+
+1339
+01:29:47,400 --> 01:29:49,687
+each connected to three
+redundant comm systems.
+
+1340
+01:29:49,840 --> 01:29:51,080
+We can't shut down
+the comms
+
+1341
+01:29:51,160 --> 01:29:52,685
+because we'd lose
+telemetry and guidance.
+
+1342
+01:29:52,840 --> 01:29:54,410
+And we can't shut down
+the computers
+
+1343
+01:29:54,480 --> 01:29:56,164
+because we need
+to run the ship.
+
+1344
+01:29:56,320 --> 01:29:59,642
+I'd have to disable remote
+override on each system.
+
+1345
+01:29:59,800 --> 01:30:01,723
+It's part of the OS, I'd have
+to jump over the code.
+
+1346
+01:30:01,880 --> 01:30:04,531
+Okay, but, like, in English,
+what would that mean?
+
+1347
+01:30:06,560 --> 01:30:07,800
+I can do it.
+
+1348
+01:30:08,840 --> 01:30:09,887
+Great.
+
+1349
+01:30:11,520 --> 01:30:13,045
+Well, it has
+to be unanimous.
+
+1350
+01:30:13,840 --> 01:30:18,482
+If we do this, it'll be
+over 900 days of space.
+
+1351
+01:30:20,840 --> 01:30:24,242
+That's more than enough
+space for one life...
+
+1352
+01:30:25,080 --> 01:30:26,320
+so,yes.
+
+1353
+01:30:26,840 --> 01:30:28,205
+I vote yes.
+
+1354
+01:30:30,520 --> 01:30:32,045
+Let's go get him.
+
+1355
+01:30:34,920 --> 01:30:35,921
+Johanssen?
+
+1356
+01:30:36,600 --> 01:30:37,601
+Yes.
+
+1357
+01:30:38,000 --> 01:30:39,126
+Yeah!
+(ALL CHEERING)
+
+1358
+01:30:39,360 --> 01:30:40,361
+(APPLAUSE)
+
+1359
+01:30:41,760 --> 01:30:44,366
+Got an unscheduled status
+update from Hermes.
+
+1360
+01:30:44,520 --> 01:30:45,521
+BRENDAN:
+Roger. Read it out.
+
+1361
+01:30:45,680 --> 01:30:48,365
+Message reads,
+"Houston, please be advised.
+
+1362
+01:30:48,520 --> 01:30:50,363
+"Rich Purnell
+is a steely-eyed missile man."
+
+1363
+01:30:50,440 --> 01:30:51,441
+What?
+
+1364
+01:30:51,520 --> 01:30:52,965
+GUIDANCE TECHNICIAN:
+Flight, Guidance.
+
+1365
+01:30:53,120 --> 01:30:54,929
+Hermes is off-course.
+
+1366
+01:30:55,080 --> 01:30:56,366
+CAPCOM, advise Hermes
+they're drifting.
+
+1367
+01:30:56,440 --> 01:30:58,044
+Guidance, get
+a correction ready.
+
+1368
+01:30:58,200 --> 01:30:59,167
+GUIDANCE TECHNICIAN:
+Negative, Flight,
+
+1369
+01:30:59,240 --> 01:31:00,890
+it's not drift.
+They've adjusted course.
+
+1370
+01:31:01,040 --> 01:31:02,201
+What the hell?
+
+1371
+01:31:02,360 --> 01:31:05,603
+Telemetry, any chance this is
+instrumentation failure?
+
+1372
+01:31:05,760 --> 01:31:07,250
+Negative, Flight.
+
+1373
+01:31:07,440 --> 01:31:08,521
+Guidance, work at
+how long they can stay
+
+1374
+01:31:08,600 --> 01:31:10,125
+on this course
+before it's irreversible.
+
+1375
+01:31:10,280 --> 01:31:11,884
+GUIDANCE TECHNICIAN: Working
+on that now, Flight.
+
+1376
+01:31:12,040 --> 01:31:13,451
+(WHISPERS) Hey.
+Who's Rich Purnell?
+
+1377
+01:31:14,280 --> 01:31:15,281
+Idunno.
+
+1378
+01:31:15,920 --> 01:31:17,888
+Will somebody find out
+who the hell Rich Purnell is?
+
+1379
+01:31:18,600 --> 01:31:20,568
+SANDERS: Annie will go before
+the media this morning...
+
+1380
+01:31:20,720 --> 01:31:22,290
+and inform them
+of NASA's decision
+
+1381
+01:31:22,400 --> 01:31:24,562
+to reroute
+the Hermes to Mars.
+
+1382
+01:31:25,400 --> 01:31:27,084
+Sounds like a smart move.
+
+1383
+01:31:28,080 --> 01:31:30,162
+Considering the circumstances.
+
+1384
+01:31:30,920 --> 01:31:35,482
+Whoever gave them the maneuver
+only passed along information.
+
+1385
+01:31:35,640 --> 01:31:37,449
+Crew made the decision
+on their own.
+
+1386
+01:31:39,240 --> 01:31:41,083
+You may have
+killed them, Mitch.
+
+1387
+01:31:43,240 --> 01:31:44,969
+We're fighting the same war.
+
+1388
+01:31:45,120 --> 01:31:46,565
+Every time
+something goes wrong,
+
+1389
+01:31:46,640 --> 01:31:48,244
+the world forgets why we fly.
+
+1390
+01:31:48,440 --> 01:31:50,010
+I'm trying
+to keep us airborne.
+
+1391
+01:31:50,160 --> 01:31:52,083
+It's bigger than one person.
+
+1392
+01:31:54,120 --> 01:31:55,326
+No.
+
+1393
+01:31:55,760 --> 01:31:56,761
+It's not.
+
+1394
+01:31:58,080 --> 01:32:01,641
+When this is over,
+I'll expect your resignation.
+
+1395
+01:32:05,120 --> 01:32:06,281
+I understand.
+
+1396
+01:32:06,600 --> 01:32:08,967
+Bring our astronauts home.
+
+1397
+01:32:12,160 --> 01:32:14,891
+Every Ares mission requires
+three years of pre-supplies.
+
+1398
+01:32:15,040 --> 01:32:17,611
+So NASA decided a long time
+ago it's a lot easier...
+
+1399
+01:32:17,800 --> 01:32:19,006
+to send some
+of the stuff beforehand
+
+1400
+01:32:19,120 --> 01:32:20,360
+rather than bring it with us.
+
+1401
+01:32:20,520 --> 01:32:24,206
+So, as a result,
+the MAV for Ares 4...
+
+1402
+01:32:24,360 --> 01:32:25,441
+is already there
+
+1403
+01:32:25,560 --> 01:32:27,164
+at the Schiaparelli Crater,
+just waiting.
+
+1404
+01:32:27,520 --> 01:32:31,320
+So the plan is for me to use
+that to go into orbit...
+
+1405
+01:32:31,520 --> 01:32:34,490
+just as the Hermes
+is passing...
+
+1406
+01:32:34,640 --> 01:32:37,803
+and I guess they catch me?
+
+1407
+01:32:38,840 --> 01:32:40,524
+In space.
+
+1408
+01:32:43,680 --> 01:32:45,967
+So, I've got 200 sols
+to figure out...
+
+1409
+01:32:46,160 --> 01:32:48,811
+how to take everything here
+that's keeping me alive...
+
+1410
+01:32:49,000 --> 01:32:50,650
+the oxygenator,
+the water reclaimer,
+
+1411
+01:32:50,720 --> 01:32:52,245
+the atmospheric regulator...
+
+1412
+01:32:52,800 --> 01:32:54,643
+<i>bring that all with me.</i>
+
+1413
+01:32:54,800 --> 01:32:57,246
+<i>And luckily,
+I have the greatest minds</i>
+
+1414
+01:32:57,320 --> 01:32:58,481
+<i>on Planet Earth...</i>
+
+1415
+01:32:58,640 --> 01:33:01,723
+<i>really, all of the brainpower
+on the entire planet...</i>
+
+1416
+01:33:01,880 --> 01:33:03,689
+<i>helping me with this endeavor.</i>
+
+1417
+01:33:03,840 --> 01:33:05,365
+<i>And so far
+they've come up with...</i>
+
+1418
+01:33:05,520 --> 01:33:06,760
+<i>"Hey, why don't you
+drill holes</i>
+
+1419
+01:33:06,840 --> 01:33:08,001
+<i>"on the roof of your Rover...</i>
+
+1420
+01:33:08,160 --> 01:33:09,924
+<i>"and hit it as hard as you can
+with a rock?"</i>
+
+1421
+01:33:11,400 --> 01:33:13,402
+We're gonna get there.
+
+1422
+01:33:13,600 --> 01:33:15,523
+(STARMAN PLAYING)
+
+1423
+01:33:25,760 --> 01:33:26,761
+(GROANS)
+
+1424
+01:33:28,560 --> 01:33:30,130
+(SPEAKING MANDARIN)
+
+1425
+01:33:33,600 --> 01:33:35,489
+<i>Didn't know
+what time it was</i>
+
+1426
+01:33:35,560 --> 01:33:38,803
+<i>And the lights were low</i>
+
+1427
+01:33:38,880 --> 01:33:42,089
+<i>I leaned back on my radio</i>
+
+1428
+01:33:42,360 --> 01:33:44,124
+(ALL SPEAKING MAN DARIN)
+
+1429
+01:33:44,200 --> 01:33:46,885
+<i>Some cat was layin' down
+some rock 'n' roll</i>
+
+1430
+01:33:46,960 --> 01:33:48,371
+<i>Lotta soul, he said</i>
+
+1431
+01:33:51,000 --> 01:33:55,324
+<i>Then the loud sound
+did seem to fade</i>
+
+1432
+01:33:55,440 --> 01:33:59,650
+<i>Came back like a slow voice
+on a wave of phase</i>
+
+1433
+01:33:59,720 --> 01:34:05,045
+<i>That weren't no DJ
+That was hazy cosmic jive</i>
+
+1434
+01:34:08,760 --> 01:34:12,765
+<i>There's a starman
+waiting in the sky</i>
+
+1435
+01:34:12,920 --> 01:34:15,241
+<i>533 days longer?</i>
+
+1436
+01:34:15,400 --> 01:34:17,243
+<i>And you said yes to this?</i>
+
+1437
+01:34:17,400 --> 01:34:19,289
+He would have done the same
+for me. You know that.
+
+1438
+01:34:19,840 --> 01:34:21,251
+(BOY LAUGHING)
+
+1439
+01:34:25,840 --> 01:34:27,444
+Cheese. You do "cheese"?
+
+1440
+01:34:27,560 --> 01:34:28,607
+Cheese.
+(CAMERA CLICKS)
+
+1441
+01:34:30,400 --> 01:34:31,401
+He didn't do "cheese."
+
+1442
+01:34:31,600 --> 01:34:32,806
+Did he do "cheese"?
+
+1443
+01:34:34,320 --> 01:34:35,765
+(GRUNTING)
+
+1444
+01:34:40,920 --> 01:34:42,081
+<i>ROBERT". Hey, baby.</i>
+
+1445
+01:34:42,200 --> 01:34:43,167
+Hey-
+
+1446
+01:34:43,280 --> 01:34:44,930
+<i>I got something for you.</i>
+
+1447
+01:34:45,080 --> 01:34:46,525
+<i>Found it in the flea market.</i>
+
+1448
+01:34:46,680 --> 01:34:48,091
+<i>Original pressing.</i>
+
+1449
+01:34:49,160 --> 01:34:50,161
+LEWIS: No!
+
+1450
+01:34:50,440 --> 01:34:51,487
+(EXCLAIMS JOYFULLY)
+
+1451
+01:34:51,600 --> 01:34:52,681
+<i>Not a scratch.</i>
+
+1452
+01:34:52,840 --> 01:34:54,126
+I love it.
+
+1453
+01:34:54,280 --> 01:34:57,443
+All due respect
+to your CNSA protocol...
+
+1454
+01:34:57,600 --> 01:34:59,967
+but we haven't
+done things that way...
+
+1455
+01:35:00,120 --> 01:35:01,884
+<i>since Apollo 9.</i>
+
+1456
+01:35:01,960 --> 01:35:03,450
+(TRANSLATING INTO MAN DARIN)
+
+1457
+01:35:03,520 --> 01:35:04,521
+Did he get that?
+
+1458
+01:35:10,120 --> 01:35:14,569
+<i>Look out your window
+loan see his light</i>
+
+1459
+01:35:14,640 --> 01:35:17,530
+<i>If we can sparkle
+He may land tonight</i>
+
+1460
+01:35:19,160 --> 01:35:20,969
+TECHNICIAN: Mmm-hmm.
+Yeah. Mmm-hmm.
+
+1461
+01:35:24,040 --> 01:35:25,041
+Mmm-hmm.
+
+1462
+01:35:27,120 --> 01:35:28,121
+Oh!
+
+1463
+01:35:28,240 --> 01:35:32,609
+<i>There's a starman
+waiting in the sky</i>
+
+1464
+01:35:32,680 --> 01:35:34,444
+(KIDS LAUGHING)
+
+1465
+01:35:34,520 --> 01:35:35,760
+<i>He'd like to
+come and meet us</i>
+
+1466
+01:35:35,840 --> 01:35:37,569
+<i>But he thinks
+he'd blow our minds</i>
+
+1467
+01:35:37,800 --> 01:35:41,088
+<i>There's a starman
+waiting in the sky</i>
+
+1468
+01:35:41,360 --> 01:35:43,931
+(COUNTING DOWN IN MANDARIN
+ON PA)
+
+1469
+01:35:44,160 --> 01:35:45,161
+<i>He's told us not to blow it</i>
+
+1470
+01:35:45,240 --> 01:35:47,208
+<i>'Cause he knows
+it's all worthwhile</i>
+
+1471
+01:35:47,320 --> 01:35:50,483
+<i>He told me
+Let the children lose it</i>
+
+1472
+01:35:50,560 --> 01:35:54,326
+<i>Let the children use it
+Let all the children boogie</i>
+
+1473
+01:35:54,480 --> 01:35:55,766
+(ALL CHEERING)
+
+1474
+01:35:56,040 --> 01:35:59,044
+<i>There's a starman
+waiting in the sky</i>
+
+1475
+01:35:59,520 --> 01:36:02,000
+<i>He'd like to
+come and meet us</i>
+
+1476
+01:36:02,080 --> 01:36:04,128
+<i>But he thinks
+he'd blow our minds</i>
+
+1477
+01:36:04,200 --> 01:36:08,683
+<i>There's a starman
+waiting in the sky</i>
+
+1478
+01:36:09,200 --> 01:36:11,043
+<i>He's told us not to blow it</i>
+
+1479
+01:36:11,200 --> 01:36:13,521
+<i>'Cause he knows
+it's all worthwhile</i>
+
+1480
+01:36:13,720 --> 01:36:16,451
+<i>He told me
+Let the children lose it</i>
+
+1481
+01:36:17,360 --> 01:36:18,885
+<i>Let the children use it</i>
+
+1482
+01:36:19,680 --> 01:36:22,206
+<i>Let all the children boogie</i>
+
+1483
+01:36:31,200 --> 01:36:36,200
+<i>La, la, Ia, Ia,
+la, la, la, la</i>
+
+1484
+01:37:14,760 --> 01:37:16,091
+(AIRLOCK HISSING)
+
+1485
+01:38:14,800 --> 01:38:17,485
+<i>WATNEY: I've been thinking
+about laws on</i> Mars.
+
+1486
+01:38:18,160 --> 01:38:19,366
+<i>There's an
+international treaty</i>
+
+1487
+01:38:19,480 --> 01:38:20,641
+<i>saying no country
+can lay claim...</i>
+
+1488
+01:38:20,800 --> 01:38:22,211
+<i>to anything that's
+not on Earth.</i>
+
+1489
+01:38:22,360 --> 01:38:23,441
+<i>And by another treaty,</i>
+
+1490
+01:38:23,520 --> 01:38:25,488
+<i>if you're not in any
+country's territory...</i>
+
+1491
+01:38:25,640 --> 01:38:26,801
+<i>maritime law applies.</i>
+
+1492
+01:38:27,000 --> 01:38:29,890
+<i>So Mars
+is international waters.</i>
+
+1493
+01:38:30,640 --> 01:38:34,008
+<i>Now, NASA is an American
+non-military organization.</i>
+
+1494
+01:38:34,160 --> 01:38:35,161
+<i>It owns the Hab.</i>
+
+1495
+01:38:35,320 --> 01:38:38,005
+<i>But the second I walk outside,
+I'm in international waters.</i>
+
+1496
+01:38:38,160 --> 01:38:39,491
+<i>So here's the cool part.</i>
+
+1497
+01:38:39,680 --> 01:38:41,205
+<i>I'm about to leave for
+the Schiaparelli Crater...</i>
+
+1498
+01:38:41,360 --> 01:38:43,249
+where I'm gonna commandeer
+the Ares <i>4</i> lander.
+
+1499
+01:38:43,400 --> 01:38:46,449
+Nobody explicitly gave me
+permission to do this...
+
+1500
+01:38:46,600 --> 01:38:48,602
+<i>and they can't
+until I'm on board the Ares</i> 4.
+
+1501
+01:38:49,000 --> 01:38:51,367
+<i>So that means I'm gonna be
+taking a craft over...</i>
+
+1502
+01:38:51,520 --> 01:38:53,727
+<i>in international waters
+without permission.</i>
+
+1503
+01:38:53,880 --> 01:38:57,680
+<i>Which, by definition,
+makes me a pirate.</i>
+
+1504
+01:38:58,680 --> 01:39:02,446
+<i>Mark Watney, Space Pirate.</i>
+
+1505
+01:39:31,920 --> 01:39:33,604
+A Space Pirate.
+
+1506
+01:40:34,440 --> 01:40:38,161
+<i>Everywhere I go,
+I'm the first.</i>
+
+1507
+01:40:38,840 --> 01:40:40,604
+<i>It's a strange feeling.</i>
+
+1508
+01:40:41,280 --> 01:40:42,850
+<i>Step outside the Rover...</i>
+
+1509
+01:40:43,000 --> 01:40:45,128
+<i>first guy to be there.</i>
+
+1510
+01:40:45,280 --> 01:40:48,443
+<i>Climb that hill,
+first guy to do that.</i>
+
+1511
+01:40:49,480 --> 01:40:51,323
+<i>Four and a half
+billion years...</i>
+
+1512
+01:40:51,520 --> 01:40:53,170
+<i>nobody here.</i>
+
+1513
+01:40:53,720 --> 01:40:56,485
+<i>And now, me.</i>
+
+1514
+01:40:57,800 --> 01:41:01,327
+<i>I'm the first person to be
+alone on an entire planet.</i>
+
+1515
+01:41:12,480 --> 01:41:14,244
+(INDISTINCT RADIO CHATTER)
+
+1516
+01:41:16,480 --> 01:41:17,845
+How's he doing?
+
+1517
+01:41:18,360 --> 01:41:19,407
+<i>(CLEARS T HRO AT)</i>
+
+1518
+01:41:19,480 --> 01:41:21,209
+So far, so good.
+
+1519
+01:41:21,360 --> 01:41:23,522
+He's sticking to schedule.
+
+1520
+01:41:23,720 --> 01:41:26,166
+Drives for four hours
+before noon...
+
+1521
+01:41:26,840 --> 01:41:28,046
+lays the solar panels,
+
+1522
+01:41:28,160 --> 01:41:29,924
+waits 13 hours for them
+to recharge...
+
+1523
+01:41:30,080 --> 01:41:34,449
+and sleeps somewhere in there
+and then starts again.
+
+1524
+01:41:36,680 --> 01:41:37,681
+How's he doing?
+
+1525
+01:41:39,880 --> 01:41:42,724
+He asked us to call him
+Captain Blondebeard.
+
+1526
+01:41:44,720 --> 01:41:46,563
+Well, technically, Mars
+would be under maritime...
+
+1527
+01:41:46,720 --> 01:41:48,210
+Yeah, I know.
+He explained it to us.
+
+1528
+01:41:50,280 --> 01:41:51,281
+Where is he?
+
+1529
+01:41:52,560 --> 01:41:53,846
+There.
+Okay.
+
+1530
+01:41:54,160 --> 01:41:55,161
+Here.
+
+1531
+01:41:55,640 --> 01:41:56,641
+Okay-
+
+1532
+01:43:09,600 --> 01:43:10,601
+(BEEPING)
+
+1533
+01:43:25,440 --> 01:43:26,441
+(BEEPS)
+
+1534
+01:43:41,240 --> 01:43:43,447
+<i>Okay, I'm gonna start
+by stating for the record</i>
+
+1535
+01:43:43,520 --> 01:43:44,885
+<i>that you're not
+gonna like this.</i>
+
+1536
+01:43:45,200 --> 01:43:46,326
+VINCENT: Oh, yeah?
+
+1537
+01:43:47,040 --> 01:43:49,611
+Yeah, the problem
+is the intercept velocity.
+
+1538
+01:43:49,760 --> 01:43:54,368
+The Hermes, well...
+It can't enter Mars' orbit.
+
+1539
+01:43:54,520 --> 01:43:57,808
+Otherwise, they'll never have
+enough fuel to make it home.
+
+1540
+01:43:58,000 --> 01:44:00,082
+The MAV, that was
+only designed
+
+1541
+01:44:00,160 --> 01:44:02,481
+to get to low Mars orbit.
+
+1542
+01:44:02,640 --> 01:44:06,645
+So in order for Mark to escape
+Mars' gravity entirely...
+
+1543
+01:44:06,840 --> 01:44:08,205
+and to intercept the Hermes...
+
+1544
+01:44:08,360 --> 01:44:10,124
+He has to be going fast.
+Exactly.
+
+1545
+01:44:10,280 --> 01:44:12,521
+<i>Which means we need to make
+the MA V lighter.</i>
+
+1546
+01:44:12,720 --> 01:44:15,200
+<i>A lot lighter.
+5,000 kilograms lighter.</i>
+
+1547
+01:44:15,480 --> 01:44:16,606
+You can do that, right?
+
+1548
+01:44:16,760 --> 01:44:18,569
+<i>There's some gimmes
+right off the bat.</i>
+
+1549
+01:44:18,720 --> 01:44:20,245
+<i>The design presumes
+500 kilograms</i>
+
+1550
+01:44:20,320 --> 01:44:21,651
+<i>of Martian soil and samples.</i>
+
+1551
+01:44:22,000 --> 01:44:23,445
+Obviously we won't do that.
+
+1552
+01:44:23,720 --> 01:44:27,361
+And there's just one
+passenger instead of six.
+
+1553
+01:44:27,520 --> 01:44:30,205
+With suits and gear,
+that's another 500?
+
+1554
+01:44:30,360 --> 01:44:32,249
+Ditch the life support,
+don't need it.
+
+1555
+01:44:32,400 --> 01:44:34,209
+And we'll get Mark to wear
+his EVA suit the whole trip.
+
+1556
+01:44:34,360 --> 01:44:36,044
+Wait a second.
+If he's in his EVA suit,
+
+1557
+01:44:36,120 --> 01:44:37,485
+how is he gonna
+operate the controls?
+
+1558
+01:44:37,560 --> 01:44:39,722
+Well, he won't.
+
+1559
+01:44:39,880 --> 01:44:43,521
+Martinez will pilot the MAV
+remotely from the Hermes.
+
+1560
+01:44:43,680 --> 01:44:46,286
+We've never had a manned ship
+controlled remotely before.
+
+1561
+01:44:47,840 --> 01:44:50,161
+(SIGHS) But I am excited about
+
+1562
+01:44:50,240 --> 01:44:52,242
+the opportunities
+that affords.
+
+1563
+01:44:52,400 --> 01:44:54,846
+If we go remote, we can lose
+the control panels,
+
+1564
+01:44:54,920 --> 01:44:56,729
+the secondary and tertiary
+comm systems.
+
+1565
+01:44:56,880 --> 01:44:57,927
+<i>VINCENT: Wait</i> a <i>second.</i>
+
+1566
+01:44:58,000 --> 01:45:01,925
+<i>You want a remote-controlled
+ascent with no backup comms?</i>
+
+1567
+01:45:04,040 --> 01:45:06,691
+He's not even got to
+the bad stuff yet, Vincent.
+
+1568
+01:45:06,840 --> 01:45:08,171
+Let's skip to the bad stuff!
+
+1569
+01:45:08,560 --> 01:45:10,403
+We need to remove
+the nose airlock,
+
+1570
+01:45:10,480 --> 01:45:13,290
+the windows,
+and Hull Panel 19.
+
+1571
+01:45:14,880 --> 01:45:16,211
+You want to take
+the front of the ship off?
+
+1572
+01:45:16,360 --> 01:45:17,486
+BRUCE: Sure.
+
+1573
+01:45:17,640 --> 01:45:20,041
+<i>The nose airlock
+alone is 400 kilograms.</i>
+
+1574
+01:45:20,640 --> 01:45:21,880
+You want to send
+a man into space
+
+1575
+01:45:22,000 --> 01:45:23,001
+without the front of his ship?
+
+1576
+01:45:23,160 --> 01:45:24,321
+<i>Well, no.</i>
+
+1577
+01:45:25,320 --> 01:45:28,483
+<i>We're gonna have him cover it
+with Hab canvas.</i>
+
+1578
+01:45:29,320 --> 01:45:32,961
+<i>Look, the hull's mostly there
+to keep the air in.</i>
+
+1579
+01:45:33,120 --> 01:45:34,645
+Mars' atmosphere is so thin,
+
+1580
+01:45:34,720 --> 01:45:36,085
+you don't need
+a lot of streamlining.
+
+1581
+01:45:36,240 --> 01:45:37,890
+By the time
+the ship's going fast enough
+
+1582
+01:45:37,960 --> 01:45:39,610
+for air resistance
+to matter...
+
+1583
+01:45:39,760 --> 01:45:42,206
+it'll be high enough that
+there's practically no air.
+
+1584
+01:45:42,360 --> 01:45:44,931
+You wanna send him into
+space under a tarp.
+
+1585
+01:45:45,080 --> 01:45:46,445
+<i>Yes.</i>
+
+1586
+01:45:47,240 --> 01:45:48,969
+<i>Can I go on?</i>
+
+1587
+01:45:49,120 --> 01:45:50,201
+No.
+
+1588
+01:45:56,600 --> 01:45:59,046
+You think he means it like...
+
+1589
+01:45:59,200 --> 01:46:00,804
+"Are you kidding me?"
+
+1590
+01:46:01,240 --> 01:46:02,287
+You know?
+Mmm-hmm.
+
+1591
+01:46:02,600 --> 01:46:05,729
+Or like, "Are you kidding me?"
+
+1592
+01:46:06,480 --> 01:46:08,244
+I think it might be
+the second one.
+
+1593
+01:46:08,400 --> 01:46:09,731
+Really?
+Uh-huh.
+
+1594
+01:46:10,040 --> 01:46:11,451
+Could be the first way.
+
+1595
+01:46:12,320 --> 01:46:13,481
+"Are you kidding me?"
+
+1596
+01:46:14,440 --> 01:46:16,124
+Yeah, it could be
+the first way.
+
+1597
+01:46:40,360 --> 01:46:42,806
+<i>WATNEY: I know
+what they're doing.</i>
+
+1598
+01:46:43,600 --> 01:46:45,648
+I know exactly
+what they're doing.
+
+1599
+01:46:46,320 --> 01:46:48,049
+They just keep repeating...
+
+1600
+01:46:48,200 --> 01:46:51,204
+"Go faster than any man in
+the history of space travel."
+
+1601
+01:46:51,480 --> 01:46:52,527
+<i>Like that's a good thing.</i>
+
+1602
+01:46:52,680 --> 01:46:55,001
+<i>Like it'll distract me from
+how insane their plan is.</i>
+
+1603
+01:46:56,440 --> 01:46:57,930
+Yeah, I get to go
+faster than any man
+
+1604
+01:46:58,000 --> 01:47:00,002
+in the history
+of space travel...
+
+1605
+01:47:00,160 --> 01:47:03,050
+because you are launching me
+in a convertible.
+
+1606
+01:47:03,200 --> 01:47:04,850
+Actually it's worse than that
+
+1607
+01:47:04,920 --> 01:47:06,763
+because I won't even be able
+to control the thing.
+
+1608
+01:47:06,960 --> 01:47:09,725
+<i>And by the way, physicists,</i>
+
+1609
+01:47:09,800 --> 01:47:12,531
+<i>when describing things
+like acceleration...</i>
+
+1610
+01:47:12,680 --> 01:47:14,728
+<i>do not use the word "fast."</i>
+
+1611
+01:47:15,600 --> 01:47:17,682
+So they're only doing that
+in the hopes
+
+1612
+01:47:17,760 --> 01:47:19,967
+that I won't raise
+any objections...
+
+1613
+01:47:20,960 --> 01:47:23,088
+to this lunacy.
+
+1614
+01:47:23,880 --> 01:47:25,405
+<i>Because I like the way</i>
+
+1615
+01:47:25,480 --> 01:47:28,450
+<i>"fastest man in the history
+of space travel" sounds.</i>
+
+1616
+01:47:30,240 --> 01:47:32,288
+<i>I do like the way it sounds.</i>
+
+1617
+01:47:33,400 --> 01:47:35,289
+<i>I mean, I like it a lot.</i>
+
+1618
+01:47:37,760 --> 01:47:39,888
+<i>I'm not gonna tell them that.</i>
+
+1619
+01:47:41,600 --> 01:47:43,125
+(SIGHS)
+
+1620
+01:47:45,960 --> 01:47:47,007
+<i>Okay-</i>
+
+1621
+01:47:48,640 --> 01:47:50,404
+<i>Let's do this.</i>
+
+1622
+01:47:50,680 --> 01:47:52,569
+<i>(WATERLOO PLAYING)</i>
+
+1623
+01:47:56,160 --> 01:47:57,650
+<i>My, my</i>
+
+1624
+01:47:57,840 --> 01:48:01,811
+<i>At Waterloo
+Napoleon did surrender</i>
+
+1625
+01:48:02,760 --> 01:48:03,761
+<i>Oh, yeah</i>
+
+1626
+01:48:04,440 --> 01:48:09,970
+<i>And I have met my destiny
+in quite a similar way</i>
+
+1627
+01:48:11,040 --> 01:48:16,843
+<i>The history book on the shelf
+is always repeating itself</i>
+
+1628
+01:48:19,680 --> 01:48:21,011
+<i>Waterloo</i>
+
+1629
+01:48:21,080 --> 01:48:24,004
+<i>I was defeated
+You won the war</i>
+
+1630
+01:48:25,320 --> 01:48:26,685
+Come on.
+
+1631
+01:48:26,960 --> 01:48:30,442
+<i>Waterloo, promise to
+love you forevermore</i>
+
+1632
+01:48:33,520 --> 01:48:36,888
+<i>Waterloo
+Couldn't escape if I wanted to</i>
+
+1633
+01:48:40,080 --> 01:48:41,241
+<i>Waterloo</i>
+
+1634
+01:48:41,320 --> 01:48:43,004
+<i>Knowing my fate
+is to be with you</i>
+
+1635
+01:48:43,680 --> 01:48:46,126
+<i>Oh, oh, oh, oh, Waterloo</i>
+
+1636
+01:48:47,040 --> 01:48:49,646
+<i>Finally facing my Waterloo</i>
+
+1637
+01:48:53,920 --> 01:48:54,967
+<i>My, my</i>
+
+1638
+01:48:56,200 --> 01:48:58,851
+<i>I tried to hold you back</i>
+
+1639
+01:48:58,920 --> 01:49:00,649
+<i>But you were stronger</i>
+
+1640
+01:49:01,280 --> 01:49:02,281
+<i>Oh, yeah</i>
+
+1641
+01:49:03,120 --> 01:49:07,808
+<i>And now it seems my only
+chance is giving up the fight</i>
+
+1642
+01:49:09,720 --> 01:49:12,121
+<i>And how could I ever refuse?</i>
+
+1643
+01:49:12,840 --> 01:49:15,684
+<i>I feel like I
+win when I lose</i>
+
+1644
+01:49:17,920 --> 01:49:19,251
+<i>Waterloo</i>
+
+1645
+01:49:19,760 --> 01:49:22,411
+<i>I was defeated
+You won the war</i>
+
+1646
+01:49:24,560 --> 01:49:26,085
+<i>Waterloo</i>
+
+1647
+01:49:26,640 --> 01:49:29,120
+<i>Promise to love you
+forevermore</i>
+
+1648
+01:49:31,160 --> 01:49:32,161
+<i>Waterloo</i>
+
+1649
+01:49:32,640 --> 01:49:35,086
+<i>Couldn't escape
+if I wanted to</i>
+
+1650
+01:49:37,000 --> 01:49:38,047
+(STRAINING)
+
+1651
+01:49:38,160 --> 01:49:39,286
+<i>Waterloo</i>
+
+1652
+01:49:39,360 --> 01:49:42,125
+<i>Knowing my fate
+is to be with you</i>
+
+1653
+01:49:42,800 --> 01:49:44,723
+<i>Oh, oh, oh, oh, Waterloo</i>
+
+1654
+01:49:45,840 --> 01:49:48,366
+<i>Finally facing my Waterloo</i>
+
+1655
+01:49:49,720 --> 01:49:51,643
+<i>Ooh, Waterloo</i>
+
+1656
+01:49:52,720 --> 01:49:54,802
+<i>Knowing my fate
+is to be with you</i>
+
+1657
+01:49:55,600 --> 01:49:58,763
+<i>Oh, oh, oh, oh, Waterloo</i>
+
+1658
+01:50:21,480 --> 01:50:23,164
+LEWIS: <i>Beck, Vogel,
+I want you guys in Airlock 2</i>
+
+1659
+01:50:23,240 --> 01:50:24,571
+<i>with the outer door open...</i>
+
+1660
+01:50:25,680 --> 01:50:26,681
+<i>before the MAV even launches.
+VOGEL:</i> Okay.
+
+1661
+01:50:26,840 --> 01:50:30,731
+LEWIS: <i>Martinez flies the MA V,
+Johanssen sysops the ascent.</i>
+
+1662
+01:50:30,880 --> 01:50:32,450
+<i>Once we hit intercept,</i>
+
+1663
+01:50:32,560 --> 01:50:34,688
+<i>it's Beck's job
+to go get Watney.</i>
+
+1664
+01:50:34,760 --> 01:50:35,761
+JOHANSSEN: We're ready.
+
+1665
+01:50:35,920 --> 01:50:37,081
+What's the intercept plan?
+
+1666
+01:50:38,040 --> 01:50:40,361
+We finished attaching the
+tethers into one long line.
+
+1667
+01:50:40,520 --> 01:50:42,522
+It's 214 meters long.
+
+1668
+01:50:42,680 --> 01:50:43,806
+And I'll have the MMU,
+
+1669
+01:50:43,880 --> 01:50:45,006
+so moving around
+should be easy.
+
+1670
+01:50:45,400 --> 01:50:47,323
+How fast a relative velocity
+can you handle?
+
+1671
+01:50:48,400 --> 01:50:50,880
+I can grab the MAV
+at 5 meters per second.
+
+1672
+01:50:51,080 --> 01:50:53,162
+10 is likejumping
+onto a moving train.
+
+1673
+01:50:53,320 --> 01:50:55,209
+So any more than that
+and I might miss.
+
+1674
+01:50:55,440 --> 01:50:57,283
+Well, we may have some leeway.
+
+1675
+01:50:58,920 --> 01:51:00,604
+The launch takes 12 minutes.
+
+1676
+01:51:00,880 --> 01:51:04,009
+And it'll be 52 minutes
+before intercept.
+
+1677
+01:51:04,280 --> 01:51:06,567
+Once Mark's
+engine shuts off...
+
+1678
+01:51:06,760 --> 01:51:09,161
+we'll know our intercept point
+and velocity.
+
+1679
+01:51:09,320 --> 01:51:10,845
+Vogel, you're Beck's backup.
+
+1680
+01:51:11,000 --> 01:51:13,685
+Everything goes well, you pull
+them on board with the tether.
+
+1681
+01:51:13,840 --> 01:51:16,605
+If anything goes wrong,
+you go out after him.
+
+1682
+01:51:16,760 --> 01:51:17,841
+VOGEL: Yep.
+
+1683
+01:51:17,920 --> 01:51:18,921
+LEWIS: Okay.
+
+1684
+01:51:21,240 --> 01:51:23,481
+Let's go get our boy.
+
+1685
+01:52:24,600 --> 01:52:26,762
+REPORTER: There's a mood
+of tension and anxiety here,
+
+1686
+01:52:26,840 --> 01:52:28,171
+outside Johnson Space Center.
+
+1687
+01:52:28,320 --> 01:52:29,321
+As you can see,
+
+1688
+01:52:29,400 --> 01:52:31,721
+many people
+have gathered here...
+
+1689
+01:52:31,880 --> 01:52:33,211
+to see whether or not
+
+1690
+01:52:33,280 --> 01:52:35,965
+the mission to retrieve Mark
+Watney will be a success.
+
+1691
+01:52:36,280 --> 01:52:38,089
+<i>They've had
+some contact with him,</i>
+
+1692
+01:52:38,160 --> 01:52:40,128
+<i>but it hasn't been very much.</i>
+
+1693
+01:52:40,200 --> 01:52:41,531
+<i>We have to remind our viewers</i>
+
+1694
+01:52:41,600 --> 01:52:43,284
+<i>that we're watching this
+as it unfolds.</i>
+
+1695
+01:52:43,480 --> 01:52:45,244
+<i>So we'll try
+and keep you up-to-date</i>
+
+1696
+01:52:45,360 --> 01:52:47,203
+<i>as to what exactly
+is going on.</i>
+
+1697
+01:52:47,400 --> 01:52:51,041
+<i>Let's listen in to NASA making
+contact with Mark Watney.</i>
+
+1698
+01:52:51,240 --> 01:52:52,446
+<i>Let's listen in.</i>
+
+1699
+01:52:59,120 --> 01:53:01,407
+If something goes wrong,
+what can Mission Control do?
+
+1700
+01:53:01,840 --> 01:53:03,968
+Not a damn thing.
+
+1701
+01:53:04,480 --> 01:53:06,289
+It's all happening
+12 light-minutes away...
+
+1702
+01:53:06,440 --> 01:53:08,124
+which means it takes
+24 minutes for them
+
+1703
+01:53:08,200 --> 01:53:10,168
+to get the answer to any
+question they ask.
+
+1704
+01:53:11,280 --> 01:53:13,328
+The whole launch
+is 12 minutes...
+
+1705
+01:53:15,040 --> 01:53:16,690
+so they're on their own.
+
+1706
+01:53:21,360 --> 01:53:22,691
+(russme IN PAIN)
+
+1707
+01:53:34,200 --> 01:53:35,565
+(WHIRRING)
+
+1708
+01:54:11,920 --> 01:54:13,888
+(WOMAN SPEAKING
+MANDARIN ON PA)
+
+1709
+01:54:21,880 --> 01:54:22,881
+<i>REPORTER: ...just how long
+Mark has been</i>
+
+1710
+01:54:23,000 --> 01:54:24,081
+<i>completely alone on Mars.</i>
+
+1711
+01:54:24,160 --> 01:54:27,130
+<i>We're talking to a psychology
+expert later to discuss...</i>
+
+1712
+01:54:49,880 --> 01:54:51,484
+J O <i>HAN</i> S S E <i>N: Fuel pressure,
+green.</i>
+
+1713
+01:54:51,840 --> 01:54:54,002
+Engine alignment, perfect.
+
+1714
+01:54:54,160 --> 01:54:55,446
+<i>Communications, five by five.</i>
+
+1715
+01:54:57,200 --> 01:54:59,965
+<i>We are ready for pre-ﬂight
+checklist, Commander.</i>
+
+1716
+01:55:00,160 --> 01:55:02,731
+LEWIS: <i>Mission Control,
+this is Hermes actual.</i>
+
+1717
+01:55:02,800 --> 01:55:04,802
+<i>We will proceed on schedule.</i>
+
+1718
+01:55:05,000 --> 01:55:07,002
+<i>We are T-minus 2 minutes,
+10 seconds</i>
+
+1719
+01:55:07,080 --> 01:55:08,491
+<i>to launch, by the mark.</i>
+
+1720
+01:55:09,720 --> 01:55:10,721
+About two minutes, Watney.
+
+1721
+01:55:10,920 --> 01:55:12,001
+<i>How you doing down there?</i>
+
+1722
+01:55:12,160 --> 01:55:13,366
+I'm good.
+
+1723
+01:55:14,200 --> 01:55:16,009
+I'm anxious to get up to you.
+
+1724
+01:55:16,520 --> 01:55:17,885
+Thanks for coming back for me.
+
+1725
+01:55:17,960 --> 01:55:18,961
+<i>LEWIS: Well, we're on it.</i>
+
+1726
+01:55:19,120 --> 01:55:20,849
+<i>Remember, you'll be pulling
+some serious G's,</i>
+
+1727
+01:55:20,920 --> 01:55:22,604
+<i>so it's okay to pass out.</i>
+
+1728
+01:55:22,760 --> 01:55:24,728
+You're in
+Martinez's hands now.
+
+1729
+01:55:25,400 --> 01:55:27,482
+Well, tell that asshole
+no barrel rolls.
+
+1730
+01:55:27,560 --> 01:55:28,561
+(LAUGHS)
+
+1731
+01:55:28,920 --> 01:55:30,206
+Copy that, MAV.
+
+1732
+01:55:30,680 --> 01:55:31,681
+<i>CAPCOM.</i>
+
+1733
+01:55:31,800 --> 01:55:32,767
+JOHANSSENI Go.
+
+1734
+01:55:32,840 --> 01:55:33,887
+LEWIS: Remote command.
+(C RYING)
+
+1735
+01:55:33,960 --> 01:55:34,927
+MARTINEZ: Go.
+
+1736
+01:55:35,000 --> 01:55:36,001
+<i>LEWIS: Recovery.</i>
+
+1737
+01:55:36,080 --> 01:55:37,081
+BECK: Go.
+
+1738
+01:55:37,200 --> 01:55:38,611
+<i>LEWIS: Secondary recovery.</i>
+
+1739
+01:55:38,680 --> 01:55:39,681
+VOGEL: Go-.
+
+1740
+01:55:39,800 --> 01:55:40,801
+Pilot.
+
+1741
+01:55:42,160 --> 01:55:43,161
+Go.
+
+1742
+01:55:43,280 --> 01:55:44,486
+<i>LEWIS: Pilot.</i>
+
+1743
+01:55:44,640 --> 01:55:45,766
+WATNEYI Go.
+(ALL CHEERING)
+
+1744
+01:55:45,920 --> 01:55:46,967
+MISSION CONTROL TECHNICIAN:
+<i>Copy.</i> We're go.
+
+1745
+01:55:48,120 --> 01:55:50,487
+LEWIS: <i>Mission Control,
+we are go for launch.</i>
+
+1746
+01:55:51,320 --> 01:55:52,526
+T-minus ten...
+
+1747
+01:55:52,640 --> 01:55:53,607
+nine...
+
+1748
+01:55:53,680 --> 01:55:54,681
+Main engine start.
+
+1749
+01:55:54,880 --> 01:55:56,006
+<i>JOHANSSEN". eight...</i>
+
+1750
+01:55:56,360 --> 01:55:57,361
+<i>SGVGH...</i>
+
+1751
+01:55:57,520 --> 01:55:59,170
+<i>Mooring clamps released.</i>
+
+1752
+01:55:59,320 --> 01:56:00,924
+About five seconds, Watney.
+Hang on.
+
+1753
+01:56:01,080 --> 01:56:02,764
+I'll see you in a few,
+Commander.
+
+1754
+01:56:03,040 --> 01:56:04,371
+JOHANSSEN: four...
+
+1755
+01:56:04,760 --> 01:56:06,046
+<i>three...</i>
+
+1756
+01:56:06,320 --> 01:56:07,526
+<i>two...</i>
+
+1757
+01:56:07,920 --> 01:56:08,967
+<i>one.</i>
+
+1758
+01:56:16,560 --> 01:56:17,686
+(BREATHING HEAVILY)
+
+1759
+01:56:45,240 --> 01:56:47,641
+JOHANSSEN: Velocity,
+741 meters per second.
+
+1760
+01:56:47,800 --> 01:56:49,768
+Altitude, 1350 meters.
+
+1761
+01:56:49,920 --> 01:56:51,081
+That's too low.
+
+1762
+01:56:51,240 --> 01:56:52,401
+It's fighting me.
+
+1763
+01:56:56,240 --> 01:56:59,483
+<i>LEWIS: (ECHOING)
+Watney, do you read?</i>
+
+1764
+01:56:59,560 --> 01:57:01,403
+(GROANING SOFTLY)
+
+1765
+01:57:05,480 --> 01:57:06,766
+<i>MARTINEZ: Booster
+separation complete.</i>
+
+1766
+01:57:06,920 --> 01:57:09,969
+Velocity, 850.
+Altitude, 1843.
+
+1767
+01:57:10,160 --> 01:57:11,366
+He's well below
+target altitude.
+
+1768
+01:57:11,520 --> 01:57:12,760
+How far below?
+
+1769
+01:57:13,280 --> 01:57:14,361
+JOHANSSEN: Checking.
+
+1770
+01:57:14,960 --> 01:57:16,166
+Watney.
+
+1771
+01:57:16,800 --> 01:57:17,801
+Do you read?
+
+1772
+01:57:18,080 --> 01:57:19,286
+BECK: <i>He's probably
+passed out.</i>
+
+1773
+01:57:19,440 --> 01:57:20,601
+<i>He pulled 12 g's
+on the ascent.</i>
+
+1774
+01:57:20,720 --> 01:57:21,960
+<i>Give him a few minutes.</i>
+
+1775
+01:57:22,120 --> 01:57:23,281
+LEWIS: Copy that.
+
+1776
+01:57:25,640 --> 01:57:26,971
+<i>JOHANSSEN: Main shutdown
+in three...</i>
+
+1777
+01:57:27,640 --> 01:57:29,210
+two, one...
+
+1778
+01:57:29,920 --> 01:57:31,001
+<i>shutdown.</i>
+
+1779
+01:57:32,560 --> 01:57:34,050
+MARTINEZ: <i>Back to
+automatic guidance.</i>
+
+1780
+01:57:35,000 --> 01:57:36,365
+<i>Shutdown confirmed.</i>
+
+1781
+01:57:38,840 --> 01:57:40,604
+<i>Fuel reserves depleted.</i>
+
+1782
+01:57:42,520 --> 01:57:43,681
+<i>LEWIS: Watney?</i>
+
+1783
+01:57:44,280 --> 01:57:45,486
+<i>Do you read?</i>
+
+1784
+01:57:46,480 --> 01:57:47,686
+<i>It seems there's some
+sort of problem</i>
+
+1785
+01:57:47,760 --> 01:57:49,171
+<i>with the transmission.</i>
+
+1786
+01:57:56,320 --> 01:57:57,890
+<i>JOHANSSEN:
+I have interval pings.</i>
+
+1787
+01:57:58,040 --> 01:58:00,088
+Intercept velocity will be
+11 meters per second.
+
+1788
+01:58:00,240 --> 01:58:02,004
+I can make that work.
+
+1789
+01:58:02,600 --> 01:58:04,967
+JOHANSSEN: Distance
+at intercept will be...
+
+1790
+01:58:05,400 --> 01:58:07,084
+We'll be 68 kilometers apart.
+
+1791
+01:58:07,520 --> 01:58:09,329
+<i>BECK". 68 kilometers?</i>
+
+1792
+01:58:09,560 --> 01:58:12,006
+<i>Did she just say
+68 kilometers?</i>
+
+1793
+01:58:12,760 --> 01:58:13,761
+Come on, guys,
+keep it together.
+
+1794
+01:58:13,840 --> 01:58:14,887
+Work the problem.
+
+1795
+01:58:15,560 --> 01:58:17,164
+Johanssen, time to intercept?
+
+1796
+01:58:17,840 --> 01:58:19,842
+<i>JOHANSSEN: 39 minutes,
+12 seconds.</i>
+
+1797
+01:58:20,520 --> 01:58:22,010
+Martinez, what if we
+point our thrusters
+
+1798
+01:58:22,080 --> 01:58:23,241
+in the same direction?
+
+1799
+01:58:23,680 --> 01:58:26,650
+Well, it depends how much fuel
+you wanna save...
+
+1800
+01:58:26,800 --> 01:58:28,165
+for the altitude adjustments
+for the trip home.
+
+1801
+01:58:28,320 --> 01:58:29,401
+How much do you need?
+
+1802
+01:58:29,560 --> 01:58:33,849
+I can get by with about 20%
+of what we have left.
+
+1803
+01:58:34,920 --> 01:58:38,163
+If we use 75.5% of remaining
+altitude-adjust fuel...
+
+1804
+01:58:38,320 --> 01:58:40,209
+that will bring the intercept
+range to zero.
+
+1805
+01:58:40,320 --> 01:58:41,321
+Do it.
+
+1806
+01:58:42,240 --> 01:58:45,369
+Hang on. It brings
+the range to zero...
+
+1807
+01:58:45,520 --> 01:58:48,251
+but the intercept velocity
+will be 42 meters per second.
+
+1808
+01:58:48,400 --> 01:58:50,050
+<i>And that's way too fast.</i>
+
+1809
+01:58:50,440 --> 01:58:52,442
+Then we'll have 39 minutes
+to figure out
+
+1810
+01:58:52,560 --> 01:58:54,085
+how to slow down.
+
+1811
+01:58:57,160 --> 01:58:58,924
+Martinez, burn the jets.
+
+1812
+01:58:59,080 --> 01:59:00,491
+MARTINEZ: Copy that.
+
+1813
+01:59:22,920 --> 01:59:24,968
+<i>MAV</i> to <i>Hermes.</i>
+
+1814
+01:59:25,040 --> 01:59:26,041
+<i>LEWIS: Watney?</i>
+
+1815
+01:59:26,160 --> 01:59:27,161
+<i>WATNEY'. Affirmative.</i>
+
+1816
+01:59:27,240 --> 01:59:28,241
+(ALL CHEERING)
+
+1817
+01:59:31,200 --> 01:59:32,645
+<i>LEWIS: What's your status?</i>
+
+1818
+01:59:33,000 --> 01:59:34,525
+<i>WATNEY". My chest hurts.</i>
+
+1819
+01:59:35,040 --> 01:59:36,405
+<i>I broke my ribs.</i>
+
+1820
+01:59:37,240 --> 01:59:38,321
+<i>How are you?</i>
+
+1821
+01:59:38,520 --> 01:59:39,601
+<i>LEWIS: We're working on
+getting to you.</i>
+
+1822
+01:59:39,680 --> 01:59:41,170
+<i>There was a complication
+during launch.</i>
+
+1823
+01:59:41,360 --> 01:59:42,725
+Copy that.
+
+1824
+01:59:43,280 --> 01:59:44,725
+How bad is it?
+
+1825
+01:59:44,880 --> 01:59:46,450
+LEWIS: <i>We've corrected
+the intercept range,</i>
+
+1826
+01:59:46,520 --> 01:59:48,488
+<i>but we've got a problem
+with intercept velocity.</i>
+
+1827
+01:59:48,640 --> 01:59:49,926
+<i>WATNEY". How big a problem?</i>
+
+1828
+01:59:50,120 --> 01:59:51,610
+42 meters a second.
+
+1829
+01:59:51,960 --> 01:59:52,961
+Well...
+
+1830
+01:59:54,280 --> 01:59:55,725
+Shit.
+
+1831
+02:00:00,640 --> 02:00:02,449
+<i>Commander, I have an idea.</i>
+
+1832
+02:00:02,600 --> 02:00:04,045
+LEWIS: Go ahead, Mark.
+
+1833
+02:00:04,200 --> 02:00:07,363
+Well, if I can find
+something sharp in here...
+
+1834
+02:00:07,520 --> 02:00:10,364
+and poke a hole in the glove
+of my EVA suit...
+
+1835
+02:00:10,520 --> 02:00:13,000
+I could use the escaping air
+as a thruster...
+
+1836
+02:00:13,160 --> 02:00:14,571
+<i>and fly towards you.</i>
+
+1837
+02:00:14,720 --> 02:00:17,769
+<i>It would be easy to control
+because it would be on my arm.</i>
+
+1838
+02:00:18,040 --> 02:00:19,883
+LEWIS: I can't see you having
+any control if you did that.
+
+1839
+02:00:20,040 --> 02:00:21,849
+You'd be eyeballing
+the intercept
+
+1840
+02:00:21,920 --> 02:00:24,207
+using a thrust vector
+you can barely control.
+
+1841
+02:00:24,440 --> 02:00:27,603
+Yes, those are all
+very good points.
+
+1842
+02:00:28,400 --> 02:00:31,165
+But consider this.
+
+1843
+02:00:33,200 --> 02:00:35,851
+I'd get to fly around
+like Iron Man.
+
+1844
+02:00:36,040 --> 02:00:37,087
+(JOHANSSEN LAUGHS)
+
+1845
+02:00:37,160 --> 02:00:38,730
+WATNEY: Commander...
+
+1846
+02:00:38,880 --> 02:00:40,564
+<i>let's go Iron Man.</i>
+
+1847
+02:00:43,640 --> 02:00:44,926
+NASA TECHNICIAN 1:
+This <i>is</i> unexpected LOS.
+
+1848
+02:00:45,160 --> 02:00:47,049
+NASA <i>TECHNICIAN 2:
+Communication lost. Stand by.</i>
+
+1849
+02:00:48,080 --> 02:00:50,731
+Maybe it's not the worst idea.
+
+1850
+02:00:50,880 --> 02:00:52,723
+No, it is the worst idea.
+It's the worst idea ever.
+
+1851
+02:00:52,880 --> 02:00:54,006
+Not what he said.
+
+1852
+02:00:54,160 --> 02:00:56,288
+Using atmosphere as thrust.
+
+1853
+02:00:58,520 --> 02:01:00,443
+What happens
+if we blow the VAL?
+
+1854
+02:01:00,720 --> 02:01:02,529
+Wait, you want to open
+the vehicular airlock?
+
+1855
+02:01:02,760 --> 02:01:03,841
+It'll give us a good kick.
+
+1856
+02:01:04,000 --> 02:01:05,764
+But also blow
+the nose off the ship.
+
+1857
+02:01:05,920 --> 02:01:08,730
+And all the air would leave
+and we need air to not die.
+
+1858
+02:01:08,880 --> 02:01:11,121
+We would seal the bridge
+and the reactor room.
+
+1859
+02:01:11,320 --> 02:01:12,560
+Everywhere else
+would go vacuo.
+
+1860
+02:01:13,200 --> 02:01:14,201
+Vogel.
+
+1861
+02:01:14,280 --> 02:01:15,566
+VOGEL: Go ahead, Commander.
+
+1862
+02:01:15,960 --> 02:01:18,611
+I need you to come inside
+and make a... bomb.
+
+1863
+02:01:19,360 --> 02:01:20,327
+Again, Commander?
+
+1864
+02:01:20,400 --> 02:01:21,401
+LEWIS: <i>You're</i> a <i>chemist.</i>
+
+1865
+02:01:21,480 --> 02:01:23,323
+<i>Can you make a bomb with
+what you have on board?</i>
+
+1866
+02:01:25,000 --> 02:01:26,286
+Probably.
+
+1867
+02:01:27,360 --> 02:01:28,646
+But I feel obliged to mention
+
+1868
+02:01:28,760 --> 02:01:30,524
+that setting off
+an explosive device...
+
+1869
+02:01:30,720 --> 02:01:33,451
+<i>in a spacecraft
+is a terrible, terrible idea.</i>
+
+1870
+02:01:33,800 --> 02:01:36,690
+Hang on. You guys making
+a bomb without me?
+
+1871
+02:01:36,840 --> 02:01:38,842
+LEWIS: <i>Copy that.
+Can you do it?</i>
+
+1872
+02:01:41,240 --> 02:01:42,241
+Ja.
+
+1873
+02:01:45,160 --> 02:01:46,764
+<i>LEWIS: Houston, be advised.</i>
+
+1874
+02:01:46,920 --> 02:01:48,410
+<i>We are going to deliberately
+breach the VAL</i>
+
+1875
+02:01:48,480 --> 02:01:50,005
+<i>to produce a reverse thrust.</i>
+
+1876
+02:01:51,240 --> 02:01:53,641
+Beck, leave your suit on.
+Meet Johanssen in Airlock 1.
+
+1877
+02:01:53,800 --> 02:01:54,847
+We'll open the outer door.
+
+1878
+02:01:55,000 --> 02:01:56,684
+<i>I need you to place the charge
+on the inner door.</i>
+
+1879
+02:01:57,160 --> 02:01:59,288
+<i>Climb back to Airlock 2
+along the hull.</i>
+
+1880
+02:01:59,440 --> 02:02:01,283
+BECK: Copy. I'm on my way.
+
+1881
+02:02:08,520 --> 02:02:10,010
+I'm in, Commander.
+
+1882
+02:02:10,160 --> 02:02:11,207
+LEWIS: Copy that.
+
+1883
+02:02:20,360 --> 02:02:21,964
+Vogel, where are you?
+
+1884
+02:02:22,120 --> 02:02:23,167
+<i>VOGEL". I'm in the kitchen.</i>
+
+1885
+02:02:23,320 --> 02:02:24,321
+Okay-
+
+1886
+02:02:28,360 --> 02:02:29,361
+WATNEY: Commander...
+
+1887
+02:02:29,520 --> 02:02:31,409
+I can't let you
+go through with this.
+
+1888
+02:02:31,560 --> 02:02:33,130
+I am prepared to cut the suit.
+
+1889
+02:02:33,440 --> 02:02:34,487
+Absolutely not.
+
+1890
+02:02:34,640 --> 02:02:37,041
+<i>WATNEY: See, the thing is,
+I'm selfish.</i>
+
+1891
+02:02:37,280 --> 02:02:40,170
+I want all the memorials back
+home to be about me.
+
+1892
+02:02:40,240 --> 02:02:41,241
+<i>Just me.</i>
+
+1893
+02:02:41,360 --> 02:02:43,647
+I should have left
+this guy on Mars.
+
+1894
+02:02:43,960 --> 02:02:45,007
+Hey-
+
+1895
+02:02:47,880 --> 02:02:48,881
+Sugar?
+
+1896
+02:02:48,960 --> 02:02:49,961
+Yeah.
+
+1897
+02:02:54,080 --> 02:02:55,491
+Can you hold this?
+
+1898
+02:02:56,080 --> 02:02:57,809
+Liquid oxygen...
+
+1899
+02:02:57,960 --> 02:03:01,442
+and some stain remover
+that contains ammonia.
+
+1900
+02:03:04,960 --> 02:03:08,248
+This thing here
+is five times stronger
+
+1901
+02:03:08,320 --> 02:03:09,765
+than a stick of dynamite.
+
+1902
+02:03:09,840 --> 02:03:11,080
+How do we activate it?
+
+1903
+02:03:11,240 --> 02:03:14,005
+Can you connect this to
+one of our lighting panels?
+
+1904
+02:03:17,560 --> 02:03:18,846
+Careful.
+
+1905
+02:03:25,400 --> 02:03:26,925
+BECK: Open Airlock 1.
+
+1906
+02:03:32,720 --> 02:03:33,960
+JOHANSSEN: I'm on
+the way to Beck.
+
+1907
+02:03:38,200 --> 02:03:40,089
+Let's just hope
+this is a good idea, guys.
+
+1908
+02:03:40,160 --> 02:03:41,207
+It is.
+
+1909
+02:03:41,280 --> 02:03:42,486
+<i>JOHANSSEN". Open A1.</i>
+
+1910
+02:03:47,840 --> 02:03:48,841
+Hi.
+Hey.
+
+1911
+02:03:52,520 --> 02:03:54,045
+You got it?
+Mmm.
+
+1912
+02:03:59,680 --> 02:04:02,331
+Make sure you're not in here
+when this thing goes off.
+
+1913
+02:04:04,120 --> 02:04:05,326
+Hey-
+
+1914
+02:04:05,480 --> 02:04:07,323
+Be careful out there.
+
+1915
+02:04:07,480 --> 02:04:08,641
+In space.
+
+1916
+02:04:12,720 --> 02:04:15,121
+Don't tell anyone
+I did that.
+
+1917
+02:04:25,000 --> 02:04:26,047
+Bomb set.
+(BEEPING)
+
+1918
+02:04:34,800 --> 02:04:37,167
+Leaving Airlock 1.
+
+1919
+02:04:42,120 --> 02:04:43,246
+MARTINEZ: Guys,
+I'm running the numbers,
+
+1920
+02:04:43,320 --> 02:04:44,481
+and even with
+optimal VAL blow...
+
+1921
+02:04:44,760 --> 02:04:46,330
+we're gonna be off
+on our angle.
+
+1922
+02:04:46,640 --> 02:04:49,325
+What's the intercept
+distance? Johanssen?
+
+1923
+02:04:49,480 --> 02:04:51,801
+260 meters, approximate.
+
+1924
+02:04:52,000 --> 02:04:53,286
+That's too far.
+
+1925
+02:04:57,600 --> 02:04:58,601
+(GROANS)
+
+1926
+02:05:02,320 --> 02:05:03,606
+Commander?
+
+1927
+02:05:03,760 --> 02:05:05,649
+Martinez, close the door.
+
+1928
+02:05:09,120 --> 02:05:10,451
+Open D3.
+
+1929
+02:05:10,960 --> 02:05:12,803
+And leave it open.
+
+1930
+02:05:40,240 --> 02:05:41,401
+(GROANS)
+
+1931
+02:05:41,480 --> 02:05:43,164
+<i>Open B2.</i>
+
+1932
+02:05:47,360 --> 02:05:48,600
+Johanssen“.
+
+1933
+02:05:48,760 --> 02:05:51,081
+<i>Time to VAL blow
+after initiate?</i>
+
+1934
+02:05:51,240 --> 02:05:52,446
+15 seconds.
+
+1935
+02:05:52,680 --> 02:05:54,728
+We sure know
+how to cut it close.
+
+1936
+02:05:55,640 --> 02:05:56,687
+Commander?
+
+1937
+02:05:56,760 --> 02:05:58,728
+Distance is too far.
+I'm going out.
+
+1938
+02:05:59,320 --> 02:06:00,321
+I can do this.
+
+1939
+02:06:00,440 --> 02:06:01,441
+It's not a debate.
+
+1940
+02:06:01,560 --> 02:06:03,085
+I'm not risking
+another crew member.
+
+1941
+02:06:03,520 --> 02:06:05,010
+Beck's returned.
+
+1942
+02:06:05,200 --> 02:06:06,964
+Johanssen, initiate the bomb.
+
+1943
+02:06:07,320 --> 02:06:08,446
+Ten seconds.
+
+1944
+02:06:08,640 --> 02:06:09,641
+Strap in.
+
+1945
+02:06:10,320 --> 02:06:11,321
+JOHANSSEN: <i>Five,</i> four...
+
+1946
+02:06:11,480 --> 02:06:12,527
+(BEEPING RAPIDLY)
+
+1947
+02:06:13,160 --> 02:06:14,161
+three...
+
+1948
+02:06:14,240 --> 02:06:15,969
+Brace for deceleration.
+JOHANSSEN: two...
+
+1949
+02:06:16,480 --> 02:06:17,481
+<i>one.</i>
+
+1950
+02:06:17,600 --> 02:06:18,965
+Activating Panel 41.
+
+1951
+02:06:22,600 --> 02:06:23,601
+(ALARM BLARING)
+
+1952
+02:06:40,960 --> 02:06:42,166
+Bridge seal holding.
+
+1953
+02:06:42,360 --> 02:06:43,407
+What's the damage?
+
+1954
+02:06:43,560 --> 02:06:44,721
+<i>LEWIS: Worry about that later.</i>
+
+1955
+02:06:44,880 --> 02:06:46,450
+<i>What's the relative velocity?</i>
+
+1956
+02:06:46,600 --> 02:06:47,681
+12 meters per second.
+
+1957
+02:06:48,120 --> 02:06:49,121
+<i>LEWIS: Copy.</i>
+
+1958
+02:06:51,680 --> 02:06:52,681
+Hook me up.
+
+1959
+02:06:54,440 --> 02:06:55,646
+BECK: Done.
+
+1960
+02:07:05,560 --> 02:07:07,324
+I have visual on the MAV.
+
+1961
+02:07:08,720 --> 02:07:10,324
+<i>What's the intercept range?</i>
+
+1962
+02:07:10,640 --> 02:07:11,880
+JOHANSSEN: I'm checking.
+
+1963
+02:07:12,840 --> 02:07:14,285
+312 meters.
+
+1964
+02:07:14,480 --> 02:07:16,801
+Did you say 312?
+
+1965
+02:07:16,960 --> 02:07:19,486
+Great. I'll wave at you guys
+as I go by.
+
+1966
+02:07:22,920 --> 02:07:23,921
+(GROANS) 0m
+
+1967
+02:07:28,600 --> 02:07:30,682
+I can't get to you, Mark.
+You're too far.
+
+1968
+02:07:30,800 --> 02:07:31,801
+<i>I'm not gonna make it.</i>
+
+1969
+02:07:31,880 --> 02:07:32,881
+I know.
+
+1970
+02:07:32,960 --> 02:07:34,450
+<i>LEWIS: Beck, unhook me.
+I'm going after him.</i>
+
+1971
+02:07:35,000 --> 02:07:37,480
+Commander, I got this.
+
+1972
+02:07:51,400 --> 02:07:52,925
+Mark, report.
+
+1973
+02:07:53,160 --> 02:07:54,764
+WATNEY: On my way, Commander.
+
+1974
+02:07:55,160 --> 02:07:56,241
+Damn it.
+
+1975
+02:07:56,920 --> 02:07:58,285
+(GRUNTS)
+
+1976
+02:08:06,080 --> 02:08:08,367
+Johanssen, what's my relative
+velocity to Mark?
+
+1977
+02:08:08,600 --> 02:08:10,409
+5.2 meters per second.
+
+1978
+02:08:10,640 --> 02:08:12,210
+Copy. Adjusting course.
+
+1979
+02:08:17,960 --> 02:08:19,689
+<i>JOHANSSEN: 3.1 meters
+per second.</i>
+
+1980
+02:08:22,360 --> 02:08:24,442
+<i>Distance to target, 24 meters.</i>
+
+1981
+02:08:26,320 --> 02:08:28,163
+11 meters to target.
+
+1982
+02:08:31,040 --> 02:08:32,041
+<i>Six meters.</i>
+
+1983
+02:08:42,200 --> 02:08:44,601
+(STRAINING) Hold On, Mark.
+
+1984
+02:08:57,560 --> 02:08:58,561
+(GRUNTING)
+
+1985
+02:09:12,560 --> 02:09:13,561
+lgot him.
+
+1986
+02:09:13,760 --> 02:09:14,841
+(PANTING)
+
+1987
+02:09:15,200 --> 02:09:16,281
+(GASPS)
+
+1988
+02:09:16,480 --> 02:09:17,766
+I got him.
+(ALL LAUGHING IN RELIEF)
+
+1989
+02:09:18,680 --> 02:09:19,727
+<i>I got him.</i>
+
+1990
+02:09:20,080 --> 02:09:21,684
+Way to go, Iron Man.
+
+1991
+02:09:24,840 --> 02:09:26,046
+Beck, pull us in.
+
+1992
+02:09:29,240 --> 02:09:30,765
+(PANTING) It's good
+to see you.
+
+1993
+02:09:32,640 --> 02:09:33,687
+You...
+
+1994
+02:09:35,480 --> 02:09:38,768
+have terrible taste in music.
+
+1995
+02:09:39,720 --> 02:09:41,609
+(BOTH LAUGHING)
+
+1996
+02:09:48,520 --> 02:09:50,522
+<i>JOHANSSEN: Houston,
+this is Hermes actual.</i>
+
+1997
+02:09:50,640 --> 02:09:51,641
+<i>We got him.</i>
+
+1998
+02:09:51,760 --> 02:09:53,603
+(WHOOPS)
+(ALL CHEERING)
+
+1999
+02:09:53,720 --> 02:09:55,085
+<i>Watney is secure.</i>
+
+2000
+02:09:55,360 --> 02:09:57,362
+(ALL CHEERING)
+
+2001
+02:10:00,360 --> 02:10:02,488
+REPORTER 1: Contact in outer
+space with Mark Watney.
+
+2002
+02:10:02,640 --> 02:10:04,642
+<i>After a very long time,
+they have done</i>
+
+2003
+02:10:04,720 --> 02:10:06,802
+<i>what many people thought
+was impossible.</i>
+
+2004
+02:10:06,960 --> 02:10:08,166
+<i>REPORTER 2:
+Mission confirmation:</i>
+
+2005
+02:10:08,240 --> 02:10:10,641
+<i>Mark Watney has been
+successfully rescued.</i>
+
+2006
+02:10:10,920 --> 02:10:12,490
+(FEMALE REPORTER
+SPEAKING MANDARIN)
+
+2007
+02:10:14,560 --> 02:10:16,244
+LEWIS: Grab a hold of him.
+
+2008
+02:10:18,240 --> 02:10:19,446
+Hey, handsome!
+
+2009
+02:10:19,600 --> 02:10:21,250
+Beck, close the hatch.
+
+2010
+02:10:24,440 --> 02:10:25,771
+Hey, guys!
+
+2011
+02:10:30,480 --> 02:10:32,608
+LEWIS: <i>Houston,
+six crew safely aboard.</i>
+
+2012
+02:10:37,040 --> 02:10:40,123
+<i>This is huge moment for
+this nation, for the world...</i>
+
+2013
+02:10:40,280 --> 02:10:43,409
+<i>and indeed, for
+international space travel.</i>
+
+2014
+02:10:43,760 --> 02:10:45,762
+LEWIS: I can't believe
+anything you do works.
+
+2015
+02:10:46,480 --> 02:10:47,641
+Hey!
+
+2016
+02:10:49,800 --> 02:10:50,801
+Oh, God.
+
+2017
+02:10:50,880 --> 02:10:52,484
+JOHANSSEN: I can't believe it.
+
+2018
+02:10:53,680 --> 02:10:55,205
+There's a little smell
+going on over there, bud.
+
+2019
+02:10:55,360 --> 02:10:58,728
+I know. I haven't had a shower
+in a year and a half.
+
+2020
+02:10:59,120 --> 02:11:01,487
+Don't make me laugh,
+I have broken ribs.
+
+2021
+02:11:35,560 --> 02:11:36,721
+Hey, there.
+
+2022
+02:11:45,280 --> 02:11:47,248
+Morning, sir.
+It's an honor, sir.
+
+2023
+02:11:47,400 --> 02:11:48,401
+Sir.
+
+2024
+02:11:49,160 --> 02:11:50,844
+Sir.
+Sir.
+
+2025
+02:11:51,080 --> 02:11:52,206
+MALE CADET: Morning, sir.
+
+2026
+02:12:06,160 --> 02:12:07,810
+(INDISTINCT CONVERSATIONS)
+
+2027
+02:12:14,160 --> 02:12:16,162
+<i>WATNEY: Welcome to the
+Astronaut Candidate Program.</i>
+
+2028
+02:12:16,960 --> 02:12:18,724
+Now pay attention,
+
+2029
+02:12:18,800 --> 02:12:20,450
+because this could
+save your life.
+
+2030
+02:12:21,000 --> 02:12:22,684
+Trust me, I know
+what I'm talking about.
+
+2031
+02:12:22,760 --> 02:12:23,761
+(ALL LAUGH)
+
+2032
+02:12:23,840 --> 02:12:25,922
+Let me get a few things out
+of the way, right off the bat.
+
+2033
+02:12:26,120 --> 02:12:29,681
+Yes, I did in fact survive
+on a deserted planet
+
+2034
+02:12:29,760 --> 02:12:31,808
+by farming in my own shit.
+
+2035
+02:12:33,040 --> 02:12:35,486
+Yes, it's actually worse
+than it sounds.
+
+2036
+02:12:35,560 --> 02:12:37,324
+So let's not talk
+about that ever again.
+
+2037
+02:12:38,720 --> 02:12:41,690
+The other question I get
+most frequently is...
+
+2038
+02:12:41,840 --> 02:12:44,241
+"When I was up there,
+stranded by myself...
+
+2039
+02:12:44,560 --> 02:12:46,881
+"did I think
+I was going to die?"
+
+2040
+02:12:47,400 --> 02:12:48,925
+Yes, absolutely.
+
+2041
+02:12:50,080 --> 02:12:51,411
+And that's what you need
+to know going in
+
+2042
+02:12:51,480 --> 02:12:53,130
+because it's going
+to happen to you.
+
+2043
+02:12:53,560 --> 02:12:56,928
+This is space.
+It does not cooperate.
+
+2044
+02:12:57,280 --> 02:13:00,011
+At some point, everything is
+going to go south on you.
+
+2045
+02:13:00,200 --> 02:13:01,326
+Everything is going
+to go south
+
+2046
+02:13:01,400 --> 02:13:02,890
+and you're going to say,
+"This is it.
+
+2047
+02:13:03,200 --> 02:13:04,850
+"This is how I end."
+
+2048
+02:13:06,240 --> 02:13:07,765
+Now, you can either
+accept that...
+
+2049
+02:13:08,320 --> 02:13:10,322
+or you can get to work.
+
+2050
+02:13:11,360 --> 02:13:13,089
+That's all it is.
+
+2051
+02:13:13,240 --> 02:13:15,083
+You just begin.
+
+2052
+02:13:15,920 --> 02:13:18,924
+You do the math.
+You solve one problem...
+
+2053
+02:13:19,080 --> 02:13:20,605
+then you solve the next one.
+
+2054
+02:13:20,840 --> 02:13:21,841
+And then the next.
+
+2055
+02:13:21,960 --> 02:13:23,086
+And if you solve
+enough problems,
+
+2056
+02:13:23,160 --> 02:13:24,810
+you get to come home.
+
+2057
+02:13:25,520 --> 02:13:27,602
+All right, questions?
+
+2058
+02:13:29,200 --> 02:13:31,043
+<i>(LOVE TRAIN PLAYING)</i>
+
+2059
+02:13:32,680 --> 02:13:34,045
+ANNIE: <i>Once
+Mission Control completes</i>
+
+2060
+02:13:34,120 --> 02:13:35,201
+<i>their pre-flight checks...</i>
+
+2061
+02:13:35,360 --> 02:13:37,169
+<i>we'll begin launch procedures.</i>
+
+2062
+02:13:37,440 --> 02:13:39,886
+<i>The Ares 5 team will
+rendezvous with the Hermes...</i>
+
+2063
+02:13:40,040 --> 02:13:42,691
+approximately 48 minutes
+after launch.
+
+2064
+02:13:43,320 --> 02:13:45,322
+From there,
+they will have 414 days
+
+2065
+02:13:45,400 --> 02:13:47,129
+of space travel ahead of them.
+
+2066
+02:13:47,280 --> 02:13:48,406
+<i>FEMALE REPORTER:
+Have the goals changed</i>
+
+2067
+02:13:48,480 --> 02:13:50,005
+<i>from the previous mission...</i>
+
+2068
+02:13:50,160 --> 02:13:51,400
+<i>to the Ares '5 program?</i>
+
+2069
+02:13:51,560 --> 02:13:53,403
+<i>And what do you hope to
+achieve this time around?</i>
+
+2070
+02:13:53,560 --> 02:13:55,369
+<i>VINCENT: Well, no. The goals
+have always been the same</i>
+
+2071
+02:13:55,440 --> 02:13:56,930
+for the Ares program.
+
+2072
+02:13:57,840 --> 02:13:59,205
+This time, of course,
+we hope to bring
+
+2073
+02:13:59,280 --> 02:14:00,520
+all the astronauts
+back at the same time.
+
+2074
+02:14:00,600 --> 02:14:01,726
+(REPORTERS LAUGHING)
+
+2075
+02:14:01,800 --> 02:14:02,801
+Flight,
+Guidance check complete.
+
+2076
+02:14:02,880 --> 02:14:03,881
+BRENDAN: Copy, Guidance.
+
+2077
+02:14:05,280 --> 02:14:06,691
+This is Flight.
+
+2078
+02:14:06,840 --> 02:14:08,365
+We are go for launch,
+on schedule.
+
+2079
+02:14:08,960 --> 02:14:10,610
+(INDISTINCT RADIO CHATTER)
+
+2080
+02:14:19,560 --> 02:14:20,641
+<i>MALE REPORT ER ON 'N:
+Final aerosurface</i>
+
+2081
+02:14:20,720 --> 02:14:21,846
+<i>checks are complete...</i>
+
+2082
+02:14:22,000 --> 02:14:24,970
+<i>as everything remains a go
+for the launch of the Ares 5.</i>
+
+2083
+02:14:25,680 --> 02:14:26,920
+<i>20 seconds.</i>
+
+2084
+02:14:28,320 --> 02:14:30,084
+<i>MISSION CONTROL TECHNICIAN:
+Proceeding with the count.</i>
+
+2085
+02:14:30,160 --> 02:14:32,447
+T-minus 10... 9...
+
+2086
+02:14:32,760 --> 02:14:34,046
+<i>Main engine start.</i>
+
+2087
+02:14:34,200 --> 02:14:37,568
+<i>7... 6... 5... 4...</i>
+
+2088
+02:14:38,160 --> 02:14:41,482
+three... two... one.
+
+2089
+02:14:41,640 --> 02:14:45,326
+<i>MALE REPORTER: And liftoff.
+As the crew of the Ares</i> 5...
+
+2090
+02:14:45,480 --> 02:14:49,166
+<i>begin the next chapter
+of American space exploration.</i>
+
+2091
+02:14:49,360 --> 02:14:50,771
+<i>MISSION CONTROL TECHNICIAN:
+Pressures look good.</i>
+
+2092
+02:14:50,840 --> 02:14:51,921
+(ALL CHEERING)
+
+2093
+02:14:52,080 --> 02:14:53,127
+(WHOOPS)
+
+2094
+02:15:03,280 --> 02:15:05,248
+(INDISTINCT RADIO CHATTER)
+
+2095
+02:15:09,240 --> 02:15:10,810
+Wow. Good shot.
+
+2096
+02:15:10,960 --> 02:15:12,086
+MALE REPORTER ON TV:
+There you have it.
+
+2097
+02:15:12,160 --> 02:15:14,561
+<i>Five years after the rescue
+of astronaut Mark Watney...</i>
+
+2098
+02:15:14,720 --> 02:15:17,803
+<i>an Ares '5 is on its way
+to Mars.</i>
+
+2099
+02:16:04,920 --> 02:16:07,446
+<i>(I WILL SURVIVE PLAYING)</i>
+
+2100
+02:16:10,760 --> 02:16:12,205
+<i>First I was afraid</i>
+
+2101
+02:16:12,280 --> 02:16:13,930
+<i>I was petrified</i>
+
+2102
+02:16:14,160 --> 02:16:18,006
+<i>Kept thinking I could never
+live without you by my side</i>
+
+2103
+02:16:18,240 --> 02:16:20,447
+<i>But then I spent
+so many nights</i>
+
+2104
+02:16:20,520 --> 02:16:22,568
+<i>Thinking how
+you did me wrong</i>
+
+2105
+02:16:22,640 --> 02:16:26,770
+<i>And I grew strong
+and I learned how to get along</i>
+
+2106
+02:16:26,840 --> 02:16:30,083
+<i>And so you're back
+from outer space</i>
+
+2107
+02:16:30,480 --> 02:16:32,323
+<i>I just walked in
+to find you here</i>
+
+2108
+02:16:32,400 --> 02:16:34,448
+<i>With that sad look
+upon your face</i>
+
+2109
+02:16:34,600 --> 02:16:37,001
+<i>I should have changed
+that stupid lock</i>
+
+2110
+02:16:37,080 --> 02:16:38,764
+<i>I should have made you
+leave your key</i>
+
+2111
+02:16:38,960 --> 02:16:41,088
+<i>If I had known
+for just one second</i>
+
+2112
+02:16:41,160 --> 02:16:42,924
+<i>You'd be back to bother me</i>
+
+2113
+02:16:43,000 --> 02:16:46,447
+<i>Boy,
+now go, walk out the door</i>
+
+2114
+02:16:47,040 --> 02:16:51,364
+<i>Just turn around now 'cause
+you're not welcome anymore</i>
+
+2115
+02:16:52,280 --> 02:16:55,329
+<i>Weren't you the one who tried
+to hurt me with goodbye?</i>
+
+2116
+02:16:55,400 --> 02:16:57,050
+<i>Did you think I'd crumble?</i>
+
+2117
+02:16:57,680 --> 02:16:59,284
+<i>Did you think
+I'd lay down and die?</i>
+
+2118
+02:16:59,360 --> 02:17:03,160
+<i>Oh, no, not I
+I will survive</i>
+
+2119
+02:17:03,520 --> 02:17:06,171
+<i>For as long as
+I know how to love</i>
+
+2120
+02:17:06,320 --> 02:17:07,765
+<i>I know I'll stay alive</i>
+
+2121
+02:17:07,880 --> 02:17:09,689
+<i>I've got all my life to live</i>
+
+2122
+02:17:09,920 --> 02:17:11,809
+<i>And I've got
+all my love to give</i>
+
+2123
+02:17:11,880 --> 02:17:13,370
+<i>And I'll survive</i>
+
+2124
+02:17:13,800 --> 02:17:15,325
+<i>I will survive</i>
+
+2125
+02:17:15,880 --> 02:17:17,325
+<i>Hey, hey</i>
+
+2126
+02:17:32,520 --> 02:17:35,888
+<i>Boy,
+now go, walk out the door</i>
+
+2127
+02:17:36,360 --> 02:17:40,809
+<i>Just turn around now 'cause
+you're not welcome anymore</i>
+
+2128
+02:17:41,680 --> 02:17:44,809
+<i>Weren't you the one who tried
+to break me with goodbye?</i>
+
+2129
+02:17:44,880 --> 02:17:46,769
+<i>Did you think I'd crumble?</i>
+
+2130
+02:17:47,000 --> 02:17:48,809
+<i>Did you think
+I'd lay down and die?</i>
+
+2131
+02:17:48,960 --> 02:17:52,601
+<i>Oh, no, not I
+I will survive</i>
+
+2132
+02:17:53,040 --> 02:17:55,611
+<i>For as long as
+I know how to love</i>
+
+2133
+02:17:55,720 --> 02:17:57,165
+<i>I know I'll stay alive</i>
+
+2134
+02:17:57,240 --> 02:17:59,208
+<i>I've got all my life to live</i>
+
+2135
+02:17:59,560 --> 02:18:01,289
+<i>And I've got
+all my love to give</i>
+
+2136
+02:18:01,360 --> 02:18:02,361
+<i>And I'll survive</i>
+
+2137
+02:18:03,360 --> 02:18:05,124
+<i>I will survive</i>
+

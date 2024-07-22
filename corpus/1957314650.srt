@@ -1,0 +1,3165 @@
+﻿1
+00:00:02,336 --> 00:00:03,813
+Does everybody
+know what time it is?
+
+2
+00:00:03,837 --> 00:00:05,703
+AUDIENCE: <i>Tool Time!</i>
+
+3
+00:00:05,772 --> 00:00:07,750
+That's right! And now here
+he is, the star of our show,
+
+4
+00:00:07,774 --> 00:00:10,875
+Tim "The Tool Man" Taylor!
+
+5
+00:00:10,944 --> 00:00:13,178
+(AUDIENCE CHEERING)
+
+6
+00:00:13,247 --> 00:00:15,780
+(EARL HINDMAN READING)
+
+7
+00:00:20,887 --> 00:00:23,155
+Before you hurt
+yourselves, sit down.
+
+8
+00:00:28,863 --> 00:00:30,696
+Thank you.
+
+9
+00:00:30,765 --> 00:00:32,431
+Thank you, Heidi.
+
+10
+00:00:34,835 --> 00:00:36,602
+I am Tim "The Tool Man" Taylor,
+
+11
+00:00:36,670 --> 00:00:38,582
+and, of course, you all
+know my trusted assistant,
+
+12
+00:00:38,606 --> 00:00:42,107
+Al "Who Put the Bore
+in Boring" Borland.
+
+13
+00:00:43,377 --> 00:00:45,310
+All right, then.
+Today, on <i>Tool Time,</i>
+
+14
+00:00:45,379 --> 00:00:47,290
+we're doing our
+salute... Salute...
+
+15
+00:00:47,314 --> 00:00:48,813
+(MACHINE ROARING)
+
+16
+00:00:49,983 --> 00:00:51,616
+to steamrollers.
+
+17
+00:00:52,852 --> 00:00:55,620
+No, no.
+
+18
+00:00:55,689 --> 00:00:57,789
+No, you promised
+if I did this show,
+
+19
+00:00:57,857 --> 00:00:59,558
+there would be no
+heavy equipment.
+
+20
+00:00:59,626 --> 00:01:01,771
+I'm kidding. What's
+blowing your skirt up today?
+
+21
+00:01:01,795 --> 00:01:04,229
+What's going on, huh?
+I'm just kidding around.
+
+22
+00:01:04,298 --> 00:01:05,909
+We're gonna do a
+simple circuit breaker.
+
+23
+00:01:05,933 --> 00:01:08,093
+Heidi, my simple
+circuit breaker, please.
+
+24
+00:01:14,542 --> 00:01:16,007
+Simple? You call this simple?
+
+25
+00:01:16,076 --> 00:01:18,644
+This is a 10,000-amp
+industrial circuit breaker.
+
+26
+00:01:18,712 --> 00:01:21,647
+<i>Au contraire,</i> my
+lumpy lumberjack.
+
+27
+00:01:21,715 --> 00:01:25,284
+I added some power, and
+this is now a 50,000-amp
+
+28
+00:01:25,352 --> 00:01:27,252
+simple circuit breaker.
+
+29
+00:01:29,022 --> 00:01:32,490
+Oh, Al, how would you like to
+connect these last two wires?
+
+30
+00:01:33,627 --> 00:01:35,961
+I don't think so, Tim.
+
+31
+00:01:36,030 --> 00:01:40,365
+How many out there would like to
+see Al connect these last two wires?
+
+32
+00:01:40,434 --> 00:01:43,701
+(APPLAUDING)
+
+33
+00:01:43,770 --> 00:01:47,773
+How many out there would like to
+see Tim connect these two wires?
+
+34
+00:01:49,075 --> 00:01:50,508
+AL: Thank you very much.
+
+35
+00:01:51,244 --> 00:01:52,477
+Oh, yeah?
+
+36
+00:01:52,546 --> 00:01:53,690
+Yeah! Yeah!
+
+37
+00:01:53,714 --> 00:01:56,514
+You mean-spirited people.
+
+38
+00:01:57,851 --> 00:01:59,751
+I'm not going to do that.
+
+39
+00:01:59,820 --> 00:02:01,753
+'Cause even if I did,
+nothing would happen.
+
+40
+00:02:01,822 --> 00:02:03,288
+(EXCLAIMING)
+
+41
+00:02:04,658 --> 00:02:06,925
+It's not a real circuit breaker.
+
+42
+00:02:06,994 --> 00:02:08,927
+It's not even a real <i>Tool Time.</i>
+
+43
+00:02:08,996 --> 00:02:11,563
+And that isn't Heidi,
+that isn't Al Borland.
+
+44
+00:02:11,632 --> 00:02:13,765
+That's Debbe Dunning, the actor.
+
+45
+00:02:13,834 --> 00:02:15,500
+(CHEERING)
+
+46
+00:02:17,671 --> 00:02:19,504
+And this...
+
+47
+00:02:19,573 --> 00:02:23,208
+This is not Al Borland. I'm
+sorry if you thought it was.
+
+48
+00:02:23,276 --> 00:02:25,811
+This is Richard Karn.
+
+49
+00:02:25,879 --> 00:02:29,114
+The new host of <i>Family Feud.</i>
+
+50
+00:02:29,183 --> 00:02:31,116
+Survey says... Says...
+
+51
+00:02:33,754 --> 00:02:36,788
+We even have a disc jockey,
+Casey Sander from the K&B boys,
+
+52
+00:02:36,857 --> 00:02:38,723
+giving us music tonight.
+
+53
+00:02:40,827 --> 00:02:42,928
+Always great to be here, Timmy.
+
+54
+00:02:44,631 --> 00:02:45,908
+It's been over three years
+
+55
+00:02:45,932 --> 00:02:47,544
+since we did our final
+episode of <i>Home Improvement,</i>
+
+56
+00:02:47,568 --> 00:02:49,601
+and I wanted to
+do a retrospective,
+
+57
+00:02:49,670 --> 00:02:51,681
+but didn't wanna
+wait 20 years to do it.
+
+58
+00:02:51,705 --> 00:02:55,674
+I wanted to do it now, while you
+guys still remembered who I am.
+
+59
+00:02:55,743 --> 00:02:59,344
+I wanted to do it now, while
+I still remembered who I am.
+
+60
+00:02:59,412 --> 00:03:01,658
+We had such fun doing this.
+So tonight, what we're gonna do
+
+61
+00:03:01,682 --> 00:03:04,282
+is put together some clips,
+show you some inside stuff,
+
+62
+00:03:04,351 --> 00:03:05,784
+maybe give you a few tips.
+
+63
+00:03:05,853 --> 00:03:08,019
+Enjoy these clips that
+we think are the best.
+
+64
+00:03:08,088 --> 00:03:10,989
+And we created a User's
+Guide to <i>Home Improvement.</i>
+
+65
+00:03:11,057 --> 00:03:13,458
+So, Debbe, my
+User's Guide, please.
+
+66
+00:03:15,829 --> 00:03:17,040
+Here you go, Tim.
+
+67
+00:03:17,064 --> 00:03:20,498
+The stunning Debbe Dunning.
+
+68
+00:03:20,567 --> 00:03:24,135
+Anyhow, this book is
+chock-full of helpful hints.
+
+69
+00:03:25,105 --> 00:03:26,838
+Well, like this one.
+
+70
+00:03:26,907 --> 00:03:29,352
+<i>HINDMAN: On Home Improvement,
+the best conductors of electricity</i>
+
+71
+00:03:29,376 --> 00:03:32,077
+<i>are copper and Tim Taylor.</i>
+
+72
+00:03:32,146 --> 00:03:34,045
+Tim, this'll work.
+
+73
+00:03:34,114 --> 00:03:36,158
+You twist and pull the broken
+bulb right out of the socket.
+
+74
+00:03:36,182 --> 00:03:37,293
+But first, you must...
+
+75
+00:03:37,317 --> 00:03:38,717
+Jam it in the light.
+
+76
+00:03:46,059 --> 00:03:47,459
+Unplug the lamp.
+
+77
+00:03:47,528 --> 00:03:49,761
+Ground. Looking for ground.
+
+78
+00:03:49,830 --> 00:03:53,431
+Now, red is all...
+
+79
+00:03:53,500 --> 00:03:56,701
+Yellow, see? The sun is
+yellow, it heats the ground,
+
+80
+00:03:56,770 --> 00:03:58,670
+that's how they name stuff.
+
+81
+00:04:03,844 --> 00:04:05,610
+Is that car running?
+
+82
+00:04:08,382 --> 00:04:10,715
+(TIM SCREAMING)
+
+83
+00:04:13,119 --> 00:04:14,653
+Shake it off.
+
+84
+00:04:40,413 --> 00:04:42,258
+We got our belt
+attached with a rough grip.
+
+85
+00:04:42,282 --> 00:04:44,248
+And we wanna plug
+the thing in now?
+
+86
+00:04:44,317 --> 00:04:45,762
+'Course you wanna be
+sure the trigger switch
+
+87
+00:04:45,786 --> 00:04:47,229
+is not locked in
+the "On" position.
+
+88
+00:04:47,253 --> 00:04:49,254
+Any idiot knows that, Al.
+
+89
+00:04:53,993 --> 00:04:55,660
+What a bonehead.
+
+90
+00:04:57,564 --> 00:04:59,164
+I'm just like him.
+
+91
+00:04:59,232 --> 00:05:02,400
+(CHUCKLES) Admit it,
+guys. You are, too, you know?
+
+92
+00:05:02,469 --> 00:05:04,480
+We will eat anything
+that's cooked over a fire
+
+93
+00:05:04,504 --> 00:05:06,737
+or shoved into an animal casing.
+
+94
+00:05:08,475 --> 00:05:11,242
+That's a sausage, to you women.
+
+95
+00:05:11,311 --> 00:05:16,347
+We like the smell of sweat,
+motor oil and diesel fuel combined.
+
+96
+00:05:16,416 --> 00:05:19,295
+Yeah, if it spins, smokes, or
+better yet, catches fire and explodes,
+
+97
+00:05:19,319 --> 00:05:20,685
+that excites guys.
+
+98
+00:05:23,556 --> 00:05:26,524
+This next clip is from what
+we call the pilot episode.
+
+99
+00:05:26,593 --> 00:05:30,495
+You may remember it. It
+went something like this.
+
+100
+00:05:32,765 --> 00:05:35,099
+(GASPS) What the hell is that?
+
+101
+00:05:35,168 --> 00:05:37,280
+That is the power source
+to your new dishwasher.
+
+102
+00:05:37,304 --> 00:05:38,581
+Take it out. No, no, no.
+
+103
+00:05:38,605 --> 00:05:40,483
+No, take it out now.
+You don't like the fact
+
+104
+00:05:40,507 --> 00:05:42,352
+that I improved the
+dishwasher? No.
+
+105
+00:05:42,376 --> 00:05:43,820
+Remember that yolk that wouldn't
+come off the plate this morning?
+
+106
+00:05:43,844 --> 00:05:45,210
+Watch this.
+
+107
+00:05:47,648 --> 00:05:48,680
+(DISHWASHER HUMMING)
+
+108
+00:05:48,749 --> 00:05:50,582
+Hear that hum?
+
+109
+00:05:50,651 --> 00:05:53,318
+That's a Finley two-stage,
+five-horse Blastmaster compressor.
+
+110
+00:05:53,387 --> 00:05:55,699
+Air delivery system is 18
+cubic feet per square minute.
+
+111
+00:05:55,723 --> 00:05:57,756
+That should say
+testosterone right on there.
+
+112
+00:05:57,825 --> 00:05:58,825
+'Cause that...
+
+113
+00:06:00,661 --> 00:06:03,194
+That is a man's dishwasher.
+
+114
+00:06:09,403 --> 00:06:10,836
+(CHUCKLES) Yeah.
+
+115
+00:06:12,740 --> 00:06:15,006
+Critics didn't really like
+this show that much.
+
+116
+00:06:15,074 --> 00:06:16,853
+As a matter of fact, I mean,
+there was a bunch of critics
+
+117
+00:06:16,877 --> 00:06:18,988
+who said it just won't last.
+There was one newspaper,
+
+118
+00:06:19,012 --> 00:06:20,957
+I'm not gonna mention <i>The
+New York Times</i> by name,
+
+119
+00:06:20,981 --> 00:06:22,347
+but they...
+
+120
+00:06:24,384 --> 00:06:26,684
+Wow. That was really weird.
+
+121
+00:06:26,754 --> 00:06:29,087
+I mean, that just
+slipped out. I'm sorry.
+
+122
+00:06:29,156 --> 00:06:32,157
+They said the show
+couldn't go three episodes.
+
+123
+00:06:32,226 --> 00:06:35,660
+I mean, how many things
+can this meathead blow up?
+
+124
+00:06:37,931 --> 00:06:40,371
+Don't strike that match.
+
+125
+00:07:05,759 --> 00:07:07,191
+That's something else.
+
+126
+00:07:21,941 --> 00:07:22,941
+(PHONE RINGS)
+
+127
+00:07:33,053 --> 00:07:34,053
+(EXCLAIMING)
+
+128
+00:07:35,021 --> 00:07:36,021
+(EXCLAIMING)
+
+129
+00:07:43,196 --> 00:07:44,496
+Well,
+
+130
+00:07:45,865 --> 00:07:47,599
+as it turns out...
+
+131
+00:07:47,668 --> 00:07:52,370
+As it turns out, he could
+blow up 4,100 items.
+
+132
+00:07:52,439 --> 00:07:54,918
+<i>Home Improvement</i> wasn't
+just about blowing stuff up, folks.
+
+133
+00:07:54,942 --> 00:07:57,720
+The heart of it was a relationship
+between a man and a woman.
+
+134
+00:07:57,744 --> 00:08:00,278
+Right? If you've got
+your User's Guides handy,
+
+135
+00:08:00,347 --> 00:08:03,582
+turn to page 78, under
+"Building a Relationship."
+
+136
+00:08:03,650 --> 00:08:07,552
+It says, "Romance doesn't
+come out of the box factory-made.
+
+137
+00:08:08,588 --> 00:08:11,028
+"Some assembly is required."
+
+138
+00:08:14,327 --> 00:08:15,927
+(I GOT YOU BABE <i>PLAYING)</i>
+
+139
+00:08:15,995 --> 00:08:19,164
+♪ They say we're
+young And we don't know
+
+140
+00:08:19,232 --> 00:08:23,301
+<i>♪ Won't find out till we grow</i>
+
+141
+00:08:25,605 --> 00:08:28,440
+<i>TIM: ♪ Well, I don't
+know If all that's true</i>
+
+142
+00:08:28,508 --> 00:08:32,810
+<i>♪ 'Cause you got
+me And baby I got you</i>
+
+143
+00:08:32,879 --> 00:08:33,879
+Good.
+
+144
+00:08:34,981 --> 00:08:36,013
+BOTH: ♪ Babe
+
+145
+00:08:37,951 --> 00:08:39,584
+♪ I got you babe
+
+146
+00:08:41,088 --> 00:08:42,720
+<i>♪ I got you babe ♪</i>
+
+147
+00:08:49,096 --> 00:08:50,906
+I love you very, very much.
+
+148
+00:08:50,930 --> 00:08:53,965
+These are the best
+15 years I've ever had.
+
+149
+00:08:55,535 --> 00:08:57,435
+(EXCLAIMING IN DISGUST)
+
+150
+00:09:00,807 --> 00:09:02,840
+Put a lid on it.
+
+151
+00:09:02,909 --> 00:09:08,045
+You know, sometimes I just forget
+what an amazing hunk of man you are.
+
+152
+00:09:08,114 --> 00:09:09,114
+Whoa.
+
+153
+00:09:11,083 --> 00:09:13,462
+Well, I'd love to stick around
+and give you a little reminder,
+
+154
+00:09:13,486 --> 00:09:16,020
+but the boys need me.
+
+155
+00:09:16,088 --> 00:09:17,254
+I need you.
+
+156
+00:09:17,324 --> 00:09:18,389
+(HORN HONKING)
+
+157
+00:09:18,458 --> 00:09:19,657
+(GRUNTS)
+
+158
+00:09:19,725 --> 00:09:22,360
+Demolition derby... Sexy wife.
+
+159
+00:09:24,030 --> 00:09:26,190
+Demolition derby...
+Ooh. Sexy wife.
+
+160
+00:09:28,401 --> 00:09:30,379
+Could you hold that thought
+till about 10:00 tonight?
+
+161
+00:09:30,403 --> 00:09:32,548
+Wait a minute.
+This thought here?
+
+162
+00:09:32,572 --> 00:09:34,238
+Mmm-mmm.
+
+163
+00:09:36,809 --> 00:09:37,920
+(CHUCKLING)
+
+164
+00:09:37,944 --> 00:09:40,078
+That would be the one.
+
+165
+00:09:42,782 --> 00:09:45,683
+Hurry back, mister.
+
+166
+00:09:45,751 --> 00:09:48,164
+Every time I see two heaps
+slamming into one another tonight,
+
+167
+00:09:48,188 --> 00:09:50,188
+I'll be thinking about us.
+
+168
+00:09:52,458 --> 00:09:54,792
+<i>(UPBEAT MUSIC PLAYING)</i>
+
+169
+00:09:56,997 --> 00:09:58,963
+What is this?
+
+170
+00:10:06,539 --> 00:10:08,239
+(JILL LAUGHING)
+
+171
+00:10:11,878 --> 00:10:14,946
+Are you gonna still
+find me desirable?
+
+172
+00:10:15,014 --> 00:10:19,316
+I didn't marry you because
+of your uterus or your ovaries,
+
+173
+00:10:19,385 --> 00:10:21,852
+I married you because
+of what's inside.
+
+174
+00:10:26,292 --> 00:10:28,737
+If you think you can
+keep up, please join in.
+
+175
+00:10:28,761 --> 00:10:29,894
+All right.
+
+176
+00:10:32,032 --> 00:10:33,431
+(GIGGLING)
+
+177
+00:10:36,503 --> 00:10:37,568
+Hmm.
+
+178
+00:10:37,637 --> 00:10:39,103
+(GRUNTS)
+
+179
+00:10:49,816 --> 00:10:51,516
+Hmm...
+
+180
+00:10:51,584 --> 00:10:54,619
+Looks like somebody's
+ready to come over to Daddy.
+
+181
+00:10:56,689 --> 00:10:58,556
+It's just you and me.
+
+182
+00:10:58,625 --> 00:11:00,892
+Got any ideas about
+what we could be doing?
+
+183
+00:11:00,961 --> 00:11:02,560
+I'm getting one.
+
+184
+00:11:05,932 --> 00:11:09,167
+MARK: Mommy and
+Daddy sitting in the tree,
+
+185
+00:11:09,235 --> 00:11:12,370
+K-I-S-S-I-N-G.
+
+186
+00:11:12,439 --> 00:11:15,206
+RANDY: We're
+in the tree, stupid.
+
+187
+00:11:17,643 --> 00:11:19,410
+(WHISTLES)
+
+188
+00:11:19,479 --> 00:11:22,291
+Are you looking good. Let me
+get out of these cruddy clothes.
+
+189
+00:11:22,315 --> 00:11:24,048
+Don't take too long.
+
+190
+00:11:24,117 --> 00:11:26,384
+I won't.
+
+191
+00:11:26,452 --> 00:11:28,786
+What a great night
+with the boys, though.
+
+192
+00:11:28,855 --> 00:11:30,588
+Lot of good food. Oh.
+
+193
+00:11:32,325 --> 00:11:33,892
+(SIGHING)
+
+194
+00:11:35,896 --> 00:11:39,497
+I got some double-cheese
+nachos sitting right here.
+
+195
+00:11:40,633 --> 00:11:42,233
+(BURPING) Oh.
+
+196
+00:11:44,971 --> 00:11:46,103
+Tim.
+
+197
+00:11:46,172 --> 00:11:47,783
+Little gas bubble.
+Moving, moving...
+
+198
+00:11:47,807 --> 00:11:48,807
+(BURPS)
+
+199
+00:11:52,746 --> 00:11:54,612
+This is real attractive.
+
+200
+00:11:56,950 --> 00:11:59,884
+So where were we?
+
+201
+00:12:04,424 --> 00:12:07,692
+It's kind of hard to remember.
+
+202
+00:12:07,761 --> 00:12:09,827
+This will refresh your memory.
+
+203
+00:12:10,530 --> 00:12:11,763
+(BURPS)
+
+204
+00:12:16,770 --> 00:12:17,969
+Sorry.
+
+205
+00:12:22,141 --> 00:12:25,577
+Sorry. I'm sorry.
+Mark was right. Ugh.
+
+206
+00:12:25,645 --> 00:12:29,125
+You shouldn't have double
+onions on those chili dogs.
+
+207
+00:12:30,450 --> 00:12:31,683
+Hello.
+
+208
+00:12:39,092 --> 00:12:41,692
+♪ Then put your
+little hand in mine
+
+209
+00:12:41,761 --> 00:12:45,196
+♪ There ain't no
+mountain Or hill we can't...
+
+210
+00:12:47,434 --> 00:12:48,499
+♪ Babe
+
+211
+00:12:50,303 --> 00:12:52,170
+<i>♪ I got you babe</i>
+
+212
+00:12:53,639 --> 00:12:55,206
+<i>♪ I got you babe ♪</i>
+
+213
+00:12:58,511 --> 00:12:59,677
+(MUSIC STOPS)
+
+214
+00:13:06,619 --> 00:13:12,156
+The Minimag 100 is perfect
+for picking up screws and nails.
+
+215
+00:13:12,225 --> 00:13:14,736
+It can also pick up small tools
+that have carelessly been dropped
+
+216
+00:13:14,760 --> 00:13:18,080
+behind the workbench,
+perhaps the fault of a co-worker.
+
+217
+00:13:21,368 --> 00:13:24,635
+And the Minimag 2000.
+
+218
+00:13:24,704 --> 00:13:29,207
+Small, but powerful. 10
+pounds will pick up 400 pounds.
+
+219
+00:13:29,275 --> 00:13:31,609
+This would suck The Tin
+Man right through a keyhole.
+
+220
+00:13:33,212 --> 00:13:35,524
+Well, it was designed
+to pick up sheet metal,
+
+221
+00:13:35,548 --> 00:13:38,249
+so you wanna keep
+it pointed to... Tim.
+
+222
+00:13:40,987 --> 00:13:44,422
+No, no, just slide
+it straight down!
+
+223
+00:13:47,694 --> 00:13:48,694
+Tim.
+
+224
+00:13:52,732 --> 00:13:55,266
+Pretty powerful
+little thing, isn't it?
+
+225
+00:14:00,940 --> 00:14:03,074
+Marv, hold it back. Marv!
+
+226
+00:14:10,049 --> 00:14:11,260
+I just love this set. Yeah.
+
+227
+00:14:11,284 --> 00:14:12,928
+There's so many
+memories on this set.
+
+228
+00:14:12,952 --> 00:14:16,053
+Mario Andretti stood right here
+and gave us a bunch of grief.
+
+229
+00:14:16,122 --> 00:14:17,621
+And then, one of the astronauts,
+
+230
+00:14:17,690 --> 00:14:19,123
+Ken Bowersocks, and all his team
+
+231
+00:14:19,192 --> 00:14:20,669
+were standing right
+there. Remember that?
+
+232
+00:14:20,693 --> 00:14:21,759
+Yeah.
+
+233
+00:14:21,828 --> 00:14:25,396
+And then you insulted
+my mother, right there.
+
+234
+00:14:25,464 --> 00:14:29,066
+And then you insulted
+my mother over there.
+
+235
+00:14:29,135 --> 00:14:32,303
+'Course, you insulted
+my mother back there, too.
+
+236
+00:14:32,371 --> 00:14:34,316
+Just about everywhere,
+you insulted my mother.
+
+237
+00:14:34,340 --> 00:14:36,407
+Richard, Richard,
+Richard. Hold on a second.
+
+238
+00:14:36,475 --> 00:14:40,111
+Focus on me right now.
+It was a television show.
+
+239
+00:14:41,314 --> 00:14:43,648
+Wasn't your real mother.
+
+240
+00:14:44,684 --> 00:14:46,784
+I loved my pretend mother.
+
+241
+00:14:48,554 --> 00:14:51,555
+Let's all pretend
+that he didn't say that.
+
+242
+00:14:52,892 --> 00:14:54,258
+Let's pretend to move on.
+
+243
+00:14:54,327 --> 00:14:55,971
+Okay, I understand,
+I understand.
+
+244
+00:14:55,995 --> 00:14:58,296
+Let's just watch a clip of
+the <i>Tool</i> girls, shall we?
+
+245
+00:14:58,365 --> 00:15:00,209
+MAN: Yeah. WOMAN: Yeah.
+
+246
+00:15:00,233 --> 00:15:01,877
+Does everybody
+know what time it is?
+
+247
+00:15:01,901 --> 00:15:03,478
+Does everybody
+know what time it is?
+
+248
+00:15:03,502 --> 00:15:05,203
+<i>Tool Time! Tool Time!</i>
+
+249
+00:15:05,271 --> 00:15:07,483
+That's right! Binford
+Tools is proud to present
+
+250
+00:15:07,507 --> 00:15:09,574
+Tim "The Tool Man" Taylor!
+
+251
+00:15:09,642 --> 00:15:10,908
+Tim "The Tool Man"...
+
+252
+00:15:10,976 --> 00:15:13,044
+Tim "The Tool Man" Taylor!
+
+253
+00:15:31,765 --> 00:15:32,964
+Nice dress, Deb.
+
+254
+00:15:33,033 --> 00:15:34,265
+Thank you.
+
+255
+00:15:34,333 --> 00:15:35,611
+Do you remember the
+first time I wore this?
+
+256
+00:15:35,635 --> 00:15:38,603
+(STUTTERING) Yeah, at
+that hardware convention.
+
+257
+00:15:38,671 --> 00:15:40,471
+No. No, that was Al.
+
+258
+00:15:43,276 --> 00:15:46,322
+Here's a little bit of trivia. The first
+time I appeared on <i>Home Improvement,</i>
+
+259
+00:15:46,346 --> 00:15:48,313
+I was not the <i>Tool Time</i> girl.
+
+260
+00:15:48,381 --> 00:15:51,915
+And it went something
+like this. Something like this.
+
+261
+00:15:52,885 --> 00:15:55,619
+Whoa, baby, bad news.
+
+262
+00:15:59,759 --> 00:16:03,560
+This is not the night for you
+to give up looking at women.
+
+263
+00:16:05,565 --> 00:16:08,032
+Uh-huh. Oh, why is that, Jill?
+
+264
+00:16:08,101 --> 00:16:11,702
+Because an unbelievable
+young goddess just came in
+
+265
+00:16:11,770 --> 00:16:13,783
+and sat right behind
+you. Yeah, right.
+
+266
+00:16:13,807 --> 00:16:15,350
+Yes. I'm gonna
+fall into that one.
+
+267
+00:16:15,374 --> 00:16:17,153
+What, a 74-year-old steelworker?
+
+268
+00:16:17,177 --> 00:16:19,321
+(GRUFFLY) "Hey, Marge,
+they got no beer here."
+
+269
+00:16:19,345 --> 00:16:21,946
+Not exactly, Tim. Oh, yeah,
+she's the va-va-voom type?
+
+270
+00:16:22,015 --> 00:16:23,815
+Well, as a matter of fact,
+
+271
+00:16:23,883 --> 00:16:27,918
+she has great va-vas
+and a darned good voom.
+
+272
+00:16:27,987 --> 00:16:29,898
+All right with me, because
+you're looking pretty good
+
+273
+00:16:29,922 --> 00:16:32,601
+since you took a couple
+of pounds off your voom.
+
+274
+00:16:32,625 --> 00:16:35,926
+(CHUCKLES) Well, thank you
+so much. Now, if you'll excuse me,
+
+275
+00:16:35,995 --> 00:16:39,330
+I'm going to take my
+voom to the ladies' room.
+
+276
+00:16:39,399 --> 00:16:42,144
+I'll be looking at my
+menu and nothing else.
+
+277
+00:16:42,168 --> 00:16:45,670
+Oh, man. Off to the right,
+three o'clock. Unbelievable!
+
+278
+00:17:09,595 --> 00:17:11,295
+Hey, it is you.
+
+279
+00:17:11,364 --> 00:17:15,165
+Tim "The Tool Man" Taylor?
+I never miss your show.
+
+280
+00:17:15,235 --> 00:17:18,447
+Oh, you have me confused with
+that handsome guy on <i>Tool Time.</i>
+
+281
+00:17:18,471 --> 00:17:21,339
+Don't be modest. Could
+I get your autograph?
+
+282
+00:17:21,407 --> 00:17:23,586
+Yeah, quick. Why don't you
+just slide it right under here,
+
+283
+00:17:23,610 --> 00:17:25,343
+under my head here? Okay.
+
+284
+00:17:25,411 --> 00:17:27,111
+Could you make it out to Kiki?
+
+285
+00:17:27,179 --> 00:17:28,479
+Kiki.
+
+286
+00:17:29,014 --> 00:17:30,281
+K-I...
+
+287
+00:17:30,350 --> 00:17:31,582
+Oh...
+
+288
+00:17:33,253 --> 00:17:36,387
+Okay, Kikster, here you go.
+
+289
+00:17:36,456 --> 00:17:38,556
+Hmm. Could you put
+my last name, too?
+
+290
+00:17:38,625 --> 00:17:40,135
+Ah, you know, my
+wife is due back.
+
+291
+00:17:40,159 --> 00:17:42,993
+She's coming out... Kiki
+Van Fursterwallenscheinlaw.
+
+292
+00:17:48,667 --> 00:17:50,268
+What? F-U-R
+
+293
+00:17:50,336 --> 00:17:51,981
+S-T-E-R-W-A-L-L. Uh-huh.
+
+294
+00:17:52,005 --> 00:17:53,949
+I'm getting a hand
+cramp. Hold on.
+
+295
+00:17:53,973 --> 00:17:58,275
+E-N-S-C-H-E-I-N-L-A-W.
+Uh-huh. Uh-huh.
+
+296
+00:17:58,344 --> 00:18:01,646
+L-A-W. Good thing
+it didn't run out of ink.
+
+297
+00:18:01,714 --> 00:18:03,313
+(GIGGLES)
+
+298
+00:18:03,382 --> 00:18:05,116
+Now can you grunt for me?
+
+299
+00:18:05,185 --> 00:18:07,262
+Well, you know, my wife
+is coming back and I just...
+
+300
+00:18:07,286 --> 00:18:08,518
+Hello, honey.
+
+301
+00:18:08,587 --> 00:18:10,621
+(CHOKING) JILL: Excuse me.
+
+302
+00:18:13,726 --> 00:18:15,426
+(GRUNTING)
+
+303
+00:18:18,397 --> 00:18:20,497
+(ALL GRUNTING)
+
+304
+00:18:23,602 --> 00:18:25,402
+What are you doing?
+
+305
+00:18:26,772 --> 00:18:28,406
+Are you choking?
+
+306
+00:18:41,754 --> 00:18:44,866
+The reason men check out women
+isn't because we lust after them.
+
+307
+00:18:44,890 --> 00:18:48,459
+We look because it reminds us of
+how much better we have it at home.
+
+308
+00:18:48,528 --> 00:18:49,727
+Right, men?
+
+309
+00:18:49,795 --> 00:18:51,028
+(MEN CHEERING)
+
+310
+00:18:51,097 --> 00:18:52,496
+Are they lying, women?
+
+311
+00:18:52,565 --> 00:18:53,964
+Yes! Yes!
+
+312
+00:18:54,032 --> 00:18:56,567
+We have a disagreement.
+
+313
+00:18:56,636 --> 00:18:59,871
+That's because men and
+women are different, duh,
+
+314
+00:18:59,939 --> 00:19:03,674
+much like a dry-cell battery.
+
+315
+00:19:03,743 --> 00:19:05,463
+The positive side
+is free-flowing,
+
+316
+00:19:05,512 --> 00:19:07,612
+full of energy, giving
+life everywhere,
+
+317
+00:19:07,680 --> 00:19:10,781
+but the negative side just sucks
+all the energy out of every situation.
+
+318
+00:19:10,850 --> 00:19:12,050
+Negative, negative, negative.
+
+319
+00:19:12,118 --> 00:19:13,918
+You never do any
+work around here.
+
+320
+00:19:13,987 --> 00:19:16,053
+You're always
+leaving the seat up.
+
+321
+00:19:18,024 --> 00:19:20,424
+Well, you decide
+which end is which.
+
+322
+00:19:22,862 --> 00:19:24,995
+Why don't we watch another clip?
+
+323
+00:19:25,064 --> 00:19:26,997
+Tim, I don't wanna
+be a nagging wife.
+
+324
+00:19:27,066 --> 00:19:29,767
+Then how will I recognize you?
+
+325
+00:19:29,836 --> 00:19:32,302
+Got to be something in
+here you can get rid of.
+
+326
+00:19:32,371 --> 00:19:37,007
+Yeah, but I stayed married
+to it because of the kids.
+
+327
+00:19:37,076 --> 00:19:38,887
+Why do you always bug
+me during the football game?
+
+328
+00:19:38,911 --> 00:19:42,246
+Did I bug you during childbirth?
+
+329
+00:19:42,315 --> 00:19:45,983
+No, but you bugged
+me during conception.
+
+330
+00:19:46,051 --> 00:19:47,562
+You never told me
+about a job interview.
+
+331
+00:19:47,586 --> 00:19:49,331
+Tim, do you ever listen to me?
+
+332
+00:19:49,355 --> 00:19:51,566
+It was the last thing that I
+said in bed to you last night.
+
+333
+00:19:51,590 --> 00:19:53,969
+No, I believe, if you recall,
+the last thing you said to me
+
+334
+00:19:53,993 --> 00:19:55,326
+in bed last night was,
+
+335
+00:19:55,395 --> 00:19:56,395
+"No!"
+
+336
+00:20:03,336 --> 00:20:05,369
+You're thinking of tonight.
+
+337
+00:20:10,809 --> 00:20:12,988
+If your husband was
+something you find in the kitchen,
+
+338
+00:20:13,012 --> 00:20:16,147
+what would he be? Oh,
+that's deep. Yeah, that's deep.
+
+339
+00:20:16,215 --> 00:20:18,916
+I think you'll find this
+very insightful, Tim.
+
+340
+00:20:18,985 --> 00:20:22,319
+"A," an oven, warm and
+self-cleaning. Not me.
+
+341
+00:20:22,388 --> 00:20:27,325
+"B," garbage disposal,
+grating and eats anything.
+
+342
+00:20:27,393 --> 00:20:30,828
+"C," a refrigerator. Very
+cold and the light's never on.
+
+343
+00:20:34,333 --> 00:20:36,300
+These are stupid.
+
+344
+00:20:36,369 --> 00:20:37,868
+Well, come on.
+
+345
+00:20:37,937 --> 00:20:38,802
+You haven't read the
+one that I picked for you.
+
+346
+00:20:38,871 --> 00:20:40,337
+Read "D."
+
+347
+00:20:40,406 --> 00:20:42,639
+"D," a tea kettle.
+
+348
+00:20:42,708 --> 00:20:45,209
+Hot and steamy,
+done in two minutes.
+
+349
+00:20:50,516 --> 00:20:54,719
+Do I ever wish that I
+married somebody else?
+
+350
+00:20:57,223 --> 00:20:59,623
+Why would I wanna
+marry anybody else?
+
+351
+00:21:01,060 --> 00:21:04,561
+You're funny. You're sexy.
+
+352
+00:21:04,631 --> 00:21:08,933
+Creative, you take chances and
+you're definitely not afraid to be wrong.
+
+353
+00:21:15,174 --> 00:21:17,519
+I'm perfectly happy being
+married to a man who thinks
+
+354
+00:21:17,543 --> 00:21:20,745
+that PBS is something that
+women get once a month.
+
+355
+00:21:25,818 --> 00:21:27,451
+Quit that.
+
+356
+00:21:27,520 --> 00:21:30,833
+No, really, stick your nose right there
+and tell me I don't smell like a man.
+
+357
+00:21:30,857 --> 00:21:32,634
+(CHUCKLES) Yeah, Cro-Magnon man.
+
+358
+00:21:32,658 --> 00:21:34,024
+(GRUNTING)
+
+359
+00:21:34,093 --> 00:21:36,993
+I believe he was
+never fully erect, either.
+
+360
+00:21:37,863 --> 00:21:39,830
+(GRUNTING)
+
+361
+00:21:39,899 --> 00:21:42,311
+We never actually said that we
+weren't gonna have another baby.
+
+362
+00:21:42,335 --> 00:21:45,002
+I've said it. I've talked about
+it. I know I've talked about it.
+
+363
+00:21:45,071 --> 00:21:46,937
+I mentioned it on <i>Tool Time.</i>
+
+364
+00:21:47,006 --> 00:21:50,366
+Oh, great. So 11
+people know about it?
+
+365
+00:21:51,344 --> 00:21:53,978
+Remember babies
+at all? Dirty diapers.
+
+366
+00:21:54,046 --> 00:21:57,514
+Colic, 2:00 am feedings,
+3:00 am feedings!
+
+367
+00:21:57,583 --> 00:21:59,716
+I don't have the
+energy for that anymore.
+
+368
+00:21:59,785 --> 00:22:01,129
+You don't have
+the energy to say,
+
+369
+00:22:01,153 --> 00:22:03,434
+"Wake up, Jill, the
+baby wants you"?
+
+370
+00:22:08,528 --> 00:22:10,428
+I just read this survey,
+
+371
+00:22:10,496 --> 00:22:13,264
+and it said that some couples,
+no matter how busy they are,
+
+372
+00:22:13,332 --> 00:22:16,266
+still make love
+five times a week.
+
+373
+00:22:16,335 --> 00:22:17,935
+With each other?
+
+374
+00:22:20,072 --> 00:22:21,072
+Yeah.
+
+375
+00:22:24,543 --> 00:22:25,663
+Hi.
+
+376
+00:22:26,979 --> 00:22:28,745
+Hi.
+
+377
+00:22:28,815 --> 00:22:30,259
+Come down here, I want
+to show you something.
+
+378
+00:22:30,283 --> 00:22:31,348
+What?
+
+379
+00:22:31,417 --> 00:22:32,749
+Come here.
+
+380
+00:22:36,722 --> 00:22:38,289
+I made a scale model
+
+381
+00:22:38,357 --> 00:22:41,425
+of the office I'll build you when
+you become a psychologist.
+
+382
+00:22:41,493 --> 00:22:44,973
+Here's your desk, here's
+your chair and here's your nut.
+
+383
+00:22:53,539 --> 00:22:54,705
+Where am I?
+
+384
+00:22:54,774 --> 00:22:56,014
+Seated at the desk.
+
+385
+00:22:56,676 --> 00:22:58,509
+And why did you do this?
+
+386
+00:22:58,577 --> 00:23:00,122
+I thought it would cheer you up,
+
+387
+00:23:00,146 --> 00:23:01,323
+because I think you
+might have the blues
+
+388
+00:23:01,347 --> 00:23:03,313
+and maybe we
+should talk about it.
+
+389
+00:23:03,382 --> 00:23:04,815
+So you're saying you wanna talk.
+
+390
+00:23:04,884 --> 00:23:07,284
+Why do you think
+I'm laying down?
+
+391
+00:23:09,789 --> 00:23:12,701
+You know, the other day, when
+you asked me what I was feeling,
+
+392
+00:23:12,725 --> 00:23:16,245
+I told you, and you
+jumped down my throat.
+
+393
+00:23:20,365 --> 00:23:23,067
+You're right. It wasn't fair.
+
+394
+00:23:23,135 --> 00:23:25,569
+If I'm going to ask
+for your feelings,
+
+395
+00:23:25,637 --> 00:23:28,906
+then I should be able to accept
+them, no matter what they are.
+
+396
+00:23:28,974 --> 00:23:32,574
+And not hit me on the
+head with a croquet ball.
+
+397
+00:23:34,213 --> 00:23:35,378
+Sorry about that.
+
+398
+00:23:35,447 --> 00:23:36,447
+(KISSES)
+
+399
+00:23:38,617 --> 00:23:41,657
+Not sure you should kiss your
+patients on that part of the peanut.
+
+400
+00:23:52,832 --> 00:23:54,042
+Absolutely free!
+
+401
+00:23:54,066 --> 00:23:55,632
+Oh, did you say free?
+
+402
+00:23:57,469 --> 00:24:00,437
+"No, it's me, I'm
+Spartacus." "I am Spartacus."
+
+403
+00:24:00,505 --> 00:24:04,341
+(LISPING) "No, it's me. I'm Spartacus.
+Really, I'm Spartacus. Ask anybody."
+
+404
+00:24:07,079 --> 00:24:08,212
+Clap.
+
+405
+00:24:08,280 --> 00:24:09,440
+Uh...
+
+406
+00:24:11,016 --> 00:24:12,182
+(HUMMING)
+
+407
+00:24:15,654 --> 00:24:16,820
+Yes!
+
+408
+00:24:21,860 --> 00:24:23,827
+And now, you just...
+
+409
+00:24:34,139 --> 00:24:37,474
+I am a sick, sick man.
+
+410
+00:24:43,883 --> 00:24:45,983
+In the eight years
+I did the show,
+
+411
+00:24:46,051 --> 00:24:49,052
+there was only two times,
+seriously, that I was ever scared.
+
+412
+00:24:49,121 --> 00:24:50,621
+And the first time...
+
+413
+00:24:50,690 --> 00:24:52,868
+Well, I'm going to tell
+you, I have a Telestrator,
+
+414
+00:24:52,892 --> 00:24:54,703
+one of those things that
+Madden used. So you gotta watch,
+
+415
+00:24:54,727 --> 00:24:56,772
+because this could be kind of
+fun to use. I've never done this.
+
+416
+00:24:56,796 --> 00:24:59,107
+The first time that I was
+scared on <i>Home Improvement</i>
+
+417
+00:24:59,131 --> 00:25:01,665
+in these eight years
+went something like this.
+
+418
+00:25:01,734 --> 00:25:03,267
+Watch carefully.
+
+419
+00:25:03,336 --> 00:25:04,735
+I never knew how to drive this.
+
+420
+00:25:07,105 --> 00:25:08,772
+Watch the front wheels.
+
+421
+00:25:09,875 --> 00:25:11,708
+Right here. Not good!
+
+422
+00:25:12,879 --> 00:25:14,244
+No, no.
+
+423
+00:25:15,815 --> 00:25:17,280
+Stop it. Stop, stop.
+
+424
+00:25:20,185 --> 00:25:21,919
+All right.
+
+425
+00:25:21,987 --> 00:25:26,089
+They didn't even ask me if I had
+ever driven one of these things before.
+
+426
+00:25:26,158 --> 00:25:29,426
+Let me point out a few
+John Madden-type things.
+
+427
+00:25:29,494 --> 00:25:31,828
+These are the distances
+you should be very aware of.
+
+428
+00:25:31,897 --> 00:25:34,197
+Here and here.
+
+429
+00:25:34,266 --> 00:25:36,466
+Right there. See that?
+
+430
+00:25:36,535 --> 00:25:39,303
+See that little distance here?
+
+431
+00:25:39,371 --> 00:25:42,172
+That's how far the
+wheel is off the ground.
+
+432
+00:25:43,042 --> 00:25:44,641
+That's a no-no.
+
+433
+00:25:45,777 --> 00:25:48,078
+See this, here?
+That's the bucket.
+
+434
+00:25:48,147 --> 00:25:52,449
+Up here, above my
+head. Another no-no.
+
+435
+00:25:52,517 --> 00:25:57,087
+But the real telling part of this
+scared, a butt-clenching scared...
+
+436
+00:25:59,792 --> 00:26:03,126
+Right there are the two
+joysticks that control the vehicle.
+
+437
+00:26:04,930 --> 00:26:06,764
+(LAUGHING)
+
+438
+00:26:06,832 --> 00:26:09,733
+And here...
+
+439
+00:26:13,673 --> 00:26:18,275
+Yup, those are my hands.
+
+440
+00:26:18,344 --> 00:26:23,847
+And that is a man
+driving a car like this.
+
+441
+00:26:23,916 --> 00:26:25,782
+(SCREAMING)
+
+442
+00:26:29,521 --> 00:26:30,654
+All right.
+
+443
+00:26:32,558 --> 00:26:34,992
+Too funny. Now,
+
+444
+00:26:35,061 --> 00:26:38,528
+the second-scariest
+moment is this next clip,
+
+445
+00:26:38,598 --> 00:26:42,666
+where it's more of an emotional
+scary. It really was scary for me.
+
+446
+00:26:42,735 --> 00:26:45,469
+We had had a romantic
+evening in the script planned,
+
+447
+00:26:45,537 --> 00:26:48,438
+and she didn't tell
+me, right, Case?
+
+448
+00:26:48,507 --> 00:26:51,808
+Yeah, I remember that. That was
+the night you came down to the bar
+
+449
+00:26:51,877 --> 00:26:54,489
+with me and the fellows after
+work and had a couple drinks.
+
+450
+00:26:54,513 --> 00:26:56,847
+Right. But when I got home...
+
+451
+00:26:56,915 --> 00:27:01,651
+Well, it went something
+like this. <i>Something like this.</i>
+
+452
+00:27:01,720 --> 00:27:05,522
+I spent two days
+planning this evening.
+
+453
+00:27:05,590 --> 00:27:07,702
+Do you have any
+idea how long it's been
+
+454
+00:27:07,726 --> 00:27:10,894
+since we had a quiet,
+romantic evening together?
+
+455
+00:27:10,963 --> 00:27:12,674
+I was on the phone. Why
+didn't you say, "Come home"?
+
+456
+00:27:12,698 --> 00:27:14,464
+I wanted to surprise you.
+
+457
+00:27:14,533 --> 00:27:16,300
+Well, I'm surprised.
+
+458
+00:27:17,770 --> 00:27:19,235
+Come on, Jill, lighten up.
+
+459
+00:27:19,305 --> 00:27:21,416
+I didn't understand what
+you meant on the phone.
+
+460
+00:27:21,440 --> 00:27:23,385
+Well, what did you think I meant
+when I said all that stuff about
+
+461
+00:27:23,409 --> 00:27:27,578
+how I was looking forward to
+seeing you and, "I'll be waiting"?
+
+462
+00:27:27,647 --> 00:27:31,281
+Oh, like you said it
+like that, "I'll be waiting."
+
+463
+00:27:31,350 --> 00:27:34,818
+Well, I wanted to be more subtle.
+What did you want me to say?
+
+464
+00:27:34,886 --> 00:27:38,588
+"The kids are gone, I'm home
+alone, come and take me, Big Daddy"?
+
+465
+00:27:41,259 --> 00:27:42,939
+Well, that, I understand.
+
+466
+00:27:47,666 --> 00:27:49,444
+Good night. Come on, Jill.
+
+467
+00:27:49,468 --> 00:27:52,180
+I don't go out with these guys every
+night. What's making you so angry?
+
+468
+00:27:52,204 --> 00:27:54,916
+I am angry because you said you
+were going to be home in 15 minutes
+
+469
+00:27:54,940 --> 00:27:56,774
+and then you weren't.
+
+470
+00:27:56,842 --> 00:27:59,320
+Because I'm flirting with you like crazy
+on the phone, you didn't even notice.
+
+471
+00:27:59,344 --> 00:28:02,746
+And most of all, because I
+went to all this trouble for nothing.
+
+472
+00:28:02,815 --> 00:28:04,548
+I spent the whole
+evening by myself,
+
+473
+00:28:04,617 --> 00:28:07,016
+and now you're stuck
+with a plate of cold food.
+
+474
+00:28:07,085 --> 00:28:09,919
+Oh, don't worry about
+me, I ate at the bar.
+
+475
+00:28:12,991 --> 00:28:16,026
+Wait, wait, wait, wait.
+I didn't have dessert.
+
+476
+00:28:17,062 --> 00:28:19,696
+All right, stop
+it here. All right.
+
+477
+00:28:19,765 --> 00:28:22,432
+Roll it back here. Stop, stop,
+stop. All right, now, right here,
+
+478
+00:28:22,501 --> 00:28:24,768
+she had just said that
+and I actually jolted out of...
+
+479
+00:28:24,836 --> 00:28:26,202
+I was in, like, a trance.
+
+480
+00:28:26,272 --> 00:28:28,272
+And see this face here?
+
+481
+00:28:28,340 --> 00:28:32,643
+That just says, "Fear."
+
+482
+00:28:32,711 --> 00:28:35,056
+It wasn't supposed to be that
+way. It was supposed to be just...
+
+483
+00:28:35,080 --> 00:28:38,080
+The dialog... I knew she was going
+to get angry. She got so angry with me,
+
+484
+00:28:38,116 --> 00:28:41,618
+I came out of character
+and stopped the show to go,
+
+485
+00:28:41,687 --> 00:28:44,855
+"Jeez, Pat, are you all right?"
+
+486
+00:28:46,725 --> 00:28:49,526
+She walks up to me, gets about
+an inch in front of my face, she goes,
+
+487
+00:28:49,595 --> 00:28:52,262
+"Yes, Tim. That's
+called 'Acting.'"
+
+488
+00:28:56,368 --> 00:28:58,067
+Oh.
+
+489
+00:29:04,810 --> 00:29:07,010
+Oh.
+
+490
+00:29:07,078 --> 00:29:09,918
+I sat there, going, "I'm
+going to have to try that."
+
+491
+00:29:12,918 --> 00:29:15,852
+If you parked a brand-new car
+under a tree filled with hungry pigeons,
+
+492
+00:29:15,921 --> 00:29:18,488
+you know, I'll call Triple-A...
+
+493
+00:29:18,557 --> 00:29:20,357
+(LAUGHING)
+
+494
+00:29:21,726 --> 00:29:23,960
+Even if you park
+a new car under...
+
+495
+00:29:26,165 --> 00:29:29,232
+Even if you do something as
+crazy as park a new car under a tree,
+
+496
+00:29:29,301 --> 00:29:30,968
+filled with just-fed...
+
+497
+00:29:32,971 --> 00:29:34,571
+Even if you do
+something as crazy
+
+498
+00:29:34,639 --> 00:29:38,175
+as parking your car under a
+tree filled with birds, I am not...
+
+499
+00:29:41,280 --> 00:29:42,879
+This is jammed or something, Al.
+
+500
+00:29:48,954 --> 00:29:52,623
+I'll just climb up there and
+show you how sturdy this is.
+
+501
+00:29:52,691 --> 00:29:55,437
+The Binford telescopic
+ladder. Just as supportive as...
+
+502
+00:29:55,461 --> 00:29:57,105
+Tim, you might
+wanna watch the...
+
+503
+00:29:57,129 --> 00:29:58,428
+Could I finish here, Al?
+
+504
+00:29:58,497 --> 00:29:59,974
+I just want you to be
+careful, so you don't...
+
+505
+00:29:59,998 --> 00:30:02,065
+(SCREAMING)
+
+506
+00:30:10,342 --> 00:30:11,841
+Thank you all. Look.
+
+507
+00:30:14,646 --> 00:30:17,380
+This is it.
+
+508
+00:30:17,449 --> 00:30:20,562
+This is the garage. This is
+the home of the automobile.
+
+509
+00:30:20,586 --> 00:30:23,253
+It's the piston palace.
+And the carburetor castle.
+
+510
+00:30:23,322 --> 00:30:27,224
+It's that muffler mansion.
+The transmission Taj Mahal.
+
+511
+00:30:27,292 --> 00:30:30,627
+Casey, give me
+some road-rage rock!
+
+512
+00:30:30,696 --> 00:30:32,663
+You got it, Timmy.
+
+513
+00:30:32,731 --> 00:30:34,598
+<i>(UPBEAT MUSIC PLAYING)</i>
+
+514
+00:30:43,576 --> 00:30:45,943
+(MIMICKING ENGINE)
+
+515
+00:30:55,521 --> 00:30:56,820
+I'm addicted to cars.
+
+516
+00:30:56,888 --> 00:30:58,455
+Well, duh.
+
+517
+00:30:58,524 --> 00:31:02,158
+I've been thinking of checking
+into the Henry Ford Clinic.
+
+518
+00:31:08,200 --> 00:31:10,933
+This is the greatest gift
+you've ever given me.
+
+519
+00:31:11,002 --> 00:31:13,170
+I gave you three children.
+
+520
+00:31:13,238 --> 00:31:16,072
+Yeah, but none of them
+came out this clean.
+
+521
+00:31:20,512 --> 00:31:24,947
+On <i>Home Improvement,</i> I
+was a father to three boys.
+
+522
+00:31:25,017 --> 00:31:27,683
+Of course, I wasn't
+their real father.
+
+523
+00:31:30,322 --> 00:31:32,600
+No, no, no, no, of course
+I wasn't their real father.
+
+524
+00:31:32,624 --> 00:31:34,102
+I was really more like a mentor,
+
+525
+00:31:34,126 --> 00:31:38,228
+you know, an older
+brother, maybe.
+
+526
+00:31:38,296 --> 00:31:41,398
+Well, a twisted,
+demented older brother,
+
+527
+00:31:43,268 --> 00:31:45,602
+who taught them
+about family values.
+
+528
+00:31:45,671 --> 00:31:49,873
+No, no. Dad, it
+smells under here!
+
+529
+00:31:51,709 --> 00:31:53,076
+(SCREAMING)
+
+530
+00:31:53,145 --> 00:31:55,312
+There's a snake behind you.
+
+531
+00:31:55,380 --> 00:31:57,147
+Oh, I bet there is!
+
+532
+00:31:59,418 --> 00:32:02,485
+Dad, we're not joking.
+It's moving towards you.
+
+533
+00:32:02,554 --> 00:32:06,122
+Why don't I just open my shirt
+and let him crawl right in, huh?
+
+534
+00:32:09,561 --> 00:32:11,881
+Tim, the snake
+wasn't in the bag.
+
+535
+00:32:13,299 --> 00:32:15,966
+Because the
+snake is in my shirt!
+
+536
+00:32:17,469 --> 00:32:19,102
+I have a woman. Mommy.
+
+537
+00:32:19,171 --> 00:32:21,872
+Your mommy can't be
+your woman, doofus.
+
+538
+00:32:21,940 --> 00:32:25,575
+A lot of men pay a psychiatrist a
+lot of money to figure that one out.
+
+539
+00:32:26,945 --> 00:32:28,322
+Mom! What?
+
+540
+00:32:28,346 --> 00:32:29,524
+Dad's cussing. I'm not cussing.
+
+541
+00:32:29,548 --> 00:32:31,259
+He said a bad
+word. It wasn't bad.
+
+542
+00:32:31,283 --> 00:32:33,016
+Yeah, he said "hell" and "damn."
+
+543
+00:32:33,085 --> 00:32:34,751
+I did not say "damn."
+
+544
+00:32:34,819 --> 00:32:36,019
+Now you did.
+
+545
+00:32:37,890 --> 00:32:40,101
+It's not that big a deal. I
+mean, I've had detention before.
+
+546
+00:32:40,125 --> 00:32:42,325
+It's the first day of school!
+
+547
+00:32:44,963 --> 00:32:48,332
+No one ever gets detention
+on the first day of school.
+
+548
+00:32:48,400 --> 00:32:49,967
+I wouldn't say "No one."
+
+549
+00:32:51,936 --> 00:32:53,948
+Oh, it's gonna take
+a minute to boot up,
+
+550
+00:32:53,972 --> 00:32:56,606
+I still have that
+old 286 chip on it.
+
+551
+00:32:56,675 --> 00:32:58,915
+You know, not much power.
+
+552
+00:33:02,781 --> 00:33:04,901
+Are you saying this
+thing needs more power?
+
+553
+00:33:06,117 --> 00:33:08,618
+Let me open it up. I can
+make this thing go faster.
+
+554
+00:33:10,355 --> 00:33:11,832
+Well, why don't we
+just save you the trouble
+
+555
+00:33:11,856 --> 00:33:14,202
+and throw it up
+against the wall?
+
+556
+00:33:14,226 --> 00:33:16,504
+Let me talk about sex for a
+minute. BRAD: Dad, I don't wanna...
+
+557
+00:33:16,528 --> 00:33:19,040
+I want you to listen to me. Listen
+up. Can you, please? Listen up.
+
+558
+00:33:19,064 --> 00:33:21,164
+Sex is...
+
+559
+00:33:21,233 --> 00:33:23,399
+It's like a car.
+
+560
+00:33:23,468 --> 00:33:29,039
+The best idea is to keep the car in
+the garage for a long, long, long time.
+
+561
+00:33:31,443 --> 00:33:34,410
+And then, somewhere in
+the future, the distant future,
+
+562
+00:33:34,479 --> 00:33:39,149
+when that garage door opens,
+you gotta think, "Car cover."
+
+563
+00:33:52,397 --> 00:33:55,165
+You know, you just keep
+feeding them and they grow up.
+
+564
+00:33:55,233 --> 00:33:56,810
+Don't they? You know?
+
+565
+00:33:56,834 --> 00:33:58,246
+Well, you know, sometimes
+you read your script,
+
+566
+00:33:58,270 --> 00:34:00,803
+and you can't wait
+to do the episode.
+
+567
+00:34:00,872 --> 00:34:03,973
+This script scared me.
+
+568
+00:34:04,042 --> 00:34:05,908
+Called <i>The Vasectomy One.</i> Yeah.
+
+569
+00:34:05,977 --> 00:34:07,577
+(CHUCKLING)
+
+570
+00:34:07,646 --> 00:34:09,613
+Tim agreed to have a vasectomy,
+
+571
+00:34:09,681 --> 00:34:11,281
+and then we told
+him what that meant.
+
+572
+00:34:13,619 --> 00:34:15,130
+But when he got down
+to the doctor's office,
+
+573
+00:34:15,154 --> 00:34:17,654
+there was one thing
+that Jill forgot to tell him.
+
+574
+00:34:17,722 --> 00:34:21,658
+And it went something
+like this. Something like this.
+
+575
+00:34:21,726 --> 00:34:25,995
+Hi, Mr. and Mrs. Taylor, I'm
+Dr. Kaplan. I'll be with you in a minute.
+
+576
+00:34:27,166 --> 00:34:28,899
+Harold!
+
+577
+00:34:28,967 --> 00:34:32,101
+A woman? You brought
+me here to see a woman?
+
+578
+00:34:32,170 --> 00:34:34,816
+I didn't know that she was a
+woman. My gynecologist just said
+
+579
+00:34:34,840 --> 00:34:38,174
+that Dr. Kaplan was
+the best urologist in town.
+
+580
+00:34:38,243 --> 00:34:42,579
+How am I supposed to talk to a woman
+about what's going on in man land?
+
+581
+00:34:43,449 --> 00:34:46,116
+Man land?
+
+582
+00:34:46,185 --> 00:34:49,018
+Now you got a theme
+park between your legs?
+
+583
+00:34:54,525 --> 00:34:57,426
+My husband, I think,
+is just concerned
+
+584
+00:34:57,495 --> 00:35:00,441
+about how this is gonna
+affect his performance.
+
+585
+00:35:00,465 --> 00:35:03,366
+(CHUCKLING NERVOUSLY)
+Honey, let me handle this.
+
+586
+00:35:03,434 --> 00:35:05,701
+You see, I put on a good show.
+
+587
+00:35:08,106 --> 00:35:09,672
+And I just wanna make sure
+
+588
+00:35:09,741 --> 00:35:12,642
+the curtain doesn't come down
+in the middle of the first act.
+
+589
+00:35:12,711 --> 00:35:16,513
+This will not, in any way,
+affect your sexual function.
+
+590
+00:35:16,581 --> 00:35:18,615
+We simply cut off
+the flow of sperm...
+
+591
+00:35:18,683 --> 00:35:20,683
+Oh, boy.
+
+592
+00:35:20,752 --> 00:35:22,953
+To prevent it from
+entering the seminal stream.
+
+593
+00:35:23,021 --> 00:35:25,822
+Mmm-hmm. So I'm
+fishing without bait, now.
+
+594
+00:35:27,292 --> 00:35:28,959
+No bait.
+
+595
+00:35:29,027 --> 00:35:31,238
+Why don't you tell us what's
+involved in the procedure?
+
+596
+00:35:31,262 --> 00:35:33,663
+Yeah, I'm dying to hear this.
+
+597
+00:35:33,732 --> 00:35:35,410
+Well, the morning
+of your appointment,
+
+598
+00:35:35,434 --> 00:35:38,768
+you'd have to shave in the area
+where I'll be making the incisions.
+
+599
+00:35:38,837 --> 00:35:41,738
+Shave? Here?
+
+600
+00:35:42,640 --> 00:35:44,407
+It's just a routine procedure.
+
+601
+00:35:44,476 --> 00:35:46,208
+Not in my house, it's not.
+
+602
+00:35:48,312 --> 00:35:49,891
+What do you think? I
+wake up in the morning,
+
+603
+00:35:49,915 --> 00:35:53,383
+brush my teeth, comb my
+hair and shave ping and pong?
+
+604
+00:35:57,956 --> 00:36:02,625
+The first thing I do is give
+you a shot that's a local.
+
+605
+00:36:02,694 --> 00:36:04,975
+Local, like here in Detroit?
+
+606
+00:36:06,064 --> 00:36:07,864
+No, local, like here
+in your scrotum.
+
+607
+00:36:07,933 --> 00:36:10,567
+Oh, boy.
+
+608
+00:36:10,635 --> 00:36:12,313
+That does sting
+for a few seconds.
+
+609
+00:36:12,337 --> 00:36:13,803
+You think?
+
+610
+00:36:19,844 --> 00:36:23,112
+Forget about it, Wilson. I'm the kind
+of guy that likes to stand his ground.
+
+611
+00:36:23,181 --> 00:36:24,880
+Whoa. Whoa. Whoa...
+
+612
+00:36:25,517 --> 00:36:27,283
+(GROANING)
+
+613
+00:36:29,554 --> 00:36:32,034
+You okay there, Tim? Oh, yeah.
+
+614
+00:36:34,326 --> 00:36:36,526
+Yeah, I just was tired
+of using that ladder.
+
+615
+00:36:39,398 --> 00:36:41,631
+Wilson...
+
+616
+00:36:41,700 --> 00:36:43,811
+Oh, I love that part. Wilson
+was played by Earl Hindman,
+
+617
+00:36:43,835 --> 00:36:46,181
+who couldn't be here because
+he's doing a play in New York City.
+
+618
+00:36:46,205 --> 00:36:48,483
+He was one of my favorite
+characters on the show,
+
+619
+00:36:48,507 --> 00:36:49,750
+really one of my
+favorite actors,
+
+620
+00:36:49,774 --> 00:36:51,854
+and certainly one
+of my favorite friends.
+
+621
+00:36:51,910 --> 00:36:54,755
+You know, he lived next door to
+us for eight years, but, you know,
+
+622
+00:36:54,779 --> 00:36:57,980
+I got to say, I just never
+saw enough of the guy.
+
+623
+00:36:59,818 --> 00:37:01,518
+Tim, you growing a beard?
+
+624
+00:37:03,421 --> 00:37:04,654
+What do you think?
+
+625
+00:37:04,722 --> 00:37:06,689
+Well, I'm not sure,
+
+626
+00:37:06,758 --> 00:37:10,038
+I could never understand why a
+man would want to hide his face.
+
+627
+00:37:10,928 --> 00:37:13,440
+There was a time when I
+thought my extensive research
+
+628
+00:37:13,464 --> 00:37:16,266
+into ancient tribal cultures,
+obscure scientific data,
+
+629
+00:37:16,334 --> 00:37:19,735
+the thoughts of great philosophers
+would never come in handy.
+
+630
+00:37:19,804 --> 00:37:22,739
+Then you moved in.
+
+631
+00:37:22,808 --> 00:37:28,411
+Well, Tim, I'm reminded of
+what Aristotle said about Plato.
+
+632
+00:37:28,480 --> 00:37:32,082
+"Keep the lid on tight, otherwise it'll
+all dry out." That's what I tell Mark.
+
+633
+00:37:35,453 --> 00:37:38,821
+I like to create, Wilson. Everything I
+do, I wanna make bigger and better.
+
+634
+00:37:38,890 --> 00:37:44,093
+Well, Tim, this obsessive
+desire to create partly happens
+
+635
+00:37:44,162 --> 00:37:46,796
+because men feel
+inferior to women.
+
+636
+00:37:46,865 --> 00:37:48,297
+(GRUNTS)
+
+637
+00:37:49,634 --> 00:37:51,645
+It's because we
+can't bear children.
+
+638
+00:37:51,669 --> 00:37:53,669
+I don't mind the boys that much.
+
+639
+00:37:58,943 --> 00:38:01,478
+Wilson, you're not
+making me feel any better.
+
+640
+00:38:01,546 --> 00:38:06,615
+Well, excuse me, why do I always
+have to be Santa's little helper?
+
+641
+00:38:06,684 --> 00:38:09,385
+Well... I mean, I have wants,
+
+642
+00:38:09,454 --> 00:38:12,333
+I have needs, I have issues, but
+does anyone ever come to the fence
+
+643
+00:38:12,357 --> 00:38:14,302
+and say, "Wilson, do
+you have a problem?"
+
+644
+00:38:14,326 --> 00:38:16,893
+I mean, no! It's just
+"Me, me, me, me!"
+
+645
+00:38:27,138 --> 00:38:28,138
+Tim?
+
+646
+00:38:28,206 --> 00:38:29,739
+Wilson, you up?
+
+647
+00:38:31,977 --> 00:38:33,643
+I am now.
+
+648
+00:38:33,712 --> 00:38:36,546
+Have you ever had a
+real annoying neighbor?
+
+649
+00:38:41,920 --> 00:38:44,201
+Tim, is this a trick question?
+
+650
+00:38:49,761 --> 00:38:51,894
+I sure miss you,
+Earl. I really do.
+
+651
+00:38:51,963 --> 00:38:55,598
+Wilson often quoted
+philosopher Joseph Campbell,
+
+652
+00:38:55,666 --> 00:38:59,902
+who said, "Before you can
+create, you must destroy."
+
+653
+00:39:01,439 --> 00:39:03,279
+I've tried to live by that.
+
+654
+00:39:04,942 --> 00:39:07,309
+(SCREAMING)
+
+655
+00:39:15,153 --> 00:39:17,265
+If that's good advice, I'll
+give you more good advice.
+
+656
+00:39:17,289 --> 00:39:19,600
+Always think safety when
+working with a spinning lathe.
+
+657
+00:39:19,624 --> 00:39:20,901
+You notice I didn't
+wear a necktie.
+
+658
+00:39:20,925 --> 00:39:22,136
+We get a lot of
+letters about this.
+
+659
+00:39:22,160 --> 00:39:23,438
+You want nothing hanging down,
+
+660
+00:39:23,462 --> 00:39:25,622
+and no loose
+clothing. Possibility...
+
+661
+00:39:27,532 --> 00:39:29,165
+Let me finish.
+
+662
+00:39:30,469 --> 00:39:31,867
+Sometimes...
+
+663
+00:39:40,245 --> 00:39:41,911
+(MIMICKING ENGINE)
+
+664
+00:39:46,418 --> 00:39:48,818
+The mouse goes in
+the little door here... Ah!
+
+665
+00:39:50,922 --> 00:39:52,855
+(EXCLAIMING)
+
+666
+00:39:57,128 --> 00:39:59,496
+Presto, you walk
+through and door shuts.
+
+667
+00:40:00,732 --> 00:40:03,099
+(MIMICKING ENGINE)
+
+668
+00:40:03,168 --> 00:40:04,700
+Missed a shift.
+
+669
+00:40:06,838 --> 00:40:08,470
+Ow!
+
+670
+00:40:08,539 --> 00:40:11,941
+Al, I was gonna get to that.
+
+671
+00:40:12,010 --> 00:40:15,177
+You wanna set your laminate securely
+on your chimney's front and back.
+
+672
+00:40:15,246 --> 00:40:16,246
+(EXCLAIMS)
+
+673
+00:40:33,231 --> 00:40:34,631
+(JILL LAUGHING)
+
+674
+00:40:34,699 --> 00:40:37,399
+What is this thing on your head?
+
+675
+00:40:37,468 --> 00:40:39,669
+It's a little piece of table.
+
+676
+00:40:40,939 --> 00:40:42,750
+Do you think you should
+go to the emergency room?
+
+677
+00:40:42,774 --> 00:40:45,241
+I was just there. They
+said I wasn't a priority.
+
+678
+00:40:47,245 --> 00:40:50,379
+Why? Was there a guy with a
+whole table stuck to his head?
+
+679
+00:40:52,550 --> 00:40:53,550
+Ow!
+
+680
+00:40:53,585 --> 00:40:55,018
+Tim. Oh, ow!
+
+681
+00:40:56,321 --> 00:41:00,423
+(MIMICKING ENGINE)
+
+682
+00:41:00,492 --> 00:41:03,793
+TIM: It's a little weak here.
+You wanna avoid this area, too.
+
+683
+00:41:03,862 --> 00:41:05,662
+(SCREAMING)
+
+684
+00:41:09,767 --> 00:41:11,768
+(SCREAMING)
+
+685
+00:41:16,641 --> 00:41:17,707
+AL: Tim!
+
+686
+00:41:19,076 --> 00:41:20,643
+Al, you all right?
+
+687
+00:41:20,712 --> 00:41:22,111
+Look out!
+
+688
+00:41:22,179 --> 00:41:23,924
+Tim, your foot. Don't
+hit the brake release!
+
+689
+00:41:23,948 --> 00:41:25,081
+What?
+
+690
+00:41:36,561 --> 00:41:39,573
+Good night, everybody.
+Good night! Bye!
+
+691
+00:41:39,597 --> 00:41:41,464
+(AUDIENCE CHEERING)
+
+692
+00:41:43,969 --> 00:41:45,768
+Hey, just a little bow.
+
+693
+00:41:45,837 --> 00:41:47,770
+TIM: A bow. AL: A bow!
+
+694
+00:41:50,608 --> 00:41:55,445
+<i>HINDMAN: You know, we always close
+our show with bloopers. Guess what?</i>
+
+695
+00:41:55,513 --> 00:41:59,882
+Yes, you don't wanna be the only
+one with an incredibly desirable woman.
+
+696
+00:42:06,724 --> 00:42:09,191
+Kiss me before
+I get rigor mortis.
+
+697
+00:42:12,430 --> 00:42:14,062
+Mmm.
+
+698
+00:42:14,131 --> 00:42:16,443
+That just caused rigor
+mortis in a fashion.
+
+699
+00:42:16,467 --> 00:42:17,800
+(LAUGHING)
+

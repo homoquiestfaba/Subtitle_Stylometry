@@ -1,0 +1,4168 @@
+﻿1
+00:00:49,482 --> 00:00:52,684
+So if you're just joining us,
+I am here with Andrew Kincaid.
+
+2
+00:00:52,686 --> 00:00:56,255
+Brainchild behind sentinel,
+the world's most rapidly
+
+3
+00:00:56,257 --> 00:00:58,624
+growing video game company.
+
+4
+00:00:58,626 --> 00:01:01,693
+And if I may say so, now,
+one of the most powerful
+
+5
+00:01:01,695 --> 00:01:03,495
+men on the planet.
+
+6
+00:01:03,497 --> 00:01:05,697
+You recently made
+headlines for your
+
+7
+00:01:05,699 --> 00:01:08,500
+campaign against the
+preservation of the right
+
+8
+00:01:08,502 --> 00:01:10,669
+to bear arms in this
+second amendment war
+
+9
+00:01:10,671 --> 00:01:12,838
+that's been raging
+in Washington.
+
+10
+00:01:12,840 --> 00:01:19,211
+Complete with catchy slogan,
+"keep guns in games."
+
+11
+00:01:19,579 --> 00:01:22,381
+Well it's something that
+I'm very passionate about.
+
+12
+00:01:22,383 --> 00:01:25,384
+We've lost touch with how
+lucky we are to be here.
+
+13
+00:01:25,386 --> 00:01:26,718
+Uh, we piss on the planet.
+
+14
+00:01:26,720 --> 00:01:26,718
+We piss on the animals, on
+nature, and on each other.
+
+15
+00:01:26,720 --> 00:01:31,723
+And then we raise our fists
+in protests for our right
+
+16
+00:01:31,725 --> 00:01:34,560
+to own a gun while people are
+being killed left and right.
+
+17
+00:01:34,562 --> 00:01:36,462
+And then we delude
+ourselves into believing
+
+18
+00:01:36,464 --> 00:01:38,697
+that gun that we own could
+ever match might with the
+
+19
+00:01:38,699 --> 00:01:40,799
+21st century American military.
+
+20
+00:01:40,801 --> 00:01:43,869
+Gun ownership in this country
+is an obsolete tradition.
+
+21
+00:01:43,871 --> 00:01:45,537
+It can't protect us anymore.
+
+22
+00:01:45,539 --> 00:01:48,607
+In fact, it's
+clearly hurting us.
+
+23
+00:01:48,609 --> 00:01:50,843
+Well, certainly a very
+traditionalist perspective
+
+24
+00:01:50,845 --> 00:01:52,578
+to support gun ownership.
+
+25
+00:01:52,580 --> 00:01:54,880
+And the number of failed
+bills reflects that.
+
+26
+00:01:54,882 --> 00:01:57,483
+Traditions still stand
+strong in America.
+
+27
+00:01:57,485 --> 00:01:58,884
+That makes me very sad.
+
+28
+00:01:58,886 --> 00:02:02,387
+I mean, what is it gonna take
+to get that point across?
+
+29
+00:02:02,389 --> 00:02:05,891
+And your solution would be to
+contain violence to video games?
+
+30
+00:02:05,893 --> 00:02:09,828
+Well, we're never gonna contain
+it, but we can direct it.
+
+31
+00:02:09,830 --> 00:02:12,631
+You wanna shoot something,
+you wanna shoot somebody?
+
+32
+00:02:12,633 --> 00:02:13,765
+Play a game.
+
+33
+00:02:13,767 --> 00:02:14,900
+Play one of my games.
+
+34
+00:02:14,902 --> 00:02:16,335
+Flight's not delayed
+like we thought.
+
+35
+00:02:16,337 --> 00:02:18,504
+Out the door in thirty, okay?
+
+36
+00:02:20,907 --> 00:02:23,909
+Ors, we are not gonna be able to
+sort through all these things.
+
+37
+00:02:23,911 --> 00:02:27,546
+And speaking of your games,
+what can you tell us about
+
+38
+00:02:27,548 --> 00:02:30,215
+the rumors that your top
+security officer, Orson
+
+39
+00:02:30,217 --> 00:02:33,485
+creed, has been pushing
+to move sentinel into
+
+40
+00:02:33,487 --> 00:02:34,586
+military contracts.
+
+41
+00:02:34,588 --> 00:02:35,621
+Come on.
+
+42
+00:02:35,623 --> 00:02:36,755
+I dare you.
+
+43
+00:02:36,757 --> 00:02:38,490
+Orson, we need to go.
+
+44
+00:02:38,492 --> 00:02:40,392
+Yeah, hold on.
+
+45
+00:02:40,394 --> 00:02:41,760
+I need to hear this.
+
+46
+00:02:41,762 --> 00:02:44,196
+And how it can best be
+used to serve to public.
+
+47
+00:02:44,198 --> 00:02:47,399
+Mr. creed and I fall on
+different sides of the aisle.
+
+48
+00:02:47,401 --> 00:02:48,667
+And let's be clear about this.
+
+49
+00:02:48,669 --> 00:02:50,869
+This is not the first time
+he's tried to extract an
+
+50
+00:02:50,871 --> 00:02:52,538
+intellectual property.
+
+51
+00:02:52,540 --> 00:02:55,807
+But I could promise you,
+it will be the last.
+
+52
+00:02:55,809 --> 00:02:58,644
+So Orson creed would be
+the one saying...
+
+53
+00:02:58,646 --> 00:03:01,213
+Under his direction, sentinel
+becomes a military
+
+54
+00:03:01,215 --> 00:03:02,514
+tech developer.
+
+55
+00:03:02,516 --> 00:03:04,816
+Are you hearing this?
+
+56
+00:03:04,818 --> 00:03:06,852
+Do you expect anything less?
+
+57
+00:03:06,854 --> 00:03:10,556
+Marrying ourselves to
+tradition has held us back.
+
+58
+00:03:10,558 --> 00:03:13,659
+People are resistant to
+the future, but that
+
+59
+00:03:13,661 --> 00:03:15,427
+doesn't stop it from coming.
+
+60
+00:03:15,429 --> 00:03:17,296
+And if it's not me, it's
+gonna be the next guy who
+
+61
+00:03:17,298 --> 00:03:18,564
+takes up the reigns.
+
+62
+00:03:18,566 --> 00:03:22,201
+At the end of the day,
+it's your quarter.
+
+63
+00:03:22,203 --> 00:03:24,603
+If any of you are unfamiliar
+with Mr. Kincaid's
+
+64
+00:03:24,605 --> 00:03:26,905
+gaming ambitions,
+and from the numbers,
+
+65
+00:03:26,907 --> 00:03:28,540
+there can't be too many.
+
+66
+00:03:29,877 --> 00:03:33,245
+We've heard of where you think
+Mr. creed is going to
+
+67
+00:03:33,247 --> 00:03:34,513
+take sentinel...
+
+68
+00:03:34,515 --> 00:03:36,815
+Tell us what you're doing
+here, what you've done.
+
+69
+00:03:36,817 --> 00:03:39,685
+I wanted to take the gaming
+world and I wanted to push it.
+
+70
+00:03:39,687 --> 00:03:42,387
+I wanted to push the inner
+activity, the gameplay,
+
+71
+00:03:42,389 --> 00:03:43,422
+the environment.
+
+72
+00:03:43,424 --> 00:03:46,725
+Players wanna be in the game.
+
+73
+00:03:46,727 --> 00:03:48,760
+And right now, we're
+closer to that than
+
+74
+00:03:48,762 --> 00:03:48,760
+anyone's ever been before.
+
+75
+00:03:48,762 --> 00:03:51,863
+Well, you know, some of
+your critics have been
+
+76
+00:03:51,865 --> 00:03:53,799
+pretty vocal about
+their issues with that.
+
+77
+00:03:53,801 --> 00:03:56,401
+Especially given your outspoken
+stance against guns.
+
+78
+00:03:56,403 --> 00:03:58,403
+Yeah, I think you'd be
+surprised how many of
+
+79
+00:03:58,405 --> 00:04:00,772
+those critics have secret
+gaming accounts of their own.
+
+80
+00:04:00,774 --> 00:04:04,243
+Look, I have an issue with
+guns on the street and I
+
+81
+00:04:04,245 --> 00:04:07,412
+think that that issue will
+be resolved. So...
+
+82
+00:04:07,414 --> 00:04:09,848
+Take one more look around.
+I'll start the car.
+
+83
+00:04:13,987 --> 00:04:15,287
+Hey.
+
+84
+00:04:16,489 --> 00:04:18,257
+I love you for not being him.
+
+85
+00:04:18,259 --> 00:04:20,892
+In America, we are in the
+business of making money.
+
+86
+00:04:20,894 --> 00:04:22,494
+Come here.
+
+87
+00:04:22,496 --> 00:04:25,364
+If I can do that while making
+my country a little safer?
+
+88
+00:04:25,366 --> 00:04:27,499
+Buddy, I call that
+the American dream.
+
+89
+00:04:28,334 --> 00:04:30,769
+People are literally
+controlled by their phones
+
+90
+00:04:30,771 --> 00:04:33,705
+and their tablets and
+their social networks and
+
+91
+00:04:33,707 --> 00:04:35,307
+the games that the play.
+
+92
+00:04:39,913 --> 00:04:41,313
+Abbie!
+
+93
+00:04:41,881 --> 00:04:44,950
+We live in a world
+dominated by technology.
+
+94
+00:04:44,952 --> 00:04:46,585
+Let her go.
+
+95
+00:04:46,587 --> 00:04:49,755
+You can call it sad, or you
+can call it whatever you want.
+
+96
+00:04:51,825 --> 00:04:56,828
+But you can't argue
+one fact, it is now.
+
+97
+00:07:12,198 --> 00:07:13,832
+Oh...
+
+98
+00:07:13,834 --> 00:07:15,033
+Just you.
+
+99
+00:07:15,035 --> 00:07:16,201
+Just me.
+
+100
+00:07:18,171 --> 00:07:19,638
+Come on.
+
+101
+00:07:19,640 --> 00:07:21,740
+Thought you might come
+outside for this one.
+
+102
+00:07:21,742 --> 00:07:22,707
+Quit playing around.
+
+103
+00:07:22,709 --> 00:07:24,576
+Come on.
+Give it to me.
+
+104
+00:07:25,745 --> 00:07:29,047
+Man, when is Kincaid gonna
+stop with all the discs?
+
+105
+00:07:29,049 --> 00:07:30,849
+Yeah, I guess it is kinda
+old school for a new
+
+106
+00:07:30,851 --> 00:07:32,517
+school guy, huh?
+
+107
+00:07:32,519 --> 00:07:34,786
+Really nice way to say
+someone's paranoid.
+
+108
+00:07:34,788 --> 00:07:37,022
+Says the man who refuses
+to leave his house.
+
+109
+00:07:37,024 --> 00:07:38,924
+Shut up, Bernard.
+
+110
+00:07:39,625 --> 00:07:41,126
+This is a new adventure.
+
+111
+00:07:42,094 --> 00:07:43,094
+Stay tuned.
+
+112
+00:07:43,096 --> 00:07:44,930
+- See ya.
+- Mhm.
+
+113
+00:08:09,188 --> 00:08:11,089
+Right on time, my Princess.
+
+114
+00:08:11,091 --> 00:08:15,260
+Oh, gee. You know how I love
+it when you call me Princess.
+
+115
+00:08:15,262 --> 00:08:19,531
+So your highness, how art
+thou on this majestic morning?
+
+116
+00:08:19,533 --> 00:08:21,600
+I'm good! Another
+day at the office.
+
+117
+00:08:21,602 --> 00:08:23,969
+Jerry brought me crepes
+for breakfast this morning.
+
+118
+00:08:23,971 --> 00:08:25,871
+Jerry. That bastard.
+
+119
+00:08:25,873 --> 00:08:28,740
+You tell that Jerry
+that you're mine.
+
+120
+00:08:28,742 --> 00:08:30,141
+All mine.
+
+121
+00:08:30,143 --> 00:08:31,676
+Uh huh.
+
+122
+00:08:31,678 --> 00:08:33,278
+That would require you to
+get out of your house and
+
+123
+00:08:33,280 --> 00:08:34,880
+take me out.
+
+124
+00:08:34,882 --> 00:08:36,648
+Oh, Princess.
+
+125
+00:08:36,650 --> 00:08:38,850
+How can you resist
+my sex appeal?
+
+126
+00:08:40,621 --> 00:08:44,089
+Oh, nothing sexier than sitting
+on the other end of the phone
+
+127
+00:08:44,091 --> 00:08:46,791
+while your coworker mods
+a game against protocol.
+
+128
+00:08:46,793 --> 00:08:51,630
+You know, first of all, that
+only happened like three times.
+
+129
+00:08:51,632 --> 00:08:52,998
+- Four times.
+- Whatever.
+
+130
+00:08:53,000 --> 00:08:56,301
+And second, mods made
+the games better.
+
+131
+00:08:56,303 --> 00:08:57,936
+Uh huh.
+
+132
+00:09:00,007 --> 00:09:01,907
+Oh right.
+
+133
+00:09:01,909 --> 00:09:04,309
+Let me give you your moment.
+
+134
+00:09:35,608 --> 00:09:37,742
+So tell me about this game.
+
+135
+00:09:37,744 --> 00:09:39,611
+Well, you won't be
+modding this game.
+
+136
+00:09:39,613 --> 00:09:41,012
+I can tell you that.
+
+137
+00:09:41,014 --> 00:09:42,714
+Okay.
+
+138
+00:09:42,716 --> 00:09:44,616
+This is the one.
+
+139
+00:09:44,618 --> 00:09:46,051
+The Kincaid prophecy.
+
+140
+00:09:46,053 --> 00:09:46,051
+The dream game.
+
+141
+00:09:46,053 --> 00:09:50,221
+The one where you get
+to be in the world.
+
+142
+00:09:50,856 --> 00:09:52,290
+Really?
+
+143
+00:09:52,292 --> 00:09:54,025
+This?
+
+144
+00:09:56,363 --> 00:09:57,295
+Oh, hey!
+
+145
+00:09:57,297 --> 00:09:59,030
+Keep talking.
+I'm listening.
+
+146
+00:09:59,032 --> 00:10:00,765
+Just gotta grab my pizza.
+
+147
+00:10:01,267 --> 00:10:04,669
+Well, you'll be testing
+the game frame mostly.
+
+148
+00:10:04,671 --> 00:10:08,106
+Kincaid isn't ready to
+reveal the real tech just yet.
+
+149
+00:10:13,713 --> 00:10:16,314
+So can you tell me
+about it then?
+
+150
+00:10:16,316 --> 00:10:19,150
+Exactly how are
+you in this world?
+
+151
+00:10:20,820 --> 00:10:21,886
+No comment.
+
+152
+00:10:21,888 --> 00:10:23,688
+Can we get some comment?
+Any comment.
+
+153
+00:10:24,023 --> 00:10:25,724
+Absolutely no comments.
+
+154
+00:10:25,726 --> 00:10:25,724
+What about the rumors?
+
+155
+00:10:25,726 --> 00:10:27,659
+He said no comment!
+
+156
+00:10:27,793 --> 00:10:29,194
+Let's go, let's go.
+
+157
+00:10:29,328 --> 00:10:31,796
+Hey, did you hear me?
+
+158
+00:10:31,798 --> 00:10:32,798
+Hello?
+
+159
+00:10:33,366 --> 00:10:35,200
+Sorry, no.
+Uh, let's get started.
+
+160
+00:10:35,202 --> 00:10:36,735
+We have a lot to cover.
+
+161
+00:10:38,204 --> 00:10:40,205
+Alright.
+
+162
+00:10:40,207 --> 00:10:41,706
+Let's do this.
+
+163
+00:11:23,717 --> 00:11:24,783
+From behind.
+
+164
+00:11:26,018 --> 00:11:27,118
+Let's go.
+
+165
+00:11:29,755 --> 00:11:31,423
+Guys, we are on the clock.
+
+166
+00:11:31,425 --> 00:11:33,024
+Gotta go, gotta go.
+
+167
+00:11:35,094 --> 00:11:36,695
+Almost got it.
+
+168
+00:12:01,788 --> 00:12:03,021
+Done!
+
+169
+00:12:03,023 --> 00:12:04,122
+Done.
+
+170
+00:12:05,324 --> 00:12:06,491
+What?
+
+171
+00:12:06,493 --> 00:12:07,459
+Pack up the gear.
+
+172
+00:12:07,461 --> 00:12:09,060
+I'll get the girl.
+
+173
+00:12:12,164 --> 00:12:13,798
+Come on, boys.
+
+174
+00:12:13,800 --> 00:12:15,934
+Let's go, let's go, let's go.
+
+175
+00:12:29,815 --> 00:12:33,218
+Enjoy the ride, old friend.
+
+176
+00:14:24,096 --> 00:14:25,964
+Style is great.
+
+177
+00:14:25,966 --> 00:14:26,965
+Realistic.
+
+178
+00:14:26,967 --> 00:14:29,100
+Kincaid wanted a
+grounded universe.
+
+179
+00:14:29,102 --> 00:14:33,071
+Meaning real human movement
+with a stylized aesthetic.
+
+180
+00:14:33,073 --> 00:14:35,907
+To distract from the
+intense violence no doubt.
+
+181
+00:14:35,909 --> 00:14:37,242
+You're so smart.
+
+182
+00:14:37,244 --> 00:14:38,576
+You know.
+
+183
+00:14:40,613 --> 00:14:44,249
+Can't say I've seen a game
+start like this before.
+
+184
+00:14:44,251 --> 00:14:48,453
+No menu, no options, no loading.
+
+185
+00:14:48,455 --> 00:14:49,888
+Total immersion.
+
+186
+00:14:49,890 --> 00:14:51,289
+That's the goal.
+
+187
+00:15:00,432 --> 00:15:03,534
+Man, that looks
+like Orson creed.
+
+188
+00:15:03,536 --> 00:15:05,270
+So?
+
+189
+00:15:05,272 --> 00:15:08,139
+Guess they designed it
+before the total fallen
+
+190
+00:15:08,141 --> 00:15:10,074
+out of destruction thing.
+
+191
+00:15:10,076 --> 00:15:11,609
+I guess so.
+
+192
+00:15:18,017 --> 00:15:21,486
+Ah, it's amazing.
+
+193
+00:15:22,521 --> 00:15:28,226
+Almost like I can see anger.
+
+194
+00:15:28,228 --> 00:15:29,661
+Pretty good, huh?
+
+195
+00:15:31,330 --> 00:15:33,264
+Damn good.
+
+196
+00:15:59,224 --> 00:16:01,726
+I guess I'm supposed
+to grab that.
+
+197
+00:16:04,096 --> 00:16:05,563
+Yup.
+
+198
+00:16:09,435 --> 00:16:10,468
+Play me.
+
+199
+00:16:11,236 --> 00:16:12,303
+Cute.
+
+200
+00:16:15,174 --> 00:16:16,441
+Hey, ors!
+
+201
+00:16:16,443 --> 00:16:18,509
+Good to see you're up and about.
+
+202
+00:16:18,511 --> 00:16:21,279
+I bet you're wondering
+about now just what the
+
+203
+00:16:21,281 --> 00:16:23,247
+hell did we do to you.
+
+204
+00:16:23,249 --> 00:16:27,485
+But you should know, how
+can the artist forget his
+
+205
+00:16:27,487 --> 00:16:29,620
+own artwork, right?
+
+206
+00:16:32,124 --> 00:16:37,228
+We've got a series of
+tasks for you, ors.
+
+207
+00:16:37,230 --> 00:16:41,566
+And I can't wait to see
+you make it through
+
+208
+00:16:41,568 --> 00:16:43,768
+because I know you will, buddy.
+
+209
+00:16:44,403 --> 00:16:49,307
+You'll have 90 minutes to
+complete each objective.
+
+210
+00:16:49,309 --> 00:16:53,044
+If you fail, ors...
+
+211
+00:16:53,046 --> 00:16:55,480
+I hope you're listening, buddy.
+
+212
+00:16:55,482 --> 00:16:59,684
+If you fail to finish in
+the 90 minute window,
+
+213
+00:16:59,686 --> 00:17:06,591
+you beautiful wife, Abbie,
+loses a body part per objective.
+
+214
+00:17:06,593 --> 00:17:07,759
+K?
+
+215
+00:17:09,294 --> 00:17:10,728
+Okay.
+
+216
+00:17:10,730 --> 00:17:12,063
+Mission one.
+
+217
+00:17:12,065 --> 00:17:14,465
+National bank is
+about to be robbed.
+
+218
+00:17:14,467 --> 00:17:19,203
+Your mission is to get
+inside, undetected, during
+
+219
+00:17:19,205 --> 00:17:22,340
+the robbery and retrieve
+the contents of safety
+
+220
+00:17:22,342 --> 00:17:26,044
+deposit box 1121.
+
+221
+00:17:26,046 --> 00:17:28,479
+Do you hear me?
+
+222
+00:17:28,481 --> 00:17:31,716
+If you're compromised,
+it's all over.
+
+223
+00:17:33,352 --> 00:17:39,123
+Think of Abbie,
+beautiful, Abbie.
+
+224
+00:17:39,658 --> 00:17:43,461
+Okay, scout, you
+better get a move on.
+
+225
+00:17:43,463 --> 00:17:48,266
+Your 90 minutes begin now.
+
+226
+00:17:53,105 --> 00:17:54,472
+Heavy.
+
+227
+00:17:54,474 --> 00:17:58,142
+Yet, still has a classic
+video game setup.
+
+228
+00:17:58,144 --> 00:18:01,145
+How can we embrace the new
+without acknowledging the old?
+
+229
+00:18:01,147 --> 00:18:03,181
+True that, true that.
+
+230
+00:18:27,206 --> 00:18:31,275
+Inventory, inventory.
+
+231
+00:18:31,277 --> 00:18:33,244
+Hit the Grey button.
+
+232
+00:18:35,547 --> 00:18:37,348
+No inventory menu either?
+
+233
+00:18:37,350 --> 00:18:39,884
+What, he just pulls out
+whatever he has on him?
+
+234
+00:18:39,886 --> 00:18:42,253
+That's weird, but okay.
+
+235
+00:18:57,770 --> 00:18:59,604
+Ladies and gentlemen, just in.
+
+236
+00:18:59,606 --> 00:19:02,540
+We are getting unconfirmed
+reports of armed men from
+
+237
+00:19:02,542 --> 00:19:04,709
+the Southtown branch
+of National bank.
+
+238
+00:19:04,711 --> 00:19:07,211
+No details as of yet.
+
+239
+00:19:07,213 --> 00:19:09,480
+I'm told one of our
+reporters is sending us
+
+240
+00:19:09,482 --> 00:19:11,883
+text messages from the scene.
+
+241
+00:19:11,885 --> 00:19:13,751
+From inside the bank.
+
+242
+00:19:13,753 --> 00:19:15,553
+Please stand by.
+
+243
+00:19:15,888 --> 00:19:18,322
+I'm gonna stay on the
+line today with you.
+
+244
+00:19:18,324 --> 00:19:19,924
+Orders straight from the top.
+
+245
+00:19:19,926 --> 00:19:21,626
+Yes, ma'am.
+
+246
+00:19:21,628 --> 00:19:23,594
+Why don't you just beam me
+with excitement over your
+
+247
+00:19:23,596 --> 00:19:25,229
+assignment?
+
+248
+00:19:25,231 --> 00:19:27,665
+Max, I didn't mean it
+like that. I mean...
+
+249
+00:19:27,667 --> 00:19:31,936
+Oh, come on, Princess.
+Say it with me... smitten!
+
+250
+00:19:31,938 --> 00:19:33,504
+Who says that anymore?
+
+251
+00:19:33,506 --> 00:19:34,506
+I say it.
+
+252
+00:19:35,742 --> 00:19:36,908
+Oh shit.
+
+253
+00:19:41,346 --> 00:19:42,413
+I wonder if I uh...
+
+254
+00:19:42,415 --> 00:19:44,282
+Max, stay on the mission.
+
+255
+00:19:44,284 --> 00:19:45,883
+We're on a time table remember?
+
+256
+00:19:45,885 --> 00:19:47,885
+Yeah, totally.
+
+257
+00:19:51,290 --> 00:19:52,290
+Max!
+
+258
+00:19:54,260 --> 00:19:56,494
+I told you to stay
+on the mission!
+
+259
+00:19:56,496 --> 00:19:58,696
+Well, I guess I don't want
+any stars or anything.
+
+260
+00:19:58,698 --> 00:19:59,964
+Don't do that again.
+
+261
+00:19:59,966 --> 00:20:01,966
+What? It's just a game.
+
+262
+00:20:01,968 --> 00:20:03,467
+Relax.
+
+263
+00:20:03,469 --> 00:20:05,670
+Just having a little
+fun, that's all.
+
+264
+00:20:05,672 --> 00:20:08,973
+Um, yeah. Just remember
+the clock is running.
+
+265
+00:20:08,975 --> 00:20:10,575
+Yeah, right.
+
+266
+00:20:47,746 --> 00:20:49,480
+Oh shit.
+
+267
+00:20:57,322 --> 00:20:59,924
+How the hell am I supposed
+to get in there undetected?
+
+268
+00:21:19,811 --> 00:21:21,091
+- Let's move.
+- Dear god, please!
+
+269
+00:21:21,914 --> 00:21:23,514
+- Please no!
+- Stay down!
+
+270
+00:21:23,516 --> 00:21:26,050
+We see movement,
+we start shooting.
+
+271
+00:21:26,052 --> 00:21:27,451
+Get it?
+
+272
+00:21:28,020 --> 00:21:29,820
+Open the vault!
+
+273
+00:21:46,038 --> 00:21:47,938
+Gotta be the manager.
+
+274
+00:21:49,908 --> 00:21:51,075
+Hey!
+
+275
+00:21:52,344 --> 00:21:53,778
+Get the bags ready.
+
+276
+00:22:00,385 --> 00:22:01,786
+What are you doing?
+
+277
+00:22:02,521 --> 00:22:04,355
+How do I talk to people?
+
+278
+00:22:04,357 --> 00:22:07,091
+Hit the black button with
+the cursor over her.
+
+279
+00:22:09,594 --> 00:22:10,795
+Hey, baby.
+
+280
+00:22:11,463 --> 00:22:13,464
+Hey, baby.
+
+281
+00:22:13,466 --> 00:22:14,466
+What?
+
+282
+00:22:16,369 --> 00:22:17,501
+Yeah.
+
+283
+00:22:20,639 --> 00:22:23,107
+I've never seen mpc's
+react like that before.
+
+284
+00:22:23,109 --> 00:22:25,443
+Well it's probably because
+you're being a douche.
+
+285
+00:22:25,445 --> 00:22:26,811
+Oh hey!
+
+286
+00:22:26,813 --> 00:22:28,579
+Sweetie pie.
+
+287
+00:22:28,581 --> 00:22:30,881
+Oh, you getting a little
+jealous on me or what?
+
+288
+00:22:30,883 --> 00:22:32,683
+Uh, hardly.
+
+289
+00:22:32,685 --> 00:22:34,085
+I kinda like it.
+
+290
+00:22:35,821 --> 00:22:39,623
+I need to access safety
+deposit box 1121.
+
+291
+00:22:39,625 --> 00:22:41,792
+Are you crazy?
+
+292
+00:22:41,794 --> 00:22:45,596
+I need to access safety
+deposit box 1121.
+
+293
+00:22:45,598 --> 00:22:47,865
+Wait, where do I know you from?
+
+294
+00:22:47,867 --> 00:22:49,633
+I need the keys, ma'am.
+
+295
+00:22:49,635 --> 00:22:50,968
+You're gonna get
+yourself killed.
+
+296
+00:22:50,970 --> 00:22:53,637
+I need the keys right now.
+
+297
+00:22:53,639 --> 00:22:55,673
+I don't have them.
+
+298
+00:22:56,508 --> 00:22:57,875
+They're in my desk.
+
+299
+00:22:57,877 --> 00:22:59,677
+It's over there.
+
+300
+00:23:02,514 --> 00:23:06,083
+Well, I think this is two
+points for difficulty.
+
+301
+00:23:11,624 --> 00:23:13,491
+Get down!
+
+302
+00:23:32,411 --> 00:23:33,511
+Okay.
+
+303
+00:23:34,679 --> 00:23:35,980
+Bingo.
+
+304
+00:23:36,983 --> 00:23:38,082
+Oh!
+
+305
+00:23:43,855 --> 00:23:44,922
+What is this?
+
+306
+00:23:44,924 --> 00:23:46,657
+Is this thing on?
+
+307
+00:23:52,497 --> 00:23:54,465
+Hey, you got a hot
+shot over here.
+
+308
+00:23:55,801 --> 00:23:57,501
+Drop the gun or you're dead.
+
+309
+00:23:57,503 --> 00:23:59,470
+3, 2, 1.
+
+310
+00:23:59,671 --> 00:24:01,038
+Okay, okay!
+
+311
+00:24:30,636 --> 00:24:32,937
+- I got the bag.
+- Sweet!
+
+312
+00:24:32,939 --> 00:24:34,939
+Tryna murk some mpc's.
+
+313
+00:24:34,941 --> 00:24:37,208
+Stealth is key for
+this mission, Max.
+
+314
+00:24:37,210 --> 00:24:38,642
+Thanks for the tip.
+
+315
+00:24:38,644 --> 00:24:40,978
+And um, don't kill any hostages.
+
+316
+00:24:40,980 --> 00:24:42,546
+You'll fail the mission.
+
+317
+00:24:42,548 --> 00:24:45,916
+Um, someone's being a
+little drama queen.
+
+318
+00:24:45,918 --> 00:24:46,951
+Relax.
+
+319
+00:24:46,953 --> 00:24:49,220
+I can always reload
+and auto-save.
+
+320
+00:24:56,928 --> 00:24:59,830
+Hey, you're all gonna die.
+
+321
+00:25:00,232 --> 00:25:01,532
+Get him!
+
+322
+00:25:01,766 --> 00:25:04,201
+Everybody, stay down!
+Stay down!
+
+323
+00:25:04,203 --> 00:25:05,503
+Check right.
+
+324
+00:25:05,804 --> 00:25:07,104
+Clear.
+
+325
+00:25:21,520 --> 00:25:22,953
+What was that?
+I didn't copy.
+
+326
+00:25:25,291 --> 00:25:26,790
+Come again.
+
+327
+00:25:30,662 --> 00:25:32,196
+Smile for the cameras.
+
+328
+00:26:20,947 --> 00:26:21,947
+I see him!
+
+329
+00:26:44,235 --> 00:26:46,003
+Knock, knock.
+
+330
+00:26:51,710 --> 00:26:53,377
+You're dead.
+
+331
+00:27:36,021 --> 00:27:38,188
+Hey, I'm gonna take
+a quick break.
+
+332
+00:27:40,659 --> 00:27:43,027
+Why won't this damn thing pause?
+
+333
+00:27:44,029 --> 00:27:46,430
+Uh, I'll look into it.
+
+334
+00:27:47,032 --> 00:27:50,234
+Well, I'm still taking a break.
+
+335
+00:27:50,236 --> 00:27:52,302
+Man's gotta take a leak.
+
+336
+00:27:53,204 --> 00:27:55,205
+We're here with bank
+manager, Lillian Brandt,
+
+337
+00:27:55,207 --> 00:27:58,275
+who is one of the hostages
+in this crisis.
+
+338
+00:27:58,277 --> 00:28:01,245
+Can you confirm that he
+killed all the suspects?
+
+339
+00:28:02,047 --> 00:28:06,016
+No, he stopped them.
+
+340
+00:28:06,018 --> 00:28:08,852
+And you're saying this
+man is Orson creed.
+
+341
+00:28:08,854 --> 00:28:10,220
+What the hell?
+
+342
+00:28:10,222 --> 00:28:12,222
+I didn't recognize him at first.
+
+343
+00:28:12,224 --> 00:28:13,824
+It was a mess in there.
+
+344
+00:28:13,826 --> 00:28:16,326
+The Orson creed who was
+recently fired following
+
+345
+00:28:16,328 --> 00:28:19,296
+disputes with sentinel
+ceo, Andrew Kincaid?
+
+346
+00:28:19,298 --> 00:28:20,464
+No.
+
+347
+00:28:20,466 --> 00:28:22,833
+He saved my life.
+
+348
+00:28:22,835 --> 00:28:24,935
+I just wish that
+I could thank him.
+
+349
+00:28:24,937 --> 00:28:27,871
+It just seemed like he was
+gone as fast as he came.
+
+350
+00:28:29,741 --> 00:28:33,777
+If you're out there, thank you.
+
+351
+00:28:33,779 --> 00:28:35,879
+We're awaiting comment
+from sentinel and
+
+352
+00:28:35,881 --> 00:28:37,715
+authorities tell us attempts
+to contact Orson creed
+
+353
+00:28:37,717 --> 00:28:40,851
+- no, this is not right.
+- And his wife have failed.
+
+354
+00:28:40,853 --> 00:28:43,854
+Ladies and gentlemen, you
+are as confused as we are.
+
+355
+00:28:43,856 --> 00:28:45,789
+Stay with us.
+
+356
+00:28:49,260 --> 00:28:51,228
+Ladies and gentlemen,
+these cellphone photos
+
+357
+00:28:51,230 --> 00:28:54,898
+just came to us from
+our source inside.
+
+358
+00:28:54,900 --> 00:28:56,900
+Uh, it looks pretty convincing.
+
+359
+00:28:56,902 --> 00:28:59,937
+Orson creed, apparent
+hero, leaving the bank
+
+360
+00:28:59,939 --> 00:29:01,739
+with two million dollars.
+
+361
+00:29:01,741 --> 00:29:03,440
+As far as we know, the
+money has not been
+
+362
+00:29:03,442 --> 00:29:06,910
+recovered and there is
+no sign of Orson creed.
+
+363
+00:29:07,912 --> 00:29:09,079
+Is everything okay?
+
+364
+00:29:09,081 --> 00:29:10,047
+I'm calling the police.
+
+365
+00:29:10,049 --> 00:29:10,948
+What!
+
+366
+00:29:10,950 --> 00:29:12,249
+Max, no!
+
+367
+00:29:12,251 --> 00:29:13,150
+Max!
+
+368
+00:29:13,152 --> 00:29:14,752
+9-1-1 operator.
+
+369
+00:29:14,754 --> 00:29:16,487
+Sit down and play the game.
+
+370
+00:29:16,489 --> 00:29:16,487
+What's going on?
+
+371
+00:29:16,489 --> 00:29:20,357
+I should be asking you that.
+
+372
+00:29:20,359 --> 00:29:23,127
+I sit down and start
+playing this brand new game
+
+373
+00:29:23,129 --> 00:29:26,964
+and all of a sudden my mission
+is on the goddamn news.
+
+374
+00:29:27,499 --> 00:29:29,533
+- There's no way.
+- Calm down, Max.
+
+375
+00:29:29,535 --> 00:29:31,101
+Calm down?
+
+376
+00:29:31,103 --> 00:29:32,336
+Calm down.
+
+377
+00:29:33,505 --> 00:29:35,806
+Just tell me.
+
+378
+00:29:35,808 --> 00:29:38,108
+Did I just kill a
+bunch of people?
+
+379
+00:29:38,110 --> 00:29:40,244
+You need to listen
+to me right now.
+
+380
+00:29:40,246 --> 00:29:42,012
+You need to keep playing, Max.
+
+381
+00:29:42,014 --> 00:29:44,047
+Trust me, just keep playing.
+
+382
+00:29:44,049 --> 00:29:45,282
+You have to.
+
+383
+00:29:45,284 --> 00:29:47,151
+Not until I figure
+out what's going on.
+
+384
+00:29:47,153 --> 00:29:49,286
+The only thing I'm doing is
+turning this damn thing off.
+
+385
+00:29:49,288 --> 00:29:50,821
+Max, no!
+
+386
+00:29:53,391 --> 00:29:56,160
+Hello, Max.
+
+387
+00:29:56,162 --> 00:29:59,062
+No, this is not happening.
+
+388
+00:29:59,064 --> 00:30:00,330
+Shut up!
+
+389
+00:30:00,332 --> 00:30:04,535
+And listen very, very carefully.
+
+390
+00:30:04,537 --> 00:30:07,037
+Your life depends on it.
+
+391
+00:30:21,352 --> 00:30:25,823
+Now let me be perfectly clear.
+
+392
+00:30:25,825 --> 00:30:30,160
+If you, Max, try to call
+the authorities, turn off
+
+393
+00:30:30,162 --> 00:30:33,363
+your console, or
+leave the house...
+
+394
+00:30:33,365 --> 00:30:38,068
+Which shouldn't be a
+problem for you, right?
+
+395
+00:30:39,204 --> 00:30:42,439
+We're going to kill your
+girl and then we're gonna
+
+396
+00:30:42,441 --> 00:30:44,541
+tell the cops what you did.
+
+397
+00:30:44,543 --> 00:30:45,542
+What?
+
+398
+00:30:45,544 --> 00:30:47,177
+What are you talking about?
+
+399
+00:30:47,179 --> 00:30:49,279
+I'd check your bank account.
+
+400
+00:30:51,616 --> 00:30:54,551
+I can see it in
+the headlines now.
+
+401
+00:30:55,286 --> 00:30:58,188
+Say it isn't so, Max.
+
+402
+00:31:17,308 --> 00:31:18,442
+Shit.
+
+403
+00:31:19,177 --> 00:31:21,879
+I think you get the point.
+
+404
+00:31:21,881 --> 00:31:24,047
+Now finish the game.
+
+405
+00:31:24,049 --> 00:31:25,182
+Max.
+
+406
+00:31:25,917 --> 00:31:26,950
+Max.
+
+407
+00:31:26,952 --> 00:31:31,021
+You have to finish the game.
+
+408
+00:32:11,195 --> 00:32:12,362
+Ors!
+
+409
+00:32:12,364 --> 00:32:14,131
+I knew you'd make it.
+
+410
+00:32:14,133 --> 00:32:15,198
+Good job.
+
+411
+00:32:15,200 --> 00:32:17,367
+Very exciting stuff.
+
+412
+00:32:17,369 --> 00:32:19,970
+Your wife keeps
+her digits for now.
+
+413
+00:32:19,972 --> 00:32:23,273
+Let's see how you do on
+round two, shall we?
+
+414
+00:32:23,275 --> 00:32:26,610
+There's a private school
+a few miles north.
+
+415
+00:32:26,612 --> 00:32:31,214
+There's about to be
+another shooting.
+
+416
+00:32:31,216 --> 00:32:35,452
+Get there and wait for
+further instructions.
+
+417
+00:32:53,504 --> 00:32:55,739
+Please try to stay in the game.
+
+418
+00:32:55,741 --> 00:32:58,141
+I can't believe you're
+a part of all this.
+
+419
+00:32:58,143 --> 00:33:00,043
+They didn't give me a choice.
+
+420
+00:33:00,045 --> 00:33:01,345
+Save it.
+
+421
+00:33:01,347 --> 00:33:03,647
+You're just a voice!
+
+422
+00:33:03,649 --> 00:33:05,682
+Tech support.
+
+423
+00:33:17,729 --> 00:33:19,529
+Okay, champ!
+
+424
+00:33:19,531 --> 00:33:21,531
+Good god, this guy is annoying.
+
+425
+00:33:21,533 --> 00:33:24,434
+There's a shooter
+in the building.
+
+426
+00:33:24,436 --> 00:33:27,004
+The authorities are
+about to be contacted.
+
+427
+00:33:27,006 --> 00:33:30,440
+Internal security will
+attempt to take him out.
+
+428
+00:33:30,442 --> 00:33:33,510
+You are going to stop them.
+
+429
+00:33:33,512 --> 00:33:36,513
+- What?
+- You heard it right, folks.
+
+430
+00:33:36,515 --> 00:33:41,785
+Your mission is to
+protect the shooter.
+
+431
+00:33:41,787 --> 00:33:47,257
+And if you refuse, I've
+been itching to spend some
+
+432
+00:33:47,259 --> 00:33:51,194
+time with Abbie.
+
+433
+00:33:53,264 --> 00:33:55,565
+Clock starts now.
+
+434
+00:33:56,634 --> 00:33:58,602
+I'm not doing this.
+
+435
+00:33:58,604 --> 00:33:59,503
+No.
+
+436
+00:33:59,505 --> 00:34:01,038
+Max, you have to.
+
+437
+00:34:01,040 --> 00:34:02,205
+No!
+
+438
+00:34:02,207 --> 00:34:04,408
+I don't wanna die.
+
+439
+00:34:18,156 --> 00:34:19,523
+I'm sorry.
+
+440
+00:34:39,778 --> 00:34:42,145
+Oh god.
+
+441
+00:34:57,261 --> 00:34:58,195
+Let me go!
+
+442
+00:34:58,197 --> 00:34:59,496
+Let me go!
+
+443
+00:35:00,631 --> 00:35:03,166
+They're gonna kill my mother!
+
+444
+00:35:07,839 --> 00:35:08,839
+You!
+
+445
+00:35:31,596 --> 00:35:32,796
+No, no, no, no!
+
+446
+00:35:40,738 --> 00:35:42,272
+Max.
+
+447
+00:35:44,876 --> 00:35:48,512
+Max! You have to get
+him out of there.
+
+448
+00:36:07,431 --> 00:36:10,367
+Ladies and gentlemen,
+we go now to frank b. Cooper
+
+449
+00:36:10,369 --> 00:36:13,870
+high school where a shooting
+has just taken place.
+
+450
+00:36:13,872 --> 00:36:16,439
+Tragic day for our city.
+
+451
+00:36:50,541 --> 00:36:53,376
+You look sad, Orsy.
+
+452
+00:36:53,378 --> 00:36:55,312
+Why the blues?
+
+453
+00:36:55,314 --> 00:36:57,781
+You should be so happy.
+
+454
+00:36:57,783 --> 00:37:00,417
+Abbie's still in one piece.
+
+455
+00:37:00,718 --> 00:37:02,352
+Nothing?
+
+456
+00:37:02,354 --> 00:37:04,721
+No witty comeback?
+
+457
+00:37:04,723 --> 00:37:07,490
+That hurts my feelings.
+
+458
+00:37:07,492 --> 00:37:11,228
+Your next mission is a juicy...
+
+459
+00:37:15,000 --> 00:37:17,601
+Max, what are you doing?
+
+460
+00:37:18,736 --> 00:37:20,971
+Improvising.
+
+461
+00:37:30,414 --> 00:37:31,982
+Can you hear me?
+
+462
+00:37:33,351 --> 00:37:37,254
+This is your player.
+
+463
+00:37:38,889 --> 00:37:40,724
+I need your help.
+
+464
+00:37:51,335 --> 00:37:53,403
+Please eat.
+
+465
+00:37:59,577 --> 00:38:01,878
+I missed our lunches, Abbie.
+
+466
+00:38:03,614 --> 00:38:06,916
+You're as beautiful
+now as you ever were.
+
+467
+00:38:10,021 --> 00:38:12,489
+Well...
+
+468
+00:38:12,491 --> 00:38:14,324
+Let's not quibble over details.
+
+469
+00:38:14,326 --> 00:38:16,860
+You were a snake then,
+and you're a snake now.
+
+470
+00:38:16,862 --> 00:38:19,529
+Okay, well I'll take
+that as a compliment.
+
+471
+00:38:19,531 --> 00:38:23,300
+A snake is an evolutionary
+masterpiece and incredibly
+
+472
+00:38:23,302 --> 00:38:24,701
+misunderstood.
+
+473
+00:38:24,703 --> 00:38:28,605
+And like the snake, I'm just
+doing what needs to be done.
+
+474
+00:38:30,574 --> 00:38:32,976
+Though I don't seem to
+remember you putting up
+
+475
+00:38:32,978 --> 00:38:38,682
+such a fuss back when I
+was paying your bills.
+
+476
+00:38:38,684 --> 00:38:41,885
+No one could type a
+memo quite like you.
+
+477
+00:38:44,855 --> 00:38:46,356
+You ever tell creed about us?
+
+478
+00:38:46,358 --> 00:38:48,825
+There is no us,
+you piece of shit.
+
+479
+00:38:48,827 --> 00:38:51,428
+Well...
+
+480
+00:38:51,430 --> 00:38:53,096
+Not for a while, right?
+
+481
+00:38:57,635 --> 00:39:00,370
+Churchill.
+
+482
+00:39:00,372 --> 00:39:04,441
+I keep Winston up there to
+remind me to stay the course.
+
+483
+00:39:04,443 --> 00:39:08,745
+He once said, you have enemies?
+
+484
+00:39:08,747 --> 00:39:10,380
+Good.
+
+485
+00:39:10,382 --> 00:39:15,385
+That means you stood up for
+something sometime in your life.
+
+486
+00:39:15,387 --> 00:39:19,089
+You can't expect everyone
+to believe in your vision.
+
+487
+00:39:19,091 --> 00:39:22,759
+But when they wake up one
+day in a better world,
+
+488
+00:39:22,761 --> 00:39:25,929
+they will thank you
+for your contribution.
+
+489
+00:39:27,932 --> 00:39:29,566
+Yes.
+
+490
+00:39:56,460 --> 00:40:02,465
+That husband of yours
+is a stubborn man.
+
+491
+00:40:02,467 --> 00:40:04,567
+You've underestimated him.
+
+492
+00:40:07,071 --> 00:40:09,172
+He's a survivor.
+
+493
+00:40:09,174 --> 00:40:11,007
+God, that's what
+I love about you.
+
+494
+00:40:11,009 --> 00:40:12,709
+You're so dramatic.
+
+495
+00:40:12,711 --> 00:40:14,944
+You're just...
+You're unpredictable.
+
+496
+00:40:16,981 --> 00:40:20,116
+I hate to eat and run, but uh...
+
+497
+00:40:20,118 --> 00:40:25,922
+Your husband is actually
+becoming a bit of a nuisance.
+
+498
+00:40:26,490 --> 00:40:30,693
+And I need to go remind
+the dog who's master.
+
+499
+00:40:41,439 --> 00:40:43,006
+I'll be back.
+
+500
+00:40:44,875 --> 00:40:50,747
+To build maybe the slow and
+laborious tasks of years.
+
+501
+00:40:50,749 --> 00:40:54,918
+To destroy can be the
+thoughtless act of a single day.
+
+502
+00:40:56,987 --> 00:40:59,222
+Churchill said that, too.
+
+503
+00:41:00,758 --> 00:41:03,059
+Careful of your dreams, Andrew.
+
+504
+00:41:20,244 --> 00:41:21,878
+Time to bring the pain.
+
+505
+00:41:22,780 --> 00:41:24,113
+Yo, yo, incoming, incoming!
+
+506
+00:41:24,115 --> 00:41:25,048
+We've got trees over here.
+
+507
+00:41:25,050 --> 00:41:26,649
+Watch out!
+Whoa, whoa, whoa!
+
+508
+00:41:40,231 --> 00:41:41,831
+Get some, get some!
+
+509
+00:41:43,767 --> 00:41:45,134
+You don't want none
+of this, creed.
+
+510
+00:41:45,136 --> 00:41:46,870
+You don't want
+none of this, huh!
+
+511
+00:41:52,109 --> 00:41:53,576
+Get back here, creed!
+
+512
+00:42:03,721 --> 00:42:04,721
+Shit.
+
+513
+00:42:07,057 --> 00:42:08,057
+No, no, no!
+
+514
+00:42:11,662 --> 00:42:14,230
+Never thought you'd
+betray us, creed.
+
+515
+00:42:17,134 --> 00:42:18,134
+Yes!
+
+516
+00:42:20,871 --> 00:42:21,871
+That's it.
+
+517
+00:42:36,687 --> 00:42:38,288
+You know what, creed...
+
+518
+00:42:41,992 --> 00:42:45,161
+Kincaid ordered not to shoot.
+
+519
+00:42:45,163 --> 00:42:47,163
+But I'm gonna shoot you anyway!
+
+520
+00:42:48,899 --> 00:42:49,899
+Yes!
+
+521
+00:42:52,002 --> 00:42:53,670
+Oh!
+
+522
+00:43:33,644 --> 00:43:35,011
+Wow.
+
+523
+00:43:38,682 --> 00:43:40,116
+What's up?
+
+524
+00:43:41,652 --> 00:43:43,386
+Right. You can't talk.
+
+525
+00:43:44,688 --> 00:43:45,955
+Hey, you there?
+
+526
+00:43:45,957 --> 00:43:46,990
+Me?
+
+527
+00:43:46,992 --> 00:43:49,192
+You said I can't mod this game.
+
+528
+00:43:49,194 --> 00:43:50,860
+Max.
+
+529
+00:43:50,862 --> 00:43:52,095
+But you can.
+
+530
+00:43:52,097 --> 00:43:53,630
+I can't.
+
+531
+00:43:53,632 --> 00:43:55,231
+Unblock the speech frequency.
+
+532
+00:43:55,233 --> 00:43:56,766
+Max, I...
+
+533
+00:43:57,201 --> 00:43:59,035
+Do it.
+
+534
+00:43:59,037 --> 00:44:00,370
+Or I'm done.
+
+535
+00:44:01,705 --> 00:44:03,706
+And so are you.
+
+536
+00:44:12,082 --> 00:44:13,883
+You okay?
+
+537
+00:44:18,355 --> 00:44:20,890
+Who the hell is that?
+
+538
+00:44:21,925 --> 00:44:24,060
+Tech support.
+
+539
+00:44:31,669 --> 00:44:32,969
+No.
+
+540
+00:44:32,971 --> 00:44:35,405
+Let them find the bugs.
+
+541
+00:44:35,407 --> 00:44:38,141
+Let them think that
+they're ahead.
+
+542
+00:44:38,143 --> 00:44:39,909
+It won't matter.
+
+543
+00:44:44,114 --> 00:44:46,449
+I wanna see where he takes this.
+
+544
+00:44:47,718 --> 00:44:50,353
+How do you my house
+is bugged, Mr. creed?
+
+545
+00:44:52,790 --> 00:44:56,059
+I created every security
+protocol for sentinel
+
+546
+00:44:56,061 --> 00:44:57,960
+including bugging.
+
+547
+00:45:01,865 --> 00:45:03,466
+You bugged my house?
+
+548
+00:45:04,168 --> 00:45:08,971
+Everything you received from
+sentinel is monitoring you.
+
+549
+00:45:12,142 --> 00:45:13,743
+Show me.
+
+550
+00:45:35,866 --> 00:45:37,834
+I need a beer.
+
+551
+00:45:39,803 --> 00:45:41,471
+Come on, join me.
+
+552
+00:45:46,810 --> 00:45:48,778
+Well drink up.
+
+553
+00:45:56,453 --> 00:45:59,088
+Oops, my bad!
+
+554
+00:46:01,191 --> 00:46:03,359
+We'll get that
+cleaned up no problem.
+
+555
+00:46:05,162 --> 00:46:08,131
+So you're sentinel's
+secret weapon?
+
+556
+00:46:09,867 --> 00:46:11,467
+Right here in the flesh.
+
+557
+00:46:13,904 --> 00:46:15,505
+Just a gamer.
+
+558
+00:46:21,211 --> 00:46:22,845
+So tell me...
+
+559
+00:46:24,214 --> 00:46:28,551
+What is all this that
+you're doing, Mr. creed?
+
+560
+00:46:29,419 --> 00:46:34,190
+My wife calls me Mr.
+Creed when she's upset.
+
+561
+00:46:34,558 --> 00:46:36,959
+We just met kid.
+
+562
+00:46:37,895 --> 00:46:43,266
+I develop a technology
+that connects you to me.
+
+563
+00:46:43,268 --> 00:46:45,268
+It's called control x.
+
+564
+00:46:46,237 --> 00:46:47,537
+Control x?
+
+565
+00:46:48,172 --> 00:46:50,206
+Sounds like a
+bad Sci-Fi movie.
+
+566
+00:46:50,208 --> 00:46:53,109
+It's the prototype.
+
+567
+00:46:53,111 --> 00:46:55,845
+It was meant for
+surveillance, but I
+
+568
+00:46:55,847 --> 00:46:58,247
+thought it better
+suited for military.
+
+569
+00:46:58,249 --> 00:47:00,082
+Why military?
+
+570
+00:47:00,084 --> 00:47:02,151
+I served a couple of tours.
+
+571
+00:47:02,153 --> 00:47:04,987
+Lost a few too many friends.
+
+572
+00:47:04,989 --> 00:47:09,258
+Control x is about making
+stronger soldiers with
+
+573
+00:47:09,260 --> 00:47:13,329
+faster reflexes with
+two sets of eyes.
+
+574
+00:47:14,431 --> 00:47:17,066
+And what's Kincaid got
+to do with all this?
+
+575
+00:47:17,068 --> 00:47:21,237
+I'm not sure, but he
+has some master plan.
+
+576
+00:47:21,239 --> 00:47:22,872
+Keeps guns in games.
+
+577
+00:47:22,874 --> 00:47:24,340
+No, that's bullshit.
+
+578
+00:47:24,342 --> 00:47:25,408
+I know Kincaid.
+
+579
+00:47:25,410 --> 00:47:27,076
+He's a one percenter.
+
+580
+00:47:27,078 --> 00:47:30,012
+He doesn't care how many lives
+it takes to keep his billions.
+
+581
+00:47:30,014 --> 00:47:35,418
+I wanted control x to save
+people, he wants it to use them.
+
+582
+00:47:35,420 --> 00:47:37,153
+So why'd you work for him?
+
+583
+00:47:37,155 --> 00:47:39,522
+He paid me good money.
+
+584
+00:47:39,524 --> 00:47:41,891
+Ah, yeah.
+
+585
+00:47:43,126 --> 00:47:45,428
+What about that Zane guy?
+
+586
+00:47:45,430 --> 00:47:48,097
+He's just a dog on a leash.
+
+587
+00:47:48,099 --> 00:47:50,099
+Brought in for muscle.
+
+588
+00:47:50,101 --> 00:47:52,535
+He's a glory seeker.
+
+589
+00:47:52,537 --> 00:47:54,904
+Wants everything I got.
+
+590
+00:47:56,406 --> 00:47:58,074
+Hang on a second.
+
+591
+00:47:58,076 --> 00:47:59,575
+Authorities have now
+confirmed through
+
+592
+00:47:59,577 --> 00:48:02,578
+surveillance footage,
+Orson creed has gone from
+
+593
+00:48:02,580 --> 00:48:05,381
+bank hero to murderer.
+
+594
+00:48:05,383 --> 00:48:08,150
+Strange and bizarre
+day for our city.
+
+595
+00:48:08,152 --> 00:48:10,419
+An example of a man unhinged.
+
+596
+00:48:11,188 --> 00:48:12,421
+Truly shocking.
+
+597
+00:48:12,423 --> 00:48:15,358
+That's a load of shit.
+Come on.
+
+598
+00:48:15,360 --> 00:48:18,060
+Just call me Oswald.
+
+599
+00:48:18,062 --> 00:48:19,962
+I'm the distraction.
+
+600
+00:48:19,964 --> 00:48:21,497
+From what?
+
+601
+00:48:21,499 --> 00:48:23,499
+The future of gaming.
+
+602
+00:48:24,334 --> 00:48:26,469
+What got you into it, kid?
+
+603
+00:48:29,907 --> 00:48:36,145
+Well um, it's just a
+world that I fit in.
+
+604
+00:48:36,147 --> 00:48:39,982
+People in the real world
+tend to let you down.
+
+605
+00:48:40,517 --> 00:48:43,286
+You lose someone who's
+special in a game,
+
+606
+00:48:43,288 --> 00:48:45,221
+it doesn't hurt as bad.
+
+607
+00:48:46,690 --> 00:48:51,928
+Today actually marks two years
+since I left this house.
+
+608
+00:48:53,363 --> 00:48:54,697
+Yeah.
+
+609
+00:48:59,369 --> 00:49:03,205
+I was uh...
+
+610
+00:49:03,207 --> 00:49:07,610
+I was coming from the gaming
+tournament that I won and
+
+611
+00:49:07,612 --> 00:49:11,514
+being famous sometimes
+makes you unpopular.
+
+612
+00:49:12,316 --> 00:49:16,118
+It was the middle of the
+day, I was out walking
+
+613
+00:49:16,120 --> 00:49:21,057
+with my best friend...
+
+614
+00:49:22,693 --> 00:49:27,296
+And they drove by,
+windows came down.
+
+615
+00:49:28,065 --> 00:49:33,135
+Let's just say that
+they missed me.
+
+616
+00:49:35,138 --> 00:49:36,605
+Here's a picture.
+
+617
+00:49:38,342 --> 00:49:39,575
+Take a look.
+
+618
+00:49:49,252 --> 00:49:51,020
+What?
+
+619
+00:49:56,360 --> 00:49:59,395
+I loved that dog, okay?
+
+620
+00:50:01,031 --> 00:50:05,568
+Best thing that ever happened
+to me before that day.
+
+621
+00:50:06,737 --> 00:50:10,373
+It's not always easy losing
+someone you care about.
+
+622
+00:50:13,276 --> 00:50:15,177
+You should know that, right?
+
+623
+00:50:33,764 --> 00:50:35,297
+A signal.
+
+624
+00:50:36,066 --> 00:50:39,135
+You gotta get this
+thing out of me, kid.
+
+625
+00:50:39,137 --> 00:50:40,336
+What the hell?
+
+626
+00:50:40,338 --> 00:50:42,204
+I don't know how to do that.
+
+627
+00:50:44,207 --> 00:50:45,708
+I do.
+
+628
+00:50:58,588 --> 00:51:00,523
+I'm gonna go flush
+out this beer.
+
+629
+00:51:51,775 --> 00:51:53,109
+No.
+
+630
+00:51:53,111 --> 00:51:54,443
+Stand down.
+
+631
+00:51:55,479 --> 00:51:57,179
+I've got this.
+
+632
+00:52:10,861 --> 00:52:13,529
+I think you've had enough fun.
+
+633
+00:52:13,531 --> 00:52:15,231
+Why are you doing this?
+
+634
+00:52:15,233 --> 00:52:16,398
+Where is he?
+
+635
+00:52:16,800 --> 00:52:18,367
+Creed?
+
+636
+00:52:18,369 --> 00:52:20,302
+I'm here.
+
+637
+00:52:24,541 --> 00:52:26,876
+I'm disappointed in you, Max.
+
+638
+00:52:26,878 --> 00:52:30,279
+I chose you because
+you're the best.
+
+639
+00:52:30,281 --> 00:52:33,716
+You understand the game world
+and you understand rules.
+
+640
+00:52:33,718 --> 00:52:37,186
+Well you've broken the rules
+so that means a penalty.
+
+641
+00:52:37,188 --> 00:52:37,186
+Tell me something.
+
+642
+00:52:37,188 --> 00:52:40,489
+How are you and your
+girl doing, huh?
+
+643
+00:52:40,491 --> 00:52:44,260
+I'm sensing some
+trust issues there.
+
+644
+00:52:44,262 --> 00:52:46,295
+I would kill it every
+time, my friend.
+
+645
+00:52:46,297 --> 00:52:51,267
+I mean, what do we have if
+we can't trust each other?
+
+646
+00:52:51,801 --> 00:52:55,371
+Princess, you okay?
+
+647
+00:52:55,373 --> 00:52:59,375
+She could be, but
+that's up to you.
+
+648
+00:53:00,377 --> 00:53:02,878
+Here are five feeds of
+five sentinel employees.
+
+649
+00:53:02,880 --> 00:53:05,948
+Each equally
+disappointing to me.
+
+650
+00:53:05,950 --> 00:53:07,583
+You're naughty girl
+is one of them.
+
+651
+00:53:07,585 --> 00:53:08,617
+Come on, that's bullshit.
+
+652
+00:53:08,619 --> 00:53:09,785
+You know I've seen her.
+
+653
+00:53:09,787 --> 00:53:11,820
+Pay attention, Max.
+
+654
+00:53:11,822 --> 00:53:14,456
+That's the point.
+
+655
+00:53:14,458 --> 00:53:17,793
+You choose wisely, she lives.
+
+656
+00:53:17,795 --> 00:53:21,530
+You choose poorly, they all die.
+
+657
+00:53:22,465 --> 00:53:23,599
+Tell you what.
+
+658
+00:53:23,601 --> 00:53:25,935
+I'm gonna make it easy on you.
+
+659
+00:53:29,439 --> 00:53:30,706
+Do it.
+
+660
+00:53:38,815 --> 00:53:39,848
+No.
+
+661
+00:53:39,850 --> 00:53:42,518
+You should be thanking me, Max.
+
+662
+00:53:42,520 --> 00:53:45,221
+Now you just got four choices.
+
+663
+00:53:45,223 --> 00:53:46,855
+You got sixty seconds.
+
+664
+00:53:46,857 --> 00:53:47,990
+Good luck.
+
+665
+00:53:47,992 --> 00:53:49,225
+Shit!
+
+666
+00:53:57,500 --> 00:53:58,667
+Max!
+
+667
+00:54:00,804 --> 00:54:02,905
+Max, what the hell is going on?
+
+668
+00:54:02,907 --> 00:54:04,006
+I don't know.
+
+669
+00:54:04,008 --> 00:54:05,941
+I don't know!
+
+670
+00:54:06,676 --> 00:54:07,743
+Shit.
+
+671
+00:54:16,987 --> 00:54:18,020
+There.
+
+672
+00:54:18,022 --> 00:54:19,021
+That's her.
+
+673
+00:54:19,023 --> 00:54:19,755
+It's her!
+
+674
+00:54:19,757 --> 00:54:20,923
+Feed 4.
+
+675
+00:54:20,925 --> 00:54:22,024
+Feed 4!
+
+676
+00:54:22,026 --> 00:54:23,459
+Come on, feed 4!
+
+677
+00:54:23,461 --> 00:54:24,727
+It's her!
+
+678
+00:54:38,675 --> 00:54:40,643
+Congratulations.
+
+679
+00:54:40,645 --> 00:54:42,344
+Why are you doing this?
+
+680
+00:54:42,979 --> 00:54:44,446
+What the hell do you want?
+
+681
+00:54:44,448 --> 00:54:46,548
+You'll be getting a
+message with instructions.
+
+682
+00:54:46,550 --> 00:54:50,753
+And little man, I
+suggest you follow them.
+
+683
+00:55:06,403 --> 00:55:07,936
+Baby, I'm okay.
+
+684
+00:55:10,740 --> 00:55:13,842
+They want you to go to the
+ground floor of the needle.
+
+685
+00:55:16,413 --> 00:55:21,517
+Caleb Angelo will be
+leaving a dinner and they
+
+686
+00:55:21,519 --> 00:55:22,985
+want you to kill him.
+
+687
+00:55:23,586 --> 00:55:24,787
+I love you.
+
+688
+00:55:40,770 --> 00:55:42,538
+I get it now.
+
+689
+00:55:42,540 --> 00:55:43,939
+Well tell me.
+
+690
+00:55:43,941 --> 00:55:48,811
+Caleb Angelo owns 51% of the
+world's largest server file.
+
+691
+00:55:48,813 --> 00:55:51,847
+Kincaid only owns 40%.
+
+692
+00:55:51,849 --> 00:55:55,718
+With Angelo out of the way, he
+can scoop up all of the shares.
+
+693
+00:55:55,720 --> 00:55:57,619
+Complete control.
+
+694
+00:55:58,121 --> 00:56:00,522
+He wants to play god.
+
+695
+00:56:03,126 --> 00:56:05,094
+Let's do this.
+
+696
+00:56:05,096 --> 00:56:07,529
+Alright, okay.
+
+697
+00:56:44,901 --> 00:56:46,502
+Creed.
+
+698
+00:56:48,471 --> 00:56:49,972
+Go get your wife back.
+
+699
+00:56:53,143 --> 00:56:56,145
+I'm sorry about your loss.
+
+700
+00:57:43,761 --> 00:57:46,695
+You know I'm coming after you.
+
+701
+00:57:46,697 --> 00:57:48,664
+Give you a good show.
+
+702
+00:58:32,809 --> 00:58:34,810
+Yeah, hi.
+
+703
+00:58:34,812 --> 00:58:37,980
+Can I get some popcorn, soda?
+
+704
+00:58:38,915 --> 00:58:40,282
+Thanks.
+
+705
+00:58:45,089 --> 00:58:46,255
+- Max.
+- Hey!
+
+706
+00:58:46,257 --> 00:58:47,756
+Are you okay?
+
+707
+00:58:47,758 --> 00:58:48,690
+Shit.
+
+708
+00:58:48,692 --> 00:58:49,725
+I almost killed this dude.
+
+709
+00:58:49,727 --> 00:58:50,993
+- What!
+- No, nevermind.
+
+710
+00:58:50,995 --> 00:58:52,628
+What happened?
+
+711
+00:58:52,630 --> 00:58:54,696
+They told me I was reassigned,
+but I managed to sneak away.
+
+712
+00:58:54,698 --> 00:58:56,198
+I'm here to help how I can.
+
+713
+00:58:56,200 --> 00:58:58,800
+I'm so sorry that I
+got you into this.
+
+714
+00:58:58,802 --> 00:58:59,835
+Yeah, don't worry about it.
+
+715
+00:58:59,837 --> 00:59:01,236
+The important
+thing is your safe.
+
+716
+00:59:01,238 --> 00:59:02,704
+What do you mean?
+
+717
+00:59:02,706 --> 00:59:04,640
+If I live through all
+this, I'll tell you how I
+
+718
+00:59:04,642 --> 00:59:06,642
+saved your life like for real.
+
+719
+00:59:06,644 --> 00:59:08,277
+You can't tease
+a girl like that.
+
+720
+00:59:08,845 --> 00:59:10,245
+Putting you on speaker.
+
+721
+00:59:13,049 --> 00:59:14,850
+I'm feeling adventurous.
+
+722
+00:59:14,852 --> 00:59:17,286
+Just remember, there's
+no rebooting here.
+
+723
+00:59:17,288 --> 00:59:18,921
+If he dies, you're done.
+
+724
+00:59:18,923 --> 00:59:21,590
+Go big or go home, right?
+
+725
+00:59:21,592 --> 00:59:22,824
+I always wanted to do this.
+
+726
+00:59:22,826 --> 00:59:25,694
+Do what? I'm just
+booting up my laptop.
+
+727
+00:59:25,696 --> 00:59:26,728
+This.
+
+728
+00:59:28,164 --> 00:59:29,197
+Yes!
+
+729
+00:59:29,199 --> 00:59:31,233
+Max, are you hanging from a car?
+
+730
+00:59:31,235 --> 00:59:33,702
+Why yes, your highness, I am.
+
+731
+00:59:33,704 --> 00:59:35,771
+You stay away from my dad.
+
+732
+00:59:35,773 --> 00:59:36,939
+Who the hell is this guy?
+
+733
+00:59:36,941 --> 00:59:39,808
+I'm gonna gut you like a pig.
+
+734
+00:59:48,318 --> 00:59:49,618
+Hey!
+
+735
+01:00:04,033 --> 01:00:05,000
+Get him, boys!
+
+736
+01:00:05,002 --> 01:00:07,235
+Do what the hell I pay you for!
+
+737
+01:00:15,112 --> 01:00:16,645
+- Whoa!
+- Dad!
+
+738
+01:00:23,052 --> 01:00:24,953
+Hey, look.
+I am rich!
+
+739
+01:00:24,955 --> 01:00:26,221
+I'll pay you whatever
+they're paying you and
+
+740
+01:00:26,223 --> 01:00:27,956
+I'll double it!
+
+741
+01:00:27,958 --> 01:00:29,358
+I'm not a bad guy.
+
+742
+01:00:29,360 --> 01:00:31,093
+I'll do anything for you.
+
+743
+01:00:31,095 --> 01:00:32,294
+I have a daughter.
+
+744
+01:00:32,296 --> 01:00:34,296
+She's beautiful, super hot.
+
+745
+01:00:34,298 --> 01:00:35,330
+You can have her.
+
+746
+01:00:35,332 --> 01:00:36,765
+I'll give her to you.
+
+747
+01:00:36,767 --> 01:00:38,200
+Just let me go.
+
+748
+01:00:38,202 --> 01:00:40,102
+Come on, guy, come on!
+
+749
+01:00:40,104 --> 01:00:42,004
+Max, are you...
+
+750
+01:00:42,006 --> 01:00:43,839
+Finishing the game.
+
+751
+01:00:43,841 --> 01:00:47,142
+Who the hell are you?
+
+752
+01:00:57,020 --> 01:00:59,187
+Hey! Fuck you!
+
+753
+01:01:07,830 --> 01:01:09,665
+Yeah. What the hell is
+going on over there?
+
+754
+01:01:09,667 --> 01:01:11,433
+Angelo should've
+recognized creed.
+
+755
+01:01:11,435 --> 01:01:14,936
+Sir, he's here.
+
+756
+01:01:15,772 --> 01:01:16,972
+Lock it down.
+
+757
+01:01:17,874 --> 01:01:19,708
+Lock it down!
+
+758
+01:01:19,710 --> 01:01:21,009
+Yes, sir.
+
+759
+01:01:28,084 --> 01:01:30,118
+We're locked down, gentlemen.
+
+760
+01:01:30,120 --> 01:01:31,720
+No one out.
+
+761
+01:01:31,722 --> 01:01:33,955
+You know who's coming.
+
+762
+01:01:33,957 --> 01:01:37,693
+And remember no shooting.
+
+763
+01:01:37,695 --> 01:01:39,695
+So unstrap.
+
+764
+01:01:43,166 --> 01:01:44,433
+Now.
+
+765
+01:01:51,340 --> 01:01:56,211
+Kincaid wants him alive
+and wait for my command.
+
+766
+01:02:31,881 --> 01:02:33,281
+Creed.
+
+767
+01:02:35,885 --> 01:02:41,523
+What makes you think you
+can just walk back in here?
+
+768
+01:02:41,525 --> 01:02:43,024
+Where's Abbie?
+
+769
+01:02:46,262 --> 01:02:49,030
+Come to rescue your girl?
+
+770
+01:02:49,999 --> 01:02:55,003
+I heard she had a lovely
+meal with her boss.
+
+771
+01:03:04,113 --> 01:03:08,784
+They might even be getting
+ready to call it a night.
+
+772
+01:03:09,252 --> 01:03:12,020
+I'm not leaving
+here without her.
+
+773
+01:03:17,026 --> 01:03:18,426
+You hear that?
+
+774
+01:03:19,796 --> 01:03:23,031
+He's not leaving without her.
+
+775
+01:03:34,343 --> 01:03:37,045
+Fuck you.
+
+776
+01:03:42,185 --> 01:03:45,854
+I've retired from violence.
+
+777
+01:03:51,928 --> 01:03:55,197
+Guess we're gonna call
+this a cheat day.
+
+778
+01:03:59,569 --> 01:04:02,003
+Tear that bitch's
+arms and legs off.
+
+779
+01:04:21,557 --> 01:04:22,591
+Creed!
+
+780
+01:04:31,200 --> 01:04:34,035
+All personal.
+Report to main entrance.
+
+781
+01:05:16,312 --> 01:05:17,612
+Let's go!
+
+782
+01:05:17,614 --> 01:05:19,147
+Come on, creed!
+
+783
+01:05:20,650 --> 01:05:22,183
+- Get up!
+- You ain't nothing!
+
+784
+01:05:31,661 --> 01:05:33,361
+Stop!
+
+785
+01:06:21,711 --> 01:06:24,012
+- Come on, creed!
+- Get up!
+
+786
+01:07:48,764 --> 01:07:50,098
+Dead man.
+
+787
+01:08:08,818 --> 01:08:10,652
+Creed!
+
+788
+01:08:14,690 --> 01:08:16,324
+Oh, no!
+
+789
+01:08:21,530 --> 01:08:23,231
+Get up!
+
+790
+01:08:23,233 --> 01:08:24,599
+This isn't over.
+
+791
+01:08:28,704 --> 01:08:30,705
+I gave you a chance.
+
+792
+01:08:30,707 --> 01:08:31,840
+What?
+
+793
+01:08:37,379 --> 01:08:40,381
+I gave you a chance.
+
+794
+01:09:00,803 --> 01:09:03,438
+We were like brothers.
+
+795
+01:10:20,349 --> 01:10:21,482
+Abbie!
+
+796
+01:10:21,484 --> 01:10:23,318
+Stop.
+
+797
+01:10:23,320 --> 01:10:24,819
+Right there.
+
+798
+01:10:27,856 --> 01:10:30,458
+She'll be dead before
+you can touch her.
+
+799
+01:10:31,594 --> 01:10:32,694
+So...
+
+800
+01:10:33,829 --> 01:10:35,897
+Where's Zane?
+
+801
+01:10:35,899 --> 01:10:37,365
+He's dead.
+
+802
+01:10:37,733 --> 01:10:39,801
+Congratulations.
+
+803
+01:10:40,669 --> 01:10:42,670
+Well maybe you're next.
+
+804
+01:10:44,640 --> 01:10:46,274
+Maybe.
+
+805
+01:10:47,009 --> 01:10:49,544
+Is this what this
+all comes down to?
+
+806
+01:10:52,548 --> 01:10:54,749
+Well, I hope you've rehearsed.
+
+807
+01:10:56,252 --> 01:10:57,652
+That's cute.
+
+808
+01:10:58,787 --> 01:11:03,024
+And for your information,
+yes, I have.
+
+809
+01:11:03,026 --> 01:11:07,528
+I gotta say you were uh,
+fairly impressive, but I mean,
+
+810
+01:11:07,530 --> 01:11:10,965
+what else would we expect
+from the great Orson creed?
+
+811
+01:11:10,967 --> 01:11:12,734
+Am I right?
+
+812
+01:11:12,736 --> 01:11:17,805
+Well I had some help, but
+you know all about that.
+
+813
+01:11:17,807 --> 01:11:19,474
+Yes, you did.
+
+814
+01:11:20,676 --> 01:11:23,378
+Which reminds me,
+where is Robin?
+
+815
+01:11:23,380 --> 01:11:25,380
+Oh yeah.
+
+816
+01:11:29,618 --> 01:11:31,653
+In my evil trap.
+
+817
+01:11:32,688 --> 01:11:34,389
+So...
+
+818
+01:11:36,892 --> 01:11:40,461
+Onto the monologue, yeah?
+
+819
+01:11:40,463 --> 01:11:45,033
+What was it you wanted
+to know, my master plan?
+
+820
+01:11:46,635 --> 01:11:49,637
+Well it's your game, maestro.
+
+821
+01:11:49,639 --> 01:11:50,838
+Always a gentlemen.
+
+822
+01:11:50,840 --> 01:11:52,907
+Even under duress.
+
+823
+01:11:53,575 --> 01:11:56,544
+But why kids?
+
+824
+01:11:56,546 --> 01:11:58,346
+Why would you kill children?
+
+825
+01:11:59,081 --> 01:12:02,016
+They're causalities of war.
+
+826
+01:12:03,552 --> 01:12:05,353
+You're delusional.
+
+827
+01:12:07,589 --> 01:12:09,490
+I'm delusional?
+
+828
+01:12:15,898 --> 01:12:18,666
+It's broken, creed.
+
+829
+01:12:18,668 --> 01:12:22,370
+The whole damn show is broken.
+
+830
+01:12:22,372 --> 01:12:24,872
+And you wanna take control x
+and you wanna give it to the
+
+831
+01:12:24,874 --> 01:12:28,910
+puppeteers, the people who
+sell you, sell all of us
+
+832
+01:12:28,912 --> 01:12:31,913
+on America, land of the free.
+
+833
+01:12:31,915 --> 01:12:35,817
+You wanna do that and
+you call me delusional?
+
+834
+01:12:37,786 --> 01:12:40,588
+I see the future.
+
+835
+01:12:42,124 --> 01:12:47,395
+In the gamers lies
+our salvation.
+
+836
+01:12:48,397 --> 01:12:52,667
+As events like today
+continue, the country will
+
+837
+01:12:52,669 --> 01:12:55,036
+pass my bill willingly.
+
+838
+01:12:59,975 --> 01:13:02,410
+To keep guns in games.
+
+839
+01:13:02,412 --> 01:13:07,548
+An army of elite gamers.
+
+840
+01:13:07,550 --> 01:13:10,985
+Born through with
+what we provide.
+
+841
+01:13:10,987 --> 01:13:15,890
+An absolute controlled
+militia ready to strike.
+
+842
+01:13:15,892 --> 01:13:20,828
+That, that is the
+revolution of today.
+
+843
+01:13:22,865 --> 01:13:29,470
+And that's how we show the world
+the potential in our humanity.
+
+844
+01:13:31,607 --> 01:13:34,876
+From time to time, the
+tree of Liberty must be
+
+845
+01:13:34,878 --> 01:13:40,548
+refreshed with the
+blood of patriots.
+
+846
+01:14:07,776 --> 01:14:14,982
+This is our wasteland
+and what we've made
+
+847
+01:14:14,984 --> 01:14:17,185
+doesn't have to be like this.
+
+848
+01:14:18,854 --> 01:14:24,992
+Sometimes to make things
+better you need to start
+
+849
+01:14:24,994 --> 01:14:27,094
+by making them worse.
+
+850
+01:14:28,197 --> 01:14:30,598
+And I will do that.
+
+851
+01:14:31,834 --> 01:14:33,835
+I will tear it down.
+
+852
+01:14:34,570 --> 01:14:37,805
+I will tear it all down.
+
+853
+01:14:39,208 --> 01:14:46,481
+And then I will rebuild
+it brick by brick.
+
+854
+01:14:47,683 --> 01:14:50,785
+So you'll lead this new order?
+
+855
+01:14:55,524 --> 01:14:58,659
+And you could've been
+there, right at my side.
+
+856
+01:15:01,230 --> 01:15:03,865
+That's bullshit.
+
+857
+01:15:05,734 --> 01:15:07,902
+You don't have the right
+to control people from
+
+858
+01:15:07,904 --> 01:15:10,771
+being assholes and you can't
+because we're gonna fuck up.
+
+859
+01:15:10,773 --> 01:15:12,807
+That's what being human is.
+
+860
+01:15:12,809 --> 01:15:15,776
+This was never about
+saving the wasteland.
+
+861
+01:15:15,778 --> 01:15:18,112
+The wasteland is
+inevitable because of who
+
+862
+01:15:18,114 --> 01:15:22,183
+we are and that's
+reality brother.
+
+863
+01:15:22,918 --> 01:15:25,686
+So who's selling who?
+
+864
+01:15:25,688 --> 01:15:28,556
+This is about you
+and no one else.
+
+865
+01:15:28,558 --> 01:15:31,259
+This is about your greed,
+this is about your quest
+
+866
+01:15:31,261 --> 01:15:33,661
+to be what only a god can be.
+
+867
+01:15:33,663 --> 01:15:36,764
+Right now I am god.
+
+868
+01:15:38,534 --> 01:15:42,136
+Well you can't control me.
+
+869
+01:15:42,138 --> 01:15:45,806
+You sure as hell
+can't control her.
+
+870
+01:15:47,242 --> 01:15:51,312
+At the end of it all,
+what is this really?
+
+871
+01:15:51,314 --> 01:15:57,051
+It's about what you don't have,
+what you can't have...
+
+872
+01:15:57,053 --> 01:15:59,020
+What I have.
+
+873
+01:15:59,821 --> 01:16:01,822
+You don't know shit.
+
+874
+01:16:10,098 --> 01:16:13,067
+You don't think I
+saw you coveting her?
+
+875
+01:16:13,069 --> 01:16:16,637
+Well no matter what
+happens today,
+
+876
+01:16:16,639 --> 01:16:22,276
+you'll always know that
+she chose me over you.
+
+877
+01:16:22,278 --> 01:16:24,712
+Hey, what are you doing, huh?
+
+878
+01:16:24,714 --> 01:16:26,147
+What are you doing?
+
+879
+01:16:29,785 --> 01:16:31,118
+Hey!
+
+880
+01:16:31,887 --> 01:16:33,254
+Drop the controller.
+
+881
+01:16:36,325 --> 01:16:37,625
+Drop it.
+
+882
+01:16:37,627 --> 01:16:39,627
+Drop it right now!
+
+883
+01:16:40,796 --> 01:16:41,929
+Hey!
+
+884
+01:16:42,331 --> 01:16:44,699
+Drop the controller now!
+
+885
+01:16:44,701 --> 01:16:46,167
+No!
+
+886
+01:16:48,370 --> 01:16:49,337
+Shit.
+
+887
+01:16:49,339 --> 01:16:50,204
+Shit.
+
+888
+01:16:50,206 --> 01:16:51,305
+Gotcha.
+
+889
+01:16:59,615 --> 01:17:00,648
+Abbie!
+
+890
+01:17:22,270 --> 01:17:25,272
+Come on! Come on! Come on!
+
+891
+01:17:26,174 --> 01:17:27,341
+Shit!
+
+892
+01:17:27,343 --> 01:17:29,810
+Max, what is it?
+What's going on?
+
+893
+01:17:31,380 --> 01:17:32,980
+Max!
+
+894
+01:17:42,257 --> 01:17:47,662
+When I come back, you'll
+buy me dinner to thank me.
+
+895
+01:17:47,664 --> 01:17:48,829
+What?
+
+896
+01:17:48,831 --> 01:17:50,097
+Max, wait!
+
+897
+01:17:50,899 --> 01:17:51,932
+Max!
+
+898
+01:18:39,715 --> 01:18:41,782
+This ends now.
+
+899
+01:20:07,803 --> 01:20:09,503
+I'll remember you well.
+
+900
+01:20:14,109 --> 01:20:15,376
+Kincaid!
+
+901
+01:20:18,180 --> 01:20:20,481
+Remember why your
+friend is dead, Max.
+
+902
+01:20:22,017 --> 01:20:25,052
+Because of what you're
+holding in your hand.
+
+903
+01:20:25,554 --> 01:20:30,424
+Through me, that'll
+never happen again.
+
+904
+01:20:30,426 --> 01:20:32,092
+Shoot him.
+
+905
+01:20:35,263 --> 01:20:37,531
+I know you won't shoot me.
+
+906
+01:21:12,133 --> 01:21:13,567
+Let's go home.
+
+907
+01:21:24,346 --> 01:21:26,213
+You're going to our house.
+
+908
+01:21:26,215 --> 01:21:27,514
+Let's not make a date of it.
+
+909
+01:21:27,516 --> 01:21:29,083
+Come on, let's go.
+
+910
+01:21:39,094 --> 01:21:42,029
+So if you're just joining us,
+I'm here with Max Troy.
+
+911
+01:21:42,031 --> 01:21:45,266
+Champion gamer and former
+lead tester for sentinel.
+
+912
+01:21:45,268 --> 01:21:48,269
+After a very bizarre chain
+of events that one might
+
+913
+01:21:48,271 --> 01:21:51,238
+only find in a video
+game, the sentinel board
+
+914
+01:21:51,240 --> 01:21:55,943
+unanimously voted in this
+young man and their new ceo.
+
+915
+01:21:55,945 --> 01:21:57,611
+You've been fairly silent
+since this has all
+
+916
+01:21:57,613 --> 01:22:00,581
+happened and we're
+all dying to know.
+
+917
+01:22:00,583 --> 01:22:03,183
+Tell us a little bit about
+what happened and what you
+
+918
+01:22:03,185 --> 01:22:04,451
+have planned.
+
+919
+01:22:04,453 --> 01:22:07,488
+Well one thing we must
+acknowledge as a leader in
+
+920
+01:22:07,490 --> 01:22:11,959
+this field is our responsibility
+to shape our society.
+
+921
+01:22:11,961 --> 01:22:15,129
+If you look where we've
+come, or arguably where
+
+922
+01:22:15,131 --> 01:22:17,264
+we've fallen to, you have
+to ask yourself what
+
+923
+01:22:17,266 --> 01:22:20,701
+happened to our humanity
+and where did it go?
+
+924
+01:22:20,703 --> 01:22:24,672
+In my new position, my
+focus is to return the
+
+925
+01:22:24,674 --> 01:22:26,607
+spotlight to the gamers.
+
+926
+01:22:26,609 --> 01:22:29,576
+I find that the single
+most important thing.
+
+927
+01:22:29,578 --> 01:22:31,178
+And hopefully if we're
+smart enough, we can
+
+928
+01:22:31,180 --> 01:22:35,549
+remind our consumers to
+engage in balance, to
+
+929
+01:22:35,551 --> 01:22:39,386
+remember what makes them
+human in the first place.
+
+930
+01:22:39,388 --> 01:22:41,388
+In between missions of course.
+
+931
+01:22:42,090 --> 01:22:45,225
+Some of your critics
+have voiced concerns.
+
+932
+01:22:45,227 --> 01:22:47,594
+Going as far as to fear
+you're gonna fall into the
+
+933
+01:22:47,596 --> 01:22:49,663
+same track as your predecessor.
+
+934
+01:22:49,665 --> 01:22:52,266
+And with such an
+unprecedented vote,
+
+935
+01:22:52,268 --> 01:22:55,636
+some are wondering, I think,
+if you almost planned
+
+936
+01:22:55,638 --> 01:22:57,338
+for this to happen.
+
+937
+01:22:57,340 --> 01:23:00,341
+Any ambitious man would
+dream of reaching the top.
+
+938
+01:23:00,343 --> 01:23:03,744
+To deny that would deny
+my own humanity I think.
+
+939
+01:23:03,746 --> 01:23:07,681
+Andrew Kincaid was a god
+in his world and any god
+
+940
+01:23:07,683 --> 01:23:11,618
+who is obsessed with his
+own power sets himself up
+
+941
+01:23:11,620 --> 01:23:13,721
+for his own demise.
+
+942
+01:23:13,723 --> 01:23:17,758
+And that power
+falls on his angels.
+
+943
+01:23:17,760 --> 01:23:21,161
+Someone had to take
+up the reigns.
+
+944
+01:23:21,163 --> 01:23:25,733
+All we can do is hope
+for a fresh perspective.
+
+945
+01:23:25,735 --> 01:23:29,670
+Ultimately it's up to us
+to enter this world,
+
+946
+01:23:29,672 --> 01:23:34,308
+to take up that controller,
+to make those decisions.
+
+947
+01:23:34,310 --> 01:23:37,644
+Ultimately, it's your quarter.
+
+948
+01:23:38,747 --> 01:23:40,481
+So there you have it,
+ladies and gentlemen.
+
+949
+01:23:40,483 --> 01:23:42,583
+Straight from the man himself.
+
+950
+01:23:42,585 --> 01:23:46,653
+Time will tell if sentinel
+takes us in a new direction.
+
+951
+01:23:47,522 --> 01:23:50,224
+We will all be
+curiously watching.
+

@@ -1,0 +1,3456 @@
+1
+00:00:01,500 --> 00:00:04,459
+Brand X.
+
+2
+00:00:46,740 --> 00:00:51,760
+Okay! Okay.
+
+3
+00:00:53,679 --> 00:00:55,600
+Good Morning
+
+4
+00:00:57,060 --> 00:01:01,160
+I'm Agent Peterson. And this is Agent Wallace
+
+5
+00:01:03,740 --> 00:01:10,620
+Yeah. He's new. But, he's learning, so cut him a little slack for now.
+
+6
+00:01:13,659 --> 00:01:15,439
+Tell me your name.
+
+7
+00:01:19,120 --> 00:01:21,960
+...your real name, for the record.
+
+8
+00:01:23,159 --> 00:01:25,579
+Charles Drake.
+
+9
+00:01:28,760 --> 00:01:31,660
+What... what do you want from me?
+
+10
+00:01:32,180 --> 00:01:34,200
+What do we want? What do we want!?
+
+11
+00:01:34,200 --> 00:01:38,780
+You the motherfucker who likes to steal shit from the government! Huh? Huh!?
+
+12
+00:01:46,900 --> 00:01:50,100
+Not yet. Be Patient
+
+13
+00:01:52,680 --> 00:01:54,440
+See what I mean?
+
+14
+00:01:59,719 --> 00:02:02,340
+What do you do for a living, Charles?
+
+15
+00:02:06,180 --> 00:02:08,719
+I teach math, at Berkley.
+
+16
+00:02:09,060 --> 00:02:10,920
+Nice cover, asshole.
+
+17
+00:02:13,620 --> 00:02:19,080
+ALGORITHM: noun. a set of rules to be followed in problem-solving operations, especially by a computer.
+
+18
+00:02:34,539 --> 00:02:36,599
+A month ago I was a god.
+
+19
+00:02:38,139 --> 00:02:40,719
+Most people have no idea what a hacker can do.
+
+20
+00:02:42,180 --> 00:02:44,319
+I make the world you live in...
+
+21
+00:02:45,439 --> 00:02:48,759
+...and I can reshape that world if I feel like it.
+
+22
+00:03:07,060 --> 00:03:11,180
+When I look around I don't see borders walls or locks.
+
+23
+00:03:11,759 --> 00:03:13,599
+I see puzzles...
+
+24
+00:03:13,699 --> 00:03:17,079
+...games that entertain me while I do bigger things.
+
+25
+00:03:38,620 --> 00:03:43,060
+Things like breaking into the phone company to rewrite the code on their servers…
+
+26
+00:03:43,060 --> 00:03:45,599
+...and give myself free unlimited service.
+
+27
+00:04:49,319 --> 00:04:54,659
+Swapping out my pre-burned SIM cards everyday at 6pm is a small price to pay.
+
+28
+00:05:18,740 --> 00:05:20,400
+I don't care about privacy.
+
+29
+00:05:20,399 --> 00:05:24,120
+or social status or accumulating stuff.
+
+30
+00:05:24,699 --> 00:05:27,300
+I don't care about the law or who makes it.
+
+31
+00:05:28,040 --> 00:05:31,520
+I live by one rule: information should be free.
+
+32
+00:05:32,319 --> 00:05:38,819
+And everything can be simplified, encoded and understood as information.
+
+33
+00:05:40,060 --> 00:05:43,199
+We call this the information age for a reason.
+
+34
+00:05:45,740 --> 00:05:49,819
+Companies and governments don't get it, so they are powerless against me.
+
+35
+00:05:49,819 --> 00:05:51,500
+You think there are rules?
+
+36
+00:05:51,500 --> 00:05:53,839
+You treat computers like you do everything else...
+
+37
+00:05:53,839 --> 00:05:57,219
+...like it's an immutable fact of life and because of that…
+
+38
+00:05:57,220 --> 00:05:59,940
+...your worldview is antiquated.
+
+39
+00:06:00,220 --> 00:06:02,220
+Get ready for a serious paradigm shift.
+
+40
+00:06:02,220 --> 00:06:07,200
+The geeks have inherited the earth... the rest of you just don't know it yet.
+
+41
+00:06:08,579 --> 00:06:10,839
+For your consideration, exhibit A.
+
+42
+00:06:11,699 --> 00:06:14,939
+I just hacked every computer within 20 feet of me.
+
+43
+00:06:15,379 --> 00:06:17,500
+I own them now.
+
+44
+00:06:31,759 --> 00:06:33,120
+Thanks for coming.
+
+45
+00:06:37,879 --> 00:06:41,779
+I think my wife is cheating on me.
+
+46
+00:06:43,060 --> 00:06:44,939
+So ditch her.
+
+47
+00:06:46,699 --> 00:06:50,599
+California's a No Fault state. She gets half regardless.
+
+48
+00:06:52,220 --> 00:06:54,220
+I want proof.
+
+49
+00:06:55,360 --> 00:07:01,139
+What for? Just call it "irreconcilable differences" and bail.
+
+50
+00:07:03,060 --> 00:07:05,379
+I want proof for myself.
+
+51
+00:07:08,459 --> 00:07:11,099
+I need to know.
+
+52
+00:07:16,899 --> 00:07:18,959
+What kind of proof?
+
+53
+00:07:21,259 --> 00:07:27,959
+You want video of her playing another guy's skin-flute?
+
+54
+00:07:28,139 --> 00:07:29,959
+'cause that's not what I do.
+
+55
+00:07:30,019 --> 00:07:31,599
+No, no, no, no, no. Look around.
+
+56
+00:07:31,759 --> 00:07:34,120
+If you find anything you send it to me.
+
+57
+00:07:34,660 --> 00:07:36,500
+Either way you still get paid.
+
+58
+00:07:37,779 --> 00:07:42,159
+That's the deal. You know my fee.
+
+59
+00:07:46,420 --> 00:07:48,360
+Why would I hack all these computers...
+
+60
+00:07:48,379 --> 00:07:51,500
+...including the laptop of a man who just gave me five grand?
+
+61
+00:07:52,379 --> 00:07:54,339
+I don't care what he does for a living.
+
+62
+00:07:57,300 --> 00:07:58,680
+And if your wife finds out...?
+
+63
+00:07:58,680 --> 00:08:00,420
+She won't.
+
+64
+00:08:01,620 --> 00:08:06,699
+I understand the need for discretion, Mr...?
+
+65
+00:08:07,920 --> 00:08:09,920
+It's LU$er
+
+66
+00:08:14,540 --> 00:08:19,020
+I collect computers. Most of them don't lead anywhere interesting
+
+67
+00:08:19,680 --> 00:08:21,579
+so I just add them to my botnet
+
+68
+00:08:22,160 --> 00:08:26,960
+a massive set of computers I use to do whatever I feel like doing at the time
+
+69
+00:08:27,079 --> 00:08:31,779
+mostly, to cover any trace of the big hacks that I do that might lead back to me.
+
+70
+00:08:36,000 --> 00:08:39,519
+I can write the code I need to break into Dempsey's network.
+
+71
+00:08:40,039 --> 00:08:42,379
+But he lives in a very expensive neighborhood.
+
+72
+00:08:42,940 --> 00:08:47,520
+I can't just sit on his curb, outside his house, brute-forcing my way in.
+
+73
+00:09:42,700 --> 00:09:45,100
+I need another Can-of-Worm.
+
+74
+00:09:46,779 --> 00:09:47,980
+How soon do you need it?
+
+75
+00:09:48,059 --> 00:09:49,099
+Two days?
+
+76
+00:09:50,500 --> 00:09:52,019
+Are you coming?
+
+77
+00:09:54,460 --> 00:09:58,259
+Hackers come in two basic models: coders and makers.
+
+78
+00:09:58,759 --> 00:10:00,500
+Bitchan is a maker.
+
+79
+00:10:00,720 --> 00:10:03,440
+She has a degree in electrical engineering.
+
+80
+00:10:04,000 --> 00:10:10,779
+In other words, she's a lightning god, controlling and manipulating electricity to do her will.
+
+81
+00:10:11,620 --> 00:10:14,720
+As a side job, she modified gaming consoles...
+
+82
+00:10:14,779 --> 00:10:18,299
+...so they'll played copied discs or games from anywhere in the world.
+
+83
+00:10:18,799 --> 00:10:21,039
+It's not to break the law.
+
+84
+00:10:21,500 --> 00:10:23,440
+That isn't even a factor.
+
+85
+00:10:24,539 --> 00:10:28,019
+She does it for the same reason I do. It's about information.
+
+86
+00:10:28,100 --> 00:10:31,519
+And region encoding is just another puzzle blocking the way.
+
+87
+00:10:42,759 --> 00:10:45,899
+So, is this the gig Decimate hooked you up with?
+
+88
+00:10:46,860 --> 00:10:51,659
+Yeah. It's residential. He lives in St. Francis Wood.
+
+89
+00:10:53,120 --> 00:10:57,100
+So, do the TV, the Wi-Fi, and anything else you can think of.
+
+90
+00:11:00,080 --> 00:11:01,680
+What about the firewall?
+
+91
+00:11:02,799 --> 00:11:05,939
+That too. They just upgraded to smart-meters.
+
+92
+00:11:07,940 --> 00:11:12,060
+If the worm doesn't get through in five hours
+
+93
+00:11:13,460 --> 00:11:16,460
+just reset the power to the house... force a reboot.
+
+94
+00:11:17,100 --> 00:11:19,600
+And when the can works?
+
+95
+00:11:26,279 --> 00:11:26,939
+How big?
+
+96
+00:11:26,980 --> 00:11:27,899
+It'll fit.
+
+97
+00:11:35,379 --> 00:11:37,139
+Can I spend the night?
+
+98
+00:11:37,360 --> 00:11:39,379
+When did you start asking?
+
+99
+00:11:41,379 --> 00:11:43,419
+I'm going to be here until morning.
+
+100
+00:12:11,559 --> 00:12:13,659
+We're not ADHD.
+
+101
+00:12:14,139 --> 00:12:19,080
+We just don't care that wind-speeds on Saturn can get up to 3,000 miles per hour.
+
+102
+00:12:19,080 --> 00:12:21,800
+I remember it because I collect information.
+
+103
+00:12:22,659 --> 00:12:26,219
+But it's worthless to me until I decide to build a probe to land on Saturn,
+
+104
+00:12:26,320 --> 00:12:29,640
+which doesn't even have a surface to land on anyway.
+
+105
+00:13:20,139 --> 00:13:24,480
+It's 5:55pm and Bitchan sent me a text letting me know
+
+106
+00:13:24,519 --> 00:13:29,659
+that the Can-of-Worm will run for 4 days passive, or 12 hours at full-power.
+
+107
+00:13:37,500 --> 00:13:39,320
+We like things that make us think.
+
+108
+00:13:40,320 --> 00:13:44,460
+Like, what's the most efficient way to run a Linux computer off of a battery?
+
+109
+00:13:45,620 --> 00:13:48,200
+How fast can I get this program to run?
+
+110
+00:13:48,980 --> 00:13:52,180
+What's the best way to break into a network?
+
+111
+00:14:14,500 --> 00:14:18,139
+What's the best time to launch an attack against a home network?
+
+112
+00:14:35,399 --> 00:14:40,579
+Between the hours of 3:00am and 5:00am everyone's asleep.
+
+113
+00:14:40,740 --> 00:14:44,240
+Even the police who normally patrol are sitting in their cars
+
+114
+00:14:44,240 --> 00:14:48,240
+in secluded parking lots, filling out drunk-driver arrest reports.
+
+115
+00:15:31,759 --> 00:15:36,080
+The first and probably easiest way into any home network is the TV.
+
+116
+00:15:37,320 --> 00:15:40,480
+All new TVs come with Internet-capable software
+
+117
+00:15:40,480 --> 00:15:42,940
+usually Wi-Fi enabled by default.
+
+118
+00:15:43,659 --> 00:15:48,079
+Most people don't keep their TV software updated with the latest security patches.
+
+119
+00:15:48,080 --> 00:15:50,720
+Of course, that doesn't always work.
+
+120
+00:15:51,440 --> 00:15:54,900
+There are two easy hacks to get past most firewalls.
+
+121
+00:15:55,379 --> 00:15:59,919
+The first is to use a vulnerability in the default security setup
+
+122
+00:15:59,919 --> 00:16:04,139
+in almost all routers built between 2009 and 2012.
+
+123
+00:16:05,399 --> 00:16:08,179
+The other is to turn the power off and back on.
+
+124
+00:16:08,899 --> 00:16:13,000
+For 60 seconds, while the hardware reboots, the entire home network
+
+125
+00:16:13,000 --> 00:16:17,539
+is completely insecure because the firewall software loads last.
+
+126
+00:16:18,000 --> 00:16:21,019
+The point isn't the method. It's the potential.
+
+127
+00:16:22,000 --> 00:16:23,860
+There's always a way in.
+
+128
+00:17:02,000 --> 00:17:05,420
+It might be a bit of a moral grey area to use one of the few
+
+129
+00:17:05,420 --> 00:17:09,039
+socially promoted bastions of free information to hack.
+
+130
+00:17:09,619 --> 00:17:13,319
+Or, it might be perfectly inline with the ideas of the librarians.
+
+131
+00:17:14,019 --> 00:17:16,960
+Who knows? I don't ask.
+
+132
+00:17:18,359 --> 00:17:20,699
+The point is, I'm not doing this from home.
+
+133
+00:17:47,740 --> 00:17:51,599
+I'm not destroying Mrs. Dempsey; she did that on her own.
+
+134
+00:17:51,880 --> 00:17:56,120
+I'm just exploiting the vulnerability her carnal excesses created.
+
+135
+00:18:37,039 --> 00:18:40,220
+Do you know where the weakest link in any security system is?
+
+136
+00:18:40,819 --> 00:18:43,240
+It's you, with your shitty passwords
+
+137
+00:18:43,839 --> 00:18:46,859
+and how you share every part of your life online
+
+138
+00:18:47,160 --> 00:18:52,060
+from geotagging everything you do, to a photo you post of your new ATM card.
+
+139
+00:19:03,900 --> 00:19:08,200
+And your willingness to click on links that promise something you want.
+
+140
+00:19:18,900 --> 00:19:22,180
+And now I own Sam Novak's computer.
+
+141
+00:19:23,200 --> 00:19:24,980
+Whoever he is.
+
+142
+00:19:41,079 --> 00:19:45,059
+Arthur C. Clarke wrote that any sufficiently advanced technology
+
+143
+00:19:45,059 --> 00:19:47,500
+is indistinguishable from magic.
+
+144
+00:19:47,740 --> 00:19:49,819
+This is where we make the magic.
+
+145
+00:19:51,920 --> 00:19:54,300
+Anyone heard of Emergent See?
+
+146
+00:19:55,440 --> 00:20:00,700
+Emergent See.... Big. Ugly. Nasty government contractor
+
+147
+00:20:01,940 --> 00:20:07,279
+Data-mining. NSA. CIA. Hardcore combinatorial math.
+
+148
+00:20:09,200 --> 00:20:11,759
+Is that it? Just data-mining?
+
+149
+00:20:12,720 --> 00:20:15,120
+What's your interest in Emergent See?
+
+150
+00:20:15,339 --> 00:20:18,599
+Oh. Just a side project I'm working on.
+
+151
+00:20:26,019 --> 00:20:28,119
+Tell me that you're using the neighbor's Wi-Fi.
+
+152
+00:20:28,079 --> 00:20:29,299
+Uh, yeah.
+
+153
+00:20:37,660 --> 00:20:38,960
+I need a drink.
+
+154
+00:20:39,000 --> 00:20:40,640
+Anybody else?
+
+155
+00:20:50,240 --> 00:20:54,440
+So, what's the uh... great LU$er up to tonight?
+
+156
+00:20:54,960 --> 00:20:57,840
+Finished with that client Decimate sets you up with?
+
+157
+00:20:58,079 --> 00:21:01,179
+This afternoon. How did you know about that?
+
+158
+00:21:01,180 --> 00:21:03,180
+Bitchan told me.
+
+159
+00:21:03,880 --> 00:21:05,580
+She a cheating slut?
+
+160
+00:21:05,579 --> 00:21:07,579
+Yeah. Something like that.
+
+161
+00:21:11,240 --> 00:21:13,279
+But, you'll never guess with who.
+
+162
+00:21:13,279 --> 00:21:15,119
+Does it matter?
+
+163
+00:21:15,220 --> 00:21:16,920
+Sam Novak.
+
+164
+00:21:17,220 --> 00:21:18,539
+Don't know him.
+
+165
+00:21:18,539 --> 00:21:20,859
+CTO of Emergent See.
+
+166
+00:21:21,579 --> 00:21:23,539
+No shit!?
+
+167
+00:21:24,960 --> 00:21:31,180
+I rooted his office computer this afternoon. I'm searching their network right now, as we speak.
+
+168
+00:21:31,180 --> 00:21:31,920
+Oh, no. Will, no, no.
+
+169
+00:21:31,920 --> 00:21:32,640
+I told you I wasn't.
+
+170
+00:21:32,640 --> 00:21:33,520
+It's too heavy for Backdoor.
+
+171
+00:21:33,519 --> 00:21:34,920
+I'm not using your network.
+
+172
+00:21:34,920 --> 00:21:37,300
+Yeah. And Hash told you what Emergent See does.
+
+173
+00:21:37,440 --> 00:21:40,779
+Large-scale data-mining. That means NSA. They'll find the intrusion.
+
+174
+00:21:40,859 --> 00:21:46,959
+If anyone sees anything, they're just going to think that Novak has his own botnet.
+
+175
+00:21:50,140 --> 00:21:53,540
+Fine. I think you can do it.
+
+176
+00:21:53,660 --> 00:21:57,279
+And I think you can get away with it. But, not here.
+
+177
+00:21:59,920 --> 00:22:01,460
+What is your problem?
+
+178
+00:22:01,460 --> 00:22:03,460
+Not. Here.
+
+179
+00:22:12,480 --> 00:22:15,559
+I don't go on dates. I don't go clubbing.
+
+180
+00:22:15,680 --> 00:22:19,460
+I don't care about celebrity hookups or which sports team just won.
+
+181
+00:22:20,599 --> 00:22:24,759
+My universe exists entirely within computers.
+
+182
+00:22:25,359 --> 00:22:28,979
+The moment we come up with a way to not have to eat, or sleep
+
+183
+00:22:29,099 --> 00:22:33,480
+or any of the other things required to stay alive... I'll be the first in line.
+
+184
+00:22:33,960 --> 00:22:38,440
+And by in line, I mean online, breaking in and reading about it.
+
+185
+00:22:38,680 --> 00:22:43,580
+Then, Bitchan and I will get together and bootstrap a homebrew version for ourselves.
+
+186
+00:22:43,660 --> 00:22:47,860
+Because copyrights, patents, trademarks, and all the other
+
+187
+00:22:47,960 --> 00:22:51,120
+ephemeral concepts of ownership are a time-bomb.
+
+188
+00:22:52,119 --> 00:22:56,039
+Animal trainers teach a dog by giving the dog some treat it likes.
+
+189
+00:22:56,759 --> 00:22:59,220
+They call this paying the dog.
+
+190
+00:22:59,440 --> 00:23:03,840
+I do what I do for love. Anything else is a form of slavery
+
+191
+00:23:03,839 --> 00:23:05,839
+a reduction of my humanity.
+
+192
+00:23:05,960 --> 00:23:09,440
+Which is why I feel the moral liberty to search through Emergent See's
+
+193
+00:23:09,440 --> 00:23:13,220
+network and download all of their recently developed programs.
+
+194
+00:23:13,579 --> 00:23:19,000
+After all, they are a government contractor. In this country, that means they work for me.
+
+195
+00:23:21,480 --> 00:23:25,640
+Ownership is an illusion. I don't value money.
+
+196
+00:23:26,220 --> 00:23:30,579
+I acquiesce to social norms only in so much as it's required
+
+197
+00:23:30,619 --> 00:23:33,919
+to keep myself alive... and connected.
+
+198
+00:24:13,420 --> 00:24:15,880
+Take a look at the world around you.
+
+199
+00:24:16,259 --> 00:24:19,940
+You get in your car, which is run by a computer.
+
+200
+00:24:20,160 --> 00:24:23,160
+You watch TV, which is run by computers.
+
+201
+00:24:23,880 --> 00:24:29,700
+Any concept you have a world that doesn't involve electronics is naive.
+
+202
+00:24:30,960 --> 00:24:35,799
+Of course, you can manufacture a reality to suit your delusions if you like.
+
+203
+00:24:36,339 --> 00:24:38,319
+What difference does that make to me?
+
+204
+00:24:39,099 --> 00:24:41,799
+It's just one less person I have to deal with.
+
+205
+00:24:41,799 --> 00:24:46,460
+Because, if that's your choice, then you are irrelevant.
+
+206
+00:24:47,099 --> 00:24:50,119
+You cease to exist in any meaningful way
+
+207
+00:24:50,339 --> 00:24:53,699
+except as extremely low-hanging fruit.
+
+208
+00:24:54,279 --> 00:24:59,639
+That is, until you get a seat on the senate and make idiotic laws
+
+209
+00:24:59,640 --> 00:25:02,240
+like the Digital Millennium Copyright Act.
+
+210
+00:25:02,720 --> 00:25:06,279
+Copyright hinges on two interrelated ideas:
+
+211
+00:25:06,839 --> 00:25:08,799
+One, scarcity.
+
+212
+00:25:09,539 --> 00:25:14,399
+Two, if we want a section of our society dedicated to making cool stuff
+
+213
+00:25:14,900 --> 00:25:18,160
+then we've got to keep the people who create that stuff alive
+
+214
+00:25:18,160 --> 00:25:20,160
+and doing what they do best
+
+215
+00:25:20,160 --> 00:25:22,960
+like Emergent See's program called Shepherd.
+
+216
+00:25:23,380 --> 00:25:27,880
+I open it up, read a few lines of hex, and quickly recognize none of it.
+
+217
+00:25:28,759 --> 00:25:33,879
+But Hash... he codes like stream-of-consciousness poetry.
+
+218
+00:25:36,440 --> 00:25:39,100
+Maybe he can make sense of Shepherd.
+
+219
+00:26:13,740 --> 00:26:17,140
+I slurped a bunch of programs from a network I hacked into.
+
+220
+00:26:17,740 --> 00:26:19,319
+Any cool ones?
+
+221
+00:26:19,319 --> 00:26:21,319
+One's interesting.
+
+222
+00:26:22,259 --> 00:26:24,059
+Where did you get it?
+
+223
+00:26:24,420 --> 00:26:26,600
+Emergent See.
+
+224
+00:26:28,359 --> 00:26:31,839
+That's some serious shit, man. Did you disable Wi-Fi?
+
+225
+00:26:31,839 --> 00:26:33,839
+Yeah. But, I don't know what it did.
+
+226
+00:26:36,140 --> 00:26:39,720
+Okay. To hell with it. Let's take a look.
+
+227
+00:26:42,460 --> 00:26:44,420
+Okay. So, type shepherd.
+
+228
+00:26:44,640 --> 00:26:46,920
+Shepherd? They called it Shepherd?
+
+229
+00:26:47,779 --> 00:26:49,359
+Pride comes before a fall.
+
+230
+00:26:49,359 --> 00:26:50,599
+I know, right?
+
+231
+00:26:54,460 --> 00:26:56,960
+Okay. It's a bit sparse.
+
+232
+00:26:57,319 --> 00:27:01,099
+This part looks like a standard terminal...
+
+233
+00:27:01,420 --> 00:27:06,160
+But, this code here looks like it's trying to start an SSH tunnel.
+
+234
+00:27:09,500 --> 00:27:10,960
+Where's it calling?
+
+235
+00:27:11,519 --> 00:27:17,519
+It's calling? I don't... I don't know.
+
+236
+00:27:18,440 --> 00:27:20,360
+Do you think it's government?
+
+237
+00:27:20,539 --> 00:27:24,079
+Who knows? We need to give it access to find out.
+
+238
+00:27:24,660 --> 00:27:27,500
+Well... they'll know where we are.
+
+239
+00:27:28,019 --> 00:27:31,920
+And that's why, my friend, we're so close to the neighbors.
+
+240
+00:27:33,200 --> 00:27:35,620
+It'll buy us a couple minutes.
+
+241
+00:27:36,619 --> 00:27:38,500
+Any preferences?
+
+242
+00:27:41,640 --> 00:27:47,020
+Ah... I love the communal nature of San Francisco.
+
+243
+00:27:47,160 --> 00:27:51,100
+So caring. So sharing.
+
+244
+00:27:51,099 --> 00:27:53,439
+So love-ed.
+
+245
+00:27:53,700 --> 00:27:56,580
+Best Mike Myers movie ever!
+
+246
+00:27:58,579 --> 00:28:02,139
+Okay. Well, that's as far as I go.
+
+247
+00:28:02,279 --> 00:28:05,299
+Whatever it is, they don't want company.
+
+248
+00:28:08,460 --> 00:28:13,259
+Be careful, Will. Sudonym was right.
+
+249
+00:28:13,400 --> 00:28:17,259
+Emergent See's nasty... like Orwellian and shit.
+
+250
+00:28:20,000 --> 00:28:22,640
+Maybe Decimate can hack in.
+
+251
+00:28:23,579 --> 00:28:28,279
+Well, meanwhile, I'm going to stream So I Married an Axe Murderer.
+
+252
+00:28:28,920 --> 00:28:31,380
+She stole my heart and my cat.
+
+253
+00:28:54,140 --> 00:28:56,120
+We know two things about Shepherd:
+
+254
+00:28:56,180 --> 00:28:59,680
+One, it's calling something outside itself.
+
+255
+00:28:59,700 --> 00:29:03,240
+Two, it leads to a login screen.
+
+256
+00:29:03,779 --> 00:29:06,720
+Doing that in public was not smart.
+
+257
+00:29:11,480 --> 00:29:15,019
+I've got to go someplace where Wi-Fi signals can't escape.
+
+258
+00:29:20,039 --> 00:29:23,980
+You know those crazy people who wear aluminum foil hats
+
+259
+00:29:24,039 --> 00:29:27,379
+to protect themselves from the brainwashing space-rays?
+
+260
+00:29:28,940 --> 00:29:32,680
+The space-rays don't exist. But the foil?
+
+261
+00:29:33,079 --> 00:29:36,879
+That reflects almost all radio signals in existence.
+
+262
+00:29:37,599 --> 00:29:41,099
+It's similar to what the CIA uses to make their black-rooms.
+
+263
+00:29:41,339 --> 00:29:45,199
+And yes, the do call them black-rooms.
+
+264
+00:29:46,660 --> 00:29:51,920
+Of course, if you don't ground it, the reflective metal becomes a giant antenna.
+
+265
+00:29:52,319 --> 00:29:56,559
+So, the crazies, with the foil hats are actually amplifying
+
+266
+00:29:56,559 --> 00:30:00,919
+the fictitious space-rays, if they wear rubber-soled shoes.
+
+267
+00:32:46,220 --> 00:32:50,799
+Today's questions are: what is Shepherd doing; and who is it built for.
+
+268
+00:33:07,740 --> 00:33:11,099
+Whoever wrote Shepherd spent a long time doing it.
+
+269
+00:33:11,180 --> 00:33:14,200
+The entire thing is written in a proprietary language.
+
+270
+00:33:14,319 --> 00:33:18,059
+And, since my debugger only understands standard languages
+
+271
+00:33:18,059 --> 00:33:21,200
+there's just too much code to know what it's doing.
+
+272
+00:33:22,180 --> 00:33:23,820
+On to question two.
+
+273
+00:33:23,960 --> 00:33:26,140
+Who is Shepherd built for.
+
+274
+00:33:27,019 --> 00:33:30,900
+Time for some Cartesian logic: any system can be understood
+
+275
+00:33:30,960 --> 00:33:33,579
+if you break it down to its component parts.
+
+276
+00:33:33,740 --> 00:33:36,720
+Study the parts, figure out what they do
+
+277
+00:33:36,779 --> 00:33:40,019
+then you'll have a pretty good idea of what the whole thing is doing.
+
+278
+00:33:40,720 --> 00:33:45,480
+But, like I said, it would take weeks to figure out all of Shepherd.
+
+279
+00:33:45,720 --> 00:33:49,319
+So, I look for one very specific part.
+
+280
+00:33:50,039 --> 00:33:53,180
+I only need to find out who it's trying to talk to.
+
+281
+00:33:53,779 --> 00:33:57,240
+That will be a single ingredient... one number.
+
+282
+00:33:57,400 --> 00:34:01,019
+The IP address of the server it's calling.
+
+283
+00:34:27,760 --> 00:34:31,480
+In the late 1950s, MIT hackers believed as I do
+
+284
+00:34:31,480 --> 00:34:33,960
+that information should be free.
+
+285
+00:34:34,179 --> 00:34:38,399
+This ideology leads people to call us crypto-anarchists
+
+286
+00:34:39,239 --> 00:34:42,139
+an oversimplification to the point of error.
+
+287
+00:34:42,880 --> 00:34:45,539
+Just because I don't hold to the tenets of a government
+
+288
+00:34:45,619 --> 00:34:48,980
+quickly devolving into fascism doesn't make me an anarchist.
+
+289
+00:34:49,219 --> 00:34:52,459
+I don't have a label for what I do... beyond "hacker".
+
+290
+00:34:52,460 --> 00:34:54,960
+You could just as easily call me a libertarian.
+
+291
+00:34:54,960 --> 00:34:58,940
+Except, I'm not sure government has a place at all
+
+292
+00:34:59,019 --> 00:35:02,659
+or what it might look like in a future without conventional trade.
+
+293
+00:35:03,119 --> 00:35:08,960
+Or, maybe communist is right... except that means that all are community property
+
+294
+00:35:09,059 --> 00:35:13,440
+as opposed to no one owning anything, which is closer to how I feel.
+
+295
+00:35:20,840 --> 00:35:25,260
+Godwin's Law states that as online discussions grow longer
+
+296
+00:35:25,360 --> 00:35:30,519
+the probability of comparisons involving Nazis or Hitler approaches certainty.
+
+297
+00:35:30,920 --> 00:35:35,079
+The reason for this is because we, as a species, don't like vagaries.
+
+298
+00:35:35,639 --> 00:35:38,879
+It's because we come from people who needed to know
+
+299
+00:35:38,900 --> 00:35:44,579
+whether or not there was a tiger in the woods. Their lives depended on it.
+
+300
+00:35:55,840 --> 00:36:00,860
+My neighbor Brian bakes meth for the Oakland chapter of an infamous biker gang.
+
+301
+00:36:01,380 --> 00:36:04,220
+Walter White, he's not.
+
+302
+00:36:04,739 --> 00:36:07,119
+The idiot must have blown himself up.
+
+303
+00:36:07,460 --> 00:36:11,159
+The sentence for manufacturing an illegal controlled substance in the
+
+304
+00:36:11,159 --> 00:36:14,179
+state of California is usually up to 7 years.
+
+305
+00:36:15,179 --> 00:36:18,599
+Normal computer crimes can be up to 9 years.
+
+306
+00:36:19,199 --> 00:36:23,819
+Breaking into top-secret government computer systems and copying files?
+
+307
+00:36:24,139 --> 00:36:26,639
+They call that terrorism now days
+
+308
+00:36:27,099 --> 00:36:31,039
+at which point the laws have been getting a bit hazy.
+
+309
+00:36:31,320 --> 00:36:36,780
+If I'm lucky, the fire that took Brian also melted any evidence in my loft too.
+
+310
+00:36:37,079 --> 00:36:41,059
+If not, DHS now has me on their list
+
+311
+00:36:41,059 --> 00:36:43,440
+somewhere near the top.
+
+312
+00:36:46,139 --> 00:36:50,599
+Excuse me, Katherine. Is Sudo...  I mean, is Susan around?
+
+313
+00:36:54,360 --> 00:36:57,599
+It's Kat. And Sudonym's in the back.
+
+314
+00:37:04,019 --> 00:37:06,099
+You asshole.
+
+315
+00:37:06,920 --> 00:37:09,380
+What're you talking about?
+
+316
+00:37:09,840 --> 00:37:12,140
+Hash told me what you did.
+
+317
+00:37:12,300 --> 00:37:14,900
+After I told you not to.
+
+318
+00:37:15,460 --> 00:37:18,360
+An hour ago they came and took him.
+
+319
+00:37:20,360 --> 00:37:24,200
+You did that... asshole.
+
+320
+00:37:24,860 --> 00:37:27,539
+Hey! Hey!!
+
+321
+00:37:27,539 --> 00:37:28,239
+Wait a second...
+
+322
+00:37:28,239 --> 00:37:30,000
+Are you listening to me!?
+
+323
+00:37:30,000 --> 00:37:32,679
+You did that LU$er!
+
+324
+00:37:33,199 --> 00:37:37,639
+I don't know who those guys were, but they came in here because you decided to steal some government shit for lulz.
+
+325
+00:37:37,639 --> 00:37:38,420
+You don't understand...
+
+326
+00:37:38,440 --> 00:37:41,980
+No. It's not that I don't understand.
+
+327
+00:37:41,980 --> 00:37:45,420
+It's that I don't care... about you.
+
+328
+00:37:45,420 --> 00:37:47,420
+...not anymore.
+
+329
+00:37:52,760 --> 00:37:55,020
+Why are you still here?
+
+330
+00:37:56,260 --> 00:37:58,340
+I don't have any place to go.
+
+331
+00:37:58,340 --> 00:37:59,980
+Do I care?
+
+332
+00:37:59,980 --> 00:38:01,559
+You did.
+
+333
+00:38:03,280 --> 00:38:08,280
+Do. I. Care?
+
+334
+00:38:12,320 --> 00:38:13,120
+No.
+
+335
+00:38:14,699 --> 00:38:16,899
+Get the hell out of my bar.
+
+336
+00:39:01,460 --> 00:39:06,599
+Correlation without causation: that's when two things seem to be related but aren't.
+
+337
+00:39:07,739 --> 00:39:11,379
+You have two data-points: Ice cream sales, and drownings.
+
+338
+00:39:12,360 --> 00:39:16,300
+You notice that as ice cream sales increase, so do drownings.
+
+339
+00:39:16,980 --> 00:39:20,119
+You could assume ice cream makes people drown
+
+340
+00:39:20,780 --> 00:39:24,240
+or you could just look at your calendar and realize it's summer.
+
+341
+00:39:24,980 --> 00:39:29,579
+So, at first, the two facts look related.
+
+342
+00:39:30,440 --> 00:39:32,539
+But, logic tells you they're not.
+
+343
+00:39:33,519 --> 00:39:38,079
+Then you see a third factor, that they are related
+
+344
+00:39:38,260 --> 00:39:41,240
+just not in the way you first thought.
+
+345
+00:39:48,639 --> 00:39:50,279
+What is Shepherd?
+
+346
+00:39:52,679 --> 00:39:55,019
+It could just be a login screen.
+
+347
+00:39:58,300 --> 00:39:59,640
+But, to what?
+
+348
+00:40:01,239 --> 00:40:02,539
+I don't know.
+
+349
+00:40:05,139 --> 00:40:08,259
+Whoever it is, they want it hidden.
+
+350
+00:40:11,400 --> 00:40:15,019
+Bit, this sucks.
+
+351
+00:40:15,800 --> 00:40:18,740
+Yeah? What did you expect would happen?
+
+352
+00:40:18,739 --> 00:40:20,739
+I don't know. Not this.
+
+353
+00:40:22,840 --> 00:40:27,760
+What about Hash? Sudonym hates me.
+
+354
+00:40:30,800 --> 00:40:34,580
+Figure it out. Maybe she'll forgive you.
+
+355
+00:40:38,639 --> 00:40:40,219
+What the hell, Will?
+
+356
+00:40:41,159 --> 00:40:42,000
+Come on...
+
+357
+00:40:42,000 --> 00:40:43,400
+Oh my god.
+
+358
+00:40:43,820 --> 00:40:46,539
+15 years and you're not even curious?
+
+359
+00:40:47,440 --> 00:40:52,099
+Jesus. No! You're Like my brother! And, you're drunk!
+
+360
+00:40:54,099 --> 00:40:55,259
+You might like it.
+
+361
+00:40:55,260 --> 00:40:57,260
+You might like jerking off.
+
+362
+00:40:59,260 --> 00:41:02,440
+What if Brian didn't cause the fire?
+
+363
+00:41:02,980 --> 00:41:06,260
+What if Emergent See traced Shepherd back to me?
+
+364
+00:41:07,199 --> 00:41:11,500
+Which still leaves the question: who's Shepherd calling?
+
+365
+00:41:11,679 --> 00:41:12,599
+Bit!
+
+366
+00:41:13,000 --> 00:41:17,760
+I watched Shepherd in action. I saw the login screen at the park.
+
+367
+00:41:19,260 --> 00:41:22,600
+So, why isn't the IP address working?
+
+368
+00:41:22,599 --> 00:41:23,699
+Megumi!
+
+369
+00:41:25,599 --> 00:41:29,639
+About last night... I'm sorry.
+
+370
+00:41:29,980 --> 00:41:35,099
+I know. You're a guy. It's expected.
+
+371
+00:41:35,940 --> 00:41:40,240
+It's just that the bastards burned down my apartment. They stole my friend... they kidnapped him.
+
+372
+00:41:40,300 --> 00:41:44,920
+I don't know what they're doing with him or where. I don't know if he's even still alive.
+
+373
+00:41:45,119 --> 00:41:47,440
+Well, you did hack their network.
+
+374
+00:41:51,280 --> 00:41:52,640
+You're on their side?
+
+375
+00:41:53,219 --> 00:41:55,500
+What you did was pretty stupid, Will.
+
+376
+00:41:57,500 --> 00:41:59,699
+You don't even know what Shepherd does.
+
+377
+00:42:01,480 --> 00:42:03,059
+So help me find out.
+
+378
+00:42:03,099 --> 00:42:05,279
+So black-op agents can come and kidnap me?
+
+379
+00:42:05,280 --> 00:42:07,280
+That's not going to happen.
+
+380
+00:42:08,900 --> 00:42:12,900
+Please, tell me your plan... if you even have one.
+
+381
+00:42:18,239 --> 00:42:21,159
+Find out what they're doing and why.
+
+382
+00:42:21,860 --> 00:42:24,260
+Vague and probably impossible.
+
+383
+00:42:27,179 --> 00:42:30,519
+The moment you touch Shepherd something bad happens.
+
+384
+00:42:33,079 --> 00:42:34,880
+So, then, that's where we start?
+
+385
+00:42:36,880 --> 00:42:38,059
+What?
+
+386
+00:42:39,940 --> 00:42:45,740
+Whoever owns Shepherd... anytime they see it running, they send someone, right?
+
+387
+00:42:47,460 --> 00:42:50,380
+Twice doesn't make it a trend... but, sure.
+
+388
+00:42:51,820 --> 00:42:56,620
+So, we run Shepherd and let them come to us.
+
+389
+00:42:58,079 --> 00:43:00,559
+And when they come with their guns?
+
+390
+00:43:18,019 --> 00:43:20,500
+Nobody's coming. It's clear.
+
+391
+00:43:31,059 --> 00:43:32,739
+It's done. Come on.
+
+392
+00:43:44,760 --> 00:43:48,720
+Stakeouts are so much cooler in the movies.
+
+393
+00:43:50,099 --> 00:43:55,259
+Yeah. But if this works, we'll have something.
+
+394
+00:43:57,679 --> 00:44:02,119
+Yeah. If they don't see us... if they don't catch us, whoever they are.
+
+395
+00:44:04,780 --> 00:44:07,519
+Did you put your camera in my bag?
+
+396
+00:44:08,480 --> 00:44:09,800
+Yeah.
+
+397
+00:44:10,780 --> 00:44:15,980
+Put your phone down. Keep watch.
+
+398
+00:44:15,980 --> 00:44:16,860
+Why?
+
+399
+00:44:16,860 --> 00:44:18,860
+I have to pee.
+
+400
+00:44:30,679 --> 00:44:31,179
+What?
+
+401
+00:44:31,179 --> 00:44:33,179
+What? You think girls don't have to pee?
+
+402
+00:44:34,340 --> 00:44:36,220
+Feel free.
+
+403
+00:44:37,079 --> 00:44:39,239
+Unfair.
+
+404
+00:44:43,559 --> 00:44:44,579
+Bit.
+
+405
+00:44:45,280 --> 00:44:46,580
+What?
+
+406
+00:44:48,579 --> 00:44:50,739
+I know you don't... like me.
+
+407
+00:44:51,559 --> 00:44:57,239
+Of course I like you. You're like my brother, and best friend, all in one.
+
+408
+00:44:58,380 --> 00:45:00,700
+No. I meant, attracted to me.
+
+409
+00:45:00,739 --> 00:45:04,399
+I know what you meant. I was just trying to let you off easy.
+
+410
+00:45:04,860 --> 00:45:06,220
+Easy?
+
+411
+00:45:07,260 --> 00:45:08,960
+I thought you said you were sorry.
+
+412
+00:45:08,960 --> 00:45:09,820
+I am.
+
+413
+00:45:11,320 --> 00:45:13,880
+Then why are you bringing this up again?
+
+414
+00:45:15,880 --> 00:45:17,099
+I don't know.
+
+415
+00:45:19,139 --> 00:45:24,980
+I'm just curious. Something to pass the time.
+
+416
+00:45:26,320 --> 00:45:28,059
+Why wait until now?
+
+417
+00:45:28,460 --> 00:45:33,260
+I didn't wait. That was just the first time you noticed.
+
+418
+00:45:36,099 --> 00:45:40,839
+Then what, Will? Suddenly, you think I'm going to invite you into my room?
+
+419
+00:45:42,199 --> 00:45:43,079
+No.
+
+420
+00:45:44,480 --> 00:45:46,039
+You could fuck me all night.
+
+421
+00:45:46,039 --> 00:45:47,659
+That's not what I meant.
+
+422
+00:45:57,659 --> 00:45:58,719
+What? What?
+
+423
+00:45:58,719 --> 00:45:59,439
+You see that?
+
+424
+00:45:59,440 --> 00:46:01,440
+Get the camera. Get the camera.
+
+425
+00:46:02,260 --> 00:46:04,720
+All we need is a licence... just get the license plate.
+
+426
+00:46:06,679 --> 00:46:09,460
+Get down, get down. Did they see us?
+
+427
+00:46:09,539 --> 00:46:11,279
+Did they see us?
+
+428
+00:46:11,280 --> 00:46:13,280
+I don't know.
+
+429
+00:46:20,940 --> 00:46:24,599
+Okay. Take the... take the picture.
+
+430
+00:46:24,599 --> 00:46:25,659
+Okay.
+
+431
+00:46:37,780 --> 00:46:41,260
+What's going on? Come on. Did they see us? Do you think they saw us?
+
+432
+00:46:41,260 --> 00:46:43,260
+I... I don't know.
+
+433
+00:46:48,440 --> 00:46:52,820
+Son of a bitch, that was close. Did you get it? Did you get it?
+
+434
+00:46:52,820 --> 00:46:54,820
+Let's just get out of here.
+
+435
+00:47:02,920 --> 00:47:04,599
+It didn't work.
+
+436
+00:47:04,599 --> 00:47:08,239
+We know that. Try the next one.
+
+437
+00:47:15,739 --> 00:47:17,759
+Now what?
+
+438
+00:47:19,760 --> 00:47:22,440
+When do you want to go back and get the Can?
+
+439
+00:47:23,000 --> 00:47:27,420
+It's only going to give us an IP address, not a password.
+
+440
+00:47:30,960 --> 00:47:35,679
+I have to go to work. I'll be back later tonight.
+
+441
+00:48:09,840 --> 00:48:15,079
+It's called port knocking. You want to talk to Server X, which won't respond.
+
+442
+00:48:15,840 --> 00:48:19,820
+The only way to get it to respond is to query Servers A through E
+
+443
+00:48:19,900 --> 00:48:23,480
+in a certain order, during a specified period of time.
+
+444
+00:48:24,239 --> 00:48:27,459
+Only then does Server X talk back.
+
+445
+00:48:28,079 --> 00:48:34,900
+In this case, 212.3.208.65
+
+446
+00:48:35,599 --> 00:48:38,579
+That's why the IP I got from the black-room didn't work
+
+447
+00:48:38,840 --> 00:48:41,960
+and why I just got a different IP from the Can-of-Worm.
+
+448
+00:48:42,000 --> 00:48:45,219
+Of course, that doesn't solve the login screen.
+
+449
+00:49:03,119 --> 00:49:05,500
+I'm not dressed.
+
+450
+00:49:06,659 --> 00:49:08,460
+I got the IP.
+
+451
+00:49:09,719 --> 00:49:12,859
+I went back and got the Can and it had the IP in it.
+
+452
+00:49:20,139 --> 00:49:21,779
+Did anyone see you?
+
+453
+00:49:22,579 --> 00:49:27,179
+Some nosey neighbor. I told him I was with the phone company.
+
+454
+00:49:29,179 --> 00:49:31,279
+How do you know he was local?
+
+455
+00:49:32,380 --> 00:49:34,780
+How do you know he wasn't with them?
+
+456
+00:49:35,219 --> 00:49:38,919
+That... that's just paranoid. I mean, he just walked up to me and...
+
+457
+00:49:38,960 --> 00:49:42,679
+Paranoid? Don't be an idiot, Will.
+
+458
+00:49:43,099 --> 00:49:46,460
+It's not just your shitty life on the line anymore, okay?
+
+459
+00:50:37,760 --> 00:50:41,120
+Dude! What is your problem? You ever heard of calling first?
+
+460
+00:50:41,179 --> 00:50:42,480
+You told me to come over.
+
+461
+00:50:42,480 --> 00:50:43,900
+Not a good time.
+
+462
+00:50:43,900 --> 00:50:44,619
+It's important.
+
+463
+00:50:44,619 --> 00:50:47,139
+Then why wait until we're inside? Tell me now.
+
+464
+00:50:47,380 --> 00:50:50,500
+I found the IP address Shepherd's been trying to reach.
+
+465
+00:50:52,500 --> 00:50:53,960
+I'll be back in a second.
+
+466
+00:50:53,960 --> 00:50:55,960
+And the ice?
+
+467
+00:50:55,960 --> 00:50:57,960
+Yeah. That too.
+
+468
+00:50:58,260 --> 00:51:02,500
+I know you think this is important, but it can wait.
+
+469
+00:51:02,860 --> 00:51:04,180
+It's 212.3...
+
+470
+00:51:04,179 --> 00:51:06,759
+.208.65, I know.
+
+471
+00:51:08,619 --> 00:51:09,460
+How?
+
+472
+00:51:09,599 --> 00:51:13,699
+Will? Will. What do I do for a living?
+
+473
+00:51:14,639 --> 00:51:16,379
+You're a hacker.
+
+474
+00:51:16,920 --> 00:51:18,460
+And who do I work for?
+
+475
+00:51:19,539 --> 00:51:20,779
+I don't know.
+
+476
+00:51:21,159 --> 00:51:24,779
+I work for governments. Major multi-national companies.
+
+477
+00:51:25,219 --> 00:51:27,859
+Finding an IP address is noob shit.
+
+478
+00:51:28,360 --> 00:51:32,539
+Mister Big Shot... I'm gonna need a few more tests.
+
+479
+00:51:34,119 --> 00:51:37,019
+Now, do you have something useful... or not?
+
+480
+00:51:37,019 --> 00:51:38,219
+They've got Hash.
+
+481
+00:51:38,280 --> 00:51:43,620
+I know. Kat came here for comfort, and I'd like to get back to that.
+
+482
+00:51:44,599 --> 00:51:46,920
+I need the password for the login screen.
+
+483
+00:51:47,440 --> 00:51:51,860
+I have to know what it does and why they're willing to kidnap people.
+
+484
+00:51:53,119 --> 00:51:58,779
+Will, whatever it is, it's bad. I know that; It always is.
+
+485
+00:51:58,980 --> 00:52:03,260
+It's going to be something you'll want to forget, but you won't be able to.
+
+486
+00:52:03,460 --> 00:52:09,079
+It will change your worldview. And, it will either make you an activist, or apathetic.
+
+487
+00:52:10,300 --> 00:52:11,920
+Is that what you want?
+
+488
+00:52:13,019 --> 00:52:13,619
+Yes.
+
+489
+00:52:13,659 --> 00:52:18,139
+Are you sure? There's no going back, Will. Not ever.
+
+490
+00:52:19,460 --> 00:52:21,179
+I need to know.
+
+491
+00:52:21,219 --> 00:52:23,139
+Time for your medicine.
+
+492
+00:52:23,139 --> 00:52:25,139
+Don't come in.
+
+493
+00:52:33,320 --> 00:52:34,960
+Are you sure about this?
+
+494
+00:52:34,960 --> 00:52:36,639
+What is it?
+
+495
+00:52:37,380 --> 00:52:39,000
+What do you think?
+
+496
+00:52:40,539 --> 00:52:41,940
+You wrote it down?
+
+497
+00:52:41,940 --> 00:52:43,940
+Sure. Why not?
+
+498
+00:52:45,139 --> 00:52:47,480
+That is the stupidest password I've ever seen.
+
+499
+00:52:47,659 --> 00:52:52,099
+It's actually pretty good: more than eight characters, a capital letter, and a symbol.
+
+500
+00:52:52,099 --> 00:52:54,099
+Props to Michael Mitchell.
+
+501
+00:52:55,199 --> 00:52:57,000
+Head of the NSA.
+
+502
+00:52:57,380 --> 00:53:01,680
+You wanted access. He's probably got the most. Have fun.
+
+503
+00:53:02,820 --> 00:53:05,480
+Wait, wait, wait. How did you get this?
+
+504
+00:53:06,719 --> 00:53:10,259
+He didn't give it to me, if that's what you're asking.
+
+505
+00:53:15,400 --> 00:53:19,000
+Thanks. I owe you.
+
+506
+00:53:19,059 --> 00:53:24,079
+No you don't. Not this time. Not for that.
+
+507
+00:54:12,039 --> 00:54:17,019
+It's not a puzzle anymore. Now, it's something else.
+
+508
+00:54:18,000 --> 00:54:20,380
+DHS probably thinks I'm dead.
+
+509
+00:54:20,380 --> 00:54:23,079
+They have everyone they think knows about Shepherd.
+
+510
+00:54:23,199 --> 00:54:25,279
+I could leave it alone and disappear.
+
+511
+00:54:25,340 --> 00:54:28,680
+Pull a Kevin Mitnick, sans the getting caught part.
+
+512
+00:54:29,199 --> 00:54:34,199
+Of course, Mitnick now makes millions as a security consultant.
+
+513
+00:54:34,340 --> 00:54:37,539
+I just need to terminate some of my social connections
+
+514
+00:54:38,300 --> 00:54:43,280
+So my trail never leads back to them... or from them to me.
+
+515
+00:55:09,019 --> 00:55:10,440
+Where were you?
+
+516
+00:55:10,440 --> 00:55:13,000
+I talked to Decimate.
+
+517
+00:55:14,579 --> 00:55:16,779
+Yeah. He had plans.
+
+518
+00:55:17,139 --> 00:55:21,879
+I know. How did you know?
+
+519
+00:55:24,320 --> 00:55:27,880
+So, what were you doing for the rest of the night?
+
+520
+00:55:32,159 --> 00:55:37,359
+Thinking. Wondering when... when does this thing end?
+
+521
+00:55:41,420 --> 00:55:43,099
+Are you staying here?
+
+522
+00:55:43,099 --> 00:55:44,199
+No.
+
+523
+00:55:49,739 --> 00:55:51,539
+You started it, Will.
+
+524
+00:55:51,539 --> 00:55:52,699
+I know.
+
+525
+00:55:53,239 --> 00:55:56,039
+So, what's the problem?
+
+526
+00:56:00,320 --> 00:56:02,500
+I think I should let it go.
+
+527
+00:56:04,500 --> 00:56:06,760
+What happened to your curiosity?
+
+528
+00:56:07,840 --> 00:56:09,700
+Too many people are getting hurt.
+
+529
+00:56:09,900 --> 00:56:12,780
+This country is supposed to be free.
+
+530
+00:56:13,519 --> 00:56:16,440
+I don't care about politics.
+
+531
+00:56:16,820 --> 00:56:19,620
+It's not about politics.
+
+532
+00:56:22,019 --> 00:56:24,639
+It's about an idea, Will. It's...
+
+533
+00:56:24,980 --> 00:56:28,400
+...If people knew about this?
+
+534
+00:56:38,119 --> 00:56:42,920
+Finish this. It's not about you anymore.
+
+535
+00:57:02,800 --> 00:57:07,380
+An open Wi-Fi network is one more hop they'll have to make to find me.
+
+536
+00:57:08,559 --> 00:57:09,980
+Then, there's TOR.
+
+537
+00:57:10,039 --> 00:57:13,779
+TOR was designed by the Navy so their informants could login
+
+538
+00:57:13,780 --> 00:57:17,880
+and give them secret information from a country they're not supposed to be in.
+
+539
+00:57:18,840 --> 00:57:22,140
+Logging into Shepherd is scary however I do it.
+
+540
+00:57:26,280 --> 00:57:29,300
+The fact that it's a tracking program doesn't help.
+
+541
+00:57:30,440 --> 00:57:34,880
+Who can it track? I wonder if it can track Hash.
+
+542
+00:58:01,179 --> 00:58:03,279
+How would you wake him up?
+
+543
+00:58:07,239 --> 00:58:13,359
+No. No knives. Subtle, remember?
+
+544
+00:58:20,699 --> 00:58:23,619
+How hot's your tea?
+
+545
+00:58:36,980 --> 00:58:42,320
+Rise and shine, buddy. Rise and shine.
+
+546
+00:59:07,940 --> 00:59:10,619
+Movie time, Charles.
+
+547
+00:59:12,619 --> 00:59:17,159
+This is a video of you, at a park bench...
+
+548
+00:59:17,840 --> 00:59:22,300
+As you attempt to access a top-secret database.
+
+549
+00:59:23,699 --> 00:59:29,299
+Look, Hash. We know you did it. Okay?
+
+550
+00:59:29,800 --> 00:59:33,440
+Lying to us just makes life much more painful for you.
+
+551
+00:59:36,059 --> 00:59:43,500
+The video shows a man named William Vernor Stephenson giving you the laptop.
+
+552
+00:59:43,940 --> 00:59:50,340
+See, we were able to track his phone, but we lost his data around 6:00pm
+
+553
+00:59:51,880 --> 00:59:57,740
+Ah, but your phone... we got that for days.
+
+554
+01:00:09,860 --> 01:00:18,820
+Look. Just tell us where William is, and what you plan on doing with Shepherd.
+
+555
+01:00:19,960 --> 01:00:24,599
+What happens when I know everything: The Age of Aquarius, or 1984?
+
+556
+01:00:25,300 --> 01:00:29,100
+The U.S. government rarely builds its own technology.
+
+557
+01:00:29,320 --> 01:00:33,380
+They hire Raytheon to maintain a radar station in Alaska.
+
+558
+01:00:34,239 --> 01:00:38,559
+SAIC took over remote viewing when the Army got tired of it.
+
+559
+01:00:39,079 --> 01:00:44,659
+And Emergent See built the login app for the most powerful monitoring system ever conceived.
+
+560
+01:00:44,659 --> 01:00:46,000
+Sudonym?
+
+561
+01:00:46,079 --> 01:00:48,699
+And probably the search engine on the back-end too.
+
+562
+01:00:48,800 --> 01:00:52,480
+Kat, would you get her please. This is important.
+
+563
+01:00:53,119 --> 01:00:54,599
+What do you want?
+
+564
+01:00:54,579 --> 01:00:56,179
+We need to talk.
+
+565
+01:00:56,900 --> 01:00:58,340
+Then talk.
+
+566
+01:00:58,619 --> 01:01:00,579
+Not here. In the back.
+
+567
+01:01:28,820 --> 01:01:33,559
+Does it bother you that the NSA monitors everything that you do online?
+
+568
+01:01:34,900 --> 01:01:40,400
+Does it bother you that you're afraid of a government that claims to be for you?
+
+569
+01:01:40,619 --> 01:01:45,179
+That both private and public companies know where you are, right now.
+
+570
+01:01:45,659 --> 01:01:49,420
+Who gives a shit? Why should I care?
+
+571
+01:01:49,820 --> 01:01:51,320
+What's your name?
+
+572
+01:01:51,820 --> 01:01:52,539
+Eddie.
+
+573
+01:01:52,539 --> 01:01:54,539
+Eddie...
+
+574
+01:01:54,539 --> 01:01:55,599
+Brannon.
+
+575
+01:01:55,599 --> 01:01:56,579
+Brannon.
+
+576
+01:02:00,440 --> 01:02:02,599
+What were you doing last night, Eddie?
+
+577
+01:02:02,599 --> 01:02:04,819
+Sitting at home, watching TV.
+
+578
+01:02:05,340 --> 01:02:06,820
+What were you watching?
+
+579
+01:02:07,039 --> 01:02:10,039
+I don't remember. Something on Netflix.
+
+580
+01:02:10,920 --> 01:02:12,619
+That good?
+
+581
+01:02:18,420 --> 01:02:20,539
+Ink!
+
+582
+01:02:22,800 --> 01:02:26,039
+You got good taste in movies, Eddie. That's a good movie.
+
+583
+01:02:26,480 --> 01:02:28,159
+What the hell is this?
+
+584
+01:02:28,159 --> 01:02:30,159
+It's a tracking program.
+
+585
+01:02:30,159 --> 01:02:31,480
+What's it track?
+
+586
+01:02:31,920 --> 01:02:33,920
+Everything.
+
+587
+01:02:35,039 --> 01:02:39,199
+See what I mean? I don't do anything wrong. So, who cares?
+
+588
+01:02:40,500 --> 01:02:43,380
+That's good. You know who else didn't do anything wrong?
+
+589
+01:02:43,420 --> 01:02:49,340
+A guy named Robert Martin. At least, that's not why he was kidnapped two days ago.
+
+590
+01:02:49,340 --> 01:02:51,340
+You want to know what he's doing now?
+
+591
+01:02:51,340 --> 01:02:53,340
+Hey, that's enough.
+
+592
+01:02:59,920 --> 01:03:06,720
+I'm a software engineer at Dean &amp; Dean. I don't even know what Shepherd is!
+
+593
+01:03:07,539 --> 01:03:12,480
+I want to believe you. I do. But we have records showing...
+
+594
+01:03:12,480 --> 01:03:14,780
+...that you tried to access Shepherd from your house.
+
+595
+01:03:14,780 --> 01:03:19,640
+Oh, come on. I don't know. I don't. I told you everything I know.
+
+596
+01:03:27,159 --> 01:03:28,980
+Would you like a cup of coffee?
+
+597
+01:03:28,980 --> 01:03:30,440
+Sure. Remember, no cream.
+
+598
+01:03:30,440 --> 01:03:31,659
+And two sugars.
+
+599
+01:03:31,659 --> 01:03:32,579
+Only one today...
+
+600
+01:03:32,579 --> 01:03:34,139
+Why are you doing this?
+
+601
+01:03:34,139 --> 01:03:36,139
+Because you wouldn't talk to me.
+
+602
+01:03:37,500 --> 01:03:39,440
+You're an asshole.
+
+603
+01:03:39,780 --> 01:03:44,180
+Whatever the reason, that's what she said and I want to live long enough to enjoy my pension.
+
+604
+01:03:51,420 --> 01:03:53,700
+Why!
+
+605
+01:03:53,760 --> 01:03:58,400
+Robert. This is just a job to me and I'm going to come in
+
+606
+01:03:58,400 --> 01:04:02,200
+tomorrow and it's either going to be you in that chair or somebody else...
+
+607
+01:04:02,199 --> 01:04:04,199
+...and it really doesn't matter to me.
+
+608
+01:04:04,199 --> 01:04:09,799
+I've told you everything I know. Come on!
+
+609
+01:04:10,219 --> 01:04:12,859
+This can stop anytime or go on as long as you want.
+
+610
+01:04:12,860 --> 01:04:15,620
+Come on! No... no...
+
+611
+01:04:25,000 --> 01:04:26,920
+What the hell is wrong with you!
+
+612
+01:04:26,920 --> 01:04:27,840
+I know you're mad.
+
+613
+01:04:27,840 --> 01:04:33,460
+Mad!? You show torture, in my bar, in San Francisco.
+
+614
+01:04:33,460 --> 01:04:36,820
+Will, think for a moment!
+
+615
+01:04:37,860 --> 01:04:39,000
+There's something else.
+
+616
+01:04:39,000 --> 01:04:42,460
+Yeah. You're right. You logged onto a government website
+
+617
+01:04:42,460 --> 01:04:45,159
+to show a tracking program that tracks everything.
+
+618
+01:04:45,159 --> 01:04:46,719
+You saw me use TOR.
+
+619
+01:04:46,760 --> 01:04:50,580
+And you think the CIA or whoever's behind this, you think they haven't cracked TOR?
+
+620
+01:04:50,579 --> 01:04:51,819
+No. They haven't.
+
+621
+01:04:51,820 --> 01:04:55,240
+And you know this how? Because, if they have...
+
+622
+01:04:55,679 --> 01:04:58,779
+If they trace this back to me?
+
+623
+01:04:59,760 --> 01:05:04,240
+Damn it, Will. They kidnap people. They torture people.
+
+624
+01:05:04,239 --> 01:05:08,919
+Yes. That's what I wanted to talk to you about.
+
+625
+01:05:09,219 --> 01:05:11,599
+Just think about somebody other than yourself.
+
+626
+01:05:11,599 --> 01:05:14,779
+I have been. That's why I'm here.
+
+627
+01:05:16,940 --> 01:05:19,820
+They have Hash.
+
+628
+01:05:22,860 --> 01:05:26,740
+I know. I was here when they took him.
+
+629
+01:05:26,780 --> 01:05:32,840
+No. They have him and I found him.
+
+630
+01:05:37,059 --> 01:05:38,500
+Show me.
+
+631
+01:05:42,619 --> 01:05:45,219
+You're not gonna like this.
+
+632
+01:06:06,380 --> 01:06:08,059
+Where is he?
+
+633
+01:06:08,500 --> 01:06:12,440
+611 Folsom. Downtown, south of Market.
+
+634
+01:06:13,099 --> 01:06:15,779
+We gotta get him out.
+
+635
+01:06:18,219 --> 01:06:20,459
+This is Homeland Security.
+
+636
+01:06:21,400 --> 01:06:24,720
+They're working with the NSA and Emergent See.
+
+637
+01:06:24,719 --> 01:06:26,719
+We can't just leave him there.
+
+638
+01:06:30,320 --> 01:06:33,680
+Bitchan and I can break into their system.
+
+639
+01:06:33,739 --> 01:06:38,039
+But you're gonna need to be there to pick him up, when and if he comes out.
+
+640
+01:06:38,039 --> 01:06:40,460
+And we're gonna need your servers.
+
+641
+01:06:40,460 --> 01:06:42,800
+You want to just hack them?
+
+642
+01:06:42,800 --> 01:06:44,220
+They'll trace it, Will.
+
+643
+01:06:44,219 --> 01:06:45,199
+No, not this time.
+
+644
+01:06:45,199 --> 01:06:49,239
+They will trace it, and then who knows how many people you're gonna have to bail out.
+
+645
+01:06:49,239 --> 01:06:51,239
+I already have two.
+
+646
+01:06:53,760 --> 01:06:58,080
+There is another possibility, but it's a lot scarier
+
+647
+01:06:58,079 --> 01:07:01,079
+and it is going to add you to their list.
+
+648
+01:07:02,980 --> 01:07:05,519
+We gotta get him out.
+
+649
+01:07:20,820 --> 01:07:22,360
+If I don't come out...
+
+650
+01:07:22,360 --> 01:07:24,360
+Are you sure he's here?
+
+651
+01:07:25,039 --> 01:07:26,360
+This is it.
+
+652
+01:07:28,360 --> 01:07:30,260
+Get him out.
+
+653
+01:08:10,480 --> 01:08:13,219
+Are you ever gonna come in on-time?
+
+654
+01:08:16,920 --> 01:08:20,880
+You know what your problem is? You're too serious.
+
+655
+01:08:24,079 --> 01:08:27,920
+We're fighting terrorism. Alright? Do you want another 9-11?
+
+656
+01:08:30,739 --> 01:08:34,619
+Whatever. Someday, when you realize how much
+
+657
+01:08:34,619 --> 01:08:37,099
+shit actually goes down, you'll relax.
+
+658
+01:08:38,020 --> 01:08:42,500
+I don't know what I'm expecting. Maybe two armed guards and a full-body scanner.
+
+659
+01:08:43,039 --> 01:08:46,000
+This place looks more like a library, or a school.
+
+660
+01:08:46,060 --> 01:08:49,720
+Anything but a domestic prison for advanced interrogation.
+
+661
+01:08:49,720 --> 01:08:51,100
+What's this regarding?
+
+662
+01:08:51,100 --> 01:08:52,579
+Prisoner transfer.
+
+663
+01:08:52,659 --> 01:08:56,500
+I guess that's the point when you violate the people's trust on this scale.
+
+664
+01:08:56,500 --> 01:09:00,140
+Discretion is more important than function.
+
+665
+01:09:00,140 --> 01:09:03,460
+So, transfer. That's weird. What's this about?
+
+666
+01:09:03,880 --> 01:09:07,119
+I don't know. I don't ask.
+
+667
+01:09:08,100 --> 01:09:13,840
+I asked once. That's why I'm running these errands instead of being a field agent.
+
+668
+01:09:15,840 --> 01:09:20,159
+I know what you mean. I asked once and I didn't sleep for a week.
+
+669
+01:09:21,539 --> 01:09:23,880
+So, who do you want to work on today?
+
+670
+01:09:28,079 --> 01:09:30,059
+Martin's dead.
+
+671
+01:09:32,060 --> 01:09:35,860
+Sometimes Julie overdoes it a bit. I told her to take it easy.
+
+672
+01:09:36,600 --> 01:09:39,680
+Oh. It looks like Robert Martin isn't here anymore.
+
+673
+01:09:40,680 --> 01:09:42,760
+That's not what I was told.
+
+674
+01:09:43,140 --> 01:09:45,780
+The database was just updated.
+
+675
+01:09:46,380 --> 01:09:52,039
+Pneumonia I understand. But, letting a subject die during an interrogation?
+
+676
+01:09:52,039 --> 01:09:54,640
+That's just irresponsible.
+
+677
+01:09:54,640 --> 01:09:58,920
+Sorry. Anyway, Charles Drake should be coming right out.
+
+678
+01:09:58,920 --> 01:10:01,800
+That leaves Charles Drake.
+
+679
+01:10:02,939 --> 01:10:05,799
+Well. Drake it is.
+
+680
+01:10:21,560 --> 01:10:23,740
+How you doing today, Charlie?
+
+681
+01:10:25,500 --> 01:10:28,340
+They really went to town on you, huh?
+
+682
+01:10:28,859 --> 01:10:33,239
+I got some good news. You're getting out a here, buddy.
+
+683
+01:10:39,579 --> 01:10:42,720
+So, what do you want to try next with Drake?
+
+684
+01:10:44,319 --> 01:10:46,639
+I don't know.
+
+685
+01:10:49,619 --> 01:10:51,359
+How about the microwave?
+
+686
+01:10:53,000 --> 01:10:56,779
+I heard that wasn't gonna come in for another couple weeks.
+
+687
+01:10:57,859 --> 01:11:00,839
+No. It came in this morning.
+
+688
+01:11:02,840 --> 01:11:06,380
+That's right. Prisoner transfer.
+
+689
+01:11:07,000 --> 01:11:10,520
+I don't know where they're sending you
+
+690
+01:11:10,520 --> 01:11:13,080
+but it's gotta be better than this place, right?
+
+691
+01:11:14,279 --> 01:11:16,779
+Okay. Let's go.
+
+692
+01:11:18,640 --> 01:11:22,220
+Someone's gonna change your clothes and walk you out of here, okay?
+
+693
+01:11:25,020 --> 01:11:28,260
+He doesn't have any fillings, does he?
+
+694
+01:11:29,800 --> 01:11:32,039
+No. I checked earlier.
+
+695
+01:11:32,060 --> 01:11:36,480
+That's good. You don't want to see what happens to someone with fillings.
+
+696
+01:11:37,220 --> 01:11:38,480
+I've seen it.
+
+697
+01:11:38,479 --> 01:11:42,739
+Gnarly old burn marks all over the inside of their mouth. God.
+
+698
+01:11:45,539 --> 01:11:48,159
+And this guy, it wasn't even in his records.
+
+699
+01:11:48,680 --> 01:11:52,400
+He must have had it done in Tijuana or something.
+
+700
+01:11:52,899 --> 01:11:58,659
+Anyway, they turned the emitter on and sparks just started flying from this guys mouth.
+
+701
+01:12:00,659 --> 01:12:03,260
+And the emitter tech, he pukes on me.
+
+702
+01:12:29,460 --> 01:12:31,279
+Did they move him?
+
+703
+01:12:32,119 --> 01:12:33,279
+No.
+
+704
+01:12:37,319 --> 01:12:41,199
+So, he's in here. 'Cause I know he didn't escape.
+
+705
+01:12:50,520 --> 01:12:52,840
+No! He's not in here!
+
+706
+01:12:55,039 --> 01:12:56,220
+I know that.
+
+707
+01:12:58,520 --> 01:13:00,100
+So, they moved him.
+
+708
+01:13:03,399 --> 01:13:07,619
+That kind of thing happens all the time. Let's go check with the front desk.
+
+709
+01:13:38,399 --> 01:13:41,219
+Have you seen a Charles Drake?
+
+710
+01:13:41,220 --> 01:13:43,220
+Yeah. He just left.
+
+711
+01:13:44,220 --> 01:13:45,420
+Stop.
+
+712
+01:14:04,020 --> 01:14:05,640
+They're gone.
+
+713
+01:14:05,640 --> 01:14:07,640
+What? You're just gonna let them get away?
+
+714
+01:14:08,359 --> 01:14:12,439
+No. I'm going to send a team out after them and bring them back
+
+715
+01:14:12,439 --> 01:14:14,799
+the same way we did it the first time.
+
+716
+01:14:27,920 --> 01:14:30,340
+I'm saying we use the tools available to us.
+
+717
+01:14:30,539 --> 01:14:33,560
+Alright? Track them with their cell phones. They have GPS.
+
+718
+01:14:35,560 --> 01:14:37,100
+Where's Martin?
+
+719
+01:14:37,100 --> 01:14:39,100
+They probably killed him.
+
+720
+01:14:39,100 --> 01:14:42,960
+Wait. What? How do you know?
+
+721
+01:14:43,640 --> 01:14:48,480
+Two reasons: One, he wasn't there this morning.
+
+722
+01:14:48,479 --> 01:14:52,099
+Two, they don't transfer people out of there.
+
+723
+01:14:55,020 --> 01:14:57,220
+We can't go anywhere we've ever been.
+
+724
+01:14:57,220 --> 01:14:57,780
+So...
+
+725
+01:14:57,779 --> 01:15:00,559
+We... we. They know where we've been.
+
+726
+01:15:01,420 --> 01:15:06,039
+They know everyone that we know. They know everyone that we've ever talked to.
+
+727
+01:15:06,779 --> 01:15:10,619
+They're probably tracking us right now. Turn off your phone.
+
+728
+01:15:10,619 --> 01:15:11,699
+Where am I supposed to go?
+
+729
+01:15:11,699 --> 01:15:13,699
+I don't know!
+
+730
+01:15:17,960 --> 01:15:19,600
+Out of town.
+
+731
+01:15:20,800 --> 01:15:23,640
+Take 280 south. I need some time to think.
+
+732
+01:15:25,359 --> 01:15:27,639
+Can you bring up the lobby cameras for me please?
+
+733
+01:15:27,640 --> 01:15:28,860
+Sure.
+
+734
+01:15:34,359 --> 01:15:37,219
+Alright. Back that up five minutes.
+
+735
+01:15:37,220 --> 01:15:39,220
+Okay.
+
+736
+01:15:41,760 --> 01:15:46,199
+Alright. Wait. Pause. Who's that?
+
+737
+01:15:47,100 --> 01:15:49,800
+Can you enhance that resolution a little bit?
+
+738
+01:15:49,800 --> 01:15:55,060
+I can increase the contrast a little, but I can't add resolution that doesn't exist.
+
+739
+01:15:55,060 --> 01:15:57,740
+Alright. Whatever. Just, do that.
+
+740
+01:15:58,539 --> 01:16:00,000
+Okay.
+
+741
+01:16:02,659 --> 01:16:05,039
+Okay. Do an image search on him.
+
+742
+01:16:10,979 --> 01:16:12,059
+Damn it!
+
+743
+01:16:12,460 --> 01:16:15,480
+That's the kid from the park. That's Stephenson.
+
+744
+01:16:16,619 --> 01:16:18,359
+Go to Decimate's house.
+
+745
+01:16:18,359 --> 01:16:20,359
+I don't know where he lives.
+
+746
+01:16:20,359 --> 01:16:22,359
+Head north on 19th.
+
+747
+01:17:04,079 --> 01:17:05,619
+Up early, Will?
+
+748
+01:17:05,619 --> 01:17:06,939
+I need your help.
+
+749
+01:17:06,939 --> 01:17:08,519
+Again?
+
+750
+01:17:08,520 --> 01:17:10,520
+I'm in trouble.
+
+751
+01:17:11,020 --> 01:17:12,240
+I warned you about that.
+
+752
+01:17:12,239 --> 01:17:14,239
+I know. I get it, more than you know.
+
+753
+01:17:14,899 --> 01:17:17,420
+I doubt that. But continue.
+
+754
+01:17:17,939 --> 01:17:19,699
+We got Hash.
+
+755
+01:17:20,239 --> 01:17:22,599
+Oh, don't tell me that.
+
+756
+01:17:22,600 --> 01:17:24,600
+He's in the car.
+
+757
+01:17:25,479 --> 01:17:30,399
+Whatever. Get inside before someone sees you. Douche bag.
+
+758
+01:17:35,680 --> 01:17:39,539
+You brought him here? Will, this is bad.
+
+759
+01:17:39,539 --> 01:17:42,220
+I know. We're going to get caught.
+
+760
+01:17:42,220 --> 01:17:44,280
+And they're going to try and take me down with you.
+
+761
+01:17:44,279 --> 01:17:46,579
+I'm sorry. But, I know what Shepherd is.
+
+762
+01:17:47,039 --> 01:17:48,680
+So do I.
+
+763
+01:17:50,680 --> 01:17:52,300
+I can't let it go.
+
+764
+01:17:53,100 --> 01:17:57,180
+So, you went the way of the activist. Does this mean you're
+
+765
+01:17:57,180 --> 01:17:59,180
+willing to accept the consequences?
+
+766
+01:17:59,760 --> 01:18:01,579
+They're going to come and get me.
+
+767
+01:18:01,579 --> 01:18:06,399
+I'm not asking you to hide me. I'm asking for your help in taking them down.
+
+768
+01:18:06,399 --> 01:18:08,399
+Shepherd is wrong.
+
+769
+01:18:10,859 --> 01:18:12,000
+What are you doing here?
+
+770
+01:18:12,000 --> 01:18:15,199
+Does it matter? Will, what the hell have you done?
+
+771
+01:18:15,199 --> 01:18:17,300
+What do you want this time?
+
+772
+01:18:18,220 --> 01:18:21,980
+We need to take them down, or at least break them before they find us.
+
+773
+01:18:23,460 --> 01:18:28,060
+You got Hash out, which I have to say, more than I thought you'd manage.
+
+774
+01:18:28,239 --> 01:18:33,319
+But, attacking DHS and NSA? Will, it's crazy, even for me.
+
+775
+01:18:33,979 --> 01:18:40,539
+We can't let them get away with this. I... I can't... I can't live with it.
+
+776
+01:18:40,539 --> 01:18:44,479
+The NSA is a company mainly populated by people like me.
+
+777
+01:18:44,680 --> 01:18:46,360
+You don't stand a chance.
+
+778
+01:18:46,359 --> 01:18:48,659
+Then we notify the media.
+
+779
+01:18:48,659 --> 01:18:51,639
+Haven't you ever heard the term "media conglomerate"?
+
+780
+01:18:51,640 --> 01:18:55,619
+Damn it, Decimate. Don't you believe in anything!?
+
+781
+01:18:56,460 --> 01:19:01,819
+Survival. And what you're talking about? Not how I do it.
+
+782
+01:19:01,819 --> 01:19:03,819
+Information should be free.
+
+783
+01:19:03,819 --> 01:19:05,819
+Don't be naive, Will.
+
+784
+01:19:05,819 --> 01:19:08,559
+Nothing is changing.
+
+785
+01:19:08,880 --> 01:19:13,539
+You either play the game and thrive, or fight it and lose!
+
+786
+01:19:14,520 --> 01:19:16,740
+I don't lose.
+
+787
+01:19:20,760 --> 01:19:23,640
+Will's right. We can't let them take him.
+
+788
+01:19:24,039 --> 01:19:28,819
+Sure we can. In fact, it's probably the best option we've got right now.
+
+789
+01:19:29,520 --> 01:19:34,240
+Sometimes the best way to deal with a thing... is to go through it.
+
+790
+01:19:34,600 --> 01:19:36,100
+I thought you were his friend?
+
+791
+01:19:36,100 --> 01:19:38,100
+I am.
+
+792
+01:19:38,100 --> 01:19:43,660
+After seeing you here though, I wonder if he feels the same way about you?
+
+793
+01:19:45,659 --> 01:19:48,819
+I have a lot of work to do before sunrise, so...
+
+794
+01:19:49,939 --> 01:19:52,000
+What happens at sunrise?
+
+795
+01:19:56,399 --> 01:20:01,719
+Don't wake them. They're going to need what little rest they can get.
+
+796
+01:20:08,699 --> 01:20:11,239
+When are you going to get some furniture?
+
+797
+01:20:13,239 --> 01:20:15,019
+When I get around to it.
+
+798
+01:20:17,060 --> 01:20:23,940
+Heat? Really? You are such a guy.
+
+799
+01:20:28,760 --> 01:20:30,659
+Good morning, people!
+
+800
+01:20:31,100 --> 01:20:34,520
+I've got some bad news.
+
+801
+01:20:35,319 --> 01:20:41,539
+DHS is outside and they've come for Will and Hash and Sudonym.
+
+802
+01:20:42,399 --> 01:20:43,539
+What?
+
+803
+01:20:47,399 --> 01:20:49,019
+How did they find us?
+
+804
+01:20:49,560 --> 01:20:51,020
+I turned you in.
+
+805
+01:20:52,659 --> 01:20:54,760
+You mean, we're just going to knock?
+
+806
+01:20:54,760 --> 01:20:56,760
+Those are the orders.
+
+807
+01:20:57,500 --> 01:20:59,899
+That's not a lot of fun.
+
+808
+01:21:01,279 --> 01:21:05,639
+I get that you're pissed. But, you're just gonna have to trust me.
+
+809
+01:21:05,640 --> 01:21:07,160
+Why?
+
+810
+01:21:07,340 --> 01:21:08,619
+Because I've got a plan.
+
+811
+01:21:08,619 --> 01:21:10,619
+And if you're plan fails?
+
+812
+01:21:17,380 --> 01:21:20,239
+Punctual. I like that.
+
+813
+01:21:21,239 --> 01:21:22,859
+Where are they?
+
+814
+01:21:24,039 --> 01:21:27,479
+It's alright. They're not going to do anything rough.
+
+815
+01:21:28,359 --> 01:21:29,839
+That's part of the deal.
+
+816
+01:21:35,140 --> 01:21:36,700
+Look, I don't trust you.
+
+817
+01:21:37,100 --> 01:21:39,400
+That happens. Get up.
+
+818
+01:21:52,479 --> 01:21:55,179
+I don't know who you are or who you're friends with.
+
+819
+01:21:55,260 --> 01:22:00,119
+But, this could have been messy. You just made our job a lot easier. Let's go.
+
+820
+01:22:01,239 --> 01:22:05,420
+Anything I can do to help. Have a nice rest of your day.
+
+821
+01:22:08,439 --> 01:22:11,599
+Well that's done.
+
+822
+01:22:16,000 --> 01:22:19,039
+Words are about conveying ideas.
+
+823
+01:22:20,079 --> 01:22:25,340
+The words "twenty days later" don't even begin to convey my experience.
+
+824
+01:22:27,840 --> 01:22:32,239
+Maybe Sudonym was right. Maybe I should have left it alone.
+
+825
+01:22:32,239 --> 01:22:35,939
+Hey, it's Will, right? Let me get this off of you.
+
+826
+01:22:43,779 --> 01:22:48,800
+I got some news for you, Will. You hear me? Hey.
+
+827
+01:22:51,159 --> 01:22:56,180
+Now they're telling me... and I probably shouldn't even be here...
+
+828
+01:22:58,180 --> 01:23:01,260
+but your friend... Charles?
+
+829
+01:23:03,340 --> 01:23:05,319
+He didn't make it.
+
+830
+01:23:08,079 --> 01:23:10,739
+I'm sorry that it has to come from me.
+
+831
+01:23:12,859 --> 01:23:15,279
+They couldn't revive him.
+
+832
+01:23:17,939 --> 01:23:20,379
+You know, I'm sorry.
+
+833
+01:23:26,579 --> 01:23:30,739
+I don't know who I am anymore. Maybe that doesn't even matter.
+
+834
+01:23:43,500 --> 01:23:45,979
+Call Timothy Elliot.
+
+835
+01:23:50,600 --> 01:23:52,539
+You're up early.
+
+836
+01:23:52,539 --> 01:23:54,539
+Late, actually.
+
+837
+01:23:56,939 --> 01:23:59,199
+They've had Will for three weeks, now.
+
+838
+01:23:59,239 --> 01:24:04,039
+I know. I just got the word: they're closing the facility in a week.
+
+839
+01:24:04,899 --> 01:24:07,179
+Well, then it's time.
+
+840
+01:24:28,800 --> 01:24:34,020
+I could try to justify all of this to you but in the end it really doesn't matter.
+
+841
+01:24:39,579 --> 01:24:41,979
+What you did is important, Will.
+
+842
+01:24:43,979 --> 01:24:48,939
+It's a big deal. It's probably the biggest thing that you'll ever do.
+
+843
+01:24:56,939 --> 01:24:58,460
+What do you want?
+
+844
+01:25:00,140 --> 01:25:04,340
+I want you to work for us. What can you do.
+
+845
+01:25:09,779 --> 01:25:16,880
+I'm a... I'm a hacker... a coder.
+
+846
+01:25:18,739 --> 01:25:23,779
+That's what Timothy told us. You still feel up for it?
+
+847
+01:25:35,739 --> 01:25:38,679
+What will you do with my code?
+
+848
+01:25:40,640 --> 01:25:45,000
+Now, we could sit here and talk about the seemingly fluid nature of morality
+
+849
+01:25:45,000 --> 01:25:48,720
+and your particular take on it, but like I said, that doesn't really matter.
+
+850
+01:25:49,420 --> 01:25:54,779
+I can get you out of here. I can get you doing work that you'll be proud of.
+
+851
+01:26:05,960 --> 01:26:07,760
+How can I trust you?
+
+852
+01:26:09,899 --> 01:26:12,219
+Take a leap of faith, Will.
+
+853
+01:26:17,100 --> 01:26:19,180
+And my friends?
+
+854
+01:26:22,000 --> 01:26:24,319
+Friendly, would you come in here?
+
+855
+01:26:29,119 --> 01:26:33,579
+Would you help Will to the car where his friends are waiting for him.
+
+856
+01:26:34,800 --> 01:26:37,880
+Now Timothy told me your story, but I'd like to hear it from you.
+
+857
+01:26:37,880 --> 01:26:39,880
+Okay, here we go.
+
+858
+01:26:39,880 --> 01:26:41,880
+One, two, three...
+
+859
+01:26:47,180 --> 01:26:48,880
+What are you talking about?
+
+860
+01:26:50,359 --> 01:26:52,599
+Tell me whatever you think is relevant.
+
+861
+01:26:52,640 --> 01:26:54,200
+And don't worry about the time.
+
+862
+01:26:54,260 --> 01:26:58,199
+We've got a couple of hours before we have to get back to the office.
+
+863
+01:26:59,779 --> 01:27:05,599
+Okay. This started about a month ago.
+
+864
+01:27:08,180 --> 01:27:12,079
+A month ago... I was a god.
+

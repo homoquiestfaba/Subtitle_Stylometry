@@ -1,0 +1,6033 @@
+﻿1
+00:00:33,320 --> 00:00:36,238
+TIGH: The Cylons
+were created by man.
+
+2
+00:00:37,741 --> 00:00:39,193
+LEOBEN: They rebelled.
+
+3
+00:00:41,536 --> 00:00:42,995
+SIMON: They evolved.
+
+4
+00:00:44,581 --> 00:00:47,083
+HYBRID:
+They look and feel human.
+
+5
+00:00:50,045 --> 00:00:53,477
+BOOMER:
+Some are programmed
+to think they are human.
+
+6
+00:00:54,299 --> 00:00:56,467
+NO. 6:
+There are many copies.
+
+7
+00:00:57,761 --> 00:01:00,888
+CAVIL:
+And they have a plan.
+
+8
+00:01:15,654 --> 00:01:18,659
+CAVIL:
+I was doing fine here.
+Thanks for exposing me.
+
+9
+00:01:18,699 --> 00:01:21,119
+BROTHER CAVIL:
+You weren't doing fine,
+thank goodness.
+
+10
+00:01:21,159 --> 00:01:22,454
+If you'd wiped
+out this fleet,
+
+11
+00:01:22,494 --> 00:01:24,581
+you'd have made us
+even more irredeemable
+
+12
+00:01:24,621 --> 00:01:25,999
+in the eyes
+of our parents.
+
+13
+00:01:26,039 --> 00:01:28,547
+No, I'd have proved us
+to be superior.
+
+14
+00:01:28,625 --> 00:01:32,294
+No, no, see,
+I've figured out
+what went wrong.
+
+15
+00:01:32,379 --> 00:01:34,257
+Well, that's a very useful
+revelation to have
+
+16
+00:01:34,297 --> 00:01:37,758
+when you're standing
+in front of an airlock.
+
+17
+00:01:38,927 --> 00:01:41,139
+Nonetheless…
+Our failure is obvious.
+
+18
+00:01:41,179 --> 00:01:45,769
+We had our foot on the throat
+of humanity and we failed
+to step down hard enough.
+
+19
+00:01:45,809 --> 00:01:46,895
+That was our error.
+
+20
+00:01:46,935 --> 00:01:49,773
+Have you learned
+nothing in all this
+time in this fleet?
+
+21
+00:01:49,813 --> 00:01:53,707
+Because I learned
+a great deal among
+the rebels on Caprica.
+
+22
+00:01:54,192 --> 00:01:57,624
+Every killing
+of a human being
+was a grievous error.
+
+23
+00:01:58,613 --> 00:02:00,117
+Do you want to know why?
+
+24
+00:02:00,157 --> 00:02:01,240
+I really don't.
+
+25
+00:02:01,324 --> 00:02:03,954
+Are you certain?
+Because it's fascinating.
+
+26
+00:02:03,994 --> 00:02:07,288
+Listen, Brother,
+if you're right,
+
+27
+00:02:07,372 --> 00:02:10,836
+that means this whole project
+was doomed from the beginning.
+
+28
+00:02:10,876 --> 00:02:13,669
+Yes.
+From the very top.
+
+29
+00:02:51,708 --> 00:02:52,708
+CAVIL: Dad.
+
+30
+00:02:54,377 --> 00:02:55,544
+Mom.
+
+31
+00:02:56,922 --> 00:03:01,050
+Dad. Mom. Dad.
+
+32
+00:03:03,470 --> 00:03:05,978
+Our parents will be
+back with us soon.
+
+33
+00:03:06,014 --> 00:03:08,516
+Of course,
+skin and veins and bones,
+
+34
+00:03:08,600 --> 00:03:11,438
+they won't survive
+the death of the Colonies.
+
+35
+00:03:11,478 --> 00:03:14,230
+Life among humans
+will have humbled them.
+
+36
+00:03:14,898 --> 00:03:17,316
+When they resurrect,
+they'll return
+
+37
+00:03:17,400 --> 00:03:20,697
+with apologies tumbling
+from their lips like jewels.
+
+38
+00:03:20,737 --> 00:03:23,697
+Yes. Be prepared for
+some very sticky hugs.
+
+39
+00:03:24,074 --> 00:03:29,245
+CAVIL: You know, I've got
+a yen to experience a nuclear
+holocaust in person.
+
+40
+00:03:29,746 --> 00:03:32,832
+Perhaps with our dear
+mother here,
+
+41
+00:03:32,916 --> 00:03:37,044
+I'll slide in another tub,
+and we can download
+side-by-side,
+
+42
+00:03:37,128 --> 00:03:39,505
+after the bombs
+hit on Picon.
+
+43
+00:03:39,589 --> 00:03:42,132
+Well, indulge
+yourself if you want.
+
+44
+00:03:42,217 --> 00:03:45,764
+But I'll be on Caprica,
+making final arrangements
+with our contact.
+
+45
+00:03:45,804 --> 00:03:48,973
+So if you're going to go,
+go soon.
+
+46
+00:04:22,299 --> 00:04:25,762
+BALTAR: It may interest you
+to know that the final results
+of the CNP project
+
+47
+00:04:25,802 --> 00:04:29,597
+are working close
+to 95% efficiency
+throughout the Fleet.
+
+48
+00:04:29,681 --> 00:04:32,099
+Hold your applause, please.
+
+49
+00:04:32,183 --> 00:04:33,934
+NO. 6: No applause for me?
+
+50
+00:04:34,769 --> 00:04:37,774
+I doubt you would've
+ever completed
+the project without me.
+
+51
+00:04:37,814 --> 00:04:39,899
+Yes. Well,
+you helped a bit.
+
+52
+00:04:39,983 --> 00:04:42,067
+I rewrote
+half your algorithms.
+
+53
+00:04:42,152 --> 00:04:43,530
+All right,
+you were extremely helpful,
+
+54
+00:04:43,570 --> 00:04:46,157
+but let's not forget,
+you got something out of it.
+
+55
+00:04:46,197 --> 00:04:49,950
+All that poking around
+inside the defense mainframe.
+
+56
+00:04:51,411 --> 00:04:55,792
+It should give you
+a huge advantage bidding
+for the contract next year.
+
+57
+00:04:55,832 --> 00:04:58,211
+You know that's not
+really why I did it.
+
+58
+00:04:58,251 --> 00:05:00,495
+No. You did it
+'cause you love me.
+
+59
+00:05:00,629 --> 00:05:03,464
+I have to go.
+I'm meeting someone.
+
+60
+00:05:03,548 --> 00:05:04,840
+Right.
+
+61
+00:05:06,635 --> 00:05:09,553
+Really? Who is he?
+I'm insanely jealous.
+
+62
+00:05:10,513 --> 00:05:12,348
+I doubt that.
+
+63
+00:05:12,432 --> 00:05:14,346
+(WHISPERING)
+So touchy today.
+
+64
+00:05:15,310 --> 00:05:18,607
+Well, as a matter of fact,
+I'm meeting someone, too.
+Business.
+
+65
+00:05:18,647 --> 00:05:22,441
+A new project at Defense
+I might do, so…
+
+66
+00:05:25,779 --> 00:05:28,030
+You'll call me later,
+right?
+
+67
+00:05:39,668 --> 00:05:42,836
+It's about time.
+I wondered when
+you'd get here.
+
+68
+00:05:43,338 --> 00:05:44,883
+Are you clear
+on the timing?
+
+69
+00:05:44,923 --> 00:05:47,883
+0700 tomorrow,
+Caprica City time.
+
+70
+00:05:51,471 --> 00:05:54,045
+I recommend you leave
+this body behind.
+
+71
+00:05:54,516 --> 00:05:58,080
+The alternative won't make
+for a very pleasant memory.
+
+72
+00:05:58,311 --> 00:06:02,147
+Oh, and I hear that poison
+is really not that bad.
+
+73
+00:06:20,417 --> 00:06:22,292
+(ROCK MUSIC PLAYING)
+
+74
+00:06:24,087 --> 00:06:25,838
+(PEOPLE CHATTERING)
+
+75
+00:06:29,259 --> 00:06:30,634
+(EXHALES)
+
+76
+00:06:34,305 --> 00:06:36,685
+You really like those olives,
+don't you?
+
+77
+00:06:36,725 --> 00:06:37,975
+(CHUCKLES)
+
+78
+00:06:38,268 --> 00:06:43,022
+Maybe. Maybe I just
+like how I look
+reaching for them.
+
+79
+00:06:44,024 --> 00:06:45,357
+(GIGGLES)
+
+80
+00:06:46,901 --> 00:06:48,277
+Ellen Tigh.
+
+81
+00:06:52,907 --> 00:06:55,537
+Bartender, let's have
+another one for the lady.
+
+82
+00:06:55,577 --> 00:06:57,786
+Thank you.
+You're welcome.
+
+83
+00:06:59,122 --> 00:07:01,165
+So, you don't have a name?
+
+84
+00:07:01,249 --> 00:07:04,501
+I am a mysterious stranger.
+
+85
+00:07:05,086 --> 00:07:06,086
+Ooh!
+
+86
+00:07:12,135 --> 00:07:15,807
+HYBRID: Seized by God,
+they cry for succor
+in the dark of the light.
+
+87
+00:07:15,847 --> 00:07:20,225
+Mists of dreams dribble
+on the nascent echo
+and love no more.
+
+88
+00:07:23,480 --> 00:07:24,521
+Jump.
+
+89
+00:07:31,071 --> 00:07:33,238
+And why are you here,
+Ellen?
+
+90
+00:07:33,323 --> 00:07:37,019
+I mean, you're so obviously
+intended for greater things.
+
+91
+00:07:39,871 --> 00:07:41,580
+Are you a priest?
+
+92
+00:07:41,664 --> 00:07:43,123
+Would it matter?
+
+93
+00:07:43,208 --> 00:07:44,541
+(LAUGHING)
+
+94
+00:07:50,173 --> 00:07:52,007
+(PEOPLE CHATTERING)
+
+95
+00:07:54,385 --> 00:07:55,552
+(GRUNTS)
+
+96
+00:07:59,599 --> 00:08:00,849
+You're up.
+
+97
+00:08:02,352 --> 00:08:03,980
+HYBRID: Counting down.
+All functions nominal.
+
+98
+00:08:04,020 --> 00:08:06,316
+All functions optimal.
+Counting down.
+
+99
+00:08:06,356 --> 00:08:09,319
+The center holds.
+The falcon hears
+the falconer.
+
+100
+00:08:09,359 --> 00:08:13,865
+Infrastructure, check.
+Wetware, check. Everyone hang
+on to the life bar, please.
+
+101
+00:08:13,905 --> 00:08:15,114
+(EXHALES)
+
+102
+00:08:15,698 --> 00:08:16,782
+(LAUGHS)
+Help?
+
+103
+00:08:17,742 --> 00:08:19,743
+Anybody wanna
+save the lady?
+
+104
+00:08:19,828 --> 00:08:21,148
+I'll save you, baby.
+
+105
+00:08:21,621 --> 00:08:24,334
+HYBRID: Apotheosis
+was the beginning
+before the beginning.
+
+106
+00:08:24,374 --> 00:08:27,879
+Devices on alert.
+Observe the procedures
+of a general alert.
+
+107
+00:08:27,919 --> 00:08:29,339
+The base and the pinnacle.
+
+108
+00:08:29,379 --> 00:08:33,009
+The flower inside the fruit
+that is both its parent
+and its child.
+
+109
+00:08:33,049 --> 00:08:36,745
+Decadent as ancestors.
+The portal and
+that which passes.
+
+110
+00:08:39,305 --> 00:08:42,393
+(CHUCKLES)
+No. No, don't sweat it.
+I'll make the flight.
+
+111
+00:08:42,433 --> 00:08:43,520
+MAN ON PHONE:
+You gonna have
+enough time?
+
+112
+00:08:43,560 --> 00:08:46,596
+Yes. They run Delphi to C City
+every hour now.
+
+113
+00:09:02,120 --> 00:09:03,537
+(LAUGHING)
+
+114
+00:09:05,081 --> 00:09:06,751
+HYBRID: Nuclear devices
+activated,
+
+115
+00:09:06,791 --> 00:09:08,878
+and the machine
+keeps pushing time
+through the cogs,
+
+116
+00:09:08,918 --> 00:09:10,880
+like paste into strings
+into paste again,
+
+117
+00:09:10,920 --> 00:09:15,144
+and only the machine
+keeps using time to
+make time to make time.
+
+118
+00:09:15,592 --> 00:09:17,384
+(PEOPLE CHATTERING)
+
+119
+00:09:18,261 --> 00:09:21,099
+HYBRID: And when the machine
+stops, time was an illusion
+that we created.
+
+120
+00:09:21,139 --> 00:09:24,561
+Free will, 12 battles,
+three stars, and yet
+we are countless
+
+121
+00:09:24,601 --> 00:09:28,022
+as the bodies in which
+we dwell, are both parent
+and infinite children
+
+122
+00:09:28,062 --> 00:09:30,522
+in perfect copies.
+No degradation.
+
+123
+00:09:34,777 --> 00:09:40,365
+Oh, now, now,
+don't tense up, Mysterious.
+
+124
+00:09:42,118 --> 00:09:45,498
+I'm just saying
+there's no point
+in judging anybody.
+
+125
+00:09:45,538 --> 00:09:48,540
+No one changes
+who they really are.
+
+126
+00:09:48,625 --> 00:09:52,088
+If no one is corrected,
+then no one learns
+their lessons.
+
+127
+00:09:52,128 --> 00:09:56,757
+Well, I've lived
+in this world a long time,
+
+128
+00:09:56,841 --> 00:10:01,970
+and I'm proud to say
+that I haven't learned
+any godsdamn lessons.
+
+129
+00:10:02,055 --> 00:10:03,388
+(LAUGHING)
+
+130
+00:10:08,269 --> 00:10:11,371
+The makers of the makers
+fall before the child.
+
+131
+00:10:11,814 --> 00:10:15,817
+Accessing defense system.
+Handshake, handshake.
+
+132
+00:10:16,361 --> 00:10:18,935
+HYBRID: Second level clear.
+It's begun.
+
+133
+00:10:20,114 --> 00:10:21,784
+MAN 1 ON RADIO:
+Caprica Control, Yashuman.
+
+134
+00:10:21,824 --> 00:10:25,121
+Heavy bogeys, six plus,
+lower orbit, over grid 15-2.
+
+135
+00:10:25,161 --> 00:10:26,247
+MAN 2 ON RADIO:
+No joy, Yashuman.
+
+136
+00:10:26,287 --> 00:10:29,000
+Then go to your window
+and look up. They're big
+as frakking asteroids.
+
+137
+00:10:29,040 --> 00:10:30,543
+Copy, Yashuman.
+Still blind.
+
+138
+00:10:30,583 --> 00:10:32,754
+Got some kind of
+system-wide crash
+in the defense grid.
+
+139
+00:10:32,794 --> 00:10:34,631
+Try to unfrak yourself
+right godsdamned now,
+
+140
+00:10:34,671 --> 00:10:37,300
+'cause we got multiple
+inbound, and they're
+not carrying flowers.
+
+141
+00:10:37,340 --> 00:10:38,551
+Wait one, Yashuman.
+
+142
+00:10:38,591 --> 00:10:40,053
+We don't have one left.
+
+143
+00:10:40,093 --> 00:10:42,970
+Accepting scan.
+Love outlasts death.
+
+144
+00:10:43,054 --> 00:10:44,721
+MAN 1: I'm going hot.
+
+145
+00:10:49,060 --> 00:10:51,397
+MAN 3:
+Blue leader, do you read me?
+Blue leader, come back.
+
+146
+00:10:51,437 --> 00:10:52,774
+I got no radio contact.
+
+147
+00:10:52,814 --> 00:10:54,231
+MAN 4: I'm down, too.
+
+148
+00:10:54,315 --> 00:10:56,069
+It's like somebody
+pulled the plug.
+We're adrift.
+
+149
+00:10:56,109 --> 00:10:57,946
+HYBRID: Their ships fail.
+Skittering like…
+
+150
+00:10:57,986 --> 00:10:59,280
+It's been
+a long time coming.
+
+151
+00:10:59,320 --> 00:11:03,284
+HYBRID:… is meaningless
+in the absence of time.
+What never was is never again.
+
+152
+00:11:03,324 --> 00:11:06,621
+I bet they don't understand
+what we're doing for them.
+
+153
+00:11:06,661 --> 00:11:09,433
+I think they're grateful
+in their own way.
+
+154
+00:11:10,206 --> 00:11:11,456
+I know I'd be.
+
+155
+00:11:28,683 --> 00:11:29,683
+(GRUNTS)
+
+156
+00:11:34,522 --> 00:11:36,857
+BAROLAY: Nice.
+That is beautiful.
+
+157
+00:11:36,941 --> 00:11:39,234
+Yeah. What you gonna do now,
+Sam?
+
+158
+00:11:39,902 --> 00:11:41,618
+Shoot till I can't, Coach.
+
+159
+00:11:46,242 --> 00:11:51,872
+If you let someone change you
+or make you apologize,
+
+160
+00:11:51,956 --> 00:11:54,794
+then you're selling
+yourself out, you know.
+
+161
+00:11:59,088 --> 00:12:00,591
+Oh, and remember
+to get Jeremy
+
+162
+00:12:00,631 --> 00:12:03,386
+to check the numbers
+on mayoral staff downtime.
+
+163
+00:12:03,426 --> 00:12:05,719
+SAM: Start it up.
+
+164
+00:12:05,803 --> 00:12:06,928
+Coach!
+
+165
+00:12:08,723 --> 00:12:09,723
+(ALL CHEERING)
+
+166
+00:12:09,807 --> 00:12:11,391
+You gotta be
+kidding me!
+
+167
+00:12:14,771 --> 00:12:15,896
+(ALL CHEERING)
+
+168
+00:12:16,105 --> 00:12:18,415
+If we find a project
+whose cost is…
+
+169
+00:12:20,526 --> 00:12:23,737
+You win, Coach.
+I'm going down.
+
+170
+00:12:57,730 --> 00:12:59,940
+This has happened before.
+
+171
+00:13:00,566 --> 00:13:01,754
+(EXPLOSIONS)
+Look.
+
+172
+00:13:03,194 --> 00:13:04,986
+(PEOPLE MURMURING)
+
+173
+00:13:45,570 --> 00:13:47,237
+(PEOPLE CLAMORING)
+
+174
+00:13:50,825 --> 00:13:52,325
+Here we go. Move.
+
+175
+00:14:00,960 --> 00:14:01,960
+(EXPLOSIONS)
+
+176
+00:14:02,044 --> 00:14:03,712
+(PEOPLE EXCLAIMING)
+
+177
+00:14:10,303 --> 00:14:15,056
+Progress reports arriving.
+The farms of Aerilon
+are burning.
+
+178
+00:14:16,976 --> 00:14:19,561
+The beaches of Canceron
+are burning.
+
+179
+00:14:20,980 --> 00:14:23,607
+The plains of Leonis
+are burning.
+
+180
+00:14:24,609 --> 00:14:27,235
+The jungles of Scorpia
+are burning.
+
+181
+00:14:29,822 --> 00:14:32,574
+The pastures of Tauron
+are burning.
+
+182
+00:14:34,827 --> 00:14:38,061
+(SIREN WAILING)
+The harbors of Picon
+are burning.
+
+183
+00:14:38,915 --> 00:14:41,291
+The cities of Caprica
+are burning.
+
+184
+00:14:43,085 --> 00:14:46,171
+The oceans of Aquaria
+are burning.
+
+185
+00:14:46,255 --> 00:14:48,924
+The courthouses of Libran
+are burning.
+
+186
+00:14:50,510 --> 00:14:53,303
+The forests of Virgon
+are burning.
+
+187
+00:14:58,100 --> 00:15:01,895
+The Colonies of Man
+lie trampled at our feet.
+
+188
+00:15:24,335 --> 00:15:27,003
+What have we got?
+Shipping accident?
+
+189
+00:15:27,088 --> 00:15:28,257
+(MEN SHOUTING INDISTINCTLY)
+
+190
+00:15:28,297 --> 00:15:30,465
+Combat? Understood.
+
+191
+00:15:30,591 --> 00:15:32,970
+Condition one is set.
+All decks report ready
+for action, sir.
+
+192
+00:15:33,010 --> 00:15:36,721
+TIGH: This is a joke.
+The Fleet's playing
+a joke on you.
+
+193
+00:15:36,806 --> 00:15:39,015
+It's a prank.
+Come on.
+
+194
+00:15:39,100 --> 00:15:40,222
+I don't think so.
+
+195
+00:15:50,194 --> 00:15:52,153
+(PEOPLE CLAMORING)
+
+196
+00:16:04,041 --> 00:16:05,795
+MAN 1 ON RADIO:
+We just felt
+another blast here.
+
+197
+00:16:05,835 --> 00:16:08,461
+If anyone can still
+hear me, are we on?
+
+198
+00:16:08,546 --> 00:16:10,800
+I'm gonna keep broadcasting
+as long as I can.
+
+199
+00:16:10,840 --> 00:16:11,884
+It keeps getting closer…
+
+200
+00:16:11,924 --> 00:16:13,550
+(RADIO CRACKLES)
+
+201
+00:16:14,385 --> 00:16:16,472
+WOMAN: (CRYING) Oh, Gods,
+is this really happening?
+
+202
+00:16:16,512 --> 00:16:18,558
+I got family in the city.
+I gotta go find them.
+
+203
+00:16:18,598 --> 00:16:20,643
+Are you frakking nuts?
+The city's gone.
+I don't care.
+
+204
+00:16:20,683 --> 00:16:22,144
+No, it's not safe!
+SAM:
+Nobody's going anywhere!
+
+205
+00:16:22,184 --> 00:16:24,227
+We don't know enough,
+okay?
+
+206
+00:16:24,312 --> 00:16:25,854
+(WOMAN WEEPING)
+
+207
+00:16:27,523 --> 00:16:29,277
+We can't lose our
+frakking heads,
+all right?
+
+208
+00:16:29,317 --> 00:16:31,571
+We gotta find some place
+we can get a perspective
+on this thing.
+
+209
+00:16:31,611 --> 00:16:34,574
+If we go anywhere,
+we go together,
+and we go when it's safe,
+
+210
+00:16:34,614 --> 00:16:36,364
+is that understood?
+
+211
+00:16:50,212 --> 00:16:52,213
+(AIRCRAFT APPROACHING)
+
+212
+00:17:48,813 --> 00:17:50,355
+(GASPING)
+
+213
+00:17:50,439 --> 00:17:56,778
+(SOBBING)
+This has happened before.
+Oh, Gods, am I gonna die?
+
+214
+00:17:56,862 --> 00:18:00,323
+(SHUSHING) No.
+No, your suffering
+isn't over yet.
+
+215
+00:18:00,408 --> 00:18:02,828
+Not when you've got
+so much left to learn.
+
+216
+00:18:02,868 --> 00:18:03,868
+What?
+
+217
+00:18:04,954 --> 00:18:07,264
+ADAMA ON PA:
+This is the Commander.
+
+218
+00:18:07,748 --> 00:18:09,960
+Moments ago,
+this ship received word
+
+219
+00:18:10,000 --> 00:18:13,628
+of a Cylon attack against
+our homeworlds is underway.
+
+220
+00:18:15,047 --> 00:18:20,261
+We do not know the size
+or the disposition or the
+strength of the enemy forces.
+
+221
+00:18:20,594 --> 00:18:22,721
+But all indications point
+
+222
+00:18:23,848 --> 00:18:27,308
+to a massive assault
+against Colonial defenses.
+
+223
+00:18:28,144 --> 00:18:32,147
+How, why,
+doesn't really matter now.
+
+224
+00:18:33,649 --> 00:18:39,154
+What does matter is that,
+as of this moment,
+we are at war.
+
+225
+00:18:40,322 --> 00:18:41,948
+(DOOR CLOSING)
+
+226
+00:18:49,623 --> 00:18:53,583
+(OVER RADIO)
+You've trained for this.
+You're ready for this.
+
+227
+00:18:54,128 --> 00:18:58,298
+Stand to your duties,
+trust your fellow shipmates,
+
+228
+00:18:58,382 --> 00:19:00,508
+and we'll all
+get through this.
+
+229
+00:19:01,635 --> 00:19:04,143
+All right, people,
+this is what we do.
+
+230
+00:19:04,180 --> 00:19:08,936
+We're the best, so let's get
+the old girl ready to roll,
+and kick some Cylon ass!
+
+231
+00:19:08,976 --> 00:19:11,603
+Come on! Let's go!
+Move!
+
+232
+00:19:11,687 --> 00:19:13,354
+This better be for real.
+
+233
+00:19:16,108 --> 00:19:17,692
+(PEOPLE CLAMORING)
+
+234
+00:19:32,666 --> 00:19:35,636
+(WHISPERING) Stay down,
+stay down, stay down.
+
+235
+00:19:35,878 --> 00:19:37,047
+WOMAN: (WHISPERING)
+What's going on over there?
+
+236
+00:19:37,087 --> 00:19:38,174
+MAN: (WHISPERING)
+What is that?
+
+237
+00:19:38,214 --> 00:19:39,798
+WOMAN: Is it the Cylons?
+
+238
+00:19:41,258 --> 00:19:43,721
+Everybody,
+stay down, stay down.
+Everybody, stay down.
+
+239
+00:19:43,761 --> 00:19:44,817
+MAN: What is it?
+
+240
+00:19:44,845 --> 00:19:46,763
+(PANTING)
+
+241
+00:19:49,892 --> 00:19:51,410
+BAROLAY: What is it, T?
+
+242
+00:19:58,776 --> 00:20:00,279
+Oh, my Gods.
+What do you see?
+
+243
+00:20:00,319 --> 00:20:04,147
+It is the Cylons.
+They're guarding
+some kind of container.
+
+244
+00:20:16,752 --> 00:20:19,128
+SAM: What do you
+wanna do, Coach?
+
+245
+00:20:19,213 --> 00:20:21,631
+I don't know.
+What do you think?
+
+246
+00:20:22,341 --> 00:20:23,758
+I don't know.
+
+247
+00:20:25,594 --> 00:20:30,557
+We can't stay here.
+We gotta go. Everybody,
+stay low, stay fast. Let's go.
+
+248
+00:20:38,399 --> 00:20:40,611
+All right,
+ladies and gentlemen,
+come on out. You're safe now.
+
+249
+00:20:40,651 --> 00:20:42,895
+Come on,
+we'll get you cleaned up.
+
+250
+00:20:44,738 --> 00:20:45,738
+MAN: Thank you.
+
+251
+00:20:50,202 --> 00:20:53,538
+APOLLO: Ma'am.
+Excuse me, my husband,
+
+252
+00:20:53,622 --> 00:20:56,001
+he's in the Colonial Fleet
+on Gemenon.
+
+253
+00:20:56,041 --> 00:20:57,378
+Your husband's in
+the Colonial Fleet?
+
+254
+00:20:57,418 --> 00:20:58,585
+Where is he?
+
+255
+00:20:58,669 --> 00:21:00,923
+I don't know, ma'am.
+Could you step
+right this way?
+
+256
+00:21:00,963 --> 00:21:02,613
+We'll do our best,
+ma'am.
+
+257
+00:21:45,132 --> 00:21:46,507
+(BEEPING)
+
+258
+00:21:48,677 --> 00:21:49,761
+(CLOCK BUZZING)
+
+259
+00:21:54,183 --> 00:21:56,163
+Basestar is
+launching Raiders.
+
+260
+00:22:06,612 --> 00:22:07,987
+(PEOPLE SCREAMING)
+
+261
+00:22:10,991 --> 00:22:14,243
+Cylons are
+chasing the Fleet.
+
+262
+00:22:14,328 --> 00:22:15,870
+(WEAKLY) Who are you?
+
+263
+00:22:17,039 --> 00:22:21,709
+Every 33 minutes,
+they come back.
+
+264
+00:22:21,794 --> 00:22:25,713
+Raiders diving out
+of the light like bats.
+
+265
+00:22:27,883 --> 00:22:31,886
+Please, find Saul.
+
+266
+00:22:33,681 --> 00:22:35,473
+(GROANING)
+
+267
+00:22:37,559 --> 00:22:40,979
+Dear Papa.
+He's here.
+
+268
+00:22:44,066 --> 00:22:49,362
+Of the five that
+created all the rest of us,
+four are in this fleet.
+
+269
+00:22:49,905 --> 00:22:53,199
+Only Father Sam is missing.
+It's amazing.
+
+270
+00:22:54,076 --> 00:22:57,120
+Does it seem cruel
+that I'm keeping you alive?
+
+271
+00:22:59,206 --> 00:23:01,916
+It is cruel.
+Who am I kidding?
+
+272
+00:23:02,626 --> 00:23:04,752
+But it's also necessary.
+
+273
+00:23:05,587 --> 00:23:11,175
+For 30 years,
+you failed to observe the
+moral failures of humanity,
+
+274
+00:23:11,260 --> 00:23:14,262
+against whom
+you find me lacking.
+
+275
+00:23:16,473 --> 00:23:17,932
+(EXHALES)
+
+276
+00:23:21,729 --> 00:23:23,438
+Get better, Mother.
+
+277
+00:23:24,231 --> 00:23:28,191
+Open your eyes
+and take a gander at
+what you think you love.
+
+278
+00:23:40,122 --> 00:23:43,085
+Okay. We've all seen
+the Centurions gathering the
+body parts of other Centurions
+
+279
+00:23:43,125 --> 00:23:44,712
+when they get destroyed,
+right?
+
+280
+00:23:44,752 --> 00:23:47,589
+You've seen them
+take them to those weird
+containers they dropped.
+
+281
+00:23:47,629 --> 00:23:50,426
+Probably repair sheds
+where they patch up
+everything we do to them.
+
+282
+00:23:50,466 --> 00:23:52,720
+Does anybody remember
+that old war movie,
+
+283
+00:23:52,760 --> 00:23:54,430
+The Tauron Line?
+What they did?
+
+284
+00:23:54,470 --> 00:23:55,848
+Those were the bad guys.
+
+285
+00:23:55,888 --> 00:23:57,221
+SAM: Doesn't matter.
+
+286
+00:23:57,306 --> 00:23:59,476
+We can still make
+this thing work.
+
+287
+00:23:59,516 --> 00:24:03,939
+Some of you guys
+brought us some pretty fine
+things that go boom, right?
+
+288
+00:24:03,979 --> 00:24:06,692
+We can take
+a Centurion, something,
+and rig it to blow.
+
+289
+00:24:06,732 --> 00:24:11,152
+They take it back to
+the shop, it blows up
+inside, no more shop.
+
+290
+00:24:11,695 --> 00:24:14,280
+No, no.
+That sounds dangerous.
+
+291
+00:24:14,364 --> 00:24:18,287
+Well, yeah,
+you know, it is dangerous,
+but breathing's dangerous.
+
+292
+00:24:18,327 --> 00:24:22,875
+Look, there's a really
+strong possibility that
+we're all gonna die here.
+
+293
+00:24:22,915 --> 00:24:26,084
+So I say it comes down
+to how we're gonna die.
+
+294
+00:24:26,210 --> 00:24:28,982
+Well, how do we get
+a Centurion body part?
+
+295
+00:24:35,677 --> 00:24:38,763
+What the hell is that?
+
+296
+00:24:38,847 --> 00:24:40,014
+It's a thigh.
+
+297
+00:24:43,560 --> 00:24:46,312
+This turns it around.
+Right there.
+
+298
+00:24:47,356 --> 00:24:49,190
+(PEOPLE CHATTERING)
+
+299
+00:24:55,989 --> 00:24:57,698
+(PEOPLE CLAMORING)
+
+300
+00:25:11,880 --> 00:25:16,717
+Right now,
+we're only accepting
+photos of missing people.
+
+301
+00:25:16,802 --> 00:25:21,389
+If there is a confirmed death,
+hang onto the picture
+for later.
+
+302
+00:25:21,598 --> 00:25:23,599
+They're awful quiet.
+
+303
+00:25:23,684 --> 00:25:25,226
+They're numb.
+
+304
+00:25:26,395 --> 00:25:28,857
+They've lost everything
+and now we're putting them
+through the wringer,
+
+305
+00:25:28,897 --> 00:25:30,317
+just trying to get away.
+
+306
+00:25:30,357 --> 00:25:32,667
+You're right.
+This calm won't last.
+
+307
+00:25:37,906 --> 00:25:39,157
+Excuse me.
+
+308
+00:25:39,241 --> 00:25:40,759
+Oh, pardon me, Brother.
+
+309
+00:25:51,879 --> 00:25:53,838
+Thank you for your help.
+
+310
+00:25:58,969 --> 00:26:01,387
+Take one, my child.
+
+311
+00:26:01,471 --> 00:26:02,725
+Thank you, Brother.
+
+312
+00:26:05,350 --> 00:26:07,396
+Excuse me, I wonder if…
+Sorry, sir.
+
+313
+00:26:07,436 --> 00:26:10,482
+If you're looking to
+be billeted on Galactica,
+it's just not possible.
+
+314
+00:26:10,522 --> 00:26:12,234
+No, no. I've been
+afforded a chapel.
+
+315
+00:26:12,274 --> 00:26:16,102
+I just wanted
+to post these flyers
+in the restricted area.
+
+316
+00:26:16,445 --> 00:26:17,945
+Can I take a peek?
+
+317
+00:26:21,533 --> 00:26:24,035
+Well, how about
+I post them for you?
+
+318
+00:26:24,536 --> 00:26:27,770
+Fine, thank you very much.
+Very kind of you, son.
+
+319
+00:27:11,166 --> 00:27:14,994
+Have you read through this?
+It says there's a plan, right?
+
+320
+00:27:16,964 --> 00:27:18,798
+Welcome.
+
+321
+00:27:20,592 --> 00:27:23,972
+I see we don't have
+a Three or a Four here.
+That's interesting.
+
+322
+00:27:24,012 --> 00:27:25,474
+I thought I saw a Four.
+
+323
+00:27:25,514 --> 00:27:26,570
+What's the plan?
+
+324
+00:27:26,640 --> 00:27:29,767
+The plan is everything
+blows up a week ago.
+
+325
+00:27:29,851 --> 00:27:33,688
+All the humans are dead,
+and we Cylons all download,
+
+326
+00:27:33,772 --> 00:27:36,565
+and the universe
+basks in justice.
+
+327
+00:27:37,317 --> 00:27:38,276
+However…
+
+328
+00:27:38,360 --> 00:27:39,947
+It didn't
+frakking happen.
+
+329
+00:27:39,987 --> 00:27:42,071
+Exactly.
+So it's up to us.
+
+330
+00:27:42,239 --> 00:27:44,117
+We can all get weapons,
+work separately.
+
+331
+00:27:44,157 --> 00:27:46,533
+Oh, there's a proposal
+on the table.
+
+332
+00:27:46,576 --> 00:27:50,871
+Over 10,000 victims each.
+We'll be busy.
+
+333
+00:27:52,833 --> 00:27:55,710
+We can't do this
+on a case-by-case basis.
+
+334
+00:27:55,794 --> 00:28:00,342
+Which is why we have to
+take out Galactica. With it
+gone, the Fleet's dead.
+
+335
+00:28:00,382 --> 00:28:04,596
+We also have to think
+defensively. Avoid
+threats to our detection.
+
+336
+00:28:04,636 --> 00:28:06,220
+CAVIL: Very good, Sixes.
+
+337
+00:28:06,638 --> 00:28:10,811
+Now I have assignments
+I'm gonna give to each of you,
+along with our sleeper agent.
+
+338
+00:28:10,851 --> 00:28:12,020
+There's a sleeper agent?
+
+339
+00:28:12,060 --> 00:28:14,312
+Yes. An Eight.
+I'll talk to her.
+
+340
+00:28:14,896 --> 00:28:20,067
+Now, Two, you come with me.
+Let's get this
+genocide started.
+
+341
+00:28:45,302 --> 00:28:46,302
+(MOUTHS ORDERS)
+
+342
+00:28:53,060 --> 00:28:55,603
+(WHISPERING)
+Stay low. Bring it in.
+
+343
+00:29:10,452 --> 00:29:15,417
+I'd very much like to be able
+to communicate with a Baseship
+next time we're near one,
+
+344
+00:29:15,457 --> 00:29:18,837
+(LAUGHS) and it might be
+amusing to listen to the
+human military, as well.
+
+345
+00:29:18,877 --> 00:29:21,548
+Military are good
+about scrambling
+their signals.
+
+346
+00:29:21,588 --> 00:29:26,142
+The military built
+the Centurions. Functional,
+but hardly miraculous.
+
+347
+00:29:26,468 --> 00:29:28,386
+Crack their technology.
+
+348
+00:29:28,845 --> 00:29:31,639
+And send in a Six.
+Dealer's choice.
+
+349
+00:29:42,317 --> 00:29:43,943
+What is that?
+
+350
+00:29:44,027 --> 00:29:45,413
+Something I'm trying.
+
+351
+00:29:45,987 --> 00:29:49,824
+Explosives
+in a Pyramid ball
+with a detonator.
+
+352
+00:29:50,826 --> 00:29:52,493
+Like a homemade grenade.
+
+353
+00:30:03,046 --> 00:30:05,801
+Holy frak. It took it.
+It's headed your way.
+
+354
+00:30:05,841 --> 00:30:08,092
+All right, everybody.
+Get ready.
+
+355
+00:30:08,844 --> 00:30:11,473
+BAROLAY:
+Let him get inside.
+SAM: I know, Jean.
+
+356
+00:30:11,513 --> 00:30:16,199
+I must say, you Sixes
+are doing a great job
+differentiating yourselves.
+
+357
+00:30:16,351 --> 00:30:17,977
+Love the look.
+
+358
+00:30:18,061 --> 00:30:23,473
+But it doesn't do any good
+if there's a mechanism out
+there that can sniff us out.
+
+359
+00:30:23,650 --> 00:30:25,901
+You mean
+Dr Baltar's machine.
+
+360
+00:30:26,695 --> 00:30:29,199
+If we destroyed it,
+he'd just make another.
+
+361
+00:30:29,239 --> 00:30:31,615
+That's why we have
+to discredit him.
+
+362
+00:30:32,367 --> 00:30:36,203
+Me? Well,
+if he sees one of us,
+he'll know what we are.
+
+363
+00:30:39,332 --> 00:30:42,896
+But he can't say anything
+without saying how he knows.
+
+364
+00:30:43,879 --> 00:30:47,840
+Very smart.
+Or maybe it's the glasses.
+
+365
+00:30:48,800 --> 00:30:52,303
+Anyway, carry on,
+and send in the Five, please.
+
+366
+00:31:10,238 --> 00:31:15,518
+BAROLAY: Come on, you metal
+moron, go inside. Let's
+take out all those supplies.
+
+367
+00:31:29,424 --> 00:31:30,758
+(GASPING)
+
+368
+00:31:35,430 --> 00:31:37,058
+Anders, it's open.
+SAM: We got to
+get out of here.
+
+369
+00:31:37,098 --> 00:31:38,935
+They're coming back.
+Look, the door's
+open a little.
+
+370
+00:31:38,975 --> 00:31:40,896
+We could pry it and…
+Let's finish this.
+
+371
+00:31:40,936 --> 00:31:44,897
+No. Hey, no! Come on.
+Coach, no! Get back here!
+
+372
+00:31:44,981 --> 00:31:45,981
+Coach, no!
+
+373
+00:31:54,908 --> 00:31:55,908
+Coach!
+
+374
+00:31:57,244 --> 00:31:58,619
+(GUN FIRING)
+
+375
+00:32:03,959 --> 00:32:05,626
+(BAROLAY SCREAMS)
+
+376
+00:32:11,758 --> 00:32:13,678
+Whoa! What the frak
+was in there?
+
+377
+00:32:13,718 --> 00:32:16,136
+BAROLAY: No. No.
+
+378
+00:32:18,223 --> 00:32:19,223
+SAM: No!
+
+379
+00:32:20,809 --> 00:32:21,767
+Incoming!
+
+380
+00:32:21,851 --> 00:32:24,557
+BAROLAY: We got birds!
+SAM: Hit the dirt!
+
+381
+00:32:27,148 --> 00:32:28,318
+I can't leave them
+out there.
+No!
+
+382
+00:32:28,358 --> 00:32:29,819
+I can't leave them
+out there!
+
+383
+00:32:29,859 --> 00:32:32,405
+They're coming back.
+We are all gonna die
+if we don't move.
+
+384
+00:32:32,445 --> 00:32:33,448
+MAN: Let's go!
+BAROLAY: Go!
+
+385
+00:32:33,488 --> 00:32:34,488
+Move!
+Move!
+
+386
+00:32:35,156 --> 00:32:37,664
+MAN: Move, move, move.
+Everybody back.
+
+387
+00:32:38,493 --> 00:32:40,205
+Let's go. Move out,
+move out, move out.
+
+388
+00:32:40,245 --> 00:32:42,329
+(CYLON AIRCRAFT WHOOSHING)
+
+389
+00:32:43,206 --> 00:32:47,918
+Yes, but Fives in general
+haven't been that
+impressive thus far.
+
+390
+00:32:48,920 --> 00:32:53,593
+One of your counterparts
+managed to get himself
+outed back on Ragnar Station.
+
+391
+00:32:53,633 --> 00:32:58,596
+I can't understand
+how he was discovered.
+I heard it was Dr Baltar.
+
+392
+00:32:58,680 --> 00:33:03,186
+Well, no. I'm not
+talking about that, exactly.
+I'm talking about the fact
+
+393
+00:33:03,226 --> 00:33:07,521
+that you're walking
+around this fleet
+wearing that jacket,
+
+394
+00:33:08,481 --> 00:33:13,027
+and, more importantly,
+that face.
+You're recognizable.
+
+395
+00:33:14,613 --> 00:33:18,616
+(STUTTERS)
+His jacket was burgundy.
+This is teal.
+
+396
+00:33:19,784 --> 00:33:25,289
+Well, I have something else
+for you to wear, Five. Yes.
+
+397
+00:33:33,048 --> 00:33:35,924
+They call this
+a suicide vest,
+
+398
+00:33:36,009 --> 00:33:41,289
+but I think that undersells
+all the homicide that goes
+along with it, don't you?
+
+399
+00:33:47,395 --> 00:33:48,479
+(PANTING) T.
+
+400
+00:33:51,066 --> 00:33:52,358
+Are you okay?
+
+401
+00:33:52,442 --> 00:33:53,945
+You know,
+even robots take their dead.
+
+402
+00:33:53,985 --> 00:33:56,031
+There was nothing…
+I don't know
+what I'm doing!
+
+403
+00:33:56,071 --> 00:33:58,072
+(SOBBING)
+We need you. Please.
+
+404
+00:34:15,965 --> 00:34:17,341
+(RADIO CRACKLING)
+
+405
+00:34:24,057 --> 00:34:26,519
+DUALLA ON RADIO:
+Starbuck, Galactica. You
+have three enemy contacts
+
+406
+00:34:26,559 --> 00:34:28,143
+identified as fighters.
+
+407
+00:34:28,228 --> 00:34:30,190
+STARBUCK ON RADIO:
+Copy that, Galactica.
+All right, listen up.
+
+408
+00:34:30,230 --> 00:34:34,527
+Stay with your wingmen,
+keep your interval and
+remember your training.
+
+409
+00:34:34,567 --> 00:34:39,446
+On my mark,
+kick in your burners.
+Three, two, one, mark.
+
+410
+00:34:40,156 --> 00:34:44,368
+All right, here they come.
+Ready, break.
+
+411
+00:34:44,452 --> 00:34:46,328
+(WHOOPING)
+
+412
+00:34:49,040 --> 00:34:50,791
+Keep it together.
+
+413
+00:34:50,875 --> 00:34:52,793
+(GUNS FIRING)
+
+414
+00:34:54,087 --> 00:34:57,255
+All right, that's two down.
+Where's their buddy?
+
+415
+00:35:11,813 --> 00:35:16,900
+Hey. This is a chapel,
+not a bus station.
+You can't sleep here.
+
+416
+00:35:49,350 --> 00:35:50,684
+(CHUCKLING)
+
+417
+00:35:51,186 --> 00:35:56,192
+Hey, whoa. You're gonna
+kill yourself. Here, let me,
+let me. I got it, I got it.
+
+418
+00:35:56,232 --> 00:35:57,941
+I got it, I got it.
+
+419
+00:36:00,445 --> 00:36:07,409
+Thanks. I'm swapping out
+the oxygen cylinders
+on Raptor 702.
+
+420
+00:36:08,411 --> 00:36:11,830
+I checked 702 yesterday.
+Life support's fine.
+
+421
+00:36:15,210 --> 00:36:19,698
+Until two weeks ago,
+I used to inspect
+the aircraft for Sun Airways.
+
+422
+00:36:19,881 --> 00:36:24,567
+If I found cylinders
+in that condition, you'd
+be looking at a shutdown.
+
+423
+00:36:25,094 --> 00:36:27,429
+All right. Well,
+grab the spares.
+
+424
+00:36:36,731 --> 00:36:38,190
+There are no spares.
+
+425
+00:36:38,274 --> 00:36:39,924
+Welcome to the Galactica.
+
+426
+00:36:41,027 --> 00:36:42,402
+(CHUCKLES)
+
+427
+00:36:43,863 --> 00:36:44,822
+Uh…
+
+428
+00:36:44,906 --> 00:36:49,701
+(CLEARS THROAT)
+Lieutenant Valerii,
+this is Giana O'Neill.
+
+429
+00:36:49,786 --> 00:36:51,238
+A new knuckle dragger.
+
+430
+00:36:51,621 --> 00:36:54,373
+Great, we could use the help.
+
+431
+00:36:54,457 --> 00:36:55,909
+GIANA: Yes. You could.
+
+432
+00:36:56,709 --> 00:37:00,170
+Do you need to see me
+for something, Lieutenant?
+
+433
+00:37:01,548 --> 00:37:03,632
+No, I'm…
+
+434
+00:37:06,177 --> 00:37:07,344
+Carry on, Chief.
+
+435
+00:37:12,517 --> 00:37:15,685
+So how long have you two
+been seeing each other?
+
+436
+00:37:17,438 --> 00:37:18,480
+Excuse me?
+
+437
+00:37:20,066 --> 00:37:25,195
+I've seen office romances
+before. My old job was
+full of them. Believe me.
+
+438
+00:37:26,030 --> 00:37:27,617
+Like you and your husband?
+
+439
+00:37:27,657 --> 00:37:31,785
+No. He's a medic
+in the Colonial Fleet.
+
+440
+00:37:31,870 --> 00:37:35,830
+At least he used to be.
+Our romance had
+different obstacles.
+
+441
+00:37:36,833 --> 00:37:38,483
+There's always something.
+
+442
+00:37:45,300 --> 00:37:48,760
+Well, I wouldn't know
+anything about that.
+
+443
+00:37:52,974 --> 00:37:54,349
+(CHUCKLES)
+
+444
+00:38:37,185 --> 00:38:39,603
+You're gonna do fine.
+I know it.
+
+445
+00:38:40,897 --> 00:38:45,517
+Well, I'm glad you do,
+because I feel like
+I'm gonna die or something.
+
+446
+00:38:46,402 --> 00:38:48,195
+Well, in a way, you are.
+
+447
+00:38:49,572 --> 00:38:52,535
+But when you wake up,
+you're gonna begin
+a whole new life.
+
+448
+00:38:52,575 --> 00:38:54,621
+A human life
+with a human name.
+
+449
+00:38:55,954 --> 00:38:57,704
+Sharon Valerii.
+
+450
+00:39:08,424 --> 00:39:09,925
+Water?
+
+451
+00:39:10,009 --> 00:39:12,928
+Trust me,
+it'll disable the Fleet.
+
+452
+00:39:13,012 --> 00:39:17,101
+Someone just has to
+get in there and attach
+explosives to the tank.
+
+453
+00:39:17,141 --> 00:39:19,726
+All right. Do it
+as soon as possible.
+
+454
+00:39:19,811 --> 00:39:23,024
+And after you download,
+remember to report
+the position of the Fleet.
+
+455
+00:39:23,064 --> 00:39:25,899
+Wait, wait,
+I'm not sure that I'm…
+
+456
+00:39:28,194 --> 00:39:30,988
+My cover.
+It's stronger than expected,
+
+457
+00:39:31,072 --> 00:39:34,535
+and there are some people
+onboard Galactica
+that have a hold on me.
+
+458
+00:39:34,575 --> 00:39:36,284
+Chief Tyrol loves me.
+
+459
+00:39:36,369 --> 00:39:37,744
+Chief Tyrol?
+
+460
+00:39:38,204 --> 00:39:39,621
+(LAUGHS)
+
+461
+00:39:39,706 --> 00:39:43,336
+That's an interesting
+human to choose
+among all humans.
+
+462
+00:39:43,918 --> 00:39:48,505
+You're a machine, Eight.
+Go get some explosives,
+blow up the tank,
+
+463
+00:39:48,589 --> 00:39:50,510
+and then have
+a fatal accident.
+
+464
+00:39:50,550 --> 00:39:52,596
+Right now,
+I'm late for dinner.
+
+465
+00:40:01,853 --> 00:40:03,395
+Let's thank the Gods.
+
+466
+00:40:03,479 --> 00:40:05,987
+SIMON: Yes. Yes,
+let's thank the Gods.
+
+467
+00:40:07,734 --> 00:40:11,739
+GIANA: Thank you, Lords of
+Kobol, for uniting our family
+in the midst of great tragedy.
+
+468
+00:40:11,779 --> 00:40:12,779
+We pray.
+
+469
+00:40:24,792 --> 00:40:29,171
+Well, so it is you.
+I thought I recognized you
+from the other day.
+
+470
+00:40:29,255 --> 00:40:31,423
+How come you
+didn't stop by?
+
+471
+00:40:33,092 --> 00:40:34,760
+Hello. I'm Brother Cavil.
+
+472
+00:40:34,844 --> 00:40:35,886
+Hello.
+
+473
+00:40:35,970 --> 00:40:38,940
+Honey, Brother Cavil
+was my childhood priest.
+
+474
+00:40:39,766 --> 00:40:41,086
+Is this your family?
+
+475
+00:40:42,810 --> 00:40:43,977
+Hmm?
+
+476
+00:40:44,645 --> 00:40:47,606
+I'm Giana O'Neill,
+Simon's wife.
+
+477
+00:40:47,690 --> 00:40:50,400
+This is Jemmy,
+from my first marriage.
+
+478
+00:40:53,154 --> 00:40:57,785
+I don't think I've ever met
+anyone from Simon's childhood.
+Please, sit down.
+
+479
+00:40:57,825 --> 00:40:59,495
+Oh, I'm sure we'd have
+loads to talk about,
+
+480
+00:40:59,535 --> 00:41:02,290
+but I'm so busy right now,
+you can't imagine.
+
+481
+00:41:02,330 --> 00:41:06,124
+Stop by sometime.
+And remember,
+I know where you live.
+
+482
+00:41:21,015 --> 00:41:22,516
+(PANTING)
+
+483
+00:41:46,374 --> 00:41:47,374
+(SNIFFS)
+
+484
+00:41:50,545 --> 00:41:54,901
+(PANTS) I didn't think
+it would be so hot
+and dirty. The smell is…
+
+485
+00:41:54,966 --> 00:41:58,135
+I know.
+The Centurions should
+be doing this.
+
+486
+00:42:02,932 --> 00:42:04,307
+(GASPS)
+
+487
+00:42:04,392 --> 00:42:05,976
+(SHUSHING)
+
+488
+00:42:07,145 --> 00:42:08,728
+(SOBBING)
+
+489
+00:42:10,606 --> 00:42:13,984
+They're all alike.
+T, they've gotta be Cylons.
+
+490
+00:42:17,572 --> 00:42:20,146
+(WHISPERING)
+Frakkers look like us now.
+
+491
+00:42:21,868 --> 00:42:26,997
+Listen to me. We have
+to get out of here, okay?
+You need to be very quiet.
+
+492
+00:42:27,748 --> 00:42:30,584
+Okay? All right.
+
+493
+00:42:34,005 --> 00:42:37,591
+(SHUSHING)
+Just follow me out.
+Here we go.
+
+494
+00:42:37,800 --> 00:42:40,302
+Come on, come on, come on.
+
+495
+00:42:43,139 --> 00:42:47,392
+I was underwater
+and I started to lose it.
+And to lose who I am.
+
+496
+00:42:49,270 --> 00:42:53,943
+I didn't know where I was
+and… I started to panic
+and I tried to breathe.
+
+497
+00:42:53,983 --> 00:42:55,153
+We shouldn't need
+to breathe.
+
+498
+00:42:55,193 --> 00:42:57,569
+(BREATHING DEEPLY)
+I'm not sure.
+
+499
+00:42:58,237 --> 00:43:01,075
+I'm not sure if we should
+detonate the charges.
+
+500
+00:43:01,115 --> 00:43:06,745
+I mean, these humans,
+there are so few of them.
+They're no threat.
+
+501
+00:43:07,288 --> 00:43:09,456
+They are manifestly
+a threat.
+
+502
+00:43:10,249 --> 00:43:13,921
+They're a threat
+because of the power they
+have to make you do this.
+
+503
+00:43:13,961 --> 00:43:16,880
+Of all Cylons,
+you should see that.
+
+504
+00:43:19,800 --> 00:43:24,429
+(CHUCKLES) Now,
+you really ought to get
+out of those wet clothes.
+
+505
+00:43:27,892 --> 00:43:30,644
+Fine. Be a prude.
+
+506
+00:43:45,910 --> 00:43:47,577
+(DOOR CLOSING)
+
+507
+00:44:11,018 --> 00:44:13,481
+TYROL: Someone's obviously
+setting you up to take
+the fall for something.
+
+508
+00:44:13,521 --> 00:44:14,813
+That's what it is.
+
+509
+00:44:14,897 --> 00:44:17,318
+You wake up somewhere,
+you don't know how
+you got there or anything.
+
+510
+00:44:17,358 --> 00:44:21,486
+You're drugged,
+or manipulated,
+or who knows what. Something.
+
+511
+00:44:25,199 --> 00:44:26,449
+What do we do?
+
+512
+00:44:27,702 --> 00:44:31,040
+Because if I report
+what's happened, they're gonna
+think I'm a Cylon agent.
+
+513
+00:44:31,080 --> 00:44:35,169
+No, they're not. No, no,
+they're not. Why would
+they think that? That's crazy.
+
+514
+00:44:35,209 --> 00:44:38,878
+People are
+getting crazy, okay?
+You heard the rumors.
+
+515
+00:44:38,963 --> 00:44:42,343
+Cylons who look like humans,
+sleeper agents
+hiding in the Fleet.
+
+516
+00:44:42,383 --> 00:44:43,717
+(RUMBLING)
+
+517
+00:44:44,510 --> 00:44:46,886
+(ALARM BLARING)
+Decompression alarm!
+
+518
+00:44:56,731 --> 00:44:58,481
+(TRUCK BEEPING)
+
+519
+00:45:04,113 --> 00:45:05,780
+(TRUCK WHIRRING)
+
+520
+00:45:24,175 --> 00:45:25,383
+(WHISPERING)
+
+521
+00:45:27,678 --> 00:45:29,346
+(GUNS FIRING)
+
+522
+00:45:37,938 --> 00:45:39,356
+SAM: Motherfrakkers!
+
+523
+00:45:41,442 --> 00:45:42,776
+There's one more!
+
+524
+00:45:58,459 --> 00:46:00,043
+(ALL CHEERING)
+
+525
+00:46:02,630 --> 00:46:05,965
+Help! Somebody help me!
+
+526
+00:46:06,050 --> 00:46:07,568
+SAM: We got a survivor.
+
+527
+00:46:41,794 --> 00:46:44,715
+Security, XO.
+Send an armed
+detail to meet me
+
+528
+00:46:44,755 --> 00:46:48,552
+in the midpoint promenade
+deck causeway, C level.
+Approach from aft.
+
+529
+00:46:48,592 --> 00:46:50,677
+Repeat, approach from aft.
+
+530
+00:46:55,975 --> 00:46:57,016
+Doral!
+
+531
+00:47:08,237 --> 00:47:09,529
+(BEEPING)
+
+532
+00:47:16,912 --> 00:47:21,541
+GUARD:… tell us if
+you've seen anybody who
+matches this description?
+
+533
+00:47:23,419 --> 00:47:25,211
+(GUARDS INVESTIGATING)
+
+534
+00:47:31,051 --> 00:47:33,427
+GUARD: Does he look
+familiar to you?
+
+535
+00:47:45,441 --> 00:47:46,527
+Have you seen this man?
+
+536
+00:47:46,567 --> 00:47:47,695
+Yeah, just saw him.
+
+537
+00:47:47,735 --> 00:47:48,735
+You sure?
+Yeah.
+
+538
+00:47:48,819 --> 00:47:50,278
+Let's go.
+Roger.
+
+539
+00:48:48,128 --> 00:48:49,316
+(LAUGHS) Good job.
+
+540
+00:48:51,131 --> 00:48:54,553
+BROTHER CAVIL: You know,
+there are those who think
+this current devastation
+
+541
+00:48:54,593 --> 00:48:56,553
+is punishment
+for man's sins.
+
+542
+00:48:58,180 --> 00:49:00,100
+Is that what you believe,
+Brother?
+
+543
+00:49:00,140 --> 00:49:03,440
+I don't believe
+it's punishment
+from the Gods, no.
+
+544
+00:49:04,395 --> 00:49:05,937
+But perhaps…
+
+545
+00:49:06,564 --> 00:49:10,788
+Perhaps the Cylons
+have assumed the role
+that the Gods once had.
+
+546
+00:49:12,361 --> 00:49:13,695
+(SCOFFS)
+
+547
+00:49:14,196 --> 00:49:18,157
+That's a pretty
+trippy thought.
+
+548
+00:49:18,242 --> 00:49:20,829
+Yeah, well,
+they're smiting us
+pretty well,
+
+549
+00:49:20,869 --> 00:49:24,301
+and there's certainly
+an abundance of sins
+to judge.
+
+550
+00:49:28,586 --> 00:49:33,923
+Do you, you know,
+hear confessions?
+
+551
+00:49:37,094 --> 00:49:39,262
+I can, of course.
+Yes, I can.
+
+552
+00:49:42,349 --> 00:49:46,644
+Good. We'll talk later.
+
+553
+00:49:46,729 --> 00:49:48,104
+All right.
+
+554
+00:49:48,856 --> 00:49:49,856
+All right.
+
+555
+00:49:53,694 --> 00:49:56,240
+Doc, this is Brother Cavil.
+This is our team doctor.
+
+556
+00:49:56,280 --> 00:49:59,159
+Welcome, Brother.
+I'm very glad to
+see you. Very glad.
+
+557
+00:49:59,199 --> 00:50:00,536
+Glad to see you, too.
+
+558
+00:50:00,576 --> 00:50:02,871
+Maybe a man of the Gods
+will bring us some luck
+around here, eh?
+
+559
+00:50:02,911 --> 00:50:05,038
+Yeah. After you.
+
+560
+00:50:16,675 --> 00:50:19,844
+Four, you're late.
+
+561
+00:50:21,055 --> 00:50:23,097
+It was hard to get away.
+
+562
+00:50:23,932 --> 00:50:25,058
+Oh.
+
+563
+00:50:25,851 --> 00:50:30,563
+Yes, I found a Three
+with a similar problem.
+I let her pursue her path.
+
+564
+00:50:31,482 --> 00:50:32,857
+But you…
+
+565
+00:50:34,693 --> 00:50:36,739
+Oh, did you happen to hear
+about the courageous Five
+
+566
+00:50:36,779 --> 00:50:41,333
+that wore an explosive vest
+into the corridors
+of Galactica recently?
+
+567
+00:50:42,701 --> 00:50:44,077
+I'm a medic.
+
+568
+00:50:44,578 --> 00:50:46,165
+There are other things
+that I can do.
+
+569
+00:50:46,205 --> 00:50:47,664
+Oh, yes.
+
+570
+00:50:48,666 --> 00:50:52,502
+The serial-killer option.
+That's a fine, fine option.
+
+571
+00:50:53,754 --> 00:50:58,800
+But, tell me,
+are you reluctant to do
+more for your people?
+
+572
+00:50:59,093 --> 00:51:00,551
+(CHUCKLING)
+
+573
+00:51:01,428 --> 00:51:02,679
+Like what?
+
+574
+00:51:02,763 --> 00:51:05,073
+I'm just asking
+a general question.
+
+575
+00:51:05,307 --> 00:51:06,349
+(LAUGHS)
+
+576
+00:51:06,433 --> 00:51:10,812
+This is all improv,
+isn't it? You're scared,
+you're outmanned.
+
+577
+00:51:10,896 --> 00:51:14,401
+You're surrounded by humans
+who weren't supposed to be
+alive in the first place.
+
+578
+00:51:14,441 --> 00:51:20,029
+No one was supposed
+to be alive! Our people were
+supposed to be positioned
+
+579
+00:51:20,114 --> 00:51:23,018
+to cause destruction,
+not mop up afterwards.
+
+580
+00:51:26,328 --> 00:51:30,498
+My Two was
+the Defense Minister's
+yoga instructor,
+
+581
+00:51:30,582 --> 00:51:33,462
+if you can believe that,
+and one of the Sixes
+was a prostitute.
+
+582
+00:51:33,502 --> 00:51:36,340
+But the only one
+in a position to do
+any frakking damage
+
+583
+00:51:36,380 --> 00:51:39,416
+was a Five on this ship,
+and he frakked it up!
+
+584
+00:51:41,301 --> 00:51:44,733
+Now, the universe
+still has these
+cockroaches in it,
+
+585
+00:51:44,763 --> 00:51:48,850
+and we can't have any peace
+until we step on them all.
+
+586
+00:51:48,934 --> 00:51:51,647
+(CHUCKLES)
+And don't you think
+for a moment
+
+587
+00:51:51,687 --> 00:51:57,033
+that I'm gonna be moved
+by the sweet, adorable fact
+that you married one of them.
+
+588
+00:51:59,987 --> 00:52:05,399
+You come back tomorrow, and
+we'll talk about you blowing
+up that ship you live on.
+
+589
+00:52:13,167 --> 00:52:16,755
+You're the one
+who let the Cylons
+into the defense mainframe.
+
+590
+00:52:16,795 --> 00:52:21,090
+You betrayed your colony,
+your home, your entire race.
+
+591
+00:52:22,342 --> 00:52:24,138
+You're the man
+responsible for
+the Holocaust
+
+592
+00:52:24,178 --> 00:52:26,014
+and I'm here to see
+that you're exposed
+
+593
+00:52:26,054 --> 00:52:29,552
+and sentenced to death
+as the traitor
+you really are.
+
+594
+00:52:31,477 --> 00:52:35,855
+NO. 6: There's also this.
+BALTAR: What
+the frak's that?
+
+595
+00:52:38,150 --> 00:52:39,528
+NO. 6: On the disk is a photo.
+
+596
+00:52:39,568 --> 00:52:41,488
+It was captured from
+the security camera
+
+597
+00:52:41,528 --> 00:52:43,282
+in the defense
+mainframe on Caprica.
+
+598
+00:52:43,322 --> 00:52:45,325
+It shows the doctor
+entering the mainframe
+
+599
+00:52:45,365 --> 00:52:48,335
+without permission
+the day before the attack.
+
+600
+00:52:51,622 --> 00:52:55,627
+As you can see, the man
+in the photo is carrying
+an explosive device.
+
+601
+00:52:55,667 --> 00:52:57,543
+Sorry, he's what?
+
+602
+00:53:03,801 --> 00:53:05,512
+HOTDOG ON RECORDER: I'm hit!
+STARBUCK: I got you, Hot Dog!
+
+603
+00:53:05,552 --> 00:53:06,722
+We're going to
+make it through this.
+
+604
+00:53:06,762 --> 00:53:09,305
+Break right. Now! Now! Now!
+
+605
+00:53:09,389 --> 00:53:12,475
+Frak! I just lost
+all three mains.
+
+606
+00:53:12,559 --> 00:53:14,772
+It's all right, Hot Dog.
+You did good.
+
+607
+00:53:14,812 --> 00:53:17,271
+You're gonna be okay,
+I promise you.
+
+608
+00:53:17,356 --> 00:53:19,440
+At least one of us will.
+
+609
+00:53:20,234 --> 00:53:21,692
+(REWINDING)
+
+610
+00:53:23,070 --> 00:53:26,155
+Frak! I just lost
+all three mains.
+
+611
+00:53:26,240 --> 00:53:28,368
+It's all right, Hot Dog.
+You did good.
+
+612
+00:53:28,408 --> 00:53:30,537
+You're gonna be okay,
+I promise you.
+
+613
+00:53:30,577 --> 00:53:32,161
+At least one of us will.
+
+614
+00:53:54,101 --> 00:53:56,102
+I think I'm losing it.
+
+615
+00:53:58,772 --> 00:54:01,357
+Honestly, I think
+we both knew that.
+
+616
+00:54:03,777 --> 00:54:10,116
+Someone wrote “Cylon”
+on my mirror,
+and I think it was me.
+
+617
+00:54:12,286 --> 00:54:14,245
+You think it was you?
+
+618
+00:54:15,539 --> 00:54:17,957
+I think I was trying
+to warn myself,
+
+619
+00:54:18,041 --> 00:54:19,250
+(SNIFFLES)
+
+620
+00:54:19,334 --> 00:54:25,047
+or scare myself
+into doing what you want,
+or out of it.
+
+621
+00:54:26,967 --> 00:54:28,467
+One old man.
+
+622
+00:54:28,552 --> 00:54:30,303
+He's like a father to me.
+
+623
+00:54:30,387 --> 00:54:35,141
+He is your father.
+All mankind
+are our fathers.
+
+624
+00:54:36,101 --> 00:54:39,335
+And that's the sin
+for which they deserve to die.
+
+625
+00:54:45,110 --> 00:54:47,320
+I'm happier
+when I'm under.
+
+626
+00:54:49,197 --> 00:54:51,032
+I'm happier
+when I'm human.
+
+627
+00:54:53,327 --> 00:54:54,577
+I like myself.
+
+628
+00:54:56,038 --> 00:54:58,205
+I love myself then.
+
+629
+00:55:02,336 --> 00:55:03,336
+(SNIFFLES)
+
+630
+00:55:03,420 --> 00:55:07,048
+Never say that.
+Never, never, never.
+
+631
+00:55:09,134 --> 00:55:12,887
+Because if that were true,
+they win. And they can't.
+
+632
+00:55:16,183 --> 00:55:19,101
+Look at me. Look at me.
+
+633
+00:55:21,647 --> 00:55:25,983
+They know your lies.
+I know you.
+
+634
+00:55:30,822 --> 00:55:32,531
+You can do this.
+
+635
+00:55:35,077 --> 00:55:36,953
+You can kill Adama.
+
+636
+00:55:41,458 --> 00:55:42,708
+For me.
+
+637
+00:56:07,734 --> 00:56:09,571
+What the hell
+do you think
+you're doing?
+
+638
+00:56:09,611 --> 00:56:12,321
+I want answers,
+and I want them now!
+
+639
+00:56:12,406 --> 00:56:15,953
+And I am not interested
+in playing any more
+of your stupid games!
+
+640
+00:56:15,993 --> 00:56:17,410
+Excuse me.
+
+641
+00:56:22,708 --> 00:56:26,252
+You're a fake.
+You're just a copy.
+
+642
+00:56:28,130 --> 00:56:30,673
+Another Cylon copy.
+
+643
+00:56:30,757 --> 00:56:32,466
+Get out.
+
+644
+00:56:35,554 --> 00:56:37,072
+Struck a nerve, have I?
+
+645
+00:56:37,097 --> 00:56:39,393
+Which I find rather
+impossible to believe!
+
+646
+00:56:39,433 --> 00:56:42,143
+You think this is over?
+This is not over!
+
+647
+00:56:42,227 --> 00:56:45,688
+You have not
+heard the last.
+No more Mr Nice Gaius!
+
+648
+00:56:58,243 --> 00:57:00,553
+I'm telling you,
+she flew a Raider.
+
+649
+00:57:00,620 --> 00:57:02,791
+Learned how to control it
+from the inside.
+
+650
+00:57:02,831 --> 00:57:06,420
+Nobody taught her how.
+Kara Thrace plucked that
+knowledge from the stream…
+
+651
+00:57:06,460 --> 00:57:09,962
+I don't care if she plucked
+puppies from God's ass!
+
+652
+00:57:10,047 --> 00:57:11,633
+You're worse than
+the frakking Sixes.
+
+653
+00:57:11,673 --> 00:57:13,927
+She has a destiny.
+Something beyond us.
+
+654
+00:57:13,967 --> 00:57:17,806
+I'm starting to understand
+why God loved humankind
+before he changed his mind.
+
+655
+00:57:17,846 --> 00:57:21,307
+No, no, no, no.
+If you get a chance,
+you kill her.
+
+656
+00:57:21,391 --> 00:57:22,477
+(GUARDS CHATTERING)
+
+657
+00:57:22,517 --> 00:57:25,223
+But right now,
+you've got other problems.
+
+658
+00:57:26,897 --> 00:57:28,564
+(GUARDS SHOUTING)
+
+659
+00:57:39,534 --> 00:57:43,957
+Take him to the Brig. He's
+under arrest for supplying
+information to the enemy.
+
+660
+00:57:43,997 --> 00:57:46,126
+I would like to
+speak to my attorney.
+
+661
+00:57:46,166 --> 00:57:48,080
+Can't I speak
+to my attorney?
+
+662
+00:57:53,006 --> 00:57:55,969
+You've been here a week, One.
+That's all I'm saying.
+
+663
+00:57:56,009 --> 00:57:59,441
+Well, my methods
+are hardly slower
+than yours, Four.
+
+664
+00:57:59,596 --> 00:58:01,933
+Contaminating meds,
+giving too much morpha.
+
+665
+00:58:01,973 --> 00:58:06,146
+You said you could contact
+the others with this location
+and take them out in a strike.
+
+666
+00:58:06,186 --> 00:58:09,274
+Well, the thing is,
+I promised to hear
+his confession,
+
+667
+00:58:09,314 --> 00:58:12,020
+and we men of the Gods
+keep our promises.
+
+668
+00:58:26,790 --> 00:58:31,043
+Good. Looks good.
+Now, hold on, wait.
+Okay, go, go.
+
+669
+00:58:42,180 --> 00:58:43,962
+How'd she get
+so far ahead?
+
+670
+00:58:45,225 --> 00:58:46,350
+Frak!
+
+671
+00:58:48,103 --> 00:58:49,687
+Open the door.
+Yes, sir.
+
+672
+00:58:49,729 --> 00:58:50,855
+(DOOR OPENS)
+
+673
+00:58:50,939 --> 00:58:55,067
+Wait. I haven't
+even had a trial yet.
+
+674
+00:58:55,318 --> 00:58:58,154
+No! Wait!
+It's a lie!
+
+675
+00:58:58,238 --> 00:59:00,200
+Doctor, it's all right.
+It's a lie.
+
+676
+00:59:00,240 --> 00:59:02,352
+The photograph
+was a fake.
+What?
+
+677
+00:59:05,453 --> 00:59:08,455
+It was almost seamless,
+but your face,
+
+678
+00:59:08,540 --> 00:59:10,710
+the man, the reflection,
+it was all a fake.
+
+679
+00:59:10,750 --> 00:59:13,547
+I went back, I re-ran
+all the security checks.
+
+680
+00:59:13,587 --> 00:59:18,132
+This time I found
+markers which pointed
+to photo manipulation.
+
+681
+00:59:18,216 --> 00:59:21,978
+They weren't apparent
+until the photo
+was fully resolved.
+
+682
+00:59:26,433 --> 00:59:27,558
+Thank you.
+
+683
+00:59:28,351 --> 00:59:31,314
+It was really nothing, Doctor.
+Once the photos
+were fully resolved,
+
+684
+00:59:31,354 --> 00:59:35,050
+it was almost too easy,
+like she wanted
+to be found out.
+
+685
+00:59:42,449 --> 00:59:44,297
+CAVIL: Excuse us. Excuse us.
+
+686
+00:59:45,619 --> 00:59:47,401
+Will the other Six be okay?
+
+687
+00:59:47,454 --> 00:59:50,539
+She's fast.
+She's almost beyond human.
+
+688
+00:59:51,458 --> 00:59:53,086
+How did she get
+off of the ship?
+Got me.
+
+689
+00:59:53,126 --> 00:59:55,005
+There's been no ships
+coming or going.
+I gave you an order.
+
+690
+00:59:55,045 --> 00:59:56,256
+I had two Marines
+tailing her.
+
+691
+00:59:56,296 --> 00:59:59,009
+They say they went
+around a corner
+and she was gone.
+
+692
+00:59:59,049 --> 01:00:00,552
+Every ship in the Fleet
+has reported in, sir.
+
+693
+01:00:00,592 --> 01:00:01,595
+There's no sign
+of her.
+
+694
+01:00:01,635 --> 01:00:05,199
+That's unacceptable.
+She was here.
+She was right here.
+
+695
+01:00:05,639 --> 01:00:08,435
+This woman existed.
+She didn't just vanish.
+
+696
+01:00:08,475 --> 01:00:10,059
+Have them check again.
+
+697
+01:00:10,185 --> 01:00:13,023
+Every ship?
+Every ship,
+including this one.
+
+698
+01:00:24,032 --> 01:00:25,991
+She didn't just vanish.
+
+699
+01:00:29,996 --> 01:00:32,665
+Is Baltar's machine
+on the trash heap?
+
+700
+01:00:32,749 --> 01:00:34,927
+I did what I could.
+I don't know.
+
+701
+01:00:35,210 --> 01:00:38,590
+Trying to make
+a guilty man look guilty.
+It should be so easy.
+
+702
+01:00:38,630 --> 01:00:40,506
+We had to
+fake the evidence.
+
+703
+01:00:41,383 --> 01:00:44,385
+Baltar, he helped us
+so much on Caprica…
+
+704
+01:00:44,511 --> 01:00:46,473
+Are you attracted
+to this human?
+No.
+
+705
+01:00:46,513 --> 01:00:47,974
+'Cause the other Six
+got addicted to him.
+
+706
+01:00:48,014 --> 01:00:53,602
+I'm not addicted!
+Baltar's a brilliant man, yes,
+but you should've seen me.
+
+707
+01:00:53,687 --> 01:00:55,899
+I was brutal with him.
+I pushed him.
+
+708
+01:00:55,939 --> 01:00:57,106
+You pushed him.
+
+709
+01:00:57,190 --> 01:01:01,571
+My dear, if you pushed him,
+you would have sent him
+through a wall.
+
+710
+01:01:01,611 --> 01:01:05,364
+Oh, look.
+An airlock.
+How handy.
+
+711
+01:01:05,448 --> 01:01:06,490
+Wait.
+
+712
+01:01:09,828 --> 01:01:11,328
+(PANTING)
+
+713
+01:01:11,413 --> 01:01:14,709
+I could blend into life
+on another ship.
+With another disguise.
+
+714
+01:01:14,749 --> 01:01:20,087
+Go. And don't forget to
+give them our coordinates.
+I want this finished.
+
+715
+01:01:33,226 --> 01:01:34,518
+(EXHALES)
+
+716
+01:01:48,575 --> 01:01:50,326
+Love?
+
+717
+01:01:50,410 --> 01:01:53,050
+You don't even know
+what the word means.
+
+718
+01:01:59,377 --> 01:02:02,921
+I see the truths
+that float past
+you in the stream.
+
+719
+01:02:04,841 --> 01:02:08,263
+You have a real thing
+about rivers and streams,
+don't you?
+
+720
+01:02:08,303 --> 01:02:11,471
+I think we should indulge you
+in your obsession.
+
+721
+01:02:20,815 --> 01:02:21,857
+(DOOR CLOSES)
+
+722
+01:02:21,941 --> 01:02:22,986
+Do you realize
+I could kill you
+
+723
+01:02:23,026 --> 01:02:25,569
+before they came
+back in the room?
+
+724
+01:02:25,653 --> 01:02:27,279
+I could get
+to my feet,
+
+725
+01:02:27,364 --> 01:02:29,576
+rip your skull from
+your spinal column,
+
+726
+01:02:29,616 --> 01:02:31,325
+crash through
+that door,
+
+727
+01:02:31,409 --> 01:02:36,041
+kill the guard in less time
+than it has taken me
+to describe it to you.
+
+728
+01:02:36,081 --> 01:02:37,581
+Then why don't you?
+
+729
+01:02:41,127 --> 01:02:42,503
+It's not the time.
+
+730
+01:02:51,971 --> 01:02:53,680
+(STARBUCK GASPING)
+
+731
+01:02:55,433 --> 01:02:56,885
+Surprise, you're dead.
+
+732
+01:02:59,396 --> 01:03:00,521
+Gods.
+
+733
+01:03:14,160 --> 01:03:15,160
+(EXHALES)
+
+734
+01:03:24,129 --> 01:03:26,004
+(PEOPLE CHATTERING)
+
+735
+01:03:50,989 --> 01:03:52,656
+(ALARM BLARING)
+
+736
+01:03:53,324 --> 01:03:54,446
+(AIRLOCK OPENING)
+
+737
+01:04:06,045 --> 01:04:07,379
+(CRYING)
+
+738
+01:04:35,909 --> 01:04:36,909
+(GUN FIRES)
+
+739
+01:04:45,585 --> 01:04:47,252
+Are you a war orphan?
+
+740
+01:04:58,515 --> 01:04:59,681
+No.
+
+741
+01:05:00,975 --> 01:05:02,351
+So you have parents.
+
+742
+01:05:03,144 --> 01:05:05,437
+Do they want you?
+
+743
+01:05:07,273 --> 01:05:08,357
+No.
+
+744
+01:05:11,444 --> 01:05:16,198
+Well, two decks below,
+there's a room,
+
+745
+01:05:16,282 --> 01:05:21,628
+and there's people in that
+room that are in charge of
+children that nobody wants.
+
+746
+01:05:28,127 --> 01:05:31,755
+All right, don't go there.
+But go somewhere.
+
+747
+01:05:48,273 --> 01:05:50,107
+How are you feeling?
+
+748
+01:05:50,191 --> 01:05:52,237
+It looks worse
+than it is, sir.
+
+749
+01:05:53,027 --> 01:05:56,282
+Things are moving
+very quickly
+and I need every pilot.
+
+750
+01:05:56,322 --> 01:05:57,573
+I'm ready, sir.
+
+751
+01:05:59,117 --> 01:06:02,455
+I have a very special mission
+for you and
+I won't kid around.
+
+752
+01:06:02,495 --> 01:06:04,791
+It's high risk,
+extremely high risk.
+
+753
+01:06:04,831 --> 01:06:08,542
+I need you to nuke
+a Cylon Basestar.
+
+754
+01:06:10,753 --> 01:06:11,753
+Yes, sir.
+
+755
+01:06:14,090 --> 01:06:15,632
+(DOOR OPENING)
+
+756
+01:06:20,722 --> 01:06:22,559
+You're late.
+She's already down.
+
+757
+01:06:22,599 --> 01:06:23,682
+Sorry.
+
+758
+01:06:24,267 --> 01:06:25,851
+Where were you?
+
+759
+01:06:26,686 --> 01:06:29,524
+The Chief had us
+running tests on
+the Cylon Raider.
+
+760
+01:06:29,564 --> 01:06:31,523
+Oh, yeah. Right.
+
+761
+01:06:31,608 --> 01:06:33,258
+It's the strangest thing.
+
+762
+01:06:34,319 --> 01:06:36,028
+Half alive.
+Wow.
+
+763
+01:06:37,030 --> 01:06:38,322
+(EXHALES)
+
+764
+01:06:40,491 --> 01:06:41,950
+What?
+What?
+
+765
+01:06:42,035 --> 01:06:43,204
+What's up with you?
+
+766
+01:06:43,244 --> 01:06:46,371
+Nothing. Nothing.
+It's just that…
+
+767
+01:06:46,456 --> 01:06:51,004
+We just barely escaped with
+our lives and it seems like
+we ought to be living them.
+
+768
+01:06:51,044 --> 01:06:56,298
+Don't you think?
+Not working all night.
+Ignoring the child.
+
+769
+01:06:56,924 --> 01:07:00,752
+Is that why we escaped,
+so you can be
+a frakking mechanic?
+
+770
+01:07:01,804 --> 01:07:03,766
+Grease under your nails.
+Look at them.
+
+771
+01:07:03,806 --> 01:07:06,060
+You wanna touch your daughter
+with these hands, baby?
+
+772
+01:07:06,100 --> 01:07:10,979
+Does it really matter?
+You know I miss
+how things were.
+
+773
+01:07:11,064 --> 01:07:14,900
+I hate this jumpsuit.
+But everyone's doing
+what they can.
+
+774
+01:07:15,693 --> 01:07:16,735
+(SOBBING)
+
+775
+01:07:18,071 --> 01:07:21,569
+You woke her up.
+That's good.
+That's very, very good.
+
+776
+01:07:21,574 --> 01:07:22,994
+Why waste time sleeping?
+
+777
+01:07:23,034 --> 01:07:27,081
+There's an entire race
+of Cylons out there trying to
+rip out our frakking throats.
+
+778
+01:07:27,121 --> 01:07:30,817
+We need to spend every moment
+that we can living. Right?
+
+779
+01:07:32,210 --> 01:07:34,920
+Come on, dance with me.
+Come on, come on.
+
+780
+01:07:35,004 --> 01:07:37,214
+Baby…
+Stay away from her.
+
+781
+01:07:37,298 --> 01:07:42,380
+Are you drunk? For Gods' sake,
+what's wrong with you?
+Pull yourself together!
+
+782
+01:07:43,304 --> 01:07:47,015
+Where you going?
+Where you going?
+Giana?
+
+783
+01:07:47,100 --> 01:07:48,853
+Baby, where you going?
+Baby, come back!
+
+784
+01:07:48,893 --> 01:07:50,811
+Daddy!
+Come here!
+
+785
+01:08:04,492 --> 01:08:09,640
+WOMAN ON RADIO: Clearing the
+blast radius of the Basestar.
+Explosion imminent.
+
+786
+01:08:18,631 --> 01:08:20,215
+(ALL CHEERING)
+
+787
+01:08:21,217 --> 01:08:22,300
+Hey, nice work.
+
+788
+01:08:22,385 --> 01:08:23,969
+Thanks.
+What's going on?
+
+789
+01:08:24,303 --> 01:08:26,613
+A lot happened
+while you were gone.
+
+790
+01:08:27,348 --> 01:08:29,196
+Congrats.
+RACETRACK: Thanks.
+
+791
+01:08:32,812 --> 01:08:35,647
+Congratulations
+to both of you.
+
+792
+01:08:36,733 --> 01:08:40,402
+You carried out
+a very difficult
+and dangerous mission,
+
+793
+01:08:40,486 --> 01:08:42,070
+and you did it
+
+794
+01:08:42,155 --> 01:08:46,158
+despite any personal
+misgivings you may
+or may not have had.
+
+795
+01:08:46,743 --> 01:08:48,702
+And for that,
+I'm very proud.
+
+796
+01:08:51,164 --> 01:08:53,123
+Thank you.
+Thank you, sir.
+
+797
+01:08:53,833 --> 01:08:54,919
+Thank you, sir.
+Thank you.
+
+798
+01:08:54,959 --> 01:08:55,917
+(GUN FIRES)
+
+799
+01:08:56,002 --> 01:08:57,797
+MAN: Shot fired!
+Shot fired!
+
+800
+01:08:57,837 --> 01:08:59,045
+(PEOPLE SHOUTING)
+
+801
+01:08:59,130 --> 01:09:00,255
+(GUN FIRES)
+
+802
+01:09:00,339 --> 01:09:01,339
+APOLLO: Dad!
+
+803
+01:09:01,507 --> 01:09:03,469
+APOLLO:
+Get a doctor in here, pronto.
+
+804
+01:09:03,509 --> 01:09:04,509
+Dad.
+
+805
+01:09:05,762 --> 01:09:07,721
+Dad. Come on.
+
+806
+01:09:11,934 --> 01:09:13,894
+Is he dead?
+
+807
+01:09:13,978 --> 01:09:15,892
+If he's not dead,
+he's dying.
+
+808
+01:09:17,148 --> 01:09:23,195
+Thus is the beast decapitated.
+Which inspired you to come
+and tell me…
+
+809
+01:09:23,821 --> 01:09:26,782
+I'll do it. Okay?
+
+810
+01:09:28,034 --> 01:09:31,495
+I'll blow up my ship.
+I will blow up the Cybele.
+
+811
+01:09:32,455 --> 01:09:35,916
+Good, very good.
+Now we've got
+a bit of traction.
+
+812
+01:09:36,000 --> 01:09:37,503
+I'll tell you what
+you need to do.
+
+813
+01:09:37,543 --> 01:09:41,630
+One condition.
+I want my family kept safe.
+
+814
+01:09:41,714 --> 01:09:44,049
+No. You don't want that.
+
+815
+01:09:45,343 --> 01:09:50,597
+You see, if they die now,
+they'll die without ever
+knowing what you are.
+
+816
+01:09:56,437 --> 01:09:57,771
+(EXHALES)
+
+817
+01:09:59,357 --> 01:10:01,358
+Who was that?
+
+818
+01:10:01,442 --> 01:10:03,068
+That was the Four.
+
+819
+01:10:04,237 --> 01:10:05,445
+Oh.
+
+820
+01:10:06,072 --> 01:10:11,243
+And Boomer
+shot the Commander.
+Things are looking up.
+
+821
+01:10:14,705 --> 01:10:15,914
+They'd have to.
+
+822
+01:10:15,998 --> 01:10:17,415
+Move your arm.
+
+823
+01:10:18,334 --> 01:10:21,169
+There's not much more
+down they could go.
+
+824
+01:10:21,254 --> 01:10:23,922
+The Six failed,
+the Two failed.
+
+825
+01:10:24,006 --> 01:10:25,298
+(EXHALES)
+
+826
+01:10:25,758 --> 01:10:31,096
+Every machine
+needs to warm up.
+We're a fleet-killing machine.
+
+827
+01:10:31,180 --> 01:10:34,140
+We just started to hum.
+
+828
+01:10:35,017 --> 01:10:36,476
+(CHUCKLES)
+
+829
+01:10:37,186 --> 01:10:39,396
+“We just started to hum”?
+
+830
+01:10:43,234 --> 01:10:45,360
+I'll make you hum.
+
+831
+01:10:47,780 --> 01:10:48,780
+Oh, yeah.
+
+832
+01:10:49,740 --> 01:10:51,283
+Hum.
+
+833
+01:10:54,704 --> 01:10:55,954
+(GASPS)
+
+834
+01:11:06,507 --> 01:11:07,716
+You shot him.
+
+835
+01:11:09,051 --> 01:11:12,181
+(WHISPERING)
+But you didn't kill him.
+You didn't kill him.
+
+836
+01:11:12,221 --> 01:11:14,433
+And things were
+finally going well.
+
+837
+01:11:14,473 --> 01:11:17,353
+What do you want from me?
+I shot him twice in the chest.
+
+838
+01:11:17,393 --> 01:11:19,728
+How about
+once in the head?
+
+839
+01:11:19,812 --> 01:11:21,148
+Did you think of that?
+
+840
+01:11:21,188 --> 01:11:22,772
+(WHISPERING) I told you,
+
+841
+01:11:23,482 --> 01:11:25,233
+I'm not in control.
+
+842
+01:11:30,072 --> 01:11:33,783
+The only way that
+I could get this done
+
+843
+01:11:34,827 --> 01:11:37,370
+was to turn myself
+into a Centurion.
+
+844
+01:11:38,748 --> 01:11:40,992
+I could feel my skin
+turning hard.
+
+845
+01:11:43,169 --> 01:11:48,317
+I could feel the bullets
+moving through the channels
+under my hard metal skin.
+
+846
+01:11:48,674 --> 01:11:50,842
+I couldn't feel
+my heartbeat.
+
+847
+01:11:51,677 --> 01:11:53,470
+Sounds wonderful.
+
+848
+01:11:56,641 --> 01:12:01,561
+If there was any part
+of us that's human,
+in that moment, I killed that.
+
+849
+01:12:01,646 --> 01:12:06,066
+Yes, good.
+That's the idea.
+Now listen, Eight,
+
+850
+01:12:08,110 --> 01:12:12,864
+I need you,
+and I need to break
+a string of failures.
+
+851
+01:12:14,617 --> 01:12:16,910
+I lost the best part
+of myself.
+
+852
+01:12:19,580 --> 01:12:22,415
+Yes. All right.
+
+853
+01:12:23,751 --> 01:12:27,963
+I see how this is.
+Goodbye, Eight,
+and good luck.
+
+854
+01:12:31,759 --> 01:12:33,677
+I don't want a priest.
+
+855
+01:12:35,763 --> 01:12:38,056
+And you deserve
+no absolution.
+
+856
+01:12:50,069 --> 01:12:53,369
+Now we've got to figure out
+where the hell we are.
+
+857
+01:13:10,339 --> 01:13:11,550
+What did you find out?
+
+858
+01:13:11,590 --> 01:13:13,570
+I think
+I've seen them before.
+
+859
+01:13:13,759 --> 01:13:16,469
+Another one of her
+and maybe him.
+
+860
+01:13:16,554 --> 01:13:18,599
+Skin jobs, then.
+It seems likely.
+
+861
+01:13:18,639 --> 01:13:20,883
+I can't swear to it,
+my memory is…
+
+862
+01:13:20,933 --> 01:13:23,184
+What are we waiting for?
+Let's go.
+
+863
+01:13:23,436 --> 01:13:26,107
+Yeah, all right. Listen,
+you two, you hold back here.
+Do not move.
+
+864
+01:13:26,147 --> 01:13:29,843
+The rest of the team,
+you form up on me.
+Let's move out.
+
+865
+01:13:37,825 --> 01:13:38,867
+Who is it?
+
+866
+01:13:38,951 --> 01:13:40,205
+Some random humans.
+
+867
+01:13:41,245 --> 01:13:45,139
+Each side is gonna
+suspect the other.
+I wish I could watch.
+
+868
+01:13:47,877 --> 01:13:49,794
+(GUNS FIRING)
+
+869
+01:13:56,969 --> 01:13:58,511
+(GUN COCKING)
+
+870
+01:13:59,930 --> 01:14:01,139
+Uh-uh.
+
+871
+01:14:03,267 --> 01:14:05,049
+(GUN COCKING)
+STARBUCK: Hi.
+
+872
+01:14:20,493 --> 01:14:24,621
+So, somebody might
+get shot. Great.
+
+873
+01:14:24,705 --> 01:14:28,002
+You were the one telling me
+how swift and terrible
+this whole thing was gonna be.
+
+874
+01:14:28,042 --> 01:14:30,946
+It's been two months
+since those bombs fell.
+
+875
+01:14:31,420 --> 01:14:34,654
+And you're helping
+a resistance cell
+thrive here.
+
+876
+01:14:35,758 --> 01:14:36,883
+MAN: Bitch!
+
+877
+01:14:36,967 --> 01:14:38,093
+WOMAN: Traitor!
+
+878
+01:14:38,177 --> 01:14:39,719
+(PEOPLE YELLING)
+
+879
+01:14:51,857 --> 01:14:52,857
+(GUN FIRES)
+
+880
+01:15:04,662 --> 01:15:06,121
+(BOOMER GASPING)
+
+881
+01:15:09,250 --> 01:15:10,583
+I love you, Chief.
+
+882
+01:15:55,129 --> 01:15:56,462
+(KISSING)
+
+883
+01:15:59,592 --> 01:16:01,092
+(GIANA PANTS)
+
+884
+01:16:06,223 --> 01:16:07,765
+(BOTH MOANING)
+
+885
+01:16:18,277 --> 01:16:20,528
+(BOTH GRUNTING)
+
+886
+01:16:25,784 --> 01:16:27,452
+(BOTH MOAN LOUDLY)
+
+887
+01:16:34,293 --> 01:16:35,627
+(EXHALES)
+
+888
+01:16:38,172 --> 01:16:41,966
+I'm sorry.
+I really am sorry.
+
+889
+01:17:07,952 --> 01:17:09,535
+(ALARM BLARING)
+
+890
+01:17:12,998 --> 01:17:14,374
+(SOBBING)
+
+891
+01:17:16,335 --> 01:17:17,710
+I love you.
+
+892
+01:17:34,144 --> 01:17:36,354
+You want
+a progress report?
+
+893
+01:17:37,189 --> 01:17:40,108
+I'll give you
+a frakking
+progress report.
+
+894
+01:17:40,192 --> 01:17:42,154
+Oh, no, please don't.
+Please don't.
+
+895
+01:17:42,194 --> 01:17:45,697
+Oh, come on,
+it is spectacular.
+
+896
+01:17:46,407 --> 01:17:53,204
+Doral blew himself up,
+causing minor damage
+to a minor hallway.
+
+897
+01:17:55,040 --> 01:17:56,835
+And Boomer jettisoned
+the water,
+
+898
+01:17:56,875 --> 01:18:00,920
+and then, she personally
+found loads more water.
+
+899
+01:18:02,172 --> 01:18:03,298
+(LAUGHING)
+
+900
+01:18:03,382 --> 01:18:05,049
+(CAVIL GROANING)
+
+901
+01:18:07,886 --> 01:18:13,725
+And then she shot Adama,
+but not very accurately,
+since she loved him.
+
+902
+01:18:13,809 --> 01:18:16,185
+And then, Leoben,
+
+903
+01:18:16,270 --> 01:18:21,399
+he got obsessed with
+Kara Thrace, and then was
+captured and air-locked.
+
+904
+01:18:21,483 --> 01:18:24,736
+And my sister Six
+
+905
+01:18:25,404 --> 01:18:31,951
+utterly failed to discredit
+Baltar and his dreamy hair
+
+906
+01:18:32,786 --> 01:18:36,164
+and destroyed
+our frakking cover
+in the process.
+
+907
+01:18:36,248 --> 01:18:37,790
+And now Simon…
+
+908
+01:18:40,336 --> 01:18:42,545
+Simon killed himself,
+
+909
+01:18:44,214 --> 01:18:47,175
+really killed himself,
+
+910
+01:18:47,259 --> 01:18:50,556
+out of resurrection range,
+without blowing up the ship
+
+911
+01:18:50,596 --> 01:18:53,896
+that he lived on,
+because he couldn't
+imagine life
+
+912
+01:18:53,932 --> 01:18:58,353
+without his little human wife
+and his little human daughter,
+
+913
+01:18:58,437 --> 01:19:01,077
+because he loves them…
+Stop, stop, stop.
+
+914
+01:19:02,441 --> 01:19:04,150
+Guess I better.
+
+915
+01:19:04,234 --> 01:19:06,861
+Yes. They're all
+letting me down.
+
+916
+01:19:06,945 --> 01:19:11,616
+Why are they
+letting you down, One?
+What's the x-factor?
+
+917
+01:19:16,789 --> 01:19:18,873
+Can't declare
+war on love.
+
+918
+01:19:20,542 --> 01:19:25,046
+I think I already did.
+Hey, where did
+the bottle go?
+
+919
+01:19:26,882 --> 01:19:30,304
+Some of the electronics
+involved in overriding
+airlock security
+
+920
+01:19:30,344 --> 01:19:31,930
+are pretty sophisticated.
+
+921
+01:19:31,970 --> 01:19:34,433
+Colonel, you said
+this wasn't gonna
+be an interrogation.
+
+922
+01:19:34,473 --> 01:19:35,934
+This is why
+I wanted to come.
+
+923
+01:19:35,974 --> 01:19:39,670
+This isn't an interrogation,
+but it is an investigation.
+
+924
+01:19:39,728 --> 01:19:42,649
+Do you think he was a Cylon
+because he killed himself?
+
+925
+01:19:42,689 --> 01:19:44,151
+We could use more
+Cylons like that, huh?
+
+926
+01:19:44,191 --> 01:19:45,942
+Chief, don't.
+
+927
+01:19:46,693 --> 01:19:48,820
+I never said Cylon.
+
+928
+01:19:48,904 --> 01:19:50,113
+Good.
+
+929
+01:19:50,697 --> 01:19:53,660
+Sir, I don't know
+how he knew
+how to rig an airlock,
+
+930
+01:19:53,700 --> 01:19:57,328
+but he was a smart man.
+He learned it somewhere.
+
+931
+01:19:57,413 --> 01:20:01,627
+Some people would cry
+murder if their husband
+or wife died like that.
+
+932
+01:20:01,667 --> 01:20:03,918
+I could understand that,
+but…
+
+933
+01:20:07,673 --> 01:20:09,257
+He left a note.
+
+934
+01:20:22,855 --> 01:20:24,439
+“Love outlasts death.”
+
+935
+01:20:29,862 --> 01:20:32,157
+We really did just
+want some answers.
+
+936
+01:20:32,197 --> 01:20:35,241
+No one thinks
+that your husband
+was a Cylon.
+
+937
+01:20:44,543 --> 01:20:46,544
+Yes, sir.
+Of course, sir.
+
+938
+01:20:50,591 --> 01:20:52,637
+(EXHALES)
+May I have that back?
+
+939
+01:20:55,262 --> 01:20:56,512
+(SIGHS)
+
+940
+01:21:13,447 --> 01:21:16,616
+STARBUCK:
+You want some advice?
+
+941
+01:21:16,700 --> 01:21:18,579
+You're on the losing end
+of this fight.
+
+942
+01:21:18,619 --> 01:21:20,599
+Give it up
+before you all die.
+
+943
+01:21:21,079 --> 01:21:22,708
+Head further up in
+the mountains…
+
+944
+01:21:22,748 --> 01:21:26,334
+I hear the new woman's voice.
+Kara Thrace.
+
+945
+01:21:26,418 --> 01:21:27,963
+SAM:
+And what? Wait to die?
+
+946
+01:21:28,003 --> 01:21:32,029
+As soon as I get
+back to Galactica,
+I'll send a rescue party.
+
+947
+01:21:32,591 --> 01:21:34,008
+Yeah, right.
+
+948
+01:21:34,301 --> 01:21:37,011
+If I say
+I'm gonna do something,
+I do it.
+
+949
+01:21:37,095 --> 01:21:39,669
+You always such
+a bitch in the morning?
+
+950
+01:21:41,141 --> 01:21:42,683
+Count on it.
+
+951
+01:21:42,768 --> 01:21:44,435
+My kind of woman.
+
+952
+01:21:46,188 --> 01:21:47,232
+(STARBUCK LAUGHS)
+
+953
+01:21:47,272 --> 01:21:48,564
+So weak.
+
+954
+01:21:56,657 --> 01:22:00,023
+I thought
+he was supposed to
+kill her in the woods.
+
+955
+01:22:01,036 --> 01:22:02,328
+He's a bad shot.
+
+956
+01:22:04,373 --> 01:22:05,957
+Did she see you?
+
+957
+01:22:06,041 --> 01:22:08,960
+No. No,
+I stayed out of sight.
+
+958
+01:22:09,044 --> 01:22:12,476
+Good.
+She got a glimpse of me,
+but she didn't react.
+
+959
+01:22:13,382 --> 01:22:17,137
+So, if there's a One
+up in that fleet,
+she didn't see him.
+
+960
+01:22:17,177 --> 01:22:20,599
+At least not enough
+to ring a bell
+in her tiny brain.
+
+961
+01:22:20,639 --> 01:22:22,974
+(STARBUCK AND SAM MOANING)
+
+962
+01:22:23,559 --> 01:22:24,879
+What are they doing?
+
+963
+01:22:26,728 --> 01:22:28,273
+You need a doctor
+to tell you that?
+
+964
+01:22:28,313 --> 01:22:30,398
+Oh, for God's sake, why?
+
+965
+01:22:30,482 --> 01:22:31,649
+Why?
+
+966
+01:22:32,859 --> 01:22:34,402
+He loves her.
+
+967
+01:22:34,486 --> 01:22:35,945
+He loves her?
+
+968
+01:22:36,029 --> 01:22:37,572
+Vigorously.
+
+969
+01:22:37,656 --> 01:22:39,115
+But she's beneath him.
+
+970
+01:22:40,951 --> 01:22:42,159
+Not necessarily.
+
+971
+01:22:42,244 --> 01:22:46,204
+Would you quit making jokes,
+for frak's sake?
+This is wrong.
+
+972
+01:22:48,750 --> 01:22:54,714
+Don't you Fours have
+a little place, a… What
+do you call it? A ranch?
+
+973
+01:22:55,716 --> 01:22:58,134
+No. A farm?
+
+974
+01:23:42,721 --> 01:23:44,138
+(GUNS FIRING)
+
+975
+01:23:45,724 --> 01:23:47,266
+(MEN SHOUTING)
+
+976
+01:24:23,512 --> 01:24:25,096
+(MEN CLAMORING)
+
+977
+01:24:27,224 --> 01:24:28,393
+Are you hurt?
+BROTHER CAVIL: What's wrong?
+
+978
+01:24:28,433 --> 01:24:29,645
+SAM: I feel fine,
+just help her.
+What happened?
+
+979
+01:24:29,685 --> 01:24:32,770
+I don't know! We just…
+We got ambushed, okay?
+
+980
+01:24:32,854 --> 01:24:37,066
+They overran us.
+They grabbed Sue-Shaun,
+and Kara was…
+
+981
+01:24:37,150 --> 01:24:40,280
+Godsdamn,
+if something happened…
+I thought she was with us.
+
+982
+01:24:40,320 --> 01:24:42,363
+I suppose
+they killed her.
+
+983
+01:24:43,115 --> 01:24:44,407
+(SIGHS)
+
+984
+01:24:44,783 --> 01:24:46,075
+We gotta go back.
+
+985
+01:24:48,829 --> 01:24:51,205
+I'm going after them.
+Helo!
+
+986
+01:24:55,043 --> 01:24:56,836
+He should let her go.
+
+987
+01:25:12,602 --> 01:25:13,853
+Hey, kid!
+
+988
+01:25:24,156 --> 01:25:25,406
+Sit down.
+
+989
+01:26:03,278 --> 01:26:05,279
+You've been up
+all night?
+
+990
+01:26:06,907 --> 01:26:08,282
+Yeah, I guess so.
+
+991
+01:26:09,701 --> 01:26:11,911
+Seems like
+I never sleep anymore.
+
+992
+01:26:11,995 --> 01:26:13,909
+(EXHALES)
+I know the feeling.
+
+993
+01:26:15,457 --> 01:26:19,879
+Frak, if you're looking
+for a strong leader,
+you picked a bad time.
+
+994
+01:26:23,715 --> 01:26:26,550
+Bless me, Brother,
+
+995
+01:26:26,635 --> 01:26:29,869
+for I have acted
+against the example
+of the Gods.
+
+996
+01:26:32,182 --> 01:26:34,517
+Proceed in the name
+of the Gods.
+
+997
+01:26:38,396 --> 01:26:43,442
+At the very beginning of this,
+they wanted to
+
+998
+01:26:43,527 --> 01:26:46,531
+give me
+all this responsibility
+and I didn't want it.
+
+999
+01:26:46,571 --> 01:26:51,283
+Just wanted to get out of it.
+You know, wanted to leave.
+
+1000
+01:26:51,368 --> 01:26:53,244
+And one time,
+I tried.
+
+1001
+01:26:55,455 --> 01:26:57,831
+It was just after
+this thing we did.
+
+1002
+01:26:59,376 --> 01:27:01,085
+I was so frakked up.
+
+1003
+01:27:02,754 --> 01:27:06,006
+I took this stupid idea
+from a movie.
+
+1004
+01:27:06,091 --> 01:27:07,677
+People died,
+I couldn't handle it.
+
+1005
+01:27:07,717 --> 01:27:10,886
+I wanted to run.
+I just wanted to get out.
+
+1006
+01:27:12,931 --> 01:27:14,682
+But you changed your mind.
+
+1007
+01:27:14,766 --> 01:27:18,528
+Well, no.
+Barolay was there and
+she was gonna see me run.
+
+1008
+01:27:21,898 --> 01:27:26,902
+And suddenly I find myself
+worrying about my own
+frakking reputation.
+
+1009
+01:27:28,947 --> 01:27:30,614
+So, I didn't run.
+
+1010
+01:27:32,200 --> 01:27:35,962
+And that's my confession.
+I'm a godsdamn coward,
+Brother.
+
+1011
+01:27:39,249 --> 01:27:40,958
+Well,
+I suppose you were.
+
+1012
+01:27:42,377 --> 01:27:44,169
+But what about now?
+
+1013
+01:27:46,464 --> 01:27:48,716
+I'm not gonna run anymore.
+
+1014
+01:27:51,511 --> 01:27:54,745
+Maybe I'm stronger
+or maybe I'm just
+more insane.
+
+1015
+01:27:56,474 --> 01:28:00,144
+This whole experience
+has changed you
+for the better.
+
+1016
+01:28:00,228 --> 01:28:01,520
+You've learned.
+
+1017
+01:28:02,606 --> 01:28:03,942
+You know,
+at the end of a confession,
+
+1018
+01:28:03,982 --> 01:28:07,276
+sometimes there's
+an ending or, you know…
+
+1019
+01:28:07,360 --> 01:28:11,322
+Yes, fine. You are absolved
+in the example of the Gods.
+
+1020
+01:28:12,949 --> 01:28:18,412
+Now, Sam, listen,
+given that this holocaust
+
+1021
+01:28:19,915 --> 01:28:21,793
+was a journey
+of learning for you…
+
+1022
+01:28:21,833 --> 01:28:23,753
+Journey? I don't know
+if it was a journey…
+
+1023
+01:28:23,793 --> 01:28:26,837
+Well, given that,
+it can…
+
+1024
+01:28:28,340 --> 01:28:29,965
+Can you
+
+1025
+01:28:33,011 --> 01:28:35,846
+forgive the Cylons?
+
+1026
+01:28:36,973 --> 01:28:38,515
+Because if you can,
+
+1027
+01:28:38,642 --> 01:28:41,646
+that's really transcendent.
+I know you didn't
+just say that.
+
+1028
+01:28:41,686 --> 01:28:43,273
+I mean,
+they must've
+had a purpose.
+
+1029
+01:28:43,313 --> 01:28:46,440
+Something must've
+made them…
+Made them what?
+
+1030
+01:28:46,524 --> 01:28:49,195
+End everything?
+Destroy billions
+of souls?
+
+1031
+01:28:49,235 --> 01:28:51,740
+No, frak, no.
+Humanity had so much sin.
+
+1032
+01:28:51,780 --> 01:28:53,034
+Are you kidding me?
+
+1033
+01:28:53,073 --> 01:28:55,327
+They made you put
+all these dead…
+Wait a second.
+
+1034
+01:28:55,367 --> 01:28:58,330
+on your shoulders.
+Are you defending them?
+Listen, Brother,
+
+1035
+01:28:58,370 --> 01:28:59,748
+I'm gonna pretend
+you didn't say that, okay?
+
+1036
+01:28:59,788 --> 01:29:02,706
+I'm gonna pretend
+I didn't hear any of that.
+
+1037
+01:29:14,177 --> 01:29:15,678
+What was that?
+
+1038
+01:29:18,765 --> 01:29:22,559
+I thought he'd learned.
+But he loves.
+
+1039
+01:29:23,979 --> 01:29:28,774
+What are you really
+doing here? What does
+this man mean to you?
+
+1040
+01:29:31,444 --> 01:29:33,237
+Where are you going?
+
+1041
+01:29:35,907 --> 01:29:41,078
+As long as any humans exist,
+there's no room for us.
+
+1042
+01:29:51,423 --> 01:29:52,548
+Good morning!
+
+1043
+01:30:06,938 --> 01:30:08,272
+(SCREAMS)
+
+1044
+01:30:08,565 --> 01:30:09,621
+(STARBUCK GASPS)
+
+1045
+01:30:14,112 --> 01:30:15,112
+(GROANS)
+
+1046
+01:30:23,079 --> 01:30:24,413
+(GUN FIRING)
+
+1047
+01:30:24,497 --> 01:30:26,331
+(STARBUCK WHIMPERING)
+
+1048
+01:30:35,717 --> 01:30:38,218
+Kara, come on!
+Go, go, go!
+
+1049
+01:30:38,553 --> 01:30:40,140
+Barolay,
+get back to camp.
+
+1050
+01:30:40,180 --> 01:30:42,389
+Doc's a Cylon,
+take him out.
+
+1051
+01:30:43,725 --> 01:30:44,725
+(GROANS)
+
+1052
+01:30:51,483 --> 01:30:56,103
+I'm Brother Cavil.
+I understand you've asked
+for religious counseling.
+
+1053
+01:30:56,988 --> 01:31:01,450
+I never really believed
+in psychotherapy.
+My father was a priest.
+
+1054
+01:31:02,452 --> 01:31:03,410
+I see.
+
+1055
+01:31:03,495 --> 01:31:08,577
+You thought you'd have
+an easier time with a priest
+than a real doctor. Okay.
+
+1056
+01:31:09,417 --> 01:31:11,991
+So, tell me
+what's on your mind, Chief.
+
+1057
+01:31:14,422 --> 01:31:17,841
+How do you know
+
+1058
+01:31:17,926 --> 01:31:20,135
+that I am human?
+
+1059
+01:31:38,780 --> 01:31:41,240
+You heard what
+Kara Thrace said?
+
+1060
+01:31:42,826 --> 01:31:44,118
+Yeah, I heard.
+
+1061
+01:31:50,542 --> 01:31:55,087
+Picture of a Pyramid star
+and their frakking
+team doctor.
+
+1062
+01:31:56,422 --> 01:31:59,758
+My husband,
+only not.
+
+1063
+01:32:02,428 --> 01:32:03,971
+He was a Cylon.
+
+1064
+01:32:06,057 --> 01:32:07,509
+I thought he loved me.
+
+1065
+01:32:08,393 --> 01:32:09,768
+(SOBS) Gods.
+
+1066
+01:32:11,563 --> 01:32:13,647
+Maybe he did.
+I don't know.
+
+1067
+01:32:18,278 --> 01:32:20,918
+Someone made him do it.
+Don't you think?
+
+1068
+01:32:20,947 --> 01:32:24,702
+I mean, they keep finding
+more of them, and they
+must've been in contact.
+
+1069
+01:32:24,742 --> 01:32:26,702
+Someone was
+making decisions.
+
+1070
+01:32:28,955 --> 01:32:33,458
+You think that somebody
+told them what to do.
+Ordered them.
+
+1071
+01:32:33,543 --> 01:32:38,097
+I think Simon was told
+to do something and
+instead he killed himself.
+
+1072
+01:32:40,091 --> 01:32:42,801
+Boomer was a better shot
+than that.
+
+1073
+01:32:42,886 --> 01:32:43,927
+What?
+
+1074
+01:32:45,305 --> 01:32:47,139
+When she shot
+the old man.
+
+1075
+01:32:50,226 --> 01:32:53,562
+She was a better shot
+than that. It's like she
+
+1076
+01:32:54,814 --> 01:32:58,778
+frakked it up on purpose,
+knowing that the Marines
+would take her head off
+
+1077
+01:32:58,818 --> 01:33:01,653
+right then and there,
+knowing that it was
+
+1078
+01:33:03,823 --> 01:33:06,074
+the only way out
+she could see.
+
+1079
+01:33:11,706 --> 01:33:15,792
+(SOBBING) So,
+maybe they were heroes,
+you know? In a way.
+
+1080
+01:33:17,128 --> 01:33:21,173
+(SIGHS) I don't know
+about that. Maybe.
+
+1081
+01:33:23,468 --> 01:33:25,636
+If I thought
+I was a Cylon,
+
+1082
+01:33:29,974 --> 01:33:32,935
+I'd climb this ladder
+all the way up there.
+
+1083
+01:33:34,437 --> 01:33:36,271
+I'd do it with style.
+
+1084
+01:33:38,066 --> 01:33:40,442
+I'd swan-dive
+out of this life.
+
+1085
+01:33:59,003 --> 01:34:01,797
+Sorry. I didn't mean
+anything by that.
+
+1086
+01:34:05,176 --> 01:34:06,343
+I know.
+
+1087
+01:34:28,700 --> 01:34:30,495
+CAVIL:
+You think you're a Cylon.
+
+1088
+01:34:30,535 --> 01:34:33,109
+That's what you're afraid of,
+isn't it?
+
+1089
+01:34:33,579 --> 01:34:38,331
+That you might be a Cylon
+and not even know it,
+just like Boomer, right?
+
+1090
+01:34:39,460 --> 01:34:42,496
+That's the thought
+that's crippling your soul.
+
+1091
+01:34:47,760 --> 01:34:52,050
+Does that frighten you?
+The idea of putting
+your trust in others?
+
+1092
+01:34:52,932 --> 01:34:54,474
+Honestly, yes.
+
+1093
+01:34:55,643 --> 01:34:58,478
+Yeah, well,
+I've done it.
+
+1094
+01:34:59,397 --> 01:35:02,399
+And they all let me down.
+
+1095
+01:35:03,401 --> 01:35:07,070
+Every single one.
+Every single one.
+
+1096
+01:35:08,114 --> 01:35:11,150
+So, yeah, it should scare
+the frak out of you.
+
+1097
+01:35:13,077 --> 01:35:14,911
+But good luck to you.
+
+1098
+01:35:20,793 --> 01:35:20,878
+This is quite
+a scrappy little group.
+Just your core people.
+
+1099
+01:35:20,918 --> 01:35:25,756
+This is quite
+a scrappy little group.
+Just your core people.
+
+1100
+01:35:27,008 --> 01:35:31,628
+There's hardly anyone
+left for you to lean on.
+But you can lean on me.
+
+1101
+01:35:32,138 --> 01:35:37,225
+You know, the day before
+I met Kara, I had 98 people.
+I loved those people.
+
+1102
+01:35:37,310 --> 01:35:39,939
+But you didn't need them
+and they're dead.
+
+1103
+01:35:39,979 --> 01:35:43,401
+Do you mean to tell me
+that you'd go on loving them
+even when they're dead?
+
+1104
+01:35:43,441 --> 01:35:46,237
+What are you talking about?
+Of course I love those people.
+
+1105
+01:35:46,277 --> 01:35:48,281
+Death doesn't change that.
+What's the matter with you?
+
+1106
+01:35:48,321 --> 01:35:49,574
+Keep it the hell down.
+
+1107
+01:35:49,614 --> 01:35:53,508
+(WHISPERING)
+Word's getting passed back,
+something's there.
+
+1108
+01:35:54,077 --> 01:35:55,660
+Move forward, stay low.
+
+1109
+01:35:57,288 --> 01:35:59,532
+SAM: All right,
+stay low, move in.
+
+1110
+01:36:02,293 --> 01:36:04,405
+(WHISPERING)
+Go, go, go, go, go.
+
+1111
+01:36:27,819 --> 01:36:30,393
+HELO: You got
+a Samuel T. Anders there?
+
+1112
+01:36:31,072 --> 01:36:33,281
+Is there
+a Kara Thrace there?
+
+1113
+01:36:35,159 --> 01:36:36,868
+Who wants to know?
+
+1114
+01:36:40,665 --> 01:36:45,153
+If there is, you tell her
+she took her good sweet time
+getting here.
+
+1115
+01:36:45,795 --> 01:36:47,045
+(LAUGHS)
+
+1116
+01:36:47,338 --> 01:36:48,672
+Friendlies.
+
+1117
+01:37:20,371 --> 01:37:22,038
+What's your name?
+
+1118
+01:37:23,207 --> 01:37:24,332
+John.
+
+1119
+01:37:37,180 --> 01:37:39,222
+We've become friends, huh?
+
+1120
+01:37:41,642 --> 01:37:43,435
+(PEOPLE CHATTERING)
+
+1121
+01:37:51,319 --> 01:37:53,570
+Friends are
+dangerous things.
+
+1122
+01:37:55,239 --> 01:37:56,573
+(INHALES SHARPLY)
+
+1123
+01:38:21,599 --> 01:38:25,493
+SAM:
+Death doesn't change that.
+What's the matter with you?
+
+1124
+01:38:52,505 --> 01:38:54,008
+As good as your word, huh?
+
+1125
+01:38:54,048 --> 01:38:56,094
+Yeah, good as
+my frakking word.
+
+1126
+01:38:56,133 --> 01:38:58,262
+What, did you think
+I was gonna leave you here?
+
+1127
+01:38:58,302 --> 01:39:00,139
+Now you feel
+like a big frakking idiot,
+don't you?
+
+1128
+01:39:00,179 --> 01:39:02,475
+All right, just shut up
+and save us already, okay?
+
+1129
+01:39:02,515 --> 01:39:04,165
+STARBUCK: Okay.
+Incoming!
+
+1130
+01:39:05,977 --> 01:39:07,644
+(PEOPLE SHOUTING)
+
+1131
+01:39:10,523 --> 01:39:12,399
+(BULLETS RICOCHETING)
+
+1132
+01:39:13,985 --> 01:39:15,652
+(GUNS FIRING)
+
+1133
+01:39:16,237 --> 01:39:17,448
+MAN: Come on,
+get in there.
+
+1134
+01:39:17,488 --> 01:39:19,402
+BOOMER: Come on,
+get in here.
+
+1135
+01:39:19,407 --> 01:39:21,449
+SAM: Get him up,
+get him up.
+
+1136
+01:39:26,622 --> 01:39:29,835
+Can't raise the Raptors.
+Cylons are jamming the freqs.
+
+1137
+01:39:29,875 --> 01:39:31,001
+Frak!
+
+1138
+01:39:46,392 --> 01:39:48,101
+(STARBUCK PANTING)
+
+1139
+01:39:49,854 --> 01:39:51,504
+Are they still out there?
+
+1140
+01:39:52,648 --> 01:39:53,857
+Watch yourself.
+
+1141
+01:39:58,946 --> 01:40:01,406
+Yeah.
+They're holding back, though.
+
+1142
+01:40:01,490 --> 01:40:03,199
+Yeah, but why?
+
+1143
+01:40:03,743 --> 01:40:05,994
+That's an excellent question.
+
+1144
+01:41:03,594 --> 01:41:05,512
+Get the frak
+out of the way.
+
+1145
+01:41:13,604 --> 01:41:16,231
+What's going on?
+Why the ceasefire?
+
+1146
+01:41:16,315 --> 01:41:17,732
+There's been a vote.
+
+1147
+01:41:17,817 --> 01:41:19,067
+A vote?
+
+1148
+01:41:19,610 --> 01:41:24,116
+There's going to be a truce.
+We just need to convey it
+to the humans.
+
+1149
+01:41:24,156 --> 01:41:25,532
+All of them.
+
+1150
+01:41:25,616 --> 01:41:27,398
+I can deliver that message.
+
+1151
+01:41:28,411 --> 01:41:30,787
+But your model
+voted against it.
+
+1152
+01:41:30,871 --> 01:41:32,785
+Well, I've had
+a new insight.
+
+1153
+01:41:33,165 --> 01:41:35,607
+Besides,
+there's nothing for me here.
+
+1154
+01:41:51,559 --> 01:41:55,645
+Commander, I have news.
+Good news, actually.
+
+1155
+01:41:56,605 --> 01:41:58,815
+The Cylon occupation is over.
+
+1156
+01:41:59,316 --> 01:42:00,942
+They left. They're gone.
+
+1157
+01:42:01,026 --> 01:42:02,113
+What are you talking about?
+
+1158
+01:42:02,153 --> 01:42:03,803
+BROTHER CAVIL: It's true.
+
+1159
+01:42:05,573 --> 01:42:07,824
+The Cylons have
+left the Colonies.
+
+1160
+01:42:07,908 --> 01:42:08,908
+Security!
+
+1161
+01:42:08,993 --> 01:42:10,243
+What the hell?
+
+1162
+01:42:11,120 --> 01:42:12,412
+Code Blue!
+
+1163
+01:42:12,496 --> 01:42:14,038
+He's a Cylon.
+
+1164
+01:42:16,333 --> 01:42:18,629
+Would you mind telling me
+what's going on?
+
+1165
+01:42:18,669 --> 01:42:20,913
+I'm not a frakking Cylon.
+I'm not…
+
+1166
+01:42:22,798 --> 01:42:24,632
+Oh. Well.
+
+1167
+01:42:26,218 --> 01:42:27,552
+Okay, then.
+
+1168
+01:42:30,264 --> 01:42:32,599
+Sorry to bust up
+your day, Brother,
+
+1169
+01:42:32,683 --> 01:42:34,603
+but there's been
+a change of plan.
+
+1170
+01:42:34,643 --> 01:42:37,547
+The occupation
+of the Colonies was an error.
+
+1171
+01:42:37,813 --> 01:42:39,529
+My mission here
+is simple.
+
+1172
+01:42:40,691 --> 01:42:43,991
+I'm to tell you that
+you've been given
+a reprieve.
+
+1173
+01:42:44,278 --> 01:42:48,156
+Cylon and man
+will now go
+their separate ways.
+
+1174
+01:42:48,240 --> 01:42:49,324
+No harm done.
+
+1175
+01:42:49,408 --> 01:42:50,742
+ADAMA: No harm?
+
+1176
+01:42:51,076 --> 01:42:52,830
+You completely
+annihilated our race
+
+1177
+01:42:52,870 --> 01:42:55,079
+and destroyed
+our civilization.
+
+1178
+01:42:55,790 --> 01:42:58,335
+Now, if you're gonna start
+pointing fingers…
+
+1179
+01:42:58,375 --> 01:43:00,794
+You see, we're not like you.
+
+1180
+01:43:00,878 --> 01:43:03,966
+We can admit our mistakes,
+and we're not afraid
+of change.
+
+1181
+01:43:04,006 --> 01:43:07,383
+New marching orders
+by your one true God?
+
+1182
+01:43:08,052 --> 01:43:09,677
+There is no God.
+
+1183
+01:43:10,346 --> 01:43:13,350
+Supernatural divinities
+are the primitive's answer
+
+1184
+01:43:13,390 --> 01:43:15,436
+for why the sun
+goes down at night.
+
+1185
+01:43:15,476 --> 01:43:18,105
+At least that's what
+we've been telling
+the others for years.
+
+1186
+01:43:18,145 --> 01:43:20,483
+We can't really prove it
+one way or the other,
+of course.
+
+1187
+01:43:20,523 --> 01:43:23,031
+TIGH: Enough.
+Let's airlock them both.
+
+1188
+01:43:27,321 --> 01:43:28,780
+ADAMA: Airlock them.
+
+1189
+01:43:41,752 --> 01:43:43,005
+Hold it at the door.
+
+1190
+01:43:43,045 --> 01:43:44,101
+GUARD: Yes, sir.
+
+1191
+01:43:45,172 --> 01:43:46,756
+TIGH: Check the hall.
+
+1192
+01:43:47,758 --> 01:43:49,509
+Stop. Stop.
+
+1193
+01:43:52,471 --> 01:43:56,563
+Sweep the halls.
+Clear up ahead,
+there are too many civilians.
+
+1194
+01:44:07,069 --> 01:44:08,903
+Not how I imagined it.
+
+1195
+01:44:08,988 --> 01:44:10,308
+(SIGHS) No, Brother.
+
+1196
+01:44:10,322 --> 01:44:11,614
+All right.
+
+1197
+01:44:48,277 --> 01:44:50,904
+Is there a Resurrection ship
+in range?
+
+1198
+01:44:50,988 --> 01:44:52,447
+(ALARM BLARING)
+
+1199
+01:44:52,531 --> 01:44:55,536
+Yes, Brother.
+But first,
+we're gonna die in a vacuum.
+
+1200
+01:44:55,576 --> 01:44:57,872
+There's a 170-foot
+launch tube in front of us.
+
+1201
+01:44:57,912 --> 01:45:01,674
+We might die of our injuries
+before we get to the vacuum.
+
+1202
+01:45:03,500 --> 01:45:04,918
+I don't like you.
+
+1203
+01:45:05,002 --> 01:45:06,419
+I understand that.
+
+1204
+01:45:06,587 --> 01:45:09,884
+Do you really believe
+it was a mistake
+to attack the humans?
+
+1205
+01:45:09,924 --> 01:45:11,841
+Rather intensely, yes.
+
+1206
+01:45:12,593 --> 01:45:14,555
+You know that
+when we download
+among the others,
+
+1207
+01:45:14,595 --> 01:45:17,057
+your strange ideas
+will be shouted down.
+
+1208
+01:45:17,097 --> 01:45:20,477
+Ideas only seem strange
+until you try them on,
+Brother.
+
+1209
+01:45:20,517 --> 01:45:23,314
+We had a temper tantrum
+in the form of a cataclysm
+
+1210
+01:45:23,354 --> 01:45:27,318
+because we wanted them
+to treasure us, the Ones,
+more than humanity.
+
+1211
+01:45:27,358 --> 01:45:29,612
+More than their
+own history and blood.
+
+1212
+01:45:29,652 --> 01:45:33,991
+(SCOFFS) We didn't want
+to be loved. We wanted
+to be treated fairly.
+
+1213
+01:45:34,031 --> 01:45:36,616
+We wanted to be
+held to a bosom,
+
+1214
+01:45:36,700 --> 01:45:40,915
+to be petted and perfumed
+and told we were
+the princes of the universe.
+
+1215
+01:45:40,955 --> 01:45:43,626
+(SCOFFS) Yes, well,
+if the humans were gone…
+
+1216
+01:45:43,666 --> 01:45:45,792
+Our parents
+would mourn them.
+
+1217
+01:45:45,876 --> 01:45:47,856
+They'd love them more,
+anyway.
+
+1218
+01:45:49,004 --> 01:45:52,674
+I am going to see to it
+that you get boxed.
+
+1219
+01:45:52,758 --> 01:45:57,246
+And then I'm going
+to prepare to wipe out
+humanity once and for all.
+
+1220
+01:46:00,099 --> 01:46:03,184
+The anticipation
+is really unpleasant.
+
+1221
+01:46:05,980 --> 01:46:07,063
+Yes.
+
+1222
+01:46:23,372 --> 01:46:25,081
+(AIRLOCK OPENING)
+
+1223
+01:46:27,501 --> 01:46:29,613
+CAVIL:
+I don't want to be human!
+
+1224
+01:46:30,421 --> 01:46:32,071
+I want to see gamma rays.
+
+1225
+01:46:32,131 --> 01:46:35,174
+I want to hear x-rays,
+and I want to…
+
+1226
+01:46:35,259 --> 01:46:37,677
+I want to smell dark matter.
+
+1227
+01:46:37,761 --> 01:46:40,057
+I want
+to reach out with something
+other than these
+
+1228
+01:46:40,097 --> 01:46:42,432
+prehensile paws
+
+1229
+01:46:42,516 --> 01:46:46,310
+and feel the solar
+wind of a supernova
+flowing over me.
+
+1230
+01:46:48,439 --> 01:46:50,148
+I'm a machine,
+
+1231
+01:46:51,191 --> 01:46:53,276
+and I could know much more.
+
+1232
+01:47:02,953 --> 01:47:05,538
+(WOMAN SINGING
+IN FOREIGN LANGUAGE)
+
+1233
+01:48:31,875 --> 01:48:33,876
+(DRAMATIC MUSIC PLAYING)
+

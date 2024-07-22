@@ -1,0 +1,5147 @@
+﻿1
+00:00:46,980 --> 00:00:50,110
+<font color=#ffff00><i>My generation,
+we were born into war.</i></font>
+
+2
+00:00:54,710 --> 00:00:57,330
+<font color=#ffff00><i>Giant monsters attacked our world.</i></font>
+
+3
+00:00:58,690 --> 00:01:01,440
+<font color=#ffff00><i>We called them 'Kaiju'.</i></font>
+
+4
+00:01:02,810 --> 00:01:04,850
+<font color=#ffff00><i>They came through the breach.</i></font>
+
+5
+00:01:05,230 --> 00:01:10,040
+<font color=#ffff00><i>A gateway to another dimension, at
+the bottom of the Pacific Ocean.</i></font>
+
+6
+00:01:10,320 --> 00:01:12,900
+<font color=#ffff00><i>They were sent by an alien race
+on the other side...</i></font>
+
+7
+00:01:13,680 --> 00:01:15,820
+<font color=#ffff00><i>the Precursors.</i></font>
+
+8
+00:01:16,400 --> 00:01:18,620
+<font color=#ffff00><i>We fought back...</i></font>
+
+9
+00:01:18,640 --> 00:01:20,790
+<font color=#ffff00><i>built in our own monsters.</i></font>
+
+10
+00:01:20,970 --> 00:01:23,960
+<font color=#ffff00><i>Jaegers, giant robots.</i></font>
+
+11
+00:01:24,140 --> 00:01:26,880
+<font color=#ffff00><i>So big they needed
+two pilots to run them.</i></font>
+
+12
+00:01:28,580 --> 00:01:30,400
+<font color=#ffff00><i>My father was one of them.</i></font>
+
+13
+00:01:31,690 --> 00:01:34,480
+<font color=#ffff00><i>He sacrificed himself
+to help save the world.</i></font>
+
+14
+00:01:38,410 --> 00:01:41,190
+<font color=#ffff00><i>I am not my father.</i></font>
+
+15
+00:01:44,440 --> 00:01:48,930
+<font color=#ffff00><i>It's been 10 years since we won the
+war and closed the breach.</i></font>
+
+16
+00:01:49,910 --> 00:01:52,320
+<font color=#ffff00><i>Most of the world has recovered...</i></font>
+
+17
+00:01:52,340 --> 00:01:55,260
+<font color=#ffff00><i>but few coastal cities never did.</i></font>
+
+18
+00:01:55,340 --> 00:01:58,250
+<font color=#ffff00><i>And the world is still
+picking up the pieces.</i></font>
+
+19
+00:02:04,180 --> 00:02:07,330
+<font color=#ffff00><i>But some of us live
+better in a broken world.</i></font>
+
+20
+00:02:11,460 --> 00:02:14,330
+<font color=#ffff00><i>And squatting in half a mansion...</i></font>
+
+21
+00:02:14,350 --> 00:02:17,540
+<font color=#ffff00><i>is better than paying for
+some crappy apartment.</i></font>
+
+22
+00:02:17,720 --> 00:02:20,619
+<font color=#ffff00><i>Now in the relief zones
+you have to get creative,</i></font>
+
+23
+00:02:20,620 --> 00:02:21,830
+<font color=#ffff00><i>you have to hustle.</i></font>
+
+24
+00:02:21,850 --> 00:02:24,430
+<font color=#ffff00><i>Somebody else might eat
+your breakfast.</i></font>
+
+25
+00:02:26,490 --> 00:02:28,710
+<font color=#ffff00><i>And your cookies.</i></font>
+
+26
+00:02:30,630 --> 00:02:32,710
+<font color=#ffff00><i>And your damn hot sauce.</i></font>
+
+27
+00:02:32,740 --> 00:02:36,240
+<font color=#ffff00><i>You know out here we place a
+different value on things.</i></font>
+
+28
+00:02:38,470 --> 00:02:41,619
+<font color=#ffff00><i>The Pan Pacific Defense Corps
+usually looks the other way...</i></font>
+
+29
+00:02:41,620 --> 00:02:44,880
+<font color=#ffff00><i>as long as you don't go poking
+around where you don't belong.</i></font>
+
+30
+00:02:44,890 --> 00:02:49,220
+<font color=#ffff00><i>Say like a, decommissioned
+Jaeger scrape yard.</i></font>
+
+31
+00:02:49,860 --> 00:02:52,930
+<font color=#ffff00><i>Big risks mean big rewards...</i></font>
+
+32
+00:02:52,950 --> 00:02:56,240
+<font color=#ffff00><i>and nothing pays more
+than stolen Jaegertech.</i></font>
+
+33
+00:02:56,530 --> 00:03:00,550
+<font color=#ffff00><i>Plenty of nutcases out here
+trying to make their own Jaegers.</i></font>
+
+34
+00:03:03,140 --> 00:03:05,370
+<font color=#ffff00><i>But they need the parts to do it.</i></font>
+
+35
+00:03:06,850 --> 00:03:10,290
+<font color=#ffff00><i>So if you can steal what
+no one else can steal...</i></font>
+
+36
+00:03:12,480 --> 00:03:14,900
+<font color=#ffff00><i>you can live like a king.</i></font>
+
+37
+00:03:20,490 --> 00:03:22,010
+<font color=#ffff00>Are you sure it's in here?</font>
+
+38
+00:03:22,030 --> 00:03:25,090
+<font color=#ffff00>Power cords are stripped before
+they get decommissioned...</font>
+
+39
+00:03:25,110 --> 00:03:28,479
+<font color=#ffff00>but sometimes they miss the
+tertiary plasma capacitors.</font>
+
+40
+00:03:28,480 --> 00:03:31,430
+<font color=#ffff00>And that's a big score.
+This one is still holding the charge.</font>
+
+41
+00:03:34,320 --> 00:03:36,509
+<font color=#ffff00>You better hope so.</font>
+
+42
+00:03:36,510 --> 00:03:40,199
+<font color=#ffff00>OK. Just calm down.
+Just not get excited.</font>
+
+43
+00:03:40,200 --> 00:03:41,380
+<font color=#ffff00>I'm just playing the odds here.</font>
+
+44
+00:03:41,400 --> 00:03:44,739
+<font color=#ffff00>You cheated Barada and while you
+escaped another Chau in Hong Kong.</font>
+
+45
+00:03:44,740 --> 00:03:48,649
+<font color=#ffff00>- That was a misunderstanding.
+- And stole from me, my own backyard.</font>
+
+46
+00:03:48,650 --> 00:03:52,500
+<font color=#ffff00>Now I'm stealing for you.
+Cycle of life.</font>
+
+47
+00:03:52,530 --> 00:03:55,510
+<font color=#ffff00>- You good?
+- You deliver...</font>
+
+48
+00:03:55,920 --> 00:03:57,620
+<font color=#ffff00>Yeah.</font>
+
+49
+00:03:58,360 --> 00:04:01,750
+<font color=#ffff00>- We good.
+- Okay.</font>
+
+50
+00:04:08,890 --> 00:04:12,270
+<font color=#ffff00>- Let's get rich.
+- Nice.</font>
+
+51
+00:04:21,240 --> 00:04:23,720
+<font color=#ffff00><i>Target locked.</i></font>
+
+52
+00:04:23,750 --> 00:04:25,560
+<font color=#ffff00>Where is it?</font>
+
+53
+00:04:26,680 --> 00:04:29,270
+<font color=#ffff00>Hey man, uh...
+Just a little situation.</font>
+
+54
+00:04:29,290 --> 00:04:32,270
+<font color=#ffff00>It says it's here.
+It is supposed to be right there.</font>
+
+55
+00:04:32,360 --> 00:04:34,480
+<font color=#ffff00>Well, you know what,
+Let me just figure this out.</font>
+
+56
+00:04:37,080 --> 00:04:39,580
+<font color=#ffff00>Somebody please kill this guy for me.</font>
+
+57
+00:04:39,650 --> 00:04:41,620
+<font color=#ffff00><i>Target moving.</i></font>
+
+58
+00:04:41,700 --> 00:04:45,200
+<font color=#ffff00>No, it's here. You wait, wait.
+Some one else is in here.</font>
+
+59
+00:04:45,220 --> 00:04:47,639
+<font color=#ffff00>Someone else has the capacitor.
+Now, let's go. Come on!</font>
+
+60
+00:04:47,640 --> 00:04:49,940
+<font color=#ffff00>Jake! Jake! Wait!</font>
+
+61
+00:04:51,270 --> 00:04:52,590
+<font color=#ffff00>Son of a.</font>
+
+62
+00:04:55,160 --> 00:04:56,950
+<font color=#ffff00>Go, go, go!</font>
+
+63
+00:04:57,140 --> 00:04:58,520
+<font color=#ffff00>Spread out.</font>
+
+64
+00:05:19,730 --> 00:05:21,080
+<font color=#ffff00><i>Come on, Jake!</i></font>
+
+65
+00:05:26,430 --> 00:05:28,700
+<font color=#ffff00><i>- Boss, he went through here!
+- Hurry up.</i></font>
+
+66
+00:05:28,730 --> 00:05:30,750
+<font color=#ffff00><i>I see him. I see him.</i></font>
+
+67
+00:05:46,000 --> 00:05:49,760
+<font color=#ffff00>Jake, Jake, Jake. Nice try.</font>
+
+68
+00:05:57,400 --> 00:05:59,560
+<font color=#ffff00>- Yeah. We're good!
+- Jake.</font>
+
+69
+00:06:01,520 --> 00:06:02,870
+<font color=#ffff00>Jake, you son of a...</font>
+
+70
+00:06:05,770 --> 00:06:09,070
+<font color=#ffff00><i>Target locked.</i></font>
+
+71
+00:06:12,770 --> 00:06:15,250
+<font color=#ffff00>Hey. Get back here.</font>
+
+72
+00:06:55,530 --> 00:06:57,740
+<font color=#ffff00><i>Target moving</i></font>
+
+73
+00:07:34,940 --> 00:07:36,640
+<font color=#ffff00><i>HELP WIN THIS WAR.</i></font>
+
+74
+00:07:39,240 --> 00:07:42,110
+<font color=#ffff00><i>END OF THE KAIJU WAR.
+KAIJU WAR IS OVER.</i></font>
+
+75
+00:07:42,140 --> 00:07:45,340
+<font color=#ffff00><i>SHAO PLANS TECH TAKE-OVER.
+Jaeger MARK VI.</i></font>
+
+76
+00:08:28,940 --> 00:08:31,630
+<font color=#ffff00>- How old are you?
+- Old enough to kick your ass.</font>
+
+77
+00:08:32,490 --> 00:08:35,440
+<font color=#ffff00>Let's take a second.
+Back off. Back off.</font>
+
+78
+00:08:35,800 --> 00:08:38,410
+<font color=#ffff00>- You build this to yourself?
+- What do you think?</font>
+
+79
+00:08:38,730 --> 00:08:41,619
+<font color=#ffff00>I think I can sell your
+little toy for a whole lot of money.</font>
+
+80
+00:08:41,620 --> 00:08:43,760
+<font color=#ffff00>Scrapper is not a toy
+and she is not for sale.</font>
+
+81
+00:08:43,770 --> 00:08:45,860
+<font color=#ffff00>The man holding
+the pipe says yes.</font>
+
+82
+00:08:45,890 --> 00:08:47,710
+<font color=#ffff00>So listen up...</font>
+
+83
+00:08:49,060 --> 00:08:51,180
+<font color=#ffff00>- You led them here?
+- It's impossible.</font>
+
+84
+00:08:54,670 --> 00:08:56,060
+<font color=#ffff00>What the hell now?</font>
+
+85
+00:09:12,820 --> 00:09:14,200
+<font color=#ffff00>Come on. Come on. Come on.</font>
+
+86
+00:09:15,480 --> 00:09:18,840
+<font color=#ffff00>Yes. It works!</font>
+
+87
+00:09:27,340 --> 00:09:29,490
+<font color=#ffff00>Hey! Get out!
+What are you doing?</font>
+
+88
+00:09:29,520 --> 00:09:31,550
+<font color=#ffff00>- No no. Stop.
+- Where is it?</font>
+
+89
+00:09:31,790 --> 00:09:34,970
+<font color=#ffff00>Don't touch that.
+Hey! What are you doing?</font>
+
+90
+00:09:35,000 --> 00:09:36,420
+<font color=#ffff00>- Where is the other one?
+- The other what?</font>
+
+91
+00:09:36,440 --> 00:09:38,010
+<font color=#ffff00>The other cray door,
+A Jaeger needs two pilots.</font>
+
+92
+00:09:38,030 --> 00:09:40,480
+<font color=#ffff00>Scrapper is small enough
+to run on a single neural lobe.</font>
+
+93
+00:09:40,510 --> 00:09:42,400
+<font color=#ffff00>Either you get out or you let me pilot it.</font>
+
+94
+00:09:42,470 --> 00:09:44,990
+<font color=#ffff00>- Get out.
+- Screw that.</font>
+
+95
+00:09:53,090 --> 00:09:55,600
+<font color=#ffff00>- Told you she is not a toy.
+- You're gonna get us killed.</font>
+
+96
+00:09:55,630 --> 00:09:58,030
+<font color=#ffff00>- I can get us out of here.
+- I just got us out.</font>
+
+97
+00:10:04,060 --> 00:10:06,120
+<font color=#ffff00>Oh my God.</font>
+
+98
+00:10:08,200 --> 00:10:10,199
+<font color=#ffff00>That's November Ajax.</font>
+
+99
+00:10:10,200 --> 00:10:12,519
+<font color=#ffff00>Pilots of unregistered Jaeger,</font>
+
+100
+00:10:12,520 --> 00:10:15,350
+<font color=#ffff00>this is the Pan Pacific Defense Corp.</font>
+
+101
+00:10:15,530 --> 00:10:18,940
+<font color=#ffff00>Power down and exit your comm pod.</font>
+
+102
+00:10:20,970 --> 00:10:24,719
+<font color=#ffff00>No, no, don't give up.
+You give up way too easy.</font>
+
+103
+00:10:24,720 --> 00:10:26,460
+<font color=#ffff00>That's what they think.</font>
+
+104
+00:10:36,310 --> 00:10:37,690
+<font color=#ffff00>Stop.</font>
+
+105
+00:10:40,320 --> 00:10:43,539
+<font color=#ffff00>You are in violation of
+code ten, section 14,</font>
+
+106
+00:10:43,540 --> 00:10:46,119
+<font color=#ffff00>operation of an unregistered Jaeger.</font>
+
+107
+00:10:46,120 --> 00:10:47,700
+<font color=#ffff00>- Hang on.
+- I am hanging on.</font>
+
+108
+00:10:47,720 --> 00:10:49,050
+<font color=#ffff00>Hang tighter.</font>
+
+109
+00:11:00,860 --> 00:11:02,380
+<font color=#ffff00>Seriously?</font>
+
+110
+00:11:04,360 --> 00:11:05,750
+<font color=#ffff00>Stop.</font>
+
+111
+00:11:22,480 --> 00:11:23,989
+<font color=#ffff00>See?</font>
+
+112
+00:11:23,990 --> 00:11:26,440
+<font color=#ffff00>I just outplayed with November Ajax.</font>
+
+113
+00:11:26,470 --> 00:11:28,720
+<font color=#ffff00>- No you didn't.
+- I did.</font>
+
+114
+00:11:31,300 --> 00:11:32,600
+<font color=#ffff00>Didn't.</font>
+
+115
+00:11:34,460 --> 00:11:37,630
+<font color=#ffff00>OK. What do you got?
+And I'm not getting out.</font>
+
+116
+00:11:38,550 --> 00:11:40,970
+<font color=#ffff00>- One of those ion cells redundant?
+- No.</font>
+
+117
+00:11:40,990 --> 00:11:42,910
+<font color=#ffff00>- They are now.
+- But we need that.</font>
+
+118
+00:11:42,930 --> 00:11:43,910
+<font color=#ffff00>Get up to Ajax's head.</font>
+
+119
+00:11:43,940 --> 00:11:45,840
+<font color=#ffff00>- What?
+- Go!</font>
+
+120
+00:11:59,810 --> 00:12:01,140
+<font color=#ffff00><i>Power down...</i></font>
+
+121
+00:12:07,710 --> 00:12:09,920
+<font color=#ffff00><i>Low power warning.
+Twelve percent.</i></font>
+
+122
+00:12:09,950 --> 00:12:12,700
+<font color=#ffff00>- I told you we needed that.
+- It worked didn't it?</font>
+
+123
+00:12:12,720 --> 00:12:14,350
+<font color=#ffff00><i>Eleven percent.</i></font>
+
+124
+00:12:18,010 --> 00:12:20,470
+<font color=#ffff00>How long before Ajax can
+reboot its systems?</font>
+
+125
+00:12:24,750 --> 00:12:26,580
+<font color=#ffff00>About that long.</font>
+
+126
+00:12:31,190 --> 00:12:35,290
+<font color=#ffff00>Power down.
+This is your final warning.</font>
+
+127
+00:12:51,650 --> 00:12:54,060
+<font color=#ffff00>Alright! Lets go.</font>
+
+128
+00:13:04,940 --> 00:13:08,340
+<font color=#ffff00>Look what you did
+to my Jaeger you jerk.</font>
+
+129
+00:13:20,090 --> 00:13:22,370
+<font color=#ffff00>You should have let me pilot it.</font>
+
+130
+00:13:22,460 --> 00:13:24,580
+<font color=#ffff00>Oh like this is my fault.</font>
+
+131
+00:13:24,600 --> 00:13:26,920
+<font color=#ffff00>You compromised my command center.</font>
+
+132
+00:13:27,300 --> 00:13:30,680
+<font color=#ffff00>Wow. Your command center?
+Sorry, sorry to hear that.</font>
+
+133
+00:13:30,700 --> 00:13:34,510
+<font color=#ffff00>And you had no place to come in
+and try to tell me what to do.</font>
+
+134
+00:13:34,530 --> 00:13:36,710
+<font color=#ffff00>I go where I want.
+This is different world.</font>
+
+135
+00:13:36,720 --> 00:13:37,870
+<font color=#ffff00>Look where we're at.</font>
+
+136
+00:13:37,900 --> 00:13:40,550
+<font color=#ffff00>Your top lip and your bottom lip
+need then need to meet and become friend.</font>
+
+137
+00:13:40,570 --> 00:13:45,180
+<font color=#ffff00>They need to close up. Alright?
+Shut up! Shut up! Conversation done.</font>
+
+138
+00:13:45,200 --> 00:13:46,780
+<font color=#ffff00>Junkyard baby.</font>
+
+139
+00:13:51,500 --> 00:13:54,200
+<font color=#ffff00>- Why did you build it?
+- What happened to the shutting up?</font>
+
+140
+00:13:54,220 --> 00:13:57,570
+<font color=#ffff00>Says you wasn't gonna sell it.
+What the hell was you gonna do?</font>
+
+141
+00:13:57,590 --> 00:13:59,290
+<font color=#ffff00>Rob a bank or something?</font>
+
+142
+00:14:00,970 --> 00:14:04,220
+<font color=#ffff00>I built her because one day
+they are gonna come back.</font>
+
+143
+00:14:05,100 --> 00:14:06,510
+<font color=#ffff00>The Kaiju.</font>
+
+144
+00:14:06,790 --> 00:14:09,159
+<font color=#ffff00>And then do I'm not
+gonna be stuck waiting</font>
+
+145
+00:14:09,160 --> 00:14:11,320
+<font color=#ffff00>for some one else
+to come save my ass.</font>
+
+146
+00:14:13,990 --> 00:14:15,770
+<font color=#ffff00>Not like before.</font>
+
+147
+00:14:24,030 --> 00:14:25,630
+<font color=#ffff00>You, let's go.</font>
+
+148
+00:14:26,520 --> 00:14:29,309
+<font color=#ffff00><i>I do not wanna talk about it.
+It's ridiculous.</i></font>
+
+149
+00:14:29,310 --> 00:14:31,300
+<font color=#ffff00><i>I have the right to silence...</i></font>
+
+150
+00:14:45,710 --> 00:14:47,090
+<font color=#ffff00><i>Hello, Jake.</i></font>
+
+151
+00:14:49,270 --> 00:14:51,070
+<font color=#ffff00><i>Here we are again.</i></font>
+
+152
+00:14:51,260 --> 00:14:53,710
+<font color=#ffff00>Just a stretch of bad luck I figure out.</font>
+
+153
+00:14:53,740 --> 00:14:57,410
+<font color=#ffff00><i>Your father used to say
+we make our own luck.</i></font>
+
+154
+00:14:57,690 --> 00:14:59,510
+<font color=#ffff00>Yeah, well. Dad said a lot of things.</font>
+
+155
+00:14:59,530 --> 00:15:01,889
+<font color=#ffff00><i>You were arrested in a rogue Jaeger.</i></font>
+
+156
+00:15:01,890 --> 00:15:04,566
+<font color=#ffff00>Hold on a second. That wasn't my Jaeger.
+This little kid, she's about...</font>
+
+157
+00:15:04,590 --> 00:15:09,110
+<font color=#ffff00><i>You have priors.
+This is serious.</i></font>
+
+158
+00:15:09,800 --> 00:15:12,069
+<font color=#ffff00>That's why I need my big sis</font>
+
+159
+00:15:12,070 --> 00:15:13,820
+<font color=#ffff00>to help me get
+the hell out of here.</font>
+
+160
+00:15:13,900 --> 00:15:15,740
+<font color=#ffff00>Just one last time.</font>
+
+161
+00:15:15,760 --> 00:15:18,490
+<font color=#ffff00><i>They are not going to
+let you just walk.</i></font>
+
+162
+00:15:18,500 --> 00:15:20,660
+<font color=#ffff00><i>But there might be another way.</i></font>
+
+163
+00:15:20,840 --> 00:15:23,260
+<font color=#ffff00>OK. See, that's what I wanna
+hear, let's talk about.</font>
+
+164
+00:15:23,270 --> 00:15:25,570
+<font color=#ffff00>The other way. Lay it on me.
+What do I gotta do?</font>
+
+165
+00:15:25,600 --> 00:15:28,460
+<font color=#ffff00><i>Re enlist and finish what you started.</i></font>
+
+166
+00:15:28,550 --> 00:15:31,510
+<font color=#ffff00>I am not doing that.
+I am too old to be a cadet.</font>
+
+167
+00:15:31,540 --> 00:15:33,390
+<font color=#ffff00><i>I don't want you to be a cadet.</i></font>
+
+168
+00:15:33,400 --> 00:15:35,060
+<font color=#ffff00><i>I want you to help train them.</i></font>
+
+169
+00:15:35,090 --> 00:15:37,480
+<font color=#ffff00>Train who? Train what?
+I am not training no damn kids.</font>
+
+170
+00:15:37,510 --> 00:15:40,780
+<font color=#ffff00><i>The transport is standing by to
+bring both of you to Moyulan.</i></font>
+
+171
+00:15:40,800 --> 00:15:41,960
+<font color=#ffff00>Both of us?</font>
+
+172
+00:15:41,990 --> 00:15:43,870
+<font color=#ffff00><i>You and your new recruit.</i></font>
+
+173
+00:15:43,890 --> 00:15:45,200
+<font color=#ffff00>Mako.</font>
+
+174
+00:15:51,120 --> 00:15:53,550
+<font color=#ffff00>I can't believe she
+just hologramed me.</font>
+
+175
+00:15:59,150 --> 00:16:01,730
+<font color=#ffff00><b>PPDC PILOT ACADEMY.</b></font>
+
+176
+00:16:01,750 --> 00:16:05,250
+<font color=#ffff00><b>MOYULAN SHATTERDOME
+CHINA.</b></font>
+
+177
+00:16:15,040 --> 00:16:17,579
+<font color=#ffff00>Yeah. Look, I didn't have a choice.</font>
+
+178
+00:16:17,580 --> 00:16:19,780
+<font color=#ffff00>I know I get it, but why me?</font>
+
+179
+00:16:19,810 --> 00:16:21,869
+<font color=#ffff00>Why do they want me for the program?</font>
+
+180
+00:16:21,870 --> 00:16:23,830
+<font color=#ffff00>You built and piloted
+your own Jaeger.</font>
+
+181
+00:16:23,850 --> 00:16:25,960
+<font color=#ffff00>These people like
+that kind of stuff.</font>
+
+182
+00:16:25,970 --> 00:16:29,340
+<font color=#ffff00>So then why am I just a cadet
+and you get to be a ranger.</font>
+
+183
+00:16:31,090 --> 00:16:32,730
+<font color=#ffff00>Valor Omega.</font>
+
+184
+00:16:34,470 --> 00:16:39,240
+<font color=#ffff00>Oh my God, that is Valor Omega.</font>
+
+185
+00:16:40,220 --> 00:16:41,610
+<font color=#ffff00>Scrapper.</font>
+
+186
+00:16:49,070 --> 00:16:50,820
+<font color=#ffff00>You gotta be kidding me.</font>
+
+187
+00:16:50,840 --> 00:16:53,280
+<font color=#ffff00>I didn't believe it when they
+told me you were inbound.</font>
+
+188
+00:16:53,310 --> 00:16:56,299
+<font color=#ffff00>- How you doing, Nate?
+- It's Ranger Lambert.</font>
+
+189
+00:16:56,300 --> 00:16:57,470
+<font color=#ffff00>Yeah, with love.</font>
+
+190
+00:16:57,490 --> 00:16:59,760
+<font color=#ffff00>Well, This is a military base.
+You remember how that works..</font>
+
+191
+00:16:59,780 --> 00:17:01,620
+<font color=#ffff00>Ranger Pentecost.</font>
+
+192
+00:17:02,280 --> 00:17:06,999
+<font color=#ffff00>- And you must be Amara Namani.
+- Yes sir. Ranger, sir.</font>
+
+193
+00:17:07,000 --> 00:17:08,610
+<font color=#ffff00>Let's get you squared away.</font>
+
+194
+00:17:10,310 --> 00:17:13,500
+<font color=#ffff00>And and, try not to steal
+anything while you're here.</font>
+
+195
+00:17:15,060 --> 00:17:17,220
+<font color=#ffff00>Did that haircut just call you Pentecost?</font>
+
+196
+00:17:17,390 --> 00:17:19,760
+<font color=#ffff00>As in 'Bad ass Stacker Pentecost'?</font>
+
+197
+00:17:19,790 --> 00:17:24,370
+<font color=#ffff00>Pilot of Coyote Tango, hero
+of basically the whole world?</font>
+
+198
+00:17:24,400 --> 00:17:27,600
+<font color=#ffff00>- It's just a name.
+- Yeah, really cool name.</font>
+
+199
+00:17:29,740 --> 00:17:33,620
+<font color=#ffff00>Simtraining starts at 0600. If
+you are late, you miss the day.</font>
+
+200
+00:17:33,650 --> 00:17:35,690
+<font color=#ffff00>You fall behind,
+you'll be on the next transport</font>
+
+201
+00:17:35,720 --> 00:17:37,519
+<font color=#ffff00>back to wherever they found you.</font>
+
+202
+00:17:37,520 --> 00:17:39,910
+<font color=#ffff00>That's Titan Redeemer.</font>
+
+203
+00:17:41,430 --> 00:17:45,100
+<font color=#ffff00>And Bracer Phoenix.
+She is a 3 man rig.</font>
+
+204
+00:17:45,120 --> 00:17:48,659
+<font color=#ffff00>Saber Athena. I love Saber Athena.</font>
+
+205
+00:17:48,660 --> 00:17:50,879
+<font color=#ffff00>She is the fastest in the fleet.
+Did you know that?</font>
+
+206
+00:17:50,880 --> 00:17:53,560
+<font color=#ffff00><i>Warning: stay clear of lift.</i></font>
+
+207
+00:17:53,630 --> 00:17:55,160
+<font color=#ffff00>Which one is yours?</font>
+
+208
+00:17:58,380 --> 00:18:00,000
+<font color=#ffff00>Gipsy.</font>
+
+209
+00:18:03,410 --> 00:18:06,240
+<font color=#ffff00>- You pilot Gipsy Avenger?
+- He used to.</font>
+
+210
+00:18:06,270 --> 00:18:09,400
+<font color=#ffff00>Until his co-pilot got a better
+offer in the private sector.</font>
+
+211
+00:18:09,420 --> 00:18:11,350
+<font color=#ffff00>Jules Reyes, J-Tech.</font>
+
+212
+00:18:11,380 --> 00:18:13,540
+<font color=#ffff00>Amara, cadet.</font>
+
+213
+00:18:14,500 --> 00:18:15,770
+<font color=#ffff00>Jake.</font>
+
+214
+00:18:15,890 --> 00:18:19,210
+<font color=#ffff00>- Ranger, apparently.
+- Heard a lot about you, Pentecost.</font>
+
+215
+00:18:19,890 --> 00:18:22,770
+<font color=#ffff00>- You know you still hold the record.
+- What record? Shut up.</font>
+
+216
+00:18:22,910 --> 00:18:26,410
+<font color=#ffff00>So how did they lure you back?
+I mean it couldn't have been the pay.</font>
+
+217
+00:18:26,480 --> 00:18:28,209
+<font color=#ffff00>Oh yes, it's a long story,
+but if you</font>
+
+218
+00:18:28,210 --> 00:18:30,130
+<font color=#ffff00>if you want to talk about it,
+then we can meet up...</font>
+
+219
+00:18:30,150 --> 00:18:31,480
+<font color=#ffff00>She is busy.</font>
+
+220
+00:18:36,860 --> 00:18:38,810
+<font color=#ffff00>Eyes front, Pentecost.</font>
+
+221
+00:18:44,000 --> 00:18:46,580
+<font color=#ffff00>- Come on, Renata, not the face.
+- Sorry man.</font>
+
+222
+00:18:50,200 --> 00:18:52,830
+<font color=#ffff00>I raise you, two shower chips.</font>
+
+223
+00:18:53,410 --> 00:18:56,429
+<font color=#ffff00>Fold, Ilya. You need all the
+showers you can getting there.</font>
+
+224
+00:18:56,430 --> 00:18:59,450
+<font color=#ffff00>I have musk.
+What you smell is musk.</font>
+
+225
+00:18:59,470 --> 00:19:00,710
+<font color=#ffff00>Ranger on deck.</font>
+
+226
+00:19:00,740 --> 00:19:03,530
+<font color=#ffff00><i>Audio system deactivated.</i></font>
+
+227
+00:19:05,420 --> 00:19:08,870
+<font color=#ffff00>Cadets, this is Amara Namani.</font>
+
+228
+00:19:08,900 --> 00:19:11,180
+<font color=#ffff00>She will be joining you in sim
+training right and early.</font>
+
+229
+00:19:11,200 --> 00:19:14,460
+<font color=#ffff00>And this is ranger Pentecost.
+He will be helping me instruct you...</font>
+
+230
+00:19:14,490 --> 00:19:17,620
+<font color=#ffff00>until I can find a new co-pilot
+to replace Ranger Burke.</font>
+
+231
+00:19:17,910 --> 00:19:19,300
+<font color=#ffff00>Anything you like to add?</font>
+
+232
+00:19:20,990 --> 00:19:22,600
+<font color=#ffff00>Nothing you want to hear.</font>
+
+233
+00:19:25,710 --> 00:19:28,860
+<font color=#ffff00>Malikova, get Namani squared
+in and prepped for training.</font>
+
+234
+00:19:28,940 --> 00:19:31,910
+<font color=#ffff00>- Yes sir!
+- As you were.</font>
+
+235
+00:19:36,150 --> 00:19:37,790
+<font color=#ffff00>Pentecost.</font>
+
+236
+00:19:38,270 --> 00:19:40,240
+<font color=#ffff00>We are gonna be trained by a Pentecost.</font>
+
+237
+00:19:40,260 --> 00:19:44,290
+<font color=#ffff00>So? Not like he was the one who died
+helping close the breach.</font>
+
+238
+00:19:44,310 --> 00:19:46,580
+<font color=#ffff00>He has never been in an combat.</font>
+
+239
+00:19:46,600 --> 00:19:48,580
+<font color=#ffff00><i>Renata, ready for round two.</i></font>
+
+240
+00:19:48,600 --> 00:19:51,400
+<font color=#ffff00><i>Yo. Ilya, do you see this?</i></font>
+
+241
+00:19:53,610 --> 00:19:57,060
+<font color=#ffff00>- So, where should I...
+- Heard you built your own real Jaeger.</font>
+
+242
+00:19:57,080 --> 00:20:00,620
+<font color=#ffff00>Yeah, actually Scrapper.</font>
+
+243
+00:20:00,640 --> 00:20:02,530
+<font color=#ffff00>I operated her too,
+with this solo unit...</font>
+
+244
+00:20:02,550 --> 00:20:07,110
+<font color=#ffff00>If you want to put junk together, be
+a mechanic. Moyulan is for pilots.</font>
+
+245
+00:20:09,070 --> 00:20:12,190
+<font color=#ffff00>- Hey come on. I got you.
+- Thanks.</font>
+
+246
+00:20:14,380 --> 00:20:18,350
+<font color=#ffff00>Jinhai. Ou-yang Jinhai.
+So you and Vik, already buddies huh?</font>
+
+247
+00:20:18,380 --> 00:20:21,710
+<font color=#ffff00>Vik is short for Viktoriya, but
+you don't wanna call her that.</font>
+
+248
+00:20:21,740 --> 00:20:23,020
+<font color=#ffff00>Yo, what's her problem?</font>
+
+249
+00:20:23,050 --> 00:20:25,580
+<font color=#ffff00>Took her 3 shots to
+pass the entrance test.</font>
+
+250
+00:20:25,600 --> 00:20:27,370
+<font color=#ffff00>Don't think she likes
+how you landed here.</font>
+
+251
+00:20:27,380 --> 00:20:28,470
+<font color=#ffff00>Hey, it's not my fault.</font>
+
+252
+00:20:28,490 --> 00:20:30,679
+<font color=#ffff00>Recruiters never come
+around back home.</font>
+
+253
+00:20:30,680 --> 00:20:33,789
+<font color=#ffff00>- Hey. Do you know any Russian?
+- No.</font>
+
+254
+00:20:33,790 --> 00:20:35,920
+<font color=#ffff00>I'll teach you something.
+Calms her down.</font>
+
+255
+00:20:35,940 --> 00:20:38,280
+<font color=#ffff00>Come on, let's get you squared away.</font>
+
+256
+00:21:10,400 --> 00:21:13,590
+<font color=#ffff00><i>Hemispheres out of alignment. Warning.</i></font>
+
+257
+00:21:13,620 --> 00:21:16,930
+<font color=#ffff00>- We need to reconnect.
+- I know! I'm trying!</font>
+
+258
+00:21:26,040 --> 00:21:27,970
+<font color=#ffff00><i>MAGLEV deactivated.</i></font>
+
+259
+00:21:28,000 --> 00:21:30,820
+<font color=#ffff00>- I just can't get this.
+- That sucked.</font>
+
+260
+00:21:30,840 --> 00:21:33,500
+<font color=#ffff00><i>Drift simulation terminated.</i></font>
+
+261
+00:21:35,460 --> 00:21:36,640
+<font color=#ffff00>AMARA FAIL
+SURESH FAIL.</font>
+
+262
+00:21:36,660 --> 00:21:41,080
+<font color=#ffff00>You know, when I heard you gave
+November Ajax a run for his money</font>
+
+263
+00:21:41,100 --> 00:21:44,960
+<font color=#ffff00>I thought we might have something here.
+Now I'm not so sure.</font>
+
+264
+00:21:45,150 --> 00:21:47,789
+<font color=#ffff00>How am I supposed to drift in this thing?</font>
+
+265
+00:21:47,790 --> 00:21:49,040
+<font color=#ffff00>It smells like feet.</font>
+
+266
+00:21:49,060 --> 00:21:51,650
+<font color=#ffff00>I didn't ask for excuses, cadet.</font>
+
+267
+00:21:51,670 --> 00:21:54,840
+<font color=#ffff00>You put her up against Kaiju that
+almost killed veteran pilots.</font>
+
+268
+00:21:54,920 --> 00:21:56,449
+<font color=#ffff00>Doesn't make any sense.</font>
+
+269
+00:21:56,450 --> 00:21:59,010
+<font color=#ffff00>Well maybe, she is not the only
+one who doesn't belong here.</font>
+
+270
+00:22:00,300 --> 00:22:02,869
+<font color=#ffff00>See Nate, I know you have
+a problem with me,</font>
+
+271
+00:22:02,870 --> 00:22:04,590
+<font color=#ffff00>but come on, she is just a kid.</font>
+
+272
+00:22:04,620 --> 00:22:07,060
+<font color=#ffff00>So were we. That's the point.</font>
+
+273
+00:22:07,080 --> 00:22:09,600
+<font color=#ffff00>You make stronger connections
+when you are young.</font>
+
+274
+00:22:09,620 --> 00:22:11,680
+<font color=#ffff00>And that kind up on makes
+a better drift pilot.</font>
+
+275
+00:22:11,710 --> 00:22:15,340
+<font color=#ffff00>Yeah, I remember the pitch. Thanks.</font>
+
+276
+00:22:16,420 --> 00:22:18,409
+<font color=#ffff00>Ryoichi, Renata, you're up.</font>
+
+277
+00:22:18,410 --> 00:22:20,930
+<font color=#ffff00>Show our new recruit how it's done.</font>
+
+278
+00:22:34,480 --> 00:22:37,310
+<font color=#ffff00>What the hell are you wearing?</font>
+
+279
+00:22:38,690 --> 00:22:40,760
+<font color=#ffff00>Jules loves it. Yeah she
+told me it's nice to</font>
+
+280
+00:22:40,780 --> 00:22:42,890
+<font color=#ffff00>finally have someone
+with style around here.</font>
+
+281
+00:22:42,910 --> 00:22:45,250
+<font color=#ffff00>Can't blame the girl.
+I am sexy.</font>
+
+282
+00:22:45,940 --> 00:22:48,890
+<font color=#ffff00>- You want a drink?
+- Sure.</font>
+
+283
+00:22:51,730 --> 00:22:53,070
+<font color=#ffff00>Thanks.</font>
+
+284
+00:22:53,360 --> 00:22:56,830
+<font color=#ffff00>- Ice cream is up top.
+- Yes.</font>
+
+285
+00:22:58,090 --> 00:23:01,239
+<font color=#ffff00>So one more time around huh?
+Prove your old man wrong?</font>
+
+286
+00:23:01,240 --> 00:23:04,070
+<font color=#ffff00>No, I just came back to see if
+your chin implant ever settled in.</font>
+
+287
+00:23:04,090 --> 00:23:06,190
+<font color=#ffff00>Oh I think it settled
+in quite nicely.</font>
+
+288
+00:23:06,210 --> 00:23:08,800
+<font color=#ffff00>Yeah, it's very commanding.
+Kids must love it.</font>
+
+289
+00:23:08,820 --> 00:23:12,500
+<font color=#ffff00>Jake. These kids,
+they look upto us.</font>
+
+290
+00:23:12,520 --> 00:23:15,710
+<font color=#ffff00>We gotta show them that
+we can work together.</font>
+
+291
+00:23:15,730 --> 00:23:18,009
+<font color=#ffff00>Well... The war ended ten years ago.</font>
+
+292
+00:23:18,010 --> 00:23:21,010
+<font color=#ffff00>You might just need to let that go.
+Just whoosha...</font>
+
+293
+00:23:21,030 --> 00:23:23,680
+<font color=#ffff00>After you understand,
+you gotta make your...</font>
+
+294
+00:23:25,000 --> 00:23:26,350
+<font color=#ffff00>Yeah...</font>
+
+295
+00:23:28,340 --> 00:23:29,619
+<font color=#ffff00>Sorry me.</font>
+
+296
+00:23:29,620 --> 00:23:31,879
+<font color=#ffff00>You have to understand
+your enemy's objective...</font>
+
+297
+00:23:31,880 --> 00:23:33,730
+<font color=#ffff00>to know you defeated them.
+We still don't.</font>
+
+298
+00:23:33,760 --> 00:23:36,020
+<font color=#ffff00>No, I can help you out with that.</font>
+
+299
+00:23:36,050 --> 00:23:37,970
+<font color=#ffff00>See I'm thinking it has
+something to do with them</font>
+
+300
+00:23:37,980 --> 00:23:40,190
+<font color=#ffff00>sending giant monsters to
+kick the crap out of us.</font>
+
+301
+00:23:40,220 --> 00:23:44,040
+<font color=#ffff00>No, the Precursors won't
+send Kaiju to flatten a</font>
+
+302
+00:23:44,060 --> 00:23:45,846
+<font color=#ffff00>few cities if they were
+trying to wipe us all out.</font>
+
+303
+00:23:45,870 --> 00:23:47,969
+<font color=#ffff00>Look, me,
+I don't have a problem with you man,</font>
+
+304
+00:23:47,970 --> 00:23:49,220
+<font color=#ffff00>but I had to make a choice.</font>
+
+305
+00:23:49,240 --> 00:23:52,149
+<font color=#ffff00>It was between your
+pretty face and prison,</font>
+
+306
+00:23:52,150 --> 00:23:53,790
+<font color=#ffff00>I chose your pretty face.</font>
+
+307
+00:23:53,810 --> 00:23:55,969
+<font color=#ffff00>Well, I'm touched.</font>
+
+308
+00:23:55,970 --> 00:23:57,670
+<font color=#ffff00>How many damn
+toppings do you need?</font>
+
+309
+00:23:57,690 --> 00:24:00,690
+<font color=#ffff00>Leave my toppings be man.
+Don't mess my damn toppings.</font>
+
+310
+00:24:01,770 --> 00:24:03,449
+<font color=#ffff00>So the cadets got like what?</font>
+
+311
+00:24:03,450 --> 00:24:05,650
+<font color=#ffff00>Couple of months
+before they graduate?</font>
+
+312
+00:24:05,830 --> 00:24:08,280
+<font color=#ffff00>- Six.
+- OK. I tell you what...</font>
+
+313
+00:24:08,300 --> 00:24:10,709
+<font color=#ffff00>Every time you want to say
+something soldiery to them,</font>
+
+314
+00:24:10,710 --> 00:24:11,840
+<font color=#ffff00>I'll just nod...</font>
+
+315
+00:24:11,860 --> 00:24:13,979
+<font color=#ffff00>or like "Yep, what he said".</font>
+
+316
+00:24:13,980 --> 00:24:16,100
+<font color=#ffff00>Then before you know it,
+they get to be pilots.</font>
+
+317
+00:24:16,130 --> 00:24:18,370
+<font color=#ffff00>- And I get to get back to my life.
+- Great!</font>
+
+318
+00:24:21,010 --> 00:24:22,790
+<font color=#ffff00>You may get sooner what you think.</font>
+
+319
+00:24:23,040 --> 00:24:26,110
+<font color=#ffff00>- How's come?
+- Big dog and pony show tomorrow.</font>
+
+320
+00:24:26,140 --> 00:24:30,030
+<font color=#ffff00>SHAO and her team are presenting
+this new drone program they have.</font>
+
+321
+00:24:30,060 --> 00:24:34,210
+<font color=#ffff00>- Could make us all obsolete.
+- Sounds like my get out of jail free card.</font>
+
+322
+00:24:36,610 --> 00:24:39,990
+<font color=#ffff00>You know, you confront all you want...</font>
+
+323
+00:24:41,080 --> 00:24:44,080
+<font color=#ffff00>but you and I both know you
+could have been great.</font>
+
+324
+00:25:03,290 --> 00:25:05,190
+<font color=#ffff00>She doesn't do the
+whole handshaking thing.</font>
+
+325
+00:25:05,220 --> 00:25:06,419
+<font color=#ffff00>Doctor Newton Geiszler,</font>
+
+326
+00:25:06,420 --> 00:25:08,780
+<font color=#ffff00>head of research and development
+for SHAO Industries.</font>
+
+327
+00:25:08,810 --> 00:25:12,030
+<font color=#ffff00>That's a nice firm grip you got there.</font>
+
+328
+00:25:23,910 --> 00:25:26,140
+<font color=#ffff00>That's a much better look on you.</font>
+
+329
+00:25:26,160 --> 00:25:29,970
+<font color=#ffff00>I guess it is better than
+prison stripes. Barely.</font>
+
+330
+00:25:29,990 --> 00:25:31,570
+<font color=#ffff00>I'm sorry? Is this him?</font>
+
+331
+00:25:31,590 --> 00:25:33,849
+<font color=#ffff00>It's gotta be him. Right?
+You're Stacker's kid.</font>
+
+332
+00:25:33,850 --> 00:25:36,890
+<font color=#ffff00>Hey! I am Newt. I was a
+big fan of your fathers.</font>
+
+333
+00:25:36,920 --> 00:25:38,639
+<font color=#ffff00>Amazing speechwriter by the way.</font>
+
+334
+00:25:38,640 --> 00:25:40,110
+<font color=#ffff00>Do you ever hear one where
+he canceled the apocalypse.</font>
+
+335
+00:25:40,130 --> 00:25:42,020
+<font color=#ffff00>- Newton.
+- Hermann.</font>
+
+336
+00:25:42,040 --> 00:25:43,650
+<font color=#ffff00>I was hoping you would be tagging along.</font>
+
+337
+00:25:43,670 --> 00:25:46,210
+<font color=#ffff00>I could use your help in
+an experiment I'm working on.</font>
+
+338
+00:25:46,500 --> 00:25:49,990
+<font color=#ffff00>This will only take a moment.
+I know how busy you are.</font>
+
+339
+00:25:50,020 --> 00:25:52,669
+<font color=#ffff00>I do not want to impose, but...</font>
+
+340
+00:25:52,670 --> 00:25:54,659
+<font color=#ffff00>Come on. You can't
+impose on me. I mean...</font>
+
+341
+00:25:54,660 --> 00:25:57,170
+<font color=#ffff00>We have been inside
+each others heads right?</font>
+
+342
+00:25:57,190 --> 00:26:01,049
+<font color=#ffff00>We saved the world.
+We have drifted with a Kaiju.</font>
+
+343
+00:26:01,050 --> 00:26:03,889
+<font color=#ffff00>You know, if we hadn't yanked that
+Intel right of Kaiju's brain</font>
+
+344
+00:26:03,890 --> 00:26:05,680
+<font color=#ffff00>Raleigh would have never been
+able to close the breach.</font>
+
+345
+00:26:05,700 --> 00:26:08,120
+<font color=#ffff00>That was you and that was me.</font>
+
+346
+00:26:08,250 --> 00:26:11,679
+<font color=#ffff00>Technically more me, but we can
+make this quick, or...</font>
+
+347
+00:26:11,680 --> 00:26:13,230
+<font color=#ffff00>Deployment.</font>
+
+348
+00:26:13,920 --> 00:26:17,740
+<font color=#ffff00>Of Jaegers. Their deployment to battle
+it takes too much time, you know</font>
+
+349
+00:26:17,760 --> 00:26:20,690
+<font color=#ffff00>The amount of damage a Kaiju
+can inflict before they even...</font>
+
+350
+00:26:20,720 --> 00:26:24,040
+<font color=#ffff00>Ah here. I think I found a solution.</font>
+
+351
+00:26:26,480 --> 00:26:29,270
+<font color=#ffff00>You know I can never read
+your...</font>
+
+352
+00:26:30,460 --> 00:26:35,090
+<font color=#ffff00>Rocket thrusters? Huh.
+Yeah, no.</font>
+
+353
+00:26:35,120 --> 00:26:38,870
+<font color=#ffff00>There is no fuel in the world with
+that kind of boost-to-mass ratio.</font>
+
+354
+00:26:38,900 --> 00:26:40,900
+<font color=#ffff00>Not from this world.</font>
+
+355
+00:26:44,860 --> 00:26:47,510
+<font color=#ffff00>- Now.
+- Is that Kaiju blood?</font>
+
+356
+00:26:47,530 --> 00:26:48,880
+<font color=#ffff00>Exactly.</font>
+
+357
+00:26:49,660 --> 00:26:53,019
+<font color=#ffff00>I've discovered Kaiju
+blood is highly reactive</font>
+
+358
+00:26:53,020 --> 00:26:54,970
+<font color=#ffff00>when it's combined with
+rare earth's elements.</font>
+
+359
+00:26:55,000 --> 00:26:58,060
+<font color=#ffff00>- Cerium, lanthanum, gadolinium.
+- I know that.</font>
+
+360
+00:26:58,090 --> 00:27:00,069
+<font color=#ffff00>You can't be fooling
+around with stuff.</font>
+
+361
+00:27:00,070 --> 00:27:01,176
+<font color=#ffff00>You're gonna blow yourself up.</font>
+
+362
+00:27:01,200 --> 00:27:03,820
+<font color=#ffff00>No one knows more about Kaiju
+morphology than you.</font>
+
+363
+00:27:03,840 --> 00:27:07,210
+<font color=#ffff00>- If you could just take a look.
+- No, Hermann. I gotta stop you.</font>
+
+364
+00:27:07,240 --> 00:27:09,990
+<font color=#ffff00>Look, none of this matters.
+Once my boss's drones</font>
+
+365
+00:27:10,000 --> 00:27:12,490
+<font color=#ffff00>are approved, deployment time.
+This is gonna be a non issue.</font>
+
+366
+00:27:12,520 --> 00:27:16,470
+<font color=#ffff00>Within a year buddy, we're
+gonna have drones everywhere.</font>
+
+367
+00:27:17,140 --> 00:27:18,820
+<font color=#ffff00>So you won't help me?</font>
+
+368
+00:27:18,840 --> 00:27:22,019
+<font color=#ffff00>Look, why don't we talk it
+over dinner in my place, OK?</font>
+
+369
+00:27:22,020 --> 00:27:23,630
+<font color=#ffff00>You can finally meet Alice.</font>
+
+370
+00:27:23,650 --> 00:27:27,740
+<font color=#ffff00>I don't need a hot meal Newt. What I need
+is a solution, to a specific problem.</font>
+
+371
+00:27:28,780 --> 00:27:32,249
+<font color=#ffff00>That's me. Bud,
+I'm sorry. Duty calls.</font>
+
+372
+00:27:32,250 --> 00:27:33,890
+<font color=#ffff00>It's been nice catching up.</font>
+
+373
+00:27:33,920 --> 00:27:36,080
+<font color=#ffff00>Newton.</font>
+
+374
+00:27:39,610 --> 00:27:44,120
+<font color=#ffff00>I still get nightmares
+about what we saw</font>
+
+375
+00:27:44,170 --> 00:27:48,130
+<font color=#ffff00>when we drifted with that
+disgusting Kaiju brain.</font>
+
+376
+00:27:49,810 --> 00:27:54,260
+<font color=#ffff00>But it was hell of rush, wasn't it?</font>
+
+377
+00:28:13,210 --> 00:28:15,950
+<font color=#ffff00>I know, I'm terrible.
+Yes, we shared a lab together.</font>
+
+378
+00:28:18,130 --> 00:28:21,520
+<font color=#ffff00>Oh some crazy idea about
+thruster pods on a Jaeger.</font>
+
+379
+00:28:31,090 --> 00:28:33,090
+<font color=#ffff00>The man is completely harmless.</font>
+
+380
+00:28:35,030 --> 00:28:39,620
+<font color=#ffff00>Could you say that again, and this
+time about 80 percent slower?</font>
+
+381
+00:28:39,650 --> 00:28:43,890
+<font color=#ffff00>I said, don't make me question
+your loyalty. Understand?</font>
+
+382
+00:28:45,580 --> 00:28:47,020
+<font color=#ffff00>What's to question?</font>
+
+383
+00:28:48,710 --> 00:28:50,620
+<font color=#ffff00>Look I barely talk to that guy anyway.</font>
+
+384
+00:28:57,460 --> 00:29:00,860
+<font color=#ffff00>My drones are the next
+step in Jaeger evolution.</font>
+
+385
+00:29:00,880 --> 00:29:03,859
+<font color=#ffff00>The system I designed process its commands</font>
+
+386
+00:29:03,860 --> 00:29:05,780
+<font color=#ffff00>through a quantum data core.</font>
+
+387
+00:29:05,800 --> 00:29:10,720
+<font color=#ffff00>This means that a single pilot can
+operate the drone remotely...</font>
+
+388
+00:29:10,740 --> 00:29:12,460
+<font color=#ffff00>from anywhere in the world.</font>
+
+389
+00:29:13,150 --> 00:29:15,910
+<font color=#ffff00>As soon as the council
+approves the deployment,</font>
+
+390
+00:29:15,920 --> 00:29:18,870
+<font color=#ffff00>based on Secretary General
+Mori's final report...</font>
+
+391
+00:29:18,900 --> 00:29:21,890
+<font color=#ffff00>the days of struggling
+to find and train drift</font>
+
+392
+00:29:21,900 --> 00:29:24,960
+<font color=#ffff00>compatible pilots will
+be a thing of the past.</font>
+
+393
+00:29:24,980 --> 00:29:27,609
+<font color=#ffff00>And you think a bunch of
+desk jockeys are better than us?</font>
+
+394
+00:29:27,610 --> 00:29:29,760
+<font color=#ffff00>We are not here to shut you down.</font>
+
+395
+00:29:29,780 --> 00:29:33,360
+<font color=#ffff00>Cooperation between our programs
+has never been more vital.</font>
+
+396
+00:29:34,040 --> 00:29:38,230
+<font color=#ffff00>- If there are any questions?
+- Yeah, I got a question.</font>
+
+397
+00:29:38,250 --> 00:29:40,849
+<font color=#ffff00>We are pilots, not a
+bunch of office workers.</font>
+
+398
+00:29:40,850 --> 00:29:43,250
+<font color=#ffff00>And now we're shouting.
+There is no need to shout.</font>
+
+399
+00:29:49,040 --> 00:29:50,779
+<font color=#ffff00>That was slick.</font>
+
+400
+00:29:50,780 --> 00:29:53,360
+<font color=#ffff00>So how long till they order
+the shutdown so I can go home.</font>
+
+401
+00:29:53,390 --> 00:29:55,960
+<font color=#ffff00>I don't trust that tech.
+Not yet at least.</font>
+
+402
+00:29:55,970 --> 00:29:58,040
+<font color=#ffff00>Oh. It looked
+pretty good to me.</font>
+
+403
+00:29:58,060 --> 00:30:01,830
+<font color=#ffff00>Remote systems can be
+hacked or compromised.</font>
+
+404
+00:30:01,860 --> 00:30:04,279
+<font color=#ffff00>You got the key vote right?</font>
+
+405
+00:30:04,280 --> 00:30:06,080
+<font color=#ffff00>So there you go,
+it's your decision.</font>
+
+406
+00:30:06,860 --> 00:30:10,050
+<font color=#ffff00>I wish I could just
+go ahead and approve them.</font>
+
+407
+00:30:10,070 --> 00:30:14,470
+<font color=#ffff00>Nearly half the counsel is backing Liwen.</font>
+
+408
+00:30:14,490 --> 00:30:17,110
+<font color=#ffff00>They aren't going to like my decision.</font>
+
+409
+00:30:17,400 --> 00:30:19,329
+<font color=#ffff00>Who cares what they like,</font>
+
+410
+00:30:19,330 --> 00:30:20,850
+<font color=#ffff00>and what they don't like?</font>
+
+411
+00:30:20,880 --> 00:30:23,190
+<font color=#ffff00>I tell you what?
+I'm gonna go with you.</font>
+
+412
+00:30:23,210 --> 00:30:26,560
+<font color=#ffff00>For moral support. Plus I
+wanna get out of this place.</font>
+
+413
+00:30:26,580 --> 00:30:29,650
+<font color=#ffff00>I'm glad you offered,
+because I already requested</font>
+
+414
+00:30:29,670 --> 00:30:33,509
+<font color=#ffff00>Gipsy Avenger as honor guard
+at the counsel summit.</font>
+
+415
+00:30:33,510 --> 00:30:35,180
+<font color=#ffff00>You know Gipsy is Nate's right.</font>
+
+416
+00:30:35,210 --> 00:30:38,669
+<font color=#ffff00>His co-pilot works for Liwen now.
+He needs a new one.</font>
+
+417
+00:30:38,670 --> 00:30:41,220
+<font color=#ffff00>One that you already know
+is drift compatible.</font>
+
+418
+00:30:42,210 --> 00:30:45,750
+<font color=#ffff00>Alright, I'll do it.
+I've got your back.</font>
+
+419
+00:30:45,770 --> 00:30:47,720
+<font color=#ffff00>But I wanna be there when
+you tell Nate, cause I</font>
+
+420
+00:30:47,730 --> 00:30:49,870
+<font color=#ffff00>just want to see his face.
+He's gonna be so pissed.</font>
+
+421
+00:30:49,890 --> 00:30:51,720
+<font color=#ffff00>You see he's gonna stand there like</font>
+
+422
+00:30:51,740 --> 00:30:54,660
+<font color=#ffff00>"Yeah, I don't think you
+belong in a Jaeger, Jake.</font>
+
+423
+00:30:54,670 --> 00:30:57,570
+<font color=#ffff00>Get out of my Jaeger. I
+am handsome and sexy."</font>
+
+424
+00:30:58,870 --> 00:31:00,740
+<font color=#ffff00>He is handsome. He is sexy.</font>
+
+425
+00:31:01,030 --> 00:31:02,340
+<font color=#ffff00>Thank you, Jake.</font>
+
+426
+00:31:11,940 --> 00:31:15,940
+<font color=#ffff00><b>SYDNEY
+AUSTRALIA.</b></font>
+
+427
+00:31:18,420 --> 00:31:22,270
+<font color=#ffff00><i>Welcome back. Lots of sunshine today.
+The kick of the weekend, the city...</i></font>
+
+428
+00:31:22,300 --> 00:31:24,400
+<font color=#ffff00><i>Good afternoon everyone.
+Peter Overton broadcasting</i></font>
+
+429
+00:31:24,410 --> 00:31:26,540
+<font color=#ffff00><i>from the Nine Studios in
+Sydney with the latest...</i></font>
+
+430
+00:31:26,560 --> 00:31:30,220
+<font color=#ffff00><i>So far police say at least, 49
+officers injured.</i></font>
+
+431
+00:31:30,240 --> 00:31:33,500
+<font color=#ffff00><i>Kaiju-worshipers in black
+masks throwing bottles and rocks.</i></font>
+
+432
+00:31:33,520 --> 00:31:37,240
+<font color=#ffff00><i>PPDC security in right gear
+are attempting to weaken...</i></font>
+
+433
+00:31:37,340 --> 00:31:40,540
+<font color=#ffff00><b>FLAGSHIP Jaeger ARRIVES
+AT PPDC SUMMIT.</b></font>
+
+434
+00:31:40,640 --> 00:31:43,570
+<font color=#ffff00><i>Gipsy Avenger, this is Marshal Chan.
+All you</i></font>
+
+435
+00:31:43,580 --> 00:31:46,310
+<font color=#ffff00><i>have to do is stand
+there and look pretty.</i></font>
+
+436
+00:31:46,340 --> 00:31:50,070
+<font color=#ffff00><i>- Stay focused and try not to fall over.</i>
+- Roger that sir.</font>
+
+437
+00:31:50,090 --> 00:31:51,580
+<font color=#ffff00><i>Go for drop.</i></font>
+
+438
+00:31:51,590 --> 00:31:54,810
+<font color=#ffff00>In three, two, one.
+Drop it.</font>
+
+439
+00:32:05,720 --> 00:32:07,080
+<font color=#ffff00>Jake.</font>
+
+440
+00:32:08,270 --> 00:32:10,250
+<font color=#ffff00><i>Drift alignment unstable.</i></font>
+
+441
+00:32:10,280 --> 00:32:12,940
+<font color=#ffff00>Relax. It's coming back to me.</font>
+
+442
+00:32:12,970 --> 00:32:14,739
+<font color=#ffff00>You sure?</font>
+
+443
+00:32:14,740 --> 00:32:15,490
+<font color=#ffff00><i>Ion cells activated.</i></font>
+
+444
+00:32:15,510 --> 00:32:17,750
+<font color=#ffff00>Hey Nate.
+We're in each other's head, remember?</font>
+
+445
+00:32:17,780 --> 00:32:20,610
+<font color=#ffff00>So I would appreciate it if
+you'd stop thinking about Jules.</font>
+
+446
+00:32:20,980 --> 00:32:22,269
+<font color=#ffff00>Not gonna happen.</font>
+
+447
+00:32:22,270 --> 00:32:25,229
+<font color=#ffff00>Well,
+you still thinking about kicking my ass.</font>
+
+448
+00:32:25,230 --> 00:32:26,960
+<font color=#ffff00>Not gonna happen either.</font>
+
+449
+00:32:27,720 --> 00:32:29,760
+<font color=#ffff00>It's gonna be a long day.</font>
+
+450
+00:32:38,920 --> 00:32:41,760
+<font color=#ffff00><i>Incoming transport.</i></font>
+
+451
+00:33:21,810 --> 00:33:24,730
+<font color=#ffff00><i>- Warning.</i>
+- Gipsy to Command. You reading this?</font>
+
+452
+00:33:38,690 --> 00:33:42,440
+<font color=#ffff00>Gipsy, this is Command.
+Be advised that we have a rogue Jaeger.</font>
+
+453
+00:33:45,080 --> 00:33:47,590
+<font color=#ffff00>Pilots of unregistered Jaeger,</font>
+
+454
+00:33:47,600 --> 00:33:50,310
+<font color=#ffff00>power down and exit your
+comm pod immediately.</font>
+
+455
+00:33:50,930 --> 00:33:55,330
+<font color=#ffff00>I repeat: power down and
+exit your comm pods now.</font>
+
+456
+00:33:57,030 --> 00:33:58,660
+<font color=#ffff00>Missiles fired.</font>
+
+457
+00:34:19,460 --> 00:34:21,450
+<font color=#ffff00><i>- Low powe warning.</i>
+- We are loosing power.</font>
+
+458
+00:34:34,470 --> 00:34:38,200
+<font color=#ffff00>Jake, that Jaeger's power
+reading is same as yours.</font>
+
+459
+00:34:40,620 --> 00:34:42,140
+<font color=#ffff00>It's jamming our comms.</font>
+
+460
+00:34:45,380 --> 00:34:47,280
+<font color=#ffff00>- Nate.
+- Power's up.</font>
+
+461
+00:36:00,600 --> 00:36:02,340
+<font color=#ffff00>- What do we do?
+- Follow my lead.</font>
+
+462
+00:36:18,380 --> 00:36:19,740
+<font color=#ffff00>Mako is hit.</font>
+
+463
+00:36:21,370 --> 00:36:24,860
+<font color=#ffff00>- We gotta move.
+- Activate the gravity split.</font>
+
+464
+00:36:41,980 --> 00:36:45,869
+<font color=#ffff00>Mayday, mayday, mayday.
+This is Charlie 052.</font>
+
+465
+00:36:45,870 --> 00:36:48,270
+<font color=#ffff00>We have been hit and
+we are going down.</font>
+
+466
+00:36:48,300 --> 00:36:49,760
+<font color=#ffff00>- Going down!
+- <i>Sending.</i></font>
+
+467
+00:37:14,900 --> 00:37:17,500
+<font color=#ffff00>- Mako.
+- Jake. Wait!</font>
+
+468
+00:38:43,070 --> 00:38:45,140
+<font color=#ffff00><i>Drift alignment failing.</i></font>
+
+469
+00:38:45,170 --> 00:38:47,430
+<font color=#ffff00>Come on, Sarah. Do something.</font>
+
+470
+00:38:47,450 --> 00:38:50,290
+<font color=#ffff00>This stupid brain thing.</font>
+
+471
+00:38:59,990 --> 00:39:06,240
+<font color=#ffff00>So I'm not really good at
+emotional stuff, but...</font>
+
+472
+00:39:07,220 --> 00:39:09,690
+<font color=#ffff00>I really am sorry about your sister.</font>
+
+473
+00:39:11,030 --> 00:39:13,480
+<font color=#ffff00>Half-sister?</font>
+
+474
+00:39:13,500 --> 00:39:17,439
+<font color=#ffff00>Yeah, her family died during
+the Onibaba attack.</font>
+
+475
+00:39:17,440 --> 00:39:18,910
+<font color=#ffff00>My dad took her in.</font>
+
+476
+00:39:19,690 --> 00:39:23,410
+<font color=#ffff00>And she was my sister, my family.</font>
+
+477
+00:39:24,470 --> 00:39:26,170
+<font color=#ffff00>Why are you out of uniform?</font>
+
+478
+00:39:27,930 --> 00:39:30,510
+<font color=#ffff00>Just had a lot in my mind after Sydney.</font>
+
+479
+00:39:31,100 --> 00:39:33,390
+<font color=#ffff00>Guess I just wanted to be comfortable.</font>
+
+480
+00:39:33,420 --> 00:39:36,129
+<font color=#ffff00>Don't let Ranger Lambert see you in that.</font>
+
+481
+00:39:36,130 --> 00:39:38,900
+<font color=#ffff00>He might take the stick out of
+his butt and beat you with it.</font>
+
+482
+00:39:38,910 --> 00:39:41,060
+<font color=#ffff00>I think I'm safe.</font>
+
+483
+00:39:43,190 --> 00:39:45,880
+<font color=#ffff00>So they still using Sarah.</font>
+
+484
+00:39:47,010 --> 00:39:50,030
+<font color=#ffff00>I can't drift with her for some reason.</font>
+
+485
+00:39:50,050 --> 00:39:54,030
+<font color=#ffff00>All the other cadets have
+been training for years and I...</font>
+
+486
+00:39:54,420 --> 00:39:57,560
+<font color=#ffff00>- I hate feeling like the slow keg.
+- You gotta relax.</font>
+
+487
+00:39:57,580 --> 00:39:59,990
+<font color=#ffff00>Or you're just grinding gears.
+I'll help you out.</font>
+
+488
+00:40:00,010 --> 00:40:01,300
+<font color=#ffff00>Got it, coach.</font>
+
+489
+00:40:01,320 --> 00:40:03,240
+<font color=#ffff00>- Do not call me a coach.
+- Alright, sensei.</font>
+
+490
+00:40:03,710 --> 00:40:05,470
+<font color=#ffff00>Concentrate.</font>
+
+491
+00:40:05,780 --> 00:40:07,440
+<font color=#ffff00>You have to make a good connection.</font>
+
+492
+00:40:07,520 --> 00:40:09,620
+<font color=#ffff00>You can't do that if
+you're yapping your gums.</font>
+
+493
+00:40:15,400 --> 00:40:17,770
+<font color=#ffff00>- You ready?
+- Ready.</font>
+
+494
+00:40:18,360 --> 00:40:20,039
+<font color=#ffff00>All right.</font>
+
+495
+00:40:20,040 --> 00:40:22,110
+<font color=#ffff00>See if we are drift compatible.</font>
+
+496
+00:40:25,930 --> 00:40:28,110
+<font color=#ffff00>Come on girls. Get it.</font>
+
+497
+00:40:31,830 --> 00:40:34,170
+<font color=#ffff00>Shoot. Come on.</font>
+
+498
+00:40:36,610 --> 00:40:38,730
+<font color=#ffff00><i>Neural load is exceeding limit.</i></font>
+
+499
+00:40:38,760 --> 00:40:40,850
+<font color=#ffff00>Stay focused Amara.</font>
+
+500
+00:40:41,130 --> 00:40:45,750
+<font color=#ffff00>Remember: the stronger your
+connection, the better you fight.</font>
+
+501
+00:40:46,530 --> 00:40:47,940
+<font color=#ffff00>That's it.</font>
+
+502
+00:40:49,620 --> 00:40:53,830
+<font color=#ffff00>Jump to me, honey.
+Jump. Come on.</font>
+
+503
+00:40:55,110 --> 00:40:58,640
+<font color=#ffff00>Don't hang on to the memory.
+Just let it flow back through you.</font>
+
+504
+00:40:58,670 --> 00:41:01,270
+<font color=#ffff00>Amara, jump in there.</font>
+
+505
+00:41:01,300 --> 00:41:06,090
+<font color=#ffff00>Yeah come on. Get together.
+Ready? One, two, cheese.</font>
+
+506
+00:41:06,570 --> 00:41:09,400
+<font color=#ffff00>Got it. Wanna see?</font>
+
+507
+00:41:09,420 --> 00:41:10,920
+<font color=#ffff00>Wait a sec.</font>
+
+508
+00:41:13,770 --> 00:41:16,720
+<font color=#ffff00>Amara, you have to let it go.</font>
+
+509
+00:41:19,150 --> 00:41:21,440
+<font color=#ffff00>Just listen to my voice.</font>
+
+510
+00:41:22,370 --> 00:41:24,010
+<font color=#ffff00>Amara!</font>
+
+511
+00:41:40,840 --> 00:41:43,170
+<font color=#ffff00>- Amara!
+- Daddy.</font>
+
+512
+00:41:44,160 --> 00:41:45,330
+<font color=#ffff00>Come on Jump.
+- Amara!</font>
+
+513
+00:41:45,350 --> 00:41:48,809
+<font color=#ffff00>Amara! We need to break the drift.</font>
+
+514
+00:41:48,810 --> 00:41:50,046
+<font color=#ffff00>- Jump to me. Come on!
+- I'm scared.</font>
+
+515
+00:41:50,070 --> 00:41:51,980
+<font color=#ffff00>Baby. I'll catch you.
+I promise. Come on.</font>
+
+516
+00:41:52,560 --> 00:41:55,170
+<font color=#ffff00>- Come on, Amara.
+- Jump.</font>
+
+517
+00:42:01,090 --> 00:42:02,400
+<font color=#ffff00>Take it off.</font>
+
+518
+00:42:05,870 --> 00:42:07,250
+<font color=#ffff00>You okay?</font>
+
+519
+00:42:12,270 --> 00:42:14,520
+<font color=#ffff00>I was there.</font>
+
+520
+00:42:17,060 --> 00:42:19,020
+<font color=#ffff00>I felt it.</font>
+
+521
+00:42:21,040 --> 00:42:22,340
+<font color=#ffff00>I felt it too.</font>
+
+522
+00:42:24,280 --> 00:42:26,440
+<font color=#ffff00>Jake, it's me. You there?</font>
+
+523
+00:42:27,720 --> 00:42:28,980
+<font color=#ffff00>Yeah, I'm here.</font>
+
+524
+00:42:29,000 --> 00:42:31,140
+<font color=#ffff00>Meet me in the lab right away.
+The marshal wants to see us.</font>
+
+525
+00:42:31,160 --> 00:42:33,220
+<font color=#ffff00>Alright, on my way.</font>
+
+526
+00:42:34,600 --> 00:42:36,030
+<font color=#ffff00>You okay?</font>
+
+527
+00:42:47,480 --> 00:42:50,030
+<font color=#ffff00>- What is it?
+- A message from Mako.</font>
+
+528
+00:42:50,050 --> 00:42:52,149
+<font color=#ffff00>She was trying to
+send it from her copter</font>
+
+529
+00:42:52,150 --> 00:42:53,410
+<font color=#ffff00>right before it went down.</font>
+
+530
+00:42:53,440 --> 00:42:55,770
+<font color=#ffff00>It's a data package. High density.</font>
+
+531
+00:42:55,790 --> 00:42:57,770
+<font color=#ffff00>Obsidian Fury was jamming comms.</font>
+
+532
+00:42:57,780 --> 00:42:59,340
+<font color=#ffff00>How could her
+signal get through?</font>
+
+533
+00:42:59,370 --> 00:43:02,379
+<font color=#ffff00>- It didn't. At least not intact.
+- So it's gone.</font>
+
+534
+00:43:02,380 --> 00:43:04,819
+<font color=#ffff00>Gone is relative in digital round mate.</font>
+
+535
+00:43:04,820 --> 00:43:06,820
+<font color=#ffff00>Running a modified factorial algorithm</font>
+
+536
+00:43:06,830 --> 00:43:09,240
+<font color=#ffff00>I might be able to reconstruct
+a few megabytes.</font>
+
+537
+00:43:13,150 --> 00:43:14,500
+<font color=#ffff00>There.</font>
+
+538
+00:43:16,620 --> 00:43:18,130
+<font color=#ffff00>Is that a Kaiju?</font>
+
+539
+00:43:18,810 --> 00:43:22,300
+<font color=#ffff00>I am checking with PPDC Kaiju archives.</font>
+
+540
+00:43:26,560 --> 00:43:28,500
+<font color=#ffff00>No matching in the database.</font>
+
+541
+00:43:28,530 --> 00:43:31,810
+<font color=#ffff00>Keep looking. Whatever it is,
+it was important to her.</font>
+
+542
+00:43:31,840 --> 00:43:33,659
+<font color=#ffff00>I want to know why.</font>
+
+543
+00:43:33,660 --> 00:43:36,620
+<font color=#ffff00>And I want to know who was
+piloting that rogue Jaeger.</font>
+
+544
+00:43:41,120 --> 00:43:44,820
+<font color=#ffff00><b>SHAO INDUSTRIES
+SHANGHAI, CHINA</b></font>
+
+545
+00:43:56,030 --> 00:43:59,350
+<font color=#ffff00>Hey, sorry I'm late.
+I thought you were still in Sydney.</font>
+
+546
+00:44:04,890 --> 00:44:06,090
+<font color=#ffff00>That's great.</font>
+
+547
+00:44:06,110 --> 00:44:08,510
+<font color=#ffff00>I thought you'd be a
+little more enthusiastic.</font>
+
+548
+00:44:09,190 --> 00:44:11,300
+<font color=#ffff00>Yeah, no, I am calm.
+This is great.</font>
+
+549
+00:44:11,320 --> 00:44:12,859
+<font color=#ffff00>It's the timing of everything.</font>
+
+550
+00:44:12,860 --> 00:44:14,940
+<font color=#ffff00>With that attack and
+all it feels a little...</font>
+
+551
+00:44:14,960 --> 00:44:17,960
+<font color=#ffff00>I was there.
+I know what happened.</font>
+
+552
+00:44:23,060 --> 00:44:25,110
+<font color=#ffff00><i>Neural connection terminated.</i></font>
+
+553
+00:44:28,310 --> 00:44:30,870
+<font color=#ffff00>Yeah, I guess they do.</font>
+
+554
+00:44:36,360 --> 00:44:40,860
+<font color=#ffff00>If you look at it sideways in
+they maybe you can say that.</font>
+
+555
+00:44:40,890 --> 00:44:43,270
+<font color=#ffff00>Sorry, what are you...
+What is going on here?</font>
+
+556
+00:44:47,160 --> 00:44:48,560
+<font color=#ffff00>48 is a...</font>
+
+557
+00:44:50,200 --> 00:44:51,600
+<font color=#ffff00>Get it done.</font>
+
+558
+00:44:54,130 --> 00:44:55,580
+<font color=#ffff00>Not a problem. Which...</font>
+
+559
+00:44:58,000 --> 00:44:59,700
+<font color=#ffff00>You don't think there's a way?</font>
+
+560
+00:44:59,730 --> 00:45:02,879
+<font color=#ffff00>Alright. Well, then you're fired.
+OK. How about that?</font>
+
+561
+00:45:02,880 --> 00:45:04,660
+<font color=#ffff00>Or maybe you are promoted.
+I don't know.</font>
+
+562
+00:45:04,680 --> 00:45:06,440
+<font color=#ffff00>We'll see how it goes.
+Just get it done.</font>
+
+563
+00:45:07,340 --> 00:45:08,700
+<font color=#ffff00>Give me this.</font>
+
+564
+00:45:28,680 --> 00:45:31,320
+<font color=#ffff00>Hey honey, I'm home.</font>
+
+565
+00:45:31,510 --> 00:45:34,790
+<font color=#ffff00>Sorry I'm late. Things were...</font>
+
+566
+00:45:35,070 --> 00:45:38,700
+<font color=#ffff00>Things were crazy today, with
+what happened in Sydney.</font>
+
+567
+00:45:40,060 --> 00:45:43,230
+<font color=#ffff00>All those people.
+It was not pretty.</font>
+
+568
+00:45:43,250 --> 00:45:46,130
+<font color=#ffff00>My boss almost got killed.
+That could have been bad.</font>
+
+569
+00:45:46,160 --> 00:45:48,110
+<font color=#ffff00>Maybe I guess. I don't know.</font>
+
+570
+00:45:48,290 --> 00:45:50,950
+<font color=#ffff00>That would have been great
+actually, that one is</font>
+
+571
+00:45:50,960 --> 00:45:53,810
+<font color=#ffff00>all over me. I mean I can't
+get a break from her.</font>
+
+572
+00:45:53,830 --> 00:45:56,210
+<font color=#ffff00>I am ranting. Enough
+about work and enough</font>
+
+573
+00:45:56,220 --> 00:45:58,830
+<font color=#ffff00>about her. Really I
+should be focused on you.</font>
+
+574
+00:45:58,860 --> 00:46:02,399
+<font color=#ffff00>How about we have a little
+fun in the bedroom?</font>
+
+575
+00:46:02,400 --> 00:46:03,710
+<font color=#ffff00>How was your day?</font>
+
+576
+00:46:05,360 --> 00:46:07,689
+<font color=#ffff00>Oh that's great.</font>
+
+577
+00:46:07,690 --> 00:46:11,640
+<font color=#ffff00>Yeah that's exciting.
+What's that?</font>
+
+578
+00:46:12,320 --> 00:46:14,420
+<font color=#ffff00>A little pick-me-up?</font>
+
+579
+00:46:17,010 --> 00:46:22,360
+<font color=#ffff00>What can I say?
+You are right by mine.</font>
+
+580
+00:46:30,690 --> 00:46:34,680
+<font color=#ffff00>They are calling it Obsidian Fury.
+He's never been a rogue like this.</font>
+
+581
+00:46:34,770 --> 00:46:38,369
+<font color=#ffff00>News feeds they are posting
+a dozen Jaegers at the memorial.</font>
+
+582
+00:46:38,370 --> 00:46:40,399
+<font color=#ffff00>When I die, I want
+that many send me off.</font>
+
+583
+00:46:40,400 --> 00:46:43,429
+<font color=#ffff00>Your pops gonna make you work
+with boobs when you wash out.</font>
+
+584
+00:46:43,430 --> 00:46:45,220
+<font color=#ffff00>Jaegers do not show up
+when the boob guy does.</font>
+
+585
+00:46:45,240 --> 00:46:47,649
+<font color=#ffff00>- Your dad works with boobs?
+- He is a plastic surgeon.</font>
+
+586
+00:46:47,650 --> 00:46:49,220
+<font color=#ffff00>He does not just work with...</font>
+
+587
+00:46:49,340 --> 00:46:51,860
+<font color=#ffff00>I'm not gonna wash out.
+I'm gonna be a pilot.</font>
+
+588
+00:46:51,890 --> 00:46:55,720
+<font color=#ffff00>Still, you die, man, they post
+one Jaeger on your funeral.</font>
+
+589
+00:46:56,310 --> 00:46:58,680
+<font color=#ffff00>Maybe half a Jaeger.</font>
+
+590
+00:46:58,870 --> 00:47:01,379
+<font color=#ffff00>I heard this is where they found Amara</font>
+
+591
+00:47:01,380 --> 00:47:02,599
+<font color=#ffff00>in half a Jaeger.</font>
+
+592
+00:47:02,600 --> 00:47:04,150
+<font color=#ffff00>It was a whole Jaeger.</font>
+
+593
+00:47:04,550 --> 00:47:09,350
+<font color=#ffff00>It just wasn't very big, Viktoriya.</font>
+
+594
+00:47:11,710 --> 00:47:13,950
+<font color=#ffff00>Bigger is better.</font>
+
+595
+00:47:16,950 --> 00:47:20,960
+<font color=#ffff00>- Kiss my ass.
+- What did you say?</font>
+
+596
+00:47:20,970 --> 00:47:24,220
+<font color=#ffff00>Kiss my ass.
+Am I saying that right?</font>
+
+597
+00:47:27,700 --> 00:47:30,739
+<font color=#ffff00>I have worked everyday in my
+life to be here. You didn't do</font>
+
+598
+00:47:30,740 --> 00:47:33,230
+<font color=#ffff00>anything. You are just picked
+up from street like garbage.</font>
+
+599
+00:47:37,830 --> 00:47:39,550
+<font color=#ffff00>Do you know where I learned that?</font>
+
+600
+00:47:39,560 --> 00:47:42,800
+<font color=#ffff00>- On the street, you bitch...
+- Ranger on deck.</font>
+
+601
+00:47:45,610 --> 00:47:47,569
+<font color=#ffff00>- She jumped me.
+- She does not belong here.</font>
+
+602
+00:47:47,570 --> 00:47:48,890
+<font color=#ffff00>I don't care.</font>
+
+603
+00:47:50,890 --> 00:47:54,480
+<font color=#ffff00>When I first joined the
+Corps, I was like you.</font>
+
+604
+00:47:54,660 --> 00:47:57,760
+<font color=#ffff00>Worse, I was nobody.</font>
+
+605
+00:47:59,490 --> 00:48:05,430
+<font color=#ffff00>But that woman we lay to rest today, Mako
+Mori, she said, "Whoever you are..."</font>
+
+606
+00:48:05,460 --> 00:48:08,660
+<font color=#ffff00>"the minute you enter this
+program, you join a family."</font>
+
+607
+00:48:08,760 --> 00:48:13,810
+<font color=#ffff00>"And no matter what they do, no matter
+how stupid they may act sometimes..."</font>
+
+608
+00:48:15,840 --> 00:48:18,980
+<font color=#ffff00>"you forgive them and you move on."</font>
+
+609
+00:48:19,860 --> 00:48:23,960
+<font color=#ffff00>So you start believing in that, in here.</font>
+
+610
+00:48:24,740 --> 00:48:27,490
+<font color=#ffff00>Then you will start
+believing it in a Jaeger.</font>
+
+611
+00:48:29,330 --> 00:48:31,459
+<font color=#ffff00>The marshal is looking for you guys.</font>
+
+612
+00:48:31,460 --> 00:48:33,170
+<font color=#ffff00>Says Gottlieb has found something.</font>
+
+613
+00:48:35,000 --> 00:48:38,280
+<font color=#ffff00>It isn't something,
+it's somewhere.</font>
+
+614
+00:48:38,310 --> 00:48:42,540
+<font color=#ffff00>Severnaya Zemlya,
+of Siberia's tiny peninsula.</font>
+
+615
+00:48:42,560 --> 00:48:45,440
+<font color=#ffff00>- What is in Zemlya?
+- Nothing anymore.</font>
+
+616
+00:48:45,460 --> 00:48:49,650
+<font color=#ffff00>A facility roughly in this location was
+used to manufacture Jaeger power core...</font>
+
+617
+00:48:50,150 --> 00:48:52,879
+<font color=#ffff00>during war
+but it was decommissioned years ago.</font>
+
+618
+00:48:52,880 --> 00:48:54,520
+<font color=#ffff00>Why would Mako be trying
+to tell us about an</font>
+
+619
+00:48:54,530 --> 00:48:56,810
+<font color=#ffff00>abandoned factory in
+the middle of nowhere?</font>
+
+620
+00:48:56,830 --> 00:49:02,110
+<font color=#ffff00>Sir, a mission to take Gipsy avenger
+to see what the hell is out there.</font>
+
+621
+00:49:05,540 --> 00:49:08,940
+<font color=#ffff00><b>SEVERNAYA ZEMLYA SIBERIA</b></font>
+
+622
+00:49:32,340 --> 00:49:33,779
+<font color=#ffff00><i>Scanning.</i></font>
+
+623
+00:49:33,780 --> 00:49:37,219
+<font color=#ffff00>Looks like Mako's message was a dead end.</font>
+
+624
+00:49:37,220 --> 00:49:39,170
+<font color=#ffff00>This place is abandoned.</font>
+
+625
+00:49:39,200 --> 00:49:40,830
+<font color=#ffff00>Wait a second.</font>
+
+626
+00:49:42,310 --> 00:49:46,310
+<font color=#ffff00>- Getting some weird readings.
+- Incoming.</font>
+
+627
+00:50:01,890 --> 00:50:03,760
+<font color=#ffff00>Take out his legs.</font>
+
+628
+00:50:41,210 --> 00:50:42,950
+<font color=#ffff00>We gotta get out of here.</font>
+
+629
+00:51:17,940 --> 00:51:19,540
+<font color=#ffff00>Plasma canon.</font>
+
+630
+00:51:26,630 --> 00:51:29,510
+<font color=#ffff00>- I think we've pissed him off.
+- Good.</font>
+
+631
+00:51:35,380 --> 00:51:38,270
+<font color=#ffff00>- You remember our old move?
+- Hell yeah.</font>
+
+632
+00:51:51,120 --> 00:51:54,110
+<font color=#ffff00>- He looks hurt.
+- Go for his power core.</font>
+
+633
+00:52:14,260 --> 00:52:15,740
+<font color=#ffff00><i>Warning.</i></font>
+
+634
+00:52:43,180 --> 00:52:47,450
+<font color=#ffff00>Pilots of Obsidian Fury,
+Get the hell out of your comm-pod.</font>
+
+635
+00:52:58,390 --> 00:53:00,230
+<font color=#ffff00>What the hell is that?</font>
+
+636
+00:53:07,270 --> 00:53:09,939
+<font color=#ffff00>It's definitely Kaiju.</font>
+
+637
+00:53:09,940 --> 00:53:13,029
+<font color=#ffff00>A secondary brain used to
+control the hind quarters.</font>
+
+638
+00:53:13,030 --> 00:53:15,160
+<font color=#ffff00>- How do they get into our world?
+- There hasn't been a breach in 10 years.</font>
+
+639
+00:53:15,180 --> 00:53:17,079
+<font color=#ffff00>The sensors would have pick that up.</font>
+
+640
+00:53:17,080 --> 00:53:18,820
+<font color=#ffff00>I don't think there was a breach.</font>
+
+641
+00:53:18,840 --> 00:53:24,340
+<font color=#ffff00>Kaiju flesh has a distinct radioactive
+signature particularly to the anti-verse.</font>
+
+642
+00:53:24,370 --> 00:53:27,289
+<font color=#ffff00>This specimen does not.</font>
+
+643
+00:53:27,290 --> 00:53:30,680
+<font color=#ffff00>So... You saying that
+it's from our universe.</font>
+
+644
+00:53:30,700 --> 00:53:34,850
+<font color=#ffff00>The genetic fingerprints indicate
+terrestrial modification techniques...</font>
+
+645
+00:53:34,870 --> 00:53:38,469
+<font color=#ffff00>probably engineered from Kaiju
+flesh left over from the war.</font>
+
+646
+00:53:38,470 --> 00:53:40,910
+<font color=#ffff00>Precursors didn't do this...</font>
+
+647
+00:53:42,490 --> 00:53:44,330
+<font color=#ffff00>Humans did.</font>
+
+648
+00:53:49,720 --> 00:53:53,289
+<font color=#ffff00>That punk of slimy crap
+was piloting obsidian fury?</font>
+
+649
+00:53:53,290 --> 00:53:54,480
+<font color=#ffff00>We gotta get a look inside.</font>
+
+650
+00:53:54,500 --> 00:53:57,690
+<font color=#ffff00>- Inside?
+- That thing is part Kaiju.</font>
+
+651
+00:53:57,710 --> 00:53:59,299
+<font color=#ffff00>Come on guys.</font>
+
+652
+00:53:59,300 --> 00:54:02,070
+<font color=#ffff00>When are we ever gonna get a chance
+to see something like this again?</font>
+
+653
+00:54:02,080 --> 00:54:03,910
+<font color=#ffff00>Never, never would be good.</font>
+
+654
+00:54:03,930 --> 00:54:09,300
+<font color=#ffff00>- You guys can stay here, I am going.
+- No I'm not. Amara!</font>
+
+655
+00:54:09,640 --> 00:54:12,950
+<font color=#ffff00>Guys, we should not be in here.</font>
+
+656
+00:54:19,590 --> 00:54:22,300
+<font color=#ffff00>It's fused all the way to the system.</font>
+
+657
+00:54:22,980 --> 00:54:26,690
+<font color=#ffff00>Like muscle tissue.</font>
+
+658
+00:54:28,480 --> 00:54:32,650
+<font color=#ffff00>That's how it was able
+to move like. Cool.</font>
+
+659
+00:54:32,660 --> 00:54:34,250
+<font color=#ffff00>Yeah cool.</font>
+
+660
+00:54:35,030 --> 00:54:37,810
+<font color=#ffff00>Working with boobs are
+sounding better and better.</font>
+
+661
+00:54:37,830 --> 00:54:39,770
+<font color=#ffff00>You shine the light over here.</font>
+
+662
+00:54:40,170 --> 00:54:45,470
+<font color=#ffff00>Yes, just pull on the
+guts of that weird Kaiju.</font>
+
+663
+00:54:47,850 --> 00:54:51,530
+<font color=#ffff00>- What is it?
+- I think it's some kind of...</font>
+
+664
+00:54:52,820 --> 00:54:55,960
+<font color=#ffff00>- I told you not to...
+- Go get help.</font>
+
+665
+00:54:55,980 --> 00:54:57,890
+<font color=#ffff00>We are so screwed.</font>
+
+666
+00:55:01,640 --> 00:55:04,430
+<font color=#ffff00><i>The security takes over.
+We are done.</i></font>
+
+667
+00:55:10,730 --> 00:55:12,489
+<font color=#ffff00>Is Jinhai OK?</font>
+
+668
+00:55:12,490 --> 00:55:14,510
+<font color=#ffff00>He's got some scar,
+but yeah, he'll live.</font>
+
+669
+00:55:14,530 --> 00:55:17,580
+<font color=#ffff00>The Marshal plan on probation,
+Meilin and Suresh too.</font>
+
+670
+00:55:17,600 --> 00:55:20,770
+<font color=#ffff00>- They bleak wrong, all of them are out.
+- No it's not their fault.</font>
+
+671
+00:55:20,790 --> 00:55:23,250
+<font color=#ffff00>- I talked them into...
+- Sorry, I talked to the marshal, but</font>
+
+672
+00:55:23,270 --> 00:55:25,750
+<font color=#ffff00>you are dismissed from the program.</font>
+
+673
+00:55:26,850 --> 00:55:30,320
+<font color=#ffff00>- Never belonged to here anyway.
+- Really?</font>
+
+674
+00:55:31,800 --> 00:55:34,650
+<font color=#ffff00>I used to say the same
+thing a long time ago.</font>
+
+675
+00:55:39,780 --> 00:55:41,109
+<font color=#ffff00>Still don't.</font>
+
+676
+00:55:41,110 --> 00:55:45,570
+<font color=#ffff00>- Why did you sign up?
+- We were at war.</font>
+
+677
+00:55:45,580 --> 00:55:48,169
+<font color=#ffff00>My dad was leading the charge
+and I thought</font>
+
+678
+00:55:48,170 --> 00:55:50,040
+<font color=#ffff00>maybe I could see more of him.</font>
+
+679
+00:55:50,420 --> 00:55:52,710
+<font color=#ffff00>Maybe even drift with him.</font>
+
+680
+00:55:53,000 --> 00:55:55,690
+<font color=#ffff00>One night me and Nate got into it.</font>
+
+681
+00:55:55,830 --> 00:55:58,640
+<font color=#ffff00>It was over something stupid. I can't
+even remember what.</font>
+
+682
+00:55:58,730 --> 00:56:01,519
+<font color=#ffff00>So, I climbed in an old Mark 4</font>
+
+683
+00:56:01,520 --> 00:56:04,709
+<font color=#ffff00>just to show him,
+I didn't him to be a great pilot.</font>
+
+684
+00:56:04,710 --> 00:56:07,559
+<font color=#ffff00>- That is pretty dumb.
+- Yeah.</font>
+
+685
+00:56:07,560 --> 00:56:08,880
+<font color=#ffff00>How far did you get?</font>
+
+686
+00:56:08,900 --> 00:56:12,100
+<font color=#ffff00>- Seven steps take or leave.
+- How far did you get?</font>
+
+687
+00:56:12,130 --> 00:56:15,050
+<font color=#ffff00>About 2 steps. And I blacked
+out from the strain.</font>
+
+688
+00:56:15,070 --> 00:56:17,800
+<font color=#ffff00>And the first thing I saw when
+I woke up, was my dad.</font>
+
+689
+00:56:17,820 --> 00:56:20,670
+<font color=#ffff00>He's standing right in front
+of me looking stunned.</font>
+
+690
+00:56:20,800 --> 00:56:22,000
+<font color=#ffff00>What did he say?</font>
+
+691
+00:56:22,440 --> 00:56:24,940
+<font color=#ffff00>He said that I was out of the
+program, he said I didn't</font>
+
+692
+00:56:24,950 --> 00:56:27,710
+<font color=#ffff00>deserve to be in a Jaeger.
+Look he said a lot of things.</font>
+
+693
+00:56:30,530 --> 00:56:33,470
+<font color=#ffff00>A year later, my dad was gone.</font>
+
+694
+00:56:34,600 --> 00:56:36,130
+<font color=#ffff00>I didn't get a chance to prove him wrong.</font>
+
+695
+00:56:36,150 --> 00:56:39,830
+<font color=#ffff00>And more importantly, I could not
+get a chance to prove it to myself.</font>
+
+696
+00:56:40,040 --> 00:56:42,150
+<font color=#ffff00>You listen to me.</font>
+
+697
+00:56:42,550 --> 00:56:46,030
+<font color=#ffff00>Don't let what other people
+think of you define who you are.</font>
+
+698
+00:56:46,240 --> 00:56:48,400
+<font color=#ffff00>You won't like where that takes you.</font>
+
+699
+00:56:48,780 --> 00:56:50,140
+<font color=#ffff00>Do you understand?</font>
+
+700
+00:56:54,430 --> 00:56:56,479
+<font color=#ffff00>And keep your head up,</font>
+
+701
+00:56:56,480 --> 00:56:57,710
+<font color=#ffff00>then you might just be as</font>
+
+702
+00:56:57,730 --> 00:57:01,020
+<font color=#ffff00>good looking as me in
+this type of situation.</font>
+
+703
+00:57:01,300 --> 00:57:04,149
+<font color=#ffff00>This face is set up well.</font>
+
+704
+00:57:04,150 --> 00:57:05,720
+<font color=#ffff00>Beauty is a burden.</font>
+
+705
+00:57:09,040 --> 00:57:10,870
+<font color=#ffff00>You will be alright.</font>
+
+706
+00:57:14,490 --> 00:57:17,110
+<font color=#ffff00>SHAO Industries.</font>
+
+707
+00:57:17,910 --> 00:57:19,710
+<font color=#ffff00>What?</font>
+
+708
+00:57:19,750 --> 00:57:23,849
+<font color=#ffff00>Obsidian Fury has tech in it
+made by SHAO Industries.</font>
+
+709
+00:57:23,850 --> 00:57:25,269
+<font color=#ffff00>That's impossible.</font>
+
+710
+00:57:25,270 --> 00:57:27,396
+<font color=#ffff00>Jules and her team scanned every
+centimeter of that Jaeger.</font>
+
+711
+00:57:27,420 --> 00:57:31,520
+<font color=#ffff00>Insulating meta-materials wound
+counterclockwise in the shunt cabling.</font>
+
+712
+00:57:32,450 --> 00:57:35,269
+<font color=#ffff00>SHAO is the only company
+that winds in that way.</font>
+
+713
+00:57:35,270 --> 00:57:38,360
+<font color=#ffff00>Amara, are you sure about what
+you're telling me right now?</font>
+
+714
+00:57:40,610 --> 00:57:43,280
+<font color=#ffff00>I stole a ton to make scrapper.</font>
+
+715
+00:57:45,470 --> 00:57:48,220
+<font color=#ffff00>I thought it might be important.</font>
+
+716
+00:57:48,520 --> 00:57:52,040
+<font color=#ffff00>Yeah. Thank you.</font>
+
+717
+00:57:52,130 --> 00:57:54,080
+<font color=#ffff00>SHAO Industries.</font>
+
+718
+00:57:54,090 --> 00:57:57,360
+<font color=#ffff00>- They don't even have a bio division.
+- Not that we know of.</font>
+
+719
+00:57:57,380 --> 00:57:59,650
+<font color=#ffff00>The cabling could have been
+stolen, just like in Amara's</font>
+
+720
+00:57:59,660 --> 00:58:02,659
+<font color=#ffff00>Jaeger. We're gonna need more
+than that to connect it to SHAO.</font>
+
+721
+00:58:02,660 --> 00:58:03,760
+<font color=#ffff00>What about Newt?</font>
+
+722
+00:58:03,780 --> 00:58:06,350
+<font color=#ffff00>He'd have access to internal
+records and shipping manifests.</font>
+
+723
+00:58:06,370 --> 00:58:09,770
+<font color=#ffff00>Alright. Go see him,
+keep a low profile.</font>
+
+724
+00:58:09,800 --> 00:58:11,790
+<font color=#ffff00>I have a mission? Finally.</font>
+
+725
+00:58:11,820 --> 00:58:13,890
+<font color=#ffff00>We will take over
+Newt to the Marshal.</font>
+
+726
+00:58:14,990 --> 00:58:18,990
+<font color=#ffff00><b>SHAO INDUSTRIES.</b></font>
+
+727
+00:58:48,330 --> 00:58:49,730
+<font color=#ffff00>This isn't fair.</font>
+
+728
+00:58:52,580 --> 00:58:56,050
+<font color=#ffff00>I'm sorry. You don't deserve this.</font>
+
+729
+00:58:56,420 --> 00:58:58,760
+<font color=#ffff00>It was my fault.</font>
+
+730
+00:58:59,950 --> 00:59:02,200
+<font color=#ffff00>This is on me.</font>
+
+731
+00:59:11,990 --> 00:59:13,670
+<font color=#ffff00>Amara.</font>
+
+732
+00:59:15,260 --> 00:59:17,500
+<font color=#ffff00>The next Jaeger you build,</font>
+
+733
+00:59:18,340 --> 00:59:20,540
+<font color=#ffff00>make it a big one.</font>
+
+734
+00:59:31,830 --> 00:59:33,620
+<font color=#ffff00><i>System online.</i></font>
+
+735
+00:59:33,650 --> 00:59:39,700
+<font color=#ffff00>And we have delivery
+at 100%, people.</font>
+
+736
+00:59:39,720 --> 00:59:41,959
+<font color=#ffff00>A 100%. That's the way
+that it's done. OK?</font>
+
+737
+00:59:41,960 --> 00:59:43,930
+<font color=#ffff00>I told you we could do it and we did it.</font>
+
+738
+00:59:43,950 --> 00:59:47,619
+<font color=#ffff00><i>- Malfunction.</i>
+- I losing up link to drone 375.</font>
+
+739
+00:59:47,620 --> 00:59:50,739
+<font color=#ffff00>Why? Figure out why.</font>
+
+740
+00:59:50,740 --> 00:59:54,900
+<font color=#ffff00>We will take what we know to the
+council in person. Prepare transport.</font>
+
+741
+00:59:56,230 --> 00:59:57,860
+<font color=#ffff00>Give me a second.</font>
+
+742
+01:00:09,700 --> 01:00:11,980
+<font color=#ffff00>Get to Gipsy. Go!</font>
+
+743
+01:00:23,260 --> 01:00:27,160
+<font color=#ffff00>All pilots, man your Jaegers
+and engage the hostiles.</font>
+
+744
+01:00:42,470 --> 01:00:46,800
+<font color=#ffff00>You can do it. You cool?
+Yeah, super cool. Just stay calm.</font>
+
+745
+01:00:48,400 --> 01:00:49,980
+<font color=#ffff00>I know. I'm heading up.
+On my way.</font>
+
+746
+01:00:50,820 --> 01:00:53,610
+<font color=#ffff00>Hermann, what are you doing here?
+How did you get in?</font>
+
+747
+01:00:53,630 --> 01:00:57,359
+<font color=#ffff00>I do have PPDC credentials, and besides
+everyone else seemed to be little</font>
+
+748
+01:00:57,360 --> 01:01:00,320
+<font color=#ffff00>bit preocupied occupied with the
+killer drones your boss just set off.</font>
+
+749
+01:01:29,390 --> 01:01:31,449
+<font color=#ffff00>- She used you.
+- No.</font>
+
+750
+01:01:31,450 --> 01:01:33,769
+<font color=#ffff00>She lured you with
+money and a fancy title.</font>
+
+751
+01:01:33,770 --> 01:01:35,739
+<font color=#ffff00>And while you were
+basking in the glow,</font>
+
+752
+01:01:35,740 --> 01:01:37,850
+<font color=#ffff00>she took your research
+and she twisted it.</font>
+
+753
+01:01:38,200 --> 01:01:39,859
+<font color=#ffff00>Help me stop her, Newton.</font>
+
+754
+01:01:39,860 --> 01:01:42,339
+<font color=#ffff00>Help me save the world, like old times.</font>
+
+755
+01:01:42,340 --> 01:01:44,340
+<font color=#ffff00>Sorry, technically you
+helped me last time.</font>
+
+756
+01:01:44,370 --> 01:01:45,859
+<font color=#ffff00>Let's get that straight.</font>
+
+757
+01:01:45,860 --> 01:01:49,710
+<font color=#ffff00>Fine. Help me help you save the world.
+What do you say?</font>
+
+758
+01:01:49,740 --> 01:01:52,810
+<font color=#ffff00>I say... I say. Don't shoot!</font>
+
+759
+01:01:55,190 --> 01:01:57,080
+<font color=#ffff00>Damn it, why can't
+I get this language?</font>
+
+760
+01:02:00,200 --> 01:02:01,650
+<font color=#ffff00>What is happening?</font>
+
+761
+01:02:01,670 --> 01:02:04,679
+<font color=#ffff00>- Are those Jaegers?
+- No they are Drones of SHAO Industries.</font>
+
+762
+01:02:04,680 --> 01:02:07,240
+<font color=#ffff00>- What are they doing?
+- I don't know. They just went crazy.</font>
+
+763
+01:02:08,760 --> 01:02:11,120
+<font color=#ffff00>Get back to your quarters right now.</font>
+
+764
+01:02:13,390 --> 01:02:15,050
+<font color=#ffff00>Yes sir.
+Go, go, go!</font>
+
+765
+01:02:20,500 --> 01:02:24,970
+<font color=#ffff00>- Get the hell out of here.
+- Come on, get up.</font>
+
+766
+01:02:36,240 --> 01:02:39,110
+<font color=#ffff00>Really? Now?</font>
+
+767
+01:02:56,300 --> 01:02:59,410
+<font color=#ffff00>- Come on hurry!
+- Little help, Hermann?</font>
+
+768
+01:02:59,490 --> 01:03:02,930
+<font color=#ffff00>Learn how to use a gun.</font>
+
+769
+01:03:06,180 --> 01:03:07,960
+<font color=#ffff00>Thank you, Newton.</font>
+
+770
+01:03:12,310 --> 01:03:15,680
+<font color=#ffff00>You're done grabbing me,
+let's take care of the drones right?</font>
+
+771
+01:03:18,750 --> 01:03:21,670
+<font color=#ffff00>Everyone get out of the
+lab, or I'll shoot you.</font>
+
+772
+01:03:21,680 --> 01:03:23,660
+<font color=#ffff00>I'll shoot you twice.</font>
+
+773
+01:03:23,680 --> 01:03:25,400
+<font color=#ffff00>You are officially fired.
+Get out.</font>
+
+774
+01:03:26,020 --> 01:03:29,069
+<font color=#ffff00>- What do we do? How do we stop this?
+- There is a back door Hermaan.</font>
+
+775
+01:03:29,070 --> 01:03:31,360
+<font color=#ffff00>- To what?
+- To the drone sub routine.</font>
+
+776
+01:03:31,410 --> 01:03:33,540
+<font color=#ffff00>I added a sub routine
+just in case I wanna</font>
+
+777
+01:03:33,550 --> 01:03:35,480
+<font color=#ffff00>get in here and poke
+around down the road.</font>
+
+778
+01:03:35,500 --> 01:03:37,430
+<font color=#ffff00>Sneaky bastard.</font>
+
+779
+01:03:38,170 --> 01:03:39,800
+<font color=#ffff00>I know right.</font>
+
+780
+01:03:41,110 --> 01:03:43,610
+<font color=#ffff00>CONFIRMED
+INITIATING BREACH PROTOCOL</font>
+
+781
+01:03:44,350 --> 01:03:46,369
+<font color=#ffff00>What did you just do?</font>
+
+782
+01:03:46,370 --> 01:03:48,800
+<font color=#ffff00>What I have been planning
+the last ten years.</font>
+
+783
+01:03:51,540 --> 01:03:53,660
+<font color=#ffff00>I am ending the world.</font>
+
+784
+01:03:54,860 --> 01:03:57,660
+<font color=#ffff00><b>HONOLULU, USA.</b></font>
+
+785
+01:04:03,460 --> 01:04:05,360
+<font color=#ffff00><b>HONOLULU, HAWAII
+BREACH DETECTED.</b></font>
+
+786
+01:04:05,560 --> 01:04:08,460
+<font color=#ffff00><b>HONG KONG, CHINA
+BREACH DETECTED.</b></font>
+
+787
+01:04:10,060 --> 01:04:12,960
+<font color=#ffff00><b>ANCHORAGE, ALASKA
+BREACH DETECTED.</b></font>
+
+788
+01:04:30,240 --> 01:04:32,850
+<font color=#ffff00>All pilots, breaches detected.</font>
+
+789
+01:04:32,870 --> 01:04:37,200
+<font color=#ffff00>Drones in the field are opening multiple
+breaches across the pacific rim.</font>
+
+790
+01:04:48,390 --> 01:04:51,229
+<font color=#ffff00>Why would you do this?</font>
+
+791
+01:04:51,230 --> 01:04:53,310
+<font color=#ffff00>Why would I do this?</font>
+
+792
+01:04:53,390 --> 01:04:58,590
+<font color=#ffff00>Well, I guess I want it.
+Normally, it's not really my style.</font>
+
+793
+01:04:58,870 --> 01:05:01,789
+<font color=#ffff00>I don't know. Maybe I
+hate you over treating</font>
+
+794
+01:05:01,790 --> 01:05:03,720
+<font color=#ffff00>me like an insignificant
+little joke of a man.</font>
+
+795
+01:05:03,740 --> 01:05:07,810
+<font color=#ffff00>Maybe that's why he
+did it, Hermann. I did it.</font>
+
+796
+01:05:08,190 --> 01:05:11,640
+<font color=#ffff00>That's it. There you go.
+There is the problem.</font>
+
+797
+01:05:13,150 --> 01:05:17,240
+<font color=#ffff00>I am not just feeling
+totally myself these days.</font>
+
+798
+01:05:17,250 --> 01:05:18,810
+<font color=#ffff00>You.</font>
+
+799
+01:05:25,290 --> 01:05:26,910
+<font color=#ffff00>Precursors.</font>
+
+800
+01:05:29,290 --> 01:05:32,330
+<font color=#ffff00>Very good, Hermann.
+You figured it out.</font>
+
+801
+01:05:32,360 --> 01:05:34,230
+<font color=#ffff00>And as usual a step behind.</font>
+
+802
+01:05:34,250 --> 01:05:37,949
+<font color=#ffff00>Newton, you are a good man.
+You must stop.</font>
+
+803
+01:05:37,950 --> 01:05:39,850
+<font color=#ffff00>- Hermann.
+- You must stop it.</font>
+
+804
+01:05:39,870 --> 01:05:43,990
+<font color=#ffff00>- Please, you must fight back, Newton.
+- I am not strong enough.</font>
+
+805
+01:05:44,010 --> 01:05:49,550
+<font color=#ffff00>He is not strong enough.
+None of you is strong enough.</font>
+
+806
+01:05:53,430 --> 01:05:55,640
+<font color=#ffff00>I'm sorry, Hermann.</font>
+
+807
+01:05:57,440 --> 01:05:59,170
+<font color=#ffff00>They are in my head.</font>
+
+808
+01:06:03,910 --> 01:06:05,310
+<font color=#ffff00>Oh hey, boss.</font>
+
+809
+01:06:19,660 --> 01:06:22,599
+<font color=#ffff00>What the hell are you doing here?
+I told you to get to quarters.</font>
+
+810
+01:06:22,600 --> 01:06:24,560
+<font color=#ffff00>- All the doors are blocked.
+- What do we do?</font>
+
+811
+01:06:27,310 --> 01:06:31,280
+<font color=#ffff00>I mean 38% of your company
+is fully automated.</font>
+
+812
+01:06:31,380 --> 01:06:34,610
+<font color=#ffff00>It really wasn't very hard to
+re allocate a little over here</font>
+
+813
+01:06:34,630 --> 01:06:36,469
+<font color=#ffff00>and a little over there.</font>
+
+814
+01:06:36,470 --> 01:06:38,950
+<font color=#ffff00>And slipping a little Kaiju
+surprise without you noticing.</font>
+
+815
+01:06:48,100 --> 01:06:50,660
+<font color=#ffff00>Stop. Wait. Newt has
+no control over himself.</font>
+
+816
+01:06:50,680 --> 01:06:53,639
+<font color=#ffff00>It isn't him. It's the precursors.
+They must have</font>
+
+817
+01:06:53,640 --> 01:06:56,410
+<font color=#ffff00>infected his mind when we
+drifted with the Kaiju. Shut up.</font>
+
+818
+01:07:00,400 --> 01:07:03,070
+<font color=#ffff00>Stay here. We are gonna
+try and get to Gipsy.</font>
+
+819
+01:07:05,200 --> 01:07:08,640
+<font color=#ffff00>- Are you ready for this?
+- No you?</font>
+
+820
+01:07:08,660 --> 01:07:13,210
+<font color=#ffff00>- On three. One two...
+- Hello anyone there?</font>
+
+821
+01:07:13,590 --> 01:07:16,530
+<font color=#ffff00>- Gottlieb?
+- Jake, thank god.</font>
+
+822
+01:07:16,550 --> 01:07:19,350
+<font color=#ffff00>We are under attack.</font>
+
+823
+01:07:19,370 --> 01:07:22,450
+<font color=#ffff00>It isn't her, it isn't Liwen.
+It was Newt.</font>
+
+824
+01:07:22,480 --> 01:07:26,190
+<font color=#ffff00>The precursors. They infected him.
+They are controlling his mind.</font>
+
+825
+01:07:26,220 --> 01:07:28,899
+<font color=#ffff00>Gottlieb,
+can you get him to disable the drones?</font>
+
+826
+01:07:28,900 --> 01:07:30,210
+<font color=#ffff00>No, he got away.</font>
+
+827
+01:07:34,810 --> 01:07:36,840
+<font color=#ffff00>Gottlieb, shut them down.</font>
+
+828
+01:07:39,500 --> 01:07:43,250
+<font color=#ffff00>- It is trying to lock you out.
+- Feedback loop.</font>
+
+829
+01:07:52,220 --> 01:07:55,390
+<font color=#ffff00>What the hell is going on, Gottlieb?</font>
+
+830
+01:08:15,380 --> 01:08:18,010
+<font color=#ffff00>Gottlieb, Shut them down,
+or we're gonna die.</font>
+
+831
+01:08:19,760 --> 01:08:21,290
+<font color=#ffff00>Shut them down.</font>
+
+832
+01:09:00,670 --> 01:09:04,629
+<font color=#ffff00>Liwen has disabled the drones.
+The breaches are closed.</font>
+
+833
+01:09:04,630 --> 01:09:07,200
+<font color=#ffff00>I repeat the breaches are closed.</font>
+
+834
+01:09:10,210 --> 01:09:12,970
+<font color=#ffff00>- Oh no.
+- Oh no, what?</font>
+
+835
+01:09:13,000 --> 01:09:15,819
+<font color=#ffff00>Three Kaijus have gotten through.</font>
+
+836
+01:09:15,820 --> 01:09:19,050
+<font color=#ffff00>South Korea, Russian coast
+and the East China Sea.</font>
+
+837
+01:09:19,430 --> 01:09:22,860
+<font color=#ffff00>- Two Cat fours and a Cat 5.
+- Copy that.</font>
+
+838
+01:09:23,050 --> 01:09:26,860
+<font color=#ffff00>Get back to the dome.
+We need all the help we can get.</font>
+
+839
+01:09:30,580 --> 01:09:32,810
+<font color=#ffff00>- You guys okay?
+- Yes Ma'am.</font>
+
+840
+01:09:40,380 --> 01:09:41,639
+<font color=#ffff00>What do we got?</font>
+
+841
+01:09:41,640 --> 01:09:42,796
+<font color=#ffff00>The reports are still coming in</font>
+
+842
+01:09:42,820 --> 01:09:45,300
+<font color=#ffff00>but the drones attacked Jaegers
+in SHATTERDOME across the rim.</font>
+
+843
+01:09:45,330 --> 01:09:47,020
+<font color=#ffff00>Alright! How many
+Jaegers do we have here?</font>
+
+844
+01:09:47,050 --> 01:09:48,730
+<font color=#ffff00>Operational? Gipsy avenger, barely.</font>
+
+845
+01:09:48,760 --> 01:09:50,049
+<font color=#ffff00>That's it?
+- Yeah.</font>
+
+846
+01:09:50,050 --> 01:09:52,780
+<font color=#ffff00>We need more Jaegers up and running
+or this is gonna be a short fight.</font>
+
+847
+01:09:52,800 --> 01:09:55,830
+<font color=#ffff00>Even if we can, all of our pilots
+are dead or severely injured.</font>
+
+848
+01:09:55,850 --> 01:09:58,600
+<font color=#ffff00>One disaster at a time. Let's
+just focus on those Jaegers.</font>
+
+849
+01:10:00,430 --> 01:10:02,490
+<font color=#ffff00>Namani. Come over here.</font>
+
+850
+01:10:06,550 --> 01:10:09,380
+<font color=#ffff00>I need you to help Jules with
+the repairs. Can you do that?</font>
+
+851
+01:10:09,390 --> 01:10:10,530
+<font color=#ffff00>Said I was kicked out.</font>
+
+852
+01:10:10,560 --> 01:10:12,670
+<font color=#ffff00>I'm kicking you back in.</font>
+
+853
+01:10:12,860 --> 01:10:16,790
+<font color=#ffff00>She's pretty good at turning junk
+into Jaegers. You good with that?</font>
+
+854
+01:10:17,480 --> 01:10:19,060
+<font color=#ffff00>Hell yeah.</font>
+
+855
+01:10:19,080 --> 01:10:21,910
+<font color=#ffff00>Right we got a lot work to do.
+And not a lot of time.</font>
+
+856
+01:10:23,760 --> 01:10:25,380
+<font color=#ffff00>We got incoming.</font>
+
+857
+01:10:50,310 --> 01:10:52,670
+<font color=#ffff00>I brought some help.</font>
+
+858
+01:10:57,430 --> 01:11:01,570
+<font color=#ffff00>Hakuja, Shrikethorn and
+the big fellow... Raijin.</font>
+
+859
+01:11:01,600 --> 01:11:04,749
+<font color=#ffff00>I took the liberty of
+assigning the designations.</font>
+
+860
+01:11:04,750 --> 01:11:06,550
+<font color=#ffff00>Well the spiky guy and the
+big idiot are moving away</font>
+
+861
+01:11:06,560 --> 01:11:09,300
+<font color=#ffff00>from the cities towards the ocean.
+What does that mean?</font>
+
+862
+01:11:09,540 --> 01:11:13,309
+<font color=#ffff00>Maybe they are trying to link up
+with Hakuja in the East China Sea.</font>
+
+863
+01:11:13,310 --> 01:11:15,719
+<font color=#ffff00>I bet Newt would know
+what they are up to.</font>
+
+864
+01:11:15,720 --> 01:11:17,140
+<font color=#ffff00>If we can get it out of him.</font>
+
+865
+01:11:17,160 --> 01:11:19,760
+<font color=#ffff00>Yeah but we have to find him first.</font>
+
+866
+01:11:21,240 --> 01:11:23,280
+<font color=#ffff00>Any Jaegers closer to
+those Kaijus than us?</font>
+
+867
+01:11:23,300 --> 01:11:25,610
+<font color=#ffff00>What was left of the
+Chin-do and Sakhalinsk</font>
+
+868
+01:11:25,620 --> 01:11:28,050
+<font color=#ffff00>drones tried to intercept.
+Emphasis on tried.</font>
+
+869
+01:11:28,070 --> 01:11:31,329
+<font color=#ffff00>- I am afraid we are all alone.
+- There is gotta be something here...</font>
+
+870
+01:11:31,330 --> 01:11:33,530
+<font color=#ffff00>Something in the East China Sea.</font>
+
+871
+01:11:34,340 --> 01:11:36,819
+<font color=#ffff00>Maybe that's not
+where they are headed.</font>
+
+872
+01:11:36,820 --> 01:11:38,760
+<font color=#ffff00>Pull up a map of Kaiju
+movement from the war.</font>
+
+873
+01:11:38,780 --> 01:11:43,060
+<font color=#ffff00>- Pushing data to main display.
+- Well you know something we don't?</font>
+
+874
+01:11:43,340 --> 01:11:46,439
+<font color=#ffff00>You said we need to understand
+our enemy's objective,</font>
+
+875
+01:11:46,440 --> 01:11:48,140
+<font color=#ffff00>to know we've beaten them.</font>
+
+876
+01:11:48,230 --> 01:11:52,069
+<font color=#ffff00>What if the Kaiju weren't blindly
+attacking our city during the war?</font>
+
+877
+01:11:52,070 --> 01:11:53,760
+<font color=#ffff00>What if we were just in their way?</font>
+
+878
+01:11:57,600 --> 01:12:01,299
+<font color=#ffff00>Right here.
+Mount Fuji, Japan.</font>
+
+879
+01:12:01,300 --> 01:12:04,110
+<font color=#ffff00>Extrapolate for Hakuja,
+Shrikethorn and Raijin.</font>
+
+880
+01:12:07,610 --> 01:12:13,020
+<font color=#ffff00>- Mount Fuji? But why?
+- Rare earth elements.</font>
+
+881
+01:12:13,600 --> 01:12:17,790
+<font color=#ffff00>Mount Fuji is a volcano rich
+in rare earth elements.</font>
+
+882
+01:12:17,820 --> 01:12:21,319
+<font color=#ffff00>Kaiju blood reacts extremely
+violently with rare earth</font>
+
+883
+01:12:21,320 --> 01:12:23,990
+<font color=#ffff00>elements is the basis of my
+fuel thruster experiment.</font>
+
+884
+01:12:24,020 --> 01:12:26,660
+<font color=#ffff00>- That sounds bad. That's bad, right?
+- Very.</font>
+
+885
+01:12:27,020 --> 01:12:29,720
+<font color=#ffff00>Mount Fuji is active. A
+geological pressure point.</font>
+
+886
+01:12:29,750 --> 01:12:32,119
+<font color=#ffff00>Based on their blood
+to mass ratio, the</font>
+
+887
+01:12:32,120 --> 01:12:34,520
+<font color=#ffff00>Kaiju reaction would
+cause a cascade event.</font>
+
+888
+01:12:34,540 --> 01:12:38,300
+<font color=#ffff00>Igniting the Ring of
+Fire around the Pacific Rim.</font>
+
+889
+01:12:38,640 --> 01:12:43,690
+<font color=#ffff00>Billions of tons of toxic gas
+and ash will spill into the atmosphere...</font>
+
+890
+01:12:43,970 --> 01:12:45,700
+<font color=#ffff00>wiping out all life.</font>
+
+891
+01:12:45,720 --> 01:12:49,750
+<font color=#ffff00>And finish terraforming the earth
+for the Precursors.</font>
+
+892
+01:12:49,780 --> 01:12:51,429
+<font color=#ffff00>We can't let them
+reach Mount Fuji.</font>
+
+893
+01:12:51,430 --> 01:12:53,599
+<font color=#ffff00>I'm gonna check with Jules
+for the Jaeger repairs.</font>
+
+894
+01:12:53,600 --> 01:12:57,340
+<font color=#ffff00>Even if we had a hundred Jaegers,
+there is no way to intercept in time.</font>
+
+895
+01:12:57,350 --> 01:13:00,830
+<font color=#ffff00>- What bout your thruster pods?
+- No no no. They are not ready.</font>
+
+896
+01:13:00,840 --> 01:13:02,439
+<font color=#ffff00>Can they be?</font>
+
+897
+01:13:02,440 --> 01:13:05,620
+<font color=#ffff00>Well in theory. Maybe with your help.</font>
+
+898
+01:13:05,640 --> 01:13:07,480
+<font color=#ffff00>Gottlieb, what does that mean
+'in theory'?</font>
+
+899
+01:13:10,130 --> 01:13:14,950
+<font color=#ffff00>Today...
+it means 'yes'.</font>
+
+900
+01:13:58,400 --> 01:14:00,610
+<font color=#ffff00><i>Power partially restored in sector 2.</i></font>
+
+901
+01:14:00,630 --> 01:14:03,829
+<font color=#ffff00>Saber Athena, Guardian Bravo
+and Bracer Phoenix are good to go.</font>
+
+902
+01:14:03,830 --> 01:14:05,359
+<font color=#ffff00>Not a lot to work with.</font>
+
+903
+01:14:05,360 --> 01:14:08,270
+<font color=#ffff00>Liwen keep passing fury-tech
+in Gipsy that might help.</font>
+
+904
+01:14:08,910 --> 01:14:13,610
+<font color=#ffff00>- Prep everything we got for deployment.
+- OK. Don't get yourself killed.</font>
+
+905
+01:14:16,020 --> 01:14:17,820
+<font color=#ffff00>You either.</font>
+
+906
+01:14:22,860 --> 01:14:25,140
+<font color=#ffff00>Well that's confusing.</font>
+
+907
+01:14:27,720 --> 01:14:29,730
+<font color=#ffff00>Let's just stay focused.</font>
+
+908
+01:14:29,750 --> 01:14:33,229
+<font color=#ffff00>We got four Jaegers against
+two Category-4s and a five.</font>
+
+909
+01:14:33,230 --> 01:14:34,689
+<font color=#ffff00>It's better than just Gipsy.</font>
+
+910
+01:14:34,690 --> 01:14:37,990
+<font color=#ffff00>- We still need pilots.
+- We have them.</font>
+
+911
+01:14:56,220 --> 01:14:59,650
+<font color=#ffff00>If my dad was here,
+he would probably give you a big speech,</font>
+
+912
+01:15:00,420 --> 01:15:02,370
+<font color=#ffff00>make you feel invincible.</font>
+
+913
+01:15:04,950 --> 01:15:07,249
+<font color=#ffff00>I am not my father.</font>
+
+914
+01:15:07,250 --> 01:15:10,280
+<font color=#ffff00>I am not a hero like he was.</font>
+
+915
+01:15:11,640 --> 01:15:14,199
+<font color=#ffff00>Like Raleigh Becket</font>
+
+916
+01:15:14,200 --> 01:15:15,570
+<font color=#ffff00>and Mako Mori.</font>
+
+917
+01:15:16,250 --> 01:15:18,770
+<font color=#ffff00>But they didn't start out that way.</font>
+
+918
+01:15:19,250 --> 01:15:23,000
+<font color=#ffff00>They started out as cadets,
+just like you.</font>
+
+919
+01:15:23,380 --> 01:15:26,179
+<font color=#ffff00>We remember them as giants
+because they stood tall</font>
+
+920
+01:15:26,180 --> 01:15:27,920
+<font color=#ffff00>because they stood together.</font>
+
+921
+01:15:29,140 --> 01:15:32,170
+<font color=#ffff00>It does not matter who your
+parents are, where you</font>
+
+922
+01:15:32,180 --> 01:15:35,239
+<font color=#ffff00>came from who believed
+in you and who didn't.</font>
+
+923
+01:15:35,240 --> 01:15:39,529
+<font color=#ffff00>We are a family now, and we
+are earth's last defense.</font>
+
+924
+01:15:39,530 --> 01:15:43,550
+<font color=#ffff00>This is our time. This is our
+chance to make a difference.</font>
+
+925
+01:15:43,710 --> 01:15:47,989
+<font color=#ffff00>Now let's mount up and get
+it done, do you understand?</font>
+
+926
+01:15:47,990 --> 01:15:49,279
+<font color=#ffff00>Yes sir.</font>
+
+927
+01:15:49,280 --> 01:15:52,829
+<font color=#ffff00>- Jaeger pilots, do you understand?
+- Yes sir.</font>
+
+928
+01:15:52,830 --> 01:15:55,039
+<font color=#ffff00>- Do you understood?
+- Yes sir.</font>
+
+929
+01:15:55,040 --> 01:15:57,170
+<font color=#ffff00>Then help me save the world.</font>
+
+930
+01:15:57,420 --> 01:15:58,720
+<font color=#ffff00>Let's do this.</font>
+
+931
+01:16:03,250 --> 01:16:06,130
+<font color=#ffff00><i>- System online.</i>
+- Initiating neural handshake.</font>
+
+932
+01:16:06,150 --> 01:16:10,460
+<font color=#ffff00><i>- Establishing neural link.
+- Amara, jump in there.</i></font>
+
+933
+01:16:12,460 --> 01:16:15,299
+<font color=#ffff00>Neural handshake strong and steady.</font>
+
+934
+01:16:15,300 --> 01:16:17,990
+<font color=#ffff00>So... How does it feel
+to be in a real Jaeger?</font>
+
+935
+01:16:19,970 --> 01:16:21,919
+<font color=#ffff00>Bigger is not bad.</font>
+
+936
+01:16:21,920 --> 01:16:24,680
+<font color=#ffff00>All Jaegers, sound up.
+Go and go for launch.</font>
+
+937
+01:16:24,800 --> 01:16:28,789
+<font color=#ffff00>- Guardian Bravo, go.
+- Saber Athena, go.</font>
+
+938
+01:16:28,790 --> 01:16:32,520
+<font color=#ffff00>- Bracer Phoenix, let's go already.
+- Copy that.</font>
+
+939
+01:16:33,230 --> 01:16:38,300
+<font color=#ffff00>- Command, we are go for launch.
+- Roger, Gipsy Avenger.</font>
+
+940
+01:16:38,420 --> 01:16:41,170
+<font color=#ffff00>Ignition in ten seconds,</font>
+
+941
+01:16:41,190 --> 01:16:43,860
+<font color=#ffff00>nine, eight...</font>
+
+942
+01:16:43,880 --> 01:16:49,180
+<font color=#ffff00>seven, six, five, four...</font>
+
+943
+01:16:49,200 --> 01:16:53,370
+<font color=#ffff00>three, two, one...</font>
+
+944
+01:16:53,380 --> 01:16:54,620
+<font color=#ffff00>ignition.</font>
+
+945
+01:17:19,390 --> 01:17:23,440
+<font color=#ffff00><i>Warning:
+Exceeding structural limits.</i></font>
+
+946
+01:17:37,540 --> 01:17:39,299
+<font color=#ffff00>What the hell?</font>
+
+947
+01:17:39,300 --> 01:17:41,370
+<font color=#ffff00>My grandmother used to play it for me.</font>
+
+948
+01:17:41,390 --> 01:17:43,179
+<font color=#ffff00>Keeps me calm.</font>
+
+949
+01:17:43,180 --> 01:17:45,710
+<font color=#ffff00>What about me?
+I am not calm, man.</font>
+
+950
+01:17:57,830 --> 01:18:00,150
+<font color=#ffff00>I knew it would work.</font>
+
+951
+01:18:01,260 --> 01:18:04,660
+<font color=#ffff00><b>TOKYO, JAPAN.</b></font>
+
+952
+01:19:17,490 --> 01:19:20,989
+<font color=#ffff00>- Gipsy to Command, targets acquired.
+- Roger that, Gipsy.</font>
+
+953
+01:19:20,990 --> 01:19:22,660
+<font color=#ffff00>Everyone in the city is
+secured in underground</font>
+
+954
+01:19:22,670 --> 01:19:24,410
+<font color=#ffff00>shelters. You are
+clear to engage..</font>
+
+955
+01:19:24,440 --> 01:19:25,839
+<font color=#ffff00>Solid copy, going hard.</font>
+
+956
+01:19:25,840 --> 01:19:28,669
+<font color=#ffff00>Bracer Phoenix, on me.
+We'll take Raijin.</font>
+
+957
+01:19:28,670 --> 01:19:29,730
+<font color=#ffff00>Roger that, Gipsy.</font>
+
+958
+01:19:29,760 --> 01:19:32,050
+<font color=#ffff00>Saber Athena, Guardian
+Bravo, you take the other two.</font>
+
+959
+01:19:32,200 --> 01:19:35,210
+<font color=#ffff00>Copy that. It's our
+turn to save the world.</font>
+
+960
+01:19:35,220 --> 01:19:40,130
+<font color=#ffff00>- Let's hope so.
+- On my mark. Three, two, one, mark.</font>
+
+961
+01:20:28,240 --> 01:20:29,640
+<font color=#ffff00>Fire!</font>
+
+962
+01:20:44,220 --> 01:20:47,269
+<font color=#ffff00>Gipsy, Raijin's face
+plates are absorbing the</font>
+
+963
+01:20:47,270 --> 01:20:48,870
+<font color=#ffff00>hits and throwing the
+energy back at you.</font>
+
+964
+01:20:48,890 --> 01:20:50,410
+<font color=#ffff00>Let's see it absorb this.</font>
+
+965
+01:21:06,260 --> 01:21:08,740
+<font color=#ffff00>How many buildings
+can this thing take?</font>
+
+966
+01:21:32,300 --> 01:21:34,519
+<font color=#ffff00>Shrikethorn inbound.</font>
+
+967
+01:21:34,520 --> 01:21:37,070
+<font color=#ffff00>Guys, we could use some
+of the help over here.</font>
+
+968
+01:21:37,080 --> 01:21:38,880
+<font color=#ffff00>- Right Now.
+- Copy that, Saber.</font>
+
+969
+01:21:38,900 --> 01:21:42,330
+<font color=#ffff00>- Vik, take out Shrikethorn.
+- On it.</font>
+
+970
+01:21:55,330 --> 01:21:59,910
+<font color=#ffff00>Saber Athena, Guardian Bravo coming
+to assist. Activate the Arc Whip.</font>
+
+971
+01:22:17,360 --> 01:22:20,680
+<font color=#ffff00>Yeah. That's nice.
+You better run.</font>
+
+972
+01:22:20,690 --> 01:22:22,610
+<font color=#ffff00>These things ain't that tough.</font>
+
+973
+01:22:32,660 --> 01:22:36,050
+<font color=#ffff00>Bracer Phoenix, watch your six.
+Hostiles inbound.</font>
+
+974
+01:22:36,080 --> 01:22:37,310
+<font color=#ffff00>Copy that.</font>
+
+975
+01:22:56,500 --> 01:22:59,680
+<font color=#ffff00>OK. Giant robots again. Alright.</font>
+
+976
+01:22:59,700 --> 01:23:00,960
+<font color=#ffff00>Real original guys.</font>
+
+977
+01:23:00,980 --> 01:23:05,450
+<font color=#ffff00>I am not impressed.</font>
+
+978
+01:23:14,360 --> 01:23:16,509
+<font color=#ffff00>We've got movements,
+multiple hostiles,</font>
+
+979
+01:23:16,510 --> 01:23:18,110
+<font color=#ffff00>three kilometers south-east.</font>
+
+980
+01:23:18,190 --> 01:23:22,450
+<font color=#ffff00>- Liwen, are you reading this?
+- That is one of my automatic factories.</font>
+
+981
+01:23:24,090 --> 01:23:29,229
+<font color=#ffff00>It was Newt. He is in Tokyo.
+Locating his position.</font>
+
+982
+01:23:29,230 --> 01:23:32,760
+<font color=#ffff00>- Hostiles, one foot away and closing fast.
+- All Jaegers, brace for contact.</font>
+
+983
+01:23:32,780 --> 01:23:34,260
+<font color=#ffff00>Disengage and brace for contact.</font>
+
+984
+01:23:46,560 --> 01:23:49,820
+<font color=#ffff00>Let's go alright.
+Go, go, go. Go baby.</font>
+
+985
+01:23:54,310 --> 01:23:55,740
+<font color=#ffff00>Where are they going?</font>
+
+986
+01:24:52,190 --> 01:24:53,820
+<font color=#ffff00>Well. He's pretty big.</font>
+
+987
+01:25:07,690 --> 01:25:11,990
+<font color=#ffff00>All Jaegers, advance and
+fire everything you got. On my command.</font>
+
+988
+01:25:20,130 --> 01:25:21,470
+<font color=#ffff00>Go.</font>
+
+989
+01:25:46,220 --> 01:25:48,740
+<font color=#ffff00>- Guardian, stand down.
+- We have got this.</font>
+
+990
+01:25:48,770 --> 01:25:52,559
+<font color=#ffff00>Negative. That is an order.
+Freaking teenagers.</font>
+
+991
+01:25:52,560 --> 01:25:53,660
+<font color=#ffff00>Go for the eyes.</font>
+
+992
+01:25:53,690 --> 01:25:55,530
+<font color=#ffff00>- Which ones?
+- All of them.</font>
+
+993
+01:26:23,960 --> 01:26:26,050
+<font color=#ffff00>Ilya, Suresh, report.</font>
+
+994
+01:26:26,450 --> 01:26:29,350
+<font color=#ffff00>Do you copy?
+Come on guys.</font>
+
+995
+01:26:29,370 --> 01:26:33,490
+<font color=#ffff00>Guardian Bravo, give me a sit rep.
+You guys okay?</font>
+
+996
+01:26:33,510 --> 01:26:39,400
+<font color=#ffff00>Guardian is down.
+I'm here in the comm-pod. Suresh...</font>
+
+997
+01:26:42,770 --> 01:26:47,390
+<font color=#ffff00>- Suresh didn't make it.
+- Copy, Guardian.</font>
+
+998
+01:26:47,780 --> 01:26:50,710
+<font color=#ffff00>Just stay put. We'll send you help
+as soon as we can.</font>
+
+999
+01:26:54,580 --> 01:26:56,510
+<font color=#ffff00>Bracer Phoenix, report.</font>
+
+1000
+01:26:57,270 --> 01:26:58,670
+<font color=#ffff00>You guys okay?</font>
+
+1001
+01:26:58,690 --> 01:27:02,280
+<font color=#ffff00>Little bit duped, but
+we are still in the fight.</font>
+
+1002
+01:27:02,310 --> 01:27:06,950
+<font color=#ffff00>Us too, Saber.
+I mean Saber Athena sir.</font>
+
+1003
+01:27:06,970 --> 01:27:10,930
+<font color=#ffff00>Saber, Bracer, prepare to intercept
+to the following co ordinates.</font>
+
+1004
+01:27:10,950 --> 01:27:13,150
+<font color=#ffff00>Let's finish this, move
+your ass and don't be late.</font>
+
+1005
+01:27:13,730 --> 01:27:15,730
+<font color=#ffff00>Copy. Bracer
+Phoenix hauling ass.</font>
+
+1006
+01:27:17,950 --> 01:27:21,490
+<font color=#ffff00>Gipsy to Command, do you have
+a tactical scan of the hostile?</font>
+
+1007
+01:27:21,770 --> 01:27:23,269
+<font color=#ffff00>Assessing data from the sensors.</font>
+
+1008
+01:27:23,270 --> 01:27:25,390
+<font color=#ffff00>We have it Gipsy, but
+it's still compiling.</font>
+
+1009
+01:27:25,400 --> 01:27:27,800
+<font color=#ffff00>No time. Can you locate the brains?</font>
+
+1010
+01:27:27,820 --> 01:27:29,360
+<font color=#ffff00>Hostile's central brain
+mass is heavily armored.</font>
+
+1011
+01:27:29,380 --> 01:27:30,776
+<font color=#ffff00>Your weapons won't be
+able to penetrate.</font>
+
+1012
+01:27:30,800 --> 01:27:34,009
+<font color=#ffff00>What about a secondary brain?
+This son of bitch has one of those?</font>
+
+1013
+01:27:34,010 --> 01:27:38,029
+<font color=#ffff00>Hostile has three secondary brain,
+one for each component Kaiju.</font>
+
+1014
+01:27:38,030 --> 01:27:39,720
+<font color=#ffff00>Sending Intel.</font>
+
+1015
+01:27:40,700 --> 01:27:43,040
+<font color=#ffff00>Package confirmed from Saber Athena.</font>
+
+1016
+01:27:45,450 --> 01:27:47,240
+<font color=#ffff00>Confirmed from Bracer Phoenix.</font>
+
+1017
+01:27:47,250 --> 01:27:50,010
+<font color=#ffff00>Alright team, follow
+my lead and stay alert.</font>
+
+1018
+01:27:50,030 --> 01:27:52,850
+<font color=#ffff00>Fire up some of that
+Fury-tech Liwen grabbed us?</font>
+
+1019
+01:27:52,870 --> 01:27:54,450
+<font color=#ffff00>Read my mind, partner.</font>
+
+1020
+01:28:37,750 --> 01:28:40,200
+<font color=#ffff00>- Eject eject.
+<i>- Damage detected.</i></font>
+
+1021
+01:28:43,750 --> 01:28:45,720
+<font color=#ffff00>All pilots eject.</font>
+
+1022
+01:30:21,300 --> 01:30:24,980
+<font color=#ffff00><i>Warning:
+Neural power exceeded limit.</i></font>
+
+1023
+01:30:26,200 --> 01:30:31,290
+<font color=#ffff00>Nate. Stay with me, Nate.
+Get up, Nate.</font>
+
+1024
+01:30:31,870 --> 01:30:33,330
+<font color=#ffff00>Pilot down.</font>
+
+1025
+01:30:40,190 --> 01:30:43,070
+<font color=#ffff00>Get up from that, you pile of junk.</font>
+
+1026
+01:31:07,100 --> 01:31:08,630
+<font color=#ffff00>Bye.</font>
+
+1027
+01:31:08,650 --> 01:31:11,370
+<font color=#ffff00>Liwen, is there anything
+that you can do to help?</font>
+
+1028
+01:31:11,400 --> 01:31:12,630
+<font color=#ffff00>I need more time.</font>
+
+1029
+01:31:12,780 --> 01:31:14,830
+<font color=#ffff00>We don't have any. If the
+hostile reaches Mount Fuji...</font>
+
+1030
+01:31:14,850 --> 01:31:17,970
+<font color=#ffff00>Understood. I'm not
+gonna let that happen.</font>
+
+1031
+01:31:23,000 --> 01:31:25,540
+<font color=#ffff00>You can not operate Gipsy
+without a co-pilot.</font>
+
+1032
+01:31:25,550 --> 01:31:28,330
+<font color=#ffff00>The strain will tear
+your mind apart.</font>
+
+1033
+01:31:32,230 --> 01:31:35,690
+<font color=#ffff00>- What do we do now?
+- Regroup with the others.</font>
+
+1034
+01:31:37,570 --> 01:31:41,170
+<font color=#ffff00>Gipsy Avenger, this is Amara Namani.</font>
+
+1035
+01:31:41,180 --> 01:31:44,140
+<font color=#ffff00>Stand by for assist.
+- Amara don't.</font>
+
+1036
+01:31:44,320 --> 01:31:45,850
+<font color=#ffff00>- You won't make it.
+- Shut up.</font>
+
+1037
+01:31:45,870 --> 01:31:48,820
+<font color=#ffff00>- Don't. Don't.
+- Shut up.</font>
+
+1038
+01:32:05,650 --> 01:32:09,620
+<font color=#ffff00>- I told you.
+- Since when do I listen?</font>
+
+1039
+01:32:09,640 --> 01:32:12,400
+<font color=#ffff00>Amara, you're up..</font>
+
+1040
+01:32:12,870 --> 01:32:14,609
+<font color=#ffff00>What are you doing?</font>
+
+1041
+01:32:14,610 --> 01:32:18,830
+<font color=#ffff00>Getting the hell out of your way.
+You got this, brother.</font>
+
+1042
+01:32:21,350 --> 01:32:24,550
+<font color=#ffff00><i>Ejection sequence initiated.</i></font>
+
+1043
+01:32:27,350 --> 01:32:29,670
+<font color=#ffff00><i>Ejection sequence successful.</i></font>
+
+1044
+01:32:29,700 --> 01:32:32,900
+<font color=#ffff00>- Are you ready for this?
+- Only way to find out.</font>
+
+1045
+01:32:36,860 --> 01:32:42,210
+<font color=#ffff00>Standby, Command.
+Initiating neural handshake.</font>
+
+1046
+01:32:59,810 --> 01:33:02,220
+<font color=#ffff00>That was supposed to
+be epic, but it was not.</font>
+
+1047
+01:33:02,240 --> 01:33:03,320
+<font color=#ffff00>Definitely not.</font>
+
+1048
+01:33:03,350 --> 01:33:07,370
+<font color=#ffff00><i>Warning: test kit failure
+Multiple systems offline.</i></font>
+
+1049
+01:33:07,390 --> 01:33:08,790
+<font color=#ffff00>- Reboot.
+- Yeah OK. I'm on it.</font>
+
+1050
+01:33:08,940 --> 01:33:11,659
+<font color=#ffff00>Command to Gipsy. Hostile
+is two kilometers</font>
+
+1051
+01:33:11,660 --> 01:33:14,030
+<font color=#ffff00>from the summit of mount
+Fuji and closing fast.</font>
+
+1052
+01:33:28,760 --> 01:33:31,469
+<font color=#ffff00>Gottlieb, do you have
+enough fuel left in your</font>
+
+1053
+01:33:31,470 --> 01:33:33,010
+<font color=#ffff00>thrusters to launch us
+into the atmosphere.</font>
+
+1054
+01:33:33,030 --> 01:33:34,959
+<font color=#ffff00>- The Atmosphere?
+- Yeah.</font>
+
+1055
+01:33:34,960 --> 01:33:37,350
+<font color=#ffff00>Possibly, but there won't be
+enough to slow your re entry.</font>
+
+1056
+01:33:37,370 --> 01:33:38,700
+<font color=#ffff00>We don't need to slow down.</font>
+
+1057
+01:33:38,710 --> 01:33:40,380
+<font color=#ffff00>We're gonna drop gipsy
+right on top of that thing.</font>
+
+1058
+01:33:40,400 --> 01:33:45,129
+<font color=#ffff00>- I just ejected my escape pod.
+- You have to use mine.</font>
+
+1059
+01:33:45,130 --> 01:33:47,390
+<font color=#ffff00>Jake, there is only one thruster
+with enough fuel remaining.</font>
+
+1060
+01:33:47,410 --> 01:33:49,820
+<font color=#ffff00>- Sending location.
+- Alright, checking.</font>
+
+1061
+01:33:50,310 --> 01:33:51,990
+<font color=#ffff00>We are too far away.</font>
+
+1062
+01:33:53,480 --> 01:33:54,720
+<font color=#ffff00>We are not gonna make it.</font>
+
+1063
+01:33:54,740 --> 01:33:57,189
+<font color=#ffff00>Gipsy Avenger, transport inbound.</font>
+
+1064
+01:33:57,190 --> 01:34:00,010
+<font color=#ffff00>Remote systems are online.
+Sending help.</font>
+
+1065
+01:34:04,730 --> 01:34:06,270
+<font color=#ffff00>Scrapper.</font>
+
+1066
+01:34:22,430 --> 01:34:26,190
+<font color=#ffff00>I have located the
+thruster pod. Stand-by.</font>
+
+1067
+01:34:33,930 --> 01:34:36,559
+<font color=#ffff00>Come, move them little leg.</font>
+
+1068
+01:34:36,560 --> 01:34:39,146
+<font color=#ffff00>The thruster's way too strong.
+There is no way we could hold onto it.</font>
+
+1069
+01:34:39,170 --> 01:34:42,650
+<font color=#ffff00>- Liwen, what do you got?
+- I can weld it to your hand.</font>
+
+1070
+01:34:42,670 --> 01:34:46,499
+<font color=#ffff00>- I have upgraded Scrappers weapons.
+- Nice. I was actually gonna do that.</font>
+
+1071
+01:34:46,500 --> 01:34:48,700
+<font color=#ffff00>- No you wasn't.
+- Yes I was.</font>
+
+1072
+01:34:55,960 --> 01:35:00,090
+<font color=#ffff00>- We only got one shot at this.
+- Yeah. Let's make it count.</font>
+
+1073
+01:35:14,050 --> 01:35:15,679
+<font color=#ffff00>I'm stuck.</font>
+
+1074
+01:35:15,680 --> 01:35:18,070
+<font color=#ffff00>Stay there. Extra weight
+we can drop on that thing.</font>
+
+1075
+01:35:39,050 --> 01:35:41,630
+<font color=#ffff00>- She's falling apart.
+- We are almost there.</font>
+
+1076
+01:36:07,220 --> 01:36:10,220
+<font color=#ffff00>- We're drifting off course.
+- Use the plasma canon.</font>
+
+1077
+01:36:10,230 --> 01:36:13,380
+<font color=#ffff00>- Disengaging safety protocol.
+<i>- Plasma canon engaged.</i></font>
+
+1078
+01:36:17,580 --> 01:36:20,500
+<font color=#ffff00><i>Warning:
+Exceeding structural limits.</i></font>
+
+1079
+01:36:20,520 --> 01:36:22,500
+<font color=#ffff00>- It's working.
+<i>- Structural failure.</i></font>
+
+1080
+01:36:22,510 --> 01:36:23,980
+<font color=#ffff00>Hold on.</font>
+
+1081
+01:36:27,700 --> 01:36:31,220
+<font color=#ffff00>- Come on.
+- Target left.</font>
+
+1082
+01:36:31,240 --> 01:36:33,290
+<font color=#ffff00>Jake, Amara, you need to eject.</font>
+
+1083
+01:36:36,620 --> 01:36:40,649
+<font color=#ffff00>Disconnect, Amara. Disconnect.</font>
+
+1084
+01:36:40,650 --> 01:36:42,930
+<font color=#ffff00>I'll catch you, I promise.</font>
+
+1085
+01:36:43,620 --> 01:36:45,110
+<font color=#ffff00>Come on.</font>
+
+1086
+01:36:49,420 --> 01:36:52,610
+<font color=#ffff00>I have got you.
+Gipsy to Command,</font>
+
+1087
+01:36:52,620 --> 01:36:54,320
+<font color=#ffff00>we're getting the hell out of here.</font>
+
+1088
+01:36:55,500 --> 01:36:57,620
+<font color=#ffff00><i>Escape pod failure.</i></font>
+
+1089
+01:37:03,770 --> 01:37:05,970
+<font color=#ffff00>I'm sorry.</font>
+
+1090
+01:37:07,330 --> 01:37:10,980
+<font color=#ffff00>For what?
+We gotta save the world.</font>
+
+1091
+01:37:13,030 --> 01:37:14,990
+<font color=#ffff00>Your dad would be proud.</font>
+
+1092
+01:37:19,590 --> 01:37:24,140
+<font color=#ffff00>Scrapper, come here.
+Hurry up.</font>
+
+1093
+01:37:25,030 --> 01:37:26,320
+<font color=#ffff00>Move.</font>
+
+1094
+01:37:26,330 --> 01:37:30,210
+<font color=#ffff00>20 kilometers to impact.
+Get out of there.</font>
+
+1095
+01:37:30,820 --> 01:37:32,160
+<font color=#ffff00>Go. Go.</font>
+
+1096
+01:37:39,350 --> 01:37:41,310
+<font color=#ffff00>We are in. Close the door.</font>
+
+1097
+01:37:48,210 --> 01:37:50,249
+<font color=#ffff00>- Hang on.
+- I am hanging on.</font>
+
+1098
+01:37:50,250 --> 01:37:51,650
+<font color=#ffff00>Hang tighter!</font>
+
+1099
+01:38:57,790 --> 01:39:01,420
+<font color=#ffff00>OK. You know what? Plan B.
+Always a plan B.</font>
+
+1100
+01:39:05,150 --> 01:39:09,009
+<font color=#ffff00>Anyone who's listening,
+this is ranger Lambert.</font>
+
+1101
+01:39:09,010 --> 01:39:12,969
+<font color=#ffff00>- Be advised, we just got ourselves a Newt.
+- Copy that.</font>
+
+1102
+01:39:12,970 --> 01:39:15,829
+<font color=#ffff00>There he is. I'm glad
+to see you okay man.</font>
+
+1103
+01:39:15,830 --> 01:39:18,680
+<font color=#ffff00>You too, brother.
+I knew you could do it.</font>
+
+1104
+01:39:18,700 --> 01:39:21,840
+<font color=#ffff00>Well, I had a little of help.</font>
+
+1105
+01:39:23,370 --> 01:39:25,830
+<font color=#ffff00>- Nice work, ranger Namani.
+- Thank you sir.</font>
+
+1106
+01:39:31,040 --> 01:39:33,039
+<font color=#ffff00>I have never seen snow before.</font>
+
+1107
+01:39:33,040 --> 01:39:35,940
+<font color=#ffff00>About all the things you know this
+right now, you know since snow.</font>
+
+1108
+01:39:36,210 --> 01:39:39,450
+<font color=#ffff00>Big dead Kaiju is right over
+there and I do not know...</font>
+
+1109
+01:39:39,470 --> 01:39:42,560
+<font color=#ffff00>Is this the part where you're gonna
+give me one of those big dumb speeches?</font>
+
+1110
+01:39:42,590 --> 01:39:44,550
+<font color=#ffff00>Did everyone think it was
+dumb, or it was just your opinion?</font>
+
+1111
+01:39:44,570 --> 01:39:46,530
+<font color=#ffff00>How many times did you practice
+that in front of the mirror?</font>
+
+1112
+01:39:46,550 --> 01:39:48,950
+<font color=#ffff00>It was motivational. You can
+be who ever you want to be.</font>
+
+1113
+01:39:50,060 --> 01:39:51,830
+<font color=#ffff00>- Fire.
+- OK. Now are we going to play that?</font>
+
+1114
+01:39:51,850 --> 01:39:55,380
+<font color=#ffff00>- I am a natural. Give me a break.
+- No you're not a natural.</font>
+
+1115
+01:39:57,580 --> 01:39:59,790
+<font color=#ffff00>There you go boom.</font>
+
+1116
+01:40:02,280 --> 01:40:04,210
+<font color=#ffff00>We did it.</font>
+
+1117
+01:40:04,410 --> 01:40:09,600
+<font color=#ffff00>Subtitled by Clarity.</font>
+
+1118
+01:40:09,800 --> 01:40:12,660
+<font color=#ffff00>Previo: RQ & Mandy.</font>
+
+1119
+01:40:25,450 --> 01:40:29,260
+<font color=#ffff00>You think this is over huh? You think
+you saved your crappy little world?</font>
+
+1120
+01:40:29,850 --> 01:40:31,820
+<font color=#ffff00>We are gonna keep coming.</font>
+
+1121
+01:40:32,700 --> 01:40:34,260
+<font color=#ffff00>We are never going to stop,</font>
+
+1122
+01:40:34,290 --> 01:40:38,770
+<font color=#ffff00>and sooner or later your
+luck is going to run out.</font>
+
+1123
+01:40:43,200 --> 01:40:46,520
+<font color=#ffff00>The things in your head,
+the Precursors?</font>
+
+1124
+01:40:47,120 --> 01:40:49,329
+<font color=#ffff00>Tell them we are not afraid.</font>
+
+1125
+01:40:49,330 --> 01:40:50,859
+<font color=#ffff00>Tell them next time,</font>
+
+1126
+01:40:50,860 --> 01:40:53,350
+<font color=#ffff00>they will need to worry
+about coming for us.</font>
+
+1127
+01:40:53,840 --> 01:40:56,010
+<font color=#ffff00>Because we are gonna
+come for them.</font>
+

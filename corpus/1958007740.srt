@@ -1,0 +1,5579 @@
+﻿1
+00:01:09,069 --> 00:01:10,304
+- Hi, this is Alayna.
+
+2
+00:01:10,337 --> 00:01:12,006
+I can't come to the
+phone right now,
+
+3
+00:01:12,040 --> 00:01:14,074
+but please leave a message.
+
+4
+00:01:17,879 --> 00:01:19,079
+Hi, this is Alayna.
+
+5
+00:01:19,112 --> 00:01:20,915
+I can't come to the
+phone right now-
+
+6
+00:01:20,949 --> 00:01:22,215
+- Any luck?
+
+7
+00:01:22,249 --> 00:01:23,885
+It just keeps
+going to voicemail.
+
+8
+00:01:23,918 --> 00:01:25,385
+- This is Alayna
+we're talking about.
+
+9
+00:01:25,419 --> 00:01:27,220
+She's the closing act
+for tonight's show.
+
+10
+00:01:27,254 --> 00:01:28,088
+- Yeah, I know.
+
+11
+00:01:28,121 --> 00:01:29,189
+- Maybe her phone isn't working.
+
+12
+00:01:29,222 --> 00:01:30,925
+- You think so?
+
+13
+00:01:30,959 --> 00:01:33,260
+I mean, it's not like
+Alayna to miss concerts.
+
+14
+00:01:33,293 --> 00:01:34,494
+- You know she skipped
+school today, right?
+
+15
+00:01:34,529 --> 00:01:35,262
+- Are you serious?
+
+16
+00:01:35,295 --> 00:01:36,064
+- Yep.
+
+17
+00:01:36,096 --> 00:01:37,699
+- Who'd she go with?
+
+18
+00:01:37,732 --> 00:01:41,736
+- According to my resources,
+friend Darla and Jennifer.
+
+19
+00:01:41,769 --> 00:01:43,203
+- Jennifer?
+
+20
+00:01:43,236 --> 00:01:45,372
+- Yeah, that crazy punk rocker
+chick that nobody likes.
+
+21
+00:01:45,405 --> 00:01:47,842
+- Okay, let me try her again.
+
+22
+00:01:52,847 --> 00:01:53,748
+- Hello?
+
+23
+00:01:53,781 --> 00:01:54,749
+- Alayna?
+
+24
+00:01:54,782 --> 00:01:55,683
+It's Kara.
+
+25
+00:01:55,717 --> 00:01:57,317
+Where are you?
+
+26
+00:01:57,351 --> 00:01:59,219
+The concert's going to
+start in like 30 minutes,
+
+27
+00:01:59,252 --> 00:02:00,788
+and Leslie's been
+looking for you
+
+28
+00:02:00,822 --> 00:02:03,725
+to do some warmups
+and go over a plan.
+
+29
+00:02:03,758 --> 00:02:04,993
+- I'm going to be there soon,
+
+30
+00:02:05,026 --> 00:02:06,293
+but I'm in the middle
+of something right now.
+
+31
+00:02:06,326 --> 00:02:08,062
+- What are you talking about?
+
+32
+00:02:08,096 --> 00:02:10,230
+This is the biggest
+concert of the year!
+
+33
+00:02:10,263 --> 00:02:12,165
+There's gonna be recruiters
+from all the colleges.
+
+34
+00:02:12,199 --> 00:02:13,568
+- I know.
+
+35
+00:02:13,601 --> 00:02:15,570
+- This is the moment
+you've been waiting for,
+
+36
+00:02:15,603 --> 00:02:17,538
+the time for you to
+show off your new song.
+
+37
+00:02:17,572 --> 00:02:18,806
+- Okay, well what time's my cue?
+
+38
+00:02:18,840 --> 00:02:20,240
+I'm gonna try to
+be there on time.
+
+39
+00:02:20,273 --> 00:02:21,709
+- 7:45.
+
+40
+00:02:21,743 --> 00:02:24,311
+- Okay, I'll see you soon.
+
+41
+00:02:24,344 --> 00:02:26,914
+I need to kick
+someone's ass right now.
+
+42
+00:02:28,315 --> 00:02:31,953
+♪ I called you late last night ♪
+
+43
+00:02:31,986 --> 00:02:35,623
+♪ To see your sweet brown eyes ♪
+
+44
+00:02:35,657 --> 00:02:40,662
+♪ You said that
+you're leaving town ♪
+
+45
+00:02:43,097 --> 00:02:46,668
+♪ But if I come around soon ♪
+
+46
+00:02:46,701 --> 00:02:50,270
+♪ Then I could come with you ♪
+
+47
+00:02:50,303 --> 00:02:55,275
+♪ You said that
+you're leaving now ♪
+
+48
+00:02:56,544 --> 00:02:58,345
+♪ So I hooked down the phone ♪
+
+49
+00:02:58,378 --> 00:03:00,313
+♪ And I meeting alone ♪
+
+50
+00:03:00,347 --> 00:03:02,349
+♪ And I look at myself ♪
+
+51
+00:03:02,382 --> 00:03:06,353
+♪ And I know where I am and I ♪
+
+52
+00:03:06,386 --> 00:03:11,324
+♪ Had to get to you ♪
+
+53
+00:03:11,358 --> 00:03:13,293
+♪ So I run to your house ♪
+
+54
+00:03:13,326 --> 00:03:14,996
+♪ And there's no one around ♪
+
+55
+00:03:15,029 --> 00:03:16,964
+♪ So I knock on your door ♪
+
+56
+00:03:16,998 --> 00:03:21,035
+♪ And I tell you:
+You gotta stay ♪
+
+57
+00:03:21,069 --> 00:03:24,706
+♪ I had to get to you ♪
+
+58
+00:03:24,739 --> 00:03:27,975
+♪ I had to get to you ♪
+
+59
+00:03:42,222 --> 00:03:45,760
+♪ I called you late last night ♪
+
+60
+00:03:45,793 --> 00:03:49,329
+♪ To see your sweet brown eyes ♪
+
+61
+00:03:49,362 --> 00:03:54,367
+♪ You said that
+you're leaving town ♪
+
+62
+00:03:55,770 --> 00:03:57,505
+♪ So I hooked down the phone ♪
+
+63
+00:03:57,538 --> 00:03:59,339
+♪ And I meeting alone ♪
+
+64
+00:03:59,372 --> 00:04:01,274
+♪ And I look at myself ♪
+
+65
+00:04:01,308 --> 00:04:05,345
+♪ And I know where I am and I ♪
+
+66
+00:04:05,378 --> 00:04:08,381
+♪ Had to get to you ♪
+
+67
+00:04:10,350 --> 00:04:12,220
+♪ So I run to your house ♪
+
+68
+00:04:12,252 --> 00:04:14,055
+♪ And there's no one around ♪
+
+69
+00:04:14,088 --> 00:04:16,323
+♪ So I knock on your door ♪
+
+70
+00:04:16,356 --> 00:04:17,290
+- Knock, knock.
+
+71
+00:04:17,324 --> 00:04:18,559
+- Hey, you!
+
+72
+00:04:18,593 --> 00:04:19,694
+- Your mom let me in
+through the front door.
+
+73
+00:04:19,727 --> 00:04:20,928
+- That's okay.
+
+74
+00:04:20,962 --> 00:04:22,429
+I'm just glad I don't
+have to get a ride
+
+75
+00:04:22,462 --> 00:04:23,765
+from her every morning.
+
+76
+00:04:23,798 --> 00:04:26,399
+- You do know what day
+it is today, don't you?
+
+77
+00:04:26,433 --> 00:04:27,702
+- What?
+
+78
+00:04:27,735 --> 00:04:29,269
+- Why, it's senior skip day.
+
+79
+00:04:29,302 --> 00:04:31,973
+It's time to loosen
+up and meet some boys.
+
+80
+00:04:32,006 --> 00:04:34,474
+- Yeah, I forgot about that.
+
+81
+00:04:34,509 --> 00:04:36,409
+I don't think I can miss school.
+
+82
+00:04:36,443 --> 00:04:38,246
+I have a choir performance,
+
+83
+00:04:38,278 --> 00:04:40,413
+and there's no way I'm
+missing that recital.
+
+84
+00:04:40,447 --> 00:04:41,883
+- Why not?
+
+85
+00:04:41,916 --> 00:04:44,519
+- I'm doing the closing song
+for tonight's performance.
+
+86
+00:04:44,552 --> 00:04:46,286
+This is a big deal for me.
+
+87
+00:04:46,319 --> 00:04:47,922
+Don't mess it up.
+
+88
+00:04:47,955 --> 00:04:50,525
+And I have to be at school in
+order to go to the concert.
+
+89
+00:04:50,558 --> 00:04:52,026
+- Chill out.
+
+90
+00:04:52,059 --> 00:04:53,293
+We're gonna go pick
+up Darla right now,
+
+91
+00:04:53,326 --> 00:04:54,562
+and then we can stop by school
+
+92
+00:04:54,595 --> 00:04:57,265
+so that you can sign
+into your first period.
+
+93
+00:04:57,297 --> 00:04:59,399
+- I'm not even
+cool enough to go.
+
+94
+00:04:59,432 --> 00:05:01,736
+Besides, the other girls
+really don't like me
+
+95
+00:05:01,769 --> 00:05:03,436
+as much as you think they do.
+
+96
+00:05:03,470 --> 00:05:04,739
+I'm just a school choir nerd.
+
+97
+00:05:04,772 --> 00:05:07,307
+I'll probably make
+the whole day boring.
+
+98
+00:05:07,340 --> 00:05:10,545
+Plus, I've never
+skipped school before.
+
+99
+00:05:10,578 --> 00:05:13,413
+- It's gonna be so much fun,
+no matter what we do today.
+
+100
+00:05:13,446 --> 00:05:15,448
+And no one's even gonna
+know you're not at school.
+
+101
+00:05:15,482 --> 00:05:16,651
+I promise.
+
+102
+00:05:16,684 --> 00:05:18,351
+- I need to check into
+my first period class
+
+103
+00:05:18,385 --> 00:05:20,054
+so they don't count me absent.
+
+104
+00:05:20,087 --> 00:05:23,724
+- No one's even gonna suspect
+that you're not at school.
+
+105
+00:05:23,758 --> 00:05:25,492
+Come on. I have the car running.
+
+106
+00:05:25,526 --> 00:05:27,061
+- Wait.
+
+107
+00:05:27,094 --> 00:05:29,597
+I'm only in if you
+introduce me to Skip,
+
+108
+00:05:29,630 --> 00:05:32,465
+the student body
+president's hottest guy.
+
+109
+00:05:32,499 --> 00:05:34,969
+- Well, of course. Now come on.
+
+110
+00:06:23,383 --> 00:06:24,585
+- Jennifer Cunningham!
+
+111
+00:06:24,619 --> 00:06:27,622
+What do you think you're doing?
+
+112
+00:06:27,655 --> 00:06:28,455
+What is that?
+
+113
+00:06:29,523 --> 00:06:30,524
+- What's what?
+
+114
+00:06:30,558 --> 00:06:33,160
+- What's going on here?
+
+115
+00:06:33,194 --> 00:06:34,662
+- Oh! Pfft!
+
+116
+00:06:34,695 --> 00:06:38,431
+Well, you see, I was fixing
+it, because the computer broke,
+
+117
+00:06:38,465 --> 00:06:41,468
+and one of the circuits
+just totally flubbed on me,
+
+118
+00:06:41,502 --> 00:06:43,571
+so I was fixing the
+computer 'cause it decided,
+
+119
+00:06:43,604 --> 00:06:46,908
+the circuit decided to
+break, so I was fixing it.
+
+120
+00:06:46,941 --> 00:06:48,576
+That's what I was doing.
+
+121
+00:06:48,609 --> 00:06:50,144
+- Go have a seat.
+
+122
+00:06:51,212 --> 00:06:52,079
+- I'm serious!
+
+123
+00:06:52,113 --> 00:06:53,014
+The computer actually broke,
+
+124
+00:06:53,047 --> 00:06:54,715
+and I'm really trying to fix it.
+
+125
+00:06:54,749 --> 00:06:56,651
+- It's like the last time,
+when you phoned into the office
+
+126
+00:06:56,684 --> 00:06:58,352
+and you called and
+you said aliens
+
+127
+00:06:58,386 --> 00:07:00,121
+were attacking
+the football team.
+
+128
+00:07:00,154 --> 00:07:01,389
+- That's different.
+
+129
+00:07:01,421 --> 00:07:02,590
+I really thought
+that was happening,
+
+130
+00:07:02,623 --> 00:07:04,525
+but somebody played
+a prank on me.
+
+131
+00:07:04,558 --> 00:07:05,593
+- Go have a seat.
+
+132
+00:07:15,803 --> 00:07:18,438
+- Darla, dear, are you
+ready to go to school?
+
+133
+00:07:18,471 --> 00:07:20,408
+Mom, I told you I'm
+getting a ride from Bren.
+
+134
+00:07:20,440 --> 00:07:22,576
+She's picking up
+in five minutes.
+
+135
+00:07:22,610 --> 00:07:24,578
+- I need you to
+understand something.
+
+136
+00:07:24,612 --> 00:07:26,580
+Those girls are losers.
+
+137
+00:07:26,614 --> 00:07:29,550
+They will never
+amount to anything.
+
+138
+00:07:29,583 --> 00:07:31,986
+You need friends that
+are pretty, like you are,
+
+139
+00:07:32,019 --> 00:07:33,754
+ones who introduce you to guys,
+
+140
+00:07:33,788 --> 00:07:38,726
+rich guys, like I
+have, men with money.
+
+141
+00:07:38,759 --> 00:07:40,194
+- Stop, Mom.
+
+142
+00:07:40,227 --> 00:07:41,461
+- You're a fashion model,
+
+143
+00:07:41,494 --> 00:07:42,697
+and you only need
+what's good for you.
+
+144
+00:07:42,730 --> 00:07:45,633
+- Mom, I really like
+hanging out with Bren.
+
+145
+00:07:45,666 --> 00:07:46,734
+She stands up for me at school,
+
+146
+00:07:46,767 --> 00:07:48,269
+and all of the girls
+are hating on me.
+
+147
+00:07:48,302 --> 00:07:50,671
+- Just remember, you
+have an image to uphold,
+
+148
+00:07:50,705 --> 00:07:53,674
+and I expect you to keep
+yourself professional.
+
+149
+00:07:53,708 --> 00:07:54,474
+- I have to go.
+
+150
+00:07:54,508 --> 00:07:55,776
+- Keep your chin up
+
+151
+00:07:55,810 --> 00:07:57,477
+and cross your legs
+when you take a photo.
+
+152
+00:07:57,511 --> 00:07:58,746
+- Have a good day, Mom.
+
+153
+00:07:58,779 --> 00:08:00,247
+- Okay.
+
+154
+00:08:00,281 --> 00:08:01,716
+- Hi, girls.
+
+155
+00:08:01,749 --> 00:08:02,783
+- Hello.
+
+156
+00:08:02,817 --> 00:08:04,118
+- Do you wanna sit
+in the front seat?
+
+157
+00:08:04,151 --> 00:08:04,952
+- Stop it. No way.
+
+158
+00:08:04,986 --> 00:08:06,486
+You can ride shotgun.
+
+159
+00:08:12,660 --> 00:08:15,296
+So are you going to skip
+school with us today?
+
+160
+00:08:15,329 --> 00:08:19,433
+- Yes, but only if you
+introduce me to Skip.
+
+161
+00:08:19,467 --> 00:08:22,536
+- We will, don't worry.
+That is my specialty.
+
+162
+00:08:33,047 --> 00:08:37,885
+- The motto of this school
+is maneat in schola,
+
+163
+00:08:37,918 --> 00:08:41,622
+which, translated,
+means stay in school,
+
+164
+00:08:41,655 --> 00:08:43,591
+which is appropriate
+on a day like today
+
+165
+00:08:43,624 --> 00:08:45,626
+when so many young
+developing minds
+
+166
+00:08:45,659 --> 00:08:47,661
+are actually tempted
+to skip school.
+
+167
+00:08:47,695 --> 00:08:48,596
+Don't touch anything!
+
+168
+00:08:48,629 --> 00:08:49,630
+- I was just trying to-
+
+169
+00:08:49,663 --> 00:08:50,464
+- Stop!
+
+170
+00:08:51,732 --> 00:08:54,468
+Playing pranks on people and
+messing with school property?
+
+171
+00:08:54,503 --> 00:08:57,138
+That is not going to
+get you graduated.
+
+172
+00:08:57,171 --> 00:08:59,373
+It's like the last time
+you got in trouble,
+
+173
+00:08:59,407 --> 00:09:00,808
+you decided to go upstairs
+
+174
+00:09:00,841 --> 00:09:03,377
+and flood the second
+story bathroom stalls,
+
+175
+00:09:03,411 --> 00:09:05,579
+causing a major
+biochemical hazard,
+
+176
+00:09:05,613 --> 00:09:10,151
+and it still smells in Ms.
+Sosa's classroom really bad.
+
+177
+00:09:10,184 --> 00:09:12,853
+So now this is your last year.
+
+178
+00:09:12,887 --> 00:09:15,156
+Let's try not to get
+into any more trouble.
+
+179
+00:09:15,189 --> 00:09:17,691
+- But Principal Leigh,
+that one wasn't a prank.
+
+180
+00:09:17,725 --> 00:09:19,493
+School restrooms are disgusting.
+
+181
+00:09:19,528 --> 00:09:21,829
+I was testing out each
+toilet before I used it,
+
+182
+00:09:21,862 --> 00:09:23,064
+and then I had to run out
+
+183
+00:09:23,097 --> 00:09:25,366
+before the water
+levels got too high.
+
+184
+00:09:25,399 --> 00:09:27,368
+- And this is why you're
+having trouble in school.
+
+185
+00:09:27,401 --> 00:09:30,604
+You need to learn how to
+survive in the real world!
+
+186
+00:09:30,638 --> 00:09:32,673
+I'm telling you, if you
+don't change any this year,
+
+187
+00:09:32,706 --> 00:09:35,609
+I am not going to graduate you.
+
+188
+00:09:35,643 --> 00:09:39,480
+Show me that you can
+do one good thing.
+
+189
+00:09:39,514 --> 00:09:41,115
+Now get outta my
+office. Skedaddle.
+
+190
+00:09:41,148 --> 00:09:42,517
+Go. Just go.
+
+191
+00:09:42,551 --> 00:09:43,350
+Goodbye.
+
+192
+00:09:48,956 --> 00:09:50,591
+- All right, girls.
+
+193
+00:09:50,624 --> 00:09:53,861
+It's time to steal the
+trophy that I deserved.
+
+194
+00:09:53,894 --> 00:09:58,399
+Keep watch and make sure
+Miss Armstrong doesn't come.
+
+195
+00:09:59,733 --> 00:10:04,238
+♪ I'm calling to you from
+behind a wall of doubt ♪
+
+196
+00:10:07,241 --> 00:10:12,246
+♪ I'm praying that you're
+gonna come and let me out. ♪
+
+197
+00:10:12,913 --> 00:10:14,148
+- Okay, I'm gonna go in
+
+198
+00:10:14,181 --> 00:10:15,082
+and check into my
+first period class.
+
+199
+00:10:15,116 --> 00:10:16,585
+- Okay, we'll wait for you here.
+
+200
+00:10:16,617 --> 00:10:17,418
+- Okay.
+
+201
+00:10:19,854 --> 00:10:21,856
+- See you in a few.
+
+202
+00:10:21,889 --> 00:10:22,957
+- I hope she
+doesn't get caught.
+
+203
+00:10:22,990 --> 00:10:24,526
+- I know. Me too.
+
+204
+00:10:27,661 --> 00:10:29,663
+- Hi, Principal Leigh.
+
+205
+00:10:31,332 --> 00:10:32,266
+- Good morning.
+
+206
+00:10:32,299 --> 00:10:33,634
+♪ I know what you're thinking ♪
+
+207
+00:10:33,667 --> 00:10:35,636
+♪ But I've never
+done this before ♪
+
+208
+00:10:35,669 --> 00:10:38,272
+- Come on. Let's go.
+
+209
+00:10:39,673 --> 00:10:44,912
+♪ I'm not like the usual guys
+always down on the floor ♪
+
+210
+00:10:47,982 --> 00:10:49,116
+- Oh!
+
+211
+00:10:49,150 --> 00:10:50,251
+Sorry.
+
+212
+00:10:50,284 --> 00:10:51,418
+- Well, well, well.
+
+213
+00:10:51,452 --> 00:10:52,786
+Looky who we have here.
+
+214
+00:10:52,820 --> 00:10:54,455
+It's our favorite
+choir school nerd.
+
+215
+00:10:54,488 --> 00:10:55,823
+- Oh no.
+
+216
+00:10:55,856 --> 00:10:57,158
+Where are the rest of
+your retarded friends?
+
+217
+00:10:57,191 --> 00:10:58,826
+- They're in the car.
+
+218
+00:10:58,859 --> 00:11:00,461
+- You're not planning on
+doing senior skip day today,
+
+219
+00:11:00,494 --> 00:11:01,795
+are you?
+
+220
+00:11:01,829 --> 00:11:04,064
+- Yeah, actually we were.
+
+221
+00:11:04,098 --> 00:11:06,734
+- Nobody wants to see
+a loser skip school,
+
+222
+00:11:06,767 --> 00:11:08,802
+not even the students.
+
+223
+00:11:09,638 --> 00:11:12,439
+- What's with the trophy?
+
+224
+00:11:13,807 --> 00:11:16,210
+- Wouldn't you like to know?
+
+225
+00:11:19,480 --> 00:11:20,714
+- Bye bye, loser.
+
+226
+00:11:27,922 --> 00:11:30,659
+- Oh no. It's Jennifer,
+the school reject.
+
+227
+00:11:30,691 --> 00:11:31,560
+- Please don't come over here.
+
+228
+00:11:31,593 --> 00:11:32,726
+Please don't come over here.
+
+229
+00:11:32,760 --> 00:11:33,827
+- Hey!
+- She sees us.
+
+230
+00:11:33,861 --> 00:11:34,695
+- Hey.
+
+231
+00:11:35,796 --> 00:11:36,665
+Oh.
+
+232
+00:11:36,697 --> 00:11:37,398
+- Excuse me, Principal Leigh.
+
+233
+00:11:37,431 --> 00:11:38,832
+- Yes, may I help you?
+
+234
+00:11:38,866 --> 00:11:40,768
+I seem to be missing my first
+place cheerleading trophy
+
+235
+00:11:40,801 --> 00:11:42,803
+we won last weekend.
+
+236
+00:11:42,836 --> 00:11:44,639
+- Hey, watch it. That's my car.
+
+237
+00:11:44,673 --> 00:11:47,041
+- I bet you thought I was gonna
+break this, huh?
+
+238
+00:11:47,074 --> 00:11:48,475
+Well, not me.
+
+239
+00:11:49,743 --> 00:11:50,945
+- No!
+- No! Idiot!
+
+240
+00:11:54,181 --> 00:11:55,349
+- I can fix this.
+
+241
+00:11:55,382 --> 00:11:57,785
+- No, I can fix that.
+
+242
+00:11:57,818 --> 00:12:01,789
+- Of course you
+break the mirror, weirdo.
+
+243
+00:12:04,491 --> 00:12:06,994
+- So, where are we going?
+
+244
+00:12:07,027 --> 00:12:08,729
+- What are you doing in my car?
+
+245
+00:12:08,762 --> 00:12:11,832
+- We're waiting
+for Alayna. Gosh.
+
+246
+00:12:13,100 --> 00:12:14,368
+- I really hope the principal
+
+247
+00:12:14,401 --> 00:12:16,870
+doesn't know that
+we're skipping.
+
+248
+00:12:18,906 --> 00:12:20,074
+Oh no, she sees us. Duck!
+
+249
+00:12:20,107 --> 00:12:21,676
+- Drive,
+drive, drive, drive,
+
+250
+00:12:21,710 --> 00:12:24,579
+before the principal catches us!
+
+251
+00:12:24,613 --> 00:12:26,080
+- What the heck?
+
+252
+00:12:32,052 --> 00:12:33,921
+- Oh my gosh,
+oh my gosh, oh my gosh.
+
+253
+00:12:33,954 --> 00:12:35,222
+- Calm down!
+
+254
+00:12:35,256 --> 00:12:37,491
+- What up, loser?
+
+255
+00:12:37,525 --> 00:12:38,660
+- Go, go, go, go, please!
+
+256
+00:12:38,693 --> 00:12:41,563
+Skip Day!
+
+257
+00:12:49,803 --> 00:12:51,706
+- Wow! That was close.
+
+258
+00:12:51,740 --> 00:12:53,240
+- I knew we weren't
+gonna get caught.
+
+259
+00:12:54,074 --> 00:12:56,377
+- So, Jennifer, right?
+
+260
+00:12:56,410 --> 00:12:57,811
+- You know it. Woo!
+
+261
+00:12:59,614 --> 00:13:03,017
+- So, what are you doing
+in the car with us?
+
+262
+00:13:03,050 --> 00:13:04,653
+- Today's senior skip day!
+
+263
+00:13:04,686 --> 00:13:06,954
+I wouldn't miss it
+for the entire world!
+
+264
+00:13:06,987 --> 00:13:09,923
+- Right, but don't
+you have friends
+
+265
+00:13:09,957 --> 00:13:11,025
+that you could skip with?
+
+266
+00:13:11,058 --> 00:13:14,161
+I mean, we didn't
+really invite you.
+
+267
+00:13:14,194 --> 00:13:16,564
+- Well, yeah, I've
+got lots of friends.
+
+268
+00:13:16,598 --> 00:13:19,466
+I just choose not to
+hang out with them.
+
+269
+00:13:19,500 --> 00:13:21,603
+- Oh, yeah, for sure.
+
+270
+00:13:21,636 --> 00:13:23,937
+But where are they right now?
+
+271
+00:13:24,905 --> 00:13:26,206
+- That's not important.
+
+272
+00:13:26,240 --> 00:13:29,443
+I told you, I choose not
+to hang out with them.
+
+273
+00:13:29,476 --> 00:13:31,078
+- Aren't you in
+my physics class?
+
+274
+00:13:31,111 --> 00:13:34,014
+- Yeah. I am smart, you know?
+
+275
+00:13:34,048 --> 00:13:35,416
+- Yeah, you're just not pretty.
+
+276
+00:13:35,449 --> 00:13:39,353
+That's probably why
+you don't have friends.
+
+277
+00:13:39,386 --> 00:13:42,990
+- Hopefully I get
+to meet Skip today.
+
+278
+00:13:43,957 --> 00:13:45,794
+- I hope I meet a hot guy today.
+
+279
+00:13:45,826 --> 00:13:48,730
+I think my stupid
+boyfriend's cheating on me.
+
+280
+00:13:48,763 --> 00:13:51,733
+- I'm sorry, Darla,
+but I bet he is.
+
+281
+00:13:53,535 --> 00:13:54,935
+- And if he does,
+he'll regret it
+
+282
+00:13:54,968 --> 00:13:57,871
+when I become a big
+movie star one day.
+
+283
+00:13:57,905 --> 00:14:02,811
+- Um, Jennifer, why are you
+skipping school today again?
+
+284
+00:14:03,645 --> 00:14:04,945
+- Well, since I am a genius,
+
+285
+00:14:04,978 --> 00:14:07,515
+I do need to take a break
+every once in a while.
+
+286
+00:14:07,549 --> 00:14:09,584
+- Oh really? You need a break?
+
+287
+00:14:09,617 --> 00:14:10,451
+- Yeah.
+
+288
+00:14:10,484 --> 00:14:11,919
+- From what, yourself?
+
+289
+00:14:11,952 --> 00:14:14,455
+And now you're gracing us
+with all your presence?
+
+290
+00:14:14,488 --> 00:14:16,990
+- Okay, everyone. Let's
+just be nice, okay?
+
+291
+00:14:17,024 --> 00:14:18,793
+- So where are we going?
+
+292
+00:14:18,827 --> 00:14:20,127
+- I know what we should do!
+
+293
+00:14:20,160 --> 00:14:21,895
+Let's go grab breakfast!
+
+294
+00:14:25,199 --> 00:14:27,401
+- So whose house is
+this party at again?
+
+295
+00:14:27,434 --> 00:14:29,604
+- It's at Pedro's house.
+
+296
+00:14:29,637 --> 00:14:30,371
+- Pedro's cute.
+
+297
+00:14:30,404 --> 00:14:31,840
+- Yeah.
+
+298
+00:14:31,872 --> 00:14:33,040
+- Oh, Mr. Piggy,
+
+299
+00:14:34,576 --> 00:14:36,745
+you don't understand how
+long I've been craving
+
+300
+00:14:36,778 --> 00:14:39,581
+the touch of your
+sweet pork lips.
+
+301
+00:14:40,782 --> 00:14:42,851
+- Are you all sure
+that she's okay?
+
+302
+00:14:42,883 --> 00:14:44,451
+- Oh, oink, oink!
+
+303
+00:14:44,485 --> 00:14:46,053
+Oink, oink!
+
+304
+00:14:46,086 --> 00:14:48,021
+Make some bacon out
+of me, Mr. Piggy!
+
+305
+00:14:48,055 --> 00:14:49,223
+Oink, oink!
+
+306
+00:14:49,256 --> 00:14:52,359
+- She's just into weird stuff.
+
+307
+00:14:52,393 --> 00:14:53,828
+- I don't know, but she
+does stuff like that
+
+308
+00:14:53,862 --> 00:14:56,330
+all the time in physics class.
+
+309
+00:14:56,363 --> 00:14:58,031
+- I don't know about
+your friend, Alayna.
+
+310
+00:14:58,065 --> 00:14:59,601
+- Oh, shut up.
+
+311
+00:14:59,634 --> 00:15:00,901
+- I just don't think we should
+have let her come with us.
+
+312
+00:15:00,934 --> 00:15:02,136
+She's just gonna
+get us in trouble.
+
+313
+00:15:02,169 --> 00:15:04,572
+- She's gonna be fine.
+
+314
+00:15:04,606 --> 00:15:06,541
+Let's change the subject.
+
+315
+00:15:06,574 --> 00:15:08,543
+Darla, when's your
+next fashion show?
+
+316
+00:15:08,576 --> 00:15:10,944
+I saw that your mom was
+posting a bunch of new stuff.
+
+317
+00:15:10,978 --> 00:15:13,882
+- Why does she always push
+the fashion show stuff anyway?
+
+318
+00:15:13,914 --> 00:15:15,182
+- She wants me to grow up
+
+319
+00:15:15,215 --> 00:15:17,184
+and marry a handsome
+man with lots of money,
+
+320
+00:15:17,217 --> 00:15:18,952
+but I don't even know
+if I'm cut out for that.
+
+321
+00:15:18,986 --> 00:15:20,053
+- Don't even worry about that.
+
+322
+00:15:20,087 --> 00:15:22,256
+You have so much time
+to figure that out.
+
+323
+00:15:22,289 --> 00:15:23,758
+Let's get the check.
+
+324
+00:15:48,015 --> 00:15:52,119
+- Looks like we're here
+at the cool senior party.
+
+325
+00:15:53,588 --> 00:15:54,889
+I'm scared to go in!
+
+326
+00:15:54,923 --> 00:15:56,925
+- Don't be. This
+is gonna be fun.
+
+327
+00:15:56,957 --> 00:15:58,058
+- Okay.
+
+328
+00:15:58,091 --> 00:15:59,326
+- Are you excited to see Skip?
+
+329
+00:15:59,359 --> 00:16:01,729
+- Yeah, but I'm sort of nervous.
+
+330
+00:16:01,763 --> 00:16:04,632
+- So you like a dude named Skip?
+
+331
+00:16:04,666 --> 00:16:06,033
+- Yeah.
+
+332
+00:16:06,066 --> 00:16:07,902
+- His name is really Skip?
+
+333
+00:16:07,936 --> 00:16:09,169
+- Yeah!
+
+334
+00:16:09,203 --> 00:16:11,205
+- Sounds like a dog's name.
+
+335
+00:16:11,238 --> 00:16:13,173
+- But he's so cute.
+
+336
+00:16:13,207 --> 00:16:16,076
+- Yeah, well, my dog's cute,
+but I don't wanna date him.
+
+337
+00:16:16,109 --> 00:16:18,412
+- Okay, Alayna,
+Jennifer and Darla,
+
+338
+00:16:18,445 --> 00:16:21,081
+this is our senior
+skip day, okay?
+
+339
+00:16:21,114 --> 00:16:23,183
+It only happens once,
+
+340
+00:16:23,217 --> 00:16:24,786
+so we can't let this
+day just go by us
+
+341
+00:16:24,819 --> 00:16:27,187
+without living it to
+the absolute fullest.
+
+342
+00:16:27,221 --> 00:16:29,958
+It's gonna be the best day ever.
+
+343
+00:16:29,990 --> 00:16:31,058
+Senior skip day
+
+344
+00:16:32,794 --> 00:16:34,596
+will be one to remember.
+
+345
+00:16:50,979 --> 00:16:52,179
+- The
+last party I went to,
+
+346
+00:16:52,212 --> 00:16:56,116
+I got kicked out for
+drinking all the beer.
+
+347
+00:16:56,149 --> 00:16:58,151
+- Sure it's not because of
+the way you were dressed?
+
+348
+00:16:58,185 --> 00:17:00,153
+- Uh, Justin Bieber
+gave me this jacket
+
+349
+00:17:00,187 --> 00:17:02,189
+at a Hollywood party, so.
+
+350
+00:17:08,328 --> 00:17:09,864
+- Can I help you?
+
+351
+00:17:12,065 --> 00:17:13,333
+Aren't you the girls that
+got milk poured on your heads
+
+352
+00:17:13,367 --> 00:17:14,802
+at the homecoming dance?
+
+353
+00:17:14,836 --> 00:17:17,471
+- Uh, let me handle this.
+
+354
+00:17:17,505 --> 00:17:19,507
+- Do you really think
+we would let you losers
+
+355
+00:17:19,541 --> 00:17:21,543
+into the cool senior
+skip day party?
+
+356
+00:17:21,576 --> 00:17:24,546
+Besides, nobody even
+invited you all here.
+
+357
+00:17:24,579 --> 00:17:26,179
+You all need to leave now.
+
+358
+00:17:26,213 --> 00:17:27,314
+- Wait, wait, wait, wait.
+
+359
+00:17:27,347 --> 00:17:30,183
+We know the secret
+password. Just, um...
+
+360
+00:17:31,218 --> 00:17:33,021
+The password is, oh,
+
+361
+00:17:34,321 --> 00:17:35,088
+one.
+
+362
+00:17:36,256 --> 00:17:38,091
+Probably higher
+than you can count.
+
+363
+00:17:38,125 --> 00:17:40,160
+- Really? You girls are a joke!
+
+364
+00:17:40,193 --> 00:17:41,361
+- You know what?
+
+365
+00:17:41,395 --> 00:17:42,897
+Just let us in before
+I kick your ass, okay?
+
+366
+00:17:42,931 --> 00:17:44,699
+Pedro invited us over.
+
+367
+00:17:44,732 --> 00:17:46,199
+- Whatever, losers.
+
+368
+00:17:50,038 --> 00:17:51,471
+- Did you see what I got?
+
+369
+00:17:51,506 --> 00:17:53,340
+It's because I earned
+it, not Coach Armstrong.
+
+370
+00:17:53,373 --> 00:17:54,642
+It was me.
+
+371
+00:17:54,676 --> 00:17:57,077
+I finished in the
+final top score.
+
+372
+00:17:58,412 --> 00:17:59,212
+- Sure.
+
+373
+00:18:01,248 --> 00:18:03,317
+- Looks like they invited
+everyone to the party.
+
+374
+00:18:07,956 --> 00:18:10,758
+- I invited Bren yesterday
+'cause we got Spanish class.
+
+375
+00:18:10,792 --> 00:18:12,359
+She's cool.
+
+376
+00:18:12,392 --> 00:18:14,829
+I don't know about her other
+friends, but it's good.
+
+377
+00:18:19,099 --> 00:18:21,168
+- Weirdos. Am I right?
+
+378
+00:18:21,201 --> 00:18:22,971
+- Yeah, it's whatever.
+
+379
+00:18:51,264 --> 00:18:52,199
+- This is sick.
+
+380
+00:18:52,232 --> 00:18:53,266
+- Wow.
+
+381
+00:18:54,535 --> 00:18:57,772
+Oh, they're doing
+shots! I'll be back.
+
+382
+00:18:58,673 --> 00:18:59,874
+- I'm gonna take this call.
+
+383
+00:18:59,907 --> 00:19:00,675
+- Okay.
+
+384
+00:19:02,342 --> 00:19:04,244
+- Thank you for
+bringing me here.
+
+385
+00:19:04,277 --> 00:19:08,082
+- You're gonna have so
+much fun. You'll see.
+
+386
+00:19:08,116 --> 00:19:09,282
+- Look.
+
+387
+00:19:09,316 --> 00:19:11,085
+There's Skip.
+
+388
+00:19:30,470 --> 00:19:33,975
+- See? I told you
+that he'd be here.
+
+389
+00:19:34,008 --> 00:19:36,243
+Do you want me to break the ice?
+
+390
+00:19:36,276 --> 00:19:37,145
+- Can you?
+
+391
+00:19:37,177 --> 00:19:38,513
+- Of course I can. Come on.
+
+392
+00:19:38,546 --> 00:19:40,014
+Skip, hi.
+- Hey.
+
+393
+00:19:40,048 --> 00:19:41,749
+- I don't know if you remember
+me from history class,
+
+394
+00:19:41,783 --> 00:19:44,085
+but my name's Bren,
+this is Alayna.
+
+395
+00:19:45,019 --> 00:19:46,788
+- Yeah, Bren, I remember you.
+
+396
+00:19:46,821 --> 00:19:49,389
+And Alayna, yeah,
+you look familiar.
+
+397
+00:19:49,423 --> 00:19:51,258
+- Glad we can formally meet.
+
+398
+00:19:52,325 --> 00:19:53,761
+- I'm gonna head
+out for a second.
+
+399
+00:19:53,795 --> 00:19:54,562
+- Okay.
+
+400
+00:19:55,663 --> 00:19:57,264
+- You sing in the school choir.
+
+401
+00:19:57,297 --> 00:19:58,833
+I love to hear y'all sing.
+
+402
+00:19:58,866 --> 00:20:01,569
+- As a matter of fact, we
+have a choir recital tonight.
+
+403
+00:20:01,602 --> 00:20:03,571
+Maybe you could come.
+
+404
+00:20:03,604 --> 00:20:04,404
+- Yeah.
+
+405
+00:20:05,673 --> 00:20:06,974
+- Yo, Skip!
+
+406
+00:20:07,008 --> 00:20:10,178
+Hey, we are gonna do
+some shots out back!
+
+407
+00:20:10,210 --> 00:20:11,311
+You should totally join us.
+
+408
+00:20:11,344 --> 00:20:12,345
+- Okay. I'll be right there.
+
+409
+00:20:12,379 --> 00:20:13,147
+- Sounds good.
+
+410
+00:20:13,948 --> 00:20:16,383
+- I guess I gotta go.
+
+411
+00:20:16,416 --> 00:20:19,721
+Oh, yeah, give me your number.
+
+412
+00:20:19,754 --> 00:20:21,455
+I'll text you an address
+later in the day.
+
+413
+00:20:21,488 --> 00:20:24,291
+My sister's having a party
+at my house at 2:00 p.m.,
+
+414
+00:20:24,324 --> 00:20:26,894
+but it's for college kids only.
+
+415
+00:20:26,928 --> 00:20:28,428
+If you bring a bottle of vodka,
+
+416
+00:20:28,462 --> 00:20:30,898
+I'll make sure that they
+let you and your friends in.
+
+417
+00:20:30,932 --> 00:20:32,365
+Those are my sister's rules.
+
+418
+00:20:32,399 --> 00:20:33,400
+- Sounds good.
+
+419
+00:20:33,433 --> 00:20:35,136
+- Cool. See you there?
+
+420
+00:20:35,169 --> 00:20:35,937
+Awesome.
+
+421
+00:20:36,938 --> 00:20:38,039
+Hey, wait up!
+
+422
+00:20:41,609 --> 00:20:43,243
+- Yes!
+
+423
+00:20:43,276 --> 00:20:44,478
+- Hey, did you hear about
+that party later today?
+
+424
+00:20:56,423 --> 00:21:00,460
+- Well, three's a crowd,
+two's company, am I right?
+
+425
+00:21:03,798 --> 00:21:05,600
+- Weirdo.
+
+426
+00:21:37,397 --> 00:21:38,431
+- Mm-mm.
+
+427
+00:21:41,035 --> 00:21:42,537
+- What did he do this time?
+
+428
+00:21:42,570 --> 00:21:45,405
+See, I knew he was bad for you.
+
+429
+00:21:45,438 --> 00:21:47,642
+- Tommy just told me
+he found another girl.
+
+430
+00:22:01,589 --> 00:22:03,423
+- Darla, I'm so sorry.
+But you know what?
+
+431
+00:22:03,456 --> 00:22:05,993
+You're gonna find another
+guy, okay? I promise.
+
+432
+00:22:06,027 --> 00:22:08,830
+- I just met the guy
+I'm going to marry,
+
+433
+00:22:08,863 --> 00:22:11,666
+but he's right
+over there, so shh.
+
+434
+00:22:13,201 --> 00:22:16,336
+- See, I told you you
+could do it. That's great.
+
+435
+00:22:16,369 --> 00:22:20,241
+- What happened? Did
+I miss something?
+
+436
+00:22:20,274 --> 00:22:24,078
+- No, it's just her stupid
+boyfriend just called it quits.
+
+437
+00:22:24,111 --> 00:22:26,013
+- Let me just check
+in with my mom, okay?
+
+438
+00:22:26,047 --> 00:22:28,783
+- Seriously, chillax
+a little bit.
+
+439
+00:22:28,816 --> 00:22:31,619
+It's our senior skip day,
+and you wanna call your mom?
+
+440
+00:22:31,652 --> 00:22:32,954
+Let's just have fun today.
+
+441
+00:22:32,987 --> 00:22:35,122
+- Look, let me just
+give her a text, okay?
+
+442
+00:22:35,156 --> 00:22:37,124
+I always check in with
+her during lunchtime.
+
+443
+00:22:56,077 --> 00:22:57,678
+- I'm so excited to
+go to another party!
+
+444
+00:22:57,712 --> 00:22:59,313
+- Awesome.
+
+445
+00:22:59,347 --> 00:23:00,514
+- There you guys are!
+
+446
+00:23:00,548 --> 00:23:01,649
+I was just hanging out
+
+447
+00:23:01,682 --> 00:23:02,884
+with some really cool
+people over there.
+
+448
+00:23:02,917 --> 00:23:05,653
+I don't know if
+you've ever met...
+
+449
+00:23:05,686 --> 00:23:06,721
+Oh gosh.
+
+450
+00:23:07,521 --> 00:23:09,323
+Oh, me, myself, and I.
+
+451
+00:23:12,560 --> 00:23:14,195
+- Well, we were just hanging out
+
+452
+00:23:14,228 --> 00:23:16,764
+with the cool people
+from the party.
+
+453
+00:23:16,797 --> 00:23:19,700
+- Meeting guys and stuff.
+
+454
+00:23:19,734 --> 00:23:20,500
+- Come on.
+
+455
+00:23:26,607 --> 00:23:27,508
+Where's Jennifer?
+
+456
+00:23:27,541 --> 00:23:28,976
+thought she was right behind us.
+
+457
+00:23:29,010 --> 00:23:31,145
+- I think she went to the
+bathroom as we were walking out.
+
+458
+00:23:31,178 --> 00:23:32,580
+I think she's gross.
+
+459
+00:23:32,613 --> 00:23:35,583
+I literally cannot stand her.
+I hate the way she dresses.
+
+460
+00:23:35,616 --> 00:23:39,553
+- Not everyone can be like
+you, fashion model princess.
+
+461
+00:23:39,587 --> 00:23:40,621
+- Screw you.
+
+462
+00:23:40,655 --> 00:23:41,555
+- Screw me?
+
+463
+00:23:42,757 --> 00:23:44,592
+Why do you have
+to insult me now?
+
+464
+00:23:44,625 --> 00:23:46,661
+It's not her fault
+she likes punk rock.
+
+465
+00:23:46,694 --> 00:23:47,561
+It's her style. Get over it.
+
+466
+00:23:47,595 --> 00:23:48,763
+- You get over it.
+
+467
+00:23:48,796 --> 00:23:52,266
+Okay, we're all pretty.
+Just don't argue.
+
+468
+00:23:53,500 --> 00:23:54,268
+- Go!
+
+469
+00:23:55,236 --> 00:23:57,838
+- What did you just do?
+
+470
+00:23:59,607 --> 00:24:00,708
+No.
+
+471
+00:24:00,741 --> 00:24:01,776
+- Just drive.
+
+472
+00:24:03,476 --> 00:24:06,013
+- Those losers stole my trophy!
+
+473
+00:24:06,047 --> 00:24:07,081
+They're gonna pay for this.
+
+474
+00:24:07,114 --> 00:24:08,716
+Girls, gimme some salt!
+
+475
+00:24:12,286 --> 00:24:14,722
+Those girls are dead meat!
+
+476
+00:24:14,755 --> 00:24:17,258
+- Why do you have that
+trophy in your hand?
+
+477
+00:24:17,291 --> 00:24:19,393
+That's the one that Italy had.
+
+478
+00:24:19,427 --> 00:24:21,195
+- I stole it.
+
+479
+00:24:21,228 --> 00:24:22,763
+- Why?
+
+480
+00:24:22,797 --> 00:24:24,699
+- Because Italy stole it
+from cheer coach Armstrong.
+
+481
+00:24:24,732 --> 00:24:26,067
+I'm just returning it.
+
+482
+00:24:26,100 --> 00:24:27,568
+- And since when
+are you the hero?
+
+483
+00:24:27,601 --> 00:24:30,237
+I have to do one good
+deed before the year is up
+
+484
+00:24:30,271 --> 00:24:31,572
+in order to graduate.
+
+485
+00:24:31,605 --> 00:24:34,408
+That's what principal Leigh
+told me, so here it is.
+
+486
+00:24:34,442 --> 00:24:35,776
+- Jeez, Jennifer, you're crazy.
+
+487
+00:24:35,810 --> 00:24:38,913
+- Plus, I hate Italy. She's
+a bully, and I hate her.
+
+488
+00:24:38,946 --> 00:24:40,247
+- Well great!
+
+489
+00:24:40,281 --> 00:24:42,116
+Because now we're going
+to get our asses kicked.
+
+490
+00:24:42,149 --> 00:24:43,317
+- No.
+
+491
+00:24:43,351 --> 00:24:46,454
+You're gonna get
+your kicked for sure.
+
+492
+00:24:47,688 --> 00:24:50,591
+- Who's the best?
+You're the best.
+
+493
+00:24:50,624 --> 00:24:52,460
+Yeah, you're the best.
+
+494
+00:24:52,492 --> 00:24:53,728
+- So what's next?
+
+495
+00:24:53,761 --> 00:24:57,665
+- Well, we could be in
+third period right now.
+
+496
+00:24:57,698 --> 00:24:59,633
+That would suck.
+
+497
+00:24:59,667 --> 00:25:01,002
+- Let's go shopping!
+
+498
+00:25:01,035 --> 00:25:03,170
+Darla, you already
+said that, remember?
+
+499
+00:25:03,204 --> 00:25:05,906
+- I know, I know, but it's
+my favorite place to be.
+
+500
+00:25:05,940 --> 00:25:07,775
+- Let's go play
+miniature golfing!
+
+501
+00:25:07,808 --> 00:25:09,477
+- How about let's go
+back to the party.
+
+502
+00:25:09,510 --> 00:25:12,113
+- How about not. Is that a joke?
+
+503
+00:25:14,048 --> 00:25:15,983
+- Can I drive your car?
+
+504
+00:25:19,020 --> 00:25:20,821
+- Okay, fine.
+
+505
+00:25:20,855 --> 00:25:21,555
+Be careful.
+
+506
+00:25:22,556 --> 00:25:24,191
+♪ Don't you worry my child ♪
+
+507
+00:25:24,225 --> 00:25:27,261
+♪ Don't you know
+that it's all right ♪
+
+508
+00:25:27,294 --> 00:25:28,029
+♪ It's all right ♪
+
+509
+00:25:28,062 --> 00:25:28,829
+Oh wait.
+
+510
+00:25:31,699 --> 00:25:32,767
+- Alayna, watch out!
+
+511
+00:25:38,973 --> 00:25:43,744
+♪ Can't you feel the heat
+of a thousand headlights ♪
+
+512
+00:25:44,478 --> 00:25:46,981
+♪ Like starlight ♪
+
+513
+00:25:47,014 --> 00:25:52,019
+♪ Crashing waves on the
+shore that we can't find ♪
+
+514
+00:25:54,055 --> 00:25:56,757
+♪ Is there something ♪
+
+515
+00:25:56,791 --> 00:25:58,459
+♪ Somewhere ♪
+
+516
+00:25:58,492 --> 00:26:00,795
+♪ We can drive to ♪
+
+517
+00:26:00,828 --> 00:26:02,329
+♪ It's out there ♪
+
+518
+00:26:02,363 --> 00:26:04,665
+♪ Is there something ♪
+
+519
+00:26:04,698 --> 00:26:06,634
+♪ Somewhere ♪
+
+520
+00:26:06,667 --> 00:26:08,669
+♪ We can drive to ♪
+
+521
+00:26:08,702 --> 00:26:11,939
+♪ It's out there ♪
+
+522
+00:26:11,972 --> 00:26:15,976
+♪ I'm driving so you
+won't forget me ♪
+
+523
+00:26:16,010 --> 00:26:20,515
+♪ I hope we'll
+find a way again ♪
+
+524
+00:26:20,549 --> 00:26:24,718
+♪ I'm driving ♪
+
+525
+00:26:24,752 --> 00:26:29,757
+♪ I'm driving ♪
+
+526
+00:26:31,725 --> 00:26:36,730
+♪ Just drive ♪
+
+527
+00:26:40,101 --> 00:26:45,106
+♪ Just drive ♪
+
+528
+00:26:45,973 --> 00:26:47,708
+♪ Don't you worry my child ♪
+
+529
+00:26:47,741 --> 00:26:50,878
+♪ Don't you know
+that it's all right ♪
+
+530
+00:26:50,911 --> 00:26:53,747
+♪ It's all right ♪
+
+531
+00:26:53,781 --> 00:26:58,786
+♪ I feel the rush of
+all and we're alive ♪
+
+532
+00:27:00,821 --> 00:27:03,257
+♪ Is there something ♪
+
+533
+00:27:03,290 --> 00:27:04,959
+♪ Somewhere ♪
+
+534
+00:27:04,992 --> 00:27:07,328
+♪ We can drive to ♪
+
+535
+00:27:07,361 --> 00:27:09,196
+♪ It's out there ♪
+
+536
+00:27:09,230 --> 00:27:11,600
+♪ Is there something ♪
+
+537
+00:27:11,632 --> 00:27:13,267
+♪ Somewhere ♪
+
+538
+00:27:13,300 --> 00:27:15,736
+♪ We can drive to ♪
+
+539
+00:27:15,769 --> 00:27:17,572
+♪ It's out there ♪
+
+540
+00:27:17,606 --> 00:27:19,874
+♪ Is there something ♪
+
+541
+00:27:19,907 --> 00:27:21,942
+♪ Somewhere ♪
+
+542
+00:27:21,976 --> 00:27:23,811
+♪ We can drive to ♪
+
+543
+00:27:23,844 --> 00:27:25,946
+♪ It's out there ♪
+
+544
+00:27:25,980 --> 00:27:28,249
+♪ Is there something ♪
+
+545
+00:27:28,282 --> 00:27:29,917
+♪ Somewhere ♪
+
+546
+00:27:29,950 --> 00:27:32,386
+♪ We can drive to ♪
+
+547
+00:27:32,419 --> 00:27:35,122
+♪ It's out there ♪
+
+548
+00:27:52,373 --> 00:27:56,143
+♪ I'm driving so you
+won't forget me ♪
+
+549
+00:27:56,177 --> 00:28:00,615
+♪ I hope we'll
+find a way again ♪
+
+550
+00:28:00,649 --> 00:28:04,685
+♪ I'm driving ♪
+
+551
+00:28:04,718 --> 00:28:05,953
+♪ I'm driving ♪
+
+552
+00:28:05,986 --> 00:28:06,987
+- Slow down, slow down.
+- Oh my god, oh my god.
+
+553
+00:28:07,021 --> 00:28:09,524
+- Slow down.
+- That scared me.
+
+554
+00:28:09,558 --> 00:28:10,691
+- That was pretty good.
+
+555
+00:28:11,859 --> 00:28:12,960
+- Um...
+
+556
+00:28:12,993 --> 00:28:13,961
+Pop the trunk.
+
+557
+00:28:13,994 --> 00:28:14,995
+- Why?
+
+558
+00:28:18,232 --> 00:28:21,135
+- 'Cause I wanna put
+the trophy in the back.
+
+559
+00:28:21,168 --> 00:28:22,436
+I don't feel like carrying it.
+
+560
+00:28:22,469 --> 00:28:23,437
+- Oh, now you don't
+feel like carrying it?
+
+561
+00:28:23,470 --> 00:28:24,872
+- Pop the trunk!
+
+562
+00:28:37,885 --> 00:28:40,354
+Maybe we should link arms.
+
+563
+00:28:40,387 --> 00:28:41,155
+- No.
+
+564
+00:28:42,990 --> 00:28:44,825
+- This is where I
+like to hang out.
+
+565
+00:28:44,858 --> 00:28:47,629
+- You've never taken
+me here before.
+
+566
+00:28:47,662 --> 00:28:49,930
+- That's 'cause it's special.
+
+567
+00:28:52,933 --> 00:28:55,102
+- I think I need to
+find a new boyfriend.
+
+568
+00:28:55,135 --> 00:28:57,338
+- Who do you have in mind?
+
+569
+00:28:57,371 --> 00:29:00,874
+- I don't know, someone
+older, more mature.
+
+570
+00:29:02,343 --> 00:29:04,745
+I thought I would've met
+someone today, but who knows?
+
+571
+00:29:04,778 --> 00:29:07,716
+- Your last boyfriend
+was kind of a jerk.
+
+572
+00:29:07,748 --> 00:29:10,251
+He hung out with those
+like skater guys.
+
+573
+00:29:10,284 --> 00:29:12,987
+- But I like those skater guys.
+
+574
+00:29:13,020 --> 00:29:15,055
+They remind me of
+how I wanna dress.
+
+575
+00:29:15,089 --> 00:29:17,758
+My mom's always
+pushing me to dress up.
+
+576
+00:29:17,791 --> 00:29:21,262
+- For the record,
+I really like Skip.
+
+577
+00:29:21,295 --> 00:29:23,430
+He's like the one for me.
+
+578
+00:29:24,832 --> 00:29:26,033
+- We know.
+
+579
+00:29:27,636 --> 00:29:31,071
+- So Jennifer, who's
+your love interest?
+
+580
+00:29:31,105 --> 00:29:34,275
+- Don't have one.
+Boys are gross.
+
+581
+00:29:34,308 --> 00:29:35,909
+- So you don't like guys?
+
+582
+00:29:35,943 --> 00:29:37,978
+- That's not it.
+
+583
+00:29:38,012 --> 00:29:41,583
+- It's just I haven't
+found the right one for me.
+
+584
+00:29:41,616 --> 00:29:43,752
+- Well maybe if you dressed
+nicely, then you would.
+
+585
+00:29:51,458 --> 00:29:53,060
+- Oh no.
+
+586
+00:29:53,093 --> 00:29:54,795
+We're in trouble now.
+
+587
+00:29:57,898 --> 00:29:59,300
+- Here we are again.
+
+588
+00:29:59,333 --> 00:30:03,304
+My three retarded school
+nerds and their choir captain.
+
+589
+00:30:03,337 --> 00:30:06,106
+Where's my cheerleading trophy?
+
+590
+00:30:09,810 --> 00:30:10,811
+Where is it?
+
+591
+00:30:14,982 --> 00:30:17,117
+I want my cheerleading
+trophy now!
+
+592
+00:30:17,151 --> 00:30:18,919
+- Hey, how are we
+supposed to know?
+
+593
+00:30:18,952 --> 00:30:21,088
+I mean, we're not
+the ones who stole it
+
+594
+00:30:21,121 --> 00:30:24,391
+from the cheer coach's office.
+
+595
+00:30:24,425 --> 00:30:25,826
+- Give it to me.
+
+596
+00:30:25,859 --> 00:30:27,227
+- I don't have it.
+
+597
+00:30:27,261 --> 00:30:28,996
+- You know, it's probably
+where you left it last.
+
+598
+00:30:30,230 --> 00:30:31,800
+- You think this is funny?
+
+599
+00:30:31,832 --> 00:30:33,067
+I worked my butt
+off for that trophy.
+
+600
+00:30:33,100 --> 00:30:34,501
+Now where is it?
+
+601
+00:30:35,670 --> 00:30:38,038
+- We've never seen it before.
+
+602
+00:30:38,072 --> 00:30:39,507
+- You want my friends
+and I to kick your butts
+
+603
+00:30:39,541 --> 00:30:40,542
+and shake it out of you?
+
+604
+00:30:40,575 --> 00:30:42,976
+- Things get lost and, gosh,
+
+605
+00:30:43,010 --> 00:30:44,478
+people lose things all the time.
+
+606
+00:30:44,512 --> 00:30:48,683
+And, oh, it's especially
+prevalent in dumb bimbos.
+
+607
+00:30:50,884 --> 00:30:53,987
+- Why do you think
+we stole your trophy?
+
+608
+00:30:54,021 --> 00:30:57,157
+- You're gonna wish you never
+messed with me, choir nerd.
+
+609
+00:31:00,695 --> 00:31:01,629
+- Go, go, go!
+
+610
+00:31:01,663 --> 00:31:02,429
+Let's go!
+
+611
+00:31:10,938 --> 00:31:13,207
+- What the hell is going on?
+
+612
+00:31:13,240 --> 00:31:16,043
+I told you not to
+steal that trophy!
+
+613
+00:31:20,548 --> 00:31:22,416
+- Where are they going?
+
+614
+00:31:23,852 --> 00:31:25,953
+- Messing with
+people's fun, right?
+
+615
+00:31:25,986 --> 00:31:26,855
+- We need to get back to school
+
+616
+00:31:26,887 --> 00:31:28,188
+before we get into more trouble.
+
+617
+00:31:39,834 --> 00:31:40,735
+Oh my gosh.
+
+618
+00:31:46,775 --> 00:31:48,275
+- I want my trophy!
+
+619
+00:31:49,276 --> 00:31:50,911
+What are we gonna do?
+
+620
+00:31:50,944 --> 00:31:53,013
+- We're gonna lose
+'em, that's what.
+
+621
+00:32:03,357 --> 00:32:05,058
+- That was awesome!
+
+622
+00:32:06,160 --> 00:32:07,261
+Yeah!
+
+623
+00:32:07,294 --> 00:32:09,430
+- That was the best ever!
+
+624
+00:32:15,770 --> 00:32:17,037
+- I don't sees on them.
+
+625
+00:32:17,070 --> 00:32:19,707
+- Keep your eyes
+on them, ladies.
+
+626
+00:32:26,013 --> 00:32:27,114
+- There they are.
+
+627
+00:32:27,147 --> 00:32:29,249
+- Come and get us.
+
+628
+00:32:32,252 --> 00:32:35,523
+- They mess with the
+wrong cheerleader.
+
+629
+00:32:37,592 --> 00:32:39,594
+You're going down, choir nerds!
+
+630
+00:32:39,627 --> 00:32:40,427
+- Losers!
+
+631
+00:32:44,264 --> 00:32:47,301
+- We
+beat you, suckers!
+
+632
+00:32:51,840 --> 00:32:53,307
+- You're
+going, choir nerd!
+
+633
+00:32:57,645 --> 00:33:00,515
+- Old lady crossing the street!
+
+634
+00:33:00,548 --> 00:33:01,315
+- Look out!
+
+635
+00:33:02,282 --> 00:33:03,150
+- Que pasa!
+
+636
+00:33:07,254 --> 00:33:09,089
+- We beat you, suckers!
+
+637
+00:33:09,122 --> 00:33:10,792
+- That was so close!
+
+638
+00:33:10,825 --> 00:33:12,961
+- We had
+'em the whole time!
+
+639
+00:33:12,993 --> 00:33:14,662
+- Thanks to my driving.
+
+640
+00:33:14,696 --> 00:33:17,231
+- Man, I am so hyped right now!
+
+641
+00:33:17,264 --> 00:33:18,600
+This is like that
+time my dad took me
+
+642
+00:33:18,633 --> 00:33:20,300
+to the Cannonball
+cross-country race.
+
+643
+00:33:20,334 --> 00:33:21,803
+with millionaires
+and socialites.
+
+644
+00:33:21,836 --> 00:33:23,203
+- Well, we did it.
+
+645
+00:33:24,672 --> 00:33:27,241
+- Guys, the college
+party starts at 2:00 p.m.
+
+646
+00:33:27,274 --> 00:33:28,843
+- I know.
+
+647
+00:33:28,877 --> 00:33:31,211
+Skip is going to be there,
+and I'm super excited.
+
+648
+00:33:31,245 --> 00:33:33,748
+But there's just one problem.
+
+649
+00:33:34,682 --> 00:33:36,316
+- What's that?
+
+650
+00:33:36,350 --> 00:33:38,485
+- We need a bottle
+of liquor to get in.
+
+651
+00:33:38,520 --> 00:33:40,487
+It's Skip's sister's
+college party,
+
+652
+00:33:40,522 --> 00:33:43,625
+and that's the only way they'll
+let us high schoolers go.
+
+653
+00:33:43,658 --> 00:33:47,996
+- I think my mom has booze at
+her liquor bar in my house.
+
+654
+00:33:48,028 --> 00:33:49,229
+- Darla's house we go.
+
+655
+00:33:59,239 --> 00:34:00,808
+- I don't think anybody is home.
+
+656
+00:34:00,842 --> 00:34:02,276
+My mom's car's gone.
+
+657
+00:34:03,645 --> 00:34:05,647
+- That's great. Come on.
+
+658
+00:34:12,820 --> 00:34:13,688
+- Where's the booze?
+
+659
+00:34:13,721 --> 00:34:15,355
+Check the counter.
+
+660
+00:34:25,365 --> 00:34:27,134
+- Can I have one of
+these gummy bears?
+
+661
+00:34:27,167 --> 00:34:31,806
+Yeah, just take whatever you
+want. Take the whole bottle.
+
+662
+00:34:37,444 --> 00:34:40,048
+- Looks like there's no alcohol.
+
+663
+00:34:42,382 --> 00:34:44,384
+Except for in the trash.
+
+664
+00:34:47,387 --> 00:34:48,422
+Where's your bathroom?
+
+665
+00:34:48,455 --> 00:34:49,591
+- Down the hall.
+
+666
+00:36:05,499 --> 00:36:07,467
+- What was that?
+
+667
+00:36:07,501 --> 00:36:09,302
+It sounded like a car.
+
+668
+00:36:11,338 --> 00:36:13,440
+- Darla, are
+you expecting company?
+
+669
+00:36:13,473 --> 00:36:14,842
+- No, why?
+
+670
+00:36:14,876 --> 00:36:16,811
+- Looks like
+you have some now.
+
+671
+00:36:16,844 --> 00:36:18,311
+- Oh no. My mom is home.
+
+672
+00:36:18,345 --> 00:36:20,480
+Let's go hide in my room.
+
+673
+00:36:42,369 --> 00:36:43,838
+- So what are we gonna do?
+
+674
+00:36:43,871 --> 00:36:44,639
+- I don't know.
+
+675
+00:36:44,672 --> 00:36:45,472
+- Shh!
+
+676
+00:36:47,975 --> 00:36:51,378
+Why don't we just go
+through the window?
+
+677
+00:37:11,899 --> 00:37:15,536
+- Now we're never gonna
+get to that party.
+
+678
+00:37:16,738 --> 00:37:19,974
+- Wait, guys. I know
+where we can get alcohol.
+
+679
+00:37:20,007 --> 00:37:21,542
+- Where are we going?
+
+680
+00:37:21,576 --> 00:37:24,212
+- What? This isn't enough
+to get us into the party?
+
+681
+00:37:24,244 --> 00:37:25,513
+- No, Jennifer.
+
+682
+00:37:25,546 --> 00:37:26,714
+It's just that we
+need real liquor
+
+683
+00:37:26,748 --> 00:37:29,083
+so that we don't walk
+in looking like idiots.
+
+684
+00:37:29,117 --> 00:37:31,652
+I think I know a liquor
+store where we can get some.
+
+685
+00:37:31,686 --> 00:37:34,622
+- What do you know
+about buying alcohol?
+
+686
+00:37:34,655 --> 00:37:36,456
+- You don't know
+everything about me.
+
+687
+00:37:36,490 --> 00:37:38,325
+- It's because she hangs
+out with all the cool kids.
+
+688
+00:37:38,358 --> 00:37:39,794
+- Ha ha.
+
+689
+00:37:39,827 --> 00:37:41,929
+No, it's just that they let
+teenagers into this liquor store
+
+690
+00:37:41,963 --> 00:37:43,998
+because they sell
+chips and soda.
+
+691
+00:37:44,031 --> 00:37:45,265
+We should go check it out.
+
+692
+00:37:47,400 --> 00:37:49,537
+- Wait, can we turn this up?
+
+693
+00:37:49,570 --> 00:37:51,038
+- I love this song.
+
+694
+00:37:51,072 --> 00:37:52,106
+- You know this song?
+
+695
+00:37:52,140 --> 00:37:54,274
+- Everybody knows this song.
+
+696
+00:37:58,445 --> 00:38:03,618
+♪ I was always thinking
+I should be all alone ♪
+
+697
+00:38:06,554 --> 00:38:11,559
+♪ Not realizing that my
+heart was turning to stone ♪
+
+698
+00:38:13,261 --> 00:38:16,463
+♪ You never walked away ♪
+
+699
+00:38:16,496 --> 00:38:21,135
+♪ You never turned
+your back on me ♪
+
+700
+00:38:21,169 --> 00:38:24,539
+♪ You took me by the hand ♪
+
+701
+00:38:24,572 --> 00:38:29,577
+♪ You showed me how
+to set me free ♪
+
+702
+00:38:30,511 --> 00:38:35,482
+♪ I always thinking I
+should be missing out ♪
+
+703
+00:38:38,451 --> 00:38:43,456
+♪ Not realizing that my soul
+wants to scream and shout ♪
+
+704
+00:38:45,259 --> 00:38:48,563
+♪ You never walked away ♪
+
+705
+00:38:48,596 --> 00:38:53,167
+♪ You never turned
+your back on me ♪
+
+706
+00:38:53,201 --> 00:38:56,604
+♪ You took me by the hand ♪
+
+707
+00:38:56,637 --> 00:38:59,640
+♪ You me showed me
+how to set me free ♪
+
+708
+00:38:59,674 --> 00:39:02,076
+- You really think
+this is gonna work?
+
+709
+00:39:02,109 --> 00:39:04,312
+- I'm a pro. Trust me.
+
+710
+00:39:04,344 --> 00:39:05,513
+- Let me see it.
+
+711
+00:39:08,381 --> 00:39:12,653
+- You do realize that you made
+yourself 50 years old here?
+
+712
+00:39:12,687 --> 00:39:13,888
+- Yes, I know.
+
+713
+00:39:15,156 --> 00:39:17,357
+The guy who made it
+messed up this time.
+
+714
+00:39:17,390 --> 00:39:18,793
+- Well, let's hope
+you don't get caught.
+
+715
+00:39:18,826 --> 00:39:20,828
+- Don't jinx us.
+
+716
+00:39:20,862 --> 00:39:22,362
+- I don't think all of
+our lunch money combined
+
+717
+00:39:22,395 --> 00:39:24,464
+is gonna be enough.
+
+718
+00:39:24,497 --> 00:39:27,935
+- Well, maybe we can
+just get the small pint.
+
+719
+00:39:27,969 --> 00:39:29,270
+- Yeah, I don't drink.
+
+720
+00:39:29,303 --> 00:39:31,371
+It's just enough to
+get into the party.
+
+721
+00:39:31,404 --> 00:39:32,807
+- Let's go inside.
+
+722
+00:39:48,623 --> 00:39:50,358
+- Look over there.
+It's our four retards.
+
+723
+00:39:52,994 --> 00:39:56,330
+- The cops are gonna
+catch us for sure.
+
+724
+00:39:59,934 --> 00:40:01,535
+- Oh yeah?
+
+725
+00:40:01,569 --> 00:40:05,573
+Let's call Principal Leigh and
+leave an anonymous message.
+
+726
+00:40:06,741 --> 00:40:07,642
+Hello?
+
+727
+00:40:07,675 --> 00:40:09,677
+Principal Leigh por favor.
+
+728
+00:40:09,710 --> 00:40:11,846
+I just happened to be
+passing by the liquor store
+
+729
+00:40:11,879 --> 00:40:14,215
+on the corner of
+Vance Jackson and 410
+
+730
+00:40:14,248 --> 00:40:16,751
+and I noticed it looks
+like four of your students
+
+731
+00:40:16,784 --> 00:40:19,987
+are taking advantage
+of senior skip day.
+
+732
+00:40:20,021 --> 00:40:23,791
+I always say maneat in
+schola, stay in school.
+
+733
+00:40:25,059 --> 00:40:28,796
+- Guys, we're gonna
+get in huge trouble.
+
+734
+00:40:28,829 --> 00:40:31,599
+My dad once got arrested for
+doing something like this.
+
+735
+00:40:31,632 --> 00:40:33,834
+- What are you kids
+doing in my store?
+
+736
+00:40:33,868 --> 00:40:35,069
+- Uh, looking.
+
+737
+00:40:38,205 --> 00:40:39,439
+- What the hell do you want?
+
+738
+00:40:39,472 --> 00:40:42,376
+- Oh, we would like
+to to buy your-
+
+739
+00:40:42,410 --> 00:40:43,878
+- Speak up!
+
+740
+00:40:43,911 --> 00:40:46,681
+- We would like to buy your
+cheapest pinto of vodka please!
+
+741
+00:40:46,714 --> 00:40:49,817
+- Pint of our cheapest
+vodka? That's it?
+
+742
+00:40:58,359 --> 00:40:59,126
+Is that it?
+
+743
+00:40:59,160 --> 00:41:01,796
+- Yep. That's the one.
+
+744
+00:41:01,829 --> 00:41:05,032
+- Do you want to taste
+it first?
+
+745
+00:41:05,066 --> 00:41:06,400
+- Mm-mm.
+
+746
+00:41:08,501 --> 00:41:10,838
+- Are you girls old enough?
+
+747
+00:41:14,275 --> 00:41:15,843
+I don't believe you!
+
+748
+00:41:16,744 --> 00:41:18,312
+Let me see your ID.
+
+749
+00:41:18,346 --> 00:41:19,280
+- Show her the ID, Jennifer.
+
+750
+00:41:19,313 --> 00:41:21,148
+- Yes, the ID.
+
+751
+00:41:21,182 --> 00:41:24,185
+Ah, the ID that I
+have in my pocket.
+
+752
+00:41:25,186 --> 00:41:25,953
+Yep.
+
+753
+00:41:25,987 --> 00:41:26,854
+- Jennifer, the ID.
+
+754
+00:41:26,887 --> 00:41:29,156
+- Yeah, okay, I'm getting it.
+
+755
+00:41:29,190 --> 00:41:30,524
+Oh, here it is.
+
+756
+00:41:42,870 --> 00:41:43,938
+- Hm.
+
+757
+00:41:46,040 --> 00:41:48,943
+Get outta here before
+I call the cops on you!
+
+758
+00:42:00,354 --> 00:42:01,088
+- Oh, no.
+
+759
+00:42:08,763 --> 00:42:09,964
+- Surprise!
+
+760
+00:42:11,232 --> 00:42:15,002
+I just got an anonymous phone
+call that you all were here.
+
+761
+00:42:15,036 --> 00:42:17,171
+You're in a lot of trouble.
+
+762
+00:42:17,204 --> 00:42:19,940
+You're gonna spend the
+rest of the day in ISS.
+
+763
+00:42:19,974 --> 00:42:22,877
+Oh, that's in school
+suspension for skippers,
+
+764
+00:42:22,910 --> 00:42:24,545
+because you're a skipper,
+you're a skipper,
+
+765
+00:42:24,578 --> 00:42:26,881
+you're a skipper, and you,
+
+766
+00:42:26,914 --> 00:42:30,684
+you're on your way
+outta here, so let's go!
+
+767
+00:42:32,853 --> 00:42:34,822
+- If you have a contraband,
+
+768
+00:42:34,855 --> 00:42:37,892
+I want you to leave
+it right here.
+
+769
+00:42:42,663 --> 00:42:45,599
+Thank you. These are mine.
+
+770
+00:43:05,352 --> 00:43:07,655
+♪ Summer nights ♪
+
+771
+00:43:07,688 --> 00:43:12,660
+♪ Flashing lights ♪
+
+772
+00:43:15,029 --> 00:43:17,031
+♪ Give me love ♪
+
+773
+00:43:17,064 --> 00:43:22,069
+♪ And give me life ♪
+
+774
+00:43:24,405 --> 00:43:26,807
+♪ Summer nights ♪
+
+775
+00:43:26,841 --> 00:43:28,943
+♪ Flashing lights ♪
+
+776
+00:43:28,976 --> 00:43:30,411
+♪ When the DJ's spinnin' ♪
+
+777
+00:43:30,444 --> 00:43:33,981
+♪ Everybody out on the
+dance was singin' ♪
+
+778
+00:43:34,014 --> 00:43:36,217
+♪ Give me love ♪
+
+779
+00:43:36,250 --> 00:43:38,752
+♪ And give life ♪
+
+780
+00:43:38,786 --> 00:43:40,020
+♪ When the DJ's spinnin' ♪
+
+781
+00:43:40,054 --> 00:43:42,591
+♪ Everybody out on the
+dance was singin' ♪
+
+782
+00:43:42,656 --> 00:43:44,892
+♪ Hey oh ♪
+
+783
+00:43:44,925 --> 00:43:47,094
+♪ Way oh ♪
+
+784
+00:43:47,128 --> 00:43:49,864
+♪ Summer love makes
+me feel all right ♪
+
+785
+00:43:49,897 --> 00:43:51,999
+♪ These are the best
+days of my life ♪
+
+786
+00:43:52,032 --> 00:43:54,569
+♪ Hey oh ♪
+
+787
+00:43:54,603 --> 00:43:56,971
+♪ Way oh ♪
+
+788
+00:43:57,004 --> 00:43:59,306
+♪ Summer love makes
+me feel all right ♪
+
+789
+00:43:59,340 --> 00:44:00,875
+♪ These are the best
+days of my life ♪
+
+790
+00:44:00,908 --> 00:44:02,443
+- Do you wear makeup?
+
+791
+00:44:04,011 --> 00:44:05,312
+- Only this much.
+
+792
+00:44:09,650 --> 00:44:11,986
+- Well, do you wear lotion?
+
+793
+00:44:13,087 --> 00:44:13,854
+- No.
+
+794
+00:44:17,691 --> 00:44:19,693
+- Do you like the smell?
+
+795
+00:44:20,529 --> 00:44:22,229
+- It's nice, I guess.
+
+796
+00:44:32,873 --> 00:44:34,175
+- Excuse me, sir.
+
+797
+00:44:34,208 --> 00:44:35,176
+- Yes?
+
+798
+00:44:35,209 --> 00:44:37,278
+- May I please use the restroom?
+
+799
+00:44:37,311 --> 00:44:41,949
+- Okay. Just make sure you
+take a hall pass with you.
+
+800
+00:44:41,982 --> 00:44:44,285
+- Me too? Lady problems.
+
+801
+00:44:44,318 --> 00:44:46,387
+- Oh, okay. Then proceed.
+
+802
+00:44:56,363 --> 00:44:57,765
+You, too, I bet.
+
+803
+00:45:01,902 --> 00:45:04,471
+And let me guess. I bet you too.
+
+804
+00:45:07,007 --> 00:45:07,808
+- Yup.
+
+805
+00:45:09,376 --> 00:45:14,081
+- Ladies, just make sure you
+come back after you're done.
+
+806
+00:45:26,126 --> 00:45:30,699
+- I can't wait to graduate
+and get to go to college.
+
+807
+00:45:30,731 --> 00:45:33,702
+Don't your parents
+get on your nerves?
+
+808
+00:45:33,734 --> 00:45:35,202
+- Not really.
+
+809
+00:45:35,236 --> 00:45:37,304
+My parents don't
+really care about me.
+
+810
+00:45:37,338 --> 00:45:40,274
+- I'm so excited to get to
+go and live in a dorm room
+
+811
+00:45:40,307 --> 00:45:42,910
+and finally be by
+myself for once.
+
+812
+00:45:42,943 --> 00:45:44,111
+- You've got it lucky, Bren.
+
+813
+00:45:44,144 --> 00:45:46,046
+My mom is a monster.
+
+814
+00:45:46,080 --> 00:45:48,849
+- Would you say that
+your home life sucks?
+
+815
+00:45:48,882 --> 00:45:51,151
+- It doesn't suck. It's just
+something I don't want to do.
+
+816
+00:45:52,286 --> 00:45:53,954
+- My home life is awesome.
+
+817
+00:45:53,988 --> 00:45:55,923
+My dad cooks for me every night
+
+818
+00:45:55,956 --> 00:45:58,727
+and takes me exotic places
+around the world, so.
+
+819
+00:46:01,195 --> 00:46:02,597
+- Come on.
+
+820
+00:46:07,935 --> 00:46:09,738
+Can I tell you guys something?
+
+821
+00:46:09,770 --> 00:46:10,572
+- Sure.
+
+822
+00:46:13,173 --> 00:46:16,043
+- I don't really know what's
+gonna happen after today.
+
+823
+00:46:16,076 --> 00:46:17,579
+- What do you mean?
+
+824
+00:46:19,547 --> 00:46:24,552
+- You wanna know the real reason
+why I skipped school today?
+
+825
+00:46:27,622 --> 00:46:32,126
+I found out today that my
+parents are getting divorced.
+
+826
+00:46:34,261 --> 00:46:37,097
+- Bren, I'm so sorry.
+
+827
+00:46:39,166 --> 00:46:42,169
+- I don't even know where I'm
+gonna finish out the year.
+
+828
+00:46:42,202 --> 00:46:43,871
+My dad wants me to
+move out with him,
+
+829
+00:46:43,904 --> 00:46:47,141
+and my mom wants me
+to stay here with her.
+
+830
+00:46:47,174 --> 00:46:49,577
+What do they expect me to say?
+
+831
+00:46:51,378 --> 00:46:52,946
+It's like my last normal day
+
+832
+00:46:52,980 --> 00:46:54,882
+hanging out with my
+friends, you know?
+
+833
+00:46:54,915 --> 00:46:56,785
+- I know how you feel.
+
+834
+00:46:56,817 --> 00:47:01,255
+My parents don't really
+care about me either.
+
+835
+00:47:01,288 --> 00:47:02,590
+- You're a brat!
+
+836
+00:47:02,624 --> 00:47:04,458
+You have it so good, and
+you don't even know it!
+
+837
+00:47:04,491 --> 00:47:05,593
+- Hey!
+
+838
+00:47:05,627 --> 00:47:07,227
+- I can't even breathe
+
+839
+00:47:07,261 --> 00:47:10,130
+without my mom telling me
+how I'm doing it wrong.
+
+840
+00:47:10,164 --> 00:47:13,100
+The other day I had an
+eyelash out of place,
+
+841
+00:47:13,133 --> 00:47:15,704
+and she practically
+slapped me to fix it.
+
+842
+00:47:15,737 --> 00:47:18,606
+And then she took me to an
+audition the next morning,
+
+843
+00:47:18,640 --> 00:47:20,974
+because she said
+I was getting fat.
+
+844
+00:47:21,008 --> 00:47:22,744
+She says it's for my own good,
+
+845
+00:47:22,777 --> 00:47:24,679
+but I just wanna
+be a normal girl.
+
+846
+00:47:24,713 --> 00:47:25,714
+- Screw you!
+
+847
+00:47:27,147 --> 00:47:29,983
+Every girl in this
+school wants to be you,
+
+848
+00:47:30,017 --> 00:47:33,354
+and every boy wants
+to be with you!
+
+849
+00:47:33,387 --> 00:47:35,189
+- You know what? She's right.
+
+850
+00:47:35,222 --> 00:47:36,825
+I wish I were you.
+
+851
+00:47:36,857 --> 00:47:39,259
+At least your mom
+cares about you.
+
+852
+00:47:39,293 --> 00:47:41,161
+My parents are just
+rich and don't care.
+
+853
+00:47:41,195 --> 00:47:43,364
+- But you're so cool.
+
+854
+00:47:43,397 --> 00:47:44,632
+- I think I just get what I want
+
+855
+00:47:44,666 --> 00:47:47,134
+because I've been doing
+this my whole life.
+
+856
+00:47:47,167 --> 00:47:49,336
+I've tried getting into trouble.
+
+857
+00:47:49,370 --> 00:47:51,972
+I've tried being the good girl.
+
+858
+00:47:52,005 --> 00:47:53,808
+Nothing's good enough for them.
+
+859
+00:47:53,842 --> 00:47:55,677
+They just don't care.
+
+860
+00:47:55,710 --> 00:47:59,012
+- Well, my dad has all
+the money in the world,
+
+861
+00:47:59,046 --> 00:48:01,716
+so he travels with
+me everywhere.
+
+862
+00:48:05,319 --> 00:48:08,556
+- You're such a liar, Jennifer.
+
+863
+00:48:08,590 --> 00:48:11,058
+I've known you since
+the second grade,
+
+864
+00:48:11,091 --> 00:48:14,529
+and I've never
+even seen your dad.
+
+865
+00:48:14,562 --> 00:48:17,231
+Does he even pick
+you up from school?
+
+866
+00:48:17,264 --> 00:48:18,298
+- Hang on.
+
+867
+00:48:19,266 --> 00:48:22,169
+Why did you even
+skip school today?
+
+868
+00:48:24,238 --> 00:48:26,173
+- You really wanna know?
+
+869
+00:48:26,206 --> 00:48:27,709
+- No lies.
+
+870
+00:48:27,742 --> 00:48:29,076
+- No lies?
+
+871
+00:48:29,109 --> 00:48:30,944
+- Tell me the truth.
+
+872
+00:48:32,246 --> 00:48:36,316
+- I skipped school because
+I had nothing better to do.
+
+873
+00:48:36,350 --> 00:48:39,788
+I mean, do I look
+like I have friends?
+
+874
+00:48:39,821 --> 00:48:41,321
+People are scared of me.
+
+875
+00:48:41,355 --> 00:48:44,925
+Nobody wants to hang
+out with a punk rocker.
+
+876
+00:48:46,561 --> 00:48:47,928
+I don't look like them.
+
+877
+00:48:47,961 --> 00:48:49,430
+I don't wear the
+same clothes as them.
+
+878
+00:48:49,463 --> 00:48:51,265
+I don't act like them.
+
+879
+00:48:53,635 --> 00:48:56,671
+You know what my dad
+actually does for a living?
+
+880
+00:48:56,704 --> 00:48:58,205
+- What?
+
+881
+00:48:58,238 --> 00:49:02,443
+- He's a janitor at John
+H. Bueller High School.
+
+882
+00:49:02,476 --> 00:49:05,112
+- Why did you lie about him
+taking you to all these places?
+
+883
+00:49:05,145 --> 00:49:07,214
+- You wanna know why?
+
+884
+00:49:07,247 --> 00:49:10,852
+My dad wanted to
+play pro football,
+
+885
+00:49:10,885 --> 00:49:12,921
+and then he found
+out I was on the way,
+
+886
+00:49:12,953 --> 00:49:15,022
+and it was a huge
+surprise for him,
+
+887
+00:49:15,055 --> 00:49:17,090
+and he was gonna be
+the proud dad of a son
+
+888
+00:49:17,124 --> 00:49:18,927
+like he always wanted.
+
+889
+00:49:20,595 --> 00:49:22,664
+But he didn't have a son.
+
+890
+00:49:23,464 --> 00:49:25,432
+He had a little girl.
+
+891
+00:49:45,285 --> 00:49:46,487
+I hate myself.
+
+892
+00:50:05,272 --> 00:50:08,308
+- Well I think
+you're pretty cool.
+
+893
+00:50:09,611 --> 00:50:10,812
+- Yeah.
+
+894
+00:50:10,845 --> 00:50:13,313
+- You're actually really funny.
+
+895
+00:50:16,350 --> 00:50:17,652
+- Thanks.
+
+896
+00:50:17,685 --> 00:50:19,486
+This is all so stupid.
+
+897
+00:50:20,487 --> 00:50:21,856
+I know it's not gonna matter
+
+898
+00:50:21,890 --> 00:50:24,491
+once I leave this stupid school.
+
+899
+00:50:26,326 --> 00:50:27,962
+So what about you?
+
+900
+00:50:31,331 --> 00:50:34,501
+- Well, I guess I've
+had it pretty easy.
+
+901
+00:50:38,706 --> 00:50:40,340
+Wanna know something?
+
+902
+00:50:43,343 --> 00:50:45,713
+I've never even been kissed.
+
+903
+00:50:49,149 --> 00:50:53,955
+Bren, you're so cool and
+independent that I admire you.
+
+904
+00:50:57,592 --> 00:51:00,828
+You're like a big
+sister to me, family.
+
+905
+00:51:01,896 --> 00:51:04,398
+And Darla, you're so pretty,
+
+906
+00:51:04,431 --> 00:51:05,667
+but not just because
+of your looks
+
+907
+00:51:05,700 --> 00:51:08,502
+but because of who
+you are inside.
+
+908
+00:51:10,505 --> 00:51:13,741
+And Jennifer, I really
+like your stories.
+
+909
+00:51:13,775 --> 00:51:16,911
+I totally believe that
+you went to Mount Everest
+
+910
+00:51:16,945 --> 00:51:20,347
+and you got your jacket
+from Justin Bieber,
+
+911
+00:51:20,380 --> 00:51:22,349
+and maybe your dad is a rich man
+
+912
+00:51:22,382 --> 00:51:25,820
+who takes you to exotic places.
+
+913
+00:51:25,853 --> 00:51:26,621
+- Thanks.
+
+914
+00:51:28,923 --> 00:51:30,558
+So what about you?
+
+915
+00:51:32,459 --> 00:51:34,394
+Why did you skip today?
+
+916
+00:51:35,964 --> 00:51:40,902
+Because I just wanted to get
+a boyfriend before I graduate.
+
+917
+00:51:43,638 --> 00:51:48,076
+- Speaking of which, we've gotta
+get you to that last party.
+
+918
+00:51:48,108 --> 00:51:50,511
+If only we could get
+past the ISS teacher.
+
+919
+00:51:53,413 --> 00:51:55,617
+- What's so funny?
+
+920
+00:51:55,650 --> 00:51:59,219
+- I gave him those
+sleepy time gummy bears.
+
+921
+00:51:59,252 --> 00:52:01,388
+He ate the whole bottle.
+
+922
+00:52:01,421 --> 00:52:03,457
+He's not waking up
+till tomorrow morning.
+
+923
+00:53:05,352 --> 00:53:06,486
+- Come on, guys,
+let's go to my house.
+
+924
+00:53:06,521 --> 00:53:09,724
+We need change for
+that college party.
+
+925
+00:53:27,542 --> 00:53:29,977
+- What are we gonna do about
+the alcohol we need to bring?
+
+926
+00:53:30,011 --> 00:53:33,981
+- We're gonna have to go
+with this. I hope it works.
+
+927
+00:57:10,497 --> 00:57:11,866
+- Whoa.
+
+928
+00:57:11,899 --> 00:57:13,668
+Hi!
+
+929
+00:57:13,701 --> 00:57:14,835
+Alayna, you look great.
+
+930
+00:57:14,869 --> 00:57:16,570
+- Thank you, Skip.
+
+931
+00:57:16,604 --> 00:57:17,939
+You don't look so bad yourself.
+
+932
+00:57:17,972 --> 00:57:19,073
+- Oh.
+
+933
+00:57:19,106 --> 00:57:21,075
+- We brought the
+bottle of vodka.
+
+934
+00:57:21,108 --> 00:57:22,410
+- Oh, sweet.
+
+935
+00:57:22,442 --> 00:57:23,744
+Yeah, my sister will be
+super happy about that.
+
+936
+00:57:23,778 --> 00:57:24,946
+Come in, please.
+
+937
+00:57:30,952 --> 00:57:31,986
+So where are you going
+to college next year?
+
+938
+00:57:32,019 --> 00:57:33,921
+- Hopefully South Texas State.
+
+939
+00:57:33,955 --> 00:57:36,290
+- Oh, I hear they have
+really cool sororities there.
+
+940
+00:57:36,324 --> 00:57:40,161
+I hope to join a fraternity
+when I get into college.
+
+941
+00:57:40,194 --> 00:57:42,129
+You know, you're really cool.
+
+942
+00:57:42,163 --> 00:57:44,765
+I'm really glad I got
+to formally meet you.
+
+943
+00:57:44,799 --> 00:57:45,599
+- Thanks.
+
+944
+00:57:46,801 --> 00:57:50,805
+So, you're coming to my
+choir recital tonight, right?
+
+945
+00:57:50,838 --> 00:57:51,639
+- Yeah.
+
+946
+00:57:53,708 --> 00:57:56,243
+- All right, ladies.
+You ready for this?
+
+947
+00:57:56,277 --> 00:57:57,278
+- Yes.
+- Yes.
+
+948
+00:57:58,679 --> 00:57:59,680
+- Thank you.
+
+949
+00:57:59,714 --> 00:58:00,881
+- Mm-hm.
+
+950
+00:58:03,784 --> 00:58:04,585
+- Hey. Oh.
+
+951
+00:58:06,821 --> 00:58:08,422
+- Hey, loser.
+
+952
+00:58:08,456 --> 00:58:12,326
+What are you doing here?
+And where's my trophy?
+
+953
+00:58:12,360 --> 00:58:13,995
+- In a safe place.
+
+954
+00:58:16,130 --> 00:58:17,531
+- All right, ladies,
+let's drink up
+
+955
+00:58:17,565 --> 00:58:19,934
+before we kick this moron's ass.
+
+956
+00:58:19,967 --> 00:58:21,402
+- I really don't think
+you should drink-
+
+957
+00:58:21,435 --> 00:58:22,970
+- Shut up, loser!
+
+958
+00:58:26,807 --> 00:58:28,442
+- You do know that's
+toilet water, right?
+
+959
+00:58:31,879 --> 00:58:32,747
+- What the hell?
+
+960
+00:58:36,350 --> 00:58:37,985
+- You little shit!
+
+961
+00:58:46,861 --> 00:58:47,628
+- Hello?
+
+962
+00:58:47,661 --> 00:58:49,764
+- Alayna? It's Kara.
+
+963
+00:58:49,797 --> 00:58:51,098
+Where are you?
+
+964
+00:58:51,132 --> 00:58:52,967
+The concert's going to
+start in like 30 minutes,
+
+965
+00:58:53,000 --> 00:58:55,970
+a and Leslie's been looking
+for you to do some warmups
+
+966
+00:58:56,003 --> 00:58:57,805
+and go over a plan.
+
+967
+00:58:57,838 --> 00:58:59,006
+- I'm going to be there soon,
+
+968
+00:58:59,040 --> 00:59:00,241
+but I'm in the middle
+of something right now.
+
+969
+00:59:00,274 --> 00:59:01,976
+- What are you talking about?
+
+970
+00:59:02,009 --> 00:59:04,078
+This is the biggest
+concert of the year.
+
+971
+00:59:04,111 --> 00:59:06,013
+There's gonna be recruiters
+from all the colleges.
+
+972
+00:59:06,047 --> 00:59:07,415
+- I know.
+
+973
+00:59:07,448 --> 00:59:09,050
+- This is the moment
+you've been waiting for,
+
+974
+00:59:09,083 --> 00:59:11,385
+the time for you to
+show off your new song.
+
+975
+00:59:11,419 --> 00:59:12,720
+- Okay, well what time's my cue?
+
+976
+00:59:12,753 --> 00:59:14,121
+I'm gonna try to
+be there in time.
+
+977
+00:59:14,155 --> 00:59:15,489
+- 7:45.
+
+978
+00:59:15,524 --> 00:59:18,059
+- Okay, I'll see you soon.
+
+979
+00:59:18,092 --> 00:59:20,861
+I need to kick
+someone's ass right now.
+
+980
+00:59:27,101 --> 00:59:28,537
+- Stop it, Italy.
+
+981
+00:59:30,871 --> 00:59:32,239
+- Italy, what do you want?
+
+982
+00:59:32,273 --> 00:59:34,742
+- You know what I want. I
+want my trophy you stole.
+
+983
+00:59:34,775 --> 00:59:36,811
+- Uh, no, you stole it first.
+
+984
+00:59:36,844 --> 00:59:37,845
+I'm just returning it.
+
+985
+00:59:39,046 --> 00:59:40,848
+- So what if I stole
+it? I deserve it anyway.
+
+986
+00:59:40,881 --> 00:59:42,716
+And you girls should have
+never taken it for me.
+
+987
+00:59:42,750 --> 00:59:45,352
+- Nobody cares about
+your stupid trophy.
+
+988
+00:59:45,386 --> 00:59:48,055
+I'm sick and tired of you
+messing with me and my friends,
+
+989
+00:59:48,089 --> 00:59:51,092
+and this is gonna be
+the last time you do.
+
+990
+00:59:51,125 --> 00:59:53,060
+Senior year is about to be over,
+
+991
+00:59:53,094 --> 00:59:56,063
+and you losers think
+you can beat me?
+
+992
+00:59:56,097 --> 00:59:58,533
+- We don't need someone
+in my life like you.
+
+993
+00:59:59,800 --> 01:00:01,469
+- Hey, stop it.
+
+994
+01:00:01,502 --> 01:00:04,638
+- What are you gonna do, choir
+nerd, sing me a little song?
+
+995
+01:00:54,556 --> 01:00:55,322
+- Alayna!
+
+996
+01:01:05,634 --> 01:01:08,637
+♪ Twinkle twinkle little star ♪
+
+997
+01:01:08,669 --> 01:01:11,438
+♪ How I wonder what you are ♪
+
+998
+01:01:11,472 --> 01:01:14,241
+♪ Up above the world so high ♪
+
+999
+01:01:14,275 --> 01:01:16,944
+♪ Like a diamond in this sky ♪
+
+1000
+01:01:16,977 --> 01:01:19,780
+♪ Twinkle twinkle little star ♪
+
+1001
+01:01:19,813 --> 01:01:24,018
+♪ How I wonder what you are ♪
+
+1002
+01:01:24,051 --> 01:01:25,986
+- Okay, guys, let's go.
+
+1003
+01:01:42,203 --> 01:01:43,538
+- Okay, I'm gonna
+go up on the stage.
+
+1004
+01:01:43,572 --> 01:01:46,173
+You guys go sit in the audience.
+
+1005
+01:01:53,214 --> 01:01:54,982
+- Thank you. It was beautiful.
+
+1006
+01:01:55,015 --> 01:01:57,251
+Thank you. Thank you so much.
+
+1007
+01:01:59,320 --> 01:02:02,056
+- Can you plug my
+phone in and play this track?
+
+1008
+01:02:02,089 --> 01:02:04,024
+- Thank you so
+much for coming out
+
+1009
+01:02:04,058 --> 01:02:05,993
+to our program this evening.
+
+1010
+01:02:06,026 --> 01:02:07,127
+We all worked really hard.
+
+1011
+01:02:07,161 --> 01:02:09,564
+We have such talent
+in our school.
+
+1012
+01:02:10,764 --> 01:02:12,366
+- Principal Leigh!
+
+1013
+01:02:12,399 --> 01:02:13,801
+Principal Leigh!
+
+1014
+01:02:24,512 --> 01:02:26,146
+Principal Leigh, I...
+
+1015
+01:02:33,954 --> 01:02:36,725
+I have the trophy that
+Italy stole from you.
+
+1016
+01:02:36,757 --> 01:02:39,460
+- Well, why, thank
+you, Jennifer.
+
+1017
+01:02:40,629 --> 01:02:43,264
+This is one of
+our best students.
+
+1018
+01:02:43,297 --> 01:02:46,400
+She's so good and
+she helps everyone.
+
+1019
+01:02:47,334 --> 01:02:49,970
+And thank you, Jennifer,
+
+1020
+01:02:50,004 --> 01:02:52,373
+for bringing back the
+cheerleader trophy.
+
+1021
+01:02:52,406 --> 01:02:54,709
+- And you're
+gonna graduate me this year.
+
+1022
+01:02:54,743 --> 01:02:55,710
+- No.
+
+1023
+01:02:55,744 --> 01:02:57,244
+- One good thing.
+
+1024
+01:02:59,013 --> 01:03:01,115
+- And she'll be
+graduating this year.
+
+1025
+01:03:09,256 --> 01:03:10,659
+- There she is!
+
+1026
+01:03:10,692 --> 01:03:13,360
+That's the one who sold
+the trophy! Not me, her!
+
+1027
+01:03:13,394 --> 01:03:14,261
+- Of course I did!
+
+1028
+01:03:14,295 --> 01:03:16,397
+It's my trophy! I earned it!
+
+1029
+01:03:16,430 --> 01:03:18,132
+- Italy, I'd like to
+have a word with you
+
+1030
+01:03:18,165 --> 01:03:19,400
+and your two friends.
+
+1031
+01:03:20,200 --> 01:03:21,569
+- Oh no.
+
+1032
+01:03:32,079 --> 01:03:33,314
+- Hi, everyone.
+
+1033
+01:03:33,347 --> 01:03:37,619
+My name is Alayna,
+and I am a choir nerd.
+
+1034
+01:03:37,652 --> 01:03:39,386
+I skipped school today,
+
+1035
+01:03:39,420 --> 01:03:43,090
+and I learned a lot of
+things with my three friends.
+
+1036
+01:03:43,123 --> 01:03:44,325
+You know when you
+don't really know
+
+1037
+01:03:44,358 --> 01:03:45,959
+what the future will look like,
+
+1038
+01:03:45,993 --> 01:03:48,829
+but you kind of know that
+everything's gonna be fine?
+
+1039
+01:03:48,862 --> 01:03:52,266
+Well, today was
+one of those days.
+
+1040
+01:03:52,299 --> 01:03:54,134
+- I was supposed to
+sing my final song
+
+1041
+01:03:54,168 --> 01:03:57,137
+for the recital tonight,
+because this is my senior year.
+
+1042
+01:03:57,171 --> 01:03:59,239
+But you know what?
+
+1043
+01:03:59,273 --> 01:04:02,176
+It is not the end
+of our senior year.
+
+1044
+01:04:02,209 --> 01:04:03,944
+It's the beginning of a new year
+
+1045
+01:04:03,977 --> 01:04:07,782
+for all of my new friends,
+old, near, and far.
+
+1046
+01:04:09,483 --> 01:04:14,188
+And I wanna dedicate this
+song to my three best friends.
+
+1047
+01:04:14,221 --> 01:04:18,526
+Thanks for being with me
+today. I had an awesome time.
+
+1048
+01:04:18,560 --> 01:04:19,360
+And now...
+
+1049
+01:04:23,832 --> 01:04:26,300
+they are going to sing with me.
+
+1050
+01:04:28,402 --> 01:04:30,237
+- We'll do our best.
+
+1051
+01:04:31,205 --> 01:04:33,374
+- I learned a ton
+of new stuff today.
+
+1052
+01:04:33,407 --> 01:04:35,510
+Just because you're the
+prettiest girl in school
+
+1053
+01:04:35,543 --> 01:04:38,212
+does not mean you don't
+have insecurities.
+
+1054
+01:04:38,245 --> 01:04:41,482
+And even the toughest
+girls have problems.
+
+1055
+01:04:41,516 --> 01:04:45,919
+And even the weirdest out
+of all of us have a heart.
+
+1056
+01:04:47,221 --> 01:04:48,155
+- Hit it, Kara.
+
+1057
+01:04:57,064 --> 01:05:02,002
+♪ I was always thinking that
+I can do this all alone ♪
+
+1058
+01:05:04,905 --> 01:05:09,910
+♪ While realizing that my
+heart was turning to stone ♪
+
+1059
+01:05:11,679 --> 01:05:14,849
+♪ You never walked away ♪
+
+1060
+01:05:14,883 --> 01:05:19,587
+♪ You never turned
+your back on me ♪
+
+1061
+01:05:19,621 --> 01:05:22,757
+♪ You took me by the hand ♪
+
+1062
+01:05:22,791 --> 01:05:27,796
+♪ You showed me how
+to set me free ♪
+
+1063
+01:05:29,329 --> 01:05:33,835
+♪ I was always thinking
+I should be missing out ♪
+
+1064
+01:05:36,970 --> 01:05:41,975
+♪ While realizing that my soul
+wants to scream and shout ♪
+
+1065
+01:05:43,477 --> 01:05:46,815
+♪ You never walked away ♪
+
+1066
+01:05:46,848 --> 01:05:51,586
+♪ You never turned
+your back on me ♪
+
+1067
+01:05:51,619 --> 01:05:54,889
+♪ You took me by the hand ♪
+
+1068
+01:05:54,923 --> 01:05:59,928
+♪ You me showed me
+how to set me free ♪
+
+1069
+01:06:01,261 --> 01:06:05,800
+♪ I finally see the signs
+of what's been on the line ♪
+
+1070
+01:06:08,168 --> 01:06:13,173
+♪ I will do anything just
+about anything just for you ♪
+
+1071
+01:06:16,009 --> 01:06:17,978
+♪ With a friend like you ♪
+
+1072
+01:06:18,011 --> 01:06:23,016
+♪ There's just about
+nothing that I can't do ♪
+
+1073
+01:06:24,686 --> 01:06:29,691
+♪ So I realize that this is
+the time to be on my way ♪
+
+1074
+01:06:32,727 --> 01:06:37,699
+♪ To letting go and leave
+behind that dreadful day ♪
+
+1075
+01:06:39,634 --> 01:06:42,770
+♪ You never backed away ♪
+
+1076
+01:06:42,804 --> 01:06:47,341
+♪ You showed me what
+was right and wrong ♪
+
+1077
+01:06:47,374 --> 01:06:50,745
+♪ You showed me how to fight ♪
+
+1078
+01:06:50,778 --> 01:06:55,750
+♪ And that I can be on my own ♪
+
+1079
+01:06:57,351 --> 01:07:01,656
+♪ I finally see the signs
+of what's been on the line ♪
+
+1080
+01:07:04,759 --> 01:07:09,764
+♪ I finally see the signs and
+I won't forget this time ♪
+
+1081
+01:07:12,132 --> 01:07:17,104
+♪ That I will do anything just
+about anything just for you ♪
+
+1082
+01:07:19,974 --> 01:07:21,876
+♪ With a friend like you ♪
+
+1083
+01:07:21,910 --> 01:07:26,915
+♪ There's just about
+nothing that I can't do ♪
+
+1084
+01:07:29,483 --> 01:07:34,454
+♪ I will do anything ♪
+
+1085
+01:07:36,925 --> 01:07:41,930
+♪ Just about anything
+just for you ♪
+
+1086
+01:07:44,732 --> 01:07:49,737
+♪ I will do anything just
+about anything just for you ♪
+
+1087
+01:07:50,538 --> 01:07:52,406
+♪ Just for you ♪
+
+1088
+01:07:52,439 --> 01:07:54,042
+♪ With a friend like you ♪
+
+1089
+01:07:54,074 --> 01:07:58,546
+♪ There's just about
+nothing that I can't do ♪
+
+1090
+01:07:58,580 --> 01:08:00,582
+♪ I can't do ♪
+
+1091
+01:08:00,615 --> 01:08:05,553
+♪ I will do anything just
+about anything just for you ♪
+
+1092
+01:08:06,353 --> 01:08:08,455
+♪ Just for you ♪
+
+1093
+01:08:08,488 --> 01:08:09,791
+♪ With a friend like you ♪
+
+1094
+01:08:09,824 --> 01:08:13,728
+♪ There's just about
+nothing that I won't do ♪
+
+1095
+01:08:13,761 --> 01:08:15,495
+♪ I won't do ♪
+
+1096
+01:08:29,476 --> 01:08:31,411
+- What on earth are you wearing?
+
+1097
+01:08:31,445 --> 01:08:33,246
+- Mom, I don't care anymore.
+
+1098
+01:08:33,280 --> 01:08:35,717
+- Young lady, don't start.
+
+1099
+01:08:35,750 --> 01:08:37,284
+- I just want to be me.
+
+1100
+01:08:37,317 --> 01:08:40,622
+- You're going to ruin your
+shot to be a top model.
+
+1101
+01:08:40,655 --> 01:08:42,557
+- Mom, I don't
+wanna be like you.
+
+1102
+01:08:42,590 --> 01:08:46,794
+I just want to be a simple
+girl with simple problems.
+
+1103
+01:08:46,828 --> 01:08:49,564
+Trust me, Mom. I
+know what I'm doing.
+
+1104
+01:08:49,597 --> 01:08:52,066
+You raised a really
+good daughter.
+
+1105
+01:08:52,100 --> 01:08:54,535
+Just let me dress how I want to.
+
+1106
+01:08:54,569 --> 01:08:58,305
+I'll grow up soon, and I'll
+make you so proud, I promise.
+
+1107
+01:08:58,338 --> 01:09:00,808
+I'm sorry. I just wanna change.
+
+1108
+01:09:02,442 --> 01:09:04,311
+We'll work on it, baby.
+
+1109
+01:09:22,997 --> 01:09:25,566
+- I'm gonna miss
+you, little buddy.
+
+1110
+01:09:25,600 --> 01:09:28,502
+We had a lot of fun
+today, didn't we?
+
+1111
+01:09:28,536 --> 01:09:31,506
+Did you like how
+I sang up there?
+
+1112
+01:09:34,642 --> 01:09:36,476
+- I sure did, honey.
+
+1113
+01:09:37,779 --> 01:09:40,548
+- Dad!
+
+1114
+01:09:41,516 --> 01:09:43,117
+- Is that your trophy?
+
+1115
+01:09:43,151 --> 01:09:47,655
+- No, but I did steal it
+from some evil cheerleaders.
+
+1116
+01:09:47,689 --> 01:09:49,123
+- That's a good looking trophy.
+
+1117
+01:09:49,957 --> 01:09:50,725
+Oh!
+
+1118
+01:09:54,327 --> 01:09:56,396
+Well, let's get you home.
+
+1119
+01:09:57,632 --> 01:09:58,666
+I think I'll make you
+chicken on a stick.
+
+1120
+01:09:58,700 --> 01:10:01,536
+- Chicken on a stick!
+
+1121
+01:10:05,405 --> 01:10:09,276
+- Well, world, whatever
+life you have ahead of me,
+
+1122
+01:10:09,309 --> 01:10:10,078
+I'm ready.
+
+1123
+01:10:13,380 --> 01:10:14,549
+- Can you give us a minute?
+
+1124
+01:10:14,582 --> 01:10:16,249
+- Yeah.
+
+1125
+01:10:16,283 --> 01:10:19,319
+- See? Today wasn't
+so bad after all.
+
+1126
+01:10:19,352 --> 01:10:22,590
+- Yeah, it was awesome!
+And it's all thanks to you.
+
+1127
+01:10:22,623 --> 01:10:23,825
+You know you're my best friend,
+
+1128
+01:10:23,858 --> 01:10:26,460
+no matter what school I go to?
+
+1129
+01:10:28,295 --> 01:10:29,731
+- Okay, I have to go
+get the other girls.
+
+1130
+01:10:29,764 --> 01:10:31,733
+But go get your guy.
+
+1131
+01:10:40,742 --> 01:10:42,577
+- You really made my day today.
+
+1132
+01:10:42,610 --> 01:10:44,311
+- No, you made mine.
+
+1133
+01:10:44,344 --> 01:10:46,647
+- I just can't believe how
+cool this day turned out.
+
+1134
+01:10:46,681 --> 01:10:49,050
+- With me, every
+day's a Skip day.
+
+1135
+01:10:53,054 --> 01:10:57,992
+♪ When will I see you again. ♪
+
+1136
+01:11:02,563 --> 01:11:07,568
+♪ When it will come to an end ♪
+
+1137
+01:11:12,272 --> 01:11:17,277
+♪ When will I hold you again ♪
+
+1138
+01:11:18,478 --> 01:11:21,582
+♪ When I needed you
+you never needed me ♪
+
+1139
+01:11:21,616 --> 01:11:26,621
+♪ When will it come to an end ♪
+
+1140
+01:11:27,822 --> 01:11:30,958
+♪ When I needed you
+you never needed me ♪
+
+1141
+01:11:30,992 --> 01:11:33,628
+♪ I chased you ♪
+
+1142
+01:11:33,661 --> 01:11:35,495
+♪ I faced you ♪
+
+1143
+01:11:35,530 --> 01:11:40,568
+♪ I said the words I wanted
+you to hear me baby ♪
+
+1144
+01:11:41,102 --> 01:11:42,937
+♪ You faced me ♪
+
+1145
+01:11:42,970 --> 01:11:44,705
+♪ Replaced me ♪
+
+1146
+01:11:44,739 --> 01:11:46,741
+♪ I thought you were the one ♪
+
+1147
+01:11:46,774 --> 01:11:49,476
+♪ To hold me through
+the lightening ♪
+
+1148
+01:12:09,797 --> 01:12:14,802
+♪ When will I see you again ♪
+
+1149
+01:12:19,273 --> 01:12:24,278
+♪ When will it come to an end ♪
+
+1150
+01:12:28,783 --> 01:12:31,018
+♪ I chased you ♪
+
+1151
+01:12:31,052 --> 01:12:32,153
+♪ I faced you ♪
+
+1152
+01:12:33,788 --> 01:12:37,992
+♪ I said the words I want
+you to hear me baby ♪
+
+1153
+01:12:38,726 --> 01:12:39,861
+- We're ready!
+
+1154
+01:12:41,195 --> 01:12:44,031
+- 37 Bravo,
+take seven, marker.
+
+1155
+01:12:44,065 --> 01:12:44,966
+- Ready?
+
+1156
+01:12:44,999 --> 01:12:46,567
+You all ready? And so...
+
+1157
+01:12:46,601 --> 01:12:47,668
+So you'll step-
+
+1158
+01:12:47,702 --> 01:12:49,203
+- Step in?
+- Yeah.
+
+1159
+01:12:50,705 --> 01:12:53,207
+- We're
+gonna call it time please.
+
+1160
+01:12:57,912 --> 01:12:58,880
+- Me as too.
+
+1161
+01:13:00,715 --> 01:13:01,716
+Me as too.
+
+1162
+01:13:01,749 --> 01:13:02,984
+What did you say?
+
+1163
+01:13:03,017 --> 01:13:04,719
+- I don't know what
+I said.
+
+1164
+01:13:04,752 --> 01:13:07,188
+I was gonna say, "Me as well,"
+but then I said, "Me too,"
+
+1165
+01:13:07,221 --> 01:13:08,322
+and I was like, "Me as too."
+
+1166
+01:13:08,356 --> 01:13:09,824
+- Step back.
+
+1167
+01:13:09,857 --> 01:13:11,826
+- She's always on
+Snapchat.
+
+1168
+01:13:11,859 --> 01:13:13,294
+- No, I had something to do!
+
+1169
+01:13:14,562 --> 01:13:15,863
+And I'm not gonna fight
+with you right now!
+
+1170
+01:13:15,897 --> 01:13:17,732
+- I'm gonna pretend we're not.
+
+1171
+01:13:17,765 --> 01:13:19,033
+- This girl.
+
+1172
+01:13:19,066 --> 01:13:20,334
+- What?
+
+1173
+01:13:20,368 --> 01:13:21,569
+This isn't enough to
+get us into the party?
+
+1174
+01:13:21,602 --> 01:13:23,304
+- No, Jennifer.
+
+1175
+01:13:29,577 --> 01:13:31,178
+- Jennifer.
+
+1176
+01:13:31,212 --> 01:13:33,080
+- Guys,
+hold on, wait for me.
+
+1177
+01:13:33,114 --> 01:13:34,048
+- Ha ha ha ha.
+
+1178
+01:13:37,585 --> 01:13:39,720
+- Not in this in.
+
+1179
+01:13:39,754 --> 01:13:40,855
+Oh, oh.
+
+1180
+01:13:40,888 --> 01:13:42,690
+- Okay, go.
+
+1181
+01:13:42,723 --> 01:13:44,091
+- No, it's just that
+they let teenagers
+
+1182
+01:13:44,125 --> 01:13:46,694
+into the liquor store because
+they sell chips and soda.
+
+1183
+01:13:46,727 --> 01:13:48,461
+Let's go check it out.
+
+1184
+01:13:49,730 --> 01:13:50,164
+- Okay.
+Looks good, right?
+
+1185
+01:13:50,197 --> 01:13:51,599
+- Yes!
+
+1186
+01:13:51,632 --> 01:13:52,566
+I got the line!
+
+1187
+01:14:00,875 --> 01:14:03,110
+- What are you kids
+doing in my store?
+
+1188
+01:14:03,144 --> 01:14:04,745
+- Okay, one more.
+
+1189
+01:14:04,779 --> 01:14:05,913
+- I'm just on the apple.
+Do you want me to crouch?
+
+1190
+01:14:16,657 --> 01:14:17,457
+- Sorry.
+
+1191
+01:14:21,494 --> 01:14:23,531
+- How'd you do it?
+
+1192
+01:14:23,564 --> 01:14:25,766
+- As you can see here, Bill,
+
+1193
+01:14:25,800 --> 01:14:28,135
+it's kinda coming down out here.
+
+1194
+01:14:28,169 --> 01:14:29,737
+I don't know when
+it's gonna stop,
+
+1195
+01:14:29,770 --> 01:14:31,939
+but it should be.
+
+1196
+01:14:31,973 --> 01:14:32,807
+- Help!
+
+1197
+01:14:38,179 --> 01:14:39,647
+It's so windy out here.
+
+1198
+01:14:39,680 --> 01:14:41,782
+It's like we're in
+Australia something,
+
+1199
+01:14:41,816 --> 01:14:42,750
+where it's really windy.
+
+1200
+01:14:42,783 --> 01:14:44,752
+- Australia?
+- It's crazy.
+
+1201
+01:14:50,524 --> 01:14:51,425
+- Reset.
+
+1202
+01:14:51,459 --> 01:14:53,594
+- Such a doll face, that Gabby.
+
+1203
+01:14:53,627 --> 01:14:55,830
+She's so silly sometimes.
+
+1204
+01:14:55,863 --> 01:14:59,633
+- So I'll just kind of turn
+around and notice that, Kellyn.
+
+1205
+01:14:59,667 --> 01:15:01,002
+- She's just being silly.
+
+1206
+01:15:01,035 --> 01:15:02,670
+I look like you're
+about to look back.
+
+1207
+01:15:02,703 --> 01:15:04,805
+You're gonna look at her.
+
+1208
+01:15:06,007 --> 01:15:07,608
+- No more saying
+cuss words, guys!
+
+1209
+01:15:07,641 --> 01:15:08,709
+- It's rude.
+
+1210
+01:15:08,743 --> 01:15:10,111
+- It's
+inappropriate and rude.
+
+1211
+01:15:10,144 --> 01:15:11,445
+- No, no, no.
+
+1212
+01:15:11,479 --> 01:15:13,748
+- No more saying cuss words!
+
+1213
+01:15:13,781 --> 01:15:14,915
+It's inappropriate and rude.
+
+1214
+01:15:14,949 --> 01:15:17,551
+- It's inappropriate and rude.
+
+1215
+01:15:22,990 --> 01:15:24,892
+- I skipped school today,
+
+1216
+01:15:24,925 --> 01:15:27,995
+and I learned a lot
+of things from my...
+
+1217
+01:15:28,029 --> 01:15:30,564
+I skipped school today and...
+
+1218
+01:15:39,974 --> 01:15:40,741
+Better?
+
+1219
+01:15:45,046 --> 01:15:46,814
+I trust you.
+
+1220
+01:15:46,847 --> 01:15:48,315
+- Good.
+Let's roll it.
+
+1221
+01:15:48,349 --> 01:15:49,150
+- Hit it.
+
+1222
+01:16:14,041 --> 01:16:15,076
+Hi!
+
+1223
+01:16:22,917 --> 01:16:24,218
+- Look at them go.
+
+1224
+01:16:24,251 --> 01:16:26,387
+- I was
+gonna say sorry.
+
+1225
+01:16:28,122 --> 01:16:31,759
+- One more
+time. Ready. and action.
+
+1226
+01:16:31,792 --> 01:16:35,196
+- I think my mom has booze in
+her liquor bar at my house.
+
+1227
+01:16:35,229 --> 01:16:36,697
+- Darla's house we go.
+
+1228
+01:16:36,730 --> 01:16:37,566
+- One more time.
+
+1229
+01:16:39,568 --> 01:16:42,203
+- I think my mom has booze...
+
+1230
+01:16:42,236 --> 01:16:44,138
+Let me do that again.
+
+1231
+01:16:48,109 --> 01:16:51,011
+So for the part at the end
+
+1232
+01:16:51,045 --> 01:16:52,746
+where she's doing some new...
+
+1233
+01:16:52,780 --> 01:16:53,781
+- Pretty easy too,
+
+1234
+01:16:53,814 --> 01:16:55,950
+so you have enough breathing.
+
+1235
+01:16:55,983 --> 01:16:57,384
+- I know.
+
+1236
+01:16:57,418 --> 01:16:59,120
+- Sorry, guys, the
+college party's at 2:00 p.m.
+
+1237
+01:16:59,954 --> 01:17:01,021
+- Oh, sorry.
+
+1238
+01:17:01,055 --> 01:17:04,291
+- Guys, the
+college party's at-
+
+1239
+01:17:04,325 --> 01:17:07,094
+- Oh, I forgot to
+open the fricking lid.
+
+1240
+01:17:07,128 --> 01:17:08,762
+- Hey, stop it.
+
+1241
+01:17:08,796 --> 01:17:11,198
+- What are you gonna
+do, choir nerd?
+
+1242
+01:17:11,232 --> 01:17:11,966
+sing me a little song?
+
+1243
+01:17:14,068 --> 01:17:15,069
+I messed up.
+
+1244
+01:17:33,187 --> 01:17:34,655
+Oh yeah?
+
+1245
+01:17:34,688 --> 01:17:36,824
+Let's call Principal Leigh
+and leave a unanimous message.
+
+1246
+01:17:36,857 --> 01:17:38,392
+- What?
+- An anonymous message.
+
+1247
+01:17:40,427 --> 01:17:41,996
+- Okay, let's
+do that one more time.
+
+1248
+01:17:48,637 --> 01:17:50,171
+- Wow, that was a close call.
+
+1249
+01:17:50,204 --> 01:17:52,940
+- Scene 20
+alpha, take one, marker.
+
+1250
+01:17:55,976 --> 01:17:58,145
+- Oh, no, you're good.
+- Aw.
+
+1251
+01:18:03,217 --> 01:18:05,753
+- Keep a beat on dialogue.
+
+1252
+01:18:56,337 --> 01:18:58,707
+- How was that?
+
+1253
+01:19:08,916 --> 01:19:09,718
+- Yeah!
+
+1254
+01:19:15,322 --> 01:19:18,359
+- If you are in the
+Bitters Road area,
+
+1255
+01:19:19,326 --> 01:19:21,730
+then maybe you saw us filming.
+
+1256
+01:19:56,096 --> 01:19:57,431
+- You all understand
+what's happening, right?
+
+1257
+01:19:57,464 --> 01:19:58,465
+- Yes.
+
+1258
+01:19:59,967 --> 01:20:03,404
+- We're good, we're good.
+We're ready to do it.
+
+1259
+01:20:14,481 --> 01:20:17,284
+- Thanks For
+watching Skip Day!
+

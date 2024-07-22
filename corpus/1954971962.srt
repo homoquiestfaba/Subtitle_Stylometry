@@ -1,0 +1,3673 @@
+﻿1
+00:00:23,923 --> 00:00:25,834
+That never sounded like an owl, Fred.
+
+2
+00:00:26,960 --> 00:00:28,564
+Kelly.
+
+3
+00:00:29,295 --> 00:00:33,368
+We've got two hours to get back to base
+before Oni starts spilling over time.
+
+4
+00:00:33,466 --> 00:00:36,413
+Where's the chief? Where's Linda?
+
+5
+00:00:41,307 --> 00:00:43,344
+Quick shore leave, chief.
+
+6
+00:00:45,512 --> 00:00:47,549
+We're lucky command let us come at all.
+
+7
+00:00:49,215 --> 00:00:50,285
+This is it?
+
+8
+00:00:51,451 --> 00:00:55,729
+Most of it's gone,
+but yeah, it's the place.
+
+9
+00:00:58,124 --> 00:00:59,728
+Then let's do this.
+
+10
+00:01:09,335 --> 00:01:10,973
+<i>Ni'</i>
+
+11
+00:01:36,262 --> 00:01:37,900
+private journal entry.
+
+12
+00:01:37,997 --> 00:01:41,501
+<i>Encrypt halsey 424-3.</i>
+
+13
+00:01:41,601 --> 00:01:43,308
+<i>Delete if tampered.</i>
+
+14
+00:01:45,972 --> 00:01:50,182
+<i>A long time ago, I committed myself
+to a path, a direction.</i>
+
+15
+00:01:50,276 --> 00:01:54,383
+<i>There were many branches in that path,
+but ultimately they all flowered, I think.</i>
+
+16
+00:01:55,915 --> 00:01:59,226
+<i>John was the first seed.</i>
+
+17
+00:02:00,386 --> 00:02:03,196
+<i>I couldn't personally screen
+every candidate.</i>
+
+18
+00:02:03,289 --> 00:02:06,964
+<i>The outer colonies were simply
+too scattered, too distant.</i>
+
+19
+00:02:07,060 --> 00:02:09,904
+<i>But I had to set an example
+for the other extraction teams.</i>
+
+20
+00:02:10,897 --> 00:02:13,377
+<i>So the first candidate...</i>
+
+21
+00:02:13,466 --> 00:02:16,447
+<i>The first candidate,
+I dealt with personally.</i>
+
+22
+00:02:17,904 --> 00:02:22,046
+<i>But the outer colonies were still
+very dangerous places in those days,</i>
+
+23
+00:02:22,142 --> 00:02:24,588
+<i>albeit for radically different reasons.</i>
+
+24
+00:02:25,812 --> 00:02:29,589
+<i>And so the office of naval intelligence
+assigned me a chaperone,</i>
+
+25
+00:02:29,682 --> 00:02:31,855
+<i>perhaps for my safety,</i>
+
+26
+00:02:31,951 --> 00:02:34,397
+<i>perhaps for theirs.</i>
+
+27
+00:02:40,226 --> 00:02:42,206
+Time to wake up, lieutenant Keyes.
+
+28
+00:02:43,763 --> 00:02:46,801
+<i>We are preparing to exit slipspace
+near the eridanus system.</i>
+
+29
+00:02:48,001 --> 00:02:49,002
+Dr. halsey?
+
+30
+00:02:49,102 --> 00:02:51,309
+<i>Already awake and
+on the bridge, sir.</i>
+
+31
+00:02:51,404 --> 00:02:53,941
+Eh, of course she is.
+
+32
+00:03:05,818 --> 00:03:07,161
+Dr. halsey.
+
+33
+00:03:07,253 --> 00:03:10,826
+Are these shuttles
+all so damned claustrophobic?
+
+34
+00:03:10,924 --> 00:03:14,770
+There is barely room for one person
+in here, let alone two.
+
+35
+00:03:14,861 --> 00:03:16,272
+- Doctor...
+- Toran...
+
+36
+00:03:16,362 --> 00:03:18,399
+<i>Awaiting your orders, Dr. halsey.</i>
+
+37
+00:03:18,498 --> 00:03:22,207
+Start a pre-burn warm-up cycle
+for the fusion engines.
+
+38
+00:03:22,368 --> 00:03:25,474
+<i>Understood, doctor.
+Exiting slipspace in six seconds.</i>
+
+39
+00:03:25,638 --> 00:03:27,174
+Good. And some music.
+
+40
+00:03:27,273 --> 00:03:30,186
+Rachmaninoff's concerto no. <i>3,</i> I think.
+
+41
+00:03:35,348 --> 00:03:38,124
+Now, lieutenant, you needed my attention?
+
+42
+00:03:38,518 --> 00:03:40,520
+I was going to say I should act as pilot.
+
+43
+00:03:40,620 --> 00:03:44,966
+If I wished to be chauffeured, you would
+already be in this chair, lieutenant.
+
+44
+00:03:45,825 --> 00:03:48,499
+If you wish to make yourself useful,
+take the comms
+
+45
+00:03:48,595 --> 00:03:51,201
+and make sure our arrival is discreet.
+
+46
+00:03:52,966 --> 00:03:55,947
+What are we doing here?
+This area is dangerous.
+
+47
+00:03:56,035 --> 00:03:58,345
+It's been an insurrectionist
+stronghold for years.
+
+48
+00:03:58,438 --> 00:03:59,416
+Meaning?
+
+49
+00:03:59,505 --> 00:04:03,920
+Meaning the insurrection isn't some
+ragtag group of colonial rowdies.
+
+50
+00:04:04,010 --> 00:04:07,423
+Toran, list rebel acts of violence
+in this sector in last five days.
+
+51
+00:04:08,848 --> 00:04:10,293
+<i>Seventy-two hours ago,</i>
+
+52
+00:04:10,383 --> 00:04:13,193
+<i>insurrectionists destroy emergency
+food caravan.</i>
+
+53
+00:04:13,886 --> 00:04:18,130
+<i>Eighteen hours ago, rebellion raids
+merchant vessel, murders entire...</i>
+
+54
+00:04:18,324 --> 00:04:21,430
+I am painfully aware
+of the rebellion, lieutenant.
+
+55
+00:04:21,527 --> 00:04:24,508
+Something needs to be done.
+Oni agrees with me.
+
+56
+00:04:25,198 --> 00:04:26,939
+That is why we are here.
+
+57
+00:04:27,033 --> 00:04:28,034
+Om?
+
+58
+00:04:28,635 --> 00:04:31,343
+But if the office of naval intelligence...
+
+59
+00:04:31,437 --> 00:04:32,939
+This is a recon mission?
+
+60
+00:04:33,139 --> 00:04:35,483
+How terribly perceptive of you.
+
+61
+00:04:36,509 --> 00:04:39,979
+But what could you possibly need
+to recon out here?
+
+62
+00:04:56,663 --> 00:04:58,336
+I'm dressed like a fool.
+
+63
+00:04:58,431 --> 00:04:59,774
+You're dressed like a father
+
+64
+00:04:59,866 --> 00:05:02,608
+trying to get his daughter
+into a decent school.
+
+65
+00:05:02,702 --> 00:05:04,409
+I don't have a daughter.
+
+66
+00:05:04,504 --> 00:05:07,508
+And I don't have a pony. Pay attention.
+
+67
+00:05:07,840 --> 00:05:09,581
+We are here to observe a boy,
+
+68
+00:05:09,709 --> 00:05:12,656
+the first of many evaluations
+in the weeks to come.
+
+69
+00:05:12,779 --> 00:05:16,693
+I'm supposed to be protecting
+shipping lanes, not babysitting.
+
+70
+00:05:16,783 --> 00:05:19,263
+This child could be more useful
+to the unsc
+
+71
+00:05:19,352 --> 00:05:22,925
+than a fleet of destroyers,
+a thousand lieutenants
+
+72
+00:05:23,022 --> 00:05:24,729
+of even me.
+
+73
+00:05:24,824 --> 00:05:27,771
+In the end,
+one child could be the difference
+
+74
+00:05:27,860 --> 00:05:30,534
+between peace and an unwinnable war.
+
+75
+00:05:32,065 --> 00:05:33,043
+Ah.
+
+76
+00:05:33,566 --> 00:05:35,637
+There's our young man.
+
+77
+00:05:38,404 --> 00:05:41,214
+<i>Journal entry.
+Same encryption scheme.</i>
+
+78
+00:05:41,541 --> 00:05:42,576
+Who's next?
+
+79
+00:05:42,675 --> 00:05:45,815
+<i>John was the first,
+and he was the best.</i>
+
+80
+00:05:48,481 --> 00:05:50,722
+Come on, he can't stop us all!
+
+81
+00:05:51,217 --> 00:05:54,255
+<i>Even as a child,
+I could see how special he was.</i>
+
+82
+00:05:54,387 --> 00:05:56,958
+<i>Sense his unformed potential.</i>
+
+83
+00:05:57,924 --> 00:06:01,565
+<i>I simply needed to carve away
+everything else to get to it.</i>
+
+84
+00:06:01,661 --> 00:06:03,334
+<i>To shape it.</i>
+
+85
+00:06:04,097 --> 00:06:07,601
+<i>Form him into everything
+I knew he would eventually become.</i>
+
+86
+00:06:11,571 --> 00:06:12,606
+Him?
+
+87
+00:06:12,739 --> 00:06:14,741
+- He can't be more than...
+- Six.
+
+88
+00:06:14,841 --> 00:06:18,288
+John, like all of our candidates,
+is six years old.
+
+89
+00:06:18,378 --> 00:06:21,291
+And like the others,
+he has all the genetic markers.
+
+90
+00:06:22,215 --> 00:06:24,991
+There's something else
+that makes him of interest.
+
+91
+00:06:25,885 --> 00:06:28,024
+Of interest to whom, precisely?
+
+92
+00:06:28,121 --> 00:06:30,624
+Here, record our interaction.
+
+93
+00:06:30,723 --> 00:06:31,895
+I'll talk to him,
+
+94
+00:06:31,991 --> 00:06:35,632
+find out if his character
+is as exceptional as his DNA.
+
+95
+00:06:44,170 --> 00:06:46,480
+Hello, what's your name?
+
+96
+00:06:46,973 --> 00:06:48,145
+It's John.
+
+97
+00:06:48,241 --> 00:06:50,619
+And what game were you playing, John?
+
+98
+00:06:50,710 --> 00:06:52,621
+- War?
+- King of the hill.
+
+99
+00:06:52,712 --> 00:06:55,056
+Mom says I'm too rough
+with the other kids.
+
+100
+00:06:55,148 --> 00:06:57,719
+You like games? So do I.
+
+101
+00:06:58,818 --> 00:07:01,822
+I have another game if you're interested.
+
+102
+00:07:02,455 --> 00:07:04,025
+This is a coin.
+
+103
+00:07:04,757 --> 00:07:07,067
+Win the game and you keep the coin.
+
+104
+00:07:07,560 --> 00:07:09,039
+You see the two sides?
+
+105
+00:07:09,128 --> 00:07:11,472
+Yes. A man and a bird.
+
+106
+00:07:12,165 --> 00:07:13,644
+Which side will land up?
+
+107
+00:07:22,041 --> 00:07:23,111
+Bird.
+
+108
+00:07:23,209 --> 00:07:25,416
+Very good. Again.
+
+109
+00:07:26,045 --> 00:07:27,149
+Man.
+
+110
+00:07:27,647 --> 00:07:28,921
+- Again.
+- Man.
+
+111
+00:07:30,183 --> 00:07:31,253
+Bird.
+
+112
+00:07:31,818 --> 00:07:32,922
+Bird.
+
+113
+00:07:33,152 --> 00:07:37,623
+Five out of five, John. That's unusual.
+
+114
+00:07:37,824 --> 00:07:39,633
+You said I could keep it if I won.
+
+115
+00:07:39,725 --> 00:07:42,331
+Yes. You can keep it, John.
+
+116
+00:07:43,129 --> 00:07:44,130
+Yes!
+
+117
+00:07:44,230 --> 00:07:46,301
+<i>I cursed myself
+for using his name.</i>
+
+118
+00:07:46,399 --> 00:07:49,744
+<i>I couldn't afford the luxury of fondness.</i>
+
+119
+00:07:50,803 --> 00:07:55,309
+<i>No telling if subject 117
+would even survive what lay ahead.</i>
+
+120
+00:07:56,509 --> 00:07:58,284
+Tell me you recorded that.
+
+121
+00:08:04,917 --> 00:08:07,796
+<i>It all fell into place
+so quickly after John.</i>
+
+122
+00:08:07,887 --> 00:08:11,027
+<i>It wasn't long
+before I had my final candidates.</i>
+
+123
+00:08:19,165 --> 00:08:21,577
+These are the 75, déja.
+
+124
+00:08:25,271 --> 00:08:27,478
+<i>Confidential journal entry.</i>
+
+125
+00:08:27,573 --> 00:08:30,076
+<i>Red encryption using my private key.</i>
+
+126
+00:08:32,612 --> 00:08:35,923
+<i>As I said before,
+I don't regret any of this.</i>
+
+127
+00:08:36,749 --> 00:08:38,660
+<i>I've thought it all the way through.</i>
+
+128
+00:08:38,751 --> 00:08:41,231
+<i>I am certain it will be worthwhile.</i>
+
+129
+00:08:42,455 --> 00:08:46,665
+<i>Right at that moment,
+across several star systems,</i>
+
+130
+00:08:46,759 --> 00:08:49,740
+<i>children were being acquired
+and shipped,</i>
+
+131
+00:08:49,829 --> 00:08:51,968
+<i>like freight to the planet reach.</i>
+
+132
+00:08:53,900 --> 00:08:56,881
+<i>We were replacing the children
+with flash clones.</i>
+
+133
+00:08:56,969 --> 00:09:00,917
+<i>Imperfect simulacra
+but nigh impossible to detect.</i>
+
+134
+00:09:02,341 --> 00:09:05,220
+<i>If I could have used the clones,
+of course I would have,</i>
+
+135
+00:09:05,311 --> 00:09:08,417
+<i>but the damn things broke down
+faster than we could grow them.</i>
+
+136
+00:09:08,514 --> 00:09:10,824
+<i>We needed real children.</i>
+
+137
+00:09:10,983 --> 00:09:12,519
+<i>Whole children.</i>
+
+138
+00:09:14,320 --> 00:09:18,200
+<i>It was a regrettable
+but necessary deception.</i>
+
+139
+00:09:19,825 --> 00:09:21,771
+<i>I needed those subjects.</i>
+
+140
+00:09:22,128 --> 00:09:26,907
+<i>Orion-h would not have succeeded
+built on a foundation of compromise.</i>
+
+141
+00:09:32,438 --> 00:09:34,850
+<i>On! Would have its soldiers,</i>
+
+142
+00:09:35,808 --> 00:09:38,448
+<i>and I would have my solution.</i>
+
+143
+00:09:40,446 --> 00:09:42,619
+May god have mercy on us all.
+
+144
+00:09:44,984 --> 00:09:48,522
+Doctor, they are here. They are ready.
+
+145
+00:09:48,621 --> 00:09:49,998
+Send them in.
+
+146
+00:09:50,089 --> 00:09:53,468
+And, déja, on second thought,
+don't save this file.
+
+147
+00:09:56,862 --> 00:09:59,069
+What happened?
+How did I get here?
+
+148
+00:09:59,165 --> 00:10:00,735
+I don't know.
+
+149
+00:10:01,968 --> 00:10:04,107
+Take a seat. All of you.
+
+150
+00:10:07,607 --> 00:10:10,110
+Per naval code 45812,
+
+151
+00:10:10,209 --> 00:10:13,884
+you are hereby conscripted
+into unsc's special project
+
+152
+00:10:13,980 --> 00:10:16,119
+code-named Orion-ll,
+
+153
+00:10:16,549 --> 00:10:18,995
+also known as spartan ll.
+
+154
+00:10:19,585 --> 00:10:21,258
+Your parents are gone.
+
+155
+00:10:21,354 --> 00:10:23,994
+The planet reach is your new home.
+
+156
+00:10:24,090 --> 00:10:27,003
+Your fellow trainees are your new family.
+
+157
+00:10:27,126 --> 00:10:30,596
+Each of you has been hand-selected
+and called to serve.
+
+158
+00:10:30,696 --> 00:10:35,304
+Your bodies are already faster
+and stronger than other children,
+
+159
+00:10:35,401 --> 00:10:38,211
+and we are going to make them even better.
+
+160
+00:10:40,539 --> 00:10:42,143
+Chief petty officer Mendez,
+
+161
+00:10:42,241 --> 00:10:46,917
+escort the children to the mess hall,
+feed them, get them to bed.
+
+162
+00:10:47,279 --> 00:10:49,418
+Trainees, fall out!
+
+163
+00:11:00,693 --> 00:11:01,831
+John.
+
+164
+00:11:03,462 --> 00:11:05,499
+<i>Johnny, you need to wake up.</i>
+
+165
+00:11:06,899 --> 00:11:07,877
+Mom?
+
+166
+00:11:07,967 --> 00:11:09,207
+Wake up!
+
+167
+00:11:09,301 --> 00:11:10,871
+Wake up, trainee!
+
+168
+00:11:11,404 --> 00:11:14,283
+I said up! Do you know which way up is?
+
+169
+00:11:16,175 --> 00:11:18,052
+Last one up gets it, Jorge!
+
+170
+00:11:18,144 --> 00:11:19,384
+My name's pronounced "George."
+
+171
+00:11:19,545 --> 00:11:21,786
+Don't you back talk me, Jorge!
+
+172
+00:11:23,516 --> 00:11:26,725
+- What's happening?
+- I don't know. Just go, go!
+
+173
+00:11:26,819 --> 00:11:28,821
+Come on. Everyone's headed this way.
+
+174
+00:11:28,921 --> 00:11:31,629
+- I'm Sam, by the way.
+- I'm Kelly.
+
+175
+00:11:31,724 --> 00:11:33,135
+It'll be okay, Kelly.
+
+176
+00:11:41,467 --> 00:11:45,472
+Trainees, I am chief Mendez.
+
+177
+00:11:45,571 --> 00:11:47,915
+Lam your commanding officer.
+
+178
+00:11:48,040 --> 00:11:53,547
+Every day, dawn till dusk,
+you will do exactly what I say,
+
+179
+00:11:53,646 --> 00:11:56,422
+when I say, how I say.
+
+180
+00:11:56,882 --> 00:11:59,988
+- Am I clear, trainees?
+- Sir, yes, sir.
+
+181
+00:12:01,287 --> 00:12:03,631
+<i>Naturally,
+they didn't all make it.</i>
+
+182
+00:12:03,723 --> 00:12:05,566
+We expected drop-outs.
+
+183
+00:12:06,192 --> 00:12:09,833
+<i>There were accidents, incidents, bad luck.</i>
+
+184
+00:12:10,563 --> 00:12:14,443
+<i>Better that we separated
+the chaff from the wheat immediately.</i>
+
+185
+00:12:19,338 --> 00:12:22,217
+Come in. Class is about to begin.
+
+186
+00:12:23,409 --> 00:12:26,481
+<i>We trained their minds
+as well as their bodies.</i>
+
+187
+00:12:27,079 --> 00:12:31,926
+<i>War strategy, theoretical tactics,
+sun tzu,</i>
+
+188
+00:12:32,017 --> 00:12:35,328
+<i>nothing in the sprawling history
+of conflict was overlooked.</i>
+
+189
+00:12:35,821 --> 00:12:40,327
+<i>We taught them about thermopylae,
+about the unbeatable spartans.</i>
+
+190
+00:12:40,893 --> 00:12:44,272
+Xerxes wanted to steal Greece
+from the spartans.
+
+191
+00:12:44,396 --> 00:12:47,309
+<i>His forces numbered in the thousands.</i>
+
+192
+00:12:48,100 --> 00:12:50,102
+Why didn't xerxes just sail around them?
+
+193
+00:12:50,202 --> 00:12:53,240
+Xerxes wanted to send
+a message, John.
+
+194
+00:12:53,339 --> 00:12:56,980
+He failed
+and just 300 spartans saved Greece.
+
+195
+00:12:57,243 --> 00:12:58,381
+Yes!
+
+196
+00:12:58,477 --> 00:12:59,785
+That is all for today.
+
+197
+00:13:00,212 --> 00:13:03,091
+But tomorrow I will tell you about wolves.
+
+198
+00:13:08,320 --> 00:13:11,324
+Today's mission is ring the bell.
+
+199
+00:13:11,423 --> 00:13:16,463
+When every member of your team
+has rung the bell, cross this line.
+
+200
+00:13:17,329 --> 00:13:18,467
+Question, trainee?
+
+201
+00:13:18,564 --> 00:13:21,636
+- What do we win, sir?
+- You win dinner, 117.
+
+202
+00:13:21,734 --> 00:13:25,910
+- Last team to finish goes without dinner.
+- Oh, no!
+
+203
+00:13:27,473 --> 00:13:29,646
+Make ready. Go!
+
+204
+00:13:34,013 --> 00:13:37,654
+<i>I knew John was a natural
+leader, even if he didn't.</i>
+
+205
+00:13:38,317 --> 00:13:39,921
+John, a little help?
+
+206
+00:13:57,036 --> 00:13:58,276
+First.
+
+207
+00:14:00,372 --> 00:14:05,287
+<i>A leader must inspire passion,
+and 117 certainly did that.</i>
+
+208
+00:14:05,878 --> 00:14:07,551
+Hey, thanks for nothing.
+
+209
+00:14:11,517 --> 00:14:12,757
+Good work, trainees.
+
+210
+00:14:12,852 --> 00:14:14,957
+Everybody eats,
+
+211
+00:14:15,087 --> 00:14:16,964
+except 117 and his team.
+
+212
+00:14:17,056 --> 00:14:18,330
+But I was first.
+
+213
+00:14:18,424 --> 00:14:21,462
+You were first,
+but your team came in last.
+
+214
+00:14:22,294 --> 00:14:25,332
+And you don't win unless your team wins.
+
+215
+00:14:41,280 --> 00:14:42,554
+Get out of here.
+
+216
+00:14:42,648 --> 00:14:45,925
+- Kelly!
+- No. Kelly's right, Sam.
+
+217
+00:14:46,051 --> 00:14:50,124
+He could've helped us today,
+instead he left us in the dirt.
+
+218
+00:14:51,290 --> 00:14:52,963
+I'm sorry, guys-
+
+219
+00:14:53,058 --> 00:14:54,765
+I stole them a few nights ago.
+
+220
+00:14:54,860 --> 00:14:57,534
+They're stale but better than nothing.
+
+221
+00:15:01,567 --> 00:15:04,047
+- It's not Turkey.
+- I know.
+
+222
+00:15:04,136 --> 00:15:07,276
+It won't happen again. Promise.
+
+223
+00:15:08,674 --> 00:15:10,119
+<i>And that was it.</i>
+
+224
+00:15:10,242 --> 00:15:14,315
+<i>Logic, consequences, spark of leadership.</i>
+
+225
+00:15:14,413 --> 00:15:17,087
+<i>Ah things I saw in him from the start.</i>
+
+226
+00:15:29,528 --> 00:15:33,169
+You are each being handed
+a portion of a map of the area below.
+
+227
+00:15:33,766 --> 00:15:35,439
+The mission is simple.
+
+228
+00:15:35,534 --> 00:15:37,377
+You will be individually deployed
+
+229
+00:15:37,469 --> 00:15:42,111
+and use your piece of the puzzle
+to navigate to the extraction point.
+
+230
+00:15:42,207 --> 00:15:45,745
+Last trainee to make it to extraction
+will be left behind.
+
+231
+00:15:46,779 --> 00:15:50,158
+And it is a very long walk back.
+
+232
+00:15:51,150 --> 00:15:53,858
+- 117, you're first.
+- Yes, sir.
+
+233
+00:15:57,589 --> 00:16:00,365
+- Sam, the river.
+- I got it.
+
+234
+00:16:00,459 --> 00:16:02,439
+Pass the word, quietly.
+
+235
+00:16:02,528 --> 00:16:04,166
+117, front and center.
+
+236
+00:16:12,471 --> 00:16:14,075
+Good luck, 117.
+
+237
+00:16:55,447 --> 00:16:57,620
+You sound nothing like an owl, Sam.
+
+238
+00:16:57,816 --> 00:17:01,662
+- Ah, I've been practicing.
+- It sounded exactly like an owl.
+
+239
+00:17:01,754 --> 00:17:03,791
+I was just drawing you out of cover.
+
+240
+00:17:11,630 --> 00:17:12,734
+Look what I found.
+
+241
+00:17:13,465 --> 00:17:15,570
+Blueberries? Nice!
+
+242
+00:17:16,301 --> 00:17:18,008
+I hope these are blueberries.
+
+243
+00:17:18,170 --> 00:17:20,081
+Better than the food in the mess.
+
+244
+00:17:21,306 --> 00:17:23,047
+Your lips are blue.
+
+245
+00:17:23,142 --> 00:17:24,621
+So are yours.
+
+246
+00:17:25,511 --> 00:17:27,286
+<i>In the end,
+the wilderness mission</i>
+
+247
+00:17:27,379 --> 00:17:30,155
+<i>wasn't a test of strength or survival</i>
+
+248
+00:17:30,249 --> 00:17:33,719
+<i>but of friendship, camaraderie, loyalty.</i>
+
+249
+00:17:34,753 --> 00:17:36,289
+What are you doing?
+
+250
+00:17:36,388 --> 00:17:39,096
+I'm putting our mark on this place,
+so we can remember it.
+
+251
+00:17:39,792 --> 00:17:41,362
+Now and forever.
+
+252
+00:17:42,027 --> 00:17:44,564
+- We should meet up with the others.
+- Then what?
+
+253
+00:17:44,696 --> 00:17:46,903
+Someone is still gonna get left behind.
+
+254
+00:17:46,999 --> 00:17:49,536
+Then I find a way to get everyone home.
+
+255
+00:17:55,407 --> 00:18:00,447
+One of those map fragments was bogus.
+But I'm sure this is the extraction point.
+
+256
+00:18:00,946 --> 00:18:03,051
+Almost a day's hike from here.
+
+257
+00:18:03,215 --> 00:18:05,092
+Then we better get moving.
+
+258
+00:18:14,726 --> 00:18:15,704
+Hold.
+
+259
+00:18:15,794 --> 00:18:17,501
+You guys with me. Fall out.
+
+260
+00:18:17,596 --> 00:18:18,973
+And keep quiet.
+
+261
+00:18:19,098 --> 00:18:20,509
+I heard something.
+
+262
+00:18:24,303 --> 00:18:26,647
+<i>And what I find fascinating
+is that</i>
+
+263
+00:18:26,738 --> 00:18:30,242
+<i>even though you think
+you've prepared for every eventuality...</i>
+
+264
+00:18:30,542 --> 00:18:32,715
+They're armed but they aren't in uniform.
+
+265
+00:18:32,845 --> 00:18:35,951
+And they don't look like soldiers.
+Insurrectionists, maybe?
+
+266
+00:18:36,048 --> 00:18:37,584
+<i>Every contingency...</i>
+
+267
+00:18:38,317 --> 00:18:39,352
+So what now?
+
+268
+00:18:39,485 --> 00:18:41,362
+<i>Every permutation...</i>
+
+269
+00:18:41,453 --> 00:18:42,488
+Wolves.
+
+270
+00:18:42,588 --> 00:18:46,161
+When déja taught us about the wolves,
+how they hunt...
+
+271
+00:18:46,258 --> 00:18:47,601
+What does that...
+
+272
+00:18:48,327 --> 00:18:49,499
+The wolves.
+
+273
+00:18:49,595 --> 00:18:52,667
+<i>Children still manage
+to surprise you.</i>
+
+274
+00:18:55,267 --> 00:18:58,248
+<i>Wolves, children,
+are fierce hunters.</i>
+
+275
+00:18:58,337 --> 00:19:01,648
+<i>But while any wolf
+can hunt and kill a rabbit,</i>
+
+276
+00:19:04,543 --> 00:19:06,819
+<i>one wolf against larger prey</i>
+
+277
+00:19:08,547 --> 00:19:10,424
+<i>can</i> face a <i>grisly end.</i>
+
+278
+00:19:14,353 --> 00:19:18,130
+- What the...
+- I need help! My friend is hurt!
+
+279
+00:19:19,324 --> 00:19:21,827
+- Go bring that girl back.
+- Yes, sir.
+
+280
+00:19:21,927 --> 00:19:24,066
+<i>But when wolves hunt in a pack...</i>
+
+281
+00:19:25,564 --> 00:19:28,306
+- Where's the girl?
+- I think I broke my leg.
+
+282
+00:19:28,400 --> 00:19:30,880
+Oh, I got your broken leg right here, kid.
+
+283
+00:19:30,969 --> 00:19:33,677
+<i>They take down larger prey
+with ease.</i>
+
+284
+00:19:41,613 --> 00:19:43,024
+What the hell, Vince?
+
+285
+00:19:43,148 --> 00:19:45,150
+One little girl
+too much for you to handle?
+
+286
+00:20:08,407 --> 00:20:10,148
+Ah, doctor.
+
+287
+00:20:10,275 --> 00:20:15,418
+Trainee 117 was just explaining
+why he attacked and injured unsc soldiers.
+
+288
+00:20:16,048 --> 00:20:19,894
+And why he stole the property
+they were left to guard.
+
+289
+00:20:20,586 --> 00:20:22,930
+Ma'am, the craft was unsc,
+
+290
+00:20:23,021 --> 00:20:27,094
+but the men in the force were hostile
+and were not in regulation uniform.
+
+291
+00:20:27,593 --> 00:20:30,403
+- You flew home?
+- Not exactly.
+
+292
+00:20:30,495 --> 00:20:33,237
+I rigged the autopilot
+to return to base, ma'am.
+
+293
+00:20:33,665 --> 00:20:35,576
+And you brought them all home?
+
+294
+00:20:35,667 --> 00:20:39,171
+According to orders, last trainee
+to the ship was supposed to walk.
+
+295
+00:20:39,304 --> 00:20:43,116
+Instead, we stuck together,
+like the spartans at thermopylae.
+
+296
+00:20:43,208 --> 00:20:46,417
+In the real ending of the story, 117,
+
+297
+00:20:46,511 --> 00:20:48,787
+the spartans are betrayed and slaughtered.
+
+298
+00:20:48,880 --> 00:20:52,987
+It is their sacrifice
+that actually saves and unites Greece.
+
+299
+00:20:54,353 --> 00:20:56,094
+But we had more choices.
+
+300
+00:20:56,221 --> 00:20:58,223
+The men you hit with rocks didn't.
+
+301
+00:20:58,323 --> 00:21:00,496
+No, sir, they did not.
+
+302
+00:21:02,527 --> 00:21:06,737
+So, doctor, what do we do with this one?
+
+303
+00:21:06,832 --> 00:21:11,679
+Well, Mendez,
+I suggest a promotion to squad leader.
+
+304
+00:21:13,038 --> 00:21:15,279
+Thank you, sir.
+
+305
+00:21:15,374 --> 00:21:17,445
+What is the highest rank I can attain?
+
+306
+00:21:17,542 --> 00:21:20,113
+As a non-commissioned officer, 117,
+
+307
+00:21:20,212 --> 00:21:24,558
+the highest rank you can attain
+is master chief petty officer.
+
+308
+00:21:24,683 --> 00:21:25,957
+Then I will.
+
+309
+00:21:26,051 --> 00:21:27,621
+Perhaps you will at that,
+
+310
+00:21:28,787 --> 00:21:31,028
+but your next mission won't be so easy.
+
+311
+00:21:32,057 --> 00:21:34,503
+And there will be casualties.
+
+312
+00:21:35,994 --> 00:21:37,996
+What is that mission, sir?
+
+313
+00:21:40,232 --> 00:21:42,007
+<i>Your mission, John,</i>
+
+314
+00:21:44,069 --> 00:21:45,377
+<i>is to survive.</i>
+
+315
+00:22:05,624 --> 00:22:08,798
+<i>Samuel-034,
+blue team mission report.</i>
+
+316
+00:22:09,261 --> 00:22:10,797
+<i>I don't remember the operation,</i>
+
+317
+00:22:11,830 --> 00:22:17,178
+<i>but when we awoke, we were something new.</i>
+
+318
+00:22:19,004 --> 00:22:22,747
+<i>Unbreakable materials
+grafted to our bones, gene therapy.</i>
+
+319
+00:22:29,381 --> 00:22:33,796
+<i>Muscle density increased,
+enhanced skeletal and muscular growth.</i>
+
+320
+00:22:35,554 --> 00:22:36,532
+<i>Of course,</i>
+
+321
+00:22:37,756 --> 00:22:40,930
+<i>we had no clue
+what we had to live through first.</i>
+
+322
+00:22:46,164 --> 00:22:47,871
+Replay the message, déja.
+
+323
+00:22:48,934 --> 00:22:51,915
+Message from admiral Ysionris Jeromi.
+
+324
+00:22:52,003 --> 00:22:55,143
+Chief medical officer,
+research station hopeful.
+
+325
+00:22:58,143 --> 00:23:00,419
+<i>Catherine,
+I wish I had better news.</i>
+
+326
+00:23:01,179 --> 00:23:04,353
+<i>Further analysis
+has yielded zero alternatives</i>
+
+327
+00:23:04,449 --> 00:23:08,898
+<i>to mitigate the risks in your proposed
+hypothetical experimentation.</i>
+
+328
+00:23:09,788 --> 00:23:13,531
+<i>But I understand
+the theoretical framework, Catherine,</i>
+
+329
+00:23:13,658 --> 00:23:15,399
+<i>and admire the imagination.</i>
+
+330
+00:23:15,994 --> 00:23:19,806
+<i>But! Hope it is
+in fact a hypothetical study.</i>
+
+331
+00:23:21,133 --> 00:23:23,511
+<i>Details are in the attached files.</i>
+
+332
+00:23:23,602 --> 00:23:27,049
+<i>But your proposed treatments
+could result In any of the following,</i>
+
+333
+00:23:27,139 --> 00:23:30,882
+<i>cell necrosis, stroke,
+cardiovascular failure</i>
+
+334
+00:23:30,976 --> 00:23:33,286
+<i>and even Fletcher syndrome.</i>
+
+335
+00:23:40,819 --> 00:23:45,199
+<i>You proposed the use of lab animals,
+simian proxies, in your tests.</i>
+
+336
+00:23:45,290 --> 00:23:47,292
+<i>I must be blunt.</i>
+
+337
+00:23:47,392 --> 00:23:51,898
+<i>I cannot imagine any more than half
+of the subjects surviving this process.</i>
+
+338
+00:24:13,585 --> 00:24:16,122
+<i>I would hate to see
+the poor creatures destroyed</i>
+
+339
+00:24:16,288 --> 00:24:19,428
+<i>in some section h! Project, Dr. halsey.</i>
+
+340
+00:24:20,892 --> 00:24:23,702
+<i>Well, I've said my piece.</i>
+
+341
+00:24:23,795 --> 00:24:26,071
+<i>Best of luck to you, Catherine.</i>
+
+342
+00:24:26,932 --> 00:24:33,076
+Doctor, augmentation was always
+a vital but statistically dangerous stage.
+
+343
+00:24:34,673 --> 00:24:36,118
+How many?
+
+344
+00:24:36,274 --> 00:24:38,276
+Oni was promised soldiers,
+
+345
+00:24:38,376 --> 00:24:41,220
+and you were the only mind
+that could accomplish it.
+
+346
+00:24:41,313 --> 00:24:43,190
+How many dead, déja?
+
+347
+00:24:43,882 --> 00:24:45,793
+Twenty-seven deceased.
+
+348
+00:24:45,884 --> 00:24:47,955
+36% of the candidates.
+
+349
+00:24:49,321 --> 00:24:50,994
+Children.
+
+350
+00:24:51,089 --> 00:24:54,298
+36% of the children.
+
+351
+00:24:55,460 --> 00:24:59,374
+The subjects are just
+one-half of the equation, doctor.
+
+352
+00:24:59,464 --> 00:25:03,435
+Both Mjolnir and the cognitive impression
+modeling are critical.
+
+353
+00:25:05,637 --> 00:25:06,672
+You're correct.
+
+354
+00:25:06,771 --> 00:25:10,184
+- Doctor?
+- This is our only option.
+
+355
+00:25:11,543 --> 00:25:14,683
+Every day the insurrection invents
+new acts of terror
+
+356
+00:25:14,779 --> 00:25:17,487
+to pull humanity farther into the muck.
+
+357
+00:25:17,582 --> 00:25:20,563
+Our civilization is balanced
+on a razor's edge,
+
+358
+00:25:20,652 --> 00:25:24,498
+and the insurgents threaten
+to bring it down around our ears.
+
+359
+00:25:25,524 --> 00:25:29,768
+If even one candidate survives
+and balance is restored,
+
+360
+00:25:29,895 --> 00:25:32,603
+history will absolve me
+for the greater good.
+
+361
+00:25:40,138 --> 00:25:41,208
+Duty.
+
+362
+00:25:41,973 --> 00:25:42,951
+Honor.
+
+363
+00:25:44,175 --> 00:25:45,677
+Self-sacrifice.
+
+364
+00:25:47,178 --> 00:25:52,457
+<i>We were 14 when we lost almost half
+of our comrades to augmentation failures.</i>
+
+365
+00:25:52,918 --> 00:25:56,525
+Death does not diminish
+these qualities in a soldier.
+
+366
+00:25:58,456 --> 00:26:00,834
+We shall remember our dead.
+
+367
+00:26:01,993 --> 00:26:04,803
+Honors, attention!
+
+368
+00:26:06,932 --> 00:26:10,778
+<i>Kids I grew up with,
+never said goodbye to.</i>
+
+369
+00:26:12,837 --> 00:26:16,284
+We commit the bodies of our fallen
+to space.
+
+370
+00:26:26,384 --> 00:26:28,557
+<i>I stiff remember their names.</i>
+
+371
+00:26:39,264 --> 00:26:42,074
+<i>The deaths affected
+each of us differently.</i>
+
+372
+00:26:42,200 --> 00:26:46,410
+<i>Fire teams came and went,
+but core loyalties and friendships endure.</i>
+
+373
+00:26:47,639 --> 00:26:49,277
+<i>Even beyond death.</i>
+
+374
+00:26:50,041 --> 00:26:53,250
+<i>Of course, it didn't sit well with John.</i>
+
+375
+00:26:54,379 --> 00:26:56,154
+Where are you taking my men?
+
+376
+00:26:56,247 --> 00:26:57,954
+Let 'em go, squad leader.
+
+377
+00:26:59,184 --> 00:27:00,925
+They can't fight anymore.
+
+378
+00:27:01,019 --> 00:27:02,828
+They don't belong here.
+
+379
+00:27:02,954 --> 00:27:03,955
+What happens to them?
+
+380
+00:27:04,456 --> 00:27:07,096
+The Navy takes care of its own.
+
+381
+00:27:07,225 --> 00:27:08,898
+Their minds are still sharp.
+
+382
+00:27:08,994 --> 00:27:14,137
+And our war effort can always use soldiers
+for less physical duties.
+
+383
+00:27:15,133 --> 00:27:17,170
+<i>John never left anyone behind.</i>
+
+384
+00:27:17,268 --> 00:27:18,906
+<i>Not if he could help it.</i>
+
+385
+00:27:19,004 --> 00:27:20,847
+Was there something else, son?
+
+386
+00:27:20,939 --> 00:27:25,149
+Sir, I'm squad leader.
+Members of my unit died.
+
+387
+00:27:25,243 --> 00:27:27,283
+What should I have done
+to keep that from happening?
+
+388
+00:27:28,079 --> 00:27:29,285
+117.
+
+389
+00:27:30,148 --> 00:27:31,491
+John.
+
+390
+00:27:32,250 --> 00:27:34,287
+What your class went through,
+
+391
+00:27:35,286 --> 00:27:39,166
+that any of you survived at all
+is a testament to your strength.
+
+392
+00:27:40,058 --> 00:27:41,560
+Walk with me.
+
+393
+00:27:44,663 --> 00:27:48,770
+A leader must be ready to send the men
+under his command to their deaths.
+
+394
+00:27:49,334 --> 00:27:51,541
+Your duty is to the mission.
+
+395
+00:27:51,636 --> 00:27:55,982
+I'm sorry, sir, but I fail to see
+how that applies to this situation.
+
+396
+00:27:56,074 --> 00:27:58,020
+The lesson is sacrifice.
+
+397
+00:27:58,977 --> 00:28:02,789
+It is acceptable to spend lives
+when necessary, squad leader.
+
+398
+00:28:03,882 --> 00:28:07,295
+What is not acceptable
+is to waste said lives.
+
+399
+00:28:09,988 --> 00:28:13,663
+Which was this, sir? Spent or wasted?
+
+400
+00:28:14,559 --> 00:28:16,766
+Get some rest, squad leader.
+
+401
+00:28:26,571 --> 00:28:29,313
+- What did Mendez say?
+- Not much.
+
+402
+00:28:30,341 --> 00:28:31,479
+Let me guess.
+
+403
+00:28:31,609 --> 00:28:33,850
+Something about duty and sucking it up.
+
+404
+00:28:33,945 --> 00:28:35,686
+That sounds nothing like him.
+
+405
+00:28:36,648 --> 00:28:38,525
+Like your owl.
+
+406
+00:28:38,616 --> 00:28:40,687
+It sounds exactly like him.
+
+407
+00:28:42,020 --> 00:28:45,797
+Me and kels are going
+to the shooting range later. You in?
+
+408
+00:28:45,890 --> 00:28:48,234
+No. I'm going to hit the gym.
+
+409
+00:28:56,768 --> 00:28:59,749
+<i>John was still
+processing our losses.</i>
+
+410
+00:29:00,872 --> 00:29:03,318
+<i>Emotionally and physically.</i>
+
+411
+00:29:06,511 --> 00:29:10,982
+<i>For weeks after augmentation,
+every bone in our bodies ached.</i>
+
+412
+00:29:15,086 --> 00:29:17,157
+<i>Our eyes throbbed and bled.</i>
+
+413
+00:29:17,989 --> 00:29:19,434
+<i>We got headaches.</i>
+
+414
+00:29:19,924 --> 00:29:21,062
+<i>Fell down.</i>
+
+415
+00:29:22,393 --> 00:29:24,339
+<i>Clumsy in our new skins.</i>
+
+416
+00:29:25,196 --> 00:29:27,904
+<i>Dr. halsey told us our brains
+would have to relearn</i>
+
+417
+00:29:27,999 --> 00:29:29,979
+<i>how to work with our new bodies.</i>
+
+418
+00:29:30,068 --> 00:29:32,412
+<i>Learn how to use new strength and speed.</i>
+
+419
+00:29:36,441 --> 00:29:38,216
+<i>But it wasn't easy.</i>
+
+420
+00:29:38,843 --> 00:29:39,913
+<i>And it was frustrating.</i>
+
+421
+00:29:47,418 --> 00:29:48,863
+<i>The thing about John is that</i>
+
+422
+00:29:48,953 --> 00:29:51,797
+<i>he really only knew three ways
+to react to people.</i>
+
+423
+00:29:56,027 --> 00:29:58,633
+<i>If you were his superior officer,
+he obeyed you.</i>
+
+424
+00:29:59,164 --> 00:30:02,407
+<i>If you were in his squad,
+he would die for you.</i>
+
+425
+00:30:02,901 --> 00:30:04,175
+<i>But if you were a threat?</i>
+
+426
+00:30:05,770 --> 00:30:07,408
+<i>Then god help you.</i>
+
+427
+00:30:28,259 --> 00:30:30,432
+Heart rate steady. Pulse level.
+
+428
+00:30:30,528 --> 00:30:31,939
+He's barely breaking a sweat.
+
+429
+00:30:32,130 --> 00:30:33,575
+What is he doing?
+
+430
+00:30:33,665 --> 00:30:36,168
+What we built him to do. He's winning.
+
+431
+00:30:36,501 --> 00:30:38,481
+I'm gonna stop this now.
+
+432
+00:30:39,470 --> 00:30:41,643
+How is his adrenaline level, I wonder.
+
+433
+00:30:55,019 --> 00:30:56,327
+Attention!
+
+434
+00:30:58,389 --> 00:30:59,390
+At ease.
+
+435
+00:31:00,258 --> 00:31:02,169
+Your workout is over for today.
+
+436
+00:31:02,694 --> 00:31:04,867
+Sir, those men.
+
+437
+00:31:05,930 --> 00:31:07,500
+Was this a test?
+
+438
+00:31:08,533 --> 00:31:11,810
+You engaged and neutralized a threat,
+squad leader.
+
+439
+00:31:12,937 --> 00:31:13,938
+They started it.
+
+440
+00:31:14,939 --> 00:31:16,475
+I was defending myself.
+
+441
+00:31:17,642 --> 00:31:19,815
+But still they were fellow soldiers.
+
+442
+00:31:20,845 --> 00:31:22,449
+People die.
+
+443
+00:31:22,747 --> 00:31:26,160
+Sacrifice is a necessary consequence
+of war.
+
+444
+00:31:26,284 --> 00:31:29,026
+But, sir, they were wasted, not spent.
+
+445
+00:31:29,654 --> 00:31:30,860
+Because of me.
+
+446
+00:31:30,955 --> 00:31:33,299
+Your priorities are to follow orders,
+
+447
+00:31:33,391 --> 00:31:35,837
+and to preserve your life
+and the lives of your team.
+
+448
+00:31:35,927 --> 00:31:38,032
+Is that clear, squad leader?
+
+449
+00:31:39,497 --> 00:31:40,737
+Yes, sir.
+
+450
+00:31:45,870 --> 00:31:47,645
+<i>We heard what happened.</i>
+
+451
+00:31:47,739 --> 00:31:49,776
+<i>Everyone on the ship did.</i>
+
+452
+00:31:49,908 --> 00:31:51,945
+<i>It was an accident.</i>
+
+453
+00:31:52,043 --> 00:31:54,284
+<i>That didn't make it any easier for John.</i>
+
+454
+00:32:01,585 --> 00:32:03,496
+Apologies, doctor,
+
+455
+00:32:03,587 --> 00:32:07,763
+but I have been attempting to decode
+a transmission from the planet harvest.
+
+456
+00:32:07,858 --> 00:32:11,032
+- And?
+- It's fragmented and incomplete.
+
+457
+00:32:11,128 --> 00:32:13,005
+And it stopped repeating.
+
+458
+00:32:13,130 --> 00:32:14,541
+Show me what you have.
+
+459
+00:32:24,541 --> 00:32:25,747
+Gods.
+
+460
+00:32:25,843 --> 00:32:27,720
+Déja, give me a feed from harvest.
+
+461
+00:32:27,811 --> 00:32:30,257
+- Scanning spectrum.
+- Anything.
+
+462
+00:32:30,347 --> 00:32:34,454
+A comm station, a news feed,
+a grain elevator, damn it.
+
+463
+00:32:34,618 --> 00:32:36,063
+Not found.
+
+464
+00:32:36,153 --> 00:32:40,659
+It may be interference or a problem
+with the slipspace beacon relays.
+
+465
+00:32:41,391 --> 00:32:43,837
+Harvest is on a 12-hour signal delay.
+
+466
+00:32:43,961 --> 00:32:46,202
+Get Mendez,
+but keep scanning harvest.
+
+467
+00:32:49,032 --> 00:32:53,105
+I'm accelerating the schedule.
+I want a test in a combat mission.
+
+468
+00:32:53,203 --> 00:32:56,184
+<i>Ma'am,</i> that's needlessly
+aggressive.
+
+469
+00:32:56,273 --> 00:32:57,308
+I disagree.
+
+470
+00:32:57,407 --> 00:33:00,547
+Brass wants spartans deployed,
+and so do I.
+
+471
+00:33:09,720 --> 00:33:13,361
+There's a mission Oni has been saving
+for the right team.
+
+472
+00:33:13,457 --> 00:33:16,802
+Colonel Robert watts
+earned his rank in the unsc,
+
+473
+00:33:16,927 --> 00:33:19,601
+but in 2512 he went turncoat.
+
+474
+00:33:19,763 --> 00:33:24,234
+And now leads the Insurrectionist forces
+in the eridanus system.
+
+475
+00:33:24,334 --> 00:33:28,339
+Watts has spent 12 years leading raids
+against unsc targets,
+
+476
+00:33:28,438 --> 00:33:31,578
+killing civilians and military alike.
+
+477
+00:33:31,675 --> 00:33:33,655
+We have intel that watts
+is planning to attack
+
+478
+00:33:33,744 --> 00:33:36,520
+medical satellites in the outer colonies.
+
+479
+00:33:37,347 --> 00:33:41,557
+Recently, one of watts' men
+cut a deal with Oni.
+
+480
+00:33:41,652 --> 00:33:44,098
+We have known for some time
+that watts' forces
+
+481
+00:33:44,188 --> 00:33:47,135
+were launching
+from the eridanus asteroid belt.
+
+482
+00:33:47,224 --> 00:33:51,468
+But there are millions of rocks
+scattered over billions of kilometers.
+
+483
+00:33:52,429 --> 00:33:54,932
+Our informant did not know
+the exact location.
+
+484
+00:33:55,065 --> 00:33:58,774
+However, he did know that
+the freighter <i>laden</i> is a supply vessel.
+
+485
+00:33:58,902 --> 00:34:00,074
+Mendez.
+
+486
+00:34:00,170 --> 00:34:04,778
+Laden is set to leave dock in six
+hours for routine engine recertification.
+
+487
+00:34:05,576 --> 00:34:08,113
+And yet, she's been loaded with
+enough food and water
+
+488
+00:34:08,212 --> 00:34:10,089
+to supply a small city.
+
+489
+00:34:11,215 --> 00:34:14,822
+<i>Spartans, you will be dropped
+at the eridanus h space docks.</i>
+
+490
+00:34:15,185 --> 00:34:18,428
+You'll be dressed the same
+<i>as</i> members of the laden crew.
+
+491
+00:34:18,722 --> 00:34:22,795
+Once in the base, you will infiltrate
+the installation and take watts alive.
+
+492
+00:34:22,926 --> 00:34:24,337
+If you can.
+
+493
+00:34:25,028 --> 00:34:28,976
+<i>They would've detected a unsc ship.
+They wouldn't detect us.</i>
+
+494
+00:34:29,967 --> 00:34:31,674
+Be prepared for anything.
+
+495
+00:34:32,536 --> 00:34:34,379
+Finally, squad leader,
+
+496
+00:34:34,471 --> 00:34:37,918
+you are hereby promoted
+to petty officer third class.
+
+497
+00:34:47,384 --> 00:34:49,455
+<i>Everything went off without a hitch.</i>
+
+498
+00:34:49,553 --> 00:34:52,591
+<i>Before long, we were safe
+in the micro gravity well.</i>
+
+499
+00:34:57,394 --> 00:35:00,466
+I can never get shut-eye
+before a mission.
+
+500
+00:35:01,598 --> 00:35:02,599
+What are you doing?
+
+501
+00:35:02,699 --> 00:35:05,077
+Scanning freight and shipping documents.
+
+502
+00:35:05,168 --> 00:35:08,308
+Read it to me. That'll put me to sleep.
+
+503
+00:35:08,405 --> 00:35:11,545
+Ten hours out, blue team.
+We'll rotate sleep cycles.
+
+504
+00:35:12,342 --> 00:35:15,050
+- Find anything, Kelly?
+- Everything.
+
+505
+00:35:15,145 --> 00:35:19,059
+Laden doesn't have a ship board al
+and their security is a joke.
+
+506
+00:35:19,182 --> 00:35:20,183
+Course setting.
+
+507
+00:35:20,284 --> 00:35:24,096
+We've got a loose trajectory
+into the belt, but no final destination.
+
+508
+00:35:24,187 --> 00:35:27,066
+Meaning insurgents
+don't even trust their own people.
+
+509
+00:35:27,190 --> 00:35:30,660
+Keep digging, and wake me in four.
+I'll take over watch.
+
+510
+00:35:37,768 --> 00:35:39,611
+Where did everyone go?
+
+511
+00:35:41,772 --> 00:35:42,842
+John?
+
+512
+00:35:46,276 --> 00:35:48,552
+Where were you when we needed you?
+
+513
+00:35:54,785 --> 00:35:57,026
+I'm up. What've you got?
+
+514
+00:35:57,120 --> 00:35:58,656
+I picked up where Kelly left off
+
+515
+00:35:58,789 --> 00:36:01,633
+and I found something odd
+in the ship's manifest.
+
+516
+00:36:01,725 --> 00:36:03,295
+Hidden in the standard rations,
+
+517
+00:36:03,393 --> 00:36:07,034
+there's a single crate of cigars,
+steaks and chocolates.
+
+518
+00:36:07,130 --> 00:36:08,609
+Luxury items.
+
+519
+00:36:08,699 --> 00:36:11,407
+That crate is going to watts.
+
+520
+00:36:11,501 --> 00:36:13,412
+Precisely what I was thinking.
+
+521
+00:36:22,379 --> 00:36:25,724
+Follow me. Stay quiet. Blend in.
+
+522
+00:36:25,816 --> 00:36:27,693
+Kelly, get a bearing on that crate.
+
+523
+00:36:28,485 --> 00:36:32,023
+On the monorail, headed towards
+the tallest building in town.
+
+524
+00:36:32,155 --> 00:36:34,465
+Only the best for colonel watts.
+
+525
+00:36:39,529 --> 00:36:42,999
+Nav marker at 443 meters and holding.
+
+526
+00:36:43,133 --> 00:36:45,579
+Top floor, helmets on. Move out.
+
+527
+00:37:06,056 --> 00:37:07,831
+Fresh batch, colonel.
+
+528
+00:37:30,113 --> 00:37:32,491
+<i>It was going well. We felt good.</i>
+
+529
+00:37:33,216 --> 00:37:34,786
+<i>We got cocky.</i>
+
+530
+00:37:34,885 --> 00:37:36,956
+<i>Well, I did.</i>
+
+531
+00:37:41,558 --> 00:37:42,662
+Sam, look out!
+
+532
+00:37:51,034 --> 00:37:52,138
+John!
+
+533
+00:37:52,869 --> 00:37:54,780
+John, can you hear me?
+
+534
+00:37:55,372 --> 00:37:56,407
+It should've been me.
+
+535
+00:37:56,506 --> 00:37:58,110
+Secure the area.
+
+536
+00:37:58,775 --> 00:38:02,154
+The biofoam will keep your guts
+where they belong till we get home.
+
+537
+00:38:02,245 --> 00:38:03,485
+It's going to hurt.
+
+538
+00:38:04,347 --> 00:38:06,258
+That was stupid, John.
+
+539
+00:38:06,383 --> 00:38:09,387
+Queen doesn't sacrifice everything
+to collect a pawn.
+
+540
+00:38:09,519 --> 00:38:12,966
+All the pieces go back in the same
+box when the game is done.
+
+541
+00:38:14,224 --> 00:38:16,830
+- You hit?
+- Nope. I'm lucky.
+
+542
+00:38:16,927 --> 00:38:18,327
+Some idiot caught my bullet for me.
+
+543
+00:38:18,495 --> 00:38:20,941
+Do not make me laugh right now.
+
+544
+00:38:40,617 --> 00:38:41,823
+You won't take me alive.
+
+545
+00:38:43,920 --> 00:38:45,661
+My men will come for you.
+
+546
+00:38:45,755 --> 00:38:48,998
+Empty the crate.
+Sam, load the cargo.
+
+547
+00:38:49,392 --> 00:38:51,838
+Cargo? Unhand me, boy.
+
+548
+00:38:51,928 --> 00:38:55,774
+I don't know who or what you are,
+but I know two things, son.
+
+549
+00:38:56,366 --> 00:38:58,676
+One, none of you are gettin' out alive.
+
+550
+00:38:59,135 --> 00:39:03,277
+And two, I am absolutely not
+getting in that damned box.
+
+551
+00:39:18,788 --> 00:39:22,167
+<i>We believed</i> we <i>had dealt
+the insurrection a mortal blow.</i>
+
+552
+00:39:22,259 --> 00:39:23,966
+<i>Maybe we did.</i>
+
+553
+00:39:24,060 --> 00:39:26,097
+<i>But everything was about to change.</i>
+
+554
+00:39:30,133 --> 00:39:31,544
+Who's that?
+
+555
+00:39:31,635 --> 00:39:33,239
+Uniform says Keyes.
+
+556
+00:39:33,837 --> 00:39:35,317
+Maybe he's here to interrogate watts?
+
+557
+00:39:38,942 --> 00:39:41,081
+Nice work, 117.
+
+558
+00:39:41,177 --> 00:39:43,316
+- John, isn't it?
+- Yes, sir.
+
+559
+00:39:44,147 --> 00:39:45,319
+Have we met?
+
+560
+00:39:45,415 --> 00:39:48,225
+A long time ago. You wouldn't remember.
+
+561
+00:39:48,318 --> 00:39:50,764
+You were just a kid fighting in the dust.
+
+562
+00:39:50,854 --> 00:39:53,892
+Now you're a warrior.
+And just in the Nick of time.
+
+563
+00:39:53,990 --> 00:39:56,527
+- Sir?
+- You'll know soon enough.
+
+564
+00:39:57,294 --> 00:39:58,398
+Dismissed.
+
+565
+00:40:00,096 --> 00:40:02,702
+Amphitheater, spartans. On the double.
+
+566
+00:40:13,577 --> 00:40:16,990
+What do you think it is?
+Insurrection revenge strike?
+
+567
+00:40:17,080 --> 00:40:19,924
+It's something else. Something big.
+
+568
+00:40:23,253 --> 00:40:24,698
+At ease, spartans.
+
+569
+00:40:25,322 --> 00:40:27,268
+Lam vice admiral Stanforth.
+
+570
+00:40:27,791 --> 00:40:31,238
+This is harvest.
+Population of three million.
+
+571
+00:40:31,328 --> 00:40:33,740
+A peaceful and productive farming world.
+
+572
+00:40:33,830 --> 00:40:36,276
+On February 3rd, at 1423 hours,
+
+573
+00:40:36,399 --> 00:40:40,779
+the harvest orbital platform made
+long range radar contact with this object.
+
+574
+00:40:41,504 --> 00:40:44,485
+After that,
+all contact with harvest was lost.
+
+575
+00:40:45,675 --> 00:40:47,916
+<i>Command assembled a battle group.</i>
+
+576
+00:40:48,011 --> 00:40:51,515
+<i>What they found
+was all that was left of harvest.</i>
+
+577
+00:40:51,615 --> 00:40:54,152
+<i>Three million fives lost.</i>
+
+578
+00:40:54,284 --> 00:40:58,460
+<i>The colony burnt to ash.
+Power like humanity has never seen.</i>
+
+579
+00:40:58,555 --> 00:41:01,161
+<i>Then they encountered this.</i>
+
+580
+00:41:03,126 --> 00:41:05,868
+<i>A starship of unknown design.</i>
+
+581
+00:41:05,962 --> 00:41:08,033
+<i>It destroyed the Vostok and the Arabia
+in under a minute,</i>
+
+582
+00:41:08,131 --> 00:41:11,738
+<i>using highly advanced weapons
+and impenetrable shielding.</i>
+
+583
+00:41:11,835 --> 00:41:14,941
+<i>The heracles escaped into slipspace
+with substantial damage</i>
+
+584
+00:41:15,071 --> 00:41:16,744
+<i>and brought this intel back.</i>
+
+585
+00:41:17,307 --> 00:41:20,618
+They will not negotiate,
+they will not communicate.
+
+586
+00:41:20,710 --> 00:41:23,418
+They cannot be reasoned or bartered with.
+
+587
+00:41:23,513 --> 00:41:25,891
+<i>We had just fought
+the insurrectionists,</i>
+
+588
+00:41:25,982 --> 00:41:27,928
+<i>stopped a plot to murder millions.</i>
+
+589
+00:41:28,918 --> 00:41:33,833
+<i>Only to realize that this could be
+the very end of humankind. Period.</i>
+
+590
+00:41:35,525 --> 00:41:37,300
+Humanity will fight back.
+
+591
+00:41:38,395 --> 00:41:42,810
+We've already seen that we cannot do it
+with the blunt instrument of a fleet.
+
+592
+00:41:42,932 --> 00:41:45,640
+We need the surgical precision
+of a scalpel.
+
+593
+00:41:46,903 --> 00:41:49,941
+The spartan program is that scalpel.
+
+594
+00:41:51,408 --> 00:41:55,754
+We received a message before the attack
+in ueg base English.
+
+595
+00:41:55,912 --> 00:41:57,585
+Play the message, beowulf.
+
+596
+00:42:01,117 --> 00:42:06,123
+Humans, your destruction
+is the will of the gods.
+
+597
+00:42:06,256 --> 00:42:09,533
+And we are their instrument.
+
+598
+00:42:20,870 --> 00:42:24,784
+<i>Kelly-087 of blue team.
+Mission debrief.</i>
+
+599
+00:42:33,950 --> 00:42:37,693
+<i>We were on the commonwealth,
+en route to chi ceti iv.</i>
+
+600
+00:42:37,787 --> 00:42:41,633
+<i>When we weren't in cryo,
+we were all crammed into the bunk room,</i>
+
+601
+00:42:41,791 --> 00:42:44,067
+<i>there was always more prep, more planning.</i>
+
+602
+00:42:45,195 --> 00:42:46,640
+Damn it!
+
+603
+00:42:47,297 --> 00:42:50,210
+- You're still dropping your shoulder.
+- I know.
+
+604
+00:42:54,504 --> 00:42:55,812
+Let's go again.
+
+605
+00:42:58,608 --> 00:43:02,146
+Does project Mjolnir
+mean anything to anyone?
+
+606
+00:43:02,779 --> 00:43:04,759
+Gotta be some kind of weapon.
+
+607
+00:43:04,848 --> 00:43:07,590
+Brass isn't very imaginative
+with codenames.
+
+608
+00:43:07,684 --> 00:43:09,823
+<i>Spartan 117,
+report to the bridge.</i>
+
+609
+00:43:09,919 --> 00:43:10,954
+Yes, ma'am.
+
+610
+00:43:11,554 --> 00:43:14,296
+Sam, get everyone ready. On the double.
+
+611
+00:43:14,724 --> 00:43:16,260
+You heard the petty officer.
+
+612
+00:43:16,359 --> 00:43:18,930
+Dog the distractions
+and into uniforms, spartans.
+
+613
+00:43:28,071 --> 00:43:29,744
+<i>As we scrambled to get ready,</i>
+
+614
+00:43:29,873 --> 00:43:34,151
+<i>John was dragged into a pissing contest
+between Dr. halsey and the captain.</i>
+
+615
+00:43:34,244 --> 00:43:35,917
+Ma'am. Captain Wallace.
+
+616
+00:43:36,513 --> 00:43:37,583
+There it is again.
+
+617
+00:43:37,680 --> 00:43:40,524
+Doctor, that puts our ghost
+at 80 million clicks.
+
+618
+00:43:40,617 --> 00:43:43,621
+Even if it were a ship,
+and I don't concur that it is,
+
+619
+00:43:43,720 --> 00:43:46,326
+it would take an hour
+to get within weapons range.
+
+620
+00:43:46,422 --> 00:43:49,198
+Besides, it's disappeared again.
+
+621
+00:43:49,292 --> 00:43:52,739
+Captain, it is my recommendation
+that we go to battle stations.
+
+622
+00:43:52,829 --> 00:43:54,502
+We have plenty of time.
+
+623
+00:43:54,597 --> 00:43:56,577
+Unless there's something
+you're not telling us.
+
+624
+00:43:57,467 --> 00:43:59,208
+This is not widely known, captain,
+
+625
+00:43:59,302 --> 00:44:02,146
+but the alien ships
+at harvest disappeared,
+
+626
+00:44:02,238 --> 00:44:04,775
+then reappeared, much closer.
+
+627
+00:44:04,874 --> 00:44:07,980
+- An intrasystem jump?
+- We believe so, spartan.
+
+628
+00:44:08,077 --> 00:44:09,112
+Not possible.
+
+629
+00:44:09,612 --> 00:44:11,592
+I can tell you that slipstream space
+
+630
+00:44:11,681 --> 00:44:14,389
+simply cannot be navigated
+that accurately.
+
+631
+00:44:14,517 --> 00:44:17,964
+You mean we cannot navigate it
+with that kind of accuracy.
+
+632
+00:44:18,822 --> 00:44:19,960
+We'll take the dropship.
+
+633
+00:44:20,056 --> 00:44:22,627
+I will see these spartans make it
+to project Mjolnir.
+
+634
+00:44:24,294 --> 00:44:27,138
+All hands to battle stations.
+This is not a drill.
+
+635
+00:44:27,230 --> 00:44:30,177
+Reactors to 90%. Come about to course 125.
+
+636
+00:44:31,034 --> 00:44:32,638
+All hands, brace for impact.
+
+637
+00:44:42,812 --> 00:44:44,883
+<i>We were being hunted down
+like dogs.</i>
+
+638
+00:44:44,981 --> 00:44:49,088
+<i>Our only chance was whatever
+was down in that testing facility.</i>
+
+639
+00:45:01,497 --> 00:45:04,137
+<i>They call themselves the covenant.</i>
+
+640
+00:45:21,084 --> 00:45:25,260
+Energy shields. That's amazing.
+
+641
+00:45:25,755 --> 00:45:28,497
+Bring the ship around. And arm the Mac.
+
+642
+00:45:34,497 --> 00:45:39,606
+<i>Unlike the missiles, the Mac round
+101 is an unguided projectile,</i>
+
+643
+00:45:39,702 --> 00:45:43,149
+<i>so the firing solution has to be
+perfectly aligned to hit.</i>
+
+644
+00:46:17,273 --> 00:46:19,184
+Ready another Mac round.
+
+645
+00:46:19,275 --> 00:46:21,255
+Mac system destroyed, captain.
+
+646
+00:46:21,344 --> 00:46:24,223
+The commonwealth carries
+nuclear missiles, correct?
+
+647
+00:46:24,314 --> 00:46:27,921
+Detonation at this range
+will destroy us as well.
+
+648
+00:46:28,017 --> 00:46:29,223
+Excuse me, sir.
+
+649
+00:46:29,319 --> 00:46:32,061
+The alien tactics have been
+unnecessarily vicious.
+
+650
+00:46:32,155 --> 00:46:34,726
+They didn't have to take
+that second Mac round.
+
+651
+00:46:34,824 --> 00:46:38,362
+In my opinion, sir, they would
+engage anything that challenged them.
+
+652
+00:46:39,329 --> 00:46:41,070
+They're sending a message.
+
+653
+00:46:41,164 --> 00:46:45,306
+Longsword squadron delta,
+get those ships into the black, boys.
+
+654
+00:46:46,703 --> 00:46:48,205
+Buy us some time.
+
+655
+00:46:48,304 --> 00:46:50,306
+<i>Roger that, sir. On our way.</i>
+
+656
+00:46:52,041 --> 00:46:53,111
+Arm the nuclear warhead.
+
+657
+00:46:56,212 --> 00:46:58,658
+Proximity detonator at 100 meters.
+
+658
+00:47:11,327 --> 00:47:12,772
+Fire.
+
+659
+00:47:17,433 --> 00:47:19,379
+Three, two...
+
+660
+00:47:34,984 --> 00:47:38,022
+Power us back up. Slowly.
+
+661
+00:47:39,422 --> 00:47:40,594
+Sensors coming back on.
+
+662
+00:47:40,690 --> 00:47:43,170
+All longsword interceptors vaporized.
+
+663
+00:47:43,259 --> 00:47:46,900
+Covenant ship intact, sir.
+
+664
+00:47:46,996 --> 00:47:48,839
+No.
+
+665
+00:47:48,931 --> 00:47:52,310
+It is moving off, though, sir.
+Most likely to make repairs.
+
+666
+00:47:53,803 --> 00:47:55,009
+I have my orders.
+
+667
+00:47:55,104 --> 00:47:58,711
+To get you and yours
+to chi ceti iv at all costs.
+
+668
+00:48:00,476 --> 00:48:02,456
+<i>As we execute a flyby orbit,</i>
+
+669
+00:48:02,545 --> 00:48:05,492
+<i>your dropship will take you
+and your crew planet-side.</i>
+
+670
+00:48:05,581 --> 00:48:08,528
+<i>If the covenant return,
+we will lure them away.</i>
+
+671
+00:48:19,328 --> 00:48:23,470
+<i>Damascus materials testing
+facility to incoming pelican. Identify.</i>
+
+672
+00:48:23,566 --> 00:48:29,039
+This is Dr. Catherine halsey,
+Damascus clearance 197371-Alpha.
+
+673
+00:48:29,972 --> 00:48:33,112
+<i>Doctor, you're cleared
+for landing. Pad four.</i>
+
+674
+00:48:49,625 --> 00:48:51,730
+This is project Mjolnir.
+
+675
+00:48:55,098 --> 00:48:57,169
+<i>Mjolnir wasn't just weapons tech.</i>
+
+676
+00:48:57,266 --> 00:49:00,304
+<i>It was Halsey's endgame.
+Her force multiplier.</i>
+
+677
+00:49:01,170 --> 00:49:05,050
+<i>We were only half of the plan.
+The armor was the other.</i>
+
+678
+00:49:07,143 --> 00:49:11,057
+The armor's shell is a multilayer alloy
+of remarkable strength.
+
+679
+00:49:11,147 --> 00:49:14,026
+An on board computer
+connects with your neural interface
+
+680
+00:49:14,117 --> 00:49:16,620
+to continually track tactical information.
+
+681
+00:49:16,719 --> 00:49:20,667
+And the inner structure is composed
+of a new reactive metal liquid crystal
+
+682
+00:49:20,756 --> 00:49:25,000
+that is amorphous, yet fractually scales
+and amplifies force.
+
+683
+00:49:25,094 --> 00:49:28,303
+Ma'am, so you're saying
+this exoskeleton enhances
+
+684
+00:49:28,397 --> 00:49:31,071
+both the wearer's strength and speed?
+
+685
+00:49:31,167 --> 00:49:34,307
+Yes, 104, by a multiple of five.
+
+686
+00:49:34,403 --> 00:49:37,680
+- Sign me up.
+- And the drawbacks, ma'am?
+
+687
+00:49:37,773 --> 00:49:40,754
+This system is so reactive
+that our previous tests
+
+688
+00:49:40,843 --> 00:49:44,381
+with unaugmented volunteers
+ended in failure.
+
+689
+00:49:46,749 --> 00:49:50,026
+<i>The amplified movements broke their bones,
+tore their muscles.</i>
+
+690
+00:49:50,119 --> 00:49:53,726
+Their own agony-induced spasms
+killed them.
+
+691
+00:49:53,823 --> 00:49:55,734
+But you are not normal humans.
+
+692
+00:49:55,825 --> 00:49:58,465
+Your enhanced musculature and skeletons
+
+693
+00:49:58,561 --> 00:50:01,440
+should be enough to allow you
+to harness the armor's power.
+
+694
+00:50:02,265 --> 00:50:05,644
+- Now, I'll need a...
+- I'll do it. I'll be first.
+
+695
+00:50:06,769 --> 00:50:08,510
+I thought you might.
+
+696
+00:50:10,806 --> 00:50:13,446
+<i>Of course, John volunteered.</i>
+
+697
+00:50:13,543 --> 00:50:17,218
+<i>He was always the first to explore
+the unknown for the rest of us.</i>
+
+698
+00:50:21,684 --> 00:50:24,358
+Move very slowly, deliberately.
+
+699
+00:50:24,453 --> 00:50:29,027
+The armor cannot be powered down,
+the response cannot be scaled back.
+
+700
+00:50:31,360 --> 00:50:33,670
+It's shifting.
+
+701
+00:50:33,763 --> 00:50:37,711
+Each suit has a gel-filled
+layer to regulate temperature and fit.
+
+702
+00:50:39,635 --> 00:50:43,640
+- John, ready for your first step?
+- Yes, ma'am.
+
+703
+00:50:44,440 --> 00:50:47,319
+<i>We couldn't watch,
+but we couldn't turn away.</i>
+
+704
+00:50:47,910 --> 00:50:51,289
+<i>If felt like the entire fate of humanity
+lay in one step.</i>
+
+705
+00:50:52,048 --> 00:50:53,959
+Come on, man, you got this.
+
+706
+00:50:58,955 --> 00:51:01,629
+It's lighter than I expected.
+
+707
+00:51:01,958 --> 00:51:03,335
+Easy now.
+
+708
+00:51:08,164 --> 00:51:10,303
+Well? How does it feel?
+
+709
+00:51:13,569 --> 00:51:16,015
+Like I was made to wear it, ma'am.
+
+710
+00:51:18,808 --> 00:51:22,119
+<i>John was right.
+He was made to wear it.</i>
+
+711
+00:51:22,211 --> 00:51:23,690
+<i>We all were.</i>
+
+712
+00:51:33,222 --> 00:51:37,568
+Spartans, this is what we've
+trained our entire lives to do.
+
+713
+00:51:37,660 --> 00:51:40,800
+If we lose here, we lose everything.
+
+714
+00:51:41,597 --> 00:51:44,874
+- Let's send our own message.
+- Sir, yes, sir!
+
+715
+00:51:44,967 --> 00:51:46,742
+Commonwealth to Dr. halsey.
+
+716
+00:51:46,836 --> 00:51:48,440
+I'm here, captain.
+
+717
+00:51:48,537 --> 00:51:50,073
+<i>The covenant ship is moving.</i>
+
+718
+00:51:50,172 --> 00:51:53,119
+<i>They'll be on us inside 10 minutes.</i>
+
+719
+00:51:53,209 --> 00:51:56,486
+<i>I'm sorry, doctor.
+It looks as if you're on your own.</i>
+
+720
+00:51:57,113 --> 00:52:01,186
+Dr. halsey, let us take a shot.
+We're the best possible option.
+
+721
+00:52:01,284 --> 00:52:02,854
+Your only option.
+
+722
+00:52:02,952 --> 00:52:05,455
+Blue team is ready, and you know it.
+
+723
+00:52:05,554 --> 00:52:06,624
+<i>John was right.</i>
+
+724
+00:52:06,722 --> 00:52:10,829
+<i>And halsey either did know it,
+or at least knew better than to argue.</i>
+
+725
+00:52:11,927 --> 00:52:13,463
+Godspeed, John.
+
+726
+00:52:20,536 --> 00:52:24,109
+I'm just saying, you could have
+volunteered red team instead.
+
+727
+00:52:24,206 --> 00:52:26,743
+You want me to pull over?
+Let you out right here?
+
+728
+00:52:26,842 --> 00:52:30,517
+As chief Mendez would say,
+"it's a long walk home."
+
+729
+00:52:31,247 --> 00:52:34,057
+Look, you know I trust you and everything,
+
+730
+00:52:34,817 --> 00:52:38,355
+but how are we supposed to take on
+a covenant ship in a pelican?
+
+731
+00:52:38,688 --> 00:52:40,634
+Drown them in our blood?
+
+732
+00:52:41,390 --> 00:52:44,894
+I was thinking, the commonwealth's
+pelicans are carrying nukes.
+
+733
+00:52:44,994 --> 00:52:46,769
+Nukes won't even scratch 'em.
+
+734
+00:52:46,862 --> 00:52:51,311
+No. Not from outside their ship.
+
+735
+00:52:51,400 --> 00:52:52,470
+That's right.
+
+736
+00:52:52,568 --> 00:52:55,105
+We can't beat them
+with brute force, remember?
+
+737
+00:52:55,204 --> 00:52:57,684
+Scalpels, surgical precision.
+
+738
+00:53:01,844 --> 00:53:04,120
+We're small enough,
+they won't see us coming.
+
+739
+00:53:04,213 --> 00:53:05,191
+I hope.
+
+740
+00:53:05,281 --> 00:53:06,555
+Gear up.
+
+741
+00:53:11,253 --> 00:53:14,530
+Ship's on autopilot.
+Course can be tracked via our hud.
+
+742
+00:53:14,623 --> 00:53:17,797
+You heard this plan?
+And we're still doing it?
+
+743
+00:53:17,893 --> 00:53:21,204
+I think it's a great plan.
+I seriously love this plan!
+
+744
+00:53:22,798 --> 00:53:26,109
+I'm on board. I love this plan.
+
+745
+00:53:26,202 --> 00:53:27,704
+I love it, too.
+
+746
+00:53:29,171 --> 00:53:31,242
+All right, here we go.
+
+747
+00:53:31,340 --> 00:53:34,446
+John? If we miss...
+
+748
+00:53:36,278 --> 00:53:37,518
+We won't.
+
+749
+00:53:50,826 --> 00:53:52,169
+The turrets!
+
+750
+00:53:52,261 --> 00:53:55,003
+The shields have to at least
+Iris for them to fire.
+
+751
+00:53:55,097 --> 00:53:57,373
+If we time this right,
+we're behind their shields.
+
+752
+00:53:57,767 --> 00:53:59,747
+We time it wrong, we're smoke.
+
+753
+00:53:59,835 --> 00:54:02,213
+Sam, Kelly, with me.
+
+754
+00:54:02,304 --> 00:54:04,750
+Fred, Linda, take the other side.
+
+755
+00:54:04,840 --> 00:54:06,683
+We'll rendezvous somewhere in the middle.
+
+756
+00:54:10,479 --> 00:54:11,890
+On my mark.
+
+757
+00:54:14,083 --> 00:54:15,926
+Mark! Go! Go! Go!
+
+758
+00:54:28,764 --> 00:54:30,675
+I'm not going to make it!
+
+759
+00:54:35,738 --> 00:54:37,376
+Everyone makes it.
+
+760
+00:54:49,218 --> 00:54:50,526
+I need intel.
+
+761
+00:54:51,587 --> 00:54:54,796
+I've got Cherenkov radiation
+readings from all over the ship.
+
+762
+00:54:54,890 --> 00:54:56,528
+Could be anything.
+
+763
+00:54:57,726 --> 00:55:01,230
+Agreed, but the largest reading
+is coming from the center.
+
+764
+00:55:01,430 --> 00:55:03,034
+Likely the ship's reactor.
+
+765
+00:55:12,475 --> 00:55:15,456
+Sam, you take point.
+Kelly, in the middle, guiding the way.
+
+766
+00:55:16,312 --> 00:55:18,223
+I'll bring up the rear.
+
+767
+00:55:31,360 --> 00:55:33,499
+<i>The pressure doors were immense.</i>
+
+768
+00:55:33,596 --> 00:55:37,544
+<i>The ceilings were three meters high,
+the air thick and oily.</i>
+
+769
+00:55:38,534 --> 00:55:40,775
+<i>Different symbols, different languages.</i>
+
+770
+00:55:41,337 --> 00:55:45,444
+<i>Oni had theorized the covenant
+was more than just one race.</i>
+
+771
+00:55:45,541 --> 00:55:47,282
+<i>This helped confirm it.</i>
+
+772
+00:56:14,870 --> 00:56:16,941
+They aren't bulletproof.
+Good to know.
+
+773
+00:56:18,974 --> 00:56:22,285
+Collect samples. Tissue, armor, weapons.
+
+774
+00:56:22,378 --> 00:56:23,914
+Oni will want it.
+
+775
+00:56:24,046 --> 00:56:25,719
+Think we should've tried
+communicating?
+
+776
+00:56:25,814 --> 00:56:27,919
+They understood us just fine.
+
+777
+00:56:28,717 --> 00:56:31,220
+Come on.
+We don't know what else is on the way.
+
+778
+00:56:38,627 --> 00:56:39,765
+Clear.
+
+779
+00:57:10,125 --> 00:57:11,502
+John!
+
+780
+00:57:12,995 --> 00:57:15,942
+<i>My heart stopped
+when Sam took the shot in the chest.</i>
+
+781
+00:57:33,315 --> 00:57:36,558
+I'm okay.
+Just burns like nothing else.
+
+782
+00:57:36,652 --> 00:57:39,792
+You'll be fine.
+But biofoam won't seal this.
+
+783
+00:57:39,888 --> 00:57:41,526
+That was stupid, Sam.
+
+784
+00:57:41,624 --> 00:57:44,161
+- You did the same thing for me.
+- That was different.
+
+785
+00:57:44,326 --> 00:57:46,829
+They can't afford to lose you, John.
+
+786
+00:57:56,271 --> 00:57:58,717
+This is the source
+of the radiation spike.
+
+787
+00:57:58,807 --> 00:58:00,445
+I have no idea what it is.
+
+788
+00:58:00,542 --> 00:58:02,613
+Doesn't matter,
+as long as it explodes.
+
+789
+00:58:02,711 --> 00:58:04,622
+I'll arm the warhead, you two...
+
+790
+00:58:04,713 --> 00:58:05,885
+Contacts!
+
+791
+00:58:12,221 --> 00:58:15,031
+- They've got shields.
+- Only in the front.
+
+792
+00:58:26,802 --> 00:58:30,375
+I'll seal the door.
+John, finish arming that warhead.
+
+793
+00:58:40,983 --> 00:58:44,760
+<i>I remember thinking
+that no matter how dark the future,</i>
+
+794
+00:58:44,853 --> 00:58:47,026
+<i>we could face it as a team.</i>
+
+795
+00:58:48,590 --> 00:58:51,161
+Warhead countdown set. Let's move!
+
+796
+00:58:51,260 --> 00:58:52,603
+<i>Or so I thought.</i>
+
+797
+00:58:54,463 --> 00:58:55,874
+You guys should get moving.
+
+798
+00:58:55,964 --> 00:58:58,638
+You guys? You're not coming?
+
+799
+00:58:58,734 --> 00:58:59,838
+Kelly...
+
+800
+00:58:59,935 --> 00:59:02,472
+No! We don't leave anyone behind.
+
+801
+00:59:03,205 --> 00:59:04,707
+My suit is breached.
+
+802
+00:59:06,642 --> 00:59:09,418
+I step into that vacuum
+and I'm dead anyway.
+
+803
+00:59:11,947 --> 00:59:16,293
+No. No! We don't leave
+anyone behind!
+
+804
+00:59:18,554 --> 00:59:22,502
+He's not staying to die, Kelly.
+He's staying to fight.
+
+805
+00:59:22,591 --> 00:59:26,767
+Go. Our new friends aren't gonna wait
+for us to argue.
+
+806
+00:59:30,766 --> 00:59:36,182
+<i>I know spartans don't cry,
+but for once, I was glad for the helmet.</i>
+
+807
+00:59:41,410 --> 00:59:44,482
+<i>Sam was our first loss since augmentation.</i>
+
+808
+00:59:53,322 --> 00:59:55,131
+<i>We thought training,</i>
+
+809
+00:59:55,224 --> 01:00:00,731
+<i>augmentation, armor made us untouchable,
+invulnerable, immortal.</i>
+
+810
+01:00:02,131 --> 01:00:03,405
+<i>Blue team.</i>
+
+811
+01:00:04,867 --> 01:00:06,938
+<i>We were wrong.</i>
+
+812
+01:00:07,035 --> 01:00:08,639
+<i>We were children.</i>
+
+813
+01:00:10,873 --> 01:00:14,082
+<i>This was the only thing
+John was ever afraid of.</i>
+
+814
+01:00:14,543 --> 01:00:16,045
+<i>Losing one of us.</i>
+
+815
+01:00:25,587 --> 01:00:28,329
+<i>And we knew
+we weren't finishing this fight,</i>
+
+816
+01:00:28,423 --> 01:00:30,266
+<i>we were just getting started.</i>
+
+817
+01:00:59,855 --> 01:01:01,425
+<i>I was 14 then.</i>
+
+818
+01:01:01,523 --> 01:01:04,436
+<i>Ah I can think about was that day.</i>
+
+819
+01:01:07,095 --> 01:01:09,803
+<i>Sam carved our mark into the world,</i>
+
+820
+01:01:09,898 --> 01:01:13,539
+<i>right here in the wilderness,
+before it was all burned.</i>
+
+821
+01:01:14,937 --> 01:01:16,507
+For Sam.
+
+822
+01:01:16,605 --> 01:01:17,709
+For Sam.
+
+823
+01:01:19,174 --> 01:01:24,624
+Sam fell first, and yet he showed us
+that the covenant could be killed.
+
+824
+01:01:24,713 --> 01:01:27,455
+Sam proved we could win this war.
+
+825
+01:01:27,549 --> 01:01:30,962
+Every battle won is built
+on the foundation of that sacrifice.
+
+826
+01:01:32,221 --> 01:01:36,897
+If we survive this,
+it's because Sam showed us the way.
+
+827
+01:01:39,828 --> 01:01:40,966
+Chief?
+
+828
+01:01:42,130 --> 01:01:46,374
+Sam was my friend.
+He was my brother.
+
+829
+01:01:48,170 --> 01:01:50,172
+He was our brother.
+
+830
+01:01:54,142 --> 01:01:58,591
+Last time we were here,
+I asked Sam to trust me to take us home,
+
+831
+01:01:59,314 --> 01:02:00,588
+to follow me.
+
+832
+01:02:02,985 --> 01:02:04,828
+Will you trust me now?
+
+833
+01:02:06,755 --> 01:02:08,462
+Will you follow me?
+

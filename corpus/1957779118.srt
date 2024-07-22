@@ -1,0 +1,5506 @@
+﻿1
+00:00:34,602 --> 00:00:40,173
+[Carrie] <i>Sometimes it's
+painful to be inarticulate.</i>
+
+2
+00:00:41,876 --> 00:00:43,678
+<i>You know, to never
+have the right thing</i>
+
+3
+00:00:43,711 --> 00:00:46,614
+<i>To say when it really matters.</i>
+
+4
+00:00:48,516 --> 00:00:50,384
+<i>Like you might spend
+your entire life</i>
+
+5
+00:00:50,417 --> 00:00:52,219
+<i>thinking you're
+dealing with a square</i>
+
+6
+00:00:52,252 --> 00:00:54,130
+<i>because it looks like a
+square and acts like a square</i>
+
+7
+00:00:54,154 --> 00:00:57,559
+<i>or feels like whatever.</i>
+
+8
+00:00:58,726 --> 00:01:00,227
+<i>But then one day,</i>
+
+9
+00:01:00,260 --> 00:01:01,696
+<i>you turn a corner and realize</i>
+
+10
+00:01:01,729 --> 00:01:05,065
+<i>that actually it's not a square.</i>
+
+11
+00:01:05,833 --> 00:01:07,602
+<i>It never was.</i>
+
+12
+00:01:07,635 --> 00:01:09,671
+<i>All along, you've
+just been staring</i>
+
+13
+00:01:09,704 --> 00:01:12,406
+<i>at the flat face of a cube.</i>
+
+14
+00:01:12,439 --> 00:01:15,342
+(upbeat music)
+
+15
+00:01:15,375 --> 00:01:19,379
+<i>♪ I section off the petrol
+with the metro card ♪</i>
+
+16
+00:01:19,413 --> 00:01:21,783
+<i>♪ Days you heard of
+secondhand on rented heart ♪</i>
+
+17
+00:01:21,816 --> 00:01:24,586
+<i>♪ Cover for me, your tarp
+is see through, dummy ♪</i>
+
+18
+00:01:24,619 --> 00:01:28,455
+<i>♪ I patch like iOS and if you
+question, need that monthly ♪</i>
+
+19
+00:01:28,488 --> 00:01:29,857
+<i>♪ What a trip, never slipped ♪</i>
+
+20
+00:01:29,891 --> 00:01:32,560
+<i>♪ I don't miss I
+go Gilbert in '06 ♪</i>
+
+21
+00:01:32,594 --> 00:01:35,663
+<i>♪ You more like Adonal Foyle
+Before Curry killed the Knicks ♪</i>
+
+22
+00:01:35,697 --> 00:01:37,532
+<i>♪ From the back
+I lost my grip ♪</i>
+
+23
+00:01:37,565 --> 00:01:39,466
+<i>♪ Low behold, I
+caught up quick ♪</i>
+
+24
+00:01:39,499 --> 00:01:41,168
+<i>♪ Overall, I'm well equipped ♪</i>
+
+25
+00:01:41,201 --> 00:01:42,837
+<i>♪ Coat of arms,
+they rep the set ♪</i>
+
+26
+00:01:42,870 --> 00:01:44,772
+<i>♪ Too prideful
+for the charity ♪</i>
+
+27
+00:01:44,806 --> 00:01:46,507
+<i>♪ A blessing scorned ♪</i>
+
+28
+00:01:46,541 --> 00:01:49,443
+<i>♪ We just want a nigga
+we can root for, yeah ♪</i>
+
+29
+00:01:49,476 --> 00:01:52,847
+<i>♪ Cherish while a champ
+walk you to the door, yeah ♪</i>
+
+30
+00:01:52,880 --> 00:01:55,650
+<i>♪ Shekels brought on grandeur
+but your spirit poor ♪</i>
+
+31
+00:01:55,683 --> 00:02:00,220
+<i>♪ Poor ass spirit ♪</i>
+
+32
+00:02:00,253 --> 00:02:02,724
+<i>♪ Roaming true predator stare,
+hone in to regular gears ♪</i>
+
+33
+00:02:02,757 --> 00:02:04,535
+<i>♪ Regular pair of wings
+on your toes in the air ♪</i>
+
+34
+00:02:04,559 --> 00:02:06,360
+<i>♪ I dick for relief
+and to share ♪</i>
+
+35
+00:02:06,393 --> 00:02:08,161
+<i>♪ Only fair I've
+had no other life ♪</i>
+
+36
+00:02:08,195 --> 00:02:09,640
+<i>♪ So I do not act as
+if yours is mine ♪</i>
+
+37
+00:02:09,664 --> 00:02:11,365
+<i>♪ Why do some act
+as if otherwise ♪</i>
+
+38
+00:02:11,398 --> 00:02:13,367
+<i>♪ Why even ask We
+on borrowed time ♪</i>
+
+39
+00:02:13,400 --> 00:02:14,936
+<i>♪ I'm not wasting ticks ♪</i>
+
+40
+00:02:14,969 --> 00:02:16,604
+<i>♪ Stick talk, you gon' listen ♪</i>
+
+41
+00:02:16,638 --> 00:02:18,238
+<i>♪ Brick stock, new edition ♪</i>
+
+42
+00:02:18,271 --> 00:02:20,207
+<i>♪ How it sing when
+it's clipping ♪</i>
+
+43
+00:02:20,240 --> 00:02:22,342
+<i>♪ Every scene that you're
+missing right here ♪</i>
+
+44
+00:02:22,376 --> 00:02:23,845
+<i>♪ Yeah ♪</i>
+
+45
+00:02:23,878 --> 00:02:26,781
+<i>♪ Never leave home
+heavy-handed ♪</i>
+
+46
+00:02:26,814 --> 00:02:30,250
+<i>♪ Never take your
+victories for granted ♪</i>
+
+47
+00:02:30,283 --> 00:02:33,554
+<i>♪ When everything went just
+the way you planned it ♪</i>
+
+48
+00:02:38,526 --> 00:02:41,729
+(people chattering)
+
+49
+00:02:47,267 --> 00:02:48,435
+(bell dinging)
+
+50
+00:02:58,311 --> 00:02:59,580
+(bell dinging)
+
+51
+00:03:01,248 --> 00:03:03,685
+People keep posting
+pictures of her everywhere.
+
+52
+00:03:03,718 --> 00:03:08,656
+- You gonna post?
+- No, it's not like she's gonna see it.
+
+53
+00:03:14,696 --> 00:03:15,863
+Ready?
+
+54
+00:03:15,897 --> 00:03:17,665
+Yeah, as I'll ever be.
+
+55
+00:03:27,041 --> 00:03:30,210
+(people chattering)
+
+56
+00:03:48,462 --> 00:03:49,931
+- What are you doing?
+- Shh! Carrie!
+
+57
+00:03:49,964 --> 00:03:51,498
+- Be quiet.
+- (bell dinging)
+
+58
+00:03:51,532 --> 00:03:53,333
+- Holy shit.
+- What?
+
+59
+00:03:53,366 --> 00:03:55,302
+Tristan.
+
+60
+00:03:56,971 --> 00:03:59,607
+Oh, yeah. I always forget he
+was in our Hebrew School class.
+
+61
+00:03:59,640 --> 00:04:01,042
+He smiled at me.
+
+62
+00:04:01,075 --> 00:04:02,643
+No, he didn't.
+
+63
+00:04:02,677 --> 00:04:03,778
+Look.
+
+64
+00:04:06,981 --> 00:04:08,448
+(sighs)
+
+65
+00:04:08,482 --> 00:04:10,818
+No, that's just his face.
+
+66
+00:04:10,852 --> 00:04:12,385
+He always looks like that.
+
+67
+00:04:12,419 --> 00:04:14,287
+Jealous much?
+
+68
+00:04:14,321 --> 00:04:15,790
+Definitely not.
+
+69
+00:04:19,594 --> 00:04:22,063
+Oh, sorry.
+
+70
+00:04:22,096 --> 00:04:23,598
+Don't be.
+
+71
+00:04:23,631 --> 00:04:26,667
+Okay, cool.
+
+72
+00:04:26,701 --> 00:04:30,303
+You, you look really nice.
+
+73
+00:04:30,337 --> 00:04:32,607
+Um, thanks.
+
+74
+00:04:32,640 --> 00:04:35,810
+You look... I mean you look
+like really, really good.
+
+75
+00:04:35,843 --> 00:04:37,444
+(laughing)
+
+76
+00:04:37,477 --> 00:04:39,013
+- You think so?
+- Yeah.
+
+77
+00:04:39,046 --> 00:04:41,516
+I mean, duh. (laughs)
+
+78
+00:04:41,549 --> 00:04:42,984
+You're, like, really cute.
+
+79
+00:05:11,411 --> 00:05:15,082
+This is some real
+premium stuff, okay.
+
+80
+00:05:15,116 --> 00:05:18,619
+So you can only take a
+little bit of it at a time.
+
+81
+00:05:31,899 --> 00:05:34,035
+I heard it was 20.
+
+82
+00:05:34,068 --> 00:05:35,468
+20 what?
+
+83
+00:05:36,037 --> 00:05:37,572
+20 pills.
+
+84
+00:05:39,140 --> 00:05:42,342
+I ate an Advil once because
+I thought it was a red M&M.
+
+85
+00:05:53,521 --> 00:05:54,522
+Shalom.
+
+86
+00:05:54,555 --> 00:05:56,456
+[Audience] Shalom.
+
+87
+00:05:56,489 --> 00:05:59,359
+From the 23rd chapter
+of the Book of Psalms.
+
+88
+00:06:00,928 --> 00:06:05,900
+<i>♪ Mizmor ledhavidh
+Adonay ro'iy ♪</i>
+
+89
+00:06:05,933 --> 00:06:08,870
+<i>♪ Lo' 'echsar ♪</i>
+
+90
+00:06:08,903 --> 00:06:12,573
+<i>♪ Bin'othdeshe' yarbiytseniy ♪</i>
+
+91
+00:06:12,607 --> 00:06:17,410
+<i>♪ Al-mey menuchoth
+yenahaleniy ♪</i>
+
+92
+00:06:17,444 --> 00:06:20,114
+<i>♪ Naphshiy
+yeshobhebhyancheniy ♪</i>
+
+93
+00:06:20,147 --> 00:06:22,449
+(bell dings)
+
+94
+00:06:26,453 --> 00:06:28,089
+<i>♪ Gam kiy-'elekh ♪</i>
+
+95
+00:06:28,122 --> 00:06:31,192
+<i>♪ Beghey'tsalmaveth
+lo'-'iyra' ♪</i>
+
+96
+00:06:31,225 --> 00:06:36,530
+<i>♪ Ra' kiy-'attah 'immadhiy ♪</i>
+
+97
+00:06:37,565 --> 00:06:39,066
+<i>♪ Shibhthekha ♪</i>
+
+98
+00:06:39,100 --> 00:06:42,503
+<i>♪ Umish'antekhahemmah
+yenachamuniy ♪</i>
+
+99
+00:06:42,536 --> 00:06:44,005
+<i>♪ Ta'arokh lephanay shulchan ♪</i>
+
+100
+00:06:44,038 --> 00:06:46,173
+<i>♪ Neghedh tsoreraydishanta ♪</i>
+
+101
+00:06:46,207 --> 00:06:51,212
+<i>♪ Bhashemen ro'shiy kosiy ♪</i>
+
+102
+00:06:51,245 --> 00:06:53,581
+<i>♪ Revayah ♪</i>
+
+103
+00:06:53,614 --> 00:06:55,082
+<i>♪ 'Akh thobh vachesedh ♪</i>
+
+104
+00:06:55,116 --> 00:06:58,119
+<i>♪ Yirdephuniykol-yemey
+chayyay ♪</i>
+
+105
+00:06:58,152 --> 00:07:01,454
+<i>♪ Veshabhtiy bebheyth-Adonay ♪</i>
+
+106
+00:07:01,488 --> 00:07:05,927
+<i>♪ Le'orekh yamiym ♪</i>
+
+107
+00:07:10,131 --> 00:07:13,768
+From the 121st
+chapter of Psalms.
+
+108
+00:07:13,801 --> 00:07:16,570
+(continues singing in Hebrew)
+
+109
+00:07:22,810 --> 00:07:24,444
+(woman clears throat)
+
+110
+00:07:27,515 --> 00:07:29,183
+Shh!
+
+111
+00:08:25,906 --> 00:08:29,243
+It is now my honor to
+invite Samantha's cousin,
+
+112
+00:08:29,276 --> 00:08:32,113
+Sarah Bronstein,
+for her remarks.
+
+113
+00:08:32,813 --> 00:08:34,015
+Sarah.
+
+114
+00:08:40,788 --> 00:08:45,026
+Hello, everyone. My
+name is Sarah Bronstein.
+
+115
+00:08:45,059 --> 00:08:48,095
+Samantha is... was my cousin.
+
+116
+00:08:48,129 --> 00:08:51,032
+Even though we were less
+than a year apart in age,
+
+117
+00:08:51,065 --> 00:08:54,568
+I've always seen Samantha as
+the big sister I never had.
+
+118
+00:08:54,602 --> 00:08:59,673
+My name is David Gold, and I
+am Samantha's piano teacher.
+
+119
+00:08:59,707 --> 00:09:03,344
+We never know when a tragedy
+will strike our community,
+
+120
+00:09:03,377 --> 00:09:05,846
+but we do know that
+we, as a community,
+
+121
+00:09:05,880 --> 00:09:08,315
+will come together
+after the tragedy.
+
+122
+00:09:08,349 --> 00:09:10,785
+She had this
+connection to horses
+
+123
+00:09:10,818 --> 00:09:12,686
+that I'll never be
+able to understand.
+
+124
+00:09:12,720 --> 00:09:15,322
+And Samantha became
+a brilliant pianist.
+
+125
+00:09:15,356 --> 00:09:19,026
+In her 18 years, she studied
+Torah here at Temple Beth El.
+
+126
+00:09:19,060 --> 00:09:22,730
+And because of her, I can
+ride both Western and English.
+
+127
+00:09:22,763 --> 00:09:24,098
+She was very young.
+
+128
+00:09:24,131 --> 00:09:25,199
+I had the honor
+
+129
+00:09:25,232 --> 00:09:27,168
+of officiating at the service
+
+130
+00:09:27,201 --> 00:09:29,203
+when she became a bat mitzvah.
+
+131
+00:09:29,236 --> 00:09:32,807
+And I give my condolences
+to the family.
+
+132
+00:09:32,840 --> 00:09:35,876
+And I, for one, am going
+to miss her very much.
+
+133
+00:09:36,644 --> 00:09:38,179
+Thank you.
+
+134
+00:09:52,927 --> 00:09:55,996
+I will now recite the
+Kel Moleh Rachamim,
+
+135
+00:09:56,030 --> 00:09:57,865
+the memorial prayer.
+
+136
+00:09:57,898 --> 00:09:59,100
+Would you kindly rise?
+
+137
+00:10:03,003 --> 00:10:06,173
+(singing in Hebrew)
+
+138
+00:10:16,917 --> 00:10:19,720
+(crying)
+
+139
+00:10:54,788 --> 00:10:57,324
+There will be a luncheon in
+the pastoral conference room
+
+140
+00:10:57,358 --> 00:11:00,361
+downstairs where they will
+be collecting donations
+
+141
+00:11:00,394 --> 00:11:04,465
+for Habitat for Horses
+in Samantha's honor.
+
+142
+00:11:04,498 --> 00:11:06,400
+(bell dings)
+
+143
+00:11:09,904 --> 00:11:11,839
+(people chattering)
+
+144
+00:11:44,138 --> 00:11:46,273
+Carrie, Hannah,
+
+145
+00:11:46,307 --> 00:11:49,944
+oh, thank you so
+much for coming.
+
+146
+00:11:49,977 --> 00:11:52,246
+- Of course, Mrs. Goldstein.
+- Yeah, of course.
+
+147
+00:11:52,279 --> 00:11:56,116
+I haven't seen you since you
+all were in that musical.
+
+148
+00:11:56,150 --> 00:11:58,219
+- Do you remember that?
+- Mm-hmm.
+
+149
+00:11:58,252 --> 00:12:00,921
+Oh, listen to me. Of
+course, you remember.
+
+150
+00:12:00,955 --> 00:12:03,324
+Samantha loved musicals.
+
+151
+00:12:03,357 --> 00:12:05,893
+I don't know if a lot
+of people knew that.
+
+152
+00:12:05,926 --> 00:12:09,930
+She would always sing that
+<i>Annie</i> song in the shower.
+
+153
+00:12:09,964 --> 00:12:11,932
+You know, the "Tomorrow" one?
+
+154
+00:12:11,966 --> 00:12:14,268
+- "Tomorrow"?
+- Yes, right.
+
+155
+00:12:14,301 --> 00:12:15,503
+That's it.
+
+156
+00:12:15,537 --> 00:12:18,405
+<i>♪ Tomorrow ♪</i>
+
+157
+00:12:18,439 --> 00:12:20,474
+She had such a good voice.
+
+158
+00:12:20,508 --> 00:12:23,978
+Yeah, I remember we were in
+eighth grade choir together.
+
+159
+00:12:24,011 --> 00:12:26,013
+She was so great.
+
+160
+00:12:26,046 --> 00:12:28,082
+Yeah, she was like
+really, really good.
+
+161
+00:12:28,115 --> 00:12:30,818
+Oh, that's so nice
+of you girls to say.
+
+162
+00:12:30,851 --> 00:12:33,153
+You know, she thought
+the world of you two.
+
+163
+00:12:33,187 --> 00:12:35,022
+Especially you, Hannah.
+
+164
+00:12:35,055 --> 00:12:38,926
+It was so nice seeing pictures
+of you two at that big party.
+
+165
+00:12:38,959 --> 00:12:41,061
+- Totally.
+- You looked so pretty.
+
+166
+00:12:41,095 --> 00:12:42,296
+Thanks.
+
+167
+00:12:42,329 --> 00:12:46,233
+Oh, I should probably
+stop rambling.
+
+168
+00:12:46,267 --> 00:12:48,002
+I know Samantha would
+die of embarrassment
+
+169
+00:12:48,035 --> 00:12:52,039
+if she knew I was
+carrying on like this.
+
+170
+00:12:52,072 --> 00:12:57,244
+- (crying) - I'm so sorry for
+your loss, Mrs. Goldstein.
+
+171
+00:12:57,278 --> 00:12:58,445
+Yeah. So sorry.
+
+172
+00:12:58,479 --> 00:12:59,947
+So, so sorry.
+
+173
+00:12:59,980 --> 00:13:01,048
+Thank you, girls.
+
+174
+00:13:01,081 --> 00:13:03,050
+If you'll excuse me.
+
+175
+00:13:16,598 --> 00:13:19,066
+Uh, what did she mean by that?
+
+176
+00:13:19,099 --> 00:13:20,467
+What?
+
+177
+00:13:20,502 --> 00:13:23,971
+I just didn't know that
+
+178
+00:13:24,004 --> 00:13:26,349
+you and Samantha took a picture
+together at Melissa's party.
+
+179
+00:13:26,373 --> 00:13:28,909
+Oh, I don't know. I
+don't really remember,
+
+180
+00:13:28,942 --> 00:13:31,979
+but I wasn't gonna,
+like, correct her.
+
+181
+00:13:34,616 --> 00:13:37,017
+- But...
+- Ugh, I'm starving.
+
+182
+00:13:37,051 --> 00:13:38,094
+I think I'm gonna have a bagel.
+
+183
+00:13:38,118 --> 00:13:39,353
+Do you want the other half?
+
+184
+00:13:39,386 --> 00:13:41,422
+No, I'm not really hungry.
+
+185
+00:13:42,356 --> 00:13:44,158
+Hmm, your loss.
+
+186
+00:13:44,191 --> 00:13:46,293
+(laughter)
+
+187
+00:13:48,530 --> 00:13:50,864
+Can you believe that?
+
+188
+00:13:50,898 --> 00:13:53,167
+It's so sad.
+
+189
+00:13:53,200 --> 00:13:56,170
+Don't they know that Tristan
+would never go for any of them.
+
+190
+00:13:56,203 --> 00:13:58,272
+Bad bone structure.
+
+191
+00:14:02,544 --> 00:14:04,878
+- This is so messed up.
+- Oh, totally.
+
+192
+00:14:04,912 --> 00:14:06,590
+It's, like, Elaina's
+pretty and everything,
+
+193
+00:14:06,614 --> 00:14:09,083
+but she's not,
+like, a real person.
+
+194
+00:14:11,586 --> 00:14:13,621
+I'm gonna go get a cup of water.
+
+195
+00:14:14,955 --> 00:14:16,490
+Could you get me some?
+
+196
+00:14:16,524 --> 00:14:18,359
+(chatter continues)
+
+197
+00:14:34,942 --> 00:14:37,911
+(chatter is muffled)
+
+198
+00:14:39,113 --> 00:14:41,248
+(chatter resumes)
+
+199
+00:14:51,693 --> 00:14:53,427
+- Here.
+- Thanks.
+
+200
+00:15:07,107 --> 00:15:09,376
+- Oh, my God, are you crying?
+- What? No.
+
+201
+00:15:09,410 --> 00:15:11,979
+- Your eyes are red.
+- Yeah, because of, like,
+
+202
+00:15:12,012 --> 00:15:14,516
+air pollution or whatever.
+
+203
+00:15:14,549 --> 00:15:16,584
+Stop being... weird.
+
+204
+00:15:24,258 --> 00:15:26,226
+Do you think Tristan
+owns that suit?
+
+205
+00:15:26,260 --> 00:15:28,295
+I don't know.
+
+206
+00:15:29,496 --> 00:15:31,398
+It just looks so good on him.
+
+207
+00:15:31,432 --> 00:15:33,701
+Like, he looks
+really, really good.
+
+208
+00:15:33,735 --> 00:15:35,202
+Yeah.
+
+209
+00:15:35,235 --> 00:15:37,605
+He got hotter, right?
+
+210
+00:15:37,639 --> 00:15:38,740
+I guess?
+
+211
+00:15:38,773 --> 00:15:40,941
+You guess?
+
+212
+00:15:41,676 --> 00:15:43,645
+I just don't think
+
+213
+00:15:43,678 --> 00:15:45,979
+we should be talking
+about this right now.
+
+214
+00:15:46,013 --> 00:15:47,281
+Why?
+
+215
+00:15:47,314 --> 00:15:50,050
+Because we're at
+a funeral service.
+
+216
+00:15:50,083 --> 00:15:52,052
+You didn't even
+know her that well.
+
+217
+00:15:52,085 --> 00:15:55,456
+She was in, like,
+my AP Psych class.
+
+218
+00:15:58,058 --> 00:15:59,393
+She was nice.
+
+219
+00:15:59,426 --> 00:16:02,095
+We worked on a group
+project together.
+
+220
+00:16:02,129 --> 00:16:04,031
+Didn't you say you had
+to do all the work?
+
+221
+00:16:04,064 --> 00:16:06,142
+Yeah, no one ever does the
+work in, like, a group project.
+
+222
+00:16:06,166 --> 00:16:08,101
+I remember you being,
+like, really mad
+
+223
+00:16:08,135 --> 00:16:09,547
+because she said she would help
+you with the presentation part
+
+224
+00:16:09,571 --> 00:16:11,405
+and then she, like,
+totally ghosted you.
+
+225
+00:16:11,438 --> 00:16:13,149
+I mean, she clearly had
+other things on her mind.
+
+226
+00:16:13,173 --> 00:16:15,375
+It doesn't matter, just...
+
+227
+00:16:15,409 --> 00:16:17,010
+I just don't think
+we should be talking
+
+228
+00:16:17,044 --> 00:16:19,681
+about Tristan's suit
+right now, okay?
+
+229
+00:16:26,588 --> 00:16:29,156
+Are you sure you
+don't want a bite?
+
+230
+00:16:29,189 --> 00:16:31,191
+Yeah.
+
+231
+00:16:31,225 --> 00:16:34,261
+Ugh, fine. I gotta pee.
+
+232
+00:16:40,802 --> 00:16:43,470
+(toilet flushes)
+
+233
+00:16:45,405 --> 00:16:47,074
+What took you so long?
+
+234
+00:16:47,107 --> 00:16:48,375
+You know I pee slow.
+
+235
+00:16:48,408 --> 00:16:50,344
+That's why I had
+to quit swim team.
+
+236
+00:16:50,377 --> 00:16:53,380
+You quit swim team
+because you hated running.
+
+237
+00:16:53,413 --> 00:16:56,250
+Well, why should I have
+to run for swim practice?
+
+238
+00:16:56,283 --> 00:16:59,253
+That's unfair and stupid.
+
+239
+00:17:01,556 --> 00:17:04,792
+Ugh, I'm so bored.
+
+240
+00:17:07,194 --> 00:17:10,430
+I mean, today has
+been, like, so, so sad,
+
+241
+00:17:10,464 --> 00:17:12,165
+but now I just want to go home.
+
+242
+00:17:12,199 --> 00:17:14,636
+I don't want to go to the
+stupid Teen Talk Back.
+
+243
+00:17:14,669 --> 00:17:16,303
+Those things are always so dumb.
+
+244
+00:17:16,336 --> 00:17:18,272
+I don't know. I feel
+like the best part of USY
+
+245
+00:17:18,305 --> 00:17:21,341
+was always the
+intellectual debates.
+
+246
+00:17:21,375 --> 00:17:23,778
+(laughs) Or that was
+probably hard for you
+
+247
+00:17:23,811 --> 00:17:26,113
+with someone's tongue down
+your throat the whole time.
+
+248
+00:17:26,146 --> 00:17:28,248
+I found that pretty
+stimulating actually.
+
+249
+00:17:28,282 --> 00:17:30,752
+- (laughs)
+- You're so gross.
+
+250
+00:17:30,785 --> 00:17:33,420
+Okay. At least I didn't
+have Ben Schwartz's hands
+
+251
+00:17:33,453 --> 00:17:34,789
+down my pants like somebody.
+
+252
+00:17:34,822 --> 00:17:36,824
+Yeah, you had Ben Feldman's.
+
+253
+00:17:36,858 --> 00:17:41,128
+True. At least him
+stabbing me in the vagina
+
+254
+00:17:41,161 --> 00:17:44,699
+with his boiled fingers
+was more fun than today.
+
+255
+00:17:44,732 --> 00:17:47,802
+He was, like, trying to get
+a peanut out of a tiny bag.
+
+256
+00:17:49,403 --> 00:17:51,471
+I want to hook up with
+someone who's experienced
+
+257
+00:17:51,506 --> 00:17:53,106
+like me, you know?
+
+258
+00:17:53,140 --> 00:17:55,175
+You've hooked up with,
+like, three guys.
+
+259
+00:17:55,208 --> 00:17:56,448
+Okay, you've hooked up with one
+
+260
+00:17:56,476 --> 00:17:57,879
+and you kept your jeans on.
+
+261
+00:17:57,912 --> 00:17:59,681
+What? I'm just saying,
+
+262
+00:17:59,714 --> 00:18:01,348
+if this was a
+competition, I would win.
+
+263
+00:18:01,381 --> 00:18:03,551
+Yeah, I'm sure you would.
+
+264
+00:18:04,719 --> 00:18:06,219
+Okay.
+
+265
+00:18:15,830 --> 00:18:17,732
+Do you think I'm pretty?
+
+266
+00:18:18,833 --> 00:18:20,668
+Don't be stupid.
+
+267
+00:18:20,702 --> 00:18:22,235
+I think I'm like okay-looking.
+
+268
+00:18:22,269 --> 00:18:24,806
+I'm not classically
+beautiful or whatever.
+
+269
+00:18:25,807 --> 00:18:27,909
+My nose is weird.
+
+270
+00:18:27,942 --> 00:18:31,244
+Stop it, you're pretty.
+
+271
+00:18:32,279 --> 00:18:34,247
+Would you ever kill yourself?
+
+272
+00:18:34,949 --> 00:18:37,284
+No, I don't think so.
+
+273
+00:18:37,317 --> 00:18:38,853
+Neither would I.
+
+274
+00:18:38,886 --> 00:18:40,220
+But if I did, which I wouldn't,
+
+275
+00:18:40,253 --> 00:18:42,222
+I'd do what Samantha did.
+
+276
+00:18:42,255 --> 00:18:44,592
+Pills are so easy.
+
+277
+00:18:44,626 --> 00:18:45,869
+I guess you could hang yourself,
+
+278
+00:18:45,893 --> 00:18:48,563
+but that'd be kind of hard.
+
+279
+00:18:48,596 --> 00:18:50,440
+Slitting your wrists in
+the bathtub could be cool
+
+280
+00:18:50,464 --> 00:18:53,433
+but it's so emo middle
+school, you know?
+
+281
+00:18:53,467 --> 00:18:54,669
+Ugh.
+
+282
+00:18:55,402 --> 00:18:56,638
+Shit.
+
+283
+00:19:00,875 --> 00:19:03,143
+Do you have concealer?
+
+284
+00:19:04,812 --> 00:19:06,581
+Concealer?
+
+285
+00:19:06,614 --> 00:19:07,815
+Do you have some?
+
+286
+00:19:07,849 --> 00:19:09,717
+Like, in your purse?
+
+287
+00:19:12,920 --> 00:19:14,889
+For me, yes.
+
+288
+00:19:14,922 --> 00:19:17,157
+For, you, no.
+
+289
+00:19:20,962 --> 00:19:22,462
+Whatever.
+
+290
+00:19:22,496 --> 00:19:24,498
+You can hardly see it anyway.
+
+291
+00:19:27,935 --> 00:19:30,404
+Do you think Tristan's
+a good kisser?
+
+292
+00:19:30,905 --> 00:19:32,540
+No clue.
+
+293
+00:19:32,573 --> 00:19:34,976
+Rachel Feinstein says
+he's, like, really good,
+
+294
+00:19:35,009 --> 00:19:36,644
+but she's a pathological liar.
+
+295
+00:19:36,678 --> 00:19:38,780
+So, who knows if
+that's even true.
+
+296
+00:19:40,581 --> 00:19:42,583
+Wait, didn't
+Tristan and Samantha
+
+297
+00:19:42,617 --> 00:19:44,284
+used to hook up?
+
+298
+00:19:44,317 --> 00:19:46,420
+Oh, yeah, I heard about that.
+
+299
+00:19:46,453 --> 00:19:48,990
+But then he took Lauren
+Silverstein to homecoming.
+
+300
+00:19:49,023 --> 00:19:52,225
+I remember seeing them
+kiss during the slow dance.
+
+301
+00:19:52,259 --> 00:19:54,529
+So tragic. (laughing)
+
+302
+00:20:00,702 --> 00:20:03,705
+I wonder if I'm a good kisser.
+
+303
+00:20:03,738 --> 00:20:08,009
+I thought you were
+"so experienced".
+
+304
+00:20:08,042 --> 00:20:11,846
+Well, I never,
+like, dated anybody.
+
+305
+00:20:11,879 --> 00:20:13,548
+So?
+
+306
+00:20:13,581 --> 00:20:17,317
+So, I haven't exactly had
+any returning customers.
+
+307
+00:20:38,973 --> 00:20:42,777
+What? Why are you looking
+at me like that? Stop!
+
+308
+00:20:43,878 --> 00:20:45,913
+- Kiss me.
+- What? No.
+
+309
+00:20:45,947 --> 00:20:47,515
+- Do it.
+- No.
+
+310
+00:20:47,548 --> 00:20:48,926
+Please, I need to
+know if I'm, like,
+
+311
+00:20:48,950 --> 00:20:50,785
+the worst kisser in the world.
+
+312
+00:20:50,818 --> 00:20:53,020
+Okay, I can tell you right
+now, you're probably not
+
+313
+00:20:53,054 --> 00:20:54,822
+the worst kisser in the world.
+
+314
+00:20:54,856 --> 00:20:58,425
+Just pretend I'm like Zack
+Horowitz or something.
+
+315
+00:20:58,458 --> 00:20:59,994
+Zack Horowitz has back hair.
+
+316
+00:21:00,027 --> 00:21:03,330
+Okay, fine, pretend
+I'm someone else.
+
+317
+00:21:03,363 --> 00:21:06,934
+- Pretend I'm Mr. Danielson.
+- Stop.
+
+318
+00:21:06,968 --> 00:21:10,470
+I know you think he's so hot
+when he pours those beakers.
+
+319
+00:21:10,505 --> 00:21:13,373
+"Oh, Mr. D, will
+you come over here
+
+320
+00:21:13,406 --> 00:21:14,842
+and help me with something?
+
+321
+00:21:14,876 --> 00:21:16,844
+Oops, I dropped a beaker.
+
+322
+00:21:16,878 --> 00:21:18,411
+I know that's a safety hazard."
+
+323
+00:21:18,445 --> 00:21:20,982
+I don't want to
+kiss Mr. Danielson.
+
+324
+00:21:21,015 --> 00:21:22,817
+- Then kiss me.
+- No!
+
+325
+00:21:22,850 --> 00:21:23,885
+Come on, just do it.
+
+326
+00:21:23,918 --> 00:21:25,987
+It'll be like a second.
+
+327
+00:21:29,123 --> 00:21:30,591
+Fine.
+
+328
+00:21:33,628 --> 00:21:35,395
+- That doesn't count.
+- Yes, it does!
+
+329
+00:21:35,428 --> 00:21:37,965
+You asked me to kiss
+you, so I kissed you.
+
+330
+00:21:37,999 --> 00:21:41,035
+Okay, there's no way you
+determined anything from that.
+
+331
+00:21:44,404 --> 00:21:45,706
+Okay, fine.
+
+332
+00:21:45,740 --> 00:21:47,809
+All right, well, I
+guess I'll never know
+
+333
+00:21:47,842 --> 00:21:49,777
+if I'm a good kisser or not.
+
+334
+00:21:49,811 --> 00:21:51,555
+And then one day, I'll kiss
+someone and they'll be like,
+
+335
+00:21:51,579 --> 00:21:53,948
+"That was awful."
+And I'll die of shame
+
+336
+00:21:53,981 --> 00:21:56,050
+because my best friend was too-
+
+337
+00:22:03,090 --> 00:22:05,358
+(ethereal music)
+
+338
+00:22:20,842 --> 00:22:22,109
+[Hannah] How's that?
+
+339
+00:22:25,847 --> 00:22:27,048
+Bad?
+
+340
+00:22:30,450 --> 00:22:31,586
+Okay.
+
+341
+00:22:32,419 --> 00:22:33,621
+Cool.
+
+342
+00:22:35,056 --> 00:22:37,024
+- Good.
+- (both laughing)
+
+343
+00:22:37,725 --> 00:22:39,060
+Cool.
+
+344
+00:22:39,861 --> 00:22:41,128
+Thanks.
+
+345
+00:22:42,096 --> 00:22:43,798
+Yeah, totally.
+
+346
+00:22:47,068 --> 00:22:50,605
+Ladies, what did I tell
+you about being in here?
+
+347
+00:22:50,638 --> 00:22:52,506
+- Sorry, Moreh Klein.
+- We were just leaving.
+
+348
+00:22:52,540 --> 00:22:55,643
+Good. See you in my classroom
+in five minutes, correct?
+
+349
+00:22:55,676 --> 00:22:57,044
+- Yep!
+- Mm-hmm.
+
+350
+00:22:57,078 --> 00:23:00,147
+(door opens, then closes)
+
+351
+00:23:02,617 --> 00:23:05,052
+Ugh, I can't believe she's
+the one running the talkback.
+
+352
+00:23:05,086 --> 00:23:07,088
+It's like Hebrew
+School, but worse.
+
+353
+00:23:07,121 --> 00:23:10,024
+Yeah, I think her real job
+is in grief counseling.
+
+354
+00:23:10,057 --> 00:23:11,959
+Truly the last
+person on the planet
+
+355
+00:23:11,993 --> 00:23:13,426
+I'd want to counsel my grief.
+
+356
+00:23:13,460 --> 00:23:14,896
+(both laugh)
+
+357
+00:23:14,929 --> 00:23:16,206
+All right, we
+should probably go.
+
+358
+00:23:16,230 --> 00:23:18,566
+Yeah, yeah, um...
+
+359
+00:23:18,599 --> 00:23:20,601
+I just need to grab my...
+
+360
+00:23:20,635 --> 00:23:22,435
+- Oh, sorry.
+- Sorry.
+
+361
+00:23:26,574 --> 00:23:28,509
+Carrie, Carrie, Carrie.
+
+362
+00:23:29,476 --> 00:23:31,444
+Kill me. (laughing)
+
+363
+00:23:32,580 --> 00:23:33,848
+Ugh.
+
+364
+00:23:37,051 --> 00:23:39,820
+- Did you see it?
+- Did you see it?
+
+365
+00:23:39,854 --> 00:23:41,622
+- Did you see it?
+- You didn't see it?
+
+366
+00:23:41,656 --> 00:23:42,723
+You didn't see it.
+
+367
+00:23:42,757 --> 00:23:44,191
+You have to look with your eyes.
+
+368
+00:23:44,225 --> 00:23:45,593
+You've got two of them.
+
+369
+00:23:45,626 --> 00:23:47,460
+I'm gonna play it one more time.
+
+370
+00:23:53,935 --> 00:23:57,171
+Look who's crying again.
+
+371
+00:23:57,204 --> 00:24:00,942
+- (girl speaking in Hebrew)
+- (both laughing)
+
+372
+00:24:02,643 --> 00:24:04,912
+Why do they do that?
+
+373
+00:24:04,946 --> 00:24:06,747
+Because they can.
+
+374
+00:24:08,950 --> 00:24:10,818
+Everyone.
+
+375
+00:24:10,851 --> 00:24:12,452
+Please settle down.
+
+376
+00:24:19,093 --> 00:24:21,829
+(footsteps)
+
+377
+00:24:30,771 --> 00:24:31,906
+Shalom.
+
+378
+00:24:31,939 --> 00:24:33,641
+[Class] Shalom.
+
+379
+00:24:35,042 --> 00:24:36,610
+Today is a terrible day.
+
+380
+00:24:36,644 --> 00:24:38,546
+(girl crying)
+
+381
+00:24:39,814 --> 00:24:42,616
+But we have this
+time now to process
+
+382
+00:24:42,650 --> 00:24:46,187
+what the Jewish tradition
+teaches us about death,
+
+383
+00:24:46,220 --> 00:24:49,657
+so we can grieve and
+be stronger together.
+
+384
+00:24:50,992 --> 00:24:52,760
+I know this is difficult.
+
+385
+00:24:52,793 --> 00:24:56,697
+I was in a similar situation
+when I was your age.
+
+386
+00:24:56,731 --> 00:25:00,735
+At that time, I was
+fighting for Israel.
+
+387
+00:25:00,768 --> 00:25:03,137
+Back then, I saw death
+around every corner.
+
+388
+00:25:03,170 --> 00:25:06,207
+I was haunted like a phantom.
+
+389
+00:25:06,240 --> 00:25:08,009
+When I slept, I dreamt it.
+
+390
+00:25:08,042 --> 00:25:09,744
+When I woke, I saw it.
+
+391
+00:25:10,778 --> 00:25:12,947
+And to see someone so young
+
+392
+00:25:12,980 --> 00:25:17,651
+choose to leave this
+world of the living,
+
+393
+00:25:17,685 --> 00:25:21,288
+well, I cannot explain it
+and I cannot justify it,
+
+394
+00:25:21,322 --> 00:25:25,960
+but, as the Talmud tells us,
+we must try to understand.
+
+395
+00:25:28,796 --> 00:25:30,264
+Now,
+
+396
+00:25:32,099 --> 00:25:34,535
+please take these handouts.
+
+397
+00:26:00,628 --> 00:26:04,365
+Who would've thought they'd
+have handouts for this?
+
+398
+00:26:04,398 --> 00:26:06,267
+This is better
+than the workbooks
+
+399
+00:26:06,300 --> 00:26:09,737
+with the mice on them.
+Do you remember those?
+
+400
+00:26:09,770 --> 00:26:12,106
+(girl crying)
+
+401
+00:26:12,139 --> 00:26:14,008
+Okay, I guess not.
+
+402
+00:26:14,041 --> 00:26:16,143
+[Moreh] Does everyone have one?
+
+403
+00:26:16,177 --> 00:26:17,678
+Good.
+
+404
+00:26:17,711 --> 00:26:19,847
+Now, who would
+like to read aloud?
+
+405
+00:26:20,648 --> 00:26:22,616
+Hmm, Hila.
+
+406
+00:26:25,386 --> 00:26:27,321
+"Death is something
+that happens to people
+
+407
+00:26:27,354 --> 00:26:30,057
+of all religions, but
+in the Jewish faith,
+
+408
+00:26:30,091 --> 00:26:31,992
+there are particular
+rituals that must be done
+
+409
+00:26:32,026 --> 00:26:35,229
+when someone passes away."
+
+410
+00:26:35,262 --> 00:26:36,964
+[Moreh] Rachel Feinstein,
+
+411
+00:26:36,997 --> 00:26:39,400
+please help your
+friend Rachel Grossman.
+
+412
+00:26:39,433 --> 00:26:41,635
+Excuse yourselves if you must.
+
+413
+00:26:41,669 --> 00:26:43,704
+- [Elaina] Should I keep going?
+- [Moreh] Um...
+
+414
+00:26:43,737 --> 00:26:45,973
+Would anyone else care to read?
+
+415
+00:26:46,006 --> 00:26:49,243
+Let's have a little
+fun, shall we?
+
+416
+00:26:49,276 --> 00:26:53,280
+Um, Yitzhaka, please, continue.
+
+417
+00:26:55,816 --> 00:26:57,318
+"There are many
+Jewish traditions
+
+418
+00:26:57,351 --> 00:26:59,186
+associated with death.
+
+419
+00:27:00,955 --> 00:27:02,756
+Some come right from the Torah,
+
+420
+00:27:02,790 --> 00:27:04,692
+while others were
+developed in Eastern Europe
+
+421
+00:27:04,725 --> 00:27:06,927
+throughout the 19th century,"
+
+422
+00:27:06,961 --> 00:27:08,429
+[Moreh] Yes, Hila.
+
+423
+00:27:08,462 --> 00:27:11,031
+Moreh Klein, what do you
+think the great rabbis
+
+424
+00:27:11,065 --> 00:27:14,802
+would specifically say
+about this situation?
+
+425
+00:27:14,835 --> 00:27:17,671
+Interesting question, Hila.
+
+426
+00:27:17,705 --> 00:27:20,374
+I think the great rabbis tell us
+
+427
+00:27:20,407 --> 00:27:21,942
+that in order to
+understand death,
+
+428
+00:27:21,976 --> 00:27:24,912
+we must have insightful
+conversations.
+
+429
+00:27:24,945 --> 00:27:29,683
+We can't express grief with
+standard, shallow platitudes.
+
+430
+00:27:29,717 --> 00:27:31,152
+Like what we're
+doing here today.
+
+431
+00:27:31,185 --> 00:27:33,854
+- For Samantha.
+- Exactly, Miera.
+
+432
+00:27:34,955 --> 00:27:35,856
+(Hannah snorts)
+
+433
+00:27:35,890 --> 00:27:36,790
+What was that?
+
+434
+00:27:36,824 --> 00:27:38,392
+A cough.
+
+435
+00:27:38,425 --> 00:27:41,962
+[Moreh] Did you have
+something to add, Yitzhaka?
+
+436
+00:27:41,996 --> 00:27:45,032
+[Hannah] Um, uh, yeah.
+
+437
+00:27:46,133 --> 00:27:47,368
+I was wondering
+
+438
+00:27:47,401 --> 00:27:49,336
+if I should keep reading.
+
+439
+00:27:49,370 --> 00:27:52,006
+I see.
+
+440
+00:27:52,039 --> 00:27:54,708
+Would anyone else cared to read?
+
+441
+00:27:54,742 --> 00:27:58,012
+- Yes, Miera.
+- Miera?
+
+442
+00:27:58,045 --> 00:28:00,447
+"Some of these traditions
+include preparing the body
+
+443
+00:28:00,481 --> 00:28:03,784
+by cleansing it and the ritual
+act of purification Tahara,
+
+444
+00:28:03,817 --> 00:28:06,053
+in which the funeral
+director or, alternatively,
+
+445
+00:28:06,086 --> 00:28:09,823
+a holy society, the <i>chevra
+kadisha</i> cleanses the body."
+
+446
+00:28:09,857 --> 00:28:11,768
+In Samantha's case, her body
+would have only been handled
+
+447
+00:28:11,792 --> 00:28:14,461
+by women to make sure
+it stayed totally pure.
+
+448
+00:28:14,495 --> 00:28:16,964
+I bet Samantha
+would've liked that.
+
+449
+00:28:16,997 --> 00:28:19,967
+(Rachel sobbing)
+
+450
+00:28:22,836 --> 00:28:25,472
+[Moreh] Now, can anyone
+tell me the significance
+
+451
+00:28:25,507 --> 00:28:27,141
+of these rituals?
+
+452
+00:28:30,277 --> 00:28:33,147
+Come on, I don't want Miera
+and Hila to do all the talking.
+
+453
+00:28:33,180 --> 00:28:35,149
+One of you young
+scholars must understand
+
+454
+00:28:35,182 --> 00:28:38,219
+why it's important that the
+body be pure before burial?
+
+455
+00:28:42,122 --> 00:28:44,024
+Fine, Miera.
+
+456
+00:28:45,459 --> 00:28:48,262
+It's supposed to erase your
+social status in death.
+
+457
+00:28:48,295 --> 00:28:50,831
+Correct. The only relationship
+that matters in the end
+
+458
+00:28:50,864 --> 00:28:55,035
+is the one you have
+with Hashem. Yes, Hila?
+
+459
+00:28:55,069 --> 00:28:56,937
+Um, yeah, just
+piggybacking off of that,
+
+460
+00:28:56,971 --> 00:28:58,872
+I wanted to say
+how important it is
+
+461
+00:28:58,906 --> 00:29:01,108
+because it shows no
+matter how bad things are,
+
+462
+00:29:01,141 --> 00:29:02,276
+like, if you're dead,
+
+463
+00:29:02,309 --> 00:29:04,011
+we always have our faith.
+
+464
+00:29:04,044 --> 00:29:07,781
+But we have it when
+we're alive too.
+
+465
+00:29:07,815 --> 00:29:10,552
+[Moreh] Does anyone else want
+to add to this discussion?
+
+466
+00:29:10,585 --> 00:29:12,253
+Stop.
+
+467
+00:29:18,092 --> 00:29:19,059
+Oh, my God, Hannah!
+
+468
+00:29:19,093 --> 00:29:20,394
+[Moreh] Yitzhaka?
+
+469
+00:29:20,427 --> 00:29:21,996
+Are you all right?
+
+470
+00:29:23,364 --> 00:29:26,133
+Um... yeah, I just,
+
+471
+00:29:26,166 --> 00:29:28,202
+I didn't have that
+much for breakfast.
+
+472
+00:29:28,235 --> 00:29:29,870
+It was my fault, sorry.
+
+473
+00:29:29,903 --> 00:29:32,406
+[Moreh] Uh, maybe
+it's time for a break.
+
+474
+00:29:34,975 --> 00:29:37,978
+Yitzhaka, please make
+sure you drink some water
+
+475
+00:29:38,012 --> 00:29:39,446
+and get something to eat.
+
+476
+00:29:39,480 --> 00:29:42,383
+We don't need to add to
+today's tragedy, understood?
+
+477
+00:29:42,416 --> 00:29:43,518
+I'll take care of her.
+
+478
+00:29:43,551 --> 00:29:45,252
+Thank you, Hava.
+
+479
+00:29:46,320 --> 00:29:47,821
+Hey, are you okay?
+
+480
+00:29:47,855 --> 00:29:49,223
+Totally, I just,
+I lost my balance.
+
+481
+00:29:49,256 --> 00:29:50,558
+That's all.
+
+482
+00:29:54,895 --> 00:29:58,065
+God, I can't believe I did
+that, that's so embarrassing.
+
+483
+00:30:06,974 --> 00:30:09,910
+(waves crashing)
+
+484
+00:30:13,280 --> 00:30:14,549
+[Natalie] I don't know, man.
+
+485
+00:30:14,582 --> 00:30:16,250
+That could totally
+be Photoshopped.
+
+486
+00:30:16,283 --> 00:30:19,119
+No way somebody made
+that on Photoshop.
+
+487
+00:30:19,153 --> 00:30:21,922
+What about the whole, like,
+you know, satellite thing?
+
+488
+00:30:21,955 --> 00:30:24,258
+Well, I mean, according to
+the video, this satellite...
+
+489
+00:30:24,291 --> 00:30:25,926
+- Shut up!
+- You shut up.
+
+490
+00:30:25,959 --> 00:30:27,529
+Why do we never see
+the boats go lower?
+
+491
+00:30:27,562 --> 00:30:30,364
+I wonder if prom's even
+still gonna happen?
+
+492
+00:30:30,397 --> 00:30:33,434
+Of course it is. They wouldn't
+cancel prom over one person.
+
+493
+00:30:33,467 --> 00:30:36,003
+If anything, they should move
+it up so we have a distraction.
+
+494
+00:30:36,036 --> 00:30:37,539
+Or, like, make it a memorial.
+
+495
+00:30:37,572 --> 00:30:40,341
+- That's a really good idea.
+- Thanks.
+
+496
+00:30:40,374 --> 00:30:42,409
+I just said prom should
+be a distraction.
+
+497
+00:30:42,443 --> 00:30:43,578
+Oh, right.
+
+498
+00:30:45,913 --> 00:30:47,582
+I just can't believe
+she won't be there.
+
+499
+00:30:47,615 --> 00:30:49,216
+Me too.
+
+500
+00:30:49,249 --> 00:30:51,251
+Were you guys close?
+
+501
+00:30:52,453 --> 00:30:54,154
+That's too bad.
+
+502
+00:31:05,232 --> 00:31:06,634
+Hey. (laughs)
+
+503
+00:31:06,668 --> 00:31:09,269
+I can't watch this
+fake pity party.
+
+504
+00:31:09,303 --> 00:31:11,506
+Yeah, yeah, me neither.
+
+505
+00:31:12,473 --> 00:31:14,007
+You wanna...
+
+506
+00:31:15,242 --> 00:31:17,211
+- What?
+- You know...
+
+507
+00:31:18,178 --> 00:31:19,980
+could go to the bathroom and...
+
+508
+00:31:20,013 --> 00:31:22,550
+I mean, people are probably
+gonna be crying in there
+
+509
+00:31:22,584 --> 00:31:24,918
+or worse, talking about me.
+
+510
+00:31:24,952 --> 00:31:27,154
+Yeah, probably.
+
+511
+00:31:27,187 --> 00:31:28,623
+Um...
+
+512
+00:31:28,656 --> 00:31:31,091
+but we can check and
+see if it's empty,
+
+513
+00:31:31,125 --> 00:31:34,128
+- and if it's empty, we can...
+- What are you talking about?
+
+514
+00:31:34,161 --> 00:31:36,130
+If you have to go
+to the bathroom, go.
+
+515
+00:31:37,097 --> 00:31:38,399
+Uh, yeah, yeah.
+
+516
+00:31:38,432 --> 00:31:40,934
+I don't have to go
+to the bathroom.
+
+517
+00:31:40,968 --> 00:31:43,137
+Okay, then what?
+
+518
+00:31:43,170 --> 00:31:45,339
+Nothing, nothing.
+
+519
+00:31:45,372 --> 00:31:46,907
+Never mind.
+
+520
+00:31:48,643 --> 00:31:51,145
+- Have you seen Tristan?
+- No.
+
+521
+00:31:52,179 --> 00:31:53,447
+I wonder if he went outside.
+
+522
+00:31:53,480 --> 00:31:55,550
+That'd be so like
+him. (laughing)
+
+523
+00:31:55,583 --> 00:31:57,351
+It's like 20 degrees out.
+
+524
+00:31:57,384 --> 00:31:59,420
+I know, he's so random.
+
+525
+00:31:59,453 --> 00:32:02,156
+I wonder if I should say
+something to him so he, like,
+
+526
+00:32:02,189 --> 00:32:04,526
+- knows that I'm here.
+- I'm sure he knows you're here.
+
+527
+00:32:04,559 --> 00:32:08,195
+I don't know. I feel like I
+haven't been very, like, visible.
+
+528
+00:32:08,228 --> 00:32:10,197
+You fell out of your chair,
+like, two seconds ago.
+
+529
+00:32:10,230 --> 00:32:12,734
+Yeah, that's not the kind
+of visibility that I want.
+
+530
+00:32:12,767 --> 00:32:14,968
+Plus, I don't think he noticed.
+
+531
+00:32:15,002 --> 00:32:17,572
+He definitely saw.
+
+532
+00:32:17,605 --> 00:32:19,416
+I thought you were gonna
+get, like, a concussion.
+
+533
+00:32:19,440 --> 00:32:22,276
+Ugh, yeah.
+
+534
+00:32:22,309 --> 00:32:24,211
+So embarrassing.
+
+535
+00:32:25,078 --> 00:32:26,213
+Whatever.
+
+536
+00:32:26,246 --> 00:32:27,381
+I just want him to see me
+
+537
+00:32:27,414 --> 00:32:29,483
+how I want him to.
+
+538
+00:32:29,517 --> 00:32:32,352
+- You know how it is.
+- Not really.
+
+539
+00:32:32,386 --> 00:32:35,055
+Like, I want him to
+see me doing hot stuff.
+
+540
+00:32:35,088 --> 00:32:36,323
+Like what?
+
+541
+00:32:38,025 --> 00:32:40,662
+Do you know where we
+could get a Popsicle?
+
+542
+00:32:40,695 --> 00:32:41,696
+(uncomfortable chuckle)
+
+543
+00:32:41,729 --> 00:32:43,297
+Kidding. (laughs)
+
+544
+00:32:43,330 --> 00:32:45,265
+We'll find something else.
+
+545
+00:32:47,367 --> 00:32:50,170
+Or, like,
+
+546
+00:32:50,204 --> 00:32:53,474
+maybe we could practice more.
+
+547
+00:32:55,777 --> 00:32:57,144
+You know, you said
+you wanted to be
+
+548
+00:32:57,177 --> 00:32:59,213
+like a really great kisser.
+
+549
+00:32:59,246 --> 00:33:01,783
+Yeah, and now I know that I am.
+
+550
+00:33:01,816 --> 00:33:03,317
+I want him to, like, want me.
+
+551
+00:33:03,350 --> 00:33:05,352
+Like, how do I get
+somebody to want me?
+
+552
+00:33:05,385 --> 00:33:07,689
+I don't know. I'm sure
+you'll figure it out.
+
+553
+00:33:07,722 --> 00:33:11,225
+Is it, like, my hair? I was
+gonna straighten it this morning,
+
+554
+00:33:11,258 --> 00:33:15,262
+but I didn't have enough time and now
+it's gonna mess everything up for me.
+
+555
+00:33:15,295 --> 00:33:17,397
+Where are you going?
+
+556
+00:33:18,666 --> 00:33:20,100
+God.
+
+557
+00:33:20,535 --> 00:33:22,604
+(crying)
+
+558
+00:33:28,643 --> 00:33:30,477
+(door opens)
+
+559
+00:33:33,080 --> 00:33:35,315
+- (door closes)
+- Hi.
+
+560
+00:33:36,383 --> 00:33:37,652
+[Elaina] Hey.
+
+561
+00:33:49,597 --> 00:33:51,131
+Do you vape?
+
+562
+00:33:58,338 --> 00:34:02,610
+I, uh, don't think we're
+allowed to smoke in here.
+
+563
+00:34:03,410 --> 00:34:06,548
+It's not smoke.
+
+564
+00:34:06,581 --> 00:34:08,850
+It's cucumber, it's
+easily the best flavor,
+
+565
+00:34:08,883 --> 00:34:10,284
+but they don't make it any more
+
+566
+00:34:10,317 --> 00:34:12,252
+so my brother has
+to buy it on eBay.
+
+567
+00:34:20,895 --> 00:34:23,497
+(coughing)
+
+568
+00:34:26,166 --> 00:34:28,302
+Mango's good too though.
+
+569
+00:34:38,412 --> 00:34:40,247
+I don't want to sit in here.
+
+570
+00:34:44,852 --> 00:34:46,754
+What are you so scared of?
+
+571
+00:34:49,256 --> 00:34:50,490
+Nothing.
+
+572
+00:34:51,191 --> 00:34:52,627
+Damn.
+
+573
+00:34:52,660 --> 00:34:54,796
+I'm bored.
+
+574
+00:34:54,829 --> 00:34:58,131
+Why don't you break me off a
+little piece of that brownie?
+
+575
+00:35:06,608 --> 00:35:09,877
+Dude, you were only supposed
+to have, like, a tiny bite.
+
+576
+00:35:09,911 --> 00:35:11,445
+[Zack] Your brother
+got ripped off.
+
+577
+00:35:11,478 --> 00:35:12,547
+If these haven't hit yet,
+
+578
+00:35:12,580 --> 00:35:14,716
+they're not going to.
+
+579
+00:35:14,749 --> 00:35:16,684
+Oh, hey.
+
+580
+00:35:16,718 --> 00:35:18,285
+Sorry about your
+dead girlfriend.
+
+581
+00:35:18,318 --> 00:35:19,787
+Dude, stop it, seriously?
+
+582
+00:35:19,821 --> 00:35:21,455
+- What? I was joking.
+- It's not funny.
+
+583
+00:35:21,488 --> 00:35:22,890
+No, it's fine. I mean,
+
+584
+00:35:22,924 --> 00:35:25,392
+she wasn't actually
+my girlfriend so...
+
+585
+00:35:25,425 --> 00:35:26,761
+I mean, not anymore.
+
+586
+00:35:26,794 --> 00:35:28,328
+Oh, I'm really sorry dude.
+
+587
+00:35:28,362 --> 00:35:30,430
+No, we didn't actually
+know each other.
+
+588
+00:35:30,464 --> 00:35:32,399
+Yeah, totally. Do you want
+to see something cool?
+
+589
+00:35:32,432 --> 00:35:34,636
+Dude, stop. It's fake.
+
+590
+00:35:35,903 --> 00:35:39,439
+(students chattering)
+
+591
+00:35:47,915 --> 00:35:50,217
+Let's get back to it.
+
+592
+00:36:00,728 --> 00:36:03,296
+Hey, Trist...
+
+593
+00:36:15,308 --> 00:36:16,944
+[Moreh] All right, everyone.
+
+594
+00:36:16,978 --> 00:36:19,580
+Please turn over your
+worksheets from earlier.
+
+595
+00:36:19,614 --> 00:36:22,550
+As you can see, it's
+divided into six panels,
+
+596
+00:36:22,583 --> 00:36:24,986
+each representing a
+stage of mourning.
+
+597
+00:36:25,019 --> 00:36:26,988
+I want you to fill
+in each section
+
+598
+00:36:27,021 --> 00:36:31,258
+with how you, personally,
+will honor Samantha's memory.
+
+599
+00:36:31,291 --> 00:36:32,827
+(coughing)
+
+600
+00:36:32,860 --> 00:36:34,662
+Oh, my God, don't
+inhale so deeply.
+
+601
+00:36:34,696 --> 00:36:37,364
+One puff of these is
+like 20 cigarettes.
+
+602
+00:36:37,397 --> 00:36:39,442
+If you keep coughing like that,
+you're basically done for.
+
+603
+00:36:39,466 --> 00:36:40,702
+Thank you.
+
+604
+00:36:44,371 --> 00:36:46,808
+(coughing)
+
+605
+00:36:49,877 --> 00:36:54,582
+So when did you first
+start smoking, or vaping?
+
+606
+00:36:54,615 --> 00:36:55,717
+This summer.
+
+607
+00:36:55,750 --> 00:36:58,553
+I wanted to impress a boy.
+
+608
+00:36:58,586 --> 00:37:01,723
+Well, it's, like,
+super impressive.
+
+609
+00:37:03,024 --> 00:37:04,424
+Do you, um,
+
+610
+00:37:04,458 --> 00:37:05,869
+do you remember
+Samantha's bat mitzvah?
+
+611
+00:37:05,893 --> 00:37:08,428
+Uh, I don't think I went.
+
+612
+00:37:09,063 --> 00:37:10,665
+Yeah, it was the, um,
+
+613
+00:37:10,698 --> 00:37:13,000
+it was the same
+day as Amy Levi's
+
+614
+00:37:13,034 --> 00:37:15,368
+and most people didn't
+want to go to both, or...
+
+615
+00:37:15,402 --> 00:37:17,839
+honestly, most people only
+wanted to go to Amy's.
+
+616
+00:37:17,872 --> 00:37:19,807
+Yeah, Amy's was at
+the planetarium.
+
+617
+00:37:19,841 --> 00:37:21,341
+Yeah, it was cool.
+
+618
+00:37:21,374 --> 00:37:23,477
+And Samantha's was at
+that, like, weird hotel,
+
+619
+00:37:23,511 --> 00:37:25,646
+The, um, Wagon Wheel.
+
+620
+00:37:25,680 --> 00:37:27,481
+You know, it was,
+like, horse-themed.
+
+621
+00:37:28,916 --> 00:37:31,418
+Did you go to Samantha's?
+
+622
+00:37:31,451 --> 00:37:33,286
+Yeah, I went. My
+mom made me go.
+
+623
+00:37:33,320 --> 00:37:34,865
+She said I had to go
+to anyone's bat mitzvah
+
+624
+00:37:34,889 --> 00:37:36,891
+who was in my
+Hebrew school class.
+
+625
+00:37:36,924 --> 00:37:39,459
+Even if we weren't friends.
+
+626
+00:37:39,493 --> 00:37:41,304
+Plus, me and Samantha used to
+carpool together all the time.
+
+627
+00:37:41,328 --> 00:37:43,330
+She lives, like, three
+houses down from me.
+
+628
+00:37:46,634 --> 00:37:47,969
+Lived.
+
+629
+00:37:50,538 --> 00:37:52,540
+I'm really sorry.
+
+630
+00:37:52,573 --> 00:37:54,407
+Yeah.
+
+631
+00:37:54,441 --> 00:37:56,409
+It was, like, so sad.
+
+632
+00:37:56,443 --> 00:38:00,815
+It was, like, all adults and
+Samantha's little cousins
+
+633
+00:38:00,848 --> 00:38:02,984
+and, like, the DJ kept
+trying to get people to dance
+
+634
+00:38:03,017 --> 00:38:06,554
+and, like, no one did.
+
+635
+00:38:06,587 --> 00:38:10,357
+I mean, I left right
+after the candle ceremony,
+
+636
+00:38:10,390 --> 00:38:13,493
+which was humiliating.
+
+637
+00:38:15,596 --> 00:38:17,632
+But she had a candle
+for all of her friends
+
+638
+00:38:17,665 --> 00:38:20,902
+and it was just me and
+our other neighbor, Kim.
+
+639
+00:38:22,435 --> 00:38:24,605
+Oh, my God, that sucks.
+
+640
+00:38:25,873 --> 00:38:27,374
+Yeah.
+
+641
+00:38:29,510 --> 00:38:31,344
+(sighs) I wish...
+
+642
+00:38:32,613 --> 00:38:34,849
+I mean, I don't know.
+
+643
+00:38:34,882 --> 00:38:37,350
+I know she was weird, but, like,
+
+644
+00:38:37,384 --> 00:38:39,486
+I wish people cared
+about her more.
+
+645
+00:38:41,756 --> 00:38:43,758
+Today feels so fake.
+
+646
+00:38:44,525 --> 00:38:46,694
+Yeah.
+
+647
+00:38:46,727 --> 00:38:48,963
+(clears throat) But you
+two were close, right?
+
+648
+00:38:49,630 --> 00:38:51,065
+Uh...
+
+649
+00:38:52,066 --> 00:38:54,702
+I mean, not really, um...
+
+650
+00:38:57,437 --> 00:38:59,874
+In elementary school, we used
+to, like, dance together,
+
+651
+00:38:59,907 --> 00:39:02,510
+but, you know, like, you know,
+
+652
+00:39:02,543 --> 00:39:05,613
+hip hop and jazz and whatever.
+
+653
+00:39:05,646 --> 00:39:07,380
+It was so dumb.
+
+654
+00:39:07,414 --> 00:39:10,751
+I quit when I went to
+middle school, um...
+
+655
+00:39:10,785 --> 00:39:14,522
+So, I never really saw
+her outside of any of that
+
+656
+00:39:14,555 --> 00:39:15,957
+except for here.
+
+657
+00:39:16,791 --> 00:39:18,125
+But...
+
+658
+00:39:18,860 --> 00:39:20,761
+I don't know.
+
+659
+00:39:20,795 --> 00:39:23,097
+This feels, like, different.
+
+660
+00:39:25,465 --> 00:39:29,436
+So, we weren't
+really, like, friends,
+
+661
+00:39:30,838 --> 00:39:32,640
+I don't know why.
+
+662
+00:39:36,043 --> 00:39:38,045
+I guess... I guess
+I do know why.
+
+663
+00:39:38,079 --> 00:39:42,083
+I just never really gave
+her much of a chance.
+
+664
+00:39:44,752 --> 00:39:48,522
+And now, I guess I never will.
+
+665
+00:39:48,556 --> 00:39:51,424
+Yeah, she, like, never told
+anyone anything about herself.
+
+666
+00:39:51,458 --> 00:39:53,561
+Like, it was clear she
+was a total lesbian.
+
+667
+00:39:53,594 --> 00:39:55,005
+Like just come out already.
+We all see your haircut,
+
+668
+00:39:55,029 --> 00:39:56,964
+- no one cares.
+- Yeah.
+
+669
+00:39:58,866 --> 00:40:02,136
+Well, except for Hannah, but, like,
+she didn't feel the same way so...
+
+670
+00:40:04,705 --> 00:40:06,807
+Wait, wait, what?
+
+671
+00:40:06,841 --> 00:40:08,619
+I mean, I wouldn't want
+Samantha to ask me out,
+
+672
+00:40:08,643 --> 00:40:11,411
+but I wouldn't go and
+tell literally everyone.
+
+673
+00:40:13,814 --> 00:40:16,217
+(fluttering)
+
+674
+00:40:16,250 --> 00:40:18,028
+[Hannah] Ew, why are you
+looking at me like that?
+
+675
+00:40:18,052 --> 00:40:21,589
+What? Are you, like,
+in love with me now?
+
+676
+00:40:21,622 --> 00:40:23,724
+(laughing)
+
+677
+00:40:23,758 --> 00:40:25,793
+Wait until I tell
+literally everyone.
+
+678
+00:40:25,826 --> 00:40:27,137
+And you know what
+else is annoying?
+
+679
+00:40:27,161 --> 00:40:28,796
+Why is Melissa being
+so needy today?
+
+680
+00:40:28,829 --> 00:40:30,932
+Like, why are you making
+today all about you?
+
+681
+00:40:30,965 --> 00:40:32,876
+You know, Samantha was,
+like, actually my friend,
+
+682
+00:40:32,900 --> 00:40:34,845
+and I get that you have things
+going on with your parents,
+
+683
+00:40:34,869 --> 00:40:38,072
+but, like, Samantha's dead.
+
+684
+00:40:39,640 --> 00:40:41,075
+Yeah.
+
+685
+00:40:41,108 --> 00:40:43,210
+Totally, I get it.
+
+686
+00:40:46,080 --> 00:40:48,215
+Okay, well, I guess the
+break's almost over.
+
+687
+00:40:48,249 --> 00:40:51,152
+This was... weird, but fun.
+
+688
+00:40:51,185 --> 00:40:53,688
+- I guess.
+- Yeah.
+
+689
+00:41:01,195 --> 00:41:04,565
+[Moreh] Remember that
+each and every one of you
+
+690
+00:41:04,598 --> 00:41:08,970
+should always be
+here for one another.
+
+691
+00:41:09,003 --> 00:41:11,172
+As the Babylonian
+Talmud tells us,
+
+692
+00:41:11,205 --> 00:41:15,543
+all Jews are responsible
+for one another.
+
+693
+00:41:15,576 --> 00:41:18,980
+Tragedy takes a long
+time to process.
+
+694
+00:41:19,013 --> 00:41:20,715
+Super embarrassing.
+
+695
+00:41:20,748 --> 00:41:23,517
+[Moreh] Thankfully, your
+faith will guide you through
+
+696
+00:41:23,551 --> 00:41:25,519
+and so will your community.
+
+697
+00:41:25,553 --> 00:41:27,989
+(Carrie and Elaina laughing)
+
+698
+00:41:28,856 --> 00:41:29,957
+(coughing)
+
+699
+00:41:29,991 --> 00:41:31,759
+Did you feel this?
+
+700
+00:41:38,733 --> 00:41:41,501
+- Uh, definitely.
+- Okay.
+
+701
+00:41:43,838 --> 00:41:46,173
+And so, once
+everyone is finished,
+
+702
+00:41:46,207 --> 00:41:48,909
+we will share our
+responses out loud
+
+703
+00:41:48,943 --> 00:41:52,813
+and see how we can best
+process our grief together.
+
+704
+00:42:00,621 --> 00:42:03,958
+(students chattering)
+
+705
+00:42:04,959 --> 00:42:07,828
+- Oh, hi.
+- What's up?
+
+706
+00:42:07,862 --> 00:42:09,897
+(Carrie laughing)
+
+707
+00:42:17,338 --> 00:42:19,807
+(chatter and laughter continue)
+
+708
+00:42:33,220 --> 00:42:35,956
+How did you think of that quick?
+
+709
+00:42:35,990 --> 00:42:37,358
+Oh, my God. Don't
+even look at me.
+
+710
+00:42:37,391 --> 00:42:38,926
+Don't look.
+
+711
+00:42:44,131 --> 00:42:46,834
+- Uh, Moreh Klein?
+- Yes, Yitzhaka?
+
+712
+00:42:46,867 --> 00:42:48,069
+Could I use the restroom?
+
+713
+00:42:48,102 --> 00:42:50,171
+[Moreh] We just got
+back from break.
+
+714
+00:42:50,204 --> 00:42:52,940
+I know, I just thought I
+felt a little bit of blood
+
+715
+00:42:52,973 --> 00:42:55,943
+on the seat, so I thought
+maybe I could ask you
+
+716
+00:42:55,976 --> 00:42:58,112
+if I could go, if
+not, it's okay.
+
+717
+00:42:58,145 --> 00:42:59,713
+- Go.
+- Okay.
+
+718
+00:43:54,268 --> 00:43:55,836
+Whatever.
+
+719
+00:44:06,113 --> 00:44:07,348
+[Moreh] Toda, Rifkah.
+
+720
+00:44:07,381 --> 00:44:09,350
+Now, who else would
+like to share?
+
+721
+00:44:12,920 --> 00:44:14,088
+Anyone can share.
+
+722
+00:44:14,121 --> 00:44:17,958
+There are no wrong
+answers. Uh-huh.
+
+723
+00:44:17,992 --> 00:44:19,994
+I just think this whole
+thing is really sad
+
+724
+00:44:20,027 --> 00:44:23,130
+and it's such a hard
+time for all of us.
+
+725
+00:44:23,164 --> 00:44:25,065
+Also, I was wondering
+who drew this?
+
+726
+00:44:25,099 --> 00:44:27,768
+I'm looking to
+commission some artwork.
+
+727
+00:44:27,801 --> 00:44:29,770
+Dude, you do not
+need anymore art.
+
+728
+00:44:29,803 --> 00:44:31,005
+You have so much.
+
+729
+00:44:31,038 --> 00:44:33,240
+Thank you for sharing, Yihtzak.
+
+730
+00:44:33,274 --> 00:44:35,910
+I don't know who drew it.
+
+731
+00:44:35,943 --> 00:44:37,821
+- [Natalie] Obviously.
+- [Zack] It was worth asking.
+
+732
+00:44:37,845 --> 00:44:41,248
+Now, would anyone
+else like to share?
+
+733
+00:45:23,490 --> 00:45:25,759
+[Miera] And I just feel,
+like, I really relate to this
+
+734
+00:45:25,793 --> 00:45:28,530
+because just the shock
+and the numbness,
+
+735
+00:45:28,563 --> 00:45:32,166
+- that's phase one, like I was at camp, and so...
+- You okay?
+
+736
+00:45:32,199 --> 00:45:34,235
+I was really shocked
+when I got that call.
+
+737
+00:45:34,268 --> 00:45:37,304
+And then, like, there's the
+sadness part, which I did...
+
+738
+00:45:37,338 --> 00:45:41,041
+Literally, every atom in my
+body is vibrating right now.
+
+739
+00:45:41,075 --> 00:45:42,843
+I think still stuck in
+that busy-ness phase,
+
+740
+00:45:42,876 --> 00:45:45,946
+because it really just
+helps me to cope with grief.
+
+741
+00:45:45,980 --> 00:45:49,383
+Just keeping busy and, like,
+keeping my mind doing other things.
+
+742
+00:45:49,416 --> 00:45:51,519
+And I just think that
+it would be really nice
+
+743
+00:45:51,553 --> 00:45:53,787
+in a year from now to come
+back and do something similar
+
+744
+00:45:53,821 --> 00:45:55,155
+to what we're doing today.
+
+745
+00:45:55,189 --> 00:45:57,891
+I always light the
+Yehuda for my Bubbe.
+
+746
+00:45:57,925 --> 00:45:59,570
+She passed away three years
+ago, but I'm still really sad
+
+747
+00:45:59,594 --> 00:46:02,363
+- about that.
+- Mmm. Thank you, Miera.
+
+748
+00:46:04,164 --> 00:46:05,866
+What?
+
+749
+00:46:05,899 --> 00:46:08,202
+What? Sorry.
+
+750
+00:46:08,235 --> 00:46:11,171
+[Moreh] Hila, would
+you like to share?
+
+751
+00:46:11,205 --> 00:46:14,174
+I just thought what Miera
+said is powerful is all.
+
+752
+00:46:15,543 --> 00:46:16,810
+Toda.
+
+753
+00:46:17,878 --> 00:46:19,480
+Is that seat open?
+
+754
+00:46:39,867 --> 00:46:43,971
+Hava, do you have
+something to share?
+
+755
+00:46:44,004 --> 00:46:46,574
+- No, I'm good. Thank you.
+- This is a safe space
+
+756
+00:46:46,608 --> 00:46:50,044
+and you haven't said anything
+all day, please, share.
+
+757
+00:46:51,912 --> 00:46:53,447
+[Carrie] Mmm.
+
+758
+00:46:57,017 --> 00:46:58,385
+Um...
+
+759
+00:47:00,454 --> 00:47:02,489
+Okay, um...
+
+760
+00:47:02,524 --> 00:47:05,993
+I guess I've just
+been thinking and...
+
+761
+00:47:07,161 --> 00:47:10,497
+I realized that none
+of this matters.
+
+762
+00:47:10,532 --> 00:47:12,232
+What doesn't matter?
+
+763
+00:47:12,266 --> 00:47:15,069
+Um, today and everything,
+
+764
+00:47:15,102 --> 00:47:17,572
+like... like, this class thing.
+
+765
+00:47:19,473 --> 00:47:22,644
+I mean, none of us really liked
+Samantha that much, right?
+
+766
+00:47:22,677 --> 00:47:24,111
+Right?
+
+767
+00:47:24,144 --> 00:47:26,280
+Right, Elaina?
+
+768
+00:47:28,248 --> 00:47:29,917
+I don't know what
+you're talking about.
+
+769
+00:47:29,950 --> 00:47:34,154
+You said that none of
+this really matters
+
+770
+00:47:34,188 --> 00:47:36,290
+and it's all fake and
+no one really cares
+
+771
+00:47:36,323 --> 00:47:38,526
+- that Samantha's dead.
+- Hila, do you feel that way?
+
+772
+00:47:38,560 --> 00:47:42,296
+Absolutely not. I
+never said that.
+
+773
+00:47:42,329 --> 00:47:44,998
+You literally told
+me, like, an hour ago.
+
+774
+00:47:45,032 --> 00:47:48,235
+Today is a horrible day and
+I don't know why you're lying
+
+775
+00:47:48,268 --> 00:47:50,437
+- and making it worse for everyone.
+- I'm not lying.
+
+776
+00:47:50,471 --> 00:47:53,407
+Maybe we should take
+a moment to reflect.
+
+777
+00:47:53,440 --> 00:47:56,477
+I mean, were any of us surprised
+to find out that it was Samantha?
+
+778
+00:47:58,078 --> 00:48:01,148
+Like, none of us did
+anything to help her
+
+779
+00:48:01,181 --> 00:48:02,693
+'cause we're all too
+caught up in our own lives.
+
+780
+00:48:02,717 --> 00:48:05,018
+(girls sobbing)
+
+781
+00:48:05,052 --> 00:48:06,987
+God, shut up.
+
+782
+00:48:07,020 --> 00:48:09,123
+Hava, please.
+
+783
+00:48:09,156 --> 00:48:11,291
+But you asked me to be honest.
+
+784
+00:48:11,325 --> 00:48:14,461
+And I'm just tired
+of acting like this
+
+785
+00:48:14,495 --> 00:48:16,196
+has some sort of greater meaning
+
+786
+00:48:16,230 --> 00:48:19,233
+and we, like, cared so much.
+
+787
+00:48:19,266 --> 00:48:21,135
+I mean, Samantha killed herself
+
+788
+00:48:21,168 --> 00:48:23,437
+and nothing that we do here
+today is gonna change that.
+
+789
+00:48:23,470 --> 00:48:25,406
+I know we're all exhausted,
+
+790
+00:48:25,439 --> 00:48:27,675
+but I think we can have
+a productive discussion
+
+791
+00:48:27,709 --> 00:48:30,411
+about how you feel.
+
+792
+00:48:30,444 --> 00:48:34,481
+Well, I'm sorry being honest
+isn't fucking productive.
+
+793
+00:48:36,150 --> 00:48:38,385
+Do you have a
+worksheet for that?
+
+794
+00:48:41,422 --> 00:48:46,393
+If you cannot be here today,
+you are free to leave.
+
+795
+00:48:46,427 --> 00:48:49,129
+My ride doesn't get
+here until five.
+
+796
+00:48:49,163 --> 00:48:50,732
+Then maybe you should
+go into the hall
+
+797
+00:48:50,765 --> 00:48:54,168
+and call and see if they
+can come get you earlier.
+
+798
+00:48:58,071 --> 00:48:59,507
+Fine.
+
+799
+00:49:20,294 --> 00:49:21,563
+Yes, Tzadik.
+
+800
+00:49:21,596 --> 00:49:24,064
+- I gotta use the bathroom.
+- Go.
+
+801
+00:49:33,207 --> 00:49:35,543
+(rumbling)
+
+802
+00:49:44,251 --> 00:49:46,353
+(rumbling stops abruptly)
+
+803
+00:49:46,386 --> 00:49:50,123
+Now, who else would
+like to share?
+
+804
+00:50:00,835 --> 00:50:03,036
+(cars passing by)
+
+805
+00:50:35,537 --> 00:50:37,437
+Shabbat Shalom.
+
+806
+00:50:41,441 --> 00:50:44,211
+How's everybody doing tonight?
+
+807
+00:50:54,722 --> 00:50:56,156
+(Tristan coughs)
+
+808
+00:50:56,189 --> 00:50:57,391
+Oh, um...
+
+809
+00:50:57,424 --> 00:50:59,259
+[Tristan] Oh, sorry.
+
+810
+00:50:59,293 --> 00:51:02,195
+Oh, no, no. It's
+fine, I'm fine.
+
+811
+00:51:02,229 --> 00:51:04,832
+Welcome to the sanctuary.
+
+812
+00:51:09,403 --> 00:51:12,406
+So, today's been
+crazy boring, right?
+
+813
+00:51:12,439 --> 00:51:15,242
+- What do you mean?
+- And, like, really sad too.
+
+814
+00:51:15,275 --> 00:51:16,744
+Yeah.
+
+815
+00:51:19,781 --> 00:51:21,783
+I mean, especially for you.
+
+816
+00:51:21,816 --> 00:51:24,217
+Cause, like, you know?
+
+817
+00:51:27,487 --> 00:51:30,525
+I mean, didn't you and
+Samantha used to...
+
+818
+00:51:30,558 --> 00:51:33,561
+Oh, uh, that was fake.
+
+819
+00:51:34,294 --> 00:51:35,495
+Um...
+
+820
+00:51:37,532 --> 00:51:42,202
+Topher made that up as a
+joke and... 'Cause she's...
+
+821
+00:51:42,235 --> 00:51:45,272
+She was the... the weird girl who
+never talked to any of the boys
+
+822
+00:51:45,305 --> 00:51:50,645
+and she was really into
+yarn and it was messed up.
+
+823
+00:51:51,445 --> 00:51:52,680
+(sighs)
+
+824
+00:51:52,714 --> 00:51:54,481
+Now it's even more messed up.
+
+825
+00:51:56,751 --> 00:52:00,722
+That... that sucks, I'm sorry.
+
+826
+00:52:00,755 --> 00:52:03,223
+[scoffs] Yeah.
+
+827
+00:52:03,256 --> 00:52:05,660
+And, like, I feel like
+everyone's looking at me,
+
+828
+00:52:05,693 --> 00:52:09,296
+like I'm, like, super upset
+about her dying or whatever.
+
+829
+00:52:09,329 --> 00:52:11,566
+And that's not even
+true because I...
+
+830
+00:52:12,834 --> 00:52:15,870
+That's... that's not what I...
+
+831
+00:52:15,903 --> 00:52:17,572
+(sighs)
+
+832
+00:52:17,605 --> 00:52:20,240
+I mean, it's shit
+that she's dead
+
+833
+00:52:20,273 --> 00:52:22,877
+and I guess I should
+have told them
+
+834
+00:52:22,910 --> 00:52:26,313
+to stop saying all that stuff.
+
+835
+00:52:27,749 --> 00:52:29,483
+And now this...
+
+836
+00:52:30,618 --> 00:52:31,853
+thing.
+
+837
+00:52:31,886 --> 00:52:35,188
+- So you two weren't close?
+- What?
+
+838
+00:52:35,222 --> 00:52:36,824
+You and Samantha.
+You weren't close,
+
+839
+00:52:36,858 --> 00:52:38,926
+- 'cause you didn't ever?
+- No, no.
+
+840
+00:52:39,994 --> 00:52:41,696
+Yeah, same.
+
+841
+00:52:41,729 --> 00:52:47,602
+Wait, didn't she, like, ask
+you out a few weeks ago?
+
+842
+00:52:47,635 --> 00:52:50,638
+I think she thought
+you were, like...
+
+843
+00:52:50,672 --> 00:52:53,608
+- Like, a lesbian...
+- Oh, my God, no.
+
+844
+00:52:53,641 --> 00:52:55,710
+That's crazy that
+you heard that.
+
+845
+00:52:55,743 --> 00:52:58,378
+Well, you posted it
+on your... Right?
+
+846
+00:52:58,412 --> 00:53:00,758
+I mean, I could have sworn I saw
+on your story that you were...
+
+847
+00:53:00,782 --> 00:53:04,484
+I mean, like, who can remember?
+That was all so long ago.
+
+848
+00:53:06,420 --> 00:53:10,390
+I mean, I don't think
+she even meant it.
+
+849
+00:53:11,726 --> 00:53:14,294
+Yeah.
+
+850
+00:53:14,327 --> 00:53:15,930
+Well, I wouldn't be surprised.
+
+851
+00:53:15,963 --> 00:53:18,733
+She never came "out" out, but,
+
+852
+00:53:18,766 --> 00:53:21,268
+well, she never
+had to, you know?
+
+853
+00:53:23,004 --> 00:53:24,806
+Yeah.
+
+854
+00:53:24,839 --> 00:53:27,240
+Well, I guess I just
+wasn't that into it.
+
+855
+00:53:27,274 --> 00:53:30,011
+- [scoffs] Sorry.
+- Because of the horses?
+
+856
+00:53:30,044 --> 00:53:32,513
+No.
+
+857
+00:53:32,547 --> 00:53:34,549
+Actually, yeah. (laughing)
+
+858
+00:53:35,348 --> 00:53:36,718
+No, I just...
+
+859
+00:53:37,852 --> 00:53:40,688
+I don't know why,
+
+860
+00:53:40,722 --> 00:53:44,659
+but at the time, it
+really weirded me out.
+
+861
+00:53:44,692 --> 00:53:48,730
+It was like... like...
+
+862
+00:53:48,763 --> 00:53:50,932
+Like maybe she just
+really liked you?
+
+863
+00:53:55,636 --> 00:53:58,740
+Sorry, just being honest.
+
+864
+00:53:58,773 --> 00:54:01,609
+Well, it's not like I
+would never do that.
+
+865
+00:54:03,376 --> 00:54:04,645
+Yeah, um...
+
+866
+00:54:04,679 --> 00:54:07,481
+have you, uh, seen
+Carrie around or...?
+
+867
+00:54:07,515 --> 00:54:09,784
+Wasn't she just in class?
+
+868
+00:54:09,817 --> 00:54:11,384
+Oh, my God, she left.
+
+869
+00:54:11,418 --> 00:54:13,386
+Wait, why? Is she all right?
+
+870
+00:54:13,420 --> 00:54:15,056
+I think so. Oh, my...
+
+871
+00:54:15,089 --> 00:54:18,391
+- She went off on Moreh Klein.
+- What did she say?
+
+872
+00:54:18,425 --> 00:54:23,631
+Like, just that, like,
+today's totally fake.
+
+873
+00:54:24,799 --> 00:54:26,500
+Like, which it is. (laughing)
+
+874
+00:54:26,534 --> 00:54:27,574
+I think she's really cool.
+
+875
+00:54:27,602 --> 00:54:28,903
+I think today's fake too.
+
+876
+00:54:28,936 --> 00:54:31,506
+Yeah, like, super fake.
+
+877
+00:54:31,539 --> 00:54:33,775
+It's, like, what are
+we even doing here?
+
+878
+00:54:33,808 --> 00:54:36,343
+Plus, it's, like, today
+and then that's it.
+
+879
+00:54:36,376 --> 00:54:38,846
+We're all gonna just
+move on with our lives.
+
+880
+00:54:38,880 --> 00:54:41,414
+Forget about this
+tomorrow. (laughs)
+
+881
+00:54:44,652 --> 00:54:47,287
+Sorry, that was, like, a lot.
+
+882
+00:54:51,893 --> 00:54:56,097
+So, uh, you and Carrie are...
+
+883
+00:54:56,130 --> 00:54:57,732
+You guys are like
+best friends, right?
+
+884
+00:54:57,765 --> 00:55:00,467
+Yeah, she's my best friend.
+
+885
+00:55:03,571 --> 00:55:07,508
+So, is she, like,
+hooking up with anyone
+
+886
+00:55:07,542 --> 00:55:10,745
+right now or...?
+
+887
+00:55:10,778 --> 00:55:13,581
+Um, it's not... I... It's
+not, like, that big of a...
+
+888
+00:55:13,614 --> 00:55:15,692
+It's not a big, uh... It's not
+that big of a deal or anything.
+
+889
+00:55:15,716 --> 00:55:16,994
+I just wanted to
+know if she, uh...
+
+890
+00:55:17,018 --> 00:55:18,820
+We've made out before.
+
+891
+00:55:19,620 --> 00:55:20,922
+Yeah.
+
+892
+00:55:20,955 --> 00:55:24,491
+We, like, make out and stuff.
+
+893
+00:55:24,525 --> 00:55:25,993
+It's not like a thing, you know?
+
+894
+00:55:26,027 --> 00:55:27,628
+It's whatever.
+
+895
+00:55:28,963 --> 00:55:30,932
+[scoffs] Oh, okay.
+
+896
+00:55:31,799 --> 00:55:34,068
+She's a good kisser.
+
+897
+00:55:34,101 --> 00:55:35,603
+So am I.
+
+898
+00:55:35,636 --> 00:55:38,039
+Oh, uh, cool.
+
+899
+00:55:38,072 --> 00:55:39,874
+I, I guess?
+
+900
+00:55:39,907 --> 00:55:43,611
+We kiss boys too, if
+you're interested.
+
+901
+00:55:44,745 --> 00:55:47,447
+Oh, um... I don't, I don't...
+
+902
+00:55:47,480 --> 00:55:51,384
+I mean, like, if you wanted a
+distraction from today, you know?
+
+903
+00:55:51,418 --> 00:55:53,921
+I was already gonna hang out
+with Carrie in the library.
+
+904
+00:55:53,955 --> 00:55:55,590
+You should join.
+
+905
+00:55:59,492 --> 00:56:00,828
+Now?
+
+906
+00:56:00,862 --> 00:56:02,663
+Meet me in the
+library in, like, 10.
+
+907
+00:56:05,432 --> 00:56:08,769
+Um, yeah, okay.
+Um, are you sure?
+
+908
+00:56:08,803 --> 00:56:13,708
+Hannah, are you sure this is
+like the right time to be...?
+
+909
+00:56:14,942 --> 00:56:17,678
+Ah. (laughs)
+
+910
+00:56:25,519 --> 00:56:27,088
+Hannah, are you in here?
+
+911
+00:57:05,726 --> 00:57:07,460
+Hannah?
+
+912
+00:57:18,205 --> 00:57:20,641
+(children playing outside)
+
+913
+00:57:35,156 --> 00:57:37,224
+- Hey.
+- I was just calling you.
+
+914
+00:57:37,258 --> 00:57:39,226
+Yeah, my phone's off.
+Where have you been?
+
+915
+00:57:39,260 --> 00:57:41,028
+I had to get some air.
+
+916
+00:57:41,062 --> 00:57:42,973
+Plus, it looks like I'm
+not the only who skipped.
+
+917
+00:57:42,997 --> 00:57:45,533
+- I was looking for you.
+- That's not what I heard.
+
+918
+00:57:45,566 --> 00:57:46,734
+Why are you being so weird?
+
+919
+00:57:46,767 --> 00:57:47,835
+I'm not being weird.
+
+920
+00:57:47,868 --> 00:57:49,502
+What?
+
+921
+00:57:49,537 --> 00:57:51,505
+You're, like, um,
+
+922
+00:57:51,539 --> 00:57:52,907
+like gaslighting me.
+
+923
+00:57:52,940 --> 00:57:54,742
+(laughing) No, I'm not.
+
+924
+00:57:54,775 --> 00:57:56,110
+That's not what that word means.
+
+925
+00:57:56,143 --> 00:57:57,578
+Yes, it is and you are.
+
+926
+00:57:57,611 --> 00:57:58,789
+You're telling me
+that I'm being weird
+
+927
+00:57:58,813 --> 00:57:59,780
+but I'm not doing anything.
+
+928
+00:57:59,814 --> 00:58:01,115
+You're being weird.
+
+929
+00:58:01,148 --> 00:58:02,183
+No, I'm not.
+
+930
+00:58:02,216 --> 00:58:03,260
+Yes, you are. What do you want?
+
+931
+00:58:03,284 --> 00:58:04,524
+I don't want anything from you.
+
+932
+00:58:04,552 --> 00:58:06,120
+Stop being weird.
+
+933
+00:58:10,691 --> 00:58:11,859
+Fine.
+
+934
+00:58:12,226 --> 00:58:13,561
+What?
+
+935
+00:58:14,862 --> 00:58:17,231
+Sorry, didn't mean to
+gaslight you again.
+
+936
+00:58:17,264 --> 00:58:19,300
+You're being a bitch.
+
+937
+00:58:19,333 --> 00:58:20,868
+So are you.
+
+938
+00:58:39,220 --> 00:58:41,889
+So, why did you leave?
+
+939
+00:58:41,922 --> 00:58:44,025
+- I had to get some air.
+- That's a lie.
+
+940
+00:58:44,058 --> 00:58:45,826
+No, it's not. I
+wasn't feeling well,
+
+941
+00:58:45,860 --> 00:58:47,828
+and I had to get some air.
+
+942
+00:58:47,862 --> 00:58:49,563
+Be honest!
+
+943
+00:58:52,299 --> 00:58:54,201
+Fine.
+
+944
+00:58:57,972 --> 00:59:00,908
+I thought we weren't friends
+anymore and so I freaked out.
+
+945
+00:59:03,744 --> 00:59:04,945
+You did?
+
+946
+00:59:05,613 --> 00:59:06,981
+Yeah.
+
+947
+00:59:08,249 --> 00:59:09,726
+I just couldn't sit in
+that classroom anymore.
+
+948
+00:59:09,750 --> 00:59:11,552
+I felt like I was...
+
+949
+00:59:13,187 --> 00:59:15,823
+I told Moreh Klein that
+I bled all over the seat.
+
+950
+00:59:15,856 --> 00:59:16,957
+(laughing)
+
+951
+00:59:16,991 --> 00:59:19,126
+I'm sure she loved that.
+
+952
+00:59:27,401 --> 00:59:28,903
+I thought I...
+
+953
+00:59:30,004 --> 00:59:31,806
+weirded you out.
+
+954
+00:59:31,839 --> 00:59:33,741
+So I thought I'd
+give you some space.
+
+955
+00:59:35,776 --> 00:59:38,312
+Why would you weird me out?
+
+956
+00:59:40,414 --> 00:59:41,982
+I don't know.
+
+957
+00:59:42,983 --> 00:59:45,686
+It was stupid. I'm sorry.
+
+958
+00:59:47,154 --> 00:59:48,589
+It's fine.
+
+959
+00:59:53,027 --> 00:59:55,329
+It's just, seeing you
+hanging out with Elaina
+
+960
+00:59:55,362 --> 00:59:57,631
+kind of freaked me out.
+
+961
+00:59:57,665 --> 01:00:00,301
+- She's actually really not that bad.
+- Shut up.
+
+962
+01:00:00,334 --> 01:00:02,303
+She sucks and
+nothing you say or do
+
+963
+01:00:02,336 --> 01:00:04,138
+will make me change my mind.
+
+964
+01:00:05,272 --> 01:00:07,108
+She let me hit her vape.
+
+965
+01:00:07,141 --> 01:00:08,409
+Ew, what?
+
+966
+01:00:08,442 --> 01:00:09,810
+(Carrie laughing)
+
+967
+01:00:09,844 --> 01:00:12,046
+Yeah, it was pretty fun.
+
+968
+01:00:12,079 --> 01:00:13,781
+That's so gross.
+
+969
+01:00:14,949 --> 01:00:17,618
+- What flavor?
+- Cucumber.
+
+970
+01:00:19,220 --> 01:00:20,387
+Cool.
+
+971
+01:00:41,275 --> 01:00:43,410
+Today's been, like...
+
+972
+01:00:43,444 --> 01:00:46,680
+- so fucked up.
+- I know.
+
+973
+01:00:50,751 --> 01:00:53,320
+I just keep on thinking, like,
+
+974
+01:00:55,256 --> 01:00:56,957
+why she did it.
+
+975
+01:00:58,392 --> 01:01:00,337
+I mean, like, I know it's
+a stupid question to ask,
+
+976
+01:01:00,361 --> 01:01:03,164
+but, like,
+
+977
+01:01:03,197 --> 01:01:06,300
+why does anyone do
+that sort of thing?
+
+978
+01:01:07,468 --> 01:01:09,003
+What?
+
+979
+01:01:10,204 --> 01:01:11,805
+Kill themselves?
+
+980
+01:01:14,041 --> 01:01:16,043
+I mean, like, yeah.
+
+981
+01:01:19,313 --> 01:01:22,049
+I don't know.
+
+982
+01:01:22,082 --> 01:01:25,019
+I think she might've just
+been depressed, you know?
+
+983
+01:01:25,052 --> 01:01:27,354
+You don't have to answer.
+
+984
+01:01:31,292 --> 01:01:33,427
+We're going to be okay though.
+
+985
+01:01:33,460 --> 01:01:36,330
+Nothing has changed between us.
+
+986
+01:01:38,232 --> 01:01:41,001
+I mean, you still want to
+be my best friend, right?
+
+987
+01:01:43,771 --> 01:01:45,839
+Yeah, I do.
+
+988
+01:01:46,874 --> 01:01:48,275
+Okay.
+
+989
+01:01:48,309 --> 01:01:49,777
+So there's no problem.
+
+990
+01:01:54,516 --> 01:01:56,050
+Um...
+
+991
+01:01:57,151 --> 01:01:58,953
+Samantha had a crush on you?
+
+992
+01:01:58,986 --> 01:02:02,456
+- What?
+- Elaina told me that,
+
+993
+01:02:02,489 --> 01:02:06,393
+um, Samantha had a
+crush on you and,
+
+994
+01:02:06,427 --> 01:02:08,495
+and you told everybody, but, uh,
+
+995
+01:02:09,830 --> 01:02:10,864
+you didn't tell me.
+
+996
+01:02:10,898 --> 01:02:13,133
+Why does that matter?
+
+997
+01:02:13,167 --> 01:02:16,070
+Because I'm your best friend,
+why didn't you tell me?
+
+998
+01:02:16,103 --> 01:02:19,106
+Oh, 'cause it was
+dumb. I was drunk.
+
+999
+01:02:19,139 --> 01:02:22,042
+You were sad about not
+being invited to the party.
+
+1000
+01:02:22,076 --> 01:02:25,012
+I didn't want to
+hurt your feelings.
+
+1001
+01:02:25,045 --> 01:02:26,880
+Well, that kind of
+makes me feel worse
+
+1002
+01:02:26,914 --> 01:02:30,150
+- that you didn't tell me.
+- She didn't kill herself
+
+1003
+01:02:30,184 --> 01:02:32,462
+- because she had a crush on me.
+- I didn't say that she did.
+
+1004
+01:02:32,486 --> 01:02:34,455
+Okay, so then why did
+you ask it like that?
+
+1005
+01:02:34,488 --> 01:02:36,056
+I didn't ask it like anything.
+
+1006
+01:02:36,090 --> 01:02:37,891
+I didn't make her kill herself.
+
+1007
+01:02:37,925 --> 01:02:39,326
+I didn't say that
+you did, I just...
+
+1008
+01:02:39,360 --> 01:02:41,395
+Okay, so then what
+were you trying to ask?
+
+1009
+01:02:41,428 --> 01:02:45,032
+Nothing! Just...
+just forget about it.
+
+1010
+01:02:47,569 --> 01:02:49,870
+Okay, I will.
+
+1011
+01:02:57,579 --> 01:03:01,882
+I mean, it's, like, not on you.
+
+1012
+01:03:01,915 --> 01:03:05,886
+I mean, she had other friends.
+
+1013
+01:03:05,919 --> 01:03:07,254
+I mean, like, she was...
+
+1014
+01:03:07,288 --> 01:03:09,790
+She was invited to the
+party and I wasn't.
+
+1015
+01:03:12,560 --> 01:03:14,028
+I guess.
+
+1016
+01:03:16,096 --> 01:03:18,132
+I should have told you.
+It's just, it was like...
+
+1017
+01:03:18,165 --> 01:03:20,334
+It was weird and then she died.
+
+1018
+01:03:20,367 --> 01:03:22,469
+It's whatever.
+
+1019
+01:03:25,272 --> 01:03:28,409
+I just didn't know what to do.
+
+1020
+01:03:28,442 --> 01:03:29,977
+I didn't like her like that,
+
+1021
+01:03:30,010 --> 01:03:34,148
+but she was, like,
+a nice person.
+
+1022
+01:03:36,050 --> 01:03:37,519
+She was.
+
+1023
+01:03:40,522 --> 01:03:42,423
+I hope she doesn't hate me.
+
+1024
+01:03:44,158 --> 01:03:46,460
+I don't want anyone to hate me.
+
+1025
+01:03:46,493 --> 01:03:48,228
+Even if they're dead.
+
+1026
+01:03:54,435 --> 01:03:56,503
+I don't hate you.
+
+1027
+01:03:56,538 --> 01:03:58,072
+(laughing)
+
+1028
+01:03:59,541 --> 01:04:01,875
+I don't hate you too.
+
+1029
+01:04:05,946 --> 01:04:08,082
+You gonna go back to class?
+
+1030
+01:04:08,115 --> 01:04:10,951
+No, I think I want
+to do something else.
+
+1031
+01:04:10,984 --> 01:04:14,288
+Like what? My dad gets
+here in, like, 30 minutes.
+
+1032
+01:04:14,321 --> 01:04:17,024
+We'll find something fun to do.
+
+1033
+01:04:17,057 --> 01:04:19,594
+Okay, I don't want to,
+like, lay backwards
+
+1034
+01:04:19,627 --> 01:04:21,362
+on the hill
+outside. (laughing)
+
+1035
+01:04:21,395 --> 01:04:24,398
+Neither do I. We're
+not in fifth grade.
+
+1036
+01:04:24,431 --> 01:04:27,368
+I want to do
+something more adult.
+
+1037
+01:04:28,402 --> 01:04:29,637
+Adult?
+
+1038
+01:04:30,638 --> 01:04:32,373
+Come on, trust me.
+
+1039
+01:04:32,406 --> 01:04:34,341
+We can't be sad and
+thinking about this
+
+1040
+01:04:34,375 --> 01:04:36,043
+for the rest of our lives.
+
+1041
+01:04:36,076 --> 01:04:39,012
+- Okay, what is it?
+- You'll see.
+
+1042
+01:04:41,415 --> 01:04:45,452
+Okay, so, what's the surprise?
+
+1043
+01:04:46,120 --> 01:04:48,489
+Kiss me.
+
+1044
+01:04:48,523 --> 01:04:50,224
+- What?
+- Kiss me.
+
+1045
+01:04:50,257 --> 01:04:53,494
+- Please.
+- I, uh...
+
+1046
+01:04:53,528 --> 01:04:55,095
+What the fuck?
+
+1047
+01:05:03,971 --> 01:05:06,373
+(ethereal music)
+
+1048
+01:05:30,197 --> 01:05:31,331
+[Tristan] Uh, hello?
+
+1049
+01:05:31,365 --> 01:05:32,700
+Sorry.
+
+1050
+01:05:32,734 --> 01:05:34,334
+[Tristan] Sorry, sorry.
+
+1051
+01:05:34,368 --> 01:05:35,936
+[Hannah] Hey, Tristan.
+
+1052
+01:05:37,505 --> 01:05:40,040
+Hannah, what is he doing here?
+
+1053
+01:05:40,073 --> 01:05:41,743
+We're all gonna hang out, duh.
+
+1054
+01:05:41,776 --> 01:05:44,612
+Like we hung up before
+in the bathroom.
+
+1055
+01:05:44,646 --> 01:05:47,147
+- What?
+- Come on, be cool.
+
+1056
+01:05:49,249 --> 01:05:51,553
+- Uh, yeah.
+- Don't be jealous.
+
+1057
+01:05:51,586 --> 01:05:54,622
+[Tristan] I thought we were just...
+I thought you were just joking.
+
+1058
+01:05:54,656 --> 01:05:57,692
+I didn't think we were
+actually going to do this.
+
+1059
+01:05:57,725 --> 01:06:00,093
+[Hannah] Why wouldn't we?
+
+1060
+01:06:00,127 --> 01:06:03,063
+Can I talk to you for a second?
+
+1061
+01:06:03,096 --> 01:06:04,566
+Of course.
+
+1062
+01:06:04,599 --> 01:06:06,534
+We'll be right back.
+
+1063
+01:06:16,811 --> 01:06:21,583
+You know I've never, like...
+like, done this before.
+
+1064
+01:06:21,616 --> 01:06:24,418
+I mean, you've, like,
+kissed other people before.
+
+1065
+01:06:24,451 --> 01:06:26,487
+Yeah, but I haven't
+done, like, everything.
+
+1066
+01:06:26,521 --> 01:06:28,690
+I don't want this to
+be how it happens.
+
+1067
+01:06:28,723 --> 01:06:30,625
+Okay, well, you don't
+have to do that.
+
+1068
+01:06:30,658 --> 01:06:35,195
+I can do that and he'll
+just, like, play with you.
+
+1069
+01:06:35,229 --> 01:06:36,731
+Play with me.
+
+1070
+01:06:36,764 --> 01:06:39,567
+You know, like,
+touch you down there.
+
+1071
+01:06:39,601 --> 01:06:41,201
+I know what fingering is.
+
+1072
+01:06:41,235 --> 01:06:43,403
+I wasn't trying to
+say that you didn't.
+
+1073
+01:06:43,437 --> 01:06:45,372
+Why the hell would
+I want to do this?
+
+1074
+01:06:45,405 --> 01:06:47,775
+You know, I'm actually
+really worried about you.
+
+1075
+01:06:47,809 --> 01:06:50,512
+Don't you ever want
+to try this stuff?
+
+1076
+01:06:50,545 --> 01:06:53,113
+You can't avoid it forever.
+
+1077
+01:06:54,281 --> 01:06:57,117
+Tristan thinks you're
+so hot and cool.
+
+1078
+01:06:57,150 --> 01:06:59,353
+He literally couldn't
+stop talking about you.
+
+1079
+01:06:59,386 --> 01:07:03,056
+You're just saying that so you can
+play out your stupid, gross fantasy.
+
+1080
+01:07:03,090 --> 01:07:04,391
+It's fun.
+
+1081
+01:07:04,424 --> 01:07:07,762
+- You're using me.
+- No, I'm not.
+
+1082
+01:07:07,795 --> 01:07:10,163
+Tristan is only doing this
+because he wants to go with you
+
+1083
+01:07:10,197 --> 01:07:13,433
+because he's so, so into you.
+
+1084
+01:07:13,467 --> 01:07:16,103
+Don't overthink this.
+Let's just do it.
+
+1085
+01:07:16,136 --> 01:07:17,572
+Why do you even want to do this?
+
+1086
+01:07:17,605 --> 01:07:22,175
+You were, like,
+in love with him.
+
+1087
+01:07:22,209 --> 01:07:26,781
+I mean, we're both
+gonna, like, be with him.
+
+1088
+01:07:26,814 --> 01:07:27,849
+What if I don't want to?
+
+1089
+01:07:27,882 --> 01:07:29,784
+Why wouldn't you want to?
+
+1090
+01:07:31,151 --> 01:07:33,588
+Why can't you just
+hook up with him?
+
+1091
+01:07:33,621 --> 01:07:36,524
+I mean, I like him,
+I really like him,
+
+1092
+01:07:36,558 --> 01:07:40,127
+but it's so obvious
+that he likes you more.
+
+1093
+01:07:40,160 --> 01:07:43,263
+So I thought maybe
+we could share.
+
+1094
+01:07:43,297 --> 01:07:44,766
+Share, got it.
+
+1095
+01:07:44,799 --> 01:07:47,434
+It's a fun thing. It's
+not, like, a serious thing.
+
+1096
+01:07:47,467 --> 01:07:49,837
+You want to have sex
+in our synagogue.
+
+1097
+01:07:49,871 --> 01:07:52,306
+- Hook up.
+- Isn't that sex?
+
+1098
+01:07:52,339 --> 01:07:54,742
+I don't know, we'll just,
+like, see what happens.
+
+1099
+01:07:54,776 --> 01:07:56,644
+It's Samantha's funeral.
+
+1100
+01:07:56,678 --> 01:07:58,713
+Who cares? She's dead.
+
+1101
+01:07:58,746 --> 01:08:01,214
+Plus, her ghost didn't
+stop you from kissing me.
+
+1102
+01:08:02,282 --> 01:08:04,117
+That was...
+
+1103
+01:08:04,151 --> 01:08:05,820
+That was different.
+
+1104
+01:08:05,853 --> 01:08:08,790
+- No, it's not.
+- Yes, it is.
+
+1105
+01:08:08,823 --> 01:08:10,725
+You've been fucking
+with my head all day.
+
+1106
+01:08:10,758 --> 01:08:13,260
+- No, I haven't.
+- Yes, you have.
+
+1107
+01:08:13,293 --> 01:08:14,805
+You know that I like you
+and now you're using me
+
+1108
+01:08:14,829 --> 01:08:16,363
+so you can get with Tristan.
+
+1109
+01:08:16,396 --> 01:08:19,667
+No, I'm not. I
+didn't know anything.
+
+1110
+01:08:19,701 --> 01:08:22,336
+- I thought you would think this was fun.
+- Stop saying that.
+
+1111
+01:08:22,369 --> 01:08:24,782
+This isn't fun. I'm not having
+fun. I'm not going to have fun.
+
+1112
+01:08:24,806 --> 01:08:26,641
+Why did you kiss me
+in the first place?
+
+1113
+01:08:26,674 --> 01:08:29,644
+I told you. I wanted to
+know if I'm a good kisser.
+
+1114
+01:08:33,781 --> 01:08:35,315
+Okay.
+
+1115
+01:08:37,585 --> 01:08:39,386
+(sighing)
+
+1116
+01:08:41,789 --> 01:08:43,156
+Okay.
+
+1117
+01:08:43,958 --> 01:08:45,359
+So, do you want to go back?
+
+1118
+01:08:45,392 --> 01:08:47,762
+- You're so selfish.
+- What?
+
+1119
+01:08:49,731 --> 01:08:51,365
+Do you like me at all?
+
+1120
+01:08:51,398 --> 01:08:53,534
+Yes, of course, I like you.
+
+1121
+01:08:53,568 --> 01:08:55,803
+I love you. You're
+my best friend.
+
+1122
+01:08:55,837 --> 01:08:58,305
+But not more than that?
+
+1123
+01:08:59,641 --> 01:09:01,341
+More than best friends?
+
+1124
+01:09:02,610 --> 01:09:05,580
+Like, you wouldn't
+want to hook up with me
+
+1125
+01:09:05,613 --> 01:09:07,682
+if Tristan wasn't here.
+
+1126
+01:09:08,616 --> 01:09:09,817
+No.
+
+1127
+01:09:11,919 --> 01:09:13,554
+Would you?
+
+1128
+01:09:15,455 --> 01:09:16,891
+I mean...
+
+1129
+01:09:17,959 --> 01:09:20,293
+I don't know.
+
+1130
+01:09:20,327 --> 01:09:22,195
+But you're going
+to prom with Ben.
+
+1131
+01:09:22,229 --> 01:09:23,564
+Just because I'm...
+
+1132
+01:09:25,265 --> 01:09:28,168
+Look, I really
+liked kissing you,
+
+1133
+01:09:29,704 --> 01:09:31,438
+and I thought you liked it too.
+
+1134
+01:09:32,674 --> 01:09:35,242
+Carrie, I don't think
+of you that way.
+
+1135
+01:09:35,275 --> 01:09:36,744
+We're like sisters.
+
+1136
+01:09:36,778 --> 01:09:39,614
+We're, like, closer than
+sisters, we're like...
+
+1137
+01:09:39,647 --> 01:09:42,282
+I don't know, and it's not like
+I don't think you're pretty,
+
+1138
+01:09:42,315 --> 01:09:43,885
+or smart, or whatever.
+
+1139
+01:09:43,918 --> 01:09:45,553
+And it's cool if you
+like me that way.
+
+1140
+01:09:45,586 --> 01:09:47,588
+It's, like, I just, I
+don't like you that way,
+
+1141
+01:09:47,622 --> 01:09:50,591
+but it's good if you do?
+
+1142
+01:09:57,431 --> 01:09:59,232
+[Tristan] Is
+everything all right?
+
+1143
+01:09:59,266 --> 01:10:02,637
+Yeah! Um, everything's great.
+
+1144
+01:10:02,670 --> 01:10:04,371
+Right, Carrie?
+
+1145
+01:10:08,710 --> 01:10:10,611
+It's nice to see you, Tristan.
+
+1146
+01:10:14,481 --> 01:10:16,416
+So, um...
+
+1147
+01:10:17,685 --> 01:10:20,855
+maybe we could hang
+out, just the two of us?
+
+1148
+01:10:20,888 --> 01:10:23,958
+- Is... is she okay?
+- Yeah.
+
+1149
+01:10:23,991 --> 01:10:25,492
+She seemed really upset.
+
+1150
+01:10:25,526 --> 01:10:27,729
+Oh, yeah, she's fine.
+Just a long day.
+
+1151
+01:10:27,762 --> 01:10:30,330
+Did she know this was
+gonna happen or...?
+
+1152
+01:10:30,363 --> 01:10:34,035
+Totally, she just, like,
+gets like that sometimes.
+
+1153
+01:10:34,068 --> 01:10:36,537
+I feel so bad.
+
+1154
+01:10:36,571 --> 01:10:39,239
+Don't! Don't, I mean,
+
+1155
+01:10:40,373 --> 01:10:42,375
+maybe I can make it up to you.
+
+1156
+01:10:42,409 --> 01:10:45,012
+Um... my mom works late,
+
+1157
+01:10:45,046 --> 01:10:48,348
+- so I have the house to... my house for myself.
+- What?!
+
+1158
+01:10:48,381 --> 01:10:52,486
+- What? Are you serious right now?
+- Yeah, I mean, totally.
+
+1159
+01:10:52,520 --> 01:10:56,524
+I thought we were just gonna hang out. I
+didn't think you actually wanted to do...
+
+1160
+01:10:56,557 --> 01:10:59,426
+- I thought it would be...
+- What the fuck is wrong with you?
+
+1161
+01:11:01,028 --> 01:11:05,600
+Look, I'm... I'm not
+interested in you at all and...
+
+1162
+01:11:06,667 --> 01:11:08,970
+Fuck, I'm sor...
+
+1163
+01:11:09,003 --> 01:11:10,805
+I gotta go. This is...
+
+1164
+01:11:12,006 --> 01:11:13,941
+It's really not a big deal.
+
+1165
+01:11:14,976 --> 01:11:16,644
+Okay, see you around!
+
+1166
+01:11:16,677 --> 01:11:17,945
+Shit.
+
+1167
+01:11:18,780 --> 01:11:20,014
+Shit.
+
+1168
+01:11:28,523 --> 01:11:29,991
+(crying)
+
+1169
+01:11:33,127 --> 01:11:35,596
+(students chatter)
+
+1170
+01:11:49,777 --> 01:11:52,647
+(ethereal music)
+
+1171
+01:11:55,616 --> 01:11:57,350
+(music stops abruptly)
+
+1172
+01:12:17,705 --> 01:12:19,807
+(chatter)
+
+1173
+01:12:28,115 --> 01:12:29,717
+Shit.
+
+1174
+01:12:39,894 --> 01:12:42,395
+[Zack] I just really
+need to sleep right now.
+
+1175
+01:12:42,429 --> 01:12:44,665
+Nothing feels real.
+
+1176
+01:12:44,699 --> 01:12:49,003
+Like, I can see the
+code in the simulation.
+
+1177
+01:12:49,036 --> 01:12:51,038
+Hey, Mom. Yeah,
+we just got out.
+
+1178
+01:12:51,072 --> 01:12:52,740
+I'm gonna be home later.
+
+1179
+01:12:52,773 --> 01:12:55,977
+Mr. Lowstein's gonna taking
+me and Carrie to get food.
+
+1180
+01:13:07,622 --> 01:13:08,890
+(high heel breaks)
+
+1181
+01:13:08,923 --> 01:13:12,026
+Ugh, seriously? Hey!
+
+1182
+01:13:12,894 --> 01:13:14,662
+Carrie, hey!
+
+1183
+01:13:15,830 --> 01:13:18,132
+Would you just look at me?
+
+1184
+01:13:19,700 --> 01:13:22,136
+What, are you, like, mad at me?
+
+1185
+01:13:26,240 --> 01:13:27,575
+Carrie.
+
+1186
+01:13:40,021 --> 01:13:42,623
+- I didn't mean to hurt you.
+- (cellphone vibrates)
+
+1187
+01:13:47,128 --> 01:13:51,498
+- Hey, I'm here.
+- Oh, my God, Carrie.
+
+1188
+01:13:54,168 --> 01:13:55,502
+Carrie!
+
+1189
+01:14:10,017 --> 01:14:12,253
+(gentle music)
+
+1190
+01:14:12,286 --> 01:14:14,522
+(singer vocalizing)
+
+1191
+01:14:16,223 --> 01:14:18,859
+<i>♪ Through the Juno bush ♪</i>
+
+1192
+01:14:18,893 --> 01:14:24,832
+<i>♪ You see her lips are
+miming Gwen Stefani ♪</i>
+
+1193
+01:14:24,865 --> 01:14:28,069
+<i>♪ The horizon takes a trip ♪</i>
+
+1194
+01:14:28,102 --> 01:14:33,240
+<i>♪ Along her body ♪</i>
+
+1195
+01:14:33,274 --> 01:14:38,512
+<i>♪ Staring at the
+posters on your wall ♪</i>
+
+1196
+01:14:38,546 --> 01:14:43,818
+<i>♪ As they talk
+about my chances ♪</i>
+
+1197
+01:14:43,851 --> 01:14:47,822
+<i>♪ Boy, you're so tragic ♪</i>
+
+1198
+01:14:47,855 --> 01:14:51,158
+<i>♪ Your floor was damaged ♪</i>
+
+1199
+01:14:51,192 --> 01:14:53,527
+<i>♪ From months ago ♪</i>
+
+1200
+01:14:53,561 --> 01:14:59,066
+<i>♪ Where you dropped a hot
+comb dancing to neo-soul ♪</i>
+
+1201
+01:15:00,568 --> 01:15:03,237
+<i>♪ The trees are gold ♪</i>
+
+1202
+01:15:03,270 --> 01:15:06,874
+<i>♪ On your iPhone background ♪</i>
+
+1203
+01:15:06,907 --> 01:15:09,877
+<i>♪ Which is funny
+'cause you cut down ♪</i>
+
+1204
+01:15:09,910 --> 01:15:15,750
+<i>♪ Like eight last spring
+for the new lawn ♪</i>
+
+1205
+01:15:15,783 --> 01:15:20,321
+<i>♪ How's it look, baby? ♪</i>
+
+1206
+01:15:20,354 --> 01:15:24,258
+<i>♪ How's it feel? ♪</i>
+
+1207
+01:15:24,291 --> 01:15:28,262
+<i>♪ Is it too much for you? ♪</i>
+
+1208
+01:15:28,295 --> 01:15:33,768
+<i>♪ Big fucking deal ♪</i>
+
+1209
+01:15:37,671 --> 01:15:40,341
+<i>♪ Me, me, me ♪</i>
+
+1210
+01:15:40,374 --> 01:15:45,212
+<i>♪ That's all we know ♪</i>
+
+1211
+01:15:45,246 --> 01:15:48,115
+<i>♪ Me, me, me ♪</i>
+
+1212
+01:15:48,149 --> 01:15:53,587
+<i>♪ That's all we know ♪</i>
+
+1213
+01:15:54,755 --> 01:15:56,891
+<i>♪ You might think you do ♪</i>
+
+1214
+01:15:56,924 --> 01:16:01,929
+<i>♪ But I bet you don't ♪</i>
+
+1215
+01:16:02,963 --> 01:16:04,899
+<i>♪ You might think you do ♪</i>
+
+1216
+01:16:04,932 --> 01:16:09,703
+<i>♪ But I bet you don't ♪</i>
+
+1217
+01:16:11,038 --> 01:16:13,908
+(vocalizing)
+
+1218
+01:16:28,022 --> 01:16:34,095
+<i>♪ I heard you joined
+the Peace Corps ♪</i>
+
+1219
+01:16:35,162 --> 01:16:37,765
+<i>♪ Planting ferns ♪</i>
+
+1220
+01:16:37,798 --> 01:16:43,737
+<i>♪ And feeding the poor ♪</i>
+
+1221
+01:16:46,173 --> 01:16:51,645
+<i>♪ You're not so bad anymore ♪</i>
+
+1222
+01:16:52,847 --> 01:16:55,850
+(vocalizing)
+
+1223
+01:16:57,918 --> 01:17:00,721
+<i>♪ Me, me, me ♪</i>
+
+1224
+01:17:00,754 --> 01:17:03,023
+<i>♪ That's all we know ♪</i>
+
+1225
+01:17:03,057 --> 01:17:06,227
+<i>♪ That's all we know
+That's all we know ♪</i>
+
+1226
+01:17:06,260 --> 01:17:09,063
+<i>♪ Me, me, me ♪</i>
+
+1227
+01:17:09,096 --> 01:17:11,999
+<i>♪ That's all we know ♪</i>
+
+1228
+01:17:12,032 --> 01:17:14,768
+<i>♪ That's all you know ♪</i>
+
+1229
+01:17:14,802 --> 01:17:17,037
+<i>♪ You might think you do ♪</i>
+
+1230
+01:17:17,071 --> 01:17:23,010
+<i>♪ But I bet you don't ♪</i>
+
+1231
+01:17:23,043 --> 01:17:25,079
+<i>♪ You might think you do ♪</i>
+
+1232
+01:17:25,112 --> 01:17:30,184
+<i>♪ But I bet you don't ♪</i>
+
+1233
+01:17:31,285 --> 01:17:33,988
+(vocalizing)
+

@@ -1,0 +1,366 @@
+1
+00:00:52,054 --> 00:00:54,141
+This is pointless.
+
+2
+00:01:07,072 --> 00:01:08,166
+This is very good, Professor, thank you.
+
+3
+00:01:13,046 --> 00:01:14,085
+That wasn't so hard, was it?
+
+4
+00:01:19,005 --> 00:01:20,093
+So does this look wrong to you?
+
+5
+00:01:21,001 --> 00:01:22,016
+Yeah.
+
+6
+00:01:23,026 --> 00:01:25,048
+Because it is wrong.
+
+7
+00:01:25,097 --> 00:01:27,115
+Because it's missing 'Bleem'.
+
+8
+00:01:29,057 --> 00:01:31,061
+You think I just made this up, don't you?
+
+9
+00:01:32,055 --> 00:01:34,062
+Just pulled this number out of thin air, yah?
+
+10
+00:01:34,062 --> 00:01:36,093
+So you have discovered 'bleem' then?
+
+11
+00:01:36,093 --> 00:01:41,130
+I am not entertaining some delusion,
+Doctor. I am a mathematician.
+
+12
+00:01:42,092 --> 00:01:44,125
+I am pursuing the truth.
+
+13
+00:01:45,025 --> 00:01:51,117
+I'm sorry, I'm not trying to offend you, 
+I'm just trying to understand.
+
+14
+00:01:52,017 --> 00:01:54,021
+But I need you to help me understand.
+
+15
+00:01:54,009 --> 00:01:57,063
+Are you trying to understand 'bleem', Doctor?
+
+16
+00:01:59,075 --> 00:02:03,076
+Or are you trying to understand me?
+
+17
+00:02:48,065 --> 00:02:50,065
+Okay, Professor.
+
+18
+00:02:51,087 --> 00:02:54,160
+Let's assume that you're right and 'bleem' does exist.
+
+19
+00:02:56,044 --> 00:02:57,051
+It'd be a counting number, right?
+
+20
+00:02:58,014 --> 00:03:00,038
+It is an integer, yah.
+
+21
+00:03:00,073 --> 00:03:00,136
+Integer.
+
+22
+00:03:02,009 --> 00:03:06,017
+So you go 1, 2, 3...
+
+23
+00:03:07,096 --> 00:03:10,102
+'bleem,'
+4, 5, 6 - is that right?
+
+24
+00:03:11,059 --> 00:03:12,122
+Very good, Doctor.
+
+25
+00:03:14,056 --> 00:03:16,063
+Right, so if that's true...
+
+26
+00:03:17,026 --> 00:03:21,029
+...you should then be able to have 'bleem' of something, right?
+
+27
+00:03:21,095 --> 00:03:23,139
+Yeah.
+
+28
+00:03:26,096 --> 00:03:29,134
+I'd like you to do me a favor, Professor.
+
+29
+00:03:33,085 --> 00:03:36,109
+Separate out 'bleem' of those jellybeans for me.
+
+30
+00:03:42,008 --> 00:03:44,010
+Please...
+
+31
+00:03:44,028 --> 00:03:46,104
+...take your time.
+
+32
+00:04:35,099 --> 00:04:37,147
+So 'bleem' is not an integer after all.
+
+33
+00:04:45,006 --> 00:04:47,012
+Professor.
+
+34
+00:04:49,003 --> 00:04:50,067
+So 'Bleem' is not an integer...
+
+35
+00:04:50,094 --> 00:04:50,186
+AHH!
+
+36
+00:04:52,087 --> 00:04:53,172
+Bleem exists!
+
+37
+00:04:55,016 --> 00:04:56,063
+Calm down, Professor.
+
+38
+00:04:56,063 --> 00:04:58,124
+Something was preventing me...
+
+39
+00:04:59,046 --> 00:05:02,075
+I was sitting right here.
+I was watching you the entire time
+
+40
+00:05:02,096 --> 00:05:03,135
+and there was nothing preventing you,
+
+41
+00:05:04,035 --> 00:05:08,040
+except for the fact
+that 'bleem' does not exist.
+
+42
+00:05:09,044 --> 00:05:12,056
+I must get back to my research...
+
+43
+00:05:15,078 --> 00:05:17,169
+I'm sorry, Professor. I'm afraid we're done for the day.
+
+44
+00:05:20,006 --> 00:05:22,064
+I just need something to write with.
+
+45
+00:05:23,049 --> 00:05:25,096
+Please. Pencil and paper is all I ask.
+
+46
+00:05:25,096 --> 00:05:29,190
+We can talk about writing materials
+at your next evaluation, alright?
+
+47
+00:05:45,042 --> 00:05:46,070
+Doctor?
+
+48
+00:05:48,013 --> 00:05:50,052
+Take the Professor to his room.
+
+49
+00:05:50,052 --> 00:05:53,074
+Please, I am so close. I can feel it.
+
+50
+00:05:53,074 --> 00:05:54,090
+We can pick this up tomorrow.
+
+51
+00:05:54,009 --> 00:05:54,075
+Come on, Professor.
+
+52
+00:05:55,056 --> 00:05:55,145
+No.
+
+53
+00:05:59,009 --> 00:06:01,052
+Take it easy!
+
+54
+00:07:49,051 --> 00:07:52,098
+So would you say you are a man of reason, Professor?
+
+55
+00:07:53,009 --> 00:07:54,037
+Of course, yah.
+
+56
+00:07:54,037 --> 00:07:56,079
+Well, I'm a little confused...
+
+57
+00:07:56,079 --> 00:08:01,123
+...what reason could anybody possibly 
+have to keep a number secret?
+
+58
+00:08:02,076 --> 00:08:05,932
+Why did they try to burn Galileo
+at the stake, Doctor?
+
+59
+00:08:06,806 --> 00:08:10,532
+This is heresy to them.
+
+60
+00:08:11,232 --> 00:08:15,470
+We're talking about the very
+fabric of our universe here.
+
+61
+00:08:16,029 --> 00:08:20,114
+What do you know about higher dimensions, Doctor?
+
+62
+00:08:21,083 --> 00:08:23,130
+What, like parallel universes?
+
+63
+00:08:24,049 --> 00:08:28,083
+No, these are dimensions beyond what we can experience with our senses.
+
+64
+00:08:29,058 --> 00:08:34,777
+The first four are taken up by the Minkowski
+Space-Time, which we live with every day.
+
+65
+00:08:35,094 --> 00:08:40,103
+But physicists now tell us there are at least
+seven more dimensions we cannot access.
+
+66
+00:08:42,022 --> 00:08:46,064
+Abstract dimensions that permeate everything -
+yet remain completely hidden.
+
+67
+00:08:51,094 --> 00:08:52,135
+Alright.
+
+68
+00:08:53,035 --> 00:08:58,080
+We have no way to grasp the possibilities,
+to tap us the potential of these dimensions
+
+69
+00:08:58,008 --> 00:09:00,075
+because we haven't got the math.
+
+70
+00:09:05,087 --> 00:09:08,170
+So you are suggesting that with 'bleem'-
+
+71
+00:09:10,002 --> 00:09:14,054
+'Bleem' changes everything.
+
+72
+00:09:16,058 --> 00:09:18,089
+Thank you, Professor.
+
+73
+00:10:07,048 --> 00:10:08,137
+Hey!
+
+74
+00:10:17,035 --> 00:10:18,063
+Hey!
+
+75
+00:10:30,029 --> 00:10:34,125
+This next report comes from Stockbridge,
+Massachusetts, where on Thursday
+
+76
+00:10:34,386 --> 00:10:40,542
+an unidentified man was struck and killed by a car near Pinewood Elementary school.
+
+77
+00:10:40,542 --> 00:10:45,281
+But beyond the tragedy, a mystery has
+emerged as authorities have made no progress
+
+78
+00:10:45,281 --> 00:10:49,430
+in determining the victim's identity
+in the three days since the incident.
+
+79
+00:10:49,043 --> 00:10:53,110
+Police Chief Hal Malick is referring to
+the lack of any leads as 'bizarre'.
+
+80
+00:10:54,001 --> 00:10:56,045
+More on the story as it develops.
+
+81
+00:10:56,055 --> 00:10:57,074
+In other news...
+
+82
+00:11:20,057 --> 00:11:21,089
+Yeah?
+
+83
+00:11:42,057 --> 00:11:44,075
+We're doing a second sweep now.
+
+84
+00:11:44,075 --> 00:11:47,160
+He was definitely here at bedcheck,
+I haven't let anyone into the room.
+
+85
+00:12:32,073 --> 00:12:36,075
+Ah, looks like he left us a little snack.
+
+86
+00:12:38,026 --> 00:12:39,105
+Don't touch those!
+
+87
+00:12:53,002 --> 00:12:58,015
+It's just jellybeans, Doc. Want one?
+

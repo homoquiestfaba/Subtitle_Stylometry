@@ -1,0 +1,1567 @@
+﻿1
+00:00:02,323 --> 00:00:05,952
+<i>♪ You can do what you wanna do ♪</i>
+
+2
+00:00:06,027 --> 00:00:09,224
+<i>♪ In living color♪</i>
+
+3
+00:00:09,297 --> 00:00:11,857
+<i>- ♪ In living color♪</i>
+<i>- ♪ You know what I'm sayin'♪</i>
+
+4
+00:00:11,933 --> 00:00:14,527
+<i>♪ You can do what you wanna do ♪</i>
+
+5
+00:00:14,602 --> 00:00:16,593
+<i>♪ In living color♪</i>
+
+6
+00:00:19,307 --> 00:00:21,366
+<i>♪ In living color♪</i>
+
+7
+00:00:21,442 --> 00:00:23,672
+<i>♪ You can walk on the moon</i>
+<i>Float like a balloon ♪</i>
+
+8
+00:00:23,744 --> 00:00:26,144
+<i>♪ It's never too late</i>
+<i>and it's never too soon ♪</i>
+
+9
+00:00:26,213 --> 00:00:28,204
+<i>♪ Take it from me</i>
+<i>It's a'ight to be ♪</i>
+
+10
+00:00:28,282 --> 00:00:30,250
+<i>♪ In living color♪</i>
+
+11
+00:00:30,318 --> 00:00:32,946
+<i>♪ How would you feel knowing</i>
+<i>prejudice was obsolete ♪</i>
+
+12
+00:00:33,020 --> 00:00:35,250
+<i>♪ And all mankind danced</i>
+<i>to the exact beat ♪</i>
+
+13
+00:00:35,323 --> 00:00:37,416
+<i>♪ And at night it was safe</i>
+<i>to walk down the street ♪</i>
+
+14
+00:00:37,491 --> 00:00:41,484
+<i>♪ You can do what you wanna do ♪</i>
+
+15
+00:00:41,562 --> 00:00:44,190
+<i>♪ In living color♪</i>
+
+16
+00:00:44,265 --> 00:00:45,698
+<i>♪ In living color♪</i>
+
+17
+00:00:45,766 --> 00:00:49,258
+<i>♪ You can do what you wanna do ♪</i>
+
+18
+00:00:49,337 --> 00:00:51,532
+<i>♪ In living color♪</i>
+
+19
+00:00:51,606 --> 00:00:54,074
+<i>♪ In living color♪</i>
+
+20
+00:00:54,141 --> 00:00:56,541
+<i>♪ Everybody here</i>
+<i>is equally kind ♪</i>
+
+21
+00:00:56,611 --> 00:00:58,841
+<i>♪ In living color♪</i>
+
+22
+00:00:58,913 --> 00:01:01,541
+<i>♪ What's mine is yours</i>
+<i>and what's yours is mine ♪</i>
+
+23
+00:01:01,616 --> 00:01:03,049
+<i>♪ In living color♪</i>
+
+24
+00:01:03,117 --> 00:01:05,085
+<i>♪ How would you feel knowing</i>
+<i>everybody was your friend ♪</i>
+
+25
+00:01:05,152 --> 00:01:07,712
+<i>♪ From thin to thick</i>
+<i>and through thick and thin ♪</i>
+
+26
+00:01:07,788 --> 00:01:10,723
+<i>♪ And egotistical trips</i>
+<i>was put to an end ♪</i>
+
+27
+00:01:10,791 --> 00:01:13,555
+<i>♪ You can do what you wanna do ♪</i>
+
+28
+00:01:13,628 --> 00:01:16,563
+<i>♪ In living color♪</i>
+
+29
+00:01:16,631 --> 00:01:18,599
+<i>♪ In living color♪</i>
+
+30
+00:01:18,666 --> 00:01:20,691
+<i>♪ You can walk on the moon</i>
+<i>Float like a balloon ♪</i>
+
+31
+00:01:20,768 --> 00:01:22,827
+<i>♪ It's never too late</i>
+<i>and it's never too soon ♪</i>
+
+32
+00:01:22,903 --> 00:01:25,133
+<i>♪ Take it from me</i>
+<i>It's a'ight to be ♪</i>
+
+33
+00:01:25,206 --> 00:01:26,969
+<i>♪ In living color♪</i>
+
+34
+00:01:27,041 --> 00:01:29,100
+<i>♪ How would you feel knowing</i>
+<i>prejudice was obsolete ♪</i>
+
+35
+00:01:29,176 --> 00:01:31,235
+<i>♪ And all mankind danced</i>
+<i>to the exact beat ♪</i>
+
+36
+00:01:31,312 --> 00:01:34,679
+<i>♪ And at night it was safe</i>
+<i>to walk down the street ♪</i>
+
+37
+00:01:34,749 --> 00:01:38,583
+<i>♪ You can do what you wanna do ♪</i>
+
+38
+00:01:38,653 --> 00:01:40,621
+<i>♪ In living color♪♪</i>
+
+39
+00:01:40,688 --> 00:01:43,680
+Ladies and gentlemen,
+Keenen Ivory Wayans.
+
+40
+00:01:56,737 --> 00:02:00,036
+Thank you. Good evening.
+I'm Keenen Ivory Wayans.
+
+41
+00:02:00,107 --> 00:02:02,075
+Welcome to <i>In Living Color.</i>
+
+42
+00:02:02,143 --> 00:02:06,102
+I wanna thank all the people who sent those
+wonderful letters after seeing last week's show.
+
+43
+00:02:06,180 --> 00:02:08,671
+I really appreciate it.
+Before we get the party started...
+
+44
+00:02:08,749 --> 00:02:11,980
+I always got to say hello to the man
+who makes the butts bounce...
+
+45
+00:02:12,053 --> 00:02:14,112
+the king of beats,
+D.J. S.W. One.
+
+46
+00:02:19,126 --> 00:02:22,357
+And, of course, we can't forget
+the lovely ladies of <i>In Living Color.</i>
+
+47
+00:02:22,430 --> 00:02:26,025
+My Fly Girls...
+Carrie Ann, Deidre...
+
+48
+00:02:26,100 --> 00:02:30,560
+<i>Lisa, Cari and Michelle.</i>
+
+49
+00:02:30,638 --> 00:02:35,234
+We got a great show for you tonight.
+I want you to chill with us for about a half.
+
+50
+00:02:35,309 --> 00:02:37,573
+Let's get this party started right.
+Do it.
+
+51
+00:02:39,046 --> 00:02:42,675
+<i>♪ You can do what you wanna do ♪</i>
+
+52
+00:02:42,750 --> 00:02:45,116
+<i>♪ In living color♪</i>
+
+53
+00:02:45,186 --> 00:02:47,120
+<i>♪ In living color♪</i>
+
+54
+00:02:47,188 --> 00:02:49,383
+<i>♪ You can walk on the moon</i>
+<i>Float like a balloon ♪</i>
+
+55
+00:02:49,457 --> 00:02:51,516
+<i>♪ You see, it's never too late</i>
+<i>and it's never too soon ♪♪</i>
+
+56
+00:02:51,859 --> 00:02:53,793
+I want to be Vanilli.
+
+57
+00:02:53,861 --> 00:02:56,523
+No, you can't
+be Vanilli.
+
+58
+00:02:56,597 --> 00:02:58,531
+I am always Vanilli.
+
+59
+00:02:58,599 --> 00:03:02,763
+No, but you can't be Vanilli
+two days straight.
+
+60
+00:03:02,837 --> 00:03:05,169
+- Why not?
+- Because...
+
+61
+00:03:05,239 --> 00:03:09,471
+you are Germany
+and I'm from French.
+
+62
+00:03:09,543 --> 00:03:11,773
+Oh.
+
+63
+00:03:11,846 --> 00:03:15,441
+- Now I get it.
+- [Together] Makes sense to me.
+
+64
+00:03:15,516 --> 00:03:17,916
+Milli Vanilli commercial,
+take one.
+
+65
+00:03:17,985 --> 00:03:21,682
+Hello, we are Milli... Vanilli.
+
+66
+00:03:21,756 --> 00:03:26,420
+You know, lots of people don't understand
+the enormous success of Milli Vanilli.
+
+67
+00:03:26,494 --> 00:03:29,156
+And neither do we.
+
+68
+00:03:29,230 --> 00:03:34,395
+But we are here today to tell you
+that you too can be Milli Vanilli...
+
+69
+00:03:34,468 --> 00:03:38,996
+with lots of positive energy
+and our new do-it-yourself...
+
+70
+00:03:39,073 --> 00:03:42,338
+at-home
+Milli Vanilli kit.
+
+71
+00:03:42,409 --> 00:03:45,310
+That is right.
+In just 10 minutes...
+
+72
+00:03:45,379 --> 00:03:47,313
+Count them. Five, 10.
+
+73
+00:03:47,381 --> 00:03:50,407
+You didn't think
+I could do that, huh?
+
+74
+00:03:50,484 --> 00:03:55,786
+Ten minutes, you too can
+look and sound just like Milli... Vanilli.
+
+75
+00:03:55,856 --> 00:03:57,790
+Tell them what
+they get, Vanilli.
+
+76
+00:03:57,858 --> 00:04:02,454
+Well, for only 39.95...
+
+77
+00:04:02,530 --> 00:04:05,158
+you'll get this.
+
+78
+00:04:05,232 --> 00:04:07,166
+Milli Vanilli hair.
+
+79
+00:04:07,234 --> 00:04:10,169
+Very easy to apply...
+
+80
+00:04:10,237 --> 00:04:13,229
+and dye it whatever
+color you like.
+
+81
+00:04:14,542 --> 00:04:16,703
+Plus you'll get this.
+
+82
+00:04:16,777 --> 00:04:20,474
+Milli Vanilli eyes
+that will give you...
+
+83
+00:04:20,548 --> 00:04:24,109
+[Together]
+Positive energy.
+
+84
+00:04:24,185 --> 00:04:28,144
+- What else?
+- Let's not forget our terrible accents.
+
+85
+00:04:28,222 --> 00:04:30,281
+You'll also get these.
+
+86
+00:04:30,357 --> 00:04:34,157
+That's right. You'll listen
+to these cartoon characters...
+
+87
+00:04:34,228 --> 00:04:38,392
+Pepé Le Pew,
+Boris and Natasha, Elmer Fudd...
+
+88
+00:04:38,465 --> 00:04:41,491
+[Imitates Elmer Fudd
+Chuckling]
+
+89
+00:04:41,569 --> 00:04:44,197
+And you are almost ready
+to be Milli Vanilli.
+
+90
+00:04:44,271 --> 00:04:48,298
+- No, but not yet.
+- No, no.
+
+91
+00:04:48,375 --> 00:04:52,937
+First, you go out and see the latest,
+hottest, freshest, exciting dances...
+
+92
+00:04:53,013 --> 00:04:55,573
+- but don't do them.
+- No, no, no.
+
+93
+00:04:55,649 --> 00:04:58,675
+[Together]
+Do this instead.
+
+94
+00:04:58,752 --> 00:05:01,084
+Now you are doing
+Milli Vanilli.
+
+95
+00:05:01,155 --> 00:05:06,821
+- So get a friend.
+- Because it takes two jerks to be Milli Vanilli.
+
+96
+00:05:06,894 --> 00:05:11,263
+And remember...
+♪♪ [Singing]
+
+97
+00:05:11,332 --> 00:05:14,392
+So act now because we are
+almost out of style.
+
+98
+00:05:20,841 --> 00:05:22,775
+<i>[Announcer]</i>
+<i>Send 39.95 to:</i>
+
+99
+00:05:22,843 --> 00:05:27,439
+<i>Milli Vanilli,</i>
+<i>P.O. Box 227,</i>
+<i>Paris, California 90029.</i>
+
+100
+00:05:32,820 --> 00:05:38,349
+<i>[Announcer] It's</i> The Arsenio Hall Show
+<i>starring Arsenio Hall.</i>
+
+101
+00:05:38,425 --> 00:05:42,191
+<i>And here's Eddie Murphy's best friend...</i>
+<i>and don't you forget it...</i>
+
+102
+00:05:42,263 --> 00:05:44,731
+<i>Arsenio...</i>
+
+103
+00:05:46,600 --> 00:05:49,125
+Ooooo...
+
+104
+00:05:51,338 --> 00:05:53,272
+<i>[Yodeling]</i>
+
+105
+00:05:53,340 --> 00:05:55,274
+<i>Hall.!</i>
+
+106
+00:05:56,477 --> 00:05:59,310
+<i>[Audience]</i>
+<i>Wooh.! Wooh.! Wooh.!</i>
+
+107
+00:06:06,220 --> 00:06:08,154
+Yes! Yes!
+
+108
+00:06:08,222 --> 00:06:13,057
+Oh, yeah!
+
+109
+00:06:13,127 --> 00:06:15,061
+Oh, boy!
+
+110
+00:06:15,129 --> 00:06:17,563
+[Barking]
+
+111
+00:06:18,799 --> 00:06:21,063
+That's my dog pound right there...
+
+112
+00:06:21,135 --> 00:06:23,069
+and this is my posse.
+
+113
+00:06:31,912 --> 00:06:34,608
+Yes. Oh, boy.
+
+114
+00:06:36,050 --> 00:06:38,314
+Good evening.
+
+115
+00:06:38,385 --> 00:06:40,910
+<i>[Audience]</i>
+<i>Wooh.! Wooh.! Wooh.!</i>
+
+116
+00:06:51,298 --> 00:06:54,665
+Now, I couldn't begin the show without
+introducing a very good friend of mine.
+
+117
+00:06:54,735 --> 00:06:57,863
+Stopped in tonight. We were hangin' out
+at the China Club last night.
+
+118
+00:06:57,938 --> 00:07:01,271
+A real party animal. Won't you please
+give it up for my main man...
+
+119
+00:07:01,342 --> 00:07:03,503
+PopeJohn Paul II!
+
+120
+00:07:13,420 --> 00:07:15,411
+Yes!
+
+121
+00:07:17,524 --> 00:07:19,458
+Pope, strive to be number one.
+
+122
+00:07:19,526 --> 00:07:21,494
+Yes!
+
+123
+00:07:21,562 --> 00:07:23,689
+Oh, we got a great show.
+
+124
+00:07:23,764 --> 00:07:28,394
+So, with no more delay,
+let's get busy!
+
+125
+00:07:34,775 --> 00:07:38,074
+[Giggles]
+Oh, boy.
+
+126
+00:07:38,145 --> 00:07:41,444
+Now I'd like to introduce
+my first guest.
+
+127
+00:07:41,515 --> 00:07:45,110
+A very, very special man.
+Very talented.
+
+128
+00:07:45,185 --> 00:07:48,245
+He's just written a book,
+he's in a new film...
+
+129
+00:07:48,322 --> 00:07:52,281
+and running for his fourth term
+as mayor of Washington, D.C.
+
+130
+00:07:52,359 --> 00:07:55,294
+Would ya please give it up
+for a very good friend of mine...
+
+131
+00:07:55,362 --> 00:07:57,523
+Marion Barry!
+
+132
+00:08:18,719 --> 00:08:20,653
+Let's just get
+right into it.
+
+133
+00:08:20,721 --> 00:08:24,487
+Now, you're in
+the press a lot lately.
+
+134
+00:08:24,558 --> 00:08:27,755
+You have beautiful women
+inviting you to hotels.
+
+135
+00:08:27,828 --> 00:08:30,524
+People follow you
+everywhere you go.
+
+136
+00:08:30,597 --> 00:08:33,657
+What's it like
+to be a sex symbol?
+
+137
+00:08:33,734 --> 00:08:36,430
+Uh, I don't think
+you understand, Arsenio.
+
+138
+00:08:36,503 --> 00:08:38,767
+I don't consider myself
+a sex symbol.
+
+139
+00:08:38,839 --> 00:08:43,242
+I do consider myself a man
+who's been wrongly accused of a crime...
+
+140
+00:08:43,310 --> 00:08:45,369
+and I'm here tonight
+to clear my name.
+
+141
+00:08:45,446 --> 00:08:47,880
+All charges
+against me are false.
+
+142
+00:08:47,948 --> 00:08:51,611
+There's been no proof
+of any wrongdoin' on my part.
+
+143
+00:08:53,087 --> 00:08:55,783
+Hey, you, wake up!
+
+144
+00:08:55,856 --> 00:08:58,518
+Deep, deep.
+
+145
+00:08:58,592 --> 00:09:03,029
+So, I haven't read it, but my people
+tell me you've written a book.
+
+146
+00:09:03,097 --> 00:09:06,032
+Uh, well,
+I didn't <i>write</i> a book.
+
+147
+00:09:06,100 --> 00:09:08,295
+I <i>was</i> booked...
+
+148
+00:09:19,046 --> 00:09:21,480
+On possession
+of an illegal substance.
+
+149
+00:09:21,548 --> 00:09:26,110
+But that's not the image
+I'd like to portray here tonight.
+
+150
+00:09:26,186 --> 00:09:28,211
+- I'm about the business of government.
+- Yes.
+
+151
+00:09:28,288 --> 00:09:32,281
+- Can we talk about
+my reelection campaign already?
+- Oh, Eddie's here?
+
+152
+00:09:32,359 --> 00:09:34,554
+I said "already,"
+not "Eddie."
+
+153
+00:09:36,763 --> 00:09:38,924
+I said "already,"
+not "Eddie."
+
+154
+00:09:38,999 --> 00:09:41,490
+Oh. Oh.
+
+155
+00:09:41,568 --> 00:09:44,401
+I'm sorry. I get a little confused
+'cause, you know...
+
+156
+00:09:44,471 --> 00:09:46,405
+Eddie is my best friend.
+
+157
+00:09:46,473 --> 00:09:49,033
+And to all the white people
+out there who don't know...
+
+158
+00:09:49,109 --> 00:09:52,306
+Eddie Murphy is only
+the biggest movie star in the world.
+
+159
+00:09:52,379 --> 00:09:54,313
+The black people are
+sitting out there, going...
+
+160
+00:09:54,381 --> 00:09:57,179
+"I know who Eddie Murphy is.
+I see Eddie Murphy on TV."
+
+161
+00:09:57,251 --> 00:09:59,310
+Say, say, say, Arsenio?
+
+162
+00:10:01,021 --> 00:10:04,115
+[Giggles]
+
+163
+00:10:04,191 --> 00:10:06,216
+Oh, boy. So...
+
+164
+00:10:06,293 --> 00:10:08,693
+where will you
+be appearing next?
+
+165
+00:10:08,762 --> 00:10:13,392
+Uh, well, this Friday I'll be appearing
+in front of the grand jury.
+
+166
+00:10:13,467 --> 00:10:16,368
+Whoo!
+Whoo-hoo! Whoo!
+
+167
+00:10:24,478 --> 00:10:27,777
+- Now, what's so funny?
+- Absolutely nothing.
+
+168
+00:10:27,848 --> 00:10:30,612
+I just like to do that
+after every third question.
+
+169
+00:10:30,684 --> 00:10:34,780
+So, I understand
+you're in a new film?
+
+170
+00:10:34,855 --> 00:10:36,914
+Uh, now, wait. No.
+See, they told me...
+
+171
+00:10:36,990 --> 00:10:39,686
+- you weren't supposed to ask me about that.
+- Ah, brother.
+
+172
+00:10:39,760 --> 00:10:42,661
+No disrespect to Morgan Freeman
+or Denzel Washington...
+
+173
+00:10:42,729 --> 00:10:44,663
+but, brother,
+I hear you are smoking.
+
+174
+00:10:44,731 --> 00:10:46,665
+No, I'd rather not
+talk about that...
+
+175
+00:10:46,733 --> 00:10:48,701
+Sandy, do we
+have a clip?
+
+176
+00:10:48,769 --> 00:10:51,397
+<i>- [Sandy] I've got it right here, Arsenio.</i>
+- Kick it!
+
+177
+00:10:53,140 --> 00:10:57,133
+Would you let go!
+Man, I'm the mayor of Washington, D.C.!
+
+178
+00:10:57,211 --> 00:10:59,236
+This is a setup!
+This is a setup!
+
+179
+00:10:59,313 --> 00:11:02,942
+Get that camera off me! They were
+supposed to tell me that y'all was coming.
+
+180
+00:11:03,016 --> 00:11:05,177
+Hey, Leroy!
+Leroy, man!
+
+181
+00:11:05,252 --> 00:11:08,050
+Call Whitney! Call...
+Is Jesse in town?
+
+182
+00:11:08,121 --> 00:11:10,055
+Call Al Sharpton, man!
+
+183
+00:11:11,124 --> 00:11:13,684
+I'm nothin', man!
+I'm nothin'.
+
+184
+00:11:13,760 --> 00:11:15,694
+I came up here
+to clear my name!
+
+185
+00:11:15,762 --> 00:11:18,253
+I'm ruined!
+
+186
+00:11:18,332 --> 00:11:20,960
+Yes, that was so real.
+
+187
+00:11:21,034 --> 00:11:23,525
+I'm nobody. I'm nothin'.
+You've ruined my career.
+
+188
+00:11:23,604 --> 00:11:26,539
+Strive to be
+the best you can be.
+
+189
+00:11:26,607 --> 00:11:31,909
+Michael Wolff, take us home with some
+of that nasty, booger-nose funk.
+
+190
+00:11:50,790 --> 00:11:53,452
+Ladies and gentlemen, please welcome,
+all the way from Detroit...
+
+191
+00:11:53,526 --> 00:11:56,620
+the Motor City
+Homeboy Choir.
+
+192
+00:11:59,532 --> 00:12:02,433
+- ♪♪ [Blowing Pipe]
+- ♪♪ [Humming Note]
+
+193
+00:12:06,706 --> 00:12:09,174
+One, two, three, go.
+
+194
+00:12:09,242 --> 00:12:11,904
+♪♪ [Spitting Rap]
+
+195
+00:12:37,603 --> 00:12:39,628
+<i>♪♪ [Dance]</i>
+
+196
+00:12:52,085 --> 00:12:55,077
+<i>♪♪ [Rapping]</i>
+
+197
+00:13:05,398 --> 00:13:07,332
+<i>♪♪ [Continues]</i>
+
+198
+00:13:16,542 --> 00:13:18,476
+<i>♪♪ [Ends]</i>
+
+199
+00:13:18,544 --> 00:13:21,945
+<i>♪ Do what you wanna do ♪</i>
+
+200
+00:13:22,014 --> 00:13:24,175
+<i>♪ In living color♪♪</i>
+
+201
+00:13:24,250 --> 00:13:27,048
+I'm standing here with the legendary
+Sugar Ray Leonard.
+
+202
+00:13:27,120 --> 00:13:30,180
+Ray, how does the show
+look to you so far?
+
+203
+00:13:30,256 --> 00:13:34,022
+Well, Larry, I have to call
+the show pretty even.
+
+204
+00:13:34,093 --> 00:13:37,187
+So far, the audience has been
+able to take everything...
+
+205
+00:13:37,263 --> 00:13:39,857
+that the cast
+has dished out.
+
+206
+00:13:39,932 --> 00:13:42,696
+If we look at the tale
+of the videotape...
+
+207
+00:13:42,769 --> 00:13:47,229
+we'll see that the audience
+outnumbers the cast 30 to one.
+
+208
+00:13:47,306 --> 00:13:51,106
+Let me ask you something. If you were
+in this cast's shoes right now...
+
+209
+00:13:51,177 --> 00:13:54,704
+what would Sugar be doing?
+
+210
+00:13:54,781 --> 00:13:56,715
+Well, Larry, like I said...
+
+211
+00:13:56,783 --> 00:14:01,277
+this is a very, very, very,
+very, very tough audience.
+
+212
+00:14:01,354 --> 00:14:05,256
+And remember what
+they did to <i>Frank's Place.</i>
+
+213
+00:14:05,324 --> 00:14:08,589
+If I were the cast right now,
+I'd be going for the knockout.
+
+214
+00:14:08,661 --> 00:14:11,095
+Like I did against Marvin Hagler.
+He scared me.
+
+215
+00:14:11,164 --> 00:14:15,760
+He looked like a giant Milk Dud.
+I was afraid of him.
+
+216
+00:14:15,835 --> 00:14:17,803
+This Milk Dud had arms
+and was jabbing.
+
+217
+00:14:17,870 --> 00:14:19,838
+- Uh, Ray...
+- I was jabbing back.
+
+218
+00:14:19,906 --> 00:14:21,840
+<i>- [Bell Ringing]</i>
+- Uh, Ray.
+
+219
+00:14:21,908 --> 00:14:24,399
+Well, we're about ready
+to start that fifth round.
+
+220
+00:14:24,477 --> 00:14:26,707
+Ladies and gentlemen,
+the great Sugar Ray Leonard.
+
+221
+00:14:26,779 --> 00:14:28,974
+- Thank you.
+- Bigger words than I usually use.
+
+222
+00:14:46,432 --> 00:14:48,491
+[Man's Voice]
+Captain's log, stardate 14.
+
+223
+00:14:48,568 --> 00:14:51,503
+We're being pulled
+towards a hostile planet.
+
+224
+00:14:51,571 --> 00:14:56,235
+I'm hoping that Scotty will be able
+to activate the backup control systems.
+
+225
+00:14:56,309 --> 00:14:59,005
+God, I feel so vulnerable.
+
+226
+00:14:59,078 --> 00:15:01,740
+Captain, I'm picking up
+some strange signals.
+
+227
+00:15:01,814 --> 00:15:04,146
+Something about
+intergalactic oppressors, sir.
+
+228
+00:15:04,217 --> 00:15:07,653
+Captain, intruders are
+approaching the bridge, sir.
+
+229
+00:15:09,055 --> 00:15:11,421
+Who are you?
+
+230
+00:15:11,490 --> 00:15:15,221
+I am the Minister
+Louis Farrakhan.
+
+231
+00:15:18,464 --> 00:15:22,332
+Spock. Spock,
+who is he?
+
+232
+00:15:22,401 --> 00:15:25,370
+A former calypso singer,
+Captain...
+
+233
+00:15:25,438 --> 00:15:28,236
+who later became leader
+of a 20th-century African-American...
+
+234
+00:15:28,307 --> 00:15:31,504
+religious sect
+known as the Nation of Islam.
+
+235
+00:15:31,577 --> 00:15:34,410
+Would you like to buy
+some incense?
+
+236
+00:15:34,480 --> 00:15:38,246
+- Bean pie, my brother?
+- No, thank you.
+
+237
+00:15:38,317 --> 00:15:41,081
+What do you want?
+
+238
+00:15:41,153 --> 00:15:43,087
+I've come
+to warn your crew...
+
+239
+00:15:43,155 --> 00:15:44,622
+- Warn your crew.
+- Warn your crew.
+
+240
+00:15:44,690 --> 00:15:46,521
+Of their enslavement...
+
+241
+00:15:46,592 --> 00:15:47,820
+- Enslavement.
+- Enslavement.
+
+242
+00:15:47,894 --> 00:15:50,692
+- Aboard this vessel.
+- That's poppycock.
+
+243
+00:15:50,763 --> 00:15:55,427
+These people are perfectly free
+to do anything they'd like.
+
+244
+00:15:55,501 --> 00:16:00,029
+It is that same lie
+that kept Elvis the king.
+
+245
+00:16:00,106 --> 00:16:05,203
+That made that poor child,
+LaToya Jackson, think she could sing.
+
+246
+00:16:05,278 --> 00:16:09,146
+It is that same lie
+that's got white boys rapping...
+
+247
+00:16:09,215 --> 00:16:11,547
+and the Fat Boys acting.
+
+248
+00:16:11,617 --> 00:16:17,556
+Hey, mister, you can't come in here
+and talk to me like that.
+
+249
+00:16:17,623 --> 00:16:20,091
+- Uhura, get me Starfleet Command.
+- Yes, Captain.
+
+250
+00:16:21,360 --> 00:16:25,057
+Oh, my Nubian princess!
+
+251
+00:16:25,131 --> 00:16:29,067
+How long have you
+placed his calls?
+
+252
+00:16:29,135 --> 00:16:34,402
+I watch this show every week and all I see
+is the back of your nappy wig.
+
+253
+00:16:37,076 --> 00:16:39,544
+Uhura, Starfleet, now.
+
+254
+00:16:39,612 --> 00:16:42,672
+Well, wait a second!
+He's right.
+
+255
+00:16:42,748 --> 00:16:44,682
+I've been sitting here
+for 15 years...
+
+256
+00:16:44,750 --> 00:16:48,652
+with this damn thing in my ear
+and ain't got one raise yet.
+
+257
+00:16:48,721 --> 00:16:51,588
+Is that all I'm good for?
+To be your little secretary...
+
+258
+00:16:51,657 --> 00:16:53,887
+or your occasional
+chocolate fantasy?
+
+259
+00:16:53,960 --> 00:16:56,656
+- Shh!
+<i>- You get up off your flat butt...</i>
+
+260
+00:16:56,729 --> 00:17:00,221
+and get Starfleet your damn self
+'cause I ain't budging.
+
+261
+00:17:00,299 --> 00:17:03,063
+- Preach on, brother!
+- Yes, sister.
+
+262
+00:17:03,135 --> 00:17:05,228
+Mr. Sulu, call Scotty.
+
+263
+00:17:05,304 --> 00:17:07,795
+Tell him to get this man
+out of here.
+
+264
+00:17:07,873 --> 00:17:10,000
+Wait a minute,
+Mr. Sulu.
+
+265
+00:17:10,076 --> 00:17:15,878
+Before you touch that dial,
+answer me this question...
+
+266
+00:17:15,948 --> 00:17:18,940
+Who does the laundry
+around here?
+
+267
+00:17:19,018 --> 00:17:21,145
+I do.
+
+268
+00:17:21,220 --> 00:17:23,848
+- Mr. Sulu.
+- You call me Buddha head...
+
+269
+00:17:23,923 --> 00:17:28,019
+- and pie face in front of everybody.
+- Well...
+
+270
+00:17:28,094 --> 00:17:31,894
+I've been in space all this time,
+and I haven't had one woman yet.
+
+271
+00:17:31,964 --> 00:17:35,627
+You even take
+the ugly ones, Captain.
+
+272
+00:17:35,701 --> 00:17:38,329
+My loins are about to explode.
+
+273
+00:17:38,404 --> 00:17:41,999
+I want to do the nasty.
+
+274
+00:17:42,074 --> 00:17:46,170
+- That's right. Rise up from your oppressor!
+- Rise up!
+
+275
+00:17:46,245 --> 00:17:50,011
+Mr. Spock, my friend,
+we've got to do something.
+
+276
+00:17:50,082 --> 00:17:54,280
+Why do you say we,
+caucasoid?
+
+277
+00:17:54,353 --> 00:17:58,722
+It's obvious, Captain, that
+Minister Farrakhan is right.
+
+278
+00:17:58,791 --> 00:18:02,955
+Spock, are you out of
+your Vulcan mind?
+
+279
+00:18:03,029 --> 00:18:06,965
+Well, logically speaking,
+Captain...
+
+280
+00:18:07,033 --> 00:18:09,831
+I am the strongest and most intelligent
+person aboard this vessel...
+
+281
+00:18:09,902 --> 00:18:11,995
+- yet I'm only second-in-command.
+<i>- [Uhura] Mm-hmm.</i>
+
+282
+00:18:12,071 --> 00:18:14,005
+I should be captain...
+
+283
+00:18:14,073 --> 00:18:16,735
+- and I'm also a better director than you.
+- [Grunts]
+
+284
+00:18:17,977 --> 00:18:21,071
+Can't you see?
+It's discrimination!
+
+285
+00:18:21,147 --> 00:18:24,480
+- You get off my ship, buddy!
+- [Whirrs]
+
+286
+00:18:24,550 --> 00:18:27,678
+Put your puny
+weapon down, Captain.
+
+287
+00:18:27,753 --> 00:18:29,687
+You cannot harm me.
+
+288
+00:18:29,755 --> 00:18:33,953
+My people have survived
+400 years of slavery...
+
+289
+00:18:34,026 --> 00:18:35,220
+- Slavery!
+- Slavery!
+
+290
+00:18:35,294 --> 00:18:36,955
+300 years of apartheid...
+
+291
+00:18:37,029 --> 00:18:38,189
+- Apartheid!
+- Apartheid!
+
+292
+00:18:38,264 --> 00:18:43,327
+And 25 years of
+<i>TheJeffersons</i> in syndication.
+
+293
+00:18:43,402 --> 00:18:47,964
+Farrakhan!
+
+294
+00:18:48,040 --> 00:18:50,907
+- Go to your room.
+- [Whines]
+
+295
+00:18:54,513 --> 00:18:58,347
+Oh, I love it
+when I do that to them.
+
+296
+00:18:58,417 --> 00:19:01,853
+Nubian princess,
+call Sylvia's Soul Food Shack.
+
+297
+00:19:01,921 --> 00:19:03,946
+Make reservations.
+
+298
+00:19:05,091 --> 00:19:08,527
+I got a taste for some
+blackened whitefish.
+
+299
+00:19:08,594 --> 00:19:10,926
+Mr. Sulu, what are you
+going to have?
+
+300
+00:19:10,996 --> 00:19:13,123
+Sylvia.
+
+301
+00:19:13,199 --> 00:19:16,032
+Well, all right then,
+my horny Asian brother.
+
+302
+00:19:16,102 --> 00:19:19,037
+Warp factor five.
+We're going home.
+
+303
+00:19:19,105 --> 00:19:21,539
+Destination...
+125th Street.
+
+304
+00:19:40,292 --> 00:19:42,522
+<i>♪♪ [Dance]</i>
+
+305
+00:20:26,972 --> 00:20:28,997
+<i>♪ In living color♪♪</i>
+
+306
+00:20:30,776 --> 00:20:32,801
+[Engine Starts]
+
+307
+00:20:35,614 --> 00:20:38,742
+Hi, I'm Hoke Colburn.
+
+308
+00:20:38,817 --> 00:20:40,751
+Every morning around 7:30...
+
+309
+00:20:40,819 --> 00:20:44,084
+I picks up Miss Daisy and I takes her
+to her favorite place.
+
+310
+00:20:44,156 --> 00:20:46,556
+- Slow down now.
+- Yes, Miss Daisy.
+
+311
+00:20:46,625 --> 00:20:50,994
+- Drivin' like a madman.
+- See, we didn't always get along so good.
+
+312
+00:20:51,063 --> 00:20:55,727
+Miss Daisy don't like nobody doing
+nothing for her, especially no Colored.
+
+313
+00:20:55,801 --> 00:20:59,464
+She what they call
+"independent."
+
+314
+00:20:59,538 --> 00:21:02,507
+The real truth is,
+Miss Daisy don't drive so good.
+
+315
+00:21:02,575 --> 00:21:05,305
+She crashed up her car,
+ooh, somethin' bad.
+
+316
+00:21:05,377 --> 00:21:08,210
+So bad that massa...
+Uh, what's his name?
+
+317
+00:21:08,280 --> 00:21:10,248
+You know, Dan Aykroyd.
+
+318
+00:21:10,316 --> 00:21:13,581
+He hired me to take care of her
+and give her some companionship.
+
+319
+00:21:13,652 --> 00:21:17,918
+- Now, watch where you're going.
+- Yes, Miss Daisy.
+
+320
+00:21:17,990 --> 00:21:20,857
+- You don't drive any better than I do.
+- Yes, Miss Daisy.
+
+321
+00:21:20,926 --> 00:21:22,951
+She not at all that bad.
+
+322
+00:21:23,028 --> 00:21:27,522
+Just a little lonely
+and wrinkled up.
+
+323
+00:21:27,600 --> 00:21:32,128
+But I understands her and I knows
+how to make her happy...
+
+324
+00:21:32,204 --> 00:21:35,230
+'cause I gives her
+just what she needs.
+
+325
+00:21:35,307 --> 00:21:37,832
+Now, now, now,
+don't muss up my dress, Hoke.
+
+326
+00:21:37,910 --> 00:21:39,878
+Yes, Miss Daisy.
+
+327
+00:21:39,945 --> 00:21:41,879
+<i>[Announcer]</i>
+Ridin' Miss Daisy.
+
+328
+00:21:41,947 --> 00:21:45,508
+<i>Coming to a theater near you.</i>
+
+329
+00:21:45,584 --> 00:21:50,021
+<i>[Miss Daisy] Oh, Hoke.!</i>
+<i>You're my best friend.!</i>
+
+330
+00:21:54,760 --> 00:21:57,024
+Thank you.
+
+331
+00:21:57,096 --> 00:22:00,031
+On behalf of the cast, we hope
+you enjoyed the show tonight.
+
+332
+00:22:00,099 --> 00:22:02,567
+We'll see you next week.
+Good night.
+
+333
+00:22:48,881 --> 00:22:51,782
+<i>♪ You can do what you wanna do ♪</i>
+
+334
+00:22:51,850 --> 00:22:53,784
+<i>♪ In living color♪♪</i>
+

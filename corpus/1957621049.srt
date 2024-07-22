@@ -1,0 +1,4621 @@
+1
+00:00:00,566 --> 00:00:03,733
+- Hi, I'm Ted V. Mikels, a film maker.
+
+2
+00:00:04,607 --> 00:00:07,680
+World peace has not been
+achieved in the century,
+
+3
+00:00:07,680 --> 00:00:09,961
+and may never be achieved.
+
+4
+00:00:09,961 --> 00:00:13,415
+The film you are about to
+see is about man's inhumanity
+
+5
+00:00:13,415 --> 00:00:14,615
+to man.
+
+6
+00:00:14,615 --> 00:00:17,532
+(percussive music)
+
+7
+00:00:58,752 --> 00:01:01,419
+(ominous music)
+
+8
+00:01:20,729 --> 00:01:23,646
+(percussive music)
+
+9
+00:03:52,894 --> 00:03:55,977
+(structures explode)
+
+10
+00:04:16,197 --> 00:04:18,364
+(screams)
+
+11
+00:04:47,357 --> 00:04:48,767
+- [Radio Announcer] On the second front,
+
+12
+00:04:48,767 --> 00:04:51,442
+the Liberation Army is
+meeting heavy resistance
+
+13
+00:04:51,442 --> 00:04:54,175
+by the better equipped
+and better trained Army
+
+14
+00:04:54,175 --> 00:04:55,971
+of the Republic.
+
+15
+00:04:55,971 --> 00:04:57,965
+Casualties are heavy on both sides,
+
+16
+00:04:57,965 --> 00:05:00,501
+but the fighters of the
+New Order remain determined
+
+17
+00:05:00,501 --> 00:05:03,417
+to push through to the country's border.
+
+18
+00:05:03,417 --> 00:05:05,911
+Food supplies remain scarce,
+and fighters are weary,
+
+19
+00:05:05,911 --> 00:05:09,166
+and are often without water, making gains
+
+20
+00:05:09,166 --> 00:05:11,244
+even more difficult.
+
+21
+00:05:11,244 --> 00:05:14,163
+This radio frequency will
+continue to report news
+
+22
+00:05:14,163 --> 00:05:17,297
+of the warfare hourly,
+with momentary updates
+
+23
+00:05:17,297 --> 00:05:18,975
+on major changes.
+
+24
+00:05:18,975 --> 00:05:21,392
+Keep tuned to this frequency.
+
+25
+00:05:44,028 --> 00:05:47,028
+(distant explosion)
+
+26
+00:05:49,548 --> 00:05:52,548
+(distant gun fires)
+
+27
+00:05:54,599 --> 00:05:56,925
+(bomb whistles)
+
+28
+00:05:56,925 --> 00:05:59,925
+(distant explosion)
+
+29
+00:06:04,922 --> 00:06:06,750
+- Well, I don't care what
+in the hell they're doin'.
+
+30
+00:06:06,750 --> 00:06:10,736
+I own this plantation, and
+I sweat blood to keep it!
+
+31
+00:06:10,736 --> 00:06:11,910
+And I ain't leavin'.
+
+32
+00:06:11,910 --> 00:06:13,885
+- You better take what you can now.
+
+33
+00:06:13,885 --> 00:06:16,030
+I see the handwriting on the wall.
+
+34
+00:06:16,030 --> 00:06:17,339
+- Oh, you're nuts woman.
+
+35
+00:06:17,339 --> 00:06:20,305
+You're always seeing
+things that ain't there.
+
+36
+00:06:20,305 --> 00:06:21,435
+You takin' what you want?
+
+37
+00:06:21,435 --> 00:06:23,087
+- I'm takin' what I need to get by.
+
+38
+00:06:23,087 --> 00:06:25,112
+I'm only allowed one bag on the airplane,
+
+39
+00:06:25,112 --> 00:06:26,923
+and it's the last one out of here.
+
+40
+00:06:26,923 --> 00:06:28,167
+- Yeah?
+
+41
+00:06:28,167 --> 00:06:31,305
+What about all them fancy
+dresses and expensive shoes
+
+42
+00:06:31,305 --> 00:06:33,218
+and jewelry you bought?
+
+43
+00:06:33,218 --> 00:06:35,096
+- I have enough cash and jewelry.
+
+44
+00:06:35,096 --> 00:06:38,424
+Just let the maidservants
+and the slaves have the rest,
+
+45
+00:06:38,424 --> 00:06:40,488
+and if you have any sense,
+you'd get out now, too,
+
+46
+00:06:40,488 --> 00:06:41,921
+while you can.
+
+47
+00:06:41,921 --> 00:06:44,739
+- Eh, I don't need you
+tellin' me what to do woman.
+
+48
+00:06:44,739 --> 00:06:47,050
+I'll get out when I'm damn good and ready.
+
+49
+00:06:47,050 --> 00:06:49,654
+- Good luck, you're gonna
+need it when they take over.
+
+50
+00:06:49,654 --> 00:06:51,303
+- Yeah?
+
+51
+00:06:51,303 --> 00:06:53,273
+What the hell can they do to me?
+
+52
+00:06:53,273 --> 00:06:57,170
+When I leave this place,
+it'll be over my dead body.
+
+53
+00:06:57,170 --> 00:06:59,760
+- That's not gonna do you much good.
+
+54
+00:06:59,760 --> 00:07:02,082
+You're gonna be wishin' you
+were on that plane with me.
+
+55
+00:07:02,082 --> 00:07:02,915
+- Eh!
+
+56
+00:07:05,934 --> 00:07:07,684
+Good riddance, woman.
+
+57
+00:07:09,869 --> 00:07:11,299
+(distant gun fires)
+
+58
+00:07:11,299 --> 00:07:13,517
+- Let's get outta here.
+
+59
+00:07:13,517 --> 00:07:15,056
+- What's the matter?
+
+60
+00:07:15,056 --> 00:07:17,641
+- My husband is not leaving.
+
+61
+00:07:17,641 --> 00:07:18,589
+- He's not leaving?
+
+62
+00:07:18,589 --> 00:07:19,422
+He's gotta go.
+
+63
+00:07:19,422 --> 00:07:20,313
+- It's his choice.
+
+64
+00:07:20,313 --> 00:07:21,470
+Now, let's go.
+
+65
+00:07:21,470 --> 00:07:23,799
+- But if he stays here,
+they'll wind up killing him.
+
+66
+00:07:23,799 --> 00:07:26,312
+- Oh, that's his problem and his choice.
+
+67
+00:07:26,312 --> 00:07:27,902
+The plane leaves in less than an hour,
+
+68
+00:07:27,902 --> 00:07:28,844
+and I'm gonna be on it.
+
+69
+00:07:28,844 --> 00:07:30,011
+Now, let's go.
+
+70
+00:07:37,154 --> 00:07:39,821
+(bomb whistles)
+
+71
+00:07:40,871 --> 00:07:43,121
+(car revs)
+
+72
+00:07:53,372 --> 00:07:55,784
+- What the hell are you lookin' at?
+
+73
+00:07:55,784 --> 00:07:57,701
+Get busy, and you, too.
+
+74
+00:08:11,615 --> 00:08:13,772
+- Ah, good news.
+
+75
+00:08:13,772 --> 00:08:15,949
+The take over is nearly complete.
+
+76
+00:08:15,949 --> 00:08:18,285
+All the plantations, farms
+and property-owned lands
+
+77
+00:08:18,285 --> 00:08:21,079
+have been confiscated by the new order.
+
+78
+00:08:21,079 --> 00:08:22,778
+- What we done with 'em?
+
+79
+00:08:22,778 --> 00:08:25,484
+- They'll be turned over to
+the former slaves and servants.
+
+80
+00:08:25,484 --> 00:08:28,638
+Now, they'll be in total
+control of everything.
+
+81
+00:08:28,638 --> 00:08:30,816
+Previously owned by the Landowners.
+
+82
+00:08:30,816 --> 00:08:33,140
+These are formal decrees
+for claiming the legalities
+
+83
+00:08:33,140 --> 00:08:34,669
+of the transfer.
+
+84
+00:08:34,669 --> 00:08:38,752
+Deliver a set of these
+every specified household.
+
+85
+00:08:41,400 --> 00:08:43,018
+- Who do they give 'em to?
+
+86
+00:08:43,018 --> 00:08:47,185
+- They'll be given to the head
+servant in each household.
+
+87
+00:08:50,336 --> 00:08:51,169
+Carry on.
+
+88
+00:09:02,641 --> 00:09:04,512
+- What's goin' on here?
+
+89
+00:09:04,512 --> 00:09:05,993
+- You don't own me anymore.
+
+90
+00:09:05,993 --> 00:09:09,340
+- Yeah, I'll show you who owns who.
+
+91
+00:09:09,340 --> 00:09:11,311
+Did you whip her?
+
+92
+00:09:11,311 --> 00:09:13,135
+- Strung her up, whooped
+her and branded her.
+
+93
+00:09:13,135 --> 00:09:14,884
+Didn't do no good.
+
+94
+00:09:14,884 --> 00:09:17,382
+- Yeah, I'll show you who owns who.
+
+95
+00:09:17,382 --> 00:09:18,715
+Turn her around.
+
+96
+00:09:22,457 --> 00:09:23,701
+(whip snaps)
+
+97
+00:09:23,701 --> 00:09:26,201
+(slave cries)
+
+98
+00:09:39,692 --> 00:09:42,320
+- Please, show her some
+compassion, please?
+
+99
+00:09:42,320 --> 00:09:43,214
+- Compassion, hell?
+
+100
+00:09:43,214 --> 00:09:45,958
+You want some of the same?
+
+101
+00:09:45,958 --> 00:09:47,212
+(whip snaps)
+
+102
+00:09:47,212 --> 00:09:49,712
+(slave cries)
+
+103
+00:09:51,902 --> 00:09:53,235
+Turn her around.
+
+104
+00:09:57,538 --> 00:09:59,288
+She wants compassion.
+
+105
+00:10:00,314 --> 00:10:02,251
+I'll show you compassion.
+
+106
+00:10:02,251 --> 00:10:04,348
+I need new blood in my bed.
+
+107
+00:10:04,348 --> 00:10:05,637
+You want compassion?
+
+108
+00:10:05,637 --> 00:10:06,803
+You get up in my bedroom.
+
+109
+00:10:06,803 --> 00:10:09,301
+I'll show you compassion.
+
+110
+00:10:09,301 --> 00:10:11,358
+- I'd rather die first.
+
+111
+00:10:11,358 --> 00:10:13,858
+(slave spits)
+
+112
+00:10:16,745 --> 00:10:18,227
+- Listen.
+
+113
+00:10:18,227 --> 00:10:21,996
+She runs away again, you take that rifle,
+
+114
+00:10:21,996 --> 00:10:24,421
+and you track her down, and you kill
+
+115
+00:10:24,421 --> 00:10:27,754
+that little black bitch, you understand.
+
+116
+00:10:35,811 --> 00:10:38,561
+(officer knocks)
+
+117
+00:10:43,926 --> 00:10:45,512
+- Yes?
+
+118
+00:10:45,512 --> 00:10:46,873
+- I'm here for the New Order.
+
+119
+00:10:46,873 --> 00:10:49,922
+These papers make the head
+maid, the servant Wateesah,
+
+120
+00:10:49,922 --> 00:10:53,717
+the new commandant in
+control of this plantation.
+
+121
+00:10:53,717 --> 00:10:55,188
+- And what of the Landowner?
+
+122
+00:10:55,188 --> 00:10:56,937
+- He is no longer the Landowner.
+
+123
+00:10:56,937 --> 00:10:59,040
+If he has not fled, arrest him.
+
+124
+00:10:59,040 --> 00:11:00,874
+Form a court and try him.
+
+125
+00:11:00,874 --> 00:11:02,955
+Whatever sentence Wateesah
+imposes will be upheld
+
+126
+00:11:02,955 --> 00:11:05,007
+by the New Order.
+
+127
+00:11:05,007 --> 00:11:06,014
+Do you understand?
+
+128
+00:11:06,014 --> 00:11:06,847
+- Yes.
+
+129
+00:11:17,000 --> 00:11:19,412
+- I can't take this no more.
+
+130
+00:11:19,412 --> 00:11:20,814
+- You may not have to.
+
+131
+00:11:20,814 --> 00:11:22,025
+Not for much longer.
+
+132
+00:11:22,025 --> 00:11:23,238
+- Why?
+
+133
+00:11:23,238 --> 00:11:24,953
+- Everything she left is ours.
+
+134
+00:11:24,953 --> 00:11:26,433
+Everything.
+
+135
+00:11:26,433 --> 00:11:28,936
+- Everything she owned?
+
+136
+00:11:28,936 --> 00:11:32,125
+- Everything, from her
+shoes to her jewelry.
+
+137
+00:11:32,125 --> 00:11:33,590
+Her clothing.
+
+138
+00:11:33,590 --> 00:11:35,392
+Everything is ours.
+
+139
+00:11:35,392 --> 00:11:36,225
+- Hmm.
+
+140
+00:11:37,901 --> 00:11:40,568
+(intense music)
+
+141
+00:11:46,492 --> 00:11:49,159
+(servants chat)
+
+142
+00:11:54,170 --> 00:11:55,188
+- Money!
+- Money!
+
+143
+00:11:55,188 --> 00:11:56,605
+- Money!
+- Money!
+
+144
+00:12:01,154 --> 00:12:01,987
+- Money.
+
+145
+00:12:02,945 --> 00:12:05,695
+(servant laughs)
+
+146
+00:12:15,187 --> 00:12:16,676
+- You can help me find that money.
+
+147
+00:12:16,676 --> 00:12:19,009
+It's my money, this is mine.
+
+148
+00:12:25,256 --> 00:12:27,336
+- This is so beautiful.
+
+149
+00:12:27,336 --> 00:12:29,086
+- Gorgeous, gorgeous.
+
+150
+00:12:33,297 --> 00:12:35,630
+- Our stuff, now, our stuff.
+
+151
+00:13:45,183 --> 00:13:48,850
+- You be careful with
+my gun, that's loaded.
+
+152
+00:13:51,256 --> 00:13:54,089
+(Landowner gasps)
+
+153
+00:13:58,529 --> 00:14:00,208
+- Do you know who I am?
+
+154
+00:14:00,208 --> 00:14:01,041
+- Yes.
+
+155
+00:14:02,008 --> 00:14:03,902
+You're Wateesah.
+
+156
+00:14:03,902 --> 00:14:07,574
+You're my main servant and
+head maid of the household.
+
+157
+00:14:07,574 --> 00:14:09,217
+- No longer so.
+
+158
+00:14:09,217 --> 00:14:10,717
+I am Your Majesty.
+
+159
+00:14:12,751 --> 00:14:16,012
+You shall refer to me as Your Majesty,
+
+160
+00:14:16,012 --> 00:14:17,179
+is that clear?
+
+161
+00:14:18,795 --> 00:14:19,628
+- Yes.
+
+162
+00:14:20,525 --> 00:14:22,033
+Yes, Your Majesty.
+
+163
+00:14:22,033 --> 00:14:26,182
+- And hereafter, and during
+the course of this trial,
+
+164
+00:14:26,182 --> 00:14:30,064
+you shall refer to me as Your Majesty.
+
+165
+00:14:30,064 --> 00:14:31,709
+Is that clear?
+
+166
+00:14:31,709 --> 00:14:33,042
+- Yes, yes, yes.
+
+167
+00:14:34,432 --> 00:14:36,765
+- Yes, what, you stupid pig?
+
+168
+00:14:38,226 --> 00:14:39,893
+- Yes, Your Majesty.
+
+169
+00:14:43,594 --> 00:14:46,168
+- Your escape from this country
+was totally unacceptable
+
+170
+00:14:46,168 --> 00:14:47,001
+to us.
+
+171
+00:14:48,002 --> 00:14:50,902
+You taking your ill gained
+wealth and possessions from
+
+172
+00:14:50,902 --> 00:14:54,701
+amongst us was more than we could bear.
+
+173
+00:14:54,701 --> 00:14:57,898
+Consequently, it became
+necessary for us to take the law
+
+174
+00:14:57,898 --> 00:14:59,481
+into our own hands.
+
+175
+00:15:01,389 --> 00:15:04,871
+Since there is no law presently
+functioning in this land,
+
+176
+00:15:04,871 --> 00:15:08,443
+this court has assembled
+together to take you to trial
+
+177
+00:15:08,443 --> 00:15:10,926
+and try you for what you have done.
+
+178
+00:15:10,926 --> 00:15:12,677
+- [Landowner] What do you mean try me?
+
+179
+00:15:12,677 --> 00:15:14,558
+What do you mean try me?
+
+180
+00:15:14,558 --> 00:15:16,657
+You're all my servants, all of you.
+
+181
+00:15:16,657 --> 00:15:18,914
+You're all my servants, how dare you.
+
+182
+00:15:18,914 --> 00:15:20,316
+- [Wateesah] Silence.
+
+183
+00:15:20,316 --> 00:15:22,726
+Or has the blow to your head
+from the heel of my shoe
+
+184
+00:15:22,726 --> 00:15:25,643
+dimmed the memory of your misdeeds?
+
+185
+00:15:26,604 --> 00:15:27,831
+- You're crazy.
+
+186
+00:15:27,831 --> 00:15:29,948
+You're all crazy.
+
+187
+00:15:29,948 --> 00:15:31,659
+I order you to release me.
+
+188
+00:15:31,659 --> 00:15:32,742
+You're crazy!
+
+189
+00:15:33,933 --> 00:15:35,892
+- Enough of this.
+
+190
+00:15:35,892 --> 00:15:39,081
+You are a prisoner of this court.
+
+191
+00:15:39,081 --> 00:15:41,310
+We have stripped you of all
+of your earthly possessions,
+
+192
+00:15:41,310 --> 00:15:44,246
+and this court will bring you to trial.
+
+193
+00:15:44,246 --> 00:15:45,829
+- Ah, you're crazy!
+
+194
+00:15:46,905 --> 00:15:49,378
+I order you to release me.
+
+195
+00:15:49,378 --> 00:15:53,109
+- You are no longer our lord and master.
+
+196
+00:15:53,109 --> 00:15:56,690
+You are a prisoner of this court.
+
+197
+00:15:56,690 --> 00:15:59,315
+Ah, now, the table's are turned.
+
+198
+00:15:59,315 --> 00:16:02,855
+You're apartheid release will
+be struck from your memory.
+
+199
+00:16:02,855 --> 00:16:07,022
+And we hereby make you aware
+that I am to be your judge.
+
+200
+00:16:08,466 --> 00:16:11,423
+And these, my sisters, your jurors.
+
+201
+00:16:11,423 --> 00:16:15,336
+We will try you and determine
+the extent of your guilt,
+
+202
+00:16:15,336 --> 00:16:19,503
+and judge you accordingly, in
+this, our court of justice.
+
+203
+00:16:20,339 --> 00:16:22,557
+- I'm guilty of nothing.
+
+204
+00:16:22,557 --> 00:16:23,846
+Guilty of nothing.
+
+205
+00:16:23,846 --> 00:16:25,263
+- Enough of this.
+
+206
+00:16:26,418 --> 00:16:31,217
+Hereafter, you will speak
+when you are asked to speak.
+
+207
+00:16:31,217 --> 00:16:32,886
+And you will address me in the manner
+
+208
+00:16:32,886 --> 00:16:35,136
+that you have been advised.
+
+209
+00:16:37,599 --> 00:16:38,432
+- Yes.
+
+210
+00:16:39,989 --> 00:16:40,822
+Yes.
+
+211
+00:16:43,159 --> 00:16:44,912
+- Yes, Your Majesty.
+
+212
+00:16:44,912 --> 00:16:46,519
+- Yes, Your Majesty.
+
+213
+00:16:46,519 --> 00:16:50,918
+- Further, you will sink to
+your knees when you address me.
+
+214
+00:16:50,918 --> 00:16:51,751
+Now!
+
+215
+00:16:55,547 --> 00:16:56,714
+That's better.
+
+216
+00:16:59,071 --> 00:17:03,238
+I have been ordained by this
+court to do with you as I wish.
+
+217
+00:17:07,335 --> 00:17:09,822
+You have kept my people
+in bondage and slavery
+
+218
+00:17:09,822 --> 00:17:14,232
+all the days of my life,
+and many before me.
+
+219
+00:17:14,232 --> 00:17:15,612
+- I done nothing.
+
+220
+00:17:15,612 --> 00:17:17,164
+Why do you do this?
+
+221
+00:17:17,164 --> 00:17:18,479
+Who's taken care of you?
+
+222
+00:17:18,479 --> 00:17:21,069
+I've taken care of, and
+you've been my maid servant
+
+223
+00:17:21,069 --> 00:17:23,809
+since you were a little child.
+
+224
+00:17:23,809 --> 00:17:25,726
+- You have done it all.
+
+225
+00:17:27,595 --> 00:17:30,053
+You forced me not only to be your maid,
+
+226
+00:17:30,053 --> 00:17:31,553
+but your mistress.
+
+227
+00:17:32,468 --> 00:17:34,931
+You forced my body to be
+the unwilling receptical
+
+228
+00:17:34,931 --> 00:17:36,431
+for your maleness.
+
+229
+00:17:39,319 --> 00:17:42,056
+- But your country, I've done nothing.
+
+230
+00:17:42,056 --> 00:17:43,245
+I've done nothing.
+
+231
+00:17:43,245 --> 00:17:44,589
+I'm not guilty of anything.
+
+232
+00:17:44,589 --> 00:17:48,937
+- You stood by while all
+the treachery was happening.
+
+233
+00:17:48,937 --> 00:17:50,961
+With this country's
+soul, we invoked the yoke
+
+234
+00:17:50,961 --> 00:17:53,576
+of bondage and freed our
+people from under the heel
+
+235
+00:17:53,576 --> 00:17:55,065
+of your tyranny.
+
+236
+00:17:55,065 --> 00:17:58,100
+You and your kind are all that was left.
+
+237
+00:17:58,100 --> 00:18:00,659
+(court murmurs)
+
+238
+00:18:00,659 --> 00:18:02,409
+- I stood behind you.
+
+239
+00:18:03,545 --> 00:18:04,965
+I tried to help.
+
+240
+00:18:04,965 --> 00:18:06,450
+I thought I took care of your sisters.
+
+241
+00:18:06,450 --> 00:18:09,426
+But, I stand behind that--
+
+242
+00:18:09,426 --> 00:18:10,429
+- No.
+
+243
+00:18:10,429 --> 00:18:11,346
+Do not lie.
+
+244
+00:18:13,683 --> 00:18:17,699
+In this court, we'll uncover the truth.
+
+245
+00:18:17,699 --> 00:18:21,449
+But you will be of
+assistance, Mr. Landowner.
+
+246
+00:18:23,724 --> 00:18:27,307
+Mr. Would Be God, or
+should I say anti-God.
+
+247
+00:18:28,629 --> 00:18:29,796
+Satan himself.
+
+248
+00:18:31,657 --> 00:18:33,420
+But you will help us agree here,
+
+249
+00:18:33,420 --> 00:18:36,836
+and we will make you an example.
+
+250
+00:18:36,836 --> 00:18:39,503
+(intense music)
+
+251
+00:18:41,661 --> 00:18:42,792
+- You're crazy.
+
+252
+00:18:42,792 --> 00:18:43,903
+All of you!
+
+253
+00:18:43,903 --> 00:18:45,289
+You're crazy!
+
+254
+00:18:45,289 --> 00:18:46,544
+I've done nothing!
+
+255
+00:18:46,544 --> 00:18:47,377
+You're crazy!
+
+256
+00:18:47,377 --> 00:18:48,210
+All of you!
+
+257
+00:18:48,210 --> 00:18:49,722
+- Silence!
+- Shut up!
+
+258
+00:18:49,722 --> 00:18:53,066
+- Or now this weapon will
+make a trial unnecessary.
+
+259
+00:18:53,066 --> 00:18:55,048
+(court murmurs)
+
+260
+00:18:55,048 --> 00:18:58,071
+What we will try you
+for will be for others
+
+261
+00:18:58,071 --> 00:19:01,404
+who have unjustly enslaved and ruled us.
+
+262
+00:19:02,433 --> 00:19:05,512
+Your final act, resulting
+in the deaths of 37
+
+263
+00:19:05,512 --> 00:19:08,033
+of our people, was when
+you ordered your men
+
+264
+00:19:08,033 --> 00:19:10,081
+to round up the village families,
+
+265
+00:19:10,081 --> 00:19:12,051
+entrapping them in chain-linked fence
+
+266
+00:19:12,051 --> 00:19:14,746
+topped with barbed wire.
+
+267
+00:19:14,746 --> 00:19:17,559
+When the word spread
+that you were taking them
+
+268
+00:19:17,559 --> 00:19:21,223
+to another place, to be
+sold to a distant Landowner,
+
+269
+00:19:21,223 --> 00:19:22,646
+they panicked.
+
+270
+00:19:22,646 --> 00:19:25,313
+(woman screams)
+
+271
+00:19:27,467 --> 00:19:30,970
+The thought of being
+removed from their families
+
+272
+00:19:30,970 --> 00:19:33,085
+and their homes was much more
+than they could understand
+
+273
+00:19:33,085 --> 00:19:33,918
+or accept.
+
+274
+00:19:36,377 --> 00:19:39,720
+The strongest broke
+through the chain fence.
+
+275
+00:19:39,720 --> 00:19:42,263
+And in their stampede to run for freedom,
+
+276
+00:19:42,263 --> 00:19:43,954
+you apprehended them.
+
+277
+00:19:43,954 --> 00:19:44,787
+All 37.
+
+278
+00:19:46,295 --> 00:19:48,521
+They were trampled to death.
+
+279
+00:19:48,521 --> 00:19:49,708
+Men and women.
+
+280
+00:19:49,708 --> 00:19:53,541
+But what we can never
+forget are the children.
+
+281
+00:19:55,722 --> 00:19:57,222
+37 trampled, dead.
+
+282
+00:19:59,702 --> 00:20:01,168
+- [Landowner] That wasn't my fault.
+
+283
+00:20:01,168 --> 00:20:03,469
+- You caused their deaths.
+
+284
+00:20:03,469 --> 00:20:07,527
+We hold you totally responsible for this.
+
+285
+00:20:07,527 --> 00:20:08,682
+- Lies.
+
+286
+00:20:08,682 --> 00:20:10,141
+I'm not guilty.
+
+287
+00:20:10,141 --> 00:20:11,507
+Anything I've done.
+
+288
+00:20:11,507 --> 00:20:13,238
+Not at all, not at all.
+
+289
+00:20:13,238 --> 00:20:14,280
+I'm not guilty!
+
+290
+00:20:14,280 --> 00:20:15,320
+They're lies!
+
+291
+00:20:15,320 --> 00:20:17,308
+- We will judge you
+for your transgressions
+
+292
+00:20:17,308 --> 00:20:20,338
+and misdeeds, not only against myself,
+
+293
+00:20:20,338 --> 00:20:23,000
+but against the other who have suffered
+
+294
+00:20:23,000 --> 00:20:26,109
+under the yoke of bondage
+and inhumanities committed
+
+295
+00:20:26,109 --> 00:20:28,787
+upon us in your household.
+
+296
+00:20:28,787 --> 00:20:32,438
+You will be tried for
+your personal injustices
+
+297
+00:20:32,438 --> 00:20:33,605
+and cruelties.
+
+298
+00:20:34,914 --> 00:20:38,175
+And if my lady jurors so
+find you to be guilty,
+
+299
+00:20:38,175 --> 00:20:40,941
+executed in a manner that
+they choose to be fitting.
+
+300
+00:20:40,941 --> 00:20:43,093
+- [Court Members] Yes, yes!
+
+301
+00:20:43,093 --> 00:20:47,260
+- But first, my jurors
+shall introduce themselves.
+
+302
+00:20:49,229 --> 00:20:50,760
+- Butra.
+
+303
+00:20:50,760 --> 00:20:51,690
+- Suhya.
+
+304
+00:20:51,690 --> 00:20:52,690
+- Sellahlie.
+
+305
+00:20:54,759 --> 00:20:56,500
+- Fleurlilli.
+
+306
+00:20:56,500 --> 00:20:57,333
+- Etrosef.
+
+307
+00:20:58,600 --> 00:21:00,317
+- Wishtofti.
+
+308
+00:21:00,317 --> 00:21:01,891
+- Petrinah.
+
+309
+00:21:01,891 --> 00:21:03,497
+- Belahsa.
+
+310
+00:21:03,497 --> 00:21:04,414
+- Raybutta.
+
+311
+00:21:08,753 --> 00:21:12,318
+- And have you ladies of the
+jury chosen a spokesperson?
+
+312
+00:21:12,318 --> 00:21:13,151
+- Yes!
+- Yes, we have.
+
+313
+00:21:13,151 --> 00:21:14,477
+- Yes!
+
+314
+00:21:14,477 --> 00:21:18,872
+- Yes, we have chosen Butra
+to be our spokeswoman.
+
+315
+00:21:18,872 --> 00:21:20,122
+- Butra, Butra.
+
+316
+00:21:21,547 --> 00:21:23,938
+- Yes, Your Majesty?
+
+317
+00:21:23,938 --> 00:21:28,105
+I would rather have been
+selected as his executioner.
+
+318
+00:21:29,341 --> 00:21:31,008
+But then, who knows?
+
+319
+00:21:34,430 --> 00:21:35,413
+(Landowner grunts)
+
+320
+00:21:35,413 --> 00:21:36,978
+- Maybe I will be.
+
+321
+00:21:36,978 --> 00:21:39,745
+- Maybe we will all be his executioners,
+
+322
+00:21:39,745 --> 00:21:41,702
+should he be found guilty.
+
+323
+00:21:41,702 --> 00:21:44,974
+Have you decided the manner
+in which he is to stand trial?
+
+324
+00:21:44,974 --> 00:21:47,024
+- [Butra] Yes, we have, Your Majesty.
+
+325
+00:21:47,024 --> 00:21:49,638
+- [Wateesa] And what manner will it be?
+
+326
+00:21:49,638 --> 00:21:53,805
+- We have decided that he
+will lie down on the floor,
+
+327
+00:21:54,913 --> 00:21:55,913
+on his back!
+
+328
+00:21:56,780 --> 00:22:01,467
+With Your Majesty's feet
+pressed into pit of his stomach.
+
+329
+00:22:01,467 --> 00:22:02,667
+(Landowner grunts)
+
+330
+00:22:02,667 --> 00:22:05,047
+As it was with you in your childhood.
+
+331
+00:22:05,047 --> 00:22:08,400
+As for for the rest of us,
+we will place our chairs
+
+332
+00:22:08,400 --> 00:22:09,317
+around him!
+
+333
+00:22:10,499 --> 00:22:13,166
+And press his back to the floor.
+
+334
+00:22:14,430 --> 00:22:18,430
+Under our shoe, he and
+what he represents to us,
+
+335
+00:22:20,056 --> 00:22:23,556
+deserves to be treated as dirt beneath us.
+
+336
+00:22:25,101 --> 00:22:26,434
+- [Jurors] Yeah!
+
+337
+00:22:29,299 --> 00:22:34,184
+- [Woman] And if he tongue is
+loose, our kicks may find him.
+
+338
+00:22:34,184 --> 00:22:36,767
+(jurors chide)
+
+339
+00:22:42,183 --> 00:22:44,598
+- [Wateesah] So be it.
+
+340
+00:22:44,598 --> 00:22:47,765
+- [Landowner] You can't do this to me.
+
+341
+00:22:50,058 --> 00:22:52,391
+- [Butra] Now, on your back!
+
+342
+00:22:53,479 --> 00:22:54,312
+Now!
+
+343
+00:22:55,542 --> 00:22:57,365
+Or you're going down,
+
+344
+00:22:57,365 --> 00:22:58,203
+a-kicking.
+
+345
+00:22:58,203 --> 00:23:02,495
+(Landowner breathes heavily)
+
+346
+00:23:02,495 --> 00:23:04,745
+- Yes, strangely befitting.
+
+347
+00:23:06,495 --> 00:23:09,897
+The shoe is on the other foot, now.
+
+348
+00:23:09,897 --> 00:23:12,543
+When we as children,
+according to your custom,
+
+349
+00:23:12,543 --> 00:23:16,710
+lay down on our backs, under
+your cold and unfeeling feet.
+
+350
+00:23:19,377 --> 00:23:23,544
+Which were pressed in the pit
+of our warm little bellies.
+
+351
+00:23:25,292 --> 00:23:28,787
+We were used to absorb
+the pain and afflictions
+
+352
+00:23:28,787 --> 00:23:32,678
+from your body, the cold
+deadly, transmitting your pain
+
+353
+00:23:32,678 --> 00:23:33,511
+to us.
+
+354
+00:23:36,142 --> 00:23:39,775
+The only pain I remember
+was once as a child.
+
+355
+00:23:39,775 --> 00:23:43,681
+You were in a hurry to stand,
+and you did not first remove
+
+356
+00:23:43,681 --> 00:23:45,848
+your feet from my stomach.
+
+357
+00:23:46,985 --> 00:23:51,057
+Your full weight upon my
+tiny body forced the air
+
+358
+00:23:51,057 --> 00:23:55,239
+from my lungs, and my
+mouth filled with the food
+
+359
+00:23:55,239 --> 00:23:56,572
+from my stomach.
+
+360
+00:23:58,411 --> 00:24:01,648
+Your body is much bigger
+and stronger as mine was
+
+361
+00:24:01,648 --> 00:24:02,565
+as a child.
+
+362
+00:24:04,661 --> 00:24:08,328
+Perhaps, the sharp heels
+of my shoes pressed
+
+363
+00:24:09,745 --> 00:24:12,554
+against your body will
+make up the difference,
+
+364
+00:24:12,554 --> 00:24:17,169
+should I choose to stand
+upon you as you did me,
+
+365
+00:24:17,169 --> 00:24:18,002
+you pig.
+
+366
+00:24:19,682 --> 00:24:22,182
+Let us proceed with the trial.
+
+367
+00:24:23,095 --> 00:24:26,044
+Let us first take an oath.
+
+368
+00:24:26,044 --> 00:24:29,507
+Do you as jurors swear
+that the testimony you are
+
+369
+00:24:29,507 --> 00:24:33,838
+about to give, and the
+charges you are about to make,
+
+370
+00:24:33,838 --> 00:24:37,421
+are true as seen or
+witnessed by your eyes,
+
+371
+00:24:38,361 --> 00:24:40,766
+and not the hearsay of others?
+
+372
+00:24:40,766 --> 00:24:42,003
+- [Jurors] Yes.
+
+373
+00:24:42,003 --> 00:24:43,241
+- Yes.
+
+374
+00:24:43,241 --> 00:24:46,074
+Let's proceed with the trial then.
+
+375
+00:24:47,910 --> 00:24:48,743
+Butra.
+
+376
+00:24:50,131 --> 00:24:52,714
+You may start with the charges.
+
+377
+00:24:55,084 --> 00:24:58,501
+- First, let me say that this evil person
+
+378
+00:25:01,460 --> 00:25:04,710
+branded my man with the r for run away.
+
+379
+00:25:08,827 --> 00:25:10,577
+Then, had him killed.
+
+380
+00:25:25,371 --> 00:25:27,515
+- Call upon the others for their charges.
+
+381
+00:25:27,515 --> 00:25:29,486
+- Yes, Your Majesty.
+
+382
+00:25:29,486 --> 00:25:32,751
+- You know, you know I'm
+not guilty of these things.
+
+383
+00:25:32,751 --> 00:25:35,602
+I have done nothing, nothing like that.
+
+384
+00:25:35,602 --> 00:25:36,525
+They're lies!
+
+385
+00:25:36,525 --> 00:25:39,025
+(jurors yell)
+
+386
+00:25:39,943 --> 00:25:40,776
+- Stop!
+
+387
+00:25:41,622 --> 00:25:45,792
+Stop, sit down, save it for
+until the trial is complete,
+
+388
+00:25:45,792 --> 00:25:48,893
+and sentence has been passed.
+
+389
+00:25:48,893 --> 00:25:49,889
+- [Landowner] Sentence for what?
+
+390
+00:25:49,889 --> 00:25:52,639
+What do you mean passed sentence?
+
+391
+00:25:54,162 --> 00:25:58,280
+- Butra, now do you have
+witnesses for these charges?
+
+392
+00:25:58,280 --> 00:26:00,006
+- Yes, Your Majesty.
+
+393
+00:26:00,006 --> 00:26:04,842
+I will now call upon
+FLeurlilli for her testimony.
+
+394
+00:26:04,842 --> 00:26:06,101
+- No, no, please.
+
+395
+00:26:06,101 --> 00:26:09,184
+Keep her away from me, keep her away.
+
+396
+00:26:10,671 --> 00:26:14,171
+- My mother was enslaved by this very man.
+
+397
+00:26:15,693 --> 00:26:17,026
+At an early age.
+
+398
+00:26:18,028 --> 00:26:20,687
+And I was born in the fields.
+
+399
+00:26:20,687 --> 00:26:24,520
+Then, one day, this very
+man brought my mother
+
+400
+00:26:26,418 --> 00:26:31,144
+into his household, and made
+her into his personal slave.
+
+401
+00:26:31,144 --> 00:26:34,977
+Cooking and cleaning,
+from sun up to sun down.
+
+402
+00:26:36,151 --> 00:26:38,605
+She had no life of her own.
+
+403
+00:26:38,605 --> 00:26:42,438
+I saw her lie down and
+die, a tired old woman.
+
+404
+00:26:43,447 --> 00:26:46,797
+As long as she was alive
+to keep me from you,
+
+405
+00:26:46,797 --> 00:26:49,207
+I was barely a slave.
+
+406
+00:26:49,207 --> 00:26:51,874
+But when mamma died, he used me.
+
+407
+00:26:53,117 --> 00:26:56,548
+(ominous music)
+
+408
+00:26:56,548 --> 00:26:59,798
+I was beaten half to death by this man.
+
+409
+00:27:01,973 --> 00:27:04,813
+I was so scared that he would kill me
+
+410
+00:27:04,813 --> 00:27:07,480
+if I didn't give into his wants.
+
+411
+00:27:09,703 --> 00:27:12,417
+I charge this man with enslavement.
+
+412
+00:27:12,417 --> 00:27:16,190
+I charge you with sexual
+molestation of my mind, body
+
+413
+00:27:16,190 --> 00:27:17,043
+and person.
+
+414
+00:27:17,043 --> 00:27:19,971
+(Landowner groans)
+
+415
+00:27:19,971 --> 00:27:22,147
+I charge this man with continuous rape!
+
+416
+00:27:22,147 --> 00:27:25,064
+(Landowner groans)
+
+417
+00:27:28,143 --> 00:27:30,532
+I would enslave him.
+
+418
+00:27:30,532 --> 00:27:33,911
+I would cut off his private parts!
+
+419
+00:27:33,911 --> 00:27:35,232
+- [Landowner] Oh, no, no.
+
+420
+00:27:35,232 --> 00:27:37,956
+- I'd work him and work him!
+
+421
+00:27:37,956 --> 00:27:39,039
+And work him!
+
+422
+00:27:40,733 --> 00:27:43,650
+He would feel the sting of my whip!
+
+423
+00:27:45,587 --> 00:27:49,170
+I would whip him and
+whip him and whip him!
+
+424
+00:27:51,230 --> 00:27:54,813
+Until death would
+relieve him of his agony!
+
+425
+00:27:58,239 --> 00:28:01,060
+- Thank you for your sworn
+testimony, FLeurlilli.
+
+426
+00:28:01,060 --> 00:28:05,154
+- I would now call upon, for
+the last of our testimony,
+
+427
+00:28:05,154 --> 00:28:05,987
+Belahsa.
+
+428
+00:28:05,987 --> 00:28:09,454
+(thunder cracks)
+
+429
+00:28:09,454 --> 00:28:13,458
+- When I was very small, your
+people came to the field.
+
+430
+00:28:13,458 --> 00:28:17,987
+They chose me to be a
+slave in your household.
+
+431
+00:28:17,987 --> 00:28:19,904
+I screamed and I cried.
+
+432
+00:28:22,130 --> 00:28:23,808
+I didn't want to be away from my mother,
+
+433
+00:28:23,808 --> 00:28:25,808
+my brothers and sisters.
+
+434
+00:28:26,705 --> 00:28:30,758
+They took me by the hair
+and they dragged me.
+
+435
+00:28:30,758 --> 00:28:31,841
+But my uncle,
+
+436
+00:28:33,811 --> 00:28:36,810
+my beloved uncle with
+his beautiful love for me
+
+437
+00:28:36,810 --> 00:28:38,635
+didn't want to see me taken to the field,
+
+438
+00:28:38,635 --> 00:28:40,175
+to the mansion.
+
+439
+00:28:40,175 --> 00:28:42,804
+To this man's mansion!
+
+440
+00:28:42,804 --> 00:28:44,094
+- But I didn't hurt you.
+
+441
+00:28:44,094 --> 00:28:45,499
+- He begged them.
+
+442
+00:28:45,499 --> 00:28:46,454
+He pulled on their arms, he pleaded
+
+443
+00:28:46,454 --> 00:28:49,165
+with them not to take me.
+
+444
+00:28:49,165 --> 00:28:53,332
+Until they hit him and knocked
+him stiff into the ground.
+
+445
+00:28:55,346 --> 00:28:59,174
+They beat him with whips,
+and then when one tired,
+
+446
+00:28:59,174 --> 00:29:00,924
+the others took over.
+
+447
+00:29:02,307 --> 00:29:05,109
+When he tried to cover
+and protect himself,
+
+448
+00:29:05,109 --> 00:29:08,344
+they whipped him for doing it!
+
+449
+00:29:08,344 --> 00:29:10,511
+They whipped him to death!
+
+450
+00:29:13,207 --> 00:29:14,730
+- [Landowner] I didn't
+do it, my men did it.
+
+451
+00:29:14,730 --> 00:29:18,691
+- For years, I couldn't erase
+this vision from my memory.
+
+452
+00:29:18,691 --> 00:29:23,041
+I worked and slaved for
+you, yet I hated you
+
+453
+00:29:23,041 --> 00:29:25,291
+for the murder of my uncle!
+
+454
+00:29:26,126 --> 00:29:28,496
+Ah, with this whip,
+
+455
+00:29:28,496 --> 00:29:31,079
+I could slay you alive, mister.
+
+456
+00:29:32,381 --> 00:29:35,397
+I would whip you until the leather was red
+
+457
+00:29:35,397 --> 00:29:38,868
+with your blood and your
+breath stopped blowing
+
+458
+00:29:38,868 --> 00:29:40,110
+within you.
+
+459
+00:29:40,110 --> 00:29:43,081
+(Landowner chokes)
+
+460
+00:29:43,081 --> 00:29:45,164
+I hate your guts, Master.
+
+461
+00:29:47,347 --> 00:29:49,802
+And when my arms gave
+out from whipping you,
+
+462
+00:29:49,802 --> 00:29:52,052
+my sisters would take over.
+
+463
+00:29:53,092 --> 00:29:56,342
+I charge you with cruelty, enslavement,
+
+464
+00:29:57,507 --> 00:29:59,757
+and the murder of my uncle!
+
+465
+00:30:01,666 --> 00:30:05,480
+I would beat you dead for your crimes.
+
+466
+00:30:05,480 --> 00:30:07,348
+- And I, likewise,
+
+467
+00:30:07,348 --> 00:30:11,371
+would see this man blind and run to death.
+
+468
+00:30:11,371 --> 00:30:13,954
+And that death may be his fate.
+
+469
+00:30:22,740 --> 00:30:26,907
+- I will now call upon
+Raybutta for her testimony.
+
+470
+00:30:32,244 --> 00:30:35,077
+- My fellow jurors, I saw this man
+
+471
+00:30:39,327 --> 00:30:41,244
+kill a 19-year-old boy!
+
+472
+00:30:45,749 --> 00:30:46,582
+19!
+
+473
+00:30:49,271 --> 00:30:50,104
+Why?
+
+474
+00:30:52,120 --> 00:30:54,870
+Because his wife, she wanted him!
+
+475
+00:30:57,220 --> 00:31:00,637
+She wanted his body pressed against hers!
+
+476
+00:31:01,944 --> 00:31:04,276
+And then he refused!
+
+477
+00:31:04,276 --> 00:31:05,193
+He refused!
+
+478
+00:31:07,931 --> 00:31:11,431
+So, he came to back door, and he made him,
+
+479
+00:31:13,885 --> 00:31:16,635
+made him confess to touching her!
+
+480
+00:31:19,625 --> 00:31:22,150
+(Landowner grunts)
+
+481
+00:31:22,150 --> 00:31:22,983
+I saw him!
+
+482
+00:31:24,959 --> 00:31:25,792
+I saw him!
+
+483
+00:31:27,276 --> 00:31:31,443
+He took and dragged and
+beat this 19-year-old boy.
+
+484
+00:31:33,212 --> 00:31:35,212
+He covered him with tar.
+
+485
+00:31:37,233 --> 00:31:39,150
+And then he burned him.
+
+486
+00:31:40,464 --> 00:31:42,047
+- Help, help, help!
+
+487
+00:31:43,548 --> 00:31:44,775
+- Kill him!
+
+488
+00:31:44,775 --> 00:31:45,967
+(jurors yell)
+
+489
+00:31:45,967 --> 00:31:47,908
+(landowner gasps)
+
+490
+00:31:47,908 --> 00:31:49,491
+- Stop it, stop it!
+
+491
+00:31:58,110 --> 00:32:03,075
+- I will now call upon
+Petrinah for her testimony.
+
+492
+00:32:03,075 --> 00:32:05,742
+(Thunder rolls)
+
+493
+00:32:14,331 --> 00:32:15,498
+- I, Petrinah,
+
+494
+00:32:19,108 --> 00:32:22,025
+charge you, an enemy of my country,
+
+495
+00:32:25,878 --> 00:32:27,961
+with the acts of treason!
+
+496
+00:32:29,639 --> 00:32:34,190
+With the acts of brutality
+against my people!
+
+497
+00:32:34,190 --> 00:32:36,523
+Acts of murder, enslavement!
+
+498
+00:32:40,220 --> 00:32:44,330
+Some of our meager cash
+resources with our purses
+
+499
+00:32:44,330 --> 00:32:46,663
+recovered from your baggage.
+
+500
+00:32:47,921 --> 00:32:51,821
+These acts against each and
+every one of us present.
+
+501
+00:32:51,821 --> 00:32:54,457
+Will he draw execution
+if they were perpetrated
+
+502
+00:32:54,457 --> 00:32:56,319
+against your people?
+
+503
+00:32:56,319 --> 00:32:57,402
+By any of us?
+
+504
+00:32:58,650 --> 00:33:01,647
+Your court would convict and execute us
+
+505
+00:33:01,647 --> 00:33:03,454
+without any hesitation.
+
+506
+00:33:03,454 --> 00:33:05,121
+For these same acts.
+
+507
+00:33:06,070 --> 00:33:08,320
+I'm witness to your crimes.
+
+508
+00:33:09,862 --> 00:33:13,190
+I'm witness to your years of infamy.
+
+509
+00:33:13,190 --> 00:33:15,690
+Those things are unforgivable.
+
+510
+00:33:17,014 --> 00:33:19,181
+There must be a vengeance.
+
+511
+00:33:20,631 --> 00:33:22,214
+And eye for an eye.
+
+512
+00:33:23,619 --> 00:33:25,286
+A tooth for a tooth.
+
+513
+00:33:27,033 --> 00:33:28,533
+A life for a life.
+
+514
+00:33:30,077 --> 00:33:32,701
+I say death for you now!
+
+515
+00:33:32,701 --> 00:33:34,233
+Death for you now!
+
+516
+00:33:34,233 --> 00:33:35,869
+At the hands of this court.
+
+517
+00:33:35,869 --> 00:33:38,786
+(Landowner groans)
+
+518
+00:33:43,147 --> 00:33:46,730
+- You can't mean this,
+you can't mean this.
+
+519
+00:33:47,710 --> 00:33:49,715
+- Please, please.
+
+520
+00:33:49,715 --> 00:33:50,548
+I protest.
+
+521
+00:33:51,413 --> 00:33:54,263
+No more speaking of death and killing.
+
+522
+00:33:54,263 --> 00:33:56,994
+It is not for us to take this man's life,
+
+523
+00:33:56,994 --> 00:33:59,400
+or to spill his blood.
+
+524
+00:33:59,400 --> 00:34:02,067
+This man may be guilty of these crimes,
+
+525
+00:34:02,067 --> 00:34:04,942
+but here he lies under
+our feet like an animal,
+
+526
+00:34:04,942 --> 00:34:07,445
+drugged into insensitivity.
+
+527
+00:34:07,445 --> 00:34:10,945
+Are to play God in
+determining this man's fate?
+
+528
+00:34:10,945 --> 00:34:15,052
+In defense of this man, he
+is not a totally evil person.
+
+529
+00:34:15,052 --> 00:34:17,306
+I have seen him at
+times when he was a warm
+
+530
+00:34:17,306 --> 00:34:18,918
+and caring person.
+
+531
+00:34:18,918 --> 00:34:23,001
+Must it be we who play
+the roles of executioners?
+
+532
+00:34:24,605 --> 00:34:27,337
+The Lord above may hold us
+accountable if we take justice
+
+533
+00:34:27,337 --> 00:34:29,308
+into our own hands.
+
+534
+00:34:29,308 --> 00:34:32,593
+And the cast the venom of
+our revenge against him.
+
+535
+00:34:32,593 --> 00:34:34,128
+- Etrosef,
+
+536
+00:34:34,128 --> 00:34:36,961
+this is a pig lying under my heel.
+
+537
+00:34:39,153 --> 00:34:40,903
+And unfeeling animal.
+
+538
+00:34:42,348 --> 00:34:43,181
+A worm.
+
+539
+00:34:44,739 --> 00:34:48,270
+He represents all that
+is evil in our lives.
+
+540
+00:34:48,270 --> 00:34:52,147
+He and his people are the death of many!
+
+541
+00:34:52,147 --> 00:34:55,064
+And the near death of us ourselves!
+
+542
+00:34:56,320 --> 00:35:00,644
+God has charged us with the responsibility
+
+543
+00:35:00,644 --> 00:35:05,114
+to bring this man to justice,
+and answer for his crimes.
+
+544
+00:35:05,114 --> 00:35:06,252
+- No, no please.
+
+545
+00:35:06,252 --> 00:35:10,419
+- If we, the people, the
+victims, cannot bring this man
+
+546
+00:35:12,792 --> 00:35:15,625
+to justice, who can, and who will?
+
+547
+00:35:21,281 --> 00:35:25,470
+- Butra, you say we are
+empowered to legally judge,
+
+548
+00:35:25,470 --> 00:35:29,980
+convict, or exercise
+punishment upon this man.
+
+549
+00:35:29,980 --> 00:35:32,370
+But should not another court
+of the people bring him
+
+550
+00:35:32,370 --> 00:35:36,537
+to trial, and convict or
+execute him for his crimes?
+
+551
+00:35:37,519 --> 00:35:41,355
+We must not have his blood on our hands.
+
+552
+00:35:41,355 --> 00:35:44,272
+(Landowner groans)
+
+553
+00:35:49,592 --> 00:35:51,774
+- You are right Etrosef,
+
+554
+00:35:51,774 --> 00:35:55,228
+we must not have his blood on our hands!
+
+555
+00:35:55,228 --> 00:35:57,811
+But consider it under our feet!
+
+556
+00:36:00,356 --> 00:36:04,523
+This scum must be brought
+to justice here and now.
+
+557
+00:36:09,679 --> 00:36:13,846
+We must wipe the likes of him
+from the face of the earth.
+
+558
+00:36:14,685 --> 00:36:18,035
+Since he has planned
+escape and almost made it
+
+559
+00:36:18,035 --> 00:36:20,879
+without ever being brought to trial,
+
+560
+00:36:20,879 --> 00:36:23,879
+it is up to us that justice is done!
+
+561
+00:36:30,502 --> 00:36:33,585
+- We, we are the people of the court.
+
+562
+00:36:34,874 --> 00:36:39,041
+You are not only jurors, but
+are giving sworn testimony
+
+563
+00:36:42,262 --> 00:36:45,637
+to the charges against this man.
+
+564
+00:36:45,637 --> 00:36:47,387
+I am presiding judge.
+
+565
+00:36:49,139 --> 00:36:52,722
+And together, we represent
+the people of this land.
+
+566
+00:36:52,722 --> 00:36:53,972
+We are the law.
+
+567
+00:36:55,697 --> 00:36:58,395
+We are the law created out of chaos.
+
+568
+00:36:58,395 --> 00:37:02,562
+And it is our God-given
+duty to prosecute this man.
+
+569
+00:37:03,684 --> 00:37:07,633
+And execute whatever
+sentence this court decides.
+
+570
+00:37:07,633 --> 00:37:10,133
+(bell chimes)
+
+571
+00:37:13,049 --> 00:37:17,216
+Yes, yes we shall pause for
+the feast of the elder's crown.
+
+572
+00:37:19,778 --> 00:37:23,244
+We will pause for the
+holiday, and commence
+
+573
+00:37:23,244 --> 00:37:25,244
+with judgement tomorrow.
+
+574
+00:37:30,614 --> 00:37:31,447
+(Landowner groans)
+
+575
+00:37:31,447 --> 00:37:34,164
+- [Landowner] You can't
+leave me here like this.
+
+576
+00:37:34,164 --> 00:37:35,231
+Let me outta here!
+
+577
+00:37:35,231 --> 00:37:38,303
+You can't leave me here in these chains!
+
+578
+00:37:38,303 --> 00:37:39,136
+- Mmm, oh.
+
+579
+00:37:39,136 --> 00:37:39,969
+- Shh.
+
+580
+00:37:45,929 --> 00:37:48,679
+(rhythmic music)
+
+581
+00:39:10,470 --> 00:39:13,751
+(ominous music)
+
+582
+00:39:13,751 --> 00:39:14,828
+- Mister Landowner!
+
+583
+00:39:14,828 --> 00:39:18,103
+(Landowner gasps)
+
+584
+00:39:18,103 --> 00:39:22,637
+A kick for every time you
+took me against my will!
+
+585
+00:39:22,637 --> 00:39:25,554
+(Landowner grunts)
+
+586
+00:39:49,084 --> 00:39:50,334
+- Yes, it is I.
+
+587
+00:39:52,728 --> 00:39:57,683
+A whip for each month you
+kept me as your personal slave
+
+588
+00:39:57,683 --> 00:39:59,100
+and servant, too!
+
+589
+00:40:01,154 --> 00:40:03,987
+(Landowner cries)
+
+590
+00:40:18,935 --> 00:40:21,685
+(rhythmic music)
+
+591
+00:40:35,233 --> 00:40:37,019
+(Landowner groans)
+
+592
+00:40:37,019 --> 00:40:38,930
+- Dumping him down in the cellar.
+
+593
+00:40:38,930 --> 00:40:41,396
+They'll kill him before the trial's over.
+
+594
+00:40:41,396 --> 00:40:42,860
+- Can you blame them?
+
+595
+00:40:42,860 --> 00:40:45,955
+(Landowner groans)
+
+596
+00:40:45,955 --> 00:40:46,788
+- Stop!
+
+597
+00:40:48,152 --> 00:40:49,985
+- Get down, right now.
+
+598
+00:40:53,254 --> 00:40:56,857
+(Landowner yells)
+
+599
+00:40:56,857 --> 00:40:59,607
+(cheerful music)
+
+600
+00:41:33,278 --> 00:41:35,945
+(intense music)
+
+601
+00:42:07,667 --> 00:42:09,080
+- No one's allowed.
+
+602
+00:42:09,080 --> 00:42:11,356
+- I know, my child, but please?
+
+603
+00:42:11,356 --> 00:42:15,308
+We need to show the Master
+a little compassion.
+
+604
+00:42:15,308 --> 00:42:18,330
+- We put him in the
+cellar to keep him safe.
+
+605
+00:42:18,330 --> 00:42:20,239
+- I know child, but please?
+
+606
+00:42:20,239 --> 00:42:22,083
+Just a little sip, child.
+
+607
+00:42:22,083 --> 00:42:24,983
+Show the man some compassion.
+
+608
+00:42:24,983 --> 00:42:27,066
+Just a little sip, child.
+
+609
+00:42:32,267 --> 00:42:34,100
+Please, child, please?
+
+610
+00:42:39,236 --> 00:42:41,105
+God bless you.
+
+611
+00:42:41,105 --> 00:42:43,772
+(ominous music)
+
+612
+00:43:16,978 --> 00:43:18,126
+Hello, sir.
+
+613
+00:43:18,126 --> 00:43:22,808
+I'm Sister Mary Ellen, and
+I'm here to pray for you.
+
+614
+00:43:22,808 --> 00:43:24,975
+- I don't need no prayers.
+
+615
+00:43:25,845 --> 00:43:30,016
+- Everyone needs prayers,
+even the saints need prayers.
+
+616
+00:43:30,016 --> 00:43:34,183
+You sir, you need to pray and
+ask God for your forgiveness.
+
+617
+00:43:35,578 --> 00:43:37,969
+- I don't need no damn forgiveness!
+
+618
+00:43:37,969 --> 00:43:39,718
+I ain't done nothin', I'm innocent.
+
+619
+00:43:39,718 --> 00:43:41,559
+I tell ya, I'm innocent.
+
+620
+00:43:41,559 --> 00:43:44,726
+- Sir, even the innocent needs prayer.
+
+621
+00:43:45,871 --> 00:43:47,204
+Jesus loves you.
+
+622
+00:43:48,083 --> 00:43:51,948
+Jesus forgives you for all
+the crime that you committed.
+
+623
+00:43:51,948 --> 00:43:53,067
+Jesus loves you.
+
+624
+00:43:53,067 --> 00:43:55,250
+- I don't need no forgiveness for nothin'.
+
+625
+00:43:55,250 --> 00:43:56,917
+I have done nothin'.
+
+626
+00:43:57,781 --> 00:44:00,406
+- Jesus will forgive you.
+
+627
+00:44:00,406 --> 00:44:04,157
+Jesus would take in all the
+suffering that you caused
+
+628
+00:44:04,157 --> 00:44:05,314
+upon people.
+
+629
+00:44:05,314 --> 00:44:08,373
+All you need to do is ask for forgiveness.
+
+630
+00:44:08,373 --> 00:44:09,425
+Pray.
+
+631
+00:44:09,425 --> 00:44:11,410
+- I ain't asking for no forgiveness.
+
+632
+00:44:11,410 --> 00:44:13,581
+What you got in that cup?
+
+633
+00:44:13,581 --> 00:44:15,869
+- I just have a little something for you.
+
+634
+00:44:15,869 --> 00:44:17,628
+I know you have to be thirsty.
+
+635
+00:44:17,628 --> 00:44:19,086
+I'm compassionate.
+
+636
+00:44:19,086 --> 00:44:21,022
+Just a little sip.
+
+637
+00:44:21,022 --> 00:44:23,516
+- Yeah, I am thirsty.
+
+638
+00:44:23,516 --> 00:44:24,433
+- Drink up.
+
+639
+00:44:25,439 --> 00:44:27,027
+There you go.
+
+640
+00:44:27,027 --> 00:44:28,194
+Drink up, yes.
+
+641
+00:44:29,371 --> 00:44:31,750
+Yes, drink it down!
+
+642
+00:44:31,750 --> 00:44:33,050
+Yes.
+
+643
+00:44:33,050 --> 00:44:34,420
+How's that feel?
+
+644
+00:44:34,420 --> 00:44:35,663
+- Good.
+
+645
+00:44:35,663 --> 00:44:36,496
+- Yes.
+
+646
+00:44:37,571 --> 00:44:39,007
+Can you feel it?
+
+647
+00:44:39,007 --> 00:44:39,840
+Huh?
+
+648
+00:44:41,069 --> 00:44:41,986
+- Hey, hey.
+
+649
+00:44:43,637 --> 00:44:46,054
+- It's taking it's toll, huh?
+
+650
+00:44:47,550 --> 00:44:48,383
+Tastes good, huh?
+
+651
+00:44:48,383 --> 00:44:50,340
+Would you like some more?
+
+652
+00:44:50,340 --> 00:44:52,568
+Just a little more.
+
+653
+00:44:52,568 --> 00:44:54,009
+Yeah.
+
+654
+00:44:54,009 --> 00:44:56,494
+It's working nicely.
+
+655
+00:44:56,494 --> 00:44:57,740
+Yes.
+
+656
+00:44:57,740 --> 00:45:00,573
+Yes, the poison is workin' nicely.
+
+657
+00:45:01,771 --> 00:45:02,688
+I'm no nun!
+
+658
+00:45:03,732 --> 00:45:07,069
+Does this look like a
+nun's face to you, now?
+
+659
+00:45:07,069 --> 00:45:09,367
+I'm no Sister Mary Ellen.
+
+660
+00:45:09,367 --> 00:45:10,724
+This is no nun's face.
+
+661
+00:45:10,724 --> 00:45:13,873
+But you look, you look very closely!
+
+662
+00:45:13,873 --> 00:45:15,777
+Does this look familiar to you?
+
+663
+00:45:15,777 --> 00:45:17,366
+It should!
+
+664
+00:45:17,366 --> 00:45:18,785
+Yes, it should!
+
+665
+00:45:18,785 --> 00:45:21,618
+Because you hurt me and my people!
+
+666
+00:45:22,469 --> 00:45:24,497
+You persecuted my people!
+
+667
+00:45:24,497 --> 00:45:26,753
+Now, you're going to be judged!
+
+668
+00:45:26,753 --> 00:45:29,083
+You're gonna have a judge and jury,
+
+669
+00:45:29,083 --> 00:45:31,650
+and you gonna find you guilty!
+
+670
+00:45:31,650 --> 00:45:33,150
+Guilty as charged!
+
+671
+00:45:34,809 --> 00:45:36,524
+And now, you're gonna pay!
+
+672
+00:45:36,524 --> 00:45:37,782
+You're gonna pay!
+
+673
+00:45:37,782 --> 00:45:40,480
+This how you treat my people!
+
+674
+00:45:40,480 --> 00:45:41,978
+You're gonna pay!
+
+675
+00:45:41,978 --> 00:45:43,515
+Yeah!
+
+676
+00:45:43,515 --> 00:45:46,283
+This is the poison takin'
+it's toll upon you!
+
+677
+00:45:46,283 --> 00:45:47,890
+Ah!
+
+678
+00:45:47,890 --> 00:45:48,723
+Yes!
+
+679
+00:45:49,757 --> 00:45:50,590
+Yes!
+
+680
+00:45:51,682 --> 00:45:52,940
+Get in there!
+
+681
+00:45:52,940 --> 00:45:53,993
+I hate you!
+
+682
+00:45:53,993 --> 00:45:55,675
+You killed my brother!
+
+683
+00:45:55,675 --> 00:45:59,592
+You killed my people,
+and now you're gonna pay!
+
+684
+00:46:00,558 --> 00:46:02,729
+This is how you should be treated,
+
+685
+00:46:02,729 --> 00:46:05,039
+like a dog, like a bug!
+
+686
+00:46:05,039 --> 00:46:07,551
+Just stomped into the ground!
+
+687
+00:46:07,551 --> 00:46:08,718
+You gonna pay!
+
+688
+00:46:09,713 --> 00:46:11,374
+You!
+
+689
+00:46:11,374 --> 00:46:13,933
+You did this to my people!
+
+690
+00:46:13,933 --> 00:46:17,513
+And we had to work that plantation!
+
+691
+00:46:17,513 --> 00:46:20,730
+Months at a time, blood and sweat!
+
+692
+00:46:20,730 --> 00:46:22,976
+My brothers are dead!
+
+693
+00:46:22,976 --> 00:46:25,019
+My brothers are dead!
+
+694
+00:46:25,019 --> 00:46:26,135
+My people!
+
+695
+00:46:26,135 --> 00:46:29,218
+And now you gettin' the same portion!
+
+696
+00:46:30,216 --> 00:46:31,716
+I hate you!
+
+697
+00:46:31,716 --> 00:46:34,625
+And they, they're gonna persecute you.
+
+698
+00:46:34,625 --> 00:46:36,994
+You're gonna be judged and persecuted.
+
+699
+00:46:36,994 --> 00:46:38,393
+Guilty!
+
+700
+00:46:38,393 --> 00:46:40,118
+Guilty, as charged!
+
+701
+00:46:40,118 --> 00:46:44,877
+Guilty for kicking my
+people, killing my brother,
+
+702
+00:46:44,877 --> 00:46:46,377
+my sister, guilty!
+
+703
+00:46:48,695 --> 00:46:52,035
+This is all for the
+suffering of my people,
+
+704
+00:46:52,035 --> 00:46:55,130
+and if they don't kill you, I'll come back
+
+705
+00:46:55,130 --> 00:46:57,630
+and make sure the job is done!
+
+706
+00:47:02,826 --> 00:47:05,743
+(Landowner groans)
+
+707
+00:47:38,517 --> 00:47:39,767
+Thanks, a lot.
+
+708
+00:47:39,767 --> 00:47:42,538
+I showed the Master a little compassion.
+
+709
+00:47:42,538 --> 00:47:43,371
+Thanks.
+
+710
+00:47:53,933 --> 00:47:56,433
+(party music)
+
+711
+00:48:14,186 --> 00:48:16,853
+(intense music)
+
+712
+00:48:19,903 --> 00:48:21,623
+- What do you want in here?
+
+713
+00:48:21,623 --> 00:48:23,706
+What do you want from me?
+
+714
+00:48:24,962 --> 00:48:26,545
+What are you doing?
+
+715
+00:48:28,538 --> 00:48:30,121
+What are you doing?
+
+716
+00:48:38,738 --> 00:48:40,321
+I treated you well.
+
+717
+00:48:41,864 --> 00:48:43,697
+What are you plannin'?
+
+718
+00:48:46,323 --> 00:48:47,156
+No.
+
+719
+00:48:48,805 --> 00:48:50,388
+What are you doin'?
+
+720
+00:48:53,149 --> 00:48:53,982
+What?
+
+721
+00:48:55,216 --> 00:48:56,131
+What?
+
+722
+00:48:56,131 --> 00:48:56,964
+What are you doin'?
+
+723
+00:48:56,964 --> 00:49:00,337
+(Landowner gasps)
+
+724
+00:49:00,337 --> 00:49:02,240
+(women kick)
+
+725
+00:49:02,240 --> 00:49:05,157
+(Landowner groans)
+
+726
+00:49:16,124 --> 00:49:17,650
+- You know what you did to my sister.
+
+727
+00:49:17,650 --> 00:49:19,885
+I'm gonna make sure you never do it again.
+
+728
+00:49:19,885 --> 00:49:22,802
+(Landowner groans)
+
+729
+00:49:53,030 --> 00:49:55,780
+(cheerful music)
+
+730
+00:50:07,898 --> 00:50:10,731
+(Landowner cries)
+
+731
+00:50:47,177 --> 00:50:48,289
+- Please?
+
+732
+00:50:48,289 --> 00:50:49,148
+- Ah, go to hell.
+
+733
+00:50:49,148 --> 00:50:50,418
+You want some of the same?
+
+734
+00:50:50,418 --> 00:50:51,399
+(woman kicks)
+
+735
+00:50:51,399 --> 00:50:53,232
+- [Landowner] No more.
+
+736
+00:50:54,379 --> 00:50:56,558
+(Landowner groans)
+
+737
+00:50:56,558 --> 00:50:57,866
+Cant' take no more.
+
+738
+00:50:57,866 --> 00:50:58,699
+No.
+
+739
+00:51:00,351 --> 00:51:01,856
+(whip snaps)
+
+740
+00:51:01,856 --> 00:51:03,342
+- [Landowner Voiceover] Did
+her whip her, clear then?
+
+741
+00:51:03,342 --> 00:51:04,998
+Run away will ya?
+
+742
+00:51:04,998 --> 00:51:07,786
+(woman cries)
+
+743
+00:51:07,786 --> 00:51:10,109
+(woman screams)
+
+744
+00:51:10,109 --> 00:51:11,310
+- [Landowner Voiceover] You like that?
+
+745
+00:51:11,310 --> 00:51:12,507
+You brand her?
+
+746
+00:51:12,507 --> 00:51:14,154
+Brand 'em all.
+
+747
+00:51:14,154 --> 00:51:16,321
+(mumbles)
+
+748
+00:51:17,692 --> 00:51:19,109
+- [Landowner] No.
+
+749
+00:51:20,210 --> 00:51:21,462
+No.
+
+750
+00:51:21,462 --> 00:51:22,707
+(woman kicks)
+
+751
+00:51:22,707 --> 00:51:24,499
+(Landowner cries)
+
+752
+00:51:24,499 --> 00:51:25,332
+No more.
+
+753
+00:51:28,050 --> 00:51:29,315
+- [Woman Voiceover]
+Don't you dare touch me!
+
+754
+00:51:29,315 --> 00:51:30,369
+Stand back!
+
+755
+00:51:30,369 --> 00:51:31,326
+No!
+
+756
+00:51:31,326 --> 00:51:32,159
+No!
+
+757
+00:51:33,521 --> 00:51:35,394
+- [Landowner Voiceover] Get her.
+
+758
+00:51:35,394 --> 00:51:36,227
+Get her.
+
+759
+00:51:38,190 --> 00:51:40,612
+You won't run away again.
+
+760
+00:51:40,612 --> 00:51:43,112
+(whip cracks)
+
+761
+00:51:50,233 --> 00:51:53,622
+- Take that rifle, and you track her down,
+
+762
+00:51:53,622 --> 00:51:55,725
+and you kill that little black bitch.
+
+763
+00:51:55,725 --> 00:51:56,558
+You understand?
+
+764
+00:51:56,558 --> 00:51:57,391
+(Landowner groans)
+
+765
+00:51:57,391 --> 00:51:59,891
+(woman kicks)
+
+766
+00:52:01,056 --> 00:52:03,367
+- [Landowner Voiceover]
+Sure do love killing.
+
+767
+00:52:03,367 --> 00:52:04,200
+Brand her!
+
+768
+00:52:05,645 --> 00:52:08,367
+(Landowner groans)
+
+769
+00:52:08,367 --> 00:52:09,200
+- Ah!
+
+770
+00:52:10,975 --> 00:52:13,874
+- [Landowner Voiceover] Shame
+it didn't rip her arm off!
+
+771
+00:52:13,874 --> 00:52:16,594
+Brand 'em and they won't run away again.
+
+772
+00:52:16,594 --> 00:52:19,427
+(Landowner cries)
+
+773
+00:52:24,607 --> 00:52:27,357
+(rhythmic music)
+
+774
+00:52:37,693 --> 00:52:39,860
+(mumbles)
+
+775
+00:52:41,549 --> 00:52:44,533
+- He used this to beat me with.
+
+776
+00:52:44,533 --> 00:52:46,038
+- [Landowner] But I only
+beat her once in a while.
+
+777
+00:52:46,038 --> 00:52:48,371
+And only when she needed it.
+
+778
+00:52:50,664 --> 00:52:52,331
+It's not negligence.
+
+779
+00:53:02,210 --> 00:53:03,882
+- Thank you, Your Honor,
+
+780
+00:53:03,882 --> 00:53:06,933
+for the clarifications and rights
+
+781
+00:53:06,933 --> 00:53:09,830
+of the privileges of this court.
+
+782
+00:53:09,830 --> 00:53:13,330
+We know he is guilty of all of inhumanity.
+
+783
+00:53:15,178 --> 00:53:19,345
+Each of us here are witness
+to his merciless crimes.
+
+784
+00:53:22,972 --> 00:53:26,234
+Of which is punishable by death,
+
+785
+00:53:26,234 --> 00:53:28,817
+a little ruin us in this court.
+
+786
+00:53:31,136 --> 00:53:33,697
+This man must be made an example
+
+787
+00:53:33,697 --> 00:53:36,487
+for those who were
+before seized atrocities
+
+788
+00:53:36,487 --> 00:53:39,570
+against in our land, or in any other!
+
+789
+00:53:42,176 --> 00:53:43,397
+- [Landowner] Those weren't atrocities,
+
+790
+00:53:43,397 --> 00:53:44,464
+those were my rights.
+
+791
+00:53:44,464 --> 00:53:45,547
+I had rights.
+
+792
+00:53:47,453 --> 00:53:50,525
+- Sellahlie, you have
+not spread you charges.
+
+793
+00:53:50,525 --> 00:53:53,442
+What say you for this man's crimes?
+
+794
+00:53:54,866 --> 00:53:55,949
+- Jurors all.
+
+795
+00:53:57,680 --> 00:53:58,513
+Hear me.
+
+796
+00:54:02,370 --> 00:54:04,620
+I have seen many cruelties.
+
+797
+00:54:07,241 --> 00:54:09,415
+Many more than I care to recall,
+
+798
+00:54:09,415 --> 00:54:13,082
+and many more than you
+could ever see again.
+
+799
+00:54:15,900 --> 00:54:17,733
+Many were perpetrated,
+
+800
+00:54:20,909 --> 00:54:23,076
+by this evil, Satanic man!
+
+801
+00:54:30,461 --> 00:54:34,044
+We were forced to lick
+the foot of his kind
+
+802
+00:54:36,366 --> 00:54:37,616
+and his people.
+
+803
+00:54:40,477 --> 00:54:44,644
+And while we were licking, we
+were kicked into licking more.
+
+804
+00:54:45,484 --> 00:54:47,537
+- [Landowner] We had to stay in control.
+
+805
+00:54:47,537 --> 00:54:49,636
+We needed control.
+
+806
+00:54:49,636 --> 00:54:52,386
+- I prayed and prayed for the day
+
+807
+00:54:56,660 --> 00:54:58,160
+he licked my foot!
+
+808
+00:55:01,844 --> 00:55:02,677
+My shoe!
+
+809
+00:55:06,707 --> 00:55:07,902
+(mumbles)
+
+810
+00:55:07,902 --> 00:55:11,069
+I have prayed and prayed for that day!
+
+811
+00:55:17,508 --> 00:55:20,583
+- I beg Your Majesty, that we allow her
+
+812
+00:55:20,583 --> 00:55:22,486
+this little pleasure.
+
+813
+00:55:22,486 --> 00:55:24,553
+What say you lady jurors?
+
+814
+00:55:24,553 --> 00:55:25,924
+- [Jurors] Yes!
+
+815
+00:55:25,924 --> 00:55:27,334
+- [Butra] That is yes, Your Majesty!
+
+816
+00:55:27,334 --> 00:55:30,887
+To order the prisoner to oblige by licking
+
+817
+00:55:30,887 --> 00:55:33,887
+the dirt clean off Sellahlie's foot.
+
+818
+00:55:36,146 --> 00:55:38,646
+- [Wateesa] Yes, and so it be.
+
+819
+00:55:40,168 --> 00:55:43,240
+The prisoner is so ordered.
+
+820
+00:55:43,240 --> 00:55:45,323
+I order you to obey, now!
+
+821
+00:55:48,774 --> 00:55:49,607
+- Lick it!
+
+822
+00:55:51,080 --> 00:55:55,347
+Lick it clean, as all your
+people have forced us to do.
+
+823
+00:55:55,347 --> 00:55:57,453
+- [Landowner] No, no, I have money.
+
+824
+00:55:57,453 --> 00:55:59,101
+I have much money.
+
+825
+00:55:59,101 --> 00:56:00,235
+I'll give you all money.
+
+826
+00:56:00,235 --> 00:56:01,568
+- You had money!
+
+827
+00:56:03,560 --> 00:56:05,977
+You thought you would escape.
+
+828
+00:56:06,884 --> 00:56:09,241
+But, we have your money, now.
+
+829
+00:56:09,241 --> 00:56:11,574
+It rightfully belongs to us.
+
+830
+00:56:12,631 --> 00:56:14,300
+This court has called for the
+
+831
+00:56:14,300 --> 00:56:16,467
+(mumbles)
+
+832
+00:56:17,508 --> 00:56:18,664
+You have nothing left to
+
+833
+00:56:18,664 --> 00:56:20,606
+(mumbles)
+
+834
+00:56:20,606 --> 00:56:22,515
+We all have it.
+
+835
+00:56:22,515 --> 00:56:23,515
+Have it all.
+
+836
+00:56:24,356 --> 00:56:27,273
+Now, lick as you have been ordered!
+
+837
+00:56:28,700 --> 00:56:29,533
+Lick now!
+
+838
+00:56:30,456 --> 00:56:34,289
+Before I crush you to
+the floor with my spike!
+
+839
+00:56:40,930 --> 00:56:42,693
+That's the way!
+
+840
+00:56:42,693 --> 00:56:45,172
+That's where he belongs!
+
+841
+00:56:45,172 --> 00:56:46,589
+Licking our feet!
+
+842
+00:56:47,615 --> 00:56:48,448
+Forever!
+
+843
+00:56:49,950 --> 00:56:53,367
+Now, I say to you and to you lady jurors,
+
+844
+00:56:55,897 --> 00:56:58,887
+is this not an admission of guilt?
+
+845
+00:56:58,887 --> 00:57:00,307
+- [Jurors] Yes!
+
+846
+00:57:00,307 --> 00:57:01,140
+Guilty!
+
+847
+00:57:05,397 --> 00:57:09,082
+- Let this not differ our minds with pity.
+
+848
+00:57:09,082 --> 00:57:11,561
+Now that we've observed
+this wretch doing what
+
+849
+00:57:11,561 --> 00:57:14,721
+he should have been doing
+since the day he was born.
+
+850
+00:57:14,721 --> 00:57:15,823
+- [Landowner] I gave you everything.
+
+851
+00:57:15,823 --> 00:57:17,433
+Clothes, money, shoes, jewelry!
+
+852
+00:57:17,433 --> 00:57:18,266
+You--
+
+853
+00:57:19,168 --> 00:57:21,668
+- Now, are there more charges?
+
+854
+00:57:23,998 --> 00:57:25,665
+- Yes, Your Majesty.
+
+855
+00:57:27,141 --> 00:57:29,391
+We the jury charge this man
+
+856
+00:57:32,841 --> 00:57:36,424
+with rape, enslavement,
+plunder and treason
+
+857
+00:57:39,467 --> 00:57:41,787
+against our country!
+
+858
+00:57:41,787 --> 00:57:44,954
+The very act of terrorism, and murder.
+
+859
+00:57:48,483 --> 00:57:49,483
+- Very well.
+
+860
+00:57:50,516 --> 00:57:53,669
+Since this man has no defense, whatsoever,
+
+861
+00:57:53,669 --> 00:57:57,836
+for his crimes, and since I
+have been given free choice
+
+862
+00:57:58,993 --> 00:58:03,160
+to decide the method in
+which he is to be executed,
+
+863
+00:58:05,310 --> 00:58:08,059
+you will cast your ballots first.
+
+864
+00:58:08,059 --> 00:58:11,281
+A unanimous decision is not necessary.
+
+865
+00:58:11,281 --> 00:58:12,698
+A majority rules.
+
+866
+00:58:14,866 --> 00:58:18,783
+If he is found not guilty,
+he will be set free.
+
+867
+00:58:20,252 --> 00:58:23,139
+He will walk away unharmed.
+
+868
+00:58:23,139 --> 00:58:27,257
+All of his earthly
+possessions returned to him
+
+869
+00:58:27,257 --> 00:58:28,201
+- [Jurors] No!
+
+870
+00:58:28,201 --> 00:58:29,034
+Never!
+
+871
+00:58:30,997 --> 00:58:33,914
+- If, however, you find him guilty,
+
+872
+00:58:36,533 --> 00:58:37,533
+he will die.
+
+873
+00:58:45,950 --> 00:58:50,033
+And he will be executed
+according to your wishes.
+
+874
+00:58:51,134 --> 00:58:53,296
+- [Landowner] You don't
+have rights to say that.
+
+875
+00:58:53,296 --> 00:58:55,796
+- You may now cast your votes.
+
+876
+00:58:57,575 --> 00:58:58,825
+- You're right.
+
+877
+00:59:00,729 --> 00:59:04,896
+We the jurors have decided
+upon an act of compassion.
+
+878
+00:59:07,930 --> 00:59:12,237
+We have decided that
+our prisoner should be
+
+879
+00:59:12,237 --> 00:59:14,108
+further trusted.
+
+880
+00:59:14,108 --> 00:59:16,710
+His mind, then, will allow more
+
+881
+00:59:16,710 --> 00:59:18,266
+(mumbles)
+
+882
+00:59:18,266 --> 00:59:21,599
+of what other sentence imposed upon him,
+
+883
+00:59:22,475 --> 00:59:25,225
+should this jury find him guilty.
+
+884
+00:59:26,931 --> 00:59:29,417
+- [Landowner] No, no drugs.
+
+885
+00:59:29,417 --> 00:59:32,917
+- This court will let the prisoner decide.
+
+886
+00:59:35,037 --> 00:59:37,384
+- [Landowner] I dislike
+the fact I saw a fist.
+
+887
+00:59:37,384 --> 00:59:39,787
+No more, no drugs, no drugs.
+
+888
+00:59:39,787 --> 00:59:41,378
+Whiskey, whiskey.
+
+889
+00:59:41,378 --> 00:59:43,711
+Gimme some whiskey, whiskey.
+
+890
+00:59:46,052 --> 00:59:49,052
+(Landowner gurgles)
+
+891
+00:59:58,765 --> 00:59:59,598
+Whiskey.
+
+892
+01:00:01,333 --> 01:00:03,298
+(Landowner gurgles)
+
+893
+01:00:03,298 --> 01:00:05,798
+(horn sounds)
+
+894
+01:00:09,915 --> 01:00:12,332
+- Your wish has been granted.
+
+895
+01:00:13,795 --> 01:00:17,128
+Butra, you may proceed with the ballots.
+
+896
+01:00:18,501 --> 01:00:21,668
+- Lady jurors, please cast your votes,
+
+897
+01:00:23,803 --> 01:00:26,636
+and then place them in the holder.
+
+898
+01:00:31,048 --> 01:00:33,548
+- I repeat to you for clarity,
+
+899
+01:00:36,689 --> 01:00:39,856
+a unanimous decision is not necessary.
+
+900
+01:00:41,893 --> 01:00:43,476
+The majority rules.
+
+901
+01:00:46,429 --> 01:00:49,679
+I trust that you will cast your ballots
+
+902
+01:00:50,628 --> 01:00:53,461
+as your hearts have spoken to you.
+
+903
+01:00:54,473 --> 01:00:55,306
+Go.
+
+904
+01:00:55,306 --> 01:00:57,423
+- [Landowner] You're
+full of, you're crazy!
+
+905
+01:00:57,423 --> 01:00:58,590
+You're crazy!
+
+906
+01:00:58,590 --> 01:01:00,915
+You can't make the law, yet!
+
+907
+01:01:00,915 --> 01:01:02,814
+That's why you're all crazy, you fools!
+
+908
+01:01:02,814 --> 01:01:05,126
+- You are wrong, we are the law!
+
+909
+01:01:05,126 --> 01:01:07,255
+The newly acclaimed law!
+
+910
+01:01:07,255 --> 01:01:08,088
+- Yes!
+
+911
+01:01:08,088 --> 01:01:12,622
+- We are judge, jury and
+executioner in your case.
+
+912
+01:01:12,622 --> 01:01:13,571
+- [Jurors] Yeah!
+
+913
+01:01:13,571 --> 01:01:14,863
+That's right!
+
+914
+01:01:14,863 --> 01:01:17,580
+(Landowner groans)
+
+915
+01:01:17,580 --> 01:01:20,536
+- [Landowner] Wait, wait,
+wait, don't be foolish.
+
+916
+01:01:20,536 --> 01:01:21,911
+I have much money to give you!
+
+917
+01:01:21,911 --> 01:01:23,021
+I have money hidden.
+
+918
+01:01:23,021 --> 01:01:25,100
+I have money hidden.
+
+919
+01:01:25,100 --> 01:01:29,267
+- As we have told you, we are
+not interested in your money.
+
+920
+01:01:31,299 --> 01:01:35,267
+We have confiscated all
+your ill gained bounty.
+
+921
+01:01:35,267 --> 01:01:38,988
+We are interested that justice be done.
+
+922
+01:01:38,988 --> 01:01:40,924
+- [Landowner] But I've
+already given you everything.
+
+923
+01:01:40,924 --> 01:01:42,579
+I've given you so much!
+
+924
+01:01:42,579 --> 01:01:47,071
+You can have it all,
+you can have everything.
+
+925
+01:01:47,071 --> 01:01:49,236
+Wait, wait, I beg you.
+
+926
+01:01:49,236 --> 01:01:50,510
+I beg you!
+
+927
+01:01:50,510 --> 01:01:51,681
+Please, please?
+
+928
+01:01:51,681 --> 01:01:54,201
+I will get money, I will pay you all.
+
+929
+01:01:54,201 --> 01:01:56,606
+I will pay, pay well.
+
+930
+01:01:56,606 --> 01:01:59,739
+I have money in other
+places, I'll pay you all.
+
+931
+01:01:59,739 --> 01:02:00,989
+Please, please?
+
+932
+01:02:01,917 --> 01:02:05,084
+- As God is my judge, I am your judge.
+
+933
+01:02:06,833 --> 01:02:09,250
+And you will not be set free.
+
+934
+01:02:10,823 --> 01:02:14,990
+But you will be sentenced
+by the will of this court.
+
+935
+01:02:16,447 --> 01:02:18,016
+- [Landowner] Wait, wait.
+
+936
+01:02:18,016 --> 01:02:19,882
+You don't have any authority to do this.
+
+937
+01:02:19,882 --> 01:02:23,358
+You have my weapons, and your
+chains are cutting my wrists,
+
+938
+01:02:23,358 --> 01:02:25,691
+but you still can't do this!
+
+939
+01:02:29,517 --> 01:02:32,184
+(thunder rolls)
+
+940
+01:02:45,987 --> 01:02:48,404
+- Suhya, collect the ballots.
+
+941
+01:03:20,548 --> 01:03:21,381
+Guilty.
+
+942
+01:03:28,423 --> 01:03:29,256
+Guilty.
+
+943
+01:03:38,374 --> 01:03:39,291
+Not guilty.
+
+944
+01:03:40,940 --> 01:03:43,607
+(jurors murmur)
+
+945
+01:03:52,056 --> 01:03:52,889
+Guilty.
+
+946
+01:04:05,412 --> 01:04:06,245
+Guilty.
+
+947
+01:04:17,959 --> 01:04:18,792
+Guilty.
+
+948
+01:04:28,429 --> 01:04:29,262
+Guilty.
+
+949
+01:04:39,990 --> 01:04:40,823
+Guilty.
+
+950
+01:04:45,994 --> 01:04:47,327
+And now my vote.
+
+951
+01:04:51,348 --> 01:04:52,181
+Guilty!
+
+952
+01:04:53,213 --> 01:04:55,520
+The verdict is death!
+
+953
+01:04:55,520 --> 01:04:57,075
+- No!
+
+954
+01:04:57,075 --> 01:04:57,908
+Oh, no!
+
+955
+01:05:02,224 --> 01:05:04,669
+No, you're all fools.
+
+956
+01:05:04,669 --> 01:05:06,287
+You're all fools!
+
+957
+01:05:06,287 --> 01:05:09,673
+You can't take the law
+into your own hands.
+
+958
+01:05:09,673 --> 01:05:11,423
+Your plenty of fools.
+
+959
+01:05:13,528 --> 01:05:15,440
+- We are the law.
+
+960
+01:05:15,440 --> 01:05:17,975
+The newly acclaimed law.
+
+961
+01:05:17,975 --> 01:05:21,975
+We are judge, jury and
+executioner in your case.
+
+962
+01:05:28,758 --> 01:05:31,153
+- Wait, wait, wait, wait.
+
+963
+01:05:31,153 --> 01:05:33,070
+Please, please, please.
+
+964
+01:05:35,113 --> 01:05:35,946
+My slaves.
+
+965
+01:05:37,950 --> 01:05:39,733
+I have much money.
+
+966
+01:05:39,733 --> 01:05:42,872
+I have a way to give you wealth.
+
+967
+01:05:42,872 --> 01:05:45,394
+I have a way to give you money.
+
+968
+01:05:45,394 --> 01:05:47,130
+Please release me.
+
+969
+01:05:47,130 --> 01:05:48,435
+Please release me.
+
+970
+01:05:48,435 --> 01:05:50,057
+I will give you money.
+
+971
+01:05:50,057 --> 01:05:53,584
+I have jewels, I have, I will give you--
+
+972
+01:05:53,584 --> 01:05:57,604
+- As we have told you, your
+money has been confiscated
+
+973
+01:05:57,604 --> 01:05:59,442
+by this court.
+
+974
+01:05:59,442 --> 01:06:01,344
+We are not interested in your money,
+
+975
+01:06:01,344 --> 01:06:03,427
+but that justice be done.
+
+976
+01:06:04,671 --> 01:06:06,699
+- Wait, wait, wait, wait.
+
+977
+01:06:06,699 --> 01:06:08,059
+I have money elsewhere.
+
+978
+01:06:08,059 --> 01:06:10,196
+Money, money that you didn't get.
+
+979
+01:06:10,196 --> 01:06:11,389
+I will pay you all well.
+
+980
+01:06:11,389 --> 01:06:13,693
+I will pay you all well!
+
+981
+01:06:13,693 --> 01:06:14,713
+Release me.
+
+982
+01:06:14,713 --> 01:06:16,496
+I will pay you well.
+
+983
+01:06:16,496 --> 01:06:19,000
+I will make you wealthy.
+
+984
+01:06:19,000 --> 01:06:21,401
+I will give you much money.
+
+985
+01:06:21,401 --> 01:06:24,568
+- As God is my judge, I am your judge.
+
+986
+01:06:26,450 --> 01:06:28,533
+You will not be set free.
+
+987
+01:06:30,657 --> 01:06:33,879
+But you will be sentenced by this court.
+
+988
+01:06:33,879 --> 01:06:37,296
+And according to the wishes of my jurors.
+
+989
+01:06:38,646 --> 01:06:40,905
+- No, no please, please, please.
+
+990
+01:06:40,905 --> 01:06:44,510
+Please, please, I beg of you, please!
+
+991
+01:06:44,510 --> 01:06:48,048
+- Silence from you now, or
+this weapon will put an end
+
+992
+01:06:48,048 --> 01:06:49,298
+to your crimes.
+
+993
+01:06:54,233 --> 01:06:56,900
+Now jurors, you will vote again.
+
+994
+01:06:58,338 --> 01:07:02,836
+This time for one of the
+four methods I have selected
+
+995
+01:07:02,836 --> 01:07:04,336
+for his execution.
+
+996
+01:07:05,838 --> 01:07:09,940
+I have chosen these alternatives
+from all of the crimes
+
+997
+01:07:09,940 --> 01:07:12,273
+from which he has committed.
+
+998
+01:07:14,938 --> 01:07:19,021
+Number one, he will kneel
+before me, blindfolded,
+
+999
+01:07:23,253 --> 01:07:27,420
+then be shot by his former
+slave, now queen and judge.
+
+1000
+01:07:31,891 --> 01:07:36,058
+Number two, he will be
+hanged by each and every one
+
+1001
+01:07:40,097 --> 01:07:40,930
+of you.
+
+1002
+01:07:42,396 --> 01:07:46,563
+Rope stretched taughtly
+around his neck until the life
+
+1003
+01:07:48,310 --> 01:07:49,727
+is gone from him.
+
+1004
+01:07:52,143 --> 01:07:56,060
+Number three, he will be
+knifed, stabbed again,
+
+1005
+01:07:58,399 --> 01:08:03,032
+and again, and again, until
+the blood drains from his body.
+
+1006
+01:08:03,032 --> 01:08:06,750
+He will be stabbed again and again,
+
+1007
+01:08:06,750 --> 01:08:08,833
+until life ebbs from him.
+
+1008
+01:08:13,536 --> 01:08:17,036
+Number four, he will be trampled to death.
+
+1009
+01:08:21,326 --> 01:08:25,493
+He will be stomped to slime
+under the heels of our shoes.
+
+1010
+01:08:26,799 --> 01:08:31,052
+He will be pulverized, and
+his remains will lay open
+
+1011
+01:08:31,052 --> 01:08:32,635
+on the bare ground.
+
+1012
+01:08:34,122 --> 01:08:38,289
+He will be trampled until his
+remains seep into the earth.
+
+1013
+01:08:40,744 --> 01:08:44,219
+- [Landowner] You can't do this.
+
+1014
+01:08:44,219 --> 01:08:48,164
+- Butra, you shall now
+instruct your main jurors
+
+1015
+01:08:48,164 --> 01:08:49,997
+to cast their ballots.
+
+1016
+01:08:51,328 --> 01:08:52,934
+- Yes, Your Majesty.
+
+1017
+01:08:52,934 --> 01:08:56,017
+Lady jurors, please cast your ballots
+
+1018
+01:08:57,062 --> 01:08:59,395
+for the matter of execution.
+
+1019
+01:09:00,234 --> 01:09:02,567
+Number one, he will be shot!
+
+1020
+01:09:05,411 --> 01:09:07,911
+Number two, he will be hanged!
+
+1021
+01:09:11,134 --> 01:09:14,551
+Number three, he will be knifed to death!
+
+1022
+01:09:18,671 --> 01:09:22,838
+Number four, he will be trampled
+by the heel of our shoes!
+
+1023
+01:09:28,925 --> 01:09:31,342
+He will be trampled to death!
+
+1024
+01:09:32,313 --> 01:09:33,506
+- [Landowner] No, no!
+
+1025
+01:09:33,506 --> 01:09:35,935
+I bought and paid for all
+the clothes you're wearing,
+
+1026
+01:09:35,935 --> 01:09:38,674
+all those clothes, all
+those shoes, the jewelry.
+
+1027
+01:09:38,674 --> 01:09:40,600
+They belonged to my wife.
+
+1028
+01:09:40,600 --> 01:09:42,210
+Everything you're wearing.
+
+1029
+01:09:42,210 --> 01:09:43,572
+It's not right.
+
+1030
+01:09:43,572 --> 01:09:45,572
+You can't do this to me.
+
+1031
+01:09:47,814 --> 01:09:50,147
+- Again, the majority rules.
+
+1032
+01:09:52,582 --> 01:09:55,415
+A unanimous vote is not necessary.
+
+1033
+01:09:56,473 --> 01:09:59,140
+(jurors murmur)
+
+1034
+01:10:08,572 --> 01:10:10,989
+- Suhya, collect the ballots.
+
+1035
+01:10:41,866 --> 01:10:44,533
+Suhya will now read the ballots.
+
+1036
+01:10:50,197 --> 01:10:54,280
+- The first ballot is for
+number one, to be shot.
+
+1037
+01:10:56,427 --> 01:10:59,594
+The second ballot is for number three,
+
+1038
+01:11:00,585 --> 01:11:02,918
+to be executed by the knife.
+
+1039
+01:11:07,623 --> 01:11:10,706
+The third is to be trampled to death.
+
+1040
+01:11:22,917 --> 01:11:26,917
+The fourth ballot is for
+number four, trampling.
+
+1041
+01:11:36,242 --> 01:11:39,878
+The fifth ballot is for
+number four, to be stomped
+
+1042
+01:11:39,878 --> 01:11:42,045
+and trampled to the death.
+
+1043
+01:11:51,790 --> 01:11:54,290
+The sixth ballot is trampling.
+
+1044
+01:12:09,323 --> 01:12:13,406
+The seventh ballot is for
+number one, to be shot.
+
+1045
+01:12:17,558 --> 01:12:21,225
+The eighth ballot is
+number four, trampling.
+
+1046
+01:12:24,142 --> 01:12:28,309
+And the ninth ballot is
+for number four, trampling.
+
+1047
+01:12:38,648 --> 01:12:41,648
+- And now, for the final vote, mine.
+
+1048
+01:12:43,967 --> 01:12:47,634
+I cast my ballot for
+number four, trampling.
+
+1049
+01:12:53,848 --> 01:12:56,548
+Ladies of the jury, the verdict is clear.
+
+1050
+01:12:56,548 --> 01:12:58,131
+Trampling to death.
+
+1051
+01:13:02,352 --> 01:13:06,435
+We shall now and at this
+moment, execute sentence
+
+1052
+01:13:07,645 --> 01:13:08,478
+upon the
+
+1053
+01:13:09,473 --> 01:13:12,802
+(Landowner drowns out Wateesa)
+
+1054
+01:13:12,802 --> 01:13:14,040
+- [Landowner] You have no rights.
+
+1055
+01:13:14,040 --> 01:13:16,973
+You have no rights to
+sentence me to anything.
+
+1056
+01:13:16,973 --> 01:13:19,857
+You have no rights at
+all, you can't do this,
+
+1057
+01:13:19,857 --> 01:13:21,707
+it's not right, you can't sentence me.
+
+1058
+01:13:21,707 --> 01:13:24,207
+(woman kicks)
+
+1059
+01:13:26,474 --> 01:13:28,495
+(Landowner cries)
+
+1060
+01:13:28,495 --> 01:13:31,249
+- More whiskey, more whiskey please?
+
+1061
+01:13:31,249 --> 01:13:32,205
+More whiskey?
+
+1062
+01:13:32,205 --> 01:13:33,288
+More whiskey?
+
+1063
+01:13:36,144 --> 01:13:39,144
+(Landowner gurgles)
+
+1064
+01:13:41,988 --> 01:13:43,959
+(woman kicks)
+
+1065
+01:13:43,959 --> 01:13:48,126
+- The time for leniency
+and compassion is now over.
+
+1066
+01:13:49,764 --> 01:13:52,681
+You will now receive your sentence.
+
+1067
+01:13:53,982 --> 01:13:56,399
+(gong rings)
+
+1068
+01:14:00,530 --> 01:14:01,530
+- Murderers!
+
+1069
+01:14:03,707 --> 01:14:05,231
+You'll all be murderers.
+
+1070
+01:14:05,231 --> 01:14:06,890
+Murderers!
+
+1071
+01:14:06,890 --> 01:14:09,022
+- As you have been.
+
+1072
+01:14:09,022 --> 01:14:11,272
+And now, an eye for an eye.
+
+1073
+01:14:12,753 --> 01:14:17,357
+Do not fear, our heels
+high and sharp will strike
+
+1074
+01:14:17,357 --> 01:14:19,274
+you swiftly as bullets.
+
+1075
+01:14:20,207 --> 01:14:24,009
+Your death will come
+quickly, I assure you.
+
+1076
+01:14:24,009 --> 01:14:26,087
+- [Landowner] Oh, no.
+
+1077
+01:14:26,087 --> 01:14:28,004
+- Justice will be done.
+
+1078
+01:14:32,047 --> 01:14:36,004
+Now ladies of the jury,
+take your positions
+
+1079
+01:14:36,004 --> 01:14:37,504
+for the execution.
+
+1080
+01:14:51,391 --> 01:14:55,058
+Now ladies of the jury,
+take your positions,
+
+1081
+01:14:57,294 --> 01:15:01,461
+and on the count of three,
+drive your spikes deeply
+
+1082
+01:15:02,395 --> 01:15:05,062
+and with a vengeance, and power.
+
+1083
+01:15:07,336 --> 01:15:09,709
+- [Landowner] No, please
+don't do this to me!
+
+1084
+01:15:09,709 --> 01:15:11,539
+I don't deserve to die this way.
+
+1085
+01:15:11,539 --> 01:15:12,706
+Don't do this!
+
+1086
+01:15:17,660 --> 01:15:19,191
+- One.
+
+1087
+01:15:19,191 --> 01:15:21,941
+- [Landowner] No, no, no, no, no.
+
+1088
+01:15:25,337 --> 01:15:26,170
+- Two.
+
+1089
+01:15:26,170 --> 01:15:29,601
+- [Landowner] No, no, no, please.
+
+1090
+01:15:29,601 --> 01:15:30,434
+- Three!
+
+1091
+01:15:30,434 --> 01:15:31,776
+(women yell)
+
+1092
+01:15:31,776 --> 01:15:35,505
+(Landowner groans)
+
+1093
+01:15:35,505 --> 01:15:38,422
+(percussive music)
+
+1094
+01:18:34,094 --> 01:18:37,427
+(piano and vocal music)
+

@@ -1,0 +1,6803 @@
+﻿1
+00:00:08,822 --> 00:00:12,383
+<i>[wolf howls]</i>
+
+2
+00:00:32,312 --> 00:00:34,803
+<i>[crickets chirping]</i>
+
+3
+00:00:34,848 --> 00:00:38,545
+<i>[waves lapping]</i>
+
+4
+00:00:45,592 --> 00:00:46,559
+<i>[Brian Lam's Crash]</i>
+
+5
+00:00:46,593 --> 00:00:55,433
+♪ ♪
+
+6
+00:00:55,469 --> 00:00:57,562
+♪ <i>Lost and in between</i> ♪
+
+7
+00:00:57,604 --> 00:00:59,094
+♪ <i>The way you thought it was</i> ♪
+
+8
+00:00:59,339 --> 00:01:00,704
+♪ <i>And thought it seemed</i> ♪
+
+9
+00:01:00,741 --> 00:01:05,576
+♪ <i>And everyone has changed</i> ♪
+
+10
+00:01:05,612 --> 00:01:08,103
+♪ <i>Soon you'll realize that</i> ♪
+
+11
+00:01:08,348 --> 00:01:09,440
+♪ <i>You're the one</i> ♪
+
+12
+00:01:09,483 --> 00:01:10,711
+♪ <i>Who's compromised</i> ♪
+
+13
+00:01:10,751 --> 00:01:15,120
+♪ <i>And you're the one to blame</i> ♪
+
+14
+00:01:15,355 --> 00:01:18,119
+♪ <i>Listen now</i>
+<i>Listen now</i> ♪
+
+15
+00:01:18,358 --> 00:01:19,985
+♪ <i>lf you want another chance</i> ♪
+
+16
+00:01:20,026 --> 00:01:21,994
+♪ <i>You'll take it now</i> ♪
+
+17
+00:01:22,028 --> 00:01:25,464
+♪ <i>Oh, oh</i> ♪
+
+18
+00:01:25,499 --> 00:01:26,591
+♪ <i>lf you crash</i> ♪
+
+19
+00:01:26,633 --> 00:01:28,726
+♪ <i>Crash, crash</i> ♪
+
+20
+00:01:28,769 --> 00:01:30,134
+♪ <i>lf it goes down tonight</i> ♪
+
+21
+00:01:30,370 --> 00:01:31,860
+♪ <i>lt's the messes</i> ♪
+
+22
+00:01:31,905 --> 00:01:33,600
+♪ <i>That you make</i> ♪
+
+23
+00:01:33,640 --> 00:01:34,470
+♪ <i>The hearts</i> ♪
+
+24
+00:01:34,508 --> 00:01:36,135
+♪ <i>That you will break</i> ♪
+
+25
+00:01:36,376 --> 00:01:37,741
+♪ <i>lf you crash</i> ♪
+
+26
+00:01:37,778 --> 00:01:40,747
+♪ <i>Crash, crash</i> ♪
+
+27
+00:01:40,781 --> 00:01:44,012
+♪ <i>Oh, don't go another day</i> ♪
+
+28
+00:01:44,050 --> 00:01:46,018
+♪ <i>lt's time to walk away</i> ♪
+
+29
+00:01:46,052 --> 00:01:47,747
+♪ <i>Or you'll crash</i> ♪
+
+30
+00:01:47,788 --> 00:01:50,757
+♪ <i>Crash, crash</i> ♪
+
+31
+00:01:50,791 --> 00:01:52,759
+♪ <i>Oh, you'll crash</i> ♪
+
+32
+00:01:52,793 --> 00:01:55,887
+♪ <i>Crash, crash</i> ♪
+
+33
+00:01:55,929 --> 00:01:56,896
+♪ <i>Oh, you'll crash</i> ♪
+
+34
+00:01:56,930 --> 00:01:59,160
+♪ <i>Opened all the doors 'cause</i> ♪
+
+35
+00:01:59,399 --> 00:02:00,627
+♪ <i>You think you know</i> ♪
+
+36
+00:02:00,667 --> 00:02:01,895
+♪ <i>Where they go</i> ♪
+
+37
+00:02:01,935 --> 00:02:03,027
+♪ <i>But none</i> ♪
+
+38
+00:02:03,069 --> 00:02:06,903
+♪ <i>Will lead you home</i> ♪
+
+39
+00:02:06,940 --> 00:02:08,168
+♪ <i>Day and night</i> ♪
+
+40
+00:02:08,408 --> 00:02:09,773
+♪ <i>Are magnified</i> ♪
+
+41
+00:02:09,810 --> 00:02:10,777
+♪ <i>Against the good</i> ♪
+
+42
+00:02:10,811 --> 00:02:12,176
+♪ <i>Against the light</i> ♪
+
+43
+00:02:12,412 --> 00:02:16,041
+♪ <i>Till you are left alone</i> ♪
+
+44
+00:02:16,082 --> 00:02:19,176
+♪ <i>Listen now</i>
+<i>Listen now</i> ♪
+
+45
+00:02:19,419 --> 00:02:20,909
+♪ <i>lf you want another chance</i> ♪
+
+46
+00:02:20,954 --> 00:02:23,184
+♪ <i>You'll take it now</i> ♪
+
+47
+00:02:23,423 --> 00:02:26,654
+♪ <i>Oh, oh</i> ♪
+
+48
+00:02:26,693 --> 00:02:28,661
+♪ <i>Oh, you'll crash</i> ♪
+
+49
+00:02:28,695 --> 00:02:30,060
+♪ <i>Crash, crash</i> ♪
+
+50
+00:02:30,096 --> 00:02:31,654
+♪ <i>lf it goes down tonight</i> ♪
+
+51
+00:02:31,698 --> 00:02:33,188
+♪ <i>lt's the messes</i> ♪
+
+52
+00:02:33,433 --> 00:02:34,798
+♪ <i>That you make</i> ♪
+
+53
+00:02:34,835 --> 00:02:35,802
+♪ <i>The hearts</i> ♪
+
+54
+00:02:35,836 --> 00:02:37,201
+♪ <i>That you will break</i> ♪
+
+55
+00:02:37,437 --> 00:02:38,927
+♪ <i>lf you crash</i> ♪
+
+56
+00:02:38,972 --> 00:02:42,203
+♪ <i>Crash, crash</i> ♪
+
+57
+00:02:42,442 --> 00:02:45,070
+♪ <i>Oh, don't go another day</i> ♪
+
+58
+00:02:45,111 --> 00:02:47,204
+♪ <i>lt's time to walk away</i> ♪
+
+59
+00:02:47,447 --> 00:02:48,812
+<i>[clicks]</i>
+
+60
+00:02:50,984 --> 00:02:53,077
+<i>[people conversing]</i>
+
+61
+00:02:53,119 --> 00:02:54,086
+<i>[slow jazzy music playing]</i>
+
+62
+00:02:54,120 --> 00:03:02,459
+♪ ♪
+
+63
+00:03:02,496 --> 00:03:05,465
+<i>[cell phone vibrating]</i>
+
+64
+00:03:17,911 --> 00:03:19,469
+Bitch.
+
+65
+00:03:36,062 --> 00:03:37,893
+Two glasses of wine, please.
+
+66
+00:03:43,503 --> 00:03:45,596
+Uh, vodka gimlet, rocks.
+
+67
+00:03:48,642 --> 00:03:52,601
+Hey, l'm Zach.
+
+68
+00:03:52,646 --> 00:03:54,739
+Nate.
+
+69
+00:03:54,781 --> 00:03:57,011
+You're, uh...
+
+70
+00:03:57,050 --> 00:03:58,745
+Topher's friend.
+
+71
+00:03:58,785 --> 00:04:00,150
+Yeah.
+
+72
+00:04:00,186 --> 00:04:01,744
+He, um...
+
+73
+00:04:01,788 --> 00:04:04,154
+He showed me your audition tape
+for <i>Blood and Barcelona</i>.
+
+74
+00:04:04,190 --> 00:04:05,623
+You look good.
+
+75
+00:04:05,659 --> 00:04:07,183
+Did he say something?
+
+76
+00:04:08,662 --> 00:04:10,721
+Well, l mean--l mean,
+you've got a good look.
+
+77
+00:04:12,799 --> 00:04:15,029
+Too bad he didn't hire you
+as casting director.
+
+78
+00:05:00,246 --> 00:05:01,338
+<i>[playing softly]</i>
+
+79
+00:05:01,581 --> 00:05:09,352
+♪ ♪
+
+80
+00:05:16,129 --> 00:05:20,691
+l witnessed your crash and burn
+with beautiful young Nate.
+
+81
+00:05:20,734 --> 00:05:22,702
+Yeah, l, uh...
+
+82
+00:05:22,736 --> 00:05:23,964
+aimed too high.
+
+83
+00:05:24,004 --> 00:05:25,096
+Too high?
+
+84
+00:05:25,138 --> 00:05:26,833
+Mmm, on the hotness scale.
+
+85
+00:05:26,873 --> 00:05:30,832
+You know, l am a solid seven,
+and, uh, you can always get
+
+86
+00:05:30,877 --> 00:05:32,902
+somebody two points below you
+to bump hot dogs,
+
+87
+00:05:32,946 --> 00:05:35,710
+which for me is, like, a five,
+you know, guaranteed.
+
+88
+00:05:35,749 --> 00:05:38,843
+But what l want is an
+eight or a nine, you know.
+
+89
+00:05:38,885 --> 00:05:40,250
+Tens totally intimidate me.
+
+90
+00:05:40,286 --> 00:05:41,719
+You know, l start to blather.
+
+91
+00:05:41,755 --> 00:05:43,347
+He was, l don't know,
+
+92
+00:05:43,390 --> 00:05:45,324
+maybe a nine,
+although with the lighting,
+
+93
+00:05:45,358 --> 00:05:47,121
+l might have overestimated.
+
+94
+00:05:47,160 --> 00:05:49,128
+l thought you could
+approach a nine.
+
+95
+00:05:49,162 --> 00:05:50,254
+Seriously, no.
+
+96
+00:05:50,296 --> 00:05:53,129
+So being my friend didn't help?
+
+97
+00:05:53,166 --> 00:05:55,134
+Not so much.
+
+98
+00:05:55,168 --> 00:05:56,999
+lt can help you with one thing.
+
+99
+00:05:57,037 --> 00:05:58,868
+<i>O</i>h, yeah?
+What's that?
+
+100
+00:05:58,905 --> 00:06:01,396
+Getting an excellent
+birthday present.
+
+101
+00:06:03,176 --> 00:06:06,737
+You didn't...
+Thanks, Toph.
+
+102
+00:06:06,780 --> 00:06:09,010
+lt's got all my numbers and
+emails pre-programmed
+
+103
+00:06:09,049 --> 00:06:10,414
+so you can reach me anywhere.
+
+104
+00:06:10,650 --> 00:06:14,279
+Like if you were suddenly
+struck with an idea for a movie.
+
+105
+00:06:14,320 --> 00:06:16,288
+Right, yeah.
+
+106
+00:06:17,424 --> 00:06:19,415
+This will shrivel up your dick.
+
+107
+00:06:25,331 --> 00:06:27,891
+Happy birthday, part two.
+
+108
+00:06:33,673 --> 00:06:35,903
+Keystone?
+
+109
+00:06:35,942 --> 00:06:37,910
+For the film festival.
+
+110
+00:06:37,944 --> 00:06:41,436
+You want to take me to
+the keystone film festival?
+
+111
+00:06:41,681 --> 00:06:43,444
+l need you to take my place.
+
+112
+00:06:43,683 --> 00:06:44,911
+Your place?
+
+113
+00:06:44,951 --> 00:06:47,317
+Dude, <i>Blood and Barcelona</i>
+just got financed.
+
+114
+00:06:47,353 --> 00:06:50,049
+We leave for Spain right away.
+
+115
+00:06:50,090 --> 00:06:53,457
+l need you to fill in for me
+as a judge at the festival.
+
+116
+00:06:53,693 --> 00:06:56,787
+Dude, Keystone asked for you.
+There's no place for me there.
+
+117
+00:06:59,699 --> 00:07:02,930
+Would they--would they even know
+that l'd be replacing you?
+
+118
+00:07:02,969 --> 00:07:04,334
+<i>O</i>f course.
+
+119
+00:07:08,708 --> 00:07:10,938
+All you have to do
+is watch some movies
+
+120
+00:07:10,977 --> 00:07:13,946
+and interview film students
+for the festival scholarship.
+
+121
+00:07:13,980 --> 00:07:15,470
+You love movies.
+
+122
+00:07:15,715 --> 00:07:18,479
+And l'm sure the boys are cute.
+
+123
+00:07:18,718 --> 00:07:20,083
+These aren't just boys, Toph.
+
+124
+00:07:20,120 --> 00:07:21,815
+These are
+skinny-jeans-wearing brats
+
+125
+00:07:21,855 --> 00:07:24,221
+who think that the world
+owes them something.
+
+126
+00:07:24,257 --> 00:07:26,088
+Yeah. Ha, ha.
+
+127
+00:07:34,000 --> 00:07:39,233
+Man, what would l even
+tell those kids?
+
+128
+00:07:39,272 --> 00:07:40,967
+You know, my Hollywood career
+
+129
+00:07:41,007 --> 00:07:44,101
+has consisted of
+parties and rehab.
+
+130
+00:07:44,144 --> 00:07:47,113
+l think those kids would
+like to learn something
+
+131
+00:07:47,147 --> 00:07:49,115
+from a guy
+who won the festival
+
+132
+00:07:49,149 --> 00:07:50,844
+when he was only a sophomore.
+
+133
+00:07:50,884 --> 00:07:53,182
+Yeah, that guy quit
+school to go to L.A.
+
+134
+00:07:53,219 --> 00:07:54,948
+because he was so talented,
+
+135
+00:07:54,988 --> 00:07:58,048
+and Hollywood obliged by making
+me the biggest partier ever.
+
+136
+00:07:59,893 --> 00:08:02,953
+That was a different guy...
+
+137
+00:08:02,996 --> 00:08:04,429
+Go back to Keystone.
+
+138
+00:08:12,238 --> 00:08:15,264
+Birthday present, part three.
+
+139
+00:08:16,442 --> 00:08:17,409
+<i>[Oak & Gorski's Analog Girl]</i>
+
+140
+00:08:17,443 --> 00:08:18,410
+♪ ♪
+
+141
+00:08:18,444 --> 00:08:21,538
+<i>[vibration]</i>
+
+142
+00:08:47,874 --> 00:08:49,034
+♪ <i>l see you walk</i> ♪
+
+143
+00:08:49,075 --> 00:08:52,306
+♪ <i>Around your room</i>... ♪
+
+144
+00:08:52,345 --> 00:08:54,575
+Excuse me, uh...Mr. Welds?
+
+145
+00:08:54,814 --> 00:08:57,977
+Welcome to Keystone University.
+We're the key to your future.
+
+146
+00:08:58,017 --> 00:09:02,386
+Um, you must be here
+for the festival.
+
+147
+00:09:02,422 --> 00:09:05,050
+You staying on campus
+tonight, son?
+
+148
+00:09:05,091 --> 00:09:07,321
+Uh, Grace Hall.
+
+149
+00:09:07,360 --> 00:09:09,191
+That's a student dorm, son.
+
+150
+00:09:09,229 --> 00:09:10,992
+You must've pissed someone off.
+
+151
+00:09:11,030 --> 00:09:13,999
+Most VlPs are staying
+in The Tower.
+
+152
+00:09:15,969 --> 00:09:18,267
+At least it's easy to find.
+
+153
+00:09:18,304 --> 00:09:19,862
+Thank you.
+
+154
+00:09:19,906 --> 00:09:21,464
+Enjoy your visit.
+
+155
+00:09:23,042 --> 00:09:27,342
+♪ <i>Look what you made me</i> ♪
+
+156
+00:09:27,380 --> 00:09:31,339
+♪ <i>l must be crazy</i> ♪
+
+157
+00:09:31,384 --> 00:09:35,150
+♪ <i>Look what you made me</i> ♪
+
+158
+00:09:35,188 --> 00:09:38,555
+♪ <i>My bread and butterflies</i> ♪
+
+159
+00:09:38,591 --> 00:09:42,891
+♪ <i>Schizophrenic little girl</i> ♪
+
+160
+00:09:42,929 --> 00:09:46,490
+♪ <i>Hip-hop from the underground</i> ♪
+
+161
+00:09:46,532 --> 00:09:47,556
+♪ <i>The soundtrack</i> ♪
+
+162
+00:09:47,600 --> 00:09:50,433
+♪ <i>To your little world</i> ♪
+
+163
+00:09:50,470 --> 00:09:51,494
+Call Topher.
+
+164
+00:09:51,537 --> 00:09:53,903
+[female voice] Calling Topher.
+
+165
+00:09:53,940 --> 00:09:57,899
+Fucking voicemail.
+Thanks a lot, man.
+
+166
+00:09:57,944 --> 00:10:01,380
+l can't believe l just let you
+keep screwing me over.
+
+167
+00:10:01,414 --> 00:10:02,972
+You know where they put me?
+
+168
+00:10:03,016 --> 00:10:04,176
+A freshman dorm.
+
+169
+00:10:04,217 --> 00:10:06,242
+Freshman, Toph!
+
+170
+00:10:06,886 --> 00:10:10,378
+♪ <i>l must be crazy</i> ♪
+
+171
+00:10:10,423 --> 00:10:14,519
+♪ <i>Look what you made me</i> ♪
+
+172
+00:10:14,560 --> 00:10:18,394
+♪ <i>l must be crazy</i> ♪
+
+173
+00:10:18,431 --> 00:10:22,595
+♪ <i>Look what you made me</i> ♪
+
+174
+00:10:22,635 --> 00:10:29,063
+♪ <i>Stare at you</i>
+<i>Stare at you</i> ♪
+
+175
+00:10:29,108 --> 00:10:30,939
+♪ <i>Yeah, the secrets</i> ♪
+
+176
+00:10:30,977 --> 00:10:35,539
+♪ <i>That that mirror could tell</i> ♪
+
+177
+00:10:40,586 --> 00:10:42,383
+Who's the old dude?
+
+178
+00:10:43,189 --> 00:10:44,986
+l dunno.
+
+179
+00:10:53,266 --> 00:10:54,631
+<i>[Mayda's Stereotype playing]</i>
+
+180
+00:10:54,667 --> 00:10:57,693
+♪ ♪
+
+181
+00:10:57,937 --> 00:10:59,370
+♪ <i>lt only takes one look</i> ♪
+
+182
+00:10:59,405 --> 00:11:02,568
+♪ <i>To start shakin' your head</i> ♪
+
+183
+00:11:02,608 --> 00:11:04,200
+♪ <i>lt only takes one crook</i> ♪
+
+184
+00:11:04,243 --> 00:11:05,335
+♪ <i>To start sleepin'</i> ♪
+
+185
+00:11:05,378 --> 00:11:07,403
+♪ <i>With a bat in your bed</i> ♪
+
+186
+00:11:07,447 --> 00:11:09,074
+♪ <i>lt only takes one brick</i> ♪
+
+187
+00:11:09,115 --> 00:11:11,413
+♪ <i>Just to build up those walls</i> ♪
+
+188
+00:11:11,451 --> 00:11:14,477
+♪ <i>And it only takes one hit</i> ♪
+
+189
+00:11:14,520 --> 00:11:16,681
+♪ <i>To make them all fall</i> ♪
+
+190
+00:11:16,723 --> 00:11:19,157
+♪ <i>l want to break your stereo</i> ♪
+
+191
+00:11:19,192 --> 00:11:20,090
+♪ <i>l want to break</i> ♪
+
+192
+00:11:20,126 --> 00:11:21,218
+♪ <i>Your stereotype</i> ♪
+
+193
+00:11:21,260 --> 00:11:23,888
+♪ <i>l want to break your stereo</i> ♪
+
+194
+00:11:23,930 --> 00:11:24,692
+♪ <i>l want to break</i> ♪
+
+195
+00:11:24,731 --> 00:11:26,096
+♪ <i>Your stereotype</i> ♪
+
+196
+00:11:26,132 --> 00:11:28,692
+♪ <i>lf you could break my stereo</i> ♪
+
+197
+00:11:28,735 --> 00:11:29,963
+♪ <i>l want you to break</i> ♪
+
+198
+00:11:30,003 --> 00:11:31,300
+♪ <i>My stereotype</i> ♪
+
+199
+00:11:31,337 --> 00:11:33,498
+♪ <i>Oh, you could break</i>
+<i>my stereo</i> ♪
+
+200
+00:11:33,539 --> 00:11:34,506
+♪ <i>l want you to break</i> ♪
+
+201
+00:11:34,540 --> 00:11:36,633
+♪ <i>My stereotype, yeah</i> ♪
+
+202
+00:11:36,676 --> 00:11:44,640
+♪ ♪
+
+203
+00:11:46,419 --> 00:11:48,717
+♪ <i>Now do you wanna see</i>
+<i>my little hammer</i> ♪
+
+204
+00:11:48,755 --> 00:11:51,121
+♪ <i>lt's stuck in my chest</i> ♪
+
+205
+00:11:51,157 --> 00:11:53,455
+♪ <i>Do you wanna see</i>
+<i>my little hammer</i> ♪
+
+206
+00:11:53,493 --> 00:11:56,462
+♪ <i>lt's probably for the best</i> ♪
+
+207
+00:11:56,496 --> 00:11:58,191
+♪ <i>We all have statues</i> ♪
+
+208
+00:11:58,231 --> 00:11:59,255
+♪ <i>That we build up</i> ♪
+
+209
+00:11:59,298 --> 00:12:01,323
+♪ <i>ln our minds</i> ♪
+
+210
+00:12:01,367 --> 00:12:03,597
+♪ <i>My little hammer wants to</i> ♪
+
+211
+00:12:03,636 --> 00:12:05,263
+♪ <i>Break that stereotype</i> ♪
+
+212
+00:12:05,304 --> 00:12:08,000
+♪ <i>l want to break your stereo</i> ♪
+
+213
+00:12:08,041 --> 00:12:08,735
+♪ <i>l want to break</i> ♪
+
+214
+00:12:08,775 --> 00:12:10,470
+♪ <i>Your stereotype</i> ♪
+
+215
+00:12:10,510 --> 00:12:12,740
+♪ <i>l want to break your stereo</i> ♪
+
+216
+00:12:12,779 --> 00:12:13,746
+♪ <i>l want to break</i> ♪
+
+217
+00:12:13,780 --> 00:12:15,145
+♪ <i>Your stereotype</i> ♪
+
+218
+00:12:15,181 --> 00:12:18,014
+♪ <i>lf you could break my stereo</i> ♪
+
+219
+00:12:18,051 --> 00:12:18,745
+♪ <i>l want you to break</i> ♪
+
+220
+00:12:18,785 --> 00:12:20,412
+♪ <i>My stereotype</i> ♪
+
+221
+00:12:20,453 --> 00:12:22,546
+♪ <i>lf you could break my stereo</i> ♪
+
+222
+00:12:22,588 --> 00:12:23,555
+♪ <i>l want you to break</i> ♪
+
+223
+00:12:23,589 --> 00:12:25,147
+♪ <i>My stereotype</i> ♪
+
+224
+00:12:25,191 --> 00:12:26,215
+♪ <i>Come on</i> ♪
+
+225
+00:12:52,285 --> 00:12:56,449
+<i>[bells chiming</i>
+<i>Westminster Quarters]</i>
+
+226
+00:13:00,460 --> 00:13:02,087
+Shit!
+
+227
+00:13:03,563 --> 00:13:10,196
+<i>[bell tolling]</i>
+
+228
+00:13:10,236 --> 00:13:11,726
+Ah, shit.
+
+229
+00:13:19,712 --> 00:13:21,475
+Mrs...Blossom?
+
+230
+00:13:21,514 --> 00:13:22,742
+Mr. Wells.
+
+231
+00:13:22,782 --> 00:13:24,545
+Punctual as always.
+
+232
+00:13:24,584 --> 00:13:27,075
+You look exactly the same.
+
+233
+00:13:27,120 --> 00:13:29,281
+Your charm with the
+ladies is unflagging.
+
+234
+00:13:29,322 --> 00:13:30,414
+Ahem.
+
+235
+00:13:30,456 --> 00:13:32,151
+<i>O</i>h, l'm sorry.
+
+236
+00:13:32,191 --> 00:13:33,749
+We were just socializing.
+
+237
+00:13:33,793 --> 00:13:37,126
+Thank you so much,
+Mr. Lyons, Mrs. Lyons.
+
+238
+00:13:37,163 --> 00:13:38,858
+We are the
+honored beneficiaries
+
+239
+00:13:39,098 --> 00:13:41,123
+of your unending generosity.
+
+240
+00:13:44,537 --> 00:13:46,437
+That was Mr. and Mrs.--
+
+241
+00:13:46,472 --> 00:13:47,837
+Yeah, l know.
+
+242
+00:13:47,874 --> 00:13:49,432
+<i>O</i>f course, you did.
+
+243
+00:13:54,814 --> 00:13:56,441
+Your schedule.
+
+244
+00:13:56,482 --> 00:13:58,109
+Be prompt.
+
+245
+00:13:58,151 --> 00:14:00,346
+Files on each of the
+scholarship finalists
+
+246
+00:14:00,386 --> 00:14:01,717
+you'll be interviewing.
+
+247
+00:14:01,754 --> 00:14:02,652
+Read them.
+
+248
+00:14:02,688 --> 00:14:05,122
+Each of the finalists' tapes.
+
+249
+00:14:05,158 --> 00:14:07,388
+Watch them.
+
+250
+00:14:07,426 --> 00:14:10,327
+l get it, l get it.
+Thank you.
+
+251
+00:14:10,363 --> 00:14:11,853
+Good day, then.
+
+252
+00:14:13,232 --> 00:14:14,665
+Mrs. Blossom.
+
+253
+00:14:14,700 --> 00:14:16,258
+Mr. Wells?
+
+254
+00:14:16,302 --> 00:14:19,271
+Listen, l know l was sort of
+imposed on you here.
+
+255
+00:14:19,305 --> 00:14:22,138
+Mr. Shadoe is quite
+an advocate for you.
+
+256
+00:14:22,175 --> 00:14:24,735
+Mrs. Blossom, please.
+l'm trying to apologize.
+
+257
+00:14:24,777 --> 00:14:26,142
+For what, Mr. Wells?
+
+258
+00:14:26,179 --> 00:14:26,873
+For Topher.
+
+259
+00:14:26,913 --> 00:14:28,881
+For screwing up
+your film festival.
+
+260
+00:14:28,915 --> 00:14:32,282
+Topher Shadoe is
+a horrendous name.
+
+261
+00:14:32,318 --> 00:14:36,345
+Why you boys choose to change
+your names is beyond me.
+
+262
+00:14:36,389 --> 00:14:38,823
+Names, faces, films.
+
+263
+00:14:38,858 --> 00:14:44,296
+l don't forget the good ones,
+even yours.
+
+264
+00:14:44,330 --> 00:14:46,355
+You've got a schedule to keep.
+
+265
+00:14:48,868 --> 00:14:52,167
+Yeah, right, um, okay.
+
+266
+00:14:57,944 --> 00:15:00,242
+<i>O</i>kay, last question, Tommy.
+
+267
+00:15:00,279 --> 00:15:02,839
+Tell us what makes your
+creative vision unique.
+
+268
+00:15:04,617 --> 00:15:07,711
+l like to stare through windows
+and just watch people.
+
+269
+00:15:07,753 --> 00:15:09,778
+Mr. Wells, please.
+
+270
+00:15:09,822 --> 00:15:11,449
+<i>O</i>h, call me Zach.
+
+271
+00:15:11,490 --> 00:15:12,821
+l'm pretty sure
+smoking's not allowed.
+
+272
+00:15:12,858 --> 00:15:15,292
+Stow it, Ralph.
+l need a poo break.
+
+273
+00:15:17,964 --> 00:15:19,795
+So, Tommy, back to you.
+
+274
+00:15:19,832 --> 00:15:20,856
+No pressure.
+
+275
+00:15:20,900 --> 00:15:24,495
+So, yeah, l like to see what
+people are gonna do
+
+276
+00:15:24,537 --> 00:15:26,232
+when they think
+no one is watching.
+
+277
+00:15:27,840 --> 00:15:30,570
+Sometimes l'll peek
+through the crack
+
+278
+00:15:30,610 --> 00:15:32,976
+of my sister's bedroom door...
+
+279
+00:15:33,212 --> 00:15:34,736
+and watch her sleep.
+
+280
+00:15:36,983 --> 00:15:40,510
+l also like to walk around
+with my hands like this.
+
+281
+00:15:40,553 --> 00:15:42,578
+Like how mysterious you look
+
+282
+00:15:42,622 --> 00:15:44,385
+surrounded by all
+that smoke, Zach.
+
+283
+00:15:45,491 --> 00:15:48,255
+l wonder what
+you're looking at...
+
+284
+00:15:48,294 --> 00:15:49,852
+what you're you thinking.
+
+285
+00:15:53,799 --> 00:15:57,235
+Sometimes l spend my whole day
+framing people up.
+
+286
+00:15:57,270 --> 00:16:00,239
+My whole life is cinematic.
+
+287
+00:16:00,273 --> 00:16:03,902
+l even masturbate cinematically.
+
+288
+00:16:03,943 --> 00:16:05,308
+<i>[coughs]</i>
+
+289
+00:16:05,344 --> 00:16:08,313
+Wow, you've got an exciting
+career ahead of you.
+
+290
+00:16:08,347 --> 00:16:09,507
+Really?
+
+291
+00:16:09,548 --> 00:16:11,982
+<i>O</i>h, yeah, you're gonna make
+a killing in porn.
+
+292
+00:16:12,018 --> 00:16:13,918
+- Mr. Wells!
+- l'm just saying.
+
+293
+00:16:13,953 --> 00:16:15,386
+And scene.
+
+294
+00:16:15,421 --> 00:16:16,854
+Thank you, Tommy.
+
+295
+00:16:16,889 --> 00:16:19,983
+And now l really have to insist
+on that poo break.
+
+296
+00:16:20,026 --> 00:16:21,459
+Thank you, Mr. Garlington,
+
+297
+00:16:21,494 --> 00:16:24,463
+Ms. Lynn...
+
+298
+00:16:24,497 --> 00:16:25,589
+Zach.
+
+299
+00:16:28,567 --> 00:16:29,556
+Come on, Ralph.
+
+300
+00:16:29,602 --> 00:16:31,365
+You look like you need
+to take a shit.
+
+301
+00:16:39,512 --> 00:16:41,412
+<i>[papers clatter]</i>
+
+302
+00:16:47,987 --> 00:16:49,682
+l'm your 3:30.
+
+303
+00:16:58,998 --> 00:17:02,525
+Well, this is awkward.
+
+304
+00:17:02,568 --> 00:17:04,365
+Uh, nothing personal,
+
+305
+00:17:04,403 --> 00:17:06,303
+but it looks like
+l have to care about
+
+306
+00:17:06,339 --> 00:17:07,806
+who you are now.
+
+307
+00:17:08,874 --> 00:17:10,842
+Look, you and l have never met.
+
+308
+00:17:10,876 --> 00:17:13,538
+Got that?
+Never met.
+
+309
+00:17:13,579 --> 00:17:15,046
+lf you mean we've never been
+
+310
+00:17:15,081 --> 00:17:16,412
+properly introduced,
+then sure.
+
+311
+00:17:16,449 --> 00:17:17,939
+Never met.
+
+312
+00:17:17,983 --> 00:17:19,075
+My name is Danny.
+
+313
+00:17:19,318 --> 00:17:20,842
+- Danny Reyes.
+- What?
+
+314
+00:17:20,886 --> 00:17:23,320
+So sorry to keep
+you waiting, Danny.
+
+315
+00:17:23,356 --> 00:17:25,381
+- Human needs, you know.
+- <i>O</i>f course.
+
+316
+00:17:25,424 --> 00:17:27,585
+l trust Zach was good company?
+
+317
+00:17:27,626 --> 00:17:29,719
+<i>O</i>h, he certainly was,
+Ms. Lynn.
+
+318
+00:17:34,834 --> 00:17:38,531
+Uh, how come l didn't see
+this kid's file?
+
+319
+00:17:38,571 --> 00:17:40,562
+Did you take my copy
+to the bathroom with you?
+
+320
+00:17:40,606 --> 00:17:41,937
+What? l washed my hands.
+
+321
+00:17:41,974 --> 00:17:43,737
+<i>O</i>kay, fine, look.
+
+322
+00:17:43,776 --> 00:17:47,337
+Danny, let's get started,
+shall we?
+
+323
+00:17:47,380 --> 00:17:50,349
+Why don't you tell us what
+inspired this wonderful film.
+
+324
+00:17:50,383 --> 00:17:51,407
+Wait a minute.
+
+325
+00:17:51,450 --> 00:17:53,714
+You're Danny Reyes.
+
+326
+00:17:53,753 --> 00:17:55,983
+Yeah.
+
+327
+00:17:56,021 --> 00:17:57,989
+Where did you grow up?
+
+328
+00:17:58,023 --> 00:18:00,958
+l went to Lockton High School.
+
+329
+00:18:00,993 --> 00:18:02,722
+Lockton?
+
+330
+00:18:02,762 --> 00:18:04,559
+Zach, are you all right?
+
+331
+00:18:04,597 --> 00:18:07,122
+What's the name of his film
+in this competition?
+
+332
+00:18:07,366 --> 00:18:08,458
+<i>Judas Kiss</i>.
+
+333
+00:18:08,501 --> 00:18:09,900
+lndeed.
+
+334
+00:18:11,470 --> 00:18:13,870
+Danny, why don't you tell us
+what inspired you
+
+335
+00:18:13,906 --> 00:18:16,602
+to tackle this controversial
+subject in the short form?
+
+336
+00:18:16,642 --> 00:18:18,007
+Your father.
+
+337
+00:18:21,881 --> 00:18:23,576
+No, my...
+
+338
+00:18:23,616 --> 00:18:25,106
+My film is fictional.
+
+339
+00:18:27,119 --> 00:18:29,986
+Some...Somebody put you
+up to this.
+
+340
+00:18:30,022 --> 00:18:31,455
+Mrs. Blossom?
+
+341
+00:18:31,490 --> 00:18:32,548
+Topher?
+
+342
+00:18:32,591 --> 00:18:35,958
+Look, Mr. Wells, if this
+is about last night...
+
+343
+00:18:35,995 --> 00:18:37,462
+Last night?
+
+344
+00:18:37,496 --> 00:18:39,987
+You can't be Danny Reyes.
+
+345
+00:18:40,032 --> 00:18:43,092
+l am Danny Reyes.
+
+346
+00:18:43,135 --> 00:18:46,002
+For quite a few reasons,
+that's impossible.
+
+347
+00:18:46,038 --> 00:18:47,903
+- Zach.
+- Mr. Wells!
+
+348
+00:18:47,940 --> 00:18:49,430
+Where are you going?
+
+349
+00:18:49,475 --> 00:18:52,740
+To find Mrs. Blossom.
+This is totally fucked up!
+
+350
+00:18:52,778 --> 00:18:54,109
+l think l need another poo.
+
+351
+00:18:58,150 --> 00:18:59,845
+Stop!
+
+352
+00:18:59,885 --> 00:19:01,978
+What is going on here?
+
+353
+00:19:02,021 --> 00:19:03,579
+That can't be Danny Reyes.
+
+354
+00:19:03,622 --> 00:19:05,590
+<i>O</i>f course it is.
+He was on our schedule.
+
+355
+00:19:05,624 --> 00:19:06,716
+He wasn't on mine.
+
+356
+00:19:06,759 --> 00:19:09,159
+What is up with you
+and this kid?
+
+357
+00:19:09,195 --> 00:19:10,856
+We have to interview him, Zach.
+
+358
+00:19:10,896 --> 00:19:12,864
+Just gimme a minute, okay?
+
+359
+00:19:15,668 --> 00:19:19,126
+Listen, l'll go reschedule
+with Mrs. Blossom,
+
+360
+00:19:19,171 --> 00:19:21,139
+and then we'll go to coffee,
+okay?
+
+361
+00:19:25,511 --> 00:19:28,139
+Just wait for me here, okay?
+
+362
+00:19:41,660 --> 00:19:43,059
+Call Topher.
+
+363
+00:19:43,095 --> 00:19:44,619
+<i>Calling Topher</i>.
+
+364
+00:19:47,199 --> 00:19:51,761
+Topher, this better not be one
+of your little practical jokes.
+
+365
+00:19:51,804 --> 00:19:54,637
+There's a kid here
+claiming to be Danny Reyes.
+
+366
+00:19:54,673 --> 00:19:58,074
+Danny Reyes, from Lockton.
+Ring any bells?
+
+367
+00:19:58,110 --> 00:20:00,044
+<i>O</i>h, and l slept with him.
+
+368
+00:20:00,079 --> 00:20:02,104
+Did you plan that too,
+you goddamn pimp?
+
+369
+00:20:04,216 --> 00:20:05,911
+l'll call you back.
+
+370
+00:20:07,853 --> 00:20:11,084
+You're...Welds, right?
+
+371
+00:20:11,123 --> 00:20:12,090
+You gave me directions.
+
+372
+00:20:12,124 --> 00:20:13,819
+That's why l'm here.
+
+373
+00:20:15,127 --> 00:20:16,719
+Gimme a cigarette.
+
+374
+00:20:16,762 --> 00:20:18,662
+We need to talk.
+
+375
+00:20:20,132 --> 00:20:22,191
+<i>[Timo Deschamps'</i>
+<i>Like it Rough playing]</i>
+
+376
+00:20:22,234 --> 00:20:25,795
+♪ ♪
+
+377
+00:20:25,838 --> 00:20:26,930
+♪ <i>The sweaty taste</i> ♪
+
+378
+00:20:26,972 --> 00:20:28,940
+♪ <i>Upon your lips</i> ♪
+
+379
+00:20:28,974 --> 00:20:30,202
+♪ <i>My hands are moving</i> ♪
+
+380
+00:20:30,242 --> 00:20:31,971
+♪ <i>Towards your hips</i> ♪
+
+381
+00:20:32,011 --> 00:20:33,672
+♪ <i>About to show me</i> ♪
+
+382
+00:20:33,712 --> 00:20:35,680
+♪ <i>Where this feeling</i> ♪
+
+383
+00:20:35,714 --> 00:20:37,204
+♪ <i>Will take us</i> ♪
+
+384
+00:20:37,249 --> 00:20:41,549
+♪ <i>This night will make us</i> ♪
+
+385
+00:20:41,587 --> 00:20:42,849
+♪ <i>Am l too common</i> ♪
+
+386
+00:20:42,888 --> 00:20:44,219
+♪ <i>For your love</i> ♪
+
+387
+00:20:44,256 --> 00:20:45,553
+♪ <i>Too mainstream</i> ♪
+
+388
+00:20:45,591 --> 00:20:47,684
+♪ <i>Not quite strong enough</i> ♪
+
+389
+00:20:47,726 --> 00:20:50,217
+♪ <i>Maybe l'm too naive or</i> ♪
+
+390
+00:20:50,262 --> 00:20:51,854
+♪ <i>Tell me</i> ♪
+
+391
+00:20:51,897 --> 00:20:54,229
+♪ <i>Do you like it rough?</i> ♪
+
+392
+00:20:54,266 --> 00:20:56,097
+And, cut!
+
+393
+00:20:56,135 --> 00:20:57,261
+That'll be all for today.
+
+394
+00:20:57,303 --> 00:20:59,703
+Great job, everybody.
+l have an interview.
+
+395
+00:20:59,738 --> 00:21:01,603
+All right, that is a wrap
+for the day.
+
+396
+00:21:01,640 --> 00:21:04,632
+Everybody, please check the
+board for your next call times.
+
+397
+00:21:07,179 --> 00:21:09,739
+l'm never having sex again.
+
+398
+00:21:10,883 --> 00:21:14,011
+Are you still hung up on cute
+older dude from last night?
+
+399
+00:21:14,053 --> 00:21:15,111
+You don't understand, okay?
+
+400
+00:21:15,154 --> 00:21:18,123
+l am so completely, totally,
+all-encompassingly fucked.
+
+401
+00:21:18,157 --> 00:21:21,024
+You need to chill.
+
+402
+00:21:21,060 --> 00:21:23,858
+And there's no such word
+as ''encompassingly.''
+
+403
+00:21:23,896 --> 00:21:26,797
+Yeah, well, a new word
+is required for how much
+
+404
+00:21:26,832 --> 00:21:28,265
+l just fucked my life.
+
+405
+00:21:28,300 --> 00:21:29,733
+Spill.
+
+406
+00:21:30,302 --> 00:21:32,600
+l slept with
+one of the judges.
+
+407
+00:21:32,638 --> 00:21:33,627
+At the interview?
+
+408
+00:21:33,672 --> 00:21:34,866
+No!
+
+409
+00:21:34,907 --> 00:21:37,171
+Cute older dude, he...
+
+410
+00:21:37,209 --> 00:21:39,268
+Turned out to be
+one of the judges.
+
+411
+00:21:39,311 --> 00:21:40,744
+Wow.
+
+412
+00:21:40,779 --> 00:21:42,770
+You have the weirdest mojo ever.
+
+413
+00:21:42,815 --> 00:21:45,340
+l hope l'm not interrupting.
+
+414
+00:21:45,584 --> 00:21:48,314
+No, no, you're right on time.
+
+415
+00:21:48,354 --> 00:21:51,050
+<i>O</i>kay, drama queen, focus.
+
+416
+00:21:51,090 --> 00:21:52,580
+Let's get this interview done,
+
+417
+00:21:52,625 --> 00:21:54,354
+and then we'll
+sort out your issues.
+
+418
+00:21:57,363 --> 00:21:58,330
+Right.
+
+419
+00:21:58,364 --> 00:22:00,161
+Right, sorry, Abs.
+
+420
+00:22:00,199 --> 00:22:01,257
+Focus.
+
+421
+00:22:02,835 --> 00:22:04,769
+Hi, l'm Abbey Park.
+
+422
+00:22:04,803 --> 00:22:06,065
+Chris Wachowsky.
+
+423
+00:22:06,105 --> 00:22:10,804
+We've got your chair set up
+right over here.
+
+424
+00:22:10,843 --> 00:22:12,640
+Who's your partner?
+
+425
+00:22:12,678 --> 00:22:14,077
+Slave driver, you mean.
+
+426
+00:22:14,113 --> 00:22:15,671
+Uh, that's Danny--
+
+427
+00:22:15,714 --> 00:22:16,646
+Danny Reyes.
+
+428
+00:22:16,682 --> 00:22:18,047
+You made <i>Judas Kiss</i>.
+
+429
+00:22:19,118 --> 00:22:20,847
+Yeah, that's me.
+
+430
+00:22:20,886 --> 00:22:22,376
+No one's ever
+gotten their
+
+431
+00:22:22,621 --> 00:22:24,782
+freshman film
+into finals before.
+
+432
+00:22:24,823 --> 00:22:27,189
+Lucky, l guess.
+
+433
+00:22:27,226 --> 00:22:30,286
+ls there any chance that
+l could get a look at it
+
+434
+00:22:30,329 --> 00:22:32,354
+before the screening
+this weekend?
+
+435
+00:22:32,398 --> 00:22:34,832
+Really? You'd, uh...
+
+436
+00:22:34,867 --> 00:22:37,335
+You'd want to see it?
+
+437
+00:22:37,369 --> 00:22:40,805
+The entire film school is
+insanely jealous of you.
+
+438
+00:22:40,839 --> 00:22:42,204
+We were all jealous of you
+
+439
+00:22:42,241 --> 00:22:44,937
+when you won
+the film festival last year.
+
+440
+00:22:44,977 --> 00:22:46,103
+Hello?
+
+441
+00:22:46,145 --> 00:22:48,113
+Remember? lnterview?
+
+442
+00:22:48,147 --> 00:22:50,081
+l'm all set up here.
+
+443
+00:22:53,385 --> 00:22:55,717
+<i>O</i>kay.
+
+444
+00:22:55,754 --> 00:22:56,721
+<i>[camera rolling]</i>
+
+445
+00:22:56,755 --> 00:23:01,715
+Chris Wachowsky, winner of last
+year's Keystone Film Festival,
+
+446
+00:23:01,760 --> 00:23:04,092
+how has life changed
+since winning?
+
+447
+00:23:12,738 --> 00:23:15,104
+You gotta make things
+right with the kid.
+
+448
+00:23:15,140 --> 00:23:17,131
+He's who he says he is.
+
+449
+00:23:17,176 --> 00:23:20,304
+l'm sorry, sir, but you
+can't possibly know that.
+
+450
+00:23:20,345 --> 00:23:21,835
+He's Danny Reyes.
+
+451
+00:23:21,880 --> 00:23:23,438
+- He can't be.
+- He is.
+
+452
+00:23:23,682 --> 00:23:25,115
+l'm Danny Reyes!
+
+453
+00:23:25,150 --> 00:23:27,243
+You're Zachary Wells.
+
+454
+00:23:27,286 --> 00:23:30,722
+Danny Reyes went to
+school here 1 5 years ago.
+
+455
+00:23:30,756 --> 00:23:32,121
+That was me.
+
+456
+00:23:32,157 --> 00:23:33,681
+What happened to him?
+
+457
+00:23:33,726 --> 00:23:35,853
+l...
+
+458
+00:23:35,894 --> 00:23:36,986
+He's gone.
+
+459
+00:23:37,029 --> 00:23:37,859
+Just like that?
+
+460
+00:23:37,896 --> 00:23:40,888
+You think changing your name
+added l.Q. Points?
+
+461
+00:23:40,933 --> 00:23:43,993
+How many times
+you've done rehab now?
+
+462
+00:23:44,036 --> 00:23:48,063
+You're getting
+a second chance, ''Zachary.''
+
+463
+00:23:48,107 --> 00:23:49,802
+<i>O</i>kay, we're done here.
+
+464
+00:23:49,842 --> 00:23:52,470
+This is the key to your future.
+
+465
+00:23:52,711 --> 00:23:53,803
+Change his past...
+
+466
+00:23:53,846 --> 00:23:55,040
+<i>[vibration]</i>
+
+467
+00:23:55,080 --> 00:23:56,911
+Change your future.
+
+468
+00:24:04,823 --> 00:24:06,916
+l'll see you around.
+
+469
+00:24:08,994 --> 00:24:10,962
+<i>[camera rolling]</i>
+
+470
+00:24:15,000 --> 00:24:18,094
+You know, most people have
+a follow-up question when l say
+
+471
+00:24:18,137 --> 00:24:21,470
+l plan on bringing bloody films
+back into fashion.
+
+472
+00:24:21,507 --> 00:24:23,338
+Right.
+
+473
+00:24:23,375 --> 00:24:25,935
+So, what, are you gonna go down
+to L.A. and do the whole
+
+474
+00:24:25,978 --> 00:24:28,503
+starving artist thing
+for a while?
+
+475
+00:24:28,747 --> 00:24:29,839
+Lame!
+
+476
+00:24:29,882 --> 00:24:32,373
+No one tries to become
+a starving artist, <i>rasshol</i>.
+
+477
+00:24:32,417 --> 00:24:34,476
+How about asking
+a non-bullshit question?
+
+478
+00:24:34,520 --> 00:24:35,509
+Abbey you can't say--
+
+479
+00:24:35,754 --> 00:24:37,483
+F<i>eent,</i> bleep me out.
+Whatevs.
+
+480
+00:24:37,523 --> 00:24:38,148
+Abbey--
+
+481
+00:24:38,190 --> 00:24:40,818
+Ask him a real fucking
+question, you <i>mus</i>.
+
+482
+00:24:40,859 --> 00:24:42,326
+<i>Feent</i>.
+
+483
+00:24:45,130 --> 00:24:47,360
+Are you afraid of the future?
+
+484
+00:24:47,399 --> 00:24:48,866
+Wow...
+
+485
+00:24:48,901 --> 00:24:51,529
+That is a real fucking question.
+
+486
+00:24:51,770 --> 00:24:55,137
+Am l afraid of the future?
+
+487
+00:24:55,174 --> 00:24:56,505
+Yeah.
+
+488
+00:24:56,542 --> 00:24:58,237
+Terrified.
+
+489
+00:24:58,277 --> 00:24:59,539
+l mean, it's the future.
+
+490
+00:24:59,778 --> 00:25:01,268
+Who wouldn't be?
+
+491
+00:25:01,313 --> 00:25:03,110
+But it's a fair fight.
+
+492
+00:25:03,148 --> 00:25:05,480
+l know l have
+what it takes to win.
+
+493
+00:25:08,787 --> 00:25:14,054
+<i>O</i>kay, uh, l think we got
+what we need here.
+
+494
+00:25:15,460 --> 00:25:18,861
+Abbey, could you, uh,
+take down that boom?
+
+495
+00:25:22,935 --> 00:25:24,527
+Slave driver?
+
+496
+00:25:29,074 --> 00:25:30,905
+Hey, what's up?
+
+497
+00:25:30,943 --> 00:25:33,309
+What the hell are you
+doing in my studio?
+
+498
+00:25:33,345 --> 00:25:36,542
+No harm done.
+
+499
+00:25:36,582 --> 00:25:40,245
+Danny, this is Shane.
+
+500
+00:25:40,285 --> 00:25:43,846
+Shane Lyons.
+
+501
+00:25:43,889 --> 00:25:45,880
+<i>O</i>h...
+
+502
+00:25:45,924 --> 00:25:47,391
+Hi.
+
+503
+00:25:50,896 --> 00:25:53,160
+l didn't realize
+you were still here.
+
+504
+00:25:53,198 --> 00:25:55,166
+l'm meeting my parents
+for coffee.
+
+505
+00:25:55,200 --> 00:25:57,464
+The film festival is their
+big hoohah for the year,
+
+506
+00:25:57,502 --> 00:25:59,868
+so l'm at their
+beck and call all week.
+
+507
+00:25:59,905 --> 00:26:02,430
+Who are your friends, C.W.?
+
+508
+00:26:02,474 --> 00:26:04,442
+Uh, Danny Reyes.
+
+509
+00:26:04,476 --> 00:26:07,070
+This is Abbey...
+
+510
+00:26:07,112 --> 00:26:08,272
+Park.
+
+511
+00:26:10,616 --> 00:26:13,881
+Danny Reyes and Abbey...
+
+512
+00:26:13,919 --> 00:26:15,011
+Park.
+
+513
+00:26:15,053 --> 00:26:16,315
+Huh.
+
+514
+00:26:16,355 --> 00:26:18,880
+Danny Reyes, you have a film
+at the film festival, right?
+
+515
+00:26:18,924 --> 00:26:20,289
+<i>[pen clicks]</i>
+
+516
+00:26:20,325 --> 00:26:23,453
+This is where my family's
+insane film festival party
+
+517
+00:26:23,495 --> 00:26:24,928
+will be tomorrow night...
+
+518
+00:26:24,963 --> 00:26:26,328
+And you're coming.
+
+519
+00:26:26,365 --> 00:26:29,198
+lf l'm forced to endure my
+parents' stay on campus
+
+520
+00:26:29,234 --> 00:26:32,533
+all week, l'm entitled
+to bring extra guests.
+
+521
+00:26:33,538 --> 00:26:35,335
+Yeah, party.
+
+522
+00:26:35,374 --> 00:26:36,932
+Awesome, great.
+
+523
+00:26:36,975 --> 00:26:40,934
+Yeah, and, uh,
+bring little missy with you.
+
+524
+00:26:40,979 --> 00:26:45,040
+C.W., you're invited too,
+of course.
+
+525
+00:26:45,083 --> 00:26:47,483
+Sure...
+
+526
+00:26:47,519 --> 00:26:49,077
+Thanks.
+
+527
+00:27:13,245 --> 00:27:15,213
+How did you get in here?
+
+528
+00:27:15,247 --> 00:27:17,613
+Don't you think
+we need to talk?
+
+529
+00:27:30,996 --> 00:27:32,020
+<i>Feent</i>.
+
+530
+00:27:32,164 --> 00:27:34,496
+l blew the R.A. once.
+
+531
+00:27:34,533 --> 00:27:36,433
+He owed me for
+not telling his girlfriend.
+
+532
+00:27:37,602 --> 00:27:39,968
+Keystone University,
+
+533
+00:27:40,005 --> 00:27:42,405
+where blowjobs are the
+key to my dorm room.
+
+534
+00:27:42,441 --> 00:27:43,669
+Funny.
+
+535
+00:27:43,709 --> 00:27:45,677
+l just want
+to talk to you
+
+536
+00:27:45,711 --> 00:27:47,542
+about that whole
+interview thing.
+
+537
+00:27:47,579 --> 00:27:50,639
+You see, l really need
+this scholarship.
+
+538
+00:27:50,682 --> 00:27:53,378
+Why you more than
+anyone else?
+
+539
+00:27:53,418 --> 00:27:55,045
+My film.
+
+540
+00:27:55,087 --> 00:27:58,648
+Let's just say putting it in
+the festival is going to put me
+
+541
+00:27:58,690 --> 00:28:03,024
+into a little bit of
+a financial bind.
+
+542
+00:28:03,061 --> 00:28:05,655
+lt cost a lot to make?
+
+543
+00:28:05,697 --> 00:28:07,722
+You could put it that way.
+
+544
+00:28:10,335 --> 00:28:12,667
+<i>[telephone rings]</i>
+
+545
+00:28:17,042 --> 00:28:20,409
+<i>[rings]</i>
+
+546
+00:28:20,445 --> 00:28:22,310
+Gonna get that?
+
+547
+00:28:22,347 --> 00:28:23,575
+<i>[rings]</i>
+
+548
+00:28:23,615 --> 00:28:25,549
+Right.
+
+549
+00:28:25,584 --> 00:28:26,710
+Hello.
+
+550
+00:28:26,752 --> 00:28:28,014
+<i>Hey, it's me</i>.
+
+551
+00:28:28,053 --> 00:28:29,418
+Rebecca.
+
+552
+00:28:29,454 --> 00:28:32,014
+You're taking me to
+a cocktail party tonight.
+
+553
+00:28:32,057 --> 00:28:35,026
+Do you ever just
+ask for anything?
+
+554
+00:28:35,060 --> 00:28:36,687
+lf l don't command you,
+
+555
+00:28:36,728 --> 00:28:39,026
+you'll just stay all day
+in that pathetic dorm room
+
+556
+00:28:39,064 --> 00:28:40,725
+smoking Art Deco cigarettes.
+
+557
+00:28:40,766 --> 00:28:43,428
+<i>l'm supposed to avoid drinking</i>.
+
+558
+00:28:43,468 --> 00:28:45,595
+<i>O</i>kay, l'll be
+straight with you.
+
+559
+00:28:45,637 --> 00:28:48,162
+You're my excuse for
+blowing off Ralph Garlington.
+
+560
+00:28:48,206 --> 00:28:49,070
+Fine.
+
+561
+00:28:49,107 --> 00:28:51,371
+Great.
+Pick me up in an hour.
+
+562
+00:28:58,617 --> 00:29:01,177
+You know, you can't
+smoke in here.
+
+563
+00:29:04,056 --> 00:29:06,024
+You gonna tell on me?
+
+564
+00:29:07,392 --> 00:29:09,587
+So, Danny...
+
+565
+00:29:09,628 --> 00:29:13,724
+Daniel Reyes Jr.?
+
+566
+00:29:13,765 --> 00:29:15,790
+Grew up in Lockton?
+
+567
+00:29:18,370 --> 00:29:20,361
+Uh-huh.
+
+568
+00:29:20,405 --> 00:29:23,499
+Your dad, he teaches
+at the high school?
+
+569
+00:29:24,709 --> 00:29:25,733
+Yeah.
+
+570
+00:29:27,813 --> 00:29:30,748
+And your mom?
+
+571
+00:29:30,782 --> 00:29:32,750
+What about her?
+
+572
+00:29:33,552 --> 00:29:35,383
+She died.
+
+573
+00:29:35,420 --> 00:29:37,388
+Cancer, right?
+
+574
+00:29:38,423 --> 00:29:40,254
+What?
+
+575
+00:29:40,292 --> 00:29:43,523
+You trying to freak me out?
+
+576
+00:29:43,562 --> 00:29:48,261
+No, l'm just trying to figure
+out how much of you is phony.
+
+577
+00:29:49,234 --> 00:29:52,533
+Well, l'm about as real
+as you are.
+
+578
+00:29:52,571 --> 00:29:57,838
+Well, that's not really
+saying much.
+
+579
+00:29:58,076 --> 00:29:59,168
+Hey!
+
+580
+00:30:01,179 --> 00:30:02,806
+You're Danny Reyes.
+
+581
+00:30:02,848 --> 00:30:06,443
+Yeah. So did l pass
+your little test?
+
+582
+00:30:09,454 --> 00:30:15,586
+Are we gonna be okay for
+this interview tomorrow?
+
+583
+00:30:15,627 --> 00:30:18,460
+You do your part,
+and l'll do mine.
+
+584
+00:30:28,607 --> 00:30:29,574
+<i>[jazz playing]</i>
+
+585
+00:30:29,608 --> 00:30:31,439
+♪ ♪
+
+586
+00:30:31,476 --> 00:30:32,704
+Table!
+
+587
+00:30:34,479 --> 00:30:36,447
+Not today, supermodel.
+
+588
+00:30:38,650 --> 00:30:40,174
+Wow.
+
+589
+00:30:40,218 --> 00:30:42,311
+Hollywood's made you cutthroat.
+
+590
+00:30:42,354 --> 00:30:43,878
+Film school
+made me cutthroat.
+
+591
+00:30:44,122 --> 00:30:46,590
+Hollywood just helped me
+dress better.
+
+592
+00:30:46,625 --> 00:30:50,356
+So, Danny's interview,
+tomorrow at 1 0:00 A.M.
+
+593
+00:30:50,395 --> 00:30:51,726
+You've seen his shorts, right?
+
+594
+00:30:51,763 --> 00:30:52,752
+Shorts?
+
+595
+00:30:52,797 --> 00:30:54,424
+Short films, pervert.
+
+596
+00:30:55,767 --> 00:30:57,428
+How are we supposed
+to argue about it
+
+597
+00:30:57,469 --> 00:30:58,629
+if you haven't even seen it?
+
+598
+00:30:58,670 --> 00:30:59,602
+We have to argue?
+
+599
+00:30:59,638 --> 00:31:01,230
+We certainly do.
+
+600
+00:31:01,273 --> 00:31:03,901
+Unless you plan to
+work out this sexual tension
+
+601
+00:31:04,142 --> 00:31:05,336
+some other way.
+
+602
+00:31:05,377 --> 00:31:06,241
+Tension?
+
+603
+00:31:06,278 --> 00:31:09,475
+You're bristling with sexual
+tension, Zachary Wells.
+
+604
+00:31:09,514 --> 00:31:12,608
+Admit it: you're hot for me.
+
+605
+00:31:12,651 --> 00:31:13,777
+l...
+
+606
+00:31:13,818 --> 00:31:17,254
+l know, l know.
+Your life's so complicated.
+
+607
+00:31:17,289 --> 00:31:18,256
+Whatever.
+
+608
+00:31:18,290 --> 00:31:20,884
+Go watch the kid's
+damn film already.
+
+609
+00:31:20,926 --> 00:31:22,621
+Go.
+
+610
+00:31:27,299 --> 00:31:28,630
+Mrs. Blossom.
+
+611
+00:31:28,667 --> 00:31:30,658
+Hey, Mrs. Blossom!
+Wait up!
+
+612
+00:31:31,536 --> 00:31:34,801
+Look, l'm really sorry about
+that whole interview thing,
+
+613
+00:31:34,839 --> 00:31:37,239
+but you've really got to help me
+understand what's going on here.
+
+614
+00:31:37,275 --> 00:31:38,367
+Understand?
+
+615
+00:31:38,410 --> 00:31:40,674
+You know that kid
+can't be Danny Reyes.
+
+616
+00:31:40,712 --> 00:31:43,272
+You know he didn't make
+<i>Judas Kiss</i>.
+
+617
+00:31:43,315 --> 00:31:45,340
+l made that film 1 5 years ago.
+
+618
+00:31:45,383 --> 00:31:47,510
+Danny Reyes made that film.
+
+619
+00:31:47,552 --> 00:31:48,951
+l'm Danny Reyes.
+
+620
+00:31:49,187 --> 00:31:50,814
+You're Zachary Wells.
+
+621
+00:31:50,855 --> 00:31:54,791
+Danny Reyes is still here.
+
+622
+00:31:54,826 --> 00:31:56,919
+Please tell me
+l am not going crazy.
+
+623
+00:31:57,796 --> 00:31:59,627
+You're not going crazy.
+
+624
+00:32:00,865 --> 00:32:02,457
+Wait!
+
+625
+00:32:02,500 --> 00:32:03,592
+You want more?
+
+626
+00:32:03,635 --> 00:32:04,932
+Some answers.
+
+627
+00:32:04,970 --> 00:32:07,530
+Danny Reyes
+always wants more.
+
+628
+00:32:07,572 --> 00:32:12,532
+His cocksure attitude,
+his charm, his talent -
+
+629
+00:32:12,577 --> 00:32:14,704
+they always get him
+what he wants.
+
+630
+00:32:14,746 --> 00:32:19,308
+Stop giving him what he wants,
+Mr. Wells.
+
+631
+00:32:19,351 --> 00:32:21,581
+Give him what he needs.
+
+632
+00:32:21,620 --> 00:32:23,679
+l don't know what that means.
+
+633
+00:32:23,722 --> 00:32:25,952
+You were brought to
+Keystone to do a job.
+
+634
+00:32:25,991 --> 00:32:28,459
+lt's the key to your future.
+
+635
+00:32:28,493 --> 00:32:30,427
+Why does everybody
+keep saying that?
+
+636
+00:32:30,462 --> 00:32:33,329
+- Everybody?
+- You, and that tour guide.
+
+637
+00:32:33,365 --> 00:32:35,333
+That old man...
+
+638
+00:32:35,367 --> 00:32:37,597
+Stay away from him.
+
+639
+00:32:37,636 --> 00:32:39,604
+He has his own work to do.
+
+640
+00:32:41,473 --> 00:32:43,703
+Do your job, Mr. Wells.
+
+641
+00:32:43,742 --> 00:32:45,573
+lnterview the students,
+
+642
+00:32:45,610 --> 00:32:47,339
+judge the films,
+
+643
+00:32:47,379 --> 00:32:48,869
+make a difference.
+
+644
+00:32:48,913 --> 00:32:50,710
+Good day.
+
+645
+00:33:00,725 --> 00:33:04,320
+<i>[breathing hard]</i>
+
+646
+00:33:14,639 --> 00:33:16,698
+<i>Fet</i>.
+
+647
+00:33:31,489 --> 00:33:33,354
+Hey, <i>rasshol!</i>
+
+648
+00:33:33,391 --> 00:33:36,053
+What happened to
+''Meet Me After Sundown''?
+
+649
+00:33:36,294 --> 00:33:37,352
+Abbey, l'm sorry.
+
+650
+00:33:37,395 --> 00:33:39,625
+Don't go all Canadian on me.
+
+651
+00:33:39,664 --> 00:33:40,756
+What?
+
+652
+00:33:40,799 --> 00:33:43,324
+Like you look like
+you're in my reality,
+
+653
+00:33:43,368 --> 00:33:46,633
+but actually you're in
+a parallel dimension...
+
+654
+00:33:46,671 --> 00:33:48,434
+Like Canada.
+
+655
+00:33:49,774 --> 00:33:51,867
+Your ass, up here.
+
+656
+00:33:55,647 --> 00:33:57,512
+You brought your camera?
+
+657
+00:33:57,549 --> 00:33:58,379
+Yeah.
+
+658
+00:33:58,416 --> 00:34:00,384
+Thought l'd get
+some practice shots.
+
+659
+00:34:07,392 --> 00:34:09,053
+<i>[coughs]</i>
+
+660
+00:34:13,064 --> 00:34:16,659
+So, how'd it go with
+cute older dude?
+
+661
+00:34:16,701 --> 00:34:18,396
+Fine...
+
+662
+00:34:19,571 --> 00:34:21,061
+Weird.
+
+663
+00:34:21,106 --> 00:34:23,540
+l--l don't know.
+
+664
+00:34:23,575 --> 00:34:25,406
+ls this multiple choice?
+
+665
+00:34:25,443 --> 00:34:28,037
+<i>O</i>kay, he said we'd be fine
+for the interview tomorrow,
+
+666
+00:34:28,079 --> 00:34:30,775
+but it's--it's like...
+
+667
+00:34:30,815 --> 00:34:32,908
+Like what?
+
+668
+00:34:32,951 --> 00:34:36,648
+Like he knows me, Abs.
+
+669
+00:34:36,688 --> 00:34:38,747
+Like he knows what we've done.
+
+670
+00:34:40,959 --> 00:34:43,086
+He can't possibly know.
+
+671
+00:34:47,832 --> 00:34:49,424
+Get down here.
+
+672
+00:34:52,871 --> 00:34:56,102
+You're just letting guilt
+get to you.
+
+673
+00:34:56,141 --> 00:34:58,541
+No one could know.
+
+674
+00:34:58,576 --> 00:35:03,070
+Now, look at the pavilion.
+
+675
+00:35:03,114 --> 00:35:05,708
+That is Emerald City,
+
+676
+00:35:05,750 --> 00:35:09,618
+and you and l are Dorothy
+and her friend.
+
+677
+00:35:10,455 --> 00:35:12,946
+Somehow your pretty-boy looks
+
+678
+00:35:12,991 --> 00:35:16,825
+have gotten us invited to
+the festival's hottest party,
+
+679
+00:35:16,861 --> 00:35:18,658
+so we are having fun tonight.
+
+680
+00:35:18,696 --> 00:35:19,993
+Understood?
+
+681
+00:35:20,031 --> 00:35:20,998
+Yes.
+
+682
+00:35:22,867 --> 00:35:25,961
+Understood?
+
+683
+00:35:26,004 --> 00:35:29,997
+Yes, Dorothy.
+
+684
+00:35:30,041 --> 00:35:33,875
+Now, come along, my friend.
+
+685
+00:35:33,912 --> 00:35:34,879
+Bitch.
+
+686
+00:35:36,014 --> 00:35:37,447
+<i>[electronic music playing]</i>
+
+687
+00:35:37,482 --> 00:35:42,442
+♪ ♪
+
+688
+00:35:50,895 --> 00:35:52,863
+Welcome, weary travelers.
+
+689
+00:35:53,631 --> 00:35:54,893
+For you...
+
+690
+00:35:54,933 --> 00:35:56,901
+And little missy.
+
+691
+00:35:57,936 --> 00:35:59,927
+l have a surprise for you.
+
+692
+00:36:03,041 --> 00:36:06,807
+So you can relax
+and we can have fun later.
+
+693
+00:36:20,558 --> 00:36:22,048
+<i>[upbeat dance music]</i>
+
+694
+00:36:22,093 --> 00:36:30,057
+♪ ♪
+
+695
+00:36:37,809 --> 00:36:39,174
+Hey, Chris.
+
+696
+00:36:39,210 --> 00:36:40,199
+Hey.
+
+697
+00:36:40,245 --> 00:36:42,008
+Nice camera.
+
+698
+00:36:42,046 --> 00:36:43,638
+<i>O</i>ld school.
+
+699
+00:36:48,219 --> 00:36:50,585
+Bolex 551 XL.
+
+700
+00:36:52,090 --> 00:36:54,684
+You know your cameras.
+
+701
+00:36:54,726 --> 00:36:58,127
+ls this the model
+with 36 F.P.S.
+
+702
+00:36:58,162 --> 00:37:00,960
+and Aspheron wide-angle lens?
+
+703
+00:37:00,999 --> 00:37:02,227
+Yeah.
+
+704
+00:37:06,104 --> 00:37:08,629
+Everyone is talking
+about your film.
+
+705
+00:37:09,874 --> 00:37:12,900
+Yeah, well, that's not always
+a good thing.
+
+706
+00:37:12,944 --> 00:37:14,036
+Meaning?
+
+707
+00:37:15,113 --> 00:37:18,105
+l just totally fucked up
+my scholarship interview.
+
+708
+00:37:18,149 --> 00:37:21,209
+Well, maybe l can put in
+a good word for you.
+
+709
+00:37:21,252 --> 00:37:25,552
+C.W., making time with
+our budding filmmaker?
+
+710
+00:37:26,891 --> 00:37:30,292
+Daniel, little Miss Abbey
+sorely misses your company,
+
+711
+00:37:30,528 --> 00:37:32,553
+and she commanded
+l come fetch you,
+
+712
+00:37:32,597 --> 00:37:33,928
+so come on.
+
+713
+00:37:35,266 --> 00:37:36,858
+Yeah, sure.
+
+714
+00:38:19,310 --> 00:38:22,336
+l am so screwed, Shane.
+
+715
+00:38:24,215 --> 00:38:28,151
+Screwed, screwed, super-screwed.
+
+716
+00:38:28,186 --> 00:38:31,053
+Don't jump to conclusions.
+
+717
+00:38:31,089 --> 00:38:33,785
+You just got under
+this guy's skin.
+
+718
+00:38:35,827 --> 00:38:38,261
+Well, that's not the only
+thing l got under.
+
+719
+00:38:41,366 --> 00:38:43,834
+l've seen <i>Judas Kiss</i>.
+
+720
+00:38:45,336 --> 00:38:48,066
+How'd you manage that?
+
+721
+00:38:48,106 --> 00:38:50,336
+lt blew me away.
+
+722
+00:38:50,375 --> 00:38:52,639
+lt's gonna blow everyone away,
+
+723
+00:38:52,677 --> 00:38:54,372
+no matter what that guy says.
+
+724
+00:38:57,115 --> 00:38:59,083
+l can see to that.
+
+725
+00:39:00,218 --> 00:39:03,676
+That's...awesome.
+
+726
+00:39:16,367 --> 00:39:20,235
+Shane, your mom cut herself
+with the cheese knife thingy.
+
+727
+00:39:20,271 --> 00:39:22,102
+<i>Godver</i>.
+
+728
+00:39:26,844 --> 00:39:28,368
+C.W., do me a favor...
+
+729
+00:39:28,413 --> 00:39:30,813
+Take him home, will you?
+
+730
+00:39:30,848 --> 00:39:34,716
+He's a little, uh, wasted.
+
+731
+00:39:37,855 --> 00:39:39,152
+You gonna be okay?
+
+732
+00:39:44,796 --> 00:39:47,026
+Home in one piece, C.W.
+
+733
+00:39:47,065 --> 00:39:48,293
+Sure.
+
+734
+00:39:48,332 --> 00:39:49,424
+He's mine.
+
+735
+00:39:54,806 --> 00:39:55,704
+Hey.
+
+736
+00:39:55,740 --> 00:39:58,709
+Hey, camera dude!
+
+737
+00:39:58,743 --> 00:40:00,040
+Thanks.
+
+738
+00:40:00,078 --> 00:40:03,445
+l wish l was inside your head.
+
+739
+00:40:03,681 --> 00:40:06,980
+All right, let's get you
+back to your dorm.
+
+740
+00:40:07,018 --> 00:40:08,110
+Wait. Abbey.
+
+741
+00:40:08,152 --> 00:40:10,052
+We, uh, need to get Abbey.
+
+742
+00:40:10,088 --> 00:40:12,818
+We'll get her on the way out.
+
+743
+00:40:12,857 --> 00:40:14,688
+Excellent.
+
+744
+00:40:18,396 --> 00:40:21,194
+<i>O</i>kay, let's get you to bed.
+
+745
+00:40:21,232 --> 00:40:22,961
+<i>O</i>kay.
+
+746
+00:40:23,000 --> 00:40:24,695
+Alone.
+
+747
+00:40:27,739 --> 00:40:29,331
+Bitch.
+
+748
+00:40:48,159 --> 00:40:49,888
+Good morning, son.
+
+749
+00:40:52,430 --> 00:40:54,489
+How'd you get in here?
+
+750
+00:40:54,732 --> 00:40:58,361
+Your R.A. seemed real eager
+to let me surprise you.
+
+751
+00:40:59,437 --> 00:41:03,271
+So guess what l got in the mail?
+
+752
+00:41:03,307 --> 00:41:05,867
+l have no idea, Dad.
+
+753
+00:41:05,910 --> 00:41:07,343
+Two things:
+
+754
+00:41:07,378 --> 00:41:10,506
+your tuition bill...
+
+755
+00:41:10,748 --> 00:41:12,511
+and this.
+
+756
+00:41:14,352 --> 00:41:16,047
+My invitation.
+
+757
+00:41:18,456 --> 00:41:21,983
+Dad, can we, uh,
+talk about this later?
+
+758
+00:41:22,026 --> 00:41:24,290
+l have a scholarship interview
+to get to.
+
+759
+00:41:24,328 --> 00:41:27,764
+We talked about this
+months ago, Danny.
+
+760
+00:41:27,799 --> 00:41:30,495
+l pay for film school,
+
+761
+00:41:30,535 --> 00:41:33,197
+and you are not
+to show that film.
+
+762
+00:41:33,237 --> 00:41:34,864
+Dad, it's fiction.
+
+763
+00:41:34,906 --> 00:41:36,874
+lt's worse than fiction.
+
+764
+00:41:36,908 --> 00:41:38,773
+lt's a lie.
+
+765
+00:41:38,810 --> 00:41:41,472
+Look, Dad, l have a real
+chance at winning this.
+
+766
+00:41:41,512 --> 00:41:44,140
+Not at my expense, you don't.
+
+767
+00:41:44,182 --> 00:41:45,877
+Not at your mother's.
+
+768
+00:41:45,917 --> 00:41:47,544
+Don't bring her into this.
+
+769
+00:41:47,785 --> 00:41:50,253
+Withdraw the film, son,
+
+770
+00:41:50,288 --> 00:41:54,054
+or your little
+movie career is over.
+
+771
+00:41:55,126 --> 00:41:56,821
+Dad, please.
+
+772
+00:41:59,931 --> 00:42:02,559
+Aw, jeez.
+
+773
+00:42:02,800 --> 00:42:04,893
+Take a shower.
+
+774
+00:42:04,936 --> 00:42:06,904
+You stink.
+
+775
+00:42:12,009 --> 00:42:15,103
+<i>[door opens and closes]</i>
+
+776
+00:42:19,150 --> 00:42:20,447
+Gimme a cigarette.
+
+777
+00:42:20,484 --> 00:42:23,180
+l am not supposed
+to talk to you.
+
+778
+00:42:23,221 --> 00:42:25,121
+So, don't talk.
+
+779
+00:42:31,963 --> 00:42:35,194
+Did that old windbag tell you
+to stay away from me?
+
+780
+00:42:35,233 --> 00:42:36,928
+Why would she tell me that?
+
+781
+00:42:36,968 --> 00:42:39,334
+Because you have
+a decision to make.
+
+782
+00:42:39,370 --> 00:42:41,065
+Don't let him win.
+
+783
+00:42:42,106 --> 00:42:43,130
+Danny?
+
+784
+00:42:43,174 --> 00:42:45,335
+Do you care about anyone else?
+
+785
+00:42:45,376 --> 00:42:48,402
+See, l won 1 5 years ago.
+
+786
+00:42:48,446 --> 00:42:49,879
+<i>Judas Kiss</i> won.
+
+787
+00:42:49,914 --> 00:42:50,972
+You cheated.
+
+788
+00:42:51,015 --> 00:42:52,949
+l did not.
+
+789
+00:42:52,984 --> 00:42:54,952
+What's the date on that?
+<i>[vibration]</i>
+
+790
+00:42:59,857 --> 00:43:01,085
+First draft.
+
+791
+00:43:01,125 --> 00:43:03,025
+Senior year, high school.
+
+792
+00:43:03,060 --> 00:43:04,618
+So what?
+
+793
+00:43:04,862 --> 00:43:07,228
+Playing dumb doesn't really
+do it for you.
+
+794
+00:43:07,265 --> 00:43:09,256
+<i>O</i>fficial rules say,
+
+795
+00:43:09,300 --> 00:43:12,633
+''<i>O</i>riginal screenplay written
+while attending Keystone.''
+
+796
+00:43:12,870 --> 00:43:14,428
+Who are you, huh?
+
+797
+00:43:14,472 --> 00:43:16,372
+Why do you care
+so much about my past?
+
+798
+00:43:16,407 --> 00:43:18,238
+His past is the key
+to your future.
+
+799
+00:43:18,276 --> 00:43:20,904
+What on this campus
+isn't the key to my future?
+
+800
+00:43:20,945 --> 00:43:23,573
+That script proves Danny
+cheated with Abbey's help.
+
+801
+00:43:23,614 --> 00:43:26,174
+That's how you
+keep him from winning.
+
+802
+00:43:26,217 --> 00:43:29,186
+Winning was the worst thing
+that ever happened to you.
+
+803
+00:43:29,220 --> 00:43:33,179
+l can't just walk into
+Blossom's office with this.
+
+804
+00:43:33,224 --> 00:43:34,452
+How would she know it's real?
+
+805
+00:43:34,492 --> 00:43:37,586
+You don't have to.
+
+806
+00:43:45,436 --> 00:43:47,461
+Now l gotta win.
+
+807
+00:43:47,505 --> 00:43:50,338
+He's going cut me off if l keep
+<i>Judas</i> in the festival.
+
+808
+00:43:50,374 --> 00:43:52,934
+Your dad's really that much
+of a <i>Rasshol?</i>
+
+809
+00:43:52,977 --> 00:43:54,444
+Trust me.
+
+810
+00:43:54,478 --> 00:43:56,343
+That's him on a good day.
+
+811
+00:44:04,522 --> 00:44:08,356
+Most people walk facing the
+direction they're headed, C.W.
+
+812
+00:44:08,392 --> 00:44:09,484
+Hey.
+
+813
+00:44:09,527 --> 00:44:12,223
+You gonna go to
+Martinez' party tonight?
+
+814
+00:44:14,198 --> 00:44:16,166
+Yeah, sure.
+
+815
+00:44:16,200 --> 00:44:18,395
+Great.
+Then we'll meet you there.
+
+816
+00:44:21,339 --> 00:44:24,968
+And remember--
+
+817
+00:44:25,009 --> 00:44:26,567
+eyes forward.
+
+818
+00:44:34,218 --> 00:44:35,242
+Come on.
+
+819
+00:44:44,695 --> 00:44:48,187
+<i>O</i>nly you and l know
+about the script.
+
+820
+00:44:48,232 --> 00:44:51,633
+Look, l can't concentrate
+on this right now, okay?
+
+821
+00:44:55,573 --> 00:44:57,131
+l'm serious.
+
+822
+00:44:57,174 --> 00:44:58,732
+Get him out of your head.
+
+823
+00:45:03,381 --> 00:45:06,145
+You know, you're right...
+
+824
+00:45:06,183 --> 00:45:08,617
+l gotta get psyched
+about this interview.
+
+825
+00:45:09,720 --> 00:45:11,347
+l love you, Abs.
+
+826
+00:45:11,389 --> 00:45:12,447
+<i>O</i>h!
+
+827
+00:45:15,059 --> 00:45:16,151
+<i>O</i>kay.
+
+828
+00:45:16,193 --> 00:45:17,626
+Too much love in the room.
+
+829
+00:45:19,330 --> 00:45:21,025
+Wish me luck, huh?
+
+830
+00:45:21,065 --> 00:45:23,363
+Luck, really.
+
+831
+00:45:32,410 --> 00:45:35,243
+Zach, you ready for this?
+
+832
+00:45:35,279 --> 00:45:37,713
+Uh, yeah. Ready.
+
+833
+00:45:38,549 --> 00:45:41,040
+ls it all right if l come in?
+
+834
+00:45:41,085 --> 00:45:42,575
+Perfectly fine, Danny.
+
+835
+00:45:43,754 --> 00:45:46,018
+l'll start where we left off.
+
+836
+00:45:47,158 --> 00:45:50,525
+Your film, <i>Judas Kiss,</i> tackles
+some pretty intense issues.
+
+837
+00:45:50,561 --> 00:45:54,122
+Why such a controversial
+subject in the short form?
+
+838
+00:45:54,165 --> 00:45:58,534
+Well, sir, l kind of wanted
+<i>Judas Kiss</i> to be more of a...
+
+839
+00:45:58,569 --> 00:46:02,733
+great knockout punch rather
+than an entire boxing match.
+
+840
+00:46:02,773 --> 00:46:04,604
+That is a wonderful
+metaphor, Danny.
+
+841
+00:46:04,642 --> 00:46:06,200
+Thank you, sir.
+
+842
+00:46:06,243 --> 00:46:07,642
+Winning this competition
+
+843
+00:46:07,678 --> 00:46:09,669
+could open a lot of
+doors for you, Danny.
+
+844
+00:46:09,713 --> 00:46:12,147
+What do you plan to do
+with those opportunities?
+
+845
+00:46:12,183 --> 00:46:13,548
+Get rich.
+
+846
+00:46:13,584 --> 00:46:16,348
+<i>[Ralph and Rebecca laugh]</i>
+
+847
+00:46:16,387 --> 00:46:20,153
+So, um, where do you
+see yourself, say,
+
+848
+00:46:20,191 --> 00:46:22,159
+in 1 5 years from now?
+
+849
+00:46:23,594 --> 00:46:26,154
+Famous, l hope.
+
+850
+00:46:26,197 --> 00:46:29,291
+l'd work for it, obviously.
+
+851
+00:46:29,333 --> 00:46:31,699
+Few more shorts
+before l graduate,
+
+852
+00:46:31,735 --> 00:46:33,225
+then my first feature.
+
+853
+00:46:33,270 --> 00:46:35,295
+Actually, l have an idea
+for it right now.
+
+854
+00:46:35,339 --> 00:46:37,569
+lt's about love in
+a parallel universe
+
+855
+00:46:37,608 --> 00:46:39,166
+where everyone's
+turned around.
+
+856
+00:46:39,343 --> 00:46:40,571
+Turned around?
+
+857
+00:46:40,611 --> 00:46:43,307
+Yeah, like an all-gay universe
+
+858
+00:46:43,347 --> 00:46:45,838
+where straight people
+are the minority.
+
+859
+00:46:46,750 --> 00:46:48,650
+Gay, right.
+
+860
+00:46:48,686 --> 00:46:49,710
+<i>O</i>f course.
+
+861
+00:46:49,753 --> 00:46:52,119
+ls that a problem?
+
+862
+00:46:52,156 --> 00:46:54,716
+No, no.
+Not for me, it isn't.
+
+863
+00:46:54,758 --> 00:46:58,319
+So, in 1 5 years...
+
+864
+00:46:58,362 --> 00:47:00,387
+Beach house in L.A.,
+
+865
+00:47:00,431 --> 00:47:01,398
+penthouse in New York,
+
+866
+00:47:01,432 --> 00:47:03,195
+maybe one or two movies a year.
+
+867
+00:47:03,234 --> 00:47:05,862
+Fly to places
+like ltaly or Spain.
+
+868
+00:47:06,103 --> 00:47:07,536
+<i>[chuckles]</i>
+
+869
+00:47:08,239 --> 00:47:09,672
+What's so funny?
+
+870
+00:47:09,707 --> 00:47:11,334
+Nothing.
+
+871
+00:47:11,375 --> 00:47:13,741
+Spain is--
+
+872
+00:47:13,777 --> 00:47:15,711
+Spain's awesome, man.
+
+873
+00:47:15,746 --> 00:47:19,739
+So...
+
+874
+00:47:19,783 --> 00:47:22,149
+What happens when
+everything doesn't go
+
+875
+00:47:22,186 --> 00:47:23,619
+according to your plan?
+
+876
+00:47:23,654 --> 00:47:25,212
+Well, l can work it.
+
+877
+00:47:25,256 --> 00:47:28,123
+<i>Judas Kiss</i> proves
+what l can do.
+
+878
+00:47:28,159 --> 00:47:30,889
+Yeah, but there's lots of
+great films in this festival.
+
+879
+00:47:31,128 --> 00:47:33,892
+What if it doesn't win?
+
+880
+00:47:34,131 --> 00:47:37,259
+<i>O</i>r what if you hit massive
+writer's block one day?
+
+881
+00:47:37,301 --> 00:47:38,359
+Excuse me?
+
+882
+00:47:38,402 --> 00:47:40,267
+What if you don't become rich?
+
+883
+00:47:40,304 --> 00:47:41,271
+No fancy houses.
+
+884
+00:47:41,305 --> 00:47:43,500
+You're just a part-time waiter
+
+885
+00:47:43,541 --> 00:47:45,372
+who shoots wedding videos
+on the weekends
+
+886
+00:47:45,409 --> 00:47:47,468
+for some millionaire's
+spoiled daughter?
+
+887
+00:47:48,279 --> 00:47:50,839
+Are you supposed to be
+asking me questions like this?
+
+888
+00:47:52,149 --> 00:47:55,175
+You shouldn't be afraid
+of questions, Danny.
+
+889
+00:47:56,820 --> 00:47:58,788
+l'm not afraid.
+
+890
+00:48:01,325 --> 00:48:03,384
+All l'm asking is,
+
+891
+00:48:03,427 --> 00:48:06,157
+what happens when you don't
+get what you want?
+
+892
+00:48:06,197 --> 00:48:09,257
+Look, l'm just focusing on
+my goals right now.
+
+893
+00:48:09,300 --> 00:48:13,327
+lt sounds to me like you're
+focusing more on the rewards.
+
+894
+00:48:14,738 --> 00:48:17,798
+What if you don't have
+what it takes?
+
+895
+00:48:22,479 --> 00:48:24,447
+<i>O</i>kay, great.
+
+896
+00:48:24,481 --> 00:48:25,812
+Ralph, your turn.
+
+897
+00:48:25,849 --> 00:48:29,842
+Um, Danny, let's talk about
+the lighting schemes you chose
+
+898
+00:48:29,887 --> 00:48:33,186
+and how you used light to
+heighten the dramatic tension
+
+899
+00:48:33,224 --> 00:48:35,317
+between the father and the son.
+
+900
+00:48:38,229 --> 00:48:39,821
+Whaddya say, boys?
+
+901
+00:48:39,863 --> 00:48:41,296
+Lunch?
+
+902
+00:48:41,332 --> 00:48:42,822
+Uh, you two go ahead.
+
+903
+00:48:42,866 --> 00:48:45,562
+l'll catch up
+after my cigarette.
+
+904
+00:48:45,603 --> 00:48:48,299
+All right, see you
+at the cafeteria.
+
+905
+00:49:27,511 --> 00:49:28,842
+<i>[playing softly]</i>
+
+906
+00:49:28,879 --> 00:49:33,839
+♪ ♪
+
+907
+00:49:43,527 --> 00:49:45,017
+Mr. Wells.
+
+908
+00:49:46,830 --> 00:49:48,627
+Call me Zach.
+
+909
+00:49:48,666 --> 00:49:50,930
+We've had sex,
+for Christ's sake.
+
+910
+00:49:50,968 --> 00:49:54,369
+So that's what
+that was all about.
+
+911
+00:49:54,405 --> 00:49:56,896
+All what?
+
+912
+00:49:56,940 --> 00:49:58,703
+That interrogation.
+
+913
+00:50:00,311 --> 00:50:03,405
+Well, you survived
+it, didn't you?
+
+914
+00:50:04,581 --> 00:50:06,378
+So what do you want now?
+
+915
+00:50:06,417 --> 00:50:09,386
+♪ ♪
+
+916
+00:50:10,321 --> 00:50:12,289
+Do you think l'm gonna fail?
+
+917
+00:50:15,426 --> 00:50:18,827
+You have everything
+you need to get ahead...
+
+918
+00:50:18,862 --> 00:50:22,354
+Smarts, charm, looks.
+
+919
+00:50:24,635 --> 00:50:26,398
+Everything, huh?
+
+920
+00:50:27,705 --> 00:50:30,401
+You know, l can't stop
+thinking about you.
+
+921
+00:50:32,443 --> 00:50:34,502
+l feel like
+you really see me.
+
+922
+00:50:36,013 --> 00:50:40,973
+Why can't you just rely
+on talent, on hard work?
+
+923
+00:50:41,685 --> 00:50:43,550
+Look, l'm not stupid.
+
+924
+00:50:43,587 --> 00:50:46,579
+l know it's all about
+who you know.
+
+925
+00:50:46,623 --> 00:50:48,989
+You think you're always
+gonna be able to get ahead
+
+926
+00:50:49,026 --> 00:50:53,463
+by breaking the rules,
+use blowjobs and blackmail?
+
+927
+00:50:55,599 --> 00:50:59,091
+What happens when you run into
+a player who's just using you?
+
+928
+00:50:59,336 --> 00:51:01,099
+Do you sell him your dreams?
+
+929
+00:51:03,507 --> 00:51:05,998
+We still talking about me?
+
+930
+00:51:09,380 --> 00:51:10,972
+Who are you anyway?
+
+931
+00:51:11,014 --> 00:51:13,346
+You know, nobody here knows you.
+
+932
+00:51:13,384 --> 00:51:15,909
+So who'd you sleep with
+to get this gig?
+
+933
+00:51:18,489 --> 00:51:21,583
+l'm just the guy...
+
+934
+00:51:21,625 --> 00:51:25,356
+who can torpedo your shot
+at stardom.
+
+935
+00:51:27,631 --> 00:51:28,655
+No.
+
+936
+00:51:31,068 --> 00:51:32,865
+See, l'm gonna count
+on the audience
+
+937
+00:51:32,903 --> 00:51:34,962
+for <i>Judas Kiss</i> tomorrow night,
+
+938
+00:51:35,005 --> 00:51:37,405
+and the other two votes
+on that panel.
+
+939
+00:51:44,948 --> 00:51:47,746
+The kid cheated.
+
+940
+00:51:47,785 --> 00:51:49,912
+l know.
+
+941
+00:51:49,953 --> 00:51:51,511
+Make things right.
+
+942
+00:51:54,425 --> 00:51:56,757
+Where's my dad staying?
+
+943
+00:51:56,794 --> 00:51:58,921
+College lnn.
+
+944
+00:52:21,852 --> 00:52:23,046
+Hey.
+
+945
+00:52:23,086 --> 00:52:24,917
+Hey.
+
+946
+00:52:24,955 --> 00:52:27,048
+You got my note.
+
+947
+00:52:27,090 --> 00:52:30,059
+Here, come with me.
+
+948
+00:52:40,571 --> 00:52:42,539
+Why all stealth mode?
+
+949
+00:52:44,141 --> 00:52:47,110
+l thought we kinda made
+a connection the other night.
+
+950
+00:52:47,144 --> 00:52:48,702
+Me too.
+
+951
+00:52:49,847 --> 00:52:51,576
+Shane really likes you.
+
+952
+00:52:54,151 --> 00:52:55,914
+ls that why we're doing this
+
+953
+00:52:55,953 --> 00:52:58,012
+out here in the middle
+of the forest?
+
+954
+00:52:58,055 --> 00:53:00,615
+Shane is like the Emperor
+of Keystone.
+
+955
+00:53:02,025 --> 00:53:06,223
+Look, Shane is amazing
+and hot.
+
+956
+00:53:06,463 --> 00:53:10,092
+But you...
+
+957
+00:53:10,133 --> 00:53:12,226
+You know about Aspheron lenses.
+
+958
+00:53:13,871 --> 00:53:16,135
+And 36 F.P.S.
+
+959
+00:53:26,717 --> 00:53:28,981
+l'm just saying that
+we should be careful.
+
+960
+00:53:29,019 --> 00:53:32,716
+<i>[bells chiming</i>
+<i>Westminster Quarters]</i>
+
+961
+00:53:34,591 --> 00:53:36,559
+Shane...
+
+962
+00:53:38,629 --> 00:53:41,223
+l promised l'd go to dinner
+with him tonight.
+
+963
+00:53:42,266 --> 00:53:44,029
+Don't piss off Shane.
+
+964
+00:53:44,735 --> 00:53:47,226
+You're really scared of
+Shane, aren't you?
+
+965
+00:53:49,172 --> 00:53:50,662
+<i>O</i>kay.
+
+966
+00:53:53,143 --> 00:53:56,237
+You going to the party
+at Martinez' later tonight?
+
+967
+00:53:56,280 --> 00:53:58,248
+You?
+
+968
+00:54:01,919 --> 00:54:04,251
+Uh-huh.
+
+969
+00:54:09,026 --> 00:54:10,288
+<i>O</i>kay.
+
+970
+00:54:10,527 --> 00:54:12,893
+Go, go...
+
+971
+00:54:12,930 --> 00:54:14,591
+You're killin' me.
+
+972
+00:54:21,538 --> 00:54:23,267
+l'll find you.
+
+973
+00:54:29,947 --> 00:54:32,142
+l am so dead.
+
+974
+00:54:42,559 --> 00:54:44,652
+Dude, we're in public.
+
+975
+00:54:44,695 --> 00:54:46,663
+Why should we care about them?
+
+976
+00:54:49,032 --> 00:54:52,195
+Doesn't it bother you
+that you terrify people?
+
+977
+00:54:52,235 --> 00:54:53,793
+Do l terrify you?
+
+978
+00:54:53,837 --> 00:54:55,737
+Look, l'm serious.
+
+979
+00:54:55,772 --> 00:54:57,330
+What's that all about?
+
+980
+00:54:59,176 --> 00:55:02,270
+l don't live afraid...
+
+981
+00:55:02,312 --> 00:55:04,041
+<i>O</i>f them...
+
+982
+00:55:05,782 --> 00:55:07,215
+<i>O</i>f anyone.
+
+983
+00:55:13,924 --> 00:55:17,087
+♪ <i>A thousand urgent voices</i> ♪
+
+984
+00:55:17,127 --> 00:55:19,925
+♪ <i>Shout their own refrain</i> ♪
+
+985
+00:55:19,963 --> 00:55:21,225
+♪ ♪
+
+986
+00:55:21,264 --> 00:55:24,097
+♪ <i>But you are the whisper</i> ♪
+
+987
+00:55:24,134 --> 00:55:25,658
+♪ <i>That will light</i>... ♪
+
+988
+00:55:25,702 --> 00:55:28,671
+Feels really nice.
+
+989
+00:55:28,705 --> 00:55:31,333
+What's got your shoulders
+so tense?
+
+990
+00:55:31,375 --> 00:55:34,367
+The festival?
+
+991
+00:55:34,611 --> 00:55:38,945
+You know, <i>Judas Kiss</i>
+can't help but win something.
+
+992
+00:55:38,982 --> 00:55:42,782
+lt's not just that.
+
+993
+00:55:42,819 --> 00:55:44,081
+lt's my dad.
+
+994
+00:55:44,121 --> 00:55:48,683
+lf l don't win this festival,
+l'm out on my ass.
+
+995
+00:55:48,725 --> 00:55:51,216
+l thought you totally
+charmed up that judge.
+
+996
+00:55:51,261 --> 00:55:54,958
+Yeah, well, l'm not sure
+how well l did that.
+
+997
+00:55:54,998 --> 00:55:57,091
+Maybe you could
+use a tutorial.
+
+998
+00:55:58,735 --> 00:56:02,262
+Make him see how big
+a difference he could make
+
+999
+00:56:02,305 --> 00:56:04,273
+in a young filmmaker's life.
+
+1000
+00:56:07,177 --> 00:56:11,705
+♪ <i>So incomplete</i> ♪
+
+1001
+00:56:11,748 --> 00:56:14,842
+♪ <i>And as l'm raking through</i> ♪
+
+1002
+00:56:14,885 --> 00:56:20,846
+♪ <i>The embers of this game</i> ♪
+
+1003
+00:56:20,891 --> 00:56:24,019
+♪ <i>A thousand urgent voices</i> ♪
+
+1004
+00:56:24,061 --> 00:56:28,157
+♪ <i>Shout their own refrain</i> ♪
+
+1005
+00:56:28,198 --> 00:56:30,723
+♪ <i>But you are the whisper</i> ♪
+
+1006
+00:56:30,767 --> 00:56:32,394
+♪ <i>That will light</i> ♪
+
+1007
+00:56:32,436 --> 00:56:37,135
+♪ <i>This phoenix flame</i> ♪
+
+1008
+00:56:37,174 --> 00:56:39,267
+♪ <i>Your love will let me</i> ♪
+
+1009
+00:56:39,309 --> 00:56:44,440
+♪ <i>Breathe again</i> ♪
+
+1010
+00:57:04,468 --> 00:57:05,935
+Hey.
+
+1011
+00:57:09,072 --> 00:57:11,040
+Move in with me next semester.
+
+1012
+00:57:12,976 --> 00:57:14,102
+<i>[Johnny Blk's Contemplations]</i>
+
+1013
+00:57:14,144 --> 00:57:15,771
+♪ ♪
+
+1014
+00:57:15,812 --> 00:57:18,474
+No matter what happens
+with your dad, with...
+
+1015
+00:57:18,715 --> 00:57:21,206
+with the film festival,
+we'd be set.
+
+1016
+00:57:25,355 --> 00:57:26,913
+Say yes.
+
+1017
+00:57:27,858 --> 00:57:30,793
+Y-yes...
+
+1018
+00:57:30,827 --> 00:57:32,158
+<i>O</i>f course.
+
+1019
+00:57:34,765 --> 00:57:36,357
+<i>O</i>kay.
+
+1020
+00:57:36,399 --> 00:57:38,458
+You should get a move on.
+
+1021
+00:57:38,502 --> 00:57:40,834
+This is your big day.
+
+1022
+00:57:40,871 --> 00:57:43,101
+♪ ♪
+
+1023
+00:57:43,140 --> 00:57:44,471
+♪ <i>Foolishly</i> ♪
+
+1024
+00:57:44,508 --> 00:57:46,203
+♪ <i>We all run blind</i> ♪
+
+1025
+00:57:46,243 --> 00:57:49,235
+♪ <i>Across the earth</i> ♪
+
+1026
+00:57:49,279 --> 00:57:50,940
+♪ <i>So l sit here</i> ♪
+
+1027
+00:57:50,981 --> 00:57:52,949
+♪ <i>Contemplating</i> ♪
+
+1028
+00:57:52,983 --> 00:57:56,248
+♪ <i>What it is l've done</i> ♪
+
+1029
+00:57:56,286 --> 00:57:59,119
+♪ <i>Where l will be going</i> ♪
+
+1030
+00:57:59,156 --> 00:58:02,956
+♪ <i>l am not the one</i> ♪
+
+1031
+00:58:02,993 --> 00:58:05,086
+♪ <i>Not the one</i> ♪
+
+1032
+00:58:05,128 --> 00:58:10,191
+♪ ♪
+
+1033
+00:58:10,233 --> 00:58:11,928
+♪ <i>We're all looking</i> ♪
+
+1034
+00:58:11,968 --> 00:58:15,961
+♪ <i>For immediate salvation</i> ♪
+
+1035
+00:58:16,006 --> 00:58:17,974
+♪ <i>Unconditional love</i> ♪
+
+1036
+00:58:18,008 --> 00:58:20,499
+♪ <i>At a price we can't afford</i> ♪
+
+1037
+00:58:20,544 --> 00:58:22,876
+(Both)
+We need to talk.
+
+1038
+00:58:22,913 --> 00:58:26,144
+Jeez, ambush much?
+
+1039
+00:58:26,183 --> 00:58:27,377
+<i>Feent</i>.
+
+1040
+00:58:27,417 --> 00:58:30,113
+But one at a time.
+
+1041
+00:58:30,153 --> 00:58:31,848
+You first.
+
+1042
+00:58:36,893 --> 00:58:39,418
+Since when do you care
+who l sleep with?
+
+1043
+00:58:39,462 --> 00:58:43,421
+Shane stares at you
+like you're his property.
+
+1044
+00:58:43,466 --> 00:58:45,297
+He likes me...
+He wants me.
+
+1045
+00:58:45,335 --> 00:58:46,802
+He can help me, Abs.
+
+1046
+00:58:46,837 --> 00:58:48,304
+l don't have
+a problem with that.
+
+1047
+00:58:48,338 --> 00:58:50,533
+You're his flavor
+of the month.
+
+1048
+00:58:50,574 --> 00:58:52,542
+He only cares about
+you because of
+
+1049
+00:58:52,576 --> 00:58:54,168
+<i>Judas Kiss</i> and the festival.
+
+1050
+00:58:54,211 --> 00:58:56,179
+He wants me to
+move in with him.
+
+1051
+00:58:56,213 --> 00:58:58,579
+You had to be high
+to sleep with him.
+
+1052
+00:58:58,815 --> 00:59:00,407
+God, stalker much?
+
+1053
+00:59:07,357 --> 00:59:09,450
+You're jealous of Shane.
+
+1054
+00:59:10,594 --> 00:59:13,427
+ls that what this is all about?
+You and me?
+
+1055
+00:59:14,331 --> 00:59:16,196
+Don't flatter yourself.
+
+1056
+00:59:16,233 --> 00:59:18,599
+Would he be so into you
+if he knew we broke the rules
+
+1057
+00:59:18,835 --> 00:59:20,132
+to enter <i>Judas Kiss</i>
+in the festival?
+
+1058
+00:59:20,170 --> 00:59:21,194
+Shh!
+
+1059
+00:59:21,238 --> 00:59:22,967
+Chris is right outside.
+
+1060
+00:59:23,006 --> 00:59:24,564
+Yeah, and what about Chris?
+
+1061
+00:59:24,608 --> 00:59:27,008
+He really likes you.
+
+1062
+00:59:28,211 --> 00:59:30,475
+That's between me and Chris.
+
+1063
+00:59:37,387 --> 00:59:39,218
+You want me to butt out?
+
+1064
+00:59:42,626 --> 00:59:44,059
+Butt out.
+
+1065
+00:59:47,631 --> 00:59:49,496
+<i>Feent</i>.
+
+1066
+00:59:51,368 --> 00:59:53,097
+Abbey, come on.
+
+1067
+00:59:53,136 --> 00:59:54,330
+Sleep with whomever you want,
+
+1068
+00:59:54,371 --> 00:59:56,236
+but be your own man, you <i>mus</i>.
+
+1069
+01:00:30,407 --> 01:00:32,375
+She's your biggest fan.
+
+1070
+01:00:33,176 --> 01:00:34,666
+Not anymore.
+
+1071
+01:00:35,912 --> 01:00:38,278
+So make it up to her.
+
+1072
+01:00:38,315 --> 01:00:40,283
+l didn't do anything to her.
+
+1073
+01:00:41,051 --> 01:00:44,282
+Look, before <i>Judas Kiss</i>
+and this festival,
+
+1074
+01:00:44,321 --> 01:00:47,415
+nobody at this school
+knew l existed.
+
+1075
+01:00:47,457 --> 01:00:53,418
+l was just the new weird kid
+making a movie with his fag hag.
+
+1076
+01:00:53,463 --> 01:00:55,226
+So l heard.
+
+1077
+01:00:57,300 --> 01:00:59,530
+This is a competitive place.
+
+1078
+01:00:59,569 --> 01:01:01,298
+Yeah, and l'm just
+trying to keep up.
+
+1079
+01:01:01,338 --> 01:01:03,306
+By shacking up with Shane?
+
+1080
+01:01:03,340 --> 01:01:05,171
+How did you know that?
+
+1081
+01:01:08,445 --> 01:01:11,141
+You think you're
+Shane's first bitch?
+
+1082
+01:01:13,316 --> 01:01:14,681
+Last year.
+
+1083
+01:01:15,952 --> 01:01:18,011
+The way he calls me C.W.,
+
+1084
+01:01:18,054 --> 01:01:21,182
+l swear, he made me
+hate my own name.
+
+1085
+01:01:21,224 --> 01:01:23,158
+He promised me everything,
+
+1086
+01:01:23,193 --> 01:01:25,058
+anything l wanted.
+
+1087
+01:01:25,095 --> 01:01:27,154
+Until Mommy and
+Daddy Lyons met me,
+
+1088
+01:01:27,197 --> 01:01:33,329
+and my films were too weird,
+too bloody.
+
+1089
+01:01:33,370 --> 01:01:34,598
+Too bloody weird.
+
+1090
+01:01:38,975 --> 01:01:41,603
+So when do you meet them?
+
+1091
+01:01:41,644 --> 01:01:44,078
+Today...
+
+1092
+01:01:44,114 --> 01:01:46,014
+At the luncheon.
+
+1093
+01:01:48,118 --> 01:01:49,312
+Come here.
+
+1094
+01:01:53,089 --> 01:01:55,455
+You think l'm scared of Shane?
+
+1095
+01:01:55,492 --> 01:01:59,326
+Nothing compares to how
+scared he is of his parents.
+
+1096
+01:01:59,362 --> 01:02:01,330
+Think about what you're doing.
+
+1097
+01:02:05,468 --> 01:02:08,028
+l don't have a choice...
+
+1098
+01:02:08,071 --> 01:02:10,096
+Look, l told you about my dad.
+
+1099
+01:02:10,140 --> 01:02:11,505
+l need Shane's help.
+
+1100
+01:02:13,476 --> 01:02:17,139
+Those pills
+he's been feeding you...
+
+1101
+01:02:17,180 --> 01:02:18,511
+they helping?
+
+1102
+01:02:19,616 --> 01:02:22,551
+My dad's cutting me loose,
+
+1103
+01:02:22,585 --> 01:02:24,519
+one of the judges
+is out to get me.
+
+1104
+01:02:24,554 --> 01:02:26,613
+l could lose everything.
+
+1105
+01:02:26,656 --> 01:02:29,250
+l need a place to stay,
+a job, money.
+
+1106
+01:02:31,528 --> 01:02:33,496
+Shane can get me
+all those things.
+
+1107
+01:02:35,231 --> 01:02:38,598
+So you and me...
+we're off the table.
+
+1108
+01:02:40,403 --> 01:02:42,530
+Well, maybe we could, uh...
+
+1109
+01:02:42,572 --> 01:02:44,767
+Look.
+
+1110
+01:02:44,808 --> 01:02:47,800
+Whatever you've
+done to get here,
+
+1111
+01:02:48,044 --> 01:02:50,604
+l'll stand by you.
+
+1112
+01:02:50,647 --> 01:02:52,615
+l'll be your friend.
+
+1113
+01:02:53,516 --> 01:02:55,677
+But so long as
+you're with Shane,
+
+1114
+01:02:55,718 --> 01:02:57,481
+there can never be an us.
+
+1115
+01:03:14,304 --> 01:03:17,796
+<i>[door opens and closes]</i>
+
+1116
+01:04:13,229 --> 01:04:14,856
+<i>[fork clinking on glass]</i>
+
+1117
+01:04:14,898 --> 01:04:18,425
+l'd like to recognize the
+festival's continuing support
+
+1118
+01:04:18,468 --> 01:04:21,130
+from Richard and
+Annabelle Lyons,
+
+1119
+01:04:21,171 --> 01:04:24,299
+Hollywood's most
+generous financiers.
+
+1120
+01:04:24,340 --> 01:04:25,864
+<i>[applause]</i>
+
+1121
+01:04:25,909 --> 01:04:29,572
+And a heartfelt appreciation
+to the judges
+
+1122
+01:04:29,612 --> 01:04:31,375
+of our student competition:
+
+1123
+01:04:31,414 --> 01:04:33,780
+cinematographer
+Ralph Garlington,
+
+1124
+01:04:33,816 --> 01:04:35,613
+screenwriter
+Rebecca Lynn,
+
+1125
+01:04:35,652 --> 01:04:39,611
+and, uh...
+Keystone alumnus Zachary Wells.
+
+1126
+01:04:39,656 --> 01:04:42,352
+<i>[applause]</i>
+
+1127
+01:04:42,392 --> 01:04:45,361
+Screening of the
+top five student films
+
+1128
+01:04:45,395 --> 01:04:48,489
+begins at 7:00 in
+the Lyons Theater.
+
+1129
+01:04:48,531 --> 01:04:50,897
+Please, enjoy your dessert.
+
+1130
+01:05:09,552 --> 01:05:10,644
+<i>[door opens]</i>
+
+1131
+01:05:17,894 --> 01:05:22,456
+Reassuring to observe your
+attention to hygiene, Mr. Wells.
+
+1132
+01:05:23,600 --> 01:05:26,262
+l know that what
+you've decided today
+
+1133
+01:05:26,302 --> 01:05:29,669
+about Danny's future
+changes everything for you.
+
+1134
+01:05:30,206 --> 01:05:31,434
+Why am l so important?
+
+1135
+01:05:31,474 --> 01:05:33,965
+Did you even look around as you
+announced my name out there?
+
+1136
+01:05:34,210 --> 01:05:35,541
+No one knew me.
+
+1137
+01:05:35,578 --> 01:05:37,341
+l know.
+
+1138
+01:05:39,349 --> 01:05:41,715
+You actually remember me?
+
+1139
+01:05:41,751 --> 01:05:43,582
+Faces and films.
+
+1140
+01:05:45,355 --> 01:05:47,949
+Frankly, with you,
+it was more about the film,
+
+1141
+01:05:47,991 --> 01:05:49,982
+the one that got you
+into this competition.
+
+1142
+01:05:50,627 --> 01:05:52,925
+Your face was pretty,
+
+1143
+01:05:52,962 --> 01:05:56,420
+but your <i>Judas Kiss</i>
+was horrifying.
+
+1144
+01:05:56,466 --> 01:05:59,663
+l've never been able
+to get it out of my mind.
+
+1145
+01:06:01,237 --> 01:06:03,603
+Well, it wasn't a horror film.
+
+1146
+01:06:04,774 --> 01:06:06,969
+You can't take a compliment,
+can you?
+
+1147
+01:06:07,010 --> 01:06:10,343
+That was supposed to be nice?
+
+1148
+01:06:10,380 --> 01:06:12,871
+Would you like my critique?
+
+1149
+01:06:12,915 --> 01:06:15,850
+Yes. No.
+
+1150
+01:06:15,885 --> 01:06:19,321
+How did you even know
+what l decided to do?
+
+1151
+01:06:20,356 --> 01:06:22,847
+This is the key to your future.
+
+1152
+01:06:29,799 --> 01:06:31,767
+<i>Feent</i>.
+
+1153
+01:06:48,551 --> 01:06:51,782
+<i>[clock chiming</i>
+<i>Westminster Quarters]</i>
+
+1154
+01:07:06,069 --> 01:07:08,037
+Bitter?
+
+1155
+01:07:08,071 --> 01:07:11,040
+Would you stop
+sneaking up on me?
+
+1156
+01:07:11,074 --> 01:07:14,771
+This roller coaster ride's
+almost over.
+
+1157
+01:07:14,811 --> 01:07:17,575
+You just need to take
+the last loop.
+
+1158
+01:07:19,582 --> 01:07:22,642
+l know what l have to do:
+
+1159
+01:07:22,685 --> 01:07:25,552
+ruin a kid's career,
+my career.
+
+1160
+01:07:25,588 --> 01:07:27,419
+You already did that.
+
+1161
+01:07:27,457 --> 01:07:28,651
+Go.
+
+1162
+01:07:28,691 --> 01:07:32,388
+Go make his life
+different than yours.
+
+1163
+01:07:45,341 --> 01:07:48,572
+<i>[movie playing indistinctly]</i>
+
+1164
+01:07:58,488 --> 01:08:00,479
+Are you okay?
+
+1165
+01:08:01,491 --> 01:08:02,685
+Yeah.
+
+1166
+01:08:02,725 --> 01:08:04,124
+Fine.
+
+1167
+01:08:04,360 --> 01:08:06,851
+This is a really good movie.
+
+1168
+01:08:06,896 --> 01:08:10,525
+Yeah. lsn't it?
+
+1169
+01:08:11,634 --> 01:08:14,000
+l mean, <i>Judas Kiss</i> is...
+
+1170
+01:08:14,036 --> 01:08:15,094
+l need to get some fresh air.
+
+1171
+01:08:15,138 --> 01:08:17,129
+You want me to come with?
+
+1172
+01:08:17,373 --> 01:08:18,601
+l'm fine.
+
+1173
+01:08:26,616 --> 01:08:29,983
+Damn it, damn it, damn it,
+damn it, damn it, damn it.
+
+1174
+01:08:37,760 --> 01:08:39,022
+Hey.
+
+1175
+01:08:42,632 --> 01:08:44,623
+You all right?
+
+1176
+01:08:44,667 --> 01:08:46,532
+No...
+
+1177
+01:08:46,569 --> 01:08:48,469
+Thanks to you.
+
+1178
+01:08:48,504 --> 01:08:50,972
+That film playing
+in there right now,
+
+1179
+01:08:51,007 --> 01:08:52,804
+it's better than mine.
+
+1180
+01:08:53,509 --> 01:08:55,739
+l'm gonna lose this thing.
+
+1181
+01:08:55,778 --> 01:08:58,178
+So, congratulations.
+l know that's what you wanted.
+
+1182
+01:08:59,682 --> 01:09:01,673
+You know that, huh?
+
+1183
+01:09:01,717 --> 01:09:03,810
+Yeah, l do.
+
+1184
+01:09:03,853 --> 01:09:06,048
+You know, l wasn't bullshitting
+when l said
+
+1185
+01:09:06,088 --> 01:09:07,783
+l felt a connection with you.
+
+1186
+01:09:08,424 --> 01:09:11,052
+l can't get you out of my head.
+
+1187
+01:09:14,430 --> 01:09:15,897
+Believe me, l want to.
+
+1188
+01:09:19,902 --> 01:09:23,167
+Zachary Wells
+isn't my real name.
+
+1189
+01:09:23,206 --> 01:09:24,730
+Yeah, duh.
+
+1190
+01:09:24,774 --> 01:09:26,742
+You know?
+
+1191
+01:09:26,776 --> 01:09:29,768
+You kept telling everyone,
+''Please, call me Zach,''
+
+1192
+01:09:29,812 --> 01:09:32,007
+like not even you believed it.
+
+1193
+01:09:32,048 --> 01:09:33,879
+So who are you?
+
+1194
+01:09:34,951 --> 01:09:36,919
+My real name is Daniel.
+
+1195
+01:09:38,654 --> 01:09:40,019
+Like me?
+
+1196
+01:09:40,957 --> 01:09:44,552
+Daniel Reyes Jr.
+
+1197
+01:09:46,696 --> 01:09:47,890
+<i>[vibration]</i>
+
+1198
+01:09:47,930 --> 01:09:49,557
+Come on, stop joking around.
+
+1199
+01:09:49,599 --> 01:09:51,692
+l went to Lockton High School.
+
+1200
+01:09:52,502 --> 01:09:56,529
+My mom had cancer twice.
+
+1201
+01:09:56,572 --> 01:09:59,040
+She died my junior year.
+
+1202
+01:09:59,075 --> 01:10:02,044
+My dad's a controlling
+son of a bitch.
+
+1203
+01:10:02,078 --> 01:10:05,047
+He cheated on my mom all
+through her last year of life.
+
+1204
+01:10:05,081 --> 01:10:07,675
+My dad fucked my drama teacher.
+
+1205
+01:10:07,717 --> 01:10:08,684
+My dad fucked--
+
+1206
+01:10:08,718 --> 01:10:10,652
+What the fuck, shut up!
+
+1207
+01:10:10,686 --> 01:10:12,119
+Who are you?
+
+1208
+01:10:13,589 --> 01:10:15,079
+Look at me...
+
+1209
+01:10:15,124 --> 01:10:16,955
+Who am l?
+
+1210
+01:10:22,131 --> 01:10:23,689
+Who are you?
+
+1211
+01:10:31,107 --> 01:10:33,541
+<i>[mouths word]</i>
+
+1212
+01:10:40,883 --> 01:10:42,714
+What just happened?
+
+1213
+01:10:45,621 --> 01:10:47,646
+Reality, l think.
+
+1214
+01:10:50,259 --> 01:10:53,092
+So what do we do now, huh?
+
+1215
+01:10:53,129 --> 01:10:56,030
+What happens when
+l go back to my life
+
+1216
+01:10:56,065 --> 01:10:58,863
+and you go back to
+the year 3000 or whatever?
+
+1217
+01:10:58,901 --> 01:11:01,961
+Does any of this actually count?
+
+1218
+01:11:02,004 --> 01:11:04,871
+l think it's a chance for you
+
+1219
+01:11:04,907 --> 01:11:07,842
+to not make
+the same mistakes that l did.
+
+1220
+01:11:07,877 --> 01:11:09,674
+Don't move in with Shane.
+
+1221
+01:11:10,179 --> 01:11:11,703
+How did you know about that?
+
+1222
+01:11:11,747 --> 01:11:14,011
+He's only gonna try and
+control you like Dad did.
+
+1223
+01:11:14,050 --> 01:11:15,608
+Worse, even.
+
+1224
+01:11:15,651 --> 01:11:18,245
+Look, l have
+nowhere else to go.
+
+1225
+01:11:18,287 --> 01:11:20,847
+You don't know how many
+times you're gonna sell
+
+1226
+01:11:20,890 --> 01:11:23,984
+little pieces of yourself
+to people like Shane.
+
+1227
+01:11:24,026 --> 01:11:25,891
+Your dreams aren't worth that.
+
+1228
+01:11:25,928 --> 01:11:28,658
+God, you never fucking stop,
+do you?
+
+1229
+01:11:30,666 --> 01:11:34,158
+Hey, look at me!
+Look at me, Danny.
+
+1230
+01:11:34,203 --> 01:11:36,137
+l make cheap-ass wedding videos.
+
+1231
+01:11:36,172 --> 01:11:38,868
+l go from shitty job
+to shittier job.
+
+1232
+01:11:38,908 --> 01:11:41,638
+l can't keep
+a stable relationship.
+
+1233
+01:11:41,677 --> 01:11:43,907
+l'm a seven who gets
+rejected by nines.
+
+1234
+01:11:43,946 --> 01:11:45,880
+l don't even know
+what that means, okay?
+
+1235
+01:11:45,915 --> 01:11:48,281
+lt's too late for me to
+save myself, but you...
+
+1236
+01:11:48,317 --> 01:11:50,308
+You can save me with your life.
+
+1237
+01:11:50,353 --> 01:11:52,787
+Jesus, look, l am not you!
+
+1238
+01:11:52,822 --> 01:11:53,982
+Please, just help me.
+
+1239
+01:11:54,023 --> 01:11:56,924
+You're a fucking quitter.
+l'm not!
+
+1240
+01:11:56,959 --> 01:11:58,927
+l'll do what it takes
+to get what l want!
+
+1241
+01:12:03,232 --> 01:12:06,895
+Hollywood is never
+gonna happen.
+
+1242
+01:12:06,936 --> 01:12:08,801
+Chris, the guy you gave up
+
+1243
+01:12:08,838 --> 01:12:11,363
+for the safety of being
+Emperor Shane's bitch,
+
+1244
+01:12:11,607 --> 01:12:13,165
+is gonna leave you in the dust
+
+1245
+01:12:13,209 --> 01:12:16,007
+and become Keystone's
+best-known film graduate.
+
+1246
+01:12:16,846 --> 01:12:19,178
+You've already
+driven Abbey away.
+
+1247
+01:12:19,215 --> 01:12:20,307
+Shut up.
+
+1248
+01:12:20,349 --> 01:12:22,078
+This is our chance.
+
+1249
+01:12:22,118 --> 01:12:24,177
+l don't know why it's happening.
+
+1250
+01:12:24,220 --> 01:12:26,313
+Maybe it's God.
+l don't know.
+
+1251
+01:12:26,355 --> 01:12:29,813
+But we have a chance
+to make our life better.
+
+1252
+01:12:29,859 --> 01:12:31,349
+You had your life...
+
+1253
+01:12:31,394 --> 01:12:33,794
+and it's gone.
+
+1254
+01:12:33,829 --> 01:12:37,663
+So any mistakes l make,
+they're gonna be mine.
+
+1255
+01:12:37,700 --> 01:12:38,860
+Mine!
+
+1256
+01:12:39,969 --> 01:12:44,065
+l know you cheated
+making <i>Judas Kiss</i>.
+
+1257
+01:12:51,247 --> 01:12:52,236
+<i>[grunts]</i>
+
+1258
+01:12:54,150 --> 01:12:57,017
+Look, you hate
+your life so much,
+
+1259
+01:12:57,053 --> 01:12:59,681
+then just kill yourself,
+you fucking <i>mus</i>.
+
+1260
+01:13:01,691 --> 01:13:02,988
+Leave mine alone.
+
+1261
+01:13:13,169 --> 01:13:15,364
+Dude, everyone's looking
+for you.
+
+1262
+01:13:15,404 --> 01:13:16,701
+lt's a fucking shit storm.
+
+1263
+01:13:20,176 --> 01:13:23,839
+l had to wait until l could
+confirm the allegation.
+
+1264
+01:13:23,879 --> 01:13:27,042
+The <i>Judas Kiss</i> screenplay
+was written before
+
+1265
+01:13:27,083 --> 01:13:30,382
+Mr. Reyes' matriculation
+at Keystone.
+
+1266
+01:13:30,419 --> 01:13:32,182
+<i>[gasps and murmurs]</i>
+
+1267
+01:13:35,291 --> 01:13:36,952
+<i>[groans]</i>
+
+1268
+01:13:37,893 --> 01:13:39,861
+Rough night?
+
+1269
+01:13:41,330 --> 01:13:43,025
+Rough life.
+
+1270
+01:13:44,800 --> 01:13:47,360
+l used to come
+up here myself
+
+1271
+01:13:47,403 --> 01:13:50,270
+when l was upset
+about something,
+
+1272
+01:13:50,306 --> 01:13:53,707
+which was often
+back in the day.
+
+1273
+01:13:53,743 --> 01:13:56,439
+Drama, drama, drama.
+
+1274
+01:14:01,784 --> 01:14:05,185
+Not that l'm ungrateful,
+
+1275
+01:14:05,221 --> 01:14:07,280
+but what are you doing here?
+
+1276
+01:14:07,323 --> 01:14:12,283
+Walking down memory lane,
+and l tripped over you.
+
+1277
+01:14:12,328 --> 01:14:13,761
+<i>[chuckles]</i>
+
+1278
+01:14:13,796 --> 01:14:16,356
+Looks like you tripped over
+someone yourself.
+
+1279
+01:14:17,800 --> 01:14:21,930
+Just a little disagreement
+with myself.
+
+1280
+01:14:21,971 --> 01:14:26,305
+l hope you knocked
+some sense into yourself.
+
+1281
+01:14:26,342 --> 01:14:28,242
+And then some.
+
+1282
+01:14:28,277 --> 01:14:30,245
+l'm a mean son of a bitch.
+
+1283
+01:14:33,115 --> 01:14:35,310
+Cigarette?
+
+1284
+01:14:35,351 --> 01:14:37,216
+l've decided to quit.
+
+1285
+01:14:37,253 --> 01:14:39,483
+Well, you're a better man
+than me.
+
+1286
+01:14:39,522 --> 01:14:42,491
+l've learned to take a punch
+better than you.
+
+1287
+01:14:52,268 --> 01:14:55,032
+l want to roll back
+this roller coaster
+
+1288
+01:14:55,070 --> 01:14:56,401
+that you've put me on.
+
+1289
+01:14:58,007 --> 01:15:00,976
+Roller coasters
+only go forward.
+
+1290
+01:15:02,978 --> 01:15:06,379
+You know, l've figured out
+who you are.
+
+1291
+01:15:06,415 --> 01:15:07,973
+''Welds.''
+
+1292
+01:15:08,017 --> 01:15:09,985
+That's just a typo, isn't it?
+
+1293
+01:15:10,553 --> 01:15:14,853
+Frigging university's
+too cheap to replace it.
+
+1294
+01:15:17,293 --> 01:15:19,193
+You still go by Zachary?
+
+1295
+01:15:20,262 --> 01:15:24,358
+No one could ever get used
+to calling me that.
+
+1296
+01:15:24,400 --> 01:15:26,368
+Yeah, tell me about it.
+
+1297
+01:15:29,004 --> 01:15:33,498
+Well, no offense, old man,
+but after tonight,
+
+1298
+01:15:33,542 --> 01:15:37,239
+l'm definitely not gonna
+let myself turn into you.
+
+1299
+01:15:47,189 --> 01:15:48,884
+l'm sorry, Mr. Reyes.
+
+1300
+01:15:48,924 --> 01:15:50,892
+We'll have to move on
+to the next film.
+
+1301
+01:15:50,926 --> 01:15:52,553
+<i>[audience murmuring]</i>
+
+1302
+01:15:52,595 --> 01:15:54,392
+Hold on, Mrs. Blossom.
+
+1303
+01:15:55,598 --> 01:15:57,259
+Ms. Lynn?
+
+1304
+01:15:57,299 --> 01:15:59,859
+l won't argue with your rules,
+
+1305
+01:15:59,902 --> 01:16:02,996
+but l've seen Danny's film.
+
+1306
+01:16:03,038 --> 01:16:05,233
+So what if it's
+no longer eligible?
+
+1307
+01:16:05,274 --> 01:16:07,139
+The film's already
+in the projector,
+
+1308
+01:16:07,176 --> 01:16:08,871
+and the audience is here.
+
+1309
+01:16:08,911 --> 01:16:10,310
+lt deserves to be seen.
+
+1310
+01:16:18,053 --> 01:16:19,918
+l agree.
+
+1311
+01:16:19,955 --> 01:16:21,582
+l do too.
+
+1312
+01:16:23,058 --> 01:16:24,491
+Me too.
+
+1313
+01:16:26,462 --> 01:16:28,453
+What's it gonna be, Mrs. B.?
+
+1314
+01:16:37,573 --> 01:16:39,541
+Roll the film.
+
+1315
+01:16:39,575 --> 01:16:43,272
+<i>[applause]</i>
+
+1316
+01:17:00,162 --> 01:17:02,392
+Hey, uh...
+
+1317
+01:17:02,431 --> 01:17:03,989
+l'm kinda freaking out.
+
+1318
+01:17:04,033 --> 01:17:06,661
+Mind if l just hang back here
+for a minute?
+
+1319
+01:17:06,902 --> 01:17:09,928
+Uh...Yeah, sure.
+
+1320
+01:17:31,660 --> 01:17:33,685
+Where the hell have you been?
+
+1321
+01:17:33,929 --> 01:17:35,419
+Why is <i>Judas Kiss</i> playing?
+
+1322
+01:17:46,408 --> 01:17:47,705
+With me.
+
+1323
+01:17:57,219 --> 01:17:58,516
+Where are you taking me?
+
+1324
+01:17:58,554 --> 01:18:00,112
+Just come on.
+
+1325
+01:18:03,125 --> 01:18:05,593
+Eat your dinner.
+
+1326
+01:18:05,627 --> 01:18:07,595
+l'm not hungry.
+
+1327
+01:18:09,498 --> 01:18:11,329
+You have to eat.
+
+1328
+01:18:11,367 --> 01:18:13,597
+- But l'm not hungry.
+- Eat!
+
+1329
+01:18:21,643 --> 01:18:25,010
+You had to let them show
+that piece of shit?
+
+1330
+01:18:25,047 --> 01:18:26,674
+You.
+
+1331
+01:18:26,715 --> 01:18:29,741
+<i>O</i>nly you could've
+told Mrs. Blossom.
+
+1332
+01:18:29,985 --> 01:18:31,350
+Get off me!
+
+1333
+01:18:31,387 --> 01:18:33,548
+l asked you.
+
+1334
+01:18:33,589 --> 01:18:35,557
+Don't l mean anything to you?
+
+1335
+01:18:39,328 --> 01:18:40,420
+<i>[bottle breaks]</i>
+
+1336
+01:18:46,268 --> 01:18:48,236
+You haven't meant
+anything to me
+
+1337
+01:18:48,270 --> 01:18:50,704
+since you let Mom die in pain.
+
+1338
+01:18:50,739 --> 01:18:52,764
+l'm not one of
+your super-villains
+
+1339
+01:18:53,008 --> 01:18:54,635
+in your comic books, son.
+
+1340
+01:18:54,676 --> 01:18:57,042
+l don't have
+that kind of power.
+
+1341
+01:18:57,079 --> 01:18:58,671
+You betrayed her.
+
+1342
+01:18:58,714 --> 01:19:02,241
+Your mom wasn't the only one
+in pain, Danny.
+
+1343
+01:19:02,284 --> 01:19:04,309
+Yeah, then what about me, Dad?
+
+1344
+01:19:04,353 --> 01:19:05,786
+Huh?
+
+1345
+01:19:06,021 --> 01:19:07,648
+l was there for you.
+
+1346
+01:19:07,689 --> 01:19:09,657
+l've been there for you forever.
+
+1347
+01:19:11,160 --> 01:19:13,594
+With you, always,
+
+1348
+01:19:13,629 --> 01:19:15,460
+since l was a kid.
+
+1349
+01:19:15,497 --> 01:19:17,431
+Back then was different,
+
+1350
+01:19:17,466 --> 01:19:19,127
+for you and me both.
+
+1351
+01:19:21,303 --> 01:19:23,794
+Your mom's first cancer...
+
+1352
+01:19:26,508 --> 01:19:28,806
+Whatever happened to
+
+1353
+01:19:29,044 --> 01:19:30,511
+''Everything l do,
+
+1354
+01:19:30,546 --> 01:19:33,140
+l do because l love you,
+Danny boy''?
+
+1355
+01:19:33,182 --> 01:19:34,274
+Huh?
+
+1356
+01:19:49,798 --> 01:19:51,095
+Daddy?
+
+1357
+01:19:51,133 --> 01:19:53,158
+Are you okay, Daddy?
+
+1358
+01:19:57,072 --> 01:19:58,505
+Daddy?
+
+1359
+01:20:02,544 --> 01:20:04,307
+Daddy! Wake up!
+
+1360
+01:20:04,346 --> 01:20:07,110
+You know, l lied for you...
+
+1361
+01:20:07,149 --> 01:20:09,640
+Told Mom you had to
+work late after school.
+
+1362
+01:20:11,220 --> 01:20:14,189
+l thought l was just keeping
+your secrets, like always.
+
+1363
+01:20:15,424 --> 01:20:18,655
+But you actually had a new one,
+didn't you?
+
+1364
+01:20:18,694 --> 01:20:20,525
+<i>O</i>ne you kept from me.
+
+1365
+01:20:23,632 --> 01:20:25,600
+Daddy, you're bleeding!
+
+1366
+01:20:28,303 --> 01:20:29,327
+No.
+
+1367
+01:20:29,371 --> 01:20:30,463
+No, no.
+
+1368
+01:20:30,506 --> 01:20:31,803
+No, Jude.
+
+1369
+01:20:31,840 --> 01:20:33,671
+<i>[grunting]</i>
+
+1370
+01:20:37,112 --> 01:20:39,171
+You'll help your old dad.
+
+1371
+01:20:40,649 --> 01:20:42,344
+Yes, Daddy.
+
+1372
+01:20:42,384 --> 01:20:43,749
+Whatever you say.
+
+1373
+01:20:44,286 --> 01:20:51,783
+And you know everything l do
+is because l love you, right?
+
+1374
+01:20:54,796 --> 01:20:56,354
+Yes, Daddy.
+
+1375
+01:21:00,536 --> 01:21:03,767
+Mom cried all the time,
+and you weren't there!
+
+1376
+01:21:03,805 --> 01:21:07,366
+But, you know, l was okay...
+
+1377
+01:21:07,409 --> 01:21:09,741
+'cause l thought that
+everything Dad did
+
+1378
+01:21:09,778 --> 01:21:14,511
+was because he loves me...
+wants me.
+
+1379
+01:21:25,360 --> 01:21:26,793
+l--
+
+1380
+01:21:26,828 --> 01:21:28,591
+l didn't want to lie to you.
+
+1381
+01:21:32,234 --> 01:21:34,828
+You don't have
+to speak to lie, Dad.
+
+1382
+01:21:36,505 --> 01:21:39,474
+We all have things
+we don't say.
+
+1383
+01:21:40,842 --> 01:21:43,310
+You're no different, Danny.
+
+1384
+01:21:43,345 --> 01:21:45,313
+l was nothing to you.
+
+1385
+01:21:46,648 --> 01:21:48,411
+You're overreacting.
+
+1386
+01:21:53,655 --> 01:21:58,217
+Then why don't you
+take me down, Daddy,
+
+1387
+01:21:58,260 --> 01:21:59,750
+just like always?
+
+1388
+01:22:02,664 --> 01:22:04,393
+l'm done with you!
+
+1389
+01:22:05,934 --> 01:22:08,698
+Do whatever you want...
+
+1390
+01:22:08,737 --> 01:22:10,637
+Away from me.
+
+1391
+01:22:21,283 --> 01:22:22,375
+Dad.
+
+1392
+01:22:25,854 --> 01:22:27,253
+Leave.
+
+1393
+01:22:43,905 --> 01:22:48,001
+<i>[boy crying]</i>
+
+1394
+01:22:52,848 --> 01:22:56,545
+<i>[applause]</i>
+
+1395
+01:23:08,563 --> 01:23:10,531
+What happened to you?
+
+1396
+01:23:11,800 --> 01:23:13,563
+Difference of opinion.
+
+1397
+01:23:15,671 --> 01:23:20,768
+This is certainly our most
+unorthodox screening.
+
+1398
+01:23:20,809 --> 01:23:24,506
+Though <i>Judas Kiss</i> is
+no longer eligible to win,
+
+1399
+01:23:24,546 --> 01:23:29,574
+l do want to recognize
+the efforts of its director.
+
+1400
+01:23:29,618 --> 01:23:34,578
+Ladies and gentlemen,
+Daniel Reyes Jr.
+
+1401
+01:23:34,623 --> 01:23:37,456
+<i>[applause]</i>
+
+1402
+01:23:56,378 --> 01:24:01,441
+Thank you for
+watching my film.
+
+1403
+01:24:01,483 --> 01:24:04,850
+l know what l did
+was wrong, but...
+
+1404
+01:24:09,091 --> 01:24:12,583
+l guess l just wanted
+everyone to know.
+
+1405
+01:24:12,627 --> 01:24:14,652
+<i>[applause]</i>
+
+1406
+01:24:16,832 --> 01:24:18,356
+Thanks.
+
+1407
+01:24:25,440 --> 01:24:28,568
+Now, let's proceed
+to tonight's awards.
+
+1408
+01:24:35,917 --> 01:24:38,818
+So this was all about you?
+
+1409
+01:24:56,138 --> 01:24:58,572
+C.W., little missy.
+
+1410
+01:24:58,940 --> 01:25:01,135
+Well, you managed
+to pull it off, Danny.
+
+1411
+01:25:01,376 --> 01:25:02,775
+You lose and you still win.
+
+1412
+01:25:03,945 --> 01:25:04,912
+Thanks.
+
+1413
+01:25:04,946 --> 01:25:07,471
+Well, you could've thought
+to thank your producer.
+
+1414
+01:25:07,516 --> 01:25:08,983
+You weren't gonna
+say anything.
+
+1415
+01:25:09,017 --> 01:25:10,917
+l'm sorry,
+l just couldn't help it.
+
+1416
+01:25:10,952 --> 01:25:11,919
+Jeez, Abs, l'm sor--
+
+1417
+01:25:11,953 --> 01:25:12,851
+Whatevs.
+
+1418
+01:25:12,888 --> 01:25:14,947
+You two enjoy
+your victory celebration.
+
+1419
+01:25:16,525 --> 01:25:19,119
+Well, um, why don't
+you two join us?
+
+1420
+01:25:19,161 --> 01:25:20,788
+He owns you now.
+
+1421
+01:25:20,829 --> 01:25:22,592
+Don't drag us into it.
+
+1422
+01:25:22,631 --> 01:25:25,623
+Hey, come along with us, C.W.
+
+1423
+01:25:28,537 --> 01:25:30,027
+Don't let him fuck up.
+
+1424
+01:25:31,973 --> 01:25:33,497
+Don't fuck up.
+
+1425
+01:25:35,043 --> 01:25:36,476
+Let's go, come on.
+
+1426
+01:25:59,134 --> 01:26:02,001
+You know, you're not
+supposed to be smokin' in here.
+
+1427
+01:26:04,206 --> 01:26:05,696
+Mmm.
+
+1428
+01:26:05,740 --> 01:26:09,107
+Well, l've been
+thinking about quitting.
+
+1429
+01:26:10,745 --> 01:26:13,441
+Maybe you're not such
+a <i>mus</i> after all.
+
+1430
+01:26:14,583 --> 01:26:16,016
+l don't know.
+
+1431
+01:26:16,051 --> 01:26:18,485
+l don't think l can
+take a punch.
+
+1432
+01:26:21,223 --> 01:26:25,660
+You remember,
+before Mom's first cancer,
+
+1433
+01:26:25,694 --> 01:26:27,719
+back when Dad was happy?
+
+1434
+01:26:28,763 --> 01:26:31,527
+We used to go
+camping all the time.
+
+1435
+01:26:36,037 --> 01:26:40,872
+l used to think l could just
+reach up and touch that moon.
+
+1436
+01:26:40,909 --> 01:26:42,809
+<i>[owl hoots]</i>
+
+1437
+01:26:47,249 --> 01:26:49,945
+We don't get along too well,
+do we?
+
+1438
+01:26:50,719 --> 01:26:52,050
+No.
+
+1439
+01:26:54,489 --> 01:26:55,854
+l'm scared.
+
+1440
+01:27:00,996 --> 01:27:04,864
+You know, l'm coming around
+to the notion that
+
+1441
+01:27:04,900 --> 01:27:08,131
+roller coasters might
+be able to run in reverse.
+
+1442
+01:27:08,169 --> 01:27:10,763
+What the hell
+are you talking about?
+
+1443
+01:27:10,805 --> 01:27:14,036
+l mean that we can move in
+whatever direction we want--
+
+1444
+01:27:14,075 --> 01:27:17,772
+change things, patch things
+that we fucked up,
+
+1445
+01:27:17,812 --> 01:27:20,781
+maybe even afford the luxury
+of a dream or two.
+
+1446
+01:27:22,083 --> 01:27:24,950
+Are you ever gonna
+make sense, dude?
+
+1447
+01:27:25,687 --> 01:27:27,655
+<i>O</i>ne day...dude.
+
+1448
+01:27:32,827 --> 01:27:36,160
+l certainly hope that wasn't
+a Judas Kiss.
+
+1449
+01:27:36,197 --> 01:27:39,928
+You and l have had
+one too many betrayals.
+
+1450
+01:27:51,212 --> 01:27:53,942
+You know, l'm never gonna
+forget you.
+
+1451
+01:27:54,583 --> 01:27:55,811
+Yes, you will.
+
+1452
+01:27:58,086 --> 01:28:02,648
+So, time dude.
+
+1453
+01:28:02,691 --> 01:28:04,659
+Do we ever fall in love?
+
+1454
+01:28:06,127 --> 01:28:10,029
+l think you know enough
+about the future already.
+
+1455
+01:28:10,699 --> 01:28:12,564
+Come on.
+
+1456
+01:28:12,601 --> 01:28:14,159
+Just give me a hint.
+
+1457
+01:28:15,136 --> 01:28:17,229
+He's...
+
+1458
+01:28:17,272 --> 01:28:19,570
+lnto bloody films.
+
+1459
+01:28:23,144 --> 01:28:26,079
+Bloody films
+and Bolex cameras?
+
+1460
+01:28:27,616 --> 01:28:29,675
+So, what?
+
+1461
+01:28:29,718 --> 01:28:31,982
+We live happily ever after?
+
+1462
+01:28:33,722 --> 01:28:34,689
+No.
+
+1463
+01:28:36,625 --> 01:28:37,717
+No?
+
+1464
+01:28:38,860 --> 01:28:41,351
+You won't be able
+to get rid of him,
+
+1465
+01:28:41,596 --> 01:28:44,793
+and you'll spend
+the next 1 5 years
+
+1466
+01:28:44,833 --> 01:28:47,358
+waiting for him
+to return your phone calls.
+
+1467
+01:28:52,841 --> 01:28:56,937
+Now... Get outta here.
+
+1468
+01:29:12,394 --> 01:29:14,362
+Key to the future.
+
+1469
+01:29:14,396 --> 01:29:23,395
+<i>[Brian Lam's Crash]</i>
+♪ ♪
+
+1470
+01:29:23,638 --> 01:29:25,003
+♪ <i>Lost and in between</i> ♪
+
+1471
+01:29:25,040 --> 01:29:26,974
+♪ <i>The way you thought it was</i> ♪
+
+1472
+01:29:27,008 --> 01:29:28,134
+♪ <i>And thought it seemed</i> ♪
+
+1473
+01:29:28,176 --> 01:29:33,136
+♪ <i>And everyone has changed</i> ♪
+
+1474
+01:29:33,181 --> 01:29:34,705
+Bitch.
+
+1475
+01:29:38,153 --> 01:29:40,417
+Christopher Wachowsky...
+
+1476
+01:29:40,655 --> 01:29:42,384
+How was Spain?
+
+1477
+01:29:42,424 --> 01:29:44,153
+Bloody crazy, dude.
+
+1478
+01:29:44,192 --> 01:29:46,422
+Between that
+and all the time zones,
+
+1479
+01:29:46,661 --> 01:29:48,128
+l couldn't return your calls.
+
+1480
+01:29:48,163 --> 01:29:49,152
+l'm so sorry.
+
+1481
+01:29:49,197 --> 01:29:50,425
+l ain't mad at you.
+
+1482
+01:29:50,665 --> 01:29:52,292
+How could you be?
+
+1483
+01:29:52,333 --> 01:29:54,392
+You love me, Danny.
+
+1484
+01:29:54,436 --> 01:29:56,131
+<i>O</i>nly a little.
+
+1485
+01:30:01,910 --> 01:30:04,777
+So explain your
+weird-ass messages,
+
+1486
+01:30:04,813 --> 01:30:06,337
+because l had nothing
+to do with you
+
+1487
+01:30:06,381 --> 01:30:08,872
+sleeping with yourself
+as a kid.
+
+1488
+01:30:09,851 --> 01:30:14,015
+Let's just say
+l was recently inspired.
+
+1489
+01:30:14,055 --> 01:30:17,422
+We need to try
+something unexpected.
+
+1490
+01:30:17,459 --> 01:30:20,360
+♪ <i>Listen now</i>
+<i>Listen now</i> ♪
+
+1491
+01:30:20,395 --> 01:30:22,056
+♪ <i>lf you want another chance</i> ♪
+
+1492
+01:30:22,097 --> 01:30:24,156
+♪ <i>You'll take it now</i> ♪
+
+1493
+01:30:24,199 --> 01:30:27,430
+♪ <i>Oh, oh</i> ♪
+
+1494
+01:30:27,469 --> 01:30:30,063
+♪ <i>When you crash</i> ♪
+
+1495
+01:30:30,105 --> 01:30:31,197
+♪ <i>Crash, crash</i> ♪
+
+1496
+01:30:31,239 --> 01:30:32,797
+♪ <i>lf it goes down tonight</i> ♪
+
+1497
+01:30:32,841 --> 01:30:34,308
+♪ <i>lt's the messes</i> ♪
+
+1498
+01:30:34,342 --> 01:30:35,900
+♪ <i>That you make</i> ♪
+
+1499
+01:30:35,944 --> 01:30:36,808
+♪ <i>The hearts</i> ♪
+
+1500
+01:30:36,845 --> 01:30:38,335
+♪ <i>That you will break</i> ♪
+
+1501
+01:30:38,379 --> 01:30:40,040
+♪ <i>When you crash</i> ♪
+
+1502
+01:30:40,081 --> 01:30:43,050
+♪ <i>Crash, crash</i> ♪
+
+1503
+01:30:43,084 --> 01:30:46,076
+♪ <i>Oh, don't go another day</i> ♪
+
+1504
+01:30:46,121 --> 01:30:48,089
+♪ <i>lt's time to walk away</i> ♪
+
+1505
+01:30:48,123 --> 01:30:50,182
+♪ <i>When you crash</i> ♪
+
+1506
+01:30:50,225 --> 01:30:53,217
+♪ <i>Crash, crash</i> ♪
+
+1507
+01:30:53,261 --> 01:30:55,092
+♪ <i>Oh, you'll crash</i> ♪
+
+1508
+01:30:55,130 --> 01:30:59,066
+♪ <i>Crash, crash</i> ♪
+
+1509
+01:30:59,100 --> 01:31:00,465
+♪ <i>One step forward</i> ♪
+
+1510
+01:31:00,502 --> 01:31:01,491
+♪ <i>Three steps back</i> ♪
+
+1511
+01:31:01,736 --> 01:31:02,964
+♪ <i>The rain is comin'</i> ♪
+
+1512
+01:31:03,004 --> 01:31:04,232
+♪ <i>Fallin' fast</i> ♪
+
+1513
+01:31:04,272 --> 01:31:06,433
+♪ <i>Don't give in to misery</i> ♪
+
+1514
+01:31:06,474 --> 01:31:07,839
+♪ <i>When happiness</i> ♪
+
+1515
+01:31:07,876 --> 01:31:09,309
+♪ <i>Can set you free</i> ♪
+
+1516
+01:31:09,344 --> 01:31:10,504
+♪ <i>One step forward</i> ♪
+
+1517
+01:31:10,745 --> 01:31:11,905
+♪ <i>Three steps back</i> ♪
+
+1518
+01:31:11,946 --> 01:31:13,174
+♪ <i>The rain is comin'</i> ♪
+
+1519
+01:31:13,214 --> 01:31:14,374
+♪ <i>Fallin' fast</i> ♪
+
+1520
+01:31:14,415 --> 01:31:16,975
+♪ <i>Don't give in to misery</i> ♪
+
+1521
+01:31:17,018 --> 01:31:18,042
+♪ <i>When happiness</i> ♪
+
+1522
+01:31:18,086 --> 01:31:21,522
+♪ <i>Can set you free</i> ♪
+
+1523
+01:31:21,756 --> 01:31:29,788
+♪ ♪
+
+1524
+01:31:34,402 --> 01:31:36,996
+You manipulative
+son of a bitch!
+
+1525
+01:31:37,038 --> 01:31:39,006
+You were behind all of this.
+
+1526
+01:31:39,040 --> 01:31:40,405
+<i>[Brian Lam's lf l Fall]</i>
+
+1527
+01:31:40,441 --> 01:31:48,405
+♪ ♪
+
+1528
+01:31:52,854 --> 01:31:56,017
+♪ <i>A thousand ways</i>
+<i>A thousand words</i> ♪
+
+1529
+01:31:56,057 --> 01:31:59,493
+♪ <i>Still nothin' to say</i> ♪
+
+1530
+01:31:59,527 --> 01:32:02,496
+♪ <i>A thousand ways</i>
+<i>A thousand words</i> ♪
+
+1531
+01:32:02,530 --> 01:32:06,022
+♪ <i>Still nothin' to say</i> ♪
+
+1532
+01:32:06,067 --> 01:32:07,967
+♪ <i>With every day</i> ♪
+
+1533
+01:32:08,002 --> 01:32:09,560
+♪ <i>And every night</i> ♪
+
+1534
+01:32:09,804 --> 01:32:11,101
+♪ <i>Shadows shift</i> ♪
+
+1535
+01:32:11,139 --> 01:32:12,902
+♪ <i>They take flight</i> ♪
+
+1536
+01:32:12,941 --> 01:32:14,169
+♪ <i>With every day</i> ♪
+
+1537
+01:32:14,209 --> 01:32:16,177
+♪ <i>And every night</i> ♪
+
+1538
+01:32:16,211 --> 01:32:18,577
+♪ <i>Shadows shift</i> ♪
+
+1539
+01:32:18,813 --> 01:32:25,446
+♪ <i>lf l fall</i>
+<i>lf l fall</i> ♪
+
+1540
+01:32:25,486 --> 01:32:32,324
+♪ <i>lf l fall again</i> ♪
+
+1541
+01:32:32,360 --> 01:32:35,523
+♪ <i>Will you be</i> ♪
+
+1542
+01:32:35,563 --> 01:32:38,589
+♪ <i>Here with me</i> ♪
+
+1543
+01:32:38,833 --> 01:32:44,328
+♪ <i>lf l fall again?</i> ♪
+
+1544
+01:32:44,372 --> 01:32:49,400
+♪ ♪
+
+1545
+01:32:49,444 --> 01:32:51,139
+♪ <i>Many times</i> ♪
+
+1546
+01:32:51,179 --> 01:32:52,407
+♪ <i>l've tried so hard</i> ♪
+
+1547
+01:32:52,447 --> 01:32:56,213
+♪ <i>But it's never enough</i> ♪
+
+1548
+01:32:56,251 --> 01:32:57,548
+♪ <i>Many times</i> ♪
+
+1549
+01:32:57,585 --> 01:32:59,280
+♪ <i>l've tried so hard</i> ♪
+
+1550
+01:32:59,320 --> 01:33:02,551
+♪ <i>But it's never enough</i> ♪
+
+1551
+01:33:02,590 --> 01:33:04,285
+♪ <i>A siren blares</i> ♪
+
+1552
+01:33:04,325 --> 01:33:06,418
+♪ <i>But no one cares</i> ♪
+
+1553
+01:33:06,461 --> 01:33:07,553
+♪ <i>They just look</i> ♪
+
+1554
+01:33:07,595 --> 01:33:09,495
+♪ <i>They just stare</i> ♪
+
+1555
+01:33:09,530 --> 01:33:11,020
+♪ <i>A siren blares</i> ♪
+
+1556
+01:33:11,065 --> 01:33:12,623
+♪ <i>And no one cares</i> ♪
+
+1557
+01:33:12,867 --> 01:33:15,301
+♪ <i>They just look</i> ♪
+
+1558
+01:33:15,336 --> 01:33:22,105
+♪ <i>lf l fall</i>
+<i>lf l fall</i> ♪
+
+1559
+01:33:22,143 --> 01:33:28,639
+♪ <i>lf l fall again</i> ♪
+
+1560
+01:33:28,883 --> 01:33:32,250
+♪ <i>Will you be</i> ♪
+
+1561
+01:33:32,287 --> 01:33:35,381
+♪ <i>Here with me</i> ♪
+
+1562
+01:33:35,423 --> 01:33:41,658
+♪ <i>lf l fall again?</i> ♪
+
+1563
+01:33:41,896 --> 01:33:43,193
+♪ <i>Bruises and scars</i> ♪
+
+1564
+01:33:43,231 --> 01:33:45,131
+♪ <i>They go so far</i> ♪
+
+1565
+01:33:45,166 --> 01:33:48,658
+♪ <i>But l want to know</i> ♪
+
+1566
+01:33:48,903 --> 01:33:49,995
+♪ <i>Bruises and scars</i> ♪
+
+1567
+01:33:50,038 --> 01:33:51,665
+♪ <i>They go so far</i> ♪
+
+1568
+01:33:51,906 --> 01:33:55,535
+♪ <i>But l want to know</i> ♪
+
+1569
+01:33:55,576 --> 01:34:02,209
+♪ <i>lf l fall</i>
+<i>lf l fall</i> ♪
+
+1570
+01:34:02,250 --> 01:34:08,678
+♪ <i>lf l fall again</i> ♪
+
+1571
+01:34:08,923 --> 01:34:12,154
+♪ <i>Will you be</i> ♪
+
+1572
+01:34:12,193 --> 01:34:15,492
+♪ <i>Here with me</i> ♪
+
+1573
+01:34:15,530 --> 01:34:22,231
+♪ <i>lf l fall again?</i> ♪
+
+1574
+01:34:22,270 --> 01:34:29,506
+♪ <i>lf l fall again?</i> ♪
+
+1575
+01:34:29,544 --> 01:34:32,377
+♪ <i>A thousand ways</i>
+<i>A thousand words</i> ♪
+
+1576
+01:34:32,413 --> 01:34:35,644
+♪ <i>Still nothin' to say</i> ♪
+
+1577
+01:34:35,683 --> 01:34:39,710
+♪ <i>A thousand ways</i>
+<i>A thousand words</i> ♪
+
+1578
+01:34:39,954 --> 01:34:44,084
+♪ <i>Still nothin'</i> ♪
+
+1579
+01:34:44,125 --> 01:34:45,183
+To say.

@@ -1,0 +1,249 @@
+1
+00:00:49,713 --> 00:00:51,523
+<font color="#0080ff">Cast:
+Shaun</font>
+
+2
+00:00:57,764 --> 00:00:59,583
+<font color="#0080ff">Bitzer</font>
+
+3
+00:01:19,258 --> 00:01:20,873
+<font color="#0080ff"> The Farmer</font>
+
+4
+00:01:55,680 --> 00:02:00,840
+<font color="#ff0080">Shaun The Sheep - The Movie </font>
+
+5
+00:02:23,900 --> 00:02:24,741
+<font color="#0080ff">Monday</font>
+
+6
+00:02:47,360 --> 00:02:51,040
+<font color="#0080ff">Schedule</font>
+
+7
+00:03:05,939 --> 00:03:06,617
+<font color="#0080ff">Tuesday</font>
+
+8
+00:03:25,058 --> 00:03:26,084
+<font color="#0080ff">Wednesday</font>
+
+9
+00:03:41,118 --> 00:03:41,704
+<font color="#0080ff">Thursday</font>
+
+10
+00:05:14,880 --> 00:05:17,640
+<font color="#0080ff">Take A Day Off</font>
+
+11
+00:05:19,280 --> 00:05:22,560
+<font color="#0080ff">Take A Day Off</font>
+
+12
+00:10:05,760 --> 00:10:07,720
+<font color="#0080ff">Fodder
+The Modern Way Of Farming</font>
+
+13
+00:10:07,800 --> 00:10:09,480
+<font color="#0080ff">Return Of Curly The Kid</font>
+
+14
+00:11:36,320 --> 00:11:37,960
+<font color="#0080ff">The Big City</font>
+
+15
+00:12:35,894 --> 00:12:36,932
+<font color="#0080ff">To The Moon And Back</font>
+
+16
+00:13:08,000 --> 00:13:09,800
+<font color="#0080ff">Close The Gate</font>
+
+17
+00:13:44,760 --> 00:13:48,160
+<font color="#0080ff">Buy Fresh</font>
+
+18
+00:17:48,129 --> 00:17:53,129
+<font color="#0080ff">Diagnosis:
+Amnesia</font>
+
+19
+00:18:32,649 --> 00:18:35,889
+<font color="#0080ff">Get Moving</font>
+
+20
+00:18:37,649 --> 00:18:39,489
+<font color="#0080ff">Get Moving</font>
+
+21
+00:18:58,289 --> 00:19:00,969
+<font color="#0080ff">Mossy Bottom Farm
+The Big City</font>
+
+22
+00:19:40,169 --> 00:19:42,729
+<font color="#0080ff">Missing</font>
+
+23
+00:20:12,929 --> 00:20:16,809
+<font color="#0080ff">To The Center</font>
+
+24
+00:21:26,369 --> 00:21:27,609
+<font color="#0080ff">Contained</font>
+
+25
+00:21:27,689 --> 00:21:30,369
+<font color="#0080ff">Animal Warden</font>
+
+26
+00:22:35,849 --> 00:22:38,169
+<font color="#0080ff">The Animal Welfare Society</font>
+
+27
+00:23:00,929 --> 00:23:03,509
+<font color="#0080ff">Take The Bus To The Coutryside</font>
+
+28
+00:23:42,809 --> 00:23:44,649
+<font color="#0080ff">A. Trumper</font>
+
+29
+00:24:50,849 --> 00:24:53,569
+<font color="#0080ff">Missing</font>
+
+30
+00:27:37,742 --> 00:27:39,131
+<font color="#0080ff">Amnesia</font>
+
+31
+00:28:09,329 --> 00:28:10,849
+<font color="#0080ff">Lost Property Office</font>
+
+32
+00:28:10,929 --> 00:28:13,209
+<font color="#0080ff">Missing</font>
+
+33
+00:29:50,849 --> 00:29:52,809
+<font color="#0080ff">Delicates</font>
+
+34
+00:30:24,369 --> 00:30:30,009
+<font color="#0080ff">The Burnt Cabbage</font>
+
+35
+00:34:55,392 --> 00:34:56,792
+<font color="#0080ff">Contained</font>
+
+36
+00:35:22,771 --> 00:35:24,636
+<font color="#0080ff">A. Trumper</font>
+
+37
+00:38:29,552 --> 00:38:32,712
+<font color="#0080ff">Animal Warden</font>
+
+38
+00:39:55,496 --> 00:39:56,579
+<font color="#0080ff">Contained</font>
+
+39
+00:40:55,832 --> 00:40:58,112
+<font color="#0080ff">Adopt A Stray Animal</font>
+
+40
+00:42:47,752 --> 00:42:48,592
+<font color="#0080ff">Send</font>
+
+41
+00:42:52,232 --> 00:42:53,112
+<font color="#0080ff">Share</font>
+
+42
+00:42:57,512 --> 00:42:59,912
+<font color="#0080ff">This Hairstyle Is The
+Talk Of The Town</font>
+
+43
+00:43:40,512 --> 00:43:44,192
+<font color="#0080ff">Here He Is - Mr X</font>
+
+44
+00:44:51,158 --> 00:44:52,188
+<font color="#0080ff">A. Trumper</font>
+
+45
+00:48:06,352 --> 00:48:11,192
+<font color="#0080ff">Here He Is - Mr X</font>
+
+46
+00:52:34,949 --> 00:52:36,015
+<font color="#0080ff">Contained</font>
+
+47
+00:52:54,393 --> 00:52:55,765
+<font color="#0080ff">High Voltage</font>
+
+48
+00:55:55,392 --> 00:55:57,232
+<font color="#0080ff">Amnesia</font>
+
+49
+00:56:40,192 --> 00:56:44,392
+<font color="#0080ff">Amnesia</font>
+
+50
+00:57:15,832 --> 00:57:21,632
+<font color="#0080ff">Home</font>
+
+51
+01:01:23,032 --> 01:01:25,672
+<font color="#0080ff">You Are Here</font>
+
+52
+01:01:27,352 --> 01:01:30,072
+<font color="#0080ff">Mossy Bottom Road</font>
+
+53
+01:04:26,938 --> 01:04:28,684
+<font color="#0080ff">To The Center</font>
+
+54
+01:07:28,419 --> 01:07:30,099
+<font color="#0080ff">Stone Quarry</font>
+
+55
+01:13:27,499 --> 01:13:29,619
+<font color="#0080ff">Schedule</font>
+
+56
+01:13:58,859 --> 01:14:01,339
+<font color="#0080ff">Animal Shelter</font>
+
+57
+01:14:04,579 --> 01:14:07,179
+<font color="#0080ff">Animal Protection</font>
+
+58
+01:14:54,459 --> 01:15:02,139
+<font color="#0080ff">The End</font>
+
+59
+01:20:53,699 --> 01:20:57,739
+<font color="#0080ff">The End</font>
+
+60
+01:21:06,099 --> 01:21:09,939
+<font color="#0080ff">Go Home</font>
+
+61
+01:21:10,099 --> 01:21:30,939
+<font color="#ff0080">Sam_USA_htc@yahoo.com </font>
+

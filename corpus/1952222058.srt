@@ -1,0 +1,4316 @@
+1
+00:00:11,478 --> 00:00:13,776
+<i>[Man]</i>
+<i># Well, I'm packin' my grip #</i>
+
+2
+00:00:13,880 --> 00:00:16,280
+<i># Think I'll take a trip #</i>
+
+3
+00:00:16,383 --> 00:00:18,578
+<i># Think I'll leave today #</i>
+
+4
+00:00:18,685 --> 00:00:20,710
+<i># No, I'd better stay #</i>
+
+5
+00:00:20,820 --> 00:00:24,256
+<i># Well, oh, well, oh, well</i>
+<i>oh, well, oh, well, oh, well #</i>
+
+6
+00:00:24,357 --> 00:00:26,450
+<i>[Man On Radio] All of you listening</i>
+<i>to me out there realizes that...</i>
+
+7
+00:00:26,559 --> 00:00:29,528
+<i>Communism is the avowed enemy</i>
+<i>of the free world.</i>
+
+8
+00:00:29,629 --> 00:00:32,154
+- [Explosion]
+- <i># #[Continues]</i>
+
+9
+00:00:32,265 --> 00:00:35,792
+<i>Today, fourth June, 1953,</i>
+<i>at the Nevada test site...</i>
+
+10
+00:00:35,902 --> 00:00:38,803
+<i>a thermonuclear device was...</i>
+
+11
+00:00:38,905 --> 00:00:42,397
+<i># Well, oh, well, oh, well</i>
+<i>oh, well, oh, well, oh, well #</i>
+
+12
+00:00:42,509 --> 00:00:45,842
+<i># Oh, well, oh, well, oh, well</i>
+<i>Goin' to stay right here #</i>
+
+13
+00:00:45,945 --> 00:00:47,845
+<i>[Man #2 On Radio]</i>
+<i>A solid marriage is one of the most...</i>
+
+14
+00:00:47,947 --> 00:00:50,507
+<i>wonderful things in the world.</i>
+
+15
+00:00:50,617 --> 00:00:53,450
+<i># My gal won't wait for me ##</i>
+
+16
+00:00:53,553 --> 00:00:55,919
+<i>[Chorus Singing Jingle]</i>
+<i># Drink Bubble Up, Bubble Up #</i>
+
+17
+00:00:56,022 --> 00:00:58,616
+<i># Kiss of lemon</i>
+<i>Kiss of lime ##</i>
+
+18
+00:00:58,725 --> 00:01:01,353
+<i>[Man #3 On Radio] And now, my friends,</i>
+<i>a new hit record among my souvenirs...</i>
+
+19
+00:01:01,461 --> 00:01:05,693
+<i>backed with "God Bless America"</i>
+<i>by Connie Francis.</i>
+
+20
+00:01:05,799 --> 00:01:09,098
+<i># White Rain</i>
+<i>White Rain shampoo tonight #</i>
+
+21
+00:01:09,202 --> 00:01:12,638
+<i># Tomorrow, your hair</i>
+<i>sunshine bright ##</i>
+
+22
+00:01:12,739 --> 00:01:17,608
+- [Static]
+- <i>[Woman]</i>
+<i># A new love for you ##</i>
+
+23
+00:01:17,710 --> 00:01:21,009
+<i>[Girl]</i>
+<i># I can save you money, here's a tip #</i>
+
+24
+00:01:21,114 --> 00:01:25,744
+<i># So many ways to use me and free ##</i>
+<i>[Giggles]</i>
+
+25
+00:01:25,852 --> 00:01:28,480
+<i>[Woman]</i>
+<i># From kids to dad and mother #</i>
+
+26
+00:01:28,588 --> 00:01:31,284
+<i># The family all approved #</i>
+
+27
+00:01:31,391 --> 00:01:33,621
+<i>[Man]</i>
+<i># To dad's delight the price is right #</i>
+
+28
+00:01:33,726 --> 00:01:36,661
+<i># For the newest Easter shoes ##</i>
+
+29
+00:01:36,763 --> 00:01:39,891
+<i>[Chorus]</i>
+<i># Refinery fresh to each station every day #</i>
+
+30
+00:01:39,999 --> 00:01:44,663
+<i># Higher octane for power</i>
+<i>the Oklahoma way with #</i>
+
+31
+00:01:44,771 --> 00:01:47,137
+<i># Oklahoma</i>
+<i>I said Oklahoma #</i>
+
+32
+00:01:47,240 --> 00:01:50,437
+<i># The best gasoline you can buy ##</i>
+
+33
+00:01:50,543 --> 00:01:53,808
+<i>[Woman]</i>
+<i># It's time to wake up, it's time to go #</i>
+
+34
+00:01:53,913 --> 00:01:57,576
+<i># It's time to get rolling</i>
+<i>It's time for the show #</i>
+
+35
+00:01:57,684 --> 00:01:59,584
+<i>[Man]</i>
+<i># Keep your eye up high #</i>
+
+36
+00:01:59,686 --> 00:02:02,280
+<i>[Woman]</i>
+<i># Keep your ear to the ground #</i>
+
+37
+00:02:02,388 --> 00:02:05,915
+- ## [Continues]
+- <i>[Man] Hey, kid.</i>
+
+38
+00:02:06,025 --> 00:02:09,756
+<i>Don't touch the car, will ya?</i>
+
+39
+00:02:09,863 --> 00:02:12,263
+<i>[Boy Narrating] If I'd walked out</i>
+<i>of the showroom right then...</i>
+
+40
+00:02:12,365 --> 00:02:14,629
+<i>none of this would've happened.</i>
+
+41
+00:02:14,734 --> 00:02:17,100
+You should be in school. Scram.
+
+42
+00:02:17,203 --> 00:02:20,570
+<i>But I didn't leave,</i>
+<i>and nothing was the same after that.</i>
+
+43
+00:02:20,673 --> 00:02:22,607
+How much is this one?
+
+44
+00:02:22,709 --> 00:02:24,734
+This one?
+
+45
+00:02:24,844 --> 00:02:27,972
+About 50 more years on your paper route,
+sonny. That's how much.
+
+46
+00:02:28,081 --> 00:02:29,946
+And that works out to...
+
+47
+00:02:30,049 --> 00:02:33,450
+3,500. You happy?
+Now, beat it!
+
+48
+00:02:33,553 --> 00:02:37,353
+<i>I presume you'd consider</i>
+<i>lowering the price if I paid you in cash.</i>
+
+49
+00:02:37,457 --> 00:02:40,051
+<i>The money's legitimate, gentlemen.</i>
+
+50
+00:02:40,160 --> 00:02:42,856
+- You heard him. Keep out of this.
+- Oh, right.
+
+51
+00:02:42,962 --> 00:02:44,862
+Kid might've murdered his parents.
+
+52
+00:02:44,964 --> 00:02:47,831
+- But to Mickey, a sale's a sale.
+- Will you both shut up.
+
+53
+00:02:47,934 --> 00:02:49,834
+[Sighs]
+
+54
+00:02:49,936 --> 00:02:52,370
+You got five minutes to explain
+before I call the cops, kid.
+
+55
+00:02:55,408 --> 00:02:57,876
+My name is George Devereaux.
+I'm 15.
+
+56
+00:02:57,977 --> 00:03:00,810
+I live on the Upper West Side
+with my parents and my half brother.
+
+57
+00:03:00,980 --> 00:03:05,212
+<i>This afternoon, my mother returned home</i>
+<i>a day early from a trip to the shore.</i>
+
+58
+00:03:05,318 --> 00:03:09,379
+Mrs. Devereaux. We weren't
+expecting you until tomorrow.
+
+59
+00:03:09,489 --> 00:03:14,119
+A lady should never do
+what anyone expects of her, Henry.
+
+60
+00:03:14,227 --> 00:03:17,492
+<i>[George Narrating] My parents'</i>
+<i>marriage is not what you'd call seamless.</i>
+
+61
+00:03:17,597 --> 00:03:20,327
+[Elevator Bell Dings]
+
+62
+00:03:20,433 --> 00:03:22,401
+Holy shit.
+
+63
+00:03:22,502 --> 00:03:24,663
+Yep.
+
+64
+00:03:24,771 --> 00:03:27,001
+<i>[Narrating]</i>
+<i>My father's a band leader.</i>
+
+65
+00:03:27,106 --> 00:03:29,836
+<i>Normally, he's better dressed than this.</i>
+
+66
+00:03:29,943 --> 00:03:32,810
+<i>His stage name is Dan Devereaux.</i>
+<i>You might've heard of him.</i>
+
+67
+00:03:32,912 --> 00:03:36,473
+<i>Although his real name is Dan Hamilton.</i>
+<i>He's from Paris, Texas...</i>
+
+68
+00:03:36,583 --> 00:03:38,813
+- <i>not Paris, France.</i>
+- ## [Singing, Indistinct]
+
+69
+00:03:38,918 --> 00:03:41,409
+<i>He made a lot of money</i>
+<i>off a song he wrote called...</i>
+
+70
+00:03:41,521 --> 00:03:44,319
+# My one and only #
+
+71
+00:03:44,424 --> 00:03:47,587
+<i>The only thing louder</i>
+<i>than its arrangement is its irony.</i>
+
+72
+00:03:47,694 --> 00:03:50,094
+<i>My father is an artist...</i>
+
+73
+00:03:50,196 --> 00:03:53,063
+<i>with all the strengths</i>
+<i>and weaknesses that implies.</i>
+
+74
+00:03:53,166 --> 00:03:55,634
+- <i>[Knocking On Door]</i>
+- <i>[Man] Dan, two-minute call.</i>
+
+75
+00:03:55,735 --> 00:03:58,363
+- Comin'.
+- <i>As much as my father's life...</i>
+
+76
+00:03:58,471 --> 00:04:00,405
+relies upon improvisation...
+
+77
+00:04:00,506 --> 00:04:05,136
+my mother's life is guided
+by a large number of aphorisms.
+
+78
+00:04:05,245 --> 00:04:08,214
+Sayings.
+Like, for example...
+
+79
+00:04:08,314 --> 00:04:10,248
+<i>[Mrs. Devereaux]</i>
+<i>What you do while you're in a room...</i>
+
+80
+00:04:10,350 --> 00:04:12,409
+- You don't wanna go in there.
+- <i>is never as important as how</i>
+<i>you enter or leave it.</i>
+
+81
+00:04:12,518 --> 00:04:15,487
+- [Screams]
+- Please. Don't get up.
+
+82
+00:04:15,588 --> 00:04:19,319
+- This isn't what it looks like.
+- Really? Well, what does it look like, child?
+
+83
+00:04:19,425 --> 00:04:22,326
+- Danny!
+- Of course it's what it looks like, Sherry.
+
+84
+00:04:22,428 --> 00:04:25,158
+- My wife's not an idiot, for Christ's sake.
+- <i>Thank you, darling.</i>
+
+85
+00:04:25,265 --> 00:04:28,132
+That's the nicest thing
+you've said to me all year.
+
+86
+00:04:28,234 --> 00:04:30,634
+Here. Let me help you.
+
+87
+00:04:30,737 --> 00:04:33,262
+<i>You know, you really</i>
+<i>shouldn't wear this color.</i>
+
+88
+00:04:33,373 --> 00:04:35,705
+It makes you look like a tramp.
+
+89
+00:04:35,808 --> 00:04:38,743
+What am I saying?
+You are a tramp.
+
+90
+00:04:38,845 --> 00:04:42,337
+Hey. What are you doin'
+with that suitcase?
+
+91
+00:04:42,448 --> 00:04:45,144
+- I'm leaving you.
+- Oh, Christ, honey.
+
+92
+00:04:45,251 --> 00:04:48,379
+Come on. You know
+you're not gonna leave me.
+
+93
+00:04:48,488 --> 00:04:51,753
+Never contradict a woman
+while you're in your underwear.
+
+94
+00:04:51,858 --> 00:04:54,486
+It puts you at a great disadvantage.
+
+95
+00:04:54,594 --> 00:04:57,927
+I'm-I'm-I'm sorry. Baby, I am.
+You know I do these crazy things.
+
+96
+00:04:58,031 --> 00:05:01,091
+But they don't mean anything.
+No offense, Sherry. Sherry?
+
+97
+00:05:01,200 --> 00:05:04,431
+Oh, come on now, honey.
+Be realistic.
+
+98
+00:05:04,537 --> 00:05:07,529
+W-Where would you go?
+What would you do?
+
+99
+00:05:07,640 --> 00:05:12,009
+- Where's my passport?
+- Oh, hell. Go on then. Leave me.
+
+100
+00:05:12,111 --> 00:05:14,978
+I don't need you around here anyway. All
+you do is hold me back and spend my money.
+
+101
+00:05:15,081 --> 00:05:18,517
+- And everybody knows that.
+- What a relief for you then.
+
+102
+00:05:18,618 --> 00:05:20,916
+- Well, what about the boys?
+- <i>Boys?</i>
+
+103
+00:05:21,020 --> 00:05:25,548
+- Yeah. George, Robbie. The boys.
+You remember them?
+- Where are they?
+
+104
+00:05:25,658 --> 00:05:27,922
+- They're at school, Miss Devereaux.
+- Why?
+
+105
+00:05:28,027 --> 00:05:31,519
+- I'm going to take them with me.
+- And do what?
+
+106
+00:05:31,631 --> 00:05:33,531
+- Raise them.
+- You?
+
+107
+00:05:33,633 --> 00:05:36,500
+Well, you don't think I'm leaving them here
+with the likes of you, do you?
+
+108
+00:05:36,602 --> 00:05:39,070
+Give me a break.
+You're a lousy mother.
+
+109
+00:05:39,172 --> 00:05:40,901
+- I love my children.
+- So what?
+
+110
+00:05:41,007 --> 00:05:44,875
+I love my kids, and I'm shit for a father.
+
+111
+00:05:44,977 --> 00:05:46,535
+- Bernice?
+- <i>Yes, ma'am?</i>
+
+112
+00:05:46,646 --> 00:05:49,308
+Am I a lousy mother?
+
+113
+00:05:49,415 --> 00:05:52,043
+It's not my place to say, Miss Devereaux.
+
+114
+00:05:52,151 --> 00:05:54,051
+[Softly]
+But if you wanna know the God's honest...
+
+115
+00:05:54,153 --> 00:05:55,643
+- There.
+- Aw, shit.
+
+116
+00:05:55,755 --> 00:05:59,418
+Go on, then.
+Take the damn kids. What do I care?
+
+117
+00:06:01,227 --> 00:06:03,718
+<i>[Elevator Whirring]</i>
+
+118
+00:06:13,973 --> 00:06:16,874
+[Sighs]
+
+119
+00:06:19,779 --> 00:06:22,009
+<i>[Elevator Bell Dings]</i>
+
+120
+00:06:27,019 --> 00:06:29,647
+- <i>[Elevator Doors Close]</i>
+- <i>[Narrating] Ten minutes later...</i>
+
+121
+00:06:29,756 --> 00:06:32,953
+- <i>my mother took my brother and me out of school.</i>
+- Shit.
+
+122
+00:06:33,059 --> 00:06:36,790
+I'm sorry, Mrs. Devereaux, but your boys
+don't attend this school anymore.
+
+123
+00:06:36,896 --> 00:06:40,696
+Of course they don't.
+[Chuckles]
+
+124
+00:06:40,800 --> 00:06:43,860
+I'm sorry, Mr. Connors.
+I'm just very upset.
+
+125
+00:06:43,970 --> 00:06:45,767
+- <i>They go to...</i>
+- Radford.
+
+126
+00:06:45,872 --> 00:06:48,340
+Radford. Of course.
+
+127
+00:06:48,441 --> 00:06:50,602
+They go to Radford.
+
+128
+00:06:55,648 --> 00:06:57,707
+Where is Radford?
+
+129
+00:06:57,817 --> 00:07:01,378
+<i>[Narrating] My brother Robbie was playing</i>
+<i>Lady Macbeth in the Scottish play.</i>
+
+130
+00:07:01,487 --> 00:07:05,253
+It is so nice to see that
+there are still some gentlemen left.
+
+131
+00:07:05,358 --> 00:07:07,326
+Thank you.
+
+132
+00:07:08,428 --> 00:07:10,328
+<i>[Man]</i>
+<i>He was playing Lady Macbeth?</i>
+
+133
+00:07:10,430 --> 00:07:13,922
+In Shakespeare's time,
+all the women's roles were played by men.
+
+134
+00:07:14,033 --> 00:07:16,558
+Right. I knew that.
+
+135
+00:07:17,670 --> 00:07:20,798
+That's all the cash there is in here,
+Mrs. Devereaux.
+
+136
+00:07:20,907 --> 00:07:23,307
+- And all the jewelry.
+- Of course.
+
+137
+00:07:24,777 --> 00:07:26,677
+What's in that cloth there?
+
+138
+00:07:28,681 --> 00:07:31,241
+- Oh.
+- I'll take that too.
+
+139
+00:07:31,350 --> 00:07:33,648
+Will that be all, Mrs. Devereaux?
+
+140
+00:07:37,056 --> 00:07:39,820
+That will be all. Thank you.
+
+141
+00:07:43,963 --> 00:07:46,022
+George, darling.
+
+142
+00:07:46,132 --> 00:07:50,034
+I want you to take this money
+and go and buy us an automobile.
+
+143
+00:07:50,136 --> 00:07:52,468
+A car? Why? Where's Dad?
+
+144
+00:07:52,572 --> 00:07:55,507
+First things first.
+We need a car.
+
+145
+00:07:55,608 --> 00:07:58,406
+- Well, what kind of car?
+- What kind would you like?
+
+146
+00:07:58,511 --> 00:08:00,638
+- I don't want a car.
+- A Jaguar.
+
+147
+00:08:00,746 --> 00:08:03,044
+Admirable taste as always, darling.
+
+148
+00:08:03,149 --> 00:08:05,515
+But we need something more practical.
+
+149
+00:08:05,618 --> 00:08:09,520
+- A Chevy?
+- Perhaps not that practical.
+
+150
+00:08:09,622 --> 00:08:11,715
+So here I am,
+and that's the car I want.
+
+151
+00:08:11,824 --> 00:08:13,689
+It's not as easy as that, son.
+
+152
+00:08:13,793 --> 00:08:18,059
+- Is there a problem, George?
+- Have a seat, Mrs. Devereaux.
+
+153
+00:08:18,164 --> 00:08:20,724
+Well, thank you, Fred.
+
+154
+00:08:20,833 --> 00:08:23,324
+- May I call you Fred?
+- By all means.
+
+155
+00:08:23,436 --> 00:08:25,336
+Well, how much is the car we want?
+
+156
+00:08:25,438 --> 00:08:27,338
+It's, uh, 3,500, ma'am.
+
+157
+00:08:27,440 --> 00:08:31,137
+- Give it to the nice man, George.
+- That's not how you do it, Mom.
+
+158
+00:08:31,244 --> 00:08:34,042
+- That's not how you do what?
+- Your son means that...
+
+159
+00:08:34,146 --> 00:08:37,582
+you offer me less than that,
+and then we bargain.
+
+160
+00:08:37,683 --> 00:08:41,813
+All right. $1,000.
+
+161
+00:08:41,921 --> 00:08:44,913
+- [Chuckling]
+- This is so much fun.
+
+162
+00:08:45,024 --> 00:08:47,049
+What?
+
+163
+00:08:47,159 --> 00:08:49,821
+<i>It's a little low, Mom.</i>
+
+164
+00:08:49,929 --> 00:08:52,989
+- <i>Offer me, say, 2,500.</i>
+- All right, then.
+
+165
+00:08:53,099 --> 00:08:55,567
+2,500.
+
+166
+00:08:55,668 --> 00:08:58,569
+- No.
+- <i>What do you mean, no?</i>
+
+167
+00:08:58,671 --> 00:09:00,434
+You just said, "Offer me 2,500."
+
+168
+00:09:00,540 --> 00:09:05,568
+I can let you have it for 33, Mrs. Devereaux,
+but that's as low as I can go.
+
+169
+00:09:05,678 --> 00:09:07,612
+2,700.
+
+170
+00:09:07,713 --> 00:09:09,374
+3,275.
+
+171
+00:09:09,482 --> 00:09:14,784
+2,950, Fred, or we're out of here
+faster than a cat in a rainstorm.
+
+172
+00:09:14,887 --> 00:09:18,015
+- Huh?
+- <i>[George] What about Dad?</i>
+
+173
+00:09:18,124 --> 00:09:20,149
+What does he have to say about all this?
+
+174
+00:09:20,259 --> 00:09:24,696
+Your father has betrayed us,
+and I never wanna hear his name again.
+
+175
+00:09:24,797 --> 00:09:26,697
+What about marrying my father again?
+
+176
+00:09:26,799 --> 00:09:29,563
+Once was an adventure.
+Twice would be a perversion.
+
+177
+00:09:29,669 --> 00:09:33,105
+Look, you can't just take a kid
+away from his father like this.
+
+178
+00:09:33,205 --> 00:09:35,799
+Ask any psychiatrist.
+A boy needs his father's influence.
+
+179
+00:09:35,908 --> 00:09:40,277
+- That is what the telephone is for.
+- I'm not going.
+
+180
+00:09:40,379 --> 00:09:43,576
+- Well, who's gonna drive the car?
+- Robbie can drive.
+
+181
+00:09:43,683 --> 00:09:45,480
+Robbie doesn't have
+the personality for driving.
+
+182
+00:09:45,585 --> 00:09:48,782
+- I'm too sensitive.
+- You're too full of shit is what you are.
+
+183
+00:09:48,888 --> 00:09:51,482
+- George!
+- Then you drive it.
+
+184
+00:09:51,591 --> 00:09:53,582
+It would not be appropriate
+for me to drive it.
+
+185
+00:09:53,693 --> 00:09:56,218
+It's 1953, Mom.
+Women vote now.
+
+186
+00:09:56,329 --> 00:09:58,820
+They smoke. They even
+go to the bathroom by themselves.
+
+187
+00:09:58,931 --> 00:10:01,456
+You're becoming very crude, darling.
+
+188
+00:10:01,567 --> 00:10:03,467
+Your father's influence, no doubt.
+
+189
+00:10:05,438 --> 00:10:07,338
+Nice car.
+
+190
+00:10:08,741 --> 00:10:11,437
+<i>The only reason why I'm giving in...</i>
+
+191
+00:10:11,544 --> 00:10:15,446
+is because I know that
+we'll be back here in a week.
+
+192
+00:10:15,548 --> 00:10:18,039
+It's time for your boy's medicine, ma'am.
+
+193
+00:10:18,150 --> 00:10:21,278
+- Bernice has your medicine, George. Take it.
+- <i>It's not my medicine.</i>
+
+194
+00:10:21,387 --> 00:10:23,287
+I do not care whose medicine it is.
+
+195
+00:10:23,389 --> 00:10:26,085
+Just one of you take it,
+and let's get out of here.
+
+196
+00:10:26,192 --> 00:10:28,160
+Good-bye, Bernice.
+
+197
+00:10:28,260 --> 00:10:31,752
+<i>I'll miss you.</i>
+<i>Any parting words of advice for us?</i>
+
+198
+00:10:31,864 --> 00:10:34,765
+Yeah. Take the parking brake off.
+
+199
+00:10:39,105 --> 00:10:41,198
+- <i>[Gears Grinding]</i>
+- <i>[Robbie] George! George!</i>
+
+200
+00:10:41,307 --> 00:10:44,708
+- Please don't get us killed.
+- [Tires Screeching]
+
+201
+00:10:46,812 --> 00:10:49,372
+<i>[Narrating] My mother was</i>
+<i>determined to teach my father a lesson...</i>
+
+202
+00:10:49,482 --> 00:10:51,950
+<i>even if it meant</i>
+<i>killing us all in the process.</i>
+
+203
+00:10:52,051 --> 00:10:55,646
+<i>With that in mind, she told us</i>
+<i>to drive around the city for an hour...</i>
+
+204
+00:10:55,755 --> 00:10:58,952
+<i>so she could teach me everything</i>
+<i>she knew about driving a car...</i>
+
+205
+00:10:59,058 --> 00:11:01,185
+- <i>which wasn't much.</i>
+- <i>[Brakes Screech]</i>
+
+206
+00:11:01,293 --> 00:11:03,193
+George, I almost stabbed myself.
+
+207
+00:11:03,295 --> 00:11:05,354
+- You wanna drive?
+- That was a lovely stop.
+
+208
+00:11:05,464 --> 00:11:08,695
+You're a natural, darling.
+Well, I think we're ready to go.
+
+209
+00:11:08,801 --> 00:11:11,167
+- Anywhere in particular?
+- Boston.
+
+210
+00:11:11,270 --> 00:11:12,498
+- Boston?
+- Mm-hmm.
+
+211
+00:11:12,605 --> 00:11:16,541
+- For how long?
+- Well, with a little luck, forever.
+
+212
+00:11:16,642 --> 00:11:18,701
+What are we going to do in Boston?
+
+213
+00:11:18,811 --> 00:11:20,711
+We're gonna start a new life.
+
+214
+00:11:20,813 --> 00:11:25,409
+We are going to have fun, that's what.
+My dear friend Julie Harper lives there.
+
+215
+00:11:25,518 --> 00:11:29,352
+- Bette Davis was born in Boston.
+- Boston is a very elegant city.
+
+216
+00:11:29,455 --> 00:11:31,650
+It's full of museums and universities.
+
+217
+00:11:31,757 --> 00:11:33,850
+- Tea parties.
+- Precisely.
+
+218
+00:11:33,959 --> 00:11:36,223
+Accelerate, darling.
+
+219
+00:11:36,328 --> 00:11:40,697
+- Put the pedal to the metal, George.
+- Whoa, whoa, whoa.
+
+220
+00:11:40,800 --> 00:11:43,428
+- What did you just do?
+- I was checking the rear view mirror.
+
+221
+00:11:43,536 --> 00:11:47,131
+Oh. Never, never look
+in the rear view mirror, darling.
+
+222
+00:11:47,239 --> 00:11:49,207
+It makes no difference what's behind you.
+
+223
+00:11:49,308 --> 00:11:51,708
+I don't even know why
+they put those up there.
+
+224
+00:11:51,811 --> 00:11:54,177
+Just look where you're going
+and pretend that that's not even there.
+
+225
+00:11:54,280 --> 00:11:56,441
+- Understood?
+- Yes, ma'am.
+
+226
+00:11:56,549 --> 00:11:58,414
+Now go.
+
+227
+00:12:05,057 --> 00:12:07,252
+<i>[Narrating] The whole drive up</i>
+<i>to Boston, my mother and Robbie...</i>
+
+228
+00:12:07,359 --> 00:12:09,327
+<i>planned their upcoming adventures.</i>
+
+229
+00:12:09,428 --> 00:12:12,192
+<i>Around Hartford, her euphoria</i>
+<i>was sounding a little forced.</i>
+
+230
+00:12:12,298 --> 00:12:14,493
+<i>It made me think.</i>
+<i>By the time we got to Boston...</i>
+
+231
+00:12:14,600 --> 00:12:17,160
+<i>she'd proclaim this was all</i>
+<i>a big misunderstanding...</i>
+
+232
+00:12:17,269 --> 00:12:20,204
+<i>and tell me to turn around</i>
+<i>and drive us back to New York.</i>
+
+233
+00:12:20,306 --> 00:12:22,206
+<i>But she didn't.</i>
+
+234
+00:12:22,308 --> 00:12:25,243
+We'll stay here until
+Julie returns from her cruise.
+
+235
+00:12:25,344 --> 00:12:28,108
+- Mom, isn't this place a little...
+- Isn't it a little what?
+
+236
+00:12:28,214 --> 00:12:30,409
+Well, don't you think that
+we should be saving our money?
+
+237
+00:12:30,516 --> 00:12:34,850
+Certainly not.
+What an unpleasant thought.
+
+238
+00:12:34,954 --> 00:12:36,945
+- Sorry. I'm sorry. Oh!
+- Oh, my goodness.
+
+239
+00:12:37,056 --> 00:12:40,025
+- Are you okay?
+- I'm very sorry.
+
+240
+00:12:40,126 --> 00:12:42,026
+- Oh, my goodness. Ann Devereaux.
+- Wallace...
+
+241
+00:12:42,128 --> 00:12:44,562
+- Ann Devereaux.
+- Wallace McCallister!
+
+242
+00:12:44,663 --> 00:12:47,461
+<i>[Ann] Wally's an old beau of mine,</i>
+<i>and he's divorced.</i>
+
+243
+00:12:47,566 --> 00:12:49,431
+He once asked me to marry him.
+
+244
+00:12:49,535 --> 00:12:53,733
+<i>He tried to kill himself when I turned</i>
+<i>him down. Unsuccessfully, of course.</i>
+
+245
+00:12:53,839 --> 00:12:56,000
+Great. He deserves another chance.
+
+246
+00:12:56,108 --> 00:12:59,373
+Well, if that's the way you wanna put it.
+
+247
+00:12:59,478 --> 00:13:01,776
+So, is this the look
+we're going for, Robbie?
+
+248
+00:13:01,881 --> 00:13:06,181
+I'm trying to find you a balance between
+Dorothy Malone and Donna Reed.
+
+249
+00:13:06,285 --> 00:13:09,277
+- Try this one.
+- I'm completely in your hands, darling.
+
+250
+00:13:09,388 --> 00:13:13,119
+- You're like some predator.
+- I'm merely having dinner with an old friend.
+
+251
+00:13:13,225 --> 00:13:15,750
+Like the angler fish we studied in biology.
+
+252
+00:13:15,861 --> 00:13:18,489
+Never compare a woman to a fish, George...
+
+253
+00:13:18,597 --> 00:13:22,465
+- or anything with scales for that matter.
+- Here. Try these.
+
+254
+00:13:22,568 --> 00:13:24,763
+[Gasps]
+They're perfect.
+
+255
+00:13:26,338 --> 00:13:29,569
+We're newcomers here, and Wallace
+is a well-respected gentleman...
+
+256
+00:13:29,675 --> 00:13:32,644
+whose friendship will help
+establish us in the community.
+
+257
+00:13:32,745 --> 00:13:36,112
+I got a feeling this is all gonna
+come flying right back in your face.
+
+258
+00:13:36,215 --> 00:13:39,844
+<i>Nonsense.</i>
+<i>Everything works out for the best.</i>
+
+259
+00:13:39,952 --> 00:13:41,920
+Always.
+
+260
+00:13:48,928 --> 00:13:52,227
+- <i>[Door Closes]</i>
+- What?
+
+261
+00:13:52,331 --> 00:13:54,822
+- [Laughing]
+- <i># #[Piano]</i>
+
+262
+00:13:56,569 --> 00:13:59,629
+Wallace, you haven't changed a bit.
+
+263
+00:13:59,738 --> 00:14:01,000
+[Snickering]
+
+264
+00:14:07,880 --> 00:14:09,848
+Thank you.
+
+265
+00:14:11,650 --> 00:14:15,108
+[Groans]
+Goddamn, Ann.
+
+266
+00:14:15,221 --> 00:14:17,712
+Why can't we just go back...
+
+267
+00:14:17,823 --> 00:14:20,314
+to the way everything was, huh?
+
+268
+00:14:20,426 --> 00:14:23,725
+Well, sometimes,
+fate offers us a second chance.
+
+269
+00:14:23,829 --> 00:14:26,229
+- <i>[Liquid Pouring]</i>
+- Mm-hmm.
+
+270
+00:14:32,838 --> 00:14:35,705
+<i>Wallace, is something wrong?</i>
+
+271
+00:14:35,808 --> 00:14:37,776
+Um...
+
+272
+00:14:42,248 --> 00:14:44,216
+Things are, um...
+
+273
+00:14:49,755 --> 00:14:53,122
+Things are bad for me, Ann.
+They're bad.
+
+274
+00:14:53,225 --> 00:14:58,629
+Well, divorce is a terrible experience.
+
+275
+00:14:58,731 --> 00:15:01,791
+But sometimes, good things can come from...
+from trials like ours.
+
+276
+00:15:01,901 --> 00:15:06,531
+I'm not talking about divorce.
+I'm talking about... my business.
+
+277
+00:15:06,639 --> 00:15:09,369
+- Oh, your business.
+- Yeah.
+
+278
+00:15:09,475 --> 00:15:14,071
+I've had a setback,
+and-and-and l-I need cash.
+
+279
+00:15:14,179 --> 00:15:17,637
+Lots of cash, and fast.
+
+280
+00:15:19,084 --> 00:15:22,076
+[Scoffs]
+Lower your voice, Wallace.
+
+281
+00:15:25,591 --> 00:15:27,991
+It's why I wanted to see you tonight.
+
+282
+00:15:29,929 --> 00:15:32,921
+Can you lend me some money?
+
+283
+00:15:33,032 --> 00:15:35,125
+Can I what?
+
+284
+00:15:35,234 --> 00:15:36,792
+75,000 would do it.
+
+285
+00:15:36,902 --> 00:15:39,097
+- Dollars?
+- All right, 50.
+
+286
+00:15:39,204 --> 00:15:44,506
+Fifty. And I will get it back to you
+by the end of the month, I swear to God.
+
+287
+00:15:44,610 --> 00:15:48,137
+It's not appropriate for you
+to solicit money from me.
+
+288
+00:15:48,247 --> 00:15:51,444
+Appropriate? Appropriate my ass!
+
+289
+00:15:51,550 --> 00:15:55,919
+<i>I am broke, babe!</i>
+<i>The wolves are circlin'.</i>
+
+290
+00:15:56,021 --> 00:15:58,922
+They're standin' in line
+waitin' to take chunks out of my ass...
+
+291
+00:15:59,024 --> 00:16:01,686
+bigger than that flank steak you just had!
+
+292
+00:16:01,794 --> 00:16:05,195
+- <i>[Slams Fist On Table]</i>
+- Sorry. I'm sorry.
+
+293
+00:16:05,297 --> 00:16:09,199
+Please excuse me while I powder my nose.
+
+294
+00:16:10,569 --> 00:16:12,901
+Okay.
+
+295
+00:16:13,005 --> 00:16:16,168
+[Sniffling]
+
+296
+00:16:20,045 --> 00:16:22,013
+[Sighs]
+
+297
+00:16:29,188 --> 00:16:33,522
+Everything will work out for the best,
+George Devereaux.
+
+298
+00:16:33,625 --> 00:16:35,183
+You'll see.
+
+299
+00:17:06,625 --> 00:17:10,459
+<i>It's not our policy to extend credit</i>
+<i>to patrons we do not know.</i>
+
+300
+00:17:10,562 --> 00:17:15,693
+Oh. Well, is it your policy for your patrons
+to be robbed in plain sight?
+
+301
+00:17:15,801 --> 00:17:18,429
+- Madam, please.
+- Listen, I am the victim here.
+
+302
+00:17:18,537 --> 00:17:22,029
+I returned from the ladies' room
+to find that my purse has been ransacked.
+
+303
+00:17:22,141 --> 00:17:25,668
+Madam, all I know is that
+someone needs to pay for this meal.
+
+304
+00:17:25,778 --> 00:17:28,042
+Trust me, I already have.
+
+305
+00:17:28,147 --> 00:17:31,913
+Ma'am? May I be of assistance?
+
+306
+00:17:32,017 --> 00:17:34,508
+Well, who are you, cavalry?
+
+307
+00:17:34,620 --> 00:17:37,555
+Henry, I'll take care of that.
+Harlan.
+
+308
+00:17:37,656 --> 00:17:39,556
+Harlan Williams.
+
+309
+00:17:39,658 --> 00:17:41,888
+We met at Julie Harper's
+Christmas party last year.
+
+310
+00:17:41,994 --> 00:17:45,430
+Yes, of course. Harlan.
+Well, Colonel.
+
+311
+00:17:45,531 --> 00:17:47,863
+<i>[George]</i>
+<i>Why does he wear that uniform all the time?</i>
+
+312
+00:17:47,966 --> 00:17:51,265
+<i>Hasn't anyone told him the war is over,</i>
+<i>for Christ's sake?</i>
+
+313
+00:17:51,370 --> 00:17:53,270
+<i>[Robbie]</i>
+<i>Now that he and Mom are engaged...</i>
+
+314
+00:17:53,372 --> 00:17:55,272
+<i>I bet he sends us off to military school.</i>
+
+315
+00:17:55,374 --> 00:17:58,741
+<i>[George] I hate the way he calls me</i>
+<i>Georgie boy all the time.</i>
+
+316
+00:17:58,844 --> 00:18:01,074
+<i>I hate the way he keeps</i>
+<i>slapping me on the back...</i>
+
+317
+00:18:01,180 --> 00:18:04,581
+<i>like he's trying to dislodge a piece of meat</i>
+<i>from my throat or something.</i>
+
+318
+00:18:04,683 --> 00:18:07,413
+If he touches my hair one more time,
+I'm gonna kill him.
+
+319
+00:18:07,519 --> 00:18:11,114
+Holden Caulfield would tell him
+what he really thought about him.
+
+320
+00:18:11,223 --> 00:18:13,418
+Holden hates phonies more than anything.
+
+321
+00:18:13,525 --> 00:18:16,050
+Holden Caulfield
+is a fictional character, George.
+
+322
+00:18:17,396 --> 00:18:20,229
+You ever think about goin' back to Dad?
+
+323
+00:18:20,332 --> 00:18:22,562
+He's your father, not mine.
+
+324
+00:18:22,668 --> 00:18:25,466
+What was your father like?
+
+325
+00:18:25,571 --> 00:18:30,008
+I saw a picture of him once.
+His pants were too short.
+
+326
+00:18:30,109 --> 00:18:32,839
+You think Mom is crazy?
+
+327
+00:18:35,214 --> 00:18:38,945
+I can't tell.
+She's the only one I've had.
+
+328
+00:18:40,352 --> 00:18:42,786
+<i>Every time there's a picture</i>
+<i>of a Communist in the school...</i>
+
+329
+00:18:42,888 --> 00:18:45,413
+he's always wearing a wool cap
+and driving a tractor.
+
+330
+00:18:45,524 --> 00:18:48,960
+That's 'cause Stalin
+killed all the designers.
+
+331
+00:18:49,061 --> 00:18:52,258
+That's why we're fighting
+Communism, boys.
+
+332
+00:18:52,364 --> 00:18:55,026
+Because we're a country
+that's founded on individualism.
+
+333
+00:18:55,134 --> 00:18:57,659
+- Right, George?
+- Yes, sir.
+
+334
+00:18:57,769 --> 00:19:02,263
+Hell, if the Commies did take over,
+everybody would be wearing the same clothes.
+
+335
+00:19:02,374 --> 00:19:05,172
+Every street would have
+the same exact stores...
+
+336
+00:19:05,277 --> 00:19:07,973
+no matter which town you went to,
+each the same as the next.
+
+337
+00:19:09,948 --> 00:19:11,848
+That's why our boys
+are fighting and dying...
+
+338
+00:19:11,950 --> 00:19:13,918
+so that doesn't happen.
+
+339
+00:19:15,754 --> 00:19:17,187
+[Whispering]
+
+340
+00:19:17,289 --> 00:19:19,018
+[Clears Throat]
+
+341
+00:19:19,124 --> 00:19:21,217
+[Both Snickering]
+
+342
+00:19:21,326 --> 00:19:23,226
+Did I say something funny, George?
+
+343
+00:19:23,328 --> 00:19:25,125
+It was nothing, sir.
+
+344
+00:19:25,230 --> 00:19:27,892
+They weren't laughing at you, honey.
+They were laughing with you.
+
+345
+00:19:29,801 --> 00:19:33,168
+What was there to laugh <i>with,</i> George?
+
+346
+00:19:33,272 --> 00:19:35,331
+<i>[Ann]</i>
+<i>I think you're overreacting, darling.</i>
+
+347
+00:19:35,440 --> 00:19:37,670
+Don't tell me I'm overreacting.
+
+348
+00:19:37,776 --> 00:19:41,712
+<i>Why am I so goddamn funny, George?</i>
+
+349
+00:19:41,813 --> 00:19:43,178
+Harlan.
+
+350
+00:19:46,785 --> 00:19:49,754
+Oh.
+[Chuckles]
+
+351
+00:19:49,855 --> 00:19:51,755
+I'm sorry. I must be overtired.
+
+352
+00:19:51,857 --> 00:19:54,621
+It's probably just battle fatigue, sir.
+
+353
+00:19:56,261 --> 00:19:59,059
+Sorry about that, Georgie boy.
+
+354
+00:20:04,002 --> 00:20:06,937
+[Line Ringing]
+
+355
+00:20:07,039 --> 00:20:09,599
+[Woman]
+Hello? Who is this?
+
+356
+00:20:09,708 --> 00:20:14,509
+Nicky, is that you? Hello?
+
+357
+00:20:14,613 --> 00:20:17,104
+[Dan] Oh, sweetie,
+it's the middle of the damn night.
+
+358
+00:20:17,216 --> 00:20:19,116
+- Just hang up.
+- [Line Disconnects]
+
+359
+00:20:19,218 --> 00:20:21,186
+- Dad, it's...
+- [Dial Tone]
+
+360
+00:20:32,531 --> 00:20:34,499
+<i>[Dog Barking In Distance]</i>
+
+361
+00:20:38,237 --> 00:20:40,137
+<i>[Harlan]</i>
+<i>Find anything interesting, George?</i>
+
+362
+00:20:40,239 --> 00:20:43,470
+- No, sir. Good night, sir.
+- Sit.
+
+363
+00:20:43,575 --> 00:20:45,099
+- I've gotta go.
+- <i>Sit.</i>
+
+364
+00:20:45,210 --> 00:20:47,178
+Sit.
+
+365
+00:20:50,482 --> 00:20:53,246
+You think of yourself as
+the man of the family, don't ya?
+
+366
+00:20:53,352 --> 00:20:56,549
+- My brother's older.
+- <i>Robbie's... Well, let's just say...</i>
+
+367
+00:20:56,655 --> 00:20:59,783
+that Robbie's not likely
+to be the man in anyone's family.
+
+368
+00:21:01,760 --> 00:21:04,058
+I'm gonna marry your mother.
+
+369
+00:21:04,162 --> 00:21:08,565
+- I know.
+- <i>That's going to make me the man of the family.</i>
+
+370
+00:21:09,868 --> 00:21:13,065
+<i>[Dog Barking In Distance]</i>
+
+371
+00:21:13,171 --> 00:21:15,696
+It's like dogs, see?
+
+372
+00:21:15,807 --> 00:21:19,800
+In every pack,
+there's a leader of the pack.
+
+373
+00:21:19,911 --> 00:21:22,937
+You've been that dog for a while.
+
+374
+00:21:23,048 --> 00:21:25,141
+Now, I'm going to be top dog.
+
+375
+00:21:26,885 --> 00:21:30,412
+<i>And there's always the dog</i>
+<i>that challenges the leader.</i>
+
+376
+00:21:32,024 --> 00:21:35,016
+Things can get pretty nasty
+till one of them wins.
+
+377
+00:21:36,928 --> 00:21:39,863
+Son, you can fight me...
+
+378
+00:21:39,965 --> 00:21:45,301
+but I guarantee you,
+you're going to lose.
+
+379
+00:21:45,404 --> 00:21:47,872
+<i>You understand?</i>
+
+380
+00:21:47,973 --> 00:21:51,033
+Woof, sir.
+
+381
+00:21:51,143 --> 00:21:55,045
+So, what's Harlan
+gonna wear for the wedding?
+
+382
+00:21:55,147 --> 00:21:57,115
+His uniform, I assume.
+
+383
+00:21:57,215 --> 00:21:59,877
+- Does he sleep in that thing too?
+- George!
+
+384
+00:22:01,620 --> 00:22:04,453
+<i>Doesn't that just break your heart?</i>
+
+385
+00:22:04,556 --> 00:22:06,217
+We should buy them something.
+
+386
+00:22:06,325 --> 00:22:08,555
+<i>[Ann]</i>
+<i>What a sweet idea.</i>
+
+387
+00:22:08,660 --> 00:22:11,356
+- How much should we spend?
+- How much did Harlan give you?
+
+388
+00:22:11,463 --> 00:22:14,523
+- $500.
+- Spend it all.
+
+389
+00:22:14,633 --> 00:22:16,794
+Oh, I can't, George.
+That money has to pay...
+
+390
+00:22:16,902 --> 00:22:19,029
+for the caterers, the band, the flowers.
+
+391
+00:22:19,137 --> 00:22:21,332
+<i>And before that,</i>
+<i>there's a rehearsal dinner.</i>
+
+392
+00:22:21,440 --> 00:22:23,601
+Look at them, Mother.
+
+393
+00:22:23,709 --> 00:22:27,645
+<i>Are you telling me that you spent all the money</i>
+<i>I gave you on a bunch of crippled kids?</i>
+
+394
+00:22:27,746 --> 00:22:30,237
+I just couldn't help myself.
+
+395
+00:22:30,349 --> 00:22:33,182
+And you should've seen them, darling.
+They were so happy.
+
+396
+00:22:33,285 --> 00:22:38,348
+I don't care if they were
+shitting wedding bells.
+
+397
+00:22:38,457 --> 00:22:40,823
+You stole 500 bucks from me.
+
+398
+00:22:40,926 --> 00:22:42,894
+I didn't steal it, and I'll pay you back.
+
+399
+00:22:42,994 --> 00:22:46,054
+How are you gonna do that?
+How are you going to pay me back?
+
+400
+00:22:46,164 --> 00:22:48,394
+- <i>How?</i>
+- It was my idea.
+
+401
+00:22:48,500 --> 00:22:50,866
+<i>[Ann]</i>
+<i>It was not your idea.</i>
+
+402
+00:22:50,969 --> 00:22:53,597
+I bet it was your idea, you little turd.
+
+403
+00:22:53,705 --> 00:22:57,197
+<i>It was my idea, and don't call him that.</i>
+
+404
+00:22:57,309 --> 00:23:00,836
+I'll call him any damn thing I wanna call him.
+Now, give me back that necklace.
+
+405
+00:23:00,946 --> 00:23:02,709
+- What are you talking about?
+- The one you're wearing.
+
+406
+00:23:02,814 --> 00:23:04,748
+The pearl necklace I gave you.
+Give it to me.
+
+407
+00:23:04,850 --> 00:23:07,944
+- Why?
+- I'm returning it for the money you owe me.
+Give it to me.
+
+408
+00:23:08,053 --> 00:23:09,543
+I will not.
+
+409
+00:23:09,654 --> 00:23:13,055
+- Give me that goddamn necklace!
+Give me those goddamn pearls!
+- Oh!
+
+410
+00:23:13,158 --> 00:23:15,149
+- <i>[George] Leave her alone!</i>
+- Come here!
+
+411
+00:23:15,260 --> 00:23:17,820
+- [Screams]
+- Give me those damn pearls!
+You hear me, woman?
+
+412
+00:23:17,929 --> 00:23:22,161
+- Leave her alone!
+- I order you to give me those pearls right now!
+
+413
+00:23:23,668 --> 00:23:26,762
+<i>Damn it, stop! You stop!</i>
+
+414
+00:23:26,872 --> 00:23:29,670
+<i>If you touch my boy again...</i>
+
+415
+00:23:29,775 --> 00:23:33,142
+you miserable son of a bitch,
+I will kill you!
+
+416
+00:23:35,380 --> 00:23:37,075
+- <i>[Grunts Loudly]</i>
+- Oh...
+
+417
+00:23:37,182 --> 00:23:39,412
+[Groans]
+
+418
+00:23:39,518 --> 00:23:42,612
+<i># #[Rock On Speakers]</i>
+
+419
+00:23:42,721 --> 00:23:45,519
+You jumped on his back?
+
+420
+00:23:45,624 --> 00:23:49,116
+Your brother was so brave.
+
+421
+00:23:49,227 --> 00:23:51,127
+Are we going home now?
+
+422
+00:23:51,229 --> 00:23:54,426
+- You know we can't do that.
+- Why not?
+
+423
+00:23:54,533 --> 00:23:57,627
+- Because your father doesn't love me.
+- Why not?
+
+424
+00:23:57,736 --> 00:24:01,069
+Well, you'll have
+to ask him that yourself.
+
+425
+00:24:01,173 --> 00:24:03,733
+- We don't have any money left, do we?
+- <i>We have plenty of money.</i>
+
+426
+00:24:03,842 --> 00:24:06,777
+How much?
+
+427
+00:24:06,878 --> 00:24:09,745
+Enough to keep us until I find someone.
+
+428
+00:24:09,848 --> 00:24:12,408
+- You mean, like, a husband?
+- <i>And a father.</i>
+
+429
+00:24:12,517 --> 00:24:15,850
+Does it worry you that the last one
+you picked turned out to be a total psycho?
+
+430
+00:24:15,954 --> 00:24:19,253
+So, where's the next spot on the map?
+
+431
+00:24:19,357 --> 00:24:21,689
+<i>Where is that map?</i>
+
+432
+00:24:25,263 --> 00:24:27,197
+What's this?
+
+433
+00:24:27,299 --> 00:24:30,632
+- It's mine.
+- Be careful, George.
+
+434
+00:24:33,405 --> 00:24:35,305
+Does he ever write you back?
+
+435
+00:24:35,407 --> 00:24:38,467
+Where's he gonna write to?
+Howard Johnson's?
+
+436
+00:24:38,577 --> 00:24:42,775
+- Well, what do you have to say
+to your father anyway?
+- A lot of stuff.
+
+437
+00:24:42,881 --> 00:24:46,112
+- Such as?
+- Guy stuff.
+
+438
+00:24:46,218 --> 00:24:48,015
+Women, guns, ice fishing.
+
+439
+00:24:48,119 --> 00:24:52,453
+Women.
+What your father knows about women...
+
+440
+00:24:52,557 --> 00:24:55,253
+wouldn't begin to fill a postcard.
+
+441
+00:24:55,360 --> 00:24:58,989
+That man's all potatoes and no meat.
+
+442
+00:24:59,097 --> 00:25:01,827
+Let's just go.
+
+443
+00:25:01,933 --> 00:25:04,902
+- Where to this time?
+- <i>[Engine Starts]</i>
+
+444
+00:25:06,738 --> 00:25:09,229
+- [Ann] This is it here.
+- <i>[George Narrating] Next stop was Pittsburgh.</i>
+
+445
+00:25:09,341 --> 00:25:11,400
+<i>We were getting short on money,</i>
+<i>and my mother knew that...</i>
+
+446
+00:25:11,510 --> 00:25:13,444
+<i>unless she found herself a husband fast...</i>
+
+447
+00:25:13,545 --> 00:25:18,039
+<i>she'd have to swallow her pride and head back</i>
+<i>to New York, which would've been fine with me.</i>
+
+448
+00:25:21,019 --> 00:25:23,249
+I almost married a man in this city.
+
+449
+00:25:23,355 --> 00:25:25,550
+<i>You almost married a man in every city.</i>
+
+450
+00:25:25,657 --> 00:25:28,285
+Sarcasm is the refuge of scoundrels.
+
+451
+00:25:28,393 --> 00:25:32,022
+- Gene Kelly was born in Pittsburgh.
+- Now I feel much better.
+
+452
+00:25:33,632 --> 00:25:36,157
+Suite 203.
+
+453
+00:25:39,104 --> 00:25:42,767
+- Not so bad.
+- Yeah, look. Wall-to-wall floors.
+
+454
+00:25:47,646 --> 00:25:49,637
+Is that your car?
+
+455
+00:25:49,748 --> 00:25:51,716
+Yeah. It's a Cadillac Eldorado.
+
+456
+00:25:51,816 --> 00:25:54,307
+I know what it is.
+
+457
+00:25:54,419 --> 00:25:56,887
+How come you're staying here
+if you're so rich?
+
+458
+00:25:56,988 --> 00:25:58,888
+We're not rich.
+
+459
+00:25:58,990 --> 00:26:01,788
+Well, your mom's pretty.
+Is that her hair?
+
+460
+00:26:03,228 --> 00:26:05,719
+Whose else would it be?
+
+461
+00:26:05,830 --> 00:26:07,991
+I mean, is that her real color?
+
+462
+00:26:10,602 --> 00:26:14,868
+- I guess so.
+- A lot of women color their hair.
+
+463
+00:26:14,973 --> 00:26:17,305
+Not me, though.
+
+464
+00:26:19,411 --> 00:26:22,437
+- What are you doing here?
+- Mother's looking for a husband.
+
+465
+00:26:22,547 --> 00:26:26,039
+- Anyone in particular?
+- Apparently not, no.
+
+466
+00:26:28,053 --> 00:26:30,886
+- Where's your father?
+- He's a band leader in New York.
+
+467
+00:26:30,989 --> 00:26:32,889
+Like Ricky Ricardo?
+
+468
+00:26:32,991 --> 00:26:35,459
+Yeah. Yeah, like him.
+
+469
+00:26:35,560 --> 00:26:38,222
+Hey, Bud.
+
+470
+00:26:38,330 --> 00:26:40,764
+Lucy and little Ricky moved in next door.
+
+471
+00:26:40,865 --> 00:26:43,197
+This is my brother Bud.
+
+472
+00:26:44,502 --> 00:26:47,164
+Bud doesn't talk much.
+
+473
+00:26:52,344 --> 00:26:56,474
+- Hello.
+- Nice car, ma'am.
+
+474
+00:26:56,581 --> 00:26:58,549
+Thank you.
+
+475
+00:27:02,253 --> 00:27:05,450
+<i>The automobile is seen</i>
+<i>as a symbol of latent sexuality.</i>
+
+476
+00:27:05,557 --> 00:27:08,924
+<i>Sometimes male, sometimes female.</i>
+
+477
+00:27:09,027 --> 00:27:13,521
+Fins are often compared
+to the lines of a raised skirt...
+
+478
+00:27:13,632 --> 00:27:16,123
+taillights to a sexual organ.
+
+479
+00:27:16,234 --> 00:27:19,692
+<i>Myself, I think the Cadillac is feminine.</i>
+
+480
+00:27:19,804 --> 00:27:22,830
+If you ever have any trouble with it,
+I'll fix it for you.
+
+481
+00:27:22,941 --> 00:27:25,171
+We take it to a gynecologist.
+
+482
+00:27:30,715 --> 00:27:33,707
+<i>[Girl] Those are the most words</i>
+<i>Bud's ever said at one time.</i>
+
+483
+00:27:33,818 --> 00:27:36,616
+Maybe in his whole life put together.
+
+484
+00:27:36,721 --> 00:27:43,456
+<i>[Woman]</i>
+<i># Sail the sunlight sparkling on the bay #</i>
+
+485
+00:27:43,561 --> 00:27:45,461
+<i># #[Continues, Indistinct]</i>
+
+486
+00:27:45,563 --> 00:27:49,363
+<i>[Ann]</i>
+<i>It's called a TV dinner.</i>
+
+487
+00:27:49,467 --> 00:27:51,628
+That's because it tastes like a TV?
+
+488
+00:27:51,736 --> 00:27:55,069
+It comes in that one little package,
+and it practically cooks itself.
+
+489
+00:27:55,173 --> 00:27:58,165
+Maybe it could eat itself too.
+Why don't we just go out?
+
+490
+00:27:58,276 --> 00:28:00,301
+No. We're poor now.
+We're gonna have to drop out of school...
+
+491
+00:28:00,412 --> 00:28:02,346
+start working in the steel mills.
+
+492
+00:28:02,447 --> 00:28:04,847
+- Oh, I love those boots they wear.
+- We have plenty of money.
+
+493
+00:28:04,949 --> 00:28:08,885
+We're just conserving is all. And I thought
+it would be nice for us to sit around...
+
+494
+00:28:08,987 --> 00:28:11,217
+and share with each other
+what we did during the day.
+
+495
+00:28:11,322 --> 00:28:13,415
+- Just like a real family.
+- <i>[Robbie Chuckles]</i>
+
+496
+00:28:13,525 --> 00:28:15,993
+- Now, who's got some good news to share?
+- I do.
+
+497
+00:28:16,094 --> 00:28:18,756
+- I got the lead in the school play.
+- Good for you.
+
+498
+00:28:18,863 --> 00:28:21,229
+- Well, who are you playing?
+- Othello.
+
+499
+00:28:21,332 --> 00:28:23,892
+- That's wonderful.
+- Do you really think it's a good idea though...
+
+500
+00:28:24,002 --> 00:28:26,266
+to start your life
+in Pittsburgh as a Negro?
+
+501
+00:28:26,371 --> 00:28:29,169
+- George.
+- [Sighs]
+
+502
+00:28:29,274 --> 00:28:31,640
+Well, I've got some good news.
+
+503
+00:28:31,743 --> 00:28:34,507
+I ran into Oliver Pearson yesterday
+at Kaufmann's.
+
+504
+00:28:34,612 --> 00:28:36,512
+- <i>Who's he?</i>
+- He's an old beau of mine.
+
+505
+00:28:36,614 --> 00:28:39,344
+<i>He's invited me to</i>
+<i>the theater Friday night.</i>
+
+506
+00:28:39,451 --> 00:28:41,851
+<i>His family makes Pearson sewing machines.</i>
+
+507
+00:28:41,953 --> 00:28:43,944
+It's your dream father, Robbie.
+
+508
+00:28:44,055 --> 00:28:46,956
+[Chuckling]
+
+509
+00:28:48,893 --> 00:28:51,191
+<i>[Woman On Screen, Indistinct]</i>
+
+510
+00:28:53,631 --> 00:28:55,826
+Doesn't work that way with me.
+
+511
+00:28:55,934 --> 00:28:58,732
+It's all lies, you know,
+what they say up there.
+
+512
+00:28:58,837 --> 00:29:02,136
+- It's all crap.
+- It's not crap.
+
+513
+00:29:02,240 --> 00:29:04,731
+Sure it is.
+I can tell you how it's gonna end...
+
+514
+00:29:04,843 --> 00:29:06,743
+without even looking.
+
+515
+00:29:06,845 --> 00:29:08,836
+The bad guy's gonna get killed...
+
+516
+00:29:08,947 --> 00:29:11,313
+and the handsome guy
+and the beautiful woman...
+
+517
+00:29:11,416 --> 00:29:14,647
+- are gonna end up in love with each other.
+- They will?
+
+518
+00:29:14,753 --> 00:29:16,983
+Of course they will.
+
+519
+00:29:17,088 --> 00:29:18,988
+They always do.
+That's what people pay for.
+
+520
+00:29:19,090 --> 00:29:21,058
+Maybe.
+
+521
+00:29:21,159 --> 00:29:23,093
+It makes people feel better.
+
+522
+00:29:23,194 --> 00:29:26,595
+It makes them think that
+everything's gonna work out for them.
+
+523
+00:29:26,698 --> 00:29:31,135
+Everybody's looking for the American dream,
+but it's a sucker's bet.
+
+524
+00:29:31,236 --> 00:29:33,636
+No, it's not.
+
+525
+00:29:33,738 --> 00:29:37,037
+You know, things might be bad sometimes...
+
+526
+00:29:37,142 --> 00:29:39,838
+but in the end, everything works out.
+
+527
+00:29:39,944 --> 00:29:41,844
+It always does.
+
+528
+00:29:41,946 --> 00:29:46,508
+Oh, yeah?
+Who says that?
+
+529
+00:29:46,618 --> 00:29:48,950
+People.
+
+530
+00:29:54,259 --> 00:29:58,093
+You know, for someone from New York,
+you're pretty stupid sometimes.
+
+531
+00:30:02,400 --> 00:30:06,302
+Mr. Lomax in 2-C said he'd give me
+two bucks if I showed him my breasts.
+
+532
+00:30:06,404 --> 00:30:10,135
+- He did?
+- Do you think I should?
+
+533
+00:30:12,610 --> 00:30:15,511
+I don't know.
+
+534
+00:30:15,613 --> 00:30:19,379
+Have you ever... seen breasts?
+
+535
+00:30:19,484 --> 00:30:21,714
+Sure. One.
+
+536
+00:30:21,820 --> 00:30:23,287
+You saw one breast?
+
+537
+00:30:23,388 --> 00:30:26,050
+I meant once. I saw some once.
+
+538
+00:30:27,525 --> 00:30:29,959
+- Some?
+- Two.
+
+539
+00:30:30,061 --> 00:30:32,461
+I saw two once.
+
+540
+00:30:32,564 --> 00:30:35,658
+[Chuckling]
+
+541
+00:30:39,504 --> 00:30:41,404
+Do you wanna see mine?
+
+542
+00:30:41,506 --> 00:30:43,701
+Who, me? Now?
+
+543
+00:30:43,808 --> 00:30:47,209
+That way, you could tell me if you think
+I should ask Mr. Lomax for more money.
+
+544
+00:30:51,115 --> 00:30:53,310
+Okay. Sure, yeah.
+
+545
+00:30:57,488 --> 00:30:59,513
+[Voices Continue On Screen]
+
+546
+00:31:05,096 --> 00:31:07,064
+You ready?
+
+547
+00:31:15,006 --> 00:31:17,975
+So how do they look?
+
+548
+00:31:18,076 --> 00:31:20,874
+All right. Good.
+
+549
+00:31:20,979 --> 00:31:26,508
+Fine. Of course, I don't have much
+to compare them to, but...
+
+550
+00:31:26,618 --> 00:31:30,418
+I don't think you should show them
+to Mr. Lomax.
+
+551
+00:31:31,856 --> 00:31:34,154
+Why not?
+
+552
+00:31:34,259 --> 00:31:36,921
+'Cause you're better than that.
+
+553
+00:31:46,938 --> 00:31:49,998
+<i>[Woman On Screen]</i>
+<i>If I tell you something, you won't laugh?</i>
+
+554
+00:31:50,108 --> 00:31:53,805
+- <i>[Man] I won't laugh.</i>
+- <i>I love you.</i>
+
+555
+00:31:57,582 --> 00:32:01,643
+<i>Why don't you call Dad</i>
+<i>and ask him for some money?</i>
+
+556
+00:32:01,753 --> 00:32:06,122
+- In your dreams.
+- Then I'll go to New York and I'll ask him myself.
+
+557
+00:32:06,224 --> 00:32:08,158
+We do not need that man's help.
+
+558
+00:32:08,259 --> 00:32:11,558
+And I wouldn't take it if we did.
+
+559
+00:32:11,663 --> 00:32:13,563
+Oh, here.
+Take this one.
+
+560
+00:32:13,665 --> 00:32:16,031
+- Oh, thank you, darling. Perfect.
+- Mm-hmm.
+
+561
+00:32:16,134 --> 00:32:19,262
+Don't worry.
+I will find you boys a father.
+
+562
+00:32:19,370 --> 00:32:22,965
+We have fathers, remember?
+It's you who doesn't have a husband.
+
+563
+00:32:23,074 --> 00:32:26,134
+- Then I'll find one of them too.
+- How?
+
+564
+00:32:26,244 --> 00:32:28,235
+Nobody's good enough for you.
+
+565
+00:32:28,346 --> 00:32:31,679
+No matter what happens in our lives,
+there are standards we must maintain.
+
+566
+00:32:31,783 --> 00:32:34,513
+You ever think that maybe
+you don't meet some of their standards?
+
+567
+00:32:34,619 --> 00:32:36,985
+And what would those be?
+
+568
+00:32:37,088 --> 00:32:40,148
+- <i>Maybe you're not smart enough for them.</i>
+- <i>[Door Opens]</i>
+
+569
+00:32:40,258 --> 00:32:44,422
+Trust me, George. A woman never appears
+more intelligent to a man...
+
+570
+00:32:44,529 --> 00:32:46,429
+than when she's listening to him.
+
+571
+00:32:46,531 --> 00:32:49,591
+<i># #[Orchestral]</i>
+
+572
+00:32:52,603 --> 00:32:54,571
+- <i># #[Ends]</i>
+- <i>[Applause]</i>
+
+573
+00:33:04,716 --> 00:33:07,207
+- [Ann Chuckling]
+- [Oliver Chattering]
+
+574
+00:33:09,287 --> 00:33:12,814
+- Mmm. Mmm!
+- It was a lovely evening.
+
+575
+00:33:14,058 --> 00:33:18,722
+You know, Ann,
+you are a beautiful woman.
+
+576
+00:33:18,830 --> 00:33:21,025
+Thank you, Oliver.
+
+577
+00:33:22,934 --> 00:33:25,801
+[Chuckles]
+Come back to my place with me.
+
+578
+00:33:25,903 --> 00:33:29,805
+Oh, I can't. I have the boys.
+
+579
+00:33:29,907 --> 00:33:32,501
+[Sighs]
+They can take care of themselves.
+
+580
+00:33:32,610 --> 00:33:35,044
+[Chuckles]
+I only wish.
+
+581
+00:33:35,146 --> 00:33:38,980
+No, honestly, I should go.
+I had a very nice time.
+
+582
+00:33:39,083 --> 00:33:41,176
+- And maybe...
+- Maybe...
+
+583
+00:33:41,285 --> 00:33:43,276
+Oliver... Oliver, please don't.
+
+584
+00:33:43,388 --> 00:33:45,879
+- Come on, baby. Don't be a prude.
+- Oliver, no!
+
+585
+00:33:45,990 --> 00:33:48,049
+I said stop!
+
+586
+00:33:48,159 --> 00:33:51,925
+Just what the fuck do you think
+I asked you out for anyway?
+
+587
+00:33:52,030 --> 00:33:54,828
+- Conversation? Gosh. You go.
+- [Scoffs]
+
+588
+00:33:54,932 --> 00:33:57,833
+- Get the hell out of here!
+- [Groans]
+
+589
+00:33:57,935 --> 00:34:00,028
+<i>[Car Door Closes]</i>
+
+590
+00:34:16,120 --> 00:34:18,020
+<i>[Ann]</i>
+<i>$600.</i>
+
+591
+00:34:18,122 --> 00:34:20,352
+Those belonged to my grandmother.
+
+592
+00:34:20,458 --> 00:34:24,155
+Everything in here belonged
+to somebody's grandmother, lady.
+
+593
+00:34:26,397 --> 00:34:28,524
+[Horn Honking]
+
+594
+00:34:30,668 --> 00:34:33,364
+- Afternoon, Miss Devereaux.
+- Hello, Bud.
+
+595
+00:34:33,471 --> 00:34:35,735
+You're a long way from home.
+
+596
+00:34:35,840 --> 00:34:39,640
+- Yes, I am.
+- <i>You're lookin' very pretty today.</i>
+
+597
+00:34:39,744 --> 00:34:44,613
+Well, thank you, Bud. You have no idea
+how much I needed to hear that.
+
+598
+00:34:44,715 --> 00:34:46,979
+Can I give you a ride home?
+
+599
+00:34:47,085 --> 00:34:49,610
+Oh, l-I have to get some things,
+but thank you.
+
+600
+00:34:49,720 --> 00:34:52,621
+Would you like to go for a drink later?
+
+601
+00:34:52,723 --> 00:34:54,782
+Not tonight,
+but maybe some other time.
+
+602
+00:34:54,892 --> 00:34:56,985
+Yeah, maybe.
+
+603
+00:35:02,467 --> 00:35:04,458
+Bud saw your mom
+coming out of a pawn shop.
+
+604
+00:35:04,569 --> 00:35:06,537
+So?
+
+605
+00:35:08,272 --> 00:35:10,365
+I took your advice.
+
+606
+00:35:10,475 --> 00:35:15,105
+- <i>[Vehicle Approaching]</i>
+- I told Mr. Lomax that
+I wouldn't show him my breasts.
+
+607
+00:35:15,213 --> 00:35:17,738
+I told him he could see my finger
+for a quarter though.
+
+608
+00:35:20,218 --> 00:35:21,776
+Come on.
+
+609
+00:35:26,224 --> 00:35:28,192
+<i>You coming or what?</i>
+
+610
+00:35:35,199 --> 00:35:38,032
+[Ann] Charlie Currell is
+one of my oldest and dearest friends.
+
+611
+00:35:38,136 --> 00:35:41,264
+- [George] What's wrong with him?
+- There is nothing wrong with him.
+
+612
+00:35:41,372 --> 00:35:45,832
+He's handsome as ever,
+and he's still interested in me.
+
+613
+00:35:45,943 --> 00:35:50,209
+- [Robbie] Oh, wow. I could live here.
+- George?
+
+614
+00:35:50,314 --> 00:35:53,147
+Promise you won't say
+anything to embarrass me today.
+
+615
+00:35:53,251 --> 00:35:56,152
+- I won't if you won't.
+- I have such good feelings about things.
+
+616
+00:35:56,254 --> 00:35:58,085
+- How do I look?
+- You always look beautiful.
+
+617
+00:35:58,189 --> 00:36:02,182
+- George, how do I look?
+- Ripe.
+
+618
+00:36:03,294 --> 00:36:05,228
+[George]
+Where is this guy? Hmm?
+
+619
+00:36:05,329 --> 00:36:08,127
+- I thought he couldn't wait to see you.
+- Charlie has other guests.
+
+620
+00:36:08,232 --> 00:36:10,962
+We can't monopolize all his time.
+
+621
+00:36:11,068 --> 00:36:13,798
+Why don't you boys go and mingle?
+
+622
+00:36:13,905 --> 00:36:16,100
+I love to mingle.
+
+623
+00:36:16,207 --> 00:36:18,607
+These are good. But don't put
+the soft ones in your pocket...
+
+624
+00:36:18,709 --> 00:36:20,677
+or you'll squish 'em.
+
+625
+00:36:22,613 --> 00:36:24,706
+- Enjoying yourselves, gentlemen?
+- Oh, yes.
+
+626
+00:36:24,815 --> 00:36:28,478
+Very much so. You know,
+I'm playing a Negro in my school play.
+
+627
+00:36:28,586 --> 00:36:31,054
+- Is that right?
+- Othello.
+
+628
+00:36:31,155 --> 00:36:33,521
+Ah. The noble Moor.
+
+629
+00:36:33,624 --> 00:36:37,583
+- Verily. Perchance you could
+give me some character notes.
+- Gladly.
+
+630
+00:36:39,997 --> 00:36:42,363
+[Children Laughing, Shouting]
+
+631
+00:36:42,466 --> 00:36:44,491
+Someone would think it was a...
+
+632
+00:36:44,602 --> 00:36:46,502
+Ann!
+
+633
+00:36:49,173 --> 00:36:51,869
+Excuse me a minute.
+I got a beautiful woman to talk to.
+
+634
+00:36:51,976 --> 00:36:54,501
+- <i>Annie!</i>
+- Hi, Charlie.
+
+635
+00:36:54,612 --> 00:36:58,378
+- I see you found the place.
+- All I had to do was look
+for the biggest house in town.
+
+636
+00:36:58,482 --> 00:36:59,881
+Uh-huh.
+[Chuckles]
+
+637
+00:36:59,984 --> 00:37:01,212
+- Hi.
+- And these must be your boys.
+
+638
+00:37:01,319 --> 00:37:03,219
+- They certainly are.
+- You guys having a good time?
+
+639
+00:37:03,321 --> 00:37:05,221
+- Yes, sir.
+- "Yes, sir."
+
+640
+00:37:05,323 --> 00:37:08,224
+- I don't like the sound of that.
+Makes me feel old.
+- Oh, Charlie.
+
+641
+00:37:08,326 --> 00:37:10,726
+- You'll never be old.
+- <i>[Woman] Charlie.</i>
+
+642
+00:37:10,828 --> 00:37:13,490
+- Harry says I can't drive the MG.
+- Yeah, because you can't.
+
+643
+00:37:13,598 --> 00:37:15,725
+Sweetheart, I want you to meet
+one of my oldest and dearest friends.
+
+644
+00:37:15,833 --> 00:37:18,063
+Ann, this is Nancy.
+Nancy, Ann.
+
+645
+00:37:18,169 --> 00:37:21,104
+- Nice to meet you, Nancy.
+- My mother used to wear gloves like that.
+
+646
+00:37:21,205 --> 00:37:24,072
+Well, your mother must've been
+a very elegant lady.
+
+647
+00:37:24,175 --> 00:37:26,473
+It's what women in her generation did.
+
+648
+00:37:28,179 --> 00:37:30,238
+Hey, a bunch of us
+are gonna go dancing tonight.
+
+649
+00:37:30,348 --> 00:37:32,248
+- <i>Why don't you join us.</i>
+- I have the boys.
+
+650
+00:37:32,350 --> 00:37:35,376
+Mom, don't worry about us.
+We'll be fine. She's a great dancer.
+
+651
+00:37:35,486 --> 00:37:38,421
+Well, maybe your mother
+could teach us to do the Charleston.
+
+652
+00:37:38,522 --> 00:37:41,616
+I could probably teach you
+a lot of things, child.
+
+653
+00:37:43,027 --> 00:37:45,495
+<i>Come here.</i>
+
+654
+00:37:45,596 --> 00:37:47,655
+- Don't pay any attention to Nancy.
+- Oh, no.
+
+655
+00:37:47,765 --> 00:37:50,632
+Look, um, I should be
+at the William Penn at 11:00.
+
+656
+00:37:50,735 --> 00:37:53,898
+You and I could, uh, sneak off
+and do some serious catching up.
+
+657
+00:37:54,005 --> 00:37:56,337
+- That sounds like fun, Charlie.
+- Good.
+
+658
+00:37:56,440 --> 00:37:59,466
+<i>That's a lovely dress. Is it rayon?</i>
+
+659
+00:37:59,577 --> 00:38:02,137
+No!
+[Scoffs]
+
+660
+00:38:06,417 --> 00:38:08,885
+You going somewhere, darling?
+
+661
+00:38:08,986 --> 00:38:11,216
+For a walk.
+
+662
+00:38:11,322 --> 00:38:13,847
+You're going to see
+your father, aren't you?
+
+663
+00:38:15,359 --> 00:38:18,157
+So what if I am?
+
+664
+00:38:18,262 --> 00:38:20,856
+What are you gonna say to him?
+
+665
+00:38:22,266 --> 00:38:24,826
+That I wanna go back to New York
+and live with him.
+
+666
+00:38:24,935 --> 00:38:27,699
+I'm not gonna let you do that, George.
+
+667
+00:38:27,805 --> 00:38:30,774
+<i>We can't stay here anymore.</i>
+<i>We have no money.</i>
+
+668
+00:38:33,277 --> 00:38:37,407
+Darling, your father...
+
+669
+00:38:38,716 --> 00:38:40,616
+He doesn't want you.
+
+670
+00:38:40,718 --> 00:38:43,414
+- He does too want me.
+- <i>You don't know him like I do.</i>
+
+671
+00:38:43,521 --> 00:38:47,150
+I know him better than you do, and I know
+that he'll take me back in a minute.
+
+672
+00:38:47,258 --> 00:38:51,024
+George. I know
+this has been hard for you.
+
+673
+00:38:51,128 --> 00:38:54,495
+But things will change soon, I promise.
+
+674
+00:38:54,598 --> 00:38:58,762
+How? How will they change?
+
+675
+00:38:58,869 --> 00:39:02,270
+I'm going dancing tonight
+with Mr. Currell.
+
+676
+00:39:04,408 --> 00:39:08,242
+[Sighs]
+Mom. Listen.
+
+677
+00:39:11,115 --> 00:39:13,379
+Charlie Currell is not interested in you.
+
+678
+00:39:13,484 --> 00:39:17,250
+- You know that for a fact, do you?
+- Yeah. Everybody knows that.
+
+679
+00:39:17,355 --> 00:39:21,155
+That girl he was with today
+is closer to my age than she is to yours.
+
+680
+00:39:21,258 --> 00:39:24,056
+Don't say anything you'll regret.
+
+681
+00:39:24,161 --> 00:39:29,497
+You have two kids, for Christ's sake.
+You're too old for him.
+
+682
+00:39:29,600 --> 00:39:31,158
+Isn't it obvious?
+
+683
+00:39:32,737 --> 00:39:35,137
+It is to everyone else.
+
+684
+00:39:39,877 --> 00:39:45,110
+<i>[Woman] #It's such a cryin' shame</i>
+<i>to play the numbers game #</i>
+
+685
+00:39:45,216 --> 00:39:50,483
+<i># And barely know</i>
+<i>the company you're keepin'#</i>
+
+686
+00:39:50,588 --> 00:39:53,079
+<i># You can take the tears #</i>
+
+687
+00:39:53,190 --> 00:39:55,852
+# Give me the golden years #
+
+688
+00:39:55,960 --> 00:40:01,159
+#The smiles that I'll be reapin'
+while I know each night I'm sleepin' #
+
+689
+00:40:01,265 --> 00:40:03,733
+# I'll wake up to a friend #
+
+690
+00:40:03,834 --> 00:40:07,497
+<i># And another happy end #</i>
+
+691
+00:40:09,240 --> 00:40:11,504
+<i># Has begun #</i>
+
+692
+00:40:11,609 --> 00:40:16,546
+#With my one and only ##
+
+693
+00:40:19,683 --> 00:40:22,618
+- ## [Ends]
+- [Applause]
+
+694
+00:40:24,288 --> 00:40:26,381
+Thank you. Thank you, Tanya.
+Isn't she great?
+
+695
+00:40:26,490 --> 00:40:30,950
+<i>Folks, that was "My One and Only"hit.</i>
+
+696
+00:40:31,061 --> 00:40:33,655
+- <i>[Laughter]</i>
+- Hey. Give me time.
+
+697
+00:40:33,764 --> 00:40:36,562
+Give me time.
+One, two, three.
+
+698
+00:40:36,667 --> 00:40:40,000
+<i># #[Resumes]</i>
+
+699
+00:40:47,845 --> 00:40:49,813
+- Can I help you, ma'am?
+- I'm meeting Mr. Currell.
+
+700
+00:40:49,914 --> 00:40:51,814
+I don't believe Mr. Currell's party
+is here yet, ma'am.
+
+701
+00:40:51,916 --> 00:40:53,850
+But they usually head right up
+to the Starlight Room.
+
+702
+00:40:53,951 --> 00:40:55,851
+Thank you.
+I'll wait for him in the bar.
+
+703
+00:40:55,953 --> 00:40:58,820
+- <i># #[Continues]</i>
+- <i>[Laughter, Chattering]</i>
+
+704
+00:41:00,391 --> 00:41:04,293
+Hey, kid.
+What you doin' here?
+
+705
+00:41:04,395 --> 00:41:06,295
+We're living here now.
+Didn't you get my postcards?
+
+706
+00:41:06,397 --> 00:41:08,422
+Well, yeah, sure I got 'em.
+But I've been on the road.
+
+707
+00:41:08,532 --> 00:41:11,899
+You know how that is. Hey, Carl. Carl.
+You remember my boy George.
+
+708
+00:41:12,002 --> 00:41:15,597
+- Oh, sure, yeah. Hi. How are you?
+- This here's Tanya, our singer.
+
+709
+00:41:15,706 --> 00:41:17,606
+- Hi, cutie.
+- And you know Nate.
+
+710
+00:41:17,708 --> 00:41:20,074
+- Hey! How's it goin', George?
+- It's okay.
+
+711
+00:41:20,177 --> 00:41:22,645
+- All right.
+- Hey, sit down. Sit down.
+
+712
+00:41:24,081 --> 00:41:26,549
+- So where are you livin'?
+- In an apartment on the South Side.
+
+713
+00:41:26,650 --> 00:41:29,813
+- Yeah? Nice place?
+- No, it's mostly working people.
+
+714
+00:41:29,920 --> 00:41:32,514
+That must rankle your mother to no end.
+
+715
+00:41:32,623 --> 00:41:34,648
+Imagine her livin' with the riffraff.
+
+716
+00:41:34,758 --> 00:41:37,625
+- She's fine.
+- Good.
+
+717
+00:41:37,728 --> 00:41:40,788
+Hey, you want a Coke?
+
+718
+00:41:40,898 --> 00:41:42,695
+- You got a Coke?
+- Give the kid a Coke.
+
+719
+00:41:42,800 --> 00:41:46,668
+- I don't want a Coke.
+- What do you want?
+
+720
+00:41:50,441 --> 00:41:52,841
+I want you to take me back
+to New York with you.
+
+721
+00:41:52,943 --> 00:41:56,208
+Take you back? Oh, man.
+
+722
+00:41:56,313 --> 00:41:58,144
+Son, I'd like to do that.
+I really would.
+
+723
+00:41:58,249 --> 00:42:01,082
+But I'm on the road for, like, what,
+five months at least.
+
+724
+00:42:01,185 --> 00:42:03,949
+After this, we go straight to Cleveland.
+And after Cleveland, it's...
+
+725
+00:42:04,054 --> 00:42:06,249
+- Hey, Carl, what's after Cleveland?
+- Chicago.
+
+726
+00:42:06,357 --> 00:42:08,257
+- <i>Chicago.</i>
+- Five weeks.
+
+727
+00:42:08,359 --> 00:42:10,418
+Five weeks in Chicago.
+And then, you know, who knows where?
+
+728
+00:42:10,528 --> 00:42:12,223
+- Kansas City.
+- Kansas City.
+
+729
+00:42:12,329 --> 00:42:14,729
+- After that, Dallas.
+- After that, Dallas. And Dallas...
+
+730
+00:42:14,832 --> 00:42:17,767
+And you'd hate Dallas, George.
+I gotta tell you. What's after Dallas?
+
+731
+00:42:17,868 --> 00:42:19,859
+- Phoenix.
+- Phoenix.
+
+732
+00:42:19,970 --> 00:42:22,905
+Okay. Forget about it.
+I wasn't being serious.
+
+733
+00:42:23,007 --> 00:42:26,170
+I was just kidding anyways.
+I'm gonna stay here.
+
+734
+00:42:26,277 --> 00:42:29,075
+- So how you fixed for money?
+- We're running out.
+
+735
+00:42:29,179 --> 00:42:32,740
+Yeah? You know, I send your mother money
+all the time. She sends it back to me.
+
+736
+00:42:32,850 --> 00:42:34,750
+- She does?
+- Yeah.
+
+737
+00:42:34,852 --> 00:42:36,717
+So I stopped.
+She got a job?
+
+738
+00:42:36,820 --> 00:42:39,755
+Oh, man!
+[Laughing]
+
+739
+00:42:39,857 --> 00:42:42,849
+What was I thinkin'?
+Can you imagine Ann gettin' a job?
+
+740
+00:42:42,960 --> 00:42:45,428
+Your mother always thought
+she was too good to work.
+
+741
+00:42:45,529 --> 00:42:47,963
+I hate to be the one
+to break it to you, kid...
+
+742
+00:42:48,065 --> 00:42:51,262
+but your mother has got
+delusions of grandeur.
+
+743
+00:42:51,368 --> 00:42:53,268
+- No, she doesn't.
+- Mm-hmm.
+
+744
+00:42:53,370 --> 00:42:57,704
+She always figured she was some kind
+of southern royalty, man, you know.
+
+745
+00:42:57,808 --> 00:43:00,800
+But you gotta take it from me.
+In the real world...
+
+746
+00:43:00,911 --> 00:43:02,936
+class doesn't count for anything.
+
+747
+00:43:03,047 --> 00:43:06,107
+If it ain't in the bank,
+it ain't anywhere.
+
+748
+00:43:13,490 --> 00:43:17,654
+Let me see if I got some...
+Hey, Carl.
+
+749
+00:43:19,263 --> 00:43:21,163
+- You got any money on you?
+- No.
+
+750
+00:43:21,265 --> 00:43:24,166
+Don't bullshit me, man.
+Come on. Give me $100. It's for the kid.
+
+751
+00:43:24,268 --> 00:43:27,396
+- I got some.
+- I don't want your money.
+
+752
+00:43:27,504 --> 00:43:30,064
+Wait. Hey, hey.
+Come on, now. Don't be stupid, kid.
+
+753
+00:43:30,174 --> 00:43:33,109
+Take the money.
+Don't be like your mother. Take it...
+
+754
+00:43:33,210 --> 00:43:35,678
+till she finds some other guy
+to pay her way.
+
+755
+00:43:35,779 --> 00:43:38,077
+Did you ever love her?
+
+756
+00:43:38,182 --> 00:43:40,776
+Your mom? Yeah.
+
+757
+00:43:40,884 --> 00:43:42,852
+I loved her a lot.
+
+758
+00:43:45,222 --> 00:43:49,022
+- You ever love me?
+- You're up in five!
+
+759
+00:43:49,126 --> 00:43:52,254
+- I better go.
+- Wait, wait.
+
+760
+00:43:52,363 --> 00:43:55,821
+I still love you, pal.
+You know, it's just...
+
+761
+00:43:55,933 --> 00:43:58,800
+I mean, with my life
+on the road and all...
+
+762
+00:43:58,902 --> 00:44:00,836
+I was never cut out to be a father.
+
+763
+00:44:00,938 --> 00:44:04,704
+Just-Just like your mom
+was never cut out to be a mother.
+
+764
+00:44:04,808 --> 00:44:06,708
+Yeah, well, at least she tries.
+
+765
+00:44:08,412 --> 00:44:10,471
+Yeah, she does try.
+
+766
+00:44:11,982 --> 00:44:15,349
+She loves you, kid.
+Don't ever forget that.
+
+767
+00:44:15,452 --> 00:44:18,285
+See ya.
+
+768
+00:44:19,456 --> 00:44:21,356
+Hey.
+
+769
+00:44:21,458 --> 00:44:23,824
+[Clicks Tongue]
+I'll see you, George.
+
+770
+00:44:29,033 --> 00:44:31,001
+I'll see you around.
+
+771
+00:44:33,070 --> 00:44:35,061
+You owe me a hundred, Dan.
+
+772
+00:44:36,640 --> 00:44:38,608
+<i># #[Piano]</i>
+
+773
+00:44:44,348 --> 00:44:46,316
+- Thank you.
+- Ma'am.
+
+774
+00:45:01,632 --> 00:45:04,760
+<i>Paging Mr. Foster.</i>
+<i>There's a call here for Mr. Foster.</i>
+
+775
+00:45:04,868 --> 00:45:07,666
+<i>Call for Mr. Foster at reception.</i>
+
+776
+00:45:12,643 --> 00:45:16,204
+[Chattering, Laughing]
+
+777
+00:45:24,922 --> 00:45:28,858
+When your old friend shows up, you can
+dance with her once, but that's all.
+
+778
+00:45:28,959 --> 00:45:32,122
+I doubt she'll even come, doll.
+She's got kids to take care of.
+
+779
+00:45:32,229 --> 00:45:34,891
+- <i>Well, then it's probably past her bedtime.</i>
+- <i>You...</i>
+
+780
+00:45:34,998 --> 00:45:37,865
+[Elevator Bell Dings]
+
+781
+00:45:39,169 --> 00:45:42,297
+- <i>[Man] All aboard!</i>
+- <i>[Man #2] We can all get in.</i>
+
+782
+00:45:57,654 --> 00:45:59,747
+<i>[Bartender]</i>
+<i>Martini? Certainly, ma'am.</i>
+
+783
+00:46:21,311 --> 00:46:24,246
+- Hi, there. I'm Ann.
+- Hi.
+
+784
+00:46:24,348 --> 00:46:26,748
+I'm Frank.
+
+785
+00:46:26,850 --> 00:46:28,875
+- Hello, Frank.
+- Hello.
+
+786
+00:46:28,986 --> 00:46:32,683
+I hope you don't mind me
+coming over here to talk to you.
+
+787
+00:46:32,790 --> 00:46:34,758
+Not at all, no.
+
+788
+00:46:37,161 --> 00:46:39,789
+I don't normally do this.
+
+789
+00:46:39,897 --> 00:46:41,990
+- Ma'am.
+- Don't you?
+
+790
+00:46:44,268 --> 00:46:48,466
+I'm a little lonely tonight.
+Are you alone too?
+
+791
+00:46:50,340 --> 00:46:52,308
+Yeah, I'm-I'm alone.
+
+792
+00:46:53,844 --> 00:46:57,940
+- From out of town?
+- Well, originally, yeah.
+
+793
+00:46:58,048 --> 00:47:02,485
+So you're staying here at the hotel?
+
+794
+00:47:02,586 --> 00:47:05,453
+Well, actually, Ann,
+l-I work at the hotel.
+
+795
+00:47:05,556 --> 00:47:08,719
+Oh, do you?
+Well, what do you do?
+
+796
+00:47:11,695 --> 00:47:14,391
+[Sighs]
+I'm a detective.
+
+797
+00:47:14,498 --> 00:47:16,989
+And I'm arresting you for solicitation.
+
+798
+00:47:18,602 --> 00:47:21,196
+- Prostitution.
+- [Laughing]
+
+799
+00:47:25,042 --> 00:47:27,977
+You had me going there, Frank.
+
+800
+00:47:28,078 --> 00:47:30,478
+I'm not kidding, ma'am.
+
+801
+00:47:31,982 --> 00:47:33,882
+- [Chuckles]
+- Now, listen, you have a choice here.
+
+802
+00:47:33,984 --> 00:47:36,009
+I can either handcuff you
+right here at the bar...
+
+803
+00:47:36,119 --> 00:47:39,486
+which would be very unpleasant for you,
+for me and for the hotel...
+
+804
+00:47:39,590 --> 00:47:45,153
+or you can walk quietly with me to the back
+while we wait for a police officer.
+
+805
+00:47:47,064 --> 00:47:50,898
+All right. Come on, doll.
+
+806
+00:47:59,042 --> 00:48:01,237
+- [Line Ringing]
+- It's ringing.
+
+807
+00:48:03,881 --> 00:48:05,781
+- <i># #[Up-tempo Jazz]</i>
+- <i>[Phone Ringing]</i>
+
+808
+00:48:05,883 --> 00:48:09,284
+'Cause you know how he starts
+playing something, and it's totally wrong.
+
+809
+00:48:09,386 --> 00:48:13,015
+- <i>[Ringing Continues]</i>
+- Hello.
+
+810
+00:48:13,123 --> 00:48:14,818
+Yeah. Who is it?
+
+811
+00:48:14,925 --> 00:48:17,393
+Hey, hey, hey! Hey, y'all, keep it down,
+for Christ's sake.
+
+812
+00:48:17,494 --> 00:48:19,689
+- Who is it, Dan? Another girlfriend?
+- Give me that thing.
+
+813
+00:48:19,796 --> 00:48:22,128
+[Tanya]
+Hello? H...
+
+814
+00:48:22,232 --> 00:48:25,224
+[Dan] Come on, baby.
+Give me that phone. Stop fooling around.
+
+815
+00:48:25,335 --> 00:48:29,533
+Yeah. Hello? Who is it?
+
+816
+00:48:29,640 --> 00:48:31,540
+- Oh, well.
+- <i>[Replaces Handset In Cradle]</i>
+
+817
+00:48:31,642 --> 00:48:33,610
+[Line Disconnects]
+
+818
+00:48:34,645 --> 00:48:36,545
+There's no one there.
+
+819
+00:48:57,501 --> 00:49:00,299
+- [Chattering]
+- Come on.
+
+820
+00:49:00,404 --> 00:49:02,372
+- Come on.
+- No, wait!
+
+821
+00:49:04,875 --> 00:49:06,934
+Thank you.
+
+822
+00:49:07,044 --> 00:49:09,012
+I'd like to, um...
+
+823
+00:49:11,682 --> 00:49:13,775
+I need to explain.
+
+824
+00:49:13,884 --> 00:49:16,148
+You don't need to explain anything to me.
+
+825
+00:49:16,253 --> 00:49:18,221
+You just need to get home.
+
+826
+00:49:20,424 --> 00:49:22,392
+Thank you.
+
+827
+00:49:27,097 --> 00:49:30,396
+Well, good night.
+
+828
+00:49:30,500 --> 00:49:32,400
+Well, morning.
+[Chuckles]
+
+829
+00:49:32,502 --> 00:49:34,436
+Yeah.
+
+830
+00:49:34,538 --> 00:49:36,506
+Thank you.
+
+831
+00:49:41,011 --> 00:49:43,377
+Oh, uh, Bud?
+
+832
+00:49:45,749 --> 00:49:49,947
+I would really appreciate it
+if this didn't get around.
+
+833
+00:49:50,053 --> 00:49:51,953
+If what didn't get around, ma'am?
+
+834
+00:49:52,055 --> 00:49:54,319
+[Chuckles]
+
+835
+00:49:54,424 --> 00:49:57,484
+You're the most beautiful woman
+I ever saw, Mrs. Devereaux.
+
+836
+00:50:15,645 --> 00:50:17,772
+You take care of yourself, ma'am.
+
+837
+00:50:25,088 --> 00:50:27,750
+Bud?
+
+838
+00:50:27,858 --> 00:50:32,056
+You're the first real gentleman
+I've met since I left New York.
+
+839
+00:50:45,308 --> 00:50:48,937
+- Where were you?
+- Car broke down.
+
+840
+00:50:49,046 --> 00:50:51,139
+- What was wrong with it?
+- How should I know?
+
+841
+00:50:51,248 --> 00:50:54,308
+Bud fixed it. Ask him.
+Where's your brother?
+
+842
+00:50:54,418 --> 00:50:57,945
+- He had rehearsal.
+- Oh. Well, get your things together.
+
+843
+00:50:58,055 --> 00:51:00,853
+His too. We're leaving.
+
+844
+00:51:00,957 --> 00:51:03,357
+We're not goin' back to Dad now, are we?
+
+845
+00:51:04,895 --> 00:51:07,557
+You saw him, didn't you?
+
+846
+00:51:07,664 --> 00:51:10,565
+Yeah, I saw him, and he's a shit.
+
+847
+00:51:10,667 --> 00:51:13,795
+Don't talk like that about your father.
+
+848
+00:51:13,904 --> 00:51:16,429
+You'll regret it one day.
+
+849
+00:51:16,540 --> 00:51:19,441
+What do you care? Hmm?
+
+850
+00:51:19,543 --> 00:51:22,637
+It's pretty obvious that you're not
+thinking about him these days.
+
+851
+00:51:24,414 --> 00:51:27,008
+I have been loyal to your father...
+
+852
+00:51:27,117 --> 00:51:30,280
+since the day I met him...
+
+853
+00:51:30,387 --> 00:51:33,720
+which is something no one would make
+the mistake of saying about him.
+
+854
+00:51:33,824 --> 00:51:35,985
+That's what I said. He's a shit.
+
+855
+00:51:36,093 --> 00:51:39,460
+Your father adores you.
+
+856
+00:51:39,563 --> 00:51:40,996
+Right.
+
+857
+00:51:47,904 --> 00:51:50,134
+When you were two...
+
+858
+00:51:50,240 --> 00:51:52,140
+or maybe three years old...
+
+859
+00:51:52,242 --> 00:51:54,335
+you came down with something awful.
+
+860
+00:51:54,444 --> 00:51:56,344
+Like an earache or something.
+
+861
+00:51:56,446 --> 00:51:58,346
+Well, whatever it was, you were crying...
+
+862
+00:51:58,448 --> 00:52:01,747
+and nothin' anybody did
+could make you stop.
+
+863
+00:52:01,852 --> 00:52:05,686
+Until your father came into your room...
+
+864
+00:52:05,789 --> 00:52:09,919
+sat down on your bed,
+and started playing his clarinet.
+
+865
+00:52:11,328 --> 00:52:13,592
+- He did?
+- Mm-hmm.
+
+866
+00:52:13,697 --> 00:52:17,155
+And whenever he would stop,
+you would just start crying again.
+
+867
+00:52:17,267 --> 00:52:21,966
+So he just kept on playing nonstop
+for what felt like days.
+
+868
+00:52:22,072 --> 00:52:24,939
+What happened?
+
+869
+00:52:25,041 --> 00:52:27,009
+You got better.
+
+870
+00:52:28,912 --> 00:52:31,210
+That's the biggest bunch of crap
+I've ever heard.
+
+871
+00:52:34,684 --> 00:52:38,780
+There are some things
+that you are too young to understand.
+
+872
+00:52:38,889 --> 00:52:41,289
+Such as?
+
+873
+00:52:41,391 --> 00:52:45,725
+Such as you're not the only one
+who gets lonely around here.
+
+874
+00:52:47,197 --> 00:52:49,165
+<i>[Keys Jingling]</i>
+
+875
+00:52:59,576 --> 00:53:01,544
+George.
+
+876
+00:53:05,248 --> 00:53:07,341
+- You guys leavin'?
+- Yeah.
+
+877
+00:53:07,450 --> 00:53:11,147
+They'll probably rent your apartment out
+to some loser.
+
+878
+00:53:11,254 --> 00:53:13,586
+Probably will.
+
+879
+00:53:15,759 --> 00:53:17,386
+George, we should get going.
+
+880
+00:53:20,230 --> 00:53:22,721
+I'll see you around.
+
+881
+00:53:22,832 --> 00:53:25,528
+Yeah. Yeah, I'll see you around.
+
+882
+00:53:40,317 --> 00:53:43,115
+<i>[Starts Engine]</i>
+
+883
+00:53:47,524 --> 00:53:51,085
+[Ann]
+George. Mirror.
+
+884
+00:53:51,194 --> 00:53:52,991
+Bye.
+
+885
+00:53:53,096 --> 00:53:54,961
+<i>[Robbie]</i>
+<i>George, this is ridiculous.</i>
+
+886
+00:53:55,065 --> 00:53:56,965
+Is it a family tragedy, boys?
+
+887
+00:53:57,067 --> 00:53:59,126
+We're going to our Aunt Hope's
+in St. Louis.
+
+888
+00:53:59,236 --> 00:54:01,136
+That counts as a tragedy.
+
+889
+00:54:01,238 --> 00:54:03,536
+Okay, everybody, let's, uh...
+let's take five.
+
+890
+00:54:07,677 --> 00:54:11,010
+- <i>[Ann] Thank you.</i>
+- The doctors have tried everything.
+
+891
+00:54:12,515 --> 00:54:15,973
+Eat up, boys. Breakfast is
+the most important meal of the day.
+
+892
+00:54:16,086 --> 00:54:18,281
+Especially when it's your only meal
+of the day.
+
+893
+00:54:20,190 --> 00:54:22,317
+You sure Aunt Hope has room for us all?
+
+894
+00:54:22,425 --> 00:54:26,919
+Your Aunt Hope and Uncle Tom
+have a comfortable if modest home.
+
+895
+00:54:27,030 --> 00:54:28,930
+<i>Uncle Tom's Cabin. How appropriate.</i>
+
+896
+00:54:29,032 --> 00:54:32,126
+- Aunt Hope... the woman that God forgot.
+- [Chuckles]
+
+897
+00:54:32,235 --> 00:54:34,601
+Your Aunt Hope is a good person.
+
+898
+00:54:34,704 --> 00:54:36,797
+What happened,
+did you run out of ex-boyfriends?
+
+899
+00:54:36,906 --> 00:54:39,704
+<i>[Robbie] You did say you'd never</i>
+<i>go back there, remember?</i>
+
+900
+00:54:39,809 --> 00:54:43,404
+Well, I said a lot of things
+that don't mean much now.
+
+901
+00:54:43,513 --> 00:54:47,779
+- Why are we going there if you hate her so much?
+- I love my sister, George.
+
+902
+00:54:47,884 --> 00:54:51,718
+It's being near her that I hate.
+
+903
+00:54:51,821 --> 00:54:56,019
+Things will turn our way soon.
+Now eat your food.
+
+904
+00:55:02,666 --> 00:55:04,566
+Looking for somebody?
+
+905
+00:55:06,536 --> 00:55:08,595
+Yeah. Ann Devereaux.
+
+906
+00:55:10,607 --> 00:55:12,199
+They left yesterday.
+
+907
+00:55:16,012 --> 00:55:17,673
+She say where they were going?
+
+908
+00:55:19,849 --> 00:55:22,682
+- Who wants to know?
+- Her husband.
+
+909
+00:55:24,688 --> 00:55:27,156
+Your wife's a beautiful woman.
+
+910
+00:55:27,257 --> 00:55:29,350
+<i>She's got a lot of class.</i>
+
+911
+00:55:30,960 --> 00:55:34,123
+Yeah, well, I guess
+I knew that before you did.
+
+912
+00:55:36,366 --> 00:55:39,699
+They're heading west.
+Said something about her sister.
+
+913
+00:55:40,904 --> 00:55:43,873
+- Thanks, pal.
+- <i>Don't mention it.</i>
+
+914
+00:55:47,243 --> 00:55:49,905
+<i>[George Narrating] My mother always said</i>
+<i>she'd have to be desperate...</i>
+
+915
+00:55:50,013 --> 00:55:51,981
+<i>to go to her sister's in St. Louis.</i>
+
+916
+00:55:52,082 --> 00:55:53,982
+<i>So I guess we were officially desperate.</i>
+
+917
+00:55:54,084 --> 00:55:57,850
+- Tom?
+- Ann? Is that you?
+
+918
+00:55:57,954 --> 00:55:59,888
+Hi, Tom!
+
+919
+00:55:59,989 --> 00:56:01,957
+Pull up around the back.
+
+920
+00:56:03,993 --> 00:56:07,019
+- Where'd you get that car?
+- <i>[Ann Laughs]</i>
+
+921
+00:56:10,100 --> 00:56:12,159
+Hey, Hope, your crazy sister.
+
+922
+00:56:14,204 --> 00:56:16,468
+Robbie, you can have
+half your Uncle Tom's pork chop.
+
+923
+00:56:16,573 --> 00:56:18,564
+Give him the meaty half, Tom.
+
+924
+00:56:18,675 --> 00:56:20,609
+- All right.
+- And George can have my mashed potatoes.
+
+925
+00:56:20,710 --> 00:56:22,735
+- I don't want your mashed potatoes, Aunt Hope.
+- Of course you do.
+
+926
+00:56:22,846 --> 00:56:24,746
+You're our guests,
+and we're happy to feed you...
+
+927
+00:56:24,848 --> 00:56:28,409
+- even if it is with the food off our own plates.
+- Thank your Aunt Hope, George.
+
+928
+00:56:28,518 --> 00:56:32,045
+<i>No need to thank me. You're family.</i>
+<i>Good Christian people help their families...</i>
+
+929
+00:56:32,155 --> 00:56:34,749
+even when they do show up hungry
+and without a word of warning.
+
+930
+00:56:34,858 --> 00:56:36,917
+Well, especially then.
+
+931
+00:56:37,026 --> 00:56:40,462
+So, from what you say, it sounds like you don't
+even know yourselves where you're going.
+
+932
+00:56:40,563 --> 00:56:42,724
+The boys and I are on an adventure.
+
+933
+00:56:42,832 --> 00:56:45,801
+Oh.
+[Chuckles]
+
+934
+00:56:45,902 --> 00:56:50,134
+I only wish Father were here to see where
+his little darling is having supper tonight.
+
+935
+00:56:50,240 --> 00:56:53,437
+Apple doesn't fall far
+from the tree after all, does it?
+
+936
+00:56:53,543 --> 00:56:55,670
+Guess not.

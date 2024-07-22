@@ -1,0 +1,224 @@
+﻿1
+00:00:00,001 --> 00:00:01,634
+<font color="#80890a">Lyricist -- Ding tonsing</font>
+
+2
+00:00:02,031 --> 00:00:04,396
+<font color="#80890a">You walk into the room</font>
+
+3
+00:00:04,889 --> 00:00:08,238
+<font color="#80890a">So perfect but unaware</font>
+
+4
+00:00:08,466 --> 00:00:11,410
+<font color="#80890a">Making me stop and stare</font>
+
+5
+00:00:11,855 --> 00:00:13,982
+<font color="#80890a">Every time</font>
+
+6
+00:00:14,640 --> 00:00:17,450
+<font color="#80890a">I heard he broke your heart</font>
+
+7
+00:00:17,720 --> 00:00:20,601
+<font color="#80890a">Can I just fix you girl?</font>
+
+8
+00:00:20,887 --> 00:00:23,928
+<font color="#80890a">Show you a different world?</font>
+
+9
+00:00:23,937 --> 00:00:24,743
+<font color="#80890a">oh</font>
+
+10
+00:00:27,093 --> 00:00:30,013
+<font color="#80890a">I'll take you anywhere</font>
+
+11
+00:00:32,895 --> 00:00:35,680
+<font color="#80890a">I'll put you on a throne</font>
+
+12
+00:00:39,359 --> 00:00:43,446
+<font color="#80890a">I'll lay down my heart, I swear</font>
+
+13
+00:00:43,683 --> 00:00:48,243
+<font color="#80890a">And I'll make sure that you'll never be alone</font>
+
+14
+00:00:50,434 --> 00:00:54,442
+<font color="#80890a">Only my shadow knows</font>
+
+15
+00:00:54,703 --> 00:00:56,981
+<font color="#80890a">How I feel about you</font>
+
+16
+00:00:57,013 --> 00:01:00,840
+<font color="#80890a">Only my shadow goes</font>
+
+17
+00:01:00,934 --> 00:01:03,656
+<font color="#80890a">Where I dream of you and me</font>
+
+18
+00:01:03,727 --> 00:01:06,408
+<font color="#80890a">Should I go or wait?</font>
+
+19
+00:01:06,409 --> 00:01:10,091
+<font color="#80890a">Is it too soon, too late?</font>
+
+20
+00:01:12,131 --> 00:01:16,370
+<font color="#80890a">Only my shadow knows</font>
+
+21
+00:01:19,420 --> 00:01:22,403
+<font color="#80890a">I've been loving you so long</font>
+
+22
+00:01:23,127 --> 00:01:26,087
+<font color="#80890a">And now that I got the chance</font>
+
+23
+00:01:26,302 --> 00:01:32,101
+<font color="#80890a">I see you need to dance on your own</font>
+
+24
+00:01:32,102 --> 00:01:35,116
+<font color="#80890a">So I'll wait another day</font>
+
+25
+00:01:35,377 --> 00:01:38,393
+<font color="#80890a">Maybe another year</font>
+
+26
+00:01:38,789 --> 00:01:42,139
+<font color="#80890a">I'm gonna be right here</font>
+
+27
+00:01:42,307 --> 00:01:44,053
+<font color="#80890a">oh</font>
+
+28
+00:01:44,760 --> 00:01:48,482
+<font color="#80890a">I'll take you anywhere</font>
+
+29
+00:01:50,998 --> 00:01:53,918
+<font color="#80890a">I'll put you on a throne</font>
+
+30
+00:01:57,337 --> 00:02:01,377
+<font color="#80890a">I'll lay down my heart, I swear</font>
+
+31
+00:02:01,624 --> 00:02:05,893
+<font color="#80890a">And I'll make sure that you'll never be alone</font>
+
+32
+00:02:06,252 --> 00:02:07,950
+<font color="#80890a">(alone)</font>
+
+33
+00:02:08,267 --> 00:02:12,338
+<font color="#80890a">Only my shadow knows</font>
+
+34
+00:02:12,505 --> 00:02:14,751
+<font color="#80890a">How I feel about you</font>
+
+35
+00:02:14,752 --> 00:02:19,045
+<font color="#80890a">Only my shadow goes</font>
+
+36
+00:02:19,046 --> 00:02:21,585
+<font color="#80890a">Where I dream of you and me</font>
+
+37
+00:02:21,586 --> 00:02:24,482
+<font color="#80890a">Should I go or wait?</font>
+
+38
+00:02:24,483 --> 00:02:28,331
+<font color="#80890a">Is it too soon, too late?</font>
+
+39
+00:02:29,683 --> 00:02:34,148
+<font color="#80890a">Cause only my shadow knows</font>
+
+40
+00:02:34,704 --> 00:02:38,259
+<font color="#80890a">I wish I could say all these words</font>
+
+41
+00:02:38,474 --> 00:02:43,418
+<font color="#80890a">All these things that your heart never heard</font>
+
+42
+00:02:44,252 --> 00:02:45,497
+<font color="#80890a">Yeah</font>
+
+43
+00:02:46,664 --> 00:02:53,720
+<font color="#80890a">But I saw the pain in your eyes and it sealed my lips</font>
+
+44
+00:02:55,094 --> 00:02:59,077
+<font color="#80890a">Only my shadow knows</font>
+
+45
+00:02:59,442 --> 00:03:01,323
+<font color="#80890a">How I feel about you</font>
+
+46
+00:03:01,324 --> 00:03:05,624
+<font color="#80890a">Only my shadow goes</font>
+
+47
+00:03:05,625 --> 00:03:08,254
+<font color="#80890a">Where I dream of you and me</font>
+
+48
+00:03:08,255 --> 00:03:11,024
+<font color="#80890a">Should I go or wait?</font>
+
+49
+00:03:11,025 --> 00:03:14,831
+<font color="#80890a">Is it too soon, too late?</font>
+
+50
+00:03:16,950 --> 00:03:21,598
+<font color="#80890a">Only my shadow knows</font>
+
+51
+00:03:22,145 --> 00:03:23,693
+<font color="#80890a">EYYY</font>
+
+52
+00:03:24,765 --> 00:03:27,323
+<font color="#80890a">Only my shadow knows</font>
+
+53
+00:03:28,117 --> 00:03:32,180
+<font color="#80890a">oh oh</font>
+
+54
+00:03:34,871 --> 00:03:37,839
+<font color="#80890a">Na woo</font>
+
+55
+00:03:38,021 --> 00:03:40,370
+<font color="#80890a">Na woo</font>
+
+56
+00:03:41,656 --> 00:03:46,219
+<font color="#80890a">Only my shadow knows</font>
+

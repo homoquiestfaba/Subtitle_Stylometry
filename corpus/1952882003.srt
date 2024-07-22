@@ -1,0 +1,3852 @@
+1
+00:00:01,235 --> 00:00:06,797
+ 
+
+2
+00:00:06,876 --> 00:00:13,290
+ 
+
+3
+00:00:52,000 --> 00:00:52,600
+Down 'scope.
+
+4
+00:00:53,738 --> 00:00:55,638
+- Take it down Mr Davis.
+- Aye Captain.
+
+5
+00:00:56,504 --> 00:01:00,797
+Helm! Ahead two thirds!
+Left 25 degrees rudder!
+
+6
+00:01:00,898 --> 00:01:03,697
+Ahead two thirds, left
+25 degrees rudder.  Aye!
+
+7
+00:01:05,257 --> 00:01:07,132
+
+
+8
+00:01:07,533 --> 00:01:09,933
+Make your depth at 1000 feet.
+
+9
+00:01:11,434 --> 00:01:13,834
+
+
+10
+00:01:21,569 --> 00:01:25,837
+Rig for silent running. 
+We're heading into soviet waters.
+
+11
+00:01:28,238 --> 00:01:33,438
+<i>Con Sonar, how's that give me that 
+1506 boom for an air loren.</i>
+
+
+12
+00:01:33,516 --> 00:01:38,154
+Sonar Con, set fathometer to 
+automatic sounding every ten seconds.
+
+13
+00:01:38,714 --> 00:01:41,649
+Palmer initiate bottom contour mapping.
+
+14
+00:01:41,650 --> 00:01:46,251
+Boomer, underize sonar.  
+Ahab, start scanning for 
+low freq prop noises.
+
+15
+00:01:46,352 --> 00:01:49,652
+First one to bag a Russian 
+boomer gets a case of Highlight.
+
+16
+00:01:51,753 --> 00:01:52,853
+That beer is mine!
+
+17
+00:02:26,504 --> 00:02:30,434
+Con Sonar gain new broadband 
+contact bearing 3-2-5.
+
+18
+00:02:31,320 --> 00:02:34,021
+Sonar Con identify contact.
+
+19
+00:02:34,462 --> 00:02:36,018
+Contact is unknown... 
+
+20
+00:02:36,119 --> 00:02:40,619
+... setting tracker 2A and 
+calculating solutions.
+- Con Sonar... there's nothing!
+
+21
+00:02:40,575 --> 00:02:42,191
+No sir, you're wrong.
+
+22
+00:02:42,292 --> 00:02:44,392
+<i>There's definately 
+something out there!</i>
+
+23
+00:02:49,140 --> 00:02:53,103
+- Contact now bearing 2-2-5.
+- What's going on Bill?
+
+24
+00:02:53,289 --> 00:02:56,390
+Nothing, sir.  Seaman A has 
+just picked up a thermal up vent.
+
+25
+00:02:56,491 --> 00:02:58,191
+No, sir, that's' not what it was!
+
+26
+00:02:59,620 --> 00:03:00,663
+Give me a headset.
+
+27
+00:03:09,369 --> 00:03:11,217
+Contact now angling down.
+
+28
+00:03:12,377 --> 00:03:13,951
+Sonar, I'm not hearing anything.
+
+29
+00:03:15,452 --> 00:03:16,753
+It's not really a sound, sir.
+
+30
+00:03:17,641 --> 00:03:18,627
+It's more of an emptiness.
+
+31
+00:03:20,628 --> 00:03:21,728
+Like a hole in the water.
+
+32
+00:03:23,622 --> 00:03:26,237
+Give me continuous range reports
+on close abort contact.
+
+33
+00:03:27,038 --> 00:03:28,251
+Aye aye, sir.
+
+34
+00:03:30,152 --> 00:03:31,352
+You don't even drink!
+
+35
+00:03:41,452 --> 00:03:44,552
+<i>Depth is 1500 feet
+and rising.</i>
+
+36
+00:03:44,604 --> 00:03:48,199
+What is it, sir?
+I didn't hear a damned thing, Doc
+
+37
+00:03:49,174 --> 00:03:53,075
+But what if it's one of those new yankee 
+class boats intel's been chattering about?
+
+38
+00:03:55,554 --> 00:03:58,262
+The Reds may have solved their noise problem.
+
+39
+00:04:03,826 --> 00:04:06,443
+They may have solved their depth problems.
+- Con Sonar...
+
+40
+00:04:06,544 --> 00:04:07,944
+... working bottom readings.
+
+41
+00:04:08,020 --> 00:04:10,560
+Close aboard, contact, still diving.
+
+42
+00:04:11,286 --> 00:04:14,019
+- What the hell is going on?
+- It's the YKD.  
+It's going into the trash.
+
+43
+00:04:19,869 --> 00:04:23,315
+Depth is 1700 and rising.
+
+44
+00:04:31,988 --> 00:04:35,957
+No, we're done.  Disengage!
+Level at 1700.
+
+45
+00:04:36,158 --> 00:04:38,458
+Level again, 1700, aye.
+
+46
+00:04:38,473 --> 00:04:40,730
+But sir, he's still down there.
+
+47
+00:04:42,145 --> 00:04:44,271
+I'm not driving my boat into a tunnel after an...
+
+48
+00:04:44,372 --> 00:04:46,672
+... imaginary bogie 
+a seaman may have.
+
+49
+00:04:47,106 --> 00:04:50,232
+We'll take pictures.
+And send your tape to Norton.
+
+50
+00:04:51,233 --> 00:04:54,032
+Maybe the spooks can figure out 
+what the hell you saw.
+
+51
+00:04:56,082 --> 00:04:56,971
+Up Perascope.
+
+52
+00:04:58,372 --> 00:05:01,472
+Swing us around to the mouth of
+the trench... nice and slow!
+
+53
+00:05:01,372 --> 00:05:02,472
+Aye aye, Captain.
+
+54
+00:05:10,938 --> 00:05:12,958
+Say cheese.
+
+55
+00:05:30,459 --> 00:05:32,358
+All heads to the battle stations!
+
+56
+00:05:32,459 --> 00:05:34,359
+
+
+57
+00:06:17,558 --> 00:06:18,258
+Boomer.
+
+58
+00:06:20,727 --> 00:06:23,102
+Boomer, you there, man?
+Come on, get up!
+
+59
+00:06:54,557 --> 00:06:56,020
+No, no!
+
+60
+00:08:53,223 --> 00:08:54,324
+Shit.
+
+61
+00:08:58,625 --> 00:08:59,625
+Doc
+
+62
+00:09:02,926 --> 00:09:03,526
+Doc
+
+63
+00:09:05,626 --> 00:09:06,226
+Doc!
+
+64
+00:09:08,627 --> 00:09:09,227
+Doc
+
+65
+00:09:09,357 --> 00:09:12,346
+- Call me Michelle.
+- Right, sorry, Michelle.
+
+66
+00:09:12,380 --> 00:09:13,159
+They're here.
+
+67
+00:09:14,660 --> 00:09:16,660
+- Let's see if it works.
+- Did you get fired?
+
+68
+00:09:17,410 --> 00:09:20,666
+I... didn't get fired.
+I'm on the symbatical.
+
+69
+00:09:21,441 --> 00:09:23,321
+What's up with this broken boat?
+
+70
+00:09:23,821 --> 00:09:27,021
+The institution had some doubts 
+about the validity of my research.
+
+71
+00:09:27,655 --> 00:09:29,416
+Because you talk to whales?
+
+72
+00:09:29,517 --> 00:09:31,818
+If you say it like that, 
+then I do sound crazy.
+
+73
+00:09:32,048 --> 00:09:33,185
+Am I gonna get paid?
+
+74
+00:09:34,286 --> 00:09:37,786
+- I don't know... it depends on 
+if you can get that engine fixed.
+- Please.
+
+75
+00:09:42,687 --> 00:09:45,586
+<i>Initiating whalesong generator.</i>
+
+76
+00:09:50,560 --> 00:09:52,630
+We got birds. 
+That's a good sign.
+
+77
+00:09:59,690 --> 00:10:00,635
+Alright, I got a signal.
+
+78
+00:10:07,435 --> 00:10:08,336
+Ok
+
+79
+00:10:09,312 --> 00:10:12,024
+Initiating sample HB-12-A.
+
+80
+00:10:12,625 --> 00:10:15,825
+The native call of the 
+large male humpback whale.
+
+81
+00:10:15,909 --> 00:10:18,976
+We're using 160 decibels. 
+Since the speed of sound...
+
+82
+00:10:19,077 --> 00:10:20,877
+is four times faster
+under water...
+
+83
+00:10:20,977 --> 00:10:24,276
+We expect to attract females from
+hundreds of miles away.
+
+84
+00:10:24,559 --> 00:10:26,189
+Just like me.
+
+85
+00:10:27,139 --> 00:10:33,627
+Actually, the other purpose of the 
+whalesong generator is to warn whales 
+to stay away from hazardous areas.
+
+86
+00:10:33,755 --> 00:10:36,825
+For example, Navy sonar, 
+which is so powerful...
+
+87
+00:10:36,926 --> 00:10:40,725
+that it's irritating.  
+It's even harmful to the whale's 
+natural ability to navigate...
+
+88
+00:10:40,590 --> 00:10:41,155
+- Michelle!
+- The whale's behavior is completely modified
+to avoid potentially deadly situations...
+
+89
+00:10:41,256 --> 00:10:42,756
+Michelle!
+Look.
+
+90
+00:10:43,457 --> 00:10:43,957
+Look.
+
+91
+00:10:44,558 --> 00:10:45,159
+Look.
+
+92
+00:10:45,260 --> 00:10:46,360
+Michelle, look!
+
+93
+00:10:46,461 --> 00:10:47,461
+Look.
+Look.
+
+94
+00:10:49,097 --> 00:10:50,060
+- We did it.
+- It worked?
+
+95
+00:10:50,610 --> 00:10:51,495
+- It works!
+- We did it.
+
+96
+00:10:52,496 --> 00:10:54,996
+We did it.
+It worked.
+
+97
+00:10:55,650 --> 00:10:58,058
+Oh, my God.
+Look, look?
+
+98
+00:10:58,659 --> 00:11:00,058
+Oh, my God!
+It worked! It worked!
+
+99
+00:11:00,359 --> 00:11:01,059
+OK, ok, um, um...
+
+100
+00:11:01,263 --> 00:11:04,539
+uh sample.
+30-31-32
+
+101
+00:11:04,640 --> 00:11:07,340
+Right, right, 31... 30-31-32
+
+102
+00:11:16,615 --> 00:11:18,895
+- There!  Look!  They're reacting!
+- Here comes another.
+
+103
+00:11:19,196 --> 00:11:20,895
+They're, they're pumping.
+
+104
+00:11:26,297 --> 00:11:27,997
+Oh, I can't believe it.
+
+105
+00:11:34,684 --> 00:11:36,172
+Where they all going?
+
+106
+00:11:37,273 --> 00:11:38,473
+Something must've spooked them.
+
+107
+00:11:39,973 --> 00:11:40,573
+Yes
+
+108
+00:11:44,389 --> 00:11:45,549
+Where are they going?
+
+109
+00:11:48,626 --> 00:11:50,270
+Turn it off.
+Turn it OFF!
+Turn it off!
+
+110
+00:11:50,371 --> 00:11:51,271
+Okay, I'm getting it.
+Okay, alright.
+
+111
+00:11:53,779 --> 00:11:55,444
+There's something down there.
+
+112
+00:12:08,756 --> 00:12:10,417
+Maybe we should get out of here.
+
+113
+00:12:15,018 --> 00:12:15,805
+Oh, my God.
+
+114
+00:12:36,369 --> 00:12:38,198
+Dr. Michelle Herman.
+
+115
+00:12:39,780 --> 00:12:43,615
+I'm Lieutenant-Commander Starbuck, USS Pequod. 
+I need you to come onboard, ma'am.
+
+116
+00:12:45,401 --> 00:12:48,356
+- Why?
+- Everything will be explained 
+once we're on our way.
+
+117
+00:12:50,446 --> 00:12:52,499
+No, I'm not getting on that thing.
+
+118
+00:12:53,700 --> 00:12:54,849
+I'm afraid I must insist,
+ma'am.
+
+119
+00:12:56,650 --> 00:12:57,750
+Oh, okay.
+
+120
+00:12:58,851 --> 00:12:59,551
+Wait.
+
+121
+00:12:59,879 --> 00:13:01,090
+- Look, ok, look.
+- Captain.
+
+122
+00:13:01,191 --> 00:13:03,091
+I'm not the Captain,
+I'm the executive officer.
+
+123
+00:13:04,306 --> 00:13:06,415
+Alright, then can I speak to 
+your superior?
+
+124
+00:13:06,916 --> 00:13:09,816
+Captain Ahab is not feeling well...
+
+125
+00:13:10,142 --> 00:13:13,096
+but I have orders to commandeer 
+your equipment and your services.
+
+126
+00:13:14,029 --> 00:13:15,721
+And what if I refuse?
+
+127
+00:13:16,022 --> 00:13:18,522
+Then in accordance with the 
+suspension clause Article 1...
+
+128
+00:13:18,699 --> 00:13:20,399
+Section 9 of the 
+United States Constitution...
+
+129
+00:13:20,571 --> 00:13:23,807
+I will order these gentlemen 
+to compel you to cooperate.
+
+130
+00:13:25,175 --> 00:13:28,814
+Pip, call the institution and ask them...
+
+131
+00:13:28,815 --> 00:13:30,115
+My lawyer's name is Mihad.
+
+132
+00:13:30,216 --> 00:13:32,316
+I'm afraid Mr. Pippin will 
+be joining us.
+
+133
+00:13:32,493 --> 00:13:35,752
+- Say What!
+- Take the equipment below.
+
+134
+00:13:38,119 --> 00:13:40,988
+- Alright, what about my boat?
+- stow it on board.
+
+135
+00:13:41,689 --> 00:13:42,489
+Oh, and Ma'me...
+
+136
+00:13:43,645 --> 00:13:45,332
+... Would you mind covering up?
+
+137
+00:13:45,433 --> 00:13:49,333
+We've been deployed for 5 1/2 months
+and well... the men.
+
+138
+00:13:50,080 --> 00:13:51,642
+Oh, just brilliant.
+
+139
+00:13:52,544 --> 00:13:55,743
+<i>All men, all men,  
+Prepare to dive! Prepare to dive!</i>
+
+140
+00:13:55,744 --> 00:13:57,444
+<i>Say it again! Prepare to dive!</i>
+
+141
+00:13:58,545 --> 00:14:00,545
+<i>All men, all men,
+Prepare for diving stage!</i>
+
+142
+00:14:00,646 --> 00:14:03,246
+<i>Repeat, all men, all men, 
+Prepare for diving stage!</i>
+
+143
+00:14:03,347 --> 00:14:04,847
+<i>All men stand by to dive!</i>
+
+144
+00:14:04,948 --> 00:14:06,548
+<i>All men stand by to dive!</i>
+
+145
+00:14:06,594 --> 00:14:08,623
+This is Mr. Stubb, the
+chief of the boat.
+
+146
+00:14:09,647 --> 00:14:12,073
+- Where you want to put her, sir?
+- That's a good question.
+
+147
+00:14:12,374 --> 00:14:14,273
+- What about the Captain's bed.
+- What... what?
+
+148
+00:14:14,368 --> 00:14:15,408
+Good idea, Mr. Queequeg
+
+149
+00:14:15,709 --> 00:14:17,009
+About a week 
+after we deployed...
+
+150
+00:14:17,410 --> 00:14:19,010
+... the captain ordered his 
+mattress removed 
+from his quarters.
+
+151
+00:14:19,111 --> 00:14:21,011
+... said it was too 
+comfortable to sleep on.
+
+152
+00:14:21,399 --> 00:14:22,701
+We're storing it 
+in the torpedo room.
+
+153
+00:14:22,802 --> 00:14:23,902
+There's good space in there.
+
+154
+00:14:24,203 --> 00:14:26,403
+If you don't mind sharing it with 
+6 tons of high explosives.
+
+155
+00:14:26,504 --> 00:14:29,805
+Chief Queequeg will escort you down
+to the control room for a debrief.
+
+156
+00:14:30,506 --> 00:14:31,706
+This way ma'am.
+
+157
+00:14:34,423 --> 00:14:35,298
+Watch your head.
+
+158
+00:14:37,999 --> 00:14:38,899
+All men, all men, prepare to dive!
+
+159
+00:14:39,000 --> 00:14:40,200
+- Are you alright?
+- Yeah.
+
+160
+00:14:49,500 --> 00:14:51,200
+Welcome aboard the whale tail, folks.
+
+161
+00:14:51,301 --> 00:14:54,200
+Sit right back while we 
+enter whale territory.
+
+162
+00:14:58,982 --> 00:15:03,582
+And we'll be cruising at an 
+altitude of approxiamately 0 feet.
+
+163
+00:15:03,668 --> 00:15:07,189
+I can already smell the blubber.
+
+164
+00:15:08,006 --> 00:15:10,622
+Alright now, keep an eye out there folks, 
+and remember...
+
+165
+00:15:10,723 --> 00:15:15,223
+... it's peak mating season and 
+we've got Grays and Humpbacks all up 
+in these waters around here.
+
+166
+00:15:15,295 --> 00:15:16,629
+Now, we're gonna be heading out deep...
+
+167
+00:15:16,730 --> 00:15:19,130
+... So if it gets a little choppy, 
+you all might wanna hold on.
+
+168
+00:15:22,654 --> 00:15:25,772
+Now you folks all got your 
+cameras rolling, right?
+
+169
+00:15:26,974 --> 00:15:29,474
+Yeah, you probably don't know 
+what the hell I'm saying, do you?
+
+170
+00:15:30,682 --> 00:15:33,490
+That's alright. 
+I get paid just the same anyway.
+
+171
+00:15:34,670 --> 00:15:41,035
+Alright folks, well we're gonna slow this 
+puppy on down here and just slowly shut her off.
+
+172
+00:15:41,212 --> 00:15:45,561
+And uh, well, here we are.
+Welcome to the sweet spot 
+ladies and gentlemen.
+
+173
+00:15:45,558 --> 00:15:48,625
+I bring my guests out here and 
+I never miss. I'll tell ya.
+
+174
+00:15:48,676 --> 00:15:55,476
+Just keep an eye out there and as a 
+matter of fact, uh, over there on  
+the right, well, there you go!
+
+175
+00:15:55,750 --> 00:16:00,580
+Oh there she blows, right over there,
+off the starboard bow.
+
+176
+00:16:01,065 --> 00:16:03,365
+That's right for you land lovers.
+
+177
+00:16:03,259 --> 00:16:05,680
+Take a look at that!
+She is beautiful
+
+178
+00:16:06,265 --> 00:16:08,265
+Yeah, she's definately a lady.
+
+179
+00:16:08,366 --> 00:16:11,158
+Females are usually bigger than 
+males by about 50 feet, and...
+
+180
+00:16:11,282 --> 00:16:13,082
+this one's definately a female.
+
+181
+00:16:19,258 --> 00:16:23,563
+I'll be honest with you folks: 
+that is the biggest whale I've ever seen.
+
+182
+00:16:25,064 --> 00:16:29,764
+So she's sounded and it looks like, uh oh...
+I think this is gonna be a full breach.
+
+183
+00:16:29,779 --> 00:16:31,279
+'Cause she's going down pretty far.
+
+184
+00:16:31,371 --> 00:16:34,667
+Now, I've been doing this for almost 20 years 
+and I've only seen a full breach once.
+
+185
+00:16:35,260 --> 00:16:36,776
+She's under water now...
+She's coming up.
+
+186
+00:16:36,791 --> 00:16:38,091
+Get your cameras ready.
+
+187
+00:16:37,970 --> 00:16:40,531
+Huh! I'm a little excited myself.
+
+188
+00:16:41,547 --> 00:16:42,847
+Uh, she is something else.
+
+189
+00:17:22,883 --> 00:17:24,455
+Eyes on your stations men.
+
+190
+00:17:25,444 --> 00:17:28,044
+Carry on Mr. Flask.
+Take her to test level.
+
+191
+00:17:28,107 --> 00:17:33,940
+Aye, Helm, full speed ahead.
+Depth, make her 800 feet.
+
+192
+00:17:37,632 --> 00:17:39,823
+- What's this all about?
+- Allow me to explain?
+
+193
+00:17:40,125 --> 00:17:41,234
+Two weeks ago...
+
+194
+00:17:41,635 --> 00:17:45,435
+a Norweigan fishing trawler 
+capsized in the Chuckchi Sea.
+
+195
+00:17:45,562 --> 00:17:47,850
+Five days later, 
+an offshore oil rig was... 
+
+196
+00:17:47,961 --> 00:17:50,361
+sunk just off the coast 
+of Ketchikan Alaska.
+
+197
+00:17:50,410 --> 00:17:52,794
+And just two days ago a 
+merchant ship went down...
+
+198
+00:17:52,895 --> 00:17:54,695
+near port Angeles Washington.
+
+199
+00:17:55,303 --> 00:18:00,778
+Eye witness reports say that all 
+were attacked by an enormous whale.
+
+200
+00:18:00,758 --> 00:18:03,309
+Right, well that's just ridiculous...
+
+201
+00:18:03,810 --> 00:18:07,509
+because this is completely inconsistent 
+with the Physeter macrocephalus.
+
+202
+00:18:15,679 --> 00:18:18,727
+- What are these lines right over there?
+- That's a statimetre.
+
+203
+00:18:18,919 --> 00:18:20,519
+Each mill represents a meter.
+
+204
+00:18:21,043 --> 00:18:22,834
+But... no...
+
+205
+00:18:22,944 --> 00:18:25,143
+Well then how close is 
+the whale in the shot here?
+
+206
+00:18:26,095 --> 00:18:31,525
+- 50 meters or so.
+- But, then that would make it what, 400 feet?
+
+207
+00:18:31,916 --> 00:18:36,768
+- More like 5.
+- Okay, that's, that's just not possible.
+
+208
+00:18:36,703 --> 00:18:39,588
+I don't know what this is,
+but it's not a sperm whale.
+
+209
+00:18:39,897 --> 00:18:41,297
+Did we pick up the wrong scientist?
+
+210
+00:18:43,176 --> 00:18:45,792
+The largest known sperm whale 
+is 85 feet in length.
+
+211
+00:18:45,893 --> 00:18:48,893
+This is 6 times the length of that and 
+if you really look at it, I mean the...
+
+212
+00:18:48,900 --> 00:18:51,904
+size of the head and 
+then the jaw line... 
+
+213
+00:18:52,005 --> 00:18:54,005
+see whales, they don't have 
+the teeth that jot up...
+
+214
+00:18:54,106 --> 00:18:55,006
+So what do you think it is?
+
+215
+00:18:57,045 --> 00:18:58,183
+I...
+
+216
+00:18:58,284 --> 00:19:02,084
+I mean... there's conjecture, 
+that some whale species that are... 
+
+217
+00:19:02,092 --> 00:19:03,391
+thought to be exstinct, but...
+
+218
+00:19:03,621 --> 00:19:06,133
+they may actually live 
+in the lower depths of the Arctic.
+
+219
+00:19:06,534 --> 00:19:08,934
+Which is why we'll need you 
+and your device to track it down.
+
+220
+00:19:09,151 --> 00:19:13,443
+Well it's not that simple you see, 
+because the whalesong generator, it has...
+
+221
+00:19:13,544 --> 00:19:15,844
+this specific auditory algorythm,
+and I don't know the...
+
+222
+00:19:15,830 --> 00:19:17,303
+sound of this whale.
+
+223
+00:19:18,335 --> 00:19:20,456
+- I do.
+- Captain on deck!
+
+224
+00:19:25,619 --> 00:19:28,586
+I have his signature and clicks, here.
+
+225
+00:19:33,093 --> 00:19:37,721
+- It says 1969.
+- Moby Dick is older than that.
+
+226
+00:19:37,936 --> 00:19:39,508
+Moby dicks?
+
+227
+00:19:41,127 --> 00:19:41,882
+You've heard of him, Chief?
+
+228
+00:19:42,183 --> 00:19:44,783
+Anyone who's spent time at sea, 
+has heard of Moby Dick, Captain.
+
+229
+00:19:46,290 --> 00:19:48,607
+It's a particularly 
+large and vicious whale -
+
+230
+00:19:49,708 --> 00:19:52,308
+his hide covered 
+with thousands of scars and...
+
+231
+00:19:53,009 --> 00:19:54,909
+... corkscrewed remains 
+of countless harpoons.
+
+232
+00:19:56,119 --> 00:19:57,854
+Most Sailors swear 
+that Moby Dick is both...
+
+233
+00:19:57,955 --> 00:19:59,755
+omnipresent and immortal.
+
+234
+00:20:00,389 --> 00:20:02,748
+Of course, most of those 
+sailors are usually drunk.
+
+235
+00:20:04,355 --> 00:20:05,521
+Moby Dick is real.
+
+236
+00:20:06,720 --> 00:20:08,220
+I've seen him with my own eyes.
+
+237
+00:20:08,361 --> 00:20:12,036
+It was Moby Dick who 
+took my leg in '69.
+
+238
+00:20:12,237 --> 00:20:16,237
+And it's Moby Dick 
+who I mean to find now!
+
+239
+00:20:17,238 --> 00:20:17,838
+Oh Wait...
+
+240
+00:20:18,098 --> 00:20:21,061
+You're going to take revenge on an animal?
+
+241
+00:20:21,460 --> 00:20:25,160
+I'd strike the son if it insulted me.
+
+242
+00:20:28,162 --> 00:20:29,862
+Wait...
+
+243
+00:20:29,988 --> 00:20:31,410
+It's just a mask.
+
+244
+00:20:32,209 --> 00:20:34,909
+It's the thing behind 
+the mask that I seek.
+
+245
+00:20:35,410 --> 00:20:37,110
+Maybe it's nothing.
+
+246
+00:20:37,628 --> 00:20:39,954
+But then, animal or not.
+
+247
+00:20:40,755 --> 00:20:42,355
+I will find it.
+
+248
+00:20:49,378 --> 00:20:58,095
+I read your dissertation on biomass estimation 
+and echolocation, and I have been following 
+your work in citations and miotics for years.
+
+249
+00:20:58,255 --> 00:21:02,190
+If anyone could track 
+an individual whale, it's you.
+
+250
+00:21:03,721 --> 00:21:06,210
+I won't be part of a hunting expedition.
+
+251
+00:21:07,593 --> 00:21:10,140
+We just want to stop the attacks.
+
+252
+00:21:16,500 --> 00:21:18,000
+Alright.
+
+253
+00:21:44,700 --> 00:21:46,500
+Here you are sir.
+
+254
+00:22:00,797 --> 00:22:03,542
+- Captain Enderby's here, sir.
+- Thank you, Winson.
+
+255
+00:22:06,972 --> 00:22:09,067
+At ease, Captain.  
+Have a seat.
+
+256
+00:22:09,168 --> 00:22:09,968
+Scotch?
+
+257
+00:22:10,081 --> 00:22:13,022
+09:00, sir.
+Make it a small.
+
+258
+00:22:14,200 --> 00:22:18,113
+Boomer what can you tell me 
+about Captain Jonah Ahab? Sir?
+
+259
+00:22:19,772 --> 00:22:21,758
+- You served with him didn't you?
+- Twice.
+
+260
+00:22:22,259 --> 00:22:23,759
+Yes, I mean the second time.
+
+261
+00:22:24,766 --> 00:22:28,413
+I was intelligence officer when
+he was skipper of the Jeroboam.
+
+262
+00:22:29,151 --> 00:22:32,288
+- Good CO?
+- It was a long time ago, sir.
+
+263
+00:22:32,489 --> 00:22:33,389
+What's this about?
+
+264
+00:22:34,593 --> 00:22:36,653
+You know Ahab 
+Captains the Pequod now?
+
+265
+00:22:37,154 --> 00:22:38,854
+New modified Virginia class.
+
+266
+00:22:39,117 --> 00:22:41,215
+Modified by Ahab himself.
+
+267
+00:22:42,056 --> 00:22:43,823
+The most advanced boat in the fleet.
+
+268
+00:22:43,924 --> 00:22:45,724
+Next generation
+weapon system.
+
+269
+00:22:45,825 --> 00:22:50,025
+Reinforced pressure hold.  Top of the line 
+survaillence and counter-survaillence equipment.
+
+270
+00:22:50,224 --> 00:22:51,324
+What's the problem, sir?
+
+271
+00:22:54,236 --> 00:22:57,840
+Ahab missed his last 
+radio check-in 7 days ago.
+
+272
+00:22:58,441 --> 00:23:00,241
+That's not unusual for a fast attack.
+
+273
+00:23:00,342 --> 00:23:02,042
+He could be tracking an enemy sub.
+
+274
+00:23:03,327 --> 00:23:07,317
+Navpak set, picked him up when 
+he surfaced twice in the last week:
+
+275
+00:23:07,418 --> 00:23:08,718
+once off the coast of Alaska,
+
+276
+00:23:08,800 --> 00:23:10,862
+and again this morning near MBSD.
+
+277
+00:23:11,963 --> 00:23:12,563
+Plus...
+
+278
+00:23:14,669 --> 00:23:15,963
+There've been incidents.
+
+279
+00:23:18,664 --> 00:23:20,164
+What kind of incidents.
+
+280
+00:23:21,565 --> 00:23:22,265
+Sinkings...
+
+281
+00:23:23,966 --> 00:23:25,966
+A Norweigan trawler, an oil rig...
+
+282
+00:23:26,968 --> 00:23:29,483
+and this morning, a whale 
+watching boat, off Point Mugu...
+
+283
+00:23:29,584 --> 00:23:30,484
+for Christ's sake.
+
+284
+00:23:31,008 --> 00:23:33,622
+And you think
+Ahab is responsible?
+
+285
+00:23:34,466 --> 00:23:38,996
+- That's what I need you to find out.
+- Yes sir.
+
+286
+00:23:40,205 --> 00:23:43,423
+We have every ship in U.S. Pack 
+home searching for the Pequod.
+
+287
+00:23:43,724 --> 00:23:46,524
+The USS X6 in the area
+with orders to engage.
+
+288
+00:23:46,583 --> 00:23:48,214
+We can not have a sub commander...
+
+289
+00:23:48,315 --> 00:23:51,416
+off the reservation, with 
+a boat load full of nukes.
+
+290
+00:23:51,853 --> 00:23:53,820
+There was a survivor
+off that whale boat.
+
+291
+00:23:53,921 --> 00:23:56,521
+Get to the hospital, and find out 
+if they have what's the cause of it.
+
+292
+00:23:58,048 --> 00:24:01,133
+- Am I clear?
+- Aye, Aye, sir.
+
+293
+00:24:03,234 --> 00:24:04,234
+Good hunting, Captain.
+
+294
+00:24:25,834 --> 00:24:27,334
+It's just completely jammed.
+
+295
+00:24:30,122 --> 00:24:33,026
+- Give me your little tape recorder.
+- That's not going to work.
+
+296
+00:24:33,453 --> 00:24:36,967
+- This is a micro cassette.
+- Give it to me.
+
+297
+00:24:42,668 --> 00:24:43,268
+Okay.
+
+298
+00:24:47,083 --> 00:24:48,482
+We only need the
+first ten minutes.
+
+299
+00:24:50,382 --> 00:24:52,782
+Gotta learn how to do this 
+with what I can only find.  
+
+300
+00:24:52,783 --> 00:24:54,483
+I'd break out one with 
+only an eight track.
+
+301
+00:24:54,784 --> 00:24:56,084
+woo!
+
+302
+00:24:56,685 --> 00:24:57,685
+Put this here.
+
+303
+00:24:58,586 --> 00:24:59,986
+And put this over there.
+
+304
+00:25:02,988 --> 00:25:03,688
+And go like that.
+
+305
+00:25:06,841 --> 00:25:09,509
+Alright
+And here you go.
+
+306
+00:25:10,232 --> 00:25:12,737
+Your 1969 mix tape
+
+307
+00:25:17,155 --> 00:25:18,748
+You are genius.
+
+308
+00:25:20,818 --> 00:25:22,783
+- That's true.
+- Red.
+
+309
+00:25:34,583 --> 00:25:36,383
+Keeping the depth to 60 feet.
+
+310
+00:25:36,484 --> 00:25:40,284
+Radio Con imploy antenna
+scan on all frequencies.
+
+311
+00:25:40,611 --> 00:25:42,843
+Omit that!  We don't want to expose 
+ourselves any longer than we have to.
+
+312
+00:25:42,944 --> 00:25:43,344
+Aye, sir.
+
+313
+00:25:43,444 --> 00:25:47,266
+Sir! Reading cavitations 
+from an Ohio class boat.
+Identifying now.
+
+314
+00:25:47,415 --> 00:25:49,471
+What are they doing in the area?
+
+315
+00:25:50,679 --> 00:25:52,920
+A better question is who?
+Doughby, let me hear it.
+
+316
+00:26:01,619 --> 00:26:02,309
+It's Pollard.
+
+317
+00:26:03,610 --> 00:26:04,310
+Aye, sir.
+
+318
+00:26:04,411 --> 00:26:07,810
+Neurobank confirms: the 
+target is the USS ESSEX.
+
+319
+00:26:08,141 --> 00:26:10,347
+She's 105 nautical miles south.
+
+320
+00:26:19,891 --> 00:26:20,555
+Report!
+
+321
+00:26:20,656 --> 00:26:23,456
+Possible target, 
+225 degrees north.
+
+322
+00:26:24,057 --> 00:26:25,057
+Is it the Pequod?
+
+323
+00:26:27,300 --> 00:26:28,255
+Can't tell, sir.
+
+324
+00:26:28,556 --> 00:26:30,456
+Sonar is still trying to identify.
+
+325
+00:26:32,231 --> 00:26:34,575
+- You have the target yet?
+- Negative, sir.
+
+326
+00:26:40,676 --> 00:26:42,676
+Switch to active sonar.
+
+327
+00:26:43,005 --> 00:26:45,682
+- Sir?  Expose our position?
+- Ping the son-of-a-bitch!
+
+328
+00:26:58,746 --> 00:27:01,067
+Sir, the ESSEX has gone to active sonar.
+
+329
+00:27:02,773 --> 00:27:05,737
+I'm reading a large  biological 
+mass closing in on the ESSEX.
+
+330
+00:27:05,838 --> 00:27:08,538
+Helm, all ahead flank!  
+Intersect course on the ESSEX!
+
+331
+00:27:08,585 --> 00:27:09,711
+Aye, Captain.
+All ahead flank, sir.
+
+332
+00:27:09,812 --> 00:27:12,712
+Even at full speed it will take 
+over 4 hours to reach that destination.
+
+333
+00:27:15,455 --> 00:27:17,389
+Those men are already dead.
+
+334
+00:27:18,690 --> 00:27:21,690
+Give me continuous reports 
+on the status of the ESSEX.
+
+335
+00:27:30,390 --> 00:27:32,390
+I've got echo.  
+Calculating Team A.
+
+336
+00:27:33,251 --> 00:27:34,871
+Fire Control, 
+flood tubes 1 and 3.
+
+337
+00:27:37,684 --> 00:27:40,437
+Sir, 
+this doesn't look like a sub.
+
+338
+00:27:40,538 --> 00:27:42,138
+It's probably 
+one of Ahab's tricks.
+
+339
+00:27:42,219 --> 00:27:44,069
+Tubes 1 and 3 are 
+flooded and equalized.
+
+340
+00:27:51,673 --> 00:27:53,987
+Target is diving 9-0 degrees.
+
+341
+00:27:54,688 --> 00:27:56,588
+Dive 45 degrees, bubble down.
+
+342
+00:27:56,876 --> 00:27:59,900
+- Don't lose it.
+- 45 degrees down bubble.
+
+343
+00:28:00,001 --> 00:28:01,701
+Aye!
+Target is accelerating.
+
+344
+00:28:04,329 --> 00:28:05,785
+Sir, target's going out of range.
+
+345
+00:28:06,186 --> 00:28:07,886
+Sir, we're going to lose our shot.
+
+346
+00:28:08,795 --> 00:28:09,561
+Sir...
+
+347
+00:28:11,962 --> 00:28:13,263
+Commence fire in tube 1.
+
+348
+00:28:15,996 --> 00:28:19,127
+Torpedo 1 responding and 
+closing on target - 300 meters.
+
+349
+00:28:24,227 --> 00:28:24,927
+Report.
+
+350
+00:28:26,002 --> 00:28:27,239
+200 meters and closing.
+
+351
+00:28:27,740 --> 00:28:29,540
+I've got bottom echo.  
+He's heading for a sea mount.
+
+352
+00:28:30,832 --> 00:28:32,133
+Torpedo can't get a...
+Come on!
+
+353
+00:28:33,034 --> 00:28:34,134
+Still no luck, sir.
+
+354
+00:28:42,803 --> 00:28:45,131
+- Tell me we got him.
+- Negative.
+
+355
+00:28:45,232 --> 00:28:46,232
+Torpedo hit the sea mount.
+
+356
+00:28:46,841 --> 00:28:50,646
+- Sir, I don't think this is Pequod.
+- What the hell is this thing?
+
+357
+00:28:50,996 --> 00:28:52,169
+What's it doing now?
+
+358
+00:28:53,641 --> 00:28:54,752
+It's just lying there.
+
+359
+00:28:57,053 --> 00:28:58,953
+Helm, ahead two thirds!  
+Close the gap!
+
+360
+00:28:59,053 --> 00:29:00,253
+Torpedo tube 3 is ready.
+
+361
+00:29:00,330 --> 00:29:01,634
+Setup is good for curb fire.
+
+362
+00:29:02,335 --> 00:29:03,435
+- Shoot!
+- Fire 3.
+
+363
+00:29:16,337 --> 00:29:18,137
+Torpedo missed.
+Torpedo still running.
+
+364
+00:29:22,565 --> 00:29:23,477
+Target is turning.
+
+365
+00:29:23,778 --> 00:29:24,678
+We have target alligned.
+
+366
+00:29:32,520 --> 00:29:35,161
+- Target is biological.
+- That's impossible!
+
+367
+00:29:37,491 --> 00:29:38,550
+It's gonna ram us!
+
+368
+00:29:39,051 --> 00:29:40,550
+Fire control.
+Report.
+
+369
+00:29:40,651 --> 00:29:41,651
+Torpedo still running.
+
+370
+00:29:41,745 --> 00:29:44,182
+Evasive action!
+All ahead flank!
+Left full rudder!
+
+371
+00:29:51,912 --> 00:29:53,079
+We're clear.
+
+372
+00:29:54,136 --> 00:29:55,588
+No we're not.
+
+373
+00:30:05,445 --> 00:30:09,518
+- Enderby.
+- Are you at the hospital?
+- Yes sir, I'm just arriving 
+at the hospital now.
+
+374
+00:30:09,780 --> 00:30:12,757
+<i>Boomer listen.  It may be nothing,
+but we're getting reports...
+
+375
+00:30:12,858 --> 00:30:15,858
+that a Marine Biologist
+has disappeared in San Diego.
+
+376
+00:30:15,958 --> 00:30:17,028
+A Marine Biologist?
+
+377
+00:30:18,228 --> 00:30:22,028
+We have eye witness reports that 
+she's abducted by A black submarine.
+
+378
+00:30:22,490 --> 00:30:23,835
+Alright, send me what you got.
+
+379
+00:30:23,836 --> 00:30:24,836
+Here comes.
+
+380
+00:30:42,536 --> 00:30:43,936
+How long before she was picked up?
+
+381
+00:30:44,437 --> 00:30:45,937
+She was in the water almost 4 hours.
+
+382
+00:30:46,692 --> 00:30:50,306
+She's suffering from exposure, 
+dehydration, and sunburn.
+
+383
+00:30:51,476 --> 00:30:54,345
+- What did she say happened?
+- I don't know, she only speaks Russian.
+
+384
+00:31:13,745 --> 00:31:14,745
+Hello!
+
+385
+00:31:19,445 --> 00:31:21,245
+My name is John.
+
+386
+00:31:24,446 --> 00:31:25,846
+Would you like a drink?
+
+387
+00:31:26,847 --> 00:31:27,847
+No thanks.
+
+388
+00:31:29,948 --> 00:31:31,748
+Are you sure you won't like a drink?
+
+389
+00:31:34,549 --> 00:31:36,048
+Suit yourself.
+
+390
+00:31:40,610 --> 00:31:47,253
+- Can you tell me what happened?
+- It attacked us...
+
+391
+00:31:49,454 --> 00:31:50,418
+Go ahead.
+
+392
+00:31:51,619 --> 00:31:53,919
+from under the sea.
+
+393
+00:31:56,285 --> 00:31:58,399
+What did it look like?
+
+394
+00:32:00,881 --> 00:32:02,649
+Was the ship black?
+
+395
+00:32:07,197 --> 00:32:09,375
+It was white.
+
+396
+00:32:34,967 --> 00:32:38,041
+I cleared the tape hiss and 
+I'm applying the DNR now.
+
+397
+00:32:41,182 --> 00:32:43,514
+Ok, everything is clear,
+except for the source.
+
+398
+00:32:44,995 --> 00:32:46,580
+Initiating playback.
+
+399
+00:32:57,954 --> 00:32:59,698
+- I don't hear anything.
+- shhh...
+
+400
+00:33:04,771 --> 00:33:08,001
+It's not a sound.
+It's more like the absence of sound.
+
+401
+00:33:10,265 --> 00:33:13,502
+- Like a hole in the water.
+- Yes.
+
+402
+00:33:35,256 --> 00:33:37,504
+It's his voice.
+
+403
+00:33:41,236 --> 00:33:43,121
+What's that screaming?
+
+404
+00:34:03,221 --> 00:34:06,221
+Captain, we've reached the 
+last recorded position of the ESSEX.
+
+405
+00:34:06,682 --> 00:34:08,410
+Sonar what have you got?
+
+406
+00:34:09,910 --> 00:34:11,436
+No contact, sir.
+
+407
+00:34:18,661 --> 00:34:20,522
+- What the hell was that?
+- All stop.
+
+408
+00:34:20,923 --> 00:34:22,523
+Stop it, all engines.  Aye!
+
+409
+00:34:30,045 --> 00:34:31,649
+Activate the photonic band.
+
+410
+00:34:49,400 --> 00:34:51,182
+Give me some light!
+
+411
+00:35:20,822 --> 00:35:23,699
+Patch this through to the ship BITE system.
+
+412
+00:35:33,105 --> 00:35:36,816
+All hands, this is your Captain.
+Look at your screens.
+
+413
+00:35:44,857 --> 00:35:48,509
+Look at the face of your brothers.
+
+414
+00:35:49,767 --> 00:35:50,924
+This could have been you.
+
+415
+00:35:53,725 --> 00:35:55,025
+And it still might be.
+
+416
+00:36:01,471 --> 00:36:05,178
+The men of the ESSEX 
+were only doing their duty.
+
+417
+00:36:07,878 --> 00:36:10,478
+And now we must do ours.
+
+418
+00:36:16,235 --> 00:36:18,220
+The thing that did this to them, is...
+
+419
+00:36:18,321 --> 00:36:21,321
+the thing that we're after.
+
+420
+00:36:25,321 --> 00:36:26,221
+Moby Dick.
+
+421
+00:36:29,780 --> 00:36:34,142
+I have orders to find him, 
+to stop him...
+
+422
+00:36:34,143 --> 00:36:35,543
+before he can kill again.
+
+423
+00:36:38,501 --> 00:36:42,743
+We are going to chase him, 
+from here to the Atlantic.
+
+424
+00:36:43,544 --> 00:36:46,343
+We're going to chase him 
+to hell if we have to.
+
+425
+00:36:47,100 --> 00:36:50,320
+And When we find him,
+we're gonna make him pay.
+
+426
+00:36:50,421 --> 00:36:52,721
+He's going to feel the sting of our hate.
+
+427
+00:36:55,289 --> 00:37:00,852
+And when we're done with him, he will 
+spout black and roll in his own blood.
+
+428
+00:37:04,089 --> 00:37:07,550
+We owe this to the men of the ESSEX.
+We owe this to ourselves!
+
+429
+00:37:09,923 --> 00:37:15,767
+And may God hunt us all, if we do 
+not hunt Moby Dick to the death.
+
+430
+00:37:19,374 --> 00:37:21,929
+- Are you with me, men?
+- Yes!
+
+431
+00:37:22,010 --> 00:37:23,415
+- Do you feel brave?
+- Yes!
+
+432
+00:37:47,816 --> 00:37:48,716
+Marine?
+
+433
+00:37:49,255 --> 00:37:49,801
+Yes, sir!
+
+434
+00:37:50,902 --> 00:37:51,702
+Can I help you?
+
+435
+00:37:51,925 --> 00:37:54,856
+What's your name, son?
+Mace Corporal Perth.
+
+436
+00:37:55,196 --> 00:37:58,146
+Mace Corporal Perth, 
+I need a ride.
+
+437
+00:37:59,731 --> 00:38:02,068
+Do you have clearance for that?
+
+438
+00:38:07,532 --> 00:38:08,331
+Colonel!
+
+439
+00:38:09,732 --> 00:38:11,133
+Anything else I can do for you, sir?
+
+440
+00:38:11,834 --> 00:38:12,734
+I can use a driver.
+
+441
+00:38:14,835 --> 00:38:15,735
+Brian.
+
+442
+00:38:38,736 --> 00:38:39,436
+There's nothing.
+
+443
+00:38:39,837 --> 00:38:40,836
+Try to seduce him.
+
+444
+00:38:46,048 --> 00:38:48,297
+I'm... 
+I'm still not hearing anything.
+
+445
+00:38:51,367 --> 00:38:53,172
+There's nothing out there.
+
+446
+00:38:58,909 --> 00:39:00,384
+Why don't you get some rest?
+
+447
+00:39:01,129 --> 00:39:03,096
+- What time is it?
+- About 3am.
+
+448
+00:39:04,717 --> 00:39:08,249
+- Are you serious?
+- Yeah, you must have missed the sunset.
+
+449
+00:39:08,750 --> 00:39:10,250
+Come on, 
+I'll show you back to your quarters.
+
+450
+00:39:16,280 --> 00:39:18,347
+Oh no worries.  
+I'll just take a nap here.
+
+451
+00:39:24,447 --> 00:39:25,147
+Admiral...
+
+452
+00:39:25,605 --> 00:39:29,224
+- I have Captain Enderby...
+- Boomer what the hell is going on out there?
+
+453
+00:39:29,419 --> 00:39:32,413
+I don't know yet.  
+I need to find Ahab. 
+I have to talk to him.
+
+454
+00:39:32,630 --> 00:39:34,765
+No, it is too late
+for that, Captain.
+
+455
+00:39:35,314 --> 00:39:39,037
+Wall Banger picked up the thermal 
+signature of an S-9-G reactor...
+
+456
+00:39:39,138 --> 00:39:41,138
+a thousand miles 
+east off of Honolulu.
+
+457
+00:39:41,239 --> 00:39:44,039
+The ESSEX was in the area 
+and now she's gone missing.
+
+458
+00:39:45,541 --> 00:39:47,690
+Seano has declared Pequod an aggressor.
+
+459
+00:39:48,791 --> 00:39:52,991
+We do have the USS summers in the
+vicinity and she has an entire 
+wing searching for them now.
+
+460
+00:39:53,384 --> 00:39:56,505
+I called in a favor of a first Marine.
+I can be there in four hours.
+
+461
+00:39:56,906 --> 00:39:59,705
+In four hours the Pequod will 
+be at the bottom of the ocean.
+
+462
+00:40:09,306 --> 00:40:11,306
+- Captain Enderby?
+- Yeah.
+
+463
+00:40:12,907 --> 00:40:14,307
+Captain Brian Tashtego.
+
+464
+00:40:17,129 --> 00:40:19,682
+Where to, Captain?
+That way.
+
+465
+00:41:07,181 --> 00:41:07,781
+Woah!
+
+466
+00:41:08,568 --> 00:41:09,703
+What's going on?
+
+467
+00:41:09,704 --> 00:41:13,104
+Sonar spotted a biologic 
+mass 10 miles off the stern.
+
+468
+00:41:21,807 --> 00:41:24,238
+Contact bearing 215 and closing.
+
+469
+00:41:24,839 --> 00:41:27,379
+Mark, contact heading and 
+calculating firing solution.
+
+470
+00:41:27,387 --> 00:41:28,970
+- Engines at one third!
+- Sir!
+
+471
+00:41:29,871 --> 00:41:31,545
+We wanted to catch it Mr. Starbuck.
+
+472
+00:41:31,746 --> 00:41:33,046
+Engines, one third, aye sir!
+
+473
+00:41:35,646 --> 00:41:37,047
+Come on.
+
+474
+00:41:37,795 --> 00:41:40,421
+Con radio, ESM is picking up 
+an unidentified aircraft...
+
+475
+00:41:40,522 --> 00:41:42,722
+80 nautical miles north north west and closing.
+
+476
+00:41:48,343 --> 00:41:50,683
+Pequod, this is Sierra Victor 19er.
+Come in.
+
+477
+00:41:51,784 --> 00:41:54,283
+Pequod, if you do not respond,
+we will be forced to open fire.
+
+478
+00:41:55,384 --> 00:41:56,984
+Ah... he's bluffing,
+he can't see us.
+
+479
+00:42:02,413 --> 00:42:04,703
+We're locked on your 
+position and intercepting now.
+
+480
+00:42:05,904 --> 00:42:06,504
+Sir?
+
+481
+00:42:07,905 --> 00:42:09,905
+50 miles to spread the target.
+
+482
+00:42:11,548 --> 00:42:12,259
+Sonar, Report!
+
+483
+00:42:12,660 --> 00:04:16,460
+The biological target is 5 miles 
+of stern and still on intercept.
+
+484
+00:42:20,061 --> 00:42:21,561
+The signature's not right.
+
+485
+00:42:21,725 --> 00:42:23,533
+The target is 600 feet and organic.
+
+486
+00:42:23,634 --> 00:42:24,534
+What else could it be.
+
+487
+00:42:24,732 --> 00:42:27,377
+Helm, left full rudder, 
+engine starboard ahead two-thirds.
+
+488
+00:42:27,478 --> 00:42:28,378
+Port back full.
+
+489
+00:42:28,879 --> 00:42:30,079
+Left full rudder, Aye!
+
+490
+00:42:30,380 --> 00:42:31,080
+Captain...
+
+491
+00:42:31,683 --> 00:42:35,426
+He took my leg.
+I don't intend to give him my ass.
+
+492
+00:42:35,582 --> 00:42:37,507
+Sir, I'm intending to speak 
+and expose our position.
+
+493
+00:42:38,159 --> 00:42:39,275
+Permission to enter grid.
+
+494
+00:42:39,876 --> 00:42:40,376
+Permission granted.
+
+495
+00:42:40,677 --> 00:42:41,477
+Activate perameters.
+
+496
+00:42:42,178 --> 00:42:43,278
+Let's make sure he knows we're serious.
+
+497
+00:42:44,576 --> 00:42:45,376
+Activating.
+
+498
+00:42:51,251 --> 00:42:51,924
+They're firing at us.
+
+499
+00:42:52,825 --> 00:42:54,525
+Sir, I demand an explanation!
+
+500
+00:42:54,613 --> 00:42:58,308
+Torpedo, this is the captain,
+subrocks 1 and 2.
+
+501
+00:43:01,271 --> 00:43:04,335
+- What is a subsrock?
+- Basically a nuclear torpedo.
+
+502
+00:43:17,472 --> 00:43:21,212
+Damage Report!
+I designed her, Mr. Starbuck.
+The hull will hold.
+
+503
+00:43:21,313 --> 00:43:25,113
+The target is still bearing 2-1-5
+and 3 miles due north.
+
+504
+00:43:25,913 --> 00:43:26,915
+Sir, we have a lock on Moby Dick.
+
+505
+00:43:27,939 --> 00:43:29,389
+Captain it's not Moby Dick.
+
+506
+00:43:29,489 --> 00:43:30,589
+You may fire when ready Mr. Que.
+
+507
+00:43:31,223 --> 00:43:31,911
+Fire one.
+
+508
+00:43:37,672 --> 00:43:40,665
+- Incoming missile.
+- Summers, this is Sierra. 
+We are under attack.
+
+509
+00:43:50,309 --> 00:43:51,708
+Subrock aiming at target.
+
+510
+00:43:52,509 --> 00:43:53,709
+100 meters to target.
+
+511
+00:43:54,710 --> 00:43:55,710
+50 meters to target.
+
+512
+00:44:15,050 --> 00:44:18,323
+What the hell was that.
+Nuclear detonation, sir
+
+513
+00:44:22,470 --> 00:44:25,935
+- Sonar report.
+- The target is...
+
+514
+00:44:26,590 --> 00:44:29,930
+destroyed! 
+I think you got Moby dick, sir.
+
+515
+00:44:35,450 --> 00:44:36,813
+Now bring her back around.
+
+516
+00:44:44,731 --> 00:44:48,407
+If you can hear me, 
+congratulations, Pequod.
+
+517
+00:44:49,275 --> 00:44:50,713
+You nuked a school of squid.
+
+518
+00:45:01,951 --> 00:45:04,433
+Where there are squid, 
+there are whales.
+
+519
+00:45:10,026 --> 00:45:12,601
+- Prepare to launch torpedoes.
+- Sir!
+
+520
+00:45:41,027 --> 00:45:42,808
+Moby Dick is close.
+I can feel it.
+
+521
+00:45:42,709 --> 00:45:44,109
+Why were they shooting at us?
+
+522
+00:45:47,308 --> 00:45:48,263
+Why were they shooting at us?
+
+523
+00:45:49,964 --> 00:45:51,586
+It's time to earn your keep, Doc.
+
+524
+00:45:52,287 --> 00:45:54,287
+I need to see our orders, sir.
+
+525
+00:45:56,683 --> 00:45:58,368
+Our orders, sir!
+
+526
+00:45:58,469 --> 00:46:00,469
+In accordance with Article 5
+Section 1-1-5...
+
+527
+00:46:00,557 --> 00:46:01,941
+Wait, Mr. Starbuck.
+
+528
+00:46:11,102 --> 00:46:12,661
+Look at those men.
+
+529
+00:46:13,498 --> 00:46:16,461
+Even now, you can see that
+they are still with me...
+
+530
+00:46:16,462 --> 00:46:19,763
+They're still ready to hunt
+Moby dick 'til the end.
+
+531
+00:46:20,989 --> 00:46:23,882
+Have you forgotten...  
+all about the ESSEX?
+
+532
+00:46:23,983 --> 00:46:27,683
+Will you let those 
+men's death go unavenged?
+
+533
+00:46:27,792 --> 00:46:31,277
+- But sir?
+- I personally selected you.
+
+534
+00:46:32,159 --> 00:46:35,265
+There's not another man in this 
+Navy that I would trust my boat to.
+
+535
+00:46:41,990 --> 00:46:44,755
+I can't do this without my XO.
+
+536
+00:46:53,901 --> 00:46:55,812
+Mr. Starbuck you have the con.
+
+537
+00:47:30,011 --> 00:47:31,611
+Bring that canister over here.
+
+538
+00:47:39,883 --> 00:47:42,511
+The steel was fashioned 
+from the hull of the Acushnet.
+
+539
+00:47:44,539 --> 00:47:47,578
+Moby Dick can only be taken by 
+something that has touched him.
+
+540
+00:47:48,463 --> 00:47:51,643
+And this thing that's 
+connected to him...
+
+541
+00:47:53,244 --> 00:47:55,044
+is the thing that's 
+going to kill him.
+
+542
+00:48:00,337 --> 00:48:03,737
+- Admiral, did they find him?
+- Oh, they found him.
+
+543
+00:48:04,438 --> 00:48:07,138
+He shot down one of summers' 
+seahawks with subrock.
+
+544
+00:48:07,605 --> 00:48:09,584
+Sir, that doesn't make any sense.
+
+545
+00:48:09,985 --> 00:48:13,685
+If he wanted to shoot down 
+an aircraft, why wouldn't he 
+use one of his tomahawks?
+
+546
+00:48:13,817 --> 00:48:17,463
+Captain, the man has stolen 
+a 2. billion dollar submarine. 
+
+547
+00:48:17,564 --> 00:48:18,963
+You think he's 
+thinking rationally?
+
+548
+00:48:19,176 --> 00:48:21,669
+That may be true Admiral, 
+but he isn't stupid.
+
+549
+00:48:21,970 --> 00:48:26,970
+I'm within an hour of the 
+Summer's location.  Just 
+give me a chance to talk to him.
+
+550
+00:48:27,007 --> 00:48:30,089
+The only way that's going to 
+happen, is if you get there 
+before anyone else does.
+
+551
+00:48:30,497 --> 00:48:34,531
+Then sir, 
+give me the exact coordinates 
+of that nuclear detonation.
+
+552
+00:48:38,923 --> 00:48:40,682
+Would you tell me 
+what's going on, sir?
+
+553
+00:48:42,483 --> 00:48:44,483
+Ever hear of Moby Dick, Captain?
+
+554
+00:49:22,215 --> 00:49:23,822
+It's him.
+It's him.
+
+555
+00:49:25,064 --> 00:49:27,835
+- I don't hear anything.
+- He's less than a 
+mile away bearing 1-2-5.
+
+556
+00:49:29,118 --> 00:49:32,380
+- Doughby?
+- There's a cruise ship, 
+but that's all.
+
+557
+00:49:36,137 --> 00:49:37,609
+Maintain present course...
+
+558
+00:49:42,878 --> 00:49:44,322
+It's him.
+
+559
+00:49:46,223 --> 00:49:49,323
+Right full rudder.  
+Come around fast.  
+Make your heading 1-2-5.
+
+560
+00:49:49,648 --> 00:49:52,024
+Aye sir!
+Right full rudder, 1-2-5.
+
+561
+00:50:50,350 --> 00:50:51,878
+Something just collided 
+with the cruise ship.
+
+562
+00:50:53,079 --> 00:50:55,278
+He's coming back around.  I 
+think he's going to hit again.
+
+563
+00:50:57,400 --> 00:50:58,879
+Why would a whale 
+act like this?
+
+564
+00:50:59,380 --> 00:51:00,880
+Oh, why do babies 
+die in their sleep?
+
+565
+00:51:00,981 --> 00:51:02,581
+Mr Que, status report?
+
+566
+00:51:02,914 --> 00:51:04,873
+Still out of effective 
+firing range, Captain.
+
+567
+00:51:05,574 --> 00:51:06,974
+That ship won't stand 
+another direct hit.
+
+568
+00:51:09,566 --> 00:51:11,979
+If he rams here again.
+She's going down.
+
+569
+00:51:12,159 --> 00:51:14,946
+Pip, I want to take this 
+signal and put it to output.
+
+570
+00:51:15,247 --> 00:51:16,547
+Give me all the power you can.
+
+571
+00:51:30,225 --> 00:51:32,005
+Alright, I got it.
+Go, go.
+
+572
+00:51:32,118 --> 00:51:35,105
+Executing BAW-7-2.
+Now.
+
+573
+00:51:43,983 --> 00:51:45,743
+What the hell did you do?
+
+574
+00:51:48,183 --> 00:51:51,298
+- It worked. He's turning.
+- Very good Doctor.
+
+575
+00:51:51,399 --> 00:51:52,299
+Where's she heading now?
+
+576
+00:51:56,706 --> 00:51:57,773
+Straight toward us.
+
+577
+00:52:01,362 --> 00:52:02,987
+Mr. Que, prepare number 1.
+
+578
+00:52:03,988 --> 00:52:05,888
+Prepare tube 1 and  
+wait for my command.
+
+579
+00:52:09,132 --> 00:52:10,756
+Tube 1 ready.
+
+580
+00:52:11,517 --> 00:52:15,554
+- He's 2 km and closing.
+- Fedallah is ready to fire, sir.
+
+581
+00:52:15,655 --> 00:52:17,955
+No, no, no, not yet. 
+Not yet, Mr. Que.
+
+582
+00:52:22,256 --> 00:52:23,256
+One kilometer.
+
+583
+00:52:26,677 --> 00:52:27,680
+He's coming straight for us.
+
+584
+00:52:28,501 --> 00:52:30,096
+- Captain.
+- Wait.
+
+585
+00:52:30,197 --> 00:52:31,398
+700 meters.
+
+586
+00:52:34,591 --> 00:52:35,997
+300 meters.
+
+587
+00:52:37,450 --> 00:52:40,280
+- 150 meters.
+- Captain, you have to swerve.
+
+588
+00:52:40,877 --> 00:52:42,853
+100 meters.
+
+589
+00:52:45,248 --> 00:52:46,269
+50 meters.
+
+590
+00:52:47,331 --> 00:52:47,889
+Fire.
+
+591
+00:52:48,590 --> 00:52:49,090
+Firing.
+
+592
+00:52:58,854 --> 00:53:00,145
+<i>We have flooding!
+
+593
+00:53:03,619 --> 00:53:06,370
+- We've lost 4 diving plates.
+- Report heavy flooding to the VLS.
+
+594
+00:53:06,471 --> 00:53:07,471
+- What's he doing?
+- He's sounding.
+
+595
+00:53:10,472 --> 00:53:11,472
+Get ready for a ride.
+
+596
+00:53:12,762 --> 00:53:14,499
+All hands, brace for impact.
+
+597
+00:53:24,600 --> 00:53:26,000
+All engines on hold!
+
+
+598
+00:53:31,600 --> 00:53:32,900
+Engines not responding.
+
+599
+00:53:35,101 --> 00:53:37,701
+Our depth is
+1500 and lowering.
+
+600
+00:53:41,860 --> 00:53:43,203
+Sir, we have to cut loose.
+
+601
+00:53:43,904 --> 00:53:45,905
+Let's see how deep he can take us.
+
+602
+00:53:47,305 --> 00:53:49,105
+1800 feet.
+
+603
+00:53:52,423 --> 00:53:54,705
+- How deep can this ship go?
+- It's classified.
+
+604
+00:53:55,406 --> 00:53:56,388
+How deep have you been?
+
+605
+00:53:56,489 --> 00:53:58,289
+2100 feet.
+
+606
+00:53:58,489 --> 00:53:59,430
+This.
+
+607
+00:54:02,358 --> 00:54:05,584
+- Sir, we have to disconnect.
+- 2750 feet.
+
+608
+00:54:10,165 --> 00:54:12,792
+- We've gone too deep.
+- It will hold.
+
+609
+00:54:14,093 --> 00:54:14,993
+3000 feet.
+
+610
+00:54:16,094 --> 00:54:16,994
+It's higher.
+
+611
+00:54:18,846 --> 00:54:20,465
+3200 feet.
+
+612
+00:54:22,466 --> 00:54:23,167
+Sir...
+
+613
+00:54:24,198 --> 00:54:28,387
+You are responsible for the 
+lives of 130 men on this ship.
+
+614
+00:54:28,897 --> 00:54:30,306
+You have to stop this.
+
+615
+00:54:44,548 --> 00:54:46,608
+Sir, we've lost the tether.
+
+616
+00:54:47,509 --> 00:54:48,109
+Grrr!
+
+617
+00:54:51,310 --> 00:54:52,210
+Tell him to take us up?
+
+618
+00:54:52,997 --> 00:54:54,499
+The engines still not responding, sir.
+
+619
+00:54:55,264 --> 00:54:57,540
+We're at 3500 feet and lowering.
+
+620
+00:55:00,445 --> 00:55:04,284
+All hands, brace for emergency pull.
+Pull the tanks.  Pull them now.
+
+
+621
+00:55:36,728 --> 00:55:39,612
+According to the data, the 
+detonation was right in this area.
+
+622
+00:55:41,530 --> 00:55:44,998
+- See, you're heading west.
+- Towards Hawaii?
+
+623
+00:55:46,494 --> 00:55:47,879
+That's where he's driving.
+
+624
+00:55:49,848 --> 00:55:51,582
+Who's driving who, sir?
+
+625
+00:56:06,615 --> 00:56:08,868
+Would you call this a normal day?
+
+626
+00:56:10,169 --> 00:56:11,169
+No.
+
+627
+00:56:12,270 --> 00:56:13,470
+I see whales every day.
+
+628
+00:56:14,450 --> 00:56:16,718
+But I've never experienced 
+anything like that.
+
+629
+00:56:17,676 --> 00:56:20,937
+It's the whiteness of the whale
+that freaks me out the most. 
+You know what I mean?
+
+630
+00:56:22,110 --> 00:56:24,257
+White is for the good guys.
+
+631
+00:56:25,512 --> 00:56:28,059
+I have no problem
+seeing the whitest woman.
+
+632
+00:56:30,728 --> 00:56:32,286
+Engines are tested operational...
+
+633
+00:56:32,387 --> 00:56:33,988
+But the valve plates are out of commission.
+
+634
+00:56:34,089 --> 00:56:35,989
+We won't be able to go much past Perascope depth.
+
+635
+00:56:36,088 --> 00:56:36,888
+Thank you Chief.
+
+636
+00:56:37,756 --> 00:56:43,004
+<i>Officer of the deck radio. 
+Picking up a distress call from the cruise ship Rachel.  
+They have personnel over board.  
+They are requesting assistance.</i>
+
+637
+00:56:43,666 --> 00:56:46,729
+Report to the Rachel and tell them 
+we will proceed to their location.
+
+638
+00:56:54,879 --> 00:56:56,549
+I don't believe it.
+
+639
+00:56:59,023 --> 00:57:01,358
+- He's taunting me.
+- Sir.
+
+640
+00:57:02,366 --> 00:57:04,491
+Clear the deck Mr Starbuck.
+We're going after him.
+
+641
+00:57:04,792 --> 00:57:06,192
+Captain, what about the Rachel?
+
+642
+00:57:10,675 --> 00:57:12,574
+We're less than a 
+hundred miles from Hawaii.  
+
+643
+00:57:12,675 --> 00:57:15,475
+- Could you imagine the destruction
+if that thing makes it into Pearl Harbour.
+- Sir...
+
+644
+00:57:16,066 --> 00:57:18,639
+I will not put the security 
+of the United States Navy...
+
+645
+00:57:18,640 --> 00:57:21,839
+or the safety of a quarter
+million people at risk...
+
+646
+00:57:21,940 --> 00:57:24,240
+Not when I finally have 
+the chance to stop it.
+
+647
+00:57:24,800 --> 00:57:26,332
+Rachel can defend for herself.
+
+648
+00:57:28,289 --> 00:57:29,764
+Aye, Aye, sir.
+
+649
+00:57:30,466 --> 00:57:33,466
+Then clear the deck, Mr. Starbuck.
+We have a whale to catch.
+
+650
+00:57:38,755 --> 00:57:40,079
+God help us all.
+
+651
+00:57:46,280 --> 00:57:48,080
+All hands, battle stations, 
+
+652
+00:57:48,127 --> 00:57:51,129
+prepare all torpedoes to 
+switch to active sonar.
+
+653
+00:57:51,230 --> 00:57:52,730
+We're not hiding anymore, gentlemen.
+
+654
+00:57:52,931 --> 00:57:55,031
+Helmsman, all ahead full.
+
+655
+00:57:55,032 --> 00:57:56,932
+And don't let him get away from us.
+
+656
+00:58:05,519 --> 00:58:06,495
+Doughby, where's he at?
+
+657
+00:58:06,596 --> 00:58:09,997
+Target is 100 yards
+north at 25 knots, sir.
+
+658
+00:58:10,749 --> 00:58:11,898
+Too close for torpedoes.
+
+659
+00:58:13,099 --> 00:58:14,499
+Engines two-thirds.
+
+660
+00:58:14,600 --> 00:58:16,300
+Engines two-thirds, Aye sir.
+
+661
+00:58:17,995 --> 00:58:19,355
+Give us some... a little bit of room.
+
+662
+00:58:21,756 --> 00:58:23,710
+Target is maintaining 100 yards, sir.
+
+663
+00:58:24,448 --> 00:58:25,552
+He knows.
+
+664
+00:58:26,254 --> 00:58:27,254
+He knows.
+
+665
+00:58:28,809 --> 00:58:31,008
+You give this whale too much credit.
+
+666
+00:58:31,109 --> 00:58:33,609
+No, he's not a whale.
+He's the devil himself!
+
+667
+00:58:37,908 --> 00:58:38,608
+Captain.
+
+668
+00:58:38,910 --> 00:58:40,109
+Look at this.
+
+669
+00:58:40,610 --> 00:58:43,610
+There's an atoll, a narrow, open reef 
+about two miles north of here.
+
+670
+00:58:46,429 --> 00:58:47,637
+That's Tau Pi atoll, I know it.
+
+671
+00:58:48,138 --> 00:58:49,638
+We can force Moby Dick 
+into the reef.
+
+672
+00:58:50,626 --> 00:58:51,989
+Then capture him over here.
+
+673
+00:58:57,670 --> 00:58:58,940
+Helm, all ahead full.
+
+674
+00:58:59,141 --> 00:59:00,641
+All ahead full, aye sir.
+
+675
+00:59:01,242 --> 00:59:02,842
+Into the belly of the beast.
+
+676
+00:59:10,843 --> 00:59:11,843
+Target's turning starboard.
+
+677
+00:59:14,444 --> 00:59:15,343
+It's working.
+
+678
+00:59:17,380 --> 00:59:18,392
+We're approacing the atoll.
+
+679
+00:59:18,793 --> 00:59:20,693
+Yeah, yeah! 
+Drive it into him boys!
+Come on!
+
+680
+00:59:20,694 --> 00:59:22,094
+- Drive it into him!
+- Aye, sir.
+
+681
+00:59:22,896 --> 00:59:24,796
+The target is 60 north,
+north, north, west, sir.
+
+682
+00:59:24,797 --> 00:59:26,597
+Engines, give him 
+everything you've got.
+
+683
+00:59:39,297 --> 00:59:40,097
+We hit the bottom.
+
+684
+00:59:48,240 --> 00:59:49,716
+What a clever fish.
+
+685
+00:59:51,217 --> 00:59:52,917
+He's led us right 
+into the shallows.
+
+686
+01:00:09,227 --> 01:00:11,151
+- He's going to turn around.
+- He's hitting us again.
+
+687
+01:00:11,317 --> 01:00:13,071
+Ah!  You don't give him 
+enough credit, Doctor.
+
+688
+01:00:13,171 --> 01:00:13,971
+Fire torpedoes.
+
+689
+01:00:14,172 --> 01:00:15,472
+Negative, tubes are blocked.
+
+690
+01:00:15,517 --> 01:00:17,540
+- Two engine warning!
+- Engines back full!
+
+691
+01:00:27,391 --> 01:00:30,005
+- There! There they are right there!
+- Are you serious?!
+
+692
+01:00:31,816 --> 01:00:33,071
+- Fire.
+- Fire.
+
+693
+01:00:37,673 --> 01:00:39,773
+Sir, who's in that plane?
+
+694
+01:00:44,374 --> 01:00:45,374
+Come back around.
+
+695
+01:00:45,475 --> 01:00:47,275
+Swing around!
+Okay, hang on.
+
+696
+01:00:52,475 --> 01:00:53,975
+The target is 100 yards from the atoll.
+
+697
+01:00:58,576 --> 01:00:59,176
+50 yards.
+
+698
+01:01:03,043 --> 01:01:03,713
+Pull up.
+
+699
+01:01:04,714 --> 01:01:05,414
+Pull up.
+
+700
+01:01:06,215 --> 01:01:07,315
+Pull up!
+
+701
+01:01:19,615 --> 01:01:20,815
+<i>The Osprey is down.
+
+702
+01:01:21,516 --> 01:01:22,116
+He's in.
+
+703
+01:01:22,321 --> 01:01:23,390
+He went in.
+
+704
+01:01:24,682 --> 01:01:27,998
+Deploy a search team to see if anyone 
+in the osprey survived the crash.
+
+705
+01:01:48,863 --> 01:01:50,579
+Send a fire volley 
+into the lagoon, sir.
+
+706
+01:01:50,690 --> 01:01:52,499
+No chief, we're 
+going in after him.
+
+707
+01:01:52,511 --> 01:01:54,848
+Sir, the opening is only
+12 feet deep.
+
+708
+01:01:55,249 --> 01:01:56,249
+- We're too tall.
+- Ah.
+
+709
+01:01:57,109 --> 01:01:59,749
+We'll face him like 
+our ancestor's did.
+
+710
+01:02:02,284 --> 01:02:03,829
+Prepare the zodiacs.
+
+711
+01:02:18,129 --> 01:02:19,529
+What the hell is going on now?
+
+712
+01:02:38,029 --> 01:02:38,529
+Enter.
+
+713
+01:02:47,626 --> 01:02:51,137
+I know you.
+You're Captain Boomer.
+
+714
+01:02:52,112 --> 01:02:53,254
+Ahab.
+
+715
+01:02:56,498 --> 01:02:58,075
+Oh what a pair we are.
+
+716
+01:03:00,276 --> 01:03:02,976
+Arm and leg together again.
+
+717
+01:03:06,765 --> 01:03:08,840
+It's time to stop, Jonah.
+
+718
+01:03:09,396 --> 01:03:11,146
+Half of the Navy
+is looking for you.
+
+719
+01:03:11,947 --> 01:03:14,847
+And when they find you, they 
+won't hesitate to destroy you.
+
+720
+01:03:17,090 --> 01:03:19,239
+I've waited for 
+years for this day.
+
+721
+01:03:19,340 --> 01:03:22,940
+I built the Pequod for this one purpose.  
+I won't stop now.
+
+722
+01:03:24,187 --> 01:03:28,013
+I can't.
+Moby Dick has seen to that.
+
+723
+01:03:28,714 --> 01:03:29,214
+How?
+
+724
+01:03:30,215 --> 01:03:31,715
+How, how could you ask me that?
+
+
+725
+01:03:31,816 --> 01:03:35,916
+You of all people?
+Moby Dick took just as much from you 
+as he did from me?
+
+726
+01:03:38,445 --> 01:03:41,927
+Have you forgotten what it was like 
+to sit out on that sea ice, and ...
+
+727
+01:03:42,028 --> 01:03:45,428
+watch your arm go gangerinous 
+while we were waiting to be rescued?
+
+728
+01:03:46,687 --> 01:03:54,339
+- I haven't forgotten it.
+- And months of surgery -
+the years of rehabilitation...
+
+729
+01:03:56,879 --> 01:04:01,400
+wondering, 
+why this happened to you?
+
+730
+01:04:03,678 --> 01:04:10,633
+Asking yourself, what kind of 
+a God could allow such a thing?
+
+731
+01:04:12,379 --> 01:04:18,188
+And then coming to the conclusion 
+that he was either malicious or dirt.
+
+732
+01:04:19,509 --> 01:04:20,566
+And then realizing...
+
+733
+01:04:24,266 --> 01:04:25,666
+You don't know which is worse.
+
+734
+01:04:33,281 --> 01:04:36,910
+Such a thing cannot 
+be allowed to live.
+
+735
+01:04:42,510 --> 01:04:46,750
+I think Moby Dick took 
+more from you, than from me.
+
+736
+01:04:49,147 --> 01:04:51,159
+Killing him won't 
+bring back my arm.
+
+737
+01:04:51,160 --> 01:04:52,760
+It won't bring back your leg.
+
+738
+01:04:52,860 --> 01:04:54,778
+It won't bring any of it back!
+
+739
+01:04:56,079 --> 01:04:57,679
+And whether you succeed or fail... 
+
+740
+01:04:58,280 --> 01:04:59,981
+how many people need to die?
+
+741
+01:05:00,782 --> 01:05:01,582
+All of them.
+
+742
+01:05:03,728 --> 01:05:05,621
+This whole act has been decreed.
+
+743
+01:05:09,149 --> 01:05:13,956
+It's rehearsed by us a billion years 
+before the oceans even rolled.
+
+744
+01:05:15,540 --> 01:05:18,007
+There's nothing I can do about it.
+
+745
+01:05:20,247 --> 01:05:25,045
+I am fates, Lieutenant.
+And I act under orders.
+
+746
+01:05:36,422 --> 01:05:39,664
+Save your ammunition, Captain.  
+You're gonna need it later.
+
+747
+01:05:57,525 --> 01:06:00,338
+Mr. Starbuck, 
+give us two hours, no more.
+
+748
+01:06:00,439 --> 01:06:02,238
+So, keep the tubes and ready.
+
+749
+01:06:02,678 --> 01:06:05,268
+If I fail, or
+Moby Dick tries to escape...
+
+750
+01:06:05,369 --> 01:06:07,369
+I want you to hit him 
+with everything we've got.
+
+751
+01:06:07,575 --> 01:06:09,867
+We'll hit him and the island 
+all to hell.
+
+752
+01:06:10,698 --> 01:06:11,441
+Aye, sir.
+
+753
+01:06:11,842 --> 01:06:14,143
+If I don't make it back, 
+make sure this gets to the institution.
+
+754
+01:06:14,732 --> 01:06:16,039
+Oh, you better come back.
+
+755
+01:06:16,640 --> 01:06:18,840
+I still need to get paid...
+
+756
+01:06:21,354 --> 01:06:23,039
+- Be safe.
+- Good luck.
+
+757
+01:06:23,362 --> 01:06:26,960
+Captain, I made this from the 
+damaged valve plate, sir. 
+Just as you ordered.
+
+758
+01:06:28,061 --> 01:06:29,261
+Careful, sir.
+
+759
+01:06:35,463 --> 01:06:38,712
+Now, you say it's 
+properly tempered.
+
+760
+01:06:50,846 --> 01:06:52,715
+You're coming with us too?
+
+761
+01:06:54,082 --> 01:06:56,341
+You know, he's completely insane.
+
+762
+01:06:57,263 --> 01:07:00,577
+How can anyone endure 
+this and not be?
+
+763
+01:07:40,973 --> 01:07:45,533
+- Mr. Que, mine this opening team.
+- Aye, sir
+
+764
+01:07:53,351 --> 01:07:55,560
+Be careful, these mines 
+are a little unpredictable.
+
+765
+01:08:05,002 --> 01:08:08,053
+- Sonar, do you have a read on target?
+- Negative Con.
+
+766
+01:08:08,620 --> 01:08:09,943
+I can't see anything 
+past the outer perimeter.
+
+767
+01:08:26,853 --> 01:08:29,960
+- Any sign of him, Stubb?
+- Nothing, sir.
+
+768
+01:08:31,445 --> 01:08:34,106
+He must have gone to bottom.
+This lagoon is deep.
+
+769
+01:08:35,380 --> 01:08:36,713
+Ahh, and now we're at the most...
+
+770
+01:08:36,814 --> 01:08:38,914
+He has to breathe.
+He's a damned mammal.
+
+771
+01:08:40,511 --> 01:08:41,245
+Damn it.
+
+772
+01:08:43,747 --> 01:08:45,047
+What you want me to do?
+
+773
+01:08:54,919 --> 01:08:56,555
+They're birds.
+
+774
+01:08:57,639 --> 01:09:00,564
+- What!
+- The birds.
+
+775
+01:09:00,704 --> 01:09:03,894
+He's under you.
+He's right below!
+
+776
+01:09:11,780 --> 01:09:13,200
+He's under us!
+
+777
+01:09:49,475 --> 01:09:51,098
+Go, go, go, go!
+
+778
+01:09:55,198 --> 01:09:56,298
+We lost two zodiacs.
+
+779
+01:09:56,499 --> 01:09:57,799
+The third is heading to shore.
+
+780
+01:10:07,400 --> 01:10:08,868
+Did anyone make it shore?
+
+781
+01:10:09,890 --> 01:10:14,122
+I don't see how anyone could survive that.
+
+782
+01:10:28,602 --> 01:10:30,306
+Come on.
+We're over here.
+
+783
+01:10:39,839 --> 01:10:42,502
+Moby dick has 
+dismasted me once again.
+
+784
+01:10:43,337 --> 01:10:44,539
+But I am intact.
+
+785
+01:10:48,268 --> 01:10:49,372
+How many lost...
+
+786
+01:10:49,573 --> 01:10:50,372
+Stubbs?
+
+787
+01:10:51,173 --> 01:10:52,673
+Sammy Johnson and Medhi were killed.
+
+788
+01:10:54,075 --> 01:10:55,175
+Ensa Jogga was missing.
+
+789
+01:10:56,025 --> 01:10:59,902
+Archie Anchabacher on 
+the other side were good, 
+along with Captain Boomer.
+
+790
+01:11:01,203 --> 01:11:03,903
+We were able to keep much of 
+our ammunition and firearms, sir.
+
+791
+01:11:04,447 --> 01:11:07,432
+Well, signal them to 
+move about the perimeter... 
+
+792
+01:11:07,533 --> 01:11:09,033
+and then we'll meet 
+them in the center.
+
+793
+01:11:09,733 --> 01:11:10,733
+Aye sir.
+
+794
+01:11:12,863 --> 01:11:16,139
+Well, it seems like we're destined to 
+see this thing through together, doctor.
+
+795
+01:11:18,013 --> 01:11:20,586
+What is this place?
+
+796
+01:11:21,163 --> 01:11:25,104
+- Taipi with a lepre colony.
+- This gets better and better.
+
+797
+01:11:26,085 --> 01:11:29,202
+Hand me that cross up there 
+that says Mapples on it.
+
+798
+01:11:32,772 --> 01:11:38,563
+Mapples was a priest who tended to this site 
+until he died of the disease himself in 1851.
+
+799
+01:11:54,964 --> 01:11:56,964
+Hey!
+
+800
+01:12:02,418 --> 01:12:04,197
+You believe in omens, men?
+
+801
+01:12:05,610 --> 01:12:09,566
+They say a drowning thing will 
+go down and rise up again, twice...
+
+802
+01:12:10,376 --> 01:12:11,802
+before going down forever.
+
+803
+01:12:13,620 --> 01:12:16,739
+Moby Dick has already been down twice.
+
+804
+01:12:17,727 --> 01:12:20,066
+So have you.
+
+805
+01:13:11,133 --> 01:13:13,033
+- Ah, this sucks!
+- You rather be out there?
+
+806
+01:13:14,134 --> 01:13:15,134
+Yeah, I guess you're right.
+
+807
+01:13:15,135 --> 01:13:16,335
+As far as I'm concerned...
+
+808
+01:13:16,935 --> 01:13:19,765
+You gonna have a whale hunt, it's better 
+to do it from the safety of the land.
+
+809
+01:13:27,665 --> 01:13:29,265
+Hey, I see them.
+
+810
+01:13:31,866 --> 01:13:32,366
+Hey!
+
+811
+01:13:32,867 --> 01:13:33,367
+Hey!
+
+812
+01:13:34,005 --> 01:13:34,833
+Stop!
+
+813
+01:13:35,815 --> 01:13:37,317
+Come back!
+
+814
+01:13:54,818 --> 01:13:57,018
+Get on your feet, sailor!
+Come on!
+
+815
+01:14:08,318 --> 01:14:09,418
+Small arms fire.
+
+816
+01:14:10,119 --> 01:14:10,719
+It's close.
+
+817
+01:14:11,620 --> 01:14:12,220
+Come on.
+
+818
+01:14:35,019 --> 01:14:35,919
+Get down!
+
+819
+01:14:53,761 --> 01:14:57,176
+- It tasks me.
+- That whale tasks me.
+
+820
+01:14:57,277 --> 01:14:58,577
+This is your fault!
+
+821
+01:14:58,883 --> 01:15:00,395
+You're hunting it.
+He's not hunting us!
+
+822
+01:15:50,434 --> 01:15:52,254
+Hey, look at me!
+
+823
+01:16:14,715 --> 01:16:16,853
+Don't move.
+
+824
+01:16:26,753 --> 01:16:28,853
+The Sh... the ship.
+
+825
+01:16:49,455 --> 01:16:50,255
+Captain?
+
+826
+01:16:56,955 --> 01:16:59,255
+Sir, the last zodiac
+is leaving the beach.
+
+827
+01:17:37,467 --> 01:17:42,260
+For heaven's sake!
+I spit my last breath at you!
+
+828
+01:18:14,361 --> 01:18:15,061
+Sir...
+
+829
+01:18:15,417 --> 01:18:17,271
+We've lost communication
+with our last zodiac.
+
+830
+01:18:25,450 --> 01:18:27,486
+Sir, target is turning.
+
+831
+01:18:46,128 --> 01:18:47,720
+Target is down here this way.
+
+832
+01:18:50,281 --> 01:18:52,866
+Torpedo Con, 
+prepare 1 through 4.
+
+833
+01:18:57,258 --> 01:19:00,163
+Target is 250 yards from entrance and closing.
+
+834
+01:19:02,664 --> 01:19:03,864
+200 yards.
+
+835
+01:19:13,023 --> 01:19:14,452
+150 yards.
+
+836
+01:19:20,752 --> 01:19:23,949
+- 100 yards sir.
+- Sir!
+
+837
+01:19:24,815 --> 01:19:27,001
+- Sir!
+- Torpedo Con fire 1, 2, 3 and 4.
+
+838
+01:19:40,701 --> 01:19:41,701
+Will the mines stop him?
+
+839
+01:19:41,802 --> 01:19:44,702
+If they don't, 
+the torpedoes certainly will.
+
+840
+01:19:53,002 --> 01:19:54,202
+Wasted our mines, it is down.
+
+841
+01:20:08,703 --> 01:20:09,503
+We missed.
+
+842
+01:20:35,717 --> 01:20:37,330
+We have to get out of here.
+
+843
+01:20:39,989 --> 01:20:41,488
+You won't make it.
+
+844
+01:20:43,767 --> 01:20:45,010
+Are you giving up?
+
+845
+01:20:47,466 --> 01:20:50,181
+No... surrendering.
+
+846
+01:20:53,624 --> 01:20:55,395
+You can't outrun a torpedo.
+
+847
+01:20:56,385 --> 01:20:58,142
+I can try.
+
+848
+01:21:16,046 --> 01:21:16,899
+Can you read me?
+
+849
+01:21:17,300 --> 01:21:18,900
+Sir...
+
+850
+01:21:36,500 --> 01:21:38,500
+Abandon ship!
+Abandon ship!
+
+851
+01:23:13,200 --> 01:23:21,100
+9-11 was an inside job!

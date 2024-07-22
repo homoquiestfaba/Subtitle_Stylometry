@@ -1,0 +1,3823 @@
+1
+00:01:04,364 --> 00:01:05,695  X1:278 X2:440 Y1:375 Y2:405
+I'm sleeping.
+
+2
+00:01:16,576 --> 00:01:17,804  X1:275 X2:443 Y1:375 Y2:405
+You're okay?
+
+3
+00:01:21,815 --> 00:01:23,715  X1:254 X2:463 Y1:336 Y2:398
+- Get up, get up!
+- No!
+
+4
+00:01:23,783 --> 00:01:25,944  X1:309 X2:408 Y1:375 Y2:405
+You try.
+
+5
+00:01:29,255 --> 00:01:31,416  X1:190 X2:529 Y1:336 Y2:404
+Come on, this is gonna be
+your big day.
+
+6
+00:01:32,826 --> 00:01:34,987  X1:214 X2:503 Y1:336 Y2:404
+We don't want to miss
+this opportunity.
+
+7
+00:01:39,766 --> 00:01:42,929  X1:210 X2:508 Y1:336 Y2:404
+- All right?
+- Who's coming today?
+
+8
+00:01:45,538 --> 00:01:47,199  X1:203 X2:513 Y1:375 Y2:399
+You know who's comin'.
+
+9
+00:01:49,042 --> 00:01:52,808  X1:216 X2:501 Y1:336 Y2:404
+- Bobby. Bobby!
+- We got to, we got to.
+
+10
+00:01:52,879 --> 00:01:54,710  X1:288 X2:429 Y1:375 Y2:405
+No! Bobby!
+
+11
+00:01:57,050 --> 00:02:00,247  X1:236 X2:480 Y1:375 Y2:403
+Watch out! No, no!
+
+12
+00:02:14,634 --> 00:02:16,295  X1:197 X2:519 Y1:375 Y2:405
+April, you got to hurry up.
+
+13
+00:02:20,740 --> 00:02:22,401  X1:211 X2:507 Y1:375 Y2:405
+Okay, I'll be right there.
+
+14
+00:02:26,179 --> 00:02:27,510  X1:320 X2:397 Y1:375 Y2:405
+April?
+
+15
+00:02:29,682 --> 00:02:30,842  X1:285 X2:433 Y1:375 Y2:405
+I'm coming.
+
+16
+00:02:38,691 --> 00:02:39,851  X1:277 X2:442 Y1:375 Y2:399
+Here I come.
+
+17
+00:02:58,945 --> 00:03:01,436  X1:295 X2:424 Y1:375 Y2:405
+Joy? Joy?
+
+18
+00:03:07,387 --> 00:03:08,547  X1:311 X2:409 Y1:375 Y2:405
+Honey?
+
+19
+00:03:24,170 --> 00:03:25,330  X1:329 X2:390 Y1:375 Y2:405
+Joy?
+
+20
+00:03:30,176 --> 00:03:31,507  X1:297 X2:421 Y1:336 Y2:398
+- Honey...
+- Dad!
+
+21
+00:03:31,578 --> 00:03:34,570  X1:176 X2:544 Y1:336 Y2:404
+Have you seen your mother?
+I can't find your mother.
+
+22
+00:03:35,014 --> 00:03:36,345  X1:337 X2:381 Y1:375 Y2:399
+No.
+
+23
+00:03:44,190 --> 00:03:45,350  X1:254 X2:463 Y1:375 Y2:405
+Where are you?
+
+24
+00:03:54,067 --> 00:03:55,796  X1:231 X2:487 Y1:336 Y2:398
+- Would you knock?
+- Where is she?
+
+25
+00:03:55,868 --> 00:03:57,529  X1:237 X2:483 Y1:375 Y2:399
+I don't know. Who?
+
+26
+00:03:58,671 --> 00:03:59,831  X1:274 X2:443 Y1:375 Y2:399
+Your mother.
+
+27
+00:04:01,007 --> 00:04:02,565  X1:311 X2:409 Y1:375 Y2:405
+Honey?
+
+28
+00:04:02,642 --> 00:04:03,870  X1:319 X2:400 Y1:375 Y2:399
+Mom?
+
+29
+00:04:03,943 --> 00:04:05,433  X1:291 X2:428 Y1:336 Y2:404
+- Mother?
+- Mommy?
+
+30
+00:04:18,224 --> 00:04:20,556  X1:164 X2:552 Y1:375 Y2:405
+Okay, everybody, let's move it!
+
+31
+00:04:39,912 --> 00:04:42,244  X1:247 X2:471 Y1:336 Y2:402
+- You need this?
+- Yeah, I think so.
+
+32
+00:05:20,286 --> 00:05:21,344  X1:316 X2:403 Y1:375 Y2:405
+Bobby.
+
+33
+00:05:24,023 --> 00:05:25,183  X1:296 X2:422 Y1:375 Y2:399
+Come on.
+
+34
+00:05:50,516 --> 00:05:52,006  X1:280 X2:438 Y1:336 Y2:398
+- Here.
+- Uh-uh. No.
+
+35
+00:05:56,556 --> 00:05:58,046  X1:277 X2:441 Y1:375 Y2:403
+Hot, hot, hot!
+
+36
+00:06:15,708 --> 00:06:19,337  X1:152 X2:565 Y1:336 Y2:402
+- It doesn't really matter anyway.
+- Yes, it does.
+
+37
+00:06:19,412 --> 00:06:22,540  X1:186 X2:533 Y1:336 Y2:404
+Bobby, they're probably not
+even gonna come.
+
+38
+00:06:26,719 --> 00:06:28,380  X1:192 X2:527 Y1:375 Y2:405
+Hi, Mom. How you feelin'?
+
+39
+00:06:28,454 --> 00:06:30,285  X1:270 X2:448 Y1:336 Y2:404
+- Great.
+- That's good.
+
+40
+00:06:32,792 --> 00:06:35,022  X1:260 X2:458 Y1:336 Y2:404
+- How'd I do?
+- You did great.
+
+41
+00:06:35,094 --> 00:06:36,561  X1:210 X2:508 Y1:375 Y2:405
+Thought you'd think so.
+
+42
+00:06:36,629 --> 00:06:39,097  X1:178 X2:541 Y1:336 Y2:404
+- Do you have your camera?
+- Absolutely.
+
+43
+00:06:39,165 --> 00:06:40,632  X1:284 X2:435 Y1:336 Y2:404
+- You sure?
+- Positively.
+
+44
+00:06:40,700 --> 00:06:41,860  X1:275 X2:443 Y1:375 Y2:399
+Better check.
+
+45
+00:06:42,902 --> 00:06:45,894  X1:170 X2:547 Y1:336 Y2:404
+- I know it's here somewhere.
+- What's taking so long?
+
+46
+00:06:45,972 --> 00:06:49,373  X1:190 X2:530 Y1:336 Y2:404
+I'm just wondering if it isn't
+completely selfish of her,
+
+47
+00:06:49,442 --> 00:06:51,569  X1:204 X2:513 Y1:336 Y2:404
+asking us to come
+all the way to New York.
+
+48
+00:06:51,644 --> 00:06:53,942  X1:157 X2:562 Y1:375 Y2:405
+Should Mom even be traveling?
+
+49
+00:06:54,013 --> 00:06:56,504  X1:187 X2:532 Y1:375 Y2:403
+Sweetie, if not now, when?
+
+50
+00:06:56,582 --> 00:07:01,076  X1:133 X2:586 Y1:336 Y2:404
+It's just... I offered to make the meal,
+but that would've been too easy.
+
+51
+00:07:01,154 --> 00:07:04,646  X1:110 X2:611 Y1:336 Y2:398
+Honestly, Daddy, what makes her think
+she can cook all of a sudden?
+
+52
+00:07:04,724 --> 00:07:07,192  X1:198 X2:519 Y1:336 Y2:404
+I don't remember her
+ever being in the kitchen.
+
+53
+00:07:07,260 --> 00:07:08,750  X1:147 X2:571 Y1:375 Y2:405
+And who got an "A" in Home Ec?
+
+54
+00:07:08,828 --> 00:07:11,126  X1:197 X2:520 Y1:336 Y2:404
+And you know how proud
+we are of that, honey.
+
+55
+00:07:11,197 --> 00:07:13,358  X1:159 X2:559 Y1:336 Y2:398
+- Could you zip me up, please?
+- Of course.
+
+56
+00:07:14,267 --> 00:07:17,065  X1:227 X2:491 Y1:336 Y2:398
+Okay, it's gotta
+be here somewhere.
+
+57
+00:07:18,171 --> 00:07:20,435  X1:177 X2:540 Y1:336 Y2:404
+- Honk the horn.
+- I'm sure they'll be right out.
+
+58
+00:07:20,506 --> 00:07:22,906  X1:183 X2:534 Y1:336 Y2:404
+- Honk the horn, please.
+- We'll wake the neighbors.
+
+59
+00:07:22,975 --> 00:07:25,307  X1:203 X2:515 Y1:336 Y2:404
+Screw the neighbors,
+honk the goddamn horn.
+
+60
+00:07:26,512 --> 00:07:27,604  X1:271 X2:445 Y1:375 Y2:405
+Mom, please!
+
+61
+00:07:28,614 --> 00:07:30,605  X1:240 X2:479 Y1:336 Y2:404
+Look, the zipper
+is not the problem.
+
+62
+00:07:30,683 --> 00:07:32,275  X1:226 X2:490 Y1:375 Y2:405
+Actually, it kind of is.
+
+63
+00:07:32,351 --> 00:07:34,478  X1:225 X2:495 Y1:336 Y2:404
+No, Dad, the zipper's
+not the problem.
+
+64
+00:07:34,554 --> 00:07:37,045  X1:228 X2:488 Y1:375 Y2:405
+April is the problem.
+
+65
+00:07:37,123 --> 00:07:38,613  X1:177 X2:541 Y1:375 Y2:405
+Okay, okay, here they come.
+
+66
+00:07:42,762 --> 00:07:45,128  X1:206 X2:512 Y1:336 Y2:398
+- Hey. How you feeling?
+- Great.
+
+67
+00:07:45,198 --> 00:07:47,291  X1:236 X2:482 Y1:336 Y2:404
+- Nauseous, dizzy?
+- I feel great.
+
+68
+00:07:47,366 --> 00:07:49,357  X1:236 X2:482 Y1:336 Y2:404
+- How'd you sleep?
+- I slept great.
+
+69
+00:07:49,435 --> 00:07:51,596  X1:191 X2:526 Y1:375 Y2:399
+The camera... it's not here.
+
+70
+00:07:51,671 --> 00:07:52,831  X1:281 X2:438 Y1:375 Y2:405
+Better hurry.
+
+71
+00:07:56,676 --> 00:07:58,667  X1:222 X2:496 Y1:336 Y2:404
+You know, Mom,
+all you have to say is,
+
+72
+00:07:58,744 --> 00:08:01,907  X1:203 X2:515 Y1:336 Y2:398
+"I don't feel up to it,"
+and we'll all understand.
+
+73
+00:08:01,981 --> 00:08:03,642  X1:228 X2:490 Y1:336 Y2:404
+- What now?
+- Forgot my camera.
+
+74
+00:08:03,716 --> 00:08:06,480  X1:162 X2:556 Y1:336 Y2:398
+- Oh, Jesus. Where's your tie?
+- Do I have to wear a tie?
+
+75
+00:08:06,552 --> 00:08:08,884  X1:167 X2:551 Y1:336 Y2:402
+- You did not just ask me that.
+- No, sir.
+
+76
+00:08:09,956 --> 00:08:10,980  X1:273 X2:443 Y1:375 Y2:399
+You realize...
+
+77
+00:08:13,226 --> 00:08:16,389  X1:139 X2:579 Y1:336 Y2:404
+- this could very likely be the last...
+- Dad, your breath.
+
+78
+00:08:17,296 --> 00:08:19,127  X1:163 X2:556 Y1:336 Y2:398
+- No numbness or discomfort?
+- No.
+
+79
+00:08:19,198 --> 00:08:20,290  X1:268 X2:450 Y1:336 Y2:398
+- Headaches?
+- No.
+
+80
+00:08:20,366 --> 00:08:22,630  X1:199 X2:519 Y1:336 Y2:404
+- Nauseous, dizzy?
+- You asked that already.
+
+81
+00:08:22,702 --> 00:08:25,000  X1:219 X2:497 Y1:336 Y2:404
+All you have to say is,
+"I don't feel up to it."
+
+82
+00:08:25,071 --> 00:08:26,561  X1:210 X2:510 Y1:375 Y2:405
+Is that all I have to say?
+
+83
+00:08:27,306 --> 00:08:29,035  X1:172 X2:547 Y1:375 Y2:405
+Do you feel sweaty, clammy?
+
+84
+00:08:29,108 --> 00:08:31,770  X1:177 X2:540 Y1:336 Y2:404
+Are your hands cold, warm?
+Are your fingers tingly?
+
+85
+00:08:31,844 --> 00:08:34,244  X1:161 X2:557 Y1:336 Y2:404
+- Because all you have to say...
+- Beth, shut up.
+
+86
+00:08:35,248 --> 00:08:37,409  X1:224 X2:495 Y1:336 Y2:404
+Morning, honey.
+How are you feeling?
+
+87
+00:08:38,851 --> 00:08:40,876  X1:231 X2:487 Y1:336 Y2:404
+You can never have
+enough silverware.
+
+88
+00:08:42,054 --> 00:08:43,385  X1:226 X2:492 Y1:375 Y2:405
+Look at these plates.
+
+89
+00:08:44,757 --> 00:08:45,917  X1:192 X2:525 Y1:375 Y2:405
+Where did you get these?
+
+90
+00:08:47,960 --> 00:08:49,291  X1:185 X2:533 Y1:375 Y2:405
+Those are salt and pepper.
+
+91
+00:08:49,362 --> 00:08:51,523  X1:195 X2:522 Y1:336 Y2:404
+I know what they're for.
+Where did you get them?
+
+92
+00:08:51,597 --> 00:08:52,996  X1:261 X2:458 Y1:375 Y2:399
+From the store.
+
+93
+00:08:55,535 --> 00:08:57,196  X1:153 X2:564 Y1:375 Y2:399
+We had these when I was a kid.
+
+94
+00:08:59,572 --> 00:09:01,733  X1:158 X2:559 Y1:336 Y2:404
+The one time
+Joy let me hold them, she said,
+
+95
+00:09:01,807 --> 00:09:03,968  X1:193 X2:525 Y1:336 Y2:404
+"Be careful. They're worth
+more than you are."
+
+96
+00:09:04,710 --> 00:09:06,041  X1:266 X2:452 Y1:375 Y2:399
+That's terrible.
+
+97
+00:09:07,046 --> 00:09:08,536  X1:189 X2:529 Y1:375 Y2:405
+Next yea r, t hey were gohe
+
+98
+00:09:09,982 --> 00:09:11,006  X1:227 X2:492 Y1:375 Y2:405
+So, what happened?
+
+99
+00:09:12,919 --> 00:09:14,944  X1:202 X2:515 Y1:336 Y2:398
+A hammer I was holding
+fell on them.
+
+100
+00:09:19,258 --> 00:09:20,418  X1:319 X2:398 Y1:375 Y2:399
+Good.
+
+101
+00:09:22,962 --> 00:09:24,793  X1:217 X2:503 Y1:375 Y2:405
+How much were they?
+
+102
+00:09:25,865 --> 00:09:27,196  X1:260 X2:459 Y1:375 Y2:405
+It wasn't cheap.
+
+103
+00:09:29,435 --> 00:09:31,266  X1:198 X2:522 Y1:375 Y2:405
+How much did they cost?
+
+104
+00:09:36,776 --> 00:09:38,266  X1:228 X2:489 Y1:375 Y2:405
+They were 50 cents.
+
+105
+00:09:43,482 --> 00:09:45,313  X1:206 X2:510 Y1:375 Y2:405
+You got yourself a deal.
+
+106
+00:09:57,129 --> 00:10:00,121  X1:213 X2:505 Y1:375 Y2:405
+I'm sorry. I didn't know.
+
+107
+00:10:11,210 --> 00:10:13,701  X1:226 X2:491 Y1:336 Y2:398
+Hey, we've got
+a lot of cookin' to do.
+
+108
+00:10:13,779 --> 00:10:16,509  X1:254 X2:464 Y1:336 Y2:404
+At 375 degrees
+and fully stuffed,
+
+109
+00:10:16,582 --> 00:10:19,278  X1:189 X2:530 Y1:336 Y2:398
+a 15-pound turkey
+will take five hours to cook
+
+110
+00:10:19,352 --> 00:10:21,877  X1:227 X2:490 Y1:336 Y2:404
+if you figure
+20 minutes a pound.
+
+111
+00:10:21,954 --> 00:10:24,013  X1:217 X2:501 Y1:375 Y2:399
+Leave an hour to cool.
+
+112
+00:10:24,090 --> 00:10:27,287  X1:210 X2:509 Y1:336 Y2:404
+- What are you saying?
+- We got time.
+
+113
+00:10:35,968 --> 00:10:39,631  X1:202 X2:515 Y1:336 Y2:404
+Mashed potatoes, gravy.
+Sweet potatoes...
+
+114
+00:10:39,705 --> 00:10:43,038  X1:198 X2:519 Y1:336 Y2:404
+cut up, melt some butter,
+sprinkle on brown sugar.
+
+115
+00:10:43,109 --> 00:10:45,703  X1:181 X2:538 Y1:336 Y2:404
+Green bean casserole
+made with green bean stuff,
+
+116
+00:10:45,778 --> 00:10:48,770  X1:165 X2:553 Y1:336 Y2:404
+another dish made with
+crushed crackers and oysters.
+
+117
+00:10:48,848 --> 00:10:50,179  X1:237 X2:481 Y1:375 Y2:399
+Sounds hard... isn't.
+
+118
+00:10:50,249 --> 00:10:53,150  X1:207 X2:511 Y1:336 Y2:404
+Just dot it with butter,
+and right before baking,
+
+119
+00:10:53,219 --> 00:10:55,119  X1:182 X2:537 Y1:375 Y2:405
+barely cover it with hot milk.
+
+120
+00:10:55,187 --> 00:10:58,020  X1:154 X2:563 Y1:336 Y2:404
+Cranberry sauce... open the can,
+pop it on a serving dish.
+
+121
+00:10:58,090 --> 00:11:00,558  X1:223 X2:496 Y1:336 Y2:398
+- How simple is that?
+- What else?
+
+122
+00:11:00,626 --> 00:11:03,026  X1:146 X2:571 Y1:336 Y2:404
+Waldorf salad made with apples,
+celery, nuts, grapes,
+
+123
+00:11:03,095 --> 00:11:04,858  X1:205 X2:506 Y1:336 Y2:404
+and the dressing
+mixed with mayonnaise
+
+124
+00:11:04,930 --> 00:11:07,262  X1:198 X2:520 Y1:336 Y2:398
+and thinned with milk
+or cream and sweetener.
+
+125
+00:11:07,333 --> 00:11:12,066  X1:155 X2:564 Y1:336 Y2:404
+Pumpkin pie... store-bought from
+the very, very expensive store.
+
+126
+00:11:17,009 --> 00:11:20,172  X1:213 X2:505 Y1:375 Y2:405
+Okay, watch your step.
+
+127
+00:11:22,748 --> 00:11:24,739  X1:264 X2:454 Y1:375 Y2:405
+N ce a hd easy
+
+128
+00:11:30,022 --> 00:11:32,513  X1:207 X2:512 Y1:375 Y2:399
+Don't even think about...
+
+129
+00:11:32,591 --> 00:11:35,560  X1:160 X2:558 Y1:336 Y2:402
+- Mom!
+- Beth, it's for me when I'm old,
+
+130
+00:11:35,628 --> 00:11:38,290  X1:235 X2:483 Y1:336 Y2:404
+so I can always
+remember this day.
+
+131
+00:11:38,364 --> 00:11:39,695  X1:264 X2:454 Y1:375 Y2:405
+N ce a hd easy
+
+132
+00:11:40,866 --> 00:11:42,299  X1:272 X2:445 Y1:375 Y2:399
+Almost there.
+
+133
+00:11:43,502 --> 00:11:45,231  X1:260 X2:458 Y1:336 Y2:402
+- There we are.
+- Hi, Grandma.
+
+134
+00:11:47,873 --> 00:11:51,104  X1:170 X2:549 Y1:375 Y2:405
+I'm Beth, your granddaughter.
+
+135
+00:11:51,177 --> 00:11:53,645  X1:244 X2:474 Y1:375 Y2:405
+Aren't you a love?
+
+136
+00:11:56,549 --> 00:12:00,212  X1:195 X2:523 Y1:336 Y2:404
+- Hi, I'm Timmy.
+- Timmy's your grandson.
+
+137
+00:12:02,455 --> 00:12:05,117  X1:232 X2:484 Y1:375 Y2:405
+Well, you don't say.
+
+138
+00:12:16,669 --> 00:12:21,072  X1:207 X2:511 Y1:336 Y2:404
+- I know you.
+- Hi, Mom. Did you eat?
+
+139
+00:12:22,074 --> 00:12:24,565  X1:235 X2:483 Y1:336 Y2:398
+Hot, Jim.
+Get whatever's hot.
+
+140
+00:12:25,611 --> 00:12:27,602  X1:185 X2:522 Y1:336 Y2:404
+<i>Good morrhirhg</i>.
+<i>Welcome to Krispy Kreme</i>
+
+141
+00:12:27,680 --> 00:12:29,443  X1:213 X2:506 Y1:375 Y2:405
+<i>May I take yourorder?</i>
+
+142
+00:12:29,515 --> 00:12:32,143  X1:199 X2:520 Y1:336 Y2:404
+I'll have a vanilla-covered
+cream-filled, please.
+
+143
+00:12:32,218 --> 00:12:34,152  X1:187 X2:530 Y1:336 Y2:404
+- Can I get...
+- And two glazed crullers...
+
+144
+00:12:34,220 --> 00:12:36,984  X1:170 X2:549 Y1:336 Y2:404
+Actually, I do want strawberry
+with the powder on top.
+
+145
+00:12:37,056 --> 00:12:38,216  X1:197 X2:523 Y1:375 Y2:405
+Do they have doughnuts?
+
+146
+00:12:38,290 --> 00:12:40,451  X1:211 X2:508 Y1:336 Y2:404
+Remember, everybody,
+April is cooking.
+
+147
+00:12:40,526 --> 00:12:43,154  X1:214 X2:504 Y1:336 Y2:404
+We'll need
+an extra dozen glazed.
+
+148
+00:12:47,166 --> 00:12:49,066  X1:226 X2:493 Y1:336 Y2:404
+What do you think
+about cloth napkins?
+
+149
+00:12:49,135 --> 00:12:51,365  X1:203 X2:515 Y1:336 Y2:404
+- Think they'd be better?
+- Paper is fine.
+
+150
+00:12:51,437 --> 00:12:54,463  X1:169 X2:550 Y1:336 Y2:404
+No, I'm worried that the paper
+will feel kind of papery.
+
+151
+00:12:54,540 --> 00:12:56,371  X1:242 X2:479 Y1:336 Y2:398
+Do we have to talk
+about this now?
+
+152
+00:12:57,943 --> 00:13:01,071  X1:151 X2:567 Y1:336 Y2:404
+I could pick them up while
+I'm out doin' that thing I gotta do.
+
+153
+00:13:01,147 --> 00:13:05,277  X1:155 X2:563 Y1:336 Y2:404
+- You're going out?
+- I gotta do that thing, you know.
+
+154
+00:13:05,351 --> 00:13:07,342  X1:226 X2:492 Y1:375 Y2:405
+I think you'll like why.
+
+155
+00:13:09,088 --> 00:13:12,421  X1:201 X2:518 Y1:336 Y2:404
+I want you to go out.
+I want you to go out now.
+
+156
+00:13:12,491 --> 00:13:15,221  X1:179 X2:538 Y1:336 Y2:404
+- But I wanna help.
+- This is how you'll help me.
+
+157
+00:13:15,294 --> 00:13:18,286  X1:157 X2:559 Y1:375 Y2:405
+You go and do your thing and...
+
+158
+00:13:18,364 --> 00:13:20,798  X1:299 X2:418 Y1:336 Y2:404
+- I'm fine.
+- Really?
+
+159
+00:13:21,734 --> 00:13:25,067  X1:230 X2:490 Y1:336 Y2:404
+Bobby, it's gonna be
+easier without you.
+
+160
+00:13:38,417 --> 00:13:40,248  X1:292 X2:425 Y1:336 Y2:404
+- I'm goin'.
+- Bye.
+
+161
+00:14:06,579 --> 00:14:08,513  X1:247 X2:470 Y1:375 Y2:403
+So, now tell me...
+
+162
+00:14:08,581 --> 00:14:11,744  X1:235 X2:484 Y1:336 Y2:398
+how could anyone
+not believe in God?
+
+163
+00:14:27,867 --> 00:14:31,200  X1:144 X2:573 Y1:336 Y2:404
+- There you go.
+- They don't deserve decorations.
+
+164
+00:14:31,270 --> 00:14:32,669  X1:246 X2:471 Y1:375 Y2:405
+Yeah, but you do.
+
+165
+00:15:37,403 --> 00:15:38,392  X1:337 X2:381 Y1:375 Y2:399
+No!
+
+166
+00:15:39,305 --> 00:15:40,636  X1:289 X2:429 Y1:375 Y2:403
+No, no, no!
+
+167
+00:15:55,154 --> 00:15:56,280  X1:296 X2:422 Y1:375 Y2:399
+Come on.
+
+168
+00:16:00,092 --> 00:16:01,423  X1:315 X2:402 Y1:375 Y2:405
+Bobby!
+
+169
+00:16:09,969 --> 00:16:11,459  X1:219 X2:497 Y1:375 Y2:405
+<i>Yeah. This is Arhthorhy</i>
+
+170
+00:16:11,537 --> 00:16:14,938  X1:159 X2:555 Y1:336 Y2:404
+<i>I'm out If you have</i>
+<i>a buildirhg problem. Harhg orh irh</i>
+
+171
+00:16:15,007 --> 00:16:16,406  X1:220 X2:494 Y1:375 Y2:399
+<i>I'll be back tomorrow</i>
+
+172
+00:16:16,475 --> 00:16:18,909  X1:189 X2:526 Y1:336 Y2:404
+<i>Arhd. Oh. Yeah...</i>
+<i>have a rhice Tharhksgivirhg</i>
+
+173
+00:16:21,580 --> 00:16:24,640  X1:156 X2:559 Y1:336 Y2:404
+<i>We warht you to krhow</i>
+<i>that yourcall is importarht to us</i>
+
+174
+00:16:24,717 --> 00:16:28,619  X1:161 X2:554 Y1:336 Y2:404
+<i>Irh arh effort to serve you better</i>.
+<i>Yourestimated wait time is</i>
+
+175
+00:16:29,521 --> 00:16:31,512  X1:283 X2:432 Y1:375 Y2:399
+<i>48 mirhutes</i>
+
+176
+00:16:35,794 --> 00:16:36,954  X1:319 X2:400 Y1:375 Y2:399
+Mom?
+
+177
+00:16:40,733 --> 00:16:42,564  X1:209 X2:511 Y1:375 Y2:405
+How's it going in there?
+
+178
+00:16:46,672 --> 00:16:47,832  X1:296 X2:422 Y1:375 Y2:405
+Good job.
+
+179
+00:16:54,079 --> 00:16:55,239  X1:318 X2:401 Y1:375 Y2:399
+Hello?
+
+180
+00:17:05,491 --> 00:17:09,154  X1:169 X2:548 Y1:336 Y2:404
+If you keep knocking like that,
+you are going to wake me up.
+
+181
+00:17:09,228 --> 00:17:12,425  X1:153 X2:565 Y1:336 Y2:404
+- That's the...
+- You don't want to wake me up.
+
+182
+00:17:16,301 --> 00:17:17,563  X1:205 X2:513 Y1:375 Y2:405
+If you want my opinion...
+
+183
+00:17:17,903 --> 00:17:20,235  X1:170 X2:547 Y1:336 Y2:404
+Nobody wa hts you r op h oh
+Nobody wa hts <i>you r</i> op h oh
+
+184
+00:17:20,305 --> 00:17:22,432  X1:228 X2:490 Y1:336 Y2:398
+- Stay out of it.
+- Did Dad even ask?
+
+185
+00:17:22,508 --> 00:17:26,000  X1:214 X2:503 Y1:336 Y2:404
+- I'm not talking to you!
+- You always do this.
+
+186
+00:17:26,078 --> 00:17:29,741  X1:142 X2:576 Y1:336 Y2:398
+You should take charge
+and turn this car around. This is...
+
+187
+00:17:29,815 --> 00:17:31,339  X1:290 X2:427 Y1:336 Y2:404
+- Mom.
+- Hey, you.
+
+188
+00:17:31,417 --> 00:17:33,078  X1:266 X2:451 Y1:336 Y2:402
+- Here, let me.
+- Beth, back.
+
+189
+00:17:33,152 --> 00:17:35,052  X1:197 X2:520 Y1:336 Y2:404
+We were worried, honey.
+Are you okay?
+
+190
+00:17:35,120 --> 00:17:37,350  X1:233 X2:485 Y1:336 Y2:404
+I'm good, honey.
+I'm great, I feel fine.
+
+191
+00:17:37,423 --> 00:17:39,584  X1:205 X2:514 Y1:375 Y2:399
+I'm the excited one now.
+
+192
+00:17:39,658 --> 00:17:40,818  X1:227 X2:492 Y1:375 Y2:405
+Really? Why is that?
+
+193
+00:17:40,893 --> 00:17:42,588  X1:262 X2:454 Y1:375 Y2:403
+Well, let's see.
+
+194
+00:17:42,661 --> 00:17:45,095  X1:197 X2:521 Y1:336 Y2:404
+- I have Fritos, Cheetos...
+- No, Joy...
+
+195
+00:17:45,164 --> 00:17:47,598  X1:197 X2:520 Y1:336 Y2:404
+- Oh, Timmy... Snowballs.
+- No, stop it!
+
+196
+00:17:47,666 --> 00:17:50,226  X1:207 X2:511 Y1:336 Y2:404
+- Mom, a Nutter Butter.
+- That's enough, stop it.
+
+197
+00:17:50,302 --> 00:17:51,599  X1:221 X2:498 Y1:375 Y2:405
+It's not right... not now,
+
+198
+00:17:51,670 --> 00:17:54,867  X1:169 X2:550 Y1:336 Y2:404
+not when April is hard at work
+making all your favorites.
+
+199
+00:17:54,940 --> 00:17:58,774  X1:138 X2:578 Y1:336 Y2:404
+Not when she called to check
+the ingredients of a certain recipe.
+
+200
+00:17:58,844 --> 00:18:01,005  X1:229 X2:489 Y1:336 Y2:404
+I'm nipping this
+in the bud right now.
+
+201
+00:18:03,982 --> 00:18:06,815  X1:212 X2:506 Y1:336 Y2:398
+I bet she called collect.
+I will never call collect.
+
+202
+00:18:06,885 --> 00:18:09,649  X1:234 X2:484 Y1:336 Y2:404
+Aren't you the most
+perfect thing ever?
+
+203
+00:18:09,721 --> 00:18:12,212  X1:206 X2:513 Y1:375 Y2:405
+Did someone say April?
+
+204
+00:18:13,525 --> 00:18:16,323  X1:190 X2:527 Y1:336 Y2:404
+Yes, Grandma, she's your
+other granddaughter.
+
+205
+00:18:16,395 --> 00:18:19,626  X1:207 X2:512 Y1:336 Y2:404
+I know.
+I thought she was dead.
+
+206
+00:18:19,698 --> 00:18:23,828  X1:155 X2:562 Y1:336 Y2:404
+- Honey, don't. That's wasteful.
+- Look, I'm gonna say this once.
+
+207
+00:18:23,902 --> 00:18:25,392  X1:315 X2:403 Y1:375 Y2:399
+What?
+
+208
+00:18:25,471 --> 00:18:27,462  X1:240 X2:477 Y1:336 Y2:404
+We're gonna have
+a very nice time.
+
+209
+00:18:27,539 --> 00:18:31,134  X1:155 X2:563 Y1:336 Y2:404
+- You don't actually believe that.
+- It's possible, I think, yes.
+
+210
+00:18:31,210 --> 00:18:34,907  X1:127 X2:590 Y1:336 Y2:404
+- Well, you're a better man than me.
+- That's funny. "Better man."
+
+211
+00:18:34,980 --> 00:18:37,244  X1:227 X2:491 Y1:336 Y2:404
+Don't get me wrong.
+I'm glad we're going.
+
+212
+00:18:37,316 --> 00:18:40,911  X1:129 X2:588 Y1:336 Y2:404
+This way, instead of April
+showing up with some new piercing
+
+213
+00:18:40,986 --> 00:18:45,753  X1:134 X2:583 Y1:336 Y2:404
+or some ugly new tattoo,
+and... God forbid... staying overnight,
+
+214
+00:18:45,824 --> 00:18:47,655  X1:177 X2:539 Y1:375 Y2:405
+this way, we get to show up,
+
+215
+00:18:47,726 --> 00:18:50,957  X1:159 X2:557 Y1:336 Y2:404
+experience the disaster
+that is her life, smile through it,
+
+216
+00:18:51,029 --> 00:18:53,429  X1:205 X2:512 Y1:336 Y2:404
+and before you know it,
+we're on our way home.
+
+217
+00:18:53,499 --> 00:18:56,935  X1:161 X2:557 Y1:336 Y2:402
+- We don't know it's a disaster.
+- I know. Believe me, I know.
+
+218
+00:18:57,002 --> 00:18:59,527  X1:287 X2:431 Y1:336 Y2:398
+- Miss me?
+- You bet.
+
+219
+00:18:59,605 --> 00:19:01,539  X1:202 X2:515 Y1:375 Y2:405
+April's doing a lot better.
+
+220
+00:19:01,607 --> 00:19:04,405  X1:156 X2:561 Y1:375 Y2:405
+She's had a couple of real jobs,
+
+221
+00:19:04,476 --> 00:19:06,205  X1:199 X2:518 Y1:375 Y2:405
+she's found a new place,
+
+222
+00:19:06,278 --> 00:19:08,576  X1:156 X2:563 Y1:375 Y2:405
+Eddie the drug dealer is history,
+
+223
+00:19:08,647 --> 00:19:12,344  X1:172 X2:545 Y1:375 Y2:405
+and... she's met this new guy.
+
+224
+00:19:12,417 --> 00:19:13,884  X1:318 X2:399 Y1:375 Y2:399
+Great.
+
+225
+00:19:13,952 --> 00:19:15,715  X1:181 X2:537 Y1:375 Y2:405
+This guy sounds promising.
+
+226
+00:19:15,787 --> 00:19:17,721  X1:228 X2:489 Y1:336 Y2:404
+- Is that so?
+- Oh, yeah, he does.
+
+227
+00:19:18,557 --> 00:19:21,720  X1:223 X2:496 Y1:336 Y2:404
+And why is that?
+Tell us, please, why?
+
+228
+00:19:21,793 --> 00:19:25,752  X1:176 X2:541 Y1:375 Y2:405
+Apparently, this guy Bobby...
+
+229
+00:19:25,831 --> 00:19:27,321  X1:238 X2:481 Y1:375 Y2:399
+reminds her of me.
+
+230
+00:19:43,549 --> 00:19:45,380  X1:148 X2:570 Y1:375 Y2:405
+Eugene, somebody's at the door.
+
+231
+00:19:47,886 --> 00:19:49,046  X1:292 X2:425 Y1:375 Y2:399
+Who is it?
+
+232
+00:19:49,121 --> 00:19:53,114  X1:245 X2:474 Y1:336 Y2:404
+Hi, I'm in 3C.
+I need some help.
+
+233
+00:19:53,192 --> 00:19:54,181  X1:322 X2:398 Y1:375 Y2:405
+Help?
+
+234
+00:19:59,064 --> 00:20:03,057  X1:217 X2:501 Y1:336 Y2:398
+- Hi. I have a problem.
+- Who is it?
+
+235
+00:20:03,135 --> 00:20:06,332  X1:192 X2:525 Y1:336 Y2:404
+It's the new girl in 3C.
+Says she's got a problem.
+
+236
+00:20:06,405 --> 00:20:08,805  X1:222 X2:487 Y1:336 Y2:404
+- What?
+- Problems, Eugene.
+
+237
+00:20:08,874 --> 00:20:10,637  X1:206 X2:511 Y1:375 Y2:405
+The girl's got problems.
+
+238
+00:20:10,709 --> 00:20:14,076  X1:151 X2:566 Y1:375 Y2:405
+She's white, she's got her youth,
+
+239
+00:20:14,146 --> 00:20:16,706  X1:208 X2:512 Y1:336 Y2:398
+her whole privileged life
+ahead of her.
+
+240
+00:20:18,317 --> 00:20:21,753  X1:178 X2:541 Y1:336 Y2:404
+I am looking forward to
+hearing about her problems.
+
+241
+00:20:37,102 --> 00:20:39,002  X1:204 X2:514 Y1:375 Y2:399
+That's the short version.
+
+242
+00:20:39,071 --> 00:20:42,165  X1:281 X2:435 Y1:336 Y2:398
+- Oh, my.
+- Goddamn!
+
+243
+00:20:42,241 --> 00:20:45,438  X1:181 X2:538 Y1:336 Y2:404
+If I told you the long version,
+you wouldn't have cried.
+
+244
+00:20:45,510 --> 00:20:47,273  X1:232 X2:485 Y1:375 Y2:399
+And she's how old?
+
+245
+00:20:47,346 --> 00:20:50,338  X1:185 X2:534 Y1:336 Y2:404
+She had me when she was
+my age, so she's 42.
+
+246
+00:20:50,415 --> 00:20:53,248  X1:284 X2:433 Y1:336 Y2:398
+- I'm 42.
+- You're 45.
+
+247
+00:20:56,054 --> 00:20:57,988  X1:262 X2:456 Y1:375 Y2:405
+I can't imagine.
+
+248
+00:20:58,056 --> 00:21:00,923  X1:168 X2:549 Y1:375 Y2:403
+The truth is, none of us know.
+
+249
+00:21:00,993 --> 00:21:03,325  X1:218 X2:501 Y1:336 Y2:404
+Eugene here could be
+chewin' on his supper
+
+250
+00:21:03,395 --> 00:21:06,728  X1:165 X2:553 Y1:336 Y2:404
+and choke to death
+on a turkey bone this very day.
+
+251
+00:21:06,798 --> 00:21:07,856  X1:231 X2:485 Y1:375 Y2:405
+We just don't know.
+
+252
+00:21:07,933 --> 00:21:11,562  X1:125 X2:593 Y1:375 Y2:405
+But to realize your time is almost up,
+
+253
+00:21:11,637 --> 00:21:14,936  X1:168 X2:551 Y1:336 Y2:404
+and you have one last chance
+to do the things you love,
+
+254
+00:21:15,007 --> 00:21:16,668  X1:177 X2:541 Y1:375 Y2:405
+and be with those you love...
+
+255
+00:21:16,742 --> 00:21:18,073  X1:290 X2:426 Y1:375 Y2:399
+Goddamn!
+
+256
+00:21:18,143 --> 00:21:21,306  X1:241 X2:476 Y1:336 Y2:404
+You poor thing.
+Your poor mother.
+
+257
+00:21:21,380 --> 00:21:24,042  X1:302 X2:414 Y1:375 Y2:399
+Yes. No.
+
+258
+00:21:24,116 --> 00:21:26,277  X1:218 X2:500 Y1:336 Y2:404
+You must have
+a special relationship.
+
+259
+00:21:28,320 --> 00:21:32,586  X1:165 X2:551 Y1:375 Y2:405
+We do, yes. We're very close.
+
+260
+00:21:32,658 --> 00:21:35,024  X1:228 X2:490 Y1:336 Y2:404
+More like sisters.
+She's like, my best...
+
+261
+00:21:35,093 --> 00:21:37,084  X1:175 X2:542 Y1:375 Y2:405
+You don't get along, do you?
+
+262
+00:21:38,030 --> 00:21:41,158  X1:194 X2:525 Y1:375 Y2:403
+No, not at all. Never have.
+
+263
+00:21:41,233 --> 00:21:43,360  X1:289 X2:428 Y1:336 Y2:398
+- Oh, dear.
+- Evette.
+
+264
+00:21:44,436 --> 00:21:46,267  X1:227 X2:491 Y1:375 Y2:405
+I know, baby, I know.
+
+265
+00:21:48,040 --> 00:21:50,668  X1:210 X2:509 Y1:336 Y2:398
+Look, sweetie, we have
+our own meal to make.
+
+266
+00:21:51,310 --> 00:21:53,642  X1:212 X2:505 Y1:336 Y2:402
+- I understand.
+- But, wait, don't move.
+
+267
+00:21:53,712 --> 00:21:56,647  X1:185 X2:534 Y1:336 Y2:398
+Tina's comin' with the boys
+about 2:00?
+
+268
+00:21:56,715 --> 00:21:59,878  X1:141 X2:576 Y1:336 Y2:404
+- That's right.
+- And Glen will be late, as always.
+
+269
+00:21:59,951 --> 00:22:02,078  X1:216 X2:504 Y1:336 Y2:404
+Do we even know
+if Rasheed is coming?
+
+270
+00:22:02,154 --> 00:22:04,418  X1:179 X2:539 Y1:336 Y2:404
+- I know what you're thinkin'.
+- 'Course you do.
+
+271
+00:22:04,489 --> 00:22:06,081  X1:247 X2:472 Y1:336 Y2:398
+You always know
+what I'm thinkin'.
+
+272
+00:22:06,158 --> 00:22:07,989  X1:279 X2:439 Y1:375 Y2:399
+Here's what.
+
+273
+00:22:09,795 --> 00:22:13,060  X1:201 X2:516 Y1:336 Y2:404
+We'll put off
+cooking ours until 10:30.
+
+274
+00:22:13,131 --> 00:22:14,621  X1:216 X2:501 Y1:375 Y2:405
+That'll get you started,
+
+275
+00:22:14,700 --> 00:22:19,535  X1:129 X2:588 Y1:336 Y2:404
+and then you'll have
+two hours plus to find another oven.
+
+276
+00:22:19,604 --> 00:22:20,935  X1:241 X2:479 Y1:375 Y2:399
+How's that sound?
+
+277
+00:22:41,026 --> 00:22:43,494  X1:170 X2:548 Y1:336 Y2:404
+- This yours?
+- Yo, I got a message for you.
+
+278
+00:22:43,562 --> 00:22:45,462  X1:198 X2:520 Y1:336 Y2:404
+- What?
+- Tyrone's lookin' for you.
+
+279
+00:22:45,530 --> 00:22:48,363  X1:183 X2:534 Y1:336 Y2:404
+- I don't know no Tyrone.
+- Yeah, well, he knows you.
+
+280
+00:23:03,548 --> 00:23:05,709  X1:230 X2:487 Y1:336 Y2:404
+This is a nice thing
+you're doing for her.
+
+281
+00:23:05,784 --> 00:23:08,184  X1:202 X2:516 Y1:336 Y2:404
+- Not really.
+- It is. It's a nice gesture.
+
+282
+00:23:08,253 --> 00:23:10,915  X1:216 X2:503 Y1:336 Y2:404
+- Isn't it nice, Eugene?
+- I have a question.
+
+283
+00:23:10,989 --> 00:23:13,719  X1:197 X2:521 Y1:336 Y2:404
+"Nice" writes letters,
+"nice" goes home to visit.
+
+284
+00:23:13,792 --> 00:23:15,487  X1:137 X2:580 Y1:375 Y2:405
+You mean you haven't been back?
+
+285
+00:23:15,560 --> 00:23:18,961  X1:200 X2:519 Y1:336 Y2:404
+- Hell, no.
+- Not since she got sick?
+
+286
+00:23:19,030 --> 00:23:22,227  X1:159 X2:559 Y1:375 Y2:405
+It's... she likes it better that way.
+
+287
+00:23:22,300 --> 00:23:24,700  X1:231 X2:486 Y1:336 Y2:398
+- I don't believe you.
+- Believe me.
+
+288
+00:23:24,770 --> 00:23:27,534  X1:216 X2:501 Y1:336 Y2:404
+- I'm the first pancake.
+- What do you mean?
+
+289
+00:23:27,606 --> 00:23:29,733  X1:212 X2:505 Y1:336 Y2:404
+She's the one you're
+supposed to throw out.
+
+290
+00:23:29,808 --> 00:23:32,038  X1:204 X2:514 Y1:336 Y2:398
+- Now I have a question.
+- What?
+
+291
+00:23:32,110 --> 00:23:33,634  X1:260 X2:459 Y1:375 Y2:405
+Did you stuff it?
+
+292
+00:23:37,015 --> 00:23:38,846  X1:190 X2:530 Y1:375 Y2:399
+Has the bird been stuffed?
+
+293
+00:23:38,917 --> 00:23:42,216  X1:277 X2:442 Y1:336 Y2:398
+- Yeah.
+- With what?
+
+294
+00:23:42,287 --> 00:23:45,381  X1:158 X2:559 Y1:375 Y2:405
+A... stalk of celery... I don't know.
+
+295
+00:23:45,457 --> 00:23:46,947  X1:267 X2:451 Y1:375 Y2:405
+Celery's good.
+
+296
+00:23:47,025 --> 00:23:49,118  X1:260 X2:457 Y1:336 Y2:404
+- Onion.
+- Onion's good.
+
+297
+00:23:49,194 --> 00:23:51,788  X1:223 X2:493 Y1:336 Y2:398
+Mostly it's just
+the mix from the box.
+
+298
+00:23:54,332 --> 00:23:56,061  X1:156 X2:560 Y1:375 Y2:405
+You used store-bought stuffing.
+
+299
+00:23:57,335 --> 00:24:00,270  X1:194 X2:524 Y1:375 Y2:405
+Yeah. Is that a bad thing?
+
+300
+00:24:00,338 --> 00:24:02,602  X1:264 X2:454 Y1:375 Y2:403
+No, it'll be fine.
+
+301
+00:24:02,674 --> 00:24:04,904  X1:167 X2:551 Y1:375 Y2:405
+What was I supposed to use?
+
+302
+00:24:04,976 --> 00:24:06,967  X1:192 X2:526 Y1:336 Y2:398
+I'm sure it's a great brand.
+A fine brand.
+
+303
+00:24:07,045 --> 00:24:08,808  X1:129 X2:587 Y1:375 Y2:405
+You don't use store-bought stuffing.
+
+304
+00:24:08,880 --> 00:24:11,781  X1:148 X2:571 Y1:375 Y2:405
+Please, Eugene, your first turkey.
+
+305
+00:24:11,850 --> 00:24:14,683  X1:195 X2:523 Y1:336 Y2:398
+Need I remind you
+of that half-cooked affair?
+
+306
+00:24:14,753 --> 00:24:17,381  X1:223 X2:495 Y1:336 Y2:402
+The meat all pink,
+no flavor whatsoever,
+
+307
+00:24:17,456 --> 00:24:20,289  X1:204 X2:513 Y1:336 Y2:404
+and the next year,
+your burnt the poor bird.
+
+308
+00:24:23,995 --> 00:24:25,394  X1:189 X2:529 Y1:375 Y2:405
+You remember that, right?
+
+309
+00:24:26,731 --> 00:24:27,891  X1:220 X2:499 Y1:375 Y2:403
+No, I don't remember.
+
+310
+00:24:27,966 --> 00:24:31,231  X1:179 X2:539 Y1:336 Y2:404
+That's why I'm here, baby,
+so you don't forget anything.
+
+311
+00:24:31,303 --> 00:24:34,864  X1:219 X2:500 Y1:336 Y2:398
+Yeah? Thanks a lot.
+Pass me them beans.
+
+312
+00:24:34,940 --> 00:24:36,430  X1:195 X2:522 Y1:375 Y2:405
+April, don't worry about it.
+
+313
+00:25:04,703 --> 00:25:07,035  X1:181 X2:538 Y1:336 Y2:404
+Honey, what are you doing?
+I don't need a map.
+
+314
+00:25:07,105 --> 00:25:09,630  X1:143 X2:574 Y1:336 Y2:404
+- I want to take an alternate route.
+- Dad knows the way.
+
+315
+00:25:09,708 --> 00:25:11,801  X1:213 X2:507 Y1:336 Y2:398
+Back roads, see things
+we've never seen.
+
+316
+00:25:11,877 --> 00:25:14,038  X1:189 X2:529 Y1:336 Y2:404
+This way, the day won't be
+a complete waste.
+
+317
+00:25:14,112 --> 00:25:16,672  X1:182 X2:535 Y1:336 Y2:404
+- I hope we're not late.
+- We don't want to be early.
+
+318
+00:25:16,748 --> 00:25:18,079  X1:210 X2:508 Y1:375 Y2:405
+I'm giving you a choice.
+
+319
+00:25:18,149 --> 00:25:20,743  X1:220 X2:497 Y1:336 Y2:404
+You can either let me
+study the map...
+
+320
+00:25:22,220 --> 00:25:24,552  X1:160 X2:558 Y1:336 Y2:404
+or you can rely on
+my uncanny sense of direction.
+
+321
+00:25:24,623 --> 00:25:26,955  X1:171 X2:547 Y1:336 Y2:404
+- Which will it be?
+- Uncanny sense of direction.
+
+322
+00:25:27,025 --> 00:25:28,014  X1:314 X2:404 Y1:375 Y2:405
+Okay...
+
+323
+00:25:29,694 --> 00:25:30,854  X1:258 X2:459 Y1:375 Y2:399
+Where are we?
+
+324
+00:26:22,347 --> 00:26:24,281  X1:223 X2:496 Y1:336 Y2:398
+Careful now.
+Don't let the heat out.
+
+325
+00:26:26,952 --> 00:26:28,112  X1:270 X2:449 Y1:375 Y2:399
+How's it look?
+
+326
+00:26:29,521 --> 00:26:32,354  X1:250 X2:469 Y1:375 Y2:399
+I... wouldn't know.
+
+327
+00:26:36,227 --> 00:26:37,888  X1:233 X2:484 Y1:375 Y2:405
+What's he making?
+
+328
+00:26:37,963 --> 00:26:39,954  X1:177 X2:540 Y1:375 Y2:405
+Tell her what you're making.
+
+329
+00:26:41,266 --> 00:26:43,257  X1:197 X2:521 Y1:375 Y2:405
+Nothing special this year.
+
+330
+00:26:43,335 --> 00:26:47,704  X1:185 X2:535 Y1:336 Y2:404
+No. Just sweet potato soup
+with buttered pecans,
+
+331
+00:26:47,772 --> 00:26:51,173  X1:217 X2:502 Y1:336 Y2:404
+herbed oyster stuffing,
+giblet gravy,
+
+332
+00:26:51,242 --> 00:26:54,211  X1:125 X2:593 Y1:375 Y2:405
+some lemon-rosemary green beans,
+
+333
+00:26:54,279 --> 00:26:57,442  X1:126 X2:592 Y1:375 Y2:405
+sautéed red Swiss chard with garlic,
+
+334
+00:26:57,515 --> 00:26:59,312  X1:218 X2:500 Y1:375 Y2:405
+hickory nut ice cream,
+
+335
+00:26:59,384 --> 00:27:01,978  X1:204 X2:513 Y1:375 Y2:405
+and maple pumpkin pie.
+
+336
+00:27:03,021 --> 00:27:06,081  X1:187 X2:530 Y1:336 Y2:404
+- Wow.
+- Nothing special this year.
+
+337
+00:27:06,157 --> 00:27:09,024  X1:246 X2:472 Y1:336 Y2:404
+- Yeah, right.
+- How about you?
+
+338
+00:27:13,865 --> 00:27:15,526  X1:261 X2:457 Y1:375 Y2:405
+Turkey, gravy...
+
+339
+00:27:17,268 --> 00:27:18,326  X1:252 X2:465 Y1:375 Y2:399
+a Waldorf salad.
+
+340
+00:27:18,403 --> 00:27:20,997  X1:219 X2:498 Y1:336 Y2:398
+Waldorf salad.
+That sounds unusual.
+
+341
+00:27:21,072 --> 00:27:25,406  X1:177 X2:543 Y1:336 Y2:398
+It's made with different kinds
+of fruits and nuts.
+
+342
+00:27:25,477 --> 00:27:27,707  X1:198 X2:520 Y1:336 Y2:404
+The dressing's
+pretty much mayonnaise.
+
+343
+00:27:27,779 --> 00:27:29,872  X1:138 X2:580 Y1:375 Y2:405
+Then mashed potatoes, of course,
+
+344
+00:27:29,948 --> 00:27:32,473  X1:223 X2:495 Y1:336 Y2:404
+and cranberry sauce,
+which is easy.
+
+345
+00:27:32,550 --> 00:27:33,710  X1:240 X2:477 Y1:375 Y2:405
+Just open the can.
+
+346
+00:27:35,186 --> 00:27:36,881  X1:278 X2:440 Y1:375 Y2:403
+Oh, sweetie.
+
+347
+00:27:38,556 --> 00:27:40,421  X1:230 X2:489 Y1:375 Y2:399
+I like it from the can.
+
+348
+00:27:40,492 --> 00:27:43,154  X1:177 X2:542 Y1:375 Y2:405
+Nobody likes it from the can.
+
+349
+00:27:51,369 --> 00:27:53,929  X1:200 X2:519 Y1:375 Y2:405
+It was a squirrel, I think...
+
+350
+00:27:54,005 --> 00:27:56,906  X1:205 X2:513 Y1:375 Y2:405
+or a very small raccoon.
+
+351
+00:28:00,945 --> 00:28:03,937  X1:287 X2:432 Y1:336 Y2:404
+- Jim?
+- Yes, Joy?
+
+352
+00:28:05,750 --> 00:28:06,910  X1:313 X2:405 Y1:375 Y2:405
+Hop to.
+
+353
+00:28:14,793 --> 00:28:16,454  X1:203 X2:515 Y1:375 Y2:405
+Mom's lookin' for a spot.
+
+354
+00:28:35,246 --> 00:28:37,612  X1:154 X2:563 Y1:375 Y2:405
+We're sorry we didn't know you.
+
+355
+00:28:37,682 --> 00:28:40,810  X1:177 X2:540 Y1:375 Y2:405
+We hope it was quick, and...
+
+356
+00:28:40,885 --> 00:28:43,615  X1:271 X2:449 Y1:336 Y2:404
+That's fine.
+Beth, a song?
+
+357
+00:28:43,688 --> 00:28:44,848  X1:341 X2:385 Y1:375 Y2:399
+No.
+
+358
+00:28:48,927 --> 00:28:51,259  X1:147 X2:571 Y1:375 Y2:405
+I think Tim pretty much said it all.
+
+359
+00:28:51,329 --> 00:28:52,990  X1:165 X2:554 Y1:375 Y2:405
+Then what are we waiting for?
+
+360
+00:29:00,004 --> 00:29:01,665  X1:200 X2:517 Y1:375 Y2:405
+Okay, pour it in, sweetie.
+
+361
+00:29:01,740 --> 00:29:05,699  X1:222 X2:496 Y1:336 Y2:398
+That's it. Look at you.
+You're a natural.
+
+362
+00:29:05,777 --> 00:29:06,766  X1:326 X2:401 Y1:375 Y2:405
+Right.
+
+363
+00:29:06,845 --> 00:29:09,507  X1:199 X2:518 Y1:336 Y2:404
+While we're waiting for it
+to dissolve, you stir.
+
+364
+00:29:13,051 --> 00:29:14,882  X1:238 X2:477 Y1:375 Y2:405
+Yeah. You go, girl!
+
+365
+00:29:14,953 --> 00:29:16,614  X1:236 X2:481 Y1:375 Y2:405
+Stop it. It's nothing.
+
+366
+00:29:16,688 --> 00:29:18,349  X1:168 X2:551 Y1:375 Y2:405
+Have you ever done it before?
+
+367
+00:29:18,423 --> 00:29:20,584  X1:215 X2:503 Y1:336 Y2:404
+- No.
+- Then it's not nothing.
+
+368
+00:29:20,658 --> 00:29:23,456  X1:181 X2:536 Y1:336 Y2:398
+- Excuse me. I just wanna...
+- What's next?
+
+369
+00:29:23,528 --> 00:29:27,362  X1:154 X2:564 Y1:336 Y2:404
+Next, we let it simmer
+until it becomes a lovely texture.
+
+370
+00:29:27,432 --> 00:29:31,334  X1:197 X2:521 Y1:336 Y2:398
+- Please, could you just...
+- Then we let it cool off.
+
+371
+00:29:31,402 --> 00:29:32,562  X1:262 X2:457 Y1:375 Y2:405
+Ladies, please.
+
+372
+00:29:32,637 --> 00:29:35,333  X1:158 X2:560 Y1:336 Y2:404
+Honey, please just
+use your words and we'll move.
+
+373
+00:29:37,842 --> 00:29:40,834  X1:178 X2:541 Y1:336 Y2:404
+Don't worry about Eugene.
+He always gets a little fussy.
+
+374
+00:29:40,912 --> 00:29:44,211  X1:149 X2:570 Y1:336 Y2:398
+- Any luck finding another place?
+- I haven't even started.
+
+375
+00:29:44,282 --> 00:29:46,113  X1:211 X2:508 Y1:336 Y2:398
+- Probably the sooner...
+- Evette.
+
+376
+00:29:46,184 --> 00:29:48,448  X1:202 X2:515 Y1:336 Y2:402
+The sooner you find
+another oven, the better.
+
+377
+00:29:49,254 --> 00:29:50,744  X1:228 X2:491 Y1:375 Y2:405
+I'm coming, Eugene.
+
+378
+00:29:50,822 --> 00:29:52,881  X1:231 X2:487 Y1:336 Y2:404
+- Don't worry. Done.
+- Okay.
+
+379
+00:30:01,032 --> 00:30:06,561  X1:167 X2:551 Y1:336 Y2:404
+Hi. Eugene and Evette in 2B...
+do you know them?
+
+380
+00:30:06,638 --> 00:30:10,233  X1:115 X2:603 Y1:336 Y2:404
+They're helping me for the time being,
+and I was just wondering if...
+
+381
+00:30:10,308 --> 00:30:14,938  X1:198 X2:519 Y1:336 Y2:404
+See, my family's coming,
+and my mom, she's...
+
+382
+00:30:15,013 --> 00:30:16,674  X1:255 X2:463 Y1:375 Y2:405
+It's complicated.
+
+383
+00:30:16,748 --> 00:30:21,242  X1:118 X2:600 Y1:336 Y2:398
+Then the oven or the stove...
+I don't know what it's called... started...
+
+384
+00:30:21,319 --> 00:30:22,980  X1:321 X2:397 Y1:375 Y2:405
+Sorry.
+
+385
+00:30:24,989 --> 00:30:26,923  X1:218 X2:499 Y1:336 Y2:402
+The truth is,
+she's a rotten mother,
+
+386
+00:30:26,991 --> 00:30:29,687  X1:162 X2:554 Y1:336 Y2:404
+so I don't even know why
+you'd want to help me anyway.
+
+387
+00:30:29,761 --> 00:30:33,925  X1:183 X2:535 Y1:336 Y2:404
+It's funny. My mother was
+a mean woman, too. Nasty.
+
+388
+00:30:34,666 --> 00:30:37,396  X1:196 X2:522 Y1:336 Y2:404
+There wasn't a nice bone
+in her body.
+
+389
+00:30:39,237 --> 00:30:42,729  X1:214 X2:504 Y1:336 Y2:402
+She smoked non-stop,
+cheated at cards,
+
+390
+00:30:42,807 --> 00:30:47,073  X1:228 X2:489 Y1:336 Y2:404
+and she complained
+every day of her life.
+
+391
+00:30:48,813 --> 00:30:51,145  X1:244 X2:474 Y1:336 Y2:398
+- Sorry.
+- You know what?
+
+392
+00:30:52,350 --> 00:30:58,289  X1:112 X2:606 Y1:336 Y2:404
+There's nothing I wouldn't do for
+a chance to spend more time with her.
+
+393
+00:31:05,396 --> 00:31:06,727  X1:209 X2:510 Y1:375 Y2:405
+So you'll help me then?
+
+394
+00:31:09,300 --> 00:31:11,029  X1:245 X2:470 Y1:375 Y2:403
+<i>Mi casa. Su casa</i>
+
+395
+00:31:22,981 --> 00:31:24,141  X1:326 X2:393 Y1:375 Y2:405
+Help.
+
+396
+00:31:25,316 --> 00:31:28,308  X1:162 X2:555 Y1:336 Y2:404
+Yo, Latrell, man, this is Bobby.
+I'm at the spot.
+
+397
+00:31:28,386 --> 00:31:30,047  X1:270 X2:447 Y1:375 Y2:399
+Call me back.
+
+398
+00:31:30,121 --> 00:31:35,787  X1:227 X2:492 Y1:375 Y2:399
+I'm at 212-737-3858.
+
+399
+00:31:37,061 --> 00:31:38,221  X1:305 X2:412 Y1:375 Y2:405
+All right.
+
+400
+00:31:44,435 --> 00:31:46,733  X1:146 X2:570 Y1:336 Y2:398
+This is great.
+You don't know what this means.
+
+401
+00:31:46,804 --> 00:31:48,294  X1:226 X2:492 Y1:336 Y2:398
+- It's such a big help.
+- Good.
+
+402
+00:31:48,373 --> 00:31:51,536  X1:178 X2:539 Y1:336 Y2:398
+- By the way, I'm April in 3C.
+- Tish in 4A.
+
+403
+00:31:51,609 --> 00:31:54,942  X1:214 X2:503 Y1:336 Y2:404
+Thank you, Tish in 4A.
+Thank you, thank you.
+
+404
+00:31:55,980 --> 00:31:58,107  X1:222 X2:496 Y1:375 Y2:405
+My family thanks you.
+
+405
+00:32:04,889 --> 00:32:07,380  X1:263 X2:455 Y1:375 Y2:405
+Okay, last one.
+
+406
+00:32:34,018 --> 00:32:36,350  X1:178 X2:540 Y1:336 Y2:402
+There's our Christmas card.
+Come on, Mom.
+
+407
+00:32:38,823 --> 00:32:42,486  X1:122 X2:597 Y1:336 Y2:404
+- Without April?
+- Since when was she in the picture?
+
+408
+00:32:42,560 --> 00:32:44,391  X1:284 X2:431 Y1:375 Y2:399
+Wait. Wait!
+
+409
+00:33:07,518 --> 00:33:08,849  X1:285 X2:433 Y1:375 Y2:405
+I'm coming.
+
+410
+00:33:22,133 --> 00:33:23,464  X1:206 X2:510 Y1:375 Y2:405
+You can keep the mitts.
+
+411
+00:33:25,570 --> 00:33:28,198  X1:210 X2:508 Y1:336 Y2:398
+- Where's the strainer?
+- Good luck.
+
+412
+00:33:28,272 --> 00:33:29,432  X1:307 X2:411 Y1:375 Y2:399
+Thanks.
+
+413
+00:33:45,590 --> 00:33:49,321  X1:155 X2:564 Y1:336 Y2:404
+- Hi, it's just me.
+- Can I talk to you for a second?
+
+414
+00:33:49,394 --> 00:33:51,487  X1:309 X2:409 Y1:336 Y2:398
+- Sure.
+- Alone.
+
+415
+00:33:57,201 --> 00:33:58,725  X1:279 X2:437 Y1:375 Y2:405
+Yeah. Okay.
+
+416
+00:33:58,803 --> 00:34:01,169  X1:236 X2:482 Y1:336 Y2:404
+There's something
+I need you to know.
+
+417
+00:34:02,073 --> 00:34:04,405  X1:235 X2:484 Y1:336 Y2:398
+I never eat anything
+that has a face.
+
+418
+00:34:05,710 --> 00:34:09,043  X1:140 X2:578 Y1:336 Y2:404
+Don't worry, you won't be eating it.
+I'll just be using your oven.
+
+419
+00:34:09,113 --> 00:34:11,980  X1:195 X2:524 Y1:336 Y2:404
+But for me, that was once
+a living, breathing soul.
+
+420
+00:34:12,050 --> 00:34:15,144  X1:156 X2:562 Y1:336 Y2:404
+- I'm a vegetarian. I understand.
+- But I'm a vegan.
+
+421
+00:34:15,219 --> 00:34:17,710  X1:148 X2:571 Y1:375 Y2:405
+Even the smell of flesh cooking...
+
+422
+00:34:19,023 --> 00:34:20,513  X1:190 X2:529 Y1:375 Y2:405
+I don't think I can help you.
+
+423
+00:34:32,837 --> 00:34:36,329  X1:189 X2:529 Y1:336 Y2:404
+Latrell, man, this is Bobby.
+I'm at the spot.
+
+424
+00:34:39,477 --> 00:34:41,308  X1:210 X2:509 Y1:375 Y2:405
+Can anybody hear me?
+
+425
+00:34:41,379 --> 00:34:43,779  X1:221 X2:497 Y1:336 Y2:398
+Does anybody have
+a stove I can borrow?
+
+426
+00:34:43,848 --> 00:34:47,284  X1:237 X2:480 Y1:336 Y2:404
+- Please?
+- Try Wayne in 5D.
+
+427
+00:34:47,351 --> 00:34:49,376  X1:222 X2:496 Y1:375 Y2:405
+He's got a new stove.
+
+428
+00:34:49,454 --> 00:34:50,944  X1:248 X2:469 Y1:375 Y2:405
+Talk louder, lady.
+
+429
+00:34:51,789 --> 00:34:57,785  X1:222 X2:496 Y1:336 Y2:404
+Try Wayne in 5D.
+He's got a new stove!
+
+430
+00:34:57,862 --> 00:34:58,954  X1:288 X2:430 Y1:375 Y2:405
+Thank you.
+
+431
+00:35:03,301 --> 00:35:04,791  X1:291 X2:428 Y1:375 Y2:405
+Hey, babe.
+
+432
+00:35:04,869 --> 00:35:07,929  X1:165 X2:552 Y1:336 Y2:404
+I'm just callin'
+to see how everything is goin'.
+
+433
+00:35:08,005 --> 00:35:10,940  X1:196 X2:521 Y1:336 Y2:404
+If you don't need me,
+you don't have to pick up.
+
+434
+00:35:11,008 --> 00:35:14,569  X1:184 X2:534 Y1:336 Y2:404
+<i>I'm just callirh' to make sure</i>
+<i>you're doirh' firhe</i>
+
+435
+00:35:14,645 --> 00:35:15,805  X1:292 X2:423 Y1:375 Y2:405
+<i>I love you</i>
+
+436
+00:35:17,982 --> 00:35:19,813  X1:321 X2:395 Y1:375 Y2:405
+<i>Okay</i>
+
+437
+00:35:19,884 --> 00:35:22,546  X1:289 X2:429 Y1:375 Y2:399
+I need this.
+
+438
+00:35:23,754 --> 00:35:28,350  X1:184 X2:533 Y1:336 Y2:404
+- If I could borrow your...
+- They don't speak English.
+
+439
+00:35:28,426 --> 00:35:29,916  X1:287 X2:432 Y1:375 Y2:399
+I know that.
+
+440
+00:35:30,728 --> 00:35:35,165  X1:187 X2:530 Y1:336 Y2:404
+- If I could borrow...
+- You're wasting your time.
+
+441
+00:35:37,502 --> 00:35:38,992  X1:284 X2:434 Y1:375 Y2:399
+Excuse me.
+
+442
+00:35:44,842 --> 00:35:45,866  X1:284 X2:434 Y1:375 Y2:399
+Excuse me.
+
+443
+00:35:49,680 --> 00:35:50,840  X1:251 X2:466 Y1:375 Y2:405
+Are you Wayne?
+
+444
+00:35:54,152 --> 00:35:56,484  X1:186 X2:531 Y1:375 Y2:405
+Wayne with the new stove.
+
+445
+00:35:56,554 --> 00:35:59,614  X1:161 X2:557 Y1:336 Y2:398
+Technically, it's a self-cleaning
+convection oven.
+
+446
+00:35:59,690 --> 00:36:02,523  X1:236 X2:482 Y1:336 Y2:402
+It has an automatic
+meat thermometer,
+
+447
+00:36:02,593 --> 00:36:06,256  X1:212 X2:505 Y1:336 Y2:402
+audible preheat signal,
+dual bake element,
+
+448
+00:36:06,330 --> 00:36:09,629  X1:154 X2:565 Y1:375 Y2:405
+hot surface lights, roasting rack,
+
+449
+00:36:09,700 --> 00:36:11,531  X1:249 X2:469 Y1:375 Y2:405
+and my favorite...
+
+450
+00:36:13,404 --> 00:36:15,804  X1:164 X2:555 Y1:375 Y2:405
+the frameless glass oven door
+
+451
+00:36:15,873 --> 00:36:19,365  X1:172 X2:544 Y1:375 Y2:405
+with deluxe big-view window.
+
+452
+00:36:20,111 --> 00:36:24,104  X1:235 X2:481 Y1:375 Y2:399
+Wow. It's beautiful.
+
+453
+00:36:27,852 --> 00:36:29,183  X1:298 X2:418 Y1:375 Y2:403
+Yes, it is.
+
+454
+00:36:32,523 --> 00:36:34,923  X1:162 X2:556 Y1:336 Y2:404
+- I don't know how to ask this...
+- Be my guest.
+
+455
+00:36:34,992 --> 00:36:37,222  X1:229 X2:489 Y1:336 Y2:404
+- Really?
+- We'd be delighted.
+
+456
+00:36:38,529 --> 00:36:39,860  X1:285 X2:433 Y1:375 Y2:399
+Bernadette.
+
+457
+00:36:39,931 --> 00:36:42,991  X1:175 X2:544 Y1:375 Y2:405
+It's all right. She doesn't bite.
+
+458
+00:36:51,676 --> 00:36:53,166  X1:185 X2:534 Y1:375 Y2:405
+Latrell, where you at, man?
+
+459
+00:36:53,244 --> 00:36:55,678  X1:218 X2:500 Y1:336 Y2:404
+- <i>Where am I?</i>
+- Yeah, where you at?
+
+460
+00:36:56,847 --> 00:36:59,179  X1:165 X2:556 Y1:336 Y2:398
+<i>So the big marh warhts to krhow</i>
+<i>where Latrell is</i>
+
+461
+00:36:59,250 --> 00:37:01,241  X1:200 X2:519 Y1:336 Y2:404
+Hell, yeah, I wanna know
+where you at.
+
+462
+00:37:03,020 --> 00:37:04,180  X1:289 X2:430 Y1:375 Y2:405
+Right here.
+
+463
+00:37:04,255 --> 00:37:06,519  X1:177 X2:540 Y1:336 Y2:404
+Where you been, man?
+You're gonna make me late.
+
+464
+00:37:06,591 --> 00:37:09,719  X1:187 X2:531 Y1:336 Y2:404
+- Where you been?
+- I been standin' right here.
+
+465
+00:37:09,794 --> 00:37:11,227  X1:212 X2:507 Y1:375 Y2:405
+Do we know a Tyrone?
+
+466
+00:37:12,330 --> 00:37:14,355  X1:301 X2:417 Y1:336 Y2:404
+- Tyrell?
+- Tyrone.
+
+467
+00:37:16,400 --> 00:37:18,061  X1:163 X2:555 Y1:375 Y2:405
+Anyway, how far we got to go?
+
+468
+00:37:19,904 --> 00:37:21,394  X1:282 X2:437 Y1:375 Y2:399
+Here she is.
+
+469
+00:37:24,942 --> 00:37:26,466  X1:203 X2:514 Y1:375 Y2:405
+You gotta be kiddin' me.
+
+470
+00:37:28,079 --> 00:37:30,912  X1:161 X2:557 Y1:336 Y2:398
+- You said you worked in retail.
+- I didn't lie.
+
+471
+00:37:30,982 --> 00:37:32,142  X1:277 X2:441 Y1:375 Y2:405
+Help me out.
+
+472
+00:37:36,621 --> 00:37:38,282  X1:212 X2:506 Y1:375 Y2:405
+Quality men's clothes?
+
+473
+00:37:38,356 --> 00:37:41,553  X1:156 X2:561 Y1:336 Y2:404
+You told me you can get me
+a deal on quality men's clothes.
+
+474
+00:37:41,626 --> 00:37:44,959  X1:200 X2:519 Y1:336 Y2:398
+You'll get some quality
+men's clothes. Trust me.
+
+475
+00:37:46,163 --> 00:37:48,825  X1:259 X2:458 Y1:336 Y2:402
+Trust you.
+Come on, man.
+
+476
+00:37:52,236 --> 00:37:55,034  X1:189 X2:529 Y1:336 Y2:404
+- I had you all wrong, man.
+- You had me wrong.
+
+477
+00:37:55,106 --> 00:37:57,267  X1:198 X2:521 Y1:336 Y2:404
+'Cause I thought you was
+the type of brother
+
+478
+00:37:57,341 --> 00:38:03,143  X1:128 X2:589 Y1:336 Y2:398
+that ain't really need no fancy labels
+or no Armani Prada bullshit.
+
+479
+00:38:03,214 --> 00:38:04,806  X1:226 X2:492 Y1:375 Y2:403
+Get outta here, man.
+
+480
+00:38:04,882 --> 00:38:06,941  X1:197 X2:521 Y1:336 Y2:404
+Ninety percent
+of the people in the world
+
+481
+00:38:07,018 --> 00:38:08,747  X1:145 X2:571 Y1:375 Y2:399
+would love to have these clothes.
+
+482
+00:38:08,819 --> 00:38:12,380  X1:181 X2:535 Y1:336 Y2:404
+What I'm tryin' to tell you is,
+as long as it's useful,
+
+483
+00:38:12,456 --> 00:38:14,117  X1:191 X2:526 Y1:375 Y2:405
+as long as we can wear it,
+
+484
+00:38:14,191 --> 00:38:17,319  X1:203 X2:514 Y1:336 Y2:402
+as long as people
+that we love can wear it,
+
+485
+00:38:17,395 --> 00:38:19,056  X1:194 X2:524 Y1:375 Y2:405
+it's gonna be on that rack.
+
+486
+00:38:19,130 --> 00:38:20,961  X1:217 X2:501 Y1:375 Y2:405
+So, best get to lookin'.
+
+487
+00:38:21,032 --> 00:38:23,830  X1:153 X2:563 Y1:375 Y2:405
+Were I you, I'd start down there.
+
+488
+00:38:23,901 --> 00:38:26,893  X1:152 X2:565 Y1:336 Y2:404
+Were I you, if I don't find nothin',
+you better not be here.
+
+489
+00:38:27,238 --> 00:38:31,197  X1:234 X2:483 Y1:336 Y2:402
+Pull over, Jim.
+Pull over now, now!
+
+490
+00:38:31,275 --> 00:38:33,675  X1:240 X2:479 Y1:336 Y2:404
+- Are you woozy?
+- Do you feel sick?
+
+491
+00:38:33,744 --> 00:38:36,008  X1:164 X2:555 Y1:336 Y2:404
+- Do you feel tired?
+- Do you need some fresh air?
+
+492
+00:38:36,080 --> 00:38:38,878  X1:169 X2:548 Y1:336 Y2:398
+- Mom, you should probably...
+- I'm fine.
+
+493
+00:38:38,949 --> 00:38:41,816  X1:263 X2:456 Y1:375 Y2:405
+I'm fine. I just...
+
+494
+00:38:41,886 --> 00:38:44,719  X1:191 X2:525 Y1:336 Y2:404
+It's just... I keep waiting
+for a good time to tell you,
+
+495
+00:38:44,789 --> 00:38:47,417  X1:162 X2:557 Y1:375 Y2:405
+but there's really no good time.
+
+496
+00:38:47,491 --> 00:38:49,482  X1:200 X2:519 Y1:375 Y2:405
+I need everyone to listen.
+
+497
+00:38:53,364 --> 00:38:54,854  X1:180 X2:538 Y1:375 Y2:405
+I don't know how to say this.
+
+498
+00:38:58,369 --> 00:39:01,167  X1:199 X2:520 Y1:336 Y2:404
+We need to discuss how
+each of you... Oh, God...
+
+499
+00:39:01,238 --> 00:39:02,569  X1:247 X2:472 Y1:375 Y2:405
+It's okay, sweetie.
+
+500
+00:39:06,877 --> 00:39:10,210  X1:249 X2:470 Y1:336 Y2:404
+How each of you,
+in your own way,
+
+501
+00:39:10,281 --> 00:39:12,408  X1:234 X2:485 Y1:375 Y2:405
+is going to handle...
+
+502
+00:39:16,987 --> 00:39:20,320  X1:200 X2:519 Y1:336 Y2:404
+discarding food without
+letting our hostess know.
+
+503
+00:39:21,792 --> 00:39:24,852  X1:284 X2:433 Y1:336 Y2:404
+Oh, please.
+Joy, really.
+
+504
+00:39:26,864 --> 00:39:28,491  X1:222 X2:495 Y1:375 Y2:405
+That's not very funny.
+
+505
+00:39:31,969 --> 00:39:33,903  X1:209 X2:510 Y1:375 Y2:405
+Here's what I suggest...
+
+506
+00:39:36,540 --> 00:39:40,203  X1:136 X2:583 Y1:336 Y2:404
+Take a bite of whatever it is...
+let's say the green bean casserole.
+
+507
+00:39:40,277 --> 00:39:43,804  X1:204 X2:515 Y1:336 Y2:404
+Pretend to chew, cough,
+bring napkin to mouth,
+
+508
+00:39:43,881 --> 00:39:46,782  X1:226 X2:492 Y1:336 Y2:404
+spit food into napkin,
+excuse yourself.
+
+509
+00:39:46,851 --> 00:39:49,046  X1:242 X2:477 Y1:375 Y2:405
+Drop food in toilet.
+
+510
+00:39:49,120 --> 00:39:50,280  X1:320 X2:399 Y1:375 Y2:399
+Flush.
+
+511
+00:40:14,445 --> 00:40:17,608  X1:168 X2:550 Y1:375 Y2:405
+Honey, roll it tighter next time.
+
+512
+00:40:20,351 --> 00:40:21,682  X1:281 X2:437 Y1:375 Y2:405
+Sorry, Mom.
+
+513
+00:40:27,758 --> 00:40:30,921  X1:209 X2:509 Y1:375 Y2:405
+Won't you tell me why?
+
+514
+00:40:36,500 --> 00:40:39,492  X1:277 X2:441 Y1:375 Y2:405
+Tell me why.
+
+515
+00:40:49,547 --> 00:40:51,538  X1:137 X2:580 Y1:375 Y2:405
+The thing about Smack Daddy is...
+
+516
+00:40:51,615 --> 00:40:53,742  X1:256 X2:461 Y1:336 Y2:404
+- Who?
+- Smack Daddy.
+
+517
+00:40:53,818 --> 00:40:55,308  X1:231 X2:490 Y1:336 Y2:404
+Have I ever heard of
+Smack Daddy?
+
+518
+00:40:55,386 --> 00:40:57,377  X1:198 X2:520 Y1:336 Y2:398
+He's a black singer, Dad.
+You wouldn't know him.
+
+519
+00:40:57,455 --> 00:41:02,791  X1:169 X2:549 Y1:336 Y2:404
+Oh, no, I never heard of...
+James Brown or Barry White,
+
+520
+00:41:02,860 --> 00:41:04,452  X1:251 X2:466 Y1:375 Y2:405
+or Puffy the Dog.
+
+521
+00:41:04,528 --> 00:41:06,689  X1:270 X2:449 Y1:336 Y2:398
+- May I finish?
+- Please.
+
+522
+00:41:06,764 --> 00:41:10,632  X1:145 X2:572 Y1:336 Y2:404
+The thing about Smack Daddy is,
+you know with him,
+
+523
+00:41:10,701 --> 00:41:13,465  X1:214 X2:505 Y1:336 Y2:398
+it's no one-night stand,
+that it's forever.
+
+524
+00:41:13,537 --> 00:41:15,971  X1:243 X2:474 Y1:375 Y2:403
+Millions want him,
+
+525
+00:41:16,040 --> 00:41:19,942  X1:171 X2:548 Y1:336 Y2:404
+but it's as if
+he's only singin' to me... baby.
+
+526
+00:41:21,145 --> 00:41:22,305  X1:232 X2:484 Y1:375 Y2:405
+Age doesn't matter.
+
+527
+00:41:22,379 --> 00:41:25,212  X1:184 X2:535 Y1:336 Y2:404
+He doesn't care that I'm old
+and sick and falling apart.
+
+528
+00:41:25,282 --> 00:41:26,749  X1:150 X2:569 Y1:375 Y2:405
+He sees my soul. He's not fickle.
+
+529
+00:41:26,817 --> 00:41:29,581  X1:234 X2:483 Y1:336 Y2:398
+- He's there for me.
+- Like Dad?
+
+530
+00:41:29,653 --> 00:41:31,484  X1:182 X2:535 Y1:375 Y2:405
+Well, your father can't sing.
+
+531
+00:41:33,157 --> 00:41:37,491  X1:169 X2:550 Y1:336 Y2:404
+But Smack Daddy...
+man alive, is he sexy, which...
+
+532
+00:41:39,029 --> 00:41:41,964  X1:192 X2:525 Y1:336 Y2:404
+it does lead
+to this whole sexual thing.
+
+533
+00:41:42,032 --> 00:41:43,522  X1:288 X2:430 Y1:375 Y2:403
+I mean, it...
+
+534
+00:41:44,802 --> 00:41:48,397  X1:174 X2:543 Y1:336 Y2:398
+does bring up
+some sort of nice memories.
+
+535
+00:41:49,073 --> 00:41:52,236  X1:179 X2:540 Y1:336 Y2:402
+- You mean with Dad, right?
+- Him, too.
+
+536
+00:42:11,729 --> 00:42:12,889  X1:318 X2:401 Y1:375 Y2:399
+Hello?
+
+537
+00:42:14,965 --> 00:42:16,125  X1:318 X2:401 Y1:375 Y2:399
+Hello?
+
+538
+00:42:17,201 --> 00:42:20,693  X1:260 X2:458 Y1:336 Y2:404
+- What?
+- Hello. It's you.
+
+539
+00:42:23,173 --> 00:42:26,006  X1:157 X2:562 Y1:336 Y2:404
+I was knocking on a lot of doors
+looking for you.
+
+540
+00:42:27,244 --> 00:42:28,734  X1:257 X2:459 Y1:375 Y2:405
+Yours was ajar.
+
+541
+00:42:28,812 --> 00:42:31,337  X1:266 X2:453 Y1:336 Y2:404
+Come in.
+How's it goin'?
+
+542
+00:42:37,254 --> 00:42:39,586  X1:193 X2:526 Y1:375 Y2:405
+No foreseeable problems.
+
+543
+00:42:39,657 --> 00:42:41,648  X1:228 X2:491 Y1:336 Y2:404
+I was about to check
+your turkey myself.
+
+544
+00:42:41,725 --> 00:42:44,319  X1:259 X2:458 Y1:336 Y2:404
+Then I thought,
+since it's yours,
+
+545
+00:42:44,395 --> 00:42:46,386  X1:236 X2:482 Y1:336 Y2:404
+maybe you'd prefer
+to do the checking.
+
+546
+00:42:52,303 --> 00:42:55,966  X1:176 X2:542 Y1:336 Y2:404
+I certainly could do it for you,
+and will, if you'd like.
+
+547
+00:42:56,674 --> 00:42:58,141  X1:199 X2:519 Y1:375 Y2:405
+Didn't want to presume...
+
+548
+00:42:59,777 --> 00:43:01,108  X1:221 X2:496 Y1:375 Y2:403
+That's fine, whatever.
+
+549
+00:43:04,648 --> 00:43:06,240  X1:171 X2:547 Y1:375 Y2:405
+It's a common misconception
+
+550
+00:43:06,317 --> 00:43:09,309  X1:197 X2:521 Y1:336 Y2:404
+that you can just
+stick a turkey in the oven.
+
+551
+00:43:09,386 --> 00:43:12,913  X1:147 X2:571 Y1:336 Y2:404
+Turkey needs to be tended to,
+he needs to be cared for lovingly.
+
+552
+00:43:12,990 --> 00:43:15,823  X1:198 X2:520 Y1:336 Y2:404
+One must pay
+close attention to poultry.
+
+553
+00:43:17,995 --> 00:43:19,155  X1:324 X2:393 Y1:375 Y2:399
+Sure.
+
+554
+00:43:20,197 --> 00:43:21,357  X1:206 X2:511 Y1:375 Y2:405
+So much can go wrong.
+
+555
+00:43:21,432 --> 00:43:26,802  X1:164 X2:555 Y1:336 Y2:402
+A turkey can burn in places,
+be overcooked, undercooked...
+
+556
+00:43:26,870 --> 00:43:29,464  X1:192 X2:526 Y1:336 Y2:404
+which is a health hazard...
+and what about basting?
+
+557
+00:43:29,540 --> 00:43:32,634  X1:182 X2:537 Y1:336 Y2:404
+Look, Wayne,
+I'll be up in a second, okay?
+
+558
+00:43:36,747 --> 00:43:38,237  X1:248 X2:470 Y1:375 Y2:405
+The second's up.
+
+559
+00:43:43,320 --> 00:43:44,651  X1:213 X2:504 Y1:375 Y2:405
+Just give me a minute.
+
+560
+00:43:50,194 --> 00:43:51,354  X1:296 X2:422 Y1:375 Y2:399
+Tick-tock.
+
+561
+00:43:57,701 --> 00:43:58,963  X1:296 X2:422 Y1:375 Y2:399
+Tick-tock.
+
+562
+00:44:09,680 --> 00:44:11,910  X1:228 X2:489 Y1:336 Y2:398
+- Wait. Here I come.
+- I don't think so.
+
+563
+00:44:11,982 --> 00:44:15,145  X1:154 X2:564 Y1:336 Y2:404
+Bernadette has a small bladder,
+and if I don't get her outside...
+
+564
+00:44:15,219 --> 00:44:18,484  X1:171 X2:547 Y1:336 Y2:398
+- Can't I just pop my head in?
+- I'm afraid not.
+
+565
+00:44:18,555 --> 00:44:20,921  X1:246 X2:472 Y1:336 Y2:398
+- I'll be real quick.
+- No.
+
+566
+00:44:20,991 --> 00:44:24,688  X1:122 X2:595 Y1:336 Y2:404
+Do you know that good feeling
+that often comes from being helpful?
+
+567
+00:44:24,762 --> 00:44:28,391  X1:149 X2:569 Y1:336 Y2:404
+- Yes.
+- I'm not having that feeling here.
+
+568
+00:44:28,465 --> 00:44:30,660  X1:159 X2:561 Y1:375 Y2:405
+Look, I'm sorry. I didn't realize...
+
+569
+00:44:30,734 --> 00:44:32,224  X1:257 X2:460 Y1:375 Y2:405
+So I ask myself,
+
+570
+00:44:32,302 --> 00:44:36,102  X1:195 X2:521 Y1:336 Y2:404
+"Wayne, it's very clear
+what you're doing for her,
+
+571
+00:44:36,173 --> 00:44:38,038  X1:235 X2:483 Y1:336 Y2:404
+but what are you
+getting out of this?"
+
+572
+00:44:38,742 --> 00:44:41,836  X1:156 X2:561 Y1:336 Y2:402
+I think you need to take
+some time and think about that,
+
+573
+00:44:41,912 --> 00:44:45,040  X1:203 X2:514 Y1:336 Y2:404
+so that maybe later,
+you help me understand
+
+574
+00:44:45,115 --> 00:44:48,846  X1:120 X2:597 Y1:336 Y2:404
+what I'm getting from this exchange...
+if we can even call it an exchange.
+
+575
+00:44:48,919 --> 00:44:50,409  X1:198 X2:520 Y1:375 Y2:405
+Come along, Bernadette.
+
+576
+00:44:55,693 --> 00:44:56,853  X1:256 X2:459 Y1:375 Y2:405
+All crap, Latrell!
+
+577
+00:45:01,765 --> 00:45:03,096  X1:277 X2:441 Y1:375 Y2:405
+Keep lookin'!
+
+578
+00:45:05,569 --> 00:45:08,231  X1:165 X2:551 Y1:375 Y2:405
+These are pimp clothes, man!
+
+579
+00:45:08,305 --> 00:45:10,000  X1:263 X2:455 Y1:336 Y2:398
+- Money green.
+- No!
+
+580
+00:45:11,275 --> 00:45:13,266  X1:254 X2:464 Y1:336 Y2:398
+- Lapel surprise.
+- No!
+
+581
+00:45:14,144 --> 00:45:17,011  X1:269 X2:448 Y1:336 Y2:402
+- Velvet.
+- Hell, no! No!
+
+582
+00:45:18,082 --> 00:45:19,947  X1:145 X2:574 Y1:375 Y2:405
+How am I supposed to wear this?
+
+583
+00:45:25,255 --> 00:45:29,248  X1:180 X2:537 Y1:336 Y2:404
+Big man... look, I was savin'
+this little number for myself,
+
+584
+00:45:29,359 --> 00:45:32,021  X1:187 X2:531 Y1:336 Y2:404
+but I think
+it's more your size, try that.
+
+585
+00:45:38,736 --> 00:45:40,704  X1:197 X2:521 Y1:375 Y2:405
+What do you have there?
+
+586
+00:45:40,771 --> 00:45:45,174  X1:136 X2:582 Y1:336 Y2:402
+These are some photos
+I've taken of Mom, before and now.
+
+587
+00:45:45,242 --> 00:45:48,040  X1:154 X2:563 Y1:336 Y2:404
+- How nice.
+- I got a camera for my birthday.
+
+588
+00:45:48,112 --> 00:45:50,273  X1:210 X2:508 Y1:375 Y2:405
+Timmy is very talented.
+
+589
+00:45:50,347 --> 00:45:54,010  X1:152 X2:565 Y1:336 Y2:402
+- All of our children are talented.
+- Yes, Beth's talented, too.
+
+590
+00:45:54,084 --> 00:45:56,075  X1:270 X2:448 Y1:375 Y2:403
+Oh, how nice.
+
+591
+00:45:57,488 --> 00:45:59,547  X1:168 X2:549 Y1:375 Y2:405
+Maybe this isn't the best time.
+
+592
+00:46:03,927 --> 00:46:09,388  X1:126 X2:591 Y1:336 Y2:404
+- This was before.
+- So I could remember them always.
+
+593
+00:46:09,466 --> 00:46:13,232  X1:218 X2:499 Y1:336 Y2:398
+- Okay, that's enough.
+- I think so.
+
+594
+00:46:13,303 --> 00:46:15,965  X1:237 X2:481 Y1:336 Y2:404
+There's one more
+I want to show you.
+
+595
+00:46:17,641 --> 00:46:18,801  X1:239 X2:478 Y1:375 Y2:399
+Where's that one?
+
+596
+00:46:20,978 --> 00:46:23,242  X1:237 X2:480 Y1:375 Y2:405
+This is my favorite.
+
+597
+00:46:25,349 --> 00:46:27,840  X1:203 X2:515 Y1:375 Y2:405
+Look how the light and...
+
+598
+00:46:30,854 --> 00:46:33,288  X1:250 X2:470 Y1:375 Y2:399
+...how the arm is.
+
+599
+00:46:35,125 --> 00:46:38,117  X1:174 X2:545 Y1:375 Y2:405
+I think I prefer Beth's singing.
+
+600
+00:47:23,540 --> 00:47:25,201  X1:308 X2:417 Y1:375 Y2:405
+Wayne?
+
+601
+00:47:30,214 --> 00:47:32,205  X1:157 X2:562 Y1:375 Y2:405
+Hey, you ever hear the phrase...
+
+602
+00:47:32,282 --> 00:47:34,978  X1:191 X2:526 Y1:336 Y2:398
+"Beware the occasion
+that warrants a new suit"?
+
+603
+00:47:35,052 --> 00:47:37,543  X1:207 X2:510 Y1:336 Y2:404
+- Nope.
+- I'm tellin' you, beware.
+
+604
+00:47:38,422 --> 00:47:39,912  X1:207 X2:509 Y1:375 Y2:399
+You never been in love.
+
+605
+00:47:39,990 --> 00:47:43,323  X1:126 X2:593 Y1:336 Y2:404
+I never been in love, and I don't want
+to be in love, thank you.
+
+606
+00:47:43,393 --> 00:47:45,122  X1:227 X2:491 Y1:375 Y2:405
+It does things to you.
+
+607
+00:47:46,563 --> 00:47:48,087  X1:291 X2:429 Y1:375 Y2:399
+Like what?
+
+608
+00:47:48,165 --> 00:47:50,827  X1:191 X2:527 Y1:336 Y2:404
+You do things you thought
+you never could ever do.
+
+609
+00:47:52,202 --> 00:47:56,366  X1:155 X2:562 Y1:336 Y2:404
+- My mama, God rest her soul...
+- Lord, not another mama story!
+
+610
+00:47:56,440 --> 00:47:58,408  X1:201 X2:517 Y1:336 Y2:398
+- She was drivin'.
+- Your mama can't drive.
+
+611
+00:47:58,475 --> 00:48:01,137  X1:145 X2:571 Y1:336 Y2:404
+You didn't even know my mother,
+and I pity you for that.
+
+612
+00:48:01,211 --> 00:48:03,441  X1:192 X2:524 Y1:336 Y2:398
+You don't have to pity me.
+You the one in love.
+
+613
+00:48:03,513 --> 00:48:06,346  X1:157 X2:560 Y1:336 Y2:404
+Anyway, my mother was drivin',
+and I was just a baby.
+
+614
+00:48:06,416 --> 00:48:09,385  X1:149 X2:567 Y1:336 Y2:404
+The car flipped over, and I
+was trapped underneath the car.
+
+615
+00:48:09,453 --> 00:48:11,785  X1:201 X2:516 Y1:336 Y2:404
+You know what she did?
+She lifted up the car.
+
+616
+00:48:11,855 --> 00:48:13,516  X1:263 X2:455 Y1:336 Y2:404
+- Bullshit.
+- I'm tellin' you.
+
+617
+00:48:13,590 --> 00:48:16,354  X1:178 X2:540 Y1:336 Y2:404
+She lifted up the car,
+and she pulled me to safety.
+
+618
+00:48:16,426 --> 00:48:18,690  X1:201 X2:516 Y1:336 Y2:404
+She had this moment
+of unbelievable strength,
+
+619
+00:48:18,762 --> 00:48:20,093  X1:227 X2:490 Y1:375 Y2:399
+'cause she had love.
+
+620
+00:48:24,868 --> 00:48:26,699  X1:215 X2:503 Y1:375 Y2:399
+That's what love does.
+
+621
+00:49:17,387 --> 00:49:21,790  X1:247 X2:470 Y1:336 Y2:402
+- Bravo, bravo!
+- Encore, encore!
+
+622
+00:49:21,858 --> 00:49:24,986  X1:258 X2:461 Y1:336 Y2:404
+- Any requests?
+- That you stop.
+
+623
+00:49:44,181 --> 00:49:47,173  X1:225 X2:494 Y1:375 Y2:405
+I'm sorry. I'm terrible.
+
+624
+00:49:50,988 --> 00:49:52,148  X1:267 X2:450 Y1:375 Y2:405
+Who are you?
+
+625
+00:49:52,222 --> 00:49:54,747  X1:228 X2:488 Y1:336 Y2:398
+Don't start with that.
+You know who I am.
+
+626
+00:49:54,825 --> 00:49:57,658  X1:180 X2:538 Y1:375 Y2:405
+I know who you say you are,
+
+627
+00:49:57,728 --> 00:50:02,927  X1:182 X2:536 Y1:336 Y2:404
+but my daughter is kind
+and sweet and soft-spoken.
+
+628
+00:50:03,000 --> 00:50:04,331  X1:273 X2:445 Y1:375 Y2:405
+Not anymore.
+
+629
+00:50:05,068 --> 00:50:06,558  X1:215 X2:503 Y1:375 Y2:405
+Then I don't know you.
+
+630
+00:50:27,024 --> 00:50:28,855  X1:304 X2:413 Y1:375 Y2:403
+Oh, shit!
+
+631
+00:50:54,451 --> 00:50:56,282  X1:175 X2:543 Y1:375 Y2:405
+Joy, honey, are you all right?
+
+632
+00:51:04,428 --> 00:51:06,157  X1:262 X2:457 Y1:375 Y2:399
+I am so critical.
+
+633
+00:51:06,997 --> 00:51:09,329  X1:193 X2:526 Y1:375 Y2:405
+It's one of my worst faults,
+
+634
+00:51:09,399 --> 00:51:12,664  X1:199 X2:520 Y1:336 Y2:398
+and some of the reasons
+for this are obvious.
+
+635
+00:51:12,736 --> 00:51:14,863  X1:167 X2:552 Y1:375 Y2:405
+But why, I keep asking myself,
+
+636
+00:51:14,938 --> 00:51:17,702  X1:190 X2:526 Y1:336 Y2:404
+why am I so hard,
+for instance, on you, Beth,
+
+637
+00:51:17,774 --> 00:51:20,709  X1:175 X2:541 Y1:336 Y2:404
+when, for years, you've been
+the daughter of my dreams?
+
+638
+00:51:20,777 --> 00:51:22,745  X1:162 X2:555 Y1:375 Y2:405
+You have. You know you have.
+
+639
+00:51:22,813 --> 00:51:26,613  X1:138 X2:579 Y1:336 Y2:404
+Apart from your weight problems,
+we're practically the same person.
+
+640
+00:51:26,683 --> 00:51:28,344  X1:173 X2:545 Y1:375 Y2:405
+So why am I so hard on you?
+
+641
+00:51:28,418 --> 00:51:31,444  X1:135 X2:584 Y1:336 Y2:404
+Forget the fact that you're
+making the same mistakes I made,
+
+642
+00:51:31,521 --> 00:51:33,318  X1:151 X2:567 Y1:375 Y2:405
+and I wish you'd make your own.
+
+643
+00:51:33,390 --> 00:51:37,349  X1:135 X2:585 Y1:336 Y2:404
+But I think I'm hard on you because
+we've had so many good times.
+
+644
+00:51:37,427 --> 00:51:40,157  X1:185 X2:532 Y1:336 Y2:404
+And I think it's likely,
+as this gets worse, Timmy,
+
+645
+00:51:40,230 --> 00:51:43,757  X1:155 X2:564 Y1:336 Y2:404
+I'll be hard on you, too, because
+we've had so many good times.
+
+646
+00:51:43,834 --> 00:51:47,497  X1:118 X2:600 Y1:336 Y2:404
+So then, why am I hard on April
+when we didn't have any good times?
+
+647
+00:51:47,571 --> 00:51:48,902  X1:210 X2:508 Y1:375 Y2:405
+That's not true, though.
+
+648
+00:51:48,972 --> 00:51:52,806  X1:158 X2:559 Y1:336 Y2:404
+For days, I've been trying
+to think of nice April memories,
+
+649
+00:51:52,876 --> 00:51:54,741  X1:148 X2:570 Y1:375 Y2:405
+and I can only come up with one.
+
+650
+00:51:54,811 --> 00:51:59,248  X1:176 X2:542 Y1:336 Y2:404
+One vivid, beautiful memory.
+There's gotta be more.
+
+651
+00:51:59,316 --> 00:52:02,012  X1:229 X2:490 Y1:336 Y2:404
+- One can be a lot.
+- Okay, what was it?
+
+652
+00:52:02,085 --> 00:52:03,143  X1:249 X2:470 Y1:375 Y2:405
+It's not important.
+
+653
+00:52:03,220 --> 00:52:06,053  X1:222 X2:496 Y1:336 Y2:398
+Like hell, it's not.
+Tell us. What was it?
+
+654
+00:52:08,091 --> 00:52:11,185  X1:153 X2:564 Y1:375 Y2:405
+Okay, she had just turned three.
+
+655
+00:52:11,261 --> 00:52:14,856  X1:150 X2:569 Y1:336 Y2:404
+She was looking out the
+picture window on Locust Street,
+
+656
+00:52:14,931 --> 00:52:19,095  X1:158 X2:560 Y1:336 Y2:404
+and it was early in the morning,
+but it was already sunny.
+
+657
+00:52:19,970 --> 00:52:24,805  X1:125 X2:592 Y1:336 Y2:402
+She was just gazing out the window,
+and she turned back to me,
+
+658
+00:52:24,875 --> 00:52:31,644  X1:167 X2:552 Y1:336 Y2:404
+and she said, "Oh, Mother,
+don't you just love every day?"
+
+659
+00:52:34,317 --> 00:52:35,648  X1:271 X2:447 Y1:375 Y2:399
+That was me.
+
+660
+00:52:38,755 --> 00:52:40,086  X1:318 X2:400 Y1:375 Y2:399
+It was!
+
+661
+00:52:40,157 --> 00:52:43,092  X1:192 X2:524 Y1:336 Y2:398
+April was six when
+we lived on Locust Street.
+
+662
+00:52:44,427 --> 00:52:45,758  X1:280 X2:439 Y1:375 Y2:405
+Is that right?
+
+663
+00:52:46,796 --> 00:52:49,822  X1:123 X2:593 Y1:375 Y2:405
+Well, what about the crayon drawing
+
+664
+00:52:49,900 --> 00:52:52,391  X1:193 X2:526 Y1:336 Y2:404
+she did of the Mayflower...
+the one you had framed?
+
+665
+00:52:52,469 --> 00:52:54,835  X1:234 X2:484 Y1:336 Y2:398
+- That was me, too.
+- Cut it out!
+
+666
+00:52:54,905 --> 00:52:57,897  X1:190 X2:530 Y1:336 Y2:398
+I'm sorry, but it's important
+that we're accurate here.
+
+667
+00:52:57,974 --> 00:53:00,306  X1:160 X2:558 Y1:336 Y2:404
+- These are my memories, too.
+- Are you sure?
+
+668
+00:53:00,377 --> 00:53:02,777  X1:217 X2:500 Y1:336 Y2:398
+She's absolutely right,
+God freakin' dammit.
+
+669
+00:53:02,846 --> 00:53:04,905  X1:185 X2:533 Y1:336 Y2:398
+Just off the top of my head,
+I have one.
+
+670
+00:53:05,916 --> 00:53:07,577  X1:157 X2:560 Y1:375 Y2:403
+She was... I don't know how old,
+
+671
+00:53:07,651 --> 00:53:11,417  X1:227 X2:491 Y1:336 Y2:404
+but she was wearing
+a pink nightgown.
+
+672
+00:53:11,488 --> 00:53:12,819  X1:271 X2:447 Y1:375 Y2:399
+That was me.
+
+673
+00:53:14,925 --> 00:53:17,553  X1:231 X2:487 Y1:336 Y2:404
+- I'm kidding.
+- Funny. Very funny.
+
+674
+00:53:17,627 --> 00:53:21,791  X1:196 X2:521 Y1:336 Y2:404
+And I was coming back
+from a trip, or maybe not,
+
+675
+00:53:21,865 --> 00:53:27,565  X1:198 X2:520 Y1:336 Y2:404
+but I came into her room,
+and she was sleeping...
+
+676
+00:53:27,637 --> 00:53:30,470  X1:178 X2:541 Y1:375 Y2:405
+in her crib, and it was lovely.
+
+677
+00:53:30,540 --> 00:53:33,976  X1:267 X2:451 Y1:336 Y2:402
+- That's it?
+- Yes, that's it.
+
+678
+00:53:34,044 --> 00:53:35,204  X1:275 X2:443 Y1:375 Y2:405
+That's lovely.
+
+679
+00:53:35,278 --> 00:53:38,907  X1:129 X2:591 Y1:336 Y2:404
+No, it's not. Your happiest moment?
+She was asleep!
+
+680
+00:53:40,684 --> 00:53:42,879  X1:221 X2:498 Y1:336 Y2:404
+I didn't say it was
+my happiest moment,
+
+681
+00:53:42,953 --> 00:53:44,978  X1:184 X2:534 Y1:375 Y2:405
+it's just what came to mind.
+
+682
+00:53:47,891 --> 00:53:49,882  X1:310 X2:409 Y1:336 Y2:398
+Joy
+Momh?
+
+683
+00:53:53,496 --> 00:53:54,656  X1:276 X2:440 Y1:375 Y2:405
+Joy, watch...!
+
+684
+00:53:58,001 --> 00:54:00,526  X1:216 X2:503 Y1:336 Y2:404
+- What are you doing?
+- It's shitty, Jim.
+
+685
+00:54:00,604 --> 00:54:02,663  X1:235 X2:482 Y1:336 Y2:404
+All I can remember
+is the petulance,
+
+686
+00:54:02,739 --> 00:54:05,401  X1:220 X2:497 Y1:336 Y2:398
+the shoplifting,
+the fire in the kitchen.
+
+687
+00:54:05,475 --> 00:54:06,533  X1:203 X2:513 Y1:375 Y2:399
+Which was an accident.
+
+688
+00:54:06,610 --> 00:54:09,306  X1:184 X2:533 Y1:336 Y2:404
+Was it an accident the way
+she used to light matches
+
+689
+00:54:09,379 --> 00:54:10,539  X1:201 X2:517 Y1:375 Y2:399
+and throw them at Beth?
+
+690
+00:54:10,614 --> 00:54:13,583  X1:167 X2:551 Y1:336 Y2:404
+Or the time she used a lighter
+to trim Timmy's bangs?
+
+691
+00:54:13,650 --> 00:54:17,984  X1:133 X2:584 Y1:336 Y2:404
+- Joy, come on.
+- I mean, the drugs, the ingratitude!
+
+692
+00:54:21,258 --> 00:54:23,852  X1:163 X2:553 Y1:336 Y2:398
+She bit my nipples
+whenever I tried to breastfeed.
+
+693
+00:54:23,927 --> 00:54:25,258  X1:239 X2:478 Y1:375 Y2:403
+Sweetie, come on.
+
+694
+00:54:25,328 --> 00:54:28,024  X1:190 X2:528 Y1:336 Y2:398
+No wonder there's cancer.
+She's the cancer.
+
+695
+00:54:28,098 --> 00:54:29,588  X1:249 X2:468 Y1:375 Y2:399
+Get back in the...
+
+696
+00:54:31,868 --> 00:54:33,529  X1:232 X2:484 Y1:375 Y2:399
+Get back in the car!
+
+697
+00:54:39,109 --> 00:54:40,940  X1:287 X2:430 Y1:375 Y2:405
+Stop! Stop!
+
+698
+00:54:41,011 --> 00:54:42,410  X1:245 X2:473 Y1:375 Y2:405
+What's going on?
+
+699
+00:54:43,947 --> 00:54:45,778  X1:151 X2:567 Y1:375 Y2:405
+Mom needed to stretch her legs.
+
+700
+00:54:47,384 --> 00:54:49,443  X1:259 X2:457 Y1:375 Y2:405
+Joy, stop. Stop!
+
+701
+00:54:50,220 --> 00:54:53,018  X1:228 X2:491 Y1:336 Y2:404
+I tried, okay,
+but I can't go, I can't.
+
+702
+00:54:53,089 --> 00:54:56,081  X1:148 X2:569 Y1:336 Y2:404
+I can't... I can't have
+another bad experience with her.
+
+703
+00:54:56,159 --> 00:54:59,026  X1:220 X2:498 Y1:336 Y2:398
+- It won't be like that.
+- You don't know that.
+
+704
+00:55:00,163 --> 00:55:02,688  X1:181 X2:538 Y1:375 Y2:405
+It's the whole point of going.
+
+705
+00:55:02,766 --> 00:55:05,462  X1:195 X2:521 Y1:375 Y2:405
+We're making a memory.
+
+706
+00:55:05,535 --> 00:55:08,527  X1:185 X2:532 Y1:336 Y2:404
+You're not listening to me.
+I have too many memories!
+
+707
+00:55:08,605 --> 00:55:11,938  X1:156 X2:560 Y1:336 Y2:404
+A good memory.
+We're making something good.
+
+708
+00:55:13,977 --> 00:55:15,808  X1:257 X2:460 Y1:375 Y2:399
+What if it's not?
+
+709
+00:55:15,879 --> 00:55:19,110  X1:235 X2:483 Y1:375 Y2:405
+It will be. I promise.
+
+710
+00:55:19,182 --> 00:55:21,616  X1:180 X2:538 Y1:375 Y2:405
+I promise it will be beautiful.
+
+711
+00:55:23,053 --> 00:55:24,213  X1:239 X2:481 Y1:375 Y2:405
+How do you know?
+
+712
+00:55:26,389 --> 00:55:28,380  X1:164 X2:555 Y1:375 Y2:399
+Because I told her it had to be.
+
+713
+00:55:32,195 --> 00:55:33,685  X1:267 X2:451 Y1:375 Y2:399
+And if it's not?
+
+714
+00:55:34,764 --> 00:55:36,095  X1:257 X2:460 Y1:375 Y2:399
+Then I'll kill her.
+
+715
+00:55:58,788 --> 00:55:59,948  X1:308 X2:408 Y1:375 Y2:405
+Wayne!
+
+716
+00:56:05,562 --> 00:56:08,827  X1:149 X2:569 Y1:375 Y2:405
+Hi. I'd like to report a kidnapping.
+
+717
+00:56:11,034 --> 00:56:13,264  X1:223 X2:497 Y1:336 Y2:404
+I said I'd like to report
+a kidnapping.
+
+718
+00:56:14,504 --> 00:56:17,439  X1:197 X2:521 Y1:336 Y2:404
+This man who lives
+in my apartment building,
+
+719
+00:56:17,507 --> 00:56:19,168  X1:169 X2:549 Y1:375 Y2:405
+he's taken my turkey hostage,
+
+720
+00:56:19,242 --> 00:56:22,234  X1:164 X2:555 Y1:336 Y2:402
+and he's had it for
+over an hour now, and I can't...
+
+721
+00:56:23,913 --> 00:56:25,073  X1:294 X2:423 Y1:375 Y2:405
+My turkey.
+
+722
+00:56:25,915 --> 00:56:30,079  X1:225 X2:492 Y1:375 Y2:405
+Turkey. Turkey! Yes.
+
+723
+00:56:32,288 --> 00:56:35,724  X1:240 X2:476 Y1:336 Y2:404
+No, look, I know...
+that's why I called.
+
+724
+00:56:35,792 --> 00:56:38,488  X1:201 X2:515 Y1:336 Y2:402
+You have to understand.
+No, no, no!
+
+725
+00:57:31,347 --> 00:57:32,507  X1:306 X2:412 Y1:375 Y2:405
+Bad girl!
+
+726
+00:57:35,852 --> 00:57:37,342  X1:252 X2:466 Y1:375 Y2:405
+I want my turkey.
+
+727
+00:57:38,188 --> 00:57:40,520  X1:184 X2:533 Y1:336 Y2:404
+- So this is the thanks I get.
+- Give me my turkey.
+
+728
+00:57:40,590 --> 00:57:42,581  X1:218 X2:500 Y1:375 Y2:405
+I'm looking for a word.
+
+729
+00:57:42,659 --> 00:57:45,093  X1:201 X2:517 Y1:336 Y2:404
+Please give me
+my stupid fucking turkey.
+
+730
+00:57:45,161 --> 00:57:46,992  X1:223 X2:494 Y1:375 Y2:405
+Ah, yes, that's better.
+
+731
+00:57:47,063 --> 00:57:48,394  X1:280 X2:439 Y1:375 Y2:405
+It's all yours.
+
+732
+00:57:49,833 --> 00:57:52,495  X1:171 X2:546 Y1:336 Y2:404
+- You don't have to thank me.
+- Don't worry.
+
+733
+00:57:53,470 --> 00:57:56,633  X1:231 X2:487 Y1:336 Y2:398
+- Thank Bernadette.
+- What?
+
+734
+00:57:56,706 --> 00:57:59,539  X1:199 X2:519 Y1:336 Y2:398
+Without her, we wouldn't
+have found a solution.
+
+735
+00:57:59,609 --> 00:58:01,839  X1:145 X2:573 Y1:375 Y2:405
+She prefers her meat lightly fried.
+
+736
+00:58:01,911 --> 00:58:04,402  X1:224 X2:493 Y1:336 Y2:404
+Would sweetie like it
+cut into little pieces?
+
+737
+00:58:15,258 --> 00:58:16,657  X1:248 X2:468 Y1:375 Y2:405
+You're a bad girl!
+
+738
+00:58:17,393 --> 00:58:20,260  X1:228 X2:488 Y1:375 Y2:405
+A very, very bad girl.
+
+739
+00:58:24,400 --> 00:58:26,129  X1:286 X2:432 Y1:375 Y2:403
+No, I'm not.
+
+740
+00:59:26,129 --> 00:59:28,120  X1:210 X2:507 Y1:375 Y2:399
+Welcome to our home.
+
+741
+00:59:36,172 --> 00:59:38,504  X1:207 X2:511 Y1:375 Y2:405
+Tyrone's lookin' for you.
+
+742
+00:59:53,156 --> 00:59:54,316  X1:212 X2:507 Y1:375 Y2:405
+How you been, Bobby?
+
+743
+00:59:54,390 --> 00:59:56,517  X1:236 X2:482 Y1:336 Y2:402
+- Eddie.
+- No, Eddie's dead.
+
+744
+00:59:56,593 --> 00:59:59,426  X1:178 X2:540 Y1:336 Y2:404
+- I'm sorry?
+- Yeah. I changed my name.
+
+745
+00:59:59,495 --> 01:00:00,655  X1:257 X2:461 Y1:375 Y2:405
+I'm Tyrone now.
+
+746
+01:00:02,332 --> 01:00:04,994  X1:178 X2:540 Y1:336 Y2:404
+- So you're Tyrone?
+- Yeah. I changed my name.
+
+747
+01:00:05,068 --> 01:00:08,060  X1:175 X2:542 Y1:336 Y2:404
+Everybody else is changin'.
+The whole world is changin'.
+
+748
+01:00:08,137 --> 01:00:10,628  X1:147 X2:571 Y1:375 Y2:405
+My who e wor d, wh ch was Apr
+
+749
+01:00:12,976 --> 01:00:15,137  X1:248 X2:470 Y1:336 Y2:404
+- I gotta get goin'.
+- Hey, man.
+
+750
+01:00:17,246 --> 01:00:19,908  X1:183 X2:536 Y1:336 Y2:402
+Even if I wanted to hurt you,
+and I kinda do,
+
+751
+01:00:19,983 --> 01:00:22,679  X1:202 X2:516 Y1:375 Y2:405
+I won't, so you can relax.
+
+752
+01:00:22,752 --> 01:00:24,583  X1:256 X2:461 Y1:336 Y2:398
+- Thank you.
+- It's her choice.
+
+753
+01:00:24,654 --> 01:00:26,986  X1:186 X2:532 Y1:336 Y2:398
+If she wants to be with you,
+that's fine.
+
+754
+01:00:27,056 --> 01:00:29,889  X1:168 X2:550 Y1:375 Y2:405
+It's just... there's something I...
+
+755
+01:00:31,361 --> 01:00:32,851  X1:238 X2:481 Y1:336 Y2:404
+You could tell her
+something for me?
+
+756
+01:00:32,929 --> 01:00:34,794  X1:165 X2:552 Y1:375 Y2:405
+What you want me to tell her?
+
+757
+01:00:36,566 --> 01:00:38,056  X1:225 X2:493 Y1:375 Y2:405
+Happy Thanksgiving.
+
+758
+01:01:03,893 --> 01:01:05,121  X1:305 X2:413 Y1:375 Y2:405
+Let's go.
+
+759
+01:01:06,562 --> 01:01:07,722  X1:302 X2:416 Y1:375 Y2:399
+'Cause...
+
+760
+01:01:13,436 --> 01:01:15,870  X1:176 X2:543 Y1:336 Y2:404
+Once, there were
+people here called "Indians."
+
+761
+01:01:15,938 --> 01:01:18,771  X1:176 X2:543 Y1:375 Y2:403
+Native Americans, whatever.
+
+762
+01:01:18,841 --> 01:01:21,674  X1:213 X2:505 Y1:336 Y2:404
+Then a boat came
+called the "Mayflower."
+
+763
+01:01:21,744 --> 01:01:24,907  X1:178 X2:539 Y1:336 Y2:404
+Landed on a big rock
+carrying people just like me.
+
+764
+01:01:25,915 --> 01:01:29,078  X1:213 X2:505 Y1:336 Y2:398
+The first year
+on their own was hard.
+
+765
+01:01:30,887 --> 01:01:34,345  X1:196 X2:522 Y1:375 Y2:405
+It was... really, really hard.
+
+766
+01:01:38,161 --> 01:01:39,958  X1:239 X2:479 Y1:375 Y2:405
+Let me start again.
+
+767
+01:01:44,667 --> 01:01:46,635  X1:229 X2:489 Y1:375 Y2:405
+This was long ago...
+
+768
+01:01:47,970 --> 01:01:51,565  X1:141 X2:577 Y1:375 Y2:403
+before we stole most of their land,
+
+769
+01:01:51,641 --> 01:01:56,510  X1:132 X2:585 Y1:336 Y2:398
+killed most of them,
+and moved the rest to reservations.
+
+770
+01:01:56,579 --> 01:01:59,480  X1:164 X2:556 Y1:336 Y2:398
+Before they lost their language
+and their customs.
+
+771
+01:02:05,188 --> 01:02:08,351  X1:177 X2:541 Y1:375 Y2:405
+Okay, forget what I just said.
+
+772
+01:02:10,059 --> 01:02:12,584  X1:175 X2:543 Y1:375 Y2:405
+Once there was this one day
+
+773
+01:02:12,662 --> 01:02:17,497  X1:149 X2:567 Y1:336 Y2:404
+where everybody seemed
+to know they needed each other.
+
+774
+01:02:26,476 --> 01:02:28,137  X1:225 X2:492 Y1:375 Y2:405
+This one day when...
+
+775
+01:02:29,312 --> 01:02:32,304  X1:174 X2:542 Y1:336 Y2:404
+they knew for certain
+that they couldn't do it alone.
+
+776
+01:03:38,548 --> 01:03:40,209  X1:243 X2:475 Y1:375 Y2:405
+Why did we stop?
+
+777
+01:03:41,717 --> 01:03:43,378  X1:255 X2:464 Y1:375 Y2:405
+Daddy thought...
+
+778
+01:04:28,898 --> 01:04:31,389  X1:325 X2:395 Y1:375 Y2:399
+168...
+
+779
+01:04:31,467 --> 01:04:36,700  X1:314 X2:404 Y1:336 Y2:398
+- 160...
+- 163.
+
+780
+01:04:36,772 --> 01:04:38,763  X1:210 X2:508 Y1:375 Y2:405
+I think they get... Daddy!
+
+781
+01:04:40,543 --> 01:04:41,874  X1:259 X2:459 Y1:375 Y2:403
+Dad, watch out!
+
+782
+01:04:44,780 --> 01:04:48,716  X1:186 X2:531 Y1:336 Y2:404
+- Who are they?
+- 154. It should be up here.
+
+783
+01:05:09,505 --> 01:05:10,802  X1:276 X2:440 Y1:375 Y2:405
+Oh, my God!
+
+784
+01:05:10,873 --> 01:05:11,965  X1:308 X2:409 Y1:375 Y2:405
+Oh, my.
+
+785
+01:05:12,041 --> 01:05:13,941  X1:203 X2:514 Y1:375 Y2:405
+This is the wrong street.
+
+786
+01:05:14,010 --> 01:05:17,241  X1:210 X2:508 Y1:336 Y2:402
+- No, I think we're here.
+- No, it can't be.
+
+787
+01:05:18,281 --> 01:05:20,181  X1:225 X2:492 Y1:375 Y2:405
+We have obviously...
+
+788
+01:05:20,249 --> 01:05:22,843  X1:150 X2:566 Y1:336 Y2:404
+We've obviously got the wrong...
+the wrong address.
+
+789
+01:05:22,919 --> 01:05:24,910  X1:215 X2:503 Y1:375 Y2:405
+Daddy, I think this is it.
+
+790
+01:05:30,726 --> 01:05:32,125  X1:242 X2:476 Y1:375 Y2:405
+Goddamn it, April.
+
+791
+01:05:38,968 --> 01:05:41,129  X1:241 X2:478 Y1:336 Y2:404
+I don't understand.
+How did you...?
+
+792
+01:05:44,206 --> 01:05:45,366  X1:315 X2:403 Y1:375 Y2:399
+What?
+
+793
+01:05:47,443 --> 01:05:50,935  X1:237 X2:481 Y1:336 Y2:404
+- It's carved dough.
+- Carved dough.
+
+794
+01:05:59,322 --> 01:06:00,584  X1:288 X2:430 Y1:375 Y2:405
+Thank you.
+
+795
+01:06:03,192 --> 01:06:04,557  X1:253 X2:465 Y1:375 Y2:405
+Lock your doors!
+
+796
+01:06:08,297 --> 01:06:10,322  X1:228 X2:492 Y1:336 Y2:404
+Hey, welcome!
+How you guys doin'?
+
+797
+01:06:10,399 --> 01:06:12,230  X1:243 X2:474 Y1:375 Y2:403
+Mom, don't! Mom!
+
+798
+01:06:12,301 --> 01:06:14,166  X1:293 X2:426 Y1:375 Y2:405
+I'm Bobby.
+
+799
+01:06:14,236 --> 01:06:16,636  X1:200 X2:518 Y1:375 Y2:405
+Aren't you April's family?
+
+800
+01:06:19,275 --> 01:06:20,606  X1:289 X2:429 Y1:375 Y2:399
+That hurts.
+
+801
+01:06:24,013 --> 01:06:25,844  X1:198 X2:519 Y1:375 Y2:399
+You must be her mother.
+
+802
+01:06:31,587 --> 01:06:34,078  X1:224 X2:495 Y1:336 Y2:404
+Well, um...
+I'm gonna go get her.
+
+803
+01:06:41,897 --> 01:06:45,196  X1:240 X2:475 Y1:375 Y2:405
+April, they're here!
+
+804
+01:06:45,267 --> 01:06:47,258  X1:169 X2:548 Y1:375 Y2:405
+Hey, babe, your family's here!
+
+805
+01:06:51,273 --> 01:06:52,433  X1:273 X2:443 Y1:375 Y2:405
+They're here!
+
+806
+01:06:52,975 --> 01:06:54,135  X1:261 X2:458 Y1:336 Y2:398
+- They're here?
+- Yeah.
+
+807
+01:06:54,210 --> 01:06:56,041  X1:209 X2:509 Y1:336 Y2:404
+Oh, my God,
+what happened to you?
+
+808
+01:06:56,112 --> 01:06:58,137  X1:233 X2:485 Y1:336 Y2:398
+- I'm good.
+- You need first aid.
+
+809
+01:06:58,214 --> 01:06:59,909  X1:273 X2:447 Y1:375 Y2:403
+No, no, look...
+
+810
+01:06:59,982 --> 01:07:01,643  X1:195 X2:521 Y1:375 Y2:405
+your family is downstairs.
+
+811
+01:07:01,717 --> 01:07:03,844  X1:165 X2:554 Y1:375 Y2:405
+Look at your lips and your eye.
+
+812
+01:07:03,919 --> 01:07:06,080  X1:246 X2:472 Y1:375 Y2:405
+I'm good. I'm fine.
+
+813
+01:07:07,123 --> 01:07:10,251  X1:136 X2:582 Y1:336 Y2:404
+They're downstairs waiting for you.
+You gotta go.
+
+814
+01:07:10,326 --> 01:07:11,816  X1:192 X2:525 Y1:375 Y2:405
+Are you sure you're okay?
+
+815
+01:07:12,561 --> 01:07:13,721  X1:335 X2:382 Y1:375 Y2:399
+Go.
+
+816
+01:07:17,366 --> 01:07:19,766  X1:158 X2:560 Y1:336 Y2:404
+- The cranberry sauce is ready.
+- They're here.
+
+817
+01:08:18,694 --> 01:08:21,162  X1:185 X2:533 Y1:336 Y2:404
+I don't understand.
+They were just down there.
+
+818
+01:08:22,031 --> 01:08:23,862  X1:240 X2:478 Y1:336 Y2:398
+Maybe they went
+and ran an errand.
+
+819
+01:08:28,537 --> 01:08:30,266  X1:216 X2:502 Y1:336 Y2:404
+Why would they come
+all this way?
+
+820
+01:09:00,769 --> 01:09:04,205  X1:186 X2:533 Y1:336 Y2:404
+Bobby, what are we
+gonna do with all the food?
+
+821
+01:09:05,808 --> 01:09:07,298  X1:261 X2:457 Y1:375 Y2:399
+This is so nice.
+
+822
+01:09:13,149 --> 01:09:14,639  X1:203 X2:515 Y1:375 Y2:405
+Something smells good.
+
+823
+01:09:15,384 --> 01:09:18,376  X1:165 X2:553 Y1:336 Y2:404
+I'm sure we'll be able to find
+something for everybody here.
+
+824
+01:09:21,323 --> 01:09:24,087  X1:165 X2:553 Y1:336 Y2:404
+- You okay?
+- I need to go to the bathroom.
+
+825
+01:09:24,160 --> 01:09:26,560  X1:218 X2:499 Y1:336 Y2:404
+- I'll... l'll...
+- Timmy can take me.
+
+826
+01:09:39,041 --> 01:09:43,205  X1:195 X2:524 Y1:336 Y2:404
+Don't be hard on yourself.
+We did the right thing.
+
+827
+01:09:46,415 --> 01:09:48,246  X1:201 X2:518 Y1:375 Y2:405
+It's much better this way.
+
+828
+01:09:48,317 --> 01:09:50,615  X1:225 X2:493 Y1:336 Y2:404
+Good afternoon.
+Happy Thanksgiving.
+
+829
+01:09:50,686 --> 01:09:51,846  X1:225 X2:493 Y1:375 Y2:405
+Happy Thanksgiving.
+
+830
+01:09:52,855 --> 01:09:54,186  X1:284 X2:435 Y1:375 Y2:399
+Let me see.
+
+831
+01:09:55,591 --> 01:09:57,923  X1:226 X2:491 Y1:336 Y2:404
+That's it! I'm leaving.
+You're on your own.
+
+832
+01:09:57,993 --> 01:09:59,654  X1:187 X2:532 Y1:375 Y2:405
+Let's see how you like that.
+
+833
+01:09:59,728 --> 01:10:00,888  X1:322 X2:394 Y1:375 Y2:399
+Mom!
+
+834
+01:10:48,877 --> 01:10:50,538  X1:230 X2:489 Y1:375 Y2:405
+Momh, a re you okay?
+
+835
+01:10:59,989 --> 01:11:01,479  X1:284 X2:434 Y1:375 Y2:399
+Excuse me.
+
+836
+01:11:01,557 --> 01:11:04,993  X1:163 X2:556 Y1:336 Y2:404
+French, Russian, bleu cheese,
+Thousand Island, vinaigrette,
+
+837
+01:11:05,094 --> 01:11:06,925  X1:203 X2:515 Y1:375 Y2:405
+Italian, we've got Ranch.
+
+838
+01:11:23,145 --> 01:11:24,544  X1:158 X2:559 Y1:375 Y2:405
+They're made on the premises.
+
+839
+01:11:24,613 --> 01:11:27,844  X1:121 X2:596 Y1:336 Y2:404
+We've got a great Black Forest cake.
+We also have great pies.
+
+840
+01:11:27,916 --> 01:11:30,316  X1:169 X2:549 Y1:336 Y2:404
+- Doesn't that sound good?
+- We have great pumpkin pie.
+
+841
+01:11:30,386 --> 01:11:32,115  X1:177 X2:541 Y1:336 Y2:404
+Do you have whipped cream
+with the pie?
+
+842
+01:11:32,187 --> 01:11:33,176  X1:291 X2:426 Y1:375 Y2:399
+Of course.
+
+843
+01:12:02,484 --> 01:12:03,974  X1:274 X2:444 Y1:336 Y2:398
+- This piece?
+- Yeah.
+
+844
+01:12:12,061 --> 01:12:15,053  X1:231 X2:488 Y1:336 Y2:404
+- Want me to get it?
+- No, I'll get it.
+

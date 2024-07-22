@@ -1,0 +1,4050 @@
+1
+00:01:13,840 --> 00:01:16,331  X1:071 X2:423 Y1:382 Y2:444
+<i>[Narrator]</i>
+<i>There are gajillions ofstories...</i>
+
+2
+00:01:16,476 --> 00:01:18,535  X1:073 X2:298 Y1:414 Y2:442
+<i>ofmischiefand fun,</i>
+
+3
+00:01:18,678 --> 00:01:20,578  X1:072 X2:374 Y1:414 Y2:444
+<i>but to keep things simple,</i>
+
+4
+00:01:20,680 --> 00:01:23,240  X1:072 X2:354 Y1:414 Y2:444
+<i>let's start withjust one...</i>
+
+5
+00:01:23,349 --> 00:01:25,817  X1:072 X2:397 Y1:414 Y2:438
+<i>about a mom and two kids...</i>
+
+6
+00:01:25,919 --> 00:01:28,149  X1:072 X2:340 Y1:414 Y2:438
+<i>and a house and a hat...</i>
+
+7
+00:01:28,254 --> 00:01:30,154  X1:074 X2:297 Y1:414 Y2:444
+<i>that, oddly enough,</i>
+
+8
+00:01:30,256 --> 00:01:32,588  X1:075 X2:282 Y1:414 Y2:444
+<i>was worn by a cat.</i>
+
+9
+00:01:32,692 --> 00:01:36,651  X1:073 X2:322 Y1:382 Y2:444
+<i>But soon enough</i>
+<i>we will get to all that.</i>
+
+10
+00:01:36,763 --> 00:01:40,665  X1:073 X2:382 Y1:382 Y2:442
+<i>In the valley that stretches</i>
+<i>from this hill to that hill,</i>
+
+11
+00:01:40,767 --> 00:01:42,735  X1:072 X2:272 Y1:414 Y2:444
+<i>a city is nestled...</i>
+
+12
+00:01:42,836 --> 00:01:45,930  X1:074 X2:284 Y1:414 Y2:444
+<i>that city is Anville.</i>
+
+13
+00:01:46,072 --> 00:01:48,267  X1:223 X2:494 Y1:037 Y2:131
+- [Kid] Hurry up!
+We'll miss the movie!
+- Any more tutti-frutti?
+
+14
+00:01:48,408 --> 00:01:49,340  X1:303 X2:413 Y1:037 Y2:125
+I'll check.
+Thanks!
+
+15
+00:01:49,409 --> 00:01:53,675  X1:071 X2:380 Y1:037 Y2:131
+<i>[NarratorContinues]</i>
+<i>It's a town that's not huge,</i>
+<i>but quite big enough...</i>
+
+16
+00:01:53,780 --> 00:01:56,908  X1:073 X2:320 Y1:037 Y2:099
+<i>for buyers and sellers</i>
+<i>to sell and buy stuff,</i>
+
+17
+00:01:57,016 --> 00:01:59,780  X1:073 X2:337 Y1:414 Y2:438
+<i>from shoes and shirts...</i>
+
+18
+00:01:59,886 --> 00:02:02,047  X1:072 X2:348 Y1:414 Y2:444
+<i>and elongated ladders...</i>
+
+19
+00:02:02,155 --> 00:02:06,387  X1:072 X2:426 Y1:382 Y2:444
+<i>to sailboats and gibble-grated</i>
+<i>berry-juice bladders.</i>
+
+20
+00:02:06,459 --> 00:02:07,892  X1:276 X2:441 Y1:414 Y2:442
+[Horn Honks]
+
+21
+00:02:07,961 --> 00:02:13,331  X1:072 X2:352 Y1:037 Y2:125
+<i>So ourstory begins</i>
+<i>at the corner</i>
+<i>ofMain and Montroob...</i>
+
+22
+00:02:13,433 --> 00:02:15,833  X1:072 X2:283 Y1:037 Y2:093
+<i>in the spotless</i>
+<i>real estate offiice...</i>
+
+23
+00:02:15,935 --> 00:02:19,598  X1:072 X2:380 Y1:037 Y2:067
+<i>run by Hank Humberfloob.</i>
+
+24
+00:02:20,540 --> 00:02:23,338  X1:071 X2:478 Y1:350 Y2:444
+<i>[Woman]</i>
+<i>Humberfloob Real Estate. How can</i>
+<i>we make yourdreams come true?</i>
+
+25
+00:02:23,443 --> 00:02:25,377  X1:229 X2:475 Y1:414 Y2:444
+<i>[People Chattering]</i>
+
+26
+00:02:30,016 --> 00:02:31,449  X1:421 X2:647 Y1:037 Y2:099
+What do you mean,
+you're leaving?
+
+27
+00:02:31,518 --> 00:02:34,919  X1:173 X2:544 Y1:037 Y2:099
+You're a babysitter.
+Babysitters don't leave. They sit.
+
+28
+00:02:35,021 --> 00:02:37,922  X1:381 X2:647 Y1:318 Y2:444
+Baby-leavers leave.
+I'm sorry. I really
+gotta go, Miss Walden.
+
+29
+00:02:38,024 --> 00:02:40,925  X1:333 X2:648 Y1:037 Y2:099
+Well, I need to come home
+right away.
+
+30
+00:02:41,027 --> 00:02:43,621  X1:070 X2:647 Y1:037 Y2:163
+All right.
+Thank you, Amy.
+Sorry.
+
+31
+00:02:43,730 --> 00:02:45,322  X1:071 X2:168 Y1:037 Y2:067
+<i>[Sighs]</i>
+
+32
+00:02:47,267 --> 00:02:50,168  X1:239 X2:478 Y1:383 Y2:438
+Attention, everyone!
+It's 9:02.
+
+33
+00:02:50,303 --> 00:02:52,430  X1:277 X2:440 Y1:382 Y2:444
+Staff meeting!
+Staff meeting!
+
+34
+00:02:52,572 --> 00:02:55,507  X1:073 X2:646 Y1:350 Y2:444
+[All Gasping, Murmuring]
+<i>Look alive, everyone.!</i>
+
+35
+00:02:55,608 --> 00:02:57,667  X1:252 X2:464 Y1:382 Y2:438
+First I'd like to
+welcome aboard...
+
+36
+00:02:57,810 --> 00:03:00,938  X1:203 X2:515 Y1:382 Y2:444
+our newest member
+of the Humberfloob family,
+
+37
+00:03:01,047 --> 00:03:03,277  X1:445 X2:647 Y1:414 Y2:444
+Jim McFlinnagan!
+
+38
+00:03:03,383 --> 00:03:05,180  X1:222 X2:496 Y1:350 Y2:444
+- Mr. Humberfloob,
+I wanted to thank you...
+- [All Gasping]
+
+39
+00:03:05,285 --> 00:03:07,253  X1:072 X2:392 Y1:318 Y2:444
+Fired.
+I beg your pardon?
+
+40
+00:03:07,353 --> 00:03:09,787  X1:310 X2:410 Y1:318 Y2:438
+Fired.
+B-But l...
+
+41
+00:03:09,889 --> 00:03:14,087  X1:328 X2:392 Y1:414 Y2:438
+Fired!
+
+42
+00:03:16,963 --> 00:03:19,932  X1:419 X2:647 Y1:350 Y2:444
+One, two, three,
+four, fiive, six, seven,
+eight, nine, 10!
+
+43
+00:03:22,402 --> 00:03:26,463  X1:202 X2:647 Y1:382 Y2:444
+As you know, tonight is
+our bimonthly"meet and greet" party.
+
+44
+00:03:26,606 --> 00:03:30,007  X1:254 X2:463 Y1:382 Y2:444
+Tonight's host is...
+Joan Walden.
+
+45
+00:03:30,143 --> 00:03:34,136  X1:070 X2:408 Y1:037 Y2:099
+This is where people can
+meet our real estate agents...
+
+46
+00:03:34,247 --> 00:03:38,149  X1:241 X2:476 Y1:382 Y2:444
+in an informal,
+yet hygienic setting.
+
+47
+00:03:38,251 --> 00:03:41,243  X1:186 X2:533 Y1:382 Y2:444
+Mr. Humberfloob,
+I have to get home to my kids.
+
+48
+00:03:42,689 --> 00:03:44,657  X1:314 X2:403 Y1:414 Y2:444
+Ah, yes.
+
+49
+00:03:45,959 --> 00:03:48,484  X1:276 X2:440 Y1:414 Y2:438
+Your children.
+
+50
+00:03:48,595 --> 00:03:52,725  X1:070 X2:327 Y1:382 Y2:444
+Joan, let me make this
+perfectly clear.
+
+51
+00:03:52,832 --> 00:03:57,531  X1:072 X2:339 Y1:382 Y2:444
+If your house
+is as messy as last time,
+
+52
+00:03:57,670 --> 00:04:00,662  X1:289 X2:428 Y1:414 Y2:444
+you're fiired!
+
+53
+00:04:00,807 --> 00:04:02,638  X1:381 X2:627 Y1:382 Y2:444
+<i>[Employees Gasping,</i>
+<i>Murmuring]</i>
+
+54
+00:04:02,742 --> 00:04:06,303  X1:250 X2:467 Y1:382 Y2:438
+That's pretty clear,
+Mr. Humberfloob.
+
+55
+00:04:06,412 --> 00:04:08,312  X1:228 X2:491 Y1:415 Y2:444
+Don't worry. I promise.
+
+56
+00:04:08,414 --> 00:04:10,882  X1:228 X2:489 Y1:382 Y2:438
+My kids'll be
+on their best behavior.
+
+57
+00:04:11,784 --> 00:04:13,684  X1:323 X2:394 Y1:415 Y2:438
+Great.
+
+58
+00:04:15,121 --> 00:04:17,521  X1:071 X2:368 Y1:318 Y2:438
+<i>[Phone Rings]</i>
+<i>[Woman]</i>
+<i>Humberfloob Real Estate.</i>
+
+59
+00:04:17,624 --> 00:04:20,525  X1:070 X2:359 Y1:350 Y2:438
+<i>How can we make</i>
+<i>yourdreams come true?</i>
+<i>Please hold.</i>
+
+60
+00:04:20,627 --> 00:04:24,688  X1:071 X2:384 Y1:037 Y2:129
+<i>[Narrator]</i>
+<i>Lfyou leave Humberfloob's</i>
+<i>and turn left onto Main,</i>
+
+61
+00:04:24,797 --> 00:04:29,200  X1:070 X2:384 Y1:037 Y2:099
+<i>three miles down</i>
+<i>you'll fiind Lipplapper Lane,</i>
+
+62
+00:04:29,302 --> 00:04:32,760  X1:072 X2:385 Y1:382 Y2:444
+<i>a pleasant-enough street</i>
+<i>in a pleasant-enough way...</i>
+
+63
+00:04:32,905 --> 00:04:37,274  X1:075 X2:492 Y1:382 Y2:444
+<i>where a neighbor greeted neighbor</i>
+<i>with a neighborly"Hey.!"</i>
+
+64
+00:04:37,377 --> 00:04:38,810  X1:073 X2:647 Y1:351 Y2:444
+Hey!
+Hey!
+
+65
+00:04:38,878 --> 00:04:43,281  X1:073 X2:428 Y1:382 Y2:442
+<i>Here the hedges were hedged,</i>
+<i>the weeds were all weeded,</i>
+
+66
+00:04:43,383 --> 00:04:45,749  X1:072 X2:410 Y1:414 Y2:444
+<i>and lawns were mowed daily,</i>
+
+67
+00:04:45,852 --> 00:04:48,753  X1:074 X2:316 Y1:414 Y2:444
+<i>twice daily ifneeded.</i>
+
+68
+00:04:48,855 --> 00:04:51,016  X1:070 X2:250 Y1:382 Y2:442
+<i>And at the end</i>
+<i>ofthis street,</i>
+
+69
+00:04:51,124 --> 00:04:53,354  X1:072 X2:359 Y1:414 Y2:444
+<i>in a house like any other,</i>
+
+70
+00:04:53,459 --> 00:04:55,518  X1:071 X2:300 Y1:382 Y2:444
+<i>something magical</i>
+<i>would happen...</i>
+
+71
+00:04:55,628 --> 00:04:58,756  X1:074 X2:380 Y1:414 Y2:438
+<i>to a sisterand her brother.</i>
+
+72
+00:04:59,699 --> 00:05:00,757  X1:301 X2:417 Y1:414 Y2:444
+[Barking]
+
+73
+00:05:07,907 --> 00:05:10,740  X1:071 X2:647 Y1:318 Y2:438
+<i>[Barks]</i>
+Shh! Nevins!
+Stealth mode.
+
+74
+00:05:10,843 --> 00:05:12,743  X1:255 X2:461 Y1:414 Y2:444
+Today's to-do list.
+
+75
+00:05:12,845 --> 00:05:15,279  X1:269 X2:450 Y1:382 Y2:438
+Number one:
+Make to-do list.
+
+76
+00:05:15,348 --> 00:05:17,680  X1:444 X2:647 Y1:382 Y2:444
+Number two:
+Practice coloring.
+
+77
+00:05:17,750 --> 00:05:20,514  X1:338 X2:647 Y1:382 Y2:444
+Number three:
+Research graduate schools.
+
+78
+00:05:20,586 --> 00:05:23,316  X1:265 X2:454 Y1:382 Y2:444
+Number four:
+Be spontaneous.
+
+79
+00:05:23,423 --> 00:05:26,915  X1:401 X2:647 Y1:350 Y2:438
+Number fiive:
+Create lasting
+childhood memories.
+
+80
+00:05:26,993 --> 00:05:30,292  X1:436 X2:631 Y1:382 Y2:438
+<i>And numbersix:</i>
+<i>Amend will.</i>
+
+81
+00:05:31,597 --> 00:05:33,895  X1:254 X2:464 Y1:414 Y2:444
+What is he doing?
+
+82
+00:05:39,872 --> 00:05:41,567  X1:315 X2:403 Y1:414 Y2:444
+[Sighs]
+
+83
+00:05:45,144 --> 00:05:46,702  X1:302 X2:416 Y1:414 Y2:442
+[Whines]
+
+84
+00:05:49,048 --> 00:05:50,640  X1:311 X2:407 Y1:414 Y2:444
+[Beeps]
+
+85
+00:05:51,784 --> 00:05:54,776  X1:198 X2:520 Y1:382 Y2:438
+Number 10:
+Make tomorrow's to-do list.
+
+86
+00:05:58,224 --> 00:06:00,715  X1:071 X2:647 Y1:318 Y2:444
+Ladies and gentlemen!
+<i>[Nevins Barking]</i>
+
+87
+00:06:00,827 --> 00:06:02,658  X1:387 X2:647 Y1:383 Y2:444
+Nevins,
+your attention, please.
+
+88
+00:06:02,762 --> 00:06:05,754  X1:162 X2:555 Y1:382 Y2:444
+You are about to witness
+the third most spectacular stunt...
+
+89
+00:06:05,865 --> 00:06:08,231  X1:269 X2:449 Y1:382 Y2:438
+ever performed
+under this roof!
+
+90
+00:06:08,334 --> 00:06:11,963  X1:071 X2:470 Y1:382 Y2:444
+Do you know how hard it's getting
+to tell people that we're related?
+
+91
+00:06:12,105 --> 00:06:15,506  X1:224 X2:494 Y1:382 Y2:444
+Relax.
+I'll put everything back.
+
+92
+00:06:19,212 --> 00:06:21,339  X1:520 X2:646 Y1:414 Y2:444
+[Whining]
+
+93
+00:06:24,884 --> 00:06:28,217  X1:217 X2:499 Y1:382 Y2:444
+And now,
+for the indoor stair luge!
+
+94
+00:06:28,321 --> 00:06:30,221  X1:258 X2:462 Y1:414 Y2:444
+Indoor stair luge?
+
+95
+00:06:30,323 --> 00:06:32,518  X1:225 X2:493 Y1:382 Y2:444
+I'll have to add this one
+to my list.
+
+96
+00:06:32,625 --> 00:06:35,355  X1:262 X2:456 Y1:382 Y2:438
+Go have no fun
+somewhere else.
+
+97
+00:06:35,461 --> 00:06:38,953  X1:248 X2:458 Y1:414 Y2:438
+<i>It... is... showtime.!</i>
+
+98
+00:06:39,065 --> 00:06:41,397  X1:276 X2:440 Y1:382 Y2:442
+- [Whimpers]
+- [Grunts]
+
+99
+00:06:41,501 --> 00:06:43,969  X1:316 X2:393 Y1:414 Y2:438
+<i>Whoa.!</i>
+
+100
+00:06:44,103 --> 00:06:46,697  X1:071 X2:186 Y1:414 Y2:444
+<i>[Yelling]</i>
+
+101
+00:06:46,839 --> 00:06:49,239  X1:319 X2:398 Y1:382 Y2:438
+- Aah!
+- Yeah!
+
+102
+00:06:49,342 --> 00:06:50,809  X1:538 X2:646 Y1:414 Y2:442
+[Groans]
+
+103
+00:06:50,943 --> 00:06:53,503  X1:200 X2:503 Y1:382 Y2:444
+<i>- [Woman] Oh, my word.!</i>
+- [Nevins Barking]
+
+104
+00:06:53,613 --> 00:06:55,513  X1:318 X2:402 Y1:415 Y2:438
+Nevins!
+
+105
+00:06:55,615 --> 00:06:58,948  X1:073 X2:302 Y1:414 Y2:442
+<i>Nevins, come back.!</i>
+
+106
+00:07:00,453 --> 00:07:02,353  X1:389 X2:648 Y1:414 Y2:444
+Hey, Mom. What's up?
+
+107
+00:07:05,992 --> 00:07:08,893  X1:355 X2:647 Y1:382 Y2:444
+You are so lucky
+you didn't ruin this dress.
+
+108
+00:07:08,995 --> 00:07:11,486  X1:070 X2:224 Y1:382 Y2:444
+Mom, I know
+you're angry,
+
+109
+00:07:11,597 --> 00:07:13,497  X1:229 X2:487 Y1:382 Y2:444
+but there's something
+you need to know.
+
+110
+00:07:13,599 --> 00:07:16,159  X1:222 X2:648 Y1:318 Y2:444
+This was all Sally's fault.
+Oh, really?
+
+111
+00:07:16,269 --> 00:07:18,635  X1:070 X2:286 Y1:382 Y2:444
+And how, exactly,
+was it Sally's fault?
+
+112
+00:07:18,771 --> 00:07:20,705  X1:254 X2:463 Y1:383 Y2:438
+Give me a minute.
+I'm workin' on it.
+
+113
+00:07:20,807 --> 00:07:23,241  X1:071 X2:249 Y1:414 Y2:441
+Save it, Conrad.
+
+114
+00:07:23,342 --> 00:07:26,402  X1:360 X2:647 Y1:350 Y2:444
+Why today? Why did you
+have to pick today
+to destroy the house?
+
+115
+00:07:26,512 --> 00:07:28,446  X1:364 X2:647 Y1:382 Y2:444
+You know
+what's happening today.
+
+116
+00:07:28,514 --> 00:07:30,448  X1:222 X2:497 Y1:414 Y2:441
+I tried to tell him, Mom.
+
+117
+00:07:30,516 --> 00:07:32,950  X1:186 X2:532 Y1:382 Y2:444
+"Mom's throwing
+a very important party," I said.
+
+118
+00:07:33,019 --> 00:07:34,953  X1:238 X2:480 Y1:382 Y2:438
+"All ofher important
+clients will be here."
+
+119
+00:07:35,021 --> 00:07:38,787  X1:218 X2:499 Y1:350 Y2:444
+But he went right ahead
+and wrecked the house
+and let Nevins get away.
+
+120
+00:07:38,858 --> 00:07:41,452  X1:322 X2:647 Y1:382 Y2:444
+Now, again, I hope
+you're going to ground him.
+
+121
+00:07:41,561 --> 00:07:44,291  X1:070 X2:399 Y1:382 Y2:444
+Yes, Sally, for a week, but
+that's none of your business.
+
+122
+00:07:44,397 --> 00:07:46,297  X1:243 X2:473 Y1:382 Y2:444
+Aweek?
+Come on. Two days.
+
+123
+00:07:46,399 --> 00:07:48,765  X1:071 X2:371 Y1:382 Y2:444
+I asked you to do
+one thing today, Conrad...
+
+124
+00:07:48,868 --> 00:07:50,768  X1:469 X2:648 Y1:382 Y2:438
+keep the house
+clean.
+
+125
+00:07:50,903 --> 00:07:55,772  X1:262 X2:647 Y1:350 Y2:444
+Do you know how frustrating it is
+that you're always doing
+the exact opposite of what I say?
+
+126
+00:07:56,209 --> 00:07:57,904  X1:227 X2:472 Y1:414 Y2:442
+<i>Knock, knock, knock.</i>
+
+127
+00:07:58,010 --> 00:08:00,240  X1:236 X2:646 Y1:318 Y2:444
+[Growling]
+Someone lose a dog?
+
+128
+00:08:00,346 --> 00:08:02,246  X1:358 X2:627 Y1:414 Y2:438
+<i>I found him next door...</i>
+
+129
+00:08:02,348 --> 00:08:04,213  X1:436 X2:647 Y1:414 Y2:444
+in my yard... again.
+
+130
+00:08:04,317 --> 00:08:06,717  X1:471 X2:647 Y1:415 Y2:438
+You are a saint.
+
+131
+00:08:06,819 --> 00:08:09,617  X1:215 X2:502 Y1:350 Y2:444
+And here I thought
+you were only dating me
+for my good looks.
+
+132
+00:08:09,722 --> 00:08:12,190  X1:073 X2:297 Y1:382 Y2:444
+Lucky us.
+Larry Quinn is here.
+
+133
+00:08:12,291 --> 00:08:15,385  X1:417 X2:627 Y1:352 Y2:444
+<i>Hey-a, sport.</i>
+<i>Call me Lawrence.</i>
+<i>Okay?</i>
+
+134
+00:08:15,495 --> 00:08:18,464  X1:240 X2:476 Y1:382 Y2:441
+You rescued Nevins!
+Thanks, Lawrence!
+
+135
+00:08:18,564 --> 00:08:21,362  X1:290 X2:647 Y1:382 Y2:444
+It was my pleasure, Sally.
+Anything for my little princess.
+
+136
+00:08:21,467 --> 00:08:23,059  X1:176 X2:542 Y1:414 Y2:444
+Oh, I don't wanna be a princess.
+
+137
+00:08:23,135 --> 00:08:26,866  X1:167 X2:552 Y1:382 Y2:444
+In a constitutional monarchy
+parliament has all the real power.
+
+138
+00:08:28,741 --> 00:08:30,174  X1:437 X2:647 Y1:383 Y2:444
+I see.
+Okay, that's great.
+
+139
+00:08:30,243 --> 00:08:32,302  X1:371 X2:647 Y1:414 Y2:444
+Uh, look, pal, be a sport.
+
+140
+00:08:32,411 --> 00:08:36,313  X1:377 X2:647 Y1:350 Y2:444
+Why don't you go
+tidy up the living room.
+Okay...<i>dude?</i>
+
+141
+00:08:36,415 --> 00:08:38,246  X1:072 X2:463 Y1:414 Y2:444
+I don't have to listen to you, Larry.
+
+142
+00:08:38,351 --> 00:08:40,649  X1:375 X2:647 Y1:382 Y2:444
+Conrad,
+do what Lawrence says.
+
+143
+00:08:53,766 --> 00:08:57,634  X1:302 X2:648 Y1:382 Y2:444
+Have you given some thought
+about the Wilhelm Academy?
+
+144
+00:08:57,770 --> 00:09:00,898  X1:070 X2:515 Y1:382 Y2:444
+You mean the Colonel Wilhelm
+Military Academy forTroubled Youth?
+
+145
+00:09:01,040 --> 00:09:03,474  X1:412 X2:647 Y1:414 Y2:444
+That's the one, Joan.
+
+146
+00:09:03,609 --> 00:09:06,737  X1:072 X2:303 Y1:383 Y2:444
+I'm not sure
+it's right for Conrad.
+
+147
+00:09:06,846 --> 00:09:10,338  X1:275 X2:442 Y1:414 Y2:444
+Oh, Joan, Joan.
+
+148
+00:09:10,449 --> 00:09:12,917  X1:266 X2:450 Y1:415 Y2:444
+Joan, Joan, Joan.
+
+149
+00:09:14,020 --> 00:09:16,716  X1:382 X2:648 Y1:382 Y2:444
+I have so much respect
+foryou, Joan.
+
+150
+00:09:16,822 --> 00:09:20,417  X1:260 X2:647 Y1:382 Y2:444
+Single mother, careerwoman,
+raising two children on your own,
+
+151
+00:09:20,526 --> 00:09:24,860  X1:352 X2:647 Y1:350 Y2:444
+and still fiinding time
+to be the best darned
+real estate agent in town.
+
+152
+00:09:26,732 --> 00:09:29,257  X1:339 X2:647 Y1:414 Y2:444
+I know how hard it is, Joan.
+
+153
+00:09:29,368 --> 00:09:32,997  X1:072 X2:647 Y1:318 Y2:438
+It is hard.
+Oh... I know.
+
+154
+00:09:33,139 --> 00:09:36,040  X1:357 X2:627 Y1:382 Y2:444
+<i>And I know</i>
+<i>how hard you're trying.</i>
+
+155
+00:09:37,843 --> 00:09:40,539  X1:337 X2:648 Y1:350 Y2:444
+This is a once-in-a-lifetime
+proposition,
+and you must act now.
+
+156
+00:09:40,646 --> 00:09:43,581  X1:402 X2:646 Y1:350 Y2:438
+The Colonel Wilhelm
+Military Academy
+forTroubled Youth...
+
+157
+00:09:43,649 --> 00:09:46,447  X1:273 X2:648 Y1:382 Y2:438
+is what we call in the sales game
+a win-win scenario.
+
+158
+00:09:46,519 --> 00:09:51,252  X1:281 X2:647 Y1:382 Y2:444
+A top-flight military school,
+and it's only... eight hours away.
+
+159
+00:09:53,259 --> 00:09:56,592  X1:071 X2:445 Y1:350 Y2:444
+<i>[Phone Rings]</i>
+Oh, the phone.
+
+160
+00:09:57,830 --> 00:10:00,162  X1:454 X2:633 Y1:414 Y2:444
+<i>[Phone Rings]</i>
+
+161
+00:10:04,804 --> 00:10:06,704  X1:072 X2:322 Y1:414 Y2:444
+I heard what you said.
+
+162
+00:10:06,806 --> 00:10:08,774  X1:072 X2:512 Y1:414 Y2:444
+I'm not going to military school, Larry.
+
+163
+00:10:08,908 --> 00:10:11,342  X1:501 X2:647 Y1:414 Y2:444
+Look, buddy,
+
+164
+00:10:11,444 --> 00:10:14,345  X1:356 X2:647 Y1:414 Y2:444
+I know I'm not your dad...
+
+165
+00:10:14,447 --> 00:10:17,348  X1:383 X2:648 Y1:382 Y2:444
+and this is probably
+really strange foryou...
+
+166
+00:10:17,450 --> 00:10:19,111  X1:440 X2:647 Y1:382 Y2:444
+your neighbor's
+dating your mom.
+
+167
+00:10:19,185 --> 00:10:22,746  X1:358 X2:647 Y1:382 Y2:438
+But here's the thing, son.
+Come here.
+
+168
+00:10:22,855 --> 00:10:25,255  X1:395 X2:647 Y1:414 Y2:444
+I don't like you either.
+
+169
+00:10:25,358 --> 00:10:27,952  X1:449 X2:647 Y1:383 Y2:444
+But I'm gonna
+marry your mom.
+
+170
+00:10:28,027 --> 00:10:32,293  X1:265 X2:647 Y1:382 Y2:444
+And if it was up to me,
+you'd be at military school today.
+
+171
+00:10:32,398 --> 00:10:34,798  X1:071 X2:387 Y1:319 Y2:438
+I'm not going
+to military school.
+Ohh!
+
+172
+00:10:34,900 --> 00:10:36,800  X1:333 X2:647 Y1:414 Y2:444
+I think you're gonna love it.
+
+173
+00:10:36,902 --> 00:10:38,836  X1:339 X2:647 Y1:414 Y2:444
+It's just like summer camp,
+
+174
+00:10:38,938 --> 00:10:40,838  X1:230 X2:647 Y1:414 Y2:444
+except with brutal forced marches...
+
+175
+00:10:40,940 --> 00:10:42,805  X1:316 X2:647 Y1:414 Y2:444
+and soul-crushing discipline.
+
+176
+00:10:42,908 --> 00:10:47,504  X1:354 X2:647 Y1:350 Y2:444
+And one more thing...
+It's Lawrence,
+you snot-nosed son of a...
+
+177
+00:10:47,613 --> 00:10:50,514  X1:070 X2:434 Y1:318 Y2:444
+wonderful woman
+who I'm absolutely crazy about!
+[Grunting] Oww!
+
+178
+00:10:50,616 --> 00:10:52,516  X1:071 X2:312 Y1:414 Y2:441
+Gosh, I love children!
+
+179
+00:10:52,618 --> 00:10:54,518  X1:071 X2:321 Y1:382 Y2:444
+Oh, Joan,
+I didn't see you there.
+
+180
+00:10:54,620 --> 00:10:57,384  X1:324 X2:647 Y1:350 Y2:438
+Would you be a doll
+and help me bring up chairs
+from the basement?
+
+181
+00:10:57,490 --> 00:11:00,015  X1:223 X2:496 Y1:350 Y2:438
+Nothing would give me
+more pleasure, Joan,
+but I do have to run.
+
+182
+00:11:00,092 --> 00:11:02,925  X1:194 X2:524 Y1:382 Y2:438
+I have a very important
+sales conference downtown.
+
+183
+00:11:02,995 --> 00:11:05,395  X1:535 X2:647 Y1:414 Y2:444
+Oh. Okay.
+
+184
+00:11:05,498 --> 00:11:08,126  X1:138 X2:580 Y1:382 Y2:438
+- Well, I'll see you at the party tonight.
+- Sure.
+
+185
+00:11:30,656 --> 00:11:33,557  X1:070 X2:422 Y1:382 Y2:444
+Mom, that guy's a total phony.
+You can't let Larry...
+
+186
+00:11:33,659 --> 00:11:36,560  X1:391 X2:647 Y1:318 Y2:444
+It's Lawrence, Conrad.
+<i>[Doorbell Rings]</i>
+
+187
+00:11:37,329 --> 00:11:39,889  X1:262 X2:647 Y1:383 Y2:444
+Kate's Catering.
+I'm here to do your party tonight.
+
+188
+00:11:39,999 --> 00:11:42,559  X1:070 X2:240 Y1:382 Y2:438
+Oh, hi.
+Where's Kate?
+
+189
+00:11:42,668 --> 00:11:45,728  X1:071 X2:647 Y1:319 Y2:444
+I'm Kate.
+Oh. Okay.
+
+190
+00:11:45,871 --> 00:11:47,771  X1:243 X2:476 Y1:414 Y2:444
+Right this way, Kate.
+
+191
+00:11:47,873 --> 00:11:49,431  X1:072 X2:633 Y1:319 Y2:444
+Mom, you've gotta
+listen to me...
+<i>[Phone Ringing]</i>
+
+192
+00:11:49,542 --> 00:11:51,976  X1:323 X2:648 Y1:319 Y2:444
+Quiet!
+Two weeks ago
+you said you would...
+
+193
+00:11:52,111 --> 00:11:54,341  X1:071 X2:646 Y1:318 Y2:438
+[Joan Screams]
+I "specialed" it.
+See?
+
+194
+00:11:54,447 --> 00:11:57,541  X1:071 X2:157 Y1:383 Y2:438
+Quiet!
+Nevins!
+
+195
+00:11:57,650 --> 00:11:59,618  X1:072 X2:312 Y1:318 Y2:444
+[Ringing Continues]
+I said quiet!
+
+196
+00:12:01,420 --> 00:12:03,149  X1:301 X2:417 Y1:414 Y2:444
+[Ringing]
+
+197
+00:12:03,255 --> 00:12:07,351  X1:070 X2:366 Y1:350 Y2:444
+Joan Walden Real Estate.
+Be it ever so humble,
+there's no place likeJoan.
+
+198
+00:12:07,460 --> 00:12:09,553  X1:215 X2:502 Y1:414 Y2:438
+This is Mr. Humberfloob.
+
+199
+00:12:09,662 --> 00:12:13,462  X1:071 X2:586 Y1:382 Y2:444
+- Oh, hi, Mr. Humberfloob.
+- Joan, I need you to come back to the offiice.
+
+200
+00:12:13,566 --> 00:12:15,864  X1:289 X2:409 Y1:382 Y2:444
+- Today?
+<i>- Yes, Joan.</i>
+
+201
+00:12:15,968 --> 00:12:18,528  X1:246 X2:471 Y1:382 Y2:444
+- No problem?
+- No problem at all.
+
+202
+00:12:18,671 --> 00:12:20,571  X1:323 X2:394 Y1:415 Y2:438
+Great!
+
+203
+00:12:20,673 --> 00:12:23,073  X1:195 X2:523 Y1:382 Y2:444
+- [Gasps]
+- What's going on, Mommy?
+
+204
+00:12:23,175 --> 00:12:26,941  X1:072 X2:281 Y1:382 Y2:438
+Mommy has to go
+back to the offiice.
+
+205
+00:12:27,046 --> 00:12:29,708  X1:071 X2:319 Y1:382 Y2:444
+Oh! I hope Mrs. Kwan
+can babysit.
+
+206
+00:12:29,815 --> 00:12:32,477  X1:243 X2:460 Y1:383 Y2:444
+- Not Mrs. Kwan!
+<i>- [Doorbell Rings]</i>
+
+207
+00:12:34,787 --> 00:12:36,687  X1:073 X2:647 Y1:318 Y2:441
+Oh!
+Hi, Mrs. Kwan.
+
+208
+00:12:36,789 --> 00:12:38,689  X1:072 X2:375 Y1:319 Y2:444
+Hi.
+I'm running late.
+
+209
+00:12:38,791 --> 00:12:41,692  X1:070 X2:430 Y1:318 Y2:444
+Thanks for babysitting
+on such short notice.
+Mmm, yeah.
+
+210
+00:12:41,794 --> 00:12:43,728  X1:259 X2:458 Y1:414 Y2:444
+Okay, Mrs. Kwan.
+
+211
+00:12:43,829 --> 00:12:45,262  X1:526 X2:647 Y1:414 Y2:438
+Oh-oh-oh!
+
+212
+00:12:45,331 --> 00:12:48,061  X1:072 X2:375 Y1:318 Y2:438
+I'll be back
+in a couple ofhours.
+Hi.
+
+213
+00:12:48,167 --> 00:12:50,761  X1:399 X2:627 Y1:382 Y2:444
+<i>Conrad's grounded,</i>
+<i>so no video games.</i>
+
+214
+00:12:50,903 --> 00:12:52,837  X1:484 X2:627 Y1:382 Y2:438
+<i>Sally?</i>
+<i>Last chance.</i>
+
+215
+00:12:52,938 --> 00:12:55,930  X1:310 X2:647 Y1:350 Y2:444
+If you wanna make cupcakes,
+I can take you to
+your friend Ginny's house.
+
+216
+00:12:56,075 --> 00:12:57,975  X1:163 X2:534 Y1:382 Y2:444
+- [Growling]
+<i>- Ginny's not my friend anymore.</i>
+
+217
+00:12:58,077 --> 00:13:00,773  X1:257 X2:631 Y1:382 Y2:438
+<i>Last time we made cupcakes</i>
+<i>she wanted to be the head chef.</i>
+
+218
+00:13:00,880 --> 00:13:02,711  X1:437 X2:647 Y1:414 Y2:438
+<i>I'm</i> the head chef.
+
+219
+00:13:02,815 --> 00:13:04,510  X1:207 X2:511 Y1:414 Y2:441
+What about Denise, then?
+
+220
+00:13:04,617 --> 00:13:07,450  X1:315 X2:647 Y1:350 Y2:444
+She talked back to me,
+so I ordered her
+not to speak to me anymore.
+
+221
+00:13:07,553 --> 00:13:10,613  X1:204 X2:514 Y1:382 Y2:438
+- And you don't like bossy?
+- I won't tolerate it.
+
+222
+00:13:10,723 --> 00:13:12,315  X1:326 X2:393 Y1:414 Y2:444
+Right.
+
+223
+00:13:12,391 --> 00:13:15,292  X1:200 X2:516 Y1:382 Y2:438
+Well, if you're both staying,
+remember the rules.
+
+224
+00:13:15,394 --> 00:13:18,454  X1:214 X2:503 Y1:382 Y2:444
+Conrad: No playing ball
+in the house, no fiighting,
+
+225
+00:13:18,564 --> 00:13:20,464  X1:215 X2:502 Y1:382 Y2:444
+no answering the phone,
+"City morgue."
+
+226
+00:13:20,566 --> 00:13:22,431  X1:372 X2:648 Y1:383 Y2:438
+Mommy,
+can't I have some rules?
+
+227
+00:13:24,069 --> 00:13:26,003  X1:237 X2:482 Y1:414 Y2:444
+No chewing tobacco.
+
+228
+00:13:26,105 --> 00:13:28,130  X1:428 X2:647 Y1:382 Y2:444
+Thanks, Mom.
+You have my word.
+
+229
+00:13:28,274 --> 00:13:33,576  X1:155 X2:562 Y1:382 Y2:444
+And absolutely no one
+sets foot in the living room, or else.
+
+230
+00:13:33,679 --> 00:13:37,240  X1:072 X2:449 Y1:350 Y2:444
+<i>Orelse what?</i>
+<i>You're gonna do what Larry said</i>
+<i>and send me to military school?</i>
+
+231
+00:13:37,349 --> 00:13:40,750  X1:151 X2:647 Y1:382 Y2:444
+Maybe if you'd just behave,
+I wouldn't have to consider military school.
+
+232
+00:13:40,853 --> 00:13:42,821  X1:226 X2:493 Y1:414 Y2:444
+I wish I could trust you.
+
+233
+00:13:44,456 --> 00:13:46,424  X1:072 X2:400 Y1:414 Y2:438
+I wish I had a different mom.
+
+234
+00:13:46,525 --> 00:13:49,961  X1:231 X2:485 Y1:382 Y2:444
+Well, sometimes
+I wish the same thing.
+
+235
+00:13:50,062 --> 00:13:52,030  X1:458 X2:633 Y1:414 Y2:444
+<i>[DoorOpens]</i>
+
+236
+00:13:53,933 --> 00:13:55,901  X1:465 X2:633 Y1:414 Y2:442
+<i>[DoorSlams]</i>
+
+237
+00:14:05,945 --> 00:14:07,879  X1:323 X2:397 Y1:415 Y2:438
+Mmm.
+
+238
+00:14:13,252 --> 00:14:15,686  X1:303 X2:647 Y1:414 Y2:444
+Good luck with your meeting.
+
+239
+00:14:25,297 --> 00:14:26,423  X1:414 X2:633 Y1:414 Y2:442
+<i>[Car DoorCloses]</i>
+
+240
+00:14:30,603 --> 00:14:33,071  X1:293 X2:424 Y1:414 Y2:444
+[Grunting]
+
+241
+00:14:38,811 --> 00:14:42,212  X1:074 X2:410 Y1:382 Y2:438
+<i>Children, would you like</i>
+<i>to watch television with me?</i>
+
+242
+00:14:42,314 --> 00:14:46,751  X1:151 X2:566 Y1:382 Y2:444
+- We don't have to tell your mother.
+<i>- [TV: Channel Changing]</i>
+
+243
+00:14:46,852 --> 00:14:49,980  X1:234 X2:482 Y1:382 Y2:444
+- [Speaking Chinese]
+- [Yelling]
+
+244
+00:14:54,193 --> 00:14:57,219  X1:070 X2:411 Y1:318 Y2:444
+[Together]
+Taiwanese parliament.
+<i>[TV: Yelling, Blows Landing]</i>
+
+245
+00:14:57,329 --> 00:15:01,095  X1:071 X2:647 Y1:318 Y2:442
+You tell them, Kwi-Chang!
+No more big government!
+<i>[TV: Karate Yells]</i>
+
+246
+00:15:01,200 --> 00:15:02,929  X1:431 X2:633 Y1:414 Y2:444
+<i>Rip his heart out.!</i>
+
+247
+00:15:03,035 --> 00:15:06,004  X1:071 X2:305 Y1:382 Y2:444
+<i>[TV: Blows Landing,</i>
+<i>Yelling Continue]</i>
+
+248
+00:15:10,609 --> 00:15:12,509  X1:300 X2:417 Y1:414 Y2:444
+[Snoring]
+
+249
+00:15:12,611 --> 00:15:14,875  X1:285 X2:432 Y1:414 Y2:444
+[Whimpers]
+
+250
+00:15:15,981 --> 00:15:18,142  X1:558 X2:646 Y1:383 Y2:444
+Hit me!
+[Sighs]
+
+251
+00:15:20,419 --> 00:15:22,853  X1:071 X2:435 Y1:382 Y2:444
+<i>[Narrator]</i>
+<i>So they slumped in theirchairs,</i>
+
+252
+00:15:22,922 --> 00:15:25,015  X1:074 X2:329 Y1:414 Y2:444
+<i>too glum to complain,</i>
+
+253
+00:15:25,090 --> 00:15:28,651  X1:072 X2:395 Y1:382 Y2:438
+<i>and to make matters worse,</i>
+<i>it started to rain.</i>
+
+254
+00:15:28,761 --> 00:15:30,991  X1:261 X2:457 Y1:414 Y2:444
+[Butterfly Yelps]
+
+255
+00:15:32,097 --> 00:15:33,997  X1:076 X2:335 Y1:414 Y2:444
+<i>They sat in the house...</i>
+
+256
+00:15:34,099 --> 00:15:36,499  X1:073 X2:394 Y1:414 Y2:444
+<i>on that cold, cold, wet day...</i>
+
+257
+00:15:36,602 --> 00:15:38,536  X1:075 X2:313 Y1:414 Y2:438
+<i>with no fun to have...</i>
+
+258
+00:15:38,637 --> 00:15:40,537  X1:072 X2:323 Y1:414 Y2:444
+<i>and no games to play.</i>
+
+259
+00:15:40,639 --> 00:15:42,607  X1:071 X2:337 Y1:382 Y2:438
+<i>They couldjust</i>
+<i>stare out the window...</i>
+
+260
+00:15:42,741 --> 00:15:44,971  X1:073 X2:343 Y1:414 Y2:444
+<i>or perhaps get a nap in,</i>
+
+261
+00:15:45,077 --> 00:15:47,204  X1:072 X2:371 Y1:414 Y2:444
+<i>and hope that something,</i>
+
+262
+00:15:47,313 --> 00:15:49,213  X1:071 X2:349 Y1:414 Y2:444
+anything <i>might happen.</i>
+
+263
+00:15:49,315 --> 00:15:50,942  X1:071 X2:245 Y1:382 Y2:438
+Quit bothering
+the fiish.
+
+264
+00:15:51,050 --> 00:15:53,450  X1:223 X2:495 Y1:382 Y2:444
+I know.
+Quit bothering the fiish.
+
+265
+00:15:53,552 --> 00:15:54,985  X1:301 X2:417 Y1:318 Y2:444
+Spit hand!
+Oh, gross!
+
+266
+00:15:55,054 --> 00:15:59,491  X1:376 X2:647 Y1:382 Y2:444
+Get that away from me!
+Get it away!
+
+267
+00:15:59,558 --> 00:16:02,049  X1:071 X2:407 Y1:318 Y2:444
+<i>[Loud Bump]</i>
+<i>[Narrator]</i>
+<i>Then something went bump.</i>
+
+268
+00:16:02,161 --> 00:16:03,992  X1:261 X2:458 Y1:382 Y2:442
+- What was that?
+- [Barks]
+
+269
+00:16:04,096 --> 00:16:07,361  X1:071 X2:406 Y1:318 Y2:444
+<i>How that bump</i>
+<i>made themjump.</i>
+<i>[Nevins Continues Barking]</i>
+
+270
+00:16:07,466 --> 00:16:10,663  X1:071 X2:450 Y1:318 Y2:438
+<i>[Loud Bumping Continues]</i>
+I think it came
+from the closet.
+
+271
+00:16:14,473 --> 00:16:16,566  X1:269 X2:434 Y1:414 Y2:442
+<i>[Loud Crash]</i>
+
+272
+00:16:39,365 --> 00:16:41,299  X1:306 X2:411 Y1:414 Y2:442
+[Grunts]
+
+273
+00:16:42,334 --> 00:16:44,234  X1:311 X2:408 Y1:414 Y2:438
+Conrad?
+
+274
+00:16:44,370 --> 00:16:46,634  X1:314 X2:404 Y1:414 Y2:438
+Conrad.
+
+275
+00:16:47,773 --> 00:16:50,264  X1:256 X2:462 Y1:414 Y2:441
+Come on, Conrad.
+
+276
+00:16:50,409 --> 00:16:52,434  X1:297 X2:421 Y1:414 Y2:442
+[Screams]
+
+277
+00:16:52,578 --> 00:16:54,341  X1:291 X2:426 Y1:414 Y2:444
+[Laughing]
+
+278
+00:16:55,748 --> 00:16:57,648  X1:070 X2:390 Y1:414 Y2:444
+You shouldn't scare people.
+
+279
+00:16:57,750 --> 00:17:00,776  X1:070 X2:429 Y1:350 Y2:444
+You should've seen
+the look on your face.
+It was like you saw a monster...
+
+280
+00:17:00,886 --> 00:17:03,150  X1:242 X2:475 Y1:414 Y2:438
+A monster? Where?
+
+281
+00:17:05,190 --> 00:17:08,455  X1:205 X2:512 Y1:382 Y2:444
+That could've gone better.
+[Wheezing Laugh]
+
+282
+00:17:08,560 --> 00:17:11,529  X1:253 X2:465 Y1:414 Y2:444
+[Both Screaming]
+
+283
+00:17:14,199 --> 00:17:16,099  X1:071 X2:627 Y1:318 Y2:442
+<i>[Sally]</i>
+<i>What was that?</i>
+<i>[Conrad] I don't know.</i>
+
+284
+00:17:16,201 --> 00:17:18,328  X1:421 X2:627 Y1:382 Y2:444
+<i>Looked like</i>
+<i>a humongous cat.</i>
+
+285
+00:17:19,405 --> 00:17:20,633  X1:270 X2:448 Y1:415 Y2:444
+"Humongous"?
+
+286
+00:17:20,739 --> 00:17:24,266  X1:133 X2:586 Y1:382 Y2:444
+I prefer the term "big-boned" or"jolly."
+Now, what are we hiding from?
+
+287
+00:17:24,410 --> 00:17:26,037  X1:291 X2:427 Y1:414 Y2:444
+[Chortling]
+
+288
+00:17:26,145 --> 00:17:28,079  X1:072 X2:284 Y1:414 Y2:444
+[Both Screaming]
+
+289
+00:17:33,419 --> 00:17:35,319  X1:411 X2:647 Y1:414 Y2:444
+That<i>was</i> a giant cat.
+
+290
+00:17:35,421 --> 00:17:37,321  X1:072 X2:320 Y1:382 Y2:438
+But that's impossible,
+isn't it?
+
+291
+00:17:37,423 --> 00:17:39,323  X1:517 X2:648 Y1:382 Y2:444
+It's entirely
+impossible.
+
+292
+00:17:39,425 --> 00:17:41,859  X1:393 X2:648 Y1:350 Y2:438
+You know,
+I like this hiding place
+a lot better.
+
+293
+00:17:41,927 --> 00:17:44,395  X1:478 X2:633 Y1:382 Y2:438
+They'll <i>never</i>
+fiind us here.
+
+294
+00:17:45,764 --> 00:17:47,664  X1:459 X2:647 Y1:414 Y2:438
+Scream and run.
+
+295
+00:17:47,766 --> 00:17:50,132  X1:072 X2:647 Y1:350 Y2:444
+[Both Screaming]
+And there they go.
+
+296
+00:17:53,372 --> 00:17:54,771  X1:278 X2:439 Y1:414 Y2:444
+Who are you?
+
+297
+00:17:54,873 --> 00:17:56,898  X1:296 X2:422 Y1:414 Y2:438
+Who? Me?
+
+298
+00:17:57,042 --> 00:18:01,240  X1:192 X2:524 Y1:382 Y2:438
+Why, I'm the Cat in the Hat.
+There's no doubt about that.
+
+299
+00:18:01,346 --> 00:18:03,746  X1:164 X2:554 Y1:414 Y2:444
+I'm a "super-fun-diferous" feline...
+
+300
+00:18:03,849 --> 00:18:06,477  X1:216 X2:501 Y1:382 Y2:444
+who's here to make sure
+that you're...
+
+301
+00:18:08,353 --> 00:18:12,084  X1:248 X2:472 Y1:414 Y2:444
+Meeline? Key lime?
+
+302
+00:18:12,191 --> 00:18:15,092  X1:287 X2:431 Y1:415 Y2:444
+Turpentine?
+
+303
+00:18:15,194 --> 00:18:17,094  X1:285 X2:433 Y1:414 Y2:444
+I got nothin'.
+
+304
+00:18:17,196 --> 00:18:20,563  X1:163 X2:555 Y1:382 Y2:444
+I'm not so good with the rhyming.
+Not really, no.
+
+305
+00:18:21,934 --> 00:18:24,266  X1:275 X2:444 Y1:382 Y2:438
+Look, I'm a cat
+that can talk.
+
+306
+00:18:24,403 --> 00:18:27,895  X1:224 X2:492 Y1:350 Y2:444
+That should be enough
+foryou people!
+[Muttering]
+
+307
+00:18:28,040 --> 00:18:30,668  X1:270 X2:433 Y1:350 Y2:444
+<i>I can talk.!</i>
+<i>I'm a cat.! Yes.!</i>
+<i>[Chortling]</i>
+
+308
+00:18:30,809 --> 00:18:32,538  X1:331 X2:648 Y1:414 Y2:444
+Where did you come from?
+
+309
+00:18:34,213 --> 00:18:36,113  X1:219 X2:502 Y1:414 Y2:444
+Hmm, how do I put this?
+
+310
+00:18:36,215 --> 00:18:40,675  X1:148 X2:569 Y1:382 Y2:444
+When a mommy cat and a daddy cat
+love each othervery much,
+
+311
+00:18:40,786 --> 00:18:42,686  X1:254 X2:464 Y1:414 Y2:444
+they decide that...
+
+312
+00:18:42,788 --> 00:18:46,121  X1:070 X2:392 Y1:382 Y2:444
+Oh, no, no, no, no.
+Where did you <i>come</i> from?
+
+313
+00:18:46,225 --> 00:18:49,092  X1:237 X2:481 Y1:350 Y2:444
+My place!
+Where do you think?
+[Snickering]
+
+314
+00:18:50,229 --> 00:18:52,220  X1:073 X2:377 Y1:414 Y2:444
+No, how did you get here?
+
+315
+00:18:52,331 --> 00:18:54,231  X1:317 X2:402 Y1:414 Y2:438
+I drove!
+
+316
+00:18:54,333 --> 00:18:58,201  X1:125 X2:593 Y1:382 Y2:438
+Look, I've been here two whole minutes,
+and no one has offered me a drink.
+
+317
+00:18:58,337 --> 00:18:59,770  X1:303 X2:417 Y1:414 Y2:444
+Harumph!
+
+318
+00:18:59,838 --> 00:19:04,571  X1:202 X2:516 Y1:351 Y2:438
+- Sorry, Mr. Cat.
+Would you like some milk?
+- Milk? Ecch! No!
+
+319
+00:19:04,676 --> 00:19:08,271  X1:352 X2:627 Y1:382 Y2:444
+Lactose intolerant.
+Gums up the works. <i>Oy.</i>
+
+320
+00:19:08,380 --> 00:19:10,575  X1:234 X2:482 Y1:414 Y2:438
+You'll thank me later.
+
+321
+00:19:10,682 --> 00:19:13,207  X1:226 X2:491 Y1:414 Y2:444
+[Wheezing, Chortling]
+
+322
+00:19:13,318 --> 00:19:15,752  X1:234 X2:469 Y1:350 Y2:438
+<i>- [Singer Laughing]</i>
+<i>Wipeout.!</i>
+- Hello!
+
+323
+00:19:15,854 --> 00:19:19,187  X1:070 X2:460 Y1:318 Y2:442
+<i>@¤@¤[SurfRock]</i>
+Surf s up!
+[Chuckles] Yeah!
+
+324
+00:19:19,291 --> 00:19:23,227  X1:237 X2:480 Y1:382 Y2:438
+Whoo-hoo-hoo-hoo!
+Yee-hee-hee!
+
+325
+00:19:26,565 --> 00:19:28,931  X1:212 X2:508 Y1:414 Y2:444
+Nice spread you got here.
+
+326
+00:19:29,034 --> 00:19:31,400  X1:257 X2:647 Y1:414 Y2:438
+Homina-homina-homina-homina!
+
+327
+00:19:31,537 --> 00:19:33,562  X1:070 X2:213 Y1:414 Y2:438
+Who is this?
+
+328
+00:19:35,307 --> 00:19:37,241  X1:071 X2:127 Y1:414 Y2:438
+Ohh!
+
+329
+00:19:38,377 --> 00:19:40,277  X1:266 X2:451 Y1:414 Y2:444
+That's my mom.
+
+330
+00:19:40,379 --> 00:19:41,812  X1:070 X2:253 Y1:414 Y2:444
+Awkward, yeah.
+
+331
+00:19:41,880 --> 00:19:45,281  X1:070 X2:383 Y1:382 Y2:444
+Yes, this place will do
+quite nicely, actually. Yeah.
+
+332
+00:19:45,384 --> 00:19:47,978  X1:225 X2:491 Y1:382 Y2:438
+Although those drapes
+are a train wreck.
+
+333
+00:19:48,086 --> 00:19:49,986  X1:291 X2:427 Y1:414 Y2:444
+[Chortling]
+
+334
+00:19:50,088 --> 00:19:53,489  X1:071 X2:534 Y1:037 Y2:157
+<i>[Snoring]</i>
+And this is the lumpiest couch
+I ever sat on.
+
+335
+00:19:53,592 --> 00:19:56,618  X1:219 X2:498 Y1:037 Y2:093
+Who is this dreadfully
+uncomfortable woman?
+
+336
+00:19:56,728 --> 00:19:59,196  X1:384 X2:627 Y1:382 Y2:444
+<i>Get offher.</i>
+<i>That's our babysitter.</i>
+
+337
+00:19:59,298 --> 00:20:01,198  X1:070 X2:337 Y1:414 Y2:444
+What the... Babysitter?
+
+338
+00:20:01,300 --> 00:20:03,928  X1:070 X2:403 Y1:382 Y2:444
+You don't need one of those,
+do ya?
+
+339
+00:20:09,007 --> 00:20:11,237  X1:073 X2:350 Y1:414 Y2:444
+<i>Let me get this straight.</i>
+
+340
+00:20:11,343 --> 00:20:13,573  X1:396 X2:647 Y1:414 Y2:444
+You pay this woman...
+
+341
+00:20:13,679 --> 00:20:15,579  X1:265 X2:454 Y1:414 Y2:438
+to sit on babies?
+
+342
+00:20:15,681 --> 00:20:17,649  X1:256 X2:460 Y1:414 Y2:444
+That's disgusting!
+
+343
+00:20:19,084 --> 00:20:22,053  X1:072 X2:302 Y1:382 Y2:444
+I'd do it for nothing!
+[Laughing Loudly]
+
+344
+00:20:22,154 --> 00:20:24,145  X1:325 X2:394 Y1:415 Y2:438
+Hmm!
+
+345
+00:20:25,657 --> 00:20:29,889  X1:326 X2:647 Y1:350 Y2:444
+Now, let's see
+what the old "phunometer"
+has to say.
+
+346
+00:20:29,995 --> 00:20:32,520  X1:249 X2:469 Y1:350 Y2:444
+- "Phunometer"?
+- Yeah. It measures
+how fun you are.
+
+347
+00:20:32,631 --> 00:20:34,861  X1:291 X2:427 Y1:414 Y2:444
+[Chortling]
+
+348
+00:20:39,037 --> 00:20:41,062  X1:345 X2:375 Y1:415 Y2:438
+Hi.
+
+349
+00:20:42,407 --> 00:20:44,375  X1:287 X2:430 Y1:350 Y2:438
+[Bell Dings]
+Huh?
+
+350
+00:20:46,712 --> 00:20:48,873  X1:331 X2:387 Y1:414 Y2:438
+Ohh.
+
+351
+00:20:51,149 --> 00:20:54,050  X1:421 X2:627 Y1:382 Y2:438
+<i>Ah. Control freak.</i>
+<i>Yeah.</i>
+
+352
+00:20:54,152 --> 00:20:56,712  X1:306 X2:414 Y1:415 Y2:444
+Now you.
+
+353
+00:20:58,156 --> 00:21:00,021  X1:271 X2:449 Y1:382 Y2:444
+[Whispers]
+Hi. How are ya?
+
+354
+00:21:00,092 --> 00:21:01,992  X1:278 X2:438 Y1:382 Y2:438
+- [Bell Dings]
+- Whoa!
+
+355
+00:21:05,831 --> 00:21:08,322  X1:272 X2:445 Y1:414 Y2:444
+[Whimpering]
+
+356
+00:21:08,433 --> 00:21:10,333  X1:338 X2:379 Y1:414 Y2:438
+Oh.
+
+357
+00:21:10,435 --> 00:21:12,232  X1:322 X2:395 Y1:415 Y2:444
+Tap it.
+
+358
+00:21:13,472 --> 00:21:15,838  X1:186 X2:530 Y1:382 Y2:444
+Listen, kid,
+you can tap it with a hammer,
+
+359
+00:21:15,941 --> 00:21:17,875  X1:235 X2:484 Y1:414 Y2:444
+it ain't gonna change.
+
+360
+00:21:19,011 --> 00:21:20,103  X1:249 X2:468 Y1:414 Y2:444
+Just as I suspected.
+
+361
+00:21:20,178 --> 00:21:24,808  X1:173 X2:544 Y1:350 Y2:444
+You guys are both out of whack.
+You're a control freak,
+and you're a rule-breaker.
+
+362
+00:21:24,916 --> 00:21:28,113  X1:185 X2:532 Y1:381 Y2:444
+That'll be $700.
+Who's your insurance carrier?
+
+363
+00:21:28,220 --> 00:21:31,621  X1:171 X2:546 Y1:350 Y2:438
+- So, what do we do?
+- Well, there are two treatments
+I'd recommend.
+
+364
+00:21:31,723 --> 00:21:35,557  X1:119 X2:599 Y1:382 Y2:444
+One is a series of painful shots
+injected into your abdomen and kneecap.
+
+365
+00:21:35,661 --> 00:21:37,322  X1:257 X2:440 Y1:414 Y2:438
+<i>And the other...</i>
+
+366
+00:21:37,429 --> 00:21:40,091  X1:204 X2:514 Y1:414 Y2:438
+involves a musical number!
+
+367
+00:21:40,198 --> 00:21:42,598  X1:070 X2:492 Y1:350 Y2:443
+<i>@¤@¤[Orchestra:Fanfare]</i>
+@ Me-Me-Me-Meow @
+
+368
+00:21:42,701 --> 00:21:44,293  X1:446 X2:648 Y1:414 Y2:444
+How many shots?
+
+369
+00:21:44,403 --> 00:21:47,998  X1:238 X2:479 Y1:350 Y2:444
+[Wheezing]
+"How many shots?"
+Aren't you precious?
+
+370
+00:21:48,740 --> 00:21:51,607  X1:312 X2:406 Y1:414 Y2:444
+[Gasps]
+
+371
+00:21:59,117 --> 00:22:02,086  X1:070 X2:422 Y1:351 Y2:443
+Maestro!
+<i>@¤@¤[Orchestra:Introduction]</i>
+
+372
+00:22:03,822 --> 00:22:05,881  X1:425 X2:649 Y1:414 Y2:443
+@ I know it is wet @
+
+373
+00:22:05,991 --> 00:22:08,653  X1:071 X2:649 Y1:318 Y2:444
+@ And the sun is not sunny @
+<i>[Thunderclap]</i>
+
+374
+00:22:09,394 --> 00:22:13,626  X1:213 X2:505 Y1:382 Y2:444
+@ But we can have lots of
+good fun that is funny @
+
+375
+00:22:13,732 --> 00:22:15,131  X1:279 X2:438 Y1:414 Y2:442
+[Both Groan]
+
+376
+00:22:15,200 --> 00:22:16,758  X1:228 X2:491 Y1:414 Y2:443
+@ It's fun to have fun @
+
+377
+00:22:16,868 --> 00:22:22,465  X1:189 X2:530 Y1:414 Y2:444
+@ But you got to know how @
+
+378
+00:22:22,607 --> 00:22:24,507  X1:297 X2:421 Y1:414 Y2:444
+[Gagging]
+
+379
+00:22:24,609 --> 00:22:26,975  X1:198 X2:519 Y1:382 Y2:444
+- [Vomits, Liquid Splatters]
+- [Both Gasp, Groan]
+
+380
+00:22:27,079 --> 00:22:28,944  X1:309 X2:410 Y1:414 Y2:438
+Hair ball.
+
+381
+00:22:30,816 --> 00:22:35,014  X1:200 X2:517 Y1:382 Y2:443
+@ I know lots of good tricks
+and I'll... @
+
+382
+00:22:35,120 --> 00:22:36,781  X1:330 X2:633 Y1:318 Y2:438
+<i>Stop this right now.!</i>
+Huh?
+
+383
+00:22:36,888 --> 00:22:39,049  X1:264 X2:455 Y1:382 Y2:438
+- Who said that?
+- Me!
+
+384
+00:22:39,157 --> 00:22:40,590  X1:236 X2:485 Y1:414 Y2:438
+Remember? The fiish?
+
+385
+00:22:40,659 --> 00:22:44,151  X1:153 X2:647 Y1:382 Y2:444
+Came home in a Baggie,
+loved me for two weeks, and then nothing!
+
+386
+00:22:44,262 --> 00:22:46,730  X1:221 X2:497 Y1:382 Y2:441
+- The fiish is talking!
+- Well, sure, he can talk.
+
+387
+00:22:46,832 --> 00:22:49,960  X1:211 X2:509 Y1:382 Y2:444
+But is he saying anything?
+No, not really. No.
+
+388
+00:22:50,068 --> 00:22:51,968  X1:420 X2:633 Y1:382 Y2:444
+<i>[Fish]</i>
+<i>Hey, Socks, can it.!</i>
+
+389
+00:22:52,104 --> 00:22:53,901  X1:198 X2:519 Y1:382 Y2:438
+This cat should not be here.
+He should not be about.
+
+390
+00:22:54,039 --> 00:22:55,870  X1:212 X2:504 Y1:382 Y2:444
+He should not be here
+when your mother is out.
+
+391
+00:22:55,974 --> 00:22:59,603  X1:212 X2:504 Y1:350 Y2:444
+Come on, kids!
+You gonna listen to him?
+He drinks where he pees!
+
+392
+00:23:02,981 --> 00:23:05,950  X1:070 X2:204 Y1:414 Y2:443
+<i>@¤@¤[Salsa]</i>
+
+393
+00:23:08,320 --> 00:23:11,016  X1:181 X2:538 Y1:382 Y2:443
+@There was this cat I knew
+back home where I was bred @
+
+394
+00:23:11,123 --> 00:23:14,092  X1:176 X2:542 Y1:382 Y2:444
+@ He never listened to
+a single thing his mother said @
+
+395
+00:23:14,192 --> 00:23:16,717  X1:070 X2:422 Y1:382 Y2:443
+<i>@¤He never used the litter box</i>
+<i>He made a mess in the hall @¤</i>
+
+396
+00:23:16,828 --> 00:23:18,125  X1:203 X2:513 Y1:382 Y2:443
+@That's why they sent him
+to a vet @
+
+397
+00:23:18,230 --> 00:23:20,721  X1:202 X2:516 Y1:414 Y2:443
+@To cut offboth his ba... @
+
+398
+00:23:20,832 --> 00:23:22,891  X1:309 X2:411 Y1:414 Y2:438
+ba... ba...
+
+399
+00:23:23,001 --> 00:23:26,198  X1:254 X2:463 Y1:382 Y2:443
+@ Boy, that wasn't
+fun, fun, fun @
+
+400
+00:23:26,338 --> 00:23:30,069  X1:198 X2:520 Y1:350 Y2:438
+@ He never learns
+You can have fun, fun, fun @
+But less is more!
+
+401
+00:23:30,175 --> 00:23:33,201  X1:165 X2:550 Y1:382 Y2:443
+@They may ship you off to school
+so rein it in a little @
+
+402
+00:23:33,345 --> 00:23:35,336  X1:196 X2:522 Y1:037 Y2:098
+@ We can't spell "fun"
+without "U" in the middle @
+
+403
+00:23:35,447 --> 00:23:40,248  X1:073 X2:528 Y1:037 Y2:099
+<i>Human, this cat is currently in violation</i>
+<i>of... 17 ofyour mother's rules.!</i>
+
+404
+00:23:40,352 --> 00:23:41,546  X1:071 X2:404 Y1:318 Y2:444
+[Rings]
+City morgue!
+
+405
+00:23:41,653 --> 00:23:43,712  X1:282 X2:434 Y1:382 Y2:444
+- Eighteen!
+- [Laughing]
+
+406
+00:23:44,990 --> 00:23:48,084  X1:071 X2:280 Y1:382 Y2:444
+<i>[Crowd Cheering,</i>
+<i>Applauding]</i>
+
+407
+00:23:49,961 --> 00:23:51,952  X1:250 X2:453 Y1:382 Y2:444
+- Olé!
+<i>- [Bull Growling]</i>
+
+408
+00:23:52,063 --> 00:23:53,758  X1:331 X2:387 Y1:414 Y2:438
+Ooh!
+
+409
+00:23:53,865 --> 00:23:56,026  X1:284 X2:434 Y1:414 Y2:444
+[Screaming]
+
+410
+00:24:00,038 --> 00:24:02,905  X1:174 X2:545 Y1:382 Y2:444
+@ You can juggle work and play
+but you have to know the way @
+
+411
+00:24:03,008 --> 00:24:05,875  X1:070 X2:399 Y1:382 Y2:444
+@ You can keep afloat a wish
+like the way I do this fiish @
+
+412
+00:24:05,944 --> 00:24:08,412  X1:070 X2:492 Y1:382 Y2:443
+<i>@¤ You can be a happy fella</i>
+<i>Someone throw me that umbrella @¤</i>
+
+413
+00:24:08,513 --> 00:24:11,277  X1:207 X2:511 Y1:382 Y2:444
+@ And that rake, that cake
+Life's what you make it @
+
+414
+00:24:11,349 --> 00:24:13,180  X1:218 X2:500 Y1:414 Y2:443
+@ So have fun, fun, fun @
+
+415
+00:24:13,285 --> 00:24:16,083  X1:235 X2:483 Y1:382 Y2:443
+@ Go insane and have
+some fun, fun, fun @
+
+416
+00:24:16,188 --> 00:24:18,884  X1:260 X2:458 Y1:382 Y2:443
+@Just look at me
+Fun, fun, fun @
+
+417
+00:24:18,990 --> 00:24:21,686  X1:195 X2:523 Y1:383 Y2:443
+@ No more rain
+Look, it's the sun, sun, sun @
+
+418
+00:24:21,793 --> 00:24:25,593  X1:231 X2:485 Y1:351 Y2:443
+@ So can't you see
+I'm as happy as a clam
+I'm as fiit as a fiiddle @
+
+419
+00:24:25,697 --> 00:24:27,426  X1:232 X2:486 Y1:382 Y2:444
+@ Yeah, the dogs
+may bark about you @
+
+420
+00:24:27,532 --> 00:24:29,022  X1:070 X2:374 Y1:382 Y2:444
+@ And the purebred chaps
+may doubt you @
+
+421
+00:24:29,134 --> 00:24:31,034  X1:071 X2:366 Y1:382 Y2:444
+<i>[Fish]</i>
+<i>Getting motion sickness.!</i>
+
+422
+00:24:31,169 --> 00:24:33,899  X1:255 X2:465 Y1:414 Y2:444
+Milk? Big mistake.
+
+423
+00:24:34,039 --> 00:24:36,530  X1:167 X2:551 Y1:382 Y2:443
+@ But remember this
+You can't have fun without "U" @
+
+424
+00:24:36,675 --> 00:24:38,575  X1:072 X2:387 Y1:318 Y2:438
+I can't breathe!
+Ohh!
+
+425
+00:24:38,677 --> 00:24:41,009  X1:320 X2:396 Y1:414 Y2:438
+Whoa!
+
+426
+00:24:41,112 --> 00:24:44,809  X1:073 X2:499 Y1:318 Y2:444
+I knew that milk would
+come back to haunt me.
+Help! Help!
+
+427
+00:24:44,916 --> 00:24:48,181  X1:276 X2:440 Y1:382 Y2:444
+- [Loud Burp]
+- [Groaning]
+
+428
+00:24:49,387 --> 00:24:51,947  X1:306 X2:412 Y1:414 Y2:444
+[Yelling]
+
+429
+00:24:52,057 --> 00:24:54,116  X1:293 X2:424 Y1:414 Y2:444
+[Grunting]
+
+430
+00:24:54,226 --> 00:25:00,426  X1:225 X2:493 Y1:414 Y2:443
+@"U" in the middle @@
+
+431
+00:25:00,532 --> 00:25:02,261  X1:313 X2:405 Y1:414 Y2:444
+[Gulps]
+
+432
+00:25:02,367 --> 00:25:04,130  X1:236 X2:481 Y1:414 Y2:444
+[Panting, Chuckling]
+
+433
+00:25:04,236 --> 00:25:06,602  X1:289 X2:428 Y1:383 Y2:438
+- Bravo, Cat.
+- Huh?
+
+434
+00:25:06,705 --> 00:25:09,868  X1:151 X2:565 Y1:382 Y2:444
+These children are smart enough
+not to fall foryour MTV-style flash...
+
+435
+00:25:10,008 --> 00:25:11,908  X1:210 X2:508 Y1:382 Y2:438
+at the expense of content
+and moral values.
+
+436
+00:25:12,010 --> 00:25:14,740  X1:073 X2:486 Y1:318 Y2:444
+That was wicked cool!
+Do it again!
+
+437
+00:25:14,846 --> 00:25:18,407  X1:289 X2:648 Y1:382 Y2:444
+I'd love to, but Shamu is right...
+I really should be going.
+
+438
+00:25:18,517 --> 00:25:21,145  X1:260 X2:458 Y1:382 Y2:444
+- No, don't go!
+- No, I should go.
+
+439
+00:25:21,253 --> 00:25:24,154  X1:156 X2:563 Y1:382 Y2:444
+I should let you and the fiish
+have all your fun conjugating verbs,
+
+440
+00:25:24,256 --> 00:25:26,520  X1:243 X2:475 Y1:382 Y2:444
+cleaning your room,
+doing long division.
+
+441
+00:25:26,591 --> 00:25:29,151  X1:241 X2:478 Y1:414 Y2:444
+No, you have to stay!
+
+442
+00:25:29,261 --> 00:25:31,729  X1:071 X2:455 Y1:318 Y2:442
+All right, I'll stay.
+Oh, yeah!
+<i>[Conrad] Yeah.!</i>
+
+443
+00:25:31,830 --> 00:25:34,799  X1:145 X2:573 Y1:382 Y2:444
+But if I'm gonna stay,
+there's something I wanna show you.
+
+444
+00:25:35,534 --> 00:25:37,434  X1:237 X2:480 Y1:414 Y2:444
+Something magical...
+
+445
+00:25:37,536 --> 00:25:40,164  X1:251 X2:467 Y1:414 Y2:438
+and full of wonder.
+
+446
+00:25:41,840 --> 00:25:45,173  X1:207 X2:511 Y1:382 Y2:444
+- It's called a contract.
+- You want us to sign this?
+
+447
+00:25:45,277 --> 00:25:48,212  X1:189 X2:529 Y1:382 Y2:444
+- Just a formality, really. Yeah.
+- Who are they?
+
+448
+00:25:49,948 --> 00:25:53,111  X1:193 X2:526 Y1:414 Y2:444
+Magical time-traveling elves.
+
+449
+00:25:53,218 --> 00:25:56,654  X1:284 X2:432 Y1:382 Y2:444
+[Chortling]
+Yeah. Magic.
+
+450
+00:25:59,424 --> 00:26:01,187  X1:213 X2:505 Y1:414 Y2:444
+Okay, they're my lawyers.
+
+451
+00:26:01,293 --> 00:26:04,194  X1:175 X2:542 Y1:382 Y2:438
+Liability issues, litigious society,
+frivolous lawsuits.
+
+452
+00:26:04,296 --> 00:26:05,729  X1:263 X2:454 Y1:414 Y2:438
+You understand.
+
+453
+00:26:05,797 --> 00:26:08,960  X1:157 X2:559 Y1:382 Y2:444
+Basically, this contract guarantees
+you can have all the fun you want...
+
+454
+00:26:09,034 --> 00:26:11,264  X1:245 X2:473 Y1:382 Y2:444
+and nothing bad's
+ever gonna happen.
+
+455
+00:26:11,536 --> 00:26:13,527  X1:232 X2:486 Y1:382 Y2:444
+- All the fun we want?
+- Uh-yeah!
+
+456
+00:26:13,672 --> 00:26:15,833  X1:201 X2:517 Y1:382 Y2:438
+- Nothing bad will happen?
+- Uh-no!
+
+457
+00:26:15,974 --> 00:26:20,240  X1:197 X2:521 Y1:350 Y2:444
+Come on, Sal,
+for once in your life
+try something spontaneous.
+
+458
+00:26:22,647 --> 00:26:26,481  X1:072 X2:360 Y1:383 Y2:444
+It goes against
+my better instincts, but...
+
+459
+00:26:26,585 --> 00:26:28,246  X1:071 X2:121 Y1:414 Y2:438
+fiine.
+
+460
+00:26:28,353 --> 00:26:30,480  X1:294 X2:425 Y1:382 Y2:438
+Beautiful.
+Initial here.
+
+461
+00:26:30,589 --> 00:26:32,750  X1:242 X2:475 Y1:414 Y2:438
+And here. And here.
+
+462
+00:26:32,857 --> 00:26:34,722  X1:305 X2:414 Y1:414 Y2:438
+Not here!
+
+463
+00:26:34,826 --> 00:26:36,487  X1:293 X2:424 Y1:414 Y2:442
+[Wheezes]
+
+464
+00:26:36,595 --> 00:26:38,062  X1:505 X2:647 Y1:415 Y2:438
+Turn it over.
+
+465
+00:26:38,163 --> 00:26:40,154  X1:270 X2:447 Y1:414 Y2:444
+This is nothing.
+
+466
+00:26:40,265 --> 00:26:42,495  X1:464 X2:646 Y1:382 Y2:438
+[Clears Throat]
+Scratch this.
+
+467
+00:26:42,601 --> 00:26:44,068  X1:521 X2:647 Y1:382 Y2:438
+Smell that!
+Terrifiic.
+
+468
+00:26:44,135 --> 00:26:46,103  X1:241 X2:475 Y1:414 Y2:444
+Yadee-yadee-yadee.
+
+469
+00:26:46,171 --> 00:26:49,197  X1:071 X2:457 Y1:350 Y2:444
+Sign the bottom.
+<i>[Pencil Scratching On Paper]</i>
+
+470
+00:26:49,341 --> 00:26:51,332  X1:255 X2:462 Y1:383 Y2:444
+You're it!
+Okay, gimme fiive!
+
+471
+00:26:54,346 --> 00:26:56,644  X1:331 X2:389 Y1:415 Y2:438
+Four.
+
+472
+00:26:56,748 --> 00:26:58,648  X1:291 X2:427 Y1:414 Y2:444
+[Chortling]
+
+473
+00:26:58,750 --> 00:26:59,910  X1:251 X2:468 Y1:382 Y2:438
+Let's get this party
+started! Uh-huh!
+
+474
+00:27:01,286 --> 00:27:04,380  X1:352 X2:647 Y1:382 Y2:444
+Hey, check out this room!
+[Laughing]
+
+475
+00:27:04,489 --> 00:27:06,389  X1:292 X2:426 Y1:414 Y2:438
+What now?
+
+476
+00:27:06,491 --> 00:27:09,392  X1:345 X2:646 Y1:351 Y2:444
+Mom says we're not
+allowed in the living room
+today, or else.
+
+477
+00:27:09,494 --> 00:27:12,861  X1:072 X2:540 Y1:382 Y2:444
+<i>She's worried we'll mess up the couches</i>
+<i>byjumpin'on 'em orsomethin;</i>
+
+478
+00:27:12,964 --> 00:27:16,365  X1:070 X2:356 Y1:382 Y2:444
+And she's right.
+You can't jump on these.
+
+479
+00:27:16,468 --> 00:27:19,926  X1:070 X2:404 Y1:350 Y2:438
+Not like this.
+They need some adjustment.
+Yee-haw!
+
+480
+00:27:20,071 --> 00:27:22,369  X1:287 X2:430 Y1:414 Y2:444
+[Chuckling]
+
+481
+00:27:22,474 --> 00:27:25,637  X1:266 X2:455 Y1:382 Y2:438
+Let's take a look
+under the hood.
+
+482
+00:27:25,744 --> 00:27:28,611  X1:283 X2:436 Y1:382 Y2:442
+[Spits] Yeah.
+[Chuckles]
+
+483
+00:27:28,713 --> 00:27:31,079  X1:322 X2:647 Y1:350 Y2:442
+Just doin' my job.
+[Fart]
+
+484
+00:27:31,182 --> 00:27:33,082  X1:365 X2:648 Y1:383 Y2:444
+Sorry.
+What have we got here?
+
+485
+00:27:33,184 --> 00:27:35,243  X1:317 X2:399 Y1:414 Y2:438
+Whew.
+
+486
+00:27:36,888 --> 00:27:38,981  X1:290 X2:428 Y1:383 Y2:442
+Here we go.
+[Chortles]
+
+487
+00:27:39,090 --> 00:27:42,617  X1:271 X2:445 Y1:382 Y2:438
+It's oversized.
+That's unusual.
+
+488
+00:27:42,727 --> 00:27:44,627  X1:305 X2:414 Y1:383 Y2:442
+Here it is.
+[Grunts]
+
+489
+00:27:44,729 --> 00:27:45,821  X1:398 X2:646 Y1:414 Y2:444
+[Elephant Trumpets]
+
+490
+00:27:45,897 --> 00:27:49,697  X1:071 X2:247 Y1:350 Y2:438
+Down, Simba!
+Down, Simba!
+Get outta here!
+
+491
+00:27:50,869 --> 00:27:53,133  X1:070 X2:306 Y1:382 Y2:438
+Spray me, would ya?
+You...
+
+492
+00:27:53,271 --> 00:27:55,671  X1:214 X2:503 Y1:350 Y2:444
+[Whimpering]
+[Trumpeting Continues]
+
+493
+00:27:55,774 --> 00:27:57,969  X1:297 X2:420 Y1:414 Y2:444
+[Choking]
+
+494
+00:28:00,745 --> 00:28:02,679  X1:071 X2:362 Y1:318 Y2:444
+<i>[Blows Landing]</i>
+<i>[Elephant Whimpering]</i>
+
+495
+00:28:03,815 --> 00:28:05,715  X1:301 X2:417 Y1:414 Y2:444
+[Panting]
+
+496
+00:28:05,817 --> 00:28:09,412  X1:218 X2:485 Y1:382 Y2:444
+<i>- [Elephant Trumpets]</i>
+- Thanks for the help.
+
+497
+00:28:10,689 --> 00:28:13,817  X1:070 X2:411 Y1:382 Y2:444
+Back in a second.
+Who's your couch mechanic?
+
+498
+00:28:13,925 --> 00:28:16,553  X1:070 X2:250 Y1:382 Y2:438
+You oughta call
+Mr. Catwrench.
+
+499
+00:28:16,661 --> 00:28:19,789  X1:071 X2:333 Y1:318 Y2:444
+<i>[Grinding, Rumbling]</i>
+Oww! My fur!
+My fur! My fur!
+
+500
+00:28:19,898 --> 00:28:22,492  X1:072 X2:324 Y1:414 Y2:444
+[Groaning, Shouting]
+
+501
+00:28:24,736 --> 00:28:28,103  X1:254 X2:462 Y1:382 Y2:438
+That oughta do it.
+Whoo!
+
+502
+00:28:29,441 --> 00:28:31,375  X1:291 X2:427 Y1:414 Y2:444
+[Chortling]
+
+503
+00:28:35,480 --> 00:28:37,448  X1:291 X2:426 Y1:414 Y2:444
+[Laughing]
+
+504
+00:28:41,619 --> 00:28:44,179  X1:197 X2:520 Y1:382 Y2:444
+Come on, kids.
+I could use a little company.
+
+505
+00:28:44,289 --> 00:28:46,189  X1:345 X2:648 Y1:414 Y2:444
+What about Mom's party?
+
+506
+00:28:46,291 --> 00:28:48,384  X1:070 X2:350 Y1:382 Y2:444
+What about it?
+We signed the contract.
+
+507
+00:28:48,460 --> 00:28:51,793  X1:440 X2:647 Y1:382 Y2:444
+Wha-hoo!
+[Laughing] Yeah!
+
+508
+00:28:52,831 --> 00:28:54,731  X1:260 X2:457 Y1:382 Y2:444
+One cushion left,
+Sally.
+
+509
+00:28:54,833 --> 00:28:57,700  X1:442 X2:648 Y1:350 Y2:438
+She'll never do it.
+She doesn't know
+how to have fun.
+
+510
+00:28:57,802 --> 00:29:02,171  X1:217 X2:479 Y1:350 Y2:444
+<i>Fun? Sally,</i>
+<i>you're betterthan fun.</i>
+<i>Fun is beneath you.</i>
+
+511
+00:29:02,273 --> 00:29:03,706  X1:316 X2:648 Y1:382 Y2:444
+Remember
+what your mother told you...
+
+512
+00:29:03,775 --> 00:29:06,710  X1:071 X2:472 Y1:318 Y2:444
+No one sets foot
+in the living room...
+<i>[Conrad Shouting]</i>
+
+513
+00:29:06,778 --> 00:29:09,372  X1:167 X2:549 Y1:382 Y2:444
+You know what?
+Let's just watch some flashbacks.
+
+514
+00:29:09,481 --> 00:29:14,350  X1:200 X2:518 Y1:350 Y2:444
+[Voice Slowed Down]
+Absolutely no one sets foot
+in the living room, or else.
+
+515
+00:29:14,452 --> 00:29:17,717  X1:200 X2:517 Y1:414 Y2:438
+You're fiired... fiired... fiired...
+
+516
+00:29:17,822 --> 00:29:20,689  X1:242 X2:477 Y1:414 Y2:438
+fiired... fiired... fiired...
+
+517
+00:29:20,792 --> 00:29:24,853  X1:202 X2:517 Y1:382 Y2:438
+[Takes Deep Breath]
+Fiired... fiired... fiired... fiired...
+
+518
+00:29:24,963 --> 00:29:27,193  X1:262 X2:456 Y1:382 Y2:442
+And that's why...
+[Groans]
+
+519
+00:29:27,298 --> 00:29:28,629  X1:326 X2:392 Y1:415 Y2:438
+Oww!
+
+520
+00:29:30,135 --> 00:29:32,831  X1:214 X2:493 Y1:382 Y2:444
+<i>This is where</i>
+<i>they buried my brother.!</i>
+
+521
+00:29:32,971 --> 00:29:34,404  X1:071 X2:260 Y1:318 Y2:438
+<i>[Cat Laughing]</i>
+<i>[Conrad]</i>
+<i>Yeah.!</i>
+
+522
+00:29:34,506 --> 00:29:37,134  X1:271 X2:647 Y1:318 Y2:444
+[All Laughing]
+Yippee!
+Oh, yeah!
+
+523
+00:29:37,275 --> 00:29:40,506  X1:072 X2:647 Y1:318 Y2:438
+This is amazing!
+Like being
+in the circus!
+
+524
+00:29:40,612 --> 00:29:42,512  X1:216 X2:500 Y1:382 Y2:438
+Yeah, but without
+those tortured animals...
+
+525
+00:29:42,614 --> 00:29:45,014  X1:248 X2:470 Y1:382 Y2:444
+or drunken clowns
+that have hepatitis.
+
+526
+00:29:45,116 --> 00:29:47,710  X1:247 X2:470 Y1:382 Y2:438
+See, kids, I told you
+we could have fun!
+
+527
+00:29:47,819 --> 00:29:51,311  X1:071 X2:388 Y1:318 Y2:438
+<i>[Laughing Continues]</i>
+<i>[Conrad] The best thing is,</i>
+<i>no one will ever...</i>
+
+528
+00:29:52,357 --> 00:29:54,291  X1:325 X2:394 Y1:414 Y2:438
+know.
+
+529
+00:29:54,392 --> 00:29:57,793  X1:180 X2:536 Y1:382 Y2:444
+Judas Priest!
+I can't believe what I'm seeing!
+
+530
+00:29:57,896 --> 00:30:02,230  X1:220 X2:497 Y1:350 Y2:444
+Oh, Mr. Quinn,
+I was just telling Conrad
+to get off the couch.
+
+531
+00:30:02,333 --> 00:30:04,233  X1:288 X2:432 Y1:382 Y2:438
+Bad, Conrad!
+Bad!
+
+532
+00:30:04,335 --> 00:30:06,235  X1:071 X2:130 Y1:414 Y2:444
+Sally,
+
+533
+00:30:06,371 --> 00:30:08,134  X1:237 X2:481 Y1:414 Y2:444
+baby, angel, princess,
+
+534
+00:30:09,007 --> 00:30:13,034  X1:226 X2:493 Y1:382 Y2:444
+I'm gonna let you in
+on a little secret, okay?
+
+535
+00:30:13,178 --> 00:30:15,305  X1:223 X2:497 Y1:414 Y2:444
+Nobody likes a suck-up!
+
+536
+00:30:18,416 --> 00:30:20,714  X1:252 X2:465 Y1:414 Y2:444
+[Quinn Laughing]
+
+537
+00:30:25,924 --> 00:30:28,484  X1:072 X2:648 Y1:318 Y2:438
+Where's the cat?
+I don't know.
+
+538
+00:30:32,330 --> 00:30:35,390  X1:071 X2:646 Y1:318 Y2:438
+[Burps]
+Ohh!
+
+539
+00:30:35,500 --> 00:30:37,491  X1:505 X2:647 Y1:414 Y2:438
+Good bread.
+
+540
+00:30:38,603 --> 00:30:41,299  X1:440 X2:648 Y1:382 Y2:438
+What are you two
+lookin' at?
+
+541
+00:30:47,278 --> 00:30:49,872  X1:293 X2:424 Y1:414 Y2:444
+[Sneezing]
+
+542
+00:30:49,981 --> 00:30:51,881  X1:236 X2:484 Y1:414 Y2:438
+Is there a cat in here?
+
+543
+00:30:51,983 --> 00:30:53,917  X1:391 X2:646 Y1:414 Y2:444
+[Sneezing Continues]
+
+544
+00:30:54,018 --> 00:30:56,543  X1:472 X2:648 Y1:383 Y2:444
+I'm gonna...
+You're gonna...
+
+545
+00:30:56,654 --> 00:30:59,316  X1:527 X2:646 Y1:382 Y2:442
+I have to...
+[Sneezes]
+
+546
+00:31:00,658 --> 00:31:02,626  X1:468 X2:647 Y1:382 Y2:444
+[Sneezes]
+Get out ofhere.
+
+547
+00:31:02,727 --> 00:31:04,627  X1:452 X2:646 Y1:414 Y2:442
+[Sneezes Twice]
+
+548
+00:31:04,729 --> 00:31:06,697  X1:260 X2:457 Y1:414 Y2:444
+[Both Laughing]
+
+549
+00:31:08,466 --> 00:31:11,697  X1:180 X2:538 Y1:382 Y2:441
+See, kids, I told you.
+Stick with me, it'll all work out.
+
+550
+00:31:11,803 --> 00:31:15,364  X1:286 X2:431 Y1:350 Y2:444
+[Sneezes]
+Oh, no! Ohh!
+[Chortling]
+
+551
+00:31:15,506 --> 00:31:19,135  X1:180 X2:538 Y1:382 Y2:444
+Little-known fact...
+cats always land on their tushy.
+
+552
+00:31:19,244 --> 00:31:22,645  X1:201 X2:517 Y1:350 Y2:444
+- I thought they always
+landed on their feet.
+- Oh, sure, now you tell me.
+
+553
+00:31:22,780 --> 00:31:23,678  X1:291 X2:427 Y1:382 Y2:444
+Harumph!
+[Chortling]
+
+554
+00:31:24,983 --> 00:31:28,180  X1:210 X2:507 Y1:350 Y2:444
+- So, kiddo, what do you
+want to do for fun?
+- I wanna make cupcakes!
+
+555
+00:31:28,286 --> 00:31:31,585  X1:240 X2:477 Y1:350 Y2:438
+Cupcakes? Oh, yeah!
+[Chortling]
+To the kitchen!
+
+556
+00:31:31,689 --> 00:31:33,281  X1:071 X2:326 Y1:382 Y2:442
+<i>[Announcer]</i>
+<i>Live from the kitchen,</i>
+
+557
+00:31:33,358 --> 00:31:36,122  X1:072 X2:472 Y1:350 Y2:444
+<i>the following is</i>
+<i>a paid commercial announcement</i>
+<i>forAstounding Products.</i>
+
+558
+00:31:36,194 --> 00:31:38,526  X1:221 X2:475 Y1:382 Y2:444
+Hi! Welcome to
+<i>Astounding Products.</i>
+
+559
+00:31:38,630 --> 00:31:41,724  X1:072 X2:207 Y1:414 Y2:444
+[Laughing]
+
+560
+00:31:41,833 --> 00:31:44,734  X1:174 X2:543 Y1:350 Y2:444
+I'm your host,
+the guy in the sweaterwho asks
+all the obvious questions.
+
+561
+00:31:44,836 --> 00:31:46,269  X1:071 X2:282 Y1:382 Y2:444
+<i>[Studio Audience</i>
+<i>Laughing]</i>
+
+562
+00:31:46,371 --> 00:31:50,774  X1:304 X2:648 Y1:350 Y2:444
+Now, here to tell us
+about his astounding product
+for making cupcakes,
+
+563
+00:31:50,875 --> 00:31:53,810  X1:221 X2:497 Y1:350 Y2:444
+all the way
+from Cheshire, England,
+please welcome...
+
+564
+00:31:53,912 --> 00:31:56,244  X1:287 X2:430 Y1:382 Y2:444
+Me! Hello!
+[Chuckling]
+
+565
+00:31:56,347 --> 00:32:00,078  X1:072 X2:238 Y1:382 Y2:438
+Now... Hello!
+I'm so excited!
+
+566
+00:32:00,184 --> 00:32:02,015  X1:256 X2:462 Y1:382 Y2:444
+Do you love
+making cupcakes,
+
+567
+00:32:02,120 --> 00:32:04,680  X1:220 X2:499 Y1:382 Y2:444
+but hate all
+the hard cupcake work?
+
+568
+00:32:04,789 --> 00:32:06,689  X1:514 X2:647 Y1:414 Y2:438
+I know I do!
+
+569
+00:32:06,791 --> 00:32:09,988  X1:070 X2:364 Y1:350 Y2:444
+Well, forget
+everything you know
+about making cupcakes...
+
+570
+00:32:10,094 --> 00:32:12,062  X1:071 X2:238 Y1:414 Y2:444
+and say hello...
+
+571
+00:32:13,097 --> 00:32:15,327  X1:071 X2:438 Y1:414 Y2:444
+to the amazing Kupkake-inator.
+
+572
+00:32:15,433 --> 00:32:18,266  X1:209 X2:494 Y1:382 Y2:444
+- I'm so excited!
+<i>- [Audience Chuckling]</i>
+
+573
+00:32:18,369 --> 00:32:20,303  X1:444 X2:648 Y1:037 Y2:067
+Cupcake-a-what?
+
+574
+00:32:20,405 --> 00:32:22,305  X1:072 X2:260 Y1:037 Y2:099
+[Cat, Audience]
+Kupkake-inator!
+
+575
+00:32:22,407 --> 00:32:26,036  X1:071 X2:420 Y1:382 Y2:444
+Oh, this amazing device
+can instantly make cupcakes...
+
+576
+00:32:26,144 --> 00:32:28,578  X1:220 X2:496 Y1:382 Y2:444
+out of <i>anything</i> that
+you have in the kitchen.
+
+577
+00:32:28,680 --> 00:32:31,478  X1:222 X2:496 Y1:351 Y2:444
+- Wait a minute.
+Did you say"anything"?
+- Anything.
+
+578
+00:32:31,582 --> 00:32:33,482  X1:070 X2:648 Y1:318 Y2:444
+Anything?
+Yes, anything.
+
+579
+00:32:33,584 --> 00:32:36,144  X1:070 X2:648 Y1:350 Y2:444
+Anything?
+Anything.
+
+580
+00:32:36,254 --> 00:32:39,621  X1:213 X2:507 Y1:350 Y2:444
+- Anything?
+- I'll get you, and it'll look
+like a bloody accident.
+
+581
+00:32:39,724 --> 00:32:41,624  X1:219 X2:484 Y1:382 Y2:444
+<i>- [Audience Tittering]</i>
+- Anything.
+
+582
+00:32:41,726 --> 00:32:44,627  X1:070 X2:400 Y1:350 Y2:444
+Now, take off the lid.
+You can put in, I don't know,
+a carton of eggs.
+
+583
+00:32:44,729 --> 00:32:47,129  X1:071 X2:648 Y1:318 Y2:444
+What?
+How about
+a pack ofhot dogs?
+
+584
+00:32:47,231 --> 00:32:49,131  X1:070 X2:647 Y1:318 Y2:444
+That's incredible!
+Why not some ketchup?
+
+585
+00:32:49,233 --> 00:32:51,599  X1:072 X2:648 Y1:318 Y2:444
+Yeah, why not?
+How about...
+I know what you're thinkin'.
+
+586
+00:32:51,703 --> 00:32:54,171  X1:219 X2:497 Y1:382 Y2:444
+Even a fiire extinguisher.
+There we go.
+
+587
+00:32:54,272 --> 00:32:56,172  X1:073 X2:149 Y1:415 Y2:438
+Hmm?
+
+588
+00:32:56,274 --> 00:32:58,936  X1:071 X2:403 Y1:382 Y2:444
+Now, close the lid
+and Bob's your flippin' uncle!
+
+589
+00:32:59,043 --> 00:33:00,874  X1:410 X2:647 Y1:382 Y2:444
+What an
+astounding product!
+
+590
+00:33:00,979 --> 00:33:02,446  X1:071 X2:358 Y1:318 Y2:444
+<i>[Audience Applauding]</i>
+Oh, yeah!
+
+591
+00:33:02,580 --> 00:33:05,378  X1:071 X2:274 Y1:318 Y2:444
+Open the drawer,
+[Bell Dings,
+Motor Whirring]
+
+592
+00:33:05,483 --> 00:33:09,146  X1:071 X2:317 Y1:037 Y2:163
+Fiill the patented
+Kupkake-inator tray,
+<i>[Audience Gasping]</i>
+
+593
+00:33:09,253 --> 00:33:12,086  X1:162 X2:542 Y1:382 Y2:444
+- Close the drawer,
+<i>- [Audience Continues Gasping]</i>
+
+594
+00:33:12,190 --> 00:33:15,318  X1:071 X2:337 Y1:382 Y2:438
+Then place it
+in a conventional oven.
+
+595
+00:33:15,426 --> 00:33:17,656  X1:071 X2:318 Y1:382 Y2:444
+<i>[Audience Laughing,</i>
+<i>Applauding]</i>
+
+596
+00:33:20,064 --> 00:33:22,464  X1:071 X2:327 Y1:382 Y2:444
+Delicious cupcakes
+are just minutes away.
+
+597
+00:33:22,567 --> 00:33:24,467  X1:454 X2:648 Y1:382 Y2:444
+Did you just say
+"minutes away"?
+
+598
+00:33:24,569 --> 00:33:26,161  X1:439 X2:647 Y1:382 Y2:444
+[Host, Audience]
+That's impossible!
+
+599
+00:33:26,270 --> 00:33:29,467  X1:070 X2:648 Y1:319 Y2:444
+You're not just wrong,
+you're stupid.
+Now, wait just a minute...
+
+600
+00:33:29,607 --> 00:33:31,598  X1:070 X2:292 Y1:382 Y2:444
+And you're ugly,
+just like your mum.
+
+601
+00:33:31,743 --> 00:33:34,177  X1:071 X2:457 Y1:318 Y2:444
+<i>[Audience Gasping]</i>
+Did you just call
+my mother ugly?
+
+602
+00:33:34,312 --> 00:33:36,872  X1:254 X2:464 Y1:382 Y2:444
+Shut up! I mean it!
+I will end you!
+
+603
+00:33:36,981 --> 00:33:38,881  X1:146 X2:571 Y1:382 Y2:444
+- [Grunts]
+- [Audience, Cat Gasping, Groaning]
+
+604
+00:33:38,983 --> 00:33:41,543  X1:070 X2:175 Y1:383 Y2:438
+Um, Cat.
+Your tail.
+
+605
+00:33:41,652 --> 00:33:44,212  X1:070 X2:245 Y1:414 Y2:438
+What about it?
+
+606
+00:33:44,322 --> 00:33:48,782  X1:070 X2:403 Y1:382 Y2:444
+Oh, I see! I've chopped it off.
+That's interesting, because...
+
+607
+00:33:50,094 --> 00:33:53,222  X1:289 X2:430 Y1:382 Y2:444
+Son of a bi...
+[Beep]
+
+608
+00:33:53,331 --> 00:33:56,061  X1:070 X2:405 Y1:382 Y2:444
+<i>@¤@¤[Whistling</i>
+<i>"The Girl From Ipanema"]</i>
+
+609
+00:33:56,167 --> 00:33:59,068  X1:242 X2:475 Y1:382 Y2:444
+Look, I'm not saying
+we're going to sue.
+
+610
+00:33:59,203 --> 00:34:01,433  X1:270 X2:447 Y1:383 Y2:438
+I'm just saying
+we have a case.
+
+611
+00:34:01,572 --> 00:34:03,472  X1:270 X2:447 Y1:382 Y2:444
+We'll talk later.
+Lxnay, ixnay.
+
+612
+00:34:03,574 --> 00:34:05,872  X1:293 X2:424 Y1:382 Y2:438
+[Wheezes]
+Hi.
+
+613
+00:34:05,977 --> 00:34:08,537  X1:417 X2:648 Y1:350 Y2:444
+Cat, is the oven
+supposed to be
+making that sound?
+
+614
+00:34:08,646 --> 00:34:10,546  X1:330 X2:390 Y1:414 Y2:438
+Huh?
+
+615
+00:34:10,648 --> 00:34:13,845  X1:186 X2:531 Y1:382 Y2:444
+Of course. That means
+they're almost done, Conrack.
+
+616
+00:34:13,951 --> 00:34:16,010  X1:199 X2:519 Y1:382 Y2:441
+- Conrad.
+- That's what I said, Condor.
+
+617
+00:34:16,120 --> 00:34:18,680  X1:223 X2:495 Y1:383 Y2:444
+- Cat!
+- Now, that's <i>my</i> name!
+
+618
+00:34:18,790 --> 00:34:22,282  X1:301 X2:633 Y1:414 Y2:444
+<i>[Oven Whirring, Rumbling]</i>
+
+619
+00:34:26,230 --> 00:34:28,596  X1:071 X2:384 Y1:350 Y2:444
+<i>[Timer Bell Dings]</i>
+Yep!
+
+620
+00:34:28,699 --> 00:34:30,599  X1:279 X2:437 Y1:414 Y2:444
+They're done!
+
+621
+00:34:30,701 --> 00:34:33,101  X1:071 X2:450 Y1:318 Y2:444
+Oh, man!
+There's nothing
+to worry about.
+
+622
+00:34:33,237 --> 00:34:35,137  X1:249 X2:468 Y1:383 Y2:444
+I'm sure
+they still taste fiine.
+
+623
+00:34:35,239 --> 00:34:37,139  X1:262 X2:454 Y1:382 Y2:444
+Yecch!
+They're horrible!
+
+624
+00:34:37,241 --> 00:34:40,438  X1:246 X2:470 Y1:350 Y2:444
+Who wants some?
+Come on, come on!
+[Chortling]
+
+625
+00:34:41,546 --> 00:34:43,446  X1:275 X2:442 Y1:414 Y2:444
+Oh... my... cod.
+
+626
+00:34:43,548 --> 00:34:44,913  X1:302 X2:416 Y1:414 Y2:438
+Ohh! Aah!
+
+627
+00:34:45,016 --> 00:34:47,917  X1:343 X2:647 Y1:382 Y2:444
+Cat, you need to
+clean this mess up pronto.
+
+628
+00:34:48,019 --> 00:34:51,216  X1:268 X2:647 Y1:350 Y2:444
+We have a contract.
+All right, I'll try.
+
+629
+00:34:52,790 --> 00:34:55,452  X1:397 X2:647 Y1:414 Y2:444
+You don't try. You do.
+
+630
+00:34:55,560 --> 00:34:58,461  X1:070 X2:294 Y1:383 Y2:444
+Yes, ma'am.
+Right away, ma'am.
+
+631
+00:34:58,563 --> 00:35:01,293  X1:072 X2:264 Y1:382 Y2:444
+[Coughs]
+I'll be right back.
+
+632
+00:35:01,399 --> 00:35:03,162  X1:070 X2:171 Y1:318 Y2:442
+Whoa!
+<i>[Crash]</i>
+
+633
+00:35:03,267 --> 00:35:05,030  X1:291 X2:427 Y1:414 Y2:444
+[Chortling]
+
+634
+00:35:06,370 --> 00:35:08,634  X1:072 X2:648 Y1:318 Y2:444
+[Snoring]
+Hi.
+How are ya?
+
+635
+00:35:08,773 --> 00:35:10,707  X1:509 X2:646 Y1:382 Y2:444
+Okay.
+[Chortling]
+
+636
+00:35:13,811 --> 00:35:16,041  X1:272 X2:447 Y1:414 Y2:444
+Look. I'm a girl.
+
+637
+00:35:16,147 --> 00:35:19,674  X1:247 X2:471 Y1:414 Y2:444
+[Giggling, Purring]
+
+638
+00:35:19,784 --> 00:35:21,843  X1:071 X2:225 Y1:414 Y2:444
+Stop! That's...
+
+639
+00:35:21,953 --> 00:35:23,545  X1:284 X2:435 Y1:382 Y2:438
+[Together]
+Mom's dress!
+
+640
+00:35:23,654 --> 00:35:27,055  X1:261 X2:456 Y1:382 Y2:444
+[Gasps]
+This fiilthy thing?
+
+641
+00:35:27,158 --> 00:35:29,285  X1:071 X2:459 Y1:382 Y2:444
+She was gonna wear that tonight,
+and you ruined it.
+
+642
+00:35:29,393 --> 00:35:32,362  X1:240 X2:477 Y1:382 Y2:444
+Honey, it was ruined
+when she bought it.
+
+643
+00:35:33,564 --> 00:35:35,464  X1:264 X2:455 Y1:382 Y2:438
+Mm-hmm. Yeah.
+Mm-hmm.
+
+644
+00:35:35,566 --> 00:35:38,467  X1:072 X2:331 Y1:382 Y2:444
+<i>I told you</i>
+<i>all this would happen.!</i>
+
+645
+00:35:38,569 --> 00:35:41,504  X1:195 X2:522 Y1:382 Y2:444
+- But no one listens to a fiish!
+- Oy.
+
+646
+00:35:41,606 --> 00:35:44,200  X1:070 X2:471 Y1:350 Y2:444
+<i>A dog goes "woof-woof"</i>
+<i>and everybody knows that</i>
+<i>little Timmy's trapped undera log.</i>
+
+647
+00:35:44,342 --> 00:35:46,139  X1:072 X2:270 Y1:382 Y2:444
+<i>But a fiish speaks</i>
+<i>in plain English...</i>
+
+648
+00:35:46,377 --> 00:35:46,934  X1:198 X2:518 Y1:350 Y2:438
+All right, everyone,
+let's just take a deep breath
+and calm down.
+
+649
+00:35:51,015 --> 00:35:52,915  X1:243 X2:475 Y1:414 Y2:444
+[Inhaling, Exhaling]
+
+650
+00:35:53,017 --> 00:35:56,612  X1:073 X2:444 Y1:382 Y2:438
+<i>You know who's gonna solve it?</i>
+<i>Me. I am.</i>
+
+651
+00:35:56,721 --> 00:35:59,690  X1:223 X2:495 Y1:382 Y2:444
+I will personally
+take care of everything.
+
+652
+00:36:00,992 --> 00:36:02,892  X1:237 X2:480 Y1:382 Y2:444
+And I know
+just the guys to do it.
+
+653
+00:36:02,994 --> 00:36:04,962  X1:287 X2:430 Y1:414 Y2:444
+[Wheezing]
+
+654
+00:36:08,332 --> 00:36:10,300  X1:291 X2:427 Y1:414 Y2:444
+[Chortling]
+
+655
+00:36:16,574 --> 00:36:20,101  X1:207 X2:511 Y1:382 Y2:444
+In this box are two Things.
+I will show them to you.
+
+656
+00:36:20,244 --> 00:36:24,442  X1:195 X2:511 Y1:382 Y2:444
+<i>Two Things, and I call them</i>
+<i>Thing One and Thing Two.</i>
+
+657
+00:36:24,549 --> 00:36:27,985  X1:182 X2:535 Y1:382 Y2:444
+These Things will not bite you.
+They want to have fun.
+
+658
+00:36:28,085 --> 00:36:30,144  X1:224 X2:494 Y1:414 Y2:441
+So without further ado,
+
+659
+00:36:30,254 --> 00:36:33,519  X1:264 X2:455 Y1:382 Y2:444
+meet Thing Two
+and Thing One!
+
+660
+00:36:33,624 --> 00:36:35,922  X1:227 X2:491 Y1:414 Y2:444
+[Whooping, Babbling]
+
+661
+00:36:36,027 --> 00:36:37,961  X1:302 X2:417 Y1:414 Y2:443
+@Ta-da @
+
+662
+00:36:38,062 --> 00:36:40,860  X1:296 X2:421 Y1:382 Y2:442
+Oh, yeah!
+[Chortles]
+
+663
+00:36:40,965 --> 00:36:44,093  X1:213 X2:503 Y1:382 Y2:444
+Thing One, Conrad, Sally.
+Conrad, Sally, Thing One.
+
+664
+00:36:44,202 --> 00:36:46,170  X1:074 X2:362 Y1:382 Y2:444
+<i>Thing Two, Conrad, Sally.</i>
+<i>Conrad, Sally, Thing Two.</i>
+
+665
+00:36:46,304 --> 00:36:49,467  X1:200 X2:517 Y1:350 Y2:444
+Thing One, Thing Two.
+Thing Two, Thing One.
+Conrad, Sally. Sally, Conrad.
+
+666
+00:36:49,607 --> 00:36:52,167  X1:287 X2:647 Y1:350 Y2:438
+I am the Cat.
+Don't belittle me.
+
+667
+00:36:52,310 --> 00:36:54,210  X1:254 X2:462 Y1:414 Y2:444
+Ah, yes, of course.
+
+668
+00:36:54,312 --> 00:36:57,213  X1:200 X2:516 Y1:350 Y2:438
+Thing Two would like to
+clarify that just because
+he wears the number two...
+
+669
+00:36:57,315 --> 00:36:59,840  X1:180 X2:537 Y1:382 Y2:444
+does not imply in any way
+that he's inferior to Thing One.
+
+670
+00:36:59,951 --> 00:37:01,248  X1:410 X2:647 Y1:414 Y2:438
+And all of the above.
+
+671
+00:37:01,319 --> 00:37:04,914  X1:174 X2:544 Y1:382 Y2:444
+He says you may feel free
+to call him Thing "A," if you like.
+
+672
+00:37:05,022 --> 00:37:08,321  X1:173 X2:543 Y1:382 Y2:444
+He will also accept SuperThing,
+Thing King, Kid Dynamite,
+
+673
+00:37:08,426 --> 00:37:11,190  X1:237 X2:647 Y1:318 Y2:442
+Chocolate Thun-Da...
+or Ben.
+[Chuckles] Ben!
+
+674
+00:37:11,295 --> 00:37:13,820  X1:358 X2:633 Y1:414 Y2:444
+<i>[Thing OneJabbering]</i>
+
+675
+00:37:13,931 --> 00:37:16,832  X1:324 X2:647 Y1:382 Y2:444
+Thing One says
+he's Thing One for a reason,
+
+676
+00:37:16,934 --> 00:37:19,368  X1:071 X2:363 Y1:382 Y2:444
+and some people
+should just get used to it.
+
+677
+00:37:19,470 --> 00:37:22,030  X1:208 X2:508 Y1:382 Y2:438
+It's a Thing thing.
+You wouldn't understand.
+
+678
+00:37:22,173 --> 00:37:24,539  X1:250 X2:467 Y1:318 Y2:444
+[ThingsJabbering,
+Arguing]
+Okay, enough!
+
+679
+00:37:24,642 --> 00:37:26,803  X1:070 X2:431 Y1:382 Y2:444
+You are quickly turning into
+one of my least favorite Things.
+
+680
+00:37:28,546 --> 00:37:31,447  X1:429 X2:648 Y1:351 Y2:438
+Listen, Convex,
+you probably don't
+wanna do that.
+
+681
+00:37:31,549 --> 00:37:33,449  X1:070 X2:245 Y1:382 Y2:444
+Why not?
+It's just a crate.
+
+682
+00:37:33,551 --> 00:37:34,984  X1:334 X2:647 Y1:414 Y2:444
+This isn't just any old crate.
+
+683
+00:37:35,052 --> 00:37:38,146  X1:344 X2:646 Y1:382 Y2:444
+It's the Trans-dimensional
+Transportolator.
+
+684
+00:37:38,256 --> 00:37:41,487  X1:326 X2:647 Y1:350 Y2:444
+It's kinda like a doorway
+which leads from this world
+to my world.
+
+685
+00:37:41,592 --> 00:37:43,822  X1:346 X2:647 Y1:383 Y2:444
+But it says,
+"Made in the Philippines."
+
+686
+00:37:43,928 --> 00:37:47,193  X1:070 X2:403 Y1:414 Y2:444
+Yes, but not <i>this</i> Philippines.
+
+687
+00:37:47,298 --> 00:37:51,758  X1:072 X2:377 Y1:350 Y2:444
+<i>Look, now,</i>
+<i>I'm not usually a rules guy,</i>
+<i>but this is a biggie.</i>
+
+688
+00:37:51,869 --> 00:37:53,803  X1:073 X2:326 Y1:414 Y2:444
+No opening the crate.
+
+689
+00:37:53,904 --> 00:37:56,998  X1:071 X2:342 Y1:382 Y2:438
+No lookee, no touchee.
+Got it?
+
+690
+00:37:57,141 --> 00:38:00,133  X1:071 X2:361 Y1:350 Y2:438
+<i>[Thing]</i>
+<i>Mekka-dekka we should</i>
+<i>settle ourdifferences.</i>
+
+691
+00:38:00,278 --> 00:38:02,906  X1:290 X2:428 Y1:414 Y2:444
+[Jabbering]
+
+692
+00:38:04,081 --> 00:38:05,981  X1:341 X2:633 Y1:382 Y2:444
+<i>[Cat]</i>
+<i>Things, front and center.!</i>
+
+693
+00:38:06,083 --> 00:38:07,812  X1:588 X2:647 Y1:414 Y2:438
+Cool.
+
+694
+00:38:07,918 --> 00:38:11,718  X1:070 X2:413 Y1:350 Y2:444
+All right, Things,
+I'm not paying you to
+stand around and look pretty.
+
+695
+00:38:11,822 --> 00:38:13,813  X1:073 X2:304 Y1:414 Y2:438
+<i>Here's Mom's dress.</i>
+
+696
+00:38:13,924 --> 00:38:15,892  X1:392 X2:633 Y1:382 Y2:444
+<i>[Thing Cackling]</i>
+<i>Oh.! Mommy's dress.!</i>
+
+697
+00:38:15,993 --> 00:38:18,086  X1:335 X2:646 Y1:414 Y2:444
+[BothJabbering, Giggling]
+
+698
+00:38:18,195 --> 00:38:20,095  X1:308 X2:408 Y1:382 Y2:444
+- [Gasp]
+- [Gasp]
+
+699
+00:38:20,197 --> 00:38:22,927  X1:215 X2:504 Y1:382 Y2:438
+- What about the couch?
+- Which couch?
+
+700
+00:38:23,034 --> 00:38:25,093  X1:073 X2:397 Y1:382 Y2:444
+<i>The clean one,</i>
+<i>orthe horribly stained one?</i>
+
+701
+00:38:25,202 --> 00:38:27,932  X1:219 X2:498 Y1:382 Y2:444
+- [Wheezing]
+- [Jabbering Continues]
+
+702
+00:38:34,011 --> 00:38:36,639  X1:291 X2:427 Y1:383 Y2:444
+Ho!
+[Chortling]
+
+703
+00:38:36,747 --> 00:38:38,612  X1:071 X2:230 Y1:382 Y2:444
+Mekka-dekka
+don't worry!
+
+704
+00:38:40,084 --> 00:38:42,245  X1:301 X2:417 Y1:415 Y2:444
+Incoming!
+
+705
+00:38:44,522 --> 00:38:49,221  X1:383 X2:632 Y1:382 Y2:438
+<i>Cat, they're wrecking</i>
+<i>the whole house.!</i>
+
+706
+00:38:49,327 --> 00:38:51,488  X1:529 X2:646 Y1:414 Y2:444
+[Snoring]
+
+707
+00:38:51,595 --> 00:38:54,120  X1:244 X2:472 Y1:382 Y2:444
+[Groans,
+Continues Snoring]
+
+708
+00:38:56,767 --> 00:39:00,032  X1:178 X2:540 Y1:414 Y2:444
+[Jabbering, Giggling Continue]
+
+709
+00:39:09,413 --> 00:39:13,372  X1:271 X2:446 Y1:382 Y2:444
+- Conrad, help!
+- Help yourself!
+
+710
+00:39:13,484 --> 00:39:16,385  X1:263 X2:454 Y1:382 Y2:444
+Look at me!
+Come and get it!
+
+711
+00:39:16,487 --> 00:39:18,955  X1:228 X2:490 Y1:414 Y2:444
+[ContinuesJabbering]
+
+712
+00:39:21,859 --> 00:39:26,057  X1:216 X2:501 Y1:382 Y2:444
+[Grunts]
+Whoa! Ooh, yeah! Whoa!
+
+713
+00:39:34,071 --> 00:39:36,096  X1:287 X2:429 Y1:382 Y2:438
+[Giggles]
+That tickles!
+
+714
+00:39:37,308 --> 00:39:40,209  X1:289 X2:428 Y1:382 Y2:438
+[Jabbering]
+Geronimo!
+
+715
+00:39:40,311 --> 00:39:43,109  X1:231 X2:486 Y1:414 Y2:444
+[Jabbering, Grunting]
+
+716
+00:39:43,214 --> 00:39:46,945  X1:072 X2:421 Y1:350 Y2:441
+[Crab Lock]
+Mine, mine, mine!
+Mine, mine, mine, mine, mine!
+
+717
+00:39:48,319 --> 00:39:51,652  X1:070 X2:433 Y1:382 Y2:438
+Ride 'em, cowboy!
+Yee-hee-hee! Ho-ho-ho! Whee!
+
+718
+00:39:52,456 --> 00:39:54,219  X1:300 X2:417 Y1:414 Y2:444
+[Snoring]
+
+719
+00:39:57,328 --> 00:39:59,728  X1:405 X2:646 Y1:414 Y2:444
+[Continues Snoring]
+
+720
+00:39:59,830 --> 00:40:02,094  X1:072 X2:323 Y1:382 Y2:438
+If this were my house,
+I'd be furious.
+
+721
+00:40:02,199 --> 00:40:04,167  X1:072 X2:207 Y1:414 Y2:444
+[Laughing]
+
+722
+00:40:08,839 --> 00:40:11,740  X1:073 X2:238 Y1:414 Y2:444
+Hey! Klondike!
+
+723
+00:40:11,842 --> 00:40:15,539  X1:070 X2:384 Y1:350 Y2:438
+Do you have any idea
+what happened to the lock
+on this crate?
+
+724
+00:40:15,646 --> 00:40:18,080  X1:225 X2:492 Y1:382 Y2:438
+- It's on Nevins's collar.
+- Nevins?
+
+725
+00:40:18,182 --> 00:40:19,877  X1:442 X2:633 Y1:382 Y2:438
+<i>[Sally]</i>
+<i>Nevins? Nevins.!</i>
+
+726
+00:40:19,984 --> 00:40:23,920  X1:072 X2:356 Y1:382 Y2:444
+Put the dog down!
+I said, put the dog down!
+
+727
+00:40:24,021 --> 00:40:25,921  X1:464 X2:649 Y1:382 Y2:438
+Why won't they
+listen to me?
+
+728
+00:40:26,023 --> 00:40:31,689  X1:191 X2:527 Y1:350 Y2:444
+Oh. I don't know if this helps,
+but the Things always do
+the opposite of what you say.
+
+729
+00:40:31,796 --> 00:40:35,232  X1:070 X2:299 Y1:350 Y2:444
+Why do they always
+do the opposite?
+That's so annoying!
+
+730
+00:40:35,332 --> 00:40:37,232  X1:384 X2:647 Y1:382 Y2:438
+Remind you of anyone,
+Conrad?
+
+731
+00:40:37,334 --> 00:40:39,962  X1:071 X2:394 Y1:319 Y2:444
+Zinga!
+<i>[Things Cackling]</i>
+
+732
+00:40:40,104 --> 00:40:42,095  X1:070 X2:219 Y1:415 Y2:444
+Zinga! Zinga!
+
+733
+00:40:42,239 --> 00:40:45,140  X1:252 X2:468 Y1:382 Y2:438
+Blue! 41! Set!
+Hut! Hut! Hut! Hut!
+
+734
+00:40:45,242 --> 00:40:49,076  X1:222 X2:496 Y1:382 Y2:444
+Hey, Thing,
+don't let go of that dog!
+
+735
+00:40:49,180 --> 00:40:50,841  X1:321 X2:399 Y1:415 Y2:444
+Let go!
+
+736
+00:40:50,948 --> 00:40:54,577  X1:071 X2:362 Y1:350 Y2:442
+<i>[Conrad] Catch him...</i>
+<i>I mean,</i> don't <i>catch him.!</i>
+<i>[Screams]</i>
+
+737
+00:40:55,719 --> 00:40:56,743  X1:232 X2:485 Y1:318 Y2:442
+[Crab Lock Chuckles]
+[Barks]
+
+738
+00:40:57,721 --> 00:40:59,018  X1:295 X2:647 Y1:414 Y2:444
+Well, this is just great, Conrad.
+
+739
+00:40:59,123 --> 00:41:03,287  X1:297 X2:647 Y1:350 Y2:444
+The whole house is destroyed,
+the party is ruined,
+and now Nevins is gone.
+
+740
+00:41:03,394 --> 00:41:05,726  X1:291 X2:427 Y1:414 Y2:444
+Sally, Kojak,
+
+741
+00:41:05,830 --> 00:41:09,994  X1:210 X2:508 Y1:350 Y2:438
+that's nothing compared
+to what's gonna happen
+if we don't lock this crate.
+
+742
+00:41:10,100 --> 00:41:13,069  X1:247 X2:470 Y1:382 Y2:444
+Take a look.
+It's already leaking.
+
+743
+00:41:14,038 --> 00:41:16,563  X1:515 X2:646 Y1:414 Y2:444
+[Grunting]
+
+744
+00:41:16,707 --> 00:41:20,234  X1:226 X2:492 Y1:382 Y2:438
+- It won't stay shut.
+- Not without the lock.
+
+745
+00:41:20,377 --> 00:41:25,280  X1:110 X2:608 Y1:382 Y2:444
+Look, if we don't get that lock off of Nevins
+and put it back on this crate,
+
+746
+00:41:25,382 --> 00:41:29,113  X1:190 X2:527 Y1:350 Y2:438
+we're gonna be staring down
+the business end
+of the mother of all messes.
+
+747
+00:41:30,454 --> 00:41:33,355  X1:070 X2:295 Y1:350 Y2:438
+[Grunting]
+We've gotta go out
+and fiind Nevins.
+
+748
+00:41:33,457 --> 00:41:35,789  X1:261 X2:457 Y1:382 Y2:444
+[Grunts]
+Impossible! Sally!
+
+749
+00:41:35,893 --> 00:41:38,293  X1:074 X2:341 Y1:382 Y2:444
+<i>There's only four hours</i>
+<i>till the party.</i>
+
+750
+00:41:38,395 --> 00:41:40,829  X1:322 X2:647 Y1:350 Y2:444
+The Fish is right.
+We should call Mom
+and tell herwhat happened.
+
+751
+00:41:40,931 --> 00:41:44,196  X1:070 X2:354 Y1:350 Y2:444
+Look at this house!
+There's no way we could
+explain this to Mom.
+
+752
+00:41:44,301 --> 00:41:46,997  X1:070 X2:374 Y1:382 Y2:438
+We gotta get Nevins back
+and lock the crate!
+
+753
+00:41:47,137 --> 00:41:49,037  X1:281 X2:647 Y1:414 Y2:444
+We're staying and calling Mom.
+
+754
+00:41:49,139 --> 00:41:51,403  X1:070 X2:457 Y1:414 Y2:444
+We're going and getting the dog.
+
+755
+00:41:51,509 --> 00:41:53,602  X1:226 X2:490 Y1:382 Y2:444
+[Sinister Voice]
+There is a third option.
+
+756
+00:41:53,744 --> 00:41:56,042  X1:070 X2:339 Y1:318 Y2:438
+<i>@¤@¤[Organ:Dramatic]</i>
+There is?
+
+757
+00:41:56,146 --> 00:41:59,513  X1:260 X2:443 Y1:037 Y2:061
+<i>Yes. It involves...</i>
+
+758
+00:41:59,617 --> 00:42:01,642  X1:226 X2:490 Y1:037 Y2:130
+murder!
+@@ [Dramatic Chords]
+
+759
+00:42:01,752 --> 00:42:04,619  X1:239 X2:479 Y1:382 Y2:438
+- That's your option?
+- No.
+
+760
+00:42:04,722 --> 00:42:07,520  X1:181 X2:538 Y1:382 Y2:444
+But you guys both had options.
+I just wanted to have one too.
+
+761
+00:42:07,625 --> 00:42:10,924  X1:286 X2:430 Y1:382 Y2:438
+[Chuckling]
+Or did I?
+
+762
+00:42:11,028 --> 00:42:14,828  X1:169 X2:548 Y1:382 Y2:444
+- Cat, you're not helping!
+- Come on. Let's go get that dog.
+
+763
+00:42:14,932 --> 00:42:19,460  X1:202 X2:499 Y1:350 Y2:444
+<i>Now, wejust need</i>
+<i>a heavy, inanimate object</i>
+<i>to weigh down this crate.</i>
+
+764
+00:42:19,603 --> 00:42:21,537  X1:071 X2:267 Y1:414 Y2:444
+<i>[Kids Grunting]</i>
+
+765
+00:42:23,240 --> 00:42:25,265  X1:283 X2:434 Y1:414 Y2:444
+[Grumbling]
+
+766
+00:42:25,409 --> 00:42:27,900  X1:247 X2:470 Y1:382 Y2:444
+There. That oughta
+buy us some time.
+
+767
+00:42:28,045 --> 00:42:32,004  X1:424 X2:646 Y1:350 Y2:444
+Come on, kids!
+Let's go, go, go!
+[Wheezing Laugh]
+
+768
+00:42:32,116 --> 00:42:35,483  X1:243 X2:474 Y1:414 Y2:444
+[Grunting, Sighing]
+
+769
+00:42:36,587 --> 00:42:39,385  X1:071 X2:336 Y1:382 Y2:444
+<i>[Man On TV]</i>
+<i>Identical sister Mitzy...</i>
+
+770
+00:42:39,490 --> 00:42:42,516  X1:071 X2:403 Y1:318 Y2:444
+[Sighs]
+<i>[Man #2 On TV]</i>
+<i>That's right.</i>
+
+771
+00:42:43,694 --> 00:42:45,594  X1:306 X2:411 Y1:414 Y2:442
+[Grunts]
+
+772
+00:42:46,697 --> 00:42:49,325  X1:271 X2:433 Y1:382 Y2:438
+<i>- [Knocking]</i>
+- Yeah!
+
+773
+00:42:51,101 --> 00:42:53,001  X1:366 X2:648 Y1:414 Y2:444
+What do you want now?
+
+774
+00:42:53,137 --> 00:42:55,731  X1:073 X2:137 Y1:415 Y2:444
+Repo.
+
+775
+00:42:55,873 --> 00:42:59,036  X1:197 X2:520 Y1:415 Y2:444
+You're repossessing my TV?
+
+776
+00:42:59,143 --> 00:43:00,508  X1:204 X2:514 Y1:414 Y2:444
+I'm sure I made a payment.
+
+777
+00:43:00,578 --> 00:43:03,411  X1:173 X2:545 Y1:382 Y2:444
+If it's about that bounced check,
+let me give you a credit card.
+
+778
+00:43:03,514 --> 00:43:07,974  X1:247 X2:469 Y1:382 Y2:441
+That one's expired.
+Huh? Oh, come on!
+
+779
+00:43:08,085 --> 00:43:10,019  X1:071 X2:388 Y1:414 Y2:444
+<i>[Woman On TVGrunting]</i>
+
+780
+00:43:10,120 --> 00:43:14,318  X1:071 X2:382 Y1:350 Y2:444
+<i>[Narrator]</i>
+<i>With the lock on his collar,</i>
+<i>Nevins kept running,</i>
+
+781
+00:43:14,425 --> 00:43:16,893  X1:073 X2:312 Y1:414 Y2:444
+<i>unaware ofhis part...</i>
+
+782
+00:43:16,961 --> 00:43:19,486  X1:072 X2:646 Y1:318 Y2:444
+<i>in the evil Quinn's cunning.</i>
+[Ringing]
+
+783
+00:43:19,597 --> 00:43:22,566  X1:166 X2:552 Y1:382 Y2:441
+Joan Walden Real Estate.
+Be it ever so humble, there's no...
+
+784
+00:43:22,666 --> 00:43:24,258  X1:290 X2:428 Y1:414 Y2:444
+Oh, hi, Joan.
+
+785
+00:43:24,368 --> 00:43:26,893  X1:270 X2:647 Y1:318 Y2:444
+The kids let the dog
+out again.
+You're kidding.
+
+786
+00:43:27,037 --> 00:43:30,700  X1:297 X2:647 Y1:350 Y2:444
+Don't worry. I'll go get him,
+then we'll have a conversation
+vis-a-vis military school.
+
+787
+00:43:30,841 --> 00:43:34,299  X1:071 X2:399 Y1:382 Y2:444
+I don't know.
+Conrad's like you, Lawrence.
+
+788
+00:43:34,411 --> 00:43:37,278  X1:073 X2:407 Y1:319 Y2:438
+He's very... sensitive.
+Uh-huh.
+
+789
+00:43:37,381 --> 00:43:40,316  X1:072 X2:399 Y1:350 Y2:438
+[Sighs]
+But I suppose it's something
+I should consider.
+
+790
+00:43:40,417 --> 00:43:43,784  X1:265 X2:646 Y1:318 Y2:442
+I'll get the dog.
+I'll be right over.
+[Dial Tone Hums]
+
+791
+00:43:46,156 --> 00:43:49,216  X1:315 X2:403 Y1:414 Y2:444
+[Sighs]
+
+792
+00:43:49,326 --> 00:43:51,226  X1:292 X2:426 Y1:414 Y2:444
+[Groaning]
+
+793
+00:43:51,328 --> 00:43:53,796  X1:230 X2:471 Y1:350 Y2:444
+<i>- [Barking]</i>
+<i>- [Conrad]</i>
+<i>Okay, there's Nevins.</i>
+
+794
+00:43:53,897 --> 00:43:57,230  X1:441 X2:635 Y1:318 Y2:442
+Stay out of sight.
+<i>[Barks, Growls]</i>
+
+795
+00:44:00,404 --> 00:44:04,534  X1:070 X2:409 Y1:414 Y2:444
+<i>@¤@¤[Violin Strings Plucking]</i>
+
+796
+00:44:04,675 --> 00:44:07,803  X1:070 X2:363 Y1:414 Y2:444
+@@ [Plucking Continues]
+
+797
+00:44:09,313 --> 00:44:11,907  X1:230 X2:490 Y1:382 Y2:444
+I thought the moment
+needed something.
+
+798
+00:44:12,016 --> 00:44:14,746  X1:196 X2:522 Y1:414 Y2:441
+Oh, what will become of us?
+
+799
+00:44:14,852 --> 00:44:16,979  X1:187 X2:529 Y1:414 Y2:444
+Your motherwill lose her job,
+
+800
+00:44:17,087 --> 00:44:20,386  X1:253 X2:465 Y1:382 Y2:438
+and we'll have to...
+live on the street!
+
+801
+00:44:20,491 --> 00:44:23,551  X1:201 X2:518 Y1:382 Y2:444
+[Sobbing]
+I can't! Don't make me go...
+
+802
+00:44:23,661 --> 00:44:26,095  X1:073 X2:413 Y1:318 Y2:438
+[Groans]
+<i>I don't know this world.!</i>
+
+803
+00:44:26,196 --> 00:44:30,929  X1:073 X2:459 Y1:318 Y2:438
+It's dry! It's like...
+I can't... It's too...
+Fish!
+
+804
+00:44:31,035 --> 00:44:32,935  X1:280 X2:438 Y1:414 Y2:438
+It's too much!
+
+805
+00:44:33,070 --> 00:44:35,004  X1:344 X2:649 Y1:382 Y2:438
+Would you like to go back
+in the toilet?
+
+806
+00:44:35,139 --> 00:44:37,607  X1:371 X2:647 Y1:350 Y2:444
+On second thought,
+it's such a beautiful day.
+Why spend it indoors?
+
+807
+00:44:37,741 --> 00:44:40,471  X1:288 X2:430 Y1:382 Y2:444
+- Thank you!
+- [Gasps]
+
+808
+00:44:41,779 --> 00:44:43,679  X1:251 X2:466 Y1:382 Y2:444
+Okay, kids.
+Get out of my way.
+
+809
+00:44:43,781 --> 00:44:47,581  X1:162 X2:554 Y1:350 Y2:444
+This fence is no match
+for my cat-like grace and reflexes.
+Here we go.
+
+810
+00:44:47,685 --> 00:44:50,381  X1:245 X2:472 Y1:318 Y2:442
+[Neck Muscles,
+Knuckles Cracking]
+[Exhales]
+
+811
+00:44:50,487 --> 00:44:54,685  X1:246 X2:469 Y1:350 Y2:444
+Ow. Okay.
+Watch me fly, kids.
+[Wheezing Laugh]
+
+812
+00:44:56,560 --> 00:44:59,688  X1:071 X2:424 Y1:318 Y2:444
+<i>[Loud Crash]</i>
+[Grunting]
+
+813
+00:44:59,797 --> 00:45:01,822  X1:336 X2:382 Y1:415 Y2:438
+Ow!
+
+814
+00:45:01,932 --> 00:45:04,628  X1:207 X2:511 Y1:382 Y2:444
+I don't think
+the little girl's even trying.
+
+815
+00:45:04,735 --> 00:45:08,899  X1:431 X2:648 Y1:382 Y2:438
+What about your
+cat-like... reflexes?
+
+816
+00:45:09,039 --> 00:45:12,270  X1:158 X2:558 Y1:382 Y2:444
+What about showing a little effort,
+shrimp boat? Now, push!
+
+817
+00:45:12,376 --> 00:45:14,640  X1:321 X2:395 Y1:414 Y2:438
+Whaa!
+
+818
+00:45:14,745 --> 00:45:16,975  X1:261 X2:455 Y1:414 Y2:444
+All right, Nevins.
+
+819
+00:45:17,081 --> 00:45:19,015  X1:289 X2:428 Y1:414 Y2:438
+Time to die.
+
+820
+00:45:19,116 --> 00:45:22,244  X1:203 X2:515 Y1:382 Y2:444
+- [Whimpering]
+- Cat, you scared him away!
+
+821
+00:45:22,352 --> 00:45:24,320  X1:304 X2:416 Y1:414 Y2:444
+Dirty hoe.
+
+822
+00:45:26,090 --> 00:45:29,958  X1:263 X2:455 Y1:382 Y2:444
+I'm sorry, baby.
+I love you. Hmm.
+
+823
+00:45:30,060 --> 00:45:32,790  X1:465 X2:633 Y1:382 Y2:442
+<i>[Conrad]</i>
+<i>Come on, Cat.!</i>
+
+824
+00:45:36,533 --> 00:45:38,660  X1:301 X2:647 Y1:318 Y2:438
+[Yipping]
+There he is!
+
+825
+00:45:38,769 --> 00:45:40,634  X1:071 X2:317 Y1:414 Y2:444
+<i>[Children Shouting]</i>
+
+826
+00:45:40,771 --> 00:45:42,705  X1:071 X2:347 Y1:382 Y2:444
+<i>[Man]</i>
+<i>Happy birthday, Denise.</i>
+
+827
+00:45:42,806 --> 00:45:44,774  X1:071 X2:169 Y1:382 Y2:438
+<i>[Sally]</i>
+<i>Denise?</i>
+
+828
+00:45:44,908 --> 00:45:47,638  X1:265 X2:455 Y1:382 Y2:438
+Everyone I know
+is there.
+
+829
+00:45:47,745 --> 00:45:50,270  X1:222 X2:495 Y1:414 Y2:444
+There's Ginny and Alan.
+
+830
+00:45:50,380 --> 00:45:53,213  X1:072 X2:371 Y1:382 Y2:444
+How come Denise didn't
+invite me to her birthday?
+
+831
+00:45:53,317 --> 00:45:55,979  X1:373 X2:631 Y1:383 Y2:444
+<i>Don't worry. Let'sjust</i>
+<i>get Nevins and go.</i>
+
+832
+00:45:56,086 --> 00:45:57,144  X1:215 X2:482 Y1:350 Y2:444
+<i>- [Woman] Okay, kids.</i>
+<i>Everyone outside.!</i>
+- [Kids Screaming]
+
+833
+00:45:58,655 --> 00:46:00,816  X1:306 X2:412 Y1:414 Y2:444
+[Yelling]
+
+834
+00:46:03,894 --> 00:46:05,794  X1:325 X2:391 Y1:414 Y2:438
+Aaah!
+
+835
+00:46:05,896 --> 00:46:09,059  X1:070 X2:402 Y1:319 Y2:444
+Nevins.
+Cat, get down!
+They're gonna see you!
+
+836
+00:46:09,166 --> 00:46:11,430  X1:073 X2:139 Y1:414 Y2:438
+<i>Hide.!</i>
+
+837
+00:46:11,535 --> 00:46:13,503  X1:247 X2:471 Y1:414 Y2:444
+[Excited Shouting]
+
+838
+00:46:19,810 --> 00:46:22,711  X1:235 X2:483 Y1:382 Y2:438
+[Chanting]
+Piñata! Piñata! Piñata!
+
+839
+00:46:22,813 --> 00:46:24,713  X1:279 X2:441 Y1:415 Y2:438
+Piñata! Piñata!
+
+840
+00:46:24,815 --> 00:46:27,943  X1:073 X2:486 Y1:319 Y2:444
+<i>Piñata.! Piñata.!</i>
+[Nervous Grumbling]
+
+841
+00:46:28,051 --> 00:46:30,679  X1:250 X2:468 Y1:382 Y2:444
+- [Groans]
+- Everybody join in!
+

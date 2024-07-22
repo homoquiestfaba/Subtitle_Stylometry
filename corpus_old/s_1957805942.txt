@@ -1,0 +1,3314 @@
+ï»¿1
+<i>[SCANNER BEEPING]</i>
+
+<i>[BEEPING CONTINUES]</i>
+
+<i>[CLERK] Road trip?</i>
+
+<i>[WOMAN] No, moving.</i>
+
+<i>[CARD MACHINE SQUAWKS]</i>
+
+<i>Your card's been declined.</i>
+
+<i>Okay.</i>
+
+<i>[WOMAN SIGHS]</i>
+
+<i>Let's try this one.</i>
+
+<i>[MACHINE BEEPING]</i>
+
+<i>[EXHALES]</i>
+
+<i>[MELANCHOLY MUSIC PLAYING]</i>
+
+{\an8}<i>[BREATHING DEEPLY]</i>
+
+<i>[EXHALES]</i>
+
+<i>[SOFTLY] Jake, baby, please help me.</i>
+
+<i>Come on.Â Come on.</i>
+
+<i>Okay.</i>
+
+<i>[OMINOUS MUSIC PLAYING]</i>
+
+<i>[INDISTINCT CHATTER]</i>
+
+<i>[HORN HONKS]</i>
+
+<i>Oh, did I scare you?</i>
+
+<i>Text me.</i>
+
+<i>[GIRL] Yeah.</i>
+
+<i>Bye.</i>
+
+<i>Just so you know, you're ruining my life.</i>
+
+<i>Well, thank you for sharing.
+Where's your uncle?</i>
+
+<i>I don't know.
+The string I tied to him broke.</i>
+
+<i>Chill with the smart mouth, okay?</i>
+
+<i>[LOUD RAP MUSIC PLAYING]</i>
+
+<i>Whoo! Told you.
+Right on time. Y'all ready?</i>
+
+<i>Come on. Let's ride.
+Let's make some miles.</i>
+
+<i>- What y'all waiting on?
+Where you been?</i>
+
+<i>I was just saying
+some last-minute goodbyes.</i>
+
+<i>Really? 'Cause you smell
+like you've been smokingÂ weed.</i>
+
+<i>What? You tripping.
+That's my new body spray.</i>
+
+<i>- Turn out your pocket.
+Hey!</i>
+
+<i>What is this? TSA?
+Come on. I ain't getting on no plane.</i>
+
+<i>And body search is aÂ violation
+of my basic human rights.</i>
+
+<i>Reggie, you promised.
+No drugs and no weed for the entire trip.</i>
+
+<i>And I intend to honor that pledge.</i>
+
+<i>- Mmm-hmm.
+I do.</i>
+
+<i>You better.</i>
+
+<i>Entire trip?</i>
+
+<i>Entire.</i>
+
+<i>Entire trip.</i>
+
+<i>Good thing the trip ain't started yet.</i>
+
+<i>[GAME SOUND EFFECTS PLAYING]</i>
+
+<i>[BOY] Boo!</i>
+
+<i>Cameron, the train's leaving
+the stationÂ in two minutes.</i>
+
+<i>- I'm not going.
+I'm sorry to hear that.</i>
+
+<i>I guess you're moving in
+with the next family that lives here?</i>
+
+<i>What if they don't like
+stinky-head boy smell?</i>
+
+<i>I'll sleep in Dad's bed.</i>
+
+<i>They're picking it up in 20 minutes.</i>
+
+<i>Whatever.</i>
+
+<i>[GAME SOUND EFFECTS PLAYING]</i>
+
+<i>Come on, little man.Â We got to go.</i>
+
+<i>Yo, Reg.</i>
+
+<i>- Hey.
+Come on, just give me a hit.</i>
+
+<i>Now what kind of uncle shares
+a joint withÂ his teenage niece?</i>
+
+<i>The kind sitting right in front of me.</i>
+
+<i>One and done.</i>
+
+<i>Thank you.</i>
+
+<i>Puff and pass.</i>
+
+<i>[REGGIE SIGHS]</i>
+
+<i>I assume you're bringing a back-up supply.</i>
+
+<i>[SCOFFS] No, it's my last jay
+until we get toÂ Houston.</i>
+
+<i>Promised your mom.</i>
+
+<i>You, being a man of your word?</i>
+
+<i>Don't be giving me no attitude, okay?
+And don't be giving it to your mom.</i>
+
+<i>Why? It's her fault we have to move.</i>
+
+<i>Nah. Nah. Listen, shit happens, Kelly.</i>
+
+<i>Ever since your dad died,</i>
+
+<i>your mom's been doing everything
+in her power toÂ hold this family together.</i>
+
+<i>She's paying for all this...
+It just got to be too much.</i>
+
+<i>Nothing feels right without him.</i>
+
+<i>I know.</i>
+
+<i>["TELEPORT" PLAYING]</i>
+
+<i>[EXHALES]</i>
+
+<i>â™ª Might not be there by your side â™ª</i>
+
+<i>â™ª Or with you in the morning â™ª</i>
+
+<i>[FAINT CHATTER AND LAUGHTER]</i>
+
+<i>â™ª I wish that I could drive â™ª</i>
+
+<i>â™ª 'Cause I'd head straight for you â™ª</i>
+
+<i>â™ª If I could teleport
+Teleport â™ª</i>
+
+<i>â™ª If I could teleport â™ª</i>
+
+<i>â™ª I'd be with you tonight â™ª</i>
+
+<i>â™ª I wish you could touch my skin â™ª</i>
+
+<i>[FAINT LAUGHTER]</i>
+
+<i>â™ª My body's yearning for your feelings â™ª</i>
+
+<i>â™ª If I could leave it all
+Leave it all â™ª</i>
+
+<i>â™ª If I could leave it all... â™ª</i>
+
+<i>[CELLPHONE BUZZING]</i>
+
+<i>- Hey, Ma.
+Hey, baby. How you doing?</i>
+
+<i>- Y'all on the road yet?
+No, not yet. Just, um...</i>
+
+<i>taking one last lookÂ around the house
+before we go.</i>
+
+<i>- How long's the drive?
+Three days.</i>
+
+<i>I figured two nights on the road.</i>
+
+<i>Be at your place, uh, probably by Friday.</i>
+
+<i>Call me if you need anything.</i>
+
+<i>- Yeah, I'll call you on the way.
+Travel safe.</i>
+
+<i>- Mmm-hmm.
+I love you.</i>
+
+<i>- Yeah, I love you too.
+Bye, baby.</i>
+
+<i>Bye.</i>
+
+<i>[CAR HONKS]</i>
+
+<i>Cam, come on!
+Get your scrawny butt out here.</i>
+
+<i>Now, we not stopping
+between here and Arizona.</i>
+
+<i>- So if you got to go, now is the time.
+Mom, can we just leave?</i>
+
+<i>Come on, you know the drill.
+Come on, y'all. Come on.</i>
+
+<i>Bring it in, let's get together.</i>
+
+<i>Do we have to?</i>
+
+<i>If you don't act like family,
+I will leave you behind.</i>
+
+<i>Promise?</i>
+
+<i>Come on.</i>
+
+<i>Don't. Don't.Â Don't.</i>
+
+<i>[SIGHS] Heavenly Father...</i>
+
+<i>please bless and protect us on our journey</i>
+
+<i>to our new life.</i>
+
+{\an8}<i>In your name, we pray. Amen.</i>
+
+<i>- Amen.
+Amen.</i>
+
+<i>Amen. Amen.</i>
+
+<i>Do we have to go?</i>
+
+<i>Yes.</i>
+
+<i>["WHERE DO WE GO FROM HERE" PLAYING]</i>
+
+<i>â™ª We're at the crossroads, my dear â™ª</i>
+
+<i>â™ª Where do we go from here? â™ª</i>
+
+<i>â™ª Maybe you won't go, maybe you'll stay â™ª</i>
+
+{\an8}<i>â™ª Oh, I know â™ª</i>
+
+{\an8}<i>â™ª I'm gonna miss you either way â™ª</i>
+
+{\an8}<i>â™ª It's such a lonely road â™ª</i>
+
+<i>â™ª Where do we go from here? â™ª
+â™ª We go â™ª</i>
+
+<i>â™ª All I can do is â™ª</i>
+
+<i>â™ª Follow the tracks of my tears â™ª
+â™ª Follow the tracks â™ª</i>
+
+<i>â™ª Tears â™ª</i>
+
+<i>â™ª Oh! When I cry your name â™ª</i>
+
+<i>â™ª Am I callin' in vain? â™ª</i>
+
+<i>â™ª Oh â™ª</i>
+
+<i>â™ª Where do we go from here? â™ª
+â™ª Maybe you won't go, maybe you'll stay â™ª</i>
+
+<i>â™ª All I can do is â™ª</i>
+
+<i>â™ª Follow the tracks of my tears â™ª
+â™ª Follow either way â™ª</i>
+
+<i>[OMINOUS MUSIC PLAYING]</i>
+
+<i>[HELICOPTER APPROACHING]</i>
+
+<i>Please tell SeÃ±or Cross
+we are grateful for his assistance.</i>
+
+<i>[HELICOPTER TAKES OFF]</i>
+
+<i>[LAUGHING]</i>
+
+<i>Mr. Cross will be happy to see this.</i>
+
+<i>We take all the risk,</i>
+
+<i>Mr. Cross gets to keep all the profit.
+Seem fair to you?</i>
+
+<i>You don't like the arrangement,
+talk to Mr. Cross.</i>
+
+<i>Otherwise, shut the fuck up, bro.
+
+<i>Whoo!</i>
+
+<i>[GUN COCKS]</i>
+
+<i>You do this and you're a dead man.</i>
+
+<i>Mr. Cross gonna...</i>
+
+<i>Fuck Mr. Cross.</i>
+
+<i>[R&AMP;B SONG PLAYING ON CAR STEREO]</i>
+
+<i>[SNORING]</i>
+
+<i>[GAME SOUND EFFECTS PLAYING]</i>
+
+<i>Yo.</i>
+
+<i>What? Police? Where we at?</i>
+
+<i>- Are we there?
+Mom, what's wrong?</i>
+
+<i>Nobody has said a word
+in three and a half hours.</i>
+
+<i>Oh, hell no.</i>
+
+<i>Okay, and?</i>
+
+<i>And I was hoping
+we could be like otherÂ families</i>
+
+<i>and converse. You know, talk.</i>
+
+<i>- [SCOFFS] No.
+Why?</i>
+
+<i>Because that's what families do
+on carÂ trips.</i>
+
+<i>Yeah, I know, right? It's crazy.</i>
+
+<i>But people joke, they sing songs. They...</i>
+
+<i>play car games.</i>
+
+<i>No, that's what they do in the movies.</i>
+
+<i>Yeah, uh, Mom, I think
+you've mistaken this for 1983.</i>
+
+<i>That's it. Everybody put
+your phones away.Â I'm serious.</i>
+
+<i>God! Mom...</i>
+
+<i>Really?</i>
+
+<i>Let me explain. That phone?</i>
+
+<i>It's a privilege, Kelly.
+Don't give me a reason to take it away.</i>
+
+<i>Fine.</i>
+
+<i>[WOMAN] Okay.</i>
+
+<i>Let's have a conv...</i>
+
+<i>I'm sorry. My bad.</i>
+
+<i>Who wants to go first?</i>
+
+<i>Okay, I'll start.</i>
+
+<i>There you go, my man. All right, go, Cam.</i>
+
+<i>[CLEARS THROAT]</i>
+
+<i>My declarative statementÂ is</i>
+
+<i>moving to TexasÂ sucks.</i>
+
+<i>[LAUGHS] I agree. Look at that!
+End of conversation, right?</i>
+
+<i>- That's right.
+[WOMAN] You got that. Whatever.</i>
+
+<i>Bunch of lightweights.</i>
+
+<i>You know how many times
+I had to move growing up?</i>
+
+<i>- [CAM, KELLY, REGGIE] 27.
+27 different military bases in 17 years.</i>
+
+<i>Yes, Mom, we know.</i>
+
+<i>- Your dad was an army colonel.
+[WOMAN] But he was a great dad.</i>
+
+<i>He taught us how to hunt, how to shoot,
+how to fight, and when not to.</i>
+
+<i>All facts.</i>
+
+<i>- Especially for you.
+[REGGIE CHUCKLES]</i>
+
+<i>Hey, look. I know how you feel.</i>
+
+<i>Whenever my dad asked us to move,
+I got angry too.</i>
+
+<i>Question is,
+do any Black people live in Houston</i>
+
+<i>or will it just be us?</i>
+
+<i>Do any Black people live in Houston? What?</i>
+
+<i>You ain't heard of Megan Thee Stallion?
+Yes, you have. I know you have.</i>
+
+<i>- How about Destiny's Child?
+Who was they?</i>
+
+<i>- Willie D!
+Scarface.</i>
+
+<i>Scarface, see? Geto Boys.</i>
+
+<i>- I don't know them.
+Come on.</i>
+
+<i>Who are those people?</i>
+
+<i>- You need to study hip-hop. Anyway...
+Too young for that.</i>
+
+<i>There are a lot
+of Black people in Houston.</i>
+
+<i>Whoa, hey. Wait, wait, wait.
+Sis, sis. Eyes ahead.Â Eyes ahead.</i>
+
+<i>Slow down.Â Slow down.</i>
+
+<i>Okay. What is this?</i>
+
+<i>[REGGIE] Looks like a detour.</i>
+
+<i>- Ah, what the hell is this?
+[WORKER] Slow down, please.</i>
+
+<i>"Detour, next 85 miles."</i>
+
+<i>[WORKER] Go over by the shoulder.</i>
+
+<i>This is gonna cost us some time.</i>
+
+<i>[REGGIE] Knew I should a brought my weed.</i>
+
+<i>[R&AMP;B MUSIC PLAYING ON STEREO]</i>
+
+<i>This is some serious Area 51 shit
+out here.</i>
+
+<i>Y'all know what happens next, right?</i>
+
+<i>The car's gonna stall out,
+then we'll get hit by a tractor beam,</i>
+
+<i>and lifted up in a UFO.</i>
+
+<i>Oh, my God.</i>
+
+<i>Next, we'll be strapped down
+on our stomachs</i>
+
+<i>with big-eyed aliens probing our ass.</i>
+
+<i>- They won't do that to you, Uncle Reggie.
+Why not?</i>
+
+<i>'Cause the aliens only want
+to study intelligent life-forms.</i>
+
+<i>- Hear what I'm saying?
+Ooh! Burn!</i>
+
+<i>You know what? Because you're my nephew,
+I'll let that slide.</i>
+
+<i>Bren, he's too smart for his own good.</i>
+
+<i>- What you gonna do with this brain power?
+Tell me about it.</i>
+
+<i>Intelligence can be
+such a burden sometimes.</i>
+
+<i>Yeah. Especially to the people around you.</i>
+
+<i>[REGGIE] Wait, wait, wait.</i>
+
+<i>Is this Throw Shade at Reggie Day?
+Y'all ganging up on me.</i>
+
+<i>- No, sir.
+Listen.</i>
+
+<i>That's it.
+No more Snickers for none of y'all.</i>
+
+<i>- Hey!
+[CAM] I'm sorry!</i>
+
+<i>- [REGGIE] No. Hell nah.
+[KELLY] Listen.</i>
+
+<i>- No.
+You know we love you. Okay?</i>
+
+<i>- You're our teddy bear.
+Get off. Get off me.</i>
+
+<i>Whatever. I just ain't lived up
+to my fullÂ potential yet.</i>
+
+<i>One day, I'm going
+to surprise every damn body.</i>
+
+<i>[SCOFFS]</i>
+
+<i>Even myself.</i>
+
+<i>[COUNTRY ROCK MUSIC PLAYING]</i>
+
+<i>[SNORING]</i>
+
+<i>[CLERK] You get
+detoured off the interstate?</i>
+
+<i>- Mmm-hmm.
+[CARD MACHINE BEEPING]</i>
+
+<i>[CLERK] You intend to stop
+and stay around here?</i>
+
+<i>[CARD MACHINE SIGNALS]</i>
+
+<i>Why, is that a problem?</i>
+
+<i>No, ma'am, not for me.</i>
+
+<i>[TOILET FLUSHING]</i>
+
+<i>- Hey, Mom, can I have a Red Bull?
+No. We're leaving.</i>
+
+<i>What? Why?</i>
+
+<i>What is the rush?</i>
+
+<i>Mom! How many dead bugs
+did I find on the windshield? Guess.</i>
+
+<i>Oh! Just... throw that away.
+Go get in the car right now.</i>
+
+<i>[WHISTLES SUGGESTIVELY]</i>
+
+<i>[CLEARS THROAT]</i>
+
+<i>[CAR ENGINE STARTS]</i>
+
+<i>[SPITS]</i>
+
+<i>[R&AMP;B MUSIC PLAYING ON STEREO]</i>
+
+<i>[OMINOUS MUSIC PLAYING]</i>
+
+<i>[ENGINE REVVING]</i>
+
+<i>What the hell?</i>
+
+<i>Bitch!</i>
+
+<i>- Reggie, wake up.
+[MAN 1] Open up, I'm right here.</i>
+
+<i>Pull over. Come on, get out.</i>
+
+<i>Sis, what you do
+to piss the good old boys off, huh?</i>
+
+<i>Eyes forward, just ignore 'em.</i>
+
+<i>...like you can't see me.Â I'm right here.</i>
+
+<i>- What do they want?
+I don't know.</i>
+
+<i>[REGGIE] Don't worry.</i>
+
+<i>[HONKING INSISTENTLY]</i>
+
+<i>- [GASPS]
+[CAM] Whoa!</i>
+
+<i>- [KELLY] You're kidding me.
+What the hell?</i>
+
+<i>[LAUGHING]</i>
+
+<i>- It's my fault, I'm sorry.
+What are you talking about?</i>
+
+<i>They were... They were hitting on me
+at the gas station and being nasty,</i>
+
+<i>so I gave 'em the finger.</i>
+
+<i>Girl, are you stupid?</i>
+
+<i>Why would you do that?
+Didn't you see where we were?</i>
+
+<i>[HONKING]</i>
+
+<i>[REGGIE] Hey!</i>
+
+<i>[KELLY] Ow!</i>
+
+<i>[REGGIE] I swear to God...</i>
+
+<i>[MAN 1] Bitch!</i>
+
+<i>They're gone, it's fine.</i>
+
+<i>Kelly, don't you ever do that again.</i>
+
+<i>- I know.
+It's a different world out here.</i>
+
+<i>Okay, okay, I know.</i>
+
+<i>Sorry.</i>
+
+<i>Oh, hell no.</i>
+
+<i>[BRAKES SQUEALING]</i>
+
+<i>Mom, what's going on?</i>
+
+<i>I don't know,
+but we're not waiting to find out.</i>
+
+<i>[REGGIE] Oh, they playing games.</i>
+
+<i>Move, damn it!</i>
+
+<i>Ah, shit. Yeah, we in it now.</i>
+
+<i>Reggie, stay in the car.</i>
+
+<i>Hell, I won't stay in the car and let
+these lanky-ass white boys start shit.</i>
+
+<i>- Please, let me handle it.
+Hell no.</i>
+
+<i>There's not a lot I do well,
+but this, I do damn well.</i>
+
+<i>No! You explode, then they react?
+Then what's gonna happen to my...</i>
+
+<i>Please. I can't take that risk.</i>
+
+<i>Please.</i>
+
+<i>[REVVING ENGINE]</i>
+
+<i>You want me to call 911?</i>
+
+<i>[SIGHS] No. No.
+Your mom is going to handle it.</i>
+
+<i>[PHONE BEEPS]</i>
+
+<i>Please move your truck,</i>
+
+<i>and let us go by.</i>
+
+<i>You could a killed us, lady.</i>
+
+<i>You endangered our lives.</i>
+
+<i>- Oh, hell no.
+Reggie.</i>
+
+<i>[SIGHS]</i>
+
+<i>Okay, boys. You've had your fun.</i>
+
+<i>Now what do I have to do
+to get you to move that truck?</i>
+
+<i>Apology'd be nice.</i>
+
+<i>Okay, fine.</i>
+
+<i>I apologize.</i>
+
+<i>We good?</i>
+
+<i>You can't just say it.</i>
+
+<i>You got to mean it.</i>
+
+<i>Unless you want us
+to make your whole family apologize.</i>
+
+<i>- Don't you come near my family.
+Then say it like you mean it.</i>
+
+<i>I apologize...</i>
+
+<i>for endangering your lives.</i>
+
+<i>Our white lives.</i>
+
+<i>- Your white...
+Louder.</i>
+
+<i>I apologize...</i>
+
+<i>for endangering...</i>
+
+<i>your white lives.</i>
+
+<i>[MAN 1] Apology accepted.</i>
+
+<i>[MAN 2] See how easy that was?</i>
+
+<i>[MEN LAUGHING]</i>
+
+<i>Oh, lady, you know
+we was just fucking with you.</i>
+
+<i>[MEN WHOOPING]</i>
+
+<i>[HONKING]</i>
+
+<i>[SIGHS]</i>
+
+<i>[BREATHING DEEPLY]</i>
+
+<i>[DOOR OPENS]</i>
+
+<i>What, Reggie, you got something to say?
+You got a commentÂ now that it's all over?</i>
+
+<i>Nah, I'm good.</i>
+
+<i>Anybody else?</i>
+
+<i>- Uh, Mom...
+What?</i>
+
+<i>We can make it to Tucson by seven o'clock.</i>
+
+<i>Tuscon?</i>
+
+<i>Yeah, it's two hours and ten minutes.</i>
+
+<i>[SIGHS]</i>
+
+<i>I'll find us a motel.</i>
+
+<i>Cheapest one.</i>
+
+<i>We on a budget.</i>
+
+<i>[KELLY] You all right?</i>
+
+<i>[MELANCHOLY MUSIC PLAYING]</i>
+
+<i>[MUSIC PLAYING]</i>
+
+<i>- Mmm.
+Mmm-hmm.</i>
+
+<i>Yeah.</i>
+
+<i>- What you know about this?
+[KELLY] I like this song.</i>
+
+<i>- Mom?
+Mmm-hmm?</i>
+
+<i>Those guys today,
+were they going to hurtÂ us?</i>
+
+<i>I don't think so.</i>
+
+<i>They were mean, stupid white boys</i>
+
+<i>doing what mean, stupid white boys do.</i>
+
+<i>Are we homeless people?</i>
+
+<i>What?</i>
+
+<i>'Cause technically, we don't have a home.</i>
+
+<i>[SIGHS] Listen, little man.</i>
+
+<i>It's not your job
+to worry about thingsÂ like that.</i>
+
+<i>It's your job to be a kid
+and it's my job to be your mom,</i>
+
+<i>and make sure that you and your sister
+are taken care of. Okay?</i>
+
+<i>Will we ever have a home again?</i>
+
+<i>We will.</i>
+
+<i>But, you know, a house ain't a home.</i>
+
+<i>Home is us.</i>
+
+<i>You, Kelly, Reggie, me.</i>
+
+<i>As long as we're together,
+none of us are ever homeless.</i>
+
+<i>[VOICE BREAKING] I miss Dad.</i>
+
+<i>Hey, come here.</i>
+
+<i>I know. Come on.</i>
+
+<i>Come here, son.</i>
+
+<i>It's okay, it's all right. I know.
+We all miss him too.</i>
+
+<i>It's all right.</i>
+
+{\an8}<i>[MUSIC CONTINUES PLAYING]</i>
+
+<i>[SIGHS] I hate this.
+Can I just sleep in the car or something?</i>
+
+<i>No.</i>
+
+<i>Why? Look, this room is ugly
+and there's zero privacy.</i>
+
+<i>- She wants to Face Time Zac and beÂ kissy.
+Shut it, pipsqueak.</i>
+
+<i>- Mom, she called me a pipsqueak.
+Yeah, you are.</i>
+
+<i>You're, like, half the size
+you should be at your age.</i>
+
+<i>- You too!
+You're smaller than me!</i>
+
+<i>Okay, enough!</i>
+
+<i>- Chubby cheeks.
+No, I'm not!</i>
+
+<i>Y'all are getting on my last nerve.</i>
+
+<i>- [TOILET FLUSHING]
+Whoo!</i>
+
+<i>Family announcement.</i>
+
+<i>Nobody, I mean, nobody go in thatÂ bathroom
+for at least two hours.</i>
+
+<i>Probably smart to wear a Hazmat suit too.
+Just a fair warning.</i>
+
+<i>[SIGHS] Do I look lighter?</i>
+
+<i>You know what?
+Everybody just get some sleep.</i>
+
+<i>We got a long day ahead of us
+on the road tomorrow.</i>
+
+<i>Yeah, like I'll sleep
+when Reggie starts snoring.</i>
+
+<i>- Hey! You know I don't snore.
+And Kim Kardashian's butt is real.</i>
+
+<i>Uncle Reggie, on the Richter scale,
+you're an 8.5.</i>
+
+<i>- You know y'all are adopted, right?
+What?</i>
+
+<i>- Okay, enough.
+[SCOFFS]</i>
+
+<i>Get some sleep.</i>
+
+<i>- Good night.
+G'night.</i>
+
+<i>[SNORING DRAMATICALLY]</i>
+
+<i>[SNORING DRAMATICALLY]</i>
+
+<i>What the...</i>
+
+<i>- You fools!
+Oh, oh, oh!</i>
+
+<i>- [KELLY] No. No!
+[BRENDA LAUGHS]</i>
+
+<i>Oh, we throwing stuff?
+You want some too, sis?</i>
+
+<i>What?</i>
+
+<i>You don't want none of this.
+You want some?</i>
+
+<i>Hey, chill.</i>
+
+<i>[LOUD BANGING ON WALL]</i>
+
+<i>[WHISPERS] Shh! Uh-oh.</i>
+
+<i>Okay, let's just go back to sleep.</i>
+
+<i>- [CAM] Okay.
+We don't want to get kicked out.</i>
+
+<i>- Here.
+You gonna get it now.</i>
+
+<i>[CAM SNICKERS]</i>
+
+<i>- Boy, if you don't go to sleep...
+Okay.</i>
+
+<i>[SNORING]</i>
+
+<i>[MUFFLED THUDS]</i>
+
+<i>Mom, what was that?</i>
+
+<i>That sounded like it came from next door.</i>
+
+<i>- [THUD]
+[MUFFLED SHOUTING]</i>
+
+<i>What the hell is going on?
+Somebody throwing a party or something?</i>
+
+<i>- It's four in the morning, Reg.
+That's when the best parties get started.</i>
+
+<i>- No, no, no, this sounds like a fight.
+What?</i>
+
+<i>I'm calling the front office.</i>
+
+<i>[LOUD THUD]</i>
+
+<i>- That definitely ain't no party.
+[CAM] I'm scared.</i>
+
+<i>I'm not letting this go on.</i>
+
+<i>- What?
+Mom, please don't go out there.</i>
+
+<i>I'm a ER nurse. For all we know,
+some woman is getting beat by a man.</i>
+
+<i>- You gonna get caught in the middle?
+[MUFFLED SHOUTING]</i>
+
+<i>- Mom, no.
+Sis...</i>
+
+<i>[GUNSHOT]</i>
+
+<i>- The fuck?
+[DOOR OPENING NEXT DOOR]</i>
+
+<i>- [CAM] Mom?
+[GASPS]</i>
+
+<i>- Mom, who is that?
+Shh!</i>
+
+<i>[FOOTSTEPS APPROACHING]</i>
+
+<i>[DOORKNOB RATTLING]</i>
+
+<i>[FOOTSTEPS RECEDING]</i>
+
+<i>[CAR DOOR CLOSES, ENGINE STARTS]</i>
+
+<i>[TIRES SQUEALING]</i>
+
+<i>[SOFTLY] Sounds like he's gone.</i>
+
+<i>I know a gunshot when I hear one.
+That was definitely a gunshot.</i>
+
+<i>- Somebody could be dead in there.
+I better check.</i>
+
+<i>Cam, stay here.</i>
+
+<i>- But...
+[KELLY] Stay here.</i>
+
+<i>[SOFT GRUNTING]</i>
+
+<i>[GURGLING]</i>
+
+<i>Damn.</i>
+
+<i>Kelly, call 911. There's a man
+with a gunshot wound to the throat.</i>
+
+<i>- What?
+Keep your brother in that room!</i>
+
+<i>Bren, wait! Be careful.</i>
+
+<i>No time, he's gonna bleed out.</i>
+
+<i>Sir? Sir, I'm a nurse.
+My name is Brenda, I'm gonna help you.</i>
+
+<i>[WHEEZING]</i>
+
+<i>It's okay.Â It's okay.</i>
+
+<i>Reg, go to the bathroom,
+get me some more towels.</i>
+
+<i>Now!</i>
+
+<i>Just stay calm.</i>
+
+<i>I've called 911.
+Help is on the way.Â I'll take care of you.</i>
+
+<i>- Hurry up, Reggie! Just hold on.
+[GASPING]</i>
+
+<i>All right, just hang on. Hang on. Hang on!</i>
+
+<i>Sir, you're going to be okay.</i>
+
+<i>Stay with me.Â Stay with me.</i>
+
+<i>Look at me! Look at me, sir.
+Come on. Hang on!</i>
+
+<i>Damn.</i>
+
+<i>[SIGHS]</i>
+
+<i>[SNIFFLES]</i>
+
+<i>Jake, please.</i>
+
+<i>Please help me through this.</i>
+
+<i>[SNIFFLES] I need you.</i>
+
+<i>[SIGHS]</i>
+
+{\an8}<i>[POLICE SIRENS WAILING]</i>
+
+<i>[INDISTINCT CHATTER]</i>
+
+<i>[COUNTRY MUSIC PLAYING ON CAR STEREO]</i>
+
+<i>[OFFICER] Captain Hammers, sir.</i>
+
+<i>Son.</i>
+
+<i>We haven't touched anything.
+We waited for you.</i>
+
+<i>Okay, then,</i>
+
+<i>let's see what we got.</i>
+
+<i>[OFFICER] The witnesses next door
+reported a fight.</i>
+
+<i>[CAMERA SHUTTER CLICKING]</i>
+
+<i>Harvey Ruck.
+Enforcer and bag manÂ for Mr. Cross.</i>
+
+<i>An informant of mineÂ says that Ruck
+and his partner Pepe Ochoa</i>
+
+<i>were supposed to deliver a payoff
+to Mr. CrossÂ from the Sinaloa Cartel.</i>
+
+<i>Looks like Ruck went independent,
+canceled Pepe's ticket.</i>
+
+<i>Took off with the loot.</i>
+
+<i>Do you think the cartel caught him?
+We didn't find any money.</i>
+
+<i>[HAMMERS] Reasonable assumption,
+or Cross did it.</i>
+
+<i>Man's had his hand in everyÂ dirty deal</i>
+
+<i>that ever went down
+in this part of the world.</i>
+
+<i>I've been chasing
+that slippery son of a bitch for years.</i>
+
+<i>I'll bring him down.</i>
+
+<i>Just a matter of time.</i>
+
+<i>Used a nine millimeter.</i>
+
+<i>I want to talk
+to the folks staying next door.</i>
+
+<i>Nice family of four. I let them go, sir.</i>
+
+<i>Let 'em go?</i>
+
+<i>Yes, sir, just before you arrived.
+But I got their statements.</i>
+
+<i>Son...</i>
+
+<i>[OMINOUS MUSIC PLAYING]</i>
+
+<i>...how many murders have you investigated?</i>
+
+<i>One.</i>
+
+<i>Ah.</i>
+
+<i>If that family can ID the killer's voice,</i>
+
+<i>then they are in danger.</i>
+
+<i>And you'll have four more murders
+on your conscience.</i>
+
+<i>I need to talk to that family.</i>
+
+<i>[INDISTINCT CHATTER ON POLICE RADIO]</i>
+
+<i>[MUSIC PLAYING ON STEREO]</i>
+
+<i>[KELLY] How come Reggie gets to drive
+and I don't?</i>
+
+<i>Because you only have
+a learner'sÂ permit for California.</i>
+
+<i>Reggie probably doesn't
+even have a license.</i>
+
+<i>What? Hold... Hold... Hold on.
+I got plenty of licenses.</i>
+
+<i>- [KELLY] Plenty?
+Okay?</i>
+
+<i>- Are they valid?
+Yes. I don't know what you talking about.</i>
+
+<i>- [PHONE RINGING]
+Hello.</i>
+
+<i>Brenda Freeman?</i>
+
+<i>[BRENDA] Yes, who's this?</i>
+
+<i>Mrs. Freeman, I'm Capt.Â JD Hammers
+of the Arizona State Troopers.</i>
+
+<i>I'm in command
+of the homicideÂ investigation</i>
+
+<i>at theÂ Sunset Motel.</i>
+
+<i>It appears I missed you by a minute.
+I need you to come back.</i>
+
+<i>I'm sorry, Captain.</i>
+
+<i>I just want to get my family
+as far away from that motel as possible.</i>
+
+<i>Don't blame you, Mrs. Freeman.</i>
+
+<i>It was a gruesome thing you witnessed.</i>
+
+<i>If you pull over, I'll meet you somewhere.</i>
+
+<i>I need to ask you
+some follow-up questions.</i>
+
+<i>I told your officers everything.</i>
+
+<i>Yes, ma'am. But...</i>
+
+<i>Look, Captain...
+
+<i>I have your number. I promise
+I'll call you as soon as I can talk.</i>
+
+<i>- Ma'am, you don't... Ma'am!
+Have a good day.</i>
+
+<i>Got a bad feeling about this.</i>
+
+<i>Mom, what was that about?</i>
+
+<i>We're... We're not going back, are we?</i>
+
+<i>Hell no.</i>
+
+<i>No, absolutely not.</i>
+
+<i>[CELLPHONE RINGING]</i>
+
+<i>- Hello.
+[DISTORTED VOICE] Hello.</i>
+
+<i>Who is this?</i>
+
+<i>We know what you did.</i>
+
+<i>We know what you took.</i>
+
+<i>- I think you got the wrong number.
+Don't hang up, Brenda.</i>
+
+<i>- How do you know my name?
+Boss man wants his money, Brenda.</i>
+
+<i>Excuse me? What money?</i>
+
+<i>You took his money and he wants it back.</i>
+
+<i>I don't know what you talking about.
+Don't call me back anymore.</i>
+
+<i>- What was that?
+Some weird voice.</i>
+
+<i>Talking about how I took her money.
+Probably trying to scam me.</i>
+
+<i>[CHUCKLES] I ain't got nothing
+for 'em to scam.</i>
+
+<i>[SQUAWKING]</i>
+
+<i>[REGGIE] I mean, think about it,
+double-quarter-pound burger.</i>
+
+<i>That's half a pound, right?</i>
+
+<i>How come they ain't got the guts
+to call it a half-pounder?</i>
+
+<i>Because it's bad marketing.</i>
+
+<i>[CLICKS TONGUE] No.</i>
+
+<i>[CELLPHONE RINGING]</i>
+
+<i>Oh, this asshole again.</i>
+
+<i>Don't answer it.</i>
+
+<i>- What's wrong?
+Nothing's wrong.</i>
+
+<i>Uh-uh.</i>
+
+<i>- I know that look, little brother.
+What look?</i>
+
+<i>Something's going on with you.
+You get twitchy and darty.</i>
+
+<i>- My eyes ain't darty.
+You darty right now.</i>
+
+<i>Like when you got a secret
+or you about to tell a lie. What's up?</i>
+
+<i>[SIGHS]</i>
+
+<i>Damn.</i>
+
+<i>All right.Â All right.Â All right.</i>
+
+<i>I was going to surprise you
+once we got to Houston.</i>
+
+<i>All my life, everybody say
+I'm the family fuck-up,Â right?</i>
+
+<i>- No comment.
+This time, Reggie ain't the problem.</i>
+
+<i>Reggie's the solution.</i>
+
+<i>[UPTEMPO MUSIC PLAYING]</i>
+
+<i>Where'd this come from?</i>
+
+<i>The Lord is our savior,
+fell out the sky right into our laps.</i>
+
+<i>Peep what's inside.</i>
+
+<i>[EXHALES]</i>
+
+<i>- What the...
+The dead dude.</i>
+
+<i>He stashed it under the bathroom sink.</i>
+
+<i>It's gotta be drug money, right?
+I figured this dude is deader than shit.</i>
+
+<i>He can't use this money,
+but I know a needy family who can.</i>
+
+<i>Have you lost your damn mind?</i>
+
+<i>Bren, the dude was dead.
+I mean, like his heart had stopped.</i>
+
+<i>I'm a nurse! I know what a dead dude is.</i>
+
+<i>You thought you were just gonna take this,
+and make our lives better?</i>
+
+<i>- This money could save our lives.
+It can end our lives!</i>
+
+<i>Bren, just say thank you.
+Stop looking on the dark side.</i>
+
+<i>[SCOFFS]</i>
+
+<i>We could turn around
+and go back to Los Angeles rightÂ now.</i>
+
+<i>Save the house and everything.</i>
+
+<i>You stole money from a crime scene, Reg.</i>
+
+<i>The voice onÂ the phone,
+he killed that man for this money.</i>
+
+<i>And?</i>
+
+<i>And their boss knows we have it.
+He knows who we are!</i>
+
+<i>Bren, you overreacting.</i>
+
+<i>He ain't coming back for this.</i>
+
+<i>What if he does? Huh?
+You gonna turnÂ into some street gangster?</i>
+
+<i>Instead of the assistant manager
+at Chick-fil-A?</i>
+
+<i>Hey, that's an elite position. Okay?
+I had to work my way up to that.</i>
+
+<i>You know how many drug tests
+I had to pass? That hurt.</i>
+
+<i>- Okay, we gotta call the police.
+What?</i>
+
+<i>No. You call the police,
+they'll arrest the whole damn family.</i>
+
+<i>They'll say we the ones that murdered him
+to rip his shit off.</i>
+
+<i>We are not criminals.</i>
+
+<i>[SCOFFS] We the next best thing.</i>
+
+<i>We Black.</i>
+
+<i>You want to risk the lives
+of those twoÂ kids?</i>
+
+<i>[CELLPHONE RINGING]</i>
+
+<i>Here she is.</i>
+
+<i>- Bren, don't answer!
+No, Reggie.</i>
+
+<i>- Don't pick it up.
+Get... Reggie, get... get off!</i>
+
+<i>[GROANS]</i>
+
+<i>We have your money.
+We want to give it back.</i>
+
+<i>Where are you?</i>
+
+<i>I'm not gonna tell you that.</i>
+
+<i>Worried about your family? You should be.</i>
+
+<i>Look, you'll get your money back,
+but it'll be on my terms, okay?</i>
+
+<i>I'll call you back.</i>
+
+<i>I thought about what you said.</i>
+
+<i>You're right.
+You have every right to be angry.</i>
+
+<i>Let's just keep half the money.</i>
+
+<i>[SUSPENSEFUL MUSIC PLAYING]</i>
+
+<i>[KELLY] Yeah, in the very next room.</i>
+
+<i>[GAME SOUND EFFECTS PLAYING]</i>
+
+<i>Yeah, Zac, he was murdered.
+I mean, there was blood everywhere.</i>
+
+<i>[SUSPENSEFUL MUSIC CONTINUES]</i>
+
+<i>[MUSIC PLAYING ON HEADPHONES]</i>
+
+<i>[GRUNTS]</i>
+
+<i>[SUSPENSEFUL MUSIC CONTINUES]</i>
+
+<i>[BREATHES DEEPLY]</i>
+
+<i>[LINE RINGING]</i>
+
+<i>[DISTORTED VOICE]
+This is our game, Brenda.</i>
+
+<i>You don't make the rules. Mr. Cross does.</i>
+
+<i>The bag is in room 33
+at the Center Star Inn.</i>
+
+<i>It's in the closet on the top shelf.</i>
+
+<i>You're not hearing me.</i>
+
+<i>The key will be under the mat
+outside theÂ door.</i>
+
+<i>Get your money.</i>
+
+<i>[DISCONNECTS]</i>
+
+<i>[BREATHING DEEPLY]</i>
+
+<i>[RETCHES]</i>
+
+<i>[VOMITS]</i>
+
+<i>Let's go.</i>
+
+<i>Yeah, let's hurry up
+back on the road to nowhere.</i>
+
+<i>Mom, what were you doing?</i>
+
+<i>I was getting some tourist brochures.
+Check it out.</i>
+
+<i>We're not tourists.</i>
+
+<i>We're seeing
+a whole new part of the country.</i>
+
+<i>Maybe we should take advantage of it.
+You know, soak up some culture.</i>
+
+<i>Seriously? This place has culture?</i>
+
+<i>Look, after last night, I just think
+we all need to relax and breathe a little.</i>
+
+<i>Feel like normal people again.</i>
+
+<i>Ain't nothing normal about this place.</i>
+
+<i>[QUIETLY] Shut your ass up.</i>
+
+<i>[INSTRUMENTAL MUSIC PLAYING]</i>
+
+<i>[ANNOUNCER]</i> Howdy, folks.</i>
+Welcome to Old Bravo.</i>
+
+<i>The town where the Wild WestÂ never dies!</i>
+
+<i>- [LAUGHING]
+Get him!</i>
+
+<i>Oh, no! You got me.</i>
+
+<i>Come on in.</i>
+
+<i>[SNORING]</i>
+
+<i>[SCREAMS]</i>
+
+<i>- Dork.
+No, I'm not.</i>
+
+<i>- You're in jail.
+What?</i>
+
+<i>- Yeah.
+No.</i>
+
+<i>- You're in jail.
+Oh.</i>
+
+<i>[REGGIE] Brenda, you my big sister,
+I love you.</i>
+
+<i>But you definitely justÂ messed up
+the best thingÂ that ever happened to us.</i>
+
+<i>That money would've got rid
+of all our problems.</i>
+
+<i>All money is not good money, Reg.</i>
+
+<i>Whatever. That's Jake talking.</i>
+
+<i>You damn right that's Jake talking.
+You gonna bring up my dead husband?</i>
+
+<i>You know what? Why not?</i>
+
+<i>Jake was a hero, Jake was a god,
+'cause Jake always did what was right.</i>
+
+<i>And remind me what good it did Jake</i>
+
+<i>when he needed chemo and radiation,
+didn't have the money for it.</i>
+
+<i>I got the money!</i>
+
+<i>You got the money by getting yourself
+so far in debt you lost your house.</i>
+
+<i>Let your own kids down!</i>
+
+<i>- You a asshole, you know that?
+Yeah, I know it.</i>
+
+<i>I've known it my whole life.</i>
+
+<i>'Cause people constantly reminding me.</i>
+
+<i>You know what? Maybe I am
+just an assistant manager at Chick-fil-A.</i>
+
+<i>That don't mean
+I don't have my ownÂ dreams too.</i>
+
+<i>You killed those dreams.</i>
+
+<i>I was just trying to make things better.</i>
+
+<i>That's all I was doing.</i>
+
+<i>[KIDS CHATTERING]</i>
+
+<i>[LAUGHS SOFTLY]</i>
+
+<i>You all I got, sis.</i>
+
+<i>I love you and those kids.</i>
+
+<i>You know that.</i>
+
+<i>I wasn't trying to hurt nobody.</i>
+
+<i>I know, Reg.</i>
+
+<i>I loved Jake too.</i>
+
+<i>I know.</i>
+
+<i>Seems like every day
+the man upstairs is testing us.</i>
+
+<i>[CREAKING]</i>
+
+<i>[ETHEREAL MUSIC PLAYING]</i>
+
+<i>- This is really peaceful.
+Yeah.</i>
+
+<i>[CAM GROANS]</i>
+
+<i>I gotta use the restroom.</i>
+
+<i>Uh, Reg, go with him.</i>
+
+<i>Mom, I'm not a little kid anymore.</i>
+
+<i>Okay. Come straight back.</i>
+
+<i>Okay. Okay.</i>
+
+<i>Hurry up.</i>
+
+<i>[BELL TOLLING]</i>
+
+<i>[ANNOUNCER] Hey, folks. You hear that?</i>
+
+<i>It's high noon.</i>
+
+<i>And there's a duel happening.
+Come on down!</i>
+
+<i>[APPLAUSE]</i>
+
+<i>- Feels kind of real.
+Who you got?</i>
+
+<i>- My man right there.
+Yep.</i>
+
+<i>[CELLPHONE RINGING]</i>
+
+<i>What?</i>
+
+<i>[DISTORTED VOICE]</i> Last person</i>
+who took Mr. Cross for a fool is dead.</i>
+
+<i>We want our money.</i>
+
+<i>The money is there. It's in the room.</i>
+
+<i>Then go get it.</i>
+
+<i>I'm not going back there.</i>
+
+<i>You have something of his, Brenda.</i>
+
+<i>- And now Mr. Cross has something of yours.
+[MUFFLED SCREAMING]</i>
+
+<i>[GUNSHOT]</i>
+
+<i>Bren?</i>
+
+<i>He's here. Cross is here. Go find Cameron.
+Bring him straight to the car.</i>
+
+<i>- Come on, we gotta go.
+Whoa!</i>
+
+<i>- What is wrong?
+Don't ask questions, just do as I say.</i>
+
+<i>Cam! Cam, you in there, little buddy?
+Come on.</i>
+
+<i>Come on, little man, let's boogie.
+We gotta roll.</i>
+
+<i>My bad.</i>
+
+<i>I'm sorry.</i>
+
+<i>You drop this?</i>
+
+<i>Oh, shit!</i>
+
+<i>Cam!</i>
+
+<i>Cam! Cam?</i>
+
+<i>[ACCORDION MUSIC PLAYING]</i>
+
+<i>[PATRONS CLAPPING RHYTHMICALLY]</i>
+
+<i>- Are you gonna tell me what's going on?
+Just Just get in the car right now.</i>
+
+<i>Oh, my God.</i>
+
+<i>Okay, I'm in. Now what?</i>
+
+<i>[CELLPHONE RINGING]</i>
+
+<i>[LOW VOICE] Hello, Brenda.</i>
+
+<i>This is Mr. Cross.</i>
+
+<i>He's with me.</i>
+
+<i>Please, just don't hurt him, okay?</i>
+
+<i>[CROSS] Call the police,
+or fuck with me again,</i>
+
+<i>and I'll grab your daughter next.</i>
+
+<i>Please, for the love of God,
+just don't do this.</i>
+
+<i>You have two hours to retrieve my money.</i>
+
+<i>Then bring it back
+to Old Bravo and call me.</i>
+
+<i>Or your son is dead.</i>
+
+<i>Mama! Mama!</i>
+
+<i>[SOBS] Help!</i>
+
+<i>- Cam?
+Swear to God, if he hurts that boy...</i>
+
+<i>I gotta get back to that motel
+and get the money.</i>
+
+<i>Mom, what's happening? Where's Cam?</i>
+
+<i>- Cam has been abducted.
+Abducted?</i>
+
+<i>Reggie will explain it to you
+but right now I gotta go.</i>
+
+<i>Go where? Where are you going?</i>
+
+<i>I got to get Cam,
+but I need to leaveÂ you here.</i>
+
+<i>No! No, no, no!
+He's my brother, I'm coming with you.</i>
+
+<i>Listen to me. I cannot worry about you
+and your brother and do this.</i>
+
+<i>Just wait for me, I'll call you.</i>
+
+<i>Mom! Mom! Don't.</i>
+
+<i>- Mom, wait, please.
+[ENGINE STARTS]</i>
+
+<i>- No, no, no. Come on.
+Mom!</i>
+
+<i>I got you.Â I got you.</i>
+
+<i>- Mom!
+Kelly, trust her.</i>
+
+<i>Mom!</i>
+
+<i>[SOFTLY] I'm sorry, baby.</i>
+
+<i>Mom!</i>
+
+<i>- Mom!
+[CAR HONKING]</i>
+
+<i>[DRAMATIC MUSIC PLAYING]</i>
+
+<i>[CARS HONKING]</i>
+
+<i>- Come on, move!
+[HONKING]</i>
+
+<i>[HONKING]</i>
+
+<i>You better not hurt my baby.</i>
+
+<i>[SIREN SQUAWKS]</i>
+
+<i>In pursuit of a speeding Chevy Suburban.
+Headed westbound, east of Old Bravo town.</i>
+
+<i>[WOMAN]</i> Capt. Hammers, we got a hit</i>
+on your plate request</i>
+
+<i>coming out ofÂ Old Bravo.
+Driver is a female, Black.</i>
+
+<i>This is State Trooper Captain Hammers.
+She's a witness.</i>
+
+<i>If the cartel or Cross spot you,
+they'll kill her. Fall back.</i>
+
+<i>Do not pursue.</i>
+
+<i>I repeat, do not pursue.</i>
+
+<i>Oh, my God.</i>
+
+<i>"Don't worry"?</i>
+
+<i>[CRYING] The last three months of my life
+have felt like a bad nightmare</i>
+
+<i>that just keeps getting worse.</i>
+
+<i>I know.</i>
+
+<i>I can still feel him, Reggie.</i>
+
+<i>Like Daddy isn't dead, you know?</i>
+
+<i>I can hear his voice
+and I can see his face.</i>
+
+<i>And I don't...
+And I don't want to let that go.</i>
+
+<i>[SOBBING] I don't want to lose him.</i>
+
+<i>Your dad is always goingÂ to be with you.
+You hear me?</i>
+
+<i>Trust that.</i>
+
+<i>And your mom's going
+to get Cam back. I promise.</i>
+
+<i>Reggie, come on.
+Please tell me what's going on.</i>
+
+<i>I messed up, Kelly.</i>
+
+<i>I messed up big-time.</i>
+
+<i>[TENSE MUSIC PLAYING]</i>
+
+<i>What?</i>
+
+<i>No!</i>
+
+<i>What? Okay.</i>
+
+<i>Breathe. Breathe.Â Breathe.Â Breathe.</i>
+
+<i>Hey!</i>
+
+<i>Hey!</i>
+
+<i>Stop! No!</i>
+
+<i>Stop! Stop!Â Stop!</i>
+
+<i>No! No, please! Wait, please!</i>
+
+<i>No!</i>
+
+<i>Stop!</i>
+
+<i>[PANTING]</i>
+
+<i>["START A RIOT" PLAYING]</i>
+
+<i>I see you.</i>
+
+<i>Fuck.</i>
+
+<i>Thieving bitch.</i>
+
+<i>Stop!</i>
+
+<i>Stop that car!</i>
+
+<i>Fuck!</i>
+
+<i>I see you! Where you going?</i>
+
+<i>[RAPPING CONTINUES]</i>
+
+<i>[SOUND DISTORTS]</i>
+
+<i>[SOUND RESUMES]</i>
+
+<i>[SONG ENDS]</i>
+
+<i>- My bag! Give it back.
+[WOMAN SCREAMS]</i>
+
+<i>Kiss my ass!</i>
+
+<i>Give me back my bag, you little thief!</i>
+
+<i>[MAN] Yo!</i>
+
+<i>Drop the bat.</i>
+
+<i>Whoa. Just... Just... put that down.</i>
+
+<i>Shut the hell up.</i>
+
+<i>I'll blow your ass back to Africa.</i>
+
+<i>Mace!</i>
+
+<i>[TENSE MUSIC PLAYING]</i>
+
+<i>[DOOR OPENS]</i>
+
+<i>[PEOPLE WHISTLING]</i>
+
+<i>[MACE] Holy shit.</i>
+
+<i>[PEOPLE WHOOPING]</i>
+
+<i>What do we got here?</i>
+
+<i>This woman here, she stole my property,
+but I got it back now.</i>
+
+<i>So I'll just go get my car and go now.
+I don't want any trouble.</i>
+
+<i>Oh, that's too bad.</i>
+
+<i>It looks like you got it.</i>
+
+<i>Look, I don't have time for this.</i>
+
+<i>Hey, show me what's in the bag.</i>
+
+<i>[BRENDA] No.</i>
+
+<i>[THUNDER CRACKING]</i>
+
+<i>I'm leaving.</i>
+
+<i>[GRUNTS]</i>
+
+<i>[PEOPLE WHISTLING, CHEERING]</i>
+
+<i>[LAUGHING]</i>
+
+<i>Would you look at that?</i>
+
+<i>[LINE RINGING]</i>
+
+<i>Mom, pick up.</i>
+
+<i>This is Brenda,
+please leave it at the tone.</i>
+
+<i>[VOICE WAVERING] Mom, uh,
+we are at Lucky 13 restaurant,</i>
+
+<i>right outside of Old Bravo, okay?</i>
+
+<i>Can you please call me?</i>
+
+<i>Reggie just told me everything
+and I'm really scared.</i>
+
+<i>[FAINT MUSIC PLAYING]</i>
+
+<i>Begging your pardon.</i>
+
+<i>Would you be the Freemans?</i>
+
+<i>Captain Hammers
+of the Arizona StateÂ Troopers.</i>
+
+<i>I'm looking into the homicide</i>
+
+<i>that took place last night
+at the Sunset Motel.</i>
+
+<i>I didn't spot y'all atÂ Old Bravo
+so I figured you'd be here.</i>
+
+<i>There's no place else to eat for miles.</i>
+
+<i>- Sir, we already talked to the police.
+I know.</i>
+
+<i>Mind if I join you?</i>
+
+<i>Darling, bring me a big old glass
+of iced tea, extra sweet, lots of ice.</i>
+
+<i>- Thanks.
+Sure, Captain.</i>
+
+<i>And, uh...</i>
+
+<i>you'd be Kelly.</i>
+
+<i>And you'd be the uncle.</i>
+
+<i>Reginald Beaumont.</i>
+
+<i>Hmm. Which accounts for two of you.</i>
+
+<i>Now, as to your mom and brother,</i>
+
+<i>your mom was last seen driving
+south ofÂ here like a bat out of hell.</i>
+
+<i>Where's your brother Cam?</i>
+
+<i>Um, he was with her, sir.</i>
+
+<i>Probably didn't see him
+because he'sÂ little for his age.</i>
+
+<i>Hmm.</i>
+
+<i>- [WAITRESS] Super sweet.
+Thank you.</i>
+
+<i>Now, how about we cut the bullshit?</i>
+
+<i>There's a fortune in missing drug money.</i>
+
+<i>And if your mom's got it,
+she's in a whole world of danger.</i>
+
+<i>Because it either belongs
+to the Sinaloa Cartel,</i>
+
+<i>or a Mr. Cross,</i>
+
+<i>a man who's the most dangerous criminal
+in the Southwest.</i>
+
+<i>He's murdered at least 50 people.</i>
+
+<i>You want to see
+your mom and brother alive again?</i>
+
+<i>You need to tell me where they are.</i>
+
+<i>Or don't.</i>
+
+<i>It's their funeral.</i>
+
+<i>[BREATHES DEEPLY] Reggie.</i>
+
+<i>Sir! Sir, wait.</i>
+
+<i>[PANTING] My brother's been kidnapped.
+Can you please help us?</i>
+
+<i>It was Mr. Cross.</i>
+
+<i>Please.</i>
+
+<i>- [LOUD MUSIC PLAYING]
+[PEOPLE CHEERING]</i>
+
+<i>[MUFFLED GRUNTING]</i>
+
+<i>- Not so fast, bitch.
+[BRENDA GROANS]</i>
+
+<i>[GROANS IN PAIN]</i>
+
+<i>Best place to lie low is my ranch.</i>
+
+<i>Mom should have called us by now.</i>
+
+<i>[TENSE MUSIC PLAYING]</i>
+
+<i>What? What's wrong?</i>
+
+<i>SUV's been trailing us
+for the last five miles.</i>
+
+<i>I slow down, he slows down.</i>
+
+<i>I speed up, he speeds up.</i>
+
+<i>You think it's Mr. Cross?</i>
+
+<i>I don't think
+he'd get his hands dirty like this.</i>
+
+<i>Might be one of his goons.</i>
+
+<i>Let's not take any chances.</i>
+
+<i>But I'm gonna ask you both
+to duck down in your seats.</i>
+
+<i>[TIRES SQUEALING]</i>
+
+<i>- [UNCOCKS GUN]
+You can come up for air.</i>
+
+<i>Sorry to scare you like that,
+but I hadÂ to be sure.</i>
+
+<i>You think that dude is gonna try
+and smoke my sister and nephew?</i>
+
+<i>I'm not gonna let that happen.</i>
+
+<i>[LOUD ROCK MUSIC PLAYING]</i>
+
+<i>[BRENDA] No! Let me go.</i>
+
+<i>Yo, Mace! Look who's all woke up.</i>
+
+<i>[MAN] Look who's here.</i>
+
+<i>Big Mama wants some action too.</i>
+
+<i>- [BRENDA] Get off of me!
+Well...</i>
+
+<i>you know what they say?</i>
+
+<i>Once you go white,
+you ain't ever walking right. [LAUGHING]</i>
+
+<i>[ALL EXCLAIM]</i>
+
+<i>- Oh, you...
+Fuck, get off of me!</i>
+
+<i>- Let me go.
+Bitch broke my nose.</i>
+
+<i>Let me go
+or I'll snap her scrawny red neck.</i>
+
+<i>Do it. That's one less slut.</i>
+
+<i>[HEAVY METAL MUSIC PLAYING]</i>
+
+<i>[MAN SCREAMS]</i>
+
+<i>[MACE] Get the money!</i>
+
+<i>[BRENDA] Get away from that!</i>
+
+<i>Give me back my bag.</i>
+
+<i>You ain't going nowhere.</i>
+
+<i>- [BRENDA] No! No! Please.Â Please.
+[MAN] Get the bag!</i>
+
+<i>No!</i>
+
+<i>Son of a...</i>
+
+<i>- Here you go,Â Mace.
+[BRENDA] That's my bag.</i>
+
+<i>[MEN] Whoa!</i>
+
+<i>Easy now.</i>
+
+<i>I need that money to get my sonÂ back.</i>
+
+<i>Don't give two shits about your son.</i>
+
+<i>Yeah, fuck her!
+Yeah, she won't use that gun.</i>
+
+<i>[SCREAMING]</i>
+
+<i>Oh, God!</i>
+
+<i>Mace, bitch shot off my leg!</i>
+
+<i>I missed! I was aiming for your balls.</i>
+
+<i>I got one more shot in this gun.
+Who wants it?</i>
+
+<i>Huh?</i>
+
+<i>You can't shoot us all.</i>
+
+<i>I won't have to.</i>
+
+<i>The money in that bag
+belongs to Mr. Cross.</i>
+
+<i>You heard of him?</i>
+
+<i>I wonder what he would do
+if he finds out who stole his money.</i>
+
+<i>Put the fucking money back in the bag.</i>
+
+<i>Go on, do it.</i>
+
+<i>- [BRENDA] All of it.
+[MACE] Get it in!</i>
+
+<i>- Hurry up!
+[MAN] Do what he says.</i>
+
+<i>[MACE] Jesus Christ.</i>
+
+<i>Look.</i>
+
+<i>There ain't no reason
+to tell him about allÂ this, huh?</i>
+
+<i>No harm, no foul. Right?</i>
+
+<i>I'll think about that
+when I'm driving away.</i>
+
+<i>[HAMMERS] If Mr. Cross
+or any of his friends decide to show up,</i>
+
+<i>my wife ValÂ is as handy
+with a gun as I am.</i>
+
+<i>[COUNTRY MUSIC PLAYING ON STEREO]</i>
+
+<i>[DOG BARKING]</i>
+
+<i>[REGGIE] Whoa.Â Whoa.Â Whoa.</i>
+
+<i>Don't worry about him. He's friendly.</i>
+
+<i>- I do not like dogs.
+Even the teeny-weeny ones freak him out.</i>
+
+<i>Well, it's the teeny-weeny ones
+that have the sharpest bite.</i>
+
+<i>Go!</i>
+
+<i>- Hello, woman. [LAUGHS]
+Hello, man.</i>
+
+<i>This isÂ Kelly Freeman
+and her uncle Reggie.</i>
+
+<i>They're from California.</i>
+
+<i>- Ma'am.
+Well, how do you do? Nice to meet you.</i>
+
+<i>- Hello, Kelly.
+Hi.</i>
+
+<i>Are you hungry, child?</i>
+
+<i>Oh, no, thank you. We're good.</i>
+
+<i>Reggie, Kelly, lend me a hand, please.</i>
+
+<i>I had to give him a shot to put him out,
+so he might be groggy.</i>
+
+<i>- [CAM STRUGGLING]
+Oh, fuck no!</i>
+
+<i>[COCKS GUN]</i>
+
+<i>See? Boy's safe and sound.</i>
+
+<i>- Cam.
+You dead,Â motherfucker.</i>
+
+<i>Nope. Alive and kicking.</i>
+
+<i>[SHOTGUN COCKS]</i>
+
+<i>Boss man.</i>
+
+<i>You and your surprises.</i>
+
+<i>I know. I couldn't resist.</i>
+
+<i>Now, where's my money?</i>
+
+<i>[TENSE MUSIC PLAYING]</i>
+
+<i>[KELLY]</i> Mom, uh,</i>
+we are at Lucky 13 restaurant,</i>
+
+<i>right outside of Old Bravo, okay?</i>
+
+<i>Can you please call me?</i>
+
+<i>Reggie just told me everything
+and I'm really scared.</i>
+
+<i>[PANTING]</i>
+
+<i>Where... Where's my family?</i>
+
+<i>Come on.</i>
+
+<i>[LINE RINGING]</i>
+
+<i>Come on, baby, pick up the phone.
+Pick it up. Pick it up, Kelly.Â Pick it up.</i>
+
+<i>[CELLPHONE BUZZING]</i>
+
+<i>That's her.</i>
+
+<i>Ah, she's probably calling to say
+she's got the money and is on her way.</i>
+
+<i>You have had one hell of a 24 hours, JD.</i>
+
+<i>[CHUCKLES] My own damn fault.</i>
+
+<i>I underestimatedÂ Harvey Ruck.</i>
+
+<i>He didn't know I put a tracker on his car,</i>
+
+<i>so he wasn'tÂ hard to find.</i>
+
+<i>Son of a bitch was feeling brave.</i>
+
+<i>I had no other choice.</i>
+
+<i>[WHEEZING]</i>
+
+<i>Problem was, I had to clear out
+before I could find theÂ money.</i>
+
+<i>Figured I'd get it
+when I came backÂ in myÂ official capacity.</i>
+
+<i>But now we'll get our money back
+from Mrs. Freeman.</i>
+
+<i>Oh.</i>
+
+<i>We will, you will.</i>
+
+<i>You're a good man.</i>
+
+<i>My good man.</i>
+
+<i>Love you to death.</i>
+
+<i>[CAM CRYING]</i>
+
+<i>Listen to me, nothing bad is gonna happen.</i>
+
+<i>I will not let
+anything bad happen to y'all.</i>
+
+<i>Once your mom gets here with the money,
+they'll let us go.</i>
+
+<i>I promise. You hear me?</i>
+
+<i>[CELLPHONE RINGING]</i>
+
+<i>Where's my family?</i>
+
+<i>[DISTORTED VOICE]</i> We're sending you</i>
+a family portrait.</i>
+
+<i>[CELLPHONE CHIMES]</i>
+
+<i>[CROSS] Don't be late.</i>
+
+<i>Or the throat cutting starts without you.</i>
+
+<i>[BRENDA] Oh, shit.</i>
+
+<i>[TENSE MUSIC PLAYING]</i>
+
+<i>This is the trap for Mom,
+and he's using us as bait.</i>
+
+<i>We have to find a way out of here.</i>
+
+<i>Yeah, how? This place
+looks like Jigsaw's basement.</i>
+
+<i>What about that?</i>
+
+<i>[TENSE MUSIC CONTINUES]</i>
+
+<i>Oh, God.</i>
+
+<i>Oh, my God!</i>
+
+<i>- [KELLY] But it's rusted shut.
+Here, Kelly.</i>
+
+<i>- Okay, but what if they hear us upstairs?
+[REGGIE] They won't.</i>
+
+<i>This is housebreaking 101.
+Cam, hand me one of those rags over there.</i>
+
+<i>Good. Wrap the rag
+around the end of the broom.</i>
+
+<i>All right, take the end of it,
+gently press it up against the glass,</i>
+
+<i>directly in the middle,
+then give it a fast punch.</i>
+
+<i>Just pop it.</i>
+
+<i>[NERVOUSLY] Okay.</i>
+
+<i>- Go ahead.Â Go ahead.
+Can you give me a lift?</i>
+
+<i>- [DOG BARKS]
+[KELLY SCREAMS]</i>
+
+<i>Oh, my God!</i>
+
+<i>[GROANS] It bit me.</i>
+
+<i>Oh, God.</i>
+
+<i>Shut the hell up, Cujo,
+before I whoop your ass!</i>
+
+<i>- Here.
+[HAMMERS WHISTLES] Here, boy!</i>
+
+<i>Steady. Steady.Â Steady.</i>
+
+<i>He's coming.Â He's coming.</i>
+
+<i>- [GROANS]
+Sorry, sorry! Here.</i>
+
+<i>[ENGINE STALLING]</i>
+
+<i>[BRENDA] Come on!</i>
+
+<i>Damn!</i>
+
+<i>All right.</i>
+
+<i>Should have warned you about my alarm dog.</i>
+
+<i>Got some good news though.
+Your mama's almost here.</i>
+
+<i>Y'all need to come back upstairs.</i>
+
+<i>Sorry you got caught in the crossfire,
+but soon as I get my money,</i>
+
+<i>you're free to go.</i>
+
+<i>- Just gonna let us go on our merry way?
+That's right.</i>
+
+<i>You a goddamn liar.</i>
+
+<i>What did you say?</i>
+
+<i>You heard me, cracker.</i>
+
+<i>You can take this country, "aw, shucks,"
+fake Southern hospitality bullshit,</i>
+
+<i>and shove it right up
+your tight cowboy ass.</i>
+
+<i>I ain't gonna let you hurt these kids.</i>
+
+<i>You gonna need to learn some respect, boy.</i>
+
+<i>Perfect.</i>
+
+<i>- [SCREAMS]
+Clorox, motherfucker!</i>
+
+<i>[HAMMERS SCREAMING]</i>
+
+<i>JD! JD!</i>
+
+<i>Kelly!</i>
+
+<i>[GROANS]</i>
+
+<i>Damn, I thought she was a nice old lady.</i>
+
+<i>[KELLY PANTING]</i>
+
+<i>[SCREAMS]</i>
+
+<i>Reggie!</i>
+
+<i>[GROANING]</i>
+
+<i>Lose that knife.</i>
+
+<i>I said lose that knife.</i>
+
+<i>Well, look at you, little man.</i>
+
+<i>You ain't gonna shoot me.</i>
+
+<i>You're right.</i>
+
+<i>He won't. But I will.</i>
+
+<i>Drop the knife.</i>
+
+<i>[GROANS]</i>
+
+<i>[VOICE WAVERING]
+We wasn't going to hurt you.</i>
+
+<i>Bitch,</i>
+
+<i>get your evil, Martha-Stewart-looking ass
+down them steps.</i>
+
+<i>Now!</i>
+
+<i>- Bitch, get your...
+[SCREAMS]</i>
+
+<i>Girl, give me this weapon. Get our phones.</i>
+
+<i>Let's get the fuck out
+of this psycho house.</i>
+
+<i>[REGGIE GROANS]</i>
+
+<i>Thanks, little man.</i>
+
+<i>Please don't die.</i>
+
+<i>I got you. I ain't going nowhere, okay?
+You hear me?</i>
+
+<i>I promise. I ain't going nowhere.</i>
+
+<i>- Okay?
+Okay.</i>
+
+<i>Now, let's get out of here.
+Come on, we got to find your mom.</i>
+
+<i>- JD, they're getting away.
+[HAMMERS GROANING]</i>
+
+<i>- Are you okay?
+The little shit poured bleach in my eyes.</i>
+
+<i>Can you see?</i>
+
+<i>Good enough to hit what I aim at.</i>
+
+<i>[HAMMERS KICKING DOOR]</i>
+
+<i>- [LINE RINGING]
+[KELLY] Mom, come on. Pick up please.</i>
+
+<i>Please. Please, please, please.</i>
+
+<i>- Come on.
+[BRENDA] Kelly!</i>
+
+<i>Mom? Mommy, where are you?</i>
+
+<i>I think I'm almost there,
+but my phone is dying.</i>
+
+<i>I think I can hear you
+but I can't see you.</i>
+
+<i>Mom, where are you?</i>
+
+<i>- [TWIGS SNAP]
+Mom!</i>
+
+<i>- Cam!
+Mom!</i>
+
+<i>Oh, my God!</i>
+
+<i>- Mama!
+Oh, Kelly!</i>
+
+<i>Oh, Cam, my baby.</i>
+
+<i>[GROANS]</i>
+
+<i>Mom, Reggie, he kept us all safe.</i>
+
+<i>Thank you, Reg.</i>
+
+<i>Thank you for my children.</i>
+
+<i>They're all I got.</i>
+
+<i>You too, big sis.</i>
+
+<i>[KELLY] Okay, Mom, listen to me.</i>
+
+<i>Mr. Cross is an Arizona State Trooper.
+He's... He's the captain.</i>
+
+<i>- What?
+Capt. Hammers is Mr. Cross.</i>
+
+<i>And he's corrupt and evil,
+and his crazy wife is just as bad.</i>
+
+<i>They were gonna kill all of us.</i>
+
+<i>- He's what? Where are they now?
+Locked in the cellar.</i>
+
+<i>Well, we better move.</i>
+
+<i>Wait, wait, wait! What about the money?</i>
+
+<i>It stays to pay for our escape.</i>
+
+<i>Come on, sis.
+Hammers, Cross,Â whatever his name is,</i>
+
+<i>he's not gonna honor that deal.</i>
+
+<i>You know that.</i>
+
+<i>It stays.</i>
+
+<i>Tell me that's your final offer.</i>
+
+<i>I'll put it where
+the schizophrenic asshole can't miss it.</i>
+
+<i>Come on. Let's go.</i>
+
+<i>[LOUD THUMPING]</i>
+
+<i>- Give me my shotgun.
+Here.</i>
+
+<i>Go!</i>
+
+<i>[VAL] Where are they?</i>
+
+<i>[HAMMERS] Look.</i>
+
+<i>They can't be far.</i>
+
+<i>Look what we got.</i>
+
+<i>Time to go hunting.</i>
+
+<i>[BRENDA] Don't start the car until I yell.</i>
+
+<i>You got this, Kelly. You got this.</i>
+
+<i>- All right. Let's get this baby started.
+Okay, Kelly, go.</i>
+
+<i>[ENGINE STALLING]</i>
+
+<i>- Come on.
+[BRENDA] Come on, please.</i>
+
+<i>- Reg, you're gonnaÂ have to fix this.
+I'm on it.</i>
+
+<i>[VAL] Which way?</i>
+
+<i>[HAMMERS] Don't know. Lost their tracks.</i>
+
+<i>[CAM] I think it's the fan belt.</i>
+
+<i>- You a smart kid, you know that?
+Thanks.</i>
+
+<i>Become a scientist when you grow up.
+Help change the world for the better.</i>
+
+<i>- Make Uncle Reg proud.
+I got you, Uncle Reg.</i>
+
+<i>All right, move back.</i>
+
+<i>Okay, start the engine.</i>
+
+<i>Okay. Okay, okay, okay.</i>
+
+<i>[ENGINE TURNS OVER]</i>
+
+<i>- Yes!
+[BRENDA] Yes!</i>
+
+<i>Oh! Oh...</i>
+
+<i>[BRENDA] There you go.</i>
+
+<i>- Yes!
+Yeah!</i>
+
+<i>- We did it!
+[ALL LAUGHING]</i>
+
+<i>[LAUGHTER, CHEERING CONTINUES]</i>
+
+<i>Got you.</i>
+
+<i>[SUSPENSEFUL MUSIC PLAYING]</i>
+
+<i>Can we just keep driving
+until we get to Grandma's?</i>
+
+<i>Absolutely.</i>
+
+<i>We only stopping for gas.</i>
+
+<i>[SCOFFS] I heard that.</i>
+
+<i>Amen.</i>
+
+<i>- Oh, shit, we got company.
+What?</i>
+
+<i>Hold her steady.</i>
+
+<i>Drive!</i>
+
+<i>[ENGINE REVVING]</i>
+
+<i>[GUNSHOTS]</i>
+
+<i>- Get down!
+I think I got their attention.</i>
+
+<i>[LAUGHING]</i>
+
+<i>[ALL EXCLAIMING]</i>
+
+<i>- [BRENDA] Oh, my God!
+Take this. It's us or them.</i>
+
+<i>Come on, Mom. Focus and squeeze,
+like Grandpa taught you.</i>
+
+<i>Nobody messes with my family.</i>
+
+<i>[HAMMERS] We got a live one.</i>
+
+<i>Damn her! I can't see.</i>
+
+<i>- Yes!
+[REGGIE] Did you get 'em?</i>
+
+<i>- [KIDS] Hell yeah.
+Yeah, but keep driving. Don't slow down.</i>
+
+<i>[GRUNTING]</i>
+
+<i>[SUSPENSEFUL MUSIC CONTINUES]</i>
+
+<i>[PANTING]</i>
+
+<i>They're back.</i>
+
+<i>[CAM] Oh, God!</i>
+
+<i>- No, no, no!
+No!</i>
+
+<i>- Missed me, motherfucker!
+[BRENDA] Reggie, keep it steady.</i>
+
+<i>[REGGIE] Bren, be careful.</i>
+
+<i>- Mom!
+Oh, no!</i>
+
+<i>I got you now.</i>
+
+<i>[VAL CACKLING]</i>
+
+<i>Hang on, I got this.</i>
+
+<i>[KELLY] Be careful.</i>
+
+<i>Mom, get back! Get back!</i>
+
+<i>Look out!</i>
+
+<i>- Mom!
+Mom!</i>
+
+<i>Stop the car! Reg, stop the car!</i>
+
+<i>- [CAM] Mom!
+[KELLY] No!</i>
+
+<i>This is my game.</i>
+
+<i>You broke the rules.</i>
+
+<i>Bye-bye.</i>
+
+<i>No. No.</i>
+
+<i>No! No! No!</i>
+
+<i>- [KELLY] Mom?
+[CAM] Mama!</i>
+
+<i>[DISTORTED SCREAM]</i>
+
+<i>[LAUGHING AND WHOOPING]</i>
+
+<i>[KELLY] Oh, my God.</i>
+
+<i>All right, enough. Enough!Â Enough!</i>
+
+<i>You want me? Just take me.</i>
+
+<i>Take me, okay, please?</i>
+
+<i>Please!</i>
+
+<i>- [ENGINE STARTS]
+[WHIMPERS] No, Mom, no.</i>
+
+<i>[ENGINE REVVING]</i>
+
+<i>[PANTING]</i>
+
+<i>Like shooting fish in a barrel.</i>
+
+<i>- Jump, kids! Get out, now!
+[KELLY] Cam, go!</i>
+
+<i>No.</i>
+
+<i>[SCREAMS]</i>
+
+<i>[PANTING]</i>
+
+<i>[PANTING]</i>
+
+<i>I make my own rules.</i>
+
+<i>Son of a bitch.</i>
+
+<i>- [KELLY] Hey, Mom?
+[CAM] Mom!</i>
+
+<i>Oh, baby.</i>
+
+<i>[EMOTIONAL MUSIC PLAYING]</i>
+
+<i>You're okay.</i>
+
+<i>It's over now.Â It's over now.</i>
+
+<i>All right.</i>
+
+<i>This nightmare's over.</i>
+
+<i>I got you.</i>
+
+<i>I'm never letting go.</i>
+
+<i>- Never.
+Okay.</i>
+
+<i>Come on, bro.</i>
+
+<i>You too.</i>
+
+<i>You too.</i>
+
+<i>You know the drill.</i>
+
+<i>Come on.</i>
+
+<i>[REGGIE] Oh, thank God.</i>
+
+<i>[EMOTIONAL MUSIC CONTINUES]</i>
+
+<i>Thank you, Jake.</i>
+
+<i>Thank you.</i>
+
+<i>[ENGINE STARTS]</i>
+
+<i>Reggie?</i>
+
+<i>Drive this car
+and do not stop until you hit Texas.</i>
+
+<i>Yeah.</i>
+
+<i>[FAINT MUSIC PLAYING]</i>
+
+<i>[SIGHS]</i>
+
+<i>Thank you.</i>
+
+<i>Y'all enjoy it.</i>
+
+<i>Listen, uh, y'all ain't got to worry
+about the check.Â I got it covered.</i>
+
+<i>What?</i>
+
+<i>Come on, y'all. Dig in.</i>
+
+<i>And come up off this syrup, Kelly.</i>
+
+<i>You paying?</i>
+
+<i>Yes, Bren. Give me the...</i>
+
+<i>Tell me you didn't.</i>
+
+<i>Didn't what?</i>
+
+<i>No! I see your eyes darting.
+What did you do, Reggie?</i>
+
+<i>[SCOFFS]</i>
+
+<i>How much?</i>
+
+<i>[CHUCKLES]</i>
+
+<i>Enough to give us a new start.</i>
+
+<i>That's right, and there's more
+where thatÂ came from.</i>
+
+<i>[REGGIE GRUNTING]</i>
+
+<i>[KELLY LAUGHING] Oh, my gosh!</i>
+
+<i>Yeah, you know, waffles, they taste best
+when you load 'em with lots of syrup.</i>
+
+<i>And butter. Got to have butter.</i>
+
+<i>We gotta give that back.</i>
+
+<i>Give it back to who?</i>
+
+<i>Wait, yeah, Mom. Give it back to who?</i>
+
+<i>We can't exactly take out an ad.</i>
+
+<i>[REGGIE BLOWS RASPBERRY]</i>
+
+<i>No, absolutely not.</i>
+
+<i>Cam, Kelly, do not lookÂ at him like that.
+He is not a good role model.</i>
+
+<i>Excuse me, I'm a great role model.</i>
+
+<i>We gotta give this money back to...</i>
+
+<i>I don't know.</i>
+
+<i>Somebody.</i>
+
+<i>Right?</i>
+
+<i>Mom, we're keeping it.</i>
+
+<i>Restitution.</i>
+
+<i>Looks to me
+like you've been outvoted, big sis.</i>
+
+<i>So eat. Your food's getting cold.</i>
+
+<i>[CAM] Yeah, come on, Mom.</i>
+
+<i>- Join the family.
+[REGGIE] Mmm-hmm.</i>
+
+<i>A celebration.</i>
+
+<i>[CAM] Come on.</i>
+
+<i>Just a family celebration.</i>
+
+<i>["GOOD DAY" PLAYING]</i>
+
+<i>Pass the syrup.</i>
+
+<i>[SIGHS] Thank God.</i>
+
+<i>Let's put this money away.
+We don't need no problems.</i>
+
+<i>Texas ain't got nothing on Arizona.</i>
+
+<i>[KIDS] â™ª We're gonna have a good day â™ª</i>
+
+<i>â™ª And all my homies gonna ride today â™ª</i>
+
+<i>â™ª And all these mommies look fly today â™ª</i>
+
+<i>â™ª And all we wanna do is get by today
+Hey â™ª</i>
+
+<i>â™ª We're gonna have a good day â™ª</i>
+
+<i>â™ª And ain't nobody gotta cry today â™ª</i>
+
+<i>â™ª 'Cause ain't nobody gonna die today â™ª</i>
+
+<i>â™ª Save that drama for another day
+Hey â™ª</i>
+
+<i>â™ª We're gonna have a good day â™ª</i>
+
+<i>[MAN] â™ª Hairline fresh, new cologne on â™ª</i>
+
+<i>â™ª Feelin' so good
+Changed the color to my phone â™ª</i>
+
+<i>â™ª Orange Kool-Aid go good with Patron â™ª</i>
+
+<i>â™ª Oh, nah, hell nah, boy
+Still my ringtone â™ª</i>
+
+<i>â™ª Free car wash
+Had to clean up the Dodge â™ª</i>
+
+<i>â™ª Give back when I can
+Just playin' my part â™ª</i>
+
+<i>â™ª Church folk had a fish fry â™ª</i>
+
+<i>â™ª Mustard, hot sauce, light bread
+And french fries â™ª</i>
+
+<i>â™ª Love for the big guy â™ª</i>
+
+<i>â™ª Hit the park
+Boys showin' off their hops â™ª</i>
+
+<i>â™ª Nappy Roots on the radio
+And you know it bops â™ª</i>
+
+<i>â™ª Last night, hit the pick three
+Bought some Air Force Ones â™ª</i>
+
+<i>â™ª Four tall tees
+Man, I'm loving B.G. â™ª</i>
+
+<i>[KIDS] â™ª We're gonna have a good day â™ª</i>
+
+<i>â™ª And all my homies gonna ride today â™ª</i>
+
+<i>â™ª And all these mommies look fly today â™ª</i>
+
+<i>â™ª And all we wanna do is get by today
+Hey â™ª</i>
+
+<i>â™ª We're gonna have a good day â™ª</i>
+
+<i>â™ª And ain't nobody gotta cry today â™ª</i>
+
+<i>â™ª 'Cause ain't nobody gonna die today â™ª</i>
+
+<i>â™ª Save that drama for another day
+Hey â™ª</i>
+
+<i>â™ª We're gonna have a good day â™ª</i>
+
+<i>[MAN]</i> â™ª And I finna worry</i>
+'Bout what nobody say â™ª</i>
+
+<i>â™ª I'm still above ground
+That's the reason I pray â™ª</i>
+
+<i>â™ª Got my car cleaned up now
+I'm ready to play â™ª</i>
+
+<i>â™ª Make a call to the sticks
+Say I'm headin' their way â™ª</i>
+
+<i>â™ª Heard my cousin cookin' out
+I gotta get me a plate â™ª</i>
+
+<i>â™ª Got this new outfit
+Ain't even out in the States â™ª</i>
+
+<i>â™ª So if I ain't speakin' too soon
+But this is a hell of a day â™ª</i>
+
+<i>â™ª And the sticky got me
+Sittin' in a hell of a place â™ª</i>
+
+<i>â™ª Got my stunna shades on
+And grin on my face â™ª</i>
+
+<i>â™ª My grill looks mean
+But I swear I'm straight â™ª</i>
+
+<i>â™ª And the hood showin' love so I'm A-OK â™ª</i>
+
+<i>[KIDS]</i> â™ª We're gonna have</i>
+We're gonna have a good day â™ª</i>
+
+<i>â™ª And all my homies gonna ride today â™ª</i>
+
+<i>â™ª And all these mommies look fly today â™ª</i>
+
+<i>â™ª And all we wanna do is get by today
+Hey â™ª</i>
+
+<i>â™ª We're gonna have a good day â™ª</i>
+
+<i>â™ª And ain't nobody gotta cry today â™ª</i>
+
+<i>â™ª 'Cause ain't nobody gonna die today â™ª</i>
+
+<i>â™ª Save that drama for another day
+Hey â™ª</i>
+
+<i>â™ª We're gonna have a good day â™ª</i>
+
+<i>[MAN]</i> â™ª We might as well do</i>
+Exactly what the children sayin' â™ª</i>
+
+<i>â™ª Take a day off
+Hit the park and just hang â™ª</i>
+
+<i>â™ª Barbecue, roll a few
+And put up your deuce â™ª</i>
+
+<i>â™ª If it's beef, put the piece down
+Throw up your dukes â™ª</i>
+
+<i>â™ª It's time to change our ways
+So we can save the day â™ª</i>
+
+<i>â™ª For the children's sake
+And make a better place to play â™ª</i>
+
+<i>â™ª And if it's all good
+Break out your coop and grip your wood â™ª</i>
+
+<i>â™ª And if you're ridin' dirty
+Light your spliff and blow your... â™ª</i>
+
+<i>â™ª But do it real big
+Exactly like a player should â™ª</i>
+
+<i>â™ª Enjoy your 24
+Do your thing and rep your hood â™ª</i>
+
+<i>â™ª The world is all yours
+But still we all grind â™ª</i>
+
+<i>â™ª Forever and a day
+The choice you make is really fine â™ª</i>
+
+<i>â™ª We're gonna have a good day â™ª</i>
+
+<i>â™ª And all my homies gonna ride today â™ª</i>
+
+<i>â™ª And all these mommies look fly today â™ª</i>
+
+<i>â™ª And all we wanna do is get by today
+Hey â™ª</i>
+
+<i>â™ª We're gonna have a good day â™ª</i>
+
+<i>â™ª And ain't nobody gotta cry today â™ª</i>
+
+<i>â™ª 'Cause ain't nobody gonna die today â™ª</i>
+
+<i>â™ª Save that drama for another day
+Hey â™ª</i>
+
+<i>â™ª We're gonna have a good day â™ª</i>
+
+<i>â™ª And all my homies gonna ride today â™ª</i>
+
+<i>â™ª And all these mommies look fly today â™ª</i>
+
+<i>â™ª And all we wanna do is get by today
+Hey â™ª</i>
+
+<i>â™ª We're gonna have a good day â™ª</i>
+
+<i>[SOMBER MUSIC PLAYING]</i>
+
+<i>[DRAMATIC MUSIC PLAYING]</i>
+

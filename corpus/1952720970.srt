@@ -1,0 +1,7128 @@
+1
+00:00:28,161 --> 00:00:29,150
+Damage report!
+
+2
+00:00:29,229 --> 00:00:30,662
+Shields at 60 percent.
+
+3
+00:00:30,730 --> 00:00:32,960
+Our fuel line has ruptured.
+Attempting to compensate.
+
+4
+00:00:35,101 --> 00:00:38,036
+Damn it! We're barely
+maintaining impulse.
+
+5
+00:00:38,104 --> 00:00:39,503
+l can't get any more out of it.
+
+6
+00:00:39,572 --> 00:00:40,937
+Be creative.
+
+7
+00:00:41,007 --> 00:00:42,565
+How am l supposed to be creative
+
+8
+00:00:42,642 --> 00:00:44,473
+with a 39-year-old
+rebuilt engine?
+
+9
+00:00:45,512 --> 00:00:47,207
+Maquis ship
+
+10
+00:00:47,280 --> 00:00:50,010
+this is Gul Evek
+of the Cardassian Fourth Order.
+
+11
+00:00:50,083 --> 00:00:52,517
+Cut your engines and prepare
+to surrender or we will de...
+
+12
+00:00:56,456 --> 00:00:59,254
+lnitiating evasive pattern
+omega. Mark.
+
+13
+00:01:01,828 --> 00:01:03,921
+Shields at 50 percent.
+
+14
+00:01:03,997 --> 00:01:05,055
+l need more power
+
+15
+00:01:05,131 --> 00:01:06,723
+if we're going to make
+it to the Badlands.
+
+16
+00:01:06,800 --> 00:01:07,926
+Take the weapons off-line.
+
+17
+00:01:08,001 --> 00:01:09,969
+We'll transfer all power
+to the engines.
+
+18
+00:01:10,036 --> 00:01:11,060
+Considering the circumstances,
+
+19
+00:01:11,137 --> 00:01:13,105
+l'd question that proposal
+at this time.
+
+20
+00:01:13,173 --> 00:01:14,105
+What does it matter?!
+
+21
+00:01:14,174 --> 00:01:17,234
+We're not making a dent
+in their shields anyway.
+
+22
+00:01:17,310 --> 00:01:19,335
+You wanted creative.
+
+23
+00:01:19,412 --> 00:01:21,346
+Tuvok, shut down
+all the phaser banks.
+
+24
+00:01:21,414 --> 00:01:23,814
+lf you can give me another
+30 seconds at full impulse,
+
+25
+00:01:23,883 --> 00:01:25,612
+l'll get us into the Badlands.
+
+26
+00:01:25,685 --> 00:01:27,277
+Phasers off-line.
+
+27
+00:01:27,353 --> 00:01:29,150
+Throw the last photons at them
+
+28
+00:01:29,222 --> 00:01:31,918
+and then give me the power
+from the torpedo systems.
+
+29
+00:01:31,991 --> 00:01:34,516
+Acknowledged.
+Firing photons.
+
+30
+00:01:41,167 --> 00:01:42,998
+Are you reading
+any plasma storms ahead?
+
+31
+00:01:43,069 --> 00:01:46,334
+One.
+Coordinates 17 1 mark 43.
+
+32
+00:01:47,273 --> 00:01:48,262
+That's where l'm going.
+
+33
+00:01:48,341 --> 00:01:51,242
+Plasma storm density
+increasing by 14 percent.
+
+34
+00:01:51,311 --> 00:01:52,938
+Twenty...
+
+35
+00:01:53,012 --> 00:01:54,445
+Twenty-five...
+
+36
+00:01:54,514 --> 00:01:55,538
+Hold on!
+
+37
+00:02:03,089 --> 00:02:05,148
+Cardassian ship
+is not reducing power.
+
+38
+00:02:05,225 --> 00:02:06,157
+They're following us in.
+
+39
+00:02:06,226 --> 00:02:08,660
+Gul Evek must feel daring today.
+
+40
+00:02:13,433 --> 00:02:16,231
+They've taken a hit
+on their port blade.
+
+41
+00:02:16,302 --> 00:02:17,929
+They're sending out
+a distress signal
+
+42
+00:02:18,037 --> 00:02:19,698
+on all Cardassian frequencies.
+
+43
+00:02:19,772 --> 00:02:20,739
+Can you plot a course
+
+44
+00:02:20,807 --> 00:02:22,274
+through these plasma fields,
+Mr. Tuvok?
+
+45
+00:02:22,342 --> 00:02:25,243
+Storm's activity is typically
+widespread in this vicinity.
+
+46
+00:02:25,311 --> 00:02:27,370
+l can plot a course,
+but l'm afraid it will require
+
+47
+00:02:27,447 --> 00:02:28,436
+an indirect route.
+
+48
+00:02:28,515 --> 00:02:30,210
+We can use the time
+to make some repairs.
+
+49
+00:02:31,818 --> 00:02:32,842
+What was that?
+
+50
+00:02:32,919 --> 00:02:33,977
+Curious.
+
+51
+00:02:34,087 --> 00:02:37,420
+We just passed through some kind
+of coherent tetryon beam.
+
+52
+00:02:37,490 --> 00:02:38,354
+Source?
+
+53
+00:02:38,424 --> 00:02:39,391
+Unknown.
+
+54
+00:02:40,393 --> 00:02:41,417
+Now there appears to be
+
+55
+00:02:41,494 --> 00:02:42,961
+a massive displacement wave
+moving toward us.
+
+56
+00:02:43,029 --> 00:02:44,462
+Another storm?
+
+57
+00:02:44,531 --> 00:02:46,158
+lt's not a plasma phenomenon.
+
+58
+00:02:46,232 --> 00:02:47,290
+At current speeds
+
+59
+00:02:47,367 --> 00:02:49,597
+it will intercept us
+in less than 30 seconds.
+
+60
+00:02:49,669 --> 00:02:52,035
+Anything left in those
+impulse generators, B'Elanna?
+
+61
+00:02:52,138 --> 00:02:53,105
+We'll find out.
+
+62
+00:02:54,140 --> 00:02:55,368
+Still exceeding our speed.
+
+63
+00:02:55,441 --> 00:02:57,033
+Maximum power.
+
+64
+00:02:57,110 --> 00:02:58,771
+Wave is continuing
+to accelerate.
+
+65
+00:02:58,845 --> 00:03:01,177
+lt will intercept us
+in eight seconds.
+
+66
+00:03:03,016 --> 00:03:04,142
+Five.
+
+67
+00:05:17,684 --> 00:05:19,413
+Tom Paris?
+
+68
+00:05:22,388 --> 00:05:24,413
+Kathryn Janeway.
+
+69
+00:05:24,490 --> 00:05:26,924
+l served with your father
+on the Al-Batani.
+
+70
+00:05:26,993 --> 00:05:30,429
+l wonder if we could
+go somewhere and talk?
+
+71
+00:05:30,496 --> 00:05:32,293
+About what?
+
+72
+00:05:32,365 --> 00:05:34,833
+About a job we'd like
+you to do for us.
+
+73
+00:05:34,901 --> 00:05:37,335
+l'm already doing a job...
+
+74
+00:05:37,403 --> 00:05:38,734
+for the Federation.
+
+75
+00:05:38,805 --> 00:05:40,670
+l've been told
+the Rehab Commission
+
+76
+00:05:40,740 --> 00:05:42,571
+is very pleased with your work.
+
+77
+00:05:42,642 --> 00:05:45,975
+They've given me their approval
+to discuss this matter with you.
+
+78
+00:05:46,045 --> 00:05:48,980
+Well, then l guess l'm yours.
+
+79
+00:05:52,752 --> 00:05:54,481
+Your father taught me
+a great deal.
+
+80
+00:05:54,554 --> 00:05:57,648
+l was his Science Officer
+during the Arias Expedition.
+
+81
+00:05:57,724 --> 00:05:59,692
+You must be good.
+
+82
+00:05:59,759 --> 00:06:02,557
+My father only accepts
+the best and the brightest.
+
+83
+00:06:02,662 --> 00:06:05,529
+l'm leaving on a mission
+to find a Maquis ship
+
+84
+00:06:05,565 --> 00:06:08,363
+that disappeared in
+the Badlands a week ago.
+
+85
+00:06:08,434 --> 00:06:10,595
+l wouldn't, if l were you.
+
+86
+00:06:10,670 --> 00:06:11,967
+Really?
+
+87
+00:06:12,038 --> 00:06:14,563
+l've never seen
+a Federation starship
+
+88
+00:06:14,640 --> 00:06:16,631
+that could maneuver
+through the plasma storms.
+
+89
+00:06:16,709 --> 00:06:19,041
+You've never seen Voyager.
+
+90
+00:06:20,046 --> 00:06:21,707
+We'd like you to come along.
+
+91
+00:06:23,182 --> 00:06:26,982
+You'd like me to lead you
+to my former colleagues.
+
+92
+00:06:28,321 --> 00:06:29,913
+l was only with the Maquis
+a few weeks
+
+93
+00:06:30,022 --> 00:06:31,387
+before l was captured, Captain.
+
+94
+00:06:31,457 --> 00:06:34,153
+l don't know where most
+of their hiding places are.
+
+95
+00:06:34,227 --> 00:06:37,196
+You know the territory
+better than anyone we've got.
+
+96
+00:06:37,263 --> 00:06:40,721
+What's so important about
+this particular Maquis ship?
+
+97
+00:06:40,800 --> 00:06:44,258
+My Chief of Security
+was on board-- undercover.
+
+98
+00:06:44,337 --> 00:06:47,397
+He was supposed to report in
+twice during the last six days.
+
+99
+00:06:47,473 --> 00:06:48,906
+He didn't.
+
+100
+00:06:48,975 --> 00:06:52,172
+Maybe it's just your Chief
+of Security who's disappeared.
+
+101
+00:06:52,245 --> 00:06:54,577
+Maybe.
+
+102
+00:06:55,748 --> 00:06:57,113
+That ship was under the command
+
+103
+00:06:57,183 --> 00:06:58,172
+of another former
+
+104
+00:06:58,251 --> 00:06:59,718
+Starfleet officer
+
+105
+00:06:59,786 --> 00:07:01,048
+named Chakotay.
+
+106
+00:07:02,088 --> 00:07:04,283
+l understand you knew him.
+
+107
+00:07:04,357 --> 00:07:06,848
+That's right.
+
+108
+00:07:06,926 --> 00:07:10,157
+The two of you didn't get along
+too well, l'm told.
+
+109
+00:07:10,229 --> 00:07:13,062
+Chakotay will tell you
+he left Starfleet on principle--
+
+110
+00:07:13,132 --> 00:07:16,727
+to defend his home colony
+from the Cardassians.
+
+111
+00:07:16,803 --> 00:07:19,033
+l, on the other hand,
+was forced to resign.
+
+112
+00:07:19,105 --> 00:07:21,232
+He considered me a mercenary--
+
+113
+00:07:21,307 --> 00:07:24,140
+willing to fight for anyone
+who'd pay my bar bills.
+
+114
+00:07:24,210 --> 00:07:27,145
+The trouble is he was right.
+
+115
+00:07:30,316 --> 00:07:32,284
+l have no problem helping you
+
+116
+00:07:32,351 --> 00:07:35,479
+track down my ''friends''
+in the Maquis, Captain.
+
+117
+00:07:35,555 --> 00:07:39,150
+All l need to know from you
+is what's in it for me?
+
+118
+00:07:39,225 --> 00:07:41,022
+You help us find that ship
+
+119
+00:07:41,093 --> 00:07:44,153
+we help you
+at your next outmate review.
+
+120
+00:07:44,230 --> 00:07:46,130
+Uh-huh.
+
+121
+00:07:46,199 --> 00:07:47,359
+Officially, you'd be
+
+122
+00:07:47,433 --> 00:07:49,424
+a Starfleet observer
+during the mission.
+
+123
+00:07:49,502 --> 00:07:51,094
+Observer?!
+
+124
+00:07:52,605 --> 00:07:55,130
+Oh, hell, l'm the best pilot
+you could have.
+
+125
+00:07:55,208 --> 00:07:57,108
+You'll be an observer.
+
+126
+00:07:57,176 --> 00:08:00,111
+When it's over,
+you're cut loose.
+
+127
+00:08:00,179 --> 00:08:02,670
+Story of my life.
+
+128
+00:08:16,195 --> 00:08:19,790
+Stadi, you're changing
+my mind about Betazoids.
+
+129
+00:08:19,866 --> 00:08:21,595
+Good.
+
+130
+00:08:21,667 --> 00:08:23,601
+Oh, that wasn't a compliment.
+
+131
+00:08:23,669 --> 00:08:29,005
+Until today, l always considered
+your people warm and sensual.
+
+132
+00:08:29,075 --> 00:08:31,908
+l can be warm and sensual.
+
+133
+00:08:31,978 --> 00:08:33,275
+Just not to me.
+
+134
+00:08:33,346 --> 00:08:36,338
+Do you always fly at women
+at warp speed, Mr. Paris?
+
+135
+00:08:36,415 --> 00:08:39,145
+Only when they're
+in visual range.
+
+136
+00:08:41,754 --> 00:08:43,847
+That's our ship.
+
+137
+00:08:43,923 --> 00:08:45,481
+That's Voyager.
+
+138
+00:08:45,558 --> 00:08:47,150
+lntrepid-class--
+
+139
+00:08:47,226 --> 00:08:49,558
+sustainable cruise
+velocity of warp factor
+
+140
+00:08:49,629 --> 00:08:51,722
+9.97 5.
+
+141
+00:08:51,797 --> 00:08:55,927
+15 decks,
+crew complement of 141.
+
+142
+00:08:56,002 --> 00:08:57,970
+Bio-neural circuitry.
+
+143
+00:08:58,070 --> 00:08:59,594
+Bio-neural?
+
+144
+00:08:59,672 --> 00:09:00,661
+Some of the traditional
+
+145
+00:09:00,773 --> 00:09:03,298
+circuitry has been
+replaced by gel packs
+
+146
+00:09:03,342 --> 00:09:05,276
+that contain bio-neural cells.
+
+147
+00:09:05,344 --> 00:09:07,574
+They organize information
+more efficiently--
+
+148
+00:09:07,647 --> 00:09:09,581
+speed up response time.
+
+149
+00:09:32,004 --> 00:09:34,996
+lf l may say so,
+it's been my special pleasure
+
+150
+00:09:35,074 --> 00:09:37,167
+to see many new officers
+like yourself
+
+151
+00:09:37,243 --> 00:09:39,006
+come through these portals.
+
+152
+00:09:39,078 --> 00:09:42,172
+Your parents must be
+very proud, my boy.
+
+153
+00:09:42,248 --> 00:09:45,115
+You know, on an occasion
+like this...
+
+154
+00:09:45,184 --> 00:09:46,242
+l'm really not interested.
+
+155
+00:09:46,319 --> 00:09:47,513
+lnterested?
+
+156
+00:09:47,587 --> 00:09:49,384
+You were about to try
+to sell me something, right?
+
+157
+00:09:49,455 --> 00:09:51,082
+l was merely going to suggest
+
+158
+00:09:51,157 --> 00:09:53,284
+that your parents
+might appreciate a memento
+
+159
+00:09:53,359 --> 00:09:54,291
+of your first mission.
+
+160
+00:09:54,360 --> 00:09:56,794
+And you happen to have several
+to choose from?
+
+161
+00:09:56,862 --> 00:09:59,592
+l do carry a select line
+
+162
+00:09:59,665 --> 00:10:02,259
+of unique artifacts
+and gemstones
+
+163
+00:10:02,335 --> 00:10:04,030
+indigenous to this region.
+
+164
+00:10:04,103 --> 00:10:08,164
+Why, quite recently,
+l acquired these Lobi crystals
+
+165
+00:10:08,240 --> 00:10:11,266
+from a very strange creature
+called a Morn.
+
+166
+00:10:11,344 --> 00:10:13,904
+We were warned about the Ferengi
+at the Academy.
+
+167
+00:10:14,914 --> 00:10:16,973
+Warned about Ferengi, were you?
+
+168
+00:10:17,083 --> 00:10:18,448
+That's right.
+
+169
+00:10:18,517 --> 00:10:21,975
+Slurs about my people
+at Starfleet Academy.
+
+170
+00:10:22,054 --> 00:10:22,986
+What l meant was...
+
+171
+00:10:23,089 --> 00:10:26,752
+Here l am, trying to be
+a cordial host, knowing
+
+172
+00:10:26,826 --> 00:10:29,795
+how much a young officer's
+parents would appreciate
+
+173
+00:10:29,862 --> 00:10:32,956
+a token of his love on the eve
+of a dangerous mission
+
+174
+00:10:33,032 --> 00:10:35,125
+and what do l get
+for my trouble?
+
+175
+00:10:35,201 --> 00:10:37,328
+Scurrilous insults.
+
+176
+00:10:37,403 --> 00:10:40,998
+Well, somebody's
+going to hear about this.
+
+177
+00:10:41,073 --> 00:10:43,371
+What's your name, son?
+
+178
+00:10:43,442 --> 00:10:45,342
+My... name?
+
+179
+00:10:45,411 --> 00:10:46,503
+You have one, l presume?
+
+180
+00:10:46,579 --> 00:10:47,705
+Kim, Harry Kim, but l...
+
+181
+00:10:47,780 --> 00:10:48,769
+And who was it
+
+182
+00:10:48,848 --> 00:10:51,681
+at the Academy who warned you
+about Ferengi?
+
+183
+00:10:51,751 --> 00:10:53,446
+You know, l think
+a memento for my parents
+
+184
+00:10:53,519 --> 00:10:54,451
+would be a great idea.
+
+185
+00:10:54,520 --> 00:10:55,953
+Oh, no, no, no, no,
+no, no, no, no!
+
+186
+00:10:56,022 --> 00:10:57,717
+Really, one of these
+
+187
+00:10:57,790 --> 00:10:59,223
+would make a great pendant
+for my mother.
+
+188
+00:10:59,291 --> 00:11:00,451
+Or cufflinks for your father.
+
+189
+00:11:00,526 --> 00:11:02,494
+Cufflinks.
+Great idea.
+
+190
+00:11:02,561 --> 00:11:04,358
+They're not for sale.
+
+191
+00:11:04,430 --> 00:11:08,264
+Now, inform
+your commanding officer
+
+192
+00:11:08,334 --> 00:11:12,168
+that the Federation Council
+can expect an official query...
+
+193
+00:11:12,238 --> 00:11:13,830
+How much for the entire tray?
+
+194
+00:11:16,042 --> 00:11:17,509
+Cash or credit?
+
+195
+00:11:17,576 --> 00:11:19,441
+Dazzling, aren't they?
+
+196
+00:11:19,512 --> 00:11:21,537
+As bright as a Koladan diamond.
+
+197
+00:11:21,614 --> 00:11:22,876
+Brighter.
+
+198
+00:11:22,948 --> 00:11:24,279
+Hard to believe
+you can find them
+
+199
+00:11:24,350 --> 00:11:25,578
+on any planet in the system.
+
+200
+00:11:25,651 --> 00:11:26,675
+That's an exaggeration.
+
+201
+00:11:26,752 --> 00:11:29,949
+You know, there's a shop
+at the Volnar Colony
+
+202
+00:11:30,022 --> 00:11:31,990
+that sells
+a dozen assorted shapes
+
+203
+00:11:32,058 --> 00:11:33,491
+for one Cardassian lek.
+
+204
+00:11:33,559 --> 00:11:35,720
+How much are you
+selling these for?
+
+205
+00:11:35,795 --> 00:11:38,628
+We were just about
+to negotiate the price.
+
+206
+00:11:42,702 --> 00:11:43,760
+Come on.
+
+207
+00:11:48,708 --> 00:11:50,175
+Thanks.
+
+208
+00:11:50,242 --> 00:11:53,473
+Didn't they warn you about
+Ferengi at the Academy?
+
+209
+00:12:01,087 --> 00:12:03,715
+Run a level-3 diagnostic
+just to be sure.
+
+210
+00:12:05,858 --> 00:12:06,916
+Can l help you?
+
+211
+00:12:07,026 --> 00:12:09,290
+Tom Paris, reporting on board.
+
+212
+00:12:09,361 --> 00:12:10,726
+Oh, yes.
+
+213
+00:12:10,796 --> 00:12:13,094
+The observer.
+
+214
+00:12:13,165 --> 00:12:14,462
+That's me.
+
+215
+00:12:16,702 --> 00:12:18,932
+As a matter of fact,
+l seem to be observing
+
+216
+00:12:19,004 --> 00:12:21,165
+some kind of problem
+right now...
+
+217
+00:12:21,240 --> 00:12:22,935
+Doctor.
+
+218
+00:12:23,008 --> 00:12:26,910
+l was a surgeon
+at the hospital on Caldik Prime
+
+219
+00:12:26,979 --> 00:12:29,743
+the same time you were
+stationed there.
+
+220
+00:12:29,815 --> 00:12:31,305
+We never actually met.
+
+221
+00:12:33,519 --> 00:12:34,952
+Your medical records
+have arrived
+
+222
+00:12:35,020 --> 00:12:36,510
+from your last posting,
+Mr. Paris.
+
+223
+00:12:36,589 --> 00:12:38,989
+Everything seems to be
+in order.
+
+224
+00:12:39,058 --> 00:12:41,788
+The Captain asked
+if you were on board.
+
+225
+00:12:41,861 --> 00:12:42,919
+You should check in with her.
+
+226
+00:12:42,995 --> 00:12:44,360
+Uh...
+
+227
+00:12:44,430 --> 00:12:46,421
+l haven't paid my respects
+to the Captain yet either.
+
+228
+00:12:46,499 --> 00:12:49,662
+Well, Mr. Kim,
+that would be a good thing
+
+229
+00:12:49,735 --> 00:12:51,703
+for a new
+Operations Officer to do.
+
+230
+00:12:56,809 --> 00:12:57,935
+What was that all about?
+
+231
+00:12:58,010 --> 00:12:59,136
+lt's a long story, Harry
+
+232
+00:12:59,211 --> 00:13:00,405
+and l'm tired of telling it.
+
+233
+00:13:00,479 --> 00:13:02,674
+l'm sure someone around here
+will tell you before long.
+
+234
+00:13:03,716 --> 00:13:04,705
+The doctor called.
+
+235
+00:13:04,784 --> 00:13:05,716
+And?
+
+236
+00:13:05,785 --> 00:13:06,809
+And l was right.
+
+237
+00:13:06,886 --> 00:13:08,012
+She's pregnant?
+
+238
+00:13:08,087 --> 00:13:09,611
+Puppies are due in seven weeks.
+
+239
+00:13:09,688 --> 00:13:11,087
+Oh, Mark, you've got
+to take her home with you.
+
+240
+00:13:11,157 --> 00:13:13,022
+With me?
+
+241
+00:13:13,092 --> 00:13:14,423
+l just got the rugs cleaned.
+
+242
+00:13:14,493 --> 00:13:15,460
+She's with child.
+
+243
+00:13:15,528 --> 00:13:17,086
+l can't leave her
+in a kennel while l...
+
+244
+00:13:17,163 --> 00:13:19,757
+ls this another ''love me,
+love my dog'' demand?
+
+245
+00:13:19,832 --> 00:13:21,094
+Yes.
+
+246
+00:13:21,167 --> 00:13:22,464
+How could l ever refuse you?
+
+247
+00:13:22,535 --> 00:13:23,695
+Thanks, honey.
+
+248
+00:13:23,769 --> 00:13:25,100
+So when are you leaving?
+
+249
+00:13:25,171 --> 00:13:27,639
+As soon as l approve
+these system status reports.
+
+250
+00:13:27,706 --> 00:13:30,641
+All right, then l won't
+bother you anymore.
+
+251
+00:13:30,709 --> 00:13:32,142
+Hey...
+
+252
+00:13:34,980 --> 00:13:36,880
+you never bother me.
+
+253
+00:13:36,949 --> 00:13:39,816
+Except the way l love
+to be bothered.
+
+254
+00:13:39,885 --> 00:13:40,817
+Understand?
+
+255
+00:13:40,886 --> 00:13:42,649
+l'll remember that.
+
+256
+00:13:42,721 --> 00:13:44,416
+See you in a few weeks.
+
+257
+00:13:44,490 --> 00:13:46,287
+Oh, Mark, go by my house
+and pick up the doggy bed.
+
+258
+00:13:46,358 --> 00:13:47,655
+She'll be more comfortable.
+
+259
+00:13:47,726 --> 00:13:49,421
+l already did.
+
+260
+00:13:49,495 --> 00:13:51,622
+An hour ago.
+
+261
+00:14:01,574 --> 00:14:02,666
+Come in.
+
+262
+00:14:06,045 --> 00:14:08,843
+Gentlemen,
+welcome aboard Voyager.
+
+263
+00:14:08,914 --> 00:14:09,881
+Thank you, sir.
+
+264
+00:14:11,517 --> 00:14:13,246
+Mr. Kim...
+
+265
+00:14:13,319 --> 00:14:15,947
+at ease
+before you sprain something.
+
+266
+00:14:17,223 --> 00:14:19,487
+Ensign, despite
+Starfleet protocol
+
+267
+00:14:19,558 --> 00:14:21,617
+l don't like being
+addressed as ''sir.''
+
+268
+00:14:21,694 --> 00:14:23,889
+l'm sorry... ma'am.
+
+269
+00:14:23,963 --> 00:14:25,863
+''Ma'am'' is acceptable
+in a crunch,
+
+270
+00:14:25,931 --> 00:14:27,489
+but l prefer ''Captain.''
+
+271
+00:14:27,566 --> 00:14:29,898
+We're getting ready to leave.
+
+272
+00:14:29,969 --> 00:14:31,436
+Let me show you to the Bridge.
+
+273
+00:14:31,503 --> 00:14:34,131
+Did you have any problems
+getting here, Mr. Paris?
+
+274
+00:14:34,206 --> 00:14:36,265
+None at all, Captain.
+
+275
+00:14:37,977 --> 00:14:40,946
+My First Officer,
+Lieutenant Commander Cavit.
+
+276
+00:14:41,080 --> 00:14:43,378
+Ensign Kim, Mr. Paris.
+
+277
+00:14:43,449 --> 00:14:44,575
+Welcome aboard.
+
+278
+00:14:51,724 --> 00:14:54,750
+Ensign Kim,
+this is your station.
+
+279
+00:14:56,195 --> 00:14:57,924
+Would you like to take over?
+
+280
+00:14:57,997 --> 00:14:59,828
+Yes, ma'am.
+
+281
+00:14:59,899 --> 00:15:02,129
+lt's not crunch time yet,
+Mr. Kim.
+
+282
+00:15:02,234 --> 00:15:03,599
+l'll let you know when.
+
+283
+00:15:08,374 --> 00:15:09,864
+Lieutenant Stadi,
+lay in the course
+
+284
+00:15:09,975 --> 00:15:11,966
+and clear our departure
+with Operations.
+
+285
+00:15:12,044 --> 00:15:14,444
+Course entered,
+Ops has cleared us.
+
+286
+00:15:14,513 --> 00:15:16,242
+Ready thrusters.
+
+287
+00:15:16,315 --> 00:15:17,441
+Thrusters ready.
+
+288
+00:15:17,516 --> 00:15:19,541
+lnitiate launching sequence.
+
+289
+00:15:19,618 --> 00:15:21,916
+Sequence underway.
+
+290
+00:15:21,987 --> 00:15:23,011
+Engage.
+
+291
+00:16:03,929 --> 00:16:05,362
+Tomato soup.
+
+292
+00:16:05,431 --> 00:16:08,696
+There are 14 varieties
+of tomato soup available
+
+293
+00:16:08,767 --> 00:16:12,203
+from this replicator--
+with rice, with vegetables,
+
+294
+00:16:12,271 --> 00:16:14,364
+Bolian-style,
+with pasta, with...
+
+295
+00:16:14,440 --> 00:16:15,407
+Plain.
+
+296
+00:16:15,474 --> 00:16:17,669
+Specify hot or chilled.
+
+297
+00:16:17,743 --> 00:16:19,005
+Hot!
+
+298
+00:16:19,078 --> 00:16:21,512
+Hot, plain tomato soup.
+
+299
+00:16:35,127 --> 00:16:36,116
+There, you see?
+
+300
+00:16:36,195 --> 00:16:38,060
+l told you
+it wouldn't take long.
+
+301
+00:16:40,032 --> 00:16:41,363
+ls it true?
+
+302
+00:16:41,433 --> 00:16:43,128
+Was the accident my fault?
+
+303
+00:16:43,202 --> 00:16:44,829
+Yes-- pilot error--
+
+304
+00:16:44,903 --> 00:16:47,929
+but it took me
+a while to admit it.
+
+305
+00:16:50,175 --> 00:16:51,142
+Ugh! 14 varieties
+
+306
+00:16:51,210 --> 00:16:53,906
+and they can't even get
+plain tomato soup right.
+
+307
+00:16:53,979 --> 00:16:56,072
+They said you falsified reports.
+
+308
+00:16:56,148 --> 00:16:57,172
+That's right.
+
+309
+00:16:57,249 --> 00:16:58,216
+Why?
+
+310
+00:16:58,283 --> 00:17:00,080
+What's the difference?
+l lied.
+
+311
+00:17:00,152 --> 00:17:01,414
+But then you came forward
+
+312
+00:17:01,487 --> 00:17:03,512
+and you admitted
+that it was your fault?
+
+313
+00:17:05,124 --> 00:17:07,957
+l'll tell you the truth, Harry.
+
+314
+00:17:08,027 --> 00:17:11,155
+All l had to do
+was keep my mouth shut
+
+315
+00:17:11,230 --> 00:17:13,095
+and l was home free...
+
+316
+00:17:13,165 --> 00:17:14,189
+but l couldn't.
+
+317
+00:17:14,266 --> 00:17:17,429
+The ghosts of those
+three dead officers
+
+318
+00:17:17,503 --> 00:17:19,061
+came to me
+in the middle of the night
+
+319
+00:17:19,138 --> 00:17:21,072
+and taught me
+the true meaning of Christmas.
+
+320
+00:17:21,140 --> 00:17:23,506
+So l confessed--
+
+321
+00:17:23,575 --> 00:17:27,671
+worst mistake l ever made
+but not my last.
+
+322
+00:17:27,746 --> 00:17:30,772
+After they cashiered me
+out of Starfleet,
+
+323
+00:17:30,849 --> 00:17:33,682
+l went out looking for a fight
+and found the Maquis,
+
+324
+00:17:33,752 --> 00:17:38,519
+and on my first assignment,
+l was caught.
+
+325
+00:17:38,590 --> 00:17:41,718
+That must have been
+especially tough for you,
+
+326
+00:17:41,794 --> 00:17:43,659
+being the son of an admiral.
+
+327
+00:17:43,729 --> 00:17:48,132
+Frankly, l think it was tougher
+on my father than it was on me.
+
+328
+00:17:52,037 --> 00:17:53,265
+Look.
+
+329
+00:17:53,338 --> 00:17:55,306
+l know those guys told you
+to stay away from me,
+
+330
+00:17:55,374 --> 00:17:56,932
+and you know what?
+
+331
+00:17:57,076 --> 00:17:58,907
+You ought to listen to them.
+
+332
+00:17:58,977 --> 00:18:02,310
+l'm not exactly
+a good-luck charm.
+
+333
+00:18:03,615 --> 00:18:05,913
+l don't need anyone
+to choose my friends for me.
+
+334
+00:18:07,586 --> 00:18:09,019
+Janeway to Paris.
+
+335
+00:18:09,088 --> 00:18:10,419
+Go ahead.
+
+336
+00:18:10,489 --> 00:18:11,581
+Report to the Bridge.
+
+337
+00:18:11,657 --> 00:18:12,988
+We're approaching the Badlands.
+
+338
+00:18:21,900 --> 00:18:25,097
+The plasma storms were measured
+at levels three and four.
+
+339
+00:18:25,170 --> 00:18:27,331
+The Cardassians gave us
+the last known heading
+
+340
+00:18:27,406 --> 00:18:30,034
+of the Maquis ship,
+and we have charts
+
+341
+00:18:30,109 --> 00:18:32,634
+of the plasma storm activity
+the day it disappeared.
+
+342
+00:18:32,711 --> 00:18:33,905
+With a little help,
+
+343
+00:18:33,979 --> 00:18:35,776
+we might be able to
+approximate its course.
+
+344
+00:18:35,848 --> 00:18:36,780
+l'd guess
+
+345
+00:18:36,849 --> 00:18:38,646
+they were trying to get
+to one of the M-Class
+
+346
+00:18:38,717 --> 00:18:40,742
+planetoids in the Terikof Belt.
+
+347
+00:18:40,819 --> 00:18:42,343
+That's beyond the Moriya system
+
+348
+00:18:42,421 --> 00:18:45,549
+The plasma storms would have
+forced them in this direction.
+
+349
+00:18:45,624 --> 00:18:47,785
+Adjust our course to match.
+
+350
+00:18:47,860 --> 00:18:48,792
+Aye, Captain.
+
+351
+00:18:48,861 --> 00:18:50,226
+The Cardassians claim
+they forced
+
+352
+00:18:50,295 --> 00:18:52,160
+the Maquis ship
+into a plasma storm
+
+353
+00:18:52,231 --> 00:18:53,630
+where it was destroyed,
+
+354
+00:18:53,699 --> 00:18:55,530
+but our probes haven't
+picked up any debris.
+
+355
+00:18:55,601 --> 00:18:58,365
+A plasma storm might not leave
+any debris.
+
+356
+00:18:58,437 --> 00:18:59,802
+We'd still be able to pick up
+
+357
+00:18:59,872 --> 00:19:01,533
+a resonance trace
+from the warp core.
+
+358
+00:19:01,640 --> 00:19:02,834
+Captain.
+
+359
+00:19:02,941 --> 00:19:04,966
+l'm reading a coherent
+tetryon beam scanning us.
+
+360
+00:19:05,043 --> 00:19:06,738
+Origin, Mr. Kim?
+
+361
+00:19:06,812 --> 00:19:07,779
+l'm not sure.
+
+362
+00:19:07,846 --> 00:19:09,473
+There's also a displacement wave
+moving toward us.
+
+363
+00:19:09,548 --> 00:19:11,140
+On screen.
+
+364
+00:19:13,352 --> 00:19:15,183
+Analysis.
+
+365
+00:19:15,254 --> 00:19:18,087
+Some kind of polarized
+magnetic variation.
+
+366
+00:19:18,157 --> 00:19:20,853
+We might be able to disperse it
+with a graviton particle field.
+
+367
+00:19:20,926 --> 00:19:22,052
+Do it.
+
+368
+00:19:22,127 --> 00:19:23,219
+Red Alert.
+
+369
+00:19:23,295 --> 00:19:24,694
+Move us away from it,
+Lieutenant.
+
+370
+00:19:24,763 --> 00:19:27,755
+New heading 41 mark 180.
+
+371
+00:19:32,337 --> 00:19:34,498
+lnitiating graviton field.
+
+372
+00:19:37,276 --> 00:19:38,800
+The graviton field
+had no effect.
+
+373
+00:19:38,877 --> 00:19:40,970
+Full impulse.
+
+374
+00:19:45,017 --> 00:19:46,678
+The wave will intercept us
+in 12 seconds.
+
+375
+00:19:46,752 --> 00:19:48,242
+Can we go to warp?
+
+376
+00:19:48,320 --> 00:19:50,584
+Not until we clear
+the plasma field, Captain.
+
+377
+00:19:50,656 --> 00:19:52,590
+Five seconds.
+
+378
+00:19:52,658 --> 00:19:54,148
+Brace for impact.
+
+379
+00:19:54,226 --> 00:19:55,022
+Three...
+
+380
+00:20:31,196 --> 00:20:32,254
+Report.
+
+381
+00:20:33,565 --> 00:20:34,930
+Hull breach, deck 14.
+
+382
+00:20:35,000 --> 00:20:36,262
+Com lines
+to Engineering are down.
+
+383
+00:20:36,335 --> 00:20:37,597
+Trying to reestablish.
+
+384
+00:20:39,938 --> 00:20:43,203
+Repair crews, seal off
+hull breach on deck 14.
+
+385
+00:20:43,275 --> 00:20:44,264
+Aye, Captain.
+
+386
+00:20:44,343 --> 00:20:46,311
+Casualty reports coming in.
+
+387
+00:20:46,378 --> 00:20:48,039
+Sick Bay is not responding.
+
+388
+00:20:48,113 --> 00:20:49,171
+Bridge to Sick Bay.
+
+389
+00:20:49,248 --> 00:20:50,738
+Doctor, can you hear me?
+
+390
+00:20:51,850 --> 00:20:53,875
+Paris, how's Stadi?
+
+391
+00:20:53,952 --> 00:20:55,886
+She's dead.
+
+392
+00:20:55,954 --> 00:20:57,251
+Captain, there's
+something out there.
+
+393
+00:20:57,322 --> 00:20:59,984
+l need a better description
+than that, Mr. Kim.
+
+394
+00:21:00,058 --> 00:21:01,116
+l don't know.
+
+395
+00:21:01,159 --> 00:21:02,456
+l'm reading...
+
+396
+00:21:02,494 --> 00:21:03,791
+l'm not sure what l'm reading.
+
+397
+00:21:03,862 --> 00:21:05,659
+Can you get
+the viewscreen operational?
+
+398
+00:21:05,731 --> 00:21:07,221
+l'm trying.
+
+399
+00:21:20,946 --> 00:21:24,109
+Captain,
+if these sensors are working
+
+400
+00:21:24,182 --> 00:21:27,117
+we're over 70,000 light-years
+from where we were.
+
+401
+00:21:27,185 --> 00:21:30,018
+We're on the other side
+of the galaxy.
+
+402
+00:21:41,366 --> 00:21:43,834
+l'm not reading any life signs
+on the Maquis ship.
+
+403
+00:21:43,902 --> 00:21:46,530
+What about on that...
+that Array?
+
+404
+00:21:46,605 --> 00:21:48,505
+Our sensors can't penetrate it.
+
+405
+00:21:48,573 --> 00:21:49,870
+Any idea what those pulses are
+
+406
+00:21:49,941 --> 00:21:51,374
+that are coming from it,
+Mr. Kim?
+
+407
+00:21:51,443 --> 00:21:52,535
+Massive bursts
+of radiant energy.
+
+408
+00:21:52,611 --> 00:21:53,600
+They seem to be directed
+
+409
+00:21:53,679 --> 00:21:55,146
+toward a nearby
+G-type star system.
+
+410
+00:21:55,213 --> 00:21:56,840
+Try hailing the Array.
+
+411
+00:21:56,915 --> 00:21:58,382
+Engineering to Bridge.
+
+412
+00:21:58,450 --> 00:22:00,441
+We have severe damage.
+The chief's dead.
+
+413
+00:22:00,519 --> 00:22:02,350
+Possibility
+of a warp core breach.
+
+414
+00:22:02,421 --> 00:22:05,015
+Secure all engineering systems.
+l'm on my way.
+
+415
+00:22:05,090 --> 00:22:06,148
+No response from the Array.
+
+416
+00:22:06,224 --> 00:22:07,919
+Ensign, get down to Sick Bay.
+See what's going on.
+
+417
+00:22:07,993 --> 00:22:09,358
+Mr. Rollins,
+the Bridge is yours.
+
+418
+00:22:09,428 --> 00:22:10,918
+Aye, Captain.
+
+419
+00:22:14,766 --> 00:22:16,097
+Harry, wait for me.
+
+420
+00:22:33,352 --> 00:22:34,410
+They must have been
+
+421
+00:22:34,486 --> 00:22:36,113
+right next to the console
+when it exploded.
+
+422
+00:22:48,533 --> 00:22:51,798
+Warning.
+Warp core micro-fracture.
+
+423
+00:22:51,870 --> 00:22:53,201
+Breach imminent.
+
+424
+00:22:54,373 --> 00:22:56,307
+What's the warp core pressure?
+
+425
+00:22:56,375 --> 00:22:57,842
+2,100 kilopascals.
+
+426
+00:22:59,111 --> 00:23:01,602
+Lock down
+the magnetic constrictors.
+
+427
+00:23:01,713 --> 00:23:03,943
+lf we lock them down
+at these pressure levels,
+
+428
+00:23:03,982 --> 00:23:05,415
+we might not be able
+to reinitialize
+
+429
+00:23:05,484 --> 00:23:06,416
+the dilithium reaction.
+
+430
+00:23:06,485 --> 00:23:07,645
+Warning.
+
+431
+00:23:07,719 --> 00:23:09,516
+Warp core microfracture.
+Breach imminent.
+
+432
+00:23:09,588 --> 00:23:10,520
+We don't have a choice.
+
+433
+00:23:10,589 --> 00:23:11,749
+We've got to get
+the reaction rate
+
+434
+00:23:11,823 --> 00:23:13,814
+down
+before we try to seal it.
+
+435
+00:23:14,793 --> 00:23:15,760
+Computer, initiate
+
+436
+00:23:15,827 --> 00:23:17,454
+emergency medical
+holographic program.
+
+437
+00:23:20,465 --> 00:23:23,059
+Please state the nature
+of the medical emergency.
+
+438
+00:23:23,135 --> 00:23:24,261
+Multiple percussive injuries.
+
+439
+00:23:24,336 --> 00:23:25,360
+Status of your doctor?
+
+440
+00:23:25,437 --> 00:23:26,404
+He's dead.
+
+441
+00:23:26,471 --> 00:23:27,699
+.4cc's of trianoline.
+
+442
+00:23:27,773 --> 00:23:29,240
+Trianoline?
+
+443
+00:23:29,307 --> 00:23:31,002
+We lost our nurse, too.
+
+444
+00:23:32,444 --> 00:23:34,708
+How soon are replacement
+medical personnel expected?
+
+445
+00:23:34,780 --> 00:23:36,270
+That could be a problem.
+
+446
+00:23:36,348 --> 00:23:38,339
+We're pretty far away
+from replacements right now.
+
+447
+00:23:40,051 --> 00:23:41,313
+Tricorder.
+
+448
+00:23:45,791 --> 00:23:47,315
+Medical tricorder.
+
+449
+00:23:55,700 --> 00:23:58,225
+A replacement must be requested
+as soon as possible.
+
+450
+00:23:58,303 --> 00:23:59,895
+l am programmed
+only as a short-term
+
+451
+00:23:59,971 --> 00:24:01,836
+emergency supplement
+to the medical team.
+
+452
+00:24:01,940 --> 00:24:04,875
+Well, we may be stuck
+with you for a while, Doc.
+
+453
+00:24:04,910 --> 00:24:06,571
+There's no need for concern.
+
+454
+00:24:06,645 --> 00:24:09,239
+l am capable of treating
+any injury or disease.
+
+455
+00:24:09,314 --> 00:24:10,440
+No concussion.
+You'll be fine.
+
+456
+00:24:10,515 --> 00:24:11,504
+Clean him up.
+
+457
+00:24:21,893 --> 00:24:23,758
+Unlock the magnetic
+constrictors.
+
+458
+00:24:28,433 --> 00:24:29,593
+Constrictors on line.
+
+459
+00:24:29,668 --> 00:24:30,930
+Pressure?
+
+460
+00:24:31,036 --> 00:24:32,094
+lt's working.
+
+461
+00:24:32,170 --> 00:24:35,139
+2,500 kilopascals and holding.
+
+462
+00:24:35,207 --> 00:24:36,174
+Bridge to Janeway.
+
+463
+00:24:36,241 --> 00:24:38,300
+We're being scanned
+by the Array, Captain.
+
+464
+00:24:38,376 --> 00:24:40,276
+lt's penetrated our shields.
+
+465
+00:24:40,345 --> 00:24:41,277
+What kind of scan?
+
+466
+00:24:42,347 --> 00:24:43,314
+Bridge?
+
+467
+00:24:43,381 --> 00:24:44,575
+Janeway to Bridge.
+Respond.
+
+468
+00:24:47,118 --> 00:24:48,983
+lnitiate emergency lock off.
+
+469
+00:24:56,261 --> 00:24:59,162
+You're not seriously hurt.
+You can return to your station.
+
+470
+00:25:09,374 --> 00:25:11,865
+This is the emergency
+holographic doctor speaking.
+
+471
+00:25:11,943 --> 00:25:12,910
+l gave no permission
+
+472
+00:25:12,978 --> 00:25:14,969
+for anyone to be transported
+out of Sick Bay.
+
+473
+00:25:17,215 --> 00:25:18,614
+Hello.
+
+474
+00:25:18,683 --> 00:25:20,241
+Sick Bay to Bridge.
+
+475
+00:25:22,721 --> 00:25:25,519
+l believe someone has failed
+to terminate my program.
+
+476
+00:25:25,590 --> 00:25:26,750
+Please respond.
+
+477
+00:25:41,072 --> 00:25:42,903
+Come up here.
+
+478
+00:25:42,974 --> 00:25:43,906
+Come on now.
+
+479
+00:25:43,975 --> 00:25:45,806
+l have a pitcher
+
+480
+00:25:45,977 --> 00:25:48,343
+of lemonade
+and some sugar cookies.
+
+481
+00:25:53,985 --> 00:25:54,974
+Captain?
+
+482
+00:25:55,053 --> 00:25:56,816
+Don't believe your eyes,
+Mr. Paris.
+
+483
+00:25:56,888 --> 00:25:58,981
+We've only transported
+100 kilometers.
+
+484
+00:25:59,057 --> 00:26:01,355
+We're inside the Array.
+
+485
+00:26:01,459 --> 00:26:03,893
+There's no indication
+of stable matter.
+
+486
+00:26:03,929 --> 00:26:06,727
+All this must be some kind
+of holographic projection.
+
+487
+00:26:06,798 --> 00:26:09,096
+Oh, you poor things.
+You must be tired out.
+
+488
+00:26:09,167 --> 00:26:11,431
+But come on and sit down
+and rest a while.
+
+489
+00:26:11,503 --> 00:26:12,697
+Have a cold drink, hmm?
+
+490
+00:26:12,771 --> 00:26:14,261
+No, thank you.
+
+491
+00:26:14,339 --> 00:26:16,534
+My name is Kathryn Janeway,
+
+492
+00:26:16,608 --> 00:26:19,133
+Captain of the Federation
+Starship Voyager.
+
+493
+00:26:19,210 --> 00:26:21,872
+Now just make yourselves
+right at home.
+
+494
+00:26:22,013 --> 00:26:24,345
+The neighbors should
+be here any minute.
+
+495
+00:26:24,416 --> 00:26:25,849
+Oh. Why, here they are.
+
+496
+00:26:27,185 --> 00:26:28,152
+Howdy.
+
+497
+00:26:28,219 --> 00:26:29,811
+Welcome, folks.
+
+498
+00:26:29,888 --> 00:26:31,287
+Hey.
+
+499
+00:26:31,356 --> 00:26:34,325
+Well, good to see you.
+Welcome.
+
+500
+00:26:34,392 --> 00:26:36,121
+We're real glad you dropped by.
+
+501
+00:26:36,194 --> 00:26:37,923
+Now we can get started.
+
+502
+00:26:37,996 --> 00:26:42,126
+You're all invited
+to the welcoming bee!
+
+503
+00:26:42,200 --> 00:26:43,929
+Let's have some music!
+
+504
+00:26:49,975 --> 00:26:51,567
+Yoo-hoo!
+
+505
+00:27:15,700 --> 00:27:18,533
+The crew's scattered
+around this farm, Captain,
+
+506
+00:27:18,603 --> 00:27:20,628
+but they're all accounted for.
+
+507
+00:27:20,705 --> 00:27:22,832
+Move around.
+Scan the area.
+
+508
+00:27:22,907 --> 00:27:24,169
+See if you can find anything
+
+509
+00:27:24,242 --> 00:27:26,142
+that might be
+a holographic generator.
+
+510
+00:27:27,812 --> 00:27:30,212
+Have some nice fresh
+corn on the cob.
+
+511
+00:27:30,281 --> 00:27:33,773
+Fresh corn on the cob.
+
+512
+00:27:33,852 --> 00:27:37,288
+Corn on the cob?
+Corn on the cob?
+
+513
+00:27:37,355 --> 00:27:39,084
+Can you tell me why we're here?
+
+514
+00:27:39,157 --> 00:27:41,125
+Oh, we don't mean you any harm.
+
+515
+00:27:41,192 --> 00:27:43,660
+l'm sorry if we've put you out.
+
+516
+00:27:43,728 --> 00:27:45,286
+Why don't you just
+put your feet up
+
+517
+00:27:45,363 --> 00:27:46,921
+and get comfortable
+while you wait?
+
+518
+00:27:47,032 --> 00:27:48,590
+Wait for what?
+
+519
+00:27:48,667 --> 00:27:51,261
+lsn't anybody hungry?
+
+520
+00:27:51,336 --> 00:27:53,566
+Come on, now.
+Make yourselves at home.
+
+521
+00:27:53,638 --> 00:27:55,902
+l'm sorry if we've put you out.
+
+522
+00:28:07,919 --> 00:28:10,410
+Hey, let me show you around.
+
+523
+00:28:10,488 --> 00:28:11,887
+The root cellar's
+right over there.
+
+524
+00:28:12,891 --> 00:28:14,017
+What's down there?
+
+525
+00:28:14,092 --> 00:28:15,616
+Potatoes, onions.
+
+526
+00:28:15,694 --> 00:28:17,389
+But it's real private.
+
+527
+00:28:17,462 --> 00:28:18,759
+Hmm.
+
+528
+00:28:18,830 --> 00:28:21,128
+Paris, she's only a hologram.
+
+529
+00:28:21,199 --> 00:28:22,757
+No reason to be rude.
+
+530
+00:28:23,968 --> 00:28:24,957
+Whoa.
+
+531
+00:28:25,036 --> 00:28:25,968
+What?
+
+532
+00:28:26,037 --> 00:28:27,504
+Sporocystian life signs.
+
+533
+00:28:33,845 --> 00:28:35,312
+What's in the barn?
+
+534
+00:28:35,380 --> 00:28:37,507
+Oh, nothing
+but a big ol' pile of hay.
+
+535
+00:28:37,582 --> 00:28:39,345
+Hey, come on! Let's
+go see the duck pond.
+
+536
+00:28:39,417 --> 00:28:40,349
+Nothing in there.
+
+537
+00:28:40,418 --> 00:28:42,750
+lt's just a dark, smelly barn.
+
+538
+00:28:42,821 --> 00:28:45,517
+Hey, do y'all want
+some deviled eggs?
+
+539
+00:28:45,590 --> 00:28:46,887
+Huh?
+
+540
+00:28:52,163 --> 00:28:54,688
+See? Nothing but hay.
+
+541
+00:28:54,766 --> 00:28:56,324
+There's a life-form here.
+
+542
+00:28:56,401 --> 00:28:57,891
+-Just one.
+-Where?
+
+543
+00:28:57,969 --> 00:28:59,061
+lt's everywhere.
+
+544
+00:29:00,238 --> 00:29:03,503
+l'm also reading some kind
+of matrix processing device.
+
+545
+00:29:03,575 --> 00:29:05,042
+lt may be
+the holographic generator.
+
+546
+00:29:07,045 --> 00:29:08,808
+Paris.
+
+547
+00:29:08,880 --> 00:29:10,711
+Humanoid life signs over here.
+
+548
+00:29:10,782 --> 00:29:14,809
+l'm reading a Vulcan
+and several humans.
+
+549
+00:29:14,886 --> 00:29:17,548
+l'm not ready for you yet!
+
+550
+00:29:23,328 --> 00:29:24,454
+Paris to Janeway.
+
+551
+00:29:26,064 --> 00:29:27,031
+Janeway here.
+
+552
+00:29:27,098 --> 00:29:28,258
+Paris?
+
+553
+00:29:29,801 --> 00:29:30,790
+Come on.
+
+554
+00:29:50,955 --> 00:29:51,922
+Very well.
+
+555
+00:29:51,990 --> 00:29:54,618
+Since no one seems
+to care for any corn,
+
+556
+00:29:54,692 --> 00:29:57,183
+we'll have to proceed
+ahead of schedule.
+
+557
+00:31:27,886 --> 00:31:30,411
+Janeway to Bridge.
+Anybody there?
+
+558
+00:31:30,488 --> 00:31:32,456
+Yes, Captain, we're here.
+
+559
+00:31:32,523 --> 00:31:33,854
+How long were we over there?
+
+560
+00:31:35,727 --> 00:31:37,092
+Almost three days.
+
+561
+00:31:37,161 --> 00:31:38,389
+Three days!
+
+562
+00:31:38,463 --> 00:31:42,297
+Captain, the Maquis ship
+is powering up its engines.
+
+563
+00:31:42,367 --> 00:31:43,994
+Tractor them.
+All senior officers report
+
+564
+00:31:44,102 --> 00:31:45,296
+to the Bridge immediately.
+
+565
+00:31:45,370 --> 00:31:48,601
+Excuse me, could you explain
+what has transpired?
+
+566
+00:31:48,673 --> 00:31:50,140
+Computer, locate Ensign Kim.
+
+567
+00:31:50,208 --> 00:31:52,267
+Ensign Kim is not on board.
+
+568
+00:31:52,343 --> 00:31:54,174
+Uh, Paris to Janeway.
+
+569
+00:31:54,245 --> 00:31:56,008
+Go ahead.
+
+570
+00:31:56,080 --> 00:31:58,275
+Kim didn't come back with us.
+He must still be over there.
+
+571
+00:31:58,349 --> 00:31:59,316
+Acknowledged.
+
+572
+00:31:59,384 --> 00:32:01,181
+Computer, how many crewmen
+are unaccounted for?
+
+573
+00:32:01,286 --> 00:32:03,151
+One: Ensign Harry Kim.
+
+574
+00:32:03,187 --> 00:32:04,620
+Hail the Maquis.
+
+575
+00:32:06,257 --> 00:32:07,747
+Commander Chakotay,
+
+576
+00:32:07,825 --> 00:32:10,259
+my name is
+Captain Kathryn Janeway.
+
+577
+00:32:10,328 --> 00:32:11,727
+How do you know my name?
+
+578
+00:32:11,796 --> 00:32:13,229
+We were on a mission
+to find you
+
+579
+00:32:13,298 --> 00:32:15,129
+when we were brought here
+by the Array.
+
+580
+00:32:15,199 --> 00:32:17,292
+One of our crewmen is missing.
+
+581
+00:32:17,368 --> 00:32:20,132
+Was he transported back
+to your ship by accident?
+
+582
+00:32:20,204 --> 00:32:23,071
+No. A member of our crew
+is missing, too.
+
+583
+00:32:23,141 --> 00:32:25,769
+B'Elanna Torres, my Engineer.
+
+584
+00:32:25,843 --> 00:32:28,607
+Commander, you and l
+have the same problem.
+
+585
+00:32:28,680 --> 00:32:29,669
+l think it makes sense
+
+586
+00:32:29,747 --> 00:32:31,715
+to try and solve it together,
+don't you?
+
+587
+00:32:37,121 --> 00:32:39,681
+Three of us will transport
+to your ship.
+
+588
+00:32:40,625 --> 00:32:41,990
+They're powering down
+their engines
+
+589
+00:32:42,060 --> 00:32:43,049
+dropping their shields.
+
+590
+00:32:48,800 --> 00:32:50,233
+Watch out, Captain.
+They're armed.
+
+591
+00:32:51,369 --> 00:32:53,303
+Put down your weapons.
+
+592
+00:32:55,974 --> 00:32:57,965
+You won't need those here.
+
+593
+00:32:59,444 --> 00:33:01,207
+lt's good to have you back,
+Mr. Tuvok.
+
+594
+00:33:02,847 --> 00:33:05,077
+l must inform you
+that l was assigned
+
+595
+00:33:05,149 --> 00:33:06,878
+to infiltrate your crew, sir.
+
+596
+00:33:06,951 --> 00:33:09,249
+l am Captain Janeway's
+Chief of Security.
+
+597
+00:33:11,322 --> 00:33:13,051
+Were you going to deliver us
+
+598
+00:33:13,124 --> 00:33:15,092
+into their waiting hands,
+Vulcan?
+
+599
+00:33:15,159 --> 00:33:18,219
+My mission was
+to accumulate information
+
+600
+00:33:18,296 --> 00:33:19,923
+on Maquis activities
+
+601
+00:33:20,031 --> 00:33:22,829
+and then deliver you
+into their ''waiting hands.''
+
+602
+00:33:22,900 --> 00:33:23,832
+That is correct.
+
+603
+00:33:23,901 --> 00:33:25,630
+l see you had help.
+
+604
+00:33:25,703 --> 00:33:29,571
+lt's good to see you, too,
+Chakotay.
+
+605
+00:33:29,640 --> 00:33:32,234
+At least the Vulcan was doing
+his duty as a Starfleet officer,
+
+606
+00:33:32,310 --> 00:33:33,538
+but you...
+
+607
+00:33:33,611 --> 00:33:35,340
+you betrayed us for what?
+
+608
+00:33:35,413 --> 00:33:38,576
+Freedom from prison?
+Latinum?
+
+609
+00:33:38,649 --> 00:33:40,981
+What was your price this time?!
+
+610
+00:33:41,052 --> 00:33:43,111
+You are speaking
+to a member of my crew.
+
+611
+00:33:43,187 --> 00:33:45,212
+l expect you to treat him
+with the same respect
+
+612
+00:33:45,289 --> 00:33:47,655
+as you would have me
+treat a member of yours.
+
+613
+00:33:52,663 --> 00:33:56,394
+Now, we have a lot to accomplish
+and l suggest we all concentrate
+
+614
+00:33:56,467 --> 00:33:59,732
+on finding our people
+and getting ourselves back home.
+
+615
+00:33:59,804 --> 00:34:00,828
+Based on my initial
+
+616
+00:34:00,938 --> 00:34:03,771
+reconnaissance, Captain
+l am convinced we are dealing
+
+617
+00:34:03,808 --> 00:34:05,776
+with a single entity
+in the Array.
+
+618
+00:34:05,843 --> 00:34:08,141
+l would suggest
+he scanned our computers
+
+619
+00:34:08,212 --> 00:34:11,306
+in order to select a comfortable
+holographic environment.
+
+620
+00:34:11,382 --> 00:34:13,282
+ln effect, a waiting room
+
+621
+00:34:13,351 --> 00:34:16,787
+to pacify us prior
+to biometric assessment.
+
+622
+00:34:16,854 --> 00:34:18,412
+An examination?
+
+623
+00:34:18,489 --> 00:34:20,923
+lt is the most
+logical explanation.
+
+624
+00:34:21,025 --> 00:34:23,289
+Why else would he have
+released us unharmed?
+
+625
+00:34:23,361 --> 00:34:25,556
+Not all of us were.
+
+626
+00:34:27,398 --> 00:34:29,832
+Break out the compression
+phaser rifles.
+
+627
+00:34:29,901 --> 00:34:31,562
+Meet us in Transporter Room 2.
+
+628
+00:34:31,636 --> 00:34:33,627
+We're going back.
+
+629
+00:34:33,704 --> 00:34:35,433
+We'll divide into teams.
+
+630
+00:34:35,506 --> 00:34:37,974
+Mr. Tuvok, while Chakotay
+and l are looking for Torres
+
+631
+00:34:38,076 --> 00:34:39,771
+and, Kim, your job
+is to find out
+
+632
+00:34:39,844 --> 00:34:42,312
+as much about this Array
+as you can.
+
+633
+00:34:42,380 --> 00:34:43,312
+lt brought us here.
+
+634
+00:34:43,381 --> 00:34:45,178
+We have to assume
+it can send us home.
+
+635
+00:34:45,249 --> 00:34:48,218
+Agreed?
+
+636
+00:34:51,823 --> 00:34:54,485
+Mr. Rollins, maintain Red Alert.
+
+637
+00:34:54,559 --> 00:34:56,618
+Keep us on constant
+transporter locks.
+
+638
+00:34:56,694 --> 00:34:57,661
+Captain.
+
+639
+00:35:01,132 --> 00:35:02,292
+l'd like to go with you.
+
+640
+00:35:02,366 --> 00:35:04,027
+lf this has something
+to do with what Chakotay...
+
+641
+00:35:04,102 --> 00:35:06,297
+lt doesn't.
+l just...
+
+642
+00:35:07,638 --> 00:35:10,129
+l'd hate to see
+anything happen to Harry.
+
+643
+00:35:12,210 --> 00:35:13,268
+Come on.
+
+644
+00:35:36,801 --> 00:35:39,235
+There are no humanoid
+life-forms indicated, Captain.
+
+645
+00:35:39,303 --> 00:35:41,635
+Kim and Torres are not
+within tricorder range.
+
+646
+00:35:41,706 --> 00:35:43,196
+They may not be on the Array.
+
+647
+00:35:43,274 --> 00:35:44,866
+He can tell us where they are.
+
+648
+00:35:44,942 --> 00:35:46,671
+Maintain your com link.
+
+649
+00:35:46,744 --> 00:35:48,871
+l don't want
+to lose anyone else.
+
+650
+00:36:01,292 --> 00:36:03,226
+Oh, why have you come back?
+
+651
+00:36:03,294 --> 00:36:05,228
+You don't have what l need.
+
+652
+00:36:05,396 --> 00:36:07,864
+l don't know what you need
+and, frankly, l don't care.
+
+653
+00:36:07,932 --> 00:36:09,331
+l just want our people back
+
+654
+00:36:09,400 --> 00:36:11,265
+and l want us all
+to be sent home.
+
+655
+00:36:11,335 --> 00:36:14,133
+Oh, well, now,
+aren't you contentious
+
+656
+00:36:14,205 --> 00:36:16,969
+for a minor bipedal species.
+
+657
+00:36:18,209 --> 00:36:20,234
+This minor bipedal species
+
+658
+00:36:20,311 --> 00:36:22,336
+doesn't take kindly
+to being abducted.
+
+659
+00:36:22,413 --> 00:36:24,142
+Oh, it was necessary.
+
+660
+00:36:24,215 --> 00:36:25,580
+Where are our people?
+
+661
+00:36:25,650 --> 00:36:26,639
+They are no longer here.
+
+662
+00:36:26,717 --> 00:36:28,116
+What have you done to them?
+
+663
+00:36:28,186 --> 00:36:30,746
+You don't have what l need.
+
+664
+00:36:30,821 --> 00:36:32,186
+They might.
+
+665
+00:36:32,256 --> 00:36:33,621
+No. You'll have to leave them.
+
+666
+00:36:33,691 --> 00:36:34,715
+We won't do that.
+
+667
+00:36:34,792 --> 00:36:36,726
+We are their commanding
+officers.
+
+668
+00:36:36,794 --> 00:36:38,386
+We are entrusted
+with their safety.
+
+669
+00:36:38,462 --> 00:36:40,453
+They are our responsibility.
+
+670
+00:36:40,531 --> 00:36:42,931
+That may be a concept
+you don't understand.
+
+671
+00:36:43,000 --> 00:36:46,367
+Oh, no, l do understand,
+
+672
+00:36:46,437 --> 00:36:49,099
+but l have no choice.
+
+673
+00:36:49,173 --> 00:36:51,869
+Oh...
+
+674
+00:36:51,943 --> 00:36:54,935
+There just is
+not enough time left.
+
+675
+00:36:55,079 --> 00:36:56,671
+Left for what?
+
+676
+00:36:56,747 --> 00:37:00,012
+l must honor a debt
+that can never be repaid,
+
+677
+00:37:00,084 --> 00:37:03,520
+but my search has
+not been going well.
+
+678
+00:37:06,958 --> 00:37:09,392
+Tell us what you're looking for.
+
+679
+00:37:09,460 --> 00:37:11,189
+Maybe we can help you find it.
+
+680
+00:37:11,262 --> 00:37:12,695
+You?
+
+681
+00:37:14,465 --> 00:37:15,727
+l've searched the galaxy
+
+682
+00:37:15,800 --> 00:37:17,825
+with methods
+beyond your comprehension.
+
+683
+00:37:17,902 --> 00:37:20,029
+No. There's nothing you can do.
+
+684
+00:37:20,104 --> 00:37:23,835
+You've taken us 70,000
+light-years from our home.
+
+685
+00:37:23,908 --> 00:37:25,876
+We have no way back
+unless you send us
+
+686
+00:37:25,977 --> 00:37:27,911
+and we won't leave
+without the others.
+
+687
+00:37:27,979 --> 00:37:32,416
+But... sending you back
+is terribly complicated.
+
+688
+00:37:32,483 --> 00:37:33,916
+Don't you understand?
+
+689
+00:37:33,985 --> 00:37:36,283
+l don't have time.
+
+690
+00:37:36,354 --> 00:37:38,914
+Not enough time!
+
+691
+00:38:07,952 --> 00:38:10,420
+He's regaining consciousness.
+
+692
+00:38:12,223 --> 00:38:13,815
+How do you feel?
+
+693
+00:38:15,293 --> 00:38:16,851
+What am l doing here?
+
+694
+00:38:16,961 --> 00:38:18,053
+Where am l?
+
+695
+00:38:18,129 --> 00:38:20,290
+Please don't try to move yet.
+
+696
+00:38:20,364 --> 00:38:21,592
+You're very ill.
+
+697
+00:38:21,666 --> 00:38:22,758
+lll? No, no,
+there's some mistake,
+
+698
+00:38:22,833 --> 00:38:23,891
+l'm not...
+
+699
+00:38:34,345 --> 00:38:35,437
+No!
+
+700
+00:39:21,158 --> 00:39:25,390
+Captain's Log, Stardate 48315.6.
+
+701
+00:39:25,463 --> 00:39:27,863
+We've traced the energy pulses
+from the Array
+
+702
+00:39:27,932 --> 00:39:30,730
+to the fifth planet
+of the neighboring system
+
+703
+00:39:30,801 --> 00:39:32,701
+and believe they may have
+been used in some fashion
+
+704
+00:39:32,770 --> 00:39:36,365
+to transport Kim and Torres
+to the planet's surface.
+
+705
+00:39:41,312 --> 00:39:42,643
+Come in.
+
+706
+00:39:44,782 --> 00:39:48,445
+Captain, l've observed something
+peculiar about the pulses.
+
+707
+00:39:48,519 --> 00:39:50,350
+They're getting faster.
+
+708
+00:39:51,856 --> 00:39:53,323
+Faster.
+
+709
+00:39:53,391 --> 00:39:55,086
+The interval between each pulse
+
+710
+00:39:55,159 --> 00:39:57,787
+has decreased by .47
+seconds since we arrived.
+
+711
+00:39:57,862 --> 00:39:59,796
+l can offer no explanation.
+
+712
+00:39:59,864 --> 00:40:02,697
+That's only one of the mysteries
+we're dealing with, Mr. Tuvok.
+
+713
+00:40:02,767 --> 00:40:04,462
+Take a look at this.
+
+714
+00:40:08,105 --> 00:40:10,403
+lt's virtually a desert.
+
+715
+00:40:10,474 --> 00:40:11,566
+Not one ocean.
+
+716
+00:40:11,642 --> 00:40:12,802
+Not one river.
+
+717
+00:40:12,877 --> 00:40:14,708
+lt has all the basic
+characteristics
+
+718
+00:40:14,779 --> 00:40:16,371
+of an M-Class planet, except...
+
+719
+00:40:18,048 --> 00:40:19,913
+there are no
+nucleogenic particles
+
+720
+00:40:19,984 --> 00:40:20,951
+in the atmosphere.
+
+721
+00:40:21,018 --> 00:40:22,781
+That would mean
+the planet is incapable
+
+722
+00:40:22,853 --> 00:40:23,785
+of producing rain.
+
+723
+00:40:23,854 --> 00:40:25,481
+l've studied thousands
+of M-Class planets.
+
+724
+00:40:25,556 --> 00:40:27,990
+l've never seen an atmosphere
+without nucleogenics.
+
+725
+00:40:28,058 --> 00:40:29,082
+There must have been
+
+726
+00:40:29,160 --> 00:40:32,357
+some kind of extraordinary
+environmental disaster.
+
+727
+00:40:39,770 --> 00:40:41,738
+As soon as repairs
+are complete...
+
+728
+00:40:45,176 --> 00:40:47,736
+we'll set a course
+for the fifth planet.
+
+729
+00:40:52,116 --> 00:40:53,481
+Captain.
+
+730
+00:40:53,551 --> 00:40:55,849
+You require sleep.
+
+731
+00:40:57,421 --> 00:41:00,083
+Kim's mother called me
+just after he left Earth.
+
+732
+00:41:00,157 --> 00:41:02,057
+Delightful woman.
+
+733
+00:41:02,126 --> 00:41:04,094
+He's her only son.
+
+734
+00:41:04,161 --> 00:41:07,153
+He'd left his clarinet behind.
+
+735
+00:41:07,231 --> 00:41:10,928
+She wanted to know if she
+had time to send it.
+
+736
+00:41:12,770 --> 00:41:14,169
+l had to tell her no.
+
+737
+00:41:16,273 --> 00:41:18,173
+Do you know
+he played the clarinet
+
+738
+00:41:18,242 --> 00:41:20,073
+in the Juilliard Youth Symphony?
+
+739
+00:41:20,144 --> 00:41:23,238
+l did not have the opportunity
+to meet Mr. Kim.
+
+740
+00:41:23,314 --> 00:41:25,748
+l barely knew him.
+
+741
+00:41:27,685 --> 00:41:30,711
+l never seem to have the chance
+to get to know any of them.
+
+742
+00:41:33,090 --> 00:41:35,251
+l have to, um...
+
+743
+00:41:37,027 --> 00:41:39,655
+l have to take more time
+to do that.
+
+744
+00:41:41,765 --> 00:41:44,791
+lt's a fine crew
+and l've got to get them home.
+
+745
+00:41:47,171 --> 00:41:48,866
+The crew will not benefit
+
+746
+00:41:48,939 --> 00:41:51,203
+from the leadership
+of an exhausted Captain.
+
+747
+00:41:54,044 --> 00:41:56,342
+You're right as usual.
+
+748
+00:41:58,282 --> 00:41:59,909
+l've missed your counsel, Tuvok.
+
+749
+00:41:59,984 --> 00:42:02,817
+l am gratified
+that you came after me
+
+750
+00:42:02,920 --> 00:42:04,581
+so l can offer it once again.
+
+751
+00:42:04,622 --> 00:42:07,318
+l spoke to your family
+before l left.
+
+752
+00:42:07,391 --> 00:42:09,689
+Are they well?
+
+753
+00:42:09,760 --> 00:42:12,251
+Well, but worried about you.
+
+754
+00:42:12,329 --> 00:42:15,890
+That would not be
+an accurate perception, Captain.
+
+755
+00:42:15,966 --> 00:42:18,400
+Vulcans do not worry.
+
+756
+00:42:18,469 --> 00:42:22,303
+They... miss you.
+
+757
+00:42:24,008 --> 00:42:26,135
+As l do them.
+
+758
+00:42:32,416 --> 00:42:34,316
+l'll get you back to them.
+
+759
+00:42:34,385 --> 00:42:36,012
+That's a promise, Tuvok.
+
+760
+00:42:49,099 --> 00:42:51,624
+Captain's Log, supplemental.
+
+761
+00:42:51,702 --> 00:42:54,762
+The Maquis ship and Voyager
+have encountered a debris field
+
+762
+00:42:54,838 --> 00:42:56,965
+where sensors have detected
+a small vessel.
+
+763
+00:42:57,041 --> 00:42:59,566
+One humanoid life-form
+is on board.
+
+764
+00:42:59,643 --> 00:43:01,235
+Hail them.
+
+765
+00:43:11,355 --> 00:43:15,587
+Whoever you are, l found
+this waste zone first.
+
+766
+00:43:15,659 --> 00:43:18,822
+We're not interested
+in this debris, Mister...?
+
+767
+00:43:18,896 --> 00:43:21,330
+Neelix.
+
+768
+00:43:21,398 --> 00:43:25,926
+And since you're not interested
+in my ''debris''
+
+769
+00:43:26,003 --> 00:43:28,938
+well, l'm delighted to know you.
+
+770
+00:43:29,006 --> 00:43:30,530
+Captain Kathryn Janeway
+
+771
+00:43:30,608 --> 00:43:33,099
+of the Federation
+Starship Voyager.
+
+772
+00:43:33,177 --> 00:43:34,940
+A very impressive title.
+
+773
+00:43:35,012 --> 00:43:37,071
+l have no idea what it means,
+
+774
+00:43:37,147 --> 00:43:38,978
+but it sounds very impressive.
+
+775
+00:43:39,083 --> 00:43:43,281
+Do you know this area
+of space well, Mr. Neelix?
+
+776
+00:43:43,354 --> 00:43:46,255
+l am famous for knowing it well.
+
+777
+00:43:46,323 --> 00:43:48,223
+How may l be of service?
+
+778
+00:43:48,292 --> 00:43:50,157
+Do you know anything
+about the Array
+
+779
+00:43:50,227 --> 00:43:52,752
+that's sending energy pulses
+to the fifth planet?
+
+780
+00:43:52,830 --> 00:43:56,766
+l know enough to stay
+as far away from it as possible.
+
+781
+00:43:56,834 --> 00:44:00,395
+Wait, let me guess.
+
+782
+00:44:00,471 --> 00:44:05,374
+You were whisked away from
+somewhere else in the galaxy
+
+783
+00:44:05,442 --> 00:44:07,842
+and brought here
+against your will.
+
+784
+00:44:07,911 --> 00:44:11,244
+Sounds as though you've heard
+this story before.
+
+785
+00:44:11,315 --> 00:44:14,512
+Sadly, yes, thousands of times.
+
+786
+00:44:14,585 --> 00:44:16,416
+Well, hundreds of times.
+
+787
+00:44:16,487 --> 00:44:18,580
+Maybe 50 times.
+
+788
+00:44:18,656 --> 00:44:19,884
+But the Caretaker
+
+789
+00:44:19,957 --> 00:44:22,926
+has been bringing ships here
+for months now.
+
+790
+00:44:22,993 --> 00:44:24,426
+The Caretaker?
+
+791
+00:44:24,495 --> 00:44:28,022
+That's what the Ocampa call him.
+
+792
+00:44:28,098 --> 00:44:30,931
+They live on the fifth planet.
+
+793
+00:44:31,001 --> 00:44:34,801
+Did he... kidnap members
+of your crew?
+
+794
+00:44:34,872 --> 00:44:37,238
+As a matter of fact, he did.
+
+795
+00:44:37,307 --> 00:44:39,639
+lt's not the first time.
+
+796
+00:44:39,710 --> 00:44:41,701
+Do you know where
+he might have taken them?
+
+797
+00:44:41,779 --> 00:44:44,771
+Just that they're brought
+to the Ocampa.
+
+798
+00:44:44,848 --> 00:44:46,748
+Nothing more.
+
+799
+00:44:46,817 --> 00:44:48,614
+We'd appreciate any help
+you could give us
+
+800
+00:44:48,686 --> 00:44:50,916
+in finding these... Ocampa.
+
+801
+00:44:50,988 --> 00:44:54,981
+l-l-l really wish
+that l could help you, l do.
+
+802
+00:44:55,059 --> 00:44:56,253
+But as you can see,
+
+803
+00:44:56,326 --> 00:44:58,954
+there's just so much debris
+for me to investigate today.
+
+804
+00:44:59,029 --> 00:45:04,057
+You'd be surprised the things
+of value some people abandon.
+
+805
+00:45:04,168 --> 00:45:06,864
+Of course, we'd want to
+compensate you for your trouble.
+
+806
+00:45:06,904 --> 00:45:11,170
+Well, there's really very little
+that you could offer me.
+
+807
+00:45:11,241 --> 00:45:14,210
+Unless...
+
+808
+00:45:14,278 --> 00:45:15,745
+Yes?
+
+809
+00:45:15,813 --> 00:45:18,145
+Unless, of course,
+
+810
+00:45:18,215 --> 00:45:20,206
+you had...
+
+811
+00:45:20,284 --> 00:45:22,514
+...water?
+
+812
+00:45:25,456 --> 00:45:28,220
+lf you help us find
+our missing crew members,
+
+813
+00:45:28,292 --> 00:45:30,886
+you can have
+all the water you want.
+
+814
+00:45:32,830 --> 00:45:36,664
+Well, tha-that sounds like
+a very reasonable arrangement.
+
+815
+00:45:36,734 --> 00:45:38,065
+Good. We'll beam you over
+
+816
+00:45:38,135 --> 00:45:39,830
+and tow your ship
+into our shuttlebay.
+
+817
+00:45:39,903 --> 00:45:43,395
+Mr. Tuvok, go to Transporter
+Room 2 and meet our guest.
+
+818
+00:45:43,474 --> 00:45:46,034
+Beam?
+
+819
+00:45:46,110 --> 00:45:47,407
+We have a technology
+
+820
+00:45:47,478 --> 00:45:50,379
+which can take you instantly
+from your ship to ours.
+
+821
+00:45:50,447 --> 00:45:52,176
+lt's quite harmless.
+
+822
+00:45:52,249 --> 00:45:53,511
+May we?
+
+823
+00:45:59,923 --> 00:46:01,049
+Energize.
+
+824
+00:46:11,769 --> 00:46:14,567
+Astonishing!
+
+825
+00:46:14,638 --> 00:46:15,570
+You Federations
+
+826
+00:46:15,639 --> 00:46:18,267
+are obviously
+an advanced culture.
+
+827
+00:46:18,342 --> 00:46:21,038
+The Federation is made up
+of many cultures.
+
+828
+00:46:21,111 --> 00:46:23,079
+l am Vulcan.
+
+829
+00:46:23,147 --> 00:46:24,739
+Neelix.
+
+830
+00:46:26,750 --> 00:46:28,615
+Good to meet you.
+
+831
+00:46:28,685 --> 00:46:31,449
+lnteresting.
+
+832
+00:46:31,522 --> 00:46:35,356
+What... what exactly...
+
+833
+00:46:37,461 --> 00:46:40,157
+What exactly does all this...
+
+834
+00:46:40,230 --> 00:46:41,697
+all this do?
+
+835
+00:46:41,765 --> 00:46:43,596
+l assure you
+that everything in this room
+
+836
+00:46:43,667 --> 00:46:45,862
+has a specific function.
+
+837
+00:46:45,936 --> 00:46:49,463
+However, it would take
+several hours to explain it all.
+
+838
+00:46:49,540 --> 00:46:52,202
+l suggest we proceed
+to your quarters.
+
+839
+00:46:52,276 --> 00:46:53,971
+Oh.
+
+840
+00:46:55,078 --> 00:46:57,137
+Perhaps you would care
+for a bath.
+
+841
+00:46:57,214 --> 00:46:58,909
+A what?
+
+842
+00:46:58,982 --> 00:47:00,882
+Hmm...
+
+843
+00:47:17,100 --> 00:47:19,534
+lt's okay.
+lt's okay.
+
+844
+00:47:19,603 --> 00:47:20,627
+Who are you?
+
+845
+00:47:20,704 --> 00:47:23,537
+My name is Kim-- Harry Kim.
+
+846
+00:47:23,607 --> 00:47:25,131
+l'm an Ensign
+on the Starship Voyager.
+
+847
+00:47:25,209 --> 00:47:27,871
+l was kidnapped from the Array
+just like you were.
+
+848
+00:47:28,011 --> 00:47:29,103
+l don't know where we are.
+
+849
+00:47:29,179 --> 00:47:31,010
+What was Starfleet doing
+at that Array?
+
+850
+00:47:31,081 --> 00:47:33,311
+We were looking for you,
+actually.
+
+851
+00:47:33,383 --> 00:47:35,351
+One minute, we're, we're
+in the Badlands, the next...
+
+852
+00:47:35,419 --> 00:47:37,546
+You mean, you were
+trying to capture us.
+
+853
+00:47:37,621 --> 00:47:40,055
+Yeah... consider
+yourself captured.
+
+854
+00:47:40,123 --> 00:47:41,784
+Oh, l know l have
+a phaser here somewhere.
+
+855
+00:47:41,859 --> 00:47:44,828
+l don't find this
+at all amusing, Starfleet.
+
+856
+00:47:47,731 --> 00:47:49,289
+There's no point.
+
+857
+00:47:49,366 --> 00:47:51,391
+lt's locked.
+
+858
+00:47:52,903 --> 00:47:53,927
+Hey!
+
+859
+00:47:54,004 --> 00:47:55,733
+Hey, hey, hey what's that
+going to accomplish?
+
+860
+00:47:55,806 --> 00:47:57,034
+What are they doing to us?!
+
+861
+00:47:57,107 --> 00:47:58,540
+What are these things
+growing on us?!
+
+862
+00:47:58,609 --> 00:48:00,543
+Look, do you want them
+to sedate you again?
+
+863
+00:48:04,081 --> 00:48:06,481
+You're right, Starfleet.
+
+864
+00:48:12,422 --> 00:48:14,515
+lt's the Klingon half of me.
+
+865
+00:48:14,591 --> 00:48:17,719
+lt's just, it's hard
+to control it sometimes.
+
+866
+00:48:24,835 --> 00:48:26,393
+What's your name, Maquis?
+
+867
+00:48:32,809 --> 00:48:34,572
+B'Elanna.
+
+868
+00:48:34,645 --> 00:48:36,875
+B'Elanna Torres.
+
+869
+00:48:38,949 --> 00:48:41,440
+l hope you're feeling better.
+
+870
+00:48:41,518 --> 00:48:44,681
+l know how frightening all this
+must be for both of you.
+
+871
+00:48:44,755 --> 00:48:48,350
+l've brought some clothes
+if you care to change.
+
+872
+00:48:48,425 --> 00:48:50,416
+Why are you holding us here?
+
+873
+00:48:50,494 --> 00:48:52,052
+You are not prisoners.
+
+874
+00:48:52,129 --> 00:48:55,064
+ln fact,
+we consider you honored guests.
+
+875
+00:48:56,633 --> 00:48:59,363
+The Caretaker
+has sent you to us.
+
+876
+00:48:59,436 --> 00:49:00,460
+As long as you are not violent
+
+877
+00:49:00,570 --> 00:49:01,832
+you are free
+to leave your quarters.
+
+878
+00:49:01,905 --> 00:49:04,066
+What's wrong with us?
+
+879
+00:49:04,141 --> 00:49:06,268
+What are these things?
+
+880
+00:49:06,343 --> 00:49:08,811
+We really don't know.
+
+881
+00:49:11,014 --> 00:49:12,572
+You must be hungry.
+
+882
+00:49:12,649 --> 00:49:15,550
+Would you care to join me
+on the courtyard for a meal?
+
+883
+00:49:19,256 --> 00:49:21,622
+Our food dispensers
+are right this way.
+
+884
+00:49:25,495 --> 00:49:27,395
+We're underground.
+
+885
+00:49:27,464 --> 00:49:30,160
+Our society is subterranean.
+
+886
+00:49:30,233 --> 00:49:34,169
+We've lived here
+for over 500 generations.
+
+887
+00:49:34,237 --> 00:49:36,364
+But before that,
+you lived on the surface?
+
+888
+00:49:36,440 --> 00:49:38,203
+Until the warming began.
+
+889
+00:49:38,275 --> 00:49:39,242
+The warming?
+
+890
+00:49:39,309 --> 00:49:41,402
+When our surface
+turned into a desert
+
+891
+00:49:41,478 --> 00:49:44,003
+and the Caretaker
+came to protect us.
+
+892
+00:49:44,081 --> 00:49:47,050
+Our ancient journals
+tell us he opened
+
+893
+00:49:47,117 --> 00:49:48,744
+a deep chasm in the ground
+
+894
+00:49:48,819 --> 00:49:51,219
+and led our ancestors
+to this place.
+
+895
+00:49:51,288 --> 00:49:54,815
+Since then, he has provided
+for all our needs.
+
+896
+00:49:59,629 --> 00:50:01,859
+Oh, please forgive them.
+
+897
+00:50:01,932 --> 00:50:03,832
+They know you've come
+from the Caretaker.
+
+898
+00:50:03,900 --> 00:50:06,562
+None of us has ever seen him.
+
+899
+00:50:06,636 --> 00:50:08,661
+This way, please.
+
+900
+00:50:21,918 --> 00:50:24,352
+Does the Caretaker
+provide your meals, too?
+
+901
+00:50:24,421 --> 00:50:25,445
+ln fact, he does.
+
+902
+00:50:25,522 --> 00:50:26,784
+He designed
+
+903
+00:50:26,857 --> 00:50:29,655
+and built this entire city
+for us after the warming.
+
+904
+00:50:29,726 --> 00:50:32,524
+The food processors dispense
+nutritional supplements
+
+905
+00:50:32,596 --> 00:50:34,564
+every 4.1 intervals.
+
+906
+00:50:36,600 --> 00:50:39,000
+lt may not offer
+the exotic tastes
+
+907
+00:50:39,069 --> 00:50:41,196
+some of our younger people
+crave these days,
+
+908
+00:50:41,271 --> 00:50:42,795
+but it meets our needs.
+
+909
+00:50:46,943 --> 00:50:49,434
+ls this how the Caretaker
+communicates with you?
+
+910
+00:50:49,513 --> 00:50:51,708
+He never communicates directly.
+
+911
+00:50:51,782 --> 00:50:54,842
+We try to interpret his wishes
+as best we can.
+
+912
+00:50:54,918 --> 00:50:56,943
+l'm curious to know
+how you've interpreted
+
+913
+00:50:57,020 --> 00:50:59,147
+the Caretaker's reason
+for sending us here.
+
+914
+00:50:59,222 --> 00:51:01,190
+We believe he must
+have separated you
+
+915
+00:51:01,291 --> 00:51:03,725
+from your own species
+for their protection.
+
+916
+00:51:03,760 --> 00:51:04,954
+Their protection?
+
+917
+00:51:06,263 --> 00:51:07,457
+From your illness.
+
+918
+00:51:08,765 --> 00:51:10,790
+Perhaps he's trying
+to prevent a plague.
+
+919
+00:51:10,867 --> 00:51:13,233
+We weren't sick
+until we met your Caretaker.
+
+920
+00:51:13,303 --> 00:51:16,329
+From time to time,
+he asks us to care for people
+
+921
+00:51:16,406 --> 00:51:17,498
+with this disease.
+
+922
+00:51:17,574 --> 00:51:18,700
+lt's the least we can do.
+
+923
+00:51:18,775 --> 00:51:21,642
+There have been others--
+like us?
+
+924
+00:51:21,711 --> 00:51:23,679
+Yes.
+
+925
+00:51:23,747 --> 00:51:25,578
+Where are they?
+
+926
+00:51:27,884 --> 00:51:30,250
+Your condition is serious.
+
+927
+00:51:30,320 --> 00:51:32,982
+We don't know exactly
+how to treat it.
+
+928
+00:51:33,056 --> 00:51:36,219
+l'm afraid the others
+did not recover.
+
+929
+00:52:29,746 --> 00:52:30,713
+Sir...
+
+930
+00:52:30,780 --> 00:52:33,977
+Ah, Mr. Vulcan.
+Come in, come in.
+
+931
+00:52:34,050 --> 00:52:35,745
+Please, l can hardly see you.
+
+932
+00:52:35,819 --> 00:52:39,482
+l want to thank you
+for your hospitality.
+
+933
+00:52:39,556 --> 00:52:42,548
+l must admit,
+l haven't had access
+
+934
+00:52:42,626 --> 00:52:45,094
+to a food replor...
+uh, replicator before.
+
+935
+00:52:46,229 --> 00:52:48,561
+l'd never have guessed.
+
+936
+00:52:48,632 --> 00:52:50,156
+And to immerse myself
+in water...
+
+937
+00:52:50,233 --> 00:52:52,895
+oh, do you know
+what joy this is?
+
+938
+00:52:55,739 --> 00:52:58,435
+No one around here
+wastes water in this manner.
+
+939
+00:52:58,508 --> 00:52:59,998
+A good sand scrub--
+
+940
+00:53:00,043 --> 00:53:01,601
+that's the best
+that we can hope for.
+
+941
+00:53:05,382 --> 00:53:07,612
+l'm pleased
+you're enjoying yourself,
+
+942
+00:53:07,684 --> 00:53:09,515
+but we're in orbit
+of the fifth planet.
+
+943
+00:53:09,586 --> 00:53:10,917
+We need your assistance.
+
+944
+00:53:10,987 --> 00:53:14,013
+Oh, uh, could you hand
+me the, uh... towel?
+
+945
+00:53:20,096 --> 00:53:23,623
+lf you will scan
+the large southern continent,
+
+946
+00:53:23,700 --> 00:53:25,691
+you'll find a range
+of extinct volcanoes.
+
+947
+00:53:25,769 --> 00:53:27,532
+Follow the foothills north
+
+948
+00:53:27,604 --> 00:53:29,538
+until you discover
+a dry river bed.
+
+949
+00:53:29,606 --> 00:53:31,938
+You'll find an encampment there.
+
+950
+00:53:32,008 --> 00:53:34,374
+Do you believe our people
+might be at this location?
+
+951
+00:53:34,444 --> 00:53:37,845
+lt's not impossible...
+maybe...
+
+952
+00:53:39,216 --> 00:53:42,151
+Perhaps not,
+but we'll find them.
+
+953
+00:53:42,219 --> 00:53:45,711
+We'll need several containers
+of water to bring for barter.
+
+954
+00:53:45,789 --> 00:53:51,659
+Do these, uh, replicators
+make clothing, as well?
+
+955
+00:53:51,728 --> 00:53:53,161
+Yes.
+
+956
+00:53:53,230 --> 00:53:55,926
+Will it make me
+a uniform like yours?
+
+957
+00:53:55,999 --> 00:53:57,296
+No...
+
+958
+00:53:57,367 --> 00:53:59,164
+it most certainly will not.
+
+959
+00:53:59,236 --> 00:54:00,328
+Hmm.
+
+960
+00:54:27,631 --> 00:54:30,293
+Why would anyone want
+to live in a place like this?
+
+961
+00:54:30,367 --> 00:54:34,167
+The rich cormaline deposits
+are very much in demand.
+
+962
+00:54:34,237 --> 00:54:35,898
+The Ocampa use it for barter?
+
+963
+00:54:35,972 --> 00:54:39,305
+Not the Ocampa, the Kazon-Ogla.
+
+964
+00:54:39,376 --> 00:54:41,810
+The Kazon-Ogla?
+Who are the Kazon-Ogla?
+
+965
+00:54:41,878 --> 00:54:43,072
+They are.
+
+966
+00:54:43,146 --> 00:54:45,671
+Kazon sects control
+this part of the Quadrant.
+
+967
+00:54:45,749 --> 00:54:48,309
+Some have food, some have ore,
+some have water.
+
+968
+00:54:48,385 --> 00:54:50,285
+They all trade, and they all
+kill each other for it.
+
+969
+00:54:50,353 --> 00:54:52,378
+l thought you said the Ocampa
+had our people.
+
+970
+00:54:52,455 --> 00:54:54,719
+My friends!
+lt's good to see you again!
+
+971
+00:54:54,791 --> 00:54:56,053
+Whoo!
+
+972
+00:54:59,429 --> 00:55:02,956
+l must speak with your maje,
+the ever-wise Jabin.
+
+973
+00:55:05,969 --> 00:55:08,199
+Ah. Very amusing.
+
+974
+00:55:08,271 --> 00:55:09,795
+Very amusing.
+
+975
+00:55:09,873 --> 00:55:11,670
+l, uh...
+
+976
+00:55:11,741 --> 00:55:13,732
+l enjoy a joke
+as much as the next man.
+
+977
+00:55:15,445 --> 00:55:16,742
+Jabin!
+
+978
+00:55:16,813 --> 00:55:17,745
+My old friend!
+
+979
+00:55:21,051 --> 00:55:22,916
+Water... water, Jabin.
+
+980
+00:55:22,986 --> 00:55:26,547
+l have water... to replace
+all that l borrowed.
+
+981
+00:55:26,623 --> 00:55:28,250
+Show them, Mr. Paris.
+
+982
+00:55:28,325 --> 00:55:32,227
+Their ship has technology that
+makes water out of thin air!
+
+983
+00:55:41,371 --> 00:55:42,668
+You have more?
+
+984
+00:55:42,739 --> 00:55:46,231
+Janeway to Voyager.
+Energize.
+
+985
+00:55:51,147 --> 00:55:52,273
+Oh!
+
+986
+00:55:58,321 --> 00:56:01,313
+There's more where that came
+from if you can help us.
+
+987
+00:56:01,424 --> 00:56:03,517
+How can we help someone
+so powerful
+
+988
+00:56:03,560 --> 00:56:05,289
+they can create water
+out of thin air?
+
+989
+00:56:05,362 --> 00:56:07,489
+This man led us here
+
+990
+00:56:07,564 --> 00:56:10,727
+suggesting we might find
+a people called the Ocampa.
+
+991
+00:56:10,800 --> 00:56:12,267
+Do you know where they are?
+
+992
+00:56:12,435 --> 00:56:14,164
+Ocampa?
+
+993
+00:56:15,772 --> 00:56:17,069
+She is Ocampa.
+
+994
+00:56:17,140 --> 00:56:20,541
+Why would you be interested
+in such worthless creatures?
+
+995
+00:56:20,610 --> 00:56:22,043
+They live only nine years.
+
+996
+00:56:22,112 --> 00:56:24,239
+They make poor servants.
+
+997
+00:56:24,314 --> 00:56:26,214
+We caught her when she wandered
+to the surface.
+
+998
+00:56:26,282 --> 00:56:27,249
+To the surface?
+
+999
+00:56:27,317 --> 00:56:29,285
+You mean, they live underground?
+
+1000
+00:56:29,352 --> 00:56:30,478
+The entity in space
+
+1001
+00:56:30,553 --> 00:56:32,748
+that gives them food and power,
+also gives them
+
+1002
+00:56:32,822 --> 00:56:35,188
+sole access to the only
+water on this world--
+
+1003
+00:56:35,258 --> 00:56:36,782
+two miles below the surface.
+
+1004
+00:56:36,860 --> 00:56:40,261
+This same entity has abducted
+two of our people.
+
+1005
+00:56:40,330 --> 00:56:42,628
+We believe they might be
+with the Ocampa.
+
+1006
+00:56:42,699 --> 00:56:46,226
+There's no way to get to them.
+We tried.
+
+1007
+00:56:46,302 --> 00:56:47,701
+The entity has established
+
+1008
+00:56:47,771 --> 00:56:49,102
+some kind
+of subterranean barrier
+
+1009
+00:56:49,172 --> 00:56:50,867
+we cannot penetrate.
+
+1010
+00:56:50,940 --> 00:56:52,305
+But she got out.
+
+1011
+00:56:52,375 --> 00:56:55,708
+Occasionally, some of them do
+find their way to the surface--
+
+1012
+00:56:55,779 --> 00:56:57,371
+we don't know how--
+
+1013
+00:56:57,447 --> 00:56:59,642
+but the Ocampa seal
+the tunnels afterwards.
+
+1014
+00:56:59,716 --> 00:57:02,981
+Maybe she can help these
+good people find a way down.
+
+1015
+00:57:04,287 --> 00:57:07,085
+You'd be wasting your time.
+
+1016
+00:57:07,157 --> 00:57:08,215
+l've used every method
+
+1017
+00:57:08,291 --> 00:57:10,122
+of persuasion l know
+to get her to help us.
+
+1018
+00:57:10,193 --> 00:57:11,956
+She won't!
+
+1019
+00:57:12,028 --> 00:57:13,552
+Then she's worthless to you.
+
+1020
+00:57:13,630 --> 00:57:17,999
+Let us trade you water
+for this scrawny little thing.
+
+1021
+00:57:19,536 --> 00:57:23,267
+l'd be more interested
+in acquiring this technology
+
+1022
+00:57:23,339 --> 00:57:26,069
+that allows you to create water
+from thin air.
+
+1023
+00:57:26,142 --> 00:57:27,541
+That would be difficult.
+
+1024
+00:57:27,610 --> 00:57:30,511
+lt's integrated
+into our ship's systems.
+
+1025
+00:57:31,548 --> 00:57:32,640
+Tell them to drop their weapons!
+
+1026
+00:57:33,950 --> 00:57:36,418
+Drop them, my friends,
+or he dies in an instant.
+
+1027
+00:57:36,486 --> 00:57:40,684
+Do it!
+Do it!
+
+1028
+00:57:46,996 --> 00:57:48,156
+Step aside.
+
+1029
+00:57:54,637 --> 00:57:55,501
+Come on!
+
+1030
+00:57:57,640 --> 00:57:59,801
+l strongly suggest
+you get us out of here.
+
+1031
+00:57:59,876 --> 00:58:01,070
+Six to beam up.
+
+1032
+00:58:12,288 --> 00:58:16,088
+My dearest, didn't l promise
+l'd save you?
+
+1033
+00:58:31,674 --> 00:58:33,198
+Look, l'm sure Captain Janeway
+
+1034
+00:58:33,276 --> 00:58:35,437
+is doing everything
+she can to find us.
+
+1035
+00:58:35,512 --> 00:58:38,072
+What makes you think
+any of them are still alive?
+
+1036
+00:58:40,683 --> 00:58:42,651
+Should l call for some help?
+
+1037
+00:58:42,719 --> 00:58:44,084
+No.
+
+1038
+00:59:00,303 --> 00:59:01,930
+Are you in pain?
+
+1039
+00:59:02,005 --> 00:59:03,529
+Are you watching us?
+
+1040
+00:59:03,606 --> 00:59:05,301
+l thought we weren't supposed
+to be your prisoners.
+
+1041
+00:59:05,375 --> 00:59:07,309
+l wasn't watching you.
+
+1042
+00:59:07,377 --> 00:59:08,776
+l was coming
+to give you something.
+
+1043
+00:59:08,845 --> 00:59:10,039
+l don't know if it will help.
+
+1044
+00:59:10,113 --> 00:59:11,705
+lt's a medicine.
+
+1045
+00:59:11,781 --> 00:59:13,180
+There are people
+who have broken
+
+1046
+00:59:13,249 --> 00:59:14,807
+from tradition
+and left the city.
+
+1047
+00:59:14,951 --> 00:59:17,249
+Their colony
+grows fruits and vegetables.
+
+1048
+00:59:17,320 --> 00:59:19,788
+They discovered quite by
+accident that the moss
+
+1049
+00:59:19,856 --> 00:59:21,414
+that grows on
+certain fruit trees
+
+1050
+00:59:21,491 --> 00:59:22,583
+has healing properties.
+
+1051
+00:59:22,659 --> 00:59:25,526
+l'm sorry for what
+has happened to you.
+
+1052
+00:59:25,595 --> 00:59:27,222
+We appreciate this,
+
+1053
+00:59:27,297 --> 00:59:28,559
+but the only way
+we're going to survive
+
+1054
+00:59:28,631 --> 00:59:31,759
+is if we can get to the surface
+and find our own people.
+
+1055
+00:59:31,834 --> 00:59:35,167
+The elders would say that's
+against the Caretaker's wishes.
+
+1056
+00:59:35,238 --> 00:59:36,671
+What do you say?
+
+1057
+00:59:37,874 --> 00:59:39,842
+The Caretaker's
+been behaving strangely
+
+1058
+00:59:39,909 --> 00:59:41,376
+for the past several months--
+
+1059
+00:59:41,444 --> 00:59:44,641
+abducting people,
+increasing the power supply.
+
+1060
+00:59:44,714 --> 00:59:45,874
+Power supply?
+
+1061
+00:59:45,949 --> 00:59:48,042
+He's tripled the energy
+he sends us.
+
+1062
+00:59:48,117 --> 00:59:49,914
+They say we have
+enough stored now
+
+1063
+00:59:49,986 --> 00:59:51,613
+to run the city for five years.
+
+1064
+00:59:51,688 --> 00:59:53,485
+And nobody knows why?
+
+1065
+00:59:53,556 --> 00:59:58,584
+When we ask, we're told to trust
+the Caretaker's decisions.
+
+1066
+00:59:58,661 --> 01:00:00,925
+One person l knew
+did get to the surface.
+
+1067
+01:00:01,030 --> 01:00:02,930
+We never saw her again.
+
+1068
+01:00:02,999 --> 01:00:03,931
+How?
+
+1069
+01:00:04,000 --> 01:00:04,864
+The ancient tunnels
+
+1070
+01:00:04,934 --> 01:00:06,925
+that brought us here
+still exist.
+
+1071
+01:00:07,003 --> 01:00:09,471
+Over the years, small breaches
+in security barriers
+
+1072
+01:00:09,539 --> 01:00:10,801
+have appeared,
+just large enough
+
+1073
+01:00:10,873 --> 01:00:13,273
+for someone to get through,
+but it still requires
+
+1074
+01:00:13,343 --> 01:00:15,402
+digging through meters
+of rock to get out.
+
+1075
+01:00:15,478 --> 01:00:17,946
+Can you get us tools
+to dig with?
+
+1076
+01:00:18,014 --> 01:00:21,711
+lt would take days, maybe
+even weeks to break through.
+
+1077
+01:00:21,784 --> 01:00:23,979
+You have to rest.
+
+1078
+01:00:24,053 --> 01:00:25,315
+Conserve your strength.
+
+1079
+01:00:25,388 --> 01:00:27,982
+Please... it's our only chance.
+
+1080
+01:00:39,268 --> 01:00:41,429
+lf you had told us
+what you had planned,
+
+1081
+01:00:41,504 --> 01:00:43,995
+we might have anticipated
+your irrational behavior.
+
+1082
+01:00:44,073 --> 01:00:46,337
+lrrational?
+We got out of there, didn't we?
+
+1083
+01:00:46,409 --> 01:00:47,341
+Excuse me.
+
+1084
+01:00:47,410 --> 01:00:48,707
+Don't blame Neelix...
+
+1085
+01:00:48,778 --> 01:00:49,938
+That's enough.
+
+1086
+01:00:50,013 --> 01:00:52,379
+This is a Sick Bay,
+not a conference room.
+
+1087
+01:00:52,448 --> 01:00:53,813
+Visiting hours are over.
+
+1088
+01:00:53,883 --> 01:00:57,375
+Everyone, except my patient,
+is to leave immediately.
+
+1089
+01:00:57,453 --> 01:01:00,013
+Computer, end medical
+holographic program.
+
+1090
+01:01:01,457 --> 01:01:03,857
+l never should have
+gone to the surface.
+
+1091
+01:01:03,926 --> 01:01:05,917
+l'm too curious.
+
+1092
+01:01:05,995 --> 01:01:07,929
+l'm told it's my worst failing.
+
+1093
+01:01:07,997 --> 01:01:09,931
+No, no.
+lt's a wonderful quality--
+
+1094
+01:01:09,999 --> 01:01:11,489
+your most endearing.
+
+1095
+01:01:12,635 --> 01:01:14,364
+Would you be willing
+to take us underground
+
+1096
+01:01:14,437 --> 01:01:15,597
+to look for our missing crew?
+
+1097
+01:01:15,672 --> 01:01:18,038
+l'm afraid Jabin was right.
+
+1098
+01:01:18,107 --> 01:01:19,506
+There's no way to get down.
+
+1099
+01:01:19,575 --> 01:01:21,338
+The tunnel l came out
+has been sealed.
+
+1100
+01:01:21,411 --> 01:01:22,742
+We don't need a tunnel.
+
+1101
+01:01:22,812 --> 01:01:24,939
+We have the ability
+to transport there directly.
+
+1102
+01:01:25,081 --> 01:01:28,983
+Captain, our sensors did not
+pick up any indication
+
+1103
+01:01:29,052 --> 01:01:30,849
+of an underground civilization.
+
+1104
+01:01:30,920 --> 01:01:32,911
+The subterranean barrier
+Jabin described
+
+1105
+01:01:32,989 --> 01:01:34,081
+may be responsible.
+
+1106
+01:01:34,157 --> 01:01:36,557
+lt might also block
+our transporter.
+
+1107
+01:01:36,626 --> 01:01:38,287
+There are breaches
+
+1108
+01:01:38,361 --> 01:01:41,524
+in the security barrier
+where it's begun to decay.
+
+1109
+01:01:41,597 --> 01:01:42,962
+That's how l got out.
+
+1110
+01:01:44,400 --> 01:01:46,425
+Have the transporter room
+begin a sweep
+
+1111
+01:01:46,502 --> 01:01:48,868
+for any breaches we might
+be able to beam through.
+
+1112
+01:01:48,938 --> 01:01:51,338
+Kes can tell you where to go,
+
+1113
+01:01:51,407 --> 01:01:53,500
+but, now that she's free,
+
+1114
+01:01:53,576 --> 01:01:55,271
+we're leaving
+this system together.
+
+1115
+01:01:55,344 --> 01:01:57,938
+Neelix, these people rescued me.
+
+1116
+01:01:58,014 --> 01:01:59,777
+l rescued you.
+
+1117
+01:01:59,849 --> 01:02:01,316
+With their help.
+
+1118
+01:02:01,417 --> 01:02:04,648
+lt would be wrong
+not to help them now.
+
+1119
+01:02:21,437 --> 01:02:22,870
+Captain, the pulses
+from the Array
+
+1120
+01:02:22,939 --> 01:02:23,906
+continue to accelerate.
+
+1121
+01:02:23,973 --> 01:02:25,531
+The intervals between them
+have decreased
+
+1122
+01:02:25,608 --> 01:02:27,098
+another .8 seconds.
+
+1123
+01:02:38,688 --> 01:02:40,087
+Kes.
+
+1124
+01:02:40,156 --> 01:02:41,088
+Hello, Daggin.
+
+1125
+01:02:41,157 --> 01:02:42,715
+We thought we'd never
+see you again.
+
+1126
+01:02:42,792 --> 01:02:44,384
+How did you get back?
+
+1127
+01:02:44,460 --> 01:02:46,985
+These people rescued me
+from the Kazon.
+
+1128
+01:02:47,063 --> 01:02:49,623
+l'm trying to help them
+find two of their crewmen.
+
+1129
+01:02:49,699 --> 01:02:52,634
+Does anyone know where
+the aliens are kept-- the ones
+
+1130
+01:02:52,702 --> 01:02:54,260
+the Caretaker sends here?
+
+1131
+01:02:54,337 --> 01:02:55,599
+l think they're
+at the Central Clinic.
+
+1132
+01:02:55,671 --> 01:02:57,195
+Can you take us there?
+
+1133
+01:02:57,273 --> 01:02:59,537
+No, she cannot.
+
+1134
+01:02:59,609 --> 01:03:01,338
+They can't speak
+telepathically, Toscat.
+
+1135
+01:03:01,444 --> 01:03:04,106
+Please talk aloud.
+
+1136
+01:03:04,147 --> 01:03:06,581
+l didn't mean to be rude,
+
+1137
+01:03:06,649 --> 01:03:08,241
+but you should not be here.
+
+1138
+01:03:08,317 --> 01:03:11,150
+We'll be glad to leave
+once we find our crewmen.
+
+1139
+01:03:11,220 --> 01:03:12,244
+That won't be possible.
+
+1140
+01:03:12,321 --> 01:03:14,414
+We cannot interfere
+with the Caretaker's wishes.
+
+1141
+01:03:14,490 --> 01:03:16,685
+Maybe you can't, but we can.
+
+1142
+01:03:16,759 --> 01:03:18,021
+You don't understand.
+
+1143
+01:03:18,094 --> 01:03:19,152
+That's right.
+
+1144
+01:03:19,228 --> 01:03:20,661
+They don't understand.
+
+1145
+01:03:20,730 --> 01:03:21,924
+They have no way of knowing
+
+1146
+01:03:22,031 --> 01:03:23,692
+that the Ocampa
+have been dependent
+
+1147
+01:03:23,766 --> 01:03:25,097
+on the Caretaker for so long
+
+1148
+01:03:25,168 --> 01:03:27,728
+that we can't even think
+for ourselves anymore.
+
+1149
+01:03:27,804 --> 01:03:30,170
+They don't understand
+we were once a people
+
+1150
+01:03:30,239 --> 01:03:33,140
+who had full command
+of our minds' abilities.
+
+1151
+01:03:33,209 --> 01:03:36,110
+The stories of our ancestors'
+cognitive abilities
+
+1152
+01:03:36,179 --> 01:03:37,203
+are apocryphal--
+
+1153
+01:03:37,280 --> 01:03:39,646
+at the very least exaggerated.
+
+1154
+01:03:39,715 --> 01:03:42,650
+We lost those abilities
+because we stopped using them.
+
+1155
+01:03:42,718 --> 01:03:45,186
+We should not dwell
+on what's been lost,
+
+1156
+01:03:45,254 --> 01:03:46,846
+but on all that's been gained.
+
+1157
+01:03:46,923 --> 01:03:48,982
+We've gained a talent
+for dependence,
+
+1158
+01:03:49,091 --> 01:03:51,184
+for simply taking
+what we're given.
+
+1159
+01:03:51,260 --> 01:03:53,524
+l'm going to help them, Toscat,
+whether you like it or not,
+
+1160
+01:03:53,596 --> 01:03:56,258
+and l think my friends
+will join me.
+
+1161
+01:04:00,937 --> 01:04:03,497
+You defied the Caretaker
+by going to the surface, Kes.
+
+1162
+01:04:03,573 --> 01:04:06,599
+Learn from the experience.
+
+1163
+01:04:06,676 --> 01:04:08,610
+Follow the path
+he has set for us.
+
+1164
+01:04:08,678 --> 01:04:10,839
+l've learned very well, Toscat.
+
+1165
+01:04:10,913 --> 01:04:13,074
+l saw the sunlight.
+
+1166
+01:04:13,149 --> 01:04:14,878
+l can't believe
+that our Caretaker
+
+1167
+01:04:14,951 --> 01:04:17,010
+would forbid us
+to open our eyes
+
+1168
+01:04:17,086 --> 01:04:18,883
+and see the sky.
+
+1169
+01:04:18,955 --> 01:04:21,355
+Come with me--
+we'll find your people.
+
+1170
+01:04:42,812 --> 01:04:43,904
+Come on.
+
+1171
+01:04:59,228 --> 01:05:01,856
+Don't let it beat you,
+Starfleet. Come on.
+
+1172
+01:05:01,964 --> 01:05:02,931
+l'm sorry.
+
+1173
+01:05:08,371 --> 01:05:10,032
+All right.
+
+1174
+01:05:12,041 --> 01:05:14,839
+lt's all right.
+We'll rest a minute.
+
+1175
+01:05:14,911 --> 01:05:17,846
+Maybe l'd do better if l had
+a little Klingon blood in me.
+
+1176
+01:05:17,914 --> 01:05:22,112
+Trust me-- it's more trouble
+than it's worth.
+
+1177
+01:05:22,184 --> 01:05:25,051
+You know, l spent my whole life
+getting ready for Starfleet,
+
+1178
+01:05:25,121 --> 01:05:28,921
+and on my very first mission,
+
+1179
+01:05:28,991 --> 01:05:31,789
+l'm going to die.
+
+1180
+01:05:31,861 --> 01:05:34,421
+We're not finished yet.
+
+1181
+01:05:36,098 --> 01:05:39,124
+l know a few things
+that old Sneezy didn't teach
+
+1182
+01:05:39,201 --> 01:05:40,190
+in his survival course.
+
+1183
+01:05:40,269 --> 01:05:41,201
+Sneezy?
+
+1184
+01:05:41,270 --> 01:05:43,363
+Commander Zakarian.
+
+1185
+01:05:43,439 --> 01:05:44,371
+Remember?
+
+1186
+01:05:44,440 --> 01:05:47,671
+He must have been
+allergic to everything.
+
+1187
+01:05:47,743 --> 01:05:49,108
+You went to the Academy.
+
+1188
+01:05:49,178 --> 01:05:52,636
+l actually made it into the
+second year before we, uh...
+
+1189
+01:05:52,715 --> 01:05:55,741
+we mutually agreed
+that it wasn't the place for me.
+
+1190
+01:05:55,818 --> 01:05:56,785
+You know
+
+1191
+01:05:56,852 --> 01:05:59,252
+l never really liked Zakarian.
+
+1192
+01:06:00,923 --> 01:06:02,857
+Shh. Listen.
+
+1193
+01:06:03,025 --> 01:06:05,289
+They're getting faster.
+
+1194
+01:06:19,909 --> 01:06:21,171
+Away team to Voyager.
+
+1195
+01:06:21,243 --> 01:06:22,175
+Voyager here.
+
+1196
+01:06:22,244 --> 01:06:23,836
+What's going on with the Array?
+
+1197
+01:06:23,913 --> 01:06:26,381
+lt's no longer
+sending out pulses, Captain,
+
+1198
+01:06:26,449 --> 01:06:28,974
+and it appears to be
+realigning its position.
+
+1199
+01:06:29,051 --> 01:06:31,042
+Keep me informed.
+Janeway out.
+
+1200
+01:06:35,491 --> 01:06:37,721
+They haven't been
+at the clinic for hours.
+
+1201
+01:06:37,793 --> 01:06:39,556
+We can search the city.
+Ask if anyone's seen them.
+
+1202
+01:06:39,628 --> 01:06:42,119
+lf they were trying to get to
+the surface, how would they go?
+
+1203
+01:06:42,198 --> 01:06:45,065
+Probably the same way l did--
+up one of the ancient tunnels.
+
+1204
+01:06:46,202 --> 01:06:47,863
+Mr. Paris,
+you and Neelix go with her
+
+1205
+01:06:47,937 --> 01:06:49,234
+and start checking them out.
+
+1206
+01:06:50,573 --> 01:06:53,041
+We need to talk to every doctor
+and nurse at this hospital
+
+1207
+01:06:53,109 --> 01:06:54,974
+see what they can tell us
+about Torres and Kim.
+
+1208
+01:06:56,012 --> 01:06:57,138
+Voyager to Janeway.
+
+1209
+01:06:57,213 --> 01:06:58,180
+Go ahead.
+
+1210
+01:06:58,247 --> 01:06:59,271
+Captain, the Array
+
+1211
+01:06:59,348 --> 01:07:01,543
+is firing some kind of weapon
+at the surface.
+
+1212
+01:07:01,650 --> 01:07:04,881
+lt seems to be trying to seal
+the energy conduits.
+
+1213
+01:07:04,954 --> 01:07:07,149
+Understood.
+Keep a channel open.
+
+1214
+01:07:08,324 --> 01:07:10,485
+lf the Array is the Ocampa's
+sole source of energy,
+
+1215
+01:07:10,559 --> 01:07:12,424
+why would the Caretaker
+seal the conduits?
+
+1216
+01:07:12,495 --> 01:07:13,427
+He would seal them
+
+1217
+01:07:13,496 --> 01:07:14,690
+if he no longer
+intended to use them
+
+1218
+01:07:14,764 --> 01:07:16,789
+to protect the Ocampa
+from their enemies.
+
+1219
+01:07:16,866 --> 01:07:18,231
+Captain, there is
+now enough evidence
+
+1220
+01:07:18,300 --> 01:07:20,029
+to form a reasonable
+hypothesis.
+
+1221
+01:07:20,102 --> 01:07:21,967
+l believe that
+the Caretaker is dying.
+
+1222
+01:07:22,038 --> 01:07:23,096
+Explain.
+
+1223
+01:07:23,172 --> 01:07:25,367
+First, he increases
+the energy supply
+
+1224
+01:07:25,441 --> 01:07:27,068
+to provide the city
+with a surplus
+
+1225
+01:07:27,143 --> 01:07:29,976
+to last at least five years,
+then he seals the conduits.
+
+1226
+01:07:30,046 --> 01:07:32,037
+The logical conclusion is
+that he does not intend
+
+1227
+01:07:32,114 --> 01:07:34,014
+to continue his role
+as Caretaker.
+
+1228
+01:07:34,083 --> 01:07:35,573
+That doesn't necessarily
+mean he's dying.
+
+1229
+01:07:35,651 --> 01:07:36,675
+He could be leaving.
+
+1230
+01:07:36,752 --> 01:07:38,549
+Doubtful.
+
+1231
+01:07:38,621 --> 01:07:41,021
+Not after a millennium
+of providing for these people.
+
+1232
+01:07:41,090 --> 01:07:44,253
+l believe that the Caretaker
+owes something to the Ocampa.
+
+1233
+01:07:44,326 --> 01:07:45,918
+l believe the ''debt
+that can never be repaid''
+
+1234
+01:07:45,995 --> 01:07:48,293
+is very likely a debt to them.
+
+1235
+01:07:48,364 --> 01:07:50,559
+ln addition, there were
+his frequent references
+
+1236
+01:07:50,633 --> 01:07:52,191
+to ''running out of time.''
+
+1237
+01:07:52,268 --> 01:07:54,736
+l think he knew
+his death was imminent.
+
+1238
+01:07:54,804 --> 01:07:58,934
+lf he dies, how the hell
+are we supposed to get home?
+
+1239
+01:08:06,749 --> 01:08:08,341
+They're in this one.
+
+1240
+01:08:08,417 --> 01:08:10,282
+Harry?!
+
+1241
+01:08:12,288 --> 01:08:13,380
+Paris to Janeway.
+
+1242
+01:08:13,456 --> 01:08:14,445
+Go ahead.
+
+1243
+01:08:14,523 --> 01:08:16,514
+They're in one
+of the tunnels, Captain.
+
+1244
+01:08:16,592 --> 01:08:19,060
+l can't see them,
+but they're up there.
+
+1245
+01:08:19,128 --> 01:08:20,595
+We're going after them.
+
+1246
+01:08:20,663 --> 01:08:22,858
+Call for transport
+when you have them, Paris.
+
+1247
+01:08:22,932 --> 01:08:24,297
+We'll meet you on the ship.
+
+1248
+01:08:24,366 --> 01:08:26,266
+Janeway to Voyager.
+
+1249
+01:08:26,335 --> 01:08:27,267
+Voyager here.
+
+1250
+01:08:27,336 --> 01:08:28,303
+Three to beam up.
+
+1251
+01:08:28,370 --> 01:08:29,564
+Stand by.
+
+1252
+01:08:31,340 --> 01:08:33,331
+Captain,
+l can't get a lock on you.
+
+1253
+01:08:33,409 --> 01:08:35,104
+The weapons fire from the Array
+
+1254
+01:08:35,177 --> 01:08:36,872
+has irradiated
+the planet's crust.
+
+1255
+01:08:36,946 --> 01:08:39,073
+The transport sensors
+can't find the breaches
+
+1256
+01:08:39,148 --> 01:08:40,342
+in the security barrier.
+
+1257
+01:08:41,484 --> 01:08:43,816
+Come on, there's only one
+other way out of here.
+
+1258
+01:08:45,855 --> 01:08:47,049
+Janeway to Paris.
+
+1259
+01:08:47,123 --> 01:08:48,283
+Go ahead.
+
+1260
+01:08:48,357 --> 01:08:50,348
+The transporters aren't working.
+
+1261
+01:08:50,426 --> 01:08:52,656
+You're going to have to find
+a breach in the security barrier
+
+1262
+01:08:52,728 --> 01:08:54,025
+when you get to the top.
+
+1263
+01:08:55,164 --> 01:08:56,631
+Understood.
+
+1264
+01:08:56,699 --> 01:08:58,189
+We're a few minutes behind you.
+
+1265
+01:08:58,267 --> 01:08:59,234
+Janeway out.
+
+1266
+01:09:01,971 --> 01:09:03,632
+l see them.
+
+1267
+01:09:15,885 --> 01:09:17,648
+Took you long enough.
+
+1268
+01:09:17,720 --> 01:09:20,518
+How could l let down
+the only friend l got?
+
+1269
+01:09:20,589 --> 01:09:23,023
+Friend? What makes
+you think l'm your friend?
+
+1270
+01:09:25,594 --> 01:09:27,118
+Paris to Janeway.
+
+1271
+01:09:27,196 --> 01:09:28,128
+Go ahead.
+
+1272
+01:09:28,197 --> 01:09:29,129
+We found them, Captain.
+
+1273
+01:09:29,198 --> 01:09:30,256
+Don't wait for us.
+
+1274
+01:09:30,332 --> 01:09:31,299
+Get them to safety.
+
+1275
+01:09:36,438 --> 01:09:37,405
+Don't worry.
+
+1276
+01:09:37,473 --> 01:09:39,566
+l know where we can
+get through the barrier.
+
+1277
+01:09:47,016 --> 01:09:49,314
+Whatever you do, don't touch it.
+
+1278
+01:09:49,385 --> 01:09:52,354
+We've been told
+it'll burn your skin off.
+
+1279
+01:10:07,136 --> 01:10:08,535
+They're not far ahead of us.
+
+1280
+01:10:08,604 --> 01:10:09,628
+Keep going.
+
+1281
+01:10:27,122 --> 01:10:29,317
+l think we've reached the top.
+
+1282
+01:10:29,391 --> 01:10:32,588
+Neelix, get out your phaser.
+
+1283
+01:11:39,295 --> 01:11:42,230
+Voyager, can you get
+a lock on us now?
+
+1284
+01:11:42,298 --> 01:11:44,823
+Affirmative, but l'm reading
+only five signals.
+
+1285
+01:11:44,900 --> 01:11:46,390
+The others are...
+
+1286
+01:11:46,468 --> 01:11:47,867
+Get down!
+
+1287
+01:11:59,348 --> 01:12:01,373
+Paris to Janeway.
+
+1288
+01:12:01,483 --> 01:12:04,884
+Chakotay, Tuvok, do you read?
+
+1289
+01:12:06,255 --> 01:12:07,654
+Voyager, prepare to transport
+
+1290
+01:12:07,723 --> 01:12:09,020
+everyone in this group
+except me.
+
+1291
+01:12:09,091 --> 01:12:10,149
+Aye, sir.
+
+1292
+01:12:10,225 --> 01:12:11,658
+You're not thinking
+of going back there.
+
+1293
+01:12:17,466 --> 01:12:18,455
+Well...
+
+1294
+01:12:18,534 --> 01:12:20,263
+the fool needs company.
+
+1295
+01:12:20,336 --> 01:12:21,701
+Take care of them, dearest.
+
+1296
+01:12:21,770 --> 01:12:23,101
+l'll see you later.
+
+1297
+01:12:23,172 --> 01:12:25,732
+Voyager, make that
+three to beam up.
+
+1298
+01:12:25,808 --> 01:12:29,244
+Lock in on the other combadge
+and energize.
+
+1299
+01:12:38,821 --> 01:12:40,311
+My leg is broken.
+
+1300
+01:12:40,389 --> 01:12:42,289
+l can't move.
+
+1301
+01:12:42,358 --> 01:12:43,757
+-Hold on.
+-Here they are!
+
+1302
+01:12:43,826 --> 01:12:45,589
+Neelix, help me with Tuvok.
+
+1303
+01:12:48,564 --> 01:12:49,997
+l'll get Chakotay.
+
+1304
+01:13:06,081 --> 01:13:07,048
+Get out of here, Paris,
+
+1305
+01:13:07,116 --> 01:13:08,879
+before the whole thing
+comes down!
+
+1306
+01:13:09,017 --> 01:13:10,712
+l intend to...
+
+1307
+01:13:10,786 --> 01:13:12,048
+as soon as l get you up.
+
+1308
+01:13:12,121 --> 01:13:14,521
+You get on those stairs,
+they'll collapse.
+
+1309
+01:13:14,590 --> 01:13:16,387
+We'll both die.
+
+1310
+01:13:16,458 --> 01:13:18,016
+Yeah...
+
+1311
+01:13:18,093 --> 01:13:19,492
+but on the other hand,
+
+1312
+01:13:19,561 --> 01:13:22,121
+if l save your butt,
+your life belongs to me.
+
+1313
+01:13:32,107 --> 01:13:34,302
+lsn't that some kind
+of lndian custom?
+
+1314
+01:13:35,944 --> 01:13:37,343
+Wrong tribe.
+
+1315
+01:13:39,548 --> 01:13:41,516
+l don't believe you.
+
+1316
+01:13:46,555 --> 01:13:49,490
+You'd rather die than let me
+be the one to rescue you.
+
+1317
+01:13:51,460 --> 01:13:53,758
+Fine. Be a fool.
+
+1318
+01:13:53,829 --> 01:13:55,592
+lf l have to die,
+
+1319
+01:13:55,664 --> 01:13:58,064
+at least l'll have the pleasure
+of watching you go with me.
+
+1320
+01:14:03,105 --> 01:14:04,970
+lsn't there some lndian trick
+
+1321
+01:14:05,040 --> 01:14:07,235
+where you can turn
+yourself into a bird
+
+1322
+01:14:07,309 --> 01:14:09,368
+and fly us out of here?
+
+1323
+01:14:09,445 --> 01:14:11,242
+You're too heavy.
+
+1324
+01:14:33,502 --> 01:14:35,265
+Bridge to Janeway.
+
+1325
+01:14:35,337 --> 01:14:36,395
+Go ahead.
+
+1326
+01:14:36,472 --> 01:14:38,736
+Captain, two Kazon ships
+are approaching the Array.
+
+1327
+01:14:38,807 --> 01:14:40,570
+Set a course.
+l'm on my way.
+
+1328
+01:14:40,642 --> 01:14:42,041
+We've got to get back
+to our ship.
+
+1329
+01:14:42,110 --> 01:14:45,375
+l strongly advise you to rest.
+
+1330
+01:14:45,447 --> 01:14:47,574
+l will not be held responsible
+for the consequences.
+
+1331
+01:14:47,649 --> 01:14:49,981
+ls the crew always
+this difficult?
+
+1332
+01:14:50,052 --> 01:14:50,984
+l don't know, Doc.
+
+1333
+01:14:51,053 --> 01:14:52,145
+lt's my first mission.
+
+1334
+01:14:57,359 --> 01:14:59,190
+Doesn't anyone know how
+to turn off the program
+
+1335
+01:14:59,261 --> 01:15:00,159
+when they leave?
+
+1336
+01:15:01,997 --> 01:15:03,862
+Bring the weapons systems
+on line.
+
+1337
+01:15:03,932 --> 01:15:06,958
+Powering up phaser banks
+and photon systems.
+
+1338
+01:15:08,170 --> 01:15:09,296
+Red Alert.
+
+1339
+01:15:27,422 --> 01:15:29,083
+The lead Kazon ship
+is hailing us, Captain.
+
+1340
+01:15:29,157 --> 01:15:30,454
+On screen.
+
+1341
+01:15:30,526 --> 01:15:32,221
+Have you come to investigate
+
+1342
+01:15:32,294 --> 01:15:34,524
+the Entity's strange behavior
+too, Captain?
+
+1343
+01:15:34,596 --> 01:15:36,928
+All we care about
+is getting home, Jabin.
+
+1344
+01:15:36,999 --> 01:15:38,830
+We're about to transport
+over to the Array
+
+1345
+01:15:38,901 --> 01:15:40,129
+to see if we can arrange it.
+
+1346
+01:15:40,202 --> 01:15:41,931
+l'm afraid l cannot permit that.
+
+1347
+01:15:42,037 --> 01:15:44,301
+We have no dispute with you.
+
+1348
+01:15:44,373 --> 01:15:46,136
+l have a dispute with anyone
+who would challenge us.
+
+1349
+01:15:46,208 --> 01:15:47,937
+This is ridiculous.
+
+1350
+01:15:48,043 --> 01:15:49,874
+We have no intention
+of challenging you.
+
+1351
+01:15:49,945 --> 01:15:51,913
+And l have no intention
+of letting anyone
+
+1352
+01:15:51,980 --> 01:15:54,175
+with your technological
+knowledge board the Array.
+
+1353
+01:15:54,249 --> 01:15:57,741
+Jabin, can we discuss this
+like two civilized...?
+
+1354
+01:15:57,819 --> 01:15:59,810
+They're powering up
+their weapons.
+
+1355
+01:15:59,888 --> 01:16:01,185
+l guess we can't.
+
+1356
+01:16:03,091 --> 01:16:05,355
+Shields are holding.
+
+1357
+01:16:06,728 --> 01:16:09,959
+Fire phasers.
+Evasive pattern delta four.
+
+1358
+01:16:24,846 --> 01:16:26,438
+Janeway to Chakotay.
+
+1359
+01:16:26,515 --> 01:16:28,244
+Tuvok and l
+are beaming to the Array.
+
+1360
+01:16:28,317 --> 01:16:30,046
+Can you hold off the Kazon?
+
+1361
+01:16:30,118 --> 01:16:31,551
+l think so, Captain.
+
+1362
+01:16:31,620 --> 01:16:32,882
+Good.
+
+1363
+01:16:32,955 --> 01:16:36,152
+Mr. Paris, take the conn.
+
+1364
+01:16:37,359 --> 01:16:39,020
+Yes, ma'am.
+
+1365
+01:16:39,094 --> 01:16:40,493
+Maintain transporter locks,
+Ensign.
+
+1366
+01:16:40,562 --> 01:16:41,494
+Emergency beam out status.
+
+1367
+01:16:41,563 --> 01:16:42,530
+Aye, Captain.
+
+1368
+01:16:56,111 --> 01:16:59,012
+The data processing system
+is behind this wall, Captain.
+
+1369
+01:17:04,886 --> 01:17:06,217
+You know what to do.
+
+1370
+01:17:26,174 --> 01:17:31,168
+Well... you're, you're nothing
+if not persistent.
+
+1371
+01:17:31,246 --> 01:17:34,215
+We need you to send us back
+where we came from.
+
+1372
+01:17:34,282 --> 01:17:37,376
+Oh... that isn't possible.
+
+1373
+01:17:37,452 --> 01:17:41,912
+l have... barely enough strength
+to complete my work.
+
+1374
+01:17:44,326 --> 01:17:47,454
+You're sealing the conduits
+before you die.
+
+1375
+01:17:47,529 --> 01:17:52,125
+lf l don't, the Kazon
+will steal the water.
+
+1376
+01:17:52,200 --> 01:17:55,135
+But, in a few years,
+
+1377
+01:17:55,203 --> 01:17:58,798
+when the Ocampa's energy
+runs out, it won't matter.
+
+1378
+01:17:58,874 --> 01:18:01,308
+They'll be forced
+to come to the surface
+
+1379
+01:18:01,410 --> 01:18:03,844
+and they won't be able
+to survive.
+
+1380
+01:18:03,879 --> 01:18:07,178
+Something you did turned
+their planet into a desert,
+
+1381
+01:18:07,249 --> 01:18:08,273
+didn't it?
+
+1382
+01:18:08,350 --> 01:18:11,046
+That was the debt
+that could never be repaid.
+
+1383
+01:18:11,119 --> 01:18:16,682
+Well, we're explorers
+from another galaxy,
+
+1384
+01:18:16,758 --> 01:18:20,023
+but we had no idea
+that our technology
+
+1385
+01:18:20,095 --> 01:18:23,792
+would be so destructive
+to their atmosphere.
+
+1386
+01:18:23,865 --> 01:18:25,457
+Two, two of us
+
+1387
+01:18:25,534 --> 01:18:29,163
+were chosen to stay
+behind and care for them.
+
+1388
+01:18:29,237 --> 01:18:30,898
+There's another like you here?
+
+1389
+01:18:32,474 --> 01:18:34,533
+Not anymore.
+
+1390
+01:18:34,609 --> 01:18:36,372
+No, no. She...
+
+1391
+01:18:36,445 --> 01:18:39,471
+she went off to look
+for more interesting places.
+
+1392
+01:18:39,548 --> 01:18:41,345
+Why were you bringing
+ships here--
+
+1393
+01:18:41,416 --> 01:18:43,714
+infecting people
+with a fatal illness?
+
+1394
+01:18:43,785 --> 01:18:44,752
+Oh, they...
+
+1395
+01:18:44,820 --> 01:18:47,880
+they didn't die of an illness.
+
+1396
+01:18:48,023 --> 01:18:54,121
+They died
+because they were incompatible.
+
+1397
+01:18:55,263 --> 01:18:57,026
+''lncompatible''?
+
+1398
+01:18:57,099 --> 01:18:59,727
+l've been searching the galaxy
+
+1399
+01:18:59,801 --> 01:19:04,204
+for a compatible
+biomolecular pattern.
+
+1400
+01:19:04,306 --> 01:19:06,103
+Now, in some individuals,
+
+1401
+01:19:06,141 --> 01:19:09,804
+l found cellular structures
+that were similar, but l...
+
+1402
+01:19:09,878 --> 01:19:11,778
+You've been trying to procreate?
+
+1403
+01:19:11,847 --> 01:19:14,975
+l needed someone to replace me--
+
+1404
+01:19:15,050 --> 01:19:16,677
+someone who'd understand
+
+1405
+01:19:16,752 --> 01:19:22,384
+the enormous responsibility
+of... caring for the Ocampa.
+
+1406
+01:19:22,457 --> 01:19:25,722
+Only my offspring could do that.
+
+1407
+01:19:32,634 --> 01:19:35,364
+Did you ever consider
+allowing the Ocampa
+
+1408
+01:19:35,437 --> 01:19:37,200
+to care for themselves?
+
+1409
+01:19:39,007 --> 01:19:40,702
+They're children.
+
+1410
+01:19:40,776 --> 01:19:42,676
+Children have to grow up.
+
+1411
+01:19:42,744 --> 01:19:45,406
+We're explorers, too.
+
+1412
+01:19:45,480 --> 01:19:46,879
+Most of the species
+we've encountered
+
+1413
+01:19:46,948 --> 01:19:48,711
+have overcome all kinds
+of adversity
+
+1414
+01:19:48,784 --> 01:19:50,274
+without a Caretaker.
+
+1415
+01:19:50,352 --> 01:19:52,718
+lt's the challenge
+of surviving on their own
+
+1416
+01:19:52,788 --> 01:19:54,653
+that helps them to evolve.
+
+1417
+01:19:54,723 --> 01:20:00,559
+Maybe your... children
+will do better than you think.
+
+1418
+01:20:01,730 --> 01:20:03,527
+Voyager to Janeway.
+
+1419
+01:20:03,598 --> 01:20:04,565
+Go ahead.
+
+1420
+01:20:04,633 --> 01:20:05,861
+We've got problems here.
+
+1421
+01:20:16,244 --> 01:20:17,609
+Kazon just got some backup.
+
+1422
+01:20:17,679 --> 01:20:19,271
+We need more time.
+
+1423
+01:20:19,347 --> 01:20:21,542
+Can you hold them off
+for another few minutes?
+
+1424
+01:20:21,616 --> 01:20:23,413
+We'll do our best.
+Kim out.
+
+1425
+01:20:24,653 --> 01:20:26,746
+Their weapons array
+has been hit.
+
+1426
+01:20:27,789 --> 01:20:28,915
+They're in trouble.
+
+1427
+01:20:28,990 --> 01:20:32,824
+Neither of us has enough
+firepower to stop that ship.
+
+1428
+01:20:32,894 --> 01:20:34,259
+l'm setting a collision course,
+
+1429
+01:20:34,329 --> 01:20:36,524
+but the guidance
+system is disabled.
+
+1430
+01:20:36,598 --> 01:20:38,759
+l'll have to pilot
+the ship manually.
+
+1431
+01:20:38,834 --> 01:20:40,802
+Get the crew ready
+to beam to Voyager
+
+1432
+01:20:40,869 --> 01:20:42,564
+and drop shields for transport.
+
+1433
+01:20:44,472 --> 01:20:46,372
+Paris, my crew is coming over.
+
+1434
+01:20:46,441 --> 01:20:49,501
+Tell one of your crackerjack
+Starfleet transporter chiefs
+
+1435
+01:20:49,578 --> 01:20:50,875
+to keep a lock on me.
+
+1436
+01:20:50,946 --> 01:20:53,176
+l'm going to try and take
+some heat off your tail.
+
+1437
+01:20:53,248 --> 01:20:54,715
+Acknowledged.
+
+1438
+01:20:54,783 --> 01:20:57,547
+But don't think for a second
+this makes us even, Chakotay.
+
+1439
+01:20:57,619 --> 01:20:59,519
+Your life is still mine.
+
+1440
+01:20:59,588 --> 01:21:01,317
+Paris out.
+
+1441
+01:21:07,596 --> 01:21:09,188
+l'm holding a lock on him, sir,
+
+1442
+01:21:09,264 --> 01:21:10,925
+but he's getting too close.
+
+1443
+01:21:12,000 --> 01:21:13,627
+l'm getting you out
+of there, Chakotay.
+
+1444
+01:21:13,702 --> 01:21:14,691
+Not yet!
+
+1445
+01:21:19,074 --> 01:21:20,336
+You're breaking up!
+
+1446
+01:21:20,408 --> 01:21:21,568
+Stand by to transport.
+
+1447
+01:21:21,643 --> 01:21:23,201
+Wait!
+
+1448
+01:21:30,886 --> 01:21:32,012
+Now!
+
+1449
+01:21:40,295 --> 01:21:42,456
+Transporter Room 2,
+do you have him?
+
+1450
+01:21:42,530 --> 01:21:43,895
+They've got me.
+
+1451
+01:21:53,508 --> 01:21:56,102
+Captain, l can access the system
+
+1452
+01:21:56,177 --> 01:21:57,804
+to send us back
+to Federation space,
+
+1453
+01:21:57,879 --> 01:22:00,074
+but it will take
+several hours to activate.
+
+1454
+01:22:01,349 --> 01:22:03,044
+Unless you help us.
+
+1455
+01:22:03,118 --> 01:22:05,177
+Oh, l wish l could,
+
+1456
+01:22:05,253 --> 01:22:08,017
+but l have
+very little time left.
+
+1457
+01:22:08,089 --> 01:22:11,923
+So l have initiated
+a self-destruct program.
+
+1458
+01:22:11,993 --> 01:22:15,053
+lf you destroy the Array,
+we'll have no way to get home.
+
+1459
+01:22:15,130 --> 01:22:17,064
+The Ocampa's enemies
+cannot be allowed
+
+1460
+01:22:17,132 --> 01:22:20,033
+to, to control
+this installation.
+
+1461
+01:22:20,101 --> 01:22:23,593
+ln minutes,
+it will be destroyed.
+
+1462
+01:22:23,672 --> 01:22:25,503
+You have to go.
+
+1463
+01:22:25,573 --> 01:22:27,404
+Go now!
+
+1464
+01:22:51,766 --> 01:22:54,257
+The Caretaker.
+
+1465
+01:22:57,772 --> 01:22:59,501
+Voyager, report.
+
+1466
+01:22:59,574 --> 01:23:00,438
+A Kazon vessel
+
+1467
+01:23:00,542 --> 01:23:02,874
+just collided
+with the Array, Captain.
+
+1468
+01:23:02,911 --> 01:23:04,708
+Are you all right?
+
+1469
+01:23:04,779 --> 01:23:05,871
+Affirmative.
+
+1470
+01:23:05,947 --> 01:23:07,539
+Stand by.
+
+1471
+01:23:07,615 --> 01:23:10,675
+The self-destruct program
+has been damaged.
+
+1472
+01:23:10,752 --> 01:23:14,210
+Now, this installation
+will not be destroyed.
+
+1473
+01:23:14,289 --> 01:23:15,517
+But it must be.
+
+1474
+01:23:15,590 --> 01:23:20,357
+The Kazon must not be allowed
+to gain control of it.
+
+1475
+01:23:20,428 --> 01:23:23,556
+They will annihilate the Ocampa.
+
+1476
+01:23:47,155 --> 01:23:49,555
+Shall l activate
+the program to get us back?
+
+1477
+01:23:49,624 --> 01:23:53,185
+And what happens to the Ocampa
+after we're gone?
+
+1478
+01:23:56,865 --> 01:24:01,859
+Captain, any action we take
+to protect the Ocampa
+
+1479
+01:24:01,970 --> 01:24:04,996
+would affect the balance
+of power in this system.
+
+1480
+01:24:05,040 --> 01:24:08,874
+The Prime Directive
+would seem to apply.
+
+1481
+01:24:08,977 --> 01:24:10,467
+Would it?
+
+1482
+01:24:13,415 --> 01:24:15,975
+We never asked to be involved,
+Tuvok...
+
+1483
+01:24:18,520 --> 01:24:20,579
+but we are.
+
+1484
+01:24:22,323 --> 01:24:24,120
+We are.
+
+1485
+01:24:30,732 --> 01:24:33,565
+Mr. Tuvok, ready
+the tricobalt devices.
+
+1486
+01:24:33,635 --> 01:24:34,260
+Aye, Captain.
+
+1487
+01:24:34,335 --> 01:24:35,734
+Open a channel to the Kazon.
+
+1488
+01:24:35,804 --> 01:24:36,930
+Channel open.
+
+1489
+01:24:37,005 --> 01:24:38,472
+Be advised, Captain.
+
+1490
+01:24:38,540 --> 01:24:40,440
+l have called
+for additional ships.
+
+1491
+01:24:40,508 --> 01:24:43,944
+l'm calling to warn you to move
+your vessels to a safe distance.
+
+1492
+01:24:44,012 --> 01:24:46,310
+l intend to destroy the Array.
+
+1493
+01:24:46,381 --> 01:24:47,814
+You can't do that.
+
+1494
+01:24:47,882 --> 01:24:49,850
+l can and l will.
+
+1495
+01:24:49,918 --> 01:24:51,579
+End transmission.
+
+1496
+01:24:52,454 --> 01:24:54,752
+They're increasing fire,
+Captain.
+
+1497
+01:24:54,823 --> 01:24:55,949
+Shields are holding.
+
+1498
+01:24:56,024 --> 01:24:58,322
+Move us 400 kilometers
+from the Array, Mr. Paris.
+
+1499
+01:24:58,393 --> 01:24:59,985
+Yes, ma'am.
+
+1500
+01:25:00,028 --> 01:25:01,188
+What do you think you're doing?
+
+1501
+01:25:01,229 --> 01:25:03,561
+That Array is the only way
+we have to get back home.
+
+1502
+01:25:03,631 --> 01:25:05,565
+l'm aware everyone has
+families and loved ones
+
+1503
+01:25:05,633 --> 01:25:07,123
+at homes they want
+to get back to--
+
+1504
+01:25:07,202 --> 01:25:10,171
+so do l-- but l'm not
+willing to trade the lives
+
+1505
+01:25:10,238 --> 01:25:12,297
+of the Ocampa
+for our convenience.
+
+1506
+01:25:12,373 --> 01:25:13,863
+We'll have to find
+another way home.
+
+1507
+01:25:13,975 --> 01:25:15,636
+What other way home is there?
+
+1508
+01:25:15,710 --> 01:25:18,804
+Who is she to be making
+these decisions for all of us?
+
+1509
+01:25:18,880 --> 01:25:20,575
+She's the Captain.
+
+1510
+01:25:22,050 --> 01:25:24,484
+The tricobalt devices are ready.
+
+1511
+01:25:24,552 --> 01:25:26,611
+We're in position.
+
+1512
+01:25:32,060 --> 01:25:33,755
+Fire.
+
+1513
+01:25:57,919 --> 01:26:00,786
+The lead Kazon ship
+is hailing us.
+
+1514
+01:26:00,889 --> 01:26:02,789
+On screen.
+
+1515
+01:26:04,459 --> 01:26:06,689
+You have made an enemy today.
+
+1516
+01:26:09,330 --> 01:26:11,525
+They are withdrawing, Captain.
+
+1517
+01:26:21,543 --> 01:26:22,874
+Come in.
+
+1518
+01:26:25,680 --> 01:26:27,511
+You asked to see me, Captain?
+
+1519
+01:26:27,582 --> 01:26:29,675
+Mr. Paris...
+
+1520
+01:26:29,751 --> 01:26:31,719
+you have a problem.
+
+1521
+01:26:31,786 --> 01:26:34,050
+l've invited Chakotay
+
+1522
+01:26:34,122 --> 01:26:36,613
+and the other Maquis
+to become part of this crew.
+
+1523
+01:26:36,791 --> 01:26:38,349
+lt seemed the only
+reasonable thing to do
+
+1524
+01:26:38,426 --> 01:26:39,893
+under the circumstances.
+
+1525
+01:26:40,028 --> 01:26:42,519
+Will you provide
+a bodyguard for me, Captain?
+
+1526
+01:26:42,597 --> 01:26:44,326
+lt seems you already have one.
+
+1527
+01:26:44,399 --> 01:26:46,196
+l do?
+
+1528
+01:26:46,267 --> 01:26:49,896
+Mr. Chakotay said something
+about his life belonging to you.
+
+1529
+01:26:49,971 --> 01:26:52,940
+He'll be taking responsibility
+for your safety.
+
+1530
+01:26:53,007 --> 01:26:56,374
+l think l'm going to enjoy this.
+
+1531
+01:26:56,444 --> 01:26:58,412
+Don't be so sure.
+
+1532
+01:26:58,479 --> 01:27:00,470
+He'll also be my First Officer.
+
+1533
+01:27:00,582 --> 01:27:03,312
+Everyone aboard this ship
+will report to him--
+
+1534
+01:27:03,351 --> 01:27:07,219
+including the Lieutenant
+assigned to conn.
+
+1535
+01:27:08,856 --> 01:27:10,153
+Me?
+
+1536
+01:27:10,225 --> 01:27:13,490
+l've entered into the Ship's Log
+on this date
+
+1537
+01:27:13,561 --> 01:27:16,587
+that l'm granting
+a field commission of Lieutenant
+
+1538
+01:27:16,664 --> 01:27:18,632
+to Thomas Eugene Paris.
+
+1539
+01:27:23,738 --> 01:27:24,830
+Congratulations.
+
+1540
+01:27:27,942 --> 01:27:30,240
+Um, for the first time
+in my life,
+
+1541
+01:27:30,311 --> 01:27:32,108
+l don't know what to say.
+
+1542
+01:27:32,180 --> 01:27:34,546
+You've earned this, Tom.
+
+1543
+01:27:34,616 --> 01:27:37,141
+l'm only sorry
+your father won't know.
+
+1544
+01:27:37,218 --> 01:27:38,685
+Oh, he'll know...
+
+1545
+01:27:41,055 --> 01:27:42,613
+when we get back.
+
+1546
+01:27:42,690 --> 01:27:46,217
+Ah, Captain, we were
+just coming to see you.
+
+1547
+01:27:46,294 --> 01:27:48,262
+We've supplied your ship
+with water, Neelix.
+
+1548
+01:27:48,329 --> 01:27:49,557
+lt's ready to go.
+
+1549
+01:27:49,631 --> 01:27:52,930
+Well, you see that's what
+we wanted to discuss.
+
+1550
+01:27:53,034 --> 01:27:55,195
+We'd like to go with you.
+
+1551
+01:27:56,271 --> 01:27:58,671
+l'm sorry.
+This isn't a passenger ship.
+
+1552
+01:27:58,740 --> 01:27:59,707
+Of course not.
+
+1553
+01:27:59,774 --> 01:28:00,706
+We won't be passengers.
+
+1554
+01:28:00,808 --> 01:28:03,003
+We'd be valuable colleagues.
+
+1555
+01:28:03,044 --> 01:28:04,204
+''Colleagues''?
+
+1556
+01:28:04,279 --> 01:28:07,510
+Whatever you need is
+what l have to offer.
+
+1557
+01:28:07,582 --> 01:28:10,073
+You need a guide,
+l'm your guide.
+
+1558
+01:28:10,151 --> 01:28:13,052
+You need supplies, l know
+where to procure them.
+
+1559
+01:28:13,121 --> 01:28:16,750
+l have friends among races
+you don't even know exist.
+
+1560
+01:28:16,824 --> 01:28:17,756
+You need a cook?
+
+1561
+01:28:17,825 --> 01:28:19,019
+Oh, you haven't lived
+
+1562
+01:28:19,093 --> 01:28:21,220
+until you've tasted
+my angla'bosque.
+
+1563
+01:28:21,296 --> 01:28:24,424
+lt will be my job
+to anticipate your needs
+
+1564
+01:28:24,499 --> 01:28:25,966
+before you know you have them.
+
+1565
+01:28:26,034 --> 01:28:28,332
+And l anticipate your first need
+
+1566
+01:28:28,403 --> 01:28:30,064
+will be me.
+
+1567
+01:28:30,138 --> 01:28:32,231
+Captain, we both want
+
+1568
+01:28:32,307 --> 01:28:34,468
+very much to be a part
+of your journey.
+
+1569
+01:28:49,957 --> 01:28:55,259
+We're alone in
+an uncharted part of the galaxy.
+
+1570
+01:28:55,330 --> 01:28:58,891
+We've already made
+some friends here
+
+1571
+01:28:58,966 --> 01:29:00,934
+and some enemies.
+
+1572
+01:29:01,035 --> 01:29:05,404
+We have no idea of the dangers
+we're going to face,
+
+1573
+01:29:05,440 --> 01:29:08,000
+but one thing is clear:
+
+1574
+01:29:08,076 --> 01:29:11,011
+Both crews are going
+to have to work together
+
+1575
+01:29:11,079 --> 01:29:13,570
+if we're to survive.
+
+1576
+01:29:13,648 --> 01:29:16,674
+That's why Commander Chakotay
+and l have agreed
+
+1577
+01:29:16,751 --> 01:29:18,343
+that this should be one crew--
+
+1578
+01:29:20,054 --> 01:29:21,646
+a Starfleet crew.
+
+1579
+01:29:21,723 --> 01:29:25,853
+And as the only Starfleet vessel
+assigned to the Delta Quadrant
+
+1580
+01:29:25,960 --> 01:29:28,224
+we'll continue
+to follow our directive
+
+1581
+01:29:28,296 --> 01:29:31,527
+to seek out new worlds
+and explore space.
+
+1582
+01:29:34,435 --> 01:29:37,404
+But our primary goal is clear.
+
+1583
+01:29:37,472 --> 01:29:39,337
+Even at maximum speeds
+
+1584
+01:29:39,407 --> 01:29:42,968
+it would take 7 5 years
+to reach the Federation,
+
+1585
+01:29:43,044 --> 01:29:46,445
+but l'm not willing
+to settle for that.
+
+1586
+01:29:46,514 --> 01:29:49,540
+There's another entity
+like the Caretaker
+
+1587
+01:29:49,617 --> 01:29:50,811
+out there somewhere
+
+1588
+01:29:50,885 --> 01:29:53,649
+who has the ability
+to get us there a lot faster.
+
+1589
+01:29:53,721 --> 01:29:55,552
+We'll be looking for her
+
+1590
+01:29:55,623 --> 01:29:59,024
+and we'll be looking
+for wormholes, spatial rifts
+
+1591
+01:29:59,093 --> 01:30:01,493
+or new technologies to help us.
+
+1592
+01:30:03,498 --> 01:30:07,901
+Somewhere, along this journey,
+
+1593
+01:30:07,969 --> 01:30:10,870
+we'll find a way back.
+
+1594
+01:30:11,939 --> 01:30:15,602
+Mr. Paris, set a course...
+
+1595
+01:30:15,676 --> 01:30:18,042
+for home.
+
+1596
+01:30:18,112 --> 01:30:19,101
+Aye, Captain.
+
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

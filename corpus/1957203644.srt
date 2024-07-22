@@ -1,0 +1,5073 @@
+﻿1
+00:00:06,916 --> 00:00:08,833
+[man 1 over comm]
+<i>Attention all flight personnel,</i>
+
+2
+00:00:08,916 --> 00:00:11,458
+<i>please verify ready to resume count
+and go for launch.</i>
+
+3
+00:00:11,541 --> 00:00:12,875
+<i>- ITS?</i>
+- [man 2] <i>We're a go.</i>
+
+4
+00:00:12,958 --> 00:00:14,333
+- [man 1] <i>TTC?</i>
+- [man 3]<i> Go.</i>
+
+5
+00:00:14,416 --> 00:00:16,333
+- [man 1]<i> CBC?</i>
+- [man 4]<i> Orbit group, go.</i>
+
+6
+00:00:16,416 --> 00:00:18,625
+- [man 1] <i>BTC.</i>
+- [static crackles over comm]
+
+7
+00:00:18,708 --> 00:00:20,458
+[man 1] <i>BTC, your pole is go?</i>
+
+8
+00:00:20,541 --> 00:00:21,583
+<i>Is that affirmative?</i>
+
+9
+00:00:21,666 --> 00:00:23,708
+[man 5]<i> Yes, affirmative. BTC is a go.</i>
+
+10
+00:00:23,791 --> 00:00:26,125
+- [man 1] <i>Copy that. OPS?</i>
+- [woman 1]<i> We're a go.</i>
+
+11
+00:00:26,208 --> 00:00:27,500
+- [man 1] <i>Electrical?</i>
+- [man 6] <i>Go.</i>
+
+12
+00:00:27,583 --> 00:00:30,708
+- [man 1] <i>SRO?</i>
+- [man 7] <i>SRO is go. We're clear to launch.</i>
+
+13
+00:00:30,791 --> 00:00:32,291
+- [man 1] <i>Guidance?</i>
+- [man 8] <i>Go flight.</i>
+
+14
+00:00:32,375 --> 00:00:34,583
+- [man 1] <i>Tito?</i>
+- [woman 2] <i>Kingfisher is ready to launch.</i>
+
+15
+00:00:34,666 --> 00:00:37,291
+- [man 1] <i>And CDR?</i>
+- [woman 3] <i>CDR is go.</i>
+
+16
+00:00:37,375 --> 00:00:39,791
+[man 1] <i>Okay. Commander Barnett,</i>
+<i>on behalf of the Hyperion team</i>
+
+17
+00:00:39,875 --> 00:00:43,208
+<i>and the millions of people watching
+around the world, good luck, Godspeed,</i>
+
+18
+00:00:43,291 --> 00:00:45,625
+<i>and we'll see you back here in two years.</i>
+
+19
+00:00:46,208 --> 00:00:49,041
+[woman 3] <i>Thank you, Jim.</i>
+<i>Our thanks to the launch team</i>
+
+20
+00:00:49,125 --> 00:00:50,833
+and everyone at the MTS program.
+
+21
+00:00:50,916 --> 00:00:52,666
+The crew is go for launch.
+
+22
+00:00:52,750 --> 00:00:55,041
+[Jim] <i>Copy that.</i>
+<i>We have a go for auto-sequence start.</i>
+
+23
+00:00:56,083 --> 00:00:59,166
+<i>T-minus-15 seconds.
+Stand by for terminal count.</i>
+
+24
+00:01:02,125 --> 00:01:06,708
+<i>Ten, nine, eight, seven, six.</i>
+
+25
+00:01:06,791 --> 00:01:08,333
+<i>We have main engine start.</i>
+
+26
+00:01:09,166 --> 00:01:12,291
+<i>- Three, two, one, zero.</i>
+- [exhales]
+
+27
+00:01:12,375 --> 00:01:14,375
+[rumbling]
+
+28
+00:01:28,458 --> 00:01:32,125
+<i>First-stage separation in three, two, one.</i>
+
+29
+00:01:34,541 --> 00:01:35,833
+<i>Good break. Good break.</i>
+
+30
+00:01:46,083 --> 00:01:47,333
+<i>Roger roll, </i>MTS.
+
+31
+00:02:02,208 --> 00:02:04,125
+<i>We should have a good</i>
+<i>forward link now, </i>MTS.
+
+32
+00:02:04,916 --> 00:02:07,041
+Copy that. I'm seeing the same thing here.
+
+33
+00:02:10,541 --> 00:02:12,791
+[Jim] <i>We're coming up</i>
+<i>on second-stage separation.</i>
+
+34
+00:02:12,875 --> 00:02:14,583
+Copy, second-stage separation.
+
+35
+00:02:22,958 --> 00:02:24,750
+[Jim] <i>Altitude is 70 kilometers.</i>
+
+36
+00:02:24,833 --> 00:02:26,708
+<i>One hundred and seventy kilometers
+downrange.</i>
+
+37
+00:02:36,250 --> 00:02:38,625
+Hyperion, the main engines
+are underperforming slightly.
+
+38
+00:02:38,708 --> 00:02:41,416
+- [Jim] <i>Copy, main engines underperforming.</i>
+- Good read.
+
+39
+00:02:41,500 --> 00:02:43,541
+[Jim] <i>Stand by. We're consulting flight.</i>
+
+40
+00:02:47,416 --> 00:02:48,541
+Flip your visors down.
+
+41
+00:02:52,375 --> 00:02:54,375
+[tense music playing]
+
+42
+00:02:57,000 --> 00:02:59,791
+We're past return to landing. Abort
+complete reaching the end of Oceanic.
+
+43
+00:02:59,875 --> 00:03:00,708
+Abort?
+
+44
+00:03:10,333 --> 00:03:11,166
+Hyperion?
+
+45
+00:03:13,416 --> 00:03:14,791
+[Jim] <i>That's a negative abort, </i>MTS.
+
+46
+00:03:14,875 --> 00:03:16,875
+<i>There's enough fuel
+to handle the discrepancy.</i>
+
+47
+00:03:16,958 --> 00:03:18,125
+<i>Negative abort.</i>
+
+48
+00:03:19,083 --> 00:03:20,875
+Copy. Negative abort.
+
+49
+00:03:25,791 --> 00:03:28,291
+[Jim] MTS, <i>you're leaving</i>
+<i>for Mars Transfer Orbit.</i>
+
+50
+00:03:28,375 --> 00:03:29,875
+<i>Final systems nominal check.</i>
+
+51
+00:03:32,791 --> 00:03:33,625
+Are we a go?
+
+52
+00:03:34,208 --> 00:03:35,041
+Go.
+
+53
+00:03:35,958 --> 00:03:36,791
+Go.
+
+54
+00:03:39,250 --> 00:03:42,041
+Roger, Hyperion. We're ready.
+Go for MTO burn.
+
+55
+00:03:42,125 --> 00:03:44,333
+[Jim] <i>Roger that.</i>
+<i>Enjoy the ride, everyone.</i>
+
+56
+00:03:44,416 --> 00:03:47,666
+<i>MTO in three, two, one.</i>
+
+57
+00:04:02,833 --> 00:04:04,375
+<i>That's negative return, </i>MTS.
+
+58
+00:04:14,541 --> 00:04:16,083
+<i>Past max Q.</i>
+
+59
+00:04:23,875 --> 00:04:27,750
+<i>Main engine cutoff, three, two, one.</i>
+
+60
+00:04:28,833 --> 00:04:29,666
+We go.
+
+61
+00:04:56,666 --> 00:04:58,416
+[softly] Um... [clears throat]
+
+62
+00:05:07,666 --> 00:05:10,333
+[tranquil music playing]
+
+63
+00:05:44,500 --> 00:05:45,708
+[Barnett] There she is.
+
+64
+00:06:02,250 --> 00:06:04,750
+[Jim] MTS, <i>we're approaching</i>
+<i>Kingfisher separation.</i>
+
+65
+00:06:04,833 --> 00:06:06,625
+Copy. Kingfisher separation.
+
+66
+00:06:08,458 --> 00:06:09,583
+[thud]
+
+67
+00:06:14,833 --> 00:06:16,291
+[Jim] <i>Separation is nominal.</i>
+
+68
+00:06:32,208 --> 00:06:34,791
+[Barnett] <i>The Kingfisher</i>
+<i>is auto-docked to the </i>MTS.
+
+69
+00:06:34,875 --> 00:06:37,000
+<i>- Moving to taxi in now.</i>
+- [Jim]<i> Copy that.</i>
+
+70
+00:06:53,708 --> 00:06:55,833
+[Jim]
+MTS, <i>what's the current closure rate?</i>
+
+71
+00:06:56,333 --> 00:06:59,000
+[Barnett] Closure rate is nominal.
+Five centimeters per second.
+
+72
+00:07:06,458 --> 00:07:07,791
+<i>MTS </i>is in free drift.
+
+73
+00:07:09,833 --> 00:07:10,833
+[exhales]
+
+74
+00:07:11,333 --> 00:07:12,416
+Hang tight a bit.
+
+75
+00:07:14,958 --> 00:07:17,750
+Tethered gravity spin is starting.
+You're a go, Hyperion.
+
+76
+00:07:29,375 --> 00:07:31,375
+Artificial gravity is climbing.
+
+77
+00:07:37,458 --> 00:07:39,500
+Looks like we'll hit close to five G's.
+
+78
+00:07:45,916 --> 00:07:47,000
+Tether's unspooling.
+
+79
+00:07:53,166 --> 00:07:55,166
+[whirring]
+
+80
+00:08:09,750 --> 00:08:11,750
+[David vomiting and coughing]
+
+81
+00:08:21,000 --> 00:08:22,666
+[Barnett] Solar array separation.
+
+82
+00:08:29,291 --> 00:08:30,208
+[David sighs]
+
+83
+00:08:34,958 --> 00:08:37,125
+[Barnett] TDS nominal and at full speed.
+
+84
+00:08:37,625 --> 00:08:38,625
+[whirring stops]
+
+85
+00:08:40,625 --> 00:08:42,041
+All right. Plugs out.
+
+86
+00:08:44,916 --> 00:08:47,666
+Thank you for the launch, Jim.
+See you again at the first check.
+
+87
+00:08:47,750 --> 00:08:49,958
+Are you kidding me? That was incredible!
+
+88
+00:08:50,041 --> 00:08:52,583
+- That was incredible! [laughs]
+- Okay.
+
+89
+00:08:52,666 --> 00:08:53,541
+Oh!
+
+90
+00:08:55,291 --> 00:08:57,750
+- How are you feeling?
+- I'm good. Good.
+
+91
+00:08:57,833 --> 00:08:59,833
+[Zoe laughs]
+
+92
+00:09:22,208 --> 00:09:23,500
+Oh...
+
+93
+00:09:25,666 --> 00:09:26,500
+Let's go.
+
+94
+00:09:27,708 --> 00:09:29,708
+[dramatic music playing]
+
+95
+00:09:42,250 --> 00:09:44,083
+- [Zoe] I got it. Yeah.
+- Oh. Thanks.
+
+96
+00:10:25,250 --> 00:10:26,291
+Oh, God.
+
+97
+00:10:26,375 --> 00:10:28,916
+Okay, Zoe, you take this one.
+David, you start working in the back.
+
+98
+00:10:29,000 --> 00:10:29,958
+- This one?
+- [David] Copy.
+
+99
+00:11:08,333 --> 00:11:10,541
+- I'll be in the last wing.
+- [Zoe] Copy that.
+
+100
+00:11:26,333 --> 00:11:28,083
+- Hey. [knocks on wall]
+- [David] Hey.
+
+101
+00:11:28,791 --> 00:11:31,250
+- [Zoe] How you feeling?
+- Uh...
+
+102
+00:11:32,125 --> 00:11:34,125
+- You need anything?
+- I'll be all right.
+
+103
+00:11:34,208 --> 00:11:35,041
+A beer?
+
+104
+00:11:35,708 --> 00:11:36,625
+So thoughtful.
+
+105
+00:11:38,791 --> 00:11:40,500
+[exhales]
+
+106
+00:13:13,500 --> 00:13:14,333
+[zipper opens]
+
+107
+00:13:14,416 --> 00:13:16,416
+[mugs clinking]
+
+108
+00:13:19,791 --> 00:13:20,625
+This will help.
+
+109
+00:13:21,541 --> 00:13:22,375
+Thanks, Zo.
+
+110
+00:13:26,708 --> 00:13:27,625
+[sighs]
+
+111
+00:13:43,666 --> 00:13:45,166
+{\an8}- Come on, Zo.
+- What?
+
+112
+00:13:45,666 --> 00:13:48,333
+{\an8}- [David] Really?
+- What are you...? I'm not...
+
+113
+00:13:48,416 --> 00:13:50,458
+{\an8}Commander, how did she get Payloads
+to allow this?
+
+114
+00:13:50,541 --> 00:13:53,500
+{\an8}I don't even know anybody at Payloads,
+so how would I...?
+
+115
+00:13:53,583 --> 00:13:56,791
+You wasted, what, 800 grams
+
+116
+00:13:56,875 --> 00:13:59,458
+of your allowable personal effects
+on these?
+
+117
+00:13:59,541 --> 00:14:00,416
+Mm-hm.
+
+118
+00:14:00,500 --> 00:14:03,916
+- You don't even care about the rivalry.
+- No. But you do, David.
+
+119
+00:14:04,625 --> 00:14:05,625
+[Barnett chuckling]
+
+120
+00:14:05,708 --> 00:14:06,916
+Oh, it's so easy.
+
+121
+00:14:08,500 --> 00:14:09,333
+Okay.
+
+122
+00:14:10,833 --> 00:14:11,958
+Five hours down...
+
+123
+00:14:13,875 --> 00:14:15,000
+two years to go.
+
+124
+00:14:15,083 --> 00:14:16,000
+[Barnett chuckles]
+
+125
+00:14:16,500 --> 00:14:18,416
+As your doctor,
+I'm telling you to drink that.
+
+126
+00:14:22,833 --> 00:14:24,833
+[Zoe reading softly]
+
+127
+00:14:28,666 --> 00:14:31,250
+- [David clears throat]
+- "Applicable"? "Applicable"?
+
+128
+00:14:31,958 --> 00:14:33,583
+- [David] "Applicable" is British.
+- Is it?
+
+129
+00:14:34,333 --> 00:14:35,833
+- How do I look?
+- Stunning.
+
+130
+00:14:36,500 --> 00:14:38,333
+No. I'm serious. This is a big deal.
+
+131
+00:14:38,416 --> 00:14:40,583
+You look good. You look fine, seriously.
+You look good.
+
+132
+00:14:40,666 --> 00:14:43,041
+- [man speaking indistinctly over comm]
+- [David clears throat]
+
+133
+00:14:43,125 --> 00:14:44,416
+Oh. Good.
+
+134
+00:14:44,500 --> 00:14:47,041
+Uh, yes, we do.
+We read you loud and clear.
+
+135
+00:14:47,125 --> 00:14:49,041
+Welcome to <i>MTS-42.</i>
+
+136
+00:14:49,125 --> 00:14:51,541
+[man speaking indistinctly over earpieces]
+
+137
+00:14:54,000 --> 00:14:55,541
+Oh, yeah. We did. Um...
+
+138
+00:14:55,625 --> 00:14:58,875
+It's not uncommon to experience
+a few hiccups during the launch,
+
+139
+00:14:58,958 --> 00:15:02,416
+but due to the preparation
+and expertise of our ground team,
+
+140
+00:15:02,500 --> 00:15:05,583
+we had a smooth rendezvous
+with the MTS Cycler.
+
+141
+00:15:07,500 --> 00:15:09,500
+[man speaking indistinctly]
+
+142
+00:15:11,666 --> 00:15:13,000
+That's true. Um...
+
+143
+00:15:13,500 --> 00:15:15,083
+It's bittersweet.
+
+144
+00:15:15,166 --> 00:15:18,625
+I've had the honor of participating
+in two missions to date.
+
+145
+00:15:18,708 --> 00:15:21,500
+<i>And I couldn't be working
+with a more talented crew on this,</i>
+
+146
+00:15:21,583 --> 00:15:23,625
+<i>my final and third mission.</i>
+
+147
+00:15:23,708 --> 00:15:25,708
+[man speaking indistinctly]
+
+148
+00:15:26,416 --> 00:15:28,666
+Um... well, it's only been a few hours,
+
+149
+00:15:28,750 --> 00:15:31,208
+<i>but it's already
+a life-changing experience.</i>
+
+150
+00:15:31,291 --> 00:15:32,833
+<i>I'm thrilled to be here.</i>
+
+151
+00:15:35,458 --> 00:15:37,458
+[man speaking indistinctly]
+
+152
+00:15:38,125 --> 00:15:40,500
+[Zoe] <i>This isn't where</i>
+<i>I thought I would end up.</i>
+
+153
+00:15:40,583 --> 00:15:43,708
+<i>To me, my career was gonna be research</i>
+<i>on Earth. </i>[chuckles]
+
+154
+00:15:43,791 --> 00:15:45,916
+<i>You never know
+where life's gonna take you.</i>
+
+155
+00:15:47,750 --> 00:15:50,208
+Yes, I applied to the HARP program
+because I thought
+
+156
+00:15:50,291 --> 00:15:53,125
+it would be a funny story
+to be rejected by Hyperion.
+
+157
+00:15:53,208 --> 00:15:54,250
+[David & Barnett chuckle]
+
+158
+00:15:54,333 --> 00:15:57,666
+[Zoe] <i>But now I realize</i>
+<i>this is one of those rare opportunities</i>
+
+159
+00:15:57,750 --> 00:16:01,583
+<i>that could truly give my life meaning
+beyond anything I could imagine.</i>
+
+160
+00:16:02,083 --> 00:16:04,083
+[man speaking indistinctly]
+
+161
+00:16:05,041 --> 00:16:08,166
+Well, space exploration has always led
+to amazing medical discoveries
+
+162
+00:16:08,250 --> 00:16:10,750
+that are... applicable
+to the people on Earth.
+
+163
+00:16:11,333 --> 00:16:14,375
+- [David clears throat]
+- [man speaking indistinctly]
+
+164
+00:16:14,458 --> 00:16:17,875
+Well, uh, the launch was incredible.
+
+165
+00:16:19,166 --> 00:16:22,625
+It does take a little while
+to get adjusted to the artificial gravity.
+
+166
+00:16:25,291 --> 00:16:27,291
+[man speaking indistinctly]
+
+167
+00:16:28,541 --> 00:16:31,291
+[David] <i>Well, two years is a long time</i>
+<i>to be away from my wife,</i>
+
+168
+00:16:31,375 --> 00:16:34,083
+but this
+is a once-in-a-lifetime opportunity.
+
+169
+00:16:34,166 --> 00:16:36,166
+I am so grateful to have her support.
+
+170
+00:16:36,250 --> 00:16:38,291
+[man speaking indistinctly]
+
+171
+00:16:38,375 --> 00:16:39,958
+[David] <i>My research is integral</i>
+
+172
+00:16:40,041 --> 00:16:42,916
+<i>to maintaining and sustaining life
+on Mars long-term.</i>
+
+173
+00:16:43,625 --> 00:16:47,791
+<i>We are taking the first steps
+to being able to call Mars a second home.</i>
+
+174
+00:16:48,666 --> 00:16:50,666
+[man speaking indistinctly]
+
+175
+00:16:50,750 --> 00:16:52,583
+Uh, no. No, not at all.
+
+176
+00:16:52,666 --> 00:16:57,625
+I mean, out of the thousands of proposals
+submitted from university students
+
+177
+00:16:57,708 --> 00:17:01,791
+<i>and professors all around the world,
+these two definitely rose to the top.</i>
+
+178
+00:17:01,875 --> 00:17:05,000
+<i>I'm more than confident in their ability
+and their training.</i>
+
+179
+00:17:05,541 --> 00:17:08,166
+I know they can handle anything
+that comes their way.
+
+180
+00:17:24,750 --> 00:17:26,750
+[machine powering up]
+
+181
+00:17:46,000 --> 00:17:48,000
+[tense music playing]
+
+182
+00:17:59,791 --> 00:18:01,791
+[whirring]
+
+183
+00:18:10,000 --> 00:18:12,041
+[Barnett gasping]
+
+184
+00:18:12,125 --> 00:18:12,958
+Oh, shit.
+
+185
+00:18:16,083 --> 00:18:17,625
+[creaking]
+
+186
+00:18:18,375 --> 00:18:19,583
+Oh, shit.
+
+187
+00:18:20,375 --> 00:18:21,666
+[yells]
+
+188
+00:18:22,458 --> 00:18:24,791
+[electricity crackling]
+
+189
+00:18:27,083 --> 00:18:28,375
+[groans]
+
+190
+00:18:29,166 --> 00:18:30,041
+[grunting]
+
+191
+00:18:31,833 --> 00:18:33,291
+Commander! [gasps]
+
+192
+00:18:33,875 --> 00:18:35,166
+Holy shit.
+
+193
+00:18:35,250 --> 00:18:37,250
+- [David] Are you okay?
+- Get him off! Get him off!
+
+194
+00:18:37,333 --> 00:18:38,208
+What is going on?
+
+195
+00:18:38,291 --> 00:18:39,750
+- [Barnett] Get him off!
+- Are you okay?
+
+196
+00:18:39,833 --> 00:18:41,875
+- [David] Is he alive?
+- [Barnett] Just pull him up.
+
+197
+00:18:42,375 --> 00:18:43,375
+Get him off.
+
+198
+00:18:44,250 --> 00:18:46,333
+[Zoe]
+Stop. Let's get him to the infirmary.
+
+199
+00:18:46,416 --> 00:18:47,250
+I got him.
+
+200
+00:18:47,333 --> 00:18:50,416
+- [David] Ready. [grunts]
+- Ready? One, two, three. [grunts]
+
+201
+00:18:57,708 --> 00:18:59,083
+- [David] Here?
+- [Zoe] Yeah.
+
+202
+00:19:05,791 --> 00:19:06,750
+[Zoe] That's good.
+
+203
+00:19:07,333 --> 00:19:09,583
+- [David] Who the hell is this?
+- Come on.
+
+204
+00:19:09,666 --> 00:19:10,791
+[scissors snipping]
+
+205
+00:19:12,541 --> 00:19:14,541
+[suspenseful music playing]
+
+206
+00:19:17,166 --> 00:19:19,166
+[metal creaking]
+
+207
+00:19:19,250 --> 00:19:21,166
+[air hissing]
+
+208
+00:19:21,250 --> 00:19:22,250
+[gasps]
+
+209
+00:19:30,750 --> 00:19:33,291
+- [Zoe] David, put some gloves on.
+- [David] Copy.
+
+210
+00:19:46,375 --> 00:19:47,291
+[Zoe] <i>Hold that closed.</i>
+
+211
+00:19:47,375 --> 00:19:49,666
+- Just hold it as closed as you can.
+- Wow.
+
+212
+00:19:50,791 --> 00:19:51,750
+[Zoe] That's great.
+
+213
+00:19:53,250 --> 00:19:55,958
+[Barnett] <i>The damage is contained</i>
+<i>to the functional module.</i>
+
+214
+00:19:56,041 --> 00:19:59,791
+<i>A significant amount of atmospheric O2
+vented from the MTS.</i>
+
+215
+00:19:59,875 --> 00:20:02,208
+There's a breach in the hull.
+Getting all this?
+
+216
+00:20:02,291 --> 00:20:04,333
+- [Jim speaking indistinctly over earpiece]
+- Good.
+
+217
+00:20:04,916 --> 00:20:07,958
+Hey, Jim. Who the fuck is on my ship?
+
+218
+00:20:09,000 --> 00:20:10,375
+[Jim speaking indistinctly]
+
+219
+00:20:10,458 --> 00:20:14,000
+Yeah. He's still unconscious,
+but I mean... is he a threat?
+
+220
+00:20:14,083 --> 00:20:16,625
+Do we need to, I don't know, find a way
+
+221
+00:20:16,708 --> 00:20:17,833
+to restrain him or...?
+
+222
+00:20:19,250 --> 00:20:21,250
+[whirring]
+
+223
+00:20:29,666 --> 00:20:31,000
+Any idea if he'll wake up?
+
+224
+00:20:32,416 --> 00:20:34,500
+Honestly, I'm surprised he's still alive.
+
+225
+00:20:43,541 --> 00:20:44,625
+[David sighs]
+
+226
+00:20:45,208 --> 00:20:47,166
+His name is Michael Adams.
+
+227
+00:20:47,250 --> 00:20:49,166
+All they know for now
+is that he's launch support.
+
+228
+00:20:50,791 --> 00:20:54,041
+- [Zoe] How the hell was he missed?
+- [Barnett] They're looking into it.
+
+229
+00:20:54,125 --> 00:20:56,000
+We don't make mistakes like this.
+
+230
+00:20:56,083 --> 00:20:59,000
+- Did he stow away on purpose?
+- [Barnett] Hyperion doesn't know that yet.
+
+231
+00:21:04,000 --> 00:21:05,916
+[Zoe] How are you not screaming in pain
+right now?
+
+232
+00:21:07,083 --> 00:21:09,750
+It... hurts.
+
+233
+00:21:10,916 --> 00:21:12,083
+This is pretty serious.
+
+234
+00:21:13,666 --> 00:21:17,333
+- [Barnett] How long?
+- [Zoe] To be safe, six weeks at least.
+
+235
+00:21:23,875 --> 00:21:25,416
+[buzzing]
+
+236
+00:21:26,000 --> 00:21:29,291
+- CO2 is up 2 percent.
+- [David] How?
+
+237
+00:21:30,125 --> 00:21:31,291
+The CDRA is turned off.
+
+238
+00:21:31,375 --> 00:21:34,708
+We shut down the entire functional module,
+including life support.
+
+239
+00:21:34,791 --> 00:21:37,208
+Let's get started
+on the lithium-hydroxide canisters.
+
+240
+00:21:37,291 --> 00:21:38,125
+Yeah. Roger.
+
+241
+00:21:49,916 --> 00:21:53,791
+The breathing masks in the exercise room
+are attached to the CDRA, as well,
+
+242
+00:21:53,875 --> 00:21:58,125
+so let's just hold off on exercise
+till we sort this out.
+
+243
+00:21:58,208 --> 00:21:59,666
+- Copy.
+- Copy that, commander.
+
+244
+00:22:07,750 --> 00:22:08,791
+We're good to go.
+
+245
+00:22:08,875 --> 00:22:10,875
+[machines humming]
+
+246
+00:22:13,291 --> 00:22:15,291
+[buzzing]
+
+247
+00:22:19,208 --> 00:22:21,625
+[David & Barnett speaking indistinctly]
+
+248
+00:22:32,666 --> 00:22:34,666
+[tense music playing]
+
+249
+00:22:48,166 --> 00:22:49,083
+[coughs]
+
+250
+00:22:57,958 --> 00:22:58,916
+[winces]
+
+251
+00:23:18,500 --> 00:23:19,666
+Oh, fuck.
+
+252
+00:23:20,250 --> 00:23:22,083
+Ahh. Jeez.
+
+253
+00:23:28,625 --> 00:23:29,625
+[sighs]
+
+254
+00:24:10,208 --> 00:24:12,208
+[gasping]
+
+255
+00:24:16,708 --> 00:24:17,708
+[Zoe] Hey. Sit down.
+
+256
+00:24:17,791 --> 00:24:19,125
+- Did we take off?
+- Hey, sit down.
+
+257
+00:24:19,208 --> 00:24:21,416
+- Did we take off?
+- Sit down or you're gonna pass out.
+
+258
+00:24:21,500 --> 00:24:23,083
+- Did we...?
+- Hey, you're okay.
+
+259
+00:24:23,166 --> 00:24:26,833
+- Did we take off? No, no, no. [groans]
+- Listen. You're fine. You're safe. No.
+
+260
+00:24:26,916 --> 00:24:30,875
+- You're safe. You're fine. Commander!
+- No, no. Did we take off? Did we take off?
+
+261
+00:24:34,125 --> 00:24:36,250
+[Zoe] Okay, let's take deep breaths.
+Take deep breaths.
+
+262
+00:24:36,333 --> 00:24:38,083
+In through your nose,
+out through your mouth.
+
+263
+00:24:38,166 --> 00:24:40,458
+- [Michael panting]
+- Just like I'm doing. Great. Michael?
+
+264
+00:24:40,541 --> 00:24:42,708
+It's Michael, right? Michael, I'm Zoe.
+I'm a doctor.
+
+265
+00:24:42,791 --> 00:24:44,958
+I want you to focus
+on slowing down your breathing.
+
+266
+00:24:45,041 --> 00:24:47,708
+Just nice and slow. Okay?
+I'm gonna check your stitches.
+
+267
+00:24:47,791 --> 00:24:49,125
+- Is that okay?
+- [Michael] Stitches?
+
+268
+00:24:49,208 --> 00:24:50,625
+- Nice and slow. Nice and slow.
+- What?
+
+269
+00:24:50,708 --> 00:24:52,875
+You got injured during the launch
+just on your side here.
+
+270
+00:24:52,958 --> 00:24:53,833
+- Is that okay?
+- Uh-huh.
+
+271
+00:24:53,916 --> 00:24:56,083
+I'm just gonna take a look. Ready?
+All good.
+
+272
+00:24:56,958 --> 00:24:57,791
+Okay.
+
+273
+00:24:58,416 --> 00:25:00,083
+- [Michael grunts]
+- That's great.
+
+274
+00:25:01,500 --> 00:25:03,125
+Okay. You're good. You're good.
+
+275
+00:25:04,833 --> 00:25:07,458
+Just nice and slow.
+Slow your heart rate down.
+
+276
+00:25:08,083 --> 00:25:09,333
+- Okay?
+- [Michael] Yeah.
+
+277
+00:25:09,416 --> 00:25:10,375
+- Okay.
+- Great.
+
+278
+00:25:11,958 --> 00:25:13,291
+- [Michael] Sorry.
+- No. You're okay.
+
+279
+00:25:13,375 --> 00:25:15,708
+It's okay. Hi. Hi, Michael.
+I'm Marina Barnett.
+
+280
+00:25:15,791 --> 00:25:19,500
+I'm the commander of the ship.
+Do you mind if I ask you a few questions?
+
+281
+00:25:20,375 --> 00:25:21,958
+[Michael] No. No, I don't mind.
+
+282
+00:25:24,083 --> 00:25:26,291
+- Do you work for Hyperion?
+- [Michael] Yes.
+
+283
+00:25:27,958 --> 00:25:31,250
+- I'm a launch support engineer, ma'am.
+- Okay.
+
+284
+00:25:31,333 --> 00:25:33,750
+And do you remember what happened
+on the pad?
+
+285
+00:25:36,666 --> 00:25:39,208
+[Michael] Uh... Yes. I was, um...
+
+286
+00:25:41,166 --> 00:25:42,000
+I was, uh...
+
+287
+00:25:43,458 --> 00:25:48,250
+I was arming the second-stage firing pins,
+and I thought I was...
+
+288
+00:25:49,666 --> 00:25:51,541
+I thought I was buckled in and, um...
+
+289
+00:25:52,500 --> 00:25:54,583
+- No.
+- You've had a concussion. This is normal.
+
+290
+00:25:54,666 --> 00:25:56,791
+- This is fine.
+- I thought I was clipped in.
+
+291
+00:25:56,875 --> 00:25:58,375
+[Zoe] It's okay if you don't remember.
+
+292
+00:26:01,416 --> 00:26:02,750
+How long was I...?
+
+293
+00:26:02,833 --> 00:26:03,791
+How long was I out?
+
+294
+00:26:06,666 --> 00:26:08,250
+We took off about 12 hours ago.
+
+295
+00:26:10,625 --> 00:26:11,541
+Twelve hours.
+
+296
+00:26:15,708 --> 00:26:18,458
+- I need to get back to my sister. Please.
+- [Zoe] No.
+
+297
+00:26:18,541 --> 00:26:21,875
+- She's alone. I gotta get back.
+- Michael. I hear you, Michael,
+
+298
+00:26:21,958 --> 00:26:24,166
+- but we're not going back.
+- What do you mean?
+
+299
+00:26:24,250 --> 00:26:26,958
+- This is a two-year mission. Please.
+- I understand.
+
+300
+00:26:27,041 --> 00:26:29,083
+- I need to get back. Now.
+- Michael. Nice and slow.
+
+301
+00:26:29,166 --> 00:26:32,041
+We're moving too fast.
+We don't have enough fuel to turn around.
+
+302
+00:26:32,125 --> 00:26:34,625
+- I gotta get back home.
+- I understand. I do.
+
+303
+00:26:34,708 --> 00:26:37,875
+Let me go and relay this to Hyperion.
+I'm just gonna be a few minutes. Okay?
+
+304
+00:26:37,958 --> 00:26:39,958
+- I'll be right back. Okay?
+- [panting]
+
+305
+00:26:40,041 --> 00:26:41,083
+- Yeah.
+- [Barnett] Stay here.
+
+306
+00:26:41,166 --> 00:26:43,666
+- [David] Yes, commander.
+- [Zoe] We're gonna figure this out, okay?
+
+307
+00:26:43,750 --> 00:26:46,291
+And I just need you to keep breathing
+while we figure it out. Okay?
+
+308
+00:26:46,375 --> 00:26:48,958
+Can you just do that?
+Slow that breathing back down.
+
+309
+00:27:00,541 --> 00:27:01,500
+[Zoe] <i>He's stable.</i>
+
+310
+00:27:01,583 --> 00:27:04,666
+He just needs some time alone to rest
+and process everything.
+
+311
+00:27:05,875 --> 00:27:06,708
+[Barnett] Copy.
+
+312
+00:27:08,541 --> 00:27:10,416
+- Do you need a hand?
+- No, I'm fine.
+
+313
+00:27:57,916 --> 00:28:00,083
+- [Michael grunts]
+- [Zoe] Michael.
+
+314
+00:28:00,166 --> 00:28:01,250
+- [David] Hey.
+- [Michael] Hey.
+
+315
+00:28:01,333 --> 00:28:03,916
+- [David] Let me give you a hand.
+- [grunts] I'm good.
+
+316
+00:28:05,375 --> 00:28:06,958
+- You okay?
+- [David] All right.
+
+317
+00:28:07,041 --> 00:28:09,333
+- Is that all right?
+- [grunts]
+
+318
+00:28:09,416 --> 00:28:10,791
+- Good?
+- Yeah.
+
+319
+00:28:10,875 --> 00:28:11,958
+I'm good. Thanks.
+
+320
+00:28:12,041 --> 00:28:13,333
+- [David] Yeah?
+- [Michael] Yes.
+
+321
+00:28:14,708 --> 00:28:17,833
+So, Michael, Hyperion talked
+to your sister. She's okay.
+
+322
+00:28:18,833 --> 00:28:21,291
+They're gonna be hiring her
+a full-time guardian
+
+323
+00:28:21,375 --> 00:28:22,750
+and covering every expense.
+
+324
+00:28:24,666 --> 00:28:25,500
+Thank you.
+
+325
+00:28:27,208 --> 00:28:30,500
+These are yours. The mission director
+wants to give you some more details
+
+326
+00:28:30,583 --> 00:28:32,208
+when we're up for live comm tomorrow,
+so...
+
+327
+00:28:33,416 --> 00:28:34,833
+[Michael exhales]
+
+328
+00:28:35,791 --> 00:28:36,791
+Okay. Um...
+
+329
+00:28:38,458 --> 00:28:40,000
+Thank you. Uh...
+
+330
+00:28:41,125 --> 00:28:44,750
+I actually came down here 'cause I had
+a couple things I wanted to say.
+
+331
+00:28:45,583 --> 00:28:48,916
+- Uh... do you mind?
+- [Barnett] No, please.
+
+332
+00:28:49,500 --> 00:28:50,333
+Um...
+
+333
+00:28:51,250 --> 00:28:52,166
+First off...
+
+334
+00:28:53,250 --> 00:28:56,958
+I just want to apologize
+for that freak-out I had back there.
+
+335
+00:28:57,041 --> 00:29:02,000
+It was just kind of a shock
+to... wake up here.
+
+336
+00:29:05,416 --> 00:29:06,333
+Thank you.
+
+337
+00:29:07,250 --> 00:29:08,083
+Of course.
+
+338
+00:29:09,666 --> 00:29:11,500
+Also, I'm not gonna just sit around.
+
+339
+00:29:12,833 --> 00:29:15,708
+I know the ship is small
+and it's a lot smaller now that I'm here.
+
+340
+00:29:15,791 --> 00:29:19,458
+And I'm sure there's some grunt work
+to be done. And I can learn fast.
+
+341
+00:29:20,625 --> 00:29:22,875
+I can do... whatever it takes.
+
+342
+00:29:23,666 --> 00:29:25,583
+Thank you, Michael. I appreciate that.
+
+343
+00:29:26,708 --> 00:29:29,708
+We're waiting on Hyperion
+to tell us what to do next.
+
+344
+00:29:29,791 --> 00:29:33,083
+But in the meantime, if you're up to it,
+
+345
+00:29:33,166 --> 00:29:36,000
+perhaps Zoe can run you
+through the safety procedures.
+
+346
+00:29:36,083 --> 00:29:36,916
+Yeah.
+
+347
+00:29:41,166 --> 00:29:42,041
+Um...
+
+348
+00:29:43,083 --> 00:29:48,125
+We're sorry you missed the fillet mignon,
+but... this is the next best thing.
+
+349
+00:29:48,208 --> 00:29:50,666
+- We think it's spaghetti.
+- [Barnett chuckles]
+
+350
+00:29:50,750 --> 00:29:54,416
+I should warn you now that Zoe thinks
+she's the in-flight entertainment.
+
+351
+00:29:54,500 --> 00:29:55,875
+[Michael chuckles] Understood.
+
+352
+00:29:57,000 --> 00:29:58,250
+You're David Kim, right?
+
+353
+00:29:58,958 --> 00:30:01,250
+- Uh, just David's fine.
+- [Michael] Got it.
+
+354
+00:30:01,833 --> 00:30:03,208
+[David] So you're in school?
+
+355
+00:30:03,291 --> 00:30:06,416
+Yeah. Working on my master's
+in structural engineering.
+
+356
+00:30:07,041 --> 00:30:08,916
+[Zoe] Were you working on a proposal
+for HARP?
+
+357
+00:30:09,000 --> 00:30:11,583
+I actually plan on putting
+something together for the next mission.
+
+358
+00:30:13,833 --> 00:30:15,791
+I'm not sure you need to apply anymore.
+
+359
+00:30:17,875 --> 00:30:20,291
+[chuckles] Yeah. I guess not.
+
+360
+00:30:20,875 --> 00:30:22,208
+[Michael & David chuckle]
+
+361
+00:30:22,291 --> 00:30:25,708
+Um... cheers. Welcome to <i>MTS-42.</i>
+
+362
+00:30:25,791 --> 00:30:27,166
+- [David] Cheers.
+- Cheers.
+
+363
+00:30:27,250 --> 00:30:29,375
+- [Barnett] Cheers.
+- [David] Cheers.
+
+364
+00:30:36,916 --> 00:30:39,750
+[Zoe] I don't know. It really doesn't feel
+like he's here on purpose.
+
+365
+00:30:39,833 --> 00:30:42,083
+[David] Agreed. So, what do we do?
+
+366
+00:30:43,583 --> 00:30:45,541
+I mean, I think he should keep busy.
+I just don't...
+
+367
+00:30:46,708 --> 00:30:48,208
+I don't think I have anything for him.
+
+368
+00:30:51,541 --> 00:30:55,250
+Well, maybe I could have him do
+some data entry for me.
+
+369
+00:30:56,541 --> 00:30:58,250
+It'd actually be nice
+to have some company.
+
+370
+00:31:00,208 --> 00:31:01,416
+[Zoe] Yeah, that works.
+
+371
+00:31:04,291 --> 00:31:06,291
+[chuckles]
+
+372
+00:31:08,083 --> 00:31:09,958
+- [David] What?
+- Uh...
+
+373
+00:31:11,083 --> 00:31:13,958
+You're gonna have to share credit
+on whatever you publish.
+
+374
+00:31:15,375 --> 00:31:17,666
+- It's not about the credit, Zo.
+- Okay.
+
+375
+00:31:18,875 --> 00:31:20,833
+Well, you're a better person than I am,
+David Kim.
+
+376
+00:31:20,916 --> 00:31:22,833
+- [David] That's for sure.
+- [chuckles]
+
+377
+00:31:24,500 --> 00:31:26,833
+- Okay. That's a plan, then?
+- It's a plan.
+
+378
+00:31:26,916 --> 00:31:28,583
+- All right. Oh, yeah.
+- Yeah.
+
+379
+00:31:32,916 --> 00:31:34,625
+Try not to snore too loud tonight.
+
+380
+00:31:35,833 --> 00:31:38,291
+For the night, when lights are dimmed,
+they have to stay dimmed.
+
+381
+00:31:38,375 --> 00:31:40,083
+- It's a power-consumption thing.
+- All right.
+
+382
+00:31:40,166 --> 00:31:43,000
+And if there's a catastrophic failure
+in a single module,
+
+383
+00:31:43,083 --> 00:31:45,291
+like fire or rapid depressurization...
+Watch your head.
+
+384
+00:31:46,041 --> 00:31:47,291
+...you have to close this hatch.
+
+385
+00:31:47,375 --> 00:31:48,458
+So bye-bye, David.
+
+386
+00:31:50,375 --> 00:31:52,541
+This is the magnetic radiation-proofing.
+
+387
+00:31:53,041 --> 00:31:55,208
+In case there's a solar storm,
+come in here.
+
+388
+00:31:57,041 --> 00:31:58,916
+I realize your first visit
+was a little intense,
+
+389
+00:31:59,000 --> 00:32:01,625
+but this happens to be my favorite spot
+on the ship.
+
+390
+00:32:05,291 --> 00:32:07,291
+[tranquil music playing]
+
+391
+00:32:18,000 --> 00:32:18,875
+Wow.
+
+392
+00:32:20,291 --> 00:32:21,791
+Pictures don't do it justice.
+
+393
+00:32:22,541 --> 00:32:23,666
+[Zoe] No. Not at all.
+
+394
+00:32:36,583 --> 00:32:38,041
+What's your sister's name?
+
+395
+00:32:39,875 --> 00:32:40,708
+- Ava.
+- Yeah.
+
+396
+00:32:48,083 --> 00:32:49,791
+And it's just the two of you?
+
+397
+00:32:51,458 --> 00:32:52,875
+- Yeah.
+- Mm.
+
+398
+00:33:12,625 --> 00:33:13,541
+[grunts]
+
+399
+00:33:52,750 --> 00:33:55,166
+[experimental jazz music playing
+over speakers]
+
+400
+00:33:56,125 --> 00:33:58,791
+[David] Okay, well, this is Batch 62.
+
+401
+00:33:58,875 --> 00:34:00,250
+Batch 62.
+
+402
+00:34:00,333 --> 00:34:02,625
+And we'll start with Row 4.
+
+403
+00:34:02,708 --> 00:34:03,541
+Row 4.
+
+404
+00:34:05,791 --> 00:34:07,708
+Row 4A will be...
+
+405
+00:34:10,041 --> 00:34:11,333
+10.23.
+
+406
+00:34:15,625 --> 00:34:16,958
+- [chuckling]
+- Section B...
+
+407
+00:34:20,208 --> 00:34:22,333
+[Michael laughing]
+
+408
+00:34:22,416 --> 00:34:23,291
+What?
+
+409
+00:34:23,958 --> 00:34:24,875
+I'm sorry.
+
+410
+00:34:25,916 --> 00:34:26,833
+I've gotta ask.
+
+411
+00:34:27,375 --> 00:34:28,208
+Like...
+
+412
+00:34:29,208 --> 00:34:30,416
+what is this?
+
+413
+00:34:30,500 --> 00:34:32,166
+I mean, what are we listening to?
+
+414
+00:34:32,708 --> 00:34:35,416
+- What, you don't listen to jazz at all?
+- No. [chuckles]
+
+415
+00:34:35,500 --> 00:34:36,666
+I mean, not really.
+
+416
+00:34:36,750 --> 00:34:40,916
+Actually, my wife is the one
+that got me into jazz, but now I love it.
+
+417
+00:34:41,833 --> 00:34:42,666
+Hmm.
+
+418
+00:34:43,916 --> 00:34:45,958
+Section B is...
+
+419
+00:34:47,541 --> 00:34:49,041
+2.16.
+
+420
+00:34:49,125 --> 00:34:50,791
+Two point one six.
+
+421
+00:34:50,875 --> 00:34:53,208
+Yeah. Research can get
+a little bit monotonous at times.
+
+422
+00:34:53,291 --> 00:34:55,000
+You know, especially phycology, but...
+
+423
+00:34:55,958 --> 00:34:57,791
+these guys, they keep me on my toes.
+
+424
+00:34:58,416 --> 00:35:01,291
+You know, Sanders, Coltrane, Bird.
+
+425
+00:35:02,333 --> 00:35:04,916
+Ah. They're like basketball players or...
+
+426
+00:35:05,000 --> 00:35:07,208
+Yeah, they're basketball players.
+No, they're not.
+
+427
+00:35:07,291 --> 00:35:09,458
+These guys are jazz legends of the '60s.
+
+428
+00:35:09,541 --> 00:35:11,458
+Right, I knew that. I just... That's...
+
+429
+00:35:12,666 --> 00:35:16,500
+There. You hear how it's unpredictable?
+But it still has rules.
+
+430
+00:35:16,583 --> 00:35:17,958
+They're generally playing together,
+
+431
+00:35:18,041 --> 00:35:20,333
+but once in a while,
+a player or two will drift off
+
+432
+00:35:20,416 --> 00:35:21,541
+into their own little groove.
+
+433
+00:35:24,250 --> 00:35:25,208
+There. You hear it?
+
+434
+00:35:29,083 --> 00:35:30,958
+- No. I don't.
+- [laughs]
+
+435
+00:35:31,041 --> 00:35:33,208
+- Okay.
+- It's like it sounds like a hot mess.
+
+436
+00:35:33,291 --> 00:35:36,083
+Oh, well, that's what I like about it.
+It's not obvious.
+
+437
+00:35:38,166 --> 00:35:41,083
+And, I mean, sometimes it can be
+a little bit unpleasant.
+
+438
+00:35:42,625 --> 00:35:44,541
+- But it's pure expression.
+- Hmm.
+
+439
+00:35:45,583 --> 00:35:48,875
+- And it usually finds a balance.
+- Nice. I can dig that.
+
+440
+00:35:51,625 --> 00:35:52,458
+Okay.
+
+441
+00:35:53,000 --> 00:35:56,708
+Section C, 9.86.
+
+442
+00:36:01,541 --> 00:36:03,541
+[oxygen pumping]
+
+443
+00:36:26,583 --> 00:36:28,583
+[tense music playing]
+
+444
+00:36:33,375 --> 00:36:35,125
+[Barnett over comm]
+<i>How's it looking in there?</i>
+
+445
+00:36:35,208 --> 00:36:37,000
+The whole left side came loose.
+
+446
+00:36:39,208 --> 00:36:41,458
+- Okay, remove the cover.
+<i>- Roger.</i>
+
+447
+00:36:48,500 --> 00:36:49,541
+[air hisses]
+
+448
+00:36:50,625 --> 00:36:51,500
+Carefully.
+
+449
+00:36:51,583 --> 00:36:52,500
+Copy.
+
+450
+00:36:58,333 --> 00:36:59,333
+Oh, shit.
+
+451
+00:37:00,000 --> 00:37:02,208
+<i>- What?</i>
+- There must have been a short.
+
+452
+00:37:03,875 --> 00:37:04,958
+<i>On the desiccant bed?</i>
+
+453
+00:37:06,666 --> 00:37:07,500
+Yeah.
+
+454
+00:37:08,791 --> 00:37:09,916
+The whole thing is charred.
+
+455
+00:37:11,250 --> 00:37:12,333
+Take another picture.
+
+456
+00:37:31,208 --> 00:37:32,708
+[sighs]
+
+457
+00:37:36,250 --> 00:37:37,083
+Are we all set?
+
+458
+00:37:41,833 --> 00:37:43,458
+{\an8}Hyperion, this is <i>MTS. </i>Come in.
+
+459
+00:37:48,916 --> 00:37:50,625
+[Jim speaking indistinctly over earpiece]
+
+460
+00:37:50,708 --> 00:37:52,916
+Yes. We have
+a damaged life-support assembly.
+
+461
+00:37:53,000 --> 00:37:55,750
+I need you to inspect
+the incoming images of the CDRA.
+
+462
+00:37:56,583 --> 00:37:58,583
+[Jim speaking indistinctly]
+
+463
+00:37:59,541 --> 00:38:02,416
+It's critical that this gets fixed, Jim.
+Mission critical.
+
+464
+00:38:02,500 --> 00:38:04,500
+[Jim speaking indistinctly]
+
+465
+00:38:04,583 --> 00:38:06,041
+Yeah. Going off comm.
+
+466
+00:38:23,458 --> 00:38:25,583
+- [Michael chuckling]
+- David, can I speak to you?
+
+467
+00:38:25,666 --> 00:38:27,791
+- Of course.
+- Michael, can you put on David's suit?
+
+468
+00:38:27,875 --> 00:38:29,500
+Zoe will explain what she needs you to do.
+
+469
+00:38:29,583 --> 00:38:30,750
+Yeah, sure. Of course.
+
+470
+00:38:32,041 --> 00:38:34,041
+[tense music playing]
+
+471
+00:39:03,541 --> 00:39:05,541
+- Yes, commander?
+- Uh...
+
+472
+00:39:08,000 --> 00:39:09,750
+How much O2 does your rack produce?
+
+473
+00:39:10,750 --> 00:39:13,916
+I mean, 90 liters a day.
+Just a negligible amount.
+
+474
+00:39:14,916 --> 00:39:17,041
+Is there any way you can get it up to 950?
+
+475
+00:39:17,125 --> 00:39:18,375
+- Nine fifty?
+- Yeah.
+
+476
+00:39:18,458 --> 00:39:20,625
+No. Not with microgreens.
+
+477
+00:39:20,708 --> 00:39:22,791
+We're testing food production here,
+not scrubbing CO2.
+
+478
+00:39:22,875 --> 00:39:24,625
+I thought that's what your research
+was about.
+
+479
+00:39:24,708 --> 00:39:28,250
+Yeah, but that's with algae,
+and that can only be opened on Mars.
+
+480
+00:39:28,333 --> 00:39:30,666
+Well, how much oxygen
+would your algae produce?
+
+481
+00:39:31,791 --> 00:39:33,000
+Um...
+
+482
+00:39:33,500 --> 00:39:34,708
+approximately...
+
+483
+00:39:36,541 --> 00:39:38,291
+I could come close
+to what you're looking for
+
+484
+00:39:38,375 --> 00:39:40,833
+under the right conditions,
+but all the gear I'd need
+
+485
+00:39:40,916 --> 00:39:43,250
+was already flown to Mars
+on the last unmanned.
+
+486
+00:39:45,625 --> 00:39:47,166
+What are we up against here?
+
+487
+00:39:48,375 --> 00:39:49,583
+Did we lose the CDRA?
+
+488
+00:39:51,291 --> 00:39:52,708
+We don't know for sure yet.
+
+489
+00:39:54,250 --> 00:39:59,125
+Uh... okay.
+Um... what about the backup canisters?
+
+490
+00:39:59,916 --> 00:40:01,000
+We don't have enough.
+
+491
+00:40:03,458 --> 00:40:06,166
+Shit, is there anything?
+Anything else you can try?
+
+492
+00:40:06,250 --> 00:40:07,916
+I could try growing them here,
+
+493
+00:40:08,000 --> 00:40:11,500
+but we would risk
+ruining the entire culture.
+
+494
+00:40:13,458 --> 00:40:14,416
+All right. Uh...
+
+495
+00:40:16,208 --> 00:40:20,375
+Okay, if I use half of the algae,
+it could probably still leave me enough
+
+496
+00:40:20,458 --> 00:40:21,625
+for a starter culture on Mars.
+
+497
+00:40:21,708 --> 00:40:24,708
+Okay, good. Just put everything else aside
+and focus on that.
+
+498
+00:40:24,791 --> 00:40:26,333
+Yes, commander. Uh...
+
+499
+00:40:27,000 --> 00:40:28,916
+I need a little bit
+to figure everything out.
+
+500
+00:40:29,000 --> 00:40:29,833
+Okay, copy.
+
+501
+00:40:32,625 --> 00:40:33,541
+Oh, and, David?
+
+502
+00:40:34,416 --> 00:40:38,000
+Zoe and Michael are removing the CDRA.
+They don't need to know this yet.
+
+503
+00:40:38,666 --> 00:40:39,583
+[David] Mm-hm.
+
+504
+00:40:45,250 --> 00:40:47,791
+- Comm check.
+- Yeah. I can hear you.
+
+505
+00:40:47,875 --> 00:40:50,416
+No. When I say "comm check,"
+say "good check."
+
+506
+00:40:51,666 --> 00:40:52,500
+[Michael] Okay.
+
+507
+00:40:53,375 --> 00:40:54,625
+- Comm check?
+- Good check.
+
+508
+00:40:56,541 --> 00:40:58,291
+[Zoe] I'm gonna depressurize
+the antechamber.
+
+509
+00:41:01,958 --> 00:41:03,125
+[Michael clears throat]
+
+510
+00:41:04,125 --> 00:41:06,250
+When we get in there, everything's normal.
+
+511
+00:41:06,333 --> 00:41:10,000
+There's gonna be no air, but everything's
+gonna be normal other than that.
+
+512
+00:41:10,083 --> 00:41:11,458
+No floating around, just...
+
+513
+00:41:12,125 --> 00:41:13,083
+- Yeah?
+- Yeah, I'm good.
+
+514
+00:41:13,166 --> 00:41:14,750
+- You're just reading instructions.
+- Right.
+
+515
+00:41:21,291 --> 00:41:23,291
+[tense music playing]
+
+516
+00:41:45,125 --> 00:41:47,083
+- [Zoe] What's first?
+- Um...
+
+517
+00:41:47,166 --> 00:41:50,541
+Got to, uh, unscrew the absorbent bed.
+
+518
+00:41:50,625 --> 00:41:52,458
+It's those screws on the other side.
+
+519
+00:42:10,291 --> 00:42:12,708
+[drill whirring]
+
+520
+00:42:24,208 --> 00:42:25,750
+[Michael] So, what does this thing do?
+
+521
+00:42:26,708 --> 00:42:28,875
+It scrubs the carbon dioxide
+out of the air.
+
+522
+00:42:29,500 --> 00:42:30,333
+You take that.
+
+523
+00:42:44,458 --> 00:42:46,000
+- [Zoe] <i>Ready?</i>
+- [Michael] <i>Yeah, I'm ready.</i>
+
+524
+00:42:46,083 --> 00:42:47,958
+[Zoe grunts] Here we go.
+
+525
+00:42:50,541 --> 00:42:51,625
+Careful with that.
+
+526
+00:42:51,708 --> 00:42:52,708
+Very, very careful.
+
+527
+00:42:53,625 --> 00:42:55,333
+- Okay.
+- Whew.
+
+528
+00:43:00,291 --> 00:43:02,291
+[Zoe panting]
+
+529
+00:43:05,875 --> 00:43:10,458
+[sighs] I will never get used to how
+little material is between us and space.
+
+530
+00:43:11,250 --> 00:43:12,458
+[Michael] That I know.
+
+531
+00:43:13,083 --> 00:43:15,375
+When they started adding
+a third passenger,
+
+532
+00:43:15,458 --> 00:43:18,541
+to make up for the weight, they made
+the functional module almost half the size
+
+533
+00:43:18,625 --> 00:43:20,791
+and removed a protective layer
+of shielding.
+
+534
+00:43:22,041 --> 00:43:23,291
+Hey, that's not helpful.
+
+535
+00:43:24,166 --> 00:43:25,833
+- Just facts.
+- Not a helpful thing to say.
+
+536
+00:43:25,916 --> 00:43:27,333
+It's just facts. [chuckles]
+
+537
+00:43:31,041 --> 00:43:32,708
+- [Zoe] Oh, I'll take that.
+- Yeah.
+
+538
+00:43:34,083 --> 00:43:35,666
+- [Barnett] You guys okay?
+- [both] Yeah.
+
+539
+00:43:40,416 --> 00:43:41,250
+Okay.
+
+540
+00:43:45,458 --> 00:43:46,625
+- Michael?
+- Mm-hm?
+
+541
+00:43:48,166 --> 00:43:49,041
+Oh.
+
+542
+00:43:50,500 --> 00:43:51,791
+[Zoe] Ah, shit.
+
+543
+00:43:58,625 --> 00:43:59,833
+- You got it?
+- Mm-hm.
+
+544
+00:44:02,083 --> 00:44:03,375
+[Zoe] Yeah, that's great.
+
+545
+00:44:09,166 --> 00:44:12,125
+Okay, a little pinch here.
+
+546
+00:44:12,208 --> 00:44:14,208
+[Michael breathing deeply]
+
+547
+00:44:18,375 --> 00:44:19,416
+Thanks.
+
+548
+00:44:19,500 --> 00:44:21,041
+I mean, it's literally my job.
+
+549
+00:44:21,125 --> 00:44:24,041
+Not just for this.
+You've just kind of gone out of your way
+
+550
+00:44:24,125 --> 00:44:26,250
+- to make me feel welcome, so...
+- Of course.
+
+551
+00:44:27,791 --> 00:44:31,375
+Okay. Um... can you take this off?
+
+552
+00:44:32,958 --> 00:44:33,958
+- My shirt?
+- Yeah.
+
+553
+00:44:46,666 --> 00:44:48,250
+- Can you put your arm up?
+- Yeah.
+
+554
+00:44:48,333 --> 00:44:49,166
+Thank you.
+
+555
+00:44:52,083 --> 00:44:52,916
+Okay.
+
+556
+00:45:03,583 --> 00:45:04,791
+[winces]
+
+557
+00:45:23,041 --> 00:45:26,500
+- [Barnett] How's it coming?
+- We're still wrapping up, but I'm worried.
+
+558
+00:45:27,375 --> 00:45:31,625
+I'm worried we're only gonna be able
+to get to 500, maybe 550 liters a day.
+
+559
+00:45:31,708 --> 00:45:34,416
+Oh, no. That's good.
+That's literally half of what we need.
+
+560
+00:45:34,500 --> 00:45:37,375
+So let's go ahead
+and thaw out the second batch of algae.
+
+561
+00:45:37,458 --> 00:45:39,625
+No. I'd need to rip up the microgreens
+for that.
+
+562
+00:45:39,708 --> 00:45:41,708
+- Then let's do it.
+- Wait a minute, hold on, hold on.
+
+563
+00:45:42,708 --> 00:45:44,458
+The algae is far from thriving.
+
+564
+00:45:45,375 --> 00:45:49,333
+It's scrubbing only a fraction of what
+I could get if I had the right equipment.
+
+565
+00:45:49,416 --> 00:45:53,583
+Using the second half of the batch doesn't
+necessarily mean it'll double the output.
+
+566
+00:45:55,625 --> 00:45:57,083
+It's imperative that we try.
+
+567
+00:45:57,166 --> 00:45:59,958
+Commander,
+this can't be something we rely on.
+
+568
+00:46:00,458 --> 00:46:02,083
+These batches can die at any moment,
+
+569
+00:46:02,166 --> 00:46:04,375
+and I could lose everything
+I need for Mars.
+
+570
+00:46:11,083 --> 00:46:11,916
+Commander...
+
+571
+00:46:13,083 --> 00:46:14,875
+this research is years of my life.
+
+572
+00:46:14,958 --> 00:46:16,666
+We both know how important it is.
+
+573
+00:46:18,125 --> 00:46:20,333
+Are we sure we want to throw it all away
+
+574
+00:46:20,416 --> 00:46:22,708
+while we still have a chance
+to fix the CDRA?
+
+575
+00:46:26,458 --> 00:46:27,291
+Um...
+
+576
+00:46:32,041 --> 00:46:33,750
+There is no chance, David.
+
+577
+00:46:36,458 --> 00:46:37,291
+It's gone.
+
+578
+00:46:37,375 --> 00:46:39,375
+[tense music playing]
+
+579
+00:46:42,375 --> 00:46:43,208
+Understood.
+
+580
+00:47:09,875 --> 00:47:10,916
+[sighs]
+
+581
+00:48:01,375 --> 00:48:06,416
+Ava. Hey. I hope you're treating
+the people at Hyperion really nicely,
+
+582
+00:48:06,500 --> 00:48:10,666
+'cause I heard that they are moving
+you closer to school, which is nice.
+
+583
+00:48:12,041 --> 00:48:12,875
+Really nice.
+
+584
+00:48:12,958 --> 00:48:15,625
+Make sure you send me some selfies
+when you can, okay?
+
+585
+00:48:18,208 --> 00:48:19,958
+I'm really getting my groove here.
+
+586
+00:48:20,875 --> 00:48:22,875
+<i>I thought at first
+I was probably gonna be a burden</i>
+
+587
+00:48:22,958 --> 00:48:26,041
+<i>to, you know, the crew and everyone here,</i>
+
+588
+00:48:26,125 --> 00:48:28,666
+<i>but they're actually putting me to work.</i>
+
+589
+00:48:28,750 --> 00:48:30,458
+[tense music playing]
+
+590
+00:48:30,541 --> 00:48:32,666
+<i>I hate that it happened this way.</i>
+
+591
+00:48:33,208 --> 00:48:36,166
+<i>But I'm thinking
+that this might actually turn out</i>
+
+592
+00:48:36,916 --> 00:48:40,916
+<i>to be best for me
+and for us in the long run.</i>
+
+593
+00:49:07,333 --> 00:49:10,791
+[Barnett] Correct. Unfortunately,
+none of the second batch survived.
+
+594
+00:49:12,833 --> 00:49:15,041
+[Jim speaking indistinctly over earpiece]
+
+595
+00:49:17,875 --> 00:49:18,833
+That was my fear.
+
+596
+00:49:20,083 --> 00:49:22,083
+[Jim speaking indistinctly]
+
+597
+00:49:24,875 --> 00:49:25,708
+You sure?
+
+598
+00:49:29,208 --> 00:49:31,208
+[Jim speaking indistinctly]
+
+599
+00:49:36,791 --> 00:49:39,000
+And why is the climb up
+not an option again?
+
+600
+00:49:39,083 --> 00:49:41,083
+[Jim speaking indistinctly]
+
+601
+00:49:51,500 --> 00:49:53,458
+Okay, you've got to level with me, Jim.
+
+602
+00:49:56,750 --> 00:49:57,583
+Is there...?
+
+603
+00:49:59,375 --> 00:50:02,333
+[in breaking voice]
+Is there any way I can take his place?
+
+604
+00:50:02,875 --> 00:50:05,833
+Because Hyperion can orbit the capsule
+around Mars
+
+605
+00:50:05,916 --> 00:50:08,750
+and send up a pilot from the colony.
+But I... How can I...?
+
+606
+00:50:10,041 --> 00:50:11,375
+How do you expect me to...?
+
+607
+00:50:14,625 --> 00:50:16,625
+[Jim speaking indistinctly]
+
+608
+00:50:21,875 --> 00:50:23,500
+[sniffles] Yeah. Okay, well, I...
+
+609
+00:50:23,583 --> 00:50:25,583
+[Jim speaking indistinctly]
+
+610
+00:50:29,166 --> 00:50:31,416
+I need you to walk me
+through every option.
+
+611
+00:50:31,500 --> 00:50:33,208
+Every single possibility.
+
+612
+00:50:34,375 --> 00:50:36,375
+[Jim speaking indistinctly]
+
+613
+00:50:46,458 --> 00:50:49,541
+Uh... I, uh...
+
+614
+00:50:51,791 --> 00:50:52,708
+I, um...
+
+615
+00:50:57,625 --> 00:50:59,583
+There's no easy way to say this. Um...
+
+616
+00:51:01,291 --> 00:51:04,500
+The carbon-dioxide scrubber
+is damaged permanently.
+
+617
+00:51:05,916 --> 00:51:09,875
+The lithium-hydroxide canisters were only
+ever meant to be a temporary solution.
+
+618
+00:51:12,458 --> 00:51:14,958
+We only have enough oxygen on board
+for two people.
+
+619
+00:51:19,375 --> 00:51:21,958
+I've asked David
+to accelerate his research.
+
+620
+00:51:22,041 --> 00:51:25,041
+He's managed to get his algae
+to produce enough for one more.
+
+621
+00:51:26,291 --> 00:51:27,958
+So... Um...
+
+622
+00:51:31,291 --> 00:51:32,291
+What are you saying?
+
+623
+00:51:35,750 --> 00:51:38,083
+We can't make it to Mars
+with Michael on board.
+
+624
+00:51:39,625 --> 00:51:42,250
+We'll end up asphyxiating
+on carbon dioxide
+
+625
+00:51:42,333 --> 00:51:43,708
+a few weeks before we land.
+
+626
+00:51:44,666 --> 00:51:45,500
+I mean...
+
+627
+00:51:47,041 --> 00:51:50,500
+[scoffs] this ship.
+Yeah, it was overbuilt for two.
+
+628
+00:51:50,583 --> 00:51:52,916
+And Hyperion started to take a chance
+pushing it to three,
+
+629
+00:51:53,000 --> 00:51:54,166
+but it just can't handle four.
+
+630
+00:51:57,166 --> 00:51:59,500
+[David] Okay.
+I've been thinking about this.
+
+631
+00:51:59,583 --> 00:52:02,166
+And all we gotta do
+is get to the colony on Mars, right?
+
+632
+00:52:02,875 --> 00:52:04,416
+Then CO2 isn't the issue.
+
+633
+00:52:04,500 --> 00:52:07,541
+We could just vent it out
+and lower the atmospheric pressure.
+
+634
+00:52:08,916 --> 00:52:10,833
+What we need is oxygen. I don't know,
+
+635
+00:52:10,916 --> 00:52:14,583
+we could use the pre-breathing
+oxygen cylinders. Or water.
+
+636
+00:52:14,666 --> 00:52:16,750
+We could just split oxygen out of that.
+
+637
+00:52:17,625 --> 00:52:20,500
+We don't have enough.
+That would buy him days, not months.
+
+638
+00:52:21,541 --> 00:52:24,958
+Um, maybe a resupply mission?
+If it was unmanned?
+
+639
+00:52:25,916 --> 00:52:27,916
+We're moving too fast for a resupply.
+
+640
+00:52:28,000 --> 00:52:31,416
+The Kingfisher's
+the biggest rocket they can build.
+
+641
+00:52:31,500 --> 00:52:34,958
+Okay, but there's a giant tank up there
+that was full of liquid oxygen
+
+642
+00:52:35,041 --> 00:52:37,125
+for the launch.
+There must be something left.
+
+643
+00:52:37,208 --> 00:52:38,708
+Well, there's no way to tell from here.
+
+644
+00:52:38,791 --> 00:52:41,291
+We can't just reel in the tethers
+with the Kingfisher attached.
+
+645
+00:52:41,375 --> 00:52:43,416
+Okay, so we climb up and check.
+
+646
+00:52:43,500 --> 00:52:45,083
+Climb the tether? All the way?
+
+647
+00:52:45,166 --> 00:52:47,041
+- That's 450 meters.
+- It wouldn't be full...
+
+648
+00:52:47,125 --> 00:52:49,083
+Look, Michael was on board
+when we launched,
+
+649
+00:52:49,166 --> 00:52:51,375
+so he used up extra oxygen and fuel.
+
+650
+00:52:51,875 --> 00:52:53,625
+Okay? We barely had enough
+to make it to here.
+
+651
+00:52:55,041 --> 00:52:58,208
+Climbing up would mean
+risking damaging the solar panels,
+
+652
+00:52:58,291 --> 00:53:00,541
+severing the power cables,
+even falling off the ship.
+
+653
+00:53:00,625 --> 00:53:01,916
+Hyperion looked into it.
+
+654
+00:53:02,583 --> 00:53:04,708
+It's just I can't risk both of your lives
+
+655
+00:53:04,791 --> 00:53:07,166
+for the possibility
+that you could save him.
+
+656
+00:53:07,666 --> 00:53:08,916
+[sighs]
+
+657
+00:53:10,625 --> 00:53:12,583
+There must be something we can do.
+Anything.
+
+658
+00:53:12,666 --> 00:53:15,000
+Guys, this is not a call for a solution.
+
+659
+00:53:16,083 --> 00:53:18,583
+The entirety of Hyperion is down there
+trying to figure this out.
+
+660
+00:53:18,666 --> 00:53:21,083
+I'm only telling you because I need you
+to be mentally prepared
+
+661
+00:53:21,166 --> 00:53:22,375
+for what's gonna happen.
+
+662
+00:53:28,750 --> 00:53:30,583
+So how much time does he have left?
+
+663
+00:53:32,333 --> 00:53:33,416
+Uh...
+
+664
+00:53:34,958 --> 00:53:36,541
+I'll talk to him today. I'll...
+
+665
+00:53:38,166 --> 00:53:40,083
+- give him a few days.
+- No, um, hold on.
+
+666
+00:53:41,416 --> 00:53:43,791
+You're gonna talk to him today? What...?
+
+667
+00:53:43,875 --> 00:53:46,166
+What are we gonna do,
+ask him to walk out of the airlock?
+
+668
+00:53:46,875 --> 00:53:48,666
+I mean, okay.
+
+669
+00:53:49,541 --> 00:53:52,583
+Exactly how much time do we have
+before it's too late?
+
+670
+00:53:54,083 --> 00:53:56,083
+Technically, 20 days.
+
+671
+00:53:56,166 --> 00:53:58,250
+Okay. Then we should take that time.
+
+672
+00:53:58,333 --> 00:54:00,541
+No, we need as much
+of that margin of error as possible
+
+673
+00:54:00,625 --> 00:54:02,708
+- in case anything else happens.
+- [Zoe] Margin of error?
+
+674
+00:54:02,791 --> 00:54:05,916
+What hypothetical situation could be worse
+than the one we're in right now?
+
+675
+00:54:06,000 --> 00:54:09,375
+Worst-case scenario is he still dies,
+but we die along with him.
+
+676
+00:54:09,458 --> 00:54:10,958
+- How?
+- What's left of the algae
+
+677
+00:54:11,041 --> 00:54:13,041
+is hanging on by a thread as it is.
+
+678
+00:54:13,125 --> 00:54:15,750
+So you're fine just giving up on a person
+because the risk...?
+
+679
+00:54:15,833 --> 00:54:18,083
+Zoe, realistically,
+every day he's still here,
+
+680
+00:54:18,166 --> 00:54:19,875
+it's a danger to all of us.
+
+681
+00:54:19,958 --> 00:54:23,625
+I am telling you,
+Hyperion has anyone with a PhD down there
+
+682
+00:54:23,708 --> 00:54:25,916
+- trying to work this out.
+- And they're not here!
+
+683
+00:54:26,000 --> 00:54:28,208
+And maybe we can think
+of something that they haven't!
+
+684
+00:54:28,291 --> 00:54:29,333
+They built the ship.
+
+685
+00:54:30,166 --> 00:54:33,125
+They have one-to-one replicas of the <i>MTS.</i>
+They know every inch of this place.
+
+686
+00:54:33,208 --> 00:54:36,416
+- They didn't know Michael was in here.
+- Come on, Zoe. That's not the same thing.
+
+687
+00:54:37,291 --> 00:54:39,416
+Twenty days? Commander, I mean...
+
+688
+00:54:41,041 --> 00:54:43,083
+if there's really nothing we can do,
+
+689
+00:54:44,250 --> 00:54:46,625
+we have to take someone's life.
+
+690
+00:54:53,791 --> 00:54:58,125
+Is it unreasonable to just take that time
+and make sure we've gone over everything?
+
+691
+00:55:07,083 --> 00:55:08,250
+Ten days. That's it.
+
+692
+00:55:09,125 --> 00:55:11,416
+- Commander, with all...
+- [Barnett] No. We can spare ten days.
+
+693
+00:55:11,500 --> 00:55:13,250
+[Zoe] Okay. Okay.
+
+694
+00:55:13,333 --> 00:55:15,750
+Um, and what do we tell Michael
+in the meantime?
+
+695
+00:55:16,458 --> 00:55:18,291
+Look, we were chosen to be here.
+
+696
+00:55:19,583 --> 00:55:21,750
+We've been trained psychologically
+and otherwise.
+
+697
+00:55:21,833 --> 00:55:22,875
+He hasn't.
+
+698
+00:55:22,958 --> 00:55:25,833
+He can't contribute to any of this
+in any meaningful way,
+
+699
+00:55:25,916 --> 00:55:28,625
+so I think the best course of action
+is to just keep this between us.
+
+700
+00:55:29,583 --> 00:55:30,958
+- Understood?
+- [Zoe] Yes, commander.
+
+701
+00:55:32,083 --> 00:55:32,916
+David?
+
+702
+00:55:35,166 --> 00:55:36,000
+Yes.
+
+703
+00:55:37,625 --> 00:55:38,458
+Understood.
+
+704
+00:55:52,833 --> 00:55:53,875
+[sighs]
+
+705
+00:55:56,750 --> 00:55:58,375
+[packet slides]
+
+706
+00:56:09,208 --> 00:56:13,791
+So how is your new assignment coming?
+
+707
+00:56:18,083 --> 00:56:18,916
+It's fine.
+
+708
+00:56:25,708 --> 00:56:26,541
+Okay.
+
+709
+00:56:29,500 --> 00:56:33,833
+Jim? For their sanity,
+they need to try this.
+
+710
+00:56:33,916 --> 00:56:36,125
+[Jim speaking indistinctly over earpiece]
+
+711
+00:56:37,166 --> 00:56:39,541
+What are you talking about?
+The mission is shot!
+
+712
+00:56:40,750 --> 00:56:41,583
+We have a...
+
+713
+00:56:41,666 --> 00:56:43,833
+[Jim speaking indistinctly]
+
+714
+00:56:43,916 --> 00:56:47,125
+We have a five-month trip there,
+plus the trip back.
+
+715
+00:56:47,208 --> 00:56:49,958
+I still need this crew
+to be able to perform critical tasks.
+
+716
+00:56:50,041 --> 00:56:51,125
+[Jim speaking indistinctly]
+
+717
+00:56:51,208 --> 00:56:54,000
+No, they cannot do that
+if they are devastated by guilt.
+
+718
+00:56:54,083 --> 00:56:56,083
+[Jim speaking indistinctly]
+
+719
+00:57:01,291 --> 00:57:03,291
+Well, I'm taking the ten days.
+
+720
+00:57:03,958 --> 00:57:05,958
+[tense music playing]
+
+721
+00:57:36,208 --> 00:57:38,208
+[David] Commander, it's been three days.
+
+722
+00:57:38,958 --> 00:57:41,375
+Is Hyperion still trying
+to figure something out?
+
+723
+00:57:43,083 --> 00:57:43,916
+Yep.
+
+724
+00:57:51,791 --> 00:57:52,625
+Go ahead.
+
+725
+00:57:58,791 --> 00:58:03,166
+Wouldn't they already know
+if there were some way to save him?
+
+726
+00:58:06,541 --> 00:58:10,458
+I know how you feel,
+but it's not the directive at the moment.
+
+727
+00:58:17,375 --> 00:58:18,791
+We're endangering ourselves.
+
+728
+00:58:21,000 --> 00:58:25,000
+The longer we take, the harder it'll be
+when we're forced to take the final step.
+
+729
+00:58:37,416 --> 00:58:38,875
+[glove squeaks]
+
+730
+00:58:41,500 --> 00:58:42,833
+- Put your arm up.
+- Sure.
+
+731
+00:59:09,666 --> 00:59:11,333
+[sighs]
+
+732
+00:59:15,416 --> 00:59:16,791
+I was in an apartment fire.
+
+733
+00:59:20,291 --> 00:59:21,333
+I was, um...
+
+734
+00:59:23,416 --> 00:59:24,541
+I was 9 years old.
+
+735
+00:59:25,083 --> 00:59:27,708
+[melancholy music playing]
+
+736
+00:59:27,791 --> 00:59:30,041
+I guess it had happened
+in the place below us.
+
+737
+00:59:30,750 --> 00:59:32,458
+And I was sharing a room with Ava.
+
+738
+00:59:32,958 --> 00:59:34,041
+She was...
+
+739
+00:59:35,625 --> 00:59:36,583
+just a baby.
+
+740
+00:59:41,291 --> 00:59:42,666
+It got pretty bad in there.
+
+741
+00:59:44,708 --> 00:59:46,458
+Just before our dad managed to...
+
+742
+00:59:47,416 --> 00:59:48,500
+get us out.
+
+743
+00:59:51,583 --> 00:59:52,416
+That's brave.
+
+744
+00:59:53,333 --> 00:59:54,166
+Mm-hm.
+
+745
+00:59:55,875 --> 00:59:56,708
+Yeah.
+
+746
+00:59:58,625 --> 00:59:59,708
+Then, um...
+
+747
+01:00:01,666 --> 01:00:02,625
+he didn't make it?
+
+748
+01:00:04,958 --> 01:00:05,916
+Nah.
+
+749
+01:00:08,333 --> 01:00:13,083
+Ava and I,
+we bounced around a lot after that.
+
+750
+01:00:14,666 --> 01:00:16,833
+Yeah. But we always stuck together.
+
+751
+01:00:16,916 --> 01:00:19,458
+She gave me this bracelet.
+
+752
+01:00:20,041 --> 01:00:20,875
+Sweet.
+
+753
+01:00:21,750 --> 01:00:23,375
+Yeah. That's me.
+
+754
+01:00:24,291 --> 01:00:25,333
+And that's her.
+
+755
+01:00:25,416 --> 01:00:26,666
+- [chuckles]
+- That's cute.
+
+756
+01:00:28,416 --> 01:00:30,750
+You know I actually became
+her legal guardian?
+
+757
+01:00:33,416 --> 01:00:38,083
+That's why it's like so hard
+
+758
+01:00:38,833 --> 01:00:40,416
+for me to not be there for her.
+
+759
+01:00:51,125 --> 01:00:53,125
+[sobbing]
+
+760
+01:01:27,000 --> 01:01:29,000
+[tense music playing]
+
+761
+01:02:45,208 --> 01:02:46,041
+Can you talk?
+
+762
+01:02:46,541 --> 01:02:47,375
+[Michael] Hey.
+
+763
+01:02:48,500 --> 01:02:49,333
+Yeah, sure, man.
+
+764
+01:02:55,000 --> 01:02:57,166
+I have something very difficult
+to tell you.
+
+765
+01:02:58,041 --> 01:02:59,041
+Okay.
+
+766
+01:03:00,666 --> 01:03:02,875
+The CDRA is destroyed beyond repair.
+
+767
+01:03:05,250 --> 01:03:07,000
+And even with every safety measure
+we have,
+
+768
+01:03:07,083 --> 01:03:09,791
+there is no way for all of us to survive.
+
+769
+01:03:13,166 --> 01:03:14,750
+We've known for three days now.
+
+770
+01:03:16,583 --> 01:03:19,750
+Hyperion has had people working around
+the clock on the problem since then.
+
+771
+01:03:22,583 --> 01:03:24,791
+Zoe, the commander and I...
+
+772
+01:03:26,916 --> 01:03:29,416
+we tried everything we could
+to figure out a way.
+
+773
+01:03:32,250 --> 01:03:33,333
+But mathematically...
+
+774
+01:03:36,583 --> 01:03:37,500
+with you here...
+
+775
+01:03:38,583 --> 01:03:41,791
+everyone on board would suffocate
+before we ever made it to Mars.
+
+776
+01:03:46,333 --> 01:03:50,166
+Every day you're with us
+presents a danger to the crew...
+
+777
+01:03:51,916 --> 01:03:53,250
+and to the entire mission.
+
+778
+01:03:56,875 --> 01:03:58,625
+Look, I have to be honest, I, uh...
+
+779
+01:04:01,333 --> 01:04:03,916
+I was explicitly forbidden
+to tell you any of this.
+
+780
+01:04:06,958 --> 01:04:07,791
+Why?
+
+781
+01:04:09,916 --> 01:04:15,333
+Zoe convinced Barnett to exhaust
+our safety margins to try and save you.
+
+782
+01:04:18,250 --> 01:04:19,875
+To try and figure something out.
+
+783
+01:04:22,791 --> 01:04:24,750
+Isn't there anything we can figure out?
+
+784
+01:04:28,875 --> 01:04:29,708
+- Is there?
+- No.
+
+785
+01:04:35,250 --> 01:04:37,166
+Hyperion would already know by now.
+
+786
+01:04:37,250 --> 01:04:39,250
+[somber music playing]
+
+787
+01:04:47,250 --> 01:04:48,416
+This would be painless.
+
+788
+01:04:54,791 --> 01:04:56,916
+And you would just fall asleep.
+
+789
+01:05:05,958 --> 01:05:06,958
+I'm sorry, Michael.
+
+790
+01:05:27,750 --> 01:05:29,125
+[sobbing]
+
+791
+01:05:36,875 --> 01:05:38,541
+[sighs, then grunts]
+
+792
+01:06:24,666 --> 01:06:25,791
+[grunts]
+
+793
+01:06:35,541 --> 01:06:36,375
+Hey, Ava.
+
+794
+01:06:41,083 --> 01:06:44,166
+I know this transition
+hasn't been the easiest for you.
+
+795
+01:06:45,375 --> 01:06:46,416
+[sighs]
+
+796
+01:06:46,500 --> 01:06:48,583
+And as hard as it is for me to know that,
+
+797
+01:06:48,666 --> 01:06:49,750
+I gotta face the fact
+
+798
+01:06:49,833 --> 01:06:53,083
+that I'm not gonna be there
+with you every step of the way.
+
+799
+01:06:56,000 --> 01:06:56,958
+But you're tough.
+
+800
+01:06:58,333 --> 01:06:59,875
+Tougher than I'll ever be.
+
+801
+01:07:03,833 --> 01:07:06,333
+<i>You know, I met
+some really incredible people here.</i>
+
+802
+01:07:07,041 --> 01:07:08,250
+<i>I mean, they're smart...</i>
+
+803
+01:07:08,958 --> 01:07:09,875
+<i>caring...</i>
+
+804
+01:07:11,208 --> 01:07:12,041
+<i>driven.</i>
+
+805
+01:07:13,041 --> 01:07:16,500
+<i>They're the best at what they do.
+And I see so much of you in them.</i>
+
+806
+01:07:24,583 --> 01:07:26,250
+I gotta go, but, um...
+
+807
+01:07:27,166 --> 01:07:28,166
+[sniffles]
+
+808
+01:07:28,958 --> 01:07:29,791
+...I love you.
+
+809
+01:07:43,875 --> 01:07:44,708
+[Zoe] Michael?
+
+810
+01:07:46,583 --> 01:07:47,416
+Are you okay?
+
+811
+01:08:05,625 --> 01:08:06,458
+Michael?
+
+812
+01:08:21,375 --> 01:08:22,708
+You don't have to do this.
+
+813
+01:08:25,666 --> 01:08:27,041
+There's nothing else to do.
+
+814
+01:08:28,166 --> 01:08:29,125
+We don't know that.
+
+815
+01:08:34,166 --> 01:08:36,041
+Look, I know you fought for me, okay?
+
+816
+01:08:37,958 --> 01:08:39,875
+But this is different.
+
+817
+01:08:42,625 --> 01:08:43,458
+This is...
+
+818
+01:08:46,500 --> 01:08:47,750
+It's hopeless, you know?
+
+819
+01:08:51,166 --> 01:08:52,000
+It isn't.
+
+820
+01:09:09,625 --> 01:09:10,708
+Can I tell you something?
+
+821
+01:09:12,208 --> 01:09:15,083
+This happened like 12 years ago.
+
+822
+01:09:15,583 --> 01:09:16,916
+I had this summer job.
+
+823
+01:09:17,833 --> 01:09:21,500
+I was supposed to be just keeping an eye
+on this beach.
+
+824
+01:09:21,583 --> 01:09:23,541
+I wasn't a lifeguard. Just a watch.
+
+825
+01:09:24,166 --> 01:09:26,666
+'Cause there were signs all over the sand
+that said "No swimming."
+
+826
+01:09:26,750 --> 01:09:28,458
+I mean, they said "Danger: no swimming."
+
+827
+01:09:31,625 --> 01:09:33,875
+So, I just thought
+I was gonna read all day.
+
+828
+01:09:35,083 --> 01:09:35,916
+And...
+
+829
+01:09:38,208 --> 01:09:42,416
+uh, there were these drunk guys that would
+always hang out by this bonfire nearby.
+
+830
+01:09:46,875 --> 01:09:48,333
+And I see a guy in the water.
+
+831
+01:09:49,166 --> 01:09:50,375
+And his buddies won't wake up
+
+832
+01:09:50,458 --> 01:09:53,458
+and they're passed out on the sand,
+and he's just...
+
+833
+01:09:55,875 --> 01:09:57,125
+quietly drowning...
+
+834
+01:09:59,125 --> 01:10:00,250
+by himself out there.
+
+835
+01:10:01,875 --> 01:10:04,291
+And immediately I call it in,
+and I don't get a response.
+
+836
+01:10:05,250 --> 01:10:06,083
+And...
+
+837
+01:10:10,333 --> 01:10:11,833
+I mean, the tides are strong.
+
+838
+01:10:18,583 --> 01:10:21,791
+And I jump in, and when I get to him
+I'm already exhausted.
+
+839
+01:10:23,416 --> 01:10:25,375
+And I'm trying to keep his head
+above the water.
+
+840
+01:10:25,458 --> 01:10:29,458
+And I'm there for five minutes,
+and I'm in longer and longer.
+
+841
+01:10:34,375 --> 01:10:35,625
+Then I start to lose him.
+
+842
+01:10:37,333 --> 01:10:38,166
+And...
+
+843
+01:10:39,750 --> 01:10:41,708
+suddenly I feel myself being pulled up.
+
+844
+01:10:42,458 --> 01:10:46,583
+And somebody's grabbed both of us
+before he slipped away.
+
+845
+01:10:46,666 --> 01:10:50,458
+And they just row us to the beach,
+and that's it.
+
+846
+01:10:56,541 --> 01:10:58,375
+How did you know someone was coming?
+
+847
+01:11:01,625 --> 01:11:02,458
+I didn't.
+
+848
+01:11:08,333 --> 01:11:09,166
+I didn't.
+
+849
+01:11:22,041 --> 01:11:23,041
+We've got some time.
+
+850
+01:11:24,458 --> 01:11:25,500
+And that's a last resort.
+
+851
+01:11:29,041 --> 01:11:30,291
+I'm not giving up on you.
+
+852
+01:11:32,000 --> 01:11:33,000
+[sniffles]
+
+853
+01:11:33,875 --> 01:11:35,958
+- Yeah?
+- Yeah.
+
+854
+01:11:40,375 --> 01:11:42,500
+- Yeah.
+- Okay.
+
+855
+01:12:12,083 --> 01:12:14,166
+- What did you do, David?
+- Zoe.
+
+856
+01:12:14,250 --> 01:12:16,750
+- What the hell did you do?
+- Whoa, whoa, whoa. Did Michael...?
+
+857
+01:12:16,833 --> 01:12:18,625
+No, he didn't fucking kill himself, David!
+
+858
+01:12:19,541 --> 01:12:20,958
+That's what you wanted, isn't it?
+
+859
+01:12:21,041 --> 01:12:22,041
+- That's...
+- You had no right
+
+860
+01:12:22,125 --> 01:12:24,458
+to disclose anything.
+And you had no right to go into my lab
+
+861
+01:12:24,541 --> 01:12:26,375
+and steal my medication
+for something like this!
+
+862
+01:12:26,458 --> 01:12:28,875
+- I was trying to protect us.
+- Barnett gave us ten days!
+
+863
+01:12:28,958 --> 01:12:29,916
+Yes.
+
+864
+01:12:30,000 --> 01:12:32,500
+And using all that time
+is putting us at risk.
+
+865
+01:12:33,416 --> 01:12:35,208
+What don't you get about this, Zoe?
+
+866
+01:12:35,875 --> 01:12:38,791
+We are already doing everything we can
+to try and save him.
+
+867
+01:12:38,875 --> 01:12:40,083
+There's nothing else.
+
+868
+01:12:40,750 --> 01:12:44,625
+I'm just trying to salvage what's left
+of this mission, and that includes you!
+
+869
+01:12:45,125 --> 01:12:45,958
+Michael...
+
+870
+01:12:47,250 --> 01:12:49,458
+Michael died the moment we took off.
+
+871
+01:12:51,250 --> 01:12:54,125
+You wanted to get rid of him. You weren't
+even trying to figure this out.
+
+872
+01:12:54,208 --> 01:12:55,041
+Not even trying?
+
+873
+01:12:55,916 --> 01:12:57,791
+I destroyed all of my research!
+
+874
+01:12:58,583 --> 01:13:00,041
+This! This right here!
+
+875
+01:13:00,125 --> 01:13:02,583
+This is the only thing
+keeping us alive right now.
+
+876
+01:13:03,291 --> 01:13:06,000
+My last three years of training
+are now meaningless.
+
+877
+01:13:06,500 --> 01:13:08,958
+My next two years of experimentation
+are gone!
+
+878
+01:13:10,041 --> 01:13:12,708
+You of all people should know
+how much this work means to me.
+
+879
+01:13:12,791 --> 01:13:15,000
+And I gave it all up to try and save him!
+
+880
+01:13:16,166 --> 01:13:18,083
+And what the hell have you done, Zoe?
+
+881
+01:13:19,583 --> 01:13:20,583
+What have you done?
+
+882
+01:13:20,666 --> 01:13:22,666
+[tense music playing]
+
+883
+01:13:34,000 --> 01:13:35,000
+[sighs]
+
+884
+01:13:48,916 --> 01:13:50,791
+How do we know
+if there's enough oxygen up there?
+
+885
+01:13:50,875 --> 01:13:53,458
+[sighs] We don't.
+But we're out of options.
+
+886
+01:13:59,958 --> 01:14:02,291
+So, these are what we use
+to climb the tethers.
+
+887
+01:14:04,125 --> 01:14:07,083
+Clamp it on and get some leverage.
+
+888
+01:14:09,125 --> 01:14:10,541
+You have to keep pressure...
+
+889
+01:14:12,208 --> 01:14:14,916
+on the handle as you're pulling up,
+otherwise it'll just slide down.
+
+890
+01:14:17,541 --> 01:14:18,541
+You wanna try it?
+
+891
+01:14:18,625 --> 01:14:20,250
+I know it's counterintuitive,
+
+892
+01:14:20,333 --> 01:14:22,666
+but you have to lift this leg
+with this arm.
+
+893
+01:14:22,750 --> 01:14:24,625
+Right side, then, yeah.
+
+894
+01:14:26,583 --> 01:14:29,166
+Yeah. You're gonna be feeling
+less and less gravity
+
+895
+01:14:29,250 --> 01:14:32,125
+the closer you get to the solar panels.
+So, when you climb the tethers,
+
+896
+01:14:32,208 --> 01:14:34,750
+- it'll get easier the higher you go, okay?
+- Okay.
+
+897
+01:14:36,583 --> 01:14:38,333
+It's okay. It's okay, it's okay.
+You're okay.
+
+898
+01:14:38,416 --> 01:14:40,416
+Start over. Let's reset.
+Let's start over. We got it.
+
+899
+01:14:40,500 --> 01:14:42,375
+- I got it, I got it. I got it.
+- Yeah, yeah, yeah.
+
+900
+01:14:42,458 --> 01:14:44,166
+- [breathing heavily]
+- Yeah.
+
+901
+01:14:44,250 --> 01:14:45,625
+- Do you wanna just reset?
+- No.
+
+902
+01:14:45,708 --> 01:14:46,541
+[Zoe] Oh!
+
+903
+01:14:47,375 --> 01:14:48,208
+[Michael] Fuck!
+
+904
+01:14:48,291 --> 01:14:49,833
+- Are you okay?
+- Yeah, I'm good! I'm good!
+
+905
+01:14:49,916 --> 01:14:50,791
+[grunts]
+
+906
+01:15:20,333 --> 01:15:21,166
+Commander.
+
+907
+01:15:31,000 --> 01:15:32,958
+I understand that your duty
+is to protect your crew
+
+908
+01:15:34,208 --> 01:15:36,458
+and the risk that you've taken
+by giving Michael more time.
+
+909
+01:15:38,125 --> 01:15:38,958
+But he...
+
+910
+01:15:42,625 --> 01:15:44,375
+We were all put in this situation.
+
+911
+01:15:46,000 --> 01:15:48,833
+We have to be willing to expend
+more than just resources.
+
+912
+01:15:50,958 --> 01:15:53,250
+I know that climbing the tether
+puts us at risk, but...
+
+913
+01:15:54,125 --> 01:15:55,666
+I think we should put ourselves at risk.
+
+914
+01:15:59,375 --> 01:16:02,166
+I wouldn't be able to live with myself
+if I didn't try everything I could
+
+915
+01:16:02,250 --> 01:16:03,125
+to save his life.
+
+916
+01:16:03,208 --> 01:16:04,208
+And, David?
+
+917
+01:16:06,708 --> 01:16:07,875
+I need you to help me.
+
+918
+01:16:08,500 --> 01:16:10,791
+Michael can't be the one
+to climb the tether. He tried.
+
+919
+01:16:12,500 --> 01:16:14,041
+- What do you mean, he...?
+- Michael knows.
+
+920
+01:16:20,000 --> 01:16:21,791
+- David, I'm... I know...
+- I'll do it.
+
+921
+01:16:28,666 --> 01:16:30,500
+What, you'll do it? Just like that?
+
+922
+01:16:35,541 --> 01:16:37,541
+[ominous music playing]
+
+923
+01:16:42,166 --> 01:16:43,791
+We need enough oxygen for two.
+
+924
+01:16:48,875 --> 01:16:51,541
+Once you're up there,
+you'll need to tap the lox tank
+
+925
+01:16:51,625 --> 01:16:54,000
+and transfer as much as you can
+into the canisters.
+
+926
+01:16:54,083 --> 01:16:56,791
+You're not gonna know how much is in there
+until you connect the gauge.
+
+927
+01:16:57,291 --> 01:16:59,458
+Each of the canisters holds enough
+for one person,
+
+928
+01:16:59,541 --> 01:17:02,666
+so obviously, the hope
+is that there will be enough for two.
+
+929
+01:17:04,291 --> 01:17:07,291
+Now, when you pierce the tank,
+the connection's not gonna be perfect.
+
+930
+01:17:07,375 --> 01:17:10,916
+So make sure any oxygen that's leaking out
+is pointed towards the back.
+
+931
+01:17:15,125 --> 01:17:16,291
+Guys? Listen.
+
+932
+01:17:18,500 --> 01:17:21,083
+You two never trained
+for anything with this much complexity.
+
+933
+01:17:22,958 --> 01:17:24,333
+<i>So, keep your cool.</i>
+
+934
+01:17:24,416 --> 01:17:25,750
+<i>Overcommunicate.</i>
+
+935
+01:17:26,500 --> 01:17:27,458
+<i>And take your time.</i>
+
+936
+01:17:28,416 --> 01:17:29,250
+<i>Do not rush.</i>
+
+937
+01:17:33,291 --> 01:17:34,125
+Michael?
+
+938
+01:17:35,875 --> 01:17:37,583
+- I want you to know that what I...
+- It's okay.
+
+939
+01:17:41,750 --> 01:17:42,583
+We're good.
+
+940
+01:17:48,250 --> 01:17:50,250
+[air hissing]
+
+941
+01:17:52,750 --> 01:17:54,750
+[suspenseful music playing]
+
+942
+01:19:10,666 --> 01:19:12,916
+- [Barnett over comm] <i>EV1, comm check.</i>
+- [David] Good check.
+
+943
+01:19:13,666 --> 01:19:16,166
+- [Barnett] <i>EV2, comm check.</i>
+- [Zoe] Good check.
+
+944
+01:19:16,250 --> 01:19:20,541
+[Barnett] <i>Good. You're gonna be feeling</i>
+<i>full gravity on the roof.</i>
+
+945
+01:19:21,333 --> 01:19:24,041
+<i>A little over 200 meters
+to the solar panels,</i>
+
+946
+01:19:24,125 --> 01:19:27,250
+<i>but the higher you go,
+the less gravity you'll feel.</i>
+
+947
+01:19:27,833 --> 01:19:28,666
+[Zoe] Roger.
+
+948
+01:19:29,208 --> 01:19:31,291
+[Barnett] <i>Do not touch the tether</i>
+<i>with the clamps</i>
+
+949
+01:19:31,375 --> 01:19:33,625
+that's carrying the power down
+from the solar panels.
+
+950
+01:19:33,708 --> 01:19:34,916
+[Zoe] <i>Loud and clear.</i>
+
+951
+01:19:35,000 --> 01:19:36,541
+<i>Don't climb the power tethers.</i>
+
+952
+01:19:58,208 --> 01:19:59,291
+[David exhales]
+
+953
+01:20:00,500 --> 01:20:02,666
+Wow, the spinning
+is so much worse out here.
+
+954
+01:20:03,916 --> 01:20:04,875
+You gonna be okay?
+
+955
+01:20:05,541 --> 01:20:06,625
+Yeah. Yeah.
+
+956
+01:20:07,958 --> 01:20:09,458
+I'll just focus on the tether.
+
+957
+01:20:11,208 --> 01:20:13,208
+[both grunting]
+
+958
+01:20:38,041 --> 01:20:40,041
+[grunting]
+
+959
+01:20:42,416 --> 01:20:44,500
+[David] Hold on, Zo. I need a break.
+
+960
+01:20:53,250 --> 01:20:54,291
+[Barnett] <i>Status check?</i>
+
+961
+01:20:55,208 --> 01:20:58,500
+We're good. It's starting to get easier.
+
+962
+01:20:59,583 --> 01:21:00,416
+Theoretically.
+
+963
+01:21:01,250 --> 01:21:03,083
+[laughs] Speak for yourself.
+
+964
+01:21:06,583 --> 01:21:08,875
+Try not to use your upper body
+so much, okay?
+
+965
+01:21:10,166 --> 01:21:12,500
+[panting] Okay.
+
+966
+01:22:08,125 --> 01:22:10,875
+[Zoe] MTS.
+<i>We've reached the halfway point.</i>
+
+967
+01:22:11,583 --> 01:22:13,958
+Copy, EV2. You're coming into view now.
+
+968
+01:22:22,166 --> 01:22:23,916
+[Barnett] <i>So just take your time.</i>
+
+969
+01:22:25,166 --> 01:22:26,625
+<i>Take it really easy here.</i>
+
+970
+01:22:26,708 --> 01:22:30,000
+<i>It's critical to stay away
+from the photovoltaic panels.</i>
+
+971
+01:22:31,291 --> 01:22:33,250
+<i>We could lose power to the entire ship.</i>
+
+972
+01:22:34,833 --> 01:22:35,666
+<i>Permanently.</i>
+
+973
+01:22:36,208 --> 01:22:37,041
+Roger.
+
+974
+01:23:04,083 --> 01:23:05,208
+[Zoe grunts]
+
+975
+01:23:06,625 --> 01:23:08,208
+I'm good. David, are you ready?
+
+976
+01:23:08,291 --> 01:23:09,291
+[grunts]
+
+977
+01:23:09,958 --> 01:23:10,791
+Ready.
+
+978
+01:23:13,750 --> 01:23:15,916
+[Zoe] Just let go. I'll pull you in.
+
+979
+01:23:38,416 --> 01:23:39,625
+[David grunts]
+
+980
+01:23:46,125 --> 01:23:47,125
+[Zoe] You all good?
+
+981
+01:23:48,208 --> 01:23:49,041
+I'm good.
+
+982
+01:23:53,791 --> 01:23:56,791
+[Zoe] MTS. <i>We're headed down</i>
+<i>to the Kingfisher now.</i>
+
+983
+01:23:57,375 --> 01:23:58,208
+Copy that.
+
+984
+01:24:26,750 --> 01:24:29,916
+[Barnett] <i>Okay, now hook yourself back in,</i>
+<i>before you're moving too fast.</i>
+
+985
+01:24:34,916 --> 01:24:36,916
+[grunting]
+
+986
+01:24:38,083 --> 01:24:40,083
+[dramatic music playing]
+
+987
+01:25:06,666 --> 01:25:08,166
+[Zoe exhales]
+
+988
+01:25:09,625 --> 01:25:11,416
+<i>MTS,</i> we're on the Kingfisher.
+
+989
+01:25:13,041 --> 01:25:15,083
+[Barnett] <i>Great. Great to hear it, EV1.</i>
+
+990
+01:25:34,625 --> 01:25:36,625
+[tense music playing]
+
+991
+01:25:59,166 --> 01:26:00,916
+One, two, three.
+
+992
+01:26:02,000 --> 01:26:03,583
+- [Zoe grunts]
+- Whoa, whoa, whoa.
+
+993
+01:26:04,250 --> 01:26:05,083
+You're good.
+
+994
+01:26:05,708 --> 01:26:07,333
+Okay, I'm heading down the Kingfisher now.
+
+995
+01:26:08,458 --> 01:26:09,333
+You got this, Zo.
+
+996
+01:26:49,375 --> 01:26:50,416
+[gasps]
+
+997
+01:26:54,583 --> 01:26:55,791
+[grunts]
+
+998
+01:26:57,916 --> 01:26:58,833
+You all right, Zo?
+
+999
+01:27:01,291 --> 01:27:02,125
+Fine.
+
+1000
+01:27:03,166 --> 01:27:04,125
+I'm fine, I'm fine.
+
+1001
+01:27:05,416 --> 01:27:06,375
+[David] Okay.
+
+1002
+01:27:08,875 --> 01:27:10,125
+All right. I'm inside.
+
+1003
+01:27:10,208 --> 01:27:13,375
+[Barnett] <i>Okay. You're looking for</i>
+<i>the liquid-oxygen pipe toward the back.</i>
+
+1004
+01:27:14,666 --> 01:27:16,166
+- I see it.
+- [Barnett] <i>Great.</i>
+
+1005
+01:27:16,250 --> 01:27:17,625
+<i>Walk me through every step.</i>
+
+1006
+01:27:18,416 --> 01:27:19,250
+[Zoe] Wilco.
+
+1007
+01:27:28,416 --> 01:27:30,125
+Tapping into the line now.
+
+1008
+01:27:30,208 --> 01:27:31,041
+[Barnett] <i>Copy.</i>
+
+1009
+01:27:34,833 --> 01:27:36,083
+Okay. Connection's in.
+
+1010
+01:27:36,583 --> 01:27:38,291
+[Barnett] <i>Okay. How good is the seal?</i>
+
+1011
+01:27:38,791 --> 01:27:40,666
+[air hissing]
+
+1012
+01:27:41,291 --> 01:27:43,208
+It's definitely not a hundred percent.
+
+1013
+01:27:43,291 --> 01:27:45,291
+It's hard to tell
+how much we're losing by sight.
+
+1014
+01:27:46,583 --> 01:27:48,625
+[Barnett] <i>Let's just lose</i>
+<i>as little as possible.</i>
+
+1015
+01:27:49,458 --> 01:27:54,041
+Roger. I'm ready to check
+how much oxygen we've got up here.
+
+1016
+01:27:54,125 --> 01:27:56,541
+[suspenseful music playing]
+
+1017
+01:28:14,125 --> 01:28:15,291
+We're at 250.
+
+1018
+01:28:16,166 --> 01:28:18,333
+We have enough
+to fill up at least one cylinder.
+
+1019
+01:28:18,416 --> 01:28:20,333
+[Barnett] <i>Copy that. Good so far.</i>
+
+1020
+01:28:37,916 --> 01:28:38,750
+Come on.
+
+1021
+01:28:43,458 --> 01:28:44,958
+[gasps]
+
+1022
+01:28:46,125 --> 01:28:46,958
+<i>MTS.</i>
+
+1023
+01:28:48,875 --> 01:28:51,000
+We've got more than enough oxygen up here.
+
+1024
+01:28:51,083 --> 01:28:52,208
+[laughs]
+
+1025
+01:28:52,291 --> 01:28:53,125
+[Zoe] <i>It's climbing.</i>
+
+1026
+01:28:53,208 --> 01:28:54,833
+Oh, fucking A.
+
+1027
+01:28:54,916 --> 01:28:56,125
+- Yes!
+- [Zoe] <i>Still climbing.</i>
+
+1028
+01:28:56,208 --> 01:28:58,875
+Okay, stay focused.
+We've gotta get these cylinders filled.
+
+1029
+01:28:58,958 --> 01:29:01,041
+<i>David, send the first one down.</i>
+
+1030
+01:29:01,125 --> 01:29:02,458
+Copy. Coming down.
+
+1031
+01:29:11,166 --> 01:29:12,000
+On the way.
+
+1032
+01:29:53,125 --> 01:29:55,041
+[Zoe] <i>You enjoying the view</i>
+<i>up there, David?</i>
+
+1033
+01:29:55,916 --> 01:29:57,166
+Not funny, Zoe.
+
+1034
+01:29:57,250 --> 01:29:58,333
+[Zoe chuckling] <i>Okay.</i>
+
+1035
+01:29:59,750 --> 01:30:01,083
+The first cylinder's full.
+
+1036
+01:30:01,708 --> 01:30:02,833
+I'm uncoupling it now.
+
+1037
+01:30:03,875 --> 01:30:06,250
+<i>Still got plenty of oxygen left
+in the big tank.</i>
+
+1038
+01:30:06,750 --> 01:30:07,916
+[David] Ready when you are.
+
+1039
+01:30:09,916 --> 01:30:11,625
+- [Zoe] <i>Coming out.</i>
+- Okay.
+
+1040
+01:30:26,916 --> 01:30:29,541
+<i>MTS,</i> we have the first cylinder.
+
+1041
+01:30:29,625 --> 01:30:31,000
+[Barnett] <i>Great. Copy that.</i>
+
+1042
+01:30:33,208 --> 01:30:35,000
+[David] Second cylinder is on its way.
+
+1043
+01:30:46,791 --> 01:30:48,250
+How's it going in there, Zoe?
+
+1044
+01:30:48,875 --> 01:30:51,333
+[Zoe] <i>The tank's still leaking,</i>
+<i>but it's all good.</i>
+
+1045
+01:30:52,583 --> 01:30:53,958
+Second canister filling up.
+
+1046
+01:30:54,541 --> 01:30:57,750
+- [alarm wailing]
+- It look... What...? What's going on?
+
+1047
+01:31:01,208 --> 01:31:04,958
+We're getting a solar storm warning.
+Abort, EV1! Abort, EV2!
+
+1048
+01:31:05,041 --> 01:31:06,750
+[ominous music playing]
+
+1049
+01:31:06,833 --> 01:31:07,666
+Oh, God.
+
+1050
+01:31:11,208 --> 01:31:12,583
+How much time do we have?
+
+1051
+01:31:12,666 --> 01:31:14,000
+[Barnett] <i>Twenty minutes.</i>
+
+1052
+01:31:18,708 --> 01:31:20,916
+Zoe! Come on! Let's go!
+
+1053
+01:31:21,000 --> 01:31:22,583
+No. We can't just leave this here.
+
+1054
+01:31:22,666 --> 01:31:24,541
+<i>This is the oxygen for Michael.</i>
+
+1055
+01:31:24,625 --> 01:31:26,708
+There isn't enough time.
+You're gonna have to leave it.
+
+1056
+01:31:27,458 --> 01:31:29,166
+[Barnett] <i>It's a coronal mass ejection.</i>
+
+1057
+01:31:29,250 --> 01:31:31,208
+<i>The radiation is just gonna be deadly.</i>
+
+1058
+01:31:31,291 --> 01:31:32,916
+<i>You need to head back right now!</i>
+
+1059
+01:31:34,250 --> 01:31:35,625
+- [grunts]
+- [David]<i> Zoe, come on!</i>
+
+1060
+01:31:35,708 --> 01:31:36,541
+[yells]
+
+1061
+01:31:38,083 --> 01:31:40,375
+- [David] <i>Zoe!</i>
+- Yeah, I'm coming! [grunts]
+
+1062
+01:31:49,500 --> 01:31:50,875
+[David] <i>Come on, Zoe. We gotta go.</i>
+
+1063
+01:31:52,375 --> 01:31:53,708
+I'm out. I'm climbing.
+
+1064
+01:31:54,500 --> 01:31:55,958
+[grunting]
+
+1065
+01:31:57,208 --> 01:31:58,041
+Oh, Jesus.
+
+1066
+01:32:00,833 --> 01:32:02,833
+[panting]
+
+1067
+01:32:10,750 --> 01:32:13,625
+- [David] Okay. Let me clip you in.
+- All right.
+
+1068
+01:32:17,541 --> 01:32:18,500
+- Okay.
+- Good?
+
+1069
+01:32:18,583 --> 01:32:19,416
+I'm heading up.
+
+1070
+01:32:37,541 --> 01:32:38,375
+[Michael] Right.
+
+1071
+01:32:40,500 --> 01:32:41,541
+Yeah.
+
+1072
+01:32:42,791 --> 01:32:43,625
+Shit.
+
+1073
+01:32:47,125 --> 01:32:49,000
+[alarm wailing]
+
+1074
+01:32:49,083 --> 01:32:50,583
+Zoe? David? Status check.
+
+1075
+01:32:53,833 --> 01:32:55,708
+We're about a quarter
+of the way back to the <i>MTS.</i>
+
+1076
+01:32:56,500 --> 01:32:58,500
+[both grunting]
+
+1077
+01:33:04,208 --> 01:33:05,166
+I'm dying here, Zo.
+
+1078
+01:33:05,791 --> 01:33:08,958
+- It's gonna start getting easier. Come on.
+- [Barnett] <i>Eight minutes to go.</i>
+
+1079
+01:33:20,583 --> 01:33:21,583
+- Michael.
+- Yeah?
+
+1080
+01:33:21,666 --> 01:33:23,083
+- Close the shutters.
+- Got it.
+
+1081
+01:33:32,166 --> 01:33:33,000
+Stay back there.
+
+1082
+01:33:33,625 --> 01:33:35,625
+[suspenseful music playing]
+
+1083
+01:33:39,416 --> 01:33:40,916
+[Barnett] <i>How far are you two?</i>
+
+1084
+01:33:41,625 --> 01:33:43,208
+About to cross the solar array.
+
+1085
+01:33:45,708 --> 01:33:46,791
+[grunts]
+
+1086
+01:33:48,125 --> 01:33:50,125
+[panting]
+
+1087
+01:33:53,583 --> 01:33:54,625
+Go ahead.
+
+1088
+01:33:55,250 --> 01:33:56,500
+I'll be right behind you.
+
+1089
+01:34:26,000 --> 01:34:28,375
+[alarm wailing]
+
+1090
+01:34:28,458 --> 01:34:29,291
+Oh, shit.
+
+1091
+01:34:30,083 --> 01:34:30,916
+Zoe?
+
+1092
+01:34:32,041 --> 01:34:33,416
+Shit. Zoe, can you hear me?
+
+1093
+01:34:36,583 --> 01:34:37,541
+[Zoe] I can't slow down.
+
+1094
+01:34:40,000 --> 01:34:43,000
+[Barnett] <i>Clip back in! Clip back into</i>
+<i>the tether! Zoe, you're moving too fast!</i>
+
+1095
+01:34:43,083 --> 01:34:46,041
+- [gasps] I can't. I can't!
+- [Barnett] <i>Clip back in!</i>
+
+1096
+01:34:48,666 --> 01:34:49,500
+Zoe?
+
+1097
+01:34:51,666 --> 01:34:53,666
+[gasping]
+
+1098
+01:34:56,875 --> 01:34:58,166
+[screams]
+
+1099
+01:35:01,416 --> 01:35:02,916
+[gasping]
+
+1100
+01:35:10,291 --> 01:35:12,291
+[panting]
+
+1101
+01:35:19,791 --> 01:35:21,791
+[somber music playing]
+
+1102
+01:35:33,291 --> 01:35:34,916
+- Zoe?
+- David. David.
+
+1103
+01:35:35,000 --> 01:35:36,416
+- Get back.
+- David, it's gone.
+
+1104
+01:35:36,500 --> 01:35:37,375
+David, it's gone!
+
+1105
+01:35:37,458 --> 01:35:39,916
+[panting]
+
+1106
+01:35:51,833 --> 01:35:54,041
+Come on. Let's go. Let's go. I got you.
+
+1107
+01:35:55,000 --> 01:35:56,875
+Get up. Okay.
+
+1108
+01:35:59,833 --> 01:36:00,666
+Let's go.
+
+1109
+01:36:18,750 --> 01:36:20,750
+[David panting]
+
+1110
+01:36:22,375 --> 01:36:24,375
+[somber music playing]
+
+1111
+01:36:46,166 --> 01:36:47,000
+Look.
+
+1112
+01:36:48,625 --> 01:36:50,958
+We've still got a full tank
+leaking up there.
+
+1113
+01:36:53,208 --> 01:36:54,208
+We're gonna lose it.
+
+1114
+01:36:56,541 --> 01:36:57,666
+If we can get to it...
+
+1115
+01:37:03,708 --> 01:37:05,416
+the three of us can still make it.
+
+1116
+01:37:08,500 --> 01:37:10,583
+Right now, the storm is lethal out there.
+
+1117
+01:37:11,625 --> 01:37:12,875
+Maybe we can wait it out.
+
+1118
+01:37:14,750 --> 01:37:16,416
+How long is the storm gonna last?
+
+1119
+01:37:21,500 --> 01:37:22,416
+Uh...
+
+1120
+01:37:25,833 --> 01:37:26,666
+Hours.
+
+1121
+01:37:41,666 --> 01:37:42,500
+I can go.
+
+1122
+01:37:44,041 --> 01:37:44,916
+Michael...
+
+1123
+01:37:47,416 --> 01:37:49,875
+Why do you want to, mate?
+You don't have the trainings.
+
+1124
+01:37:50,541 --> 01:37:52,958
+If you don't make it back,
+one of us dies too.
+
+1125
+01:38:37,791 --> 01:38:38,916
+- I'm willing.
+- [Zoe] I'll go.
+
+1126
+01:38:42,166 --> 01:38:43,125
+I can do it.
+
+1127
+01:38:48,625 --> 01:38:49,458
+I can do it.
+
+1128
+01:38:57,166 --> 01:38:58,166
+Yeah.
+
+1129
+01:38:59,125 --> 01:38:59,958
+I can do this.
+
+1130
+01:39:00,041 --> 01:39:01,291
+- Wait.
+- [Zoe] David.
+
+1131
+01:39:03,250 --> 01:39:04,458
+I can't let you do this.
+
+1132
+01:39:06,041 --> 01:39:08,083
+So make it back home...
+
+1133
+01:39:09,500 --> 01:39:10,500
+go have a kid...
+
+1134
+01:39:12,041 --> 01:39:14,458
+and send them to Yale, okay? [sobs]
+
+1135
+01:39:16,666 --> 01:39:18,666
+[sniffling]
+
+1136
+01:39:19,708 --> 01:39:21,833
+Wait. Zoe, I...
+
+1137
+01:39:30,625 --> 01:39:31,791
+- No, Zoe.
+- [Zoe] I know.
+
+1138
+01:39:33,083 --> 01:39:34,916
+- I'm so sorry.
+- [Zoe] I know. I know.
+
+1139
+01:39:44,916 --> 01:39:46,458
+- I wish I could do it.
+- I know.
+
+1140
+01:39:48,291 --> 01:39:49,125
+I know.
+
+1141
+01:40:15,708 --> 01:40:17,708
+[tense music playing]
+
+1142
+01:42:38,875 --> 01:42:39,833
+[grunts]
+
+1143
+01:42:39,916 --> 01:42:41,916
+[panting]
+
+1144
+01:43:25,166 --> 01:43:27,375
+[melancholy music playing]
+
+1145
+01:45:26,958 --> 01:45:28,958
+[breathing shallowly]
+
+1146
+01:45:38,750 --> 01:45:40,750
+[gasping]
+
+1147
+01:46:25,625 --> 01:46:27,625
+[Zoe] <i>I applied to the HARP program</i>
+<i>because I thought</i>
+
+1148
+01:46:27,708 --> 01:46:30,708
+<i>it would be a funny story
+to get rejected by Hyperion.</i>
+
+1149
+01:46:32,958 --> 01:46:36,250
+<i>But now I realize that
+this is one of those rare opportunities</i>
+
+1150
+01:46:36,333 --> 01:46:40,625
+<i>that could truly give my life meaning
+beyond anything I could imagine.</i>
+

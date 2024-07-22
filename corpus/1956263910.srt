@@ -1,0 +1,59 @@
+1
+00:01:14,407 --> 00:01:19,621
+<font color="#ededed">BARENTS SEA, RUSSI</font>A
+
+2
+00:01:37,597 --> 00:01:44,896
+<font color="#ededed">RUSSIAN FEDERATION SHIP KONEK
+AKULA CLAS</font>S
+
+3
+00:02:02,997 --> 00:02:08,086
+<font color="#ededed">USS TAMPA BAY
+LA CLASS HUNTER KILLE</font>R
+
+4
+00:03:26,915 --> 00:03:29,918
+<font color="#ededed">NATIONAL MILITARY COMMAND CENTER
+PENTAGO</font>N
+
+5
+00:05:17,692 --> 00:05:22,238
+<font color="#ededed">LOCHABER HIGHLANDS
+SCOTLAN</font>D
+
+6
+00:06:23,341 --> 00:06:28,054
+<font color="#ededed">USS ARKANSAS
+FASLANE NAVAL BASE, SCOTLAN</font>D
+
+7
+00:13:00,238 --> 00:13:04,451
+<font color="#ededed">TAJIKISTA</font>N
+
+8
+00:17:55,784 --> 00:17:59,704
+<font color="#ededed">POLARNY NAVAL BASE, RUSSI</font>A
+
+9
+00:20:03,745 --> 00:20:07,832
+<font color="#ededed">KOLA PENINSULA
+RUSSIAN WATER</font>S
+
+10
+00:28:22,577 --> 00:28:27,207
+<font color="#ededed">POLYARNY COMMAND CENTER, RUSSI</font>A
+
+11
+01:00:29,379 --> 01:00:34,217
+<font color="#ededed">MURMANSK FJORD
+KOLA PENINSUL</font>A
+
+12
+01:31:37,539 --> 01:31:43,128
+<font color="#ededed">US NORTH ATLANTIC FLEE</font>T
+
+13
+01:32:15,535 --> 01:32:19,914
+<font color="#ededed">RUSSIAN NORTHERN FLEE</font>T
+

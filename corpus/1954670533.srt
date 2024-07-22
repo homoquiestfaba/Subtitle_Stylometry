@@ -1,0 +1,337 @@
+﻿1
+00:00:01,353 --> 00:00:08,375
+<font color=#0080C0>Taylor Swift- Blank Space</font>
+
+2
+00:00:08,747 --> 00:00:10,855
+<font color=#FF8000>Nice to meet you, where you been?</font>
+
+3
+00:00:11,231 --> 00:00:13,395
+<font color=#FF8000>I could show you incredible things</font>
+
+4
+00:00:13,758 --> 00:00:16,031
+<font color=#FF8000>Magic, madness, heaven, sin</font>
+
+5
+00:00:16,385 --> 00:00:18,002
+<font color=#FF8000>Saw you there and I thought</font>
+
+6
+00:00:18,315 --> 00:00:20,193
+<font color=#FF8000>Oh my God, look at that face</font>
+
+7
+00:00:20,857 --> 00:00:22,678
+You look like my next mistake
+
+8
+00:00:23,396 --> 00:00:27,782
+<font color=#FF8000>Love's a game, wanna play?</font>
+
+9
+00:00:28,692 --> 00:00:31,084
+<font color=#FF8000>New money, suit and tie</font>
+
+10
+00:00:31,525 --> 00:00:33,765
+<font color=#FF8000>I can read you like a magazine</font>
+
+11
+00:00:34,217 --> 00:00:36,073
+<font color=#FF8000>Ain't it funny, rumors fly</font>
+
+12
+00:00:36,351 --> 00:00:38,307
+<font color=#FF8000>And I know you heard about me</font>
+
+13
+00:00:38,627 --> 00:00:40,506
+<font color=#FF8000>So hey, let's be friends</font>
+
+14
+00:00:40,784 --> 00:00:43,160
+<font color=#FF8000>I'm dying to see how this one ends</font>
+
+15
+00:00:43,398 --> 00:00:45,379
+<font color=#FF8000>Grab your passport and my hand</font>
+
+16
+00:00:45,845 --> 00:00:48,224
+<font color=#FF8000>I can make the bad guys good for a weekend</font>
+
+17
+00:00:48,597 --> 00:00:50,504
+<font color=#FF8000>So it's gonna be forever</font>
+
+18
+00:00:51,115 --> 00:00:53,164
+<font color=#FF8000>Or it's gonna go down in flames</font>
+
+19
+00:00:53,598 --> 00:00:55,169
+<font color=#FF8000>You can tell me when it's over</font>
+
+20
+00:00:56,313 --> 00:00:58,190
+<font color=#FF8000>If the high was worth the pain</font>
+
+21
+00:00:58,731 --> 00:01:00,581
+<font color=#FF8000>Got a long list of ex-lovers</font>
+
+22
+00:01:01,027 --> 00:01:03,220
+<font color=#FF8000>They'll tell you I'm insane</font>
+
+23
+00:01:03,700 --> 00:01:05,827
+<font color=#FF8000>'Cause you know I love the players</font>
+
+24
+00:01:06,194 --> 00:01:08,233
+<font color=#FF8000>And you love the game</font>
+
+25
+00:01:08,429 --> 00:01:10,281
+<font color=#FF8000>'Cause we're young and we're reckless</font>
+
+26
+00:01:11,237 --> 00:01:13,190
+<font color=#FF8000>We'll take this way too far</font>
+
+27
+00:01:13,484 --> 00:01:15,521
+<font color=#FF8000>It'll leave you breathless</font>
+
+28
+00:01:16,199 --> 00:01:18,301
+<font color=#FF8000>Or with a nasty scar</font>
+
+29
+00:01:18,557 --> 00:01:20,711
+<font color=#FF8000>Got a long list of ex-lovers</font>
+
+30
+00:01:20,980 --> 00:01:22,920
+<font color=#FF8000>They'll tell you I'm insane</font>
+
+31
+00:01:23,286 --> 00:01:26,830
+<font color=#FF8000>But I've got a blank space, baby</font>
+
+32
+00:01:27,300 --> 00:01:28,595
+<font color=#FF8000>And I'll write your name</font>
+
+33
+00:01:33,321 --> 00:01:36,149
+<font color=#FF8000>Cherry lips, crystal skies</font>
+
+34
+00:01:36,500 --> 00:01:38,436
+<font color=#FF8000>I could show you incredible things</font>
+
+35
+00:01:38,850 --> 00:01:41,113
+<font color=#FF8000>Stolen kisses, pretty lies</font>
+
+36
+00:01:41,279 --> 00:01:43,373
+<font color=#FF8000><font color=#FF8000>You're the King, baby, I'm your Queen</font></font>
+
+37
+00:01:43,625 --> 00:01:45,529
+<font color=#FF8000>Find out what you want</font>
+
+38
+00:01:45,746 --> 00:01:47,844
+<font color=#FF8000>Be that girl for a month</font>
+
+39
+00:01:48,312 --> 00:01:53,325
+<font color=#FF8000>Wait, the worst is yet to come, oh no</font>
+
+40
+00:01:53,801 --> 00:01:56,117
+<font color=#FF8000>Screaming, crying, perfect storms</font>
+
+41
+00:01:56,312 --> 00:01:58,420
+<font color=#FF8000>I can make all the tables turn</font>
+
+42
+00:01:58.897 --> 00:02:01.179
+<font color=#FF8000>Rose garden filled with thorns</font>
+
+43
+00:02:01,420 --> 00:02:03,289
+<font color=#FF8000>Keep you second guessing like</font>
+
+44
+00:02:03,591 --> 00:02:05,318
+<font color=#FF8000>"Oh my God, who is she?"</font>
+
+45
+00:02:05,496 --> 00:02:07,599
+<font color=#FF8000>I get drunk on jealousy</font>
+
+46
+00:02:08,065 --> 00:02:10,227
+<font color=#FF8000>But you'll come back each time you leave</font>
+
+47
+00:02:10,403 --> 00:02:13,040
+<font color=#FF8000>'Cause, darling, I'm a nightmare dressed like a daydream</font>
+
+48
+00:02:13,548 --> 00:02:14,838
+<font color=#FF8000>So it's gonna be forever</font>
+
+49
+00:02:16.227 --> 00:02:18.185
+<font color=#FF8000>Or it's gonna go down in flames</font>
+
+50
+00:02:18,365 --> 00:02:20,162
+<font color=#FF8000>You can tell me when it's over</font>
+
+51
+00:02:20,406 --> 00:02:23,106
+<font color=#FF8000>If the high was worth the pain</font>
+
+52
+00:02:23,330 --> 00:02:25,522
+<font color=#FF8000>Got a long list of ex-lovers</font>
+
+53
+00:02:25,766 --> 00:02:28,188
+<font color=#FF8000>They'll tell you I'm insane</font>
+
+54
+00:02:28,448 --> 00:02:30,763
+<font color=#FF8000>'Cause you know I love the players</font>
+
+55
+00:02:30,990 --> 00:02:33,363
+<font color=#FF8000>And you love the game</font>
+
+56
+00:02:33,583 --> 00:02:35,202
+<font color=#FF8000>'Cause we're young and we're reckless</font>
+
+57
+00:02:35,384 --> 00:02:37,963
+<font color=#FF8000>We'll take this way too far</font>
+
+58
+00:02:38,505 --> 00:02:40,198
+<font color=#FF8000>It'll leave you breathless</font>
+
+59
+00:02:40,403 --> 00:02:43,013
+<font color=#FF8000>Or with a nasty scar</font>
+
+60
+00:02:43,723 --> 00:02:45,573
+<font color=#FF8000>Got a long list of ex-lovers</font>
+
+61
+00:02:45,918 --> 00:02:48,021
+<font color=#FF8000>They'll tell you I'm insane</font>
+
+62
+00:02:48,272 --> 00:02:51,579
+<font color=#FF8000>But I've got a blank space, baby</font>
+
+63
+00:02:52,112 --> 00:02:53,034
+<font color=#FF8000>And I'll write your name</font>
+
+64
+00:02:53,222 --> 00:02:57,976
+<font color=#FF8000>Boys only want love if it's torture</font>
+(<font color=Red>Men want love if it’s real, right, healthy and consistent</font>)
+
+65
+00:02:58,213 --> 00:03:02,804
+<font color=#FF8000>Don't say I didn't say, I didn't warn ya</font>
+
+66
+00:03:03,210 --> 00:03:08,017
+<font color=#FF8000>Boys only want love if it's torture</font>
+
+67
+00:03:08,366 --> 00:03:13,430
+<font color=#FF8000>Don't say I didn't say, I didn't warn ya</font>
+
+68
+00:03:13,433 --> 00:03:15,204
+<font color=#FF8000>So it's gonna be forever</font>
+
+69
+00:03:15,451 --> 00:03:18,037
+<font color=#FF8000>Or it's gonna go down in flames</font>
+
+70
+00:03:18,328 --> 00:03:20,668
+<font color=#FF8000>You can tell me when it's over</font>
+
+71
+00:03:21,125 --> 00:03:23,142
+<font color=#FF8000>If the high was worth the pain</font>
+
+72
+00:03:23,709 --> 00:03:25,566
+<font color=#FF8000>Got a long list of ex-lovers</font>
+
+73
+00:03:25,758 --> 00:03:28,254
+<font color=#FF8000>They'll tell you I'm insane</font>
+
+74
+00:03:28,779 --> 00:03:30,681
+<font color=#FF8000>'Cause you know I love the players</font>
+
+75
+00:03:30,887 --> 00:03:33,574
+<font color=#FF8000>And you love the game</font>
+
+76
+00:03:33,577 --> 00:03:35,258
+<font color=#FF8000>'Cause we're young and we're reckless</font>
+
+77
+00:03:36,200 --> 00:03:38,332
+<font color=#FF8000>We'll take this way too far</font>
+
+78
+00:03:38,529 --> 00:03:40,215
+<font color=#FF8000>It'll leave you breathless</font>
+
+79
+00:03:40,472 --> 00:03:43,057
+<font color=#FF8000>Or with a nasty scar</font>
+
+80
+00:03:43,500 --> 00:03:45,585
+<font color=#FF8000>Got a long list of ex-lovers</font>
+
+81
+00:03:45,774 --> 00:03:48,094
+<font color=#FF8000>They'll tell you I'm insane</font>
+
+82
+00:03:48,648 --> 00:03:51,872
+<font color=#FF8000>But I've got a blank space, baby</font>
+
+83
+00:03:52,063 --> 00:03:53,787
+<font color=#FF8000>And I'll write your name</font>
+
+84
+00:03:53,941 --> 00:04:15,524
+<font color=Olive>by captain calvin</font>
+

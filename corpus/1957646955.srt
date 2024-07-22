@@ -1,0 +1,7390 @@
+1
+00:00:01,031 --> 00:00:03,614
+(wind howling)
+
+2
+00:00:06,116 --> 00:00:08,783
+(ominous music)
+
+3
+00:00:15,404 --> 00:00:18,821
+(construction commotion)
+
+4
+00:00:21,808 --> 00:00:24,975
+(man breathing heavy)
+
+5
+00:00:32,766 --> 00:00:35,599
+(heavy breathing)
+
+6
+00:00:40,339 --> 00:00:43,006
+(ominous music)
+
+7
+00:00:46,584 --> 00:00:48,751
+(gasping)
+
+8
+00:01:13,985 --> 00:01:17,402
+(construction commotion)
+
+9
+00:01:19,297 --> 00:01:21,464
+(gasping)
+
+10
+00:01:37,624 --> 00:01:39,874
+(thudding)
+
+11
+00:01:40,983 --> 00:01:43,150
+(gasping)
+
+12
+00:01:46,245 --> 00:01:48,828
+(men grunting)
+
+13
+00:02:01,774 --> 00:02:02,807
+(gunshot popping)
+
+14
+00:02:02,807 --> 00:02:05,224
+(whimpering)
+
+15
+00:02:08,469 --> 00:02:11,386
+(gunshots booming)
+
+16
+00:02:37,002 --> 00:02:39,250
+(wind howling)
+
+17
+00:02:39,250 --> 00:02:41,917
+(alarm buzzing)
+
+18
+00:02:59,513 --> 00:03:02,096
+(men grunting)
+
+19
+00:03:10,506 --> 00:03:13,328
+(gunshot booming)
+
+20
+00:03:13,328 --> 00:03:15,798
+(heavy breathing)
+
+21
+00:03:15,798 --> 00:03:17,068
+(gunshots popping)
+
+22
+00:03:17,068 --> 00:03:19,318
+(groaning)
+
+23
+00:03:23,773 --> 00:03:25,642
+- [Pursuer] Get him.
+
+24
+00:03:25,642 --> 00:03:27,818
+(gasping)
+
+25
+00:03:27,818 --> 00:03:29,351
+- No!
+
+26
+00:03:29,351 --> 00:03:31,527
+(whimpering)
+
+27
+00:03:31,527 --> 00:03:32,360
+No!
+
+28
+00:03:34,975 --> 00:03:35,808
+No!
+
+29
+00:03:36,929 --> 00:03:39,096
+(gasping)
+
+30
+00:03:40,697 --> 00:03:42,947
+(gurgling)
+
+31
+00:03:50,863 --> 00:03:53,302
+(thudding)
+
+32
+00:03:53,302 --> 00:03:55,469
+(gagging)
+
+33
+00:04:00,645 --> 00:04:01,478
+Caution.
+
+34
+00:04:02,395 --> 00:04:05,062
+(ominous music)
+
+35
+00:04:06,405 --> 00:04:07,238
+Caution.
+
+36
+00:04:08,819 --> 00:04:10,986
+(booming)
+
+37
+00:04:12,765 --> 00:04:14,170
+- [Radio Man] Orbit relay station.
+
+38
+00:04:14,170 --> 00:04:15,597
+This is orbit shuttle 1138
+
+39
+00:04:15,597 --> 00:04:17,462
+requesting clearance for reentry.
+
+40
+00:04:17,462 --> 00:04:19,913
+(rockets rumbling)
+
+41
+00:04:19,913 --> 00:04:21,410
+- [Woman] Ladies and gentlemen,
+
+42
+00:04:21,410 --> 00:04:23,160
+the Interplanetary Mining Corporation
+
+43
+00:04:23,160 --> 00:04:26,080
+advises passengers on
+their first visit to Mars
+
+44
+00:04:26,080 --> 00:04:28,110
+to wear sunglasses at all times.
+
+45
+00:04:28,110 --> 00:04:31,868
+Ultraviolet radiation may be
+harmful to unaccustomed eyes.
+
+46
+00:04:31,868 --> 00:04:34,868
+(machinery humming)
+
+47
+00:04:36,159 --> 00:04:37,985
+(pleasant music)
+
+48
+00:04:37,985 --> 00:04:42,030
+Company employees who will
+participate in mining operations
+
+49
+00:04:42,030 --> 00:04:43,834
+are reminded to purchase--
+
+50
+00:04:43,834 --> 00:04:46,140
+(rockets rumbling)
+
+51
+00:04:46,140 --> 00:04:48,023
+Although conditions
+similar to those on Earth
+
+52
+00:04:48,023 --> 00:04:50,335
+exist within Alpha City Dome,
+
+53
+00:04:50,335 --> 00:04:52,290
+the external atmosphere of Mars
+
+54
+00:04:52,290 --> 00:04:55,111
+remains a mix of poisonous gasses.
+
+55
+00:04:55,111 --> 00:04:56,069
+(rumbling)
+
+56
+00:04:56,069 --> 00:04:58,010
+To insure a safe and
+productive environment,
+
+57
+00:04:58,010 --> 00:05:00,150
+no children, infants or pregnant women
+
+58
+00:05:00,150 --> 00:05:02,790
+are allowed on the planet's surface.
+
+59
+00:05:02,790 --> 00:05:03,927
+Welcome to Mars,
+
+60
+00:05:03,927 --> 00:05:07,463
+the 21st century's most untamed frontier.
+
+61
+00:05:08,562 --> 00:05:11,312
+(dramatic music)
+
+62
+00:05:39,750 --> 00:05:40,780
+- [PA Announcer] Alpha City
+
+63
+00:05:40,780 --> 00:05:44,090
+is the heart of the Silex
+Mining Industry on Mars.
+
+64
+00:05:44,090 --> 00:05:44,923
+Silex,
+
+65
+00:05:44,923 --> 00:05:47,260
+the tectonic, high
+performance miracle fuel
+
+66
+00:05:47,260 --> 00:05:50,520
+is mined in a save environment
+by skilled laborers.
+
+67
+00:05:50,520 --> 00:05:54,580
+Over 200 tons of clean,
+environment friendly Silex
+
+68
+00:05:54,580 --> 00:05:56,370
+are processed from these mines everyday
+
+69
+00:05:56,370 --> 00:05:57,736
+for shipment to Earth.
+
+70
+00:05:57,736 --> 00:05:59,345
+(jackhammer buzzing)
+
+71
+00:05:59,345 --> 00:06:02,538
+(wind howling)
+
+72
+00:06:02,538 --> 00:06:04,531
+(ominous music)
+
+73
+00:06:04,531 --> 00:06:07,448
+(computer beeping)
+
+74
+00:06:09,613 --> 00:06:11,150
+Projectile firing weapons
+
+75
+00:06:11,150 --> 00:06:14,420
+are not permitted in Alpha
+City's pressurized environment.
+
+76
+00:06:14,420 --> 00:06:17,680
+All firearms must be deposited
+with security personnel
+
+77
+00:06:17,680 --> 00:06:20,127
+and will be returned to you on departure.
+
+78
+00:06:23,094 --> 00:06:24,720
+- [Female Announcer] Possession
+of controlled substance,
+
+79
+00:06:24,720 --> 00:06:26,760
+Z-Bite, is strictly prohibited.
+
+80
+00:06:26,760 --> 00:06:29,490
+Anyone found carrying
+Z-bite or any other drug
+
+81
+00:06:29,490 --> 00:06:31,463
+may face up to 10 years in prison.
+
+82
+00:06:38,021 --> 00:06:40,160
+(computer chiming)
+
+83
+00:06:40,160 --> 00:06:41,650
+- [Computer] Identity confirmed.
+
+84
+00:06:41,650 --> 00:06:42,730
+- [Woman] C. Templar.
+
+85
+00:06:42,730 --> 00:06:44,040
+Very interesting name.
+
+86
+00:06:44,040 --> 00:06:45,630
+What's it stand for?
+
+87
+00:06:45,630 --> 00:06:47,113
+Colin? Clive?
+
+88
+00:06:48,190 --> 00:06:49,681
+- Caution.
+
+89
+00:06:49,681 --> 00:06:51,848
+(beeping)
+
+90
+00:06:52,989 --> 00:06:54,968
+(coughing)
+
+91
+00:06:54,968 --> 00:06:56,552
+- Out!
+
+92
+00:06:56,552 --> 00:06:59,604
+(coughing)
+
+93
+00:06:59,604 --> 00:07:01,771
+(beeping)
+
+94
+00:07:03,086 --> 00:07:05,753
+(ominous music)
+
+95
+00:07:07,696 --> 00:07:10,900
+- Looks like our man has arrived on Mars.
+
+96
+00:07:10,900 --> 00:07:11,900
+- [Thug] Who is he, Ringo?
+
+97
+00:07:11,900 --> 00:07:13,080
+- A Keeper.
+
+98
+00:07:13,080 --> 00:07:14,860
+One of those holy boys
+
+99
+00:07:14,860 --> 00:07:17,274
+acting as a marshal for the company.
+
+100
+00:07:17,274 --> 00:07:18,641
+(coughing)
+
+101
+00:07:18,641 --> 00:07:19,474
+Somebody get this piece
+
+102
+00:07:19,474 --> 00:07:22,663
+of infected bio-garbage away from me!
+
+103
+00:07:23,860 --> 00:07:25,510
+Stage a little welcome for our keeper.
+
+104
+00:07:25,510 --> 00:07:26,940
+Make it look like a mugging.
+
+105
+00:07:26,940 --> 00:07:29,250
+Get some low-life dome punk to set it up.
+
+106
+00:07:29,250 --> 00:07:30,850
+Go!
+
+107
+00:07:30,850 --> 00:07:32,340
+(foreboding music)
+
+108
+00:07:32,340 --> 00:07:34,257
+(coughing)
+
+109
+00:07:34,257 --> 00:07:35,090
+- Okay.
+
+110
+00:07:35,090 --> 00:07:36,000
+Okay, I'll make a deal with you.
+
+111
+00:07:36,000 --> 00:07:36,950
+50 now, 50 later.
+
+112
+00:07:36,950 --> 00:07:39,303
+Come on, you know I'm
+good for it, Roxanne.
+
+113
+00:07:40,490 --> 00:07:41,323
+Hey, what do you say?
+
+114
+00:07:41,323 --> 00:07:43,070
+Half off for Boney, here.
+
+115
+00:07:43,070 --> 00:07:44,290
+Oh, well, forget it.
+
+116
+00:07:44,290 --> 00:07:45,580
+She's got Dome Plague.
+
+117
+00:07:45,580 --> 00:07:46,413
+Get out of here.
+
+118
+00:07:46,413 --> 00:07:48,267
+- Greenberg, got a job!
+
+119
+00:07:48,267 --> 00:07:49,180
+- Hold on, okay?
+
+120
+00:07:49,180 --> 00:07:50,940
+I'll be right there.
+
+121
+00:07:50,940 --> 00:07:51,773
+I will be back.
+
+122
+00:07:51,773 --> 00:07:53,220
+Do not go anywhere, okay?
+
+123
+00:07:53,220 --> 00:07:56,420
+I will be back faster than a
+miner's trick, lickety-split.
+
+124
+00:07:56,420 --> 00:07:57,543
+Wait for me, baby.
+
+125
+00:08:01,128 --> 00:08:02,027
+(electronic whooshing)
+
+126
+00:08:02,027 --> 00:08:03,200
+(beeping)
+
+127
+00:08:03,200 --> 00:08:04,070
+- [Guard] Get him!
+
+128
+00:08:04,070 --> 00:08:04,903
+Spread 'em!
+
+129
+00:08:04,903 --> 00:08:07,180
+Trying to sneak firearms
+into the dome, huh?
+
+130
+00:08:07,180 --> 00:08:08,753
+30 to life, if you're lucky!
+
+131
+00:08:12,466 --> 00:08:14,633
+(beeping)
+
+132
+00:08:15,855 --> 00:08:17,222
+- Go on.
+
+133
+00:08:17,222 --> 00:08:20,222
+(people chattering)
+
+134
+00:08:21,564 --> 00:08:24,231
+(ominous music)
+
+135
+00:08:30,235 --> 00:08:31,350
+- [Female Announcer] Welcome to the Dome.
+
+136
+00:08:31,350 --> 00:08:33,660
+For information, please
+follow the instructions
+
+137
+00:08:33,660 --> 00:08:34,920
+on the main menu.
+
+138
+00:08:34,920 --> 00:08:37,343
+Press "On" to select your destination.
+
+139
+00:08:38,940 --> 00:08:42,120
+For more information, make a selection.
+
+140
+00:08:42,120 --> 00:08:45,480
+The Lowell Memorial Hospital
+is located on Alpha Avenue
+
+141
+00:08:45,480 --> 00:08:47,080
+on the eastern side of the Dome.
+
+142
+00:08:50,886 --> 00:08:51,719
+- [Man] Stay put!
+
+143
+00:08:51,719 --> 00:08:53,466
+(thudding)
+
+144
+00:08:53,466 --> 00:08:56,383
+(women whimpering)
+
+145
+00:08:59,519 --> 00:09:02,602
+(ominous beat music)
+
+146
+00:09:09,754 --> 00:09:11,921
+(buzzing)
+
+147
+00:09:13,241 --> 00:09:16,158
+(foreboding music)
+
+148
+00:09:19,970 --> 00:09:21,133
+- This should be fun.
+
+149
+00:09:24,824 --> 00:09:27,074
+(thudding)
+
+150
+00:09:28,719 --> 00:09:30,033
+Welcome to Mars.
+
+151
+00:09:31,784 --> 00:09:32,617
+- Get out of my way!
+
+152
+00:09:32,617 --> 00:09:34,617
+Get out of my way! Move!
+
+153
+00:09:37,390 --> 00:09:38,223
+Move it!
+
+154
+00:09:41,756 --> 00:09:43,327
+(suspenseful music)
+
+155
+00:09:43,327 --> 00:09:46,762
+Here you go! Here you go!
+
+156
+00:09:46,762 --> 00:09:49,865
+Come on!
+
+157
+00:09:49,865 --> 00:09:51,948
+Here you go! Here you go!
+
+158
+00:09:54,054 --> 00:09:55,137
+Come on, man.
+
+159
+00:10:01,883 --> 00:10:03,505
+Come on, boy.
+
+160
+00:10:03,505 --> 00:10:04,744
+Come on, Keeper man.
+
+161
+00:10:04,744 --> 00:10:06,994
+(laughing)
+
+162
+00:10:08,593 --> 00:10:09,940
+Some easy credits.
+
+163
+00:10:09,940 --> 00:10:10,773
+Come on, man.
+
+164
+00:10:10,773 --> 00:10:11,606
+Come on.
+
+165
+00:10:14,938 --> 00:10:17,188
+(clicking)
+
+166
+00:10:18,386 --> 00:10:19,469
+There you go.
+
+167
+00:10:25,295 --> 00:10:26,378
+Look at that.
+
+168
+00:10:27,836 --> 00:10:30,503
+(ominous music)
+
+169
+00:10:34,171 --> 00:10:36,004
+This is gonna be good.
+
+170
+00:10:49,091 --> 00:10:51,203
+(rustling)
+
+171
+00:10:51,203 --> 00:10:53,453
+(thudding)
+
+172
+00:10:55,430 --> 00:10:57,755
+(banging)
+
+173
+00:10:57,755 --> 00:11:00,755
+(suspenseful music)
+
+174
+00:11:03,512 --> 00:11:04,345
+(thudding)
+
+175
+00:11:04,345 --> 00:11:06,214
+That didn't feel good.
+
+176
+00:11:06,214 --> 00:11:08,464
+(groaning)
+
+177
+00:11:12,676 --> 00:11:14,843
+(yelling)
+
+178
+00:11:17,529 --> 00:11:19,862
+(whooshing)
+
+179
+00:11:22,561 --> 00:11:24,728
+(yelling)
+
+180
+00:11:32,254 --> 00:11:33,087
+Hm?
+
+181
+00:11:37,656 --> 00:11:39,906
+(thudding)
+
+182
+00:11:43,610 --> 00:11:45,983
+You just saved my life.
+
+183
+00:11:45,983 --> 00:11:47,900
+That was close.
+
+184
+00:11:47,900 --> 00:11:48,733
+- I.D.
+
+185
+00:11:48,733 --> 00:11:50,163
+- What're you talking about?
+
+186
+00:11:52,407 --> 00:11:53,970
+Oh, do you mean this?
+
+187
+00:11:54,860 --> 00:11:55,693
+Is this your?
+
+188
+00:11:55,693 --> 00:11:56,733
+My god, it is.
+
+189
+00:11:57,605 --> 00:11:59,530
+You know, I was gonna give that back.
+
+190
+00:11:59,530 --> 00:12:01,360
+You know, being the
+noble citizen that I am,
+
+191
+00:12:01,360 --> 00:12:03,880
+I was gonna turn that into
+the proper authorities,
+
+192
+00:12:03,880 --> 00:12:04,990
+such as yourself.
+
+193
+00:12:04,990 --> 00:12:06,980
+So where's my reward?
+
+194
+00:12:06,980 --> 00:12:08,680
+- Who were those punks?
+
+195
+00:12:08,680 --> 00:12:10,590
+- I don't know what
+you're talking about, man.
+
+196
+00:12:10,590 --> 00:12:12,330
+Look, they just gave
+me a couple of credits
+
+197
+00:12:12,330 --> 00:12:14,370
+for a little bump and run, that's all.
+
+198
+00:12:14,370 --> 00:12:16,207
+Look, I didn't know they
+was gonna ambush you.
+
+199
+00:12:16,207 --> 00:12:18,212
+I didn't, honest injun.
+
+200
+00:12:18,212 --> 00:12:20,795
+(somber music)
+
+201
+00:12:41,519 --> 00:12:42,530
+- [Computer] Deceased.
+
+202
+00:12:42,530 --> 00:12:43,663
+- [Nurse] Erase file.
+
+203
+00:12:43,663 --> 00:12:44,496
+- [Computer] File erased.
+
+204
+00:12:44,496 --> 00:12:46,530
+- I'm looking for a patient, Ino Templar.
+
+205
+00:12:46,530 --> 00:12:47,930
+- I'm busy, come back later!
+
+206
+00:12:48,865 --> 00:12:52,282
+(computer keys clicking)
+
+207
+00:12:54,093 --> 00:12:56,600
+(ominous music)
+
+208
+00:12:56,600 --> 00:12:58,770
+Last Order member came in here was D.O.A.
+
+209
+00:13:06,001 --> 00:13:08,918
+(foreboding music)
+
+210
+00:13:09,761 --> 00:13:11,817
+(thudding)
+
+211
+00:13:11,817 --> 00:13:13,550
+- You got a computer.
+
+212
+00:13:13,550 --> 00:13:15,010
+Look it up.
+
+213
+00:13:15,010 --> 00:13:16,093
+Ino Templar.
+
+214
+00:13:21,160 --> 00:13:22,490
+- [Computer] Processing.
+
+215
+00:13:22,490 --> 00:13:23,323
+Processing.
+
+216
+00:13:23,323 --> 00:13:25,137
+- Cryo-support, section six.
+
+217
+00:13:26,619 --> 00:13:29,083
+(somber music)
+
+218
+00:13:29,083 --> 00:13:31,042
+(coughing)
+
+219
+00:13:31,042 --> 00:13:33,959
+- [Announcer] Entering section six.
+
+220
+00:13:37,683 --> 00:13:39,300
+- I got something for you, old friend.
+
+221
+00:13:39,300 --> 00:13:41,020
+Not yet, nose boy.
+
+222
+00:13:41,020 --> 00:13:42,620
+Info first.
+
+223
+00:13:42,620 --> 00:13:43,590
+Who is he?
+
+224
+00:13:43,590 --> 00:13:45,050
+- Company muscle.
+
+225
+00:13:45,050 --> 00:13:46,490
+Came looking for his brother.
+
+226
+00:13:46,490 --> 00:13:49,500
+Some cop that came in D.O.A. two days ago.
+
+227
+00:13:49,500 --> 00:13:51,170
+- [Greenberg] So the beau
+was looking for his bro?
+
+228
+00:13:51,170 --> 00:13:53,720
+- [Nose Boy] Had a card said
+he was some kind of Keeper.
+
+229
+00:13:53,720 --> 00:13:56,090
+- There must be something
+monumental afoot around here.
+
+230
+00:13:56,090 --> 00:13:58,720
+- All I know is that he got smoked good.
+
+231
+00:13:58,720 --> 00:14:00,660
+Execution style.
+
+232
+00:14:00,660 --> 00:14:01,890
+- Any booty involved?
+
+233
+00:14:01,890 --> 00:14:05,060
+- Word is it was a who
+satchel of something serious.
+
+234
+00:14:05,060 --> 00:14:06,400
+- Satchel full of what?
+
+235
+00:14:06,400 --> 00:14:07,233
+Credits?
+
+236
+00:14:08,110 --> 00:14:08,943
+Z-bite?
+
+237
+00:14:10,660 --> 00:14:11,783
+- I wish.
+
+238
+00:14:12,753 --> 00:14:15,600
+- You know, them Order boys are real bad.
+
+239
+00:14:15,600 --> 00:14:16,433
+- Order boys?
+
+240
+00:14:16,433 --> 00:14:20,990
+Order boys are raised on
+kung fu ninjaese, okie dokie.
+
+241
+00:14:20,990 --> 00:14:22,990
+- What you're saying is,
+
+242
+00:14:22,990 --> 00:14:26,180
+we got the Keeper coming to
+give his last rites to his bro.
+
+243
+00:14:26,180 --> 00:14:30,633
+We got a dirty cop with
+a bag full of goodies.
+
+244
+00:14:32,330 --> 00:14:34,423
+Oh, I smell a deal here somewhere.
+
+245
+00:14:35,345 --> 00:14:36,230
+(ominous music)
+
+246
+00:14:36,230 --> 00:14:38,820
+- [Announcer] Stay away
+from the glass partition.
+
+247
+00:14:38,820 --> 00:14:40,840
+Patients are in quarantine.
+
+248
+00:14:40,840 --> 00:14:44,200
+No physical contact with
+plague victims is allowed.
+
+249
+00:14:44,200 --> 00:14:46,941
+Martian plague virus is airborne.
+
+250
+00:14:46,941 --> 00:14:49,508
+(coughing)
+
+251
+00:14:49,508 --> 00:14:52,258
+(dramatic music)
+
+252
+00:15:12,830 --> 00:15:14,060
+Section six.
+
+253
+00:15:14,060 --> 00:15:15,463
+Cryogenic support.
+
+254
+00:15:20,790 --> 00:15:23,080
+- [Computer] Liquid
+nitrogen injection complete.
+
+255
+00:15:23,080 --> 00:15:25,484
+Memory download in progress.
+
+256
+00:15:25,484 --> 00:15:28,401
+(foreboding music)
+
+257
+00:15:47,597 --> 00:15:50,347
+(dramatic music)
+
+258
+00:15:55,311 --> 00:15:58,228
+(computer beeping)
+
+259
+00:16:09,575 --> 00:16:11,880
+(ominous music)
+
+260
+00:16:11,880 --> 00:16:13,670
+- Don't move a muscle.
+
+261
+00:16:13,670 --> 00:16:15,580
+Just turn around real slow
+
+262
+00:16:15,580 --> 00:16:17,583
+and go back the way you came.
+
+263
+00:16:18,690 --> 00:16:20,073
+- This man is my brother.
+
+264
+00:16:21,860 --> 00:16:23,803
+- You got any ID, brother?
+
+265
+00:16:36,830 --> 00:16:38,797
+I'd offer my condolences,
+
+266
+00:16:38,797 --> 00:16:42,141
+but you Order boys get
+paid to die, don't you?
+
+267
+00:16:42,141 --> 00:16:43,713
+- We solve Company problems.
+
+268
+00:16:44,690 --> 00:16:46,390
+- When you solve these problems
+
+269
+00:16:46,390 --> 00:16:48,213
+my work goes into double overtime.
+
+270
+00:16:49,220 --> 00:16:50,400
+- What happened to him?
+
+271
+00:16:50,400 --> 00:16:52,020
+- Multiple laser punctures,
+
+272
+00:16:52,020 --> 00:16:52,950
+bone fractures,
+
+273
+00:16:52,950 --> 00:16:54,870
+subcutaneous traumas.
+
+274
+00:16:54,870 --> 00:16:56,570
+Coup de grâce was a blaster wound.
+
+275
+00:16:57,500 --> 00:16:58,970
+It's a mob signature.
+
+276
+00:16:58,970 --> 00:17:00,890
+Usually destroys the memory.
+
+277
+00:17:00,890 --> 00:17:01,723
+- Did it?
+
+278
+00:17:02,920 --> 00:17:04,310
+- Don't know.
+
+279
+00:17:04,310 --> 00:17:05,600
+I won't know until tomorrow morning
+
+280
+00:17:05,600 --> 00:17:08,083
+because that's how long it's
+gonna take to download him.
+
+281
+00:17:10,970 --> 00:17:13,070
+- You don't care much for the law, do you?
+
+282
+00:17:13,920 --> 00:17:15,710
+- I don't mind the law.
+
+283
+00:17:15,710 --> 00:17:18,040
+It's the Order I'm not a big fan of.
+
+284
+00:17:18,040 --> 00:17:19,890
+Especially the way you people see it.
+
+285
+00:17:21,000 --> 00:17:22,083
+- I will be back.
+
+286
+00:17:24,850 --> 00:17:25,683
+- One way
+
+287
+00:17:26,620 --> 00:17:28,071
+or another.
+
+288
+00:17:28,071 --> 00:17:28,904
+(moaning)
+
+289
+00:17:28,904 --> 00:17:29,737
+- Faster, Z-bitch!
+
+290
+00:17:29,737 --> 00:17:31,282
+You know you love it!
+
+291
+00:17:31,282 --> 00:17:32,810
+(moaning)
+
+292
+00:17:32,810 --> 00:17:33,900
+- More!
+
+293
+00:17:33,900 --> 00:17:34,733
+Give me more!
+
+294
+00:17:34,733 --> 00:17:36,224
+Come on, I need it!
+
+295
+00:17:36,224 --> 00:17:38,290
+(groaning)
+
+296
+00:17:38,290 --> 00:17:40,362
+- Z-bite fix coming up.
+
+297
+00:17:40,362 --> 00:17:42,529
+(moaning)
+
+298
+00:17:43,363 --> 00:17:44,819
+- Come on!
+
+299
+00:17:44,819 --> 00:17:47,069
+(groaning)
+
+300
+00:17:49,289 --> 00:17:51,539
+(thudding)
+
+301
+00:17:53,184 --> 00:17:55,932
+(moaning)
+
+302
+00:17:55,932 --> 00:17:56,849
+- Get lost!
+
+303
+00:17:59,247 --> 00:18:01,240
+Get out, Z-head!
+
+304
+00:18:04,350 --> 00:18:05,600
+Oh, Roko.
+
+305
+00:18:05,600 --> 00:18:07,453
+Looks like that Keeper messed you up.
+
+306
+00:18:10,030 --> 00:18:11,820
+That Keeper just too fast for you?
+
+307
+00:18:11,820 --> 00:18:12,653
+(thudding)
+
+308
+00:18:12,653 --> 00:18:13,610
+Huh?
+
+309
+00:18:13,610 --> 00:18:14,597
+Keepers are fast like that.
+
+310
+00:18:14,597 --> 00:18:18,031
+You know, this kind of
+thing really pisses me off
+
+311
+00:18:18,031 --> 00:18:20,640
+and I'm in a very good mood.
+
+312
+00:18:20,640 --> 00:18:22,860
+So just a little punishment will do.
+
+313
+00:18:24,532 --> 00:18:26,831
+(groaning)
+
+314
+00:18:26,831 --> 00:18:27,906
+You're fired.
+
+315
+00:18:27,906 --> 00:18:30,239
+(chuckling)
+
+316
+00:18:32,848 --> 00:18:33,720
+- Hey, bub!
+
+317
+00:18:33,720 --> 00:18:34,810
+I'll carry your bag for you.
+
+318
+00:18:34,810 --> 00:18:35,880
+- [Caution] Get lost.
+
+319
+00:18:35,880 --> 00:18:37,790
+- Oh, don't shut me out.
+
+320
+00:18:37,790 --> 00:18:38,770
+Come on, Mr. Keeper, man.
+
+321
+00:18:38,770 --> 00:18:39,603
+I'm a good man to know.
+
+322
+00:18:39,603 --> 00:18:40,960
+I can help you with any problem.
+
+323
+00:18:40,960 --> 00:18:42,630
+Ask me anything.
+
+324
+00:18:42,630 --> 00:18:43,960
+Everybody knows I know everybody.
+
+325
+00:18:43,960 --> 00:18:45,860
+Everybody knows, Buckskin knows everybody.
+
+326
+00:18:45,860 --> 00:18:47,910
+Let me make a deal with you.
+
+327
+00:18:47,910 --> 00:18:49,910
+- A moment of your time.
+
+328
+00:18:50,967 --> 00:18:52,503
+Find a sandbox, kid.
+
+329
+00:18:54,090 --> 00:18:55,153
+- Catch you later, bub.
+
+330
+00:18:58,728 --> 00:18:59,828
+- When I was a Keeper,
+
+331
+00:19:01,170 --> 00:19:02,620
+we signed into company headquarters
+
+332
+00:19:02,620 --> 00:19:05,560
+before we started a sweep.
+
+333
+00:19:05,560 --> 00:19:06,760
+- Just got off the shuttle.
+
+334
+00:19:06,760 --> 00:19:08,150
+- Name's Bascom.
+
+335
+00:19:08,150 --> 00:19:09,833
+Chief of security, IP Mining.
+
+336
+00:19:14,420 --> 00:19:15,253
+Let's talk.
+
+337
+00:19:16,260 --> 00:19:17,510
+Why would the company send you here?
+
+338
+00:19:17,510 --> 00:19:19,966
+Or is there something I don't know about?
+
+339
+00:19:19,966 --> 00:19:21,093
+The company only sends a Keeper out
+
+340
+00:19:21,093 --> 00:19:23,043
+when things get out of hand.
+
+341
+00:19:23,043 --> 00:19:26,170
+- One of out men flatlined
+down here two days ago.
+
+342
+00:19:26,170 --> 00:19:27,003
+- I know.
+
+343
+00:19:27,003 --> 00:19:27,836
+Ino Templar.
+
+344
+00:19:27,836 --> 00:19:28,860
+So what's the connection?
+
+345
+00:19:28,860 --> 00:19:31,080
+- My name's Caution Templar.
+
+346
+00:19:31,080 --> 00:19:32,857
+He was my brother.
+
+347
+00:19:32,857 --> 00:19:33,690
+- Oh.
+
+348
+00:19:35,280 --> 00:19:36,493
+My condolences.
+
+349
+00:19:37,600 --> 00:19:38,590
+I shoulda realized.
+
+350
+00:19:38,590 --> 00:19:39,590
+You know, I knew your father.
+
+351
+00:19:39,590 --> 00:19:43,330
+I served under him 30 years ago
+when he was Order Commander.
+
+352
+00:19:43,330 --> 00:19:44,730
+Didn't know he had two sons.
+
+353
+00:19:45,710 --> 00:19:47,130
+The way it looks right now,
+
+354
+00:19:47,130 --> 00:19:49,523
+Ino coulda been mixing with bad company.
+
+355
+00:19:51,060 --> 00:19:51,893
+- What are you saying?
+
+356
+00:19:51,893 --> 00:19:54,150
+- I'm saying that witnesses
+saw him running away
+
+357
+00:19:54,150 --> 00:19:55,220
+with a satchel.
+
+358
+00:19:55,220 --> 00:19:57,080
+Coulda been something valuable.
+
+359
+00:19:57,080 --> 00:19:59,350
+Anyway, there's someone
+important who wants to meet you.
+
+360
+00:19:59,350 --> 00:20:00,665
+Come on.
+
+361
+00:20:00,665 --> 00:20:03,665
+(somber beat music)
+
+362
+00:20:15,010 --> 00:20:15,843
+Mr. Clement?
+
+363
+00:20:19,900 --> 00:20:21,380
+Caution Templar.
+
+364
+00:20:21,380 --> 00:20:23,980
+- Philip Clement, VP
+operations, here, in Alpha City.
+
+365
+00:20:23,980 --> 00:20:25,120
+Always a pleasure to host
+
+366
+00:20:25,120 --> 00:20:26,970
+one of our associates from the Order.
+
+367
+00:20:27,960 --> 00:20:29,030
+After all,
+
+368
+00:20:29,030 --> 00:20:30,560
+we like to think of our employees
+
+369
+00:20:30,560 --> 00:20:32,280
+as one big family.
+
+370
+00:20:32,280 --> 00:20:34,280
+We should help each other
+whenever there's a problem.
+
+371
+00:20:34,280 --> 00:20:35,290
+Although, I think you'll find
+
+372
+00:20:35,290 --> 00:20:38,380
+the criminal element in
+Alpha City is negligible.
+
+373
+00:20:38,380 --> 00:20:41,180
+Of course, the mining operation's
+running smoothly along.
+
+374
+00:20:41,180 --> 00:20:42,610
+And that's what we're about.
+
+375
+00:20:42,610 --> 00:20:43,910
+Silex, once refined,
+
+376
+00:20:43,910 --> 00:20:46,760
+is the most efficient natural fuel found
+
+377
+00:20:46,760 --> 00:20:48,390
+anywhere in the system.
+
+378
+00:20:48,390 --> 00:20:49,573
+Please, sit, gentlemen.
+
+379
+00:20:53,140 --> 00:20:55,250
+Tell me, Caution, why
+were you sent down here?
+
+380
+00:20:55,250 --> 00:20:57,900
+- I'm here to investigate a murder.
+
+381
+00:20:57,900 --> 00:21:01,370
+- Templar's brother, Ino,
+was on assignment here, sir.
+
+382
+00:21:01,370 --> 00:21:03,810
+Somebody killed him two days ago.
+
+383
+00:21:03,810 --> 00:21:05,430
+- I'm so sorry.
+
+384
+00:21:05,430 --> 00:21:06,480
+I didn't know your brother well
+
+385
+00:21:06,480 --> 00:21:08,760
+but well enough to know
+that he was a good man.
+
+386
+00:21:08,760 --> 00:21:11,160
+And I don't, for a minute,
+believe those rumors.
+
+387
+00:21:13,710 --> 00:21:15,610
+If there's anything we can
+do, I mean anything at all,
+
+388
+00:21:15,610 --> 00:21:16,980
+you just tell me.
+
+389
+00:21:16,980 --> 00:21:19,980
+- Your brother had a
+room at the Nostromo Inn.
+
+390
+00:21:19,980 --> 00:21:22,420
+I suppose you'll wanna start
+you investigation there.
+
+391
+00:21:22,420 --> 00:21:25,860
+We can arrange to have you stay
+there while you're in town.
+
+392
+00:21:25,860 --> 00:21:27,120
+- Of course.
+
+393
+00:21:27,120 --> 00:21:29,213
+And the door to my office is always open.
+
+394
+00:21:30,094 --> 00:21:33,761
+(electron video game music)
+
+395
+00:21:41,790 --> 00:21:43,747
+- [Announcer] Welcome to the Nostromo Inn.
+
+396
+00:21:43,747 --> 00:21:48,747
+Serving satisfied customers
+since the Great Silex Rush.
+
+397
+00:21:48,830 --> 00:21:51,247
+- I think you got a customer.
+
+398
+00:21:54,240 --> 00:21:55,443
+- I can see you, Keeper.
+
+399
+00:22:00,620 --> 00:22:01,980
+- Ino Templar's old room.
+
+400
+00:22:01,980 --> 00:22:03,450
+I have company clearance.
+
+401
+00:22:03,450 --> 00:22:04,860
+- Sure.
+
+402
+00:22:04,860 --> 00:22:06,045
+Here it is.
+
+403
+00:22:06,045 --> 00:22:07,422
+Keeper room seven.
+
+404
+00:22:07,422 --> 00:22:10,372
+(laughing)
+
+405
+00:22:10,372 --> 00:22:11,205
+Come here, honey.
+
+406
+00:22:11,205 --> 00:22:12,038
+Come here.
+
+407
+00:22:12,038 --> 00:22:13,870
+Hey, want some poochie?
+
+408
+00:22:13,870 --> 00:22:15,403
+Very young poochie.
+
+409
+00:22:16,520 --> 00:22:18,167
+Retro-virgin.
+
+410
+00:22:18,167 --> 00:22:19,580
+(laughing)
+
+411
+00:22:19,580 --> 00:22:21,590
+- I'm not interested. Give me the key.
+
+412
+00:22:21,590 --> 00:22:23,007
+- Not interested?
+
+413
+00:22:23,007 --> 00:22:26,443
+(ominous music)
+
+414
+00:22:26,443 --> 00:22:29,110
+(knife slicing)
+
+415
+00:22:32,100 --> 00:22:33,498
+- You don't wanna do this.
+
+416
+00:22:33,498 --> 00:22:34,860
+- Oh,
+
+417
+00:22:34,860 --> 00:22:35,796
+I think we do.
+
+418
+00:22:35,796 --> 00:22:36,964
+(knife swishing)
+
+419
+00:22:36,964 --> 00:22:38,458
+(thudding)
+
+420
+00:22:38,458 --> 00:22:40,379
+(groaning)
+
+421
+00:22:40,379 --> 00:22:41,541
+(yelling)
+
+422
+00:22:41,541 --> 00:22:44,287
+(glass shattering)
+
+423
+00:22:44,287 --> 00:22:46,514
+(suspenseful music)
+
+424
+00:22:46,514 --> 00:22:48,681
+(yelling)
+
+425
+00:22:52,159 --> 00:22:55,076
+(glass shattering)
+
+426
+00:22:57,101 --> 00:22:59,502
+- What do you know about a cop
+getting blasted two days ago?
+
+427
+00:22:59,502 --> 00:23:00,410
+Huh?
+
+428
+00:23:00,410 --> 00:23:01,243
+- I don't know a thing.
+
+429
+00:23:01,243 --> 00:23:03,220
+I aint heard no word on that, man.
+
+430
+00:23:03,220 --> 00:23:04,140
+- Everybody heard about it.
+
+431
+00:23:04,140 --> 00:23:04,973
+Who did it?
+
+432
+00:23:04,973 --> 00:23:06,322
+- Coulda been anybody.
+
+433
+00:23:06,322 --> 00:23:07,770
+You got your Z-heads,
+
+434
+00:23:07,770 --> 00:23:09,489
+and your smugglers.
+
+435
+00:23:09,489 --> 00:23:10,380
+Your pimps.
+
+436
+00:23:10,380 --> 00:23:13,052
+Nobody likes the law around here, man.
+
+437
+00:23:13,052 --> 00:23:14,419
+Nobody!
+
+438
+00:23:14,419 --> 00:23:16,079
+(foreboding music)
+
+439
+00:23:16,079 --> 00:23:18,812
+The boss promised me a bonus
+if you're dead before sundown.
+
+440
+00:23:18,812 --> 00:23:21,062
+(groaning)
+
+441
+00:23:23,077 --> 00:23:24,330
+- Who's your boss?
+
+442
+00:23:24,330 --> 00:23:25,590
+- I can't tell you, man.
+
+443
+00:23:25,590 --> 00:23:26,477
+He'll kill me.
+
+444
+00:23:26,477 --> 00:23:27,713
+(yelling)
+
+445
+00:23:27,713 --> 00:23:29,010
+All right, all right.
+
+446
+00:23:29,010 --> 00:23:29,980
+Ike Ringo.
+
+447
+00:23:29,980 --> 00:23:31,685
+- Where do I find him?
+
+448
+00:23:31,685 --> 00:23:32,518
+Where?
+
+449
+00:23:32,518 --> 00:23:33,351
+(bones cracking)
+
+450
+00:23:33,351 --> 00:23:34,184
+- The Silex Nugget down the strip.
+
+451
+00:23:36,753 --> 00:23:37,586
+- Nice to meet you.
+
+452
+00:23:37,586 --> 00:23:38,850
+Happy holidays!
+
+453
+00:23:38,850 --> 00:23:41,100
+Hey, babe, listen.
+
+454
+00:23:41,100 --> 00:23:43,400
+The Buckskin's gonna be
+rolling in the credits now.
+
+455
+00:23:43,400 --> 00:23:45,290
+See, I hooked up with this Keeper
+
+456
+00:23:45,290 --> 00:23:49,473
+and word has it there's a
+satchel full of Z-bite to be had.
+
+457
+00:23:50,350 --> 00:23:52,400
+You like that, don't you?
+
+458
+00:23:52,400 --> 00:23:53,560
+See, if you stick with me,
+
+459
+00:23:53,560 --> 00:23:55,760
+I'll get you off this
+disease-ridden planet.
+
+460
+00:23:57,190 --> 00:23:58,200
+Hey, beau!
+
+461
+00:23:58,200 --> 00:23:59,520
+I'll catch you later, babe.
+
+462
+00:23:59,520 --> 00:24:00,353
+Gotta go!
+
+463
+00:24:01,790 --> 00:24:04,182
+Hey, beau, Buckskin
+Greenberg at your service.
+
+464
+00:24:04,182 --> 00:24:06,110
+I'm telling you, beau, nobody,
+
+465
+00:24:06,110 --> 00:24:08,130
+nobody knows this dome like me.
+
+466
+00:24:08,130 --> 00:24:11,340
+Of course, any good
+Alphin, such as myself,
+
+467
+00:24:11,340 --> 00:24:12,813
+they don't just pop out of an incutube,
+
+468
+00:24:12,813 --> 00:24:14,963
+they need to be nurtured, incentified.
+
+469
+00:24:15,880 --> 00:24:17,750
+A place like this could
+be a regular credit line.
+
+470
+00:24:17,750 --> 00:24:19,300
+You and me hook up,
+
+471
+00:24:19,300 --> 00:24:20,840
+we could run it right.
+
+472
+00:24:20,840 --> 00:24:22,640
+Oh, beau, you gotta
+love modern technology.
+
+473
+00:24:22,640 --> 00:24:23,473
+Look at this.
+
+474
+00:24:23,473 --> 00:24:24,480
+This is a Jenny Max Joy.
+
+475
+00:24:24,480 --> 00:24:25,475
+Hey, baby.
+
+476
+00:24:25,475 --> 00:24:28,470
+Hey, beau, I checked her out personally.
+
+477
+00:24:28,470 --> 00:24:30,040
+Hey, there's not one original part left
+
+478
+00:24:30,040 --> 00:24:31,960
+on that pleasure pinata.
+
+479
+00:24:31,960 --> 00:24:34,740
+Beau, is it true that
+Keepers never bump uglies?
+
+480
+00:24:34,740 --> 00:24:36,850
+You know, do the nasty?
+
+481
+00:24:36,850 --> 00:24:37,700
+Horizontal mambo?
+
+482
+00:24:39,673 --> 00:24:41,295
+- Wait! Wait!
+
+483
+00:24:41,295 --> 00:24:42,128
+- Oh,
+
+484
+00:24:42,128 --> 00:24:43,453
+the Silex Nugget.
+
+485
+00:24:43,453 --> 00:24:45,870
+(beat music)
+
+486
+00:24:51,198 --> 00:24:53,948
+(club commotion)
+
+487
+00:24:56,273 --> 00:24:57,870
+- Hey, miners only!
+
+488
+00:24:57,870 --> 00:24:58,703
+Dome rat.
+
+489
+00:24:58,703 --> 00:25:00,330
+- Hey, cool your boosters, King Kong.
+
+490
+00:25:00,330 --> 00:25:01,343
+I'm with the Keeper.
+
+491
+00:25:04,560 --> 00:25:06,784
+Keep your grimy paws off.
+
+492
+00:25:06,784 --> 00:25:09,201
+(beat music)
+
+493
+00:25:12,390 --> 00:25:14,973
+(men laughing)
+
+494
+00:25:33,810 --> 00:25:34,643
+Beau!
+
+495
+00:25:34,643 --> 00:25:35,476
+- [Caution] Is that him?
+
+496
+00:25:35,476 --> 00:25:36,309
+- The bald guy?
+
+497
+00:25:36,309 --> 00:25:38,588
+No, that aint Ringo. That's Fargo.
+
+498
+00:25:38,588 --> 00:25:39,421
+No.
+
+499
+00:25:39,421 --> 00:25:42,277
+You don't wanna rattle their cage.
+
+500
+00:25:42,277 --> 00:25:43,530
+- All right, man, you play the hand,
+
+501
+00:25:43,530 --> 00:25:44,907
+you're stupid after all.
+
+502
+00:25:44,907 --> 00:25:47,157
+(laughing)
+
+503
+00:25:50,263 --> 00:25:52,960
+(ominous music)
+
+504
+00:25:52,960 --> 00:25:54,510
+What do you want, Keeper creep?
+
+505
+00:25:55,665 --> 00:25:56,973
+Lap dance is over there.
+
+506
+00:25:57,938 --> 00:25:59,838
+Bet you Keepers don't even like girls.
+
+507
+00:26:05,690 --> 00:26:07,747
+- Where's Ike Ringo?
+
+508
+00:26:07,747 --> 00:26:09,241
+- Ike, who?
+
+509
+00:26:09,241 --> 00:26:11,438
+Never heard of him.
+
+510
+00:26:11,438 --> 00:26:14,337
+(ominous music)
+
+511
+00:26:14,337 --> 00:26:16,087
+What're you gonna do?
+
+512
+00:26:16,955 --> 00:26:17,788
+Arrest me?
+
+513
+00:26:18,628 --> 00:26:20,878
+(laughing)
+
+514
+00:26:23,703 --> 00:26:25,146
+(glass shattering)
+
+515
+00:26:25,146 --> 00:26:25,979
+- Greasy bastard!
+
+516
+00:26:25,979 --> 00:26:27,560
+Like I said,
+
+517
+00:26:27,560 --> 00:26:28,530
+Ike Ringo!
+
+518
+00:26:28,530 --> 00:26:30,020
+- I don't know.
+
+519
+00:26:30,020 --> 00:26:33,120
+What do you think, he
+hangs out with you cops?
+
+520
+00:26:33,120 --> 00:26:33,953
+- Find out
+
+521
+00:26:33,953 --> 00:26:35,608
+and tell him I want him.
+
+522
+00:26:35,608 --> 00:26:36,441
+You got that?
+
+523
+00:26:36,441 --> 00:26:37,274
+- Yeah.
+
+524
+00:26:37,274 --> 00:26:38,107
+- Huh?
+
+525
+00:26:38,107 --> 00:26:38,940
+- Yeah!
+
+526
+00:26:40,178 --> 00:26:41,120
+(swishing)
+
+527
+00:26:41,120 --> 00:26:42,193
+(groaning)
+
+528
+00:26:42,193 --> 00:26:44,164
+(thudding)
+
+529
+00:26:44,164 --> 00:26:46,195
+(yelling)
+
+530
+00:26:46,195 --> 00:26:47,411
+- [Buckskin] Look out!
+
+531
+00:26:47,411 --> 00:26:48,560
+(thudding)
+
+532
+00:26:48,560 --> 00:26:51,477
+(glass shattering)
+
+533
+00:26:56,810 --> 00:26:58,381
+- Come on, bastard!
+
+534
+00:26:58,381 --> 00:27:00,631
+(thudding)
+
+535
+00:27:02,800 --> 00:27:04,281
+(glass shattering)
+
+536
+00:27:04,281 --> 00:27:05,273
+- Way to go!
+
+537
+00:27:05,273 --> 00:27:06,386
+Let's go! Let's go!
+
+538
+00:27:06,386 --> 00:27:07,287
+Come on!
+
+539
+00:27:07,287 --> 00:27:08,723
+Way to kick some butt!
+
+540
+00:27:11,490 --> 00:27:14,990
+- This Keeper's starting
+to stick in my craw!
+
+541
+00:27:14,990 --> 00:27:16,110
+He digs any deeper,
+
+542
+00:27:16,110 --> 00:27:18,550
+he might discover our dirty little secret.
+
+543
+00:27:18,550 --> 00:27:20,550
+Get our best guys together.
+
+544
+00:27:20,550 --> 00:27:23,380
+I want that brother's memory chip!
+
+545
+00:27:23,380 --> 00:27:24,890
+I'm going with you.
+
+546
+00:27:24,890 --> 00:27:26,610
+If you screw this up,
+
+547
+00:27:26,610 --> 00:27:28,580
+just throw yourself off the skywalk,
+
+548
+00:27:28,580 --> 00:27:29,593
+save me the trouble.
+
+549
+00:27:32,061 --> 00:27:33,759
+- [Announcer] Here at Nostromo Inn,
+
+550
+00:27:33,759 --> 00:27:37,131
+you pleasure is our highest priority.
+
+551
+00:27:37,131 --> 00:27:38,960
+Indulge yourselves
+
+552
+00:27:38,960 --> 00:27:42,773
+with our selection of our
+Jenny-Max enhanced playmates.
+
+553
+00:27:45,580 --> 00:27:47,164
+- [Computer] Access granted.
+
+554
+00:27:47,164 --> 00:27:47,997
+Enter.
+
+555
+00:27:51,630 --> 00:27:52,463
+- Lights.
+
+556
+00:27:54,850 --> 00:27:55,836
+Closet.
+
+557
+00:27:55,836 --> 00:27:58,003
+(beeping)
+
+558
+00:27:59,488 --> 00:28:02,571
+(electronic buzzing)
+
+559
+00:28:08,849 --> 00:28:11,516
+(ominous music)
+
+560
+00:28:19,270 --> 00:28:20,887
+Z-bite.
+
+561
+00:28:20,887 --> 00:28:23,637
+(dramatic music)
+
+562
+00:28:31,678 --> 00:28:33,928
+(knocking)
+
+563
+00:28:36,470 --> 00:28:37,970
+- Beau, it's me, it's Buckskin!
+
+564
+00:28:37,970 --> 00:28:40,620
+Come on, you told me to meet
+you here in a half hour.
+
+565
+00:28:41,630 --> 00:28:43,020
+I am really being serious.
+
+566
+00:28:43,020 --> 00:28:44,060
+I wanna be a Keeper.
+
+567
+00:28:44,060 --> 00:28:45,130
+I really wanna be a Keeper.
+
+568
+00:28:45,130 --> 00:28:46,190
+You gotta hook me up.
+
+569
+00:28:46,190 --> 00:28:48,830
+You guys got the slickest
+scam going in town.
+
+570
+00:28:48,830 --> 00:28:50,248
+I mean, you're going,
+you do a little bruising,
+
+571
+00:28:50,248 --> 00:28:51,630
+and then you get whatever you want.
+
+572
+00:28:51,630 --> 00:28:53,700
+Look, you've really gained my respect.
+
+573
+00:28:53,700 --> 00:28:54,533
+I like it.
+
+574
+00:28:54,533 --> 00:28:56,600
+I mean, I really, really like it.
+
+575
+00:28:56,600 --> 00:28:57,900
+- It's not what you think!
+
+576
+00:28:59,630 --> 00:29:00,560
+- Beau!
+
+577
+00:29:00,560 --> 00:29:01,930
+Beau, come on!
+
+578
+00:29:01,930 --> 00:29:04,130
+- [Computer] Mineral analysis complete.
+
+579
+00:29:04,130 --> 00:29:07,680
+Comparison with damaged
+human DNA complete.
+
+580
+00:29:07,680 --> 00:29:09,652
+Results negative.
+
+581
+00:29:09,652 --> 00:29:10,763
+Negative.
+
+582
+00:29:10,763 --> 00:29:11,596
+Negative.
+
+583
+00:29:16,970 --> 00:29:18,927
+- Give me a cross molecular
+comparative analysis
+
+584
+00:29:18,927 --> 00:29:21,450
+wit all local geology on record
+
+585
+00:29:21,450 --> 00:29:22,840
+versus tissue samples
+
+586
+00:29:24,240 --> 00:29:25,940
+A-23...
+
+587
+00:29:29,940 --> 00:29:31,930
+Through T-630.
+
+588
+00:29:31,930 --> 00:29:34,088
+(beeping)
+
+589
+00:29:34,088 --> 00:29:36,530
+(ominous music)
+
+590
+00:29:36,530 --> 00:29:37,493
+- [Computer] Processing.
+
+591
+00:29:41,623 --> 00:29:42,790
+(gasping)
+
+592
+00:29:42,790 --> 00:29:44,157
+(sighing)
+
+593
+00:29:44,157 --> 00:29:46,420
+- Man, you've gotta make a
+noise when you walk in a room,
+
+594
+00:29:46,420 --> 00:29:47,253
+or something.
+
+595
+00:29:49,420 --> 00:29:50,870
+- What's the status with Ino?
+
+596
+00:29:51,770 --> 00:29:52,823
+- He's still dead.
+
+597
+00:29:55,810 --> 00:29:56,810
+Sorry.
+
+598
+00:29:56,810 --> 00:29:58,280
+Just me and the boys.
+
+599
+00:29:58,280 --> 00:30:00,513
+Conversations are few and far between.
+
+600
+00:30:01,540 --> 00:30:04,153
+Ino's memory download should
+take another minute or so.
+
+601
+00:30:05,507 --> 00:30:07,530
+- [Computer] Analysis initiated.
+
+602
+00:30:07,530 --> 00:30:08,740
+- What's all this?
+
+603
+00:30:08,740 --> 00:30:10,260
+- It's research.
+
+604
+00:30:10,260 --> 00:30:11,530
+I've been trying to
+figure out what's making
+
+605
+00:30:11,530 --> 00:30:13,850
+everybody on this planet so sick.
+
+606
+00:30:13,850 --> 00:30:15,750
+The company says that it's airborne.
+
+607
+00:30:15,750 --> 00:30:17,830
+That the re-breather's help.
+
+608
+00:30:17,830 --> 00:30:19,137
+I don't buy it.
+
+609
+00:30:21,620 --> 00:30:22,720
+- [Computer] Negative.
+
+610
+00:30:26,853 --> 00:30:28,810
+- I've got a holoframe here.
+
+611
+00:30:28,810 --> 00:30:29,813
+Do you have an IEM?
+
+612
+00:30:30,980 --> 00:30:32,400
+- Image Enhancement Module?
+
+613
+00:30:32,400 --> 00:30:34,590
+Yeah, it's old and outdated
+like everything else around here
+
+614
+00:30:34,590 --> 00:30:36,355
+but it works.
+
+615
+00:30:36,355 --> 00:30:37,188
+Why?
+
+616
+00:30:37,188 --> 00:30:38,103
+What're you gonna do?
+
+617
+00:30:39,347 --> 00:30:41,400
+- The picture file that
+was in this holoframe
+
+618
+00:30:41,400 --> 00:30:42,700
+has been deleted.
+
+619
+00:30:42,700 --> 00:30:45,700
+But the image burns into the
+surface of the glass over time.
+
+620
+00:30:47,390 --> 00:30:49,820
+The IM will make it visible to the eye.
+
+621
+00:30:49,820 --> 00:30:52,010
+- I thought all you keepers
+did was break bones,
+
+622
+00:30:52,010 --> 00:30:53,280
+bust up people.
+
+623
+00:30:53,280 --> 00:30:54,990
+You know, loyal to the company.
+
+624
+00:30:54,990 --> 00:30:56,360
+The company is God.
+
+625
+00:30:56,360 --> 00:30:58,010
+Order is your family.
+
+626
+00:30:58,010 --> 00:30:59,610
+Not very impressed by any of it.
+
+627
+00:31:00,839 --> 00:31:02,023
+- If that's true,
+
+628
+00:31:04,270 --> 00:31:05,763
+then why are you here, doc?
+
+629
+00:31:07,240 --> 00:31:08,343
+- Why is anybody here?
+
+630
+00:31:09,820 --> 00:31:10,900
+Bad luck.
+
+631
+00:31:10,900 --> 00:31:11,763
+Bad timing.
+
+632
+00:31:12,640 --> 00:31:15,168
+Nobody comes to Mars for a tan.
+
+633
+00:31:15,168 --> 00:31:17,168
+Everybody's running away from something.
+
+634
+00:31:18,410 --> 00:31:20,010
+- [Computer] Stay away
+from the glass partition.
+
+635
+00:31:20,010 --> 00:31:21,810
+- Let's go, guys!
+
+636
+00:31:21,810 --> 00:31:22,938
+Get the disk!
+
+637
+00:31:22,938 --> 00:31:25,605
+(ominous music)
+
+638
+00:31:27,480 --> 00:31:28,600
+- [Doc] Wow!
+
+639
+00:31:28,600 --> 00:31:29,870
+That's impressive.
+
+640
+00:31:29,870 --> 00:31:30,703
+- Print.
+
+641
+00:31:30,703 --> 00:31:32,215
+- [Computer] Printing.
+
+642
+00:31:32,215 --> 00:31:34,882
+(ominous music)
+
+643
+00:31:38,020 --> 00:31:39,153
+- Very impressive.
+
+644
+00:31:40,330 --> 00:31:43,293
+(foreboding music)
+
+645
+00:31:43,293 --> 00:31:44,230
+(whooshing)
+
+646
+00:31:44,230 --> 00:31:45,450
+(thudding)
+
+647
+00:31:45,450 --> 00:31:46,373
+Ino's memory disk.
+
+648
+00:31:49,249 --> 00:31:52,332
+(fighting commotion)
+
+649
+00:31:54,511 --> 00:31:57,428
+(glass shattering)
+
+650
+00:31:58,907 --> 00:31:59,740
+- [Radio Dispatcher] Security.
+
+651
+00:31:59,740 --> 00:32:01,599
+Disturbance at the hospital, section six,
+
+652
+00:32:01,599 --> 00:32:02,881
+Cryo Support.
+
+653
+00:32:02,881 --> 00:32:04,802
+(ominous music)
+
+654
+00:32:04,802 --> 00:32:06,360
+- Come on! Come on!
+
+655
+00:32:06,360 --> 00:32:09,027
+(alarm beeping)
+
+656
+00:32:10,025 --> 00:32:11,609
+- [Computer] Memory disc ejected.
+
+657
+00:32:11,609 --> 00:32:12,526
+- The disc!
+
+658
+00:32:14,832 --> 00:32:17,195
+(thudding)
+
+659
+00:32:17,195 --> 00:32:19,902
+(suspenseful music)
+
+660
+00:32:19,902 --> 00:32:22,679
+(groaning)
+
+661
+00:32:22,679 --> 00:32:23,512
+- [Ringo] Fuck the disc!
+
+662
+00:32:23,512 --> 00:32:25,345
+Let's get out of here!
+
+663
+00:32:26,837 --> 00:32:27,670
+(yelling)
+
+664
+00:32:27,670 --> 00:32:30,372
+(electrical fizzling)
+
+665
+00:32:30,372 --> 00:32:32,645
+(glass shattering)
+
+666
+00:32:32,645 --> 00:32:35,396
+(suspenseful music)
+
+667
+00:32:35,396 --> 00:32:36,801
+- Hey!
+
+668
+00:32:36,801 --> 00:32:37,720
+Templar!
+
+669
+00:32:37,720 --> 00:32:39,070
+Caution Templar!
+
+670
+00:32:39,070 --> 00:32:41,488
+You don't think we got enough
+casualties around here, son?
+
+671
+00:32:41,488 --> 00:32:42,816
+You listen to me, Caution.
+
+672
+00:32:42,816 --> 00:32:44,040
+I may not be on the roles anymore,
+
+673
+00:32:44,040 --> 00:32:45,940
+but you aint dealing with an old fool.
+
+674
+00:32:47,930 --> 00:32:50,810
+We both work for the company
+first, last and forever.
+
+675
+00:32:50,810 --> 00:32:52,300
+I'm the shepherd of this dome
+
+676
+00:32:52,300 --> 00:32:53,860
+and you're a company attack dog.
+
+677
+00:32:53,860 --> 00:32:55,750
+When the Company tells
+you to sit, you sit.
+
+678
+00:32:55,750 --> 00:32:58,180
+When the Company tells
+you to heel, you heel.
+
+679
+00:32:58,180 --> 00:32:59,940
+Right now we don't need your teeth.
+
+680
+00:32:59,940 --> 00:33:01,560
+- My brother's dead.
+
+681
+00:33:01,560 --> 00:33:03,400
+Someone's gotta pay the bill.
+
+682
+00:33:03,400 --> 00:33:05,860
+- You're gonna pay for it if
+you don't leave Alpha City.
+
+683
+00:33:05,860 --> 00:33:08,860
+I strongly suggest you get on
+the first shuttle out of here.
+
+684
+00:33:09,960 --> 00:33:11,360
+- [Computer] Access granted.
+
+685
+00:33:13,850 --> 00:33:15,153
+- Security close.
+
+686
+00:33:16,996 --> 00:33:19,746
+(dramatic music)
+
+687
+00:33:24,010 --> 00:33:24,843
+Playback.
+
+688
+00:33:27,865 --> 00:33:30,151
+- [Child] Mommy, where are you?
+
+689
+00:33:30,151 --> 00:33:31,568
+Mommy, I see you.
+
+690
+00:33:32,641 --> 00:33:37,494
+I see you.
+
+691
+00:33:37,494 --> 00:33:40,327
+(people cheering)
+
+692
+00:33:45,450 --> 00:33:46,945
+- Your turn, Ino.
+
+693
+00:33:46,945 --> 00:33:49,612
+(ominous music)
+
+694
+00:33:50,469 --> 00:33:51,302
+Keep your balance!
+
+695
+00:33:51,302 --> 00:33:53,828
+Be more like your brother!
+
+696
+00:33:53,828 --> 00:33:55,782
+- Fast forward.
+
+697
+00:33:55,782 --> 00:33:58,022
+(suspenseful music)
+
+698
+00:33:58,022 --> 00:33:58,855
+- Oh, Ino.
+
+699
+00:34:03,010 --> 00:34:04,446
+- [Ino] I did wrong.
+
+700
+00:34:04,446 --> 00:34:05,685
+I broke the code.
+
+701
+00:34:05,685 --> 00:34:06,518
+But I won't,
+
+702
+00:34:06,518 --> 00:34:08,303
+I won't let you kill her!
+
+703
+00:34:08,303 --> 00:34:09,874
+- [Computer] File corrupted.
+
+704
+00:34:09,874 --> 00:34:11,368
+Remainder deleted.
+
+705
+00:34:11,368 --> 00:34:14,035
+(ominous music)
+
+706
+00:34:23,220 --> 00:34:24,053
+(beeping)
+
+707
+00:34:24,053 --> 00:34:25,690
+- Security open.
+
+708
+00:34:25,690 --> 00:34:27,540
+- [Computer] Voice pattern confirmed.
+
+709
+00:34:33,050 --> 00:34:33,883
+- Lights.
+
+710
+00:34:36,208 --> 00:34:37,041
+Computer.
+
+711
+00:34:37,041 --> 00:34:39,370
+(beeping)
+
+712
+00:34:39,370 --> 00:34:40,290
+Messages.
+
+713
+00:34:40,290 --> 00:34:41,540
+- [Computer] No messages.
+
+714
+00:34:43,344 --> 00:34:46,810
+(menacing music)
+
+715
+00:34:46,810 --> 00:34:47,960
+Sani-spray ready.
+
+716
+00:34:47,960 --> 00:34:50,156
+Water temperature 78 degrees.
+
+717
+00:34:50,156 --> 00:34:52,080
+- [Doc's Voice Recording] Security Open.
+
+718
+00:34:52,080 --> 00:34:53,758
+- [Computer] Voice pattern confirmed.
+
+719
+00:34:53,758 --> 00:34:55,175
+- Go, go, go, go.
+
+720
+00:34:56,159 --> 00:34:58,240
+(suspenseful music)
+
+721
+00:34:58,240 --> 00:34:59,773
+- Shit!
+
+722
+00:34:59,773 --> 00:35:01,816
+Oh no!
+
+723
+00:35:01,816 --> 00:35:02,649
+(buzzing)
+
+724
+00:35:02,649 --> 00:35:04,043
+- Come here, baby!
+
+725
+00:35:04,043 --> 00:35:06,278
+(whimpering)
+
+726
+00:35:06,278 --> 00:35:07,337
+(electrical fizzling)
+
+727
+00:35:07,337 --> 00:35:09,750
+- You know, a smart med-co like you
+
+728
+00:35:09,750 --> 00:35:11,030
+oughta know enough
+
+729
+00:35:11,030 --> 00:35:13,034
+to keep her nose out of politics.
+
+730
+00:35:13,034 --> 00:35:15,620
+You oughta stick with cryo-support.
+
+731
+00:35:15,620 --> 00:35:17,600
+Keep the bodies breathing.
+
+732
+00:35:17,600 --> 00:35:21,136
+Keep her own body breathing.
+(electrical fizzling)
+
+733
+00:35:21,136 --> 00:35:22,303
+- Here you go.
+
+734
+00:35:23,933 --> 00:35:25,034
+- Nice body.
+
+735
+00:35:25,034 --> 00:35:28,220
+(whimpering)
+
+736
+00:35:28,220 --> 00:35:29,053
+- Look,
+
+737
+00:35:29,053 --> 00:35:30,230
+I do stick to cryo.
+
+738
+00:35:30,230 --> 00:35:31,879
+I'm not into politics.
+
+739
+00:35:31,879 --> 00:35:34,450
+If this is about that cop's
+memory, check with the company.
+
+740
+00:35:34,450 --> 00:35:36,610
+It's their regulations, not mine.
+
+741
+00:35:36,610 --> 00:35:37,443
+- It's too bright in here.
+
+742
+00:35:37,443 --> 00:35:39,440
+I need some atmosphere, I need some quiet.
+
+743
+00:35:39,440 --> 00:35:41,773
+I need nap time.
+
+744
+00:35:43,182 --> 00:35:45,530
+(buzzing)
+
+745
+00:35:45,530 --> 00:35:46,363
+Say it!
+
+746
+00:35:47,380 --> 00:35:48,903
+- Fuck you, asshole!
+
+747
+00:35:48,903 --> 00:35:50,027
+(buzzing)
+
+748
+00:35:50,027 --> 00:35:51,390
+- Say it!
+
+749
+00:35:51,390 --> 00:35:52,223
+- Nap.
+
+750
+00:35:53,335 --> 00:35:54,168
+No!
+
+751
+00:35:54,168 --> 00:35:55,001
+- Oh,
+
+752
+00:35:56,262 --> 00:35:57,884
+yeah.
+
+753
+00:35:57,884 --> 00:35:59,122
+Better.
+
+754
+00:35:59,122 --> 00:36:00,655
+Better.
+
+755
+00:36:00,655 --> 00:36:02,767
+Oh, that's so much better.
+
+756
+00:36:02,767 --> 00:36:05,372
+- I'm warning you, I'm protected.
+
+757
+00:36:05,372 --> 00:36:06,867
+- Oh yeah, that's good.
+
+758
+00:36:06,867 --> 00:36:08,867
+We are all into sani-sex
+
+759
+00:36:10,915 --> 00:36:11,860
+- Fire!
+
+760
+00:36:11,860 --> 00:36:14,236
+(whooshing)
+
+761
+00:36:14,236 --> 00:36:16,403
+(yelling)
+
+762
+00:36:20,123 --> 00:36:23,737
+(glass shattering)
+
+763
+00:36:23,737 --> 00:36:27,058
+(alarm beeping)
+
+764
+00:36:27,058 --> 00:36:29,808
+(dramatic music)
+
+765
+00:37:03,134 --> 00:37:05,040
+(knocking)
+
+766
+00:37:05,040 --> 00:37:05,890
+- [Caution] Open.
+
+767
+00:37:10,043 --> 00:37:12,290
+- Please, just put that thing down.
+
+768
+00:37:12,290 --> 00:37:13,363
+Look, the only reason I'm here
+
+769
+00:37:13,363 --> 00:37:15,650
+is because you got me into
+this mess in the first place.
+
+770
+00:37:15,650 --> 00:37:16,690
+- What mess?
+
+771
+00:37:16,690 --> 00:37:18,650
+- Ike Ringo and a couple of his yo-yos
+
+772
+00:37:18,650 --> 00:37:19,810
+were just at my apartment.
+
+773
+00:37:19,810 --> 00:37:21,530
+They scared the shit out of me,
+
+774
+00:37:21,530 --> 00:37:23,420
+but all I have to do is
+get back to the hospital
+
+775
+00:37:23,420 --> 00:37:25,170
+and finish a job that I have to do.
+
+776
+00:37:26,440 --> 00:37:27,273
+What?
+
+777
+00:37:27,273 --> 00:37:28,180
+This is my bag.
+
+778
+00:37:28,180 --> 00:37:29,673
+- Ino had a bag like this.
+
+779
+00:37:31,984 --> 00:37:34,690
+- You know, Caution, I
+am no skull squeezer,
+
+780
+00:37:34,690 --> 00:37:37,660
+but you are suffering from some
+serious obsessive behavior.
+
+781
+00:37:37,660 --> 00:37:38,940
+- Why are you here?
+
+782
+00:37:38,940 --> 00:37:40,550
+I thought you hated keepers.
+
+783
+00:37:40,550 --> 00:37:42,200
+- Ike Ringo came after me
+
+784
+00:37:42,200 --> 00:37:45,340
+because I downloaded Ino's
+memory and gave it to you.
+
+785
+00:37:45,340 --> 00:37:48,913
+Now I am not a big fan
+of yours but you owe me!
+
+786
+00:37:53,760 --> 00:37:55,370
+Caution,
+
+787
+00:37:55,370 --> 00:37:57,953
+I am really sorry that
+your brother got killed.
+
+788
+00:37:58,890 --> 00:38:01,170
+It had nothing to do with me.
+
+789
+00:38:01,170 --> 00:38:03,070
+All I need to do is get to the hospital
+
+790
+00:38:03,070 --> 00:38:04,633
+and I need your help.
+
+791
+00:38:07,960 --> 00:38:09,900
+- Oh, you gotta be kidding me.
+
+792
+00:38:09,900 --> 00:38:11,000
+Oh, look at you, beau.
+
+793
+00:38:11,880 --> 00:38:13,970
+- Don't you ever knock, Greenberg?
+
+794
+00:38:13,970 --> 00:38:14,933
+- Hey, lady,
+
+795
+00:38:16,010 --> 00:38:17,360
+I saw him first.
+
+796
+00:38:17,360 --> 00:38:18,460
+Look, I got business.
+
+797
+00:38:18,460 --> 00:38:19,740
+Him and me.
+
+798
+00:38:19,740 --> 00:38:21,050
+Business together.
+
+799
+00:38:21,050 --> 00:38:22,750
+I'm his right hand man.
+
+800
+00:38:22,750 --> 00:38:24,072
+Ham and mayo.
+
+801
+00:38:24,072 --> 00:38:25,470
+Hornet and Kato.
+
+802
+00:38:25,470 --> 00:38:27,440
+- You are dome scum, Greenberg.
+
+803
+00:38:27,440 --> 00:38:28,840
+Friend to the highest bidder.
+
+804
+00:38:28,840 --> 00:38:30,050
+- [Buckskin] Yeah?
+- [Doc] Yeah!
+
+805
+00:38:30,050 --> 00:38:30,883
+- Stop it!
+
+806
+00:38:34,940 --> 00:38:35,790
+- Oh, beau.
+
+807
+00:38:35,790 --> 00:38:36,990
+- [Caution] Who is she?
+
+808
+00:38:36,990 --> 00:38:38,090
+- Oh, she's a dancer.
+
+809
+00:38:38,090 --> 00:38:39,150
+Girls at Strip Mine.
+
+810
+00:38:39,150 --> 00:38:39,983
+You can tell.
+
+811
+00:38:39,983 --> 00:38:41,950
+She got that collar, all
+the girls wear those.
+
+812
+00:38:41,950 --> 00:38:42,990
+- Explain.
+
+813
+00:38:42,990 --> 00:38:45,400
+- See, they all got
+these auto Z-bite collars
+
+814
+00:38:46,303 --> 00:38:48,750
+and management, they zap a signal
+
+815
+00:38:48,750 --> 00:38:51,073
+that sends them flying into orbit.
+
+816
+00:38:51,990 --> 00:38:53,203
+Some of the things they do, beau,
+
+817
+00:38:53,203 --> 00:38:55,080
+some of the things they do, you gotta see.
+
+818
+00:38:55,080 --> 00:38:57,780
+I mean, it is incredible stuff.
+
+819
+00:38:57,780 --> 00:38:59,490
+They are so sexy.
+
+820
+00:38:59,490 --> 00:39:00,323
+- Let's go.
+
+821
+00:39:00,323 --> 00:39:01,386
+- Okay, let's go.
+
+822
+00:39:01,386 --> 00:39:04,553
+(exciting beat music)
+
+823
+00:39:23,660 --> 00:39:24,680
+- Have you seen this girl?
+
+824
+00:39:24,680 --> 00:39:25,730
+- She's on stage now.
+
+825
+00:39:29,248 --> 00:39:31,304
+50 credits at the door.
+
+826
+00:39:31,304 --> 00:39:34,471
+(exciting beat music)
+
+827
+00:39:43,050 --> 00:39:46,169
+- [Announcer] Get a firm grip
+on your Z-bite triggers, man.
+
+828
+00:39:46,169 --> 00:39:48,698
+These girls love Z-bite!
+
+829
+00:39:48,698 --> 00:39:50,703
+They'll love you for giving it to them.
+
+830
+00:39:50,703 --> 00:39:53,370
+(women moaning)
+
+831
+00:39:59,042 --> 00:40:01,073
+- I'd love to snap that Z-head.
+
+832
+00:40:01,073 --> 00:40:03,323
+(laughing)
+
+833
+00:40:04,802 --> 00:40:06,999
+- So tasty, baby!
+
+834
+00:40:06,999 --> 00:40:09,749
+(exciting music)
+
+835
+00:40:12,682 --> 00:40:15,349
+(woman moaning)
+
+836
+00:40:20,771 --> 00:40:23,604
+(remotes beeping)
+
+837
+00:40:29,775 --> 00:40:33,192
+(woman sexually moaning)
+
+838
+00:40:46,492 --> 00:40:48,909
+(applauding)
+
+839
+00:40:52,983 --> 00:40:54,500
+- [Announcer] Give it up for Shella!
+
+840
+00:40:54,500 --> 00:40:56,160
+The hottest Z-head on Mars!
+
+841
+00:40:57,795 --> 00:41:00,712
+(crowd applauding)
+
+842
+00:41:01,605 --> 00:41:05,413
+Next up, Tamera and her
+twin satellites of love!
+
+843
+00:41:07,774 --> 00:41:10,941
+(exciting beat music)
+
+844
+00:41:20,149 --> 00:41:20,982
+(gasping)
+
+845
+00:41:20,982 --> 00:41:22,010
+- What happened to Ino?
+
+846
+00:41:22,877 --> 00:41:24,490
+- Ino who?
+
+847
+00:41:24,490 --> 00:41:25,963
+- Ino Templar, my brother.
+
+848
+00:41:27,900 --> 00:41:29,670
+- I know who you are.
+
+849
+00:41:29,670 --> 00:41:31,140
+You came all the way out here
+
+850
+00:41:31,140 --> 00:41:34,770
+because your brother finally
+got what he was begging for.
+
+851
+00:41:34,770 --> 00:41:36,533
+Where the hell were you, huh?
+
+852
+00:41:37,594 --> 00:41:39,110
+What do you want from me?
+
+853
+00:41:39,110 --> 00:41:40,550
+- I want answers!
+
+854
+00:41:40,550 --> 00:41:42,510
+- You don't want the truth
+because the truth was
+
+855
+00:41:42,510 --> 00:41:44,670
+your brother was dirty!
+
+856
+00:41:44,670 --> 00:41:45,710
+Oh yeah,
+
+857
+00:41:45,710 --> 00:41:47,620
+he liked it all!
+
+858
+00:41:47,620 --> 00:41:50,480
+Oh yeah, he was the dirtiest
+keeper in the planet.
+
+859
+00:41:50,480 --> 00:41:53,270
+- That's not true!
+(glass shattering)
+
+860
+00:41:53,270 --> 00:41:55,020
+(ominous music)
+
+861
+00:41:55,020 --> 00:41:57,120
+- Oh, just like your brother.
+
+862
+00:41:57,120 --> 00:41:58,293
+He liked that too.
+
+863
+00:42:01,730 --> 00:42:04,010
+- Why would he ever love
+somebody like you, huh?
+
+864
+00:42:04,010 --> 00:42:07,200
+- Your brother pissed on that Order badge.
+
+865
+00:42:07,200 --> 00:42:09,700
+He was into the Z-bite run,
+
+866
+00:42:09,700 --> 00:42:10,893
+taking a kick.
+
+867
+00:42:11,770 --> 00:42:13,370
+Jesus, you didn't even know him.
+
+868
+00:42:15,160 --> 00:42:16,333
+- What was in that bag?
+
+869
+00:42:18,216 --> 00:42:20,370
+- That kid didn't mean nothing to me.
+
+870
+00:42:20,370 --> 00:42:22,410
+He should've known that.
+
+871
+00:42:22,410 --> 00:42:24,800
+He was crazy to even try it.
+
+872
+00:42:24,800 --> 00:42:25,633
+- What kid?
+
+873
+00:42:26,620 --> 00:42:27,453
+- [Guard] Hey!
+
+874
+00:42:28,650 --> 00:42:30,694
+(groaning)
+
+875
+00:42:30,694 --> 00:42:33,810
+(suspenseful music)
+
+876
+00:42:33,810 --> 00:42:35,662
+- Get out of my way!
+
+877
+00:42:35,662 --> 00:42:38,495
+(crowd commotion)
+
+878
+00:42:45,240 --> 00:42:47,460
+(thudding)
+
+879
+00:42:47,460 --> 00:42:49,087
+(groaning)
+
+880
+00:42:49,087 --> 00:42:49,920
+(yelling)
+
+881
+00:42:49,920 --> 00:42:52,617
+(glass shattering)
+
+882
+00:42:52,617 --> 00:42:55,617
+(suspenseful music)
+
+883
+00:43:13,535 --> 00:43:15,952
+(whimpering)
+
+884
+00:43:21,376 --> 00:43:22,781
+- Shella?
+
+885
+00:43:22,781 --> 00:43:24,114
+Come on, Shella!
+
+886
+00:43:28,240 --> 00:43:30,303
+You won't be blabbing to anybody again.
+
+887
+00:43:32,781 --> 00:43:33,614
+- Uh oh.
+
+888
+00:43:34,580 --> 00:43:35,413
+Oh, beau.
+
+889
+00:43:36,382 --> 00:43:38,822
+This doesn't look good.
+
+890
+00:43:38,822 --> 00:43:41,572
+(thugs laughing)
+
+891
+00:43:43,126 --> 00:43:45,170
+- [Buckskin] I've got your back, beau.
+
+892
+00:43:45,170 --> 00:43:46,003
+- Party time.
+
+893
+00:43:47,610 --> 00:43:48,796
+- Oh, beau,
+
+894
+00:43:48,796 --> 00:43:52,525
+this doesn't look like
+a very friendly party.
+
+895
+00:43:52,525 --> 00:43:55,192
+(ominous music)
+
+896
+00:44:04,236 --> 00:44:05,641
+(yelling)
+
+897
+00:44:05,641 --> 00:44:08,724
+(fighting commotion)
+
+898
+00:44:16,790 --> 00:44:18,830
+(banging)
+
+899
+00:44:18,830 --> 00:44:19,663
+Take that!
+
+900
+00:44:21,107 --> 00:44:22,890
+(thudding)
+
+901
+00:44:22,890 --> 00:44:24,164
+Good shot, beau!
+
+902
+00:44:24,164 --> 00:44:26,331
+(yelling)
+
+903
+00:44:30,435 --> 00:44:31,520
+Get him, beau!
+
+904
+00:44:31,520 --> 00:44:33,002
+You okay?
+
+905
+00:44:33,002 --> 00:44:34,828
+(ominous music)
+
+906
+00:44:34,828 --> 00:44:36,078
+You okay, beau?
+
+907
+00:44:37,530 --> 00:44:39,430
+He'll kick your ass, Fargo.
+
+908
+00:44:40,383 --> 00:44:42,633
+(groaning)
+
+909
+00:44:44,074 --> 00:44:44,907
+Way to go!
+
+910
+00:44:45,786 --> 00:44:48,570
+(screaming)
+
+911
+00:44:48,570 --> 00:44:51,570
+(suspenseful music)
+
+912
+00:44:56,232 --> 00:44:58,565
+(screaming)
+
+913
+00:44:59,640 --> 00:45:01,973
+(screaming)
+
+914
+00:45:10,457 --> 00:45:13,207
+(Shella gagging)
+
+915
+00:45:14,505 --> 00:45:16,817
+(screaming)
+
+916
+00:45:16,817 --> 00:45:17,984
+You hear that?
+
+917
+00:45:19,601 --> 00:45:20,434
+Move! Move!
+
+918
+00:45:20,434 --> 00:45:22,058
+Get out of the way!
+
+919
+00:45:22,058 --> 00:45:23,373
+Oh no!
+
+920
+00:45:23,373 --> 00:45:26,373
+(suspenseful music)
+
+921
+00:45:28,819 --> 00:45:31,245
+(gagging)
+
+922
+00:45:31,245 --> 00:45:33,495
+(laughing)
+
+923
+00:45:35,945 --> 00:45:36,890
+- Oh my god.
+
+924
+00:45:36,890 --> 00:45:39,063
+Doesn't look like it's gonna
+have a good ending, beau.
+
+925
+00:45:39,063 --> 00:45:41,223
+I've never seen nothing like this before.
+
+926
+00:45:42,561 --> 00:45:43,394
+Bring her down.
+
+927
+00:45:43,394 --> 00:45:44,550
+Bring her down easy.
+
+928
+00:45:44,550 --> 00:45:46,070
+Come on, make some room now!
+
+929
+00:45:46,070 --> 00:45:46,903
+Back off!
+
+930
+00:45:47,894 --> 00:45:49,816
+(ominous music)
+
+931
+00:45:49,816 --> 00:45:51,220
+Get this thing off of you.
+
+932
+00:45:51,220 --> 00:45:53,210
+Beau, she aint breathing.
+
+933
+00:45:53,210 --> 00:45:54,210
+Come on, talk to me.
+
+934
+00:45:55,265 --> 00:45:56,815
+Someone! Someone call a doctor!
+
+935
+00:45:57,717 --> 00:46:00,634
+(foreboding music)
+
+936
+00:46:03,183 --> 00:46:05,180
+(door opening)
+
+937
+00:46:05,180 --> 00:46:06,320
+- My word, Keeper.
+
+938
+00:46:06,320 --> 00:46:07,153
+Look at you.
+
+939
+00:46:07,153 --> 00:46:08,530
+You look like you were
+hit by the hover bus.
+
+940
+00:46:08,530 --> 00:46:10,070
+Bet you could use a drink.
+
+941
+00:46:10,070 --> 00:46:12,420
+I've got a fine Apollo.
+
+942
+00:46:12,420 --> 00:46:13,510
+26, I think.
+
+943
+00:46:13,510 --> 00:46:16,200
+- Sir, my brother's dead
+
+944
+00:46:16,200 --> 00:46:18,230
+and his girlfriend's just been murdered.
+
+945
+00:46:18,230 --> 00:46:19,180
+- Oh my god.
+
+946
+00:46:19,180 --> 00:46:20,593
+- It was Ike Ringo.
+
+947
+00:46:22,360 --> 00:46:26,020
+- I've talked to Bascom about
+these people until I'm purple!
+
+948
+00:46:26,020 --> 00:46:27,090
+They're nothing but hoodlums.
+
+949
+00:46:27,090 --> 00:46:29,390
+He always throws the
+union in my face as if...
+
+950
+00:46:30,780 --> 00:46:32,480
+Sometimes I wonder
+who's running this dome.
+
+951
+00:46:32,480 --> 00:46:34,350
+The Company or the miners.
+
+952
+00:46:34,350 --> 00:46:35,390
+Tell me, what about the girl?
+
+953
+00:46:35,390 --> 00:46:36,980
+Did she say anything before?
+
+954
+00:46:36,980 --> 00:46:38,320
+Was she at all helpful?
+
+955
+00:46:38,320 --> 00:46:40,950
+- She said something about a kid.
+
+956
+00:46:40,950 --> 00:46:42,855
+- A kid as in child?
+
+957
+00:46:42,855 --> 00:46:44,700
+No, no, no, Keeper, you
+must've misheard her.
+
+958
+00:46:44,700 --> 00:46:46,290
+I mean, as you're aware,
+
+959
+00:46:46,290 --> 00:46:47,980
+we have very strict
+regulations here on Alpha
+
+960
+00:46:47,980 --> 00:46:50,490
+regarding family structure,
+don't get me wrong.
+
+961
+00:46:50,490 --> 00:46:51,323
+I love kids.
+
+962
+00:46:51,323 --> 00:46:52,420
+I have three little ones at home.
+
+963
+00:46:52,420 --> 00:46:54,450
+I miss them terribly.
+
+964
+00:46:54,450 --> 00:46:55,730
+I assure you, off the record,
+
+965
+00:46:55,730 --> 00:46:56,801
+if they could be here they would be
+
+966
+00:46:56,801 --> 00:46:59,960
+but the company rules are
+very clear on this issue.
+
+967
+00:46:59,960 --> 00:47:01,730
+At any rate, I'm sure you realize by now,
+
+968
+00:47:01,730 --> 00:47:04,080
+that there's probably
+little meaning at all
+
+969
+00:47:04,080 --> 00:47:05,480
+behind your brother's death.
+
+970
+00:47:06,710 --> 00:47:07,960
+I wish it were otherwise.
+
+971
+00:47:10,120 --> 00:47:13,590
+But you and I will not be broken.
+
+972
+00:47:13,590 --> 00:47:15,180
+We shall prevail.
+
+973
+00:47:15,180 --> 00:47:16,840
+I want you to punch out
+a full report on this
+
+974
+00:47:16,840 --> 00:47:18,640
+and we can work on it together.
+
+975
+00:47:18,640 --> 00:47:20,100
+- Thank you, sir.
+
+976
+00:47:20,100 --> 00:47:22,750
+- But I do assure you, there
+are no children on Mars.
+
+977
+00:47:28,790 --> 00:47:31,040
+- [Computer] Analysis of
+Silex Chemical composition
+
+978
+00:47:31,040 --> 00:47:33,520
+in selected damaged human DNA
+
+979
+00:47:33,520 --> 00:47:34,470
+nearing completion.
+
+980
+00:47:35,430 --> 00:47:38,550
+First new plague series, match.
+
+981
+00:47:38,550 --> 00:47:40,850
+Second new plague series,
+
+982
+00:47:40,850 --> 00:47:41,683
+match.
+
+983
+00:47:41,683 --> 00:47:42,516
+(chiming)
+
+984
+00:47:42,516 --> 00:47:43,998
+Third new plague series,
+
+985
+00:47:43,998 --> 00:47:44,831
+match.
+
+986
+00:47:45,750 --> 00:47:47,223
+Overall analysis concludes,
+
+987
+00:47:48,180 --> 00:47:49,673
+match.
+
+988
+00:47:49,673 --> 00:47:52,340
+(ominous music)
+
+989
+00:48:02,890 --> 00:48:04,060
+- [Clement] Ringo!
+
+990
+00:48:04,060 --> 00:48:04,893
+- Yes, sir?
+
+991
+00:48:04,893 --> 00:48:06,230
+- [Clement] We need to talk.
+
+992
+00:48:07,500 --> 00:48:09,100
+- Yes, sir, I'll be right there.
+
+993
+00:48:15,660 --> 00:48:17,150
+- Caution!
+
+994
+00:48:17,150 --> 00:48:18,920
+Jesus, what happened to you?
+
+995
+00:48:18,920 --> 00:48:19,753
+- I'm fine.
+
+996
+00:48:19,753 --> 00:48:21,740
+- Let me disinfect it.
+
+997
+00:48:21,740 --> 00:48:24,193
+- [Buckskin] Fargo pulverized
+him with mining mace.
+
+998
+00:48:24,193 --> 00:48:26,360
+(wincing)
+
+999
+00:48:28,020 --> 00:48:29,562
+- What do you know about kids on Mars?
+
+1000
+00:48:29,562 --> 00:48:31,248
+(spraying)
+
+1001
+00:48:31,248 --> 00:48:33,585
+(groaning)
+
+1002
+00:48:33,585 --> 00:48:35,240
+- There are no kids on Mars.
+
+1003
+00:48:35,240 --> 00:48:37,640
+It's another company policy.
+
+1004
+00:48:37,640 --> 00:48:38,670
+- See, beau, I told you.
+
+1005
+00:48:38,670 --> 00:48:39,853
+No elves on Alpha.
+
+1006
+00:48:45,059 --> 00:48:46,560
+- What are you doing
+with the re-breathers?
+
+1007
+00:48:46,560 --> 00:48:49,764
+- We're going outside the
+dome to look for evidence.
+
+1008
+00:48:49,764 --> 00:48:52,907
+- I'd like to get out there
+soon before the storms act up
+
+1009
+00:48:52,907 --> 00:48:55,020
+and we can't find a way back.
+
+1010
+00:48:55,020 --> 00:48:58,620
+- Yeah, well you're wasting
+your time with those filters.
+
+1011
+00:48:58,620 --> 00:49:00,090
+I found it.
+
+1012
+00:49:00,090 --> 00:49:01,300
+- You found what?
+
+1013
+00:49:01,300 --> 00:49:03,360
+- For months I've been
+running tests to find out
+
+1014
+00:49:03,360 --> 00:49:05,040
+what's making everyone so sick
+
+1015
+00:49:05,040 --> 00:49:06,813
+and today I got the results.
+
+1016
+00:49:06,813 --> 00:49:08,950
+- What're you talking about, doc?
+
+1017
+00:49:08,950 --> 00:49:11,040
+- And it's not the air.
+
+1018
+00:49:11,040 --> 00:49:12,430
+It's not Z-bite,
+
+1019
+00:49:12,430 --> 00:49:15,900
+it's not anything that the
+company wants you to know about.
+
+1020
+00:49:15,900 --> 00:49:17,150
+- What is it?
+
+1021
+00:49:17,150 --> 00:49:19,500
+- Welcome to the gold rush, boys.
+
+1022
+00:49:19,500 --> 00:49:21,250
+Only this time, the gold is poison.
+
+1023
+00:49:22,260 --> 00:49:23,093
+It's the Silex.
+
+1024
+00:49:23,936 --> 00:49:25,460
+(foreboding music)
+
+1025
+00:49:25,460 --> 00:49:26,293
+- Let's go.
+
+1026
+00:49:27,720 --> 00:49:29,860
+- I'm right behind you, beau.
+
+1027
+00:49:29,860 --> 00:49:30,743
+- Wait a second.
+
+1028
+00:49:31,970 --> 00:49:33,350
+- Hey, what's next, beau?
+
+1029
+00:49:33,350 --> 00:49:35,188
+- Outside to where my brother was killed.
+
+1030
+00:49:35,188 --> 00:49:36,840
+- There's this old freak out
+there named Pete the Hermit.
+
+1031
+00:49:36,840 --> 00:49:38,590
+I bet he knows something
+about that satchel.
+
+1032
+00:49:38,590 --> 00:49:39,423
+- We'll find out.
+
+1033
+00:49:39,423 --> 00:49:40,740
+- Okay!
+
+1034
+00:49:40,740 --> 00:49:41,903
+- Damn it, Caution!
+
+1035
+00:49:43,200 --> 00:49:45,090
+Look, you don't get it.
+
+1036
+00:49:45,090 --> 00:49:46,030
+We've gotta warn people.
+
+1037
+00:49:46,030 --> 00:49:48,040
+We've gotta evacuate this planet now.
+
+1038
+00:49:48,040 --> 00:49:50,680
+- Not until I know who
+killed my brother and why.
+
+1039
+00:49:50,680 --> 00:49:53,550
+- See, it's about his bro, sis,
+and you wouldn't understand.
+
+1040
+00:49:53,550 --> 00:49:54,942
+- No, you don't understand.
+
+1041
+00:49:54,942 --> 00:49:57,720
+There's a lot more important
+things than your dead brother.
+
+1042
+00:49:57,720 --> 00:49:59,020
+- You do whatever you have to.
+
+1043
+00:49:59,020 --> 00:50:01,173
+- [Buckskin] Yeah, we're
+gonna go see Pete the Hermit.
+
+1044
+00:50:02,681 --> 00:50:05,431
+(dramatic music)
+
+1045
+00:50:10,229 --> 00:50:12,560
+- Of course the essence of productivity
+
+1046
+00:50:12,560 --> 00:50:16,680
+is a dedication to commitment
+to a healthy bottom line.
+
+1047
+00:50:16,680 --> 00:50:19,140
+That is what put Interplanetary on top
+
+1048
+00:50:19,140 --> 00:50:21,523
+and that is what will keep us here.
+
+1049
+00:50:22,820 --> 00:50:27,113
+Now, let us come to the
+issue of risk versus reward.
+
+1050
+00:50:28,830 --> 00:50:29,910
+Calculated risk.
+
+1051
+00:50:29,910 --> 00:50:32,647
+So what the hell are these
+two troublemakers doing?!
+
+1052
+00:50:33,490 --> 00:50:34,990
+I want answers, gentlemen.
+
+1053
+00:50:34,990 --> 00:50:36,570
+I need solutions.
+
+1054
+00:50:36,570 --> 00:50:39,470
+Otherwise, this whole operation
+
+1055
+00:50:39,470 --> 00:50:41,163
+will be jeopardized.
+
+1056
+00:50:42,040 --> 00:50:43,420
+- Yes, sir.
+
+1057
+00:50:43,420 --> 00:50:44,973
+- And your bonuses, forget it.
+
+1058
+00:50:46,150 --> 00:50:48,160
+The Company raises these Keepers
+
+1059
+00:50:48,160 --> 00:50:49,920
+from the time they're children, correct?
+
+1060
+00:50:49,920 --> 00:50:53,150
+We train them, we indoctrinate them.
+
+1061
+00:50:53,150 --> 00:50:55,300
+- They bleed like the rest of us, sir.
+
+1062
+00:50:55,300 --> 00:50:57,574
+(laughing)
+
+1063
+00:50:57,574 --> 00:50:59,010
+- Yes.
+
+1064
+00:50:59,010 --> 00:51:00,420
+That's it, Mr. Ringo.
+
+1065
+00:51:00,420 --> 00:51:01,253
+Up until now,
+
+1066
+00:51:01,253 --> 00:51:03,650
+you have had every
+Keeper who swans in here
+
+1067
+00:51:03,650 --> 00:51:04,973
+thinking he's saving the planet
+
+1068
+00:51:04,973 --> 00:51:07,080
+from Z-bite or whatever else,
+
+1069
+00:51:07,080 --> 00:51:10,790
+but now we have a zellet
+out there with a mission.
+
+1070
+00:51:10,790 --> 00:51:12,570
+Do you have any idea, Mr. Ringo,
+
+1071
+00:51:12,570 --> 00:51:15,170
+the danger posed by a pissed off Keeper?!
+
+1072
+00:51:15,170 --> 00:51:17,841
+- I'll get my people
+right on it, Mr. Clement.
+
+1073
+00:51:17,841 --> 00:51:19,700
+(foreboding music)
+
+1074
+00:51:19,700 --> 00:51:21,690
+- Whatever you did to the brother,
+
+1075
+00:51:21,690 --> 00:51:23,410
+do it again.
+
+1076
+00:51:23,410 --> 00:51:24,243
+Kill him.
+
+1077
+00:51:25,389 --> 00:51:26,513
+Am I clear?
+
+1078
+00:51:27,560 --> 00:51:28,659
+- Yes, sir.
+
+1079
+00:51:28,659 --> 00:51:31,326
+(ominous music)
+
+1080
+00:51:34,350 --> 00:51:35,270
+- What do you think was in that satchel?
+
+1081
+00:51:35,270 --> 00:51:36,103
+Z-bite?
+
+1082
+00:51:36,103 --> 00:51:37,055
+Credits?
+
+1083
+00:51:37,055 --> 00:51:38,770
+You think Pete the Hermit's got it?
+
+1084
+00:51:38,770 --> 00:51:40,690
+What are we gonna get?
+
+1085
+00:51:40,690 --> 00:51:41,780
+Tell me!
+
+1086
+00:51:41,780 --> 00:51:43,307
+- Answers.
+
+1087
+00:51:43,307 --> 00:51:45,474
+(beeping)
+
+1088
+00:51:51,670 --> 00:51:53,358
+- [Radio Guard] Sir, Dr.
+Halliday is here to see you.
+
+1089
+00:51:53,358 --> 00:51:55,631
+Should I send her in?
+
+1090
+00:51:55,631 --> 00:51:58,714
+(ominous beat music)
+
+1091
+00:52:00,030 --> 00:52:01,170
+Sir, she's coming up.
+
+1092
+00:52:01,170 --> 00:52:02,320
+Should I call security?
+
+1093
+00:52:08,390 --> 00:52:09,223
+- No, send her in.
+
+1094
+00:52:09,223 --> 00:52:10,056
+I'm expecting her.
+
+1095
+00:52:11,391 --> 00:52:14,308
+(foreboding music)
+
+1096
+00:52:16,010 --> 00:52:18,310
+- Clement, we have got to talk right now.
+
+1097
+00:52:18,310 --> 00:52:19,480
+- Sure, doctor, of course.
+
+1098
+00:52:19,480 --> 00:52:20,313
+It's rather good timing.
+
+1099
+00:52:20,313 --> 00:52:21,500
+Here, join me for a drink.
+
+1100
+00:52:21,500 --> 00:52:23,157
+- I've just sent a communicate to Entermed
+
+1101
+00:52:23,157 --> 00:52:26,010
+that's gonna cause the
+evacuation of this entire planet.
+
+1102
+00:52:26,010 --> 00:52:28,830
+They're gonna be here in less
+than 12 hours to investigate.
+
+1103
+00:52:28,830 --> 00:52:29,690
+In the meantime,
+
+1104
+00:52:29,690 --> 00:52:31,920
+you are the only person with the authority
+
+1105
+00:52:31,920 --> 00:52:33,830
+to get these workers to safety.
+
+1106
+00:52:33,830 --> 00:52:34,800
+- Okay.
+
+1107
+00:52:34,800 --> 00:52:35,990
+- Okay?
+
+1108
+00:52:35,990 --> 00:52:36,823
+- Sure.
+
+1109
+00:52:36,823 --> 00:52:37,656
+Please, drink up.
+
+1110
+00:52:37,656 --> 00:52:39,150
+You're obviously a little stressed.
+
+1111
+00:52:39,150 --> 00:52:41,980
+Lights, dim to tranquil.
+
+1112
+00:52:41,980 --> 00:52:44,610
+- Look, thank you very
+much but I don't drink.
+
+1113
+00:52:44,610 --> 00:52:45,443
+- Please, sit.
+
+1114
+00:52:45,443 --> 00:52:46,276
+Drink up and we'll talk.
+
+1115
+00:52:46,276 --> 00:52:47,470
+This is just a martian version
+
+1116
+00:52:47,470 --> 00:52:48,943
+of a fruit juice cocktail.
+
+1117
+00:52:50,620 --> 00:52:51,780
+- Fruit juice, huh?
+
+1118
+00:52:54,540 --> 00:52:56,480
+- Now, tell me everything.
+
+1119
+00:52:56,480 --> 00:52:57,860
+- The Silex, Mr. Clement,
+
+1120
+00:52:57,860 --> 00:53:00,360
+is what's causing the fatalities
+among the employees here.
+
+1121
+00:53:00,360 --> 00:53:02,620
+- I can't even guess as to the motivation
+
+1122
+00:53:02,620 --> 00:53:03,480
+behind that statement.
+
+1123
+00:53:03,480 --> 00:53:04,870
+It's such a radical leap of logic.
+
+1124
+00:53:04,870 --> 00:53:06,580
+- Yeah, well, it is the Silex.
+
+1125
+00:53:06,580 --> 00:53:08,090
+Look, I've proven it.
+
+1126
+00:53:08,090 --> 00:53:09,243
+Even got evidence.
+
+1127
+00:53:11,000 --> 00:53:12,460
+- Doctor,
+
+1128
+00:53:12,460 --> 00:53:13,390
+think about it.
+
+1129
+00:53:13,390 --> 00:53:17,030
+The fossil fuel that we
+discovered back in 1996
+
+1130
+00:53:17,030 --> 00:53:19,870
+has passed every possible
+test ever devised on Earth
+
+1131
+00:53:19,870 --> 00:53:22,630
+and here you are claiming that you, alone,
+
+1132
+00:53:22,630 --> 00:53:24,190
+have discovered something that's withstood
+
+1133
+00:53:24,190 --> 00:53:26,357
+60 years of expert scrutiny.
+
+1134
+00:53:26,357 --> 00:53:27,927
+No.
+
+1135
+00:53:27,927 --> 00:53:30,737
+(chuckling)
+
+1136
+00:53:30,737 --> 00:53:33,160
+(sighing)
+
+1137
+00:53:33,160 --> 00:53:34,722
+Are you all right, my dear?
+
+1138
+00:53:34,722 --> 00:53:35,846
+- Look,
+
+1139
+00:53:35,846 --> 00:53:39,600
+this whole operation on Mars,
+
+1140
+00:53:39,600 --> 00:53:41,120
+it's a big mistake.
+
+1141
+00:53:41,120 --> 00:53:42,080
+- Oh, no, no, no, doctor.
+
+1142
+00:53:42,080 --> 00:53:43,983
+The mistake is yours, I'm afraid.
+
+1143
+00:53:44,940 --> 00:53:46,220
+You see,
+
+1144
+00:53:46,220 --> 00:53:47,540
+the mission of this corporation
+
+1145
+00:53:47,540 --> 00:53:49,460
+can in no way be detoured by
+
+1146
+00:53:50,350 --> 00:53:52,900
+your lovely, yes, but sick,
+
+1147
+00:53:52,900 --> 00:53:54,073
+misguided idea.
+
+1148
+00:53:57,217 --> 00:53:59,300
+- What was in that drink?
+
+1149
+00:54:02,363 --> 00:54:03,196
+Bastard.
+
+1150
+00:54:05,270 --> 00:54:07,630
+(whimpering)
+
+1151
+00:54:07,630 --> 00:54:10,630
+(suspenseful music)
+
+1152
+00:54:13,914 --> 00:54:15,560
+- Service access.
+
+1153
+00:54:15,560 --> 00:54:16,393
+This is it.
+
+1154
+00:54:17,936 --> 00:54:20,853
+(foreboding music)
+
+1155
+00:54:24,000 --> 00:54:24,833
+- Let's do it.
+
+1156
+00:54:26,059 --> 00:54:29,059
+(somber beat music)
+
+1157
+00:54:32,100 --> 00:54:33,260
+Ike Ringo, voice ID.
+
+1158
+00:54:33,260 --> 00:54:34,093
+Security open.
+
+1159
+00:54:37,543 --> 00:54:40,720
+- Goddamn, got the worst re-breather.
+
+1160
+00:54:40,720 --> 00:54:41,613
+Thing's ancient.
+
+1161
+00:54:44,219 --> 00:54:47,136
+(foreboding music)
+
+1162
+00:54:48,800 --> 00:54:50,280
+- Hey, man, that's a particle beam.
+
+1163
+00:54:50,280 --> 00:54:51,330
+You can't use that in the Dome.
+
+1164
+00:54:51,330 --> 00:54:53,870
+- Hey, don't panic, it's a torch.
+
+1165
+00:54:53,870 --> 00:54:55,180
+It's no good outside a hundred yards
+
+1166
+00:54:55,180 --> 00:54:57,043
+but within that, everything's toast.
+
+1167
+00:54:57,882 --> 00:54:59,708
+(vacuum seal hissing)
+
+1168
+00:54:59,708 --> 00:55:02,291
+(wind howling)
+
+1169
+00:55:11,815 --> 00:55:14,482
+(alarm beeping)
+
+1170
+00:55:21,840 --> 00:55:24,350
+Hey, take your guys, go out the back.
+
+1171
+00:55:24,350 --> 00:55:26,157
+We're gonna beat the hermits.
+
+1172
+00:55:26,157 --> 00:55:27,407
+I'm gonna cover the dome.
+
+1173
+00:55:28,640 --> 00:55:29,613
+Finders, keepers.
+
+1174
+00:55:31,930 --> 00:55:34,513
+(wind howling)
+
+1175
+00:55:38,341 --> 00:55:40,591
+(coughing)
+
+1176
+00:55:41,955 --> 00:55:43,140
+- [Man] They've got a gun!
+
+1177
+00:55:43,140 --> 00:55:44,264
+Bastards!
+
+1178
+00:55:44,264 --> 00:55:46,597
+Hey, where'd they get those?
+
+1179
+00:55:49,947 --> 00:55:52,530
+(wind howling)
+
+1180
+00:55:58,828 --> 00:56:01,578
+(water sloshing)
+
+1181
+00:56:10,245 --> 00:56:11,969
+- There's something on the air.
+
+1182
+00:56:11,969 --> 00:56:12,910
+I can't make it out.
+
+1183
+00:56:12,910 --> 00:56:14,294
+- [Caution] Just follow me.
+
+1184
+00:56:14,294 --> 00:56:15,127
+Come on.
+
+1185
+00:56:16,605 --> 00:56:19,262
+(ominous music)
+
+1186
+00:56:19,262 --> 00:56:21,701
+(water sloshing)
+
+1187
+00:56:21,701 --> 00:56:22,534
+- Move it!
+
+1188
+00:56:22,534 --> 00:56:23,867
+Come on, faster!
+
+1189
+00:56:26,099 --> 00:56:26,932
+This way!
+
+1190
+00:56:26,932 --> 00:56:27,765
+Let's go!
+
+1191
+00:56:30,996 --> 00:56:33,473
+- [Caution] There it is.
+
+1192
+00:56:33,473 --> 00:56:36,140
+(ominous music)
+
+1193
+00:56:48,895 --> 00:56:50,228
+(metal squeaking)
+
+1194
+00:56:50,228 --> 00:56:51,061
+Come on.
+
+1195
+00:56:53,498 --> 00:56:55,660
+- [Computer] Access granted.
+
+1196
+00:56:55,660 --> 00:56:56,530
+Please initiate
+
+1197
+00:56:58,330 --> 00:56:59,953
+filtering process.
+
+1198
+00:57:01,050 --> 00:57:01,883
+(thudding)
+
+1199
+00:57:01,883 --> 00:57:02,920
+- [Caution] Where's the switch?
+
+1200
+00:57:06,223 --> 00:57:08,890
+(ominous music)
+
+1201
+00:57:11,318 --> 00:57:12,540
+(electrical fizzling)
+
+1202
+00:57:12,540 --> 00:57:13,373
+- [Computer] Please wait
+
+1203
+00:57:13,373 --> 00:57:15,590
+for oxygenation process to complete.
+
+1204
+00:57:15,590 --> 00:57:17,701
+Five, four, three,
+
+1205
+00:57:17,701 --> 00:57:19,710
+two, one.
+
+1206
+00:57:19,710 --> 00:57:21,500
+Oxygenation complete.
+
+1207
+00:57:21,500 --> 00:57:22,923
+You make exit airlock.
+
+1208
+00:57:29,323 --> 00:57:30,843
+(gun clicking)
+
+1209
+00:57:30,843 --> 00:57:34,301
+(door creaking)
+
+1210
+00:57:34,301 --> 00:57:36,217
+(coughing)
+
+1211
+00:57:36,217 --> 00:57:38,800
+(wind howling)
+
+1212
+00:57:41,440 --> 00:57:43,330
+- Hey, beau, look at all this stuff.
+
+1213
+00:57:43,330 --> 00:57:44,569
+- Hey!
+
+1214
+00:57:44,569 --> 00:57:45,821
+Shut the damn door!
+
+1215
+00:57:45,821 --> 00:57:47,280
+The filthy filters is already as unholy
+
+1216
+00:57:47,280 --> 00:57:48,893
+as the dark side of a lunar.
+
+1217
+00:57:50,010 --> 00:57:50,843
+Shut it!
+
+1218
+00:57:52,066 --> 00:57:52,899
+- Okay.
+
+1219
+00:57:52,899 --> 00:57:54,157
+Just take it easy, old man.
+
+1220
+00:57:57,928 --> 00:57:59,869
+(door thudding)
+
+1221
+00:57:59,869 --> 00:58:01,480
+- What's the law want with me?
+
+1222
+00:58:01,480 --> 00:58:02,880
+- Relax, old man!
+
+1223
+00:58:02,880 --> 00:58:04,790
+We're not here on Company business, okay?
+
+1224
+00:58:04,790 --> 00:58:05,623
+- Is that so?
+
+1225
+00:58:08,100 --> 00:58:09,330
+- Old timer,
+
+1226
+00:58:09,330 --> 00:58:11,290
+this is Caution Templar
+
+1227
+00:58:11,290 --> 00:58:13,020
+and they call me Buckskin Greenberg.
+
+1228
+00:58:13,020 --> 00:58:14,690
+Hey, take it easy!
+
+1229
+00:58:14,690 --> 00:58:17,093
+- Yeah, well they call
+me a crazy old fool.
+
+1230
+00:58:17,981 --> 00:58:20,463
+Maybe that's why they aint killed me yet.
+
+1231
+00:58:23,730 --> 00:58:26,530
+You're not here to check me
+registration papers, Keeper?
+
+1232
+00:58:27,950 --> 00:58:29,150
+- It's about my brother.
+
+1233
+00:58:30,752 --> 00:58:31,697
+- Yeah.
+
+1234
+00:58:31,697 --> 00:58:34,130
+Caution's bro was the dude
+that got blasted out here
+
+1235
+00:58:34,130 --> 00:58:35,143
+a few days ago.
+
+1236
+00:58:37,190 --> 00:58:39,080
+- Aye, bless his soul.
+
+1237
+00:58:39,080 --> 00:58:40,760
+I saw it all.
+
+1238
+00:58:40,760 --> 00:58:42,600
+Ike Ringo and company.
+
+1239
+00:58:42,600 --> 00:58:43,777
+They finished him.
+
+1240
+00:58:43,777 --> 00:58:46,090
+I took a satchel off of him.
+
+1241
+00:58:46,090 --> 00:58:47,329
+- A satchel?
+
+1242
+00:58:47,329 --> 00:58:49,130
+Keeper, eureka!
+
+1243
+00:58:49,130 --> 00:58:50,500
+Well cut to the chase, old man!
+
+1244
+00:58:50,500 --> 00:58:51,750
+What was in the satchel?
+
+1245
+00:58:51,750 --> 00:58:52,583
+- Shut up.
+
+1246
+00:58:52,583 --> 00:58:53,500
+- Come on, tell us!
+
+1247
+00:58:53,500 --> 00:58:54,583
+- Shut up!
+
+1248
+00:58:54,583 --> 00:58:55,502
+- What was in the satchel?
+
+1249
+00:58:55,502 --> 00:58:56,335
+- Shut up!
+
+1250
+00:58:56,335 --> 00:58:57,168
+- Yes, sir.
+
+1251
+00:58:57,168 --> 00:58:58,001
+- Shut up!
+
+1252
+00:58:58,001 --> 00:58:58,834
+- Okay, sir.
+
+1253
+00:58:58,834 --> 00:58:59,667
+- Shut up!
+
+1254
+00:58:59,667 --> 00:59:00,500
+- Just take it easy.
+
+1255
+00:59:00,500 --> 00:59:02,083
+- Doesn't he ever shut up?
+
+1256
+00:59:04,150 --> 00:59:05,773
+Yo, Greenberg.
+
+1257
+00:59:05,773 --> 00:59:06,606
+- Huh?
+
+1258
+00:59:06,606 --> 00:59:07,470
+- You move around too much
+
+1259
+00:59:07,470 --> 00:59:09,560
+and you run your mouth way too much.
+
+1260
+00:59:09,560 --> 00:59:10,663
+Sit your ass down.
+
+1261
+00:59:12,060 --> 00:59:13,243
+Sit your ass down!
+
+1262
+00:59:15,185 --> 00:59:16,018
+- Just take it easy.
+
+1263
+00:59:16,018 --> 00:59:17,190
+- Go on, sit your ass down on the table.
+
+1264
+00:59:17,190 --> 00:59:18,130
+Get over there.
+
+1265
+00:59:18,130 --> 00:59:19,260
+- Okay.
+
+1266
+00:59:19,260 --> 00:59:23,052
+Just don't point that thing at me, okay?
+
+1267
+00:59:23,052 --> 00:59:24,052
+Put it down.
+
+1268
+00:59:31,675 --> 00:59:32,543
+- [Fargo] Move!
+
+1269
+00:59:32,543 --> 00:59:34,626
+Let's finish this keeper!
+
+1270
+00:59:36,247 --> 00:59:39,300
+(wind howling)
+
+1271
+00:59:39,300 --> 00:59:40,800
+- You strong of heart, Keeper?
+
+1272
+00:59:42,600 --> 00:59:44,653
+I said, are you strong of heart, Keeper?
+
+1273
+00:59:45,748 --> 00:59:48,737
+(dramatic music)
+
+1274
+00:59:48,737 --> 00:59:51,900
+(wind howling)
+
+1275
+00:59:51,900 --> 00:59:53,640
+There's a wind storm,
+
+1276
+00:59:53,640 --> 00:59:55,570
+just like tonight.
+
+1277
+00:59:55,570 --> 00:59:57,420
+We always get them this time of year.
+
+1278
+00:59:58,405 --> 01:00:00,110
+(gunshots popping)
+
+1279
+01:00:00,110 --> 01:00:02,050
+I heard shots.
+
+1280
+01:00:02,050 --> 01:00:03,370
+I saw a man running.
+
+1281
+01:00:03,370 --> 01:00:04,335
+Didn't know who.
+
+1282
+01:00:04,335 --> 01:00:06,213
+(gunshots popping)
+
+1283
+01:00:06,213 --> 01:00:07,793
+But he must've known about me.
+
+1284
+01:00:09,090 --> 01:00:12,356
+He knew I'd take care of
+that little package for him.
+
+1285
+01:00:12,356 --> 01:00:13,443
+But it was too late.
+
+1286
+01:00:14,846 --> 01:00:16,161
+(groaning)
+
+1287
+01:00:16,161 --> 01:00:18,283
+Oh, the guards had a mighty good time.
+
+1288
+01:00:20,490 --> 01:00:23,140
+Before they shot our brother
+in the back of the head.
+
+1289
+01:00:24,156 --> 01:00:26,097
+(booming)
+
+1290
+01:00:26,097 --> 01:00:28,847
+(dramatic music)
+
+1291
+01:00:29,712 --> 01:00:31,755
+You Company boys really know how to
+
+1292
+01:00:31,755 --> 01:00:34,093
+drain all to the memory banks.
+
+1293
+01:00:36,940 --> 01:00:38,773
+When he opened up that satchel,
+
+1294
+01:00:41,020 --> 01:00:42,343
+me heart just broke.
+
+1295
+01:00:43,211 --> 01:00:45,107
+I heard her crying first.
+(baby crying)
+
+1296
+01:00:45,107 --> 01:00:48,083
+Her tiny lungs fighting to
+find air but there was none.
+
+1297
+01:00:49,149 --> 01:00:50,533
+The poor, wee thing.
+
+1298
+01:00:51,860 --> 01:00:54,130
+She couldn't have been
+more than a month old.
+
+1299
+01:00:54,130 --> 01:00:55,611
+(baby crying)
+
+1300
+01:00:55,611 --> 01:00:57,933
+Those damned, heartless monsters.
+
+1301
+01:00:59,340 --> 01:01:00,835
+What they did...
+
+1302
+01:01:00,835 --> 01:01:02,610
+(baby crying)
+
+1303
+01:01:02,610 --> 01:01:04,142
+I'll never forget.
+
+1304
+01:01:04,142 --> 01:01:07,131
+(baby crying)
+
+1305
+01:01:07,131 --> 01:01:09,251
+(gunshot booming)
+
+1306
+01:01:09,251 --> 01:01:12,001
+(dramatic music)
+
+1307
+01:01:13,976 --> 01:01:14,809
+Come on.
+
+1308
+01:01:19,140 --> 01:01:20,610
+- [Fargo] Let's enjoy this.
+
+1309
+01:01:20,610 --> 01:01:22,953
+It's not everyday we get
+to play with our firearms.
+
+1310
+01:01:24,691 --> 01:01:27,691
+(suspenseful music)
+
+1311
+01:01:28,880 --> 01:01:30,834
+(alarm beeping)
+
+1312
+01:01:30,834 --> 01:01:33,501
+(wind rumbling)
+
+1313
+01:01:49,823 --> 01:01:52,823
+(door seal hissing)
+
+1314
+01:01:57,576 --> 01:02:00,076
+- I didn't know about the kid.
+
+1315
+01:02:02,470 --> 01:02:04,953
+- And if you had, would
+you have cared, Keeper?
+
+1316
+01:02:13,500 --> 01:02:14,387
+- Hey, if you found anything,
+
+1317
+01:02:14,387 --> 01:02:16,387
+you just better give it to him, old man.
+
+1318
+01:02:20,030 --> 01:02:21,280
+- It's all he had on him.
+
+1319
+01:02:22,216 --> 01:02:23,784
+That's his Keeper I.D.
+
+1320
+01:02:23,784 --> 01:02:26,451
+I went and buried the wee thing.
+
+1321
+01:02:27,743 --> 01:02:29,076
+Put her to rest.
+
+1322
+01:02:30,960 --> 01:02:31,793
+- Where?
+
+1323
+01:02:32,670 --> 01:02:33,503
+- Out there.
+
+1324
+01:02:34,480 --> 01:02:37,280
+I could find her but you
+don't want to see her, Keeper.
+
+1325
+01:02:37,280 --> 01:02:38,970
+Like the rest,
+
+1326
+01:02:38,970 --> 01:02:40,093
+she weren't right.
+
+1327
+01:02:41,040 --> 01:02:42,013
+- What do you mean?
+
+1328
+01:02:43,797 --> 01:02:46,270
+- I been here since the start, Keeper.
+
+1329
+01:02:47,750 --> 01:02:51,850
+First mission after they nuked the icecap
+
+1330
+01:02:51,850 --> 01:02:53,740
+and went greenhouse.
+
+1331
+01:02:53,740 --> 01:02:55,390
+First farming
+
+1332
+01:02:55,390 --> 01:02:57,283
+when the geo struck Silex.
+
+1333
+01:02:58,820 --> 01:03:00,870
+Finest fossil fuel ever.
+
+1334
+01:03:00,870 --> 01:03:02,130
+That's crap.
+
+1335
+01:03:02,130 --> 01:03:04,810
+And plenty of EPA boys got plenty rich
+
+1336
+01:03:04,810 --> 01:03:06,923
+swearing that this planet was safe.
+
+1337
+01:03:10,290 --> 01:03:13,430
+You know why their aren't
+any women on Mars, Keeper?
+
+1338
+01:03:13,430 --> 01:03:15,052
+- Company regulations.
+
+1339
+01:03:15,052 --> 01:03:16,917
+- Company regulations.
+
+1340
+01:03:16,917 --> 01:03:18,692
+(laughing)
+
+1341
+01:03:18,692 --> 01:03:20,940
+Company regulations.
+
+1342
+01:03:20,940 --> 01:03:22,562
+(laughing)
+
+1343
+01:03:22,562 --> 01:03:24,812
+(coughing)
+
+1344
+01:03:29,905 --> 01:03:32,905
+(suspenseful music)
+
+1345
+01:03:42,896 --> 01:03:45,063
+There used to be children.
+
+1346
+01:03:46,050 --> 01:03:49,493
+We had about six of them
+the first year on Alpha.
+
+1347
+01:03:50,737 --> 01:03:51,833
+They wasn't right.
+
+1348
+01:03:53,260 --> 01:03:54,550
+The Company shuttered them off.
+
+1349
+01:03:54,550 --> 01:03:56,763
+We reckon for some sort of rehab.
+
+1350
+01:03:57,650 --> 01:03:58,993
+We never saw them again.
+
+1351
+01:04:00,410 --> 01:04:02,270
+- Why don't you quit
+your jabbering, old man,
+
+1352
+01:04:02,270 --> 01:04:04,502
+and get to he crust of the biscuit, okay?
+
+1353
+01:04:04,502 --> 01:04:05,983
+Come on!
+
+1354
+01:04:05,983 --> 01:04:08,397
+(ominous music)
+
+1355
+01:04:08,397 --> 01:04:11,219
+- Billy?
+
+1356
+01:04:11,219 --> 01:04:12,302
+Come on down.
+
+1357
+01:04:13,340 --> 01:04:15,740
+I've got some folks I want you to meet.
+
+1358
+01:04:15,740 --> 01:04:17,311
+- [Billy] Father.
+
+1359
+01:04:17,311 --> 01:04:19,972
+(eerie music)
+
+1360
+01:04:19,972 --> 01:04:20,972
+- That's it.
+
+1361
+01:04:22,297 --> 01:04:23,880
+That's it, wee lad.
+
+1362
+01:04:32,407 --> 01:04:36,050
+The Company didn't want folks to see this.
+
+1363
+01:04:36,050 --> 01:04:37,593
+They made Billy work here.
+
+1364
+01:04:37,593 --> 01:04:38,673
+Said they made a row.
+
+1365
+01:04:39,860 --> 01:04:41,477
+Many children buried.
+
+1366
+01:04:43,420 --> 01:04:45,668
+Go back up to your room, son.
+
+1367
+01:04:45,668 --> 01:04:48,010
+- [Billy] Yes, father.
+
+1368
+01:04:48,010 --> 01:04:50,449
+- Easy there, fella, easy.
+
+1369
+01:04:50,449 --> 01:04:53,233
+(dramatic music)
+
+1370
+01:04:53,233 --> 01:04:55,110
+He's a good boy.
+
+1371
+01:04:55,110 --> 01:04:56,913
+He's a good boy.
+
+1372
+01:04:59,620 --> 01:05:02,203
+I'm awful sorry about
+your brother, Keeper.
+
+1373
+01:05:03,150 --> 01:05:05,690
+And I wish he'd gotten
+that girl back to Earth
+
+1374
+01:05:05,690 --> 01:05:06,870
+so some doctor could approve
+
+1375
+01:05:06,870 --> 01:05:10,101
+what's eating all of us up on this planet.
+
+1376
+01:05:10,101 --> 01:05:10,934
+- The Silex.
+
+1377
+01:05:10,934 --> 01:05:13,080
+- Of course it's the Silex.
+
+1378
+01:05:13,080 --> 01:05:15,130
+- Doc ran a program a few hours ago
+
+1379
+01:05:15,130 --> 01:05:16,960
+and she said that's what it was.
+
+1380
+01:05:16,960 --> 01:05:17,973
+- Damn straight.
+
+1381
+01:05:18,940 --> 01:05:21,310
+- And the Company has
+been keeping a lid on it
+
+1382
+01:05:21,310 --> 01:05:23,223
+and they knew it all along.
+
+1383
+01:05:24,690 --> 01:05:26,713
+And it's going to happen on the earth.
+
+1384
+01:05:27,828 --> 01:05:32,828
+Silex fumes spewing from
+every engine on every road.
+
+1385
+01:05:34,020 --> 01:05:36,963
+That's why they won't let
+nobody get off this rock.
+
+1386
+01:05:38,660 --> 01:05:41,240
+Sure, they can swing
+out to the army station
+
+1387
+01:05:41,240 --> 01:05:44,040
+but that's nothing but a
+freaking dead satellite by now.
+
+1388
+01:05:45,618 --> 01:05:46,518
+We're trapped here
+
+1389
+01:05:47,440 --> 01:05:49,117
+until we die.
+
+1390
+01:05:49,117 --> 01:05:51,784
+(ominous music)
+
+1391
+01:06:01,500 --> 01:06:04,620
+That's a Company memo from 30 years ago.
+
+1392
+01:06:04,620 --> 01:06:08,013
+The president of I.P.C ordering
+everyone to hush things up.
+
+1393
+01:06:09,670 --> 01:06:13,500
+Nice outfit you work for, aye Keeper?
+
+1394
+01:06:13,500 --> 01:06:15,143
+Killing kids for profit.
+
+1395
+01:06:17,946 --> 01:06:20,946
+(suspenseful music)
+
+1396
+01:06:25,200 --> 01:06:26,033
+- [Caution] Nice.
+
+1397
+01:06:26,033 --> 01:06:27,403
+- [Pete] They is all antiques.
+
+1398
+01:06:32,630 --> 01:06:33,910
+- [Caution] Where'd you get the guns?
+
+1399
+01:06:33,910 --> 01:06:35,890
+- It's all from the first landing.
+
+1400
+01:06:35,890 --> 01:06:38,750
+You can't buy ammo for it anymore.
+
+1401
+01:06:38,750 --> 01:06:40,540
+- Where do you get it?
+
+1402
+01:06:40,540 --> 01:06:42,950
+- I made me a reloading bench.
+
+1403
+01:06:42,950 --> 01:06:44,913
+Crazy old fool's got to have a hobby.
+
+1404
+01:06:46,526 --> 01:06:50,030
+(suspenseful music)
+
+1405
+01:06:50,030 --> 01:06:51,480
+These are fun.
+
+1406
+01:06:51,480 --> 01:06:52,650
+- [Buckskin] This is some heavy arsenal.
+
+1407
+01:06:52,650 --> 01:06:53,560
+- Here you go, boy.
+
+1408
+01:06:53,560 --> 01:06:54,640
+- [Buckskin] Thank you.
+
+1409
+01:06:54,640 --> 01:06:55,710
+- Take this one, that's good.
+
+1410
+01:06:55,710 --> 01:06:56,960
+- [Buckskin] Okay.
+
+1411
+01:06:56,960 --> 01:06:58,540
+Oh wee, we're gonna get some action, beau.
+
+1412
+01:06:58,540 --> 01:07:00,830
+- Sure you know how to handle it all?
+
+1413
+01:07:00,830 --> 01:07:01,870
+- [Caution] No problem.
+
+1414
+01:07:01,870 --> 01:07:02,703
+- [Buckskin] Yeah, yeah.
+
+1415
+01:07:02,703 --> 01:07:04,650
+Me, I'm a basement bomber by birth.
+
+1416
+01:07:04,650 --> 01:07:06,480
+- That may get you as far as the Dome.
+
+1417
+01:07:06,480 --> 01:07:08,000
+You're marked men.
+
+1418
+01:07:08,000 --> 01:07:10,790
+Nobody who ever took on the company
+
+1419
+01:07:10,790 --> 01:07:11,940
+lived to tell about it.
+
+1420
+01:07:14,870 --> 01:07:17,347
+May the grace of God be with you.
+
+1421
+01:07:17,347 --> 01:07:18,180
+(foreboding music)
+
+1422
+01:07:18,180 --> 01:07:19,013
+Get down!
+
+1423
+01:07:19,013 --> 01:07:21,541
+(explosion booming)
+
+1424
+01:07:21,541 --> 01:07:23,074
+Company bastards!
+
+1425
+01:07:23,074 --> 01:07:24,147
+Get off me land!
+
+1426
+01:07:24,147 --> 01:07:27,068
+(gunshots booming)
+
+1427
+01:07:27,068 --> 01:07:28,103
+(yelling)
+
+1428
+01:07:28,103 --> 01:07:30,721
+(gunshots booming)
+
+1429
+01:07:30,721 --> 01:07:33,888
+(Buckskin whimpering)
+
+1430
+01:07:35,370 --> 01:07:37,617
+(glass shattering)
+
+1431
+01:07:37,617 --> 01:07:39,857
+(suspenseful music)
+
+1432
+01:07:39,857 --> 01:07:42,309
+- [Buckskin] Go get 'em!
+
+1433
+01:07:42,309 --> 01:07:45,226
+(gunshots booming)
+
+1434
+01:07:46,230 --> 01:07:48,397
+(yelling)
+
+1435
+01:07:58,240 --> 01:07:59,073
+- Down!
+
+1436
+01:08:03,923 --> 01:08:06,835
+Nothing I hate worse than dirty mine rats!
+
+1437
+01:08:06,835 --> 01:08:09,159
+(Buckskin whimpering)
+
+1438
+01:08:09,159 --> 01:08:11,560
+(gunshots booming)
+
+1439
+01:08:11,560 --> 01:08:13,055
+- [Buckskin] Beau!
+
+1440
+01:08:13,055 --> 01:08:13,888
+Beau!
+
+1441
+01:08:13,888 --> 01:08:15,954
+- Come out, come out, wherever you are!
+
+1442
+01:08:15,954 --> 01:08:17,578
+(booming)
+
+1443
+01:08:17,578 --> 01:08:18,411
+(air tank hissing)
+
+1444
+01:08:18,411 --> 01:08:19,991
+- Go!
+
+1445
+01:08:19,991 --> 01:08:20,840
+(groaning)
+
+1446
+01:08:20,840 --> 01:08:21,874
+(gunshots booming)
+
+1447
+01:08:21,874 --> 01:08:22,870
+- Give me the gun.
+
+1448
+01:08:22,870 --> 01:08:23,703
+- [Buckskin] Okay!
+
+1449
+01:08:23,703 --> 01:08:26,285
+(yelling)
+
+1450
+01:08:26,285 --> 01:08:27,535
+Watch it, beau!
+
+1451
+01:08:28,980 --> 01:08:31,147
+(booming)
+
+1452
+01:08:33,621 --> 01:08:35,498
+- Let's play, Superman!
+
+1453
+01:08:35,498 --> 01:08:36,775
+You run and I kill you!
+
+1454
+01:08:36,775 --> 01:08:40,370
+(gunshots booming)
+
+1455
+01:08:40,370 --> 01:08:43,053
+Come on, die like a good Company dog!
+
+1456
+01:08:44,872 --> 01:08:46,570
+It's over, Keeper man.
+
+1457
+01:08:46,570 --> 01:08:48,857
+Our boss, Mr. Clement,
+sent us to kill you!
+
+1458
+01:08:48,857 --> 01:08:51,774
+(gunshots booming)
+
+1459
+01:08:53,697 --> 01:08:56,187
+Come on, you stinking poochie!
+
+1460
+01:08:56,187 --> 01:09:01,187
+Let's play for keeps!
+
+1461
+01:09:02,560 --> 01:09:05,234
+(yelling)
+
+1462
+01:09:05,234 --> 01:09:06,067
+(booming)
+
+1463
+01:09:06,067 --> 01:09:09,002
+(groaning)
+
+1464
+01:09:09,002 --> 01:09:11,585
+(bomb beeping)
+
+1465
+01:09:13,300 --> 01:09:15,311
+- Way to go, beau!
+
+1466
+01:09:15,311 --> 01:09:16,144
+It's gonna blow!
+
+1467
+01:09:16,144 --> 01:09:18,253
+It's gonna blow!
+
+1468
+01:09:18,253 --> 01:09:21,336
+(explosion rumbling)
+
+1469
+01:09:22,212 --> 01:09:24,463
+(suspenseful music)
+
+1470
+01:09:24,463 --> 01:09:25,753
+- Excuse me, sir.
+
+1471
+01:09:27,460 --> 01:09:29,110
+But maybe we should rethink this.
+
+1472
+01:09:30,380 --> 01:09:31,250
+Cool down, some.
+
+1473
+01:09:31,250 --> 01:09:33,800
+- Am I taking advice
+from failed Keepers now?
+
+1474
+01:09:33,800 --> 01:09:35,640
+- We took care of Ino.
+
+1475
+01:09:35,640 --> 01:09:37,840
+If that would've been the end of it, okay.
+
+1476
+01:09:37,840 --> 01:09:40,040
+But why can't we let
+this brother of his go?
+
+1477
+01:09:41,710 --> 01:09:45,360
+Let him take out that animal, Ringo.
+
+1478
+01:09:45,360 --> 01:09:46,730
+And he'll be done with it.
+
+1479
+01:09:46,730 --> 01:09:49,062
+- We can not afford to take
+that risk, Chief Bascom.
+
+1480
+01:09:49,062 --> 01:09:51,770
+Why don't you just follow your directives?
+
+1481
+01:09:51,770 --> 01:09:53,570
+Come on, there's nothing
+but two loose ends here.
+
+1482
+01:09:53,570 --> 01:09:54,403
+Nothing more.
+
+1483
+01:09:54,403 --> 01:09:55,236
+One's over there.
+
+1484
+01:09:55,236 --> 01:09:56,520
+The company doctor.
+
+1485
+01:09:56,520 --> 01:09:58,410
+The other's the Keeper.
+
+1486
+01:09:58,410 --> 01:10:00,020
+Now,
+
+1487
+01:10:00,020 --> 01:10:01,410
+once both are taken care of,
+
+1488
+01:10:01,410 --> 01:10:03,283
+it's back to business as usual.
+
+1489
+01:10:07,240 --> 01:10:09,210
+I'll take that as a yes.
+
+1490
+01:10:09,210 --> 01:10:10,810
+Now, I'm going out for a stroll.
+
+1491
+01:10:12,490 --> 01:10:13,630
+Make sure the women is secure
+
+1492
+01:10:13,630 --> 01:10:15,690
+and I'll telecom if I need you.
+
+1493
+01:10:15,690 --> 01:10:16,523
+Door open.
+
+1494
+01:10:19,100 --> 01:10:22,100
+(suspenseful music)
+
+1495
+01:10:28,310 --> 01:10:30,873
+- I'll have you undone
+here in a minute, doctor.
+
+1496
+01:10:33,710 --> 01:10:35,910
+I'll tell you how things
+got so out of hand.
+
+1497
+01:10:38,057 --> 01:10:41,250
+(foreboding music)
+
+1498
+01:10:41,250 --> 01:10:43,417
+(moaning)
+
+1499
+01:10:48,258 --> 01:10:49,446
+- Bascom.
+
+1500
+01:10:49,446 --> 01:10:50,279
+(Doc whimpering)
+
+1501
+01:10:50,279 --> 01:10:52,435
+(booming)
+
+1502
+01:10:52,435 --> 01:10:55,213
+(crying)
+
+1503
+01:10:55,213 --> 01:10:57,563
+Now that's what I call executive action.
+
+1504
+01:11:00,930 --> 01:11:02,170
+- [Buckskin] So where we going, beau?
+
+1505
+01:11:02,170 --> 01:11:03,650
+I mean, you heard Fargo, right?
+
+1506
+01:11:03,650 --> 01:11:05,070
+Clement's behind it all.
+
+1507
+01:11:05,070 --> 01:11:07,230
+We going to get Clement, huh, beau, huh?
+
+1508
+01:11:07,230 --> 01:11:08,070
+- [Caution] Be quiet.
+
+1509
+01:11:08,070 --> 01:11:09,040
+Load this.
+
+1510
+01:11:09,040 --> 01:11:10,300
+- Okay.
+
+1511
+01:11:10,300 --> 01:11:11,990
+Okay, I'm ready.
+
+1512
+01:11:11,990 --> 01:11:12,823
+Let's go.
+
+1513
+01:11:14,426 --> 01:11:17,426
+(suspenseful music)
+
+1514
+01:11:31,272 --> 01:11:32,689
+You see anything?
+
+1515
+01:11:34,095 --> 01:11:34,928
+Huh?
+
+1516
+01:11:34,928 --> 01:11:36,345
+You see anything?
+
+1517
+01:11:42,536 --> 01:11:43,903
+You see anything?
+
+1518
+01:11:43,903 --> 01:11:45,320
+Beau?
+
+1519
+01:11:45,320 --> 01:11:48,320
+(suspenseful music)
+
+1520
+01:11:58,005 --> 01:11:59,653
+Beau?
+
+1521
+01:11:59,653 --> 01:12:00,968
+What're we looking for?
+
+1522
+01:12:00,968 --> 01:12:01,885
+- Get back.
+
+1523
+01:12:16,802 --> 01:12:19,385
+(gun clicking)
+
+1524
+01:12:27,269 --> 01:12:29,769
+(rustling)
+
+1525
+01:12:29,769 --> 01:12:30,602
+- Beau!
+
+1526
+01:12:32,119 --> 01:12:35,036
+(gunshots booming)
+
+1527
+01:12:36,337 --> 01:12:39,085
+(yelling)
+
+1528
+01:12:39,085 --> 01:12:40,673
+(yelling)
+
+1529
+01:12:40,673 --> 01:12:42,793
+(thudding)
+
+1530
+01:12:42,793 --> 01:12:45,710
+(gunshots booming)
+
+1531
+01:12:47,710 --> 01:12:49,345
+- Damn!
+
+1532
+01:12:49,345 --> 01:12:52,580
+(Buckskin whimpering)
+
+1533
+01:12:52,580 --> 01:12:54,211
+- Corner!
+
+1534
+01:12:54,211 --> 01:12:56,378
+(booming)
+
+1535
+01:12:58,566 --> 01:12:59,399
+Open the bag.
+
+1536
+01:12:59,399 --> 01:13:00,232
+- What?
+
+1537
+01:13:00,232 --> 01:13:01,065
+- Open the bag!
+
+1538
+01:13:01,065 --> 01:13:02,435
+- Okay, okay, open the bag.
+
+1539
+01:13:02,435 --> 01:13:03,268
+All Right.
+
+1540
+01:13:03,268 --> 01:13:06,348
+(gunshots booming)
+
+1541
+01:13:06,348 --> 01:13:07,181
+I can't see! I can't see!
+
+1542
+01:13:07,181 --> 01:13:08,486
+- A grenade!
+
+1543
+01:13:08,486 --> 01:13:09,319
+- What's a grenade?
+
+1544
+01:13:09,319 --> 01:13:10,152
+- Come on, man!
+
+1545
+01:13:12,356 --> 01:13:14,399
+(gunshots booming)
+
+1546
+01:13:14,399 --> 01:13:15,232
+Ancient thing.
+
+1547
+01:13:16,141 --> 01:13:16,974
+Thant's it.
+
+1548
+01:13:16,974 --> 01:13:17,807
+- Okay, got it.
+
+1549
+01:13:17,807 --> 01:13:18,640
+Now what?
+
+1550
+01:13:18,640 --> 01:13:19,910
+(booming)
+
+1551
+01:13:19,910 --> 01:13:20,989
+- Pull out the pin.
+
+1552
+01:13:20,989 --> 01:13:22,629
+- Okay, pull out the pin.
+
+1553
+01:13:22,629 --> 01:13:24,300
+Okay, now what?
+
+1554
+01:13:24,300 --> 01:13:25,173
+- Get rid of it.
+
+1555
+01:13:25,173 --> 01:13:27,167
+(grenade beeping)
+
+1556
+01:13:27,167 --> 01:13:30,488
+(gunshots booming)
+
+1557
+01:13:30,488 --> 01:13:32,429
+(yelling)
+
+1558
+01:13:32,429 --> 01:13:34,421
+(suspenseful music)
+
+1559
+01:13:34,421 --> 01:13:37,254
+(grenade beeping)
+
+1560
+01:13:42,365 --> 01:13:45,448
+(explosion rumbling)
+
+1561
+01:13:46,910 --> 01:13:47,810
+Come on, let's go!
+
+1562
+01:13:52,263 --> 01:13:55,180
+(foreboding music)
+
+1563
+01:13:57,680 --> 01:13:58,760
+- [Thug] Come in, Ringo.
+
+1564
+01:13:58,760 --> 01:13:59,593
+- Speak!
+
+1565
+01:13:59,593 --> 01:14:00,426
+- [Thug] I'm sorry, sir.
+
+1566
+01:14:00,426 --> 01:14:01,419
+The Keeper got through.
+
+1567
+01:14:01,419 --> 01:14:03,586
+(yelling)
+
+1568
+01:14:08,520 --> 01:14:10,666
+(beeping)
+
+1569
+01:14:10,666 --> 01:14:11,866
+(buzzing)
+
+1570
+01:14:11,866 --> 01:14:12,699
+- This is Clement.
+
+1571
+01:14:12,699 --> 01:14:13,532
+- They missed him.
+
+1572
+01:14:13,532 --> 01:14:14,623
+They couldn't stop the Keeper.
+
+1573
+01:14:16,553 --> 01:14:18,140
+- What do you mean, you missed him?
+
+1574
+01:14:18,140 --> 01:14:20,900
+- He's on his way back to the Dome.
+
+1575
+01:14:20,900 --> 01:14:22,800
+- That means he'll be coming after me.
+
+1576
+01:14:24,000 --> 01:14:26,900
+Ringo, I had better not
+encounter that Keeper alive!
+
+1577
+01:14:26,900 --> 01:14:27,733
+Do you hear me?
+
+1578
+01:14:27,733 --> 01:14:29,490
+- Yes, sir, I'll be waiting for him!
+
+1579
+01:14:29,490 --> 01:14:30,743
+- Now out!
+
+1580
+01:14:34,060 --> 01:14:35,700
+Well, it appears, doctor,
+that I may need you
+
+1581
+01:14:35,700 --> 01:14:36,883
+as an insurance policy.
+
+1582
+01:14:38,448 --> 01:14:40,615
+(moaning)
+
+1583
+01:14:41,520 --> 01:14:44,080
+What a nice night for a shuttle ride.
+
+1584
+01:14:44,080 --> 01:14:47,080
+(suspenseful music)
+
+1585
+01:14:52,140 --> 01:14:53,163
+- Hey!
+
+1586
+01:14:53,163 --> 01:14:53,996
+You can't--
+
+1587
+01:14:53,996 --> 01:14:54,829
+(groaning)
+
+1588
+01:14:54,829 --> 01:14:57,133
+(thudding)
+
+1589
+01:14:57,133 --> 01:14:58,100
+(whooshing)
+
+1590
+01:14:58,100 --> 01:15:00,003
+(yelling)
+
+1591
+01:15:00,003 --> 01:15:03,003
+(suspenseful music)
+
+1592
+01:15:12,526 --> 01:15:15,443
+(glass shattering)
+
+1593
+01:15:23,360 --> 01:15:24,993
+- Time to die, Keeper!
+
+1594
+01:15:26,171 --> 01:15:28,942
+(yelling)
+
+1595
+01:15:28,942 --> 01:15:31,192
+(thudding)
+
+1596
+01:15:33,463 --> 01:15:36,630
+(electrical fizzling)
+
+1597
+01:15:41,189 --> 01:15:43,856
+(ominous music)
+
+1598
+01:15:50,461 --> 01:15:53,500
+(thudding)
+
+1599
+01:15:53,500 --> 01:15:54,333
+Escape!
+
+1600
+01:15:55,276 --> 01:15:58,276
+(suspenseful music)
+
+1601
+01:16:11,943 --> 01:16:14,143
+Come to poppa, baby, let's heat things up.
+
+1602
+01:16:16,767 --> 01:16:19,767
+(suspenseful music)
+
+1603
+01:16:29,734 --> 01:16:31,111
+(Buckskin whooping)
+
+1604
+01:16:31,111 --> 01:16:33,361
+(thudding)
+
+1605
+01:16:48,082 --> 01:16:50,828
+- That'll keep you to mess
+with the Junior Keeper.
+
+1606
+01:16:50,828 --> 01:16:51,739
+(groaning)
+
+1607
+01:16:51,739 --> 01:16:52,572
+(yelling)
+
+1608
+01:16:52,572 --> 01:16:54,822
+(thudding)
+
+1609
+01:17:00,135 --> 01:17:02,802
+(ominous music)
+
+1610
+01:17:27,317 --> 01:17:29,567
+I'm right behind you, beau.
+
+1611
+01:17:31,590 --> 01:17:32,463
+No worries.
+
+1612
+01:17:41,932 --> 01:17:44,849
+(foreboding music)
+
+1613
+01:17:47,232 --> 01:17:49,399
+(yelling)
+
+1614
+01:17:50,463 --> 01:17:53,296
+- Looks like your goose is cooked!
+
+1615
+01:18:01,068 --> 01:18:01,901
+Damn!
+
+1616
+01:18:01,901 --> 01:18:03,244
+(fire whooshing)
+
+1617
+01:18:03,244 --> 01:18:05,577
+(screaming)
+
+1618
+01:18:09,673 --> 01:18:11,840
+(banging)
+
+1619
+01:18:12,777 --> 01:18:13,610
+Ashes to ashes!
+
+1620
+01:18:14,960 --> 01:18:16,940
+(screaming)
+
+1621
+01:18:16,940 --> 01:18:18,971
+(fire whooshing)
+
+1622
+01:18:18,971 --> 01:18:21,304
+(screaming)
+
+1623
+01:18:28,600 --> 01:18:30,094
+- Oh, you wanna make a fireball?
+
+1624
+01:18:30,094 --> 01:18:31,384
+Listen, I may be a sleazebag
+
+1625
+01:18:31,384 --> 01:18:33,557
+but baby killing pisses me off!
+
+1626
+01:18:35,020 --> 01:18:36,331
+Get him, beau!
+
+1627
+01:18:36,331 --> 01:18:38,145
+(fizzling)
+
+1628
+01:18:38,145 --> 01:18:39,228
+Go, beau, go!
+
+1629
+01:18:41,172 --> 01:18:42,321
+Come on!
+
+1630
+01:18:42,321 --> 01:18:43,540
+(suspenseful music)
+
+1631
+01:18:43,540 --> 01:18:45,120
+- Come on, Keeper.
+
+1632
+01:18:45,120 --> 01:18:46,689
+Come on.
+
+1633
+01:18:46,689 --> 01:18:48,489
+I'll do you like I did your brother.
+
+1634
+01:18:50,730 --> 01:18:53,157
+Let's hear you beg like he did.
+
+1635
+01:18:55,595 --> 01:18:57,845
+(thudding)
+
+1636
+01:19:00,415 --> 01:19:01,498
+I'll cut you.
+
+1637
+01:19:03,889 --> 01:19:06,889
+(suspenseful music)
+
+1638
+01:19:09,534 --> 01:19:11,784
+(thudding)
+
+1639
+01:19:12,780 --> 01:19:14,183
+- Let's go, beau, let's go!
+
+1640
+01:19:16,240 --> 01:19:17,303
+- Ino hated you.
+
+1641
+01:19:18,160 --> 01:19:19,433
+Hated your guts.
+
+1642
+01:19:20,478 --> 01:19:21,311
+Yeah.
+
+1643
+01:19:26,634 --> 01:19:28,884
+(thudding)
+
+1644
+01:19:31,551 --> 01:19:32,384
+- Yeah!
+
+1645
+01:19:34,003 --> 01:19:36,420
+(whimpering)
+
+1646
+01:19:38,269 --> 01:19:39,102
+- Go, beau!
+
+1647
+01:19:39,102 --> 01:19:39,935
+Take him down!
+
+1648
+01:19:39,935 --> 01:19:41,262
+- Where's Clement?
+
+1649
+01:19:41,262 --> 01:19:44,243
+- You think you've won,
+don't you, Order boy?
+
+1650
+01:19:45,260 --> 01:19:46,093
+You lost!
+
+1651
+01:19:46,093 --> 01:19:47,460
+Clement's on the shuttle.
+
+1652
+01:19:47,460 --> 01:19:49,093
+I hope you can fly.
+
+1653
+01:19:50,074 --> 01:19:51,430
+Go ahead, huh?
+
+1654
+01:19:51,430 --> 01:19:52,750
+Kill me in cold blood.
+
+1655
+01:19:52,750 --> 01:19:54,450
+Forget about that holy order, huh?
+
+1656
+01:19:55,387 --> 01:19:57,600
+Go on and kill me.
+
+1657
+01:19:57,600 --> 01:19:59,010
+You're gonna enjoy it just as much
+
+1658
+01:19:59,010 --> 01:20:01,060
+as I enjoyed killing your little brother.
+
+1659
+01:20:01,910 --> 01:20:02,743
+Go on, do it!
+
+1660
+01:20:02,743 --> 01:20:04,590
+You're just like me!
+
+1661
+01:20:04,590 --> 01:20:05,795
+Yeah!
+
+1662
+01:20:05,795 --> 01:20:07,826
+(yelling)
+
+1663
+01:20:07,826 --> 01:20:10,493
+(ominous music)
+
+1664
+01:20:14,569 --> 01:20:16,736
+(gagging)
+
+1665
+01:20:20,584 --> 01:20:22,990
+- Beau, you should get
+triple overtime for that.
+
+1666
+01:20:22,990 --> 01:20:24,070
+- Come on, let's move.
+
+1667
+01:20:24,070 --> 01:20:24,903
+- Okay!
+
+1668
+01:20:26,834 --> 01:20:29,300
+(suspenseful music)
+
+1669
+01:20:29,300 --> 01:20:30,460
+Hurry up!
+
+1670
+01:20:30,460 --> 01:20:31,840
+What was that shuttle?
+
+1671
+01:20:31,840 --> 01:20:34,395
+- [Announcer] Shuttle
+will depart in 10 minutes.
+
+1672
+01:20:34,395 --> 01:20:35,740
+(wind howling)
+
+1673
+01:20:35,740 --> 01:20:36,790
+- I want that hover bus now!
+
+1674
+01:20:36,790 --> 01:20:38,640
+I can't walk to the blasted shuttled site!
+
+1675
+01:20:38,640 --> 01:20:41,090
+No, I don't care about
+any explosion in a tunnel!
+
+1676
+01:20:42,262 --> 01:20:43,922
+- We're almost there.
+
+1677
+01:20:43,922 --> 01:20:46,850
+(suspenseful music)
+
+1678
+01:20:46,850 --> 01:20:48,430
+- Just get me to that shuttle!
+
+1679
+01:20:48,430 --> 01:20:49,263
+- Clement!
+
+1680
+01:20:50,530 --> 01:20:51,363
+- Security,
+
+1681
+01:20:52,200 --> 01:20:53,050
+get to the shuttle bay.
+
+1682
+01:20:53,050 --> 01:20:54,560
+Intruder alert!
+
+1683
+01:20:54,560 --> 01:20:58,310
+Security, I need assistance now!
+
+1684
+01:20:58,310 --> 01:21:00,330
+Caution, you shoulda stayed out of this,
+
+1685
+01:21:00,330 --> 01:21:01,590
+followed your Keeper's Code!
+
+1686
+01:21:01,590 --> 01:21:03,060
+You don't understand the complexities
+
+1687
+01:21:03,060 --> 01:21:04,440
+in this kind of operation!
+
+1688
+01:21:04,440 --> 01:21:06,730
+It's difficult to maintain
+corporate integrity!
+
+1689
+01:21:06,730 --> 01:21:08,390
+- Integrity?
+
+1690
+01:21:08,390 --> 01:21:09,223
+- Yes.
+
+1691
+01:21:09,223 --> 01:21:10,056
+Security.
+
+1692
+01:21:11,870 --> 01:21:13,570
+Structure.
+
+1693
+01:21:13,570 --> 01:21:16,010
+The key to survival.
+
+1694
+01:21:16,010 --> 01:21:17,830
+Order.
+
+1695
+01:21:17,830 --> 01:21:18,820
+- Order?
+
+1696
+01:21:18,820 --> 01:21:21,540
+- You are a trader to
+the Company, Caution.
+
+1697
+01:21:21,540 --> 01:21:25,420
+How dare you bite the hand that feeds you?
+
+1698
+01:21:25,420 --> 01:21:26,470
+Gives your life meaning.
+
+1699
+01:21:26,470 --> 01:21:29,680
+Now you have once chance
+to save your membership.
+
+1700
+01:21:29,680 --> 01:21:31,063
+Serve the Company.
+
+1701
+01:21:33,290 --> 01:21:34,968
+Security, arrest this man!
+
+1702
+01:21:34,968 --> 01:21:37,968
+(suspenseful music)
+
+1703
+01:22:01,382 --> 01:22:04,049
+(knife slicing)
+
+1704
+01:22:06,610 --> 01:22:08,564
+(squelching)
+
+1705
+01:22:08,564 --> 01:22:11,564
+(suspenseful music)
+
+1706
+01:22:12,791 --> 01:22:13,624
+- [Announcer] Attention!
+
+1707
+01:22:13,624 --> 01:22:16,776
+Orbit shuttle departs in five minutes.
+
+1708
+01:22:16,776 --> 01:22:18,180
+- Hover bus, override!
+
+1709
+01:22:18,180 --> 01:22:19,013
+This is Clement!
+
+1710
+01:22:21,850 --> 01:22:23,610
+You broke your code, didn't you Caution?
+
+1711
+01:22:23,610 --> 01:22:25,413
+You attached yourself to this woman.
+
+1712
+01:22:26,540 --> 01:22:27,373
+You forgot, didn't you?
+
+1713
+01:22:27,373 --> 01:22:29,410
+A Keeper can never get involved
+
+1714
+01:22:30,560 --> 01:22:32,380
+and never care.
+
+1715
+01:22:32,380 --> 01:22:33,970
+Can never show mercy.
+
+1716
+01:22:33,970 --> 01:22:35,820
+- And never negotiate.
+
+1717
+01:22:35,820 --> 01:22:39,370
+- No, I will sacrifice this
+woman for the greater cause!
+
+1718
+01:22:39,370 --> 01:22:41,620
+(thudding)
+
+1719
+01:22:43,120 --> 01:22:44,660
+- You okay?
+
+1720
+01:22:44,660 --> 01:22:45,526
+How you doing, doc?
+
+1721
+01:22:45,526 --> 01:22:48,152
+(screaming)
+
+1722
+01:22:48,152 --> 01:22:51,152
+(suspenseful music)
+
+1723
+01:22:55,206 --> 01:22:56,999
+(groaning)
+
+1724
+01:22:56,999 --> 01:22:57,832
+Where'd they go?
+
+1725
+01:22:57,832 --> 01:22:58,701
+- Caution!
+
+1726
+01:22:58,701 --> 01:22:59,534
+- Beau?
+
+1727
+01:23:04,419 --> 01:23:05,920
+- Caution, stop it!
+
+1728
+01:23:05,920 --> 01:23:08,560
+Stop it, Caution, you can't do this!
+
+1729
+01:23:08,560 --> 01:23:09,393
+- Why?
+
+1730
+01:23:09,393 --> 01:23:10,226
+- You owe it to the Company!
+
+1731
+01:23:10,226 --> 01:23:12,580
+It's your job, it's your duty!
+
+1732
+01:23:12,580 --> 01:23:15,160
+(groaning)
+
+1733
+01:23:15,160 --> 01:23:16,935
+(gunshot booming)
+(glass shattering)
+
+1734
+01:23:16,935 --> 01:23:19,370
+(wind howling)
+
+1735
+01:23:19,370 --> 01:23:20,720
+- I quit!
+
+1736
+01:23:20,720 --> 01:23:23,053
+(screaming)
+
+1737
+01:23:27,132 --> 01:23:28,651
+- Where's Clement?
+
+1738
+01:23:28,651 --> 01:23:31,440
+(thudding)
+
+1739
+01:23:31,440 --> 01:23:34,523
+(jackhammer buzzing)
+
+1740
+01:23:35,668 --> 01:23:37,568
+- He finally joined the working class.
+
+1741
+01:23:38,540 --> 01:23:39,530
+Come on.
+
+1742
+01:23:39,530 --> 01:23:41,106
+- No, hey, let's see what he left behind.
+
+1743
+01:23:41,106 --> 01:23:41,939
+Come on!
+
+1744
+01:23:45,460 --> 01:23:47,197
+- [Announcer] Medical alert in progress.
+
+1745
+01:23:47,197 --> 01:23:50,092
+Calmly proceed to the
+shuttle deck for evacuation.
+
+1746
+01:23:50,092 --> 01:23:50,934
+(dramatic music)
+
+1747
+01:23:50,934 --> 01:23:55,351
+All citizens must evacuate
+in a calm, orderly manner.
+
+1748
+01:23:56,770 --> 01:23:58,137
+- Caution?
+
+1749
+01:23:58,137 --> 01:23:59,222
+Caution!
+
+1750
+01:23:59,222 --> 01:24:00,717
+Where you gonna go?
+
+1751
+01:24:00,717 --> 01:24:02,933
+When you have no family, you have no job,
+
+1752
+01:24:03,833 --> 01:24:05,333
+what do you plan on doing now?
+
+1753
+01:24:08,280 --> 01:24:09,113
+- Nothing.
+
+1754
+01:24:10,295 --> 01:24:11,128
+It's over.
+
+1755
+01:24:13,080 --> 01:24:14,070
+- Come on, Caution.
+
+1756
+01:24:14,070 --> 01:24:15,620
+It's not over.
+
+1757
+01:24:15,620 --> 01:24:17,800
+Please, come back to Earth.
+
+1758
+01:24:17,800 --> 01:24:20,200
+The people really need your help.
+
+1759
+01:24:20,200 --> 01:24:21,100
+Fight the Company.
+
+1760
+01:24:22,000 --> 01:24:24,750
+We still got a few more
+battles before justice is done.
+
+1761
+01:24:26,030 --> 01:24:27,220
+- Beau, skip that!
+
+1762
+01:24:27,220 --> 01:24:28,053
+Come to Venus with me.
+
+1763
+01:24:28,053 --> 01:24:29,280
+They got a new colony opening up.
+
+1764
+01:24:29,280 --> 01:24:30,870
+I mean, you and me, together.
+
+1765
+01:24:30,870 --> 01:24:32,320
+Keepers gotta stick together.
+
+1766
+01:24:34,164 --> 01:24:34,997
+What, doc?
+
+1767
+01:24:34,997 --> 01:24:35,830
+- Nothing.
+
+1768
+01:24:36,762 --> 01:24:38,943
+Find a good cause wherever you go.
+
+1769
+01:24:42,110 --> 01:24:43,270
+- Looks like it's you and me, beau.
+
+1770
+01:24:43,270 --> 01:24:45,190
+Brothers in blood, snow and mud.
+
+1771
+01:24:45,190 --> 01:24:46,860
+I hear some of the poochie on Venus
+
+1772
+01:24:46,860 --> 01:24:49,010
+is like you've never seen before.
+
+1773
+01:24:49,010 --> 01:24:50,463
+We'll be killing out there.
+
+1774
+01:24:51,466 --> 01:24:52,299
+Beau?
+
+1775
+01:24:53,980 --> 01:24:54,813
+- Hey, doc!
+
+1776
+01:24:58,222 --> 01:24:59,590
+- Beau!
+
+1777
+01:24:59,590 --> 01:25:01,140
+Beau, I thought we were a team.
+
+1778
+01:25:02,730 --> 01:25:05,313
+(somber music)
+
+1779
+01:25:07,290 --> 01:25:08,123
+- Thanks.
+
+1780
+01:25:16,842 --> 01:25:17,675
+- Beau!
+
+1781
+01:25:17,675 --> 01:25:18,508
+Okay, beau.
+
+1782
+01:25:18,508 --> 01:25:19,461
+So you've got the hots, here, for the doc.
+
+1783
+01:25:19,461 --> 01:25:20,310
+Understandable,
+
+1784
+01:25:20,310 --> 01:25:21,280
+but you gotta let the big head
+
+1785
+01:25:21,280 --> 01:25:22,330
+do the thinking for the little head.
+
+1786
+01:25:22,330 --> 01:25:23,163
+- [Caution] Greenberg.
+
+1787
+01:25:23,163 --> 01:25:24,700
+- [Buckskin] Beau, beau,
+I just had a brainstorm.
+
+1788
+01:25:24,700 --> 01:25:26,630
+You Keepers are like the core, right?
+
+1789
+01:25:26,630 --> 01:25:27,970
+You probably got the dirt on everyone.
+
+1790
+01:25:27,970 --> 01:25:28,980
+So let's sell the story.
+
+1791
+01:25:28,980 --> 01:25:30,280
+We'll make millions of credits!
+
+1792
+01:25:30,280 --> 01:25:31,690
+- [Caution] I'll tell you
+the world's greatest secret.
+
+1793
+01:25:31,690 --> 01:25:33,060
+- [Buckskin] Yeah, finally!
+
+1794
+01:25:33,060 --> 01:25:34,719
+- [Caution] Silence is golden.
+
+1795
+01:25:34,719 --> 01:25:36,969
+- [Buckskin] Come on, beau.
+
+1796
+01:25:38,844 --> 01:25:41,594
+(dramatic music)
+
+1797
+01:26:08,945 --> 01:26:11,945
+(suspenseful music)
+
+1798
+01:26:57,783 --> 01:27:00,366
+(somber music)
+
+1799
+01:28:11,434 --> 01:28:14,434
+(suspenseful music)
+
+1800
+01:29:58,903 --> 01:30:01,653
+(dramatic music)
+

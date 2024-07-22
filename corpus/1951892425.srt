@@ -1,0 +1,3373 @@
+1
+00:00:35,987 --> 00:00:37,921  X1:078 X2:337 Y1:344 Y2:379
+THUNDER RUMBLES
+
+2
+00:00:38,867 --> 00:00:40,994  X1:078 X2:309 Y1:488 Y2:523
+HORSE WHINNIES
+
+3
+00:00:45,978 --> 00:00:49,425  X1:426 X2:613 Y1:488 Y2:523
+Whoa! Whoa!
+
+4
+00:01:06,235 --> 00:01:08,533  X1:272 X2:447 Y1:488 Y2:523
+Whoa, whoa!
+
+5
+00:01:28,813 --> 00:01:30,610  X1:252 X2:465 Y1:488 Y2:523
+Silence in court!
+
+6
+00:01:30,650 --> 00:01:35,128  X1:160 X2:559 Y1:452 Y2:523
+Now we come, not for the first
+time, to Jarndyce and Jarndyce.
+
+7
+00:01:35,168 --> 00:01:37,765  X1:250 X2:469 Y1:488 Y2:523
+Yes, Mr Tangle?
+
+8
+00:01:37,805 --> 00:01:41,556  X1:148 X2:571 Y1:416 Y2:523
+As we know, m'lud, the problem
+with which we grapple in the case
+of Jarndyce and Jarndyce
+
+9
+00:01:41,596 --> 00:01:44,956  X1:174 X2:545 Y1:452 Y2:523
+is that there are several wills
+and fragments of wills,
+
+10
+00:01:44,996 --> 00:01:48,034  X1:212 X2:505 Y1:452 Y2:523
+all of them different,
+all of them conflicting.
+
+11
+00:01:48,070 --> 00:01:51,584  X1:232 X2:487 Y1:452 Y2:523
+Is there much more
+of this, Mr Tangle?
+
+12
+00:01:51,625 --> 00:01:55,462  X1:236 X2:481 Y1:452 Y2:523
+Afraid there is. . .
+a variety of points.
+
+13
+00:01:55,508 --> 00:01:59,015  X1:176 X2:543 Y1:452 Y2:523
+I feel it my duty to submit. . .
+Ludship.
+
+14
+00:01:59,058 --> 00:02:04,214  X1:124 X2:595 Y1:416 Y2:523
+Mr Brownlow, you appear
+for Lady Dedlock in this matter.
+Do you have any matters of urgency?
+
+15
+00:02:04,254 --> 00:02:07,731  X1:218 X2:501 Y1:488 Y2:523
+Er. . . No, m'lud. Ah.
+
+16
+00:02:07,771 --> 00:02:12,806  X1:128 X2:591 Y1:452 Y2:523
+I see that Mr Tulkinghorn has graced
+us with his presence this morning.
+
+17
+00:02:12,846 --> 00:02:14,319  X1:312 X2:407 Y1:488 Y2:523
+M'lud.
+
+18
+00:02:16,480 --> 00:02:18,477  X1:078 X2:271 Y1:488 Y2:523
+THUNDERCLAP
+
+19
+00:02:18,517 --> 00:02:20,394  X1:190 X2:529 Y1:488 Y2:523
+Is it still raining, my love?
+
+20
+00:02:20,434 --> 00:02:23,874  X1:180 X2:539 Y1:488 Y2:523
+Yes, my love. Remarkable.
+
+21
+00:02:23,914 --> 00:02:28,708  X1:156 X2:563 Y1:452 Y2:523
+And I am bored to death with it.
+Ah, well. . .
+
+22
+00:02:28,748 --> 00:02:31,025  X1:162 X2:555 Y1:488 Y2:523
+Bored to death with this place,
+
+23
+00:02:31,065 --> 00:02:32,983  X1:180 X2:539 Y1:488 Y2:523
+bored to death with my life,
+
+24
+00:02:33,023 --> 00:02:35,383  X1:170 X2:549 Y1:488 Y2:523
+(bored to death with myself. )
+
+25
+00:02:35,423 --> 00:02:37,499  X1:198 X2:521 Y1:488 Y2:523
+What was that, my love?
+
+26
+00:02:37,539 --> 00:02:39,099  X1:288 X2:431 Y1:488 Y2:523
+Nothing. . .
+
+27
+00:02:39,139 --> 00:02:41,576  X1:252 X2:467 Y1:488 Y2:523
+of consequence.
+
+28
+00:02:41,616 --> 00:02:44,134  X1:130 X2:589 Y1:488 Y2:523
+Mr Tulkinghorn will be coming soon.
+
+29
+00:02:44,174 --> 00:02:47,011  X1:224 X2:495 Y1:452 Y2:523
+Certain legal matters
+to discuss, he says.
+
+30
+00:02:47,051 --> 00:02:50,245  X1:128 X2:591 Y1:452 Y2:523
+Perhaps there's been a development
+in Jarndyce and Jarndyce.
+
+31
+00:02:50,285 --> 00:02:54,918  X1:138 X2:581 Y1:452 Y2:523
+Nothing ever happens with
+Jarndyce and Jarndyce. No, well. . .
+
+32
+00:02:54,958 --> 00:02:57,637  X1:108 X2:611 Y1:488 Y2:523
+JUDGE: Now, somewhat to my surprise,
+
+33
+00:02:57,677 --> 00:03:00,633  X1:182 X2:537 Y1:488 Y2:523
+something stirs in Jarndyce.
+
+34
+00:03:00,673 --> 00:03:04,990  X1:172 X2:547 Y1:452 Y2:523
+It appears that the two young
+people, the wards of court
+
+35
+00:03:05,030 --> 00:03:08,544  X1:176 X2:543 Y1:452 Y2:523
+who stand at the very
+centre of these proceedings,
+
+36
+00:03:08,584 --> 00:03:10,225  X1:242 X2:477 Y1:488 Y2:523
+are with us today.
+
+37
+00:03:10,265 --> 00:03:14,898  X1:170 X2:549 Y1:452 Y2:523
+My lord, you were to hear my
+case today! Gridley, my lord.
+
+38
+00:03:14,938 --> 00:03:16,098  X1:196 X2:521 Y1:488 Y2:523
+Silence in court! Gridley.
+
+39
+00:03:16,138 --> 00:03:19,215  X1:136 X2:583 Y1:452 Y2:523
+I have a right to be heard, my lord.
+I have waited long enough.
+
+40
+00:03:19,255 --> 00:03:21,891  X1:154 X2:563 Y1:488 Y2:523
+Quiet, sir, quiet. Keep it down.
+
+41
+00:03:21,931 --> 00:03:26,489  X1:146 X2:573 Y1:452 Y2:523
+An application has been made for
+them to reside with their cousin -
+
+42
+00:03:26,529 --> 00:03:30,087  X1:234 X2:485 Y1:488 Y2:523
+a Mr John Jarndyce.
+
+43
+00:03:30,127 --> 00:03:31,961  X1:176 X2:541 Y1:488 Y2:523
+Will your lordship allow me?
+
+44
+00:03:32,001 --> 00:03:35,475  X1:156 X2:561 Y1:452 Y2:523
+The two young people are here,
+my lord.
+
+45
+00:03:35,515 --> 00:03:40,270  X1:126 X2:593 Y1:400 Y2:523
+And there is a third young person, my lord.
+A third young person?
+Not another ward in court?
+
+46
+00:03:40,310 --> 00:03:45,665  X1:138 X2:581 Y1:416 Y2:523
+No, m'lud. Engaged as companion
+to this young lady, and seeking
+your lordship's approval.
+
+47
+00:03:45,705 --> 00:03:47,303  X1:176 X2:543 Y1:488 Y2:523
+Very well. Is she here, too?
+
+48
+00:03:47,343 --> 00:03:49,191  X1:234 X2:485 Y1:488 Y2:523
+On her way, m'lud.
+
+49
+00:03:58,334 --> 00:04:01,050  X1:256 X2:461 Y1:488 Y2:523
+Miss Barbary. . .
+
+50
+00:04:01,090 --> 00:04:04,048  X1:130 X2:589 Y1:488 Y2:523
+will you tell me, who am I, exactly?
+
+51
+00:04:04,088 --> 00:04:05,655  X1:268 X2:451 Y1:488 Y2:523
+Who are you?
+
+52
+00:04:05,695 --> 00:04:09,838  X1:156 X2:561 Y1:452 Y2:523
+You're nobody. You're nothing.
+You're worse than nothing.
+
+53
+00:04:09,878 --> 00:04:14,836  X1:156 X2:563 Y1:452 Y2:523
+It would have been far better
+if you'd never been born. Why?
+
+54
+00:04:14,876 --> 00:04:17,353  X1:180 X2:539 Y1:488 Y2:523
+Is it because of my mother?
+
+55
+00:04:17,393 --> 00:04:20,630  X1:182 X2:537 Y1:488 Y2:523
+Did she die because of me?
+
+56
+00:04:20,670 --> 00:04:25,420  X1:220 X2:499 Y1:452 Y2:523
+Your mother, Esther,
+is your disgrace. . .
+
+57
+00:04:26,663 --> 00:04:28,661  X1:258 X2:461 Y1:488 Y2:523
+ .and you hers.
+
+58
+00:04:28,701 --> 00:04:31,897  X1:180 X2:539 Y1:452 Y2:523
+You're different
+from other children, Esther.
+
+59
+00:04:31,937 --> 00:04:35,263  X1:238 X2:481 Y1:488 Y2:523
+YOU are set apart.
+
+60
+00:04:35,303 --> 00:04:38,938  X1:078 X2:555 Y1:488 Y2:523
+THUNDER STRIKES, HORSE WHINNIES
+
+61
+00:04:43,566 --> 00:04:45,158  X1:078 X2:263 Y1:488 Y2:523
+MEN CRY OUT
+
+62
+00:04:52,199 --> 00:04:56,031  X1:116 X2:601 Y1:452 Y2:523
+Miss Esther Summerson? My name is
+Guppy, Miss, of Kenge and Carboys.
+
+63
+00:04:56,071 --> 00:04:57,668  X1:252 X2:467 Y1:488 Y2:523
+Allow me, Miss.
+
+64
+00:04:57,708 --> 00:04:59,756  X1:224 X2:493 Y1:488 Y2:523
+There. Here we are.
+
+65
+00:04:59,796 --> 00:05:03,224  X1:164 X2:553 Y1:452 Y2:523
+Bring down Miss Summerson's
+box and follow us, my man.
+
+66
+00:05:03,264 --> 00:05:05,589  X1:140 X2:579 Y1:488 Y2:523
+Now, will you take me arm, Miss?
+
+67
+00:05:05,629 --> 00:05:07,859  X1:116 X2:603 Y1:488 Y2:523
+We don't wanna lose ya, do we, Miss?
+
+68
+00:05:07,899 --> 00:05:10,601  X1:078 X2:457 Y1:488 Y2:523
+DOG BARKS, VOICES CRY OUT
+
+69
+00:05:12,733 --> 00:05:15,051  X1:184 X2:535 Y1:452 Y2:523
+Oh! Have a care there, sir.
+I do beg your pardon.
+
+70
+00:05:15,091 --> 00:05:17,811  X1:240 X2:479 Y1:488 Y2:523
+I beg your pardon.
+
+71
+00:05:17,851 --> 00:05:20,473  X1:192 X2:527 Y1:452 Y2:523
+Are you all right?
+Quite all right, thank you.
+
+72
+00:05:22,642 --> 00:05:24,860  X1:228 X2:491 Y1:488 Y2:523
+Then no harm done.
+
+73
+00:05:27,956 --> 00:05:28,991  X1:248 X2:471 Y1:488 Y2:523
+Good day to you.
+
+74
+00:05:32,990 --> 00:05:34,789  X1:266 X2:453 Y1:488 Y2:523
+Good day, sir.
+
+75
+00:05:34,829 --> 00:05:37,506  X1:210 X2:507 Y1:488 Y2:523
+Well, Jo, how are you?
+
+76
+00:05:37,546 --> 00:05:39,394  X1:154 X2:563 Y1:488 Y2:523
+You know me, sir. I never vary.
+
+77
+00:05:41,511 --> 00:05:43,461  X1:154 X2:565 Y1:488 Y2:523
+I've nothing to give you now, Jo,
+
+78
+00:05:43,501 --> 00:05:45,857  X1:204 X2:515 Y1:452 Y2:523
+but I'll look out
+for you on my way back.
+
+79
+00:05:45,897 --> 00:05:48,325  X1:218 X2:499 Y1:488 Y2:523
+You're very good, sir.
+
+80
+00:05:54,253 --> 00:05:55,936  X1:078 X2:391 Y1:488 Y2:523
+SHOP DOOR BELL RINGS
+
+81
+00:06:10,950 --> 00:06:13,148  X1:212 X2:507 Y1:488 Y2:523
+All in order, Mr Nemo.
+
+82
+00:06:13,188 --> 00:06:16,549  X1:224 X2:495 Y1:452 Y2:523
+Very elegantly done,
+if I may say so.
+
+83
+00:06:18,822 --> 00:06:23,099  X1:194 X2:523 Y1:416 Y2:523
+There'll be another parcel
+of documents to copy
+tomorrow if you want it.
+
+84
+00:06:23,139 --> 00:06:27,652  X1:186 X2:531 Y1:452 Y2:523
+Jarndyce and Jarndyce
+makes work for us all, eh?
+
+85
+00:06:27,692 --> 00:06:29,980  X1:168 X2:551 Y1:488 Y2:523
+Careful how you spend it now.
+
+86
+00:06:30,020 --> 00:06:36,738  X1:136 X2:583 Y1:416 Y2:523
+What's it to you
+how I spend it, Mr Snagsby?
+Nothing at all, I'm sure, Mr Nemo.
+
+87
+00:06:38,318 --> 00:06:40,491  X1:248 X2:471 Y1:488 Y2:523
+Good day to you.
+
+88
+00:07:03,855 --> 00:07:05,629  X1:078 X2:343 Y1:488 Y2:523
+DOOR CREAKS OPEN
+
+89
+00:07:11,608 --> 00:07:13,963  X1:158 X2:561 Y1:488 Y2:523
+Here we are, Miss Summerson.
+
+90
+00:07:14,003 --> 00:07:16,399  X1:200 X2:519 Y1:488 Y2:523
+This is Mr Kenge's room.
+
+91
+00:07:16,439 --> 00:07:19,397  X1:178 X2:541 Y1:452 Y2:523
+Er, take this armchair by the
+fire, if you will. Thank you.
+
+92
+00:07:19,437 --> 00:07:21,113  X1:196 X2:523 Y1:488 Y2:523
+Mr Kenge is in court now.
+
+93
+00:07:21,153 --> 00:07:26,151  X1:138 X2:579 Y1:416 Y2:523
+He left his compliments and would
+you partake of some refreshment,
+and look over the paper if you will.
+
+94
+00:07:26,191 --> 00:07:29,148  X1:172 X2:547 Y1:488 Y2:523
+Oh, thank you, Mr. . . Guppy.
+
+95
+00:07:29,188 --> 00:07:32,745  X1:166 X2:553 Y1:452 Y2:523
+Thank you, Mr Guppy.
+Oh, not at all, Miss, I'm sure.
+
+96
+00:07:32,785 --> 00:07:35,022  X1:214 X2:505 Y1:452 Y2:523
+You're going before
+the Chancellor, I hear.
+
+97
+00:07:35,062 --> 00:07:37,779  X1:196 X2:521 Y1:452 Y2:523
+A claimant in Jarndyce
+and Jarndyce, I dare say?
+
+98
+00:07:37,819 --> 00:07:40,216  X1:166 X2:551 Y1:488 Y2:523
+I don't know. I don't think so.
+
+99
+00:07:40,256 --> 00:07:45,491  X1:120 X2:599 Y1:452 Y2:523
+But Mr John Jarndyce. . .
+There. . . Mr John Jarndyce. You see?
+
+100
+00:07:45,531 --> 00:07:49,924  X1:140 X2:579 Y1:416 Y2:523
+He's right at the heart of the case,
+and it is a very great case,
+Miss Summerson.
+
+101
+00:07:49,964 --> 00:07:51,721  X1:136 X2:583 Y1:488 Y2:523
+The most famous case in Chancery.
+
+102
+00:07:51,761 --> 00:07:53,207  X1:202 X2:517 Y1:488 Y2:523
+Gone on for many years.
+
+103
+00:07:53,247 --> 00:07:57,995  X1:146 X2:573 Y1:416 Y2:523
+Some say it will never be settled,
+and a great deal of money
+depends on it, Miss Summerson.
+
+104
+00:07:58,035 --> 00:08:00,841  X1:206 X2:513 Y1:452 Y2:523
+Hundreds  of thousands.
+Millions, some say.
+
+105
+00:08:00,881 --> 00:08:05,670  X1:164 X2:555 Y1:452 Y2:523
+I have heard of it, Mr Guppy,
+but I don't understand it at all.
+
+106
+00:08:05,710 --> 00:08:08,747  X1:214 X2:503 Y1:452 Y2:523
+It's  about a will, Miss.
+Or a number of 'em.
+
+107
+00:08:08,787 --> 00:08:15,018  X1:106 X2:611 Y1:416 Y2:523
+A long time ago, a man named Jarndyce
+made a great fortune, but he seems
+to have made more than one will.
+
+108
+00:08:15,058 --> 00:08:18,134  X1:184 X2:535 Y1:452 Y2:523
+So, no-one knows
+who should get the money,
+
+109
+00:08:18,174 --> 00:08:20,253  X1:138 X2:581 Y1:488 Y2:523
+and it's been in dispute ever since.
+
+110
+00:08:20,293 --> 00:08:24,648  X1:162 X2:555 Y1:416 Y2:523
+There are lots of claimants,
+and the claims get passed
+down through the generations.
+
+111
+00:08:24,688 --> 00:08:31,159  X1:120 X2:599 Y1:416 Y2:523
+There's two young people appeared in
+court today and they are at the heart
+of it, like your Mr John Jarndyce.
+
+112
+00:08:31,199 --> 00:08:35,442  X1:126 X2:593 Y1:452 Y2:523
+They say one of 'em may get the lot,
+but you never know.
+
+113
+00:08:35,482 --> 00:08:39,510  X1:154 X2:565 Y1:416 Y2:523
+You may have a claim yourself,
+Miss Summerson, if Mr Jarndyce
+has sent for you.
+
+114
+00:08:39,550 --> 00:08:44,588  X1:106 X2:613 Y1:452 Y2:523
+And, may I say, I wish you the very
+best of good fortune, Miss Summerson.
+
+115
+00:08:44,628 --> 00:08:47,025  X1:216 X2:501 Y1:488 Y2:523
+Thank you, Mr Guppy.
+
+116
+00:08:47,065 --> 00:08:51,219  X1:152 X2:567 Y1:452 Y2:523
+Er, you see there's a
+looking-glass there on the wall?
+
+117
+00:08:51,259 --> 00:08:57,093  X1:120 X2:597 Y1:416 Y2:523
+Yes? In case you should want to look
+at yourself after the journey, as
+you're going before the Chancellor.
+
+118
+00:08:57,133 --> 00:08:59,339  X1:232 X2:485 Y1:452 Y2:523
+Er, not that it's
+requisite, I'm sure.
+
+119
+00:08:59,379 --> 00:09:03,025  X1:200 X2:519 Y1:452 Y2:523
+It's very much to the
+contrary, if I may say so.
+
+120
+00:09:08,600 --> 00:09:11,876  X1:274 X2:445 Y1:488 Y2:523
+Oh, no. Oh.
+
+121
+00:09:12,798 --> 00:09:13,998  X1:284 X2:435 Y1:488 Y2:523
+Mortifying.
+
+122
+00:09:14,038 --> 00:09:15,991  X1:272 X2:447 Y1:488 Y2:523
+(Mortifying. )
+
+123
+00:09:16,031 --> 00:09:18,957  X1:220 X2:499 Y1:452 Y2:523
+It's only an ink-stain,
+is it not, Mr Guppy?
+
+124
+00:09:18,997 --> 00:09:23,747  X1:162 X2:555 Y1:416 Y2:523
+That must be a regular hazard,
+I would have thought,
+in your line of business.
+
+125
+00:09:23,787 --> 00:09:26,704  X1:158 X2:561 Y1:488 Y2:523
+Don't upset yourself, I beg you.
+
+126
+00:09:26,744 --> 00:09:28,861  X1:134 X2:585 Y1:488 Y2:523
+You're very kind, Miss Summerson.
+
+127
+00:09:28,901 --> 00:09:30,874  X1:188 X2:531 Y1:488 Y2:523
+Kinder than I could have. . .
+
+128
+00:09:32,295 --> 00:09:34,255  X1:242 X2:477 Y1:488 Y2:523
+Miss Summerson.
+
+129
+00:09:34,295 --> 00:09:38,529  X1:144 X2:575 Y1:488 Y2:523
+Ah, Mr Kenge. Miss Summerson.
+
+130
+00:09:38,569 --> 00:09:40,417  X1:138 X2:581 Y1:488 Y2:523
+Shall we go before the Chancellor?
+
+131
+00:09:53,874 --> 00:09:55,182  X1:284 X2:435 Y1:488 Y2:523
+Mortifying.
+
+132
+00:10:12,133 --> 00:10:14,715  X1:174 X2:545 Y1:488 Y2:523
+Miss Clare? Miss Ada Clare?
+
+133
+00:10:16,370 --> 00:10:20,321  X1:182 X2:535 Y1:452 Y2:523
+Well, well. You are
+a ward of court, Miss Clare.
+
+134
+00:10:20,361 --> 00:10:23,961  X1:160 X2:559 Y1:452 Y2:523
+Do you know what that means?
+I'm not sure that I do, sir.
+
+135
+00:10:24,001 --> 00:10:29,520  X1:142 X2:577 Y1:416 Y2:523
+You and Mr Carstone, both being
+orphaned, you have been placed
+under the jurisdiction of the court.
+
+136
+00:10:29,560 --> 00:10:35,154  X1:180 X2:539 Y1:416 Y2:523
+As claimants in the case,
+as direct descendents of the
+original John Jarndyce
+
+137
+00:10:35,194 --> 00:10:39,622  X1:154 X2:565 Y1:452 Y2:523
+of Bleak House in Hertfordshire,
+now long deceased,
+
+138
+00:10:39,662 --> 00:10:43,821  X1:180 X2:537 Y1:452 Y2:523
+you may inherit a very great
+deal of money,
+
+139
+00:10:43,861 --> 00:10:47,622  X1:196 X2:523 Y1:452 Y2:523
+one or both of you,
+when this case is settled.
+
+140
+00:10:47,662 --> 00:10:52,170  X1:166 X2:553 Y1:452 Y2:523
+In the meantime, your cousin,
+also called John Jarndyce,
+
+141
+00:10:52,210 --> 00:10:56,443  X1:134 X2:585 Y1:452 Y2:523
+also residing at Bleak House,
+has undertaken to take care of you.
+
+142
+00:10:56,483 --> 00:11:00,839  X1:134 X2:585 Y1:452 Y2:523
+Are you willing to go to
+Bleak House, Miss Clare? Yes, sir.
+
+143
+00:11:00,879 --> 00:11:03,557  X1:208 X2:511 Y1:488 Y2:523
+It sounds dreary to me.
+
+144
+00:11:03,590 --> 00:11:06,724  X1:158 X2:559 Y1:488 Y2:523
+Not dreary at present, my lord.
+
+145
+00:11:09,395 --> 00:11:12,152  X1:128 X2:591 Y1:488 Y2:523
+Mr Richard Carstone? Yes, my lord.
+
+146
+00:11:12,198 --> 00:11:18,025  X1:166 X2:553 Y1:416 Y2:523
+Do you think that you will be
+happy under the roof of Mr
+John Jarndyce of Bleak House?
+
+147
+00:11:18,065 --> 00:11:20,101  X1:198 X2:519 Y1:488 Y2:523
+I'm sure I shall, my lord.
+
+148
+00:11:20,141 --> 00:11:21,955  X1:146 X2:571 Y1:488 Y2:523
+Though  you have never met him?
+
+149
+00:11:26,376 --> 00:11:29,693  X1:314 X2:405 Y1:488 Y2:523
+Hmm.
+
+150
+00:11:29,733 --> 00:11:34,243  X1:168 X2:551 Y1:452 Y2:523
+Mr John Jarndyce is a man
+of good character, I suppose?
+
+151
+00:11:34,283 --> 00:11:37,881  X1:128 X2:591 Y1:452 Y2:523
+Of excellent character and high
+standing in the community, my lord.
+
+152
+00:11:37,921 --> 00:11:40,638  X1:164 X2:555 Y1:452 Y2:523
+He has the means to look
+after these two young people?
+
+153
+00:11:40,678 --> 00:11:44,813  X1:176 X2:543 Y1:416 Y2:523
+No matter what the outcome
+of the case, he is a man
+of considerable means.
+
+154
+00:11:46,352 --> 00:11:48,148  X1:262 X2:457 Y1:488 Y2:523
+Is he married?
+
+155
+00:11:48,188 --> 00:11:49,911  X1:236 X2:483 Y1:488 Y2:523
+He is not, my lord.
+
+156
+00:11:55,548 --> 00:12:02,658  X1:140 X2:579 Y1:416 Y2:523
+Hmm. If I might remind your
+lordship, Mr Jarndyce provides a
+suitable companion for Miss Clare.
+
+157
+00:12:02,698 --> 00:12:06,130  X1:214 X2:505 Y1:452 Y2:523
+This is the young lady,
+Miss Summerson.
+
+158
+00:12:06,170 --> 00:12:07,688  X1:316 X2:401 Y1:488 Y2:523
+I see.
+
+159
+00:12:11,528 --> 00:12:13,602  X1:290 X2:429 Y1:488 Y2:523
+Very well.
+
+160
+00:12:13,642 --> 00:12:15,839  X1:212 X2:507 Y1:488 Y2:523
+I shall make the order.
+
+161
+00:12:15,879 --> 00:12:17,898  X1:078 X2:345 Y1:488 Y2:523
+INDISTINCT CHATTER
+
+162
+00:12:20,157 --> 00:12:22,234  X1:158 X2:559 Y1:488 Y2:523
+Well, what a day this has been.
+
+163
+00:12:22,274 --> 00:12:25,630  X1:146 X2:573 Y1:452 Y2:523
+Only yesterday, on the old school
+bench construing Latin verses,
+
+164
+00:12:25,670 --> 00:12:28,337  X1:162 X2:557 Y1:452 Y2:523
+today I'm Mr Richard Carstone,
+heir to a fortune.
+
+165
+00:12:29,468 --> 00:12:31,625  X1:200 X2:517 Y1:452 Y2:523
+So where do we go
+next, Miss Summerson?
+
+166
+00:12:31,665 --> 00:12:34,581  X1:136 X2:583 Y1:488 Y2:523
+Don't YOU know? Not in the least.
+
+167
+00:12:34,621 --> 00:12:37,379  X1:146 X2:573 Y1:488 Y2:523
+We're like the babes in the wood.
+
+168
+00:12:37,419 --> 00:12:40,575  X1:116 X2:603 Y1:452 Y2:523
+Have you known each other very long?
+Not very long.
+
+169
+00:12:40,615 --> 00:12:45,450  X1:148 X2:571 Y1:416 Y2:523
+We met each other half an hour
+before we met you, Esther, but
+we're the best of friends already.
+
+170
+00:12:45,490 --> 00:12:50,684  X1:154 X2:563 Y1:452 Y2:523
+I'm sure all three of us shall be.
+Oh! The wards in Jarndyce.
+
+171
+00:12:50,724 --> 00:12:52,921  X1:218 X2:501 Y1:452 Y2:523
+Very happy, I'm sure,
+to have the honour.
+
+172
+00:12:52,961 --> 00:12:56,475  X1:190 X2:529 Y1:452 Y2:523
+It's a good omen for youth
+and hope and beauty
+
+173
+00:12:56,515 --> 00:13:00,115  X1:134 X2:585 Y1:452 Y2:523
+to find themselves in this place and
+not know what's to come of it.
+
+174
+00:13:00,155 --> 00:13:02,392  X1:160 X2:559 Y1:488 Y2:523
+I was a ward myself, you know.
+
+175
+00:13:02,432 --> 00:13:05,709  X1:162 X2:555 Y1:452 Y2:523
+Of course, my case was
+nothing like so grand as yours,
+
+176
+00:13:05,749 --> 00:13:09,662  X1:146 X2:571 Y1:452 Y2:523
+but I expect a judgement shortly,
+on the Day of Judgement.
+
+177
+00:13:09,702 --> 00:13:12,706  X1:160 X2:559 Y1:452 Y2:523
+Now don't be troublesome,
+Miss Flite, there's a good soul.
+
+178
+00:13:12,746 --> 00:13:16,538  X1:126 X2:593 Y1:452 Y2:523
+Ah, here's your cab. You're to lodge
+with Mrs Jellyby tonight.
+
+179
+00:13:16,578 --> 00:13:20,054  X1:130 X2:589 Y1:452 Y2:523
+A good soul, and a great
+philanthropist. Guppy will take you.
+
+180
+00:13:20,094 --> 00:13:22,890  X1:248 X2:469 Y1:488 Y2:523
+Ah, yes, indeed.
+
+181
+00:13:22,930 --> 00:13:26,162  X1:144 X2:575 Y1:488 Y2:523
+Well, Miss Clare and Mr Carstone.
+
+182
+00:13:26,202 --> 00:13:29,042  X1:242 X2:477 Y1:488 Y2:523
+Miss Summerson.
+
+183
+00:13:29,082 --> 00:13:31,919  X1:220 X2:499 Y1:488 Y2:523
+Up we go. We all in?
+
+184
+00:13:31,959 --> 00:13:34,275  X1:242 X2:475 Y1:488 Y2:523
+Off we go, driver.
+
+185
+00:13:34,315 --> 00:13:35,754  X1:298 X2:421 Y1:488 Y2:523
+Walk on.
+
+186
+00:13:40,790 --> 00:13:42,803  X1:306 X2:413 Y1:488 Y2:523
+Clamb?
+
+187
+00:13:47,785 --> 00:13:51,618  X1:164 X2:555 Y1:488 Y2:523
+Fetch the Jarndyce documents.
+
+188
+00:13:51,658 --> 00:13:54,819  X1:142 X2:577 Y1:488 Y2:523
+Going down to Chesney Wold, sir?
+
+189
+00:13:54,859 --> 00:13:58,293  X1:110 X2:609 Y1:488 Y2:523
+Mmm. A fine house, I understand, sir.
+
+190
+00:13:58,333 --> 00:14:02,563  X1:138 X2:581 Y1:488 Y2:523
+Very fine house, very great family.
+
+191
+00:14:02,603 --> 00:14:05,884  X1:172 X2:547 Y1:452 Y2:523
+A great privilege to serve
+Sir Leicester Dedlock, Clamb.
+
+192
+00:14:05,924 --> 00:14:08,601  X1:214 X2:505 Y1:488 Y2:523
+And Lady Dedlock, sir.
+
+193
+00:14:08,641 --> 00:14:10,998  X1:168 X2:551 Y1:488 Y2:523
+A great beauty in her day, sir.
+
+194
+00:14:11,038 --> 00:14:13,634  X1:248 X2:469 Y1:488 Y2:523
+Mmm, a beauty.
+
+195
+00:14:13,674 --> 00:14:17,081  X1:198 X2:521 Y1:452 Y2:523
+Not from a great family,
+but a beauty, as you say.
+
+196
+00:14:18,549 --> 00:14:21,177  X1:248 X2:471 Y1:488 Y2:523
+That's the world.
+
+197
+00:14:22,706 --> 00:14:26,927  X1:164 X2:555 Y1:452 Y2:523
+Fetch the papers, Clamb.
+Right you are, Mr Tulkinghorn.
+
+198
+00:14:31,536 --> 00:14:33,754  X1:078 X2:239 Y1:488 Y2:523
+CHILD CRIES
+
+199
+00:14:35,815 --> 00:14:38,248  X1:078 X2:517 Y1:488 Y2:523
+Mr Guppy, whatever's the matter?
+
+200
+00:14:38,288 --> 00:14:43,121  X1:142 X2:577 Y1:416 Y2:523
+Don't be frightened, Miss. One of
+the young Jellybys has got
+his head through the railings.
+
+201
+00:14:43,161 --> 00:14:45,759  X1:156 X2:561 Y1:488 Y2:523
+Oh, poor child. Oh, never fear.
+
+202
+00:14:45,799 --> 00:14:48,760  X1:138 X2:581 Y1:488 Y2:523
+I'll pull him out, Miss Summerson.
+
+203
+00:14:48,800 --> 00:14:50,913  X1:212 X2:507 Y1:488 Y2:523
+Oh. Move. 'Ere y'are.
+
+204
+00:14:50,953 --> 00:14:54,314  X1:078 X2:247 Y1:488 Y2:523
+CHILD WAILS
+
+205
+00:14:55,470 --> 00:14:57,947  X1:224 X2:495 Y1:488 Y2:523
+No go. I'll try again.
+
+206
+00:14:57,987 --> 00:15:02,145  X1:116 X2:603 Y1:452 Y2:523
+Mr Guppy! Mr Guppy. Would it not be
+better to push?
+
+207
+00:15:02,185 --> 00:15:04,702  X1:190 X2:529 Y1:452 Y2:523
+Where his head will go,
+the rest of him will follow.
+
+208
+00:15:04,742 --> 00:15:08,736  X1:212 X2:507 Y1:452 Y2:523
+Oh, excellent thought,
+Miss Summerson.
+
+209
+00:15:08,776 --> 00:15:10,376  X1:180 X2:539 Y1:488 Y2:523
+Gently, don't be frightened.
+
+210
+00:15:10,416 --> 00:15:13,532  X1:170 X2:547 Y1:452 Y2:523
+Er, wriggle your
+shoulder a little bit sideways.
+
+211
+00:15:13,572 --> 00:15:15,246  X1:078 X2:421 Y1:488 Y2:523
+CHILD CONTINUES TO WAIL
+
+212
+00:15:15,286 --> 00:15:18,693  X1:078 X2:539 Y1:488 Y2:523
+There, that's it. There, we got him!
+
+213
+00:15:19,326 --> 00:15:21,440  X1:078 X2:257 Y1:488 Y2:523
+DOOR OPENS
+
+214
+00:15:21,480 --> 00:15:24,280  X1:140 X2:579 Y1:488 Y2:523
+Ah, Miss Clare. Miss Summerson.
+
+215
+00:15:24,320 --> 00:15:27,067  X1:198 X2:521 Y1:452 Y2:523
+Mr  Carstone.
+Do, please, come inside.
+
+216
+00:15:36,109 --> 00:15:40,544  X1:146 X2:573 Y1:452 Y2:523
+This way, my dears.
+You find me, as usual, very busy.
+
+217
+00:15:40,584 --> 00:15:43,940  X1:200 X2:519 Y1:452 Y2:523
+My Africa project
+employs my whole time.
+
+218
+00:15:43,980 --> 00:15:46,777  X1:078 X2:531 Y1:488 Y2:523
+THUD, FOLLOWED BY CHILD CRYING
+
+219
+00:15:46,817 --> 00:15:50,811  X1:192 X2:527 Y1:452 Y2:523
+We hope by this time next
+year to have 200 families
+
+220
+00:15:50,851 --> 00:15:54,604  X1:152 X2:567 Y1:452 Y2:523
+cultivating coffee, and educating
+the natives of Borrioboola-Gha.
+
+221
+00:15:54,644 --> 00:15:56,762  X1:206 X2:513 Y1:488 Y2:523
+Great work, great work.
+
+222
+00:15:56,802 --> 00:16:01,198  X1:180 X2:537 Y1:452 Y2:523
+My husband, Mr Jellyby,
+does not appear to be here.
+
+223
+00:16:01,238 --> 00:16:06,675  X1:148 X2:571 Y1:452 Y2:523
+But here is my eldest
+daughter Caddy, my amanuensis.
+
+224
+00:16:06,715 --> 00:16:09,150  X1:190 X2:529 Y1:488 Y2:523
+Do please sit while I, er. . .
+
+225
+00:16:09,190 --> 00:16:11,830  X1:204 X2:515 Y1:488 Y2:523
+Where were we, Caddy?
+
+226
+00:16:11,870 --> 00:16:15,903  X1:136 X2:583 Y1:452 Y2:523
+I'm sure YOUR thoughts have often
+turned to Africa, Miss Summerson.
+
+227
+00:16:15,943 --> 00:16:19,741  X1:160 X2:559 Y1:452 Y2:523
+The finest climate in the world.
+Caddy?
+
+228
+00:16:19,781 --> 00:16:23,418  X1:160 X2:559 Y1:452 Y2:523
+Mrs Jellyby presents her
+compliments to Mrs Swallow. . .
+
+229
+00:16:23,458 --> 00:16:26,175  X1:224 X2:493 Y1:488 Y2:523
+Ma. Now what is it?
+
+230
+00:16:26,215 --> 00:16:29,210  X1:158 X2:561 Y1:488 Y2:523
+No, Peepy, not on any account.
+
+231
+00:16:29,250 --> 00:16:31,646  X1:262 X2:455 Y1:488 Y2:523
+Mama is busy.
+
+232
+00:16:31,686 --> 00:16:36,723  X1:156 X2:563 Y1:452 Y2:523
+You, Mrs Swallow, I know,
+share my deeply held conviction
+
+233
+00:16:36,763 --> 00:16:41,478  X1:190 X2:529 Y1:452 Y2:523
+about Africa, the essential
+Brotherhood of Humanity,
+
+234
+00:16:41,518 --> 00:16:44,515  X1:140 X2:579 Y1:488 Y2:523
+and it is with this understanding. . .
+
+235
+00:16:44,555 --> 00:16:47,871  X1:154 X2:563 Y1:488 Y2:523
+I can't keep up, Ma. Go slower.
+
+236
+00:16:52,465 --> 00:16:53,985  X1:312 X2:407 Y1:488 Y2:523
+And. . .
+
+237
+00:16:54,025 --> 00:16:58,649  X1:166 X2:553 Y1:488 Y2:523
+it is with this understanding. . .
+
+238
+00:17:00,937 --> 00:17:02,454  X1:078 X2:295 Y1:488 Y2:523
+KNOCK AT DOOR
+
+239
+00:17:02,494 --> 00:17:04,454  X1:166 X2:551 Y1:488 Y2:523
+(May I come in for a minute? )
+
+240
+00:17:04,494 --> 00:17:06,727  X1:192 X2:525 Y1:488 Y2:523
+You've been working late.
+
+241
+00:17:06,767 --> 00:17:08,725  X1:202 X2:517 Y1:488 Y2:523
+No need to tell me that.
+
+242
+00:17:08,765 --> 00:17:10,604  X1:212 X2:507 Y1:488 Y2:523
+I wish Africa was dead.
+
+243
+00:17:10,644 --> 00:17:14,779  X1:234 X2:485 Y1:452 Y2:523
+Look at my fingers.
+It won't come off.
+
+244
+00:17:17,359 --> 00:17:21,592  X1:162 X2:555 Y1:488 Y2:523
+She's very pretty. Yes, she is.
+
+245
+00:17:21,632 --> 00:17:24,591  X1:184 X2:535 Y1:488 Y2:523
+She's an orphan, ain't she?
+
+246
+00:17:24,631 --> 00:17:27,227  X1:176 X2:543 Y1:488 Y2:523
+Yes. I wish I was an orphan.
+
+247
+00:17:27,267 --> 00:17:30,106  X1:136 X2:583 Y1:488 Y2:523
+Ma's a disgrace. I wish I was dead.
+
+248
+00:17:30,146 --> 00:17:33,781  X1:128 X2:591 Y1:452 Y2:523
+I wish we were all dead. It would be
+a great deal better for us.
+
+249
+00:17:33,821 --> 00:17:36,660  X1:178 X2:541 Y1:452 Y2:523
+Don't tell me it wouldn't,
+it would. Caddy, I'm sure. . .
+
+250
+00:17:36,700 --> 00:17:41,975  X1:144 X2:575 Y1:416 Y2:523
+I'm so angry with Ma. She makes
+such an ass of herself over Africa,
+and Pa does nothing at all.
+
+251
+00:17:42,015 --> 00:17:45,866  X1:186 X2:533 Y1:416 Y2:523
+Really, Caddy, I don't think
+you should speak of
+your parents like that.
+
+252
+00:17:48,564 --> 00:17:51,240  X1:210 X2:509 Y1:452 Y2:523
+I  know I am a disgrace,
+Miss Summerson.
+
+253
+00:17:51,280 --> 00:17:55,877  X1:148 X2:569 Y1:416 Y2:523
+I wish I'd had you to teach me
+better manners, but I've got to
+make the best of myself as I am.
+
+254
+00:17:55,917 --> 00:17:58,434  X1:184 X2:533 Y1:488 Y2:523
+You're shocked, I dare say.
+
+255
+00:17:58,474 --> 00:18:00,951  X1:264 X2:455 Y1:488 Y2:523
+Well, so am I.
+
+256
+00:18:00,991 --> 00:18:03,533  X1:182 X2:537 Y1:488 Y2:523
+I wish. . . Well, never mind.
+
+257
+00:18:08,226 --> 00:18:09,750  X1:284 X2:435 Y1:488 Y2:523
+Goodnight.
+
+258
+00:18:17,297 --> 00:18:19,265  X1:188 X2:531 Y1:488 Y2:523
+Here we are, my beauties!
+
+259
+00:18:20,211 --> 00:18:23,648  X1:284 X2:435 Y1:488 Y2:523
+Hope. Joy.
+
+260
+00:18:23,688 --> 00:18:27,721  X1:078 X2:449 Y1:452 Y2:523
+Youth. Ah. . .
+SHE WHISTLES
+
+261
+00:18:27,761 --> 00:18:30,999  X1:234 X2:485 Y1:488 Y2:523
+Peace. Rest. Life.
+
+262
+00:18:31,039 --> 00:18:33,236  X1:178 X2:541 Y1:488 Y2:523
+Oooh, shh, shh, shh, shh. . .
+
+263
+00:18:33,276 --> 00:18:36,308  X1:218 X2:501 Y1:488 Y2:523
+Dust. Ashes. Waste.
+
+264
+00:18:38,350 --> 00:18:39,874  X1:304 X2:415 Y1:488 Y2:523
+Want. . .
+
+265
+00:18:42,667 --> 00:18:44,510  X1:264 X2:455 Y1:488 Y2:523
+Ruin, Despair.
+
+266
+00:18:46,824 --> 00:18:49,381  X1:292 X2:427 Y1:488 Y2:523
+Madness.
+
+267
+00:18:49,421 --> 00:18:51,538  X1:310 X2:407 Y1:488 Y2:523
+Death.
+
+268
+00:18:51,578 --> 00:18:53,575  X1:240 X2:479 Y1:488 Y2:523
+Cunning and Folly.
+
+269
+00:18:53,615 --> 00:18:58,768  X1:168 X2:551 Y1:452 Y2:523
+We shall all have a judgement
+on the Day of Judgement.
+
+270
+00:18:58,808 --> 00:19:03,723  X1:178 X2:539 Y1:452 Y2:523
+Plunder, Precedent, Jargon,
+Gammon and Spinach.
+
+271
+00:19:03,763 --> 00:19:08,308  X1:160 X2:559 Y1:452 Y2:523
+And then you shall sing to your
+heart's content, my little ones.
+
+272
+00:19:09,521 --> 00:19:11,674  X1:078 X2:269 Y1:488 Y2:523
+SHE WHISTLES
+
+273
+00:19:11,714 --> 00:19:14,154  X1:078 X2:279 Y1:488 Y2:523
+BIRDS TWITTER
+
+274
+00:19:14,194 --> 00:19:15,223  X1:330 X2:389 Y1:488 Y2:523
+Oh!
+
+275
+00:19:20,710 --> 00:19:22,837  X1:078 X2:321 Y1:488 Y2:523
+SHE HUMS A TUNE
+
+276
+00:19:24,343 --> 00:19:27,744  X1:176 X2:543 Y1:452 Y2:523
+# And we'll all come to
+judgement one day soon. #
+
+277
+00:19:29,179 --> 00:19:31,297  X1:172 X2:547 Y1:452 Y2:523
+Morning.
+Off to court then, Miss Flite?
+
+278
+00:19:31,337 --> 00:19:34,051  X1:114 X2:603 Y1:488 Y2:523
+As you see, Mr Krook. And your rent?
+
+279
+00:19:34,091 --> 00:19:36,248  X1:152 X2:567 Y1:488 Y2:523
+Very soon, Mr Krook, very soon.
+
+280
+00:19:36,288 --> 00:19:38,048  X1:152 X2:567 Y1:488 Y2:523
+On the Day of Judgement, yeah?
+
+281
+00:19:38,088 --> 00:19:40,444  X1:158 X2:561 Y1:488 Y2:523
+Oh, long before then, I'm sure.
+
+282
+00:19:40,484 --> 00:19:43,121  X1:078 X2:493 Y1:452 Y2:523
+LOUD HISS
+All right, Lady Jane?
+
+283
+00:19:43,161 --> 00:19:46,558  X1:202 X2:515 Y1:452 Y2:523
+She could tear a person
+to tatters if I set her on.
+
+284
+00:19:46,598 --> 00:19:50,353  X1:208 X2:511 Y1:452 Y2:523
+D'you know, she was
+sold to me for her skin.
+
+285
+00:19:50,393 --> 00:19:52,433  X1:164 X2:553 Y1:488 Y2:523
+It's a very fine one as you see.
+
+286
+00:19:52,473 --> 00:19:55,110  X1:222 X2:497 Y1:452 Y2:523
+Didn't have it in
+me heart to skin her.
+
+287
+00:19:55,150 --> 00:19:58,347  X1:136 X2:583 Y1:488 Y2:523
+Not like the Court of Chancery, eh?
+
+288
+00:19:58,387 --> 00:20:00,067  X1:134 X2:585 Y1:488 Y2:523
+Not as long as I get what I'm owed.
+
+289
+00:20:00,107 --> 00:20:02,304  X1:290 X2:429 Y1:488 Y2:523
+Mr Krook,
+
+290
+00:20:02,344 --> 00:20:05,701  X1:148 X2:571 Y1:488 Y2:523
+I have met the wards in Jarndyce.
+
+291
+00:20:05,741 --> 00:20:08,658  X1:198 X2:519 Y1:452 Y2:523
+Wards in Jarndyce, is it?
+Such beautiful creatures.
+
+292
+00:20:08,698 --> 00:20:13,048  X1:122 X2:597 Y1:452 Y2:523
+So full of youth and hope and beauty.
+Oh, and they won't have it long.
+
+293
+00:20:13,088 --> 00:20:16,686  X1:200 X2:519 Y1:452 Y2:523
+That Jarndyce and
+Jarndyce eats 'em all up.
+
+294
+00:20:16,726 --> 00:20:19,523  X1:222 X2:497 Y1:452 Y2:523
+It's like being ground
+to bits in a slow mill.
+
+295
+00:20:19,563 --> 00:20:23,493  X1:162 X2:557 Y1:452 Y2:523
+It's being drowned by drips and
+going mad by grains.
+
+296
+00:20:25,158 --> 00:20:28,474  X1:112 X2:607 Y1:452 Y2:523
+Look how poor Tom Jarndyce ended up.
+Mr Krook, don't speak of it.
+
+297
+00:20:28,514 --> 00:20:32,869  X1:162 X2:557 Y1:452 Y2:523
+Come in my shop, right where
+you stand, a pistol in his hand.
+
+298
+00:20:32,909 --> 00:20:36,029  X1:078 X2:479 Y1:452 Y2:523
+Please, Mr Krook.
+SHOP DOOR BELL CLANGS
+
+299
+00:20:36,069 --> 00:20:37,109  X1:330 X2:389 Y1:488 Y2:523
+Oh!
+
+300
+00:20:37,149 --> 00:20:38,792  X1:290 X2:429 Y1:488 Y2:523
+Mr Nemo.
+
+301
+00:20:40,302 --> 00:20:42,739  X1:192 X2:527 Y1:488 Y2:523
+Good morning, Miss Flite.
+
+302
+00:20:42,779 --> 00:20:44,457  X1:290 X2:427 Y1:488 Y2:523
+Mr Krook.
+
+303
+00:20:44,497 --> 00:20:48,096  X1:204 X2:515 Y1:452 Y2:523
+Er, forgive me but I'm
+rather pressed for time.
+
+304
+00:20:48,136 --> 00:20:51,527  X1:178 X2:541 Y1:488 Y2:523
+Rent, Mr Nemo. Six weeks.
+
+305
+00:20:51,567 --> 00:20:53,964  X1:252 X2:467 Y1:488 Y2:523
+As long as that?
+
+306
+00:20:54,004 --> 00:20:55,645  X1:210 X2:509 Y1:488 Y2:523
+Well, you shall have it.
+
+307
+00:20:55,685 --> 00:20:58,841  X1:194 X2:525 Y1:452 Y2:523
+Yeah, that's all very well,
+but when?
+
+308
+00:20:58,881 --> 00:21:02,083  X1:184 X2:535 Y1:488 Y2:523
+You will be paid, Mr Krook.
+
+309
+00:21:04,075 --> 00:21:05,884  X1:234 X2:483 Y1:488 Y2:523
+You have my word.
+
+310
+00:21:07,433 --> 00:21:08,786  X1:308 X2:409 Y1:488 Y2:523
+Now. . .
+
+311
+00:21:10,270 --> 00:21:12,488  X1:270 X2:449 Y1:488 Y2:523
+ .excuse me.
+
+312
+00:21:15,064 --> 00:21:17,264  X1:182 X2:537 Y1:488 Y2:523
+Oh, he's such a gentleman.
+
+313
+00:21:17,304 --> 00:21:19,971  X1:130 X2:589 Y1:488 Y2:523
+A gentleman? That's no use to me.
+
+314
+00:21:21,258 --> 00:21:23,891  X1:196 X2:523 Y1:452 Y2:523
+Some people say that he
+sold his soul to the devil.
+
+315
+00:21:23,931 --> 00:21:26,849  X1:166 X2:553 Y1:452 Y2:523
+But if he has, I don't know
+what he done with the money!
+
+316
+00:21:36,800 --> 00:21:41,999  X1:162 X2:557 Y1:452 Y2:523
+My very best remembrances
+to my good friend Mr Jarndyce.
+
+317
+00:21:54,463 --> 00:21:58,115  X1:182 X2:537 Y1:452 Y2:523
+You won't forget me,
+will you, Miss Summerson?
+
+318
+00:21:59,576 --> 00:22:01,828  X1:138 X2:579 Y1:488 Y2:523
+Come, Caddy, we have work to do.
+
+319
+00:22:14,922 --> 00:22:16,199  X1:284 X2:435 Y1:488 Y2:523
+OK, driver.
+
+320
+00:22:16,239 --> 00:22:18,497  X1:248 X2:469 Y1:488 Y2:523
+Go on, move on.
+
+321
+00:23:20,847 --> 00:23:23,808  X1:242 X2:477 Y1:488 Y2:523
+We have a visitor.
+
+322
+00:23:23,848 --> 00:23:26,965  X1:158 X2:561 Y1:488 Y2:523
+Can you see who it is, my love?
+
+323
+00:23:27,005 --> 00:23:29,297  X1:246 X2:473 Y1:488 Y2:523
+Tulkinghorn. Ah.
+
+324
+00:23:46,384 --> 00:23:49,100  X1:166 X2:553 Y1:488 Y2:523
+Mr Tulkinghorn. Sir Leicester.
+
+325
+00:23:49,140 --> 00:23:50,820  X1:240 X2:477 Y1:452 Y2:523
+Good of you to
+come all this way.
+
+326
+00:23:50,860 --> 00:23:54,292  X1:134 X2:585 Y1:452 Y2:523
+My lady's case has been again
+before the Chancellor, has it? Yes.
+
+327
+00:23:54,332 --> 00:23:56,132  X1:136 X2:583 Y1:488 Y2:523
+It was on again yesterday, my lord.
+
+328
+00:23:56,172 --> 00:23:58,049  X1:300 X2:419 Y1:488 Y2:523
+My lady.
+
+329
+00:23:58,089 --> 00:24:01,805  X1:202 X2:517 Y1:416 Y2:523
+It would be useless to
+ask, no doubt, whether
+anything has been done.
+
+330
+00:24:01,845 --> 00:24:05,600  X1:176 X2:543 Y1:452 Y2:523
+Nothing that you would
+call anything has been done.
+
+331
+00:24:05,640 --> 00:24:07,160  X1:200 X2:517 Y1:488 Y2:523
+Nor ever will be. Mmm.
+
+332
+00:24:07,200 --> 00:24:11,276  X1:130 X2:589 Y1:452 Y2:523
+Well, a long Chancery suit is very
+much in the way of things, my dear.
+
+333
+00:24:11,316 --> 00:24:13,354  X1:170 X2:549 Y1:488 Y2:523
+Hardly be proper if it weren't.
+
+334
+00:24:13,394 --> 00:24:17,989  X1:154 X2:565 Y1:416 Y2:523
+Indeed, my lord. Now, as a few
+fresh affidavits have been
+put upon the file,
+
+335
+00:24:18,029 --> 00:24:20,548  X1:138 X2:581 Y1:452 Y2:523
+and as I proceed upon the principle
+that my client
+
+336
+00:24:20,588 --> 00:24:24,460  X1:136 X2:583 Y1:452 Y2:523
+should be fully possessed of all the
+new developments in the case. . .
+
+337
+00:24:24,500 --> 00:24:26,803  X1:196 X2:523 Y1:488 Y2:523
+All right, Mr Tulkinghorn.
+
+338
+00:24:31,333 --> 00:24:35,588  X1:158 X2:561 Y1:452 Y2:523
+I, er. . . I have the papers here,
+if I might. . .
+
+339
+00:24:36,647 --> 00:24:37,887  X1:284 X2:433 Y1:488 Y2:523
+Thank you.
+
+340
+00:24:39,245 --> 00:24:43,761  X1:118 X2:601 Y1:452 Y2:523
+In Chancery, between John Jarndyce. . .
+Mr Tulkinghorn, please.
+
+341
+00:24:43,801 --> 00:24:46,878  X1:184 X2:535 Y1:452 Y2:523
+Omit as many of the formal
+horrors as you can.
+
+342
+00:24:49,996 --> 00:24:52,044  X1:196 X2:523 Y1:488 Y2:523
+As your ladyship pleases.
+
+343
+00:25:03,820 --> 00:25:09,099  X1:150 X2:567 Y1:452 Y2:523
+Who copied that?
+Hmm? Whose handwriting is it?
+
+344
+00:25:11,852 --> 00:25:16,765  X1:226 X2:493 Y1:452 Y2:523
+I regret to say I have
+no idea, my lady.
+
+345
+00:25:16,805 --> 00:25:19,598  X1:160 X2:557 Y1:488 Y2:523
+Is this what you call law-hand?
+
+346
+00:25:21,043 --> 00:25:22,761  X1:248 X2:471 Y1:488 Y2:523
+Why do you ask?
+
+347
+00:25:24,239 --> 00:25:27,594  X1:216 X2:503 Y1:452 Y2:523
+Anything to vary this
+detestable monotony.
+
+348
+00:25:27,634 --> 00:25:29,482  X1:260 X2:459 Y1:488 Y2:523
+Oh, go on, do.
+
+349
+00:25:33,111 --> 00:25:35,568  X1:252 X2:465 Y1:488 Y2:523
+Very well. Er. . .
+
+350
+00:25:37,545 --> 00:25:41,595  X1:146 X2:573 Y1:452 Y2:523
+In the matter of the will, or wills,
+of the aforesaid John Jarndyce. . .
+
+351
+00:25:44,376 --> 00:25:46,025  X1:168 X2:551 Y1:488 Y2:523
+My lady? What's the matter?
+
+352
+00:25:48,530 --> 00:25:50,647  X1:228 X2:491 Y1:452 Y2:523
+My dear, what is it?
+What's the matter?
+
+353
+00:25:50,687 --> 00:25:52,287  X1:212 X2:507 Y1:488 Y2:523
+Lady Dedlock is ill, sir.
+
+354
+00:25:52,327 --> 00:25:56,747  X1:158 X2:561 Y1:452 Y2:523
+I'm just. . .faint.
+Help Lady Dedlock to her room.
+
+355
+00:25:58,082 --> 00:25:59,970  X1:172 X2:547 Y1:488 Y2:523
+Careful. Careful, gently now.
+
+356
+00:26:01,559 --> 00:26:03,119  X1:194 X2:523 Y1:488 Y2:523
+Heat of the fire, perhaps.
+
+357
+00:26:03,159 --> 00:26:04,632  X1:222 X2:497 Y1:488 Y2:523
+Far too much for her.
+
+358
+00:26:28,089 --> 00:26:32,726  X1:128 X2:591 Y1:488 Y2:523
+I mean it! Nemo, no more excuses!
+
+359
+00:26:32,766 --> 00:26:35,468  X1:204 X2:515 Y1:452 Y2:523
+The money by tomorrow
+or you're on the street!
+
+360
+00:26:49,388 --> 00:26:50,867  X1:078 X2:245 Y1:488 Y2:523
+COINS CLINK
+
+361
+00:27:40,612 --> 00:27:47,846  X1:110 X2:609 Y1:416 Y2:523
+Thank you, sir. Those papers I took
+down to Lady Dedlock at Chesney Wold,
+where were they copied?
+
+362
+00:27:47,886 --> 00:27:51,560  X1:126 X2:593 Y1:452 Y2:523
+That depends, Mr Tulkinghorn. They
+came from several of our regulars.
+
+363
+00:27:51,600 --> 00:27:54,552  X1:176 X2:541 Y1:488 Y2:523
+Well, that one, for instance.
+
+364
+00:27:55,797 --> 00:27:57,513  X1:268 X2:451 Y1:488 Y2:523
+I'll check, sir.
+
+365
+00:27:57,553 --> 00:28:01,071  X1:180 X2:539 Y1:452 Y2:523
+It may take a while.
+I have to compare the hand.
+
+366
+00:28:01,111 --> 00:28:04,108  X1:238 X2:481 Y1:488 Y2:523
+Thank you, Clamb.
+
+367
+00:28:24,964 --> 00:28:28,402  X1:154 X2:565 Y1:488 Y2:523
+Ada, my love. Esther, my dear.
+
+368
+00:28:28,442 --> 00:28:31,998  X1:144 X2:575 Y1:452 Y2:523
+You are welcome. I rejoice to see
+you. Come inside and get warm.
+
+369
+00:28:32,038 --> 00:28:35,229  X1:176 X2:543 Y1:452 Y2:523
+Rick, if I had a hand to spare
+at present, I'd give it to you.
+
+370
+00:28:36,512 --> 00:28:38,605  X1:234 X2:483 Y1:488 Y2:523
+Come in. Come in.
+
+371
+00:28:42,746 --> 00:28:46,273  X1:160 X2:559 Y1:452 Y2:523
+There. Now, make yourselves
+comfortable, warm yourselves.
+
+372
+00:28:48,897 --> 00:28:51,935  X1:188 X2:529 Y1:452 Y2:523
+Now, Rick,
+I have that hand at liberty.
+
+373
+00:28:51,975 --> 00:28:54,532  X1:224 X2:495 Y1:452 Y2:523
+A word in earnest is
+as good as a speech.
+
+374
+00:28:54,572 --> 00:28:56,649  X1:172 X2:547 Y1:488 Y2:523
+I am heartily glad to see you.
+
+375
+00:28:56,689 --> 00:28:58,529  X1:246 X2:473 Y1:488 Y2:523
+You are at home.
+
+376
+00:28:58,569 --> 00:29:00,952  X1:184 X2:535 Y1:452 Y2:523
+You're very kind, sir.
+We're much obliged to you.
+
+377
+00:29:02,163 --> 00:29:06,588  X1:152 X2:567 Y1:488 Y2:523
+Now, come and see your rooms.
+
+378
+00:29:13,714 --> 00:29:16,510  X1:186 X2:533 Y1:452 Y2:523
+I wish you'd come away
+from the window, my love.
+
+379
+00:29:16,550 --> 00:29:20,107  X1:134 X2:585 Y1:452 Y2:523
+You must take care for your health.
+We don't want you fainting again.
+
+380
+00:29:20,147 --> 00:29:22,064  X1:232 X2:485 Y1:488 Y2:523
+I am perfectly well.
+
+381
+00:29:22,104 --> 00:29:26,496  X1:182 X2:537 Y1:452 Y2:523
+You're still pale, I'm afraid.
+Is it any wonder?
+
+382
+00:29:26,536 --> 00:29:30,292  X1:124 X2:593 Y1:452 Y2:523
+We have not see the sun for months.
+Mmm.
+
+383
+00:29:30,332 --> 00:29:33,730  X1:222 X2:495 Y1:452 Y2:523
+I think I should take
+you away for a while.
+
+384
+00:29:33,770 --> 00:29:35,927  X1:282 X2:437 Y1:488 Y2:523
+Paris, now.
+
+385
+00:29:35,967 --> 00:29:39,323  X1:188 X2:531 Y1:452 Y2:523
+A  change of scene that will
+lighten both our spirits.
+
+386
+00:29:39,363 --> 00:29:41,132  X1:244 X2:475 Y1:488 Y2:523
+What do you say?
+
+387
+00:29:43,081 --> 00:29:45,823  X1:146 X2:573 Y1:488 Y2:523
+You are too good to me. No, no.
+
+388
+00:29:47,635 --> 00:29:49,835  X1:280 X2:439 Y1:488 Y2:523
+No, no, no.
+
+389
+00:29:49,875 --> 00:29:51,518  X1:290 X2:429 Y1:488 Y2:523
+Not at all.
+
+390
+00:29:54,469 --> 00:29:57,147  X1:208 X2:511 Y1:452 Y2:523
+D'you think we shall
+be happy here, Esther?
+
+391
+00:29:57,187 --> 00:29:58,956  X1:130 X2:589 Y1:488 Y2:523
+I think we have been very fortunate.
+
+392
+00:30:00,463 --> 00:30:02,715  X1:238 X2:481 Y1:452 Y2:523
+Bleak House is not
+so bleak after all.
+
+393
+00:30:04,417 --> 00:30:06,814  X1:174 X2:545 Y1:488 Y2:523
+And do you like Mr Jarndyce?
+
+394
+00:30:06,854 --> 00:30:10,852  X1:222 X2:497 Y1:452 Y2:523
+I think he is a very
+singular man indeed.
+
+395
+00:30:10,892 --> 00:30:15,437  X1:158 X2:559 Y1:452 Y2:523
+Is that good? I hope so,
+we are here now for good or ill.
+
+396
+00:30:18,763 --> 00:30:22,005  X1:184 X2:535 Y1:452 Y2:523
+Esther, why do you think
+he's taken us into his care?
+
+397
+00:30:26,917 --> 00:30:29,994  X1:218 X2:499 Y1:452 Y2:523
+Well, perhaps it is
+nothing but kindness.
+
+398
+00:30:30,034 --> 00:30:34,667  X1:162 X2:557 Y1:416 Y2:523
+He has made it very difficult
+for us to ask, since he behaves
+as if we are all old friends.
+
+399
+00:30:34,707 --> 00:30:36,185  X1:274 X2:445 Y1:488 Y2:523
+It is strange.
+
+400
+00:30:36,225 --> 00:30:38,722  X1:120 X2:599 Y1:488 Y2:523
+But perhaps we shall be good friends.
+
+401
+00:30:40,300 --> 00:30:42,257  X1:164 X2:555 Y1:488 Y2:523
+Do you think we shall, Esther?
+
+402
+00:30:42,297 --> 00:30:43,777  X1:202 X2:517 Y1:488 Y2:523
+I am sure we shall, Ada.
+
+403
+00:30:43,817 --> 00:30:45,790  X1:078 X2:397 Y1:452 Y2:523
+KNOCK AT DOOR
+Yes?
+
+404
+00:30:46,732 --> 00:30:51,807  X1:126 X2:593 Y1:452 Y2:523
+Miss Summerson? For you, Miss, if
+you please. The housekeeping keys.
+
+405
+00:30:51,847 --> 00:30:53,965  X1:236 X2:481 Y1:452 Y2:523
+The master said to
+bring them to you,
+
+406
+00:30:54,005 --> 00:30:58,480  X1:166 X2:553 Y1:416 Y2:523
+then tomorrow morning I'm to
+show you the presses
+and the things they belong to.
+
+407
+00:30:58,520 --> 00:31:00,402  X1:300 X2:419 Y1:488 Y2:523
+For me?
+
+408
+00:31:01,958 --> 00:31:03,357  X1:306 X2:413 Y1:488 Y2:523
+Really?
+
+409
+00:31:04,875 --> 00:31:06,471  X1:158 X2:561 Y1:488 Y2:523
+Thank you. Er, and you are. . . ?
+
+410
+00:31:06,511 --> 00:31:09,213  X1:140 X2:579 Y1:488 Y2:523
+Harriet, Miss. Thank you, Harriet.
+
+411
+00:31:16,420 --> 00:31:18,416  X1:252 X2:467 Y1:488 Y2:523
+'You're nobody.'
+
+412
+00:31:18,456 --> 00:31:20,814  X1:186 X2:533 Y1:452 Y2:523
+You're nothing.
+You're worse than nothing.
+
+413
+00:31:20,854 --> 00:31:23,654  X1:174 X2:545 Y1:452 Y2:523
+It would have been far better
+if you'd never been born.
+
+414
+00:31:23,694 --> 00:31:26,157  X1:176 X2:541 Y1:488 Y2:523
+Esther, what is it? Nothing.
+
+415
+00:31:28,368 --> 00:31:32,304  X1:138 X2:581 Y1:452 Y2:523
+I'm surprised anyone should trust
+me so much, knowing me so little.
+
+416
+00:31:34,043 --> 00:31:36,136  X1:236 X2:481 Y1:488 Y2:523
+Shall we go down?
+
+417
+00:31:38,239 --> 00:31:43,952  X1:176 X2:543 Y1:416 Y2:523
+As far as worldly matters are
+concerned, I am but a child,
+a perfect child.
+
+418
+00:31:43,992 --> 00:31:45,990  X1:158 X2:561 Y1:488 Y2:523
+Ah, our little party is complete.
+
+419
+00:31:46,030 --> 00:31:50,228  X1:130 X2:589 Y1:452 Y2:523
+Ada, Esther. . . Allow me to
+introduce myself. Harold Skimpole.
+
+420
+00:31:50,268 --> 00:31:53,745  X1:158 X2:561 Y1:452 Y2:523
+A dear friend and house guest,
+for the present, of Mr Jarndyce.
+
+421
+00:31:53,785 --> 00:31:56,858  X1:174 X2:545 Y1:452 Y2:523
+Now, you ask my profession.
+No profession whatsoever.
+
+422
+00:31:56,898 --> 00:32:00,252  X1:186 X2:533 Y1:452 Y2:523
+I have no aptitude for
+worldly affairs, none at all.
+
+423
+00:32:00,292 --> 00:32:02,890  X1:168 X2:551 Y1:452 Y2:523
+There, that's Harold Skimpole
+for you.
+
+424
+00:32:02,930 --> 00:32:05,330  X1:166 X2:553 Y1:452 Y2:523
+How do you do, Mr Skimpole?
+Very well indeed. . .
+
+425
+00:32:05,370 --> 00:32:11,206  X1:140 X2:579 Y1:416 Y2:523
+thanks to my excellent friends,
+of whom John Jarndyce is one of
+the very best and kindest. Well. . .
+
+426
+00:32:11,246 --> 00:32:15,791  X1:118 X2:601 Y1:452 Y2:523
+Shall we go in? Miss Clare,
+would you do me the honour? Hmm?
+
+427
+00:32:19,395 --> 00:32:21,194  X1:078 X2:337 Y1:488 Y2:523
+THUNDER RUMBLES
+
+428
+00:32:21,234 --> 00:32:23,149  X1:078 X2:329 Y1:488 Y2:523
+THUNDER CRASHES
+
+429
+00:32:23,189 --> 00:32:24,909  X1:078 X2:489 Y1:488 Y2:523
+Will you wait there, please, sir?
+
+430
+00:32:24,949 --> 00:32:26,592  X1:078 X2:487 Y1:488 Y2:523
+I'll go and ask the housekeeper.
+
+431
+00:32:34,377 --> 00:32:36,834  X1:078 X2:535 Y1:488 Y2:523
+Mr Guppy? I've never heard of him.
+
+432
+00:32:39,331 --> 00:32:42,048  X1:204 X2:515 Y1:452 Y2:523
+M'lord and Lady Dedlock
+are away in Paris, sir.
+
+433
+00:32:42,088 --> 00:32:45,405  X1:202 X2:517 Y1:452 Y2:523
+They left this afternoon.
+The house is all shut up.
+
+434
+00:32:45,445 --> 00:32:51,358  X1:154 X2:563 Y1:416 Y2:523
+Ah, er, my principal, Mr Kenge,
+has letters of affidavit
+for Lady Dedlock's attention.
+
+435
+00:32:51,398 --> 00:32:54,956  X1:148 X2:571 Y1:452 Y2:523
+You can leave them with me, sir,
+I'll see she gets 'em. Ah, right.
+
+436
+00:32:54,996 --> 00:33:00,509  X1:170 X2:549 Y1:416 Y2:523
+Er, begging your pardon most
+profoundly for the unsociable
+lateness of the hour,
+
+437
+00:33:00,549 --> 00:33:03,708  X1:182 X2:535 Y1:452 Y2:523
+owing to my having got lost
+in very unfamiliar country,
+
+438
+00:33:03,748 --> 00:33:08,021  X1:162 X2:557 Y1:452 Y2:523
+I wonder, ma'am, if I might. . .
+throw myself upon your mercy.
+
+439
+00:33:08,061 --> 00:33:11,180  X1:164 X2:555 Y1:452 Y2:523
+You want to be allowed to stay
+the night? In a word, ma'am.
+
+440
+00:33:11,220 --> 00:33:14,696  X1:132 X2:585 Y1:452 Y2:523
+All right, Mr Guppy. So long as you
+don't mind sleeping with the boots.
+
+441
+00:33:14,736 --> 00:33:16,209  X1:196 X2:521 Y1:488 Y2:523
+Show him the way, Rosa.
+
+442
+00:33:21,888 --> 00:33:24,004  X1:256 X2:463 Y1:488 Y2:523
+I covet nothing.
+
+443
+00:33:24,044 --> 00:33:28,240  X1:158 X2:559 Y1:452 Y2:523
+Possessions are nothing to me.
+I live as innocently as a child.
+
+444
+00:33:28,280 --> 00:33:31,757  X1:140 X2:577 Y1:452 Y2:523
+Forgive me, sir, did you never. . .
+wish you had a house of your own,
+
+445
+00:33:31,797 --> 00:33:33,754  X1:212 X2:507 Y1:452 Y2:523
+and a wife and children
+of your own?
+
+446
+00:33:33,794 --> 00:33:39,268  X1:152 X2:565 Y1:452 Y2:523
+Why, bless you, my dear fellow.
+I have a wife, and children.
+
+447
+00:33:39,308 --> 00:33:42,986  X1:124 X2:595 Y1:452 Y2:523
+Well, half a dozen I should say,
+or more. And love them very dearly.
+
+448
+00:33:43,026 --> 00:33:46,380  X1:150 X2:569 Y1:452 Y2:523
+But how do you look after them?
+Look after them?
+
+449
+00:33:46,420 --> 00:33:50,495  X1:134 X2:585 Y1:452 Y2:523
+Well, how could I? You see, I have
+no aptitude for work of any kind.
+
+450
+00:33:50,535 --> 00:33:54,370  X1:114 X2:603 Y1:452 Y2:523
+None whatsoever. My friend Skimpole
+needs somebody to look after HIM.
+
+451
+00:33:54,410 --> 00:33:57,692  X1:132 X2:587 Y1:488 Y2:523
+Then how do your children live, sir?
+
+452
+00:34:01,685 --> 00:34:03,282  X1:190 X2:529 Y1:488 Y2:523
+Do you know, I've no idea.
+
+453
+00:34:03,322 --> 00:34:05,519  X1:124 X2:595 Y1:488 Y2:523
+But live, they do, somehow or other.
+
+454
+00:34:05,559 --> 00:34:07,719  X1:184 X2:533 Y1:452 Y2:523
+It's no use asking me
+how these things are done.
+
+455
+00:34:07,759 --> 00:34:10,036  X1:206 X2:511 Y1:452 Y2:523
+I am a child, a perfect
+child, in these matters.
+
+456
+00:34:10,076 --> 00:34:13,594  X1:152 X2:567 Y1:452 Y2:523
+I think your life must be a
+very pleasant one, Mr Skimpole.
+
+457
+00:34:13,634 --> 00:34:16,470  X1:154 X2:563 Y1:488 Y2:523
+Well, yes, you might think that.
+
+458
+00:34:16,510 --> 00:34:21,260  X1:078 X2:425 Y1:452 Y2:523
+PIANO MUSIC: Adagio from
+"Pathetique" by Beethoven
+
+459
+00:34:33,570 --> 00:34:36,486  X1:078 X2:499 Y1:488 Y2:523
+A lovely young creature like that.
+
+460
+00:34:36,526 --> 00:34:39,204  X1:164 X2:553 Y1:488 Y2:523
+We will not call her an orphan.
+
+461
+00:34:39,244 --> 00:34:42,801  X1:158 X2:561 Y1:488 Y2:523
+She. . . is a child of the universe.
+
+462
+00:34:42,841 --> 00:34:46,198  X1:170 X2:547 Y1:452 Y2:523
+The universe makes rather an
+indifferent parent, I'm afraid.
+
+463
+00:34:46,238 --> 00:34:50,134  X1:128 X2:591 Y1:488 Y2:523
+Oh, I don't know. I think I DO know.
+
+464
+00:35:05,336 --> 00:35:09,331  X1:204 X2:515 Y1:452 Y2:523
+Well, this is something,
+I should say.
+
+465
+00:35:09,371 --> 00:35:12,688  X1:166 X2:551 Y1:452 Y2:523
+The portrait is of Lady Dedlock
+as a young woman.
+
+466
+00:35:12,728 --> 00:35:16,485  X1:144 X2:573 Y1:452 Y2:523
+It's considered a perfect likeness,
+and the best work of the master.
+
+467
+00:35:16,525 --> 00:35:21,079  X1:126 X2:593 Y1:488 Y2:523
+Dear me! That's Lady Dedlock, is it?
+
+468
+00:35:21,119 --> 00:35:24,515  X1:140 X2:579 Y1:488 Y2:523
+Blest if I can ever have seen her. . .
+
+469
+00:35:24,555 --> 00:35:26,733  X1:260 X2:459 Y1:488 Y2:523
+yet I know her.
+
+470
+00:35:28,393 --> 00:35:30,441  X1:178 X2:539 Y1:488 Y2:523
+I'm dashed if I don't think. . .
+
+471
+00:35:31,990 --> 00:35:35,710  X1:190 X2:529 Y1:452 Y2:523
+I must have had a dream
+of that picture, you know?
+
+472
+00:35:49,449 --> 00:35:50,848  X1:078 X2:295 Y1:488 Y2:523
+KNOCK AT DOOR
+
+473
+00:35:51,809 --> 00:35:55,764  X1:184 X2:535 Y1:416 Y2:523
+If you please, Miss,
+Mr Carstone said would you
+come to the dining room.
+
+474
+00:35:55,804 --> 00:35:57,760  X1:156 X2:563 Y1:488 Y2:523
+Mr Skimpole's been took, Miss.
+
+475
+00:35:57,800 --> 00:36:00,422  X1:174 X2:543 Y1:488 Y2:523
+Took? Took, Miss. Sudden.
+
+476
+00:36:09,388 --> 00:36:12,664  X1:168 X2:549 Y1:488 Y2:523
+Oh. I understood you were. . .
+
+477
+00:36:15,220 --> 00:36:16,860  X1:170 X2:549 Y1:488 Y2:523
+You are not ill, Mr Skimpole?
+
+478
+00:36:16,900 --> 00:36:18,496  X1:136 X2:583 Y1:488 Y2:523
+Not in the least, Miss Summerson.
+
+479
+00:36:18,536 --> 00:36:21,454  X1:194 X2:525 Y1:452 Y2:523
+We thought you might be
+able to advise us, Esther.
+
+480
+00:36:21,494 --> 00:36:24,852  X1:078 X2:553 Y1:452 Y2:523
+This gentleman is Mr Neckett.
+NECKETT COUGHS
+
+481
+00:36:24,892 --> 00:36:28,448  X1:216 X2:503 Y1:452 Y2:523
+Mr Skimpole has been
+arrested for debt.
+
+482
+00:36:28,488 --> 00:36:30,765  X1:158 X2:561 Y1:488 Y2:523
+Are you arrested for much, sir?
+
+483
+00:36:30,805 --> 00:36:32,722  X1:104 X2:615 Y1:488 Y2:523
+My dear Miss Summerson, I don't know.
+
+484
+00:36:32,762 --> 00:36:37,318  X1:130 X2:589 Y1:452 Y2:523
+Er, some pounds, odd shillings and
+a ha'penny were mentioned, I think.
+
+485
+00:36:37,358 --> 00:36:40,835  X1:172 X2:547 Y1:452 Y2:523
+24 pound, 16 and sevenpence
+ha'penny, that's what it is.
+
+486
+00:36:40,875 --> 00:36:44,751  X1:128 X2:591 Y1:452 Y2:523
+What will happen if the money is not
+produced, sir? Jail. Or Coavinses.
+
+487
+00:36:44,791 --> 00:36:47,110  X1:208 X2:511 Y1:488 Y2:523
+Er, may I ask what is. . .
+
+488
+00:36:47,150 --> 00:36:49,944  X1:148 X2:569 Y1:452 Y2:523
+Coavinses, Miss?
+Halfway house for debtors, Miss.
+
+489
+00:36:49,984 --> 00:36:52,821  X1:204 X2:515 Y1:452 Y2:523
+I thought, you see,
+that Mr Carstone might,
+
+490
+00:36:52,861 --> 00:36:56,615  X1:132 X2:587 Y1:452 Y2:523
+or his beautiful young cousin, might
+sign some sort of a bond or pledge.
+
+491
+00:36:56,655 --> 00:37:01,492  X1:140 X2:579 Y1:452 Y2:523
+Not a bit of it. It's cash
+or Coavinses. Make your mind up.
+
+492
+00:37:01,532 --> 00:37:03,744  X1:138 X2:581 Y1:488 Y2:523
+One moment, please, Mr Neckett.
+
+493
+00:37:09,766 --> 00:37:11,320  X1:176 X2:543 Y1:488 Y2:523
+Why are WE drawn into this?
+
+494
+00:37:11,360 --> 00:37:14,561  X1:192 X2:527 Y1:452 Y2:523
+He feels a delicacy about
+applying to Mr Jarndyce. . .
+
+495
+00:37:14,601 --> 00:37:17,557  X1:160 X2:559 Y1:452 Y2:523
+Done it too many times before,
+no doubt. He has no right.
+
+496
+00:37:17,597 --> 00:37:19,980  X1:122 X2:595 Y1:488 Y2:523
+I know, but what are we going to do?
+
+497
+00:37:22,191 --> 00:37:24,204  X1:172 X2:547 Y1:452 Y2:523
+I think we must pay the man,
+if we can.
+
+498
+00:37:25,710 --> 00:37:28,942  X1:166 X2:553 Y1:452 Y2:523
+I have £10 Mr Kenge gave me.
+I must try what that will do.
+
+499
+00:37:28,982 --> 00:37:31,445  X1:170 X2:549 Y1:488 Y2:523
+I have £15 and a few shillings.
+
+500
+00:37:32,899 --> 00:37:34,218  X1:256 X2:463 Y1:488 Y2:523
+My life savings.
+
+501
+00:37:34,258 --> 00:37:36,925  X1:078 X2:411 Y1:452 Y2:523
+HE SIGHS
+Esther.
+
+502
+00:38:36,032 --> 00:38:37,872  X1:136 X2:583 Y1:488 Y2:523
+And this is the laundry room, Miss.
+
+503
+00:38:37,912 --> 00:38:40,147  X1:232 X2:485 Y1:488 Y2:523
+Thank you, Harriet.
+
+504
+00:38:40,187 --> 00:38:43,862  X1:148 X2:571 Y1:452 Y2:523
+Everything is just as it should be.
+Thank you, Miss. Esther?
+
+505
+00:38:43,902 --> 00:38:45,500  X1:136 X2:583 Y1:488 Y2:523
+Would you step in here a moment?
+
+506
+00:38:55,530 --> 00:38:57,168  X1:234 X2:483 Y1:488 Y2:523
+Sit down, my dear.
+
+507
+00:39:00,485 --> 00:39:02,882  X1:154 X2:565 Y1:488 Y2:523
+This, you know, is the Growlery.
+
+508
+00:39:02,922 --> 00:39:05,962  X1:198 X2:521 Y1:452 Y2:523
+When I'm out of humour,
+I come here and growl.
+
+509
+00:39:06,002 --> 00:39:07,759  X1:128 X2:591 Y1:488 Y2:523
+Then you must be here very seldom.
+
+510
+00:39:07,799 --> 00:39:09,396  X1:078 X2:489 Y1:452 Y2:523
+HE LAUGHS
+You don't know me.
+
+511
+00:39:09,436 --> 00:39:12,353  X1:132 X2:587 Y1:452 Y2:523
+When I'm deceived or disappointed,
+when the wind is in the east. . .
+
+512
+00:39:12,393 --> 00:39:14,430  X1:288 X2:431 Y1:488 Y2:523
+Er, now. . .
+
+513
+00:39:14,470 --> 00:39:19,343  X1:126 X2:593 Y1:452 Y2:523
+what is this I hear about Rick and
+yourself and Mr Skimpole last night?
+
+514
+00:39:19,383 --> 00:39:22,701  X1:140 X2:577 Y1:452 Y2:523
+Are you angry with us? No! You?
+No, bless you, no!
+
+515
+00:39:22,741 --> 00:39:25,018  X1:174 X2:545 Y1:452 Y2:523
+To get hold of the pair of you
+and squeeze you
+
+516
+00:39:25,058 --> 00:39:27,656  X1:160 X2:559 Y1:452 Y2:523
+like a couple of young oranges,
+that was very bad of him.
+
+517
+00:39:27,696 --> 00:39:29,812  X1:222 X2:497 Y1:452 Y2:523
+But there must be no
+more of it, Esther.
+
+518
+00:39:29,852 --> 00:39:34,328  X1:132 X2:587 Y1:452 Y2:523
+If I choose to support him, that's
+another thing altogether. 15, was it
+
+519
+00:39:34,368 --> 00:39:36,445  X1:268 X2:451 Y1:488 Y2:523
+Here you are.
+
+520
+00:39:36,485 --> 00:39:41,769  X1:108 X2:609 Y1:452 Y2:523
+And keep it safe. Safe from our
+friend Skimpole's inexperience. Hmm?
+
+521
+00:39:43,203 --> 00:39:44,727  X1:284 X2:433 Y1:488 Y2:523
+Thank you.
+
+522
+00:39:48,633 --> 00:39:50,601  X1:236 X2:483 Y1:488 Y2:523
+What is it, Esther?
+
+523
+00:39:51,791 --> 00:39:55,352  X1:212 X2:505 Y1:452 Y2:523
+I don't understand why
+you're so good to us.
+
+524
+00:39:57,462 --> 00:39:59,980  X1:308 X2:411 Y1:488 Y2:523
+Well. . .
+
+525
+00:40:00,020 --> 00:40:02,300  X1:280 X2:439 Y1:488 Y2:523
+that's easy.
+
+526
+00:40:02,340 --> 00:40:04,696  X1:248 X2:471 Y1:488 Y2:523
+In your case, I. . .
+
+527
+00:40:04,736 --> 00:40:07,015  X1:202 X2:517 Y1:452 Y2:523
+I hear of a young woman
+without a protector,
+
+528
+00:40:07,055 --> 00:40:10,731  X1:196 X2:523 Y1:452 Y2:523
+and I take it into my head
+to be that protector.
+
+529
+00:40:10,771 --> 00:40:15,285  X1:130 X2:589 Y1:416 Y2:523
+And Richard and Ada? They've gone
+into this dreadful thing through no
+fault of their own.
+
+530
+00:40:15,325 --> 00:40:18,842  X1:162 X2:557 Y1:452 Y2:523
+They need help to guide them
+through it. Through Chancery?
+
+531
+00:40:18,882 --> 00:40:21,639  X1:214 X2:505 Y1:452 Y2:523
+I wish I could guide
+them far away from it.
+
+532
+00:40:21,679 --> 00:40:24,476  X1:180 X2:537 Y1:452 Y2:523
+Jarndyce and Jarndyce has
+ruined better men than me.
+
+533
+00:40:24,516 --> 00:40:27,313  X1:160 X2:559 Y1:452 Y2:523
+The years go by, the claims are
+passed down generations,
+
+534
+00:40:27,353 --> 00:40:30,100  X1:114 X2:447 Y1:452 Y2:523
+and we can't get out of it,
+none of us, on any terms.
+
+535
+00:40:31,627 --> 00:40:36,181  X1:136 X2:581 Y1:452 Y2:523
+My great uncle, Tom Jarndyce, was
+brought to despair by it and. . .
+
+536
+00:40:36,221 --> 00:40:38,069  X1:202 X2:515 Y1:488 Y2:523
+blew his own brains out.
+
+537
+00:40:40,178 --> 00:40:42,965  X1:142 X2:577 Y1:488 Y2:523
+I was his heir. This was his home.
+
+538
+00:40:44,452 --> 00:40:46,732  X1:228 X2:489 Y1:452 Y2:523
+When I came here
+it was bleak indeed.
+
+539
+00:40:46,772 --> 00:40:49,568  X1:216 X2:503 Y1:488 Y2:523
+And when I brought. . .
+
+540
+00:40:49,608 --> 00:40:51,485  X1:202 X2:517 Y1:488 Y2:523
+what remained of him. . .
+
+541
+00:40:51,525 --> 00:40:57,599  X1:156 X2:563 Y1:452 Y2:523
+home here, I thought the brains
+of the house had been. . .
+
+542
+00:40:57,639 --> 00:41:00,022  X1:262 X2:457 Y1:488 Y2:523
+blown out too.
+
+543
+00:41:00,957 --> 00:41:03,289  X1:162 X2:557 Y1:488 Y2:523
+It was so shattered and ruined.
+
+544
+00:41:05,591 --> 00:41:09,072  X1:192 X2:527 Y1:452 Y2:523
+Then you must have made
+great changes, sir.
+
+545
+00:41:14,622 --> 00:41:17,660  X1:172 X2:547 Y1:452 Y2:523
+Yes, yes, and in myself, too,
+as far as I've been able to.
+
+546
+00:41:17,700 --> 00:41:20,416  X1:174 X2:543 Y1:452 Y2:523
+But I determined never to be
+drawn into this case,
+
+547
+00:41:20,456 --> 00:41:23,214  X1:200 X2:519 Y1:452 Y2:523
+with its false hopes
+and ruined expectations.
+
+548
+00:41:23,254 --> 00:41:25,291  X1:174 X2:543 Y1:452 Y2:523
+I am fortunate I have enough
+to live upon,
+
+549
+00:41:25,331 --> 00:41:30,485  X1:128 X2:591 Y1:452 Y2:523
+and to help others, too, without
+tormenting myself with dreams of. . .
+
+550
+00:41:30,525 --> 00:41:33,362  X1:078 X2:363 Y1:488 Y2:523
+HE KNOCKS ON TABLE
+
+551
+00:41:33,402 --> 00:41:36,398  X1:230 X2:487 Y1:452 Y2:523
+Well, I told you this
+was the Growlery,
+
+552
+00:41:36,438 --> 00:41:38,901  X1:202 X2:517 Y1:452 Y2:523
+and I think we may have
+done with it for one day.
+
+553
+00:41:40,396 --> 00:41:45,151  X1:190 X2:527 Y1:452 Y2:523
+I am very glad to have you
+here with me, Esther.
+
+554
+00:41:46,627 --> 00:41:50,781  X1:202 X2:515 Y1:488 Y2:523
+You and. . . Rick and Ada.
+
+555
+00:41:50,821 --> 00:41:53,739  X1:212 X2:507 Y1:452 Y2:523
+Do you think that you
+will all be happy here?
+
+556
+00:41:54,662 --> 00:41:57,039  X1:232 X2:485 Y1:488 Y2:523
+Yes, sir, I think so.
+
+557
+00:41:57,975 --> 00:42:01,422  X1:144 X2:575 Y1:452 Y2:523
+And is there anything I could do
+to make you more. . .sure of that?
+
+558
+00:42:03,729 --> 00:42:08,166  X1:190 X2:529 Y1:452 Y2:523
+I have been told that I was
+my mother's disgrace,
+
+559
+00:42:08,206 --> 00:42:11,443  X1:250 X2:469 Y1:488 Y2:523
+and she is mine.
+
+560
+00:42:11,483 --> 00:42:12,843  X1:162 X2:555 Y1:488 Y2:523
+Do you know what was meant?
+
+561
+00:42:12,883 --> 00:42:16,279  X1:152 X2:567 Y1:452 Y2:523
+I assume what was meant is that
+I was born out of wedlock.
+
+562
+00:42:17,997 --> 00:42:20,625  X1:178 X2:541 Y1:452 Y2:523
+But I should like to
+know who my mother was. . .
+
+563
+00:42:22,114 --> 00:42:25,745  X1:146 X2:573 Y1:488 Y2:523
+ .and whether she still lives. Ah.
+
+564
+00:42:25,785 --> 00:42:29,500  X1:168 X2:551 Y1:488 Y2:523
+That I cannot tell you, Esther.
+
+565
+00:42:29,540 --> 00:42:33,231  X1:164 X2:555 Y1:452 Y2:523
+Your aunt chose not to tell you
+and her secret died with her.
+
+566
+00:42:35,454 --> 00:42:37,797  X1:214 X2:505 Y1:488 Y2:523
+It may be for the best.
+
+567
+00:42:42,367 --> 00:42:44,365  X1:314 X2:405 Y1:488 Y2:523
+Hmm.
+
+568
+00:42:44,405 --> 00:42:46,094  X1:252 X2:467 Y1:488 Y2:523
+Gallant conduct.
+
+569
+00:42:49,481 --> 00:42:51,121  X1:300 X2:419 Y1:488 Y2:523
+Bravery.
+
+570
+00:42:51,161 --> 00:42:53,453  X1:144 X2:575 Y1:488 Y2:523
+You don't see this one very often.
+
+571
+00:42:55,119 --> 00:42:57,833  X1:202 X2:517 Y1:488 Y2:523
+Your own, sir, are they?
+
+572
+00:42:57,873 --> 00:43:01,599  X1:112 X2:607 Y1:488 Y2:523
+How much? To pawn, or sell outright?
+
+573
+00:43:03,067 --> 00:43:04,705  X1:270 X2:447 Y1:488 Y2:523
+Sell outright.
+
+574
+00:43:08,258 --> 00:43:10,601  X1:274 X2:445 Y1:488 Y2:523
+Eight pound.
+
+575
+00:43:19,289 --> 00:43:21,406  X1:078 X2:431 Y1:488 Y2:523
+CLAMB CLEARS HIS THROAT
+
+576
+00:43:21,446 --> 00:43:23,283  X1:162 X2:555 Y1:488 Y2:523
+Those papers, Mr Tulkinghorn,
+
+577
+00:43:23,323 --> 00:43:26,603  X1:160 X2:559 Y1:452 Y2:523
+that you took to Lady Dedlock,
+the one you were interested in.
+
+578
+00:43:26,643 --> 00:43:28,720  X1:186 X2:531 Y1:488 Y2:523
+It was copied at Snagsby's.
+
+579
+00:43:28,760 --> 00:43:32,474  X1:140 X2:579 Y1:452 Y2:523
+You quite sure of that? Was there
+some complaint about them, sir?
+
+580
+00:43:32,514 --> 00:43:35,074  X1:280 X2:439 Y1:488 Y2:523
+None at all.
+
+581
+00:43:35,114 --> 00:43:38,510  X1:236 X2:483 Y1:452 Y2:523
+Quite the contrary.
+That's all, Clamb.
+
+582
+00:43:41,625 --> 00:43:46,178  X1:148 X2:569 Y1:416 Y2:523
+Mrs Pardiggle has threatened to
+call. I'm afraid she may insist on
+taking you on her rounds.
+
+583
+00:43:46,218 --> 00:43:48,058  X1:144 X2:575 Y1:488 Y2:523
+What rounds would those be, sir?
+
+584
+00:43:48,098 --> 00:43:50,776  X1:204 X2:513 Y1:488 Y2:523
+Charitable rounds, Rick.
+
+585
+00:43:50,816 --> 00:43:54,250  X1:128 X2:591 Y1:452 Y2:523
+Will you be embarking on this
+charitable expedition, Mr Skimpole?
+
+586
+00:43:54,290 --> 00:43:56,167  X1:284 X2:435 Y1:488 Y2:523
+I? Oh, no.
+
+587
+00:43:56,207 --> 00:43:59,648  X1:176 X2:541 Y1:452 Y2:523
+Well, I have nothing to give,
+but myself.
+
+588
+00:43:59,688 --> 00:44:04,642  X1:138 X2:579 Y1:452 Y2:523
+And Mrs Pardiggle I find a woman
+best admired, er, from a distance.
+
+589
+00:44:08,196 --> 00:44:10,676  X1:130 X2:589 Y1:452 Y2:523
+What's the cause we're engaged on,
+Mrs Pardiggle?
+
+590
+00:44:10,716 --> 00:44:13,392  X1:222 X2:497 Y1:452 Y2:523
+Visiting a poor family
+of brick makers.
+
+591
+00:44:13,432 --> 00:44:15,546  X1:142 X2:575 Y1:488 Y2:523
+The father is a very bad character,
+
+592
+00:44:15,586 --> 00:44:19,784  X1:154 X2:563 Y1:452 Y2:523
+but I believe I have made
+great strides with them already.
+
+593
+00:44:19,824 --> 00:44:21,467  X1:156 X2:563 Y1:488 Y2:523
+They love to see me, you know.
+
+594
+00:44:30,015 --> 00:44:32,518  X1:240 X2:479 Y1:488 Y2:523
+Come in, come in.
+
+595
+00:44:34,888 --> 00:44:37,926  X1:140 X2:579 Y1:488 Y2:523
+Well, my friends, I am here again.
+
+596
+00:44:37,966 --> 00:44:40,483  X1:226 X2:493 Y1:452 Y2:523
+There ain't any more
+of you, is there?
+
+597
+00:44:40,523 --> 00:44:42,719  X1:132 X2:585 Y1:488 Y2:523
+You won't put me off, good people.
+
+598
+00:44:42,759 --> 00:44:46,397  X1:134 X2:583 Y1:452 Y2:523
+I enjoy hard work, and the harder
+you make mine, the better I like it.
+
+599
+00:44:46,437 --> 00:44:49,234  X1:192 X2:527 Y1:452 Y2:523
+Now, did you read the
+little book I left with you?
+
+600
+00:44:49,274 --> 00:44:51,827  X1:078 X2:531 Y1:452 Y2:523
+No. I've been drunk for three days.
+BABY CRIES
+
+601
+00:44:51,867 --> 00:44:53,945  X1:198 X2:521 Y1:452 Y2:523
+If I had the money,
+I'd have been drunk four.
+
+602
+00:44:53,985 --> 00:44:57,501  X1:136 X2:583 Y1:488 Y2:523
+Have I been to church? No, I ain't.
+
+603
+00:44:57,541 --> 00:45:00,699  X1:130 X2:589 Y1:488 Y2:523
+How did my wife get that black eye?
+
+604
+00:45:00,739 --> 00:45:02,336  X1:222 X2:497 Y1:488 Y2:523
+Why, I gives it to 'er.
+
+605
+00:45:02,376 --> 00:45:05,976  X1:142 X2:575 Y1:452 Y2:523
+And if there's anyone else
+who wants one, you say the word.
+
+606
+00:45:06,016 --> 00:45:11,211  X1:176 X2:543 Y1:452 Y2:523
+Well, if that's the way,
+perhaps we should move on.
+
+607
+00:45:11,251 --> 00:45:14,927  X1:188 X2:531 Y1:452 Y2:523
+There are others more
+deserving of our attention.
+
+608
+00:45:14,967 --> 00:45:17,245  X1:078 X2:405 Y1:488 Y2:523
+BABY CONTINUES TO CRY
+
+609
+00:45:17,285 --> 00:45:18,965  X1:176 X2:543 Y1:488 Y2:523
+Is there anything we can do?
+
+610
+00:45:19,005 --> 00:45:21,078  X1:208 X2:509 Y1:452 Y2:523
+Would you like a doctor
+for the baby?
+
+611
+00:45:21,118 --> 00:45:23,137  X1:206 X2:513 Y1:452 Y2:523
+I think it's gone too late
+for that, Miss.
+
+612
+00:45:30,506 --> 00:45:32,679  X1:078 X2:229 Y1:488 Y2:523
+SHE GASPS
+
+613
+00:45:45,412 --> 00:45:47,710  X1:078 X2:229 Y1:488 Y2:523
+SHE GASPS
+
+614
+00:45:49,769 --> 00:45:53,125  X1:078 X2:215 Y1:488 Y2:523
+SHE SOBS
+
+615
+00:45:55,883 --> 00:45:59,774  X1:078 X2:229 Y1:488 Y2:523
+SHE KEENS
+
+616
+00:46:16,899 --> 00:46:18,617  X1:078 X2:535 Y1:488 Y2:523
+We can do no more for now, Esther.
+
+617
+00:46:30,204 --> 00:46:33,321  X1:078 X2:443 Y1:488 Y2:523
+MOTHER CONTINUES TO CRY
+
+618
+00:46:41,635 --> 00:46:43,550  X1:254 X2:465 Y1:488 Y2:523
+Damn you, boy!
+
+619
+00:46:43,590 --> 00:46:47,264  X1:150 X2:567 Y1:452 Y2:523
+Sorry, sir, I. . . Damn your sorry,
+you little blackguard. Leave it!
+
+620
+00:46:47,304 --> 00:46:50,301  X1:198 X2:521 Y1:488 Y2:523
+Or you will deal with me!
+
+621
+00:46:55,257 --> 00:46:58,813  X1:210 X2:507 Y1:488 Y2:523
+Well, Jo, how are you?
+
+622
+00:46:58,853 --> 00:47:00,496  X1:204 X2:513 Y1:488 Y2:523
+Not so bad, thanks, sir.
+
+623
+00:47:02,011 --> 00:47:03,933  X1:318 X2:401 Y1:488 Y2:523
+Here.
+
+624
+00:47:05,606 --> 00:47:07,335  X1:198 X2:521 Y1:488 Y2:523
+Take care of yourself, Jo.
+
+625
+00:47:14,201 --> 00:47:18,234  X1:150 X2:567 Y1:452 Y2:523
+Well, here you are. How did you
+like Mrs Pardiggle's charity?
+
+626
+00:47:18,274 --> 00:47:21,028  X1:188 X2:529 Y1:452 Y2:523
+Not at all, sir. Oh, Lord, I
+shouldn't have let you go.
+
+627
+00:47:21,068 --> 00:47:25,064  X1:158 X2:561 Y1:452 Y2:523
+You're distressed. Our distress
+is nothing. But theirs is. . .
+
+628
+00:47:25,104 --> 00:47:28,223  X1:136 X2:583 Y1:452 Y2:523
+Can nothing be done to help them?
+I think something must be done.
+
+629
+00:47:28,263 --> 00:47:32,457  X1:146 X2:571 Y1:416 Y2:523
+But now, Esther, if you feel up to
+it, you have a visitor. A visitor?
+For me?
+
+630
+00:47:32,497 --> 00:47:35,096  X1:200 X2:517 Y1:488 Y2:523
+A Mr Guppy. Mr Guppy?
+
+631
+00:47:35,136 --> 00:47:37,373  X1:160 X2:557 Y1:488 Y2:523
+Of Kenge and Carboys? Mmm.
+
+632
+00:47:37,413 --> 00:47:42,857  X1:112 X2:607 Y1:416 Y2:523
+Doesn't it concern us all?
+Miss Esther Summerson, on a personal
+and confidential matter, he said.
+
+633
+00:47:58,990 --> 00:48:00,503  X1:242 X2:477 Y1:488 Y2:523
+Miss Summerson.
+
+634
+00:48:02,025 --> 00:48:04,583  X1:146 X2:571 Y1:488 Y2:523
+Will you take some refreshment?
+
+635
+00:48:04,623 --> 00:48:06,540  X1:260 X2:459 Y1:488 Y2:523
+No, thank you.
+
+636
+00:48:06,580 --> 00:48:09,043  X1:206 X2:513 Y1:488 Y2:523
+I'll take a glass of wine.
+
+637
+00:48:09,978 --> 00:48:11,661  X1:078 X2:381 Y1:488 Y2:523
+HE CLEARS HIS THROAT
+
+638
+00:48:16,211 --> 00:48:18,668  X1:230 X2:489 Y1:488 Y2:523
+Miss Summerson. . .
+
+639
+00:48:19,608 --> 00:48:21,052  X1:322 X2:395 Y1:488 Y2:523
+Er. . .
+
+640
+00:48:24,561 --> 00:48:26,779  X1:218 X2:501 Y1:488 Y2:523
+What is it, Mr Guppy?
+
+641
+00:48:30,715 --> 00:48:36,867  X1:144 X2:575 Y1:416 Y2:523
+My present salary
+is two pound a week, and I expect
+a further rise of five shillings.
+
+642
+00:48:36,907 --> 00:48:41,985  X1:180 X2:537 Y1:416 Y2:523
+My mother has a little
+property, which takes the
+form of a small life annuity.
+
+643
+00:48:42,025 --> 00:48:44,582  X1:156 X2:563 Y1:452 Y2:523
+Mr Guppy, I don't understand. . .
+Er, Miss Summerson. . .
+
+644
+00:48:44,622 --> 00:48:47,259  X1:190 X2:529 Y1:488 Y2:523
+In the mildest language. . .
+
+645
+00:48:47,299 --> 00:48:49,136  X1:270 X2:449 Y1:488 Y2:523
+I ADORE you.
+
+646
+00:48:49,176 --> 00:48:55,050  X1:144 X2:575 Y1:452 Y2:523
+Now would you be so kind as to
+allow me to make a declaration. . .
+
+647
+00:48:55,090 --> 00:48:59,447  X1:240 X2:479 Y1:488 Y2:523
+To make an offer?
+
+648
+00:48:59,487 --> 00:49:01,870  X1:188 X2:531 Y1:488 Y2:523
+Get up, please, Mr Guppy.
+
+649
+00:49:03,441 --> 00:49:06,308  X1:126 X2:593 Y1:488 Y2:523
+I won't hear any more unless you do.
+
+650
+00:49:08,955 --> 00:49:10,234  X1:280 X2:439 Y1:488 Y2:523
+I will, Miss.
+
+651
+00:49:10,274 --> 00:49:14,146  X1:220 X2:497 Y1:452 Y2:523
+As I love and honour,
+so likewise I obey.
+
+652
+00:49:14,186 --> 00:49:17,467  X1:132 X2:587 Y1:452 Y2:523
+I'm sorry, Mr Guppy, but I can't
+marry you. It's out of the question.
+
+653
+00:49:17,507 --> 00:49:21,180  X1:194 X2:525 Y1:452 Y2:523
+I'm aware that,
+in a worldly point of view,
+
+654
+00:49:21,220 --> 00:49:24,497  X1:148 X2:571 Y1:452 Y2:523
+my offer may seem a poor one. . .
+No, it isn't that, Mr Guppy. . .
+
+655
+00:49:24,537 --> 00:49:27,015  X1:194 X2:523 Y1:452 Y2:523
+ . but I have been brought
+up in a sharp school.
+
+656
+00:49:27,055 --> 00:49:31,051  X1:190 X2:529 Y1:452 Y2:523
+I've ferreted out evidence,
+and got up cases.
+
+657
+00:49:31,091 --> 00:49:33,889  X1:162 X2:557 Y1:452 Y2:523
+What means might I not find of
+advancing your fortunes,
+
+658
+00:49:33,929 --> 00:49:37,526  X1:152 X2:565 Y1:416 Y2:523
+if I had your confidence, and you
+was to set me on? Please stop,
+Mr Guppy. . .
+
+659
+00:49:37,566 --> 00:49:42,040  X1:148 X2:571 Y1:452 Y2:523
+I have walked up and down,
+of an evening, opposite Jellyby's,
+
+660
+00:49:42,080 --> 00:49:45,795  X1:182 X2:537 Y1:452 Y2:523
+only to look upon the bricks
+that once contained thee.
+
+661
+00:49:45,835 --> 00:49:47,711  X1:240 X2:477 Y1:488 Y2:523
+Miss Summerson,
+
+662
+00:49:47,751 --> 00:49:49,884  X1:248 X2:469 Y1:488 Y2:523
+have pity on me.
+
+663
+00:49:50,790 --> 00:49:54,384  X1:128 X2:591 Y1:452 Y2:523
+Mr Guppy, I don't want to disappoint
+you, or to cause you pain,
+
+664
+00:49:54,424 --> 00:49:56,887  X1:198 X2:519 Y1:452 Y2:523
+but you must understand
+that I don't. . .
+
+665
+00:50:01,458 --> 00:50:03,695  X1:250 X2:469 Y1:488 Y2:523
+ .and couldn't. . .
+
+666
+00:50:03,735 --> 00:50:05,253  X1:296 X2:423 Y1:488 Y2:523
+love you.
+
+667
+00:50:09,929 --> 00:50:13,205  X1:228 X2:491 Y1:452 Y2:523
+I thank you for your
+good opinion of me.
+
+668
+00:50:17,801 --> 00:50:22,317  X1:168 X2:549 Y1:488 Y2:523
+And that is your final answer?
+
+669
+00:50:22,357 --> 00:50:24,235  X1:324 X2:395 Y1:488 Y2:523
+Yes.
+
+670
+00:50:24,275 --> 00:50:27,429  X1:194 X2:525 Y1:488 Y2:523
+Er, half a minute, Miss. . .
+
+671
+00:50:27,469 --> 00:50:31,269  X1:164 X2:555 Y1:452 Y2:523
+In case you should think better
+at any time,
+
+672
+00:50:31,309 --> 00:50:35,603  X1:148 X2:571 Y1:488 Y2:523
+for MY feelings can never alter. . .
+
+673
+00:50:37,180 --> 00:50:42,300  X1:174 X2:545 Y1:452 Y2:523
+ . Mr William Guppy,
+87 Penton Place, will suffice.
+
+674
+00:50:44,253 --> 00:50:46,292  X1:298 X2:419 Y1:488 Y2:523
+My card.
+
+675
+00:50:46,332 --> 00:50:48,795  X1:240 X2:479 Y1:488 Y2:523
+Without prejudice.
+
+676
+00:50:56,603 --> 00:50:59,060  X1:290 X2:427 Y1:488 Y2:523
+My angel.
+
+677
+00:51:11,385 --> 00:51:12,825  X1:078 X2:419 Y1:488 Y2:523
+SHOP DOOR BELL JANGLES
+
+678
+00:51:12,865 --> 00:51:15,699  X1:078 X2:535 Y1:488 Y2:523
+Bless my soul, sir. Mr Tulkinghorn.
+
+679
+00:51:15,739 --> 00:51:19,216  X1:122 X2:595 Y1:452 Y2:523
+I want half a word with you, Snagsby.
+Jarndyce and Jarndyce.
+
+680
+00:51:19,256 --> 00:51:22,092  X1:198 X2:521 Y1:452 Y2:523
+Everything's satisfactory,
+I hope, Mr Tulkinghorn?
+
+681
+00:51:22,132 --> 00:51:25,969  X1:140 X2:579 Y1:452 Y2:523
+You copied some affidavits in
+that cause for me lately. Yes, sir.
+
+682
+00:51:26,009 --> 00:51:29,120  X1:132 X2:587 Y1:452 Y2:523
+There was one of them,
+the handwriting of which is peculiar.
+
+683
+00:51:32,161 --> 00:51:34,680  X1:216 X2:501 Y1:488 Y2:523
+Who copied this? Ah.
+
+684
+00:51:34,720 --> 00:51:38,730  X1:220 X2:499 Y1:452 Y2:523
+We gave this out, sir.
+It'll be in the book.
+
+685
+00:51:42,908 --> 00:51:46,071  X1:184 X2:535 Y1:488 Y2:523
+Jarndyce. Here we are, sir.
+
+686
+00:51:48,423 --> 00:51:53,380  X1:116 X2:601 Y1:452 Y2:523
+This was given out to a writer who
+lodges just opposite. Name of Nemo.
+
+687
+00:51:53,420 --> 00:51:57,217  X1:126 X2:591 Y1:488 Y2:523
+Nemo? Nemo is Latin for "no-one".
+
+688
+00:51:57,257 --> 00:52:00,491  X1:186 X2:533 Y1:452 Y2:523
+He lodges just opposite?
+Above Krook's bottle shop.
+
+689
+00:52:00,531 --> 00:52:05,208  X1:130 X2:589 Y1:416 Y2:523
+Will I take you there? No trouble.
+No trouble at all, sir. No,
+Snagsby, that will not be necessary.
+
+690
+00:52:05,248 --> 00:52:07,645  X1:160 X2:559 Y1:488 Y2:523
+I was simply curious, that's all.
+
+691
+00:52:07,685 --> 00:52:11,786  X1:108 X2:611 Y1:452 Y2:523
+Good evening, Snagsby. Good evening,
+Mr Tulkinghorn. Much obliged to you.
+
+692
+00:52:13,840 --> 00:52:18,750  X1:110 X2:609 Y1:452 Y2:523
+SHOP DOOR BELL JANGLES, CAT HISSES
+All right, Lady Jane.
+
+693
+00:52:18,790 --> 00:52:21,662  X1:214 X2:505 Y1:488 Y2:523
+Mr Krook? That's me.
+
+694
+00:52:23,384 --> 00:52:25,544  X1:218 X2:501 Y1:488 Y2:523
+Is your lodger within?
+
+695
+00:52:25,584 --> 00:52:27,901  X1:206 X2:513 Y1:488 Y2:523
+Male or female? Male.
+
+696
+00:52:27,941 --> 00:52:30,059  X1:304 X2:413 Y1:488 Y2:523
+He's in.
+
+697
+00:52:30,099 --> 00:52:32,579  X1:160 X2:559 Y1:488 Y2:523
+Did you want to see him? Yes.
+
+698
+00:52:32,619 --> 00:52:34,706  X1:212 X2:507 Y1:488 Y2:523
+Then you'd best go up.
+
+699
+00:52:36,892 --> 00:52:39,930  X1:150 X2:569 Y1:488 Y2:523
+Second landing. End on the left.
+
+700
+00:52:39,970 --> 00:52:41,443  X1:284 X2:433 Y1:488 Y2:523
+Thank you.
+
+701
+00:52:50,479 --> 00:52:51,959  X1:078 X2:359 Y1:488 Y2:523
+HE KNOCKS ON DOOR
+
+702
+00:52:51,999 --> 00:52:53,872  X1:286 X2:433 Y1:488 Y2:523
+Mr Nemo?
+
+703
+00:52:53,912 --> 00:52:55,396  X1:260 X2:459 Y1:488 Y2:523
+Are you there?
+
+704
+00:53:11,416 --> 00:53:12,940  X1:306 X2:413 Y1:488 Y2:523
+Opium.
+
+705
+00:53:19,449 --> 00:53:21,167  X1:286 X2:433 Y1:488 Y2:523
+Mr Nemo?
+
+706
+00:53:24,562 --> 00:53:26,860  X1:246 X2:473 Y1:488 Y2:523
+Hello, my friend.
+
+707
+00:53:36,147 --> 00:53:39,344  X1:112 X2:607 Y1:488 Y2:523
+The man called Nemo, Mr Tulkinghorn.
+
+708
+00:53:39,384 --> 00:53:41,582  X1:198 X2:519 Y1:452 Y2:523
+He pawned some medals
+the day he died.
+
+709
+00:53:41,622 --> 00:53:45,497  X1:110 X2:609 Y1:452 Y2:523
+One of them was inscribed with
+the name of Captain Hawdon. Hawdon!
+
+710
+00:53:45,537 --> 00:53:48,776  X1:138 X2:579 Y1:488 Y2:523
+A welsher! A bilker! A defalcator!
+
+711
+00:53:48,816 --> 00:53:51,292  X1:174 X2:545 Y1:452 Y2:523
+Owes me hundreds of
+pounds, and gone to ground.
+
+712
+00:53:51,332 --> 00:53:53,092  X1:148 X2:571 Y1:488 Y2:523
+Bad debt. Bad debt. I hate 'em !
+
+713
+00:53:53,132 --> 00:53:56,089  X1:170 X2:549 Y1:488 Y2:523
+You, boy. Come here. Here!
+
+714
+00:53:56,129 --> 00:53:58,246  X1:202 X2:515 Y1:488 Y2:523
+I ain't done nothing, sir.
+
+715
+00:53:58,286 --> 00:54:01,977  X1:156 X2:561 Y1:452 Y2:523
+What do you do here?
+Let the boy go, Mr Tulkinghorn.
+
+716
+00:54:02,924 --> 00:54:05,001  X1:210 X2:509 Y1:488 Y2:523
+You're frightening him.
+
+717
+00:54:05,041 --> 00:54:09,232  X1:138 X2:581 Y1:452 Y2:523
+He is the very kindest of physicians
+in all the world.
+
+718
+00:54:09,272 --> 00:54:11,589  X1:196 X2:523 Y1:452 Y2:523
+He will have his reward
+on the Day of Judgement.
+
+719
+00:54:11,629 --> 00:54:14,269  X1:206 X2:513 Y1:452 Y2:523
+I shall never be a
+person of consequence.
+
+720
+00:54:14,309 --> 00:54:18,462  X1:162 X2:557 Y1:452 Y2:523
+No? Well, you'll have to allow
+me to disagree with you, then.
+
+721
+00:54:18,502 --> 00:54:22,728  X1:164 X2:555 Y1:452 Y2:523
+I think you like Mr Woodcourt
+a great deal, don't you? I did.
+
+722
+00:54:23,820 --> 00:54:27,413  X1:194 X2:525 Y1:452 Y2:523
+Oh, Ada, if only life could
+be like this all the time.
+
+723
+00:54:27,453 --> 00:54:31,634  X1:128 X2:591 Y1:488 Y2:523
+Well, it could, couldn't it? Perhaps.
+
+724
+00:54:34,287 --> 00:54:37,365  X1:116 X2:603 Y1:488 Y2:523
+I love him so much, Miss Summerson.
+
+725
+00:54:37,405 --> 00:54:40,682  X1:204 X2:513 Y1:488 Y2:523
+Oh, Lor', that's his dad.
+
+726
+00:54:40,722 --> 00:54:43,503  X1:160 X2:559 Y1:488 Y2:523
+Strike home, sir. Strike home.
+
+727
+00:54:45,035 --> 00:54:48,389  X1:152 X2:565 Y1:416 Y2:523
+Delighted to welcome you to the
+mysteries of our profession,
+Mr Carstone.
+
+728
+00:54:48,429 --> 00:54:50,987  X1:200 X2:519 Y1:488 Y2:523
+Richard Carstone, MRCS.
+
+729
+00:54:51,027 --> 00:54:52,987  X1:226 X2:493 Y1:488 Y2:523
+I suppose there is. . .
+
+730
+00:54:53,027 --> 00:54:55,984  X1:140 X2:579 Y1:452 Y2:523
+rather a lot of blood. But don't let
+me discourage you.
+
+731
+00:54:56,024 --> 00:54:59,178  X1:166 X2:553 Y1:488 Y2:523
+I've been thinking that the law
+
+732
+00:54:59,218 --> 00:55:02,011  X1:178 X2:539 Y1:488 Y2:523
+is the boy for me. The law?
+
+733
+00:55:04,095 --> 00:55:06,372  X1:162 X2:557 Y1:452 Y2:523
+Tell you the truth,
+I can't make head nor tail of it.
+
+734
+00:55:06,412 --> 00:55:09,729  X1:166 X2:551 Y1:452 Y2:523
+And, er, what profession have
+you settled upon this time?
+
+735
+00:55:09,769 --> 00:55:10,798  X1:264 X2:455 Y1:488 Y2:523
+The Army, sir.
+
+736
+00:55:12,766 --> 00:55:15,324  X1:190 X2:527 Y1:452 Y2:523
+All these costs, costs,
+costs and nothing is done.
+
+737
+00:55:15,364 --> 00:55:18,521  X1:136 X2:583 Y1:488 Y2:523
+Nothing is for nothing, as they say.
+
+738
+00:55:18,561 --> 00:55:23,155  X1:164 X2:555 Y1:452 Y2:523
+Might I ask, Miss Summerson,
+what YOUR family was?
+
+739
+00:55:23,195 --> 00:55:26,921  X1:186 X2:533 Y1:452 Y2:523
+I never knew my mother or
+my father, Mrs Woodcourt.
+
+740
+00:55:33,145 --> 00:55:35,783  X1:138 X2:581 Y1:488 Y2:523
+This is to be hushed up if it can be.
+
+741
+00:55:35,823 --> 00:55:39,456  X1:198 X2:521 Y1:452 Y2:523
+I am not sure that I could
+do that, Mr Tulkinghorn.
+
+742
+00:55:39,496 --> 00:55:41,174  X1:198 X2:519 Y1:488 Y2:523
+You must, Lady Dedlock.
+
+743
+00:55:41,214 --> 00:55:46,009  X1:142 X2:577 Y1:452 Y2:523
+For the sake of the family honour,
+you must.
+
+744
+00:56:40,670 --> 00:56:43,748  X1:176 X2:580 Y1:400 Y2:523
+Subtitles by Palma McKeown
+BBC Broadcast 2005
+Conversion for the forom by reirei.
+

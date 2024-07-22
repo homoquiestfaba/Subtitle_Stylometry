@@ -1,0 +1,5613 @@
+1
+00:00:38,560 --> 00:00:40,510
+Thirty all.
+
+2
+00:01:03,800 --> 00:01:05,750
+Fault.
+
+3
+00:01:07,960 --> 00:01:09,910
+Out.
+
+4
+00:01:10,000 --> 00:01:11,950
+Er... 30-40.
+
+5
+00:01:16,320 --> 00:01:17,910
+Leave it.
+
+6
+00:01:18,000 --> 00:01:19,950
+I can manage.
+
+7
+00:01:29,160 --> 00:01:32,910
+-I thought that was supposed to be for Cecil.
+-It bores him, I think.
+
+8
+00:01:33,000 --> 00:01:35,630
+Don't worry, he'll grow into it.
+
+9
+00:01:37,480 --> 00:01:41,950
+Bardner needs to set the table. Perhaps you'd better take it to the attic for now.
+
+10
+00:01:42,040 --> 00:01:44,230
+There's plenty of space up there.
+
+11
+00:01:44,320 --> 00:01:46,270
+All right.
+
+12
+00:01:57,720 --> 00:02:02,470
+.. by using information set out in tables, he can calculate his longitude.
+
+13
+00:02:02,560 --> 00:02:04,930
+Excuse me, Reverend Maskelyne, 
+
+14
+00:02:04,940 --> 00:02:06,030
+I shall have to let them in now.
+
+15
+00:02:07,240 --> 00:02:09,190
+May I have one minute, Dr Bliss?
+
+16
+00:02:09,280 --> 00:02:11,230
+Most certainly.
+
+17
+00:02:22,800 --> 00:02:26,340
+What are you going to do about your precious clocks?
+
+18
+00:02:28,080 --> 00:02:30,030
+Well,
+
+19
+00:02:31,200 --> 00:02:33,660
+I'm giving a talk to the Horological Society.
+
+20
+00:02:34,760 --> 00:02:36,710
+For money?
+
+21
+00:02:36,800 --> 00:02:38,750
+Of course not.
+
+22
+00:02:39,920 --> 00:02:43,540
+You can't just sit around here for the rest of your life, you know.
+
+23
+00:02:44,880 --> 00:02:46,950
+I do know.
+
+24
+00:02:47,760 --> 00:02:49,710
+-May I make a suggestion?
+-Mm-hm?
+
+25
+00:02:51,120 --> 00:02:54,510
+Admiral Douglas had no right to stop your work.
+
+26
+00:02:54,600 --> 00:02:58,300
+It was all that publicity about your divorce that gave him the chance.
+
+27
+00:02:58,400 --> 00:03:02,510
+If you brought the matter to the attention of the navy board yourself,
+
+28
+00:03:02,600 --> 00:03:04,550
+he would have no legal argument.
+
+29
+00:03:06,320 --> 00:03:08,590
+You're saying that I should write to them?
+
+30
+00:03:10,880 --> 00:03:12,830
+Write to Douglas first,
+
+31
+00:03:12,920 --> 00:03:14,990
+hinting that you might,
+
+32
+00:03:15,080 --> 00:03:20,710
+but um... giving him the opportunity to um... change his mind.
+
+33
+00:03:22,320 --> 00:03:24,270
+But that would be blackmail.
+
+34
+00:03:24,360 --> 00:03:26,310
+Precisely.
+
+35
+00:03:28,120 --> 00:03:30,070
+I think that's rummy.
+
+36
+00:03:30,160 --> 00:03:33,820
+Dr Mayer's lunar tables allow the navigator 
+
+37
+00:03:33,830 --> 00:03:36,420
+to calculate his longitude at sea,
+
+38
+00:03:36,520 --> 00:03:40,220
+making allowances for both refraction and parallax distortion,
+
+39
+00:03:40,320 --> 00:03:42,270
+using simple trigonometry.
+
+40
+00:03:44,120 --> 00:03:49,270
+They suggest that the longitude problem is finally to be solved by a clock,
+
+41
+00:03:49,360 --> 00:03:54,190
+not a clumsy, man-made device of spinning wheels and levers,
+
+42
+00:03:54,280 --> 00:04:00,190
+but a celestial clock, whose hands are the moon and whose numerals are the stars,
+
+43
+00:04:01,120 --> 00:04:04,820
+a dial writ across the sky by the Creator himself.
+
+44
+00:04:09,200 --> 00:04:12,230
+-What do you make of him?
+-A lunatic, and a serious one.
+
+45
+00:04:18,480 --> 00:04:20,270
+Very good. Terribly good.
+
+46
+00:04:20,360 --> 00:04:22,590
+Thank you. My Lord Sandwich.
+
+47
+00:04:22,680 --> 00:04:24,630
+-Morton.
+-You honour the Society.
+
+48
+00:04:24,720 --> 00:04:27,710
+I had thought you might be attending the opera again tonight.
+
+49
+00:04:27,800 --> 00:04:31,150
+No, my lord, but rest assured, the opera will be visiting me.
+
+50
+00:04:33,200 --> 00:04:36,670
+-Congratulations, sir. Most interesting.
+-Thank you, Your Lordship.
+
+51
+00:04:36,760 --> 00:04:38,710
+The longitude prize is yours, then.
+
+52
+00:04:38,800 --> 00:04:42,340
+My lord, I am, I hope a scientist. Knowledge itself is my reward.
+
+53
+00:04:42,440 --> 00:04:44,390
+Oh, very good.
+
+54
+00:04:45,400 --> 00:04:48,270
+He has ability, that young man, but little sense.
+
+55
+00:04:49,200 --> 00:04:53,430
+-How long will it take to prove these tables?
+-Oh, not so long. Four years, perhaps.
+
+56
+00:04:53,520 --> 00:04:57,630
+-Can he beat the old carpenter?
+-Harrison? He has lost his way.
+
+57
+00:04:57,720 --> 00:04:59,260
+His third machine has defeated him, 
+
+58
+00:04:59,260 --> 00:05:01,590
+or so the rumour has it.
+
+59
+00:05:01,680 --> 00:05:02,750
+This Society was created 
+
+60
+00:05:02,750 --> 00:05:06,510
+so that men of science might solve the mysteries of our planet.
+
+61
+00:05:06,600 --> 00:05:11,390
+I would not wish to see the longitude prize stolen by a country tool-maker.
+
+62
+00:05:11,480 --> 00:05:14,480
+Did you find the paper of interest, Mr Harrison?
+
+63
+00:05:15,000 --> 00:05:19,030
+I certainly enjoyed the Reverend's enthusiasm for trigonometry at sea.
+
+64
+00:05:19,120 --> 00:05:22,470
+My lord, the moon may only be observed 20 days in every month,
+
+65
+00:05:22,560 --> 00:05:24,390
+and then only when there is no cloud.
+
+66
+00:05:24,480 --> 00:05:26,830
+It is not a practical solution for navigation.
+
+67
+00:05:26,920 --> 00:05:28,530
+Please forgive my son William, my lord.  
+
+68
+00:05:28,530 --> 00:05:30,150
+But he is right, Mr Harrison.
+
+69
+00:05:30,240 --> 00:05:32,470
+A practical solution is what we all seek.
+
+70
+00:05:32,560 --> 00:05:36,430
+Tell me, the Society's clock, is it still adjusted by celestial observation?
+
+71
+00:05:36,520 --> 00:05:39,470
+I believe it is sir. Why? Is your watch wrong?
+
+72
+00:05:39,560 --> 00:05:42,100
+No, my lord, it's almost right, 
+
+73
+00:05:42,100 --> 00:05:44,200
+which is much more curious, don't you agree?
+
+74
+00:05:45,040 --> 00:05:46,990
+-William.
+-My lord.
+
+75
+00:05:58,840 --> 00:06:02,590
+-Four seconds.
+-Still no change, then.
+
+76
+00:06:02,680 --> 00:06:04,630
+It's remarkable.
+
+77
+00:06:04,720 --> 00:06:07,430
+Mr Harrison, you asked to see me.
+
+78
+00:06:08,920 --> 00:06:11,750
+Mr Jefferies, I hoped you might be able to do some work for me.
+
+79
+00:06:11,840 --> 00:06:13,870
+I would be delighted.
+
+80
+00:06:14,760 --> 00:06:16,710
+Could you make me one of these?
+
+81
+00:06:16,800 --> 00:06:19,790
+I need the teeth to be set a little further apart.
+
+82
+00:06:19,880 --> 00:06:22,110
+I've done a sketch of the details.
+
+83
+00:06:22,200 --> 00:06:24,150
+Yes. Yes, that should be possible.
+
+84
+00:06:25,280 --> 00:06:29,110
+-Would next week be acceptable?
+-Oh, yes, yes, of course. Thank you.
+
+85
+00:06:29,200 --> 00:06:31,950
+Oh, Mr Jefferies, your watch...
+
+86
+00:06:32,040 --> 00:06:34,110
+Is there a problem, Mr Harrison?
+
+87
+00:06:34,200 --> 00:06:36,150
+No, no. I'm quite pleased with it.
+
+88
+00:06:36,240 --> 00:06:38,310
+The modifications are encouraging.
+
+89
+00:06:42,280 --> 00:06:44,230
+I want to make another.
+
+90
+00:06:44,320 --> 00:06:48,020
+It must be a little larger, of course, to incorporate some changes I have in mind,
+
+91
+00:06:48,120 --> 00:06:51,190
+and I was wondering if you would consider assisting me.
+
+92
+00:06:51,280 --> 00:06:54,270
+-I would be happy to.
+-Thank you, Mr Jefferies.
+
+93
+00:06:57,840 --> 00:06:59,790
+See you next week.
+
+94
+00:07:03,680 --> 00:07:06,030
+What are you doing?
+
+95
+00:07:06,920 --> 00:07:09,070
+I mean to make another.
+
+96
+00:07:09,160 --> 00:07:12,990
+But the third is almost ready. We cannot afford to be distracted now!
+
+97
+00:07:13,080 --> 00:07:15,750
+You've seen how the watch has performed in the test.
+
+98
+00:07:15,840 --> 00:07:19,030
+It's not perfect, but what if I could make it so?
+
+99
+00:07:20,200 --> 00:07:24,030
+What if I could make a timepiece no bigger than the span of a man's hand
+
+100
+00:07:24,120 --> 00:07:26,070
+that could be taken to sea?
+
+101
+00:07:26,160 --> 00:07:28,590
+Now, wouldn't that be a practical solution?
+
+102
+00:07:29,920 --> 00:07:34,350
+Harrison's fourth machine, by reason alike of its beauty and its accuracy,
+
+103
+00:07:34,440 --> 00:07:37,310
+must take pride of place as the most famous chronometer
+
+104
+00:07:37,400 --> 00:07:39,470
+that ever has been or ever will be made.
+
+105
+00:07:40,520 --> 00:07:44,060
+But the journey from his third machine, which you see behind me,
+
+106
+00:07:44,160 --> 00:07:46,110
+to his fourth, thank you,
+
+107
+00:07:46,200 --> 00:07:49,350
+is one of the most extraordinary mysteries in horology.
+
+108
+00:07:50,120 --> 00:07:54,230
+Faced as he was by a seemingly insuperable problem
+
+109
+00:07:54,320 --> 00:07:58,550
+of centrifugal forces, Harrison took a daring and lateral leap.
+
+110
+00:07:58,640 --> 00:08:04,110
+It is as though an aeronautical engineer suddenly ceased development on a new aircraft,
+
+111
+00:08:04,200 --> 00:08:08,590
+and, instead, adapted the technology to make his bicycle fly to France.
+
+112
+00:08:10,360 --> 00:08:13,070
+H4, as I've come to call it,
+
+113
+00:08:13,880 --> 00:08:17,030
+resembles a large, silver, pair case watch,
+
+114
+00:08:17,120 --> 00:08:19,070
+about five inches in diameter.
+
+115
+00:08:19,760 --> 00:08:24,270
+Indeed, it seems to have been designed for daily wear in the pocket of some Brobdingnagian.
+
+116
+00:08:24,360 --> 00:08:26,310
+At the moment, it's not working,
+
+117
+00:08:26,400 --> 00:08:30,750
+but that is a state of affairs that I hope, very shortly, to do something about.
+
+118
+00:08:30,840 --> 00:08:32,630
+We should be finishing our third machine, 
+
+119
+00:08:32,630 --> 00:08:34,430
+not wasting time on this deck watch.
+
+120
+00:08:34,520 --> 00:08:36,470
+Wasting our time?
+
+121
+00:08:37,240 --> 00:08:39,310
+The machine is almost ready for its sea trial.
+
+122
+00:08:39,400 --> 00:08:41,860
+We've not had time to conduct a 28-day test on this watch, 
+
+123
+00:08:41,860 --> 00:08:44,070
+let alone three- or six-month trial.
+
+124
+00:08:45,040 --> 00:08:47,110
+I'll go when I'm ready, and not before.
+
+125
+00:08:48,360 --> 00:08:50,310
+Then we need to apply for more money.
+
+126
+00:08:50,400 --> 00:08:52,830
+We cannot survive any longer on what we have.
+
+127
+00:08:52,920 --> 00:08:55,800
+Mr Jefferies at least should be paid, even if we are not.
+
+128
+00:08:55,800 --> 00:08:59,790
+-Are you unhappy, Mr Jefferies?
+-Me, sir? No, sir.
+
+129
+00:09:02,200 --> 00:09:04,550
+There, you see?
+
+130
+00:09:12,320 --> 00:09:14,470
+Mr Gould, Francis Grey.
+
+131
+00:09:15,520 --> 00:09:17,670
+I enjoyed your talk very much.
+
+132
+00:09:17,760 --> 00:09:21,180
+I'm looking for people who can explain science in language 
+
+133
+00:09:21,180 --> 00:09:22,500
+that anybody can understand.
+
+134
+00:09:22,500 --> 00:09:24,670
+Children, for example.
+
+135
+00:09:24,760 --> 00:09:28,070
+-Do you have any of your own?
+-Two, but we're separated.
+
+136
+00:09:28,160 --> 00:09:30,110
+-Not divorced?
+-No.
+
+137
+00:09:30,200 --> 00:09:32,550
+Oh, well, that shouldn't be too much of a problem.
+
+138
+00:09:32,640 --> 00:09:35,510
+Next time you're in town, perhaps you'd care to come and see me.
+
+139
+00:09:35,600 --> 00:09:38,060
+-I'd like to talk to you about something.
+-Certainly.
+
+140
+00:09:38,160 --> 00:09:40,110
+Oh, good. Here's my card.
+
+141
+00:09:40,200 --> 00:09:42,150
+You'll find me at the BBC.
+
+142
+00:09:50,960 --> 00:09:53,110
+-Mr Harrison.
+-Reverend.
+
+143
+00:09:53,200 --> 00:09:55,150
+I think you know Captain Campbell.
+
+144
+00:09:55,240 --> 00:09:58,630
+Captain Campbell of His Majesty's ship Dorsetshire. Congratulations.
+
+145
+00:09:58,720 --> 00:10:02,110
+Captain Campbell has been assisting me in the testing of Dr Mayer's tables.
+
+146
+00:10:02,200 --> 00:10:05,100
+The Reverend is making me a mathematician.  
+
+147
+00:10:05,100 --> 00:10:06,550
+The results are very encouraging.
+
+148
+00:10:06,640 --> 00:10:11,070
+I've been commissioned by the Royal Society to go to St Helena to observe the transit of Venus,
+
+149
+00:10:11,160 --> 00:10:14,190
+so, on the way, I am to make further tests of the tables.
+
+150
+00:10:15,360 --> 00:10:18,150
+-What brings you here?
+-We're applying for...
+
+151
+00:10:18,240 --> 00:10:20,190
+A trial.
+
+152
+00:10:20,280 --> 00:10:22,230
+A West Indies trial,
+
+153
+00:10:22,320 --> 00:10:24,830
+specified by the Act of Longitude.
+
+154
+00:10:24,920 --> 00:10:28,510
+That's great news, and not before time.
+
+155
+00:10:28,600 --> 00:10:30,750
+I'd almost given up on you, Mr Harrison.
+
+156
+00:10:30,840 --> 00:10:33,910
+I hope you will accept my services in any way I can be of assistance.
+
+157
+00:10:34,000 --> 00:10:35,950
+-Thank you.
+-Mr Harrison.
+
+158
+00:10:36,040 --> 00:10:37,990
+Gentlemen.
+
+159
+00:11:00,000 --> 00:11:02,350
+-My lords, I have come... -For more money.
+
+160
+00:11:03,480 --> 00:11:05,950
+That is your normal reason for honouring our presence, 
+
+161
+00:11:05,950 --> 00:11:07,830
+is it not, Mr Harrison?
+
+162
+00:11:07,920 --> 00:11:11,070
+Your lordships, my third timepiece is completed.
+
+163
+00:11:11,160 --> 00:11:13,290
+I'm testing a fourth, 
+
+164
+00:11:13,290 --> 00:11:17,200
+which may be of great service with respect to the longitude.
+
+165
+00:11:17,360 --> 00:11:22,830
+My son has been urging me for some time to put them to trial.
+
+166
+00:11:25,160 --> 00:11:27,110
+I've decided to agree,
+
+167
+00:11:27,200 --> 00:11:30,980
+and wish to apply to take them to the West Indies.
+
+168
+00:11:32,840 --> 00:11:35,470
+What?! A West Indies trial?
+
+169
+00:11:35,560 --> 00:11:38,020
+You told me the machine was not even adjusted!
+
+170
+00:11:38,120 --> 00:11:39,890
+That is what I understood, my lord, 
+
+171
+00:11:39,890 --> 00:11:41,660
+but apparently he's making a new machine.
+
+172
+00:11:41,760 --> 00:11:43,710
+What did the Board resolve?
+
+173
+00:11:43,800 --> 00:11:46,260
+It was suggested that he travel to the West Indies
+
+174
+00:11:46,360 --> 00:11:48,590
+with Captain Campbell on the Dorsetshire.
+
+175
+00:11:48,680 --> 00:11:51,960
+If he has to have a trial, it mustn't be with Captain Campbell, 
+
+176
+00:11:51,960 --> 00:11:53,110
+who is his friend.
+
+177
+00:11:53,200 --> 00:11:56,070
+Maskelyne's trip to St Helena will take four months.
+
+178
+00:11:56,160 --> 00:11:58,790
+Harrison must not be permitted to return first.
+
+179
+00:11:58,880 --> 00:12:02,030
+We must find some other occupation for the Dorsetshire.
+
+180
+00:12:02,120 --> 00:12:05,430
+-With your permission, my lord. -Please, carry on.
+
+181
+00:12:06,040 --> 00:12:08,390
+Please, please, stay.
+
+182
+00:12:08,480 --> 00:12:11,350
+Observe. I think you'll find this most interesting.
+
+183
+00:12:11,440 --> 00:12:16,070
+This is the pineal gland, the gland that controls our emotions.
+
+184
+00:12:17,320 --> 00:12:19,800
+So, this is the first.
+
+185
+00:12:19,800 --> 00:12:23,330
+Yes, sir. My father took it to Lisbon when I were eight years old.
+
+186
+00:12:23,330 --> 00:12:25,590
+Beautiful. Quite beautiful.
+
+187
+00:12:26,760 --> 00:12:28,870
+-May I?
+-Of course.
+
+188
+00:12:32,640 --> 00:12:35,350
+Oh! Remarkable!
+
+189
+00:12:37,040 --> 00:12:39,390
+It has kept time continuously for 24 years.
+
+190
+00:12:42,040 --> 00:12:44,310
+And this is the second, and this the third?
+
+191
+00:12:45,320 --> 00:12:47,270
+And this is our new watch.
+
+192
+00:12:49,560 --> 00:12:51,510
+Extraordinary!
+
+193
+00:12:52,400 --> 00:12:54,350
+I congratulate you, Mr Harrison.
+
+194
+00:12:54,440 --> 00:12:56,950
+-Which will you take to the Indies?
+-I will take neither.
+
+195
+00:12:57,040 --> 00:13:00,430
+I'm an old man, not fit for a long journey.
+
+196
+00:13:00,520 --> 00:13:02,470
+Besides, I'm no sailor.
+
+197
+00:13:02,560 --> 00:13:05,630
+My son has an enthusiasm for the sea which I do not share.
+
+198
+00:13:06,480 --> 00:13:09,990
+-I shall send him in my stead.
+-But you must be present for the trial.
+
+199
+00:13:10,080 --> 00:13:13,430
+My lord, as you know, we've had difficulty in finding a ship.
+
+200
+00:13:13,520 --> 00:13:15,840
+Mr Campbell wished to take us, 
+
+201
+00:13:15,840 --> 00:13:17,550
+but he was ordered away on other business.
+
+202
+00:13:17,640 --> 00:13:22,230
+The delay has, however, allowed me to continue testing my watch.
+
+203
+00:13:22,320 --> 00:13:24,750
+I'm pleased with it. Very pleased.
+
+204
+00:13:26,400 --> 00:13:29,270
+I shall keep the third machine here in London with me,
+
+205
+00:13:29,360 --> 00:13:32,950
+send the watch for test under the care of my son William.
+
+206
+00:13:33,040 --> 00:13:34,990
+Well, I hope to be of assistance.
+
+207
+00:13:35,080 --> 00:13:35,930
+I can't promise you 
+
+208
+00:13:35,930 --> 00:13:38,390
+a captain as sympathetic as John Campbell,
+
+209
+00:13:38,480 --> 00:13:40,430
+but I will do my best.
+
+210
+00:13:41,640 --> 00:13:42,620
+Thank you, my lord.
+
+211
+00:13:52,080 --> 00:13:55,030
+-What is their crime?
+-Selling alcohol.
+
+212
+00:13:56,240 --> 00:13:58,700
+There's a rumour that the ship's beer is rotten 
+
+213
+00:13:58,700 --> 00:14:00,990
+and the men may be forced to drink water.
+
+214
+00:14:01,080 --> 00:14:05,070
+These three were caught selling their own brew at an exorbitant price.
+
+215
+00:14:05,160 --> 00:14:07,230
+Is water so terrible?
+
+216
+00:14:12,560 --> 00:14:15,350
+Mr Harrison! Please do not walk away!
+
+217
+00:14:16,760 --> 00:14:20,460
+It is a requirement that punishment should be witnessed by the whole crew.
+
+218
+00:14:20,560 --> 00:14:23,190
+Every stroke that you do not observe
+
+219
+00:14:24,320 --> 00:14:26,270
+will be taken again.
+
+220
+00:14:32,960 --> 00:14:34,910
+Thank you, gentlemen.
+
+221
+00:14:45,480 --> 00:14:47,430
+This is what I mean.
+
+222
+00:14:52,880 --> 00:14:54,830
+This is your water, sir.
+
+223
+00:14:56,120 --> 00:14:59,390
+This is what there is for the men to drink if the beer is foul.
+
+224
+00:15:12,360 --> 00:15:15,430
+How far do you reckon Madeira, Mr Learmouth?
+
+225
+00:15:15,520 --> 00:15:17,510
+Two days, travelling south-southwest.
+
+226
+00:15:18,720 --> 00:15:21,800
+Damn and blast the bloody purser.
+
+227
+00:15:21,840 --> 00:15:23,910
+We should all have dry throats by then.
+
+228
+00:15:26,360 --> 00:15:28,470
+I believe that we are closer than that, 
+
+229
+00:15:28,470 --> 00:15:31,100
+but the direction is due south.
+
+230
+00:15:33,560 --> 00:15:35,670
+Did you speak, Mr Harrison?
+
+231
+00:15:37,280 --> 00:15:39,270
+Well, according to the watch,
+
+232
+00:15:39,360 --> 00:15:43,220
+we should sight Porto Santo at dawn tomorrow 
+
+233
+00:15:43,220 --> 00:15:45,670
+if we hold our present course, due south.
+
+234
+00:15:45,760 --> 00:15:48,030
+I've checked the figures very carefully.
+
+235
+00:15:49,840 --> 00:15:51,790
+What do you say, gentlemen?
+
+236
+00:15:54,800 --> 00:15:56,130
+Mr Harrison, 
+
+237
+00:15:56,130 --> 00:15:58,670
+I don't pretend to understand your calculations,
+
+238
+00:15:58,760 --> 00:16:02,070
+but I'm under instruction to test your watch.
+
+239
+00:16:02,160 --> 00:16:04,790
+And test it we damn well shall.
+
+240
+00:16:06,560 --> 00:16:09,710
+Mr Learmouth, hold this course until tomorrow morning.
+
+241
+00:16:11,400 --> 00:16:13,190
+Yes, sir.
+
+242
+00:16:30,160 --> 00:16:32,360
+Send my compliments to the captain. 
+
+243
+00:16:32,370 --> 00:16:33,990
+I think he should come down here.
+
+244
+00:16:36,520 --> 00:16:38,230
+Pigswill!
+
+245
+00:17:10,200 --> 00:17:12,150
+Pour me a drink.
+
+246
+00:17:31,320 --> 00:17:35,950
+Neither myself nor my officers will drink anything this evening
+
+247
+00:17:37,000 --> 00:17:39,630
+other than the same water that is in front of you.
+
+248
+00:17:39,720 --> 00:17:42,180
+-It ain't fit for...
+-Stop that man!
+
+249
+00:17:43,160 --> 00:17:46,390
+I will not tolerate being interrupted when I'm speaking!
+
+250
+00:17:46,480 --> 00:17:48,780
+Now, I am aware that what is in front of you
+
+251
+00:17:49,720 --> 00:17:51,670
+is not the sweetest of beverages,
+
+252
+00:17:54,160 --> 00:17:56,720
+but we have a guest on board our ship
+
+253
+00:17:56,800 --> 00:17:59,830
+under instruction from the Admiralty.
+
+254
+00:18:00,960 --> 00:18:02,010
+He has assured me that 
+
+255
+00:18:02,020 --> 00:18:06,080
+we will be able to take on fresh water tomorrow from Madeira.
+
+256
+00:18:07,400 --> 00:18:10,870
+He has a machine that has made this clear to him.
+
+257
+00:18:14,640 --> 00:18:19,830
+Is there anyone here who wishes to quarrel with Mr Harrison's machine?
+
+258
+00:18:23,080 --> 00:18:25,230
+Good.
+
+259
+00:18:25,320 --> 00:18:28,500
+Then kindly get on with your meal.
+
+260
+00:18:45,320 --> 00:18:47,880
+-Good morning, sir.
+-Good morning, Captain.
+
+261
+00:18:48,440 --> 00:18:50,390
+-What time is it?
+-Five.
+
+262
+00:18:51,880 --> 00:18:53,830
+Not long now, then.
+
+263
+00:18:53,920 --> 00:18:55,870
+No, sir.
+
+264
+00:19:07,560 --> 00:19:09,680
+Lookouts aloft, Mr Learmouth?  
+
+265
+00:19:09,680 --> 00:19:10,790
+They've been up for half an hour.
+
+266
+00:19:10,880 --> 00:19:13,550
+-And the horizon?
+-Horizon!
+
+267
+00:19:15,200 --> 00:19:18,390
+-Horizon clear!
+-Horizon clear!
+
+268
+00:19:18,480 --> 00:19:21,630
+Thank you, Mr Learmouth. Let's put an end to this.
+
+269
+00:19:22,720 --> 00:19:26,260
+Mr Seward, I want all hands to quarters within the hour.
+
+270
+00:19:27,120 --> 00:19:30,870
+Mr Learmouth, set a new course, please, south-southwest.
+
+271
+00:19:30,960 --> 00:19:33,390
+If there are any complaints about the delay,
+
+272
+00:19:33,480 --> 00:19:36,550
+the men can take the matter up with Mr Harrison.
+
+273
+00:19:53,880 --> 00:19:56,030
+-Sir...
+-Lieutenant?
+
+274
+00:19:57,400 --> 00:19:59,350
+Just that cloud over there.
+
+275
+00:20:00,480 --> 00:20:02,430
+You don't think it could be...?
+
+276
+00:20:02,520 --> 00:20:04,470
+Give me your glass.
+
+277
+00:20:07,760 --> 00:20:09,710
+Land ho!
+
+278
+00:20:10,760 --> 00:20:12,710
+Land ho!
+
+279
+00:20:26,760 --> 00:20:29,030
+Mr Harrison, it seems I owe you an apology.
+
+280
+00:20:30,680 --> 00:20:33,350
+And may I put my marker down here and now
+
+281
+00:20:33,440 --> 00:20:38,300
+for the first watch that your father makes to go on sale to the public?
+
+282
+00:20:46,120 --> 00:20:49,990
+Can you manage all right? If you put it on the back seat, I think it will be good.
+
+283
+00:20:50,080 --> 00:20:52,030
+Rupert!
+
+284
+00:20:52,120 --> 00:20:54,190
+I think you'd better take this as well.
+
+285
+00:20:55,000 --> 00:20:56,950
+H4. Thank you very much.
+
+286
+00:20:57,800 --> 00:21:00,990
+I'm sorry if we appeared to act a little hastily.
+
+287
+00:21:01,080 --> 00:21:03,030
+Anyway, I'm very pleased.
+
+288
+00:21:03,120 --> 00:21:05,260
+I feel like Jack and the Beanstalk, 
+
+289
+00:21:05,260 --> 00:21:07,110
+stealing the treasure from the giant's castle.
+
+290
+00:21:07,200 --> 00:21:09,790
+-What?
+-Nothing.
+
+291
+00:21:09,880 --> 00:21:11,910
+-Nice motorcar!
+-Not mine, I'm afraid.
+
+292
+00:21:12,000 --> 00:21:14,090
+Borrowed it from a chum in the RAF. 
+
+293
+00:21:14,090 --> 00:21:14,750
+I can't afford one.
+
+294
+00:21:14,840 --> 00:21:18,030
+-Of course.
+-Are you all right? Thank you so much.
+
+295
+00:21:18,120 --> 00:21:21,990
+Look, if there are any expenses involved, tools or whatever,
+
+296
+00:21:22,080 --> 00:21:24,110
+make a note of them and send them to me.
+
+297
+00:21:24,200 --> 00:21:26,150
+Thank you so much.
+
+298
+00:21:38,840 --> 00:21:41,710
+News of your achievement is all over town,
+
+299
+00:21:42,520 --> 00:21:47,110
+as is the fact that you are about to win 20,000 pounds.
+
+300
+00:21:48,080 --> 00:21:51,230
+You're going to be a very popular young man, Mr Harrison.
+
+301
+00:21:51,320 --> 00:21:53,270
+-I envy you.
+-Thank you.
+
+302
+00:21:53,360 --> 00:21:56,350
+But I have to get back to London before I can be sure.
+
+303
+00:21:57,680 --> 00:21:59,630
+Mr Harrison...
+
+304
+00:22:00,600 --> 00:22:04,470
+You are clearly not aware that while you were at sea,
+
+305
+00:22:04,560 --> 00:22:06,510
+war was declared with Spain.
+
+306
+00:22:06,510 --> 00:22:07,450
+Frankly, 
+
+307
+00:22:07,450 --> 00:22:11,030
+I'm surprised the admiralty permitted you to travel to Jamaica at all.
+
+308
+00:22:11,840 --> 00:22:15,510
+They must have known that you were likely to be stranded here.
+
+309
+00:22:15,600 --> 00:22:17,950
+Well, there has to be a ship going back to England.
+
+310
+00:22:18,040 --> 00:22:20,230
+No. I'm afraid not.
+
+311
+00:22:20,320 --> 00:22:23,550
+Besides, it would be too dangerous to travel unescorted.
+
+312
+00:22:23,640 --> 00:22:27,670
+I'm sure you wouldn't wish your watch to be captured by the Spanish.
+
+313
+00:22:29,560 --> 00:22:31,790
+Enjoy yourself.
+
+314
+00:22:33,120 --> 00:22:35,070
+This is a very beautiful island.
+
+315
+00:22:38,720 --> 00:22:42,310
+-Where are you going to put it?
+-In the attic.
+
+316
+00:22:43,160 --> 00:22:45,110
+And the job?
+
+317
+00:22:45,200 --> 00:22:46,950
+What?
+
+318
+00:22:47,040 --> 00:22:49,470
+You said you were going to London about a job.
+
+319
+00:22:50,480 --> 00:22:52,430
+Oh, yes, I did.
+
+320
+00:22:52,520 --> 00:22:55,080
+-I met Uncle Mac.
+-Uncle Mac?
+
+321
+00:22:55,160 --> 00:22:57,110
+You don't have an Uncle Mac!
+
+322
+00:22:57,840 --> 00:23:01,190
+I do now. He offered me a job on the wireless.
+
+323
+00:23:02,080 --> 00:23:04,110
+You're not going to play records, are you?
+
+324
+00:23:04,200 --> 00:23:06,150
+Not quite.
+
+325
+00:23:30,440 --> 00:23:32,150
+Do you speak English?
+
+326
+00:23:32,240 --> 00:23:34,990
+She wants to know which of you is the rich bastard.
+
+327
+00:23:39,640 --> 00:23:42,470
+My dear girl, I'm the rich bastard.
+
+328
+00:23:43,360 --> 00:23:46,430
+Perhaps you would allow me the honour of the next dance.
+
+329
+00:23:56,920 --> 00:23:58,270
+Look over there.
+
+330
+00:23:59,560 --> 00:24:02,430
+-Who are they?
+-They're from the Merlin.
+
+331
+00:24:02,520 --> 00:24:06,750
+Arrived this afternoon to offload some prisoners and claim their bounty.
+
+332
+00:24:06,840 --> 00:24:09,720
+The ship's a hulk, two masts sprung, 
+
+333
+00:24:09,720 --> 00:24:10,910
+and half the rigging gone.
+
+334
+00:24:11,000 --> 00:24:14,390
+They were on their way to England when they came across a privateer.
+
+335
+00:24:14,480 --> 00:24:16,230
+Lucky bastards.
+
+336
+00:24:16,320 --> 00:24:18,270
+What's the name of the captain?
+
+337
+00:24:18,360 --> 00:24:20,310
+Irish fellow. Bourke.
+
+338
+00:24:20,400 --> 00:24:21,950
+William Bourke
+
+339
+00:24:28,040 --> 00:24:30,550
+Let's see... two,
+
+340
+00:24:30,640 --> 00:24:32,870
+four, six,
+
+341
+00:24:32,960 --> 00:24:34,910
+8 10 12\Neight, ten, twelve.
+
+342
+00:24:35,000 --> 00:24:37,270
+So, that's three officers and twelve men,
+
+343
+00:24:41,240 --> 00:24:45,390
+Harrison, we'll take you with us as long as you're ready to leave tomorrow.
+
+344
+00:24:46,600 --> 00:24:48,550
+Tomorrow?
+
+345
+00:24:48,640 --> 00:24:50,590
+We sail on the noontide.
+
+346
+00:24:51,280 --> 00:24:53,070
+-Mr Sayer!
+-Sir?
+
+347
+00:24:53,760 --> 00:24:56,670
+-I need you finished up there within the hour.
+-We'll be ready.
+
+348
+00:24:56,760 --> 00:24:59,910
+I'll have to check to establish the longitude of the island.
+
+349
+00:25:00,000 --> 00:25:01,950
+Can't you wait another day?
+
+350
+00:25:02,040 --> 00:25:05,030
+My orders say I must make sail as soon as I'm seaworthy.
+
+351
+00:25:06,720 --> 00:25:10,230
+So... you'd better get on with it, then.
+
+352
+00:25:25,000 --> 00:25:26,950
+-How is it?
+-Almost there.
+
+353
+00:25:28,000 --> 00:25:29,950
+What time do you make it?
+
+354
+00:25:30,040 --> 00:25:32,310
+-Well, the watch says...
+-Not the watch.
+
+355
+00:25:32,400 --> 00:25:34,430
+I don't need the time back in England.
+
+356
+00:25:34,520 --> 00:25:36,470
+The Merlin leaves on the noontide.
+
+357
+00:25:36,560 --> 00:25:39,310
+-How long have I got?
+-About an hour, I should say.
+
+358
+00:25:40,280 --> 00:25:42,190
+I'll do the calculations later. 
+
+359
+00:25:42,190 --> 00:25:44,750
+I don't want to be stranded here for four months.
+
+360
+00:25:44,840 --> 00:25:48,150
+Maskelyne may be on his way back from St Helena with his lunar results.
+
+361
+00:25:49,240 --> 00:25:51,190
+Come on. Give us a hand.
+
+362
+00:25:54,960 --> 00:25:58,500
+William, one of these chaps says he's a fisherman.
+
+363
+00:25:58,600 --> 00:26:00,300
+He's got a boat moored on the beach below. 
+
+364
+00:26:00,300 --> 00:26:02,300
+He could take you out. It would save time.
+
+365
+00:26:02,400 --> 00:26:05,070
+-Are you sure?
+-I don't think you have an option.
+
+366
+00:26:05,160 --> 00:26:08,110
+-The Merlin won't wait for you.
+-Well, come on, then!
+
+367
+00:26:38,120 --> 00:26:40,270
+-Good luck!
+-Thank you!
+
+368
+00:26:58,120 --> 00:27:01,390
+Mr Harrison, I can see you live dangerously.
+
+369
+00:27:01,480 --> 00:27:04,630
+-I like that. Welcome aboard.
+-Thank you, Captain.
+
+370
+00:27:06,240 --> 00:27:08,470
+I can see I'm not the only one.
+
+371
+00:27:09,360 --> 00:27:12,230
+-Set the upper topsails, Mr Parker.
+-Aye, Captain.
+
+372
+00:27:12,320 --> 00:27:16,830
+-Set the upper topsails!
+-Set the upper topsails!
+
+373
+00:27:27,840 --> 00:27:31,270
+Have done with your sums, Mr Harrison. Go up on deck.
+
+374
+00:27:32,160 --> 00:27:34,110
+It's a fine sight.
+
+375
+00:27:34,200 --> 00:27:36,760
+I cannot be certain till we are back in England,
+
+376
+00:27:36,840 --> 00:27:38,790
+but, according to my workings,
+
+377
+00:27:38,880 --> 00:27:40,830
+if we take the rate into account,
+
+378
+00:27:40,920 --> 00:27:42,720
+we've lost under a minute 
+
+379
+00:27:42,720 --> 00:27:44,670
+since the watch left London ten weeks ago.
+
+380
+00:27:44,760 --> 00:27:46,710
+The er... rate?
+
+381
+00:27:47,920 --> 00:27:50,480
+Well, we know the watch loses 211/22 seconds a day.
+
+382
+00:27:50,560 --> 00:27:51,800
+We call that the going rate. 
+
+383
+00:27:51,800 --> 00:27:54,430
+I used that in my calculations for Madeira.
+
+384
+00:27:54,520 --> 00:27:56,930
+Taking that into account, 
+
+385
+00:27:56,930 --> 00:28:00,550
+there's a possible error in longitude of less than half a degree.
+
+386
+00:28:00,640 --> 00:28:02,990
+Let me be the first to congratulate you.
+
+387
+00:28:03,080 --> 00:28:04,830
+No, thank you.
+
+388
+00:28:04,920 --> 00:28:06,710
+I'm already drunk.
+
+389
+00:28:06,800 --> 00:28:10,630
+All my life... my father's life,
+
+390
+00:28:11,480 --> 00:28:13,670
+has been for this moment.
+
+391
+00:28:18,600 --> 00:28:20,550
+Listen.
+
+392
+00:28:20,640 --> 00:28:22,830
+If the watch stops now, sir,
+
+393
+00:28:24,040 --> 00:28:25,990
+so does my heart,
+
+394
+00:28:26,080 --> 00:28:28,540
+for there will be no proof of its achievement.
+
+395
+00:28:30,040 --> 00:28:31,990
+Half a degree.
+
+396
+00:28:32,080 --> 00:28:34,230
+We've won the prize, Captain.
+
+397
+00:28:34,320 --> 00:28:36,270
+We've won the prize!
+
+398
+00:28:39,800 --> 00:28:41,790
+Captain, Spaniard about a cannon shot away.
+
+399
+00:28:41,880 --> 00:28:43,520
+Every man to his station! 
+
+400
+00:28:43,520 --> 00:28:45,830
+Tell the master gunner to report to me on deck.
+
+401
+00:28:49,400 --> 00:28:52,830
+Aft, loosen your guns! Get those portholes open!
+
+402
+00:28:55,800 --> 00:28:57,750
+I don't know what she's waiting for.
+
+403
+00:29:02,560 --> 00:29:04,860
+-Stand the guns by. -Aye, Captain.
+
+404
+00:29:06,000 --> 00:29:07,950
+Steady!
+
+405
+00:29:11,120 --> 00:29:14,230
+-Fire as she comes by!
+-Fire as she comes by!
+
+406
+00:29:31,520 --> 00:29:35,190
+The dial is of white enamel with an ornamental design in black.
+
+407
+00:29:35,280 --> 00:29:38,570
+The hour and minute hands are of blued steel, 
+
+408
+00:29:38,570 --> 00:29:40,630
+and there is a polished centre second hand.
+
+409
+00:29:41,800 --> 00:29:45,750
+The movement can be swung out of the case, turning on a bolt and joint,
+
+410
+00:29:45,840 --> 00:29:48,870
+exactly as do those of ordinary watches of the period.
+
+411
+00:29:53,760 --> 00:29:57,430
+It's no good. We're going to have to try and outrun her.
+
+412
+00:29:57,520 --> 00:29:59,470
+Mr Markland,
+
+413
+00:29:59,560 --> 00:30:02,790
+put on all the sail she can carry and set a course due east.
+
+414
+00:30:02,880 --> 00:30:05,030
+Aye aye, Captain.
+
+415
+00:30:05,120 --> 00:30:07,110
+Can we get any more men aloft, Mr Bandelwine?
+
+416
+00:30:07,200 --> 00:30:09,150
+We're taking on water forward.
+
+417
+00:30:09,240 --> 00:30:12,690
+We've got to keep the pumps manned, sir.
+
+418
+00:30:15,120 --> 00:30:18,740
+I want eight men at the pumps at all times, changing every quarter.
+
+419
+00:30:18,840 --> 00:30:22,750
+-Mr Hallam, I'm holding you responsible.
+-Yes, sir.
+
+420
+00:30:40,400 --> 00:30:45,260
+The pallet radius and crown wheel are both very small compared with the balance,
+
+421
+00:30:46,320 --> 00:30:48,270
+but, not content with this,
+
+422
+00:30:48,360 --> 00:30:51,430
+Harrison fitted, between the fourth and crown wheels,
+
+423
+00:30:51,520 --> 00:30:53,690
+a most ingenious remontoir,
+
+424
+00:30:53,690 --> 00:30:58,190
+whose action, at first sight, is almost uncanny.
+
+425
+00:31:08,080 --> 00:31:10,640
+Right, lads, over she goes!
+
+426
+00:31:19,040 --> 00:31:21,340
+Steady up now. Take it up. Take it up there.
+
+427
+00:31:24,320 --> 00:31:25,430
+Boatswain?
+
+428
+00:31:25,520 --> 00:31:26,850
+If we get it on top of the hole, 
+
+429
+00:31:26,850 --> 00:31:28,080
+the suction should hold it.
+
+430
+00:31:28,160 --> 00:31:30,750
+We'll have to keep the pumps going day and night, sir.
+
+431
+00:31:30,840 --> 00:31:32,790
+The mist is starting to lift.
+
+432
+00:31:33,760 --> 00:31:35,370
+Quick as you can, Boatswain.  
+
+433
+00:31:35,370 --> 00:31:37,110
+You heard the captain. Steady now.
+
+434
+00:31:37,200 --> 00:31:39,150
+Haul away! Come on, now!
+
+435
+00:31:39,880 --> 00:31:42,150
+The watch beats five to a second,
+
+436
+00:31:42,240 --> 00:31:44,870
+a slight recoil being perceptible at each beat,
+
+437
+00:31:45,880 --> 00:31:48,310
+and goes for 30 hours.
+
+438
+00:31:48,400 --> 00:31:51,270
+The plates are of brass, polished, but not gilt.
+
+439
+00:31:52,360 --> 00:31:54,990
+The pivot holes are jewelled as far as the third wheel,
+
+440
+00:31:55,080 --> 00:31:58,150
+that is to say, those of the balance, staff, detent,
+
+441
+00:31:58,240 --> 00:32:02,150
+contrate wheel, fly, fifth, fourth and third wheels.
+
+442
+00:32:02,240 --> 00:32:04,190
+The jewels are rubies,
+
+443
+00:32:04,280 --> 00:32:06,230
+and the end stones, diamonds.
+
+444
+00:32:06,320 --> 00:32:08,270
+It is a masterpiece,
+
+445
+00:32:08,360 --> 00:32:11,550
+weighing only slightly less than the brain that conceived it.
+
+446
+00:32:13,360 --> 00:32:15,310
+Harrison.
+
+447
+00:32:19,480 --> 00:32:21,430
+Morning, Captain.
+
+448
+00:32:22,360 --> 00:32:24,310
+How is your watch?
+
+449
+00:32:25,200 --> 00:32:27,150
+Dry, sir, I think.
+
+450
+00:32:27,240 --> 00:32:29,540
+It must be the only thing on board the ship that is.
+
+451
+00:32:29,640 --> 00:32:32,670
+Who will believe in a naval watch that cannot survive a storm?
+
+452
+00:32:32,760 --> 00:32:35,830
+There's many a ship that doesn't survive a storm, Mr Harrison,
+
+453
+00:32:35,920 --> 00:32:37,870
+but the navy don't stop making them.
+
+454
+00:32:37,960 --> 00:32:41,830
+It's not the navy I have to convince, sir. It is the Board of Longitude.
+
+455
+00:32:48,440 --> 00:32:52,830
+I'm very sorry, Reverend, to hear that your journey to St Helena was unsuccessful.
+
+456
+00:32:54,000 --> 00:32:57,230
+Unsuccessful, sir? I think you've been misinformed.
+
+457
+00:32:57,320 --> 00:33:01,470
+1,000 miles to observe the planet Venus, and it turns out to be a cloudy day.
+
+458
+00:33:02,560 --> 00:33:04,510
+Am I misinformed?
+
+459
+00:33:04,600 --> 00:33:07,550
+The transit of Venus was but one part of my expedition.
+
+460
+00:33:07,640 --> 00:33:10,270
+My lunar observations on board were most interesting,
+
+461
+00:33:10,360 --> 00:33:12,310
+as I shall explain to the Board.
+
+462
+00:33:13,800 --> 00:33:15,750
+Mr Harrison.
+
+463
+00:33:18,160 --> 00:33:20,590
+-Mr William Harrison.
+-We'll go together.
+
+464
+00:33:20,680 --> 00:33:22,750
+My instructions are quite clear, sir.
+
+465
+00:33:22,840 --> 00:33:26,030
+Don't worry, they can't hurt us. We've won.
+
+466
+00:33:43,680 --> 00:33:48,030
+Mr Harrison, is this your idea of a scientific observation?
+
+467
+00:33:48,120 --> 00:33:49,690
+I must apologise, sir, 
+
+468
+00:33:49,690 --> 00:33:51,890
+but the journey back was very difficult, 
+
+469
+00:33:51,900 --> 00:33:53,570
+and the papers were damaged.
+
+470
+00:33:53,600 --> 00:33:55,070
+I am referring to the fact that 
+
+471
+00:33:55,070 --> 00:33:57,870
+it appears only one observation was taken in Jamaica.
+
+472
+00:33:57,960 --> 00:33:59,510
+No, no. Two, sir.
+
+473
+00:33:59,600 --> 00:34:03,140
+But the second, it appears, was taken from another position.
+
+474
+00:34:03,240 --> 00:34:04,770
+I had very little time, sir, 
+
+475
+00:34:04,770 --> 00:34:06,020
+but I can assure you 
+
+476
+00:34:06,020 --> 00:34:08,260
+the observation was most carefully taken,
+
+477
+00:34:08,360 --> 00:34:11,310
+with witnesses present, as instructed by the Board.
+
+478
+00:34:14,680 --> 00:34:18,030
+Mr Harrison, do you have any formal astronomical training?
+
+479
+00:34:18,200 --> 00:34:19,260
+No, sir, 
+
+480
+00:34:19,260 --> 00:34:22,990
+but I have been taking observations for my father since I was six years old.
+
+481
+00:34:23,080 --> 00:34:25,190
+Really?
+
+482
+00:34:36,240 --> 00:34:38,190
+Mr John Harrison.
+
+483
+00:34:55,280 --> 00:34:59,750
+My lords, gentlemen, if I may beg your indulgence,
+
+484
+00:34:59,840 --> 00:35:03,000
+it is 25 years since I first had the honour 
+
+485
+00:35:03,000 --> 00:35:04,830
+to address this Board
+
+486
+00:35:05,200 --> 00:35:08,310
+under the chairmanship of Dr Edmund Halley,
+
+487
+00:35:08,690 --> 00:35:12,200
+and since that time I worked with only one ambition to
+
+488
+00:35:12,200 --> 00:35:16,790
+to satisfy your requirements, as laid down by act of parliament 
+
+489
+00:35:16,880 --> 00:35:18,950
+for the discovery of longitude at sea.
+
+490
+00:35:19,960 --> 00:35:22,790
+It is with both great pride and honour
+
+491
+00:35:23,960 --> 00:35:27,740
+and humility that I stand here today with my son
+
+492
+00:35:27,840 --> 00:35:29,790
+after his great trial.
+
+493
+00:35:29,880 --> 00:35:31,830
+Thank you, Mr Harrison.
+
+494
+00:35:31,920 --> 00:35:33,870
+-May I?
+-Thank you.
+
+495
+00:35:36,960 --> 00:35:40,580
+I have asked you here to inform you of the resolution of the Board,
+
+496
+00:35:40,680 --> 00:35:45,700
+that firstly, the brief calculations of Mr William Harrison are to be sent for computation
+
+497
+00:35:45,800 --> 00:35:51,150
+and the instruments used in those observations are also to be sent for examination.
+
+498
+00:35:51,240 --> 00:35:54,310
+The Board will then consider these reports at a further meeting,
+
+499
+00:35:54,400 --> 00:35:58,750
+the date of which will be announced in due course.
+
+500
+00:35:58,840 --> 00:36:01,950
+That will be all for now, gentlemen.
+
+501
+00:36:14,200 --> 00:36:16,150
+Sir, I am an old man,
+
+502
+00:36:16,240 --> 00:36:20,590
+and an old man can sometimes find his senses unexpectedly weakened.
+
+503
+00:36:20,680 --> 00:36:25,590
+There is, perhaps, an element of your argument that I have misunderstood,
+
+504
+00:36:25,680 --> 00:36:27,630
+or even misheard.
+
+505
+00:36:28,640 --> 00:36:30,590
+My watch...
+
+506
+00:36:30,900 --> 00:36:38,150
+Lost one minute, 53 and half seconds after 81 days at sea,
+
+507
+00:36:38,840 --> 00:36:41,870
+as witnesses signed in the papers you have before you,
+
+508
+00:36:41,960 --> 00:36:44,390
+which you seem so keen to put away.
+
+509
+00:36:44,480 --> 00:36:50,310
+I have fulfilled the terms most exactly, as laid down in the Act of Queen Anne,
+
+510
+00:36:50,400 --> 00:36:55,470
+and I demand that you consider the question of my reward.
+
+511
+00:36:57,960 --> 00:37:00,160
+Mr Harrison, 
+
+512
+00:37:00,170 --> 00:37:04,790
+I am not a commissioner of the gaming board here to settle some bet.
+
+513
+00:37:04,880 --> 00:37:09,510
+I am a scientist, bent on investigation of a most serious subject.
+
+514
+00:37:09,600 --> 00:37:15,190
+Now, the Board are, at present, unsatisfied with the information before them,
+
+515
+00:37:15,280 --> 00:37:20,550
+but have decided to make further investigation with the help of some expert advice.
+
+516
+00:37:20,640 --> 00:37:26,270
+Now, you will be summoned in due course to hear the results of that investigation.
+
+517
+00:37:27,600 --> 00:37:29,550
+Thank you.
+
+518
+00:37:31,360 --> 00:37:34,830
+-They're disputing the observations.
+- On what grounds?
+
+519
+00:37:34,920 --> 00:37:37,190
+Too few, taken from different positions.
+
+520
+00:37:37,280 --> 00:37:39,740
+It is no more necessary to make multiple observations
+
+521
+00:37:39,840 --> 00:37:43,380
+}than it is to look at one's watch 100 times to tell the time.
+
+522
+00:37:43,480 --> 00:37:46,830
+I'll go to Greenwich and start a programme of experiments to prove that.
+
+523
+00:37:46,920 --> 00:37:48,870
+We shall fight them.
+
+524
+00:37:48,960 --> 00:37:53,390
+They're interested only in observations, not in the timekeeping of the clock.
+
+525
+00:37:53,720 --> 00:37:56,950
+Because they are astronomers. It's all they understand.
+
+526
+00:38:08,320 --> 00:38:10,270
+Rupert Gould, 10.30.
+
+527
+00:38:10,360 --> 00:38:12,310
+- Programme?
+- Children's Hour.
+
+528
+00:38:13,600 --> 00:38:16,430
+You've got 7 and half minutes, which is about 1,500 words.
+
+529
+00:38:16,520 --> 00:38:19,710
+- How long is your script?
+- I don't have a script.
+
+530
+00:38:19,800 --> 00:38:21,750
+But you have to have a script.
+
+531
+00:38:21,840 --> 00:38:24,470
+I have a watch. Don't worry, it'll be 7 and half minutes.
+
+532
+00:38:25,800 --> 00:38:29,420
+Well, don't forget, at the end, say, "Goodbye, everyone,"
+
+533
+00:38:29,520 --> 00:38:33,670
+count to three, one, two, three, then say goodbye.
+
+534
+00:38:33,760 --> 00:38:37,110
+-Why the pause?
+- So the children can say goodbye back to you.
+
+535
+00:38:40,440 --> 00:38:42,390
+I want you to close your eyes
+
+536
+00:38:42,480 --> 00:38:46,020
+and try to think a thought that nobody else has ever thought before.
+
+537
+00:38:46,120 --> 00:38:48,070
+Think very hard.
+
+538
+00:38:48,160 --> 00:38:50,590
+Pay no attention to anybody else around you.
+
+539
+00:38:50,590 --> 00:38:53,700
+what you see, is it just darkness?
+
+540
+00:38:53,720 --> 00:38:55,670
+Or is there a picture?
+
+541
+00:38:55,760 --> 00:38:59,510
+Most of us, with our eyes closed, just see the dark,
+
+542
+00:38:59,600 --> 00:39:03,900
+but the artist or the scientist can sometimes see something new,
+
+543
+00:39:03,920 --> 00:39:05,870
+something never thought of before.
+
+544
+00:39:06,840 --> 00:39:09,190
+It's these ideas that can change our lives,
+
+545
+00:39:09,280 --> 00:39:11,320
+and the people who think of them,
+
+546
+00:39:11,320 --> 00:39:15,230
+whether they are musicians, painters, architects or engineers,
+
+547
+00:39:15,320 --> 00:39:17,620
+are called inventors.
+
+548
+00:39:17,720 --> 00:39:20,710
+Some of you listening now are inventors.
+
+549
+00:39:21,240 --> 00:39:25,270
+Open your eyes. Look around. Can you tell who it'll be?
+
+550
+00:39:25,400 --> 00:39:27,860
+-Will it be somebody with untidy hair?
+- Very good.
+
+551
+00:39:27,960 --> 00:39:29,910
+I doubt it.
+
+552
+00:39:30,000 --> 00:39:33,150
+But new inventions often seem strange at first,
+
+553
+00:39:33,240 --> 00:39:35,190
+even frightening.
+
+554
+00:39:35,280 --> 00:39:37,280
+Something that seems normal to us, 
+
+555
+00:39:37,280 --> 00:39:39,150
+the clock ticking on the mantelpiece,
+
+556
+00:39:39,240 --> 00:39:42,510
+would have seemed like a magician's trick a few hundred years ago.
+
+557
+00:39:42,600 --> 00:39:44,100
+Mr Harrison, 
+
+558
+00:39:44,100 --> 00:39:48,910
+we have asked you here to acquaint you with the resolutions of the Board.
+
+559
+00:39:50,000 --> 00:39:55,350
+We find that the Jamaica trial recently undertaken was not sufficient
+
+560
+00:39:55,440 --> 00:40:01,270
+to determine the longitude at sea laid down by act of parliament.
+
+561
+00:40:01,360 --> 00:40:03,990
+Sir, I beg to differ.
+
+562
+00:40:04,080 --> 00:40:07,270
+Please, let me finish, Mr Harrison.
+
+563
+00:40:08,080 --> 00:40:11,990
+The Board therefore wishes to instigate a further trial,
+
+564
+00:40:12,080 --> 00:40:15,110
+with Mr Harrison or some suitable individual,
+
+565
+00:40:15,200 --> 00:40:19,430
+accompanied by an astronomer approved by the Board
+
+566
+00:40:19,520 --> 00:40:21,470
+to witness the observations.
+
+567
+00:40:23,280 --> 00:40:25,840
+Gentlemen, at our last meeting
+
+568
+00:40:25,920 --> 00:40:29,750
+you questioned the observations taken by myself in Jamaica.
+
+569
+00:40:30,560 --> 00:40:37,140
+Since then, I have compiled an extensive report prepared at Greenwich.
+
+570
+00:40:37,240 --> 00:40:39,190
+Please don't exert yourself, Mr Harrison.
+
+571
+00:40:39,280 --> 00:40:43,150
+The Board has withdrawn the objections to your observations.
+
+572
+00:40:45,920 --> 00:40:47,870
+Then why did we fail?
+
+573
+00:40:49,080 --> 00:40:51,380
+One trial of the watch proves nothing.
+
+574
+00:40:51,480 --> 00:40:54,070
+The results may have been chance alone,
+
+575
+00:40:54,160 --> 00:41:00,390
+and, besides, the Board is not satisfied that the true longitude of Jamaica is known,
+
+576
+00:41:00,480 --> 00:41:04,100
+and feels, therefore, that a proper evaluation is impossible.
+
+577
+00:41:04,200 --> 00:41:06,150
+But you knew that all along.
+
+578
+00:41:13,600 --> 00:41:16,590
+May I see the results of these computes?
+
+579
+00:41:18,400 --> 00:41:20,350
+I don't think so, do you?
+
+580
+00:41:20,440 --> 00:41:22,390
+No, I'm afraid not.
+
+581
+00:41:22,480 --> 00:41:25,220
+I mean that would require their individual permissions,
+
+582
+00:41:25,220 --> 00:41:27,750
+and we don't have that at the moment.
+
+583
+00:41:27,840 --> 00:41:30,150
+Now, I must ask you, Mr Harrison, 
+
+584
+00:41:30,150 --> 00:41:32,190
+whether you will accept the resolution of this Board
+
+585
+00:41:32,280 --> 00:41:36,060
+for a further trial accompanied by an official astronomer?
+
+586
+00:41:37,080 --> 00:41:39,690
+A maritime museum's a marvellous idea.
+
+587
+00:41:40,160 --> 00:41:43,510
+And the perfect place for Harrison's masterpieces.
+
+588
+00:41:43,600 --> 00:41:45,700
+We've already written to the Science Museum 
+
+589
+00:41:45,700 --> 00:41:48,100
+to tell them that we want them back.
+
+590
+00:41:48,100 --> 00:41:50,150
+They were not pleased, I can tell you.
+
+591
+00:41:50,920 --> 00:41:53,670
+In fact, I've applied for one of the curatorships.
+
+592
+00:41:53,760 --> 00:41:55,710
+Yes, I know.
+
+593
+00:41:55,800 --> 00:41:57,750
+I wanted to talk to you about that.
+
+594
+00:41:58,560 --> 00:42:00,630
+Have they considered my application?
+
+595
+00:42:00,720 --> 00:42:04,790
+I'm afraid your application was not officially put before the committee.
+
+596
+00:42:04,880 --> 00:42:07,230
+-Why?
+-Well...
+
+597
+00:42:08,200 --> 00:42:10,180
+I'm not the one that decides these things, 
+
+598
+00:42:10,180 --> 00:42:13,790
+but after all that nonsense in the newspapers,
+
+599
+00:42:13,880 --> 00:42:17,310
+it was not felt... appropriate.
+
+600
+00:42:17,400 --> 00:42:19,350
+That's it, keep her level.
+
+601
+00:42:19,440 --> 00:42:21,390
+Steady as she goes.
+
+602
+00:42:21,480 --> 00:42:23,430
+Very good. Excellent.
+
+603
+00:42:23,520 --> 00:42:26,080
+Keep coming. There. Yes.
+
+604
+00:42:29,160 --> 00:42:30,590
+Thank you.
+
+605
+00:42:31,680 --> 00:42:33,630
+Thank you so much.
+
+606
+00:42:35,400 --> 00:42:37,350
+Oh, I'm so sorry.
+
+607
+00:42:37,440 --> 00:42:39,390
+Of course.
+
+608
+00:42:49,840 --> 00:42:51,400
+Ah, good morning. 
+
+609
+00:42:51,400 --> 00:42:52,710
+Christopher Irwin and the marine chair.
+
+610
+00:42:52,800 --> 00:42:54,750
+Oh, good morning to you, sir.
+
+611
+00:42:54,840 --> 00:42:56,930
+Mr John Jefferies at your service, 
+
+612
+00:42:56,930 --> 00:42:58,710
+and may I present Mr John Harrison?
+
+613
+00:42:58,800 --> 00:43:01,430
+The clockmaker? I'm very honoured to meet you.
+
+614
+00:43:01,520 --> 00:43:06,830
+I take it this machine is intended for the taking of lunar observations.
+
+615
+00:43:06,920 --> 00:43:11,870
+Yes, impervious to the weather... And the waves.
+
+616
+00:43:11,960 --> 00:43:14,610
+It's er... It's my own invention.
+
+617
+00:43:15,120 --> 00:43:17,070
+John!
+
+618
+00:43:17,960 --> 00:43:20,230
+It's... Up we go.
+
+619
+00:43:21,800 --> 00:43:23,750
+It's simple, yet...
+
+620
+00:43:25,080 --> 00:43:27,030
+.. effective,
+
+621
+00:43:27,120 --> 00:43:31,980
+and will completely solve the problem of the longitude.
+
+622
+00:43:33,500 --> 00:43:34,800
+I've made two, 
+
+623
+00:43:34,800 --> 00:43:37,100
+ready to sail to Barbados with Reverend Maskelyne.
+
+624
+00:43:37,100 --> 00:43:38,870
+-Maskelyne?
+-Yes.
+
+625
+00:43:39,640 --> 00:43:43,590
+They said I should be here at midday. Mr Bliss was most particular.
+
+626
+00:43:43,680 --> 00:43:45,630
+Mr Harrison.
+
+627
+00:43:45,920 --> 00:43:47,870
+Oh, I can manage, Jefferies.
+
+628
+00:43:48,680 --> 00:43:50,630
+Mr Irwin.
+
+629
+00:43:52,320 --> 00:43:54,830
+My lords, this is prevarication.
+
+630
+00:43:54,920 --> 00:43:58,350
+If no astronomer is appointed, then the matter must be postponed.
+
+631
+00:43:58,440 --> 00:44:00,870
+I humbly beg your indulgence...
+
+632
+00:44:00,960 --> 00:44:05,150
+Sir, we're aware that you have made various unsuccessful applications,
+
+633
+00:44:05,240 --> 00:44:06,500
+and, not surprisingly, 
+
+634
+00:44:06,500 --> 00:44:10,590
+no reputable man has agreed to waste his time on such an expedition.
+
+635
+00:44:10,680 --> 00:44:13,330
+We should therefore move on to other matters.
+
+636
+00:44:27,160 --> 00:44:29,110
+-Ah.
+-My lord...
+
+637
+00:44:30,640 --> 00:44:32,940
+I must apologise for my late arrival.
+
+638
+00:44:33,040 --> 00:44:35,990
+Mr Harrison, we are discussing the matter of an astronomer
+
+639
+00:44:36,080 --> 00:44:38,150
+to accompany the trial of your father's watch.
+
+640
+00:44:38,240 --> 00:44:41,390
+My lord, I have a proposal.
+
+641
+00:44:41,480 --> 00:44:44,510
+-Mr Greene near Greenwich has...
+-We have already covered this.
+
+642
+00:44:44,600 --> 00:44:45,800
+We did write to Mr Greene, 
+
+643
+00:44:45,800 --> 00:44:49,070
+but sadly, I spoke to him yesterday, and he must decline.
+
+644
+00:44:49,160 --> 00:44:52,390
+His recent duties at the observatory are extremely demanding.
+
+645
+00:44:52,480 --> 00:44:54,600
+I can confirm this, my lord. I was there, 
+
+646
+00:44:54,600 --> 00:44:56,100
+and Mr Greene was adamant.
+
+647
+00:44:56,200 --> 00:44:59,060
+My lord, I've just come from Greenwich, 
+
+648
+00:44:59,060 --> 00:45:01,220
+where I had the good fortune to speak to Mr Greene.
+
+649
+00:45:01,320 --> 00:45:03,100
+I trust, Mr Harrison, 
+
+650
+00:45:03,100 --> 00:45:06,830
+it's not your intention to question the word of two members of this Board.
+
+651
+00:45:06,920 --> 00:45:11,030
+No, my lord, but Mr Greene has kindly agreed to accompany me here.
+
+652
+00:45:14,120 --> 00:45:16,990
+No, I certainly have never seen anything like it.
+
+653
+00:45:17,640 --> 00:45:19,590
+Most extraordinary.
+
+654
+00:45:19,680 --> 00:45:22,110
+It stays completely upright in any weather.
+
+655
+00:45:22,200 --> 00:45:25,550
+-I see.
+-Mr Greene?
+
+656
+00:45:25,640 --> 00:45:27,910
+- What are you doing here?
+- I am not sure, Reverend.
+
+657
+00:45:28,000 --> 00:45:30,670
+It has been a most confusing morning.
+
+658
+00:45:30,760 --> 00:45:32,710
+Christopher Irwin. The marine chair.
+
+659
+00:45:32,800 --> 00:45:35,360
+-Mr Greene.
+-Excuse me.
+
+660
+00:45:39,560 --> 00:45:42,070
+You wouldn't, by any chance, be the Reverend Maskelyne?
+
+661
+00:45:42,640 --> 00:45:46,590
+-What?
+-My name is Christopher Irwin, and this is...
+
+662
+00:45:46,680 --> 00:45:49,990
+-The marine chair. Yes, I think I'd gathered that.
+-Right.
+
+663
+00:45:50,080 --> 00:45:54,510
+So, in principle, Mr Greene, you would be prepared to accompany the expedition?
+
+664
+00:45:54,600 --> 00:45:56,550
+Yes, but...
+
+665
+00:45:56,550 --> 00:45:58,100
+But what you are saying, I think, 
+
+666
+00:45:58,100 --> 00:46:01,660
+is that you would require permission from your superior.
+
+667
+00:46:03,000 --> 00:46:04,950
+Correct me if I'm wrong.
+
+668
+00:46:05,040 --> 00:46:09,470
+Well, perhaps my colleagues and I could help you in that.
+
+669
+00:46:10,560 --> 00:46:15,580
+Dr Bliss, who, exactly, is Mr Greene's superior?
+
+670
+00:46:15,680 --> 00:46:18,110
+You know perfectly well he works for me at the observatory.
+
+671
+00:46:18,200 --> 00:46:21,070
+If you were to remove your objection, the matter may be settled.
+
+672
+00:46:21,160 --> 00:46:25,510
+My lord, I believe the Reverend Nevile Maskelyne would be a more suitable observer.
+
+673
+00:46:25,600 --> 00:46:30,070
+His presence on the trial would allow us to test the lunar data he is compiling.
+
+674
+00:46:30,160 --> 00:46:33,430
+I have here a copy of his new publication, The British Mariner's Guide.
+
+675
+00:46:33,520 --> 00:46:39,310
+It contains an entry for the position of the moon at every day of every hour for the next three years.
+
+676
+00:46:39,400 --> 00:46:43,010
+It enables, with observation, the calculation, 
+
+677
+00:46:43,010 --> 00:46:44,150
+at sea, of the longitude.
+
+678
+00:46:44,240 --> 00:46:48,070
+Very well, my lord, I propose that both Mr Greene and Mr Maskelyne go.
+
+679
+00:46:48,160 --> 00:46:50,110
+Can we all agree on that?
+
+680
+00:46:51,080 --> 00:46:53,030
+Then the matter is settled.
+
+681
+00:46:53,120 --> 00:46:56,550
+I think there may be one or two other points to clarify.
+
+682
+00:47:05,760 --> 00:47:10,670
+We would like to see six equal-altitude observations per day for three consecutive days.
+
+683
+00:47:10,760 --> 00:47:11,310
+Impossible. 
+
+684
+00:47:11,310 --> 00:47:13,800
+You cannot get six observation a day at Greenwich, 
+
+685
+00:47:13,800 --> 00:47:14,990
+let alone the West Indies.
+
+686
+00:47:15,080 --> 00:47:17,430
+-Captain Campbell?
+-He's right, my lord.
+
+687
+00:47:17,520 --> 00:47:20,670
+Let it read, "as many as are practical". 
+
+688
+00:47:20,670 --> 00:47:22,690
+Very well, for as many as are practical.
+
+689
+00:47:28,040 --> 00:47:29,990
+Keep him level.
+
+690
+00:47:30,560 --> 00:47:34,910
+The watch must be submitted to me at the observatory for testing
+
+691
+00:47:35,000 --> 00:47:38,310
+to determine its rate before the second trial.
+
+692
+00:47:39,360 --> 00:47:42,230
+I'm not letting the watch out of my sight.
+
+693
+00:47:42,320 --> 00:47:44,880
+We need to determine the rate.
+
+694
+00:47:44,960 --> 00:47:47,790
+Captain Campbell, enlighten us.
+
+695
+00:47:47,880 --> 00:47:53,350
+My lord, I think the rate should be determined by whoever is closest to the instrument,
+
+696
+00:47:53,440 --> 00:47:55,950
+which must be Harrison.
+
+697
+00:47:56,040 --> 00:48:01,270
+If it is disclosed before the voyage starts, there is no possibility of dissimilation.
+
+698
+00:48:06,040 --> 00:48:07,760
+We believe the Reverend Maskelyne 
+
+699
+00:48:07,760 --> 00:48:10,070
+should travel on a different ship than the Harrisons'
+
+700
+00:48:10,160 --> 00:48:15,580
+so that he may have more time to set up his instruments for the observation of Jupiter's moons.
+
+701
+00:48:15,680 --> 00:48:17,630
+Agreed.
+
+702
+00:48:19,960 --> 00:48:20,910
+Agreed.
+
+703
+00:48:26,560 --> 00:48:30,390
+The Reverend Maskelyne will be in Barbados one month before you,
+
+704
+00:48:30,480 --> 00:48:33,040
+and will have everything prepared for your arrival.
+
+705
+00:48:33,120 --> 00:48:37,870
+It remains for us to wish you every success aboard His Majesty's ship Tartar.
+
+706
+00:48:37,960 --> 00:48:39,910
+Hear! Hear!
+
+707
+00:49:02,840 --> 00:49:04,790
+Mr Harrison.
+
+708
+00:49:04,880 --> 00:49:06,830
+Here's to a successful voyage.
+
+709
+00:49:30,880 --> 00:49:33,710
+-Well?
+-I'd like to take another observation.
+
+710
+00:49:33,800 --> 00:49:35,750
+-Just to be sure.
+- Indeed.
+
+711
+00:49:37,240 --> 00:49:39,190
+-Captain Lindsay.
+-Certainly.
+
+712
+00:49:43,240 --> 00:49:46,940
+Mr Irwin, you're just in time to witness our observation.
+
+713
+00:49:47,040 --> 00:49:48,550
+We were expecting you to meet us.  
+
+714
+00:49:48,550 --> 00:49:50,580
+No-one told us that you had arrived.
+
+715
+00:49:50,680 --> 00:49:55,350
+The transmission of information is not a strong point among the inhabitants of this island.
+
+716
+00:49:55,440 --> 00:49:56,630
+How was the voyage? 
+
+717
+00:49:56,630 --> 00:49:58,670
+Very satisfying. Where is Maskelyne?
+
+718
+00:49:58,760 --> 00:50:00,710
+The man's an idiot.
+
+719
+00:50:00,800 --> 00:50:03,750
+-Could you hold this a moment?
+-Er... yes, of course.
+
+720
+00:50:04,280 --> 00:50:06,230
+He has no understanding of my chair.
+
+721
+00:50:06,320 --> 00:50:08,910
+Simply because a hinge broke on the second day out,
+
+722
+00:50:09,000 --> 00:50:13,070
+causing him some very minor inconvenience, he's refused to use it.
+
+723
+00:50:13,160 --> 00:50:15,870
+What sort of a scientist does that make him?
+
+724
+00:50:15,960 --> 00:50:17,910
+23 degrees of elevation.
+
+725
+00:50:19,400 --> 00:50:22,590
+And the watch at... 3.57.
+
+726
+00:50:23,840 --> 00:50:28,910
+That gives us a longitude of 59 degrees, 0 minutes and 30 seconds.
+
+727
+00:50:30,040 --> 00:50:33,710
+Captain Lindsay, would you be kind enough to give me your signature, sir?
+
+728
+00:50:35,080 --> 00:50:37,230
+-Is that it?
+-What do you mean?
+
+729
+00:50:37,320 --> 00:50:39,990
+-Is that all you do?
+-Sorry to disappoint you, Mr Irwin.
+
+730
+00:50:40,080 --> 00:50:42,030
+What did you expect?
+
+731
+00:50:42,120 --> 00:50:45,110
+-Mr Greene, would you care to witness?
+- Of course, Mr Harrison.
+
+732
+00:50:45,200 --> 00:50:49,150
+Well, the Reverend Maskelyne spends half the day calculating his sums,
+
+733
+00:50:49,240 --> 00:50:51,700
+and with a good deal of bad temper besides.
+
+734
+00:50:51,800 --> 00:50:57,070
+I have, once or twice, offered to help, being something of a mathematician myself,
+
+735
+00:50:57,160 --> 00:50:59,510
+and have been most rudely addressed by him.
+
+736
+00:50:59,600 --> 00:51:01,550
+That's lunatics for you.
+
+737
+00:51:04,400 --> 00:51:06,110
+You'll find him very confident.
+
+738
+00:51:06,200 --> 00:51:08,760
+-Of what?
+-That the longitude solution is found.
+
+739
+00:51:08,840 --> 00:51:12,870
+He was very annoyed that it was not recognised after the voyage to St Helena,
+
+740
+00:51:12,960 --> 00:51:14,910
+but he's convinced it is his now.
+
+741
+00:51:15,680 --> 00:51:18,240
+He's told half the island, as a result of which,
+
+742
+00:51:18,320 --> 00:51:22,870
+he's followed everywhere by the three unwed ladies of the town and their mothers,
+
+743
+00:51:22,960 --> 00:51:24,910
+who are convinced he is to be rich.
+
+744
+00:51:25,000 --> 00:51:26,950
+He doesn't seem to notice, though.
+
+745
+00:51:27,040 --> 00:51:30,030
+I don't think he's very... interested.
+
+746
+00:51:40,840 --> 00:51:42,820
+Oh, it is a hard life, I admit, 
+
+747
+00:51:42,820 --> 00:51:44,110
+but I find myself enjoying it.
+
+748
+00:51:44,200 --> 00:51:47,430
+No, there's no more training required whatsoever.
+
+749
+00:51:47,520 --> 00:51:50,340
+I mean, anyone who's sat down before can use it. 
+
+750
+00:51:50,340 --> 00:51:51,470
+Well, almost everyone.
+
+751
+00:51:52,880 --> 00:51:54,830
+Thank you.
+
+752
+00:51:54,920 --> 00:51:57,670
+I'd expected to see the Reverend Maskelyne here.
+
+753
+00:51:57,760 --> 00:52:00,140
+He sends his apologies. Thank you.
+
+754
+00:52:01,560 --> 00:52:05,510
+He's at his observatory. It's out there in the hills, outside the town.
+
+755
+00:52:05,600 --> 00:52:08,550
+He's expecting to see you tomorrow morning.
+
+756
+00:52:08,640 --> 00:52:14,270
+-You must be proud to be part of his expedition.
+-I beg your pardon?
+
+757
+00:52:14,360 --> 00:52:19,110
+Madam, Mr Harrison intends to challenge the reverend gentleman, not to support him.
+
+758
+00:52:20,360 --> 00:52:22,920
+He is his competitor.
+
+759
+00:52:24,480 --> 00:52:26,630
+Oh, dear. How silly of me.
+
+760
+00:52:46,200 --> 00:52:48,600
+Congratulation on the safe trip
+
+761
+00:52:49,280 --> 00:52:51,230
+Welcome to this island paradise.
+
+762
+00:52:52,120 --> 00:52:54,070
+Good morning.
+
+763
+00:52:54,840 --> 00:52:56,790
+I was sorry to miss you at dinner last night.
+
+764
+00:52:56,880 --> 00:53:01,550
+Those things become predictable after a while. It was such a perfect night.
+
+765
+00:53:01,640 --> 00:53:04,590
+-I understand you are to be congratulated.
+-Really?
+
+766
+00:53:04,680 --> 00:53:08,150
+Everyone at dinner informed me you'd won the longitude prize.
+
+767
+00:53:09,800 --> 00:53:12,100
+You should not take talk like that seriously.
+
+768
+00:53:12,200 --> 00:53:16,670
+I wouldn't, were it not for the fact that the talk apparently came from you, Reverend.
+
+769
+00:53:16,760 --> 00:53:20,460
+Under the circumstance, I think it would be improper that you take the equal altitude observations
+
+770
+00:53:20,560 --> 00:53:23,020
+that will determine the accuracy of my watch.
+
+771
+00:53:23,120 --> 00:53:25,010
+I would prefer them to be taken by Mr Greene 
+
+772
+00:53:25,010 --> 00:53:26,790
+and witnessed by Captain Lindsay.
+
+773
+00:53:27,000 --> 00:53:28,950
+How dare you say that to me, sir?
+
+774
+00:53:29,040 --> 00:53:30,900
+I am a scientist.
+
+775
+00:53:30,900 --> 00:53:33,190
+Oh, dear boy, I don't think he meant... 
+
+776
+00:53:33,190 --> 00:53:34,290
+Shut up, you stupid man!
+
+777
+00:53:35,980 --> 00:53:39,130
+Gentlemen, could I suggest a compromise?
+
+778
+00:53:54,540 --> 00:53:56,770
+Damn and blast this bloody contraption!
+
+779
+00:53:56,860 --> 00:53:59,890
+It's impossible to take a measurement under these circumstances.
+
+780
+00:54:01,300 --> 00:54:05,000
+28 degrees and 15 minutes.
+
+781
+00:54:05,780 --> 00:54:08,410
+28 degrees and 15 minutes.
+
+782
+00:54:08,500 --> 00:54:12,650
+-28 degrees, 15 minutes.
+- Would you be quiet?
+
+783
+00:54:12,740 --> 00:54:15,970
+I'm so sorry to have disturbed you. We are quite finished.
+
+784
+00:54:17,300 --> 00:54:20,490
+Look, old man, why don't you make another observation tomorrow?
+
+785
+00:54:21,820 --> 00:54:23,970
+I'm sure the conditions will be better.
+
+786
+00:54:27,100 --> 00:54:29,050
+Get out of my way!
+
+787
+00:54:42,900 --> 00:54:44,850
+William...
+
+788
+00:54:46,420 --> 00:54:48,370
+I thought we'd lost you.
+
+789
+00:54:49,020 --> 00:54:50,970
+I think perhaps you have.
+
+790
+00:54:52,380 --> 00:54:58,100
+You know, today is the first day I can remember when I haven't looked at a clock or a watch,
+
+791
+00:54:59,340 --> 00:55:01,290
+or even done a calculation.
+
+792
+00:55:04,580 --> 00:55:10,210
+I didn't know what to do at first. I had just started to walk.
+
+793
+00:55:11,300 --> 00:55:13,930
+-What is it?
+-Bad news, I'm afraid.
+
+794
+00:55:15,180 --> 00:55:17,130
+I've found you a ship.
+
+795
+00:55:17,220 --> 00:55:20,890
+She's a merchantman. Captain's name is Robert Manly.
+
+796
+00:55:20,980 --> 00:55:22,930
+He seems a good fellow,
+
+797
+00:55:23,020 --> 00:55:26,350
+and er... she sails at noon tomorrow.
+
+798
+00:56:03,300 --> 00:56:05,250
+What will you do?
+
+799
+00:56:05,340 --> 00:56:07,970
+Sell the house, I suppose. No choice about that.
+
+800
+00:56:09,020 --> 00:56:12,050
+-I can't afford to keep it.
+-Well, where will you live?
+
+801
+00:56:12,140 --> 00:56:15,650
+Oh, I'll find somewhere, a small hotel.
+
+802
+00:56:16,820 --> 00:56:20,650
+What about the clocks? I don't suppose a hotel would put up with them.
+
+803
+00:56:20,740 --> 00:56:23,410
+There's only one left, you'll be pleased to hear.
+
+804
+00:56:23,500 --> 00:56:25,450
+It's proving to be a bit tricky.
+
+805
+00:56:25,540 --> 00:56:28,810
+I'm sending it back to Greenwich. I'll finish working on it there.
+
+806
+00:56:28,900 --> 00:56:31,410
+Oh, yes. Cecil said you'd applied for a job as a curator.
+
+807
+00:56:31,500 --> 00:56:34,770
+No, no, I er... I changed my mind about that.
+
+808
+00:56:39,060 --> 00:56:41,010
+Well, goodbye, then.
+
+809
+00:56:41,100 --> 00:56:43,050
+Goodbye.
+
+810
+00:56:45,140 --> 00:56:47,050
+Laura says there's going to be war.
+
+811
+00:56:47,140 --> 00:56:49,090
+-What do you think?
+-I don't think so.
+
+812
+00:56:49,400 --> 00:56:51,350
+It's all phooey.
+
+813
+00:56:56,720 --> 00:56:59,470
+Thank you so much for coming.
+
+814
+00:57:10,120 --> 00:57:12,070
+-How is he?
+-Very weak.
+
+815
+00:57:12,920 --> 00:57:16,790
+He's angry he could not be there to greet you. He received your letters.
+
+816
+00:57:16,880 --> 00:57:18,830
+How long has he been like this?
+
+817
+00:57:18,920 --> 00:57:20,870
+Since you left.
+
+818
+00:57:22,440 --> 00:57:24,820
+Try not to get him excited.
+
+819
+00:57:26,160 --> 00:57:28,160
+The fever is strong. I have bled him, 
+
+820
+00:57:28,160 --> 00:57:29,750
+but he's very weak, and I dare do no more.
+
+821
+00:57:29,840 --> 00:57:31,990
+-I'll come back tomorrow.
+-Thank you.
+
+822
+00:57:41,960 --> 00:57:44,910
+When I was just a baby,
+
+823
+00:57:45,720 --> 00:57:49,390
+I remember lying in bed very sick,
+
+824
+00:57:50,800 --> 00:57:56,190
+and my mother holding a watch in front of my face while she sang to me.
+
+825
+00:57:59,240 --> 00:58:01,190
+I don't remember the song,
+
+826
+00:58:01,280 --> 00:58:06,470
+but the ticking of the watch seemed like an orchestra playing with her,
+
+827
+00:58:08,040 --> 00:58:11,580
+and then she... she laid the watch on my pillow.
+
+828
+00:58:13,200 --> 00:58:17,390
+Afterwards, she used to say it sent me to sleep.
+
+829
+00:58:18,640 --> 00:58:20,590
+But it didn't.
+
+830
+00:58:20,680 --> 00:58:24,070
+People say the tick of a clock
+
+831
+00:58:24,160 --> 00:58:26,110
+is like a single sound,
+
+832
+00:58:27,440 --> 00:58:29,390
+but it's hundreds.
+
+833
+00:58:30,560 --> 00:58:35,990
+It's hundreds of tiny frictions, expansions and contractions,
+
+834
+00:58:36,080 --> 00:58:39,390
+all twisted into a single moment.
+
+835
+00:58:44,320 --> 00:58:47,670
+I'm very sorry I wasn't there to meet you.
+
+836
+00:58:49,040 --> 00:58:51,470
+Don't mind about that. We did it.
+
+837
+00:58:53,000 --> 00:58:54,780
+Mr Greene was there and witnessed everything.
+
+838
+00:58:54,780 --> 00:58:56,990
+Even Maskelyne can't deny it.
+
+839
+00:58:57,080 --> 00:59:00,070
+This time they can't refuse us.
+
+840
+00:59:03,200 --> 00:59:06,820
+I'd like to see their faces when you tell them.
+
+841
+00:59:13,640 --> 00:59:16,070
+He looks pleased with himself.
+
+842
+00:59:19,800 --> 00:59:21,750
+Still, there is one piece of news.
+
+843
+00:59:21,840 --> 00:59:26,670
+The Very Reverend John Bliss fell off his horse whilst taking exercise in the park.
+
+844
+00:59:30,160 --> 00:59:32,110
+He did not recover.
+
+845
+00:59:33,320 --> 00:59:35,270
+It's devastating, isn't it?
+
+846
+00:59:43,600 --> 00:59:45,550
+Who is to be Astronomer Royal?
+
+847
+00:59:45,640 --> 00:59:47,590
+Not decided yet.
+
+848
+00:59:47,680 --> 00:59:49,630
+Mr William Harrison.
+
+849
+00:59:57,120 --> 00:59:58,700
+Mr Harrison, 
+
+850
+00:59:58,700 --> 01:00:03,200
+you may have heard of the sad death of the Astronomer Royal in your absence.
+
+851
+01:00:03,920 --> 01:00:07,590
+I'd like to take this opportunity to present the new Astronomer Royal.
+
+852
+01:00:07,680 --> 01:00:09,310
+Good morning, William.
+
+853
+01:00:09,400 --> 01:00:11,350
+The Reverend Nevile Maskelyne,
+
+854
+01:00:11,440 --> 01:00:14,870
+recently returned from a successful trip to the West Indies.
+
+855
+01:00:17,320 --> 01:00:20,590
+The members of the Board will be familiar, I think, with his report
+
+856
+01:00:20,680 --> 01:00:23,200
+and the astonishing success he had on his journey,
+
+857
+01:00:23,200 --> 01:00:26,550
+and the triumphant use of Professor Mayer's tables.
+
+858
+01:00:26,640 --> 01:00:31,910
+My lord, I'm sure I also must congratulate the Reverend Maskelyne, but as we all know,
+
+859
+01:00:32,000 --> 01:00:35,190
+the calculation with the watch may be completed in a matter of minutes,
+
+860
+01:00:35,280 --> 01:00:37,230
+and does not depend upon the weather.
+
+861
+01:00:37,320 --> 01:00:38,750
+Be quiet, Mr Harrison.
+
+862
+01:00:38,840 --> 01:00:42,310
+We are coming now to the matter of the watch and the opinion of the computers.
+
+863
+01:00:42,400 --> 01:00:43,700
+Captain Campbell. 
+
+864
+01:00:43,700 --> 01:00:45,260
+You attest this is your report 
+
+865
+01:00:45,260 --> 01:00:47,550
+and that you and your colleagues agree on it?
+
+866
+01:00:47,640 --> 01:00:50,390
+-We do.
+-Very well.
+
+867
+01:00:50,480 --> 01:00:52,430
+Mr Harrison, please step forward.
+
+868
+01:00:55,080 --> 01:00:58,310
+It is the finding of this board that the watch or timepiece
+
+869
+01:00:58,400 --> 01:01:02,230
+created by John and William Harrison did keep correct time
+
+870
+01:01:02,320 --> 01:01:06,830
+within the greatest accuracy required by the Act of Queen Anne
+
+871
+01:01:06,920 --> 01:01:09,830
+as drawn up by parliament 51 years ago.
+
+872
+01:01:17,000 --> 01:01:19,630
+My lord, may I have a copy of those to show my father?
+
+873
+01:01:19,720 --> 01:01:22,550
+He has waited a long time to hear Your Lordship's kind words.
+
+874
+01:01:22,640 --> 01:01:24,590
+In good time, Mr Harrison.
+
+875
+01:01:24,680 --> 01:01:29,700
+Astronomer Royal, would you be kind enough to read the fifth paragraph of the Act?
+
+876
+01:01:31,480 --> 01:01:34,510
+"And be it further enacted by the authority aforesaid
+
+877
+01:01:34,600 --> 01:01:37,930
+that as soon as such method for the discovery of the said longitude shall have been tried, 
+
+878
+01:01:37,930 --> 01:01:41,270
+and found practicable and useful at sea... "
+
+879
+01:01:41,360 --> 01:01:44,270
+Thank you. "Practicable and useful. "
+
+880
+01:01:44,360 --> 01:01:47,230
+Those are the words I wish to draw to your attention.
+
+881
+01:01:48,080 --> 01:01:52,000
+We accept the usefulness of the watch, but is it practicable?
+
+882
+01:01:53,600 --> 01:01:58,990
+Mr Harrison has never permitted this committee to examine the workings of his timepiece.
+
+883
+01:01:59,080 --> 01:02:03,150
+I suggest to you that is because he himself has doubt
+
+884
+01:02:03,240 --> 01:02:06,230
+about the practical use of his invention.
+
+885
+01:02:06,320 --> 01:02:11,390
+My lords, you must understand that my father has sought to protect his work
+
+886
+01:02:11,480 --> 01:02:13,750
+from those who might steal his invention,
+
+887
+01:02:13,840 --> 01:02:16,050
+but if this Board requires it, 
+
+888
+01:02:16,050 --> 01:02:18,700
+we shall submit detailed drawings of the workings of the watch
+
+889
+01:02:18,800 --> 01:02:20,750
+when he has received his prize.
+
+890
+01:02:20,840 --> 01:02:22,100
+Mr Harrison, 
+
+891
+01:02:22,100 --> 01:02:25,590
+this Board does not accept restrictions placed upon its work,
+
+892
+01:02:25,680 --> 01:02:28,200
+as prescribed by parliament.
+
+893
+01:02:28,960 --> 01:02:33,230
+Here are the conditions required for fulfilment of the terms of the Act.
+
+894
+01:02:35,040 --> 01:02:38,580
+First, your father must, in person, take the watch apart,
+
+895
+01:02:39,640 --> 01:02:42,070
+and explain the working of every detail
+
+896
+01:02:42,160 --> 01:02:45,430
+to the satisfaction of such persons as this Board shall appoint.
+
+897
+01:02:45,520 --> 01:02:49,140
+This shall include any experimental observations they may require.
+
+898
+01:02:49,240 --> 01:02:53,830
+Secondly, he shall make, or cause to be made under his sole direction,
+
+899
+01:02:53,920 --> 01:02:57,070
+two further watches of the same design
+
+900
+01:02:57,920 --> 01:03:01,150
+to demonstrate the practicality of their construction.
+
+901
+01:03:02,320 --> 01:03:08,990
+And, thirdly, these new watches shall be subjected to such test or tests as this Board shall require
+
+902
+01:03:10,200 --> 01:03:13,790
+to ascertain their usefulness under the terms of the Act.
+
+903
+01:03:14,280 --> 01:03:18,550
+Then, and only then, will he receive his prize.
+
+904
+01:03:21,720 --> 01:03:24,670
+My lord, my father is sick and he is 73 years old.
+
+905
+01:03:24,760 --> 01:03:27,190
+He has until Thursday to accept the conditions,
+
+906
+01:03:27,280 --> 01:03:30,270
+which, I must inform you, have been submitted to Parliament,
+
+907
+01:03:30,360 --> 01:03:33,390
+and will form part of a new amendment to this bill.
+
+908
+01:03:34,800 --> 01:03:37,510
+Call Mr Christopher Irwin, please.
+
+909
+01:04:00,960 --> 01:04:04,110
+-Are you all right, old man?
+-Yes, thank you.
+
+910
+01:04:04,200 --> 01:04:07,870
+-What's Maskelyne doing here?
+-He's the new Astronomer Royal.
+
+911
+01:04:09,320 --> 01:04:11,270
+Oh, turd.
+
+912
+01:04:39,880 --> 01:04:42,030
+-Is this everything, sir?
+-Er... yes.
+
+913
+01:04:43,120 --> 01:04:45,070
+Thank you.
+
+914
+01:05:19,640 --> 01:05:21,590
+My lords, if I may beg your indulgence.
+
+915
+01:05:24,080 --> 01:05:27,150
+I'm not yet used to speaking. Let my son speak for me.
+
+916
+01:05:27,240 --> 01:05:30,390
+-Perhaps your father would like a chair.
+-No, thank you.
+
+917
+01:05:30,480 --> 01:05:32,830
+-No, thank you.
+-Let us proceed to the business.
+
+918
+01:05:32,920 --> 01:05:34,870
+Do you accept the terms of the Board?
+
+919
+01:05:36,280 --> 01:05:40,150
+My father accepts the need for disclosure of the working of his watch,
+
+920
+01:05:40,240 --> 01:05:45,360
+but wishes that he might demonstrate the mechanism to such as may understand it,
+
+921
+01:05:45,440 --> 01:05:47,350
+not to theorists.
+
+922
+01:05:47,440 --> 01:05:49,390
+That is for us to decide.
+
+923
+01:05:49,480 --> 01:05:50,750
+They can choose who they like. 
+
+924
+01:05:50,750 --> 01:05:52,790
+I'll choose who I let in my own house.
+
+925
+01:05:52,880 --> 01:05:54,990
+I beg pardon, Mr Harrison?
+
+926
+01:05:55,080 --> 01:05:58,230
+My father is pleased to accept the Board's nominations.
+
+927
+01:05:59,240 --> 01:06:01,190
+There is one question.
+
+928
+01:06:01,280 --> 01:06:04,950
+Your Lordship requires that we be prepared to do experimental observations.
+
+929
+01:06:05,040 --> 01:06:07,110
+My father is not clear what that means.
+
+930
+01:06:07,960 --> 01:06:09,910
+Well, it... it...
+
+931
+01:06:12,920 --> 01:06:14,870
+Reverend Maskelyne?
+
+932
+01:06:15,080 --> 01:06:17,030
+Um... there's nothing sinister about it,
+
+933
+01:06:17,120 --> 01:06:20,150
+merely that if there is a detail not understood by the committee,
+
+934
+01:06:20,240 --> 01:06:23,550
+such as how Mr Harrison is accustomed to... um...
+
+935
+01:06:23,640 --> 01:06:25,590
+What's the word?
+
+936
+01:06:25,680 --> 01:06:30,310
+.. temper a spring, for example, he should demonstrate his technique to us.
+
+937
+01:06:30,400 --> 01:06:34,020
+What does he understand about the tempering of a bloody spring?
+
+938
+01:06:34,120 --> 01:06:37,990
+Would it be possible to set out more explicitly what the Board requires
+
+939
+01:06:38,080 --> 01:06:40,150
+so that we might be prepared for it?
+
+940
+01:06:40,240 --> 01:06:42,430
+No, sir! It would not!
+
+941
+01:06:43,640 --> 01:06:48,110
+It is not your business, sir, to limit the enquiry of this Board
+
+942
+01:06:48,200 --> 01:06:50,150
+but to satisfy it.
+
+943
+01:06:50,240 --> 01:06:54,630
+It is not my business, sir, to explain the workings of a lifetime
+
+944
+01:06:54,720 --> 01:06:58,190
+to a group of dog-collared university book swallowers
+
+945
+01:06:58,280 --> 01:07:03,400
+who wouldn't know the difference between a balance spring and a bent hat pin!
+
+946
+01:07:04,800 --> 01:07:07,630
+For 30 years I've stood before this Board
+
+947
+01:07:07,720 --> 01:07:10,910
+I've never once had the occasion to talk to anyone
+
+948
+01:07:11,000 --> 01:07:13,830
+who knew anything about what I was actually doing,
+
+949
+01:07:13,920 --> 01:07:16,830
+any sense of the mechanisms I created,
+
+950
+01:07:18,200 --> 01:07:22,420
+but I carried on, trusting that if I fulfilled the Act of Queen Anne, 
+
+951
+01:07:22,420 --> 01:07:24,190
+I'd get my just rewards.
+
+952
+01:07:24,280 --> 01:07:27,310
+I have fulfilled that Act.
+
+953
+01:07:28,480 --> 01:07:31,190
+I have made such a mechanism.
+
+954
+01:07:31,280 --> 01:07:35,270
+Give me my prize and I'll use the money to build a factory,
+
+955
+01:07:35,360 --> 01:07:37,730
+make a hundred watches, a thousand, each one the same, 
+
+956
+01:07:37,730 --> 01:07:39,030
+but I will not...
+
+957
+01:07:39,120 --> 01:07:42,310
+as long as I've got a drop of English blood in my body,
+
+958
+01:07:42,400 --> 01:07:46,670
+I'll not dance to the tune of a group of ignorant schoolboys.
+
+959
+01:07:51,840 --> 01:07:53,790
+Mr Harrison...
+
+960
+01:07:56,400 --> 01:07:58,350
+Mr Harrison!
+
+961
+01:08:05,040 --> 01:08:06,070
+Father...
+
+962
+01:08:06,160 --> 01:08:09,830
+Don't give me any more of your fine words and clever explanations.
+
+963
+01:08:09,830 --> 01:08:12,100
+William, you know about what I've put up with
+
+964
+01:08:12,120 --> 01:08:14,830
+What do you understand about what I've done?
+
+965
+01:08:14,920 --> 01:08:18,910
+Could you build a watch, sir? No, you damn well couldn't.
+
+966
+01:08:19,000 --> 01:08:20,950
+Get away from me! Get away from me!
+
+967
+01:08:28,440 --> 01:08:30,390
+William...
+
+968
+01:08:31,560 --> 01:08:33,510
+William...
+
+969
+01:08:34,560 --> 01:08:36,790
+If you wouldn't mind...?
+
+970
+01:08:50,040 --> 01:08:54,510
+Mr Harrison, either your father signs an oath agreeing to these terms,
+
+971
+01:08:54,600 --> 01:08:56,630
+or this matter ends here.
+
+972
+01:08:56,720 --> 01:08:59,050
+We are prepared to pay half the award, 
+
+973
+01:08:59,050 --> 01:09:02,790
+less those monies paid out, once we are satisfied with the disclosure,
+
+974
+01:09:02,880 --> 01:09:03,870
+and the other half 
+
+975
+01:09:03,870 --> 01:09:07,510
+when the new watches made by your father have proved their worth.
+
+976
+01:09:09,120 --> 01:09:12,600
+My lord, if you would just change the wording of experimental observations, 
+
+977
+01:09:12,600 --> 01:09:13,710
+he would sign.
+
+978
+01:09:13,800 --> 01:09:17,910
+No! No! No! No! No!
+
+979
+01:09:19,120 --> 01:09:24,470
+How many times do I have to say it to you bloody people?
+
+980
+01:09:24,560 --> 01:09:29,390
+You do not negotiate with this Board!
+
+981
+01:10:04,880 --> 01:10:06,830
+I'm 40 years old,
+
+982
+01:10:08,680 --> 01:10:11,350
+and what family I have is here in this room.
+
+983
+01:10:15,200 --> 01:10:19,950
+These machines are my brothers and sisters.
+
+984
+01:10:20,720 --> 01:10:23,180
+Certainly, I know them better than any human.
+
+985
+01:10:24,320 --> 01:10:26,270
+So do you.
+
+986
+01:10:30,160 --> 01:10:32,110
+Ever since I were a child,
+
+987
+01:10:33,120 --> 01:10:37,910
+I've watched how carefully you touched them.
+
+988
+01:10:39,800 --> 01:10:42,630
+Never angry, always loving.
+
+989
+01:10:45,080 --> 01:10:49,510
+Nothing I could ever do could make your eyes light up
+
+990
+01:10:50,480 --> 01:10:54,020
+in the way an infinitesimal sliver of time
+
+991
+01:10:54,960 --> 01:10:57,110
+could sometimes make you weep with joy.
+
+992
+01:11:00,840 --> 01:11:03,400
+So I tried to slide myself between them and you,
+
+993
+01:11:03,480 --> 01:11:08,600
+hoping that some tiny drop of that feeling might fall on me.
+
+994
+01:11:11,320 --> 01:11:14,630
+As I grew older, I thought...
+
+995
+01:11:15,520 --> 01:11:19,270
+If I can understand them, perhaps you would begin to understand me,
+
+996
+01:11:21,040 --> 01:11:23,310
+until they became my life too.
+
+997
+01:11:26,560 --> 01:11:28,510
+And so, I find myself now,
+
+998
+01:11:30,760 --> 01:11:35,350
+knowing the touch of a brass wheel better than flesh and blood.
+
+999
+01:11:40,960 --> 01:11:43,260
+I will do as they wish.
+
+1000
+01:11:48,760 --> 01:11:50,710
+I wanted you to be safe.
+
+1001
+01:11:56,840 --> 01:11:59,470
+I thought I could make us impregnable.
+
+1002
+01:12:26,080 --> 01:12:27,830
+What's going on?
+
+1003
+01:12:27,920 --> 01:12:31,270
+We've been ordered to move all valuable exhibits out to Cambridge.
+
+1004
+01:12:31,360 --> 01:12:34,790
+Why on earth would Hitler bomb a museum in the middle of a park?
+
+1005
+01:12:34,880 --> 01:12:36,950
+-It's just orders.
+-Oh, just orders.
+
+1006
+01:12:37,040 --> 01:12:38,990
+I've heard that...
+
+1007
+01:12:46,880 --> 01:12:49,440
+Do you mind if I do that? There's a special case for it.
+
+1008
+01:12:49,520 --> 01:12:52,550
+I made it myself some time ago, but I'm sure I can still find it.
+
+1009
+01:12:52,640 --> 01:12:56,110
+Help yourself. It's a funny-looking thing, isn't it? 
+
+1010
+01:12:56,110 --> 01:12:57,470
+Yes, it is a funny-looking thing.
+
+1011
+01:12:58,320 --> 01:13:00,270
+Do you think I could have a chair?
+
+1012
+01:13:04,640 --> 01:13:06,590
+-Thank you.
+-Look, er...
+
+1013
+01:13:09,880 --> 01:13:11,830
+Are you all right?
+
+1014
+01:13:13,480 --> 01:13:15,430
+No, I don't think I am.
+
+1015
+01:13:18,400 --> 01:13:19,950
+How old are you?
+
+1016
+01:13:20,040 --> 01:13:23,350
+18, although I don't know what that's got to do with it.
+
+1017
+01:13:25,040 --> 01:13:27,990
+Nothing. Nothing at all. Don't take any notice of me.
+
+1018
+01:13:29,680 --> 01:13:31,430
+It's just...
+
+1019
+01:13:32,320 --> 01:13:34,270
+Do you have any idea what it's like?
+
+1020
+01:13:34,360 --> 01:13:37,670
+War? Is that what you're worried about?
+
+1021
+01:13:38,520 --> 01:13:40,470
+It'll all be over before it begins.
+
+1022
+01:13:40,560 --> 01:13:44,100
+Germany don't want a war. It's just their way of waking us all up.
+
+1023
+01:13:45,400 --> 01:13:47,960
+Look, can I get you something?
+
+1024
+01:13:48,040 --> 01:13:49,990
+-A cup of tea?
+-Yes.
+
+1025
+01:13:51,600 --> 01:13:53,550
+A cup of tea. That'll do the trick.
+
+1026
+01:14:21,760 --> 01:14:23,550
+I suggest they go to different destinations, 
+
+1027
+01:14:23,550 --> 01:14:26,110
+then, if one is destroyed, the others will survive.
+
+1028
+01:14:26,200 --> 01:14:28,230
+-Is that possible?
+-I'll do my best.
+
+1029
+01:14:28,320 --> 01:14:31,910
+At the moment, it's all I can do to get everything over to Cambridge.
+
+1030
+01:14:32,000 --> 01:14:33,800
+Oh, we are sending some of the smaller items to 
+
+1031
+01:14:33,800 --> 01:14:36,230
+a science museum vault in Beckenham.
+
+1032
+01:14:36,320 --> 01:14:37,440
+I could try and get one in there.
+
+1033
+01:14:37,440 --> 01:14:39,270
+Yes, Beckenham would be good.
+
+1034
+01:14:39,360 --> 01:14:42,110
+Well, leave it with me and I'll sort something out.
+
+1035
+01:14:42,200 --> 01:14:44,150
+Where are you going with that?
+
+1036
+01:14:56,880 --> 01:14:58,830
+Whoa! Watch where you're going!
+
+1037
+01:15:46,920 --> 01:15:48,870
+Muriel?
+
+1038
+01:15:48,960 --> 01:15:50,910
+Muriel!
+
+1039
+01:15:53,920 --> 01:15:55,870
+-Is that you?
+-Rupert?
+
+1040
+01:15:59,040 --> 01:16:00,990
+I've just had...
+
+1041
+01:16:03,600 --> 01:16:05,750
+Rupert? Rupert, is that you?
+
+1042
+01:17:25,800 --> 01:17:27,750
+-Where's he gone?
+-Down there.
+
+1043
+01:18:22,040 --> 01:18:23,630
+They're all satisfied.
+
+1044
+01:18:23,720 --> 01:18:26,670
+Now, if we just put the watch together and take it to the committee,
+
+1045
+01:18:26,760 --> 01:18:28,750
+they'll give us half the prize.
+
+1046
+01:18:28,840 --> 01:18:30,790
+What watch?
+
+1047
+01:18:30,880 --> 01:18:32,830
+There is no watch.
+
+1048
+01:18:34,320 --> 01:18:36,270
+Look at it.
+
+1049
+01:18:55,360 --> 01:18:59,110
+You know, the strange thing is I want to build another one.
+
+1050
+01:18:59,920 --> 01:19:04,270
+Taking it apart and putting it together again, I can see improvements.
+
+1051
+01:19:04,360 --> 01:19:07,670
+You have to make a duplicate. Those were the terms.
+
+1052
+01:19:07,760 --> 01:19:09,710
+Terms?
+
+1053
+01:19:09,800 --> 01:19:13,750
+What do they know? There wasn't one of them who understood what I was saying.
+
+1054
+01:19:13,840 --> 01:19:16,300
+Even the watchmakers didn't see everything.
+
+1055
+01:19:16,400 --> 01:19:18,350
+They think in straight lines,
+
+1056
+01:19:18,440 --> 01:19:20,950
+not prepared for the curve,
+
+1057
+01:19:21,040 --> 01:19:24,390
+the line of surprise that takes you to a place you cannot see.
+
+1058
+01:19:30,440 --> 01:19:31,330
+And how are we to know that 
+
+1059
+01:19:31,330 --> 01:19:34,470
+this is the same watch that was used at the disclosure?
+
+1060
+01:19:34,560 --> 01:19:37,060
+If I could make a watch in five days, 
+
+1061
+01:19:37,060 --> 01:19:39,070
+then I'd have the prize money by the end of the week.
+
+1062
+01:19:42,000 --> 01:19:47,150
+Very well. I am pleased to offer you the certificate of this Board.
+
+1063
+01:19:47,240 --> 01:19:48,710
+Congratulations.
+
+1064
+01:19:48,800 --> 01:19:50,750
+You've made something useful.
+
+1065
+01:19:51,900 --> 01:19:55,820
+How long will it take you to make two further watches, as required by the Act?
+
+1066
+01:19:55,920 --> 01:19:59,790
+-The new Act.
+-I beg your pardon, sir?
+
+1067
+01:19:59,880 --> 01:20:03,790
+Additional instruments are not required by the Act of Queen Anne.
+
+1068
+01:20:03,880 --> 01:20:06,870
+The Act required that the invention be practical.
+
+1069
+01:20:06,960 --> 01:20:11,080
+We have merely clarified that issue in our recent amendment. 
+
+1070
+01:20:11,080 --> 01:20:12,390
+How long will it take?
+
+1071
+01:20:12,480 --> 01:20:16,590
+Two years, if my watch is returned to me to work on.
+
+1072
+01:20:17,720 --> 01:20:19,670
+I'm afraid that is impossible.
+
+1073
+01:20:19,760 --> 01:20:22,350
+Your watch, as you call it, is, of course, our watch.
+
+1074
+01:20:22,440 --> 01:20:26,110
+And this Board intends, under the direction of the Astronomer Royal,
+
+1075
+01:20:26,200 --> 01:20:29,310
+to conduct a series of tests, at the observatory in Greenwich,
+
+1076
+01:20:29,400 --> 01:20:33,430
+at the conclusion of which, Mr Larkin Kendall will make a copy of the watch
+
+1077
+01:20:33,520 --> 01:20:36,270
+and, I think you will agree, his need is the greater.
+
+1078
+01:20:37,440 --> 01:20:40,110
+It will take a further year if I'm forced to work without it.
+
+1079
+01:20:41,600 --> 01:20:44,670
+So be it, Mr Harrison. So be it.
+
+1080
+01:20:45,880 --> 01:20:48,030
+Thank you.
+
+1081
+01:20:52,720 --> 01:20:54,670
+Mr Harrison...
+
+1082
+01:20:55,880 --> 01:21:00,350
+I have instructed the Astronomer Royal to collect the rest of the timepieces.
+
+1083
+01:21:02,240 --> 01:21:04,190
+Why?
+
+1084
+01:21:04,280 --> 01:21:06,710
+Because they are the property of this Board.
+
+1085
+01:21:24,080 --> 01:21:26,950
+He has brought an open cart with no suspension.
+
+1086
+01:21:27,040 --> 01:21:29,990
+He means to destroy them on the journey to Greenwich.
+
+1087
+01:21:33,600 --> 01:21:37,030
+-Good morning. I have come...
+-I know why you're here.
+
+1088
+01:21:37,120 --> 01:21:39,190
+-Mr Harrison.
+-Reverend Maskelyne.
+
+1089
+01:21:39,280 --> 01:21:41,230
+The machines are ready for collection.
+
+1090
+01:21:41,320 --> 01:21:44,150
+I will need a certificate from you that they're in good order.
+
+1091
+01:21:44,240 --> 01:21:45,900
+I'm not sure I'm a good judge of that, sir. 
+
+1092
+01:21:45,900 --> 01:21:47,510
+For once, I agree with you.
+
+1093
+01:21:47,600 --> 01:21:50,160
+I can state that they appear to be in good order.
+
+1094
+01:21:50,240 --> 01:21:52,500
+I can state as a fact they're in perfect order.  
+
+1095
+01:21:52,500 --> 01:21:53,710
+That will not be necessary.
+
+1096
+01:21:53,710 --> 01:21:55,900
+I will need it to be understood that when they left my property,
+
+1097
+01:21:55,900 --> 01:21:57,200
+that was the case, 
+
+1098
+01:21:57,200 --> 01:22:01,220
+and that you are entirely responsible for their safety from this moment on.
+
+1099
+01:22:01,320 --> 01:22:02,640
+I accept that responsibility. 
+
+1100
+01:22:02,640 --> 01:22:04,790
+What is their normal method of transport?
+
+1101
+01:22:04,880 --> 01:22:07,110
+-Boat.
+-Do not bandy words with me, sir.
+
+1102
+01:22:07,200 --> 01:22:09,630
+I am serious. They should go to Greenwich by barge,
+
+1103
+01:22:09,720 --> 01:22:12,590
+not some old cart like a butcher would carry a bag of bones in.
+
+1104
+01:22:12,680 --> 01:22:14,300
+I merely wish to know whether it is the custom 
+
+1105
+01:22:14,300 --> 01:22:16,630
+to take them to pieces before moving them.
+
+1106
+01:22:16,720 --> 01:22:18,670
+-No.
+-But they must...
+
+1107
+01:22:18,760 --> 01:22:22,710
+Enough, enough! He has the authority of the Board. Let him exercise it.
+
+1108
+01:22:23,880 --> 01:22:25,210
+This is quite childish. 
+
+1109
+01:22:25,210 --> 01:22:27,150
+I know perfectly well how to achieve this.
+
+1110
+01:22:29,680 --> 01:22:34,150
+This is the case. We will need a... a blacksmith to help us take it apart.
+
+1111
+01:22:43,600 --> 01:22:45,550
+One, two, three...
+
+1112
+01:23:27,120 --> 01:23:29,550
+Your father has been cruelly used,
+
+1113
+01:23:29,640 --> 01:23:32,910
+but while I'm out of the admiralty, there is little I can do.
+
+1114
+01:23:34,520 --> 01:23:36,470
+But there must be some other way.
+
+1115
+01:23:37,000 --> 01:23:39,990
+He cannot finish two further watches. It would kill him.
+
+1116
+01:23:41,440 --> 01:23:44,030
+Do you have any skill at cards, Mr Harrison?
+
+1117
+01:23:45,400 --> 01:23:47,350
+-No, my lord.
+-No.
+
+1118
+01:23:47,440 --> 01:23:49,710
+Neither do these ladies, it would appear.
+
+1119
+01:23:49,800 --> 01:23:52,230
+Perhaps they flatter me.
+
+1120
+01:23:54,440 --> 01:23:57,910
+Well, parliament has already been the instrument of much mischief.
+
+1121
+01:23:58,000 --> 01:24:01,620
+There is, therefore, only one court of appeal I could recommend.
+
+1122
+01:24:01,720 --> 01:24:04,150
+-And that is?
+-The Crown.
+
+1123
+01:24:25,440 --> 01:24:28,270
+-Could I have a look at that?
+-A look at what?
+
+1124
+01:24:29,320 --> 01:24:31,780
+-Your watch.
+-Sit up.
+
+1125
+01:24:39,280 --> 01:24:41,230
+Down you go.
+
+1126
+01:24:42,720 --> 01:24:44,670
+They took mine away.
+
+1127
+01:24:56,120 --> 01:24:58,070
+Here you are.
+
+1128
+01:25:04,880 --> 01:25:07,870
+Mind you look after it, or you'll get me into trouble.
+
+1129
+01:25:10,040 --> 01:25:11,990
+Thank you.
+
+1130
+01:25:14,480 --> 01:25:19,470
+It will be quite informal. Just bow, and address him as Your Majesty.
+
+1131
+01:25:19,560 --> 01:25:22,540
+I will divert the Queen, 
+
+1132
+01:25:22,540 --> 01:25:26,070
+whose taste is more inclined to scandal than to science.
+
+1133
+01:25:33,080 --> 01:25:36,670
+Oh. It's the enemy! It's the enemy!
+
+1134
+01:25:37,480 --> 01:25:39,940
+I see we are to meet the entire family.
+
+1135
+01:25:40,040 --> 01:25:42,470
+His Majesty is a most conscientious father.
+
+1136
+01:25:44,440 --> 01:25:46,390
+Shh... Quiet, everyone.
+
+1137
+01:25:48,120 --> 01:25:50,580
+.. with that one. Go on, pass it on.
+
+1138
+01:25:50,680 --> 01:25:52,630
+-Yes, sir.
+-It's "Aye aye, sir"!
+
+1139
+01:25:52,720 --> 01:25:54,670
+Fire!
+
+1140
+01:25:56,560 --> 01:25:59,510
+Hold your fire, gentlemen. Hold your fire.
+
+1141
+01:26:00,000 --> 01:26:04,070
+My dears, we are saved. Lord Sandwich knows about the running of the ship.
+
+1142
+01:26:04,160 --> 01:26:06,110
+He will come to our rescue.
+
+1143
+01:26:06,200 --> 01:26:09,070
+Your Majesty, may I present Mr John Harrison?
+
+1144
+01:26:10,040 --> 01:26:13,070
+Mr Harrison. I am very pleased to make your acquaintance.
+
+1145
+01:26:13,160 --> 01:26:15,720
+Please, excuse our exuberance.
+
+1146
+01:26:15,800 --> 01:26:18,310
+Mr William Harrison.
+
+1147
+01:26:18,400 --> 01:26:21,110
+-Have you sailed on a frigate, sir?
+-I have, Your Majesty.
+
+1148
+01:26:21,200 --> 01:26:24,510
+-And where, pray, were the mortars situated?
+-On the fo'c's'le deck.
+
+1149
+01:26:24,600 --> 01:26:28,220
+Ah-ha! Georgie, you are in the right, sir, and I am in the wrong.
+
+1150
+01:26:28,320 --> 01:26:30,990
+Mr Harrison will show you the positioning of your mortars.
+
+1151
+01:26:31,080 --> 01:26:33,030
+You may need some more ammunition.
+
+1152
+01:26:34,800 --> 01:26:39,070
+My dear, you mustn't get the children so excited. They'll never sleep.
+
+1153
+01:26:45,200 --> 01:26:49,430
+Mr Harrison, I think I have something here that might interest you.
+
+1154
+01:26:49,520 --> 01:26:52,190
+Please excuse my husband.
+
+1155
+01:26:52,280 --> 01:26:54,310
+Come and look at our battleships, Mama.
+
+1156
+01:26:54,400 --> 01:26:56,630
+May I come aboard?
+
+1157
+01:26:57,680 --> 01:27:00,240
+This was presented to me by Mr Priestly,
+
+1158
+01:27:00,520 --> 01:27:03,990
+a most wonderful creation for the production of electricity.
+
+1159
+01:27:04,080 --> 01:27:05,710
+And what is its use?  
+
+1160
+01:27:05,710 --> 01:27:08,030
+I haven't the foggiest, but dashed pretty, what?
+
+1161
+01:27:10,280 --> 01:27:13,350
+Mr Harrison, I have been informed at length about your trials,
+
+1162
+01:27:13,440 --> 01:27:16,150
+and I must tell you that we are very disturbed by the news.
+
+1163
+01:27:16,240 --> 01:27:18,590
+The safety of our ships is our dearest concern,
+
+1164
+01:27:18,680 --> 01:27:21,470
+and we are most grateful for your endeavours on their behalf.
+
+1165
+01:27:21,560 --> 01:27:23,750
+Thank you, Your Majesty.
+
+1166
+01:27:23,840 --> 01:27:26,950
+-Have you started work on the new watch?
+-I have, sir.
+
+1167
+01:27:27,040 --> 01:27:30,820
+When it is finished, will you do something for me? Let me see it.
+
+1168
+01:27:30,920 --> 01:27:32,790
+I would be most interested.
+
+1169
+01:27:34,080 --> 01:27:37,350
+Oh, have you seen this? I wore it today, especially for you.
+
+1170
+01:27:37,440 --> 01:27:41,550
+-Mr Arnold made it for me. -Papa! Come and see our mortars!
+
+1171
+01:27:41,640 --> 01:27:44,590
+-We've blown up Lord Sandwich. -I hope not!
+
+1172
+01:27:44,680 --> 01:27:47,030
+The admiralty may want him back.
+
+1173
+01:27:55,520 --> 01:27:57,470
+So, do I get my watch back, then?
+
+1174
+01:28:02,600 --> 01:28:04,870
+I'm not sure I can do without it yet.
+
+1175
+01:28:14,640 --> 01:28:16,790
+Have you had a walk today?
+
+1176
+01:28:23,960 --> 01:28:26,590
+I'm getting you up. Do you have a name?
+
+1177
+01:28:29,120 --> 01:28:31,070
+Rupert.
+
+1178
+01:28:31,160 --> 01:28:33,990
+-Do you?
+-Grace.
+
+1179
+01:28:35,960 --> 01:28:38,070
+But it's Nurse Ingrams to you.
+
+1180
+01:28:58,520 --> 01:29:00,470
+What do you think?
+
+1181
+01:29:02,840 --> 01:29:05,190
+It's good.
+
+1182
+01:29:05,280 --> 01:29:07,470
+Fit for a king?
+
+1183
+01:29:18,480 --> 01:29:20,430
+Rupert?
+
+1184
+01:29:25,240 --> 01:29:27,190
+Rupert...
+
+1185
+01:29:28,720 --> 01:29:31,070
+It's all right. I'm here.
+
+1186
+01:29:33,680 --> 01:29:36,140
+Rupert, there's nothing to be alarmed about.
+
+1187
+01:29:36,240 --> 01:29:38,190
+It's only a drill.
+
+1188
+01:29:49,360 --> 01:29:51,310
+Feel the time.
+
+1189
+01:29:57,200 --> 01:29:58,830
+I can feel your heart.
+
+1190
+01:30:00,000 --> 01:30:01,950
+That's better.
+
+1191
+01:30:03,440 --> 01:30:06,270
+Finish the story you were telling me yesterday,
+
+1192
+01:30:06,360 --> 01:30:08,430
+about him taking the watch to the King.
+
+1193
+01:30:10,280 --> 01:30:12,230
+Did he?
+
+1194
+01:30:15,200 --> 01:30:17,830
+Yes, he did.
+
+1195
+01:30:20,280 --> 01:30:24,430
+The King decided to do his own experiment,
+
+1196
+01:30:27,280 --> 01:30:30,820
+an experiment that lasted... months.
+
+1197
+01:30:31,720 --> 01:30:33,670
+Did it work?
+
+1198
+01:30:33,760 --> 01:30:35,290
+No, not at the beginning.
+
+1199
+01:30:35,290 --> 01:30:37,670
+At the beginning, it was a disaster.
+
+1200
+01:30:37,760 --> 01:30:39,910
+It is a most perplexing matter.
+
+1201
+01:30:40,000 --> 01:30:42,500
+Dr Demainbray, my astronomer and dear friend, 
+
+1202
+01:30:42,500 --> 01:30:44,200
+came to me this morning with the news.
+
+1203
+01:30:44,200 --> 01:30:46,200
+Well, I can tell you, sir, that I did not believe it. 
+
+1204
+01:30:46,200 --> 01:30:48,900
+I came here to see for myself, and he was right.
+
+1205
+01:30:48,900 --> 01:30:51,510
+Absolutely and utterly correct, I don't know what to make of it.
+
+1206
+01:30:51,600 --> 01:30:54,190
+-I don't understand. What was wrong?
+-Wrong? What?
+
+1207
+01:30:54,280 --> 01:30:57,270
+-Was it slow? Did it stop?
+-I would that it had, sir.
+
+1208
+01:30:57,360 --> 01:30:59,200
+No, the problem is more serious than that.
+
+1209
+01:30:59,200 --> 01:31:02,230
+Your watch, sir, your watch, sir, is going backwards.
+
+1210
+01:31:10,040 --> 01:31:15,350
+I noticed it this morning, sir, and I immediately informed His Majesty.
+
+1211
+01:31:16,600 --> 01:31:22,350
+The er... The position, I believe, is correct.
+
+1212
+01:31:23,320 --> 01:31:25,270
+The position is fine.
+
+1213
+01:31:25,360 --> 01:31:27,590
+I have no explanation for this.
+
+1214
+01:31:27,680 --> 01:31:29,950
+-Wait.
+-What?
+
+1215
+01:31:30,040 --> 01:31:33,430
+-The compass needles. What do you think?
+-The needles?
+
+1216
+01:31:33,520 --> 01:31:36,710
+When we were magnetising the needles, what did we do with the...?
+
+1217
+01:31:36,800 --> 01:31:40,300
+-Whatever do you call it?
+-The lodestones.
+
+1218
+01:31:40,800 --> 01:31:44,830
+-Where's the key? The key...
+-Quick, man, quick! Check your waistcoat.
+
+1219
+01:31:49,640 --> 01:31:51,590
+Ah...
+
+1220
+01:31:52,560 --> 01:31:54,510
+Lodestones.
+
+1221
+01:31:54,600 --> 01:31:58,630
+-You think the magnets affected the clock?
+-I am sure of it, sir.
+
+1222
+01:31:58,720 --> 01:32:01,070
+Take these out and throw them in the garden.
+
+1223
+01:32:02,960 --> 01:32:04,910
+Immediately.
+
+1224
+01:32:08,560 --> 01:32:10,510
+There.
+
+1225
+01:32:10,600 --> 01:32:13,190
+Now we must start all over again.
+
+1226
+01:32:13,280 --> 01:32:15,950
+-Your Majesty is very kind.
+-Piffle, sir.
+
+1227
+01:32:16,040 --> 01:32:18,110
+I'm a scientist.
+
+1228
+01:32:22,160 --> 01:32:24,110
+That's it.
+
+1229
+01:32:26,760 --> 01:32:29,140
+That's right, watch the ball.
+
+1230
+01:32:33,120 --> 01:32:35,990
+55, 56, 57...
+
+1231
+01:32:36,080 --> 01:32:37,790
+58, 59...
+
+1232
+01:32:38,800 --> 01:32:40,750
+11 o'clock.
+
+1233
+01:32:44,760 --> 01:32:46,710
+Well, let me see, Mr Harrison.
+
+1234
+01:32:48,840 --> 01:32:51,140
+I think we are on target, gentlemen.
+
+1235
+01:32:55,240 --> 01:32:57,510
+Good. You're getting the hang of it now.
+
+1236
+01:32:58,880 --> 01:33:00,590
+Sneaky!
+
+1237
+01:33:43,480 --> 01:33:45,430
+January and February,
+
+1238
+01:33:45,520 --> 01:33:48,510
+March and April...
+
+1239
+01:33:48,600 --> 01:33:50,550
+June and July.
+
+1240
+01:33:56,240 --> 01:33:58,620
+-They're going to kick you out soon.
+-They can't.
+
+1241
+01:33:58,720 --> 01:34:01,150
+I'm feeling particularly mad at the moment.
+
+1242
+01:34:01,240 --> 01:34:04,500
+I don't think they cure that kind of madness here.
+
+1243
+01:34:05,480 --> 01:34:08,100
+-What will you do?
+-I don't know.
+
+1244
+01:34:09,000 --> 01:34:11,230
+Pitch a tent outside the gates, I suppose.
+
+1245
+01:34:12,560 --> 01:34:15,670
+Do you have any objections to a life under canvas?
+
+1246
+01:34:15,760 --> 01:34:17,710
+Not more than a couple of thousand.
+
+1247
+01:34:19,480 --> 01:34:21,430
+Seriously, though...
+
+1248
+01:34:21,520 --> 01:34:23,470
+Seriously, though,
+
+1249
+01:34:24,560 --> 01:34:26,510
+I've no idea.
+
+1250
+01:34:27,840 --> 01:34:29,590
+It's just...
+
+1251
+01:34:30,480 --> 01:34:33,000
+You could move in with me.
+
+1252
+01:34:33,600 --> 01:34:36,750
+What, in the nurses' quarters?  Wouldn't Sister object?
+
+1253
+01:34:36,840 --> 01:34:39,590
+Or do you imagine I'll wear some sort of disguise?
+
+1254
+01:34:39,880 --> 01:34:41,830
+Don't be silly. It doesn't suit you.
+
+1255
+01:34:43,800 --> 01:34:46,360
+No, I'm... thinking about going home,
+
+1256
+01:34:47,640 --> 01:34:49,590
+before they throw me out too.
+
+1257
+01:34:51,640 --> 01:34:54,670
+My mother needs some help,  and I feel I ought to be with her.
+
+1258
+01:34:55,800 --> 01:34:57,750
+It's not ideal, I know, but...
+
+1259
+01:34:58,960 --> 01:35:03,870
+You could come too. If you wanted.
+
+1260
+01:35:05,120 --> 01:35:07,070
+It sounds pretty ideal to me.
+
+1261
+01:35:14,120 --> 01:35:15,590
+They've had hundreds of proofs. 
+
+1262
+01:35:15,590 --> 01:35:17,870
+Why should one more change their minds?
+
+1263
+01:35:17,960 --> 01:35:19,910
+They must listen to the King,
+
+1264
+01:35:20,000 --> 01:35:22,270
+and there is one thing in our favour.
+
+1265
+01:35:22,360 --> 01:35:24,310
+Lord Morton is deceased.
+
+1266
+01:35:26,480 --> 01:35:31,750
+I moved to enter the results of the recent trial at the King's observatory in Richmond,
+
+1267
+01:35:33,000 --> 01:35:35,270
+which show that in a trial of 70 days,
+
+1268
+01:35:35,360 --> 01:35:41,190
+greater than the time of the West Indies voyage stipulated in the Act of Queen Anne,
+
+1269
+01:35:41,280 --> 01:35:45,270
+the watch lost less than a tenth of a second a day,
+
+1270
+01:35:45,360 --> 01:35:49,430
+which would be consistent with finding a longitude in those West Indies
+
+1271
+01:35:49,520 --> 01:35:53,670
+to a distance of less than one mile, and, therefore, wholly within the Act.
+
+1272
+01:35:56,960 --> 01:35:59,070
+Sir, this Board...
+
+1273
+01:35:59,160 --> 01:36:01,910
+This Board cannot accept an unsupervised trial,
+
+1274
+01:36:02,000 --> 01:36:04,830
+no matter how eminent the participants may have been.
+
+1275
+01:36:04,920 --> 01:36:07,870
+This Board is charged by a most solemn act of parliament,
+
+1276
+01:36:07,960 --> 01:36:09,990
+as these members are here to witness,
+
+1277
+01:36:10,080 --> 01:36:13,190
+and must satisfy its observations, and not those of any other party.
+
+1278
+01:36:14,200 --> 01:36:17,820
+The royal trial was carried out under the strictest conditions,
+
+1279
+01:36:17,920 --> 01:36:20,430
+with three separate key holders,
+
+1280
+01:36:20,520 --> 01:36:23,470
+His Majesty graciously consenting to be one of them.
+
+1281
+01:36:23,560 --> 01:36:27,950
+The regulating clock was the subject of nine observations of the sun
+
+1282
+01:36:28,040 --> 01:36:30,630
+to keep a check on its accuracy,
+
+1283
+01:36:30,720 --> 01:36:34,670
+something the Astronomer Royal never attempted once during his own trial.
+
+1284
+01:36:34,760 --> 01:36:36,710
+Sit down, Mr Harrison!
+
+1285
+01:36:42,600 --> 01:36:45,790
+I would like to call upon Captain John Campbell,
+
+1286
+01:36:45,880 --> 01:36:49,310
+who has a report recently arrived from Jamaica,
+
+1287
+01:36:49,400 --> 01:36:53,230
+concerning the exploratory voyage of His Majesty's ship Resolution
+
+1288
+01:36:53,320 --> 01:36:57,510
+under the command of Captain James Cook.
+
+1289
+01:36:57,600 --> 01:36:59,550
+Captain.
+
+1290
+01:37:00,080 --> 01:37:04,550
+Gentlemen, Captain Cook is carrying a copy of Mr Harrison's timekeeper,
+
+1291
+01:37:04,640 --> 01:37:06,470
+made by Mr Kendall, 
+
+1292
+01:37:06,470 --> 01:37:10,400
+and the astronomical tables of the Reverend Maskelyne.
+
+1293
+01:37:10,920 --> 01:37:14,390
+His full report will not be available until his return,
+
+1294
+01:37:14,480 --> 01:37:17,990
+but I am able to read you this extract from his log.
+
+1295
+01:37:19,440 --> 01:37:23,350
+"It would not be doing justice to Mr Harrison and Mr Kendall
+
+1296
+01:37:23,440 --> 01:37:27,470
+if I did not own that we have received very great assistance
+
+1297
+01:37:27,560 --> 01:37:30,750
+from this useful and valuable timepiece.
+
+1298
+01:37:33,080 --> 01:37:38,750
+The watch was used to predict the landfall of St Helena within three miles. "
+
+1299
+01:37:40,880 --> 01:37:43,630
+This is not evidence but anecdote!
+
+1300
+01:37:45,600 --> 01:37:48,750
+This Board, under the direction of the late Lord Morton,
+
+1301
+01:37:48,840 --> 01:37:50,910
+made its conditions perfectly clear.
+
+1302
+01:37:51,000 --> 01:37:53,300
+When Mr Harrison has completed his second copy,
+
+1303
+01:37:53,400 --> 01:37:56,750
+both watches will be subjected to a trial of several months,
+
+1304
+01:37:56,840 --> 01:37:59,300
+on land and at sea, with the utmost rigour.
+
+1305
+01:37:59,400 --> 01:38:01,350
+No other test will suffice.
+
+1306
+01:38:01,440 --> 01:38:05,060
+If you will excuse me, I have an important matter I must attend to.
+
+1307
+01:38:05,160 --> 01:38:07,900
+Mr Harrison, if your business is finished here, 
+
+1308
+01:38:07,900 --> 01:38:10,180
+perhaps you would care to accompany me.
+
+1309
+01:38:19,600 --> 01:38:21,550
+With the Board's permission.
+
+1310
+01:38:28,240 --> 01:38:32,150
+I want to thank the Board for giving me the opportunity
+
+1311
+01:38:32,240 --> 01:38:34,800
+to make a second copy of my watch.
+
+1312
+01:38:37,040 --> 01:38:43,430
+It is not often that the father is permitted to revisit the childhood of a much-loved child,
+
+1313
+01:38:45,120 --> 01:38:47,390
+as I have been allowed to,
+
+1314
+01:38:47,480 --> 01:38:49,430
+and on that journey,
+
+1315
+01:38:51,280 --> 01:38:56,710
+find a new respect and love for that child.
+
+1316
+01:39:02,240 --> 01:39:04,190
+I...
+
+1317
+01:39:06,040 --> 01:39:08,390
+If I can beg your indulgence, my lordships,
+
+1318
+01:39:08,480 --> 01:39:10,430
+I am an old man,
+
+1319
+01:39:10,520 --> 01:39:13,570
+and I've never been accounted a speaker of merit.
+
+1320
+01:39:15,160 --> 01:39:19,110
+I may not be spared to complete another watch, but I've begun one.
+
+1321
+01:39:19,200 --> 01:39:25,270
+It will not, gentlemen, be a copy, because I am mindful of the Act of Queen Anne,
+
+1322
+01:39:26,200 --> 01:39:29,670
+to which I've clung for over 50 years,
+
+1323
+01:39:29,760 --> 01:39:32,830
+like a... like a shipwrecked sailor to a barrel.
+
+1324
+01:39:33,640 --> 01:39:35,590
+To be practical.
+
+1325
+01:39:35,680 --> 01:39:39,270
+In all my life, that's been my gospel and my creed.
+
+1326
+01:39:40,800 --> 01:39:42,290
+I have an idea that 
+
+1327
+01:39:42,290 --> 01:39:46,000
+the heat compensation must be within the balance of the watch,
+
+1328
+01:39:46,000 --> 01:39:47,830
+and not around it,
+
+1329
+01:39:47,920 --> 01:39:51,670
+and, this morning, I made this.
+
+1330
+01:39:53,400 --> 01:39:56,510
+I tried the idea in my first sea clock
+
+1331
+01:39:56,600 --> 01:39:58,550
+over 40 years ago.
+
+1332
+01:39:58,640 --> 01:40:01,990
+I failed. I didn't understand it.
+
+1333
+01:40:03,200 --> 01:40:05,150
+So much I didn't understand.
+
+1334
+01:40:06,200 --> 01:40:11,500
+A compensating balance wheel will simplify the adjustment of the machine
+
+1335
+01:40:11,500 --> 01:40:14,230
+so others may make my watches more easily,
+
+1336
+01:40:16,440 --> 01:40:19,750
+should God grant me the time to complete my labours.
+
+1337
+01:40:26,280 --> 01:40:30,430
+Thank God you're here. Hurry, please. The producer's having kittens.
+
+1338
+01:40:30,520 --> 01:40:32,980
+But I thought the programme started at eight?
+
+1339
+01:40:33,080 --> 01:40:36,190
+This is television, Commander. We have rehearsals.
+
+1340
+01:40:36,280 --> 01:40:38,550
+I'll have to take you straight to make-up.
+
+1341
+01:40:38,640 --> 01:40:41,690
+Oh, really, is all this absolutely necessary?
+
+1342
+01:40:43,240 --> 01:40:47,670
+.. having constructed a timekeeper, from which discovery we have...
+
+1343
+01:40:47,760 --> 01:40:51,750
+John Harrison never received his award from the Board of Longitude.
+
+1344
+01:40:51,840 --> 01:40:57,870
+It came to him by special act of parliament when he was 80 years old.
+
+1345
+01:40:57,960 --> 01:41:03,150
+.. to pay or cause to be paid to the said John Harrison,
+
+1346
+01:41:04,520 --> 01:41:10,230
+that sum long promised to him by this house as a reward!
+
+1347
+01:41:10,320 --> 01:41:12,310
+Hear! Hear!
+
+1348
+01:41:14,300 --> 01:41:17,700
+He had the furthur two years left to him to enjoy his wealth
+
+1349
+01:41:17,760 --> 01:41:21,190
+After his death in 1776,
+
+1350
+01:41:21,280 --> 01:41:24,590
+William married, but never made another watch.
+
+1351
+01:41:26,640 --> 01:41:30,670
+After the War, Rupert Gould became a regular member of The Brains Trust,
+
+1352
+01:41:30,760 --> 01:41:34,380
+a popular panel show, and appeared several times on television.
+
+1353
+01:41:34,480 --> 01:41:36,430
+What makes a man great?
+
+1354
+01:41:36,520 --> 01:41:40,550
+A man may be great in his aims or in his achievements or in both,
+
+1355
+01:41:40,640 --> 01:41:45,750
+but I think that man is truly great, who makes the world his debtor,
+
+1356
+01:41:45,840 --> 01:41:48,910
+who does something for the world which the world needs,
+
+1357
+01:41:49,000 --> 01:41:53,190
+and which nobody before him has done or known how to do.
+
+1358
+01:41:54,360 --> 01:41:56,310
+John Harrison was such a man.
+
+1359
+01:41:56,400 --> 01:42:02,290
+In 1946, Gould was finally made a curator of the National Maritime Museum,
+
+1360
+01:42:02,680 --> 01:42:04,430
+and a year later,
+
+1361
+01:42:04,520 --> 01:42:07,590
+he was awarded the gold medal of the British Horological Institute.
+
+1362
+01:42:08,280 --> 01:42:10,230
+He died in 1948.
+
+1363
+01:42:10,320 --> 01:42:13,190
+And even today, there is not a seaman alive anywhere
+
+1364
+01:42:13,280 --> 01:42:18,910
+whose track is not made straighter, safer and more prosperous
+
+1365
+01:42:19,000 --> 01:42:22,390
+by the possession of a timekeeper.
+
+1366
+01:42:22,480 --> 01:42:26,510
+Gould's notebooks are displayed today at the Royal Observatory.
+
+1367
+01:42:26,600 --> 01:42:30,670
+Next to them stand John Harrison's four marine timepieces,
+
+1368
+01:42:30,760 --> 01:42:34,910
+which, together represent one man's struggle against all odds
+
+1369
+01:42:35,000 --> 01:42:38,110
+to use the fourth dimension, time,
+
+1370
+01:42:38,200 --> 01:42:41,270
+to connect positions on our three-dimensional globe.
+
+1371
+01:42:42,040 --> 01:42:44,830
+Thanks to Harrison's work, and others,
+
+1372
+01:42:44,920 --> 01:42:49,030
+Greenwich is recognised all over the world as the prime meridian,
+
+1373
+01:42:49,120 --> 01:42:53,270
+the longitude zero, by which all time and space is measured,
+
+1374
+01:42:53,360 --> 01:42:56,770
+from one millennium to the next.
+

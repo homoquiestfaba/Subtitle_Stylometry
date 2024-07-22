@@ -1,0 +1,5742 @@
+1
+00:01:34,647 --> 00:01:36,239
+Coming Sister.
+
+2
+00:01:38,527 --> 00:01:39,676
+Sister?
+
+3
+00:01:39,887 --> 00:01:41,605
+I'm looking for Father McKinnon.
+
+4
+00:01:41,767 --> 00:01:43,439
+- Father.
+- I'm Father McKinnon.
+
+5
+00:01:44,527 --> 00:01:46,007
+Good morning.
+What can I do for you?
+
+6
+00:01:46,647 --> 00:01:47,841
+My name is Thurman.
+
+7
+00:01:49,327 --> 00:01:51,204
+Hannibal Thurman.
+Do you remember me?
+
+8
+00:01:51,687 --> 00:01:52,722
+Well it's...
+
+9
+00:01:53,487 --> 00:01:55,842
+some years ago as I recall but...
+
+10
+00:01:56,407 --> 00:01:58,398
+you are the business associate of
+Arthur Barret.
+
+11
+00:01:59,887 --> 00:02:01,240
+Arthur Barret is dead.
+
+12
+00:02:02,167 --> 00:02:03,919
+He died of a stroke 2 days ago.
+
+13
+00:02:06,207 --> 00:02:08,675
+In a list of instructions before his death.
+
+14
+00:02:10,087 --> 00:02:11,156
+He...
+
+15
+00:02:13,887 --> 00:02:15,206
+said you would explain...
+
+16
+00:02:15,767 --> 00:02:19,282
+everything to me, whatever that means.
+
+17
+00:02:20,887 --> 00:02:24,357
+This is a codicil to his last
+will and testament.
+
+18
+00:02:24,567 --> 00:02:26,444
+I didn't know it existed until yesterday.
+
+19
+00:02:27,047 --> 00:02:29,515
+- I'm a priest, not a lawyer.
+- Father...
+
+20
+00:02:31,407 --> 00:02:34,717
+It states that I'm obliged to answer
+to you although I am not a catholic...
+
+21
+00:02:36,367 --> 00:02:39,279
+and that I need your blessing
+before I can assume...
+
+22
+00:02:39,927 --> 00:02:41,758
+Legal custody of his two sons.
+
+23
+00:02:45,247 --> 00:02:47,920
+And the boys, they must be what...
+
+24
+00:02:48,167 --> 00:02:49,520
+- 16 now?
+- Yes.
+
+25
+00:02:50,327 --> 00:02:51,840
+And are they like him?
+
+26
+00:02:53,007 --> 00:02:54,679
+Yes. One is.
+
+27
+00:02:55,327 --> 00:02:56,885
+The other, he's a rebel.
+
+28
+00:02:57,727 --> 00:03:00,287
+Very much like his mother, Eleanor, was.
+
+29
+00:03:01,807 --> 00:03:04,605
+But they are both Barret's,
+if that's what you're asking.
+
+30
+00:03:04,727 --> 00:03:06,319
+Stubborn and proud.
+
+31
+00:03:09,567 --> 00:03:11,319
+You have my blessing Mr. Thurman.
+
+32
+00:03:11,767 --> 00:03:12,916
+Father...
+
+33
+00:03:14,087 --> 00:03:16,237
+- is that it?
+- That's it.
+
+34
+00:03:17,887 --> 00:03:18,876
+Father...
+
+35
+00:03:19,327 --> 00:03:20,646
+I repeat...
+
+36
+00:03:21,967 --> 00:03:24,322
+Arthur insisted that you
+explain everything to me...
+
+37
+00:03:24,407 --> 00:03:27,001
+and I would assume, that as
+a man of the cloth...
+
+38
+00:03:27,167 --> 00:03:28,646
+you will honor his wish.
+
+39
+00:03:34,207 --> 00:03:35,196
+Very well.
+
+40
+00:03:37,487 --> 00:03:38,886
+Sit down Mr. Thurman.
+
+41
+00:03:42,127 --> 00:03:44,083
+I assume as a lawyer you can...
+
+42
+00:03:45,087 --> 00:03:48,284
+recognize a logical
+motive when you see one.
+
+43
+00:03:51,327 --> 00:03:54,364
+Then perhaps secrets aren't logical.
+
+44
+00:03:57,087 --> 00:03:59,123
+I don't know why it had to
+happen in this way.
+
+45
+00:04:03,327 --> 00:04:04,476
+It just did.
+
+46
+00:04:19,527 --> 00:04:22,200
+<i>St. Jude's parish was</i>
+<i>my first assignment.</i>
+
+47
+00:04:22,367 --> 00:04:24,164
+<i>But it was my last choice.</i>
+
+48
+00:04:24,807 --> 00:04:26,001
+<i>I didn't want to go there.</i>
+
+49
+00:04:31,327 --> 00:04:32,442
+<i>It was a rich parish...</i>
+
+50
+00:04:32,567 --> 00:04:35,161
+<i>with good living quarters</i>
+<i>and a wealth of opportunity.</i>
+
+51
+00:04:40,167 --> 00:04:42,397
+<i>All my friends in seminary envied me...</i>
+
+52
+00:04:42,527 --> 00:04:45,724
+<i>but big religion and big money</i>
+<i>was the last thing I wanted.</i>
+
+53
+00:04:48,887 --> 00:04:52,163
+<i>But my father's influence in the</i>
+<i>Church quickly squelched all that...</i>
+
+54
+00:04:52,367 --> 00:04:54,244
+<i>and landed me in Boston.</i>
+
+55
+00:04:57,967 --> 00:05:00,242
+<i>This was my father's way,</i>
+<i>of keeping tabs on me...</i>
+
+56
+00:05:00,807 --> 00:05:03,685
+<i>keeping his hand in the game</i>
+<i>of controlling my life.</i>
+
+57
+00:05:05,847 --> 00:05:08,042
+<i>They say all is fair in love and war.</i>
+
+58
+00:05:08,327 --> 00:05:11,364
+<i>I suppose this was his way</i>
+<i>of getting even with me...</i>
+
+59
+00:05:11,487 --> 00:05:12,886
+<i>for becoming a priest.</i>
+
+60
+00:05:19,487 --> 00:05:23,162
+<i>A rich parish obligated me to remain</i>
+<i>close enough to the upper crust...</i>
+
+61
+00:05:23,447 --> 00:05:26,803
+<i>so that I would never loose my</i>
+<i>way back home when the time came.</i>
+
+62
+00:05:45,527 --> 00:05:47,199
+<i>But despite my father's scheme...</i>
+
+63
+00:05:47,367 --> 00:05:49,961
+<i>I was determined to make</i>
+<i>the best of my new home.</i>
+
+64
+00:05:50,527 --> 00:05:53,485
+<i>I would work hard, help the needy...</i>
+
+65
+00:05:53,927 --> 00:05:55,280
+<i>and serve God.</i>
+
+66
+00:05:56,327 --> 00:05:57,521
+<i>And with any luck...</i>
+
+67
+00:05:58,087 --> 00:06:01,523
+<i>I'd be able to avoid the one person</i>
+<i>in Boston I had no desire to meet...</i>
+
+68
+00:06:02,487 --> 00:06:03,806
+<i>Arthur Barret.</i>
+
+69
+00:06:18,167 --> 00:06:20,635
+Your attention, please.
+Attention everyone.
+
+70
+00:06:21,327 --> 00:06:23,557
+Eleanor, I believe you have
+an announcement to make.
+
+71
+00:06:23,647 --> 00:06:24,841
+Thank you, Hannibal.
+
+72
+00:06:25,167 --> 00:06:28,318
+I think all of you know
+my husband well enough...
+
+73
+00:06:28,647 --> 00:06:29,762
+to know that...
+
+74
+00:06:29,847 --> 00:06:33,920
+if humility were a cup of tea,
+his cup would runneth over.
+
+75
+00:06:34,367 --> 00:06:39,839
+So, I would like to take this
+opportunity to do brag for him...
+
+76
+00:06:40,047 --> 00:06:41,275
+and to tell you about...
+
+77
+00:06:41,327 --> 00:06:45,286
+his appointment to President
+Roosevelt's foreign finance committee.
+
+78
+00:06:46,127 --> 00:06:48,357
+They couldn't have picked
+a better man for the job.
+
+79
+00:06:50,047 --> 00:06:51,639
+Congratulations!
+
+80
+00:06:52,087 --> 00:06:56,399
+Thank you my dear.
+What can I say to that...
+
+81
+00:06:56,527 --> 00:06:58,807
+except to add that what gives
+a man the right to brag...
+
+82
+00:06:58,808 --> 00:07:00,488
+are not so much his accomplishments but...
+
+83
+00:07:01,607 --> 00:07:03,962
+the friends that he has to share them with.
+
+84
+00:07:09,527 --> 00:07:12,280
+Madame?
+You have a telephone call.
+
+85
+00:07:12,927 --> 00:07:14,679
+- Is this it?
+- It might be.
+
+86
+00:07:20,847 --> 00:07:22,838
+- Hello Mark.
+<i>- Eleanor, hello.</i>
+
+87
+00:07:22,927 --> 00:07:25,127
+- Do you have news about the book?
+<i>- Wonderful news...</i>
+
+88
+00:07:25,247 --> 00:07:27,761
+<i>- Scribner's are picking it up.</i>
+- Not really.
+
+89
+00:07:29,527 --> 00:07:31,324
+No. That's wonderful.
+
+90
+00:07:31,767 --> 00:07:33,166
+Yes.
+
+91
+00:07:34,007 --> 00:07:36,237
+- What did he say?
+- Scribner's is mad for it.
+
+92
+00:07:36,407 --> 00:07:38,716
+Yes, they want to publish it this fall.
+
+93
+00:07:47,647 --> 00:07:50,002
+Can we expect this on to be
+banned in Boston too?
+
+94
+00:07:50,207 --> 00:07:53,165
+I certainly hope so.
+I've got my reputation to uphold.
+
+95
+00:08:03,127 --> 00:08:04,879
+- Eleanor?
+- Come in.
+
+96
+00:08:05,287 --> 00:08:08,518
+- Are you ill?
+- No. I'm just counting.
+
+97
+00:08:10,087 --> 00:08:11,645
+Syril...
+
+98
+00:08:12,647 --> 00:08:15,525
+- I think this is it.
+- It's a beautiful day.
+
+99
+00:08:16,727 --> 00:08:18,479
+But is it "the day"?
+
+100
+00:08:18,927 --> 00:08:20,838
+Well, well. Let's see.
+
+101
+00:08:21,567 --> 00:08:23,603
+- One, two...
+- Good morning.
+
+102
+00:08:24,887 --> 00:08:26,286
+- Syril.
+- Arthur.
+
+103
+00:08:29,687 --> 00:08:30,756
+I love you.
+
+104
+00:08:33,927 --> 00:08:35,440
+Did you sleep well?
+
+105
+00:08:37,047 --> 00:08:38,116
+Me too.
+
+106
+00:08:39,047 --> 00:08:41,641
+Though I had a marginal night's sleep...
+
+107
+00:08:41,807 --> 00:08:44,367
+I had a wonderful dream this morning.
+
+108
+00:08:44,567 --> 00:08:45,636
+Tell me.
+
+109
+00:08:46,047 --> 00:08:49,835
+I dreamed that I was holding our baby.
+
+110
+00:08:51,847 --> 00:08:54,156
+I was feeding it from a bottle.
+
+111
+00:08:55,567 --> 00:08:58,923
+- Was it a boy or a girl?
+- I don't know.
+
+112
+00:08:59,607 --> 00:09:02,326
+I gave it to you when it
+came time to change it.
+
+113
+00:09:02,927 --> 00:09:04,485
+That's terrible.
+
+114
+00:09:04,727 --> 00:09:06,399
+Not at all.
+It was a beautiful dream.
+
+115
+00:09:13,087 --> 00:09:14,202
+What is it?
+
+116
+00:09:15,607 --> 00:09:17,404
+It's the 12th day.
+
+117
+00:09:17,767 --> 00:09:19,997
+Our odds are best if we try
+today or tomorrow.
+
+118
+00:09:20,367 --> 00:09:21,402
+Well then.
+
+119
+00:09:24,687 --> 00:09:26,882
+It would appear that
+everything is in place.
+
+120
+00:09:29,327 --> 00:09:31,283
+Tonight we'll make the dream a reality.
+
+121
+00:09:37,247 --> 00:09:39,238
+Do you have to go
+to the office this morning?
+
+122
+00:09:43,367 --> 00:09:47,406
+Mr. Thurman will be
+right with you Mr. Martin.
+
+123
+00:09:56,927 --> 00:09:58,042
+Greetings, Mr. Martin.
+
+124
+00:09:58,127 --> 00:10:00,167
+How good of you to come back
+on such short notice.
+
+125
+00:10:00,327 --> 00:10:02,363
+- Of course.
+- I've been reviewing your file.
+
+126
+00:10:02,407 --> 00:10:04,967
+- Very impressive young man.
+- Thank you, sir.
+
+127
+00:10:05,207 --> 00:10:07,084
+I imagine the top student at Harvard...
+
+128
+00:10:07,167 --> 00:10:10,204
+- has had an offer or two.
+- Three, actually.
+
+129
+00:10:10,807 --> 00:10:13,116
+- Have you been tempted yet?
+- Not really.
+
+130
+00:10:13,207 --> 00:10:14,356
+I've been holding back...
+
+131
+00:10:14,447 --> 00:10:17,837
+I was genuinely hoping for an
+invitation to come on here.
+
+132
+00:10:18,007 --> 00:10:19,201
+- Really?
+- Yes, sir.
+
+133
+00:10:19,287 --> 00:10:21,727
+I am not embarrassed to admit
+that Arthur Barret has been...
+
+134
+00:10:21,728 --> 00:10:25,076
+an idol of mine. His reputation
+at Harvard is legendary.
+
+135
+00:10:25,567 --> 00:10:28,525
+How flattering for him, and for us.
+I'm glad to hear you say that.
+
+136
+00:10:28,847 --> 00:10:30,917
+I've always said that
+desire and motivation...
+
+137
+00:10:31,167 --> 00:10:34,239
+are two thirds of any successful
+employment equation.
+
+138
+00:10:34,607 --> 00:10:36,802
+- And the other one third?
+- Resolve.
+
+139
+00:10:37,007 --> 00:10:38,838
+The ability to do what it takes...
+
+140
+00:10:38,927 --> 00:10:41,646
+to achieve one's goal
+no matter what the cost.
+
+141
+00:10:44,287 --> 00:10:47,245
+- Are you such a man, Mr. Martin?
+- I assume so, yes.
+
+142
+00:10:47,687 --> 00:10:48,836
+Assume?
+
+143
+00:10:49,807 --> 00:10:53,322
+I can't be absolutely certain.
+I've never been tested.
+
+144
+00:10:53,647 --> 00:10:56,207
+An open mind. Good.
+I like that.
+
+145
+00:10:57,487 --> 00:11:01,036
+I believe Mr. Martin,
+what I am about to propose...
+
+146
+00:11:01,287 --> 00:11:03,755
+is just such a test.
+
+147
+00:11:04,487 --> 00:11:05,556
+However...
+
+148
+00:11:05,967 --> 00:11:09,323
+before I begin I must tell you that
+what I'm about to divulge...
+
+149
+00:11:09,407 --> 00:11:10,999
+must never leave this room.
+
+150
+00:11:11,167 --> 00:11:13,806
+- Do you understand?
+- Yes. Of course.
+
+151
+00:11:14,407 --> 00:11:15,965
+I must have your word, sir.
+
+152
+00:11:16,487 --> 00:11:19,365
+Complete discretion and confidentiality.
+
+153
+00:11:23,887 --> 00:11:25,400
+Very well, you have my word then.
+
+154
+00:11:34,647 --> 00:11:36,000
+- Thank you.
+- You're welcome.
+
+155
+00:11:40,967 --> 00:11:42,241
+Good afternoon, James.
+
+156
+00:11:42,327 --> 00:11:44,807
+- Good afternoon, ma'am.
+- Do you know what time it is, dear?
+
+157
+00:11:44,927 --> 00:11:47,646
+I know, but Virginia Wade
+kept going on and on.
+
+158
+00:11:48,007 --> 00:11:50,687
+I know it takes a good deal of
+planning to feed over 500 people...
+
+159
+00:11:50,688 --> 00:11:52,968
+but, bless her heart, she even
+had Father Dryer napping.
+
+160
+00:11:53,287 --> 00:11:55,327
+Where are you going, now?
+You've got to get ready.
+
+161
+00:11:55,328 --> 00:11:58,165
+I've got to get something to eat.
+I have butterflies.
+
+162
+00:11:58,567 --> 00:12:00,000
+That makes two of us.
+
+163
+00:12:02,247 --> 00:12:04,363
+<i>What you have to understand</i>
+<i>about Eleanor...</i>
+
+164
+00:12:04,487 --> 00:12:06,443
+<i>is that she cherished above all else...</i>
+
+165
+00:12:06,567 --> 00:12:08,762
+<i>a room to call her own.</i>
+
+166
+00:12:10,767 --> 00:12:12,246
+<i>A place to explore...</i>
+
+167
+00:12:12,327 --> 00:12:14,841
+<i>to nurture and develop free thought...</i>
+
+168
+00:12:14,927 --> 00:12:17,964
+<i>uncharacterized by a man's</i>
+<i>influences and convention.</i>
+
+169
+00:12:18,487 --> 00:12:22,241
+<i>It was a temple for no religion.</i>
+<i>And no expectation save one...</i>
+
+170
+00:12:22,847 --> 00:12:24,838
+<i>to be at peace with herself.</i>
+
+171
+00:12:25,447 --> 00:12:29,042
+<i>Eleanor's God was as much female as male.</i>
+
+172
+00:12:30,007 --> 00:12:30,996
+Thank you.
+
+173
+00:12:41,647 --> 00:12:42,716
+Is she nervous?
+
+174
+00:12:44,247 --> 00:12:45,362
+Of course.
+
+175
+00:12:47,047 --> 00:12:48,400
+What is she doing now?
+
+176
+00:12:49,687 --> 00:12:51,166
+Getting ready I presume.
+
+177
+00:12:54,807 --> 00:12:56,126
+Anything I can do?
+
+178
+00:12:57,207 --> 00:12:58,242
+Yes.
+
+179
+00:12:59,607 --> 00:13:03,156
+Be husband enough to stand beside her
+and hold her hand while it happens...
+
+180
+00:13:04,287 --> 00:13:05,640
+that or call it off.
+
+181
+00:13:08,407 --> 00:13:10,921
+Don't condescend to me, Syril.
+
+182
+00:13:12,327 --> 00:13:14,887
+- I won't stand for it.
+- Then don't allow this to happen.
+
+183
+00:13:14,967 --> 00:13:16,480
+It's an abomination.
+
+184
+00:13:18,367 --> 00:13:20,039
+This child will ruin your marriage.
+
+185
+00:13:20,287 --> 00:13:21,800
+How can you say such a thing?
+
+186
+00:13:23,007 --> 00:13:25,237
+I love Eleanor more than my own life.
+
+187
+00:13:25,327 --> 00:13:26,919
+Is this supposed to prove it?
+
+188
+00:13:27,167 --> 00:13:29,601
+Yes. This is the one thing
+I cannot give her.
+
+189
+00:13:30,007 --> 00:13:31,326
+It's the only answer.
+
+190
+00:13:32,567 --> 00:13:36,446
+- I badly need an heir.
+- I know, but believe me...
+
+191
+00:13:37,487 --> 00:13:41,400
+you are making a grave mistake if
+you allow her to conceive this baby.
+
+192
+00:13:41,487 --> 00:13:43,955
+God forgive me for saying this, but...
+
+193
+00:13:44,767 --> 00:13:47,759
+- that was spoken like a man.
+- Good.
+
+194
+00:13:48,687 --> 00:13:52,646
+It will open your ears
+and command your respect.
+
+195
+00:13:53,687 --> 00:13:55,359
+I'm sure it serves your male vanity...
+
+196
+00:13:55,487 --> 00:13:58,923
+to assume you can control any
+situation that you put your mind to.
+
+197
+00:13:59,127 --> 00:14:03,006
+- But you're mistaken.
+- How?
+
+198
+00:14:03,807 --> 00:14:07,766
+You are about to give an educated
+woman complete control of her life.
+
+199
+00:14:07,967 --> 00:14:11,676
+For a man in your position,
+that's a dangerous thing.
+
+200
+00:14:11,887 --> 00:14:15,402
+Eleanor has always had complete
+freedom to do as she wishes.
+
+201
+00:14:15,447 --> 00:14:18,086
+Haven't I given her everything
+she's ever asked for?
+
+202
+00:14:18,487 --> 00:14:21,206
+What's the problem with
+my giving her a baby?
+
+203
+00:14:21,647 --> 00:14:23,239
+Would you care to rephrase that?
+
+204
+00:14:24,607 --> 00:14:25,676
+No.
+
+205
+00:14:28,647 --> 00:14:30,478
+I want you to stay awake all night.
+
+206
+00:14:32,327 --> 00:14:34,397
+Available to you should she need you.
+
+207
+00:14:35,127 --> 00:14:36,355
+Of course.
+
+208
+00:14:37,287 --> 00:14:39,881
+If there's nothing more, I'll go to her.
+
+209
+00:14:40,127 --> 00:14:41,242
+There is one thing.
+
+210
+00:14:44,007 --> 00:14:46,316
+This cannot happen in either
+one of our bedrooms.
+
+211
+00:14:47,047 --> 00:14:49,607
+Eleanor asked to have one
+of the guest rooms made up.
+
+212
+00:14:51,567 --> 00:14:53,000
+What's he like?
+
+213
+00:14:57,167 --> 00:14:58,282
+He's young...
+
+214
+00:15:00,927 --> 00:15:03,077
+Young like I used to be.
+
+215
+00:15:06,327 --> 00:15:07,840
+You want me to do what?
+
+216
+00:15:08,167 --> 00:15:09,919
+We prefer the term impregnate.
+
+217
+00:15:09,967 --> 00:15:13,198
+But yes, you must serve as
+Mr. Barret's surrogate.
+
+218
+00:15:13,327 --> 00:15:15,283
+Good God! You're serious!
+
+219
+00:15:15,647 --> 00:15:19,242
+Yes. But in the interests
+of accuracy...
+
+220
+00:15:20,127 --> 00:15:22,038
+we would like to employ you.
+
+221
+00:15:22,207 --> 00:15:25,358
+And you would be generously compensated.
+
+222
+00:15:38,727 --> 00:15:40,046
+Yes. Indeed.
+
+223
+00:15:42,927 --> 00:15:44,645
+Good idea. I'll join you.
+
+224
+00:15:50,167 --> 00:15:52,601
+I have a few questions.
+
+225
+00:15:52,887 --> 00:15:55,765
+- Such as?
+- Why?
+
+226
+00:15:55,967 --> 00:15:58,207
+Because Mr. and Mrs. Barret
+want a child desperately...
+
+227
+00:15:58,208 --> 00:15:59,480
+and Mr. Barret cannot conceive.
+
+228
+00:16:00,047 --> 00:16:01,480
+Call me old fashioned, but...
+
+229
+00:16:01,567 --> 00:16:04,445
+- what about adoption?
+- Adoption is out of the question.
+
+230
+00:16:04,647 --> 00:16:08,037
+Mrs. Barret wishes to experience
+the real thing...
+
+231
+00:16:08,207 --> 00:16:09,847
+from the moment of conception to birth...
+
+232
+00:16:09,848 --> 00:16:12,287
+- She feels it's her right.
+- Yeah. I understand.
+
+233
+00:16:12,447 --> 00:16:13,880
+No. I doubt that.
+
+234
+00:16:14,567 --> 00:16:17,923
+But I do think we can both grasp the...
+
+235
+00:16:18,087 --> 00:16:21,523
+Logic of her desire to have
+a child of her own blood.
+
+236
+00:16:22,407 --> 00:16:23,396
+When?
+
+237
+00:16:23,527 --> 00:16:25,563
+- Tonight.
+- Tonight?
+
+238
+00:16:26,407 --> 00:16:28,841
+I'm sorry for such short notice...
+
+239
+00:16:29,847 --> 00:16:32,884
+but you know how these things go.
+Mother nature and all that.
+
+240
+00:16:45,967 --> 00:16:47,685
+<i>Wrapped in her own thought...</i>
+
+241
+00:16:47,767 --> 00:16:49,883
+<i>Eleanor meticulously prepared...</i>
+
+242
+00:16:49,927 --> 00:16:52,202
+<i>to exercise the ultimate privilege...</i>
+
+243
+00:16:52,327 --> 00:16:53,840
+<i>of being her own person.</i>
+
+244
+00:16:57,327 --> 00:16:59,557
+<i>Contemplative, focused...</i>
+
+245
+00:16:59,687 --> 00:17:01,518
+<i>and quietly confident with her decision...</i>
+
+246
+00:17:01,887 --> 00:17:04,276
+<i>she knew in her heart that she was ready.</i>
+
+247
+00:17:05,207 --> 00:17:07,243
+<i>But do not judge this scene too quickly.</i>
+
+248
+00:17:07,807 --> 00:17:10,196
+<i>For this was not the ritual</i>
+<i>of a pampered princess...</i>
+
+249
+00:17:10,607 --> 00:17:12,723
+<i>so much as it was attention to detail...</i>
+
+250
+00:17:12,967 --> 00:17:14,878
+<i>by the author of a master plan.</i>
+
+251
+00:17:17,007 --> 00:17:20,044
+<i>In the end, I could only</i>
+<i>sympathize with Arthur.</i>
+
+252
+00:17:20,967 --> 00:17:23,197
+<i>What a cruel and unusual punishment!</i>
+
+253
+00:17:23,567 --> 00:17:25,762
+<i>To know whatever went on behind her door...</i>
+
+254
+00:17:26,047 --> 00:17:27,924
+<i>had nothing to do with him.</i>
+
+255
+00:17:28,487 --> 00:17:30,000
+<i>Her man.</i>
+
+256
+00:17:35,847 --> 00:17:37,565
+Shall I give you the details?
+
+257
+00:17:38,087 --> 00:17:39,918
+You mean I don't have them already?
+
+258
+00:17:40,007 --> 00:17:42,646
+- Are you being snide with me?
+- I'm sorry...
+
+259
+00:17:42,807 --> 00:17:46,516
+you don't expect me to take this
+proposition seriously, do you?
+
+260
+00:17:46,687 --> 00:17:48,598
+I come to this firm in good faith...
+
+261
+00:17:48,647 --> 00:17:50,365
+seeking respectable employment...
+
+262
+00:17:50,407 --> 00:17:54,639
+and you insult me with this sordid
+scheme of fornication.
+
+263
+00:17:54,727 --> 00:17:58,276
+If that's how it sounds my
+presentation has not been effective.
+
+264
+00:17:58,447 --> 00:18:01,325
+It's not your presentation
+that needs examination...
+
+265
+00:18:01,407 --> 00:18:02,727
+it is the virtue of your mission.
+
+266
+00:18:02,728 --> 00:18:05,116
+My mission is to help
+my oldest and dearest friend...
+
+267
+00:18:05,247 --> 00:18:08,239
+in an intensely important
+and delicate situation.
+
+268
+00:18:08,447 --> 00:18:10,836
+I was honored that he chose me to do it.
+
+269
+00:18:11,047 --> 00:18:13,163
+My God. What kind of a man
+is Arthur Barret?
+
+270
+00:18:13,367 --> 00:18:16,484
+The kind of a man, Mr. Martin,
+who has the ability...
+
+271
+00:18:17,367 --> 00:18:20,439
+to achieve his goals
+no matter what the cost.
+
+272
+00:18:26,567 --> 00:18:31,038
+Then he is either a very strong man
+or a very stupid one.
+
+273
+00:18:31,887 --> 00:18:35,960
+There are some thing in life
+which are better left undone...
+
+274
+00:18:36,287 --> 00:18:38,005
+no matter what the cost.
+
+275
+00:18:38,047 --> 00:18:42,006
+I'm very sorry we have
+offended you, Mr. Martin.
+
+276
+00:18:42,327 --> 00:18:43,396
+I can only hope...
+
+277
+00:18:43,527 --> 00:18:48,237
+that in time you'll come to see the
+great compliment of this proposition.
+
+278
+00:18:48,687 --> 00:18:50,359
+- Compliment?
+- Yes. Think about it.
+
+279
+00:18:50,687 --> 00:18:52,598
+You were selected to surrogate his child...
+
+280
+00:18:52,927 --> 00:18:56,203
+Arthur found your profile,
+meaning your intellect...
+
+281
+00:18:56,327 --> 00:18:59,239
+your personality, even your appearance...
+
+282
+00:18:59,567 --> 00:19:02,206
+desirable attributes for a child
+of his own to inherit.
+
+283
+00:19:02,927 --> 00:19:05,122
+In a sense...
+
+284
+00:19:05,887 --> 00:19:09,323
+Arthur Barret idolized you.
+
+285
+00:19:13,247 --> 00:19:14,521
+Gee, I hadn't thought of that.
+
+286
+00:19:14,567 --> 00:19:16,762
+I'll be honest Roger-
+May I call you Roger?
+
+287
+00:19:16,927 --> 00:19:19,805
+- Please.
+- I'm not sure I'd pass up the money...
+
+288
+00:19:19,887 --> 00:19:23,038
+just for making love to a beautiful woman.
+
+289
+00:19:23,327 --> 00:19:25,761
+I guess we never actually
+progressed to talking money.
+
+290
+00:19:25,887 --> 00:19:27,479
+Not that it matters, but...
+
+291
+00:19:28,247 --> 00:19:30,886
+- how much are we talking about?
+- 25,000.
+
+292
+00:19:32,087 --> 00:19:34,282
+25,000 dollars?
+
+293
+00:19:34,647 --> 00:19:36,683
+Did I mention how beautiful she is?
+
+294
+00:19:38,167 --> 00:19:40,283
+- Beautiful?
+- Ravishing.
+
+295
+00:19:41,687 --> 00:19:43,245
+You know, Roger...
+
+296
+00:19:43,447 --> 00:19:46,041
+I'm not sure Arthur was right
+about you after all.
+
+297
+00:19:46,327 --> 00:19:47,680
+- No?
+- No.
+
+298
+00:19:48,007 --> 00:19:51,556
+Now that I think about it,
+you must be some sort of damn fool.
+
+299
+00:19:51,967 --> 00:19:53,878
+Well, very good luck to you.
+
+300
+00:19:54,887 --> 00:19:57,481
+- Hello, Mr. Thurman.
+- Mr. Harrington.
+
+301
+00:19:58,847 --> 00:19:59,836
+Harrington?
+
+302
+00:20:00,047 --> 00:20:01,647
+- Hello Rog.
+- What are you doing here?
+
+303
+00:20:02,207 --> 00:20:04,207
+Applying for the same position
+as you I expect...
+
+304
+00:20:04,208 --> 00:20:05,528
+that is if it is still available.
+
+305
+00:20:05,727 --> 00:20:07,683
+- Yes.
+- No, no!
+
+306
+00:20:09,127 --> 00:20:11,482
+The truth is I've had second
+thoughts about your offer.
+
+307
+00:20:11,607 --> 00:20:12,881
+- Really?
+- I accept.
+
+308
+00:20:13,847 --> 00:20:16,441
+Perhaps I wasn't thinking clearly
+because I was so...
+
+309
+00:20:16,967 --> 00:20:19,117
+- flattered.
+- Flattered?
+
+310
+00:20:20,047 --> 00:20:23,039
+It seems the position has
+been filled Mr. Harrington...
+
+311
+00:20:23,087 --> 00:20:25,123
+however we'll keep your
+information on file...
+
+312
+00:20:25,767 --> 00:20:28,964
+should Mr. Martin's services
+not work out.
+
+313
+00:20:29,247 --> 00:20:31,477
+- Thank you, I'm sorry.
+- Thank you.
+
+314
+00:20:32,527 --> 00:20:35,166
+Well, Rog, congratulations are in order.
+
+315
+00:20:35,927 --> 00:20:37,201
+Good luck with it.
+
+316
+00:20:37,607 --> 00:20:38,801
+Luck, right...
+
+317
+00:20:43,687 --> 00:20:47,680
+Thank you. You won't regret this.
+I can almost guarantee...
+
+318
+00:20:47,887 --> 00:20:49,206
+that she will enjoy it.
+
+319
+00:20:51,047 --> 00:20:54,244
+<i>It was obvious to Hannibal,</i>
+<i>that young Roger Martin...</i>
+
+320
+00:20:54,407 --> 00:20:56,284
+<i>was in way over his head.</i>
+
+321
+00:21:31,487 --> 00:21:33,876
+- Mrs. Barret?
+- No.
+
+322
+00:21:35,887 --> 00:21:39,004
+I believe Mrs. Barret
+is expecting me.
+
+323
+00:21:39,327 --> 00:21:40,362
+Roger Martin.
+
+324
+00:21:41,767 --> 00:21:44,918
+I'll inform her that
+you have arrived, Mr. Martin.
+
+325
+00:21:45,807 --> 00:21:47,604
+- Please come in.
+- Thank you.
+
+326
+00:21:55,047 --> 00:21:56,116
+Well.
+
+327
+00:21:57,207 --> 00:21:59,675
+- Well what?
+- What of him?
+
+328
+00:22:00,687 --> 00:22:02,006
+How does he look?
+
+329
+00:22:03,087 --> 00:22:05,317
+- Pubescent.
+- Oh stop, Syril.
+
+330
+00:22:05,767 --> 00:22:07,246
+Arthur said he was 24.
+
+331
+00:22:07,327 --> 00:22:10,319
+Still, the poor baby thinks this is a date.
+
+332
+00:22:11,047 --> 00:22:13,242
+- What do you mean?
+- See for yourself.
+
+333
+00:22:18,167 --> 00:22:19,202
+He's right down there.
+
+334
+00:22:24,567 --> 00:22:26,842
+Hello, Mrs. Barret,
+these are for you.
+
+335
+00:22:28,367 --> 00:22:30,961
+Hello, Mrs. Barret...
+
+336
+00:22:38,087 --> 00:22:40,601
+You're right. He was so much older
+looking in the picture.
+
+337
+00:22:40,727 --> 00:22:42,319
+I won't be surprised if you have to...
+
+338
+00:22:42,367 --> 00:22:44,562
+- What?
+- Show him where it goes.
+
+339
+00:22:46,727 --> 00:22:51,721
+- You don't think he's never done it?
+- I don't know, didn't see his resume.
+
+340
+00:23:11,407 --> 00:23:12,476
+Good evening.
+
+341
+00:23:14,807 --> 00:23:15,876
+Good evening.
+
+342
+00:23:17,207 --> 00:23:19,880
+- Mr. Martin, I presume.
+- At your service Mrs. Barret.
+
+343
+00:23:20,367 --> 00:23:24,406
+- No... what I mean to say is...
+- I know what you mean, thank you.
+
+344
+00:23:26,247 --> 00:23:28,078
+How lovely.
+Are they for me?
+
+345
+00:23:28,407 --> 00:23:29,396
+Yes.
+
+346
+00:23:30,047 --> 00:23:32,083
+- Sorry.
+- It's nothing, just a scratch.
+
+347
+00:23:32,247 --> 00:23:33,919
+I've cut you!
+I can't believe it.
+
+348
+00:23:34,047 --> 00:23:36,083
+- I'm fine.
+- I knew I would botch it...
+
+349
+00:23:36,127 --> 00:23:38,038
+and we're not even at the hard part yet.
+
+350
+00:23:38,327 --> 00:23:42,036
+I did so want everything to go well,
+I thought I might be good at this...
+
+351
+00:23:42,247 --> 00:23:43,807
+- Roger.
+- I'm not cut out for this...
+
+352
+00:23:43,854 --> 00:23:45,294
+- this is for someone big.
+- Roger!
+
+353
+00:23:46,007 --> 00:23:47,281
+Yes, Mrs. Barret?
+
+354
+00:23:48,047 --> 00:23:49,526
+Is it that uncomfortable for you?
+
+355
+00:23:50,727 --> 00:23:51,842
+God yes.
+
+356
+00:23:52,927 --> 00:23:54,076
+Unbearable?
+
+357
+00:23:56,887 --> 00:24:01,119
+At this moment, I would just
+as soon vanish and die.
+
+358
+00:24:03,447 --> 00:24:05,165
+You're a very sweet man.
+
+359
+00:24:05,847 --> 00:24:08,964
+In light of your obvious misgivings
+if you feel you must go...
+
+360
+00:24:20,167 --> 00:24:22,397
+- I'm truly sorry, Mrs. Barret.
+- Not at all.
+
+361
+00:24:39,047 --> 00:24:40,162
+<i>As a Catholic priest...</i>
+
+362
+00:24:40,247 --> 00:24:43,603
+<i>my orientation as to the</i>
+<i>definition of bonafide miracle...</i>
+
+363
+00:24:43,807 --> 00:24:46,401
+<i>has always been:</i>
+<i>Divine intervention...</i>
+
+364
+00:24:46,607 --> 00:24:48,040
+<i>plus a little more.</i>
+
+365
+00:24:48,447 --> 00:24:50,647
+<i>So in this instance, a timely</i>
+<i>flat tire might raise...</i>
+
+366
+00:24:50,648 --> 00:24:53,763
+<i>a few superstitious eyebrows...</i>
+
+367
+00:24:54,327 --> 00:24:57,167
+<i>it's hardly food for thought for</i>
+<i>those of us professionally trained...</i>
+
+368
+00:24:57,168 --> 00:24:58,878
+<i>to recognize the hand of God.</i>
+
+369
+00:25:00,207 --> 00:25:03,005
+<i>When in the pursuit of miracles</i>
+<i>timing is everything.</i>
+
+370
+00:25:03,727 --> 00:25:06,161
+<i>It was beginning to look as if</i>
+<i>the hand God was attached...</i>
+
+371
+00:25:06,247 --> 00:25:08,124
+<i>to a damn good wristwatch.</i>
+
+372
+00:25:08,807 --> 00:25:10,684
+<i>Something wondrous happened.</i>
+
+373
+00:25:32,447 --> 00:25:35,519
+<i>It was a tough decision</i>
+<i>but he reasoned it out.</i>
+
+374
+00:25:35,927 --> 00:25:38,282
+<i>The miracle of life is fraught</i>
+<i>with compromise.</i>
+
+375
+00:25:38,407 --> 00:25:40,841
+<i>The key to success is not</i>
+<i>so much pride as it is...</i>
+
+376
+00:25:40,887 --> 00:25:43,276
+<i>dignity in accomplishing one's goals.</i>
+
+377
+00:25:43,447 --> 00:25:46,883
+<i>And so, Roger realized that he</i>
+<i>simply couldn't bear the thought...</i>
+
+378
+00:25:47,007 --> 00:25:49,840
+<i>of having that beautiful,</i>
+<i>desirable, rich woman...</i>
+
+379
+00:25:50,407 --> 00:25:52,047
+<i>stand in he warm mansion and watch him...</i>
+
+380
+00:25:52,048 --> 00:25:54,567
+<i>change that tire in the rain.</i>
+
+381
+00:25:56,327 --> 00:25:58,761
+<i>He decided to make love to her instead.</i>
+
+382
+00:26:35,567 --> 00:26:36,636
+Roger?
+
+383
+00:26:39,967 --> 00:26:42,640
+- Yes, Mr. Barret?
+- Is everything alright?
+
+384
+00:26:43,767 --> 00:26:45,997
+Yes. Why do you ask?
+
+385
+00:26:47,167 --> 00:26:49,840
+You've been in there for nearly 20 minutes.
+
+386
+00:26:51,887 --> 00:26:52,956
+Oh?
+
+387
+00:26:53,807 --> 00:26:56,275
+- May I come in?
+- Well you know...
+
+388
+00:26:56,927 --> 00:26:58,246
+if you could...
+
+389
+00:27:01,687 --> 00:27:03,279
+- Hello.
+- Hello, Roger.
+
+390
+00:27:03,527 --> 00:27:04,562
+Are you ill?
+
+391
+00:27:04,887 --> 00:27:07,481
+- No.
+- Is there a problem then?
+
+392
+00:27:10,127 --> 00:27:12,567
+A slight one, but if I could
+just have a few more minutes...
+
+393
+00:27:12,568 --> 00:27:14,561
+- Tell me.
+- I'd rather not.
+
+394
+00:27:15,807 --> 00:27:19,117
+- Is it me?
+- No, it's me.
+
+395
+00:27:19,527 --> 00:27:21,518
+Well what then?
+Perhaps I can help.
+
+396
+00:27:23,327 --> 00:27:25,397
+Well it seems that I have...
+
+397
+00:27:26,047 --> 00:27:27,116
+an...
+
+398
+00:27:30,007 --> 00:27:31,042
+you know...
+
+399
+00:27:31,727 --> 00:27:33,957
+- An erection?
+- I'm sorry.
+
+400
+00:27:34,607 --> 00:27:37,485
+You've been hiding for 20 minutes
+because you have an erection?
+
+401
+00:27:38,167 --> 00:27:40,283
+It's the anticipation I'm afraid...
+
+402
+00:27:40,807 --> 00:27:43,446
+And you feel somehow that
+I'll be offended by that?
+
+403
+00:27:44,967 --> 00:27:48,880
+Well, yes. I don't want you to think
+I'm some sort of sexual animal.
+
+404
+00:27:49,767 --> 00:27:52,520
+Mr. Martin, we're counting on it.
+
+405
+00:27:53,927 --> 00:27:55,679
+Now, please, can we get on with this?
+
+406
+00:27:56,967 --> 00:27:58,480
+I'll be right there, Mrs. Barret.
+
+407
+00:27:58,647 --> 00:28:01,286
+- Eleanor.
+- Eleanor, Eleanor.
+
+408
+00:28:06,367 --> 00:28:07,846
+I don't believe it.
+
+409
+00:28:13,327 --> 00:28:14,680
+- Ready.
+- Me too.
+
+410
+00:28:21,887 --> 00:28:22,956
+What's the matter now?
+
+411
+00:28:25,887 --> 00:28:28,037
+We've got a problem.
+I'm going down.
+
+412
+00:28:29,327 --> 00:28:30,521
+It's the...
+
+413
+00:28:34,807 --> 00:28:38,595
+Roger, there are no problems.
+
+414
+00:28:39,127 --> 00:28:40,606
+Only solutions.
+
+415
+00:28:55,327 --> 00:28:56,999
+- Roger.
+- Yes, Mrs. Barret.
+
+416
+00:28:57,367 --> 00:28:58,720
+Not that it really matters but...
+
+417
+00:28:58,807 --> 00:29:01,367
+I believe it's usually customary
+to take off your socks.
+
+418
+00:29:01,687 --> 00:29:03,405
+Damn! I knew that.
+
+419
+00:29:39,007 --> 00:29:41,919
+<i>When Roger Martin emerged into</i>
+<i>the bright morning sunshine...</i>
+
+420
+00:29:42,087 --> 00:29:45,477
+<i>he stepped toward</i>
+<i>that flat tire like a new man.</i>
+
+421
+00:29:45,687 --> 00:29:48,918
+<i>His head was high and his step</i>
+<i>was charged with affirmation.</i>
+
+422
+00:29:49,047 --> 00:29:50,480
+<i>He was a stud.</i>
+
+423
+00:30:12,807 --> 00:30:16,595
+- Thanks for that.
+- That's very generous, but no.
+
+424
+00:30:16,767 --> 00:30:18,564
+- Thank you.
+- Right.
+
+425
+00:30:20,127 --> 00:30:21,560
+Stupid.
+
+426
+00:31:15,807 --> 00:31:16,876
+Father Michael.
+
+427
+00:31:19,767 --> 00:31:21,723
+You asked me to flag Arthur Barret?
+
+428
+00:31:24,407 --> 00:31:26,079
+They make a very handsome couple.
+
+429
+00:31:26,727 --> 00:31:27,796
+His wife is Eleanor.
+
+430
+00:31:27,887 --> 00:31:30,924
+Yes. The writer. She's brilliant.
+I've read some of her work.
+
+431
+00:31:31,327 --> 00:31:33,283
+Don't admit that to the cardinal.
+
+432
+00:31:35,847 --> 00:31:37,166
+What about him, Father?
+
+433
+00:31:37,247 --> 00:31:39,841
+I heard he can be something of a tyrant.
+
+434
+00:31:39,887 --> 00:31:40,956
+Tyrant?
+
+435
+00:31:41,767 --> 00:31:43,041
+I don't know who told you that.
+
+436
+00:31:43,127 --> 00:31:46,403
+- I doubt it was anyone in Boston...
+- Father Dryer, a minute please.
+
+437
+00:32:14,087 --> 00:32:17,318
+<i>In nomine patris et filii</i>
+<i>et spiritus sancti.</i>
+
+438
+00:32:18,367 --> 00:32:20,244
+<i>Introivo ad altare dei.</i>
+
+439
+00:32:20,367 --> 00:32:22,597
+<i>Ad deum que letifican juventuten mean.</i>
+
+440
+00:32:23,727 --> 00:32:27,197
+I am very pleased today to announce
+a new addition to our staff...
+
+441
+00:32:27,327 --> 00:32:30,683
+Father Michael McKinnon,
+comes to us from London, England.
+
+442
+00:32:31,127 --> 00:32:33,516
+He'll be in charge of our charity
+programs for the poor.
+
+443
+00:32:33,927 --> 00:32:36,047
+I would encourage you all
+to introduce yourselves...
+
+444
+00:32:36,527 --> 00:32:38,995
+and to make Father Michael feel at home.
+
+445
+00:32:39,207 --> 00:32:40,765
+Jesus tells us...
+
+446
+00:32:41,687 --> 00:32:43,086
+<i>I watched Arthur Barret...</i>
+
+447
+00:32:43,487 --> 00:32:47,366
+<i>like a competitor sizes up his opponent.</i>
+
+448
+00:32:49,087 --> 00:32:52,636
+<i>But I found myself,</i>
+<i>drawn to Eleanor instead.</i>
+
+449
+00:32:54,287 --> 00:32:56,517
+<i>And as unimportant and</i>
+<i>trivial as it seemed then...</i>
+
+450
+00:32:57,527 --> 00:33:01,236
+<i>that's what I remember most about</i>
+<i>the first time I saw Arthur Barret.</i>
+
+451
+00:33:10,847 --> 00:33:13,998
+- Good morning.
+- Good morning, Arthur.
+
+452
+00:33:14,127 --> 00:33:16,087
+- Good morning, Eleanor.
+- Good morning, Father.
+
+453
+00:33:16,088 --> 00:33:19,163
+- I enjoyed your sermon very much.
+- It was a fine mass, as always.
+
+454
+00:33:19,367 --> 00:33:21,517
+- Thank you.
+- Father McKinnon...
+
+455
+00:33:21,727 --> 00:33:25,083
+it gives me pleasure to introduce two
+of my favorite people in the world...
+
+456
+00:33:25,287 --> 00:33:27,482
+Arthur Barret and his wife Eleanor.
+
+457
+00:33:28,887 --> 00:33:31,082
+Welcome. I'm delighted
+to have you joining us...
+
+458
+00:33:31,167 --> 00:33:33,362
+my wife is particularly glad.
+
+459
+00:33:34,327 --> 00:33:36,921
+Indeed. I'm a firm believer
+in the charity program.
+
+460
+00:33:37,087 --> 00:33:39,999
+In that case, I would appreciate
+any advice you have to offer.
+
+461
+00:33:40,607 --> 00:33:43,519
+- Why don't you come by our house...?
+- Tuesday.
+
+462
+00:33:43,687 --> 00:33:46,247
+Tuesday.
+We'll have dinner and discuss it.
+
+463
+00:33:47,367 --> 00:33:48,720
+Tuesday sounds delightful.
+
+464
+00:33:48,847 --> 00:33:52,760
+I will need to check the
+parish diary. May I call you?
+
+465
+00:33:53,087 --> 00:33:56,363
+I warn you, she'll talk
+fundraising all night.
+
+466
+00:33:56,447 --> 00:33:59,007
+Only if my husband will let me
+get a word in edgewise.
+
+467
+00:34:01,727 --> 00:34:03,206
+Please remember, Father...
+
+468
+00:34:03,447 --> 00:34:05,915
+there can be no more important
+event on your diary...
+
+469
+00:34:06,287 --> 00:34:08,243
+than an invitation from the Barrets.
+
+470
+00:34:08,367 --> 00:34:10,562
+- If you know what I mean.
+- Of course, Father.
+
+471
+00:34:25,207 --> 00:34:27,926
+Did you really expect
+a miracle the first time?
+
+472
+00:34:28,527 --> 00:34:30,404
+Somehow I honestly think I did.
+
+473
+00:34:33,127 --> 00:34:34,879
+What am I going to tell Arthur?
+
+474
+00:34:35,327 --> 00:34:36,521
+Tell him the truth.
+
+475
+00:34:37,967 --> 00:34:39,844
+Tell him you have to try again.
+
+476
+00:34:44,527 --> 00:34:45,562
+How can I?
+
+477
+00:35:02,887 --> 00:35:03,956
+Arthur.
+
+478
+00:35:06,407 --> 00:35:09,001
+- I thought you were working today.
+- I was.
+
+479
+00:35:10,247 --> 00:35:14,559
+- I've started my period.
+- I'm sorry.
+
+480
+00:35:15,327 --> 00:35:16,885
+How can you be so understanding?
+
+481
+00:35:18,767 --> 00:35:21,725
+- What would you have me say?
+- Something.
+
+482
+00:35:22,607 --> 00:35:25,167
+Anything other than ask me if I was
+alright the morning after.
+
+483
+00:35:25,327 --> 00:35:27,927
+- You never said a word about it.
+- I try not to think about it.
+
+484
+00:35:27,928 --> 00:35:29,399
+It's a painful subject for me.
+
+485
+00:35:30,327 --> 00:35:32,887
+I try to focus instead on
+what will come of this...
+
+486
+00:35:33,327 --> 00:35:34,601
+our child.
+
+487
+00:35:37,247 --> 00:35:38,521
+You're so good.
+
+488
+00:35:44,127 --> 00:35:46,127
+I want you to know that
+I did not and wouldn't...
+
+489
+00:35:46,647 --> 00:35:49,320
+- kiss him like that.
+- Eleanor, please.
+
+490
+00:35:49,447 --> 00:35:51,207
+Just let me say it.
+I wanted to tell you...
+
+491
+00:35:51,447 --> 00:35:53,324
+how lonely that night was for me...
+
+492
+00:35:53,407 --> 00:35:56,285
+how I tried to imagine your face...
+
+493
+00:35:56,367 --> 00:35:59,279
+- and body.
+- I know. I was lonely too.
+
+494
+00:36:03,207 --> 00:36:05,038
+I wanted to ask, but...
+
+495
+00:36:06,007 --> 00:36:10,080
+I couldn't bear to hear one detail.
+I'm not that strong.
+
+496
+00:36:10,207 --> 00:36:12,084
+You're stronger than I ever imagined.
+
+497
+00:36:12,967 --> 00:36:16,960
+No, I hand picked that man for this...
+
+498
+00:36:18,847 --> 00:36:21,042
+when he left our house that morning...
+
+499
+00:36:21,887 --> 00:36:23,400
+I hated him.
+
+500
+00:36:24,767 --> 00:36:27,406
+Him? Or was it me you hated?
+
+501
+00:36:29,287 --> 00:36:30,436
+I hated him...
+
+502
+00:36:32,407 --> 00:36:34,557
+for being able to give you
+what I never can.
+
+503
+00:36:37,527 --> 00:36:39,438
+I suppose I will always...
+
+504
+00:36:41,207 --> 00:36:42,526
+hate him for that...
+
+505
+00:36:45,167 --> 00:36:46,964
+as much as I will envy him.
+
+506
+00:36:50,207 --> 00:36:51,765
+I'll call Hannibal in the morning.
+
+507
+00:37:25,887 --> 00:37:26,956
+Roger?
+
+508
+00:37:28,047 --> 00:37:29,366
+What are you doing?
+
+509
+00:37:31,887 --> 00:37:33,206
+Come up, please.
+
+510
+00:37:35,287 --> 00:37:39,439
+- Is something wrong Mrs. Barret?
+- Well yes. What are you doing?
+
+511
+00:37:39,967 --> 00:37:41,719
+I'm trying to make love to you.
+
+512
+00:37:44,367 --> 00:37:45,436
+I'm very flattered...
+
+513
+00:37:45,487 --> 00:37:49,878
+but this is not what this is about.
+We should both remember that.
+
+514
+00:37:50,007 --> 00:37:52,601
+- My husband is my lover.
+- Him?
+
+515
+00:37:52,927 --> 00:37:55,287
+How can he be a lover to you
+when he can't even get it up?
+
+516
+00:37:56,207 --> 00:37:58,926
+Arthur is sterile, Roger, not impotent.
+
+517
+00:38:01,007 --> 00:38:02,725
+Well, same difference?
+
+518
+00:38:02,927 --> 00:38:05,202
+He still can't be a whole man to you.
+
+519
+00:38:08,367 --> 00:38:10,437
+I think I finally have you figured out.
+
+520
+00:38:11,607 --> 00:38:13,359
+- You have?
+- Yes.
+
+521
+00:38:13,647 --> 00:38:15,205
+I've been reading your novel.
+
+522
+00:38:16,967 --> 00:38:19,276
+"If we face the fact that we go alone...
+
+523
+00:38:20,447 --> 00:38:22,287
+and that we belong to
+the world of reality...
+
+524
+00:38:22,367 --> 00:38:23,766
+not only to men and women...
+
+525
+00:38:24,887 --> 00:38:27,355
+then the dead poet that was
+Shakespeare's sister...
+
+526
+00:38:27,767 --> 00:38:30,486
+will put on the body she
+so often laid down."
+
+527
+00:38:33,007 --> 00:38:34,156
+Virginia Woolf.
+
+528
+00:38:34,647 --> 00:38:36,367
+You quoted her in the preface of your book.
+
+529
+00:38:37,047 --> 00:38:38,844
+It's dedicated to her.
+
+530
+00:38:40,847 --> 00:38:45,875
+She's talking about a day when women
+will be recognized as equal to men?
+
+531
+00:38:45,967 --> 00:38:49,596
+I think she's talking about a day
+when gender won't matter.
+
+532
+00:38:50,367 --> 00:38:52,562
+But Shakespeare didn't
+really have a sister, did he?
+
+533
+00:38:53,607 --> 00:38:54,722
+It's a metaphor.
+
+534
+00:38:57,687 --> 00:38:58,915
+Still...
+
+535
+00:38:59,047 --> 00:39:04,167
+you don't believe the sister would be
+capable of the same sort of genius?
+
+536
+00:39:04,327 --> 00:39:07,922
+Given the same opportunities,
+yes. I think she could.
+
+537
+00:39:08,167 --> 00:39:10,840
+Yes. And speaking of opportunities...
+
+538
+00:39:17,567 --> 00:39:18,920
+I think I love you, Mrs. Barret.
+
+539
+00:39:19,047 --> 00:39:22,517
+- Oh God! Where did that come from?
+- I think about you constantly.
+
+540
+00:39:23,167 --> 00:39:24,486
+Constantly.
+
+541
+00:39:25,727 --> 00:39:26,842
+Does that bother you?
+
+542
+00:39:26,927 --> 00:39:29,202
+- It concerns me, yes.
+- Why?
+
+543
+00:39:29,727 --> 00:39:31,843
+Because I don't want you
+to be hurt by this.
+
+544
+00:39:35,567 --> 00:39:37,683
+I was thinking, perhaps we could...
+
+545
+00:39:38,527 --> 00:39:39,960
+prolong our arrangement...
+
+546
+00:39:40,087 --> 00:39:42,840
+if I was to withdraw early
+every now and then.
+
+547
+00:39:45,687 --> 00:39:48,201
+What have we done to you Roger Martin?
+
+548
+00:39:50,447 --> 00:39:52,563
+Your husband has made me very rich...
+
+549
+00:39:53,607 --> 00:39:55,359
+and you have made me very happy.
+
+550
+00:39:55,807 --> 00:39:59,880
+- Roger...
+- I don't expect you to love me back.
+
+551
+00:40:01,167 --> 00:40:03,840
+But you should know that
+when we do this tonight...
+
+552
+00:40:05,207 --> 00:40:06,560
+I won't be having sex.
+
+553
+00:40:08,807 --> 00:40:10,320
+I'll be making love.
+
+554
+00:40:19,527 --> 00:40:23,486
+<i>Her decision to remain beneath him</i>
+<i>was the biggest mistake of her life.</i>
+
+555
+00:40:24,327 --> 00:40:26,887
+<i>For though she understood</i>
+<i>those ramifications...</i>
+
+556
+00:40:27,407 --> 00:40:30,126
+<i>it was suddenly clear to her</i>
+<i>that Roger Martin did not.</i>
+
+557
+00:40:31,087 --> 00:40:34,523
+<i>She felt she could bear</i>
+<i>risking her own soul...</i>
+
+558
+00:40:34,807 --> 00:40:36,160
+<i>to have a child this way...</i>
+
+559
+00:40:36,727 --> 00:40:39,161
+<i>but now another person's</i>
+<i>spirituality was involved.</i>
+
+560
+00:40:40,487 --> 00:40:42,447
+<i>Shrouding this event</i>
+<i>in business was supposed...</i>
+
+561
+00:40:42,448 --> 00:40:43,883
+<i>to relieve such danger...</i>
+
+562
+00:40:44,407 --> 00:40:46,159
+<i>but Roger Martin professed love.</i>
+
+563
+00:40:47,207 --> 00:40:49,482
+<i>She closed her eyes and tried</i>
+<i>not to think about it...</i>
+
+564
+00:40:51,367 --> 00:40:52,846
+<i>but even in darkness...</i>
+
+565
+00:40:53,167 --> 00:40:55,965
+<i>one thing was as clear Eleanor</i>
+<i>as the light of day...</i>
+
+566
+00:40:56,687 --> 00:40:59,997
+<i>she now felt responsible</i>
+<i>for Roger's unrequited love.</i>
+
+567
+00:41:09,167 --> 00:41:10,316
+Take a deep breath now.
+
+568
+00:41:10,487 --> 00:41:12,603
+Exhale. Good.
+
+569
+00:41:12,727 --> 00:41:13,842
+Excellent.
+
+570
+00:41:26,927 --> 00:41:28,485
+Congratulations, Mrs. Barret.
+
+571
+00:41:29,687 --> 00:41:31,996
+Is there anything you can do
+about this wretched nausea?
+
+572
+00:41:33,007 --> 00:41:35,157
+Not much.
+Light tea and soda crackers.
+
+573
+00:41:35,327 --> 00:41:38,842
+Try not to get too hungry
+or overeat. Just munch.
+
+574
+00:41:39,527 --> 00:41:42,087
+I had no idea being pregnant
+was so difficult.
+
+575
+00:41:42,207 --> 00:41:44,118
+Some of my patients tell me...
+
+576
+00:41:45,247 --> 00:41:48,125
+that being pregnant is much more
+difficult than getting that way.
+
+577
+00:41:48,407 --> 00:41:49,556
+That's what you think?
+
+578
+00:41:51,487 --> 00:41:52,556
+Beg your pardon?
+
+579
+00:42:05,687 --> 00:42:06,756
+Well?
+
+580
+00:42:08,447 --> 00:42:09,436
+She'll be fine.
+
+581
+00:42:12,847 --> 00:42:14,405
+Harold. Out with it.
+
+582
+00:42:16,047 --> 00:42:19,119
+Yes, Arthur. Your wife
+is definitely with child.
+
+583
+00:42:19,327 --> 00:42:20,601
+Congratulations.
+
+584
+00:42:21,687 --> 00:42:22,961
+Good Arthur.
+
+585
+00:42:46,247 --> 00:42:47,646
+Syril, could you get that!
+
+586
+00:42:56,527 --> 00:42:57,755
+- I'll get it.
+- Oh, thanks.
+
+587
+00:42:58,167 --> 00:43:00,203
+- Barret Residence.
+<i>- Mrs. Barret, please.</i>
+
+588
+00:43:00,567 --> 00:43:03,684
+Mr. Martin, I'm sorry but
+Mrs. Barret is indisposed.
+
+589
+00:43:03,807 --> 00:43:07,356
+- Would you leave another message?
+<i>- No, I would talk to her.</i>
+
+590
+00:43:07,447 --> 00:43:09,563
+<i>I'm tired of this obvious brush off.</i>
+
+591
+00:43:09,687 --> 00:43:11,962
+- Mr. Martin...
+<i>- And don't Mr. Martin me.</i>
+
+592
+00:43:12,087 --> 00:43:15,204
+<i>I know my rights, she's carrying my baby.</i>
+
+593
+00:43:18,167 --> 00:43:21,477
+I suggest you leave
+Mrs. Barret alone, Mr. Martin...
+
+594
+00:43:22,047 --> 00:43:23,605
+and never call this house again.
+
+595
+00:43:23,727 --> 00:43:25,638
+- Do you understand?
+<i>- How dare you?</i>
+
+596
+00:43:25,727 --> 00:43:28,287
+It's breaking his heart.
+I should talk to him.
+
+597
+00:43:28,447 --> 00:43:29,567
+You should do no such thing.
+
+598
+00:43:29,887 --> 00:43:33,675
+It'll only aggravate the situation by
+showing his persistence will pay off.
+
+599
+00:43:34,007 --> 00:43:36,999
+Let Arthur take care of it.
+He'll know what to do.
+
+600
+00:43:42,007 --> 00:43:45,443
+- Excuse me, you wanted to see me.
+- Yes, come along.
+
+601
+00:43:45,647 --> 00:43:49,003
+- How long have you been with us?
+- Nearly four months sir.
+
+602
+00:43:49,167 --> 00:43:51,920
+- Why, sir?
+- I spoke with Arthur Barret and he...
+
+603
+00:43:52,047 --> 00:43:56,325
+asked me to express his regrets that
+you're unable to adjust your agenda...
+
+604
+00:43:56,487 --> 00:43:59,207
+- so you can have dinner with him.
+- That's very thoughtful of him.
+
+605
+00:43:59,927 --> 00:44:01,121
+You're missing the point.
+
+606
+00:44:02,127 --> 00:44:05,802
+When you arrived at St. Jude,
+did I not make myself clear...
+
+607
+00:44:06,487 --> 00:44:09,559
+as to exactly how I felt about
+the Barrets and their importance.
+
+608
+00:44:09,967 --> 00:44:12,197
+- You did, Father.
+- Then, I can only assume...
+
+609
+00:44:12,367 --> 00:44:16,155
+since you are a bright man with
+a promising future in the Church...
+
+610
+00:44:16,327 --> 00:44:19,603
+that for the past 4 months you've
+not been trying to dodge them...
+
+611
+00:44:19,887 --> 00:44:23,038
+but rather you've been engaged
+in one life or death situation...
+
+612
+00:44:23,167 --> 00:44:25,920
+after another and have had
+no choice but to cancel.
+
+613
+00:44:26,687 --> 00:44:30,236
+Fortunately, Mr. Barret
+is a patient man...
+
+614
+00:44:30,927 --> 00:44:34,397
+and has now asked if they can adjust
+their schedule to yours.
+
+615
+00:44:34,487 --> 00:44:36,557
+You're invited to dinner next week.
+
+616
+00:44:38,887 --> 00:44:40,843
+Which night would that be, sir?
+
+617
+00:44:42,847 --> 00:44:44,724
+Whatever night he chooses.
+
+618
+00:44:45,847 --> 00:44:47,439
+- Is that clear?
+- Perfectly.
+
+619
+00:44:47,647 --> 00:44:48,636
+Good.
+
+620
+00:45:30,527 --> 00:45:33,087
+<i>The Barret estate was magnificent...</i>
+
+621
+00:45:33,967 --> 00:45:36,481
+<i>but it could not compete</i>
+<i>with my father's house.</i>
+
+622
+00:45:46,838 --> 00:45:49,398
+Mr. and Mrs. Barret this has been
+a really wonderful evening...
+
+623
+00:45:49,482 --> 00:45:51,442
+thank you so much for
+sharing your home with me.
+
+624
+00:45:51,443 --> 00:45:52,203
+You're not leaving?
+
+625
+00:45:52,204 --> 00:45:55,124
+- It's still early.
+- He's right, please stay longer.
+
+626
+00:45:55,847 --> 00:45:57,917
+You're very kind, thank you.
+
+627
+00:45:58,807 --> 00:46:00,684
+<i>If ever humility was lost</i>
+
+628
+00:46:00,807 --> 00:46:02,445
+<i>in a moment of weakness...</i>
+
+629
+00:46:03,167 --> 00:46:04,236
+<i>this was it.</i>
+
+630
+00:46:05,887 --> 00:46:09,482
+They say that Wall Street
+will never be the same.
+
+631
+00:46:09,607 --> 00:46:11,643
+You're the financial expert.
+Do you agree?
+
+632
+00:46:11,967 --> 00:46:15,198
+I agree that long range investment
+will never be the same.
+
+633
+00:46:16,727 --> 00:46:19,082
+Americans want to take
+their profits quickly...
+
+634
+00:46:19,567 --> 00:46:21,364
+they'll never stay in for the long haul.
+
+635
+00:46:22,127 --> 00:46:25,915
+So then it makes sense that large
+sums of American investment money...
+
+636
+00:46:25,967 --> 00:46:27,320
+have found their way to Germany.
+
+637
+00:46:27,367 --> 00:46:30,882
+<i>Every instinct should have told me</i>
+<i>leave well enough alone...</i>
+
+638
+00:46:30,967 --> 00:46:33,845
+<i>but alas, foolish pride won out.</i>
+
+639
+00:46:34,247 --> 00:46:37,717
+<i>I was sliding down a path</i>
+<i>I could not resist.</i>
+
+640
+00:46:37,887 --> 00:46:40,959
+- The Nazis, huh?
+- Yes. I'm afraid so.
+
+641
+00:46:41,447 --> 00:46:46,202
+You appear to be an astute student
+of the investment game, Father.
+
+642
+00:46:46,287 --> 00:46:49,723
+If I may be so bold, where
+do you get your information?
+
+643
+00:46:49,887 --> 00:46:51,366
+From a select few who...
+
+644
+00:46:51,647 --> 00:46:54,719
+have already invested in Germany
+rather than Wall St.
+
+645
+00:46:54,767 --> 00:46:57,998
+- No. Name one.
+- Samuel Barret.
+
+646
+00:47:07,447 --> 00:47:08,516
+What is this?
+
+647
+00:47:09,367 --> 00:47:10,436
+Arthur don't!
+
+648
+00:47:10,887 --> 00:47:11,956
+Arthur please!
+
+649
+00:47:13,007 --> 00:47:16,477
+No. Come on, the charade is over.
+This is about something else.
+
+650
+00:47:16,607 --> 00:47:19,724
+You've led this conversation to
+that name. I demand to know why?
+
+651
+00:47:19,807 --> 00:47:22,127
+I didn't intend to come her and
+have this conversation...
+
+652
+00:47:22,176 --> 00:47:24,856
+but I do know that you hate your
+older brother and he hates you...
+
+653
+00:47:24,857 --> 00:47:26,817
+- What business is that of yours?
+- I'm his son.
+
+654
+00:47:30,167 --> 00:47:31,316
+Excuse me.
+
+655
+00:47:31,807 --> 00:47:34,196
+Mr. Barret, there's
+a problem developing.
+
+656
+00:47:34,247 --> 00:47:36,807
+- What is it?
+- I think you should just come.
+
+657
+00:47:37,047 --> 00:47:38,162
+Please, sir.
+
+658
+00:47:46,727 --> 00:47:49,560
+- I demand to see her right now!
+- What the devil is going on here?
+
+659
+00:47:49,767 --> 00:47:52,327
+I'm here to see Mrs...
+to see Eleanor...
+
+660
+00:47:52,647 --> 00:47:55,115
+and if you don't let me through
+I will force my way through.
+
+661
+00:47:55,247 --> 00:47:56,919
+- Is that so?
+- I mean it.
+
+662
+00:48:01,087 --> 00:48:03,078
+Well, Father...
+
+663
+00:48:04,287 --> 00:48:07,723
+you've proven a fascinating guest,
+next you'll not even be a priest.
+
+664
+00:48:07,847 --> 00:48:08,916
+I am a priest.
+
+665
+00:48:09,967 --> 00:48:12,162
+If you're really a Barret,
+why do you go by McKinnon?
+
+666
+00:48:12,447 --> 00:48:15,207
+I took it when I entered the Church.
+It was my mother's maiden name.
+
+667
+00:48:17,127 --> 00:48:19,047
+Why couldn't you just be
+honest from the start?
+
+668
+00:48:19,087 --> 00:48:22,363
+Because from the start,
+I've been trying to avoid...
+
+669
+00:48:23,007 --> 00:48:23,996
+all of this.
+
+670
+00:48:25,367 --> 00:48:28,837
+I'd heard a great deal about
+Arthur Barret, mostly bad.
+
+671
+00:48:30,167 --> 00:48:34,126
+I couldn't resist seeing
+for myself if it was true.
+
+672
+00:48:35,207 --> 00:48:36,401
+Stuff your money!
+
+673
+00:48:36,487 --> 00:48:38,796
+I haven't been able
+to see her or talk to her.
+
+674
+00:48:38,887 --> 00:48:41,606
+I think at the least I deserve
+to see the mother of my own child.
+
+675
+00:48:41,727 --> 00:48:43,240
+What you deserve you have received.
+
+676
+00:48:43,367 --> 00:48:45,437
+Now you will collect yourself.
+
+677
+00:48:45,607 --> 00:48:47,086
+You will honor your contract...
+
+678
+00:48:47,167 --> 00:48:50,443
+you will return to your automobile,
+which my money purchased no doubt...
+
+679
+00:48:50,567 --> 00:48:53,035
+and you will never set foot here
+again or so help me God...
+
+680
+00:48:53,087 --> 00:48:54,076
+What will you do?
+
+681
+00:48:54,167 --> 00:48:57,876
+Expose me as the father
+of your pregnant wife's child?
+
+682
+00:48:58,207 --> 00:49:00,243
+I suggest you think again
+Mr. Barret...
+
+683
+00:49:00,407 --> 00:49:03,240
+or you may just expose yourself
+as your wife's pimp.
+
+684
+00:49:04,207 --> 00:49:06,562
+Wouldn't that be a presidential
+piece of gossip.
+
+685
+00:49:14,167 --> 00:49:18,160
+If you ever threaten me again,
+or approach my wife...
+
+686
+00:49:18,727 --> 00:49:21,639
+or try to lay claim
+to our child, I will kill you.
+
+687
+00:49:23,287 --> 00:49:24,515
+Do you understand me?
+
+688
+00:49:41,527 --> 00:49:43,279
+I'm sorry. Everything is alright.
+
+689
+00:49:45,087 --> 00:49:49,956
+As for you, Father McKinnon,
+or whatever your real name is...
+
+690
+00:49:51,607 --> 00:49:54,360
+I am in no state of mind now
+to deal with your motives...
+
+691
+00:49:54,407 --> 00:49:56,557
+or those of my brother,
+who obviously sent you here.
+
+692
+00:49:56,647 --> 00:50:00,879
+But I will expect a full explanation
+from you when next we meet.
+
+693
+00:50:01,087 --> 00:50:02,839
+- Mr. Barret.
+- Leave my house!
+
+694
+00:50:03,847 --> 00:50:05,326
+Or I will have you thrown out.
+
+695
+00:50:05,967 --> 00:50:06,956
+Mrs. Barret.
+
+696
+00:50:25,167 --> 00:50:26,202
+Arthur.
+
+697
+00:50:27,087 --> 00:50:28,566
+Try not to worry...
+
+698
+00:50:30,087 --> 00:50:31,156
+I will deal with this.
+
+699
+00:50:34,727 --> 00:50:36,957
+Maybe I should talk to Roger
+try to reason with him.
+
+700
+00:50:37,047 --> 00:50:39,038
+That would be useless.
+
+701
+00:50:40,847 --> 00:50:42,121
+He's in love with you.
+
+702
+00:50:45,727 --> 00:50:48,764
+And he's threatening to expose us.
+
+703
+00:50:50,207 --> 00:50:53,483
+- That would destroy us.
+- It certainly would, and he knows it.
+
+704
+00:51:01,807 --> 00:51:02,876
+- <i>Hello?</i>
+- Hannibal...
+
+705
+00:51:04,407 --> 00:51:06,762
+our problem has gotten worse...
+
+706
+00:51:06,927 --> 00:51:10,283
+Martin was just here.
+He won't let go of it.
+
+707
+00:51:19,447 --> 00:51:21,438
+Did you know that Sam
+and Julia had a child?
+
+708
+00:51:24,607 --> 00:51:25,801
+I knew.
+
+709
+00:51:36,927 --> 00:51:37,962
+Father McKinnon!
+
+710
+00:51:39,687 --> 00:51:41,962
+- Mrs. Barret?
+- May I speak with you a moment?
+
+711
+00:51:42,247 --> 00:51:43,316
+Certainly.
+
+712
+00:51:44,567 --> 00:51:45,967
+Does your husband know you're here?
+
+713
+00:51:45,968 --> 00:51:48,202
+- Certainly not.
+- Then, why are you here?
+
+714
+00:51:48,407 --> 00:51:50,687
+Because I love him Father and
+I protect the ones I love.
+
+715
+00:51:50,688 --> 00:51:51,676
+I don't understand.
+
+716
+00:51:52,567 --> 00:51:53,647
+It should be quite obvious.
+
+717
+00:51:54,047 --> 00:51:55,927
+Arthur is one of the
+president's key advisors.
+
+718
+00:51:55,928 --> 00:51:59,396
+What if the press finds out that
+his brother is a Nazi sympathizer?
+
+719
+00:52:00,367 --> 00:52:02,756
+- I'm very worried about a scandal.
+- A Nazi sympathizer?
+
+720
+00:52:02,927 --> 00:52:06,886
+- I said my father was that?
+- You implied it.
+
+721
+00:52:07,127 --> 00:52:08,685
+Well, you have no need to worry...
+
+722
+00:52:08,727 --> 00:52:12,117
+money and sympathy are two very
+different things for my father.
+
+723
+00:52:12,407 --> 00:52:16,320
+He'd invest in the devil if he could
+reap his profits before Judgment Day.
+
+724
+00:52:16,367 --> 00:52:18,835
+Believe me your husband's
+reputation is very secure.
+
+725
+00:52:20,927 --> 00:52:23,167
+The other night you said things
+didn't go as planned...
+
+726
+00:52:23,207 --> 00:52:26,722
+- Now is how you'd hoped they'd go?
+- I apologize for the other night...
+
+727
+00:52:26,927 --> 00:52:28,076
+Father Michael.
+
+728
+00:52:31,167 --> 00:52:34,125
+- I'm sorry, may we discuss...
+- How thoughtless of me.
+
+729
+00:52:34,487 --> 00:52:36,637
+This is one of the distressing aspects...
+
+730
+00:52:36,807 --> 00:52:38,763
+of our obligations to the poor.
+
+731
+00:52:40,127 --> 00:52:41,242
+Did you know them?
+
+732
+00:52:41,527 --> 00:52:43,279
+No, it's a paupers cemetery.
+
+733
+00:52:43,527 --> 00:52:45,757
+Most of the people who find
+their way in here...
+
+734
+00:52:45,887 --> 00:52:48,640
+don't have even names to leave
+behind them, much less friends.
+
+735
+00:52:49,727 --> 00:52:53,242
+Unless you care to be
+a friend to one of them.
+
+736
+00:52:56,447 --> 00:52:58,403
+- Yes. If I may.
+- Certainly.
+
+737
+00:53:00,487 --> 00:53:03,001
+Does their anonymity make your
+job more bearable, Father?
+
+738
+00:53:03,167 --> 00:53:06,796
+I honestly don't know. I'm not sure
+if it's a blessing or a curse.
+
+739
+00:53:06,927 --> 00:53:07,996
+How so?
+
+740
+00:53:08,287 --> 00:53:12,439
+I can never forget a face that
+I've put into one of these graves...
+
+741
+00:53:13,287 --> 00:53:16,597
+but I find I can easily forget those.
+
+742
+00:53:17,007 --> 00:53:19,805
+Makes me wonder if Our Lord
+has a selective memory also?
+
+743
+00:53:20,167 --> 00:53:21,233
+You know what he said...
+
+744
+00:53:21,234 --> 00:53:23,754
+it's easier for a camel to pass
+through the eye of a needle...
+
+745
+00:53:23,836 --> 00:53:25,316
+than for a rich man to get to heaven.
+
+746
+00:53:25,317 --> 00:53:27,397
+I'm not sure it's even that
+complicated in my case.
+
+747
+00:53:28,527 --> 00:53:30,995
+I think it's just God's way
+of keeping me humble.
+
+748
+00:53:31,647 --> 00:53:33,717
+What do you think?
+Is it working?
+
+749
+00:53:34,767 --> 00:53:37,042
+If you have to ask,
+you already know the answer.
+
+750
+00:53:37,567 --> 00:53:39,000
+Father, excuse me.
+
+751
+00:53:39,527 --> 00:53:41,563
+- Thank you, Andre.
+- Yes, Father.
+
+752
+00:54:16,047 --> 00:54:17,400
+Look out Mrs. Barret!
+
+753
+00:54:20,847 --> 00:54:23,156
+Andre, get Father Dryer.
+Quickly!
+
+754
+00:54:42,087 --> 00:54:43,156
+Arthur.
+
+755
+00:54:46,247 --> 00:54:47,521
+It's not good.
+
+756
+00:54:47,927 --> 00:54:50,760
+She's suffered a massive hemorrhage.
+She's lost a lot of blood.
+
+757
+00:54:51,647 --> 00:54:53,285
+- And the baby?
+- No...
+
+758
+00:54:53,847 --> 00:54:55,439
+The baby was crushed in the fall.
+
+759
+00:54:56,847 --> 00:54:58,439
+Good news is...
+
+760
+00:54:58,687 --> 00:55:01,997
+She's come through the hardest part.
+Tonight will tell the whole story.
+
+761
+00:55:02,647 --> 00:55:04,638
+- Does she know about the baby?
+- Yes.
+
+762
+00:55:06,007 --> 00:55:07,076
+Well, finally.
+
+763
+00:55:07,287 --> 00:55:10,279
+She's been asking for a priest.
+You're Father McKinnon?
+
+764
+00:55:11,487 --> 00:55:14,285
+- Why no...
+- That would be me.
+
+765
+00:55:14,487 --> 00:55:18,036
+She's been asking for you
+ever since she came to.
+
+766
+00:55:18,527 --> 00:55:21,407
+I don't think she'll allow herself
+to rest until she's spoken with you.
+
+767
+00:55:22,407 --> 00:55:25,763
+- Is the baby alright?
+- No, our baby is lost.
+
+768
+00:55:35,087 --> 00:55:36,884
+None of this would have happened...
+
+769
+00:55:37,287 --> 00:55:40,836
+if you had not come here. She had
+no business going to that cemetery.
+
+770
+00:55:40,927 --> 00:55:43,487
+- It was an accident.
+- No business!
+
+771
+00:55:44,687 --> 00:55:45,881
+Damn you!
+
+772
+00:56:18,287 --> 00:56:19,356
+Mrs. Barret.
+
+773
+00:56:20,687 --> 00:56:22,598
+It's Father Michael.
+I'm here.
+
+774
+00:56:32,647 --> 00:56:35,957
+- It's my fault.
+- No, it was an accident.
+
+775
+00:56:37,007 --> 00:56:38,440
+Father, listen...
+
+776
+00:56:39,407 --> 00:56:41,079
+it was all my fault.
+
+777
+00:56:41,607 --> 00:56:43,359
+What are you talking about?
+
+778
+00:56:46,567 --> 00:56:47,886
+What do you mean?
+
+779
+00:56:50,567 --> 00:56:52,603
+I fear he did it.
+
+780
+00:56:53,287 --> 00:56:54,402
+Did what?
+
+781
+00:56:55,447 --> 00:56:56,721
+Murder.
+
+782
+00:57:03,967 --> 00:57:07,084
+- What are we looking for, Father?
+- I don't know exactly.
+
+783
+00:57:07,247 --> 00:57:09,397
+By the looks of him,
+he ain't been dead long.
+
+784
+00:57:09,527 --> 00:57:11,087
+- Where'd he come from?
+- Your office.
+
+785
+00:57:11,167 --> 00:57:13,078
+He was in the room where the
+paupers are put.
+
+786
+00:57:13,207 --> 00:57:14,435
+This one ain't ours.
+
+787
+00:57:14,687 --> 00:57:18,282
+My associate's been out all week,
+I've been pulling both shifts...
+
+788
+00:57:18,367 --> 00:57:20,087
+- I'd have seen him.
+- I don't understand.
+
+789
+00:57:20,127 --> 00:57:22,960
+We found him in the room in this
+box toe tagged, "nameless".
+
+790
+00:57:23,127 --> 00:57:24,845
+No, this ain't state built.
+
+791
+00:57:25,447 --> 00:57:27,517
+We stencil "coroner" on our coffins.
+
+792
+00:57:27,647 --> 00:57:29,807
+Keeps the employees from stealing
+them for fire wood.
+
+793
+00:57:29,808 --> 00:57:31,365
+Are you absolutely sure about this?
+
+794
+00:57:31,567 --> 00:57:34,161
+Yeah. I'd remember this one
+if I did him alright.
+
+795
+00:57:34,287 --> 00:57:36,517
+Just look. His tongue is
+still all swelled up.
+
+796
+00:57:36,607 --> 00:57:37,596
+What does that mean?
+
+797
+00:57:37,687 --> 00:57:43,045
+It means that unless
+this gentleman ate rat poison...
+
+798
+00:57:43,367 --> 00:57:44,487
+the poor devil was murdered.
+
+799
+00:58:05,487 --> 00:58:07,842
+Arthur wants to see you
+before he leaves this morning.
+
+800
+00:58:07,967 --> 00:58:11,357
+Tell him I'm not feeling well.
+Just tell him.
+
+801
+00:58:20,127 --> 00:58:21,321
+I'm sorry, Arthur.
+
+802
+00:58:25,007 --> 00:58:27,043
+How long can this go on?
+
+803
+00:58:32,207 --> 00:58:33,242
+No.
+
+804
+00:58:34,767 --> 00:58:36,758
+She cannot hide from me any longer.
+
+805
+00:58:39,007 --> 00:58:40,486
+How dare you barge in here?
+
+806
+00:58:41,127 --> 00:58:42,196
+Eleanor...
+
+807
+00:58:43,247 --> 00:58:45,207
+has it come to this,
+that you're hiding from me?
+
+808
+00:58:46,447 --> 00:58:48,563
+Are you frightened of me?
+
+809
+00:58:49,167 --> 00:58:51,920
+- Should I be, Arthur?
+- How can you say such a thing?
+
+810
+00:58:51,967 --> 00:58:56,358
+Do you think I'm angry with you
+for going to see that priest?
+
+811
+00:58:56,567 --> 00:58:59,798
+I don't know anything anymore,
+especially about you.
+
+812
+00:59:03,527 --> 00:59:05,085
+My God. You think I did it?
+
+813
+00:59:09,007 --> 00:59:10,042
+Did you?
+
+814
+00:59:12,687 --> 00:59:14,086
+Did you kill him?
+
+815
+00:59:14,887 --> 00:59:16,206
+Damn you for asking.
+
+816
+00:59:24,647 --> 00:59:26,365
+I won't be controlled.
+You understand?
+
+817
+00:59:26,967 --> 00:59:29,327
+I will leave you if you don't tell me
+the truth right now!
+
+818
+00:59:29,927 --> 00:59:31,042
+Leave me?
+
+819
+00:59:32,887 --> 00:59:35,082
+Where will you go?
+You have no property of your own.
+
+820
+00:59:35,207 --> 00:59:36,435
+I'll find a place.
+
+821
+00:59:36,687 --> 00:59:39,440
+Will this new home match the beauty
+of the home we've created here?
+
+822
+00:59:39,527 --> 00:59:40,596
+It doesn't matter.
+
+823
+00:59:40,807 --> 00:59:42,687
+- Will this new home have servants?
+- Stop it!
+
+824
+00:59:42,688 --> 00:59:45,724
+Who will draw your bath with
+its bubbles from Paris?
+
+825
+00:59:45,847 --> 00:59:47,678
+Speaking of Paris, will you travel?
+
+826
+00:59:47,767 --> 00:59:49,644
+- Don't push me, Arthur!
+- Pushing is it?
+
+827
+00:59:49,727 --> 00:59:51,957
+Pushing to ask you how you
+will make your living?
+
+828
+00:59:52,087 --> 00:59:55,045
+- I'll write, of course.
+- We both know what women earn.
+
+829
+00:59:56,287 --> 00:59:59,085
+Especially female intellectuals...
+
+830
+00:59:59,367 --> 01:00:01,756
+concerned with women's rights.
+
+831
+01:00:01,847 --> 01:00:04,077
+You'll write, but you'll
+do laundry to survive!
+
+832
+01:00:04,127 --> 01:00:06,595
+Fine. I'd rather starve
+than sell my soul!
+
+833
+01:00:10,567 --> 01:00:12,080
+Now that you mention it...
+
+834
+01:00:13,487 --> 01:00:15,523
+Where will you go to worship God?
+
+835
+01:00:15,647 --> 01:00:19,799
+You might own Father Dryer, but you
+don't own me. I'll find another Church.
+
+836
+01:00:20,127 --> 01:00:21,879
+Not as a catholic you won't.
+
+837
+01:00:23,767 --> 01:00:26,884
+Don't you understand? I will
+never ask the Church for a divorce.
+
+838
+01:00:27,087 --> 01:00:30,636
+I will never give you up.
+How can you think that?
+
+839
+01:00:46,967 --> 01:00:48,400
+Stay with me, Eleanor.
+
+840
+01:00:54,327 --> 01:00:56,761
+In your heart of hearts
+you know that I am innocent.
+
+841
+01:00:58,807 --> 01:01:02,117
+All I've ever done in the name
+of sin was to love you...
+
+842
+01:01:04,807 --> 01:01:05,796
+more than God.
+
+843
+01:01:27,207 --> 01:01:28,322
+Alright, Arthur.
+
+844
+01:01:30,847 --> 01:01:32,724
+- You won't leave me?
+- No.
+
+845
+01:01:35,927 --> 01:01:38,122
+I swear, Eleanor,
+you'll believe in me again.
+
+846
+01:01:40,807 --> 01:01:42,160
+I believe, Arthur...
+
+847
+01:01:44,327 --> 01:01:46,921
+I believe whatever
+happened to our marriage...
+
+848
+01:01:47,407 --> 01:01:51,320
+and to Roger Martin, was
+probably my fault to begin with.
+
+849
+01:01:57,687 --> 01:02:01,441
+<i>It did not occur to Arthur that he</i>
+<i>should try to relieve her guilt...</i>
+
+850
+01:02:01,567 --> 01:02:05,082
+<i>or offer to share the blame</i>
+<i>nor did it occur to Eleanor...</i>
+
+851
+01:02:05,207 --> 01:02:07,647
+<i>that she had just committed</i>
+<i>the same mistake as all women...</i>
+
+852
+01:02:07,648 --> 01:02:09,199
+<i>since the beginning of time.</i>
+
+853
+01:02:09,407 --> 01:02:11,967
+<i>She had not only forgiven a man his ways...</i>
+
+854
+01:02:12,007 --> 01:02:14,840
+<i>but had taken responsibility</i>
+<i>for them as well.</i>
+
+855
+01:02:15,047 --> 01:02:19,279
+<i>She closed her eyes</i>
+<i>and said goodbye to her female God.</i>
+
+856
+01:02:32,047 --> 01:02:33,195
+You did what?
+
+857
+01:02:33,196 --> 01:02:35,476
+I asked the police to talk
+to Arthur Barret, that's all.
+
+858
+01:02:35,600 --> 01:02:38,320
+I thought you should know in the
+event that he mentioned it to you.
+
+859
+01:02:38,411 --> 01:02:40,651
+Forgive me, Father Michael,
+for what I am about to say.
+
+860
+01:02:41,207 --> 01:02:45,598
+Are you out of your mind?
+You are standing there saying...
+
+861
+01:02:45,767 --> 01:02:49,476
+that you have involved one of the
+most influential Catholics in Boston...
+
+862
+01:02:49,647 --> 01:02:51,717
+not to mention one of our parishioners...
+
+863
+01:02:51,767 --> 01:02:54,520
+in a murder investigation
+without provocation?
+
+864
+01:02:54,727 --> 01:02:59,562
+- The police say there are suspicious...
+- I see, the police tell you.
+
+865
+01:03:00,047 --> 01:03:02,927
+Have you taken a personal interest
+in the persecution of Arthur Barret?
+
+866
+01:03:02,928 --> 01:03:03,676
+Of course not.
+
+867
+01:03:05,047 --> 01:03:06,116
+Come with me.
+
+868
+01:03:08,807 --> 01:03:11,685
+Do you know who bought
+his headstone, his plot?
+
+869
+01:03:11,767 --> 01:03:13,598
+Arthur Barret.
+And that coffin?
+
+870
+01:03:13,887 --> 01:03:17,118
+- Why would he do this for a stranger?
+- Because he is a generous man.
+
+871
+01:03:17,327 --> 01:03:19,636
+Which is why he has also
+paying for the funeral...
+
+872
+01:03:19,687 --> 01:03:21,996
+and for the proper
+preparation of the body...
+
+873
+01:03:22,287 --> 01:03:25,165
+and for the new suit that
+this poor stinking corpse...
+
+874
+01:03:25,287 --> 01:03:28,324
+- that you dug up is now wearing.
+- Well, he's a hell of a guy, sir.
+
+875
+01:03:28,647 --> 01:03:31,525
+How astute of you, Father Michael.
+Now I ask you...
+
+876
+01:03:31,687 --> 01:03:34,007
+- are these the acts of a murderer?
+- I don't know yet...
+
+877
+01:03:34,008 --> 01:03:37,008
+- but in fairness to Roger Martin...
+- Whatever she told you that night...
+
+878
+01:03:37,009 --> 01:03:39,489
+- you will treat like a confession.
+- It wasn't a confession.
+
+879
+01:03:39,532 --> 01:03:41,132
+And if you pursue this matter further...
+
+880
+01:03:41,133 --> 01:03:43,880
+I will bring charges against you
+for the violation of that trust...
+
+881
+01:03:43,927 --> 01:03:46,760
+and I will have you removed from
+Arthur Barret's congregation.
+
+882
+01:03:47,207 --> 01:03:49,767
+- Arthur Barret's congregation?
+- Yes. His more than yours.
+
+883
+01:03:49,887 --> 01:03:52,526
+- Do I make myself clear?
+- Perfectly, sir.
+
+884
+01:03:53,847 --> 01:03:57,522
+There's another piece of information
+which may come to light.
+
+885
+01:03:57,807 --> 01:03:58,922
+Well, let me guess...
+
+886
+01:03:59,127 --> 01:04:02,005
+you're a protestant heretic
+sent here to ruin my life.
+
+887
+01:04:03,927 --> 01:04:05,997
+Worse, I'm Arthur Barret's nephew.
+
+888
+01:04:16,607 --> 01:04:18,563
+- Mrs. Barret.
+- Good afternoon, Father.
+
+889
+01:04:18,647 --> 01:04:21,798
+- I'm sorry I'm late.
+- I'm surprised you're here at all.
+
+890
+01:04:22,447 --> 01:04:25,359
+Arthur left for Germany last week.
+I've had a million things to do.
+
+891
+01:04:26,567 --> 01:04:30,116
+You've heard by now, Roger Martin's
+death has been labeled a suicide.
+
+892
+01:04:30,687 --> 01:04:32,200
+- Yes.
+- Tell me...
+
+893
+01:04:32,367 --> 01:04:35,165
+that night at the hospital, were you
+offering me your confession?
+
+894
+01:04:35,567 --> 01:04:38,127
+I think it was a bad dream.
+I was delirious.
+
+895
+01:04:38,527 --> 01:04:40,040
+Delirious enough to tell the truth?
+
+896
+01:04:42,407 --> 01:04:44,687
+How can you tolerate that?
+She's obviously Arthur's spy.
+
+897
+01:04:44,767 --> 01:04:46,325
+Syril is more than a spy.
+
+898
+01:04:46,487 --> 01:04:49,126
+She was a ragged street urchin.
+Your grandmother took her in...
+
+899
+01:04:49,167 --> 01:04:51,367
+and educated and refined her.
+She helped raise Arthur.
+
+900
+01:04:52,967 --> 01:04:56,357
+- The Barrets made her a somebody.
+- In a word: yes.
+
+901
+01:04:56,487 --> 01:04:59,365
+And she's protected our privileges
+zealously ever since.
+
+902
+01:04:59,687 --> 01:05:02,487
+Can't say I blame her, she knows
+what it's like not to have anything.
+
+903
+01:05:02,488 --> 01:05:04,561
+It's strange that my father
+never mentioned her.
+
+904
+01:05:05,247 --> 01:05:07,363
+- Your father was in love with her.
+- What?
+
+905
+01:05:07,567 --> 01:05:10,445
+Of course Sam wouldn't marry her.
+You know the Barret way.
+
+906
+01:05:10,647 --> 01:05:13,445
+So instead, he ran off with
+Arthur's fiancée.
+
+907
+01:05:13,847 --> 01:05:15,326
+Julia McKinnon.
+
+908
+01:05:16,687 --> 01:05:19,918
+- My mother was engaged to Arthur?
+- Yes.
+
+909
+01:05:20,487 --> 01:05:23,445
+The brothers had a terrible fight
+and parted ways forever.
+
+910
+01:05:25,327 --> 01:05:27,602
+But for Syril and Arthur
+a partnership was formed.
+
+911
+01:05:28,167 --> 01:05:30,044
+They protect each other to this very day.
+
+912
+01:05:30,287 --> 01:05:32,407
+So you've known all along
+who you were dealing with.
+
+913
+01:05:33,127 --> 01:05:36,085
+- That makes sense.
+- Nothing makes sense anymore.
+
+914
+01:05:37,887 --> 01:05:39,605
+I've come to you on faith.
+
+915
+01:05:47,767 --> 01:05:49,485
+- Do you like horses?
+- Yes.
+
+916
+01:05:51,047 --> 01:05:52,321
+I'm well enough to ride again.
+
+917
+01:05:52,447 --> 01:05:55,803
+I usually take my exercise by
+the old mill pond, do you know it?
+
+918
+01:05:57,367 --> 01:05:58,482
+I do, yes.
+
+919
+01:06:00,127 --> 01:06:03,164
+Was it naive to believe that I could
+contend with a man such as Arthur?
+
+920
+01:06:03,527 --> 01:06:06,997
+- With Arthur no, his power yes.
+- How do you separate them?
+
+921
+01:06:07,207 --> 01:06:11,166
+I don't know. But it's predictable
+that one should ask the question.
+
+922
+01:06:17,967 --> 01:06:20,487
+Did you know it's possible for
+someone who's reached heaven...
+
+923
+01:06:20,488 --> 01:06:22,128
+to fall back through the eye of a needle.
+
+924
+01:06:26,327 --> 01:06:27,555
+I do now.
+
+925
+01:07:11,167 --> 01:07:13,806
+- It's such a beautiful day.
+- Indeed it is.
+
+926
+01:07:15,207 --> 01:07:17,721
+Do you think Roger Martin knows
+it's a beautiful day too?
+
+927
+01:07:18,407 --> 01:07:19,886
+Well, you don't waste much time.
+
+928
+01:07:20,967 --> 01:07:23,567
+I assume you've come all the way
+out here to hear my confession.
+
+929
+01:07:23,568 --> 01:07:24,761
+You assumed wrong.
+
+930
+01:07:25,847 --> 01:07:28,645
+I've come out here
+to be your friend. Really.
+
+931
+01:07:39,127 --> 01:07:41,482
+He was more than an acquaintance.
+
+932
+01:07:43,327 --> 01:07:46,319
+- Are you saying you had an affair?
+- No.
+
+933
+01:07:47,407 --> 01:07:52,925
+Arthur can't have children.
+So we hired Mr. Martin as a surrogate.
+
+934
+01:07:54,407 --> 01:07:57,922
+You mean that he and you...?
+
+935
+01:07:58,447 --> 01:07:59,960
+More than once, I'm afraid.
+
+936
+01:08:00,887 --> 01:08:03,879
+But finally we were successful
+and our business was finished.
+
+937
+01:08:04,367 --> 01:08:05,356
+Business?
+
+938
+01:08:06,447 --> 01:08:09,962
+- Does that term offend you?
+- I don't know yet.
+
+939
+01:08:10,247 --> 01:08:11,316
+Go on.
+
+940
+01:08:12,887 --> 01:08:14,036
+Well, that's it.
+
+941
+01:08:15,567 --> 01:08:17,080
+I became pregnant, and...
+
+942
+01:08:18,887 --> 01:08:20,764
+Roger thought that he fell in love with me.
+
+943
+01:08:20,807 --> 01:08:23,799
+He wouldn't quit.
+He threatened to expose Arthur...
+
+944
+01:08:24,127 --> 01:08:27,244
+- and claim the baby.
+- So Arthur had to ki...
+
+945
+01:08:28,007 --> 01:08:29,326
+I'm sorry.
+
+946
+01:08:30,647 --> 01:08:33,081
+- That came out all wrong.
+- I just need to know why.
+
+947
+01:08:34,007 --> 01:08:37,158
+- Why would he have to kill him?
+- It's you, Eleanor.
+
+948
+01:08:38,687 --> 01:08:42,885
+You're the one person in the world
+he respects enough to fear.
+
+949
+01:08:44,847 --> 01:08:46,644
+Love's enough to kill for.
+
+950
+01:08:47,327 --> 01:08:49,443
+Why?
+What gives me this power?
+
+951
+01:08:51,487 --> 01:08:53,205
+Forgive me. I have to go.
+
+952
+01:08:53,247 --> 01:08:56,842
+Where are you going?
+You can't leave me hanging like this.
+
+953
+01:08:57,047 --> 01:09:00,596
+I'm so sorry but I do have a job,
+or rather a vocation.
+
+954
+01:09:00,967 --> 01:09:02,844
+I'm scheduled to hear confessions.
+
+955
+01:09:03,967 --> 01:09:07,846
+But I have to admit nothing will top this.
+
+956
+01:09:22,367 --> 01:09:24,676
+- Hello?
+<i>- Hello Michael.</i>
+
+957
+01:09:25,087 --> 01:09:27,999
+<i>- Is it a bad time?</i>
+- Is this a bad time?
+
+958
+01:09:29,607 --> 01:09:30,835
+Who is this?
+
+959
+01:09:31,567 --> 01:09:34,320
+This is Eleanor.
+You left me hanging today...
+
+960
+01:09:34,527 --> 01:09:37,519
+I figured if you cost me sleep
+I could at least pay you back.
+
+961
+01:09:38,647 --> 01:09:41,400
+Considered yourself paid in full.
+
+962
+01:09:43,607 --> 01:09:45,727
+Why do I get the feeling
+you're not all caught up...
+
+963
+01:09:45,728 --> 01:09:47,046
+in the ritual of religion?
+
+964
+01:09:47,167 --> 01:09:49,647
+You were never once judgmental
+as I was telling you my story.
+
+965
+01:09:49,687 --> 01:09:52,520
+You mean like a good priest would have?
+
+966
+01:09:52,687 --> 01:09:54,803
+<i>Yes, exactly like that.</i>
+
+967
+01:09:55,407 --> 01:09:58,160
+Well, because...
+
+968
+01:09:58,447 --> 01:10:01,041
+<i>my God does not live exclusively</i>
+<i>in the Church.</i>
+
+969
+01:10:01,167 --> 01:10:02,646
+<i>You know, he goes fishing.</i>
+
+970
+01:10:02,927 --> 01:10:04,804
+<i>He has the occasional headache.</i>
+
+971
+01:10:04,927 --> 01:10:06,201
+He stubs his toe sometimes.
+
+972
+01:10:06,327 --> 01:10:10,525
+But I don't think that
+He blames us for being human.
+
+973
+01:10:11,847 --> 01:10:13,200
+Then why a priest?
+
+974
+01:10:14,327 --> 01:10:16,966
+Because my father couldn't buy the company.
+
+975
+01:10:23,327 --> 01:10:24,999
+My God used to be a she.
+
+976
+01:10:25,927 --> 01:10:29,636
+Used to be? Right.
+And was she pretty?
+
+977
+01:10:31,087 --> 01:10:32,122
+I don't know...
+
+978
+01:10:32,487 --> 01:10:35,206
+but it is predictable that
+you would ask that question.
+
+979
+01:10:35,727 --> 01:10:36,796
+"Touché".
+
+980
+01:10:41,127 --> 01:10:44,563
+So out with it Michael, what gives
+with this power over Arthur?
+
+981
+01:10:46,567 --> 01:10:48,558
+I got to go. I'm sorry.
+Bye.
+
+982
+01:10:50,727 --> 01:10:54,083
+Eleanor, are you awake?
+
+983
+01:11:13,287 --> 01:11:17,883
+<i>Splendid. I'm wide awake</i>
+<i>and there was nothing to do.</i>
+
+984
+01:11:19,447 --> 01:11:21,517
+<i>It was going to be a very long night.</i>
+
+985
+01:11:30,607 --> 01:11:34,839
+- Has she gone to him everyday?
+- Yes.
+
+986
+01:11:37,007 --> 01:11:38,406
+Is she with him now?
+
+987
+01:11:38,887 --> 01:11:40,115
+I believe so.
+
+988
+01:11:52,007 --> 01:11:54,157
+- Are they lovers?
+- No.
+
+989
+01:11:55,727 --> 01:11:58,287
+But I predict if this
+continues they will be.
+
+990
+01:12:05,647 --> 01:12:08,445
+I lost her.
+Just like Julia.
+
+991
+01:12:08,567 --> 01:12:11,559
+Damn it, Syril.
+Tell me what to do.
+
+992
+01:12:13,407 --> 01:12:15,238
+Decide what you want.
+
+993
+01:12:16,807 --> 01:12:18,035
+And live with that.
+
+994
+01:12:19,887 --> 01:12:21,798
+I want Eleanor...
+
+995
+01:12:24,647 --> 01:12:26,638
+but I want a child too.
+
+996
+01:12:27,327 --> 01:12:28,885
+Then they should be lovers.
+
+997
+01:12:31,527 --> 01:12:35,202
+Finish it, Arthur.
+Allow her to give birth to this baby.
+
+998
+01:12:35,327 --> 01:12:36,396
+Your baby.
+
+999
+01:12:37,167 --> 01:12:39,442
+Isn't what all of this was
+about in the first place?
+
+1000
+01:12:40,167 --> 01:12:42,806
+I can't remember what
+this was about anymore.
+
+1001
+01:12:44,607 --> 01:12:46,643
+But this does change things now.
+
+1002
+01:12:48,607 --> 01:12:49,676
+And you know it.
+
+1003
+01:12:50,407 --> 01:12:51,726
+But for the better.
+
+1004
+01:12:53,807 --> 01:12:56,605
+- Now a true Barret will be born.
+- I can't.
+
+1005
+01:12:58,687 --> 01:13:02,316
+I saw how happy you were when
+Eleanor was carrying that child.
+
+1006
+01:13:04,447 --> 01:13:06,881
+The baby will bring you
+back together again.
+
+1007
+01:13:07,527 --> 01:13:11,315
+- All she needs is a push.
+- You have pushed enough.
+
+1008
+01:13:18,007 --> 01:13:20,521
+Now, get out.
+
+1009
+01:13:27,447 --> 01:13:28,846
+Don't worry, Arthur.
+
+1010
+01:13:53,767 --> 01:13:57,043
+I can't stay very long, Arthur's home.
+
+1011
+01:13:59,407 --> 01:14:00,999
+Was his trip successful?
+
+1012
+01:14:04,567 --> 01:14:06,717
+No. He said he won't do
+business with the devil.
+
+1013
+01:14:13,207 --> 01:14:15,846
+Does that mean he's a man
+of good conscience again?
+
+1014
+01:14:18,967 --> 01:14:20,366
+Is that unbearable for you.
+
+1015
+01:14:22,807 --> 01:14:27,039
+Arthur and I are like strangers
+on a very large elevator.
+
+1016
+01:14:27,207 --> 01:14:31,120
+We hug the walls, trying to
+politely avoid each other.
+
+1017
+01:14:39,247 --> 01:14:41,317
+What do you suppose God does
+on a rainy day?
+
+1018
+01:14:42,927 --> 01:14:45,395
+I think She probably
+catches up on her reading.
+
+1019
+01:14:50,487 --> 01:14:51,761
+Thank you for that.
+
+1020
+01:15:57,807 --> 01:15:59,207
+- I'm sorry.
+- I'm sorry. It's me.
+
+1021
+01:16:01,607 --> 01:16:02,881
+No. It's both of us.
+
+1022
+01:16:10,807 --> 01:16:12,081
+What now, Eleanor?
+
+1023
+01:16:18,607 --> 01:16:20,086
+Now we say goodbye.
+
+1024
+01:16:30,367 --> 01:16:31,800
+Bless me, Father...
+
+1025
+01:16:34,407 --> 01:16:35,726
+I confess...
+
+1026
+01:16:37,047 --> 01:16:39,163
+to God Almighty...
+
+1027
+01:16:40,127 --> 01:16:41,560
+and to you Father...
+
+1028
+01:16:44,527 --> 01:16:46,165
+that I have sinned.
+
+1029
+01:17:18,007 --> 01:17:19,884
+Bless me, Father, for I have sinned.
+
+1030
+01:17:24,407 --> 01:17:28,719
+I said, Bless me Father, for I have sinned.
+
+1031
+01:17:29,327 --> 01:17:30,316
+Syril?
+
+1032
+01:17:31,647 --> 01:17:32,716
+What are you doing here?
+
+1033
+01:17:33,007 --> 01:17:35,680
+- I'm trying to confess.
+- You're not even a catholic.
+
+1034
+01:17:36,087 --> 01:17:38,396
+- All the more reason to confess.
+- Confess to what?
+
+1035
+01:17:39,327 --> 01:17:41,204
+A mutual friend of ours has sinned...
+
+1036
+01:17:42,567 --> 01:17:44,125
+and is about to sin again.
+
+1037
+01:17:44,247 --> 01:17:47,000
+- What?
+- You heard me, Father.
+
+1038
+01:17:48,407 --> 01:17:50,238
+- When?
+- Tonight.
+
+1039
+01:19:05,847 --> 01:19:07,075
+What was that?
+
+1040
+01:19:08,127 --> 01:19:11,722
+The storm might have blown
+a window open, I'll see to it.
+
+1041
+01:19:12,647 --> 01:19:13,966
+Syril, I can't do this.
+
+1042
+01:19:15,407 --> 01:19:18,205
+- What are you talking about?
+- I won't do this again.
+
+1043
+01:20:12,247 --> 01:20:15,717
+Mr. Harrington to see Mrs. Barret.
+I believe she's expecting me.
+
+1044
+01:20:16,407 --> 01:20:18,238
+You're late Mr. Harrington...
+
+1045
+01:20:18,487 --> 01:20:19,886
+possibly too late.
+
+1046
+01:20:51,207 --> 01:20:52,401
+Eleanor?
+
+1047
+01:21:07,167 --> 01:21:09,681
+Who is it?
+Michael, what...?
+
+1048
+01:21:23,407 --> 01:21:27,525
+- Eleanor, are you alright?
+- Yes.
+
+1049
+01:21:28,687 --> 01:21:30,200
+- Can I come in?
+- No...
+
+1050
+01:21:31,967 --> 01:21:33,559
+I'm not feeling well right now.
+
+1051
+01:21:36,127 --> 01:21:39,119
+But your young man is here.
+He's waiting downstairs.
+
+1052
+01:21:42,447 --> 01:21:47,601
+Send him my apologies
+and tell him we have to postpone.
+
+1053
+01:22:29,327 --> 01:22:32,239
+<i>Syril sat by the window</i>
+<i>in darkness all night...</i>
+
+1054
+01:22:32,527 --> 01:22:35,724
+<i>watching the elements,</i>
+<i>considering their source.</i>
+
+1055
+01:22:36,207 --> 01:22:38,801
+<i>Appreciating the power of their fury.</i>
+
+1056
+01:22:40,167 --> 01:22:41,441
+<i>More than once...</i>
+
+1057
+01:22:41,567 --> 01:22:43,364
+<i>as thunder rolled and lighting</i>
+
+1058
+01:22:43,447 --> 01:22:46,405
+<i>streaked across Arthur Barret's</i>
+<i>lawn, she smiled...</i>
+
+1059
+01:22:46,567 --> 01:22:49,639
+<i>and relished the similarities</i>
+<i>of secrets and storms.</i>
+
+1060
+01:22:49,847 --> 01:22:52,998
+<i>The bigger they are,</i>
+<i>the more dangerous they become.</i>
+
+1061
+01:23:24,247 --> 01:23:25,919
+- For you Father.
+- Andre.
+
+1062
+01:23:31,287 --> 01:23:34,085
+Would you take care of this?
+
+1063
+01:23:39,607 --> 01:23:43,282
+Rome? I don't understand.
+Why are you doing this to me.
+
+1064
+01:23:43,727 --> 01:23:46,002
+Because I've just had a chat
+with Eleanor Barret.
+
+1065
+01:23:46,567 --> 01:23:47,886
+Need I say more.
+
+1066
+01:23:49,167 --> 01:23:51,283
+She's waiting in the sanctuary
+to say goodbye.
+
+1067
+01:23:58,247 --> 01:23:59,805
+How kind you came to say goodbye.
+
+1068
+01:23:59,847 --> 01:24:01,883
+- It's best.
+- For you or for me?
+
+1069
+01:24:01,967 --> 01:24:03,767
+- For us both.
+- I didn't ask for your help.
+
+1070
+01:24:03,834 --> 01:24:05,794
+I thought what happened
+was strictly between us.
+
+1071
+01:24:05,795 --> 01:24:06,795
+- It was.
+- You think...
+
+1072
+01:24:06,796 --> 01:24:09,036
+I'll fall apart like Roger,
+unable to live without you?
+
+1073
+01:24:09,087 --> 01:24:11,078
+Not me, your child.
+
+1074
+01:24:12,007 --> 01:24:13,326
+I'm pregnant.
+
+1075
+01:24:13,887 --> 01:24:14,922
+What?
+
+1076
+01:24:15,927 --> 01:24:17,804
+I'm going to have a baby.
+
+1077
+01:24:18,687 --> 01:24:19,881
+It's your baby.
+
+1078
+01:24:24,447 --> 01:24:25,482
+My baby.
+
+1079
+01:24:30,367 --> 01:24:32,164
+But will it ever be Arthur's baby.
+
+1080
+01:24:37,767 --> 01:24:40,122
+Don't you see? Women don't
+own things. We don't know how.
+
+1081
+01:24:40,207 --> 01:24:42,487
+We're talking about a human soul.
+Nobody can own a baby.
+
+1082
+01:24:43,967 --> 01:24:46,007
+When a young woman out
+of wedlock gets pregnant...
+
+1083
+01:24:46,051 --> 01:24:48,291
+what's the first question
+her father asks her? Who's...
+
+1084
+01:24:48,292 --> 01:24:50,122
+- That's just a phrase.
+- It's the truth!
+
+1085
+01:24:51,087 --> 01:24:54,159
+How will you feel when you baptize
+your child in Arthur's arms?
+
+1086
+01:24:54,287 --> 01:24:58,405
+How's he going to feel when you lay
+his hand on his head at communion?
+
+1087
+01:24:58,607 --> 01:25:02,077
+Please, don't blame me for trying
+to protect him from that.
+
+1088
+01:25:04,527 --> 01:25:06,567
+You've fallen in love
+with him again, haven't you?
+
+1089
+01:25:08,007 --> 01:25:09,076
+Haven't you, Eleanor?
+
+1090
+01:25:11,047 --> 01:25:14,722
+I lost my way, but not my faith.
+
+1091
+01:25:14,847 --> 01:25:16,326
+Well aren't you the fortunate one.
+
+1092
+01:25:17,727 --> 01:25:20,844
+- You don't mean that.
+- Of course I mean it! Look at this!
+
+1093
+01:25:21,519 --> 01:25:23,879
+I threw away my father's life
+when I entered the Church...
+
+1094
+01:25:23,880 --> 01:25:25,920
+I compromised my judgment
+when I came to Boston...
+
+1095
+01:25:25,921 --> 01:25:28,121
+and threw away my conscience
+that night in your house.
+
+1096
+01:25:28,122 --> 01:25:29,842
+I will face the consequences with my God...
+
+1097
+01:25:29,887 --> 01:25:33,562
+but please, Eleanor,
+don't have me sent away.
+
+1098
+01:25:35,167 --> 01:25:36,395
+Let me face God here.
+
+1099
+01:25:36,487 --> 01:25:39,479
+Look, the baby will be yours and Arthur's.
+
+1100
+01:25:39,607 --> 01:25:41,120
+I will lay no claims upon it.
+
+1101
+01:25:41,167 --> 01:25:44,204
+- Don't make this child your sacrifice.
+- It won't be my sacrifice.
+
+1102
+01:25:44,727 --> 01:25:46,285
+But it might just be...
+
+1103
+01:25:46,527 --> 01:25:47,721
+my salvation.
+
+1104
+01:26:12,807 --> 01:26:14,286
+What about Father Dryer?
+
+1105
+01:26:15,567 --> 01:26:18,320
+He's a good priest but he runs a business.
+
+1106
+01:26:19,687 --> 01:26:22,565
+Just convince him it's my soul
+you're buying not his.
+
+1107
+01:26:25,847 --> 01:26:28,759
+You want to threaten him
+with Arthur's money?
+
+1108
+01:26:29,927 --> 01:26:30,996
+Yes.
+
+1109
+01:26:42,727 --> 01:26:44,479
+Very well, Father McKinnon.
+
+1110
+01:26:46,727 --> 01:26:48,160
+Together we stand.
+
+1111
+01:26:52,887 --> 01:26:55,003
+In our witness to our faith in God...
+
+1112
+01:26:55,127 --> 01:26:57,960
+and a commitment to the work
+of the Kingdom on Earth.
+
+1113
+01:26:58,007 --> 01:27:00,521
+Such a call can be frightening
+and daunting...
+
+1114
+01:27:00,647 --> 01:27:03,207
+<i>How does one tell the tale of healing?</i>
+
+1115
+01:27:04,127 --> 01:27:06,038
+<i>Or measure progress from within?</i>
+
+1116
+01:27:06,767 --> 01:27:10,077
+<i>True to his honor, Arthur kept</i>
+<i>his promise to Eleanor...</i>
+
+1117
+01:27:11,127 --> 01:27:13,960
+<i>as ever so patiently, day by day...</i>
+
+1118
+01:27:15,127 --> 01:27:17,846
+<i>he set out to mend her troubled heart.</i>
+
+1119
+01:27:23,087 --> 01:27:25,521
+<i>She in turn gave him access.</i>
+
+1120
+01:27:28,047 --> 01:27:30,322
+<i>Through it all one thing is certain...</i>
+
+1121
+01:27:30,687 --> 01:27:33,281
+<i>their focus never changed.</i>
+
+1122
+01:27:33,807 --> 01:27:37,561
+<i>For just as they thought a baby</i>
+<i>would make their lives complete...</i>
+
+1123
+01:27:37,727 --> 01:27:41,561
+<i>they now felt sure</i>
+<i>it would turn their lives around.</i>
+
+1124
+01:28:11,687 --> 01:28:12,967
+Father Michael!
+Father Michael!
+
+1125
+01:28:17,247 --> 01:28:19,920
+- Come please.
+- What is it, Andre?
+
+1126
+01:28:23,847 --> 01:28:25,166
+- Hello?
+- <i>Who is this?</i>
+
+1127
+01:28:25,407 --> 01:28:26,681
+Father McKinnon.
+Who is this?
+
+1128
+01:28:27,007 --> 01:28:29,237
+Dr. Jenkins.
+Where is Father Dryer?
+
+1129
+01:28:29,367 --> 01:28:31,247
+He's out of town,
+at a conference. What is it?
+
+1130
+01:28:31,327 --> 01:28:34,956
+I'm at the Barret estate,
+Mrs. Barret is in a very bad way.
+
+1131
+01:28:35,167 --> 01:28:38,637
+- It's barely been 8 months.
+- She asked for Father Dryer.
+
+1132
+01:28:38,967 --> 01:28:41,117
+<i>You best come quickly in his stead Father.</i>
+
+1133
+01:28:52,927 --> 01:28:55,646
+- What's happening?
+- She woke up in great pain...
+
+1134
+01:28:55,807 --> 01:28:59,163
+she thought her water broke.
+It was blood, another hemorrhage.
+
+1135
+01:29:00,327 --> 01:29:02,966
+- And the baby?
+- So far, they're alive.
+
+1136
+01:29:03,287 --> 01:29:05,403
+- They?
+- Twins. That's the trouble.
+
+1137
+01:29:05,487 --> 01:29:08,718
+The uterus was damaged in a fall.
+The stress of two is too much.
+
+1138
+01:29:09,047 --> 01:29:10,480
+She might not make it.
+
+1139
+01:29:21,087 --> 01:29:22,361
+Eleanor.
+
+1140
+01:29:25,607 --> 01:29:27,598
+Which God do you bring me today?
+
+1141
+01:29:28,807 --> 01:29:30,206
+Which God would you like?
+
+1142
+01:29:30,927 --> 01:29:32,076
+Today...
+
+1143
+01:29:33,287 --> 01:29:36,359
+- I'd like the perfect One.
+- You shall have him.
+
+1144
+01:29:39,167 --> 01:29:41,681
+I'm sorry, Michael, I didn't want you to...
+
+1145
+01:29:42,327 --> 01:29:43,521
+Save your strength.
+
+1146
+01:29:50,247 --> 01:29:51,362
+What will you do?
+
+1147
+01:29:52,327 --> 01:29:53,362
+What?
+
+1148
+01:29:55,927 --> 01:29:59,317
+What will you do with
+the babies now that I'm dead?
+
+1149
+01:30:03,607 --> 01:30:04,676
+Doctor!
+
+1150
+01:30:06,607 --> 01:30:09,246
+Eleanor, can you hear me?
+
+1151
+01:30:13,287 --> 01:30:14,481
+She's unconscious.
+
+1152
+01:30:16,207 --> 01:30:18,562
+- Tell me what you want Arthur?
+- What?
+
+1153
+01:30:19,647 --> 01:30:21,046
+Oh for God's sake!
+
+1154
+01:30:24,047 --> 01:30:26,322
+She's gone and there's nothing I can do.
+
+1155
+01:30:28,047 --> 01:30:30,481
+Tell me what to do about the babies?
+
+1156
+01:30:32,887 --> 01:30:36,436
+She's gone!
+Now. I need to know now!
+
+1157
+01:30:39,647 --> 01:30:40,966
+Eleanor! Wake up.
+
+1158
+01:30:42,167 --> 01:30:44,283
+Tell me what to do.
+I can't do this without you.
+
+1159
+01:30:44,447 --> 01:30:47,325
+- Arthur, the babies need your help.
+- Do it.
+
+1160
+01:30:52,887 --> 01:30:54,161
+Tell him. Tell him.
+
+1161
+01:30:57,847 --> 01:31:00,805
+- Doctor, just do it.
+- Stay close father...
+
+1162
+01:31:01,167 --> 01:31:02,282
+I'll need your help.
+
+1163
+01:31:15,967 --> 01:31:17,286
+Aspirate him Father.
+
+1164
+01:31:18,967 --> 01:31:21,435
+- How?
+- Set him down quickly.
+
+1165
+01:31:22,127 --> 01:31:24,800
+Take your little finger and
+scoop out his mouth.
+
+1166
+01:31:27,007 --> 01:31:29,646
+- He's not breathing.
+- Tilt his head back.
+
+1167
+01:31:29,807 --> 01:31:33,083
+Breathe into his mouth.
+Don't blow too hard.
+
+1168
+01:31:41,847 --> 01:31:43,041
+That's it.
+
+1169
+01:31:49,767 --> 01:31:51,120
+Doctor this isn't working!
+
+1170
+01:31:51,647 --> 01:31:52,796
+It's not working?
+
+1171
+01:31:53,167 --> 01:31:55,283
+- Help him.
+- I'll take care of it.
+
+1172
+01:31:55,367 --> 01:31:57,597
+It's alright.
+It's alright.
+
+1173
+01:32:04,927 --> 01:32:06,121
+Well Arthur...
+
+1174
+01:32:07,287 --> 01:32:08,720
+you have twin sons.
+
+1175
+01:32:28,047 --> 01:32:30,356
+Once again you have
+my deep condolences, Arthur.
+
+1176
+01:32:31,327 --> 01:32:32,646
+And my congratulations.
+
+1177
+01:32:33,367 --> 01:32:34,641
+She was a fine woman.
+
+1178
+01:32:35,647 --> 01:32:36,875
+Thank you, Harold.
+
+1179
+01:32:38,567 --> 01:32:39,920
+You've done a good thing here.
+
+1180
+01:32:41,407 --> 01:32:44,683
+As for you Father McKinnon, many thanks.
+
+1181
+01:32:51,167 --> 01:32:52,520
+I intend to come back for them.
+
+1182
+01:32:56,567 --> 01:32:57,795
+I will fight you.
+
+1183
+01:32:58,127 --> 01:33:01,722
+They're mine Arthur.
+Eleanor told Father Dryer.
+
+1184
+01:33:03,807 --> 01:33:05,399
+- He'll never admit that.
+- No...
+
+1185
+01:33:07,167 --> 01:33:08,486
+but Syril knows the truth.
+
+1186
+01:33:10,607 --> 01:33:12,563
+Tell him I was with her that night...
+
+1187
+01:33:13,807 --> 01:33:15,320
+that you allowed me to stay.
+
+1188
+01:33:17,927 --> 01:33:18,916
+Tell him.
+
+1189
+01:33:28,527 --> 01:33:30,961
+Is there nothing I can say?
+Is there nothing I can do?
+
+1190
+01:33:31,247 --> 01:33:34,398
+No. If you challenge me,
+I'll expose it all.
+
+1191
+01:33:38,647 --> 01:33:43,118
+- Michael, please.
+- There will be no negotiation.
+
+1192
+01:33:44,807 --> 01:33:48,516
+I'll go back to England after
+her funeral, I'll get a governess.
+
+1193
+01:33:49,567 --> 01:33:51,080
+They can stay with Syril until then.
+
+1194
+01:33:55,807 --> 01:33:58,082
+You bastard.
+You are just like him.
+
+1195
+01:34:53,247 --> 01:34:56,364
+<i>I had come to have my moment</i>
+<i>alone with Eleanor.</i>
+
+1196
+01:34:56,847 --> 01:34:57,882
+Arthur.
+
+1197
+01:34:58,807 --> 01:35:00,081
+We'll be alright.
+
+1198
+01:35:03,647 --> 01:35:06,445
+<i>I often wonder how different</i>
+<i>my life would be now...</i>
+
+1199
+01:35:06,647 --> 01:35:10,162
+<i>if I had made them aware</i>
+<i>of my presence a moment sooner.</i>
+
+1200
+01:35:12,007 --> 01:35:13,565
+Why did you do it, Syril?
+
+1201
+01:35:20,367 --> 01:35:22,483
+Why did you kill that young man?
+
+1202
+01:35:26,047 --> 01:35:27,082
+Arthur, no.
+
+1203
+01:35:27,127 --> 01:35:30,961
+Roger came to see Eleanor
+that night, didn't he?
+
+1204
+01:35:33,527 --> 01:35:36,724
+- No.
+- Didn't he?
+
+1205
+01:35:43,327 --> 01:35:44,362
+Yes.
+
+1206
+01:35:47,567 --> 01:35:49,000
+You were at the theater.
+
+1207
+01:35:50,647 --> 01:35:52,399
+He was going to destroy you.
+
+1208
+01:35:53,487 --> 01:35:56,160
+- I had to protect you.
+- Protect me?
+
+1209
+01:35:56,287 --> 01:35:58,926
+Yes. He was beside himself.
+
+1210
+01:35:59,607 --> 01:36:04,044
+He was screaming he'd expose you
+the next day. I lied.
+
+1211
+01:36:07,047 --> 01:36:09,481
+I told him she was in the bath and to wait.
+
+1212
+01:36:09,607 --> 01:36:11,279
+I gave him a drink of whiskey.
+
+1213
+01:36:12,767 --> 01:36:14,280
+Laced with arsenic?
+
+1214
+01:36:14,887 --> 01:36:18,004
+I did it for you. To save you.
+
+1215
+01:36:18,967 --> 01:36:20,036
+Save me?
+
+1216
+01:36:22,247 --> 01:36:23,919
+You have killed me.
+
+1217
+01:36:26,247 --> 01:36:27,680
+I have nothing now.
+
+1218
+01:36:31,927 --> 01:36:33,155
+Absolutely nothing.
+
+1219
+01:36:45,367 --> 01:36:47,597
+I love you like my own son.
+
+1220
+01:36:49,807 --> 01:36:51,206
+I know.
+
+1221
+01:36:54,047 --> 01:36:55,560
+Believe me, I know.
+
+1222
+01:37:01,727 --> 01:37:03,399
+Now give me...
+
+1223
+01:37:05,247 --> 01:37:07,807
+one last moment alone with my wife.
+
+1224
+01:37:24,487 --> 01:37:25,476
+I'll love forever.
+
+1225
+01:37:34,007 --> 01:37:35,725
+Arthur... sir...
+
+1226
+01:37:38,927 --> 01:37:41,760
+May I ask, what you just said to her?
+
+1227
+01:37:42,527 --> 01:37:44,279
+Please, I do so need to know.
+
+1228
+01:37:45,167 --> 01:37:46,236
+Why?
+
+1229
+01:37:47,127 --> 01:37:49,243
+Because she deserved so much...
+
+1230
+01:37:50,567 --> 01:37:52,398
+and because, too late...
+
+1231
+01:37:53,327 --> 01:37:55,238
+and to my eternal shame...
+
+1232
+01:37:56,527 --> 01:37:58,324
+I see how much you deserve.
+
+1233
+01:38:00,567 --> 01:38:01,920
+Please, tell me.
+
+1234
+01:38:05,727 --> 01:38:07,160
+Only the truth...
+
+1235
+01:38:10,687 --> 01:38:12,405
+that she would never be forgotten.
+
+1236
+01:38:17,287 --> 01:38:19,403
+I said there would be no negotiation...
+
+1237
+01:38:21,567 --> 01:38:24,365
+but if I may, I should like
+to make a bargain with you.
+
+1238
+01:38:26,567 --> 01:38:29,001
+Oh God, whose goodness is
+always to have mercy...
+
+1239
+01:38:29,087 --> 01:38:30,236
+and to spare...
+
+1240
+01:38:30,287 --> 01:38:33,996
+we humbly beseech Thee, that the
+soul of Thy servant, Eleanor...
+
+1241
+01:38:34,087 --> 01:38:37,875
+whom Thou hast this day
+commanded to depart this world...
+
+1242
+01:39:39,327 --> 01:39:40,646
+<i>I said goodbye to Eleanor...</i>
+
+1243
+01:39:41,607 --> 01:39:43,802
+<i>knowing that now she</i>
+<i>would always be with me...</i>
+
+1244
+01:39:46,247 --> 01:39:48,363
+<i>I would never forget her face.</i>
+
+1245
+01:40:21,487 --> 01:40:25,082
+You needn't feel guilty for this.
+The sun shines here too.
+
+1246
+01:40:26,287 --> 01:40:27,766
+I don't feel guilty Michael.
+
+1247
+01:40:31,407 --> 01:40:33,557
+She might have appreciated
+it more your way.
+
+1248
+01:40:33,647 --> 01:40:34,682
+Thank you.
+
+1249
+01:40:36,967 --> 01:40:38,923
+Eleanor once told me...
+
+1250
+01:40:41,687 --> 01:40:43,405
+that above all else...
+
+1251
+01:40:44,247 --> 01:40:49,367
+Shakespeare's sister would have been
+a humble, patient, forbearing soul.
+
+1252
+01:40:50,247 --> 01:40:52,203
+Even after the way she was denied.
+
+1253
+01:40:54,927 --> 01:40:58,044
+Especially because she was denied.
+
+1254
+01:41:33,327 --> 01:41:36,956
+<i>Every Sunday Arthur would take</i>
+<i>his place at that communion rail...</i>
+
+1255
+01:41:37,087 --> 01:41:40,762
+<i>and stand proudly hand in hand</i>
+<i>with his twin sons.</i>
+
+1256
+01:41:41,047 --> 01:41:43,117
+May God always bless you, Hannibal.
+
+1257
+01:41:45,247 --> 01:41:46,967
+<i>Then I would touch the head of the child...</i>
+
+1258
+01:41:47,007 --> 01:41:49,919
+<i>whose very first breath</i>
+<i>was drawn from my own.</i>
+
+1259
+01:41:50,247 --> 01:41:52,602
+May God always bless you, Michael.
+
+1260
+01:41:55,287 --> 01:41:56,925
+<i>He named him Michael.</i>
+
+1261
+01:41:58,007 --> 01:41:59,360
+<i>Imagine that.</i>
+
+1262
+01:42:10,047 --> 01:42:12,197
+<i>It does not escape my sense of irony...</i>
+
+1263
+01:42:12,287 --> 01:42:15,324
+<i>to admit that yet another woman's story...</i>
+
+1264
+01:42:15,407 --> 01:42:17,682
+<i>so clumsily told by a men...</i>
+
+1265
+01:42:17,847 --> 01:42:19,724
+<i>has ended tragically.</i>
+
+1266
+01:42:20,047 --> 01:42:23,642
+<i>Although the paths of our lives</i>
+<i>may turn unexpectedly...</i>
+
+1267
+01:42:23,807 --> 01:42:25,923
+<i>and end all too soon...</i>
+
+1268
+01:42:26,247 --> 01:42:28,647
+<i>I can only believe that the journey</i>
+<i>is never in vain and...</i>
+
+1269
+01:42:28,648 --> 01:42:30,757
+<i>perhaps it is this very journey...</i>
+
+1270
+01:42:31,047 --> 01:42:33,561
+<i>which gives life hope and meaning.</i>
+
+1271
+01:42:34,287 --> 01:42:37,597
+<i>They say that a sinner</i>
+<i>is someone who knows God...</i>
+
+1272
+01:42:37,727 --> 01:42:40,639
+<i>and a priest is someone in search of Him.</i>
+
+1273
+01:42:41,647 --> 01:42:44,480
+<i>I began to know God through Eleanor.</i>
+
+1274
+01:42:45,327 --> 01:42:48,444
+<i>It was she, who taught me about faith.</i>
+

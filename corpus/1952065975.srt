@@ -1,0 +1,8286 @@
+1
+00:00:16,813 --> 00:00:18,508
+[Projector clicking]
+
+2
+00:00:18,581 --> 00:00:19,843
+ROSALIND RUSSELL:
+So long, Walter.
+
+3
+00:00:19,916 --> 00:00:21,178
+CARY GRANT: So long, Hildy.
+
+4
+00:00:21,250 --> 00:00:23,047
+RUSSELL:
+Better luck to you next time.
+
+5
+00:00:23,119 --> 00:00:24,108
+GRANT: Thanks.
+
+6
+00:00:24,821 --> 00:00:26,755
+- Oh, Hildy...
+- Eh?
+
+7
+00:00:26,823 --> 00:00:27,812
+Uh...
+
+8
+00:00:29,525 --> 00:00:32,619
+Well, you kinda took the wind
+out of my sails.
+
+9
+00:00:32,695 --> 00:00:36,722
+Look, honey, I just wanna wish
+you everything I couldn't give you.
+
+10
+00:00:36,799 --> 00:00:38,130
+RUSSELL: Thank you, Walter.
+
+11
+00:00:39,102 --> 00:00:40,763
+GRANT: This other fellow, uh...
+
+12
+00:00:40,837 --> 00:00:42,896
+well, I'm sorry I didn't get
+a chance to see him.
+
+13
+00:00:43,506 --> 00:00:45,667
+I'm more or less particular
+about whom my wife marries.
+
+14
+00:00:45,741 --> 00:00:47,902
+- [Russell chuckles]
+- Where is he?
+
+15
+00:00:47,977 --> 00:00:50,810
+Oh, he's right on the job,
+waiting for me out there.
+
+16
+00:00:50,880 --> 00:00:53,314
+Ah. Do you mind if I meet him?
+
+17
+00:00:53,382 --> 00:00:55,282
+Oh, no, Walter.
+It wouldn't do any good, really.
+
+18
+00:00:55,351 --> 00:00:57,046
+Oh, now you're not afraid, are you?
+
+19
+00:00:57,120 --> 00:00:59,213
+- Afraid? Of course not!
+- Well, then, come on!
+
+20
+00:00:59,288 --> 00:01:00,619
+Let's see this paragon!
+
+21
+00:01:00,690 --> 00:01:02,123
+Is he as good as you say?
+
+22
+00:01:02,191 --> 00:01:03,180
+Why, he's better!
+
+23
+00:01:03,259 --> 00:01:04,283
+Well, then what does he
+want with you?
+
+24
+00:01:04,360 --> 00:01:05,884
+[Laughing] Oh, now you got me.
+
+25
+00:01:05,962 --> 00:01:07,657
+GRANT: Back in a half, Mildred.
+
+26
+00:01:07,730 --> 00:01:09,823
+Ooh... Oh, I am sorry, Hildy.
+
+27
+00:01:09,899 --> 00:01:11,696
+- I suppose Bruce, uh... what's his name?
+- Baldwin.
+
+28
+00:01:11,767 --> 00:01:12,995
+Baldwin... I suppose
+he opens doors for you.
+
+29
+00:01:13,069 --> 00:01:15,037
+He does, and when he's with
+a lady, he takes his hat off.
+
+30
+00:01:15,104 --> 00:01:17,129
+Oh, I am sorry.
+
+31
+00:01:17,206 --> 00:01:19,231
+And when he walks
+with a lady, he waits for her.
+
+32
+00:01:19,308 --> 00:01:21,299
+Oh, well, in that case...
+
+33
+00:01:23,079 --> 00:01:24,239
+Allow me.
+
+34
+00:01:27,350 --> 00:01:29,648
+Well, I can see right away
+my wife picked out...
+
+35
+00:01:29,719 --> 00:01:31,550
+the right husband for herself.
+How do you do, sir?
+
+36
+00:01:31,621 --> 00:01:34,249
+There must be some mistake.
+I'm already married.
+
+37
+00:01:34,757 --> 00:01:37,055
+Already married?
+Tsk, tsk, tsk...
+
+38
+00:01:38,060 --> 00:01:39,288
+Oh, Hildy,
+you should have told me.
+
+39
+00:01:39,362 --> 00:01:42,058
+[? "Santa Maria" by The Frames]
+
+40
+00:02:07,156 --> 00:02:09,283
+MAN: ? Let me off this boat ?
+
+41
+00:02:09,358 --> 00:02:11,292
+? I'm sick of this ride ?
+
+42
+00:02:11,360 --> 00:02:14,761
+? The world is heading
+ever southward ?
+
+43
+00:02:14,830 --> 00:02:16,798
+? And I can't stay in here ?
+
+44
+00:02:21,904 --> 00:02:25,567
+? And you're lying awake,
+away on your side ?
+
+45
+00:02:25,641 --> 00:02:27,871
+? The feeling comes in waves ?
+
+46
+00:02:27,944 --> 00:02:30,742
+? And burns us
+and I don't wanna die ?
+
+47
+00:02:36,319 --> 00:02:38,184
+? From the slippery hands ?
+
+48
+00:02:38,254 --> 00:02:40,154
+? To the line of your throat ?
+
+49
+00:02:40,223 --> 00:02:42,851
+? The fever now
+consumes us both ?
+
+50
+00:02:42,925 --> 00:02:45,758
+? In a fire now we will go ?
+
+51
+00:02:49,165 --> 00:02:51,963
+? Santa Maria ?
+
+52
+00:02:56,038 --> 00:02:58,768
+? Why did you have to go? ?
+
+53
+00:03:03,546 --> 00:03:06,538
+? Santa Maria ?
+
+54
+00:03:10,853 --> 00:03:12,878
+? One day we will know ?
+
+55
+00:03:26,969 --> 00:03:30,598
+? In a bowing of heads
+and a passing of hands ?
+
+56
+00:03:30,673 --> 00:03:33,870
+? And all we thought
+they'd understand ?
+
+57
+00:03:33,943 --> 00:03:36,935
+? Is lost and they won't know ?
+
+58
+00:03:41,417 --> 00:03:43,180
+? And what have we left ?
+
+59
+00:03:43,252 --> 00:03:45,413
+? When it's all that we've got ?
+
+60
+00:03:45,488 --> 00:03:48,457
+? There is no "X"
+to mark our spot ?
+
+61
+00:03:48,524 --> 00:03:51,254
+? What's past is done and gone ?
+
+62
+00:03:54,297 --> 00:03:57,164
+? Santa Maria ?
+
+63
+00:04:01,370 --> 00:04:04,134
+? Why did you have to burn? ?
+
+64
+00:04:08,744 --> 00:04:11,611
+? Santa Maria ?
+
+65
+00:04:15,985 --> 00:04:18,886
+? One day you will learn ?
+
+66
+00:04:18,954 --> 00:04:20,979
+[Music ends]
+
+67
+00:04:35,071 --> 00:04:36,060
+[Children shouting]
+
+68
+00:04:38,074 --> 00:04:40,065
+[Loud rap music
+playing in car]
+
+69
+00:04:41,177 --> 00:04:43,475
+[Tires squeal, engine revs...]
+
+70
+00:04:46,048 --> 00:04:47,276
+Hey, Kincaid.
+
+71
+00:04:47,350 --> 00:04:49,375
+Shouldn't you be workin'
+some freeway?
+
+72
+00:04:49,452 --> 00:04:51,044
+Pickin' up litter, you convict?
+
+73
+00:04:51,120 --> 00:04:52,109
+Ass.
+
+74
+00:04:52,188 --> 00:04:53,849
+[Engine revs loudly,
+tires squeal]
+
+75
+00:04:55,858 --> 00:04:57,792
+[Rap music thumps loudly]
+
+76
+00:05:07,036 --> 00:05:08,367
+TEENAGE BO Y: Let's get him!
+
+77
+00:05:10,373 --> 00:05:11,362
+[School bell rings]
+
+78
+00:05:11,440 --> 00:05:12,998
+TEENAGE BO Y:
+Kincaid, get back here!
+
+79
+00:05:14,176 --> 00:05:15,268
+TEENAGE BO Y 2:
+Yeah, you better run!
+
+80
+00:05:15,344 --> 00:05:16,834
+You're dead, Kincaid.
+
+81
+00:05:16,912 --> 00:05:19,710
+MAN: Hey, slow down!
+No running!
+
+82
+00:05:26,589 --> 00:05:27,988
+That was totally wicked.
+
+83
+00:05:28,057 --> 00:05:30,491
+- Are you nuts?
+- What?
+
+84
+00:05:30,559 --> 00:05:32,891
+Messin' with Brett Raven
+and his pukes?
+
+85
+00:05:32,962 --> 00:05:35,658
+Do you wanna spend the entire
+Christmas break in a body cast?
+
+86
+00:05:35,731 --> 00:05:37,255
+They act like
+we don't even matter.
+
+87
+00:05:37,333 --> 00:05:38,732
+MURPHY: We don't matter.
+
+88
+00:05:38,801 --> 00:05:40,496
+CAMERON:
+Yeah, get out of here.
+
+89
+00:05:40,569 --> 00:05:41,866
+MURPHY: No, I'm serious.
+
+90
+00:05:41,937 --> 00:05:43,734
+Remember that movie,
+The Fisher King?
+
+91
+00:05:43,806 --> 00:05:45,740
+- Terry Gilliam, cool director.
+- Money!
+
+92
+00:05:45,808 --> 00:05:49,039
+All right, well, Jeff Bridges
+quotes what "Neitski" says...
+
+93
+00:05:49,111 --> 00:05:50,476
+"Neetski."
+
+94
+00:05:50,546 --> 00:05:52,537
+O.K., uh, the expendable masses?
+
+95
+00:05:52,615 --> 00:05:55,379
+The people that don't matter
+to the rest of the world.
+
+96
+00:05:55,451 --> 00:05:58,045
+That's us. We don't matter.
+
+97
+00:05:59,121 --> 00:06:00,349
+The botched and the bungled?
+
+98
+00:06:00,423 --> 00:06:02,584
+Right. We don't matter, dude.
+
+99
+00:06:04,260 --> 00:06:05,818
+[School bell rings]
+
+100
+00:06:06,896 --> 00:06:09,091
+TEACHER: I know you guys would
+rather be someplace else...
+
+101
+00:06:09,165 --> 00:06:11,224
+but we got one more test
+before I let you go.
+
+102
+00:06:11,300 --> 00:06:12,289
+[Students groan]
+
+103
+00:06:13,536 --> 00:06:15,470
+Knock it off. Hats off!
+
+104
+00:06:15,538 --> 00:06:16,835
+TEENAGE BO Y ON P. A:
+Attention, fellow students...
+
+105
+00:06:16,906 --> 00:06:17,895
+TEACHER: Knock it off, Brett.
+
+106
+00:06:17,973 --> 00:06:20,441
+The faculty and staff want to wish
+you all the happiest of holidays.
+
+107
+00:06:20,509 --> 00:06:22,977
+There's just a couple of items
+that will take place...
+
+108
+00:06:23,045 --> 00:06:24,603
+over the holiday vacation.
+
+109
+00:06:24,680 --> 00:06:27,513
+There's a Ski Club trip
+to Mammoth Lakes...
+
+110
+00:06:27,583 --> 00:06:30,074
+the basketball tournament
+at Taft High School...
+
+111
+00:06:30,152 --> 00:06:32,143
+and, of course,
+the Los Angeles Film School...
+
+112
+00:06:32,221 --> 00:06:34,348
+holiday short film contest...
+
+113
+00:06:34,423 --> 00:06:38,189
+with the winner receiving
+a full scholarship after graduation.
+
+114
+00:06:38,260 --> 00:06:40,353
+Uh, students involved
+with these projects...
+
+115
+00:06:40,429 --> 00:06:42,454
+stay in touch with
+your respective counselors.
+
+116
+00:06:42,531 --> 00:06:43,793
+That's it, students.
+
+117
+00:06:43,866 --> 00:06:45,026
+Have a great
+and safe holiday break...
+
+118
+00:06:45,100 --> 00:06:46,863
+and we'll see you back
+here in three weeks.
+
+119
+00:06:46,936 --> 00:06:48,961
+- [Applause and whoops]
+- STUDENT: Yeah!
+
+120
+00:06:49,038 --> 00:06:50,972
+TEACHER: Question number one.
+Let's get to it.
+
+121
+00:06:51,040 --> 00:06:53,474
+We're not leaving
+until it's all done.
+
+122
+00:06:57,179 --> 00:06:59,670
+[Toilet flushes]
+
+123
+00:07:02,651 --> 00:07:03,640
+[Metal thuds]
+
+124
+00:07:04,453 --> 00:07:07,286
+I'd sue your ass for
+scratching my ride, Kincaid.
+
+125
+00:07:07,356 --> 00:07:08,914
+But I know you're a broke dick.
+
+126
+00:07:09,825 --> 00:07:11,793
+You know what?
+Forget about the film contest.
+
+127
+00:07:11,861 --> 00:07:14,421
+Two reasons:
+one, juniors never win.
+
+128
+00:07:14,497 --> 00:07:18,058
+And two, you can't make a movie
+without a little fundage.
+
+129
+00:07:19,068 --> 00:07:20,968
+It's a talent contest,
+not a funding contest.
+
+130
+00:07:21,036 --> 00:07:22,663
+Like my dad says...
+
+131
+00:07:22,738 --> 00:07:24,865
+"It doesn't take talent
+to get work in Hollywood."
+
+132
+00:07:25,674 --> 00:07:27,369
+No wonder why
+he always has a job.
+
+133
+00:07:27,977 --> 00:07:28,966
+[Metal thuds]
+
+134
+00:07:29,979 --> 00:07:32,106
+You may know
+a lot about old movies...
+
+135
+00:07:32,181 --> 00:07:34,513
+but you know nothing
+about making one.
+
+136
+00:07:35,584 --> 00:07:37,609
+Merry Christmas, Kincaid.
+
+137
+00:07:37,686 --> 00:07:40,678
+Call the lot,
+get my dad on the phone.
+
+138
+00:07:41,724 --> 00:07:43,021
+He'll hook us up.
+
+139
+00:07:53,469 --> 00:07:54,766
+MAN: Hurry up, Cameron.
+
+140
+00:07:54,837 --> 00:07:56,862
+You already missed
+the big crane shot.
+
+141
+00:07:56,939 --> 00:07:58,907
+You can pay me after.
+
+142
+00:07:58,974 --> 00:08:00,874
+- Thanks, Mr. Klein.
+- O.K.
+
+143
+00:08:00,943 --> 00:08:02,467
+MAN ON SCREEN: You figure
+it was a bomb then, Hank?
+
+144
+00:08:02,545 --> 00:08:04,012
+ORSON WELLES:
+Well, chief, Rudy Linnekar...
+
+145
+00:08:04,079 --> 00:08:05,842
+could have been
+struck by lightning.
+
+146
+00:08:05,915 --> 00:08:06,904
+Where's the daughter?
+
+147
+00:08:06,982 --> 00:08:09,883
+MAN: Marcia? Got her right
+here waiting for you, Hank.
+
+148
+00:08:09,952 --> 00:08:11,510
+WELLES: Let her go.
+
+149
+00:08:11,587 --> 00:08:13,111
+MAN: You don't even want to
+question her...
+
+150
+00:08:13,188 --> 00:08:15,383
+Take the marbles
+out of your mouth, Orson!
+
+151
+00:08:15,457 --> 00:08:18,483
+How do you expect people
+to understand your fat ass?
+
+152
+00:08:18,561 --> 00:08:20,028
+WELLES: in a monkey suit?
+
+153
+00:08:20,095 --> 00:08:21,494
+You too, you got one of them...
+
+154
+00:08:21,564 --> 00:08:23,031
+MAN:
+Well, we were all at the banquet.
+
+155
+00:08:23,098 --> 00:08:24,087
+OLD MAN: Aah!
+
+156
+00:08:25,267 --> 00:08:27,326
+Excuse me, sir, but could
+you keep it down?
+
+157
+00:08:27,403 --> 00:08:29,200
+A few of us actually
+wanna enjoy this film.
+
+158
+00:08:30,105 --> 00:08:32,665
+OLD MAN: Hey! Shut up!
+
+159
+00:08:36,178 --> 00:08:37,736
+Good-for-nothin' goldbricker.
+
+160
+00:08:37,813 --> 00:08:39,508
+If you had a job,
+you wouldn't be here.
+
+161
+00:08:40,449 --> 00:08:42,781
+I'll have you know
+my husband teaches...
+
+162
+00:08:42,851 --> 00:08:47,982
+The Virtue of Cinematic Morals
+and Economics at C.S.U.N.
+
+163
+00:08:48,057 --> 00:08:51,493
+Cinematic morals?
+Now, there's an oxymoron.
+
+164
+00:08:51,560 --> 00:08:54,028
+How'd you get that job?
+Win it in a raffle?
+
+165
+00:08:54,096 --> 00:08:56,030
+- I created it.
+- That can't be true.
+
+166
+00:08:56,098 --> 00:08:57,793
+You're buyin' your own bullshit.
+
+167
+00:08:57,866 --> 00:08:59,595
+You seem to be
+out of touch, dear man.
+
+168
+00:09:00,669 --> 00:09:04,628
+Out of touch?
+Hey, look, professor.
+
+169
+00:09:04,707 --> 00:09:07,369
+I've made more movies
+than you've been to.
+
+170
+00:09:08,410 --> 00:09:11,641
+So why don't you just shut
+your Cinematic Morals hole...
+
+171
+00:09:11,714 --> 00:09:14,080
+and maybe let fat Orson here
+teach you something?
+
+172
+00:09:14,149 --> 00:09:17,016
+MAN ON SCREEN: Of course,
+we're all of us going to cooperate.
+
+173
+00:09:17,086 --> 00:09:18,713
+You won't have
+any trouble with me.
+
+174
+00:09:18,787 --> 00:09:21,119
+You bet your sweet life I won't.
+
+175
+00:09:22,758 --> 00:09:23,747
+MAN: O.K., folks.
+
+176
+00:09:24,360 --> 00:09:25,349
+We're going again.
+
+177
+00:09:26,662 --> 00:09:27,856
+And lights!
+
+178
+00:09:27,930 --> 00:09:28,919
+[Switch clicks]
+
+179
+00:09:29,932 --> 00:09:30,921
+[Whooshing]
+
+180
+00:09:31,934 --> 00:09:33,299
+Roll sound!
+
+181
+00:09:33,369 --> 00:09:35,200
+- MAN 2: We have speed.
+- MAN 1: Roll camera!
+
+182
+00:09:35,270 --> 00:09:36,635
+MAN 3: Turning.
+
+183
+00:09:36,705 --> 00:09:38,536
+MAN 4:
+Scene 27, take 4. Marker.
+
+184
+00:09:40,042 --> 00:09:42,101
+And action!
+
+185
+00:09:42,177 --> 00:09:43,701
+ACTOR: And that's what
+you know about Rosebud?
+
+186
+00:09:43,779 --> 00:09:45,974
+Cut! Cut! God damn it!
+
+187
+00:09:46,048 --> 00:09:48,846
+Who flashed that arc light?
+Murray!
+
+188
+00:09:48,917 --> 00:09:50,316
+- I'll take care of this, sir.
+- [Welles grunts in anger]
+
+189
+00:09:50,386 --> 00:09:52,946
+- Security.
+- Go.
+
+190
+00:09:53,889 --> 00:09:56,517
+You flashed that light on purpose,
+you incompetent fool.
+
+191
+00:09:56,592 --> 00:09:58,219
+It was a faulty arc, Mr. Welles.
+
+192
+00:09:58,293 --> 00:10:00,921
+You're all incompetent! You're
+all trying to sabotage my film!
+
+193
+00:10:01,830 --> 00:10:04,094
+Mr. Welles,
+why would I wanna do that?
+
+194
+00:10:04,166 --> 00:10:06,600
+Citizen Kane
+is gonna be a great film.
+
+195
+00:10:06,669 --> 00:10:07,931
+Murray.
+
+196
+00:10:08,003 --> 00:10:09,664
+MURRAY:
+Escort this man off the set.
+
+197
+00:10:09,738 --> 00:10:11,330
+I would never do something
+like that on purpose!
+
+198
+00:10:11,407 --> 00:10:13,272
+I love my job!
+Why would I try to lose it?
+
+199
+00:10:13,342 --> 00:10:16,573
+If you love your job, you'll
+never work a day in your life.
+
+200
+00:10:16,645 --> 00:10:17,634
+Winston Churchill!
+
+201
+00:10:18,480 --> 00:10:20,471
+Wait, Wait. Bring him back!
+
+202
+00:10:22,718 --> 00:10:26,279
+Churchill... Well, bravo!
+
+203
+00:10:26,355 --> 00:10:28,619
+An electrician
+who can actually read!
+
+204
+00:10:28,691 --> 00:10:32,092
+What a pleasant surprise.
+Well played.
+
+205
+00:10:32,161 --> 00:10:33,150
+What's your name?
+
+206
+00:10:33,228 --> 00:10:34,490
+Glenn Madden.
+
+207
+00:10:34,563 --> 00:10:36,656
+Glenn Madden? [Laughs]
+
+208
+00:10:36,732 --> 00:10:38,131
+No, I don't think so.
+
+209
+00:10:38,200 --> 00:10:40,464
+From now on, your name
+will be "Flash" Madden.
+
+210
+00:10:40,536 --> 00:10:42,936
+You'll go further, trust me.
+
+211
+00:10:43,005 --> 00:10:43,994
+CHARLTON HESTON: You gonna do
+something about it?
+
+212
+00:10:44,073 --> 00:10:46,166
+WELLES: Well, make it a charge.
+
+213
+00:10:46,241 --> 00:10:48,141
+Isn't that police procedure
+in Mexico?
+
+214
+00:10:48,210 --> 00:10:50,178
+- Procedure?
+- You say your wife was attacked.
+
+215
+00:10:50,245 --> 00:10:51,371
+I did not say she was attacked.
+
+216
+00:10:51,447 --> 00:10:52,812
+- Did you say she was molested?
+- Not physically.
+
+217
+00:10:52,881 --> 00:10:55,247
+Charlton Heston
+playin' a Mexican.
+
+218
+00:10:55,317 --> 00:10:58,775
+Jesus Christ,
+give me a friggin' break.
+
+219
+00:10:58,854 --> 00:11:01,379
+- I don't think so.
+- How do you explain the fact...
+
+220
+00:11:01,457 --> 00:11:03,516
+You never could act
+in pants, Chuckles!
+
+221
+00:11:03,592 --> 00:11:06,425
+WELLES: Joe Grandi.
+That's right.
+
+222
+00:11:06,495 --> 00:11:07,484
+Go on.
+
+223
+00:11:08,430 --> 00:11:12,628
+Pony Express was the first
+film he ever wore pants in.
+
+224
+00:11:14,069 --> 00:11:17,300
+Before that, he was
+in all those Roman epics.
+
+225
+00:11:17,372 --> 00:11:19,966
+You know,
+wearin' those fag robes?
+
+226
+00:11:20,042 --> 00:11:21,066
+[Chuckling]
+
+227
+00:11:21,143 --> 00:11:22,405
+MAN ON SCREEN: Mr. Vargas
+is not on the witness stand.
+
+228
+00:11:22,478 --> 00:11:24,139
+[Chuckling]
+
+229
+00:11:24,213 --> 00:11:26,841
+MAN IN FILM:
+Hank's a born lawyer, you know.
+
+230
+00:11:26,915 --> 00:11:29,850
+He was pretty good
+in Ben-Hur. I'll give him that.
+
+231
+00:11:29,918 --> 00:11:31,909
+[Flash sighs]
+
+232
+00:11:31,987 --> 00:11:34,785
+Thank God you shot this
+in black and white.
+
+233
+00:11:34,857 --> 00:11:37,018
+CAMERON: [Chuckles]
+
+234
+00:11:40,896 --> 00:11:42,090
+Great.
+
+235
+00:11:42,164 --> 00:11:44,530
+Another monument
+to the next generation.
+
+236
+00:11:44,600 --> 00:11:46,124
+When a murderer's loose,
+I'm supposed to...
+
+237
+00:11:46,201 --> 00:11:47,190
+[Film stops]
+
+238
+00:11:48,904 --> 00:11:51,065
+Hello?
+
+239
+00:11:51,140 --> 00:11:53,870
+Earth to Beverly!
+
+240
+00:11:53,942 --> 00:11:55,773
+[Shouting] Is anyone home?
+
+241
+00:11:57,446 --> 00:11:58,538
+God damn it!
+
+242
+00:11:58,614 --> 00:12:01,583
+What minimum-wage moron's
+in charge today?
+
+243
+00:12:04,686 --> 00:12:06,984
+What the hell's
+going on in here?
+
+244
+00:12:07,055 --> 00:12:09,216
+An imbecile convention?
+
+245
+00:12:09,291 --> 00:12:11,589
+Get off your brains
+and do something.
+
+246
+00:12:11,660 --> 00:12:12,649
+PROJECTIONIST: Oh shit!
+
+247
+00:12:13,562 --> 00:12:14,824
+Gimme that friggin' thing.
+
+248
+00:12:19,034 --> 00:12:20,126
+Oh, my God! My Game Boy!
+
+249
+00:12:21,103 --> 00:12:23,594
+I'm sure that Santa will
+bring you a new one.
+
+250
+00:12:23,672 --> 00:12:25,071
+I'm sorry, everybody!
+
+251
+00:12:25,140 --> 00:12:26,129
+[Electrical snaps, buzzing]
+
+252
+00:12:27,676 --> 00:12:30,304
+[Fire extinguisher hisses]
+
+253
+00:12:32,414 --> 00:12:34,405
+My God,
+is everybody all right?!
+
+254
+00:12:35,684 --> 00:12:37,777
+FLASH: Keep hiring
+the handicapped, Klein.
+
+255
+00:12:37,853 --> 00:12:40,754
+They're such fun to watch.
+I want my goddamn money back.
+
+256
+00:12:40,823 --> 00:12:42,916
+You never pay anyway, Flash.
+
+257
+00:12:42,991 --> 00:12:45,050
+[Shouting] Why should I,
+with service like this?
+
+258
+00:12:45,127 --> 00:12:47,561
+Get out of my way,
+you little shit!
+
+259
+00:12:47,629 --> 00:12:48,960
+PROJECTIONIST:
+He sure yells a lot.
+
+260
+00:12:49,031 --> 00:12:50,623
+Is he hearing-impaired?
+
+261
+00:12:50,699 --> 00:12:52,826
+No, he just likes to yell!
+
+262
+00:12:52,901 --> 00:12:54,766
+[Traffic passing]
+
+263
+00:13:26,435 --> 00:13:27,424
+[Whooshing]
+
+264
+00:13:31,039 --> 00:13:32,028
+[Whooshing]
+
+265
+00:13:33,242 --> 00:13:35,039
+[Whooshing]
+
+266
+00:13:37,813 --> 00:13:41,078
+MAN: ? As far as I know ?
+
+267
+00:13:41,149 --> 00:13:42,878
+? They go ?
+
+268
+00:13:42,951 --> 00:13:44,441
+? 'Cause it's never quite ?
+
+269
+00:13:44,519 --> 00:13:46,817
+? What it seems ?
+
+270
+00:13:46,889 --> 00:13:48,447
+? You know ?
+
+271
+00:13:48,523 --> 00:13:50,320
+? But you don't ?
+
+272
+00:13:50,392 --> 00:13:55,329
+? 'Cause you dropped yourself
+to your knees ?
+
+273
+00:13:55,397 --> 00:13:58,389
+? It dawned on me ?
+
+274
+00:14:12,547 --> 00:14:15,277
+? See, if it were me ?
+
+275
+00:14:15,350 --> 00:14:16,817
+? I'd agree ?
+
+276
+00:14:16,885 --> 00:14:18,682
+? That it pays to be ?
+
+277
+00:14:18,754 --> 00:14:21,154
+? More like you ?
+
+278
+00:14:21,223 --> 00:14:22,554
+? Would you know ?
+
+279
+00:14:22,624 --> 00:14:24,785
+? And you show ?
+
+280
+00:14:24,860 --> 00:14:29,490
+? 'Cause you dropped
+yourself to your knees ?
+
+281
+00:14:29,564 --> 00:14:31,293
+? It dawned on me ?
+
+282
+00:14:40,575 --> 00:14:41,837
+[Whooshing]
+
+283
+00:15:16,778 --> 00:15:20,578
+? Ahh... ?
+
+284
+00:15:20,649 --> 00:15:24,312
+? Oh... ?
+
+285
+00:15:24,386 --> 00:15:28,413
+? Oh... ah... ?
+
+286
+00:15:28,490 --> 00:15:30,890
+? Ah... ?
+
+287
+00:15:30,959 --> 00:15:33,291
+? Ooh-ooh ?
+
+288
+00:15:33,362 --> 00:15:34,351
+[Music ends]
+
+289
+00:15:36,365 --> 00:15:38,424
+[Whoosh,
+car engine revs loudly]
+
+290
+00:15:38,500 --> 00:15:40,525
+CAMERON: Double headlights.
+
+291
+00:15:41,970 --> 00:15:42,959
+Red and white.
+
+292
+00:15:44,339 --> 00:15:47,035
+Big fins, lots of chrome.
+
+293
+00:15:47,109 --> 00:15:49,339
+- Is it her?
+- It's her. [Sniffs]
+
+294
+00:15:49,411 --> 00:15:50,708
+Are you sure it's Christine?
+
+295
+00:15:50,779 --> 00:15:54,146
+Dude, 1958 Plymouth Fury,
+just like the one in the movie.
+
+296
+00:15:54,216 --> 00:15:55,205
+[Engine revs...]
+
+297
+00:15:55,751 --> 00:15:56,740
+[Whooshing]
+
+298
+00:15:58,220 --> 00:16:00,085
+John Carpenter.
+
+299
+00:16:00,155 --> 00:16:01,383
+Cool director.
+
+300
+00:16:01,456 --> 00:16:02,445
+BOTH: Money!
+
+301
+00:16:04,226 --> 00:16:05,625
+MURPHY: Bad to the bone.
+
+302
+00:16:05,694 --> 00:16:07,457
+? B-bad to the bone ?
+
+303
+00:16:07,529 --> 00:16:08,791
+? B-b-b-b-bad ?
+
+304
+00:16:16,405 --> 00:16:18,805
+- CAMERON: Shut the light off.
+- MURPHY: Would you chill, man?
+
+305
+00:16:22,711 --> 00:16:23,700
+[Car door opens]
+
+306
+00:16:24,613 --> 00:16:26,604
+- MURPHY: Go go go go go!
+- CAMERON: Shhh.
+
+307
+00:16:28,750 --> 00:16:30,240
+[Horn honks]
+
+308
+00:16:33,688 --> 00:16:36,156
+- Come on, come on, come on.
+- CAMERON: Shut up!
+
+309
+00:16:36,224 --> 00:16:37,816
+I think I see someone,
+I think I see someone.
+
+310
+00:16:37,893 --> 00:16:39,121
+MURPHY: Go.
+
+311
+00:16:39,194 --> 00:16:42,254
+[Electric sizzle,
+engine roars]
+
+312
+00:16:43,265 --> 00:16:44,596
+[Tires squeal, car revs]
+
+313
+00:16:49,805 --> 00:16:52,205
+MAN: My, my, my!
+
+314
+00:16:52,274 --> 00:16:54,469
+[Engine hums...]
+
+315
+00:16:57,279 --> 00:16:58,268
+[Laughing and whooping]
+
+316
+00:17:01,483 --> 00:17:04,213
+Go Christine!
+Do your nasty, girl!
+
+317
+00:17:04,286 --> 00:17:06,186
+Be a bad girl, yeah!
+
+318
+00:17:06,254 --> 00:17:07,243
+CAMERON: Yee-ha!
+
+319
+00:17:07,322 --> 00:17:10,223
+[Engine humming...]
+
+320
+00:17:14,930 --> 00:17:17,330
+I feel like Han Solo
+in the Millennium Falcon.
+
+321
+00:17:17,399 --> 00:17:18,832
+Can I be Chewbacca?
+
+322
+00:17:18,900 --> 00:17:20,367
+You can be Chewy, if you want.
+
+323
+00:17:20,435 --> 00:17:23,131
+[lmitates Chewy's growl]
+
+324
+00:17:23,205 --> 00:17:24,968
+Tell me that was not Chewy!
+
+325
+00:17:25,040 --> 00:17:26,564
+That was Chewy... What?
+
+326
+00:17:26,641 --> 00:17:28,575
+That was the worst Chewy
+I've ever heard in my life.
+
+327
+00:17:28,643 --> 00:17:29,803
+That was a good Chewy!
+
+328
+00:17:29,878 --> 00:17:31,869
+[Both imitate Chewy]
+
+329
+00:17:31,947 --> 00:17:33,005
+Whatever.
+
+330
+00:17:33,081 --> 00:17:34,070
+[Police siren wails]
+
+331
+00:17:35,917 --> 00:17:36,906
+Shit, 5-0.
+
+332
+00:17:37,986 --> 00:17:39,886
+CAMERON:
+"5-0", O.K., there, Snoop Dogg.
+
+333
+00:17:39,955 --> 00:17:40,944
+[Siren continues]
+
+334
+00:17:42,157 --> 00:17:44,250
+It's not so bad, only one.
+
+335
+00:17:44,326 --> 00:17:47,955
+[Siren whoops, horn blares]
+
+336
+00:17:48,029 --> 00:17:50,395
+Don't be harshing
+my mellow, po-pos!
+
+337
+00:17:51,399 --> 00:17:52,388
+It's not bad.
+
+338
+00:17:53,401 --> 00:17:55,801
+Dude, relax, dude. It's fine.
+
+339
+00:17:55,871 --> 00:17:58,499
+[More police sirens wail]
+
+340
+00:18:05,514 --> 00:18:06,503
+CAMERON: Shit.
+
+341
+00:18:06,581 --> 00:18:08,481
+OFFICER:
+Pull the vehicle over!
+
+342
+00:18:08,550 --> 00:18:09,778
+Now it's bad.
+
+343
+00:18:09,851 --> 00:18:12,012
+OFFICER: Pull over! Now!
+
+344
+00:18:12,087 --> 00:18:13,714
+- Pull over, dude.
+- OFFICER: Do it!
+
+345
+00:18:13,788 --> 00:18:15,949
+[Sirens wail...]
+
+346
+00:18:21,463 --> 00:18:23,556
+OFFICER: Let's see your hands!
+Get your hands up!
+
+347
+00:18:23,632 --> 00:18:25,156
+All right, shut off the engine.
+Hands up!
+
+348
+00:18:25,233 --> 00:18:26,222
+[Police radio squawks...]
+
+349
+00:18:39,714 --> 00:18:40,703
+[Door thuds loudly]
+
+350
+00:18:41,750 --> 00:18:44,150
+So you're boosting cars now.
+What's next? Banks?
+
+351
+00:18:44,819 --> 00:18:46,411
+That's pretty funny, Floyd.
+
+352
+00:18:46,488 --> 00:18:48,285
+Listen, you're through
+screwing up, buddy boy.
+
+353
+00:18:48,356 --> 00:18:49,584
+[Whooshing]
+
+354
+00:18:49,658 --> 00:18:52,252
+Cameron,
+they took your license.
+
+355
+00:18:52,327 --> 00:18:54,454
+They took it
+six months ago, Mom.
+
+356
+00:18:54,529 --> 00:18:56,724
+And the principal said that
+you're cutting classes again.
+
+357
+00:18:56,798 --> 00:18:58,026
+Where are you going
+during the day?
+
+358
+00:18:58,099 --> 00:18:59,396
+Teachers don't give a shit.
+
+359
+00:18:59,467 --> 00:19:01,367
+Well, we're serious
+this time, Cameron.
+
+360
+00:19:01,436 --> 00:19:04,030
+We're not bailing you out again.
+
+361
+00:19:04,105 --> 00:19:05,538
+Yeah, we'll see how you smile...
+
+362
+00:19:05,607 --> 00:19:07,700
+after ten days in County
+with the big boys.
+
+363
+00:19:08,443 --> 00:19:10,434
+Oh, you oughta know.
+
+364
+00:19:14,683 --> 00:19:15,672
+[Whooshing]
+
+365
+00:19:17,686 --> 00:19:19,620
+FLO YD: It's not working!
+This! This, this...
+
+366
+00:19:19,688 --> 00:19:23,021
+JUD Y: What? This?
+FLO YD: This, the kid, okay?
+
+367
+00:19:23,091 --> 00:19:24,080
+The kid!
+
+368
+00:19:24,159 --> 00:19:25,353
+JUD Y: Well, the kid comes
+with me.
+
+369
+00:19:25,427 --> 00:19:28,794
+- I think you understood that...
+- FLO YD: Well, I don't know him.
+
+370
+00:19:28,863 --> 00:19:30,854
+[argument
+continues indistinctly]
+
+371
+00:19:33,702 --> 00:19:35,192
+FLO YD: Maybe
+I'm just not a father, O. K?
+
+372
+00:19:35,270 --> 00:19:36,931
+Maybe
+I'm just not a father type.
+
+373
+00:19:37,005 --> 00:19:38,495
+JUD Y: Why didn't you
+tell me that before?
+
+374
+00:19:38,573 --> 00:19:39,904
+That's not what I
+heard before...
+
+375
+00:19:39,975 --> 00:19:41,806
+FLO YD: O.K., because maybe
+I wanted to make it work.
+
+376
+00:19:41,876 --> 00:19:43,867
+- Maybe I wanted something.
+- So do I.
+
+377
+00:19:43,945 --> 00:19:45,378
+FLO YD: O.K., well, it's
+just not working, all right?
+
+378
+00:19:45,447 --> 00:19:47,711
+- JUD Y: Why isn't it?
+- Because... look at the kid.
+
+379
+00:19:47,782 --> 00:19:49,807
+He's not even going to school,
+for Christ's sake!
+
+380
+00:19:49,884 --> 00:19:51,943
+I gotta... We gotta go down
+and bail him...
+
+381
+00:19:52,020 --> 00:19:54,488
+We gotta bail him out of jail
+at this time of day...
+
+382
+00:19:54,556 --> 00:19:56,490
+I gotta go to work!
+And what...
+
+383
+00:19:56,558 --> 00:19:58,822
+JUD Y: He's been through a lot,
+you know? O. K? You know.
+
+384
+00:19:58,893 --> 00:20:00,918
+FLO YD: O.K. I know
+he's been through a lot.
+
+385
+00:20:00,996 --> 00:20:03,157
+I don't wanna talk about
+his father, O. K?
+
+386
+00:20:03,231 --> 00:20:04,220
+JUD Y: Oh, I see.
+
+387
+00:20:04,299 --> 00:20:05,698
+We're not supposed
+to talk about stuff now!
+
+388
+00:20:05,767 --> 00:20:07,701
+FLO YD: O.K., what,
+you wanna talk about it?!
+
+389
+00:20:07,769 --> 00:20:09,964
+Why don't you go find him,
+bring him back...
+
+390
+00:20:10,038 --> 00:20:13,838
+you guys can live a happy
+marriage, a happy family life...
+
+391
+00:20:13,908 --> 00:20:16,308
+JUD Y, CRYING:
+Damn it! Don't say that!
+
+392
+00:20:16,378 --> 00:20:18,812
+FLO YD: I'm trying to give it to
+you... I can't give it to you!
+
+393
+00:20:18,880 --> 00:20:19,869
+[Argument
+continues indistinctly]
+
+394
+00:20:25,253 --> 00:20:27,380
+[Lawn mower buzzes...]
+
+395
+00:20:33,895 --> 00:20:35,556
+NURSE: Oh, no, you don't!
+
+396
+00:20:35,630 --> 00:20:37,621
+There's no smoking
+for you, Flash.
+
+397
+00:20:39,200 --> 00:20:40,258
+That's the doctor's orders.
+
+398
+00:20:40,335 --> 00:20:42,200
+Come on,
+give an old man a break!
+
+399
+00:20:42,904 --> 00:20:43,893
+NURSE: No way.
+
+400
+00:20:44,973 --> 00:20:46,304
+[Cameron whistles]
+Hey...
+
+401
+00:20:46,374 --> 00:20:48,968
+Hey. Come here.
+
+402
+00:20:50,178 --> 00:20:52,112
+[Turns mower off]
+
+403
+00:20:52,180 --> 00:20:53,169
+Que quieres?
+
+404
+00:20:53,948 --> 00:20:55,540
+[Lawn mower buzzes]
+
+405
+00:20:59,321 --> 00:21:00,447
+Nice day, huh?
+
+406
+00:21:07,162 --> 00:21:09,153
+[Flash spits]
+
+407
+00:21:12,901 --> 00:21:14,562
+So, um...
+[Turns mower off]
+
+408
+00:21:15,170 --> 00:21:16,159
+you like movies?
+
+409
+00:21:17,272 --> 00:21:18,330
+FLASH: Huh?
+
+410
+00:21:19,341 --> 00:21:20,672
+You like movies?
+
+411
+00:21:22,043 --> 00:21:23,374
+Yeah, some of them.
+
+412
+00:21:25,480 --> 00:21:27,778
+CAMERON:
+Uh, you wanna make one?
+
+413
+00:21:29,117 --> 00:21:30,106
+Who's directing?
+
+414
+00:21:31,786 --> 00:21:33,117
+You're lookin' right at him.
+
+415
+00:21:37,392 --> 00:21:39,826
+Bugger off
+and mow the grass, kid.
+
+416
+00:21:42,764 --> 00:21:46,097
+It's a...
+It's completely legit.
+
+417
+00:21:46,167 --> 00:21:47,930
+It's, um...
+It's a high school film.
+
+418
+00:21:48,002 --> 00:21:49,993
+It's a student film, and, um...
+
+419
+00:21:51,906 --> 00:21:53,396
+it's about... It's, uh...
+
+420
+00:21:53,475 --> 00:21:55,875
+Well, we start prep tomorrow,
+and we start shooting next week.
+
+421
+00:21:55,944 --> 00:21:57,673
+Who's "we"?
+
+422
+00:21:57,746 --> 00:22:00,306
+Me and my friend...
+
+423
+00:22:00,382 --> 00:22:02,373
+my friend Murphy,
+and it would...
+
+424
+00:22:02,917 --> 00:22:04,612
+and you, if you're in.
+
+425
+00:22:04,686 --> 00:22:05,880
+Hmm.
+
+426
+00:22:05,954 --> 00:22:08,252
+High school, huh?
+Sounds like bullshit.
+
+427
+00:22:09,090 --> 00:22:10,785
+Well, it's...
+
+428
+00:22:10,859 --> 00:22:11,848
+[Flash sighs]
+
+429
+00:22:13,161 --> 00:22:15,652
+I could really use your help,
+you know?
+
+430
+00:22:15,730 --> 00:22:17,425
+Hey, get out of here
+and leave me alone...
+
+431
+00:22:17,499 --> 00:22:19,899
+you good-for-nothing
+little prick.
+
+432
+00:22:19,968 --> 00:22:22,766
+Well, I saw you
+at the Beverly Cinema and...
+
+433
+00:22:23,538 --> 00:22:25,301
+you seem to know
+a lot about movies.
+
+434
+00:22:25,373 --> 00:22:26,704
+Get away, I said!
+
+435
+00:22:27,742 --> 00:22:29,403
+Maybe you're bullshit.
+
+436
+00:22:29,477 --> 00:22:30,569
+- Me, bullshit?
+- Yeah.
+
+437
+00:22:30,645 --> 00:22:32,340
+Look, you little weasel...
+
+438
+00:22:32,414 --> 00:22:35,406
+I've made more movies
+than you've been to.
+
+439
+00:22:39,821 --> 00:22:41,846
+Yeah, I heard that one.
+
+440
+00:22:47,395 --> 00:22:49,522
+[Mutters]
+
+441
+00:23:02,010 --> 00:23:03,204
+Yo, Murph, what's doin'?
+
+442
+00:23:03,278 --> 00:23:06,111
+Makin' $6.75 an hour,
+that's what's doin'.
+
+443
+00:23:06,181 --> 00:23:08,775
+Ah... this movie's so dope!
+
+444
+00:23:08,850 --> 00:23:10,010
+Witness?
+
+445
+00:23:10,084 --> 00:23:11,381
+Peter Weir, cool director.
+
+446
+00:23:11,453 --> 00:23:13,216
+BOTH: Money!
+
+447
+00:23:13,288 --> 00:23:15,222
+- How's your film coming?
+- It's coming.
+
+448
+00:23:15,290 --> 00:23:18,088
+Yeah, check this out.
+
+449
+00:23:18,159 --> 00:23:19,148
+[Sighs]
+
+450
+00:23:19,227 --> 00:23:21,752
+Brett Raven is already
+in production.
+
+451
+00:23:21,830 --> 00:23:22,819
+CAMERON: Are you kidding me?
+
+452
+00:23:22,897 --> 00:23:24,558
+MURPHY: His old man dropped
+20 grand for his film.
+
+453
+00:23:24,632 --> 00:23:26,691
+He's going full-tilt
+for that scholarship.
+
+454
+00:23:26,768 --> 00:23:28,633
+CAMERON: They must really
+want him out of the house.
+
+455
+00:23:28,703 --> 00:23:31,831
+This is serious shit.
+Is that... That's a Panaflex!
+
+456
+00:23:31,906 --> 00:23:33,203
+MURPHY: Yeah, mmm-hmm.
+
+457
+00:23:33,274 --> 00:23:35,265
+Just thought you'd like to know
+what you're up against.
+
+458
+00:23:35,343 --> 00:23:36,674
+But I gotta go.
+
+459
+00:23:37,445 --> 00:23:38,912
+- Thanks.
+- Later.
+
+460
+00:23:38,980 --> 00:23:40,709
+Better get humpin'
+on that film idea, man.
+
+461
+00:23:40,782 --> 00:23:43,046
+CAMERON:
+Yeah, I'm humpin', I'm humpin'.
+
+462
+00:24:00,001 --> 00:24:01,559
+[Whooshing]
+
+463
+00:24:03,438 --> 00:24:05,736
+[Whispers] Aahh...
+
+464
+00:24:14,082 --> 00:24:17,882
+I told you no!
+
+465
+00:24:20,321 --> 00:24:22,118
+Leave me alone.
+
+466
+00:24:28,329 --> 00:24:29,318
+Cuban?
+
+467
+00:24:31,165 --> 00:24:33,133
+- Think so.
+- Oh, no, no, no.
+
+468
+00:24:33,201 --> 00:24:36,466
+There ain't no "think so"
+when it comes to Cubans.
+
+469
+00:24:36,538 --> 00:24:38,506
+Cohiba or Romeo and Juliet.
+
+470
+00:24:38,573 --> 00:24:41,337
+Damn Montecristos
+are damn overrated.
+
+471
+00:24:41,409 --> 00:24:43,070
+O.K., then Montecristos are out.
+
+472
+00:24:44,345 --> 00:24:46,438
+But aren't Cuban cigars illegal
+in this country?
+
+473
+00:24:46,514 --> 00:24:49,449
+I consider it
+burning their crops.
+
+474
+00:24:49,517 --> 00:24:50,848
+Give it to me.
+
+475
+00:24:52,287 --> 00:24:54,619
+Nah, it's not Cuban.
+
+476
+00:24:55,957 --> 00:24:57,219
+Ah, it'll do.
+
+477
+00:25:00,595 --> 00:25:02,995
+So, uh, will you help me out?
+
+478
+00:25:03,064 --> 00:25:04,725
+Forget it, you little punk.
+
+479
+00:25:05,800 --> 00:25:07,392
+CAMERON: Just give me a shot.
+
+480
+00:25:07,468 --> 00:25:10,130
+It would be like casting
+pearls before swine.
+
+481
+00:25:12,006 --> 00:25:14,201
+CAMERON:
+I don't know what that means.
+
+482
+00:25:14,275 --> 00:25:17,073
+Look, you're on your own, kid.
+Get out of here.
+
+483
+00:25:24,419 --> 00:25:26,410
+Thanks for the cigar.
+
+484
+00:25:29,657 --> 00:25:33,286
+[Plane flies overhead]
+
+485
+00:25:38,800 --> 00:25:41,928
+[Birds chirping]
+
+486
+00:26:05,159 --> 00:26:08,993
+Is there a history of
+mental illness in your family?
+
+487
+00:26:11,265 --> 00:26:13,062
+Does a crazy aunt
+in Provo, Utah, count?
+
+488
+00:26:17,505 --> 00:26:19,234
+You'll keep
+bringing me cigars?
+
+489
+00:26:21,109 --> 00:26:22,098
+O.K.
+
+490
+00:26:22,877 --> 00:26:26,210
+And a bottle of Wild Turkey
+thrown in every week.
+
+491
+00:26:26,948 --> 00:26:28,245
+O.K.
+
+492
+00:26:28,316 --> 00:26:29,305
+O.K.
+
+493
+00:26:30,284 --> 00:26:33,276
+- Then we have a deal?
+- We have a deal.
+
+494
+00:26:34,856 --> 00:26:36,915
+The name's Flash Madden.
+
+495
+00:26:36,991 --> 00:26:38,253
+Cameron Kincaid.
+
+496
+00:26:43,931 --> 00:26:45,489
+How'd you get a name like Flash?
+
+497
+00:26:45,566 --> 00:26:48,592
+It's none of your
+goddamned business!
+
+498
+00:26:53,307 --> 00:26:54,467
+It's a skateboard film.
+
+499
+00:27:00,548 --> 00:27:02,482
+CAMERON: He's awesome.
+
+500
+00:27:04,485 --> 00:27:05,645
+Freakin' idiot.
+
+501
+00:27:05,720 --> 00:27:07,210
+SKATER: Oh!
+
+502
+00:27:09,223 --> 00:27:11,817
+No more idiot.
+What else you got?
+
+503
+00:27:11,893 --> 00:27:14,589
+I have another idea about
+a guy who, um...
+
+504
+00:27:14,662 --> 00:27:18,792
+he makes a motorcycle
+from vacuum cleaner parts...
+
+505
+00:27:18,866 --> 00:27:20,800
+and he meets a girl.
+
+506
+00:27:20,868 --> 00:27:23,564
+You need a writer...
+
+507
+00:27:23,638 --> 00:27:24,627
+badly.
+
+508
+00:27:26,708 --> 00:27:28,676
+I'll fix the script up later
+during filming and editing.
+
+509
+00:27:28,743 --> 00:27:31,303
+Look, kid,
+you can't polish a turd.
+
+510
+00:27:31,379 --> 00:27:34,405
+I know a writer, a good one.
+
+511
+00:27:36,284 --> 00:27:38,878
+- What about a crew?
+- A crew?
+
+512
+00:27:38,953 --> 00:27:41,012
+Well, they're closer than you think.
+You see that geezer over there?
+
+513
+00:27:41,089 --> 00:27:42,681
+Hey, Richie,
+how you doin' today?
+
+514
+00:27:44,092 --> 00:27:47,789
+Hey, not bad, Flash.
+Same old, same old.
+
+515
+00:27:47,862 --> 00:27:49,056
+That's Richard Butler.
+
+516
+00:27:49,130 --> 00:27:52,122
+He won the Oscar
+for art direction on Gigi.
+
+517
+00:27:52,200 --> 00:27:53,565
+No way.
+
+518
+00:27:53,634 --> 00:27:56,899
+Yeah, he sold it fifteen years
+ago for seven grand...
+
+519
+00:27:56,971 --> 00:28:00,134
+[Coughs]
+to pay his nursing home bills.
+
+520
+00:28:00,208 --> 00:28:04,304
+Now he lives here with us,
+the dearly almost departed.
+
+521
+00:28:05,513 --> 00:28:07,572
+You can sell an Oscar?
+
+522
+00:28:07,648 --> 00:28:09,138
+Everything's for sale, kid.
+
+523
+00:28:09,217 --> 00:28:11,208
+It's either need or greed.
+
+524
+00:28:11,285 --> 00:28:14,083
+Meet me tomorrow
+at the bus stop, 9 A.M.
+
+525
+00:28:14,155 --> 00:28:15,816
+Hey, leave me alone now.
+
+526
+00:28:17,458 --> 00:28:18,948
+Don't touch me!
+
+527
+00:28:21,129 --> 00:28:22,892
+I'm fine.
+
+528
+00:28:27,668 --> 00:28:28,930
+You still gonna help me out?
+
+529
+00:28:29,003 --> 00:28:31,164
+9 A.M.
+
+530
+00:28:31,239 --> 00:28:32,900
+What's
+your writer friend's name?
+
+531
+00:28:33,908 --> 00:28:34,897
+Mickey Hopkins.
+
+532
+00:28:45,219 --> 00:28:47,551
+Where's the kid?
+Out screwing around again?
+
+533
+00:28:48,756 --> 00:28:51,554
+He's in his room
+working on his computer.
+
+534
+00:28:51,626 --> 00:28:53,753
+Probably some internet scam.
+
+535
+00:28:53,828 --> 00:28:56,592
+No. Cameron's really focused.
+
+536
+00:28:56,664 --> 00:28:58,325
+Yeah, that is the word.
+
+537
+00:28:58,399 --> 00:29:00,390
+He's focused
+on something these days.
+
+538
+00:29:01,035 --> 00:29:02,024
+Yeah, right.
+
+539
+00:29:04,305 --> 00:29:06,296
+So we got dessert?
+
+540
+00:29:08,676 --> 00:29:09,734
+[Sighs]
+
+541
+00:29:37,872 --> 00:29:39,863
+Holy shit, this guy's a legend.
+
+542
+00:30:09,871 --> 00:30:11,236
+[Dogs barking and whining]
+
+543
+00:30:58,386 --> 00:31:00,411
+[Clicking and hissing]
+
+544
+00:31:02,657 --> 00:31:03,646
+[Can clatters]
+
+545
+00:31:05,793 --> 00:31:07,226
+You pricks!
+
+546
+00:31:11,933 --> 00:31:14,231
+[Tires screech]
+
+547
+00:31:34,155 --> 00:31:35,315
+CAMERON: Mickey is amazing.
+
+548
+00:31:36,324 --> 00:31:39,316
+I looked up his credits
+online last night and...
+
+549
+00:31:40,194 --> 00:31:42,822
+Well, Roman Holiday. Jesus.
+
+550
+00:31:42,897 --> 00:31:45,127
+Now, you see
+that building over there?
+
+551
+00:31:45,199 --> 00:31:47,133
+Used to be
+Charlie Chaplin's studio...
+
+552
+00:31:47,201 --> 00:31:49,362
+when he was
+running United Artists...
+
+553
+00:31:49,437 --> 00:31:51,428
+with Mary Pickford back in '23.
+
+554
+00:31:52,273 --> 00:31:53,262
+Wow.
+
+555
+00:32:26,741 --> 00:32:29,073
+Yes, may I help you?
+
+556
+00:32:29,143 --> 00:32:31,509
+Hey, Mickey... it's Flash.
+
+557
+00:32:33,514 --> 00:32:34,503
+Huh?
+
+558
+00:32:35,883 --> 00:32:37,350
+Flash...
+
+559
+00:32:37,418 --> 00:32:39,352
+You know, Flash Madden.
+
+560
+00:32:40,921 --> 00:32:43,151
+Flash Madden?
+
+561
+00:32:43,224 --> 00:32:45,988
+Oh, my God. How wonderful!
+
+562
+00:32:46,060 --> 00:32:48,255
+Well, come in, Flash.
+
+563
+00:32:48,329 --> 00:32:50,627
+Please make yourself at home.
+
+564
+00:33:03,611 --> 00:33:08,014
+Flash, it's been a hundred years
+since I saw you last.
+
+565
+00:33:08,082 --> 00:33:09,845
+Two hundred.
+
+566
+00:33:09,917 --> 00:33:12,385
+[Laughs]
+
+567
+00:33:15,856 --> 00:33:20,190
+[Helicopter flies by]
+
+568
+00:33:28,836 --> 00:33:30,895
+FLASH:
+That's a good idea, Mickey.
+
+569
+00:33:32,973 --> 00:33:35,032
+It's colder than
+a well digger's rear in here.
+
+570
+00:33:41,415 --> 00:33:42,814
+[Flies buzzing]
+
+571
+00:33:42,883 --> 00:33:45,545
+Yeah, y...
+You should turn up the heat.
+
+572
+00:33:46,620 --> 00:33:49,145
+Yeah, I will.
+
+573
+00:33:49,223 --> 00:33:50,212
+FLASH: Uh...
+
+574
+00:33:51,826 --> 00:33:55,227
+the kid here is, uh...
+
+575
+00:33:56,897 --> 00:33:58,524
+He's about to make a movie.
+
+576
+00:33:59,600 --> 00:34:01,329
+It's a student film.
+
+577
+00:34:01,402 --> 00:34:04,428
+He asked me to help him.
+I mean, what the hell?
+
+578
+00:34:04,505 --> 00:34:09,204
+But when I heard his idea,
+I knew he needed a writer.
+
+579
+00:34:09,276 --> 00:34:10,868
+Really?
+
+580
+00:34:10,945 --> 00:34:12,139
+Yeah.
+
+581
+00:34:12,213 --> 00:34:14,340
+You know, it's that, uh...
+
+582
+00:34:14,415 --> 00:34:16,542
+"if it ain't on the page,
+it ain't on the stage"...
+
+583
+00:34:16,617 --> 00:34:17,606
+[Chuckles] kind of thing.
+
+584
+00:34:18,752 --> 00:34:21,118
+I know exactly what you mean.
+
+585
+00:34:21,188 --> 00:34:24,487
+We had a similar problem.
+
+586
+00:34:24,558 --> 00:34:27,425
+First of all,
+there are no problems...
+
+587
+00:34:27,495 --> 00:34:29,224
+only solutions.
+
+588
+00:34:29,296 --> 00:34:33,665
+We had a similar situation
+on The Outlaw.
+
+589
+00:34:33,734 --> 00:34:37,636
+Howard Hughes could not
+figure out how to end it.
+
+590
+00:34:41,208 --> 00:34:43,335
+Wait, here you go.
+Here, I'll get it.
+
+591
+00:34:43,410 --> 00:34:45,105
+- Thank you, dear boy.
+- Ah, no problem at all.
+
+592
+00:34:45,179 --> 00:34:47,647
+Yeah, just bring it over
+here to the table.
+
+593
+00:34:47,715 --> 00:34:49,273
+[Mickey chuckling]
+
+594
+00:34:55,156 --> 00:34:58,922
+MICKEY, PANTING:
+Yeah, uh, well... Uh...
+
+595
+00:34:58,993 --> 00:35:02,451
+I'll just get
+the paper in and, uh...
+
+596
+00:35:02,530 --> 00:35:07,661
+we'll... we'll get started
+on a brief outline.
+
+597
+00:35:07,735 --> 00:35:09,930
+[Paper crinkling]
+
+598
+00:35:14,208 --> 00:35:15,903
+FLASH: Hey, kid...
+
+599
+00:35:15,976 --> 00:35:17,637
+give us a minute, will you?
+
+600
+00:35:17,711 --> 00:35:19,702
+Yeah, sure, Flash. I'll, um...
+
+601
+00:35:19,780 --> 00:35:21,577
+I'll go for a walk outside.
+
+602
+00:35:21,649 --> 00:35:23,947
+Stay away
+from room twelve.
+
+603
+00:35:46,640 --> 00:35:48,608
+MAN: ? What's wrong ?
+
+604
+00:35:50,110 --> 00:35:53,477
+? With my nation? ?
+
+605
+00:35:53,547 --> 00:35:58,610
+? Can only call it mine... ?
+
+606
+00:35:59,920 --> 00:36:03,185
+It's been thirty-five years...
+
+607
+00:36:05,359 --> 00:36:08,522
+[Emotional] Thirty-five years
+since someone asked me to write.
+
+608
+00:36:08,596 --> 00:36:10,257
+FLASH: Can you believe it?
+
+609
+00:36:11,932 --> 00:36:14,264
+I don't think I can do it.
+
+610
+00:36:14,902 --> 00:36:16,460
+FLASH: No, huh?
+
+611
+00:36:17,504 --> 00:36:19,472
+Well, I'm sorry, Mickey.
+I thought you might get...
+
+612
+00:36:19,540 --> 00:36:21,701
+a kick out of this kid.
+
+613
+00:36:21,775 --> 00:36:22,799
+I mean, who else in this town...
+
+614
+00:36:22,876 --> 00:36:25,674
+is gonna give a couple
+old farts like us a job?
+
+615
+00:36:25,746 --> 00:36:27,680
+[Tearfully] I'm sorry, Flash.
+
+616
+00:36:27,748 --> 00:36:30,216
+It's too long.
+
+617
+00:36:30,284 --> 00:36:31,808
+I've lost the gift.
+
+618
+00:36:31,885 --> 00:36:33,580
+Ah, we never lose our gifts...
+
+619
+00:36:33,654 --> 00:36:35,918
+only the opportunity
+to open them.
+
+620
+00:36:38,158 --> 00:36:41,821
+That's pretty eloquent
+for a gaffer.
+
+621
+00:36:43,097 --> 00:36:45,725
+Even us juicers have
+our moments, huh?
+
+622
+00:36:47,768 --> 00:36:50,202
+Hey... pal.
+
+623
+00:36:52,473 --> 00:36:53,872
+Don't worry.
+
+624
+00:36:53,941 --> 00:36:56,967
+Think about it
+for a few days, huh?
+
+625
+00:36:57,778 --> 00:36:59,769
+Take your time.
+
+626
+00:36:59,847 --> 00:37:01,781
+We'll get back to you.
+
+627
+00:37:01,849 --> 00:37:03,282
+"We'll get back to you."
+
+628
+00:37:03,350 --> 00:37:05,250
+[Chuckles]
+That's the last thing...
+
+629
+00:37:05,319 --> 00:37:08,049
+I heard Louis B. Mayer
+say to me in '57.
+
+630
+00:37:08,122 --> 00:37:09,817
+[Laughs]
+
+631
+00:37:09,890 --> 00:37:12,882
+But we're not M.G.M.
+We'll be back.
+
+632
+00:37:15,629 --> 00:37:19,622
+? No redemption in sight ?
+
+633
+00:37:23,370 --> 00:37:27,534
+? No, not to the right ?
+
+634
+00:37:29,643 --> 00:37:31,804
+? So wrong ?
+
+635
+00:37:31,879 --> 00:37:36,714
+? Swinging further right ?
+
+636
+00:37:36,784 --> 00:37:38,809
+? So long ?
+
+637
+00:37:38,886 --> 00:37:40,410
+? So long ?
+
+638
+00:37:40,487 --> 00:37:43,388
+? Innocence o' mine ?
+
+639
+00:37:43,457 --> 00:37:47,393
+? And how long before... ?
+
+640
+00:37:47,461 --> 00:37:50,123
+Doesn't Mickey have any family?
+
+641
+00:37:50,197 --> 00:37:53,325
+He's got a daughter
+in New Hampshire, I think.
+
+642
+00:37:53,400 --> 00:37:54,697
+Then how can she let him
+live like that?
+
+643
+00:37:54,768 --> 00:37:58,329
+Well, I doubt if she knows.
+Out of sight, out of mind.
+
+644
+00:38:00,307 --> 00:38:02,070
+I never knew places
+like that existed.
+
+645
+00:38:02,142 --> 00:38:03,473
+Well, now you know.
+
+646
+00:38:04,144 --> 00:38:07,011
+This country's famous
+for shitting on their elderly.
+
+647
+00:38:07,081 --> 00:38:09,106
+God help you
+if you don't have family.
+
+648
+00:38:10,250 --> 00:38:11,342
+Why can't he live
+where you live?
+
+649
+00:38:11,418 --> 00:38:12,578
+It's nice there.
+
+650
+00:38:12,653 --> 00:38:15,645
+I don't think he was
+in a union that provides for it.
+
+651
+00:38:15,723 --> 00:38:16,951
+I'm lucky.
+
+652
+00:38:17,024 --> 00:38:18,958
+It's the only good thing
+Hollywood ever did for me.
+
+653
+00:38:19,026 --> 00:38:22,860
+America's all about the young,
+the beautiful, "the winner!"
+
+654
+00:38:23,797 --> 00:38:27,858
+You know, kid, in Europe, Asia,
+and especially Africa...
+
+655
+00:38:27,935 --> 00:38:29,869
+the elderly
+are truly respected...
+
+656
+00:38:29,937 --> 00:38:33,270
+and they're almost treasured
+by the... by the young people.
+
+657
+00:38:33,774 --> 00:38:36,470
+Not here though, oh, no.
+Oh, no.
+
+658
+00:38:36,543 --> 00:38:38,477
+We live in a throwaway society.
+
+659
+00:38:38,545 --> 00:38:40,274
+If it breaks, throw it away.
+
+660
+00:38:40,347 --> 00:38:42,281
+If a new one pops up,
+throw the old one away.
+
+661
+00:38:42,349 --> 00:38:44,579
+If your puppy grows up
+to be a pain-in-the-ass dog...
+
+662
+00:38:44,651 --> 00:38:46,050
+dump it. Someone will kill it.
+
+663
+00:38:46,120 --> 00:38:48,054
+Your marriage isn't working?
+Hey, divorce...
+
+664
+00:38:48,122 --> 00:38:49,521
+throw it away,
+marry someone else.
+
+665
+00:38:49,590 --> 00:38:51,455
+You get sick of them?
+Throw them away too.
+
+666
+00:38:51,525 --> 00:38:52,549
+BUS DRIVER: Sherman Way.
+
+667
+00:38:52,626 --> 00:38:53,957
+That's what my dad
+did to my mom.
+
+668
+00:38:54,027 --> 00:38:55,289
+She's different now.
+
+669
+00:38:55,362 --> 00:38:57,353
+So then he's an asshole, right?
+
+670
+00:38:58,365 --> 00:38:59,764
+Yeah, probably.
+
+671
+00:38:59,833 --> 00:39:01,391
+Yeah, you're better off
+without him.
+
+672
+00:39:04,772 --> 00:39:07,673
+Eh, the world's upside down.
+
+673
+00:39:11,011 --> 00:39:13,138
+But, hey, kid, don't worry.
+
+674
+00:39:13,213 --> 00:39:14,737
+Nobody else does.
+
+675
+00:39:14,815 --> 00:39:16,146
+Be happy, you're young!
+
+676
+00:39:16,216 --> 00:39:18,081
+You got the world
+by the short hairs.
+
+677
+00:39:18,152 --> 00:39:20,052
+Not me, I'm a nobody.
+
+678
+00:39:20,120 --> 00:39:21,109
+Yeah? Says who?
+
+679
+00:39:22,055 --> 00:39:23,647
+My friend Murphy.
+
+680
+00:39:23,724 --> 00:39:26,454
+He says, he says guys
+like me don't even matter.
+
+681
+00:39:26,527 --> 00:39:28,017
+The botched and the bungled...
+
+682
+00:39:28,095 --> 00:39:31,462
+something
+that "Niatchsky" said.
+
+683
+00:39:33,767 --> 00:39:37,760
+Nietzsche,
+you stupid, ignorant fart.
+
+684
+00:39:41,742 --> 00:39:43,334
+"It's not the strength...
+
+685
+00:39:43,410 --> 00:39:45,241
+"but the duration
+of great sentiments...
+
+686
+00:39:45,312 --> 00:39:46,643
+"that makes great men."
+
+687
+00:39:47,714 --> 00:39:50,444
+- What?
+- Nietzsche said that too.
+
+688
+00:39:50,517 --> 00:39:51,950
+But what do you know
+about Nietzsche?
+
+689
+00:39:52,019 --> 00:39:54,249
+What do you know about
+anything? You're a kid.
+
+690
+00:39:54,321 --> 00:39:55,686
+No, I, I meant...
+
+691
+00:39:55,756 --> 00:39:58,850
+Nietzsche was
+full of shit most of the time.
+
+692
+00:39:58,926 --> 00:40:02,020
+Tolstoy says
+that Nietzsche was stupid...
+
+693
+00:40:02,095 --> 00:40:04,029
+and, uh, abnormal...
+
+694
+00:40:04,097 --> 00:40:06,463
+and so is your friend Murphy.
+
+695
+00:40:06,533 --> 00:40:08,160
+Yeah, well, you got
+the abnormal part right.
+
+696
+00:40:08,235 --> 00:40:09,532
+I'd keep an eye on him.
+
+697
+00:40:09,603 --> 00:40:12,265
+Oh, not to change
+the subject...
+
+698
+00:40:12,339 --> 00:40:15,001
+from Nietzsche
+and the great Murphy...
+
+699
+00:40:15,075 --> 00:40:18,977
+but, um...
+how you doin' on my Cubans?
+
+700
+00:40:21,081 --> 00:40:23,208
+Just what the doctor
+didn't order.
+
+701
+00:40:23,283 --> 00:40:25,217
+Well, bless you, child.
+
+702
+00:40:25,285 --> 00:40:26,650
+Call you later, Flash.
+
+703
+00:40:26,720 --> 00:40:28,847
+Hey, hey, don't be
+so down in the dumps.
+
+704
+00:40:28,922 --> 00:40:30,753
+We're gonna make
+this movie, right? Got it?
+
+705
+00:40:31,658 --> 00:40:33,421
+Got it. Tomorrow?
+
+706
+00:40:33,494 --> 00:40:35,428
+Make it tomorrow night.
+I want to show you something.
+
+707
+00:40:35,496 --> 00:40:38,488
+- O.K.
+- Hey, hey, I didn't hear you.
+
+708
+00:40:38,565 --> 00:40:40,055
+I'm old, damn it.
+
+709
+00:40:40,133 --> 00:40:42,158
+I got it!
+
+710
+00:40:44,805 --> 00:40:47,774
+All right. [Chuckles]
+
+711
+00:40:50,177 --> 00:40:52,509
+[Helicopter flies overhead]
+
+712
+00:40:54,515 --> 00:40:55,914
+CAMERON: "Pennsylvania
+Department of Health...
+
+713
+00:40:55,983 --> 00:40:57,746
+"receiving complaints
+regarding nursing homes...
+
+714
+00:40:57,818 --> 00:40:59,410
+"and long-term care.
+
+715
+00:40:59,486 --> 00:41:01,420
+"The halls reek of urine.
+
+716
+00:41:01,488 --> 00:41:03,922
+"Old people lie helpless
+in their beds hour after hour...
+
+717
+00:41:03,991 --> 00:41:06,983
+"their soiled diapers unchanged.
+
+718
+00:41:07,060 --> 00:41:08,584
+"These were
+the sights and smells...
+
+719
+00:41:08,662 --> 00:41:10,994
+"at a nursing home
+in Huntington Beach."
+
+720
+00:41:36,657 --> 00:41:39,854
+Somebody's been
+smoking again.
+
+721
+00:41:39,927 --> 00:41:41,861
+It's a new cologne...
+
+722
+00:41:41,929 --> 00:41:43,521
+Eau de Cohiba.
+
+723
+00:41:43,597 --> 00:41:44,586
+WOMAN: Hmm...
+
+724
+00:41:44,665 --> 00:41:48,396
+breaking the rules... again?
+
+725
+00:41:48,468 --> 00:41:52,165
+That just makes me so horny.
+
+726
+00:41:52,239 --> 00:41:53,866
+Yeah, you're always horny.
+
+727
+00:41:53,941 --> 00:41:55,738
+[Woman laughs]
+
+728
+00:41:55,809 --> 00:41:59,336
+That's not such a bad thing,
+now, is it?
+
+729
+00:41:59,413 --> 00:42:00,846
+Well... [mumbling]
+
+730
+00:42:00,914 --> 00:42:05,874
+Just the thought of you two
+bumpin' uglies messes me up.
+
+731
+00:42:05,953 --> 00:42:07,580
+Come on, Mildred.
+
+732
+00:42:07,654 --> 00:42:10,817
+You've got plenty
+of other men to tease.
+
+733
+00:42:12,326 --> 00:42:15,227
+Teasing's not such
+a bad thing, now, is it?
+
+734
+00:42:15,295 --> 00:42:18,128
+[Laughs] No, honey, it's not.
+
+735
+00:42:18,198 --> 00:42:20,496
+Flash, you got a phone call
+back in the lobby.
+
+736
+00:42:20,567 --> 00:42:22,057
+Some kid.
+
+737
+00:42:24,805 --> 00:42:25,794
+Hello?
+
+738
+00:42:25,872 --> 00:42:28,102
+Hey, Flash, it's Cameron.
+How you doing?
+
+739
+00:42:28,175 --> 00:42:29,733
+Uh, women keep throwing
+themselves at me.
+
+740
+00:42:29,810 --> 00:42:31,243
+Thank God for Viagra.
+
+741
+00:42:31,311 --> 00:42:36,874
+Uh... so I called because I
+changed my mind about the film.
+
+742
+00:42:36,950 --> 00:42:39,009
+You what? Uh... [Chuckles]
+
+743
+00:42:39,086 --> 00:42:41,054
+- Now listen to me, kid.
+- I don't want to do...
+
+744
+00:42:41,121 --> 00:42:44,215
+that motorcycle/vacuum
+salesman thing anymore.
+
+745
+00:42:44,291 --> 00:42:45,724
+FLASH: Well, wait a minute.
+
+746
+00:42:45,792 --> 00:42:47,555
+You can't do this, kid.
+
+747
+00:42:47,628 --> 00:42:51,997
+I mean... what about my Cubans
+and the Wild Turkey and...
+
+748
+00:42:52,065 --> 00:42:54,590
+Come on! Now, don't give up
+on this movie!
+
+749
+00:42:54,668 --> 00:42:56,761
+No, Flash, I just gave up
+on the motorcycle idea...
+
+750
+00:42:56,837 --> 00:42:58,065
+not the actual film.
+
+751
+00:42:58,138 --> 00:42:59,537
+Well, what the hell
+are we gonna shoot?
+
+752
+00:42:59,606 --> 00:43:01,403
+I want to do
+a docudrama about...
+
+753
+00:43:01,475 --> 00:43:03,534
+about those crap places
+like where Mickey lives.
+
+754
+00:43:03,610 --> 00:43:05,043
+Well, what do you mean?
+
+755
+00:43:06,313 --> 00:43:07,371
+Hold on.
+
+756
+00:43:07,447 --> 00:43:10,143
+"In 2005, in L.A. County...
+
+757
+00:43:10,217 --> 00:43:12,378
+"91% of the nursing homes
+had violations."
+
+758
+00:43:12,452 --> 00:43:16,582
+You're some surprise, kid,
+and no one surprises me no more.
+
+759
+00:43:16,657 --> 00:43:17,646
+I want to get
+with Mickey again...
+
+760
+00:43:17,724 --> 00:43:19,123
+because we could,
+we could still use his help.
+
+761
+00:43:19,192 --> 00:43:21,786
+Go easy on that.
+I'm not sure that he's ready.
+
+762
+00:43:21,862 --> 00:43:23,625
+FLASH:
+We'll talk about it first.
+
+763
+00:43:23,697 --> 00:43:25,562
+We need him. All right, um...
+
+764
+00:43:25,632 --> 00:43:26,656
+are we still on
+for tomorrow night?
+
+765
+00:43:26,733 --> 00:43:27,995
+Yeah.
+
+766
+00:43:28,068 --> 00:43:29,729
+O.K., I'll meet you
+at the bus stop at seven.
+
+767
+00:43:29,803 --> 00:43:32,328
+Yeah, well, you make it eight...
+and you be there!
+
+768
+00:43:32,406 --> 00:43:33,805
+O.K., eight.
+
+769
+00:43:34,875 --> 00:43:35,864
+[Hangs up phone]
+
+770
+00:43:37,411 --> 00:43:39,345
+- Hello?
+- [Dial tone]
+
+771
+00:43:39,413 --> 00:43:40,402
+Flash?
+
+772
+00:43:40,981 --> 00:43:41,970
+[Phone beeps]
+
+773
+00:43:42,983 --> 00:43:44,575
+[Crickets chirp]
+
+774
+00:43:54,661 --> 00:43:55,650
+[Crying]
+
+775
+00:44:02,402 --> 00:44:04,802
+[Sobbing]
+
+776
+00:44:54,955 --> 00:44:56,252
+Hey, Mickey.
+
+777
+00:44:56,323 --> 00:44:59,315
+MICKEY: Hello, kid.
+Uh... where's Flash?
+
+778
+00:45:00,293 --> 00:45:01,282
+Well, he's...
+
+779
+00:45:03,663 --> 00:45:05,654
+I really need your help, Mickey.
+
+780
+00:45:06,733 --> 00:45:09,998
+I... I'm no good to you, son.
+
+781
+00:45:10,937 --> 00:45:12,268
+It's too far gone.
+
+782
+00:45:12,939 --> 00:45:15,908
+No, listen, can...
+Can you just hear me out?
+
+783
+00:45:15,976 --> 00:45:18,240
+Can I, can I come in
+for a minute?
+
+784
+00:45:18,311 --> 00:45:20,040
+Yeah... of course.
+
+785
+00:45:23,450 --> 00:45:25,680
+Flash said you'd be back.
+
+786
+00:45:36,496 --> 00:45:38,464
+Hey, Cameron...
+
+787
+00:45:38,532 --> 00:45:40,523
+pick up one of them boxes.
+
+788
+00:45:41,301 --> 00:45:42,962
+No, no, the bigger one.
+
+789
+00:45:43,970 --> 00:45:45,164
+You called me Cameron.
+
+790
+00:45:45,238 --> 00:45:46,262
+It's your name, isn't it?
+
+791
+00:45:48,074 --> 00:45:50,474
+ANNOUNCER ON TV: Wells
+at the line for his second shot.
+
+792
+00:45:50,544 --> 00:45:52,375
+It's up... no good!
+
+793
+00:45:52,445 --> 00:45:54,606
+Kicked out back, rebounded
+there, pass outlet...
+
+794
+00:45:54,681 --> 00:45:56,410
+MAN: Pass the ball!
+
+795
+00:45:56,483 --> 00:45:58,417
+Ah, that ain't no foul!
+
+796
+00:45:58,485 --> 00:46:00,851
+That ain't no foul!
+Thank God it's Shaq.
+
+797
+00:46:00,921 --> 00:46:02,786
+Thank God it's Shaq.
+
+798
+00:46:02,856 --> 00:46:04,847
+Hey, whoa, ho.
+Hey, whoa, hey.
+
+799
+00:46:05,425 --> 00:46:08,019
+Expendables, Stage 10.
+The kid's with me.
+
+800
+00:46:08,094 --> 00:46:09,493
+MAN: You got I. D?
+
+801
+00:46:09,563 --> 00:46:10,552
+No problemo.
+
+802
+00:46:11,498 --> 00:46:12,760
+What's the score?
+
+803
+00:46:12,833 --> 00:46:14,630
+Lakers by two, double overtime.
+
+804
+00:46:14,701 --> 00:46:16,896
+Bingo, Shaq just missed
+another free throw!
+
+805
+00:46:16,970 --> 00:46:18,301
+Some things never change.
+
+806
+00:46:19,206 --> 00:46:20,798
+Haven't seen you before.
+You new?
+
+807
+00:46:20,874 --> 00:46:22,205
+I'm anything but new...
+
+808
+00:46:23,310 --> 00:46:25,437
+meaning I'm old. Get it?
+
+809
+00:46:25,512 --> 00:46:26,672
+Oh, yeah, oh, yeah.
+
+810
+00:46:26,746 --> 00:46:28,008
+Hey, Stage 10,
+right around the corner.
+
+811
+00:46:28,081 --> 00:46:29,070
+FLASH: Merry Christmas.
+
+812
+00:46:29,149 --> 00:46:30,946
+MAN: Yeah,
+Merry Christmas to you too.
+
+813
+00:46:31,017 --> 00:46:33,577
+? Ooh ?
+
+814
+00:46:33,653 --> 00:46:36,121
+? Lonely, lonely, lonely ?
+
+815
+00:46:36,189 --> 00:46:40,091
+? I'm waiting for you... ?
+
+816
+00:46:41,995 --> 00:46:44,759
+? Ooh ?
+
+817
+00:46:44,831 --> 00:46:47,061
+? Lonely, lonely, lonely ?
+
+818
+00:46:48,635 --> 00:46:50,227
+CAMERON: Where's Stage 10?
+
+819
+00:46:50,303 --> 00:46:53,272
+FLASH:
+We're not going to Stage 10.
+
+820
+00:46:53,340 --> 00:46:55,069
+Come on.
+
+821
+00:46:55,141 --> 00:46:56,130
+[Clears throat]
+
+822
+00:46:56,209 --> 00:46:57,574
+Lose the box.
+
+823
+00:47:03,783 --> 00:47:05,410
+CAMERON:
+How hot do the lights get?
+
+824
+00:47:05,485 --> 00:47:06,474
+FLASH: Hot.
+
+825
+00:47:07,320 --> 00:47:10,050
+Are these c-stands?
+I love c-stands!
+
+826
+00:47:15,328 --> 00:47:17,888
+So can we actually come back
+and grab some of this stuff?
+
+827
+00:47:17,964 --> 00:47:19,329
+[Flash grunts]
+
+828
+00:47:19,399 --> 00:47:21,526
+CAMERON: This place
+is actually pretty creepy.
+
+829
+00:47:21,601 --> 00:47:22,932
+Seems like the kind of place
+that would be haunted.
+
+830
+00:47:24,437 --> 00:47:25,836
+[Flash grunts]
+
+831
+00:47:25,906 --> 00:47:27,396
+What would happen
+if we got caught in here?
+
+832
+00:47:27,474 --> 00:47:30,034
+FLASH: Uh...
+well, it's been a long time...
+
+833
+00:47:30,110 --> 00:47:31,737
+but I'm sure it's still here.
+
+834
+00:47:31,811 --> 00:47:32,800
+What's still here?
+
+835
+00:47:34,347 --> 00:47:35,678
+Hmm...
+
+836
+00:47:37,217 --> 00:47:40,118
+FLASH:
+They must have sealed it off.
+
+837
+00:47:40,186 --> 00:47:42,814
+CAMERON: Well, then we should
+probably head back then, right?
+
+838
+00:47:42,889 --> 00:47:44,754
+FLASH: Not likely.
+
+839
+00:47:47,427 --> 00:47:48,416
+[Door thumps]
+
+840
+00:47:49,296 --> 00:47:50,627
+[Door creaks]
+
+841
+00:47:52,365 --> 00:47:53,696
+It's, it's still here.
+
+842
+00:47:54,868 --> 00:47:57,098
+[Talking to himself]
+
+843
+00:48:02,642 --> 00:48:03,631
+[Wood clatters]
+
+844
+00:48:05,745 --> 00:48:06,769
+[Wings flap]
+
+845
+00:48:06,846 --> 00:48:08,711
+CAMERON: Is this, like,
+breaking and entering?
+
+846
+00:48:08,782 --> 00:48:11,751
+FLASH: Yeah, who broke in?
+The door just opened.
+
+847
+00:48:15,655 --> 00:48:16,644
+FLASH: Oh, shit.
+
+848
+00:48:18,591 --> 00:48:20,218
+Where's the goddamn
+fuse box?
+
+849
+00:48:29,436 --> 00:48:30,460
+How'd you do that?
+
+850
+00:48:30,537 --> 00:48:32,869
+I'm a gaffer, for Christ's sake.
+
+851
+00:48:32,939 --> 00:48:33,928
+Oh, right.
+
+852
+00:48:34,674 --> 00:48:36,335
+Well, this is it.
+
+853
+00:48:38,645 --> 00:48:41,136
+This is our room,
+the crew's room.
+
+854
+00:48:41,214 --> 00:48:43,148
+Yeah, used to be
+the old prop room.
+
+855
+00:48:43,216 --> 00:48:45,150
+We cleaned it up and,
+uh, made it our own.
+
+856
+00:48:45,218 --> 00:48:46,549
+This is so cool.
+
+857
+00:48:47,687 --> 00:48:49,655
+How is it still here?
+
+858
+00:48:49,723 --> 00:48:51,384
+Uh, the present management
+doesn't know about this room.
+
+859
+00:48:51,458 --> 00:48:52,550
+Never did.
+
+860
+00:48:52,625 --> 00:48:54,650
+Thank god. They'd turn it
+into a Starbucks.
+
+861
+00:48:54,728 --> 00:48:56,127
+CAMERON: Yeah, right.
+
+862
+00:48:56,196 --> 00:48:58,528
+So this place
+was like a clubhouse?
+
+863
+00:48:59,032 --> 00:49:00,590
+FLASH: Yeah, sort of.
+
+864
+00:49:00,667 --> 00:49:03,033
+But it was a tough club
+to get into.
+
+865
+00:49:03,103 --> 00:49:05,901
+No above-the-line wankers,
+that's for sure.
+
+866
+00:49:05,972 --> 00:49:06,996
+Above the line?
+
+867
+00:49:07,073 --> 00:49:10,338
+Eh, producers, directors,
+writers, actors, those creeps.
+
+868
+00:49:12,412 --> 00:49:13,902
+So you know all these people?
+
+869
+00:49:13,980 --> 00:49:16,972
+Most of them.
+A lot of them are dead.
+
+870
+00:49:17,817 --> 00:49:19,978
+Uh, but these are my friends.
+
+871
+00:49:20,053 --> 00:49:23,614
+Hey, that's me with the crew
+of, uh, Citizen Kane.
+
+872
+00:49:23,690 --> 00:49:25,157
+You worked on Citizen Kane?
+
+873
+00:49:25,225 --> 00:49:27,420
+Yeah... the skinny guy
+in the middle.
+
+874
+00:49:27,494 --> 00:49:29,826
+CAMERON: So amazing.
+Is Orson Welles there?
+
+875
+00:49:30,497 --> 00:49:33,466
+These are crew-only photos,
+for Christ's sake.
+
+876
+00:49:33,533 --> 00:49:35,501
+Oh, so no directors,
+no wankers?
+
+877
+00:49:35,568 --> 00:49:36,557
+Right.
+
+878
+00:49:37,637 --> 00:49:39,832
+I always wanted to be
+a wanker... director.
+
+879
+00:49:39,906 --> 00:49:42,602
+A director, huh?
+The man in the chair, huh?
+
+880
+00:49:42,675 --> 00:49:43,733
+I guess.
+
+881
+00:49:43,810 --> 00:49:45,141
+You guess?
+
+882
+00:49:45,211 --> 00:49:47,236
+The man in the chair
+can't ever be a guesser.
+
+883
+00:49:47,313 --> 00:49:48,541
+He's gotta make decisions.
+
+884
+00:49:48,615 --> 00:49:49,946
+You know, boom, boom,
+boom, boom, boom.
+
+885
+00:49:50,016 --> 00:49:51,347
+He's gotta know
+what he's doing.
+
+886
+00:49:51,418 --> 00:49:54,182
+Frank Capra says, "If you're
+half right, you'll be a genius."
+
+887
+00:49:54,254 --> 00:49:56,381
+Frank Capra, cool director.
+Money!
+
+888
+00:49:56,456 --> 00:49:58,287
+Hello? [Mutters]
+
+889
+00:49:59,259 --> 00:50:00,988
+CAMERON:
+Did you ever direct a movie?
+
+890
+00:50:01,061 --> 00:50:02,790
+Yeah, I got close to it
+a couple of times...
+
+891
+00:50:02,862 --> 00:50:08,095
+but it wasn't exactly my cup of,
+uh, tea... if you get my drift.
+
+892
+00:50:08,168 --> 00:50:11,160
+Oh, you had a little booze,
+drinking problem...
+
+893
+00:50:11,237 --> 00:50:12,226
+thing, problem?
+
+894
+00:50:13,273 --> 00:50:15,605
+Oh, yeah, I had my...
+[Chuckles]
+
+895
+00:50:15,675 --> 00:50:19,202
+fair share of, mmm,
+missed opportunities.
+
+896
+00:50:23,817 --> 00:50:24,806
+Flash?
+
+897
+00:50:24,884 --> 00:50:25,873
+Yeah, kid.
+
+898
+00:50:30,557 --> 00:50:33,492
+You're the only one who
+can help me out with this.
+
+899
+00:50:35,328 --> 00:50:37,660
+And I want to know everything
+there is to know.
+
+900
+00:50:37,730 --> 00:50:40,426
+Teach me how to make movies...
+
+901
+00:50:40,500 --> 00:50:43,060
+how to watch them...
+everything.
+
+902
+00:50:43,136 --> 00:50:45,400
+It means
+that much to you, huh?
+
+903
+00:50:45,472 --> 00:50:47,440
+To be the man in the chair?
+
+904
+00:50:47,507 --> 00:50:50,169
+Yeah, it does... everything.
+
+905
+00:50:50,243 --> 00:50:52,541
+Will you be willing
+to pay the price?
+
+906
+00:50:53,680 --> 00:50:55,580
+Cigars and Wild Turkey?
+
+907
+00:50:55,648 --> 00:50:57,548
+No, no, no.
+Well, yeah, yeah, of cour...
+
+908
+00:50:57,617 --> 00:50:58,606
+[Sharply] No.
+
+909
+00:51:00,019 --> 00:51:02,010
+I mean, the real price.
+
+910
+00:51:04,023 --> 00:51:05,456
+CAMERON: What's that?
+
+911
+00:51:05,525 --> 00:51:08,016
+A promise... to me...
+
+912
+00:51:09,662 --> 00:51:12,563
+that if you ever make it,
+you won't crap on people...
+
+913
+00:51:12,632 --> 00:51:14,293
+like Mickey and the others...
+
+914
+00:51:15,301 --> 00:51:17,292
+like these fine folks.
+
+915
+00:51:20,540 --> 00:51:25,534
+And that you'll never forget
+how and who...
+
+916
+00:51:27,147 --> 00:51:28,808
+got you to the chair.
+
+917
+00:51:30,216 --> 00:51:31,877
+Can you make that promise?
+
+918
+00:51:34,020 --> 00:51:35,510
+Sure, Flash.
+
+919
+00:51:37,557 --> 00:51:39,286
+Now we're talking Technicolor.
+
+920
+00:51:40,994 --> 00:51:43,792
+Well, it'll actually
+probably be 24p digital video.
+
+921
+00:51:43,863 --> 00:51:44,852
+Yeah, whatever.
+
+922
+00:51:55,475 --> 00:51:57,409
+- You know all these people?
+- Yeah, most of them.
+
+923
+00:51:58,578 --> 00:52:00,136
+Do you have a star?
+
+924
+00:52:00,213 --> 00:52:02,078
+The only thing in the ground
+with my name on it...
+
+925
+00:52:02,148 --> 00:52:03,638
+will be a gravestone.
+
+926
+00:52:03,716 --> 00:52:05,149
+Why? You made
+some great movies.
+
+927
+00:52:05,218 --> 00:52:08,585
+Oh, come on.
+You gotta be famous, adored.
+
+928
+00:52:08,655 --> 00:52:09,952
+- I'm neither.
+- [Bell ringing]
+
+929
+00:52:10,023 --> 00:52:11,547
+You should get a star just
+for helping out me and Murphy.
+
+930
+00:52:11,624 --> 00:52:15,355
+Hey, remember this.
+The glitter ends at La Brea.
+
+931
+00:52:15,428 --> 00:52:16,793
+What does that mean?
+
+932
+00:52:16,863 --> 00:52:20,162
+You see the glitter that
+the city puts in the pavement...
+
+933
+00:52:20,233 --> 00:52:22,599
+- where the stars are, huh?
+- Yeah?
+
+934
+00:52:22,669 --> 00:52:25,365
+Well, look, it ends at La Brea.
+
+935
+00:52:26,472 --> 00:52:27,962
+No stars, no glitter.
+
+936
+00:52:28,041 --> 00:52:30,566
+In other words, uh,
+it don't last forever...
+
+937
+00:52:30,643 --> 00:52:32,076
+like fame in Hollywood.
+
+938
+00:52:32,145 --> 00:52:34,613
+It lasts for only a second,
+if at all.
+
+939
+00:52:34,681 --> 00:52:37,844
+So don't friggin' worry
+about gettin' famous.
+
+940
+00:52:37,917 --> 00:52:39,680
+Get good at your job.
+
+941
+00:52:39,752 --> 00:52:42,380
+If fame comes along, so be it.
+
+942
+00:52:42,455 --> 00:52:43,479
+CAMERON:
+You're famous to me.
+
+943
+00:52:43,556 --> 00:52:46,184
+FLASH: That's because you
+don't know anybody else.
+
+944
+00:52:55,568 --> 00:52:56,694
+NURSE: Oh!
+
+945
+00:52:59,405 --> 00:53:00,736
+YOGA INSTRUCTOR ON TV:
+As you can see, we have...
+
+946
+00:53:00,807 --> 00:53:02,035
+MAN: Oh, come on, Speed.
+We're all trying to see that.
+
+947
+00:53:02,108 --> 00:53:05,703
+Move back please, Speed,
+so we can all see.
+
+948
+00:53:05,778 --> 00:53:06,767
+What?
+
+949
+00:53:07,747 --> 00:53:09,146
+MAN: Get out of the way.
+
+950
+00:53:13,052 --> 00:53:16,044
+- Hey!
+- Well, what's happening?
+
+951
+00:53:16,122 --> 00:53:18,113
+- Flash, I was dancing.
+- [Overlapping chatter]
+
+952
+00:53:19,058 --> 00:53:20,218
+FLASH:
+Wait a minute, wait a minute.
+
+953
+00:53:20,293 --> 00:53:21,726
+Shut up! Shut up!
+
+954
+00:53:21,794 --> 00:53:23,785
+I got something to tell you.
+
+955
+00:53:24,430 --> 00:53:26,227
+We're going on location.
+
+956
+00:53:28,401 --> 00:53:30,232
+It's time for my medication?
+
+957
+00:53:30,303 --> 00:53:31,292
+[Murmuring]
+
+958
+00:53:32,505 --> 00:53:34,564
+MAN 2:
+No, we're going on location.
+
+959
+00:53:34,641 --> 00:53:37,337
+- Oh, Speed.
+- Not yet, we're not rolling.
+
+960
+00:53:38,544 --> 00:53:41,877
+I just love location shooting!
+
+961
+00:53:41,948 --> 00:53:45,179
+The hotels, the parties,
+the fun, the dancing...
+
+962
+00:53:45,251 --> 00:53:46,843
+Slut.
+
+963
+00:53:46,919 --> 00:53:48,443
+Mrs. Erskine!
+
+964
+00:53:48,521 --> 00:53:49,510
+Oh, she's a tramp!
+
+965
+00:53:49,589 --> 00:53:51,648
+You silly old biddy.
+
+966
+00:53:51,724 --> 00:53:54,693
+Why, your chariot's so low,
+it's dragging the basement floor.
+
+967
+00:53:54,761 --> 00:53:55,785
+Get a life.
+
+968
+00:53:55,862 --> 00:53:56,920
+FLASH: Hey, hey, ladies...
+
+969
+00:53:56,996 --> 00:53:58,429
+Is that Animal Planet?
+
+970
+00:53:58,498 --> 00:53:59,931
+FLASH: Hey, hey ladies, relax.
+
+971
+00:53:59,999 --> 00:54:02,991
+Ladies... we're not exactly
+going on location...
+
+972
+00:54:03,069 --> 00:54:05,196
+- but we are going into production.
+- MAN: O.K.
+
+973
+00:54:05,271 --> 00:54:06,260
+MRS ERSKINE:
+Yeah, what's the rate?
+
+974
+00:54:06,339 --> 00:54:07,829
+What did he say?
+
+975
+00:54:07,907 --> 00:54:09,374
+That's great, that's hot.
+
+976
+00:54:09,442 --> 00:54:11,410
+[Whistling] Let him talk!
+
+977
+00:54:13,046 --> 00:54:16,243
+Well, I met a kid who needs
+our help with his student film.
+
+978
+00:54:16,316 --> 00:54:18,409
+- Hey, Flash!
+- Yeah, Montana.
+
+979
+00:54:18,484 --> 00:54:19,951
+What's he need?
+
+980
+00:54:20,019 --> 00:54:21,452
+He needs your help
+with wardrobe...
+
+981
+00:54:21,521 --> 00:54:23,648
+and, Rich, he needs your help
+with art direction.
+
+982
+00:54:23,723 --> 00:54:25,213
+Speed can help with sound.
+
+983
+00:54:25,291 --> 00:54:27,782
+- What?
+- You can do the sound.
+
+984
+00:54:28,561 --> 00:54:30,461
+Bernie here can give him
+a hand with props.
+
+985
+00:54:30,530 --> 00:54:32,191
+I'm retired.
+I got out of the rat race...
+
+986
+00:54:32,265 --> 00:54:33,630
+a long time ago, thank you.
+
+987
+00:54:33,700 --> 00:54:35,964
+Butch can help with camera,
+me with lighting...
+
+988
+00:54:36,035 --> 00:54:38,003
+- and Big John with grip.
+- You betcha.
+
+989
+00:54:38,071 --> 00:54:41,598
+Oh, boy, does he have
+the best crew in town.
+
+990
+00:54:41,674 --> 00:54:43,301
+Well, the oldest crew, anyway.
+
+991
+00:54:43,376 --> 00:54:45,071
+[Laughter]
+
+992
+00:54:45,144 --> 00:54:46,509
+The what?
+
+993
+00:54:46,579 --> 00:54:50,345
+And the only one
+with a deaf sound mixer.
+
+994
+00:54:50,416 --> 00:54:53,442
+- [Laughter]
+- Oh, I heard that.
+
+995
+00:54:53,519 --> 00:54:56,010
+Flash, I'm available.
+
+996
+00:54:56,089 --> 00:54:57,681
+Newsflash!
+
+997
+00:54:57,757 --> 00:54:59,952
+So, who's the kid?
+
+998
+00:55:00,026 --> 00:55:01,550
+CAMERON: We're just
+doing research. You'll be fine.
+
+999
+00:55:01,627 --> 00:55:03,720
+MICKEY: I don't know, Cameron.
+
+1000
+00:55:03,796 --> 00:55:05,593
+It's cool. You'll be all right.
+
+1001
+00:55:05,665 --> 00:55:08,998
+Eh, Flash said you were
+a pushy little so-and-so.
+
+1002
+00:55:12,071 --> 00:55:14,869
+Don't be afraid, Mickey.
+It's only a computer.
+
+1003
+00:55:14,941 --> 00:55:16,875
+It's real easy, O. K?
+Computers are really stupid.
+
+1004
+00:55:16,943 --> 00:55:18,274
+They do exactly what
+you tell them to.
+
+1005
+00:55:18,344 --> 00:55:21,040
+That's what I'm afraid of,
+what to tell them.
+
+1006
+00:55:21,114 --> 00:55:23,639
+No problemo.
+Check it out, we can Google.
+
+1007
+00:55:23,716 --> 00:55:24,705
+Google?
+
+1008
+00:55:25,585 --> 00:55:27,450
+Yeah, a lot of bloggers Google.
+
+1009
+00:55:27,520 --> 00:55:29,454
+Bloggers that Google.
+
+1010
+00:55:29,522 --> 00:55:31,319
+Or they Dogpile.
+
+1011
+00:55:31,391 --> 00:55:32,688
+Dogpile.
+
+1012
+00:55:32,759 --> 00:55:35,922
+Dogpile or a Hotbot
+or Lycos, Linkslut...
+
+1013
+00:55:35,995 --> 00:55:37,724
+Ask Jeeves, Web Crawler.
+
+1014
+00:55:37,797 --> 00:55:39,321
+You can always Yahoo.
+
+1015
+00:55:40,099 --> 00:55:43,330
+Yahoo... Tell me, son,
+when do we get to the easy part?
+
+1016
+00:55:43,403 --> 00:55:45,303
+Those are
+just search engines here.
+
+1017
+00:55:45,371 --> 00:55:47,305
+Let's just Google.
+Click on "search" right there...
+
+1018
+00:55:47,373 --> 00:55:49,568
+and now, type in
+anything you want.
+
+1019
+00:55:49,642 --> 00:55:51,075
+- Anything?
+- Yeah, anything.
+
+1020
+00:55:51,144 --> 00:55:52,406
+Think of something.
+
+1021
+00:55:52,478 --> 00:55:53,467
+Uh, fly fishing.
+
+1022
+00:55:54,213 --> 00:55:56,078
+Type it in, "fly fishing."
+
+1023
+00:55:56,149 --> 00:55:57,548
+[typing]
+
+1024
+00:55:59,585 --> 00:56:00,813
+Yeah, now press "enter."
+
+1025
+00:56:03,222 --> 00:56:05,053
+There it is.
+
+1026
+00:56:06,626 --> 00:56:07,854
+- MICKEY: This is it?
+- CAMERON: Yeah, yeah...
+
+1027
+00:56:07,927 --> 00:56:10,088
+I'll be a striped-ass baboon.
+
+1028
+00:56:10,163 --> 00:56:11,596
+[laughs]
+
+1029
+00:56:11,664 --> 00:56:12,824
+Hey, well, what about tractors?
+
+1030
+00:56:12,899 --> 00:56:14,389
+I've always
+had a thing for tractors.
+
+1031
+00:56:14,467 --> 00:56:15,798
+Tractors, type it in.
+
+1032
+00:56:19,605 --> 00:56:23,006
+This is wonderful. [Laughs]
+
+1033
+00:56:23,075 --> 00:56:24,542
+Here, check this out.
+Check this out.
+
+1034
+00:56:37,156 --> 00:56:40,284
+Thank you very much
+for this, Cameron.
+
+1035
+00:56:40,359 --> 00:56:42,725
+It's... Thank you. That's nice.
+
+1036
+00:56:46,466 --> 00:56:48,457
+See, you haven't
+been forgotten, Mickey.
+
+1037
+00:56:49,969 --> 00:56:52,733
+D... D-Did you look up Flash?
+
+1038
+00:56:52,805 --> 00:56:55,137
+Yeah, I showed him
+his résumé and his credits.
+
+1039
+00:56:55,208 --> 00:56:56,436
+What'd he say?
+
+1040
+00:56:56,509 --> 00:56:59,103
+"Yeah, big f-bomb deal."
+
+1041
+00:56:59,178 --> 00:57:00,475
+[Laughs]
+That sounds like Flash!
+
+1042
+00:57:00,546 --> 00:57:04,073
+[Chuckles] And wait, Mick,
+go back to, go back to Google.
+
+1043
+00:57:05,618 --> 00:57:08,280
+Click on search and type in
+"Nursing home neglect."
+
+1044
+00:57:08,354 --> 00:57:10,481
+[Typing]
+
+1045
+00:57:17,697 --> 00:57:22,134
+"Top 10 of 775,062 matches."
+
+1046
+00:57:22,201 --> 00:57:24,999
+Yeah, try that...
+Try that first one.
+
+1047
+00:57:29,275 --> 00:57:34,611
+Does that mean there are
+775,061 others like this?
+
+1048
+00:57:34,680 --> 00:57:35,669
+Yeah, it does.
+
+1049
+00:57:37,149 --> 00:57:38,138
+Criminies.
+
+1050
+00:57:39,852 --> 00:57:41,786
+MICKEY: "Nursing home neglect
+in the last year.
+
+1051
+00:57:41,854 --> 00:57:44,482
+"Complaints in Texas are up 60%.
+
+1052
+00:57:44,557 --> 00:57:46,354
+"Medication errors,
+understaffing...
+
+1053
+00:57:46,425 --> 00:57:48,859
+"unsanitary conditions,
+substandard care...
+
+1054
+00:57:48,928 --> 00:57:51,556
+"and injuries
+in an unsafe environment."
+
+1055
+00:57:51,631 --> 00:57:52,723
+"The quality of care
+at thousands...
+
+1056
+00:57:52,798 --> 00:57:54,356
+"of the nation's
+nursing homes...
+
+1057
+00:57:54,433 --> 00:57:57,027
+"is poor
+or questionable at best."
+
+1058
+00:57:57,103 --> 00:58:00,004
+How do you think
+they'd rate my place?
+
+1059
+00:58:00,072 --> 00:58:01,403
+Sucky to very sucky.
+
+1060
+00:58:02,041 --> 00:58:03,508
+I agree.
+
+1061
+00:58:03,576 --> 00:58:05,043
+"Activists sue nursing home
+for fraud...
+
+1062
+00:58:05,111 --> 00:58:07,102
+"and malnutrition in New York."
+
+1063
+00:58:07,179 --> 00:58:09,670
+"Federal authorities move in
+to correct irregularities...
+
+1064
+00:58:09,749 --> 00:58:12,047
+"in the Arkansas agency
+responsible...
+
+1065
+00:58:12,118 --> 00:58:13,847
+"for nursing home oversight."
+
+1066
+00:58:13,920 --> 00:58:15,979
+"Florida general attorney
+takes aim...
+
+1067
+00:58:16,055 --> 00:58:17,989
+"at substandard
+nursing home care."
+
+1068
+00:58:18,057 --> 00:58:20,048
+It's everywhere.
+
+1069
+00:58:20,126 --> 00:58:22,321
+I think you turned
+over the wrong rock.
+
+1070
+00:58:22,395 --> 00:58:23,726
+Or the right one.
+
+1071
+00:58:25,064 --> 00:58:27,089
+Are you good with
+all the internet stuff, Mick?
+
+1072
+00:58:27,166 --> 00:58:29,726
+Sure... it's a piece of cake.
+
+1073
+00:58:29,802 --> 00:58:31,326
+See you at the production
+meeting tomorrow?
+
+1074
+00:58:31,404 --> 00:58:34,532
+No problemo!
+
+1075
+00:58:35,441 --> 00:58:36,874
+CAMERON: Peace!
+
+1076
+00:58:39,245 --> 00:58:41,805
+[Crickets chirping]
+
+1077
+00:58:43,950 --> 00:58:45,281
+Ah.
+
+1078
+00:58:46,719 --> 00:58:50,382
+FLASH: Don't you have any place
+to be, for Christ's sake?
+
+1079
+00:58:51,090 --> 00:58:53,422
+No, not really.
+
+1080
+00:58:53,492 --> 00:58:55,983
+Home life that great, huh?
+[Laughs]
+
+1081
+00:58:56,062 --> 00:58:58,895
+My stepdad is always
+on my ass all the time.
+
+1082
+00:58:58,965 --> 00:59:00,296
+All the time?
+
+1083
+00:59:00,366 --> 00:59:03,028
+Well, that's maybe 'cause
+you miss your real dad.
+
+1084
+00:59:03,102 --> 00:59:05,036
+Yeah, I miss him.
+
+1085
+00:59:05,104 --> 00:59:06,731
+But Floyd's still a dick.
+
+1086
+00:59:06,806 --> 00:59:08,740
+Yeah, well, he's here, isn't he?
+
+1087
+00:59:08,808 --> 00:59:10,901
+He's with your mom, right?
+
+1088
+00:59:10,977 --> 00:59:13,343
+He brings home
+the bacon, right?
+
+1089
+00:59:13,412 --> 00:59:14,743
+My mom works too.
+
+1090
+00:59:15,815 --> 00:59:17,476
+Where's your real dad live?
+
+1091
+00:59:18,851 --> 00:59:20,910
+Out there somewhere.
+I don't know.
+
+1092
+00:59:21,621 --> 00:59:24,590
+Here, in L. A?
+And you never see him?
+
+1093
+00:59:25,758 --> 00:59:27,089
+It's a big town.
+
+1094
+00:59:28,961 --> 00:59:31,486
+He's out of sight,
+out of mind, right?
+
+1095
+00:59:34,734 --> 00:59:37,066
+I saw Mickey today.
+
+1096
+00:59:40,606 --> 00:59:42,597
+You what?
+
+1097
+00:59:43,909 --> 00:59:46,776
+I told you to keep away
+from Mickey.
+
+1098
+00:59:48,114 --> 00:59:51,106
+You'll break his goddamn heart!
+
+1099
+00:59:52,284 --> 00:59:53,581
+CAMERON: Mickey was fine.
+
+1100
+00:59:53,653 --> 00:59:55,245
+He was fine today. I know it.
+
+1101
+00:59:55,321 --> 00:59:56,788
+You don't know shit!
+
+1102
+00:59:56,856 --> 00:59:58,847
+No, I... I take that back.
+
+1103
+00:59:58,924 --> 01:00:01,586
+You know just enough shit
+to be dangerous.
+
+1104
+01:00:01,661 --> 01:00:02,889
+You're a mean drunk.
+
+1105
+01:00:02,962 --> 01:00:04,259
+Fuckin' A!
+
+1106
+01:00:04,330 --> 01:00:06,264
+Mean when I'm sober,
+mean all the time.
+
+1107
+01:00:06,332 --> 01:00:08,823
+That's, that's how I like it.
+
+1108
+01:00:08,901 --> 01:00:10,596
+I like being alone.
+
+1109
+01:00:10,670 --> 01:00:13,036
+All right, well,
+don't let me get in the way.
+
+1110
+01:00:13,105 --> 01:00:14,436
+Well, I'll die alone.
+
+1111
+01:00:16,108 --> 01:00:18,269
+Lot of dry eyes at my funeral.
+
+1112
+01:00:18,344 --> 01:00:19,641
+I heard that.
+
+1113
+01:00:19,712 --> 01:00:20,906
+What?
+
+1114
+01:00:20,980 --> 01:00:21,969
+CAMERON: I heard it!
+
+1115
+01:00:22,048 --> 01:00:24,039
+I'm young, damn it!
+
+1116
+01:00:40,933 --> 01:00:42,958
+CAMERON: so Mildred is
+passing out the packet...
+
+1117
+01:00:43,035 --> 01:00:46,232
+with the script outline on it
+and schedule.
+
+1118
+01:00:46,305 --> 01:00:48,603
+And it's a ten-minute
+short film.
+
+1119
+01:00:48,674 --> 01:00:51,142
+You shootin' 35 or 16?
+
+1120
+01:00:51,210 --> 01:00:53,474
+Uh, 24p and some 16 film.
+
+1121
+01:00:53,546 --> 01:00:54,774
+MAN: Which lab?
+
+1122
+01:00:55,548 --> 01:00:57,709
+Well, Flash and I haven't
+worked that out yet.
+
+1123
+01:00:57,783 --> 01:01:00,946
+- Money, right?
+- Surprise, surprise.
+
+1124
+01:01:01,020 --> 01:01:02,317
+You don't have it yet.
+
+1125
+01:01:03,355 --> 01:01:05,323
+[Chuckles]
+Well, Flash and I will get it.
+
+1126
+01:01:07,960 --> 01:01:08,949
+Are you kidding?
+
+1127
+01:01:10,796 --> 01:01:11,785
+Whoa...
+
+1128
+01:01:11,864 --> 01:01:14,355
+[Clattering, woman gasps]
+
+1129
+01:01:15,401 --> 01:01:17,392
+Are you kiddin'?
+
+1130
+01:01:18,704 --> 01:01:20,365
+Oh...
+
+1131
+01:01:20,439 --> 01:01:26,036
+Who the hell in his right mind
+is ever gonna give us money...
+
+1132
+01:01:26,112 --> 01:01:29,912
+for a stupid little film
+about old people?
+
+1133
+01:01:29,982 --> 01:01:32,314
+Yeah, like
+someone gives a rat's ass.
+
+1134
+01:01:32,384 --> 01:01:33,976
+MICKEY: Don't say that, Flash.
+
+1135
+01:01:34,053 --> 01:01:35,748
+Oh, I'm sorry, Mickey.
+
+1136
+01:01:35,821 --> 01:01:38,085
+Any news
+from New Hampshire?
+
+1137
+01:01:38,157 --> 01:01:41,786
+I forgot how close you and
+your daughter have become...
+
+1138
+01:01:41,861 --> 01:01:43,624
+over the last few years.
+
+1139
+01:01:43,696 --> 01:01:45,755
+Hey, don't
+feel bad about Mickey...
+
+1140
+01:01:45,831 --> 01:01:47,492
+because nobody gives
+a good goddamn...
+
+1141
+01:01:47,566 --> 01:01:49,796
+about the rest
+of you pathetic jerks either.
+
+1142
+01:01:52,071 --> 01:01:53,902
+Cameron does!
+
+1143
+01:01:53,973 --> 01:01:58,876
+Cameron?
+[Laughs loudly]
+
+1144
+01:02:00,613 --> 01:02:02,308
+Yeah.
+
+1145
+01:02:02,381 --> 01:02:06,442
+No. He doesn't give
+a hoot and holler.
+
+1146
+01:02:06,519 --> 01:02:10,353
+He only wants to sleaze
+his way into film school.
+
+1147
+01:02:10,422 --> 01:02:11,855
+Shut up, Flash.
+
+1148
+01:02:11,924 --> 01:02:14,051
+He's even more screwed up
+than we are.
+
+1149
+01:02:14,126 --> 01:02:16,117
+He actually lives
+with his family...
+
+1150
+01:02:16,195 --> 01:02:17,924
+and they still
+hardly speak to him.
+
+1151
+01:02:17,997 --> 01:02:22,366
+He's just a tax deduction,
+an inconvenience, like us.
+
+1152
+01:02:22,434 --> 01:02:23,765
+Next year,
+when you turn 18...
+
+1153
+01:02:23,836 --> 01:02:25,895
+stepdaddy's gonna be
+number one.
+
+1154
+01:02:25,971 --> 01:02:27,802
+[Claps] Troubled teenager...
+
+1155
+01:02:27,873 --> 01:02:29,773
+out the door,
+just like your old man.
+
+1156
+01:02:29,842 --> 01:02:31,969
+- Screw you, Flash.
+- Yeah, but don't worry, kid.
+
+1157
+01:02:32,044 --> 01:02:34,535
+You can dump on
+your poor mother later...
+
+1158
+01:02:34,613 --> 01:02:35,875
+when she's old and feeble.
+
+1159
+01:02:35,948 --> 01:02:37,643
+You know,
+give her the old Chicago ride.
+
+1160
+01:02:37,716 --> 01:02:39,775
+[Mimicking sound of train]
+
+1161
+01:02:39,852 --> 01:02:41,945
+You know, one way,
+all the way to the nursing home.
+
+1162
+01:02:42,021 --> 01:02:43,579
+Some stranger
+will look after her.
+
+1163
+01:02:43,656 --> 01:02:45,123
+Hey, half-pint, that's right!
+
+1164
+01:02:45,191 --> 01:02:46,920
+Keep walking, son,
+keep walking!
+
+1165
+01:02:46,992 --> 01:02:49,620
+We've been betrayed
+by people better than you...
+
+1166
+01:02:49,695 --> 01:02:51,026
+even people we've loved.
+
+1167
+01:02:52,832 --> 01:02:56,768
+You know more than anyone
+what I'm talking about, Mickey.
+
+1168
+01:02:56,836 --> 01:02:58,565
+Your daughter
+dumped you like a dog...
+
+1169
+01:02:58,637 --> 01:03:00,571
+when she said,
+"I haven't got time for him."
+
+1170
+01:03:00,639 --> 01:03:03,540
+But she had time
+for some drunk back east.
+
+1171
+01:03:03,609 --> 01:03:05,577
+Oh, oh... we're all leaving.
+
+1172
+01:03:05,644 --> 01:03:08,579
+Oh, O.K.
+We all got the Chicago ride.
+
+1173
+01:03:08,647 --> 01:03:11,343
+Ah, you're nothing but
+a bunch of forgotten souls.
+
+1174
+01:03:11,417 --> 01:03:15,751
+Go on! Get out of here,
+you has-beens, never-weres...
+
+1175
+01:03:15,821 --> 01:03:18,756
+freaks, jerks, wankers.
+All of you are pissants!
+
+1176
+01:03:21,660 --> 01:03:22,649
+[Clattering]
+
+1177
+01:03:23,462 --> 01:03:26,954
+Nobody gives
+a Rottweiler's shit about you!
+
+1178
+01:03:27,032 --> 01:03:28,761
+Oh...
+
+1179
+01:03:32,538 --> 01:03:34,062
+[Breathing heavily]
+
+1180
+01:03:35,140 --> 01:03:37,904
+[Sighs] Or me.
+
+1181
+01:03:48,888 --> 01:03:50,583
+Dead people kind
+of creep me out.
+
+1182
+01:03:53,826 --> 01:03:55,589
+I can't believe Flash
+turned on me like that.
+
+1183
+01:03:56,762 --> 01:03:59,390
+Forget Flash, dude.
+He's a senile old bastard.
+
+1184
+01:03:59,465 --> 01:04:01,126
+- GUARD: Over here!
+- MURPHY: Shit!
+
+1185
+01:04:01,200 --> 01:04:02,531
+GUARD:
+You guys can't be in here.
+
+1186
+01:04:02,601 --> 01:04:04,967
+Hey, what are
+you kids doing? Hey!
+
+1187
+01:04:05,037 --> 01:04:08,803
+[?...]
+
+1188
+01:04:43,475 --> 01:04:44,464
+[Sirens wailing]
+
+1189
+01:05:51,977 --> 01:05:55,003
+? Santa Maria ?
+
+1190
+01:05:58,851 --> 01:06:02,082
+? Why did you have to go? ?
+
+1191
+01:06:05,991 --> 01:06:08,221
+[?...]
+
+1192
+01:06:19,405 --> 01:06:22,374
+[Music fades]
+
+1193
+01:06:28,013 --> 01:06:29,002
+[Loud thud]
+
+1194
+01:06:29,081 --> 01:06:31,242
+Dude, we're gonna make it.
+
+1195
+01:06:31,316 --> 01:06:32,305
+I know, but...
+
+1196
+01:06:32,851 --> 01:06:34,682
+- MAN: Murphy White?
+- Yeah.
+
+1197
+01:06:34,753 --> 01:06:36,277
+You made bail,
+you're out of here.
+
+1198
+01:06:36,355 --> 01:06:39,017
+Oh, uh... can my friend
+come with me?
+
+1199
+01:06:39,691 --> 01:06:42,125
+No, nobody came for him yet.
+
+1200
+01:06:42,194 --> 01:06:43,855
+He'll be here all night.
+
+1201
+01:06:43,929 --> 01:06:45,191
+Sorry, dude.
+
+1202
+01:06:45,264 --> 01:06:47,528
+Uh, I'll call your mom.
+
+1203
+01:06:47,599 --> 01:06:49,260
+Don't worry about it.
+She already knows.
+
+1204
+01:06:52,704 --> 01:06:54,035
+GUARD: All right,
+gotta dress you down.
+
+1205
+01:06:54,106 --> 01:06:56,040
+Put you with the rest
+of the guys, Kincaid.
+
+1206
+01:06:56,108 --> 01:06:58,736
+You'll be arraigned on Monday.
+Let's go.
+
+1207
+01:07:15,127 --> 01:07:16,116
+[Metal clanks]
+
+1208
+01:07:20,365 --> 01:07:22,993
+[Metal thuds, echoes]
+
+1209
+01:07:32,778 --> 01:07:33,767
+[Door scrapes]
+
+1210
+01:07:35,047 --> 01:07:36,036
+[Slams]
+
+1211
+01:07:37,082 --> 01:07:38,344
+[Clattering]
+
+1212
+01:07:38,417 --> 01:07:40,749
+Rise and shine,
+my wannabe felons.
+
+1213
+01:07:40,819 --> 01:07:43,151
+Breakfast in five minutes.
+
+1214
+01:07:45,557 --> 01:07:47,286
+Who's Cameron Kincaid?
+
+1215
+01:07:47,359 --> 01:07:48,724
+CAMERON: Yeah.
+
+1216
+01:07:48,794 --> 01:07:50,056
+You made bail, you're gone.
+
+1217
+01:08:00,639 --> 01:08:02,470
+I could get you the money.
+
+1218
+01:08:02,541 --> 01:08:03,599
+Forget it.
+
+1219
+01:08:03,675 --> 01:08:06,007
+Don't you want
+to finish the movie?
+
+1220
+01:08:07,513 --> 01:08:08,502
+"Finish the movie."
+
+1221
+01:08:08,580 --> 01:08:10,639
+We haven't even started
+filming the movie...
+
+1222
+01:08:10,716 --> 01:08:12,343
+and with more bullshit
+like you pulled last night...
+
+1223
+01:08:12,417 --> 01:08:13,611
+we never will!
+
+1224
+01:08:13,685 --> 01:08:15,243
+Well, that was my fault.
+
+1225
+01:08:15,320 --> 01:08:16,685
+Yeah, you're totally right.
+It was your fault.
+
+1226
+01:08:16,755 --> 01:08:18,052
+It was your bad.
+
+1227
+01:08:18,123 --> 01:08:22,025
+Yeah, I know,
+I know it was my b... bad.
+
+1228
+01:08:22,094 --> 01:08:23,925
+It won't happen again.
+
+1229
+01:08:23,996 --> 01:08:25,827
+I won't do it again.
+
+1230
+01:08:25,898 --> 01:08:27,832
+I just got pissed off.
+
+1231
+01:08:27,900 --> 01:08:29,390
+Pissed off about what?
+
+1232
+01:08:29,468 --> 01:08:31,800
+- It's a long story.
+- I got all winter.
+
+1233
+01:08:34,873 --> 01:08:39,776
+Look, I gotta eat a shitload
+of crow to get you your money.
+
+1234
+01:08:39,845 --> 01:08:43,542
+A guy I haven't talked to for
+some 40 years, a guy I hate...
+
+1235
+01:08:43,615 --> 01:08:45,549
+You hate everybody.
+
+1236
+01:08:45,617 --> 01:08:47,278
+But this
+one's special vintage.
+
+1237
+01:08:47,819 --> 01:08:49,514
+So why can't we get
+the money from somebody else?
+
+1238
+01:08:49,588 --> 01:08:51,920
+We can't, not...
+not so quick, anyways.
+
+1239
+01:08:52,858 --> 01:08:55,622
+O.K., Flash, you know
+that so many people are in...
+
+1240
+01:08:55,694 --> 01:08:57,252
+on this thing now,
+that if you go off again...
+
+1241
+01:08:57,329 --> 01:08:58,990
+it's not just me
+you'll be letting down.
+
+1242
+01:08:59,064 --> 01:09:01,999
+You think I don't know that?
+Come on.
+
+1243
+01:09:02,067 --> 01:09:03,796
+CAMERON: O.K.,
+when we started this thing...
+
+1244
+01:09:03,869 --> 01:09:05,166
+you made me
+make a promise to you.
+
+1245
+01:09:05,237 --> 01:09:07,102
+Now you have to make
+a promise to me.
+
+1246
+01:09:07,172 --> 01:09:09,299
+FLASH: Yeah, yeah, yeah,
+I get it, I do, yeah, yeah.
+
+1247
+01:09:09,374 --> 01:09:10,363
+CAMERON: No more drinking.
+
+1248
+01:09:10,442 --> 01:09:12,433
+No more drinking
+till we're wrapped.
+
+1249
+01:09:20,219 --> 01:09:22,346
+The guy that pissed you off
+lives here?
+
+1250
+01:09:22,421 --> 01:09:23,410
+Yup.
+
+1251
+01:09:24,089 --> 01:09:27,024
+- What's his name?
+- Taylor Moss.
+
+1252
+01:09:27,092 --> 01:09:28,081
+Taylor Moss?
+
+1253
+01:09:29,695 --> 01:09:33,028
+Taylor "Three-Time Academy
+Award-Winning Producer" Moss?
+
+1254
+01:09:33,098 --> 01:09:34,087
+FLASH: That's right.
+
+1255
+01:09:34,666 --> 01:09:36,224
+CAMERON: Jesus.
+
+1256
+01:09:36,301 --> 01:09:39,065
+What did Taylor Moss do
+to piss you off so bad?
+
+1257
+01:09:39,137 --> 01:09:41,731
+- He screwed my wife.
+- What?
+
+1258
+01:09:41,807 --> 01:09:43,365
+MOSS' BUTLER ON INTERCOM:
+May I help you, sir?
+
+1259
+01:09:43,442 --> 01:09:45,637
+Yeah, we're here
+to see Taylor Moss.
+
+1260
+01:09:45,711 --> 01:09:47,804
+BUTLER:
+Whom shall I say is calling?
+
+1261
+01:09:47,879 --> 01:09:50,347
+Calling? We're not calling.
+
+1262
+01:09:50,415 --> 01:09:52,849
+We're here, standing...
+
+1263
+01:09:52,918 --> 01:09:55,011
+waiting... on you.
+
+1264
+01:09:55,087 --> 01:09:56,782
+BUTLER:
+I do beg your pardon, sir.
+
+1265
+01:09:56,855 --> 01:09:58,789
+Tell him it's Flash Madden.
+
+1266
+01:09:58,857 --> 01:10:01,052
+Now, go get him.
+Show some huevos.
+
+1267
+01:10:01,126 --> 01:10:03,822
+Pretentious prick,
+act like he got a butler.
+
+1268
+01:10:03,895 --> 01:10:06,090
+[Gate rattles...]
+
+1269
+01:10:08,000 --> 01:10:11,731
+Anyway, this guy Moss
+not only screws my wife...
+
+1270
+01:10:11,803 --> 01:10:13,771
+she runs off with him.
+
+1271
+01:10:13,839 --> 01:10:15,101
+What?
+
+1272
+01:10:15,173 --> 01:10:16,970
+Broke my heart
+in a million pieces.
+
+1273
+01:10:21,613 --> 01:10:22,841
+So where the hell is he?
+
+1274
+01:10:37,029 --> 01:10:38,792
+I don't believe my eyes.
+
+1275
+01:10:38,864 --> 01:10:42,061
+Well, if it ain't
+Pancho "Oy Vey" Gonzales.
+
+1276
+01:10:42,134 --> 01:10:45,262
+Oh, I see those standup
+classes really paid off.
+
+1277
+01:10:45,337 --> 01:10:47,737
+Up yours
+and happy Hanukkah.
+
+1278
+01:10:47,806 --> 01:10:50,741
+This here is Cameron.
+He needs your help.
+
+1279
+01:10:50,809 --> 01:10:53,471
+It's a pleasure to meet you,
+Mr. Moss.
+
+1280
+01:10:54,379 --> 01:10:55,505
+Cameron.
+
+1281
+01:11:17,336 --> 01:11:19,133
+CAMERON: So that's our story.
+
+1282
+01:11:19,204 --> 01:11:21,263
+It's about $5,000 in hard costs.
+
+1283
+01:11:22,240 --> 01:11:23,798
+She died
+a couple of years ago.
+
+1284
+01:11:23,875 --> 01:11:24,864
+FLASH: I heard.
+
+1285
+01:11:25,744 --> 01:11:28,770
+She was the greatest person
+I ever knew.
+
+1286
+01:11:28,847 --> 01:11:31,782
+[Chuckling]
+Tell me something I don't know.
+
+1287
+01:11:31,850 --> 01:11:35,217
+Uh, I can see that you
+really miss her.
+
+1288
+01:11:37,155 --> 01:11:39,646
+MOSS: It was two years ago.
+
+1289
+01:11:39,725 --> 01:11:41,352
+Seems like yesterday to me.
+
+1290
+01:11:45,397 --> 01:11:46,591
+Cigar?
+
+1291
+01:11:46,665 --> 01:11:48,724
+Eh, don't mind if I do.
+
+1292
+01:11:54,773 --> 01:11:55,762
+[Spits]
+
+1293
+01:11:57,342 --> 01:11:58,536
+Cameron?
+
+1294
+01:11:58,610 --> 01:12:01,170
+Oh, no, thanks, sir.
+I'll watch and learn.
+
+1295
+01:12:01,246 --> 01:12:03,180
+FLASH: Thanks for the cigar...
+
+1296
+01:12:03,248 --> 01:12:05,478
+but don't confuse it
+with a calumet.
+
+1297
+01:12:05,550 --> 01:12:06,539
+CAMERON: A what?
+
+1298
+01:12:07,619 --> 01:12:08,847
+A peace pipe.
+
+1299
+01:12:11,323 --> 01:12:13,188
+After forty years,
+no forgiveness, huh?
+
+1300
+01:12:13,258 --> 01:12:14,555
+Forty-three.
+
+1301
+01:12:14,626 --> 01:12:16,457
+Forgive you? Hey, screw you.
+
+1302
+01:12:19,064 --> 01:12:22,158
+I'm sorry that your life
+has been so, uh...
+
+1303
+01:12:22,234 --> 01:12:25,397
+joyless, so unhappy, so sad.
+
+1304
+01:12:27,305 --> 01:12:29,296
+Well, yours
+is so fulfilled, right?
+
+1305
+01:12:29,374 --> 01:12:31,035
+Don't confuse activity
+with achievement.
+
+1306
+01:12:31,109 --> 01:12:34,044
+I've seen those pieces of shit,
+those celluloid abortions...
+
+1307
+01:12:34,112 --> 01:12:35,443
+that you call movies.
+
+1308
+01:12:36,281 --> 01:12:38,078
+Well, they weren't all stinkers.
+
+1309
+01:12:38,150 --> 01:12:40,482
+Even won
+a couple of brass dolls.
+
+1310
+01:12:41,386 --> 01:12:42,375
+Three of them.
+
+1311
+01:12:43,655 --> 01:12:44,986
+The picture business
+has been good to me.
+
+1312
+01:12:45,056 --> 01:12:47,650
+Oh, cut the bullshit.
+
+1313
+01:12:47,726 --> 01:12:50,718
+That bullshit
+is the reason you're here.
+
+1314
+01:12:54,633 --> 01:12:57,101
+Yeah, all right, yeah.
+You made your point.
+
+1315
+01:12:59,438 --> 01:13:00,427
+So...
+
+1316
+01:13:01,573 --> 01:13:04,337
+do we get the five large
+or not?
+
+1317
+01:13:07,679 --> 01:13:10,170
+Sure, Flash.
+
+1318
+01:13:11,616 --> 01:13:12,947
+For old times' sake.
+
+1319
+01:13:19,791 --> 01:13:21,884
+Listen, I'm sorry I screwed up
+your life, Flash.
+
+1320
+01:13:21,960 --> 01:13:23,655
+I didn't mean to
+get you into all this.
+
+1321
+01:13:23,728 --> 01:13:25,787
+A man has to kill
+his own snakes.
+
+1322
+01:13:25,864 --> 01:13:28,424
+You did me a solid today, Flash.
+
+1323
+01:13:28,500 --> 01:13:30,161
+I owe you big time.
+
+1324
+01:13:31,470 --> 01:13:34,337
+Yeah, well, we'll cash
+the check tomorrow...
+
+1325
+01:13:34,406 --> 01:13:37,136
+and uh, don't you worry, kid.
+
+1326
+01:13:37,209 --> 01:13:40,440
+We'll get this epic of yours
+on the road.
+
+1327
+01:13:51,990 --> 01:13:54,458
+[Sleigh bells jingling...]
+
+1328
+01:13:57,863 --> 01:13:59,728
+MILDRED: Two of hearts.
+
+1329
+01:13:59,798 --> 01:14:02,790
+Ace of diamonds... a bullet!
+
+1330
+01:14:03,835 --> 01:14:07,601
+And jack of clubs...
+
+1331
+01:14:07,672 --> 01:14:09,003
+WOMAN ON TV:
+So this is Holiday Inn.
+
+1332
+01:14:09,074 --> 01:14:10,905
+[Flash turns off TV]
+
+1333
+01:14:27,759 --> 01:14:28,748
+Well, I...
+
+1334
+01:14:29,761 --> 01:14:32,423
+I could say
+that I got buttered...
+
+1335
+01:14:32,497 --> 01:14:36,297
+that Wild Turkey
+did most of the talking...
+
+1336
+01:14:36,368 --> 01:14:39,303
+but you know, I, I...
+
+1337
+01:14:39,371 --> 01:14:42,966
+I've been hiding behind that
+longer than I care to admit.
+
+1338
+01:14:46,778 --> 01:14:48,643
+Surprise, surprise.
+
+1339
+01:14:58,523 --> 01:15:00,855
+I'm real sorry
+about what I-I s...
+
+1340
+01:15:02,460 --> 01:15:04,451
+About last night.
+I didn't mean what I said.
+
+1341
+01:15:04,529 --> 01:15:07,089
+You're not forgotten souls.
+
+1342
+01:15:07,165 --> 01:15:09,497
+You're not a bunch
+of pathetic jerks.
+
+1343
+01:15:11,036 --> 01:15:13,300
+Just me.
+
+1344
+01:15:23,682 --> 01:15:25,377
+MAN: So?
+
+1345
+01:15:26,885 --> 01:15:31,015
+Does that kid still want us
+to make his movie or not?
+
+1346
+01:15:31,089 --> 01:15:35,048
+Well, we raised
+a little money today...
+
+1347
+01:15:35,126 --> 01:15:40,029
+and it looks like we're back on
+if-if... if you still wanna...
+
+1348
+01:15:41,900 --> 01:15:42,889
+Yes, Montana?
+
+1349
+01:15:43,835 --> 01:15:45,166
+What time is call?
+
+1350
+01:15:46,504 --> 01:15:48,404
+Seven A.M., Monday morning.
+
+1351
+01:15:48,473 --> 01:15:50,498
+- Then we're in.
+- Vin!
+
+1352
+01:15:50,575 --> 01:15:53,271
+- Why the hell not?!
+- [All exclaim and applaud]
+
+1353
+01:15:55,280 --> 01:15:58,681
+I think you lot are insane.
+All of you!
+
+1354
+01:15:58,750 --> 01:16:03,414
+Oh, goddamn it, you...
+you folks are the best.
+
+1355
+01:16:03,488 --> 01:16:04,921
+MILDRED: Goody goody!
+
+1356
+01:16:04,990 --> 01:16:09,290
+[Tearfully] That kid is so lucky
+to have you on his team.
+
+1357
+01:16:09,361 --> 01:16:11,522
+Ah, it's your team too, Flash.
+
+1358
+01:16:11,596 --> 01:16:13,257
+I guess I'm lucky, too.
+
+1359
+01:16:13,331 --> 01:16:15,231
+We're gonna make a movie!
+
+1360
+01:16:15,300 --> 01:16:16,426
+All right!
+
+1361
+01:16:16,501 --> 01:16:17,490
+[Applause]
+
+1362
+01:16:19,638 --> 01:16:21,401
+[Flash sobs]
+
+1363
+01:16:21,473 --> 01:16:24,408
+It's O.K. We love you, Flash.
+
+1364
+01:16:27,112 --> 01:16:29,137
+CAMERON: Nursing home abuse
+and neglect has become...
+
+1365
+01:16:29,214 --> 01:16:31,273
+widespread
+and a growing epidemic.
+
+1366
+01:16:31,349 --> 01:16:33,544
+The last two to three years
+have seen an increase...
+
+1367
+01:16:33,618 --> 01:16:35,586
+in litigations
+against nursing homes...
+
+1368
+01:16:35,654 --> 01:16:38,646
+and rather sizeable verdicts
+across the country.
+
+1369
+01:16:38,723 --> 01:16:41,283
+As the population of the United
+States gets older and older...
+
+1370
+01:16:41,359 --> 01:16:44,192
+more and more people end up
+in nursing homes.
+
+1371
+01:16:44,963 --> 01:16:46,225
+Moving a parent
+to a nursing home...
+
+1372
+01:16:46,297 --> 01:16:48,390
+is one of life's
+most difficult decisions.
+
+1373
+01:16:50,802 --> 01:16:52,702
+[Keyboard clicking]
+
+1374
+01:16:55,507 --> 01:16:57,236
+MAN ON TV: L.L., here he is,
+700 cubic inches...
+
+1375
+01:16:57,308 --> 01:16:59,868
+- [Engine revs loudly]
+- of fuel-lnjected fury!
+
+1376
+01:16:59,944 --> 01:17:03,471
+It's the Fred Payne entry,
+"Daddy-O", crushin' them buses.
+
+1377
+01:17:03,548 --> 01:17:05,675
+In the near lane, we've got
+Nicky's Nitro supercharged...
+
+1378
+01:17:05,750 --> 01:17:08,844
+small block, currently points
+leader on the circuit...
+
+1379
+01:17:08,920 --> 01:17:11,081
+Bad breath!
+And I don't mean halitosis!
+
+1380
+01:17:11,156 --> 01:17:14,523
+MAN 2 ON TV: Well, Brad, it's
+the giant against the giant killer!
+
+1381
+01:17:14,592 --> 01:17:16,753
+Nick Thomas has knocked off
+more big block opponents...
+
+1382
+01:17:16,828 --> 01:17:18,489
+this year than anyone else...
+
+1383
+01:17:18,563 --> 01:17:22,863
+Thanks, honey.
+I really appreciate that.
+
+1384
+01:17:22,934 --> 01:17:25,926
+I'm sorry for being
+a pain in the butt.
+
+1385
+01:17:28,873 --> 01:17:29,862
+Um...
+
+1386
+01:17:31,209 --> 01:17:34,007
+I mean, going to jail...
+and the fight.
+
+1387
+01:17:34,079 --> 01:17:36,070
+Maybe you learned something
+this time.
+
+1388
+01:17:36,915 --> 01:17:38,041
+Maybe I did.
+
+1389
+01:17:40,452 --> 01:17:41,441
+I hope so.
+
+1390
+01:17:43,021 --> 01:17:45,990
+You realize why we didn't
+bail you out, don't you?
+
+1391
+01:17:46,057 --> 01:17:47,718
+Yeah, I know.
+
+1392
+01:17:52,363 --> 01:17:53,887
+Is something else on your mind?
+
+1393
+01:17:58,069 --> 01:18:01,300
+Mom, you know that...
+
+1394
+01:18:01,372 --> 01:18:03,840
+that if anything ever
+happens to you, that...
+
+1395
+01:18:03,908 --> 01:18:05,341
+if you get old or
+sick or something...
+
+1396
+01:18:05,410 --> 01:18:07,241
+that I'll take care of you.
+
+1397
+01:18:08,279 --> 01:18:10,042
+Honey, nothing's gonna
+happen to me.
+
+1398
+01:18:10,115 --> 01:18:12,640
+I know, knock on wood, but...
+
+1399
+01:18:14,285 --> 01:18:17,220
+if numb-nuts there ever...
+I'm sorry, Floyd...
+
+1400
+01:18:17,288 --> 01:18:19,415
+if he ever dumps you,
+gets rid of you...
+
+1401
+01:18:19,491 --> 01:18:21,220
+I'll take care of you.
+
+1402
+01:18:21,826 --> 01:18:23,726
+After I kick his ass.
+
+1403
+01:18:23,795 --> 01:18:25,456
+We'll both kick his ass.
+
+1404
+01:18:26,664 --> 01:18:28,154
+I mean it,
+whatever happens to you...
+
+1405
+01:18:28,233 --> 01:18:31,498
+that I'll take care of you.
+
+1406
+01:18:31,569 --> 01:18:33,036
+I believe you.
+
+1407
+01:18:35,774 --> 01:18:38,140
+We'll take care of each other.
+
+1408
+01:18:39,511 --> 01:18:42,241
+[Rain patters, thunder rolls]
+
+1409
+01:18:47,352 --> 01:18:49,343
+Don't tell me... let me guess!
+
+1410
+01:18:50,121 --> 01:18:52,954
+I've reached an all-time low!
+
+1411
+01:18:53,024 --> 01:18:54,685
+Right?
+
+1412
+01:18:56,461 --> 01:19:01,091
+The film business is a cruel
+and shallow money trench...
+
+1413
+01:19:01,166 --> 01:19:03,430
+a long plastic hallway...
+
+1414
+01:19:03,501 --> 01:19:06,698
+where thieves
+and pimps run wild...
+
+1415
+01:19:06,771 --> 01:19:09,535
+and good men die like dogs.
+
+1416
+01:19:10,441 --> 01:19:13,103
+There's also a negative side.
+
+1417
+01:19:13,178 --> 01:19:15,578
+That's...
+That's Hunter S. Thompson!
+
+1418
+01:19:15,647 --> 01:19:17,274
+I miss him!
+
+1419
+01:19:17,348 --> 01:19:20,579
+A couple of weeks ago, I was
+happily bored and miserable.
+
+1420
+01:19:20,652 --> 01:19:22,643
+Then you came by
+with that kid...
+
+1421
+01:19:22,720 --> 01:19:25,245
+and tantalized me
+with a little hope.
+
+1422
+01:19:25,323 --> 01:19:27,951
+How dare you toy with my life!
+
+1423
+01:19:28,793 --> 01:19:30,818
+Get out of here!
+
+1424
+01:19:30,895 --> 01:19:34,194
+You are so sexy
+when you're mad.
+
+1425
+01:19:36,401 --> 01:19:37,390
+[Thunder rolls]
+
+1426
+01:19:38,937 --> 01:19:40,837
+Come on in!
+
+1427
+01:19:40,905 --> 01:19:42,839
+Sin no more.
+
+1428
+01:19:48,146 --> 01:19:49,579
+[Door creaks]
+
+1429
+01:19:49,647 --> 01:19:52,241
+You're right about
+my daughter, though...
+
+1430
+01:19:52,317 --> 01:19:54,410
+dumping me like a dog.
+
+1431
+01:19:54,485 --> 01:19:57,818
+Ah, I was talkin' out of my ass.
+
+1432
+01:19:57,889 --> 01:20:00,619
+- She didn't dump you.
+- The hell she didn't.
+
+1433
+01:20:00,692 --> 01:20:02,523
+Time I realized it too.
+
+1434
+01:20:02,594 --> 01:20:04,221
+You know, I oughta be
+more like you...
+
+1435
+01:20:04,295 --> 01:20:06,786
+hate everybody and everything.
+
+1436
+01:20:06,865 --> 01:20:08,765
+A lot of good it's done me.
+
+1437
+01:20:08,833 --> 01:20:11,131
+Well, you see the deal
+better than most.
+
+1438
+01:20:11,202 --> 01:20:12,726
+It's a front!
+
+1439
+01:20:14,339 --> 01:20:19,470
+Flash, you think they really
+don't love us anymore?
+
+1440
+01:20:19,544 --> 01:20:20,533
+Ah...
+
+1441
+01:20:21,379 --> 01:20:22,368
+Sure they do.
+
+1442
+01:20:23,648 --> 01:20:25,707
+But they got problems too,
+you know...
+
+1443
+01:20:25,783 --> 01:20:26,772
+distractions and...
+
+1444
+01:20:28,253 --> 01:20:30,346
+I really miss talking
+to my daughter.
+
+1445
+01:20:30,421 --> 01:20:32,685
+Well, then maybe you
+should call her.
+
+1446
+01:20:32,757 --> 01:20:34,122
+What the hell.
+
+1447
+01:20:34,192 --> 01:20:35,523
+I think I will.
+
+1448
+01:20:37,395 --> 01:20:38,862
+So...
+
+1449
+01:20:40,598 --> 01:20:41,587
+I'm leaving.
+
+1450
+01:20:43,067 --> 01:20:45,001
+So, we're good.
+
+1451
+01:20:45,069 --> 01:20:48,163
+Huh? All is forgiven... and all?
+
+1452
+01:20:48,239 --> 01:20:50,173
+I'll forgive you.
+
+1453
+01:20:50,241 --> 01:20:52,368
+You're a better man
+than I am, Mickey.
+
+1454
+01:20:52,443 --> 01:20:54,206
+Forgiveness was never
+my long suit.
+
+1455
+01:20:54,279 --> 01:20:57,476
+Oh... I patched it up
+with Cameron...
+
+1456
+01:20:57,548 --> 01:20:59,015
+and the gang at the home.
+
+1457
+01:20:59,083 --> 01:21:01,916
+Been a busy apologizer, huh?
+
+1458
+01:21:01,986 --> 01:21:03,351
+[Chuckling] So to speak.
+
+1459
+01:21:03,421 --> 01:21:06,390
+Well, hope is alive,
+the film is back on...
+
+1460
+01:21:06,457 --> 01:21:09,483
+and Cameron'll be over tomorrow
+to help you with the script.
+
+1461
+01:21:09,560 --> 01:21:11,653
+Great. I like that kid.
+
+1462
+01:21:11,729 --> 01:21:13,390
+All's right with the world!
+
+1463
+01:21:14,499 --> 01:21:15,932
+[Door closes]
+
+1464
+01:21:19,604 --> 01:21:20,935
+[Rain and thunder continue]
+
+1465
+01:21:22,507 --> 01:21:25,032
+Hope her number's
+still the same.
+
+1466
+01:21:25,109 --> 01:21:28,237
+[Phone beeping]
+
+1467
+01:21:33,918 --> 01:21:36,580
+Hello? Honey?
+
+1468
+01:21:36,654 --> 01:21:39,919
+Yeah, this is Daddy.
+
+1469
+01:21:39,991 --> 01:21:41,515
+Yeah! [Laughs]
+
+1470
+01:21:41,592 --> 01:21:44,720
+Yeah, I know it's been...
+I just wanted to call...
+
+1471
+01:21:44,796 --> 01:21:46,354
+and see how you're doin',
+what...
+
+1472
+01:21:46,431 --> 01:21:50,299
+Yeah... Oh, you gotta go out.
+
+1473
+01:21:50,368 --> 01:21:52,529
+Well, yeah... [Laughs]
+
+1474
+01:21:52,603 --> 01:21:54,730
+I just wanted to talk to you.
+
+1475
+01:21:54,806 --> 01:21:56,364
+Yeah, I'll-I'll-I'll let you...
+
+1476
+01:21:56,441 --> 01:21:58,705
+I'll call you
+another time, yeah.
+
+1477
+01:21:58,776 --> 01:22:01,267
+[Chuckles] Bye-bye, honey.
+
+1478
+01:22:05,416 --> 01:22:06,906
+[Phone beeps]
+
+1479
+01:22:21,966 --> 01:22:24,594
+[Thunder rumbles...]
+
+1480
+01:22:30,141 --> 01:22:32,939
+[Typewriter carriage clicks]
+
+1481
+01:22:35,680 --> 01:22:39,013
+[Typewriter keys tapping...]
+
+1482
+01:22:41,819 --> 01:22:43,787
+[Choir singing triumphantly]
+
+1483
+01:22:46,290 --> 01:22:47,279
+[Carriage return dings]
+
+1484
+01:22:47,358 --> 01:22:50,293
+FLASH: Sabotage
+is essential in warfare.
+
+1485
+01:22:50,361 --> 01:22:52,295
+Brett Raven's ahead of you.
+We gotta slow him down.
+
+1486
+01:22:52,363 --> 01:22:54,297
+CAMERON:
+Flash, are you sure about this?
+
+1487
+01:22:54,365 --> 01:22:56,595
+Are we gonna do this or not?
+
+1488
+01:22:56,667 --> 01:22:57,827
+You're clear.
+
+1489
+01:22:57,902 --> 01:23:00,462
+Yeah... Well...
+
+1490
+01:23:00,538 --> 01:23:05,305
+it's a myth that scripts
+are the lifeblood of Hollywood.
+
+1491
+01:23:07,378 --> 01:23:09,710
+It's gasoline.
+
+1492
+01:23:12,250 --> 01:23:13,239
+Whoops.
+
+1493
+01:23:14,252 --> 01:23:15,549
+[Choir singing "Ode to Joy"]
+
+1494
+01:23:15,620 --> 01:23:16,814
+TEENAGE BO Y: Check it out!
+
+1495
+01:23:16,888 --> 01:23:18,116
+No more lifeblood.
+
+1496
+01:23:21,459 --> 01:23:23,120
+- CAMERON: Oh, man.
+- MURPHY: Oh, no.
+
+1497
+01:23:24,962 --> 01:23:26,452
+FLASH: Oh, shit!
+
+1498
+01:23:28,966 --> 01:23:29,955
+[Explosion]
+
+1499
+01:23:31,235 --> 01:23:34,568
+[Choir singing finale
+to Beethoven's 9th]
+
+1500
+01:23:38,709 --> 01:23:41,439
+[Orchestra plays triumphant
+finale to Beethoven's 9th]
+
+1501
+01:23:53,591 --> 01:23:55,218
+[General conversations...]
+
+1502
+01:23:55,359 --> 01:23:57,919
+[Radio plays music...]
+
+1503
+01:24:01,132 --> 01:24:02,121
+Hey.
+
+1504
+01:24:02,200 --> 01:24:04,031
+Hey, Cam!
+
+1505
+01:24:04,102 --> 01:24:06,127
+Whoa, it looks like an
+extreme makeover or something...
+
+1506
+01:24:06,204 --> 01:24:07,262
+going on out there.
+
+1507
+01:24:07,338 --> 01:24:09,363
+Yeah, they started
+to spruce the place up...
+
+1508
+01:24:09,440 --> 01:24:12,034
+when they heard
+about our little project.
+
+1509
+01:24:12,110 --> 01:24:14,203
+Wonder how they found out
+about that?
+
+1510
+01:24:14,278 --> 01:24:16,769
+- Well, I'm proud of this.
+- Yeah? Me too.
+
+1511
+01:24:17,882 --> 01:24:21,045
+? Ta-taah ?
+
+1512
+01:24:21,119 --> 01:24:22,313
+[Typewriter roll zips]
+
+1513
+01:24:22,386 --> 01:24:24,786
+- It's finished?
+- For now.
+
+1514
+01:24:24,856 --> 01:24:26,255
+You don't
+write in this business.
+
+1515
+01:24:26,324 --> 01:24:28,258
+You re-write.
+
+1516
+01:24:30,328 --> 01:24:32,228
+We have a screenplay.
+
+1517
+01:24:32,296 --> 01:24:33,854
+This is great.
+
+1518
+01:24:33,931 --> 01:24:35,489
+It's great dialogue.
+
+1519
+01:24:36,667 --> 01:24:38,032
+You're the man, Mick.
+
+1520
+01:24:38,102 --> 01:24:39,433
+Thanks.
+
+1521
+01:24:39,504 --> 01:24:41,404
+The man for what?
+
+1522
+01:24:41,472 --> 01:24:44,532
+You know. You're the man!
+
+1523
+01:24:45,810 --> 01:24:47,937
+Anyway, it's not the dialogue...
+
+1524
+01:24:48,012 --> 01:24:50,412
+it's the subtext
+I'm concerned about.
+
+1525
+01:24:50,481 --> 01:24:54,679
+The unspoken calendar of
+tensions, feelings, inner events.
+
+1526
+01:24:54,752 --> 01:24:56,379
+That's what matters to me.
+
+1527
+01:24:56,454 --> 01:24:58,888
+Sounds cool.
+
+1528
+01:24:59,891 --> 01:25:02,826
+Yeah, thanks.
+Let's go make a movie, huh?
+
+1529
+01:25:02,894 --> 01:25:04,327
+Money!
+
+1530
+01:25:05,496 --> 01:25:08,488
+[?...]
+
+1531
+01:25:10,835 --> 01:25:11,995
+[Whooshing]
+
+1532
+01:25:14,639 --> 01:25:16,106
+[Whooshing]
+
+1533
+01:25:25,816 --> 01:25:28,046
+[Whooshing]
+
+1534
+01:25:34,258 --> 01:25:37,989
+[?...]
+
+1535
+01:26:14,232 --> 01:26:16,359
+[?...]
+
+1536
+01:26:45,896 --> 01:26:48,023
+[?...]
+
+1537
+01:27:01,979 --> 01:27:02,968
+[Music fades]
+
+1538
+01:27:04,582 --> 01:27:06,243
+And that's a wrap.
+
+1539
+01:27:06,317 --> 01:27:07,944
+- We're done!
+- MURPHY: Yeah!
+
+1540
+01:27:08,019 --> 01:27:09,714
+CAMERON: That's a wrap!
+
+1541
+01:27:09,787 --> 01:27:11,448
+I can't believe we did it!
+
+1542
+01:27:11,522 --> 01:27:13,353
+FLASH: No, you did it, kid!
+
+1543
+01:27:13,424 --> 01:27:15,289
+Get out of here. We all did it.
+
+1544
+01:27:16,093 --> 01:27:17,082
+Want a cigar?
+
+1545
+01:27:17,161 --> 01:27:19,789
+Dumb question.
+
+1546
+01:27:19,864 --> 01:27:22,059
+Time to burn some more
+of Castro's crops, huh?
+
+1547
+01:27:22,133 --> 01:27:24,795
+Call it national pride, amigo.
+
+1548
+01:27:24,869 --> 01:27:26,234
+Oh, my God.
+
+1549
+01:27:26,304 --> 01:27:29,137
+You don't keep the cigars
+in your underwear drawer!
+
+1550
+01:27:29,206 --> 01:27:30,366
+It's the best humidor around.
+
+1551
+01:27:30,441 --> 01:27:32,466
+I can imagine where
+the humidity comes from.
+
+1552
+01:27:32,543 --> 01:27:34,067
+Yeah, my point exactly.
+
+1553
+01:27:36,314 --> 01:27:37,941
+CAMERON: You sure
+you're all right, Flash?
+
+1554
+01:27:38,015 --> 01:27:39,949
+Yeah, yeah, yeah, yeah.
+I'm a little tired, that's all.
+
+1555
+01:27:40,017 --> 01:27:42,076
+My last film was in 1968.
+
+1556
+01:27:42,153 --> 01:27:44,348
+[Chuckling] Money, dude!
+
+1557
+01:27:44,422 --> 01:27:47,823
+What the hell does that mean,
+huh? "Money"?
+
+1558
+01:27:47,892 --> 01:27:50,452
+I dunno, uh, money!
+
+1559
+01:27:51,562 --> 01:27:53,792
+I don't know! [Chuckling]
+
+1560
+01:27:53,864 --> 01:27:55,923
+- I'm gonna go to the lab.
+- CAMERON: All right.
+
+1561
+01:27:56,000 --> 01:27:57,331
+That clears it up.
+
+1562
+01:27:58,102 --> 01:27:59,933
+Yeah, I'm out of here,
+right behind you.
+
+1563
+01:28:00,004 --> 01:28:01,369
+[Coughing] Me too.
+
+1564
+01:28:01,439 --> 01:28:03,373
+Wait, my mom will give
+you guys a ride home.
+
+1565
+01:28:03,441 --> 01:28:04,908
+MICKEY:
+You sure she doesn't mind?
+
+1566
+01:28:04,975 --> 01:28:05,964
+We don't wanna be any trouble.
+
+1567
+01:28:06,043 --> 01:28:07,943
+We'll take the ride.
+
+1568
+01:28:08,012 --> 01:28:10,606
+[lmitating Flash]
+We'll take the ride.
+
+1569
+01:28:10,681 --> 01:28:11,875
+Thanks, kid.
+
+1570
+01:28:11,949 --> 01:28:13,610
+CAMERON: I'll go get her.
+
+1571
+01:28:14,385 --> 01:28:16,683
+Next shot's in a glass.
+
+1572
+01:28:18,756 --> 01:28:21,589
+Go ahead, Flash.
+You deserve it.
+
+1573
+01:28:21,726 --> 01:28:23,990
+Don't mind if I do.
+
+1574
+01:28:27,031 --> 01:28:29,795
+I don't know,
+the edit's looking really good.
+
+1575
+01:28:29,867 --> 01:28:31,801
+[Distant train whistle]
+
+1576
+01:28:31,869 --> 01:28:34,531
+It could work.
+We might have a chance.
+
+1577
+01:28:35,072 --> 01:28:37,802
+Are you kidding? It rocks.
+
+1578
+01:28:37,875 --> 01:28:39,536
+But something's missing.
+
+1579
+01:28:39,610 --> 01:28:40,872
+You're wack, dude.
+
+1580
+01:28:40,945 --> 01:28:42,936
+What the hell is Flash doing?
+
+1581
+01:28:48,119 --> 01:28:49,814
+Oh, this can't be good.
+
+1582
+01:28:54,258 --> 01:28:56,123
+- Flash!
+- [Flash grunts incoherently]
+
+1583
+01:28:56,961 --> 01:28:57,950
+CAMERON: Be careful!
+
+1584
+01:28:58,028 --> 01:28:59,495
+He means don't get caught!
+
+1585
+01:28:59,563 --> 01:29:00,723
+[Laughing drunkenly]
+
+1586
+01:29:00,798 --> 01:29:02,789
+We did it, boys!
+
+1587
+01:29:04,668 --> 01:29:05,999
+We made a movie!
+
+1588
+01:29:07,471 --> 01:29:08,699
+You promised not to drink.
+
+1589
+01:29:10,307 --> 01:29:12,901
+Only... till we wrapped.
+
+1590
+01:29:14,712 --> 01:29:15,872
+MURPHY: What are you doing?
+
+1591
+01:29:15,946 --> 01:29:18,141
+FLASH:
+I'm doin' the right thing!
+
+1592
+01:29:18,215 --> 01:29:19,341
+What are you talking about?
+
+1593
+01:29:19,417 --> 01:29:21,248
+FLASH:
+I'm not gonna leave without 'em!
+
+1594
+01:29:21,318 --> 01:29:22,979
+BOTH: Without who?
+
+1595
+01:29:23,053 --> 01:29:24,042
+[Puppies barking]
+
+1596
+01:29:24,955 --> 01:29:25,944
+[Dogs barking]
+
+1597
+01:29:27,892 --> 01:29:28,881
+Definitely not good.
+
+1598
+01:29:30,494 --> 01:29:31,859
+[Whooshing]
+
+1599
+01:29:31,929 --> 01:29:33,760
+Hey, roll on this.
+
+1600
+01:29:33,831 --> 01:29:35,196
+All right, you got it.
+
+1601
+01:29:37,435 --> 01:29:40,404
+- This looks familiar, right?
+- I'm feelin' you, dude.
+
+1602
+01:29:40,471 --> 01:29:42,939
+Dogs and humans,
+there's no difference.
+
+1603
+01:29:43,007 --> 01:29:43,996
+[Gate rattles]
+
+1604
+01:29:45,443 --> 01:29:47,343
+Flash, what the hell...
+
+1605
+01:29:47,411 --> 01:29:48,605
+[Dogs barking...]
+
+1606
+01:29:48,679 --> 01:29:50,010
+CAMERON:
+What the hell you doing?
+
+1607
+01:29:50,080 --> 01:29:51,069
+I'm settin' 'em free.
+
+1608
+01:29:51,148 --> 01:29:52,740
+What the hell
+do you think I'm doing?
+
+1609
+01:29:52,817 --> 01:29:54,375
+MURPHY: Shit, Cameron.
+We can't get busted again.
+
+1610
+01:29:54,452 --> 01:29:55,783
+CAMERON:
+Murph's right, Flash. We can't...
+
+1611
+01:29:55,853 --> 01:29:58,651
+Murph's a coward just like
+that son of a bitch, Nietzsche!
+
+1612
+01:29:58,722 --> 01:30:01,316
+Hey! Go on then!
+
+1613
+01:30:02,092 --> 01:30:03,081
+[Puppies barking]
+
+1614
+01:30:03,627 --> 01:30:05,254
+FLASH: Oh! Hey!
+
+1615
+01:30:05,329 --> 01:30:07,092
+Let my people go!
+
+1616
+01:30:07,164 --> 01:30:08,688
+Run, doggies!
+
+1617
+01:30:08,766 --> 01:30:11,030
+CAMERON:
+Run where, Flash, where?
+
+1618
+01:30:11,101 --> 01:30:13,228
+- Hey, I know a place.
+- Where?
+
+1619
+01:30:13,304 --> 01:30:15,238
+- Get the truck!
+- CAMERON: Flash, we can't!
+
+1620
+01:30:15,306 --> 01:30:17,240
+- MURPHY: No, no way.
+- You're pussies!
+
+1621
+01:30:17,308 --> 01:30:19,674
+- I'll get it myself.
+- Flash, this is not cool!
+
+1622
+01:30:19,743 --> 01:30:21,574
+This is grand theft auto, O. K?
+
+1623
+01:30:21,645 --> 01:30:22,942
+And I know a little
+something about it...
+
+1624
+01:30:23,013 --> 01:30:24,002
+and I won't do it again!
+
+1625
+01:30:24,081 --> 01:30:27,949
+I am not leavin'
+without those dogs!
+
+1626
+01:30:28,018 --> 01:30:30,248
+I mean, they're gonna kill 'em!
+
+1627
+01:30:30,321 --> 01:30:31,310
+Don't you care?
+
+1628
+01:30:32,056 --> 01:30:33,717
+Flash, of course I care.
+
+1629
+01:30:34,959 --> 01:30:36,950
+After all I've done for you...
+
+1630
+01:30:37,027 --> 01:30:39,495
+you can't do this one
+small thing for me?
+
+1631
+01:30:39,563 --> 01:30:42,225
+This one small felony.
+
+1632
+01:30:44,802 --> 01:30:47,566
+FLASH: Yeah, I know
+a dog park in Boyle Heights.
+
+1633
+01:30:47,638 --> 01:30:48,969
+Yeah, at least dumping dogs
+in a dog park...
+
+1634
+01:30:49,039 --> 01:30:50,028
+is only a misdemeanor.
+
+1635
+01:30:50,107 --> 01:30:52,007
+Who goes to dog parks?
+
+1636
+01:30:52,076 --> 01:30:54,476
+Dog owners, dog lovers,
+people who give a shit.
+
+1637
+01:30:54,545 --> 01:30:55,944
+CAMERON: Yeah,
+but they already have dogs.
+
+1638
+01:30:56,013 --> 01:30:57,412
+That's why they go there.
+
+1639
+01:30:57,481 --> 01:30:58,470
+And it's midnight.
+
+1640
+01:30:58,549 --> 01:31:00,141
+No one's even gonna be
+there right now anyway.
+
+1641
+01:31:00,217 --> 01:31:01,445
+FLASH: Yeah, I know that,
+but in the morning...
+
+1642
+01:31:01,519 --> 01:31:03,510
+when the dog lovers
+show up, hey, who knows?
+
+1643
+01:31:03,587 --> 01:31:04,986
+The dogs may get lucky and...
+
+1644
+01:31:05,055 --> 01:31:06,522
+Dog people are crazy.
+
+1645
+01:31:06,590 --> 01:31:09,150
+They're nuts!
+When they get together...
+
+1646
+01:31:09,226 --> 01:31:11,660
+it's worse than an A.A. meeting.
+
+1647
+01:31:11,729 --> 01:31:14,061
+But the bottom line is
+they love dogs...
+
+1648
+01:31:14,131 --> 01:31:16,691
+more than life itself,
+and that's perfect for us.
+
+1649
+01:31:16,767 --> 01:31:19,292
+And our seventeen friends.
+
+1650
+01:31:25,876 --> 01:31:27,207
+See, Flash?
+
+1651
+01:31:27,278 --> 01:31:28,939
+Eh, they don't mean it.
+
+1652
+01:31:29,914 --> 01:31:31,211
+Open it up.
+
+1653
+01:31:33,851 --> 01:31:36,979
+[Dogs whimpering and barking]
+
+1654
+01:31:42,660 --> 01:31:44,924
+Ain't that a pretty sight.
+
+1655
+01:31:49,867 --> 01:31:52,665
+I have to admit,
+they are a happy bunch.
+
+1656
+01:31:52,736 --> 01:31:55,534
+Right, but animal control'll
+come and pick 'em up tomorrow.
+
+1657
+01:31:56,640 --> 01:31:58,301
+At least they have tonight.
+
+1658
+01:31:59,543 --> 01:32:00,601
+CAMERON:
+Come on, let's get out of here...
+
+1659
+01:32:00,678 --> 01:32:02,839
+before human control
+comes and picks us up.
+
+1660
+01:32:07,051 --> 01:32:08,882
+[Dogs barking faintly]
+
+1661
+01:32:10,387 --> 01:32:14,687
+CHOIR: ? Silent night ?
+
+1662
+01:32:14,758 --> 01:32:18,250
+? Holy night... ?
+
+1663
+01:32:18,329 --> 01:32:19,489
+Leaders are born.
+
+1664
+01:32:19,563 --> 01:32:20,962
+Leaders are made.
+
+1665
+01:32:21,031 --> 01:32:22,896
+To be a leader,
+all you need is followers.
+
+1666
+01:32:22,967 --> 01:32:25,629
+Have you ever heard the term
+"natural-born leader"?
+
+1667
+01:32:26,770 --> 01:32:29,102
+Why do you have to argue
+about everything that I say?
+
+1668
+01:32:29,173 --> 01:32:30,970
+He's not arguing, Floyd.
+
+1669
+01:32:31,041 --> 01:32:33,339
+He's topping. He's a topper.
+
+1670
+01:32:33,410 --> 01:32:36,709
+You know, whatever you say,
+he tops. It's a kid thing.
+
+1671
+01:32:36,780 --> 01:32:37,906
+That's horseshit.
+
+1672
+01:32:37,982 --> 01:32:39,609
+Cameron, please.
+
+1673
+01:32:39,683 --> 01:32:40,809
+Sorry, Mom.
+
+1674
+01:32:40,884 --> 01:32:42,010
+Kids are trying
+to find their voice.
+
+1675
+01:32:42,086 --> 01:32:43,883
+You know, they want to be heard,
+they want to be respected.
+
+1676
+01:32:43,954 --> 01:32:47,014
+It's easy to respect back
+when they respect us.
+
+1677
+01:32:47,091 --> 01:32:49,059
+FLASH: It's one thing to,
+uh, demand respect.
+
+1678
+01:32:49,126 --> 01:32:51,117
+It's another
+to command respect.
+
+1679
+01:32:51,195 --> 01:32:53,060
+[Chuckles] Am I right, Floyd?
+
+1680
+01:32:54,465 --> 01:32:55,625
+Is he right, Floyd?
+
+1681
+01:32:57,835 --> 01:32:58,824
+Yeah, right.
+
+1682
+01:33:01,038 --> 01:33:03,700
+This was
+the best Christmas turkey...
+
+1683
+01:33:03,774 --> 01:33:06,299
+I have eaten
+since before I started...
+
+1684
+01:33:06,377 --> 01:33:09,744
+eating strained prunes
+on an irregular basis.
+
+1685
+01:33:09,813 --> 01:33:12,748
+Thank you, Flash.
+It was my pleasure.
+
+1686
+01:33:12,816 --> 01:33:13,874
+It was great, Mom.
+
+1687
+01:33:13,951 --> 01:33:15,816
+Well, it deserves a toast,
+let me tell you.
+
+1688
+01:33:17,221 --> 01:33:18,210
+O.K.
+
+1689
+01:33:21,492 --> 01:33:22,982
+Hey, come on, Floyd.
+
+1690
+01:33:23,060 --> 01:33:25,927
+You don't have to be a dick
+every day of your life.
+
+1691
+01:33:25,996 --> 01:33:27,020
+Good God, Flash.
+
+1692
+01:33:27,097 --> 01:33:28,860
+[Laughs] Easy, easy, Flash.
+
+1693
+01:33:28,932 --> 01:33:30,297
+Eh, I'm just messing with him.
+Right, Floyd?
+
+1694
+01:33:30,367 --> 01:33:32,528
+You and me, we understand
+each other, right?
+
+1695
+01:33:33,737 --> 01:33:35,136
+Yeah, I think we do.
+
+1696
+01:33:43,013 --> 01:33:44,275
+I'll get coffee and dessert.
+
+1697
+01:33:46,884 --> 01:33:49,944
+[Choir singing carols]
+
+1698
+01:33:59,229 --> 01:34:00,958
+Do you have to work
+at being an asshole...
+
+1699
+01:34:01,031 --> 01:34:02,692
+or does it come naturally?
+
+1700
+01:34:04,168 --> 01:34:05,635
+- Thank you.
+- You're welcome.
+
+1701
+01:34:05,703 --> 01:34:08,228
+Because it comes
+real natural for me.
+
+1702
+01:34:08,305 --> 01:34:09,636
+Your point is?
+
+1703
+01:34:09,707 --> 01:34:11,675
+Point is, pal...
+
+1704
+01:34:11,742 --> 01:34:13,835
+that being an asshole
+every day of your life...
+
+1705
+01:34:13,911 --> 01:34:15,572
+is a dead-end for loneliness.
+
+1706
+01:34:15,646 --> 01:34:16,635
+One day,
+you're gonna wake up...
+
+1707
+01:34:16,714 --> 01:34:19,012
+and find there's no one else
+left to be mean to.
+
+1708
+01:34:19,083 --> 01:34:22,143
+And on that day...
+hey, hey, hey, you die.
+
+1709
+01:34:22,820 --> 01:34:24,811
+What crap.
+
+1710
+01:34:27,024 --> 01:34:30,118
+I've been meaner than
+a snake to most people I know.
+
+1711
+01:34:30,194 --> 01:34:31,957
+But now that I'm
+at the end of my game...
+
+1712
+01:34:32,029 --> 01:34:33,758
+there are precious few left.
+
+1713
+01:34:33,831 --> 01:34:35,492
+My ass bleeds for you.
+
+1714
+01:34:37,301 --> 01:34:39,565
+Yeah, felt good for you
+to say that, didn't it?
+
+1715
+01:34:39,636 --> 01:34:41,035
+As a matter of fact, it did.
+
+1716
+01:34:41,105 --> 01:34:42,231
+Yeah, I know.
+
+1717
+01:34:42,306 --> 01:34:44,638
+I used to take great pleasure
+in doing shit like that.
+
+1718
+01:34:44,708 --> 01:34:46,699
+- I was a master at it.
+- Fascinating.
+
+1719
+01:34:46,777 --> 01:34:50,213
+Listen to me,
+you dim-witted mud hook.
+
+1720
+01:34:50,280 --> 01:34:52,248
+I'm trying to tell you
+something...
+
+1721
+01:34:52,316 --> 01:34:54,250
+something important...
+
+1722
+01:34:54,318 --> 01:34:56,548
+and you choose to crack wise.
+
+1723
+01:34:56,620 --> 01:34:58,747
+Now, trust me, if you want
+your ears boxed...
+
+1724
+01:34:58,822 --> 01:35:00,289
+I'll gladly oblige.
+
+1725
+01:35:00,357 --> 01:35:01,881
+I know I may be getting on
+in years...
+
+1726
+01:35:01,959 --> 01:35:04,086
+but I could still
+knock you off the porch.
+
+1727
+01:35:04,161 --> 01:35:06,425
+You get my meaning,
+simpleton?
+
+1728
+01:35:08,265 --> 01:35:11,564
+Now lay off Cameron.
+He's good people.
+
+1729
+01:35:11,635 --> 01:35:15,230
+He doesn't like me...
+and I don't like him.
+
+1730
+01:35:15,305 --> 01:35:18,240
+Well, I don't like you either,
+but I love that boy.
+
+1731
+01:35:18,308 --> 01:35:19,969
+I'm happy for you. [Chuckles]
+
+1732
+01:35:21,044 --> 01:35:23,103
+You don't get it, do you?
+
+1733
+01:35:24,715 --> 01:35:28,378
+You don't see his worth, do you?
+
+1734
+01:35:30,654 --> 01:35:33,521
+But mark my words...
+
+1735
+01:35:33,590 --> 01:35:36,184
+that boy'll make you proud...
+
+1736
+01:35:38,729 --> 01:35:40,526
+if you just give him a chance.
+
+1737
+01:35:44,468 --> 01:35:46,026
+Huh?
+
+1738
+01:35:47,437 --> 01:35:48,426
+Ah, come on.
+
+1739
+01:35:50,073 --> 01:35:53,042
+[Choir singing faintly]
+
+1740
+01:35:54,545 --> 01:35:56,479
+FLASH: Hey, Cameron...
+
+1741
+01:35:56,547 --> 01:35:59,516
+we were just listing
+your shortcomings.
+
+1742
+01:36:01,018 --> 01:36:02,315
+I know, I gotta do better.
+
+1743
+01:36:02,386 --> 01:36:04,752
+FLASH: Oh... my God.
+
+1744
+01:36:04,822 --> 01:36:06,551
+Mother Kincaid...
+
+1745
+01:36:06,623 --> 01:36:09,820
+what a culinary wizard
+you turned out to be.
+
+1746
+01:36:09,893 --> 01:36:13,090
+- Well, she's the best, right?
+- She is.
+
+1747
+01:36:15,465 --> 01:36:16,932
+Thank you, honey.
+
+1748
+01:36:17,000 --> 01:36:18,797
+Here, Floyd. Here you go.
+
+1749
+01:36:18,869 --> 01:36:21,838
+Thank you.
+
+1750
+01:36:21,905 --> 01:36:24,305
+So how's your movie coming?
+
+1751
+01:36:24,374 --> 01:36:25,898
+Huh?
+
+1752
+01:36:25,976 --> 01:36:27,409
+Oh...
+
+1753
+01:36:27,477 --> 01:36:30,810
+It's good. We're editing now.
+
+1754
+01:36:30,881 --> 01:36:32,542
+I'd like to see it.
+
+1755
+01:36:33,984 --> 01:36:35,781
+Yeah, as soon as it's done.
+
+1756
+01:36:35,853 --> 01:36:37,480
+JUD Y: I can't wait.
+
+1757
+01:36:37,554 --> 01:36:40,523
+- Flash is the man.
+- Ah.
+
+1758
+01:36:40,591 --> 01:36:42,525
+I could not have done it
+without this man here.
+
+1759
+01:36:42,593 --> 01:36:45,585
+And the entire west wing of
+the Motion Picture Residence.
+
+1760
+01:36:45,662 --> 01:36:47,960
+[Applauding]
+
+1761
+01:36:49,466 --> 01:36:52,094
+Hey, the toast then, huh?
+
+1762
+01:36:55,272 --> 01:36:57,263
+Let me think, let me think.
+
+1763
+01:36:58,108 --> 01:37:01,976
+Even though we may fall
+into misfortune...
+
+1764
+01:37:02,045 --> 01:37:05,208
+um, still let us remember...
+
+1765
+01:37:05,282 --> 01:37:09,651
+what it was once like here
+when we were all together...
+
+1766
+01:37:09,720 --> 01:37:12,416
+united by a good
+and kind feeling...
+
+1767
+01:37:14,324 --> 01:37:19,956
+when we were perhaps
+better than we are.
+
+1768
+01:37:21,031 --> 01:37:22,760
+Um...
+
+1769
+01:37:24,468 --> 01:37:25,799
+Yeah, that's, that's it.
+
+1770
+01:37:26,470 --> 01:37:30,839
+[Choir singing,
+glasses clinking]
+
+1771
+01:37:42,986 --> 01:37:45,716
+See how Hitchcock only shoots
+in singles in this scene?
+
+1772
+01:37:47,291 --> 01:37:48,781
+We never see
+Barbara Bel Geddes...
+
+1773
+01:37:48,859 --> 01:37:50,793
+or James Stewart
+in the same shot.
+
+1774
+01:37:50,861 --> 01:37:52,726
+We never feel we're, we're
+watching from the outside.
+
+1775
+01:37:52,796 --> 01:37:54,730
+We're involved.
+We're in the scene.
+
+1776
+01:37:54,798 --> 01:37:56,698
+It's like the actors
+are talking to us.
+
+1777
+01:37:56,767 --> 01:37:59,065
+I wake up at night seeing
+that man fall from the roof...
+
+1778
+01:37:59,136 --> 01:38:01,502
+and I try to reach out to him...
+
+1779
+01:38:01,571 --> 01:38:04,062
+[?...]
+
+1780
+01:38:29,666 --> 01:38:30,655
+CAMERON ON FILM:
+Everywhere I went...
+
+1781
+01:38:30,734 --> 01:38:32,258
+I found wheelchairs
+facing the windows...
+
+1782
+01:38:32,336 --> 01:38:34,327
+This is great, Cameron.
+
+1783
+01:38:34,404 --> 01:38:37,032
+- This is really great.
+- Thanks.
+
+1784
+01:38:37,107 --> 01:38:39,507
+CAMERON ON FILM: Now
+they are forgotten in cages...
+
+1785
+01:38:39,576 --> 01:38:41,544
+left to die, alone.
+
+1786
+01:38:41,611 --> 01:38:43,306
+MOSS:
+That's not the take I wanted.
+
+1787
+01:38:43,380 --> 01:38:46,781
+Yeah, I, um, I stuck with
+this take because I thought...
+
+1788
+01:38:46,850 --> 01:38:49,318
+Put the take in
+that I wanted, O. K?
+
+1789
+01:38:49,386 --> 01:38:50,683
+I know what I'm doing.
+
+1790
+01:38:50,754 --> 01:38:51,743
+CAMERON: You see how we're...
+
+1791
+01:38:51,822 --> 01:38:53,881
+- pulling back and it flows...
+- [Telephone ringing]
+
+1792
+01:38:53,957 --> 01:38:56,118
+Just make the tweaks
+I asked for...
+
+1793
+01:38:56,193 --> 01:38:58,320
+and it'll be ready
+to be submitted.
+
+1794
+01:38:58,395 --> 01:39:00,522
+MICKEY: Today is the day.
+Uh, in by 5:00...
+
+1795
+01:39:00,597 --> 01:39:02,724
+- no exceptions.
+- No problemo.
+
+1796
+01:39:02,799 --> 01:39:05,461
+JUD Y: Hello? Yeah, this is she.
+
+1797
+01:39:08,138 --> 01:39:10,299
+Cameron... it's Flash.
+
+1798
+01:39:10,374 --> 01:39:11,773
+Oh, good. I need to talk to him.
+
+1799
+01:39:11,842 --> 01:39:12,831
+No...
+
+1800
+01:39:14,177 --> 01:39:16,475
+Honey, it's about Flash.
+
+1801
+01:39:22,419 --> 01:39:25,183
+WOMAN ON P. A:
+Dr. Miller to radiology.
+
+1802
+01:39:25,255 --> 01:39:26,984
+Dr. Miller to radiology.
+
+1803
+01:39:29,860 --> 01:39:32,829
+[No dialogue]
+
+1804
+01:39:35,332 --> 01:39:36,321
+[Whooshing]
+
+1805
+01:39:47,377 --> 01:39:48,366
+[Whooshing]
+
+1806
+01:39:55,385 --> 01:39:56,374
+[Whooshing]
+
+1807
+01:40:06,830 --> 01:40:08,297
+Cameron...
+
+1808
+01:40:10,634 --> 01:40:14,229
+[Woman talking over P.A.]
+
+1809
+01:40:16,273 --> 01:40:17,604
+I'll check on Mickey.
+
+1810
+01:40:19,276 --> 01:40:21,141
+Thanks.
+
+1811
+01:40:32,389 --> 01:40:35,085
+The man in the chair.
+
+1812
+01:40:38,662 --> 01:40:39,651
+Hey, Flash.
+
+1813
+01:40:41,098 --> 01:40:43,931
+Cameron Kincaid...
+
+1814
+01:40:44,000 --> 01:40:46,935
+cool director.
+
+1815
+01:40:47,003 --> 01:40:48,766
+Money.
+
+1816
+01:40:48,839 --> 01:40:50,136
+Money.
+
+1817
+01:40:54,311 --> 01:40:55,972
+How'd the rough cut go?
+
+1818
+01:40:56,913 --> 01:40:57,902
+Rough.
+
+1819
+01:40:59,182 --> 01:41:00,615
+[Sniffles] Very rough.
+
+1820
+01:41:02,752 --> 01:41:06,244
+Yeah, you stick to your guns, kid.
+
+1821
+01:41:06,323 --> 01:41:10,783
+Don't let that prick Moss
+get you down.
+
+1822
+01:41:12,762 --> 01:41:17,665
+Yeah, they call it...
+"creative differences."
+
+1823
+01:41:17,734 --> 01:41:21,761
+Yeah, you're creative,
+and he's different.
+
+1824
+01:41:28,378 --> 01:41:30,676
+Flash, Flash...
+
+1825
+01:41:36,853 --> 01:41:37,842
+[Cameron sniffles]
+
+1826
+01:41:38,955 --> 01:41:39,944
+I know, kid.
+
+1827
+01:41:41,625 --> 01:41:43,820
+I know.
+
+1828
+01:41:50,901 --> 01:41:55,361
+Before I go, I want to thank you
+for being a friend.
+
+1829
+01:41:58,642 --> 01:42:02,373
+You're my last and...
+
+1830
+01:42:02,445 --> 01:42:04,640
+best friend.
+
+1831
+01:42:06,349 --> 01:42:08,180
+Hey...
+
+1832
+01:42:10,520 --> 01:42:14,012
+you opened my eyes about life.
+
+1833
+01:42:15,425 --> 01:42:16,756
+You did, you know?
+
+1834
+01:42:23,600 --> 01:42:27,092
+Oh, I always dreaded
+this moment.
+
+1835
+01:42:27,170 --> 01:42:29,502
+I thought I would be cold and...
+
+1836
+01:42:31,074 --> 01:42:37,741
+Ionely and... oh, Jesus,
+I was so scared.
+
+1837
+01:42:41,918 --> 01:42:45,217
+But I'm O.K. now.
+
+1838
+01:42:45,288 --> 01:42:47,483
+I'm warm.
+
+1839
+01:42:47,557 --> 01:42:49,821
+I'm not alone...
+
+1840
+01:42:54,731 --> 01:42:57,199
+'cause I'm with my friend.
+
+1841
+01:42:58,935 --> 01:43:00,835
+[Sighs]
+
+1842
+01:43:04,040 --> 01:43:05,029
+[Sobbing]
+
+1843
+01:43:29,499 --> 01:43:31,057
+I'll never forget you, Flash.
+
+1844
+01:43:59,262 --> 01:44:00,559
+ANNOUNCER:
+The scholarship winner...
+
+1845
+01:44:00,630 --> 01:44:02,791
+for the best student
+short film is...
+
+1846
+01:44:02,866 --> 01:44:05,767
+Brett Raven
+from Chatsworth High School...
+
+1847
+01:44:05,835 --> 01:44:07,860
+in Chatsworth, California.
+
+1848
+01:44:20,884 --> 01:44:24,877
+[?...]
+
+1849
+01:45:01,725 --> 01:45:03,852
+[?...]
+
+1850
+01:46:04,788 --> 01:46:06,722
+CAMERON: Brett Raven
+won the scholarship.
+
+1851
+01:46:06,790 --> 01:46:08,052
+Not a big deal.
+
+1852
+01:46:08,124 --> 01:46:09,785
+This is my film school.
+
+1853
+01:46:10,727 --> 01:46:13,662
+I learned more in a month
+than he will in a lifetime.
+
+1854
+01:46:13,730 --> 01:46:15,095
+And Flash was right.
+
+1855
+01:46:15,165 --> 01:46:17,565
+Nietzsche was full of shit
+most of the time.
+
+1856
+01:46:17,634 --> 01:46:19,829
+There are no expendable masses
+in the world.
+
+1857
+01:46:19,903 --> 01:46:21,564
+Every person matters.
+
+1858
+01:46:21,638 --> 01:46:25,039
+What we do, who we are
+can affect a generation.
+
+1859
+01:46:26,109 --> 01:46:27,906
+It's not the strength...
+
+1860
+01:46:27,977 --> 01:46:29,638
+but the duration
+of great sentiments...
+
+1861
+01:46:29,712 --> 01:46:31,043
+that makes great men.
+
+1862
+01:46:31,714 --> 01:46:33,705
+Nietzsche got that one right.
+

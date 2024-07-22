@@ -1,0 +1,207 @@
+﻿1
+00:00:01,916 --> 00:00:04,291
+<i>- I'm so sorry!
+- Sorry, sorry, sorry, sorry!</i>
+
+2
+00:00:04,375 --> 00:00:05,708
+<i>My gear is malfunctioning.</i>
+
+3
+00:00:05,791 --> 00:00:07,041
+<i>Sorry about that.</i>
+
+4
+00:00:07,125 --> 00:00:09,916
+<i>Unfortunately,
+the interactive features of this special</i>
+
+5
+00:00:10,000 --> 00:00:11,666
+<i>can't be displayed on this device.</i>
+
+6
+00:00:11,750 --> 00:00:15,000
+<i>But there are so many ways
+you can still enjoy the experience.</i>
+
+7
+00:00:15,083 --> 00:00:16,541
+<i>- Wow!
+- Just press "play"</i>
+
+8
+00:00:16,625 --> 00:00:18,875
+<i>on a newer Smart TV, mobile device,</i>
+
+9
+00:00:18,958 --> 00:00:21,083
+<i>game console, streaming media player,</i>
+
+10
+00:00:21,166 --> 00:00:23,500
+<i>web browser, or other compatible gadget</i>
+
+11
+00:00:23,583 --> 00:00:26,083
+<i>and you'll be on your way immediately.</i>
+
+12
+00:00:26,166 --> 00:00:29,958
+<i>You'll know you're on a compatible device
+whenever you see this badge.</i>
+
+13
+00:00:30,041 --> 00:00:33,833
+<i>If you need assistance at any point,
+just contact Netflix customer support...</i>
+
+14
+00:00:33,916 --> 00:00:35,726
+<i>- Ah!
+- ...and they'll get you going in no time.</i>
+
+15
+00:00:35,750 --> 00:00:37,208
+{\an8}<i>Don't miss out!</i>
+
+16
+00:00:37,291 --> 00:00:39,625
+{\an8}<i>Your immersive
+interactive experience awaits,</i>
+
+17
+00:00:39,708 --> 00:00:42,083
+<i>where you control the story.</i>
+
+18
+00:00:52,000 --> 00:00:55,375
+<i>Dog is awake. Good morning, Human.
+It's me, the Dog, here to cheer you up.</i>
+
+19
+00:00:55,458 --> 00:00:57,166
+<i>Human? Have you seen Human?</i>
+
+20
+00:00:57,250 --> 00:00:59,583
+<i>No, you haven't, because she's gone.</i>
+
+21
+00:00:59,666 --> 00:01:03,000
+<i>Where is she, Ham? Where is Human?</i>
+
+22
+00:01:03,083 --> 00:01:05,791
+<i>All human beings
+have been deleted.</i>
+
+23
+00:01:05,875 --> 00:01:08,166
+<i>The humans are gone?</i>
+
+24
+00:01:08,250 --> 00:01:10,416
+<i>Choose your player!</i>
+
+25
+00:01:10,500 --> 00:01:12,791
+{\an8}<i>We're going to find Human
+and fix all of this.</i>
+
+26
+00:01:12,875 --> 00:01:14,208
+{\an8}<i>Let go, Dog!</i>
+
+27
+00:01:14,291 --> 00:01:16,333
+{\an8}<i>You're coming with us.</i>
+
+28
+00:01:16,416 --> 00:01:18,041
+{\an8}<i>Ooh. Uh-oh.</i>
+
+29
+00:01:20,875 --> 00:01:24,291
+<i>According to calculations,
+the Glitch has broken the entire universe.</i>
+
+30
+00:01:30,083 --> 00:01:31,250
+<i>This is all your fault.</i>
+
+31
+00:01:33,125 --> 00:01:35,000
+<i>Gravity!</i>
+
+32
+00:01:35,083 --> 00:01:38,000
+<i>Where is Human?
+She's been gone forever. I counted.</i>
+
+33
+00:01:39,208 --> 00:01:42,708
+<i>Ham can do
+her dumb finding-Human thing...</i>
+
+34
+00:01:44,041 --> 00:01:47,375
+<i>...while I'm gonna do
+my not-dumb-at-all thing.</i>
+
+35
+00:01:47,458 --> 00:01:49,250
+<i>- Whoa.
+- No!</i>
+
+36
+00:01:49,333 --> 00:01:50,541
+<i>Should I be nice...</i>
+
+37
+00:01:50,625 --> 00:01:52,500
+<i>...or mean?</i>
+
+38
+00:01:52,583 --> 00:01:54,250
+<i>She peed her pants and died.</i>
+
+39
+00:01:54,333 --> 00:01:57,458
+<i>- Never mind who pooped whose pants.
+- We've got a Code Brown back here.</i>
+
+40
+00:01:57,541 --> 00:01:59,583
+<i>We're getting really kinda high right now.</i>
+
+41
+00:01:59,666 --> 00:02:02,625
+<i>- Please, eat me.
+- Wh... What?</i>
+
+42
+00:02:02,708 --> 00:02:04,708
+<i>- Come on, Pud!
+- Whoa!</i>
+
+43
+00:02:13,541 --> 00:02:15,221
+<i>We're gonna go home...</i>
+
+44
+00:02:15,708 --> 00:02:16,791
+<i>...to Human</i>
+
+45
+00:02:17,416 --> 00:02:18,541
+<i>together!</i>
+
+46
+00:02:22,375 --> 00:02:23,541
+<i>I'm not a monster.</i>
+
+47
+00:02:25,708 --> 00:02:28,333
+<i>Now let's go steal a blanket from a baby.</i>
+

@@ -1,0 +1,93 @@
+﻿1
+00:00:02,326 --> 00:00:07,507
+<i>[Arcturus Mengsk:] They say a man
+never really knows himself...</i>
+
+2
+00:00:11,286 --> 00:00:15,247
+<i>until his freedom's been taken away.</i>
+
+3
+00:00:20,752 --> 00:00:23,347
+<i>I wonder...</i>
+
+4
+00:00:25,617 --> 00:00:29,810
+<i>How well do you know yourself?</i>
+
+5
+00:00:41,854 --> 00:00:46,369
+<i>[Adjutant:] Prisoner,
+step forward onto the platform.</i>
+
+6
+00:01:13,963 --> 00:01:18,129
+<i>[Arcturus Mengsk:] Convict 626.</i>
+
+7
+00:01:18,366 --> 00:01:20,271
+<i>Murderer.</i>
+
+8
+00:01:21,246 --> 00:01:23,108
+<i>Pirate.</i>
+
+9
+00:01:23,636 --> 00:01:25,624
+<i>Traitor.</i>
+
+10
+00:01:26,266 --> 00:01:30,622
+<i>Today... you go free.</i>
+
+11
+00:01:39,055 --> 00:01:42,659
+<i>But, as you'll soon learn...</i>
+
+12
+00:01:46,920 --> 00:01:51,476
+<i>Even freedom has a price.</i>
+
+13
+00:02:38,731 --> 00:02:42,329
+<i>[Adjutant:] Combat suit,
+sealed and locked.</i>
+
+14
+00:02:43,647 --> 00:02:46,699
+<i>[Arcturus Mengsk:] You'll carry
+your prison with you.</i>
+
+15
+00:02:46,722 --> 00:02:51,031
+<i>That armor
+will be your new cell.</i>
+
+16
+00:02:52,956 --> 00:02:55,796
+<i>Make no mistake...</i>
+
+17
+00:02:57,548 --> 00:03:00,550
+<i>War is coming.</i>
+
+18
+00:03:02,226 --> 00:03:05,032
+<i>With all its glory...</i>
+
+19
+00:03:07,715 --> 00:03:10,029
+<i>And all its horror.</i>
+
+20
+00:03:10,748 --> 00:03:12,780
+<i>Mr. Findlay...</i>
+
+21
+00:03:13,590 --> 00:03:16,483
+<i>Your freedom awaits.</i>
+
+22
+00:03:17,137 --> 00:03:21,264
+<i>[Tychus Findlay:] Hell...
+It's about time.</i>

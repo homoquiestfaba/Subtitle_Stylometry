@@ -1,0 +1,1339 @@
+1
+00:00:05,635 --> 00:00:10,336
+Captain's report.
+February 4, 2531.
+
+2
+00:00:10,371 --> 00:00:14,595
+Five years.
+Five long years.
+
+3
+00:00:14,703 --> 00:00:18,303
+That's how long it took
+us to get Harvest back.
+
+4
+00:00:18,604 --> 00:00:20,204
+Go!go!go!
+
+5
+00:00:22,206 --> 00:00:25,085
+Move on!
+
+6
+00:00:25,320 --> 00:00:26,707
+I am hit!
+
+7
+00:00:31,508 --> 00:00:34,508
+Keep firing!
+
+8
+00:00:36,709 --> 00:00:39,509
+Go, come on.
+
+9
+00:00:42,410 --> 00:00:44,910
+At first it was going well...
+
+10
+00:00:45,311 --> 00:00:49,011
+..then setback after setback...
+
+11
+00:00:53,812 --> 00:00:56,312
+..loss after loss.
+
+12
+00:00:59,913 --> 00:01:04,975
+Made, what was going to be
+a quick and decisive win...
+
+13
+00:01:05,914 --> 00:01:09,514
+..five years of hell.
+
+14
+00:01:13,715 --> 00:01:17,115
+Of course that's all Harvest is, today.
+
+15
+00:01:17,416 --> 00:01:20,016
+It's hell down there.
+
+16
+00:01:21,153 --> 00:01:23,212
+But now it's ours, again.
+
+17
+00:01:35,154 --> 00:01:44,435
+System Epsilon 9, Xatsa
+February 4, 2531
+
+18
+00:01:45,070 --> 00:01:48,425
+3:20 pm on battleship HALO
+
+19
+00:02:12,018 --> 00:02:13,718
+Serina, status.
+
+20
+00:02:13,719 --> 00:02:17,070
+Standard orbit achieved,
+all systems normal.
+
+21
+00:02:17,105 --> 00:02:19,620
+Prep  for Podlaunchers,
+bring weapon systems online.
+
+22
+00:02:19,821 --> 00:02:21,821
+Expecting trouble, Captain?
+
+23
+00:02:22,192 --> 00:02:23,622
+Harvest maybe ours again...
+
+24
+00:02:23,623 --> 00:02:27,323
+..but I don't think the Covenant
+appreciate that, yet.
+
+25
+00:02:30,284 --> 00:02:31,924
+Sgt. Forge, report.
+
+26
+00:02:31,925 --> 00:02:34,225
+Definitely plenty of bad
+guys down here, Captain...
+
+27
+00:02:34,426 --> 00:02:36,126
+..and they found something in the ice.
+
+28
+00:02:36,127 --> 00:02:38,827
+Damn it. That complicates our mission.
+
+29
+00:02:38,928 --> 00:02:40,728
+- Anders, what have you got?
+- Captain ...
+
+30
+00:02:40,729 --> 00:02:43,055
+Scans of the northern
+polar region shows some...
+
+31
+00:02:43,090 --> 00:02:45,719
+..interesting Covenant
+activity on the surface.
+
+32
+00:02:45,754 --> 00:02:48,161
+There is some kind of
+structure down there.
+
+33
+00:02:48,582 --> 00:02:51,070
+What do you think they're looking for?
+
+34
+00:02:51,190 --> 00:02:53,033
+That's what we are here to find out.
+
+35
+00:02:53,155 --> 00:02:55,434
+We're to bring Alfa base
+up to operational status...
+
+36
+00:02:55,535 --> 00:02:57,565
+..and take control over that site.
+
+37
+00:02:57,600 --> 00:02:59,265
+I get my equipment, Captain.
+
+38
+00:02:59,365 --> 00:03:03,724
+Lady, there is no way you're coming
+down here on the first bird.
+
+39
+00:03:06,185 --> 00:03:09,638
+Sgt. Forge, pull back to Alpha
+Base, I'm sending you some backup.
+
+40
+00:03:09,639 --> 00:03:14,627
+- Roger that. Forge out.
+- So, nothing too difficult, then?
+
+41
+00:03:16,892 --> 00:03:20,536
+It might be the key to
+this whole war, Serina.
+
+42
+00:03:20,571 --> 00:03:23,390
+It's worth the risk.
+
+43
+00:03:38,443 --> 00:03:41,843
+Let's just take one last look, Sam.
+
+44
+00:03:49,110 --> 00:03:52,127
+The Hierarchs are impatient.
+We can delay no longer.
+
+45
+00:03:52,145 --> 00:03:54,145
+What if the infection defiles the relic?
+
+46
+00:03:54,346 --> 00:03:58,801
+I care not for your little
+life. Open the relic.
+
+47
+00:04:07,247 --> 00:04:09,247
+Well, well...
+
+48
+00:04:09,848 --> 00:04:12,348
+..open sesame.
+
+49
+00:04:37,049 --> 00:04:41,305
+What made you choose my observation
+deck as your lab, Professor?
+
+50
+00:04:41,351 --> 00:04:45,445
+I like the view. It adds..
+perspective to my work.
+
+51
+00:04:47,552 --> 00:04:50,552
+Forge doesn't think it's safe
+for you to go down there, yet.
+
+52
+00:04:50,553 --> 00:04:51,853
+He is quite insistent.
+
+53
+00:04:51,854 --> 00:04:54,654
+I can be quite insistent, too, captain.
+
+54
+00:04:54,655 --> 00:04:56,955
+I can take care of myself.
+
+55
+00:04:57,656 --> 00:05:00,755
+Any idea, what it  is
+we've got down there?
+
+56
+00:05:00,790 --> 00:05:02,426
+It's all theories, right now...
+
+57
+00:05:02,461 --> 00:05:05,158
+..and I'll know a lot more
+once I get down there.
+
+58
+00:05:05,607 --> 00:05:06,859
+I am approving the mission,...
+
+59
+00:05:06,960 --> 00:05:09,660
+..but the slightest sign of
+danger, and I'm pulling you out.
+
+60
+00:05:09,661 --> 00:05:13,461
+- Is that understood?
+- Understood, Captain.
+
+61
+00:05:16,462 --> 00:05:20,062
+Hierarch, the humans are closing.
+They soon will be upon us.
+
+62
+00:05:20,063 --> 00:05:24,803
+No matter, the information you've
+gathered here, is most  dramatizing.
+
+63
+00:05:24,932 --> 00:05:28,064
+However, we must protect
+what we've learned here.
+
+64
+00:05:28,065 --> 00:05:31,065
+Set the charges and destroy this place.
+
+65
+00:05:31,066 --> 00:05:33,566
+Destroy this holy relic?
+Surely, you just...
+
+66
+00:05:33,567 --> 00:05:35,867
+The journey requires sacrifice!
+
+67
+00:05:36,168 --> 00:05:39,478
+Set the charges. return to us.
+
+68
+00:05:39,513 --> 00:05:41,969
+Our patience is not infinite!
+
+69
+00:05:42,470 --> 00:05:45,070
+It will be done.
+
+70
+00:05:59,871 --> 00:06:03,589
+Spiro 5, this is Blue 6
+We join with Blue 5.
+
+71
+00:06:03,624 --> 00:06:06,272
+We are on route to the recon
+patrol's last known position.
+
+72
+00:06:06,373 --> 00:06:08,473
+Six, out.
+
+73
+00:06:11,674 --> 00:06:15,774
+Blue 6, Blue 6,
+We are under attack!
+
+74
+00:07:00,176 --> 00:07:04,332
+This is farm group Omega,
+if they want war...
+
+75
+00:07:04,677 --> 00:07:07,177
+.. we'll give them war!
+
+76
+00:07:11,153 --> 00:07:14,278
+Sgt., is this is what the aliens were after?
+
+77
+00:07:14,279 --> 00:07:15,579
+ Seems so, mom.
+
+78
+00:07:15,580 --> 00:07:17,728
+They sure paid a price,
+trying to defend it.
+
+79
+00:07:17,918 --> 00:07:19,981
+All quite, now.
+
+80
+00:07:28,082 --> 00:07:29,782
+Hey, what are you doing?
+
+81
+00:07:29,783 --> 00:07:33,083
+Nothing ventured, nothing gained.
+
+82
+00:07:47,884 --> 00:07:51,084
+Now, that's not what I expected.
+
+83
+00:07:58,452 --> 00:08:02,285
+Heresy, remove this filth!
+
+84
+00:08:03,886 --> 00:08:06,286
+- Take cover.
+- Go ahead.
+
+85
+00:08:10,058 --> 00:08:13,587
+These guys, just don't
+know when to quit.
+
+86
+00:08:16,888 --> 00:08:20,688
+One down.
+
+87
+00:08:21,889 --> 00:08:25,495
+- No!
+- Spirit Forge...
+
+88
+00:08:25,530 --> 00:08:28,090
+..we're gonna need a loose backup.
+
+89
+00:08:33,791 --> 00:08:36,591
+So, all it did, was point here.
+
+90
+00:08:36,592 --> 00:08:39,292
+In the 30 seconds I had
+to examine the artifact?
+
+91
+00:08:39,293 --> 00:08:42,493
+Yes, all it did, was point
+at a second star system.
+
+92
+00:08:42,494 --> 00:08:45,194
+Arcadia Colony, to be precise.
+
+93
+00:08:45,195 --> 00:08:47,395
+Population a little under three million...
+
+94
+00:08:47,396 --> 00:08:49,196
+..largely unexplored, but...
+
+95
+00:08:49,197 --> 00:08:51,797
+..apparently quite a vacation resort.
+
+96
+00:08:51,798 --> 00:08:53,898
+There's something there, Captain.
+
+97
+00:08:53,899 --> 00:08:56,799
+I think it's important to get to
+it, before the Covenant do.
+
+98
+00:08:56,800 --> 00:08:59,100
+Our orders are to investigate Harvest.
+
+99
+00:08:59,101 --> 00:09:01,901
+We still don't know a lot, about
+what's going on down there.
+
+100
+00:09:02,302 --> 00:09:04,102
+I understand that, Captain.
+
+101
+00:09:04,103 --> 00:09:07,603
+But everything I see here, tells me
+that we need to get to Arcadia...
+
+102
+00:09:07,604 --> 00:09:09,404
+..to figure this out.
+
+103
+00:09:09,605 --> 00:09:12,827
+Very well, Professor. I'll
+clear it with Admiral Kow.
+
+104
+00:09:12,907 --> 00:09:15,507
+Serina, set course for Arcadia.
+
+105
+00:09:15,508 --> 00:09:16,973
+Aye, sir.
+
+106
+00:09:17,008 --> 00:09:19,876
+Crazy, mystery trip to
+Arcadia, plotted in...
+
+107
+00:09:19,911 --> 00:09:22,009
+..spinning up FTL drive.
+
+108
+00:09:22,771 --> 00:09:24,971
+Serina, get out of my lab.
+
+109
+00:09:30,187 --> 00:09:32,987
+System Procyon, Arcadia
+February 9, 2531
+
+110
+00:09:34,439 --> 00:09:36,956
+Serina, situation update, please.
+
+111
+00:09:36,991 --> 00:09:40,312
+Two Covenant vessels came
+out of slip-space near Arcadia.
+
+112
+00:09:40,313 --> 00:09:44,513
+The Belfast, Pillar of Autumn, Texas
+and Armstrong engaged immediately...
+
+113
+00:09:44,614 --> 00:09:47,514
+..and caught one with its shields down.
+
+114
+00:09:47,815 --> 00:09:49,415
+We lost the Texas and Belfast...
+
+115
+00:09:49,516 --> 00:09:52,916
+The Armstrong is venting atmosphere,
+and Autumn is badly damaged.
+
+116
+00:09:53,017 --> 00:09:55,717
+The second vessel is
+engaged in surface activity.
+
+117
+00:09:55,818 --> 00:09:57,818
+What kind of surface activity?
+
+118
+00:09:57,819 --> 00:10:01,499
+Unknown. Wait.
+I'm getting a signal.
+
+119
+00:10:01,500 --> 00:10:02,500
+Audio, only.
+
+120
+00:10:03,026 --> 00:10:06,320
+We're being overrun, the alien
+forces are inside the city limits...
+
+121
+00:10:06,405 --> 00:10:07,924
+..and approaching the Space Board.
+
+122
+00:10:07,959 --> 00:10:11,322
+We are still evacuating
+civilians, we need help.
+
+123
+00:10:11,623 --> 00:10:14,423
+Getting visuals now, captain.
+
+124
+00:10:32,624 --> 00:10:36,324
+Serina, launch Pods,
+bring the ship to alert!
+
+125
+00:10:40,325 --> 00:10:44,525
+Arbitrar, you're unusually quiet.
+
+126
+00:10:44,926 --> 00:10:47,926
+What troubles occupy your thoughts?
+
+127
+00:10:47,927 --> 00:10:51,027
+Hierarch, I do not wish to be impudent...
+
+128
+00:10:51,128 --> 00:10:53,928
+..but you have charged me,
+with the destruction of humanity.
+
+129
+00:10:53,929 --> 00:10:58,029
+A most noble cause for one
+with such a troubled past.
+
+130
+00:10:58,130 --> 00:11:00,624
+And I am thankful for my task...
+
+131
+00:11:00,659 --> 00:11:03,831
+..but Sir, you have me
+stalking ancient ruins...
+
+132
+00:11:03,932 --> 00:11:05,832
+..and search empty temples.
+
+133
+00:11:05,833 --> 00:11:08,733
+How does this help me
+accomplish my goal?
+
+134
+00:11:08,734 --> 00:11:10,934
+The war with the humans will require...
+
+135
+00:11:11,035 --> 00:11:14,935
+..a great deal more machines,
+that we can currently master.
+
+136
+00:11:14,936 --> 00:11:18,536
+- I will take what we have!
+- And leave us defenseless?
+
+137
+00:11:18,537 --> 00:11:22,837
+No, the Ancients will provide for us.
+
+138
+00:11:22,938 --> 00:11:28,340
+This world, shall be the birthplace for
+an invasion fleet, beyond imagining.
+
+139
+00:11:28,375 --> 00:11:32,540
+Enough to crush the humans
+quickly, and with ease.
+
+140
+00:11:32,541 --> 00:11:35,941
+But this world lies dormant.
+It is just a shell.
+
+141
+00:11:35,942 --> 00:11:37,542
+Blasphemy!
+
+142
+00:11:37,743 --> 00:11:42,043
+The key will be found with patience.
+
+143
+00:11:42,044 --> 00:11:44,944
+But perhaps there's a quicker way.
+
+144
+00:11:44,945 --> 00:11:48,041
+The human female from the ice relic...
+
+145
+00:11:48,046 --> 00:11:50,646
+..she has some knowledge
+in this regard.
+
+146
+00:11:50,647 --> 00:11:53,847
+The new planet the
+relic has led us to ...
+
+147
+00:11:53,848 --> 00:11:56,148
+..has also led her.
+
+148
+00:11:56,149 --> 00:12:00,249
+Capture that human and bring her here!
+
+149
+00:12:00,350 --> 00:12:02,950
+It will be done.
+
+150
+00:12:12,151 --> 00:12:15,751
+So, it's an energy shield that they
+can deploy on the planet?
+
+151
+00:12:15,752 --> 00:12:18,252
+Yes, Captain. We can't see through it...
+
+152
+00:12:18,253 --> 00:12:20,153
+..the Covenant are up to something.
+
+153
+00:12:20,154 --> 00:12:22,754
+Agreed. We need to
+find out what that is.
+
+154
+00:12:22,855 --> 00:12:25,655
+Can we use the ship's cannons
+and take it out directly?
+
+155
+00:12:25,856 --> 00:12:27,956
+We may destroy whatever is under there.
+
+156
+00:12:27,957 --> 00:12:31,757
+Covenant shield technology is
+susceptible to superheated plasma.
+
+157
+00:12:32,058 --> 00:12:35,258
+Aren't we field testing
+some plasma based rhinos?
+
+158
+00:12:35,259 --> 00:12:38,983
+Pillar of Autumn inventory shows
+they have some prototypes.
+
+159
+00:12:39,018 --> 00:12:41,260
+It may take some time
+to get the right power cells.
+
+160
+00:12:41,561 --> 00:12:43,661
+I'll need to be on the
+ground to do that.
+
+161
+00:12:43,662 --> 00:12:46,662
+Professor, Sgt. Forge,
+let's get that shield down!
+
+162
+00:12:46,763 --> 00:12:49,963
+Babysitting, again?
+
+163
+00:13:00,964 --> 00:13:04,464
+How about, one for
+the scrapbook, Professor?
+
+164
+00:13:04,465 --> 00:13:06,165
+If you don't mind...Sgt
+
+165
+00:13:06,166 --> 00:13:09,466
+I am trying to document
+this area for study.
+
+166
+00:13:22,567 --> 00:13:27,038
+- You will come with me.
+- Why don't we put the lady down...
+
+167
+00:13:27,073 --> 00:13:30,181
+..and talk about this man to freak?
+
+168
+00:13:30,344 --> 00:13:32,069
+As you wish.
+
+169
+00:13:44,070 --> 00:13:46,670
+- Stop!
+- Anders, get out of here!
+
+170
+00:13:46,771 --> 00:13:49,471
+I'll come quietly, if you let him live.
+
+171
+00:14:10,798 --> 00:14:13,472
+- Sir?
+- I'm OK!
+
+172
+00:14:14,210 --> 00:14:17,573
+Spirit of Fire, this is
+Forge. I lost Anders.
+
+173
+00:14:18,142 --> 00:14:20,834
+- What happened?
+- Some massive elite came out of nowhere.
+
+174
+00:14:20,876 --> 00:14:25,026
+Captain, I am tracking her transponder.
+It is heading away from the planet.
+
+175
+00:14:25,126 --> 00:14:27,778
+Damn it. Sgt., get up
+here, on the double.
+
+176
+00:14:27,879 --> 00:14:30,079
+Already en route, sir.
+
+177
+00:14:33,976 --> 00:14:36,180
+We are all accounted for.
+Why'ven't we left, yet?
+
+178
+00:14:36,281 --> 00:14:37,681
+Why aren't you in the med bay, Sgt.?
+
+179
+00:14:37,682 --> 00:14:41,484
+The Professor's signal, has gone to
+light speed, headed for the border.
+
+180
+00:14:41,519 --> 00:14:43,303
+That puts it outside weapon's range.
+
+181
+00:14:43,338 --> 00:14:45,284
+What? We have to go after her!
+
+182
+00:14:45,285 --> 00:14:48,885
+Sir, I can only track that
+transponder a few more seconds.
+
+183
+00:14:49,086 --> 00:14:50,386
+- Captain!
+- Sir...
+
+184
+00:14:50,387 --> 00:14:52,887
+Anders represents a
+significant security breach.
+
+185
+00:14:52,888 --> 00:14:55,988
+Serina, get us under way
+immediately. Follow that signal.
+
+186
+00:14:55,989 --> 00:14:58,089
+Aye, aye, sir.
+
+187
+00:14:59,590 --> 00:15:04,290
+So, we left a note, saying
+we're leaving, right?
+
+188
+00:15:05,741 --> 00:15:09,142
+February 23, 2531.
+
+189
+00:15:13,291 --> 00:15:14,891
+Where the hell are we, Serina?
+
+190
+00:15:14,892 --> 00:15:17,192
+We're in orbit around a
+planet in the middle of...
+
+191
+00:15:17,293 --> 00:15:20,693
+..actually I'm still working on that, Sir.
+
+192
+00:15:20,694 --> 00:15:22,194
+Anders?
+
+193
+00:15:22,195 --> 00:15:23,895
+The Covenant vessel we pursued...
+
+194
+00:15:23,896 --> 00:15:26,296
+..appears to have taken
+cover on the planet's surface.
+
+195
+00:15:26,297 --> 00:15:27,697
+I have rough coordinates.
+
+196
+00:15:27,798 --> 00:15:31,275
+- Any sign of other Covenant activity?
+- Not that I can detect.
+
+197
+00:15:31,300 --> 00:15:35,200
+Although this world is giving
+off some pretty crazy readings.
+
+198
+00:15:37,075 --> 00:15:38,601
+Get Forge down there.
+
+199
+00:15:38,802 --> 00:15:42,802
+I believe he is already aboard
+the Pelican, awaiting your word.
+
+200
+00:16:00,603 --> 00:16:03,803
+- This is her?
+- Yes, Hierarch.
+
+201
+00:16:03,804 --> 00:16:07,452
+- This is the one I observed.
+- Such a frail, thing.
+
+202
+00:16:07,797 --> 00:16:10,106
+You would hardly think them a threat.
+
+203
+00:16:10,107 --> 00:16:12,507
+I demand to know why I'm being held!
+
+204
+00:16:12,508 --> 00:16:14,308
+Demand?
+
+205
+00:16:14,309 --> 00:16:18,548
+Arbitrar, a human ship has arrived, and
+is closing in on the entrance portal.
+
+206
+00:16:19,166 --> 00:16:20,811
+Get the Hierarch to High Charity ...
+
+207
+00:16:20,812 --> 00:16:24,612
+..intercept that human ship
+and destroy it at once!
+
+208
+00:16:33,713 --> 00:16:35,413
+Nothing but ocean.
+
+209
+00:16:35,414 --> 00:16:37,514
+Are you sure this is it, Serina?
+
+210
+00:16:37,515 --> 00:16:41,915
+Fairly sure. Initiating deep scan.
+
+211
+00:16:42,416 --> 00:16:46,116
+Docking, cleansing, that's not right.
+
+212
+00:16:46,217 --> 00:16:49,317
+Captain, you're not gonna like this.
+
+213
+00:16:56,018 --> 00:16:59,518
+- Serina?
+- Captain, we got company.
+
+214
+00:17:12,508 --> 00:17:13,819
+All hands, engage.
+
+215
+00:17:13,820 --> 00:17:17,820
+Serina, I got troops down there, still.
+Get them back on board, now!
+
+216
+00:17:17,821 --> 00:17:21,221
+Captain, I can only hold this
+position a few minutes at the most.
+
+217
+00:17:21,222 --> 00:17:22,722
+Now, Serina!
+
+218
+00:17:22,723 --> 00:17:26,023
+Recalling surface squads, so
+that we all can die together.
+
+219
+00:17:26,024 --> 00:17:27,724
+Aye, sir.
+
+220
+00:17:43,725 --> 00:17:47,725
+This is all part of the plan, right guys?
+
+221
+00:18:10,826 --> 00:18:14,126
+- Hard starboard!
+- Hard starboard, aye.
+
+222
+00:18:25,927 --> 00:18:28,007
+Captain, they are charging weapons.
+
+223
+00:18:28,042 --> 00:18:30,328
+Battle stations, bring weapons online.
+
+224
+00:18:30,329 --> 00:18:32,429
+Tell Forge he is not done out there, yet.
+
+225
+00:18:32,530 --> 00:18:35,730
+Alerting the Sgt, aye Sir.
+
+226
+00:18:39,631 --> 00:18:45,435
+Sir, am I the only one freaked out by
+the fact that we are inside the planet?
+
+227
+00:19:04,533 --> 00:19:07,533
+Restraints off.
+
+228
+00:19:12,534 --> 00:19:16,334
+Your judgment has waited long enough.
+
+229
+00:19:21,535 --> 00:19:24,035
+Just, get it over with!
+
+230
+00:19:47,323 --> 00:19:51,336
+The ancients have given us
+the power to doom your race.
+
+231
+00:19:51,337 --> 00:19:54,337
+Let the deconstruction
+of our gifts begin.
+
+232
+00:19:54,338 --> 00:19:58,438
+The majesty of our new
+fleet will be unparalleled.
+
+233
+00:20:13,139 --> 00:20:15,539
+Nothing ventured...
+
+234
+00:20:15,740 --> 00:20:17,740
+Surface.
+
+235
+00:20:24,366 --> 00:20:26,641
+That worked out pretty well.
+
+236
+00:20:31,742 --> 00:20:34,842
+Or maybe not.
+
+237
+00:20:37,843 --> 00:20:43,143
+Lady, I haven't got all day.
+You want to be rescued, or not?
+
+238
+00:20:47,344 --> 00:20:49,944
+Is this really going to work, Professor?
+
+239
+00:20:49,945 --> 00:20:51,945
+I believe this is our best hope.
+
+240
+00:20:51,946 --> 00:20:55,746
+The overloaded FTL reactor will
+cause a chain reaction in the sun.
+
+241
+00:20:55,747 --> 00:20:58,547
+Enough to destroy all the ships
+here, before the Covenant...
+
+242
+00:20:58,548 --> 00:21:01,148
+..can get a chance to
+make anything from them.
+
+243
+00:21:01,149 --> 00:21:03,772
+Well, put simply, Captain ...
+
+244
+00:21:03,807 --> 00:21:06,450
+..our reactor will cause
+the sun to go supernova...
+
+245
+00:21:06,451 --> 00:21:08,651
+..leaving nothing here but dust.
+
+246
+00:21:08,652 --> 00:21:12,041
+That's the weak part of
+this plan, if you ask me.
+
+247
+00:21:12,076 --> 00:21:14,209
+We have no way home
+without that reactor.
+
+248
+00:21:14,244 --> 00:21:16,154
+One problem at a time, Serina.
+
+249
+00:21:16,155 --> 00:21:19,766
+If the Covenant get their
+hands on these ships ...
+
+250
+00:21:19,801 --> 00:21:23,193
+..it will mean the end of the war.
+
+251
+00:21:23,228 --> 00:21:25,257
+We'll take our chances here.
+
+252
+00:21:25,258 --> 00:21:27,158
+Give humanity some hope.
+
+253
+00:21:27,159 --> 00:21:29,659
+I know it's been a tough call, Captain.
+
+254
+00:21:30,377 --> 00:21:31,360
+But it's the right one.
+
+255
+00:21:31,561 --> 00:21:34,294
+Spirit of Fire, this is Forge.
+
+256
+00:21:34,329 --> 00:21:36,762
+She is buttoned up and ready to go.
+
+257
+00:21:38,263 --> 00:21:40,763
+Deliver that package safely, Sgt.
+
+258
+00:21:40,764 --> 00:21:44,094
+Keep the coffee hot. We'll
+be back before you know it.
+
+259
+00:21:44,129 --> 00:21:48,288
+I'll be monitoring you from here, Sgt.
+
+260
+00:21:48,323 --> 00:21:52,466
+Well, it'll be pretty
+obvious, if he succeeds...
+
+261
+00:22:01,267 --> 00:22:04,667
+Gentlemen, we're burning sunshine here.
+
+262
+00:22:16,868 --> 00:22:19,368
+It's active!
+
+263
+00:22:19,369 --> 00:22:20,869
+Sgt.
+
+264
+00:22:23,170 --> 00:22:24,870
+Lt.?
+
+265
+00:22:25,771 --> 00:22:29,771
+Take care of those elites. He's mine.
+
+266
+00:22:41,072 --> 00:22:43,972
+Let's go!
+
+267
+00:23:17,073 --> 00:23:20,773
+Like the rest of your race,
+weak and undisciplined.
+
+268
+00:23:35,574 --> 00:23:39,574
+There will be no female,
+to save you, this time.
+
+269
+00:23:40,975 --> 00:23:43,275
+Look me in the eye and say that.
+
+270
+00:23:43,866 --> 00:23:46,176
+As you wish.
+
+271
+00:23:49,557 --> 00:23:54,177
+My face will be the last thing your
+pathetic eyes ever see.
+
+272
+00:24:06,622 --> 00:24:07,882
+And for the record...
+
+273
+00:24:07,917 --> 00:24:13,313
+..I would have kicked your ass the first
+time, if the lady hadn't stopped me.
+
+274
+00:24:18,219 --> 00:24:20,107
+Sir, it's already overheating.
+
+275
+00:24:20,142 --> 00:24:23,629
+I have to separate the core, and align
+it manually when we need to blow.
+
+276
+00:24:23,664 --> 00:24:28,269
+Son, I have a feeling before this is over,
+we'll need every last spark in the fight.
+
+277
+00:24:28,280 --> 00:24:31,286
+I can do this. Report back to the ship.
+
+278
+00:24:33,001 --> 00:24:36,187
+Good luck Sir, it's been an honor.
+
+279
+00:24:59,388 --> 00:25:02,488
+Hangar bay reports
+all crews checked in.
+
+280
+00:25:02,489 --> 00:25:04,645
+Let's not outstay our welcome.
+
+281
+00:25:04,680 --> 00:25:06,190
+Best speed away!
+
+282
+00:25:06,191 --> 00:25:12,779
+Captain, the gravity field from the sun is
+expanding. We're not going anywhere.
+
+283
+00:25:13,193 --> 00:25:15,979
+Let's see if we can turn
+that to our advantage.
+
+284
+00:25:15,994 --> 00:25:19,382
+Serina, plot a course that
+takes us into the sun.
+
+285
+00:25:19,417 --> 00:25:21,150
+We're going to slingshot around it.
+
+286
+00:25:21,185 --> 00:25:22,196
+Threading a needle...
+
+287
+00:25:22,297 --> 00:25:24,497
+..while accelerating
+around an exploding star...
+
+288
+00:25:24,498 --> 00:25:26,998
+..inside a planet
+that is falling apart?
+
+289
+00:25:27,099 --> 00:25:28,799
+Sure! Why not?
+
+290
+00:25:28,800 --> 00:25:31,200
+Serina, can you do it?
+
+291
+00:25:31,201 --> 00:25:33,101
+It's done.
+
+292
+00:25:33,102 --> 00:25:35,802
+You might want to hold on to something.
+
+293
+00:25:38,103 --> 00:25:41,203
+Closing your eyes might help, too.
+
+294
+00:26:17,976 --> 00:26:19,976
+Dyx Ogna, Checkpoint 3
+March 11, 2531
+
+295
+00:26:20,004 --> 00:26:23,305
+Captain, I'd much rather stay
+awake to monitor this area.
+
+296
+00:26:23,340 --> 00:26:27,505
+Professor, there's been no sign of
+the Covenant for almost 2 weeks.
+
+297
+00:26:27,506 --> 00:26:30,318
+- There is nothing to do.
+- But, Captain!
+
+298
+00:26:30,319 --> 00:26:31,907
+But, nothing, Professor.
+
+299
+00:26:31,908 --> 00:26:34,908
+You got us all out of there alive.
+
+300
+00:26:34,909 --> 00:26:36,309
+Get some rest.
+
+301
+00:26:36,610 --> 00:26:41,310
+Not all of us, Captain.
+Not all of us.

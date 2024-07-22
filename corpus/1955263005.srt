@@ -1,0 +1,5046 @@
+﻿1
+00:03:44,624 --> 00:03:48,219
+Computer: <i>Condition three,
+anomaly alert status.</i>
+
+2
+00:03:48,294 --> 00:03:51,525
+<i>Gen lab four. Level nine.</i>
+
+3
+00:03:51,598 --> 00:03:55,591
+<i>Sector Amber 11,
+please investigate.</i>
+
+4
+00:03:55,668 --> 00:03:59,627
+<i>Sector Amber 11,
+please investigate.</i>
+
+5
+00:04:03,409 --> 00:04:05,809
+<i>Camera A7
+double LL,</i>
+
+6
+00:04:05,878 --> 00:04:09,370
+<i>sector Amber 11,
+remote zoom-in.</i>
+
+7
+00:04:12,185 --> 00:04:15,712
+<i>Condition three,
+anomaly alert status.</i>
+
+8
+00:04:15,788 --> 00:04:18,154
+<i>- (electronic beeping)
+- Sector Amber 11.</i>
+
+9
+00:04:45,585 --> 00:04:47,644
+(loud buzzing)
+
+10
+00:04:47,720 --> 00:04:49,551
+<i>Access denied.
+Access denied.</i>
+
+11
+00:04:51,057 --> 00:04:54,117
+<i>Warning: This area
+is under condition three</i>
+
+12
+00:04:54,193 --> 00:04:56,127
+<i>anomaly alert status.</i>
+
+13
+00:04:56,195 --> 00:04:58,163
+<i>Please use caution.</i>
+
+14
+00:04:58,231 --> 00:05:00,563
+<i>(door struggling to open)</i>
+
+15
+00:05:00,633 --> 00:05:03,796
+<i>Biosensors indicate
+viral and bacterial levels</i>
+
+16
+00:05:03,870 --> 00:05:05,838
+<i>within acceptable norm.</i>
+
+17
+00:05:30,330 --> 00:05:34,289
+<i>Access denied.
+Access denied.</i>
+
+18
+00:05:34,367 --> 00:05:36,597
+<i>Pneumatic pressure
+seal engaged.</i>
+
+19
+00:05:36,669 --> 00:05:37,966
+Damn.
+
+20
+00:05:41,841 --> 00:05:43,604
+<i>Access denied.</i>
+
+21
+00:05:46,713 --> 00:05:49,739
+<i>Warning: This area is
+now at condition three</i>
+
+22
+00:05:49,816 --> 00:05:51,807
+<i>anomaly alert status.</i>
+
+23
+00:05:51,884 --> 00:05:53,852
+<i>Please use caution.</i>
+
+24
+00:06:00,927 --> 00:06:03,623
+<i>(alarm blaring within)</i>
+
+25
+00:06:08,000 --> 00:06:10,491
+Oh my God.
+
+26
+00:06:22,615 --> 00:06:24,776
+<i>Condition three alert status.</i>
+
+27
+00:06:24,851 --> 00:06:26,614
+<i>Bio-filters engaged.</i>
+
+28
+00:06:26,686 --> 00:06:29,621
+<i>No contamination detected.</i>
+
+29
+00:06:29,689 --> 00:06:31,657
+<i>Please use caution.</i>
+
+30
+00:06:45,371 --> 00:06:47,862
+<i>Halon compression
+system at standby.</i>
+
+31
+00:06:52,512 --> 00:06:54,537
+<i>(feet pattering)</i>
+
+32
+00:06:54,614 --> 00:06:56,377
+<i>(cans clanging)</i>
+
+33
+00:06:58,217 --> 00:07:00,082
+(screaming)
+
+34
+00:07:05,324 --> 00:07:07,918
+<i>All infectious biological
+levels nominal.</i>
+
+35
+00:07:07,994 --> 00:07:09,962
+<i>Please use caution.</i>
+
+36
+00:07:15,835 --> 00:07:18,065
+<i>M5 and GH4 indicators</i>
+
+37
+00:07:18,137 --> 00:07:19,832
+<i>at standard OPC.</i>
+
+38
+00:07:28,681 --> 00:07:30,774
+(screaming)
+
+39
+00:07:45,231 --> 00:07:46,323
+Brian!
+
+40
+00:07:46,399 --> 00:07:48,128
+TV: <i>Something grabbed him.
+It was horrible.</i>
+
+41
+00:07:48,201 --> 00:07:49,463
+Brian!
+
+42
+00:07:49,535 --> 00:07:51,503
+<i>What did you see, Butch?</i>
+
+43
+00:07:51,571 --> 00:07:53,937
+<i>I don't know.
+But one thing's for sure,</i>
+
+44
+00:07:54,006 --> 00:07:55,132
+<i>it wasn't human.</i>
+
+45
+00:07:55,208 --> 00:07:57,176
+<i>I found this
+next to VanDoren's helmet.</i>
+
+46
+00:07:58,344 --> 00:08:01,006
+<i>My God! It's huge!</i>
+
+47
+00:08:01,080 --> 00:08:04,072
+<i>For God's sakes, don't touch it!</i>
+
+48
+00:08:04,150 --> 00:08:06,277
+<i>It's growing!</i>
+
+49
+00:08:06,352 --> 00:08:08,718
+- Is that your hair? Sorry.
+- Yeah...
+
+50
+00:08:08,788 --> 00:08:10,221
+<i>Give me a pair
+of rubber gloves.</i>
+
+51
+00:08:10,289 --> 00:08:11,586
+<i>I want to check this out.</i>
+
+52
+00:08:11,657 --> 00:08:12,624
+Ow!
+
+53
+00:08:12,692 --> 00:08:15,024
+<i>You're not going to stick
+your hand in there!</i>
+
+54
+00:08:15,094 --> 00:08:18,393
+<i>What's that green stuff
+oozing from the tip?</i>
+
+55
+00:08:18,464 --> 00:08:21,092
+Whoa! Get it on, sis!
+
+56
+00:08:22,134 --> 00:08:23,999
+<i>What the hell was that?</i>
+
+57
+00:08:24,070 --> 00:08:26,095
+Where the hell have you been?
+
+58
+00:08:26,172 --> 00:08:27,799
+It's 11:00.
+
+59
+00:08:27,874 --> 00:08:30,707
+Chill out, sis.
+I was out with Billy.
+
+60
+00:08:31,744 --> 00:08:33,211
+I was in good hands.
+
+61
+00:08:33,279 --> 00:08:35,713
+<i>Oh my God, we're
+not going to make it.</i>
+
+62
+00:08:35,781 --> 00:08:38,944
+Looks like you were in pretty
+good hands yourself tonight.
+
+63
+00:08:39,018 --> 00:08:40,679
+Hi, Brian.
+
+64
+00:08:42,355 --> 00:08:43,754
+<i>Fire, fire!</i>
+
+65
+00:08:56,335 --> 00:08:58,701
+Oh, that's real romantic.
+
+66
+00:08:58,771 --> 00:09:00,398
+Daddy's going to kill you
+if he finds out
+
+67
+00:09:00,473 --> 00:09:02,771
+you were out this late
+with that delinquent.
+
+68
+00:09:02,842 --> 00:09:04,366
+Billy is not a delinquent.
+
+69
+00:09:04,443 --> 00:09:06,274
+He's got problems at home.
+
+70
+00:09:06,345 --> 00:09:07,778
+He's got problems all right.
+
+71
+00:09:07,847 --> 00:09:09,974
+You're just jealous, that's all.
+
+72
+00:09:11,050 --> 00:09:12,540
+Thank you, Kim.
+
+73
+00:09:12,618 --> 00:09:15,451
+Oh, I'm sorry, handsome.
+
+74
+00:09:19,492 --> 00:09:21,960
+You get to bed right now,
+missy, it's a school night.
+
+75
+00:09:22,028 --> 00:09:23,552
+And you stay there,
+you hear me?
+
+76
+00:09:23,629 --> 00:09:25,620
+Lighten up.
+What are you, my mother?
+
+77
+00:09:30,636 --> 00:09:31,432
+I'm sorry, Sherry.
+
+78
+00:09:33,706 --> 00:09:35,435
+I didn't mean...
+
+79
+00:09:35,508 --> 00:09:37,408
+Just go to bed.
+
+80
+00:09:42,582 --> 00:09:45,415
+- Good night, Brian.
+- Good night, Kim.
+
+81
+00:09:47,687 --> 00:09:49,552
+She didn't mean it, Sherry.
+
+82
+00:09:49,622 --> 00:09:50,987
+She's just a kid.
+
+83
+00:09:52,091 --> 00:09:54,616
+I don't know what's
+happened to us, Brian.
+
+84
+00:09:54,694 --> 00:09:56,787
+Kim and I used to be so close.
+
+85
+00:09:56,862 --> 00:09:58,386
+Relax.
+
+86
+00:10:01,634 --> 00:10:04,262
+- Come on, Sherry.
+- Not now, Brian.
+
+87
+00:10:04,337 --> 00:10:06,134
+Ooh, brrr!
+
+88
+00:10:19,819 --> 00:10:22,049
+Computer: <i>Warning: You are
+entering a condition three</i>
+
+89
+00:10:22,121 --> 00:10:23,884
+<i>anomaly status area.</i>
+
+90
+00:10:23,956 --> 00:10:25,753
+<i>Please use caution.</i>
+
+91
+00:10:28,094 --> 00:10:29,186
+Michael?
+
+92
+00:10:30,229 --> 00:10:32,459
+<i>All biological systems
+functioning</i>
+
+93
+00:10:32,531 --> 00:10:34,897
+<i>within acceptable
+zeta parameters.</i>
+
+94
+00:10:44,343 --> 00:10:45,401
+Elliot?
+
+95
+00:10:50,349 --> 00:10:51,316
+Damn!
+
+96
+00:10:56,355 --> 00:11:00,223
+<i>Emergency override
+code L374 engaged.</i>
+
+97
+00:11:04,697 --> 00:11:05,891
+(clattering)
+
+98
+00:11:10,036 --> 00:11:12,596
+<i>Atmospheric sensors
+indicate trace levels</i>
+
+99
+00:11:12,672 --> 00:11:15,607
+<i>of ammonia, methane,
+hydrochloric acid,</i>
+
+100
+00:11:15,675 --> 00:11:17,643
+<i>all less than
+one part per million.</i>
+
+101
+00:11:22,882 --> 00:11:24,850
+- (squishes)
+- (gasps)
+
+102
+00:11:40,633 --> 00:11:43,761
+<i>Warning: This area is
+now at condition three</i>
+
+103
+00:11:43,836 --> 00:11:47,169
+<i>anomaly alert status.
+Please use caution.</i>
+
+104
+00:11:57,783 --> 00:12:01,446
+Well, where is he?
+
+105
+00:12:03,189 --> 00:12:04,656
+I don't know.
+
+106
+00:12:05,991 --> 00:12:07,720
+He must have escaped.
+
+107
+00:12:19,071 --> 00:12:20,368
+Mitchell!
+
+108
+00:12:20,439 --> 00:12:24,034
+I want you and Jarrett
+here immediately.
+
+109
+00:12:25,778 --> 00:12:27,803
+We've got a problem.
+
+110
+00:12:30,382 --> 00:12:32,976
+DJ: <i>Hey it's 7:42 Thursday
+morning, the sun is shining,</i>
+
+111
+00:12:33,052 --> 00:12:34,019
+<i>coffee's brewing,</i>
+
+112
+00:12:34,086 --> 00:12:37,146
+- <i>do you know where your parents are?</i>
+- Hurry up, Kim. We're both late.
+
+113
+00:12:37,223 --> 00:12:40,317
+First period's English.
+I'm always late.
+
+114
+00:12:40,392 --> 00:12:42,053
+Mr. Gunther doesn't mind.
+
+115
+00:12:42,128 --> 00:12:45,154
+Well, I mind. You're never going
+to get anywhere in life
+
+116
+00:12:45,231 --> 00:12:48,462
+unless you start taking some
+responsibility for yourself.
+
+117
+00:12:48,534 --> 00:12:50,161
+Do something productive.
+
+118
+00:12:50,236 --> 00:12:52,204
+Hey, I'm doing
+all right, so far.
+
+119
+00:12:53,439 --> 00:12:54,804
+God, I'll never make it.
+
+120
+00:12:54,874 --> 00:12:56,501
+If you want a ride you
+better get ready right now.
+
+121
+00:12:56,575 --> 00:12:58,668
+All right, mellow out.
+
+122
+00:12:58,744 --> 00:13:01,542
+DJ: <i>You wanna keep it down out there?
+I'm trying to sleep.</i>
+
+123
+00:13:01,614 --> 00:13:04,310
+<i>But seriously folks,
+we got a real racket</i>
+
+124
+00:13:04,383 --> 00:13:07,181
+<i>comin' at you now from the boys
+down at Mute Jam Records...</i>
+
+125
+00:13:07,253 --> 00:13:09,778
+<i>Seymour and the New Mutants
+singing "Baby, You've Changed."</i>
+
+126
+00:13:09,855 --> 00:13:11,447
+- Where's Dad?
+- <i>Lay it on me!</i>
+
+127
+00:13:11,524 --> 00:13:13,685
+What do you mean, where's Dad?
+Isn't he in bed?
+
+128
+00:13:13,759 --> 00:13:15,420
+Nope.
+
+129
+00:13:17,997 --> 00:13:19,692
+His car's not there.
+
+130
+00:13:19,765 --> 00:13:21,528
+You sure he's not in his room?
+
+131
+00:13:21,600 --> 00:13:24,660
+I may not be a college girl like you,
+but I'm not an idiot.
+
+132
+00:13:24,737 --> 00:13:26,329
+He's not in bed.
+
+133
+00:13:27,373 --> 00:13:29,204
+I wonder where he could be.
+
+134
+00:13:31,610 --> 00:13:31,871
+<i>We've got to do something.</i>
+
+135
+00:13:33,646 --> 00:13:35,375
+Call someone in.
+
+136
+00:13:35,447 --> 00:13:37,347
+Nancy, you're not thinking logically.
+
+137
+00:13:37,416 --> 00:13:41,284
+We're fully prepared to handle
+this situation within Talos.
+
+138
+00:13:41,353 --> 00:13:43,344
+But this situation
+is out of control.
+
+139
+00:13:43,422 --> 00:13:46,152
+He's killed two people already
+and now he's disappeared.
+
+140
+00:13:46,225 --> 00:13:48,125
+He couldn't have gotten
+out of the complex.
+
+141
+00:13:48,194 --> 00:13:50,059
+He has to be somewhere
+in the building.
+
+142
+00:13:50,129 --> 00:13:52,563
+I've got two men
+searching for him right now.
+
+143
+00:13:52,631 --> 00:13:54,599
+I don't want him killed.
+
+144
+00:13:54,667 --> 00:13:57,568
+Elliot and I have devised a way
+to get him back to normal.
+
+145
+00:13:57,636 --> 00:13:59,604
+I won't stand for it.
+Do you hear me?
+
+146
+00:14:03,943 --> 00:14:07,538
+Sit down, Doctor.
+
+147
+00:14:14,753 --> 00:14:16,721
+<i>What would you have me do?</i>
+
+148
+00:14:16,789 --> 00:14:18,780
+Call in the police?
+
+149
+00:14:18,858 --> 00:14:21,088
+Or better yet,
+the National Guard?
+
+150
+00:14:21,160 --> 00:14:23,151
+I'm not sure
+they would share
+
+151
+00:14:23,229 --> 00:14:25,493
+the compassion
+and understanding
+
+152
+00:14:25,564 --> 00:14:27,794
+you feel for Dr. Foster.
+
+153
+00:14:27,867 --> 00:14:31,428
+<i>They don't share the same
+romantic past as you and he.</i>
+
+154
+00:14:31,503 --> 00:14:34,472
+You saw what that
+creature is capable of.
+
+155
+00:14:34,540 --> 00:14:37,634
+That creature is
+still Michael Foster.
+
+156
+00:14:37,710 --> 00:14:39,769
+- I'm doing what I can.
+- It's not enough, damn it!
+
+157
+00:14:39,845 --> 00:14:41,972
+What about Elliot?
+What about John Griffen?
+
+158
+00:14:42,047 --> 00:14:43,605
+What are you going
+to do about them?
+
+159
+00:14:44,884 --> 00:14:47,444
+That has already
+been taken care of.
+
+160
+00:14:55,327 --> 00:14:58,660
+You're a cold bastard.
+
+161
+00:15:01,767 --> 00:15:02,734
+(intercom buzzing)
+
+162
+00:15:13,646 --> 00:15:16,274
+Yes? Send them in.
+
+163
+00:15:17,449 --> 00:15:20,714
+I'll ignore
+that last remark, Doctor.
+
+164
+00:15:20,786 --> 00:15:23,118
+Now you know
+as well as I that
+
+165
+00:15:23,188 --> 00:15:26,351
+this entire project has been
+highly illegal from the start.
+
+166
+00:15:26,425 --> 00:15:28,484
+And you have been
+a willing part of it.
+
+167
+00:15:28,560 --> 00:15:31,427
+I feel terrible about
+what has happened.
+
+168
+00:15:31,497 --> 00:15:33,761
+But we must keep
+this within the family
+
+169
+00:15:33,832 --> 00:15:37,791
+or everything we've done
+and learned will be for nothing.
+
+170
+00:15:40,172 --> 00:15:42,970
+Michael Foster will be
+worse off than he is now.
+
+171
+00:15:47,179 --> 00:15:51,809
+Please, trust me.
+
+172
+00:15:53,352 --> 00:15:54,910
+(knocking)
+
+173
+00:15:54,987 --> 00:15:56,682
+Come.
+
+174
+00:16:01,860 --> 00:16:05,318
+Mitchell, Jarrett,
+this is Dr. Kane.
+
+175
+00:16:05,397 --> 00:16:08,025
+Nancy, I think you'd better
+explain to these gentlemen
+
+176
+00:16:08,100 --> 00:16:09,727
+exactly what's going on.
+
+177
+00:16:11,804 --> 00:16:13,931
+Um, Doctor, I don't think
+we should explain...
+
+178
+00:16:14,006 --> 00:16:16,236
+It's all right, Doctor.
+They've a level six clearance.
+
+179
+00:16:16,308 --> 00:16:18,503
+They answer
+only to myself. Proceed.
+
+180
+00:16:22,614 --> 00:16:24,548
+<i>As I'm sure you're aware,</i>
+
+181
+00:16:24,616 --> 00:16:26,914
+a number of research
+and development programs here
+
+182
+00:16:26,986 --> 00:16:29,386
+at Talos are subsidized
+by the government.
+
+183
+00:16:29,455 --> 00:16:32,151
+Some, how shall I say it...
+
+184
+00:16:33,459 --> 00:16:37,691
+do not exactly fall within
+the safety guidelines and regulations
+
+185
+00:16:37,763 --> 00:16:40,596
+outlined and normally
+enforced by the government,
+
+186
+00:16:40,666 --> 00:16:44,193
+particularly in the field
+of nuclear research and genetics.
+
+187
+00:16:45,838 --> 00:16:47,169
+A few months ago,
+
+188
+00:16:47,239 --> 00:16:49,173
+Talos was assigned
+a research grant
+
+189
+00:16:49,241 --> 00:16:53,143
+by the Defense Department...
+a very strange request.
+
+190
+00:16:53,212 --> 00:16:55,373
+We were given tissue samples,
+
+191
+00:16:55,447 --> 00:16:57,677
+alien tissue samples.
+
+192
+00:16:57,750 --> 00:17:00,184
+- Alien?
+- Yes, alien.
+
+193
+00:17:00,252 --> 00:17:02,186
+<i>From another planet, apparently.</i>
+
+194
+00:17:03,355 --> 00:17:05,789
+We were skeptical ourselves.
+
+195
+00:17:05,858 --> 00:17:08,986
+They were vague, almost tight-lipped
+about the sample's origin.
+
+196
+00:17:09,061 --> 00:17:11,359
+Which led us to suspect
+it was, in fact,
+
+197
+00:17:11,430 --> 00:17:14,228
+some genetically-altered
+biological substance from Earth.
+
+198
+00:17:14,299 --> 00:17:15,698
+If that was the case,
+
+199
+00:17:15,768 --> 00:17:18,236
+why would they tell you it
+came from another planet?
+
+200
+00:17:18,303 --> 00:17:21,932
+We thought perhaps they developed
+this material for biological warfare
+
+201
+00:17:22,007 --> 00:17:25,374
+and were using Talos to test
+what would be their alibi.
+
+202
+00:17:25,444 --> 00:17:27,275
+This type of biological engineering
+
+203
+00:17:27,346 --> 00:17:30,406
+is expressly forbidden under
+the UN germ warfare pact.
+
+204
+00:17:30,482 --> 00:17:32,347
+If they could fool
+Talos into believing
+
+205
+00:17:32,418 --> 00:17:35,285
+that the origin of this material
+was, in fact, from outer space,
+
+206
+00:17:35,354 --> 00:17:37,049
+<i>they could fool
+anyone and avoid...</i>
+
+207
+00:17:37,122 --> 00:17:39,920
+Avoid indictment
+for violation of the pact.
+
+208
+00:17:43,095 --> 00:17:44,653
+Exactly.
+
+209
+00:17:45,731 --> 00:17:49,223
+Unfortunately,
+they were not lying.
+
+210
+00:17:56,742 --> 00:17:58,403
+<i>Dr. Michael Foster,</i>
+
+211
+00:17:58,477 --> 00:18:00,570
+<i>head of the entire genetic
+research sector,</i>
+
+212
+00:18:00,646 --> 00:18:02,136
+<i>was put in charge...</i>
+
+213
+00:18:02,214 --> 00:18:04,478
+<i>myself,
+as Dr. Foster's assistant,</i>
+
+214
+00:18:04,550 --> 00:18:06,984
+<i>and Dr. Viallini being
+the only three people</i>
+
+215
+00:18:07,052 --> 00:18:08,986
+<i>with any knowledge
+of the research.</i>
+
+216
+00:18:09,054 --> 00:18:11,818
+<i>Our problem
+started on May 4th,</i>
+
+217
+00:18:11,890 --> 00:18:14,688
+<i>approximately 6:45 p.m.</i>
+
+218
+00:18:14,760 --> 00:18:19,163
+<i>Michael was working with some
+cell cultures from the alien tissue.</i>
+
+219
+00:18:19,231 --> 00:18:22,530
+(harpsichord music playing
+on headphones)
+
+220
+00:18:25,604 --> 00:18:28,630
+Computer: <i>Containment seal secure,
+all functions normal.</i>
+
+221
+00:18:46,258 --> 00:18:47,919
+- Guess who?
+- Ahh!
+
+222
+00:18:50,329 --> 00:18:52,297
+Don't do that to me.
+
+223
+00:18:52,364 --> 00:18:54,298
+Don't tell me the doctor's
+actually getting
+
+224
+00:18:54,366 --> 00:18:57,096
+- paranoid about his little monsters.
+- (music shuts off)
+
+225
+00:18:57,169 --> 00:18:59,660
+You're a little monster.
+Come here.
+
+226
+00:19:05,677 --> 00:19:08,544
+Please, dear,
+not in front of the mutants.
+
+227
+00:19:10,115 --> 00:19:12,413
+Computer:
+<i>Cryo-interlock engaged.</i>
+
+228
+00:19:13,719 --> 00:19:15,687
+Are we still on
+for dinner tonight?
+
+229
+00:19:17,923 --> 00:19:20,949
+I don't know what time
+I'm going to be getting out of here.
+
+230
+00:19:35,140 --> 00:19:36,505
+Hello, Checkers.
+
+231
+00:19:37,709 --> 00:19:39,301
+Hello, baby.
+
+232
+00:19:39,378 --> 00:19:40,345
+Hello.
+
+233
+00:19:40,412 --> 00:19:43,870
+- (screams)
+- (growling)
+
+234
+00:19:43,949 --> 00:19:47,350
+Well, Checkers is
+certainly energetic today.
+
+235
+00:19:47,419 --> 00:19:48,943
+Mm-hmm.
+
+236
+00:19:49,021 --> 00:19:51,114
+Computer: <i>Intermediate microbe
+distention filter...</i>
+
+237
+00:19:51,190 --> 00:19:53,954
+- <i>at 98%.</i>
+- How far have you gotten?
+
+238
+00:19:54,026 --> 00:19:59,054
+Well, I'm introducing some of the alien
+cell cultures into Spot's ovaries.
+
+239
+00:19:59,131 --> 00:20:01,725
+The problem is, I can't find
+any plasmas in the alien cells.
+
+240
+00:20:01,800 --> 00:20:03,859
+There do not appear
+to be any structures
+
+241
+00:20:03,936 --> 00:20:06,302
+that contain identifiable
+genetic material.
+
+242
+00:20:06,371 --> 00:20:09,898
+<i>How can the cells replicate
+if there's no genetic code?</i>
+
+243
+00:20:09,975 --> 00:20:12,205
+As far as I can tell,
+the cells don't reproduce
+
+244
+00:20:12,277 --> 00:20:14,245
+by fission
+as normal cells do.
+
+245
+00:20:14,313 --> 00:20:16,907
+They seem to accumulate
+polyp-like growths
+
+246
+00:20:16,982 --> 00:20:19,883
+which just mass
+together to form tissue.
+
+247
+00:20:19,952 --> 00:20:22,580
+I don't think even using
+the term "cell" is applicable.
+
+248
+00:20:22,654 --> 00:20:24,713
+I tell you, Nancy, I'm stumped.
+
+249
+00:20:24,790 --> 00:20:26,451
+Well, you better get un-stumped.
+
+250
+00:20:26,525 --> 00:20:28,993
+Viallini wants a report
+by the end of the week.
+
+251
+00:20:29,061 --> 00:20:30,688
+- Well, you can tell Viallini...
+- Hey...
+
+252
+00:20:30,762 --> 00:20:32,423
+You can tell him
+whatever you want.
+
+253
+00:20:32,497 --> 00:20:33,896
+I've got to go.
+
+254
+00:20:37,402 --> 00:20:38,369
+(screaming)
+
+255
+00:20:39,805 --> 00:20:41,102
+Michael!
+
+256
+00:20:41,173 --> 00:20:42,640
+- Oh God!
+- Michael!
+
+257
+00:20:50,649 --> 00:20:52,014
+Computer:
+<i>Emergency alert.</i>
+
+258
+00:20:52,084 --> 00:20:53,881
+<i>Emergency alert.</i>
+
+259
+00:20:53,952 --> 00:20:55,749
+<i>Biological contamination.</i>
+
+260
+00:20:55,821 --> 00:20:57,288
+<i>Quarantine restriction
+code seven.</i>
+
+261
+00:20:57,356 --> 00:20:59,085
+- Oh, shit!
+- Michael!
+
+262
+00:20:59,157 --> 00:21:01,523
+- Are you all right?
+- Oh my God!
+
+263
+00:21:01,593 --> 00:21:03,026
+The cells!
+
+264
+00:21:05,731 --> 00:21:07,722
+Michael, what do we do?
+
+265
+00:21:09,001 --> 00:21:11,196
+Michael, what do we do?
+
+266
+00:21:12,337 --> 00:21:15,204
+Nancy, come here.
+
+267
+00:21:17,075 --> 00:21:18,042
+Hurry!
+
+268
+00:21:22,481 --> 00:21:26,042
+- Pour this on my hand!
+- Michael, that's sulfuric acid!
+
+269
+00:21:26,118 --> 00:21:28,279
+Damn it, don't argue with me!
+Just do it!
+
+270
+00:21:52,744 --> 00:21:54,075
+Do you think that did it?
+
+271
+00:21:54,146 --> 00:21:56,307
+I don't know.
+
+272
+00:21:57,916 --> 00:22:00,510
+Oh my God.
+
+273
+00:22:00,585 --> 00:22:02,143
+Michael!
+
+274
+00:22:02,220 --> 00:22:03,710
+Oh, shit!
+
+275
+00:22:09,828 --> 00:22:12,820
+Michael! Michael!
+
+276
+00:22:21,173 --> 00:22:22,162
+Elliot!
+
+277
+00:22:23,408 --> 00:22:24,705
+Elliot!
+
+278
+00:22:24,776 --> 00:22:27,074
+Please answer.
+
+279
+00:22:27,145 --> 00:22:29,739
+- Computer: <i>Emergency alert.</i>
+- Please!
+
+280
+00:22:29,815 --> 00:22:33,182
+<i>Emergency alert.
+Biological contamination.</i>
+
+281
+00:22:33,251 --> 00:22:35,481
+<i>Quarantine restriction
+code seven.</i>
+
+282
+00:22:36,621 --> 00:22:39,089
+Elliot.
+Dr. Elliot Stein?
+
+283
+00:22:39,157 --> 00:22:40,920
+Yes, Elliot...
+
+284
+00:22:40,992 --> 00:22:42,516
+Dr. Stein is
+staff physician...
+
+285
+00:22:42,594 --> 00:22:44,824
+Dr. Elliot Stein:
+Age 33;
+
+286
+00:22:44,896 --> 00:22:46,591
+single; father dead;
+
+287
+00:22:46,665 --> 00:22:49,600
+mother still alive,
+living in Chaplin, Nebraska;
+
+288
+00:22:49,668 --> 00:22:52,296
+graduate, Harvard Medical,
+class of '77.
+
+289
+00:22:52,371 --> 00:22:55,363
+Stein is staff physician,
+assistant to Dr. Marcus,
+
+290
+00:22:55,440 --> 00:22:57,738
+head of pharmaceutical
+and chemical research.
+
+291
+00:23:00,145 --> 00:23:03,478
+Yes, that Dr. Stein.
+
+292
+00:23:04,516 --> 00:23:06,416
+May I continue?
+
+293
+00:23:07,652 --> 00:23:07,947
+Thank God Elliot
+was still there.
+
+294
+00:23:13,658 --> 00:23:15,683
+You know, I usually
+don't make house calls.
+
+295
+00:23:16,762 --> 00:23:19,822
+He was working on
+one of the mutants and it bit him.
+
+296
+00:23:20,899 --> 00:23:22,526
+Michael, can you hear me?
+
+297
+00:23:23,802 --> 00:23:26,327
+Michael! Michael!
+
+298
+00:23:26,405 --> 00:23:29,932
+Elliot, he was working with some
+really strange cell cultures.
+
+299
+00:23:31,176 --> 00:23:33,041
+They got into his...
+
+300
+00:23:34,312 --> 00:23:35,904
+Holy Jesus.
+
+301
+00:23:42,287 --> 00:23:44,016
+What the hell was
+he working with?
+
+302
+00:23:46,858 --> 00:23:49,383
+Elliot, they were cell samples
+from another planet.
+
+303
+00:23:52,097 --> 00:23:53,564
+What?!
+
+304
+00:23:53,632 --> 00:23:56,567
+The cells come from a creature
+from another planet.
+
+305
+00:23:56,635 --> 00:23:58,159
+Nancy, have you
+been drinking?
+
+306
+00:23:58,236 --> 00:24:00,670
+Elliot, don't argue with me.
+I know it sounds crazy,
+
+307
+00:24:00,739 --> 00:24:02,366
+but it's true.
+The cells come from a...
+
+308
+00:24:02,441 --> 00:24:05,376
+I don't have time to stand
+here and explain this to you.
+
+309
+00:24:05,444 --> 00:24:06,877
+Just help him!
+
+310
+00:24:09,014 --> 00:24:10,572
+From another planet?
+
+311
+00:24:10,649 --> 00:24:11,741
+Elliot!
+
+312
+00:24:11,817 --> 00:24:13,341
+All right, all right.
+
+313
+00:24:14,486 --> 00:24:17,114
+Jesus Christ,
+cells from outer space.
+
+314
+00:24:17,189 --> 00:24:19,350
+I outta change
+my name to Dr. McCoy.
+
+315
+00:24:24,996 --> 00:24:27,055
+Have you noticed any pods?
+
+316
+00:24:27,132 --> 00:24:28,258
+Elliot!
+
+317
+00:24:28,333 --> 00:24:30,198
+I'm sorry, it's just...
+
+318
+00:24:30,268 --> 00:24:32,862
+- I don't know where to start.
+- (growling)
+
+319
+00:24:32,938 --> 00:24:33,905
+Elliot!
+
+320
+00:24:33,972 --> 00:24:35,496
+<i>Elliot!</i>
+
+321
+00:24:36,842 --> 00:24:38,469
+Nancy, come here. Help me.
+
+322
+00:24:38,543 --> 00:24:40,101
+Hold that in.
+
+323
+00:24:41,913 --> 00:24:43,813
+You gotta hold him steady.
+I'll give him a sedative.
+
+324
+00:25:04,336 --> 00:25:06,930
+(growling stops)
+
+325
+00:25:09,741 --> 00:25:12,209
+Help me get him up.
+We've got to get him to a hospital.
+
+326
+00:25:14,579 --> 00:25:16,911
+<i>That will not do,
+Dr. Stein.</i>
+
+327
+00:25:16,982 --> 00:25:20,247
+Dr. Viallini, we've got
+to get Michael to a hospital.
+
+328
+00:25:22,487 --> 00:25:24,250
+That won't be necessary, Doctor.
+
+329
+00:25:24,322 --> 00:25:27,587
+We have the facilities here
+to deal with this situation.
+
+330
+00:25:27,659 --> 00:25:29,854
+I don't mean to disagree, Doctor,
+
+331
+00:25:29,928 --> 00:25:31,259
+but this man has got to be...
+
+332
+00:25:31,329 --> 00:25:34,355
+Dr. Kane will explain to you
+why it is imperative
+
+333
+00:25:34,432 --> 00:25:36,161
+that we deal with this problem
+
+334
+00:25:36,234 --> 00:25:39,795
+within the confines
+of this establishment.
+
+335
+00:25:42,440 --> 00:25:44,032
+Nancy.
+
+336
+00:25:47,078 --> 00:25:50,013
+Naturally, I explained the...
+
+337
+00:25:50,081 --> 00:25:51,605
+situation to Dr. Stein
+
+338
+00:25:51,683 --> 00:25:54,743
+and he apparently agreed
+that we should keep it...
+
+339
+00:25:54,819 --> 00:25:56,753
+in the family.
+
+340
+00:25:57,889 --> 00:26:01,416
+I'm sure whatever Dr. Viallini
+is using to black...
+
+341
+00:26:02,594 --> 00:26:05,961
+was using to blackmail Elliot
+is in that little folder of yours.
+
+342
+00:26:06,031 --> 00:26:08,261
+<i>That will be enough, Doctor.</i>
+
+343
+00:26:08,333 --> 00:26:09,994
+It is not enough, damn it.
+
+344
+00:26:10,068 --> 00:26:12,730
+You've had it in for Michael
+ever since the ICV incident.
+
+345
+00:26:12,804 --> 00:26:14,567
+- Dr. Kane...
+- You've been waiting...
+
+346
+00:26:14,639 --> 00:26:17,039
+for an opportunity like this
+to get rid of Michael
+
+347
+00:26:17,108 --> 00:26:21,010
+so that he couldn't...
+he's been looking for an excuse...
+
+348
+00:26:21,079 --> 00:26:25,709
+a few months back, Michael Foster
+developed a retro-clonal virus...
+
+349
+00:26:25,784 --> 00:26:28,116
+a virus with the ability
+to seek out
+
+350
+00:26:28,186 --> 00:26:31,451
+specific chromosomes
+within certain organ cells.
+
+351
+00:26:31,523 --> 00:26:33,991
+This virus could have
+been used to hunt down
+
+352
+00:26:34,059 --> 00:26:36,721
+and destroy malignantly
+mutated genes.
+
+353
+00:26:36,795 --> 00:26:38,660
+Ultimately, it might
+one day have rid
+
+354
+00:26:38,730 --> 00:26:41,927
+mankind of most
+inheritable diseases.
+
+355
+00:26:43,635 --> 00:26:46,627
+Dr. Viallini had other plans.
+
+356
+00:26:46,705 --> 00:26:48,639
+Son of a bitch!
+
+357
+00:26:48,707 --> 00:26:51,608
+You had no right to call
+the Defense Department in on this one.
+
+358
+00:26:51,676 --> 00:26:55,305
+This is my project.
+It's my work, my responsibility.
+
+359
+00:26:55,380 --> 00:26:58,543
+You are an employee
+of the Talos Corporation.
+
+360
+00:26:58,617 --> 00:27:00,608
+Any materials you develop,
+
+361
+00:27:00,685 --> 00:27:03,210
+any research
+you undertake is funded
+
+362
+00:27:03,288 --> 00:27:05,381
+by this corporation.
+
+363
+00:27:05,457 --> 00:27:08,858
+Hence, it is owned
+solely by this corporation.
+
+364
+00:27:08,927 --> 00:27:11,395
+It is the board
+of trustees who determine
+
+365
+00:27:11,463 --> 00:27:14,921
+when, where and to whom
+we offer the results of our research.
+
+366
+00:27:15,000 --> 00:27:18,197
+Not some pig-headed
+Ph.D. With delusions of...
+
+367
+00:27:18,269 --> 00:27:20,931
+- You incredible bastard!
+- Michael.
+
+368
+00:27:21,006 --> 00:27:23,236
+We are not discussing
+some secret recipe here.
+
+369
+00:27:23,308 --> 00:27:25,936
+We are talking about
+a search-and-destroy virus
+
+370
+00:27:26,011 --> 00:27:28,104
+that could be perverted
+and manipulated
+
+371
+00:27:28,179 --> 00:27:30,670
+to wipe out selected
+populations of the human race!
+
+372
+00:27:30,749 --> 00:27:34,276
+- I will not be responsible!
+- You're not that naive, Doctor,
+
+373
+00:27:34,352 --> 00:27:35,979
+nor that innocent.
+
+374
+00:27:36,054 --> 00:27:38,113
+You've taken a willing
+part in many projects
+
+375
+00:27:38,189 --> 00:27:40,680
+whose objectives were
+less than altruistic.
+
+376
+00:27:40,759 --> 00:27:42,124
+This is no different.
+
+377
+00:27:43,428 --> 00:27:45,453
+I'm not going to let you
+get away with this.
+
+378
+00:27:45,530 --> 00:27:48,158
+I'll destroy all the data,
+all the samples.
+
+379
+00:27:55,507 --> 00:27:59,739
+Do not make irrational threats
+you'll be sorry for.
+
+380
+00:27:59,811 --> 00:28:01,779
+This is no threat.
+
+381
+00:28:01,846 --> 00:28:03,814
+I'll blow the whistle on you
+
+382
+00:28:03,882 --> 00:28:06,146
+and your little mutant
+freak show downstairs.
+
+383
+00:28:06,217 --> 00:28:09,584
+I'm sure the National Genetic Council
+would have a field day in this place.
+
+384
+00:28:09,654 --> 00:28:12,680
+Subpoenas will be flying around
+here like a ticker-tape parade.
+
+385
+00:28:12,757 --> 00:28:17,558
+You are
+just as much responsible.
+
+386
+00:28:17,629 --> 00:28:20,325
+You'll be cutting
+your own throat.
+
+387
+00:28:21,599 --> 00:28:23,829
+I may go down, Doctor,
+
+388
+00:28:23,902 --> 00:28:27,804
+but I swear to Christ,
+I'll drag you with me.
+
+389
+00:28:30,575 --> 00:28:32,304
+You wouldn't.
+
+390
+00:28:34,312 --> 00:28:36,143
+You want to play hardball?
+
+391
+00:28:36,214 --> 00:28:38,182
+You just try me.
+
+392
+00:28:38,249 --> 00:28:40,649
+Michael. Michael!
+
+393
+00:28:43,121 --> 00:28:45,112
+He's a very stupid man.
+
+394
+00:28:45,190 --> 00:28:47,158
+I suggest
+you speak with him,
+
+395
+00:28:48,660 --> 00:28:50,628
+set him straight,
+
+396
+00:28:50,695 --> 00:28:54,495
+before I'm forced to take
+more drastic measures.
+
+397
+00:29:01,740 --> 00:29:03,708
+You're wasting
+valuable time, Doctor.
+
+398
+00:29:03,775 --> 00:29:05,572
+Mr. Jarrett and Mr. Mitchell
+
+399
+00:29:05,643 --> 00:29:08,168
+are not interested
+in your accusations
+
+400
+00:29:08,246 --> 00:29:10,407
+or your fantasies.
+
+401
+00:29:10,482 --> 00:29:12,575
+They work for me.
+
+402
+00:29:18,389 --> 00:29:21,119
+If any harm comes
+to Michael Foster,
+
+403
+00:29:21,192 --> 00:29:23,456
+I will see to it personally
+
+404
+00:29:23,528 --> 00:29:27,862
+that the NGC strings
+you up by the balls.
+
+405
+00:29:30,969 --> 00:29:34,530
+Mr. Mitchell
+and Mr. Jarrett are waiting.
+
+406
+00:29:34,606 --> 00:29:36,904
+Please continue.
+
+407
+00:29:42,547 --> 00:29:46,176
+<i>Within hours, Michael's entire
+body had been infected.</i>
+
+408
+00:29:46,251 --> 00:29:48,515
+(groaning)
+
+409
+00:29:48,586 --> 00:29:51,521
+<i>Elliot set up the lab facilities
+for treating Michael,</i>
+
+410
+00:29:51,589 --> 00:29:53,648
+<i>but the mutations
+were too rapid,</i>
+
+411
+00:29:53,725 --> 00:29:56,421
+<i>and research led
+only to dead ends.</i>
+
+412
+00:30:01,666 --> 00:30:03,634
+<i>As the days passed,</i>
+
+413
+00:30:03,701 --> 00:30:05,794
+<i>Michael changed even more,</i>
+
+414
+00:30:05,870 --> 00:30:09,601
+<i>as if his entire cellular
+structure was being rearranged...</i>
+
+415
+00:30:09,674 --> 00:30:12,199
+<i>redefined by the alien tissue.</i>
+
+416
+00:30:18,817 --> 00:30:20,785
+Nancy, come here.
+I'll need your help.
+
+417
+00:30:31,095 --> 00:30:33,188
+Hold that open
+while I get a sample.
+
+418
+00:30:42,240 --> 00:30:44,401
+(screeches)
+
+419
+00:30:44,475 --> 00:30:46,102
+What the hell was that?
+
+420
+00:30:47,312 --> 00:30:51,408
+(screeching)
+
+421
+00:31:02,160 --> 00:31:03,127
+Elliot!
+
+422
+00:31:04,162 --> 00:31:06,062
+Are you trying to give me
+a heart attack?
+
+423
+00:31:06,130 --> 00:31:07,597
+Stand back.
+
+424
+00:31:09,834 --> 00:31:12,894
+Come here,
+you little son of a...
+
+425
+00:31:27,919 --> 00:31:30,854
+(screeching)
+
+426
+00:31:30,922 --> 00:31:33,755
+What in God's name
+is that... thing?
+
+427
+00:31:33,825 --> 00:31:36,817
+I don't know, but I'm
+not taking its temperature.
+
+428
+00:31:36,895 --> 00:31:38,556
+Look at this thing.
+
+429
+00:31:42,700 --> 00:31:44,600
+Jesus Christ!
+
+430
+00:31:46,738 --> 00:31:48,797
+Freakin' thing's
+pissing on me.
+
+431
+00:31:48,873 --> 00:31:53,003
+<i>Elliot's theory was
+not quite accurate.</i>
+
+432
+00:31:53,077 --> 00:31:56,274
+These small masses of flesh
+contained a caustic venom,
+
+433
+00:31:56,347 --> 00:32:00,647
+ejected through a hollow quill
+in its mouth, I suppose.
+
+434
+00:32:00,718 --> 00:32:03,380
+But like a bumblebee, once
+the stinger has spent its venom,
+
+435
+00:32:03,454 --> 00:32:07,083
+the mass dies and virtually
+decomposes within minutes.
+
+436
+00:32:08,293 --> 00:32:10,887
+It is not a pleasant sight.
+
+437
+00:32:10,962 --> 00:32:12,930
+(intercom buzzes)
+
+438
+00:32:12,997 --> 00:32:14,259
+Yes?
+
+439
+00:32:15,800 --> 00:32:16,926
+Who?
+
+440
+00:32:19,871 --> 00:32:21,099
+I see.
+
+441
+00:32:22,707 --> 00:32:25,198
+<i>Give me a moment
+and then send her in.</i>
+
+442
+00:32:27,412 --> 00:32:29,380
+Wait outside for a moment.
+
+443
+00:32:36,421 --> 00:32:41,154
+It appears that Officer Griffen's
+daughter is here asking questions.
+
+444
+00:32:41,225 --> 00:32:44,160
+She hasn't seen
+her father all day and she's...
+
+445
+00:32:45,196 --> 00:32:46,458
+Ah, Miss Griffen.
+
+446
+00:32:46,531 --> 00:32:48,431
+Come in.
+
+447
+00:32:51,135 --> 00:32:53,399
+I'd like you to meet
+Dr. Nancy Kane.
+
+448
+00:32:53,471 --> 00:32:56,406
+- Doctor, this is Stephanie.
+- Sherry.
+
+449
+00:32:56,474 --> 00:32:58,032
+Hello, how do you do?
+
+450
+00:32:58,109 --> 00:33:01,203
+Your father has talked
+about you quite often, Sherry.
+
+451
+00:33:01,279 --> 00:33:03,509
+I understand you are
+a very smart young lady.
+
+452
+00:33:03,581 --> 00:33:06,948
+You're studying
+computers, is it?
+
+453
+00:33:07,018 --> 00:33:10,317
+Micro-circuit design
+and engineering.
+
+454
+00:33:10,388 --> 00:33:13,619
+Very impressive.
+Very impressive, indeed.
+
+455
+00:33:13,691 --> 00:33:16,626
+<i>When you graduate
+I hope you come see me.</i>
+
+456
+00:33:16,694 --> 00:33:19,458
+<i>I'm sure we can find
+a spot here at Talos</i>
+
+457
+00:33:19,530 --> 00:33:21,293
+<i>for somebody
+with your talents.</i>
+
+458
+00:33:21,366 --> 00:33:22,958
+Thank you, sir.
+
+459
+00:33:23,034 --> 00:33:24,695
+I'd like to ask you
+about my father.
+
+460
+00:33:24,769 --> 00:33:28,637
+Ah, yes? A fine man!
+
+461
+00:33:28,706 --> 00:33:31,834
+One of our most trusted
+and loyal employees.
+
+462
+00:33:31,909 --> 00:33:34,400
+Dr. Viallini...
+
+463
+00:33:34,479 --> 00:33:37,175
+my father's been gone
+since last night.
+
+464
+00:33:37,248 --> 00:33:39,375
+<i>I haven't seen
+or heard from him since.</i>
+
+465
+00:33:39,450 --> 00:33:41,418
+<i>I'm very worried.
+It's not like him.</i>
+
+466
+00:33:42,787 --> 00:33:44,277
+I see.
+
+467
+00:33:52,830 --> 00:33:55,298
+Well, according to our log...
+
+468
+00:33:55,366 --> 00:33:57,698
+your father didn't work
+here last night.
+
+469
+00:33:57,769 --> 00:34:00,567
+<i>Wait. You mean
+he wasn't here?</i>
+
+470
+00:34:00,638 --> 00:34:03,766
+<i>No, it says here
+he called in sick.</i>
+
+471
+00:34:04,809 --> 00:34:06,037
+Yes.
+
+472
+00:34:06,110 --> 00:34:07,600
+That's confirmed.
+
+473
+00:34:07,678 --> 00:34:10,704
+Another security guard
+is listed on his shift.
+
+474
+00:34:10,782 --> 00:34:13,114
+This is very strange.
+
+475
+00:34:13,184 --> 00:34:16,813
+It's not like him to leave
+Kim and me without calling.
+
+476
+00:34:16,888 --> 00:34:19,914
+I wouldn't worry.
+
+477
+00:34:19,991 --> 00:34:22,551
+I'm sure there's
+some explanation.
+
+478
+00:34:22,627 --> 00:34:24,595
+I'll keep my ears open.
+
+479
+00:34:24,662 --> 00:34:26,823
+And if he doesn't
+show up soon,
+
+480
+00:34:26,898 --> 00:34:28,627
+I'll personally see to it
+
+481
+00:34:28,699 --> 00:34:30,963
+that my people find out
+where he is.
+
+482
+00:34:31,035 --> 00:34:33,560
+Thank you so much
+for stopping by.
+
+483
+00:34:33,638 --> 00:34:35,538
+Feel free to stop by anytime
+
+484
+00:34:35,606 --> 00:34:38,234
+you have a problem
+we can help you with.
+
+485
+00:34:48,753 --> 00:34:50,914
+We may have trouble with her.
+
+486
+00:35:11,943 --> 00:35:14,411
+The question is,
+where could it be hiding?
+
+487
+00:35:14,479 --> 00:35:16,344
+Where would it be hiding?
+
+488
+00:35:16,414 --> 00:35:19,178
+I would appreciate it
+if you would stop saying "it."
+
+489
+00:35:19,250 --> 00:35:21,548
+That is still Michael Foster,
+
+490
+00:35:21,619 --> 00:35:23,416
+no matter what
+he's turned into.
+
+491
+00:35:23,488 --> 00:35:26,719
+I'm sorry, Doctor,
+I forgot how close you two were.
+
+492
+00:35:26,791 --> 00:35:30,124
+Well, when I saw him last
+
+493
+00:35:30,194 --> 00:35:32,560
+he looked pretty slimy.
+
+494
+00:35:32,630 --> 00:35:36,964
+He'd begun to resemble
+some sort of garden bug
+
+495
+00:35:37,034 --> 00:35:40,162
+or slug, or leach.
+
+496
+00:35:41,939 --> 00:35:43,907
+(groaning)
+
+497
+00:35:58,289 --> 00:36:01,588
+<i>(groaning continues)</i>
+
+498
+00:36:39,297 --> 00:36:40,423
+<i>Dr. Stein!</i>
+
+499
+00:36:49,473 --> 00:36:51,771
+Thank you,
+very much, Doctors.
+
+500
+00:36:51,842 --> 00:36:54,310
+Now would either one of you
+care to retrieve my probe,
+
+501
+00:36:54,378 --> 00:36:56,938
+or shall I just take
+a reimbursement out of petty cash?
+
+502
+00:36:57,014 --> 00:36:58,208
+Elliot!
+
+503
+00:36:59,550 --> 00:37:01,677
+This is no time for levity.
+
+504
+00:37:07,291 --> 00:37:10,317
+(screaming)
+
+505
+00:37:19,870 --> 00:37:21,201
+Ta-da!
+
+506
+00:37:21,272 --> 00:37:22,466
+For my next trick...
+
+507
+00:37:23,908 --> 00:37:27,935
+<i>By this time, even his internal
+physiology had transformed.</i>
+
+508
+00:37:28,012 --> 00:37:30,742
+<i>His blood became
+highly caustic,</i>
+
+509
+00:37:30,815 --> 00:37:34,581
+<i>his heart enlarged
+by nearly twice its original size,</i>
+
+510
+00:37:34,652 --> 00:37:38,019
+<i>and he was becoming
+less and less responsive</i>
+
+511
+00:37:38,089 --> 00:37:39,556
+<i>to the medications.</i>
+
+512
+00:37:45,229 --> 00:37:48,323
+<i>Finally, after four weeks
+of dead ends,</i>
+
+513
+00:37:48,399 --> 00:37:51,027
+<i>Elliot made
+a major breakthrough.</i>
+
+514
+00:39:30,868 --> 00:39:33,996
+Computer: <i>Nucleic IVM:
+One part per billion.</i>
+
+515
+00:39:36,607 --> 00:39:40,065
+<i>Cellular engraination
+reaching MD T threshold.</i>
+
+516
+00:39:42,046 --> 00:39:43,980
+<i>(groaning)</i>
+
+517
+00:39:44,048 --> 00:39:46,073
+<i>Temperature:
+58° Celsius.</i>
+
+518
+00:40:16,180 --> 00:40:17,238
+Michael.
+
+519
+00:40:19,183 --> 00:40:21,117
+(screaming)
+
+520
+00:40:22,753 --> 00:40:23,720
+Elliot!
+
+521
+00:40:24,555 --> 00:40:25,522
+<i>Elliot!</i>
+
+522
+00:40:29,059 --> 00:40:30,287
+Michael!
+
+523
+00:40:41,472 --> 00:40:45,533
+Computer: <i>Microbiotic enzyme
+distention at 47%.</i>
+
+524
+00:40:46,610 --> 00:40:48,601
+I think we've got it.
+
+525
+00:41:00,090 --> 00:41:04,220
+<i>RNA factor:
+0.936 IMP.</i>
+
+526
+00:41:04,295 --> 00:41:05,853
+Take a look.
+
+527
+00:41:07,331 --> 00:41:09,458
+A few minutes ago that sample
+
+528
+00:41:09,533 --> 00:41:12,161
+was completely infected
+by the alien cells.
+
+529
+00:41:12,236 --> 00:41:14,670
+But this shows
+no sign of infection.
+
+530
+00:41:14,738 --> 00:41:17,798
+- Thank you very much.
+- Elliot, you're wonderful!
+
+531
+00:41:17,875 --> 00:41:19,672
+Yes, I know.
+
+532
+00:41:19,743 --> 00:41:21,472
+How did you do it?
+
+533
+00:41:21,545 --> 00:41:23,240
+<i>Elementary, my dear.</i>
+
+534
+00:41:23,314 --> 00:41:25,305
+I'd been noticing strange
+molecular behavior
+
+535
+00:41:25,382 --> 00:41:28,283
+whenever I exposed samples
+through the electron microscope.
+
+536
+00:41:28,352 --> 00:41:30,513
+The reaction
+to negative pulse phasing
+
+537
+00:41:30,588 --> 00:41:32,920
+caused rampant destabilization
+of the molecular bonding,
+
+538
+00:41:32,990 --> 00:41:35,356
+but only at specific
+wavelengths.
+
+539
+00:41:35,426 --> 00:41:38,725
+As it turns out,
+cellular and biological activity
+
+540
+00:41:38,796 --> 00:41:41,765
+is halted for a period of time
+when electricity is introduced.
+
+541
+00:41:43,200 --> 00:41:44,531
+I can't be that simple.
+
+542
+00:41:47,671 --> 00:41:49,434
+You've received
+total remission.
+
+543
+00:41:49,507 --> 00:41:51,099
+When his heart
+stopped, we gave him
+
+544
+00:41:51,175 --> 00:41:53,507
+electro-shock resuscitation...
+it did nothing.
+
+545
+00:41:53,577 --> 00:41:55,772
+You're talking about
+normal AC current.
+
+546
+00:41:55,846 --> 00:41:57,643
+You got two problems there.
+
+547
+00:41:57,715 --> 00:41:59,910
+One, there's no way
+to control or focus it
+
+548
+00:41:59,984 --> 00:42:01,747
+at specific enough
+wavelengths.
+
+549
+00:42:01,819 --> 00:42:04,219
+Secondly, the amount
+of energy required
+
+550
+00:42:04,288 --> 00:42:09,021
+to stop and reverse Michael's
+metamorphosis would fry him.
+
+551
+00:42:12,530 --> 00:42:13,519
+Well?
+
+552
+00:42:14,431 --> 00:42:15,420
+Well, what?
+
+553
+00:42:15,499 --> 00:42:17,592
+Well, how did you manage it?
+
+554
+00:42:17,668 --> 00:42:19,693
+- Wow!
+- Elliot!
+
+555
+00:42:22,740 --> 00:42:23,707
+I, uh...
+
+556
+00:42:23,774 --> 00:42:25,366
+I borrowed this little machine
+
+557
+00:42:25,442 --> 00:42:27,569
+from the boys down
+in particle acceleration.
+
+558
+00:42:27,645 --> 00:42:29,272
+- An atom smasher?
+- That's right.
+
+559
+00:42:29,346 --> 00:42:31,746
+But it's not atom smashing
+I'm interested in.
+
+560
+00:42:31,815 --> 00:42:35,080
+You see, the particles are accelerated
+through a series of electromagnets.
+
+561
+00:42:35,152 --> 00:42:38,144
+As they travel and build up speed
+around its curved course,
+
+562
+00:42:38,222 --> 00:42:39,849
+electrons fly off, sort of like
+
+563
+00:42:39,924 --> 00:42:42,722
+tires screeching when
+you take a turn very fast.
+
+564
+00:42:42,793 --> 00:42:47,059
+But these electrons can be focused
+and manipulated to any wavelength.
+
+565
+00:42:47,131 --> 00:42:49,224
+So, I can control the output.
+
+566
+00:42:49,300 --> 00:42:51,291
+And this way we can
+reverse the process
+
+567
+00:42:51,368 --> 00:42:52,892
+and still keep
+Michael alive.
+
+568
+00:42:54,338 --> 00:42:56,135
+That's what
+I'm hoping for, yeah.
+
+569
+00:42:56,206 --> 00:42:58,367
+Well what are we waiting for?
+Come on, let's give it a try.
+
+570
+00:42:58,442 --> 00:43:00,376
+Nancy, hold on. Calm down.
+
+571
+00:43:00,444 --> 00:43:02,412
+I still need to do
+a few more tests.
+
+572
+00:43:02,479 --> 00:43:05,846
+Besides, this machine isn't nearly
+powerful enough to do the job.
+
+573
+00:43:05,916 --> 00:43:07,611
+We can use Agnes.
+
+574
+00:43:07,685 --> 00:43:09,243
+<i>My thinking exactly.</i>
+
+575
+00:43:09,320 --> 00:43:13,017
+A cyclotron the size of Agnes will
+put out 10 times the power we need.
+
+576
+00:43:13,090 --> 00:43:15,217
+We'll have to construct a terminal
+
+577
+00:43:15,292 --> 00:43:17,760
+in a room nearby
+the accelerator tunnel.
+
+578
+00:43:17,828 --> 00:43:20,353
+Let's schedule the first test
+next week sometime.
+
+579
+00:43:20,431 --> 00:43:22,729
+If we can keep Michael
+alive until then...
+
+580
+00:43:22,800 --> 00:43:25,792
+I'll talk to Viallini right away.
+Tell me exactly what's required,
+
+581
+00:43:25,869 --> 00:43:27,359
+and I'll have him
+take care of it.
+
+582
+00:43:27,438 --> 00:43:28,871
+The particles
+are accelerated...
+
+583
+00:43:28,939 --> 00:43:30,998
+<i>Within a week the terminal
+was constructed.</i>
+
+584
+00:43:31,075 --> 00:43:34,010
+We called it
+the atomic shotgun.
+
+585
+00:43:34,078 --> 00:43:35,909
+Let me see that.
+
+586
+00:43:35,980 --> 00:43:40,144
+Agnes, this cyclotron,
+it's never been tested?
+
+587
+00:43:40,217 --> 00:43:42,811
+Construction has only
+just been completed.
+
+588
+00:43:42,886 --> 00:43:45,753
+We expect a full-power
+test firing tonight in...
+
+589
+00:43:45,823 --> 00:43:48,314
+less than six hours,
+as a matter of fact.
+
+590
+00:43:48,392 --> 00:43:51,020
+And the engineers,
+they have no knowledge
+
+591
+00:43:51,095 --> 00:43:52,756
+of this shotgun's purpose?
+
+592
+00:43:52,830 --> 00:43:56,322
+Only the four of us
+in this room.
+
+593
+00:43:58,669 --> 00:44:00,603
+<i>Go on, Doctor.</i>
+
+594
+00:44:00,671 --> 00:44:04,004
+<i>Michael's transformation
+continued</i>
+
+595
+00:44:04,074 --> 00:44:07,043
+<i>while we conducted more
+tests preparing for tonight...</i>
+
+596
+00:44:08,746 --> 00:44:10,373
+<i>unfortunately.</i>
+
+597
+00:44:19,056 --> 00:44:21,286
+Computer: <i>Bio-scan
+of frequency shutdown.</i>
+
+598
+00:44:21,358 --> 00:44:23,883
+<i>All systems at standby.</i>
+
+599
+00:44:40,911 --> 00:44:43,903
+<i>Warning:
+Patient's heart rate rising.</i>
+
+600
+00:44:45,282 --> 00:44:49,048
+<i>Blood pressure
+230 over 110 and increasing.</i>
+
+601
+00:44:51,321 --> 00:44:54,813
+<i>Blood pressure
+252 over 140 and increasing.</i>
+
+602
+00:44:57,795 --> 00:45:01,390
+<i>Blood pressure
+286 over 190 and increasing.</i>
+
+603
+00:45:03,701 --> 00:45:07,193
+<i>Blood pressure
+303 over 215 and increasing.</i>
+
+604
+00:45:07,271 --> 00:45:09,296
+Nancy, I think
+he wants to talk to you.
+
+605
+00:45:09,373 --> 00:45:10,340
+What?
+
+606
+00:45:10,407 --> 00:45:12,568
+<i>Warning:
+Heart rate critical.</i>
+
+607
+00:45:13,944 --> 00:45:17,675
+<i>Blood pressure
+310 over 250 and increasing.</i>
+
+608
+00:45:19,783 --> 00:45:23,514
+<i>Blood pressure
+383 over 290 and increasing.</i>
+
+609
+00:45:26,223 --> 00:45:28,453
+Elliot, do something!
+
+610
+00:45:34,665 --> 00:45:36,792
+Oh my God.
+
+611
+00:45:36,867 --> 00:45:40,633
+- (screeching)
+- (mutants growling)
+
+612
+00:45:49,580 --> 00:45:51,878
+You better get Viallini.
+We can't wait until tomorrow.
+
+613
+00:45:51,949 --> 00:45:53,712
+We gotta fire up Agnes now.
+
+614
+00:45:54,752 --> 00:45:57,118
+Nancy, go now! Find Viallini.
+
+615
+00:45:57,187 --> 00:46:00,281
+And get right back here... I'm gonna
+need help getting Michael downstairs.
+
+616
+00:46:26,884 --> 00:46:29,648
+(flatlines)
+
+617
+00:47:16,533 --> 00:47:18,626
+(screaming)
+
+618
+00:47:21,205 --> 00:47:23,230
+Doctor, it's Michael.
+
+619
+00:47:25,976 --> 00:47:28,206
+(buzzing)
+
+620
+00:47:29,613 --> 00:47:33,105
+Computer: <i>Warning: This area
+is now at condition three</i>
+
+621
+00:47:33,183 --> 00:47:34,810
+<i>anomaly alert status.</i>
+
+622
+00:47:40,724 --> 00:47:42,692
+(screaming)
+
+623
+00:47:46,463 --> 00:47:48,488
+<i>Please use caution.</i>
+
+624
+00:47:51,134 --> 00:47:54,763
+<i>Red alert. Red alert.</i>
+
+625
+00:47:54,838 --> 00:47:57,671
+<i>Emergency override
+condition three.</i>
+
+626
+00:48:01,745 --> 00:48:03,144
+<i>Red alert.</i>
+
+627
+00:48:07,718 --> 00:48:10,380
+<i>Halon compression
+system at standby.</i>
+
+628
+00:48:21,765 --> 00:48:25,030
+<i>Red alert. Red alert.</i>
+
+629
+00:48:30,107 --> 00:48:32,075
+And this was last night?
+
+630
+00:48:33,110 --> 00:48:35,704
+Last night, early this morning.
+
+631
+00:48:37,681 --> 00:48:40,206
+So, you really have no idea
+what this thing looks like.
+
+632
+00:48:40,284 --> 00:48:42,980
+My God, it doesn't
+matter what he looks like.
+
+633
+00:48:46,089 --> 00:48:47,886
+Believe me,
+
+634
+00:48:47,958 --> 00:48:51,758
+there will be no doubt
+in your mind when you see him.
+
+635
+00:48:54,865 --> 00:48:56,992
+Sherry, you're
+acting ridiculous.
+
+636
+00:48:57,067 --> 00:48:58,500
+You are really paranoid.
+
+637
+00:48:58,568 --> 00:49:01,264
+He was lying to me.
+He told me my father never even
+
+638
+00:49:01,338 --> 00:49:03,898
+showed up for work last night,
+that he called in sick.
+
+639
+00:49:03,974 --> 00:49:06,943
+All right, all right,
+so maybe your father did call in sick.
+
+640
+00:49:07,010 --> 00:49:09,205
+Maybe he had other plans,
+
+641
+00:49:09,279 --> 00:49:11,406
+personal plans that Viallini
+wouldn't let him off work for.
+
+642
+00:49:11,481 --> 00:49:12,971
+He would have told me.
+
+643
+00:49:13,050 --> 00:49:15,348
+He would never leave Kim
+and me this long without calling.
+
+644
+00:49:15,419 --> 00:49:18,115
+Maybe he did call.
+You've been gone all day.
+
+645
+00:49:19,623 --> 00:49:21,352
+You're leaving the room.
+
+646
+00:49:27,164 --> 00:49:29,530
+I didn't even think about
+the answering machine.
+
+647
+00:49:29,599 --> 00:49:31,760
+I just got it
+a few days ago.
+
+648
+00:49:31,835 --> 00:49:34,065
+Answering machine:
+<i>Hi, handsome.</i>
+
+649
+00:49:34,137 --> 00:49:37,129
+<i>I just wanted to make sure
+you're still going to stop by.</i>
+
+650
+00:49:37,207 --> 00:49:39,334
+<i>I've got the martinis chilling.</i>
+
+651
+00:49:39,409 --> 00:49:41,104
+<i>I'll be waiting. Ciao.</i>
+
+652
+00:49:41,178 --> 00:49:43,703
+See, what did I tell you?
+Your father probably got lucky...
+
+653
+00:49:43,780 --> 00:49:44,747
+Shh!
+
+654
+00:49:44,815 --> 00:49:48,512
+<i>Hi, honey. I guess
+you're still at the movies.</i>
+
+655
+00:49:48,585 --> 00:49:52,043
+<i>I stopped off at Susan's
+for a drink before work.</i>
+
+656
+00:49:52,122 --> 00:49:54,613
+<i>I left my ID pass at home.</i>
+
+657
+00:49:54,691 --> 00:49:56,818
+<i>I was going
+to ask you to bring it.</i>
+
+658
+00:49:56,893 --> 00:49:59,453
+<i>Don't worry about it.
+I'll use Jerry's pass tonight.</i>
+
+659
+00:49:59,529 --> 00:50:01,997
+<i>I'm running late.
+Gotta get to work.</i>
+
+660
+00:50:02,065 --> 00:50:04,590
+<i>Make sure Kim
+gets to bed early.</i>
+
+661
+00:50:04,668 --> 00:50:06,101
+<i>See you tomorrow.</i>
+
+662
+00:50:06,169 --> 00:50:08,330
+<i>I love you.</i>
+
+663
+00:50:10,707 --> 00:50:12,538
+They've got him.
+
+664
+00:50:12,609 --> 00:50:14,702
+They're holding him there.
+
+665
+00:50:14,778 --> 00:50:16,473
+<i>What are you talking about?</i>
+
+666
+00:50:16,546 --> 00:50:19,709
+He's been telling me about all the weird
+things going on at that place.
+
+667
+00:50:19,783 --> 00:50:21,250
+Now they've got him.
+
+668
+00:50:21,318 --> 00:50:23,411
+Don't you think you're
+being a little ridiculous?
+
+669
+00:50:23,487 --> 00:50:25,250
+He said he wanted to quit,
+
+670
+00:50:25,322 --> 00:50:27,847
+that they were making him nervous
+with all the dangerous experiments
+
+671
+00:50:27,924 --> 00:50:30,757
+they've been doing
+on animals and stuff.
+
+672
+00:50:30,827 --> 00:50:33,091
+They're probably
+experimenting on him.
+
+673
+00:50:33,163 --> 00:50:36,223
+Sherry, Sherry, this is absurd.
+Calm down.
+
+674
+00:50:36,299 --> 00:50:37,823
+Do you hear
+what you're saying?
+
+675
+00:50:37,901 --> 00:50:39,732
+They don't do
+experiments on people.
+
+676
+00:50:41,104 --> 00:50:44,130
+- I'm going out there.
+- Out where?
+
+677
+00:50:45,409 --> 00:50:46,433
+Sherry!
+
+678
+00:50:49,846 --> 00:50:52,974
+Sherry, will you slow down a minute?
+You're not thinking straight.
+
+679
+00:50:54,451 --> 00:50:55,418
+Hey, dude.
+
+680
+00:50:55,485 --> 00:50:57,112
+<i>Where are you all off to?</i>
+
+681
+00:50:57,187 --> 00:50:58,882
+Have you heard from Daddy yet?
+
+682
+00:50:58,955 --> 00:51:00,388
+<i>They've got him.
+I'm sure of it.</i>
+
+683
+00:51:00,457 --> 00:51:02,118
+<i>God knows what
+they're doing to him.</i>
+
+684
+00:51:02,192 --> 00:51:05,025
+Sherry, stop it.
+You're going to scare Kim.
+
+685
+00:51:05,095 --> 00:51:07,655
+<i>What's going on, Sherry?
+Where's Dad?</i>
+
+686
+00:51:07,731 --> 00:51:09,892
+We're gonna go find him.
+He may be in trouble.
+
+687
+00:51:09,966 --> 00:51:12,093
+We don't know that, Sherry.
+
+688
+00:51:12,169 --> 00:51:14,637
+Kim, I want you to stay here.
+He might call.
+
+689
+00:51:14,704 --> 00:51:17,070
+Screw that!
+I'm going with you.
+
+690
+00:51:17,140 --> 00:51:18,471
+You're not going anywhere.
+
+691
+00:51:18,542 --> 00:51:20,533
+Someone's got to stay here
+in case he calls.
+
+692
+00:51:20,610 --> 00:51:21,975
+Besides,
+you'd never get in there.
+
+693
+00:51:22,045 --> 00:51:23,672
+<i>You wanna bet?</i>
+
+694
+00:51:23,747 --> 00:51:26,011
+Don't argue with me, Kim.
+Just stay here.
+
+695
+00:51:26,083 --> 00:51:29,382
+- Screw you, Sherry.
+- Sherry...
+
+696
+00:51:29,453 --> 00:51:30,920
+- Here, put this on.
+- For what?
+
+697
+00:51:30,987 --> 00:51:33,251
+Do you think we're going to get in
+because of these white coats?
+
+698
+00:51:33,323 --> 00:51:35,052
+No... because of this.
+
+699
+00:51:35,125 --> 00:51:37,685
+This is a security card.
+Level five clearance.
+
+700
+00:51:37,761 --> 00:51:39,422
+This'll open
+any door in the place.
+
+701
+00:51:39,496 --> 00:51:42,363
+Sher... Sherry!
+
+702
+00:51:44,167 --> 00:51:47,534
+We cannot afford
+to make any mistakes...
+
+703
+00:51:48,672 --> 00:51:51,607
+any leaks outside of Talos.
+
+704
+00:51:53,143 --> 00:51:55,839
+When you find this thing,
+
+705
+00:51:55,912 --> 00:51:58,278
+I want you to destroy it.
+
+706
+00:51:59,416 --> 00:52:02,817
+I want there to be
+no trace of its existence.
+
+707
+00:52:06,123 --> 00:52:08,318
+What about the woman, Dr. Kane?
+
+708
+00:52:10,327 --> 00:52:13,922
+If she cannot be
+persuaded to cooperate,
+
+709
+00:52:13,997 --> 00:52:16,659
+to remain silent,
+
+710
+00:52:16,733 --> 00:52:19,327
+you shall have to arrange
+an accident.
+
+711
+00:52:20,670 --> 00:52:22,399
+<i>Do you understand?</i>
+
+712
+00:52:22,472 --> 00:52:23,962
+Yes, sir.
+
+713
+00:53:39,849 --> 00:53:41,316
+(tires screech)
+
+714
+00:53:55,699 --> 00:53:58,497
+I can't believe
+we're doing this.
+
+715
+00:53:59,536 --> 00:54:01,697
+Look, if you don't want
+to go in, just tell me.
+
+716
+00:54:02,973 --> 00:54:05,407
+I mean if our relationship
+means that little to you.
+
+717
+00:54:05,475 --> 00:54:08,137
+All right, all right,
+all right, let's go.
+
+718
+00:54:11,381 --> 00:54:15,078
+Brian, this is my father.
+
+719
+00:54:17,420 --> 00:54:19,081
+I know.
+
+720
+00:54:20,724 --> 00:54:22,351
+Let's do it.
+
+721
+00:54:35,005 --> 00:54:36,973
+What a bitch!
+
+722
+00:54:42,379 --> 00:54:43,937
+Will you calm down?
+
+723
+00:54:44,014 --> 00:54:45,743
+You're making me nervous.
+
+724
+00:54:50,453 --> 00:54:52,546
+My God, he's enormous!
+
+725
+00:54:54,090 --> 00:54:56,354
+This is it. We're dead.
+
+726
+00:54:56,426 --> 00:54:58,792
+Will you act normal?
+This isn't the mafia.
+
+727
+00:55:00,063 --> 00:55:02,054
+- (door buzzes)
+<i>- Access allowed.</i>
+
+728
+00:55:04,668 --> 00:55:06,158
+Where are you going?
+
+729
+00:55:06,236 --> 00:55:09,034
+Come on, just act natural.
+There'll be no problem.
+
+730
+00:55:12,142 --> 00:55:14,508
+- Late night tonight.
+- Hi.
+
+731
+00:55:14,577 --> 00:55:16,545
+Hold it right there.
+
+732
+00:55:21,918 --> 00:55:23,545
+You forgot to sign in.
+
+733
+00:55:23,620 --> 00:55:26,214
+Sorry, million things on my mind.
+
+734
+00:55:26,289 --> 00:55:29,190
+Yeah, you know how it is
+in the mutant business.
+
+735
+00:55:31,261 --> 00:55:32,228
+See you later.
+
+736
+00:55:33,663 --> 00:55:34,687
+Bye.
+
+737
+00:55:56,386 --> 00:55:58,718
+- (growling)
+- Oh, shit!
+
+738
+00:56:01,591 --> 00:56:03,149
+(yelps)
+
+739
+00:56:19,576 --> 00:56:21,100
+You sure you got him?
+
+740
+00:56:29,285 --> 00:56:31,253
+TV: <i>The people
+of Penguin Computer</i>
+
+741
+00:56:31,321 --> 00:56:34,313
+<i>have given me just 15 seconds
+to tell you about their new PC</i>
+
+742
+00:56:34,391 --> 00:56:35,881
+<i>the Puffin XL,</i>
+
+743
+00:56:35,959 --> 00:56:39,224
+<i>before they drop me into
+this pit of poisonous vipers.</i>
+
+744
+00:56:39,295 --> 00:56:41,729
+<i>The Puffin XL cuts
+data processing</i>
+
+745
+00:56:41,798 --> 00:56:43,595
+<i>and peripheral
+download time in half,</i>
+
+746
+00:56:43,666 --> 00:56:45,793
+<i>allowing you extra time
+for that creative touch.</i>
+
+747
+00:56:45,869 --> 00:56:49,066
+<i>And when you've got a deadline
+to meet, you can't afford downtime.</i>
+
+748
+00:56:49,139 --> 00:56:51,835
+- (man screams)
+<i>- The Puffin XL.</i>
+
+749
+00:56:51,908 --> 00:56:54,877
+<i>Don't let a deadline
+get you down.</i>
+
+750
+00:56:56,379 --> 00:56:59,280
+Man #1: <i>The name of the game
+is Stud. Ante up.</i>
+
+751
+00:56:59,349 --> 00:57:01,214
+Man #2: <i>Wait a minute.
+What's the limit?</i>
+
+752
+00:57:01,284 --> 00:57:04,447
+Man #1: <i>Same as always, Ernie.
+High-low, ante up.</i>
+
+753
+00:57:04,521 --> 00:57:06,716
+Ernie: <i>Wait a minute.
+What are the chips for?</i>
+
+754
+00:57:06,790 --> 00:57:08,587
+Man: <i>Same as always, Ernie.</i>
+
+755
+00:57:08,658 --> 00:57:11,286
+<i>The whites are 50¢,
+the reds are a buck</i>
+
+756
+00:57:11,361 --> 00:57:15,024
+<i>and the blues
+are $5, okay? Ante up.</i>
+
+757
+00:57:15,098 --> 00:57:17,293
+- (door buzzes)
+- Ernie: <i>Wait a minute...</i>
+
+758
+00:57:25,308 --> 00:57:26,468
+Hey!
+
+759
+00:57:26,543 --> 00:57:28,670
+- (beeps)
+- (door buzzes)
+
+760
+00:57:34,083 --> 00:57:36,108
+Son of a bitch!
+
+761
+00:57:38,087 --> 00:57:40,021
+What the hell's
+the matter with you, anyway?
+
+762
+00:57:40,089 --> 00:57:43,081
+Making jokes like that?
+What if he asked you for real ID?
+
+763
+00:57:43,159 --> 00:57:45,719
+- Then what would you have done?
+- Relax, we made it through, didn't we?
+
+764
+00:57:45,795 --> 00:57:47,888
+That guy was
+so stupid he probably... ahh!
+
+765
+00:57:47,964 --> 00:57:51,263
+Jesus Christ,
+what the hell is that?
+
+766
+00:57:51,334 --> 00:57:52,562
+I don't know.
+
+767
+00:57:52,635 --> 00:57:55,069
+Let's just get
+to Viallini's office.
+
+768
+00:58:27,270 --> 00:58:30,797
+- I don't believe this.
+- Shh! Will you be quiet?
+
+769
+00:58:33,343 --> 00:58:35,174
+<i>(falls down)
+Shit!</i>
+
+770
+00:58:35,245 --> 00:58:37,213
+Will you stop
+fooling around?
+
+771
+00:58:41,184 --> 00:58:43,482
+What the hell exactly are
+we looking for anyway?
+
+772
+00:58:43,553 --> 00:58:46,147
+Clues, evidence.
+
+773
+00:58:46,222 --> 00:58:48,315
+You're quite
+the dick aren't you?
+
+774
+00:58:48,391 --> 00:58:49,949
+What?
+
+775
+00:58:51,094 --> 00:58:53,858
+Uh... a private dick.
+Detective, I mean.
+
+776
+00:58:56,933 --> 00:58:59,060
+How do you expect
+to access any information?
+
+777
+00:58:59,135 --> 00:59:01,763
+<i>A system like this has got
+to require security clearance.</i>
+
+778
+00:59:01,838 --> 00:59:04,068
+You forget you're dealing
+with the Princeton computer
+
+779
+00:59:04,140 --> 00:59:06,506
+cryptography champion
+two years running.
+
+780
+00:59:06,576 --> 00:59:08,942
+There isn't a system
+or circuit I can't break into.
+
+781
+00:59:09,012 --> 00:59:11,378
+Pardon me,
+Miss Summa Cum Silicon Chip.
+
+782
+00:59:11,447 --> 00:59:13,847
+It's just going
+to take some time.
+
+783
+00:59:13,917 --> 00:59:16,249
+- Wonderful.
+- Computer: <i>Access deni...</i>
+
+784
+01:00:18,615 --> 01:00:20,412
+<i>Access denied.</i>
+
+785
+01:00:27,023 --> 01:00:28,684
+<i>Access denied.</i>
+
+786
+01:00:35,932 --> 01:00:38,059
+Brian, come here.
+I think I've got it.
+
+787
+01:00:40,603 --> 01:00:42,127
+<i>Access allowed.</i>
+
+788
+01:00:49,345 --> 01:00:51,404
+These are the records
+from last night?
+
+789
+01:00:52,448 --> 01:00:54,541
+He was here, Brian.
+He logged in.
+
+790
+01:00:54,617 --> 01:00:57,313
+This proves it.
+They have him, I know it.
+
+791
+01:00:57,387 --> 01:00:59,855
+It'll be all right.
+We'll find him, I promise.
+
+792
+01:00:59,922 --> 01:01:01,287
+Ahh!
+
+793
+01:01:01,357 --> 01:01:03,325
+All right, what are
+you two doing here?
+
+794
+01:01:03,393 --> 01:01:06,226
+We were just playing
+"Star Trek" on the computer and...
+
+795
+01:01:06,295 --> 01:01:07,626
+Oh, a comedian.
+
+796
+01:01:07,697 --> 01:01:09,494
+You're the girl
+who was here this afternoon.
+
+797
+01:01:09,565 --> 01:01:12,090
+- You're Griffin's daughter.
+- What have you done with my father?
+
+798
+01:01:12,168 --> 01:01:13,692
+Where is he,
+you bastards?
+
+799
+01:01:13,770 --> 01:01:16,603
+She's just a little upset.
+She doesn't really mean "bastards."
+
+800
+01:01:16,673 --> 01:01:17,970
+Where is he?
+I know you have him.
+
+801
+01:01:18,041 --> 01:01:19,303
+Shut her up!
+
+802
+01:01:20,343 --> 01:01:21,173
+Hey you son of a...
+
+803
+01:01:27,183 --> 01:01:28,275
+You punk.
+
+804
+01:01:29,318 --> 01:01:32,446
+Sherry, run, get help!
+Call the police!
+
+805
+01:01:39,362 --> 01:01:40,727
+Call Viallini.
+
+806
+01:01:40,797 --> 01:01:42,389
+I'll get the girl.
+
+807
+01:01:42,465 --> 01:01:44,228
+<i>(screams, grunts)</i>
+
+808
+01:01:50,606 --> 01:01:52,039
+<i>Ow!</i>
+
+809
+01:02:20,470 --> 01:02:21,937
+Shit.
+
+810
+01:02:32,448 --> 01:02:34,279
+(screaming)
+
+811
+01:02:42,525 --> 01:02:43,822
+What the hell?
+
+812
+01:02:59,609 --> 01:03:01,008
+(gasps)
+
+813
+01:03:07,049 --> 01:03:08,516
+Jesus Christ.
+
+814
+01:03:10,686 --> 01:03:12,119
+Get the hell out of here.
+
+815
+01:03:20,129 --> 01:03:23,587
+<i>(Mitchell screaming)</i>
+
+816
+01:03:33,376 --> 01:03:35,003
+- (screams)
+- Who are you?
+
+817
+01:03:35,077 --> 01:03:37,068
+- What are you doing here?
+- Let go of me!
+
+818
+01:03:37,146 --> 01:03:39,580
+It's all right, I'm not going
+to hurt you. Just calm down.
+
+819
+01:03:39,649 --> 01:03:41,139
+It's all right.
+
+820
+01:03:41,217 --> 01:03:43,208
+Just tell me who you are
+and what you're doing here.
+
+821
+01:03:43,286 --> 01:03:46,255
+- I'm looking for my father.
+- Your father?
+
+822
+01:03:46,322 --> 01:03:48,256
+You're John Griffen's daughter.
+
+823
+01:03:48,324 --> 01:03:49,985
+That's right.
+
+824
+01:03:50,059 --> 01:03:52,084
+And what have you done
+with my father, you bitch?
+
+825
+01:03:52,161 --> 01:03:54,129
+Is your sister here, too?
+
+826
+01:03:55,164 --> 01:03:57,064
+No, just me.
+
+827
+01:03:57,133 --> 01:03:59,897
+- What's your name?
+- Kim.
+
+828
+01:03:59,969 --> 01:04:01,994
+Kim. It's very dangerous
+for you to be
+
+829
+01:04:02,071 --> 01:04:04,471
+running around
+these hallways by yourself.
+
+830
+01:04:04,540 --> 01:04:07,737
+You're telling me.
+What the fuck was that thing?
+
+831
+01:04:07,810 --> 01:04:09,334
+What thing?
+
+832
+01:04:09,412 --> 01:04:11,073
+What did you see, Kim?
+
+833
+01:04:12,114 --> 01:04:15,311
+It was this huge...
+like, really gross...
+
+834
+01:04:15,384 --> 01:04:16,976
+I don't know what.
+
+835
+01:04:17,053 --> 01:04:19,248
+It ate some guy.
+
+836
+01:04:20,656 --> 01:04:24,285
+Jesus Christ, what the hell is
+going on around here?
+
+837
+01:04:52,955 --> 01:04:54,047
+(screaming)
+
+838
+01:05:04,333 --> 01:05:07,598
+Now, Kim, I want you
+to wait here. Don't be afraid.
+
+839
+01:05:07,670 --> 01:05:10,662
+I'm going to lock the door
+so nothing can come in, okay?
+
+840
+01:05:11,540 --> 01:05:14,475
+Wait. I...
+
+841
+01:05:14,543 --> 01:05:16,977
+My sister Sherry,
+she's here, too.
+
+842
+01:05:17,046 --> 01:05:20,174
+She may be in trouble.
+I have to find her.
+
+843
+01:05:20,249 --> 01:05:22,809
+It's all right, Kim.
+I'll find her. I promise.
+
+844
+01:05:22,885 --> 01:05:26,981
+Please, just wait here and keep
+the door locked until I get back.
+
+845
+01:05:50,079 --> 01:05:51,842
+(Sherry screams)
+
+846
+01:06:13,469 --> 01:06:14,493
+Brian!
+
+847
+01:06:20,476 --> 01:06:22,239
+Brian!
+
+848
+01:06:28,250 --> 01:06:31,708
+Computer: <i>Syntax error.
+Please enter reset code.</i>
+
+849
+01:06:44,433 --> 01:06:46,799
+<i>Information
+does not compute.</i>
+
+850
+01:06:49,538 --> 01:06:53,406
+<i>Non sequitur.
+Input is uncorrelated.</i>
+
+851
+01:07:04,553 --> 01:07:05,850
+(screaming)
+
+852
+01:07:17,466 --> 01:07:20,162
+Kim, what the hell
+are you doing here?
+
+853
+01:07:21,203 --> 01:07:22,727
+Kim, are you all right?
+
+854
+01:07:35,418 --> 01:07:37,318
+- (roars)
+- <i>(screams)</i>
+
+855
+01:08:02,578 --> 01:08:04,546
+What the hell are
+you doing out here?
+
+856
+01:08:04,613 --> 01:08:05,580
+I...
+
+857
+01:08:05,648 --> 01:08:07,513
+Oh, never mind.
+Get out of my way.
+
+858
+01:08:09,852 --> 01:08:11,581
+<i>Access allowed.</i>
+
+859
+01:08:11,654 --> 01:08:13,087
+Come with me.
+
+860
+01:08:25,468 --> 01:08:26,662
+Kim, stay right here.
+
+861
+01:08:26,735 --> 01:08:28,430
+- Don't move.
+- Where are you going?
+
+862
+01:08:31,340 --> 01:08:33,137
+There's some acid in
+that cabinet over there,
+
+863
+01:08:33,209 --> 01:08:34,938
+if I can get to it.
+
+864
+01:08:35,010 --> 01:08:37,274
+- Be careful!
+- (roars)
+
+865
+01:08:38,981 --> 01:08:40,505
+(screams)
+
+866
+01:08:43,352 --> 01:08:44,376
+Sherry!
+
+867
+01:09:03,038 --> 01:09:04,096
+Sherry!
+
+868
+01:09:45,214 --> 01:09:46,374
+Look out!
+
+869
+01:10:02,798 --> 01:10:03,765
+Sherry!
+
+870
+01:10:36,432 --> 01:10:39,401
+(screaming)
+
+871
+01:10:51,113 --> 01:10:52,341
+Come on, Sherry!
+
+872
+01:11:00,823 --> 01:11:01,790
+No!
+
+873
+01:11:18,807 --> 01:11:20,672
+(screaming)
+
+874
+01:11:24,947 --> 01:11:27,142
+Come on, Sherry,
+move your ass!
+
+875
+01:11:36,959 --> 01:11:39,086
+<i>Red alert. Red alert.</i>
+
+876
+01:11:43,432 --> 01:11:44,729
+Where is it?
+
+877
+01:11:44,800 --> 01:11:46,461
+Back there in the lab.
+
+878
+01:11:46,535 --> 01:11:48,867
+You can't stop it,
+not with that gun.
+
+879
+01:11:48,937 --> 01:11:51,132
+We have to get out
+of here and get help.
+
+880
+01:11:53,442 --> 01:11:55,069
+Mitchell:
+<i>There is no way out.</i>
+
+881
+01:11:55,144 --> 01:11:57,135
+The whole sector
+is sealed off.
+
+882
+01:11:57,212 --> 01:11:59,146
+Quarantine status.
+
+883
+01:11:59,214 --> 01:12:01,876
+What in the hell are
+we supposed to do?
+
+884
+01:12:04,353 --> 01:12:06,617
+Sherry, can we go home now?
+
+885
+01:12:06,689 --> 01:12:08,384
+You're not going anywhere.
+
+886
+01:12:08,457 --> 01:12:12,450
+<i>- Red alert. Red alert.</i>
+- I've got a job to finish.
+
+887
+01:12:12,528 --> 01:12:14,496
+And you're going to help me.
+
+888
+01:12:15,531 --> 01:12:18,056
+Mitchell: <i>Now get down
+to blue sector double-zero.</i>
+
+889
+01:12:18,133 --> 01:12:20,101
+<i>Wait for me there.</i>
+
+890
+01:12:21,570 --> 01:12:23,197
+Sherry, Sherry!
+
+891
+01:12:23,272 --> 01:12:26,400
+This is like, really insane.
+Let's just get the hell out of here!
+
+892
+01:12:26,475 --> 01:12:29,308
+You heard what he said, the place
+is sealed off. We're trapped in here.
+
+893
+01:12:29,378 --> 01:12:31,346
+There's got to be a way out.
+Let's just go!
+
+894
+01:12:31,413 --> 01:12:33,278
+Kim, listen to me.
+
+895
+01:12:33,349 --> 01:12:35,749
+That thing in there...
+
+896
+01:12:35,818 --> 01:12:40,846
+it killed Daddy,
+I'm sure of it.
+
+897
+01:12:40,923 --> 01:12:43,221
+<i>Red alert. Red alert.</i>
+
+898
+01:12:43,292 --> 01:12:46,989
+I'm sorry, Kim,
+but if there's a way to stop it,
+
+899
+01:12:47,062 --> 01:12:49,292
+to kill it, I have...
+
+900
+01:12:49,365 --> 01:12:53,358
+we both have to do something,
+at least to try.
+
+901
+01:12:56,605 --> 01:12:59,096
+Then can we go home?
+
+902
+01:13:01,043 --> 01:13:02,908
+<i>(pounding)</i>
+
+903
+01:13:06,148 --> 01:13:09,777
+<i>Red alert. Red alert.</i>
+
+904
+01:13:13,021 --> 01:13:14,921
+<i>(pounding continues)</i>
+
+905
+01:13:24,333 --> 01:13:26,961
+<i>Warning:
+Contamination alert.</i>
+
+906
+01:13:40,082 --> 01:13:42,744
+All right, you ugly fucker,
+come and get me.
+
+907
+01:13:54,496 --> 01:13:56,862
+I must be nuts.
+
+908
+01:14:01,870 --> 01:14:04,668
+<i>Red alert. Red alert.</i>
+
+909
+01:14:06,775 --> 01:14:08,367
+Blue sector.
+Come on, Kim.
+
+910
+01:14:24,393 --> 01:14:26,861
+<i>Red alert. Red alert.</i>
+
+911
+01:14:47,950 --> 01:14:49,440
+This is it.
+
+912
+01:14:51,386 --> 01:14:53,911
+Oh, no. My security pass.
+
+913
+01:14:55,390 --> 01:14:57,119
+Kim, you wait here.
+
+914
+01:14:57,192 --> 01:14:58,159
+Sherry.
+
+915
+01:14:59,561 --> 01:15:00,823
+Be careful.
+
+916
+01:15:00,896 --> 01:15:03,057
+<i>Red alert. Red alert.</i>
+
+917
+01:15:03,131 --> 01:15:05,964
+Where are you going?
+Come on, it's right behind me.
+
+918
+01:15:09,905 --> 01:15:10,872
+Damn!
+
+919
+01:15:14,877 --> 01:15:17,402
+- Kid, you got a pass?
+- No.
+
+920
+01:15:43,972 --> 01:15:45,200
+Perfect.
+
+921
+01:15:53,448 --> 01:15:55,439
+Kim: <i>What are
+you doing?</i>
+
+922
+01:16:00,923 --> 01:16:04,222
+Computer: <i>Denied.
+Access... access denied.</i>
+
+923
+01:16:04,293 --> 01:16:05,487
+<i>Come on, Sherry!</i>
+
+924
+01:16:05,561 --> 01:16:07,290
+What the hell are you doing?
+
+925
+01:16:10,465 --> 01:16:12,695
+Mitchell: <i>Here it is,
+you'd better hurry.</i>
+
+926
+01:16:17,239 --> 01:16:19,207
+Kim:
+<i>Hurry, Sherry!</i>
+
+927
+01:16:26,148 --> 01:16:28,082
+(screams)
+
+928
+01:16:29,217 --> 01:16:31,515
+<i>Access denied.
+Access denied.</i>
+
+929
+01:16:32,888 --> 01:16:34,753
+<i>- Access allowed.</i>
+- That's it!
+
+930
+01:16:43,198 --> 01:16:44,893
+- <i>(pounding)</i>
+- (screams)
+
+931
+01:16:44,967 --> 01:16:46,594
+Come on, this way.
+
+932
+01:17:03,919 --> 01:17:07,082
+Computer:
+<i>Primary control systems activated.</i>
+
+933
+01:17:15,864 --> 01:17:18,697
+Damn it, Jarrett,
+where the hell are you?
+
+934
+01:17:18,767 --> 01:17:21,531
+You dragged us down here,
+don't you know how to use this thing?
+
+935
+01:17:21,603 --> 01:17:23,571
+I'm working on it.
+
+936
+01:17:26,375 --> 01:17:27,672
+Let me see that.
+
+937
+01:17:32,481 --> 01:17:34,449
+<i>You understand this shit?</i>
+
+938
+01:17:34,516 --> 01:17:36,211
+A little.
+
+939
+01:17:36,284 --> 01:17:38,752
+What the hell is
+this thing, anyway?
+
+940
+01:17:38,820 --> 01:17:41,254
+A way for us to stop
+that thing out there.
+
+941
+01:17:43,325 --> 01:17:45,486
+<i>(typing)</i>
+
+942
+01:17:48,664 --> 01:17:51,292
+Computer:
+<i>Please enter access code.</i>
+
+943
+01:17:51,366 --> 01:17:54,995
+<i>Release magnetic lock
+to open accelerator doors.</i>
+
+944
+01:18:00,509 --> 01:18:02,443
+That's it.
+
+945
+01:18:06,682 --> 01:18:08,445
+<i>Accelerator engaged.</i>
+
+946
+01:18:08,517 --> 01:18:12,476
+<i>Particle flux:
+10 to the 26th power.</i>
+
+947
+01:18:12,554 --> 01:18:16,354
+They'll be test firing
+in exactly two minutes.
+
+948
+01:18:16,425 --> 01:18:17,722
+Kim:
+<i>Test firing?</i>
+
+949
+01:18:17,793 --> 01:18:20,785
+The particle accelerator that runs
+in a two-mile arc just below us.
+
+950
+01:18:21,863 --> 01:18:24,832
+<i>Please enter coupler
+interface code now.</i>
+
+951
+01:18:24,900 --> 01:18:26,868
+There it is.
+Electron coupler.
+
+952
+01:18:26,935 --> 01:18:30,530
+Activated by this access code.
+
+953
+01:18:30,605 --> 01:18:32,095
+I got it.
+
+954
+01:18:32,174 --> 01:18:34,540
+- <i>Hydraulic systems set.</i>
+- Okay, go.
+
+955
+01:18:34,609 --> 01:18:36,099
+<i>Throttle control engaged.</i>
+
+956
+01:18:52,127 --> 01:18:54,118
+<i>Electron coupler deployed.</i>
+
+957
+01:18:54,196 --> 01:18:57,893
+<i>Magnetic stasis grid
+locked and operational.</i>
+
+958
+01:18:57,966 --> 01:18:59,331
+Don't touch those!
+
+959
+01:18:59,401 --> 01:19:00,368
+Who the...
+
+960
+01:19:00,435 --> 01:19:03,996
+- <i>Negative flux phase shift C -2.38°.</i>
+- Wavelength.
+
+961
+01:19:05,540 --> 01:19:07,701
+97.42 megawatts?
+
+962
+01:19:07,776 --> 01:19:09,744
+I don't know
+what this means.
+
+963
+01:19:09,811 --> 01:19:12,109
+Well, figure it out.
+We've got less than a minute.
+
+964
+01:19:12,180 --> 01:19:14,580
+Hey, get off her back.
+She's doing the best she can.
+
+965
+01:19:14,649 --> 01:19:16,742
+In 30 seconds that
+won't be good enough.
+
+966
+01:19:16,818 --> 01:19:19,150
+I got it. I've got it.
+
+967
+01:19:20,188 --> 01:19:23,351
+Power output, magnetic coupling.
+This is it!
+
+968
+01:19:23,425 --> 01:19:25,552
+You better be damn sure,
+sweetheart.
+
+969
+01:19:25,627 --> 01:19:27,618
+It's gonna be
+my ass out there.
+
+970
+01:19:27,696 --> 01:19:29,926
+What are you
+talking about?
+
+971
+01:19:31,867 --> 01:19:34,165
+Someone has to draw him
+beneath the dispersion plates.
+
+972
+01:19:37,405 --> 01:19:39,805
+I don't get paid
+enough for this shit.
+
+973
+01:19:39,875 --> 01:19:42,036
+Are you crazy?
+You can't go out there!
+
+974
+01:19:42,110 --> 01:19:44,078
+<i>You want the job?</i>
+
+975
+01:19:45,614 --> 01:19:47,775
+No screwing around.
+When I get that thing
+
+976
+01:19:47,849 --> 01:19:49,578
+under that grid, you hit it.
+
+977
+01:19:49,651 --> 01:19:51,881
+I hope you've got
+health insurance.
+
+978
+01:19:51,953 --> 01:19:54,080
+There's going to be
+enough radioactivity
+
+979
+01:19:54,156 --> 01:19:56,056
+out there to microwave
+half of Newark.
+
+980
+01:19:56,124 --> 01:19:58,092
+Don't remind me.
+
+981
+01:19:59,461 --> 01:20:02,658
+- Well, what should I do?
+- Pray for me.
+
+982
+01:20:02,731 --> 01:20:04,028
+You're sure?
+
+983
+01:20:04,099 --> 01:20:05,862
+I've got it.
+
+984
+01:20:05,934 --> 01:20:09,893
+<i>Error, error.
+System shutdown.</i>
+
+985
+01:20:09,971 --> 01:20:11,836
+- <i>Please reset.</i>
+- I've got it!
+
+986
+01:20:11,907 --> 01:20:14,842
+<i>System shutdown.
+Please reset.</i>
+
+987
+01:20:35,330 --> 01:20:39,232
+All right, open the door.
+
+988
+01:20:59,154 --> 01:21:00,815
+Come on.
+
+989
+01:21:04,226 --> 01:21:05,693
+Come on.
+
+990
+01:21:13,101 --> 01:21:15,160
+- Shit!
+- (both scream)
+
+991
+01:21:31,052 --> 01:21:32,451
+Come on.
+
+992
+01:21:48,270 --> 01:21:50,500
+Sit, you ugly mother...
+
+993
+01:21:50,572 --> 01:21:52,301
+Come to papa.
+
+994
+01:21:53,275 --> 01:21:55,300
+<i>Flux capacitors engaged.</i>
+
+995
+01:21:56,678 --> 01:21:58,578
+Now, hit it.
+
+996
+01:21:58,647 --> 01:22:00,638
+Get out of there!
+
+997
+01:22:03,752 --> 01:22:05,413
+Don't argue with me,
+goddamn it!
+
+998
+01:22:05,487 --> 01:22:07,011
+Just do it!
+
+999
+01:22:08,556 --> 01:22:10,956
+(screaming)
+
+1000
+01:22:25,807 --> 01:22:27,672
+<i>Beam crash.
+Beam crash.</i>
+
+1001
+01:22:29,511 --> 01:22:32,241
+For Christ sakes,
+what are you waiting for?
+
+1002
+01:22:33,949 --> 01:22:35,917
+It's not working, damn it!
+
+1003
+01:22:39,454 --> 01:22:43,686
+<i>Please allow 1 minute,
+52 seconds to recharge.</i>
+
+1004
+01:22:43,758 --> 01:22:45,623
+Kim, what are you doing?
+
+1005
+01:22:45,694 --> 01:22:48,060
+- He saved my life!
+- Kim, don't!
+
+1006
+01:22:48,129 --> 01:22:48,561
+Sherry: <i>Kim!</i>
+
+1007
+01:23:06,414 --> 01:23:07,381
+Kim!
+
+1008
+01:23:16,291 --> 01:23:17,485
+No!
+
+1009
+01:23:18,326 --> 01:23:19,486
+Kid, no!
+
+1010
+01:23:22,630 --> 01:23:24,564
+Oh, come on!
+
+1011
+01:23:26,835 --> 01:23:28,496
+No! No!
+
+1012
+01:23:28,570 --> 01:23:30,595
+Over here!
+
+1013
+01:23:52,193 --> 01:23:53,820
+No!
+
+1014
+01:24:15,250 --> 01:24:18,048
+All right, you fucker,
+try and swallow this.
+
+1015
+01:24:21,189 --> 01:24:24,090
+<i>20 seconds
+to discharge capacity.</i>
+
+1016
+01:24:29,064 --> 01:24:30,326
+No!
+
+1017
+01:24:31,399 --> 01:24:32,832
+<i>10 seconds,
+nine...</i>
+
+1018
+01:24:32,901 --> 01:24:36,496
+<i>eight, seven, six...</i>
+
+1019
+01:24:36,571 --> 01:24:39,506
+<i>five, four, three...</i>
+
+1020
+01:24:39,574 --> 01:24:41,565
+<i>two, one.</i>
+
+1021
+01:24:41,643 --> 01:24:43,110
+<i>Electron coupler at...</i>
+
+1022
+01:25:36,998 --> 01:25:39,592
+Turn it off!
+Turn it off, it worked.
+
+1023
+01:25:45,440 --> 01:25:47,704
+<i>Electron flow terminated.</i>
+
+1024
+01:26:00,788 --> 01:26:02,915
+<i>Radiation levels normal.</i>
+
+1025
+01:26:02,991 --> 01:26:06,427
+<i>Neutron dispersion at 46%.</i>
+
+1026
+01:26:19,140 --> 01:26:21,665
+What the hell were
+you waiting for?
+
+1027
+01:26:21,743 --> 01:26:24,007
+You stupid bitch.
+
+1028
+01:26:40,161 --> 01:26:43,062
+And you, you miserable fuck.
+
+1029
+01:26:44,165 --> 01:26:47,134
+- What are you doing?
+- Don't shoot him.
+
+1030
+01:26:53,408 --> 01:26:55,273
+<i>Sorry, girls.</i>
+
+1031
+01:26:55,343 --> 01:26:57,834
+Gotta tie up some loose ends.
+
+1032
+01:26:57,912 --> 01:26:59,880
+Now get back in there.
+
+1033
+01:27:01,749 --> 01:27:02,773
+Now!
+
+1034
+01:27:08,489 --> 01:27:12,482
+Sorry, pally.
+Doctor's orders.
+
+1035
+01:27:17,198 --> 01:27:19,860
+Yeah, I'm gonna enjoy this.
+
+1036
+01:27:23,605 --> 01:27:26,540
+That's right,
+you son of a bitch, smile.
+
+1037
+01:27:31,613 --> 01:27:33,171
+What the?
+
+1038
+01:27:39,854 --> 01:27:42,220
+(screaming)
+
+1039
+01:28:22,397 --> 01:28:24,592
+- (roars)
+- (screams)
+
+1040
+01:28:26,034 --> 01:28:28,594
+<i>Accelerator at mid-cyle.</i>
+
+1041
+01:28:28,670 --> 01:28:31,036
+<i>Please allow 27 seconds...</i>
+
+1042
+01:28:39,814 --> 01:28:41,839
+<i>Danger. Danger.</i>
+
+1043
+01:28:41,916 --> 01:28:44,646
+- What are you doing?
+- I don't know.
+
+1044
+01:28:51,793 --> 01:28:53,761
+<i>Overload status.</i>
+
+1045
+01:29:09,177 --> 01:29:11,407
+<i>Warning. Warning.</i>
+
+1046
+01:29:36,804 --> 01:29:39,398
+<i>Electron continuity terminated.</i>
+
+1047
+01:29:54,422 --> 01:29:56,481
+<i>Magnetic stress
+function nominal.</i>
+
+1048
+01:29:57,759 --> 01:30:01,627
+<i>Electron depletion
+at minus 26,000 RMS.</i>
+
+1049
+01:30:01,696 --> 01:30:06,793
+<i>Neutron absorption:
+12 billion KTS per cubic centimeter.</i>
+
+1050
+01:30:06,868 --> 01:30:09,632
+<i>Radiation level acceptable.</i>
+
+1051
+01:30:31,292 --> 01:30:32,987
+Is it over?
+
+1052
+01:30:34,028 --> 01:30:36,019
+I certainly hope so.
+
+1053
+01:30:37,832 --> 01:30:39,595
+Let's go home.
+
+1054
+01:30:58,419 --> 01:31:00,512
+<i>Primary path
+systems online.</i>
+
+1055
+01:31:07,395 --> 01:31:09,158
+- (screams)
+- Ahh!
+
+1056
+01:31:09,230 --> 01:31:10,857
+Brian!
+
+1057
+01:31:13,301 --> 01:31:15,269
+We thought you were dead.
+
+1058
+01:31:16,337 --> 01:31:18,328
+The creature...
+how did you escape?
+
+1059
+01:31:18,406 --> 01:31:20,738
+Just lucky, I guess.
+
+1060
+01:31:26,948 --> 01:31:28,939
+- Oh!
+- Ah, sorry.
+
+1061
+01:31:30,952 --> 01:31:33,011
+<i>Quarantine status lifted.</i>
+
+1062
+01:31:33,087 --> 01:31:35,885
+<i>All sectors secured.</i>
+
+1063
+01:31:37,892 --> 01:31:39,860
+<i>Have a nice day.</i>
+
+1064
+01:31:46,901 --> 01:31:48,334
+Sherry!
+
+1065
+01:31:51,372 --> 01:31:54,068
+- (squealing)
+- (screaming)
+
+1066
+01:32:12,260 --> 01:32:15,423
+<i>(rumbling)</i>
+
+1067
+01:32:19,934 --> 01:32:22,562
+(growling)
+
+1068
+01:32:45,159 --> 01:32:47,855
+♪ <i>I was used to you, baby</i> ♪
+
+1069
+01:32:47,929 --> 01:32:51,092
+♪ <i>Used to be anyhow</i> ♪
+
+1070
+01:32:53,301 --> 01:32:55,929
+♪ <i>How you used to do me, baby</i> ♪
+
+1071
+01:32:56,003 --> 01:32:59,404
+♪ <i>Ain't the way you do me now</i> ♪
+
+1072
+01:33:01,409 --> 01:33:03,969
+♪ <i>You were nice to me, baby</i> ♪
+
+1073
+01:33:04,045 --> 01:33:07,981
+♪ <i>Baby, must've been
+like you</i> ♪
+
+1074
+01:33:08,049 --> 01:33:11,849
+♪ <i>But, sugar, you turned
+to spice on me, baby</i> ♪
+
+1075
+01:33:11,919 --> 01:33:16,356
+♪ <i>What am I supposed to believe?</i> ♪
+
+1076
+01:33:16,424 --> 01:33:19,791
+♪ <i>You're like someone
+new to me, baby</i> ♪
+
+1077
+01:33:19,860 --> 01:33:22,795
+♪ <i>You've changed,
+changed, changed</i> ♪
+
+1078
+01:33:24,799 --> 01:33:27,768
+♪ <i>What you want
+to do to me, baby?</i> ♪
+
+1079
+01:33:27,835 --> 01:33:30,633
+♪ <i>It's strange, so strange</i> ♪
+
+1080
+01:33:32,073 --> 01:33:35,600
+♪ <i>You don't seem
+like you to me, baby</i> ♪
+
+1081
+01:33:35,676 --> 01:33:41,114
+♪ <i>You've cha-aanged</i> ♪
+
+1082
+01:33:45,119 --> 01:33:47,815
+♪ <i>Seems impossible, baby</i> ♪
+
+1083
+01:33:47,888 --> 01:33:52,154
+♪ <i>You don't even look
+the same</i> ♪
+
+1084
+01:33:52,226 --> 01:33:55,787
+♪ <i>A whole new kind
+of animal, baby</i> ♪
+
+1085
+01:33:55,863 --> 01:34:00,630
+♪ <i>But too wild to tame</i> ♪
+
+1086
+01:34:00,701 --> 01:34:03,761
+♪ <i>You're like someone
+new to me, baby</i> ♪
+
+1087
+01:34:03,838 --> 01:34:06,966
+♪ <i>You've changed,
+changed, changed</i> ♪
+
+1088
+01:34:08,743 --> 01:34:11,837
+♪ <i>What you want
+to do to me, baby?</i> ♪
+
+1089
+01:34:11,912 --> 01:34:14,676
+♪ <i>It's strange, so strange</i> ♪
+
+1090
+01:34:16,384 --> 01:34:19,876
+♪ <i>You don't seem
+like you to me, baby</i> ♪
+
+1091
+01:34:19,954 --> 01:34:25,085
+♪ <i>You've cha-aanged</i> ♪
+
+1092
+01:34:36,237 --> 01:34:39,638
+♪ <i>You're like someone
+new to me, baby</i> ♪
+
+1093
+01:34:39,707 --> 01:34:42,904
+♪ <i>You've changed,
+changed, changed</i> ♪
+
+1094
+01:34:44,812 --> 01:34:47,906
+♪ <i>What you want
+to do to me, baby?</i> ♪
+
+1095
+01:34:47,982 --> 01:34:50,780
+♪ <i>It's strange, so strange</i> ♪
+
+1096
+01:34:52,620 --> 01:34:55,851
+♪ <i>You're like someone
+new to me, baby</i> ♪
+
+1097
+01:34:55,923 --> 01:34:58,790
+♪ <i>You've changed,
+changed, changed</i> ♪
+
+1098
+01:35:00,728 --> 01:35:03,697
+♪ <i>The crazy things
+you do to me, baby</i> ♪
+
+1099
+01:35:03,764 --> 01:35:06,858
+♪ <i>They're strange, so strange</i> ♪
+
+1100
+01:35:08,703 --> 01:35:11,934
+♪ <i>You don't seem
+like you to me, baby</i> ♪
+
+1101
+01:35:12,006 --> 01:35:16,966
+♪ <i>You've cha-aanged</i> ♪
+
+1102
+01:35:28,389 --> 01:35:30,721
+♪ <i>Changed, changed, changed</i> ♪
+
+1103
+01:35:32,126 --> 01:35:35,892
+♪ <i>You don't seem
+like you to me, baby</i> ♪
+
+1104
+01:35:35,963 --> 01:35:39,194
+♪ <i>You've changed,
+changed, changed</i> ♪
+
+1105
+01:35:40,601 --> 01:35:43,502
+♪ <i>You're like someone new to me</i> ♪
+
+1106
+01:35:43,571 --> 01:35:46,836
+♪ <i>You've changed,
+changed, changed</i> ♪
+
+1107
+01:35:46,907 --> 01:35:52,004
+♪ <i>Oh, the crazy things
+you do to me, baby</i> ♪
+
+1108
+01:35:52,079 --> 01:35:55,640
+♪ <i>You've changed,
+changed, changed</i> ♪
+
+1109
+01:35:55,716 --> 01:35:58,116
+♪ <i>I was used to you.</i> ♪
+
+1110
+01:36:00,955 --> 01:36:04,618
+<i>(harpsichord music playing)</i>
+
+1111
+01:36:50,437 --> 01:36:52,200
+(music stops)
+

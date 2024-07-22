@@ -1,0 +1,8062 @@
+﻿1
+00:01:26,533 --> 00:03:48,401
+_
+
+2
+00:03:51,434 --> 00:03:52,567
+<i>♪ All aboard!</i>
+
+3
+00:03:54,034 --> 00:03:55,467
+<i>♪ Hip-hop's dead</i>
+
+4
+00:03:55,601 --> 00:03:56,667
+<i>♪ That's what they said on the news</i>
+
+5
+00:03:56,668 --> 00:03:57,701
+<i>♪ Nah, it's still alive</i>
+
+6
+00:03:57,833 --> 00:03:58,913
+<i>♪ But it's getting confused</i>
+
+7
+00:03:58,967 --> 00:04:00,334
+<i>♪ So there's no time to waste</i>
+
+8
+00:04:00,467 --> 00:04:01,467
+<i>♪ Not a second to lose</i>
+
+9
+00:04:01,601 --> 00:04:02,801
+<i>♪ 'Cause the clocks don't stop</i>
+
+10
+00:04:02,833 --> 00:04:04,034
+<i>♪ When you set 'em to snooze</i>
+
+11
+00:04:04,167 --> 00:04:05,800
+<i>♪ And it just don't stop</i>
+
+12
+00:04:05,933 --> 00:04:07,000
+<i>♪ 'Cause the time rolls</i>
+
+13
+00:04:07,134 --> 00:04:08,367
+<i>♪ On and on and on</i>
+
+14
+00:04:08,501 --> 00:04:09,933
+<i>♪ To the next stop</i>
+
+15
+00:04:10,067 --> 00:04:11,027
+<i>♪ And it just won't stop</i>
+
+16
+00:04:11,134 --> 00:04:12,167
+<i>♪ Because life goes</i>
+
+17
+00:04:12,301 --> 00:04:14,234
+<i>♪ On and on and on</i>
+
+18
+00:04:14,367 --> 00:04:15,533
+<i>♪ To the next stop
+♪ What, that's how it goes</i>
+
+19
+00:04:15,534 --> 00:04:16,900
+<i>♪ When you hop on the line</i>
+
+20
+00:04:17,034 --> 00:04:18,133
+<i>♪ You'll find anything you like</i>
+
+21
+00:04:18,134 --> 00:04:19,167
+<i>♪ But you can't buy time</i>
+
+22
+00:04:19,301 --> 00:04:20,341
+<i>♪ And there ain't no pause</i>
+
+23
+00:04:20,367 --> 00:04:21,667
+<i>♪ No press rewind</i>
+
+24
+00:04:21,700 --> 00:04:23,900
+<i>♪ So you don't want to get left behind ♪</i>
+
+25
+00:04:25,501 --> 00:04:28,034
+BOY: Extra! Extra!
+Read all about it!
+
+26
+00:04:28,167 --> 00:04:30,267
+Moriarty's crime spree over!
+
+27
+00:04:30,401 --> 00:04:34,000
+Professor James Moriarty
+faces justice today!
+
+28
+00:04:34,134 --> 00:04:36,600
+The Napoleon of crime on trial!
+
+29
+00:04:36,733 --> 00:04:39,967
+- Greatest criminal in the empire!
+- That's fake news.
+
+30
+00:04:40,867 --> 00:04:43,401
+(GAVEL BANGS) JUDGE:
+Professor James Moriarty.
+
+31
+00:04:43,434 --> 00:04:46,034
+You have been the organizer
+of half that is evil
+
+32
+00:04:46,167 --> 00:04:50,334
+and all that goes undetected
+in this great city.
+
+33
+00:04:50,467 --> 00:04:54,601
+Today, you are charged with
+murder in the first degree,
+
+34
+00:04:54,734 --> 00:04:58,601
+but all the witnesses have died.
+
+35
+00:04:58,734 --> 00:05:03,000
+Without said witnesses, I have
+no choice but to set you free.
+
+36
+00:05:03,134 --> 00:05:04,768
+(GALLERY MURMURING)
+
+37
+00:05:06,768 --> 00:05:08,467
+Inspector Lestrade,
+
+38
+00:05:08,601 --> 00:05:11,634
+you simply must take
+better care of your witnesses.
+
+39
+00:05:11,768 --> 00:05:14,734
+(GALLERY JEERING)
+
+40
+00:05:14,867 --> 00:05:16,434
+Mark my words,
+
+41
+00:05:16,567 --> 00:05:18,967
+Sherlock Holmes is
+on his way and, with him,
+
+42
+00:05:19,100 --> 00:05:22,034
+the evidence that will
+damn you to the noose.
+
+43
+00:05:22,167 --> 00:05:25,967
+Then we should all pray he arrives soon,
+for, on the strike of noon,
+
+44
+00:05:26,100 --> 00:05:28,367
+I shall have to release this menace.
+
+45
+00:05:28,501 --> 00:05:29,967
+Sherlock will be here.
+
+46
+00:05:30,100 --> 00:05:33,434
+He is about to burst through
+those doors right now.
+
+47
+00:05:40,901 --> 00:05:43,300
+Stop this trial at once!
+
+48
+00:05:43,434 --> 00:05:45,367
+I, Sherlock Holmes,
+
+49
+00:05:45,500 --> 00:05:48,867
+have solved the case
+of Professor James Moriarty.
+
+50
+00:05:49,001 --> 00:05:51,534
+Wonderful.
+Wonderful, Holmes.
+
+51
+00:05:51,667 --> 00:05:54,634
+A dramatic entrance worthy
+of your greatest achievement.
+
+52
+00:05:54,767 --> 00:05:57,467
+Watson, did you notice my emphasis
+
+53
+00:05:57,600 --> 00:05:59,734
+on "Professor James Moriarty"?
+
+54
+00:05:59,867 --> 00:06:01,200
+Yes, with the finger, yes.
+
+55
+00:06:01,333 --> 00:06:03,001
+Much better than the hand.
+Yes.
+
+56
+00:06:03,134 --> 00:06:05,901
+Instead of the karate chop,
+I went to the index finger.
+
+57
+00:06:06,034 --> 00:06:07,667
+Yes, it's the best one yet.
+
+58
+00:06:07,801 --> 00:06:10,434
+This is the moment everyone's
+been waiting for. Right here.
+
+59
+00:06:10,567 --> 00:06:13,901
+Yes, and they're literally
+waiting for it now.
+
+60
+00:06:14,034 --> 00:06:15,534
+Oh, yes.
+You must get dressed.
+
+61
+00:06:15,667 --> 00:06:16,901
+Yes?
+Very well.
+
+62
+00:06:17,034 --> 00:06:18,634
+There we are.
+There are your things.
+
+63
+00:06:18,767 --> 00:06:20,500
+Remember, trial of the century. Yes.
+
+64
+00:06:20,634 --> 00:06:22,567
+We have but...
+Oh, let's see now.
+
+65
+00:06:22,701 --> 00:06:24,534
+Just 16 minutes left, Holmes.
+
+66
+00:06:24,801 --> 00:06:27,501
+- Nearly there?
+- HOLMES: Nearly there.
+
+67
+00:06:27,634 --> 00:06:31,434
+A sniff of morning cocaine
+always helps the brain. Ah!
+
+68
+00:06:31,567 --> 00:06:32,768
+Come now, Sherlock.
+
+69
+00:06:32,900 --> 00:06:34,668
+We mustn't let that trial conclude.
+
+70
+00:06:34,800 --> 00:06:38,467
+For this occasion,
+I have selected a new hat.
+
+71
+00:06:38,601 --> 00:06:41,933
+From now on, when people utter
+the name "Sherlock Holmes,"
+
+72
+00:06:42,067 --> 00:06:45,000
+they will picture this.
+
+73
+00:06:47,867 --> 00:06:50,400
+Brilliant. Can we go?
+
+74
+00:06:50,534 --> 00:06:52,834
+Your furrowed brow
+betrays your lying lips.
+
+75
+00:06:52,967 --> 00:06:54,134
+Oh, no.
+
+76
+00:06:54,267 --> 00:06:55,534
+Not to worry.
+
+77
+00:06:55,667 --> 00:06:56,834
+Ta-da!
+
+78
+00:06:56,967 --> 00:06:58,834
+Hey, there, cowboy.
+(LAUGHS)
+
+79
+00:06:58,967 --> 00:07:00,734
+That's the one. That's the one.
+Bang, bang.
+
+80
+00:07:00,867 --> 00:07:02,333
+We should leave, yes?
+
+81
+00:07:02,467 --> 00:07:04,134
+Oh!
+Aye, aye.
+
+82
+00:07:04,267 --> 00:07:05,867
+I say, I like that one very much.
+
+83
+00:07:06,001 --> 00:07:08,434
+You don't want to be late, Mr. Holmes.
+
+84
+00:07:08,567 --> 00:07:11,901
+(GASPS) Mrs. Hudson,
+what do you think of this one?
+
+85
+00:07:12,034 --> 00:07:15,734
+Me? I'm just a housekeeper
+from the Glasgow slums.
+
+86
+00:07:15,867 --> 00:07:19,434
+The likes of me telling the likes
+of you what to put on his noggin?
+
+87
+00:07:20,134 --> 00:07:21,400
+Good point.
+
+88
+00:07:21,534 --> 00:07:23,267
+Back to your monkey work, Hudson.
+
+89
+00:07:24,834 --> 00:07:26,767
+(WATSON CLEARS THROAT)
+
+90
+00:07:26,901 --> 00:07:29,199
+- WATSON: Perfect, right?
+- HOLMES: May I show you a few more hats?
+
+91
+00:07:29,200 --> 00:07:31,001
+- WATSON: No!
+- Someone's left a wee box.
+
+92
+00:07:31,134 --> 00:07:32,434
+What are you going on about?
+
+93
+00:07:32,468 --> 00:07:36,534
+I never even heard anyone knocking.
+Did you hear anything?
+
+94
+00:07:36,667 --> 00:07:37,967
+How very queer.
+
+95
+00:07:40,534 --> 00:07:43,667
+- Queerer and queerer.
+- HOLMES: Hmm.
+
+96
+00:07:43,801 --> 00:07:45,068
+Very odd.
+
+97
+00:07:46,101 --> 00:07:47,168
+(INSECT BUZZING)
+
+98
+00:07:47,300 --> 00:07:48,667
+Watson, no.
+
+99
+00:07:48,801 --> 00:07:50,100
+Holmes, why are you
+getting so exercised?
+
+100
+00:07:50,101 --> 00:07:52,200
+It's merely an empty box.
+
+101
+00:07:52,333 --> 00:07:55,068
+(GASPS)
+Watson, this is sent from Moriarty.
+
+102
+00:07:55,200 --> 00:07:56,734
+He means to kill us.
+
+103
+00:07:56,867 --> 00:07:57,867
+Listen.
+
+104
+00:07:58,001 --> 00:08:00,168
+(INSECT BUZZING)
+
+105
+00:08:00,300 --> 00:08:01,901
+Shut that window.
+
+106
+00:08:02,034 --> 00:08:04,194
+If this winged menace escapes,
+it may cause a pandemic.
+
+107
+00:08:04,200 --> 00:08:05,567
+A killer mosquito?
+
+108
+00:08:05,701 --> 00:08:07,567
+The insect is infected
+with African plague.
+
+109
+00:08:07,701 --> 00:08:10,034
+One bite means death.
+
+110
+00:08:10,168 --> 00:08:12,333
+Now, dance a Dutch jig.
+
+111
+00:08:13,400 --> 00:08:15,901
+<i>♪ ♪</i>
+
+112
+00:08:16,034 --> 00:08:19,734
+You don't have to ask me twice
+to do a Dutch jig, but why?
+
+113
+00:08:19,867 --> 00:08:22,567
+Your body heat will attract
+him to dine on your flesh.
+
+114
+00:08:22,701 --> 00:08:23,600
+Brilliant.
+
+115
+00:08:23,734 --> 00:08:26,333
+Hold! Don't move.
+
+116
+00:08:26,467 --> 00:08:28,034
+Where is it?
+Right there.
+
+117
+00:08:28,168 --> 00:08:29,608
+There. Right there on your forehead.
+
+118
+00:08:29,667 --> 00:08:31,901
+Kill it, Holmes.
+I'm going to kill it.
+
+119
+00:08:32,034 --> 00:08:33,068
+(BUZZING)
+
+120
+00:08:33,200 --> 00:08:34,867
+There it is.
+Where?
+
+121
+00:08:35,001 --> 00:08:37,001
+Hold, hold. No, no.
+Where?
+
+122
+00:08:37,134 --> 00:08:38,400
+(BUZZING)
+
+123
+00:08:38,534 --> 00:08:39,967
+(GROANS) No, hold, hold.
+
+124
+00:08:40,101 --> 00:08:41,034
+Is it biting?
+
+125
+00:08:41,168 --> 00:08:42,333
+(BOTH GRUNTING)
+
+126
+00:08:43,101 --> 00:08:44,068
+I hear it.
+
+127
+00:08:45,367 --> 00:08:47,500
+(GRUNTS)
+(GROANING)
+
+128
+00:08:47,634 --> 00:08:48,634
+I see it.
+
+129
+00:08:49,600 --> 00:08:50,834
+(BUZZING)
+
+130
+00:08:50,967 --> 00:08:52,333
+The tip!
+
+131
+00:08:52,467 --> 00:08:54,333
+Don't worry, boys.
+I brought a net.
+
+132
+00:08:54,467 --> 00:08:55,901
+(GROANS)
+
+133
+00:08:57,267 --> 00:08:59,400
+(BEES BUZZING)
+
+134
+00:09:03,801 --> 00:09:06,901
+It is now seven minutes before noon.
+
+135
+00:09:07,001 --> 00:09:10,034
+Upon the lowering of my gavel,
+
+136
+00:09:10,167 --> 00:09:12,634
+the charges shall be dismissed.
+
+137
+00:09:12,767 --> 00:09:15,600
+(GALLERY GASPING, MURMURING)
+I shall raise my gavel in the air
+
+138
+00:09:15,734 --> 00:09:19,067
+that so... and then bring it down
+
+139
+00:09:19,201 --> 00:09:23,234
+briskly, making a satisfying bang,
+
+140
+00:09:23,368 --> 00:09:28,200
+at which point the prisoner
+shall go free.
+
+141
+00:09:28,334 --> 00:09:29,567
+(GALLERY GASPS)
+
+142
+00:09:31,301 --> 00:09:32,867
+(BUZZING)
+
+143
+00:09:40,567 --> 00:09:42,167
+HOLMES: <i>Angle of approach.</i>
+
+144
+00:09:42,301 --> 00:09:44,200
+<i>Compensate for warp in floor.</i>
+
+145
+00:09:44,334 --> 00:09:46,900
+<i>Count for resistance due to dust motes.</i>
+
+146
+00:09:47,034 --> 00:09:48,567
+<i>Probable outcome,</i>
+
+147
+00:09:48,701 --> 00:09:50,381
+<i>termination of mosquito.</i>
+(MOSQUITO SQUEAKS)
+
+148
+00:09:50,401 --> 00:09:52,933
+<i>Integrity of bee habitat maintained.</i>
+
+149
+00:09:53,067 --> 00:09:55,501
+<i>Deadly bee swarm averted.</i>
+
+150
+00:09:57,200 --> 00:09:58,401
+(GRUNTS)
+(SQUISHES)
+
+151
+00:09:58,534 --> 00:09:59,567
+(BEES BUZZING)
+
+152
+00:10:00,101 --> 00:10:02,168
+(GASPS)
+The mosquito's vanquished.
+
+153
+00:10:02,300 --> 00:10:03,867
+(SIGHS)
+Well done, Holmes.
+
+154
+00:10:04,001 --> 00:10:07,634
+It's a simple matter of
+geometry, entomology and physics.
+
+155
+00:10:07,767 --> 00:10:09,701
+(QUIET CRACKLING)
+
+156
+00:10:11,333 --> 00:10:12,234
+(GLASS SHATTERING)
+
+157
+00:10:12,267 --> 00:10:15,334
+Oh, my God!
+Oh, shit.
+
+158
+00:10:15,467 --> 00:10:19,134
+Watson! Stop panicking!
+We can disable the queen.
+
+159
+00:10:19,267 --> 00:10:20,967
+It's making them angry, Holmes!
+
+160
+00:10:27,700 --> 00:10:29,368
+Oh, my God.
+What are they doing?
+
+161
+00:10:29,500 --> 00:10:30,934
+They're turning this way!
+
+162
+00:10:31,067 --> 00:10:33,700
+Just do anything!
+Help me!
+
+163
+00:10:35,700 --> 00:10:36,767
+It's working!
+
+164
+00:10:36,901 --> 00:10:38,433
+It's not working!
+
+165
+00:10:38,567 --> 00:10:40,533
+Get it off!
+It's not working!
+
+166
+00:10:40,667 --> 00:10:41,734
+(WATSON GRUNTS)
+
+167
+00:10:41,867 --> 00:10:43,767
+Holmes, we retreat.
+
+168
+00:10:43,901 --> 00:10:46,800
+Run for safety. I'll lead them away.
+(GRUNTING)
+
+169
+00:10:46,934 --> 00:10:48,700
+(SCREAMING, GROANS)
+
+170
+00:10:48,834 --> 00:10:50,800
+(BEES BUZZING)
+
+171
+00:10:50,934 --> 00:10:52,433
+(HORSE NEIGHS)
+
+172
+00:10:52,567 --> 00:10:54,234
+(CLOCK TICKING)
+
+173
+00:11:02,001 --> 00:11:03,734
+(GALLERY GASPS)
+
+174
+00:11:06,667 --> 00:11:08,234
+(GUNSHOT)
+(GALLERY GASPING)
+
+175
+00:11:08,368 --> 00:11:10,201
+Stop this trial!
+
+176
+00:11:10,334 --> 00:11:12,700
+(GALLERY MURMURING, YELLING)
+
+177
+00:11:19,234 --> 00:11:22,967
+May I present to you
+the greatest detective of all time,
+
+178
+00:11:23,101 --> 00:11:26,767
+solver of the unsolvable,
+untier of Gordian knots,
+
+179
+00:11:26,901 --> 00:11:31,967
+bester of conundrums,
+the great Sherlock Holmes.
+
+180
+00:11:32,101 --> 00:11:33,634
+(GALLERY CHEERING)
+
+181
+00:11:33,767 --> 00:11:36,368
+GALLERY: (CHANTING)
+Sherlock! Sherlock! Sherlock!
+
+182
+00:11:36,500 --> 00:11:39,234
+Sherlock! Sherlock! Sherlock!
+
+183
+00:11:39,368 --> 00:11:41,767
+Stop this trial at once!
+
+184
+00:11:44,867 --> 00:11:47,134
+(MAN GROANS)
+
+185
+00:11:47,268 --> 00:11:49,600
+JUDGE: Thank goodness
+you've arrived, Mr. Holmes.
+
+186
+00:11:49,734 --> 00:11:53,101
+Now, what startling new evidence
+do you have for the court?
+
+187
+00:11:53,234 --> 00:11:54,467
+I am the evidence.
+
+188
+00:11:54,600 --> 00:11:55,934
+(GALLERY GASPING, MURMURING)
+
+189
+00:11:56,135 --> 00:11:59,135
+Inspector Lestrade,
+call the police office.
+
+190
+00:11:59,336 --> 00:12:02,736
+_
+
+191
+00:12:03,337 --> 00:12:05,737
+_ _
+
+192
+00:12:05,938 --> 00:12:08,338
+_ _ _
+
+193
+00:12:08,339 --> 00:12:10,739
+_ _ _ _
+
+194
+00:12:10,740 --> 00:12:12,540
+_ _ _ _ _
+
+195
+00:12:12,541 --> 00:12:15,141
+_
+
+196
+00:12:15,442 --> 00:12:17,242
+_ _
+
+197
+00:12:17,243 --> 00:12:19,643
+_ _ _
+
+198
+00:12:19,644 --> 00:12:22,544
+_
+
+199
+00:12:22,545 --> 00:12:26,145
+_ _
+
+200
+00:12:26,146 --> 00:12:27,546
+_ _ _
+
+201
+00:12:27,947 --> 00:12:31,947
+_
+
+202
+00:12:32,148 --> 00:12:34,948
+_ _
+
+203
+00:12:34,949 --> 00:12:38,949
+_ _ _
+
+204
+00:12:39,067 --> 00:12:41,668
+Now... I recall the day vividly.
+
+205
+00:12:41,800 --> 00:12:44,067
+<i>I arrived at the crime scene alone.</i>
+
+206
+00:12:44,200 --> 00:12:47,167
+<i>Completely and utterly alone.</i>
+
+207
+00:12:47,301 --> 00:12:48,967
+(SIGHS, SCOFFS)
+
+208
+00:12:49,000 --> 00:12:52,767
+I meticulously inspected every
+nook and cranny of that study,
+
+209
+00:12:52,801 --> 00:12:57,868
+hunting for clues, much like
+a panther stalks its prey.
+
+210
+00:13:00,434 --> 00:13:02,767
+(ROARS)
+(ALL GASP)
+
+211
+00:13:02,901 --> 00:13:04,801
+And as I stood there,
+
+212
+00:13:04,934 --> 00:13:08,200
+<i>I began to employ
+a groundbreaking new technique.</i>
+
+213
+00:13:08,334 --> 00:13:09,934
+Right there.
+
+214
+00:13:10,067 --> 00:13:12,667
+Behold! Fingerprints.
+(GALLERY MURMURING)
+
+215
+00:13:12,801 --> 00:13:16,734
+Imagine a print
+being taken from a finger.
+
+216
+00:13:17,434 --> 00:13:18,567
+I love it.
+
+217
+00:13:18,701 --> 00:13:21,234
+How do these prove Moriarty's guilt?
+
+218
+00:13:23,200 --> 00:13:24,868
+(SHELL CASINGS CLINKING)
+
+219
+00:13:25,000 --> 00:13:27,000
+Watson.
+
+220
+00:13:27,133 --> 00:13:30,033
+Moriarty would never leave
+a trail of clues,
+
+221
+00:13:30,167 --> 00:13:31,834
+which begs the question,
+
+222
+00:13:31,968 --> 00:13:33,634
+why was this crime scene
+
+223
+00:13:33,767 --> 00:13:37,467
+so uncharacteristically
+littered with fingerprints?
+
+224
+00:13:37,601 --> 00:13:39,200
+Good work, Watson.
+
+225
+00:13:39,334 --> 00:13:40,633
+Thank you. I just thought
+of what you might have done.
+
+226
+00:13:40,634 --> 00:13:42,467
+I compared these prints
+
+227
+00:13:42,601 --> 00:13:45,667
+to those of the man standing before you.
+
+228
+00:13:45,801 --> 00:13:47,267
+A perfect match.
+
+229
+00:13:47,400 --> 00:13:50,667
+Unequivocal proof that this man
+
+230
+00:13:50,801 --> 00:13:53,167
+- is innocent.
+- LESTRADE: What?
+
+231
+00:13:53,300 --> 00:13:54,767
+But if those are Moriarty's prints,
+
+232
+00:13:54,901 --> 00:13:56,868
+then Moriarty is the murderer.
+
+233
+00:13:57,000 --> 00:13:59,367
+This man is not Moriarty.
+
+234
+00:13:59,501 --> 00:14:01,333
+(GALLERY GASPING) MAN:
+He sure looks like Moriarty.
+
+235
+00:14:01,334 --> 00:14:05,133
+He's an impostor.
+His name is Jacob Musgrave.
+
+236
+00:14:05,267 --> 00:14:07,601
+A complete look-alike, a doppelganger.
+
+237
+00:14:07,734 --> 00:14:11,701
+A patsy framed to hang
+for Moriarty's crimes,
+
+238
+00:14:11,834 --> 00:14:14,601
+so that I may abandon my pursuit of him
+
+239
+00:14:14,734 --> 00:14:17,367
+and he can begin life anew in America.
+
+240
+00:14:17,501 --> 00:14:21,133
+Why would an innocent man agree
+to hang for Moriarty's crimes?
+
+241
+00:14:21,267 --> 00:14:24,734
+Elementary.
+This man is terminally ill.
+
+242
+00:14:24,868 --> 00:14:27,567
+Look at him.
+His pallid complexion.
+
+243
+00:14:27,701 --> 00:14:29,901
+The palsy in his left hand.
+
+244
+00:14:30,033 --> 00:14:31,734
+Wait. I know.
+He's an onanist.
+
+245
+00:14:31,868 --> 00:14:34,968
+Yes, of the most enthusiastic kind.
+
+246
+00:14:35,100 --> 00:14:36,501
+MAN: What's an onanist?
+
+247
+00:14:36,634 --> 00:14:38,300
+WATSON: He...
+Let's see.
+
+248
+00:14:38,434 --> 00:14:40,901
+He pours his own tea.
+
+249
+00:14:42,801 --> 00:14:46,667
+He likes to create his own sauce.
+
+250
+00:14:46,801 --> 00:14:50,267
+- He is a saucier.
+- GALLERY: Huh?
+
+251
+00:14:50,400 --> 00:14:53,868
+And the name of his restaurant
+is Crotch Kitchen.
+
+252
+00:14:54,000 --> 00:14:57,133
+On a daily basis,
+he creams his own eclair.
+
+253
+00:14:57,267 --> 00:15:01,334
+He is Romeo and Juliet.
+
+254
+00:15:01,467 --> 00:15:03,434
+That should do it.
+
+255
+00:15:03,567 --> 00:15:06,167
+- This here.
+- MAN: Oh, he's a wanker.
+
+256
+00:15:06,300 --> 00:15:07,334
+WATSON: Thank you.
+
+257
+00:15:07,467 --> 00:15:09,200
+Sorry, ladies.
+(CHUCKLES)
+
+258
+00:15:09,334 --> 00:15:12,667
+This chap here had nothing
+to lose by being executed.
+
+259
+00:15:12,801 --> 00:15:15,501
+He was literally dying by his own hand.
+
+260
+00:15:16,467 --> 00:15:17,968
+It causes death, you see.
+
+261
+00:15:18,100 --> 00:15:21,200
+The infallible Sherlock Holmes
+has indeed spoken.
+
+262
+00:15:21,334 --> 00:15:24,801
+In light of his testimony, I order
+the release of the suspect.
+
+263
+00:15:24,934 --> 00:15:30,534
+What? This is an outrage!
+Do not let this murderer free.
+
+264
+00:15:30,667 --> 00:15:33,968
+Bang, bang, bang!
+Court is adjourned.
+
+265
+00:15:34,100 --> 00:15:36,067
+Sherlock Holmes has done it again!
+
+266
+00:15:36,200 --> 00:15:39,534
+(CHEERING AND APPLAUSE)
+
+267
+00:15:39,667 --> 00:15:41,334
+Why are you cheering?
+
+268
+00:15:42,334 --> 00:15:43,868
+Sherlock!
+
+269
+00:15:44,000 --> 00:15:47,033
+GALLERY: (CHANTING)
+Sherlock! Sherlock! Sherlock!
+
+270
+00:15:47,167 --> 00:15:48,666
+WATSON: That couldn't have gone better.
+
+271
+00:15:48,667 --> 00:15:49,934
+HOLMES: It couldn't have.
+
+272
+00:15:50,067 --> 00:15:51,500
+And I tell you, that case was rather...
+
+273
+00:15:51,501 --> 00:15:54,267
+It took us three years to catch him.
+
+274
+00:15:54,400 --> 00:15:56,934
+If we release him now,
+we may never find him again.
+
+275
+00:15:57,067 --> 00:16:00,400
+Put aside your ego and admit I am right.
+
+276
+00:16:00,534 --> 00:16:04,467
+I am afraid Moriarty's
+long gone to America.
+
+277
+00:16:04,601 --> 00:16:07,434
+Whatever crimes Moriarty
+commits from now on
+
+278
+00:16:07,567 --> 00:16:08,868
+are on your head.
+
+279
+00:16:11,100 --> 00:16:13,100
+WATSON: I quite like
+seeing Lestrade upset.
+
+280
+00:16:13,234 --> 00:16:15,000
+(LAUGHS) Yeah. I do, too.
+
+281
+00:16:15,133 --> 00:16:16,801
+(HORSE NEIGHS)
+
+282
+00:16:16,934 --> 00:16:19,534
+(VIOLIN PLAYING)
+
+283
+00:16:19,667 --> 00:16:23,200
+WATSON: Professor James
+Moriarty fled to the Americas
+
+284
+00:16:23,334 --> 00:16:28,968
+and would never darken England again.
+
+285
+00:16:29,100 --> 00:16:30,660
+(VIOLIN PLAYING OFF-KEY)
+(HOLMES GROANS)
+
+286
+00:16:31,167 --> 00:16:32,834
+(GRUNTING)
+
+287
+00:16:32,935 --> 00:16:36,035
+_
+
+288
+00:16:36,236 --> 00:16:41,236
+_ _
+
+289
+00:16:58,534 --> 00:16:59,834
+Holmes.
+
+290
+00:17:00,634 --> 00:17:02,267
+Are you upset?
+
+291
+00:17:02,400 --> 00:17:04,500
+It's just that Moriarty
+was the whetstone
+
+292
+00:17:04,634 --> 00:17:06,734
+upon which I sharpened my mental blade.
+
+293
+00:17:06,867 --> 00:17:11,168
+With him gone, not there
+to challenge me, why go on?
+
+294
+00:17:11,300 --> 00:17:14,034
+Instead, I shall occupy
+my great, great mind
+
+295
+00:17:14,168 --> 00:17:16,400
+with nutritional science.
+
+296
+00:17:16,534 --> 00:17:17,901
+My research suggests
+
+297
+00:17:18,034 --> 00:17:20,667
+that the sulfurous compounds
+of the common onion
+
+298
+00:17:20,801 --> 00:17:23,034
+can increase your red blood cells.
+
+299
+00:17:23,168 --> 00:17:24,634
+Vital for human health.
+
+300
+00:17:24,767 --> 00:17:26,134
+(GRUNTING)
+
+301
+00:17:26,267 --> 00:17:28,034
+Just bite it like an apple, eh?
+Mmm-hmm.
+
+302
+00:17:28,168 --> 00:17:29,834
+(HOLMES EXCLAIMING)
+(GASPING)
+
+303
+00:17:29,967 --> 00:17:31,834
+(COUGHING, CHOKING)
+
+304
+00:17:31,967 --> 00:17:34,300
+Definitely takes four or five bites.
+
+305
+00:17:34,434 --> 00:17:37,001
+(GRUNTING)
+
+306
+00:17:37,134 --> 00:17:38,734
+Are we meant to eat the whole thing?
+
+307
+00:17:38,867 --> 00:17:40,467
+The whole thing.
+
+308
+00:17:40,600 --> 00:17:44,068
+Let the juice slither
+down the back of your throat.
+
+309
+00:17:44,200 --> 00:17:46,500
+(GAGGING)
+
+310
+00:17:46,634 --> 00:17:49,333
+(COUGHING)
+Congratulations, Holmes.
+
+311
+00:17:49,467 --> 00:17:51,534
+You're not only
+the smartest man in London,
+
+312
+00:17:51,667 --> 00:17:53,767
+you shall soon be the healthiest.
+
+313
+00:17:53,901 --> 00:17:54,901
+Indeed.
+
+314
+00:17:56,034 --> 00:17:59,101
+Now, where's my opium?
+
+315
+00:17:59,233 --> 00:18:00,701
+Um...
+(GROANS)
+
+316
+00:18:00,834 --> 00:18:01,767
+Mrs. Hudson!
+
+317
+00:18:01,901 --> 00:18:03,934
+Hudson!
+Hudson!
+
+318
+00:18:04,068 --> 00:18:05,333
+Help!
+
+319
+00:18:05,467 --> 00:18:07,534
+Hudson, Watson has stuck
+a carrot up my bum!
+
+320
+00:18:07,667 --> 00:18:08,867
+Hudson, help!
+
+321
+00:18:09,001 --> 00:18:10,934
+Fire! Fire!
+Call the police!
+
+322
+00:18:11,068 --> 00:18:12,667
+Hudson, your mother has died!
+
+323
+00:18:12,801 --> 00:18:14,534
+You brain-dead bag of bones!
+
+324
+00:18:14,667 --> 00:18:17,534
+Hudson!
+Hudson!
+
+325
+00:18:17,667 --> 00:18:18,667
+Hudson!
+
+326
+00:18:18,801 --> 00:18:20,667
+Hudson, where are you?
+
+327
+00:18:20,801 --> 00:18:22,001
+Uh...
+(SCOFFS)
+
+328
+00:18:22,134 --> 00:18:23,867
+HOLMES: Did you not hear any of that?
+
+329
+00:18:24,001 --> 00:18:25,834
+We screamed "fire."
+Where?
+
+330
+00:18:25,967 --> 00:18:27,534
+And we were screaming your name.
+
+331
+00:18:27,667 --> 00:18:29,134
+You were just there in my bedroom?
+
+332
+00:18:29,267 --> 00:18:30,300
+(ZIPPER CLOSES)
+
+333
+00:18:30,934 --> 00:18:31,901
+Oh.
+
+334
+00:18:33,134 --> 00:18:34,168
+(SCOFFS)
+
+335
+00:18:34,369 --> 00:19:40,869
+_ _ _
+
+336
+00:19:40,932 --> 00:19:43,199
+Shut up.
+Come on.
+
+337
+00:19:43,333 --> 00:19:46,766
+No wonder my room always
+smells like fish pie and swamp.
+
+338
+00:19:49,832 --> 00:19:50,832
+(DOOR CLOSES)
+
+339
+00:19:50,965 --> 00:19:52,333
+This came for you.
+
+340
+00:19:52,466 --> 00:19:53,865
+Hmm.
+
+341
+00:19:53,999 --> 00:19:57,199
+Sealed by hands unused to manual labor.
+
+342
+00:19:57,333 --> 00:19:58,366
+WATSON: Hmm.
+
+343
+00:19:59,800 --> 00:20:01,299
+Hmm.
+
+344
+00:20:01,433 --> 00:20:03,999
+Saliva from a protein-rich
+diet of chicken kidneys.
+
+345
+00:20:04,132 --> 00:20:06,533
+Why, Watson, it's from the Queen.
+
+346
+00:20:06,666 --> 00:20:08,032
+(EXCLAIMS)
+Huh.
+
+347
+00:20:08,166 --> 00:20:10,399
+Seems Her Majesty requests my services.
+
+348
+00:20:10,533 --> 00:20:13,366
+A crime that has baffled
+even her closest advisors,
+
+349
+00:20:13,499 --> 00:20:16,333
+and only my singular intellect
+can solve it.
+
+350
+00:20:16,466 --> 00:20:17,733
+Well, well, well,
+
+351
+00:20:17,865 --> 00:20:19,832
+look who's back in the game.
+
+352
+00:20:21,700 --> 00:20:23,060
+HOLMES: Watson, are you all right?
+
+353
+00:20:23,132 --> 00:20:24,865
+WATSON: I'm just very nervous.
+
+354
+00:20:24,999 --> 00:20:26,865
+I've not met the Queen before.
+
+355
+00:20:32,099 --> 00:20:33,533
+Deep breath.
+Your Majesty,
+
+356
+00:20:33,666 --> 00:20:35,666
+Sherlock Holmes and Dr. John Watson.
+
+357
+00:20:35,800 --> 00:20:38,266
+(WATSON BREATHING HEAVILY)
+
+358
+00:20:38,399 --> 00:20:40,299
+My God, it's really her.
+
+359
+00:20:45,965 --> 00:20:47,132
+Shh.
+
+360
+00:20:49,965 --> 00:20:50,932
+Watson.
+
+361
+00:20:51,800 --> 00:20:52,965
+Say something.
+
+362
+00:20:54,399 --> 00:20:55,633
+I love you.
+
+363
+00:20:55,766 --> 00:20:58,899
+I know I am duty-bound to serve you, but
+
+364
+00:20:59,032 --> 00:21:00,633
+let me just say, on a personal note,
+
+365
+00:21:00,766 --> 00:21:02,131
+- I really like you.
+- HOLMES: Stop touching her.
+
+366
+00:21:02,132 --> 00:21:03,333
+Just as a fan.
+
+367
+00:21:03,466 --> 00:21:05,232
+(LAUGHS NERVOUSLY)
+Please, sir.
+
+368
+00:21:05,366 --> 00:21:06,633
+Don't touch the Queen.
+
+369
+00:21:06,766 --> 00:21:07,999
+Oh!
+
+370
+00:21:08,132 --> 00:21:09,666
+Quite right.
+(CHUCKLES NERVOUSLY)
+
+371
+00:21:09,800 --> 00:21:11,166
+Sorry, Your Majesty.
+
+372
+00:21:11,299 --> 00:21:12,832
+You look a lot smaller in person.
+
+373
+00:21:12,965 --> 00:21:14,633
+(LAUGHS NERVOUSLY)
+
+374
+00:21:14,766 --> 00:21:16,700
+Just stop. Just stop.
+Sorry. It's true.
+
+375
+00:21:16,832 --> 00:21:17,999
+Just stop talking.
+
+376
+00:21:18,132 --> 00:21:19,399
+Yes.
+Stop talking.
+
+377
+00:21:20,533 --> 00:21:21,733
+I'm crazy about your look.
+
+378
+00:21:21,865 --> 00:21:23,499
+What did I say?
+
+379
+00:21:23,633 --> 00:21:26,166
+Am I still talking out loud?
+You are. You are.
+
+380
+00:21:26,299 --> 00:21:27,932
+It's just the Queen.
+(EXHALES) Yes.
+
+381
+00:21:28,066 --> 00:21:29,032
+(WATSON SNORTS)
+
+382
+00:21:29,166 --> 00:21:30,766
+- Okay?
+- WATSON: Okay.
+
+383
+00:21:30,899 --> 00:21:31,999
+HOLMES: Your Majesty,
+
+384
+00:21:32,132 --> 00:21:35,199
+how may we be of service to the realm?
+
+385
+00:21:35,333 --> 00:21:37,433
+Mr. Holmes, pray follow us.
+
+386
+00:21:37,566 --> 00:21:39,433
+There is danger about.
+
+387
+00:21:40,433 --> 00:21:41,433
+(EXHALES)
+
+388
+00:21:41,566 --> 00:21:42,965
+What a looker, right?
+
+389
+00:21:43,099 --> 00:21:45,499
+She is stunning in person.
+(EXHALES)
+
+390
+00:21:47,433 --> 00:21:49,166
+Fear not, Your Majesty,
+
+391
+00:21:49,299 --> 00:21:51,732
+Sherlock will allow no harm to
+come to you, and neither will I.
+
+392
+00:21:51,733 --> 00:21:54,865
+Five, four, three,
+
+393
+00:21:54,999 --> 00:21:56,700
+two, one.
+
+394
+00:21:56,832 --> 00:21:58,633
+ALL: Surprise!
+(APPLAUSE)
+
+395
+00:21:58,766 --> 00:22:01,032
+Thank you.
+Thank you.
+
+396
+00:22:01,166 --> 00:22:03,533
+Had I been a non-genius
+such as yourselves,
+
+397
+00:22:03,666 --> 00:22:06,800
+there's a 72% chance
+I would have been surprised.
+
+398
+00:22:06,932 --> 00:22:08,832
+Oh! 72%.
+(APPLAUSE)
+
+399
+00:22:10,800 --> 00:22:12,633
+Happy birthday, Sherlock Holmes.
+
+400
+00:22:12,766 --> 00:22:16,800
+We wish you well and thank
+you for your many years...
+
+401
+00:22:16,932 --> 00:22:19,533
+Your many years of public service.
+(CORK POPS)
+
+402
+00:22:21,166 --> 00:22:22,865
+(CHUCKLING)
+
+403
+00:22:22,999 --> 00:22:24,566
+So, Holmes.
+Yes.
+
+404
+00:22:24,700 --> 00:22:25,666
+When did you know?
+
+405
+00:22:25,800 --> 00:22:27,166
+Tuesday.
+
+406
+00:22:27,299 --> 00:22:28,733
+Really?
+
+407
+00:22:28,865 --> 00:22:30,800
+You were seven minutes late coming home.
+
+408
+00:22:30,932 --> 00:22:32,965
+(SNIFFING) Stopped at the stationer's,
+
+409
+00:22:33,099 --> 00:22:35,166
+confirmed by the scent of paper mulch.
+
+410
+00:22:35,299 --> 00:22:36,799
+(SIGHS) You have the nose
+of a bloodhound.
+
+411
+00:22:36,800 --> 00:22:39,666
+Your mustache betrayed
+a dusting of crumbs.
+
+412
+00:22:39,800 --> 00:22:41,832
+Evidence of cake sampling.
+
+413
+00:22:41,965 --> 00:22:43,965
+(BOTH CHUCKLE)
+Guilty.
+
+414
+00:22:44,099 --> 00:22:47,433
+And you purchased a case
+of pre-phylloxera champagne.
+
+415
+00:22:47,566 --> 00:22:51,299
+You lack the self-esteem to buy
+yourself such an extravagant bottle.
+
+416
+00:22:51,433 --> 00:22:53,433
+It's true. (CHUCKLES)
+
+417
+00:22:53,566 --> 00:22:55,266
+I don't deserve nice things.
+
+418
+00:22:56,466 --> 00:22:59,299
+(SINGERS HARMONIZING)
+
+419
+00:22:59,433 --> 00:23:03,333
+<i>♪ For he's a jolly good fellow
+For he's a jolly good fellow</i>
+
+420
+00:23:03,466 --> 00:23:06,999
+<i>♪ For he's a jolly good fellow</i>
+
+421
+00:23:07,132 --> 00:23:09,700
+<i>♪ And so say all of us ♪</i>
+
+422
+00:23:09,832 --> 00:23:11,800
+(LAUGHS) Bravo.
+(APPLAUSE)
+
+423
+00:23:13,099 --> 00:23:14,399
+Thank you.
+
+424
+00:23:14,533 --> 00:23:16,066
+That was delightful.
+
+425
+00:23:16,965 --> 00:23:18,299
+Oh, a layer cake.
+
+426
+00:23:18,433 --> 00:23:20,399
+WATSON: It's shaped
+like a magnifying glass.
+
+427
+00:23:20,533 --> 00:23:21,533
+Yes!
+
+428
+00:23:22,433 --> 00:23:24,865
+(HOLMES GRUNTING)
+
+429
+00:23:24,999 --> 00:23:27,366
+The second layer is rather thick.
+
+430
+00:23:27,499 --> 00:23:29,366
+(GRUNTING)
+
+431
+00:23:29,499 --> 00:23:31,865
+There must be a few nuts
+in there. Uh, if I may.
+
+432
+00:23:31,999 --> 00:23:34,800
+Would you mind?
+Here. Yes, of course.
+
+433
+00:23:34,932 --> 00:23:36,132
+(WATSON GRUNTS)
+(SQUISHING)
+
+434
+00:23:36,266 --> 00:23:37,465
+Do you see what I'm talking about?
+
+435
+00:23:37,466 --> 00:23:38,832
+Yes.
+Yes.
+
+436
+00:23:38,965 --> 00:23:41,032
+Ah. Raspberry jam.
+
+437
+00:23:41,166 --> 00:23:42,965
+Mmm. My weakness.
+
+438
+00:23:43,099 --> 00:23:45,266
+I know what I need.
+
+439
+00:23:45,399 --> 00:23:46,932
+MAN: What the...
+He's getting an ax!
+
+440
+00:23:47,066 --> 00:23:48,433
+Brilliant.
+Charge!
+
+441
+00:23:48,566 --> 00:23:50,299
+(SHOUTING)
+
+442
+00:23:50,433 --> 00:23:51,865
+(CROWD GASPING)
+Oh!
+
+443
+00:23:51,999 --> 00:23:54,499
+LESTRADE: Stand back.
+Back, everyone, I say.
+
+444
+00:23:54,633 --> 00:23:57,032
+A murder in Buckingham Palace.
+
+445
+00:23:57,166 --> 00:23:58,666
+Look, a note. There.
+
+446
+00:24:00,466 --> 00:24:01,800
+Right under your nose.
+
+447
+00:24:07,932 --> 00:24:09,999
+"A birthday present for you, Sherlock.
+
+448
+00:24:10,132 --> 00:24:12,299
+"A crime to challenge your wits.
+
+449
+00:24:12,433 --> 00:24:14,399
+"Stop me in four days' time,
+
+450
+00:24:14,533 --> 00:24:17,032
+"or I will destroy London's
+greatest marvel and kill the Queen,
+
+451
+00:24:17,166 --> 00:24:19,666
+"and I will rewrite history."
+
+452
+00:24:19,800 --> 00:24:22,199
+Signed "Professor James Moriarty."
+
+453
+00:24:22,333 --> 00:24:23,733
+HOLMES: Hmm.
+
+454
+00:24:23,865 --> 00:24:25,499
+This is Jimmy Gruber,
+
+455
+00:24:25,633 --> 00:24:27,132
+the witness who disappeared,
+
+456
+00:24:27,266 --> 00:24:29,700
+whose testimony prompted
+Moriarty's arrest
+
+457
+00:24:29,832 --> 00:24:32,333
+and whom Moriarty swore to kill.
+
+458
+00:24:32,466 --> 00:24:33,832
+And your conclusion?
+
+459
+00:24:36,566 --> 00:24:40,633
+That Moriarty has killed
+again, as I predicted.
+
+460
+00:24:40,766 --> 00:24:43,032
+Ah. The most obvious conclusion.
+
+461
+00:24:43,166 --> 00:24:44,599
+(HOLMES AND WATSON SCOFFING)
+
+462
+00:24:44,733 --> 00:24:46,433
+No, this is definitely the work
+
+463
+00:24:46,566 --> 00:24:49,199
+of someone who is going
+to extraordinary lengths
+
+464
+00:24:49,333 --> 00:24:52,099
+to make it appear as if
+Moriarty committed these crimes.
+
+465
+00:24:52,232 --> 00:24:54,166
+- Sherlock Holmes.
+- HOLMES: The Queen.
+
+466
+00:24:55,932 --> 00:24:59,299
+We charge you with the task
+of stopping this criminal
+
+467
+00:24:59,433 --> 00:25:01,366
+before he can do us harm.
+
+468
+00:25:01,499 --> 00:25:04,999
+Solve this case on behalf
+of your queen and country.
+
+469
+00:25:05,132 --> 00:25:06,199
+- I will.
+- We will.
+
+470
+00:25:06,333 --> 00:25:07,566
+But, Your Majesty...
+
+471
+00:25:07,700 --> 00:25:10,299
+Sherlock Holmes has never failed us.
+
+472
+00:25:10,433 --> 00:25:12,366
+The bold ingenuity of this crime
+
+473
+00:25:12,499 --> 00:25:14,533
+calls me back to the profession
+
+474
+00:25:14,666 --> 00:25:16,399
+of detecting like a siren song.
+
+475
+00:25:16,533 --> 00:25:18,253
+I won't let anyone hurt you.
+(CLEARS THROAT)
+
+476
+00:25:18,299 --> 00:25:20,199
+Watson. To the morgue.
+
+477
+00:25:20,333 --> 00:25:22,700
+Lestrade, clean this mess up now.
+
+478
+00:25:22,832 --> 00:25:25,232
+The game is a-starting.
+Yeah.
+
+479
+00:25:29,633 --> 00:25:32,733
+HOLMES: Who is this copycat
+pretending to be Moriarty?
+
+480
+00:25:32,865 --> 00:25:35,299
+Finally, a problem worthy of my brain.
+
+481
+00:25:35,433 --> 00:25:37,132
+This birthday cake is delicious.
+
+482
+00:25:37,266 --> 00:25:38,533
+Did you get a chance to try it?
+
+483
+00:25:38,666 --> 00:25:40,266
+No, there was a corpse in it.
+Oh.
+
+484
+00:25:41,766 --> 00:25:44,533
+(CLINKING)
+(COUGHS)
+
+485
+00:25:44,666 --> 00:25:45,932
+Watson?
+
+486
+00:25:46,066 --> 00:25:47,032
+Oh.
+
+487
+00:25:47,166 --> 00:25:48,932
+Oh, my goodness.
+
+488
+00:25:49,066 --> 00:25:50,599
+Oh.
+
+489
+00:25:50,733 --> 00:25:51,666
+Finders keepers.
+
+490
+00:25:51,800 --> 00:25:54,132
+Yeah.
+
+491
+00:25:54,266 --> 00:25:56,098
+Are you sure you wouldn't
+rather wait out here?
+
+492
+00:25:56,099 --> 00:25:57,732
+The last time you were
+in the morgue, you...
+
+493
+00:25:57,733 --> 00:26:01,766
+Watson, I am a man
+of stout constitution.
+
+494
+00:26:01,899 --> 00:26:04,700
+Yes, of course. I just
+thought, after the last time,
+
+495
+00:26:04,832 --> 00:26:06,832
+with the...
+
+496
+00:26:06,965 --> 00:26:08,999
+And the...
+(SIGHS)
+
+497
+00:26:09,132 --> 00:26:11,199
+Merely a bout of stomach influenza.
+
+498
+00:26:11,333 --> 00:26:12,566
+Yes, but the time before that?
+
+499
+00:26:12,700 --> 00:26:14,899
+Bad clams.
+And before that?
+
+500
+00:26:15,032 --> 00:26:16,633
+I shook hands with a prostitute.
+
+501
+00:26:16,766 --> 00:26:18,633
+Yes.
+
+502
+00:26:18,766 --> 00:26:21,566
+No, no.
+Put that away.
+
+503
+00:26:21,700 --> 00:26:26,700
+I'm not some vaporous,
+giggling, fainting maiden who...
+
+504
+00:26:33,166 --> 00:26:34,533
+Oh, ye of little...
+
+505
+00:26:34,666 --> 00:26:36,033
+(RETCHING)
+
+506
+00:26:36,099 --> 00:26:37,299
+It's nothing to be ashamed of.
+
+507
+00:26:37,366 --> 00:26:38,600
+(REPRESSED RETCHING)
+
+508
+00:26:38,732 --> 00:26:40,299
+I think I'm starting to feel a bit...
+
+509
+00:26:40,433 --> 00:26:41,799
+(EXHALES)
+I wouldn't...
+
+510
+00:26:41,932 --> 00:26:43,832
+Are you...
+No, no, I'm fine. I'm fine.
+
+511
+00:26:43,966 --> 00:26:46,326
+'Cause if you start to feel
+sick, then I'll start to feel...
+
+512
+00:26:46,433 --> 00:26:48,099
+(RETCHING)
+
+513
+00:26:49,366 --> 00:26:51,233
+(EXHALES SHARPLY)
+
+514
+00:26:51,366 --> 00:26:53,966
+Surely, I must be done.
+Yes.
+
+515
+00:26:54,099 --> 00:26:55,899
+Next to impossible to still...
+
+516
+00:26:56,032 --> 00:26:57,399
+(REPRESSED RETCHING)
+
+517
+00:27:02,999 --> 00:27:04,366
+There you are.
+
+518
+00:27:04,499 --> 00:27:06,266
+All done.
+Yes, there.
+
+519
+00:27:06,400 --> 00:27:07,456
+(EXHALES SHARPLY)
+
+520
+00:27:07,499 --> 00:27:09,450
+Would you like some water?
+Did you say water...
+
+521
+00:27:09,465 --> 00:27:12,133
+(RETCHES)
+Sorry. I'm sorry.
+
+522
+00:27:12,166 --> 00:27:14,265
+Shall we begin the autopsy?
+
+523
+00:27:14,399 --> 00:27:16,466
+Oh, thank goodness
+these cleaning women are here
+
+524
+00:27:16,599 --> 00:27:17,839
+to clean up this dreadful mess.
+
+525
+00:27:17,866 --> 00:27:19,532
+Someone's made sick.
+Oh.
+
+526
+00:27:19,666 --> 00:27:22,033
+My dear Watson, these women
+
+527
+00:27:22,166 --> 00:27:23,966
+are far too well-dressed
+to be cleaning women.
+
+528
+00:27:24,033 --> 00:27:28,033
+They're here to identify their
+well-to-do husbands' bodies.
+
+529
+00:27:28,166 --> 00:27:29,566
+Sorry for your loss.
+
+530
+00:27:29,699 --> 00:27:32,066
+Thank you, but I am the doctor.
+
+531
+00:27:32,200 --> 00:27:35,466
+Look, Watson, grief has
+scrambled her brain.
+
+532
+00:27:35,599 --> 00:27:37,432
+Mmm.
+She thinks she's a doctor.
+
+533
+00:27:37,566 --> 00:27:40,733
+Fortunately, Miss,
+there's a real doctor here
+
+534
+00:27:40,866 --> 00:27:42,265
+who may help you.
+
+535
+00:27:42,399 --> 00:27:43,999
+Would you like some heroin?
+
+536
+00:27:44,133 --> 00:27:46,166
+Dr. Watson, I presume.
+
+537
+00:27:46,299 --> 00:27:48,432
+And you must be Sherlock Holmes.
+
+538
+00:27:48,566 --> 00:27:51,099
+Dr. Grace Hart of Boston.
+
+539
+00:27:51,332 --> 00:27:52,933
+A woman doctor?
+
+540
+00:27:53,066 --> 00:27:55,766
+- What times we live in.
+- GRACE: (CHUCKLES) Yes.
+
+541
+00:27:55,899 --> 00:27:58,332
+In America, we're much more progressive.
+
+542
+00:27:58,466 --> 00:28:01,200
+I now make 30 cents for
+every dollar a man earns.
+
+543
+00:28:01,365 --> 00:28:03,899
+What does "doctor" mean in America?
+
+544
+00:28:04,033 --> 00:28:05,733
+It means "doctor."
+
+545
+00:28:05,866 --> 00:28:07,766
+You're Dr. G. Hart?
+
+546
+00:28:07,899 --> 00:28:09,632
+Of Boston?
+Yes.
+
+547
+00:28:09,766 --> 00:28:12,265
+Holmes, we're in the
+presence of a pioneer.
+
+548
+00:28:12,399 --> 00:28:15,066
+Dr. Hart's work with the use
+of electroshock therapy
+
+549
+00:28:15,200 --> 00:28:17,432
+to cure female hysteria
+is groundbreaking.
+
+550
+00:28:17,566 --> 00:28:21,432
+Yes, I proved the higher the voltage,
+the more demons are released.
+
+551
+00:28:21,566 --> 00:28:22,766
+Well, of course.
+
+552
+00:28:22,899 --> 00:28:24,766
+Some of my patients live
+as long as a week.
+
+553
+00:28:24,899 --> 00:28:27,432
+"Doctor"?
+Spelled D-O-C-T-O-R?
+
+554
+00:28:27,566 --> 00:28:29,432
+Yes.
+(EXHALES)
+
+555
+00:28:29,566 --> 00:28:31,866
+This is my aide, Millicent.
+
+556
+00:28:31,999 --> 00:28:35,733
+She's very shy, but a
+wonderful traveling companion.
+
+557
+00:28:35,866 --> 00:28:39,033
+Shall we proceed to the examination?
+(CHUCKLES)
+
+558
+00:28:39,166 --> 00:28:41,100
+Please.
+Our cadaver awaits.
+
+559
+00:28:41,232 --> 00:28:43,100
+(REPRESSED RETCHING)
+
+560
+00:28:43,232 --> 00:28:44,566
+No, no, no.
+
+561
+00:28:44,699 --> 00:28:46,599
+Here.
+
+562
+00:28:46,733 --> 00:28:48,699
+Mr. Holmes, you look rather unwell.
+
+563
+00:28:48,833 --> 00:28:51,933
+Perhaps you would rather stay
+here and keep Millicent company.
+
+564
+00:28:55,133 --> 00:28:56,332
+Sherlock Holmes.
+
+565
+00:28:56,466 --> 00:28:57,986
+Charmed to meet...
+(REPRESSED RETCHING)
+
+566
+00:29:00,066 --> 00:29:01,866
+To meet you.
+
+567
+00:29:01,999 --> 00:29:03,999
+GRACE: <i>Millicent is the
+subject of my research.</i>
+
+568
+00:29:04,133 --> 00:29:06,166
+She was raised by feral cats.
+
+569
+00:29:06,299 --> 00:29:08,432
+She has the mental capacity
+of a four-year-old,
+
+570
+00:29:08,566 --> 00:29:11,566
+but it is my belief that, with
+sufficient electroshock therapy,
+
+571
+00:29:11,699 --> 00:29:14,466
+she can achieve the
+intellect of a six-year-old.
+
+572
+00:29:14,599 --> 00:29:16,599
+(SIGHS) We are truly in
+the golden age of medicine.
+
+573
+00:29:16,699 --> 00:29:18,299
+(CHUCKLES) There's
+nothing left to learn.
+
+574
+00:29:18,332 --> 00:29:19,299
+No.
+
+575
+00:29:21,265 --> 00:29:22,866
+HOLMES:
+What a creature you are.
+
+576
+00:29:24,066 --> 00:29:25,100
+(CHUCKLES)
+
+577
+00:29:26,265 --> 00:29:27,599
+(ONION CRUNCHING)
+
+578
+00:29:33,733 --> 00:29:36,799
+You're devouring that onion
+with such passion.
+
+579
+00:29:39,899 --> 00:29:41,399
+It's strangely arousing.
+
+580
+00:29:42,999 --> 00:29:44,799
+Dr. Watson,
+I have always been taken
+
+581
+00:29:44,833 --> 00:29:47,799
+by your unwavering devotion
+to Mr. Holmes,
+
+582
+00:29:47,833 --> 00:29:51,765
+but haven't you ever
+considered something more?
+
+583
+00:29:52,466 --> 00:29:54,899
+Perhaps a co-detective?
+
+584
+00:29:57,133 --> 00:29:58,733
+He and I?
+
+585
+00:29:58,866 --> 00:29:59,933
+Co-detectives?
+
+586
+00:30:00,066 --> 00:30:01,100
+Yes.
+
+587
+00:30:01,232 --> 00:30:03,332
+(LAUGHS)
+Oh, the very idea!
+
+588
+00:30:03,466 --> 00:30:06,866
+Uh...
+Solving crimes together?
+
+589
+00:30:06,999 --> 00:30:09,200
+Laughing and enjoying
+the esprit de corps
+
+590
+00:30:09,332 --> 00:30:11,933
+of two best friends
+pursuing a noble cause!
+
+591
+00:30:12,066 --> 00:30:13,566
+Madness. No, dear.
+
+592
+00:30:13,699 --> 00:30:16,133
+No. No, not I.
+
+593
+00:30:17,432 --> 00:30:19,532
+Not here.
+
+594
+00:30:19,666 --> 00:30:23,866
+Not even in my most rapturous
+moments of private fantasy.
+
+595
+00:30:28,365 --> 00:30:30,232
+(SIGHS)
+
+596
+00:30:30,365 --> 00:30:33,265
+Anyway, let's go clean this
+cake-covered bastard, shall we?
+
+597
+00:30:37,166 --> 00:30:39,100
+WATSON: The wonders
+of modern medicine.
+
+598
+00:30:43,166 --> 00:30:45,432
+Now, you're going to laugh,
+
+599
+00:30:45,566 --> 00:30:47,733
+but I found the most important
+tool of an autopsy is...
+
+600
+00:30:47,866 --> 00:30:48,933
+Music.
+
+601
+00:30:50,365 --> 00:30:51,566
+Yes.
+
+602
+00:30:51,699 --> 00:30:52,733
+You, too?
+
+603
+00:30:55,365 --> 00:30:56,399
+(CHUCKLES)
+
+604
+00:30:59,899 --> 00:31:02,499
+MAN:
+<i>♪ Oh, my love ♪</i>
+
+605
+00:31:02,632 --> 00:31:04,566
+This one always gets me in the mood.
+
+606
+00:31:06,899 --> 00:31:08,599
+So begins the dance.
+
+607
+00:31:17,332 --> 00:31:19,632
+(CHUCKLES) You have some dribble. Hmm?
+
+608
+00:31:19,766 --> 00:31:22,033
+Just a touch of dribble right...
+(SNAPS)
+
+609
+00:31:22,166 --> 00:31:23,200
+(GASPS)
+
+610
+00:31:28,699 --> 00:31:32,933
+<i>♪ And time goes by... ♪</i>
+
+611
+00:31:33,066 --> 00:31:37,466
+There is something so sensual about
+forensic autopsy, isn't there?
+
+612
+00:32:00,966 --> 00:32:02,733
+You are a delight.
+
+613
+00:32:02,866 --> 00:32:06,399
+Your eyes say more
+than words ever could.
+
+614
+00:32:06,532 --> 00:32:09,666
+(DOOR OPENS)
+(CHUCKLES, SNIFFING)
+
+615
+00:32:09,799 --> 00:32:11,066
+Hmm.
+(DOOR CLOSES)
+
+616
+00:32:11,200 --> 00:32:15,532
+The tincture of ammonia and scrotum.
+
+617
+00:32:15,666 --> 00:32:17,566
+Hello, Inspector Lestrade.
+
+618
+00:32:19,766 --> 00:32:21,299
+We have combed the manifests
+
+619
+00:32:21,432 --> 00:32:24,265
+of every ship to set sail
+for the Americas
+
+620
+00:32:24,399 --> 00:32:27,499
+and found not a single Moriarty.
+
+621
+00:32:27,632 --> 00:32:30,733
+Moriarty's too cunning
+to use his own name.
+
+622
+00:32:30,866 --> 00:32:32,699
+He's sailing under an alias.
+
+623
+00:32:32,833 --> 00:32:34,732
+(BLADES CLINK) WATSON:
+(PANTING) Ah, here we are.
+
+624
+00:32:34,733 --> 00:32:37,033
+So, after a thorough...
+
+625
+00:32:37,166 --> 00:32:38,466
+Very thorough.
+
+626
+00:32:38,599 --> 00:32:40,299
+(BOTH CHUCKLING)
+
+627
+00:32:40,432 --> 00:32:42,399
+Stop.
+(CHUCKLES) No, you stop.
+
+628
+00:32:42,532 --> 00:32:45,200
+(CLEARS THROAT)
+Examination of the body...
+
+629
+00:32:45,332 --> 00:32:47,632
+And I must say, Dr. Hart made some
+
+630
+00:32:47,766 --> 00:32:49,833
+beautiful lateral incisions there.
+
+631
+00:32:49,966 --> 00:32:54,999
+No, watching you flay the skin
+from his face so gently!
+
+632
+00:32:55,133 --> 00:32:57,399
+I would flay 1,000 faces for you.
+And the way...
+
+633
+00:32:57,532 --> 00:32:59,399
+Just tell me what you found!
+
+634
+00:32:59,532 --> 00:33:01,200
+(CLEARS THROAT) Yes.
+
+635
+00:33:01,365 --> 00:33:02,866
+Cause of death indeterminate.
+
+636
+00:33:02,999 --> 00:33:04,265
+LESTRADE:
+Indeterminate?
+
+637
+00:33:04,399 --> 00:33:05,666
+What do you mean?
+
+638
+00:33:05,799 --> 00:33:08,066
+It means he doesn't know.
+
+639
+00:33:08,200 --> 00:33:09,899
+- Proceed, Watson.
+- WATSON: Yes.
+
+640
+00:33:10,033 --> 00:33:14,033
+We found a freshly applied
+tattoo of a cross
+
+641
+00:33:14,166 --> 00:33:16,866
+and the numbers one and 20.
+
+642
+00:33:16,999 --> 00:33:19,100
+I have the oddest feeling.
+
+643
+00:33:19,232 --> 00:33:21,532
+It's like knowing, but the opposite.
+
+644
+00:33:21,666 --> 00:33:23,365
+Meaning you haven't a clue.
+
+645
+00:33:23,499 --> 00:33:26,599
+Who is this genius pretender
+who's taken Moriarty's place,
+
+646
+00:33:26,733 --> 00:33:30,866
+committing crimes exactly
+the way he would? (SIGHS)
+
+647
+00:33:30,999 --> 00:33:32,899
+HOLMES: A fantastic new case.
+
+648
+00:33:33,033 --> 00:33:35,265
+I'm aroused
+both mentally and physically.
+
+649
+00:33:35,399 --> 00:33:39,033
+I was wondering, rather than
+working beside you on this case,
+
+650
+00:33:39,166 --> 00:33:41,899
+I might work with you as a sort of...
+
+651
+00:33:42,033 --> 00:33:44,100
+Grace called it a "co-detective."
+
+652
+00:33:44,232 --> 00:33:48,100
+One cannot simply just
+make someone a detective.
+
+653
+00:33:48,232 --> 00:33:49,532
+It must be earned.
+
+654
+00:33:49,666 --> 00:33:52,066
+Well, I deduced you might say that,
+
+655
+00:33:52,200 --> 00:33:54,599
+which is why, when we arrive home,
+
+656
+00:33:54,733 --> 00:33:57,699
+I propose a game of chess.
+
+657
+00:33:57,833 --> 00:33:59,232
+If I should best you,
+
+658
+00:33:59,365 --> 00:34:01,265
+then surely I possess
+the mental power...
+
+659
+00:34:01,399 --> 00:34:03,833
+Checkmate! Checkmate.
+
+660
+00:34:03,966 --> 00:34:06,332
+What?
+We haven't started yet.
+
+661
+00:34:06,466 --> 00:34:08,165
+You would have opened
+with the Queen's Gambit.
+
+662
+00:34:08,166 --> 00:34:10,265
+Oh, indeed.
+A reliable first move.
+
+663
+00:34:10,399 --> 00:34:12,065
+I would have countered
+with a Slav Defense.
+
+664
+00:34:12,066 --> 00:34:14,899
+Oh! An audacious move.
+Quite unexpected.
+
+665
+00:34:15,033 --> 00:34:17,432
+You would have panicked,
+thus exposing your queen.
+
+666
+00:34:17,566 --> 00:34:18,532
+No, not my queen!
+
+667
+00:34:18,666 --> 00:34:20,066
+Seeing your queen exposed
+
+668
+00:34:20,200 --> 00:34:22,100
+would have compelled you to defend her.
+
+669
+00:34:22,232 --> 00:34:25,133
+Indeed. It is my duty
+in chess as in life.
+
+670
+00:34:25,265 --> 00:34:27,265
+Thereby neglecting my castle.
+
+671
+00:34:27,399 --> 00:34:28,733
+(GASPS)
+
+672
+00:34:29,532 --> 00:34:30,733
+Checkmate.
+
+673
+00:34:32,033 --> 00:34:33,265
+Perhaps another game?
+
+674
+00:34:33,399 --> 00:34:35,200
+Rock-paper-scissors.
+
+675
+00:34:35,332 --> 00:34:37,699
+Rock, rock, paper, paper,
+scissors, paper,
+
+676
+00:34:37,833 --> 00:34:39,899
+rock, scissors, paper, rock.
+(GASPS)
+
+677
+00:34:40,766 --> 00:34:41,766
+Dash it all!
+
+678
+00:34:41,899 --> 00:34:43,200
+What about Battleship?
+
+679
+00:34:43,332 --> 00:34:45,866
+HOLMES:
+D-3, E-3, F-3, and G-3.
+
+680
+00:34:45,999 --> 00:34:48,100
+WATSON:
+Damn it, you've sunk my battleship.
+
+681
+00:34:48,232 --> 00:34:50,632
+HOLMES: You're a good man, Watson,
+
+682
+00:34:50,766 --> 00:34:52,232
+but you're not ready.
+
+683
+00:34:53,532 --> 00:34:54,733
+But why?
+
+684
+00:34:54,866 --> 00:34:57,166
+If you were ready, you'd know why.
+
+685
+00:35:07,966 --> 00:35:09,999
+WATSON: <i>Let the game begin.</i>
+
+686
+00:35:10,133 --> 00:35:12,232
+A piece for a piece.
+
+687
+00:35:12,365 --> 00:35:13,899
+Two can play at that game.
+
+688
+00:35:28,933 --> 00:35:30,066
+(GRUNTS SOFTLY)
+
+689
+00:35:33,566 --> 00:35:34,599
+Mmm.
+
+690
+00:35:34,733 --> 00:35:35,766
+(GRUNTS)
+
+691
+00:35:37,332 --> 00:35:38,432
+Peekaboo.
+
+692
+00:35:40,432 --> 00:35:41,432
+(SNAPPING)
+
+693
+00:35:41,566 --> 00:35:44,232
+Ah. Checkmate.
+
+694
+00:35:44,365 --> 00:35:46,632
+And to the victor, the spoils.
+
+695
+00:35:47,265 --> 00:35:48,632
+(GIGGLES)
+
+696
+00:35:48,766 --> 00:35:50,265
+(SIGHS)
+
+697
+00:35:50,399 --> 00:35:51,865
+(IN GRACE'S VOICE)
+You'll never be co-detective.
+
+698
+00:35:51,866 --> 00:35:54,066
+(SCREAMS, GASPING)
+
+699
+00:35:54,200 --> 00:35:56,100
+(HORSE NEIGHING)
+
+700
+00:35:56,232 --> 00:35:57,833
+(CUP CLINKING)
+
+701
+00:35:57,966 --> 00:36:00,833
+Watson, I'm near a breakthrough.
+
+702
+00:36:00,966 --> 00:36:03,399
+My hypothesis is the true cause of death
+
+703
+00:36:03,532 --> 00:36:06,733
+is ink poisoning via the fresh tattoo.
+
+704
+00:36:06,866 --> 00:36:08,265
+But I need your help.
+
+705
+00:36:10,866 --> 00:36:12,332
+You want me to be co-detective?
+
+706
+00:36:12,466 --> 00:36:13,933
+(LAUGHS) Mmm-mmm.
+
+707
+00:36:14,066 --> 00:36:16,933
+I'm awfully sorry, Dr. Watson.
+
+708
+00:36:17,066 --> 00:36:18,232
+Sorry for what?
+
+709
+00:36:18,365 --> 00:36:20,066
+Mr. Holmes left me no choice.
+
+710
+00:36:20,200 --> 00:36:22,532
+May you rest in peace.
+What's she on about?
+
+711
+00:36:22,666 --> 00:36:26,532
+All will be clear in three, two, one.
+
+712
+00:36:26,666 --> 00:36:27,866
+(GASPS)
+
+713
+00:36:28,933 --> 00:36:29,899
+Excuse me. (COUGHS)
+
+714
+00:36:30,033 --> 00:36:31,733
+I'll take that.
+
+715
+00:36:31,866 --> 00:36:33,826
+(CHOKING) It's just something
+caught in my throat.
+
+716
+00:36:33,833 --> 00:36:35,033
+Oh, no.
+
+717
+00:36:35,166 --> 00:36:36,365
+I poisoned you.
+
+718
+00:36:36,499 --> 00:36:37,766
+(HOARSELY) Why?
+
+719
+00:36:37,899 --> 00:36:39,399
+To test my theory.
+(WHEEZING)
+
+720
+00:36:39,532 --> 00:36:41,033
+Am I going to die?
+
+721
+00:36:41,166 --> 00:36:42,532
+No, I have an antidote.
+
+722
+00:36:42,666 --> 00:36:44,933
+Oh. But I need to see it play out.
+
+723
+00:36:45,733 --> 00:36:47,532
+Now, let's see here.
+
+724
+00:36:47,666 --> 00:36:49,306
+(WHEEZING) Redness around the mouth.
+Good.
+
+725
+00:36:49,399 --> 00:36:50,599
+(GASPING) Help me.
+
+726
+00:36:50,733 --> 00:36:53,100
+You will have temporary brain damage.
+
+727
+00:36:54,966 --> 00:36:56,699
+Wake up, Watson. Wake up.
+(SQUEALS)
+
+728
+00:36:56,833 --> 00:36:58,999
+We have work to do.
+Watson.
+
+729
+00:36:59,133 --> 00:37:00,899
+Who's Watson?
+I'll kill him!
+
+730
+00:37:01,033 --> 00:37:02,200
+You son of a bitch!
+
+731
+00:37:02,332 --> 00:37:03,372
+(YELLS)
+Violent aggression.
+
+732
+00:37:03,499 --> 00:37:05,365
+Oh, please give me the antidote.
+
+733
+00:37:05,499 --> 00:37:06,699
+Drama queen syndrome.
+
+734
+00:37:06,833 --> 00:37:09,033
+Why am I doing this?
+
+735
+00:37:09,166 --> 00:37:10,332
+Confused mime.
+
+736
+00:37:10,466 --> 00:37:13,332
+Oh! Does this suit make me look fat?
+
+737
+00:37:13,466 --> 00:37:15,066
+Body image dysmorphia.
+
+738
+00:37:15,200 --> 00:37:16,899
+(SCREAMS) My eyes!
+
+739
+00:37:17,033 --> 00:37:19,166
+Sensitivity to light.
+My eyes! It burns!
+
+740
+00:37:19,299 --> 00:37:20,566
+(SCREAMING)
+
+741
+00:37:20,699 --> 00:37:23,200
+Excruciating abdominal pain.
+(GROANING)
+
+742
+00:37:23,332 --> 00:37:24,766
+Yes, it's confirmed.
+
+743
+00:37:24,899 --> 00:37:26,866
+It was poison.
+Come, Watson.
+
+744
+00:37:26,999 --> 00:37:28,365
+Let us not be late.
+
+745
+00:37:28,499 --> 00:37:29,899
+(GROANING)
+
+746
+00:37:30,033 --> 00:37:31,299
+Oh! Of course.
+
+747
+00:37:31,432 --> 00:37:32,466
+Lactation.
+
+748
+00:37:32,599 --> 00:37:34,299
+(GROANING)
+
+749
+00:37:34,432 --> 00:37:36,265
+Why?
+Come along, Watson.
+
+750
+00:37:36,399 --> 00:37:37,632
+I'll explain in the cab.
+
+751
+00:37:40,866 --> 00:37:41,966
+(COUGHS)
+There we go.
+
+752
+00:37:42,100 --> 00:37:43,799
+Oh, thank God for this antidote.
+
+753
+00:37:43,933 --> 00:37:46,299
+I feel as though I've
+completely recovered. (SIGHS)
+
+754
+00:37:47,200 --> 00:37:48,566
+Yes, you have.
+
+755
+00:37:48,699 --> 00:37:49,766
+(WATSON SIGHS)
+
+756
+00:37:51,265 --> 00:37:52,399
+There.
+
+757
+00:37:52,532 --> 00:37:53,632
+So where are we going?
+
+758
+00:37:53,766 --> 00:37:55,766
+The fact that the victim was poisoned
+
+759
+00:37:55,899 --> 00:37:59,766
+suggests the killer lacked
+physical strength to overpower him.
+
+760
+00:37:59,899 --> 00:38:03,100
+The tattoos you examined
+have an uneven quality.
+
+761
+00:38:03,232 --> 00:38:06,866
+It leads me to believe that they
+were drawn by a one-armed man.
+
+762
+00:38:06,999 --> 00:38:09,365
+A one-armed man.
+
+763
+00:38:09,499 --> 00:38:10,766
+Yes.
+
+764
+00:38:10,899 --> 00:38:12,833
+A weak man who would use poison.
+
+765
+00:38:12,966 --> 00:38:17,766
+There is only one one-armed
+tattoo artist in all of London.
+
+766
+00:38:17,899 --> 00:38:21,066
+The nefarious Gustav Klinger.
+
+767
+00:38:21,200 --> 00:38:24,166
+Dorset Street! And
+don't spare the horses!
+
+768
+00:38:24,299 --> 00:38:25,666
+(WHIP CRACKS)
+Dorset Street.
+
+769
+00:38:25,799 --> 00:38:29,432
+Home of drunkards, thieves,
+and hairy, old whores.
+
+770
+00:38:29,566 --> 00:38:32,265
+HOLMES: And, if my theory
+is correct, the killer.
+
+771
+00:38:32,399 --> 00:38:35,699
+(WATSON LAUGHS)
+WOMAN: Hello, gorgeous.
+
+772
+00:38:35,833 --> 00:38:39,566
+Though all is calm now,
+we must be on highest alert.
+
+773
+00:38:39,699 --> 00:38:41,399
+(CARRIAGE DRIVER GROANS)
+
+774
+00:38:41,532 --> 00:38:44,699
+Shall we ask someone if they've
+seen our one-armed Mr. Klinger?
+
+775
+00:38:44,833 --> 00:38:48,232
+This neighborhood does not
+welcome curious outsiders.
+
+776
+00:38:48,365 --> 00:38:50,200
+Excuse me.
+Have you the time?
+
+777
+00:38:50,332 --> 00:38:53,632
+Not for you, outsider.
+(YELLS IN PAIN)
+
+778
+00:38:53,766 --> 00:38:55,365
+Merciful God.
+
+779
+00:38:55,499 --> 00:38:57,033
+HOLMES: We must blend in.
+
+780
+00:38:57,166 --> 00:38:59,733
+Fortunately, my time tripping the boards
+
+781
+00:38:59,866 --> 00:39:01,186
+has made me a master of disguise.
+
+782
+00:39:01,232 --> 00:39:02,232
+Yes.
+
+783
+00:39:08,966 --> 00:39:09,933
+WATSON: You.
+
+784
+00:39:10,066 --> 00:39:11,699
+What have you done with Sherlock?
+
+785
+00:39:11,833 --> 00:39:12,866
+Why, Watson,
+
+786
+00:39:14,066 --> 00:39:15,365
+I never left.
+
+787
+00:39:15,499 --> 00:39:17,332
+(GASPS)
+
+788
+00:39:17,466 --> 00:39:19,100
+Amazing.
+Yes, I know.
+
+789
+00:39:19,232 --> 00:39:21,499
+Yes, you've outdone yourself this time.
+
+790
+00:39:21,632 --> 00:39:23,365
+Now...
+
+791
+00:39:23,499 --> 00:39:24,699
+Huh?
+No.
+
+792
+00:39:24,833 --> 00:39:26,232
+Still me.
+It's you?
+
+793
+00:39:26,365 --> 00:39:27,999
+It's still Sherlock.
+
+794
+00:39:28,133 --> 00:39:30,033
+All right.
+Rest assured.
+
+795
+00:39:30,166 --> 00:39:31,432
+It's very convincing.
+
+796
+00:39:31,566 --> 00:39:33,265
+Now for your disguise.
+
+797
+00:39:33,399 --> 00:39:35,200
+Oh, what will it be?
+
+798
+00:39:35,332 --> 00:39:36,899
+(HOLMES LAUGHS)
+
+799
+00:39:37,033 --> 00:39:41,033
+Yes. You, my friend,
+
+800
+00:39:41,166 --> 00:39:46,466
+shall play a down-on-your-luck
+horseshit salesman.
+
+801
+00:39:46,599 --> 00:39:48,699
+Oh.
+Yes.
+
+802
+00:39:48,833 --> 00:39:50,532
+Yes. Yes.
+
+803
+00:39:50,666 --> 00:39:53,599
+Come, Watson. We have a
+one-armed killer to catch.
+
+804
+00:39:53,733 --> 00:39:55,265
+Get into character.
+
+805
+00:39:55,399 --> 00:39:57,099
+- WATSON: Horseshit for sale!
+- HOLMES: There you go.
+
+806
+00:39:57,100 --> 00:39:59,199
+- WATSON: Who will buy my horse's shit?
+- MAN: I'll take some.
+
+807
+00:39:59,200 --> 00:40:02,066
+No one must know our true purpose. Mmm.
+
+808
+00:40:03,033 --> 00:40:04,532
+What you toffs want?
+
+809
+00:40:04,666 --> 00:40:08,699
+To buy a pint for any man
+who can raise two hands.
+
+810
+00:40:08,833 --> 00:40:11,833
+(MEN CHEERING)
+
+811
+00:40:11,966 --> 00:40:14,265
+Every man has both arms.
+
+812
+00:40:14,399 --> 00:40:15,566
+Klinger isn't here.
+
+813
+00:40:16,466 --> 00:40:18,499
+Our journey continues.
+
+814
+00:40:18,632 --> 00:40:21,066
+Blend in like a common oaf. Yes.
+
+815
+00:40:21,200 --> 00:40:22,999
+(LIVELY CHATTER, LAUGHTER)
+
+816
+00:40:23,133 --> 00:40:24,866
+HOLMES: Keep drinking.
+We need to fit in.
+
+817
+00:40:24,999 --> 00:40:26,033
+Cheers.
+
+818
+00:40:26,166 --> 00:40:27,265
+(MUSIC PLAYING)
+
+819
+00:40:27,399 --> 00:40:28,599
+Cheers!
+
+820
+00:40:28,733 --> 00:40:30,499
+More, more, more!
+(LAUGHING)
+
+821
+00:40:32,466 --> 00:40:34,432
+(LAUGHING)
+(ALL CHEERING)
+
+822
+00:40:34,566 --> 00:40:36,066
+Oi! Oi! Oi!
+
+823
+00:40:36,200 --> 00:40:39,799
+(RHYTHMIC TAPPING)
+
+824
+00:40:39,933 --> 00:40:41,532
+(BOTH BARKING)
+
+825
+00:40:41,666 --> 00:40:42,899
+(HOWLS)
+
+826
+00:40:43,033 --> 00:40:44,399
+They have boxing here.
+(EXCLAIMS)
+
+827
+00:40:44,532 --> 00:40:45,933
+WATSON: <i>I don't care if he's small!</i>
+
+828
+00:40:46,066 --> 00:40:47,599
+- WATSON: Kill!
+- WOMAN: Come on, fight!
+
+829
+00:40:50,166 --> 00:40:51,598
+Shouldn't we be looking for Klinger?
+
+830
+00:40:51,599 --> 00:40:53,733
+Who cares about Klinger?
+Exactly!
+
+831
+00:40:53,866 --> 00:40:55,466
+(GROANS, SCREAMS)
+
+832
+00:40:56,499 --> 00:40:57,466
+(SCREAMS)
+
+833
+00:40:57,599 --> 00:40:58,766
+Release the child!
+
+834
+00:40:58,899 --> 00:41:00,699
+Let go of that boy!
+I want him dead!
+
+835
+00:41:00,833 --> 00:41:02,399
+WATSON: Sweet river of piss.
+
+836
+00:41:02,532 --> 00:41:04,733
+(BOTH SIGH)
+
+837
+00:41:04,866 --> 00:41:06,232
+You have real force there.
+
+838
+00:41:07,499 --> 00:41:08,866
+<i>Arc of stream.</i>
+
+839
+00:41:08,999 --> 00:41:10,365
+<i>Direction of wind.</i>
+
+840
+00:41:10,499 --> 00:41:12,265
+<i>Compensate for shy penis.</i>
+
+841
+00:41:12,399 --> 00:41:14,699
+<i>Avoid splash on shoes.</i>
+
+842
+00:41:14,833 --> 00:41:16,733
+(GRUNTS)
+<i>And release fluids.</i>
+
+843
+00:41:16,866 --> 00:41:18,365
+<i>Oh, my goodness.</i>
+
+844
+00:41:18,499 --> 00:41:21,866
+<i>Damn it, I forgot to unzip my pants.</i>
+
+845
+00:41:21,999 --> 00:41:23,532
+You really are a genius.
+
+846
+00:41:23,666 --> 00:41:25,933
+Oh, watch it.
+Oh, sorry.
+
+847
+00:41:26,066 --> 00:41:27,899
+WATSON: I should like
+to send a telegram.
+
+848
+00:41:28,699 --> 00:41:30,365
+Grace. Stop.
+
+849
+00:41:32,566 --> 00:41:34,833
+Are you awake? Stop.
+(HOLMES CHUCKLING)
+
+850
+00:41:37,332 --> 00:41:39,599
+Uh, you're such a pretty doctor lady.
+
+851
+00:41:39,733 --> 00:41:41,399
+Ooh!
+(WATSON CHUCKLES)
+
+852
+00:41:41,532 --> 00:41:43,133
+Are you quite sure this is a good idea?
+
+853
+00:41:43,265 --> 00:41:44,766
+(SLURRING)
+This is wonderful.
+
+854
+00:41:44,899 --> 00:41:47,933
+The combination of the late
+hour and your drunkenness
+
+855
+00:41:48,066 --> 00:41:51,432
+allows for communication
+of exceptional honesty.
+
+856
+00:41:51,566 --> 00:41:52,532
+Quite right.
+
+857
+00:41:52,666 --> 00:41:54,299
+I will call it an intoxigram.
+
+858
+00:41:54,432 --> 00:41:57,200
+And no one shall ever
+regret sending one.
+
+859
+00:41:57,332 --> 00:42:00,033
+Now, lay bare the fruits
+of your inebriation.
+
+860
+00:42:00,166 --> 00:42:01,766
+Ask her what she's wearing.
+
+861
+00:42:01,899 --> 00:42:04,200
+What are you wearing?
+Stop.
+
+862
+00:42:04,232 --> 00:42:04,966
+Bloomers?
+
+863
+00:42:04,999 --> 00:42:06,733
+A brassiere?
+(CHUCKLES)
+
+864
+00:42:06,766 --> 00:42:09,133
+I'd wager you'd look good in anything.
+
+865
+00:42:09,266 --> 00:42:10,532
+Wonderful.
+Stop.
+
+866
+00:42:10,566 --> 00:42:12,532
+Shall I ask what Millie
+thinks about you?
+
+867
+00:42:12,666 --> 00:42:14,432
+Um...
+
+868
+00:42:14,566 --> 00:42:16,733
+(SIGHS) I don't care.
+Sure. Why not?
+
+869
+00:42:16,866 --> 00:42:18,999
+What does Millie think of Sherlock?
+
+870
+00:42:19,133 --> 00:42:22,733
+Does Millie ever drip wax over her body?
+
+871
+00:42:22,866 --> 00:42:25,365
+Hot wax. Stop.
+
+872
+00:42:25,499 --> 00:42:27,165
+- Okay. That's enough.
+- WATSON: Yeah, I think so.
+
+873
+00:42:27,166 --> 00:42:40,346
+_ _ _
+
+874
+00:42:40,366 --> 00:42:44,300
+Now show her how she
+makes you feel. Huh?
+
+875
+00:42:44,432 --> 00:42:46,033
+Just go ahead.
+Display it.
+
+876
+00:42:46,166 --> 00:42:47,233
+(UNZIPS PANTS)
+
+877
+00:42:47,366 --> 00:42:48,300
+There.
+(THUD ON TABLE)
+
+878
+00:42:48,301 --> 00:42:53,001
+_ _ _
+
+879
+00:42:53,032 --> 00:42:54,533
+Telegraph a picture of this.
+
+880
+00:42:54,666 --> 00:42:57,699
+And make sure you get
+the banger and the beans.
+
+881
+00:42:57,833 --> 00:42:59,332
+Focus on the mushroom.
+
+882
+00:42:59,466 --> 00:43:02,000
+Are you positive I shan't
+regret this in the morning?
+
+883
+00:43:02,132 --> 00:43:03,933
+(CHUCKLES)
+You absolutely will.
+
+884
+00:43:04,065 --> 00:43:05,566
+Silence, you!
+Say it again.
+
+885
+00:43:05,699 --> 00:43:06,900
+Say it again. I dare you. Oh!
+
+886
+00:43:07,032 --> 00:43:08,599
+Please say it.
+Please say it again.
+
+887
+00:43:08,733 --> 00:43:10,198
+Do you think you would be
+the first man I've killed?
+
+888
+00:43:10,199 --> 00:43:12,032
+I have the penis of a baby doll.
+
+889
+00:43:15,566 --> 00:43:17,099
+It's just a statement of fact.
+
+890
+00:43:19,065 --> 00:43:20,232
+(ROOSTER CROWS)
+
+891
+00:43:20,366 --> 00:43:22,032
+(HOLMES AND WATSON CHUCKLING)
+
+892
+00:43:22,165 --> 00:43:23,900
+Oh, well, Watson,
+
+893
+00:43:24,032 --> 00:43:26,399
+after a night of drinking,
+I could eat a whole pie.
+
+894
+00:43:26,533 --> 00:43:28,666
+WATSON: Oh, no, it's
+cakes for me, my friend.
+
+895
+00:43:28,799 --> 00:43:30,232
+Ah! Cakes, indeed!
+
+896
+00:43:30,366 --> 00:43:34,499
+Yes. Yes, cakes stacked on cakes.
+
+897
+00:43:34,633 --> 00:43:36,499
+We should open a restaurant called
+
+898
+00:43:36,633 --> 00:43:40,399
+the International House of
+Cakes Stacked Upon Other Cakes.
+
+899
+00:43:40,533 --> 00:43:43,533
+(CHUCKLING) Yes, and you can only
+eat there after a night of drinking.
+
+900
+00:43:43,666 --> 00:43:45,765
+Well, speaking of the night,
+I fear it's a night wasted.
+
+901
+00:43:45,766 --> 00:43:47,499
+No sign of Klinger anywhere. Mmm.
+
+902
+00:43:48,666 --> 00:43:50,466
+Not so fast, Watson.
+
+903
+00:43:50,599 --> 00:43:53,399
+Look at those two men and their tattoos.
+
+904
+00:43:53,533 --> 00:43:55,032
+I don't understand.
+
+905
+00:43:55,165 --> 00:43:57,533
+We haven't been able
+to find the tattoo artist.
+
+906
+00:43:57,666 --> 00:44:00,900
+Perhaps we should follow the tattoos.
+
+907
+00:44:01,032 --> 00:44:03,332
+(GRUNTING, INDISTINCT CHATTER)
+
+908
+00:44:04,566 --> 00:44:05,866
+WATSON: A gymnasium?
+
+909
+00:44:06,000 --> 00:44:07,933
+You really think Klinger
+would be here, Holmes?
+
+910
+00:44:08,065 --> 00:44:11,032
+Look alive, Watson.
+He could be anywhere.
+
+911
+00:44:11,165 --> 00:44:13,599
+TRAINER: Three, two, one.
+
+912
+00:44:13,733 --> 00:44:16,266
+Pick it up. Pick it up.
+That's it.
+
+913
+00:44:16,399 --> 00:44:18,599
+INSTRUCTOR: Out with the
+bad air, in with the good.
+
+914
+00:44:18,733 --> 00:44:20,266
+WATSON: Look at these health nuts.
+
+915
+00:44:20,399 --> 00:44:22,232
+(MEN COUGHING)
+INSTRUCTOR: Big deep breath.
+
+916
+00:44:22,366 --> 00:44:24,064
+WATSON: Obsessed with the
+purifying effects of smoke.
+
+917
+00:44:24,065 --> 00:44:27,666
+INSTRUCTOR: All right, good
+lungful of the cleansing vapors.
+
+918
+00:44:27,799 --> 00:44:30,466
+(EXHALES) I don't think
+he's here, Holmes.
+
+919
+00:44:30,599 --> 00:44:32,666
+(DOOR OPENS)
+MAN: Hello, hello, hello!
+
+920
+00:44:32,799 --> 00:44:34,633
+Sherlock Holmes.
+
+921
+00:44:34,766 --> 00:44:36,199
+HOLMES: Ah.
+
+922
+00:44:36,332 --> 00:44:37,966
+You must be Gustav Klinger,
+
+923
+00:44:38,099 --> 00:44:41,132
+the one-armed tattoo
+artist of Dorset Street.
+
+924
+00:44:41,266 --> 00:44:43,065
+Looks like it.
+
+925
+00:44:43,199 --> 00:44:45,000
+(WHIRRING)
+
+926
+00:44:45,132 --> 00:44:48,499
+Gustav Klinger, I accuse you
+of poisoning Jimmy Gruber
+
+927
+00:44:48,633 --> 00:44:50,699
+and baking him into a large cake.
+
+928
+00:44:50,833 --> 00:44:55,232
+A deliciously large cake
+that I baked myself.
+
+929
+00:44:55,366 --> 00:44:56,799
+Oh, please.
+
+930
+00:44:56,933 --> 00:44:58,232
+How dare you!
+
+931
+00:44:58,366 --> 00:45:00,533
+You did not bake that cake.
+
+932
+00:45:00,666 --> 00:45:03,165
+Not only did I bake it.
+I decorated it, too.
+
+933
+00:45:03,299 --> 00:45:04,399
+Impossible.
+
+934
+00:45:04,533 --> 00:45:05,773
+It's got a frosting attachment.
+
+935
+00:45:05,833 --> 00:45:07,533
+You're trying to tell me
+
+936
+00:45:07,666 --> 00:45:10,199
+that a one-armed man made a
+professional, bakery-quality cake
+
+937
+00:45:10,332 --> 00:45:11,499
+fit for the Queen.
+Watson.
+
+938
+00:45:11,633 --> 00:45:13,833
+It's just... It...
+It doesn't matter
+
+939
+00:45:13,966 --> 00:45:15,698
+if he baked the cake or not.
+It really bugs... I know.
+
+940
+00:45:15,699 --> 00:45:16,999
+- It really...
+- WATSON: Best cake I've ever eaten.
+
+941
+00:45:17,000 --> 00:45:19,032
+I did bake the cake.
+All right, fine.
+
+942
+00:45:19,165 --> 00:45:20,699
+You "baked the cake."
+
+943
+00:45:20,833 --> 00:45:23,199
+I didn't "bake a cake."
+
+944
+00:45:24,065 --> 00:45:25,099
+I baked a cake.
+
+945
+00:45:25,232 --> 00:45:26,566
+Then you admit it.
+
+946
+00:45:26,699 --> 00:45:28,366
+You killed Jimmy Gruber.
+
+947
+00:45:28,499 --> 00:45:30,466
+KLINGER: And what if I did, Mr. Holmes?
+
+948
+00:45:30,599 --> 00:45:33,566
+It's not as if you're in a
+position to do anything about it.
+
+949
+00:45:33,699 --> 00:45:36,533
+He's right, Sherlock Holmes.
+
+950
+00:45:36,666 --> 00:45:40,132
+You've walked straight into our trap.
+(CROWD EXCLAIMING)
+
+951
+00:45:40,266 --> 00:45:42,132
+Moriarty.
+Quiet, Watson.
+
+952
+00:45:42,266 --> 00:45:46,000
+In the name of the queen,
+I arrest you both.
+
+953
+00:45:46,132 --> 00:45:48,366
+(CHUCKLING)
+Oh, come, Sherlock.
+
+954
+00:45:48,499 --> 00:45:50,199
+You don't think it'll be that easy.
+
+955
+00:45:50,332 --> 00:45:53,366
+You won't be leaving
+here alive, Mr. Holmes,
+
+956
+00:45:53,499 --> 00:45:57,966
+unless, of course, you fight
+your way out of the Hexagon.
+
+957
+00:45:58,099 --> 00:46:00,366
+(CROWD MURMURING)
+
+958
+00:46:01,499 --> 00:46:02,699
+Where are you pointing?
+
+959
+00:46:04,132 --> 00:46:05,099
+There.
+
+960
+00:46:05,232 --> 00:46:06,332
+This way or that way?
+
+961
+00:46:07,132 --> 00:46:08,332
+There.
+
+962
+00:46:08,466 --> 00:46:09,746
+- HOLMES: Oh.
+- KLINGER: The Hexagon.
+
+963
+00:46:09,866 --> 00:46:11,900
+But I won't fight a one-armed man.
+
+964
+00:46:12,032 --> 00:46:14,866
+Oh, no. I've got this,
+Sherlock. (SNIFFS)
+
+965
+00:46:15,000 --> 00:46:17,432
+It won't be the first time I've
+fought a cripple. (CHUCKLES)
+
+966
+00:46:17,566 --> 00:46:18,666
+Oh, uh...
+
+967
+00:46:18,799 --> 00:46:20,199
+You won't be fighting me.
+
+968
+00:46:20,332 --> 00:46:22,366
+Nah, nah, nah.
+
+969
+00:46:22,499 --> 00:46:24,165
+You're fighting my mate.
+
+970
+00:46:24,299 --> 00:46:26,165
+Meet Brawn.
+
+971
+00:46:28,533 --> 00:46:29,833
+(STRAINS)
+(THUDS)
+
+972
+00:46:44,032 --> 00:46:45,633
+Oh, come on.
+
+973
+00:46:45,766 --> 00:46:47,065
+(MORIARTY LAUGHS MENACINGLY)
+
+974
+00:46:47,199 --> 00:46:48,466
+Well, I call bullshit.
+
+975
+00:46:48,599 --> 00:46:52,299
+(BELL DINGING)
+(CROWD CHEERING)
+
+976
+00:46:52,432 --> 00:46:54,833
+I fear it might be suicide
+to fight this man.
+
+977
+00:46:54,966 --> 00:46:57,165
+I think it's mostly psychological.
+
+978
+00:46:57,299 --> 00:46:58,399
+(ROARING)
+
+979
+00:46:59,332 --> 00:47:00,799
+(CROWD EXCLAIMS)
+
+980
+00:47:00,933 --> 00:47:03,000
+I'm psychologically
+scared shitless right now.
+
+981
+00:47:03,132 --> 00:47:05,599
+CROWD: (CHANTING)
+Fight! Fight! Fight!
+
+982
+00:47:05,733 --> 00:47:07,266
+(ROARING)
+
+983
+00:47:08,266 --> 00:47:10,032
+Okay. Okay.
+
+984
+00:47:10,165 --> 00:47:13,000
+But if you want to watch
+this fight, you have to pay.
+
+985
+00:47:13,132 --> 00:47:14,766
+You have to pay to view it.
+
+986
+00:47:14,900 --> 00:47:17,833
+(CROWD GROANING)
+This is a pay-to-view-it fight.
+
+987
+00:47:17,966 --> 00:47:19,933
+WATSON: Yes, I know
+it seems a bit unfair,
+
+988
+00:47:20,065 --> 00:47:21,733
+but if you split it among a few friends
+
+989
+00:47:21,866 --> 00:47:23,432
+and buy some beers, some pizza,
+
+990
+00:47:23,566 --> 00:47:25,733
+it could be a fun thing to do
+with the guys.
+
+991
+00:47:25,866 --> 00:47:30,533
+It's time!
+
+992
+00:47:30,666 --> 00:47:33,666
+Let's get ready to scuffle!
+(ALL CHEERING)
+
+993
+00:47:33,799 --> 00:47:35,199
+(BELL DINGING)
+
+994
+00:47:35,332 --> 00:47:37,499
+CROWD: (CHANTING)
+Scuffle! Scuffle! Scuffle!
+
+995
+00:47:37,633 --> 00:47:38,633
+MAN: Nice!
+
+996
+00:47:38,766 --> 00:47:40,000
+HOLMES:
+What is she doing here?
+
+997
+00:47:40,132 --> 00:47:41,566
+It's 6:00 in the morning.
+
+998
+00:47:41,699 --> 00:47:43,232
+Holmes, I don't know why...
+
+999
+00:47:43,366 --> 00:47:44,966
+Yes... but that really jacked me up.
+
+1000
+00:47:45,099 --> 00:47:46,900
+Ah! I think I might stand a chance.
+
+1001
+00:47:47,032 --> 00:47:48,833
+It reminds me of Istanbul.
+
+1002
+00:47:48,966 --> 00:47:51,633
+Exactly. And what
+did I beat in Istanbul?
+
+1003
+00:47:51,766 --> 00:47:53,366
+Syphilis!
+Syphilis! Exactly.
+
+1004
+00:47:53,499 --> 00:47:54,733
+Go get him.
+All right.
+
+1005
+00:47:55,499 --> 00:47:56,499
+Come on!
+
+1006
+00:47:56,633 --> 00:47:57,966
+"Come on"?
+You come on!
+
+1007
+00:47:58,099 --> 00:47:59,499
+You!
+
+1008
+00:47:59,633 --> 00:48:01,032
+You mountain of flesh.
+
+1009
+00:48:01,165 --> 00:48:03,165
+(SHOUTING)
+
+1010
+00:48:03,299 --> 00:48:04,866
+(SCREAMING)
+
+1011
+00:48:05,000 --> 00:48:06,766
+(ROARING)
+
+1012
+00:48:06,900 --> 00:48:09,933
+(CROWD CHEERING)
+
+1013
+00:48:10,065 --> 00:48:12,165
+Your turn, Mr. Holmes!
+
+1014
+00:48:12,299 --> 00:48:14,666
+Yes, I know.
+Of course I'm next.
+
+1015
+00:48:19,666 --> 00:48:22,000
+HOLMES:
+<i>Opponent, 350 pounds.</i>
+
+1016
+00:48:22,132 --> 00:48:23,533
+<i>Use pipe.</i>
+
+1017
+00:48:23,666 --> 00:48:26,266
+<i>Create diversion to distract his gaze.</i>
+
+1018
+00:48:28,032 --> 00:48:30,000
+<i>Plan of attack,</i>
+
+1019
+00:48:30,132 --> 00:48:32,866
+<i>surprise first blow to center of mass.</i>
+
+1020
+00:48:33,000 --> 00:48:35,666
+<i>Gracefully dodge counterpunch.</i>
+
+1021
+00:48:35,799 --> 00:48:37,499
+<i>Employ visual impairment.</i>
+
+1022
+00:48:37,633 --> 00:48:38,900
+(SCREAMS)
+
+1023
+00:48:39,032 --> 00:48:41,466
+<i>Easily duck wild swing.</i>
+
+1024
+00:48:41,599 --> 00:48:44,733
+<i>Utilize Tibetan ototoxic method</i>
+
+1025
+00:48:44,866 --> 00:48:46,466
+<i>to disrupt his balance.</i>
+(GROANING)
+
+1026
+00:48:48,232 --> 00:48:49,399
+<i>Grab facial hair.</i>
+
+1027
+00:48:49,533 --> 00:48:51,165
+<i>Use for leverage.</i>
+
+1028
+00:48:51,299 --> 00:48:53,199
+<i>Okinawan beard flip.</i>
+
+1029
+00:48:55,766 --> 00:48:57,399
+<i>Enemy incapacitated.</i>
+
+1030
+00:48:58,165 --> 00:48:59,232
+<i>Catch pipe.</i>
+
+1031
+00:49:00,432 --> 00:49:02,666
+<i>Revel in crowd's adulation.</i>
+
+1032
+00:49:04,165 --> 00:49:07,299
+(CROWD CHEERING)
+
+1033
+00:49:14,733 --> 00:49:16,599
+(HOLMES GRUNTS)
+(CHUCKLING)
+
+1034
+00:49:18,165 --> 00:49:19,399
+Oh, no.
+
+1035
+00:49:19,533 --> 00:49:20,900
+(WATSON YELLS)
+(GROANS)
+
+1036
+00:49:21,065 --> 00:49:22,499
+(CROWD EXCLAIMS)
+
+1037
+00:49:22,633 --> 00:49:23,666
+Good show, Watson.
+
+1038
+00:49:23,799 --> 00:49:25,332
+Thank you, Holmes.
+(YELLS)
+
+1039
+00:49:25,466 --> 00:49:26,866
+(GROANS)
+
+1040
+00:49:27,000 --> 00:49:28,666
+Break his pelvis.
+
+1041
+00:49:28,799 --> 00:49:30,900
+(GROANS)
+Go! Again!
+
+1042
+00:49:31,032 --> 00:49:32,900
+Club him like a baby seal.
+
+1043
+00:49:33,499 --> 00:49:34,533
+(GRUNTS)
+
+1044
+00:49:37,065 --> 00:49:38,366
+(WATSON PANTING)
+
+1045
+00:49:38,499 --> 00:49:40,299
+What have I done?
+No, you're fine.
+
+1046
+00:49:40,432 --> 00:49:42,065
+Okay.
+Now,
+
+1047
+00:49:42,199 --> 00:49:45,332
+tell us everything you know
+about the plot to kill the Queen.
+
+1048
+00:49:46,199 --> 00:49:47,366
+All right.
+
+1049
+00:49:47,499 --> 00:49:49,165
+I'll tell you everything I know.
+
+1050
+00:49:51,332 --> 00:49:52,833
+I've been stabbed in the back.
+
+1051
+00:49:55,566 --> 00:49:56,699
+Meaning?
+Oh.
+
+1052
+00:49:56,833 --> 00:49:58,499
+Metaphorically speaking, yes.
+
+1053
+00:49:58,633 --> 00:50:01,399
+No, I've literally
+been stabbed in the back...
+
+1054
+00:50:01,533 --> 00:50:03,633
+(CROWD EXCLAIMING)
+(GASPS)
+
+1055
+00:50:03,766 --> 00:50:05,032
+Holmes, he's escaping.
+
+1056
+00:50:07,666 --> 00:50:08,699
+(GROANS)
+
+1057
+00:50:10,399 --> 00:50:12,000
+(GASPING)
+
+1058
+00:50:14,032 --> 00:50:15,599
+So Moriarty is in England.
+
+1059
+00:50:15,733 --> 00:50:18,766
+(SIGHS) Watson.
+Does it look like Moriarty
+
+1060
+00:50:18,900 --> 00:50:20,766
+now?
+(GROANS)
+
+1061
+00:50:20,900 --> 00:50:22,199
+Who is this?
+
+1062
+00:50:22,332 --> 00:50:24,266
+Jacob Musgrave,
+
+1063
+00:50:24,399 --> 00:50:26,499
+as I've been saying all along.
+
+1064
+00:50:26,633 --> 00:50:28,699
+A man who looks so much like Moriarty,
+
+1065
+00:50:28,833 --> 00:50:31,366
+a simple beard fooled almost everyone.
+
+1066
+00:50:31,499 --> 00:50:32,819
+(WHIMPERS) All right, I admit it.
+
+1067
+00:50:32,900 --> 00:50:34,699
+I am no Moriarty.
+
+1068
+00:50:34,833 --> 00:50:36,332
+My name is Musgrave,
+
+1069
+00:50:36,466 --> 00:50:37,766
+just like he says.
+
+1070
+00:50:39,165 --> 00:50:41,099
+Wow.
+HOLMES: Who put you up to this?
+
+1071
+00:50:41,232 --> 00:50:44,399
+Oh, they've been leaving me
+notes telling me what to do.
+
+1072
+00:50:44,533 --> 00:50:45,633
+I don't know who it is.
+
+1073
+00:50:45,766 --> 00:50:48,032
+I swear, I'm just a simple wanker.
+
+1074
+00:50:48,165 --> 00:50:50,032
+He's telling the truth, Watson.
+
+1075
+00:50:50,165 --> 00:50:52,533
+This morally deficient creature,
+
+1076
+00:50:52,666 --> 00:50:56,232
+this awful, awful excuse
+for a man, this...
+
+1077
+00:50:56,366 --> 00:50:58,633
+Bag of rubbish.
+Yes, good one, Watson. Yes.
+
+1078
+00:50:58,766 --> 00:51:00,466
+Come on, guys. I'm dying.
+
+1079
+00:51:00,599 --> 00:51:03,032
+These are the wages of wanking, you see?
+
+1080
+00:51:03,165 --> 00:51:05,232
+Wait, wait, wait.
+What?
+
+1081
+00:51:05,366 --> 00:51:06,366
+Just a...
+
+1082
+00:51:06,499 --> 00:51:07,566
+Don't wank on us.
+
+1083
+00:51:09,132 --> 00:51:10,966
+A coal.
+
+1084
+00:51:11,099 --> 00:51:13,566
+Said you were to take it to Newcastle.
+
+1085
+00:51:15,366 --> 00:51:17,566
+- A lump of coal?
+- MUSGRAVE: Yeah.
+
+1086
+00:51:17,699 --> 00:51:18,866
+To Newcastle?
+
+1087
+00:51:19,000 --> 00:51:20,833
+Newcastle by the river?
+
+1088
+00:51:20,966 --> 00:51:23,733
+HOLMES: Perhaps this clue will
+lead us to the real mastermind.
+
+1089
+00:51:23,866 --> 00:51:24,833
+Time is running out.
+
+1090
+00:51:24,966 --> 00:51:26,165
+We must save the Queen.
+
+1091
+00:51:26,299 --> 00:51:27,599
+Good luck to you.
+
+1092
+00:51:27,733 --> 00:51:29,232
+(EXHALES)
+
+1093
+00:51:29,366 --> 00:51:31,266
+<i>(LONDON TOWN</i> BY DUB PISTOLS PLAYS)
+
+1094
+00:51:31,399 --> 00:51:33,533
+<i>♪ While speeding to London town</i>
+
+1095
+00:51:33,666 --> 00:51:36,232
+<i>♪ Bad man he said we gotta get down</i>
+
+1096
+00:51:36,366 --> 00:51:38,866
+<i>♪ Keep smiling and forget that frown</i>
+
+1097
+00:51:39,000 --> 00:51:41,366
+<i>♪ Little reason to keep that crown</i>
+
+1098
+00:51:41,499 --> 00:51:44,032
+<i>♪ While speeding to London town</i>
+
+1099
+00:51:44,165 --> 00:51:46,799
+<i>♪ Bad man he said we gotta get down</i>
+
+1100
+00:51:46,933 --> 00:51:49,299
+<i>♪ Keep smiling
+and forget that frown... ♪</i>
+
+1101
+00:51:49,432 --> 00:51:52,466
+HOLMES: <i>Bring these coals to Newcastle.</i>
+
+1102
+00:51:52,599 --> 00:51:54,299
+<i>Coals.</i>
+
+1103
+00:51:54,432 --> 00:51:56,566
+<i>Coals. "Sherlock."</i>
+
+1104
+00:51:56,699 --> 00:51:59,633
+<i>"Three days until I rewrite
+history and kill the queen."</i>
+
+1105
+00:51:59,766 --> 00:52:01,532
+GRACE: <i>Millicent is the
+subject of my research.</i>
+
+1106
+00:52:01,533 --> 00:52:03,366
+HOLMES: <i>Coals to Newcastle.</i>
+
+1107
+00:52:03,499 --> 00:52:05,665
+<i>Talking to you, it's as if our
+brains are sharing a tandem bicycle.</i>
+
+1108
+00:52:05,666 --> 00:52:07,499
+GRACE: <i>She has the mental capacity of...</i>
+
+1109
+00:52:07,633 --> 00:52:09,131
+(CACKLES) HOLMES: <i>Now you
+have but three days...</i>
+
+1110
+00:52:09,132 --> 00:52:10,533
+<i>Bring these coals to Newcastle.</i>
+
+1111
+00:52:10,666 --> 00:52:13,499
+<i>♪ Co-detective Sherlock and me ♪</i>
+
+1112
+00:52:13,633 --> 00:52:14,733
+Uh... Oh.
+
+1113
+00:52:14,866 --> 00:52:16,900
+Good morning, Sherlock.
+
+1114
+00:52:17,032 --> 00:52:18,533
+What's happened?
+Well, I'm...
+
+1115
+00:52:18,666 --> 00:52:20,866
+I'm trying to untangle
+this baffling clue.
+
+1116
+00:52:21,000 --> 00:52:22,232
+Ah.
+
+1117
+00:52:22,366 --> 00:52:24,566
+Ever since I met Millie,
+my mind is muddled.
+
+1118
+00:52:24,699 --> 00:52:26,666
+Do you suppose she's infected me
+
+1119
+00:52:26,799 --> 00:52:28,766
+with some sort of a disease?
+
+1120
+00:52:28,900 --> 00:52:29,866
+Disease?
+
+1121
+00:52:30,000 --> 00:52:31,533
+My heart races.
+
+1122
+00:52:31,666 --> 00:52:32,933
+My palms sweat.
+
+1123
+00:52:33,065 --> 00:52:34,699
+I have all these feelings.
+
+1124
+00:52:34,833 --> 00:52:37,566
+Holmes, get a hold of yourself.
+You're not sick.
+
+1125
+00:52:38,699 --> 00:52:39,733
+You're in love.
+
+1126
+00:52:39,866 --> 00:52:41,833
+Love? Horseradish!
+
+1127
+00:52:41,966 --> 00:52:43,165
+I'm a man of logic.
+
+1128
+00:52:43,299 --> 00:52:44,933
+There's nothing to be ashamed of.
+
+1129
+00:52:45,065 --> 00:52:49,466
+In fact, I, too, have been taken
+by this malady called love.
+
+1130
+00:52:49,599 --> 00:52:52,566
+Grace has asked me to call upon her.
+
+1131
+00:52:52,699 --> 00:52:54,366
+Apparently,
+
+1132
+00:52:54,499 --> 00:52:57,332
+I sent her quite the charming
+telegram last night.
+
+1133
+00:52:57,466 --> 00:52:58,733
+(CHUCKLING)
+
+1134
+00:52:58,866 --> 00:53:00,699
+Watson, you've cracked it.
+
+1135
+00:53:00,833 --> 00:53:02,165
+Have I? Co-detective?
+
+1136
+00:53:02,299 --> 00:53:03,466
+Think, Watson.
+Uh...
+
+1137
+00:53:03,599 --> 00:53:05,000
+Is there a single logical reason
+
+1138
+00:53:05,132 --> 00:53:07,499
+for Grace to want to seek your company?
+
+1139
+00:53:07,633 --> 00:53:09,000
+Romantic interest?
+
+1140
+00:53:09,132 --> 00:53:10,733
+No.
+My eyes?
+
+1141
+00:53:10,866 --> 00:53:11,966
+It's all a ruse.
+
+1142
+00:53:12,099 --> 00:53:14,065
+Moriarty escapes to America,
+
+1143
+00:53:14,199 --> 00:53:17,065
+and then these two
+American women show up?
+
+1144
+00:53:17,199 --> 00:53:20,833
+Sorry, you're saying
+Grace is the killer?
+
+1145
+00:53:20,966 --> 00:53:23,599
+Of course she's not the killer.
+She's an American.
+
+1146
+00:53:23,733 --> 00:53:26,000
+She would have used a gun.
+Ah. Hmm.
+
+1147
+00:53:26,132 --> 00:53:29,000
+No, Grace is working for the killer.
+
+1148
+00:53:29,132 --> 00:53:30,099
+Oh.
+
+1149
+00:53:30,232 --> 00:53:32,065
+We shall seduce her,
+
+1150
+00:53:32,199 --> 00:53:34,199
+and that will lead us to the murderer.
+
+1151
+00:53:34,332 --> 00:53:35,699
+Mmm-hmm.
+
+1152
+00:53:36,233 --> 00:53:37,050
+Yes.
+
+1153
+00:53:37,051 --> 00:54:29,051
+_ _ _
+
+1154
+00:54:30,052 --> 00:54:31,300
+(KNOCKING AT DOOR)
+
+1155
+00:54:33,000 --> 00:54:34,480
+Who could that be at this early hour?
+
+1156
+00:54:34,533 --> 00:54:36,199
+(KNOCKING CONTINUES)
+Enter.
+
+1157
+00:54:42,633 --> 00:54:44,399
+WATSON: Her Majesty.
+(GASPS)
+
+1158
+00:54:45,533 --> 00:54:48,366
+Have you come to see me?
+
+1159
+00:54:48,499 --> 00:54:51,366
+Mr. Holmes, I have
+but two days left to live
+
+1160
+00:54:51,499 --> 00:54:53,466
+unless you can solve this case.
+
+1161
+00:54:54,366 --> 00:54:57,399
+My queen, do come in.
+
+1162
+00:54:57,533 --> 00:54:59,833
+I shall speak with
+Mr. Holmes in private.
+
+1163
+00:55:02,699 --> 00:55:04,132
+Your Majesty.
+
+1164
+00:55:04,266 --> 00:55:05,799
+You'll be happy to know
+
+1165
+00:55:05,933 --> 00:55:08,633
+that, just this morning
+we discovered a new clue.
+
+1166
+00:55:08,766 --> 00:55:10,533
+This chunk of coal.
+
+1167
+00:55:10,666 --> 00:55:11,900
+What does it mean?
+
+1168
+00:55:12,032 --> 00:55:13,566
+It's quite a mystery.
+
+1169
+00:55:13,699 --> 00:55:15,432
+(GIGGLES)
+
+1170
+00:55:15,566 --> 00:55:17,232
+Is this going to be a problem?
+
+1171
+00:55:17,366 --> 00:55:18,699
+Watson.
+
+1172
+00:55:18,833 --> 00:55:20,733
+Perhaps the Queen would enjoy some tea.
+
+1173
+00:55:20,866 --> 00:55:22,266
+Oh, yes, of course.
+
+1174
+00:55:23,833 --> 00:55:27,199
+Mr. Holmes, the empire
+is depending on you.
+
+1175
+00:55:27,332 --> 00:55:30,866
+Your Majesty, I now
+suspect two American women
+
+1176
+00:55:31,000 --> 00:55:32,900
+are somehow involved in this plot.
+
+1177
+00:55:34,032 --> 00:55:35,032
+Sorry.
+
+1178
+00:55:35,833 --> 00:55:37,366
+Your Majesty,
+
+1179
+00:55:37,499 --> 00:55:40,366
+do you think I could have
+a picture of us together?
+
+1180
+00:55:40,499 --> 00:55:42,566
+But who is going to take the photograph?
+
+1181
+00:55:42,699 --> 00:55:44,566
+Oh, no, I'll take the photograph.
+
+1182
+00:55:44,699 --> 00:55:47,132
+You see, it's a type
+of a self-photograph.
+
+1183
+00:55:47,266 --> 00:55:49,599
+I can take it, and I will be in it also.
+
+1184
+00:55:49,733 --> 00:55:52,533
+You know what? I find, to take
+the most attractive photographs,
+
+1185
+00:55:52,666 --> 00:55:54,199
+you need to purse your lips together
+
+1186
+00:55:54,332 --> 00:55:56,366
+like a duck-billed platypus.
+
+1187
+00:55:56,499 --> 00:55:58,466
+Platypus face.
+Chins up.
+
+1188
+00:56:00,499 --> 00:56:02,866
+Hey.
+Hey. Hey, girl.
+
+1189
+00:56:03,000 --> 00:56:04,733
+You know, maybe over by the window.
+
+1190
+00:56:04,866 --> 00:56:06,698
+The lighting's much better there.
+Yes, yes, capital idea.
+
+1191
+00:56:06,699 --> 00:56:08,199
+(GROANS)
+(THUDDING)
+
+1192
+00:56:08,332 --> 00:56:10,466
+Oh, God. Ma'am, ma'am.
+HOLMES: Oh! Oh!
+
+1193
+00:56:10,599 --> 00:56:12,299
+Ma'am! Your Majesty.
+
+1194
+00:56:12,432 --> 00:56:14,366
+Oh, ma'am. Ma'am.
+
+1195
+00:56:14,499 --> 00:56:15,566
+Oh, dear.
+
+1196
+00:56:16,866 --> 00:56:18,099
+Tell me, Watson.
+
+1197
+00:56:19,699 --> 00:56:21,000
+She's dead.
+
+1198
+00:56:22,666 --> 00:56:23,933
+HOLMES: Dear God.
+
+1199
+00:56:24,065 --> 00:56:25,933
+(BREATHING HEAVILY)
+
+1200
+00:56:26,065 --> 00:56:28,232
+We've killed the Queen.
+(KNOCKING ON DOOR)
+
+1201
+00:56:28,366 --> 00:56:30,566
+Are you all right, Your Majesty?
+
+1202
+00:56:30,699 --> 00:56:31,900
+(IMITATING THE QUEEN)
+Yes.
+
+1203
+00:56:32,032 --> 00:56:33,599
+- Yes, I'm all right.
+- Are you sure?
+
+1204
+00:56:33,733 --> 00:56:35,365
+(IMITATING THE QUEEN)
+Yes, I'm quite fine.
+
+1205
+00:56:35,366 --> 00:56:37,766
+My lover, John Watson,
+will take good care of me.
+
+1206
+00:56:39,966 --> 00:56:42,266
+(WHISPERS) Why did you
+want that photograph?
+
+1207
+00:56:42,399 --> 00:56:44,599
+I didn't want the photograph.
+
+1208
+00:56:44,733 --> 00:56:46,566
+What are you talking about?
+
+1209
+00:56:46,699 --> 00:56:48,466
+Mr. Holmes? Dr. Watson?
+
+1210
+00:56:48,599 --> 00:56:50,399
+(IMITATING THE QUEEN)
+I'm very, very safe.
+
+1211
+00:56:50,533 --> 00:56:53,299
+(WHISPERING) She's so dead.
+She's so dead.
+
+1212
+00:56:53,432 --> 00:56:54,552
+- WATSON: I know.
+- HOLMES: Okay.
+
+1213
+00:56:54,633 --> 00:56:56,499
+We'll shove her down the toilet
+
+1214
+00:56:56,633 --> 00:56:58,665
+as if she was never here, and
+we'll deny ever seeing her.
+
+1215
+00:56:58,666 --> 00:57:00,299
+Right. Excellent.
+(BOTH GRUNTING)
+
+1216
+00:57:00,432 --> 00:57:01,499
+HOLMES: Come on.
+Come up.
+
+1217
+00:57:03,599 --> 00:57:05,065
+Here we are.
+Into the bathroom.
+
+1218
+00:57:05,199 --> 00:57:06,799
+(THUD)
+(BOTH GRUNTING)
+
+1219
+00:57:06,933 --> 00:57:08,399
+Mr. Holmes. Dr. Watson.
+
+1220
+00:57:08,533 --> 00:57:09,866
+What was the big bang?
+(GASPS)
+
+1221
+00:57:10,000 --> 00:57:11,332
+We must buy some time.
+(GASPS)
+
+1222
+00:57:11,466 --> 00:57:12,746
+Right.
+Let's get her to the door.
+
+1223
+00:57:12,833 --> 00:57:14,466
+GUARD: Open this door!
+Wait.
+
+1224
+00:57:14,599 --> 00:57:16,098
+WATSON: (IMITATING THE QUEEN)
+Hello. What do you want?
+
+1225
+00:57:16,099 --> 00:57:17,366
+Ma'am, are you all right?
+
+1226
+00:57:17,499 --> 00:57:19,699
+Yes, of course I'm fine.
+Can't you see?
+
+1227
+00:57:19,833 --> 00:57:21,164
+Yes, of course, ma'am.
+I'm so sorry.
+
+1228
+00:57:21,165 --> 00:57:22,365
+We've got it from here, boys. Thank you.
+
+1229
+00:57:22,366 --> 00:57:23,446
+- We're good.
+- GUARD: Yes, sir.
+
+1230
+00:57:23,566 --> 00:57:24,833
+(DOOR LOCKS)
+(BOTH GRUNTING)
+
+1231
+00:57:24,966 --> 00:57:26,165
+The trunk.
+Yes.
+
+1232
+00:57:26,299 --> 00:57:27,933
+Yes, we'll mail her to Africa.
+
+1233
+00:57:28,065 --> 00:57:29,366
+(BOTH GRUNTING)
+
+1234
+00:57:29,499 --> 00:57:30,900
+WATSON: Come on, ma'am.
+Sorry.
+
+1235
+00:57:31,032 --> 00:57:32,032
+HOLMES: There we go.
+
+1236
+00:57:32,165 --> 00:57:33,332
+Stuff her in there.
+
+1237
+00:57:33,466 --> 00:57:34,706
+Really thrust.
+(WATSON GRUNTING)
+
+1238
+00:57:34,733 --> 00:57:36,165
+Good. Good.
+
+1239
+00:57:36,866 --> 00:57:38,499
+Good. Good.
+
+1240
+00:57:38,633 --> 00:57:40,165
+- Hold on, Watson.
+- GUARD: Come on, boys.
+
+1241
+00:57:40,299 --> 00:57:42,099
+Open the door!
+(GRUNTING)
+
+1242
+00:57:42,232 --> 00:57:44,000
+Mr. Holmes. Dr. Watson.
+
+1243
+00:57:44,132 --> 00:57:46,399
+One, two, three. Watch your fingers.
+(BOTH GRUNTING)
+
+1244
+00:57:47,566 --> 00:57:49,466
+GUARD:
+Open this door immediately!
+
+1245
+00:57:49,599 --> 00:57:51,065
+This is bad.
+
+1246
+00:57:51,199 --> 00:57:52,759
+You know what we must do.
+(DOOR BANGING)
+
+1247
+00:57:53,633 --> 00:57:55,065
+Grab your toolbox.
+
+1248
+00:57:55,199 --> 00:57:57,533
+Let me in! I'm breaking down the door!
+
+1249
+00:57:57,666 --> 00:57:59,199
+(BOTH GRUNTING)
+
+1250
+00:57:59,332 --> 00:58:01,332
+Bone saw.
+Bone saw.
+
+1251
+00:58:01,466 --> 00:58:02,932
+- WATSON: Oh, God.
+- GUARD: Come on! Push! Come on, together!
+
+1252
+00:58:02,933 --> 00:58:05,633
+Watson, toilet-sized chunks.
+
+1253
+00:58:05,766 --> 00:58:06,966
+GUARD: Put your back into it!
+
+1254
+00:58:07,099 --> 00:58:08,139
+(GUARDS GRUNT)
+(DOOR OPENS)
+
+1255
+00:58:10,432 --> 00:58:11,733
+Good God!
+
+1256
+00:58:11,866 --> 00:58:13,132
+What have you done?
+
+1257
+00:58:13,799 --> 00:58:14,900
+(GASPS)
+
+1258
+00:58:15,032 --> 00:58:16,499
+Platypus lips.
+
+1259
+00:58:21,132 --> 00:58:23,332
+(BONE SAW CLATTERS)
+
+1260
+00:58:23,466 --> 00:58:27,266
+Can you send me a copy
+of the self-photograph?
+
+1261
+00:58:28,466 --> 00:58:30,666
+Absolutely.
+
+1262
+00:58:30,799 --> 00:58:34,699
+It will arrive
+at the palace in about a week.
+
+1263
+00:58:36,366 --> 00:58:37,599
+Gentlemen,
+
+1264
+00:58:37,733 --> 00:58:41,332
+you have two days to stop this killer.
+
+1265
+00:58:41,466 --> 00:58:42,533
+Yes, ma'am.
+
+1266
+00:58:43,733 --> 00:58:45,000
+God save the Queen.
+
+1267
+00:58:48,299 --> 00:58:50,000
+(INDISTINCT CHATTER)
+
+1268
+00:58:50,132 --> 00:58:53,566
+What a perfect day for a picnic
+at London's greatest spectacle,
+
+1269
+00:58:53,699 --> 00:58:55,833
+the Anglo-American Exhibition.
+
+1270
+00:58:55,966 --> 00:58:57,866
+A celebration of that
+special relationship
+
+1271
+00:58:58,000 --> 00:58:59,733
+between our nation and yours.
+
+1272
+00:58:59,866 --> 00:59:01,833
+Yes, such a special relationship
+
+1273
+00:59:01,966 --> 00:59:03,866
+between these two nations,
+
+1274
+00:59:04,000 --> 00:59:05,966
+although I could never live
+
+1275
+00:59:06,099 --> 00:59:08,000
+in a country with an unelected ruler
+
+1276
+00:59:08,132 --> 00:59:09,165
+like the Queen.
+
+1277
+00:59:09,299 --> 00:59:11,165
+(SCOFFS) Why ever not?
+
+1278
+00:59:11,299 --> 00:59:13,399
+In America, we have democracy.
+
+1279
+00:59:13,533 --> 00:59:16,366
+Our president is a person
+our people have all chosen.
+
+1280
+00:59:16,499 --> 00:59:17,433
+Mmm.
+
+1281
+00:59:17,466 --> 00:59:21,699
+An assurance that only the finest
+and most qualified man will lead,
+
+1282
+00:59:21,833 --> 00:59:25,733
+not a wealthy tyrant who
+cares for nothing but himself.
+
+1283
+00:59:25,866 --> 00:59:28,499
+But you have the electoral
+college, which surely will prevent
+
+1284
+00:59:28,633 --> 00:59:30,933
+some trumped-up charlatan
+from gaining power.
+
+1285
+00:59:31,065 --> 00:59:32,666
+Not always, unfortunately.
+
+1286
+00:59:32,799 --> 00:59:34,900
+It would be great
+to have a strong businessman.
+
+1287
+00:59:35,032 --> 00:59:36,499
+But a showman as well.
+
+1288
+00:59:36,633 --> 00:59:38,000
+I love a good show.
+
+1289
+00:59:38,132 --> 00:59:40,099
+America.
+(GRACE AND WATSON CHUCKLE)
+
+1290
+00:59:40,232 --> 00:59:43,132
+We gave you your freedom, and now
+look what you've done with it.
+
+1291
+01:00:06,133 --> 01:00:07,766
+HOLMES: Remember, Watson.
+(GRUNTS)
+
+1292
+01:00:07,899 --> 01:00:11,400
+Relax them with small talk,
+then begin the seduction.
+
+1293
+01:00:11,532 --> 01:00:13,099
+I must say, she doesn't look
+
+1294
+01:00:13,233 --> 01:00:15,133
+like she could be
+an accessory to murder.
+
+1295
+01:00:16,432 --> 01:00:18,732
+Well, looks can be deceiving.
+
+1296
+01:00:18,866 --> 01:00:20,233
+(WHINY GRUNT)
+
+1297
+01:00:20,366 --> 01:00:22,732
+Remember, we're here to seduce.
+
+1298
+01:00:22,866 --> 01:00:26,966
+These physical displays of
+strength will enchant them.
+
+1299
+01:00:27,099 --> 01:00:28,366
+WATSON: Ah.
+
+1300
+01:00:28,499 --> 01:00:30,266
+(VERDI'S <i>LA DONNA E MOBILE</i> PLAYS)
+
+1301
+01:00:30,400 --> 01:00:31,532
+(PANTING)
+
+1302
+01:00:31,666 --> 01:00:33,033
+I could use a bit of cocaine.
+
+1303
+01:00:33,166 --> 01:00:34,732
+Did you bring a vial with you?
+
+1304
+01:00:36,099 --> 01:00:38,465
+(BOTH GRUNTING MANIACALLY)
+
+1305
+01:00:38,599 --> 01:00:39,766
+Very good.
+
+1306
+01:00:42,099 --> 01:00:43,632
+(BOTH YELLING)
+
+1307
+01:00:46,565 --> 01:00:47,899
+(GROANS)
+
+1308
+01:00:48,033 --> 01:00:50,465
+Are you all right?
+I'm... I'm exhausted.
+
+1309
+01:00:50,599 --> 01:00:52,933
+There is one test I can employ
+
+1310
+01:00:53,066 --> 01:00:55,732
+to prove she truly is
+who she says she is.
+
+1311
+01:00:55,866 --> 01:00:57,233
+Then do it, Holmes.
+
+1312
+01:00:57,366 --> 01:00:59,632
+Employ your last test.
+I simply must know.
+
+1313
+01:00:59,766 --> 01:01:00,899
+(GROANS)
+
+1314
+01:01:02,899 --> 01:01:04,133
+Help!
+John?
+
+1315
+01:01:04,266 --> 01:01:05,899
+- This man has been taken ill.
+- GRACE: What?
+
+1316
+01:01:06,033 --> 01:01:08,333
+(GROANING)
+Oh!
+
+1317
+01:01:08,465 --> 01:01:09,766
+Let me see.
+
+1318
+01:01:09,899 --> 01:01:11,799
+If only there were a doctor present.
+
+1319
+01:01:11,933 --> 01:01:15,099
+Clearly, he's had a severe
+blow to his occipital bone.
+
+1320
+01:01:15,233 --> 01:01:16,300
+He's concussed.
+
+1321
+01:01:16,432 --> 01:01:18,699
+And I am a doctor.
+A doctor?
+
+1322
+01:01:18,832 --> 01:01:21,899
+A woman doctor. What times we live in.
+(SIGHS)
+
+1323
+01:01:22,033 --> 01:01:23,766
+Could it be?
+
+1324
+01:01:23,899 --> 01:01:26,532
+Is Grace truly a doctor?
+
+1325
+01:01:26,666 --> 01:01:29,066
+Are her feelings of affection genuine?
+
+1326
+01:01:29,199 --> 01:01:31,033
+Then she's innocent.
+
+1327
+01:01:31,166 --> 01:01:32,400
+Watson, get up.
+
+1328
+01:01:32,532 --> 01:01:33,732
+We need to go see my brother.
+
+1329
+01:01:33,866 --> 01:01:35,899
+I love you, Grace.
+Oh!
+
+1330
+01:01:38,266 --> 01:01:40,732
+WATSON: The legendary
+Diogenes Men's Club.
+
+1331
+01:01:40,866 --> 01:01:43,266
+HOLMES: Home of London's
+most awkward gentlemen
+
+1332
+01:01:43,400 --> 01:01:44,599
+and my brother. (EXCLAIMS)
+
+1333
+01:01:44,732 --> 01:01:46,266
+(BIRD SCREECHING)
+
+1334
+01:01:46,400 --> 01:01:47,632
+Holmes.
+Mmm.
+
+1335
+01:01:47,766 --> 01:01:49,166
+I can't believe you have a brother.
+
+1336
+01:01:49,266 --> 01:01:51,166
+Yes, but we're nothing alike.
+
+1337
+01:01:51,300 --> 01:01:53,599
+He's an arrogant man
+who never appreciates
+
+1338
+01:01:53,732 --> 01:01:55,333
+the people around him.
+
+1339
+01:01:55,465 --> 01:01:56,999
+BUTLER: Follow me. Here.
+
+1340
+01:02:01,400 --> 01:02:03,300
+MYCROFT: Well, well, well.
+
+1341
+01:02:05,400 --> 01:02:08,632
+So you are finally seeking
+your brother's help.
+
+1342
+01:02:08,766 --> 01:02:10,799
+(SIGHS)
+I must say, I'm not surprised.
+
+1343
+01:02:10,933 --> 01:02:13,432
+And this vague assembly
+of limbs and fatty tissue,
+
+1344
+01:02:13,565 --> 01:02:14,966
+I assume, is Dr. Watson.
+
+1345
+01:02:15,099 --> 01:02:16,133
+Mmm.
+
+1346
+01:02:19,432 --> 01:02:21,632
+(MUFFLED, DISTORTED VOICES)
+
+1347
+01:02:29,366 --> 01:02:31,199
+So shall I get us started?
+
+1348
+01:02:31,333 --> 01:02:33,866
+(MEN SHUSHING)
+
+1349
+01:02:33,999 --> 01:02:35,699
+Watson, please.
+
+1350
+01:02:35,832 --> 01:02:37,732
+We're in the middle of a conversation.
+
+1351
+01:02:37,866 --> 01:02:39,599
+Can't you see?
+
+1352
+01:02:39,732 --> 01:02:41,564
+When the two most brilliant
+minds in all of England
+
+1353
+01:02:41,565 --> 01:02:42,799
+have a fraternal bond,
+
+1354
+01:02:42,933 --> 01:02:44,899
+words are an inefficiency.
+
+1355
+01:02:45,033 --> 01:02:47,465
+We communicate without words, silently,
+
+1356
+01:02:47,599 --> 01:02:49,933
+from giant brain to gianter brain.
+
+1357
+01:02:50,066 --> 01:02:51,732
+WATSON: Of course.
+
+1358
+01:02:51,866 --> 01:02:54,300
+I'll join in as I see fit.
+(CHUCKLES)
+
+1359
+01:02:54,432 --> 01:02:57,465
+(BOTH CLEAR THROAT)
+
+1360
+01:02:57,599 --> 01:03:00,333
+MYCROFT: <i>I can spare a few minutes
+to solve your little mystery</i>
+
+1361
+01:03:00,465 --> 01:03:03,465
+<i>and help quench your thirst
+for public adulation.</i>
+
+1362
+01:03:03,599 --> 01:03:05,933
+HOLMES:
+<i>My thirst is for logic.</i>
+
+1363
+01:03:06,066 --> 01:03:09,899
+<i>I don't care what the public thinks
+of London's best-loved detective,</i>
+
+1364
+01:03:10,033 --> 01:03:11,166
+<i>Sherlock Holmes.</i>
+
+1365
+01:03:11,300 --> 01:03:12,966
+WATSON: <i>Thoughts.</i>
+(GROANS)
+
+1366
+01:03:13,099 --> 01:03:14,933
+(FEEDBACK SQUEALS)
+<i>Me-Me talky.</i>
+
+1367
+01:03:15,066 --> 01:03:16,333
+<i>Me-Me talky.</i>
+
+1368
+01:03:16,465 --> 01:03:17,899
+<i>You find killer.</i>
+
+1369
+01:03:18,033 --> 01:03:21,099
+<i>Me-Me talky?
+We find killer?</i>
+
+1370
+01:03:21,233 --> 01:03:23,766
+Watson, what are you trying to do?
+
+1371
+01:03:23,899 --> 01:03:25,033
+Trying to brain-speak.
+
+1372
+01:03:25,166 --> 01:03:27,066
+HOLMES: You're going to hurt yourself.
+
+1373
+01:03:27,199 --> 01:03:29,066
+Uh, sorry.
+(CHUCKLES)
+
+1374
+01:03:29,199 --> 01:03:31,565
+Uh, perhaps the gentleman
+would be more comfortable
+
+1375
+01:03:31,699 --> 01:03:34,400
+in the companions' chamber.
+
+1376
+01:03:34,532 --> 01:03:37,966
+Perhaps, or perhaps I'd be
+comfortable here by the fire.
+
+1377
+01:03:38,099 --> 01:03:39,400
+In the companions' chamber, sir.
+
+1378
+01:03:39,532 --> 01:03:40,699
+Yes, fine. Of course.
+
+1379
+01:03:40,832 --> 01:03:42,599
+Great idea.
+Yeah, capital idea.
+
+1380
+01:03:42,732 --> 01:03:44,233
+I'll be in the companions' room. Yes.
+
+1381
+01:03:44,366 --> 01:03:47,300
+The equal companions' room,
+should you need me.
+
+1382
+01:03:47,432 --> 01:03:48,799
+It's just here.
+
+1383
+01:03:48,933 --> 01:03:50,632
+(MONKEY SCREECHING)
+
+1384
+01:03:52,565 --> 01:03:54,166
+(DOOR CLOSES)
+
+1385
+01:03:54,300 --> 01:03:56,132
+BUTLER: Please enjoy the company
+of your fellow companions.
+
+1386
+01:03:56,133 --> 01:03:58,066
+I see. Huh.
+
+1387
+01:03:58,199 --> 01:04:01,333
+Balloons are happy,
+but they're not alive.
+
+1388
+01:04:02,799 --> 01:04:04,079
+Fair enough.
+(CHUCKLES NERVOUSLY)
+
+1389
+01:04:04,133 --> 01:04:05,166
+(LOCK CLICKS)
+
+1390
+01:04:05,933 --> 01:04:08,799
+(DOORKNOB RATTLING)
+
+1391
+01:04:08,933 --> 01:04:13,133
+HOLMES: <i>Who is this brilliant
+nemesis capable of besting me?</i>
+
+1392
+01:04:13,266 --> 01:04:16,599
+MYCROFT: <i>If your nemesis
+were truly smarter than you,</i>
+
+1393
+01:04:16,732 --> 01:04:18,599
+<i>it could only be me.</i>
+
+1394
+01:04:18,732 --> 01:04:20,899
+<i>And as I am not the killer,
+one must conclude</i>
+
+1395
+01:04:21,033 --> 01:04:24,266
+<i>that the killer did not,
+nor could not, outwit you.</i>
+
+1396
+01:04:24,400 --> 01:04:27,400
+HOLMES: <i>If the killer
+is my intellectual inferior,</i>
+
+1397
+01:04:27,532 --> 01:04:29,599
+<i>how has he predicted my every move?</i>
+
+1398
+01:04:29,732 --> 01:04:31,431
+MYCROFT: <i>The killer
+did not predict your actions.</i>
+
+1399
+01:04:31,432 --> 01:04:33,532
+<i>Our murderer is a student of yours,</i>
+
+1400
+01:04:33,666 --> 01:04:35,199
+<i>someone in your proximity.</i>
+
+1401
+01:04:35,333 --> 01:04:37,366
+<i>Someone who could
+observe you undetected.</i>
+
+1402
+01:04:37,499 --> 01:04:39,899
+<i>Someone who knows you
+better than anyone.</i>
+
+1403
+01:04:40,033 --> 01:04:41,432
+WATSON:
+<i>His mind radiates wisdom.</i>
+
+1404
+01:04:41,565 --> 01:04:43,266
+<i>Sherlock Holmes has done it again!</i>
+
+1405
+01:04:46,866 --> 01:04:48,233
+I am dying from anticipation.
+
+1406
+01:04:48,366 --> 01:04:49,765
+What did your brother tell you, Holmes?
+
+1407
+01:04:49,766 --> 01:04:51,632
+I believe I've cracked the case.
+
+1408
+01:04:51,766 --> 01:04:54,432
+It was in front of me the
+whole time, my dear Watson.
+
+1409
+01:04:54,565 --> 01:04:55,766
+Oh, do share.
+
+1410
+01:04:55,899 --> 01:04:57,732
+(SIGHS)
+And ruin the suspense?
+
+1411
+01:04:57,866 --> 01:05:00,400
+I just thought, since I
+worked the case with you...
+
+1412
+01:05:00,532 --> 01:05:01,766
+And we're here.
+(SIGHS)
+
+1413
+01:05:04,699 --> 01:05:06,133
+HOLMES: <i>Now,</i>
+
+1414
+01:05:06,266 --> 01:05:09,666
+you're all wondering why
+I gathered you here today.
+
+1415
+01:05:09,799 --> 01:05:13,066
+Prepare yourself to be astonished.
+
+1416
+01:05:13,199 --> 01:05:14,465
+The killer could only be a man
+
+1417
+01:05:14,599 --> 01:05:17,066
+who knew my actions at every turn.
+
+1418
+01:05:17,199 --> 01:05:19,766
+Who was present at every murder?
+
+1419
+01:05:19,899 --> 01:05:21,133
+Hmm?
+
+1420
+01:05:21,266 --> 01:05:23,799
+Who knows me better than anyone?
+
+1421
+01:05:23,933 --> 01:05:26,799
+It was you who arranged
+my birthday party
+
+1422
+01:05:26,933 --> 01:05:29,699
+and the cake which contained
+the first victim,
+
+1423
+01:05:29,832 --> 01:05:33,465
+initiating the events
+leading us to today.
+
+1424
+01:05:33,599 --> 01:05:36,999
+Dr. Watson is the killer.
+
+1425
+01:05:37,133 --> 01:05:39,400
+(OTHERS GASPING AND MURMURING)
+
+1426
+01:05:39,532 --> 01:05:40,799
+HOLMES:
+By studying my methods,
+
+1427
+01:05:40,933 --> 01:05:43,966
+you created a fake crime
+only you could solve.
+
+1428
+01:05:44,099 --> 01:05:46,599
+Why? I was to be so impressed
+
+1429
+01:05:46,732 --> 01:05:49,432
+that I would crown him co-detective.
+
+1430
+01:05:49,565 --> 01:05:52,099
+He wanted to rewrite history
+
+1431
+01:05:52,233 --> 01:05:54,033
+by becoming my partner.
+
+1432
+01:05:56,366 --> 01:05:57,799
+(CHUCKLES)
+
+1433
+01:05:57,933 --> 01:06:00,999
+Okay. Now the part about
+how I could never have done it
+
+1434
+01:06:01,133 --> 01:06:03,066
+and on to the surprising real killer.
+
+1435
+01:06:03,199 --> 01:06:04,666
+I wonder who it's going to be.
+
+1436
+01:06:04,799 --> 01:06:06,933
+When one eliminates the impossible,
+
+1437
+01:06:07,066 --> 01:06:09,832
+whatever remains, however improbable,
+
+1438
+01:06:09,966 --> 01:06:11,233
+is the truth.
+
+1439
+01:06:12,300 --> 01:06:14,832
+But this is absurd.
+
+1440
+01:06:14,966 --> 01:06:16,486
+Holmes, you must know in your heart...
+
+1441
+01:06:16,532 --> 01:06:18,432
+The heart is for pumping blood.
+
+1442
+01:06:18,565 --> 01:06:21,400
+The truth is the truth!
+
+1443
+01:06:21,532 --> 01:06:23,233
+Truth
+
+1444
+01:06:23,366 --> 01:06:27,233
+is that I have devoted my life to you.
+
+1445
+01:06:27,366 --> 01:06:28,766
+And I was a fool to think
+
+1446
+01:06:28,899 --> 01:06:30,766
+you would ever consider me
+as a co-detective
+
+1447
+01:06:30,899 --> 01:06:34,199
+when you're incapable of
+thinking of me even as a friend!
+
+1448
+01:06:34,333 --> 01:06:36,066
+(STAMMERING)
+
+1449
+01:06:36,199 --> 01:06:37,799
+Inspector Lestrade, take him.
+
+1450
+01:06:38,400 --> 01:06:39,565
+Go on.
+
+1451
+01:06:39,699 --> 01:06:40,966
+The man is your closest friend.
+
+1452
+01:06:41,099 --> 01:06:43,066
+Your pursuit of Moriarty has failed.
+
+1453
+01:06:43,199 --> 01:06:44,933
+You have no suspects.
+
+1454
+01:06:45,066 --> 01:06:47,565
+The killer still threatens
+to kill the Queen.
+
+1455
+01:06:47,699 --> 01:06:50,400
+Is that a chance you're willing to take?
+
+1456
+01:06:50,532 --> 01:06:52,565
+Take him.
+What?
+
+1457
+01:06:52,699 --> 01:06:55,599
+(GRUNTING)
+
+1458
+01:06:55,732 --> 01:06:57,732
+Do you see his propensity for violence?
+
+1459
+01:06:57,866 --> 01:07:00,233
+- Do you still doubt me?
+- OFFICER: Calm down.
+
+1460
+01:07:00,366 --> 01:07:05,099
+I shall never again carry your
+blasted magnifying glasses
+
+1461
+01:07:06,099 --> 01:07:08,432
+or your jars of urine.
+
+1462
+01:07:08,565 --> 01:07:10,799
+Why are we even saving these?
+
+1463
+01:07:10,933 --> 01:07:14,899
+And you look stupid in that hat.
+(GASPS)
+
+1464
+01:07:15,033 --> 01:07:18,099
+Your head was not meant for hats.
+
+1465
+01:07:18,732 --> 01:07:20,099
+(GRUNTING)
+
+1466
+01:07:20,233 --> 01:07:22,400
+Unhand me! No!
+
+1467
+01:07:22,532 --> 01:07:23,966
+I'll never forget you, John.
+
+1468
+01:07:24,099 --> 01:07:26,300
+(YELLING, SOBBING)
+
+1469
+01:07:26,432 --> 01:07:27,666
+Why?
+
+1470
+01:07:27,799 --> 01:07:30,099
+John Watson devoted his life to you,
+
+1471
+01:07:30,233 --> 01:07:31,966
+and this is how you repay him?
+
+1472
+01:07:32,099 --> 01:07:35,766
+Back to America with your
+ham-dogs and hot-burgers.
+
+1473
+01:07:35,899 --> 01:07:38,532
+GRACE:
+At least, in America, our system's fair.
+
+1474
+01:07:38,666 --> 01:07:40,866
+No citizen can be found guilty
+
+1475
+01:07:40,999 --> 01:07:44,532
+till his case is heard by a jury
+of white property-owning men.
+
+1476
+01:07:46,199 --> 01:07:48,766
+Millie, surely, you must understand.
+
+1477
+01:07:54,432 --> 01:07:55,933
+(GASPS)
+
+1478
+01:07:57,899 --> 01:07:59,532
+Fine, go!
+
+1479
+01:07:59,666 --> 01:08:02,499
+I'm the greatest detective
+who ever lived.
+
+1480
+01:08:02,632 --> 01:08:04,933
+You're welcome for solving this case.
+
+1481
+01:08:05,066 --> 01:08:07,300
+Sherlock abandons Watson!
+
+1482
+01:08:23,901 --> 01:08:26,901
+_ _ _
+
+1483
+01:08:47,499 --> 01:08:48,566
+(GASPS)
+
+1484
+01:08:52,166 --> 01:08:54,865
+(GASPS SOFTLY)
+
+1485
+01:08:58,032 --> 01:08:59,299
+(GASPS)
+
+1486
+01:09:01,333 --> 01:09:02,533
+A tear?
+
+1487
+01:09:02,666 --> 01:09:03,999
+(HEARTBEAT THUMPING)
+
+1488
+01:09:04,132 --> 01:09:05,633
+What is this tear?
+
+1489
+01:09:07,299 --> 01:09:08,265
+(WHIMPERS)
+
+1490
+01:09:08,599 --> 01:09:10,466
+I... I can't stop it.
+
+1491
+01:09:11,833 --> 01:09:13,566
+(GASPING)
+
+1492
+01:09:16,666 --> 01:09:19,265
+What is this warm feeling in my chest?
+
+1493
+01:09:25,632 --> 01:09:29,933
+<i>♪ Why am I reeling in confusion?</i>
+
+1494
+01:09:30,066 --> 01:09:33,599
+<i>♪ What is this fever in my head?</i>
+
+1495
+01:09:33,733 --> 01:09:35,100
+<i>♪ Is it pox?</i>
+
+1496
+01:09:35,232 --> 01:09:36,566
+<i>♪ Maybe gout</i>
+
+1497
+01:09:36,699 --> 01:09:39,566
+<i>♪ I can't seem to work it out</i>
+
+1498
+01:09:39,699 --> 01:09:41,899
+<i>♪ And why</i>
+
+1499
+01:09:42,033 --> 01:09:45,766
+<i>♪ Don't I feel triumphant?</i>
+
+1500
+01:09:45,899 --> 01:09:48,599
+<i>♪ And why does it seem less than right</i>
+
+1501
+01:09:48,733 --> 01:09:51,599
+<i>♪ That Watson's going to hang tonight</i>
+
+1502
+01:09:51,733 --> 01:09:56,733
+<i>♪ And gasp and thrash
+and choke until he's dead?</i>
+
+1503
+01:09:56,866 --> 01:10:00,466
+<i>♪ What is this strange sensation</i>
+
+1504
+01:10:00,466 --> 01:10:03,032
+<i>♪ Where did I go wrong?</i>
+
+1505
+01:10:03,165 --> 01:10:06,232
+<i>♪ Why am I a sobbing, trembling mess?</i>
+
+1506
+01:10:06,366 --> 01:10:08,499
+<i>♪ Soon my neck will snap in half</i>
+
+1507
+01:10:08,633 --> 01:10:11,232
+<i>♪ I guess
+♪ And yet I know somehow</i>
+
+1508
+01:10:11,366 --> 01:10:14,799
+<i>♪ And yet right now
+♪ If he could hear right now</i>
+
+1509
+01:10:14,933 --> 01:10:17,299
+<i>♪ I would still forgive him</i>
+
+1510
+01:10:19,966 --> 01:10:23,466
+<i>♪ More or less</i>
+
+1511
+01:10:23,599 --> 01:10:26,332
+<i>♪ Please, I don't know
+Upon whom else to call</i>
+
+1512
+01:10:26,466 --> 01:10:29,199
+<i>♪ Nothing is making any sense at all</i>
+
+1513
+01:10:29,332 --> 01:10:32,733
+<i>♪ Speak! I need your voice
+To hear your voice</i>
+
+1514
+01:10:32,866 --> 01:10:36,000
+<i>♪ So sweet, so pure, so wise</i>
+
+1515
+01:10:40,132 --> 01:10:43,733
+<i>♪ Sometimes the irrational</i>
+
+1516
+01:10:43,866 --> 01:10:47,332
+<i>♪ Is truer than the rational</i>
+
+1517
+01:10:47,466 --> 01:10:50,599
+<i>♪ The heart can have its reasons</i>
+
+1518
+01:10:50,733 --> 01:10:54,900
+<i>♪ Which the head knows nothing of</i>
+
+1519
+01:10:55,032 --> 01:10:57,900
+<i>♪ Your brain says Watson's guilty</i>
+
+1520
+01:10:58,032 --> 01:11:02,065
+<i>♪ But a stronger force says
+"No, he's not"</i>
+
+1521
+01:11:02,199 --> 01:11:03,866
+<i>♪ What is that force?</i>
+
+1522
+01:11:04,000 --> 01:11:05,866
+<i>♪ It's... It's...
+♪ Yes? What?</i>
+
+1523
+01:11:06,000 --> 01:11:09,432
+<i>♪ It's love...
+♪ Love?</i>
+
+1524
+01:11:09,566 --> 01:11:13,332
+<i>♪ It's love
+♪ It's love</i>
+
+1525
+01:11:13,466 --> 01:11:15,466
+<i>♪ It's love
+♪ It's love</i>
+
+1526
+01:11:15,599 --> 01:11:18,332
+<i>♪ It's love
+♪ It's love ♪</i>
+
+1527
+01:11:18,466 --> 01:11:19,833
+My God.
+
+1528
+01:11:19,966 --> 01:11:21,499
+Did I push Watson away
+
+1529
+01:11:21,633 --> 01:11:24,299
+because I feared losing him to Grace?
+
+1530
+01:11:24,432 --> 01:11:26,899
+Somehow, I know in my heart...
+
+1531
+01:11:28,166 --> 01:11:30,133
+Watson is innocent!
+
+1532
+01:11:30,266 --> 01:11:34,099
+<i>♪ Time to go and save
+♪ Come save me now</i>
+
+1533
+01:11:34,233 --> 01:11:40,832
+<i>♪ The man I love ♪
+♪ The man I love ♪</i>
+
+1534
+01:11:43,066 --> 01:11:44,432
+HOLMES: Watson!
+
+1535
+01:11:44,566 --> 01:11:47,632
+I discovered my emotions,
+and I'm only 46.
+
+1536
+01:11:47,766 --> 01:11:50,133
+CROWD: (CHANTING)
+Hang! Hang! Hang!
+
+1537
+01:11:50,265 --> 01:11:51,466
+(BARKING, GROWLING)
+
+1538
+01:11:51,599 --> 01:11:52,899
+(ALL CHEERING)
+
+1539
+01:11:53,033 --> 01:11:54,100
+(MAN LAUGHS WICKEDLY)
+
+1540
+01:11:54,232 --> 01:11:56,133
+Oh, God.
+
+1541
+01:11:56,265 --> 01:11:58,432
+CROWD: (CHANTING) Hang Dr. Watson!
+Hang Dr. Watson!
+
+1542
+01:11:58,566 --> 01:12:00,399
+WATSON: The dogs seem
+really unnecessary.
+
+1543
+01:12:01,100 --> 01:12:02,100
+Sherlock.
+
+1544
+01:12:03,666 --> 01:12:04,899
+Oh.
+
+1545
+01:12:05,033 --> 01:12:06,133
+It's you. (CHUCKLES)
+
+1546
+01:12:07,265 --> 01:12:08,699
+You've brought cake.
+
+1547
+01:12:16,133 --> 01:12:18,232
+Watson! My brother!
+
+1548
+01:12:18,365 --> 01:12:20,200
+Watson, where are you?
+
+1549
+01:12:20,332 --> 01:12:21,499
+Where...
+
+1550
+01:12:21,632 --> 01:12:22,866
+I'm too late.
+
+1551
+01:12:28,033 --> 01:12:29,499
+Clever.
+
+1552
+01:12:29,632 --> 01:12:32,999
+Very, very clever.
+
+1553
+01:12:39,133 --> 01:12:41,532
+You were always so clever,
+
+1554
+01:12:41,666 --> 01:12:43,133
+and I never appreciated it.
+
+1555
+01:12:44,833 --> 01:12:46,866
+But it's not too late to make amends.
+
+1556
+01:12:46,999 --> 01:12:48,399
+Watson!
+
+1557
+01:12:48,532 --> 01:12:50,632
+I shouldn't have wasted
+all my time singing!
+
+1558
+01:12:56,200 --> 01:12:57,733
+Ah! Grimy news kids.
+
+1559
+01:12:57,866 --> 01:12:59,566
+I desperately need your help.
+
+1560
+01:12:59,699 --> 01:13:01,399
+Dr. Watson's in grave danger.
+
+1561
+01:13:01,532 --> 01:13:02,966
+Yeah, no shit, Sherlock.
+
+1562
+01:13:03,100 --> 01:13:04,532
+Because of you, you wank!
+
+1563
+01:13:04,666 --> 01:13:05,799
+I know.
+
+1564
+01:13:05,933 --> 01:13:07,532
+But I know of a way to save him.
+
+1565
+01:13:07,666 --> 01:13:09,799
+Please, please help me.
+
+1566
+01:13:09,933 --> 01:13:12,499
+I must find a way
+to the docks immediately.
+
+1567
+01:13:16,200 --> 01:13:17,532
+WATSON: "Moriarty's daughter
+
+1568
+01:13:17,666 --> 01:13:19,733
+"did the one thing Moriarty never could.
+
+1569
+01:13:19,866 --> 01:13:24,399
+"She defeated Sherlock Holmes
+and assassinated the Queen.
+
+1570
+01:13:24,532 --> 01:13:27,033
+"Sherlock Holmes,
+the man whom I regarded
+
+1571
+01:13:27,166 --> 01:13:30,899
+"as the best and the wisest
+man whom I would ever know
+
+1572
+01:13:32,232 --> 01:13:34,766
+"was a fraud."
+
+1573
+01:13:37,066 --> 01:13:38,332
+(SIGHS)
+
+1574
+01:13:38,466 --> 01:13:39,999
+It is done. (SIGHS)
+
+1575
+01:13:40,133 --> 01:13:43,066
+A devilish plan worthy of your father.
+
+1576
+01:13:43,200 --> 01:13:47,866
+The last book in the Sherlock
+Holmes canon is complete,
+
+1577
+01:13:47,999 --> 01:13:50,899
+<i>The Case of the Defeated Detective.</i>
+
+1578
+01:13:51,033 --> 01:13:54,100
+Daddy will be so proud.
+
+1579
+01:13:54,232 --> 01:13:55,699
+Sherlock will be remembered
+
+1580
+01:13:55,833 --> 01:13:58,699
+as the man who failed
+to protect the Queen.
+
+1581
+01:13:58,833 --> 01:14:00,432
+History shall be rewritten
+
+1582
+01:14:00,566 --> 01:14:04,866
+at the hand of his
+loyal partner, Dr. Watson.
+
+1583
+01:14:04,999 --> 01:14:06,799
+I've done your bidding.
+
+1584
+01:14:06,933 --> 01:14:08,365
+Now set me free.
+
+1585
+01:14:09,232 --> 01:14:11,566
+You're gonna die here.
+
+1586
+01:14:11,699 --> 01:14:13,100
+You gave me your word.
+
+1587
+01:14:13,232 --> 01:14:14,699
+You swore on the life of the Queen.
+
+1588
+01:14:14,833 --> 01:14:18,432
+I'm gonna kill the Queen,
+you big eejit. Boys!
+
+1589
+01:14:18,566 --> 01:14:20,399
+GIRL: Mrs. Hudson is the killer?
+Mmm-hmm.
+
+1590
+01:14:20,532 --> 01:14:21,599
+Gorblimey!
+
+1591
+01:14:21,733 --> 01:14:23,066
+How'd you work that out?
+
+1592
+01:14:23,200 --> 01:14:25,365
+Why, it was Watson who told me.
+
+1593
+01:14:25,499 --> 01:14:27,899
+You see, beet sugar.
+
+1594
+01:14:28,033 --> 01:14:30,733
+<i>Mrs. Hudson's family recipe
+and Watson's favorite.</i>
+
+1595
+01:14:30,866 --> 01:14:32,386
+<i>He never would have left crumbs behind</i>
+
+1596
+01:14:32,499 --> 01:14:34,200
+unless he was leaving me a clue.
+
+1597
+01:14:34,332 --> 01:14:37,666
+For, you see, Mrs. Hudson's
+origins are not so humble.
+
+1598
+01:14:37,799 --> 01:14:41,399
+She is none other than the daughter
+of Professor James Moriarty.
+
+1599
+01:14:41,532 --> 01:14:42,933
+BOY: No, it ain't possible.
+
+1600
+01:14:43,066 --> 01:14:46,200
+You see, Mrs. Hudson
+never knew her father.
+
+1601
+01:14:46,332 --> 01:14:47,766
+<i>He was never present.</i>
+
+1602
+01:14:47,899 --> 01:14:49,532
+<i>To gain his love,</i>
+
+1603
+01:14:49,666 --> 01:14:51,466
+<i>she tried to pull off
+the greatest crime ever.</i>
+
+1604
+01:14:51,599 --> 01:14:54,466
+<i>Destroy the great Sherlock Holmes.</i>
+
+1605
+01:14:54,599 --> 01:14:57,899
+<i>She took a job at my house
+in order to study my methods,</i>
+
+1606
+01:14:58,033 --> 01:15:01,232
+<i>then used a network of patsies
+to execute her plans.</i>
+
+1607
+01:15:01,365 --> 01:15:04,133
+<i>However, it wasn't until
+I understood feelings</i>
+
+1608
+01:15:04,265 --> 01:15:06,133
+<i>that I understood her motive,</i>
+
+1609
+01:15:06,265 --> 01:15:08,933
+<i>her need for her father's love.</i>
+
+1610
+01:15:09,066 --> 01:15:12,100
+<i>She would gain it by
+eliminating his greatest enemy,</i>
+
+1611
+01:15:12,232 --> 01:15:13,766
+<i>me.</i>
+
+1612
+01:15:13,899 --> 01:15:17,866
+And tonight, she will commit
+her boldest crime yet,
+
+1613
+01:15:17,999 --> 01:15:21,399
+killing the Queen here!
+
+1614
+01:15:21,532 --> 01:15:23,232
+The <i>Titanic.</i>
+
+1615
+01:15:23,365 --> 01:15:25,232
+The marvel of London.
+
+1616
+01:15:25,365 --> 01:15:29,232
+A new castle, which runs on coal.
+
+1617
+01:15:29,365 --> 01:15:31,899
+MAN: Your Majesty, may I
+introduce Lieutenant Morgan.
+
+1618
+01:15:32,033 --> 01:15:33,666
+QUEEN VICTORIA:
+Lieutenant.
+
+1619
+01:15:33,799 --> 01:15:36,033
+MAN: First Officer Carter.
+
+1620
+01:15:36,166 --> 01:15:38,566
+- Your Majesty.
+- First Officer.
+
+1621
+01:15:38,699 --> 01:15:41,166
+HOLMES:
+Look, Hudson's goons.
+
+1622
+01:15:41,299 --> 01:15:44,365
+- Create a diversion.
+- You go and save Dr. Watson, Mr. Holmes.
+
+1623
+01:15:44,499 --> 01:15:45,619
+We'll take care of this lot.
+
+1624
+01:15:45,733 --> 01:15:47,399
+Come on, you tom tit!
+
+1625
+01:15:47,532 --> 01:15:49,452
+You ain't bigger than a
+couple of powder monkeys.
+
+1626
+01:15:49,532 --> 01:15:50,899
+(DOOR OPENS)
+
+1627
+01:15:51,033 --> 01:15:52,699
+Is there a problem, boys?
+
+1628
+01:15:52,833 --> 01:15:55,299
+(CHUCKLES) Think we can
+take them, lads. Aye?
+
+1629
+01:15:55,432 --> 01:15:57,466
+Walk away now, and I
+promise you won't get hurt.
+
+1630
+01:15:57,599 --> 01:16:00,100
+A bunch of runts and a couple of ladies?
+
+1631
+01:16:00,232 --> 01:16:02,200
+American ladies.
+
+1632
+01:16:02,332 --> 01:16:04,399
+(HORSE NEIGHING)
+(CHILDREN SHOUTING)
+
+1633
+01:16:06,599 --> 01:16:07,866
+MAN: Not my eyes!
+
+1634
+01:16:12,733 --> 01:16:15,299
+MRS. HUDSON:
+I'm sorry to do this, Dr. Watson.
+
+1635
+01:16:15,432 --> 01:16:17,999
+I'm gonna crush your head.
+
+1636
+01:16:18,133 --> 01:16:20,899
+There's gonna be brains everywhere.
+
+1637
+01:16:21,033 --> 01:16:23,499
+And I'll not be cleaning up after.
+
+1638
+01:16:23,632 --> 01:16:25,033
+I know you're threatening me,
+
+1639
+01:16:25,166 --> 01:16:27,399
+but I can't understand
+a word you're saying.
+
+1640
+01:16:27,532 --> 01:16:29,899
+You're staying, Dr. Watson,
+
+1641
+01:16:30,033 --> 01:16:33,699
+but I'll be on my way to America
+by the time the bomb explodes.
+
+1642
+01:16:33,833 --> 01:16:35,166
+Sherlock will save me.
+
+1643
+01:16:35,299 --> 01:16:37,066
+You'll see.
+I'll see.
+
+1644
+01:16:37,200 --> 01:16:38,899
+He won't let me down.
+
+1645
+01:16:39,033 --> 01:16:41,200
+He won't.
+He's my best friend!
+
+1646
+01:16:41,332 --> 01:16:42,666
+(SOBS MOCKINGLY)
+
+1647
+01:16:42,799 --> 01:16:44,432
+Dollface!
+
+1648
+01:16:44,566 --> 01:16:45,999
+(WHIRRING)
+
+1649
+01:16:46,133 --> 01:16:48,632
+(SCREAMING)
+
+1650
+01:16:48,766 --> 01:16:50,332
+MRS. HUDSON:
+Come on, boys.
+
+1651
+01:16:50,466 --> 01:16:52,632
+The bomb goes off in 10 minutes.
+Sherlock!
+
+1652
+01:16:53,332 --> 01:16:55,299
+Sherlock!
+
+1653
+01:16:56,033 --> 01:16:58,066
+Help! Help!
+
+1654
+01:16:58,200 --> 01:16:59,866
+Sherlock!
+
+1655
+01:17:00,499 --> 01:17:01,866
+Help!
+
+1656
+01:17:01,999 --> 01:17:03,133
+(SHOUTS)
+
+1657
+01:17:03,265 --> 01:17:04,365
+Watson!
+
+1658
+01:17:05,033 --> 01:17:06,632
+(PANTING)
+
+1659
+01:17:06,766 --> 01:17:10,566
+Oh, God, if you save me,
+I'll never touch myself again.
+
+1660
+01:17:10,699 --> 01:17:12,966
+Watson!
+Oh, Sherlock.
+
+1661
+01:17:13,100 --> 01:17:14,766
+You've come for me.
+I knew you would.
+
+1662
+01:17:14,899 --> 01:17:17,066
+Watson, good news.
+
+1663
+01:17:17,200 --> 01:17:18,466
+You're innocent.
+
+1664
+01:17:19,399 --> 01:17:21,100
+Yes. I know.
+
+1665
+01:17:21,232 --> 01:17:23,299
+Oh.
+Thank you.
+
+1666
+01:17:23,432 --> 01:17:25,232
+Can you forgive me?
+Of course.
+
+1667
+01:17:25,365 --> 01:17:27,799
+Now, be a good chap, and get
+me out of this damn thing
+
+1668
+01:17:27,933 --> 01:17:29,632
+before it crushes my skull.
+
+1669
+01:17:29,766 --> 01:17:31,265
+Yes? There's a good chap.
+Go on.
+
+1670
+01:17:31,399 --> 01:17:33,866
+(GRUNTS) I won't leave you.
+Not again.
+
+1671
+01:17:33,999 --> 01:17:36,232
+That's a lovely sentiment,
+but I really need you
+
+1672
+01:17:36,365 --> 01:17:38,265
+to free me from this gear right now.
+
+1673
+01:17:38,399 --> 01:17:40,866
+Emotions are spewing from my heart.
+
+1674
+01:17:40,999 --> 01:17:42,566
+Pull yourself together.
+(SOBBING) Okay.
+
+1675
+01:17:42,699 --> 01:17:44,632
+Stop crying.
+
+1676
+01:17:44,766 --> 01:17:46,364
+Because we must get the Queen
+and everyone else off this ship.
+
+1677
+01:17:46,365 --> 01:17:48,100
+You see, Hudson has planted a bomb.
+
+1678
+01:17:48,232 --> 01:17:49,966
+A time bomb, you see?
+
+1679
+01:17:50,100 --> 01:17:52,100
+You must free me.
+Do you feel my heart ticking?
+
+1680
+01:17:52,232 --> 01:17:54,100
+Get me off this fucking wheel!
+(SOBS)
+
+1681
+01:17:54,232 --> 01:17:56,866
+All my dreams are coming true.
+
+1682
+01:17:56,999 --> 01:18:01,200
+In just two minutes, my bomb
+will go off, killing the Queen.
+
+1683
+01:18:01,332 --> 01:18:03,432
+Sherlock Holmes will go down in history
+
+1684
+01:18:03,566 --> 01:18:06,933
+as the worst detective
+the world has ever known.
+
+1685
+01:18:07,066 --> 01:18:10,432
+And the name Moriarty
+will live on forever!
+
+1686
+01:18:10,566 --> 01:18:11,933
+(FOGHORN BLOWS)
+
+1687
+01:18:12,566 --> 01:18:14,200
+Father,
+
+1688
+01:18:14,332 --> 01:18:16,933
+soon, we shall be together again.
+
+1689
+01:18:17,066 --> 01:18:19,432
+- In America!
+- MEN: Yeah!
+
+1690
+01:18:20,399 --> 01:18:22,200
+(MUSIC PLAYING)
+
+1691
+01:18:26,999 --> 01:18:29,632
+The bomb will detonate in one minute.
+
+1692
+01:18:29,766 --> 01:18:31,432
+Where could it possibly be?
+
+1693
+01:18:32,866 --> 01:18:34,166
+WATSON: Wait.
+
+1694
+01:18:34,299 --> 01:18:36,066
+That kettle drum.
+
+1695
+01:18:36,200 --> 01:18:39,200
+Those are only ever used
+in mounted cavalry formations,
+
+1696
+01:18:39,332 --> 01:18:41,265
+never in a Marine band.
+
+1697
+01:18:41,399 --> 01:18:42,599
+Perhaps...
+(GASPS)
+
+1698
+01:18:42,733 --> 01:18:45,232
+The bomb is in the drum.
+Very good, Watson.
+
+1699
+01:18:45,365 --> 01:18:47,033
+But the Queen is standing
+just beside it.
+
+1700
+01:18:47,166 --> 01:18:48,499
+She'll be blown to smithereens.
+
+1701
+01:18:48,632 --> 01:18:51,699
+But how to defuse it in time?
+
+1702
+01:18:51,833 --> 01:18:55,466
+HOLMES: <i>Time remaining until
+bomb detonation, 55 seconds.</i>
+
+1703
+01:18:55,599 --> 01:18:59,033
+<i>Estimated blast radius
+from bomb, 17 feet.</i>
+
+1704
+01:18:59,166 --> 01:19:02,200
+<i>Time required to move queen
+to safety, 12 seconds.</i>
+
+1705
+01:19:02,365 --> 01:19:04,100
+<i>Solution, move through crowd,</i>
+
+1706
+01:19:04,232 --> 01:19:07,299
+<i>see Millie for the first time,
+forget about bomb...</i>
+
+1707
+01:19:07,432 --> 01:19:08,532
+No.
+
+1708
+01:19:12,532 --> 01:19:14,365
+<i>Time remaining, 37 seconds.</i>
+
+1709
+01:19:14,499 --> 01:19:16,899
+<i>Solution, shoot water main
+to douse bomb,</i>
+
+1710
+01:19:17,033 --> 01:19:18,899
+remember Millie at the park,
+forget about bomb.
+
+1711
+01:19:19,033 --> 01:19:20,265
+No, I forgot about the bomb!
+
+1712
+01:19:24,599 --> 01:19:27,133
+<i>Watson, what are you doing in my brain?</i>
+
+1713
+01:19:27,265 --> 01:19:28,599
+WATSON: <i>I'm doing it.</i>
+
+1714
+01:19:28,733 --> 01:19:31,200
+<i>I'm communicating without words.</i>
+
+1715
+01:19:31,332 --> 01:19:33,866
+I can't focus. I was
+trying to formulate a plan,
+
+1716
+01:19:33,999 --> 01:19:35,866
+and I kept getting off track.
+
+1717
+01:19:35,999 --> 01:19:38,466
+Holmes, no, you don't.
+Snap out of it.
+
+1718
+01:19:38,599 --> 01:19:40,265
+I can't. I'm too emotional.
+
+1719
+01:19:40,399 --> 01:19:42,899
+Look behind me. The Queen's
+being blown to bits.
+
+1720
+01:19:43,033 --> 01:19:44,599
+You have to take control.
+
+1721
+01:19:44,733 --> 01:19:46,799
+You must be detective for both of us.
+
+1722
+01:19:46,933 --> 01:19:48,066
+Right.
+
+1723
+01:19:49,599 --> 01:19:51,033
+WATSON: <i>I know what I must do.</i>
+
+1724
+01:19:51,166 --> 01:19:53,033
+<i>Estimated blast radius,</i>
+
+1725
+01:19:53,166 --> 01:19:54,899
+<i>20... No, 30 feet?</i>
+
+1726
+01:19:55,033 --> 01:19:56,365
+<i>Account for ship's movement.</i>
+
+1727
+01:19:56,499 --> 01:19:58,033
+<i>Wait. Is that a four or a seven?</i>
+
+1728
+01:19:58,166 --> 01:19:59,899
+<i>Math is so hard. Hold on.</i>
+
+1729
+01:20:00,033 --> 01:20:01,866
+<i>What does that "X" mean?
+Or is that a plus?</i>
+
+1730
+01:20:01,999 --> 01:20:03,666
+<i>What is that thing?
+Angle of approach?</i>
+
+1731
+01:20:03,799 --> 01:20:05,200
+<i>Oh, I don't know how to do angles.</i>
+
+1732
+01:20:05,332 --> 01:20:06,498
+<i>Should have listened more in school.</i>
+
+1733
+01:20:06,499 --> 01:20:08,066
+Oh, screw it. Charge!
+
+1734
+01:20:08,200 --> 01:20:09,866
+(YELLING)
+
+1735
+01:20:09,999 --> 01:20:11,265
+Out of my way!
+
+1736
+01:20:11,399 --> 01:20:12,933
+Move!
+(WOMEN SCREAMING)
+
+1737
+01:20:13,066 --> 01:20:15,599
+(TICKING)
+Nine, eight...
+
+1738
+01:20:15,733 --> 01:20:17,100
+Coming through! (GRUNTS)
+
+1739
+01:20:17,232 --> 01:20:18,999
+So sorry!
+...seven...
+
+1740
+01:20:20,033 --> 01:20:21,365
+Come on.
+
+1741
+01:20:21,499 --> 01:20:22,733
+Move your tuchis!
+(WOMAN GASPS)
+
+1742
+01:20:22,866 --> 01:20:24,033
+Sorry, friend!
+(MAN GROANING)
+
+1743
+01:20:25,866 --> 01:20:26,933
+MRS. HUDSON: ...five,
+
+1744
+01:20:27,799 --> 01:20:28,833
+four...
+
+1745
+01:20:28,966 --> 01:20:30,200
+(PEOPLE GASPING)
+
+1746
+01:20:31,833 --> 01:20:33,033
+...two...
+
+1747
+01:20:34,532 --> 01:20:36,066
+(TICKING)
+
+1748
+01:20:37,899 --> 01:20:39,033
+Aw, shit!
+
+1749
+01:20:40,966 --> 01:20:42,933
+(CROWD GASPING, MURMURING)
+
+1750
+01:20:44,866 --> 01:20:46,100
+MAN: Huzzah.
+
+1751
+01:20:46,232 --> 01:20:48,200
+Huzzah for Sherlock Holmes.
+
+1752
+01:20:48,332 --> 01:20:51,733
+Sherlock Holmes saved the <i>Titanic.</i>
+(APPLAUSE)
+
+1753
+01:20:51,866 --> 01:20:53,999
+- CROWD: Huzzah!
+- WOMAN: Hurrah for Sherlock!
+
+1754
+01:20:54,133 --> 01:20:55,666
+MAN 1: Bravo, Sherlock!
+
+1755
+01:20:55,799 --> 01:20:57,364
+MAN 2: Sherlock Holmes
+was right about everything!
+
+1756
+01:20:57,365 --> 01:20:59,365
+CROWD: Hip hip hooray!
+
+1757
+01:20:59,499 --> 01:21:02,265
+Thank you. Thank you.
+
+1758
+01:21:02,399 --> 01:21:05,133
+But I could never have
+done it without Dr. Watson.
+
+1759
+01:21:05,265 --> 01:21:09,532
+Oh, no. Let Watson's name
+be forever associated
+
+1760
+01:21:09,666 --> 01:21:11,799
+with the <i>Titanic.</i>
+
+1761
+01:21:11,933 --> 01:21:15,766
+So, when you think of your friends
+and relatives on board the <i>Titanic,</i>
+
+1762
+01:21:15,899 --> 01:21:17,399
+just remember,
+
+1763
+01:21:17,532 --> 01:21:22,066
+Dr. John H. Watson put them there.
+
+1764
+01:21:22,200 --> 01:21:24,066
+(CHEERING AND APPLAUSE)
+MAN: Hooray for Watson!
+
+1765
+01:21:24,200 --> 01:21:25,699
+Bloody good we didn't hang him.
+
+1766
+01:21:27,532 --> 01:21:29,066
+QUEEN VICTORIA: Dr. Watson,
+
+1767
+01:21:29,833 --> 01:21:31,466
+you saved us.
+
+1768
+01:21:31,599 --> 01:21:33,200
+Thank you.
+
+1769
+01:21:33,332 --> 01:21:35,699
+It has been my pleasure
+to serve you, Your Majesty.
+
+1770
+01:21:37,699 --> 01:21:40,466
+(APPLAUSE)
+
+1771
+01:21:44,899 --> 01:21:46,532
+(KISSES, BLOWS)
+
+1772
+01:21:49,866 --> 01:21:50,933
+(BLOWS)
+
+1773
+01:21:51,066 --> 01:21:52,133
+(GUN CLICKS)
+
+1774
+01:21:52,265 --> 01:21:53,566
+No, Millie.
+
+1775
+01:22:04,232 --> 01:22:06,232
+I have a confession to make.
+
+1776
+01:22:06,365 --> 01:22:08,899
+I'm not actually in love with you.
+
+1777
+01:22:09,033 --> 01:22:11,166
+In order to conclude my investigation,
+
+1778
+01:22:11,299 --> 01:22:14,733
+it was imperative that I
+understood what love felt like.
+
+1779
+01:22:14,866 --> 01:22:17,332
+I'm sorry to have led you on.
+
+1780
+01:22:17,466 --> 01:22:19,033
+I have a confession as well.
+
+1781
+01:22:19,166 --> 01:22:20,666
+I was also not in love.
+
+1782
+01:22:20,799 --> 01:22:22,265
+I was conducting an experiment
+
+1783
+01:22:22,399 --> 01:22:25,100
+on how easy it is
+to manipulate the male ego.
+
+1784
+01:22:25,232 --> 01:22:28,332
+What?
+I'm sorry I led you on.
+
+1785
+01:22:28,466 --> 01:22:30,733
+Well, I have another confession.
+
+1786
+01:22:30,866 --> 01:22:33,399
+Hmm. I was just pretending
+to have a big ego
+
+1787
+01:22:33,532 --> 01:22:36,200
+so as to make you think that
+your experiment was working
+
+1788
+01:22:36,332 --> 01:22:38,365
+so that I could conclude
+my experiment on you.
+
+1789
+01:22:38,499 --> 01:22:40,265
+Well, I had to lead you on
+
+1790
+01:22:40,399 --> 01:22:42,733
+because I was doing an
+experiment about how men think
+
+1791
+01:22:42,866 --> 01:22:44,865
+they can manipulate female scientists
+while they're doing experiments.
+
+1792
+01:22:44,866 --> 01:22:46,699
+Well, I have another confession to make.
+
+1793
+01:22:47,799 --> 01:22:48,766
+(HOLMES GRUNTS)
+
+1794
+01:22:51,200 --> 01:22:52,432
+(BOTH MOAN AWKWARDLY)
+
+1795
+01:22:52,566 --> 01:22:53,833
+(PANTING)
+
+1796
+01:22:53,966 --> 01:22:55,332
+(EXHALES SHARPLY)
+
+1797
+01:22:55,466 --> 01:22:56,566
+(SIGHS)
+
+1798
+01:22:58,332 --> 01:23:01,999
+You will be shocked to learn
+that was my first kiss.
+
+1799
+01:23:02,133 --> 01:23:04,532
+Mine as well, and we've
+already mastered it.
+
+1800
+01:23:04,666 --> 01:23:05,899
+(WHISTLE BLOWS)
+Yes, indeed.
+
+1801
+01:23:06,033 --> 01:23:07,733
+All aboard!
+
+1802
+01:23:07,866 --> 01:23:10,365
+She sails in 20 minutes!
+
+1803
+01:23:10,499 --> 01:23:12,299
+MAN: Hurry, everyone!
+Step lively!
+
+1804
+01:23:12,432 --> 01:23:14,966
+HOLMES: Enjoy your trip
+on the safest ship to sail.
+
+1805
+01:23:15,100 --> 01:23:16,399
+Goodbye.
+
+1806
+01:23:16,532 --> 01:23:17,899
+Farewell, Grace.
+
+1807
+01:23:18,033 --> 01:23:19,133
+HOLMES: Goodbye, Millie.
+
+1808
+01:23:19,265 --> 01:23:21,699
+Make sure you get plenty of bed rest.
+
+1809
+01:23:21,833 --> 01:23:23,399
+There's a good chance you're pregnant.
+
+1810
+01:23:23,532 --> 01:23:24,566
+I hope so.
+
+1811
+01:23:24,699 --> 01:23:26,232
+From...
+From the kissing?
+
+1812
+01:23:27,766 --> 01:23:29,466
+Yes.
+Oh, yes.
+
+1813
+01:23:30,866 --> 01:23:32,432
+What a grand ship.
+
+1814
+01:23:32,566 --> 01:23:33,532
+Yes.
+
+1815
+01:23:33,666 --> 01:23:35,699
+(GASPS) Watson, look.
+
+1816
+01:23:36,599 --> 01:23:37,899
+It's Billy Zane.
+
+1817
+01:23:39,100 --> 01:23:40,200
+Sherlock.
+(LAUGHS)
+
+1818
+01:23:41,866 --> 01:23:44,866
+HOLMES: <i>Wow.
+He's breathtaking.</i>
+
+1819
+01:23:44,999 --> 01:23:46,365
+Where's the bar on this canoe?
+
+1820
+01:23:51,399 --> 01:23:53,100
+Holmes.
+Mmm.
+
+1821
+01:23:53,232 --> 01:23:55,432
+I believe I may have solved
+the one mystery
+
+1822
+01:23:55,566 --> 01:23:57,733
+which has baffled you all these years.
+
+1823
+01:23:58,899 --> 01:24:00,066
+What?
+
+1824
+01:24:01,499 --> 01:24:02,566
+(GASPS)
+
+1825
+01:24:03,799 --> 01:24:04,899
+Would you mind?
+
+1826
+01:24:07,200 --> 01:24:08,365
+Ah.
+
+1827
+01:24:08,499 --> 01:24:09,599
+Do you like it?
+
+1828
+01:24:09,733 --> 01:24:12,066
+Let's see here. Huh?
+
+1829
+01:24:12,200 --> 01:24:14,100
+Oh, it suits you.
+Mmm.
+
+1830
+01:24:14,232 --> 01:24:16,599
+I think it's perfect.
+Really?
+
+1831
+01:24:16,733 --> 01:24:20,100
+You're not just saying that?
+No, I'm not just saying it.
+
+1832
+01:24:20,232 --> 01:24:22,265
+Good.
+Thank you, Watson.
+
+1833
+01:24:22,399 --> 01:24:24,166
+And I have something for you as well.
+
+1834
+01:24:24,299 --> 01:24:26,599
+No. No.
+Please. Step over here.
+
+1835
+01:24:26,733 --> 01:24:29,332
+Why?
+I don't deserve anything.
+
+1836
+01:24:30,999 --> 01:24:31,999
+My dear Watson.
+
+1837
+01:24:32,899 --> 01:24:34,566
+What do you think?
+
+1838
+01:24:34,699 --> 01:24:36,100
+It's beautiful.
+
+1839
+01:24:52,632 --> 01:24:54,033
+(HORSES NEIGHING)
+
+1840
+01:24:54,166 --> 01:24:57,365
+(MUSIC PLAYING)
+
+1841
+01:24:57,499 --> 01:25:01,566
+(LIVELY CHATTER AND LAUGHTER)
+
+1842
+01:25:01,699 --> 01:25:03,733
+(KNOCK ON DOOR)
+
+1843
+01:25:03,866 --> 01:25:06,365
+Telegram for Professor Moriarty.
+
+1844
+01:25:08,833 --> 01:25:09,799
+Professor?
+
+1845
+01:25:17,265 --> 01:25:19,033
+Boy, who sent this?
+

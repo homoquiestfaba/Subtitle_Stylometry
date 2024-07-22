@@ -1,0 +1,6008 @@
+﻿1
+00:01:21,114 --> 00:01:22,149
+I'm sorry.
+
+2
+00:01:22,249 --> 00:01:23,751
+I hope I didn't
+disturb you.
+
+3
+00:01:24,284 --> 00:01:25,957
+No, that's alright.
+lt's just...
+
+4
+00:01:27,688 --> 00:01:29,690
+been a really long day.
+
+5
+00:01:29,756 --> 00:01:31,702
+What brings you to Brazil?
+
+6
+00:01:33,293 --> 00:01:35,170
+How long do you have?
+
+7
+00:01:36,597 --> 00:01:38,076
+About 14 hours.
+
+8
+00:01:42,302 --> 00:01:43,713
+Well, I guess...
+
+9
+00:01:46,840 --> 00:01:48,979
+I'm going to try
+to save my life.
+
+10
+00:01:59,853 --> 00:02:02,060
+Twenty years ago,
+I started this company
+
+11
+00:02:02,122 --> 00:02:04,261
+with two night watchmen
+and a guard dog,
+
+12
+00:02:04,324 --> 00:02:06,861
+and now we have the chance
+to turn it into one
+
+13
+00:02:06,927 --> 00:02:08,406
+of the largest
+privately-held
+
+14
+00:02:08,462 --> 00:02:10,806
+corporate security firms
+in the country.
+
+15
+00:02:10,864 --> 00:02:12,400
+The bank wants
+its money, Paul.
+
+16
+00:02:13,634 --> 00:02:16,877
+Jericho is bleeding
+Tycor dry and you.
+
+17
+00:02:16,937 --> 00:02:20,475
+We shouldn't have invested all the
+company's assets into one basket.
+
+18
+00:02:20,540 --> 00:02:25,455
+Project Jericho, utilizing
+market-leading processing power,
+
+19
+00:02:25,512 --> 00:02:28,891
+this impenetrable, unified
+threat management system
+
+20
+00:02:28,949 --> 00:02:31,259
+decrypts and inspects
+data and traffic
+
+21
+00:02:31,351 --> 00:02:33,160
+throughout all
+network layers.
+
+22
+00:02:33,220 --> 00:02:36,099
+Ten years ago I never would've
+dreamed of anything this ambitious.
+
+23
+00:02:36,156 --> 00:02:38,193
+That's because you weren't
+a careless dreamer.
+
+24
+00:02:38,258 --> 00:02:41,205
+You know what, James? I know you've
+been with me since the beginning.
+
+25
+00:02:41,261 --> 00:02:42,433
+That's enough.
+
+26
+00:02:42,496 --> 00:02:44,942
+I know you don't like it;
+I think it's worth the risk.
+
+27
+00:02:44,998 --> 00:02:46,602
+Yeah, SYS-Tek
+will probably buy it,
+
+28
+00:02:46,667 --> 00:02:48,203
+so they won't have to
+compete with us.
+
+29
+00:02:48,268 --> 00:02:49,542
+He'll make a fortune.
+
+30
+00:02:49,603 --> 00:02:51,947
+He's already borrowed
+and spent a fortune, Ryan!
+
+31
+00:02:53,473 --> 00:02:56,147
+It's time to consider Brazil's
+offer of a cash injection,
+
+32
+00:02:56,209 --> 00:03:01,124
+or share Tycor's proprietary
+systems with SYS-Tek,
+
+33
+00:03:01,181 --> 00:03:02,489
+and offer a merger.
+
+34
+00:03:02,582 --> 00:03:05,358
+SYS-Tek plays dirty.
+They can't be trusted.
+
+35
+00:03:05,419 --> 00:03:09,390
+And Ryan, if I take the BVCA's
+money, they're gonna own me.
+
+36
+00:03:09,790 --> 00:03:13,431
+And if you don't,
+you will own nothing.
+
+37
+00:03:14,027 --> 00:03:15,506
+They're our last hope.
+
+38
+00:03:15,562 --> 00:03:18,805
+If Jericho works, I can
+sell it on the open market.
+
+39
+00:03:18,865 --> 00:03:21,072
+We won't even
+need Brazil's money.
+
+40
+00:03:22,936 --> 00:03:24,415
+So does it work?
+
+41
+00:03:26,773 --> 00:03:28,411
+Let's go find out.
+
+42
+00:03:33,547 --> 00:03:36,050
+Okay, geniuses,
+tell me something good.
+
+43
+00:03:36,116 --> 00:03:38,596
+Well, 500 Gray Hats
+are about to tell us.
+
+44
+00:03:38,652 --> 00:03:39,562
+Gray Hats?
+
+45
+00:03:39,619 --> 00:03:41,599
+We've invited the world's
+best computer hackers
+
+46
+00:03:41,655 --> 00:03:42,565
+to try and breach Jericho.
+
+47
+00:03:42,622 --> 00:03:45,000
+They're called "Gray Hats" because
+they're neither good nor evil.
+
+48
+00:03:45,058 --> 00:03:46,332
+Just somewhere in between.
+
+49
+00:03:46,393 --> 00:03:48,464
+If they can't get in,
+no one can.
+
+50
+00:03:49,629 --> 00:03:51,302
+Alright, everybody, heads up.
+
+51
+00:03:51,531 --> 00:03:54,569
+Jericho goes live in 5...
+
+52
+00:03:55,135 --> 00:03:56,113
+4...
+
+53
+00:03:56,570 --> 00:03:57,640
+3...
+
+54
+00:03:58,138 --> 00:03:59,310
+2...
+
+55
+00:03:59,673 --> 00:04:00,777
+1-
+
+56
+00:04:03,877 --> 00:04:05,914
+What? Are they already in?
+
+57
+00:04:05,979 --> 00:04:08,755
+Jericho's just telling us
+someone's knocking at the door.
+
+58
+00:04:08,815 --> 00:04:10,055
+Status?
+
+59
+00:04:10,450 --> 00:04:13,294
+China is locked down,
+and Russia's filtered.
+
+60
+00:04:13,954 --> 00:04:17,265
+UK denied, Germany as well.
+
+61
+00:04:18,191 --> 00:04:23,300
+I've got Mexico boxed in,
+and Egypt is blocked.
+
+62
+00:04:24,164 --> 00:04:25,370
+It's working.
+
+63
+00:04:25,999 --> 00:04:28,980
+Each one of those chimes is
+$1 million in your bank account.
+
+64
+00:04:29,035 --> 00:04:31,311
+Yeah, well, the first million
+goes back to the bank.
+
+65
+00:04:31,371 --> 00:04:33,044
+Indeed, one way or another.
+
+66
+00:04:34,241 --> 00:04:36,380
+We are going worldwide.
+
+67
+00:04:37,377 --> 00:04:39,983
+I've got a straggler
+in sector four.
+
+68
+00:04:40,046 --> 00:04:42,617
+A little late to the party,
+aren't you, buddy?
+
+69
+00:04:42,682 --> 00:04:44,593
+I hate late crashers.
+
+70
+00:04:48,455 --> 00:04:49,399
+Origin?
+
+71
+00:04:49,456 --> 00:04:51,026
+I can't quite pinpoint it.
+
+72
+00:04:51,091 --> 00:04:54,038
+It looks like he's using some
+kind of malware, maybe a botnet?
+
+73
+00:04:54,094 --> 00:04:56,472
+China just went down.
+Russia is out.
+
+74
+00:04:56,530 --> 00:04:57,440
+Where are you at?
+
+75
+00:04:57,497 --> 00:04:59,568
+Yeah, UK is down,
+and so is Germany.
+
+76
+00:04:59,633 --> 00:05:03,877
+Mexico just disappeared,
+and I can't see Egypt.
+
+77
+00:05:03,937 --> 00:05:08,181
+Security breach in sectors
+four, three, seven.
+
+78
+00:05:08,241 --> 00:05:09,311
+Full breech.
+
+79
+00:05:09,376 --> 00:05:10,377
+System collapse.
+
+80
+00:05:10,443 --> 00:05:12,184
+We're entering safe mode.
+
+81
+00:05:12,245 --> 00:05:14,282
+Okay, what's happening?
+
+82
+00:05:14,347 --> 00:05:16,384
+Fail-safe protocol.
+
+83
+00:05:18,518 --> 00:05:22,159
+The system self-preserved by shutting
+itself down and going offline.
+
+84
+00:05:24,357 --> 00:05:25,893
+Who is JOS620?
+
+85
+00:05:25,959 --> 00:05:27,370
+He's gloating, sir.
+
+86
+00:05:27,427 --> 00:05:29,873
+- Find out how he did it.
+- Well, he's not gonna tell us.
+
+87
+00:05:29,930 --> 00:05:31,102
+It's a game
+to these people.
+
+88
+00:05:31,164 --> 00:05:33,371
+Well, great,
+maybe we should've hired him.
+
+89
+00:05:36,937 --> 00:05:38,348
+I'm sorry.
+
+90
+00:05:38,672 --> 00:05:41,619
+I know you've all
+been working hard.
+
+91
+00:05:41,675 --> 00:05:42,983
+Just find him!
+
+92
+00:05:45,212 --> 00:05:46,748
+Call Brazil.
+
+93
+00:06:05,165 --> 00:06:07,475
+- Ah, hey hon.
+- Hi, sweetie.
+
+94
+00:06:10,704 --> 00:06:12,684
+How many people
+are you inviting?
+
+95
+00:06:12,739 --> 00:06:16,710
+We are inviting 20 of our
+closest friends and relatives.
+
+96
+00:06:16,776 --> 00:06:18,278
+Alright, let me
+just remind you
+
+97
+00:06:18,345 --> 00:06:20,882
+this is a wedding vow
+renewal ceremony,
+
+98
+00:06:20,947 --> 00:06:23,291
+not a royal wedding
+at the palace.
+
+99
+00:06:23,350 --> 00:06:25,626
+Have you worked
+on your wedding vows?
+
+100
+00:06:29,756 --> 00:06:32,930
+No, not yet, but I will.
+
+101
+00:06:32,993 --> 00:06:34,438
+I promise.
+
+102
+00:06:36,863 --> 00:06:38,467
+I saw Liz today.
+
+103
+00:06:38,865 --> 00:06:40,003
+Yeah?
+
+104
+00:06:40,066 --> 00:06:42,342
+She said her and David
+are separated.
+
+105
+00:06:42,402 --> 00:06:43,881
+What? Why?
+
+106
+00:06:45,539 --> 00:06:47,109
+She didn't go into it,
+
+107
+00:06:47,807 --> 00:06:50,413
+but I think it had
+something to do with cheating.
+
+108
+00:06:52,379 --> 00:06:54,120
+David had an affair?
+
+109
+00:06:54,681 --> 00:06:56,991
+Oh, it seemed like they
+had such a strong marriage.
+
+110
+00:06:57,083 --> 00:06:58,687
+I know.
+
+111
+00:06:58,752 --> 00:07:00,698
+You just never know.
+
+112
+00:07:01,254 --> 00:07:02,597
+Yeah.
+
+113
+00:07:09,095 --> 00:07:10,438
+Hey, Brenda.
+
+114
+00:07:10,497 --> 00:07:13,239
+- What you got for me?
+- I'm not sure how to put it.
+
+115
+00:07:13,300 --> 00:07:15,337
+James contacted
+the BVCA last night.
+
+116
+00:07:15,402 --> 00:07:17,404
+- Brazil?
+- They're sending someone over
+
+117
+00:07:17,470 --> 00:07:20,246
+to evaluate the financial health
+and well-being of Tycor.
+
+118
+00:07:20,307 --> 00:07:22,082
+Yeah, great, when?
+
+119
+00:07:22,142 --> 00:07:23,553
+N ow.
+
+120
+00:07:31,651 --> 00:07:34,029
+Tycor, we're here
+to keep your secrets.
+
+121
+00:07:44,264 --> 00:07:47,245
+Your father was
+a very handsome man.
+
+122
+00:07:49,269 --> 00:07:50,407
+Excuse me?
+
+123
+00:07:50,470 --> 00:07:51,881
+And you have his eyes.
+
+124
+00:07:53,073 --> 00:07:55,314
+Sorry, I'm Julia Santos.
+
+125
+00:07:55,375 --> 00:07:58,413
+I am with the Brazilian
+Venture Capitalist Association,
+
+126
+00:07:58,478 --> 00:08:00,424
+and you must be Paul?
+
+127
+00:08:00,847 --> 00:08:04,090
+Yeah, you're the Brazilian?
+
+128
+00:08:05,318 --> 00:08:07,161
+Yes, I'm the Brazilian.
+
+129
+00:08:09,422 --> 00:08:12,335
+Why didn't the BVCA
+tell us you were coming?
+
+130
+00:08:12,392 --> 00:08:14,167
+Uh, well...
+
+131
+00:08:17,163 --> 00:08:23,603
+I think they wanted to keep
+my surprise visit a surprise.
+
+132
+00:08:25,572 --> 00:08:27,745
+Actually, the truth is
+
+133
+00:08:27,807 --> 00:08:31,584
+I was in the United States
+doing other business,
+
+134
+00:08:31,644 --> 00:08:37,356
+and this seemed,
+how do you say, prudent?
+
+135
+00:08:37,417 --> 00:08:41,888
+Interesting, I would think
+it would be more, how do we say,
+
+136
+00:08:41,955 --> 00:08:44,299
+oh, remarkably convenient?
+
+137
+00:08:44,891 --> 00:08:51,433
+I'm staying at the Plaza,
+and you can have the last year
+
+138
+00:08:51,498 --> 00:08:54,536
+and year-to-dates
+financial reports sent there,
+
+139
+00:08:54,601 --> 00:08:56,979
+and we can prepare
+over the weekend.
+
+140
+00:08:57,804 --> 00:08:59,112
+Financial reports?
+
+141
+00:08:59,172 --> 00:09:00,549
+Yes.
+
+142
+00:09:06,079 --> 00:09:08,616
+We can reconvene on Monday.
+
+143
+00:09:08,715 --> 00:09:11,161
+And my cell phone number
+is on the back of the card,
+
+144
+00:09:11,251 --> 00:09:15,063
+if you have any questions
+or concerns.
+
+145
+00:09:15,922 --> 00:09:17,299
+Nice to meet you, Paul.
+
+146
+00:09:23,096 --> 00:09:24,973
+Did she catch you
+with your pants down?
+
+147
+00:09:25,432 --> 00:09:27,378
+That's not funny.
+It's not funny.
+
+148
+00:09:27,434 --> 00:09:28,913
+Oh, it's funny.
+
+149
+00:09:30,036 --> 00:09:31,140
+She is beautiful.
+
+150
+00:09:31,204 --> 00:09:33,684
+Really?
+I hadn't noticed.
+
+151
+00:09:34,541 --> 00:09:35,986
+Yeah.
+
+152
+00:09:36,943 --> 00:09:38,616
+But why are you so uptight?
+
+153
+00:09:38,678 --> 00:09:42,524
+Look, if she decides that
+our company is not a safe bet...
+
+154
+00:09:42,582 --> 00:09:45,153
+That is our last chance
+at survival.
+
+155
+00:09:45,218 --> 00:09:47,255
+Relax, I've seen this happen
+all the time.
+
+156
+00:09:47,320 --> 00:09:49,596
+As soon as you hook the client,
+you woo her, you court her,
+
+157
+00:09:49,656 --> 00:09:52,865
+you tell her everything she wants
+to hear until she feels safe.
+
+158
+00:09:52,926 --> 00:09:55,634
+Just, you know,
+only let her see your good side.
+
+159
+00:09:56,896 --> 00:09:57,931
+My good side?
+
+160
+00:09:57,997 --> 00:09:59,601
+Your good side.
+Stay focused.
+
+161
+00:09:59,666 --> 00:10:01,202
+I gotcha, thanks.
+
+162
+00:10:02,535 --> 00:10:04,537
+Your office is the other way.
+
+163
+00:10:04,604 --> 00:10:05,947
+Thanks.
+
+164
+00:10:10,110 --> 00:10:13,023
+Come on, slowpoke.
+You're gonna miss the warm-ups.
+
+165
+00:10:13,646 --> 00:10:15,717
+Okay, that's tight enough.
+
+166
+00:10:15,815 --> 00:10:17,590
+Come on, Dad.
+I gotta get out there.
+
+167
+00:10:17,684 --> 00:10:18,628
+People are looking.
+
+168
+00:10:18,685 --> 00:10:21,222
+Hey, safety first. You gotta
+protect yourself at all times.
+
+169
+00:10:21,287 --> 00:10:22,664
+Alright, Coop,
+be a good teammate!
+
+170
+00:10:22,722 --> 00:10:24,099
+Pass to your sister!
+
+171
+00:10:26,960 --> 00:10:28,735
+Oh, hey hon, thank you.
+
+172
+00:10:30,363 --> 00:10:34,209
+So, how are those marriage
+renewal vows coming along?
+
+173
+00:10:34,267 --> 00:10:37,180
+Oh honey,
+I've been so busy at work.
+
+174
+00:10:37,237 --> 00:10:40,116
+I'm so sorry.
+I'm gonna get to it.
+
+175
+00:10:40,173 --> 00:10:41,618
+Let's go, Coop!
+
+176
+00:10:41,674 --> 00:10:43,119
+Let's go, Rube!
+
+177
+00:10:44,744 --> 00:10:46,621
+Quit kidding yourself.
+
+178
+00:10:46,679 --> 00:10:49,523
+We must understand
+the tremendous capacity
+
+179
+00:10:49,582 --> 00:10:52,358
+of every human being
+to deceive him or herself
+
+180
+00:10:52,418 --> 00:10:54,364
+when not connected to God.
+
+181
+00:10:54,420 --> 00:10:56,923
+You and I really don't
+have the anchor in our lives
+
+182
+00:10:56,990 --> 00:10:59,470
+that we need
+to overcome the temptations
+
+183
+00:10:59,526 --> 00:11:01,938
+that are shot our way
+on a daily basis.
+
+184
+00:11:01,995 --> 00:11:05,909
+Know that once we start
+making excuses for sin,
+
+185
+00:11:05,965 --> 00:11:08,571
+each excuse
+seems more plausible,
+
+186
+00:11:08,635 --> 00:11:12,082
+and you'll sink deeper
+and deeper into sin and ruin.
+
+187
+00:11:12,138 --> 00:11:17,110
+We must admit that we can't
+trust ourselves apart from God.
+
+188
+00:11:17,177 --> 00:11:21,717
+Sure, sometimes God tests us,
+but the choice is ours.
+
+189
+00:11:21,781 --> 00:11:25,285
+Will we choose to obey Him?
+
+190
+00:11:34,294 --> 00:11:36,604
+Oh, look honey,
+there's Liz and David.
+
+191
+00:11:37,363 --> 00:11:39,138
+Let's go talk to them.
+Come on.
+
+192
+00:11:40,233 --> 00:11:42,144
+I'll be there
+in just a minute, okay?
+
+193
+00:11:42,202 --> 00:11:43,374
+Okay.
+
+194
+00:11:52,078 --> 00:11:53,455
+Hey, Paul.
+
+195
+00:11:55,481 --> 00:11:58,360
+Listen, I haven't seen you
+in study the last few weeks,
+
+196
+00:11:58,418 --> 00:11:59,453
+and we have two left.
+
+197
+00:11:59,519 --> 00:12:01,692
+Just hoping
+you can join us this week.
+
+198
+00:12:02,522 --> 00:12:03,967
+Thank you.
+
+199
+00:12:04,023 --> 00:12:07,766
+I'd love to go,
+I'm just so busy.
+
+200
+00:12:07,827 --> 00:12:09,636
+- I understand. Ok.
+- I wanna go. I wanna go.
+
+201
+00:12:09,696 --> 00:12:12,506
+- Alright, it's good to see ya.
+- Thank you. You too.
+
+202
+00:12:18,805 --> 00:12:21,718
+Liz! Liz!
+
+203
+00:12:21,774 --> 00:12:23,913
+I don't know
+what you're going through,
+
+204
+00:12:23,977 --> 00:12:25,957
+but I'm here for you.
+
+205
+00:12:26,012 --> 00:12:28,515
+Do you wanna
+tell me anything?
+
+206
+00:12:29,249 --> 00:12:30,922
+Just be there for me.
+
+207
+00:12:32,051 --> 00:12:33,359
+Okay.
+
+208
+00:12:37,423 --> 00:12:39,733
+I made lunch reservations
+for Friday
+
+209
+00:12:39,792 --> 00:12:41,999
+at that new restaurant
+on Tucker Street.
+
+210
+00:12:42,061 --> 00:12:45,099
+You know, the one we're thinking
+about catering our ceremony?
+
+211
+00:12:45,164 --> 00:12:47,974
+I thought we should try it
+before we commit.
+
+212
+00:12:49,936 --> 00:12:52,416
+I'm so worried about Liz.
+
+213
+00:12:52,472 --> 00:12:56,420
+I wish she would just open up
+to me and tell me what happened.
+
+214
+00:13:01,414 --> 00:13:02,722
+Earth to Paul.
+
+215
+00:13:04,450 --> 00:13:05,588
+Paul.
+
+216
+00:13:05,652 --> 00:13:06,687
+Hmm?
+
+217
+00:13:06,753 --> 00:13:09,666
+Liz and David, I mean,
+
+218
+00:13:10,189 --> 00:13:12,499
+having an affair
+is a humiliating thing
+
+219
+00:13:12,558 --> 00:13:14,299
+to open up about.
+
+220
+00:13:15,161 --> 00:13:17,767
+Has David said
+anything to you?
+
+221
+00:13:19,532 --> 00:13:23,378
+There's a Brazilian
+corporation
+
+222
+00:13:23,436 --> 00:13:26,383
+that's been threatening
+to invest in our company
+
+223
+00:13:26,439 --> 00:13:29,045
+for the past
+several months now.
+
+224
+00:13:30,109 --> 00:13:31,554
+Threatening?
+
+225
+00:13:31,611 --> 00:13:37,027
+They can't make up their minds,
+so they sent a liaison, a spy,
+
+226
+00:13:37,951 --> 00:13:39,931
+really just to snoop around
+
+227
+00:13:39,986 --> 00:13:42,466
+to see if we have any
+skeletons in our closet.
+
+228
+00:13:42,522 --> 00:13:45,969
+Well, will the man
+find anything?
+
+229
+00:13:47,293 --> 00:13:48,567
+What man?
+
+230
+00:13:48,628 --> 00:13:51,541
+The liaison,
+the man from Brazil.
+
+231
+00:13:51,998 --> 00:13:55,741
+You mean, he's not gonna
+find anything, right?
+
+232
+00:13:58,738 --> 00:14:00,513
+No, of course not.
+
+233
+00:14:31,471 --> 00:14:32,449
+Morning, Brenda.
+
+234
+00:14:32,505 --> 00:14:34,280
+James left your report
+on your desk.
+
+235
+00:14:34,340 --> 00:14:35,444
+Oh, and the bank called,
+
+236
+00:14:35,508 --> 00:14:37,886
+something about your
+car payment not being sent.
+
+237
+00:14:37,944 --> 00:14:40,322
+Hey, do you think
+my tie matches my shin?
+
+238
+00:14:40,980 --> 00:14:43,859
+Yeah, sure, looks great.
+
+239
+00:14:43,916 --> 00:14:45,827
+So what should I tell the bank?
+
+240
+00:14:46,386 --> 00:14:48,229
+Tell them my tie
+matches my shin.
+
+241
+00:14:58,064 --> 00:15:00,840
+- This is Paul.
+- Oh, hi honey.
+
+242
+00:15:00,900 --> 00:15:03,608
+I'm sorry.
+What's all the racket?
+
+243
+00:15:03,669 --> 00:15:07,116
+Oh, just Cooper exercising
+his right to be an 8-year-old,
+
+244
+00:15:07,173 --> 00:15:09,585
+and Ruby is...
+Ruby, what are you doing?
+
+245
+00:15:09,675 --> 00:15:10,813
+Ruby, please stop.
+
+246
+00:15:10,877 --> 00:15:13,357
+Be careful with that.
+Guys...
+
+247
+00:15:15,181 --> 00:15:17,127
+Hi, you must be Julia.
+
+248
+00:15:17,183 --> 00:15:19,527
+- Yes, is Paul around?
+- Yes.
+
+249
+00:15:19,585 --> 00:15:22,293
+- He's waiting for you in his office.
+- Oh, perfect. Thank you.
+
+250
+00:15:22,355 --> 00:15:23,732
+So how's that?
+
+251
+00:15:23,790 --> 00:15:26,327
+Anyway, I was just calling
+to see if you could pick up
+
+252
+00:15:26,392 --> 00:15:28,929
+Cooper's shinguards
+before the game tomorrow morning.
+
+253
+00:15:28,995 --> 00:15:30,531
+We had to re-order.
+
+254
+00:15:32,365 --> 00:15:34,276
+Uh... yeah, right, okay.
+
+255
+00:15:34,333 --> 00:15:36,040
+I'll have to get back to you.
+
+256
+00:15:39,505 --> 00:15:42,315
+Miss Santos, good morn...
+Oh!
+
+257
+00:15:42,375 --> 00:15:45,219
+- Good morning.
+- Oh, please call me Julia.
+
+258
+00:15:45,311 --> 00:15:47,416
+There's no need
+for formalities.
+
+259
+00:15:49,215 --> 00:15:51,786
+- Your CFO, James, is it?
+- Yeah.
+
+260
+00:15:51,851 --> 00:15:54,195
+Yes, he told me
+that you wanted to go over
+
+261
+00:15:54,253 --> 00:15:56,529
+the financial reports
+with me personally?
+
+262
+00:15:56,589 --> 00:15:58,933
+Yes, Julia.
+
+263
+00:15:59,859 --> 00:16:01,861
+I don't know, I guess I just
+feel that I'm responsible
+
+264
+00:16:01,928 --> 00:16:04,272
+for the good
+and the bad.
+
+265
+00:16:04,330 --> 00:16:08,301
+Oh, that's admirable,
+and the BVCA believes
+
+266
+00:16:08,367 --> 00:16:11,371
+that when it comes to
+making financial investments,
+
+267
+00:16:11,437 --> 00:16:14,418
+a man's character is
+as important as his bottom line.
+
+268
+00:16:16,709 --> 00:16:19,986
+So, how was your weekend?
+
+269
+00:16:20,546 --> 00:16:22,025
+Restful.
+
+270
+00:16:22,415 --> 00:16:25,658
+I'm lying.
+I was actually bored to death.
+
+271
+00:16:27,753 --> 00:16:30,757
+I don't know anybody
+in Los Angeles,
+
+272
+00:16:30,823 --> 00:16:36,569
+and I didn't have the first idea
+of what to do or where to go.
+
+273
+00:16:36,629 --> 00:16:38,006
+Oh, come on.
+
+274
+00:16:38,064 --> 00:16:39,839
+It's the City of Angels.
+
+275
+00:16:39,899 --> 00:16:42,379
+We have millions
+of tourists every year.
+
+276
+00:16:42,435 --> 00:16:44,642
+I mean, you could go to Disneyland,
+you could go to the
+
+277
+00:16:44,704 --> 00:16:46,505
+Hollywood Walk of Fame,
+you could go to the beach,
+
+278
+00:16:46,506 --> 00:16:49,885
+you could go to O.J. Simpson's house,
+Marilyn Monroe's house, I mean...
+
+279
+00:16:49,942 --> 00:16:52,821
+Are you offering to be
+my personal tour guide?
+
+280
+00:16:57,950 --> 00:16:59,327
+You know what I'm gonna do?
+
+281
+00:16:59,385 --> 00:17:02,889
+I'm gonna have Brenda
+write up an itinerary for you.
+
+282
+00:17:09,095 --> 00:17:11,336
+Your wife?
+
+283
+00:17:11,397 --> 00:17:13,070
+No, Brenda's not my...
+
+284
+00:17:15,134 --> 00:17:19,810
+Oh, yeah,
+that's my wife, Beth,
+
+285
+00:17:21,174 --> 00:17:22,517
+and my two kids.
+
+286
+00:17:26,546 --> 00:17:28,184
+The financial reports.
+
+287
+00:17:28,814 --> 00:17:29,724
+Oh, I'm sorry.
+
+288
+00:17:29,816 --> 00:17:31,625
+The financial reports
+aren't ready.
+
+289
+00:17:31,684 --> 00:17:34,494
+Maybe if we just had
+a little more advanced notice.
+
+290
+00:17:34,554 --> 00:17:35,658
+I understand.
+
+291
+00:17:35,721 --> 00:17:37,632
+When do you think
+you will have them by?
+
+292
+00:17:37,690 --> 00:17:38,930
+Well, we're working
+on them right now.
+
+293
+00:17:38,991 --> 00:17:40,493
+We should have them
+by the end of the day.
+
+294
+00:17:40,560 --> 00:17:42,005
+Tomorrow morning then?
+
+295
+00:17:43,629 --> 00:17:45,905
+Tomorrow morning
+my son has a soccer game,
+
+296
+00:17:45,965 --> 00:17:49,105
+and I never miss a game.
+
+297
+00:17:49,602 --> 00:17:51,582
+Well, then tonight it is.
+
+298
+00:17:54,874 --> 00:17:57,150
+I will come back
+at the end of the day,
+
+299
+00:17:57,209 --> 00:17:59,519
+and we can work
+on them together.
+
+300
+00:18:01,981 --> 00:18:04,393
+Do you have a problem
+working late tonight?
+
+301
+00:18:04,483 --> 00:18:06,861
+Of course, it'll be fun.
+
+302
+00:18:06,919 --> 00:18:09,490
+I mean, that's fine.
+
+303
+00:18:09,555 --> 00:18:13,435
+Yeah, that's fine.
+I'll see you then.
+
+304
+00:18:14,527 --> 00:18:16,029
+They're lovely, by the way.
+
+305
+00:18:17,797 --> 00:18:19,208
+Your family.
+
+306
+00:18:19,832 --> 00:18:21,175
+See you tonight.
+
+307
+00:18:23,502 --> 00:18:25,539
+Look, I don't know what
+you're so worried about.
+
+308
+00:18:25,605 --> 00:18:27,482
+I mean, owners
+of large companies
+
+309
+00:18:27,540 --> 00:18:29,349
+work long hours
+all the time,
+
+310
+00:18:29,408 --> 00:18:32,719
+especially when they got
+visitors from foreign countries.
+
+311
+00:18:32,778 --> 00:18:34,223
+I know.
+
+312
+00:18:35,581 --> 00:18:37,891
+It's just something
+about this woman.
+
+313
+00:18:40,820 --> 00:18:42,265
+She's driving me crazy.
+
+314
+00:18:42,321 --> 00:18:45,268
+I can see that,
+and I don't blame you.
+
+315
+00:18:46,759 --> 00:18:48,432
+What is Beth gonna say?
+
+316
+00:18:49,528 --> 00:18:51,337
+About what? Who? Julia?
+
+317
+00:18:51,397 --> 00:18:53,104
+You don't tell her.
+
+318
+00:18:53,165 --> 00:18:56,009
+Ryan, I don't lie to my wife.
+
+319
+00:18:56,068 --> 00:18:57,911
+It's not lying
+if you don't say anything.
+
+320
+00:18:57,970 --> 00:19:00,007
+Okay, I'm not that stupid.
+
+321
+00:19:00,606 --> 00:19:03,109
+You and Beth
+are going camping, okay?
+
+322
+00:19:03,175 --> 00:19:05,655
+It's at night, and she's
+asleep in a sleeping bag.
+
+323
+00:19:05,711 --> 00:19:08,157
+You zip up the tent, you spin
+around, and what do you see?
+
+324
+00:19:08,214 --> 00:19:10,751
+You see a spider
+crawling up the sleeping bag.
+
+325
+00:19:10,850 --> 00:19:11,828
+What do you do?
+
+326
+00:19:11,884 --> 00:19:13,886
+Do you yell all of a sudden,
+"Hey, Beth, watch out!
+
+327
+00:19:13,953 --> 00:19:16,263
+"There's a spider! It's coming!
+It's gonna get you!"
+
+328
+00:19:16,322 --> 00:19:18,563
+- No, and why not?
+- Because she'd freak out.
+
+329
+00:19:18,624 --> 00:19:22,800
+Exactly, she would freak out
+and in the process get bit.
+
+330
+00:19:23,529 --> 00:19:24,940
+SQ?
+
+331
+00:19:27,533 --> 00:19:31,481
+Look, there's a saying, "What they
+don't know won't hurt'em."
+
+332
+00:19:31,537 --> 00:19:35,246
+But my saying is,
+"What they do know will hurt them
+
+333
+00:19:35,308 --> 00:19:37,049
+and bite them."
+
+334
+00:19:37,109 --> 00:19:39,953
+So no spider, no bite, easy.
+
+335
+00:19:43,783 --> 00:19:46,389
+Dude, relax.
+Relax.
+
+336
+00:19:46,452 --> 00:19:50,628
+I'm sure this woman sees you
+for your true, inner potential.
+
+337
+00:19:51,991 --> 00:19:53,197
+I don't know.
+
+338
+00:19:53,259 --> 00:19:55,500
+Are you seeing somebody
+about these issues?
+
+339
+00:19:55,561 --> 00:19:58,167
+- About what?
+- Issues, you. You have issues.
+
+340
+00:19:58,230 --> 00:20:01,211
+- No, you have issues.
+- And you should see a shrink.
+
+341
+00:20:01,267 --> 00:20:03,770
+You should, you know, somebody
+to give you some meds,
+
+342
+00:20:03,836 --> 00:20:06,339
+get the edge off,
+help you get through the day.
+
+343
+00:20:06,405 --> 00:20:09,249
+No, I don't believe in that.
+
+344
+00:20:09,408 --> 00:20:10,853
+You don't know what
+you're talking about.
+
+345
+00:20:10,910 --> 00:20:12,218
+Look, I'm gonna do you a big favor.
+
+346
+00:20:12,278 --> 00:20:14,724
+I'm gonna give you my shrink
+'cause he's good,
+
+347
+00:20:14,780 --> 00:20:16,953
+a little out there,
+but he's good, okay?
+
+348
+00:20:17,016 --> 00:20:19,018
+You're gonna love him,
+and you're gonna thank me.
+
+349
+00:20:20,786 --> 00:20:22,424
+You got this one.
+
+350
+00:20:22,488 --> 00:20:24,024
+See my shrink!
+
+351
+00:20:24,090 --> 00:20:25,728
+You need a new shrink!
+
+352
+00:20:25,791 --> 00:20:27,327
+I'm fine!
+
+353
+00:20:30,196 --> 00:20:31,869
+Thanks for helping out, Rose.
+
+354
+00:20:31,931 --> 00:20:35,071
+I've been so busy planning
+the ceremony, I'm just...
+
+355
+00:20:35,134 --> 00:20:36,738
+l feel overwhelmed.
+
+356
+00:20:36,802 --> 00:20:38,406
+No problem, hon.
+
+357
+00:20:41,040 --> 00:20:42,917
+I thought
+all this technology
+
+358
+00:20:42,975 --> 00:20:45,478
+was supposed to make
+our lives easier.
+
+359
+00:20:48,114 --> 00:20:51,391
+I'm telling you, if you ask me,
+the machines we have now
+
+360
+00:20:51,450 --> 00:20:54,488
+actually make our lives
+harder to manage.
+
+361
+00:20:54,553 --> 00:20:57,534
+- Is this right?
+- No, you doofus, it's B!
+
+362
+00:20:57,590 --> 00:21:00,537
+Hey, don't call
+your brother a "doofus."
+
+363
+00:21:00,593 --> 00:21:03,472
+I mean, the computers,
+the Internet...
+
+364
+00:21:03,529 --> 00:21:04,872
+and that thing.
+
+365
+00:21:04,930 --> 00:21:07,501
+Don't even get me
+started on cell phones.
+
+366
+00:21:10,169 --> 00:21:11,648
+Oh.
+
+367
+00:21:11,704 --> 00:21:13,877
+I got it, C.
+
+368
+00:21:17,109 --> 00:21:19,555
+You're right.
+lam a doofus.
+
+369
+00:21:23,249 --> 00:21:24,990
+Is everything alright?
+
+370
+00:21:26,852 --> 00:21:28,798
+Oh, I'm sure it is.
+
+371
+00:21:33,492 --> 00:21:36,234
+Why didn't you give
+the financial report to Julia?
+
+372
+00:21:37,797 --> 00:21:38,969
+I guess...
+
+373
+00:21:40,566 --> 00:21:43,945
+I told myself
+I didn't want her to know
+
+374
+00:21:44,003 --> 00:21:46,711
+we're in default
+with the banks,
+
+375
+00:21:47,540 --> 00:21:49,884
+that I was up to
+my eyeballs in debt.
+
+376
+00:21:49,942 --> 00:21:52,320
+I was just trying to
+keep my head above water.
+
+377
+00:21:52,945 --> 00:21:55,084
+But maybe the real reason?
+
+378
+00:21:56,682 --> 00:21:59,561
+I just wanted to be around her
+as long as I could.
+
+379
+00:22:00,486 --> 00:22:01,556
+Oh.
+
+380
+00:22:02,421 --> 00:22:06,062
+And that's why you lied to your wife
+about who you were with?
+
+381
+00:22:11,263 --> 00:22:13,072
+Well, this is a good start.
+
+382
+00:22:13,499 --> 00:22:15,274
+Yeah, from the looks
+of these reports,
+
+383
+00:22:15,334 --> 00:22:16,813
+everything seems
+to be in order.
+
+384
+00:22:16,869 --> 00:22:17,779
+Great.
+
+385
+00:22:17,837 --> 00:22:20,784
+And you know the BVCA
+recognizes the increased
+
+386
+00:22:20,840 --> 00:22:22,877
+and growing need
+for corporate security,
+
+387
+00:22:22,942 --> 00:22:25,821
+which is why your company
+is intriguing to us.
+
+388
+00:22:25,878 --> 00:22:28,825
+I'm in the business of
+keeping people's secrets hidden.
+
+389
+00:22:29,815 --> 00:22:32,955
+I guess as the world gets bigger
+and more complicated,
+
+390
+00:22:33,519 --> 00:22:35,226
+so do their secrets.
+
+391
+00:22:44,430 --> 00:22:49,675
+You know, my dad left
+when I was a little girl,
+
+392
+00:22:50,769 --> 00:22:53,409
+and I don't remember
+much about him.
+
+393
+00:22:55,007 --> 00:22:56,486
+That must have been hard...
+
+394
+00:22:58,310 --> 00:22:59,653
+Growing up without him.
+
+395
+00:22:59,712 --> 00:23:01,350
+A girl accepts
+whatever the world
+
+396
+00:23:01,447 --> 00:23:03,859
+puts in front of her
+without question.
+
+397
+00:23:05,985 --> 00:23:07,293
+But...
+
+398
+00:23:08,921 --> 00:23:13,063
+I don't trust men
+as a result.
+
+399
+00:23:15,628 --> 00:23:19,041
+I'm afraid to get close
+to them in fear that
+
+400
+00:23:20,766 --> 00:23:22,074
+they will leave.
+
+401
+00:23:23,235 --> 00:23:24,578
+You're single?
+
+402
+00:23:25,237 --> 00:23:26,841
+I mean, I'm just...
+
+403
+00:23:28,140 --> 00:23:31,087
+I just assumed a woman
+like you would,
+
+404
+00:23:32,778 --> 00:23:34,587
+be in a relationship.
+
+405
+00:23:34,680 --> 00:23:37,524
+I suppose I haven't met
+the right man yet.
+
+406
+00:23:39,618 --> 00:23:42,394
+I want to know what
+you are thinking right now.
+
+407
+00:23:43,322 --> 00:23:44,926
+Excuse me?
+
+408
+00:23:44,990 --> 00:23:46,526
+Let me guess.
+
+409
+00:23:46,592 --> 00:23:50,506
+You think these reports could
+fool a young girl from Brazil?
+
+410
+00:23:52,298 --> 00:23:55,575
+I thought you just said
+that the reports were in order.
+
+411
+00:23:55,634 --> 00:23:57,272
+- I'm kidding.
+- Oh.
+
+412
+00:23:57,336 --> 00:23:58,474
+I'm kidding.
+
+413
+00:23:58,537 --> 00:24:00,949
+- Well, that's not funny.
+- I'm kidding.
+
+414
+00:24:01,807 --> 00:24:06,449
+But they tell me
+what you've done,
+
+415
+00:24:06,512 --> 00:24:11,120
+and I want to know
+where you're going.
+
+416
+00:24:12,351 --> 00:24:15,560
+I want to know
+what is not in the reports.
+
+417
+00:24:18,090 --> 00:24:22,698
+I want to know your secrets,
+Paul Tyson.
+
+418
+00:24:23,562 --> 00:24:25,371
+I want to...
+
+419
+00:24:27,566 --> 00:24:30,137
+know what you are hiding.
+
+420
+00:25:57,856 --> 00:26:01,929
+Beth, honey, can you get that,
+pretty please?
+
+421
+00:26:03,896 --> 00:26:05,204
+Beth?
+
+422
+00:26:14,406 --> 00:26:15,441
+Hello?
+
+423
+00:26:15,507 --> 00:26:18,454
+Hey, you still at home?
+I called you over an hour ago.
+
+424
+00:26:18,510 --> 00:26:20,888
+- You're missing the game.
+- Oh!
+
+425
+00:26:20,946 --> 00:26:23,256
+I must have
+fallen back asleep.
+
+426
+00:26:23,315 --> 00:26:26,592
+Sorry, I was at the office
+all night with Julia.
+
+427
+00:26:26,652 --> 00:26:28,563
+Honey, I can't hear.
+Hold on.
+
+428
+00:26:30,089 --> 00:26:31,864
+What? Who's Julia?
+
+429
+00:26:33,726 --> 00:26:36,070
+She's the liaison from Brazil.
+
+430
+00:26:36,128 --> 00:26:38,404
+I thought I told you about her.
+
+431
+00:26:38,464 --> 00:26:39,374
+Oh yeah, you did.
+
+432
+00:26:39,431 --> 00:26:41,877
+You just never mentioned
+she was a woman.
+
+433
+00:26:44,570 --> 00:26:45,776
+Didn't I?
+
+434
+00:26:46,538 --> 00:26:50,748
+No. Alright,
+I'll see you soon, okay?
+
+435
+00:26:52,211 --> 00:26:53,519
+Okay.
+
+436
+00:28:04,049 --> 00:28:05,050
+Paul!
+
+437
+00:28:07,052 --> 00:28:08,360
+Huh?
+
+438
+00:28:12,791 --> 00:28:13,861
+Are you okay?
+
+439
+00:28:13,926 --> 00:28:16,270
+Yeah, I'm fine, fine.
+
+440
+00:28:16,328 --> 00:28:18,604
+What's that all about?
+
+441
+00:28:18,997 --> 00:28:20,203
+What?
+
+442
+00:28:20,833 --> 00:28:22,176
+Nothing.
+
+443
+00:28:23,569 --> 00:28:26,072
+You know, l thought
+you might not have
+
+444
+00:28:26,138 --> 00:28:28,118
+been up for date night
+tonight.
+
+445
+00:28:28,540 --> 00:28:29,814
+Are you kidding?
+
+446
+00:28:29,875 --> 00:28:31,855
+Come on.
+
+447
+00:28:39,084 --> 00:28:40,654
+Oh, sorry.
+
+448
+00:28:50,028 --> 00:28:54,738
+Well, maybe we can
+make it an earlier night.
+
+449
+00:28:55,400 --> 00:28:56,606
+Sorry.
+
+450
+00:28:59,004 --> 00:29:01,006
+Are you sure
+every-thing's okay?
+
+451
+00:29:01,573 --> 00:29:04,816
+Yeah, every-thing's fine,
+Beth, really.
+
+452
+00:29:05,277 --> 00:29:10,283
+You know, Matt said that you
+missed men's Bible study again.
+
+453
+00:29:11,717 --> 00:29:13,719
+A lot going on
+at work is all.
+
+454
+00:29:15,320 --> 00:29:17,493
+I'm just gonna
+go ahead and say it.
+
+455
+00:29:18,223 --> 00:29:22,831
+It just, it seems like you've
+been so busy at work lately
+
+456
+00:29:23,328 --> 00:29:27,572
+that you don't even answer
+my phone calls anymore.
+
+457
+00:29:27,633 --> 00:29:30,512
+I'm sorry I missed
+the soccer game.
+
+458
+00:29:30,569 --> 00:29:32,105
+It's just a game.
+
+459
+00:29:32,805 --> 00:29:35,479
+I've got a lot
+going on at work.
+
+460
+00:29:35,541 --> 00:29:37,179
+You wouldn't understand.
+
+461
+00:29:43,482 --> 00:29:47,157
+So what do you hear
+from Liz and David?
+
+462
+00:29:51,156 --> 00:29:52,362
+Nothing.
+
+463
+00:29:54,493 --> 00:29:56,996
+Liz has just basically
+disappeared.
+
+464
+00:29:58,197 --> 00:30:00,302
+I'm so disappointed in David.
+
+465
+00:30:00,365 --> 00:30:04,040
+None of us can begin to
+trust ourselves apart from God.
+
+466
+00:30:05,937 --> 00:30:07,814
+Isn't that what Pastor said?
+
+467
+00:30:09,875 --> 00:30:12,719
+Infidelity is
+an outside threat, Beth.
+
+468
+00:30:12,778 --> 00:30:15,054
+It's like a common burglar.
+
+469
+00:30:15,947 --> 00:30:18,325
+A man should be able
+to protect his family.
+
+470
+00:30:29,428 --> 00:30:31,169
+Jericho status report.
+
+471
+00:30:31,229 --> 00:30:32,572
+What's the rush?
+
+472
+00:30:32,631 --> 00:30:33,905
+Julia wants it.
+
+473
+00:30:33,966 --> 00:30:35,968
+I'm supposed to
+meet her at noon.
+
+474
+00:30:36,435 --> 00:30:38,415
+I thought this was
+for your eyes only.
+
+475
+00:30:38,470 --> 00:30:41,314
+There are things in here we may not
+be ready to share with the outside.
+
+476
+00:30:41,373 --> 00:30:44,582
+I'll get there early,
+and I'll proof it.
+
+477
+00:30:44,643 --> 00:30:45,849
+Don't worry.
+
+478
+00:31:08,367 --> 00:31:09,311
+Thank you.
+
+479
+00:31:09,368 --> 00:31:11,848
+I'm meeting someone here
+in about an hour or so.
+
+480
+00:31:11,903 --> 00:31:13,405
+I'll order then?
+
+481
+00:31:13,472 --> 00:31:15,474
+Thank you. Appreciate it.
+
+482
+00:31:38,230 --> 00:31:39,573
+You're early.
+
+483
+00:31:40,599 --> 00:31:42,772
+I respect a man
+that's punctual.
+
+484
+00:31:42,834 --> 00:31:45,007
+Shows his attention
+to detail.
+
+485
+00:31:45,570 --> 00:31:48,915
+I brought the R&D reports,
+
+486
+00:31:48,974 --> 00:31:52,820
+the projection analysis based
+on the Project Jericho roll out.
+
+487
+00:31:52,878 --> 00:31:55,791
+I'm sure Tycor
+has a very bright future.
+
+488
+00:31:57,983 --> 00:32:01,260
+Well, I have
+worked very hard
+
+489
+00:32:01,320 --> 00:32:03,163
+to keep that company
+in the forefront.
+
+490
+00:32:03,221 --> 00:32:04,996
+To think that you've
+managed all of this
+
+491
+00:32:05,057 --> 00:32:07,731
+while raising a family
+and being a devoted husband,
+
+492
+00:32:07,793 --> 00:32:10,831
+well, I've yet
+to meet a man like you.
+
+493
+00:32:16,134 --> 00:32:17,374
+Thank you.
+
+494
+00:32:17,702 --> 00:32:21,047
+It's true, too many successful
+men ignore their families,
+
+495
+00:32:21,106 --> 00:32:23,347
+and somehow
+you found the balance.
+
+496
+00:32:24,209 --> 00:32:26,951
+Well, my wife...
+
+497
+00:32:27,546 --> 00:32:29,890
+Doesn't appreciate
+everything that you do
+
+498
+00:32:29,948 --> 00:32:31,188
+to keep the machine running?
+
+499
+00:32:31,249 --> 00:32:34,594
+I mean, a guy can't go to
+every soccer game, right?
+
+500
+00:32:34,653 --> 00:32:36,758
+I know exactly
+what you mean.
+
+501
+00:32:38,990 --> 00:32:40,765
+Ooh, wow!
+
+502
+00:32:42,661 --> 00:32:44,038
+Can I be honest with you?
+
+503
+00:32:44,096 --> 00:32:45,404
+Yes.
+
+504
+00:32:45,464 --> 00:32:48,570
+I'm not sure
+if this report is accurate.
+
+505
+00:32:48,667 --> 00:32:51,341
+I haven't had
+a chance to proofread it.
+
+506
+00:32:51,403 --> 00:32:54,941
+It's okay, Paul.
+It's okay.
+
+507
+00:32:55,006 --> 00:32:57,509
+I know that you
+are a very busy man.
+
+508
+00:33:07,652 --> 00:33:09,359
+Off the record here?
+
+509
+00:33:10,255 --> 00:33:11,495
+Of course.
+
+510
+00:33:11,556 --> 00:33:14,799
+Every friendship is
+founded on trust, no?
+
+511
+00:33:16,194 --> 00:33:21,234
+I'm not sure that
+Project Jericho is really ready.
+
+512
+00:33:23,101 --> 00:33:29,279
+Paul, may I admit something
+to you, as you say,
+
+513
+00:33:29,341 --> 00:33:31,878
+off the record?
+
+514
+00:33:35,513 --> 00:33:36,753
+L...
+
+515
+00:33:39,618 --> 00:33:41,495
+Oh, no!
+
+516
+00:33:42,521 --> 00:33:45,161
+It's alright, sorry,
+I just... I'm sorry.
+
+517
+00:33:45,223 --> 00:33:47,328
+I wasn't paying attention
+to what I was doing.
+
+518
+00:33:47,392 --> 00:33:49,394
+I just...
+
+519
+00:33:53,832 --> 00:33:57,109
+I'm sorry,
+I spilled everything, and I...
+
+520
+00:33:57,569 --> 00:33:59,173
+Sit, please.
+
+521
+00:33:59,237 --> 00:34:01,547
+This is so embarrassing.
+I'm sorry.
+
+522
+00:34:01,606 --> 00:34:05,276
+I brought the R&D reports,
+the projection analysis based on...
+
+523
+00:34:05,277 --> 00:34:07,052
+Oh, whoo!
+
+524
+00:34:09,414 --> 00:34:11,826
+Ay, well, something tells me
+
+525
+00:34:11,883 --> 00:34:15,353
+that we are not going to be
+getting much work done today,
+
+526
+00:34:15,420 --> 00:34:20,665
+so I do have to wrap this up,
+
+527
+00:34:20,725 --> 00:34:24,696
+and I'm afraid that I have to
+be in Brazil by next week, so...
+
+528
+00:34:25,096 --> 00:34:26,507
+Brazil?
+
+529
+00:34:28,200 --> 00:34:29,702
+Why so soon?
+
+530
+00:34:31,703 --> 00:34:33,705
+Because it's home.
+
+531
+00:34:35,607 --> 00:34:38,816
+Of course, it's home.
+
+532
+00:34:39,211 --> 00:34:40,815
+Mm-hmm.
+
+533
+00:34:42,314 --> 00:34:43,554
+Of course, yeah.
+
+534
+00:34:43,615 --> 00:34:48,121
+I'm gonna print out
+another one of these for you.
+
+535
+00:34:48,186 --> 00:34:49,756
+Please.
+
+536
+00:34:49,821 --> 00:34:51,266
+Let me know.
+
+537
+00:34:51,323 --> 00:34:52,825
+I will.
+
+538
+00:35:11,076 --> 00:35:12,077
+Yes.
+
+539
+00:35:15,046 --> 00:35:18,357
+I'd like to make
+an appointment.
+
+540
+00:35:27,159 --> 00:35:28,399
+Mr. Tyson.
+
+541
+00:35:29,661 --> 00:35:33,040
+Dr. Howell, thanks for
+seeing me at the last minute.
+
+542
+00:35:33,098 --> 00:35:35,544
+Well, we had a last-minute
+cancellation.
+
+543
+00:35:35,600 --> 00:35:36,806
+You're lucky.
+
+544
+00:35:38,003 --> 00:35:40,142
+My last client of the night.
+
+545
+00:35:40,205 --> 00:35:41,650
+Thank you.
+
+546
+00:35:41,706 --> 00:35:45,950
+So you say here that you're
+having feelings of anxiety.
+
+547
+00:35:46,411 --> 00:35:48,687
+What medications are you
+currently taking?
+
+548
+00:35:49,314 --> 00:35:52,124
+None, I don't take any.
+
+549
+00:35:54,286 --> 00:35:56,288
+Well, then you've
+come to the right place.
+
+550
+00:35:57,622 --> 00:36:01,297
+No, no,
+I'm not here for that.
+
+551
+00:36:03,528 --> 00:36:04,973
+I need help.
+
+552
+00:36:05,030 --> 00:36:09,376
+For the last week or so
+I've had difficulty...
+
+553
+00:36:12,270 --> 00:36:14,113
+How do I say this?
+
+554
+00:36:14,539 --> 00:36:16,177
+Concentrating.
+
+555
+00:36:17,008 --> 00:36:20,182
+I have this issue
+with my company,
+
+556
+00:36:20,946 --> 00:36:24,120
+but I've been so distracted
+by this...
+
+557
+00:36:25,850 --> 00:36:30,890
+this other thing, yeah,
+that I just haven't been able to
+
+558
+00:36:32,958 --> 00:36:35,097
+take care
+of the work at hand.
+
+559
+00:36:38,330 --> 00:36:40,037
+Other thing?
+
+560
+00:36:46,805 --> 00:36:50,116
+I'm attracted to a woman
+
+561
+00:36:51,309 --> 00:36:52,754
+that I work with,
+
+562
+00:36:58,250 --> 00:36:59,627
+and I'm married.
+
+563
+00:37:01,086 --> 00:37:02,565
+Now I see.
+
+564
+00:37:04,456 --> 00:37:06,493
+So, how long have you
+been having an affair?
+
+565
+00:37:06,558 --> 00:37:08,469
+Oh, no, it's not like that.
+
+566
+00:37:08,526 --> 00:37:11,564
+I don't even think she knows
+that I think about her.
+
+567
+00:37:11,629 --> 00:37:14,542
+So, what you're saying is
+that you haven't physically
+
+568
+00:37:14,599 --> 00:37:17,478
+consummated your attraction
+to her in any way?
+
+569
+00:37:18,069 --> 00:37:20,413
+No, it's not like that.
+
+570
+00:37:20,472 --> 00:37:23,214
+Well, perhaps you've
+shared videos, photographs,
+
+571
+00:37:23,308 --> 00:37:27,484
+and texts with provocative
+overtones?
+
+572
+00:37:29,080 --> 00:37:31,583
+No, like I said,
+
+573
+00:37:33,184 --> 00:37:34,686
+I think that she assumes
+
+574
+00:37:34,753 --> 00:37:37,859
+this is strictly
+a business relationship.
+
+575
+00:37:38,523 --> 00:37:42,471
+Well, that's what it sounds
+like to me, Mr. Tyson.
+
+576
+00:37:44,729 --> 00:37:47,471
+The feelings of
+attraction to women is normal,
+
+577
+00:37:47,532 --> 00:37:49,512
+if not downright healthy.
+
+578
+00:37:49,567 --> 00:37:53,071
+I can't stop
+thinking about her.
+
+579
+00:37:55,740 --> 00:37:57,947
+It's interfering
+with my job
+
+580
+00:38:02,013 --> 00:38:03,651
+and my marriage.
+
+581
+00:38:09,220 --> 00:38:13,259
+I'm supposed to be renewing
+my wedding vows in a few days.
+
+582
+00:38:14,325 --> 00:38:19,707
+Once again, you cannot control
+your more base desires.
+
+583
+00:38:20,231 --> 00:38:23,007
+I mean, if every married man
+that dreamt of sleeping
+
+584
+00:38:23,068 --> 00:38:25,344
+with another woman
+sought my counsel,
+
+585
+00:38:27,238 --> 00:38:30,242
+I'd be a very rich
+doctor indeed.
+
+586
+00:38:30,875 --> 00:38:32,616
+- The Bible says...
+- Oh.
+
+587
+00:38:32,911 --> 00:38:36,484
+The Bible, oh, I see,
+religious guilt,
+
+588
+00:38:36,581 --> 00:38:39,562
+not as profitable as fantasy,
+
+589
+00:38:40,251 --> 00:38:42,629
+but it's kept me
+in good shape.
+
+590
+00:38:43,688 --> 00:38:46,430
+Paul, listen to me carefully.
+
+591
+00:38:46,491 --> 00:38:49,700
+You need to understand
+the feelings that you're having
+
+592
+00:38:49,761 --> 00:38:52,935
+are no way a threat to your
+relationship with your wife.
+
+593
+00:38:53,498 --> 00:38:55,136
+As a matter of fact,
+
+594
+00:38:56,301 --> 00:38:59,510
+if your wife had the right
+attitude about the whole thing,
+
+595
+00:39:00,171 --> 00:39:02,947
+she could find it
+actually enhance it.
+
+596
+00:39:05,343 --> 00:39:07,653
+I don't see myself
+
+597
+00:39:07,712 --> 00:39:10,659
+being able to convince her
+of that anytime soon.
+
+598
+00:39:10,749 --> 00:39:12,558
+I bet the emotional
+excitement you get
+
+599
+00:39:12,617 --> 00:39:14,756
+from flirting with this woman
+
+600
+00:39:14,819 --> 00:39:19,199
+just brings more vitality
+and passion to your marriage.
+
+601
+00:39:19,924 --> 00:39:22,768
+You just mentioned you want
+to renew your wedding vows.
+
+602
+00:39:23,028 --> 00:39:27,875
+Well, that kind of energy
+is a renewal in and of itself.
+
+603
+00:39:32,203 --> 00:39:36,117
+So I'm not doing
+anything wrong?
+
+604
+00:39:38,576 --> 00:39:43,184
+Wrong is not a word we like
+to use in my profession.
+
+605
+00:39:44,215 --> 00:39:45,421
+No.
+
+606
+00:39:45,917 --> 00:39:50,957
+You think for the time being
+there is no wrong.
+
+607
+00:39:57,295 --> 00:40:00,333
+There is no wrong.
+
+608
+00:40:11,543 --> 00:40:12,749
+There is no wrong.
+
+609
+00:40:15,280 --> 00:40:16,486
+There is no wrong.
+
+610
+00:40:24,088 --> 00:40:25,931
+- Oh, good morning, Brenda.
+- Good morning.
+
+611
+00:40:25,990 --> 00:40:27,765
+James is waiting for you
+in your office.
+
+612
+00:40:27,826 --> 00:40:29,328
+Excellent!
+Just the man I wanna see!
+
+613
+00:40:29,394 --> 00:40:31,465
+Ok, here's what I need.
+I need a half an hour.
+
+614
+00:40:31,529 --> 00:40:32,906
+No interruptions,
+no matter what.
+
+615
+00:40:32,964 --> 00:40:34,910
+And I also need another copy
+of the Jericho report.
+
+616
+00:40:34,966 --> 00:40:38,004
+Okay, so the bank called again
+about your car payment.
+
+617
+00:40:38,069 --> 00:40:41,107
+- What do you want me to do?
+- I'll fix it, no worries.
+
+618
+00:40:48,246 --> 00:40:50,089
+- Paul, we need to talk.
+- Yes, we do.
+
+619
+00:40:50,148 --> 00:40:51,957
+I heard from the bank
+this morning.
+
+620
+00:40:52,016 --> 00:40:53,154
+Of course you did.
+
+621
+00:40:53,218 --> 00:40:54,754
+Were you able
+to buy us some time?
+
+622
+00:40:54,819 --> 00:40:56,560
+- Yes, 5 days.
+- That's good.
+
+623
+00:40:56,621 --> 00:40:59,727
+But that was 4 days ago.
+Time's up, Paul.
+
+624
+00:40:59,791 --> 00:41:01,293
+If you've got
+something up your sleeve,
+
+625
+00:41:01,359 --> 00:41:03,270
+now is the time
+to pull it out.
+
+626
+00:41:04,028 --> 00:41:06,065
+We're gonna roll out
+Project Jericho.
+
+627
+00:41:06,130 --> 00:41:08,132
+It isn't ready.
+I just talked to Matt...
+
+628
+00:41:08,199 --> 00:41:09,837
+It's ready enough!
+
+629
+00:41:09,901 --> 00:41:10,971
+I'm gonna make
+the announcement
+
+630
+00:41:11,035 --> 00:41:13,037
+at the next projections
+meeting for the BVCA.
+
+631
+00:41:13,104 --> 00:41:14,378
+What projections meeting?
+
+632
+00:41:14,439 --> 00:41:16,180
+The one we're having
+Monday morning.
+
+633
+00:41:16,274 --> 00:41:19,687
+Paul, if the BVCA
+invests in Tycor
+
+634
+00:41:19,744 --> 00:41:22,588
+because you've intentionally
+misrepresented yourself,
+
+635
+00:41:22,647 --> 00:41:26,026
+both they and the bank
+can bring legal action.
+
+636
+00:41:26,317 --> 00:41:31,062
+You think you have problems now?
+We're talking the SOC and the FBI.
+
+637
+00:41:31,122 --> 00:41:32,795
+Add to it that
+every employee here
+
+638
+00:41:32,857 --> 00:41:35,497
+could be considered
+an accomplice and face jail time.
+
+639
+00:41:35,560 --> 00:41:37,233
+It was a fluke.
+
+640
+00:41:37,295 --> 00:41:39,741
+This JOS character
+just got lucky.
+
+641
+00:41:39,831 --> 00:41:42,243
+- Paul, this is a bad idea!
+- James.
+
+642
+00:41:43,067 --> 00:41:45,308
+I'm the captain
+of my own ship!
+
+643
+00:41:49,641 --> 00:41:51,814
+Paul, they're taking
+your car away!
+
+644
+00:41:52,543 --> 00:41:55,752
+- What? Who is?
+- The bank. They're repossessing it.
+
+645
+00:41:57,015 --> 00:41:58,323
+Why didn't you get me?!
+
+646
+00:41:58,383 --> 00:42:00,727
+You asked not to be disturbed,
+and they just came,
+
+647
+00:42:00,785 --> 00:42:02,423
+and now they're towing it.
+
+648
+00:42:08,426 --> 00:42:09,427
+Matt!
+
+649
+00:42:11,930 --> 00:42:15,343
+How long will it take you to put
+together a full demo of Jericho?
+
+650
+00:42:15,400 --> 00:42:17,778
+- I take it it didn't go too well.
+- How long?
+
+651
+00:42:17,836 --> 00:42:20,817
+Well, I mean, I'd have to
+get all the data put together
+
+652
+00:42:20,872 --> 00:42:22,010
+on 3D histograms.
+
+653
+00:42:22,073 --> 00:42:24,314
+- If you want any kind of animation...
+- Monday morning?
+
+654
+00:42:25,910 --> 00:42:27,218
+What happened?
+
+655
+00:42:29,314 --> 00:42:30,725
+Don't ask.
+
+656
+00:42:31,516 --> 00:42:34,224
+She's gonna leave
+if I don't do something.
+
+657
+00:42:35,586 --> 00:42:37,827
+- Are you alright?
+- Yes, I'm fine.
+
+658
+00:42:38,756 --> 00:42:41,737
+I'm just saying,
+just be careful.
+
+659
+00:42:45,129 --> 00:42:46,631
+Yeah.
+
+660
+00:42:47,765 --> 00:42:51,941
+Hey, he used some variation
+of a Trojan Horse
+
+661
+00:42:52,003 --> 00:42:54,347
+to bypass security protocol.
+
+662
+00:42:57,208 --> 00:42:58,516
+What?
+
+663
+00:43:01,646 --> 00:43:03,455
+That's how he bypassed
+security protocol.
+
+664
+00:43:03,548 --> 00:43:04,959
+What are you talking about?
+
+665
+00:43:05,383 --> 00:43:07,761
+- JOS620.
+- Yeah?
+
+666
+00:43:08,119 --> 00:43:10,099
+He got in
+through the back door.
+
+667
+00:43:10,154 --> 00:43:11,758
+Well, can we close it?
+
+668
+00:43:13,224 --> 00:43:14,532
+Probably.
+
+669
+00:43:15,526 --> 00:43:18,166
+I'd really like to know
+who left the door open.
+
+670
+00:43:18,229 --> 00:43:22,143
+The security breach
+is on the inside?
+
+671
+00:43:24,669 --> 00:43:26,171
+Isn't it always?
+
+672
+00:43:28,239 --> 00:43:29,684
+I hope not.
+
+673
+00:43:34,479 --> 00:43:35,719
+Can I borrow your car?
+
+674
+00:43:59,737 --> 00:44:01,216
+I'm here to see Mrs. Santos.
+
+675
+00:44:01,272 --> 00:44:04,219
+- Would you mind dialing her up?
+- No problem. One moment.
+
+676
+00:44:04,275 --> 00:44:05,379
+Thank you.
+
+677
+00:44:14,485 --> 00:44:16,590
+Sir, there she goes
+right there.
+
+678
+00:44:21,793 --> 00:44:22,965
+Paul?
+
+679
+00:44:26,497 --> 00:44:28,306
+David, how ya doing?
+
+680
+00:44:28,966 --> 00:44:30,445
+What are you doing here?
+
+681
+00:44:30,501 --> 00:44:35,246
+I've been staying here
+since Liz and I split, you know,
+
+682
+00:44:35,306 --> 00:44:37,980
+until I can get my feet
+on the ground and find my own place.
+
+683
+00:44:38,042 --> 00:44:41,421
+Yeah, I heard about that.
+
+684
+00:44:41,679 --> 00:44:43,124
+We saw you guys at church.
+
+685
+00:44:44,148 --> 00:44:47,152
+It came as a total shock
+to Beth and I.
+
+686
+00:44:48,519 --> 00:44:49,725
+Me too.
+
+687
+00:44:49,787 --> 00:44:52,267
+Look, I know this
+is none of my business,
+
+688
+00:44:52,757 --> 00:44:55,328
+but how did you
+let this happen?
+
+689
+00:44:57,061 --> 00:44:59,632
+- Me?
+- Yeah, your affair.
+
+690
+00:44:59,697 --> 00:45:02,234
+I didn't have an affair.
+
+691
+00:45:03,301 --> 00:45:04,780
+She did.
+
+692
+00:45:05,470 --> 00:45:06,505
+Liz?
+
+693
+00:45:06,571 --> 00:45:08,073
+Yeah, she...
+
+694
+00:45:09,640 --> 00:45:14,111
+She fell in love with
+some guy she met on the Internet.
+
+695
+00:45:18,249 --> 00:45:20,286
+I'm sorry, we just assumed...
+
+696
+00:45:20,351 --> 00:45:22,331
+- That it was the man.
+- Yeah.
+
+697
+00:45:23,221 --> 00:45:25,667
+Yeah, not this time.
+
+698
+00:45:28,092 --> 00:45:30,072
+Can I buy you
+a cup of coffee?
+
+699
+00:45:31,562 --> 00:45:33,803
+Actually, women
+are more susceptible
+
+700
+00:45:33,898 --> 00:45:36,071
+to this kind of thing
+than men are.
+
+701
+00:45:36,133 --> 00:45:39,842
+I know it sounds odd,
+but they call it emotional adultery.
+
+702
+00:45:41,105 --> 00:45:42,550
+I'm not following.
+
+703
+00:45:42,607 --> 00:45:44,484
+It's the Internet age, man.
+
+704
+00:45:44,542 --> 00:45:46,112
+Where have you been?
+
+705
+00:45:46,177 --> 00:45:47,747
+Happily married.
+
+706
+00:45:47,979 --> 00:45:49,424
+So was I.
+
+707
+00:45:50,748 --> 00:45:52,284
+So was I.
+
+708
+00:45:53,417 --> 00:45:55,021
+It usually goes this way.
+
+709
+00:45:55,086 --> 00:45:58,659
+Maybe a woman is
+unhappy in her marriage.
+
+710
+00:45:58,723 --> 00:46:01,294
+Maybe she's bored.
+
+711
+00:46:01,359 --> 00:46:04,397
+Maybe she's just going through
+some kind of a mid-life crisis.
+
+712
+00:46:04,462 --> 00:46:06,100
+The point is there doesn't
+necessarily have to be
+
+713
+00:46:06,164 --> 00:46:07,734
+anything wrong in her life.
+
+714
+00:46:07,832 --> 00:46:09,334
+The next thing you know
+
+715
+00:46:09,400 --> 00:46:12,313
+she starts talking to
+somebody in her Zumba class,
+
+716
+00:46:12,370 --> 00:46:15,249
+or it could be a co-worker
+in the next cubicle over.
+
+717
+00:46:15,306 --> 00:46:16,444
+It could be just
+somebody she sees
+
+718
+00:46:16,507 --> 00:46:18,714
+at a school bus stop
+every morning.
+
+719
+00:46:19,243 --> 00:46:21,245
+It can happen anywhere,
+anytime.
+
+720
+00:46:21,312 --> 00:46:22,985
+What could happen?
+
+721
+00:46:24,782 --> 00:46:26,728
+She met somebody
+
+722
+00:46:28,186 --> 00:46:31,429
+on an Internet chat room
+intended for people
+
+723
+00:46:31,489 --> 00:46:34,663
+interested in investing
+in the stock market.
+
+724
+00:46:34,725 --> 00:46:37,137
+- Liz?
+- Yeah.
+
+725
+00:46:37,194 --> 00:46:38,673
+Come on, how did it happen?
+
+726
+00:46:38,729 --> 00:46:41,801
+They start off as friends,
+you know?
+
+727
+00:46:42,633 --> 00:46:45,876
+At least that's how Liz told me
+that it happened with her.
+
+728
+00:46:45,937 --> 00:46:49,578
+Next thing you know, they're
+talking about common interests.
+
+729
+00:46:49,674 --> 00:46:53,281
+That leads to more personal
+discussions about, you name it,
+
+730
+00:46:53,344 --> 00:46:56,484
+intimate struggles,
+doubts, feelings, fears,
+
+731
+00:46:57,782 --> 00:47:01,161
+the kinda things
+that should be intended
+
+732
+00:47:01,219 --> 00:47:04,530
+exclusively for
+a marriage relationship.
+
+733
+00:47:06,524 --> 00:47:08,561
+When did they actually meet?
+
+734
+00:47:08,626 --> 00:47:11,402
+I don't even think
+that they have in person.
+
+735
+00:47:12,797 --> 00:47:14,777
+The guy lives in Wyoming.
+
+736
+00:47:18,236 --> 00:47:20,182
+But how's it an affair?
+
+737
+00:47:21,105 --> 00:47:23,016
+She thinks, she...
+
+738
+00:47:25,009 --> 00:47:26,613
+believes
+
+739
+00:47:26,677 --> 00:47:29,521
+that she's gonna have
+a future with this guy,
+
+740
+00:47:31,182 --> 00:47:32,627
+one...
+
+741
+00:47:34,652 --> 00:47:36,928
+one brighter than
+the one she has with...
+
+742
+00:47:41,425 --> 00:47:42,699
+with me.
+
+743
+00:47:48,399 --> 00:47:49,639
+Hang on.
+
+744
+00:47:58,309 --> 00:48:00,118
+I guess I'm gonna have to
+run back to the office.
+
+745
+00:48:00,177 --> 00:48:01,884
+You know what
+the scary thing is?
+
+746
+00:48:01,946 --> 00:48:03,186
+Is that...
+
+747
+00:48:07,551 --> 00:48:09,292
+I had a good marriage.
+
+748
+00:48:14,392 --> 00:48:17,373
+Imagine what would happen
+if someone's in a bad marriage.
+
+749
+00:48:25,970 --> 00:48:27,608
+Sorry I'm late.
+What's up?
+
+750
+00:48:27,672 --> 00:48:29,117
+You've got company.
+
+751
+00:48:30,675 --> 00:48:31,779
+She's here?
+
+752
+00:48:35,479 --> 00:48:37,618
+Tycor, here to
+keep your secrets.
+
+753
+00:48:41,218 --> 00:48:42,925
+Hi, Beth!
+
+754
+00:48:42,987 --> 00:48:44,967
+Don't look so disappointed.
+
+755
+00:48:45,022 --> 00:48:48,595
+Come on, don't be silly.
+I'm just... I'm surprised.
+
+756
+00:48:48,659 --> 00:48:50,138
+- Surprised?
+- Yeah.
+
+757
+00:48:50,194 --> 00:48:53,266
+Lunch today at that
+new place on Tucker Street?
+
+758
+00:48:54,699 --> 00:48:56,610
+I'm so sorry.
+
+759
+00:48:58,869 --> 00:49:01,679
+Iran into David
+at his hotel,
+
+760
+00:49:01,739 --> 00:49:03,810
+and I spent the better part
+of the day talking to him.
+
+761
+00:49:03,874 --> 00:49:05,353
+How is he?
+
+762
+00:49:07,111 --> 00:49:08,681
+He's holding on.
+
+763
+00:49:10,781 --> 00:49:12,522
+I found the bills, Paul.
+
+764
+00:49:12,583 --> 00:49:14,790
+Were you ever
+planning on telling me?
+
+765
+00:49:14,852 --> 00:49:17,162
+I'm sorry, honey.
+I just didn't want you to worry.
+
+766
+00:49:17,221 --> 00:49:18,666
+I will fix it.
+
+767
+00:49:18,723 --> 00:49:21,795
+Hey, Beth.
+What a pleasant surprise.
+
+768
+00:49:22,260 --> 00:49:23,705
+Hello, Ryan.
+
+769
+00:49:26,330 --> 00:49:30,039
+I see you two are busy,
+so I'll just leave you two to it.
+
+770
+00:49:30,101 --> 00:49:31,546
+Wait, honey.
+
+771
+00:49:33,370 --> 00:49:35,611
+Look, I'm sorry.
+
+772
+00:49:35,673 --> 00:49:37,914
+Let me make it
+up to you, okay?
+
+773
+00:49:37,975 --> 00:49:40,649
+I will, promise.
+
+774
+00:49:41,712 --> 00:49:43,191
+It's fine.
+
+775
+00:49:43,681 --> 00:49:45,285
+Good bye, Ryan.
+
+776
+00:49:45,883 --> 00:49:47,294
+Bye, Beth.
+
+777
+00:49:48,452 --> 00:49:50,022
+Did I interrupt?
+
+778
+00:49:50,087 --> 00:49:52,533
+No, no, every-thing's fine.
+
+779
+00:49:53,023 --> 00:49:55,526
+So what's going on?
+
+780
+00:49:55,593 --> 00:49:56,663
+You tell me.
+
+781
+00:49:56,727 --> 00:49:58,638
+Looks like we're closing
+on Jericho Monday morning.
+
+782
+00:49:58,696 --> 00:50:00,437
+Big day for Tycor.
+
+783
+00:50:00,498 --> 00:50:02,171
+That means you found JOS.
+
+784
+00:50:02,233 --> 00:50:04,713
+Well, not exactly, but Matt thinks
+he's got everything figured out.
+
+785
+00:50:04,768 --> 00:50:06,076
+It's gonna be fine.
+
+786
+00:50:06,137 --> 00:50:08,617
+The BVCA is gonna want it,
+and in less than 24 hours
+
+787
+00:50:08,672 --> 00:50:11,118
+I'm gonna be at the bank
+with a commitment letter.
+
+788
+00:50:11,175 --> 00:50:13,587
+That's what I'm talking about.
+The crops are saved.
+
+789
+00:50:13,644 --> 00:50:15,055
+The crops are saved.
+
+790
+00:50:15,479 --> 00:50:19,120
+Oh, Monday on the rollout,
+I wanna make sure I don't miss it.
+
+791
+00:50:19,183 --> 00:50:20,423
+When and where?
+
+792
+00:50:20,484 --> 00:50:22,521
+That's top secret, Ryan.
+You know that.
+
+793
+00:50:23,054 --> 00:50:25,330
+Okay, whatever,
+send me a doughnut.
+
+794
+00:50:41,405 --> 00:50:42,509
+Hey, Matt.
+
+795
+00:50:44,141 --> 00:50:46,178
+Oh, a visit from
+the head of marketing.
+
+796
+00:50:46,243 --> 00:50:49,781
+- To what do we owe this honor?
+- I hear you solved the JOS620 issue.
+
+797
+00:50:49,847 --> 00:50:51,417
+No, I mean, not entirely.
+
+798
+00:50:51,482 --> 00:50:54,361
+I found a hole in the security
+protocol and closed it,
+
+799
+00:50:55,486 --> 00:50:57,397
+but hopefully
+there aren't any more.
+
+800
+00:50:57,454 --> 00:50:58,990
+A hole, huh?
+
+801
+00:50:59,724 --> 00:51:01,101
+Alright, well,
+I just wanna make sure
+
+802
+00:51:01,158 --> 00:51:02,831
+we're definitely on
+for Monday morning.
+
+803
+00:51:02,893 --> 00:51:04,395
+Yeah, we're good to go.
+
+804
+00:51:04,762 --> 00:51:06,070
+Alright, thanks.
+
+805
+00:51:09,066 --> 00:51:11,273
+Oh, and what time
+is the rollout?
+
+806
+00:51:11,335 --> 00:51:13,838
+I got a press release
+I gotta put together.
+
+807
+00:51:16,273 --> 00:51:18,014
+That's on a
+need-to-know basis.
+
+808
+00:51:18,075 --> 00:51:19,748
+I mean, you're gonna
+have to ask Paul.
+
+809
+00:51:19,810 --> 00:51:22,757
+I know, but he's been
+acting a little funny lately.
+
+810
+00:51:22,847 --> 00:51:26,226
+Between you and me, I think
+there's issues going on at home.
+
+811
+00:51:26,284 --> 00:51:29,629
+I walked in on him and Beth, and
+it was like World War Ill in there.
+
+812
+00:51:29,687 --> 00:51:31,030
+Yeah, I was
+worried about that.
+
+813
+00:51:31,088 --> 00:51:34,797
+So, considering all
+that he's got going on,
+
+814
+00:51:34,858 --> 00:51:37,099
+I don't wanna bother the guy.
+
+815
+00:51:39,997 --> 00:51:42,273
+Come on, hook a brother up.
+
+816
+00:51:45,569 --> 00:51:49,574
+Alright, 9:38 a.m.,
+but you didn't hear it from me.
+
+817
+00:51:49,640 --> 00:51:51,586
+Got it.
+Thanks, Buddy.
+
+818
+00:51:57,081 --> 00:51:59,561
+9:38.
+
+819
+00:52:26,377 --> 00:52:28,379
+Paul, are you about done?
+
+820
+00:52:28,779 --> 00:52:29,780
+Almost.
+
+821
+00:52:29,847 --> 00:52:32,589
+I have to pick up
+flowers for service early.
+
+822
+00:52:32,650 --> 00:52:34,027
+We'll just meet you there, okay?
+
+823
+00:52:34,084 --> 00:52:36,496
+Okay, I'll see you
+in a little bit.
+
+824
+00:52:45,529 --> 00:52:47,406
+What is faithfulness?
+
+825
+00:52:48,165 --> 00:52:50,406
+The world has one definition.
+
+826
+00:52:50,901 --> 00:52:52,505
+God has another.
+
+827
+00:52:53,470 --> 00:52:57,282
+This can be a problem when
+it comes to marital fidelity.
+
+828
+00:52:57,341 --> 00:53:01,221
+We try to rationalize
+what faithfulness is.
+
+829
+00:53:01,278 --> 00:53:03,485
+Jesus made
+a powerful statement.
+
+830
+00:53:03,547 --> 00:53:06,323
+He said if you look on
+a woman with lust in your heart,
+
+831
+00:53:06,383 --> 00:53:08,329
+you've already
+committed adultery.
+
+832
+00:53:08,385 --> 00:53:11,059
+You see, we try to rationalize
+with thoughts like,
+
+833
+00:53:11,122 --> 00:53:13,500
+"Well, it's okay.
+Everybody's doing it,"
+
+834
+00:53:13,557 --> 00:53:16,629
+and, "It's okay as long
+as you don't get caught."
+
+835
+00:53:16,693 --> 00:53:20,197
+When we innocently facilitate
+arrangements, for instance,
+
+836
+00:53:20,264 --> 00:53:23,370
+to be with people
+of the opposite sex
+
+837
+00:53:23,434 --> 00:53:24,970
+who are not our spouse
+
+838
+00:53:25,035 --> 00:53:28,881
+and we put it under the guise of
+a business meeting, that's sin.
+
+839
+00:53:28,939 --> 00:53:31,579
+We're headed
+in the wrong direction.
+
+840
+00:53:31,642 --> 00:53:34,486
+When we rationalize our thoughts
+about another person,
+
+841
+00:53:34,545 --> 00:53:36,388
+we're diluting ourselves.
+
+842
+00:53:36,447 --> 00:53:40,224
+If we find ourselves fantasizing
+or manipulating events,
+
+843
+00:53:40,284 --> 00:53:43,458
+it's time to make
+a very fast U-turn.
+
+844
+00:53:43,520 --> 00:53:47,969
+See, that same mind
+that leads us down the road of sin
+
+845
+00:53:48,025 --> 00:53:50,801
+can lead us back to God
+and our spouse.
+
+846
+00:53:50,861 --> 00:53:53,501
+We need to daydream
+about our spouse.
+
+847
+00:53:53,564 --> 00:53:56,170
+We need to remember
+our wedding vows.
+
+848
+00:53:56,233 --> 00:53:57,439
+We need to ask ourselves,
+
+849
+00:53:57,501 --> 00:53:59,981
+is there something
+that we can do today, this week,
+
+850
+00:54:00,037 --> 00:54:03,575
+right now to remind our spouse
+of the intimate relationship
+
+851
+00:54:03,641 --> 00:54:05,746
+that we were called
+to have together?
+
+852
+00:54:05,809 --> 00:54:07,345
+We need to daydream about
+
+853
+00:54:07,411 --> 00:54:11,052
+what attracted us to our spouse
+in the first place.
+
+854
+00:54:11,148 --> 00:54:15,028
+See, God tells us specifically
+about how to think.
+
+855
+00:54:15,085 --> 00:54:18,931
+He says, "Finally, brothers,
+whatever is true,
+
+856
+00:54:18,989 --> 00:54:22,198
+whatever is noble,
+whatever is right,
+
+857
+00:54:22,259 --> 00:54:25,604
+whatever is pure
+and lovely and admirable,
+
+858
+00:54:25,696 --> 00:54:29,007
+if there's anything
+excellent or praiseworthy,
+
+859
+00:54:29,066 --> 00:54:31,774
+think about such things."
+
+860
+00:55:03,967 --> 00:55:05,605
+What are they doing here?
+
+861
+00:55:06,403 --> 00:55:08,679
+The bank has a lot at stake.
+
+862
+00:55:08,739 --> 00:55:10,685
+I hope you know
+what you're doing.
+
+863
+00:55:10,741 --> 00:55:12,220
+Me too.
+
+864
+00:55:16,146 --> 00:55:17,352
+Well...
+
+865
+00:55:18,349 --> 00:55:21,330
+I'd like to thank you
+all for being here.
+
+866
+00:55:22,019 --> 00:55:25,990
+Today marks a threshold
+in information technology.
+
+867
+00:55:26,623 --> 00:55:32,539
+No longer will companies,
+governments, individuals
+
+868
+00:55:32,596 --> 00:55:36,840
+need to fear for the safety
+and the protection of their data.
+
+869
+00:55:37,401 --> 00:55:43,511
+Now, in exactly 10 seconds
+Project Jericho will go live.
+
+870
+00:55:43,574 --> 00:55:46,487
+After we demonstrate
+its effectiveness,
+
+871
+00:55:46,543 --> 00:55:48,181
+it will be for sale.
+
+872
+00:56:11,435 --> 00:56:12,573
+What?
+
+873
+00:56:16,440 --> 00:56:20,149
+Okay, we obviously
+have a minor glitch.
+
+874
+00:56:21,545 --> 00:56:24,389
+Do something right away.
+Thank you.
+
+875
+00:56:33,924 --> 00:56:35,198
+Hey...
+
+876
+00:56:38,462 --> 00:56:39,873
+Obviously,
+
+877
+00:56:41,064 --> 00:56:42,543
+there is a mistake.
+
+878
+00:56:47,805 --> 00:56:49,079
+Julia.
+
+879
+00:57:29,513 --> 00:57:30,958
+Julia!
+
+880
+00:57:31,748 --> 00:57:33,056
+Don't leave.
+
+881
+00:57:34,117 --> 00:57:35,596
+Julia, please!
+
+882
+00:57:36,754 --> 00:57:37,960
+Julia!
+
+883
+00:57:38,555 --> 00:57:39,932
+Please, don't go!
+
+884
+00:57:39,990 --> 00:57:41,196
+Julia!
+
+885
+00:57:41,692 --> 00:57:43,399
+Julia!
+
+886
+00:57:43,460 --> 00:57:44,404
+Julia, please.
+
+887
+00:57:44,461 --> 00:57:45,963
+Please, I can explain everything.
+
+888
+00:57:46,029 --> 00:57:47,508
+No, Paul, there's no time.
+
+889
+00:57:49,666 --> 00:57:51,236
+You're just like
+all the other men.
+
+890
+00:57:51,301 --> 00:57:53,645
+No, I'm not.
+I'm not. I'm not!
+
+891
+00:57:53,937 --> 00:57:55,416
+- Time's up!
+- Julia, please don't go!
+
+892
+00:57:55,472 --> 00:57:56,746
+Julia.
+
+893
+00:57:56,807 --> 00:57:58,753
+Julia, please don't go.
+
+894
+00:57:59,143 --> 00:58:02,989
+Julia, please don't go.
+
+895
+00:58:03,080 --> 00:58:03,990
+Julia.
+
+896
+00:58:04,047 --> 00:58:06,459
+Paul, Paul.
+
+897
+00:58:06,516 --> 00:58:08,894
+Paul, wake up!
+
+898
+00:58:11,922 --> 00:58:13,094
+What?
+
+899
+00:58:13,156 --> 00:58:14,897
+Who is Julia?
+
+900
+00:58:15,659 --> 00:58:16,637
+What?
+
+901
+00:58:16,693 --> 00:58:19,674
+You were calling
+her name in your sleep.
+
+902
+00:58:19,730 --> 00:58:21,732
+- Is that the woman from Brazil
+- No!
+
+903
+00:58:21,799 --> 00:58:22,932
+That you've been spending
+
+904
+00:58:22,933 --> 00:58:23,911
+-so much time with?
+- No!
+
+905
+00:58:24,168 --> 00:58:28,810
+Yes, her name is Julia,
+but nothing is going on.
+
+906
+00:58:28,872 --> 00:58:30,681
+Why were you
+at David's hotel?
+
+907
+00:58:30,741 --> 00:58:33,950
+- Beth, please don't overreact.
+- And why do you have all those
+
+908
+00:58:34,011 --> 00:58:36,389
+-pictures of her on your cell phone?
+- Will you please let me explain?
+
+909
+00:58:36,446 --> 00:58:40,258
+No, Paul! I've been asking you
+to explain for weeks now!
+
+910
+00:58:40,584 --> 00:58:41,995
+I never touched the woman.
+
+911
+00:58:42,052 --> 00:58:44,225
+It doesn't make that much
+of a difference, Paul!
+
+912
+00:58:44,287 --> 00:58:46,028
+Don't you see that?
+
+913
+00:58:48,392 --> 00:58:50,565
+You need to get
+your priorities straight.
+
+914
+00:58:50,627 --> 00:58:54,268
+You need to figure out what's going
+on between you and this woman.
+
+915
+00:58:54,331 --> 00:58:56,811
+You need to figure out
+what you want, Paul!
+
+916
+00:58:58,068 --> 00:58:59,775
+What do you want?
+
+917
+00:59:01,538 --> 00:59:02,539
+Julia, just not...
+
+918
+00:59:02,606 --> 00:59:03,880
+Julia?
+
+919
+00:59:03,940 --> 00:59:06,511
+Seriously? Julia?
+
+920
+00:59:08,278 --> 00:59:09,916
+Let me do something.
+
+921
+00:59:10,013 --> 00:59:11,583
+You wanna do something?
+
+922
+00:59:11,648 --> 00:59:13,992
+Go talk to somebody,
+and in the meantime
+
+923
+00:59:14,051 --> 00:59:17,396
+you're gonna stay at a hotel
+until you can figure this thing out!
+
+924
+00:59:17,454 --> 00:59:20,901
+You're either in this marriage,
+Paul, or you're not!
+
+925
+00:59:59,563 --> 01:00:02,840
+I think I'm just
+overthinking this.
+
+926
+01:00:02,899 --> 01:00:07,405
+I mean, he said nothing happened
+between the two of them,
+
+927
+01:00:07,538 --> 01:00:11,680
+and the strangest thing is
+that I actually believe him.
+
+928
+01:00:11,842 --> 01:00:14,516
+Beth, please,
+don't kid yourself.
+
+929
+01:00:14,911 --> 01:00:18,358
+From what you've told me
+this sounds like...
+
+930
+01:00:21,084 --> 01:00:23,325
+It sounds like infidelity.
+
+931
+01:00:24,354 --> 01:00:27,801
+The experts might have
+a fancy word for it now,
+
+932
+01:00:27,858 --> 01:00:32,398
+but where I come from, they call it
+unfaithfulness of the heart.
+
+933
+01:00:33,230 --> 01:00:36,507
+But men are
+gonna be men, right?
+
+934
+01:00:36,967 --> 01:00:38,344
+I just...
+
+935
+01:00:38,869 --> 01:00:41,873
+I feel like I'm making
+too big of a deal of this.
+
+936
+01:00:41,938 --> 01:00:46,409
+It's probably
+just harmless flirtation.
+
+937
+01:00:46,476 --> 01:00:49,514
+You know, that's what's
+wrong with our generation now.
+
+938
+01:00:49,913 --> 01:00:51,358
+One of the biggest things
+
+939
+01:00:51,415 --> 01:00:56,330
+in the way of marital fidelity
+these days is rationalization.
+
+940
+01:00:57,354 --> 01:00:58,992
+I mean, there's
+more to honesty
+
+941
+01:00:59,055 --> 01:01:02,559
+than, "It's okay as long
+as you don't get caught,"
+
+942
+01:01:02,626 --> 01:01:06,073
+or, "It's not that bad.
+Everybody's doing it."
+
+943
+01:01:07,797 --> 01:01:11,540
+Listen, Satan loses
+a major battle
+
+944
+01:01:11,602 --> 01:01:15,914
+when we stop asking what's
+wrong with certain choices
+
+945
+01:01:15,972 --> 01:01:20,284
+but instead we start asking
+what's right with them.
+
+946
+01:01:25,949 --> 01:01:27,519
+What do I do?
+
+947
+01:01:32,222 --> 01:01:33,895
+Trust the Lord.
+
+948
+01:01:34,391 --> 01:01:35,995
+He is faithful.
+
+949
+01:01:41,765 --> 01:01:44,575
+Excuse me, could you ring up
+Ms. Santos' room, please?
+
+950
+01:01:44,634 --> 01:01:46,045
+Certainly, sir.
+
+951
+01:01:46,103 --> 01:01:47,480
+Oh, I'm sorry, sir.
+
+952
+01:01:47,537 --> 01:01:50,814
+It appears Ms. Santos
+has checked out of the hotel.
+
+953
+01:01:51,641 --> 01:01:52,915
+No, that's not possible.
+
+954
+01:01:52,976 --> 01:01:55,513
+She would have told me
+she was leaving.
+
+955
+01:01:58,115 --> 01:02:00,095
+Maybe she checked in
+to another hotel?
+
+956
+01:02:00,150 --> 01:02:01,959
+Did she take
+her luggage with her?
+
+957
+01:02:02,018 --> 01:02:04,089
+I'm afraid I can't reveal
+that kind of personal...
+
+958
+01:02:04,154 --> 01:02:06,156
+Did she take
+her luggage with her?
+
+959
+01:02:07,758 --> 01:02:08,998
+I'm sorry.
+
+960
+01:02:09,526 --> 01:02:10,732
+Please.
+
+961
+01:02:12,762 --> 01:02:15,333
+I'm afraid I can't reveal
+that kind of personal information.
+
+962
+01:02:15,399 --> 01:02:16,878
+Come on, please.
+
+963
+01:02:25,442 --> 01:02:26,443
+Oh, look.
+
+964
+01:02:26,510 --> 01:02:28,922
+It appears the hotel shuttle
+brought her to the airport
+
+965
+01:02:28,979 --> 01:02:30,151
+early this morning.
+
+966
+01:02:31,781 --> 01:02:32,987
+Thank you.
+
+967
+01:02:33,517 --> 01:02:35,519
+- Julia?
+- The bank is here, Paul!
+
+968
+01:02:35,585 --> 01:02:37,189
+I've been trying
+to get a hold of you.
+
+969
+01:02:37,253 --> 01:02:40,462
+They've got a court order saying
+we need to vacate the premises.
+
+970
+01:02:40,524 --> 01:02:41,559
+Where are you?
+
+971
+01:02:41,625 --> 01:02:43,627
+Okay, Brenda, I will take care
+of everything.
+
+972
+01:02:43,693 --> 01:02:45,400
+Just put Ryan on the phone.
+
+973
+01:02:45,462 --> 01:02:47,169
+I don't know where Ryan is.
+
+974
+01:02:47,230 --> 01:02:50,541
+People are jumping ship, Paul,
+and James is in his office right now
+
+975
+01:02:50,600 --> 01:02:53,604
+-with the FBI or SOC!
+-Look, I will fix this!
+
+976
+01:02:55,605 --> 01:02:56,709
+Ryan...
+Just one second.
+
+977
+01:02:56,773 --> 01:02:58,719
+Ryan...
+You'd better stop it!
+
+978
+01:03:00,577 --> 01:03:03,820
+Now earlier another CEO,
+Frank Devlin, from SYS-Tek,
+
+979
+01:03:03,914 --> 01:03:05,291
+which, of course, is a giant
+
+980
+01:03:05,348 --> 01:03:07,692
+in the field
+of information security,
+
+981
+01:03:07,751 --> 01:03:09,628
+he suddenly unleashed
+a whole barrage of...
+
+982
+01:03:09,686 --> 01:03:11,757
+Guys, hush!
+I can't hear!
+
+983
+01:03:11,822 --> 01:03:14,428
+Cooper, you and your sister,
+go outside and play!
+
+984
+01:03:14,491 --> 01:03:16,225
+We've got a couple of clips
+of that we wanna show you,
+
+985
+01:03:16,226 --> 01:03:18,467
+and then we'll talk about it
+when we come back. Watch this.
+
+986
+01:03:19,730 --> 01:03:21,971
+- Hello?
+- Beth, is that you? It's Matt.
+
+987
+01:03:22,032 --> 01:03:22,942
+Matt!
+
+988
+01:03:22,999 --> 01:03:25,377
+I really need to speak to your
+husband. Do you know where he is?
+
+989
+01:03:25,435 --> 01:03:26,971
+Is Paul in trouble?
+
+990
+01:03:28,839 --> 01:03:30,113
+It's not over yet.
+
+991
+01:03:30,173 --> 01:03:32,016
+One thing Paul knew
+how to do is lock it down.
+
+992
+01:03:32,075 --> 01:03:34,248
+I don't understand.
+What's going on?
+
+993
+01:03:34,311 --> 01:03:35,483
+Just find Paul.
+
+994
+01:03:35,578 --> 01:03:38,024
+Tell him I found JOS620.
+
+995
+01:03:40,984 --> 01:03:43,794
+- Paul?
+- David, hey, thanks for coming.
+
+996
+01:03:43,854 --> 01:03:46,130
+- I really appreciate it.
+- Yeah, man. You alright?
+
+997
+01:03:46,189 --> 01:03:48,692
+No, I'm good.
+Everything's good.
+
+998
+01:03:48,759 --> 01:03:53,572
+I just, I was thinking
+about Liz, you know and...
+
+999
+01:03:57,834 --> 01:03:59,438
+her thing.
+
+1000
+01:03:59,502 --> 01:04:01,106
+Her affair?
+
+1001
+01:04:01,438 --> 01:04:03,884
+Yeah, I mean,
+that's just silly.
+
+1002
+01:04:03,940 --> 01:04:05,715
+Why is it an affair?
+
+1003
+01:04:08,478 --> 01:04:09,980
+What have you done?
+
+1004
+01:04:10,747 --> 01:04:12,351
+I haven't done anything.
+
+1005
+01:04:12,415 --> 01:04:13,951
+Well, who is she?
+
+1006
+01:04:17,620 --> 01:04:19,099
+She works for...
+
+1007
+01:04:22,125 --> 01:04:25,868
+She represents a company
+I've been doing business with,
+
+1008
+01:04:26,096 --> 01:04:29,475
+and I need them.
+
+1009
+01:04:29,533 --> 01:04:31,843
+I could lose everything.
+
+1010
+01:04:34,237 --> 01:04:35,580
+I need her.
+
+1011
+01:04:40,644 --> 01:04:42,021
+Her?
+
+1012
+01:04:46,850 --> 01:04:48,124
+Does Beth know?
+
+1013
+01:04:48,184 --> 01:04:51,222
+Look, l wasn't looking
+for anything, okay?
+
+1014
+01:04:51,288 --> 01:04:54,269
+I didn't mean for
+any of this to happen.
+
+1015
+01:04:54,324 --> 01:04:57,134
+I have a happy marriage.
+
+1016
+01:04:57,193 --> 01:05:00,299
+You know what happens
+when you play with fire?
+
+1017
+01:05:00,830 --> 01:05:05,301
+There's a reason why Jesus said,
+"if you even look at a woman..."
+
+1018
+01:05:06,870 --> 01:05:08,747
+Nobody takes
+that seriously.
+
+1019
+01:05:11,941 --> 01:05:14,353
+You think Jesus just
+liked to hear himself talk?
+
+1020
+01:05:14,411 --> 01:05:16,652
+Think it's meant
+to just be good advice?
+
+1021
+01:05:16,746 --> 01:05:18,453
+It's a warning, Paul.
+
+1022
+01:05:18,515 --> 01:05:22,554
+You really wanna
+leave Beth like me?
+
+1023
+01:05:23,420 --> 01:05:24,922
+It's complicated.
+
+1024
+01:05:25,288 --> 01:05:26,790
+Not really.
+
+1025
+01:05:28,391 --> 01:05:30,200
+You're either in
+or you're out.
+
+1026
+01:05:31,194 --> 01:05:32,867
+Yeah, that's what she said.
+
+1027
+01:05:33,763 --> 01:05:37,768
+I haven't done
+anything wrong.
+
+1028
+01:05:38,501 --> 01:05:40,071
+I know what I'm doing.
+
+1029
+01:05:41,771 --> 01:05:43,216
+Do you?
+
+1030
+01:05:45,675 --> 01:05:46,813
+Yeah.
+
+1031
+01:05:49,613 --> 01:05:50,887
+Do you?
+
+1032
+01:05:58,188 --> 01:06:00,498
+You think I'm insane,
+don't you?
+
+1033
+01:06:00,557 --> 01:06:01,900
+Not at all.
+
+1034
+01:06:01,958 --> 01:06:05,633
+I mean, your situation is
+more common than you might think,
+
+1035
+01:06:05,695 --> 01:06:09,165
+but you haven't told me
+why you come to Brazil.
+
+1036
+01:06:10,600 --> 01:06:14,673
+I gotta get to the BVCA
+before Julia gives her report.
+
+1037
+01:06:14,738 --> 01:06:17,150
+I gotta convince them
+I'm a safe bet.
+
+1038
+01:06:18,675 --> 01:06:21,986
+Shouldn't you be at home taking
+care of your wife and kids?
+
+1039
+01:06:22,045 --> 01:06:24,355
+If I can straighten this
+out in Brazil,
+
+1040
+01:06:24,447 --> 01:06:26,222
+the rest will
+take care of itself.
+
+1041
+01:06:26,282 --> 01:06:28,159
+I see.
+
+1042
+01:06:29,185 --> 01:06:30,664
+I'll tell you what,
+my friend,
+
+1043
+01:06:30,720 --> 01:06:32,722
+you should come
+to the church tonight
+
+1044
+01:06:32,789 --> 01:06:34,735
+when we land
+at Rio de Janeiro.
+
+1045
+01:06:34,791 --> 01:06:36,737
+Do you have
+something that I...
+
+1046
+01:06:36,793 --> 01:06:38,704
+Like a card,
+like a business card,
+
+1047
+01:06:38,762 --> 01:06:43,040
+something that I can
+write down the address?
+
+1048
+01:06:43,667 --> 01:06:45,669
+Can you just
+write on the back of that?
+
+1049
+01:06:48,705 --> 01:06:50,013
+Sure.
+
+1050
+01:06:50,540 --> 01:06:52,520
+You're gonna love it.
+I mean,
+
+1051
+01:06:52,575 --> 01:06:56,022
+the music is great,
+and the company's even better.
+
+1052
+01:07:01,651 --> 01:07:03,824
+- Maybe.
+- Come on, man, please.
+
+1053
+01:07:03,887 --> 01:07:04,922
+Allow me to introduce you
+
+1054
+01:07:04,988 --> 01:07:07,969
+to some of the Brazilian
+Christian hospitality.
+
+1055
+01:07:09,859 --> 01:07:11,270
+We'll see.
+
+1056
+01:07:37,921 --> 01:07:40,231
+Where are you going, mister?
+
+1057
+01:07:41,791 --> 01:07:43,896
+I'm sorry, English.
+
+1058
+01:07:43,960 --> 01:07:45,962
+- G Gringo?
+- Yes.
+
+1059
+01:07:46,029 --> 01:07:47,770
+Where you going, sir?
+
+1060
+01:07:53,970 --> 01:07:56,473
+Sir, where you going?
+
+1061
+01:08:01,611 --> 01:08:02,885
+Sorry.
+
+1062
+01:08:05,415 --> 01:08:06,655
+Okay.
+
+1063
+01:08:14,524 --> 01:08:19,303
+Oh, Lord, I just give you
+this whole situation.
+
+1064
+01:08:19,629 --> 01:08:21,609
+I give you my husband.
+
+1065
+01:08:21,664 --> 01:08:23,666
+I give you my marriage.
+
+1066
+01:08:23,733 --> 01:08:25,679
+Father, do a miracle.
+
+1067
+01:08:25,735 --> 01:08:28,875
+Strengthen me
+to walk by faith.
+
+1068
+01:08:28,938 --> 01:08:31,145
+Give Paul wisdom.
+
+1069
+01:08:31,207 --> 01:08:34,381
+Help him to go
+the right way, Father.
+
+1070
+01:08:41,117 --> 01:08:43,791
+I trust that you'll
+do this, Father.
+
+1071
+01:08:43,853 --> 01:08:45,799
+I know you will.
+
+1072
+01:08:49,392 --> 01:08:53,135
+Make our marriage stronger
+than it's ever been before.
+
+1073
+01:08:54,397 --> 01:08:56,070
+I thank you, Father.
+
+1074
+01:08:56,733 --> 01:08:59,043
+In Jesus' name I pray.
+
+1075
+01:08:59,903 --> 01:09:01,177
+Amen.
+
+1076
+01:09:08,778 --> 01:09:11,782
+There is no wrong.
+
+1077
+01:09:16,419 --> 01:09:18,592
+You're either in it,
+or you're not.
+
+1078
+01:09:22,492 --> 01:09:24,870
+I have yet to meet
+a man like you.
+
+1079
+01:09:28,998 --> 01:09:32,707
+Sometimes God tests us,
+but the choice is ours.
+
+1080
+01:09:33,203 --> 01:09:36,309
+Will we choose to obey him?
+
+1081
+01:09:55,491 --> 01:09:57,027
+I'm sorry.
+
+1082
+01:10:08,705 --> 01:10:10,446
+Here we are, sir.
+
+1083
+01:10:12,141 --> 01:10:13,415
+Okay...
+
+1084
+01:10:15,378 --> 01:10:17,221
+- American money okay?
+- Yes.
+
+1085
+01:10:18,848 --> 01:10:20,259
+Thank you.
+
+1086
+01:10:23,052 --> 01:10:24,929
+- Have a good night.
+- Good luck.
+
+1087
+01:12:55,405 --> 01:12:57,078
+Please forgive me.
+
+1088
+01:12:59,142 --> 01:13:00,985
+I choose you, Lord.
+
+1089
+01:13:03,212 --> 01:13:04,953
+I choose you.
+
+1090
+01:13:06,482 --> 01:13:09,929
+Please give me the strength
+to be the man
+
+1091
+01:13:11,854 --> 01:13:13,800
+you want me to be.
+
+1092
+01:13:42,352 --> 01:13:43,524
+Beth,
+
+1093
+01:13:44,887 --> 01:13:46,230
+it's me.
+
+1094
+01:13:49,025 --> 01:13:50,663
+Are you okay?
+
+1095
+01:13:54,097 --> 01:13:57,044
+Yeah, I'm fine.
+
+1096
+01:13:58,901 --> 01:14:01,677
+In fact, I've never been
+better in my whole life.
+
+1097
+01:14:05,141 --> 01:14:06,586
+I love you, Beth.
+
+1098
+01:14:12,448 --> 01:14:14,257
+I love you, too.
+
+1099
+01:14:19,021 --> 01:14:20,398
+I'll see you soon?
+
+1100
+01:14:22,625 --> 01:14:24,366
+Okay.
+
+1101
+01:14:34,037 --> 01:14:37,849
+I wanna thank you
+for seeing me.
+
+1102
+01:14:38,741 --> 01:14:44,521
+I originally
+came here to explain,
+
+1103
+01:14:46,282 --> 01:14:49,957
+to ask for another chance,
+to beg for another chance,
+
+1104
+01:14:52,155 --> 01:14:56,865
+but I think what I really
+must do here is just apologize.
+
+1105
+01:14:57,794 --> 01:15:00,832
+I promised full
+transparency,
+
+1106
+01:15:00,897 --> 01:15:04,174
+and yet I concealed
+damaging information.
+
+1107
+01:15:05,001 --> 01:15:09,472
+I lied about the progress
+of our flagship product,
+
+1108
+01:15:10,439 --> 01:15:16,390
+and I allowed myself to become
+distracted by Ms. Santos,
+
+1109
+01:15:18,047 --> 01:15:22,393
+to the point where I ignored my
+responsibilities to my company,
+
+1110
+01:15:23,286 --> 01:15:26,859
+to my wife, and my family.
+
+1111
+01:15:28,424 --> 01:15:33,897
+Are you saying Julia Santos
+acted inappropriately?
+
+1112
+01:15:33,963 --> 01:15:37,843
+No, no, not at all.
+The problem...
+
+1113
+01:15:40,069 --> 01:15:41,844
+The problem was all mine,
+
+1114
+01:15:43,706 --> 01:15:45,413
+and I apologize,
+
+1115
+01:15:46,375 --> 01:15:48,446
+and I ask
+for your forgiveness.
+
+1116
+01:15:50,880 --> 01:15:52,223
+Thank you for your time.
+
+1117
+01:15:58,521 --> 01:15:59,727
+Paul.
+
+1118
+01:16:01,524 --> 01:16:02,798
+Julia.
+
+1119
+01:16:04,393 --> 01:16:05,963
+I heard what you did,
+
+1120
+01:16:06,028 --> 01:16:09,009
+and I would like to thank you
+for your honesty.
+
+1121
+01:16:12,201 --> 01:16:15,671
+I would like to offer you
+my personal services
+
+1122
+01:16:15,738 --> 01:16:18,810
+as a tour guide
+if you'd like.
+
+1123
+01:16:20,677 --> 01:16:22,623
+Thank you, Julia, but...
+
+1124
+01:16:25,014 --> 01:16:27,392
+I need to get home
+to my family.
+
+1125
+01:16:28,251 --> 01:16:30,458
+Hope you can understand that.
+
+1126
+01:16:35,558 --> 01:16:37,663
+She's a lucky woman, Paul.
+
+1127
+01:16:41,964 --> 01:16:43,409
+No.
+
+1128
+01:16:44,167 --> 01:16:45,908
+I'm the lucky one.
+
+1129
+01:16:48,805 --> 01:16:51,615
+I wanna see a different me
+
+1130
+01:16:53,276 --> 01:16:57,088
+I wanna change my dream
+
+1131
+01:16:57,680 --> 01:17:02,459
+I wanna feel again
+
+1132
+01:17:02,518 --> 01:17:05,362
+Like it's supposed to be
+
+1133
+01:17:06,856 --> 01:17:09,894
+I wanna change my mind
+
+1134
+01:17:11,461 --> 01:17:14,840
+I wanna fix my heart
+
+1135
+01:17:16,399 --> 01:17:19,243
+Open up my window
+
+1136
+01:17:20,903 --> 01:17:24,282
+Just to scare off the dark
+
+1137
+01:17:26,008 --> 01:17:29,854
+Who
+
+1138
+01:17:30,579 --> 01:17:34,186
+Who
+
+1139
+01:17:34,984 --> 01:17:38,830
+Who
+
+1140
+01:17:40,156 --> 01:17:42,466
+Who cares?
+
+1141
+01:17:43,759 --> 01:17:46,171
+When the romance is gone
+
+1142
+01:17:48,030 --> 01:17:51,068
+Removed it from my song
+
+1143
+01:17:52,902 --> 01:17:56,247
+Touch my lips with a kiss
+
+1144
+01:17:57,239 --> 01:18:02,313
+The Great Wall of China
+is 2500 miles long,
+
+1145
+01:18:03,479 --> 01:18:06,221
+too tall to climb,
+too thick to knock down,
+
+1146
+01:18:06,282 --> 01:18:08,785
+too long to go around,
+
+1147
+01:18:08,851 --> 01:18:12,594
+and yet China
+was invaded 3 times,
+
+1148
+01:18:12,655 --> 01:18:16,467
+3 times in the first 100 years
+of the Wall's existence.
+
+1149
+01:18:16,525 --> 01:18:18,266
+H ow?
+
+1150
+01:18:18,661 --> 01:18:22,302
+Their enemies bribed a guard,
+
+1151
+01:18:22,365 --> 01:18:25,505
+and they simply walked on
+through an open gate.
+
+1152
+01:18:26,936 --> 01:18:30,383
+They spent so much effort
+in the building of the Wall
+
+1153
+01:18:30,439 --> 01:18:33,784
+but not enough in the building
+of the character
+
+1154
+01:18:34,243 --> 01:18:35,881
+of the gatekeeper.
+
+1155
+01:18:38,147 --> 01:18:39,990
+I'm the gatekeeper,
+
+1156
+01:18:41,784 --> 01:18:44,526
+and my lack of character
+in recent weeks
+
+1157
+01:18:46,355 --> 01:18:48,266
+allowed an enemy in.
+
+1158
+01:18:54,296 --> 01:18:55,900
+I would like you to meet
+
+1159
+01:18:57,333 --> 01:18:59,335
+JOS620.
+
+1160
+01:18:59,401 --> 01:19:01,381
+Alex?
+
+1161
+01:19:02,338 --> 01:19:04,909
+Well, actually, it's not JOS.
+
+1162
+01:19:04,974 --> 01:19:09,116
+It's Joshua, as in Joshua,
+chapter 6, verse 20.
+
+1163
+01:19:09,178 --> 01:19:11,180
+He hacked Jericho.
+
+1164
+01:19:11,247 --> 01:19:13,193
+Yeah, I used a horn...
+
+1165
+01:19:13,249 --> 01:19:15,627
+Actually, it was
+supposed to be a clue.
+
+1166
+01:19:15,685 --> 01:19:17,596
+I left a bunch of clues.
+
+1167
+01:19:17,653 --> 01:19:20,327
+In the Bible,
+Joshua invaded Jericho
+
+1168
+01:19:20,389 --> 01:19:23,131
+when the surrounding
+walls of the city collapsed,
+
+1169
+01:19:23,192 --> 01:19:24,899
+but before that he had help.
+
+1170
+01:19:24,961 --> 01:19:26,599
+He had someone on the inside.
+
+1171
+01:19:26,662 --> 01:19:28,141
+- Rahab.
+- Yeah.
+
+1172
+01:19:28,197 --> 01:19:29,972
+Why are you
+telling us this, Alex?
+
+1173
+01:19:30,032 --> 01:19:31,477
+Paul, can we get on with it?
+
+1174
+01:19:31,534 --> 01:19:33,605
+This kid is disrupting
+our meeting.
+
+1175
+01:19:33,669 --> 01:19:36,172
+I'd like to hear what
+he has to say, please.
+
+1176
+01:19:36,238 --> 01:19:37,876
+Go on, Alex.
+
+1177
+01:19:38,974 --> 01:19:41,352
+Well, at first the guy said
+
+1178
+01:19:41,577 --> 01:19:44,217
+that you always invite hackers
+to test the system
+
+1179
+01:19:44,280 --> 01:19:45,850
+and I'd be
+helping you guys out,
+
+1180
+01:19:45,915 --> 01:19:48,896
+but after a while I figured
+something was wrong.
+
+1181
+01:19:48,951 --> 01:19:52,091
+Okay, so, are you telling me
+that someone in my own company
+
+1182
+01:19:53,289 --> 01:19:55,428
+hacked our own system?
+
+1183
+01:19:56,325 --> 01:19:57,804
+Who?
+
+1184
+01:19:57,860 --> 01:19:59,567
+I don't know.
+We never met.
+
+1185
+01:19:59,628 --> 01:20:01,767
+I only talked to him
+over the phone.
+
+1186
+01:20:01,831 --> 01:20:03,936
+Paul, honestly,
+this is ridiculous.
+
+1187
+01:20:04,000 --> 01:20:06,105
+We are wasting
+these people's time.
+
+1188
+01:20:06,168 --> 01:20:07,579
+Go on.
+
+1189
+01:20:34,597 --> 01:20:37,203
+What does this prove?
+It proves nothing!
+
+1190
+01:20:37,266 --> 01:20:39,075
+My ringer was left on?
+
+1191
+01:20:43,372 --> 01:20:44,851
+Get off me!
+
+1192
+01:20:45,408 --> 01:20:46,785
+Let go!
+
+1193
+01:20:51,480 --> 01:20:52,959
+I should've seen it.
+
+1194
+01:20:53,549 --> 01:20:58,157
+I should've done my job,
+but I was distracted.
+
+1195
+01:20:58,988 --> 01:21:00,831
+For that I'm sorry.
+
+1196
+01:21:02,858 --> 01:21:06,135
+Sometimes the greatest
+enemy to combat
+
+1197
+01:21:07,596 --> 01:21:08,973
+is the one within.
+
+1198
+01:21:09,598 --> 01:21:11,100
+No fortress,
+
+1199
+01:21:11,867 --> 01:21:13,540
+no lock, no wall
+
+1200
+01:21:16,372 --> 01:21:18,477
+can keep you from yourself.
+
+1201
+01:21:21,544 --> 01:21:24,650
+I'm sorry to all of you.
+
+1202
+01:21:24,747 --> 01:21:26,283
+Again, I apologize.
+
+1203
+01:21:26,348 --> 01:21:31,058
+I will do better
+in the future.
+
+1204
+01:21:31,120 --> 01:21:34,158
+Alex, thank you.
+I appreciate you being here.
+
+1205
+01:21:52,108 --> 01:21:53,587
+Why'd he do it?
+
+1206
+01:21:53,642 --> 01:21:55,918
+He was working with SYS-Tek.
+
+1207
+01:21:56,045 --> 01:21:57,820
+They paid him a lot of money
+to convince us
+
+1208
+01:21:57,880 --> 01:22:00,690
+that Jericho didn't work,
+so we'd abandon it.
+
+1209
+01:22:00,749 --> 01:22:03,662
+After that, he was probably
+gonna sell it to them.
+
+1210
+01:22:04,420 --> 01:22:06,024
+Matt, you wanna tell him?
+
+1211
+01:22:06,088 --> 01:22:08,830
+Well, my friend,
+I don't know what you did,
+
+1212
+01:22:08,891 --> 01:22:11,462
+but you made quite
+an impression over in Brazil.
+
+1213
+01:22:11,527 --> 01:22:12,767
+What are you talking about?
+
+1214
+01:22:12,828 --> 01:22:15,069
+The BVCA wants to
+give us another shot.
+
+1215
+01:22:15,131 --> 01:22:16,166
+No way.
+
+1216
+01:22:16,232 --> 01:22:18,473
+- Yeah, and our wonder boy, Alex...
+- Yeah?
+
+1217
+01:22:18,534 --> 01:22:21,344
+Apparently, he's figuring out
+the missing element to our system.
+
+1218
+01:22:21,403 --> 01:22:24,179
+You've gotta be kidding me.
+Oh, this is gonna be amazing.
+
+1219
+01:22:47,463 --> 01:22:49,067
+Yes.
+
+1220
+01:22:49,498 --> 01:22:52,604
+Operator, I'd like to
+place an overseas call, please,
+
+1221
+01:22:53,102 --> 01:22:54,672
+to Rio de Janeiro.
+
+1222
+01:22:56,405 --> 01:22:57,611
+That's right.
+
+1223
+01:22:59,575 --> 01:23:00,849
+Brazil.
+
+1224
+01:23:04,613 --> 01:23:07,992
+We gather here today
+to celebrate the love
+
+1225
+01:23:08,050 --> 01:23:10,860
+that Paul and Beth
+share together
+
+1226
+01:23:10,919 --> 01:23:13,661
+as they renew their vows
+before God.
+
+1227
+01:23:13,722 --> 01:23:16,032
+I'm sorry, can you hang on?
+
+1228
+01:23:16,091 --> 01:23:17,934
+Marcos, come here.
+
+1229
+01:23:18,527 --> 01:23:20,006
+Come here.
+
+1230
+01:23:20,896 --> 01:23:23,308
+Come here! Hurry up.
+
+1231
+01:23:25,000 --> 01:23:27,241
+- I couldn't miss it.
+- Thank you so much for being here.
+
+1232
+01:23:27,303 --> 01:23:29,442
+Hey everybody,
+this is Pastor Marcos,
+
+1233
+01:23:29,505 --> 01:23:30,643
+a very good friend of mine.
+
+1234
+01:23:30,706 --> 01:23:33,346
+He came all the way from Brazil
+to be here with us today.
+
+1235
+01:23:33,409 --> 01:23:35,389
+It means so much to me.
+
+1236
+01:23:35,477 --> 01:23:37,457
+I'll explain it to you later.
+
+1237
+01:23:37,513 --> 01:23:39,515
+Thank you for being here.
+I appreciate it.
+
+1238
+01:23:39,682 --> 01:23:40,786
+Alright.
+
+1239
+01:23:41,851 --> 01:23:45,424
+When two people renew
+their vows before the Lord,
+
+1240
+01:23:45,488 --> 01:23:48,059
+it's a holy
+and a profound moment.
+
+1241
+01:23:48,123 --> 01:23:51,400
+It's profound because of the
+day and age in which we live.
+
+1242
+01:23:51,460 --> 01:23:54,304
+Certain things
+don't happen often.
+
+1243
+01:23:54,363 --> 01:23:57,640
+These two people right now have
+declared before Mighty God
+
+1244
+01:23:57,699 --> 01:23:59,474
+that, first of all,
+they made it.
+
+1245
+01:23:59,535 --> 01:24:01,276
+They defied the odds.
+
+1246
+01:24:01,336 --> 01:24:03,816
+Twenty years is a milestone.
+
+1247
+01:24:03,872 --> 01:24:06,318
+My prayer
+for each one of you
+
+1248
+01:24:06,375 --> 01:24:09,584
+is that your love would
+continue to grow and blossom,
+
+1249
+01:24:09,678 --> 01:24:11,680
+that you'll rely
+on God's strength
+
+1250
+01:24:11,780 --> 01:24:13,726
+and the support
+of family and friends
+
+1251
+01:24:13,782 --> 01:24:17,787
+and your commitment that you
+make towards one another today.
+
+1252
+01:24:18,654 --> 01:24:21,635
+Pastor Marcos, would you
+like to say a few words?
+
+1253
+01:24:24,226 --> 01:24:27,730
+I understand you two
+have written your own vows
+
+1254
+01:24:27,796 --> 01:24:32,108
+and provided copies
+to all those here to read along.
+
+1255
+01:24:32,167 --> 01:24:33,646
+Thank you.
+
+1256
+01:24:37,773 --> 01:24:40,982
+Sweetheart, 20 years ago
+
+1257
+01:24:41,944 --> 01:24:44,356
+I was asked to say, "I do",
+
+1258
+01:24:45,948 --> 01:24:47,359
+and I did.
+
+1259
+01:24:48,083 --> 01:24:50,324
+At our wedding ceremony,
+l chose
+
+1260
+01:24:52,254 --> 01:24:56,100
+you to be my wife.
+
+1261
+01:24:57,426 --> 01:25:01,431
+I promised to live with you
+according to God's holy Word.
+
+1262
+01:25:01,897 --> 01:25:05,606
+I swore to stand by you
+for better or worse,
+
+1263
+01:25:06,068 --> 01:25:07,604
+in sickness and health,
+
+1264
+01:25:09,004 --> 01:25:11,507
+to renounce all others,
+
+1265
+01:25:12,307 --> 01:25:14,548
+and give myself to only you
+
+1266
+01:25:15,410 --> 01:25:17,515
+for all the days
+of our lives,
+
+1267
+01:25:18,447 --> 01:25:20,154
+and I did that.
+
+1268
+01:25:23,252 --> 01:25:24,697
+Today,
+
+1269
+01:25:26,521 --> 01:25:30,492
+again, I choose you
+to be my wife,
+
+1270
+01:25:31,727 --> 01:25:33,798
+and I stand here today
+
+1271
+01:25:35,664 --> 01:25:37,109
+with you
+
+1272
+01:25:38,434 --> 01:25:40,038
+for better or worse,
+
+1273
+01:25:42,104 --> 01:25:45,415
+in sickness and health,
+
+1274
+01:25:46,075 --> 01:25:47,952
+and today and every day
+
+1275
+01:25:51,346 --> 01:25:53,519
+I renounce all others.
+
+1276
+01:25:54,750 --> 01:25:58,129
+I'll give myself to you
+and only you,
+
+1277
+01:25:58,987 --> 01:26:03,163
+and every day
+that we share by God's grace
+
+1278
+01:26:05,193 --> 01:26:10,040
+I will always promise
+to always love,
+
+1279
+01:26:10,098 --> 01:26:15,013
+to always honor,
+to always comfort and keep you.
+
+1280
+01:26:39,995 --> 01:26:41,633
+David, I'm sorry.
+
+1281
+01:26:48,670 --> 01:26:50,081
+Please forgive me.
+
+1282
+01:27:04,186 --> 01:27:05,859
+I love you, David.
+
+1283
+01:27:08,157 --> 01:27:10,000
+I love you, too, Liz.
+
+1284
+01:27:15,531 --> 01:27:17,169
+I love you, too.
+
+1285
+01:27:19,601 --> 01:27:21,103
+So...
+
+1286
+01:27:26,808 --> 01:27:28,116
+Beth Tyson,
+
+1287
+01:27:30,512 --> 01:27:32,219
+I love you so much.
+
+1288
+01:27:36,919 --> 01:27:39,195
+Will you again
+
+1289
+01:27:43,458 --> 01:27:46,530
+be my wife and say, "I do"?
+
+1290
+01:27:50,098 --> 01:27:51,338
+I did,
+
+1291
+01:27:54,603 --> 01:27:55,673
+I do,
+
+1292
+01:27:58,340 --> 01:28:00,149
+and I always will.
+
+1293
+01:28:03,478 --> 01:28:05,458
+We now pronounce you...
+
+1294
+01:28:05,514 --> 01:28:07,425
+Hold it.
+Re-pronounce.
+
+1295
+01:28:07,483 --> 01:28:11,056
+Re-pronounce you
+Mr. and Mrs. Tyson.
+
+1296
+01:28:11,253 --> 01:28:14,427
+I tried to find my worth
+
+1297
+01:28:14,757 --> 01:28:17,795
+In things that didn't work
+
+1298
+01:28:18,827 --> 01:28:22,969
+My confidence was broken
+
+1299
+01:28:23,031 --> 01:28:25,170
+I was hopeless
+
+1300
+01:28:25,234 --> 01:28:30,206
+But God,
+you have made me new
+
+1301
+01:28:30,272 --> 01:28:35,187
+You've restored my heart
+
+1302
+01:28:35,277 --> 01:28:40,022
+And turned
+these ashes into life
+
+1303
+01:28:42,384 --> 01:28:47,959
+Oh God, you have
+pulled me through
+
+1304
+01:28:48,023 --> 01:28:52,665
+And everything I was is gone
+
+1305
+01:28:52,728 --> 01:28:55,675
+It washed away for good
+
+1306
+01:28:57,833 --> 01:29:01,747
+I'm a new man in you
+
+1307
+01:29:05,640 --> 01:29:09,713
+I'm trying
+to walk as a new man
+
+1308
+01:29:09,811 --> 01:29:16,057
+I want you to show me
+who I am in you
+
+1309
+01:29:16,118 --> 01:29:21,625
+When I forget that I'm yours
+
+1310
+01:29:23,225 --> 01:29:25,603
+Now I've found my worth
+
+1311
+01:29:25,661 --> 01:29:31,236
+It is set in stone
+and in stone for good
+
+1312
+01:29:31,299 --> 01:29:36,840
+'Cause God,
+you have pulled me through
+
+1313
+01:29:36,905 --> 01:29:40,717
+And everything
+I was is gone
+
+1314
+01:29:40,776 --> 01:29:44,519
+It washed away for good
+
+1315
+01:29:45,213 --> 01:29:49,855
+I'm a new man in you
+
+1316
+01:30:04,566 --> 01:30:11,245
+Oh God, you have made me new
+
+1317
+01:30:11,673 --> 01:30:14,654
+You've restored my heart
+
+1318
+01:30:14,710 --> 01:30:19,090
+And turned
+these ashes into life
+
+1319
+01:30:21,783 --> 01:30:27,392
+Oh God, you have
+pulled me through
+
+1320
+01:30:27,456 --> 01:30:32,030
+And everything I was is gone
+
+1321
+01:30:32,093 --> 01:30:36,599
+It washed away for good
+
+1322
+01:30:37,499 --> 01:30:41,242
+And everything I was is gone
+
+1323
+01:30:41,303 --> 01:30:45,046
+It washed away for good
+
+1324
+01:30:45,774 --> 01:30:51,622
+I'm a new man in you

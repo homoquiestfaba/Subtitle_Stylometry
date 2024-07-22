@@ -1,0 +1,3168 @@
+1
+00:01:13,648 --> 00:01:15,081
+Any progress, Eric?
+
+2
+00:01:15,353 --> 00:01:18,155
+Sorry, Professor Kaufman. There's still
+something wrong with the program.
+
+3
+00:01:18,322 --> 00:01:23,485
+We can't do any more experiments
+with the laser until you boys fix it.
+
+4
+00:01:23,848 --> 00:01:25,281
+We know. We know.
+
+5
+00:01:25,473 --> 00:01:27,654
+Hey, wait! I've found something.
+
+6
+00:01:28,425 --> 00:01:31,283
+- What?
+- Who turned on the laser?
+
+7
+00:01:31,848 --> 00:01:33,440
+Not me!
+
+8
+00:01:34,408 --> 00:01:38,401
+- Shut it down!
+- I can't! It's not responding!
+
+9
+00:01:51,156 --> 00:01:55,583
+- What is that?
+- I was hoping you'd know, professor.
+
+10
+00:02:10,324 --> 00:02:14,408
+- He's absorbing all our computer data.
+- Call security!
+
+11
+00:02:33,765 --> 00:02:37,634
+- Like, are we there yet, Fred?
+- I told you, Shaggy, soon.
+
+12
+00:02:37,888 --> 00:02:40,561
+But you said that an hour ago, man.
+
+13
+00:02:41,528 --> 00:02:44,675
+It's so impressive that Eric got
+a grant for his computer project.
+
+14
+00:02:44,888 --> 00:02:49,359
+Doesn't surprise me. Back in high school, he
+practically lived in the computer lab. Right, Velma?
+
+15
+00:02:49,648 --> 00:02:53,960
+- Yeah. He's one smart cookie.
+- Cookie? Cookie?!
+
+16
+00:02:54,168 --> 00:02:57,604
+Sorry, Scooby. Figure of speech.
+
+17
+00:02:58,008 --> 00:03:02,399
+Cheer up, Scoob. When we get there,
+we'll get to play the game Eric designed.
+
+18
+00:03:02,608 --> 00:03:06,567
+- I bet it's way cooler than this one.
+- Yeah, cooler!
+
+19
+00:03:06,808 --> 00:03:09,242
+Imagine a computer game starring all of us!
+
+20
+00:03:09,448 --> 00:03:11,962
+Solving mysteries in cyberspace.
+
+21
+00:03:18,382 --> 00:03:22,553
+Like, I hope I do better
+on Eric's game than this one.
+
+22
+00:03:50,208 --> 00:03:52,278
+Where do you think you're going?
+
+23
+00:03:52,488 --> 00:03:55,480
+To visit our friend Eric Staufer.
+He's a student here.
+
+24
+00:03:55,672 --> 00:03:58,936
+Not if you're not on my list.
+
+25
+00:03:59,323 --> 00:04:02,456
+It should be under "Fred Jones".
+
+26
+00:04:02,968 --> 00:04:04,926
+- Is this whole group with you?
+- Yes, sir.
+
+27
+00:04:05,128 --> 00:04:09,246
+- Including the dog?
+- Dog? Where?
+
+28
+00:04:12,648 --> 00:04:15,401
+There you are.
+But just so you know...
+
+29
+00:04:15,478 --> 00:04:19,527
+...I don't like a bunch of punks
+running around my university.
+
+30
+00:04:19,688 --> 00:04:22,885
+- Your university?
+- It might as well be.
+
+31
+00:04:23,088 --> 00:04:27,878
+I've been here for 20 years. There's
+never been any trouble on my watch.
+
+32
+00:04:28,088 --> 00:04:32,047
+I'm the head of security.
+Wembley's the name.
+
+33
+00:04:35,808 --> 00:04:39,562
+- Twenty years is an impressive record.
+- You bet it is.
+
+34
+00:04:39,808 --> 00:04:42,527
+I want to make sure that it stays...
+
+35
+00:04:45,888 --> 00:04:48,243
+A wise guy, eh?
+
+36
+00:04:48,637 --> 00:04:51,883
+I'm keeping a special eye
+on you, pooch!
+
+37
+00:04:52,048 --> 00:04:53,197
+Pooch?
+
+38
+00:04:53,683 --> 00:04:57,832
+- Like, Scooby's just playing, officer.
+- Yeah, sorry.
+
+39
+00:04:58,199 --> 00:05:01,242
+We just need some help
+finding the computer lab.
+
+40
+00:05:02,335 --> 00:05:05,038
+The lab is three buildings
+down on the left.
+
+41
+00:05:05,528 --> 00:05:09,726
+- Thanks.
+- And keep your dog off the grass.
+
+42
+00:05:17,208 --> 00:05:21,121
+Wow, Eric, this lab
+is one groovy setup.
+
+43
+00:05:22,648 --> 00:05:24,445
+We like it too.
+
+44
+00:05:29,774 --> 00:05:31,274
+You don't want to eat those.
+
+45
+00:05:31,648 --> 00:05:33,557
+Because they're grown in radioactive soil.
+
+46
+00:05:33,768 --> 00:05:35,520
+Zoinks!
+
+47
+00:05:39,543 --> 00:05:41,868
+- Everyone, this is my lab partner, Bill McLemore.
+- Nice to meet you.
+
+48
+00:05:42,088 --> 00:05:45,285
+Thanks for keeping Shaggy and Scooby
+from glowing in the dark.
+
+49
+00:05:45,488 --> 00:05:49,766
+- We'll go to dinner after the tour.
+- But first, can you show us your new video game?
+
+50
+00:05:50,008 --> 00:05:52,203
+Scoob and I have been dying to play it.
+
+51
+00:05:52,408 --> 00:05:57,118
+No one is playing the game
+until we get rid of our problem.
+
+52
+00:05:57,528 --> 00:06:00,838
+Professor Kaufman, I'd like you to meet the
+mystery gang I based my game on.
+
+53
+00:06:01,088 --> 00:06:03,326
+- Oh, hi!
+- Nice to meet you.
+
+54
+00:06:03,608 --> 00:06:05,997
+The famous Mystery, Inc.
+
+55
+00:06:06,208 --> 00:06:08,483
+And that's Scooby-Doo.
+
+56
+00:06:17,008 --> 00:06:21,001
+It looks like you showed up
+just in time for a mystery.
+
+57
+00:06:22,635 --> 00:06:24,326
+- A mystery?
+- Why? What happened?
+
+58
+00:06:24,568 --> 00:06:26,479
+This is a hyper-energy laser.
+
+59
+00:06:26,682 --> 00:06:30,436
+We've been using it to break down actual objects
+and project them into cyberspace.
+
+60
+00:06:30,608 --> 00:06:35,807
+Jinkies! You mean you can transport objects
+from the real world into the computer world?
+
+61
+00:06:36,008 --> 00:06:40,160
+- Precisely, young lady.
+- That's fantastic!
+
+62
+00:06:40,736 --> 00:06:44,436
+It was, until the laser beamed
+a monster into our world last night.
+
+63
+00:06:45,748 --> 00:06:47,884
+A monster?!
+
+64
+00:06:50,107 --> 00:06:54,024
+Yes, the laser beamed a computer virus
+right here into this lab.
+
+65
+00:06:54,208 --> 00:06:56,164
+A really freaky-looking thing.
+
+66
+00:06:56,368 --> 00:06:59,838
+He erased all the computers' data
+by just walking near them.
+
+67
+00:07:00,858 --> 00:07:05,744
+This virus is also able to control
+and manipulate electrical objects.
+
+68
+00:07:06,327 --> 00:07:09,125
+- But where did it come from?
+- Eric's computer game.
+
+69
+00:07:09,408 --> 00:07:13,526
+Computer viruses don't just appear.
+They have to be created by someone.
+
+70
+00:07:13,808 --> 00:07:17,847
+- But I didn't create it!
+- I'm sure it wasn't Mr. Staufer.
+
+71
+00:07:18,048 --> 00:07:22,007
+But whoever created this virus
+is in serious trouble.
+
+72
+00:07:22,208 --> 00:07:26,167
+Our civilization is
+so dependent on technology...
+
+73
+00:07:26,368 --> 00:07:29,678
+...that this virus is a threat
+to the entire world.
+
+74
+00:07:30,852 --> 00:07:32,774
+Can you show us how the laser works?
+
+75
+00:07:32,968 --> 00:07:36,165
+You can show the demo,
+but don't start the game!
+
+76
+00:07:36,367 --> 00:07:37,952
+Yes, sir.
+
+77
+00:07:48,745 --> 00:07:52,486
+Like, check it out! We're digital!
+
+78
+00:07:52,688 --> 00:07:54,156
+Yeah! Digital!
+
+79
+00:07:54,608 --> 00:07:58,283
+We used the game to extrapolate
+3- D data into quantum particles.
+
+80
+00:08:02,808 --> 00:08:05,959
+- Of course, it's so simple!
+- It is?
+
+81
+00:08:06,208 --> 00:08:11,407
+He used the Scooby game as the location in
+cyberspace to store physical objects.
+
+82
+00:08:11,787 --> 00:08:15,426
+- And you're sure the virus came from the game?
+- Unfortunately, yes.
+
+83
+00:08:15,648 --> 00:08:19,800
+There's no virus in my baseball game,
+and it's more entertaining.
+
+84
+00:08:24,128 --> 00:08:25,766
+<i>Batter up!</i>
+
+85
+00:08:26,528 --> 00:08:28,598
+<i>Strike one!</i>
+
+86
+00:08:28,808 --> 00:08:32,721
+- Now, this is a game you can get into.
+- That's really cool, Bill.
+
+87
+00:08:32,928 --> 00:08:36,364
+- I'm a huge baseball fan myself.
+- You have good taste, Fred.
+
+88
+00:08:36,568 --> 00:08:40,243
+- I think it's the greatest sport in the world.
+- Baseball's okay...
+
+89
+00:08:40,475 --> 00:08:43,526
+- ... but it doesn't have Scooby and me in it.
+- That's right!
+
+90
+00:08:43,728 --> 00:08:47,880
+The Scooby game has 10 levels.
+You battle monsters or villains...
+
+91
+00:08:48,128 --> 00:08:51,404
+...while trying to find
+Scooby Snacks on each level.
+
+92
+00:08:51,728 --> 00:08:54,288
+Oh, boy! Scooby Snacks!
+
+93
+00:08:56,736 --> 00:08:58,675
+Okay, Professor.
+
+94
+00:09:10,968 --> 00:09:13,357
+Now, check out the monitor.
+
+95
+00:09:16,888 --> 00:09:17,718
+- Cool!
+- Jinkies!
+
+96
+00:09:17,928 --> 00:09:21,045
+I wouldn't believe it
+if I didn't see it with my own eyes!
+
+97
+00:09:21,335 --> 00:09:24,576
+Like, I don't believe it either.
+
+98
+00:09:25,928 --> 00:09:28,557
+We didn't even get one Scooby Snack.
+
+99
+00:09:31,263 --> 00:09:34,038
+Eric and Bill are sure to win
+the $250,000 grand prize...
+
+100
+00:09:34,288 --> 00:09:37,837
+- ... at the international science fair.
+- Wow, that's some prize.
+
+101
+00:09:38,088 --> 00:09:42,400
+It'll be a reward for their talent
+and hard work on the laser project.
+
+102
+00:09:42,608 --> 00:09:46,726
+We couldn't have done it without you, prof.
+Kaufman. You should share the reward too.
+
+103
+00:09:46,928 --> 00:09:50,284
+No, no. As a teacher,
+being able to guide young minds...
+
+104
+00:09:50,488 --> 00:09:54,037
+...to their full potential
+is reward enough, Eric.
+
+105
+00:09:54,248 --> 00:09:58,764
+Speaking of rewards, is it possible to get
+the Scooby Snacks out of the game?
+
+106
+00:10:12,448 --> 00:10:15,246
+- Groovy!
+- Oh, boy!
+
+107
+00:10:15,728 --> 00:10:17,525
+- Hey, that's mine!
+- No, mine!
+
+108
+00:10:17,728 --> 00:10:19,241
+Mine!
+
+109
+00:10:19,425 --> 00:10:22,363
+Is that the way the virus
+came out of the game, Eric?
+
+110
+00:10:22,488 --> 00:10:24,399
+Yeah. It was pretty scary.
+
+111
+00:10:24,608 --> 00:10:28,567
+If it's just a computer virus,
+what harm can it do in our world?
+
+112
+00:10:28,768 --> 00:10:32,283
+From what we observed the last night,
+this virus has the potential...
+
+113
+00:10:32,488 --> 00:10:35,560
+...to steal every
+computer program in the world.
+
+114
+00:10:35,643 --> 00:10:39,727
+And the virus made the telephone
+come to life, which attacked Eric.
+
+115
+00:10:43,208 --> 00:10:46,803
+<i>It kept coming toward us
+and we couldn’t't stop it. </i>
+
+116
+00:10:52,768 --> 00:10:56,443
+<i>When I held up a magnetic bar
+in defense... </i>
+
+117
+00:10:57,587 --> 00:11:01,321
+<i>... it seemed to have
+an adverse effect on the virus. </i>
+
+118
+00:11:02,683 --> 00:11:06,474
+<i>Yeah. It seemed like the magnet weakened
+him. Like kryptonite to Superman. </i>
+
+119
+00:11:12,568 --> 00:11:14,047
+- Wow!
+- Creepy!
+
+120
+00:11:14,161 --> 00:11:18,035
+The security guards checked the campus,
+but couldn't find him anywhere.
+
+121
+00:11:18,164 --> 00:11:23,568
+I suspect that he is still
+in this building somewhere.
+
+122
+00:11:24,153 --> 00:11:25,816
+Still here?
+
+123
+00:11:25,968 --> 00:11:28,607
+No more arguing, boys.
+
+124
+00:11:29,368 --> 00:11:32,201
+So what can we do to help, Eric?
+
+125
+00:11:32,448 --> 00:11:35,565
+If you can lure the Phantom Virus
+into the lab...
+
+126
+00:11:35,631 --> 00:11:38,915
+...I can use the laser to beam him
+back into cyberspace.
+
+127
+00:11:39,056 --> 00:11:42,643
+Great. Like, you want us
+to be virus bait?
+
+128
+00:11:42,808 --> 00:11:46,743
+- Like, no way, man.
+- Uh-uh.
+
+129
+00:11:46,888 --> 00:11:50,164
+Would you do it for a Scooby Snack?
+
+130
+00:11:50,847 --> 00:11:55,631
+Hold on, Scoob. Only one Scooby Snack
+to go chase a phantom?
+
+131
+00:11:55,808 --> 00:11:57,639
+I don't think so.
+
+132
+00:11:57,848 --> 00:12:01,045
+What if I gave you each
+two Scooby Snacks?
+
+133
+00:12:05,648 --> 00:12:07,240
+Okay, you got a deal.
+
+134
+00:12:07,888 --> 00:12:09,879
+Go long, guys!
+
+135
+00:12:15,648 --> 00:12:19,960
+This place is so big, we'll probably
+never see this virus anyway.
+
+136
+00:12:22,328 --> 00:12:25,764
+How do we capture the Phantom Virus
+once we find him?
+
+137
+00:12:25,968 --> 00:12:29,881
+The Phantom Virus is composed
+of electromagnetic energy.
+
+138
+00:12:30,088 --> 00:12:34,366
+Get close enough to him
+with one of these super-magnets...
+
+139
+00:12:34,538 --> 00:12:37,567
+...and it will render him helpless.
+
+140
+00:12:47,152 --> 00:12:50,738
+Be careful, Scooby.
+Those are pretty strong magnets.
+
+141
+00:12:51,528 --> 00:12:52,722
+Sorry!
+
+142
+00:12:52,928 --> 00:12:57,718
+- Now let's really put them to the test.
+- I knew I could count on you guys.
+
+143
+00:13:02,408 --> 00:13:06,003
+This building is so big!
+This Phantom Virus could be anywhere.
+
+144
+00:13:06,248 --> 00:13:09,604
+I think we stand a better chance
+of finding it if we split up.
+
+145
+00:13:12,648 --> 00:13:15,367
+Hey, you guys, I didn't say how
+we were gonna split up.
+
+146
+00:13:15,608 --> 00:13:18,839
+Like, do we ever do it any other way?
+
+147
+00:13:25,553 --> 00:13:28,105
+Do we really have to look in the basement?
+
+148
+00:13:28,248 --> 00:13:32,287
+We have to search the whole building,
+top to bottom.
+
+149
+00:13:34,248 --> 00:13:36,887
+This stuff looks like it should be
+in the Smithsonian.
+
+150
+00:13:37,088 --> 00:13:39,556
+Why do they bother keeping this old junk?
+
+151
+00:13:39,768 --> 00:13:44,683
+Oh, I don't know. Some of this
+old junk could be very valuable.
+
+152
+00:13:47,648 --> 00:13:49,604
+Jinkies! It's him!
+
+153
+00:13:52,164 --> 00:13:55,680
+- Uh-oh!
+- Watch out!
+
+154
+00:14:06,848 --> 00:14:08,247
+The magnets!
+
+155
+00:14:10,968 --> 00:14:14,961
+Get back, you... creepy... thingy!
+
+156
+00:14:16,745 --> 00:14:18,417
+"Creepy thingy"?
+
+157
+00:14:20,008 --> 00:14:21,964
+You'll pay for this!
+
+158
+00:14:22,288 --> 00:14:23,960
+We don't think so.
+
+159
+00:14:24,208 --> 00:14:25,721
+Thingy!
+
+160
+00:14:33,048 --> 00:14:34,686
+After him!
+
+161
+00:14:46,008 --> 00:14:49,398
+- I wonder why they left?
+- I don't know.
+
+162
+00:14:49,768 --> 00:14:53,602
+Man, it's bad enough we're
+always chasing real ghosts.
+
+163
+00:14:53,816 --> 00:14:57,275
+Now we're chasing
+computer-generated ones.
+
+164
+00:14:59,745 --> 00:15:02,662
+It's a good thing phantoms
+don't care about lunch.
+
+165
+00:15:12,688 --> 00:15:14,963
+Santa Claus!
+
+166
+00:15:21,088 --> 00:15:22,646
+I think we lost him.
+
+167
+00:15:22,848 --> 00:15:24,600
+Wait! Look!
+
+168
+00:15:25,968 --> 00:15:27,037
+What do we do?
+
+169
+00:15:27,248 --> 00:15:30,445
+Get as close to him as possible
+with our magnets.
+
+170
+00:15:33,088 --> 00:15:37,081
+Ready? One, two, three!
+
+171
+00:15:39,528 --> 00:15:42,998
+I thought I heard
+some noise down here.
+
+172
+00:15:43,208 --> 00:15:46,120
+What are you kids doing?
+The basement's for staff only.
+
+173
+00:15:46,328 --> 00:15:48,523
+We're hunting for the Phantom Virus.
+
+174
+00:15:48,728 --> 00:15:51,959
+Yeah, I heard about
+this so-called virus.
+
+175
+00:15:52,168 --> 00:15:54,682
+I think it's some kind of a college prank.
+
+176
+00:15:54,825 --> 00:15:56,883
+No, Officer Wembley. You see, we...
+
+177
+00:15:57,048 --> 00:16:00,358
+You kids are coming with me back
+to Kaufman's lab.
+
+178
+00:16:04,168 --> 00:16:07,638
+Can you believe the cafeteria
+ran out of food?
+
+179
+00:16:07,848 --> 00:16:11,636
+- And we're still hungry.
+- Yeah. Hungry!
+
+180
+00:16:18,733 --> 00:16:22,005
+I think I saw a vending machine
+down the hall.
+
+181
+00:16:22,168 --> 00:16:24,762
+What is it, Scoob?
+Oh, hello, Mr. Phantom.
+
+182
+00:16:24,844 --> 00:16:26,382
+Zoinks!
+
+183
+00:16:40,168 --> 00:16:43,365
+Thank you for volunteering
+for our experiment, Mr. Virus.
+
+184
+00:16:43,648 --> 00:16:48,853
+- Nurse, take the patient over to the table.
+- Okay. This way, please.
+
+185
+00:16:50,048 --> 00:16:51,242
+Sit down.
+
+186
+00:16:54,008 --> 00:16:55,760
+Just relax.
+
+187
+00:16:58,688 --> 00:17:02,966
+Now, can you tell us how many layers
+are in an ideal club sandwich?
+
+188
+00:17:04,408 --> 00:17:08,037
+Time's up. The correct answer is,
+"Never enough! "
+
+189
+00:17:11,367 --> 00:17:13,235
+Let's try one more.
+
+190
+00:17:13,488 --> 00:17:17,367
+When's the best time to enjoy
+a milkshake with your french fries?
+
+191
+00:17:17,928 --> 00:17:21,284
+Time's up. The answer is, "Anytime! "
+
+192
+00:17:26,608 --> 00:17:28,246
+Yikes!
+
+193
+00:18:33,137 --> 00:18:36,853
+I'm worried about Shaggy and Scooby.
+They've been gone for a long time.
+
+194
+00:18:37,225 --> 00:18:39,568
+Maybe we should go look for them.
+
+195
+00:18:39,774 --> 00:18:43,542
+Nobody goes anywhere
+until Professor Kaufman gets back.
+
+196
+00:18:49,888 --> 00:18:52,197
+- What was that?
+- It's the Phantom!
+
+197
+00:19:32,488 --> 00:19:37,243
+Jinkies! It looks like we've been
+beamed into Eric's computer game.
+
+198
+00:19:39,526 --> 00:19:40,725
+- What?
+- The laser's been fired.
+
+199
+00:19:40,888 --> 00:19:43,038
+At that Phantom Virus, I hope.
+
+200
+00:19:46,128 --> 00:19:48,881
+I don't think so. Look here.
+
+201
+00:19:49,088 --> 00:19:52,717
+Your friends have been transported
+into cyberspace!
+
+202
+00:19:53,635 --> 00:19:56,672
+So? Throw a switch or something
+and get them out.
+
+203
+00:19:56,768 --> 00:20:00,363
+But thing doesn't work that way. They have to
+play through all the levels to get out.
+
+204
+00:20:00,568 --> 00:20:03,104
+- You're kidding me.
+- I wish he was.
+
+205
+00:20:03,688 --> 00:20:05,846
+Until they can get out
+by winning every level of the game...
+
+206
+00:20:06,048 --> 00:20:10,438
+- ... the danger is very real.
+- Danger?
+
+207
+00:20:11,577 --> 00:20:14,256
+Check this out. I'm, like, a superhero!
+
+208
+00:20:14,373 --> 00:20:18,440
+Be careful, Shaggy.
+There's less gravity on the moon.
+
+209
+00:20:19,528 --> 00:20:22,165
+Look! It's Super-Shaggy!
+
+210
+00:20:25,358 --> 00:20:28,112
+Scooby, could you get Shaggy back here
+before he hurts himself?
+
+211
+00:20:30,328 --> 00:20:32,444
+Scooby-Dooby-Doo!
+
+212
+00:20:35,368 --> 00:20:39,964
+Nice try, Scoob!
+Like, catch me if you can.
+
+213
+00:20:44,953 --> 00:20:49,225
+- Shaggy, are you all right?
+- I think so.
+
+214
+00:20:49,442 --> 00:20:51,526
+- But I made an important discovery.
+- What's that?
+
+215
+00:20:51,608 --> 00:20:54,566
+In this video game, you can get hurt.
+
+216
+00:20:54,642 --> 00:20:58,421
+Or worse. We'd better be careful.
+
+217
+00:20:58,768 --> 00:21:03,717
+Velma's right. Eric said this game
+has creatures and who knows what else.
+
+218
+00:21:04,088 --> 00:21:06,477
+Zoinks! I know who!
+
+219
+00:21:06,846 --> 00:21:10,481
+- Oh, no!
+- He must've gotten beamed into the game too.
+
+220
+00:21:15,768 --> 00:21:17,407
+Yikes! Help!
+
+221
+00:21:17,726 --> 00:21:20,115
+Oh, no! He's not alone.
+
+222
+00:21:22,366 --> 00:21:24,561
+Let's play ball!
+
+223
+00:21:24,766 --> 00:21:26,836
+Like, let's not!
+
+224
+00:21:27,863 --> 00:21:31,124
+- I thought we were chasing him.
+- Back at the lab, we were.
+
+225
+00:21:31,366 --> 00:21:36,565
+- But here in the game, he's got friends.
+- They don't look very friendly to me.
+
+226
+00:21:39,006 --> 00:21:41,042
+I think we lost them.
+
+227
+00:21:41,846 --> 00:21:45,839
+You know, getting beamed into cyberspace
+might not be such a bad thing.
+
+228
+00:21:46,086 --> 00:21:48,156
+- And how's that, Velma?
+- Yeah!
+
+229
+00:21:48,364 --> 00:21:52,492
+Maybe if we play along, we can
+find out who created this virus.
+
+230
+00:21:52,646 --> 00:21:55,240
+Right! Maybe we can find some clues.
+
+231
+00:21:55,474 --> 00:21:59,521
+Remember what Eric said?
+We need to find the box of Scooby Snacks.
+
+232
+00:21:59,726 --> 00:22:02,240
+And, like, there it is!
+
+233
+00:22:05,126 --> 00:22:06,525
+Wow, that was easy.
+
+234
+00:22:06,726 --> 00:22:10,321
+It's only the first level of the game.
+It's supposed to be easy.
+
+235
+00:22:10,526 --> 00:22:12,164
+Over there!
+
+236
+00:22:13,362 --> 00:22:15,115
+Oh, no! Here they come!
+
+237
+00:22:15,286 --> 00:22:17,277
+- Look, a rover!
+- Huh?
+
+238
+00:22:17,486 --> 00:22:21,081
+- A moon rover!
+- And what a cool paint job!
+
+239
+00:22:21,653 --> 00:22:24,067
+Come on, guys!
+
+240
+00:22:26,846 --> 00:22:29,201
+This thing needs new shocks!
+
+241
+00:22:29,406 --> 00:22:33,001
+As long as it gets us away
+from those moon goons, who cares?
+
+242
+00:22:33,362 --> 00:22:34,078
+Oh, no! They've got
+a set of wheels too!
+
+243
+00:22:43,326 --> 00:22:44,839
+Zoinks!
+
+244
+00:22:45,166 --> 00:22:47,680
+Step on it, Freddy! They're gaining on us!
+
+245
+00:22:47,886 --> 00:22:51,720
+I am, but this is as fast as it goes.
+
+246
+00:22:55,686 --> 00:22:57,677
+Man, he got us!
+
+247
+00:22:58,126 --> 00:23:01,118
+It's okay, guys.
+The Scooby Snacks are right there.
+
+248
+00:23:02,846 --> 00:23:05,360
+Oh, boy! Scooby Snacks!
+
+249
+00:23:06,846 --> 00:23:08,484
+Scooby-Dooby-Doo!
+
+250
+00:23:08,966 --> 00:23:10,604
+Go, Scooby, go!
+
+251
+00:23:16,966 --> 00:23:18,319
+Yikes!
+
+252
+00:23:21,966 --> 00:23:24,321
+Stop that dog!
+
+253
+00:23:27,086 --> 00:23:29,361
+Come on, Scoob! You can do it, pal!
+
+254
+00:23:30,086 --> 00:23:31,724
+- Hi!
+- Watch out!
+
+255
+00:23:49,366 --> 00:23:51,243
+What happened to...?
+
+256
+00:24:01,726 --> 00:24:03,842
+- What?
+- Where are we now?
+
+257
+00:24:04,086 --> 00:24:09,080
+If I'm not mistaken,
+we're inside the Roman Colosseum.
+
+258
+00:24:10,206 --> 00:24:12,925
+- Colosseum?
+- Like, where they play football?
+
+259
+00:24:13,166 --> 00:24:15,600
+Not exactly. In ancient Rome...
+
+260
+00:24:15,686 --> 00:24:20,351
+...people used to gather in the Colosseum
+to watch all kinds of events.
+
+261
+00:24:20,744 --> 00:24:22,078
+You mean like sports and music?
+
+262
+00:24:22,251 --> 00:24:25,543
+Yeah, they did that too. But the Colosseum
+is famous as the place...
+
+263
+00:24:25,674 --> 00:24:28,065
+...where Romans fed people
+to the lions for lunch.
+
+264
+00:24:28,226 --> 00:24:30,796
+- Lions?
+- Well, it looks deserted now.
+
+265
+00:24:31,086 --> 00:24:36,285
+Speaking of lunch, we didn't even get to keep
+the Scooby Snacks from the moon level.
+
+266
+00:24:37,486 --> 00:24:41,877
+Don't worry, Scoob. I bet there's
+a concession stand somewhere.
+
+267
+00:24:42,486 --> 00:24:45,956
+- What's this?
+- What are these white lines for?
+
+268
+00:24:47,766 --> 00:24:48,915
+Like, it's chalk!
+
+269
+00:24:49,526 --> 00:24:52,324
+Yikes! Virus!
+
+270
+00:24:53,446 --> 00:24:58,361
+Welcome to level two, game players,
+where things get a little tougher.
+
+271
+00:24:58,566 --> 00:25:03,765
+But first, let me introduce you
+to the home team!
+
+272
+00:25:16,637 --> 00:25:20,144
+Those guys look like
+they've got a bone to pick, huh, Scoob?
+
+273
+00:25:20,855 --> 00:25:24,176
+Don't worry, gang. We can beat
+those meatless gladiators.
+
+274
+00:25:24,575 --> 00:25:27,843
+And now for the home team's mascot.
+
+275
+00:25:31,406 --> 00:25:33,556
+The lion's got the Scooby Snacks!
+
+276
+00:25:33,937 --> 00:25:37,643
+You know, for once, I'm not in the mood
+for Scooby Snacks.
+
+277
+00:25:37,766 --> 00:25:39,358
+Me neither!
+
+278
+00:25:44,875 --> 00:25:46,723
+Yikes!
+
+279
+00:25:47,543 --> 00:25:50,332
+- Good idea, Scooby!
+- Come on, Shaggy!
+
+280
+00:25:57,606 --> 00:26:02,202
+- Are you all right, Shaggy?
+- Yeah. But I'm really tangled up.
+
+281
+00:26:06,326 --> 00:26:09,363
+- A chariot.
+- Good thinking, Scoob!
+
+282
+00:26:09,566 --> 00:26:10,919
+Thank you.
+
+283
+00:26:12,486 --> 00:26:14,636
+Faster, Scoob! Faster!
+
+284
+00:26:20,766 --> 00:26:23,644
+Yikes! Like, hit the turbo, Scoob!
+
+285
+00:26:26,166 --> 00:26:30,478
+Good work, guys! You handle the gladiators,
+and we'll take care of this lion.
+
+286
+00:26:31,766 --> 00:26:34,599
+How exactly are we going to do that?
+
+287
+00:26:34,846 --> 00:26:37,997
+- Give me your jacket.
+- But I just bought this.
+
+288
+00:26:38,206 --> 00:26:41,278
+- Daphne!
+- Oh, all right.
+
+289
+00:26:41,686 --> 00:26:42,835
+Here.
+
+290
+00:26:43,766 --> 00:26:46,758
+I know this isn't red,
+but it'll have to do.
+
+291
+00:26:49,046 --> 00:26:50,718
+<i>Toro! Toro!</i>
+
+292
+00:26:50,719 --> 00:26:51,719
+Leo! Leo!
+
+293
+00:27:01,726 --> 00:27:03,205
+Olé!
+
+294
+00:27:03,486 --> 00:27:06,603
+- That was too close.
+- I have an idea.
+
+295
+00:27:14,566 --> 00:27:15,885
+Leo! Leo!
+
+296
+00:27:18,886 --> 00:27:20,239
+Now!
+
+297
+00:27:23,246 --> 00:27:25,237
+Way to go, girls!
+
+298
+00:27:26,246 --> 00:27:28,157
+- Thanks.
+- This will hold him.
+
+299
+00:27:30,286 --> 00:27:34,074
+- That was very brave, Freddy.
+- Thanks.
+
+300
+00:27:35,244 --> 00:27:37,463
+Here's your jacket.
+
+301
+00:27:38,246 --> 00:27:41,522
+Shaggy and Scooby need our help!
+Come on!
+
+302
+00:27:56,326 --> 00:27:57,805
+Zoinks!
+
+303
+00:28:04,606 --> 00:28:06,039
+Good going, guys!
+
+304
+00:28:06,532 --> 00:28:08,863
+Yeah, whatever.
+
+305
+00:28:09,485 --> 00:28:13,356
+Keep those gladiators busy just a little
+bit longer. I'll get the Scooby Snacks.
+
+306
+00:28:13,562 --> 00:28:16,541
+- That's easy for you to say, man.
+- Yeah!
+
+307
+00:28:16,726 --> 00:28:21,516
+- Try to lead them up into the stands.
+- I don't think we have the energy.
+
+308
+00:28:21,726 --> 00:28:24,081
+But, maybe we do!
+
+309
+00:28:27,046 --> 00:28:29,799
+- Here.
+- What are we supposed to do with these?
+
+310
+00:28:30,262 --> 00:28:34,754
+- Use them to pole-vault over the wall.
+- Like, and then what?
+
+311
+00:28:35,011 --> 00:28:36,885
+Never mind.
+
+312
+00:28:49,806 --> 00:28:52,843
+Friends, Romans and spooky gladiators.
+
+313
+00:28:53,046 --> 00:28:56,004
+All hail Emperor Scooby!
+
+314
+00:29:33,886 --> 00:29:35,842
+So where are we now?
+
+315
+00:29:36,326 --> 00:29:40,319
+- Looks like a jungle of some kind.
+- It's gorgeous here.
+
+316
+00:29:40,526 --> 00:29:44,565
+I'll say. This place beats
+ancient Rome any day, eh, Scoob?
+
+317
+00:29:55,485 --> 00:29:57,485
+Oh, no! This is a prehistoric jungle!
+
+318
+00:29:57,486 --> 00:30:02,435
+I take back what I said.
+Rome is lovely this time of year.
+
+319
+00:30:03,166 --> 00:30:04,884
+Look over there!
+
+320
+00:30:14,366 --> 00:30:16,279
+What's that?!
+
+321
+00:30:17,206 --> 00:30:20,004
+How's this for a heavy hitter?
+
+322
+00:30:20,286 --> 00:30:23,039
+Jinkies! He's riding a T. rex!
+
+323
+00:30:27,846 --> 00:30:31,759
+Let's head for the trees.
+It's too thick for them to follow.
+
+324
+00:30:48,366 --> 00:30:51,756
+- That was a close one.
+- They're doing pretty good so far.
+
+325
+00:30:52,324 --> 00:30:54,275
+I'm wondering something here, fellas.
+
+326
+00:30:54,406 --> 00:30:57,684
+Who activated that laser and sent
+those poor kids into the game?
+
+327
+00:30:57,966 --> 00:31:00,639
+Who knows? Could be anyone.
+
+328
+00:31:00,846 --> 00:31:04,964
+Even someone in this very room.
+
+329
+00:31:10,006 --> 00:31:14,602
+We hiked through miles of jungle
+and still can't find the Scooby Snacks!
+
+330
+00:31:14,806 --> 00:31:18,799
+We'd better, otherwise we'll
+be stuck in this level forever.
+
+331
+00:31:19,006 --> 00:31:23,238
+All I know is that this virus likes
+to scare us in cyberspace...
+
+332
+00:31:23,486 --> 00:31:25,363
+...as much as in the real world.
+
+333
+00:31:32,506 --> 00:31:37,358
+Nice work, guys. Which one of you
+did the drawing over there?
+
+334
+00:31:41,474 --> 00:31:42,718
+- Not me.
+- Not me.
+
+335
+00:31:43,163 --> 00:31:47,246
+- It looks like a volcano.
+- I wonder if it means anything.
+
+336
+00:31:47,966 --> 00:31:50,082
+Oh, no! The fire's going out.
+
+337
+00:31:51,086 --> 00:31:52,917
+It's gonna be dark in a few hours, too.
+
+338
+00:31:53,126 --> 00:31:56,755
+Scooby and Shaggy, it's your turn
+to get the firewood.
+
+339
+00:31:58,046 --> 00:32:01,243
+- All right. Come on, Scoob.
+- Okay.
+
+340
+00:32:05,163 --> 00:32:08,426
+Like, just a few more sticks,
+and we can head back, Scoob.
+
+341
+00:32:11,632 --> 00:32:13,045
+- Smoke!
+- Smoke?
+
+342
+00:32:13,166 --> 00:32:18,035
+Zoinks! Up there!
+Like, all the trees are burning!
+
+343
+00:32:20,732 --> 00:32:23,436
+Like, where did that come from?
+
+344
+00:32:24,784 --> 00:32:26,041
+Volcano.
+
+345
+00:32:30,758 --> 00:32:35,174
+Forget the wood, Scoob.
+We've gotta warn the others.
+
+346
+00:32:40,046 --> 00:32:43,004
+What happened, guys?
+Where's the firewood?
+
+347
+00:32:43,206 --> 00:32:47,358
+Like, if we don't get out of here soon,
+we're all gonna be firewood.
+
+348
+00:32:47,642 --> 00:32:50,374
+- What are you talking about, Shaggy?
+- Volcano!
+
+349
+00:32:50,526 --> 00:32:52,278
+Volcano?
+
+350
+00:32:56,286 --> 00:32:59,084
+Great! It looks like
+it's really cooking.
+
+351
+00:33:02,643 --> 00:33:06,521
+I bet that's where
+the Scooby Snacks are.
+
+352
+00:33:06,606 --> 00:33:09,803
+That drawing is a clue
+to lead us to the Scooby Snacks!
+
+353
+00:33:10,006 --> 00:33:13,396
+But it's miles away.
+It'll take us hours to get there!
+
+354
+00:33:13,606 --> 00:33:17,076
+- Where there's a will, there's...
+- Woolly mammoths?
+
+355
+00:33:22,566 --> 00:33:26,798
+Mammoths didn't live in the same
+age as dinosaurs, but I'm not complaining!
+
+356
+00:33:27,006 --> 00:33:30,681
+I am! I wish Eric had put
+saddles on these guys.
+
+357
+00:33:30,886 --> 00:33:32,877
+I can't take much more of this.
+
+358
+00:33:33,345 --> 00:33:36,244
+I wish he'd made them
+smell better too.
+
+359
+00:33:37,086 --> 00:33:42,080
+- How are you guys doing?
+- Like, do you have an airsickness bag?
+
+360
+00:33:45,361 --> 00:33:48,783
+Well, hang on, guys.
+We're almost there.
+
+361
+00:33:59,846 --> 00:34:04,078
+- Any sign of the Scooby Snacks?
+- Like, all I can see is smoke.
+
+362
+00:34:04,286 --> 00:34:05,639
+And lava!
+
+363
+00:34:10,351 --> 00:34:13,012
+Look up there!
+
+364
+00:34:13,566 --> 00:34:17,764
+- That poor baby pterodactyl's trapped.
+- Poor little guy.
+
+365
+00:34:18,886 --> 00:34:23,721
+- The volcano's erupting again.
+- No. We've got company!
+
+366
+00:34:29,744 --> 00:34:31,553
+Start climbing!
+
+367
+00:34:35,646 --> 00:34:37,284
+Yikes!
+
+368
+00:34:53,076 --> 00:34:57,183
+I think we're safe. T. rex is built
+for running, not climbing.
+
+369
+00:35:00,846 --> 00:35:04,555
+Look! The mama pterodactyl
+is trying to save its baby.
+
+370
+00:35:07,784 --> 00:35:11,846
+- Hey! Where are you going, Scoob?
+- Be careful, Scooby!
+
+371
+00:35:17,486 --> 00:35:19,078
+Hello!
+
+372
+00:35:33,486 --> 00:35:34,601
+Scooby Snacks!
+
+373
+00:35:45,537 --> 00:35:47,778
+He found the Scooby Snacks!
+
+374
+00:38:29,806 --> 00:38:32,274
+I think we're finally home.
+
+375
+00:38:32,846 --> 00:38:36,998
+No more monsters chasing us.
+Let's celebrate with some chow.
+
+376
+00:38:39,726 --> 00:38:43,133
+It might be a little early
+for a celebration, gang.
+
+377
+00:38:43,454 --> 00:38:44,577
+Look.
+
+378
+00:38:45,846 --> 00:38:48,679
+Aw, man, we're still in the game.
+
+379
+00:38:48,886 --> 00:38:51,798
+And I thought we were home free.
+
+380
+00:38:52,566 --> 00:38:54,841
+Okay. They've made it to the last level.
+
+381
+00:38:55,086 --> 00:38:59,204
+But this one's the toughest of all.
+No player's ever won it. Not even me.
+
+382
+00:38:59,846 --> 00:39:02,360
+It'll take everything they've got
+just to survive.
+
+383
+00:39:04,006 --> 00:39:04,995
+So now what?
+
+384
+00:39:05,055 --> 00:39:07,823
+All we have to do is find
+the last box of Scooby Snacks.
+
+385
+00:39:07,926 --> 00:39:11,475
+But this city is so big.
+Where do we start?
+
+386
+00:39:13,086 --> 00:39:15,725
+Let's see if that woman
+knows anything.
+
+387
+00:39:20,553 --> 00:39:24,126
+- Excuse us, ma'am, we were wondering...
+- Surprise!
+
+388
+00:39:25,573 --> 00:39:29,245
+- The virus!
+- Welcome to the final level.
+
+389
+00:39:29,447 --> 00:39:32,674
+You're in the major leagues now.
+
+390
+00:39:33,366 --> 00:39:35,561
+Run!
+
+391
+00:39:39,863 --> 00:39:43,985
+- Like, where are we going?
+- Hey, let's hide in the malt shop.
+
+392
+00:39:44,020 --> 00:39:45,122
+Great idea, Freddy!
+
+393
+00:39:50,926 --> 00:39:52,757
+Can someone help us?
+
+394
+00:39:56,406 --> 00:39:57,395
+Zoinks!
+
+395
+00:39:57,606 --> 00:40:01,155
+- You're me.
+- And, like, you're me.
+
+396
+00:40:04,347 --> 00:40:08,518
+- You're the characters in Eric's video game!
+- And you're from the real world.
+
+397
+00:40:08,606 --> 00:40:10,244
+Jinkies!
+
+398
+00:40:12,753 --> 00:40:15,034
+Did I really wear that years ago?
+
+399
+00:40:15,256 --> 00:40:18,363
+That jacket with that skirt?
+
+400
+00:40:20,806 --> 00:40:23,764
+- Nice ascot.
+- Works for me.
+
+401
+00:40:45,744 --> 00:40:50,273
+I guess it's been a while since we've seen Eric.
+He hasn't seen our fashion changes.
+
+402
+00:40:50,864 --> 00:40:54,142
+- We'll go shopping later.
+- Like, why don't you join us for a little snack?
+
+403
+00:40:54,206 --> 00:40:56,436
+Man, I thought you'd never ask!
+
+404
+00:40:22,673 --> 00:40:24,902
+Here you go, pal.
+
+405
+00:40:24,937 --> 00:40:27,132
+Thanks a lot.
+
+406
+00:41:39,774 --> 00:41:44,356
+We don't have time to play around. We need
+to find the Scooby Snacks and get out of here.
+
+407
+00:41:44,653 --> 00:41:47,356
+- You guys need to relax.
+- Yeah! What are you worried about?
+
+408
+00:41:47,446 --> 00:41:49,357
+Aren't you afraid
+of the Phantom Virus?
+
+409
+00:41:49,566 --> 00:41:51,761
+Phantom who?
+Never heard of him.
+
+410
+00:41:51,966 --> 00:41:54,924
+- You're kidding.
+- Oh, I get it.
+
+411
+00:41:55,126 --> 00:41:57,401
+The virus isn't part of this game.
+
+412
+00:41:57,606 --> 00:42:00,325
+He has no reason to look
+for our cyber doubles.
+
+413
+00:42:00,526 --> 00:42:02,676
+You cyber-guys are lucky.
+
+414
+00:42:02,886 --> 00:42:07,323
+The Phantom Virus is creepy
+and has this really scary laugh.
+
+415
+00:42:09,832 --> 00:42:11,231
+Just like that.
+
+416
+00:42:11,432 --> 00:42:13,741
+Come out and play!
+
+417
+00:42:19,552 --> 00:42:20,541
+It's him!
+
+418
+00:42:20,752 --> 00:42:22,947
+Come out, come out.
+
+419
+00:42:25,792 --> 00:42:28,864
+Let's get out of here.
+The Mystery Machine's out back.
+
+420
+00:42:29,112 --> 00:42:30,591
+- I'll drive.
+- I'll drive.
+
+421
+00:42:34,712 --> 00:42:37,943
+This is nostalgic.
+I miss this old van.
+
+422
+00:42:38,467 --> 00:42:41,645
+In cyber-world,
+things never get old. It's pretty cool.
+
+423
+00:42:41,792 --> 00:42:49,445
+There's a lot to like in cyber-world.
+Stores, theaters, parks... and lots of tasty food.
+
+424
+00:42:50,512 --> 00:42:52,946
+What about the monsters and villains?
+
+425
+00:42:53,152 --> 00:42:57,111
+We haven't seen any.
+They're probably guarding the Scooby Snacks.
+
+426
+00:42:57,312 --> 00:42:59,985
+You mean you guys don't know
+where the Scooby Snacks are?
+
+427
+00:43:00,245 --> 00:43:04,623
+We know where they are. There's just
+no reason to go after them.
+
+428
+00:43:04,712 --> 00:43:09,661
+Because even if we get the Scooby Snacks,
+we just go right back to the beginning of the game.
+
+429
+00:43:09,853 --> 00:43:11,315
+And we like it here.
+
+430
+00:43:11,472 --> 00:43:15,351
+Until you guys showed up
+with that Phantom Virus, that is.
+
+431
+00:43:15,552 --> 00:43:18,703
+- We'd gladly get rid of him for you.
+- If we could.
+
+432
+00:43:18,912 --> 00:43:21,221
+You know,
+if all ten of us team up...
+
+433
+00:43:21,432 --> 00:43:24,151
+...the Phantom Virus
+wouldn't stand a chance.
+
+434
+00:43:26,832 --> 00:43:30,222
+I guess we were gonna go
+after the snacks eventually.
+
+435
+00:43:30,432 --> 00:43:32,468
+- So you'll help?
+- Count us in.
+
+436
+00:43:32,872 --> 00:43:35,181
+Well then, let's go.
+
+437
+00:43:45,952 --> 00:43:48,068
+Well, here we are.
+
+438
+00:43:57,552 --> 00:43:59,907
+Man, this place is awesome!
+
+439
+00:44:00,512 --> 00:44:02,980
+So where are the Scooby Snacks?
+
+440
+00:44:03,372 --> 00:44:07,734
+On the Scooby game, of course.
+Right inside the video arcade.
+
+441
+00:44:08,712 --> 00:44:10,270
+What's that sound?
+
+442
+00:44:11,072 --> 00:44:12,903
+There it is again.
+
+443
+00:44:13,512 --> 00:44:16,265
+- Baseball.
+- Cyber-Scooby is right.
+
+444
+00:44:16,472 --> 00:44:18,269
+There's a batting cage over there.
+
+445
+00:44:23,673 --> 00:44:26,015
+Wow, that guy is really
+clobbering the ball.
+
+446
+00:44:26,192 --> 00:44:28,387
+Hey, man. Great swing.
+
+447
+00:44:28,672 --> 00:44:31,391
+Thanks! Want my autograph?
+
+448
+00:44:33,072 --> 00:44:35,586
+Let's play ball!
+
+449
+00:44:38,912 --> 00:44:41,745
+Everybody make a run
+for the video arcade!
+
+450
+00:44:47,272 --> 00:44:50,184
+Creeper!
+
+451
+00:44:52,952 --> 00:44:56,262
+- Jeepers! It's the Creeper!
+- The what?
+
+452
+00:44:56,472 --> 00:45:00,863
+- He's one of the villains from our past.
+- And he's got a pet.
+
+453
+00:45:04,637 --> 00:45:08,145
+It's Jaguaro.
+He's supposed to be in Brazil.
+
+454
+00:45:14,832 --> 00:45:17,027
+Gator Ghoul and the Tar Monster?
+
+455
+00:45:20,552 --> 00:45:21,985
+Head for the beach!
+
+456
+00:45:25,192 --> 00:45:27,342
+No way. Look!
+
+457
+00:45:29,462 --> 00:45:31,237
+It's Old Iron Face!
+
+458
+00:45:36,834 --> 00:45:39,344
+Man, you guys know
+some strange people.
+
+459
+00:45:39,643 --> 00:45:41,753
+It's like every villain
+we've ever faced is here!
+
+460
+00:45:41,952 --> 00:45:45,467
+Maybe we shouldn't have told Eric
+so much about our mysteries.
+
+461
+00:45:45,672 --> 00:45:48,869
+How right you are, my dear.
+
+462
+00:46:04,032 --> 00:46:05,181
+Wait a minute.
+
+463
+00:46:05,392 --> 00:46:09,988
+All these creatures in the real world
+turned out to be just people in costumes.
+
+464
+00:46:10,192 --> 00:46:13,104
+Velma's right. They were all fakes.
+
+465
+00:46:13,592 --> 00:46:16,902
+Nice try, Phantom Virus.
+But you can't fool us.
+
+466
+00:46:30,432 --> 00:46:32,582
+Tough time with the mask, guys?
+
+467
+00:46:32,912 --> 00:46:35,267
+He's real!
+
+468
+00:46:38,272 --> 00:46:41,344
+That means that they're all real!
+
+469
+00:46:46,632 --> 00:46:49,066
+Creeper!
+
+470
+00:46:49,632 --> 00:46:51,588
+Yikes!
+
+471
+00:47:01,352 --> 00:47:02,580
+Get them!
+
+472
+00:47:03,072 --> 00:47:04,471
+Let's split up, gang.
+
+473
+00:47:04,672 --> 00:47:06,390
+- Right.
+- Okay, Freddy.
+
+474
+00:47:14,672 --> 00:47:18,062
+Step right up and test your strength.
+
+475
+00:47:19,192 --> 00:47:21,752
+How about you, handsome?
+
+476
+00:47:22,853 --> 00:47:25,263
+- Me?
+- Yes, you, sir!
+
+477
+00:47:25,432 --> 00:47:28,035
+Let us show you how easy it is.
+
+478
+00:47:32,792 --> 00:47:35,989
+Creepy. Why'd you pick
+this place to hide?
+
+479
+00:47:36,192 --> 00:47:38,228
+Me? I was following you.
+
+480
+00:47:38,673 --> 00:47:42,844
+If you thought this wasn't a good place,
+you should've said something.
+
+481
+00:47:44,653 --> 00:47:46,230
+Where did that come from?
+
+482
+00:47:46,536 --> 00:47:48,895
+These fun houses have
+all sorts of trap doors.
+
+483
+00:47:52,272 --> 00:47:54,866
+Let's keep an eye open for more.
+
+484
+00:47:59,912 --> 00:48:01,504
+Oh, no!
+
+485
+00:48:03,253 --> 00:48:04,505
+What's wrong?
+
+486
+00:48:05,552 --> 00:48:09,545
+- Look how fat I am!
+- It's just a trick mirror.
+
+487
+00:48:10,032 --> 00:48:13,423
+- You look perfect.
+- Oh, thanks. You too.
+
+488
+00:48:15,512 --> 00:48:17,389
+Creeper!
+
+489
+00:48:22,712 --> 00:48:25,863
+- Keep away from us!
+- What do we do?
+
+490
+00:48:31,352 --> 00:48:33,582
+Sorry. You're not our type.
+
+491
+00:48:36,992 --> 00:48:38,710
+Creeper.
+
+492
+00:48:40,552 --> 00:48:42,747
+Way to go, girl!
+
+493
+00:48:46,754 --> 00:48:48,363
+He's climbing back up!
+
+494
+00:48:53,963 --> 00:48:56,749
+That door won't hold him long.
+
+495
+00:48:57,672 --> 00:48:59,121
+Hey! Where are you?
+
+496
+00:48:59,312 --> 00:49:00,825
+Come on!
+
+497
+00:49:05,152 --> 00:49:08,324
+- Is he still behind us?
+- Yep.
+
+498
+00:49:11,152 --> 00:49:14,303
+That walking handbag
+will reach us any minute now.
+
+499
+00:49:21,512 --> 00:49:22,706
+Look!
+
+500
+00:49:27,312 --> 00:49:29,951
+- What do we do now?
+- Jump!
+
+501
+00:49:30,192 --> 00:49:34,470
+- What?! We must be five stories high!
+- Down there!
+
+502
+00:49:36,912 --> 00:49:40,348
+One, two, three. Go!
+
+503
+00:49:48,512 --> 00:49:50,230
+That was some jump.
+
+504
+00:49:52,792 --> 00:49:55,590
+But it beats getting eaten
+by an alligator.
+
+505
+00:49:55,792 --> 00:49:57,271
+Just barely.
+
+506
+00:50:03,152 --> 00:50:05,871
+See you later, alligator!
+
+507
+00:50:06,552 --> 00:50:10,909
+- These wax figures are pretty creepy.
+- At least they're not real.
+
+508
+00:50:14,792 --> 00:50:16,066
+Hey, what's that?
+
+509
+00:50:16,542 --> 00:50:19,124
+This must be where
+they make the wax figurines.
+
+510
+00:50:19,232 --> 00:50:21,324
+That one looks like...
+
+511
+00:50:22,312 --> 00:50:25,384
+Old Iron Face! Jinkies!
+
+512
+00:50:25,592 --> 00:50:27,628
+Let's get out of here.
+
+513
+00:50:27,629 --> 00:50:28,629
+- Oh, no! My glasses!
+- Mine too!
+
+514
+00:50:42,312 --> 00:50:43,791
+- Thanks.
+- Thanks.
+
+515
+00:50:51,352 --> 00:50:55,789
+The wax is hardening. He can't move.
+
+516
+00:50:57,112 --> 00:51:00,661
+Yes, he can. Let's get out of here!
+
+517
+00:51:50,232 --> 00:51:51,984
+Great work, Scoobs.
+
+518
+00:51:56,712 --> 00:51:58,907
+Don't be scared. It's just us.
+
+519
+00:52:05,192 --> 00:52:07,148
+I thought we lost him.
+
+520
+00:52:21,392 --> 00:52:22,905
+Go, Shaggys!
+
+521
+00:52:23,192 --> 00:52:27,822
+- The Tar Monster is right behind us.
+- And boy, is he mad!
+
+522
+00:52:30,032 --> 00:52:31,431
+Let's get out of here!
+
+523
+00:55:07,357 --> 00:55:09,442
+Look.
+
+524
+00:55:21,392 --> 00:55:23,348
+- Bye-bye!
+- Bye-bye!
+
+525
+00:55:32,672 --> 00:55:35,550
+- Scooby-Doos!
+- Where are you?
+
+526
+00:55:35,792 --> 00:55:37,350
+I wonder where they are.
+
+527
+00:55:37,632 --> 00:55:40,100
+- Over here.
+- There they are!
+
+528
+00:55:40,312 --> 00:55:42,143
+Come on, Scooby.
+
+529
+00:55:47,844 --> 00:55:50,973
+Now that we're all here,
+we've got one last monster to face.
+
+530
+00:55:51,592 --> 00:55:53,583
+The Phantom Virus.
+
+531
+00:55:53,784 --> 00:55:56,856
+And this is the final level,
+so the virus won't be easy to beat.
+
+532
+00:55:57,753 --> 00:55:59,911
+What's this? Zoinks!
+
+533
+00:55:59,912 --> 00:56:02,221
+I've still got the magnet
+Professor Kaufman gave me.
+
+534
+00:56:02,424 --> 00:56:06,683
+You had that magnet with you
+all this time and forgot about it?
+
+535
+00:56:06,912 --> 00:56:09,267
+Guess I was too busy being scared.
+
+536
+00:56:11,152 --> 00:56:12,904
+What's wrong with cyber-Shag?
+
+537
+00:56:21,576 --> 00:56:23,214
+What's going on here?
+
+538
+00:56:23,352 --> 00:56:28,551
+The cyber-gang is made of electromagnetic energy
+and therefore affected by the magnet.
+
+539
+00:56:28,653 --> 00:56:30,534
+Just like the Phantom Virus.
+
+540
+00:56:32,832 --> 00:56:37,144
+- What's this about a magnet?
+- We have a way to beat the virus now.
+
+541
+00:56:37,352 --> 00:56:41,061
+And we know he's guarding
+the Scooby Snacks in there.
+
+542
+00:56:43,632 --> 00:56:47,068
+- We need your gang to stay here.
+- You don't want us help to help you?
+
+543
+00:56:47,312 --> 00:56:49,826
+We wouldn't want you
+to get hurt by the magnet again.
+
+544
+00:56:49,984 --> 00:56:53,875
+- Magnet? What are you talking about?
+- Oh, never mind.
+
+545
+00:56:59,352 --> 00:57:03,061
+Man, this is one great video arcade.
+
+546
+00:57:05,712 --> 00:57:10,911
+- Just keep an eye open for the virus.
+- Look. There's the Scooby-Doo video game.
+
+547
+00:57:11,232 --> 00:57:16,226
+- And the Scooby Snacks!
+- Oh, boy! Scooby Snacks!
+
+548
+00:57:17,952 --> 00:57:19,226
+Yikes!
+
+549
+00:57:24,352 --> 00:57:27,549
+Like, I hear him, but I don't see him.
+
+550
+00:57:34,632 --> 00:57:37,465
+Ready to play some games?
+
+551
+00:57:46,252 --> 00:57:48,151
+Shaggy, the magnet!
+
+552
+00:57:49,392 --> 00:57:50,950
+Oh, right!
+
+553
+00:57:53,072 --> 00:57:57,384
+- You need to get closer!
+- Like, that's easy for you to say.
+
+554
+00:57:57,454 --> 00:58:02,143
+- Then toss the magnet over here.
+- With pleasure.
+
+555
+00:58:03,392 --> 00:58:04,984
+Hey, Mr. Zappy!
+
+556
+00:58:10,152 --> 00:58:13,189
+It's working! Scooby, go grab the snacks.
+
+557
+00:58:13,392 --> 00:58:14,381
+Okay.
+
+558
+00:58:17,753 --> 00:58:21,215
+Hurry, Scooby! I don't know how much
+longer this is gonna work!
+
+559
+00:58:27,745 --> 00:58:28,864
+Oh, no!
+
+560
+00:58:29,243 --> 00:58:31,384
+Oh, tough break.
+
+561
+00:58:37,856 --> 00:58:39,116
+- Freddy!
+- Freddy!
+
+562
+00:58:45,752 --> 00:58:47,708
+Not again!
+
+563
+00:58:57,272 --> 00:58:59,740
+If you thought my hitting was good...
+
+564
+00:58:59,952 --> 00:59:02,591
+...wait till you see my pitching.
+
+565
+00:59:08,232 --> 00:59:10,382
+What do we do now?
+
+566
+00:59:12,764 --> 00:59:16,674
+- Looks like they're in trouble!
+- Like, we've gotta do something.
+
+567
+00:59:16,832 --> 00:59:18,221
+Right! Let's go help them.
+
+568
+00:59:23,712 --> 00:59:25,784
+Oh, no! They're back!
+
+569
+00:59:32,385 --> 00:59:33,643
+Oh, no!
+
+570
+00:59:48,672 --> 00:59:49,946
+Scooby?
+
+571
+00:59:51,785 --> 00:59:53,968
+- Cyber-Scooby?
+- That's right!
+
+572
+00:59:54,432 --> 00:59:57,061
+It's no use.
+We need some wire cutters.
+
+573
+00:01:02,846 --> 00:01:05,975
+- I got an idea. Want to help?
+- Okay.
+
+574
+00:01:06,138 --> 00:01:08,035
+Great. Here's the plan.
+
+575
+00:01:18,426 --> 01:00:19,864
+Over here.
+
+576
+01:00:21,192 --> 01:00:23,245
+What are you doing, Scooby?
+
+577
+01:00:28,832 --> 01:00:30,663
+Scooby, get back here!
+
+578
+01:00:30,912 --> 01:00:33,949
+You're down to your final out.
+
+579
+01:00:37,912 --> 01:00:41,029
+I've never seen Scooby so brave.
+
+580
+01:00:41,272 --> 01:00:45,390
+Oh, I get it! That's Cyber-Scooby.
+
+581
+01:00:45,674 --> 01:00:49,391
+And that's old Scoob
+going for the snacks.
+
+582
+01:00:49,472 --> 01:00:51,547
+Meddling canine!
+
+583
+01:00:54,192 --> 01:00:55,181
+Yikes!
+
+584
+01:00:57,632 --> 01:00:58,781
+Help!
+
+585
+01:01:10,872 --> 01:01:12,669
+All right, Scoob!
+
+586
+01:01:36,152 --> 01:01:39,542
+You did it!
+You beat the Phantom Virus.
+
+587
+01:01:40,352 --> 01:01:41,844
+Great job, guys!
+
+588
+01:01:51,552 --> 01:01:53,065
+It looks like we're leaving.
+
+589
+01:01:55,672 --> 01:02:00,462
+Are you sure you want to split?
+There's a lot of cyber-buffets to try.
+
+590
+01:02:00,672 --> 01:02:02,902
+Yeah! Okay!
+
+591
+01:02:03,152 --> 01:02:05,507
+Sorry, but we have to go.
+
+592
+01:02:09,512 --> 01:02:13,107
+- I guess this is goodbye.
+- Bye!
+
+593
+01:02:13,392 --> 01:02:15,110
+Thanks for all the help!
+
+594
+01:02:24,152 --> 01:02:25,710
+Bye, Scooby.
+
+595
+01:02:38,752 --> 01:02:42,665
+You're back! I thought you'd be
+stuck in the game forever.
+
+596
+01:02:42,872 --> 01:02:44,908
+There's no place like home.
+
+597
+01:02:45,792 --> 01:02:48,386
+- Everyone okay?
+- I think so.
+
+598
+01:02:48,573 --> 01:02:53,058
+Well done! You've saved the world
+from a terrible menace.
+
+599
+01:02:53,232 --> 01:02:57,387
+- But did you find out who created the virus?
+- We've got a pretty good idea.
+
+600
+01:02:57,564 --> 01:03:02,342
+Good. Because whoever created
+the virus must be punished.
+
+601
+01:03:02,527 --> 01:03:06,876
+Glad you agree, Professor, because you're
+as much a suspect as anyone here.
+
+602
+01:03:06,953 --> 01:03:09,679
+What? Me? But I'm a scientist!
+
+603
+01:03:09,829 --> 01:03:13,344
+I've dedicated my life
+to my students and this university.
+
+604
+01:03:13,549 --> 01:03:17,178
+But you also stood to make $250,000
+at the science fair.
+
+605
+01:03:17,356 --> 01:03:19,674
+If you stole the invention.
+
+606
+01:03:19,709 --> 01:03:21,028
+Preposterous!
+
+607
+01:03:21,269 --> 01:03:24,227
+And let's not forget Officer Wembley.
+
+608
+01:03:24,429 --> 01:03:28,547
+What? I'm an officer
+of the law! Sort of.
+
+609
+01:03:28,749 --> 01:03:31,946
+Anyway, I've never committed
+a crime in my life!
+
+610
+01:03:32,189 --> 01:03:36,501
+You were the only person that was with us
+in the lab when we got sent into the game.
+
+611
+01:03:36,644 --> 01:03:40,745
+But once inside the game,
+we found some important clues.
+
+612
+01:03:40,769 --> 01:03:45,259
+Our first clue came when we were on the moon level.
+The Phantom Virus shouted, "Play ball! "
+
+613
+01:03:45,469 --> 01:03:49,985
+And on the Colosseum level, we found some
+chalk lines like a large diamond.
+
+614
+01:03:50,189 --> 01:03:52,942
+But our biggest clue
+was on the final level.
+
+615
+01:03:53,189 --> 01:03:56,306
+When the Phantom Virus
+appeared in a batting cage.
+
+616
+01:03:56,446 --> 01:04:00,543
+All I'm getting is that the virus
+had a thing for... Baseball!
+
+617
+01:04:00,869 --> 01:04:02,063
+Bill!
+
+618
+01:04:02,309 --> 01:04:04,539
+Not so fast, kid!
+
+619
+01:04:17,896 --> 01:04:20,754
+Okay, son, it's all over.
+
+620
+01:04:21,989 --> 01:04:25,664
+- Bill, you were my best friend.
+- And my best student.
+
+621
+01:04:25,665 --> 01:04:26,665
+- But you didn't pick my project.
+- What's that supposed to mean?
+
+622
+01:04:29,149 --> 01:04:34,223
+Professor Kaufman chose your video design
+over mine even though I've been here 2 years longer.
+
+623
+01:04:34,429 --> 01:04:36,784
+Students are all equal, Bill.
+
+624
+01:04:37,029 --> 01:04:41,898
+So you invented the Phantom Virus,
+hoping it would scare Eric away.
+
+625
+01:04:42,048 --> 01:04:45,844
+That's right. And it worked,
+till you guys showed up.
+
+626
+01:04:45,949 --> 01:04:49,339
+You were afraid that we would find out
+who created the virus.
+
+627
+01:04:49,549 --> 01:04:52,109
+So you beamed us into cyberspace.
+
+628
+01:04:52,463 --> 01:04:55,374
+The prize would've been all mine,
+if it wasn't for...
+
+629
+01:04:55,549 --> 01:04:57,744
+Us meddling kids!
+
+630
+01:05:02,309 --> 01:05:06,268
+I want to thank you for getting rid
+of the Phantom Virus. Lunch is on me, guys.
+
+631
+01:05:06,549 --> 01:05:11,669
+- In that case, I'll have another cheeseburger.
+- Two cheeseburgers!
+
+632
+01:05:11,869 --> 01:05:12,904
+No problem.
+
+633
+01:05:13,149 --> 01:05:15,663
+I'm sorry you guys got trapped
+in cyberspace.
+
+634
+01:05:15,989 --> 01:05:18,822
+- Well, it really wasn't all that bad.
+- Really?
+
+635
+01:05:19,029 --> 01:05:21,065
+Going back in time was really fun.
+
+636
+01:05:21,309 --> 01:05:23,869
+You did a great job
+designing all the game levels.
+
+637
+01:05:23,985 --> 01:05:28,244
+- Thanks, Daphne.
+- But next time, go easier on the monsters.
+
+638
+01:05:31,245 --> 01:05:35,975
+Hey, Shaggy, I just pulled up the Scooby-Doo
+video game on my laptop. Want to play?
+
+639
+01:05:36,543 --> 01:05:38,064
+What do you say, Scoob?
+
+640
+01:05:38,109 --> 01:05:41,499
+Now that there's
+no creepy virus in the game.
+
+641
+01:05:42,829 --> 01:05:45,468
+Haven't you had enough for one day?
+
+642
+01:05:46,789 --> 01:05:48,780
+Zoinks! Look!
+
+643
+01:05:53,509 --> 01:05:55,101
+What are you doing, Scoob?
+
+644
+01:05:58,745 --> 01:06:01,214
+Now that's what I call hacking!
+
+645
+01:06:01,429 --> 01:06:04,341
+Hacking and Scooby-Snacking!
+
+646
+01:06:04,549 --> 01:06:07,586
+Scooby-Dooby-Doo!
+
+647
+01:09:09,549 --> 01:09:10,538
+Subtitles by
+SDI Media Group
+
+648
+01:09:10,709 --> 01:09:11,698
+[ENGLISH]
+
+649
+01:09:22,749 --> 01:09:27,186
+I may be a bit of a bookworm,
+but I've got a wild side too.
+
+650
+01:09:27,315 --> 01:09:30,635
+That's why my favorite part of the
+<i>Scooby-Doo and the Cyber Chase</i>...
+
+651
+01:09:30,789 --> 01:09:36,022
+...was shooting in the prehistoric jungle.
+It brought out the animal in me.
+
+652
+01:09:39,789 --> 01:09:43,338
+This one likes me.
+Look how calm he is.
+
+653
+01:09:43,789 --> 01:09:45,108
+Jinkies!
+
+654
+01:09:47,869 --> 01:09:48,938
+Thanks, Scooby.
+
+655
+01:09:53,949 --> 01:09:56,622
+Hey, Velma, that one likes you too.
+
+656
+01:09:58,155 --> 01:10:01,845
+<i>Trying to tam those wolly mammoths
+was like a prehistoric rodeo. </i>
+
+657
+01:10:02,144 --> 01:10:06,025
+<i>Shaggy found out what
+it was like to be a real cowpoke.</i>
+
+658
+01:10:06,389 --> 01:10:11,224
+<i>And after a little practice, Scooby
+and I started the first cattle drive. </i>
+
+659
+01:10:14,349 --> 01:10:17,659
+My dream of playing
+pro baseball ended pretty early.
+
+660
+01:10:17,869 --> 01:10:21,578
+But another dream of mine came true
+when we made the movie.
+
+661
+01:10:21,789 --> 01:10:24,622
+Fred Jones, gladiator.
+
+662
+01:10:27,069 --> 01:10:32,063
+- You look so cute in that outfit, Freddy.
+- Cute? That's not what I was going for.
+
+663
+01:10:35,349 --> 01:10:37,101
+You can beat him, Fred!
+
+664
+01:10:41,648 --> 01:10:44,983
+All that Frisbee-playing
+with Shaggy really paid off.
+
+665
+01:10:46,454 --> 01:10:48,975
+I was amazed how acting like
+Shaggy helped me during battle.
+
+666
+01:10:49,172 --> 01:10:53,847
+I lured my opponents into traps,
+jumped high when I was scared...
+
+667
+01:10:54,189 --> 01:10:57,545
+...and most importantly,
+ran really fast.
+
+668
+01:10:57,546 --> 01:10:58,546
+Just because I wear nice clothes
+and like to shop...
+
+669
+01:11:00,977 --> 01:11:02,746
+doesn't mean I don't have
+a sense of adventure.
+
+670
+01:11:02,989 --> 01:11:05,583
+That's why I enjoyed
+shooting at the North Pole.
+
+671
+01:11:05,894 --> 01:11:09,136
+Besides, when it's 40 below,
+no one cares what you're wearing.
+
+672
+01:11:09,469 --> 01:11:14,179
+- The air is so cold.
+- You gotta keep moving around.
+
+673
+01:11:14,469 --> 01:11:19,347
+- Shaggy and Scooby have the right idea.
+- They're doing Arctic aerobics.
+
+674
+01:11:19,869 --> 01:11:21,188
+Like, help!
+
+675
+01:11:27,189 --> 01:11:32,040
+- Nice work, Daphne.
+- Now you know why I accessorize.
+
+676
+01:11:32,469 --> 01:11:36,257
+If you're exploring the Arctic,
+you need to make sacrifices.
+
+677
+01:11:36,509 --> 01:11:40,821
+Your shelter must be practical,
+you need to travel light...
+
+678
+01:11:41,484 --> 01:11:45,532
+...and most importantly,
+enjoy the 24 hours of sunlight.
+
+679
+01:11:46,509 --> 01:11:48,818
+The part I enjoyed most
+about this movie...
+
+680
+01:11:49,029 --> 01:11:52,180
+...was all the time Scooby and I
+got to spend at the arcade.
+
+681
+01:10:58,784 --> 01:11:00,849
+Like, there's only one thing I love more
+than playing games, and that's winning at 'em.
+
+682
+01:11:58,989 --> 01:12:00,945
+One more point and I win.
+
+683
+01:12:04,349 --> 01:12:08,945
+Game over, Scoob. Like, I'm the
+air-hockey champion of the world!
+
+684
+01:12:15,109 --> 01:12:16,508
+Two out of three?
+
+685
+01:12:17,593 --> 01:12:23,109
+I could have been a better sport,
+or at least not gotten so excited.
+
+686
+01:12:23,564 --> 01:12:26,325
+But when I rubbed it in
+after beating him at free throws...
+
+687
+01:12:26,509 --> 01:12:29,148
+...Scooby made a winning shot
+of his own.
+
+688
+01:12:29,349 --> 01:12:33,740
+Your time, Scoob. What was your favorite part
+of <i>Scooby-Doo and the Cyber Chase</i>?
+
+689
+01:12:34,149 --> 01:12:35,502
+The laser.
+
+690
+01:12:37,467 --> 01:12:40,742
+Like, I got it. Fire away, Scoob.
+
+691
+01:12:49,472 --> 01:12:53,229
+Zoinks! It's amazing what you
+can find on the Web. Eh, Scoob?
+
+692
+01:12:58,309 --> 01:13:01,269
+We visited the
+Scooby Snacks home page...
+
+693
+01:13:01,346 --> 01:13:03,680
+...found a great Web site
+for dessert...
+
+694
+01:13:03,809 --> 01:13:07,165
+...which I found out
+was spelled with two S's.
+
+695
+01:13:07,769 --> 01:13:11,148
+And best of all, we got to see
+an old friend, right, Scoob?
+
+696
+01:13:11,349 --> 01:13:14,386
+Scooby-Dooby-Doo!
+

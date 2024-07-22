@@ -1,0 +1,4130 @@
+﻿1
+00:04:21,437 --> 00:04:23,106
+They lock in those coordinates?
+
+2
+00:04:26,142 --> 00:04:29,145
+No, not yet they're still
+tryin' to pinpoint its location.
+
+3
+00:04:34,084 --> 00:04:35,450
+Flynn, if it's drifted
+behind the moon,
+
+4
+00:04:35,451 --> 00:04:37,552
+there's no way they can
+lock in the coordinates.
+
+5
+00:04:37,553 --> 00:04:38,553
+Bullshit.
+
+6
+00:04:39,822 --> 00:04:42,657
+A nuclear arms spy satellite
+roaming freely in space?
+
+7
+00:04:42,658 --> 00:04:43,858
+Come on somebody down there
+
+8
+00:04:43,859 --> 00:04:45,139
+doesn't have their shit together.
+
+9
+00:04:47,497 --> 00:04:50,232
+Call Spacecore Central and
+find out what the delay is.
+
+10
+00:04:50,233 --> 00:04:52,435
+We're way over due on
+that coordinate update.
+
+11
+00:04:55,070 --> 00:04:56,571
+Houston, this is Spacecore One.
+
+12
+00:04:56,572 --> 00:04:57,572
+Come in please.
+
+13
+00:05:02,278 --> 00:05:03,678
+What the hell was that?
+
+14
+00:05:03,679 --> 00:05:06,181
+Lock automatic boost control.
+
+15
+00:05:06,182 --> 00:05:08,184
+Come in Houston this is
+Spacecore One.
+
+16
+00:05:11,921 --> 00:05:12,921
+Not responding.
+
+17
+00:05:16,192 --> 00:05:18,628
+This is Spacecore One come in Houston.
+
+18
+00:05:20,263 --> 00:05:23,233
+Ooh, god dammit.
+
+19
+00:05:24,334 --> 00:05:25,334
+Get Paxton.
+
+20
+00:05:31,774 --> 00:05:33,742
+Paxton, it's Giles.
+
+21
+00:05:33,743 --> 00:05:35,244
+What's up gents.
+
+22
+00:05:35,245 --> 00:05:37,246
+We're having trouble with
+the R3s and the stackers.
+
+23
+00:05:37,247 --> 00:05:39,481
+Even the fifth system
+everything is down.
+
+24
+00:05:39,482 --> 00:05:41,451
+Have you tried adjusting the outlays?
+
+25
+00:05:42,585 --> 00:05:44,118
+Yep.
+
+26
+00:05:44,119 --> 00:05:47,223
+Paxton, just see if you can
+get an override through Lesli.
+
+27
+00:05:48,358 --> 00:05:49,759
+Alright, give me a moment.
+
+28
+00:05:51,227 --> 00:05:53,863
+Lesli, we need an
+over ride on the bridge.
+
+29
+00:06:04,707 --> 00:06:08,477
+Lesli, what do you mean functional?
+
+30
+00:06:08,478 --> 00:06:11,046
+According to the bridge,
+nothing is functional.
+
+31
+00:06:12,182 --> 00:06:14,249
+Everything is working accordingly.
+
+32
+00:06:18,354 --> 00:06:19,789
+Talk to me, Paxton.
+
+33
+00:06:21,324 --> 00:06:23,091
+Lesli, can't over ride
+because everything
+
+34
+00:06:23,092 --> 00:06:24,726
+is listed as functional.
+
+35
+00:06:24,727 --> 00:06:26,661
+We can't go to backup until
+we discovered
+
+36
+00:06:26,662 --> 00:06:29,631
+just what, if anything, is wrong.
+
+37
+00:06:29,632 --> 00:06:30,800
+I'll be up in a second.
+
+38
+00:06:55,225 --> 00:06:58,561
+What?
+
+39
+00:07:16,879 --> 00:07:19,881
+Set inherent dynamic stability.
+
+40
+00:07:19,882 --> 00:07:22,116
+Well, isn't this romantic?
+
+41
+00:07:22,117 --> 00:07:24,420
+Time for candlelight and Courvoisier.
+
+42
+00:07:31,594 --> 00:07:33,028
+Flynn, what's going on?
+
+43
+00:07:36,666 --> 00:07:37,933
+Why don't you tell us?
+
+44
+00:07:39,068 --> 00:07:41,503
+You said all systems were functional.
+
+45
+00:07:41,504 --> 00:07:42,838
+No, Lesli said that.
+
+46
+00:07:44,574 --> 00:07:46,676
+Well, at least we have
+auxiliary lighting.
+
+47
+00:07:47,943 --> 00:07:50,244
+Yeah, but for how long?
+
+48
+00:07:50,245 --> 00:07:52,347
+300 and, uh...
+
+49
+00:07:52,348 --> 00:07:55,884
+336 hours that's two weeks,
+and not to worry
+
+50
+00:07:55,885 --> 00:07:57,752
+we'll get her up and running.
+
+51
+00:07:57,753 --> 00:07:59,087
+Y'all can forget about two weeks.
+
+52
+00:07:59,088 --> 00:08:00,790
+We got 24 hours if we're lucky.
+
+53
+00:08:04,294 --> 00:08:05,395
+24 hours?
+
+54
+00:08:07,029 --> 00:08:08,029
+Yeah.
+
+55
+00:08:10,766 --> 00:08:13,535
+Sir, auxiliary systems
+were hit pretty bad.
+
+56
+00:08:13,536 --> 00:08:15,304
+They appear normal,
+but there's no response.
+
+57
+00:08:15,305 --> 00:08:17,939
+It's like suddenly they
+got a mind of their own.
+
+58
+00:08:17,940 --> 00:08:20,742
+Up till now I don't have
+a clue what happened.
+
+59
+00:08:20,743 --> 00:08:22,644
+In all the backups?
+
+60
+00:08:22,645 --> 00:08:24,112
+Yep.
+
+61
+00:08:24,113 --> 00:08:26,781
+I believe, we're gonna
+be cooked big time.
+
+62
+00:08:26,782 --> 00:08:28,883
+We got 24 hours auxiliary,
+
+63
+00:08:28,884 --> 00:08:31,486
+but that don't matter because
+the oxygen can't last,
+
+64
+00:08:31,487 --> 00:08:33,021
+and it's gonna get cold.
+
+65
+00:08:33,022 --> 00:08:34,724
+Temperatures will drop below zero.
+
+66
+00:08:35,825 --> 00:08:37,427
+That's a mouthful of good news.
+
+67
+00:08:39,795 --> 00:08:41,430
+What's happening?
+
+68
+00:08:41,431 --> 00:08:42,832
+Go ahead tell her.
+
+69
+00:08:44,334 --> 00:08:45,634
+We'll you see, Cookie,
+
+70
+00:08:45,635 --> 00:08:48,169
+without power we can't
+replenish the air,
+
+71
+00:08:48,170 --> 00:08:49,638
+and you better button
+up because it's gonna be
+
+72
+00:08:49,639 --> 00:08:51,806
+colder than bluegrass
+in Alaska in here.
+
+73
+00:08:51,807 --> 00:08:53,743
+Hi, Doc, glad you're here.
+
+74
+00:08:57,847 --> 00:08:58,847
+What about solar?
+
+75
+00:09:01,417 --> 00:09:03,518
+We can't lock into the sun.
+
+76
+00:09:03,519 --> 00:09:04,753
+Why?
+
+77
+00:09:04,754 --> 00:09:06,989
+Because we're drifting
+towards Centrus B-40.
+
+78
+00:09:07,857 --> 00:09:10,225
+Centrus B-40?
+
+79
+00:09:11,461 --> 00:09:12,862
+The dark side of the moon.
+
+80
+00:09:15,365 --> 00:09:17,832
+We've lost engine power, life support.
+
+81
+00:09:17,833 --> 00:09:19,034
+No shit.
+
+82
+00:09:20,736 --> 00:09:21,870
+I thought you were supposed
+to be
+
+83
+00:09:21,871 --> 00:09:23,972
+the authority on the system.
+
+84
+00:09:31,313 --> 00:09:33,314
+What programs were you running?
+
+85
+00:09:33,315 --> 00:09:36,117
+Listen, I've been
+flying too many years
+
+86
+00:09:36,118 --> 00:09:37,686
+to start pushing the wrong buttons.
+
+87
+00:09:37,687 --> 00:09:40,790
+Now clearly the problem is in Lesli.
+
+88
+00:09:41,991 --> 00:09:44,493
+She doesn't run this ship,
+you do.
+
+89
+00:09:48,864 --> 00:09:50,164
+Listen you guys, I think,
+we can be
+
+90
+00:09:50,165 --> 00:09:51,967
+a little bit more
+constructive here.
+
+91
+00:09:54,737 --> 00:09:55,737
+You're right.
+
+92
+00:09:56,439 --> 00:09:57,907
+We can't waste time about it.
+
+93
+00:09:58,774 --> 00:10:00,642
+Let's do a comp analysis.
+
+94
+00:10:00,643 --> 00:10:02,712
+We'll check her out top to bottom.
+
+95
+00:10:16,058 --> 00:10:18,126
+Status update, Jennings?
+
+96
+00:10:18,127 --> 00:10:20,463
+Yeah, choppin' outsets okay.
+
+97
+00:10:21,597 --> 00:10:24,365
+And running circuits are integrated.
+
+98
+00:10:24,366 --> 00:10:26,300
+What about the interlocks?
+
+99
+00:10:26,301 --> 00:10:27,703
+I got Alex workin' on that
+
+100
+00:10:28,971 --> 00:10:30,773
+'cause it's such a tight fit.
+
+101
+00:10:32,207 --> 00:10:34,142
+Dammit, Jennings,
+can't you concentrate on this.
+
+102
+00:10:34,143 --> 00:10:35,910
+We're in deep shit here.
+
+103
+00:10:35,911 --> 00:10:37,045
+Cookie, with you around it gets
+
+104
+00:10:37,046 --> 00:10:38,613
+harder and harder all the time.
+
+105
+00:10:38,614 --> 00:10:40,182
+In fact, you know somethin' else
+
+106
+00:10:41,684 --> 00:10:44,086
+it might be your last chance
+to get into my flight suit.
+
+107
+00:10:45,521 --> 00:10:48,122
+Tell you what, why don't
+you make a pass at Lesli, huh?
+
+108
+00:10:48,123 --> 00:10:50,192
+Just your type, 100% robotic.
+
+109
+00:10:51,494 --> 00:10:53,327
+Hmm.
+
+110
+00:10:57,399 --> 00:10:59,234
+Set giro flux gate.
+
+111
+00:11:02,271 --> 00:11:05,273
+Flip that F switch
+it's the white one.
+
+112
+00:11:05,274 --> 00:11:06,609
+The white one?
+
+113
+00:11:09,344 --> 00:11:10,344
+God.
+
+114
+00:11:12,281 --> 00:11:13,281
+Shit.
+
+115
+00:11:15,450 --> 00:11:17,753
+Flynn, try the power
+feed on the syndicator.
+
+116
+00:11:20,055 --> 00:11:21,055
+Anything?
+
+117
+00:11:22,257 --> 00:11:23,257
+No, nothin'.
+
+118
+00:11:24,193 --> 00:11:25,561
+Synapse are intact.
+
+119
+00:11:27,462 --> 00:11:29,298
+No broken cables or feed lines.
+
+120
+00:11:31,767 --> 00:11:33,635
+I don't know understand this, Flynn.
+
+121
+00:11:33,636 --> 00:11:35,304
+Everything should be functional.
+
+122
+00:11:37,840 --> 00:11:40,075
+This is Spacecore One mayday.
+
+123
+00:11:41,176 --> 00:11:42,176
+Mayday!
+
+124
+00:11:43,713 --> 00:11:44,979
+Mayday!
+
+125
+00:11:44,980 --> 00:11:48,116
+This is Spacecore One please acknowledge.
+
+126
+00:11:48,117 --> 00:11:49,117
+Mayday!
+
+127
+00:11:50,152 --> 00:11:51,152
+Mayday!
+
+128
+00:11:52,387 --> 00:11:55,624
+Vector 4-5-1, we're an
+approaching Centrus B-40.
+
+129
+00:11:55,625 --> 00:11:58,359
+This is Spacecore One please
+come in.
+
+130
+00:11:58,360 --> 00:11:59,694
+Is there anyone there?
+
+131
+00:11:59,695 --> 00:12:01,262
+Mayday.
+
+132
+00:12:01,263 --> 00:12:02,897
+Come in please.
+
+133
+00:12:02,898 --> 00:12:03,898
+Mayday.
+
+134
+00:12:09,071 --> 00:12:11,305
+Goddamn it's cold.
+
+135
+00:12:12,742 --> 00:12:16,510
+Huh, I'm freezing, Jesus.
+
+136
+00:12:16,511 --> 00:12:17,746
+Here you go guys.
+
+137
+00:12:17,747 --> 00:12:19,080
+Oh, I could use a cup.
+
+138
+00:12:19,081 --> 00:12:21,515
+Yeah.
+
+139
+00:12:21,516 --> 00:12:23,052
+Now we're talkin'.
+
+140
+00:12:29,659 --> 00:12:32,261
+Paxton, your tea is closest
+to you.
+
+141
+00:12:36,799 --> 00:12:38,300
+Thank you, dear.
+
+142
+00:12:45,941 --> 00:12:46,975
+Jesus!
+
+143
+00:12:48,210 --> 00:12:49,477
+Christ!
+
+144
+00:12:49,478 --> 00:12:52,046
+Hey, you knew it had to be hot.
+
+145
+00:12:52,047 --> 00:12:53,047
+Christ, no.
+
+146
+00:12:54,149 --> 00:12:55,850
+It has cream in it.
+
+147
+00:12:55,851 --> 00:12:57,652
+He's allergic to it, Alex.
+
+148
+00:12:57,653 --> 00:12:58,821
+I'm not just allergic.
+
+149
+00:13:00,389 --> 00:13:02,991
+Fibrillation of the heart leading
+to a major cardiac arrest.
+
+150
+00:13:02,992 --> 00:13:04,726
+Is that a problem?
+
+151
+00:13:04,727 --> 00:13:06,227
+It's not a pretty sight.
+
+152
+00:13:06,228 --> 00:13:07,662
+I'm sorry, I didn't know.
+
+153
+00:13:07,663 --> 00:13:09,964
+You know, you could've told me.
+
+154
+00:13:09,965 --> 00:13:11,934
+Activate tach cam nav beacon.
+
+155
+00:13:26,148 --> 00:13:29,450
+Yeah, so Lesli's on automatic.
+
+156
+00:13:29,451 --> 00:13:30,384
+It'll play throughout the night.
+
+157
+00:13:30,385 --> 00:13:31,753
+Alex just ran the logs.
+
+158
+00:13:31,754 --> 00:13:34,555
+There's not a livin'
+thing anywhere near us.
+
+159
+00:13:34,556 --> 00:13:35,624
+Jennings, put the cigarette out.
+
+160
+00:13:35,625 --> 00:13:37,358
+What the fuck for?
+
+161
+00:13:37,359 --> 00:13:39,161
+Because we have to conserve air.
+
+162
+00:13:41,196 --> 00:13:42,530
+Look the SOS is fail safe.
+
+163
+00:13:42,531 --> 00:13:43,898
+Somebody'll pick it up.
+
+164
+00:13:43,899 --> 00:13:45,199
+Pick this up.
+
+165
+00:13:45,200 --> 00:13:46,334
+Put it out.
+
+166
+00:13:46,335 --> 00:13:49,271
+Hey, something's out there.
+
+167
+00:13:52,474 --> 00:13:53,843
+It's comin' right at us.
+
+168
+00:14:07,389 --> 00:14:10,625
+This is Spacecore One come in please.
+
+169
+00:14:12,561 --> 00:14:15,163
+This is Spacecore One come in please.
+
+170
+00:14:18,668 --> 00:14:20,101
+We have a visual on you.
+
+171
+00:14:20,102 --> 00:14:22,104
+Acknowledge please, over.
+
+172
+00:14:23,238 --> 00:14:26,340
+Vector mission micrometry.
+
+173
+00:14:26,341 --> 00:14:27,877
+There's no response.
+
+174
+00:14:30,746 --> 00:14:32,114
+It doesn't really matter.
+
+175
+00:14:34,984 --> 00:14:36,418
+They must know we're here.
+
+176
+00:14:37,687 --> 00:14:39,788
+Christ, will y'all look at that?
+
+177
+00:14:43,993 --> 00:14:44,993
+I'll be dammed.
+
+178
+00:14:46,295 --> 00:14:47,461
+It looks like the Settler.
+
+179
+00:14:47,462 --> 00:14:48,697
+Initiate darkening.
+
+180
+00:14:48,698 --> 00:14:51,733
+Discovery from the old NASA program.
+
+181
+00:14:51,734 --> 00:14:53,768
+Jesus, I didn't know
+those things still flew.
+
+182
+00:14:53,769 --> 00:14:56,470
+Program docking beacon.
+
+183
+00:14:56,471 --> 00:14:59,007
+It looks like it's
+been through hell.
+
+184
+00:15:02,644 --> 00:15:05,413
+Giles, why don't you go down
+to airlock
+
+185
+00:15:05,414 --> 00:15:06,548
+and greet our guests.
+
+186
+00:15:08,217 --> 00:15:10,052
+Rate of closure steady.
+
+187
+00:15:18,928 --> 00:15:21,396
+Unknown contact on final approach.
+
+188
+00:15:33,976 --> 00:15:36,211
+Activate airlock thruster pods.
+
+189
+00:15:43,786 --> 00:15:45,487
+I hope they know what they're doing.
+
+190
+00:15:46,688 --> 00:15:47,688
+So far so good.
+
+191
+00:16:00,335 --> 00:16:02,838
+Why don't they make contact?
+
+192
+00:16:03,705 --> 00:16:05,240
+Warning: Mask secure.
+
+193
+00:16:07,276 --> 00:16:08,716
+What the hell are they waitin' for?
+
+194
+00:16:12,848 --> 00:16:14,649
+Giles, what's going on down there?
+
+195
+00:16:17,686 --> 00:16:18,686
+Not a thing.
+
+196
+00:16:20,022 --> 00:16:21,555
+Okay, Giles, I'm comin' down.
+
+197
+00:16:21,556 --> 00:16:22,624
+Let's get suited up.
+
+198
+00:16:23,826 --> 00:16:25,961
+If they won't come to us,
+we'll go to them.
+
+199
+00:16:42,577 --> 00:16:43,912
+Here you go.
+
+200
+00:16:43,913 --> 00:16:45,279
+Two RTCs.
+
+201
+00:16:45,280 --> 00:16:48,082
+Rapid fire chambers,
+extended barrel, full chocks,
+
+202
+00:16:48,083 --> 00:16:50,552
+heat sensor sized tracers included.
+
+203
+00:16:53,222 --> 00:16:54,222
+Hey, it can't hurt.
+
+204
+00:16:55,557 --> 00:16:58,093
+Wish I had me one of these
+babies when I was in Nicaragua.
+
+205
+00:17:02,231 --> 00:17:04,332
+Look, you sure you don't
+want me to come with you?
+
+206
+00:17:04,333 --> 00:17:06,200
+I mean, what if there are a
+couple of hostiles on that ship?
+
+207
+00:17:06,201 --> 00:17:07,902
+I'm the only one that's
+trained to handle it.
+
+208
+00:17:07,903 --> 00:17:12,773
+Jennings, if I can locate
+this other ship's resources,
+
+209
+00:17:12,774 --> 00:17:15,710
+I need you here to set
+it up from our side.
+
+210
+00:17:19,314 --> 00:17:20,415
+Okay, happy huntin'.
+
+211
+00:17:41,136 --> 00:17:42,304
+Alex, you readin' me?
+
+212
+00:17:43,572 --> 00:17:45,174
+You're comin' in great, Giles.
+
+213
+00:17:46,308 --> 00:17:47,609
+Your suit is reading fine.
+
+214
+00:17:49,278 --> 00:17:50,279
+Giles,
+
+215
+00:17:51,213 --> 00:17:52,846
+be careful.
+
+216
+00:18:01,623 --> 00:18:02,992
+Ships got an A-390.
+
+217
+00:18:04,059 --> 00:18:05,059
+How do we open it?
+
+218
+00:18:07,029 --> 00:18:11,133
+Well, there should be a C
+cylinder attached underneath.
+
+219
+00:18:14,236 --> 00:18:18,072
+Alex, the code sequence is
+
+220
+00:18:18,073 --> 00:18:21,075
+7-W-8-2-4.
+
+221
+00:18:21,076 --> 00:18:22,610
+Look it up.
+
+222
+00:18:22,611 --> 00:18:23,611
+All right.
+
+223
+00:18:27,049 --> 00:18:28,217
+See anything?
+
+224
+00:18:29,518 --> 00:18:30,585
+Nah, it's too dark.
+
+225
+00:18:34,056 --> 00:18:35,857
+It's the damnedest
+thing I've ever seen.
+
+226
+00:18:46,135 --> 00:18:47,735
+Alright, we've got it for you.
+
+227
+00:18:47,736 --> 00:18:50,872
+Punch 25-delta-76.
+
+228
+00:18:58,247 --> 00:18:59,580
+It opened.
+
+229
+00:18:59,581 --> 00:19:00,581
+Goin' in.
+
+230
+00:19:12,094 --> 00:19:14,663
+I'm not sure it looks like
+we've got water damage.
+
+231
+00:19:17,967 --> 00:19:20,901
+Alex, I want a molecular read out
+
+232
+00:19:20,902 --> 00:19:23,104
+the moment we actually step inside.
+
+233
+00:19:23,105 --> 00:19:28,110
+Please hurry,
+we're almost out of air.
+
+234
+00:19:43,925 --> 00:19:46,860
+Oh, Christ look at this.
+
+235
+00:19:46,861 --> 00:19:47,861
+Auxiliary lines.
+
+236
+00:19:48,830 --> 00:19:50,498
+Alex, you got a reading yet?
+
+237
+00:19:50,499 --> 00:19:53,467
+Yes, their oxygen level is fine.
+
+238
+00:19:53,468 --> 00:19:54,968
+All other compounds are normal
+
+239
+00:19:54,969 --> 00:19:57,171
+except for a high level of sulfur.
+
+240
+00:19:57,172 --> 00:19:58,407
+The temperature is a 106.
+
+241
+00:20:00,809 --> 00:20:03,712
+That's impossible they
+don't have any power.
+
+242
+00:20:05,680 --> 00:20:07,081
+Okay.
+
+243
+00:20:07,082 --> 00:20:08,850
+We're gonna go find the
+bridge now.
+
+244
+00:20:10,419 --> 00:20:11,552
+Wait a minute.
+
+245
+00:20:11,553 --> 00:20:12,886
+What is it?
+
+246
+00:20:12,887 --> 00:20:14,922
+Check the monitor on your suit, Giles.
+
+247
+00:20:14,923 --> 00:20:16,024
+I'm getting some interference.
+
+248
+00:20:16,025 --> 00:20:17,726
+Atmospherics are goin' crazy!
+
+249
+00:20:18,727 --> 00:20:20,394
+What the?
+
+250
+00:20:20,395 --> 00:20:21,563
+This is weird.
+
+251
+00:20:34,676 --> 00:20:36,244
+How's that?
+
+252
+00:20:36,245 --> 00:20:37,979
+Wait a minute it's changing back.
+
+253
+00:20:39,448 --> 00:20:40,749
+What did you do?
+
+254
+00:20:42,016 --> 00:20:43,785
+Used a little high tech ingenuity.
+
+255
+00:20:44,853 --> 00:20:46,187
+We're moving on.
+
+256
+00:21:21,723 --> 00:21:22,723
+Flynn, over here.
+
+257
+00:21:27,896 --> 00:21:29,798
+Flynn, don't touch anything yet.
+
+258
+00:21:31,065 --> 00:21:32,900
+How do we know it's compatible?
+
+259
+00:21:32,901 --> 00:21:34,502
+It's a U.S. ship, isn't it?
+
+260
+00:21:34,503 --> 00:21:36,337
+I'm concerned about air quality.
+
+261
+00:21:36,338 --> 00:21:39,140
+Flynn, we know nothing
+about that ship.
+
+262
+00:21:39,141 --> 00:21:41,442
+Who knows what could've
+gotten into their air supply.
+
+263
+00:21:41,443 --> 00:21:42,943
+Paxton, we don't have much choice.
+
+264
+00:21:42,944 --> 00:21:45,313
+Alex said the air in here is fine.
+
+265
+00:21:45,314 --> 00:21:49,016
+That was a crude atmospheric
+analysis at best.
+
+266
+00:21:49,017 --> 00:21:52,154
+Well, we're gonna have to
+roll the dice on this one.
+
+267
+00:22:25,887 --> 00:22:26,887
+It's in.
+
+268
+00:22:39,100 --> 00:22:41,101
+Anything happenin' over there yet?
+
+269
+00:22:41,102 --> 00:22:43,537
+We're all breathing a bit
+easier, thanks.
+
+270
+00:22:59,554 --> 00:23:00,855
+The fuel tanks are empty.
+
+271
+00:23:01,756 --> 00:23:03,258
+Then what was she flyin' on?
+
+272
+00:23:04,493 --> 00:23:07,094
+Better yet who the hell was
+flying her?
+
+273
+00:23:46,000 --> 00:23:48,101
+There was a NASA flight crew
+on this ship.
+
+274
+00:23:48,102 --> 00:23:49,371
+It couldn't be.
+
+275
+00:23:50,505 --> 00:23:52,374
+NASA hasn't been flying for
+30 years.
+
+276
+00:23:58,413 --> 00:24:01,048
+This is weirder than the
+Flying Dutchman.
+
+277
+00:24:20,902 --> 00:24:23,738
+Alex, are you getting
+any imbalances around me?
+
+278
+00:24:25,374 --> 00:24:26,374
+You alright?
+
+279
+00:24:27,342 --> 00:24:29,143
+Everything checks out okay.
+
+280
+00:24:31,813 --> 00:24:34,383
+I don't know I thought I saw something.
+
+281
+00:24:35,550 --> 00:24:37,352
+Keep your eyes on the monitor, okay.
+
+282
+00:24:49,831 --> 00:24:54,502
+Core samples from Centrus B-40?
+
+283
+00:24:54,503 --> 00:24:56,871
+What the hell
+would they want with these?
+
+284
+00:25:00,542 --> 00:25:03,311
+Giles, where are you?
+
+285
+00:25:03,312 --> 00:25:04,845
+Cargo bay.
+
+286
+00:25:04,846 --> 00:25:07,315
+Well, the molecular
+structure is changing again.
+
+287
+00:25:07,316 --> 00:25:09,850
+Is there an air vent or
+a heating duct nearby?
+
+288
+00:25:09,851 --> 00:25:10,818
+I don't know we're
+standing in the middle
+
+289
+00:25:10,819 --> 00:25:13,053
+of the goddamn room.
+
+290
+00:25:13,054 --> 00:25:15,456
+Well, look around you, Giles.
+
+291
+00:25:15,457 --> 00:25:16,825
+Something is changing it.
+
+292
+00:25:18,560 --> 00:25:20,628
+Jesus, Alex, are you sure
+there's not a damn thing
+
+293
+00:25:20,629 --> 00:25:22,229
+in here except for us?
+
+294
+00:25:22,230 --> 00:25:24,532
+Giles, if you're in cargo bay,
+
+295
+00:25:24,533 --> 00:25:27,501
+you may be getting an
+exhaust feed from above.
+
+296
+00:25:48,457 --> 00:25:50,859
+I took this mission
+because I wanted to relax,
+
+297
+00:25:51,960 --> 00:25:53,962
+and I figured a bandage here
+or there.
+
+298
+00:25:56,465 --> 00:25:57,465
+Jesus.
+
+299
+00:26:01,069 --> 00:26:03,471
+A lot of good this did him.
+
+300
+00:26:03,472 --> 00:26:06,306
+Alex, could you bring
+the tray over here please?
+
+301
+00:26:06,307 --> 00:26:07,307
+Yeah.
+
+302
+00:26:24,526 --> 00:26:25,526
+Oh.
+
+303
+00:26:29,130 --> 00:26:30,931
+Looks like a knife cut him.
+
+304
+00:26:30,932 --> 00:26:33,401
+Uh, no, a knife wouldn't cauterize.
+
+305
+00:26:33,402 --> 00:26:34,702
+What about a laser?
+
+306
+00:26:34,703 --> 00:26:35,969
+No.
+
+307
+00:26:35,970 --> 00:26:37,672
+The cut would be deeper.
+
+308
+00:26:39,073 --> 00:26:40,475
+Perhaps it was suicide?
+
+309
+00:26:41,876 --> 00:26:43,611
+Well, I won't rule it out.
+
+310
+00:26:43,612 --> 00:26:45,112
+You said he was hanging
+from the rafters.
+
+311
+00:26:45,113 --> 00:26:47,048
+Perhaps he got caught
+up in the fall.
+
+312
+00:26:48,917 --> 00:26:52,119
+Why would he dock the
+ship and then kill himself?
+
+313
+00:26:52,120 --> 00:26:53,655
+I'm a doctor not a detective.
+
+314
+00:26:55,256 --> 00:26:56,824
+Maybe there's someone
+else on the ship?
+
+315
+00:27:01,596 --> 00:27:04,031
+Jennings, I want
+you to give me a hand.
+
+316
+00:27:04,032 --> 00:27:05,966
+We're gonna seal off that airlock.
+
+317
+00:27:05,967 --> 00:27:07,287
+I'm with you on that.
+
+318
+00:27:13,808 --> 00:27:14,909
+What the?
+
+319
+00:27:18,713 --> 00:27:21,181
+Well, looks like we'll
+be getting some heat.
+
+320
+00:27:21,182 --> 00:27:24,585
+Let me know when you guys
+come up with somethin', huh?
+
+321
+00:27:24,586 --> 00:27:26,119
+Mm-hmm.
+
+322
+00:27:26,120 --> 00:27:27,822
+I'll be up in the computer room.
+
+323
+00:27:31,025 --> 00:27:32,159
+What is it?
+
+324
+00:27:32,160 --> 00:27:33,595
+I'm going to access Lesli.
+
+325
+00:27:36,865 --> 00:27:37,899
+May I ask why?
+
+326
+00:27:39,634 --> 00:27:41,570
+Let's just say I need to talk
+to her.
+
+327
+00:28:05,193 --> 00:28:07,060
+Hello, Paxton.
+
+328
+00:28:07,061 --> 00:28:08,629
+Hello, Lesli.
+
+329
+00:28:08,630 --> 00:28:12,000
+Um, Lieutenant Giles is here
+to ask you a few questions.
+
+330
+00:28:13,067 --> 00:28:14,769
+What is his clearance code please?
+
+331
+00:28:15,904 --> 00:28:17,238
+B306.
+
+332
+00:28:18,439 --> 00:28:20,240
+Paxton, Lieutenant
+Giles does not have
+
+333
+00:28:20,241 --> 00:28:22,644
+security clearance to access
+my files.
+
+334
+00:28:24,312 --> 00:28:25,879
+Why not?
+
+335
+00:28:25,880 --> 00:28:29,316
+Well, it's a security override
+that I added to the system.
+
+336
+00:28:29,317 --> 00:28:30,684
+Purely, a precaution.
+
+337
+00:28:30,685 --> 00:28:33,121
+Paxton, nobody authorized you
+to do that.
+
+338
+00:28:34,488 --> 00:28:35,657
+Get rid of it.
+
+339
+00:28:40,595 --> 00:28:43,496
+I'll need Paxton's
+verification on that.
+
+340
+00:28:50,772 --> 00:28:52,273
+She's seeing if I'm lying.
+
+341
+00:28:55,644 --> 00:28:57,278
+How can I help you, Lieutenant?
+
+342
+00:29:18,099 --> 00:29:21,201
+I need to ask you a few
+questions about Discovery.
+
+343
+00:29:21,202 --> 00:29:23,336
+What would you like to know first?
+
+344
+00:29:23,337 --> 00:29:24,537
+What's their objective?
+
+345
+00:29:24,538 --> 00:29:26,339
+What are they doing
+up you in space?
+
+346
+00:29:26,340 --> 00:29:29,843
+To collect core samples
+from Centrus B-40.
+
+347
+00:29:29,844 --> 00:29:31,612
+Do you have a Michael C. Gotier
+
+348
+00:29:31,613 --> 00:29:34,615
+as a registered employee
+of the space program?
+
+349
+00:29:34,616 --> 00:29:35,616
+Negative.
+
+350
+00:29:38,519 --> 00:29:40,520
+Well, we found him on the ship.
+
+351
+00:29:40,521 --> 00:29:42,956
+That doesn't correlate
+with current data.
+
+352
+00:29:44,258 --> 00:29:45,492
+List all current information
+
+353
+00:29:45,493 --> 00:29:47,428
+on Lieutenant Colonel
+William T. Marks.
+
+354
+00:29:48,562 --> 00:29:50,097
+William T. Marks has no profile
+
+355
+00:29:50,098 --> 00:29:51,565
+in the current space program.
+
+356
+00:29:52,701 --> 00:29:55,535
+You said the same
+about Lieutenant Gotier.
+
+357
+00:29:55,536 --> 00:29:56,804
+How could they be up in space
+
+358
+00:29:56,805 --> 00:29:58,806
+and you have not have
+a record of it, Lesli?
+
+359
+00:29:58,807 --> 00:29:59,907
+They were never registered
+
+360
+00:29:59,908 --> 00:30:01,375
+in the current space program.
+
+361
+00:30:11,686 --> 00:30:12,787
+Alex, anything new?
+
+362
+00:30:13,755 --> 00:30:15,956
+Workin' on it, Giles.
+
+363
+00:30:15,957 --> 00:30:18,291
+I'm with Lesli if you need anything.
+
+364
+00:30:18,292 --> 00:30:19,927
+Mm-hmm.
+
+365
+00:30:19,928 --> 00:30:23,163
+Okay, let's get back to
+Discovery 18 for a moment.
+
+366
+00:30:23,164 --> 00:30:25,232
+Who was the last
+company that owned her?
+
+367
+00:30:25,233 --> 00:30:26,299
+NASA.
+
+368
+00:30:26,300 --> 00:30:27,968
+What year was that?
+
+369
+00:30:27,969 --> 00:30:29,470
+1992.
+
+370
+00:30:30,939 --> 00:30:33,373
+Did they sell the
+ship to another company?
+
+371
+00:30:33,374 --> 00:30:34,908
+Negative.
+
+372
+00:30:34,909 --> 00:30:37,746
+The ship was registered lost
+after an emergency splashdown.
+
+373
+00:30:38,813 --> 00:30:40,280
+Can you explain?
+
+374
+00:30:40,281 --> 00:30:43,316
+Discovery initiated an
+unscheduled maximum power decent
+
+375
+00:30:43,317 --> 00:30:45,086
+from Centrus B-40.
+
+376
+00:30:46,520 --> 00:30:48,922
+The crew was forced to
+make an emergency landing
+
+377
+00:30:48,923 --> 00:30:51,726
+as a result of multiple
+malfunctions during reentry.
+
+378
+00:30:52,927 --> 00:30:55,628
+Okay, where exactly was that splashdown?
+
+379
+00:30:55,629 --> 00:30:58,932
+126 miles from the Florida coast
+
+380
+00:30:58,933 --> 00:31:01,234
+between Bermuda and Miami.
+
+381
+00:31:05,339 --> 00:31:06,440
+Bermuda Triangle?
+
+382
+00:31:13,848 --> 00:31:14,848
+Goddamn.
+
+383
+00:31:20,989 --> 00:31:21,990
+All right.
+
+384
+00:31:23,424 --> 00:31:24,792
+Anything wants to
+get through that door
+
+385
+00:31:24,793 --> 00:31:27,295
+is gonna have to move
+around 5,000 pounds.
+
+386
+00:31:29,330 --> 00:31:30,330
+Come on.
+
+387
+00:31:31,432 --> 00:31:33,366
+What happened to her crew?
+
+388
+00:31:33,367 --> 00:31:35,703
+Two of the three were recovered.
+
+389
+00:31:40,274 --> 00:31:43,243
+What were the names
+of the two recovered?
+
+390
+00:31:43,244 --> 00:31:44,612
+Captain Blake Schadwell,
+
+391
+00:31:50,551 --> 00:31:52,486
+Lieutenant Colonel William T. Marks.
+
+392
+00:31:58,526 --> 00:32:01,694
+What was the name of the
+astronaut not recovered?
+
+393
+00:32:01,695 --> 00:32:03,696
+Michael C. Gotier.
+
+394
+00:32:11,906 --> 00:32:13,841
+What'd you find out?
+
+395
+00:32:15,576 --> 00:32:17,411
+Well, there's no foreign virus.
+
+396
+00:32:18,747 --> 00:32:21,414
+C count appears normal.
+
+397
+00:32:21,415 --> 00:32:22,917
+There's no plasma obstruction.
+
+398
+00:32:24,318 --> 00:32:25,619
+For want of a better word,
+
+399
+00:32:28,156 --> 00:32:29,589
+he checks out normal.
+
+400
+00:32:31,125 --> 00:32:33,661
+Yeah, except for a huge hole
+in the middle of his stomach.
+
+401
+00:32:35,964 --> 00:32:38,166
+This is the weirdest
+suicide I've ever seen.
+
+402
+00:32:39,200 --> 00:32:40,401
+It was not a suicide.
+
+403
+00:32:41,870 --> 00:32:43,971
+Every sharp instrument leaves
+
+404
+00:32:43,972 --> 00:32:46,339
+some metallic residue.
+
+405
+00:32:46,340 --> 00:32:48,308
+But the wound is absolutely sterile.
+
+406
+00:32:48,309 --> 00:32:51,344
+And the shape of it
+it's a perfect triangle,
+
+407
+00:32:51,345 --> 00:32:52,781
+and I mean perfect.
+
+408
+00:32:55,549 --> 00:32:57,218
+There's no way it's self inflicted.
+
+409
+00:33:05,459 --> 00:33:08,997
+Alright, can I see a graph
+of Centrus B-40, please?
+
+410
+00:33:12,566 --> 00:33:15,403
+Now visualize the Bermuda Triangle.
+
+411
+00:33:16,971 --> 00:33:20,074
+And give me an indicator
+light of Discovery splashdown.
+
+412
+00:33:26,314 --> 00:33:30,450
+Now draw a line from Discovery's
+location on the moon
+
+413
+00:33:30,451 --> 00:33:31,820
+to their splashdown area.
+
+414
+00:33:43,664 --> 00:33:46,000
+Where is Spacecore One
+in relation to all this?
+
+415
+00:33:49,803 --> 00:33:51,138
+Jesus.
+
+416
+00:34:30,111 --> 00:34:31,111
+Shit.
+
+417
+00:34:40,088 --> 00:34:42,923
+Alex!
+
+418
+00:34:42,924 --> 00:34:43,924
+No!
+
+419
+00:34:45,026 --> 00:34:48,862
+Somebody help me!
+
+420
+00:34:53,401 --> 00:34:54,401
+No!
+
+421
+00:34:57,505 --> 00:35:01,041
+Somebody help me!
+
+422
+00:35:01,042 --> 00:35:02,042
+Help!
+
+423
+00:35:03,377 --> 00:35:05,845
+Yell as loud as you want.
+
+424
+00:35:05,846 --> 00:35:07,515
+No one can hear you.
+
+425
+00:35:15,889 --> 00:35:17,058
+Who are you?
+
+426
+00:35:21,729 --> 00:35:23,131
+What do you want?
+
+427
+00:35:26,100 --> 00:35:28,235
+I have many names.
+
+428
+00:35:28,236 --> 00:35:31,172
+And I've come to take what is mine.
+
+429
+00:35:54,028 --> 00:35:58,032
+At last, the day of
+reckoning is upon you all.
+
+430
+00:35:59,000 --> 00:36:00,600
+No, no!
+
+431
+00:36:00,601 --> 00:36:01,602
+No!
+
+432
+00:36:02,503 --> 00:36:04,704
+No!
+
+433
+00:36:12,846 --> 00:36:14,782
+You belong to me now.
+
+434
+00:36:18,086 --> 00:36:19,086
+Alex!
+
+435
+00:36:21,789 --> 00:36:23,124
+Here's wisdom.
+
+436
+00:36:24,492 --> 00:36:26,659
+Let him that hath understanding
+
+437
+00:36:26,660 --> 00:36:28,997
+count the number of my name.
+
+438
+00:36:29,863 --> 00:36:30,863
+Alex!
+
+439
+00:36:35,936 --> 00:36:37,138
+Everyone to medical now!
+
+440
+00:36:50,684 --> 00:36:52,719
+No, well, just wait a minute.
+
+441
+00:36:52,720 --> 00:36:54,187
+What are you doing let go of me!
+
+442
+00:36:54,188 --> 00:36:55,155
+She's hurt!
+
+443
+00:36:55,156 --> 00:36:56,556
+Nobody is goin' in there.
+
+444
+00:36:56,557 --> 00:36:57,557
+What is it?
+
+445
+00:37:00,194 --> 00:37:01,595
+Gotier is not dead.
+
+446
+00:37:03,197 --> 00:37:04,665
+What are you talking about?
+
+447
+00:37:07,000 --> 00:37:09,370
+He got off the table,
+and he came after Alex.
+
+448
+00:37:10,538 --> 00:37:11,638
+Bullshit, man, you're losin' it.
+
+449
+00:37:11,639 --> 00:37:12,973
+Let me in there.
+
+450
+00:37:14,275 --> 00:37:16,309
+You do that again and
+I'll kick your ass.
+
+451
+00:37:16,310 --> 00:37:17,944
+I don't care what rank you are.
+
+452
+00:37:17,945 --> 00:37:19,812
+Look take it easy, Jennings.
+
+453
+00:37:19,813 --> 00:37:21,481
+I'm just tellin' you what I saw.
+
+454
+00:37:21,482 --> 00:37:23,450
+Giles, we just can't
+keep standing around.
+
+455
+00:37:23,451 --> 00:37:25,785
+Now what is it that
+you propose we do?
+
+456
+00:37:25,786 --> 00:37:26,854
+Just wait a minute.
+
+457
+00:37:28,021 --> 00:37:30,324
+Let me go in there first, okay?
+
+458
+00:37:34,128 --> 00:37:35,128
+Let him go.
+
+459
+00:38:06,194 --> 00:38:07,026
+He's flipped.
+
+460
+00:38:07,027 --> 00:38:08,328
+He's completely flipped.
+
+461
+00:38:08,329 --> 00:38:09,830
+Calm down.
+No, he's nuts.
+
+462
+00:38:25,979 --> 00:38:28,315
+He looks pretty dead to me, Giles.
+
+463
+00:38:28,316 --> 00:38:30,451
+He had his hands
+right around her throat.
+
+464
+00:38:33,454 --> 00:38:35,021
+How's she doin'?
+
+465
+00:38:35,022 --> 00:38:36,190
+She's unconscious.
+
+466
+00:38:38,892 --> 00:38:40,527
+Maybe she took a fall?
+
+467
+00:38:40,528 --> 00:38:41,794
+You know what, you guys
+aren't listenin' to me.
+
+468
+00:38:41,795 --> 00:38:43,963
+She didn't take a goddamn fall!
+
+469
+00:38:43,964 --> 00:38:46,534
+I saw him pull her face
+inside his stomach!
+
+470
+00:38:49,537 --> 00:38:51,471
+He wouldn't let me out
+of the computer room.
+
+471
+00:38:51,472 --> 00:38:52,772
+He was lookin' right at me?
+
+472
+00:38:52,773 --> 00:38:54,207
+Who?
+
+473
+00:38:54,208 --> 00:38:55,409
+Who was looking at you?
+
+474
+00:38:56,277 --> 00:38:57,277
+Gotier.
+
+475
+00:38:58,746 --> 00:39:00,213
+We'll let the doc handle this.
+
+476
+00:39:00,214 --> 00:39:02,515
+Jennings, I need you to give
+me a hand with the body.
+
+477
+00:39:02,516 --> 00:39:04,484
+We're gonna take him down to vaporization.
+
+478
+00:39:04,485 --> 00:39:06,085
+Uh-uh, I ain't goin' in there.
+
+479
+00:39:06,086 --> 00:39:07,488
+That guy's fuckin' crazy.
+
+480
+00:39:08,756 --> 00:39:09,923
+Get your ass in here.
+
+481
+00:39:11,925 --> 00:39:13,693
+Paxton, I want you to
+check the circuit tracers.
+
+482
+00:39:13,694 --> 00:39:14,695
+All right.
+
+483
+00:39:16,264 --> 00:39:17,544
+Hey, come on, come on.
+
+484
+00:39:18,732 --> 00:39:20,267
+If we don't get those
+thrusters up,
+
+485
+00:39:20,268 --> 00:39:22,869
+we're gonna be meeting the
+man on the moon in person.
+
+486
+00:39:31,612 --> 00:39:33,814
+Listen, I'm gonna tell
+you this as a friend.
+
+487
+00:39:35,216 --> 00:39:38,886
+What you've been saying is
+just a little hard to swallow.
+
+488
+00:39:40,654 --> 00:39:44,524
+We've all suffered a
+sustained lack of oxygen,
+
+489
+00:39:44,525 --> 00:39:46,893
+and we've all been
+under a bit of pressure.
+
+490
+00:39:46,894 --> 00:39:48,995
+Gotier went into her.
+
+491
+00:39:48,996 --> 00:39:50,530
+I saw it.
+
+492
+00:39:50,531 --> 00:39:52,833
+Alright, then let me tell
+you something as your doctor.
+
+493
+00:39:54,167 --> 00:39:56,002
+You take a breather.
+
+494
+00:39:56,003 --> 00:39:57,605
+There's nothing you can do here.
+
+495
+00:39:58,606 --> 00:40:02,209
+Now look I'll run some tests.
+
+496
+00:40:02,210 --> 00:40:03,411
+See what I can find out.
+
+497
+00:40:05,145 --> 00:40:06,145
+Okay?
+
+498
+00:40:09,550 --> 00:40:10,550
+Okay.
+
+499
+00:40:16,056 --> 00:40:17,625
+Just promise me one thing.
+
+500
+00:40:18,826 --> 00:40:20,193
+Don't undo the straps.
+
+501
+00:40:21,495 --> 00:40:23,263
+Alright, I promise.
+
+502
+00:40:23,264 --> 00:40:26,367
+Dreyfuss, I know
+what I'm talkin' about.
+
+503
+00:40:27,368 --> 00:40:28,536
+I said I promise.
+
+504
+00:40:40,714 --> 00:40:41,914
+Okay, Lesli.
+
+505
+00:40:41,915 --> 00:40:43,484
+Let's pick up where we left off.
+
+506
+00:40:46,053 --> 00:40:47,420
+Give me a visual history of all
+
+507
+00:40:47,421 --> 00:40:49,156
+the disappearances in the Triangle.
+
+508
+00:40:51,425 --> 00:40:52,860
+Maybe we'll find a pattern.
+
+509
+00:40:55,829 --> 00:41:00,734
+The year 1502 the vessel
+Gallipo lost, 16 men onboard.
+
+510
+00:41:02,270 --> 00:41:07,275
+The year 1926 the
+Japanese tanker Maya lost,
+
+511
+00:41:07,875 --> 00:41:08,975
+100 men onboard.
+
+512
+00:41:08,976 --> 00:41:10,811
+The year 1945.
+Okay, I get the point.
+
+513
+00:41:12,012 --> 00:41:15,315
+Lesli, is there any logical explanation
+
+514
+00:41:15,316 --> 00:41:18,118
+for Discovery's disappearance
+into the Bermuda Triangle?
+
+515
+00:41:19,387 --> 00:41:21,655
+No logical explanation exists.
+
+516
+00:41:24,925 --> 00:41:26,860
+Alright, forget about logic.
+
+517
+00:41:27,895 --> 00:41:29,062
+How about speculation?
+
+518
+00:41:30,464 --> 00:41:34,166
+That an undefined energy
+of massive proportion
+
+519
+00:41:34,167 --> 00:41:38,638
+has the ability to seize
+as random any object
+
+520
+00:41:38,639 --> 00:41:41,073
+and transport it without detection
+
+521
+00:41:41,074 --> 00:41:42,876
+to an unknown destination.
+
+522
+00:41:44,211 --> 00:41:46,646
+Could this be directed by an alien
+
+523
+00:41:46,647 --> 00:41:51,619
+possibly from some different
+dimension or galaxy?
+
+524
+00:41:52,820 --> 00:41:54,321
+There has never been any contact
+
+525
+00:41:54,322 --> 00:41:59,092
+with alien life forms in
+the space program thus far.
+
+526
+00:42:05,699 --> 00:42:07,233
+Giles, come on down here.
+
+527
+00:42:07,234 --> 00:42:08,901
+Something's happening with Alex.
+
+528
+00:42:21,882 --> 00:42:22,849
+Oh, god.
+
+529
+00:42:22,850 --> 00:42:24,250
+Oh, my god.
+
+530
+00:42:43,537 --> 00:42:45,071
+What is it?
+
+531
+00:42:45,072 --> 00:42:46,739
+Oh, well a couple of minutes
+ago her heart started racing,
+
+532
+00:42:46,740 --> 00:42:49,175
+so I gave her 200 milligrams
+of Verapamil.
+
+533
+00:42:49,176 --> 00:42:50,477
+Here look at this.
+
+534
+00:42:50,478 --> 00:42:51,711
+This is 280 beats a minute.
+
+535
+00:42:51,712 --> 00:42:52,979
+I mean her blood pressure is
+so high,
+
+536
+00:42:52,980 --> 00:42:54,981
+she could explode a tire.
+
+537
+00:42:54,982 --> 00:42:55,982
+What's goin' on?
+
+538
+00:42:57,918 --> 00:42:58,918
+I don't know look.
+
+539
+00:43:01,254 --> 00:43:02,254
+No wait.
+
+540
+00:43:03,991 --> 00:43:05,158
+This is wrong.
+
+541
+00:43:06,894 --> 00:43:09,630
+Set position indicator.
+
+542
+00:43:10,798 --> 00:43:13,866
+No, no, no, this is wrong.
+
+543
+00:43:13,867 --> 00:43:16,335
+Tracking is true.
+
+544
+00:43:16,336 --> 00:43:17,336
+She's back.
+
+545
+00:43:22,375 --> 00:43:23,444
+She's back to normal.
+
+546
+00:43:24,311 --> 00:43:25,879
+Well, what's wrong with that?
+
+547
+00:43:26,947 --> 00:43:28,180
+It's medically impossible.
+
+548
+00:43:28,181 --> 00:43:29,749
+The human anatomy is
+not meant to withstand
+
+549
+00:43:29,750 --> 00:43:31,284
+the heartbeat of a hummingbird.
+
+550
+00:43:32,119 --> 00:43:33,119
+She should be dead.
+
+551
+00:43:39,359 --> 00:43:40,561
+She's still unconscious.
+
+552
+00:43:45,899 --> 00:43:48,535
+Talk to me what just happened here?
+
+553
+00:43:48,536 --> 00:43:53,541
+Well, possibly a severe seizure
+
+554
+00:43:54,708 --> 00:43:56,109
+or a very bizarre cardiac arrest,
+
+555
+00:43:59,046 --> 00:44:00,448
+a series of aneurysms.
+
+556
+00:44:01,882 --> 00:44:03,883
+To tell you the truth
+I don't have a clue.
+
+557
+00:44:03,884 --> 00:44:05,184
+Well, I do.
+
+558
+00:44:05,185 --> 00:44:07,520
+There's somethin' inside of her.
+
+559
+00:44:07,521 --> 00:44:08,922
+You still think I'll crazy!
+
+560
+00:44:10,724 --> 00:44:12,224
+Keep the straps on her.
+
+561
+00:44:12,225 --> 00:44:14,261
+Nobody comes in this room
+until we find out more.
+
+562
+00:44:16,196 --> 00:44:18,566
+There's somethin' about
+Discovery you should know.
+
+563
+00:44:24,071 --> 00:44:25,271
+Bullshit.
+
+564
+00:44:25,272 --> 00:44:26,606
+Come on that ship splashed down
+
+565
+00:44:26,607 --> 00:44:28,440
+the Bermuda Triangle..
+30 years ago.
+
+566
+00:44:28,441 --> 00:44:30,009
+What's it doin' up in space?
+
+567
+00:44:30,010 --> 00:44:31,478
+Look, there's no way that ship
+
+568
+00:44:31,479 --> 00:44:33,245
+took a splash into the Atlantic.
+
+569
+00:44:33,246 --> 00:44:35,082
+It's a typical computer error, Giles.
+
+570
+00:44:37,284 --> 00:44:39,185
+Look we don't have time to
+be dickin' around with this.
+
+571
+00:44:39,186 --> 00:44:40,853
+We got bigger programs.
+
+572
+00:44:40,854 --> 00:44:42,590
+Thrusters are still malfunctioning.
+
+573
+00:44:43,657 --> 00:44:45,558
+Then how do you explain Alex?
+
+574
+00:44:45,559 --> 00:44:47,059
+I don't.
+
+575
+00:44:47,060 --> 00:44:48,360
+But we're not gonna get any answers
+
+576
+00:44:48,361 --> 00:44:49,930
+unless we get this baby moving.
+
+577
+00:44:52,032 --> 00:44:54,433
+Okay, it has to be a relay block.
+
+578
+00:44:54,434 --> 00:44:56,570
+They're not gettin'
+the message to fire up.
+
+579
+00:44:59,372 --> 00:45:01,373
+I have Jennings checking on
+'em now.
+
+580
+00:45:01,374 --> 00:45:03,109
+Anyway I have to see
+what I can salvage
+
+581
+00:45:03,110 --> 00:45:04,276
+from this other ship.
+
+582
+00:45:04,277 --> 00:45:05,778
+If it's our relays that are nonfunctional,
+
+583
+00:45:05,779 --> 00:45:07,279
+maybe we can use theirs.
+
+584
+00:45:07,280 --> 00:45:09,315
+Wait a minute you're not
+goin' back on that ship?
+
+585
+00:45:09,316 --> 00:45:11,918
+Will you cut it out
+with this sci-fi bullshit.
+
+586
+00:45:11,919 --> 00:45:13,653
+We need the goddamn relays.
+
+587
+00:45:13,654 --> 00:45:14,587
+But even if you find them,
+
+588
+00:45:14,588 --> 00:45:16,422
+it might be completely outdated.
+
+589
+00:45:16,423 --> 00:45:18,424
+We don't have much of a choice.
+
+590
+00:45:18,425 --> 00:45:20,660
+Our orbit is getting
+tighter and tighter.
+
+591
+00:45:20,661 --> 00:45:23,095
+We're less than a thousand
+miles from the surface.
+
+592
+00:45:23,096 --> 00:45:26,667
+If we don't get this ship
+moving, we impact in 13 hours.
+
+593
+00:45:27,801 --> 00:45:28,901
+Alright, then I'm going with you.
+
+594
+00:45:28,902 --> 00:45:30,436
+No, I need you to stay here
+
+595
+00:45:30,437 --> 00:45:33,139
+to run the compatibilities
+once I find them.
+
+596
+00:45:33,140 --> 00:45:34,341
+It'll save us some time.
+
+597
+00:45:56,396 --> 00:45:58,364
+Giles, are you reading me?
+
+598
+00:45:58,365 --> 00:45:59,532
+Yeah, Flynn, go ahead.
+
+599
+00:46:16,984 --> 00:46:18,619
+I'm going into their computer now.
+
+600
+00:46:26,526 --> 00:46:27,526
+Anything?
+
+601
+00:46:28,862 --> 00:46:30,163
+I'm still checking.
+
+602
+00:46:35,035 --> 00:46:37,270
+Come on where are you guys?
+
+603
+00:46:40,440 --> 00:46:43,043
+Bingo, I found the geo relay system.
+
+604
+00:46:44,645 --> 00:46:47,847
+Giles, I'm headed
+for the third level.
+
+605
+00:46:47,848 --> 00:46:48,848
+Roger.
+
+606
+00:46:51,284 --> 00:46:52,986
+Hey, you wanna hear
+somethin' for real.
+
+607
+00:46:53,921 --> 00:46:55,988
+I locked into the satellite,
+
+608
+00:46:55,989 --> 00:46:58,725
+a little reprogramming
+to change its orbit,
+
+609
+00:46:58,726 --> 00:47:00,359
+and so telephone home.
+
+610
+00:47:00,360 --> 00:47:01,828
+Jennings we don't have three days
+
+611
+00:47:01,829 --> 00:47:03,230
+for somebody to get up here.
+
+612
+00:47:05,398 --> 00:47:06,700
+It's worth a try, Giles.
+
+613
+00:47:31,024 --> 00:47:32,025
+Flynn, what is it?
+
+614
+00:47:35,328 --> 00:47:37,263
+What is it, Flynn?
+
+615
+00:47:37,264 --> 00:47:40,600
+Geez, it's like a goddamn
+fish tank in here.
+
+616
+00:47:44,004 --> 00:47:45,004
+Salt water.
+
+617
+00:47:46,740 --> 00:47:47,740
+Salt water.
+
+618
+00:47:50,577 --> 00:47:52,713
+Seaweed, shit, everywhere.
+
+619
+00:47:59,552 --> 00:48:02,454
+What the hell is salt
+water doin' on this ship?
+
+620
+00:48:02,455 --> 00:48:03,757
+Flynn, get out of there!
+
+621
+00:48:05,693 --> 00:48:06,525
+Everything's rusty.
+
+622
+00:48:06,526 --> 00:48:08,194
+Hey, I see the relays.
+
+623
+00:48:08,195 --> 00:48:09,528
+Flynn, get out of there now!
+
+624
+00:48:09,529 --> 00:48:10,763
+What is it?
+
+625
+00:48:10,764 --> 00:48:13,365
+What the hell are you doin' here?
+
+626
+00:48:13,366 --> 00:48:14,834
+Flynn!
+Oh, Jesus, let me go!
+
+627
+00:48:14,835 --> 00:48:15,835
+Flynn!
+
+628
+00:48:16,704 --> 00:48:17,837
+Son of a bitch.
+
+629
+00:48:17,838 --> 00:48:18,670
+What is it?
+
+630
+00:48:18,671 --> 00:48:19,671
+Come with me.
+
+631
+00:48:55,408 --> 00:48:56,543
+Something's in there.
+
+632
+00:49:00,580 --> 00:49:01,580
+No shit.
+
+633
+00:49:12,392 --> 00:49:14,560
+Giles, no wait!
+
+634
+00:49:18,365 --> 00:49:19,365
+No.
+
+635
+00:49:21,334 --> 00:49:23,736
+I can't get the hatch opened!
+
+636
+00:49:25,839 --> 00:49:28,207
+There's gotta be another way inside.
+
+637
+00:49:28,208 --> 00:49:29,208
+Find it!
+
+638
+00:50:37,010 --> 00:50:38,344
+What happened?
+
+639
+00:50:38,345 --> 00:50:40,579
+I felt something.
+
+640
+00:50:40,580 --> 00:50:42,449
+What did you fire at?
+
+641
+00:50:43,516 --> 00:50:45,117
+I don't know.
+
+642
+00:50:46,319 --> 00:50:48,687
+I had this feeling.
+
+643
+00:50:48,688 --> 00:50:49,756
+I just fired.
+
+644
+00:50:55,896 --> 00:50:57,730
+You were in here first.
+
+645
+00:50:59,432 --> 00:51:00,833
+Where were you all this time?
+
+646
+00:51:21,521 --> 00:51:22,521
+Dreyfuss.
+
+647
+00:51:23,590 --> 00:51:24,892
+Now don't get weird on me.
+
+648
+00:51:27,127 --> 00:51:28,127
+Okay?
+
+649
+00:51:29,930 --> 00:51:31,164
+Let's go find Flynn.
+
+650
+00:52:00,660 --> 00:52:02,662
+What the hell does this?
+
+651
+00:52:59,719 --> 00:53:00,853
+I knew you'd come.
+
+652
+00:53:02,722 --> 00:53:03,790
+Come closer.
+
+653
+00:53:05,225 --> 00:53:06,826
+I've always wanted you.
+
+654
+00:53:10,797 --> 00:53:13,533
+You have what I desperately desire.
+
+655
+00:53:19,739 --> 00:53:22,541
+There are things I can give you
+
+656
+00:53:22,542 --> 00:53:25,178
+beyond your wildest dreams.
+
+657
+00:53:49,836 --> 00:53:50,836
+My god.
+
+658
+00:54:08,188 --> 00:54:10,056
+It's just like Gotier.
+
+659
+00:54:16,329 --> 00:54:17,329
+Alex.
+
+660
+00:55:11,484 --> 00:55:12,484
+Yes.
+
+661
+00:55:20,327 --> 00:55:21,927
+Yes.
+
+662
+00:55:21,928 --> 00:55:22,928
+Oh, yes.
+
+663
+00:55:43,950 --> 00:55:45,484
+Oh, yeah.
+
+664
+00:55:45,485 --> 00:55:46,485
+Yeah.
+
+665
+00:55:47,554 --> 00:55:48,554
+Yes.
+
+666
+00:56:04,637 --> 00:56:06,873
+At last, you have weakened.
+
+667
+00:56:10,543 --> 00:56:12,279
+Now you belong to me.
+
+668
+00:56:22,655 --> 00:56:23,655
+Forever.
+
+669
+00:56:31,964 --> 00:56:33,400
+Get to medical.
+
+670
+00:56:48,315 --> 00:56:49,649
+So much blood.
+
+671
+00:56:50,683 --> 00:56:53,018
+Remember he had so much blood.
+
+672
+00:56:53,019 --> 00:56:54,221
+Goddamn you, Jennings!
+
+673
+00:57:01,394 --> 00:57:03,194
+You let it out didn't you?
+
+674
+00:57:03,195 --> 00:57:04,431
+You fuckin' let it out!
+
+675
+00:57:05,298 --> 00:57:07,567
+No, I just got here.
+
+676
+00:57:08,735 --> 00:57:10,703
+I just came down to
+see how she was doin'.
+
+677
+00:57:12,705 --> 00:57:13,873
+The door was opened.
+
+678
+00:57:15,375 --> 00:57:16,476
+I went in and saw her.
+
+679
+00:57:19,078 --> 00:57:20,679
+Triangle.
+
+680
+00:57:22,749 --> 00:57:23,749
+What is it?
+
+681
+00:57:28,788 --> 00:57:30,021
+What's goin' on?
+
+682
+00:57:30,022 --> 00:57:32,858
+You opened the door
+and that's all it took.
+
+683
+00:57:32,859 --> 00:57:35,894
+What in the hell
+are you talking about?
+
+684
+00:57:35,895 --> 00:57:37,196
+Where the hell were you?
+
+685
+00:57:39,999 --> 00:57:42,001
+Are you accusing me of this?
+
+686
+00:57:45,272 --> 00:57:48,541
+I've had just about
+enough of your insanity.
+
+687
+00:57:51,010 --> 00:57:52,612
+Alright, just hold it, Paxton.
+
+688
+00:57:54,146 --> 00:57:55,247
+Flynn is dead too.
+
+689
+00:57:58,250 --> 00:58:00,452
+Oh, my god.
+
+690
+00:58:00,453 --> 00:58:01,854
+Captain?
+Yes.
+
+691
+00:58:04,491 --> 00:58:05,491
+Where was he?
+
+692
+00:58:06,926 --> 00:58:08,528
+On the other ship.
+Captain.
+
+693
+00:58:09,562 --> 00:58:10,562
+The other ship?
+
+694
+00:58:18,204 --> 00:58:19,204
+Ooh.
+
+695
+00:58:21,341 --> 00:58:25,111
+Alright, everybody up to the bridge.
+
+696
+00:58:26,112 --> 00:58:27,112
+Jennings.
+
+697
+00:58:28,915 --> 00:58:29,916
+It's okay come on.
+
+698
+00:58:31,984 --> 00:58:32,984
+Now.
+
+699
+00:58:52,705 --> 00:58:54,573
+Ooh, ooh take it easy.
+Now!
+
+700
+00:58:54,574 --> 00:58:56,775
+Whoa, whoa!
+Take it easy.
+
+701
+00:58:56,776 --> 00:58:57,776
+Paxton,
+
+702
+00:58:59,446 --> 00:59:00,612
+hand it over.
+
+703
+00:59:00,613 --> 00:59:01,914
+Not on your life.
+
+704
+00:59:03,082 --> 00:59:04,851
+And it very well may come to that.
+
+705
+00:59:07,554 --> 00:59:09,955
+You know something, Giles,
+I've been thinking.
+
+706
+00:59:09,956 --> 00:59:13,659
+While we were here, working
+very hard I might add,
+
+707
+00:59:13,660 --> 00:59:15,061
+you were on that other ship.
+
+708
+00:59:16,529 --> 00:59:18,097
+Yeah, where Flynn was killed.
+
+709
+00:59:21,534 --> 00:59:23,570
+Hey, wait a minute this clip's empty.
+
+710
+00:59:24,804 --> 00:59:25,804
+Figures.
+
+711
+00:59:27,239 --> 00:59:28,808
+What happened on the other ship?
+
+712
+00:59:29,709 --> 00:59:30,809
+I don't know.
+
+713
+00:59:30,810 --> 00:59:32,378
+I don't, really.
+
+714
+00:59:32,379 --> 00:59:35,080
+I just felt something so I fired.
+
+715
+00:59:35,081 --> 00:59:36,248
+What was it?
+
+716
+00:59:37,249 --> 00:59:38,717
+What was it?
+Goddamn it, Jennings.
+
+717
+00:59:38,718 --> 00:59:39,951
+I don't know man.
+
+718
+00:59:39,952 --> 00:59:41,453
+I don't know either
+just take it easy.
+
+719
+00:59:41,454 --> 00:59:42,954
+That's right.
+
+720
+00:59:42,955 --> 00:59:44,991
+Because he wasn't
+there we got separated.
+
+721
+00:59:47,126 --> 00:59:48,594
+Separated?
+
+722
+00:59:48,595 --> 00:59:50,496
+Long enough for him to
+double back and kill Alex?
+
+723
+00:59:50,497 --> 00:59:51,497
+I don't know.
+
+724
+00:59:54,000 --> 00:59:58,036
+I didn't kill Alex or anyone else.
+
+725
+01:00:02,341 --> 01:00:04,610
+Do it, waste the motherfucker.
+
+726
+01:00:04,611 --> 01:00:06,144
+Go ahead kill him!
+
+727
+01:00:06,145 --> 01:00:09,648
+Go ahead he was there with
+Flynn when they found Gotier.
+
+728
+01:00:09,649 --> 01:00:11,750
+That's why he wasted Flynn.
+
+729
+01:00:11,751 --> 01:00:12,684
+Go ahead!
+
+730
+01:00:12,685 --> 01:00:14,586
+Look just because I was there
+
+731
+01:00:14,587 --> 01:00:16,255
+does not mean that I did it.
+
+732
+01:00:17,690 --> 01:00:21,260
+Precisely, we can't be
+sure it was anyway of us.
+
+733
+01:00:22,429 --> 01:00:25,797
+Any one of us could
+be innocent or guilty.
+
+734
+01:00:25,798 --> 01:00:28,867
+Lieutenant Giles,
+say hello to your judge,
+
+735
+01:00:28,868 --> 01:00:30,102
+jury, and executioner.
+
+736
+01:00:31,103 --> 01:00:32,839
+Jesus, don't shoot him!
+
+737
+01:00:38,110 --> 01:00:39,679
+Do it, whack the motherfucker.
+
+738
+01:00:42,014 --> 01:00:44,249
+I didn't kill anybody.
+
+739
+01:00:51,423 --> 01:00:53,358
+If you really think it was me,
+
+740
+01:00:58,665 --> 01:00:59,699
+then you shoot me.
+
+741
+01:01:00,800 --> 01:01:01,800
+Go ahead.
+
+742
+01:01:11,511 --> 01:01:14,547
+Well, you might as
+well shoot us all.
+
+743
+01:01:34,000 --> 01:01:35,400
+Okay, Lesli.
+
+744
+01:01:35,401 --> 01:01:37,604
+Let's take another look
+at those lost ships.
+
+745
+01:01:38,771 --> 01:01:41,207
+There must be over 500
+vessels listed as lost.
+
+746
+01:01:42,274 --> 01:01:45,243
+665 to be exact.
+
+747
+01:01:45,244 --> 01:01:46,879
+Lucky us.
+
+748
+01:01:47,914 --> 01:01:49,782
+We would be 666.
+
+749
+01:01:52,619 --> 01:01:54,686
+That is correct.
+
+750
+01:02:03,495 --> 01:02:05,030
+Leave the triangle and remove
+
+751
+01:02:05,031 --> 01:02:06,533
+all the numerals and graphics.
+
+752
+01:02:08,067 --> 01:02:09,334
+Give me the longitude and latitude
+
+753
+01:02:09,335 --> 01:02:10,837
+of each point on the triangle.
+
+754
+01:02:16,609 --> 01:02:18,377
+Remove all numerals other
+than six.
+
+755
+01:02:34,794 --> 01:02:36,128
+6-6-6.
+
+756
+01:02:37,329 --> 01:02:40,366
+The Holy Bible book
+of Revelations 13:18:
+
+757
+01:02:44,604 --> 01:02:45,872
+6-6-6
+
+758
+01:02:47,907 --> 01:02:49,408
+the mark of the beast.
+
+759
+01:02:55,214 --> 01:02:56,315
+Mark of the beast.
+
+760
+01:03:09,596 --> 01:03:12,264
+Transition avionics secure
+from file.
+
+761
+01:03:22,341 --> 01:03:24,209
+Where have you been?
+
+762
+01:03:24,210 --> 01:03:25,210
+I was with Lesli.
+
+763
+01:03:26,578 --> 01:03:27,980
+Well, what'd you find out?
+
+764
+01:03:30,049 --> 01:03:31,382
+We're on our own.
+
+765
+01:03:36,823 --> 01:03:38,324
+So what are we gonna do now?
+
+766
+01:03:39,792 --> 01:03:42,961
+We still have a couple of
+hours left before we impact.
+
+767
+01:03:42,962 --> 01:03:47,198
+So, I'm gonna go on
+Discovery and get her relays.
+
+768
+01:03:47,199 --> 01:03:48,466
+Say what?
+
+769
+01:03:48,467 --> 01:03:50,702
+Jennings, we gotta
+get the ship moving.
+
+770
+01:03:50,703 --> 01:03:54,105
+Now while I'm gone I want
+you guys to stay together.
+
+771
+01:03:54,106 --> 01:03:55,974
+I don't want us to leave
+one another's sight.
+
+772
+01:03:55,975 --> 01:03:57,476
+You gotta be kiddin' me now.
+
+773
+01:03:59,445 --> 01:04:01,447
+Giles, I hate to bring this up.
+
+774
+01:04:02,348 --> 01:04:03,649
+But with nobody watching you,
+
+775
+01:04:03,650 --> 01:04:07,252
+how can we be sure that
+you won't disconnect
+
+776
+01:04:07,253 --> 01:04:09,621
+and leave us stranded?
+
+777
+01:04:10,790 --> 01:04:12,524
+If I'm not back in 30 minutes,
+
+778
+01:04:13,893 --> 01:04:17,796
+disengage Discovery blow her up.
+
+779
+01:04:17,797 --> 01:04:18,764
+Wait!
+
+780
+01:04:18,765 --> 01:04:20,232
+Whoa, we can't do that.
+
+781
+01:04:21,267 --> 01:04:22,267
+Yes, we can.
+
+782
+01:04:23,402 --> 01:04:24,402
+The satellite.
+
+783
+01:04:25,838 --> 01:04:28,239
+We lock in Discovery's coordinates.
+
+784
+01:04:28,240 --> 01:04:29,475
+Then after a little drift
+
+785
+01:04:30,476 --> 01:04:32,210
+she'll get a nice nuclear blast.
+
+786
+01:04:32,211 --> 01:04:33,211
+No.
+
+787
+01:04:34,881 --> 01:04:35,881
+I'll show you.
+
+788
+01:04:39,986 --> 01:04:41,520
+Verify helix angle.
+
+789
+01:04:46,625 --> 01:04:48,160
+Lock Polaris as in.
+
+790
+01:05:04,476 --> 01:05:06,545
+Recon rotation complete.
+
+791
+01:05:09,882 --> 01:05:10,882
+She's all ready.
+
+792
+01:05:12,919 --> 01:05:14,520
+Now we just push this key here.
+
+793
+01:05:16,723 --> 01:05:18,290
+The ships will disengage.
+
+794
+01:05:20,727 --> 01:05:21,727
+Goodbye, Discovery.
+
+795
+01:05:23,863 --> 01:05:24,931
+Give me 30 minutes.
+
+796
+01:05:26,398 --> 01:05:29,601
+If I'm not back, seal off
+the airlock and disengage.
+
+797
+01:05:32,171 --> 01:05:33,806
+Giles, these ships separate,
+
+798
+01:05:35,274 --> 01:05:36,942
+they'll be no coming back.
+
+799
+01:05:36,943 --> 01:05:38,110
+Give me a mark at 30.
+
+800
+01:05:40,012 --> 01:05:42,548
+Three, two, one, mark.
+
+801
+01:08:20,072 --> 01:08:24,775
+I just got this feeling
+that whatever it was got him.
+
+802
+01:08:24,776 --> 01:08:26,912
+Let's just start the
+disengagement process now.
+
+803
+01:08:26,913 --> 01:08:28,313
+Nobody's gonna do anything!
+
+804
+01:08:28,314 --> 01:08:30,950
+He said 30 minutes god dammit,
+and he's gonna get it.
+
+805
+01:09:01,981 --> 01:09:03,514
+He has five more minutes!
+
+806
+01:09:03,515 --> 01:09:05,751
+Two minutes, Paxton, two minutes!
+
+807
+01:09:47,359 --> 01:09:49,928
+We agreed on 30 minutes time
+is up.
+
+808
+01:09:51,197 --> 01:09:52,697
+We're gonna give
+him five minutes more.
+
+809
+01:09:52,698 --> 01:09:54,632
+You're out of your
+mind let's do it.
+
+810
+01:09:54,633 --> 01:09:56,067
+Jennings, Jennings he's right.
+
+811
+01:09:56,068 --> 01:09:57,536
+He gave me an order!
+
+812
+01:10:04,843 --> 01:10:06,777
+I said five more minutes.
+
+813
+01:10:06,778 --> 01:10:07,978
+No!
+
+814
+01:10:07,979 --> 01:10:09,347
+Missile lock engaged
+
+815
+01:10:09,348 --> 01:10:10,981
+Armed: All warheads.
+
+816
+01:10:14,820 --> 01:10:16,722
+It's not gonna get in here,
+you understand?
+
+817
+01:10:18,424 --> 01:10:20,625
+You all are gonna thank
+you for what I just did.
+
+818
+01:10:20,626 --> 01:10:22,060
+You son of a bitch.
+
+819
+01:10:22,061 --> 01:10:24,995
+Target acquisition designated activated.
+
+820
+01:10:44,783 --> 01:10:48,586
+He should be letting that
+old dog know any moment now.
+
+821
+01:10:49,888 --> 01:10:51,689
+You know Paxton you
+really surprised me.
+
+822
+01:10:51,690 --> 01:10:53,224
+Back where I come from
+that would've been
+
+823
+01:10:53,225 --> 01:10:56,061
+a legit court martial
+dishonorable discharge,
+
+824
+01:10:56,062 --> 01:10:58,430
+bear press and the paper,
+the whole fuckin' deal.
+
+825
+01:11:00,532 --> 01:11:02,400
+Believe me, gettin' rid
+of him and that ship
+
+826
+01:11:02,401 --> 01:11:04,035
+is the best move we could've made.
+
+827
+01:11:17,048 --> 01:11:18,048
+Paxton?
+
+828
+01:11:20,652 --> 01:11:22,188
+What the fuck's wrong with you?
+
+829
+01:11:23,555 --> 01:11:27,658
+The ship's airlock has been breached.
+
+830
+01:11:44,009 --> 01:11:45,243
+What's happenin'?
+
+831
+01:11:45,244 --> 01:11:47,312
+What the hell's happenin'?
+
+832
+01:11:47,313 --> 01:11:50,348
+You don't have the
+guts to use that thing.
+
+833
+01:11:50,349 --> 01:11:52,484
+Why don't you put it down?
+
+834
+01:11:54,353 --> 01:11:55,987
+And kneel before me.
+
+835
+01:11:57,689 --> 01:11:59,857
+Who the hell are you?
+
+836
+01:11:59,858 --> 01:12:01,091
+What do you want from me?
+
+837
+01:12:01,092 --> 01:12:02,928
+Fate it is in the hands of God.
+
+838
+01:12:05,364 --> 01:12:07,599
+But I control your destiny.
+
+839
+01:12:09,901 --> 01:12:11,337
+I'm losing my fuckin' mind.
+
+840
+01:12:12,704 --> 01:12:14,105
+Oh, yes, to me,
+
+841
+01:12:15,474 --> 01:12:17,876
+and I will take what is mine.
+
+842
+01:12:26,518 --> 01:12:27,919
+Open the hatch!
+
+843
+01:12:33,525 --> 01:12:34,525
+I can't!
+
+844
+01:12:36,562 --> 01:12:37,996
+Open the hatch!
+
+845
+01:12:47,138 --> 01:12:48,138
+I can't!
+
+846
+01:12:49,175 --> 01:12:50,842
+Stay the fuck away from me.
+
+847
+01:12:51,910 --> 01:12:52,910
+Put that down.
+
+848
+01:12:54,045 --> 01:12:55,713
+Paxton, back off.
+
+849
+01:12:55,714 --> 01:12:57,448
+I swear to God I'll use this!
+
+850
+01:12:57,449 --> 01:12:58,817
+That's right swear to god.
+
+851
+01:12:59,751 --> 01:13:01,386
+But he can't help you now.
+
+852
+01:13:01,387 --> 01:13:05,123
+You belong to me,
+you weak spineless bastard.
+
+853
+01:13:09,228 --> 01:13:11,028
+If you have the courage to
+shoot me, go ahead shoot.
+
+854
+01:13:11,029 --> 01:13:12,630
+Pull the trigger.
+
+855
+01:13:12,631 --> 01:13:14,566
+You can, you can do it.
+
+856
+01:13:16,034 --> 01:13:17,436
+Pull the trigger.
+
+857
+01:13:24,376 --> 01:13:26,511
+No!
+
+858
+01:13:31,583 --> 01:13:32,583
+Yes!
+
+859
+01:13:40,292 --> 01:13:42,393
+Shoot me.
+
+860
+01:13:42,394 --> 01:13:44,028
+Shoot.
+
+861
+01:13:44,029 --> 01:13:44,895
+Shoot!
+
+862
+01:14:07,819 --> 01:14:09,020
+I told you I'd use it.
+
+863
+01:14:10,456 --> 01:14:12,858
+I told you I'd use it you
+stupid son of a bitch.
+
+864
+01:14:18,497 --> 01:14:19,497
+Jesus.
+
+865
+01:14:21,166 --> 01:14:22,601
+What have I done?
+
+866
+01:14:30,442 --> 01:14:32,844
+Synchronize target lock to TARS.
+
+867
+01:14:34,746 --> 01:14:35,946
+What took you so long?
+
+868
+01:14:35,947 --> 01:14:37,482
+Confidence is high.
+
+869
+01:14:37,483 --> 01:14:38,483
+I don't know.
+
+870
+01:14:40,886 --> 01:14:42,019
+Somethin' was trying to keep me
+
+871
+01:14:42,020 --> 01:14:43,554
+from gettin' back on the ship.
+
+872
+01:14:43,555 --> 01:14:48,059
+Eight, seven, six, five, four,
+three, two, one.
+
+873
+01:14:51,830 --> 01:14:52,931
+Zoom.
+
+874
+01:14:59,505 --> 01:15:02,240
+Secondary target has been neutralized.
+
+875
+01:15:07,346 --> 01:15:08,547
+Thanks, I owe you one.
+
+876
+01:15:14,620 --> 01:15:15,787
+Jennings, Paxton?
+
+877
+01:15:18,724 --> 01:15:19,825
+Jennings, Paxton?
+
+878
+01:15:24,563 --> 01:15:25,563
+Shit.
+
+879
+01:15:41,112 --> 01:15:42,112
+Poor bastard.
+
+880
+01:15:44,916 --> 01:15:47,318
+Alright, listen to me.
+
+881
+01:15:48,319 --> 01:15:49,319
+It was in Paxton.
+
+882
+01:15:50,889 --> 01:15:51,957
+Now it's in Jennings.
+
+883
+01:15:53,324 --> 01:15:55,026
+And we got one hour left.
+
+884
+01:15:56,562 --> 01:15:58,663
+Let's put these relays in,
+
+885
+01:15:58,664 --> 01:16:00,399
+and try to get home, alright?
+
+886
+01:16:02,434 --> 01:16:03,434
+Damn.
+
+887
+01:16:50,716 --> 01:16:52,984
+Get away from me, you motherfucker.
+
+888
+01:17:33,124 --> 01:17:34,124
+What is it?
+
+889
+01:17:35,994 --> 01:17:37,929
+It's what's left of the relay system.
+
+890
+01:17:53,044 --> 01:17:56,882
+(Foreign language)
+
+891
+01:17:58,684 --> 01:17:59,718
+Save the prayers, huh?
+
+892
+01:18:03,354 --> 01:18:04,455
+What's your problem?
+
+893
+01:18:06,324 --> 01:18:08,659
+Prayers don't mean jack shit.
+
+894
+01:18:08,660 --> 01:18:09,860
+They do for me!
+
+895
+01:18:10,762 --> 01:18:12,030
+Whoa!
+Get down!
+
+896
+01:18:17,268 --> 01:18:20,671
+Alright, now there's only two choices.
+
+897
+01:18:20,672 --> 01:18:22,708
+Either he gets us, or we get him.
+
+898
+01:18:25,210 --> 01:18:26,712
+Don't be afraid to use this.
+
+899
+01:18:31,149 --> 01:18:32,651
+Alright, let's go.
+
+900
+01:19:35,146 --> 01:19:37,148
+Oh, my god.
+
+901
+01:20:14,419 --> 01:20:17,021
+Discovery blew up you should
+be dead.
+
+902
+01:20:19,324 --> 01:20:20,324
+Just do it, man.
+
+903
+01:20:21,492 --> 01:20:22,493
+Just fuckin' do it.
+
+904
+01:20:30,769 --> 01:20:31,937
+Shit.
+
+905
+01:21:02,467 --> 01:21:03,467
+My god.
+
+906
+01:21:05,170 --> 01:21:06,170
+You okay?
+
+907
+01:21:08,373 --> 01:21:11,509
+He was gonna kill you.
+
+908
+01:21:14,012 --> 01:21:15,012
+Thanks.
+
+909
+01:21:36,634 --> 01:21:38,136
+What's going on?
+
+910
+01:21:39,137 --> 01:21:40,137
+It stopped.
+
+911
+01:21:43,041 --> 01:21:44,609
+Lesli, give me a status update.
+
+912
+01:21:46,577 --> 01:21:47,577
+Lesli?
+
+913
+01:21:49,981 --> 01:21:50,981
+Lesli?
+
+914
+01:21:54,352 --> 01:21:55,754
+Lesli, it's Giles.
+
+915
+01:21:56,955 --> 01:21:59,357
+Yes, Giles, how may I help you.
+
+916
+01:22:00,826 --> 01:22:02,460
+Give me a status update.
+
+917
+01:22:03,895 --> 01:22:06,397
+The ship has come
+to a complete stand still.
+
+918
+01:22:08,867 --> 01:22:09,867
+Explain.
+
+919
+01:22:10,769 --> 01:22:12,637
+Reason unknown.
+
+920
+01:22:15,206 --> 01:22:17,608
+At least it gives us more time,
+huh, Giles?
+
+921
+01:23:16,902 --> 01:23:18,236
+Something wrong?
+
+922
+01:23:19,204 --> 01:23:21,038
+No, I was just thinking.
+
+923
+01:23:21,039 --> 01:23:22,140
+About what?
+
+924
+01:23:23,574 --> 01:23:26,211
+Well, I think, there's a way
+that we can still get home.
+
+925
+01:23:28,213 --> 01:23:29,213
+Really?
+
+926
+01:23:33,384 --> 01:23:34,384
+How's that?
+
+927
+01:23:35,286 --> 01:23:37,154
+Jennings figured out a way to
+
+928
+01:23:37,155 --> 01:23:38,756
+reprogram into the satellite,
+
+929
+01:23:40,725 --> 01:23:42,160
+send a message to Houston.
+
+930
+01:23:55,907 --> 01:23:57,175
+It's worth a shot, right?
+
+931
+01:23:59,710 --> 01:24:00,710
+True.
+
+932
+01:24:11,322 --> 01:24:13,724
+Lock Polaris as in.
+
+933
+01:24:17,929 --> 01:24:19,931
+Recon rotation complete.
+
+934
+01:24:34,079 --> 01:24:36,214
+You don't believe in God,
+do you Giles?
+
+935
+01:24:41,419 --> 01:24:42,419
+That's strange.
+
+936
+01:24:44,455 --> 01:24:45,456
+You believe in me.
+
+937
+01:24:48,994 --> 01:24:49,995
+I should've known.
+
+938
+01:24:59,137 --> 01:25:00,471
+Why the Bermuda Triangle?
+
+939
+01:25:02,207 --> 01:25:03,808
+Let's just call it convenient.
+
+940
+01:25:07,312 --> 01:25:09,780
+Heaven is a universe but so
+is hell.
+
+941
+01:25:11,917 --> 01:25:13,350
+When God cast me from the heavens,
+
+942
+01:25:13,351 --> 01:25:17,722
+I vowed one day I would
+become more powerful than he.
+
+943
+01:25:19,190 --> 01:25:22,693
+Every soul I take
+strengthens me 100 fold.
+
+944
+01:25:24,162 --> 01:25:25,796
+Every life I destroy
+
+945
+01:25:26,965 --> 01:25:28,833
+lays claim to one more piece
+of heaven
+
+946
+01:25:30,301 --> 01:25:34,638
+till heaven is nothing more
+than a crucible filled with dust
+
+947
+01:25:34,639 --> 01:25:38,443
+which I will break in
+witness of your creator.
+
+948
+01:25:45,150 --> 01:25:47,618
+You don't think I believe
+that shit, do you?
+
+949
+01:25:55,760 --> 01:26:00,698
+What good is wisdom if it
+gives no power to the wise?
+
+950
+01:26:02,100 --> 01:26:05,403
+The moment you questioned
+your faith your soul was mine.
+
+951
+01:26:12,777 --> 01:26:15,579
+You will kneel before me!
+
+952
+01:26:21,486 --> 01:26:22,887
+You had a choice.
+
+953
+01:26:24,422 --> 01:26:26,191
+You all had a choice.
+
+954
+01:26:30,961 --> 01:26:33,163
+No, I still have a choice.
+
+955
+01:26:33,164 --> 01:26:34,664
+Missile lock engaged.
+
+956
+01:26:34,665 --> 01:26:36,533
+Armed: All warheads.
+
+957
+01:26:36,534 --> 01:26:38,236
+Maybe I can't destroy you.
+
+958
+01:26:39,437 --> 01:26:40,671
+But if it's God's will,
+
+959
+01:26:43,008 --> 01:26:44,374
+then so be it.
+
+960
+01:26:44,375 --> 01:26:46,044
+Confidence is high.
+
+961
+01:26:47,412 --> 01:26:48,378
+Time.
+
+962
+01:26:48,379 --> 01:26:49,946
+And if not,
+
+963
+01:26:49,947 --> 01:26:51,848
+then I'll see you in hell.
+
+964
+01:26:51,849 --> 01:26:52,849
+Six,
+
+965
+01:26:54,252 --> 01:26:57,222
+four, three, two, one, zoom.
+
+966
+01:28:05,890 --> 01:28:06,890
+Mayday, Mayday.
+
+967
+01:28:07,925 --> 01:28:09,593
+This is Captain Louis Ramser,
+
+968
+01:28:09,594 --> 01:28:11,028
+of the spaceship Tiberius.
+
+969
+01:28:11,929 --> 01:28:12,929
+Mayday, Mayday.
+
+970
+01:28:14,199 --> 01:28:15,865
+We have lost all power.
+
+971
+01:28:15,866 --> 01:28:17,368
+I'm transmitting on auxiliary.
+
+972
+01:28:18,269 --> 01:28:20,270
+Mayday, Mayday.
+
+973
+01:28:20,271 --> 01:28:23,307
+We are drifting towards
+Centrus B-40.
+
+974
+01:28:23,308 --> 01:28:24,575
+Mayday, Mayday.

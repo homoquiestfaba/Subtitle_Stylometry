@@ -1,0 +1,4770 @@
+﻿1
+00:02:10,760 --> 00:02:11,910
+<i>(DOOR BUZZING)</i>
+
+2
+00:02:26,160 --> 00:02:27,992
+<i>LEO: Dear man in prison,</i>
+
+3
+00:02:28,080 --> 00:02:29,799
+<i>my name is Leopold Bloom,</i>
+
+4
+00:02:29,880 --> 00:02:32,793
+<i>and my life began long before I was born.</i>
+
+5
+00:02:33,320 --> 00:02:35,596
+<i>Mother said I was the seal of her sin,</i>
+
+6
+00:02:36,880 --> 00:02:40,669
+<i>and my aunt just said I was
+a quiet little man who spoke with my eyes.</i>
+
+7
+00:04:11,240 --> 00:04:12,993
+GIL: You just gonna stand there?
+
+8
+00:04:28,200 --> 00:04:31,637
+I know they've given you the whole spiel
+and all about staying clean,
+
+9
+00:04:33,120 --> 00:04:36,272
+but for every two of you I take out,
+I take one back in.
+
+10
+00:04:37,880 --> 00:04:41,476
+No, there ain't nothing worse for me
+than going back on this road.
+
+11
+00:04:43,960 --> 00:04:46,520
+You won't be going back
+on this road with me.
+
+12
+00:04:46,720 --> 00:04:47,915
+Yeah?
+
+13
+00:04:48,120 --> 00:04:50,032
+That's what each of you says.
+
+14
+00:04:51,040 --> 00:04:52,554
+You just do your work,
+
+15
+00:04:53,040 --> 00:04:55,600
+stay clean, and do what Vic says.
+
+16
+00:04:58,880 --> 00:05:00,837
+GIL: Don't you have anything to say?
+
+17
+00:05:01,600 --> 00:05:03,512
+You're a free man now.
+
+18
+00:05:07,240 --> 00:05:09,835
+Ever get tired of the name
+people call you by?
+
+19
+00:05:11,160 --> 00:05:13,231
+- What? Gil?
+- Mmm-hmm.
+
+20
+00:05:15,280 --> 00:05:16,475
+No.
+
+21
+00:05:16,560 --> 00:05:18,870
+Been called Gil my whole life.
+
+22
+00:05:31,760 --> 00:05:34,320
+My place has simple rules,
+
+23
+00:05:34,400 --> 00:05:37,837
+which I expect you to honour 24/7,
+no matter what.
+
+24
+00:05:39,640 --> 00:05:41,120
+You're to be on time,
+
+25
+00:05:41,640 --> 00:05:44,951
+which means that your uniform is on
+when your shift begins.
+
+26
+00:05:45,840 --> 00:05:47,513
+Don't argue with me,
+
+27
+00:05:47,600 --> 00:05:49,557
+and don't ever even think about
+stealing from me,
+
+28
+00:05:49,640 --> 00:05:53,156
+because I will find you
+and send you back to where you come from.
+
+29
+00:05:54,840 --> 00:05:56,672
+Now, you get two breaks a day
+
+30
+00:05:56,760 --> 00:05:58,319
+and a Bible for them.
+
+31
+00:05:59,080 --> 00:06:00,799
+I expect you to read that.
+
+32
+00:06:01,280 --> 00:06:04,637
+If you're sick,
+you'd better be bleeding to death.
+
+33
+00:06:05,000 --> 00:06:07,071
+And let's get something straight.
+
+34
+00:06:07,360 --> 00:06:09,397
+I hire you 'cause you're cheap.
+
+35
+00:06:09,480 --> 00:06:12,598
+It ain't charity, it's business.
+
+36
+00:06:13,000 --> 00:06:16,994
+You're gonna be living under my eyes now,
+and believe me, they see everything.
+
+37
+00:06:21,800 --> 00:06:23,200
+Caroline!
+
+38
+00:06:23,720 --> 00:06:27,350
+Caroline, get Gil
+some shepherd's pie, would you?
+
+39
+00:06:27,440 --> 00:06:30,239
+- GIL: You're not still serving that, are you?
+- Oh, yeah.
+
+40
+00:06:30,320 --> 00:06:32,596
+- Best recipe in the land. Here.
+- Shit.
+
+41
+00:06:36,800 --> 00:06:38,632
+Is he mute or something?
+
+42
+00:06:39,160 --> 00:06:42,517
+No. He just don't say all that much.
+
+43
+00:06:42,600 --> 00:06:45,160
+- How long has he been in for?
+- Fifteen years.
+
+44
+00:06:45,400 --> 00:06:46,675
+- Murder?
+- Mmm-hmm.
+
+45
+00:06:46,760 --> 00:06:47,876
+Swell.
+
+46
+00:06:47,960 --> 00:06:50,794
+Well, it looks to me like we're running
+a fucking charity over here.
+
+47
+00:06:50,880 --> 00:06:53,076
+Why don't we just get them
+a bunch of whores
+
+48
+00:06:53,160 --> 00:06:56,915
+and give them a goddamn vacation,
+all these fucking maggots?
+
+49
+00:06:57,000 --> 00:06:59,310
+- Now, that's an idea.
+- GIL: Yeah.
+
+50
+00:06:59,680 --> 00:07:02,149
+- There you go, bud.
+- Thanks, Caroline.
+
+51
+00:07:12,520 --> 00:07:14,830
+You don't look like no murderer.
+
+52
+00:07:15,560 --> 00:07:17,517
+What you call yourself?
+
+53
+00:07:18,760 --> 00:07:20,274
+Stephen.
+
+54
+00:07:21,760 --> 00:07:24,639
+Well, this here ain't much,
+
+55
+00:07:26,960 --> 00:07:28,792
+but it's yours.
+
+56
+00:07:29,280 --> 00:07:31,112
+Thanks.
+
+57
+00:07:39,240 --> 00:07:40,640
+I'm Louis.
+
+58
+00:07:41,120 --> 00:07:43,919
+My room is just down there. Next to Vic's.
+
+59
+00:08:39,640 --> 00:08:41,393
+<i>WOMAN 1 ON RADIO:
+You need to be together.</i>
+
+60
+00:08:41,480 --> 00:08:43,437
+<i>You need to create some special time.</i>
+
+61
+00:08:43,520 --> 00:08:45,352
+<i>Maybe you do something
+that you want to do together.</i>
+
+62
+00:08:45,440 --> 00:08:48,114
+<i>Go to the park, maybe go to the movies,
+whatever it is,</i>
+
+63
+00:08:48,200 --> 00:08:51,272
+<i>- but spend some time talking to each other.
+- WOMAN 2: Yeah.</i>
+
+64
+00:08:51,360 --> 00:08:53,397
+<i>WOMAN 1: If you're gonna stay together
+for the sake of the kids,</i>
+
+65
+00:08:53,480 --> 00:08:54,675
+<i>then truly this can be worked out.</i>
+
+66
+00:08:54,760 --> 00:08:55,910
+(GLASS BREAKING)
+
+67
+00:08:56,040 --> 00:08:58,555
+(ISABELLE CRYING)
+
+68
+00:08:59,520 --> 00:09:01,113
+Isabelle?
+
+69
+00:09:01,800 --> 00:09:04,554
+Honey, what did you do?
+
+70
+00:09:04,640 --> 00:09:07,200
+- It's okay, it's okay.
+- Everything all right?
+
+71
+00:09:07,560 --> 00:09:10,120
+Yeah, it's fine.
+
+72
+00:09:10,200 --> 00:09:13,910
+Here, I'll take her if you wanna
+get something to clean that up with.
+
+73
+00:09:14,000 --> 00:09:15,400
+Oh...
+
+74
+00:09:16,000 --> 00:09:17,912
+- RYAN: Hello.
+- Thank you.
+
+75
+00:09:19,480 --> 00:09:20,834
+Oh, she's a pretty one.
+
+76
+00:09:20,920 --> 00:09:23,435
+A natural heartbreaker, just like her mama.
+
+77
+00:09:24,200 --> 00:09:27,238
+- Yes, you are.
+- I'll be right back.
+
+78
+00:09:27,680 --> 00:09:29,114
+RYAN: No hurry.
+
+79
+00:09:29,840 --> 00:09:31,593
+Natural heartbreaker.
+
+80
+00:09:44,800 --> 00:09:46,200
+I'll see you all tomorrow.
+
+81
+00:09:46,280 --> 00:09:48,158
+- Bye.
+- Take care.
+
+82
+00:09:53,400 --> 00:09:54,914
+BEN: Rose, huh?
+
+83
+00:09:55,360 --> 00:09:57,670
+- What?
+- You picked rose for Izzy's room.
+
+84
+00:09:57,800 --> 00:09:58,950
+Yeah.
+
+85
+00:10:00,520 --> 00:10:02,193
+- I like it.
+- Good.
+
+86
+00:10:05,400 --> 00:10:08,950
+The English department is
+having their faculty party this Friday.
+
+87
+00:10:09,040 --> 00:10:10,315
+I know.
+
+88
+00:10:11,040 --> 00:10:13,509
+- Is that all right with you?
+- It always is.
+
+89
+00:10:13,640 --> 00:10:15,518
+It's not that bad.
+
+90
+00:10:15,600 --> 00:10:17,512
+I never said it was.
+
+91
+00:10:37,240 --> 00:10:39,197
+- Hey, Mary!
+- Hi.
+
+92
+00:10:39,280 --> 00:10:41,192
+RUTH: Look at this sweet little girl.
+
+93
+00:10:41,280 --> 00:10:42,555
+Hi there.
+
+94
+00:10:42,640 --> 00:10:44,916
+Well, Mary, we missed you
+the other night at Theresa's.
+
+95
+00:10:45,000 --> 00:10:47,515
+Well, everybody was wondering
+why you and Ben didn't show up.
+
+96
+00:10:47,600 --> 00:10:49,592
+Well, you're not gonna be able to avoid
+those dinners
+
+97
+00:10:49,680 --> 00:10:52,149
+once Ben's head of the department.
+
+98
+00:10:52,600 --> 00:10:53,954
+What did you get?
+
+99
+00:10:54,040 --> 00:10:56,953
+Well, Susan had
+some lovely blouses on sale.
+
+100
+00:10:57,040 --> 00:11:01,956
+Yes, well, summer's just around the corner,
+and that's all the excuse I need.
+
+101
+00:11:02,040 --> 00:11:04,430
+Besides, everything I have is just so old.
+
+102
+00:11:04,520 --> 00:11:06,079
+I know the feeling.
+
+103
+00:11:07,680 --> 00:11:09,876
+Well, Mary,
+you and I should go shopping sometime.
+
+104
+00:11:09,960 --> 00:11:11,474
+I'd like that.
+
+105
+00:11:11,560 --> 00:11:14,997
+I'm really looking forward to spending
+more time with the two of you.
+
+106
+00:11:15,080 --> 00:11:16,400
+Oh...
+
+107
+00:11:16,760 --> 00:11:18,353
+- Well, tell Ben we said hello.
+- Yes.
+
+108
+00:11:18,440 --> 00:11:19,510
+I will, I will.
+
+109
+00:11:19,600 --> 00:11:21,034
+- Good to see you.
+- Good to see you. Bye.
+
+110
+00:11:21,120 --> 00:11:22,156
+Bye.
+
+111
+00:11:35,560 --> 00:11:37,836
+It's starting to look nice.
+
+112
+00:11:38,880 --> 00:11:41,759
+Yeah, well, it didn't really look
+too bad before.
+
+113
+00:11:42,400 --> 00:11:43,436
+Yeah.
+
+114
+00:11:44,280 --> 00:11:47,910
+- Are you gonna share that with me?
+- Yes, I brought it for you.
+
+115
+00:11:49,400 --> 00:11:50,959
+That's a nice lady.
+
+116
+00:11:51,040 --> 00:11:52,190
+Thank you.
+
+117
+00:11:56,200 --> 00:11:58,556
+- How's your book?
+- What?
+
+118
+00:11:58,880 --> 00:12:02,999
+Yeah, yeah, yeah. Well, I noticed you were
+reading it all morning in the kitchen.
+
+119
+00:12:03,080 --> 00:12:04,673
+You're like a big reader.
+
+120
+00:12:04,760 --> 00:12:08,390
+Yeah. Well, when Isabelle's quiet
+I have to take advantage.
+
+121
+00:12:09,000 --> 00:12:11,071
+Are you a... You a professor, too?
+
+122
+00:12:11,320 --> 00:12:13,437
+No. No.
+
+123
+00:12:15,280 --> 00:12:17,237
+How come you said it like that?
+
+124
+00:12:18,400 --> 00:12:20,437
+Well, I was going to be, but I...
+
+125
+00:12:20,520 --> 00:12:24,799
+I started graduate school, and then
+it didn't really work out the way I'd hoped.
+
+126
+00:12:24,880 --> 00:12:26,599
+How come?
+
+127
+00:12:26,680 --> 00:12:29,400
+Someone had to decide
+the colour of the nursery.
+
+128
+00:12:29,480 --> 00:12:32,712
+Yeah. Well, that's too bad.
+You could have trusted me with that.
+
+129
+00:12:32,800 --> 00:12:36,510
+- I got fine taste.
+- I'm sure you do.
+
+130
+00:12:46,600 --> 00:12:50,276
+(PHONE RINGING)
+
+131
+00:12:56,120 --> 00:12:58,954
+- Hello.
+- Hey, old friend, it's me.
+
+132
+00:12:59,040 --> 00:13:02,238
+<i>Hey! Been hoping I'd hear from you.</i>
+
+133
+00:13:02,320 --> 00:13:03,959
+I know you didn't want me
+to come down there to see you,
+
+134
+00:13:04,040 --> 00:13:06,760
+but I heard everything went smoothly.
+
+135
+00:13:06,840 --> 00:13:08,672
+It's just like you to keep tabs on me.
+
+136
+00:13:08,760 --> 00:13:10,194
+<i>When can I come and see you?</i>
+
+137
+00:13:10,280 --> 00:13:12,431
+Not yet, but soon.
+
+138
+00:13:12,760 --> 00:13:15,400
+Listen, Tom, you've been getting
+all my packages, right?
+
+139
+00:13:15,480 --> 00:13:16,800
+Yeah, of course.
+
+140
+00:13:16,880 --> 00:13:19,475
+I've been meaning to ask you
+what you wanted me to do with them.
+
+141
+00:13:19,560 --> 00:13:21,119
+Just hold on to them.
+
+142
+00:13:21,200 --> 00:13:22,759
+<i>I read what was inside.</i>
+
+143
+00:13:22,840 --> 00:13:26,914
+- Yeah, well, I figured you would.
+- I think other people should read them.
+
+144
+00:13:27,000 --> 00:13:28,673
+They're pretty damn good.
+
+145
+00:13:28,760 --> 00:13:31,559
+<i>I think publishers should see these,
+they're really...</i>
+
+146
+00:13:31,640 --> 00:13:34,838
+They're not finished yet.
+I'm still writing the last book.
+
+147
+00:13:35,200 --> 00:13:37,476
+The series won't make sense without it.
+
+148
+00:13:37,560 --> 00:13:40,871
+Oh, yeah? Why's that?
+What happens in the last book?
+
+149
+00:13:42,360 --> 00:13:44,158
+It ends.
+
+150
+00:13:45,680 --> 00:13:46,909
+Fair enough.
+
+151
+00:13:47,000 --> 00:13:48,719
+<i>- Hey, Tom?</i>
+- Yeah.
+
+152
+00:13:49,960 --> 00:13:50,950
+Thanks.
+
+153
+00:13:57,880 --> 00:13:59,712
+Hey, how're you doing?
+
+154
+00:14:01,080 --> 00:14:03,515
+I seen you dropped off by the state limo.
+
+155
+00:14:03,720 --> 00:14:06,189
+I hope you enjoyed the ride.
+
+156
+00:14:06,280 --> 00:14:07,873
+(HORACE LAUGHING)
+
+157
+00:14:07,960 --> 00:14:09,599
+Just so you know,
+
+158
+00:14:09,680 --> 00:14:12,878
+we keep up the same kind of standards
+over here.
+
+159
+00:14:14,160 --> 00:14:18,837
+Can I get me one of them triple, non-fat,
+
+160
+00:14:20,320 --> 00:14:24,678
+medium lattes with the foam on the top
+and that chocolate sugar.
+
+161
+00:14:24,760 --> 00:14:27,673
+Hey, now. You know that
+I'm against the coffee franchise
+
+162
+00:14:27,760 --> 00:14:30,229
+as much as anybody else.
+
+163
+00:14:32,520 --> 00:14:35,354
+'Cause I like exactly what we got here.
+
+164
+00:14:38,360 --> 00:14:40,238
+What do you think, Caroline? Hmm?
+
+165
+00:14:43,080 --> 00:14:45,072
+Think I can get me some?
+
+166
+00:14:46,440 --> 00:14:48,079
+JACK: Make that two.
+
+167
+00:14:48,720 --> 00:14:50,074
+(JACK BURPS)
+
+168
+00:14:51,840 --> 00:14:53,240
+Hold the cream.
+
+169
+00:14:54,480 --> 00:14:56,631
+I'm gonna be up all night tonight,
+
+170
+00:14:57,280 --> 00:14:59,237
+so let's make it black.
+
+171
+00:15:06,800 --> 00:15:09,634
+Hey, pick a number between one and 20.
+
+172
+00:15:09,760 --> 00:15:10,830
+Why?
+
+173
+00:15:11,600 --> 00:15:12,920
+PowerPick.
+
+174
+00:15:15,120 --> 00:15:16,315
+Twelve.
+
+175
+00:15:17,240 --> 00:15:18,833
+My lucky number.
+
+176
+00:15:19,840 --> 00:15:23,038
+- You're not scared of Horace, huh?
+- No.
+
+177
+00:15:23,120 --> 00:15:25,112
+Not as much as he is of himself.
+
+178
+00:15:30,040 --> 00:15:34,478
+- Why is he here all the time?
+- Well, it's kind of his place.
+
+179
+00:15:34,560 --> 00:15:38,713
+He sort of bought into it
+back when we got into some trouble, so...
+
+180
+00:15:38,960 --> 00:15:40,235
+You know.
+
+181
+00:15:41,720 --> 00:15:43,632
+This is Horace's place?
+
+182
+00:15:44,320 --> 00:15:47,711
+Sure is. Comes in every day
+and drinks himself into believing
+
+183
+00:15:47,800 --> 00:15:50,031
+he's got a claim on this place
+and everything in it.
+
+184
+00:15:50,360 --> 00:15:51,794
+HORACE: Where's Caroline?
+
+185
+00:15:51,880 --> 00:15:53,758
+Well, I'd better get back in there.
+
+186
+00:15:53,840 --> 00:15:56,674
+Here. He's gonna be needing more coffee.
+
+187
+00:16:12,240 --> 00:16:15,199
+<i>STEPHEN: Stories never begin
+where you think they do,</i>
+
+188
+00:16:15,280 --> 00:16:16,839
+<i>neither do lives.</i>
+
+189
+00:16:16,920 --> 00:16:20,436
+<i>Behind each tale and the person
+who may or may not have lived it</i>
+
+190
+00:16:20,520 --> 00:16:22,034
+<i>is a history.</i>
+
+191
+00:16:22,120 --> 00:16:25,079
+<i>And just as the word for history holds story,</i>
+
+192
+00:16:25,160 --> 00:16:27,720
+<i>so, too, does the thing itself.</i>
+
+193
+00:16:27,800 --> 00:16:30,156
+<i>And your history, young friend,</i>
+
+194
+00:16:30,240 --> 00:16:33,677
+<i>really is a nightmare
+from which you are trying to awake.</i>
+
+195
+00:16:33,760 --> 00:16:36,912
+<i>Here's to that awakening or escape.</i>
+
+196
+00:16:38,160 --> 00:16:39,753
+(DOORBELL RINGING)
+
+197
+00:16:39,840 --> 00:16:41,911
+MARY: Just a second. I'll be right there.
+
+198
+00:16:47,720 --> 00:16:49,074
+- Hi, Mary.
+- Hi, Ruth.
+
+199
+00:16:49,160 --> 00:16:51,880
+I just made some custard.
+I thought I'd drop some off.
+
+200
+00:16:52,280 --> 00:16:53,953
+Thank you.
+
+201
+00:16:54,040 --> 00:16:57,238
+Oh, my! How little Isabelle is blooming.
+
+202
+00:16:57,840 --> 00:16:59,433
+MARY: Can I get you a drink?
+
+203
+00:16:59,520 --> 00:17:02,797
+I'd love an iced tea.
+My God, it is hot out there.
+
+204
+00:17:03,840 --> 00:17:06,150
+- Make yourself at home.
+- Okay.
+
+205
+00:17:17,280 --> 00:17:21,069
+- Are you having work done on the house?
+- Yeah, mainly Isabelle's room.
+
+206
+00:17:22,560 --> 00:17:23,755
+Thanks.
+
+207
+00:17:28,240 --> 00:17:30,960
+- You look great.
+- Thank you. So do you.
+
+208
+00:17:31,040 --> 00:17:32,918
+- Thanks.
+- How's Paul?
+
+209
+00:17:33,400 --> 00:17:37,076
+Fine, fine. We'll try and get away
+at the end of the month.
+
+210
+00:17:37,160 --> 00:17:38,958
+- Mmm-hmm. That's good.
+- Mmm-hmm.
+
+211
+00:17:39,880 --> 00:17:41,234
+(RUTH LAUGHS)
+
+212
+00:17:41,840 --> 00:17:43,593
+Isn't this precious!
+
+213
+00:17:45,840 --> 00:17:47,160
+How's Ben?
+
+214
+00:17:48,000 --> 00:17:51,676
+He's fine.
+He works all of the time, but he's fine.
+
+215
+00:17:51,960 --> 00:17:53,155
+Well...
+
+216
+00:17:54,720 --> 00:17:58,077
+They sure are committed to their students.
+I'm gonna tell you that.
+
+217
+00:17:58,160 --> 00:18:01,198
+I know. Ben's got them calling
+all hours of the night.
+
+218
+00:18:01,280 --> 00:18:02,270
+Yes.
+
+219
+00:18:05,000 --> 00:18:06,559
+And how are you, Mary?
+
+220
+00:18:07,680 --> 00:18:09,160
+I'm fine.
+
+221
+00:18:10,720 --> 00:18:14,031
+It's okay if you don't wanna talk about it.
+
+222
+00:18:15,240 --> 00:18:16,833
+Talk about what?
+
+223
+00:18:17,960 --> 00:18:21,271
+Oh. Nothing. No, no, nothing.
+
+224
+00:18:23,840 --> 00:18:27,197
+Talking never seemed
+to be such a challenge for you.
+
+225
+00:18:27,680 --> 00:18:29,751
+I'm sorry, Mary.
+
+226
+00:18:29,840 --> 00:18:32,560
+Joanne told me she was sure you knew.
+
+227
+00:18:34,560 --> 00:18:35,880
+Knew what?
+
+228
+00:18:38,400 --> 00:18:42,792
+Well, Paul's been seeing Ben
+with one of his students.
+
+229
+00:18:43,080 --> 00:18:44,639
+Carrying on.
+
+230
+00:18:44,720 --> 00:18:46,552
+But, really,
+I suppose they just could be working
+
+231
+00:18:46,640 --> 00:18:49,235
+during all that time they spend together.
+
+232
+00:18:49,680 --> 00:18:54,357
+I'm so embarrassed, Mary.
+This really isn't any of my business.
+
+233
+00:18:54,880 --> 00:18:57,475
+No, it's not any of your business.
+
+234
+00:18:58,280 --> 00:19:00,317
+I'm sure there must be some kind
+of explanation, though.
+
+235
+00:19:00,400 --> 00:19:02,710
+Yes, I must be mistaken.
+
+236
+00:19:02,800 --> 00:19:05,759
+- It doesn't sound like Ben.
+- No. No, I don't think so.
+
+237
+00:19:07,960 --> 00:19:10,031
+Well, I should get going.
+
+238
+00:19:11,960 --> 00:19:14,350
+- Okay. I will see you.
+- Bye. Bye.
+
+239
+00:19:30,000 --> 00:19:31,832
+GIRL: Do not say a word.
+
+240
+00:19:42,920 --> 00:19:44,639
+Mary. Hi.
+
+241
+00:19:45,160 --> 00:19:48,392
+- It's good to see you.
+- Diane! It's good to see you.
+
+242
+00:19:49,560 --> 00:19:52,359
+- Ben told me that you're teaching this term.
+- Yeah, I am.
+
+243
+00:19:52,440 --> 00:19:53,999
+That's so good.
+
+244
+00:19:54,800 --> 00:19:59,158
+- So, how are things with you?
+- They're good.
+
+245
+00:19:59,920 --> 00:20:03,118
+- How old is your daughter now?
+- She's two.
+
+246
+00:20:05,480 --> 00:20:07,199
+That's a great age.
+
+247
+00:20:07,880 --> 00:20:09,155
+Or is it?
+
+248
+00:20:09,720 --> 00:20:11,996
+I wouldn't even know.
+
+249
+00:20:12,720 --> 00:20:18,034
+It's fine. It's not really an age yet,
+but it's great. It's fine.
+
+250
+00:20:18,480 --> 00:20:21,996
+- It's good to see you, Mary.
+- It's really good to see you.
+
+251
+00:21:03,000 --> 00:21:04,878
+(PHONE RINGING)
+
+252
+00:21:15,720 --> 00:21:16,870
+Hello.
+
+253
+00:21:22,920 --> 00:21:27,199
+I don't know, but I'll deal with it tomorrow.
+I will. I promise.
+
+254
+00:21:27,280 --> 00:21:30,239
+Why do you feel the need
+to call me at home?
+
+255
+00:21:39,480 --> 00:21:43,360
+<i>STEPHEN: This is finally my own story,
+the story of now.</i>
+
+256
+00:21:43,440 --> 00:21:45,750
+<i>And I think it's fitting
+that I'm telling it to you,</i>
+
+257
+00:21:45,840 --> 00:21:48,799
+<i>for, in the end, you will find my beginning</i>
+
+258
+00:21:49,320 --> 00:21:51,277
+<i>and maybe even your own.</i>
+
+259
+00:21:52,600 --> 00:21:56,310
+<i>Everything you've ever done
+adds up to everything you'll ever do.</i>
+
+260
+00:21:56,400 --> 00:21:58,551
+<i>That's just the way it goes.</i>
+
+261
+00:22:12,600 --> 00:22:14,000
+(EXCLAIMS)
+
+262
+00:22:28,800 --> 00:22:31,679
+Goddamn son of a bitch!
+
+263
+00:22:32,120 --> 00:22:34,476
+(GRUNTING)
+
+264
+00:22:35,880 --> 00:22:37,234
+RYAN: Mrs Bloom.
+
+265
+00:22:37,400 --> 00:22:38,834
+- Mrs Bloom!
+- Yes!
+
+266
+00:22:39,280 --> 00:22:41,795
+- Is everything okay?
+- It's fine!
+
+267
+00:22:43,880 --> 00:22:46,918
+- You sure about that?
+- I am sure about that.
+
+268
+00:22:47,000 --> 00:22:49,071
+If you're so sure, why are you knocking
+books off the shelves?
+
+269
+00:22:49,160 --> 00:22:51,277
+- Hey! Hey!
+- 'Cause it feels good.
+
+270
+00:22:51,360 --> 00:22:53,192
+Hey, come on, come on.
+Calm down, calm down.
+
+271
+00:22:53,280 --> 00:22:55,078
+No! Let go!
+
+272
+00:22:55,160 --> 00:22:57,436
+I'll let go when you calm down.
+
+273
+00:22:58,960 --> 00:23:01,236
+Whatever's happened,
+you don't deserve to be feeling like this.
+
+274
+00:23:01,320 --> 00:23:04,438
+- I don't deserve this.
+- Neither do your books.
+
+275
+00:23:04,640 --> 00:23:07,439
+(ISABELLE CRYING)
+
+276
+00:23:08,240 --> 00:23:10,880
+I'll let go if you... If you calm down.
+
+277
+00:23:11,240 --> 00:23:12,720
+Do you want me to go get her?
+
+278
+00:23:12,800 --> 00:23:15,838
+Okay, I'm gonna put you back down,
+all right?
+
+279
+00:23:32,160 --> 00:23:33,833
+I'm sorry about...
+
+280
+00:23:34,800 --> 00:23:38,635
+I'm sorry you had to be here
+to watch me attack the bookcase.
+
+281
+00:23:39,400 --> 00:23:42,552
+- That's no big deal.
+- I've never done anything like that before.
+
+282
+00:23:42,640 --> 00:23:44,871
+Shit, I throw shit all the time.
+
+283
+00:23:45,320 --> 00:23:48,119
+- It feels good to hit things.
+- I know.
+
+284
+00:23:56,960 --> 00:23:59,475
+(SOBBING) How could he do that?
+
+285
+00:24:01,520 --> 00:24:04,354
+Hey, hey, hey, hey, hey, hey. It's all right.
+
+286
+00:24:05,080 --> 00:24:07,072
+MARY: (CRYING)
+I never wanted to come here.
+
+287
+00:24:07,160 --> 00:24:10,710
+- Where you wanna be?
+- I never wanted to come here.
+
+288
+00:24:11,720 --> 00:24:14,394
+- Oh, God!
+- Come here.
+
+289
+00:24:18,600 --> 00:24:20,114
+RYAN: It's all right.
+
+290
+00:24:24,880 --> 00:24:26,200
+It's okay.
+
+291
+00:25:23,400 --> 00:25:25,357
+(MARY MOANING)
+
+292
+00:25:43,400 --> 00:25:44,675
+(MARY MOANING)
+
+293
+00:26:14,360 --> 00:26:15,714
+(GASPING) Jesus, Mary!
+
+294
+00:26:16,480 --> 00:26:20,076
+What the hell are you trying to do,
+startle me to death?
+
+295
+00:26:20,480 --> 00:26:22,790
+- Where were you?
+- I was at work.
+
+296
+00:26:23,240 --> 00:26:24,310
+Where else would I have been?
+
+297
+00:26:24,400 --> 00:26:26,995
+I don't know, Ben.
+Where would you have been?
+
+298
+00:26:28,360 --> 00:26:30,352
+Have you been drinking?
+
+299
+00:26:31,800 --> 00:26:34,634
+Ruth Livingston stopped by the other day.
+
+300
+00:26:35,480 --> 00:26:39,952
+She told me all about you
+and whatever the hell her name is.
+
+301
+00:26:40,080 --> 00:26:42,151
+What are you talking about?
+
+302
+00:26:42,880 --> 00:26:45,714
+I'm talking about the girl you're fucking.
+
+303
+00:26:45,800 --> 00:26:46,916
+(CHUCKLES)
+
+304
+00:26:48,120 --> 00:26:50,430
+You're not serious, are you, Mary?
+
+305
+00:26:51,600 --> 00:26:53,671
+Oh, my God! You actually are.
+
+306
+00:26:55,280 --> 00:26:57,590
+Mary, I swear there's nothing going on.
+
+307
+00:26:57,680 --> 00:27:00,195
+- I'm supposed to believe that?
+- Yes, you are.
+
+308
+00:27:00,760 --> 00:27:04,470
+Paul saw you.
+He saw you, you son of a bitch!
+
+309
+00:27:09,480 --> 00:27:11,790
+- Is Isabelle asleep?
+- Yes, she's asleep.
+
+310
+00:27:12,320 --> 00:27:15,472
+- Did you forget what kind of a mother I am?
+- Then get up!
+
+311
+00:27:15,800 --> 00:27:17,280
+I said get up.
+
+312
+00:27:32,320 --> 00:27:35,472
+Get out of the car, Mary.
+Get out of the damn car.
+
+313
+00:27:41,240 --> 00:27:42,469
+Get out!
+
+314
+00:28:13,680 --> 00:28:14,750
+Ben.
+
+315
+00:28:15,840 --> 00:28:17,320
+Evening, Paul.
+
+316
+00:28:17,760 --> 00:28:19,035
+Mary.
+
+317
+00:28:20,840 --> 00:28:22,035
+What's going on?
+
+318
+00:28:22,120 --> 00:28:23,918
+I'm here to see Ruth.
+
+319
+00:28:24,440 --> 00:28:26,909
+- Is everything all right?
+- No. No, it's not.
+
+320
+00:28:31,200 --> 00:28:33,920
+Ruth! Ruth, come on down here.
+
+321
+00:28:39,000 --> 00:28:41,959
+Hello, Ben. How are you?
+
+322
+00:28:42,120 --> 00:28:45,272
+Ruth, did you tell my wife
+I was cheating on her?
+
+323
+00:28:46,240 --> 00:28:47,276
+No.
+
+324
+00:28:47,880 --> 00:28:48,996
+BEN: Ruth.
+
+325
+00:28:51,880 --> 00:28:54,076
+- Yes, but...
+- BEN: You lied, Ruth.
+
+326
+00:28:54,160 --> 00:28:56,038
+Is that what you wanted to do?
+
+327
+00:28:56,120 --> 00:28:58,555
+- What did you say to her, Ruth?
+- Nothing.
+
+328
+00:28:58,640 --> 00:29:00,313
+BEN: Yes, yes, you did.
+
+329
+00:29:01,320 --> 00:29:03,960
+You've got shame written all over your face.
+
+330
+00:29:09,760 --> 00:29:11,831
+Paul, I'm sorry we woke you.
+
+331
+00:29:42,280 --> 00:29:45,557
+It's okay. You just lost faith in me, that's all.
+
+332
+00:29:58,400 --> 00:29:59,720
+I'm sorry.
+
+333
+00:30:00,520 --> 00:30:03,479
+- It's okay.
+- It's not okay.
+
+334
+00:30:43,040 --> 00:30:46,431
+(FOOTSTEPS)
+
+335
+00:31:07,080 --> 00:31:08,070
+(MAN EXCLAIMING)
+
+336
+00:31:08,160 --> 00:31:09,150
+(DOOR SLAMMING)
+
+337
+00:31:22,440 --> 00:31:23,954
+BEN: How's he doing?
+
+338
+00:31:24,400 --> 00:31:25,436
+MARY: He!
+
+339
+00:31:26,400 --> 00:31:28,960
+It's bad luck to wish for one over the other.
+
+340
+00:31:29,040 --> 00:31:32,829
+I'm not wishing for one over the other.
+I'll be happy if he's a girl, too.
+
+341
+00:31:38,360 --> 00:31:39,476
+What?
+
+342
+00:31:39,640 --> 00:31:42,838
+I've been offered a teaching fellowship
+in London for a year,
+
+343
+00:31:42,920 --> 00:31:45,799
+before they make me
+head of the department.
+
+344
+00:31:46,680 --> 00:31:50,435
+Wow, that's great. When?
+
+345
+00:31:50,680 --> 00:31:52,080
+This winter.
+
+346
+00:31:52,680 --> 00:31:54,353
+What do you think?
+
+347
+00:31:55,960 --> 00:31:57,792
+I think you should go.
+
+348
+00:32:02,280 --> 00:32:04,715
+When we get back, you can finish your PhD.
+
+349
+00:32:04,800 --> 00:32:07,031
+You really want me to do that?
+
+350
+00:32:07,280 --> 00:32:09,749
+I never didn't want you to do that.
+
+351
+00:32:24,320 --> 00:32:27,836
+This is going to feel much better.
+There you go.
+
+352
+00:32:31,440 --> 00:32:34,478
+- What's wrong?
+- She has a really bad sunburn.
+
+353
+00:32:36,640 --> 00:32:39,155
+Here, I'll put some cold cream on her.
+Where is it?
+
+354
+00:32:39,240 --> 00:32:41,994
+- We don't have any.
+- We don't have any cold cream?
+
+355
+00:32:42,480 --> 00:32:44,312
+No, we don't have any cold cream.
+
+356
+00:32:44,400 --> 00:32:46,835
+I'm supposed to have everything here
+just in case we may need it?
+
+357
+00:32:46,920 --> 00:32:52,837
+- Okay, all right. I'll go get some.
+- I'm sorry. I'm just tired. The baby...
+
+358
+00:32:53,240 --> 00:32:55,960
+- Could you take Izzy with you?
+- Sure.
+
+359
+00:32:56,840 --> 00:32:58,718
+Okay, the drive will be good for her.
+
+360
+00:32:58,800 --> 00:33:00,632
+Come on, pumpkin. Okay.
+
+361
+00:33:01,480 --> 00:33:03,312
+- See you in a bit.
+- Okay.
+
+362
+00:33:03,440 --> 00:33:04,760
+MARY: Thank you.
+
+363
+00:33:20,760 --> 00:33:22,991
+BEN: M-I...
+ISABELLE: M-I...
+
+364
+00:33:23,480 --> 00:33:26,791
+- ...S-S-I...
+- ...S-S-I...
+
+365
+00:33:26,880 --> 00:33:28,155
+...S-S-I...
+
+366
+00:33:29,160 --> 00:33:30,640
+...S-S-I...
+
+367
+00:33:30,720 --> 00:33:33,394
+- ...P-P-I.
+- ...P-P-I.
+
+368
+00:33:47,080 --> 00:33:49,720
+- Mississippi.
+- Mississippi.
+
+369
+00:33:49,880 --> 00:33:52,190
+- M-I...
+- M-I...
+
+370
+00:33:52,280 --> 00:33:54,556
+- ...S-S-I...
+- ...S-S-I...
+
+371
+00:33:54,640 --> 00:33:55,915
+...S-S-I.
+
+372
+00:34:01,960 --> 00:34:03,519
+(HORN BLARING)
+
+373
+00:34:42,360 --> 00:34:43,476
+Yes?
+
+374
+00:34:47,120 --> 00:34:48,474
+Mrs Bloom?
+
+375
+00:34:51,920 --> 00:34:53,070
+What?
+
+376
+00:34:54,600 --> 00:34:56,717
+There's been an accident.
+
+377
+00:34:57,320 --> 00:34:59,960
+Your husband and your daughter.
+
+378
+00:35:02,720 --> 00:35:04,757
+- They didn't make it.
+- No.
+
+379
+00:35:06,280 --> 00:35:09,830
+No, there must be some mistake.
+They just went...
+
+380
+00:35:09,920 --> 00:35:11,559
+They just went...
+
+381
+00:35:17,160 --> 00:35:19,629
+No!
+
+382
+00:35:21,040 --> 00:35:22,474
+Mrs Bloom.
+
+383
+00:36:05,120 --> 00:36:08,033
+(MOANING SOFTLY)
+
+384
+00:36:09,560 --> 00:36:10,630
+Hey.
+
+385
+00:36:13,080 --> 00:36:15,834
+Hey, sis. You're up.
+
+386
+00:36:17,440 --> 00:36:19,671
+What happened to the baby?
+
+387
+00:36:22,560 --> 00:36:25,029
+You had a... You had a little boy.
+
+388
+00:36:29,120 --> 00:36:31,430
+He didn't come out right, did he?
+
+389
+00:36:33,800 --> 00:36:35,234
+He did, he...
+
+390
+00:36:35,920 --> 00:36:39,550
+Well, his lungs weren't fully formed yet,
+
+391
+00:36:40,280 --> 00:36:43,591
+so the doctors are helping him.
+He's gonna be fine.
+
+392
+00:36:46,080 --> 00:36:47,434
+I did this.
+
+393
+00:36:49,640 --> 00:36:52,997
+I did this to them. I did this to them.
+
+394
+00:36:53,800 --> 00:36:55,519
+It was an accident.
+
+395
+00:36:55,640 --> 00:36:58,633
+That baby's a sign of what I did.
+
+396
+00:37:00,360 --> 00:37:05,833
+Nothing you could have done
+made this happen. I mean...
+
+397
+00:37:07,280 --> 00:37:11,115
+There are no reasons
+when something like this happens.
+
+398
+00:37:12,480 --> 00:37:14,870
+There are reasons for everything.
+
+399
+00:37:21,800 --> 00:37:24,076
+He's a... He's a beautiful little boy.
+
+400
+00:37:25,800 --> 00:37:28,076
+He has the tiniest little hands.
+
+401
+00:37:30,760 --> 00:37:32,717
+I don't want to see him.
+
+402
+00:37:36,280 --> 00:37:39,557
+I don't want to see him.
+I don't want to see him.
+
+403
+00:37:48,800 --> 00:37:52,430
+<i>STEPHEN: Before you can write some things,
+you have to live them.</i>
+
+404
+00:37:53,000 --> 00:37:54,400
+<i>To you, young friend,</i>
+
+405
+00:37:54,480 --> 00:37:59,839
+<i>I would like to be able to write of something
+dignified that I did, heroic even.</i>
+
+406
+00:37:59,920 --> 00:38:04,039
+<i>As that may never happen,
+I'll be satisfied if I can save just one person</i>
+
+407
+00:38:04,120 --> 00:38:06,840
+<i>in the way you've helped to save me.</i>
+
+408
+00:38:06,920 --> 00:38:09,037
+<i>There is a woman here
+who reminds me of someone</i>
+
+409
+00:38:09,120 --> 00:38:11,840
+<i>I forever desperately wanted to save.</i>
+
+410
+00:38:11,960 --> 00:38:13,633
+<i>If I can help her,</i>
+
+411
+00:38:13,720 --> 00:38:17,680
+<i>I know I can say goodbye
+to what came before once and finally.</i>
+
+412
+00:38:18,160 --> 00:38:19,514
+<i>And then I may finish my books</i>
+
+413
+00:38:19,600 --> 00:38:23,276
+<i>by writing of a time less plagued
+by the pains of the past.</i>
+
+414
+00:38:23,360 --> 00:38:28,071
+<i>In the meanwhile, you remain with me,
+helping me as you always have.</i>
+
+415
+00:38:55,360 --> 00:38:57,795
+BRYNNE: Look, I know
+you don't want to deal with this now,
+
+416
+00:38:59,440 --> 00:39:01,909
+but you're going to have to name him.
+
+417
+00:39:04,080 --> 00:39:07,118
+Maybe you should just see him.
+
+418
+00:39:10,000 --> 00:39:11,832
+I'll call him Leopold.
+
+419
+00:39:12,840 --> 00:39:14,399
+Leopold Bloom.
+
+420
+00:39:15,040 --> 00:39:16,554
+<i>MINISTER: Our thoughts and our prayers</i>
+
+421
+00:39:16,640 --> 00:39:20,429
+are going to be with those
+who Ben and Isabelle left behind.
+
+422
+00:39:20,680 --> 00:39:22,751
+What we have left is a family.
+
+423
+00:39:22,840 --> 00:39:26,595
+<i>- BRYNNE: I know that name from somewhere.</i>
+- For in their death there was a birth.
+
+424
+00:39:26,680 --> 00:39:29,195
+<i>- Who is he?</i>
+- May we hope and pray that this boy
+
+425
+00:39:29,280 --> 00:39:31,431
+grows up to be the great man
+his father was...
+
+426
+00:39:31,520 --> 00:39:33,398
+<i>MARY: He's a man in a book
+I read a long time ago.</i>
+
+427
+00:39:33,480 --> 00:39:34,596
+...and loves and cares for his mother
+
+428
+00:39:34,680 --> 00:39:37,195
+- as she undoubtedly will for him.
+<i>- BRYNNE: I like that.</i>
+
+429
+00:39:37,280 --> 00:39:39,033
+<i>- Mom and Dad would have liked that.</i>
+- God bless their souls,
+
+430
+00:39:39,120 --> 00:39:42,557
+<i>- and God help them bear the days ahead.</i>
+- Leopold Bloom.
+
+431
+00:40:34,160 --> 00:40:36,675
+(HORACE LAUGHING)
+
+432
+00:40:44,760 --> 00:40:48,470
+HORACE: Don't blame the car
+if you can't drive, Jack. God damn it!
+
+433
+00:40:58,200 --> 00:41:00,510
+Ain't this a fine fucking sight?
+
+434
+00:41:04,280 --> 00:41:05,919
+Where's Caroline?
+
+435
+00:41:09,960 --> 00:41:11,474
+I want my food.
+
+436
+00:41:24,560 --> 00:41:26,313
+I'll get it for you.
+
+437
+00:41:27,440 --> 00:41:31,434
+I don't want you getting my fucking food.
+That's Caroline's job.
+
+438
+00:41:31,680 --> 00:41:33,956
+You hear me, you piece of shit?
+
+439
+00:41:34,840 --> 00:41:36,115
+(HORACE CHUCKLES)
+
+440
+00:41:37,520 --> 00:41:40,752
+I don't even know
+why the fuck you're talking to me.
+
+441
+00:41:40,840 --> 00:41:42,752
+JACK: Horace, ask him.
+
+442
+00:41:45,120 --> 00:41:47,794
+- Ask him.
+- Oh, yeah.
+
+443
+00:41:49,360 --> 00:41:50,555
+Right.
+
+444
+00:41:51,800 --> 00:41:55,589
+When you were in the house,
+were you a pitcher or a catcher?
+
+445
+00:41:55,760 --> 00:41:57,035
+(JACK LAUGHING)
+
+446
+00:41:57,240 --> 00:42:00,278
+You know, did you take it,
+or did you give it?
+
+447
+00:42:03,000 --> 00:42:04,150
+Why you want to know?
+
+448
+00:42:04,240 --> 00:42:09,554
+'Cause we like to know if we've got
+some bitches running around amongst us.
+
+449
+00:42:17,920 --> 00:42:19,593
+Oh, I'd say you do.
+
+450
+00:42:23,280 --> 00:42:25,272
+I don't fucking like you.
+
+451
+00:42:26,160 --> 00:42:28,959
+I don't like one goddamn thing about you.
+
+452
+00:42:29,520 --> 00:42:33,514
+I look at you and I see
+a thousand different ways I can end you.
+
+453
+00:42:33,880 --> 00:42:36,031
+And I don't even need a reason.
+
+454
+00:42:36,120 --> 00:42:38,396
+Now, you just keep talking.
+You just keep it up.
+
+455
+00:42:38,480 --> 00:42:41,473
+Now, get out of my way,
+you scrawny little fucking weed.
+
+456
+00:42:41,560 --> 00:42:43,677
+- Horace.
+- I want Caroline.
+
+457
+00:42:43,760 --> 00:42:45,877
+- Horace.
+- Hey, Vic. How you doing?
+
+458
+00:42:45,960 --> 00:42:48,839
+What you need is
+some fresh shepherd's pie.
+
+459
+00:42:48,920 --> 00:42:50,513
+HORACE: Excellent.
+
+460
+00:42:50,600 --> 00:42:54,480
+Stephen, did you read that Bible I gave you?
+
+461
+00:42:55,320 --> 00:42:56,549
+Yes, sir.
+
+462
+00:42:59,240 --> 00:43:03,359
+Well, then, you know who
+the greatest shepherd of all was, don't you?
+
+463
+00:43:06,680 --> 00:43:08,160
+Jesus himself.
+
+464
+00:43:09,200 --> 00:43:12,272
+You know, the thing I love
+about shepherd's pie
+
+465
+00:43:12,360 --> 00:43:15,239
+is that it's not only delicious,
+
+466
+00:43:15,320 --> 00:43:17,596
+but it's a pious meal.
+
+467
+00:43:18,920 --> 00:43:21,389
+Well, I like to add a little sin to it.
+
+468
+00:43:21,480 --> 00:43:24,234
+You know, sin makes everything interesting,
+don't you think?
+
+469
+00:43:24,320 --> 00:43:26,152
+Goddamn reckon it does.
+
+470
+00:43:26,240 --> 00:43:29,312
+Give me a little of that sin. Damn right I do.
+
+471
+00:43:29,400 --> 00:43:33,110
+- Gonna put a lot on Jack's.
+- Hey, hey, hey, Horace, God damn it!
+
+472
+00:43:33,400 --> 00:43:35,790
+HORACE: Listen, you gonna keep that boy
+around here?
+
+473
+00:43:35,880 --> 00:43:40,397
+Prison boy. You put some gloves on him
+if he's going to be handling food.
+
+474
+00:43:50,040 --> 00:43:51,713
+MARY: Leo, what's wrong?
+
+475
+00:43:52,680 --> 00:43:56,515
+- Why aren't you eating your food?
+- 'Cause I don't like raisins.
+
+476
+00:43:56,600 --> 00:43:59,354
+Well, I don't care. I want you to eat it.
+
+477
+00:44:03,840 --> 00:44:07,197
+Don't you dare cry. You hear me?
+
+478
+00:44:12,320 --> 00:44:15,950
+You know, your sister cried for hours
+the night she died.
+
+479
+00:44:17,520 --> 00:44:19,159
+If she cried that much
+when she had a sunburn,
+
+480
+00:44:19,240 --> 00:44:21,709
+I wonder how much she cried when...
+
+481
+00:44:24,680 --> 00:44:27,195
+I still hear her crying every night.
+
+482
+00:44:34,600 --> 00:44:37,832
+You know, Leo,
+when you were little and you'd cry,
+
+483
+00:44:39,600 --> 00:44:41,319
+I'd still hear her.
+
+484
+00:44:44,920 --> 00:44:47,594
+I don't think I've ever heard you cry.
+
+485
+00:44:49,360 --> 00:44:51,352
+Your mother never heard you cry.
+
+486
+00:44:54,520 --> 00:44:56,000
+Eat your food.
+
+487
+00:45:23,040 --> 00:45:24,633
+Where's the boy?
+
+488
+00:45:25,480 --> 00:45:26,880
+He's asleep.
+
+489
+00:45:27,600 --> 00:45:28,829
+Come on.
+
+490
+00:45:31,880 --> 00:45:35,271
+- Come on, you want some. Come on.
+- Ryan, it's really late.
+
+491
+00:45:35,760 --> 00:45:36,876
+I'm just...
+
+492
+00:45:36,960 --> 00:45:40,158
+- I'm just not up for your shit tonight.
+- Come on. Come on.
+
+493
+00:45:41,400 --> 00:45:44,711
+- I want you to leave.
+- Don't you ever fucking tell me to leave.
+
+494
+00:45:44,800 --> 00:45:47,793
+Don't fucking tell me to leave. You got that?
+
+495
+00:45:49,480 --> 00:45:52,040
+- Fucking leave!
+- Don't you ever fucking tell me to leave.
+
+496
+00:45:52,120 --> 00:45:53,998
+- What's your fucking problem?
+- Come on. You're such a big boy.
+
+497
+00:45:54,080 --> 00:45:58,199
+- I am a big boy. You shut the fuck up.
+- Come on. Come on.
+
+498
+00:45:59,360 --> 00:46:01,079
+- Come on.
+- You fucking bitch.
+
+499
+00:46:01,160 --> 00:46:04,073
+- I said get out of here!
+- Who do you think you're telling to leave?
+
+500
+00:46:04,160 --> 00:46:06,880
+- What part of it is not clear?
+- Are you turning me away?
+
+501
+00:46:06,960 --> 00:46:09,520
+I will tell you when to leave, you mother...
+
+502
+00:46:09,600 --> 00:46:12,718
+I am not asking you to leave,
+I am telling you to leave.
+
+503
+00:46:13,280 --> 00:46:15,078
+(MARY AND RYAN ARGUING)
+
+504
+00:46:47,760 --> 00:46:50,036
+(PHONE RINGING)
+
+505
+00:46:52,600 --> 00:46:55,274
+- Hello?
+<i>- BRYNNE: Is this the birthday boy?</i>
+
+506
+00:46:55,640 --> 00:46:56,869
+Hi, Aunt Brynne.
+
+507
+00:46:56,960 --> 00:46:59,191
+- Hi, how you doing down there?
+<i>- I'm fine.</i>
+
+508
+00:46:59,280 --> 00:47:01,795
+<i>- How's school?</i>
+- It's okay.
+
+509
+00:47:02,480 --> 00:47:05,678
+Is your mom doing anything special
+for you today?
+
+510
+00:47:06,200 --> 00:47:07,600
+No, not yet.
+
+511
+00:47:08,440 --> 00:47:10,432
+<i>Is... Is your mom around?</i>
+
+512
+00:47:11,800 --> 00:47:13,200
+LEO: She's asleep.
+
+513
+00:47:15,440 --> 00:47:16,840
+It's the middle of the day.
+
+514
+00:47:16,920 --> 00:47:19,992
+Yeah. She didn't sleep so well last night.
+
+515
+00:47:20,080 --> 00:47:22,834
+- Well, just tell her I called, okay?
+<i>- Okay.</i>
+
+516
+00:47:23,160 --> 00:47:25,311
+<i>- And see you this weekend.</i>
+- Thanks.
+
+517
+00:47:39,880 --> 00:47:44,432
+All right,
+we are going to write some letters today.
+
+518
+00:47:45,120 --> 00:47:49,672
+Now, they have to be honest,
+and they have to be interesting, and...
+
+519
+00:47:49,800 --> 00:47:51,439
+CHARLES:
+Who are we supposed to write them to?
+
+520
+00:47:51,520 --> 00:47:52,954
+Whoever you want.
+
+521
+00:47:53,040 --> 00:47:55,236
+People who you think
+might want to read them.
+
+522
+00:47:55,320 --> 00:47:57,710
+Well, how long do they have to be?
+
+523
+00:47:58,280 --> 00:48:01,751
+An hour long, which translates
+to at least a paragraph from each of you.
+
+524
+00:48:01,840 --> 00:48:05,880
+Mr Jenkins, can we be mean
+so long as we're being honest?
+
+525
+00:48:07,360 --> 00:48:09,033
+No. Now, shut up, Charles.
+
+526
+00:48:10,240 --> 00:48:12,471
+All right, let's get started.
+
+527
+00:48:20,280 --> 00:48:21,999
+<i>LEO: Dear man in prison,</i>
+
+528
+00:48:22,080 --> 00:48:23,878
+<i>my name is Leopold Bloom,</i>
+
+529
+00:48:23,960 --> 00:48:26,794
+<i>and my life began long before I was born.</i>
+
+530
+00:48:27,440 --> 00:48:30,114
+<i>Mother said I was the seal of her sin,</i>
+
+531
+00:48:31,000 --> 00:48:34,994
+<i>and my aunt just said I was
+a quiet little man who spoke with my eyes.</i>
+
+532
+00:48:35,280 --> 00:48:37,556
+Take time with your words, Leo.
+
+533
+00:48:40,560 --> 00:48:44,349
+<i>I live alone with my mother, Mary,
+in Oxford, Mississippi.</i>
+
+534
+00:48:44,440 --> 00:48:46,796
+<i>My father and my sister died
+the day I was born.</i>
+
+535
+00:48:46,880 --> 00:48:50,351
+<i>There's not much else to tell you
+about myself, I guess.</i>
+
+536
+00:48:50,520 --> 00:48:55,549
+<i>I don't exactly know who you are,
+but I think I know how you must feel.</i>
+
+537
+00:48:55,640 --> 00:48:59,031
+<i>I don't really have any friends,
+and I don't know where to go to find them.</i>
+
+538
+00:48:59,120 --> 00:49:00,793
+<i>I guess we both feel like we can't get out</i>
+
+539
+00:49:00,880 --> 00:49:03,156
+<i>or maybe wonder
+what it's like on the other side.</i>
+
+540
+00:49:03,240 --> 00:49:05,675
+<i>In either case,
+most people are uncomfortable with me,</i>
+
+541
+00:49:05,760 --> 00:49:07,797
+<i>but not as much as
+because of something I did,</i>
+
+542
+00:49:07,880 --> 00:49:10,315
+<i>as much of because of how I am.</i>
+
+543
+00:49:10,400 --> 00:49:13,711
+<i>At least, in your case, you know
+what you did that got you locked up.</i>
+
+544
+00:49:13,800 --> 00:49:17,077
+<i>I guess knowing that we will never meet
+makes it easy to write to you.</i>
+
+545
+00:49:17,160 --> 00:49:19,072
+<i>If you want, you can write me back.</i>
+
+546
+00:49:19,160 --> 00:49:23,313
+<i>My best wishes for a quick end
+to your time there or a good escape.</i>
+
+547
+00:49:23,800 --> 00:49:27,350
+<i>It was nice talking to you.
+Sincerely, Leopold Bloom.</i>
+
+548
+00:50:06,640 --> 00:50:07,869
+Hi, Mom.
+
+549
+00:50:09,960 --> 00:50:11,030
+Hey.
+
+550
+00:50:17,760 --> 00:50:20,639
+Don't you have any friends
+you can play with, Leo?
+
+551
+00:50:24,960 --> 00:50:26,792
+Can't you find some?
+
+552
+00:50:34,440 --> 00:50:36,352
+You shouldn't smoke, Mom.
+
+553
+00:50:37,840 --> 00:50:41,038
+We just learnt at school
+how bad it is for you.
+
+554
+00:50:41,520 --> 00:50:43,193
+It's bad for me?
+
+555
+00:50:44,200 --> 00:50:46,874
+It could kill you if you do it too much.
+
+556
+00:50:50,040 --> 00:50:53,112
+Why don't you let me decide
+what's bad for me?
+
+557
+00:50:58,800 --> 00:51:02,840
+Did they tell you how bad it is for a woman
+to smoke when she's pregnant?
+
+558
+00:51:09,960 --> 00:51:13,636
+I think I smoked
+when I was pregnant with you.
+
+559
+00:51:13,960 --> 00:51:15,758
+(LEO WHEEZING)
+
+560
+00:51:16,320 --> 00:51:19,950
+Maybe that's why you can't run
+without running out of air.
+
+561
+00:52:22,280 --> 00:52:23,600
+(DOOR OPENING)
+
+562
+00:53:04,960 --> 00:53:06,314
+Mrs Bloom.
+
+563
+00:53:06,560 --> 00:53:09,712
+- I'm Mr Jenkins, Leo's teacher.
+- Yes, I know that.
+
+564
+00:53:10,000 --> 00:53:11,673
+- Is there something wrong?
+- No, nothing's wrong.
+
+565
+00:53:11,760 --> 00:53:16,516
+- I just really need to talk to you about Leo.
+- What would you like to talk about?
+
+566
+00:53:16,600 --> 00:53:19,160
+Well, I really would like to enrol him
+at Ole Miss,
+
+567
+00:53:19,240 --> 00:53:21,072
+in some classes this summer.
+
+568
+00:53:21,160 --> 00:53:25,234
+His level of reading and writing is
+beyond any of his other classmates,
+
+569
+00:53:25,720 --> 00:53:27,393
+and, quite frankly,
+our school's curriculum just doesn't...
+
+570
+00:53:27,480 --> 00:53:29,756
+I told you I don't want him at the university.
+
+571
+00:53:29,840 --> 00:53:31,433
+- I know.
+- I don't feel that it would be better for him.
+
+572
+00:53:31,520 --> 00:53:34,513
+I know, and I respect that,
+but I think it would be.
+
+573
+00:53:34,600 --> 00:53:36,000
+- I know it wouldn't be.
+- How would you know that
+
+574
+00:53:36,080 --> 00:53:38,834
+before I've even told you
+our course of study?
+
+575
+00:53:44,480 --> 00:53:45,880
+Mrs Bloom.
+
+576
+00:53:47,480 --> 00:53:52,077
+I can't pretend to understand the level
+of suffering and loss, but...
+
+577
+00:53:52,160 --> 00:53:53,719
+Then don't.
+
+578
+00:53:58,120 --> 00:54:02,592
+I hate to be rude. I was just in the middle
+of something in the kitchen and...
+
+579
+00:54:02,680 --> 00:54:04,000
+Appreciate you stopping by.
+
+580
+00:54:04,080 --> 00:54:06,151
+I know, but Leo, he...
+
+581
+00:54:50,600 --> 00:54:53,798
+<i>LEO: "I take Mary there
+to try to calm her and myself.</i>
+
+582
+00:54:54,640 --> 00:54:57,917
+<i>"I don't know what it does except
+manage to put us on the same bank,</i>
+
+583
+00:54:58,000 --> 00:55:00,390
+<i>"the same side of things for a while.</i>
+
+584
+00:55:00,480 --> 00:55:03,552
+<i>"It was right about the river
+being a strong brown God,</i>
+
+585
+00:55:03,640 --> 00:55:07,953
+<i>"but those sullen untamed waters don't just
+remind us of what we want to forget.</i>
+
+586
+00:55:08,360 --> 00:55:09,794
+<i>"Sometimes, they make us
+forget those things</i>
+
+587
+00:55:09,880 --> 00:55:12,440
+<i>"we wish we didn't have to remember."</i>
+
+588
+00:55:13,760 --> 00:55:16,878
+MARY: Leo, you're gonna go blind
+one of these days.
+
+589
+00:55:27,920 --> 00:55:31,038
+What? Another one
+of your silent treatments?
+
+590
+00:55:36,920 --> 00:55:38,991
+All right, don't talk to me.
+
+591
+00:55:48,280 --> 00:55:49,600
+It's okay.
+
+592
+00:56:03,480 --> 00:56:05,790
+<i>STEPHEN: Dear kid, I got your letter,</i>
+
+593
+00:56:06,320 --> 00:56:09,233
+<i>and I don't just mean
+that I received it, either.</i>
+
+594
+00:56:09,320 --> 00:56:11,277
+<i>I mean I understood it.</i>
+
+595
+00:56:12,080 --> 00:56:14,037
+<i>I'm writing back
+because it would have meant something</i>
+
+596
+00:56:14,120 --> 00:56:17,477
+<i>for someone to write to me
+when I was your age.</i>
+
+597
+00:56:18,600 --> 00:56:21,434
+<i>I thought I'd tell you a few truths
+right off the bat.</i>
+
+598
+00:56:21,520 --> 00:56:22,715
+<i>Your mother loves you,</i>
+
+599
+00:56:22,800 --> 00:56:27,352
+<i>even if it's only in some part of herself
+that she never shares with you.</i>
+
+600
+00:56:27,440 --> 00:56:30,399
+<i>If people are uncomfortable with you,
+then forgive them.</i>
+
+601
+00:56:30,480 --> 00:56:33,837
+<i>It's probably because they're uncomfortable
+with themselves.</i>
+
+602
+00:56:33,920 --> 00:56:36,230
+<i>And even if you never knew
+your father or your sister,</i>
+
+603
+00:56:36,320 --> 00:56:39,074
+<i>it's okay for you to think of them
+and miss them.</i>
+
+604
+00:56:41,200 --> 00:56:43,954
+<i>Keep writing, kid,
+and I don't just mean to me.</i>
+
+605
+00:56:44,040 --> 00:56:45,952
+<i>Best regards. Stephen.</i>
+
+606
+00:57:12,480 --> 00:57:14,233
+Do you hate me, Leo?
+
+607
+00:57:21,520 --> 00:57:23,512
+No, I don't.
+
+608
+00:57:29,360 --> 00:57:30,714
+You should.
+
+609
+00:57:39,800 --> 00:57:42,235
+Do you know who I named you after?
+
+610
+00:57:43,760 --> 00:57:44,796
+No.
+
+611
+00:57:46,640 --> 00:57:49,394
+A character in a book called <i>Ulysses.</i>
+
+612
+00:57:50,280 --> 00:57:52,078
+I read it in college.
+
+613
+00:57:52,800 --> 00:57:55,269
+He reminded me of everything I was,
+
+614
+00:57:56,200 --> 00:57:58,510
+everything I never wanted to be.
+
+615
+00:58:02,680 --> 00:58:04,433
+Can I read the book?
+
+616
+00:58:07,800 --> 00:58:11,077
+Well, you've read every goddamn book
+in the house.
+
+617
+00:58:16,040 --> 00:58:18,032
+You'll regret that later.
+
+618
+00:58:39,600 --> 00:58:40,954
+(MUTTERING)
+
+619
+00:58:46,240 --> 00:58:48,880
+What the hell are you looking at, Leo?
+
+620
+00:58:49,760 --> 00:58:53,674
+I'm just wondering why you never talk to me
+when you come over.
+
+621
+00:58:54,040 --> 00:58:56,555
+Well, what do you want to talk about?
+
+622
+00:58:56,760 --> 00:58:58,399
+You pick a topic.
+
+623
+00:59:00,400 --> 00:59:03,518
+Well, we don't have a lot in common,
+
+624
+00:59:04,360 --> 00:59:06,829
+unless you want to talk about painting.
+
+625
+00:59:06,920 --> 00:59:10,038
+'Cause I paint pretty much every day,
+
+626
+00:59:10,560 --> 00:59:13,075
+and I don't think that interests you much,
+does it?
+
+627
+00:59:13,160 --> 00:59:14,276
+Sure.
+
+628
+00:59:14,680 --> 00:59:16,797
+Let's talk about painting.
+
+629
+00:59:17,320 --> 00:59:19,596
+What do you like about painting, Ryan?
+
+630
+00:59:19,680 --> 00:59:20,716
+(CHUCKLES)
+
+631
+00:59:20,800 --> 00:59:24,157
+To be honest with you,
+not a whole fucking lot.
+
+632
+00:59:25,000 --> 00:59:27,356
+- Next topic.
+- What do you like?
+
+633
+00:59:28,680 --> 00:59:31,240
+I'm tired, Leo. I'm fucking tired.
+
+634
+00:59:31,680 --> 00:59:33,399
+Do you like my mom?
+
+635
+00:59:38,840 --> 00:59:41,514
+You got a lot of balls
+asking all these questions, Leo.
+
+636
+00:59:41,600 --> 00:59:42,920
+Yeah.
+
+637
+00:59:43,000 --> 00:59:45,515
+Well, one should know these things.
+
+638
+00:59:46,560 --> 00:59:48,756
+So, do you like my mom or not?
+
+639
+00:59:49,440 --> 00:59:50,760
+Sure I do.
+
+640
+00:59:51,240 --> 00:59:53,550
+I like her a whole lot.
+
+641
+01:00:16,480 --> 01:00:20,030
+LOUIS: Vic put that up there about...
+About five years ago.
+
+642
+01:00:21,000 --> 01:00:23,595
+Did that the day after he thought
+he found Jesus.
+
+643
+01:00:23,680 --> 01:00:25,399
+- In the stock room.
+- The stock room?
+
+644
+01:00:25,480 --> 01:00:27,437
+(LAUGHING) Yeah. You know Vic.
+
+645
+01:00:30,840 --> 01:00:32,240
+LOUIS: Hey, Stephen.
+
+646
+01:00:33,360 --> 01:00:37,400
+There's been something on my mind,
+something kind of eating on me.
+
+647
+01:00:39,840 --> 01:00:41,274
+STEPHEN: What's that?
+
+648
+01:00:43,320 --> 01:00:45,994
+LOUIS: Last few weeks,
+I've been seeing the lights on in your room.
+
+649
+01:00:46,080 --> 01:00:48,675
+All night, and I mean all night.
+
+650
+01:00:49,720 --> 01:00:52,758
+And you, you just been
+sitting there, writing.
+
+651
+01:00:52,880 --> 01:00:56,112
+I mean, writing like a preacher
+working on a Sunday sermon.
+
+652
+01:00:56,960 --> 01:00:59,156
+Man, what are you working on?
+
+653
+01:01:00,080 --> 01:01:02,720
+A book, letters, but mostly letters.
+
+654
+01:01:03,840 --> 01:01:06,639
+I've been writing letters to a boy
+who wrote me when I was in prison.
+
+655
+01:01:06,720 --> 01:01:07,915
+- A boy?
+- Mmm-hmm.
+
+656
+01:01:09,840 --> 01:01:11,672
+LOUIS: Well, how's that working out for you?
+
+657
+01:01:12,640 --> 01:01:15,314
+He's like me before I went to prison,
+
+658
+01:01:17,040 --> 01:01:20,397
+and I want things
+to end up differently for him.
+
+659
+01:01:20,480 --> 01:01:24,360
+So I write stories to him,
+and it helps me, too.
+
+660
+01:01:25,840 --> 01:01:27,513
+'Cause, you know, some days,
+
+661
+01:01:27,600 --> 01:01:30,274
+shepherd's pie, as good as it is,
+doesn't cut it.
+
+662
+01:01:31,600 --> 01:01:34,434
+Man, you're learning, man. You're learning.
+
+663
+01:01:36,160 --> 01:01:37,640
+LOUIS: Hey, Stephen.
+
+664
+01:01:38,440 --> 01:01:41,478
+Did you know that kid
+before you went to prison?
+
+665
+01:01:41,560 --> 01:01:44,075
+No. It started when I was in there.
+
+666
+01:01:45,720 --> 01:01:47,552
+You ever see the kid?
+
+667
+01:01:48,800 --> 01:01:49,870
+No.
+
+668
+01:01:52,880 --> 01:01:54,599
+But I'm fixing to.
+
+669
+01:01:55,720 --> 01:01:56,870
+Soon.
+
+670
+01:01:57,880 --> 01:02:00,076
+I believe you will, Stephen.
+
+671
+01:02:00,280 --> 01:02:02,237
+Yes, I believe you will.
+
+672
+01:02:08,720 --> 01:02:12,475
+(CHILDREN CHATTERING)
+
+673
+01:02:43,680 --> 01:02:47,993
+KID 1: Come on, Mark.
+KID 2: Batter, swing!
+
+674
+01:02:51,640 --> 01:02:52,710
+Hey.
+
+675
+01:02:53,400 --> 01:02:54,470
+Hey.
+
+676
+01:02:55,280 --> 01:02:57,033
+You allowed to play?
+
+677
+01:03:00,160 --> 01:03:01,276
+Yeah.
+
+678
+01:03:02,360 --> 01:03:04,397
+What position do you want?
+
+679
+01:03:07,600 --> 01:03:09,671
+- I want to be catcher.
+- Catcher?
+
+680
+01:03:10,320 --> 01:03:11,879
+Why do you want to play that?
+
+681
+01:03:11,960 --> 01:03:14,919
+You don't run, and you've gotta sit
+on your knees the whole time.
+
+682
+01:03:15,000 --> 01:03:18,038
+That's fine by me. I'm sick of being catcher.
+
+683
+01:03:18,120 --> 01:03:19,600
+Let him do it.
+
+684
+01:03:49,400 --> 01:03:51,119
+(KIDS CHEERING)
+
+685
+01:04:02,600 --> 01:04:04,193
+MARK: All right, Bloom!
+
+686
+01:04:07,560 --> 01:04:09,040
+KID 1: Come on, Leo!
+
+687
+01:04:11,200 --> 01:04:13,351
+Come on, Leo! Come on, Leo!
+
+688
+01:04:16,920 --> 01:04:20,436
+Come on, Leo! Come on, Leo!
+
+689
+01:04:22,400 --> 01:04:23,880
+Come on, Leo!
+
+690
+01:04:25,680 --> 01:04:27,194
+KID 2: Go to it, Leo!
+
+691
+01:04:28,400 --> 01:04:29,959
+KID 1: Go on, Leo!
+
+692
+01:04:33,400 --> 01:04:34,550
+KID 2: He clobbered it!
+
+693
+01:04:34,640 --> 01:04:37,360
+KID 3: Go on, Leo! Go on! You can do it!
+
+694
+01:04:37,800 --> 01:04:39,314
+Run! Run!
+
+695
+01:04:41,480 --> 01:04:43,312
+Go on, Leo. Run!
+
+696
+01:04:48,120 --> 01:04:49,315
+KID 1: Leo!
+
+697
+01:04:52,480 --> 01:04:54,790
+KID 1: Yeah, all right, Leo!
+
+698
+01:04:55,000 --> 01:04:56,639
+Nice job, Leo.
+
+699
+01:04:57,880 --> 01:04:59,951
+KID 1: All right.
+KID 2: Well done, Leo.
+
+700
+01:05:00,320 --> 01:05:02,994
+- All right! That was an awesome hit!
+- Great hit!
+
+701
+01:05:07,520 --> 01:05:09,751
+- Leo!
+- KID 4: Well done, Leo.
+
+702
+01:05:10,440 --> 01:05:12,716
+MARY: Come on. It's time to come inside.
+
+703
+01:05:12,800 --> 01:05:14,314
+That was great.
+
+704
+01:05:15,840 --> 01:05:18,560
+- See you, Leo.
+- See you soon.
+
+705
+01:05:38,440 --> 01:05:40,033
+Rise and shine!
+
+706
+01:05:41,000 --> 01:05:42,229
+Wake up!
+
+707
+01:05:44,160 --> 01:05:47,119
+Wake up! Wake the fuck up!
+
+708
+01:05:48,240 --> 01:05:50,471
+I'm a low-down dirty dog.
+
+709
+01:05:54,520 --> 01:05:55,749
+Wake up!
+
+710
+01:05:56,520 --> 01:05:59,035
+You wake the fuck up! Do you hear me?
+
+711
+01:05:59,840 --> 01:06:01,035
+Get up!
+
+712
+01:06:01,800 --> 01:06:03,632
+Open the fucking door!
+
+713
+01:06:03,960 --> 01:06:05,076
+Mary.
+
+714
+01:06:05,680 --> 01:06:07,512
+Open the fucking door.
+
+715
+01:06:08,560 --> 01:06:10,392
+(DOORBELL RINGING)
+
+716
+01:06:10,560 --> 01:06:13,917
+Come on out here, baby. Open the door!
+
+717
+01:06:14,480 --> 01:06:18,156
+What's a guy gotta do
+to get laid around here?
+
+718
+01:06:18,240 --> 01:06:20,630
+How's this for a fucking charge?
+
+719
+01:06:20,800 --> 01:06:21,790
+Shit.
+
+720
+01:06:30,520 --> 01:06:32,239
+I'll be back.
+
+721
+01:06:34,320 --> 01:06:36,039
+You're gonna pay me.
+
+722
+01:06:49,520 --> 01:06:51,193
+(ENGINE STARTING)
+
+723
+01:07:05,960 --> 01:07:08,794
+<i>(MUFFLED VOICE TALKING)</i>
+
+724
+01:07:49,480 --> 01:07:52,439
+(HORACE SHOUTING)
+
+725
+01:08:10,440 --> 01:08:12,352
+(CLATTERING)
+
+726
+01:08:13,040 --> 01:08:14,759
+(HORACE AND CAROLINE SHOUTING)
+
+727
+01:08:15,080 --> 01:08:16,070
+(LAUGHING) Hey.
+
+728
+01:08:21,720 --> 01:08:24,189
+You keep them open. Keep them open.
+
+729
+01:08:26,200 --> 01:08:28,237
+- Who do you owe?
+- I know.
+
+730
+01:08:28,320 --> 01:08:29,754
+- Who do you owe?
+- I owe you.
+
+731
+01:08:29,840 --> 01:08:31,718
+- Okay.
+- I know I owe you.
+
+732
+01:08:31,800 --> 01:08:34,679
+You owe me big time, bitch.
+
+733
+01:08:35,840 --> 01:08:37,274
+- You like that?
+- Yes, I like that.
+
+734
+01:08:37,360 --> 01:08:38,430
+- You like that, don't you?
+- Yeah.
+
+735
+01:08:38,520 --> 01:08:42,434
+Spread! Okay, you just keep them open,
+keep them open.
+
+736
+01:08:51,160 --> 01:08:52,276
+Hey.
+
+737
+01:08:53,200 --> 01:08:54,953
+What's going on?
+
+738
+01:08:55,520 --> 01:08:57,398
+Absolutely nothing.
+
+739
+01:08:58,600 --> 01:08:59,954
+(LAUGHING)
+
+740
+01:09:00,280 --> 01:09:03,796
+Who owns this egg?
+It's my egg, like you're my egg.
+
+741
+01:09:06,000 --> 01:09:08,879
+Yeah, that feels good, doesn't it?
+
+742
+01:09:08,960 --> 01:09:11,156
+Yeah, you just sit there.
+
+743
+01:09:11,240 --> 01:09:15,200
+There! Now look at you, huh? Look at you!
+
+744
+01:09:15,280 --> 01:09:16,350
+STEPHEN: Where's Vic?
+
+745
+01:09:16,440 --> 01:09:20,400
+Louis, where's Vic?
+I haven't seen him in a couple of days.
+
+746
+01:09:20,480 --> 01:09:22,358
+There's blinds drawn.
+
+747
+01:09:22,440 --> 01:09:26,195
+- Doesn't he get hungry in there?
+- JACK: Not where he goes.
+
+748
+01:09:26,280 --> 01:09:28,954
+- HORACE: Keep them open!
+- Where's Caroline?
+
+749
+01:09:29,040 --> 01:09:32,238
+Look at that, skimming tips from me.
+"I owe you."
+
+750
+01:09:32,320 --> 01:09:33,879
+Didn't I tell you to keep your legs open?
+
+751
+01:09:33,960 --> 01:09:34,996
+Where is she?
+
+752
+01:09:35,080 --> 01:09:36,480
+HORACE: Keep them open!
+
+753
+01:09:36,560 --> 01:09:39,792
+Stephen, leave it be. Stay on that side
+of the counter for your own good.
+
+754
+01:09:39,880 --> 01:09:40,950
+Out of my way, Jack!
+
+755
+01:09:41,040 --> 01:09:43,236
+JACK: You really ought to stay out of that.
+
+756
+01:09:45,600 --> 01:09:48,399
+Who said you could put that...
+Keep them open.
+
+757
+01:09:51,320 --> 01:09:54,154
+Stop it. Stop it.
+
+758
+01:09:56,600 --> 01:09:58,034
+HORACE: Shit.
+
+759
+01:09:59,360 --> 01:10:04,196
+Never in my life have I ever seen
+anybody as fucking stupid as you, boy.
+
+760
+01:10:04,280 --> 01:10:06,590
+I'm gonna have to kill you now.
+
+761
+01:10:07,200 --> 01:10:09,510
+Stupid? Stupid?
+
+762
+01:10:11,840 --> 01:10:13,638
+How stupid is this?
+
+763
+01:10:17,520 --> 01:10:18,874
+Or this?
+
+764
+01:10:23,600 --> 01:10:24,920
+Or this?
+
+765
+01:10:25,880 --> 01:10:28,554
+I get stupider by the minute, don't I?
+
+766
+01:10:29,840 --> 01:10:30,990
+What?
+
+767
+01:10:31,880 --> 01:10:32,950
+What?
+
+768
+01:10:33,040 --> 01:10:36,477
+Do you think this is the first time
+I've seen a rape?
+
+769
+01:10:37,200 --> 01:10:38,759
+I'm not stupid.
+
+770
+01:10:39,440 --> 01:10:42,080
+But what was your credo again?
+
+771
+01:10:42,160 --> 01:10:44,720
+You sackless piece of shit.
+
+772
+01:10:46,080 --> 01:10:47,355
+Well,
+
+773
+01:10:48,600 --> 01:10:50,876
+I don't need a reason either.
+
+774
+01:10:53,800 --> 01:10:56,395
+You know what I don't like about you?
+
+775
+01:10:56,480 --> 01:11:00,952
+You smell like something should
+have been dead a long time ago.
+
+776
+01:11:01,720 --> 01:11:04,918
+If you take my silence for fear,
+you're mistaken.
+
+777
+01:11:05,000 --> 01:11:08,471
+The last time I saw a man hurt a woman,
+
+778
+01:11:08,560 --> 01:11:09,630
+I killed him.
+
+779
+01:11:09,720 --> 01:11:12,076
+And I swear on my life,
+
+780
+01:11:12,160 --> 01:11:18,316
+the last thing he thought
+was how a man so quiet
+
+781
+01:11:21,000 --> 01:11:24,152
+could hit so hard.
+
+782
+01:11:31,200 --> 01:11:32,793
+I'm only playing, you know?
+
+783
+01:11:32,880 --> 01:11:35,714
+I mean, she should clean herself up.
+Clean yourself up now.
+
+784
+01:11:35,800 --> 01:11:39,555
+We was just playing here.
+Just clean yourself up now.
+
+785
+01:11:39,640 --> 01:11:42,314
+I don't need this shit, you know?
+
+786
+01:11:44,640 --> 01:11:46,950
+Playing with her, that's all.
+
+787
+01:11:50,960 --> 01:11:52,519
+All right, now.
+
+788
+01:12:12,600 --> 01:12:17,117
+I'm sorry. He's not usually this bad.
+
+789
+01:12:17,200 --> 01:12:18,839
+Sure he is.
+
+790
+01:12:19,720 --> 01:12:22,599
+But he won't be for a while,
+at least not tonight.
+
+791
+01:12:22,680 --> 01:12:25,115
+You never know with him.
+
+792
+01:12:25,200 --> 01:12:26,793
+But you're still gonna
+have to get out of here
+
+793
+01:12:26,880 --> 01:12:30,032
+'cause he will come back for you.
+
+794
+01:12:30,120 --> 01:12:32,954
+- What about you?
+- Yeah, where am I gonna go?
+
+795
+01:12:33,040 --> 01:12:35,600
+Anywhere would be better than here.
+
+796
+01:12:36,760 --> 01:12:38,035
+Sometimes I think...
+
+797
+01:12:38,120 --> 01:12:41,511
+I don't know, part of me is afraid to think,
+
+798
+01:12:43,400 --> 01:12:45,471
+but I don't know anywhere but here.
+
+799
+01:12:45,560 --> 01:12:49,156
+Here is just a place, not a fate.
+
+800
+01:12:56,760 --> 01:12:58,911
+Where you gonna go?
+
+801
+01:13:02,480 --> 01:13:04,119
+The Mississippi.
+
+802
+01:13:04,200 --> 01:13:06,510
+What you gonna go fishing for down there?
+
+803
+01:13:06,600 --> 01:13:08,000
+Nothing.
+
+804
+01:13:10,360 --> 01:13:13,080
+- I just never seen it before.
+- Yes, you have.
+
+805
+01:13:13,160 --> 01:13:14,753
+No, never have.
+
+806
+01:13:16,720 --> 01:13:19,633
+I took a detour to prison on my way there.
+
+807
+01:13:22,920 --> 01:13:24,274
+Anyway,
+
+808
+01:13:27,240 --> 01:13:30,278
+no one's ever done
+what you did for me today.
+
+809
+01:13:31,320 --> 01:13:33,835
+I know you didn't need to do that.
+
+810
+01:13:35,200 --> 01:13:36,714
+Yeah, well,
+
+811
+01:13:39,200 --> 01:13:42,398
+I've needed to be able to do that all my life.
+
+812
+01:13:44,200 --> 01:13:47,432
+Took me 18 years
+to get the nerve to do it once,
+
+813
+01:13:48,520 --> 01:13:51,752
+only to make a mess of it
+when I finally tried.
+
+814
+01:13:55,360 --> 01:14:01,357
+Are you still pissed about last night?
+I was drunk, for Christ's sake.
+
+815
+01:14:01,440 --> 01:14:03,477
+Besides, it never would have happened
+if you'd let me in
+
+816
+01:14:03,560 --> 01:14:07,110
+instead of locking
+all the goddamn fucking doors.
+
+817
+01:14:09,720 --> 01:14:15,637
+Shit, Mary. What about all them wonderful,
+beautiful times we had together? Huh?
+
+818
+01:14:15,720 --> 01:14:20,556
+- What good times, Ryan?
+- What the fuck has gotten into you?
+
+819
+01:14:20,640 --> 01:14:24,395
+Today marks the 18th anniversary
+of my demise as a person.
+
+820
+01:14:25,520 --> 01:14:29,400
+- What the fuck are you talking about?
+- Are you that dumb?
+
+821
+01:14:30,960 --> 01:14:34,158
+I always wondered
+if you were as stupid as you looked.
+
+822
+01:14:38,880 --> 01:14:41,634
+- Leo's birthday. Fuck!
+- I hate you.
+
+823
+01:14:41,720 --> 01:14:44,519
+- How the fuck can you say that to me?
+- It's so easy.
+
+824
+01:14:44,600 --> 01:14:46,751
+How about all them times
+when fucking me was the best thing
+
+825
+01:14:46,840 --> 01:14:49,480
+in that miserable little fucking life of yours?
+
+826
+01:14:58,800 --> 01:15:01,599
+Fucking you was always
+the worst thing in my life.
+
+827
+01:15:01,680 --> 01:15:03,911
+You keep this shit up,
+and I swear to God, Mary,
+
+828
+01:15:04,000 --> 01:15:05,559
+I will kick your fucking ass.
+
+829
+01:15:05,640 --> 01:15:08,712
+Come on. Come on, big boy, beat me up.
+Beat me!
+
+830
+01:15:08,800 --> 01:15:10,996
+It's not going to change the fact
+that I know that you know.
+
+831
+01:15:11,080 --> 01:15:12,116
+What the hell are you talking about?
+
+832
+01:15:12,200 --> 01:15:15,671
+What did you think?
+What did you think when I was pregnant
+
+833
+01:15:15,760 --> 01:15:18,753
+right after that first time together?
+
+834
+01:15:18,840 --> 01:15:21,799
+Did you think because he was quiet
+you didn't have to look at him?
+
+835
+01:15:21,880 --> 01:15:24,076
+That he didn't look like you?
+
+836
+01:15:24,160 --> 01:15:26,072
+RYAN: What the fuck are you talking about?
+
+837
+01:15:26,160 --> 01:15:28,834
+MARY: 'Cause he was good,
+he wasn't yours?
+
+838
+01:15:29,080 --> 01:15:31,800
+It's not fucking true. It isn't true.
+
+839
+01:15:31,880 --> 01:15:33,314
+It is true.
+
+840
+01:15:34,200 --> 01:15:36,157
+That kid is not mine.
+
+841
+01:15:37,080 --> 01:15:39,959
+MARY: He's yours.
+He's yours, you fucking loser.
+
+842
+01:15:40,040 --> 01:15:43,750
+Don't go trying to find a father
+and pinning the fucking blame on me.
+
+843
+01:15:43,840 --> 01:15:44,956
+You hear me?
+
+844
+01:15:45,040 --> 01:15:48,590
+You've gone way too fucking far
+this time, Mary, way too fucking far!
+
+845
+01:15:48,680 --> 01:15:52,276
+See this? See what I'm gonna do?
+I'm gonna fucking cut your head off.
+
+846
+01:15:52,360 --> 01:15:53,430
+- Do you hear me?
+- Do it!
+
+847
+01:15:53,520 --> 01:15:55,432
+- I'm gonna cut your fucking head off.
+- Do it!
+
+848
+01:15:55,520 --> 01:15:57,239
+Leave her alone!
+
+849
+01:15:58,840 --> 01:16:00,672
+- Leave her!
+- MARY: Stop!
+
+850
+01:16:01,560 --> 01:16:04,439
+- Leave her! Stop it!
+- MARY: No. Why did you do that?
+
+851
+01:16:05,320 --> 01:16:07,676
+MARY: (CRYING) Why did you stop him?
+
+852
+01:16:33,760 --> 01:16:36,878
+Ever get tired of the name
+people call you by?
+
+853
+01:16:37,600 --> 01:16:39,910
+- What? Gil?
+- Mmm-hmm.
+
+854
+01:16:41,800 --> 01:16:43,029
+No.
+
+855
+01:16:43,120 --> 01:16:44,998
+Been called Gil my whole life.
+
+856
+01:16:48,160 --> 01:16:51,358
+Well, I'd like to change mine.
+
+857
+01:16:52,360 --> 01:16:54,556
+- What to?
+- Stephen.
+
+858
+01:16:56,040 --> 01:16:57,520
+Why Stephen?
+
+859
+01:16:59,240 --> 01:17:03,280
+Well, there's two men in this one book.
+
+860
+01:17:05,640 --> 01:17:09,680
+Stephen is the young one,
+and Leopold is the older one.
+
+861
+01:17:12,160 --> 01:17:16,359
+One believes, and the other
+spends his entire life doubting.
+
+862
+01:17:19,000 --> 01:17:21,799
+I feel like I've been old my whole life,
+
+863
+01:17:23,560 --> 01:17:25,392
+and I'm done doubting.
+
+864
+01:17:33,640 --> 01:17:35,120
+KINGSLEY: Mrs Bloom,
+
+865
+01:17:35,200 --> 01:17:39,274
+will you describe for the court
+as precisely as you can, please,
+
+866
+01:17:39,360 --> 01:17:42,478
+the events that led up to Mr Eames's death?
+
+867
+01:17:44,120 --> 01:17:46,760
+MARY: Well, we were talking in the kitchen.
+
+868
+01:17:47,400 --> 01:17:50,234
+I know our voices were raised.
+
+869
+01:17:51,400 --> 01:17:54,552
+And I think Leo came home
+in the middle of it.
+
+870
+01:17:55,320 --> 01:17:57,755
+And the next thing I knew,
+
+871
+01:17:59,640 --> 01:18:03,236
+Leo had a skillet over his head.
+
+872
+01:18:05,720 --> 01:18:07,473
+I couldn't stop it.
+
+873
+01:18:14,760 --> 01:18:16,194
+Mrs Bloom,
+
+874
+01:18:16,720 --> 01:18:21,795
+is it not true that Ryan Eames was about
+to stab you when your son walked in
+
+875
+01:18:21,880 --> 01:18:25,237
+and saved you from what was sure to
+be imminent bodily harm?
+
+876
+01:18:25,320 --> 01:18:27,471
+PROSECUTOR: Objection! Counsel is leading
+the witness, Your Honour.
+
+877
+01:18:27,560 --> 01:18:30,439
+JUDGE: Objection sustained. Counsel,
+ask your question, don't answer it yourself.
+
+878
+01:18:30,520 --> 01:18:32,751
+KINGSLEY: Was Ryan Eames about
+to stab you when your son walked in?
+
+879
+01:18:32,840 --> 01:18:34,354
+He had a knife.
+
+880
+01:18:35,760 --> 01:18:38,878
+But he had had a knife before. I...
+
+881
+01:18:39,720 --> 01:18:43,600
+I wouldn't have known whether
+he would have stabbed me.
+
+882
+01:18:44,600 --> 01:18:47,240
+KINGSLEY: Was Ryan Eames beating you
+that afternoon?
+
+883
+01:18:49,280 --> 01:18:50,760
+Mrs Bloom?
+
+884
+01:18:50,840 --> 01:18:54,231
+How do you explain the multiple bruises
+on your body that day?
+
+885
+01:18:54,440 --> 01:18:58,639
+- I want the court to instruct her to answer.
+- Mrs Bloom, answer the question.
+
+886
+01:19:00,200 --> 01:19:02,556
+I have bruises all over my body.
+
+887
+01:19:04,000 --> 01:19:08,711
+- Ryan and I drank and things got rough.
+- Well, did things get rough that day?
+
+888
+01:19:11,200 --> 01:19:12,634
+No more than usual.
+
+889
+01:19:12,720 --> 01:19:15,394
+- I'm sorry?
+- No more than usual.
+
+890
+01:19:16,840 --> 01:19:19,309
+KINGSLEY: How would you describe
+your relationship with your son?
+
+891
+01:19:19,400 --> 01:19:21,278
+PROSECUTOR: Objection, Your Honour.
+That's not relevant here.
+
+892
+01:19:21,360 --> 01:19:24,080
+Oh, please, can I ask about intent?
+
+893
+01:19:24,560 --> 01:19:27,120
+JUDGE: Overruled. Answer the question.
+
+894
+01:19:28,720 --> 01:19:31,872
+As complicated as any
+between a mother and a son.
+
+895
+01:19:31,960 --> 01:19:35,158
+KINGSLEY: Would you say
+that you resented your son
+
+896
+01:19:35,240 --> 01:19:37,197
+for who you thought his father was?
+
+897
+01:19:37,280 --> 01:19:40,637
+PROSECUTOR: Objection, he's leading
+the witness again, Your Honour. Please.
+
+898
+01:19:40,720 --> 01:19:43,235
+- JUDGE: Overruled.
+- Did you?
+
+899
+01:19:44,080 --> 01:19:45,196
+No.
+
+900
+01:19:46,960 --> 01:19:48,440
+No, I didn't.
+
+901
+01:19:49,120 --> 01:19:53,831
+KINGSLEY: And I suppose it wouldn't matter
+to know that Ryan Eames wasn't his father.
+
+902
+01:19:57,840 --> 01:19:59,752
+That's not possible.
+
+903
+01:20:00,200 --> 01:20:05,719
+- Leo has always been like his father.
+- KINGSLEY: Yes, I suppose he has.
+
+904
+01:20:07,520 --> 01:20:12,800
+Because the people that I spoke to
+say that Leo's father was a good man.
+
+905
+01:20:19,160 --> 01:20:21,311
+Blood tests show Ryan Eames to be sterile,
+Mrs Bloom,
+
+906
+01:20:21,400 --> 01:20:24,040
+whether or not you ever cared to know.
+
+907
+01:20:29,120 --> 01:20:31,476
+I have no further questions for this witness.
+
+908
+01:20:31,560 --> 01:20:34,359
+JUDGE: Prosecution
+have any further questions?
+
+909
+01:20:35,560 --> 01:20:37,313
+PROSECUTOR:
+Nothing further, Your Honour.
+
+910
+01:20:37,400 --> 01:20:39,437
+JUDGE: The witness is excused.
+
+911
+01:20:40,080 --> 01:20:42,549
+The court will take a 30-minute recess.
+
+912
+01:20:42,640 --> 01:20:45,917
+- I'm gonna put you on the stand.
+- No. No, you're not.
+
+913
+01:20:47,800 --> 01:20:49,029
+The jury.
+
+914
+01:20:52,000 --> 01:20:53,229
+Get up.
+
+915
+01:20:55,360 --> 01:20:58,876
+They don't want to believe her.
+We have to have them hear your side of it.
+
+916
+01:20:58,960 --> 01:21:01,555
+No, I don't think so.
+
+917
+01:21:01,640 --> 01:21:05,270
+Hey, Leo,
+it is 15 to 20 years we are talking about.
+
+918
+01:21:07,600 --> 01:21:10,195
+Why won't you tell them
+how it really happened?
+
+919
+01:21:10,360 --> 01:21:12,113
+I took his life.
+
+920
+01:21:13,480 --> 01:21:15,039
+She took mine.
+
+921
+01:21:16,640 --> 01:21:18,916
+There's two reasons for you right there.
+
+922
+01:21:19,000 --> 01:21:21,276
+Hey! I don't understand that.
+
+923
+01:21:23,280 --> 01:21:24,794
+Yeah, well,
+
+924
+01:21:26,200 --> 01:21:28,192
+you don't have to.
+
+925
+01:21:41,840 --> 01:21:44,071
+What did you just do in there?
+
+926
+01:21:47,240 --> 01:21:49,391
+Do you realise what you did?
+
+927
+01:21:51,920 --> 01:21:53,400
+You hung him.
+
+928
+01:21:55,840 --> 01:21:59,629
+<i>What would it have cost you
+to tell them why he did it?</i>
+
+929
+01:22:00,800 --> 01:22:02,678
+He did it for you.
+
+930
+01:22:06,320 --> 01:22:08,755
+He was defending you.
+
+931
+01:22:10,240 --> 01:22:13,233
+<i>Look at you.
+I don't even know who you are any more.</i>
+
+932
+01:22:15,360 --> 01:22:17,272
+Could you look at me?
+
+933
+01:22:17,480 --> 01:22:19,278
+(GAVEL POUNDING)
+
+934
+01:22:21,160 --> 01:22:23,675
+In the count of first degree murder,
+
+935
+01:22:23,760 --> 01:22:29,154
+we, the jury, find the defendant,
+Leopold Bloom,
+
+936
+01:22:29,240 --> 01:22:31,516
+guilty as charged.
+
+937
+01:23:30,720 --> 01:23:32,916
+I came to say goodbye.
+
+938
+01:23:33,560 --> 01:23:36,155
+You already did that on the stand,
+didn't you?
+
+939
+01:23:40,000 --> 01:23:42,515
+I guess it's my turn to say goodbye.
+
+940
+01:23:44,000 --> 01:23:45,912
+That's why you're here, right?
+
+941
+01:23:48,280 --> 01:23:49,953
+Was it worth it?
+
+942
+01:23:51,840 --> 01:23:54,355
+- Was what worth it?
+- Killing Ryan.
+
+943
+01:23:56,320 --> 01:23:59,836
+Was being in here worth killing him?
+
+944
+01:24:00,520 --> 01:24:03,115
+You mean, were you worth it?
+
+945
+01:24:06,080 --> 01:24:07,514
+I don't know.
+
+946
+01:24:10,760 --> 01:24:13,594
+I don't know what you ever expected of me.
+
+947
+01:24:15,520 --> 01:24:19,036
+I expected you to be someone that
+
+948
+01:24:19,640 --> 01:24:21,120
+I would love.
+
+949
+01:24:22,240 --> 01:24:25,278
+And from the first time I saw you, you were.
+
+950
+01:24:26,280 --> 01:24:28,875
+You thought it was your fault
+they went away.
+
+951
+01:24:28,960 --> 01:24:30,474
+And mine, too.
+
+952
+01:24:32,240 --> 01:24:35,438
+I always thought
+that it had to have been mine.
+
+953
+01:24:36,640 --> 01:24:39,474
+The way you were born, the day.
+
+954
+01:24:40,640 --> 01:24:45,157
+I never knew that you were Ben's.
+
+955
+01:24:45,640 --> 01:24:48,758
+And now that you do
+it's okay that I'm your son?
+
+956
+01:24:51,640 --> 01:24:52,960
+No.
+
+957
+01:24:55,520 --> 01:24:57,079
+You killed me.
+
+958
+01:24:58,600 --> 01:25:00,239
+And I killed him.
+
+959
+01:25:01,560 --> 01:25:06,237
+And now we can be done with all of it.
+
+960
+01:25:08,280 --> 01:25:09,953
+Leo, no.
+
+961
+01:25:15,560 --> 01:25:19,315
+(CRYING) No, I'm so sorry.
+
+962
+01:25:20,360 --> 01:25:22,272
+I'm so sorry.
+
+963
+01:25:22,360 --> 01:25:25,671
+Don't leave me. Don't leave me. Don't...
+
+964
+01:25:27,280 --> 01:25:29,636
+Don't leave me.
+
+965
+01:25:41,360 --> 01:25:45,513
+<i>STEPHEN: Dear Tom, I have finished at last.</i>
+
+966
+01:25:45,600 --> 01:25:50,231
+<i>I'm sending you the last book,
+and as for any other bits and pieces,</i>
+
+967
+01:25:50,320 --> 01:25:54,519
+<i>I trust they will find their way
+to wherever it is they are meant to be.</i>
+
+968
+01:25:54,840 --> 01:25:57,400
+<i>Thanks for everything, old friend.</i>
+
+969
+01:26:59,720 --> 01:27:02,758
+<i>VIC: "He could look down gravely
+for however long he wanted to</i>
+
+970
+01:27:02,840 --> 01:27:05,958
+<i>"while the silence decided to declare itself.</i>
+
+971
+01:27:08,080 --> 01:27:10,151
+<i>"What was it I was thinking?</i>
+
+972
+01:27:11,560 --> 01:27:14,394
+<i>"And he could keep his mouth so still,</i>
+
+973
+01:27:16,760 --> 01:27:18,911
+<i>"and dedicate it to the pain.</i>
+
+974
+01:27:20,240 --> 01:27:24,792
+<i>"He could sit in a grey room long enough
+and quiet enough</i>
+
+975
+01:27:24,920 --> 01:27:28,038
+<i>"to try to figure out what colour the air was.</i>
+
+976
+01:27:29,480 --> 01:27:33,793
+<i>"And he could gently lift a green rolled
+ticket to his mouth</i>
+
+977
+01:27:34,080 --> 01:27:37,357
+<i>"and close his eyes
+to divine the destination,</i>
+
+978
+01:27:38,840 --> 01:27:41,230
+<i>"waiting silently to be sure
+he could hear the answer</i>
+
+979
+01:27:41,320 --> 01:27:43,915
+<i>"when it finally came blowing out.</i>
+
+980
+01:27:46,360 --> 01:27:48,556
+<i>"I declined to accept the end.</i>
+
+981
+01:27:50,640 --> 01:27:54,316
+<i>"He could look at his pant legs
+for hours before he moved,</i>
+
+982
+01:27:54,400 --> 01:27:56,835
+<i>"following the crease in them
+with his finger,</i>
+
+983
+01:27:56,920 --> 01:28:00,231
+<i>"so he could feel the flesh
+they housed inside.</i>
+
+984
+01:28:01,120 --> 01:28:02,873
+<i>"Can we even bear it?</i>
+
+985
+01:28:05,080 --> 01:28:09,518
+<i>"And he could lean back
+to be able to blend in with the wood.</i>
+
+986
+01:28:10,520 --> 01:28:15,470
+<i>"It could swallow his sluggishness,
+which it was anchored in firmly."</i>
+
+987
+01:28:44,880 --> 01:28:48,430
+Hey, asshole!
+Why do you look so surprised?
+
+988
+01:28:48,520 --> 01:28:52,275
+Were you dumb enough to think that
+that was it, huh? Yeah!
+
+989
+01:28:52,360 --> 01:28:53,919
+Horace, come on.
+You said you were just gonna scare him.
+
+990
+01:28:54,000 --> 01:28:55,832
+Shut the fuck up, Jack.
+
+991
+01:28:57,480 --> 01:29:00,234
+What is this? Huh, motherfucker?
+You going on a little trip, were you?
+
+992
+01:29:00,320 --> 01:29:02,789
+Were you going
+without saying goodbye to me? Huh?
+
+993
+01:29:04,760 --> 01:29:07,400
+What have we got here? What are you,
+a fucking writer or something?
+
+994
+01:29:07,480 --> 01:29:10,200
+We got us a fucking little
+Ernest Hemingway here.
+
+995
+01:29:10,280 --> 01:29:13,910
+Didn't he die with a goddamn fucking
+shotgun in his mouth, pal?
+
+996
+01:29:14,000 --> 01:29:15,400
+- Horace!
+- Huh?
+
+997
+01:29:15,680 --> 01:29:18,320
+- Well, what's going on here?
+- Nothing, Vic.
+
+998
+01:29:18,400 --> 01:29:21,074
+You go and get me my breakfast, huh?
+I'll be there in a minute.
+
+999
+01:29:21,160 --> 01:29:23,834
+Louis is taking care of your breakfast.
+
+1000
+01:29:24,280 --> 01:29:26,237
+Well, why don't you mind your own
+fucking business?
+
+1001
+01:29:26,320 --> 01:29:29,392
+Go back to your room
+and light up one of them hangers,
+
+1002
+01:29:29,480 --> 01:29:31,073
+or whatever the fuck you do. Now go on!
+
+1003
+01:29:31,160 --> 01:29:34,790
+- This is my fucking business.
+- Oh, God!
+
+1004
+01:29:34,880 --> 01:29:36,712
+My legs, my goddamn knees.
+
+1005
+01:29:36,800 --> 01:29:39,520
+VIC: You want some of it?
+HORACE: God damn you!
+
+1006
+01:29:39,600 --> 01:29:41,956
+I'm gonna kill you, you son of a bitch.
+
+1007
+01:29:42,040 --> 01:29:45,272
+You'd have to be able to get up first
+to do that, wouldn't you?
+
+1008
+01:29:45,360 --> 01:29:48,239
+Come on, get out of here!
+Come on! Come on!
+
+1009
+01:29:49,720 --> 01:29:51,200
+HORACE: I'm gonna kill you,
+you son of a bitch!
+
+1010
+01:29:51,280 --> 01:29:53,112
+VIC: He ain't gonna kill you now.
+
+1011
+01:29:53,200 --> 01:29:56,876
+- I never would have let him.
+- Well, you're welcome, anyhow.
+
+1012
+01:29:57,960 --> 01:30:02,193
+You'd better get the hell out of here
+before he sends Jack out for you,
+
+1013
+01:30:02,280 --> 01:30:05,398
+or in case someone
+up and moves the Mississippi.
+
+1014
+01:30:11,440 --> 01:30:12,510
+Ah.
+
+1015
+01:30:13,680 --> 01:30:15,080
+I love this.
+
+1016
+01:30:16,280 --> 01:30:17,794
+You smell that?
+
+1017
+01:30:18,600 --> 01:30:20,751
+That's why I could never leave the South.
+
+1018
+01:30:23,280 --> 01:30:24,999
+You better leave, though.
+
+1019
+01:30:26,400 --> 01:30:28,437
+Go on, get out of here.
+
+1020
+01:30:28,520 --> 01:30:30,716
+Good luck with that kid, now.
+
+1021
+01:30:33,160 --> 01:30:34,310
+Thanks.
+
+1022
+01:30:35,160 --> 01:30:36,355
+I will.
+
+1023
+01:33:02,320 --> 01:33:04,232
+STEPHEN: Why...
+Why are you running so hard?
+
+1024
+01:33:04,320 --> 01:33:07,711
+Have to get a message to someone.
+Have to go.
+
+1025
+01:33:09,960 --> 01:33:14,751
+Well, I'm tired, so why don't you
+sit down with me for a minute?
+
+1026
+01:33:14,840 --> 01:33:18,800
+I can't. I gotta... I gotta tell him.
+
+1027
+01:33:19,240 --> 01:33:20,469
+Tell who?
+
+1028
+01:33:20,560 --> 01:33:21,596
+I just...
+
+1029
+01:33:24,080 --> 01:33:27,118
+- I gotta tell him.
+- Tell him what?
+
+1030
+01:33:28,280 --> 01:33:30,431
+Tell him not to hit so hard.
+
+1031
+01:33:31,120 --> 01:33:32,190
+Why?
+
+1032
+01:33:33,560 --> 01:33:37,270
+Because bad things will happen
+and everything will change.
+
+1033
+01:33:37,360 --> 01:33:39,795
+Sit down. Bad things won't happen.
+
+1034
+01:33:42,480 --> 01:33:44,756
+Sit down. You're out of breath.
+
+1035
+01:33:45,560 --> 01:33:47,995
+I'm not supposed to run that hard.
+
+1036
+01:33:48,840 --> 01:33:51,355
+What will happen
+if I don't get the message in time?
+
+1037
+01:33:51,440 --> 01:33:53,671
+You'll be fine. You'll be fine.
+
+1038
+01:33:53,960 --> 01:33:58,079
+See, you don't know this,
+but good things will happen up here,
+
+1039
+01:33:58,920 --> 01:34:03,278
+and you'll write about them,
+and when people see them, they'll smile
+
+1040
+01:34:03,360 --> 01:34:05,636
+in a way your mama never could.
+
+1041
+01:34:06,720 --> 01:34:11,112
+- I'm gonna be all right, then?
+- Yeah, you'll be all right.
+
+1042
+01:34:16,400 --> 01:34:21,634
+I know you're afraid,
+but there's no reason to be, there never was.
+
+1043
+01:34:22,800 --> 01:34:27,591
+You see, at the end of all of it, is this.
+
+1044
+01:34:40,560 --> 01:34:42,995
+What have you been doing all this time?
+
+1045
+01:34:44,560 --> 01:34:46,153
+Looking for you,
+
+1046
+01:34:47,240 --> 01:34:48,674
+one way or another.
+
+1047
+01:34:50,000 --> 01:34:52,674
+It's all I've been doing
+since the day I was born.
+
+1048
+01:34:52,760 --> 01:34:54,194
+Looking for you.
+
+1049
+01:34:56,760 --> 01:34:58,717
+At least I found you.
+
+1050
+01:35:13,000 --> 01:35:15,151
+<i>STEPHEN: This is finally my own story.</i>
+
+1051
+01:35:15,240 --> 01:35:17,675
+<i>Each person has his own, and with that fact,</i>
+
+1052
+01:35:17,760 --> 01:35:19,717
+<i>I am like everyone else.</i>
+
+1053
+01:35:20,120 --> 01:35:23,158
+<i>STEPHEN AND LEO: Mr Jenkins always
+told me to take time with my words,</i>
+
+1054
+01:35:23,240 --> 01:35:28,315
+<i>so I suppose I'll try to do that now,
+even though that was in the fifth grade.</i>
+
+1055
+01:35:28,760 --> 01:35:30,911
+<i>STEPHEN: You see, I used to have
+this problem where I saw too much</i>
+
+1056
+01:35:31,000 --> 01:35:33,231
+<i>but never managed to find my way
+to the right words</i>
+
+1057
+01:35:33,320 --> 01:35:35,710
+<i>that would let me speak aloud on any of it.</i>
+
+1058
+01:35:35,800 --> 01:35:38,235
+<i>I suppose it was like that
+for a reason, though,</i>
+
+1059
+01:35:38,320 --> 01:35:40,755
+<i>because what my eyes saw
+didn't seem to me to be the things</i>
+
+1060
+01:35:40,840 --> 01:35:43,674
+<i>that other people's ears
+had any business hearing.</i>
+
+1061
+01:35:43,760 --> 01:35:47,834
+<i>But I think of all that differently now,
+so I will begin my story.</i>
+
+1062
+01:35:49,440 --> 01:35:50,794
+<i>STEPHEN AND LEO:
+My name is Leopold Bloom,</i>
+
+1063
+01:35:50,880 --> 01:35:53,475
+<i>and my life began long before I was born.</i>
+
+1064
+01:35:53,560 --> 01:35:58,430
+<i>LEO: Mother said I was the seal of her sin
+and a sign of the grief she would face.</i>
+
+1065
+01:35:58,560 --> 01:36:02,349
+<i>My aunt just said I was a quiet
+little man who spoke with my eyes.</i>
+
+1066
+01:36:02,440 --> 01:36:04,511
+<i>I was named after some man in a book</i>
+
+1067
+01:36:04,600 --> 01:36:07,160
+<i>my mom read when she was in college
+called</i> Ulysses.
+
+1068
+01:36:07,240 --> 01:36:11,632
+<i>So, for a while, I thought I was named
+after somebody great, a hero even,</i>
+
+1069
+01:36:12,120 --> 01:36:15,192
+<i>STEPHEN AND LEO: but I was actually
+named after a lost, tired man.</i>
+
+1070
+01:36:15,280 --> 01:36:16,839
+<i>STEPHEN: I like the other man
+in the book more,</i>
+
+1071
+01:36:16,920 --> 01:36:20,800
+<i>but then, our last name wasn't Daedalus
+and things like that can't really be helped,</i>
+
+1072
+01:36:20,880 --> 01:36:24,920
+<i>just like with the books people like
+and the names they give their children.</i>
+
+1073
+01:36:25,000 --> 01:36:28,835
+<i>I learnt a lot from my mother
+on the afternoon she told me about</i> Ulysses.
+
+1074
+01:36:28,920 --> 01:36:32,994
+<i>I learnt what it was
+that made dying and killing so easy for her.</i>
+
+1075
+01:36:33,120 --> 01:36:37,273
+<i>I learnt where my name came from,
+and I learnt later, to my own surprise,</i>
+
+1076
+01:36:37,360 --> 01:36:39,829
+<i>that I had been named after a great man.</i>
+
+1077
+01:36:39,920 --> 01:36:43,277
+<i>He may have been tired,
+but he was never really lost,</i>
+
+1078
+01:36:43,520 --> 01:36:45,432
+<i>at least not for long.</i>
+
+1079
+01:36:45,520 --> 01:36:47,910
+<i>And neither am I, any more.</i>
+

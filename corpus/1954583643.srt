@@ -1,0 +1,2123 @@
+﻿1
+00:05:53,420 --> 00:05:56,888
+- So, to get the answer, we
+take the number of babies
+
+2
+00:05:56,890 --> 00:06:02,794
+with Down's Syndrome who
+test positive divided by
+
+3
+00:06:02,796 --> 00:06:10,796
+the total number of
+positives, which is 9.5
+
+4
+00:06:10,838 --> 00:06:18,838
+divided by 9.5 plus 49.5,
+equaling 16.1%,
+
+5
+00:06:20,814 --> 00:06:22,914
+what I trust is a somewhat
+counter-intuitive answer,
+
+6
+00:06:22,916 --> 00:06:29,054
+given the high probability
+of the test producing
+
+7
+00:06:29,056 --> 00:06:32,891
+a correct result if the baby
+has Down's Syndrome and
+
+8
+00:06:32,893 --> 00:06:36,928
+the relatively low
+probability of false positives.
+
+9
+00:06:37,397 --> 00:06:41,466
+Now, this is an example of
+the False Positive Paradox.
+
+10
+00:06:42,068 --> 00:06:46,138
+Any questions? Good.
+
+11
+00:06:46,873 --> 00:06:49,508
+Now, remember that the
+mid-term is next Tuesday.
+
+12
+00:06:49,510 --> 00:06:52,744
+I will be available in my office
+hours today, but please
+
+13
+00:06:52,746 --> 00:06:55,247
+only stop by if you have
+specific questions
+
+14
+00:06:55,249 --> 00:06:58,450
+on specific problems. I will
+not be offering an overview
+
+15
+00:06:58,452 --> 00:07:00,952
+of the past eight
+weeks. All right,
+
+16
+00:07:00,954 --> 00:07:04,990
+that will be all for today.
+
+17
+00:07:41,160 --> 00:07:43,462
+-Hey Claude. How are you?
+
+18
+00:07:43,464 --> 00:07:47,499
+- Who are we playing tonight?
+- Tom and Dick.
+
+19
+00:07:48,868 --> 00:07:52,237
+Then the Hendersons.
+- Great. That means listening to
+
+20
+00:07:52,239 --> 00:07:54,539
+Tom clear his throat every
+five seconds.
+
+21
+00:07:54,541 --> 00:07:56,308
+-Mm
+
+22
+00:07:56,310 --> 00:08:00,345
+hm. Let's take our seats.
+
+23
+00:09:22,194 --> 00:09:24,429
+- OK, I should be
+back around five.
+
+24
+00:09:24,431 --> 00:09:28,300
+Um, leftovers in the
+fridge if you get hungry.
+
+25
+00:09:28,302 --> 00:09:30,268
+-OK, see you later.
+
+26
+00:09:30,270 --> 00:09:32,971
+- Oh, hey, are you going running
+today?
+
+27
+00:09:32,973 --> 00:09:36,241
+- I don't think so, I'm just
+going to read my book. Why?
+
+28
+00:09:36,243 --> 00:09:39,244
+I was just going to have you
+mail a few letters for me.
+
+29
+00:09:39,246 --> 00:09:42,314
+Never mind, I can mail them.
+
+30
+00:09:42,316 --> 00:09:44,382
+Have a good day.
+- See you later.
+
+31
+00:09:44,384 --> 00:09:48,520
+-Bye sweet girl.
+
+32
+00:10:29,962 --> 00:10:33,331
+-Hey, ooh.
+
+33
+00:10:33,333 --> 00:10:37,369
+Oh my, oh my, aren't
+we getting big?
+
+34
+00:10:40,306 --> 00:10:43,675
+Auntie Kim's bored with
+her book. What do you say
+
+35
+00:10:43,677 --> 00:10:46,578
+we go for a little jog in
+the park, huh? Hm,
+
+36
+00:10:46,580 --> 00:10:49,681
+how does that sound? Let
+Auntie Kim get our jackets,
+
+37
+00:10:49,683 --> 00:10:53,718
+and then we can
+be on our way. Yeah? OK.
+
+38
+00:11:12,972 --> 00:11:17,042
+- Excuse me, miss? Miss? Ah,
+is this Pier Point Park?
+
+39
+00:11:18,144 --> 00:11:21,346
+- Yes, it is.
+- Where is the clock tower?
+
+40
+00:11:21,348 --> 00:11:25,383
+- Clock tower? Um, I'm not aware
+of any clock tower in the park.
+
+41
+00:11:26,218 --> 00:11:28,119
+- How odd, I'm supposed to
+meet someone here,
+
+42
+00:11:28,121 --> 00:11:31,623
+that's what she said. See?
+- I don't know. I mean
+
+43
+00:12:09,628 --> 00:12:13,698
+Shh. Shh. Sit up. Shh.
+
+44
+00:12:30,483 --> 00:12:34,552
+I'm gonna remove the gag now.
+
+45
+00:12:35,721 --> 00:12:39,724
+Now, we're miles away from
+anyone, so it's not gonna
+
+46
+00:12:39,726 --> 00:12:43,762
+do you any good to scream.
+
+47
+00:12:46,799 --> 00:12:51,069
+- Annie, the baby, where is she?
+What have you done with her?
+
+48
+00:12:51,203 --> 00:12:54,239
+-The baby? Is she not your baby?
+
+49
+00:12:54,241 --> 00:12:56,741
+- Where is
+she? Is she OK?
+
+50
+00:12:56,743 --> 00:12:59,244
+- I've done nothing to the baby.
+I left her in the stroller
+
+51
+00:12:59,246 --> 00:13:02,714
+by the jogging path. Now, I'm
+sure she's been found already.
+
+52
+00:13:02,716 --> 00:13:06,651
+I'm sure she's all right.
+Now, you referred to her
+
+53
+00:13:06,653 --> 00:13:10,688
+as "the baby," not "my
+baby." Is she not yours?
+
+54
+00:13:13,125 --> 00:13:17,195
+- She's my niece. Who are
+you? What do you want with me?
+
+55
+00:13:19,598 --> 00:13:27,598
+- Your niece? How unfortunate. I
+was rather hoping she was yours.
+
+56
+00:13:30,177 --> 00:13:33,545
+- Why? What do you
+want with me?
+
+57
+00:13:33,547 --> 00:13:35,246
+- All questions that will
+undoubtedly be
+
+58
+00:13:35,248 --> 00:13:39,284
+answered in due time.
+Now, let's get you out of this.
+
+59
+00:13:40,486 --> 00:13:43,254
+You'll be much more comfortable.
+
+60
+00:13:43,256 --> 00:13:51,256
+Here, OK. Here we go. Stay
+still. OK, OK. I'm just gonna
+
+61
+00:13:53,300 --> 00:14:00,605
+Here, OK. Here we go. Stay
+still. OK, OK. I'm just gonna
+
+62
+00:14:00,607 --> 00:14:04,642
+put this around your
+leg, all right? OK.
+
+63
+00:14:06,745 --> 00:14:14,745
+Here we go. Stay still. I'm not
+gonna hurt you. Here we go.
+
+64
+00:14:18,859 --> 00:14:22,894
+There we go. All right now,
+let's take these handcuffs off.
+
+65
+00:14:23,729 --> 00:14:24,613
+Here, OK. OK.
+
+66
+00:14:31,771 --> 00:14:34,305
+There we go.
+
+67
+00:14:34,307 --> 00:14:42,307
+No, no. I don't
+want to hurt you,
+
+68
+00:14:43,583 --> 00:14:47,619
+but if you resist,
+I may have to.
+
+69
+00:14:52,291 --> 00:14:56,361
+You must be hungry.
+I'll get you some food.
+
+70
+00:15:50,649 --> 00:15:54,719
+- Oh my God, oh my
+God, oh my God.
+
+71
+00:16:41,667 --> 00:16:45,737
+-I brought you your breakfast.
+
+72
+00:17:06,425 --> 00:17:10,495
+Tell me your name.
+
+73
+00:17:11,030 --> 00:17:15,166
+-Why are you doing all this?
+
+74
+00:17:15,168 --> 00:17:18,569
+What do you want with me?
+
+75
+00:17:18,571 --> 00:17:20,805
+You said I would find out in
+due time.
+
+76
+00:17:20,807 --> 00:17:24,842
+- You are to be my nourishing
+mother,
+
+77
+00:17:25,477 --> 00:17:28,112
+my alma mater, if you will.
+
+78
+00:17:28,114 --> 00:17:33,451
+Now, please, eat some of your
+breakfast, and we'll have
+
+79
+00:17:33,453 --> 00:17:37,488
+a nice little chat
+in the meantime.
+
+80
+00:17:38,490 --> 00:17:42,560
+-Tell me your name.
+
+81
+00:17:44,096 --> 00:17:47,899
+-Kim.
+
+82
+00:17:47,901 --> 00:17:51,936
+And how old are you, Kim?
+- 24.
+
+83
+00:17:54,840 --> 00:17:58,910
+- Now, I noticed an engagement
+ring, but no wedding band.
+
+84
+00:17:59,812 --> 00:18:07,812
+Were you to be married soon?
+- Yes. In four months.
+
+85
+00:18:11,758 --> 00:18:17,061
+- And what do you do?
+- What does it matter?
+
+86
+00:18:17,063 --> 00:18:19,030
+- I'm just trying to make
+conversation,
+
+87
+00:18:19,032 --> 00:18:23,067
+get to know you a little bit, is
+all. Do you have a job?
+
+88
+00:18:25,170 --> 00:18:29,440
+- No.
+- Are you a student?
+
+89
+00:18:30,409 --> 00:18:34,479
+- I Just finished getting my
+Master's in English literature.
+
+90
+00:18:36,682 --> 00:18:40,751
+Well, congratulations.
+That's wonderful.
+
+91
+00:18:41,920 --> 00:18:45,990
+And, what were you planning
+to do with your degree?
+
+92
+00:18:48,093 --> 00:18:52,163
+- I Thought I might try to
+write a novel.
+
+93
+00:18:52,831 --> 00:19:00,831
+A novel? Excellent. Well here,
+here you will have ample time
+
+94
+00:19:03,810 --> 00:19:07,845
+and few distractions.
+I'll have to get you materials.
+
+95
+00:19:08,480 --> 00:19:10,882
+Now, I know that the
+effects of imprisonment
+
+96
+00:19:10,884 --> 00:19:14,919
+can be psychologically
+devastating. But, having a
+
+97
+00:19:15,220 --> 00:19:19,490
+goal, a project, a
+raison d'être
+
+98
+00:19:19,625 --> 00:19:23,694
+as it were, can go a
+long way to keeping you healthy.
+
+99
+00:19:28,567 --> 00:19:32,637
+-I'm not the first, am I?
+
+100
+00:19:36,475 --> 00:19:38,676
+-What?
+
+101
+00:19:38,678 --> 00:19:42,713
+- The first woman
+you've done this to?
+
+102
+00:19:48,020 --> 00:19:55,059
+- Why do you say that?
+- What you just said,
+
+103
+00:19:55,061 --> 00:20:00,097
+this whole set-up, the
+chains, the chamber pot,
+
+104
+00:20:00,099 --> 00:20:08,099
+the hand for turning the light
+off. You've done this before.
+
+105
+00:20:12,612 --> 00:20:18,983
+- You are a clever girl.
+- What happened to the others?
+
+106
+00:20:18,985 --> 00:20:23,120
+-Other. There is only one other.
+
+107
+00:20:23,122 --> 00:20:24,822
+- What happened to her?
+Where is she?
+
+108
+00:20:24,824 --> 00:20:29,327
+- Look, I'm afraid that you've
+hit upon a subject that I
+
+109
+00:20:29,329 --> 00:20:33,097
+don't wish to discuss.
+Now, I'm sure that you are
+
+110
+00:20:33,099 --> 00:20:36,067
+fearing the worst, but you
+mustn't, OK? You're not
+
+111
+00:20:36,069 --> 00:20:40,104
+her, so please, let's talk
+about something else.
+
+112
+00:20:40,839 --> 00:20:44,909
+Anything else.
+- Is she dead?
+
+113
+00:20:51,717 --> 00:20:59,717
+You killed her, didn't you? And
+you're gonna kill me too. Why?
+
+114
+00:21:04,130 --> 00:21:08,165
+Why? Look, look, I don't
+know who you are or
+
+115
+00:21:09,067 --> 00:21:12,103
+how you got me here. Just let
+me go. Just let me go,
+
+116
+00:21:12,105 --> 00:21:13,371
+and I won't say anything.
+
+117
+00:21:13,373 --> 00:21:17,608
+- Please don't get hysterical,
+please, please.
+
+118
+00:21:19,611 --> 00:21:21,679
+I am not going to harm you.
+
+119
+00:21:26,218 --> 00:21:28,286
+You must believe that.
+
+120
+00:21:31,023 --> 00:21:33,090
+But I can't just let you go.
+
+121
+00:21:37,229 --> 00:21:39,297
+But someday...
+
+122
+00:21:41,066 --> 00:21:43,134
+I will let you go.
+
+123
+00:21:47,205 --> 00:21:50,107
+Why don't you finish
+your breakfast.
+
+124
+00:21:50,109 --> 00:21:58,109
+- I'm not hungry.
+- Very well then.
+
+125
+00:21:59,185 --> 00:22:07,185
+In that case, I'm gonna
+have to ask that you wear this.
+
+126
+00:22:09,228 --> 00:22:15,700
+In that case, I'm gonna
+have to ask that you wear this.
+
+127
+00:22:15,702 --> 00:22:20,271
+Now, I hope
+that we can dispense with it
+
+128
+00:22:20,273 --> 00:22:28,273
+in the near future, but
+I don't want to be bitten again.
+
+129
+00:22:33,319 --> 00:22:41,319
+Open up, open up.
+There you go. Come here.
+
+130
+00:22:42,228 --> 00:22:50,228
+All right, now, I'm not
+going to hurt you.
+
+131
+00:22:53,473 --> 00:22:57,708
+I'm gonna have to ask that you
+wear the wrist clasps too.
+
+132
+00:22:59,678 --> 00:23:06,016
+All I'm going to do is
+massage your breasts.
+
+133
+00:23:06,018 --> 00:23:14,018
+That's it. I'm not going
+to hurt you. Come here.
+
+134
+00:23:16,062 --> 00:23:22,933
+That's it. I'm not going
+to hurt you. Come here.
+
+135
+00:23:22,935 --> 00:23:30,935
+Shh. There you go. Stand
+up. Shh, shh. OK.
+
+136
+00:23:32,979 --> 00:23:40,979
+Shh. There you go. Stand
+up. Shh, shh. OK.
+
+137
+00:24:27,499 --> 00:24:31,769
+I have something I
+thought you might like to see.
+
+138
+00:24:37,943 --> 00:24:42,012
+As you can see, the baby was
+found.
+
+139
+00:24:43,548 --> 00:24:47,818
+I thought you might
+like to know that.
+
+140
+00:25:22,888 --> 00:25:26,156
+-What is this?
+
+141
+00:25:26,158 --> 00:25:29,627
+- Seared foie gras,
+with braised fennel and
+
+142
+00:25:29,629 --> 00:25:33,864
+cracked pepper caramel sauce.
+
+143
+00:25:34,533 --> 00:25:40,437
+- Foie gras? That's liver, isn't
+it?
+
+144
+00:25:40,439 --> 00:25:44,508
+- Yes. It's a special kind of
+goose liver. It's delicious.
+
+145
+00:25:51,416 --> 00:25:55,486
+-I hate liver. I won't eat it.
+
+146
+00:25:57,989 --> 00:26:02,059
+-Just try it.
+
+147
+00:26:03,061 --> 00:26:06,230
+- No. Besides, that's
+the kind of liver that they
+
+148
+00:26:06,232 --> 00:26:09,066
+have to torture the goose to
+get, isn't it?
+
+149
+00:26:09,068 --> 00:26:13,103
+- It's not torture. Just try it.
+- No.
+
+150
+00:26:16,341 --> 00:26:20,411
+- Just have one bite. If you
+don't like it, fine.
+
+151
+00:26:22,080 --> 00:26:26,150
+- It's OK. I won't eat anything
+tonight.
+
+152
+00:26:29,654 --> 00:26:33,924
+-All I ask is that you try it.
+
+153
+00:26:52,243 --> 00:26:56,313
+You're not even going to
+have one bite?
+
+154
+00:27:14,699 --> 00:27:18,969
+I'll teach you to eat liver.
+
+155
+00:27:35,954 --> 00:27:40,024
+Tonight I've made lamb chops,
+with mushroom risotto.
+
+156
+00:27:55,140 --> 00:27:58,542
+Butternut squash ravioli
+with braised root vegetables.
+
+157
+00:27:58,544 --> 00:28:02,012
+Minestrone soup with
+parmesan cheese
+
+158
+00:28:02,014 --> 00:28:06,050
+and fresh French bread.
+
+159
+00:28:17,629 --> 00:28:21,699
+Hungarian goulash with spaetzle.
+
+160
+00:28:38,516 --> 00:28:46,516
+- OK. I get it. I'll try
+anything you give me.
+
+161
+00:28:51,764 --> 00:28:59,764
+- Get it? You'll never get it.
+My purpose is to train you,
+
+162
+00:29:01,207 --> 00:29:05,242
+not educate you.
+
+163
+00:29:09,180 --> 00:29:13,250
+-Fuck you.
+
+164
+00:29:14,552 --> 00:29:18,622
+-That's never going to happen.
+
+165
+00:29:51,689 --> 00:29:55,759
+- How do you expect
+me to produce milk
+
+166
+00:29:56,427 --> 00:30:02,499
+if you starve
+me? I thought you were
+
+167
+00:30:02,501 --> 00:30:06,537
+supposed to be some kind
+of intellect? It doesn't
+
+168
+00:30:07,138 --> 00:30:11,208
+seem like you thought this
+one through.
+
+169
+00:30:57,488 --> 00:31:00,757
+- Home-made meatloaf
+with mashed potatoes
+
+170
+00:31:00,759 --> 00:31:04,795
+and baby carrots. Stir-fried
+vegetables with rice.
+
+171
+00:31:06,731 --> 00:31:10,801
+Tonight we are having
+liver. Beef liver, with
+
+172
+00:31:11,603 --> 00:31:15,672
+mushroom medley and a red wine
+reduction sauce, for me.
+
+173
+00:31:23,748 --> 00:31:27,818
+And for you
+
+174
+00:31:54,479 --> 00:31:54,979
+Wait.
+
+175
+00:32:40,959 --> 00:32:45,028
+Well, Liver isn't so bad after
+all, I see.
+
+176
+00:32:47,699 --> 00:32:51,768
+Well, I'm glad that
+this little experiment is over.
+
+177
+00:32:53,504 --> 00:32:57,574
+Maybe now we can go back and eat
+meals like civilized people.
+
+178
+00:33:19,998 --> 00:33:24,067
+Quite the little
+artist, aren't we now?
+
+179
+00:33:27,005 --> 00:33:31,074
+I thought you were more the
+literary type.
+
+180
+00:33:40,084 --> 00:33:46,356
+I'll have to get you a sketch
+pad then. And a washing coat
+
+181
+00:37:21,205 --> 00:37:25,275
+- I've never heard
+of induced lactation.
+
+182
+00:37:28,246 --> 00:37:32,315
+Are you sure it's gonna work?
+- Induced lactation by
+
+183
+00:37:32,750 --> 00:37:35,051
+mechanical manipulation is
+successful with most
+
+184
+00:37:35,053 --> 00:37:39,089
+women, although there are
+no guarantees.
+
+185
+00:37:43,027 --> 00:37:46,830
+- How long is it supposed to
+take?
+
+186
+00:37:46,832 --> 00:37:50,867
+-Not long. Two to four weeks.
+
+187
+00:37:57,308 --> 00:37:59,175
+- You don't have to use
+the cuffs and the ball gag
+
+188
+00:37:59,177 --> 00:38:03,213
+anymore, Claude. I'm not
+gonna do anything stupid.
+
+189
+00:38:06,851 --> 00:38:10,987
+-I'd like to believe that.
+
+190
+00:38:10,989 --> 00:38:17,627
+- What can I do? Even
+if I could harm you,
+
+191
+00:38:17,629 --> 00:38:21,665
+there'd be no point.
+I'd die in here.
+
+192
+00:38:30,341 --> 00:38:37,347
+What if it doesn't
+what if it doesn't work?
+
+193
+00:38:37,349 --> 00:38:41,384
+- What?
+- If you can't induce lactation?
+
+194
+00:38:47,124 --> 00:38:55,124
+There are drugs we can try,
+hormones to be more precise,
+
+195
+00:38:55,801 --> 00:38:59,836
+although I'd have to think
+about how to obtain them.
+
+196
+00:39:05,743 --> 00:39:09,813
+Of course, pregnancy
+would be another option.
+
+197
+00:39:17,388 --> 00:39:20,290
+-When will you let me go?
+
+198
+00:39:20,292 --> 00:39:24,327
+- I told you to stop
+asking me that.
+
+199
+00:39:34,372 --> 00:39:38,441
+- I wish you wouldn't
+smoke in here.
+
+200
+00:39:43,414 --> 00:39:49,185
+-I'm sorry. I never asked
+
+201
+00:39:49,187 --> 00:39:53,223
+if the smoke bothered you.
+How selfish of me.
+
+202
+00:40:33,130 --> 00:40:36,399
+Making good use of the crayons,
+I see.
+
+203
+00:40:36,401 --> 00:40:36,901
+-Yep.
+
+204
+00:40:45,009 --> 00:40:46,943
+-Do you mind if I have a look?
+
+205
+00:40:46,945 --> 00:40:50,980
+-I don't suppose I can stop you.
+
+206
+00:40:51,949 --> 00:40:56,019
+- If you don't want me to look, I
+won't.
+
+207
+00:41:03,160 --> 00:41:07,230
+- No, go ahead. I don't
+mind.
+
+208
+00:41:22,780 --> 00:41:25,315
+-Non-representational I assume.
+
+209
+00:41:25,317 --> 00:41:29,352
+- No, it's representational.
+It is the sun,
+
+210
+00:41:32,056 --> 00:41:36,125
+at least my memory of it. I
+miss the sun.
+
+211
+00:41:45,369 --> 00:41:53,369
+- I like it. Shall I
+hang it up on the wall?
+
+212
+00:41:54,279 --> 00:41:56,446
+-I don't care.
+
+213
+00:41:56,448 --> 00:41:58,081
+-To brighten up the room a bit.
+
+214
+00:41:58,083 --> 00:42:02,118
+-Whatever.
+
+215
+00:42:43,527 --> 00:42:47,597
+- I suppose I could arrange it so
+that you could go outside.
+
+216
+00:42:51,535 --> 00:42:59,535
+So that you could see the
+sun again. Would you like that?
+
+217
+00:43:01,680 --> 00:43:05,915
+-Very much.
+
+218
+00:43:07,484 --> 00:43:11,554
+-Very well then.
+
+219
+00:44:11,582 --> 00:44:15,652
+-Claude!
+
+220
+00:44:25,162 --> 00:44:25,662
+Claude!
+
+221
+00:44:34,104 --> 00:44:34,604
+Claude!
+
+222
+00:44:44,515 --> 00:44:45,015
+Claude!
+
+223
+00:46:29,419 --> 00:46:33,489
+- I need to take your
+temperature.
+
+224
+00:46:35,325 --> 00:46:38,394
+-To know when I've ovulated.
+
+225
+00:46:38,396 --> 00:46:42,431
+-Precisely.
+
+226
+00:46:45,402 --> 00:46:48,538
+-Couldn't get the drugs.
+
+227
+00:46:48,540 --> 00:46:49,739
+-No.
+
+228
+00:46:49,741 --> 00:46:53,776
+- Or the hormones, to
+be more precise.
+
+229
+00:46:56,213 --> 00:47:03,352
+- 98.6 exactly. Well, we
+have our baseline.
+
+230
+00:47:03,354 --> 00:47:07,390
+-Isn't that wonderful.
+
+231
+00:47:33,917 --> 00:47:38,187
+- It's a beautiful day outside
+today.
+
+232
+00:47:45,662 --> 00:47:49,732
+Would you like to see
+it for yourself?
+
+233
+00:47:50,801 --> 00:47:51,301
+-Yes.
+
+234
+00:48:01,778 --> 00:48:05,848
+-Beautiful day.
+
+235
+00:48:07,851 --> 00:48:11,921
+-I so wanted to see the sun.
+
+236
+00:48:19,696 --> 00:48:23,766
+-We take so much for granted.
+
+237
+00:48:25,736 --> 00:48:31,574
+Strange, how we can never really
+appreciate something until
+
+238
+00:48:31,576 --> 00:48:35,611
+we are denied it.
+
+239
+00:48:42,452 --> 00:48:46,522
+I accidentally started a fire.
+
+240
+00:48:48,525 --> 00:48:52,595
+Burned the house down.
+
+241
+00:48:59,803 --> 00:49:02,939
+-Goodnight my dearest.
+
+242
+00:49:02,941 --> 00:49:06,976
+I love you.
+- Goodnight mommy.
+
+243
+00:50:40,804 --> 00:50:44,874
+Mommy, mommy! Wake up, mommy!
+
+244
+00:50:46,543 --> 00:50:48,110
+Mommy, mommy, mommy,
+
+245
+00:50:48,112 --> 00:50:52,348
+mommy! Mommy, please, wake
+up! Mommy, please! C'mon,
+
+246
+00:50:52,883 --> 00:50:56,952
+mommy, please, wake up
+mommy! Just please wake up
+
+247
+00:50:57,821 --> 00:51:00,956
+mom! Mom, please wake up!
+Please!
+
+248
+00:51:00,958 --> 00:51:04,994
+I couldn't wake her
+to get her out.
+
+249
+00:51:05,729 --> 00:51:09,799
+-Who raised you?
+
+250
+00:51:12,769 --> 00:51:16,839
+-My mother.
+
+251
+00:51:19,910 --> 00:51:21,610
+I could tell you one
+thing I've been thinking about
+
+252
+00:51:21,612 --> 00:51:23,479
+quite a bit lately.
+
+253
+00:51:23,481 --> 00:51:26,649
+-What's that?
+
+254
+00:51:26,651 --> 00:51:34,651
+- About getting away. I've been
+focusing on this narrow problem,
+
+255
+00:51:35,793 --> 00:51:39,495
+putting so much energy
+into it that the bigger picture
+
+256
+00:51:39,497 --> 00:51:43,532
+just gets lost.
+
+257
+00:51:44,067 --> 00:51:47,203
+I think a simpler existence
+would be better.
+
+258
+00:51:47,205 --> 00:51:49,438
+The question is, what to do?
+
+259
+00:51:49,440 --> 00:51:53,476
+- Exactly.
+So, what do you propose to do?
+
+260
+00:51:58,748 --> 00:52:01,817
+-I'm not sure.
+
+261
+00:52:01,819 --> 00:52:04,487
+- I guess it just
+doesn't bother me
+
+262
+00:52:04,489 --> 00:52:07,857
+that the big questions will go
+unanswered.
+
+263
+00:52:07,859 --> 00:52:11,894
+- But how do you keep yourself
+from asking the questions?
+
+264
+00:52:12,696 --> 00:52:16,765
+- Well, I can think of one pretty
+good way.
+
+265
+00:52:17,033 --> 00:52:21,103
+Ralph! Another round of drinks.
+
+266
+00:52:27,210 --> 00:52:30,579
+- Today's the day. We
+need to get this into you.
+
+267
+00:52:34,484 --> 00:52:37,186
+You can insert the semen
+yourself if you wish.
+
+268
+00:52:37,188 --> 00:52:41,223
+I will just observe.
+
+269
+00:52:41,591 --> 00:52:44,160
+-What if I refuse?
+
+270
+00:52:44,162 --> 00:52:48,197
+Then I will bind you and
+do it myself if necessary.
+
+271
+00:52:48,665 --> 00:52:52,735
+I just figured you would rather
+do it yourself.
+
+272
+00:52:55,906 --> 00:52:56,805
+All of this so you can have
+
+273
+00:52:56,807 --> 00:53:00,943
+lactating breasts to suck on,
+Claude?
+
+274
+00:53:00,945 --> 00:53:03,212
+It doesn't make
+any sense. I'm sure there
+
+275
+00:53:03,214 --> 00:53:05,648
+are women you can pay to
+satisfy your fetish.
+
+276
+00:53:05,650 --> 00:53:07,283
+Look on the web. Hire a
+wet-nurse. You don't need
+
+277
+00:53:07,285 --> 00:53:11,520
+to go through all of this.
+
+278
+00:53:17,627 --> 00:53:21,697
+-You think I haven't tried that?
+
+279
+00:53:22,232 --> 00:53:26,502
+-What happened?
+
+280
+00:53:27,837 --> 00:53:30,539
+-I hired a professional that
+
+281
+00:53:30,541 --> 00:53:34,577
+specializes in my fetish,
+as you called it.
+
+282
+00:53:38,982 --> 00:53:43,052
+- And that wasn't enough?
+Why not?
+
+283
+00:53:46,890 --> 00:53:47,623
+-It was just different.
+
+284
+00:53:47,625 --> 00:53:49,892
+-What was different about it?
+
+285
+00:53:49,894 --> 00:53:53,929
+- I can't explain it.
+It just was.
+
+286
+00:54:01,538 --> 00:54:04,640
+-What about the baby?
+
+287
+00:54:04,642 --> 00:54:05,774
+-What about it?
+
+288
+00:54:05,776 --> 00:54:09,178
+- What do you intend
+to do with it?
+
+289
+00:54:09,180 --> 00:54:11,247
+-Whatever you like.
+
+290
+00:54:11,249 --> 00:54:15,351
+You can keep it if you'd like.
+
+291
+00:54:15,353 --> 00:54:18,754
+- And raise it in this dungeon?
+
+292
+00:54:18,756 --> 00:54:20,055
+You really are crazy.
+
+293
+00:54:20,057 --> 00:54:21,323
+-Then I will drop it off
+
+294
+00:54:21,325 --> 00:54:24,693
+anonymously at a hospital.
+It doesn't matter.
+
+295
+00:54:24,695 --> 00:54:28,731
+Now, first things first.
+
+296
+00:55:56,686 --> 00:56:00,756
+You are so absolutely beautiful.
+
+297
+00:56:04,160 --> 00:56:08,230
+You're radiant.
+
+298
+00:56:10,266 --> 00:56:14,336
+How can you miss
+the sun when you are the sun?
+
+299
+00:56:16,673 --> 00:56:20,743
+You radiate warmth and light.
+
+300
+00:56:21,778 --> 00:56:25,381
+You obliterate the darkness.
+
+301
+00:56:28,852 --> 00:56:32,921
+-You're drunk, Claude.
+
+302
+00:56:33,857 --> 00:56:37,926
+-A bit. But as the saying goes,
+
+303
+00:56:38,428 --> 00:56:41,463
+in vino veritas.
+
+304
+00:56:41,465 --> 00:56:45,701
+- Why have you been drinking so
+much?
+
+305
+00:56:48,371 --> 00:56:52,441
+- Because you've been in my
+dreams.
+
+306
+00:56:53,309 --> 00:56:57,379
+- So, I don't see the
+connection.
+
+307
+00:56:58,448 --> 00:57:02,718
+- It's not good for
+you to be in my dreams.
+
+308
+00:57:02,886 --> 00:57:04,787
+I need to keep you
+out of my dreams.
+
+309
+00:57:04,789 --> 00:57:08,824
+- I still don't see why that
+makes you drink.
+
+310
+00:57:14,464 --> 00:57:18,734
+- Because when I drink, I'm not
+haunted by my dreams.
+
+311
+00:57:23,339 --> 00:57:27,409
+The night passes in silence and
+darkness.
+
+312
+00:57:31,281 --> 00:57:35,350
+That's what I need when
+I sleep.
+
+313
+00:57:39,289 --> 00:57:43,358
+And you, as the
+light of the day.
+
+314
+00:58:27,003 --> 00:58:34,076
+Good night, and sweet
+dreams to you, my love.
+
+315
+00:58:55,832 --> 00:58:59,968
+- Who's a famous mathematician
+that starts with an E?
+
+316
+00:58:59,970 --> 00:59:01,904
+-Euclid.
+
+317
+00:59:01,906 --> 00:59:04,072
+-It's five letters.
+
+318
+00:59:04,074 --> 00:59:06,074
+-Euler.
+
+319
+00:59:06,076 --> 00:59:07,643
+-That starts with an E?
+
+320
+00:59:07,645 --> 00:59:09,411
+-Yes.
+
+321
+00:59:09,413 --> 00:59:10,579
+-How do you spell it?
+
+322
+00:59:10,581 --> 00:59:14,616
+-E-U-L-E-R.
+
+323
+00:59:18,922 --> 00:59:22,991
+-Thank you.
+
+324
+00:59:35,138 --> 00:59:37,372
+- Well, I'm going to
+make us lunch.
+
+325
+00:59:37,374 --> 00:59:40,342
+Would you care for
+anything in particular?
+
+326
+00:59:40,344 --> 00:59:44,379
+- Yeah. I'm craving pickles
+and ice cream.
+
+327
+00:59:45,882 --> 00:59:49,952
+-Pickles and ice cream?
+
+328
+00:59:50,553 --> 00:59:54,189
+-Don't you know what that means?
+
+329
+00:59:54,191 --> 00:59:56,425
+-No.
+
+330
+00:59:56,427 --> 01:00:00,262
+- It means the turkey baster and
+I are going to have a baby.
+
+331
+01:00:00,264 --> 01:00:04,299
+-Really?
+
+332
+01:00:25,188 --> 01:00:29,257
+I got you this.
+
+333
+01:00:29,592 --> 01:00:33,662
+I thought you might like to wear
+it for dinner.
+
+334
+01:01:25,982 --> 01:01:30,152
+-How did you know my size?
+
+335
+01:01:30,154 --> 01:01:34,189
+The woman at the store was quite
+helpful.
+
+336
+01:01:39,395 --> 01:01:43,432
+-Will you wear it?
+
+337
+01:01:43,434 --> 01:01:43,934
+-Why?
+
+338
+01:01:48,738 --> 01:01:56,738
+- I don't know. I thought you
+would look nice in it.
+
+339
+01:01:57,381 --> 01:02:01,416
+- I didn't think that
+mattered to you.
+
+340
+01:02:08,424 --> 01:02:12,494
+-Will you wear it?
+
+341
+01:02:22,038 --> 01:02:24,606
+- I'll wear it but on one
+condition.
+
+342
+01:02:24,608 --> 01:02:28,643
+-What's that?
+
+343
+01:02:29,145 --> 01:02:32,280
+- I want a mirror, and not
+just a small one,
+
+344
+01:02:32,282 --> 01:02:36,318
+but big enough to
+see how the dress fits.
+
+345
+01:02:38,821 --> 01:02:43,091
+- I think I can
+accommodate that.
+
+346
+01:04:41,444 --> 01:04:45,513
+- I like this wine. What kind
+is it?
+
+347
+01:04:46,749 --> 01:04:50,819
+- It is a Ribera del Duero
+from Spain.
+
+348
+01:04:51,587 --> 01:04:54,789
+It's made from the
+Tempranillo grape.
+
+349
+01:04:54,791 --> 01:04:58,827
+I like it too.
+
+350
+01:05:03,232 --> 01:05:10,305
+-It tastes rather charcolately.
+
+351
+01:05:23,853 --> 01:05:27,722
+-Charcolately.
+
+352
+01:05:27,724 --> 01:05:35,724
+I like that. It is earthy, a
+hint of charcoal, a bit of
+
+353
+01:05:36,767 --> 01:05:41,603
+chocolate in the finish.
+You are becoming quite the
+
+354
+01:05:41,605 --> 01:05:45,640
+connoisseur.
+
+355
+01:05:45,841 --> 01:05:49,911
+- And to think I didn't even
+like wine before.
+
+356
+01:05:51,280 --> 01:05:55,350
+-To new discoveries.
+
+357
+01:06:06,395 --> 01:06:10,465
+I could live without the wine.
+
+358
+01:06:55,077 --> 01:06:58,747
+- I... I do hope you appreciate
+that
+
+359
+01:06:58,749 --> 01:07:02,784
+I've tried to make things
+better for you.
+
+360
+01:07:05,855 --> 01:07:09,924
+I really want this to work out.
+
+361
+01:07:14,764 --> 01:07:15,264
+-This?
+
+362
+01:07:22,104 --> 01:07:25,940
+What "this?"
+
+363
+01:07:25,942 --> 01:07:29,978
+How could "this" possibly work
+out?
+
+364
+01:07:48,097 --> 01:07:54,102
+- Well, your sun pictures no
+longer have the
+
+365
+01:07:54,104 --> 01:07:58,139
+"I will kill Claude" message in
+them.
+
+366
+01:07:59,942 --> 01:08:04,012
+-You knew.
+
+367
+01:08:04,747 --> 01:08:08,817
+-I could hardly blame you.
+
+368
+01:08:15,691 --> 01:08:17,425
+But I do hope your
+feelings for me have
+
+369
+01:08:17,427 --> 01:08:25,427
+softened, at least a little?
+
+370
+01:08:28,070 --> 01:08:32,140
+-What do you want me to say?
+
+371
+01:08:32,675 --> 01:08:36,044
+True, I don't
+want to kill you anymore,
+
+372
+01:08:36,046 --> 01:08:40,081
+and I don't want you to
+kill me.
+
+373
+01:08:41,417 --> 01:08:45,487
+I don't want anyone
+to kill anyone.
+
+374
+01:08:50,693 --> 01:08:54,629
+But I can't go on like this
+forever.
+
+375
+01:08:54,631 --> 01:08:57,665
+The only way this
+can possibly work out is
+
+376
+01:08:57,667 --> 01:09:01,703
+if you let me go.
+
+377
+01:09:03,739 --> 01:09:07,809
+I want to see my Tommy again.
+
+378
+01:09:08,777 --> 01:09:12,847
+I want to see my family.
+
+379
+01:09:13,883 --> 01:09:17,952
+I want to have a normal life.
+
+380
+01:09:22,925 --> 01:09:26,995
+- I do wish I had
+never taken you.
+
+381
+01:09:28,197 --> 01:09:32,534
+But what can I do now?
+
+382
+01:09:32,536 --> 01:09:36,004
+-I wouldn't talk.
+
+383
+01:09:36,006 --> 01:09:39,707
+I swear.
+
+384
+01:09:39,709 --> 01:09:42,977
+No one would find
+out who you are.
+
+385
+01:09:42,979 --> 01:09:50,979
+You say that now,
+but I know you too well.
+
+386
+01:09:55,058 --> 01:10:03,058
+You are a kind-hearted,
+intelligent person.
+
+387
+01:10:04,934 --> 01:10:12,140
+I am a monster.
+The thought that I might
+
+388
+01:10:12,142 --> 01:10:15,910
+subject someone else to
+what you've been through,
+
+389
+01:10:15,912 --> 01:10:23,912
+or worse, it would gnaw at you.
+The guilt would be too much.
+
+390
+01:10:25,956 --> 01:10:31,626
+Or worse, it would gnaw at you.
+The guilt would be too much.
+
+391
+01:10:31,628 --> 01:10:35,663
+You would tell them everything.
+
+392
+01:10:59,722 --> 01:11:03,791
+Maybe there is one way.
+
+393
+01:11:40,029 --> 01:11:44,098
+-Claude!
+
+394
+01:11:49,772 --> 01:11:50,272
+Claude!
+
+395
+01:12:09,658 --> 01:12:13,728
+There's my boy.
+
+396
+01:12:21,236 --> 01:12:25,306
+Come to mommy, Claude.
+
+397
+01:12:45,928 --> 01:12:48,262
+There's my boy.
+
+398
+01:12:48,264 --> 01:12:52,300
+I knew you'd come to mommy.
+
+399
+01:12:52,801 --> 01:12:56,204
+You've been a good boy, haven't
+you, Claude?
+
+400
+01:12:56,206 --> 01:13:00,241
+-Yes, mommy.
+
+401
+01:13:04,813 --> 01:13:08,883
+-Claude.
+
+402
+01:13:16,158 --> 01:13:20,228
+-You don't need her anymore.
+
+403
+01:13:34,343 --> 01:13:38,413
+I'm here for you, Claude.
+
+404
+01:13:44,753 --> 01:13:52,753
+No, Claude. Not that.
+You know what I need.
+
+405
+01:13:53,463 --> 01:13:57,498
+-No, no.
+
+406
+01:14:00,369 --> 01:14:03,371
+No.
+
+407
+01:14:03,373 --> 01:14:07,408
+No, I can't. No, no!
+
+408
+01:17:39,721 --> 01:17:43,991
+Are the bandages OK?
+
+409
+01:17:54,236 --> 01:17:58,305
+Are you comfortable?
+
+410
+01:18:08,250 --> 01:18:12,319
+You're not talking?
+
+411
+01:18:14,322 --> 01:18:18,392
+OK. I don't blame you.
+
+412
+01:18:21,563 --> 01:18:25,633
+But there is a silver
+lining here. Now I...
+
+413
+01:18:26,234 --> 01:18:30,304
+I know you may not see it,
+but there is hope.
+
+414
+01:18:35,777 --> 01:18:43,777
+You were in my dreams. One of
+my bad dreams.
+
+415
+01:18:48,391 --> 01:18:56,391
+And yet, I didn't kill you. I
+stopped it. This is good.
+
+416
+01:18:58,434 --> 01:19:06,434
+And yet, I didn't kill you. I
+stopped it. This is good.
+
+417
+01:19:08,211 --> 01:19:12,246
+Is it not? We can move on.
+
+418
+01:19:22,691 --> 01:19:26,560
+There is no reason to believe
+
+419
+01:19:26,562 --> 01:19:30,598
+that anything like that
+will ever happen again.
+
+420
+01:19:32,734 --> 01:19:36,804
+I can... I can stop it.
+
+421
+01:19:37,239 --> 01:19:41,308
+-Let me go. Please, please.
+
+422
+01:19:42,644 --> 01:19:46,714
+Please, please let me go.
+
+423
+01:20:07,235 --> 01:20:11,305
+You think I don't feel trapped?
+
+424
+01:20:15,277 --> 01:20:23,277
+I am the prisoner. I am the one
+who can't escape.
+
+425
+01:20:27,290 --> 01:20:31,325
+I'm the one who's dying here.
+
+426
+01:21:03,558 --> 01:21:07,628
+I'm going out of town for a
+couple of days.
+
+427
+01:21:08,730 --> 01:21:12,800
+This should hold you over until
+I get back.
+
+428
+01:21:14,236 --> 01:21:17,838
+-Where are you going?
+
+429
+01:21:17,840 --> 01:21:21,976
+- North American Bridge
+Championships.
+
+430
+01:21:21,978 --> 01:21:26,213
+- With David?
+- Yes, of course with David.
+
+431
+01:21:28,850 --> 01:21:36,850
+- When will you be back?
+- We have a flight back on Monday
+
+432
+01:21:37,293 --> 01:21:38,759
+but if we get knocked out of the
+tournament,
+
+433
+01:21:38,761 --> 01:21:42,796
+I may come back earlier.
+
+434
+01:21:46,501 --> 01:21:50,437
+I'm gonna fix dinner.
+
+435
+01:21:50,439 --> 01:21:54,475
+Is there anything in particular
+you'd like?
+
+436
+01:21:58,546 --> 01:22:05,419
+- Steak. Those T-bones you made
+before were very good.
+
+437
+01:22:05,421 --> 01:22:12,293
+- Craving iron? You're not on
+your period, are you?
+
+438
+01:22:12,295 --> 01:22:16,330
+- No. I think I'm just craving
+steak.
+
+439
+01:22:30,545 --> 01:22:34,615
+Do you think I could eat alone?
+
+440
+01:22:36,785 --> 01:22:40,854
+-I suppose. Why?
+
+441
+01:22:41,890 --> 01:22:45,759
+- I'm just not in the mood for
+any conversation tonight.
+
+442
+01:22:45,761 --> 01:22:49,463
+- We could eat in silence. I
+don't mind.
+
+443
+01:22:49,465 --> 01:22:53,500
+- Please, Claude. You've been
+making me nervous lately, and
+
+444
+01:22:53,502 --> 01:22:57,538
+I would just like to eat in
+peace.
+
+445
+01:22:58,840 --> 01:23:06,840
+-Fine. I'll be down later.
+
+446
+01:24:38,807 --> 01:24:42,876
+Give me your plate, please.
+
+447
+01:24:43,445 --> 01:24:47,514
+-Get it yourself.
+
+448
+01:24:49,451 --> 01:24:53,520
+Come on, Kim. I don't want
+to play games.
+
+449
+01:25:08,970 --> 01:25:13,040
+Where's the steak knife?
+
+450
+01:25:15,143 --> 01:25:18,979
+Kim, I know you have the knife.
+
+451
+01:25:18,981 --> 01:25:23,016
+Give it to me, please.
+
+452
+01:29:07,842 --> 01:29:11,912
+-Claude?
+
+453
+01:29:12,113 --> 01:29:16,183
+Claude, are you here?
+
+454
+01:29:29,130 --> 01:29:32,999
+Claude?
+
+455
+01:29:36,204 --> 01:29:36,704
+Claude?
+
+456
+01:29:41,743 --> 01:29:45,812
+- Claude, what's
+happening? Are you there?
+
+457
+01:29:48,783 --> 01:29:49,283
+Claude!
+
+458
+01:30:53,214 --> 01:30:57,217
+-Hey. I made you tea.
+
+459
+01:30:57,219 --> 01:31:01,254
+-Thank you.
+
+460
+01:31:08,029 --> 01:31:12,098
+- Are you gonna schedule that
+appointment?
+
+461
+01:31:21,108 --> 01:31:26,379
+Kim, I don't understand. You
+know what he said about certain
+
+462
+01:31:26,381 --> 01:31:30,283
+psychoses likely being
+hereditary.
+
+463
+01:31:30,285 --> 01:31:34,321
+-I know what everybody said.
+

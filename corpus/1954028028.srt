@@ -1,0 +1,5533 @@
+1
+00:00:50,583 --> 00:00:53,313
+New algorithm should increase uptime
+by at least to 20% .
+
+2
+00:00:53,753 --> 00:00:56,586
+Let's hope that's enough.
+We need to catch a break here.
+
+3
+00:01:02,962 --> 00:01:06,193
+Today's the day, sir. l can feel it.
+All systems are go.
+
+4
+00:01:09,302 --> 00:01:10,394
+Excellent.
+
+5
+00:01:12,005 --> 00:01:13,802
+Proceed to Phase Two.
+
+6
+00:01:27,220 --> 00:01:29,484
+lnitiating dispersal protocol now.
+
+7
+00:01:46,473 --> 00:01:48,031
+Releasing the drones.
+
+8
+00:01:56,182 --> 00:01:59,743
+They're in the air.
+First databurst coming in three... two...
+
+9
+00:02:00,353 --> 00:02:01,320
+. . .one.
+
+10
+00:02:01,955 --> 00:02:03,718
+Piping the datastreams
+into Little Blue.
+
+11
+00:02:04,858 --> 00:02:06,587
+Starting the predictive model.
+
+12
+00:02:06,960 --> 00:02:08,222
+All right, she's all yours.
+
+13
+00:02:14,834 --> 00:02:16,358
+All right, we are live.
+
+14
+00:02:17,237 --> 00:02:18,898
+How's it looking on your end, Major?
+
+15
+00:02:23,576 --> 00:02:24,634
+Looks good.
+
+16
+00:02:25,245 --> 00:02:26,712
+Transmission is clean.
+
+17
+00:02:27,313 --> 00:02:29,907
+Statistical accuracy at 42%
+
+18
+00:02:30,216 --> 00:02:31,240
+44...
+
+19
+00:02:31,784 --> 00:02:33,183
+Now 48 percent.
+
+20
+00:02:34,354 --> 00:02:36,345
+Looks like we have a constant
+rising target, Major.
+
+21
+00:02:37,590 --> 00:02:38,716
+Tracking.
+
+22
+00:02:40,059 --> 00:02:41,151
+Do you see it?
+
+23
+00:02:41,794 --> 00:02:44,558
+About 3,000 meters, about 10:00.
+18 degrees east.
+
+24
+00:02:45,165 --> 00:02:46,325
+52% .
+
+25
+00:02:50,336 --> 00:02:51,360
+Let's switch it over.
+
+26
+00:02:52,705 --> 00:02:53,763
+Hold on.
+
+27
+00:02:54,674 --> 00:02:56,301
+Now at 55% .
+
+28
+00:02:56,609 --> 00:02:58,201
+Drones are down 30% .
+
+29
+00:02:58,278 --> 00:03:01,247
+We'll start to get a drop in data
+transmission in 30 seconds.
+
+30
+00:03:01,681 --> 00:03:02,807
+Just hold on.
+
+31
+00:03:03,149 --> 00:03:06,312
+57% .
+Stabilizing at target levels, Major.
+
+32
+00:03:06,486 --> 00:03:09,319
+We're running out of time.
+Let's do this, people.
+
+33
+00:03:09,589 --> 00:03:11,921
+Yes.
+Switching to lateral controls now.
+
+34
+00:03:25,004 --> 00:03:26,369
+We have acceleration, Major.
+
+35
+00:03:26,539 --> 00:03:29,235
+We're measuring
+a wind-speed increase of 1 1 % , sir.
+
+36
+00:03:30,343 --> 00:03:32,243
+1 1 % . Outstanding.
+
+37
+00:03:33,346 --> 00:03:34,608
+Let's fly this plane.
+
+38
+00:03:36,249 --> 00:03:38,183
+Affirmative.
+Ready to proceed to the next phase.
+
+39
+00:03:41,087 --> 00:03:42,520
+Acceleration is increasing.
+
+40
+00:03:43,089 --> 00:03:44,818
+Velocity up 18%
+
+41
+00:03:45,725 --> 00:03:47,317
+18% ?
+
+42
+00:03:48,561 --> 00:03:52,019
+That's significantly higher than the model.
+Do we have a problem, Doctor?
+
+43
+00:03:53,433 --> 00:03:55,458
+Cannot confirm at this time, Major.
+
+44
+00:03:56,302 --> 00:03:58,031
+We're now at 23% .
+
+45
+00:04:00,406 --> 00:04:03,068
+Ground speed 735 miles per hour.
+
+46
+00:04:06,913 --> 00:04:09,746
+You're exceeding the structural
+limitations of the plane.
+
+47
+00:04:10,416 --> 00:04:11,542
+Shut it down.
+
+48
+00:04:17,590 --> 00:04:18,921
+Negative response.
+
+49
+00:04:19,125 --> 00:04:20,353
+We're still accelerating.
+
+50
+00:04:21,794 --> 00:04:24,558
+- Danger! Danger!
+- lntegrity of the jet stream is compromised.
+
+51
+00:04:24,831 --> 00:04:27,197
+- Danger! Danger! Danger!
+- lt's diving. Get back to your seats.
+
+52
+00:04:27,767 --> 00:04:31,259
+- Danger! Danger! Danger!
+- Lock in!
+
+53
+00:04:31,738 --> 00:04:34,798
+Danger! Danger! Danger!
+
+54
+00:04:36,276 --> 00:04:39,837
+Break out of the stream.
+lnitiate shut-down protocols now.
+
+55
+00:04:43,583 --> 00:04:46,677
+We need more power to break out of this.
+Maxed out on throttle.
+
+56
+00:04:54,227 --> 00:04:56,923
+Danger! Danger! Danger!
+
+57
+00:05:01,501 --> 00:05:04,026
+Lost contact, sir.
+l need the abort code.
+
+58
+00:05:04,304 --> 00:05:06,067
+Hang on. Let's see
+if they can break out of this.
+
+59
+00:05:06,339 --> 00:05:07,397
+The jet stream's been diverted.
+
+60
+00:05:07,907 --> 00:05:09,898
+- Diverted where?
+- West coast, sir.
+
+61
+00:05:09,976 --> 00:05:11,466
+Just north of San Francisco.
+
+62
+00:05:14,280 --> 00:05:16,475
+Abort code Tango-Delta.
+
+63
+00:05:16,949 --> 00:05:18,041
+Transmitting.
+
+64
+00:05:25,258 --> 00:05:27,123
+Surf's up in California.
+
+65
+00:05:35,968 --> 00:05:39,961
+No, actually, l am a scientist.
+l was going to be a scientist.
+
+66
+00:05:40,206 --> 00:05:42,697
+l was going to go further with that,
+but now here l am, l'm a weatherman.
+
+67
+00:05:42,875 --> 00:05:44,604
+Okay, more energy, more energy.
+
+68
+00:05:45,978 --> 00:05:47,468
+l'm Steve ''Sunny'' Simpson.
+
+69
+00:05:47,947 --> 00:05:50,313
+When you're looking for the guy
+that knows Seattle's weather,
+
+70
+00:05:50,783 --> 00:05:51,943
+l'm the weather. . .
+
+71
+00:05:52,919 --> 00:05:53,943
+lt's Angel.
+
+72
+00:05:54,921 --> 00:05:57,822
+This is forward, right?
+Okay, let's try it again.
+
+73
+00:05:58,524 --> 00:06:00,185
+But this thing's not knocking
+on our door yet.
+
+74
+00:06:00,259 --> 00:06:02,159
+lt's way out in the scab lands.
+
+75
+00:06:02,795 --> 00:06:04,592
+Does-does anybody even know
+where the scab lands are?
+
+76
+00:06:04,964 --> 00:06:05,862
+Are they east? West?
+
+77
+00:06:06,299 --> 00:06:07,357
+Oh, they're east, okay.
+
+78
+00:06:07,834 --> 00:06:09,324
+Um... going again?
+
+79
+00:06:11,337 --> 00:06:12,895
+What? We're live?
+
+80
+00:06:17,443 --> 00:06:19,707
+Normal high in the Seattle
+area this year...
+
+81
+00:06:22,482 --> 00:06:26,111
+So, it looks like another Steve
+''Sunny'' Simpson week.
+
+82
+00:06:29,088 --> 00:06:30,487
+Kilometers? Are we...
+
+83
+00:06:31,124 --> 00:06:33,524
+...are we doing the Canadian version
+or the American version?
+
+84
+00:06:34,193 --> 00:06:35,125
+Here we go.
+
+85
+00:06:36,229 --> 00:06:42,065
+Have winds gusting up into 60 kilometers
+per hour just about midnight.
+
+86
+00:06:42,368 --> 00:06:44,359
+On the way.
+We'll talk about that in the Mormon.
+
+87
+00:06:44,537 --> 00:06:47,005
+ln the moment.
+ln a moment! ln a moment!
+
+88
+00:06:50,576 --> 00:06:53,909
+Good morning, Seattle. Take a deep breath.
+The air is fresh and clean,
+
+89
+00:06:54,280 --> 00:06:56,339
+thanks to the freak thunderstorms that
+have been hitting us all week.
+
+90
+00:06:56,649 --> 00:06:59,345
+The weather guy swears to me
+we've got nothing but blue sky ahead of us.
+
+91
+00:06:59,519 --> 00:07:01,680
+That doesn't go for the Seattle
+Thunderbirds, of course.
+
+92
+00:07:01,821 --> 00:07:04,312
+They're 0 and 1 4 and looking
+for a way into the record books.
+
+93
+00:07:04,724 --> 00:07:07,921
+lf you ask me we can do it.
+Let's see if we can't make this...
+
+94
+00:07:09,429 --> 00:07:11,727
+There you go.
+Just sent you my analysis.
+
+95
+00:07:12,565 --> 00:07:14,556
+Excellent.
+We look forward to reviewing it.
+
+96
+00:07:15,601 --> 00:07:18,434
+Okay, so listen, Mr. or Ms. Anonymous
+whoever you are,
+
+97
+00:07:18,805 --> 00:07:21,899
+this armchair analyst thing you have
+me doing here, it's falling short.
+
+98
+00:07:22,008 --> 00:07:24,067
+We really need
+some on-the-ground observations.
+
+99
+00:07:24,377 --> 00:07:25,639
+What are you proposing?
+
+100
+00:07:26,078 --> 00:07:30,014
+Well, it looks to me like one of these
+anomalies is forming kind of close to here.
+
+101
+00:07:31,083 --> 00:07:32,175
+How can you tell?
+
+102
+00:07:33,352 --> 00:07:35,912
+l don't know, l can just... tell.
+Call it a hunch.
+
+103
+00:07:36,289 --> 00:07:38,917
+Anyway, here's an idea.
+How about we go out there together,
+
+104
+00:07:39,358 --> 00:07:41,326
+we make some observations,
+and we finally meet?
+
+105
+00:07:41,394 --> 00:07:43,191
+- That's not recommended.
+- Hey, honey?
+
+106
+00:07:43,596 --> 00:07:47,362
+What do you mean, ''not recommended?''
+There's no substitute for direct observation.
+
+107
+00:07:48,267 --> 00:07:50,235
+Plus, l think l deserve to know
+who l've been dealing with.
+
+108
+00:07:50,670 --> 00:07:53,104
+We strongly advise
+you stay clear of that area.
+
+109
+00:07:53,706 --> 00:07:54,832
+- Honey?
+- Why? What's the issue?
+
+110
+00:07:55,241 --> 00:07:56,367
+Why won't you just. . .
+
+111
+00:07:57,143 --> 00:07:58,269
+Oh, my. . .
+
+112
+00:07:59,779 --> 00:08:02,612
+Hello? Over here? Your fiance?
+
+113
+00:08:02,748 --> 00:08:05,342
+Oh, l'm sorry, baby. Come here.
+Here, come here.
+
+114
+00:08:06,819 --> 00:08:07,786
+Come here.
+
+115
+00:08:08,588 --> 00:08:10,055
+Who were you just talking to?
+
+116
+00:08:10,356 --> 00:08:12,790
+l wish l knew.
+lt's this same anonymous caller.
+
+117
+00:08:13,259 --> 00:08:15,352
+They keep feeding me data
+and asking me questions.
+
+118
+00:08:16,062 --> 00:08:17,791
+Really?
+You expect me to believe that?
+
+119
+00:08:18,231 --> 00:08:20,199
+Why would they be feeding you data?
+
+120
+00:08:20,466 --> 00:08:22,661
+l don't know, l guess they,
+um, value my input.
+
+121
+00:08:23,302 --> 00:08:24,701
+And who might they be?
+
+122
+00:08:25,304 --> 00:08:27,033
+Like l keep telling you, baby,
+l have no idea.
+
+123
+00:08:27,340 --> 00:08:30,798
+lt's probably some climate research team
+that's stuck and they need some insight.
+
+124
+00:08:31,110 --> 00:08:33,237
+From you? A research team?
+
+125
+00:08:34,080 --> 00:08:36,241
+- What do you mean, ''from me?''
+- Nothing.
+
+126
+00:08:36,349 --> 00:08:37,509
+Oh...
+
+127
+00:08:38,150 --> 00:08:42,109
+you mean from a guy who got kicked out
+of his doctoral program for plagiarism.
+
+128
+00:08:42,388 --> 00:08:45,289
+Okay, l didn't say that
+so stop being so sensitive.
+
+129
+00:08:45,758 --> 00:08:46,554
+Okay.
+
+130
+00:08:46,926 --> 00:08:48,757
+Besides, l thought they called it cheating.
+
+131
+00:08:49,228 --> 00:08:51,423
+Yeah, same thing.
+l get it okay.
+
+132
+00:08:51,797 --> 00:08:53,526
+Okay plagiarism.
+
+133
+00:08:53,966 --> 00:08:54,660
+Okay, stop.
+
+134
+00:08:54,967 --> 00:08:57,231
+Look. . . you know l'll stand by
+you no matter what. . .
+
+135
+00:08:57,637 --> 00:09:00,197
+. . .but you just, you've got
+a great opportunity here.
+
+136
+00:09:00,406 --> 00:09:02,169
+As the KPQR weatherman?
+
+137
+00:09:02,608 --> 00:09:03,267
+Yeah.
+
+138
+00:09:04,176 --> 00:09:05,700
+Steve, you've got to
+let go of the past,
+
+139
+00:09:06,245 --> 00:09:09,237
+okay? You've got a new job ahead of you
+and rocking the boat like this is risky.
+
+140
+00:09:09,515 --> 00:09:10,209
+l'm not rocking the boat.
+
+141
+00:09:10,283 --> 00:09:12,649
+l've been tracking these weird
+patterns for months now.
+
+142
+00:09:12,985 --> 00:09:15,351
+My predictive algorithms show
+that they're going to spike.
+
+143
+00:09:16,923 --> 00:09:20,120
+l just... l wish you could forget all this
+and focus on your job.
+
+144
+00:09:20,326 --> 00:09:24,194
+- My job is to predict the weather, Ange!
+- No, that is a scientist's job!
+
+145
+00:09:24,463 --> 00:09:27,591
+And that didn't pan out,
+which, you know, is fine by me.
+
+146
+00:09:28,301 --> 00:09:29,233
+But your job is to. . .
+
+147
+00:09:29,602 --> 00:09:33,868
+you know, deliver your lines, and look cute,
+and be funny, and you're great at that.
+
+148
+00:09:34,440 --> 00:09:37,637
+- Jack knows it, too. He's grooming you. . .
+- Jack, please.
+
+149
+00:09:41,514 --> 00:09:44,244
+- Speak of the devil.
+- Please, think about it. For me.
+
+150
+00:09:44,750 --> 00:09:46,911
+l have. This is Steve!
+
+151
+00:09:47,787 --> 00:09:51,883
+Steve? Come on, buddy,
+where's the nickname we worked out?
+
+152
+00:09:52,358 --> 00:09:56,192
+Steve ''Sunny'' Simpson, weather guy.
+Friendly, easy on the eye.
+
+153
+00:09:56,629 --> 00:09:58,119
+Right? With me?
+
+154
+00:09:58,397 --> 00:10:00,524
+Sunny. Sunny Simpson.
+Yeah, sure. You know,
+
+155
+00:10:00,666 --> 00:10:04,193
+- we don't want to alienate the average Joe.
+- Alienate? God forbid!
+
+156
+00:10:04,236 --> 00:10:07,364
+We are entertainers, sonny boy.
+Hold on a sec.
+
+157
+00:10:08,074 --> 00:10:10,304
+What the hell is this?
+Get him in here.
+
+158
+00:10:11,544 --> 00:10:12,704
+That's what l love about this job.
+
+159
+00:10:12,912 --> 00:10:15,540
+Entertainment opens up opportunities
+to inspire,
+
+160
+00:10:15,748 --> 00:10:18,080
+to educate to make a difference
+in the world.
+
+161
+00:10:18,284 --> 00:10:21,276
+Oh, whoa, whoa, whoa, whoa, whoa.
+What the hell are you talking about?
+
+162
+00:10:21,587 --> 00:10:22,849
+This is about ratings.
+
+163
+00:10:23,356 --> 00:10:25,756
+l don't know what difference
+you're planning on making,
+
+164
+00:10:26,158 --> 00:10:28,388
+but this is all about ratings.
+
+165
+00:10:28,594 --> 00:10:30,425
+So let's see
+if we can't give them a boost huh?
+
+166
+00:10:30,763 --> 00:10:33,061
+Lighten up,
+bring some levity to the game.
+
+167
+00:10:33,299 --> 00:10:36,757
+My bottom line goes down when their
+bottom line goes down, you got that?
+
+168
+00:10:37,436 --> 00:10:38,801
+- Uh...
+- Go, go, go!
+
+169
+00:10:39,105 --> 00:10:42,165
+Gee, l can do that, Jack, you know.
+l can l can do some light banter, and,
+
+170
+00:10:42,341 --> 00:10:44,206
+you know, we can have a little
+more fun with it. That's cool.
+
+171
+00:10:44,477 --> 00:10:46,741
+Maybe try some where
+you wear different outfits, you know?
+
+172
+00:10:47,279 --> 00:10:48,678
+Like reflecting the weather.
+
+173
+00:10:49,115 --> 00:10:51,845
+So if it's snow, like, wear a big coat.
+
+174
+00:10:52,218 --> 00:10:54,379
+lf it's rain, maybe a rain hat.
+
+175
+00:10:54,787 --> 00:10:55,947
+- lf it's a sunny day...
+- What?
+
+176
+00:10:58,224 --> 00:10:59,350
+...maybe a colored shirt.
+
+177
+00:10:59,525 --> 00:11:03,120
+Wow, Jack, you know what, man?
+That's really original.
+
+178
+00:11:03,262 --> 00:11:06,254
+Let's try injecting some sex appeal.
+How about a speedo?
+
+179
+00:11:07,299 --> 00:11:08,231
+A speedo?
+
+180
+00:11:08,834 --> 00:11:09,994
+Are you serious?
+
+181
+00:11:10,302 --> 00:11:11,701
+Serious as a heart attack.
+
+182
+00:11:12,338 --> 00:11:15,398
+Yeah, you know what, Jack, um,
+l don't think that's going to play too well.
+
+183
+00:11:15,908 --> 00:11:18,206
+Aw, come on, Sunny,
+get with the program.
+
+184
+00:11:18,778 --> 00:11:20,211
+Whoa, whoa, whoa,
+whoa, whoa, hold on.
+
+185
+00:11:22,281 --> 00:11:23,646
+l got another brainstorm.
+
+186
+00:11:25,384 --> 00:11:27,045
+Weatherman gone wild.
+
+187
+00:11:28,320 --> 00:11:29,981
+Weatherman gone wild?
+
+188
+00:11:30,723 --> 00:11:35,217
+Yeah, you know, like ''Girls Gone Wild,''
+Teens Gone Wild? Weatherman Gone Wild.
+
+189
+00:11:35,795 --> 00:11:37,592
+Weather's gone crazy,
+so has the weatherman.
+
+190
+00:11:37,963 --> 00:11:42,195
+Weatherman Gone Wild! Think about it.
+lt's got YouTube virality written all over it.
+
+191
+00:11:42,468 --> 00:11:44,197
+Weatherman Gone Wild!
+
+192
+00:11:44,403 --> 00:11:47,463
+l want you to think about it Come on,
+say it back to me, Steve. Say it back to me.
+
+193
+00:11:48,274 --> 00:11:50,640
+- Smile!
+- Weatherman Gone Wild.
+
+194
+00:11:51,143 --> 00:11:52,201
+There you go. Say it again.
+
+195
+00:11:52,445 --> 00:11:55,710
+You know what this is really interesting,
+but l got something l've got to talk to you about.
+
+196
+00:11:56,115 --> 00:11:58,640
+Just say it back to me, come on.
+Weatherman Gone Wild.
+
+197
+00:11:59,151 --> 00:12:01,449
+Weatherman Gone Wild, okay?
+l'm gonna think about it, but listen. . .
+
+198
+00:12:01,721 --> 00:12:04,519
+. . .l've got this huge scoop.
+lt's an unbelievable story.
+
+199
+00:12:04,990 --> 00:12:06,287
+What like a weather scoop?
+
+200
+00:12:06,525 --> 00:12:08,720
+Yeah. All l need is a camera crew
+and a field truck.
+
+201
+00:12:09,428 --> 00:12:11,419
+Who do you think you are?
+Tom Brokaw?
+
+202
+00:12:12,498 --> 00:12:15,831
+l'll give you a van and a cameraman.
+What are you going to give me, weatherman?
+
+203
+00:12:16,202 --> 00:12:19,467
+Jack l am going to give you footage
+you have never seen before.
+
+204
+00:12:20,139 --> 00:12:22,801
+That's what l love about you,
+sonny boy, you get it.
+
+205
+00:12:23,109 --> 00:12:25,043
+What are we talking about here?
+Give me the pitch.
+
+206
+00:12:25,311 --> 00:12:26,471
+Okay, check it out, Jack.
+
+207
+00:12:27,146 --> 00:12:29,478
+There is going to be a convergence
+in the jet stream that's going to cause this...
+
+208
+00:12:29,849 --> 00:12:32,579
+...huge weather anomaly.
+lt's going to be out of this world.
+
+209
+00:12:33,018 --> 00:12:36,351
+Oh, whoa, whoa, whoa, what the hell are
+you talking about?
+
+210
+00:12:37,923 --> 00:12:38,753
+Um...
+
+211
+00:12:39,725 --> 00:12:43,559
+l'm talking about, uh, l'm talking about
+Weatherman Gone Wild!
+
+212
+00:12:43,796 --> 00:12:45,058
+- Yeah.
+- lt's gonna be off the charts.
+
+213
+00:12:45,164 --> 00:12:47,724
+- Richter. Weatherman Gone Wild, l'm all in.
+- Now you're talking.
+
+214
+00:12:48,033 --> 00:12:50,433
+Save all the cerebral nonsense
+for the Discovery Channel.
+
+215
+00:12:50,736 --> 00:12:53,296
+l want ratings.
+l want Weatherman Gone Wild!
+
+216
+00:12:53,439 --> 00:12:57,705
+Yeah, l hear you, brother. Okay, cool.
+Weatherman Gone Wild, l got it.
+
+217
+00:12:58,077 --> 00:12:59,044
+Over and out.
+
+218
+00:13:00,279 --> 00:13:02,247
+That guy is out of his mind.
+
+219
+00:13:06,152 --> 00:13:07,517
+Promise me something?
+
+220
+00:13:08,320 --> 00:13:09,582
+Sure, anything, baby.
+
+221
+00:13:10,756 --> 00:13:13,816
+No more anonymous calls, okay?
+Just it doesn't feel right that.
+
+222
+00:13:14,026 --> 00:13:16,586
+- l have no idea who's calling me!
+- Okay. . . whatever.
+
+223
+00:13:17,029 --> 00:13:18,223
+Just no more, all right?
+
+224
+00:13:18,497 --> 00:13:19,327
+Okay.
+
+225
+00:13:20,366 --> 00:13:22,061
+- l love you.
+- Love you.
+
+226
+00:13:25,137 --> 00:13:28,163
+- Weatherman gone wild.
+- Whoo! Yeah, baby.
+
+227
+00:13:28,340 --> 00:13:29,432
+- The new Weatherman Gone Wild.
+- Bye.
+
+228
+00:13:29,675 --> 00:13:31,540
+You better look out
+when you get home tonight.
+
+229
+00:13:32,178 --> 00:13:33,145
+Bye!
+
+230
+00:13:48,127 --> 00:13:49,151
+No signal.
+
+231
+00:13:57,303 --> 00:13:59,464
+So how'd you get
+into this racket anyway, Louie?
+
+232
+00:14:01,073 --> 00:14:03,507
+News cameraman.
+How did you get into it?
+
+233
+00:14:03,876 --> 00:14:05,434
+Did you always want
+to be a cameraman?
+
+234
+00:14:05,744 --> 00:14:08,338
+Did you play with the cameras as a kid?
+You know, stuff like that?
+
+235
+00:14:09,381 --> 00:14:10,712
+You gotta pay the bills.
+
+236
+00:14:11,217 --> 00:14:13,117
+Keeps the ball and chain happy.
+
+237
+00:14:13,619 --> 00:14:16,679
+Right. You mean the wife.
+
+238
+00:14:17,556 --> 00:14:18,716
+The wife.
+
+239
+00:15:02,468 --> 00:15:03,628
+lt's happening.
+
+240
+00:15:04,303 --> 00:15:06,771
+- lt's gonna be. . .
+- You know, l was born in Budapest, Hungary.
+
+241
+00:15:07,006 --> 00:15:09,998
+Went to the same film school
+with Vilmos Zsigmond.
+
+242
+00:15:10,509 --> 00:15:12,340
+Wilmore Zigmund?
+
+243
+00:15:13,045 --> 00:15:16,014
+Vilmos Zsigmond,
+the great cinematographer.
+
+244
+00:15:16,382 --> 00:15:17,974
+He shot movies for Steven Spielberg.
+
+245
+00:15:18,317 --> 00:15:19,341
+Spielberg? Really?
+
+246
+00:15:19,885 --> 00:15:23,844
+Yeah, and l shoot
+the KPQR Morning News.
+
+247
+00:15:24,390 --> 00:15:26,483
+l hear you, man. Life's a bitch, huh?
+
+248
+00:15:26,926 --> 00:15:28,325
+And then you die.
+
+249
+00:15:28,527 --> 00:15:31,587
+- Yeah.
+- Are you sure there's a story here?
+
+250
+00:15:32,765 --> 00:15:34,960
+- Not much to look at.
+- Louie,
+
+251
+00:15:35,634 --> 00:15:37,568
+see those cirrocumulus clouds
+right there?
+
+252
+00:15:38,304 --> 00:15:40,204
+That's what l want you to focus on.
+
+253
+00:15:43,943 --> 00:15:48,505
+Well, l thought it was something
+more to do with Weatherman Gone Wild.
+
+254
+00:15:48,881 --> 00:15:50,940
+l'm not sure Jack
+was thinking about this.
+
+255
+00:15:51,216 --> 00:15:54,242
+l don't care what Jack's thinking about.
+This is a huge scoop, Louie.
+
+256
+00:15:54,553 --> 00:15:57,545
+The jet stream's not supposed to change.
+lt's a constant.
+
+257
+00:15:57,856 --> 00:16:00,347
+lt's like gravity got shut off
+in the middle of the night.
+
+258
+00:16:00,559 --> 00:16:02,493
+So no girls in bikinis, huh?
+
+259
+00:16:02,962 --> 00:16:06,022
+Just roll the camera.
+The clouds are perfect right now.
+
+260
+00:16:06,398 --> 00:16:08,195
+Ah, perfect, you say.
+
+261
+00:16:08,300 --> 00:16:11,064
+- Nobody's ever seen anything like this.
+- Okay.
+
+262
+00:16:12,104 --> 00:16:13,230
+How about you just indulge me
+a little bit?
+
+263
+00:16:13,672 --> 00:16:16,368
+l'll indulge you all you want,
+just don't forget that
+
+264
+00:16:17,242 --> 00:16:19,437
+this is supposed to be a live broadcast.
+
+265
+00:16:20,179 --> 00:16:21,077
+Live?
+
+266
+00:16:21,480 --> 00:16:23,914
+Yeah. They wanted us to do it live.
+
+267
+00:16:24,950 --> 00:16:26,941
+l thought we were just getting
+some B-roll.
+
+268
+00:16:28,287 --> 00:16:29,083
+Now...
+
+269
+00:16:29,321 --> 00:16:30,583
+. . .are you ready with your. . .
+
+270
+00:16:30,923 --> 00:16:33,756
+. . .your stand-up
+Weatherman Gone Wild?
+
+271
+00:16:34,226 --> 00:16:37,161
+lt's a story about climate change,
+the jet stream changing course.
+
+272
+00:16:37,363 --> 00:16:39,331
+l don't want to rain
+on your parade, but...
+
+273
+00:16:39,798 --> 00:16:42,266
+- this is not PBS.
+- Yeah, l hear you.
+
+274
+00:16:43,902 --> 00:16:47,269
+- Now, Steve, just relax.
+- Okay.
+
+275
+00:16:47,339 --> 00:16:51,002
+Play on the fact that you're on a live shoot
+and nothing's happening.
+
+276
+00:16:52,544 --> 00:16:55,308
+Trust me, this won't be first time.
+
+277
+00:16:55,781 --> 00:16:57,578
+Really? Thanks, Louie.
+
+278
+00:16:57,983 --> 00:16:59,280
+No problem, kid.
+
+279
+00:17:00,386 --> 00:17:01,910
+You going to stand there?
+
+280
+00:17:02,121 --> 00:17:03,713
+Yeah.
+Just don't forget to pan up to the sky.
+
+281
+00:17:04,223 --> 00:17:07,192
+Yeah, got it. Here we go.
+
+282
+00:17:08,627 --> 00:17:09,491
+Five. . .
+
+283
+00:17:10,029 --> 00:17:10,893
+Four...
+
+284
+00:17:11,430 --> 00:17:12,362
+Three. . .
+
+285
+00:17:12,498 --> 00:17:14,659
+Boy, l wouldn't want to be
+in their shoes!
+
+286
+00:17:15,667 --> 00:17:17,828
+Speaking of hot and wild,
+
+287
+00:17:18,404 --> 00:17:20,872
+here's our own Steve Sunny Simpson,
+
+288
+00:17:21,140 --> 00:17:24,007
+the Weatherman Gone Wild
+with an incredible story.
+
+289
+00:17:24,309 --> 00:17:26,334
+Sunny, what do you have for us?
+
+290
+00:17:27,179 --> 00:17:28,441
+How's it going back there?
+
+291
+00:17:29,048 --> 00:17:31,380
+Fine, Steve, the question is,
+how's it going there?
+
+292
+00:17:31,683 --> 00:17:32,274
+Right!
+
+293
+00:17:32,518 --> 00:17:34,645
+Well, what if l told you that,
+in the middle of the night,
+
+294
+00:17:34,887 --> 00:17:37,447
+- gravity got shut off?
+- What?
+
+295
+00:17:37,756 --> 00:17:41,089
+That's exactly what l said.
+l want you to take a look at this.
+
+296
+00:17:41,860 --> 00:17:44,192
+That's a classic cirrocumulus cloud.
+
+297
+00:17:44,763 --> 00:17:48,324
+They exist between 25,000
+to 40,000 feet in the jet stream.
+
+298
+00:17:48,901 --> 00:17:50,232
+But notice how it's shredded?
+
+299
+00:17:50,569 --> 00:17:51,558
+- What l'm saying is that the jet stream as...
+- What the hell kind of scoop is this?
+
+300
+00:17:51,770 --> 00:17:55,729
+we have known it
+has changed fundamentally.
+
+301
+00:17:56,508 --> 00:18:00,638
+That's fascinating, Sunny.
+So what are we looking at in our future?
+
+302
+00:18:00,979 --> 00:18:03,277
+l mean, in terms of weather.
+
+303
+00:18:04,483 --> 00:18:07,145
+lt's kind of hard to tell from here, but...
+
+304
+00:18:09,721 --> 00:18:10,983
+What is that?
+
+305
+00:18:25,270 --> 00:18:27,761
+What do you expect us
+to tell the President, Major?
+
+306
+00:18:28,407 --> 00:18:31,433
+- Have you lost control of Thor's Hammer?
+- Lost control?
+
+307
+00:18:33,378 --> 00:18:35,710
+What you're looking
+at is proof of concept.
+
+308
+00:18:37,583 --> 00:18:41,542
+Thor's Hammer is going to be one of the
+most powerful weapons systems ever created.
+
+309
+00:18:42,221 --> 00:18:44,985
+This is not going to get developed
+without some degree of collateral damage.
+
+310
+00:18:45,357 --> 00:18:49,691
+l'm not exactly sure
+what your expectations are.
+
+311
+00:18:51,630 --> 00:18:56,033
+We expect the collateral damage
+to remain below acceptable levels.
+
+312
+00:18:59,204 --> 00:19:02,037
+You give me the eggs,
+l'll make the omelette.
+
+313
+00:19:05,744 --> 00:19:07,109
+Proceed, Major.
+
+314
+00:19:07,646 --> 00:19:10,308
+Yes, ma'am.
+Wouldn't have it any other way.
+
+315
+00:20:35,567 --> 00:20:39,594
+Hold on, Louie! Hold on!
+Hold on!
+
+316
+00:20:40,272 --> 00:20:44,402
+Hold on, Louie!
+Stay with me! Louie!
+
+317
+00:21:14,606 --> 00:21:15,834
+He's awake!
+
+318
+00:21:23,148 --> 00:21:25,309
+Hey, Daisy.
+Looking pretty cute today.
+
+319
+00:21:25,684 --> 00:21:28,152
+Uh, hey, folks.
+The jet stream's moving a lot. . .
+
+320
+00:21:28,387 --> 00:21:33,290
+. . .these days, and it's, uh, really sort of
+traveling in a direction here. . .
+
+321
+00:21:33,625 --> 00:21:36,685
+. . .and it's spawning these little spinning
+depressive things
+
+322
+00:21:36,962 --> 00:21:38,793
+that's hovering right above our heads.
+
+323
+00:21:39,064 --> 00:21:39,928
+Hey, baby.
+
+324
+00:21:40,299 --> 00:21:41,459
+Hey!
+
+325
+00:21:43,035 --> 00:21:45,196
+Big day.
+You ready to go home?
+
+326
+00:21:45,304 --> 00:21:47,204
+Aren't you a sight for sore eyes.
+
+327
+00:21:47,939 --> 00:21:49,429
+Watching your favorite show?
+
+328
+00:21:49,741 --> 00:21:50,605
+Yeah.
+
+329
+00:21:51,143 --> 00:21:54,476
+To the north and into the east,
+bringing a lot of punch.
+
+330
+00:21:54,780 --> 00:21:56,645
+Wear that raincoat out there.
+
+331
+00:21:57,349 --> 00:21:58,873
+They all got it wrong.
+
+332
+00:21:59,418 --> 00:22:00,976
+Don't worry about them, okay?
+
+333
+00:22:02,087 --> 00:22:03,111
+Jack called.
+
+334
+00:22:03,322 --> 00:22:05,756
+They've got a whole
+new show planned for you.
+
+335
+00:22:06,358 --> 00:22:07,382
+Tornado Man.
+
+336
+00:22:08,627 --> 00:22:09,286
+What?
+
+337
+00:22:10,228 --> 00:22:11,786
+Baby, Tornado Man!
+
+338
+00:22:12,364 --> 00:22:14,264
+This is going to get you
+on the anchor track.
+
+339
+00:22:15,000 --> 00:22:16,661
+That was no tornado, Ange.
+
+340
+00:22:17,369 --> 00:22:18,597
+You don't know
+what you're talking about.
+
+341
+00:22:19,104 --> 00:22:20,196
+You're a celebrity now.
+
+342
+00:22:20,405 --> 00:22:24,171
+- A celeb. . . What are you talking about?
+- You're Tornado Man!
+
+343
+00:22:24,443 --> 00:22:25,705
+Okay, you have to see this video.
+
+344
+00:22:25,944 --> 00:22:28,310
+You're probably the only person
+who's not seen this.
+
+345
+00:22:37,556 --> 00:22:39,217
+Almost two million views!
+
+346
+00:22:41,026 --> 00:22:42,288
+Notice how it's shredded.
+
+347
+00:22:42,961 --> 00:22:45,521
+What l am saying is that the jet stream
+as we have known it
+
+348
+00:22:45,964 --> 00:22:48,057
+has changed, fundamentally.
+
+349
+00:22:48,600 --> 00:22:52,696
+That's fascinating, Sunny.
+So, what are we looking at in our future?
+
+350
+00:22:53,038 --> 00:22:55,302
+l mean in terms of weather?
+
+351
+00:22:55,674 --> 00:22:58,837
+lt-it's kind of hard to tell from here,
+but...
+
+352
+00:22:59,845 --> 00:23:01,039
+What is that?
+
+353
+00:23:17,362 --> 00:23:18,454
+Louie!
+
+354
+00:23:19,197 --> 00:23:21,757
+Louie, hold on. . .
+
+355
+00:23:23,702 --> 00:23:24,896
+lsn't that amazing?
+
+356
+00:23:25,137 --> 00:23:27,435
+lt has almost two million views.
+
+357
+00:23:28,106 --> 00:23:30,199
+Okay, and wait until you see this.
+
+358
+00:23:31,777 --> 00:23:33,836
+You're even on a t-shirt.
+
+359
+00:23:35,914 --> 00:23:38,280
+You know what, Ange, l mean,
+that's great. Yeah, a million views.
+
+360
+00:23:38,817 --> 00:23:40,478
+But Louie is dead. l...
+
+361
+00:23:41,286 --> 00:23:43,447
+How do you think this makes me feel?
+
+362
+00:23:44,156 --> 00:23:46,391
+- Yeah, it's... l know.
+- l took him out there.
+
+363
+00:23:46,391 --> 00:23:49,326
+- He was my responsibility.
+- Baby, it was an accident.
+
+364
+00:23:49,628 --> 00:23:51,391
+No. No it wasn't, Ange.
+
+365
+00:23:52,998 --> 00:23:54,192
+Listen to me.
+
+366
+00:23:54,800 --> 00:23:58,395
+l got a call from those anonymous people,
+and they warned me not to go out there. . .
+
+367
+00:23:58,804 --> 00:24:00,032
+. . .but l went out there anyway.
+
+368
+00:24:01,106 --> 00:24:04,234
+Do you hear what l'm saying?
+They told me not to go!
+
+369
+00:24:06,278 --> 00:24:11,978
+Steve... l've stood by you for two years,
+helping you rebuild your life.
+
+370
+00:24:13,552 --> 00:24:17,181
+And suddenly, this great opportunity
+has come along, and...
+
+371
+00:24:18,123 --> 00:24:21,718
+Look, l feel bad for Louie and his family,
+too, believe me, l do, but...
+
+372
+00:24:22,127 --> 00:24:24,118
+no matter what you do now,
+
+373
+00:24:24,362 --> 00:24:25,852
+there's no bringing him back.
+
+374
+00:24:28,366 --> 00:24:29,993
+Will you just think about it?
+
+375
+00:24:34,072 --> 00:24:36,063
+l'm going to go and handle
+your release papers, okay?
+
+376
+00:24:36,541 --> 00:24:37,508
+All right.
+
+377
+00:24:58,296 --> 00:25:01,129
+lt's-it's kind of hard to tell from here
+but. . .
+
+378
+00:25:01,299 --> 00:25:02,766
+What is that?
+
+379
+00:25:04,569 --> 00:25:05,661
+What is that?
+
+380
+00:25:07,038 --> 00:25:11,031
+That's fascinating, Sunny.
+So, what are we looking at in our future?
+
+381
+00:25:11,309 --> 00:25:13,607
+l mean, in terms of weather?
+
+382
+00:25:13,945 --> 00:25:17,108
+lt-it's kind of hard to tell from here,
+but. . .
+
+383
+00:25:19,885 --> 00:25:21,250
+What is that. . .
+
+384
+00:25:25,624 --> 00:25:26,283
+Hello.
+
+385
+00:25:26,525 --> 00:25:30,154
+Hey, yo, yo, yo, is this Tornado Man?
+Do l have the honor?
+
+386
+00:25:30,395 --> 00:25:31,327
+Uh, hey, Jack.
+
+387
+00:25:31,663 --> 00:25:35,064
+How's it all coming together, buddy?
+l understand you're almost on your feet.
+
+388
+00:25:35,467 --> 00:25:38,698
+So, when can l expect you back?
+l want Tornado Man on the air!
+
+389
+00:25:39,104 --> 00:25:41,095
+Yeah, you know, l'm not sure
+l want to be back on the air.
+
+390
+00:25:41,640 --> 00:25:44,700
+Whoa.
+What the hell are you talking about?
+
+391
+00:25:45,343 --> 00:25:47,277
+You know,
+with Louie and everything, l just,
+
+392
+00:25:47,345 --> 00:25:49,506
+l don't know if l want to be
+a weatherman anymore, Jack.
+
+393
+00:25:51,283 --> 00:25:52,250
+Steve...
+
+394
+00:25:54,819 --> 00:25:55,979
+listen to me, buddy.
+
+395
+00:25:56,888 --> 00:25:58,719
+Bad things happen to good people.
+
+396
+00:25:59,357 --> 00:26:03,316
+Now, you want to spend your life moping
+or you want to move on?
+
+397
+00:26:03,862 --> 00:26:07,354
+- l just... l don't know if l can get. . .
+- Listen to me.
+
+398
+00:26:08,433 --> 00:26:11,493
+You've got a bright future.
+You've got to weather these things.
+
+399
+00:26:11,836 --> 00:26:14,168
+- You understand what l'm saying?
+- Yeah. Yeah.
+
+400
+00:26:15,073 --> 00:26:17,268
+So, when can l expect you back?
+
+401
+00:26:17,876 --> 00:26:19,275
+When's Tornado Man coming back?
+
+402
+00:26:19,778 --> 00:26:22,679
+Jack, listen, l just need some time, man.
+l can't commit right now.
+
+403
+00:26:23,181 --> 00:26:24,273
+Okay, Steve, be straight with me.
+
+404
+00:26:24,583 --> 00:26:27,245
+Are you fielding other offers right now?
+lf so who are you talking to?
+
+405
+00:26:27,686 --> 00:26:29,711
+lt's not like that Jack, all right?
+l gotta go.
+
+406
+00:26:30,088 --> 00:26:32,921
+- Wait, hold on a sec. Hang on a sec. . .
+- l got another call.
+
+407
+00:26:34,125 --> 00:26:34,887
+Damn.
+
+408
+00:26:37,329 --> 00:26:39,854
+lt's gotta be CNN.
+
+409
+00:26:44,836 --> 00:26:45,803
+Oh, man.
+
+410
+00:26:46,805 --> 00:26:48,363
+We're relieved to hear you
+survived the incident.
+
+411
+00:26:48,440 --> 00:26:51,068
+Yeah? Who is ''we'' exactly?
+
+412
+00:26:51,276 --> 00:26:53,471
+That information cannot be
+disclosed at this time.
+
+413
+00:26:54,646 --> 00:26:56,136
+What do you people want from me?
+
+414
+00:26:56,381 --> 00:26:59,782
+Access to the data figures to predict the
+location of the event.
+
+415
+00:27:00,352 --> 00:27:01,751
+You know what data l used.
+
+416
+00:27:02,153 --> 00:27:04,519
+What model did you use
+to make the prediction?
+
+417
+00:27:05,323 --> 00:27:06,620
+You want answers from me?
+
+418
+00:27:07,058 --> 00:27:08,616
+You're going to have
+to answer my questions.
+
+419
+00:27:09,394 --> 00:27:11,191
+Sounds to me like you
+guys opened Pandora's Box
+
+420
+00:27:11,396 --> 00:27:12,988
+and let out something
+you can't control.
+
+421
+00:27:13,798 --> 00:27:15,265
+Why don't you guys just tell me
+who this is?
+
+422
+00:27:15,467 --> 00:27:18,698
+- We are asking the questions.
+- No. . . l'm asking the questions!
+
+423
+00:27:19,004 --> 00:27:21,029
+l went out there!
+l got someone killed!
+
+424
+00:27:21,539 --> 00:27:23,063
+l want some answers!
+
+425
+00:27:23,608 --> 00:27:26,202
+You were warned.
+You did not heed our warning.
+
+426
+00:27:26,578 --> 00:27:28,307
+This conversation's over.
+
+427
+00:27:44,195 --> 00:27:46,925
+Oh, boy, the bloody schedule is shot.
+
+428
+00:27:47,399 --> 00:27:50,197
+There's half a dozen lorries
+behind this one, come on!
+
+429
+00:27:50,468 --> 00:27:52,197
+Get a bloody move on!
+
+430
+00:27:57,308 --> 00:27:58,172
+You what?
+
+431
+00:27:59,244 --> 00:28:00,472
+Say what?
+
+432
+00:28:01,346 --> 00:28:02,745
+What did you say to me, boy?
+
+433
+00:28:12,357 --> 00:28:13,949
+Well, thank you.
+
+434
+00:28:14,426 --> 00:28:15,393
+Thank you.
+
+435
+00:28:19,230 --> 00:28:21,164
+You're all right you are.
+
+436
+00:28:43,288 --> 00:28:44,448
+Fish?
+
+437
+00:29:02,507 --> 00:29:06,273
+ln London a freak weather condition
+caused fish to rain from the sky.
+
+438
+00:29:06,511 --> 00:29:11,244
+They're estimating nearly 100,000 fish
+came down in the space of just a few minutes.
+
+439
+00:29:11,983 --> 00:29:14,679
+Experts say, a cyclone in the Atlantic
+was responsible
+
+440
+00:29:14,953 --> 00:29:16,648
+for what many are taking to be
+
+441
+00:29:16,921 --> 00:29:19,913
+- a biblical sign of the end of days.
+- Where we come from. . .
+
+442
+00:29:20,592 --> 00:29:22,526
+. . .there's a legend, prophecy,
+that say. . .
+
+443
+00:29:22,927 --> 00:29:24,758
+. . .that when a man challenge God...
+
+444
+00:29:25,096 --> 00:29:26,188
+. . .he is purged. . .
+
+445
+00:29:27,832 --> 00:29:28,423
+Hey!
+
+446
+00:29:29,000 --> 00:29:31,264
+ls this how you're planning
+on spending your day again?
+
+447
+00:29:31,603 --> 00:29:32,592
+What?
+
+448
+00:29:34,105 --> 00:29:36,164
+ln front of the computer
+with the TV on, like. . .
+
+449
+00:29:36,241 --> 00:29:37,572
+. . .some kind of loser?
+
+450
+00:29:38,343 --> 00:29:40,538
+Come on, baby,
+is this what losers look like?
+
+451
+00:29:41,279 --> 00:29:42,678
+You don't want me
+to answer that question.
+
+452
+00:29:43,248 --> 00:29:45,842
+Hey, doctor said l should stay
+off my feet for a week.
+
+453
+00:29:46,885 --> 00:29:48,853
+He said that two weeks ago, okay?
+
+454
+00:29:48,953 --> 00:29:50,352
+Ever since you came out
+of your coma...
+
+455
+00:29:50,421 --> 00:29:52,616
+. . .you've been obsessing
+about this not-atornado thing.
+
+456
+00:29:52,957 --> 00:29:54,720
+Well, it turns out,
+my hunch may be right.
+
+457
+00:29:55,093 --> 00:29:56,651
+Something is destabilizing
+the jet stream,
+
+458
+00:29:56,961 --> 00:29:58,826
+and it's becoming dangerous
+and unpredictable.
+
+459
+00:29:59,097 --> 00:29:59,995
+Okay, stop it, Steve.
+
+460
+00:30:00,365 --> 00:30:02,026
+You're not a scientist anymore.
+
+461
+00:30:03,001 --> 00:30:05,231
+Actually, l was working
+on my Ph.D in Meteorology
+
+462
+00:30:05,637 --> 00:30:07,366
+and Atmospheric Engineering.
+
+463
+00:30:08,006 --> 00:30:11,237
+Okay, don't talk to me like l'm stupid.
+You know that l hate that.
+
+464
+00:30:11,442 --> 00:30:16,106
+All right, look, um, l'm sorry, baby.
+lt's just, you know l...
+
+465
+00:30:17,315 --> 00:30:18,213
+Look, okay.
+
+466
+00:30:20,285 --> 00:30:21,684
+Whatever you were. . .
+
+467
+00:30:22,086 --> 00:30:24,077
+. . .they're never going to
+let you be that again.
+
+468
+00:30:24,489 --> 00:30:25,683
+l'm sorry, but...
+
+469
+00:30:26,457 --> 00:30:28,322
+. . .that part of your life is over.
+
+470
+00:30:29,127 --> 00:30:30,924
+You have a new life now, with me, and...
+
+471
+00:30:31,362 --> 00:30:33,853
+instead of giving it a go,
+you're just throwing it away.
+
+472
+00:30:36,034 --> 00:30:38,264
+You should be capitalizing
+on this YouTube video thing.
+
+473
+00:30:38,603 --> 00:30:42,004
+- Oh, come on, YouTube? Are you. . .
+- No, l mean, you know, TV, a book deal.
+
+474
+00:30:42,140 --> 00:30:45,337
+At least renegotiate
+your contract with the station. But. . .
+
+475
+00:30:46,377 --> 00:30:48,311
+. . .all you're doing is sitting
+in front of the computer,
+
+476
+00:30:48,479 --> 00:30:51,642
+researching something that
+nobody believes ever happened.
+
+477
+00:30:52,817 --> 00:30:55,342
+lt was a freak accident, okay?
+
+478
+00:30:56,120 --> 00:30:57,144
+A tornado.
+
+479
+00:30:58,957 --> 00:31:01,926
+And now you're just in this
+vicious downward spiral.
+
+480
+00:31:03,661 --> 00:31:05,185
+Wait a second, what did you just say?
+
+481
+00:31:05,997 --> 00:31:08,192
+- lt was a tornado.
+- No, no, after that.
+
+482
+00:31:08,967 --> 00:31:10,992
+Vicious downward spiral?
+
+483
+00:31:12,470 --> 00:31:15,405
+Oh, my God. . . that... that's it.
+That's what l've been looking for.
+
+484
+00:31:15,807 --> 00:31:17,468
+- That's brilliant.
+- What?
+
+485
+00:31:17,809 --> 00:31:19,333
+You just said something that helped me
+solve this problem that
+
+486
+00:31:19,744 --> 00:31:21,211
+l've been working on for, like, a month.
+
+487
+00:31:21,646 --> 00:31:22,476
+What are you doing?
+
+488
+00:31:23,114 --> 00:31:24,240
+Oh, my God.
+
+489
+00:31:30,288 --> 00:31:31,482
+Baby, you have no. . .
+
+490
+00:31:32,257 --> 00:31:34,225
+- Steve. . .
+- This is huge. You have no idea.
+
+491
+00:31:40,265 --> 00:31:41,459
+l've got to go to work.
+
+492
+00:31:49,274 --> 00:31:50,298
+Ange!
+
+493
+00:32:02,987 --> 00:32:06,514
+Are you seriously considering allowing
+a pile of fish to derail this program?
+
+494
+00:32:06,824 --> 00:32:08,223
+The British are asking questions.
+
+495
+00:32:08,459 --> 00:32:11,087
+Their experts believe this was
+a motivated incident.
+
+496
+00:32:11,663 --> 00:32:15,121
+We'll be in a politically vulnerable position
+when the program is revealed.
+
+497
+00:32:17,402 --> 00:32:21,236
+And why would we ever feel
+a need to reveal it?
+
+498
+00:32:23,241 --> 00:32:26,142
+Our fingerprints have
+to remain invisible, Major.
+
+499
+00:32:28,346 --> 00:32:30,109
+Let me... let me clarify something.
+
+500
+00:32:30,915 --> 00:32:34,476
+This weapons system leaves
+no fingerprint whatsoever.
+
+501
+00:32:35,586 --> 00:32:38,555
+We're on the verge of transforming
+America's strategic position
+
+502
+00:32:38,856 --> 00:32:43,020
+back to a level where
+we will again be... unstoppable.
+
+503
+00:32:44,162 --> 00:32:45,652
+lf we discontinue this program,
+
+504
+00:32:45,897 --> 00:32:47,057
+do you think the Chinese will?
+
+505
+00:32:47,398 --> 00:32:48,524
+What about the Russians?
+
+506
+00:32:56,407 --> 00:33:00,070
+We need to swallow our fears and
+remember what we're fighting for.
+
+507
+00:33:01,512 --> 00:33:03,343
+This is all well understood, Major.
+
+508
+00:33:03,448 --> 00:33:05,382
+However, we must warn you,
+
+509
+00:33:05,550 --> 00:33:08,314
+the success of this program
+will have many fathers,
+
+510
+00:33:08,586 --> 00:33:11,714
+but its failure will be an orphan.
+Are we clear?
+
+511
+00:33:12,256 --> 00:33:13,280
+Yes.
+
+512
+00:33:14,392 --> 00:33:15,791
+We're clear.
+
+513
+00:33:16,995 --> 00:33:18,360
+Thank you for your confidence.
+
+514
+00:33:21,366 --> 00:33:22,458
+What can l do for you, Doctor?
+
+515
+00:33:22,867 --> 00:33:25,358
+Security's been tracking
+Steve Simpson's research.
+
+516
+00:33:25,703 --> 00:33:26,499
+The weatherman.
+
+517
+00:33:26,904 --> 00:33:28,963
+Yeah.
+He may have had a breakthrough.
+
+518
+00:33:29,273 --> 00:33:31,264
+l have it keyed up down below
+if you'd like to take a look.
+
+519
+00:33:32,076 --> 00:33:33,873
+The weatherman solved
+a billion-dollar problem
+
+520
+00:33:34,145 --> 00:33:35,942
+that an entire research
+facility couldn't?
+
+521
+00:33:36,347 --> 00:33:38,247
+More like discovered a deeper problem.
+
+522
+00:33:39,384 --> 00:33:40,146
+Go on.
+
+523
+00:33:40,351 --> 00:33:41,750
+When we took control of
+the jet stream and accelerated it,
+
+524
+00:33:42,020 --> 00:33:43,851
+we destabilized
+a natural phenomenon.
+
+525
+00:33:44,088 --> 00:33:46,750
+The higher speeds might have led
+to a complex series of...
+
+526
+00:33:47,258 --> 00:33:49,317
+...chain reactions that may be
+impossible to model.
+
+527
+00:33:49,827 --> 00:33:51,021
+Doctor, l know all this.
+
+528
+00:33:51,362 --> 00:33:54,126
+But l feel that it's leading to a complete
+breakdown of many processes
+
+529
+00:33:54,265 --> 00:33:56,358
+- that have contributed to. . .
+- Bottom line it.
+
+530
+00:33:58,903 --> 00:34:03,203
+lmagine the jet stream cycling the world,
+accelerating itself over and over again.
+
+531
+00:34:03,741 --> 00:34:05,538
+At first, it might create
+many jet streams,
+
+532
+00:34:06,344 --> 00:34:08,869
+splintering off unpredictably, randomly,
+from the source.
+
+533
+00:34:09,247 --> 00:34:12,546
+But soon, as it increases in power,
+the rogue streams grow as well,
+
+534
+00:34:13,084 --> 00:34:15,985
+increasing in size, growing
+to be larger than any city,
+
+535
+00:34:16,487 --> 00:34:18,352
+any country, any continent.
+
+536
+00:34:19,190 --> 00:34:21,124
+They engulf the entire planet.
+
+537
+00:34:23,127 --> 00:34:24,492
+So how do we control it?
+
+538
+00:34:26,230 --> 00:34:27,219
+l don't think we can.
+
+539
+00:34:27,432 --> 00:34:29,593
+No. Wrong answer.
+How do we control it?
+
+540
+00:34:30,168 --> 00:34:31,795
+We have passed the tipping
+point here, Major.
+
+541
+00:34:32,236 --> 00:34:33,066
+No.
+
+542
+00:34:34,305 --> 00:34:39,038
+We were the catalyst, we created it,
+that means we can control it.
+
+543
+00:34:39,977 --> 00:34:42,912
+l'm going to ask you one more time,
+how do we control it?
+
+544
+00:34:44,348 --> 00:34:48,307
+l'm telling you that life on this planet is
+about to face a major readjustment. . .
+
+545
+00:34:50,221 --> 00:34:51,848
+Do you think you're the first scientist...
+
+546
+00:34:52,056 --> 00:34:53,546
+to say it's the end of the world?
+
+547
+00:34:56,227 --> 00:34:59,788
+When they dropped the atom bomb,
+they all said, ''Oh it's the end of the world.''
+
+548
+00:35:00,064 --> 00:35:02,328
+When they developed
+the neutron bomb, they said,
+
+549
+00:35:02,500 --> 00:35:05,230
+again, lt's the end of the world.
+Let me give you a hint.
+
+550
+00:35:05,470 --> 00:35:08,200
+The only thing that leads to the end
+of the world is the end of the world.
+
+551
+00:35:08,506 --> 00:35:12,442
+lf we started it we can control it, and
+that's exactly what we're gonna do.
+
+552
+00:35:14,445 --> 00:35:15,309
+l just...
+
+553
+00:35:16,380 --> 00:35:19,315
+l think that... l'm just. . .
+. . .missing some pieces of the puzzle.
+
+554
+00:35:20,485 --> 00:35:21,747
+l need some help.
+
+555
+00:35:25,823 --> 00:35:30,317
+You have all the resources
+of the United States military.
+
+556
+00:35:32,430 --> 00:35:34,330
+l need to bring Simpson in.
+
+557
+00:35:36,033 --> 00:35:37,227
+The weatherman again.
+
+558
+00:35:40,338 --> 00:35:42,829
+How do you think he's gonna feel
+when he sees you?
+
+559
+00:35:45,076 --> 00:35:46,338
+How will he react. . .
+
+560
+00:35:46,978 --> 00:35:48,206
+. . .when he looks around
+
+561
+00:35:48,312 --> 00:35:52,248
+and sees his life's work
+has been weaponized?
+
+562
+00:35:53,351 --> 00:35:55,979
+He only needs to understand
+the more mundane uses of Thor.
+
+563
+00:35:58,556 --> 00:36:02,890
+We created all this
+to bring rain to the desert.
+
+564
+00:36:04,762 --> 00:36:06,593
+- That's my problem.
+- No.
+
+565
+00:36:07,064 --> 00:36:11,398
+Your problems are my problems,
+and l don't want to carry your baggage.
+
+566
+00:36:14,405 --> 00:36:17,966
+Fine.
+We need to bring in Simpson.
+
+567
+00:36:26,384 --> 00:36:27,749
+Bring in the weatherman.
+
+568
+00:36:33,558 --> 00:36:35,355
+Hey, it's sunny in Seattle!
+
+569
+00:36:35,459 --> 00:36:37,689
+So let's take a look
+at how the day's developing
+
+570
+00:36:37,962 --> 00:36:40,396
+with Chopper Phil
+and the morning traffic report.
+
+571
+00:36:42,300 --> 00:36:43,232
+Steve?
+
+572
+00:36:43,634 --> 00:36:46,762
+Uh, yeah, l'm down here, honey.
+l...
+
+573
+00:36:48,039 --> 00:36:49,631
+l fell asleep at my desk.
+
+574
+00:36:50,641 --> 00:36:52,541
+Baby, you should take it easy
+on yourself.
+
+575
+00:36:52,877 --> 00:36:53,935
+What were you doing?
+
+576
+00:36:55,446 --> 00:36:56,640
+You know what?
+
+577
+00:36:57,748 --> 00:37:00,342
+l'm really not quite sure
+what l was doing.
+
+578
+00:37:01,886 --> 00:37:02,910
+But...
+
+579
+00:37:04,322 --> 00:37:06,722
+l think l have a feeling
+l know what l'm doing today.
+
+580
+00:37:08,426 --> 00:37:09,791
+Yeah? What's that?
+
+581
+00:37:12,463 --> 00:37:15,830
+l'm going to go in,
+l'm going to talk to Jack, and, uh,
+
+582
+00:37:16,467 --> 00:37:19,061
+maybe we'll launch this
+Tornado Man thing,
+
+583
+00:37:19,337 --> 00:37:20,998
+You know.
+Maybe he'll give me a show.
+
+584
+00:37:22,807 --> 00:37:25,935
+l'll make it fun with some fun facts,
+you know, um,
+
+585
+00:37:26,344 --> 00:37:27,538
+. . .mix in some of that
+
+586
+00:37:28,646 --> 00:37:31,342
+Weatherman Gone Wild stuff, l guess.
+
+587
+00:37:31,649 --> 00:37:33,241
+That sounds great, baby.
+
+588
+00:37:35,319 --> 00:37:37,344
+You know, it's still pretty early.
+
+589
+00:37:37,421 --> 00:37:39,412
+You want to come upstairs
+for a snuggle?
+
+590
+00:38:13,658 --> 00:38:15,125
+Hey.
+
+591
+00:38:16,193 --> 00:38:17,319
+You want some breakfast?
+
+592
+00:38:17,628 --> 00:38:19,357
+No, l'm good.
+l'm going to grab something at the office.
+
+593
+00:38:19,764 --> 00:38:21,026
+l want to get in and close Jack,
+you know?
+
+594
+00:38:21,399 --> 00:38:22,263
+- That's the spirit.
+- Yeah.
+
+595
+00:38:22,566 --> 00:38:24,227
+See, l told you,
+it's good to let go sometimes.
+
+596
+00:38:24,769 --> 00:38:27,260
+Yeah, you know?
+What's the worst that could happen?
+
+597
+00:38:27,438 --> 00:38:28,405
+The end of the world?
+
+598
+00:38:29,273 --> 00:38:30,501
+Well, it's not.
+
+599
+00:38:38,282 --> 00:38:39,374
+What was l thinking?
+
+600
+00:38:40,818 --> 00:38:42,285
+Hey, you want to grab lunch
+at the Green Tavern?
+
+601
+00:38:42,987 --> 00:38:43,954
+Yeah, sure.
+
+602
+00:38:44,622 --> 00:38:45,987
+All right, sounds good.
+
+603
+00:38:47,391 --> 00:38:48,722
+Don't be late, all right?
+
+604
+00:38:50,227 --> 00:38:51,194
+Good morning, sir.
+
+605
+00:38:51,762 --> 00:38:53,320
+Are you Steven Simpson?
+
+606
+00:38:54,065 --> 00:38:54,963
+Yeah.
+
+607
+00:38:57,268 --> 00:38:58,360
+l'm Agent Bo.
+
+608
+00:38:59,270 --> 00:39:00,999
+l'm going to need you
+to come with us.
+
+609
+00:39:01,706 --> 00:39:03,503
+Hey, uh, sweetie don't forget
+to make a reservation.
+
+610
+00:39:03,841 --> 00:39:05,468
+You know how crazy it gets there.
+
+611
+00:39:06,043 --> 00:39:08,671
+Uh, yeah, sure.
+l got it covered. Don't-don't sweat it.
+
+612
+00:39:09,647 --> 00:39:11,205
+- Right now?
+- Yes, sir.
+
+613
+00:39:12,817 --> 00:39:14,114
+What's this about?
+
+614
+00:39:14,752 --> 00:39:16,276
+lt's a matter of national security.
+
+615
+00:39:20,991 --> 00:39:22,288
+Do you understand?
+
+616
+00:39:24,328 --> 00:39:26,057
+Who are you talking to sweetie?
+
+617
+00:39:28,432 --> 00:39:31,458
+Oh, uh... l'm just talking to myself, baby.
+You know, a little. . .
+
+618
+00:39:31,902 --> 00:39:34,234
+my crazy morning talk.
+That kind of stuff.
+
+619
+00:39:35,706 --> 00:39:37,003
+We need to go, sir.
+
+620
+00:39:38,509 --> 00:39:40,602
+All right, but just give me
+a second, okay?
+
+621
+00:39:45,316 --> 00:39:46,283
+Uh...
+
+622
+00:39:47,385 --> 00:39:49,285
+You know what?
+The funniest thing.
+
+623
+00:39:49,820 --> 00:39:52,345
+l don't think l can make lunch.
+Something just came up.
+
+624
+00:39:53,958 --> 00:39:54,982
+What is it?
+
+625
+00:39:55,526 --> 00:39:59,792
+lt-it's Jack. He, um, he wants to go over
+some ideas for this new show.
+
+626
+00:40:01,298 --> 00:40:04,392
+But how did he know you were even coming in?
+You just told me this morning.
+
+627
+00:40:05,503 --> 00:40:09,439
+Uh, it's... l know,
+it's just a crazy coincidence.
+
+628
+00:40:10,107 --> 00:40:11,631
+Great minds think alike, you know?
+
+629
+00:40:12,510 --> 00:40:15,206
+Right. Okay, well, um, good luck.
+
+630
+00:40:15,513 --> 00:40:17,413
+All right, l gotta go.
+l love you. Bye. Bye.
+
+631
+00:40:39,036 --> 00:40:39,900
+Sorry.
+
+632
+00:40:40,070 --> 00:40:41,560
+No outside communications.
+
+633
+00:40:42,139 --> 00:40:44,471
+Dude, you just rejected
+my girlfriend's call.
+
+634
+00:40:45,042 --> 00:40:46,270
+You know what she's gonna do?
+
+635
+00:40:48,779 --> 00:40:50,269
+You must be a single fellow.
+
+636
+00:40:51,348 --> 00:40:52,337
+Must be.
+
+637
+00:40:53,384 --> 00:40:54,942
+Here, take a look at this.
+
+638
+00:40:56,587 --> 00:40:57,246
+Wow.
+
+639
+00:40:57,922 --> 00:40:59,890
+Top-secret document just for me?
+
+640
+00:41:52,343 --> 00:41:53,275
+Come on, come on!
+
+641
+00:42:04,221 --> 00:42:06,155
+We have breaking news coming in.
+
+642
+00:42:06,390 --> 00:42:09,689
+The Midwestern town of Madison,
+Wisconsin was apparently
+
+643
+00:42:09,960 --> 00:42:10,984
+wiped off the map today
+
+644
+00:42:11,362 --> 00:42:15,389
+after what we're hearing might have
+been the most powerful tornado on record.
+
+645
+00:42:16,000 --> 00:42:17,991
+lt touched down just moments ago.
+
+646
+00:42:18,269 --> 00:42:22,171
+- Collateral damage, Major?
+- Success doesn't come without a price.
+
+647
+00:42:23,073 --> 00:42:25,303
+Now, put on your big-boy pants
+and get back to work.
+
+648
+00:42:35,352 --> 00:42:36,250
+What is this place?
+
+649
+00:42:38,556 --> 00:42:40,080
+This is the operations room.
+
+650
+00:42:40,591 --> 00:42:41,717
+What's it for?
+
+651
+00:42:43,727 --> 00:42:45,592
+Why don't you go talk
+to your buddy over there?
+
+652
+00:42:45,996 --> 00:42:47,463
+l'm sure he'll fill you in.
+
+653
+00:42:50,267 --> 00:42:51,359
+Hello, Steve.
+
+654
+00:42:54,872 --> 00:42:59,104
+Wow.
+Now it all makes sense.
+
+655
+00:43:00,311 --> 00:43:03,246
+Who else would have knowledge
+of my thesis but not understand it
+
+656
+00:43:03,447 --> 00:43:04,914
+. . .besides the guy who stole it?
+
+657
+00:43:05,316 --> 00:43:07,181
+- l didn't steal it from you.
+- Really?
+
+658
+00:43:08,285 --> 00:43:10,947
+You know, we were partners for six years.
+You were my friend.
+
+659
+00:43:11,288 --> 00:43:14,121
+And you turn around, you accuse me of
+stealing government documents?
+
+660
+00:43:14,358 --> 00:43:16,883
+Plagiarism?
+You testify against me!
+
+661
+00:43:18,562 --> 00:43:21,053
+- lt's not that simple, Steve.
+- l guess not.
+
+662
+00:43:21,498 --> 00:43:23,022
+Because you up and vanished.
+
+663
+00:43:25,769 --> 00:43:27,066
+You know, the people back home,
+
+664
+00:43:27,304 --> 00:43:30,034
+they actually thought l had something
+to do with your disappearance.
+
+665
+00:43:30,874 --> 00:43:33,468
+But the whole time, you were here,
+wherever the hell we are,
+
+666
+00:43:33,844 --> 00:43:36,312
+working on some
+secret government program.
+
+667
+00:43:37,348 --> 00:43:39,782
+You wanted to publish,
+to give it all away.
+
+668
+00:43:40,384 --> 00:43:41,783
+Our gift to humanity?
+
+669
+00:43:42,820 --> 00:43:44,117
+Listen, Mr. Open Source,
+
+670
+00:43:44,588 --> 00:43:45,452
+did you really think the government
+
+671
+00:43:45,589 --> 00:43:48,114
+was just going to let you give
+that kind of power away?
+
+672
+00:43:48,525 --> 00:43:50,186
+Daniel, what have you done?
+
+673
+00:43:50,561 --> 00:43:52,358
+Tell me you've not turned this
+into a weapon.
+
+674
+00:43:53,030 --> 00:43:54,190
+Same ideals.
+
+675
+00:43:54,465 --> 00:43:56,057
+Using weather
+for the betterment of Man.
+
+676
+00:43:57,401 --> 00:43:59,369
+lt's just under better control now.
+
+677
+00:44:01,639 --> 00:44:05,040
+- Look, l didn't have a choice!
+- Everyone has a choice!
+
+678
+00:44:05,643 --> 00:44:06,632
+That's true.
+
+679
+00:44:08,245 --> 00:44:10,941
+So now you have to make a choice,
+Mr. Simpson.
+
+680
+00:44:12,750 --> 00:44:14,183
+And who the hell are you?
+
+681
+00:44:15,219 --> 00:44:17,517
+Major Nicholas Shaw,
+United States Air Force.
+
+682
+00:44:19,023 --> 00:44:20,285
+The genie's out of the bottle.
+
+683
+00:44:21,258 --> 00:44:22,384
+So, you two...
+
+684
+00:44:23,360 --> 00:44:24,554
+. . .can work together.
+
+685
+00:44:25,729 --> 00:44:27,196
+Or you can die together.
+
+686
+00:44:28,298 --> 00:44:29,731
+Feilder's choice.
+
+687
+00:45:44,141 --> 00:45:47,133
+A hundred square miles
+just wiped off the map.
+
+688
+00:45:47,444 --> 00:45:48,911
+Why is this happening?
+
+689
+00:45:49,646 --> 00:45:52,638
+Well, when you geniuses
+accelerated the jet stream,
+
+690
+00:45:52,950 --> 00:45:55,646
+because of the magnetic field,
+it created a dynamo.
+
+691
+00:45:56,019 --> 00:45:58,249
+The faster it goes,
+the more energy it creates.
+
+692
+00:45:58,589 --> 00:45:59,988
+But unlike a real dynamo,
+
+693
+00:46:00,224 --> 00:46:02,749
+there's no friction at 40,000 feet
+to slow it down.
+
+694
+00:46:03,193 --> 00:46:06,060
+lnstead, there's this natural push
+from the warming effect of the sun
+
+695
+00:46:06,296 --> 00:46:07,820
+and the Earth's rotation.
+
+696
+00:46:08,198 --> 00:46:09,961
+l... hadn't thought it out.
+
+697
+00:46:10,267 --> 00:46:12,861
+Yeah, well next time you mess
+with the planet, you might want to.
+
+698
+00:46:13,270 --> 00:46:14,999
+Oh, what am l talking about?
+
+699
+00:46:15,472 --> 00:46:16,996
+There ain't gonna be no next time.
+
+700
+00:46:18,142 --> 00:46:20,610
+You having fun, Mr. Simpson?
+
+701
+00:46:21,078 --> 00:46:23,046
+- Well. . .
+- Look at me. Focus.
+
+702
+00:46:23,914 --> 00:46:27,077
+Now, we need to get back on point
+and figure out how to control it.
+
+703
+00:46:27,384 --> 00:46:30,785
+The question is, how do you stop that
+which is unstoppable?
+
+704
+00:46:43,433 --> 00:46:44,229
+That's it.
+
+705
+00:46:44,768 --> 00:46:45,735
+l got it.
+
+706
+00:46:47,070 --> 00:46:51,370
+The only force strong enough to spin
+down the jet stream is the jet stream itself.
+
+707
+00:46:51,642 --> 00:46:53,234
+We splinter off a portion of the stream,
+
+708
+00:46:53,644 --> 00:46:56,078
+turn it around,
+ram it back into the main current.
+
+709
+00:46:56,980 --> 00:46:58,914
+Make a U-turn and slam it back
+into the main stream?
+
+710
+00:46:59,149 --> 00:47:00,844
+- Yeah.
+- That's your big idea?
+
+711
+00:47:01,151 --> 00:47:03,642
+Yeah, genius. Sometimes the simplest
+ones are the best ones.
+
+712
+00:47:04,721 --> 00:47:06,916
+Unfortunately, we don't have
+nearly that kind of control.
+
+713
+00:47:07,324 --> 00:47:09,259
+Well, if you take into account
+the dynamo effect,
+
+714
+00:47:09,259 --> 00:47:11,420
+and build in the algorithms,
+we would.
+
+715
+00:47:14,364 --> 00:47:16,161
+We've had hundreds of scientists,
+
+716
+00:47:16,466 --> 00:47:19,663
+the best minds in the world,
+working on this for years.
+
+717
+00:47:22,239 --> 00:47:23,900
+What makes you think you're right?
+
+718
+00:47:25,876 --> 00:47:26,900
+A hunch?
+
+719
+00:47:29,146 --> 00:47:30,113
+A hunch.
+
+720
+00:47:32,349 --> 00:47:34,249
+A weatherman's intuition.
+
+721
+00:47:37,554 --> 00:47:38,680
+Let's get to work.
+
+722
+00:47:45,662 --> 00:47:46,788
+You ready for this, boys?
+
+723
+00:47:47,431 --> 00:47:49,058
+All right, let's do it.
+
+724
+00:48:05,249 --> 00:48:06,978
+Phew! That is a big plane.
+
+725
+00:48:11,154 --> 00:48:12,917
+Oh, no, no don't! Please.
+
+726
+00:48:14,591 --> 00:48:16,616
+l told you, no outside communications.
+
+727
+00:48:16,960 --> 00:48:18,894
+Come on, man
+let me just call her back. Please?
+
+728
+00:48:19,563 --> 00:48:22,726
+This is going to make her a little bit crazy.
+She goes nuts when l reject her calls.
+
+729
+00:48:23,100 --> 00:48:25,000
+Now with the first rejection
+back in the car,
+
+730
+00:48:25,302 --> 00:48:27,463
+l can explain that.
+l can sell that, make it look like an accident.
+
+731
+00:48:27,704 --> 00:48:30,264
+But a second one?
+That's a serious offence.
+
+732
+00:48:30,874 --> 00:48:31,863
+Mr. Simpson.
+
+733
+00:48:33,243 --> 00:48:35,643
+l don't know what the hell
+you're talking about.
+
+734
+00:48:36,046 --> 00:48:37,673
+And it's really not my problem.
+
+735
+00:48:41,752 --> 00:48:44,243
+- Persistent, isn't she?
+- That's my girl.
+
+736
+00:48:44,588 --> 00:48:46,522
+- No, no, please don't! Don't, don't, don't!
+- Hey!
+
+737
+00:48:47,057 --> 00:48:50,220
+l'm rejecting her call,
+not putting a bullet in her kneecap.
+
+738
+00:48:50,427 --> 00:48:51,223
+Listen to me.
+
+739
+00:48:51,395 --> 00:48:53,590
+She will call the phone company
+and place a trace on this call.
+
+740
+00:48:53,864 --> 00:48:54,796
+You don't need that.
+
+741
+00:48:55,399 --> 00:48:57,663
+What l don't need is a breach
+of security protocol.
+
+742
+00:48:58,368 --> 00:48:59,596
+l understand, l promise you.
+
+743
+00:48:59,903 --> 00:49:02,167
+You can sit right here
+and listen to everything l say.
+
+744
+00:49:02,339 --> 00:49:05,172
+lf l say one thing that's not kosher,
+you can shoot me.
+
+745
+00:49:05,275 --> 00:49:08,438
+Put a bullet in my kneecap
+or whatever you call it in your world.
+
+746
+00:49:08,779 --> 00:49:10,337
+Don't tempt me, Mr. Simpson.
+
+747
+00:49:11,715 --> 00:49:14,115
+Now, whatever you say,
+it can't be the truth. . .
+
+748
+00:49:14,384 --> 00:49:15,510
+- . . .or anywhere near it.
+- Okay, okay.
+
+749
+00:49:15,752 --> 00:49:18,050
+- Got it?
+- l got it. l got it! Thank you.
+
+750
+00:49:18,388 --> 00:49:20,151
+Hey, hey, baby!
+
+751
+00:49:20,791 --> 00:49:22,782
+Steve where are you?
+l called your office.
+
+752
+00:49:23,226 --> 00:49:24,488
+You haven't been in all day.
+What are you doing?
+
+753
+00:49:25,062 --> 00:49:28,589
+- Uh, you know, um... something came up.
+- Steve!
+
+754
+00:49:29,232 --> 00:49:32,531
+Okay, all right, um, honey,
+l'm at a meeting.
+
+755
+00:49:33,136 --> 00:49:35,434
+You're at a meeting? lt's 10:00 p.m. at night.
+Who are you with?
+
+756
+00:49:35,739 --> 00:49:37,639
+Well, um... This, uh...
+
+757
+00:49:38,809 --> 00:49:41,539
+. . .Bolivian coffee magnate.
+Hugo Chavez.
+
+758
+00:49:41,912 --> 00:49:43,311
+He wants to fly me down to Bolivia
+
+759
+00:49:43,447 --> 00:49:46,177
+and study weather patterns that
+are affecting their coffee crop.
+
+760
+00:49:48,185 --> 00:49:49,709
+Are you being serious right now?
+
+761
+00:49:50,387 --> 00:49:53,879
+Do you think l'm stupid?
+Hugo Chavez is the president of Venezuela.
+
+762
+00:49:55,359 --> 00:49:58,226
+- Dummy, dummy!
+- What's that sound?
+
+763
+00:49:58,628 --> 00:49:59,219
+Are you at an airport?
+
+764
+00:49:59,863 --> 00:50:02,229
+Uh. . . yeah.
+l'm going on a trip, to Bolivia.
+
+765
+00:50:02,666 --> 00:50:04,190
+With Hugo Chavez.
+
+766
+00:50:05,002 --> 00:50:06,993
+Okay, Steve, are you with that girl?
+
+767
+00:50:07,404 --> 00:50:10,373
+Babe. . . there is no other girl.
+l'm just caught up in a situation.
+
+768
+00:50:10,674 --> 00:50:14,041
+- Right. Right, Steve, okay. . .
+- Ange, you've got to trust me on this one.
+
+769
+00:50:14,344 --> 00:50:17,211
+l promise you there is no other girl.
+
+770
+00:50:19,616 --> 00:50:23,313
+Okay, but you need to tell me
+where you are exactly.
+
+771
+00:50:24,888 --> 00:50:27,322
+- An airport.
+- What airport, Steve?
+
+772
+00:50:27,724 --> 00:50:31,023
+Uh, l don't know.
+Honestly, l have no idea.
+
+773
+00:50:31,261 --> 00:50:36,198
+- Why? Why are you lying to me?
+- Okay, time's up, 007.
+
+774
+00:50:36,700 --> 00:50:39,134
+Listen, baby l've gotta go.
+l should be home, um, tomorrow.
+
+775
+00:50:39,369 --> 00:50:41,064
+l love you.
+l love you so much. Okay, bye.
+
+776
+00:50:42,339 --> 00:50:43,363
+Steve!
+
+777
+00:50:48,512 --> 00:50:49,479
+What?
+
+778
+00:50:54,317 --> 00:50:57,081
+- Feel better now?
+- Yeah, just great.
+
+779
+00:51:11,601 --> 00:51:13,899
+Looks like Mr. Simpson's prediction
+is holding true.
+
+780
+00:51:15,305 --> 00:51:17,796
+We have a rogue jet stream forming
+just off the west coast.
+
+781
+00:51:18,041 --> 00:51:20,441
+We only have one shot at this.
+Let's make it count, people.
+
+782
+00:51:21,111 --> 00:51:22,601
+Failure is not an option.
+
+783
+00:51:32,489 --> 00:51:34,116
+Now give me com one.
+Check.
+
+784
+00:51:34,391 --> 00:51:35,483
+And hydraulics.
+
+785
+00:51:36,359 --> 00:51:36,882
+Check.
+
+786
+00:51:37,194 --> 00:51:38,320
+All right, com two.
+
+787
+00:51:38,829 --> 00:51:39,488
+Check.
+
+788
+00:51:39,796 --> 00:51:41,320
+All right, give me 20 degrees.
+
+789
+00:51:42,399 --> 00:51:43,263
+Check.
+
+790
+00:51:43,633 --> 00:51:45,191
+Let's get this show on the road.
+
+791
+00:52:36,720 --> 00:52:38,847
+We have a bearing on the center
+of the convergence.
+
+792
+00:52:39,022 --> 00:52:42,480
+Altitude 10,000 feet,
+speed 350 miles per hour.
+
+793
+00:52:45,228 --> 00:52:46,991
+lt's going to be a bumpy ride, boys.
+
+794
+00:52:48,565 --> 00:52:49,554
+Buckle up.
+
+795
+00:52:50,200 --> 00:52:53,192
+We're in for a bumpy ride?
+But we're going to be safe, right?
+
+796
+00:52:53,403 --> 00:52:55,894
+This is a big jet.
+lt can handle the shearing forces, yeah?
+
+797
+00:52:56,306 --> 00:52:58,365
+Sure.
+That's what these planes are built for.
+
+798
+00:53:07,017 --> 00:53:09,713
+Danger! Danger! Danger!
+
+799
+00:53:17,227 --> 00:53:18,216
+No problem.
+
+800
+00:53:19,262 --> 00:53:21,753
+Great. l feel safer already.
+
+801
+00:53:24,301 --> 00:53:24,995
+There it is.
+
+802
+00:53:25,302 --> 00:53:28,294
+Jet stream convergence is just ahead.
+Everyone, batten down the hatches.
+
+803
+00:53:28,605 --> 00:53:30,095
+l'm not sure how this is gonna go.
+
+804
+00:53:31,942 --> 00:53:33,273
+Here we go!
+
+805
+00:53:40,717 --> 00:53:42,275
+Come on.
+Come on, baby, hold on.
+
+806
+00:53:42,919 --> 00:53:44,284
+Give me 10 degree flap.
+
+807
+00:53:44,588 --> 00:53:45,350
+10 degrees.
+
+808
+00:53:48,258 --> 00:53:50,192
+l got power spiking
+in generators three and four.
+
+809
+00:53:50,994 --> 00:53:54,054
+- You want me to take them offline?
+- Negative, we're going to have to ride it out.
+
+810
+00:53:59,402 --> 00:54:00,994
+What the hell is going on back there?
+
+811
+00:54:01,638 --> 00:54:03,663
+l don't know, man.
+l think he was electrocuted!
+
+812
+00:54:04,040 --> 00:54:06,065
+Jesus!
+Check his pulse.
+
+813
+00:54:06,343 --> 00:54:08,834
+No pulse! Beginning CPR!
+
+814
+00:54:10,981 --> 00:54:12,209
+You're doing it all wrong.
+
+815
+00:54:12,749 --> 00:54:15,183
+l got this, man.
+l saw this on Baywatch!
+
+816
+00:54:15,552 --> 00:54:16,484
+Move!
+
+817
+00:54:19,522 --> 00:54:20,181
+Come on.
+
+818
+00:54:20,924 --> 00:54:22,323
+Come on! Stay with me.
+
+819
+00:54:28,265 --> 00:54:30,733
+We've got to turn around.
+This man needs help.
+
+820
+00:54:35,672 --> 00:54:37,037
+Not anymore.
+
+821
+00:54:41,244 --> 00:54:42,268
+Aw, come on!
+
+822
+00:54:43,280 --> 00:54:47,273
+Military operations don't just end
+because people die, Mr. Simpson.
+
+823
+00:54:48,351 --> 00:54:50,876
+Now get to your workstations
+while l secure the body.
+
+824
+00:54:53,390 --> 00:54:54,288
+Now.
+
+825
+00:54:55,392 --> 00:54:56,290
+Go.
+
+826
+00:54:57,260 --> 00:54:58,318
+Military mission...
+
+827
+00:55:02,766 --> 00:55:05,997
+This is purely a weapon. This has nothing
+to do with making it rain in the desert.
+
+828
+00:55:06,236 --> 00:55:08,864
+- That's what l've been trying to tell you.
+- You turned my work into a loaded gun!
+
+829
+00:55:09,306 --> 00:55:10,238
+They were going to steal it anyway.
+
+830
+00:55:10,340 --> 00:55:12,808
+l tried to guide it and keep humanitarian
+but l was wrong.
+
+831
+00:55:13,209 --> 00:55:15,404
+- Oh. . . Jesus.
+- You were right the whole time.
+
+832
+00:55:16,846 --> 00:55:18,074
+Absolute power.
+
+833
+00:55:18,848 --> 00:55:20,338
+Corrupts absolutely.
+
+834
+00:55:27,857 --> 00:55:28,983
+This is it, gentlemen.
+
+835
+00:55:29,259 --> 00:55:31,591
+Ground zero for the jet stream
+is Seattle, Washington,
+
+836
+00:55:31,828 --> 00:55:34,388
+then moving southbound all
+the way down the Pacific coast.
+
+837
+00:55:35,298 --> 00:55:36,390
+lt's now or never.
+
+838
+00:55:36,800 --> 00:55:37,596
+Copy.
+
+839
+00:55:39,436 --> 00:55:40,630
+Game time.
+
+840
+00:55:41,471 --> 00:55:44,372
+Target area is 20,000 meters
+at your 10:00.
+
+841
+00:55:45,342 --> 00:55:47,276
+Roger. Closing on target.
+
+842
+00:55:52,048 --> 00:55:53,310
+Closing on target.
+
+843
+00:55:53,983 --> 00:55:56,713
+Commencing dispersal... now.
+
+844
+00:56:05,261 --> 00:56:06,523
+Releasing now.
+
+845
+00:56:14,037 --> 00:56:17,632
+They're gone.
+First databurst coming in three... two...
+
+846
+00:56:18,141 --> 00:56:19,108
+. . .one.
+
+847
+00:56:21,711 --> 00:56:23,201
+Plugging data into Little Blue.
+
+848
+00:56:30,220 --> 00:56:31,244
+Whoa!
+
+849
+00:56:37,227 --> 00:56:38,694
+68% , Major.
+
+850
+00:56:39,129 --> 00:56:41,154
+That's already higher
+than we've ever achieved.
+
+851
+00:56:45,168 --> 00:56:47,193
+This weatherman
+is proving to be an asset.
+
+852
+00:57:02,085 --> 00:57:03,177
+lt's beautiful.
+
+853
+00:57:17,467 --> 00:57:19,594
+The level of detail is amazing.
+
+854
+00:57:20,937 --> 00:57:22,962
+Alluring, isn't it?
+
+855
+00:57:27,310 --> 00:57:29,301
+75% still rising.
+
+856
+00:57:32,081 --> 00:57:33,742
+We've reached 80% accuracy.
+
+857
+00:57:34,417 --> 00:57:36,544
+We may pull this thing out yet,
+gentlemen.
+
+858
+00:57:37,153 --> 00:57:38,085
+Good work.
+
+859
+00:57:38,321 --> 00:57:41,313
+They're going to be naming
+high schools after you, football stadiums.
+
+860
+00:57:42,058 --> 00:57:43,958
+120 seconds left of probes.
+
+861
+00:57:44,360 --> 00:57:47,227
+Copy. Switching to max projective.
+We'll begin bursting.
+
+862
+00:57:48,698 --> 00:57:50,359
+But we're only at 81 % .
+
+863
+00:57:51,701 --> 00:57:53,794
+81 % is the highest
+we've ever achieved.
+
+864
+00:57:54,037 --> 00:57:56,062
+We normally work
+at a much lower percentage.
+
+865
+00:57:56,339 --> 00:57:58,239
+60% is considered a success.
+
+866
+00:57:59,042 --> 00:58:02,341
+Oh, yeah, l forgot. Collateral damage
+never was an issue for you guys.
+
+867
+00:58:04,581 --> 00:58:05,639
+Guess not.
+
+868
+00:58:11,754 --> 00:58:13,346
+We have extreme acceleration.
+
+869
+00:58:16,459 --> 00:58:18,290
+They are leading the stream, sir.
+
+870
+00:58:20,797 --> 00:58:21,661
+Okay.
+
+871
+00:58:24,267 --> 00:58:25,359
+Let's save the world.
+
+872
+00:58:28,671 --> 00:58:30,639
+Beginning repositioning maneuver.
+
+873
+00:58:40,717 --> 00:58:42,275
+We have control of the stream.
+
+874
+00:58:42,485 --> 00:58:43,884
+Still go on reposition.
+
+875
+00:58:44,153 --> 00:58:48,283
+Dan, l think we may have a problem.
+
+876
+00:58:50,593 --> 00:58:54,552
+lt's all good. We're still within mission
+parameters. Maintain course change.
+
+877
+00:58:54,864 --> 00:58:56,354
+Everything's good on our side.
+
+878
+00:59:01,604 --> 00:59:04,630
+Losing predictive accuracy!
+Down to 73% .
+
+879
+00:59:04,908 --> 00:59:08,207
+No, 64% . We're losing control
+of the jet stream!
+
+880
+00:59:10,547 --> 00:59:13,983
+- l have total system failure!
+- Failure is not an option.
+
+881
+00:59:14,751 --> 00:59:16,582
+Hang in there.
+We have to get control of the stream.
+
+882
+00:59:16,986 --> 00:59:18,044
+l need a solution.
+
+883
+00:59:18,354 --> 00:59:19,548
+Yeah, but l don't have one.
+
+884
+00:59:28,097 --> 00:59:29,394
+The system's locked up!
+
+885
+00:59:29,632 --> 00:59:31,190
+The splinter's going
+to lose coherence any second.
+
+886
+00:59:31,467 --> 00:59:32,934
+l'm taking Little Blue offline.
+
+887
+00:59:35,538 --> 00:59:36,239
+Why?
+
+888
+00:59:36,239 --> 00:59:37,968
+You're going to have to control
+the plasma discharges Steve.
+
+889
+00:59:38,341 --> 00:59:40,241
+- Do it manually.
+- Manually?
+
+890
+00:59:40,376 --> 00:59:42,867
+Blue is making trillions
+of operations per second.
+
+891
+00:59:43,313 --> 00:59:46,771
+Little Blue's a computer. You're intuitive.
+lt'll fire wherever you point.
+
+892
+00:59:47,383 --> 00:59:49,112
+l have no idea where to point it!
+
+893
+00:59:49,519 --> 00:59:51,350
+Do it, Steve! Use your gut!
+
+894
+00:59:52,689 --> 00:59:55,214
+- l'm a weatherman!
+- Just do it, damnit!
+
+895
+01:00:21,117 --> 01:00:24,314
+- This is ridiculous. lt's not working.
+- Keep trying!
+
+896
+01:00:28,257 --> 01:00:30,282
+Coherence failure seconds away.
+
+897
+01:01:05,161 --> 01:01:07,129
+Dude, this isn't working.
+
+898
+01:01:07,263 --> 01:01:09,128
+l'm just not the guy, man.
+
+899
+01:01:09,432 --> 01:01:12,301
+Listen to me. You know we have
+a massive storm convergence growing.
+
+900
+01:01:12,301 --> 01:01:13,563
+- l know.
+- lf we don't stop it now,
+
+901
+01:01:13,803 --> 01:01:15,896
+every city on the west coast is going
+to be wiped out.
+
+902
+01:01:16,239 --> 01:01:19,208
+Seattle's at ground zero,
+so come on.
+
+903
+01:01:19,409 --> 01:01:20,433
+- l know. . .
+- Use your gut.
+
+904
+01:01:20,843 --> 01:01:23,744
+l know what's happening!
+lt's just impossible!
+
+905
+01:01:29,886 --> 01:01:31,080
+No way.
+
+906
+01:01:33,356 --> 01:01:36,416
+Hey!
+You are not going to answer that!
+
+907
+01:01:37,727 --> 01:01:39,217
+- lt's Angel.
+- No kidding!
+
+908
+01:01:39,462 --> 01:01:41,191
+What kind of service do you have?
+
+909
+01:01:41,497 --> 01:01:42,395
+Hey, baby.
+
+910
+01:01:44,100 --> 01:01:45,362
+Why is it so loud?
+
+911
+01:01:48,104 --> 01:01:50,664
+Steve, will you please
+just tell me where you are?
+
+912
+01:01:52,608 --> 01:01:53,836
+l wish l could.
+
+913
+01:01:55,745 --> 01:01:58,509
+l don't understand
+why you're lying to me.
+
+914
+01:01:59,382 --> 01:02:02,647
+lt's not as if you're on some secret
+U.S. mission or something.
+
+915
+01:02:04,787 --> 01:02:08,188
+Ange, um,
+everything is going to be fine.
+
+916
+01:02:08,624 --> 01:02:10,182
+No, it's not, Steve.
+
+917
+01:02:10,993 --> 01:02:13,985
+You can't just hurt me like this
+and lie to me, and,
+
+918
+01:02:14,263 --> 01:02:16,527
+worst of all,
+not even tell me where you are.
+
+919
+01:02:16,799 --> 01:02:20,132
+- Ange, listen to me. Listen to me. . .
+- When you decide that you really love me,
+
+920
+01:02:20,269 --> 01:02:21,361
+you can give me a call.
+
+921
+01:02:23,272 --> 01:02:25,240
+No, no, no, Ange! Ange!
+
+922
+01:02:25,842 --> 01:02:27,810
+Damnit! Damnit!
+
+923
+01:02:57,740 --> 01:03:00,675
+- Angel's moving out.
+- Yeah, like that's a big surprise.
+
+924
+01:03:01,477 --> 01:03:03,240
+Steve, do that again.
+
+925
+01:03:04,180 --> 01:03:05,306
+Do what again?
+
+926
+01:03:09,018 --> 01:03:10,508
+Steve, Angel's leaving you, right?
+
+927
+01:03:10,720 --> 01:03:12,278
+- Yeah.
+- How does that make you feel?
+
+928
+01:03:12,955 --> 01:03:14,217
+lt makes me feel mad.
+
+929
+01:03:14,590 --> 01:03:17,150
+- lt makes you feel angry, right?
+- Yeah, really angry.
+
+930
+01:03:17,226 --> 01:03:18,750
+What about me?
+What about what l did to you?
+
+931
+01:03:19,028 --> 01:03:20,552
+l stole your life.
+Does that make you angry?
+
+932
+01:03:20,830 --> 01:03:23,594
+Yeah, it makes me really angry.
+You piss me off. You sold me out!
+
+933
+01:03:24,000 --> 01:03:26,230
+- What else? Tell me what else.
+- Agent Bo back over there,
+
+934
+01:03:26,636 --> 01:03:29,434
+he pisses me off! He's an idiot
+with a smirk on his face!
+
+935
+01:03:29,705 --> 01:03:31,832
+- What. . . What else makes you angry?
+- This mission pisses me off!
+
+936
+01:03:32,208 --> 01:03:35,244
+And that weather station
+KPQR, and Jack. . .
+
+937
+01:03:35,244 --> 01:03:37,303
+. . .the guy who wants me to be the
+Weatherman Gone Wild.
+
+938
+01:03:37,647 --> 01:03:39,342
+He makes me go crazy!
+
+939
+01:03:39,515 --> 01:03:41,176
+What about the jet stream?
+Does that make you angry?
+
+940
+01:03:41,617 --> 01:03:44,848
+The jet stream makes me crazy!
+l wanna go insane!
+
+941
+01:03:45,021 --> 01:03:46,955
+- l hate the jet stream!
+- All right. . . you hate the jet stream!
+
+942
+01:03:47,256 --> 01:03:49,190
+- l hate the freaking jet stream!
+- All right, let's do this!
+
+943
+01:03:49,358 --> 01:03:51,087
+l hate it! l hate the jet stream!
+
+944
+01:03:51,360 --> 01:03:55,729
+l hate the jet stream! l hate it!
+l hate the jet stream!
+
+945
+01:04:05,241 --> 01:04:07,004
+Coherence is strengthening.
+
+946
+01:04:08,144 --> 01:04:09,076
+Nice.
+
+947
+01:04:10,146 --> 01:04:13,513
+You're doing it! You're doing it!
+The jet stream's refocusing!
+
+948
+01:04:15,117 --> 01:04:19,713
+l'm doing it! l'm doing it!
+l can do this! l can do this!
+
+949
+01:04:20,089 --> 01:04:22,319
+Let's bring this sucker around, baby!
+
+950
+01:04:22,592 --> 01:04:24,753
+You heard him!
+Let's complete the maneuver!
+
+951
+01:04:25,127 --> 01:04:28,995
+- Copy! Resuming maneuver.
+- Bring it around! Bring this sucker around!
+
+952
+01:04:29,599 --> 01:04:30,793
+Yeah!
+
+953
+01:04:32,501 --> 01:04:34,196
+Full coherence restored.
+
+954
+01:04:34,837 --> 01:04:35,963
+Excellent, gentlemen.
+
+955
+01:04:36,305 --> 01:04:38,296
+lt's working.
+We're within mission parameters.
+
+956
+01:04:38,674 --> 01:04:41,472
+We're a go for phase three.
+Let's collide the streams.
+
+957
+01:04:47,149 --> 01:04:49,049
+Brace yourselves! Here we go!
+
+958
+01:04:50,386 --> 01:04:51,785
+Here we go!
+
+959
+01:05:18,981 --> 01:05:20,312
+What's our status?
+
+960
+01:05:20,516 --> 01:05:21,983
+Jet stream is normalizing.
+
+961
+01:05:22,351 --> 01:05:23,443
+Confirm that, please.
+
+962
+01:05:24,520 --> 01:05:26,715
+Confirmed, sir.
+Jet stream is normalized.
+
+963
+01:05:28,658 --> 01:05:29,750
+Nice work.
+
+964
+01:05:30,359 --> 01:05:32,759
+Nice work, everybody.
+l'll be in my office.
+
+965
+01:05:34,497 --> 01:05:35,759
+Yes, sir.
+
+966
+01:05:42,038 --> 01:05:44,666
+Good job. We did it. We did it!
+
+967
+01:05:45,241 --> 01:05:46,105
+No, you did it.
+
+968
+01:05:46,342 --> 01:05:48,071
+Unbelievable.
+
+969
+01:05:57,086 --> 01:05:59,111
+- Unbelievable.
+- What?
+
+970
+01:06:01,023 --> 01:06:02,081
+What?
+
+971
+01:06:03,326 --> 01:06:05,556
+The accuracy indicator says 99% .
+
+972
+01:06:10,466 --> 01:06:12,195
+99% accuracy?
+
+973
+01:06:12,468 --> 01:06:13,799
+How's that even possible?
+
+974
+01:06:14,203 --> 01:06:15,830
+Little Blue learned
+from what you were doing.
+
+975
+01:06:16,539 --> 01:06:18,439
+lt's solved the dynamic air flow model.
+
+976
+01:06:18,808 --> 01:06:19,797
+Completely.
+
+977
+01:06:39,762 --> 01:06:43,994
+l'm happy to report Thor's Hammer
+is a fully operational weapon system.
+
+978
+01:06:50,406 --> 01:06:51,839
+Excellent work, Major.
+
+979
+01:06:55,978 --> 01:06:56,637
+What do you think's going
+to happen now?
+
+980
+01:06:57,480 --> 01:06:58,504
+What do you mean?
+We're heading back to base.
+
+981
+01:06:58,914 --> 01:07:01,974
+Yeah, we're heading back to base
+with a fully operational weapons system.
+
+982
+01:07:02,318 --> 01:07:03,876
+What do you think's
+going to happen to us?
+
+983
+01:07:04,487 --> 01:07:06,853
+A guy just died, and Captain America
+over there played it off
+
+984
+01:07:06,956 --> 01:07:08,321
+like it was a bump in the road.
+
+985
+01:07:08,624 --> 01:07:10,922
+Do you think they're
+going to let us go back to our regular lives?
+
+986
+01:07:12,361 --> 01:07:14,022
+l don't have a regular life.
+
+987
+01:07:20,636 --> 01:07:23,696
+Major, we have
+a security issue up here.
+
+988
+01:07:24,507 --> 01:07:26,099
+Requesting a green light.
+
+989
+01:07:32,448 --> 01:07:33,437
+You got it.
+
+990
+01:07:34,350 --> 01:07:37,877
+l need you to safeguard Little Blue
+and secure the transmission of all its data.
+
+991
+01:07:38,354 --> 01:07:39,548
+Am l making myself clear?
+
+992
+01:07:40,156 --> 01:07:41,180
+Yes, sir.
+
+993
+01:07:54,336 --> 01:07:57,203
+Sergeant, open up
+a high-speed secure channel.
+
+994
+01:07:57,740 --> 01:07:59,401
+We're going to download their data.
+
+995
+01:07:59,942 --> 01:08:00,840
+Yes, sir.
+
+996
+01:08:06,282 --> 01:08:06,839
+Listen to me.
+
+997
+01:08:07,283 --> 01:08:08,978
+We'll never know when
+or where they're going to use it,
+
+998
+01:08:09,318 --> 01:08:11,252
+'cause we'll never leave that base alive.
+
+999
+01:08:12,421 --> 01:08:14,355
+l say we wipe the drives on that thing.
+
+1000
+01:08:16,358 --> 01:08:17,290
+Gentlemen. . .
+
+1001
+01:08:18,227 --> 01:08:19,990
+we have orders
+to open a secure channel
+
+1002
+01:08:20,262 --> 01:08:22,992
+and then upload all data from
+Little Blue back to base.
+
+1003
+01:08:24,433 --> 01:08:25,365
+Why?
+
+1004
+01:08:30,439 --> 01:08:32,907
+l'm going to need you to step away
+from this terminal.
+
+1005
+01:08:33,509 --> 01:08:35,409
+Yeah, well, that ain't going to happen.
+
+1006
+01:08:38,547 --> 01:08:41,175
+Dr. Berg, begin the upload.
+
+1007
+01:08:42,551 --> 01:08:43,347
+Daniel...
+
+1008
+01:08:44,286 --> 01:08:45,651
+Daniel don't do it.
+
+1009
+01:08:47,289 --> 01:08:50,224
+Once they get the data,
+they're going to kill both of us.
+
+1010
+01:08:53,395 --> 01:08:55,363
+Hey, Simpson, what's your problem?
+
+1011
+01:08:56,265 --> 01:08:58,028
+You helped save the world.
+Your country appreciates that.
+
+1012
+01:08:58,234 --> 01:09:00,361
+Where's all this hostility coming from?
+
+1013
+01:09:01,270 --> 01:09:02,669
+You heard the Major.
+
+1014
+01:09:03,639 --> 01:09:04,606
+You guys stole my work once.
+
+1015
+01:09:04,874 --> 01:09:06,432
+There's no way in hell
+you're doing it again.
+
+1016
+01:09:07,143 --> 01:09:10,340
+All right, whoa, whoa, whoa.
+All right, all right, all right. Chill, chill.
+
+1017
+01:09:11,380 --> 01:09:12,745
+Dr. Berg,
+
+1018
+01:09:13,349 --> 01:09:16,147
+begin the upload... now.
+
+1019
+01:09:26,228 --> 01:09:27,286
+lt's Angel!
+
+1020
+01:09:34,036 --> 01:09:35,196
+No!
+
+1021
+01:09:36,238 --> 01:09:37,262
+No!
+
+1022
+01:09:43,579 --> 01:09:44,546
+That's gunfire.
+
+1023
+01:09:44,847 --> 01:09:46,280
+Get back there and see
+what's going on.
+
+1024
+01:09:50,319 --> 01:09:52,685
+The next one's going
+to be right through your heart.
+
+1025
+01:09:52,955 --> 01:09:54,513
+Do you understand Simpson?
+
+1026
+01:10:02,298 --> 01:10:06,826
+Now, for the last time, Dr. Berg,
+start the upload.
+
+1027
+01:10:23,385 --> 01:10:24,750
+That's better.
+
+1028
+01:10:29,959 --> 01:10:31,426
+Hey, Jim, what's going on here?
+
+1029
+01:10:32,394 --> 01:10:33,622
+l heard weapon fire.
+
+1030
+01:10:35,297 --> 01:10:36,628
+lt's okay, Lieutenant.
+
+1031
+01:10:37,466 --> 01:10:39,229
+l've got everything under control.
+
+1032
+01:11:04,860 --> 01:11:06,293
+Cut it off.
+
+1033
+01:11:08,764 --> 01:11:11,198
+l said, cut it off!
+
+1034
+01:11:13,435 --> 01:11:14,834
+Put the gun down.
+
+1035
+01:11:15,271 --> 01:11:16,431
+Shut it down.
+
+1036
+01:11:16,939 --> 01:11:20,602
+l swear, l'll shoot. Shut it down!
+
+1037
+01:11:21,243 --> 01:11:22,608
+l'll shoot you!
+
+1038
+01:11:27,683 --> 01:11:29,310
+Are you really that good?
+
+1039
+01:11:31,954 --> 01:11:34,286
+Are you sure
+you won't hit your buddy over here?
+
+1040
+01:11:35,391 --> 01:11:37,222
+- Behind you!
+- Put your gun down.
+
+1041
+01:11:39,962 --> 01:11:41,190
+Don't move!
+
+1042
+01:11:42,665 --> 01:11:43,632
+Get back! Get back!
+
+1043
+01:11:44,833 --> 01:11:46,198
+Don't you move.
+
+1044
+01:11:47,002 --> 01:11:47,832
+Okay.
+
+1045
+01:11:50,339 --> 01:11:52,034
+Look, you've had your fun.
+
+1046
+01:11:52,341 --> 01:11:54,468
+Why don't you put the gun away
+before you hurt yourself?
+
+1047
+01:11:57,313 --> 01:11:58,541
+Get back! Get back!
+
+1048
+01:12:20,102 --> 01:12:22,570
+You've got to be the worst shot
+l've ever seen.
+
+1049
+01:12:24,406 --> 01:12:25,430
+Really?
+
+1050
+01:12:33,315 --> 01:12:34,282
+Oh, crap.
+
+1051
+01:12:43,258 --> 01:12:44,350
+Help me!
+
+1052
+01:12:50,299 --> 01:12:51,527
+Grab my hand!
+
+1053
+01:12:55,237 --> 01:12:56,295
+Help!
+
+1054
+01:12:56,405 --> 01:12:57,838
+- Hold on!
+- Come on!
+
+1055
+01:12:58,907 --> 01:12:59,805
+Come on!
+
+1056
+01:13:02,778 --> 01:13:04,939
+No!
+
+1057
+01:13:05,314 --> 01:13:06,281
+No!
+
+1058
+01:13:07,182 --> 01:13:09,047
+The mission's been compromised!
+
+1059
+01:13:09,885 --> 01:13:11,648
+Possible structural damage.
+
+1060
+01:13:11,820 --> 01:13:15,278
+- l need clearance to land immediately!
+- What is the ETA of that plane?
+
+1061
+01:13:15,791 --> 01:13:18,385
+At their current rate and altitude,
+about 15 minutes.
+
+1062
+01:13:19,728 --> 01:13:23,562
+- And the status on that data download?
+- Should complete in nine minutes,
+
+1063
+01:13:23,899 --> 01:13:26,629
+- as long as there are no interruptions.
+- Patch me through to the captain.
+
+1064
+01:13:27,836 --> 01:13:28,700
+Done.
+
+1065
+01:13:32,074 --> 01:13:33,871
+Captain, what is the status
+of your plane?
+
+1066
+01:13:34,309 --> 01:13:35,867
+Co-pilot is not responding.
+
+1067
+01:13:36,178 --> 01:13:39,238
+ln emergency descent.
+Again, requesting clearance to land!
+
+1068
+01:13:40,315 --> 01:13:42,579
+Captain l need you to listen to me
+very carefully.
+
+1069
+01:13:43,218 --> 01:13:45,118
+l need you to put the plane
+on auto-pilot right now.
+
+1070
+01:13:45,387 --> 01:13:48,015
+l need you to go back to the control room
+and secure the data download.
+
+1071
+01:13:48,257 --> 01:13:49,349
+- Do you understand me?
+- Major,
+
+1072
+01:13:49,525 --> 01:13:53,325
+l do not recommend that l leave the
+cockpit until l land this plane.
+
+1073
+01:13:53,662 --> 01:13:56,222
+That is a direct order, Captain.
+
+1074
+01:13:58,467 --> 01:13:59,456
+Captain!
+
+1075
+01:14:00,469 --> 01:14:01,299
+Damnit.
+
+1076
+01:14:27,963 --> 01:14:28,861
+Better?
+
+1077
+01:14:29,565 --> 01:14:30,827
+Yeah, thanks!
+
+1078
+01:14:31,266 --> 01:14:33,200
+You are crazy, man.
+
+1079
+01:14:34,603 --> 01:14:36,798
+What the hell is going on back here?
+
+1080
+01:14:52,287 --> 01:14:54,050
+Danny you've been shot!
+
+1081
+01:14:56,391 --> 01:14:58,120
+Stop the upload!
+
+1082
+01:14:59,394 --> 01:15:02,192
+Danny, hang on there.
+l'll be right back!
+
+1083
+01:15:38,166 --> 01:15:39,929
+The upload was completed!
+
+1084
+01:15:40,903 --> 01:15:43,497
+We're below 10,000 feet!
+You don't need a mask!
+
+1085
+01:15:43,939 --> 01:15:45,463
+Get me to the cockpit!
+
+1086
+01:15:46,008 --> 01:15:49,705
+- Do you know how to fly this plane?
+- l learned a lot from these bastards!
+
+1087
+01:15:50,078 --> 01:15:53,275
+- What do you have in mind?
+- Just get me to the cockpit!
+
+1088
+01:15:53,715 --> 01:15:55,239
+All right, brother, let's do this!
+
+1089
+01:16:09,364 --> 01:16:10,456
+You got it? You got it?
+
+1090
+01:16:11,366 --> 01:16:13,994
+Listen to me,
+you need to get off this plane.
+
+1091
+01:16:14,403 --> 01:16:15,597
+Get off the plane?
+
+1092
+01:16:16,004 --> 01:16:17,198
+How am l going to do that?
+
+1093
+01:16:17,339 --> 01:16:18,306
+Parachute.
+
+1094
+01:16:18,907 --> 01:16:20,238
+Are you out of your mind?
+
+1095
+01:16:20,475 --> 01:16:21,840
+Steve, you want to live?
+
+1096
+01:16:22,277 --> 01:16:25,735
+You need to get to the back of the plane,
+put on a chute and get out of here.
+
+1097
+01:16:26,682 --> 01:16:28,912
+Danny, l am not going
+to leave you here.
+
+1098
+01:16:31,320 --> 01:16:34,346
+- Wait, what are you doing?
+- Turning the systems back online.
+
+1099
+01:16:34,856 --> 01:16:37,347
+We just saved the world!
+Why would you turn it back on?
+
+1100
+01:16:38,126 --> 01:16:40,026
+One more swing of Thor's Hammer.
+
+1101
+01:16:49,905 --> 01:16:51,372
+- you need to think this through.
+- Steve. . .
+
+1102
+01:16:51,940 --> 01:16:53,407
+Steve. . . for once in your life,
+
+1103
+01:16:54,276 --> 01:16:55,265
+you need to listen to me.
+
+1104
+01:16:56,078 --> 01:16:58,273
+l'm taking this stream straight back
+into the base.
+
+1105
+01:16:59,147 --> 01:17:01,741
+This whole program
+ends here and now.
+
+1106
+01:17:02,951 --> 01:17:05,146
+Strap on that parachute
+and get the hell out of here.
+
+1107
+01:17:05,287 --> 01:17:07,278
+l am not going to leave you here to die.
+
+1108
+01:17:07,789 --> 01:17:08,915
+Look at me.
+
+1109
+01:17:10,125 --> 01:17:11,490
+l got a bullet in my gut.
+
+1110
+01:17:13,128 --> 01:17:15,722
+l got maybe 10 minutes to live
+before l bleed to death.
+
+1111
+01:17:16,398 --> 01:17:18,127
+We knew that this might be
+a one-way trip.
+
+1112
+01:17:19,067 --> 01:17:20,364
+l don't want to go out of here
+
+1113
+01:17:20,836 --> 01:17:22,497
+knowing that Shaw might win this.
+
+1114
+01:17:23,338 --> 01:17:25,397
+No, man, no. We take out the base,
+
+1115
+01:17:25,707 --> 01:17:27,800
+- we land this beast, l get you to a hospital. . .
+- Steve!
+
+1116
+01:17:28,076 --> 01:17:30,840
+- Everything will be fine!
+- Steve! Steve that's not happening.
+
+1117
+01:17:31,980 --> 01:17:33,311
+The only way
+you're getting out of here
+
+1118
+01:17:33,749 --> 01:17:34,647
+is a parachute.
+
+1119
+01:17:35,951 --> 01:17:38,852
+Look... Look,
+l took your life from you.
+
+1120
+01:17:40,288 --> 01:17:41,380
+Let me give it back.
+
+1121
+01:17:43,025 --> 01:17:44,356
+Now get out of here!
+
+1122
+01:17:48,697 --> 01:17:50,028
+l miss you, brother.
+
+1123
+01:17:53,602 --> 01:17:55,229
+Next time you get a great idea...
+
+1124
+01:17:56,405 --> 01:17:57,633
+. . .keep it to yourself.
+
+1125
+01:17:58,407 --> 01:17:59,374
+Now go!
+
+1126
+01:18:12,220 --> 01:18:14,814
+Sir, l have a track on the plane.
+They're returning to base.
+
+1127
+01:18:16,992 --> 01:18:18,357
+ls the download complete?
+
+1128
+01:18:19,394 --> 01:18:22,192
+- Yes, sir. We have it all.
+- Any word from the pilot?
+
+1129
+01:18:23,031 --> 01:18:25,192
+Negative.
+Pilot has shut down all communications.
+
+1130
+01:18:29,271 --> 01:18:31,068
+Activate anti-aircraft batteries.
+
+1131
+01:18:33,809 --> 01:18:35,106
+Target the plane, Perez.
+
+1132
+01:18:35,343 --> 01:18:37,504
+- Sir, it's our plane.
+- lt's a rogue plane.
+
+1133
+01:18:37,913 --> 01:18:39,676
+That's a direct order.
+Target it now.
+
+1134
+01:18:40,382 --> 01:18:41,440
+Put up the satellite.
+
+1135
+01:18:41,983 --> 01:18:42,915
+Satellite's up.
+
+1136
+01:18:48,623 --> 01:18:50,955
+They're pulling the jet stream
+right at us.
+
+1137
+01:18:52,227 --> 01:18:54,354
+N-9-9-0-7, C-1 7,
+
+1138
+01:18:54,629 --> 01:18:56,722
+you're diverted to Alexander Airbase.
+
+1139
+01:18:57,299 --> 01:18:58,527
+Please acknowledge.
+
+1140
+01:19:01,269 --> 01:19:02,998
+Coming right back at you.
+
+1141
+01:19:17,119 --> 01:19:18,245
+Open the blast shield.
+
+1142
+01:19:18,320 --> 01:19:20,288
+l want to see what the hell's going
+on out there.
+
+1143
+01:19:32,901 --> 01:19:34,459
+- lt's coming right at us.
+- Wind speed?
+
+1144
+01:19:34,903 --> 01:19:36,165
+800 miles an hour.
+
+1145
+01:19:40,542 --> 01:19:41,736
+Weapons live.
+
+1146
+01:19:47,682 --> 01:19:48,546
+Fire.
+
+1147
+01:19:57,325 --> 01:19:58,553
+See you in hell.
+
+1148
+01:20:09,638 --> 01:20:11,663
+Direct hit, sir. The plane is down.
+
+1149
+01:20:14,910 --> 01:20:17,504
+l want this base put on
+lock-down right away. Get to it.
+
+1150
+01:20:18,246 --> 01:20:22,273
+Sergeant, l want that downloaded
+secured, and encrypted ASAP.
+
+1151
+01:20:22,551 --> 01:20:24,348
+- Yes, sir.
+- Sir?
+
+1152
+01:20:24,753 --> 01:20:26,152
+lt's still coming, sir.
+
+1153
+01:20:35,564 --> 01:20:37,532
+This has turned into a real bad day.
+
+1154
+01:20:50,312 --> 01:20:51,870
+lt's beautiful.
+
+1155
+01:21:02,591 --> 01:21:05,617
+Shut it down. Shut it all down.
+
+1156
+01:21:06,328 --> 01:21:09,559
+Thor's Hammer never existed.
+ls that clear?
+
+1157
+01:21:52,073 --> 01:21:53,005
+Hello?
+
+1158
+01:21:53,541 --> 01:21:54,439
+Steve?
+
+1159
+01:21:56,244 --> 01:22:01,307
+Hey, Angel.
+How are you doing, baby?
+
+1160
+01:22:02,784 --> 01:22:05,048
+How do you think l'm doing?
+l'm leaving.
+
+1161
+01:22:06,187 --> 01:22:09,156
+l just called to tell you
+l'm leaving my keys in your mailbox.
+
+1162
+01:22:09,424 --> 01:22:11,949
+No, no, Ange,
+please don't do that. Don't.
+
+1163
+01:22:12,260 --> 01:22:15,752
+How am l supposed to trust you when you
+won't even tell me where you are?
+
+1164
+01:22:17,065 --> 01:22:18,362
+What's that sound?
+
+1165
+01:22:18,566 --> 01:22:21,228
+- Are you at another airport?
+- No, l'm, uh...
+
+1166
+01:22:22,070 --> 01:22:24,300
+l am definitely not at an airport, but...
+
+1167
+01:22:25,640 --> 01:22:27,198
+. . .it is a helicopter.
+
+1168
+01:22:27,609 --> 01:22:32,308
+Hang on. Steve, take your right hand
+and wave to the helicopter above you.
+
+1169
+01:22:38,219 --> 01:22:39,345
+Hey, Angel.
+
+1170
+01:22:41,356 --> 01:22:42,687
+Hey, Angel. ls that you, babe?
+
+1171
+01:22:42,958 --> 01:22:45,222
+We continue with live coverage
+from our news helicopter
+
+1172
+01:22:45,360 --> 01:22:49,353
+that is over what appears to be
+the only survivor from a C-1 7 crash.
+
+1173
+01:22:49,698 --> 01:22:51,222
+Early reports indicate that
+
+1174
+01:22:51,833 --> 01:22:54,996
+what may have been
+a weather weapons test gone out control
+
+1175
+01:22:55,303 --> 01:22:58,795
+caused the plane to crash and
+destroy the military test facility.
+
+1176
+01:22:59,741 --> 01:23:02,608
+The death toll may be in the hundreds as
+we wait for further reports.
+
+1177
+01:23:02,978 --> 01:23:04,809
+So far, no government sources. . .
+
+1178
+01:23:05,113 --> 01:23:09,311
+- . . .have made any statements...
+- Oh, my God. Steve, is that you?
+
+1179
+01:23:10,285 --> 01:23:12,776
+lt's me.
+l guess you know where l'm at.
+
+1180
+01:23:13,922 --> 01:23:15,219
+Where am l?
+
+1181
+01:23:21,262 --> 01:23:24,663
+ln a world
+where weather's gone wild,
+
+1182
+01:23:25,200 --> 01:23:27,828
+only one man has the insight. . .
+
+1183
+01:23:28,403 --> 01:23:33,306
+. . .the talent, the power to forecast
+what's coming at you.
+
+1184
+01:23:34,009 --> 01:23:36,671
+Steve Sunny Simpson is...
+
+1185
+01:23:37,278 --> 01:23:39,109
+The Weatherman!
+
+1186
+01:23:40,515 --> 01:23:41,345
+Cut!
+
+1187
+01:23:42,083 --> 01:23:43,107
+Cut!
+
+1188
+01:23:44,152 --> 01:23:45,176
+All right, man, l think we've got it.
+
+1189
+01:23:45,286 --> 01:23:47,288
+- What did you think? That was awesome.
+- Yeah, it was pretty good but l want. . .
+
+1190
+01:23:47,288 --> 01:23:50,086
+- l want to go again.
+- Oh, okay. . . / Reset! Going again!
+
+1191
+01:23:50,325 --> 01:23:52,293
+Okay.
+Why? What was wrong with it?
+
+1192
+01:23:52,560 --> 01:23:54,323
+You know, l just want to take
+it up a notch. l want to pump it up.
+
+1193
+01:23:54,529 --> 01:23:56,394
+Know what l mean?
+l want it to be Richter.
+
+1194
+01:23:56,798 --> 01:23:58,356
+l'm going to really go for it
+on this one, okay?
+
+1195
+01:23:58,833 --> 01:24:00,528
+Also. . . if you can get
+the camera guy to have
+
+1196
+01:24:00,769 --> 01:24:02,464
+the crane swoop in a little bit lower.
+
+1197
+01:24:02,804 --> 01:24:04,237
+Maybe. . . he can drop
+that crane down a little?
+
+1198
+01:24:04,506 --> 01:24:06,098
+l've got a better angle over here.
+
+1199
+01:24:06,341 --> 01:24:08,605
+Cool, all right. Maybe a wider lens
+and some more back light.
+
+1200
+01:24:08,843 --> 01:24:10,743
+Now you're talking, dude.
+Now you're talking, baby.
+
+1201
+01:24:11,146 --> 01:24:13,740
+And also, crank that wind machine up.
+Crank it up to 1 1 .
+
+1202
+01:24:13,915 --> 01:24:15,280
+- Are you sure?
+- Yeah, yeah, yeah. l can handle it.
+
+1203
+01:24:15,483 --> 01:24:17,348
+You know what? lt's all about
+entertainment, baby, right?
+
+1204
+01:24:17,919 --> 01:24:19,318
+- All right.
+- We owe it. We're entertainers.
+
+1205
+01:24:19,487 --> 01:24:21,318
+- Knuckles, come on, baby, knuckles.
+- Blow it up?
+
+1206
+01:24:21,556 --> 01:24:23,148
+Blow it up, baby!
+
+1207
+01:24:24,025 --> 01:24:26,721
+- Yeah.
+- Hey l wanted to pitch you something.
+
+1208
+01:24:26,995 --> 01:24:28,394
+l've got this idea for a show.
+
+1209
+01:24:28,696 --> 01:24:30,823
+Oh, well, you've got to talk
+to my manager.
+
+1210
+01:24:31,166 --> 01:24:31,757
+Sure. . .
+
+1211
+01:24:32,267 --> 01:24:33,529
+. . .what did you have in mind?
+
+1212
+01:24:33,868 --> 01:24:35,665
+Well, you know there's all these
+stories about how the Chinese
+
+1213
+01:24:35,870 --> 01:24:38,270
+and the Russians have all this
+weather modification technology?
+
+1214
+01:24:38,840 --> 01:24:40,102
+And you got this
+Weatherman Gone Wild thing,
+
+1215
+01:24:40,241 --> 01:24:41,469
+you're a scientist kind of dude.
+
+1216
+01:24:42,243 --> 01:24:45,474
+l thought you could, like, totally host it.
+You'd rock, and you'd be awesome.
+
+1217
+01:24:46,114 --> 01:24:48,947
+Yeah, man, you know, l don't think that's
+something l can get behind, dude.
+
+1218
+01:24:49,217 --> 01:24:50,445
+lt's just not my thing.
+
+1219
+01:24:50,919 --> 01:24:51,908
+We need to work more with nature.
+
+1220
+01:24:52,187 --> 01:24:53,984
+Get more in harmony
+with Mother Nature.
+
+1221
+01:24:54,389 --> 01:24:56,084
+That's something l can get behind.
+
+1222
+01:24:56,324 --> 01:24:58,121
+- What do you think, Ange?
+- Absolutely.
+
+1223
+01:24:58,560 --> 01:25:00,221
+- All right.
+- You dig it? You dig it?
+
+1224
+01:25:00,395 --> 01:25:02,556
+All right, let's shoot this baby!
+Come on!
+
+1225
+01:25:04,766 --> 01:25:07,428
+See, baby?
+l told you, you're made for this stuff.
+
+1226
+01:25:08,203 --> 01:25:09,363
+And l was made for you.
+
+1227
+01:25:22,750 --> 01:25:24,479
+Weatherman Gone Wild!
+
+1228
+01:25:28,456 --> 01:25:30,981
+lt's a weatherman gone wild!
+
+1229
+01:25:31,759 --> 01:25:32,919
+We did it!
+

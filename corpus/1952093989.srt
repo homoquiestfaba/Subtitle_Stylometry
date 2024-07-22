@@ -1,0 +1,5340 @@
+1
+00:02:36,500 --> 00:02:37,427
+This can't be right.
+
+2
+00:02:40,179 --> 00:02:41,008
+Yes.
+
+3
+00:02:43,892 --> 00:02:44,721
+Yes.
+
+4
+00:02:47,124 --> 00:02:47,887
+Yes.
+
+5
+00:02:50,708 --> 00:02:51,439
+No.
+
+6
+00:02:54,163 --> 00:02:54,894
+Professor.
+
+7
+00:03:01,908 --> 00:03:02,704
+Dr. Lehman.
+
+8
+00:03:05,876 --> 00:03:08,659
+Dr. Lehman, these numbers,
+they can't be right.
+
+9
+00:03:08,788 --> 00:03:09,966
+I wish they weren't.
+
+10
+00:03:10,452 --> 00:03:12,524
+No, look. The mass assumption...
+
+11
+00:03:12,660 --> 00:03:14,765
+It's surprisingly hefty, but correct.
+
+12
+00:03:14,900 --> 00:03:16,623
+I was gonna say too small.
+
+13
+00:03:17,108 --> 00:03:19,475
+And... and the trajectory,
+that means it's heading...
+
+14
+00:03:19,604 --> 00:03:20,782
+Right for us.
+
+15
+00:03:21,012 --> 00:03:23,979
+And she is, pardon the melodrama,
+a planet killer.
+
+16
+00:03:24,117 --> 00:03:25,131
+But that's impossible.
+
+17
+00:03:25,716 --> 00:03:27,953
+I mean, I just checked
+the near earth object database
+
+18
+00:03:28,084 --> 00:03:30,451
+and nobody has logged
+anything remotely close.
+
+19
+00:03:30,581 --> 00:03:31,726
+Unless something hit one,
+
+20
+00:03:31,860 --> 00:03:33,583
+something big enough to
+knock her out of her orbit...
+
+21
+00:03:33,717 --> 00:03:37,230
+Here, I'm pretty sure it's Kassandra.
+
+22
+00:03:40,308 --> 00:03:41,137
+No way.
+
+23
+00:03:41,460 --> 00:03:42,409
+I'm afraid so.
+
+24
+00:03:43,444 --> 00:03:47,121
+That's 61 miles, about three times
+the size of Mount Everest.
+
+25
+00:03:48,213 --> 00:03:52,523
+Okay, we're... we're talking
+extinction event, like the dinosaurs.
+
+26
+00:03:53,109 --> 00:03:53,807
+What's so funny?
+
+27
+00:03:54,229 --> 00:03:58,058
+In Greek mythology,
+the sun god Apollo cursed Kassandra
+
+28
+00:03:58,197 --> 00:04:00,368
+with the power to predict death
+and destruction.
+
+29
+00:04:01,045 --> 00:04:02,092
+So what do we do?
+
+30
+00:04:03,188 --> 00:04:04,977
+We run the asymmetrical
+trajectory algorithm
+
+31
+00:04:05,108 --> 00:04:07,345
+to find Kassandra's approach vectors.
+
+32
+00:04:07,476 --> 00:04:09,135
+Send the coordinates to JPL,
+
+33
+00:04:09,269 --> 00:04:12,203
+and pray there's enough firepower
+to blast it from the sky.
+
+34
+00:04:27,124 --> 00:04:30,158
+Hey, it's me, AGAIN.
+
+35
+00:04:30,869 --> 00:04:32,363
+I'm heading back to school.
+
+36
+00:04:32,597 --> 00:04:38,413
+Um... I, uh... Grandpa says hi.
+
+37
+00:04:42,645 --> 00:04:45,100
+I love you.
+Call me when you can.
+
+38
+00:04:46,805 --> 00:04:47,372
+There.
+
+39
+00:04:47,701 --> 00:04:51,760
+Jenny, I know there's tension
+between you and your dad.
+
+40
+00:04:51,893 --> 00:04:54,479
+You've had words, but believe me,
+they are just words.
+
+41
+00:04:54,613 --> 00:04:56,369
+He loves you very much.
+
+42
+00:04:56,533 --> 00:04:58,802
+Right, well, you know,
+if he ever finds the time,
+
+43
+00:04:58,933 --> 00:05:00,210
+he can tell me that himself.
+
+44
+00:05:14,421 --> 00:05:15,315
+Grandpa says hi.
+
+45
+00:05:18,486 --> 00:05:19,249
+I love you.
+
+46
+00:05:22,422 --> 00:05:23,796
+Perfect timing, kid.
+
+47
+00:06:25,718 --> 00:06:26,416
+Cal?
+
+48
+00:06:28,150 --> 00:06:28,881
+In here.
+
+49
+00:06:34,358 --> 00:06:36,497
+You, uh, conserving electricity?
+
+50
+00:06:36,790 --> 00:06:39,725
+Yeah, on a cop salary, you betcha.
+
+51
+00:06:40,566 --> 00:06:41,232
+So...
+
+52
+00:06:42,711 --> 00:06:43,441
+So...
+
+53
+00:06:44,406 --> 00:06:45,388
+You called me.
+
+54
+00:06:46,263 --> 00:06:49,492
+I thought we talked about
+going in the morning.
+
+55
+00:06:51,767 --> 00:06:52,715
+You want to go now?
+
+56
+00:06:54,039 --> 00:06:54,802
+Why not?
+
+57
+00:06:55,799 --> 00:06:56,660
+Did you tell Mary?
+
+58
+00:06:58,295 --> 00:06:59,189
+Yeah, I told her.
+
+59
+00:07:00,087 --> 00:07:00,981
+What'd she say?
+
+60
+00:07:08,119 --> 00:07:08,915
+Jesus.
+
+61
+00:07:09,527 --> 00:07:11,861
+Don't! Get it up!
+
+62
+00:07:14,807 --> 00:07:16,084
+Don't look away, jack.
+
+63
+00:07:16,247 --> 00:07:17,392
+Look at your handiwork!
+
+64
+00:07:18,999 --> 00:07:20,755
+I said look!
+
+65
+00:07:27,991 --> 00:07:31,025
+You might as well pull
+the trigger yourself, buddy boy.
+
+66
+00:07:31,159 --> 00:07:32,403
+What does it have to...?
+
+67
+00:07:32,663 --> 00:07:34,223
+What'd you think was
+gonna happen, Jack?
+
+68
+00:07:34,967 --> 00:07:40,369
+I turn myself in. You become
+a big hero bringing in the dirty cop,
+
+69
+00:07:40,503 --> 00:07:41,932
+ex-partner to boot.
+
+70
+00:07:42,071 --> 00:07:46,479
+Cal, I can help.
+I can help you. I can.
+
+71
+00:07:47,287 --> 00:07:50,964
+Thanks, Jack. But I think
+I can handle it from here.
+
+72
+00:08:09,080 --> 00:08:09,974
+Hello.
+
+73
+00:08:10,328 --> 00:08:12,783
+Dr. Chetwyn? It's Imogene O'Neill.
+
+74
+00:08:12,983 --> 00:08:16,562
+Imogene. Uh, sweetheart...
+
+75
+00:08:16,728 --> 00:08:19,094
+We have an emergency,
+and Dr. Lehman...
+
+76
+00:08:19,256 --> 00:08:22,452
+An emergency?
+You mean another emergency?
+
+77
+00:08:22,584 --> 00:08:23,445
+Dr. Chetwyn...
+
+78
+00:08:23,608 --> 00:08:27,153
+Now, if you had
+just taken the job at JPL,
+
+79
+00:08:27,672 --> 00:08:31,185
+you wouldn't always be off on
+these wild goose chases with Daniel.
+
+80
+00:08:31,320 --> 00:08:33,230
+No, no. It's not a goose chase.
+
+81
+00:08:33,368 --> 00:08:35,255
+Okay. I'm gonna put you
+on speakerphone.
+
+82
+00:08:36,952 --> 00:08:39,189
+Asteroid 114 Kassandra
+is coming right at us.
+
+83
+00:08:39,320 --> 00:08:41,524
+I need you to get to sac-norad on this.
+
+84
+00:08:41,656 --> 00:08:44,591
+Kassandra is a main belt asteroid,
+Daniel.
+
+85
+00:08:44,728 --> 00:08:47,281
+It's a minor planet, for god's sake.
+
+86
+00:08:47,416 --> 00:08:53,167
+Its closest pass to us is 400,000 miles
+outside of earth's orbit.
+
+87
+00:08:53,401 --> 00:08:56,368
+And she was knocked off course
+after an impact with a comet.
+
+88
+00:08:56,536 --> 00:08:59,154
+You might be able to see her
+with near earth radar by morning.
+
+89
+00:08:59,288 --> 00:09:03,445
+But by then, it'll be too late.
+Get to JPL now! We don't have...
+
+90
+00:09:03,576 --> 00:09:05,518
+Ah, we don't have much time.
+
+91
+00:09:05,657 --> 00:09:07,063
+Oh, god, Daniel.
+
+92
+00:09:07,577 --> 00:09:09,464
+Daniel, go to bed, all right?
+
+93
+00:09:09,592 --> 00:09:11,829
+I'll look into it
+when I get to the office.
+
+94
+00:09:11,960 --> 00:09:12,854
+We're coming right to you.
+
+95
+00:09:12,985 --> 00:09:14,229
+We have the numbers to show you.
+
+96
+00:09:14,361 --> 00:09:16,117
+But right now, every minute counts.
+
+97
+00:09:17,529 --> 00:09:19,634
+The harbingers that
+are being knocked loose
+
+98
+00:09:19,769 --> 00:09:21,395
+by the initial collision
+are already here.
+
+99
+00:09:21,529 --> 00:09:23,384
+We have maybe 24 hours before...
+
+100
+00:09:23,513 --> 00:09:27,310
+I know what harbingers are,
+Dr. Lehman.
+
+101
+00:09:33,016 --> 00:09:34,293
+They belong to you, don't they?
+
+102
+00:09:35,033 --> 00:09:36,888
+They're the reason you're alive now.
+
+103
+00:09:38,393 --> 00:09:40,051
+You took my family from me, Jack.
+
+104
+00:09:41,497 --> 00:09:44,793
+Now I'm gonna return the favor.
+
+105
+00:09:47,001 --> 00:09:48,430
+I'm gonna pay a little visit
+
+106
+00:09:49,145 --> 00:09:51,862
+to jenny out there at
+that fancy college of hers.
+
+107
+00:09:54,169 --> 00:09:58,959
+Oh, your dad lives out that way too,
+doesn't he?
+
+108
+00:10:02,841 --> 00:10:03,735
+Convenient.
+
+109
+00:10:34,969 --> 00:10:36,213
+Mom, dad, wake up.
+
+110
+00:10:37,466 --> 00:10:38,927
+- What?
+- What, baby?
+
+111
+00:10:39,482 --> 00:10:40,278
+What, Mikey?
+
+112
+00:10:40,698 --> 00:10:41,745
+You gotta check this out.
+
+113
+00:10:42,106 --> 00:10:42,967
+You okay?
+
+114
+00:10:45,881 --> 00:10:46,830
+Okay.
+
+115
+00:10:52,794 --> 00:10:55,576
+Oh, wow. That's cool.
+
+116
+00:10:57,242 --> 00:10:58,104
+Russ.
+
+117
+00:10:58,938 --> 00:11:00,312
+Come here, quick. Have a look.
+
+118
+00:11:03,674 --> 00:11:04,688
+- Come on.
+- I'm comin'.
+
+119
+00:11:08,378 --> 00:11:09,622
+That's amazing.
+
+120
+00:11:13,242 --> 00:11:14,006
+It's bright.
+
+121
+00:11:14,875 --> 00:11:15,703
+Yeah.
+
+122
+00:11:19,002 --> 00:11:21,653
+It's... it's kind of...
+
+123
+00:11:23,003 --> 00:11:24,312
+Back away from the window.
+
+124
+00:11:26,330 --> 00:11:28,054
+Go! Go! Down in the cellar!
+
+125
+00:11:35,898 --> 00:11:37,108
+Now, when you get there,
+I want you to call me.
+
+126
+00:11:37,563 --> 00:11:38,807
+Grandpa, it's gonna be too late.
+
+127
+00:11:38,938 --> 00:11:40,345
+- I don't care how late it is.
+- Keith.
+
+128
+00:11:40,795 --> 00:11:42,770
+It's Russ Hapscomb.
+There... there's a fire at his place.
+
+129
+00:11:42,907 --> 00:11:44,532
+He said a meteor
+crashed in his field.
+
+130
+00:11:44,667 --> 00:11:45,266
+What?
+
+131
+00:11:46,778 --> 00:11:47,924
+All right,
+get the fire department up there.
+
+132
+00:11:48,059 --> 00:11:49,007
+We'll be right behind 'em.
+
+133
+00:11:49,179 --> 00:11:49,746
+Yes, sir.
+
+134
+00:11:50,554 --> 00:11:51,765
+I gotta run, sweetheart.
+
+135
+00:11:51,899 --> 00:11:53,273
+Did he really just say meteor?
+
+136
+00:11:53,403 --> 00:11:55,225
+The boy's got an imagination.
+
+137
+00:11:55,579 --> 00:11:56,986
+Now, listen, I want you
+to drive the speed limit.
+
+138
+00:11:57,115 --> 00:11:57,976
+Okay.
+
+139
+00:11:58,107 --> 00:11:58,870
+Give me a hug.
+
+140
+00:12:00,635 --> 00:12:01,267
+I love you, grandpa.
+
+141
+00:12:01,403 --> 00:12:02,483
+I love you too, sweetheart.
+
+142
+00:12:03,003 --> 00:12:03,930
+Thanks for coming.
+
+143
+00:12:17,211 --> 00:12:19,186
+I know that you're not
+a huge fan of Dr. Chetwyn.
+
+144
+00:12:19,323 --> 00:12:21,395
+But don't you think
+he's gonna figure this all out
+
+145
+00:12:21,531 --> 00:12:23,800
+when he gets to JPL
+and looks at the radar readouts?
+
+146
+00:12:23,931 --> 00:12:26,484
+I mean, wh... why are we...
+why are we going?
+
+147
+00:12:26,619 --> 00:12:28,692
+We were the only
+ones monitoring the initial impact,
+
+148
+00:12:28,827 --> 00:12:31,827
+so they'll need our data to
+plot an intercept trajectory.
+
+149
+00:12:32,699 --> 00:12:35,001
+Plus, none of their systems
+allow for enough variables.
+
+150
+00:12:36,187 --> 00:12:42,646
+Look, Dr. Lehman, please don't
+take this the wrong way but...
+
+151
+00:12:43,451 --> 00:12:44,727
+Come on out with it.
+
+152
+00:12:45,371 --> 00:12:48,022
+Why are we going?
+He didn't believe you.
+
+153
+00:12:48,155 --> 00:12:50,042
+Trust me, he'll believe us
+when we get there.
+
+154
+00:12:50,587 --> 00:12:51,219
+Why?
+
+155
+00:12:52,380 --> 00:12:54,387
+Because by then,
+lots more rocks will have fallen.
+
+156
+00:12:54,523 --> 00:12:56,912
+Lots more people will be dead.
+
+157
+00:13:16,316 --> 00:13:17,264
+Ladies and gentlemen,
+
+158
+00:13:18,875 --> 00:13:19,923
+you were awoken from your beds
+
+159
+00:13:20,060 --> 00:13:21,336
+and flown here
+in the dead of the night
+
+160
+00:13:21,468 --> 00:13:23,093
+because somewhere in your past,
+
+161
+00:13:23,228 --> 00:13:27,122
+you either volunteered for or were
+volunteered by your agency for a seat
+
+162
+00:13:27,259 --> 00:13:30,608
+on the near Earth Object
+Emergency Response Task Force.
+
+163
+00:13:30,876 --> 00:13:32,086
+Now, for those of you
+who don't know me,
+
+164
+00:13:32,220 --> 00:13:34,641
+I'm General Brasser of
+the Army Space Program,
+
+165
+00:13:34,780 --> 00:13:38,326
+and I have been appointed by
+the president to lead this task force
+
+166
+00:13:38,460 --> 00:13:40,315
+in solving the crisis we face today.
+
+167
+00:13:40,444 --> 00:13:42,900
+Put simply,
+an interplanetary dust storm
+
+168
+00:13:43,036 --> 00:13:44,410
+seems to be headed our way.
+
+169
+00:13:45,020 --> 00:13:48,598
+Uh, hi. Um... Nate Chetwyn, JPL.
+
+170
+00:13:48,732 --> 00:13:51,252
+Ah, the rocket scientist. Welcome.
+
+171
+00:13:51,740 --> 00:13:54,326
+In the last six hours,
+we've had multiple meteor impacts
+
+172
+00:13:54,460 --> 00:13:56,151
+on the west coast of the United States.
+
+173
+00:13:56,284 --> 00:13:59,415
+We're still compiling data from
+the navy and various satellites.
+
+174
+00:13:59,548 --> 00:14:00,496
+But we can estimate that
+
+175
+00:14:00,636 --> 00:14:03,538
+there have been at least other impacts
+in the Pacific Ocean.
+
+176
+00:14:04,476 --> 00:14:08,055
+Now, Dr. Chetwyn, I assume
+you've got a team tracking this.
+
+177
+00:14:08,188 --> 00:14:10,774
+Well, l... I've only recently
+been briefed on all of this.
+
+178
+00:14:10,909 --> 00:14:13,243
+The... the information's
+been trickling in and...
+
+179
+00:14:14,364 --> 00:14:17,528
+But yes, um, we...
+we got word a few hours ago
+
+180
+00:14:17,660 --> 00:14:21,883
+from one of our observatories
+in the meteor tracking network.
+
+181
+00:14:22,013 --> 00:14:24,533
+Now, the...
+the data is still being verified.
+
+182
+00:14:24,668 --> 00:14:29,458
+But, um, there is the possibility
+that a comet has struck an asteroid.
+
+183
+00:14:29,597 --> 00:14:31,899
+And if that's true, then the increased
+
+184
+00:14:32,029 --> 00:14:34,615
+meteor activity
+we're experiencing is the, uh,
+
+185
+00:14:34,749 --> 00:14:36,342
+debris from that initial collision.
+
+186
+00:14:36,477 --> 00:14:37,786
+How big can these rocks get?
+
+187
+00:14:37,917 --> 00:14:40,121
+Anything from a pebble to
+the size of a truck.
+
+188
+00:14:40,253 --> 00:14:41,268
+And the bad news?
+
+189
+00:14:41,436 --> 00:14:45,015
+The comet collision may have altered
+
+190
+00:14:45,149 --> 00:14:48,084
+the parent asteroid's
+trajectory enough that...
+
+191
+00:14:49,212 --> 00:14:50,936
+it may be on its way to us, too.
+
+192
+00:14:51,069 --> 00:14:52,476
+Size? Mass? Velocity?
+
+193
+00:14:52,605 --> 00:14:53,684
+He's calculating that as we speak.
+
+194
+00:14:53,821 --> 00:14:54,868
+The worst-case scenario.
+
+195
+00:14:55,005 --> 00:14:59,162
+We may be looking at 114th Kassandra,
+a main belt asteroid.
+
+196
+00:14:59,293 --> 00:15:03,003
+It's large enough to be
+considered a small planet.
+
+197
+00:15:03,133 --> 00:15:06,035
+She's 60 miles in diameter
+and her impact with earth
+
+198
+00:15:06,173 --> 00:15:08,923
+would be enough to end life
+as we know it.
+
+199
+00:15:10,461 --> 00:15:11,835
+You want the worst-case scenario.
+
+200
+00:15:11,965 --> 00:15:12,728
+Time till impact?
+
+201
+00:15:12,861 --> 00:15:13,624
+Still calculating.
+
+202
+00:15:13,757 --> 00:15:17,336
+But my... my best guesstimate
+is 24-48 hours.
+
+203
+00:15:17,693 --> 00:15:18,838
+Unfortunately, if it is Kassandra,
+
+204
+00:15:18,973 --> 00:15:20,664
+you're gonna have to
+destroy her long before that,
+
+205
+00:15:20,797 --> 00:15:24,594
+because if... if we hit her when
+she's too low in our atmosphere,
+
+206
+00:15:24,733 --> 00:15:27,515
+the... the debris fallout
+from the explosion...
+
+207
+00:15:30,461 --> 00:15:31,574
+It would be catastrophic.
+
+208
+00:15:32,029 --> 00:15:34,298
+Okay, people. We got our hands full.
+Let's get moving.
+
+209
+00:15:35,230 --> 00:15:38,394
+Dr. Chetwyn, I need a full workup
+on the asteroid we're dealing with
+
+210
+00:15:38,526 --> 00:15:40,828
+and a trajectory for
+an ideal interception point.
+
+211
+00:15:40,957 --> 00:15:42,899
+And I need it in minutes or less.
+
+212
+00:15:47,294 --> 00:15:49,203
+I know it's early.
+Don't tell me how early it is.
+
+213
+00:15:49,341 --> 00:15:51,032
+I need you
+at your desk in ten minutes.
+
+214
+00:15:51,261 --> 00:15:52,788
+And get me Dr. Lehman now.
+
+215
+00:15:59,326 --> 00:16:00,951
+Just gonna get your numbers, sir.
+
+216
+00:16:04,286 --> 00:16:04,984
+Okay.
+
+217
+00:16:05,118 --> 00:16:09,657
+Trust me. Stark's not gonna get far.
+Jack, I'm gonna do everything I can.
+
+218
+00:16:09,790 --> 00:16:12,540
+Jesus, cap, that's not enough.
+It's Calvin.
+
+219
+00:16:12,670 --> 00:16:15,637
+You know him.
+Look, this is jenny we're talking about.
+
+220
+00:16:15,838 --> 00:16:16,634
+I know, man.
+
+221
+00:16:17,022 --> 00:16:18,910
+But do you see
+what's goin' on out there?
+
+222
+00:16:19,518 --> 00:16:20,216
+Tom.
+
+223
+00:16:20,542 --> 00:16:22,779
+Tom, you used to bounce her
+on your knee.
+
+224
+00:16:22,942 --> 00:16:23,672
+Please.
+
+225
+00:16:25,310 --> 00:16:28,409
+Well, he's not getting far, all right?
+
+226
+00:16:33,918 --> 00:16:35,325
+Who is that? Is that about jenny?
+
+227
+00:16:35,998 --> 00:16:37,045
+It's the mayor.
+
+228
+00:16:37,502 --> 00:16:39,128
+You call me if you hear anything.
+
+229
+00:16:39,359 --> 00:16:42,206
+Will do.
+Now get some rest, would you?
+
+230
+00:16:55,007 --> 00:16:55,705
+Come on, baby.
+
+231
+00:16:55,967 --> 00:16:59,447
+Sorry, all circuits are busy.
+Please try your call again later.
+
+232
+00:17:12,191 --> 00:17:13,816
+We're following this breaking story.
+
+233
+00:17:13,951 --> 00:17:17,780
+The AP is reporting a large meteor
+impact in Taft, California,
+
+234
+00:17:17,918 --> 00:17:19,991
+with additional impacts
+in other areas along
+
+235
+00:17:20,127 --> 00:17:22,200
+the west coast and the Pacific Ocean.
+
+236
+00:17:22,431 --> 00:17:23,413
+NASA officials have scheduled
+
+237
+00:17:23,551 --> 00:17:25,820
+a press conference
+one half hour from now.
+
+238
+00:17:25,950 --> 00:17:27,609
+And we expect
+some answers regarding
+
+239
+00:17:27,743 --> 00:17:32,085
+what seems to be
+the largest in recorded history.
+
+240
+00:17:32,223 --> 00:17:33,400
+Small meteors collide with the earth
+
+241
+00:17:33,535 --> 00:17:36,568
+all the time but the impact
+is so minor...
+
+242
+00:17:45,727 --> 00:17:46,676
+Hey, you guys, check it out.
+
+243
+00:17:50,207 --> 00:17:51,189
+It's beautiful.
+
+244
+00:17:53,407 --> 00:17:56,124
+I bet it's even better up
+in the mountains. Come on.
+
+245
+00:18:00,960 --> 00:18:01,461
+Hey.
+
+246
+00:18:02,976 --> 00:18:03,924
+Forget something?
+
+247
+00:18:04,063 --> 00:18:09,465
+Oh, thank you. Maya, you rock.
+Best roommate ever.
+
+248
+00:18:12,320 --> 00:18:13,247
+Come on. We gotta roll.
+
+249
+00:18:14,975 --> 00:18:15,674
+See ya.
+
+250
+00:18:52,704 --> 00:18:53,783
+This is awful.
+
+251
+00:18:57,408 --> 00:18:58,302
+Yeah.
+
+252
+00:18:59,968 --> 00:19:00,699
+Hey.
+
+253
+00:19:02,240 --> 00:19:03,451
+We got out, right?
+
+254
+00:19:05,696 --> 00:19:06,841
+Do you want me to stay home?
+
+255
+00:19:07,328 --> 00:19:10,809
+No, no, no. You... you go on.
+Someone's got to pay the bills.
+
+256
+00:19:12,064 --> 00:19:13,274
+Yeah, but you shouldn't have to
+deal with all this by yourself.
+
+257
+00:19:13,409 --> 00:19:15,416
+Hey, hey, at least someone's
+enjoying this.
+
+258
+00:19:20,385 --> 00:19:21,246
+He's still here?
+
+259
+00:19:22,016 --> 00:19:24,089
+Yeah. We missed the bus
+in all the excitement.
+
+260
+00:19:24,448 --> 00:19:25,114
+I'll take him in.
+
+261
+00:19:25,281 --> 00:19:26,077
+No, no. I'll do it.
+
+262
+00:19:27,009 --> 00:19:28,797
+It'll give us
+some good mother/son time.
+
+263
+00:19:30,016 --> 00:19:34,556
+Hey, kid! Let's go.
+Time for school. The limo's leavin'.
+
+264
+00:19:35,904 --> 00:19:36,853
+Shouldn't I stay and help?
+
+265
+00:19:37,792 --> 00:19:41,404
+Nice try. Come on. Get in the car.
+I'll try to get off early, all right?
+
+266
+00:19:44,448 --> 00:19:48,060
+Hey, Russell!
+The firemen tell me it's safe now.
+
+267
+00:19:48,577 --> 00:19:49,787
+You might want to come take a look.
+
+268
+00:19:51,553 --> 00:19:52,480
+Well, how bad is it?
+
+269
+00:19:53,665 --> 00:19:54,647
+See for yourself.
+
+270
+00:20:03,585 --> 00:20:05,440
+You get a chance to
+watch the news this morning?
+
+271
+00:20:05,569 --> 00:20:07,063
+No, the power's still out.
+
+272
+00:20:08,385 --> 00:20:13,055
+Well, apparently, uh, a few of
+these things hit some time last night.
+
+273
+00:20:16,225 --> 00:20:17,785
+Some kind of freak meteor shower.
+
+274
+00:20:18,561 --> 00:20:21,114
+Most of them landed in the pacific,
+except for this one.
+
+275
+00:20:45,666 --> 00:20:48,600
+Ooh, hi. My radiator overheated.
+Can I get water?
+
+276
+00:20:57,538 --> 00:20:58,715
+- Thank you.
+- Thanks.
+
+277
+00:20:58,850 --> 00:20:59,744
+Have a good day.
+
+278
+00:21:01,122 --> 00:21:03,391
+Suspect is still at large. Repeat.
+
+279
+00:21:03,554 --> 00:21:06,554
+Detective Calvin Stark is
+considered armed and dangerous.
+
+280
+00:21:06,786 --> 00:21:09,175
+Use extreme caution. All units.
+
+281
+00:21:09,314 --> 00:21:14,911
+All units respond a 511
+at 11465 High View Drive.
+
+282
+00:21:24,706 --> 00:21:25,469
+Hello.
+
+283
+00:21:25,986 --> 00:21:28,157
+Imogene, it's Nate Chetwyn.
+Is Daniel with you?
+
+284
+00:21:28,290 --> 00:21:29,021
+I'm right here.
+
+285
+00:21:29,506 --> 00:21:33,499
+Dan. I'm sorry.
+L... I was wrong about Kassandra.
+
+286
+00:21:33,794 --> 00:21:36,249
+Have you had a chance to
+calculate trajectory?
+
+287
+00:21:36,386 --> 00:21:38,142
+You're breaking up. Call us back.
+
+288
+00:21:38,274 --> 00:21:40,380
+We're standing by
+for a missile launch.
+
+289
+00:21:40,514 --> 00:21:43,514
+No, no! Don't launch!
+You don't have the trajectory right!
+
+290
+00:21:44,226 --> 00:21:45,120
+Hello?
+
+291
+00:21:47,138 --> 00:21:49,560
+He doesn't have
+the original impact coordinates.
+
+292
+00:21:49,730 --> 00:21:51,421
+He's using an algorithm
+I gave him years ago.
+
+293
+00:21:51,554 --> 00:21:52,864
+They're gonna miss. Get him back!
+
+294
+00:21:55,586 --> 00:21:56,514
+No signal.
+
+295
+00:21:58,402 --> 00:21:59,449
+Ha. He said sorry.
+
+296
+00:21:59,682 --> 00:22:00,282
+What?
+
+297
+00:22:00,418 --> 00:22:03,549
+He apologized.
+I think he actually apologized.
+
+298
+00:22:07,619 --> 00:22:08,480
+Oh, great.
+
+299
+00:22:18,114 --> 00:22:20,765
+No, ma'am, I'm not trying to
+tell you how to do your job.
+
+300
+00:22:20,899 --> 00:22:23,713
+But you need to get the president to
+address the country right away
+
+301
+00:22:23,843 --> 00:22:25,785
+or we will have widespread panic.
+
+302
+00:22:27,075 --> 00:22:27,806
+Thank you, ma'am.
+
+303
+00:22:28,258 --> 00:22:30,625
+Sir. Just heard from NASA.
+
+304
+00:22:30,851 --> 00:22:33,371
+Near-earth satellite radar confirms
+that it's 114 Kassandra.
+
+305
+00:22:33,506 --> 00:22:35,329
+Colonel Beck,
+how long till missile launch?
+
+306
+00:22:35,459 --> 00:22:36,255
+Twenty-one minutes, sir.
+
+307
+00:22:36,419 --> 00:22:38,110
+Perfect. Let's get a live feed in five.
+
+308
+00:22:38,243 --> 00:22:39,901
+Yes, sir. And I still need the...
+
+309
+00:22:40,035 --> 00:22:42,075
+Dr. Chetwyn,
+how about those coordinates?
+
+310
+00:22:42,211 --> 00:22:44,316
+I've got them, sir.
+I'm just double-checking them.
+
+311
+00:22:44,451 --> 00:22:45,400
+We need them now.
+
+312
+00:22:47,011 --> 00:22:49,662
+Okay. You got it.
+
+313
+00:22:49,891 --> 00:22:50,589
+I got it.
+
+314
+00:22:50,819 --> 00:22:51,517
+Perfect.
+
+315
+00:22:54,499 --> 00:22:56,506
+You've reached the cell phone of
+Dr. Lehman. Please leave a message.
+
+316
+00:22:56,643 --> 00:22:58,553
+Dr. Lehman, Imogene, it... it's Nate.
+
+317
+00:22:58,691 --> 00:22:59,968
+We're... we're about to launch,
+
+318
+00:23:00,099 --> 00:23:02,433
+and I need to confirm
+the kassandra trajectory with you.
+
+319
+00:23:02,563 --> 00:23:04,952
+There's... there's something wrong
+with the numbers.
+
+320
+00:23:06,499 --> 00:23:08,059
+Just call, call, call.
+
+321
+00:23:22,500 --> 00:23:24,093
+- Whoa!
+- Watch out, sorry.
+
+322
+00:23:27,812 --> 00:23:29,754
+Will you help me out, please?
+Thank you.
+
+323
+00:23:38,404 --> 00:23:40,291
+Russell Hapscomb, meteor man.
+
+324
+00:23:40,419 --> 00:23:41,729
+Simon. Long time.
+
+325
+00:23:41,860 --> 00:23:42,972
+Yeah, a long time.
+
+326
+00:23:43,235 --> 00:23:43,999
+Hey, what's goin' on here?
+
+327
+00:23:44,132 --> 00:23:45,659
+I thought my house
+was the only one that got hit.
+
+328
+00:23:45,988 --> 00:23:48,192
+Some fema guy told people
+to stock up so...
+
+329
+00:23:48,324 --> 00:23:48,706
+Wow.
+
+330
+00:23:48,836 --> 00:23:50,080
+Yeah. Wow is right.
+
+331
+00:23:50,436 --> 00:23:52,607
+Hey! That's my water.
+
+332
+00:23:52,772 --> 00:23:53,535
+You got your name on this?
+
+333
+00:23:53,668 --> 00:23:56,156
+I'm over here getting milk
+before they run out of that too.
+
+334
+00:23:56,452 --> 00:23:57,597
+Yeah, well, look, sorry, sir.
+
+335
+00:23:57,732 --> 00:24:00,961
+I said that's my water.
+It's for my family.
+
+336
+00:24:01,475 --> 00:24:02,403
+Hey, relax...
+
+337
+00:24:03,588 --> 00:24:05,563
+Why don't you
+just get your ass out of my town
+
+338
+00:24:05,700 --> 00:24:07,522
+and crawl back to
+where you came from?
+
+339
+00:24:08,132 --> 00:24:09,026
+Come again?
+
+340
+00:24:11,204 --> 00:24:13,343
+Just let's let it go.
+He's not worth it.
+
+341
+00:24:13,956 --> 00:24:14,849
+Yeah, let it go.
+
+342
+00:24:14,980 --> 00:24:16,190
+There's more water over there.
+
+343
+00:24:19,844 --> 00:24:22,746
+You have yourself a nice day... sir.
+
+344
+00:24:30,565 --> 00:24:31,677
+Heard what he said to me?
+
+345
+00:24:32,004 --> 00:24:32,735
+Yeah, I heard.
+
+346
+00:24:36,069 --> 00:24:37,017
+I was born here.
+
+347
+00:24:37,156 --> 00:24:37,854
+Some mouth.
+
+348
+00:24:38,053 --> 00:24:40,387
+Yeah. That mouth gonna
+get his ass cancelled.
+
+349
+00:24:40,740 --> 00:24:41,634
+You did the right thing.
+
+350
+00:24:54,596 --> 00:24:58,109
+Damn it. I think it's dead. Sorry.
+
+351
+00:24:58,245 --> 00:25:00,765
+Don't panic.
+We have to keep our heads.
+
+352
+00:25:01,637 --> 00:25:04,637
+See if you can wave someone down.
+They always stop for a girl.
+
+353
+00:25:06,308 --> 00:25:08,959
+Hey! Hey, stop!
+
+354
+00:25:11,013 --> 00:25:14,177
+Great. Hey, look.
+
+355
+00:25:21,029 --> 00:25:21,792
+I'll get the phone.
+
+356
+00:25:25,637 --> 00:25:26,401
+Hey!
+
+357
+00:25:27,077 --> 00:25:31,899
+Dr. Lehman. Dr. Lehman!
+Oh, God. Dr. Lehman.
+
+358
+00:25:33,541 --> 00:25:34,653
+The laptop.
+
+359
+00:25:35,301 --> 00:25:42,076
+Don't speak. Shh, don't try to speak.
+Oh, my god. Oh, my god, Dr. Lehman.
+
+360
+00:25:42,470 --> 00:25:43,331
+Get it.
+
+361
+00:25:43,461 --> 00:25:44,770
+No.
+
+362
+00:25:47,333 --> 00:25:48,511
+Dr. Lehman.
+
+363
+00:25:50,181 --> 00:25:51,130
+Dr. Lehman!
+
+364
+00:25:53,925 --> 00:25:56,097
+I don't know what to do.
+I don't know what to do.
+
+365
+00:26:05,221 --> 00:26:09,018
+Now here's a list of alternate routes to
+get you home from our eye in the sky.
+
+366
+00:26:09,157 --> 00:26:12,703
+If you're trying to head north
+from the 405, allow for extra time.
+
+367
+00:26:12,838 --> 00:26:13,601
+Make sure you...
+
+368
+00:26:14,821 --> 00:26:17,342
+Come on, answer, baby. Answer.
+
+369
+00:26:18,086 --> 00:26:20,257
+Hi, it's jenny. Leave a message.
+
+370
+00:26:20,677 --> 00:26:24,060
+Jenny. Listen to me. It's your dad.
+Listen very carefully.
+
+371
+00:26:24,198 --> 00:26:26,270
+You are in real danger.
+
+372
+00:26:27,141 --> 00:26:30,273
+Stark, my... my ex-partner, Calvin Stark.
+You remember him?
+
+373
+00:26:30,502 --> 00:26:31,909
+Well, he's done something terrible,
+baby.
+
+374
+00:26:32,038 --> 00:26:33,762
+You are in danger, okay?
+
+375
+00:26:33,894 --> 00:26:35,836
+As soon as you get this message,
+you need to call-
+
+376
+00:26:35,974 --> 00:26:37,949
+no, you need to run to
+the police station in town
+
+377
+00:26:38,086 --> 00:26:39,362
+and have them call me
+
+378
+00:26:39,494 --> 00:26:44,251
+or Captain Finnegan at
+LAPD precinct immediately.
+
+379
+00:26:44,390 --> 00:26:49,125
+All right? This is for real, baby.
+All right? I love you.
+
+380
+00:26:49,254 --> 00:26:51,709
+Just go. Go now.
+
+381
+00:26:56,870 --> 00:26:58,146
+Due to the unpredictable nature of
+
+382
+00:26:58,278 --> 00:27:01,147
+the current meteor shower crisis,
+all motorists...
+
+383
+00:27:01,286 --> 00:27:02,334
+Told you, I knew a shortcut.
+
+384
+00:27:02,822 --> 00:27:05,058
+Yeah, it sure beats the parking
+lot on the side.
+
+385
+00:27:05,958 --> 00:27:07,714
+It is recommended that
+all drivers safely exit
+
+386
+00:27:07,846 --> 00:27:10,912
+and proceed to
+the nearest public shelter.
+
+387
+00:27:11,047 --> 00:27:12,224
+Maybe we should go back.
+
+388
+00:27:13,094 --> 00:27:13,661
+Why?
+
+389
+00:27:13,798 --> 00:27:15,424
+I mean, things are falling
+out of the sky.
+
+390
+00:27:15,558 --> 00:27:17,282
+They're telling people to
+stay off the road.
+
+391
+00:27:17,511 --> 00:27:19,104
+People are sheep. They overreact.
+
+392
+00:27:23,654 --> 00:27:29,088
+Just think... hot tub. Hot tub. Hot tub.
+
+393
+00:27:29,223 --> 00:27:30,270
+I'm serious.
+
+394
+00:27:30,406 --> 00:27:32,927
+Me too. There's also
+a fully stocked bar.
+
+395
+00:27:33,063 --> 00:27:35,070
+Forty acres of pristine forest.
+
+396
+00:27:40,071 --> 00:27:45,341
+Hey, babe. If the world's ending,
+I'd rather be with you.
+
+397
+00:27:47,111 --> 00:27:47,777
+Thanks.
+
+398
+00:27:49,735 --> 00:27:51,742
+You are so full of it.
+
+399
+00:27:52,967 --> 00:27:55,106
+Come on. That was for real.
+
+400
+00:27:55,335 --> 00:27:58,434
+Yeah. Mm-mm-mm-mm.
+
+401
+00:27:58,695 --> 00:28:02,143
+I tell you what, if you're a good boy
+the rest of the way,
+
+402
+00:28:03,591 --> 00:28:05,315
+I might let you fish that out.
+
+403
+00:28:05,479 --> 00:28:06,723
+Oww!
+
+404
+00:28:20,359 --> 00:28:22,563
+You stopped a fight over water?
+
+405
+00:28:22,696 --> 00:28:23,906
+Yeah. I'm telling you,
+our house gets hit,
+
+406
+00:28:24,039 --> 00:28:26,494
+but it's everyone else around here
+who's freakin' out.
+
+407
+00:28:26,951 --> 00:28:27,714
+You okay?
+
+408
+00:28:27,879 --> 00:28:28,927
+Yeah, I'm fine.
+
+409
+00:28:29,160 --> 00:28:31,298
+Just fixin' up the windows
+before Michael gets home.
+
+410
+00:28:31,815 --> 00:28:33,190
+I hear they're letting
+the kids out early.
+
+411
+00:28:33,575 --> 00:28:36,445
+- Dr. Hapscomb, we need you stat.
+- All right?
+
+412
+00:28:36,584 --> 00:28:38,471
+You heard that, babe.
+I love you. I gotta go.
+
+413
+00:28:41,959 --> 00:28:42,908
+Watch it. Oh!
+
+414
+00:28:43,144 --> 00:28:43,842
+Excuse me!
+
+415
+00:28:44,200 --> 00:28:46,655
+Oh, come on. What are you doing?
+Out of my way.
+
+416
+00:28:46,888 --> 00:28:49,222
+Oh, I'm... that's rude.
+
+417
+00:28:49,672 --> 00:28:50,850
+Sorry, sorry.
+
+418
+00:29:06,407 --> 00:29:08,382
+They've been all over the radio and TV.
+
+419
+00:29:08,552 --> 00:29:10,788
+What was it fema said?
+What was his big message?
+
+420
+00:29:10,920 --> 00:29:15,110
+Stay off the roads like it's
+some freakin' kind of travel advisory.
+
+421
+00:29:15,368 --> 00:29:16,612
+Unbelievable.
+
+422
+00:29:16,904 --> 00:29:18,912
+That's your tax dollars
+at work right there.
+
+423
+00:29:19,720 --> 00:29:20,702
+I've been all over town.
+
+424
+00:29:20,840 --> 00:29:23,524
+People starting' to
+hoard food and supplies.
+
+425
+00:29:23,656 --> 00:29:25,990
+Next thing, everyone's gonna be
+holed up in their houses.
+
+426
+00:29:26,120 --> 00:29:28,575
+And that's when the lowlifes are
+gonna be coming' out of the woodwork.
+
+427
+00:29:28,712 --> 00:29:30,468
+Havin' a slow day at the garage?
+
+428
+00:29:33,096 --> 00:29:33,827
+Hello, chief.
+
+429
+00:29:34,024 --> 00:29:38,727
+Dwight.
+You boys, uh, plannin' a huntin' trip?
+
+430
+00:29:38,889 --> 00:29:41,539
+Well, you know,
+duck season's right around the corner.
+
+431
+00:29:42,856 --> 00:29:45,223
+Well, today might be
+a good day to stay indoors.
+
+432
+00:29:46,184 --> 00:29:48,606
+Yeah. But what
+if you have some real trouble?
+
+433
+00:29:49,897 --> 00:29:52,286
+You're gonna need
+some god-fearin' boys at your side.
+
+434
+00:29:52,425 --> 00:29:55,108
+What I need is for people to
+stay nice and calm,
+
+435
+00:29:55,368 --> 00:29:57,408
+not runnin' around with weapons.
+
+436
+00:30:00,201 --> 00:30:03,430
+I don't recall martial law
+being declared.
+
+437
+00:30:03,816 --> 00:30:05,223
+We have the right to assemble.
+
+438
+00:30:05,480 --> 00:30:12,550
+Dwight... You are beginning to annoy me.
+That would not be in your best interest.
+
+439
+00:30:12,744 --> 00:30:13,759
+Are you threatening me?
+
+440
+00:30:14,216 --> 00:30:17,893
+I'm not threatening you.
+I'm just tellin' you how it is.
+
+441
+00:30:20,169 --> 00:30:23,268
+Now I suggest you take care of
+your families rather than your guns.
+
+442
+00:30:41,641 --> 00:30:45,602
+So, uh, where in Los Angeles you...
+you need to go?
+
+443
+00:30:46,377 --> 00:30:50,469
+Uh, JPL. Jet Propulsion Laboratories.
+
+444
+00:30:50,857 --> 00:30:54,948
+It's just off the 210th.
+Thanks for picking me up.
+
+445
+00:30:58,377 --> 00:31:02,719
+You remind me of my daughter.
+And I never let her walk alone.
+
+446
+00:31:18,345 --> 00:31:21,574
+As of yet, we have heard
+no official word on what's going on.
+
+447
+00:31:21,898 --> 00:31:23,556
+But with the meteor strikes increasing,
+
+448
+00:31:23,689 --> 00:31:27,202
+what started out as
+an especially beautiful sunrise
+
+449
+00:31:27,402 --> 00:31:31,941
+might turn out to be the first
+warning sign of a national emergency.
+
+450
+00:31:50,154 --> 00:31:51,398
+Maybe they'll
+cancel school tomorrow.
+
+451
+00:31:52,841 --> 00:31:57,446
+- Aw, Mickey's got a girlfriend!
+- Hey, if you ever want a real man...
+
+452
+00:31:57,578 --> 00:31:58,439
+Leave her alone.
+
+453
+00:31:58,570 --> 00:31:59,585
+Or what?
+
+454
+00:32:03,594 --> 00:32:04,543
+He ain't gonna help you.
+
+455
+00:32:04,874 --> 00:32:06,368
+Doofus can't protect his woman.
+
+456
+00:32:06,506 --> 00:32:06,975
+Nope.
+
+457
+00:32:07,466 --> 00:32:08,132
+Quit it.
+
+458
+00:32:10,026 --> 00:32:12,611
+Oh, is doofus gonna cry?
+
+459
+00:32:14,826 --> 00:32:15,971
+Big mistake.
+
+460
+00:32:32,906 --> 00:32:33,767
+Coordinates confirmed?
+
+461
+00:32:35,754 --> 00:32:36,518
+Yeah.
+
+462
+00:32:36,683 --> 00:32:38,276
+Your confidence is overwhelming.
+
+463
+00:32:40,554 --> 00:32:41,318
+Punch it.
+
+464
+00:32:42,955 --> 00:32:43,751
+We're locked in.
+
+465
+00:32:43,882 --> 00:32:44,711
+Launch codes.
+
+466
+00:32:44,875 --> 00:32:46,119
+Hot and ready, sir.
+
+467
+00:32:46,250 --> 00:32:47,297
+We're go for launch, sir.
+
+468
+00:32:48,651 --> 00:32:49,578
+Call it, colonel.
+
+469
+00:32:49,931 --> 00:33:02,053
+On my mark, 10, 9, 8, 7, 6, 5, 4, 3...
+
+470
+00:33:12,266 --> 00:33:13,095
+Talk to me, people.
+
+471
+00:33:13,226 --> 00:33:14,852
+We... we lost 'em, sir. L-I got no feeds.
+
+472
+00:33:14,987 --> 00:33:16,394
+Me neither. They're off line.
+
+473
+00:33:16,619 --> 00:33:17,512
+The satellite.
+
+474
+00:33:18,379 --> 00:33:19,241
+Speak up.
+
+475
+00:33:19,627 --> 00:33:21,667
+Are we on satellite com link
+with the launch site?
+
+476
+00:33:21,803 --> 00:33:22,152
+That's right.
+
+477
+00:33:22,283 --> 00:33:23,592
+I think the satellite got hit.
+
+478
+00:33:25,291 --> 00:33:26,219
+The harbingers.
+
+479
+00:33:26,379 --> 00:33:28,867
+The... the debris from
+the initial comet impact.
+
+480
+00:33:29,739 --> 00:33:34,562
+Quigley. Yes. Yes. Confirmed?
+Yes. Roger that. Please stand by.
+
+481
+00:33:34,731 --> 00:33:37,415
+Sir, missiles are intact.
+We just lost the satellite feeds.
+
+482
+00:33:39,915 --> 00:33:40,547
+Recommendations.
+
+483
+00:33:40,683 --> 00:33:42,472
+Launch based on
+the trajectory model, sir.
+
+484
+00:33:42,667 --> 00:33:47,523
+No. No! Without satellite guidance,
+l... I advise against that.
+
+485
+00:33:47,724 --> 00:33:50,626
+The trajectory computation,
+it... it's not foolproof.
+
+486
+00:33:50,764 --> 00:33:52,008
+I need more time.
+
+487
+00:33:52,139 --> 00:33:52,805
+Christ.
+
+488
+00:33:52,940 --> 00:33:53,801
+Well, I'm sorry.
+
+489
+00:33:53,932 --> 00:33:56,998
+I don't think we should be hurling
+nuclear weapons blindly!
+
+490
+00:33:57,132 --> 00:33:57,863
+Pardon me, Dr. Chetwyn,
+
+491
+00:33:57,995 --> 00:34:00,002
+but what the hell have you been
+doing all this time?
+
+492
+00:34:00,300 --> 00:34:01,576
+The best I can.
+
+493
+00:34:02,636 --> 00:34:05,386
+We've never dealt with
+this big an asteroid mass,
+
+494
+00:34:05,708 --> 00:34:06,536
+and not at this proximity.
+
+495
+00:34:06,668 --> 00:34:08,642
+And the... the algorithm
+I'm using isn't working.
+
+496
+00:34:08,780 --> 00:34:10,885
+For some reason,
+I can't reach the man that created it.
+
+497
+00:34:11,020 --> 00:34:12,711
+Well, find him for Christ's sake!
+Where is he?
+
+498
+00:34:13,515 --> 00:34:15,010
+He's on his way in from Mexico.
+
+499
+00:34:15,148 --> 00:34:15,682
+Mexico?
+
+500
+00:34:15,820 --> 00:34:18,853
+What the hell is he doing in Mexico
+if he's so integral to this whole thing?
+
+501
+00:34:18,988 --> 00:34:21,922
+I fired him. He went crazy.
+
+502
+00:34:24,748 --> 00:34:26,373
+Help Dr. Chetwyn to find his man.
+
+503
+00:34:26,508 --> 00:34:27,304
+Get the White House involved.
+
+504
+00:34:27,436 --> 00:34:28,680
+Call in the god damn marines.
+
+505
+00:34:28,812 --> 00:34:31,496
+We need that trajectory on
+this thing right away, now!
+
+506
+00:34:41,676 --> 00:34:45,353
+I'm sorry, but it's not my fault.
+The thing overheated, okay?
+
+507
+00:34:45,484 --> 00:34:53,832
+The car is a piece of crap. Yeah?
+Oh, that's nice. Nice. Yeah. Jackass!
+
+508
+00:34:54,892 --> 00:34:56,353
+Sorry, ma'am. LAPD.
+
+509
+00:34:56,492 --> 00:34:57,736
+I'm gonna have to
+commandeer your vehicle.
+
+510
+00:34:57,868 --> 00:34:58,882
+Police emergency.
+
+511
+00:34:59,021 --> 00:35:01,355
+You gave me a heart attack.
+
+512
+00:35:01,612 --> 00:35:03,434
+Step away from the car, please.
+
+513
+00:35:03,692 --> 00:35:04,739
+Have you seen
+what's happening out there?
+
+514
+00:35:04,877 --> 00:35:05,738
+I gotta get home.
+
+515
+00:35:05,868 --> 00:35:08,389
+Ma'am, I'm gonna have to insist.
+
+516
+00:35:09,933 --> 00:35:11,755
+Officer, please.
+
+517
+00:35:11,884 --> 00:35:13,477
+Please, I live
+all the way in Palm Vista.
+
+518
+00:35:13,613 --> 00:35:16,580
+My kids are waiting.
+I'll never make it on foot.
+
+519
+00:35:16,716 --> 00:35:19,498
+Palm Vista.
+You live out near the college?
+
+520
+00:35:19,629 --> 00:35:20,523
+Yeah.
+
+521
+00:35:22,157 --> 00:35:24,808
+My lucky day. Do you mind
+if I bother you for a ride?
+
+522
+00:35:27,180 --> 00:35:31,523
+Yes. Of course I'll take you
+wherever you need to go. Pop in.
+
+523
+00:35:31,661 --> 00:35:32,773
+Well, thank you, ma'am.
+
+524
+00:35:48,493 --> 00:35:49,541
+Still nothing?
+
+525
+00:35:50,316 --> 00:35:51,145
+Nada.
+
+526
+00:36:03,981 --> 00:36:05,672
+The little one starts school today.
+
+527
+00:36:07,661 --> 00:36:08,643
+I'm sorry.
+
+528
+00:36:09,197 --> 00:36:11,107
+Oh, no. It's okay. It's okay.
+
+529
+00:36:20,718 --> 00:36:24,427
+Is okay if I, uh, get you to border?
+
+530
+00:36:25,293 --> 00:36:28,588
+No, no. Look, I really...
+I have to...
+
+531
+00:36:28,717 --> 00:36:30,626
+I'm very sorry, senorita.
+
+532
+00:36:30,766 --> 00:36:33,286
+L... I just need to get to
+my familia, you know.
+
+533
+00:36:33,869 --> 00:36:35,047
+Of course.
+
+534
+00:36:38,702 --> 00:36:40,163
+Wait. Is that a police station?
+
+535
+00:36:41,134 --> 00:36:41,962
+Si!
+
+536
+00:36:42,509 --> 00:36:46,786
+Great. Well, maybe they could
+radio the embassy or call JPL for me.
+
+537
+00:36:46,926 --> 00:36:50,187
+Very good idea, senorita.
+Yes, very good.
+
+538
+00:36:58,446 --> 00:37:01,512
+Gracias. Thank you so much.
+
+539
+00:37:01,838 --> 00:37:02,666
+De nada.
+
+540
+00:37:02,958 --> 00:37:05,031
+Are you sure you're
+going to be okay?
+
+541
+00:37:05,262 --> 00:37:08,611
+Si. Yeah.
+You go home to your family.
+
+542
+00:37:08,814 --> 00:37:10,669
+Gracias. Buenas suerte.
+
+543
+00:37:11,182 --> 00:37:12,458
+Good luck to you too.
+
+544
+00:38:01,294 --> 00:38:02,123
+Oh, god.
+
+545
+00:38:05,807 --> 00:38:07,083
+Yeah. It's a big rock.
+
+546
+00:38:07,406 --> 00:38:10,057
+And lift. Got it?
+
+547
+00:38:20,975 --> 00:38:22,437
+Double check that fuel line.
+
+548
+00:38:25,519 --> 00:38:26,283
+Come on, let's go.
+
+549
+00:38:29,711 --> 00:38:30,442
+Hey!
+
+550
+00:38:31,407 --> 00:38:32,748
+What about the rest of these kids?
+
+551
+00:38:32,943 --> 00:38:33,641
+We're full up.
+
+552
+00:38:34,063 --> 00:38:35,470
+We gotta take this group to...
+to High View
+
+553
+00:38:35,599 --> 00:38:36,940
+and this next one gotta
+go to coast central.
+
+554
+00:38:37,071 --> 00:38:38,380
+You've only got one ambulance?
+
+555
+00:38:38,735 --> 00:38:40,710
+We got accidents all over.
+It's insane.
+
+556
+00:38:41,615 --> 00:38:42,597
+I don't believe it.
+
+557
+00:38:51,535 --> 00:38:53,739
+All right, I want you to get over to
+
+558
+00:38:53,872 --> 00:38:56,108
+Dylan's car dealership
+as soon as possible.
+
+559
+00:38:56,239 --> 00:38:58,094
+Round up every available man.
+
+560
+00:38:58,224 --> 00:39:01,519
+Get every truck and van over here
+just as soon as you can.
+
+561
+00:39:11,471 --> 00:39:12,137
+Michael?
+
+562
+00:39:16,175 --> 00:39:19,209
+You just take it easy, son.
+You're gonna be fine.
+
+563
+00:39:20,015 --> 00:39:21,357
+Uh, we'll get you to the hospital
+
+564
+00:39:21,488 --> 00:39:24,586
+and I'll make sure your mom
+and dad are there to meet you, okay?
+
+565
+00:39:33,936 --> 00:39:36,107
+Sir, everyone's losing
+satellite coverage,
+
+566
+00:39:36,240 --> 00:39:38,280
+NSA, Pentagon, commercial networks.
+
+567
+00:39:40,560 --> 00:39:41,902
+How big can these dust storms get?
+
+568
+00:39:42,031 --> 00:39:43,242
+Don't think of it as dust.
+
+569
+00:39:43,376 --> 00:39:45,416
+I'm sure our satellite
+and every satellite worldwide
+
+570
+00:39:45,552 --> 00:39:46,894
+is gettin' shredded to pieces.
+
+571
+00:39:47,024 --> 00:39:47,918
+Let's not lose it, people.
+
+572
+00:39:48,048 --> 00:39:49,738
+We won the second
+World War without satellites.
+
+573
+00:39:49,872 --> 00:39:53,167
+We're not gonna give it up now.
+Ground wire all communications.
+
+574
+00:39:53,328 --> 00:39:57,038
+Sir. What if he can't solve it?
+
+575
+00:39:57,168 --> 00:39:59,950
+Well, at some point, the thing
+will be visible on ground radar.
+
+576
+00:40:00,656 --> 00:40:01,322
+Which is another reason that
+
+577
+00:40:01,456 --> 00:40:03,911
+I think we should save
+our biggest missiles for them.
+
+578
+00:40:04,912 --> 00:40:07,084
+We also may be underestimating
+the amount of firepower
+
+579
+00:40:07,216 --> 00:40:08,263
+we're gonna need here.
+
+580
+00:40:08,401 --> 00:40:12,808
+Colonel Beck has targeted
+for 500 missions in his career.
+
+581
+00:40:12,945 --> 00:40:15,847
+General, we're not talking about
+a surgical strike on Baghdad.
+
+582
+00:40:15,985 --> 00:40:18,123
+You're trying to pulverize
+a giant rock
+
+583
+00:40:18,257 --> 00:40:20,079
+that's four times
+the size of Manhattan into
+
+584
+00:40:20,208 --> 00:40:22,445
+tiny little pieces small enough
+so the fallout,
+
+585
+00:40:22,576 --> 00:40:25,959
+if we're lucky enough to hit it,
+doesn't kill us anyway.
+
+586
+00:40:26,096 --> 00:40:28,714
+We got one chance at this thing.
+I think we all better get it right.
+
+587
+00:40:32,305 --> 00:40:36,560
+We'll take that under advisement.
+I want you to get your numbers straight.
+
+588
+00:40:41,649 --> 00:40:42,183
+Hello.
+
+589
+00:40:46,160 --> 00:40:47,655
+What? Where?
+
+590
+00:40:48,113 --> 00:40:50,796
+Where?! I'm coming.
+
+591
+00:41:03,729 --> 00:41:05,136
+Hey, how ya holdin' up?
+
+592
+00:41:05,393 --> 00:41:05,840
+I'm fine.
+
+593
+00:41:05,969 --> 00:41:09,318
+Thanks for checkin' in
+and thanks for the wheels.
+
+594
+00:41:09,649 --> 00:41:10,248
+I owe ya.
+
+595
+00:41:10,609 --> 00:41:13,805
+You're gonna be putting my kids
+through college after they fire my ass.
+
+596
+00:41:15,537 --> 00:41:17,992
+You won't get fired.
+I'll get Finnegan to vouch for you.
+
+597
+00:41:18,481 --> 00:41:20,369
+All right. I trust you, handsome.
+
+598
+00:41:21,713 --> 00:41:25,292
+You're the woman of my dreams,
+Trish. Gotta go.
+
+599
+00:41:45,073 --> 00:41:45,869
+Hello?
+
+600
+00:41:48,017 --> 00:41:48,911
+Hola.
+
+601
+00:41:52,274 --> 00:41:53,135
+Hello.
+
+602
+00:41:55,985 --> 00:41:56,814
+Hola.
+
+603
+00:42:02,801 --> 00:42:03,630
+Hello.
+
+604
+00:42:07,538 --> 00:42:08,432
+Hola.
+
+605
+00:42:16,978 --> 00:42:20,622
+I'm sorry.
+I didn't see you. No Io vi.
+
+606
+00:42:20,882 --> 00:42:22,376
+Ah, Americana.
+
+607
+00:42:22,706 --> 00:42:24,168
+Si. Yes.
+
+608
+00:42:24,850 --> 00:42:25,515
+I have to get to
+
+609
+00:42:25,650 --> 00:42:28,170
+Jet Propulsion Laboratories
+in Los Angeles.
+
+610
+00:42:28,306 --> 00:42:30,030
+There's information on this computer
+
+611
+00:42:30,162 --> 00:42:33,904
+that's very important
+the government needs.
+
+612
+00:42:34,034 --> 00:42:35,757
+L... I'm a scientist and I'm-
+
+613
+00:42:35,890 --> 00:42:39,087
+I'm working on the meteors
+that are... that are coming down.
+
+614
+00:42:39,218 --> 00:42:41,390
+It... it's very, very important.
+
+615
+00:42:41,522 --> 00:42:44,173
+This, uh, very, um,
+como se dice, importante?
+
+616
+00:42:44,306 --> 00:42:45,234
+Urgent, huh?
+
+617
+00:42:45,362 --> 00:42:46,475
+Si. Yes.
+
+618
+00:42:46,610 --> 00:42:48,715
+Why don't you just call them
+on the telefono?
+
+619
+00:42:48,882 --> 00:42:51,053
+Yes. Right!
+
+620
+00:42:51,186 --> 00:42:53,041
+Vamanos. Otro oficina.
+
+621
+00:42:55,026 --> 00:42:58,223
+We have... they have phones, uh,
+how you say, uh, long distance.
+
+622
+00:42:58,450 --> 00:42:59,312
+Oh, thank you.
+
+623
+00:42:59,570 --> 00:43:00,880
+Yeah. Office.
+
+624
+00:43:01,010 --> 00:43:01,839
+Okay.
+
+625
+00:43:13,746 --> 00:43:14,924
+- Ow, please.
+- What the hell, Carlo?
+
+626
+00:43:15,058 --> 00:43:17,447
+Ella estaba snooping around.
+She's alone.
+
+627
+00:43:17,586 --> 00:43:20,685
+Please. Please, please.
+I'm just trying to get to Los Angeles.
+
+628
+00:43:21,395 --> 00:43:22,704
+She's kinda cute, huh?
+
+629
+00:43:36,147 --> 00:43:38,635
+I mean, like this meteor thing,
+I mean, sure, I'm worried.
+
+630
+00:43:38,771 --> 00:43:41,618
+I mean, who wouldn't be?
+But it's kind of exciting, you know?
+
+631
+00:43:41,875 --> 00:43:43,119
+I mean, I'm no crazy,
+
+632
+00:43:43,251 --> 00:43:46,600
+but I like a little adventure
+every now and then.
+
+633
+00:43:50,803 --> 00:43:53,673
+So are you married?
+
+634
+00:43:54,899 --> 00:43:55,760
+Yes.
+
+635
+00:43:56,755 --> 00:43:57,682
+Happily?
+
+636
+00:43:59,412 --> 00:44:01,070
+I guess I could tell you that.
+
+637
+00:44:01,491 --> 00:44:02,352
+Yeah?
+
+638
+00:44:03,252 --> 00:44:04,681
+But then I'd have to kill you.
+
+639
+00:44:12,019 --> 00:44:15,315
+That was good!
+You actually had me on that one.
+
+640
+00:44:15,443 --> 00:44:16,653
+You'd have to kill me.
+
+641
+00:44:27,731 --> 00:44:28,779
+Casualty report.
+
+642
+00:44:28,948 --> 00:44:31,435
+Only 41 so far nationwide,
+which is a minor miracle.
+
+643
+00:44:31,667 --> 00:44:33,490
+Injuries are in the hundreds, sir.
+
+644
+00:44:33,620 --> 00:44:35,180
+Last batch was
+the second bus full of kids.
+
+645
+00:44:35,507 --> 00:44:36,336
+It's getting ugly.
+
+646
+00:44:37,396 --> 00:44:38,705
+General, here you go.
+
+647
+00:44:39,283 --> 00:44:41,323
+We need to get people underground.
+How are we comin' with that?
+
+648
+00:44:41,940 --> 00:44:44,209
+We've opened shelters
+in every conceivable location.
+
+649
+00:44:44,339 --> 00:44:46,892
+Underground parking lots,
+malls, old bomb shelters,
+
+650
+00:44:47,028 --> 00:44:48,653
+any tunnel
+that's not jammed with traffic.
+
+651
+00:44:48,787 --> 00:44:50,031
+Even a few working mine shafts.
+
+652
+00:44:50,164 --> 00:44:51,058
+And I've got word
+from the pentagon
+
+653
+00:44:51,188 --> 00:44:53,938
+so we'll open civilian access to
+subterranean facilities.
+
+654
+00:44:54,068 --> 00:44:54,864
+Mostly old missile storage in
+
+655
+00:44:54,995 --> 00:44:58,094
+Arkansas, Idaho, Iowa, and Kansas,
+and working on more, sir.
+
+656
+00:44:58,228 --> 00:45:00,116
+General,
+we've got an image on ground radar.
+
+657
+00:45:00,244 --> 00:45:01,357
+On screen, please.
+
+658
+00:45:03,892 --> 00:45:05,386
+Oh, my god, they're getting larger.
+
+659
+00:45:15,476 --> 00:45:17,003
+Which one of these is Kassandra?
+
+660
+00:45:17,236 --> 00:45:18,730
+We can't see kassandra yet.
+
+661
+00:45:19,476 --> 00:45:22,029
+All right, people, things are
+about to get a whole lot worse.
+
+662
+00:45:22,164 --> 00:45:23,626
+We need to get people underground,
+
+663
+00:45:23,764 --> 00:45:26,317
+and we need to get the National Guard
+out to guide them there.
+
+664
+00:45:26,452 --> 00:45:27,565
+More importantly, Colonel Beck.
+
+665
+00:45:27,700 --> 00:45:29,456
+Uh, missile deployment nearly complete.
+
+666
+00:45:29,812 --> 00:45:31,667
+We've got every
+major population center covered
+
+667
+00:45:31,796 --> 00:45:35,277
+with stingers and patriot batteries
+in the rural areas.
+
+668
+00:45:35,413 --> 00:45:37,780
+Roger that. Good work.
+Okay, people. Let's move!
+
+669
+00:45:39,797 --> 00:45:40,363
+Sir.
+
+670
+00:45:40,501 --> 00:45:41,067
+Did you find them?
+
+671
+00:45:41,204 --> 00:45:43,660
+The Mexican police
+found Dr. Lehman, sir.
+
+672
+00:45:44,085 --> 00:45:44,815
+Excellent.
+
+673
+00:45:45,076 --> 00:45:49,615
+They found him dead, sir.
+A suspected hit-and-run.
+
+674
+00:45:49,749 --> 00:45:51,025
+What about Imogene, his assistant?
+
+675
+00:45:51,157 --> 00:45:54,418
+They didn't find anyone else, sir.
+I'm sorry.
+
+676
+00:46:07,541 --> 00:46:10,443
+Move out! Steady twos. Let's go.
+
+677
+00:46:11,444 --> 00:46:13,681
+Roger, we're in position.
+Permission to fire.
+
+678
+00:46:14,037 --> 00:46:15,662
+Charlie 11, Charlie 11.
+
+679
+00:46:15,797 --> 00:46:18,830
+This is Charlie 01-.
+Have visual contact.
+
+680
+00:46:20,533 --> 00:46:22,638
+Let's go!
+Roger, 22, we've got inner...
+
+681
+00:46:28,789 --> 00:46:29,934
+What the hell?
+
+682
+00:46:41,429 --> 00:46:42,476
+What's the problem, officer?
+
+683
+00:46:42,677 --> 00:46:43,343
+You'll have to turn back
+
+684
+00:46:43,477 --> 00:46:45,102
+and exit at that detour sign you
+just ignored.
+
+685
+00:46:45,269 --> 00:46:46,611
+That'll lead you to a pick-up point.
+
+686
+00:46:46,741 --> 00:46:48,148
+They'll take you
+to a shelter from there.
+
+687
+00:46:48,566 --> 00:46:50,158
+I'm sorry, but that's unacceptable,
+all right?
+
+688
+00:46:50,294 --> 00:46:52,017
+Shut up. Do as he says.
+
+689
+00:47:21,494 --> 00:47:24,308
+We have a mass casualty accident.
+A spillover at Miami General.
+
+690
+00:47:24,565 --> 00:47:25,067
+How many?
+
+691
+00:47:25,269 --> 00:47:26,895
+Seven children. A school bus.
+
+692
+00:47:27,574 --> 00:47:30,062
+Christ. Uh, how far away are they?
+
+693
+00:47:30,198 --> 00:47:30,797
+They're here?
+
+694
+00:47:31,350 --> 00:47:33,390
+Here? Did they forgot to call ahead?
+
+695
+00:47:33,526 --> 00:47:36,875
+Well, the phones are screwed up.
+The radios are messy. Chelsea.
+
+696
+00:47:37,014 --> 00:47:38,672
+What? What?
+
+697
+00:47:39,286 --> 00:47:42,766
+The bus... it's from Michael's school.
+
+698
+00:47:44,406 --> 00:47:45,300
+God.
+
+699
+00:47:49,974 --> 00:47:53,552
+Okay, baby is hypo, 90 over 66.
+Pulse is tachy. Internal injuries.
+
+700
+00:47:53,782 --> 00:47:57,295
+I've got two units of plasma IV.
+Push and prep for surgery. Go.
+
+701
+00:48:05,527 --> 00:48:06,475
+Oh, god.
+
+702
+00:48:11,639 --> 00:48:14,094
+180 over 90. resp. Is shallow,
+but pulse is holding up.
+
+703
+00:48:14,294 --> 00:48:14,926
+Possible concussion.
+
+704
+00:48:15,063 --> 00:48:17,299
+He's been out... doctor.
+
+705
+00:48:18,711 --> 00:48:20,566
+Chelsea, what do we do?
+
+706
+00:48:20,694 --> 00:48:23,923
+My baby. Oh, my baby.
+
+707
+00:48:24,055 --> 00:48:25,102
+Dr. Hapscomb.
+
+708
+00:48:25,910 --> 00:48:30,417
+Uh, ten units of saline IV push,
+x-ray and cat scan.
+
+709
+00:48:30,679 --> 00:48:32,370
+Move! Next patient.
+
+710
+00:48:41,047 --> 00:48:44,942
+Oh. Oh, crap. The gas.
+
+711
+00:48:53,047 --> 00:48:55,218
+God, I'm such an idiot.
+
+712
+00:48:55,383 --> 00:48:56,310
+You hadn't filled up?
+
+713
+00:48:56,439 --> 00:48:58,511
+No, I mean everything
+was just so crazy,
+
+714
+00:48:58,647 --> 00:49:00,687
+and I just...
+just wanted to get home.
+
+715
+00:49:00,823 --> 00:49:02,863
+You passed two or three gas stations.
+
+716
+00:49:03,095 --> 00:49:07,186
+I know. Kind of funny, you know.
+
+717
+00:49:07,832 --> 00:49:09,719
+- Shut up.
+- It's just kind of funny.
+
+718
+00:49:09,847 --> 00:49:11,091
+I mean, here I am...
+
+719
+00:49:11,223 --> 00:49:14,223
+- Shut the hell up.
+- Get off me.
+
+720
+00:49:32,215 --> 00:49:33,677
+Hey, get you want to
+bag these things, please?
+
+721
+00:49:33,815 --> 00:49:34,415
+All right.
+
+722
+00:49:35,672 --> 00:49:38,061
+All right. This is ridiculous.
+We're going as fast as we can, sir.
+
+723
+00:49:38,199 --> 00:49:40,654
+Well, you're not going fast enough.
+I gotta get home to my kids.
+
+724
+00:49:40,824 --> 00:49:41,391
+Can we go home?
+
+725
+00:49:41,528 --> 00:49:42,291
+Hush.
+
+726
+00:49:43,640 --> 00:49:44,785
+Excuse me. Come on.
+
+727
+00:49:45,431 --> 00:49:49,839
+Sir, you didn't pay for that.
+Sir, freeze!
+
+728
+00:49:52,792 --> 00:49:55,825
+Please, put those things down,
+and get out.
+
+729
+00:49:56,024 --> 00:49:57,039
+Man, I got kids.
+
+730
+00:49:57,176 --> 00:49:58,124
+Let him go!
+
+731
+00:49:58,263 --> 00:49:58,994
+Stop.
+
+732
+00:49:59,127 --> 00:50:02,608
+Please. What are you gonna do,
+shoot me over two gallons of water?
+
+733
+00:50:05,304 --> 00:50:06,929
+No, but I sure the hell will.
+
+734
+00:50:07,863 --> 00:50:09,936
+We ain't gonna put up
+with any of this thievery.
+
+735
+00:50:11,192 --> 00:50:13,047
+We're not gonna tolerate
+any lawlessness.
+
+736
+00:50:13,592 --> 00:50:15,894
+That's right, Dwight.
+You're absolutely right.
+
+737
+00:50:16,024 --> 00:50:17,366
+That's why you need to go home.
+
+738
+00:50:18,104 --> 00:50:20,308
+I'm just trying to lend
+a helping hand here, chief.
+
+739
+00:50:20,440 --> 00:50:22,774
+You've helped enough.
+Time to go home now.
+
+740
+00:50:23,160 --> 00:50:25,910
+And if I see either of you boys
+with your pea-shooters out again,
+
+741
+00:50:26,200 --> 00:50:30,094
+I will confiscate them, and I will
+melt them down for scrap iron.
+
+742
+00:50:35,993 --> 00:50:37,105
+Get him to the hospital.
+
+743
+00:50:37,624 --> 00:50:39,828
+When he's up to it,
+I suggest he press charges.
+
+744
+00:50:39,960 --> 00:50:40,724
+Yes, sir.
+
+745
+00:50:43,673 --> 00:50:45,615
+Things are starting to
+fall apart here.
+
+746
+00:50:46,201 --> 00:50:48,568
+You know, I mean no disrespect,
+but you're not getting any younger,
+
+747
+00:50:48,696 --> 00:50:51,631
+and this place was being robbed,
+and you came in way late.
+
+748
+00:50:51,768 --> 00:50:53,808
+Please, just go. Okay, I'll settle...
+
+749
+00:50:53,944 --> 00:50:55,766
+Hey, nobody's talking to you.
+
+750
+00:50:59,641 --> 00:51:02,707
+Now get him home.
+He needs to cool off.
+
+751
+00:51:03,033 --> 00:51:03,982
+Get him some ice.
+
+752
+00:51:09,273 --> 00:51:12,950
+There's no need for that.
+You know, he's got a point.
+
+753
+00:51:13,337 --> 00:51:15,792
+We're spending a lot of time
+tearing each other apart.
+
+754
+00:51:16,376 --> 00:51:19,824
+We need to lend each other a hand.
+Now, I want you all to go home.
+
+755
+00:51:19,960 --> 00:51:22,262
+I want you to pick up your kids,
+some food, some blankets,
+
+756
+00:51:22,392 --> 00:51:23,538
+whatever medicine you need,
+
+757
+00:51:23,673 --> 00:51:25,877
+and then head over to
+the fallout shelter at the high school.
+
+758
+00:51:27,129 --> 00:51:28,144
+You'll be safe there.
+
+759
+00:51:28,633 --> 00:51:30,007
+We'll do everything
+we can to make you comfortable.
+
+760
+00:51:30,137 --> 00:51:33,170
+And remember,
+we're all in this together.
+
+761
+00:51:33,849 --> 00:51:35,376
+We need to look out for each other.
+
+762
+00:51:35,513 --> 00:51:37,401
+So tell your friends
+and tell your neighbors.
+
+763
+00:51:37,625 --> 00:51:40,691
+Let's help each other.
+Go on home.
+
+764
+00:51:42,745 --> 00:51:45,396
+Let's do what he said.
+You can pay me later.
+
+765
+00:51:46,073 --> 00:51:47,251
+Here's something for your boys.
+
+766
+00:51:48,569 --> 00:51:50,194
+Just go home, everybody. It's okay.
+
+767
+00:51:56,538 --> 00:52:00,116
+In what experts are calling
+a one-in-a-million tragedy,
+
+768
+00:52:00,249 --> 00:52:03,119
+a meteor has struck down
+a passenger plane,
+
+769
+00:52:03,354 --> 00:52:07,063
+killing all passengers and crew.
+
+770
+00:52:07,481 --> 00:52:09,423
+The real tragedy is
+that the aircraft was
+
+771
+00:52:09,562 --> 00:52:11,122
+struck while trying to land minutes
+
+772
+00:52:11,257 --> 00:52:15,218
+after the FAA suspended
+all air traffic in Northern America
+
+773
+00:52:15,386 --> 00:52:17,458
+because of the meteor storm
+that has turned this
+
+774
+00:52:17,594 --> 00:52:20,943
+into one of the most tragic days
+in modern history.
+
+775
+00:52:21,082 --> 00:52:22,129
+Sir, incoming.
+
+776
+00:52:22,265 --> 00:52:24,153
+Right over downtown LA.
+And it's a big one.
+
+777
+00:52:24,281 --> 00:52:25,907
+Patch it through to
+the ground commander.
+
+778
+00:52:35,386 --> 00:52:37,012
+Let's go!
+Alpha team, you're main effort!
+
+779
+00:52:37,146 --> 00:52:38,837
+Bravo team,
+get ready to shoot if they miss!
+
+780
+00:52:38,970 --> 00:52:39,636
+Let's go!
+
+781
+00:52:41,946 --> 00:52:43,801
+We're hot! Line 'em up!
+
+782
+00:52:54,906 --> 00:52:55,669
+They nailed it!
+
+783
+00:52:58,554 --> 00:52:59,481
+Good shootin', army!
+
+784
+00:53:07,162 --> 00:53:09,170
+You're a glass-half-empty
+kind of guy, aren't you?
+
+785
+00:53:10,778 --> 00:53:13,233
+We don't have enough missiles
+to knock them all down.
+
+786
+00:53:13,786 --> 00:53:16,786
+The United States arsenal
+has a lot of assets.
+
+787
+00:53:18,298 --> 00:53:20,370
+You better save
+most of them for Kassandra,
+
+788
+00:53:20,538 --> 00:53:21,913
+or we're all dead, no matter what.
+
+789
+00:53:25,115 --> 00:53:26,609
+How low is the trajectory?
+
+790
+00:53:26,906 --> 00:53:27,834
+Working on it.
+
+791
+00:53:39,195 --> 00:53:42,740
+How can any man say
+this is not the lord's wrath?
+
+792
+00:53:43,035 --> 00:53:46,166
+Repent now, for the hour of
+judgment is at hand!
+
+793
+00:53:47,162 --> 00:53:50,229
+Oh, I have gazed through a glass
+that has shown me the future.
+
+794
+00:53:50,330 --> 00:53:52,502
+This is the emergency broadcast service.
+
+795
+00:53:52,635 --> 00:53:56,017
+Stand by for official instructions
+from state and federal authorities.
+
+796
+00:53:56,155 --> 00:53:57,300
+All roads and highways,
+
+797
+00:53:57,435 --> 00:53:59,988
+including the Eisenhower
+interstate highway system,
+
+798
+00:54:00,123 --> 00:54:02,294
+are closed to all traffic
+until further notice,
+
+799
+00:54:02,427 --> 00:54:04,118
+with the exception of public safety,
+
+800
+00:54:04,251 --> 00:54:06,804
+emergency medical,
+and military vehicles.
+
+801
+00:54:06,907 --> 00:54:08,946
+All citizens are strongly urged...
+
+802
+00:54:31,387 --> 00:54:32,631
+Hey, doctor, doctor.
+
+803
+00:54:32,955 --> 00:54:34,482
+Over here, this way.
+Put her in this room.
+
+804
+00:54:34,971 --> 00:54:36,051
+Okay, hurry up.
+We're gonna lose him.
+
+805
+00:54:36,860 --> 00:54:38,354
+Local burns on, uh, extremities.
+
+806
+00:54:41,723 --> 00:54:42,770
+Get a line in.
+
+807
+00:54:43,611 --> 00:54:44,757
+Did you check on Michael?
+
+808
+00:54:45,979 --> 00:54:47,354
+Yeah, his vitals are stable.
+
+809
+00:54:47,483 --> 00:54:50,582
+Cat scan was negative.
+Look, do you want...
+
+810
+00:54:50,715 --> 00:54:51,609
+No, not right now.
+
+811
+00:54:51,739 --> 00:54:55,088
+I gotta finish up here.
+Michael's stable.
+
+812
+00:54:55,356 --> 00:54:57,047
+He's luckier than this poor kid.
+
+813
+00:55:36,956 --> 00:55:37,938
+Now, the shirt.
+
+814
+00:55:39,484 --> 00:55:43,062
+Please, if I don't get to JPL,
+we're all gonna die.
+
+815
+00:55:44,732 --> 00:55:47,350
+The camiseta! The shirt!
+
+816
+00:55:47,612 --> 00:55:50,994
+Okay. Okay, okay, okay.
+
+817
+00:55:51,741 --> 00:55:54,905
+Please, please,
+you don't have to do this.
+
+818
+00:55:56,316 --> 00:55:57,691
+Please, please.
+
+819
+00:55:58,428 --> 00:56:01,527
+Please, don't.
+We have to get to shelter.
+
+820
+00:56:01,693 --> 00:56:02,587
+Now the rest.
+
+821
+00:56:04,124 --> 00:56:05,651
+Do you wanna die?
+
+822
+00:56:05,916 --> 00:56:09,942
+If I die today,
+I will die con un smile in my face.
+
+823
+00:56:11,612 --> 00:56:14,100
+Screw it. I'll do it myself.
+
+824
+00:56:16,924 --> 00:56:18,648
+On your knees, now.
+
+825
+00:57:44,670 --> 00:57:47,801
+Let's go, move up! Go! Go!
+
+826
+00:57:48,382 --> 00:57:49,908
+Tell 'em we're ready to go with 21, go!
+
+827
+00:57:50,110 --> 00:57:52,249
+- Yes, sir!
+- Hurry along!
+
+828
+00:57:52,605 --> 00:57:53,849
+Bring 'er up. Let's see it.
+
+829
+00:58:00,254 --> 00:58:01,017
+On target!
+
+830
+00:58:02,430 --> 00:58:03,706
+Let's go, come on!
+
+831
+00:58:17,534 --> 00:58:19,738
+Emergency services have been
+stretched to the limit.
+
+832
+00:58:20,510 --> 00:58:21,852
+I can't believe
+they made me leave my 'vette.
+
+833
+00:58:21,982 --> 00:58:23,029
+Squad, fall in.
+
+834
+00:58:23,166 --> 00:58:25,403
+Shut the hell up about
+your damn car already.
+
+835
+00:58:27,582 --> 00:58:30,484
+Sorry, folks!
+We just got word from the shelter.
+
+836
+00:58:30,622 --> 00:58:32,029
+That's all the room we've got.
+
+837
+00:58:32,350 --> 00:58:33,179
+Oh, god. They can't.
+
+838
+00:58:33,310 --> 00:58:36,409
+That's not right!
+You can't just leave us out here!
+
+839
+00:58:36,542 --> 00:58:37,371
+We're way overcrowded,
+
+840
+00:58:37,502 --> 00:58:40,350
+and there's plenty of room at
+the shelter just over in Carville.
+
+841
+00:58:40,478 --> 00:58:44,188
+I can't walk 15 miles!
+I've got two kids.
+
+842
+00:58:44,479 --> 00:58:46,169
+Please, officer, please.
+
+843
+00:58:46,303 --> 00:58:48,474
+Come on. Leave it alone.
+
+844
+00:58:48,702 --> 00:58:50,710
+Sir, sir!
+
+845
+00:58:51,390 --> 00:58:52,765
+Miss, you need to
+get back on the truck.
+
+846
+00:58:52,894 --> 00:58:55,229
+You can let her in.
+I'm sure we can squeeze her in.
+
+847
+00:58:55,359 --> 00:58:57,814
+The shelter is dangerously
+overcrowded as it is.
+
+848
+00:58:57,950 --> 00:58:58,812
+Please.
+
+849
+00:58:58,943 --> 00:59:01,626
+Folks, the sooner you get moving,
+the sooner you'll get there.
+
+850
+00:59:01,759 --> 00:59:02,490
+Come on.
+
+851
+00:59:10,239 --> 00:59:12,660
+You get on the truck.
+We'll give you our place.
+
+852
+00:59:13,150 --> 00:59:13,979
+Oh, honey, I couldn't.
+
+853
+00:59:14,110 --> 00:59:16,696
+No, we can walk miles.
+You can't.
+
+854
+00:59:18,399 --> 00:59:19,348
+Come on, let's go.
+
+855
+00:59:19,455 --> 00:59:20,251
+What?
+
+856
+00:59:20,926 --> 00:59:24,855
+Let her on the truck.
+My boyfriend and I are leaving.
+
+857
+00:59:25,087 --> 00:59:25,981
+There are three of them.
+
+858
+00:59:27,647 --> 00:59:28,661
+It's a baby.
+
+859
+00:59:28,927 --> 00:59:30,301
+You're being ridiculous.
+
+860
+00:59:30,431 --> 00:59:33,976
+Don't worry, you just go with him.
+We'll be fine.
+
+861
+00:59:34,431 --> 00:59:36,820
+Come on, it's not our fault
+that we got here first.
+
+862
+00:59:41,471 --> 00:59:44,952
+Please, someone,
+this lady has kids.
+
+863
+00:59:45,183 --> 00:59:46,044
+Jenny!
+
+864
+00:59:52,800 --> 00:59:53,912
+You're making a scene.
+
+865
+00:59:56,800 --> 00:59:57,694
+We'll go.
+
+866
+01:00:01,759 --> 01:00:05,054
+God bless you. God bless you!
+
+867
+01:00:14,591 --> 01:00:15,540
+Move out!
+
+868
+01:00:16,671 --> 01:00:18,395
+Do you think we'll make it
+to Carville by nightfall?
+
+869
+01:00:18,624 --> 01:00:22,618
+Not with the freeway shut down.
+We should find someplace to crash.
+
+870
+01:00:25,759 --> 01:00:26,872
+I know somewhere.
+
+871
+01:00:27,488 --> 01:00:29,822
+- Oh, yeah?
+- They've got a hot tub.
+
+872
+01:00:51,584 --> 01:00:52,445
+Dad, hey.
+
+873
+01:00:53,504 --> 01:00:56,155
+Oh, thank god. Are you okay?
+
+874
+01:01:01,664 --> 01:01:04,250
+Mom, come on. It's cool, I'm okay.
+
+875
+01:01:04,416 --> 01:01:05,398
+Hey.
+
+876
+01:01:07,712 --> 01:01:12,284
+He's fine. He just...
+he just has a minor concussion.
+
+877
+01:01:13,568 --> 01:01:15,423
+I knew that thick head
+was good for something.
+
+878
+01:01:15,936 --> 01:01:17,016
+Very funny, dad.
+
+879
+01:01:19,809 --> 01:01:20,889
+I'm sorry, Mr. Hapscomb.
+
+880
+01:01:21,025 --> 01:01:21,756
+What's wrong?
+
+881
+01:01:22,112 --> 01:01:24,927
+The supply truck. It didn't come.
+No answer in the company.
+
+882
+01:01:25,088 --> 01:01:26,615
+Oh, crap.
+
+883
+01:01:26,912 --> 01:01:27,774
+What is it?
+
+884
+01:01:27,937 --> 01:01:31,232
+Today, of all days, we were supposed to
+be restocked on half our meds.
+
+885
+01:01:31,392 --> 01:01:32,374
+But the truck never showed.
+
+886
+01:01:32,768 --> 01:01:34,361
+I guess, given everything...
+
+887
+01:01:34,593 --> 01:01:37,854
+and we're out of really basic stuff,
+like penicillin, disinfectant.
+
+888
+01:01:37,985 --> 01:01:40,156
+I already shouldn't be performing
+half the procedures I'm doing.
+
+889
+01:01:40,288 --> 01:01:41,597
+What about the pharmacy?
+
+890
+01:01:41,825 --> 01:01:42,839
+What do you mean?
+
+891
+01:01:43,168 --> 01:01:45,340
+Grangers.
+Their daughter's in my class.
+
+892
+01:01:46,048 --> 01:01:47,510
+Wouldn't they have
+some of the stuff you need?
+
+893
+01:01:47,712 --> 01:01:51,291
+Yeah, yeah. I don't know
+why I didn't think of that.
+
+894
+01:01:51,425 --> 01:01:52,985
+Well, you've been busy, honey.
+
+895
+01:01:53,089 --> 01:01:53,983
+Do you think they're open?
+
+896
+01:01:54,465 --> 01:01:56,887
+Well, I know Dan Granger.
+He'll definitely help out regardless.
+
+897
+01:01:57,025 --> 01:01:57,690
+Just make a list.
+
+898
+01:01:57,825 --> 01:02:02,811
+Your father is a genius.
+I love you. I love you!
+
+899
+01:02:06,337 --> 01:02:07,384
+Get a room, people.
+
+900
+01:02:11,041 --> 01:02:13,278
+You make a list.
+I'll go call ahead to the pharmacy.
+
+901
+01:02:13,825 --> 01:02:15,102
+Get some rest, okay?
+
+902
+01:02:17,217 --> 01:02:18,199
+You take care of your mom.
+
+903
+01:02:46,114 --> 01:02:48,864
+Come on. Move!
+
+904
+01:02:50,658 --> 01:02:51,356
+Damn it!
+
+905
+01:03:29,442 --> 01:03:32,192
+Stop your vehicle, ma'am.
+Keep your hands where I can see 'em.
+
+906
+01:03:35,746 --> 01:03:36,542
+What's your hurry?
+
+907
+01:03:37,378 --> 01:03:39,233
+I'm an American citizen, and I'm...
+
+908
+01:03:39,362 --> 01:03:40,704
+Are you a police officer, ma'am?
+
+909
+01:03:40,994 --> 01:03:41,822
+No, but...
+
+910
+01:03:41,954 --> 01:03:43,328
+Step out of the car, please.
+
+911
+01:03:43,426 --> 01:03:44,222
+You don't understand.
+
+912
+01:03:44,386 --> 01:03:45,728
+Now, ma'am.
+
+913
+01:03:49,762 --> 01:03:51,191
+My name is Imogene O'Neill.
+
+914
+01:03:51,491 --> 01:03:55,168
+And, um, I'm working on
+the meteor task force so...
+
+915
+01:03:55,298 --> 01:03:56,542
+There's a gun in the car.
+
+916
+01:03:56,674 --> 01:03:57,056
+What?
+
+917
+01:03:57,186 --> 01:03:58,332
+She's got a firearm, Johnny!
+
+918
+01:03:58,467 --> 01:03:59,961
+No, no, no. That is not my gun.
+
+919
+01:04:00,098 --> 01:04:02,848
+Would you turn around
+and face the vehicle, please?
+
+920
+01:04:03,778 --> 01:04:05,917
+Turn around,
+face the vehicle, please.
+
+921
+01:04:06,050 --> 01:04:06,366
+But...
+
+922
+01:04:06,499 --> 01:04:09,598
+Face the vehicle. Put your hands out.
+Spread your legs.
+
+923
+01:04:09,731 --> 01:04:12,251
+Please, I have to get to a phone.
+
+924
+01:04:12,418 --> 01:04:14,207
+I have coordinates
+that Dr. Chetwyn-
+
+925
+01:04:14,338 --> 01:04:17,240
+the government needs to
+shoot down the asteroid.
+
+926
+01:04:17,603 --> 01:04:21,378
+All right, she's clean.
+May I see your passport, please?
+
+927
+01:04:21,570 --> 01:04:26,077
+Yes, of course.
+Damn it. My jacket.
+
+928
+01:04:26,307 --> 01:04:28,795
+My jacket, I left my jacket
+back at the police station.
+
+929
+01:04:29,187 --> 01:04:33,148
+I see. Why are you driving
+a Mexican police car.
+
+930
+01:04:33,603 --> 01:04:38,905
+Because I was... I was attacked.
+By these two men.
+
+931
+01:04:39,171 --> 01:04:42,400
+And... and they killed these
+two officers back at the police station.
+
+932
+01:04:42,691 --> 01:04:44,960
+All right, uh, you're gonna
+have to come with me, please.
+
+933
+01:04:45,091 --> 01:04:47,426
+No, you're not listening to
+me here, okay?!
+
+934
+01:04:47,555 --> 01:04:48,733
+We don't have time!
+
+935
+01:04:48,867 --> 01:04:51,201
+Then we'd better get
+this sorted out quickly.
+
+936
+01:05:32,900 --> 01:05:33,882
+We're getting slammed.
+
+937
+01:05:34,468 --> 01:05:36,323
+The frequency of the rocks coming
+through the atmosphere is increasing,
+
+938
+01:05:36,451 --> 01:05:37,117
+and they're getting bigger.
+
+939
+01:05:37,251 --> 01:05:38,560
+The hits are measuring
+on the Richter scale
+
+940
+01:05:39,171 --> 01:05:40,284
+and we're starting to miss.
+
+941
+01:05:41,060 --> 01:05:42,620
+Christ. Casualty count?
+
+942
+01:05:42,852 --> 01:05:43,615
+It's over a thousand.
+
+943
+01:05:44,196 --> 01:05:46,465
+Sir, we got two monsters
+heading for Huntsville, New York,
+
+944
+01:05:46,596 --> 01:05:47,774
+and no patriot missiles in range.
+
+945
+01:05:47,908 --> 01:05:48,257
+Population?
+
+946
+01:05:48,388 --> 01:05:49,948
+17,000. I grew up a couple
+towns from there.
+
+947
+01:05:50,084 --> 01:05:52,572
+I got a sub off the coast.
+Saab missiles will vaporize this.
+
+948
+01:05:52,708 --> 01:05:53,504
+Wait, wait, wait... once again,
+
+949
+01:05:53,636 --> 01:05:55,970
+we can't afford to
+waste the big missiles.
+
+950
+01:05:56,099 --> 01:05:58,042
+We gotta save everything
+we got for kassandra herself!
+
+951
+01:05:58,180 --> 01:06:00,667
+So, what, we're just supposed to
+let 17,000 people die?
+
+952
+01:06:00,804 --> 01:06:01,752
+I don't know!
+
+953
+01:06:01,892 --> 01:06:03,102
+But what good is saving 70,000
+
+954
+01:06:03,236 --> 01:06:04,697
+you lose the whole planet
+in the morning?!
+
+955
+01:06:04,836 --> 01:06:06,527
+So aren't most people
+in shelters by now?
+
+956
+01:06:06,660 --> 01:06:07,772
+Some... it's taking time.
+
+957
+01:06:07,908 --> 01:06:10,330
+Sir, I have two more heading for towns
+in North Dakota and Minnesota.
+
+958
+01:06:10,468 --> 01:06:11,930
+Same scenario... out of patriot range.
+
+959
+01:06:12,068 --> 01:06:12,831
+All right, general, you cannot...
+
+960
+01:06:12,964 --> 01:06:13,979
+Enough!
+
+961
+01:06:14,437 --> 01:06:16,608
+The next thing I want to hear
+from you are the coordinates for
+
+962
+01:06:16,740 --> 01:06:20,515
+where to hit the asteroid.
+I'm sorry.
+
+963
+01:06:20,645 --> 01:06:24,256
+But I will not sacrifice
+all these people.
+
+964
+01:06:26,788 --> 01:06:29,920
+Take whatever you need,
+knock down anything you can.
+
+965
+01:06:30,052 --> 01:06:32,735
+You heard the man...
+all subs, all silos, spit 'em up!
+
+966
+01:07:06,341 --> 01:07:09,024
+To determine...
+
+967
+01:07:12,613 --> 01:07:15,482
+Keep movin'.
+Take the stairway to the right.
+
+968
+01:07:15,621 --> 01:07:17,444
+There's food and water down there.
+You'll be safe.
+
+969
+01:07:17,765 --> 01:07:18,910
+I got these from Myrna at the motel.
+
+970
+01:07:19,045 --> 01:07:20,801
+Good work. Get 'em down there.
+We're filling up fast.
+
+971
+01:07:20,933 --> 01:07:21,565
+You got it.
+
+972
+01:07:25,573 --> 01:07:26,402
+Uh, here.
+
+973
+01:07:29,957 --> 01:07:30,885
+Here you go, ma'am.
+
+974
+01:07:33,285 --> 01:07:34,692
+First stairway to the right,
+sweetheart.
+
+975
+01:07:34,789 --> 01:07:35,552
+Chief, he's got a gun!
+
+976
+01:07:35,909 --> 01:07:38,757
+You think you can sucker punch me
+and get away with it, old man?
+
+977
+01:07:38,821 --> 01:07:41,570
+No sir! You do not disrespect me.
+
+978
+01:07:41,957 --> 01:07:47,707
+Son... it may seem to you like you
+have the drop on me,
+
+979
+01:07:48,518 --> 01:07:50,689
+but I can assure you,
+it only seems that way.
+
+980
+01:07:51,846 --> 01:07:53,537
+Don't forget, I do this for a living.
+
+981
+01:07:54,853 --> 01:07:56,544
+So I can guarantee you this.
+
+982
+01:07:57,029 --> 01:08:01,764
+First, I will disarm you,
+and then I will shoot you dead.
+
+983
+01:08:03,429 --> 01:08:04,891
+You don't want that, now, do you?
+
+984
+01:08:10,246 --> 01:08:10,977
+Do you?
+
+985
+01:08:15,750 --> 01:08:17,179
+You want respect, Dwight?
+
+986
+01:08:18,566 --> 01:08:19,646
+You got to earn it.
+
+987
+01:08:24,805 --> 01:08:28,799
+Well, there's your chance.
+That sound... that's our challenge.
+
+988
+01:08:28,934 --> 01:08:31,039
+That's the good lord
+throwin' down his gauntlet,
+
+989
+01:08:31,270 --> 01:08:33,725
+askin' us who we are
+and what we're made of.
+
+990
+01:08:36,646 --> 01:08:39,745
+He wants to know what we're capable
+of doing in the face of adversity.
+
+991
+01:08:40,038 --> 01:08:42,591
+Whether we'll stick together,
+or whether we'll just fall apart.
+
+992
+01:08:43,814 --> 01:08:46,203
+Now, all of us could be
+dead here in a split second.
+
+993
+01:08:46,406 --> 01:08:49,635
+But before we go,
+we each of us have to answer the call.
+
+994
+01:08:51,398 --> 01:08:52,642
+What's your answer, Dwight?
+
+995
+01:08:58,726 --> 01:08:59,457
+How can I help?
+
+996
+01:09:05,927 --> 01:09:06,854
+You made the right choice.
+
+997
+01:09:07,847 --> 01:09:09,854
+Lots of people downstairs
+need help getting set up.
+
+998
+01:09:33,830 --> 01:09:36,929
+I called your father myself,
+still no answer.
+
+999
+01:09:38,855 --> 01:09:42,652
+I'm sorry. Try to get some rest, okay?
+The two of you.
+
+1000
+01:09:54,471 --> 01:09:56,064
+My mom's a really good doctor.
+
+1001
+01:09:57,031 --> 01:09:59,813
+She's gonna fix him up. You'll see.
+
+1002
+01:10:03,880 --> 01:10:06,400
+TV just went out. God.
+
+1003
+01:10:06,535 --> 01:10:09,601
+- Mom? Mom! Mom!
+- I apologize.
+
+1004
+01:10:09,735 --> 01:10:13,314
+We are experiencing technical...
+technical difficulties.
+
+1005
+01:10:13,447 --> 01:10:14,789
+Again, federal off...
+
+1006
+01:10:14,919 --> 01:10:18,116
+are advising every...
+to get to a shelter.
+
+1007
+01:10:28,999 --> 01:10:29,860
+Maya...
+
+1008
+01:10:32,872 --> 01:10:34,694
+Ohh... Mr. Crowe?
+
+1009
+01:10:35,048 --> 01:10:36,903
+I didn't mean to scare you.
+Where's jenny?
+
+1010
+01:10:37,064 --> 01:10:40,992
+Uh, she went to the cabin
+for the weekend with Jeff.
+
+1011
+01:10:42,087 --> 01:10:43,581
+I just gave the address to
+your partner.
+
+1012
+01:10:44,488 --> 01:10:46,343
+Calvin was here already?
+
+1013
+01:10:47,272 --> 01:10:48,254
+How long ago?
+
+1014
+01:10:48,392 --> 01:10:51,010
+Uh... half an hour ago?
+
+1015
+01:10:51,112 --> 01:10:52,454
+And you told him where she was?
+
+1016
+01:10:52,776 --> 01:10:53,856
+Yeah, I'm sorry.
+
+1017
+01:10:53,992 --> 01:10:56,807
+He said you had your hands full
+and you asked him to get her home,
+
+1018
+01:10:56,935 --> 01:11:01,092
+what with the meteors and all.
+Doesn't he work with you?
+
+1019
+01:11:01,287 --> 01:11:04,964
+Yeah, yeah, it's okay.
+Um... do you have the address?
+
+1020
+01:11:05,096 --> 01:11:06,787
+Uh... here.
+
+1021
+01:11:13,544 --> 01:11:17,319
+All right, thanks.
+Shouldn't you been to the shelter?
+
+1022
+01:11:17,576 --> 01:11:18,405
+I'm on my way.
+
+1023
+01:11:19,272 --> 01:11:20,646
+All right, well, get a move on.
+
+1024
+01:11:55,593 --> 01:11:56,291
+Oh, my god.
+
+1025
+01:11:58,825 --> 01:12:01,792
+Ah, we are now officially out of meds.
+
+1026
+01:12:07,753 --> 01:12:12,259
+Okay. Okay, move! Everybody out!
+Everybody out! Out, out!
+
+1027
+01:12:23,817 --> 01:12:25,377
+Thanks for the help, pal.
+
+1028
+01:12:27,081 --> 01:12:28,029
+I really mean it.
+
+1029
+01:12:29,289 --> 01:12:30,816
+It was good of you
+to help a brother out.
+
+1030
+01:12:35,401 --> 01:12:36,263
+You're a good man.
+
+1031
+01:13:11,593 --> 01:13:13,284
+Are you people gonna
+come talk to me!
+
+1032
+01:13:21,001 --> 01:13:22,114
+You got quite a temper.
+
+1033
+01:13:24,137 --> 01:13:26,985
+We're all gonna die...
+unless you talk to me.
+
+1034
+01:13:27,113 --> 01:13:31,042
+I've been doing this job for years.
+First time I ever heard that.
+
+1035
+01:13:31,466 --> 01:13:33,288
+I am a scientist. I am working...
+
+1036
+01:13:33,417 --> 01:13:34,824
+Just hold on, ma'am.
+
+1037
+01:13:36,234 --> 01:13:40,904
+They say one of them meteors hit
+some computer routing thing in Nevada.
+
+1038
+01:13:41,705 --> 01:13:43,461
+So we got no internet at all.
+
+1039
+01:13:44,138 --> 01:13:46,439
+I can't check your identity
+until we're up and running.
+
+1040
+01:13:49,322 --> 01:13:50,271
+Do you know what happens
+
+1041
+01:13:50,442 --> 01:13:53,759
+when a class-one asteroid
+hits a class-one comet?
+
+1042
+01:13:54,442 --> 01:13:55,107
+No, ma'am.
+
+1043
+01:13:55,178 --> 01:13:56,553
+It gets knocked off course.
+
+1044
+01:13:56,970 --> 01:14:02,633
+Its trajectory becomes unknowable.
+Unless you know exactly how to look.
+
+1045
+01:14:05,547 --> 01:14:06,921
+And when it hits the earth...
+
+1046
+01:14:11,146 --> 01:14:13,121
+We all go home to the good lord.
+
+1047
+01:14:16,586 --> 01:14:17,731
+You're a man of faith.
+
+1048
+01:14:18,922 --> 01:14:23,145
+Look me in the eye
+and tell me I'm lying.
+
+1049
+01:14:24,426 --> 01:14:25,888
+Now you're playing me, miss.
+
+1050
+01:14:30,282 --> 01:14:33,381
+Wait! Wait.
+Lock me up, put me in a cell.
+
+1051
+01:14:33,514 --> 01:14:34,921
+Keep me here forever.
+I don't care!
+
+1052
+01:14:35,530 --> 01:14:37,156
+Just call Jet Propulsion laboratories.
+
+1053
+01:14:37,290 --> 01:14:39,657
+Tell them that you have
+Daniel Lehman's computer.
+
+1054
+01:14:39,787 --> 01:14:42,754
+You have the asymmetrical
+trajectory algorithm.
+
+1055
+01:14:42,891 --> 01:14:46,721
+I will write this down for you.
+Please, we're running out of time.
+
+1056
+01:14:49,323 --> 01:14:52,389
+I'll tell you what.
+I'll get you a phone.
+
+1057
+01:14:53,227 --> 01:14:54,154
+Thank you!
+
+1058
+01:14:54,603 --> 01:14:56,032
+You're really scared, aren't you?
+
+1059
+01:14:57,355 --> 01:14:58,881
+I'm terrified.
+
+1060
+01:15:03,403 --> 01:15:04,232
+Come on.
+
+1061
+01:15:09,323 --> 01:15:10,086
+Just take her out that way.
+
+1062
+01:15:10,667 --> 01:15:11,616
+Okay, thank God.
+
+1063
+01:15:13,195 --> 01:15:15,300
+Where are you going?
+Yeah, second floor is as stable.
+
+1064
+01:15:15,435 --> 01:15:16,515
+No, I have to get my son.
+
+1065
+01:15:43,404 --> 01:15:44,745
+The damage was not confined to
+
+1066
+01:15:44,876 --> 01:15:47,843
+the actual impact area
+as this spectacular point...
+
+1067
+01:15:47,979 --> 01:15:50,281
+I calculated the most
+likely course for Cassandra,
+
+1068
+01:15:51,084 --> 01:15:53,189
+I had flying shots
+but then no shots at all.
+
+1069
+01:15:53,612 --> 01:15:55,106
+It started in the early morning hours
+
+1070
+01:15:55,244 --> 01:15:58,211
+just after the San Clemente strike,
+firemen...
+
+1071
+01:15:58,347 --> 01:16:01,381
+We have about an
+11 minute window, 13 tops.
+
+1072
+01:16:01,644 --> 01:16:03,237
+She's about to enter the atmosphere
+
+1073
+01:16:03,372 --> 01:16:04,998
+and as you know
+we'll have it if we hit her too low.
+
+1074
+01:16:05,644 --> 01:16:07,499
+The plug is in, watch in five minutes.
+
+1075
+01:16:10,700 --> 01:16:12,227
+Mr. President? We're launched.
+
+1076
+01:16:12,331 --> 01:16:14,917
+Dr. Chetwyn, there's an image
+in the AOL in 19-30.
+
+1077
+01:16:15,084 --> 01:16:15,651
+Wait.
+
+1078
+01:16:16,044 --> 01:16:17,866
+Excuse me, Mr. President, what?
+
+1079
+01:16:17,996 --> 01:16:20,417
+It's Lehman's assistant,
+she may have an update.
+
+1080
+01:16:22,540 --> 01:16:23,172
+Imogene.
+
+1081
+01:16:23,308 --> 01:16:24,901
+I'm running
+the A-symmetrical algorithm
+
+1082
+01:16:25,036 --> 01:16:26,443
+on Cassandra's trajectory.
+
+1083
+01:16:26,604 --> 01:16:27,782
+I know, I know.
+I've been running them all day.
+
+1084
+01:16:27,916 --> 01:16:29,323
+The 3-D analytics don't hold up.
+
+1085
+01:16:29,452 --> 01:16:31,208
+These are big numbers,
+they are going off the chart.
+
+1086
+01:16:31,340 --> 01:16:32,965
+That's what Dr. Lehman
+was trying to tell you.
+
+1087
+01:16:33,100 --> 01:16:34,180
+He revised the algorithm.
+
+1088
+01:16:34,316 --> 01:16:35,210
+I've been trying to get this
+
+1089
+01:16:35,340 --> 01:16:37,228
+so you could plug it
+into your mainframe.
+
+1090
+01:16:37,516 --> 01:16:38,182
+Imogene.
+
+1091
+01:16:38,316 --> 01:16:39,745
+But we're going to
+have to rely on the laptop.
+
+1092
+01:16:39,884 --> 01:16:41,794
+I've used
+a much smaller settling ratio.
+
+1093
+01:16:41,933 --> 01:16:43,394
+No, no, we're waiting to launch.
+
+1094
+01:16:43,532 --> 01:16:44,994
+Will you just give me five minutes?
+
+1095
+01:16:45,132 --> 01:16:47,205
+I need the trajectory now.
+
+1096
+01:16:47,340 --> 01:16:49,380
+It's been hours since Dr. Lehman...
+
+1097
+01:16:50,188 --> 01:16:51,049
+At last we have the numbers.
+
+1098
+01:16:51,180 --> 01:16:52,838
+Am I holding the launch?
+
+1099
+01:16:53,389 --> 01:16:56,236
+- Imogene, now, now.
+- We're going in two minutes.
+
+1100
+01:16:56,364 --> 01:16:59,048
+Okay, here we go, here we go.
+
+1101
+01:17:00,525 --> 01:17:00,939
+I got it.
+
+1102
+01:17:01,069 --> 01:17:02,181
+Hold on, hold the launch,
+hold the launch.
+
+1103
+01:17:02,316 --> 01:17:03,461
+Oh, c'mon, general?
+
+1104
+01:17:03,597 --> 01:17:04,873
+I got the trajectory.
+
+1105
+01:17:05,100 --> 01:17:06,148
+Imogene, I'm putting you
+on the speaker phone.
+
+1106
+01:17:06,285 --> 01:17:08,325
+Give me the trajectories now, go, go.
+
+1107
+01:17:09,165 --> 01:17:16,618
+Cassandra's trajectories is from
+5-17-46 descending to 0-2-20-0-6.
+
+1108
+01:17:16,748 --> 01:17:17,828
+I repeat, it's got it.
+
+1109
+01:17:17,964 --> 01:17:19,426
+Sir, do I reprogram the launch?
+
+1110
+01:17:20,652 --> 01:17:21,863
+How sure are you of these numbers?
+
+1111
+01:17:21,997 --> 01:17:24,680
+I am more sure than of
+anything else we've got.
+
+1112
+01:17:24,780 --> 01:17:25,925
+Dan Lehman was a genius.
+
+1113
+01:17:26,061 --> 01:17:27,970
+Who you fired
+because he was crazy.
+
+1114
+01:17:28,237 --> 01:17:28,706
+Sir?
+
+1115
+01:17:29,293 --> 01:17:31,081
+Reprogram in the new numbers.
+
+1116
+01:17:31,949 --> 01:17:34,535
+Hit it hard, to try to kill her.
+
+1117
+01:17:34,636 --> 01:17:35,171
+Thank you, miss.
+
+1118
+01:17:35,309 --> 01:17:37,000
+I think we're quite clear
+on that vine now.
+
+1119
+01:17:37,357 --> 01:17:40,292
+Mr. President, we're launched, go.
+
+1120
+01:17:40,429 --> 01:17:49,475
+New coordinates, reset the clocks.
+Ten, nine, eight, seven, six, five...
+
+1121
+01:17:49,613 --> 01:17:51,304
+We'll never get too level,
+get the paramedics ready,
+
+1122
+01:17:51,437 --> 01:17:52,866
+there's going to be debris
+and a lot of it.
+
+1123
+01:17:53,101 --> 01:17:57,989
+Three, two, one, launch.
+
+1124
+01:18:14,733 --> 01:18:15,562
+The birds are away.
+
+1125
+01:18:16,621 --> 01:18:18,563
+They're still on radar blank,
+how do we know if we hit it?
+
+1126
+01:18:19,021 --> 01:18:20,134
+It would fall on our heads, we'd know.
+
+1127
+01:18:20,589 --> 01:18:22,761
+Get the missile near to the bunk right
+ahead to Edwards Air Force Base,
+
+1128
+01:18:22,861 --> 01:18:24,268
+I need her on a secure hard line.
+
+1129
+01:18:24,365 --> 01:18:26,787
+Don't fly her,
+there's going to be a ton of debris.
+
+1130
+01:18:26,893 --> 01:18:28,803
+Ground all the flights, military too.
+
+1131
+01:18:29,902 --> 01:18:31,658
+Let's do it, ground all flights.
+
+1132
+01:18:32,110 --> 01:18:34,444
+Get missile near at Edwards,
+use any means necessary.
+
+1133
+01:18:34,573 --> 01:18:35,467
+Yes, sir.
+
+1134
+01:18:38,413 --> 01:18:39,275
+Oh, thank you.
+
+1135
+01:18:49,070 --> 01:18:49,833
+What's wrong?
+
+1136
+01:18:50,158 --> 01:18:51,140
+You know I'm not sure.
+
+1137
+01:18:53,390 --> 01:18:59,141
+I was extrapolating Dr. Lehman's formula
+and the assumption is not right.
+
+1138
+01:19:10,254 --> 01:19:11,683
+One minute to intercept.
+
+1139
+01:19:13,070 --> 01:19:16,234
+Murphy, sir?
+
+1140
+01:19:17,678 --> 01:19:18,539
+Yes, sir.
+
+1141
+01:19:19,982 --> 01:19:21,159
+She's right here.
+
+1142
+01:19:22,574 --> 01:19:23,435
+Of course, sir.
+
+1143
+01:19:24,846 --> 01:19:26,155
+Thank you, sir.
+
+1144
+01:19:27,694 --> 01:19:29,156
+That was the Vice-President?
+
+1145
+01:19:29,358 --> 01:19:30,057
+Of what?
+
+1146
+01:19:30,254 --> 01:19:32,359
+The Vice-President of the United States.
+
+1147
+01:19:32,846 --> 01:19:35,432
+They need you at
+Edwards Air Force Base ASAP.
+
+1148
+01:19:35,566 --> 01:19:36,428
+Okay, hang on.
+
+1149
+01:19:36,558 --> 01:19:37,670
+Can you do that in the car?
+
+1150
+01:19:38,159 --> 01:19:38,824
+Yeah, yeah.
+
+1151
+01:19:38,958 --> 01:19:39,755
+Well, let's go.
+
+1152
+01:19:39,887 --> 01:19:41,131
+I want to take you there myself.
+
+1153
+01:19:41,262 --> 01:19:43,302
+It's not everyday you
+get a call like that.
+
+1154
+01:20:11,726 --> 01:20:12,654
+We have contact.
+
+1155
+01:20:13,071 --> 01:20:13,769
+Status?
+
+1156
+01:20:14,606 --> 01:20:15,817
+Standby,
+
+1157
+01:20:25,455 --> 01:20:26,404
+target reduced.
+
+1158
+01:20:32,239 --> 01:20:34,246
+Keep the Patriot and Nessus on standby.
+
+1159
+01:20:34,479 --> 01:20:35,275
+It came through
+
+1160
+01:20:36,111 --> 01:20:37,606
+The missiles on standby.
+
+1161
+01:20:39,056 --> 01:20:39,983
+Aye.
+
+1162
+01:22:19,601 --> 01:22:20,528
+Hey.
+
+1163
+01:22:25,232 --> 01:22:29,837
+That was way too easy, buddy boy.
+You're not much of a cop.
+
+1164
+01:22:30,032 --> 01:22:31,920
+Let her go. Let her go, Cal.
+
+1165
+01:22:32,048 --> 01:22:34,798
+Oh, you're a funny man,
+put the gun down.
+
+1166
+01:22:35,376 --> 01:22:38,311
+Put it down or I'll spread her
+all over the damn room.
+
+1167
+01:22:38,449 --> 01:22:39,464
+Put it down.
+
+1168
+01:22:41,361 --> 01:22:46,150
+Atta, boy, nice and easy.
+Kick it over to me now.
+
+1169
+01:22:54,161 --> 01:22:59,977
+On your knees now, get down on
+your knees, that's a good boy.
+
+1170
+01:23:04,497 --> 01:23:07,563
+Just take me and let her go.
+
+1171
+01:23:08,113 --> 01:23:13,131
+Oh, that's just touching.
+But you're missing the point.
+
+1172
+01:23:14,545 --> 01:23:19,182
+I want you to feel what I feel,
+my pain.
+
+1173
+01:23:19,313 --> 01:23:20,808
+Cal, goddamit, I feel it.
+
+1174
+01:23:20,945 --> 01:23:24,654
+You don't know my pain. But you will.
+
+1175
+01:23:24,785 --> 01:23:25,646
+No.
+
+1176
+01:23:33,618 --> 01:23:35,211
+Now, that's some fireworks.
+
+1177
+01:23:37,906 --> 01:23:38,767
+Oh, god.
+
+1178
+01:23:39,089 --> 01:23:40,299
+Beautiful, huh.
+
+1179
+01:23:41,554 --> 01:23:46,824
+So, those things are going to land.
+We got to find cover, now.
+
+1180
+01:23:55,890 --> 01:23:58,792
+Run, get inside.
+
+1181
+01:24:05,522 --> 01:24:09,100
+Michael? Michael?
+
+1182
+01:24:16,146 --> 01:24:19,659
+Michael?
+It's mommy, can you hear me?
+
+1183
+01:24:38,066 --> 01:24:39,081
+Backstairs.
+
+1184
+01:24:57,747 --> 01:25:00,714
+Oh, god, Michael.
+
+1185
+01:25:46,099 --> 01:25:51,467
+Chelsea, Michael, can you hear me?
+
+1186
+01:26:00,500 --> 01:26:01,929
+Chelsea.
+
+1187
+01:26:30,000 --> 01:26:35,067
+Look at the bright side,
+you did it, you saved us.
+
+1188
+01:26:36,644 --> 01:26:39,620
+No, I didn't, you should
+have seen us a lot sooner.
+
+1189
+01:26:42,164 --> 01:26:43,028
+What's wrong?
+
+1190
+01:26:43,545 --> 01:26:48,031
+The asteroid, it should be reaching us
+a lot later and somewhere in Europe.
+
+1191
+01:26:48,198 --> 01:26:50,594
+Everything is off
+from the mass estimate.
+
+1192
+01:26:51,087 --> 01:26:52,618
+I'm sorry I 'm not following.
+
+1193
+01:26:53,173 --> 01:26:56,216
+Right there, wrong assumption
+right from the start,
+
+1194
+01:26:56,350 --> 01:26:59,458
+Dr. Lehman miscalculated
+the asteroid's mass.
+
+1195
+01:27:00,652 --> 01:27:02,698
+The original comet
+hit Cassandra already
+
+1196
+01:27:02,834 --> 01:27:04,749
+but it didn't just
+send it toward the earth.
+
+1197
+01:27:05,145 --> 01:27:05,878
+Okay.
+
+1198
+01:27:06,011 --> 01:27:08,320
+The original impact splintered in two.
+
+1199
+01:27:09,253 --> 01:27:10,149
+So?
+
+1200
+01:27:11,756 --> 01:27:13,036
+So, it's not over.
+
+1201
+01:27:14,356 --> 01:27:16,949
+The second half of Cassandra
+is still coming.
+
+1202
+01:27:19,780 --> 01:27:20,928
+I think she's bigger.
+
+1203
+01:27:23,984 --> 01:27:28,733
+We're the only ones who know.
+We have to call them now.
+
+1204
+01:27:42,503 --> 01:27:43,816
+Grab the brakes.
+
