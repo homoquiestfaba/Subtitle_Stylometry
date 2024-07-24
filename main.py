@@ -1,9 +1,13 @@
+import os
+
 from corpus import *
 
 
 def main():
-    corpus = Corpus("test_corpus", "ansi")
-    print(corpus.trigrams().frequencies().get_freq())
+    corpus = Corpus("test_corpus_clean", file_format="txt")
+    a = corpus.ner()
+    print(a)
 
 
-main()
+if __name__ == '__main__':
+    main()

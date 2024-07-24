@@ -91,8 +91,7 @@ class Subtitle:
         self.__text = re.sub(r"[!\"#$%&\'()*+,./:;<=>?@\[\]^_`{|}~\\-]", "", self.__text)
         self.__text = re.sub(r"\s\s+", " ", self.__text)
         if save:
-            with open(os.path.join(output_path, f"{self.__file_name}.txt"), "w", encoding=encoding) as f:
-                f.write(self.__text)
+            self.save_to_file(self.__text, output_path, "txt", encoding)
 
     def ner(self, save: bool, output_path: str) -> None:
         """
@@ -107,7 +106,7 @@ class Subtitle:
         doc = nlp(self.__text)
         self.__ner_text = " ".join([t.text if not t.ent_type_ else t.ent_type_ for t in doc])
         if save:
-            self.save_to_pickle(self.__text, output_path)
+            self.save_to_file(self.__text, output_path, "pkl")
 
     def create_trigrams(self, save: bool, output_path: str) -> None:
         """
@@ -116,35 +115,45 @@ class Subtitle:
         """
         self.__trigram_text = trigrams(word_tokenize(self.__text))
         if save:
-            self.save_to_pickle(list(self.__trigram_text), output_path)
+            self.save_to_file(list(self.__trigram_text), output_path, "pkl")
 
-    def save_to_pickle(self, data: typing.Any, output_path: str) -> None:
+    def save_to_file(self, data: typing.Any, output_path: str, file_format: str, encoding: str = "utf-8") -> None:
         """
         Creates or uses given directory to save data to pickle file
         :param data: Any data to be saved
         :param output_path: name of output directory
+        :param file_format: file format of output file (e.g. txt, pkl)
+        :param encoding: encoding of the output file for non-binary data
         :return: None
         """
-        path = os.path.join(output_path, f"{self.__file_name}.pkl")
+        path = os.path.join(output_path, f"{self.__file_name}.{file_format}")
         try:
+            os.makedirs(output_path)
+        except FileExistsError:
+            pass
+
+        if file_format == "pkl":
             with open(path, "wb") as f:
                 pickle.dump(data, f)
+        elif file_format == "txt":
+            with open(path, "w", encoding=encoding) as f:
+                f.write(data)
 
-        except FileNotFoundError:
-            os.mkdir(output_path)
-            with open(path, "wb") as f:
-                pickle.dump(data, f)
-
-    def load_from_pickle(self, input_path: str, mode: str) -> None:
+    def load_from_file(self, input_path: str, mode: str, encoding: str = "utf-8") -> None:
         """
         Loads subtitle that's been processed by class methods from pickle file
         :param input_path: Directory name of stored data
         :param mode: type of saving ("ner", "tri")
+        :param encoding: encoding of the input file for non-binary data
         :return:
         """
         if mode is None:
-            mode = ["ner", "tri"]
-        if mode == "ner":
+            mode = ["txt", "ner", "tri"]
+        if mode == "txt":
+            path = os.path.join(input_path, f"{self.__file_name}.txt")
+            with open(path, "r", encoding=encoding) as f:
+                self.__text = f.read()
+        elif mode == "ner":
             path = os.path.join(input_path, f"{self.__file_name}.pkl")
             with open(path, "rb") as f:
                 self.__ner_text = pickle.load(f)
@@ -153,7 +162,7 @@ class Subtitle:
             with open(path, "rb") as f:
                 self.__trigram_text = pickle.load(f)
         else:
-            raise ValueError("Wrong parameter for mode. Permitted only 'ner' or 'tri'")
+            raise ValueError("Wrong parameter for mode. Permitted only 'txt', 'ner' or 'tri'")
 
 
 class Corpus:
@@ -164,7 +173,7 @@ class Corpus:
     """
 
     def __init__(self, dir_name: str, encoding: str = "utf-8", file_format: str = "srt") -> None:
-        self.__dir_length = len(dir_name) + 2
+        self.__dir_length = len(dir_name) + 1
         self.__file_names = glob(os.path.join(dir_name, f"*.{file_format}"))
         self.__encoding = encoding
         self.__subtitles = self.__create_subtitles()
@@ -191,7 +200,7 @@ class Corpus:
             for subtitle in self.__subtitles
         ]
 
-    def get_freq(self):
+    def get_mfw(self):
         return self.__freq
 
     def clean_subtitles(self, save: bool = False, output_path: str = "cleaned_output",
@@ -208,6 +217,13 @@ class Corpus:
                            output_path=output_path,
                            encoding=output_encoding)
             for subtitle in self.__subtitles
+        ]
+        return self
+
+    def load_cleaned_subtitle(self, input_path: str = "cleaned_output") -> typing.Self:
+        [
+            sub.load_from_file(input_path=input_path, mode="txt")
+            for sub in self.__subtitles
         ]
         return self
 
@@ -235,9 +251,7 @@ class Corpus:
         :return: List with loaded ner data as elements
         """
         [
-            sub.load_from_pickle(
-                input_path=input_path,
-                mode="ner")
+            sub.load_from_file(input_path=input_path, mode="ner")
             for sub in self.__subtitles
         ]
         return self
@@ -265,28 +279,39 @@ class Corpus:
         :return: self
         """
         [
-            sub.load_from_pickle(
-                input_path=input_path,
-                mode="tri")
+            sub.load_from_file(input_path=input_path, mode="tri")
             for sub in self.__subtitles
         ]
         return self
 
-    def frequencies(self, save: bool = True, output_path: str = "frequency_output") -> typing.Self:
+    def mfw(self, min_freq: int = 150, save: bool = True, output_path: str = "frequency_output") -> typing.Self:
         """
         Counts frequencies of 3-grams
+        :param min_freq: minimum frequency of n-grams
         :param save: whether Data should be saved. Default: True
         :param output_path: output directory to save frequencies list
         :return: self
         """
-        vectorizer = CountVectorizer()
-        word_freq = vectorizer.fit_transform(
-            [
-                subtitle.get_plain_text()
-                for subtitle in self.get_subtitles()
-            ]
-        )
-        self.__freq = pd.DataFrame(word_freq.toarray(), columns=vectorizer.get_feature_names_out())
+        counter = collections.Counter()
+        [
+            counter.update(
+                sub.get_plain_text().split()
+            )
+            for sub in self.__subtitles
+        ]
+
+        self.__freq = pd.Series(
+            dict(counter),
+            index=dict(counter).keys(),
+            name="frequency"
+        ).sort_values(ascending=False).iloc[:min_freq]
+
+        if save:
+            self.save_to_file(self.__freq, output_path, "mfw_list_all", "csv")
+        return self
+
+    def load_mfw(self) -> typing.Self:
+        self.__freq = self.load_from_file("frequency_output", "mfw_list_all", "csv")
         return self
 
     def normalise(self) -> typing.Self:
@@ -299,8 +324,24 @@ class Corpus:
     def culling(self) -> typing.Self:
         return self
 
-    def mfw(self) -> typing.Self:
+    def cluster(self, trigrams: list) -> typing.Self:
         return self
 
-    def cluster(self, trigrams: list) -> typing.Self:
+    def save_to_file(self, data: pd.Series, output_path: str, file_name: str, file_format: str,
+                     encoding: str = "utf-8") -> typing.Self:
+        path = os.path.join(output_path, f"{file_name}.{file_format}")
+        try:
+            os.makedirs(output_path)
+        except FileExistsError:
+            pass
+
+        if file_format == "csv":
+            data.to_csv(path)
+
+        return self
+
+    def load_from_file(self, input_path:str, file_name: str, file_format: str) -> typing.Self:
+        path = os.path.join(input_path, f"{file_name}.{file_format}")
+        if file_format == "csv":
+            self.__freq = pd.read_csv(path)
         return self
