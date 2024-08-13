@@ -18,6 +18,7 @@ import pandas as pd
 import numpy as np
 from numpy import ndarray, dtype, generic
 import collections
+from scipy.stats import zscore
 
 
 class Subtitle:
@@ -91,7 +92,7 @@ class Subtitle:
         self.__text = re.sub(r"[!\"#$%&\'()*+,./:;<=>?@\[\]^_`{|}~\\-]", "", self.__text)
         self.__text = re.sub(r"\s\s+", " ", self.__text)
         if save:
-            self.save_to_file(self.__text, output_path, "txt", encoding)
+            self.__save_to_file(self.__text, output_path, "txt", encoding)
 
     def ner(self, save: bool, output_path: str) -> None:
         """
@@ -106,7 +107,21 @@ class Subtitle:
         doc = nlp(self.__text)
         self.__ner_text = " ".join([t.text if not t.ent_type_ else t.ent_type_ for t in doc])
         if save:
-            self.save_to_file(self.__text, output_path, "pkl")
+            self.__save_to_file(self.__text, output_path, "pkl")
+
+    def count_tokens(self, mfw: pd.Series) -> pd.Series:
+        if self.__ner_text:
+            text = self.__ner_text
+        else:
+            text = self.__text
+        total_freq = dict(collections.Counter(text.split()))
+        freqs = {}
+        for term in mfw.index:
+            try:
+                freqs[term] = total_freq[term]
+            except KeyError:
+                freqs[term] = 0
+        return pd.Series(freqs.values(), index=mfw.index)
 
     def create_trigrams(self, save: bool, output_path: str) -> None:
         """
@@ -115,9 +130,9 @@ class Subtitle:
         """
         self.__trigram_text = trigrams(word_tokenize(self.__text))
         if save:
-            self.save_to_file(list(self.__trigram_text), output_path, "pkl")
+            self.__save_to_file(list(self.__trigram_text), output_path, "pkl")
 
-    def save_to_file(self, data: typing.Any, output_path: str, file_format: str, encoding: str = "utf-8") -> None:
+    def __save_to_file(self, data: typing.Any, output_path: str, file_format: str, encoding: str = "utf-8") -> None:
         """
         Creates or uses given directory to save data to pickle file
         :param data: Any data to be saved
@@ -145,7 +160,7 @@ class Subtitle:
         :param input_path: Directory name of stored data
         :param mode: type of saving ("ner", "tri")
         :param encoding: encoding of the input file for non-binary data
-        :return:
+        :return: None
         """
         if mode is None:
             mode = ["txt", "ner", "tri"]
@@ -177,7 +192,10 @@ class Corpus:
         self.__file_names = glob(os.path.join(dir_name, f"*.{file_format}"))
         self.__encoding = encoding
         self.__subtitles = self.__create_subtitles()
-        self.__freq = None
+        self.__mfw = None
+        self.__freq_matrix = None
+        self.__zscores = None
+        self.__delta = None
 
     def __create_subtitles(self) -> typing.List[Subtitle]:
         """
@@ -201,7 +219,13 @@ class Corpus:
         ]
 
     def get_mfw(self):
-        return self.__freq
+        return self.__mfw
+
+    def get_zscores(self):
+        return self.__zscores
+
+    def get_delta(self):
+        return self.__delta
 
     def clean_subtitles(self, save: bool = False, output_path: str = "cleaned_output",
                         output_encoding: str = "utf-8") -> typing.Self:
@@ -300,25 +324,53 @@ class Corpus:
             for sub in self.__subtitles
         ]
 
-        self.__freq = pd.Series(
+        self.__mfw = pd.Series(
             dict(counter),
             index=dict(counter).keys(),
             name="frequency"
         ).sort_values(ascending=False).iloc[:min_freq]
 
         if save:
-            self.save_to_file(self.__freq, output_path, "mfw_list_all", "csv")
+            self.save_to_file(self.__mfw, output_path, "mfw_list_all", "csv")
         return self
 
     def load_mfw(self) -> typing.Self:
-        self.__freq = self.load_from_file("frequency_output", "mfw_list_all", "csv")
+        self.__mfw = self.load_from_file("frequency_output", "mfw_list_all", "csv")
         return self
 
-    def normalise(self) -> typing.Self:
+    def count_tokens(self) -> typing.Self:
         """
-        Normalises frequencies
+        Counts tokens in subtitles based on mfw
         :return: self
         """
+        self.__freq_matrix = pd.DataFrame(index=self.__mfw.index)
+        for sub in self.__subtitles:
+            sub_freq = sub.count_tokens(self.__mfw)
+            self.__freq_matrix.insert(0, sub.get_name(), sub_freq)
+
+        return self
+
+    def z_score(self) -> typing.Self:
+        self.__zscores = zscore(self.__freq_matrix)
+        return self
+
+    def delta(self) -> typing.Self:
+        i = 1
+        delta_list = []
+        cols = self.__zscores.columns
+        for col in cols:
+            for j in cols[i:]:
+                diff = abs(self.__zscores[col] - self.__zscores[j])
+                delta_value = diff.sum() / len(self.__zscores)
+                delta_list.append([col, j, delta_value])
+
+            i += 1
+
+        self.__delta = pd.DataFrame(delta_list, columns=["sub1", "sub2", "delta"])
+        return self
+
+    def burrows_delta(self, min_freq: int = 150) -> typing.Self:
+        self.mfw(min_freq).count_tokens().z_score().delta()
         return self
 
     def culling(self) -> typing.Self:
@@ -340,8 +392,8 @@ class Corpus:
 
         return self
 
-    def load_from_file(self, input_path:str, file_name: str, file_format: str) -> typing.Self:
+    def load_from_file(self, input_path: str, file_name: str, file_format: str) -> typing.Self:
         path = os.path.join(input_path, f"{file_name}.{file_format}")
         if file_format == "csv":
-            self.__freq = pd.read_csv(path)
+            self.__mfw = pd.read_csv(path)
         return self
