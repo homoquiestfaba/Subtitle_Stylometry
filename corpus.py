@@ -27,7 +27,7 @@ class Subtitle:
     subtitle file and saving them for later processing to reduce process time once you've done it.
     """
 
-    def __init__(self, file_name: str, dir_length: int, encoding: str) -> None:
+    def __init__(self, file_name: str, dir_length: int, encoding: list) -> None:
         """
         Stores file name and directory length.
         Then it extracts the text from a subtitle file and performs a fast cleaning (e.g. \\n, \\s)
@@ -39,10 +39,20 @@ class Subtitle:
         self.__file_name = file_name[dir_length:-4]
         self.__dir_length = dir_length
         self.__encoding = encoding
-        self.__text = " ".join([
-            word.strip().lower()
-            for word in open(file_name, "r", encoding=encoding).read().split()
-        ])
+        valid_encoding = False
+        for enc in encoding:
+            try:
+                self.__text = " ".join([
+                    word.strip().lower()
+                    for word in open(file_name, "r", encoding=enc).read().split()
+                ]
+                )
+                valid_encoding = True
+                break
+            except UnicodeDecodeError:
+                pass
+        if not valid_encoding:
+            raise EncodingWarning(f"File {file_name} has invalid encoding")
         self.__ner_text = None
         self.__trigram_text = None
 
@@ -91,6 +101,8 @@ class Subtitle:
         self.__text = re.sub(r"(\d+\s*)?\d\d:\d\d:\d\d[,\.]\d\d\d|-->", "", self.__text)
         self.__text = re.sub(r"[!\"#$%&\'()*+,./:;<=>?@\[\]^_`{|}~\\-]", "", self.__text)
         self.__text = re.sub(r"\s\s+", " ", self.__text)
+        self.__text = re.sub(r"<.*>", "", self.__text)
+        self.__text = re.sub(r"\(.*\)", "", self.__text)
         if save:
             self.__save_to_file(self.__text, output_path, "txt", encoding)
 
@@ -110,6 +122,11 @@ class Subtitle:
             self.__save_to_file(self.__text, output_path, "pkl")
 
     def count_tokens(self, mfw: pd.Series) -> pd.Series:
+        """
+        Counts all tokens of the subtitle file that are in the most frequent word list
+        :param mfw: most frequent word list from whole corpus
+        :return: pd.Series of token frequencies
+        """
         if self.__ner_text:
             text = self.__ner_text
         else:
@@ -187,15 +204,20 @@ class Corpus:
     all necessary methods to operate on all Subtitle-class methods
     """
 
-    def __init__(self, dir_name: str, encoding: str = "utf-8", file_format: str = "srt") -> None:
+    def __init__(self, dir_name: str, encoding: str | list = "utf-8", file_format: str = "srt") -> None:
         self.__dir_length = len(dir_name) + 1
         self.__file_names = glob(os.path.join(dir_name, f"*.{file_format}"))
-        self.__encoding = encoding
+        if isinstance(encoding, str):
+            self.__encoding = [encoding]
+        else:
+            self.__encoding = encoding
         self.__subtitles = self.__create_subtitles()
+        self.__mfw_size = 150
         self.__mfw = None
         self.__freq_matrix = None
         self.__zscores = None
         self.__delta = None
+        self.__kld = None
 
     def __create_subtitles(self) -> typing.List[Subtitle]:
         """
@@ -218,14 +240,23 @@ class Corpus:
             for subtitle in self.__subtitles
         ]
 
-    def get_mfw(self):
+    def get_mfw(self) -> pd.Series:
         return self.__mfw
 
-    def get_zscores(self):
+    def get_freq_matrix(self) -> pd.DataFrame:
+        return self.__freq_matrix
+
+    def get_zscores(self) -> pd.DataFrame:
         return self.__zscores
 
-    def get_delta(self):
+    def get_delta(self) -> pd.DataFrame:
         return self.__delta
+
+    def get_kld(self) -> pd.DataFrame:
+        return self.__kld
+
+    def set_mfw_size(self, mfw_size: int) -> None:
+        self.__mfw_size = mfw_size
 
     def clean_subtitles(self, save: bool = False, output_path: str = "cleaned_output",
                         output_encoding: str = "utf-8") -> typing.Self:
@@ -308,7 +339,7 @@ class Corpus:
         ]
         return self
 
-    def mfw(self, min_freq: int = 150, save: bool = True, output_path: str = "frequency_output") -> typing.Self:
+    def mfw(self, save: bool = True, output_path: str = "frequency_output") -> typing.Self:
         """
         Counts frequencies of 3-grams
         :param min_freq: minimum frequency of n-grams
@@ -328,7 +359,7 @@ class Corpus:
             dict(counter),
             index=dict(counter).keys(),
             name="frequency"
-        ).sort_values(ascending=False).iloc[:min_freq]
+        ).sort_values(ascending=False).iloc[:self.__mfw_size]
 
         if save:
             self.save_to_file(self.__mfw, output_path, "mfw_list_all", "csv")
@@ -369,8 +400,65 @@ class Corpus:
         self.__delta = pd.DataFrame(delta_list, columns=["sub1", "sub2", "delta"])
         return self
 
-    def burrows_delta(self, min_freq: int = 150) -> typing.Self:
-        self.mfw(min_freq).count_tokens().z_score().delta()
+    def burrows_delta(self, save: bool = True, output_path: str = "stylo_out",
+                      file_name: str = "burrows_delta") -> typing.Self:
+        self.mfw().count_tokens().z_score().delta()
+        if save:
+            self.save_to_file(
+                data=self.__delta,
+                output_path=output_path,
+                file_name=file_name,
+                file_format="csv"
+            )
+        return self
+
+    def get_corpus_size(self):
+        count = 0
+        for sub in self.get_text():
+            count += len(sub.split())
+        return count
+
+    def dirichlet_smoothing(self, tf: int, n: int, mu: float, p_ti_B: float) -> float:
+        return (tf / (n * mu)) + (mu / (n * mu)) * p_ti_B
+
+    def kld(self, mu: float):
+        self.mfw().count_tokens()
+        B = self.get_corpus_size()
+        p_t_B = self.__freq_matrix.sum(axis=1) / B
+
+        cols = self.__freq_matrix.columns
+        counter = 1
+
+        kld_list = []
+
+        for col_1 in cols:
+            for col_2 in cols[counter:]:
+                kld_sum = 0
+                for i in self.__mfw.index:
+                    tf_1 = self.__freq_matrix[col_1][i]
+                    n_1 = self.__freq_matrix[col_1].sum()
+
+                    tf_2 = self.__freq_matrix[col_2][i]
+                    n_2 = self.__freq_matrix[col_2].sum()
+
+                    p_ti_B = p_t_B.loc[i]
+
+                    p_1 = self.dirichlet_smoothing(tf_1, n_1, mu, p_ti_B)
+                    p_2 = self.dirichlet_smoothing(tf_2, n_2, mu, p_ti_B)
+
+                    kld_sum += p_1 * np.log2(p_1 / p_2)
+                kld_list.append([col_1, col_2, kld_sum])
+            counter += 1
+
+        self.__kld = pd.DataFrame(kld_list, columns=["sub1", "sub2", "kld"])
+
+        self.save_to_file(
+            data=self.__kld,
+            output_path="stylo_out",
+            file_name="kld",
+            file_format="csv"
+        )
+
         return self
 
     def culling(self) -> typing.Self:
@@ -379,7 +467,7 @@ class Corpus:
     def cluster(self, trigrams: list) -> typing.Self:
         return self
 
-    def save_to_file(self, data: pd.Series, output_path: str, file_name: str, file_format: str,
+    def save_to_file(self, data: pd.Series | pd.DataFrame, output_path: str, file_name: str, file_format: str,
                      encoding: str = "utf-8") -> typing.Self:
         path = os.path.join(output_path, f"{file_name}.{file_format}")
         try:
@@ -388,7 +476,10 @@ class Corpus:
             pass
 
         if file_format == "csv":
-            data.to_csv(path)
+            if type(data) == pd.Series:
+                data.to_csv(path)
+            else:
+                data.to_csv(path, index=False)
 
         return self
 
