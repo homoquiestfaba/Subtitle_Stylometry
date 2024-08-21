@@ -218,6 +218,7 @@ class Corpus:
         self.__zscores = None
         self.__delta = None
         self.__kld = None
+        self.__labbe = None
 
     def __create_subtitles(self) -> typing.List[Subtitle]:
         """
@@ -254,6 +255,24 @@ class Corpus:
 
     def get_kld(self) -> pd.DataFrame:
         return self.__kld
+
+    def get_labbe(self) -> pd.DataFrame:
+        return self.__labbe
+
+    def get_corpus_size(self):
+        count = 0
+        for sub in self.get_text():
+            count += len(sub.split())
+        return count
+
+    def get_corpus_vocabulary(self):
+        token_list = []
+        for sub in self.get_text():
+            token_list.extend(sub.split())
+
+        token_dict = dict(collections.Counter(token_list))
+
+        return pd.Series(token_dict, index=token_dict.keys()).sort_values(ascending=False)
 
     def set_mfw_size(self, mfw_size: int) -> None:
         self.__mfw_size = mfw_size
@@ -369,7 +388,7 @@ class Corpus:
         self.__mfw = self.load_from_file("frequency_output", "mfw_list_all", "csv")
         return self
 
-    def count_tokens(self) -> typing.Self:
+    def count_mfw_tokens(self) -> typing.Self:
         """
         Counts tokens in subtitles based on mfw
         :return: self
@@ -377,6 +396,19 @@ class Corpus:
         self.__freq_matrix = pd.DataFrame(index=self.__mfw.index)
         for sub in self.__subtitles:
             sub_freq = sub.count_tokens(self.__mfw)
+            self.__freq_matrix.insert(0, sub.get_name(), sub_freq)
+
+        return self
+
+    def count_all_tokens(self) -> typing.Self:
+        """
+        Counts every token in subtitles
+        :return: self
+        """
+        vocabulary = self.get_corpus_vocabulary()
+        self.__freq_matrix = pd.DataFrame(index=vocabulary.index)
+        for sub in self.__subtitles:
+            sub_freq = sub.count_tokens(vocabulary)
             self.__freq_matrix.insert(0, sub.get_name(), sub_freq)
 
         return self
@@ -402,7 +434,7 @@ class Corpus:
 
     def burrows_delta(self, save: bool = True, output_path: str = "stylo_out",
                       file_name: str = "burrows_delta") -> typing.Self:
-        self.mfw().count_tokens().z_score().delta()
+        self.mfw().count_mfw_tokens().z_score().delta()
         if save:
             self.save_to_file(
                 data=self.__delta,
@@ -412,17 +444,11 @@ class Corpus:
             )
         return self
 
-    def get_corpus_size(self):
-        count = 0
-        for sub in self.get_text():
-            count += len(sub.split())
-        return count
-
     def dirichlet_smoothing(self, tf: int, n: int, mu: float, p_ti_B: float) -> float:
         return (tf / (n * mu)) + (mu / (n * mu)) * p_ti_B
 
     def kld(self, mu: float):
-        self.mfw().count_tokens()
+        self.mfw().count_mfw_tokens()
         B = self.get_corpus_size()
         p_t_B = self.__freq_matrix.sum(axis=1) / B
 
@@ -456,6 +482,37 @@ class Corpus:
             data=self.__kld,
             output_path="stylo_out",
             file_name="kld",
+            file_format="csv"
+        )
+
+        return self
+
+    def labbe(self) -> typing.Self:
+        self.count_all_tokens()
+        cols = self.__freq_matrix.columns
+        counter = 1
+
+        labbe_list = []
+
+        for col_1 in cols:
+            na = self.__freq_matrix[col_1].sum()
+            for col_2 in cols[counter:]:
+                nq = self.__freq_matrix[col_2].sum()
+                over_sum = 0
+                for i in self.__freq_matrix.index:
+                    tfi_a = self.__freq_matrix[col_1][i]
+                    tfi_q = self.__freq_matrix[col_2][i]
+                    over_sum += abs((tfi_a * (nq / na)) - tfi_q)
+                d_labbe = over_sum / (2 * nq)
+                labbe_list.append([col_1, col_2, d_labbe])
+            counter += 1
+
+        self.__labbe = pd.DataFrame(labbe_list, columns=["sub1", "sub2", "labbe"])
+
+        self.save_to_file(
+            data=self.__labbe,
+            output_path="stylo_out",
+            file_name="labbe",
             file_format="csv"
         )
 
