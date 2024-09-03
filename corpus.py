@@ -16,9 +16,11 @@ import os
 from sklearn.feature_extraction.text import CountVectorizer
 import pandas as pd
 import numpy as np
+from sklearn.cluster import HDBSCAN
 from numpy import ndarray, dtype, generic
 import collections
 from scipy.stats import zscore
+from sklearn.decomposition import PCA
 
 
 class Subtitle:
@@ -212,6 +214,12 @@ class Corpus:
         else:
             self.__encoding = encoding
         self.__subtitles = self.__create_subtitles()
+        self.__name_list = sorted(
+            [
+                sub.get_name()
+                for sub in self.__subtitles
+            ]
+        )
         self.__mfw_size = 150
         self.__mfw = None
         self.__freq_matrix = None
@@ -234,6 +242,9 @@ class Corpus:
 
     def get_subtitles(self) -> typing.List[Subtitle]:
         return self.__subtitles
+
+    def get_name_list(self) -> typing.List[str]:
+        return self.__name_list
 
     def get_text(self) -> typing.List[str]:
         return [
@@ -388,7 +399,7 @@ class Corpus:
         self.__mfw = self.load_from_file("frequency_output", "mfw_list_all", "csv")
         return self
 
-    def count_mfw_tokens(self) -> typing.Self:
+    def count_mfw_tokens(self, save: bool = True, output_path: str = "frequency_output") -> typing.Self:
         """
         Counts tokens in subtitles based on mfw
         :return: self
@@ -397,6 +408,9 @@ class Corpus:
         for sub in self.__subtitles:
             sub_freq = sub.count_tokens(self.__mfw)
             self.__freq_matrix.insert(0, sub.get_name(), sub_freq)
+
+        if save:
+            self.save_to_file(self.__mfw, output_path, "mfw_frequency_table", "csv")
 
         return self
 
@@ -518,11 +532,62 @@ class Corpus:
 
         return self
 
+    def pca(self) -> typing.Self:
+        self.mfw(False).count_mfw_tokens()
+        return self
+
     def culling(self) -> typing.Self:
         return self
 
-    def cluster(self, trigrams: list) -> typing.Self:
-        return self
+    def make_dist_matrix(self, data: pd.DataFrame) -> pd.DataFrame:
+        names = self.__name_list
+        output = pd.DataFrame(columns=names, index=names)
+
+        c = 0
+        for dist in data[data.columns[2]]:
+            row = data.iloc[c]
+            output.loc[row["sub1"], row["sub2"]] = dist
+            output.loc[row["sub2"], row["sub1"]] = dist
+            c += 1
+
+        for name in names:
+            output.loc[name, name] = 0
+        return output
+
+    def hdbscan(self, measure: str, min_cluster_size: int = 5, min_samples: int = 5,
+                cluster_selection_epsilon: float = 0.0, max_cluster_size: int = None,
+                leaf_size: int = 40) -> typing.Dict[int: list[int]]:
+        """
+        Performs HDBSCAN clustering on previously calculated data.
+        :param measure: "burrows", "kld" and "labbe" are valid defining which measure is to be clustered
+        :return: self
+        """
+        if measure == "burrows":
+            data = self.make_dist_matrix(self.__delta)
+        elif measure == "kld":
+            data = self.make_dist_matrix(self.__kld)
+        elif measure == "labbe":
+            data = self.make_dist_matrix(self.__labbe)
+        else:
+            raise ValueError("Parameter data must be either burrows or kld or labbe")
+
+        hdb = HDBSCAN(metric="precomputed",
+                      min_cluster_size=min_cluster_size,
+                      cluster_selection_epsilon=cluster_selection_epsilon,
+                      leaf_size=leaf_size,
+                      max_cluster_size=max_cluster_size)
+
+        hdb.fit(data)
+
+        clusters = {}
+
+        for i in range(len(hdb.labels_)):
+            if hdb.labels_[i] not in clusters:
+                clusters[hdb.labels_[i]] = [self.__name_list[i]]
+            else:
+                clusters[hdb.labels_[i]].append(self.__name_list[i])
+
+        return clusters
 
     def save_to_file(self, data: pd.Series | pd.DataFrame, output_path: str, file_name: str, file_format: str,
                      encoding: str = "utf-8") -> typing.Self:
