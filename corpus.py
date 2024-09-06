@@ -6,7 +6,7 @@ them through its methods.
 from glob import glob
 import typing
 from typing import Any
-
+import json
 import spacy
 from nltk import trigrams
 from nltk.tokenize import *
@@ -16,7 +16,8 @@ import os
 from sklearn.feature_extraction.text import CountVectorizer
 import pandas as pd
 import numpy as np
-from sklearn.cluster import HDBSCAN
+#from sklearn.cluster import HDBSCAN, DBSCAN
+from hdbscan import HDBSCAN
 from numpy import ndarray, dtype, generic
 import collections
 from scipy.stats import zscore
@@ -404,13 +405,19 @@ class Corpus:
         Counts tokens in subtitles based on mfw
         :return: self
         """
-        self.__freq_matrix = pd.DataFrame(index=self.__mfw.index)
+        #self.__freq_matrix = pd.DataFrame()
+        sub_counts = []
+        sub_names = []
         for sub in self.__subtitles:
             sub_freq = sub.count_tokens(self.__mfw)
-            self.__freq_matrix.insert(0, sub.get_name(), sub_freq)
+            #self.__freq_matrix.insert(0, sub.get_name(), sub_freq)
+            sub_counts.append(sub_freq)
+            sub_names.append(sub.get_name())
+        self.__freq_matrix = pd.concat(sub_counts, axis=1)
+        self.__freq_matrix = pd.DataFrame(self.__freq_matrix.values, columns=sub_names)
 
         if save:
-            self.save_to_file(self.__mfw, output_path, "mfw_frequency_table", "csv")
+            self.save_to_file(self.__freq_matrix, output_path, "mfw_frequency_table", "csv")
 
         return self
 
@@ -439,7 +446,7 @@ class Corpus:
             for j in cols[i:]:
                 diff = abs(self.__zscores[col] - self.__zscores[j])
                 delta_value = diff.sum() / len(self.__zscores)
-                delta_list.append([col, j, delta_value])
+                delta_list.append([col, j, round(delta_value, 6)])
 
             i += 1
 
@@ -449,6 +456,7 @@ class Corpus:
     def burrows_delta(self, save: bool = True, output_path: str = "stylo_out",
                       file_name: str = "burrows_delta") -> typing.Self:
         self.mfw().count_mfw_tokens().z_score().delta()
+
         if save:
             self.save_to_file(
                 data=self.__delta,
@@ -545,20 +553,32 @@ class Corpus:
 
         c = 0
         for dist in data[data.columns[2]]:
+            if not isinstance(dist, float):
+                print("!!!!!!!")
             row = data.iloc[c]
             output.loc[row["sub1"], row["sub2"]] = dist
             output.loc[row["sub2"], row["sub1"]] = dist
             c += 1
 
         for name in names:
-            output.loc[name, name] = 0
+            output.loc[name, name] = 0.0
+
+        print(output)
+        print(type(output.columns[0]))
+        print(type(output.index[0]))
+        print(type(output["1024"]["952"]))
         return output
 
     def hdbscan(self, measure: str, min_cluster_size: int = 5, min_samples: int = 5,
                 cluster_selection_epsilon: float = 0.0, max_cluster_size: int = None,
-                leaf_size: int = 40) -> typing.Dict[int: list[int]]:
+                leaf_size: int = 40) -> typing.Dict:
         """
         Performs HDBSCAN clustering on previously calculated data.
+        :param min_cluster_size:
+        :param min_samples:
+        :param max_cluster_size:
+        :param cluster_selection_epsilon:
+        :param leaf_size:
         :param measure: "burrows", "kld" and "labbe" are valid defining which measure is to be clustered
         :return: self
         """
@@ -575,21 +595,29 @@ class Corpus:
                       min_cluster_size=min_cluster_size,
                       cluster_selection_epsilon=cluster_selection_epsilon,
                       leaf_size=leaf_size,
-                      max_cluster_size=max_cluster_size)
+                      max_cluster_size=max_cluster_size,
+                      cluster_selection_method="eom",
+                      n_jobs=-1)
 
-        hdb.fit(data)
+        #hdb = DBSCAN(eps=cluster_selection_epsilon, min_samples=min_samples, metric="precomputed")
+
+        data = np.array(data)
+        data = data.astype(float)
+        hdb.fit_predict(data)
 
         clusters = {}
 
         for i in range(len(hdb.labels_)):
             if hdb.labels_[i] not in clusters:
-                clusters[hdb.labels_[i]] = [self.__name_list[i]]
+                clusters[int(hdb.labels_[i])] = [self.__name_list[i]]
             else:
-                clusters[hdb.labels_[i]].append(self.__name_list[i])
+                clusters[int(hdb.labels_[i])].append(self.__name_list[i])
+
+        self.save_to_file(clusters, output_path="cluster", file_name=measure, file_format="json")
 
         return clusters
 
-    def save_to_file(self, data: pd.Series | pd.DataFrame, output_path: str, file_name: str, file_format: str,
+    def save_to_file(self, data: pd.Series | pd.DataFrame | dict, output_path: str, file_name: str, file_format: str,
                      encoding: str = "utf-8") -> typing.Self:
         path = os.path.join(output_path, f"{file_name}.{file_format}")
         try:
@@ -602,6 +630,9 @@ class Corpus:
                 data.to_csv(path)
             else:
                 data.to_csv(path, index=False)
+        elif file_format == "json":
+            with open(path, "w", encoding=encoding) as f:
+                json.dump(data, f)
 
         return self
 
