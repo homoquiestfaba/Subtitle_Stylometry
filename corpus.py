@@ -5,23 +5,17 @@ them through its methods.
 """
 from glob import glob
 import typing
-from typing import Any
 import json
 import spacy
-from nltk import trigrams
-from nltk.tokenize import *
 import re
 import pickle
 import os
-from sklearn.feature_extraction.text import CountVectorizer
 import pandas as pd
 import numpy as np
-#from sklearn.cluster import HDBSCAN, DBSCAN
-from hdbscan import HDBSCAN
-from numpy import ndarray, dtype, generic
+from numpy import dtype
 import collections
 from scipy.stats import zscore
-from sklearn.decomposition import PCA
+from scipy.special import binom
 
 
 class Subtitle:
@@ -124,13 +118,13 @@ class Subtitle:
         if save:
             self.__save_to_file(self.__text, output_path, "pkl")
 
-    def count_tokens(self, mfw: pd.Series) -> pd.Series:
+    def count_tokens(self, mfw: pd.Series, ner_usage: bool) -> pd.Series:
         """
         Counts all tokens of the subtitle file that are in the most frequent word list
         :param mfw: most frequent word list from whole corpus
         :return: pd.Series of token frequencies
         """
-        if self.__ner_text:
+        if ner_usage:
             text = self.__ner_text
         else:
             text = self.__text
@@ -142,15 +136,6 @@ class Subtitle:
             except KeyError:
                 freqs[term] = 0
         return pd.Series(freqs.values(), index=mfw.index)
-
-    def create_trigrams(self, save: bool, output_path: str) -> None:
-        """
-        Tokenizes subtitle text and creates 3-grams from tokens
-        :return: list of 3-grams
-        """
-        self.__trigram_text = trigrams(word_tokenize(self.__text))
-        if save:
-            self.__save_to_file(list(self.__trigram_text), output_path, "pkl")
 
     def __save_to_file(self, data: typing.Any, output_path: str, file_format: str, encoding: str = "utf-8") -> None:
         """
@@ -200,6 +185,90 @@ class Subtitle:
             raise ValueError("Wrong parameter for mode. Permitted only 'txt', 'ner' or 'tri'")
 
 
+class Distance:
+    def __init__(self, distance: pd.DataFrame, names: list):
+        self.__distance = distance
+        self.__name_list = names
+        self.__dist_matrix = None
+        self.__pruned = None
+
+    def get_dist_matrix(self) -> pd.DataFrame:
+        return self.__dist_matrix
+
+    def get_pruned(self) -> pd.DataFrame:
+        return self.__pruned
+
+    def make_dist_matrix(self) -> typing.Self:
+        names = self.__name_list
+        dist_matrix = []
+        cout = 0
+
+        for name in names:
+            sub_dists = pd.concat([data[data.sub1 == name], data[data.sub2 == name]])
+            sub_partners_1 = sub_dists[sub_dists.sub1 != name]["sub1"].tolist()
+            sub_partners_2 = sub_dists[sub_dists.sub2 != name]["sub2"].tolist()
+            sub_partners = sub_partners_2 + sub_partners_1 + [name]
+
+            values = sub_dists["delta"].tolist()
+            values.append(0)
+
+            dist_matrix.append(pd.Series(values, index=sub_partners).sort_index().values)
+
+            cout += 1
+            if cout % 500 == 0:
+                print(cout)
+
+        self.__dist_matrix = pd.DataFrame(dist_matrix, columns=names, index=names)
+        self.__dist_matrix.to_csv("stylo_out/dist_matrix.csv", index=False)
+        # output.astype(float)
+        return self
+
+    def prune(self, inverse: bool = True, n_nearest: int = 3, file_name: str = "burrows_pruned") -> typing.Self:
+        output = self.__dist_matrix
+        pruned_output = []
+        for i in output.index:
+            m = output.loc[i].astype(float).nsmallest(n_nearest + 1).index.tolist()
+            for j in m:
+                if inverse:
+                    pruned_output.append([i, j, round(1 / output[j][i], 6)])
+                else:
+                    pruned_output.append([i, j, output[j][i]])
+
+        self.__pruned = pd.DataFrame(pruned_output, columns=["Source", "Target", "Weight"])
+
+        self.__pruned.to_csv(f"gephi_in/{file_name}.csv", index=False)
+
+        return self
+
+
+class Burrows(Distance):
+    def __init__(self, delta: pd.DataFrame, names: list):
+        super().__init__(delta, names)
+
+    def get_delta(self) -> pd.DataFrame:
+        return self.__distance
+
+
+class Kld(Distance):
+    def __init__(self, kld: pd.DataFrame, names: list, mu: float):
+        super().__init__(kld, names)
+        self.__mu = mu
+
+    def get_kld(self) -> pd.DataFrame:
+        return self.__distance
+
+    def get_mu(self) -> float:
+        return self.__mu
+
+
+class Labbe(Distance):
+    def __init__(self, labbe: pd.DataFrame, names: list):
+        super().__init__(labbe, names)
+
+    def get_labbe(self) -> pd.DataFrame:
+        return self.__distance
+
+
 class Corpus:
     """
     The Corpus-class represents a whole corpus of subtitles by creating Subtitle-objects for every file in corpus when
@@ -222,12 +291,14 @@ class Corpus:
             ]
         )
         self.__mfw_size = 150
+        self.__ner_usage = False
         self.__mfw = None
         self.__freq_matrix = None
         self.__zscores = None
         self.__delta = None
         self.__kld = None
         self.__labbe = None
+        self.__dist_matrix = None
 
     def __create_subtitles(self) -> typing.List[Subtitle]:
         """
@@ -289,6 +360,9 @@ class Corpus:
     def set_mfw_size(self, mfw_size: int) -> None:
         self.__mfw_size = mfw_size
 
+    def set_ner_usage(self, usage: bool) -> None:
+        self.__ner_usage = usage
+
     def clean_subtitles(self, save: bool = False, output_path: str = "cleaned_output",
                         output_encoding: str = "utf-8") -> typing.Self:
         """
@@ -342,34 +416,6 @@ class Corpus:
         ]
         return self
 
-    def trigrams(self, save: bool = True, output_path: str = "trigram_output") -> typing.Self:
-        """
-        Transforms whole corpus into 3-grams.
-        \nOptional: Save results to default ("trigram_output/) or user defined directory
-        :param save: Whether Data should be saved. Default: True
-        :param output_path: Output directory to save corpus as 3-gram
-        :return: Subtitles in 3-gram form
-        """
-        [
-            sub.create_trigrams(
-                save=save,
-                output_path=output_path)
-            for sub in self.__subtitles
-        ]
-        return self
-
-    def load_trigrams(self, input_path: str = "trigram_output") -> typing.Self:
-        """
-        Retrieves subtitles that have already been processed with self.trigrams() from pickle files.
-        :param input_path: directory name where pickles are stored. Default equals default path from saving
-        :return: self
-        """
-        [
-            sub.load_from_file(input_path=input_path, mode="tri")
-            for sub in self.__subtitles
-        ]
-        return self
-
     def mfw(self, save: bool = True, output_path: str = "frequency_output") -> typing.Self:
         """
         Counts frequencies of 3-grams
@@ -378,13 +424,22 @@ class Corpus:
         :param output_path: output directory to save frequencies list
         :return: self
         """
-        counter = collections.Counter()
-        [
-            counter.update(
-                sub.get_plain_text().split()
-            )
-            for sub in self.__subtitles
-        ]
+        if not self.__ner_usage:
+            counter = collections.Counter()
+            [
+                counter.update(
+                    sub.get_plain_text().split()
+                )
+                for sub in self.__subtitles
+            ]
+        else:
+            counter = collections.Counter()
+            [
+                counter.update(
+                    sub.get_ner_text().split()
+                )
+                for sub in self.__subtitles
+            ]
 
         self.__mfw = pd.Series(
             dict(counter),
@@ -405,12 +460,12 @@ class Corpus:
         Counts tokens in subtitles based on mfw
         :return: self
         """
-        #self.__freq_matrix = pd.DataFrame()
+        # self.__freq_matrix = pd.DataFrame()
         sub_counts = []
         sub_names = []
         for sub in self.__subtitles:
-            sub_freq = sub.count_tokens(self.__mfw)
-            #self.__freq_matrix.insert(0, sub.get_name(), sub_freq)
+            sub_freq = sub.count_tokens(self.__mfw, self.__ner_usage)
+            # self.__freq_matrix.insert(0, sub.get_name(), sub_freq)
             sub_counts.append(sub_freq)
             sub_names.append(sub.get_name())
         self.__freq_matrix = pd.concat(sub_counts, axis=1)
@@ -429,7 +484,7 @@ class Corpus:
         vocabulary = self.get_corpus_vocabulary()
         self.__freq_matrix = pd.DataFrame(index=vocabulary.index)
         for sub in self.__subtitles:
-            sub_freq = sub.count_tokens(vocabulary)
+            sub_freq = sub.count_tokens(vocabulary, self.__ner_usage)
             self.__freq_matrix.insert(0, sub.get_name(), sub_freq)
 
         return self
@@ -438,24 +493,35 @@ class Corpus:
         self.__zscores = zscore(self.__freq_matrix)
         return self
 
-    def delta(self) -> typing.Self:
+    def delta(self) -> Burrows:
         i = 1
-        delta_list = []
+        delta_list = np.empty((int(binom(len(self.__name_list), 2)), 3), dtype)
+        edges = []
+
+        seen = []
+
         cols = self.__zscores.columns
+        cout = 0
+
         for col in cols:
             for j in cols[i:]:
                 diff = abs(self.__zscores[col] - self.__zscores[j])
                 delta_value = diff.sum() / len(self.__zscores)
-                delta_list.append([col, j, round(delta_value, 6)])
 
+                delta_list[cout] = [col, j, round(delta_value, 6)]
+
+                cout += 1
+                if cout % 10000 == 0:
+                    print(cout)
             i += 1
 
-        self.__delta = pd.DataFrame(delta_list, columns=["sub1", "sub2", "delta"])
-        return self
+        delta = pd.DataFrame(delta_list, columns=["sub1", "sub2", "delta"])
+
+        return Burrows(delta, self.__name_list)
 
     def burrows_delta(self, save: bool = True, output_path: str = "stylo_out",
-                      file_name: str = "burrows_delta") -> typing.Self:
-        self.mfw().count_mfw_tokens().z_score().delta()
+                      file_name: str = "burrows_delta") -> Burrows:
+        delta = self.mfw().count_mfw_tokens().z_score().delta()
 
         if save:
             self.save_to_file(
@@ -464,10 +530,7 @@ class Corpus:
                 file_name=file_name,
                 file_format="csv"
             )
-        return self
-
-    def dirichlet_smoothing(self, tf: int, n: int, mu: float, p_ti_B: float) -> float:
-        return (tf / (n * mu)) + (mu / (n * mu)) * p_ti_B
+        return delta
 
     def kld(self, mu: float):
         self.mfw().count_mfw_tokens()
@@ -475,30 +538,26 @@ class Corpus:
         p_t_B = self.__freq_matrix.sum(axis=1) / B
 
         cols = self.__freq_matrix.columns
-        counter = 1
 
         kld_list = []
-
+        counter = 1
         for col_1 in cols:
             for col_2 in cols[counter:]:
-                kld_sum = 0
-                for i in self.__mfw.index:
-                    tf_1 = self.__freq_matrix[col_1][i]
-                    n_1 = self.__freq_matrix[col_1].sum()
+                tf_1 = self.__freq_matrix[col_1]
+                n_1 = self.__freq_matrix[col_1].sum()
 
-                    tf_2 = self.__freq_matrix[col_2][i]
-                    n_2 = self.__freq_matrix[col_2].sum()
+                tf_2 = self.__freq_matrix[col_2]
+                n_2 = self.__freq_matrix[col_2].sum()
 
-                    p_ti_B = p_t_B.loc[i]
+                p_1 = (tf_1 / (n_1 * mu)) + (mu / (n_1 * mu)) * p_t_B
+                p_2 = (tf_2 / (n_2 * mu)) + (mu / (n_2 * mu)) * p_t_B
 
-                    p_1 = self.dirichlet_smoothing(tf_1, n_1, mu, p_ti_B)
-                    p_2 = self.dirichlet_smoothing(tf_2, n_2, mu, p_ti_B)
+                kld_sum = p_1 * np.log2(p_1 / p_2)
 
-                    kld_sum += p_1 * np.log2(p_1 / p_2)
-                kld_list.append([col_1, col_2, kld_sum])
+                kld_list.append([col_1, col_2, round(kld_sum.sum(), 6)])
             counter += 1
 
-        self.__kld = pd.DataFrame(kld_list, columns=["sub1", "sub2", "kld"])
+        kld = Kld(pd.DataFrame(kld_list, columns=["sub1", "sub2", "kld"]), self.__name_list, mu)
 
         self.save_to_file(
             data=self.__kld,
@@ -507,7 +566,7 @@ class Corpus:
             file_format="csv"
         )
 
-        return self
+        return kld
 
     def labbe(self) -> typing.Self:
         self.count_all_tokens()
@@ -515,21 +574,18 @@ class Corpus:
         counter = 1
 
         labbe_list = []
-
         for col_1 in cols:
             na = self.__freq_matrix[col_1].sum()
             for col_2 in cols[counter:]:
                 nq = self.__freq_matrix[col_2].sum()
-                over_sum = 0
-                for i in self.__freq_matrix.index:
-                    tfi_a = self.__freq_matrix[col_1][i]
-                    tfi_q = self.__freq_matrix[col_2][i]
-                    over_sum += abs((tfi_a * (nq / na)) - tfi_q)
-                d_labbe = over_sum / (2 * nq)
-                labbe_list.append([col_1, col_2, d_labbe])
+                tfi_a = self.__freq_matrix[col_1]
+                tfi_q = self.__freq_matrix[col_2]
+                over_sum = abs((tfi_a * (nq / na)) - tfi_q)
+                d_labbe = over_sum.sum() / (2 * nq)
+                labbe_list.append([col_1, col_2, round(d_labbe, 6)])
             counter += 1
 
-        self.__labbe = pd.DataFrame(labbe_list, columns=["sub1", "sub2", "labbe"])
+        labbe = Labbe(pd.DataFrame(labbe_list, columns=["sub1", "sub2", "labbe"]), self.__name_list)
 
         self.save_to_file(
             data=self.__labbe,
@@ -539,83 +595,6 @@ class Corpus:
         )
 
         return self
-
-    def pca(self) -> typing.Self:
-        self.mfw(False).count_mfw_tokens()
-        return self
-
-    def culling(self) -> typing.Self:
-        return self
-
-    def make_dist_matrix(self, data: pd.DataFrame) -> pd.DataFrame:
-        names = self.__name_list
-        output = pd.DataFrame(columns=names, index=names)
-
-        c = 0
-        for dist in data[data.columns[2]]:
-            if not isinstance(dist, float):
-                print("!!!!!!!")
-            row = data.iloc[c]
-            output.loc[row["sub1"], row["sub2"]] = dist
-            output.loc[row["sub2"], row["sub1"]] = dist
-            c += 1
-
-        for name in names:
-            output.loc[name, name] = 0.0
-
-        print(output)
-        print(type(output.columns[0]))
-        print(type(output.index[0]))
-        print(type(output["1024"]["952"]))
-        return output
-
-    def hdbscan(self, measure: str, min_cluster_size: int = 5, min_samples: int = 5,
-                cluster_selection_epsilon: float = 0.0, max_cluster_size: int = None,
-                leaf_size: int = 40) -> typing.Dict:
-        """
-        Performs HDBSCAN clustering on previously calculated data.
-        :param min_cluster_size:
-        :param min_samples:
-        :param max_cluster_size:
-        :param cluster_selection_epsilon:
-        :param leaf_size:
-        :param measure: "burrows", "kld" and "labbe" are valid defining which measure is to be clustered
-        :return: self
-        """
-        if measure == "burrows":
-            data = self.make_dist_matrix(self.__delta)
-        elif measure == "kld":
-            data = self.make_dist_matrix(self.__kld)
-        elif measure == "labbe":
-            data = self.make_dist_matrix(self.__labbe)
-        else:
-            raise ValueError("Parameter data must be either burrows or kld or labbe")
-
-        hdb = HDBSCAN(metric="precomputed",
-                      min_cluster_size=min_cluster_size,
-                      cluster_selection_epsilon=cluster_selection_epsilon,
-                      leaf_size=leaf_size,
-                      max_cluster_size=max_cluster_size,
-                      cluster_selection_method="eom",
-                      n_jobs=-1)
-
-        #hdb = DBSCAN(eps=cluster_selection_epsilon, min_samples=min_samples, metric="precomputed")
-
-        data = np.array(data)
-        data = data.astype(float)
-        hdb.fit_predict(data)
-
-        clusters = {}
-
-        for i in range(len(hdb.labels_)):
-            if hdb.labels_[i] not in clusters:
-                clusters[int(hdb.labels_[i])] = [self.__name_list[i]]
-            else:
-                clusters[int(hdb.labels_[i])].append(self.__name_list[i])
-
-        self.save_to_file(clusters, output_path="cluster", file_name=measure, file_format="json")
-
-        return clusters
 
     def save_to_file(self, data: pd.Series | pd.DataFrame | dict, output_path: str, file_name: str, file_format: str,
                      encoding: str = "utf-8") -> typing.Self:
