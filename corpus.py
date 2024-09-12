@@ -186,11 +186,12 @@ class Subtitle:
 
 
 class Distance:
-    def __init__(self, distance: pd.DataFrame, names: list):
+    def __init__(self, distance: pd.DataFrame, names: list, dist_type: str):
         self.__distance = distance
         self.__name_list = names
         self.__dist_matrix = None
         self.__pruned = None
+        self.__dist_type = dist_type
 
     def get_dist_matrix(self) -> pd.DataFrame:
         return self.__dist_matrix
@@ -198,18 +199,18 @@ class Distance:
     def get_pruned(self) -> pd.DataFrame:
         return self.__pruned
 
-    def make_dist_matrix(self) -> typing.Self:
+    def make_dist_matrix(self, output_path: str = None, file_name: str = None, save: bool = False) -> typing.Self:
         names = self.__name_list
         dist_matrix = []
         cout = 0
-
+        data = self.__distance
         for name in names:
             sub_dists = pd.concat([data[data.sub1 == name], data[data.sub2 == name]])
             sub_partners_1 = sub_dists[sub_dists.sub1 != name]["sub1"].tolist()
             sub_partners_2 = sub_dists[sub_dists.sub2 != name]["sub2"].tolist()
             sub_partners = sub_partners_2 + sub_partners_1 + [name]
 
-            values = sub_dists["delta"].tolist()
+            values = sub_dists[self.__dist_type].tolist()
             values.append(0)
 
             dist_matrix.append(pd.Series(values, index=sub_partners).sort_index().values)
@@ -219,16 +220,25 @@ class Distance:
                 print(cout)
 
         self.__dist_matrix = pd.DataFrame(dist_matrix, columns=names, index=names)
-        self.__dist_matrix.to_csv("stylo_out/dist_matrix.csv", index=False)
+
+        if save:
+            try:
+                os.makedirs(output_path)
+            except FileExistsError:
+                pass
+            self.__dist_matrix.to_csv(f"{output_path}/{file_name}.csv", index=False)
         # output.astype(float)
         return self
 
-    def prune(self, inverse: bool = True, n_nearest: int = 3, file_name: str = "burrows_pruned") -> typing.Self:
+    def prune(self, inverse: bool = True, n_nearest: int = 3, output_path: str = "gephi_in",
+              file_name: str = "pruned") -> typing.Self:
         output = self.__dist_matrix
         pruned_output = []
         for i in output.index:
             m = output.loc[i].astype(float).nsmallest(n_nearest + 1).index.tolist()
             for j in m:
+                if output[j][i] == 0:
+                    continue
                 if inverse:
                     pruned_output.append([i, j, round(1 / output[j][i], 6)])
                 else:
@@ -236,14 +246,23 @@ class Distance:
 
         self.__pruned = pd.DataFrame(pruned_output, columns=["Source", "Target", "Weight"])
 
-        self.__pruned.to_csv(f"gephi_in/{file_name}.csv", index=False)
+        try:
+            os.makedirs(output_path)
+        except FileExistsError:
+            pass
+        self.__pruned.to_csv(f"{output_path}/{file_name}.csv", index=False)
 
+        return self
+
+    def gephi_input(self, inverse: bool = True, n_nearest: int = 3, output_path: str = "gephi_in",
+                    file_name: str = "gephi_in") -> typing.Self:
+        self.make_dist_matrix().prune(inverse, n_nearest, output_path, file_name)
         return self
 
 
 class Burrows(Distance):
     def __init__(self, delta: pd.DataFrame, names: list):
-        super().__init__(delta, names)
+        super().__init__(delta, names, "delta")
 
     def get_delta(self) -> pd.DataFrame:
         return self.__distance
@@ -251,7 +270,7 @@ class Burrows(Distance):
 
 class Kld(Distance):
     def __init__(self, kld: pd.DataFrame, names: list, mu: float):
-        super().__init__(kld, names)
+        super().__init__(kld, names, "kld")
         self.__mu = mu
 
     def get_kld(self) -> pd.DataFrame:
@@ -263,7 +282,7 @@ class Kld(Distance):
 
 class Labbe(Distance):
     def __init__(self, labbe: pd.DataFrame, names: list):
-        super().__init__(labbe, names)
+        super().__init__(labbe, names, "labbe")
 
     def get_labbe(self) -> pd.DataFrame:
         return self.__distance
@@ -295,10 +314,6 @@ class Corpus:
         self.__mfw = None
         self.__freq_matrix = None
         self.__zscores = None
-        self.__delta = None
-        self.__kld = None
-        self.__labbe = None
-        self.__dist_matrix = None
 
     def __create_subtitles(self) -> typing.List[Subtitle]:
         """
@@ -332,15 +347,6 @@ class Corpus:
 
     def get_zscores(self) -> pd.DataFrame:
         return self.__zscores
-
-    def get_delta(self) -> pd.DataFrame:
-        return self.__delta
-
-    def get_kld(self) -> pd.DataFrame:
-        return self.__kld
-
-    def get_labbe(self) -> pd.DataFrame:
-        return self.__labbe
 
     def get_corpus_size(self):
         count = 0
@@ -448,7 +454,7 @@ class Corpus:
         ).sort_values(ascending=False).iloc[:self.__mfw_size]
 
         if save:
-            self.save_to_file(self.__mfw, output_path, "mfw_list_all", "csv")
+            self.__save_to_file(self.__mfw, output_path, "mfw_list_all", "csv")
         return self
 
     def load_mfw(self) -> typing.Self:
@@ -472,7 +478,7 @@ class Corpus:
         self.__freq_matrix = pd.DataFrame(self.__freq_matrix.values, columns=sub_names)
 
         if save:
-            self.save_to_file(self.__freq_matrix, output_path, "mfw_frequency_table", "csv")
+            self.__save_to_file(self.__freq_matrix, output_path, "mfw_frequency_table", "csv")
 
         return self
 
@@ -524,15 +530,10 @@ class Corpus:
         delta = self.mfw().count_mfw_tokens().z_score().delta()
 
         if save:
-            self.save_to_file(
-                data=self.__delta,
-                output_path=output_path,
-                file_name=file_name,
-                file_format="csv"
-            )
+            self.__save_to_file(data=delta, output_path=output_path, file_name=file_name, file_format="csv")
         return delta
 
-    def kld(self, mu: float):
+    def kld(self, mu: float, save: bool = True, output_path: str = "stylo_out", file_name: str = "kld") -> Kld:
         self.mfw().count_mfw_tokens()
         B = self.get_corpus_size()
         p_t_B = self.__freq_matrix.sum(axis=1) / B
@@ -559,16 +560,12 @@ class Corpus:
 
         kld = Kld(pd.DataFrame(kld_list, columns=["sub1", "sub2", "kld"]), self.__name_list, mu)
 
-        self.save_to_file(
-            data=self.__kld,
-            output_path="stylo_out",
-            file_name="kld",
-            file_format="csv"
-        )
+        if save:
+            self.__save_to_file(data=kld, output_path=output_path, file_name=file_name, file_format="csv")
 
         return kld
 
-    def labbe(self) -> typing.Self:
+    def labbe(self, save: bool = True, output_path: str = "stylo_out", file_name: str = "labbe") -> Labbe:
         self.count_all_tokens()
         cols = self.__freq_matrix.columns
         counter = 1
@@ -587,17 +584,13 @@ class Corpus:
 
         labbe = Labbe(pd.DataFrame(labbe_list, columns=["sub1", "sub2", "labbe"]), self.__name_list)
 
-        self.save_to_file(
-            data=self.__labbe,
-            output_path="stylo_out",
-            file_name="labbe",
-            file_format="csv"
-        )
+        if save:
+            self.__save_to_file(data=labbe, output_path=output_path, file_name=file_name, file_format="csv")
 
-        return self
+        return labbe
 
-    def save_to_file(self, data: pd.Series | pd.DataFrame | dict, output_path: str, file_name: str, file_format: str,
-                     encoding: str = "utf-8") -> typing.Self:
+    def __save_to_file(self, data: pd.Series | pd.DataFrame | dict, output_path: str, file_name: str, file_format: str,
+                       encoding: str = "utf-8") -> typing.Self:
         path = os.path.join(output_path, f"{file_name}.{file_format}")
         try:
             os.makedirs(output_path)
