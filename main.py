@@ -1,24 +1,43 @@
 from corpus import *
-import time
 
 
-def main():
-    temp0 = time.time()
-    # corpus = Corpus("test_corpus_clean", file_format="txt", encoding="utf-8")
-
-    corpus = Corpus("corpus", file_format="srt", encoding="ansi")
+def test():
+    mfw_list = [150, 200, 300, 400, 500, 700, 1000]
+    mu_list = [0.1, 0.3, 0.5, 1, 3, 5, 10, 20, 25]
+    corpus = Corpus("test_run", file_format="srt", encoding="ansi")
     corpus.clean_subtitles()
-    temp1 = time.time()
-    print("Cleaning done\nDuration:", temp1 - temp0)
-    burrows = corpus.burrows_delta().get_delta()
-    temp2 = time.time()
-    print("Burrows done\nDuration:", temp2 - temp1)
-    cluster = corpus.hdbscan("burrows", 3, 3, 0.21, 9, leaf_size=500)
-    temp3 = time.time()
-    print("HDBSCAN done\nDuration:", temp3 - temp2)
-    print(burrows)
-    print(cluster)
+
+    # Test Burrows
+    for mfw in mfw_list:
+        corpus.set_mfw_size(mfw)
+        corpus.burrows_delta(save=False).gephi_input(output_path="stylo_out", file_name=f"burrows_{mfw}")
+
+    # Test KLD
+    for mfw in mfw_list:
+        corpus.set_mfw_size(mfw)
+        for mu in mu_list:
+            corpus.kld(mu, save=False).gephi_input(output_path="stylo_out", file_name=f"kld_{mfw}_{mu}")
+
+    # Test Labbe
+    corpus.labbe(save=False).gephi_input(output_path="stylo_out", file_name=f"labbe")
+
+    corpus.ner()
+    corpus.set_ner_usage(True)
+
+    # Test Burrows mit NER
+    for mfw in mfw_list:
+        corpus.set_mfw_size(mfw)
+        corpus.burrows_delta(save=False).gephi_input(output_path="stylo_out", file_name=f"burrows_{mfw}_ner")
+
+    # Test KLD mit NER
+    for mfw in mfw_list:
+        corpus.set_mfw_size(mfw)
+        for mu in mu_list:
+            corpus.kld(mu, save=False).gephi_input(output_path="stylo_out", file_name=f"kld_{mfw}_{mu}_ner")
+
+    # Test Labbe mit NER
+    corpus.labbe(save=False).gephi_input(output_path="stylo_out", file_name=f"labbe_ner")
 
 
 if __name__ == '__main__':
-    main()
+    test()
