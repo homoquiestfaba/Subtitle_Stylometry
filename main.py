@@ -1,3 +1,5 @@
+import time
+
 from corpus import *
 
 
@@ -7,6 +9,7 @@ def test():
     corpus = Corpus("test_run", file_format="srt", encoding="ansi")
     corpus.clean_subtitles()
 
+    """
     # Test Burrows
     for mfw in mfw_list:
         corpus.set_mfw_size(mfw)
@@ -19,7 +22,8 @@ def test():
             corpus.kld(mu, save=False).gephi_input(output_path="stylo_out", file_name=f"kld_{mfw}_{mu}")
 
     # Test Labbe
-    corpus.labbe(save=False).gephi_input(output_path="stylo_out", file_name=f"labbe")
+    corpus.labbe(save=False).gephi_input(output_path="stylo_out", file_name="labbe")
+    """
 
     corpus.ner()
     corpus.set_ner_usage(True)
@@ -27,16 +31,16 @@ def test():
     # Test Burrows mit NER
     for mfw in mfw_list:
         corpus.set_mfw_size(mfw)
-        corpus.burrows_delta(save=False).gephi_input(output_path="stylo_out", file_name=f"burrows_{mfw}_ner")
+        corpus.burrows_delta(save=False).gephi_input(output_path="stylo_out/test_run", file_name=f"burrows_{mfw}_ner")
 
     # Test KLD mit NER
     for mfw in mfw_list:
         corpus.set_mfw_size(mfw)
         for mu in mu_list:
-            corpus.kld(mu, save=False).gephi_input(output_path="stylo_out", file_name=f"kld_{mfw}_{mu}_ner")
+            corpus.kld(mu, save=False).gephi_input(output_path="stylo_out/test_run", file_name=f"kld_{mfw}_{mu}_ner")
 
     # Test Labbe mit NER
-    corpus.labbe(save=False).gephi_input(output_path="stylo_out", file_name=f"labbe_ner")
+    corpus.labbe(save=False).gephi_input(output_path="stylo_out/test_run", file_name="labbe_ner")
 
 
 if __name__ == '__main__':

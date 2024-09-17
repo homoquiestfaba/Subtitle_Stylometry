@@ -103,7 +103,7 @@ class Subtitle:
         if save:
             self.__save_to_file(self.__text, output_path, "txt", encoding)
 
-    def ner(self, save: bool, output_path: str) -> None:
+    def ner(self, nlp, save: bool, output_path: str) -> None:
         """
         Performs NER with SpaCy-Model "en_core_web_trf" and replaces words with entity type
         Example: "Sauron betrayed them all" --> "PERSON betrayed them all"]
@@ -111,8 +111,6 @@ class Subtitle:
         :param output_path: Output folder for saving file
         :return: None
         """
-        nlp = spacy.load("en_core_web_trf")
-        nlp.add_pipe("merge_entities")
         doc = nlp(self.__text)
         self.__ner_text = " ".join([t.text if not t.ent_type_ else t.ent_type_ for t in doc])
         if save:
@@ -402,9 +400,12 @@ class Corpus:
         :return: None
         """
         i = 1
+        nlp = spacy.load("en_core_web_trf")
+        nlp.add_pipe("merge_entities")
         for sub in self.__subtitles:
             print(str(i) + "/" + str(len(self.__subtitles)))
             sub.ner(
+                nlp = nlp,
                 save=save,
                 output_path=output_path)
             i += 1
